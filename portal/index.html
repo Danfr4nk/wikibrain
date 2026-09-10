@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DAN FRANK — WIKI-BRAIN PORTAL</title>
+<!--
+  PORTAL PROTOTYPE (probe, not production).
+  - Single file. No external assets, no fonts, no images. Nothing to flag.
+  - Reads live data from the wikitest build: graph.json (nodes/layers/edges).
+  - Deliberately NOT part of bin/wb-build. If this direction is approved,
+    the wiring decision is: wb-build copies portal/ -> site/portal/.
+-->
+<style>
+  :root{
+    --bg:#060606; --panel:#0b0b0e; --line:#2a2a30;
+    --mag:#ff2bd1; --pur:#9b30ff; --lime:#b8ff00; --yel:#ffe900;
+    --cyn:#00e5ff; --red:#ff3131; --wht:#f2f2f2; --dim:#8a8a93;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  html,body{background:var(--bg); color:var(--wht);
+    font-family:"Courier New",ui-monospace,Menlo,Consolas,monospace;
+    font-size:14px; line-height:1.45;}
+  body::after{ /* scanlines */
+    content:""; position:fixed; inset:0; pointer-events:none; z-index:99;
+    background:repeating-linear-gradient(0deg, rgba(0,0,0,.22) 0 1px, transparent 1px 3px);
+    mix-blend-mode:multiply;
+  }
+  a{color:var(--cyn);}
+  ::-webkit-scrollbar{width:10px;height:10px;}
+  ::-webkit-scrollbar-track{background:#0a0a0a;}
+  ::-webkit-scrollbar-thumb{background:var(--pur); border:2px solid #0a0a0a;}
+
+  /* ---------- tickers ---------- */
+  .ticker{overflow:hidden; white-space:nowrap; border-top:2px solid var(--line);
+    border-bottom:2px solid var(--line); background:#000; padding:6px 0;
+    font-weight:bold; letter-spacing:1px; font-size:13px;}
+  .ticker.top{border-top:none;}
+  .ticker .run{display:inline-block; padding-left:100%; animation:scroll 40s linear infinite;}
+  .ticker.bot .run{animation-duration:55s;}
+  @keyframes scroll{from{transform:translateX(0);}to{transform:translateX(-100%);}}
+  .tk{padding:2px 10px; margin:0 4px; border:1px solid transparent;}
+  .tk.m{color:var(--mag);} .tk.l{color:var(--lime);} .tk.y{color:var(--yel);}
+  .tk.c{color:var(--cyn);} .tk.r{color:var(--red);} .tk.p{color:var(--pur);}
+  .tk.w{color:var(--wht);}
+
+  /* ---------- header ---------- */
+  header{display:flex; align-items:center; gap:14px; padding:10px 14px;
+    border-bottom:2px solid var(--mag); background:#0a0a0c; flex-wrap:wrap;}
+  .brand{font-size:26px; font-weight:900; letter-spacing:2px; color:var(--wht);
+    text-shadow:2px 2px 0 var(--mag), -1px -1px 0 var(--cyn);}
+  .brand small{font-size:11px; color:var(--mag); vertical-align:super;}
+  .cube{width:18px;height:18px;background:var(--pur);border:2px solid #000;
+    box-shadow:0 0 8px var(--pur);}
+  nav.tabs{display:flex; gap:6px; flex-wrap:wrap; margin-left:8px;}
+  nav.tabs button{background:#111; color:var(--wht); border:2px solid var(--line);
+    font:inherit; font-size:11px; font-weight:bold; letter-spacing:1px;
+    padding:7px 10px; cursor:pointer;}
+  nav.tabs button .pre{color:var(--mag); margin-right:4px;}
+  nav.tabs button:hover{border-color:var(--mag);}
+  nav.tabs button.active{background:var(--mag); color:#000; border-color:var(--mag);}
+  nav.tabs button.active .pre{color:#000;}
+
+  .subbar{display:flex; align-items:center; gap:14px; padding:6px 14px;
+    background:#0d0d10; border-bottom:2px solid var(--line); font-size:12px;
+    font-weight:bold; flex-wrap:wrap;}
+  .meter{display:flex; align-items:center; gap:8px;}
+  .meter .bar{width:130px; height:12px; border:2px solid var(--line); background:#000; position:relative;}
+  .meter .fill{position:absolute; inset:0; width:95%; background:linear-gradient(90deg,var(--lime),var(--yel),var(--red));}
+  .badge{background:var(--red); color:#fff; padding:2px 8px; font-size:11px;}
+  .sq{width:14px;height:14px;border:2px solid var(--line); display:inline-block;}
+  .sq.l{background:var(--lime);} .sq.y{background:var(--yel);} .sq.c{background:var(--cyn);} .sq.m{background:var(--mag);}
+
+  /* ---------- layout ---------- */
+  main{display:grid; grid-template-columns: 1fr 340px; gap:12px; padding:12px 14px; min-height:60vh;}
+  @media (max-width:900px){ main{grid-template-columns:1fr;} }
+  .panel{background:var(--panel); border:2px solid var(--line); padding:12px; position:relative;}
+  .panel h2{font-size:13px; letter-spacing:2px; color:var(--yel); margin-bottom:10px;
+    border-bottom:1px dashed var(--line); padding-bottom:6px;}
+  .tabpage{display:none;}
+  .tabpage.active{display:block;}
+
+  /* void canvas hero */
+  #void{width:100%; height:340px; display:block; background:#000; border:2px solid var(--pur);}
+  .voidcap{display:flex; justify-content:space-between; font-size:11px; color:var(--dim);
+    padding:6px 2px 0; letter-spacing:1px;}
+
+  /* vibe panel */
+  .vrow{display:flex; justify-content:space-between; font-size:12px; padding:5px 0;
+    border-bottom:1px dotted #222;}
+  .vrow b{color:var(--lime);}
+  .chaosbar{height:10px; background:#000; border:1px solid var(--line); margin-top:4px; position:relative;}
+  .chaosbar i{position:absolute; inset:0; width:95%; background:linear-gradient(90deg,var(--pur),var(--mag));}
+
+  /* the net */
+  #netinput{width:100%; background:#000; border:2px solid var(--mag); color:var(--lime);
+    font:inherit; padding:10px; margin-top:6px; outline:none;}
+  #netinput:focus{box-shadow:0 0 10px var(--mag);}
+  .nethint{font-size:11px; color:var(--dim); margin-top:6px;}
+
+  /* node browser */
+  .layerbtns{display:flex; gap:6px; flex-wrap:wrap; margin-bottom:10px;}
+  .layerbtns button{font:inherit; font-size:11px; font-weight:bold; padding:5px 9px;
+    background:#111; color:var(--wht); border:2px solid var(--line); cursor:pointer;}
+  .layerbtns button.active{border-color:var(--lime); color:var(--lime);}
+  #nodelist{max-height:420px; overflow-y:auto; border:1px solid var(--line);}
+  .node{padding:8px 10px; border-bottom:1px solid #1c1c22; cursor:pointer;}
+  .node:hover{background:#141419;}
+  .node.sel{background:#1c0f1a; border-left:3px solid var(--mag);}
+  .node .nid{font-size:10px; color:var(--dim);}
+  .node .nt{font-weight:bold; font-size:13px;}
+  .lbadge{display:inline-block; font-size:10px; font-weight:bold; padding:1px 6px;
+    margin-right:6px; border:1px solid;}
+  .L0{color:var(--cyn); border-color:var(--cyn);} .L1{color:var(--lime); border-color:var(--lime);}
+  .L2{color:var(--yel); border-color:var(--yel);} .L3{color:#ffa500; border-color:#ffa500;}
+  .L4{color:var(--mag); border-color:var(--mag);} .L5{color:var(--red); border-color:var(--red);}
+  #nodedetail{margin-top:10px; border:2px solid var(--pur); padding:10px; font-size:12px;
+    max-height:300px; overflow-y:auto; background:#0d0a12;}
+  #nodedetail h3{color:var(--wht); font-size:14px; margin-bottom:6px;}
+  #nodedetail .meta{color:var(--dim); font-size:11px; margin-bottom:8px;}
+  #nodedetail p{color:#cfcfd6; white-space:pre-wrap;}
+  .tag{display:inline-block; font-size:10px; border:1px solid var(--line); color:var(--cyn);
+    padding:1px 6px; margin:2px 4px 2px 0;}
+
+  /* stubs */
+  .stamp{display:inline-block; border:3px double var(--red); color:var(--red);
+    font-weight:900; letter-spacing:3px; padding:8px 16px; transform:rotate(-4deg);
+    margin:16px 0; font-size:18px;}
+  .stubdesc{color:#cfcfd6; max-width:60ch;}
+  .stubdesc b{color:var(--yel);}
+
+  footer{border-top:2px solid var(--mag); padding:10px 14px; font-size:11px; color:var(--dim);
+    display:flex; justify-content:space-between; flex-wrap:wrap; gap:8px; background:#0a0a0c;}
+  .err{color:var(--red); font-weight:bold;}
+  .ok{color:var(--lime);}
+</style>
+</head>
+<body>
+
+<div class="ticker top"><span class="run" id="tickTop"></span></div>
+
+<header>
+  <div class="cube"></div>
+  <div class="brand">DAN FRANK <small>防衛</small></div>
+  <nav class="tabs" id="tabs"></nav>
+</header>
+
+<div class="subbar">
+  <span class="meter">CHAOS <span class="bar"><span class="fill"></span></span> <b style="color:var(--yel)">9.5</b></span>
+  <span class="badge">BOIZON ON</span>
+  <span><span class="sq l"></span> <span class="sq y"></span> <span class="sq c"></span> <span class="sq m"></span></span>
+  <span style="color:var(--dim)">GRAPH: <span id="graphstat" class="ok">CONNECTING…</span></span>
+  <span style="margin-left:auto; color:var(--dim)" id="clock"></span>
+</div>
+
+<main>
+  <section>
+    <!-- WIKI-BRAIN -->
+    <div class="tabpage active" id="page-wikibrain">
+      <div class="panel">
+        <h2>▚ THE VOID — LIVE KNOWLEDGE GRAPH</h2>
+        <canvas id="void"></canvas>
+        <div class="voidcap"><span>RENDER: PARTICLE FIELD // 88 NODES</span><span>VIBE: VOID</span></div>
+      </div>
+      <div class="panel" style="margin-top:12px;">
+        <h2>▚ NODE BROWSER — <span id="nodecount">…</span></h2>
+        <div class="layerbtns" id="layerbtns"></div>
+        <div id="nodelist"></div>
+        <div id="nodedetail"><span style="color:var(--dim)">Select a node to inspect it. Cites below; interpretations never pose as evidence.</span></div>
+      </div>
+    </div>
+
+    <!-- stubs for the other eight tabs -->
+    <div class="tabpage" id="page-sage"><div class="panel"><h2>🧙 THE SAGE</h2><div class="stamp">NOT BUILT YET</div><p class="stubdesc"><b>Intended:</b> the ask interface — layered retrieval over the graph (<span style="color:var(--cyn)">bin/wb-query</span> with the personality prior), answers that cite nodes instead of vibes. Every claim traceable to L0.</p></div></div>
+    <div class="tabpage" id="page-words"><div class="panel"><h2>📝 WORDS</h2><div class="stamp">NOT BUILT YET</div><p class="stubdesc"><b>Intended:</b> the lexicon — voice calibration, pivot words, register analysis drawn from the message corpus. The 23,286-word fingerprint, queryable.</p></div></div>
+    <div class="tabpage" id="page-lattice"><div class="panel"><h2>▦ THE LATTICE</h2><div class="stamp">NOT BUILT YET</div><p class="stubdesc"><b>Intended:</b> typed-edge graph visualization — causal, temporal, structural, semantic, narrative and editorial families rendered as a navigable lattice. Strength, basis and asserted_by on every edge.</p></div></div>
+    <div class="tabpage" id="page-leviathan"><div class="panel"><h2>🐋 LEVIATHAN</h2><div class="stamp">NOT BUILT YET</div><p class="stubdesc"><b>Intended:</b> the deep archive trawler — full-text pressure over the 497-page snapshot and the raw corpus. Finds what keyword search misses.</p></div></div>
+    <div class="tabpage" id="page-gallery"><div class="panel"><h2>🖼 THE GALLERY</h2><div class="stamp">NOT BUILT YET</div><p class="stubdesc"><b>Intended:</b> image intake and multimodal corroboration (roadmap §3). EXIF as L1 datum, model readings as L3 interpretation — never confused.</p></div></div>
+    <div class="tabpage" id="page-transcript"><div class="panel"><h2>📼 THE TRANSCRIPT</h2><div class="stamp">NOT BUILT YET</div><p class="stubdesc"><b>Intended:</b> session logs — the build history of the wiki itself, every extraction and climb, replayable.</p></div></div>
+    <div class="tabpage" id="page-arcade"><div class="panel"><h2>👾 THE ARCADE</h2><div class="stamp">NOT BUILT YET</div><p class="stubdesc"><b>Intended:</b> the games. Matter.js chaos engines, rebuilt without the assets that got the old account flagged.</p></div></div>
+    <div class="tabpage" id="page-transmissions"><div class="panel"><h2>📡 TRANSMISSIONS</h2><div class="stamp">NOT BUILT YET</div><p class="stubdesc"><b>Intended:</b> the feed — findings, corrections and falsifications as they land, newest first. The wiki thinking out loud.</p></div></div>
+  </section>
+
+  <aside>
+    <div class="panel">
+      <h2>▚ VIBE</h2>
+      <div class="vrow"><span>VIBE</span><b>VOID</b></div>
+      <div class="vrow"><span>CHAOS</span><b>9.5</b></div>
+      <div class="chaosbar"><i></i></div>
+      <div class="vrow" style="margin-top:6px;"><span>RISK</span><b>ONLINE</b></div>
+      <div class="vrow"><span>NODES</span><b id="vibenodes">…</b></div>
+      <div class="vrow"><span>LAST</span><b id="vibelast">…</b></div>
+    </div>
+    <div class="panel" style="margin-top:12px;">
+      <h2 style="color:var(--mag);">▚ THE NET</h2>
+      <p style="font-size:12px; color:#cfcfd6;">Words caught before they are understood. Type one in and it is fed to the wiki — matched live against the node browser.</p>
+      <input id="netinput" placeholder="type a word…" autocomplete="off" spellcheck="false">
+      <p class="nethint" id="nethint">0 nodes hooked.</p>
+    </div>
+    <div class="panel" style="margin-top:12px;">
+      <h2>▚ LAW</h2>
+      <p style="font-size:11px; color:var(--dim);">RAW DATA → STRUCTURED FACT → INTERPRETATION → SYNTHESIS.<br>NEVER THE REVERSE.<br><br>A node may cite only nodes at a strictly lower layer.</p>
+    </div>
+  </aside>
+</main>
+
+<div class="ticker bot"><span class="run" id="tickBot"></span></div>
+
+<footer>
+  <span>PORTAL PROBE — single file, no assets, reads <b>graph.json</b> live. Not part of bin/wb-build.</span>
+  <span id="footstat">graph: <span class="err">not loaded</span></span>
+</footer>
+
+<script>
+"use strict";
+const GRAPH_URL = "https://danfr4nk.github.io/wikitest/graph.json";
+const $ = id => document.getElementById(id);
+
+/* ---------- tickers ---------- */
+const TOP = ["GET REAL","SKILL ISSUE","GIT GUD","UNINSTALL","TOUCH GRASS","NOBODY CARES",
+  "DELETE THIS","DELETE YOUR ACCOUNT","TAKE THE L","CERTIFIED L","COPE","SEETHE","MALD","COPE HARDER"];
+const BOT = ["YOU WILL LOVE YOUR IMMIGRANT NEIGHBORS","JUST LET THE WOKE CONSUME YOU",
+  "GET THOSE MICRO BANGS","JUST PUT THE PRONOUNS IN THE BIO LIL BRO","EAT THE RICH",
+  "SIC SEMPER TYRANNIS","DO DRUGS","DIV OR DON'T","ACAB","TRANS RIGHTS","NO GODS NO MASTERS",
+  "JET FUEL CAN'T MELT STEEL BEAMS","BUILD ONE","GET FUCKED"];
+const CLS = ["m","l","y","c","r","p","w"];
+function fillTicker(el, words){
+  let html = "";
+  for(let r=0; r<3; r++) words.forEach((w,i)=>{
+    html += `<span class="tk ${CLS[(i+r)%CLS.length]}">✦ ${w}</span>`;
+  });
+  el.innerHTML = html + html; /* double for seamless loop */
+}
+fillTicker($("tickTop"), TOP);
+fillTicker($("tickBot"), BOT);
+
+/* ---------- tabs ---------- */
+const TABS = [
+  ["wikibrain","WIKI-BRAIN","電"],["sage","THE SAGE","賢"],["words","WORDS","語"],
+  ["lattice","THE LATTICE","格"],["leviathan","LEVIATHAN","鯨"],["gallery","THE GALLERY","画"],
+  ["transcript","THE TRANSCRIPT","録"],["arcade","THE ARCADE","遊"],["transmissions","TRANSMISSIONS","信"],
+];
+const tabsEl = $("tabs");
+TABS.forEach(([key,label,pre],i)=>{
+  const b = document.createElement("button");
+  b.innerHTML = `<span class="pre">${pre}</span>${label}`;
+  if(i===0) b.classList.add("active");
+  b.onclick = ()=>{
+    document.querySelectorAll("nav.tabs button").forEach(x=>x.classList.remove("active"));
+    b.classList.add("active");
+    document.querySelectorAll(".tabpage").forEach(p=>p.classList.remove("active"));
+    $("page-"+key).classList.add("active");
+  };
+  tabsEl.appendChild(b);
+});
+
+/* ---------- clock ---------- */
+setInterval(()=>{ $("clock").textContent = new Date().toISOString().replace("T"," ").slice(0,19)+"Z"; },1000);
+
+/* ---------- void canvas ---------- */
+const cv = $("void"), ctx = cv.getContext("2d");
+let W,H,parts=[];
+function sizeVoid(){ W = cv.width = cv.offsetWidth; H = cv.height = 340; }
+sizeVoid(); addEventListener("resize", sizeVoid);
+for(let i=0;i<140;i++) parts.push({x:Math.random(),y:Math.random(),s:Math.random()*2+.4,
+  v:Math.random()*.0009+.0002, c:["#ff2bd1","#9b30ff","#00e5ff","#b8ff00"][i%4]});
+(function loop(){
+  ctx.fillStyle="#000"; ctx.fillRect(0,0,W,H);
+  const g = ctx.createRadialGradient(W/2,H/2,10,W/2,H/2,W/2.2);
+  g.addColorStop(0,"rgba(155,48,255,.16)"); g.addColorStop(1,"rgba(0,0,0,0)");
+  ctx.fillStyle=g; ctx.fillRect(0,0,W,H);
+  parts.forEach(p=>{
+    p.y -= p.v; if(p.y<0){p.y=1;p.x=Math.random();}
+    ctx.fillStyle=p.c; ctx.globalAlpha=.75; ctx.fillRect(p.x*W,p.y*H,p.s,p.s);
+  });
+  ctx.globalAlpha=1;
+  ctx.strokeStyle="rgba(255,43,209,.5)"; ctx.lineWidth=2;
+  ctx.strokeRect(4,4,W-8,H-8);
+  requestAnimationFrame(loop);
+})();
+
+/* ---------- graph ---------- */
+let NODES=[], layerFilter=-1, netFilter="";
+const LBL=["L0 SOURCES","L1 DATA","L2 ENTITIES","L3 INTERP","L4 PATTERNS","L5 SYNTH"];
+
+function renderLayerBtns(){
+  const el=$("layerbtns"); el.innerHTML="";
+  const mk=(label,val)=>{
+    const b=document.createElement("button"); b.textContent=label;
+    if(val===layerFilter)b.classList.add("active");
+    b.onclick=()=>{layerFilter=val;renderLayerBtns();renderList();};
+    el.appendChild(b);
+  };
+  mk("ALL",-1); LBL.forEach((l,i)=>mk(l,i));
+}
+function filtered(){
+  const q=netFilter.trim().toLowerCase();
+  return NODES.filter(n=>(layerFilter<0||n.layer===layerFilter) &&
+    (!q || (n.title+" "+n.id+" "+(n.tags||[]).join(" ")).toLowerCase().includes(q)));
+}
+function renderList(){
+  const list=$("nodelist"); const ns=filtered();
+  $("nodecount").textContent=ns.length+" / "+NODES.length+" NODES";
+  $("nethint").textContent=ns.length+" nodes hooked.";
+  list.innerHTML="";
+  ns.slice(0,400).forEach(n=>{
+    const d=document.createElement("div"); d.className="node";
+    d.innerHTML=`<span class="lbadge L${n.layer}">L${n.layer}</span><span class="nt">${esc(n.title)}</span><br><span class="nid">${esc(n.id)} · ${esc(n.type||"")}</span>`;
+    d.onclick=()=>{document.querySelectorAll(".node").forEach(x=>x.classList.remove("sel"));
+      d.classList.add("sel"); renderDetail(n);};
+    list.appendChild(d);
+  });
+  if(ns.length>400){const m=document.createElement("div");m.className="node";
+    m.innerHTML=`<span class="nid">… ${ns.length-400} more — narrow with THE NET</span>`;list.appendChild(m);}
+}
+function renderDetail(n){
+  const el=$("nodedetail");
+  const cites=(n.cites||[]).map(c=>`<span class="tag">↖ ${esc(c)}</span>`).join("");
+  const tags=(n.tags||[]).map(t=>`<span class="tag">${esc(t)}</span>`).join("");
+  const body=(n.body||"").slice(0,900);
+  el.innerHTML=`<h3><span class="lbadge L${n.layer}">L${n.layer}</span>${esc(n.title)}</h3>
+    <div class="meta">${esc(n.id)} · ${esc(n.type||"")} · conf: ${esc(n.confidence||"?")} · imp: ${n.importance??"?"}</div>
+    ${tags}<p>${esc(body)}${(n.body||"").length>900?"…":""}</p>
+    ${cites?`<div style="margin-top:8px">${cites}</div>`:""}
+    ${n.url?`<div style="margin-top:8px"><a href="${esc(n.url)}" target="_blank" rel="noopener">open node ↗</a></div>`:""}`;
+}
+function esc(s){return String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));}
+
+$("netinput").addEventListener("input",e=>{netFilter=e.target.value;renderList();});
+
+fetch(GRAPH_URL).then(r=>{if(!r.ok)throw new Error(r.status);return r.json();})
+.then(g=>{
+  NODES=g.nodes||[];
+  $("graphstat").textContent=`${NODES.length} NODES · LIVE`;
+  $("vibenodes").textContent=NODES.length;
+  $("vibelast").textContent=new Date().toISOString().slice(0,10);
+  $("footstat").innerHTML=`graph: <span class="ok">live</span> · base: ${esc(g.base_url||"")}`;
+  renderLayerBtns(); renderList();
+}).catch(err=>{
+  $("graphstat").textContent="OFFLINE"; $("graphstat").className="err";
+  $("footstat").innerHTML=`graph: <span class="err">failed — ${esc(err.message)}</span>`;
+  $("nodelist").innerHTML=`<div class="node"><span class="err">graph.json unreachable.</span> <span class="nid">Check the deployment, then reload.</span></div>`;
+});
+renderLayerBtns();
+</script>
+</body>
+</html>

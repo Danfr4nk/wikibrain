@@ -1,0 +1,224 @@
+#!/usr/bin/env python3
+"""Regression tests for bin/wb-census.
+
+The census exists to settle a published falsifier, so its two failure modes
+are not cosmetic — each one, uncaught, produces a different answer to the
+question `pat:audit-strong-on-numbers-weak-on-meaning` turns on. Both were
+committed for real before these tests existed (dat:0042):
+
+  1. Summing RE-CHECKED into the error count. It is 49% of all dated blocks
+     and fires on citation churn, not on error.
+  2. Counting bare tokens rather than dated blocks, which lets
+     wiki/meta/recent-activity.md — a changelog that NAMES 101 corrections
+     belonging to other pages — dominate the census as the most
+     self-correcting area in the corpus.
+
+These run against the real export rather than a fixture. The export is
+tracked and sha256-pinned, so the numbers are stable; if it is ever replaced
+these tests should fail rather than quietly re-baseline.
+
+Usage:  tests/test-census
+"""
+
+from __future__ import annotations
+
+import json
+import pathlib
+import re
+import subprocess
+import sys
+
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+CENSUS = ROOT / "bin" / "wb-census"
+
+passed = failed = 0
+
+
+def check(name: str, condition: bool, detail: str = "") -> None:
+    global passed, failed
+    if condition:
+        passed += 1
+        print(f"  pass  {name}")
+    else:
+        failed += 1
+        print(f"  FAIL  {name}")
+        if detail:
+            print(f"        {detail}")
+
+
+def main() -> int:
+    proc = subprocess.run([sys.executable, str(CENSUS)],
+                          capture_output=True, text=True, cwd=ROOT)
+    out = proc.stdout
+    check("census runs clean", proc.returncode == 0, proc.stderr.strip())
+
+    rows = {}
+    for line in out.splitlines():
+        m = re.match(r"^([a-z()]+)\s+(\d+)\s+(\d+)\s+([\d.]+)\s+([\d.]+)", line)
+        if m:
+            rows[m.group(1)] = {"pages": int(m.group(2)),
+                                "errors": int(m.group(3)),
+                                "per_page": float(m.group(4)),
+                                "per_10kb": float(m.group(5))}
+
+    check("all ten areas reported", len(rows) == 10, sorted(rows))
+    check("the marker definition is printed, not implied",
+          "marker definition:" in out)
+
+    # RE-CHECKED is reported and never summed. 274 error marks, 265 re-checks:
+    # if the two were added the total would be 539 and every rate would roughly
+    # double.
+    total = sum(r["errors"] for r in rows.values())
+    check("RE-CHECKED is excluded from the error count",
+          total == 274, f"expected 274 error marks, got {total}")
+    check("RE-CHECKED is still reported", "rechk/pg" in out)
+
+    # meta/ is the changelog trap. Under the dated-block definition it is the
+    # LOWEST area in the corpus; under bare-token matching it was the highest.
+    meta = rows.get("meta", {})
+    check("meta/ does not lead the census",
+          meta.get("errors", 999) <= 2,
+          f"meta/ returned {meta.get('errors')} error marks — the bare-token "
+          f"definition has come back and recent-activity.md is being counted")
+
+    # The length normalisation is what the finding rests on: per page mind/
+    # leads health/ by 45%, per 10 kB they are level. Both columns must exist
+    # and must disagree, or the tool has stopped normalising.
+    mind, health = rows.get("mind", {}), rows.get("health", {})
+    check("per-page and per-10kB rates are both reported and differ for mind/",
+          mind.get("per_page", 0) > mind.get("per_10kb", 0) * 1.5,
+          f"mind/ {mind}")
+    check("mind/ and health/ are level once normalised for page length",
+          abs(mind.get("per_10kb", 0) - health.get("per_10kb", 9)) < 0.05,
+          f"mind/ {mind.get('per_10kb')} vs health/ {health.get('per_10kb')}")
+
+    # --recency splits the census on the wiki's own changelog. The split is
+    # what dat:0043 rests on, and it is the reason the headline table must not
+    # be read as a rate of self-correction.
+    rec = subprocess.run([sys.executable, str(CENSUS), "--recency"],
+                         capture_output=True, text=True, cwd=ROOT)
+    check("--recency runs clean", rec.returncode == 0, rec.stderr.strip())
+    check("--recency reports the changelog it split on",
+          "wiki/meta/recent-activity.md" in rec.stdout)
+    check("the split is 247 of 497 pages",
+          "247 of 497 pages listed" in rec.stdout, rec.stdout.splitlines()[:1])
+    check("91% of marks sit on 50% of pages",
+          "91% of the marks sit on the 50% of pages" in rec.stdout,
+          rec.stdout.strip().splitlines()[-1:])
+    # interests/ is the case that carries the argument: 0.11 marks per page
+    # over the whole corpus, 0.46 over the quarter of it that was worked.
+    m = re.search(r"^interests\s+\d+\s+\d+\s+([\d.]+)", rec.stdout, re.M)
+    check("interests/ quadruples once the untouched three quarters are removed",
+          m is not None and abs(float(m.group(1)) - 0.46) < 0.02,
+          f"got {m.group(1) if m else None}, expected 0.46")
+
+    # dat:0052, rule 2 from the prior wiki's instrument layer: a number
+    # somebody could quietly adjust is not a measurement. dat:0042 and dat:0043
+    # publish tables pasted from this tool. Nothing but this check stops the
+    # tool and the nodes from drifting apart, and a stale table in a node is a
+    # claim the repository is making and cannot see is false.
+    def table_matches(node_path, tool_stdout, label):
+        text = pathlib.Path(ROOT / node_path).read_text()
+        block = re.search(r"```\n(area.*?)```", text, re.S)
+        if not block:
+            check(f"{label} publishes a census table", False, node_path)
+            return
+        live = {l.rstrip() for l in tool_stdout.splitlines() if l.strip()}
+        missing = [l.rstrip() for l in block.group(1).splitlines()
+                   if l.strip() and l.rstrip() not in live]
+        check(f"{label}'s table still matches the tool",
+              not missing,
+              f"rows in the node that the tool no longer produces: {missing[:3]}")
+
+    table_matches("kb/data/0042-marker-census-does-not-support-the-pattern.md",
+                  out, "dat:0042")
+    table_matches("kb/data/0043-correction-density-tracks-work-recency.md",
+                  rec.stdout, "dat:0043")
+
+    # dat:0054. The Facebook parser dropped one side of any thread whose
+    # counterparty the export left unnamed — silently, as a monologue.
+    #
+    # The thread bodies are gitignored and always will be: they are ~500 other
+    # people's private words. So CI never has them, and two of these three
+    # checks cannot run there. They are SKIPPED OUT LOUD rather than quietly
+    # passing, because a check that stops firing and still reports green is the
+    # failure this file exists to prevent. The accounting check runs either way:
+    # with bodies it recomputes, without them it verifies the tracked manifest's
+    # own four numbers still sum to its stated total.
+    manifest = json.loads((ROOT / "raw" / "facebook-threads" / "MANIFEST.json").read_text())
+    bodies = list((ROOT / "raw" / "facebook-threads").glob("*.txt"))
+
+    if bodies:
+        import importlib.machinery
+        import importlib.util
+        spec = importlib.util.spec_from_loader(
+            "wb_corroborate",
+            importlib.machinery.SourceFileLoader("wb_corroborate",
+                                                 str(ROOT / "bin" / "wb-corroborate")))
+        wb = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(wb)
+        rows, _ = wb.load_facebook()
+        load = wb.load_facebook
+        buckets = (len(rows), load.no_text, load.unattributed, load.empty)
+
+        check("the manifest matches what the parser currently finds",
+              manifest["total_messages"] == len(rows),
+              f"manifest says {manifest['total_messages']}, parser finds {len(rows)} "
+              f"— rerun bin/wb-facebook-manifest")
+
+        # The 2010-2021 thread whose counterparty is an unnamed "Facebook user":
+        # 803 messages, and the name-anchored pattern saw only Dan's 422.
+        check("the unnamed counterparty's side is parsed",
+              any(not r[1] for r in rows if r[0].startswith("2020-06-04")),
+              "no inbound message on 2020-06-04 — the monologue bug is back")
+
+        # dat:0031. A guessed speaker is what this whole parser exists to prevent.
+        dui = [r for r in rows if "already got a DUI" in r[3]]
+        check("the DUI line is still attributed to the other speaker",
+              len(dui) == 1 and dui[0][2] == "Christo Coan" and not dui[0][1],
+              f"got {[(r[2], r[1]) for r in dui]}")
+    else:
+        n = manifest["not_searchable"]
+        buckets = (manifest["total_messages"], n["no_text"],
+                   n["unattributed_in_group_thread"], n["empty_segment"])
+        print("  skip  the unnamed counterparty's side is parsed "
+              "(thread bodies are gitignored — not available here)")
+        print("  skip  the DUI line is still attributed to the other speaker "
+              "(thread bodies are gitignored — not available here)")
+
+    check("every message in the archive is accounted for",
+          sum(buckets) == manifest["archive_messages"],
+          f"searchable+no_text+unattributed+empty = {sum(buckets)}, "
+          f"archive_messages = {manifest['archive_messages']}")
+
+    # The plaintext corpus is what agents actually read, and it is generated by
+    # a different tool from the HTML. These pin that the two agree on structure
+    # and that the redaction survives the second path — bin/wb-check-publish
+    # scans .txt, so a hole fails the build, but a hole plus a gate change
+    # would not, and this is the cheaper guard.
+    corpus_kb = ROOT / "site" / "corpus-kb.txt"
+    corpus_arc = ROOT / "site" / "corpus-archive.txt"
+    if corpus_kb.exists() and corpus_arc.exists():
+        kb_text = corpus_kb.read_text()
+        arc_text = corpus_arc.read_text()
+        nodes = len(re.findall(r"^=== NODE: ", kb_text, re.M))
+        pages = len(re.findall(r"^=== PAGE: ", arc_text, re.M))
+        check("the plaintext corpus holds every archive page",
+              pages == 497, f"{pages} page records, expected 497")
+        check("the plaintext corpus holds a record per node",
+              nodes == len(list((ROOT / "kb").rglob("*.md"))) - 1,
+              f"{nodes} node records against {len(list((ROOT / 'kb').rglob('*.md'))) - 1} "
+              f"node files (kb/README.md excluded)")
+        check("no unmasked phone number survives into the plaintext",
+              not re.search(r"\+1[0-9]{10}", arc_text),
+              "a raw phone number is in corpus-archive.txt")
+    else:
+        print("  skip  the plaintext corpus records match "
+              "(site/ not built here — run bin/wb-corpus)")
+
+    print(f"\n{passed} passed, {failed} failed")
+    return 1 if failed else 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

@@ -46,17 +46,79 @@ wiki/          497 pages, byte-exact from the 2026-09-04 export
   self/         59      timeline/     42      work/     15
   meta/         12      places/       10      health/    6
   legal/         4
-bin/           the 40 original tools, byte-exact
-app.py         116,273 bytes, byte-exact
+
+raw/           the export itself — whole.txt (7,536,214 B), pages.json,
+               EXTRACT.md, SOURCES.md, facebook-threads/MANIFEST.json
+kb/            88 evidence nodes, L0→L5, extracted from these pages
+schema/        node.schema.json
+corpus/        manifest + derived aggregates (messages.csv gitignored)
+shelf/         superseded extracts — README and MANIFEST only
+tests/         test-invariant, test-census, test-corpus
+portal/        single-file portal prototype
+app.py         the local wiki app, 116,273 B, byte-exact
+bin/           54 tools — 40 originals + 14 wb-*/corpus-*
+tools/         reconstruct-from-export.py
 _config.yml    byte-exact
 ```
 
-`bin/` is the machine that built this wiki — `build-site`, `intake`,
-`wiki-crosslink`, `wiki-testimony`, `wiki-lint`, `wiki-timeline`, `wiki-traits`,
-`mine-messages`, `psychometrics`, `export-corpus`, `verify-master` and 29
-others. It survived on Drive for the same reason the export did: none of it is
-`.md`, so none of it was converted. It is restored here unmodified and unwired —
-these tools have not been run against this tree.
+**Two toolchains live in `bin/`, and they are different systems.** The 40
+originals — `build-site`, `intake`, `wiki-crosslink`, `wiki-testimony`,
+`wiki-lint`, `wiki-timeline`, `wiki-traits`, `mine-messages`, `psychometrics`,
+`export-corpus`, `verify-master` and 29 more — are what built the wiki as it
+was. They survived on Drive for the same reason the export did: none of them is
+`.md`, so none was converted. They are restored unmodified and **unwired**, and
+have not been run against this tree.
+
+The 14 `wb-*` and `corpus-*` tools are the newer six-layer toolchain that
+operates on `kb/`. Nothing collides — the two naming schemes are disjoint, which
+is why they can share a directory without either being renamed. Which toolchain
+survives long-term is a real decision and it is not made here.
+
+## The app is not lost
+
+`app.py` is a complete local wiki GUI — Python stdlib only, localhost only, on
+`http://127.0.0.1:8477`:
+
+```sh
+python3 app.py
+```
+
+It imitates Wikipedia's Vector skin: left portal panel, Page/Discussion and
+Read/Edit/View-history tabs, infoboxes built from page frontmatter, a numbered
+table of contents, red links for missing pages, a categories bar, and git-backed
+View history and Recent changes. Pages are created and edited in the interface;
+images upload to `assets/uploads/`. `Special:Capture`, `Special:Ingest`,
+`Special:Export`, `Special:Intake`, `Special:Contents` and
+`Special:RecentChanges` are all there. All data stays in the plain Markdown
+files of this repository.
+
+The `caakehorn/home` harness — the marquee tickers, the nine-tab bar, the chaos
+meter — is gone with the account GitHub deleted, and it is not recoverable from
+here. `portal/index.html` is a single-file prototype rebuilt in that visual
+language: the WIKI-BRAIN tab is functional and renders a layer-filtered node
+browser over `graph.json`; the other eight tabs are labeled intent. It is a
+probe to react to, not a deliverable, and `bin/wb-build` deliberately does not
+know about it. It excludes the old harness's anime imagery on purpose — that is
+the likeliest reason the account was deleted, and re-shipping it would invite
+the same outcome.
+
+## Running it
+
+```sh
+python3 bin/wb-validate     # layer invariant, testimony attribution, edges
+python3 tests/test-invariant # 43 checks
+python3 tests/test-census    # 16 checks
+python3 bin/wb-census        # the correction-marker tally, per area
+```
+
+All of it passes on this tree: 88 nodes, 15 edges fully audited, clean.
+
+To rebuild `wiki/` from the export and confirm nothing drifted:
+
+```sh
+tools/reconstruct-from-export.py raw/old-wiki-export-2026-09-04 .
+git status --porcelain wiki/     # must be empty
+```
 
 ## What did not come back
 
@@ -67,11 +129,13 @@ no reconstruction.
 reachable. This repository starts fresh. What the pages say about their own past
 is testimony, not a log.
 
-**`raw/` is not here.** The pages cite roughly 237 distinct `raw/…` paths —
-captures, intake units, dox scans, message dumps — and none of those files are
-in this tree. Those citations resolve to nothing. The claims that rest on them
-are not thereby false; they are **unverified**, which is a different and
-recoverable state. Do not read a dangling citation as a missing fact.
+**The cited `raw/` material is not here.** `raw/` in this repository holds the
+export and the source ledgers — it is not the `raw/` the pages were written
+against. Those pages cite roughly 237 distinct `raw/…` paths (captures, intake
+units, dox scans, message dumps) and none of *those* files exist in this tree.
+Those citations resolve to nothing. The claims resting on them are not thereby
+false; they are **unverified**, which is a different and recoverable state. Do
+not read a dangling citation as a missing fact.
 
 **`intake/events.jsonl` and `testimony/events.jsonl` are not here.** The second
 matters more than its size suggests: `wiki/meta/testimony-veracity.md` is
@@ -131,18 +195,32 @@ been retracted on its own page the day before the digest ran, and is quoted
 with the figure the retraction retired. Read it as *what the pages say they do
 not know*, then check each item against its own page.
 
+## Governing documents
+
+- [`ARCHITECTURE.md`](ARCHITECTURE.md) — what the six-layer system *is*
+- [`ROADMAP.md`](ROADMAP.md) — where it is going
+- [`RECOVERY.md`](RECOVERY.md) — what was reachable after the wipe and how
+  intact, every claim tested rather than assumed. Includes the record of a
+  confident negative result that turned out to be wrong, kept deliberately.
+- [`CORPUS_POLICY.md`](CORPUS_POLICY.md) — the confirmed / corrected /
+  withdrawn rule, and why the shelf exists
+- [`raw/old-wiki-export-2026-09-04/EXTRACT.md`](raw/old-wiki-export-2026-09-04/EXTRACT.md)
+  — the extraction brief: 20 of 497 pages worked so far, what the first passes
+  established, and the traps they cost
+
+`MIGRATION.md` was deliberately **not** carried over. It is a transient
+wikitest-era checklist that names the wrong repository and instructs a push that
+has already happened; copying it here would be actively misleading. It remains
+in `Danfr4nk/wikitest` if the history is wanted.
+
 ## Related repositories
 
-- **`Danfr4nk/wikitest`** — holds the export this was cut from, the recovery
-  record (`RECOVERY.md`), and a from-scratch six-layer rebuild (`kb/`, `schema/`,
-  `bin/wb-*`) with ~57 evidence nodes extracted from these pages so far.
-- **`Danfr4nk/wiki-brain`** — the same six-layer architecture, earlier and
-  smaller. Unrelated git history to both.
+- **`Danfr4nk/wikitest`** — where the export was recovered and the six-layer
+  rebuild was done. Everything from it worth keeping is now also here.
+- **`Danfr4nk/wiki-brain`** — the same architecture, earlier and smaller.
 
-The `wb-*` toolchain in those repositories and the `bin/` toolchain here are
-**different systems, not duplicates.** These are the tools that built the wiki
-as it was; those are the tools for the architecture that replaced it. Which one
-survives is a real decision and it is not made here.
+All three have **unrelated git histories**. `wikitest` is not a fork of
+`wiki-brain`; they have separate root commits and never shared an ancestor.
 
 ## A standing note on what is published
 

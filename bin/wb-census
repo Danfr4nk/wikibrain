@@ -1,0 +1,167 @@
+#!/usr/bin/env python3
+"""Count the prior wiki's own error markers, per area, over the whole export.
+
+The prior system annotated its own pages with dated blocks — REVISED,
+CORRECTED, CONTRADICTION, GAP CLOSED, RE-CHECKED. Their density per area is
+the cheapest available test of what that system was actually careful about,
+and `pat:audit-strong-on-numbers-weak-on-meaning` published a falsifier that
+turns on it.
+
+Two things this tool exists to get right, both learned by getting them wrong:
+
+  RE-CHECKED IS NOT AN ERROR MARKER. It is a dependency artifact — a cited
+  page moved, so this one was re-read. Four of the five re-checks on the
+  cocaine page conclude nothing changed (dat:0022). It is 49% of all marks,
+  so folding it in swamps the signal with a measure of how much a page
+  cites. Counted and reported, never summed with the rest.
+
+  THE COUNT IS DEFINITION-SENSITIVE. `**RE-CHECKED` matches 247 times and
+  `RE-CHECKED [` 265 — the same blocks under two conventions that drifted
+  over the corpus's life. This tool commits to one definition, prints it,
+  and reports the total so a different definition is visibly a different
+  number rather than silently one.
+
+Marks per PAGE is not the statistic. mind/ pages average 21.9 kB against
+people/ at 8.7, so a per-page rate reads page length as much as it reads
+correction. Report per 10 kB alongside it; where the two disagree, the
+normalised one is the finding.
+
+The definition: MARKER followed by ` [`, i.e. a dated block. That is the form
+the extraction brief tells readers to look for and the form that carries a
+date, which is what makes a mark auditable at all.
+"""
+import argparse
+import json
+import re
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+EXPORT = ROOT / "raw" / "old-wiki-export-2026-09-04"
+
+ERRORS = ("REVISED", "CORRECTED", "CONTRADICTION", "GAP CLOSED")
+RECHECK = "RE-CHECKED"
+
+CHANGELOG = "wiki/meta/recent-activity.md"
+ROW = re.compile(r"^\| \[\[(wiki/[^\]|]+?)\]\] \|", re.M)
+
+MARK = re.compile(r"\b(" + "|".join([*ERRORS, RECHECK]) + r") \[")
+WIKILINK = re.compile(r"\[\[")
+
+
+def load_pages():
+    index = json.loads((EXPORT / "pages.json").read_text())
+    blob = (EXPORT / "whole.txt").read_bytes()
+    for page in index["pages"]:
+        start = page["byte_offset"]
+        text = blob[start:start + page["byte_length"]].decode("utf-8", "replace")
+        yield page["path"], text
+
+
+def touched_pages(pages):
+    """Pages the wiki's own changelog lists as modified in its final window.
+
+    Half the corpus was not opened in the last three weeks and carries 9% of
+    the marks (dat:0043), so a whole-corpus area rate reads coverage of recent
+    work as if it were rate of self-correction. This is how the two get told
+    apart.
+    """
+    body = pages.get(CHANGELOG)
+    if body is None:
+        raise SystemExit(f"{CHANGELOG} not in the export — cannot split on recency")
+    return {m + ".md" for m in ROW.findall(body)}
+
+
+def recency_table(pages):
+    touched = touched_pages(pages)
+    areas = {}
+    for path, text in pages.items():
+        area = path.split("/")[1] if path.count("/") > 1 else "(root)"
+        row = areas.setdefault(area, {"tp": 0, "tm": 0, "tb": 0, "up": 0, "um": 0})
+        marks = sum(1 for m in MARK.findall(text) if m != RECHECK)
+        if path in touched:
+            row["tp"] += 1
+            row["tm"] += marks
+            row["tb"] += len(text.encode("utf-8"))
+        else:
+            row["up"] += 1
+            row["um"] += marks
+
+    print(f"split on {CHANGELOG}: {len(touched)} of {len(pages)} pages listed")
+    print()
+    print(f"{'area':<12}{'touched':>8}{'marks':>7}{'m/pg':>7}{'m/10kB':>8}"
+          f"{'untouched':>11}{'marks':>7}{'m/pg':>7}")
+    rows = sorted(areas.items(),
+                  key=lambda kv: -(kv[1]["tm"] / kv[1]["tp"] if kv[1]["tp"] else 0))
+    for area, r in rows:
+        tp, up = r["tp"] or 1, r["up"] or 1
+        per_kb = r["tm"] / (r["tb"] / 10000) if r["tb"] else 0.0
+        print(f"{area:<12}{r['tp']:>8}{r['tm']:>7}{r['tm']/tp:>7.2f}{per_kb:>8.2f}"
+              f"{r['up']:>11}{r['um']:>7}{r['um']/up:>7.2f}")
+
+    tm = sum(r["tm"] for r in areas.values())
+    um = sum(r["um"] for r in areas.values())
+    tp = sum(r["tp"] for r in areas.values())
+    up = sum(r["up"] for r in areas.values())
+    print()
+    print(f"{'TOTAL':<12}{tp:>8}{tm:>7}{tm/tp:>7.2f}{'':>8}{up:>11}{um:>7}{um/up:>7.2f}")
+    print(f"\n{100*tm/(tm+um):.0f}% of the marks sit on the {100*tp/(tp+up):.0f}% "
+          f"of pages worked in the changelog's window")
+    return 0
+
+
+def main():
+    ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    ap.add_argument("--recency", action="store_true",
+                    help="split the census on the wiki's own changelog instead "
+                         "(see dat:0043)")
+    args = ap.parse_args()
+
+    pages = dict(load_pages())
+    if args.recency:
+        return recency_table(pages)
+
+    areas = {}
+    for path, text in pages.items():
+        parts = path.split("/")
+        area = parts[1] if len(parts) > 2 else "(root)"
+        row = areas.setdefault(area, {"pages": 0, "errors": 0, "recheck": 0,
+                                      "links": 0, "marked": 0,
+                                      "bytes": 0})
+        row["pages"] += 1
+        marks = MARK.findall(text)
+        errs = sum(1 for m in marks if m != RECHECK)
+        row["errors"] += errs
+        row["recheck"] += sum(1 for m in marks if m == RECHECK)
+        row["links"] += len(WIKILINK.findall(text))
+        row["bytes"] += len(text.encode("utf-8"))
+        row["marked"] += 1 if errs else 0
+
+    order = sorted(areas.items(), key=lambda kv: -kv[1]["errors"] / kv[1]["pages"])
+
+    print(f"marker definition: MARKER + ' [' — {', '.join(ERRORS)} counted as "
+          f"errors, {RECHECK} counted separately")
+    print()
+    print(f"{'area':<12}{'pages':>6}{'errors':>8}{'err/pg':>9}"
+          f"{'err/10kB':>10}{'%marked':>9}{'rechk/pg':>10}{'kB/pg':>8}")
+    for area, row in order:
+        n = row["pages"]
+        print(f"{area:<12}{n:>6}{row['errors']:>8}{row['errors']/n:>9.2f}"
+              f"{row['errors']/(row['bytes']/10000):>10.2f}"
+              f"{100*row['marked']/n:>8.0f}%{row['recheck']/n:>10.2f}"
+              f"{row['bytes']/n/1024:>8.1f}")
+
+    tot_e = sum(r["errors"] for r in areas.values())
+    tot_r = sum(r["recheck"] for r in areas.values())
+    tot_p = sum(r["pages"] for r in areas.values())
+    tot_b = sum(r["bytes"] for r in areas.values())
+    tot_m = sum(r["marked"] for r in areas.values())
+    print()
+    print(f"{'TOTAL':<12}{tot_p:>6}{tot_e:>8}{tot_e/tot_p:>9.2f}"
+          f"{tot_e/(tot_b/10000):>10.2f}{100*tot_m/tot_p:>8.0f}%"
+          f"{tot_r/tot_p:>10.2f}{tot_b/tot_p/1024:>8.1f}")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

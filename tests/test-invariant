@@ -1,0 +1,755 @@
+#!/usr/bin/env python3
+"""Regression tests for the constitutional law.
+
+The layer invariant is the one rule the whole system rests on, so it gets a
+test that fails loudly rather than a comment asking people to be careful.
+Each case builds a throwaway knowledge base, runs bin/wb-validate against it,
+and asserts both the exit status and that the diagnostic actually names the
+problem — an error that fires for the wrong reason is not a passing test.
+
+Usage:  tests/test-invariant [-v]
+
+Standard library only. Exit 0 when every case passes.
+"""
+
+from __future__ import annotations
+
+import argparse
+import pathlib
+import subprocess
+import sys
+import tempfile
+
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+VALIDATE = ROOT / "bin" / "wb-validate"
+
+SOURCE = """+++
+id = "src:fixture"
+layer = 0
+type = "source"
+title = "Fixture source"
+source_type = "message-corpus"
+provenance = "synthetic test fixture"
+reliability = "primary"
++++
+"""
+
+DATUM = """+++
+id = "dat:0001"
+layer = 1
+type = "datum"
+title = "A claim"
+claim = "X said Y"
+cites = ["src:fixture"]
++++
+"""
+
+EVENT = """+++
+id = "evt:thing"
+layer = 2
+type = "event"
+title = "A thing happened"
+cites = ["dat:0001"]
+[when]
+date = "2018-03-04"
++++
+"""
+
+INTERPRETATION = """+++
+id = "int:reading"
+layer = 3
+type = "interpretation"
+title = "What it might mean"
+perspective = "llm"
+cites = ["evt:thing", "dat:0001"]
++++
+"""
+
+# A source whose reliability is not established. Its assertions are evidence;
+# the things it asserts are not.
+TESTIMONY = """+++
+id = "src:priorsystem"
+layer = 0
+type = "source"
+title = "A prior system's conclusions"
+source_type = "document"
+provenance = "synthetic test fixture"
+reliability = "retrospective"
+testimony = true
++++
+"""
+
+# A source dated later than the nodes citing it, for the staleness check.
+STALE_SOURCE = """+++
+id = "src:moved"
+layer = 0
+type = "source"
+title = "A source revised after the claims resting on it"
+source_type = "document"
+provenance = "synthetic test fixture"
+reliability = "primary"
+created = "2026-01-01"
+updated = "2026-06-01"
++++
+"""
+
+BASE = {"a": SOURCE, "b": DATUM, "c": EVENT, "d": INTERPRETATION}
+
+# name -> (extra files, expect_ok, substring the diagnostic must contain)
+CASES: list[tuple[str, dict[str, str], bool, str]] = [
+    ("legal chain L3->L2->L1->L0 passes", {}, True, ""),
+
+    ("datum citing an interpretation is a layer violation", {"x": """+++
+id = "dat:0002"
+layer = 1
+type = "datum"
+title = "Laundered conclusion"
+claim = "the relationship was abusive"
+cites = ["src:fixture", "int:reading"]
++++
+"""}, False, "LAYER VIOLATION"),
+
+    ("nothing may cite a synthesis", {"x": """+++
+id = "syn:model"
+layer = 5
+type = "synthesis"
+title = "Whole-person model"
+cites = ["int:reading"]
++++
+""", "y": """+++
+id = "int:leans"
+layer = 3
+type = "interpretation"
+title = "Rests on a conclusion"
+perspective = "llm"
+cites = ["syn:model"]
++++
+"""}, False, "a synthesis is a leaf"),
+
+    ("a pattern may not cite another pattern", {"x": """+++
+id = "pat:first"
+layer = 4
+type = "pattern"
+title = "First pattern"
+evidence_count = 3
+cites = ["int:reading"]
++++
+""", "y": """+++
+id = "pat:second"
+layer = 4
+type = "pattern"
+title = "Pattern of patterns"
+evidence_count = 2
+cites = ["pat:first"]
++++
+"""}, False, "LAYER VIOLATION"),
+
+    ("an unsourced datum is rejected", {"x": """+++
+id = "dat:0003"
+layer = 1
+type = "datum"
+title = "Unsourced"
+claim = "something"
+cites = []
++++
+"""}, False, "at least 1 item"),
+
+    ("an interpretation must declare whose reading it is", {"x": """+++
+id = "int:anon"
+layer = 3
+type = "interpretation"
+title = "No perspective"
+cites = ["evt:thing"]
++++
+"""}, False, "perspective"),
+
+    ("a caused edge must state what it rests on", {"x": """+++
+id = "evt:second"
+layer = 2
+type = "event"
+title = "Later thing"
+[when]
+date = "2019-01-01"
+[[edges]]
+rel = "caused"
+target = "evt:thing"
++++
+"""}, False, "basis"),
+
+    ("a preceded edge needs no causal basis", {"x": """+++
+id = "evt:third"
+layer = 2
+type = "event"
+title = "Later thing"
+[when]
+date = "2019-01-01"
+[[edges]]
+rel = "preceded"
+target = "evt:thing"
++++
+"""}, True, ""),
+
+    ("a dangling citation is caught", {"x": """+++
+id = "evt:dangling"
+layer = 2
+type = "event"
+title = "Cites nothing real"
+cites = ["dat:nonexistent"]
+[when]
+date = "2020-01-01"
++++
+"""}, False, "does not exist"),
+
+    ("type and declared layer must agree", {"x": """+++
+id = "evt:mislayered"
+layer = 4
+type = "event"
+title = "Mislayered"
+[when]
+date = "2020-01-01"
++++
+"""}, False, "belongs to layer 2"),
+
+    ("a contradiction needs at least two sides", {"x": """+++
+id = "con:onesided"
+layer = 3
+type = "contradiction"
+title = "Only one side"
+cites = ["evt:thing"]
++++
+"""}, False, "at least 2 item"),
+
+    ("a duplicate id is caught", {"x": DATUM}, False, "duplicate id"),
+
+    ("a node may not cite itself", {"x": """+++
+id = "int:selfref"
+layer = 3
+type = "interpretation"
+title = "Self-citing"
+perspective = "llm"
+cites = ["int:selfref"]
++++
+"""}, False, "itself"),
+
+    ("unknown frontmatter fields are rejected", {"x": """+++
+id = "evt:typo"
+layer = 2
+type = "event"
+title = "Has a typo'd field"
+confidenc = "high"
+[when]
+date = "2020-01-01"
++++
+"""}, False, "unknown field"),
+
+    ("an imprecise date may not be padded into precision", {"x": """+++
+id = "evt:baddate"
+layer = 2
+type = "event"
+title = "Malformed date"
+[when]
+date = "March 2018"
++++
+"""}, False, "does not match"),
+
+    # ---- edges ------------------------------------------------------------
+    # `cites` was always constrained and `edges` was not. These cover the checks
+    # that closed that gap.
+
+    ("every causal-family edge needs a basis, not just `caused`", {"x": """+++
+id = "evt:softcausal"
+layer = 2
+type = "event"
+title = "Influenced without saying why"
+[when]
+date = "2019-01-01"
+[[edges]]
+rel = "influenced"
+target = "evt:thing"
++++
+"""}, False, "basis"),
+
+    ("a narrative edge must say who asserts it", {"x": """+++
+id = "evt:told"
+layer = 2
+type = "event"
+title = "A story about a story"
+[when]
+date = "2019-01-01"
+[[edges]]
+rel = "mythologized"
+target = "evt:thing"
++++
+"""}, False, "asserted_by"),
+
+    ("a narrative edge with asserted_by is fine", {"x": """+++
+id = "evt:told2"
+layer = 2
+type = "event"
+title = "A story about a story"
+[when]
+date = "2019-01-01"
+[[edges]]
+rel = "mythologized"
+target = "evt:thing"
+asserted_by = "self"
+strength = "moderate"
++++
+"""}, True, ""),
+
+    ("`evidences` is gone — evidence goes in cites", {"x": """+++
+id = "evt:backwards"
+layer = 2
+type = "event"
+title = "Evidence pointed the wrong way"
+[when]
+date = "2019-01-01"
+[[edges]]
+rel = "evidences"
+target = "int:reading"
++++
+"""}, False, "not one of"),
+
+    ("`supersedes` is a field, not an edge", {"x": """+++
+id = "evt:replacer"
+layer = 2
+type = "event"
+title = "Used the retired edge name"
+[when]
+date = "2019-01-01"
+[[edges]]
+rel = "supersedes"
+target = "evt:thing"
++++
+"""}, False, "not one of"),
+
+    ("a speculative edge may not be held strongly", {"x": """+++
+id = "evt:overconfident"
+layer = 2
+type = "event"
+title = "A guess held with certainty"
+[when]
+date = "2019-01-01"
+[[edges]]
+rel = "caused"
+target = "evt:thing"
+basis = "speculative"
+strength = "strong"
+asserted_by = "llm"
++++
+"""}, False, "convincing the guess feels"),
+
+    ("basis and the deprecated causal_basis may not disagree", {"x": """+++
+id = "evt:twofaced"
+layer = 2
+type = "event"
+title = "Says two things at once"
+[when]
+date = "2019-01-01"
+[[edges]]
+rel = "caused"
+target = "evt:thing"
+basis = "stated"
+causal_basis = "speculative"
++++
+"""}, False, "they disagree"),
+
+    ("a deprecated causal_basis still validates, with a warning", {"x": """+++
+id = "evt:oldstyle"
+layer = 2
+type = "event"
+title = "Written before the rename"
+[when]
+date = "2019-01-01"
+[[edges]]
+rel = "caused"
+target = "evt:thing"
+causal_basis = "stated"
+strength = "moderate"
+asserted_by = "self"
++++
+"""}, True, ""),
+
+    ("an edge cannot be over before one of its terms exists", {"x": """+++
+id = "evt:impossible"
+layer = 2
+type = "event"
+title = "Relation closed before the other end began"
+[when]
+date = "2019-01-01"
+[[edges]]
+rel = "influenced"
+target = "evt:thing"
+basis = "inferred"
+strength = "weak"
+asserted_by = "llm"
+[edges.when]
+start = "2015-01"
+end = "2016-01"
++++
+"""}, False, "before evt:thing begins"),
+
+    ("an asymmetric relation may not be asserted both ways", {"x": """+++
+id = "evt:aaa"
+layer = 2
+type = "event"
+title = "First"
+[when]
+date = "2019-01-01"
+[[edges]]
+rel = "preceded"
+target = "evt:zzz"
++++
+""", "y": """+++
+id = "evt:zzz"
+layer = 2
+type = "event"
+title = "Second"
+[when]
+date = "2020-01-01"
+[[edges]]
+rel = "preceded"
+target = "evt:aaa"
++++
+"""}, False, "asymmetric"),
+
+    ("one node may not claim a relation and its inverse toward the same node", {"x": """+++
+id = "evt:bothways"
+layer = 2
+type = "event"
+title = "Before and after at once"
+[when]
+date = "2019-01-01"
+[[edges]]
+rel = "preceded"
+target = "evt:thing"
+[[edges]]
+rel = "followed"
+target = "evt:thing"
++++
+"""}, False, "they are inverses"),
+
+    ("writing both directions of an inverse pair is a warning, not an error",
+     {"x": """+++
+id = "evt:aaa"
+layer = 2
+type = "event"
+title = "First"
+[when]
+date = "2019-01-01"
+[[edges]]
+rel = "preceded"
+target = "evt:zzz"
++++
+""", "y": """+++
+id = "evt:zzz"
+layer = 2
+type = "event"
+title = "Second"
+[when]
+date = "2020-01-01"
+[[edges]]
+rel = "followed"
+target = "evt:aaa"
++++
+"""}, True, ""),
+
+    # ---- testimony --------------------------------------------------------
+    # Material whose reliability is unestablished supplies evidence of what it
+    # ASSERTED, never evidence that the assertion holds. This is what lets the
+    # prior system's 2M tokens of conclusions be ingested without inheriting them.
+
+    ("a datum may not restate a testimony source's assertion as fact", {"t": TESTIMONY,
+     "x": """+++
+id = "dat:0100"
+layer = 1
+type = "datum"
+title = "Restated as fact"
+claim = "Dan met Vaughn in 2013."
+cites = ["src:priorsystem"]
++++
+"""}, False, "must record who asserted it"),
+
+    ("the same claim passes once it is attributed", {"t": TESTIMONY, "x": """+++
+id = "dat:0101"
+layer = 1
+type = "datum"
+title = "Attributed"
+claim = "The prior system asserted that Dan met Vaughn in 2013."
+cites = ["src:priorsystem"]
+attributed_to = "src:priorsystem"
++++
+"""}, True, ""),
+
+    ("a claim cannot be attributed to a source it does not cite", {"t": TESTIMONY,
+     "x": """+++
+id = "dat:0102"
+layer = 1
+type = "datum"
+title = "Attributed elsewhere"
+claim = "Something."
+cites = ["src:fixture"]
+attributed_to = "src:priorsystem"
++++
+"""}, False, "is not in `cites`"),
+
+    ("testimony is an L0 property", {"x": """+++
+id = "dat:0103"
+layer = 1
+type = "datum"
+title = "Wrong layer for testimony"
+claim = "Something."
+cites = ["src:fixture"]
+testimony = true
++++
+"""}, False, "L0 source property"),
+
+    ("attributed_to is an L1 property", {"x": """+++
+id = "evt:attributed"
+layer = 2
+type = "event"
+title = "Wrong layer for attribution"
+attributed_to = "src:fixture"
+[when]
+date = "2019-01-01"
++++
+"""}, False, "L1 datum property"),
+
+    # ---- staleness and falsifiers ------------------------------------------
+    # A citation that resolves is not a citation still checked. `rechecked`
+    # clears the flag even when nothing changed, so "checked and survived" stays
+    # distinguishable from "nobody looked".
+
+    ("a claim older than the evidence it cites is flagged stale", {"s": STALE_SOURCE,
+     "x": """+++
+id = "dat:0200"
+layer = 1
+type = "datum"
+title = "Older than its source"
+claim = "Something."
+cites = ["src:moved"]
+created = "2026-01-01"
++++
+"""}, True, "the evidence moved after the claim"),
+
+    ("`rechecked` clears a staleness flag even when nothing changed",
+     {"s": STALE_SOURCE, "x": """+++
+id = "dat:0201"
+layer = 1
+type = "datum"
+title = "Re-checked against its source"
+claim = "Something."
+cites = ["src:moved"]
+created = "2026-01-01"
+rechecked = "2026-07-01"
++++
+"""}, True, "clean"),
+
+    ("falsifiers may not sit below L3", {"x": """+++
+id = "dat:0202"
+layer = 1
+type = "datum"
+title = "Falsifiers too low"
+claim = "Something."
+cites = ["src:fixture"]
+falsifiers = ["some observation"]
++++
+"""}, False, "belongs on L3+"),
+
+    ("a measurement must state how it was obtained", {"t": TESTIMONY, "x": """+++
+id = "dat:0400"
+layer = 1
+type = "datum"
+title = "Unmethodical measurement"
+claim = "The prior system asserted a thing."
+cites = ["src:priorsystem"]
+measurement = true
++++
+"""}, False, "must say how it was obtained"),
+
+    ("a pattern with falsifiers and counterexamples is clean", {"x": """+++
+id = "pat:wellformed"
+layer = 4
+type = "pattern"
+title = "A well-formed pattern"
+cites = ["int:reading"]
+evidence_count = 3
+counterexamples = ["dat:0001"]
+falsifiers = ["a case where the opposite occurs under the same conditions"]
++++
+"""}, True, "clean"),
+
+    # dat:0048. Append-only keeps the history and leaves the retracted text
+    # looking live in place. These two pin the price of that.
+    ("a retraction narrated in the body must reach the falsifiers field",
+     {"x": """+++
+id = "pat:narrated-only"
+layer = 4
+type = "pattern"
+title = "A pattern whose retraction never left the prose"
+cites = ["int:reading"]
+evidence_count = 3
+counterexamples = ["dat:0001"]
+falsifiers = ["a case where the opposite occurs under the same conditions"]
+created = "2026-09-09"
+updated = "2026-09-09"
++++
+
+## FALSIFIER SPENT [2026-09-09]
+
+It was tested and it landed against this pattern.
+"""}, False, "no entry in `falsifiers` says so"),
+
+    ("marking the spent entry in the field clears it", {"x": """+++
+id = "pat:retraction-in-field"
+layer = 4
+type = "pattern"
+title = "A pattern that retracted in the field as well as the prose"
+cites = ["int:reading"]
+evidence_count = 3
+counterexamples = ["dat:0001"]
+falsifiers = ["SPENT, 2026-09-09, and it landed against the pattern: a case where the opposite occurs under the same conditions"]
+created = "2026-09-09"
+updated = "2026-09-09"
++++
+
+## FALSIFIER SPENT [2026-09-09]
+
+It was tested and it landed against this pattern.
+"""}, True, "clean"),
+
+    # dat:0048, second half. The prior wiki's failure crossed three pages, so a
+    # bare "the evidence moved" would not have caught it either — that reads the
+    # same whether a typo was fixed or the claim was withdrawn.
+    ("a citing node is told WHAT moved when a source retracts", {"x": """+++
+id = "pat:retracts-under-a-citer"
+layer = 4
+type = "pattern"
+title = "A pattern that withdrew a claim"
+cites = ["int:reading"]
+evidence_count = 3
+counterexamples = ["dat:0001"]
+falsifiers = ["SPENT, 2026-06-01: a case where the opposite occurs"]
+created = "2026-01-01"
+updated = "2026-06-01"
++++
+
+## FALSIFIER SPENT [2026-06-01]
+
+Tested and withdrawn.
+""", "y": """+++
+id = "syn:rests-on-the-retracted"
+layer = 5
+type = "synthesis"
+title = "A synthesis resting on a withdrawn pattern"
+cites = ["pat:retracts-under-a-citer"]
+falsifiers = ["the underlying pattern survives its own test"]
+created = "2026-02-01"
++++
+"""}, True, "announced 'FALSIFIER SPENT' on 2026-06-01"),
+
+    ("a dated block newer than the front matter is flagged", {"x": """+++
+id = "int:body-ahead-of-fields"
+layer = 3
+type = "interpretation"
+title = "A reading corrected in the body and nowhere else"
+perspective = "llm"
+cites = ["dat:0001"]
+created = "2026-01-01"
++++
+
+## REVISED [2026-06-01]
+
+Something changed and nobody touched `updated`.
+"""}, True, "carries a dated block from 2026-06-01"),
+]
+
+
+def run_publish_gate(tmp: pathlib.Path) -> tuple[bool, bool]:
+    """Build a kb whose public node references a withheld one, then check output.
+
+    Returns (build_leaked, gate_refused). The gate refusing is the property that
+    matters; the build not leaking is the property that keeps the gate passable.
+    """
+    kb = tmp / "kb"
+    (kb / "sources").mkdir(parents=True)
+    (kb / "data").mkdir()
+    (kb / "sources" / "s.md").write_text(
+        '+++\nid = "src:withheld"\nlayer = 0\ntype = "source"\ntitle = "T"\n'
+        'source_type = "document"\nprovenance = "x"\nreliability = "primary"\n'
+        'testimony = true\nsensitive = true\n+++\nbody\n')
+    (kb / "data" / "d.md").write_text(
+        '+++\nid = "dat:0001"\nlayer = 1\ntype = "datum"\ntitle = "Public"\n'
+        'claim = "asserted"\ncites = ["src:withheld"]\nattributed_to = "src:withheld"\n'
+        '+++\npublic\n')
+    site = tmp / "site"
+    subprocess.run([sys.executable, str(ROOT / "bin" / "wb-build"),
+                    "--kb", str(kb), "--out", str(site)], capture_output=True)
+    leaked = any("src:withheld" in p.read_text(errors="replace")
+                 for p in site.rglob("*") if p.is_file())
+    gate = subprocess.run([sys.executable, str(ROOT / "bin" / "wb-check-publish"),
+                           "--kb", str(kb), "--site", str(site)], capture_output=True)
+    return leaked, gate.returncode != 0
+
+
+def run_case(files: dict[str, str], tmp: pathlib.Path) -> tuple[int, str]:
+    kb = tmp / "kb"
+    kb.mkdir()
+    for name, content in {**BASE, **files}.items():
+        (kb / f"{name}.md").write_text(content, encoding="utf-8")
+    proc = subprocess.run([sys.executable, str(VALIDATE), "--kb", str(kb)],
+                          capture_output=True, text=True)
+    return proc.returncode, proc.stdout + proc.stderr
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser(description=__doc__,
+                                 formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("-v", "--verbose", action="store_true")
+    args = ap.parse_args()
+
+    if not VALIDATE.exists():
+        print(f"missing {VALIDATE}", file=sys.stderr)
+        return 1
+
+    passed = failed = 0
+
+    # The publication gate is the highest-stakes surface here: a defect that fails
+    # toward publishing is not recoverable. Tested by building a leak on purpose.
+    with tempfile.TemporaryDirectory() as raw:
+        leaked, refused = run_publish_gate(pathlib.Path(raw))
+    for name, ok in (("a withheld node's id does not reach the build output", not leaked),
+                     ("...and if it ever does, the publish gate refuses", refused or not leaked)):
+        if ok:
+            passed += 1
+            print(f"  pass  {name}")
+        else:
+            failed += 1
+            print(f"  FAIL  {name}")
+
+    for name, files, expect_ok, needle in CASES:
+        with tempfile.TemporaryDirectory() as raw:
+            code, output = run_case(files, pathlib.Path(raw))
+        # A needle is asserted either way. On a failing case it pins WHY the
+        # build failed; on a passing case it pins a warning that must still be
+        # emitted — otherwise "expected clean" would silently accept a check
+        # that had stopped firing altogether.
+        ok = (code == 0 and needle in output) if expect_ok else (code != 0 and needle in output)
+        if ok:
+            passed += 1
+            print(f"  pass  {name}")
+            if args.verbose and output.strip():
+                print("\n".join(f"        {line}" for line in output.strip().splitlines()))
+        else:
+            failed += 1
+            print(f"  FAIL  {name}")
+            print(f"        expected {'clean' if expect_ok else f'failure mentioning {needle!r}'}, "
+                  f"got exit {code}")
+            print("\n".join(f"        {line}" for line in output.strip().splitlines()))
+
+    print(f"\n{passed} passed, {failed} failed")
+    return 1 if failed else 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
