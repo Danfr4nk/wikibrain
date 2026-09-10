@@ -1,0 +1,81 @@
+exports/
+site/
+.DS_Store
+corpus_*.md
+.gdrive-*.txt
+.README.md.swp
+.hermes-tmp*
+__pycache__/
+
+# ---------------------------------------------------------------------------
+# THIS REPOSITORY IS PUBLIC. github.com/Danfr4nk/wikibrain
+# ---------------------------------------------------------------------------
+#
+# Some rules below name paths that do not exist in this repository yet —
+# corpus/, shelf/, intake/, raw/facebook-threads/. They are kept anyway. A
+# rule that guards an absent path costs nothing and is already in force on
+# the day that path arrives; adding it afterwards is how data gets published
+# by accident. Do not prune them for tidiness.
+#
+# This file is the UNION of two rule sets, merged per the procedure in
+# MIGRATION.md: the original wiki-brain-main-1 rules (above) and the corpus
+# rules (below). Neither side was dropped. Merging them is the whole point —
+# the top half is Dan's decision about Dan, the bottom half is a decision
+# about ~498 other people, and they are not the same decision.
+
+# THE INTAKE LEDGER'S DATA IS TRACKED, and this repository is public.
+#
+# That is a decision, not an oversight, and it was made twice: the guard was
+# restored on 2026-08-30 when the "repo is private now" premise turned out to be
+# false, and removed again the same day when the operator asked for the ledger to
+# sync while the repository is public, stating they understood the implications.
+#
+# What that means concretely: `intake/events.jsonl` is a public, permanent record
+# of consumption, readable by anyone, and git history cannot be un-published. It
+# is tracked because the wiki has to be able to read it — a sealed or ignored
+# ledger is invisible to the analysis it exists to feed.
+#
+# To reverse: make the repository private FIRST, verify it, and only then decide
+# whether the ignore lines are still wanted. In that order.
+
+# --- corpus rules ---------------------------------------------------------
+#
+# The message corpus is not Dan's data alone. It contains the phone numbers,
+# email addresses and private words of ~498 other people, none of whom chose
+# to be published. The default here is closed.
+#
+# git history cannot be un-published. Un-ignoring any line below puts that
+# data on the public internet permanently, for everyone in it.
+
+# Raw corpus — every message, in the clear.
+corpus/messages.csv
+
+# Identity material and the hashing salt. The salt is what stops a published
+# thread_id from being brute-forced back to a phone number: there are only
+# ~10^10 US numbers, so an unsalted hash is not anonymisation, it is a speed
+# bump. If this leaks, every derived artifact de-anonymises with it.
+corpus/private/
+
+# Shelved fragment exports — superseded, retained locally as error evidence.
+# See CORPUS_POLICY.md. Same personal data as the corpus, same reasoning.
+#
+# Note what these lines do NOT do: the source Google Sheet is deliberately
+# shared "anyone with the link" (see corpus/README.md), so the corpus is
+# already reachable by URL. Ignoring it here keeps it out of git history,
+# which is permanent and searchable. That is worth doing on its own terms —
+# but it is not what is protecting this data, and it should not be mistaken
+# for that.
+shelf/**
+!shelf/README.md
+!shelf/MANIFEST.md
+
+# Facebook thread bodies — the same decision as corpus/messages.csv, for the
+# same reason. These are ~500 other people's private words, they were never
+# published, and git history is permanent. The MANIFEST.json beside them IS
+# tracked: thread-level counts, date ranges and counterparty names are the
+# existence-evidence the operator asked for, and they carry no message bodies.
+#
+# Not an ingestion filter. The bodies sit on disk, bin/wb-corroborate reads them
+# in full, and every inference that should rest on them can. Re-fetchable from
+# the public Drive tree at any time — see raw/SOURCES.md.
+raw/facebook-threads/*.txt
