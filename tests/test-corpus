@@ -1,0 +1,86 @@
+#!/usr/bin/env python3
+"""Checks on the message corpus that the tools quietly depend on.
+
+`bin/wb-corroborate --context` shows the messages either side of a hit by their
+position in the file. That is only a conversation if the file is in
+chronological order, and nothing asserted it was. dat:0030 turned on exactly
+that: a quoted line read *in sequence* was the subject recounting a remark
+afterwards rather than the remark itself, and if the order had been wrong the
+reading would have been wrong with it.
+
+The corpus is gitignored — 192,140 messages, most of them other people's — so
+CI never has it. These checks SKIP OUT LOUD there rather than passing quietly,
+for the same reason as the archive checks in tests/test-census: a check that
+stops firing and still reports green is worse than no check.
+
+Usage:  tests/test-corpus  (pull the corpus first: bin/wb-corroborate --pull)
+"""
+
+from __future__ import annotations
+
+import csv
+import pathlib
+import re
+import sys
+from datetime import datetime
+
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+CORPUS = ROOT / "corpus" / "messages.csv"
+
+passed = failed = 0
+
+
+def check(name: str, ok: bool, detail: str = "") -> None:
+    global passed, failed
+    if ok:
+        passed += 1
+        print(f"  pass  {name}")
+    else:
+        failed += 1
+        print(f"  FAIL  {name}")
+        if detail:
+            print(f"        {detail}")
+
+
+def main() -> int:
+    if not CORPUS.exists():
+        print("  skip  the corpus is in chronological order "
+              "(corpus/messages.csv is gitignored — not available here)")
+        print("  skip  the date prefix is fixed-width "
+              "(corpus/messages.csv is gitignored — not available here)")
+        print("\n0 passed, 0 failed, 2 skipped")
+        return 0
+
+    csv.field_size_limit(10 ** 9)
+    stamps, unpadded, bad = [], 0, 0
+    with CORPUS.open(newline="", encoding="utf-8", errors="replace") as fh:
+        for row in csv.DictReader(fh):
+            raw = (row.get("date_sent") or "").strip()
+            if not raw:
+                continue
+            if re.match(r"^\d{4}-\d{2}-\d{2} \d:", raw):
+                unpadded += 1
+            try:
+                stamps.append(datetime.strptime(raw, "%Y-%m-%d %H:%M:%S"))
+            except ValueError:
+                bad += 1
+
+    inversions = sum(1 for a, b in zip(stamps, stamps[1:]) if b < a)
+    check("the corpus is in chronological order",
+          inversions == 0,
+          f"{inversions} rows sort earlier than the row before them — "
+          f"--context is showing a conversation out of sequence")
+
+    # The reason the tools slice [:10] and never compare the whole string.
+    check("the unpadded-hour hazard is still present and still confined to the time",
+          unpadded > 0 and bad == 0,
+          f"unpadded hours {unpadded}, unparseable {bad} — if unpadded dropped to "
+          f"0 the hazard is gone and dat:0056 should be rechecked; if unparseable "
+          f"rose above 0 the format has changed and every date slice is suspect")
+
+    print(f"\n{passed} passed, {failed} failed")
+    return 1 if failed else 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

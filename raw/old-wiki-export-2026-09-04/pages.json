@@ -1,0 +1,2989 @@
+{
+  "note": "Byte offsets into whole.txt. The export is preserved once; this makes its 497 pages addressable without a second copy. Regenerable from whole.txt.",
+  "source": "src:old-wiki-export-2026-09-04",
+  "page_count": 497,
+  "pages": [
+    {
+      "path": "wiki/health/chemical-architecture.md",
+      "title": "Chemical Architecture",
+      "byte_offset": 556,
+      "byte_length": 27702
+    },
+    {
+      "path": "wiki/health/cocaine.md",
+      "title": "Cocaine",
+      "byte_offset": 28433,
+      "byte_length": 30199
+    },
+    {
+      "path": "wiki/health/hyperreflexivity.md",
+      "title": "Hyperreflexivity and the Anxiety Loop",
+      "byte_offset": 58816,
+      "byte_length": 11854
+    },
+    {
+      "path": "wiki/health/index.md",
+      "title": null,
+      "byte_offset": 70843,
+      "byte_length": 1926
+    },
+    {
+      "path": "wiki/health/intake-ledger.md",
+      "title": "The Intake Ledger",
+      "byte_offset": 72950,
+      "byte_length": 7527
+    },
+    {
+      "path": "wiki/health/the-configured-body.md",
+      "title": "The Configured Body",
+      "byte_offset": 80664,
+      "byte_length": 27780
+    },
+    {
+      "path": "wiki/interests/concert-record/festivals/face2face-tour.md",
+      "title": null,
+      "byte_offset": 108654,
+      "byte_length": 753
+    },
+    {
+      "path": "wiki/interests/concert-record/festivals/final-show-2011.md",
+      "title": null,
+      "byte_offset": 109618,
+      "byte_length": 770
+    },
+    {
+      "path": "wiki/interests/concert-record/festivals/high-tide-4.md",
+      "title": null,
+      "byte_offset": 110595,
+      "byte_length": 914
+    },
+    {
+      "path": "wiki/interests/concert-record/festivals/nintendo-fusion-tour.md",
+      "title": null,
+      "byte_offset": 111725,
+      "byte_length": 2041
+    },
+    {
+      "path": "wiki/interests/concert-record/festivals/oddball-comedy-curiosity-festival.md",
+      "title": null,
+      "byte_offset": 113995,
+      "byte_length": 2195
+    },
+    {
+      "path": "wiki/interests/concert-record/festivals/rolling-rock-town-fair.md",
+      "title": null,
+      "byte_offset": 116408,
+      "byte_length": 2145
+    },
+    {
+      "path": "wiki/interests/concert-record/festivals/the-bamboozle-2011.md",
+      "title": null,
+      "byte_offset": 118767,
+      "byte_length": 1618
+    },
+    {
+      "path": "wiki/interests/concert-record/festivals/vans-warped-tour.md",
+      "title": null,
+      "byte_offset": 120597,
+      "byte_length": 3994
+    },
+    {
+      "path": "wiki/interests/concert-record/index.md",
+      "title": null,
+      "byte_offset": 124782,
+      "byte_length": 16325
+    },
+    {
+      "path": "wiki/interests/concert-record/performers/dave-chappelle.md",
+      "title": null,
+      "byte_offset": 141318,
+      "byte_length": 1670
+    },
+    {
+      "path": "wiki/interests/concert-record/performers/hannibal-buress.md",
+      "title": null,
+      "byte_offset": 143200,
+      "byte_length": 1293
+    },
+    {
+      "path": "wiki/interests/concert-record/performers/john-mulaney.md",
+      "title": null,
+      "byte_offset": 144702,
+      "byte_length": 1284
+    },
+    {
+      "path": "wiki/interests/extreme-sports.md",
+      "title": null,
+      "byte_offset": 146171,
+      "byte_length": 10252
+    },
+    {
+      "path": "wiki/interests/favorites/art-and-movies.md",
+      "title": null,
+      "byte_offset": 156618,
+      "byte_length": 3736
+    },
+    {
+      "path": "wiki/interests/favorites/books/authors/adrian-goldsworthy.md",
+      "title": null,
+      "byte_offset": 160567,
+      "byte_length": 2546
+    },
+    {
+      "path": "wiki/interests/favorites/books/authors/bob-woodward.md",
+      "title": null,
+      "byte_offset": 163320,
+      "byte_length": 2762
+    },
+    {
+      "path": "wiki/interests/favorites/books/authors/dan-carlin.md",
+      "title": null,
+      "byte_offset": 166287,
+      "byte_length": 2712
+    },
+    {
+      "path": "wiki/interests/favorites/books/authors/jonathan-karl.md",
+      "title": null,
+      "byte_offset": 169207,
+      "byte_length": 2675
+    },
+    {
+      "path": "wiki/interests/favorites/books/authors/michael-wolff.md",
+      "title": null,
+      "byte_offset": 172090,
+      "byte_length": 3191
+    },
+    {
+      "path": "wiki/interests/favorites/books/topics/ancient-history.md",
+      "title": null,
+      "byte_offset": 175490,
+      "byte_length": 496
+    },
+    {
+      "path": "wiki/interests/favorites/books/topics/history.md",
+      "title": null,
+      "byte_offset": 176187,
+      "byte_length": 563
+    },
+    {
+      "path": "wiki/interests/favorites/books/topics/journalism.md",
+      "title": null,
+      "byte_offset": 176954,
+      "byte_length": 473
+    },
+    {
+      "path": "wiki/interests/favorites/books/topics/politics.md",
+      "title": null,
+      "byte_offset": 177629,
+      "byte_length": 1273
+    },
+    {
+      "path": "wiki/interests/favorites/books/topics/trump.md",
+      "title": null,
+      "byte_offset": 179101,
+      "byte_length": 549
+    },
+    {
+      "path": "wiki/interests/favorites/books/topics/war.md",
+      "title": null,
+      "byte_offset": 179847,
+      "byte_length": 425
+    },
+    {
+      "path": "wiki/interests/favorites/books/want-to-read.md",
+      "title": null,
+      "byte_offset": 180471,
+      "byte_length": 12531
+    },
+    {
+      "path": "wiki/interests/favorites/books.md",
+      "title": null,
+      "byte_offset": 193188,
+      "byte_length": 13071
+    },
+    {
+      "path": "wiki/interests/favorites/eclecticism.md",
+      "title": null,
+      "byte_offset": 206451,
+      "byte_length": 35387
+    },
+    {
+      "path": "wiki/interests/favorites/index.md",
+      "title": null,
+      "byte_offset": 242024,
+      "byte_length": 2887
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/a-day-to-remember.md",
+      "title": null,
+      "byte_offset": 245123,
+      "byte_length": 1352
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/afi.md",
+      "title": null,
+      "byte_offset": 246673,
+      "byte_length": 1255
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/all-time-low.md",
+      "title": null,
+      "byte_offset": 248135,
+      "byte_length": 2054
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/anberlin.md",
+      "title": null,
+      "byte_offset": 250392,
+      "byte_length": 1843
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/barenaked-ladies.md",
+      "title": null,
+      "byte_offset": 252446,
+      "byte_length": 1501
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/bloc-party.md",
+      "title": null,
+      "byte_offset": 254152,
+      "byte_length": 954
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/cobra-starship.md",
+      "title": null,
+      "byte_offset": 255315,
+      "byte_length": 1478
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/coheed-and-cambria.md",
+      "title": null,
+      "byte_offset": 257006,
+      "byte_length": 2043
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/coldplay.md",
+      "title": null,
+      "byte_offset": 259252,
+      "byte_length": 1071
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/default.md",
+      "title": null,
+      "byte_offset": 260525,
+      "byte_length": 1268
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/elliott-smith.md",
+      "title": null,
+      "byte_offset": 262001,
+      "byte_length": 5340
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/fall-out-boy.md",
+      "title": null,
+      "byte_offset": 267548,
+      "byte_length": 12964
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/flight-of-the-conchords.md",
+      "title": null,
+      "byte_offset": 280730,
+      "byte_length": 1871
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/guster.md",
+      "title": null,
+      "byte_offset": 282802,
+      "byte_length": 1286
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/gym-class-heroes.md",
+      "title": null,
+      "byte_offset": 284299,
+      "byte_length": 1743
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/hawthorne-heights.md",
+      "title": null,
+      "byte_offset": 286254,
+      "byte_length": 1302
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/hey-monday.md",
+      "title": null,
+      "byte_offset": 287761,
+      "byte_length": 3484
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/him.md",
+      "title": null,
+      "byte_offset": 291443,
+      "byte_length": 994
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/incubus.md",
+      "title": null,
+      "byte_offset": 292639,
+      "byte_length": 1471
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/jacks-mannequin.md",
+      "title": null,
+      "byte_offset": 294320,
+      "byte_length": 958
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/jedi-mind-tricks.md",
+      "title": null,
+      "byte_offset": 295489,
+      "byte_length": 2116
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/john-mayer.md",
+      "title": null,
+      "byte_offset": 297810,
+      "byte_length": 2205
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/jpegmafia.md",
+      "title": null,
+      "byte_offset": 300219,
+      "byte_length": 2863
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/kanye-west.md",
+      "title": null,
+      "byte_offset": 303287,
+      "byte_length": 3314
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/lil-wayne.md",
+      "title": null,
+      "byte_offset": 306805,
+      "byte_length": 2782
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/lyny.md",
+      "title": null,
+      "byte_offset": 309786,
+      "byte_length": 3147
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/mayday-parade.md",
+      "title": null,
+      "byte_offset": 313141,
+      "byte_length": 1184
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/motion-city-soundtrack.md",
+      "title": null,
+      "byte_offset": 314542,
+      "byte_length": 1761
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/my-chemical-romance.md",
+      "title": null,
+      "byte_offset": 316517,
+      "byte_length": 4990
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/new-found-glory.md",
+      "title": null,
+      "byte_offset": 321717,
+      "byte_length": 3619
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/nofx.md",
+      "title": null,
+      "byte_offset": 325535,
+      "byte_length": 1258
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/outkast.md",
+      "title": null,
+      "byte_offset": 326995,
+      "byte_length": 1268
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/panic-at-the-disco.md",
+      "title": null,
+      "byte_offset": 328476,
+      "byte_length": 3188
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/paramore.md",
+      "title": null,
+      "byte_offset": 331867,
+      "byte_length": 2013
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/saosin.md",
+      "title": null,
+      "byte_offset": 334081,
+      "byte_length": 1317
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/say-anything.md",
+      "title": null,
+      "byte_offset": 335605,
+      "byte_length": 4641
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/taking-back-sunday.md",
+      "title": null,
+      "byte_offset": 340459,
+      "byte_length": 5067
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/the-academy-is.md",
+      "title": null,
+      "byte_offset": 345735,
+      "byte_length": 1948
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/the-early-november.md",
+      "title": null,
+      "byte_offset": 347896,
+      "byte_length": 915
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/the-starting-line.md",
+      "title": null,
+      "byte_offset": 349023,
+      "byte_length": 2341
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/vertical-horizon.md",
+      "title": null,
+      "byte_offset": 351575,
+      "byte_length": 1306
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/we-the-kings.md",
+      "title": null,
+      "byte_offset": 353088,
+      "byte_length": 1191
+    },
+    {
+      "path": "wiki/interests/favorites/music/artists/wiki.md",
+      "title": null,
+      "byte_offset": 354478,
+      "byte_length": 1100
+    },
+    {
+      "path": "wiki/interests/favorites/music/electronic-bass.md",
+      "title": null,
+      "byte_offset": 355780,
+      "byte_length": 4434
+    },
+    {
+      "path": "wiki/interests/favorites/music.md",
+      "title": null,
+      "byte_offset": 360400,
+      "byte_length": 10012
+    },
+    {
+      "path": "wiki/interests/favorites/taste-profile.md",
+      "title": null,
+      "byte_offset": 370606,
+      "byte_length": 2151
+    },
+    {
+      "path": "wiki/interests/film-canon.md",
+      "title": null,
+      "byte_offset": 372938,
+      "byte_length": 6825
+    },
+    {
+      "path": "wiki/interests/food-and-diet.md",
+      "title": "Food and Diet",
+      "byte_offset": 379947,
+      "byte_length": 27246
+    },
+    {
+      "path": "wiki/interests/golf.md",
+      "title": null,
+      "byte_offset": 407368,
+      "byte_length": 9605
+    },
+    {
+      "path": "wiki/interests/gore-vidal.md",
+      "title": null,
+      "byte_offset": 417154,
+      "byte_length": 3506
+    },
+    {
+      "path": "wiki/interests/index.md",
+      "title": null,
+      "byte_offset": 420836,
+      "byte_length": 6748
+    },
+    {
+      "path": "wiki/interests/language/vocabulary-lexicon.md",
+      "title": "The Vocabulary Lexicon",
+      "byte_offset": 427782,
+      "byte_length": 20412
+    },
+    {
+      "path": "wiki/interests/music/aliases/gripnotic.md",
+      "title": null,
+      "byte_offset": 448388,
+      "byte_length": 7036
+    },
+    {
+      "path": "wiki/interests/music/aliases/mogged-up.md",
+      "title": null,
+      "byte_offset": 455618,
+      "byte_length": 2083
+    },
+    {
+      "path": "wiki/interests/music/aliases/mogzart.md",
+      "title": null,
+      "byte_offset": 457893,
+      "byte_length": 4414
+    },
+    {
+      "path": "wiki/interests/music/aliases/sloppp.md",
+      "title": "SLOPPP",
+      "byte_offset": 462498,
+      "byte_length": 21367
+    },
+    {
+      "path": "wiki/interests/music/bands/batteries-not-included.md",
+      "title": "Batteries Not Included (BNI)",
+      "byte_offset": 484070,
+      "byte_length": 5530
+    },
+    {
+      "path": "wiki/interests/music/concepts/lyrics-as-timbre.md",
+      "title": "Lyrics as Timbre",
+      "byte_offset": 489802,
+      "byte_length": 8395
+    },
+    {
+      "path": "wiki/interests/music/concepts/sub-bass-signature.md",
+      "title": null,
+      "byte_offset": 498401,
+      "byte_length": 4394
+    },
+    {
+      "path": "wiki/interests/music/index.md",
+      "title": null,
+      "byte_offset": 502977,
+      "byte_length": 1805
+    },
+    {
+      "path": "wiki/interests/music/overview.md",
+      "title": null,
+      "byte_offset": 504967,
+      "byte_length": 18084
+    },
+    {
+      "path": "wiki/interests/opie-and-anthony.md",
+      "title": null,
+      "byte_offset": 523238,
+      "byte_length": 12963
+    },
+    {
+      "path": "wiki/interests/rock-irrelevance-thesis.md",
+      "title": null,
+      "byte_offset": 536395,
+      "byte_length": 3739
+    },
+    {
+      "path": "wiki/interests/roman-republic.md",
+      "title": null,
+      "byte_offset": 540319,
+      "byte_length": 10670
+    },
+    {
+      "path": "wiki/interests/stand-up-comedy.md",
+      "title": null,
+      "byte_offset": 551175,
+      "byte_length": 6669
+    },
+    {
+      "path": "wiki/interests/the-office.md",
+      "title": null,
+      "byte_offset": 558025,
+      "byte_length": 7597
+    },
+    {
+      "path": "wiki/interests/video-games.md",
+      "title": null,
+      "byte_offset": 565804,
+      "byte_length": 9352
+    },
+    {
+      "path": "wiki/legal/2015-possession-arrest.md",
+      "title": "The 2015 Possession Arrest",
+      "byte_offset": 575345,
+      "byte_length": 20263
+    },
+    {
+      "path": "wiki/legal/2015-retail-theft-arrest.md",
+      "title": "The Combos Incident (2015 Retail Theft)",
+      "byte_offset": 595799,
+      "byte_length": 6157
+    },
+    {
+      "path": "wiki/legal/463-morgantown.md",
+      "title": "463 Morgantown St (Housing / Property Risks)",
+      "byte_offset": 602137,
+      "byte_length": 13620
+    },
+    {
+      "path": "wiki/legal/index.md",
+      "title": null,
+      "byte_offset": 615929,
+      "byte_length": 1775
+    },
+    {
+      "path": "wiki/meta/digest.md",
+      "title": "Wiki Digest",
+      "byte_offset": 617876,
+      "byte_length": 10345
+    },
+    {
+      "path": "wiki/meta/index.md",
+      "title": null,
+      "byte_offset": 628392,
+      "byte_length": 2904
+    },
+    {
+      "path": "wiki/meta/instruments/index.md",
+      "title": null,
+      "byte_offset": 631479,
+      "byte_length": 8287
+    },
+    {
+      "path": "wiki/meta/journeys/index.md",
+      "title": null,
+      "byte_offset": 639946,
+      "byte_length": 1051
+    },
+    {
+      "path": "wiki/meta/journeys/the-instrumented-channel.md",
+      "title": "The Instrumented Channel",
+      "byte_offset": 641196,
+      "byte_length": 6411
+    },
+    {
+      "path": "wiki/meta/journeys/the-supply-line.md",
+      "title": "The Supply Line",
+      "byte_offset": 647797,
+      "byte_length": 6108
+    },
+    {
+      "path": "wiki/meta/journeys/the-type-machine.md",
+      "title": "The Type Machine",
+      "byte_offset": 654096,
+      "byte_length": 5845
+    },
+    {
+      "path": "wiki/meta/open-questions.md",
+      "title": "Open Questions",
+      "byte_offset": 660121,
+      "byte_length": 181915
+    },
+    {
+      "path": "wiki/meta/readers-digest.md",
+      "title": "The Reader's Digest",
+      "byte_offset": 842216,
+      "byte_length": 5239
+    },
+    {
+      "path": "wiki/meta/recent-activity.md",
+      "title": "Recent Activity",
+      "byte_offset": 847636,
+      "byte_length": 35669
+    },
+    {
+      "path": "wiki/meta/skills.md",
+      "title": "The Skills Database",
+      "byte_offset": 883477,
+      "byte_length": 16260
+    },
+    {
+      "path": "wiki/meta/testimony-veracity.md",
+      "title": "Operator Testimony Veracity",
+      "byte_offset": 899921,
+      "byte_length": 12817
+    },
+    {
+      "path": "wiki/mind/concepts/acquisition-drive.md",
+      "title": "The Acquisition Drive",
+      "byte_offset": 912930,
+      "byte_length": 20826
+    },
+    {
+      "path": "wiki/mind/concepts/attachment-model.md",
+      "title": null,
+      "byte_offset": 933947,
+      "byte_length": 29635
+    },
+    {
+      "path": "wiki/mind/concepts/bunker-core.md",
+      "title": "Bunker Core",
+      "byte_offset": 963768,
+      "byte_length": 7971
+    },
+    {
+      "path": "wiki/mind/concepts/calibrated-confidence.md",
+      "title": "Calibrated Confidence",
+      "byte_offset": 971935,
+      "byte_length": 18899
+    },
+    {
+      "path": "wiki/mind/concepts/chaos-preference.md",
+      "title": "The Chaos Preference",
+      "byte_offset": 991025,
+      "byte_length": 16168
+    },
+    {
+      "path": "wiki/mind/concepts/conflict-architecture.md",
+      "title": null,
+      "byte_offset": 1007389,
+      "byte_length": 18365
+    },
+    {
+      "path": "wiki/mind/concepts/contact-gini.md",
+      "title": null,
+      "byte_offset": 1025941,
+      "byte_length": 33286
+    },
+    {
+      "path": "wiki/mind/concepts/dans-law.md",
+      "title": null,
+      "byte_offset": 1059410,
+      "byte_length": 7464
+    },
+    {
+      "path": "wiki/mind/concepts/document-fabrication.md",
+      "title": "Document Fabrication",
+      "byte_offset": 1067069,
+      "byte_length": 9660
+    },
+    {
+      "path": "wiki/mind/concepts/erotic-architecture.md",
+      "title": "Erotic Architecture: Sexuality as Controlled-Chaos Engineering",
+      "byte_offset": 1076923,
+      "byte_length": 15752
+    },
+    {
+      "path": "wiki/mind/concepts/exocortex.md",
+      "title": "The Exocortex (Bootloaders & Master Prompts)",
+      "byte_offset": 1092859,
+      "byte_length": 10855
+    },
+    {
+      "path": "wiki/mind/concepts/forensic-method.md",
+      "title": "The Forensic Method",
+      "byte_offset": 1103904,
+      "byte_length": 23455
+    },
+    {
+      "path": "wiki/mind/concepts/institutional-out.md",
+      "title": "The Institutional Out",
+      "byte_offset": 1127551,
+      "byte_length": 5718
+    },
+    {
+      "path": "wiki/mind/concepts/node-locking.md",
+      "title": "Node Locking",
+      "byte_offset": 1133456,
+      "byte_length": 8513
+    },
+    {
+      "path": "wiki/mind/concepts/phenomenology-lens.md",
+      "title": null,
+      "byte_offset": 1142162,
+      "byte_length": 9001
+    },
+    {
+      "path": "wiki/mind/concepts/reassurance-architecture.md",
+      "title": "The Reassurance Architecture \u2014 Check-Ins, Reaffirmation, and Why They Become Load-Bearing Under Stakes",
+      "byte_offset": 1151362,
+      "byte_length": 29884
+    },
+    {
+      "path": "wiki/mind/concepts/the-cool-metric.md",
+      "title": "The Cool Metric",
+      "byte_offset": 1181436,
+      "byte_length": 22485
+    },
+    {
+      "path": "wiki/mind/concepts/the-handed-mirror.md",
+      "title": "The Handed Mirror",
+      "byte_offset": 1204113,
+      "byte_length": 13065
+    },
+    {
+      "path": "wiki/mind/index.md",
+      "title": null,
+      "byte_offset": 1217349,
+      "byte_length": 18143
+    },
+    {
+      "path": "wiki/mind/politics/axioms.md",
+      "title": "The Power Axiom: What Resolves the Leftist/Authoritarian 'Paradox'",
+      "byte_offset": 1235673,
+      "byte_length": 16704
+    },
+    {
+      "path": "wiki/mind/politics/index.md",
+      "title": "Politics & Axiomatic Ideologies \u2014 Hub",
+      "byte_offset": 1252557,
+      "byte_length": 4359
+    },
+    {
+      "path": "wiki/mind/profile/big-five-psychometrics.md",
+      "title": "Big Five / Big30 Psychometrics & PD Vector",
+      "byte_offset": 1257112,
+      "byte_length": 24056
+    },
+    {
+      "path": "wiki/mind/profile/deviance-mapping.md",
+      "title": "Deviance Mapping \u2014 The Statistical Outlier Audit",
+      "byte_offset": 1281358,
+      "byte_length": 12700
+    },
+    {
+      "path": "wiki/mind/profile/enneagram-5w4.md",
+      "title": "Enneagram 5w4 sx/sp \u2014 The Iconoclast Hermit",
+      "byte_offset": 1294245,
+      "byte_length": 13082
+    },
+    {
+      "path": "wiki/mind/profile/index.md",
+      "title": "Personality Profile \u2014 Hub",
+      "byte_offset": 1307506,
+      "byte_length": 7662
+    },
+    {
+      "path": "wiki/mind/profile/intp.md",
+      "title": "INTP \u2014 The Cognitive Function Stack",
+      "byte_offset": 1315346,
+      "byte_length": 21004
+    },
+    {
+      "path": "wiki/mind/profile/lexicon.md",
+      "title": "Dan's Bespoke Lexicon",
+      "byte_offset": 1336531,
+      "byte_length": 9437
+    },
+    {
+      "path": "wiki/mind/profile/linguistic-profile.md",
+      "title": "Linguistic Profile \u2014 Voice, Register, Stylometrics",
+      "byte_offset": 1346160,
+      "byte_length": 15611
+    },
+    {
+      "path": "wiki/mind/profile/neurodivergence.md",
+      "title": "Neurodivergence \u2014 Autism as Self-Identification",
+      "byte_offset": 1361960,
+      "byte_length": 11589
+    },
+    {
+      "path": "wiki/mind/profile/socionics-and-attitudinal.md",
+      "title": "Socionics ILI-Ni, Attitudinal Psyche & Alignment",
+      "byte_offset": 1373748,
+      "byte_length": 7138
+    },
+    {
+      "path": "wiki/mind/profile/texting-deviance-audit.md",
+      "title": "Texting Deviance Audit \u2014 What Is Actually Abnormal About How Dan Texts",
+      "byte_offset": 1381082,
+      "byte_length": 21691
+    },
+    {
+      "path": "wiki/mind/profile/voice-modes.md",
+      "title": "Voice Modes \u2014 Dan's Texting Register by Emotional State",
+      "byte_offset": 1402958,
+      "byte_length": 9944
+    },
+    {
+      "path": "wiki/mind/psychosexual/arrangement-history.md",
+      "title": "Arrangement History",
+      "byte_offset": 1413100,
+      "byte_length": 29614
+    },
+    {
+      "path": "wiki/mind/psychosexual/developmental-origins.md",
+      "title": "Developmental Origins",
+      "byte_offset": 1442914,
+      "byte_length": 7353
+    },
+    {
+      "path": "wiki/mind/psychosexual/emotional-imprinting.md",
+      "title": "Emotional Imprinting",
+      "byte_offset": 1450466,
+      "byte_length": 7182
+    },
+    {
+      "path": "wiki/mind/psychosexual/index.md",
+      "title": "Psychosexual Profile \u2014 Hub",
+      "byte_offset": 1457832,
+      "byte_length": 7046
+    },
+    {
+      "path": "wiki/mind/psychosexual/orchestration-and-voyeurism.md",
+      "title": "Orchestration and Voyeurism",
+      "byte_offset": 1465084,
+      "byte_length": 10891
+    },
+    {
+      "path": "wiki/mind/psychosexual/taboo-and-boundary-testing.md",
+      "title": "Taboo and Boundary-Testing",
+      "byte_offset": 1476180,
+      "byte_length": 10137
+    },
+    {
+      "path": "wiki/mind/synthesis/2020-left-turn.md",
+      "title": null,
+      "byte_offset": 1486507,
+      "byte_length": 28723
+    },
+    {
+      "path": "wiki/mind/synthesis/ai-collaborative-analysis.md",
+      "title": "AI Collaborative Analysis",
+      "byte_offset": 1515431,
+      "byte_length": 26521
+    },
+    {
+      "path": "wiki/mind/synthesis/alias-as-periodization.md",
+      "title": "The Alias Is a Clock, Not a Style",
+      "byte_offset": 1542150,
+      "byte_length": 17328
+    },
+    {
+      "path": "wiki/mind/synthesis/ancestral-dialectic.md",
+      "title": "The Ancestral Dialectic: Ashkenazi Hypervigilance vs. Appalachian Numbness",
+      "byte_offset": 1559673,
+      "byte_length": 15404
+    },
+    {
+      "path": "wiki/mind/synthesis/annual-volume-suz.md",
+      "title": "Annual Message Volume: Dan vs. Suz",
+      "byte_offset": 1575270,
+      "byte_length": 5567
+    },
+    {
+      "path": "wiki/mind/synthesis/attachment-trauma-bond.md",
+      "title": null,
+      "byte_offset": 1581035,
+      "byte_length": 36547
+    },
+    {
+      "path": "wiki/mind/synthesis/august-grievance-verdict.md",
+      "title": "The August Grievances \u2014 a verdict on the last conversation",
+      "byte_offset": 1617782,
+      "byte_length": 39672
+    },
+    {
+      "path": "wiki/mind/synthesis/block-unblock-loop.md",
+      "title": null,
+      "byte_offset": 1657648,
+      "byte_length": 54691
+    },
+    {
+      "path": "wiki/mind/synthesis/bond-switch-2015.md",
+      "title": null,
+      "byte_offset": 1712531,
+      "byte_length": 28146
+    },
+    {
+      "path": "wiki/mind/synthesis/closing-the-set.md",
+      "title": "Closing the Set",
+      "byte_offset": 1740868,
+      "byte_length": 27813
+    },
+    {
+      "path": "wiki/mind/synthesis/dan-annie-fallout-verdict.md",
+      "title": null,
+      "byte_offset": 1768882,
+      "byte_length": 62021
+    },
+    {
+      "path": "wiki/mind/synthesis/dormancy-not-exit.md",
+      "title": "Dormancy, Not Exit",
+      "byte_offset": 1831096,
+      "byte_length": 52339
+    },
+    {
+      "path": "wiki/mind/synthesis/estate-money-spine.md",
+      "title": null,
+      "byte_offset": 1883629,
+      "byte_length": 36380
+    },
+    {
+      "path": "wiki/mind/synthesis/failure-to-launch.md",
+      "title": "Failure to Launch \u2014 The Capability Audit",
+      "byte_offset": 1920202,
+      "byte_length": 40755
+    },
+    {
+      "path": "wiki/mind/synthesis/fayette-return.md",
+      "title": "The Fayette Return",
+      "byte_offset": 1961147,
+      "byte_length": 26488
+    },
+    {
+      "path": "wiki/mind/synthesis/instrument-is-subject.md",
+      "title": "The Instrument Is Also the Subject",
+      "byte_offset": 1987832,
+      "byte_length": 20595
+    },
+    {
+      "path": "wiki/mind/synthesis/intake-constancy.md",
+      "title": null,
+      "byte_offset": 2008619,
+      "byte_length": 16708
+    },
+    {
+      "path": "wiki/mind/synthesis/intensity-is-no-longer-the-only-mode.md",
+      "title": "Intensity Is No Longer the Only Mode",
+      "byte_offset": 2025539,
+      "byte_length": 3479
+    },
+    {
+      "path": "wiki/mind/synthesis/interests-as-era-markers.md",
+      "title": null,
+      "byte_offset": 2029218,
+      "byte_length": 10064
+    },
+    {
+      "path": "wiki/mind/synthesis/message-circadian-latency.md",
+      "title": null,
+      "byte_offset": 2039483,
+      "byte_length": 18220
+    },
+    {
+      "path": "wiki/mind/synthesis/millennial-digital-witness.md",
+      "title": "Millennial Digital Witness",
+      "byte_offset": 2057905,
+      "byte_length": 14169
+    },
+    {
+      "path": "wiki/mind/synthesis/morgantown-call-three-participant-ethical-analysis.md",
+      "title": null,
+      "byte_offset": 2072300,
+      "byte_length": 43701
+    },
+    {
+      "path": "wiki/mind/synthesis/music-as-identity.md",
+      "title": null,
+      "byte_offset": 2116194,
+      "byte_length": 12953
+    },
+    {
+      "path": "wiki/mind/synthesis/no-platonic-channel.md",
+      "title": "No Platonic Channel",
+      "byte_offset": 2129342,
+      "byte_length": 17988
+    },
+    {
+      "path": "wiki/mind/synthesis/political-psyops.md",
+      "title": "Political Psyops & Hybrid Events",
+      "byte_offset": 2147522,
+      "byte_length": 17944
+    },
+    {
+      "path": "wiki/mind/synthesis/read-receipt-forensics.md",
+      "title": "Read-Receipt Forensics \u2014 chat.db Metadata and Its Traps",
+      "byte_offset": 2165664,
+      "byte_length": 15762
+    },
+    {
+      "path": "wiki/mind/synthesis/single-channel.md",
+      "title": "The Single Channel",
+      "byte_offset": 2181616,
+      "byte_length": 40846
+    },
+    {
+      "path": "wiki/mind/synthesis/spatial-behavior.md",
+      "title": null,
+      "byte_offset": 2222654,
+      "byte_length": 6590
+    },
+    {
+      "path": "wiki/mind/synthesis/supply-network.md",
+      "title": null,
+      "byte_offset": 2229434,
+      "byte_length": 41831
+    },
+    {
+      "path": "wiki/mind/synthesis/the-binary-verdict.md",
+      "title": "The Binary Verdict",
+      "byte_offset": 2271459,
+      "byte_length": 39173
+    },
+    {
+      "path": "wiki/mind/synthesis/the-cato-seat.md",
+      "title": "The Cato Seat",
+      "byte_offset": 2310821,
+      "byte_length": 21194
+    },
+    {
+      "path": "wiki/mind/synthesis/the-commissioned-self.md",
+      "title": "The Commissioned Self",
+      "byte_offset": 2332212,
+      "byte_length": 32637
+    },
+    {
+      "path": "wiki/mind/synthesis/the-deferred-audit.md",
+      "title": "The Deferred Audit",
+      "byte_offset": 2365043,
+      "byte_length": 47610
+    },
+    {
+      "path": "wiki/mind/synthesis/the-embedded-objective.md",
+      "title": "The Embedded Objective",
+      "byte_offset": 2412851,
+      "byte_length": 32622
+    },
+    {
+      "path": "wiki/mind/synthesis/the-rescue-premise.md",
+      "title": "The Rescue Premise \u2014 What Is Actually Different About the August 2026 Rupture",
+      "byte_offset": 2445667,
+      "byte_length": 37165
+    },
+    {
+      "path": "wiki/mind/synthesis/the-serial-monogamist.md",
+      "title": "The Serial Monogamist",
+      "byte_offset": 2483029,
+      "byte_length": 17086
+    },
+    {
+      "path": "wiki/mind/synthesis/the-unbroken-bond.md",
+      "title": "The Unbroken Bond",
+      "byte_offset": 2500308,
+      "byte_length": 39869
+    },
+    {
+      "path": "wiki/mind/synthesis/totality-themes.md",
+      "title": null,
+      "byte_offset": 2540368,
+      "byte_length": 78012
+    },
+    {
+      "path": "wiki/mind/synthesis/twitter-2024-cognitive-state.md",
+      "title": "2024 Twitter / X Cognitive State \u2014 Adversarial Historian",
+      "byte_offset": 2618584,
+      "byte_length": 25380
+    },
+    {
+      "path": "wiki/mind/synthesis/vertical-authority-skepticism.md",
+      "title": "Vertical Authority Skepticism",
+      "byte_offset": 2644169,
+      "byte_length": 29636
+    },
+    {
+      "path": "wiki/people/aaron.md",
+      "title": null,
+      "byte_offset": 2673978,
+      "byte_length": 3359
+    },
+    {
+      "path": "wiki/people/al.md",
+      "title": null,
+      "byte_offset": 2677507,
+      "byte_length": 2747
+    },
+    {
+      "path": "wiki/people/alex-frank.md",
+      "title": "Alex Frank",
+      "byte_offset": 2680432,
+      "byte_length": 6029
+    },
+    {
+      "path": "wiki/people/alexander-jackson.md",
+      "title": null,
+      "byte_offset": 2686646,
+      "byte_length": 6974
+    },
+    {
+      "path": "wiki/people/alexis-armel.md",
+      "title": "Alexis Armel",
+      "byte_offset": 2693800,
+      "byte_length": 63299
+    },
+    {
+      "path": "wiki/people/alice.md",
+      "title": "Alice",
+      "byte_offset": 2757272,
+      "byte_length": 6319
+    },
+    {
+      "path": "wiki/people/ally-lubin-2026-08-26-update.md",
+      "title": "Ally Lubin \u2014 2026-08-26 Current-State Update",
+      "byte_offset": 2763787,
+      "byte_length": 3543
+    },
+    {
+      "path": "wiki/people/ally-lubin-2026-08-26-visible-update.md",
+      "title": "Ally Lubin \u2014 2026-08-26 Visible Update",
+      "byte_offset": 2767534,
+      "byte_length": 3724
+    },
+    {
+      "path": "wiki/people/ally-lubin-cognitive-profile.md",
+      "title": "Ally Lubin \u2014 Cognitive Profile",
+      "byte_offset": 2771454,
+      "byte_length": 38641
+    },
+    {
+      "path": "wiki/people/ally-lubin.md",
+      "title": "Ally Lubin",
+      "byte_offset": 2810273,
+      "byte_length": 63176
+    },
+    {
+      "path": "wiki/people/anita.md",
+      "title": "Anita (BFS Foods GM)",
+      "byte_offset": 2873622,
+      "byte_length": 6053
+    },
+    {
+      "path": "wiki/people/annie-ulmer-2026-08-26-update.md",
+      "title": "Annie Ulmer \u2014 2026-08-26 Current-State Update",
+      "byte_offset": 2879872,
+      "byte_length": 3401
+    },
+    {
+      "path": "wiki/people/annie-ulmer-2026-08-26-visible-update.md",
+      "title": "Annie Ulmer \u2014 2026-08-26 Boundary Update",
+      "byte_offset": 2883478,
+      "byte_length": 3575
+    },
+    {
+      "path": "wiki/people/annie-ulmer-personality-assessment.md",
+      "title": "Annie Ulmer \u2014 Forensic Personality Assessment",
+      "byte_offset": 2887255,
+      "byte_length": 31744
+    },
+    {
+      "path": "wiki/people/annie-ulmer.md",
+      "title": "Annie (Anne Louise Ulmer)",
+      "byte_offset": 2919178,
+      "byte_length": 153675
+    },
+    {
+      "path": "wiki/people/annoying.md",
+      "title": null,
+      "byte_offset": 3073029,
+      "byte_length": 2469
+    },
+    {
+      "path": "wiki/people/arnu.md",
+      "title": null,
+      "byte_offset": 3075670,
+      "byte_length": 6144
+    },
+    {
+      "path": "wiki/people/bekah-fullem.md",
+      "title": null,
+      "byte_offset": 3081994,
+      "byte_length": 6329
+    },
+    {
+      "path": "wiki/people/betherin-mechling.md",
+      "title": "Betherin Mechling",
+      "byte_offset": 3088508,
+      "byte_length": 5828
+    },
+    {
+      "path": "wiki/people/bill-ulmer.md",
+      "title": null,
+      "byte_offset": 3094514,
+      "byte_length": 2658
+    },
+    {
+      "path": "wiki/people/bill.md",
+      "title": null,
+      "byte_offset": 3097344,
+      "byte_length": 2259
+    },
+    {
+      "path": "wiki/people/bobby-cole.md",
+      "title": null,
+      "byte_offset": 3099781,
+      "byte_length": 5800
+    },
+    {
+      "path": "wiki/people/brad-hubeaut.md",
+      "title": null,
+      "byte_offset": 3105761,
+      "byte_length": 3192
+    },
+    {
+      "path": "wiki/people/brandon-hill.md",
+      "title": "Brandon Hill (BFS Assistant Manager)",
+      "byte_offset": 3109133,
+      "byte_length": 4658
+    },
+    {
+      "path": "wiki/people/brennan-meadows.md",
+      "title": null,
+      "byte_offset": 3113974,
+      "byte_length": 1701
+    },
+    {
+      "path": "wiki/people/brian.md",
+      "title": null,
+      "byte_offset": 3115848,
+      "byte_length": 3101
+    },
+    {
+      "path": "wiki/people/bruce-burish.md",
+      "title": null,
+      "byte_offset": 3119129,
+      "byte_length": 5924
+    },
+    {
+      "path": "wiki/people/bryan-5088682461.md",
+      "title": null,
+      "byte_offset": 3125237,
+      "byte_length": 5748
+    },
+    {
+      "path": "wiki/people/bub.md",
+      "title": null,
+      "byte_offset": 3131156,
+      "byte_length": 2299
+    },
+    {
+      "path": "wiki/people/casey-bondarenka.md",
+      "title": null,
+      "byte_offset": 3133639,
+      "byte_length": 6550
+    },
+    {
+      "path": "wiki/people/chad-johnson.md",
+      "title": null,
+      "byte_offset": 3140369,
+      "byte_length": 2013
+    },
+    {
+      "path": "wiki/people/charles-davenport.md",
+      "title": null,
+      "byte_offset": 3142567,
+      "byte_length": 2331
+    },
+    {
+      "path": "wiki/people/christian-hanson.md",
+      "title": null,
+      "byte_offset": 3145082,
+      "byte_length": 2481
+    },
+    {
+      "path": "wiki/people/christo-coan.md",
+      "title": null,
+      "byte_offset": 3147743,
+      "byte_length": 4393
+    },
+    {
+      "path": "wiki/people/claire-ulmer.md",
+      "title": "Claire Ulmer",
+      "byte_offset": 3152316,
+      "byte_length": 4058
+    },
+    {
+      "path": "wiki/people/clyde.md",
+      "title": null,
+      "byte_offset": 3156547,
+      "byte_length": 2623
+    },
+    {
+      "path": "wiki/people/dakota.md",
+      "title": null,
+      "byte_offset": 3159344,
+      "byte_length": 2081
+    },
+    {
+      "path": "wiki/people/dan-polyak.md",
+      "title": null,
+      "byte_offset": 3161603,
+      "byte_length": 7808
+    },
+    {
+      "path": "wiki/people/danielle-onesi.md",
+      "title": "Danielle Onesi",
+      "byte_offset": 3169593,
+      "byte_length": 11379
+    },
+    {
+      "path": "wiki/people/danny-matthews.md",
+      "title": null,
+      "byte_offset": 3181154,
+      "byte_length": 8752
+    },
+    {
+      "path": "wiki/people/dave-moore.md",
+      "title": "Dave Moore",
+      "byte_offset": 3190084,
+      "byte_length": 7137
+    },
+    {
+      "path": "wiki/people/davey-fitzpatrick.md",
+      "title": null,
+      "byte_offset": 3197406,
+      "byte_length": 7255
+    },
+    {
+      "path": "wiki/people/david-beard.md",
+      "title": null,
+      "byte_offset": 3204840,
+      "byte_length": 3208
+    },
+    {
+      "path": "wiki/people/david-j-frank.md",
+      "title": "David J. Frank",
+      "byte_offset": 3208229,
+      "byte_length": 5525
+    },
+    {
+      "path": "wiki/people/del.md",
+      "title": null,
+      "byte_offset": 3213925,
+      "byte_length": 2484
+    },
+    {
+      "path": "wiki/people/diane-moore.md",
+      "title": "Diane Moore (Rebecca Diane Van Voorhis)",
+      "byte_offset": 3216588,
+      "byte_length": 19955
+    },
+    {
+      "path": "wiki/people/dimitri.md",
+      "title": "Dimitri",
+      "byte_offset": 3236718,
+      "byte_length": 4078
+    },
+    {
+      "path": "wiki/people/drew-mcgettigan.md",
+      "title": null,
+      "byte_offset": 3240979,
+      "byte_length": 2254
+    },
+    {
+      "path": "wiki/people/drew.md",
+      "title": null,
+      "byte_offset": 3243405,
+      "byte_length": 1886
+    },
+    {
+      "path": "wiki/people/ej-rags.md",
+      "title": null,
+      "byte_offset": 3245466,
+      "byte_length": 3090
+    },
+    {
+      "path": "wiki/people/eli.md",
+      "title": "Eli",
+      "byte_offset": 3248727,
+      "byte_length": 6001
+    },
+    {
+      "path": "wiki/people/elizabeth-eleanor.md",
+      "title": null,
+      "byte_offset": 3254913,
+      "byte_length": 4494
+    },
+    {
+      "path": "wiki/people/ellen-ulmer.md",
+      "title": null,
+      "byte_offset": 3259586,
+      "byte_length": 12221
+    },
+    {
+      "path": "wiki/people/emaly-minerd.md",
+      "title": null,
+      "byte_offset": 3271987,
+      "byte_length": 25553
+    },
+    {
+      "path": "wiki/people/emilio.md",
+      "title": null,
+      "byte_offset": 3297714,
+      "byte_length": 5661
+    },
+    {
+      "path": "wiki/people/eric-jester.md",
+      "title": null,
+      "byte_offset": 3303554,
+      "byte_length": 8619
+    },
+    {
+      "path": "wiki/people/eric-springer.md",
+      "title": null,
+      "byte_offset": 3312354,
+      "byte_length": 1932
+    },
+    {
+      "path": "wiki/people/felipe.md",
+      "title": "Felipe",
+      "byte_offset": 3314460,
+      "byte_length": 1355
+    },
+    {
+      "path": "wiki/people/felix.md",
+      "title": null,
+      "byte_offset": 3315988,
+      "byte_length": 1471
+    },
+    {
+      "path": "wiki/people/fran-coldren.md",
+      "title": "Frances 'Fran' Whyel Coldren",
+      "byte_offset": 3317639,
+      "byte_length": 28693
+    },
+    {
+      "path": "wiki/people/franki-faris.md",
+      "title": "Franki Faris",
+      "byte_offset": 3346512,
+      "byte_length": 14011
+    },
+    {
+      "path": "wiki/people/fred-adams.md",
+      "title": "Judge Fred Adams",
+      "byte_offset": 3360701,
+      "byte_length": 15797
+    },
+    {
+      "path": "wiki/people/gabe.md",
+      "title": "Gabe",
+      "byte_offset": 3376670,
+      "byte_length": 4186
+    },
+    {
+      "path": "wiki/people/garrett.md",
+      "title": "Garrett",
+      "byte_offset": 3381031,
+      "byte_length": 4036
+    },
+    {
+      "path": "wiki/people/index.md",
+      "title": null,
+      "byte_offset": 3385240,
+      "byte_length": 26949
+    },
+    {
+      "path": "wiki/people/ismaila-barry.md",
+      "title": "Ismaila Barry (\\\"DJ\\\")",
+      "byte_offset": 3412370,
+      "byte_length": 3262
+    },
+    {
+      "path": "wiki/people/jack-connor.md",
+      "title": "Jack Connor",
+      "byte_offset": 3415811,
+      "byte_length": 2872
+    },
+    {
+      "path": "wiki/people/jack-rusko.md",
+      "title": null,
+      "byte_offset": 3418861,
+      "byte_length": 2544
+    },
+    {
+      "path": "wiki/people/jacob-bacharach.md",
+      "title": "Jacob Bacharach",
+      "byte_offset": 3421588,
+      "byte_length": 16769
+    },
+    {
+      "path": "wiki/people/jajuan-davis.md",
+      "title": null,
+      "byte_offset": 3438537,
+      "byte_length": 1776
+    },
+    {
+      "path": "wiki/people/james-dee.md",
+      "title": "James (\\\"Jimi Pop\\\")",
+      "byte_offset": 3440490,
+      "byte_length": 12737
+    },
+    {
+      "path": "wiki/people/james.md",
+      "title": null,
+      "byte_offset": 3453400,
+      "byte_length": 8137
+    },
+    {
+      "path": "wiki/people/jamie-mohler.md",
+      "title": null,
+      "byte_offset": 3461717,
+      "byte_length": 15358
+    },
+    {
+      "path": "wiki/people/jaredtricia.md",
+      "title": null,
+      "byte_offset": 3477254,
+      "byte_length": 7231
+    },
+    {
+      "path": "wiki/people/jason-bermejo.md",
+      "title": null,
+      "byte_offset": 3484666,
+      "byte_length": 12991
+    },
+    {
+      "path": "wiki/people/jason-cole.md",
+      "title": null,
+      "byte_offset": 3497835,
+      "byte_length": 2892
+    },
+    {
+      "path": "wiki/people/jay-lauer.md",
+      "title": "Jay Lauer",
+      "byte_offset": 3500904,
+      "byte_length": 9848
+    },
+    {
+      "path": "wiki/people/jenn-lynn.md",
+      "title": null,
+      "byte_offset": 3510929,
+      "byte_length": 4835
+    },
+    {
+      "path": "wiki/people/jerad-friedline.md",
+      "title": "Jerad Friedline",
+      "byte_offset": 3515947,
+      "byte_length": 7870
+    },
+    {
+      "path": "wiki/people/jerel-coles.md",
+      "title": "Jerel Wayne Coles",
+      "byte_offset": 3523996,
+      "byte_length": 32585
+    },
+    {
+      "path": "wiki/people/jess.md",
+      "title": null,
+      "byte_offset": 3556753,
+      "byte_length": 1753
+    },
+    {
+      "path": "wiki/people/jim-blanchard.md",
+      "title": null,
+      "byte_offset": 3558687,
+      "byte_length": 2677
+    },
+    {
+      "path": "wiki/people/jim-vrabel.md",
+      "title": null,
+      "byte_offset": 3561542,
+      "byte_length": 2228
+    },
+    {
+      "path": "wiki/people/jimmy.md",
+      "title": null,
+      "byte_offset": 3563943,
+      "byte_length": 2055
+    },
+    {
+      "path": "wiki/people/joe-croftcheck.md",
+      "title": "Joe Croftcheck",
+      "byte_offset": 3566180,
+      "byte_length": 4499
+    },
+    {
+      "path": "wiki/people/joe-oshnack.md",
+      "title": null,
+      "byte_offset": 3570858,
+      "byte_length": 6848
+    },
+    {
+      "path": "wiki/people/joey-superick.md",
+      "title": null,
+      "byte_offset": 3577887,
+      "byte_length": 1543
+    },
+    {
+      "path": "wiki/people/john-anderson.md",
+      "title": null,
+      "byte_offset": 3579611,
+      "byte_length": 1564
+    },
+    {
+      "path": "wiki/people/john-carney.md",
+      "title": null,
+      "byte_offset": 3581354,
+      "byte_length": 6309
+    },
+    {
+      "path": "wiki/people/john-felix.md",
+      "title": null,
+      "byte_offset": 3587841,
+      "byte_length": 3236
+    },
+    {
+      "path": "wiki/people/john-paci.md",
+      "title": null,
+      "byte_offset": 3591254,
+      "byte_length": 14621
+    },
+    {
+      "path": "wiki/people/johnny-dealer.md",
+      "title": null,
+      "byte_offset": 3606056,
+      "byte_length": 15354
+    },
+    {
+      "path": "wiki/people/josh-brannan.md",
+      "title": null,
+      "byte_offset": 3621590,
+      "byte_length": 5432
+    },
+    {
+      "path": "wiki/people/josh-coccagna.md",
+      "title": null,
+      "byte_offset": 3627203,
+      "byte_length": 1690
+    },
+    {
+      "path": "wiki/people/katherine-palakovich.md",
+      "title": null,
+      "byte_offset": 3629081,
+      "byte_length": 4037
+    },
+    {
+      "path": "wiki/people/katie-fletcher.md",
+      "title": "Katie Fletcher",
+      "byte_offset": 3633300,
+      "byte_length": 8154
+    },
+    {
+      "path": "wiki/people/kelly-johansson.md",
+      "title": null,
+      "byte_offset": 3641637,
+      "byte_length": 3812
+    },
+    {
+      "path": "wiki/people/kevin-mckiernan.md",
+      "title": null,
+      "byte_offset": 3645632,
+      "byte_length": 9308
+    },
+    {
+      "path": "wiki/people/kim.md",
+      "title": null,
+      "byte_offset": 3655111,
+      "byte_length": 4177
+    },
+    {
+      "path": "wiki/people/kristin.md",
+      "title": null,
+      "byte_offset": 3659463,
+      "byte_length": 29049
+    },
+    {
+      "path": "wiki/people/kya-hansen.md",
+      "title": "Kya Hansen (\\\"bbblud\\\")",
+      "byte_offset": 3688690,
+      "byte_length": 3676
+    },
+    {
+      "path": "wiki/people/lauryn-ashly.md",
+      "title": null,
+      "byte_offset": 3692546,
+      "byte_length": 4683
+    },
+    {
+      "path": "wiki/people/lewis-strosnider.md",
+      "title": null,
+      "byte_offset": 3697413,
+      "byte_length": 5327
+    },
+    {
+      "path": "wiki/people/libby.md",
+      "title": "Libby Titus",
+      "byte_offset": 3702913,
+      "byte_length": 13687
+    },
+    {
+      "path": "wiki/people/lindsay-carolla.md",
+      "title": null,
+      "byte_offset": 3716783,
+      "byte_length": 2046
+    },
+    {
+      "path": "wiki/people/lisa-durbin.md",
+      "title": null,
+      "byte_offset": 3719008,
+      "byte_length": 1630
+    },
+    {
+      "path": "wiki/people/lisa-frank.md",
+      "title": null,
+      "byte_offset": 3720816,
+      "byte_length": 2971
+    },
+    {
+      "path": "wiki/people/lucas-thomas.md",
+      "title": null,
+      "byte_offset": 3723967,
+      "byte_length": 3188
+    },
+    {
+      "path": "wiki/people/lucie-dobbin.md",
+      "title": null,
+      "byte_offset": 3727335,
+      "byte_length": 5248
+    },
+    {
+      "path": "wiki/people/lucy.md",
+      "title": "Lucy",
+      "byte_offset": 3732755,
+      "byte_length": 2903
+    },
+    {
+      "path": "wiki/people/lukyan-mraz.md",
+      "title": null,
+      "byte_offset": 3735837,
+      "byte_length": 3833
+    },
+    {
+      "path": "wiki/people/maddox.md",
+      "title": null,
+      "byte_offset": 3739844,
+      "byte_length": 2512
+    },
+    {
+      "path": "wiki/people/manuel.md",
+      "title": null,
+      "byte_offset": 3742530,
+      "byte_length": 2825
+    },
+    {
+      "path": "wiki/people/marc-charles.md",
+      "title": null,
+      "byte_offset": 3745535,
+      "byte_length": 2567
+    },
+    {
+      "path": "wiki/people/marla.md",
+      "title": null,
+      "byte_offset": 3748275,
+      "byte_length": 4230
+    },
+    {
+      "path": "wiki/people/marty-jackson.md",
+      "title": null,
+      "byte_offset": 3752686,
+      "byte_length": 3310
+    },
+    {
+      "path": "wiki/people/marty-martin.md",
+      "title": null,
+      "byte_offset": 3756176,
+      "byte_length": 4097
+    },
+    {
+      "path": "wiki/people/mary-kate.md",
+      "title": null,
+      "byte_offset": 3760450,
+      "byte_length": 3018
+    },
+    {
+      "path": "wiki/people/matt-dunn.md",
+      "title": null,
+      "byte_offset": 3763645,
+      "byte_length": 6261
+    },
+    {
+      "path": "wiki/people/matt-kraus.md",
+      "title": null,
+      "byte_offset": 3770084,
+      "byte_length": 4218
+    },
+    {
+      "path": "wiki/people/matthew-palermo.md",
+      "title": null,
+      "byte_offset": 3774485,
+      "byte_length": 4055
+    },
+    {
+      "path": "wiki/people/max.md",
+      "title": null,
+      "byte_offset": 3778711,
+      "byte_length": 8008
+    },
+    {
+      "path": "wiki/people/md.md",
+      "title": null,
+      "byte_offset": 3786889,
+      "byte_length": 1905
+    },
+    {
+      "path": "wiki/people/menore.md",
+      "title": null,
+      "byte_offset": 3788968,
+      "byte_length": 29099
+    },
+    {
+      "path": "wiki/people/michael-hinkle.md",
+      "title": null,
+      "byte_offset": 3818249,
+      "byte_length": 1212
+    },
+    {
+      "path": "wiki/people/mike-cordaro.md",
+      "title": null,
+      "byte_offset": 3819641,
+      "byte_length": 3584
+    },
+    {
+      "path": "wiki/people/mike-hinkle.md",
+      "title": null,
+      "byte_offset": 3823404,
+      "byte_length": 1987
+    },
+    {
+      "path": "wiki/people/mike-zollinger.md",
+      "title": null,
+      "byte_offset": 3825573,
+      "byte_length": 1699
+    },
+    {
+      "path": "wiki/people/milo.md",
+      "title": "Milo",
+      "byte_offset": 3827444,
+      "byte_length": 17323
+    },
+    {
+      "path": "wiki/people/mohammed-bin-salman.md",
+      "title": null,
+      "byte_offset": 3844954,
+      "byte_length": 2567
+    },
+    {
+      "path": "wiki/people/morley-frank.md",
+      "title": "Morley Jay Frank",
+      "byte_offset": 3847701,
+      "byte_length": 7575
+    },
+    {
+      "path": "wiki/people/nathan-king.md",
+      "title": null,
+      "byte_offset": 3855455,
+      "byte_length": 2104
+    },
+    {
+      "path": "wiki/people/new-jim-shaffer.md",
+      "title": null,
+      "byte_offset": 3857742,
+      "byte_length": 6943
+    },
+    {
+      "path": "wiki/people/nick-mattie.md",
+      "title": null,
+      "byte_offset": 3864864,
+      "byte_length": 5967
+    },
+    {
+      "path": "wiki/people/oscar-lindquist.md",
+      "title": null,
+      "byte_offset": 3871014,
+      "byte_length": 3949
+    },
+    {
+      "path": "wiki/people/otto.md",
+      "title": "Otto",
+      "byte_offset": 3875135,
+      "byte_length": 3409
+    },
+    {
+      "path": "wiki/people/renae-holland.md",
+      "title": null,
+      "byte_offset": 3878725,
+      "byte_length": 3344
+    },
+    {
+      "path": "wiki/people/rick-frank.md",
+      "title": "Richard Harrison \\\"Rick\\\" Frank",
+      "byte_offset": 3882247,
+      "byte_length": 35168
+    },
+    {
+      "path": "wiki/people/rj-ritchey.md",
+      "title": "RJ Ritchey",
+      "byte_offset": 3917593,
+      "byte_length": 5685
+    },
+    {
+      "path": "wiki/people/rob-orange.md",
+      "title": null,
+      "byte_offset": 3923456,
+      "byte_length": 4913
+    },
+    {
+      "path": "wiki/people/rod-banks.md",
+      "title": null,
+      "byte_offset": 3928546,
+      "byte_length": 9786
+    },
+    {
+      "path": "wiki/people/ryan-lisac.md",
+      "title": null,
+      "byte_offset": 3938510,
+      "byte_length": 2105
+    },
+    {
+      "path": "wiki/people/ryan-scherich.md",
+      "title": null,
+      "byte_offset": 3940796,
+      "byte_length": 2642
+    },
+    {
+      "path": "wiki/people/sadie-harris.md",
+      "title": "Sadie Harris",
+      "byte_offset": 3943618,
+      "byte_length": 6800
+    },
+    {
+      "path": "wiki/people/sam.md",
+      "title": null,
+      "byte_offset": 3950589,
+      "byte_length": 7243
+    },
+    {
+      "path": "wiki/people/sean-teets.md",
+      "title": null,
+      "byte_offset": 3958010,
+      "byte_length": 1971
+    },
+    {
+      "path": "wiki/people/seth-ledonne.md",
+      "title": null,
+      "byte_offset": 3960161,
+      "byte_length": 4323
+    },
+    {
+      "path": "wiki/people/shane-brannan.md",
+      "title": null,
+      "byte_offset": 3964665,
+      "byte_length": 5155
+    },
+    {
+      "path": "wiki/people/shannon.md",
+      "title": null,
+      "byte_offset": 3969995,
+      "byte_length": 2067
+    },
+    {
+      "path": "wiki/people/shelbie-breakiron.md",
+      "title": null,
+      "byte_offset": 3972247,
+      "byte_length": 7643
+    },
+    {
+      "path": "wiki/people/slim.md",
+      "title": null,
+      "byte_offset": 3980062,
+      "byte_length": 1496
+    },
+    {
+      "path": "wiki/people/stephanie-nalbone.md",
+      "title": null,
+      "byte_offset": 3981743,
+      "byte_length": 4648
+    },
+    {
+      "path": "wiki/people/steve-kezmarsky.md",
+      "title": null,
+      "byte_offset": 3986574,
+      "byte_length": 6883
+    },
+    {
+      "path": "wiki/people/suzanne-frank-personality-assessment.md",
+      "title": "Suzanne Frank \u2014 Forensic Personality Assessment",
+      "byte_offset": 3993661,
+      "byte_length": 23820
+    },
+    {
+      "path": "wiki/people/suzanne-frank.md",
+      "title": "Suz (Suzanne Frank, mother)",
+      "byte_offset": 4017662,
+      "byte_length": 71206
+    },
+    {
+      "path": "wiki/people/tan-calabrese.md",
+      "title": null,
+      "byte_offset": 4089049,
+      "byte_length": 5222
+    },
+    {
+      "path": "wiki/people/tarik-fallous.md",
+      "title": null,
+      "byte_offset": 4094452,
+      "byte_length": 12527
+    },
+    {
+      "path": "wiki/people/teddy.md",
+      "title": "Teddy",
+      "byte_offset": 4107152,
+      "byte_length": 6445
+    },
+    {
+      "path": "wiki/people/the-unnamed-man.md",
+      "title": "The Unnamed Man",
+      "byte_offset": 4113780,
+      "byte_length": 13725
+    },
+    {
+      "path": "wiki/people/timmy.md",
+      "title": "Timmy",
+      "byte_offset": 4127678,
+      "byte_length": 4396
+    },
+    {
+      "path": "wiki/people/tom-wallisch.md",
+      "title": null,
+      "byte_offset": 4132254,
+      "byte_length": 3629
+    },
+    {
+      "path": "wiki/people/tom.md",
+      "title": null,
+      "byte_offset": 4136054,
+      "byte_length": 24200
+    },
+    {
+      "path": "wiki/people/trevor.md",
+      "title": "Trevor Bevins",
+      "byte_offset": 4160428,
+      "byte_length": 6249
+    },
+    {
+      "path": "wiki/people/trinity-st-clair.md",
+      "title": null,
+      "byte_offset": 4166861,
+      "byte_length": 10245
+    },
+    {
+      "path": "wiki/people/tuquick-17248123683.md",
+      "title": null,
+      "byte_offset": 4177293,
+      "byte_length": 15236
+    },
+    {
+      "path": "wiki/people/urpaaa-at-yahoo-com.md",
+      "title": null,
+      "byte_offset": 4192716,
+      "byte_length": 5580
+    },
+    {
+      "path": "wiki/people/valeria-iglesias-cid.md",
+      "title": "Valeria Iglesias Cid",
+      "byte_offset": 4198484,
+      "byte_length": 10087
+    },
+    {
+      "path": "wiki/people/vanessa-frank.md",
+      "title": "Vanessa C. Frank",
+      "byte_offset": 4208752,
+      "byte_length": 9952
+    },
+    {
+      "path": "wiki/people/vaughn.md",
+      "title": null,
+      "byte_offset": 4218878,
+      "byte_length": 6179
+    },
+    {
+      "path": "wiki/people/vicki.md",
+      "title": "Vicki",
+      "byte_offset": 4225230,
+      "byte_length": 4825
+    },
+    {
+      "path": "wiki/people/zach-clabaugh.md",
+      "title": null,
+      "byte_offset": 4230236,
+      "byte_length": 1692
+    },
+    {
+      "path": "wiki/people/zach-clingan.md",
+      "title": "Zach Clingan",
+      "byte_offset": 4232108,
+      "byte_length": 17605
+    },
+    {
+      "path": "wiki/people/zach-hendricks.md",
+      "title": null,
+      "byte_offset": 4249895,
+      "byte_length": 1617
+    },
+    {
+      "path": "wiki/people/zachariah-harshman.md",
+      "title": null,
+      "byte_offset": 4251698,
+      "byte_length": 13045
+    },
+    {
+      "path": "wiki/people/zaco.md",
+      "title": "Zaco",
+      "byte_offset": 4264915,
+      "byte_length": 5282
+    },
+    {
+      "path": "wiki/places/117-belmont-circle.md",
+      "title": "117 Belmont Circle",
+      "byte_offset": 4270383,
+      "byte_length": 17713
+    },
+    {
+      "path": "wiki/places/155-virginia-ave.md",
+      "title": "155 Virginia Ave",
+      "byte_offset": 4288280,
+      "byte_length": 11254
+    },
+    {
+      "path": "wiki/places/307-e-76th-st.md",
+      "title": "307 E 76th St (Manhattan)",
+      "byte_offset": 4299715,
+      "byte_length": 11434
+    },
+    {
+      "path": "wiki/places/337-saratoga-drive.md",
+      "title": "337 Saratoga Drive",
+      "byte_offset": 4311335,
+      "byte_length": 8634
+    },
+    {
+      "path": "wiki/places/424-bedford-ave.md",
+      "title": "424 Bedford Ave (NYC-1)",
+      "byte_offset": 4320152,
+      "byte_length": 7850
+    },
+    {
+      "path": "wiki/places/90th-st-manhattan.md",
+      "title": "90th St, Manhattan (NYC-1's third year)",
+      "byte_offset": 4328187,
+      "byte_length": 7115
+    },
+    {
+      "path": "wiki/places/derrick-avenue.md",
+      "title": "Derrick Avenue",
+      "byte_offset": 4335484,
+      "byte_length": 6487
+    },
+    {
+      "path": "wiki/places/index.md",
+      "title": null,
+      "byte_offset": 4342144,
+      "byte_length": 2174
+    },
+    {
+      "path": "wiki/places/seven-springs.md",
+      "title": "Seven Springs",
+      "byte_offset": 4344499,
+      "byte_length": 6694
+    },
+    {
+      "path": "wiki/places/the-unpapered-address.md",
+      "title": "The Unpapered Address",
+      "byte_offset": 4351382,
+      "byte_length": 38059
+    },
+    {
+      "path": "wiki/self/ancestry.md",
+      "title": null,
+      "byte_offset": 4389615,
+      "byte_length": 30784
+    },
+    {
+      "path": "wiki/self/chats/9-11-chat.md",
+      "title": null,
+      "byte_offset": 4420580,
+      "byte_length": 2889
+    },
+    {
+      "path": "wiki/self/chats/danfrank-isms-pinned.md",
+      "title": null,
+      "byte_offset": 4423661,
+      "byte_length": 6889
+    },
+    {
+      "path": "wiki/self/chats/extract-messages-pinned.md",
+      "title": null,
+      "byte_offset": 4430745,
+      "byte_length": 1640
+    },
+    {
+      "path": "wiki/self/chats/gemini-07.md",
+      "title": null,
+      "byte_offset": 4432566,
+      "byte_length": 11767
+    },
+    {
+      "path": "wiki/self/chats/gemini-13.md",
+      "title": null,
+      "byte_offset": 4444514,
+      "byte_length": 4353
+    },
+    {
+      "path": "wiki/self/chats/gemini-18.md",
+      "title": null,
+      "byte_offset": 4449048,
+      "byte_length": 8620
+    },
+    {
+      "path": "wiki/self/chats/gemini-21.md",
+      "title": null,
+      "byte_offset": 4457849,
+      "byte_length": 10953
+    },
+    {
+      "path": "wiki/self/chats/gemini-58.md",
+      "title": null,
+      "byte_offset": 4468983,
+      "byte_length": 3922
+    },
+    {
+      "path": "wiki/self/chats/j6-chat.md",
+      "title": null,
+      "byte_offset": 4473084,
+      "byte_length": 8712
+    },
+    {
+      "path": "wiki/self/chats/photo-ingest-pinned.md",
+      "title": null,
+      "byte_offset": 4481987,
+      "byte_length": 2179
+    },
+    {
+      "path": "wiki/self/concepts/ally-and-dan-love-as-destiny.md",
+      "title": "Ally and Dan: Love as Destiny",
+      "byte_offset": 4484369,
+      "byte_length": 19217
+    },
+    {
+      "path": "wiki/self/concepts/astrology-star-signs.md",
+      "title": "Astrology: Star Signs of Dan's Inner Circle",
+      "byte_offset": 4503781,
+      "byte_length": 8245
+    },
+    {
+      "path": "wiki/self/concepts/chatgpt.md",
+      "title": "ChatGPT (OpenAI)",
+      "byte_offset": 4512208,
+      "byte_length": 29407
+    },
+    {
+      "path": "wiki/self/concepts/claude-code.md",
+      "title": "Claude Code (Anthropic Coding Agent)",
+      "byte_offset": 4541801,
+      "byte_length": 23058
+    },
+    {
+      "path": "wiki/self/concepts/claude.md",
+      "title": "Claude (Anthropic)",
+      "byte_offset": 4565040,
+      "byte_length": 24149
+    },
+    {
+      "path": "wiki/self/concepts/gemini.md",
+      "title": "Gemini (Google)",
+      "byte_offset": 4589370,
+      "byte_length": 16893
+    },
+    {
+      "path": "wiki/self/concepts/llm.md",
+      "title": "LLMs (Large Language Models)",
+      "byte_offset": 4606441,
+      "byte_length": 26772
+    },
+    {
+      "path": "wiki/self/concepts/wiki-brain.md",
+      "title": "The Wiki-Brain",
+      "byte_offset": 4633398,
+      "byte_length": 14970
+    },
+    {
+      "path": "wiki/self/context-core.md",
+      "title": "Context Core",
+      "byte_offset": 4648546,
+      "byte_length": 25735
+    },
+    {
+      "path": "wiki/self/facebook/friends.md",
+      "title": null,
+      "byte_offset": 4674463,
+      "byte_length": 5589
+    },
+    {
+      "path": "wiki/self/facebook/interests.md",
+      "title": null,
+      "byte_offset": 4680236,
+      "byte_length": 4771
+    },
+    {
+      "path": "wiki/self/facebook/messages.md",
+      "title": null,
+      "byte_offset": 4685190,
+      "byte_length": 6332
+    },
+    {
+      "path": "wiki/self/facebook/posts.md",
+      "title": null,
+      "byte_offset": 4691702,
+      "byte_length": 5072
+    },
+    {
+      "path": "wiki/self/facebook.md",
+      "title": null,
+      "byte_offset": 4696948,
+      "byte_length": 8345
+    },
+    {
+      "path": "wiki/self/favorites.md",
+      "title": null,
+      "byte_offset": 4705468,
+      "byte_length": 6710
+    },
+    {
+      "path": "wiki/self/gemini-activity/archive/v1-extract.md",
+      "title": null,
+      "byte_offset": 4712378,
+      "byte_length": 7801
+    },
+    {
+      "path": "wiki/self/gemini-activity/gemini-activity.md",
+      "title": null,
+      "byte_offset": 4720376,
+      "byte_length": 6787
+    },
+    {
+      "path": "wiki/self/index.md",
+      "title": null,
+      "byte_offset": 4727334,
+      "byte_length": 7984
+    },
+    {
+      "path": "wiki/self/lineage/23andme-genomics.md",
+      "title": null,
+      "byte_offset": 4735508,
+      "byte_length": 19587
+    },
+    {
+      "path": "wiki/self/lineage/family-tree.md",
+      "title": null,
+      "byte_offset": 4755280,
+      "byte_length": 19876
+    },
+    {
+      "path": "wiki/self/lineage/hybrid-analysis.md",
+      "title": null,
+      "byte_offset": 4775345,
+      "byte_length": 8919
+    },
+    {
+      "path": "wiki/self/lineage/index.md",
+      "title": null,
+      "byte_offset": 4784443,
+      "byte_length": 945
+    },
+    {
+      "path": "wiki/self/location-history.md",
+      "title": null,
+      "byte_offset": 4785570,
+      "byte_length": 19980
+    },
+    {
+      "path": "wiki/self/message-corpora/master-message-dump.md",
+      "title": null,
+      "byte_offset": 4805751,
+      "byte_length": 17228
+    },
+    {
+      "path": "wiki/self/message-corpora/source-coverage-index.md",
+      "title": null,
+      "byte_offset": 4823182,
+      "byte_length": 16838
+    },
+    {
+      "path": "wiki/self/overview.md",
+      "title": "Self Overview",
+      "byte_offset": 4840194,
+      "byte_length": 9766
+    },
+    {
+      "path": "wiki/self/tattoos.md",
+      "title": "Tattoos",
+      "byte_offset": 4850133,
+      "byte_length": 17635
+    },
+    {
+      "path": "wiki/self/twitter/2008.md",
+      "title": "Twitter / X \u2014 2008",
+      "byte_offset": 4867946,
+      "byte_length": 28765
+    },
+    {
+      "path": "wiki/self/twitter/2009.md",
+      "title": "Twitter / X \u2014 2009",
+      "byte_offset": 4896889,
+      "byte_length": 69350
+    },
+    {
+      "path": "wiki/self/twitter/2010.md",
+      "title": "Twitter / X \u2014 2010",
+      "byte_offset": 4966417,
+      "byte_length": 87256
+    },
+    {
+      "path": "wiki/self/twitter/2011.md",
+      "title": "Twitter / X \u2014 2011",
+      "byte_offset": 5053851,
+      "byte_length": 64334
+    },
+    {
+      "path": "wiki/self/twitter/2012.md",
+      "title": "Twitter / X \u2014 2012",
+      "byte_offset": 5118363,
+      "byte_length": 61969
+    },
+    {
+      "path": "wiki/self/twitter/2013.md",
+      "title": "Twitter / X \u2014 2013",
+      "byte_offset": 5180510,
+      "byte_length": 96217
+    },
+    {
+      "path": "wiki/self/twitter/2014.md",
+      "title": "Twitter / X \u2014 2014",
+      "byte_offset": 5276905,
+      "byte_length": 55497
+    },
+    {
+      "path": "wiki/self/twitter/2015.md",
+      "title": "Twitter / X \u2014 2015",
+      "byte_offset": 5332580,
+      "byte_length": 20012
+    },
+    {
+      "path": "wiki/self/twitter/2016.md",
+      "title": "Twitter / X \u2014 2016",
+      "byte_offset": 5352770,
+      "byte_length": 27429
+    },
+    {
+      "path": "wiki/self/twitter/2017.md",
+      "title": "Twitter / X \u2014 2017",
+      "byte_offset": 5380377,
+      "byte_length": 35214
+    },
+    {
+      "path": "wiki/self/twitter/2018.md",
+      "title": "Twitter / X \u2014 2018",
+      "byte_offset": 5415769,
+      "byte_length": 33592
+    },
+    {
+      "path": "wiki/self/twitter/2019.md",
+      "title": "Twitter / X \u2014 2019",
+      "byte_offset": 5449539,
+      "byte_length": 24689
+    },
+    {
+      "path": "wiki/self/twitter/2020.md",
+      "title": "Twitter / X \u2014 2020",
+      "byte_offset": 5474406,
+      "byte_length": 14874
+    },
+    {
+      "path": "wiki/self/twitter/2021.md",
+      "title": "Twitter / X \u2014 2021",
+      "byte_offset": 5489458,
+      "byte_length": 19059
+    },
+    {
+      "path": "wiki/self/twitter/2022.md",
+      "title": "Twitter / X \u2014 2022",
+      "byte_offset": 5508695,
+      "byte_length": 60437
+    },
+    {
+      "path": "wiki/self/twitter/2023.md",
+      "title": "Twitter / X \u2014 2023",
+      "byte_offset": 5569310,
+      "byte_length": 62009
+    },
+    {
+      "path": "wiki/self/twitter/2024.md",
+      "title": "Twitter / X \u2014 2024",
+      "byte_offset": 5631497,
+      "byte_length": 84650
+    },
+    {
+      "path": "wiki/self/twitter/2025.md",
+      "title": "Twitter / X \u2014 2025",
+      "byte_offset": 5716325,
+      "byte_length": 8310
+    },
+    {
+      "path": "wiki/self/twitter/2026.md",
+      "title": "Twitter / X \u2014 2026",
+      "byte_offset": 5724813,
+      "byte_length": 15187
+    },
+    {
+      "path": "wiki/self/twitter.md",
+      "title": "Twitter / X (@danfrank)",
+      "byte_offset": 5740173,
+      "byte_length": 23718
+    },
+    {
+      "path": "wiki/self/youtube-watch-history.md",
+      "title": null,
+      "byte_offset": 5764078,
+      "byte_length": 24339
+    },
+    {
+      "path": "wiki/timeline/2015-annie-read-wiki-impact-analysis.md",
+      "title": null,
+      "byte_offset": 5788623,
+      "byte_length": 19993
+    },
+    {
+      "path": "wiki/timeline/annie-read-notes.md",
+      "title": null,
+      "byte_offset": 5808802,
+      "byte_length": 37969
+    },
+    {
+      "path": "wiki/timeline/annie-record.md",
+      "title": null,
+      "byte_offset": 5846953,
+      "byte_length": 182419
+    },
+    {
+      "path": "wiki/timeline/events/2026-08-26-dan-consistency-test.md",
+      "title": "2026-08-26 \u2014 The Consistency Test",
+      "byte_offset": 6029580,
+      "byte_length": 4899
+    },
+    {
+      "path": "wiki/timeline/events/2026-08-26-visible-change-2.md",
+      "title": "The Visible Change, Continued \u2014 2026-08-26",
+      "byte_offset": 6034683,
+      "byte_length": 7452
+    },
+    {
+      "path": "wiki/timeline/events/2026-08-26-visible-change.md",
+      "title": "The Visible Change \u2014 2026-08-26",
+      "byte_offset": 6042337,
+      "byte_length": 3778
+    },
+    {
+      "path": "wiki/timeline/events/annie-alexis-reunion-november-2018.md",
+      "title": null,
+      "byte_offset": 6046326,
+      "byte_length": 13807
+    },
+    {
+      "path": "wiki/timeline/events/april-may-2026-final-weeks.md",
+      "title": "April\u2013May 2026 \u2014 The Final Documented Weeks",
+      "byte_offset": 6060336,
+      "byte_length": 9786
+    },
+    {
+      "path": "wiki/timeline/events/august-2026-morgantown-call-source-amendment.md",
+      "title": "Source Amendment \u2014 Morgantown St Recording, August 16 2026",
+      "byte_offset": 6070343,
+      "byte_length": 5342
+    },
+    {
+      "path": "wiki/timeline/events/august-2026-morgantown-call.md",
+      "title": "The Morgantown St Call and the Leverage Campaign, August 16\u201319 2026",
+      "byte_offset": 6075889,
+      "byte_length": 60164
+    },
+    {
+      "path": "wiki/timeline/events/august-2026-unmasking.md",
+      "title": "The Unmasking and the August 8\u20139 Collapse",
+      "byte_offset": 6136251,
+      "byte_length": 14250
+    },
+    {
+      "path": "wiki/timeline/events/bald-eagle-cummings.md",
+      "title": "Bald Eagle Cummings (~2000\u20132001?)",
+      "byte_offset": 6150697,
+      "byte_length": 10303
+    },
+    {
+      "path": "wiki/timeline/events/eli-incident.md",
+      "title": "The Eli Incident",
+      "byte_offset": 6161189,
+      "byte_length": 10546
+    },
+    {
+      "path": "wiki/timeline/events/end-fight.md",
+      "title": null,
+      "byte_offset": 6171921,
+      "byte_length": 5205
+    },
+    {
+      "path": "wiki/timeline/events/fran-death-vigil.md",
+      "title": "The Fran Vigil (March\u2013April 2018)",
+      "byte_offset": 6177319,
+      "byte_length": 24582
+    },
+    {
+      "path": "wiki/timeline/events/franki-fireworks-day-2013.md",
+      "title": "The Franki Fireworks Day (early July 2013)",
+      "byte_offset": 6202103,
+      "byte_length": 13409
+    },
+    {
+      "path": "wiki/timeline/events/group-chat-closure.md",
+      "title": null,
+      "byte_offset": 6215707,
+      "byte_length": 8181
+    },
+    {
+      "path": "wiki/timeline/events/james-analysis-pdf.md",
+      "title": "The James Analysis PDF \u2014 2025-07-11",
+      "byte_offset": 6224083,
+      "byte_length": 13269
+    },
+    {
+      "path": "wiki/timeline/events/july-2026-recontact.md",
+      "title": "The July 2026 Re-contact",
+      "byte_offset": 6237548,
+      "byte_length": 21352
+    },
+    {
+      "path": "wiki/timeline/events/july-august-2026-reentanglement.md",
+      "title": "The Re-entanglement, July 26 \u2013 August 2 2026",
+      "byte_offset": 6259108,
+      "byte_length": 31100
+    },
+    {
+      "path": "wiki/timeline/events/march-2026-terminal-phase.md",
+      "title": "March 2026 \u2014 The Terminal Phase Peak",
+      "byte_offset": 6290410,
+      "byte_length": 11269
+    },
+    {
+      "path": "wiki/timeline/events/robotussin-s-last-dance.md",
+      "title": "Robotussin's Last Dance",
+      "byte_offset": 6301879,
+      "byte_length": 10557
+    },
+    {
+      "path": "wiki/timeline/events/shelbie-annie-threesome-april-2019.md",
+      "title": null,
+      "byte_offset": 6312647,
+      "byte_length": 14686
+    },
+    {
+      "path": "wiki/timeline/events/teen-concert-years.md",
+      "title": "Concert Record (2001\u20132019)",
+      "byte_offset": 6327528,
+      "byte_length": 12876
+    },
+    {
+      "path": "wiki/timeline/events/the-fall-of-fran.md",
+      "title": "The Fall of Fran (night of March 7\u20138, 2018)",
+      "byte_offset": 6340597,
+      "byte_length": 12560
+    },
+    {
+      "path": "wiki/timeline/events/timeline.md",
+      "title": null,
+      "byte_offset": 6353342,
+      "byte_length": 7559
+    },
+    {
+      "path": "wiki/timeline/events/uniontown-hospital-vape-alarm.md",
+      "title": "The Uniontown Hospital Vape Alarm (early April 2018)",
+      "byte_offset": 6361107,
+      "byte_length": 17911
+    },
+    {
+      "path": "wiki/timeline/index.md",
+      "title": null,
+      "byte_offset": 6379193,
+      "byte_length": 7548
+    },
+    {
+      "path": "wiki/timeline/master-timeline.md",
+      "title": null,
+      "byte_offset": 6386926,
+      "byte_length": 880519
+    },
+    {
+      "path": "wiki/timeline/periods/2010s.md",
+      "title": null,
+      "byte_offset": 7267628,
+      "byte_length": 14823
+    },
+    {
+      "path": "wiki/timeline/periods/2015-2016-annie-relationship-start.md",
+      "title": null,
+      "byte_offset": 7282663,
+      "byte_length": 10372
+    },
+    {
+      "path": "wiki/timeline/periods/2017-poverty-floor.md",
+      "title": null,
+      "byte_offset": 7293231,
+      "byte_length": 8636
+    },
+    {
+      "path": "wiki/timeline/periods/2018-deep-cycle.md",
+      "title": null,
+      "byte_offset": 7302060,
+      "byte_length": 5684
+    },
+    {
+      "path": "wiki/timeline/periods/2020-2021-market-era.md",
+      "title": "2020\u20132021 Market Era",
+      "byte_offset": 7307942,
+      "byte_length": 5423
+    },
+    {
+      "path": "wiki/timeline/periods/2021-2023-employment-block.md",
+      "title": null,
+      "byte_offset": 7313569,
+      "byte_length": 9992
+    },
+    {
+      "path": "wiki/timeline/periods/2025-collapse.md",
+      "title": null,
+      "byte_offset": 7323752,
+      "byte_length": 8851
+    },
+    {
+      "path": "wiki/timeline/periods/covid-era-2020.md",
+      "title": "The COVID Era (2020)",
+      "byte_offset": 7332795,
+      "byte_length": 5083
+    },
+    {
+      "path": "wiki/timeline/periods/dark-era-2007-2008.md",
+      "title": "The Dark Era \u2014 Opiates and the Body (2007\u20132008)",
+      "byte_offset": 7338074,
+      "byte_length": 8333
+    },
+    {
+      "path": "wiki/timeline/periods/dec-2025-spike.md",
+      "title": null,
+      "byte_offset": 7346599,
+      "byte_length": 2784
+    },
+    {
+      "path": "wiki/timeline/periods/feb-apr-2025-return-and-rupture.md",
+      "title": null,
+      "byte_offset": 7349592,
+      "byte_length": 8067
+    },
+    {
+      "path": "wiki/timeline/periods/full-sail-2008-2010.md",
+      "title": "Full Sail (Sep 2008 \u2013 Mar 2010)",
+      "byte_offset": 7357856,
+      "byte_length": 19251
+    },
+    {
+      "path": "wiki/timeline/periods/uniontown-return-2013-2015.md",
+      "title": null,
+      "byte_offset": 7377311,
+      "byte_length": 8150
+    },
+    {
+      "path": "wiki/work/au-zaatar.md",
+      "title": "Au Za'atar (NYC, ~2021\u20132024)",
+      "byte_offset": 7385636,
+      "byte_length": 19344
+    },
+    {
+      "path": "wiki/work/bfs-foods.md",
+      "title": "BFS Foods (2026): Job, Drawer Dispute, Termination",
+      "byte_offset": 7405155,
+      "byte_length": 30613
+    },
+    {
+      "path": "wiki/work/caviar-courier.md",
+      "title": null,
+      "byte_offset": 7435948,
+      "byte_length": 3400
+    },
+    {
+      "path": "wiki/work/creative-license.md",
+      "title": "Creative License (NYC, 2011\u20132012)",
+      "byte_offset": 7439530,
+      "byte_length": 19552
+    },
+    {
+      "path": "wiki/work/fastly-fsly.md",
+      "title": "Fastly (FSLY)",
+      "byte_offset": 7459259,
+      "byte_length": 8391
+    },
+    {
+      "path": "wiki/work/index.md",
+      "title": null,
+      "byte_offset": 7467821,
+      "byte_length": 1726
+    },
+    {
+      "path": "wiki/work/nemacolin-caddying.md",
+      "title": "Caddying \u2014 Nemacolin, Laurel Valley, Pikewood National (2016\u20132019)",
+      "byte_offset": 7469731,
+      "byte_length": 11195
+    },
+    {
+      "path": "wiki/work/tech/ai-video-essays.md",
+      "title": "AI Video Essays (planned project)",
+      "byte_offset": 7481112,
+      "byte_length": 7202
+    },
+    {
+      "path": "wiki/work/tech/danmodel.md",
+      "title": "DANMODEL \u2014 a voice-cloning ML pipeline trained on Dan's own texts",
+      "byte_offset": 7488493,
+      "byte_length": 10082
+    },
+    {
+      "path": "wiki/work/tech/grok-build/overview.md",
+      "title": null,
+      "byte_offset": 7498765,
+      "byte_length": 6329
+    },
+    {
+      "path": "wiki/work/tech/imessage-tooling/overview.md",
+      "title": null,
+      "byte_offset": 7505290,
+      "byte_length": 7462
+    },
+    {
+      "path": "wiki/work/tech/index.md",
+      "title": null,
+      "byte_offset": 7512928,
+      "byte_length": 5570
+    },
+    {
+      "path": "wiki/work/tech/max-framework/overview.md",
+      "title": "The MAX/CATO Framework",
+      "byte_offset": 7518691,
+      "byte_length": 10419
+    },
+    {
+      "path": "wiki/work/tech/mneme/overview.md",
+      "title": "MNEME \u2014 Personal Memory Corpus Platform",
+      "byte_offset": 7529295,
+      "byte_length": 4672
+    },
+    {
+      "path": "wiki/work/tech/vibe-coding-games.md",
+      "title": "Vibe-Coding Games (Matter.js)",
+      "byte_offset": 7534155,
+      "byte_length": 2059
+    }
+  ]
+}

@@ -1,0 +1,751 @@
+#!/usr/bin/env python3
+"""Validate the knowledge base against the schema and the constitutional law.
+
+Two classes of check run here, and the second is the one that matters.
+
+**Schema checks** confirm each node has the right shape for its layer — a datum
+cites a source, an interpretation declares whose reading it is, a causal edge
+states what it rests on.
+
+**Staleness checks** close the loop the invariant leaves open: a citation that
+resolves is not a citation still checked. When a cited node is dated later than
+the node citing it, the claim is flagged for re-check — and `rechecked` clears
+it even when nothing changed, so "checked and survived" stays distinguishable
+from "nobody looked."
+
+**Edge checks** apply to `edges` the discipline `cites` always had. Edges stay
+free to point in any direction, because "A caused B" is not an evidence claim —
+but each one must say how hard it is, what it rests on, and who asserts it, and
+the vocabulary in schema/edges.json must agree with the enum in the node schema.
+
+**Graph checks** enforce what JSON Schema structurally cannot:
+
+    RAW DATA -> STRUCTURED FACT -> INTERPRETATION -> SYNTHESIS. NEVER THE REVERSE.
+
+expressed as: *a node may cite only nodes at a strictly lower layer.* That single
+rule is what stops a conclusion from becoming a premise. Without it, someone
+writes "the relationship was abusive" at L5 and six months later an L2 event page
+cites it as though it were something observed at the time — the interpretation has
+silently become a fact and the evidence that would let anyone check it is gone.
+The failure always runs downward, so the rule is directional.
+
+It also makes the citation graph a DAG with layers as topological levels, so
+tracing any conclusion to its evidence terminates, and a citation cycle cannot be
+written at all.
+
+Usage:
+  bin/wb-validate            validate kb/
+  bin/wb-validate --strict   treat warnings as errors too
+  bin/wb-validate --json     machine-readable report
+
+Exit status is 0 when clean and 1 when not, so it can gate CI and the site build.
+Standard library only.
+"""
+
+from __future__ import annotations
+
+import argparse
+import calendar
+import json
+import pathlib
+import re
+import sys
+import tomllib
+
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+KB = ROOT / "kb"
+SCHEMA = ROOT / "schema" / "node.schema.json"
+EDGES = ROOT / "schema" / "edges.json"
+
+FRONTMATTER = re.compile(r"\A\+\+\+\s*\n(.*?)\n\+\+\+\s*\n?(.*)\Z", re.S)
+
+# id prefix -> (type, layer). The prefix is not decoration: it makes a node's
+# altitude readable at a glance in any citation list.
+PREFIX = {
+    "src": ("source", 0),
+    "dat": ("datum", 1),
+    "ent": ("entity", 2),
+    "evt": ("event", 2),
+    "rel": ("relationship", 2),
+    "int": ("interpretation", 3),
+    "con": ("contradiction", 3),
+    "pat": ("pattern", 4),
+    "syn": ("synthesis", 5),
+}
+
+REF_FIELDS = ("subject", "supersedes", "attributed_to")
+
+# Edge vocabulary lives in schema/edges.json so the families are data rather than
+# scattered literals. check_vocabulary() below asserts node.schema.json agrees.
+EDGE_SPEC: dict = {}
+FAMILY_OF: dict[str, str] = {}
+
+
+# --------------------------------------------------------------------------
+# A minimal JSON Schema validator covering exactly the keywords node.schema.json
+# uses. Written out rather than pulled in so the project keeps its no-dependency
+# property, matching bin/corpus-*.
+# --------------------------------------------------------------------------
+
+class SchemaError(Exception):
+    pass
+
+
+def resolve(schema: dict, root: dict) -> dict:
+    seen = 0
+    while "$ref" in schema:
+        ref = schema["$ref"]
+        if not ref.startswith("#/"):
+            raise SchemaError(f"unsupported $ref: {ref}")
+        node = root
+        for part in ref[2:].split("/"):
+            node = node[part]
+        schema = node
+        seen += 1
+        if seen > 16:
+            raise SchemaError("$ref cycle")
+    return schema
+
+
+def validate_value(value, schema: dict, root: dict, path: str, errors: list[str]) -> None:
+    schema = resolve(schema, root)
+
+    if "const" in schema and value != schema["const"]:
+        errors.append(f"{path}: must be {schema['const']!r}, got {value!r}")
+    if "enum" in schema and value not in schema["enum"]:
+        errors.append(f"{path}: {value!r} not one of {schema['enum']}")
+
+    expected = schema.get("type")
+    if expected:
+        types = {
+            "string": str, "integer": int, "boolean": bool,
+            "array": list, "object": dict, "number": (int, float),
+        }[expected]
+        # bool is a subclass of int in Python; keep them distinct here.
+        ok = isinstance(value, types) and not (expected == "integer" and isinstance(value, bool))
+        if not ok:
+            errors.append(f"{path}: expected {expected}, got {type(value).__name__}")
+            return
+
+    if isinstance(value, str):
+        if "pattern" in schema and not re.search(schema["pattern"], value):
+            errors.append(f"{path}: {value!r} does not match {schema['pattern']}")
+        if "minLength" in schema and len(value) < schema["minLength"]:
+            errors.append(f"{path}: shorter than {schema['minLength']}")
+
+    if isinstance(value, int) and not isinstance(value, bool):
+        if "minimum" in schema and value < schema["minimum"]:
+            errors.append(f"{path}: {value} below minimum {schema['minimum']}")
+        if "maximum" in schema and value > schema["maximum"]:
+            errors.append(f"{path}: {value} above maximum {schema['maximum']}")
+
+    if isinstance(value, list):
+        if "minItems" in schema and len(value) < schema["minItems"]:
+            errors.append(f"{path}: needs at least {schema['minItems']} item(s), has {len(value)}")
+        if schema.get("uniqueItems"):
+            seen = [json.dumps(v, sort_keys=True) for v in value]
+            if len(set(seen)) != len(seen):
+                errors.append(f"{path}: contains duplicates")
+        if "items" in schema:
+            for i, item in enumerate(value):
+                validate_value(item, schema["items"], root, f"{path}[{i}]", errors)
+
+    if isinstance(value, dict):
+        props = schema.get("properties", {})
+        for key in schema.get("required", []):
+            if key not in value:
+                errors.append(f"{path}: missing required field {key!r}")
+        if schema.get("additionalProperties") is False:
+            for key in value:
+                if key not in props:
+                    errors.append(f"{path}: unknown field {key!r}")
+        for key, item in value.items():
+            if key in props:
+                validate_value(item, props[key], root, f"{path}.{key}" if path else key, errors)
+
+    if "anyOf" in schema:
+        misses: list[list[str]] = []
+        for sub in schema["anyOf"]:
+            probe: list[str] = []
+            validate_value(value, sub, root, path, probe)
+            if not probe:
+                break
+            misses.append(probe)
+        else:
+            detail = "; ".join(m[0].split(": ", 1)[-1] for m in misses if m)
+            errors.append(f"{path}: satisfies none of the allowed shapes — {detail}")
+
+    for sub in schema.get("allOf", []):
+        sub = resolve(sub, root)
+        if "if" in sub:
+            probe: list[str] = []
+            validate_value(value, sub["if"], root, path, probe)
+            if not probe and "then" in sub:
+                validate_value(value, sub["then"], root, path, errors)
+            elif probe and "else" in sub:
+                validate_value(value, sub["else"], root, path, errors)
+        else:
+            validate_value(value, sub, root, path, errors)
+
+
+# --------------------------------------------------------------------------
+# Loading
+# --------------------------------------------------------------------------
+
+def display_path(path: pathlib.Path) -> str:
+    """Repo-relative where possible; --kb may legitimately point elsewhere."""
+    try:
+        return str(path.relative_to(ROOT))
+    except ValueError:
+        return str(path)
+
+
+def load_nodes(kb: pathlib.Path) -> tuple[dict[str, dict], list[str]]:
+    nodes: dict[str, dict] = {}
+    errors: list[str] = []
+    for path in sorted(kb.rglob("*.md")):
+        if path.name.upper() == "README.MD":
+            continue
+        rel = display_path(path)
+        text = path.read_text(encoding="utf-8")
+        match = FRONTMATTER.match(text)
+        if not match:
+            errors.append(f"{rel}: no +++ TOML frontmatter block")
+            continue
+        try:
+            meta = tomllib.loads(match.group(1))
+        except tomllib.TOMLDecodeError as exc:
+            errors.append(f"{rel}: invalid TOML — {exc}")
+            continue
+        node_id = meta.get("id")
+        if not node_id:
+            errors.append(f"{rel}: frontmatter has no id")
+            continue
+        if node_id in nodes:
+            errors.append(f"{rel}: duplicate id {node_id!r} (also {nodes[node_id]['_path']})")
+            continue
+        meta["_path"] = str(rel)
+        meta["_body"] = match.group(2).strip()
+        nodes[node_id] = meta
+    return nodes, errors
+
+
+def outgoing(node: dict) -> list[tuple[str, str]]:
+    """Every reference this node makes, as (field, target)."""
+    refs = [("cites", t) for t in node.get("cites", [])]
+    refs += [(f"edges.{e.get('rel', '?')}", e["target"])
+             for e in node.get("edges", []) if isinstance(e, dict) and "target" in e]
+    refs += [("counterexamples", t) for t in node.get("counterexamples", [])]
+    refs += [(f, node[f]) for f in REF_FIELDS if node.get(f)]
+    return refs
+
+
+
+# --------------------------------------------------------------------------
+# Edges
+#
+# `cites` was always rigorously constrained and `edges` was not, which meant
+# half the graph was enforced and half was assertion. These checks close that
+# gap. They do not make edges layer-constrained — edges are deliberately free to
+# point in any direction, because "A caused B" is not an evidence claim — but
+# they do insist an edge say how hard it is, what it rests on, and who says so.
+# --------------------------------------------------------------------------
+
+def load_edge_spec(path: pathlib.Path) -> list[str]:
+    """Populate EDGE_SPEC / FAMILY_OF. Returns errors, not exceptions."""
+    if not path.exists():
+        return [f"edge vocabulary not found: {display_path(path)}"]
+    try:
+        EDGE_SPEC.update(json.loads(path.read_text()))
+    except json.JSONDecodeError as exc:
+        return [f"{display_path(path)}: invalid JSON — {exc}"]
+    errors = []
+    for family, spec in EDGE_SPEC.get("families", {}).items():
+        for rel in spec.get("relations", []):
+            if rel in FAMILY_OF:
+                errors.append(f"{display_path(path)}: {rel!r} appears in both "
+                              f"{FAMILY_OF[rel]!r} and {family!r} — a relation belongs to one family")
+            FAMILY_OF[rel] = family
+    return errors
+
+
+def check_vocabulary(schema: dict) -> list[str]:
+    """The two files must agree, or the enum silently stops matching the families."""
+    declared = {r for f in EDGE_SPEC.get("families", {}).values() for r in f.get("relations", [])}
+    try:
+        enum = set(schema["$defs"]["edge"]["properties"]["rel"]["enum"])
+    except (KeyError, TypeError):
+        return ["schema/node.schema.json: no $defs.edge.properties.rel.enum to check "
+                "against schema/edges.json"]
+    if declared == enum:
+        return []
+    lines = ["edge vocabulary drift — schema/node.schema.json and schema/edges.json disagree"]
+    if declared - enum:
+        lines.append(f"    only in edges.json: {', '.join(sorted(declared - enum))}")
+    if enum - declared:
+        lines.append(f"    only in node.schema.json: {', '.join(sorted(enum - declared))}")
+    return ["\n".join(lines)]
+
+
+def bounds(value: str) -> tuple[tuple, tuple]:
+    """A partial date is a range. '2018' is the whole year, not January 1st."""
+    parts = [int(x) for x in value.split("-")]
+    year = parts[0]
+    if len(parts) == 1:
+        return (year, 1, 1), (year, 12, 31)
+    if len(parts) == 2:
+        return (year, parts[1], 1), (year, parts[1], calendar.monthrange(year, parts[1])[1])
+    return tuple(parts), tuple(parts)
+
+
+def span(when) -> tuple[tuple | None, tuple | None]:
+    """(earliest, latest) for a [when] block. None where the bound is open."""
+    if not isinstance(when, dict):
+        return None, None
+    low = high = None
+    try:
+        if when.get("date"):
+            low, high = bounds(when["date"])
+        if when.get("start"):
+            low = bounds(when["start"])[0]
+        if when.get("end"):
+            high = bounds(when["end"])[1]
+    except (ValueError, TypeError, KeyError):
+        return None, None      # malformed; the schema check reports it
+    return low, high
+
+
+def show(point: tuple) -> str:
+    return "%04d-%02d-%02d" % point
+
+
+def check_edges(nodes: dict[str, dict]) -> tuple[list[str], list[str], dict]:
+    errors: list[str] = []
+    warnings: list[str] = []
+    written: dict[tuple[str, str, str], str] = {}
+    counts: dict[str, int] = {}
+    unaudited: list[str] = []
+
+    for node_id, node in sorted(nodes.items()):
+        where = node["_path"]
+        for index, edge in enumerate(node.get("edges", [])):
+            if not isinstance(edge, dict):
+                continue
+            rel, target = edge.get("rel"), edge.get("target")
+            if not isinstance(rel, str) or not isinstance(target, str):
+                continue
+            family = FAMILY_OF.get(rel)
+            counts[family or "unknown"] = counts.get(family or "unknown", 0) + 1
+            at = f"{where}: edges[{index}] {rel} -> {target}"
+            if (node_id, rel, target) in written:
+                warnings.append(f"{at}: written twice on this node — one edge, one assertion")
+            written[(node_id, rel, target)] = where
+
+            if family is None:
+                errors.append(f"{at}: {rel!r} belongs to no family in schema/edges.json")
+
+            if "causal_basis" in edge:
+                if "basis" in edge and edge["basis"] != edge["causal_basis"]:
+                    errors.append(f"{at}: carries both `basis` and the deprecated `causal_basis`, "
+                                  f"and they disagree ({edge['basis']!r} vs {edge['causal_basis']!r})")
+                else:
+                    warnings.append(f"{at}: `causal_basis` is deprecated — rename it to `basis`")
+
+            basis = edge.get("basis") or edge.get("causal_basis")
+            strength = edge.get("strength")
+
+            # A guess held with certainty. Same rule `confidence` already obeys:
+            # strength tracks evidence quality, not how convincing the guess feels.
+            if basis == "speculative" and strength == "strong":
+                errors.append(f"{at}: basis 'speculative' with strength 'strong' — strength must "
+                              f"track what the edge rests on, not how convincing the guess feels")
+
+            if not strength or not edge.get("asserted_by"):
+                unaudited.append(at)
+
+            # Edges are temporal, so they can be temporally impossible.
+            edge_low, edge_high = span(edge.get("when"))
+            if edge_low or edge_high:
+                for endpoint in (node_id, target):
+                    other = nodes.get(endpoint)
+                    if other is None:
+                        continue
+                    other_low, _ = span(other.get("when"))
+                    if other_low is None:
+                        continue
+                    if edge_high is not None and edge_high < other_low:
+                        errors.append(
+                            f"{at}: edge window closes {show(edge_high)}, before {endpoint} begins "
+                            f"{show(other_low)} — a relation cannot be over before one of its terms exists")
+                    elif edge_low is not None and edge_low < other_low:
+                        warnings.append(
+                            f"{at}: edge window opens {show(edge_low)}, before {endpoint} begins "
+                            f"{show(other_low)} — confirm this is imprecision and not an error")
+
+    # Inverse registry: write one direction, the builder derives the other.
+    inverses = dict(EDGE_SPEC.get("inverses", {}))
+    inverses.update({v: k for k, v in list(inverses.items())})
+    for (source, rel, target), where in sorted(written.items()):
+        opposite = inverses.get(rel)
+        if not opposite or source >= target:
+            continue                      # report each pair once
+        if (target, opposite, source) in written:
+            warnings.append(f"{where}: {source} {rel} {target} and its inverse {opposite} are both "
+                            f"written out — declare one, the builder derives the other")
+        if (target, rel, source) in written:
+            errors.append(f"{where}: {source} {rel} {target} and {target} {rel} {source} are both "
+                          f"asserted, but {rel!r} is asymmetric — these cannot both hold")
+        if (source, opposite, target) in written:
+            errors.append(f"{where}: {source} claims both {rel!r} and {opposite!r} toward {target} — "
+                          f"they are inverses, so these cannot both hold")
+
+    if unaudited:
+        warnings.append(f"{len(unaudited)} edge(s) lack `strength` or `asserted_by` and are "
+                        f"provisional rather than audited: " + "; ".join(unaudited[:4])
+                        + (" …" if len(unaudited) > 4 else ""))
+
+    return errors, warnings, {"by_family": counts, "unaudited": len(unaudited),
+                              "total": sum(counts.values())}
+
+
+# --------------------------------------------------------------------------
+# Graph checks
+# --------------------------------------------------------------------------
+
+def check_graph(nodes: dict[str, dict]) -> tuple[list[str], list[str]]:
+    errors: list[str] = []
+    warnings: list[str] = []
+
+    for node_id, node in sorted(nodes.items()):
+        where = node["_path"]
+        prefix = node_id.split(":", 1)[0]
+        expected = PREFIX.get(prefix)
+
+        # id prefix, declared type and declared layer must agree
+        if expected:
+            want_type, want_layer = expected
+            if node.get("type") != want_type:
+                errors.append(f"{where}: id prefix {prefix!r} implies type {want_type!r}, "
+                              f"declared {node.get('type')!r}")
+            if node.get("layer") != want_layer:
+                errors.append(f"{where}: type {want_type!r} belongs to layer {want_layer}, "
+                              f"declared {node.get('layer')!r}")
+
+        # referential integrity
+        for field, target in outgoing(node):
+            if target not in nodes:
+                errors.append(f"{where}: {field} -> {target!r} does not exist")
+            elif target == node_id:
+                errors.append(f"{where}: {field} -> itself")
+
+        # THE INVARIANT: cites may only point strictly downward.
+        layer = node.get("layer")
+        if isinstance(layer, int):
+            for target in node.get("cites", []):
+                other = nodes.get(target)
+                if not other or not isinstance(other.get("layer"), int):
+                    continue
+                if other["layer"] >= layer:
+                    errors.append(
+                        f"{where}: LAYER VIOLATION — L{layer} {node_id} cites "
+                        f"L{other['layer']} {target}. Evidence must sit strictly below "
+                        f"the claim it supports; this is a conclusion being cited as a premise."
+                    )
+
+        # a synthesis is a leaf: reasoning ends there, it never starts there
+        if node.get("type") == "synthesis":
+            for other_id, other in nodes.items():
+                if node_id in other.get("cites", []):
+                    errors.append(f"{other['_path']}: cites synthesis {node_id!r} — "
+                                  f"a synthesis is a leaf, never evidence")
+
+        # publishing safety: a public node resting on withheld material
+        if not node.get("sensitive"):
+            for target in node.get("cites", []):
+                if nodes.get(target, {}).get("sensitive"):
+                    warnings.append(f"{where}: publishes but cites sensitive {target!r} — "
+                                    f"confirm the body reveals nothing identifying")
+
+        # Testimony: a source whose reliability is unestablished contributes
+        # evidence about WHAT IT ASSERTED, never evidence that the assertion is
+        # true. Without this the prior system's 2M tokens of conclusions would
+        # enter as facts about a person rather than as facts about a document,
+        # and nothing downstream could tell the difference.
+        if node.get("type") == "datum":
+            attributed = node.get("attributed_to")
+            cited = node.get("cites", [])
+            # A datum that MEASURES a source — counts its pages, hashes its bytes,
+            # searches its strings — is not relaying an assertion, so there is
+            # nothing to attribute. The source is the object, not the witness.
+            for target in cited:
+                if node.get("measurement"):
+                    break
+                if nodes.get(target, {}).get("testimony") and not attributed:
+                    errors.append(
+                        f"{where}: cites {target!r}, which is marked `testimony`, but has no "
+                        f"`attributed_to`. Its assertions are the evidence — the claim must "
+                        f"record who asserted it, not restate it as fact.")
+                    break
+            if attributed and attributed not in cited:
+                errors.append(f"{where}: attributed_to {attributed!r} is not in `cites` — "
+                              f"a claim cannot be attributed to a source it does not cite")
+
+        if node.get("testimony") and node.get("type") != "source":
+            errors.append(f"{where}: `testimony` is an L0 source property; "
+                          f"{node.get('type')!r} nodes may not carry it")
+
+        if node.get("measurement") and node.get("type") != "datum":
+            errors.append(f"{where}: `measurement` is an L1 datum property; "
+                          f"{node.get('type')!r} nodes may not carry it")
+
+        # `measurement` is an unverifiable assertion by construction — no check can
+        # tell a count from a restated claim. What IS checkable is that a
+        # measurement states its method: a number with no account of how it was
+        # obtained is not a measurement, it is a number.
+        if node.get("measurement") and not str(node.get("extraction", "")).strip():
+            errors.append(f"{where}: `measurement = true` without `extraction` — a measurement "
+                          f"must say how it was obtained, or it is just a number")
+
+        if node.get("measurement") and node.get("attributed_to"):
+            errors.append(f"{where}: carries both `measurement` and `attributed_to` — a datum "
+                          f"either measures its source or relays its assertions, not both")
+
+        if node.get("attributed_to") and node.get("type") != "datum":
+            errors.append(f"{where}: `attributed_to` is an L1 datum property; "
+                          f"{node.get('type')!r} nodes may not carry it")
+
+        if node.get("type") in ("pattern", "synthesis") and not node.get("falsifiers"):
+            warnings.append(f"{where}: {node['type']} declares no `falsifiers` — a claim at "
+                            f"this altitude should say what observation would break it")
+
+        if node.get("falsifiers") and node.get("layer", 0) < 3:
+            errors.append(f"{where}: `falsifiers` belongs on L3+ readings; this is L{node.get('layer')}")
+
+        if node.get("type") == "pattern" and not node.get("counterexamples"):
+            warnings.append(f"{where}: pattern has no counterexamples recorded — "
+                            f"a pattern that never looked for its own counterexamples "
+                            f"is an anecdote")
+
+        if node.get("type") == "contradiction" and node.get("resolved") is True:
+            warnings.append(f"{where}: contradiction marked resolved — confirm this is a "
+                            f"genuine resolution and not a forced one")
+
+    return errors, warnings
+
+
+
+DATED_BLOCK = re.compile(r"^(?:#{1,6}\s+|\*\*|>\s*\*\*)([A-Z][A-Z \-]{2,30}?)[ ,]+\[?(\d{4}-\d{2}-\d{2})\]?",
+                         re.M)
+RETRACTIONS = ("SPENT", "RETRACTED", "WITHDRAWN", "SUPERSEDED")
+
+
+def as_of(node: dict) -> str:
+    """The latest date this node was known to be current. '' when it says nothing."""
+    return max((str(node.get(f) or "") for f in ("rechecked", "updated", "created")), default="")
+
+
+def check_staleness(nodes: dict[str, dict]) -> list[str]:
+    """A citation that resolves is not the same as a citation still checked.
+
+    The layer invariant guarantees a conclusion can be TRACED to its evidence. It
+    says nothing about what happens when that evidence later moves — a node whose
+    source was rewritten last week still validates, still builds, still reads as
+    current. The prior system closed this loop by hand and logged the result even
+    when nothing had changed, which is what makes 'checked and survived'
+    distinguishable from 'nobody looked'. `rechecked` is where that lands here.
+    """
+    warnings: list[str] = []
+    for node_id, node in sorted(nodes.items()):
+        mine = as_of(node)
+        if not mine:
+            continue
+        for target in node.get("cites", []):
+            other = nodes.get(target)
+            if not other:
+                continue
+            theirs = as_of(other)
+            if theirs and theirs > mine:
+                warnings.append(
+                    f"{node['_path']}: cites {target} (as of {theirs}) but is itself only "
+                    f"as of {mine} — the evidence moved after the claim. Re-check and set "
+                    f"`rechecked`, even if nothing changed."
+                    + retraction_note(other, mine))
+    return warnings
+
+
+def retraction_note(cited: dict, since: str) -> str:
+    """Say WHAT moved when what moved was a retraction.
+
+    dat:0048, second half. The prior wiki's failure crossed three pages: the
+    correction on one, the dead claim on another, the republication on a third.
+    A bare staleness warning would not have caught that either — "the evidence
+    moved" reads the same whether a typo was fixed or the claim was withdrawn.
+
+    So when the cited node's own body announces a retraction after this node was
+    last checked, the warning says so by name. It stays a warning: a citing node
+    may well survive its source's retraction, and deciding that is reading work,
+    not validation work. What it must not do is look like an ordinary date drift.
+    """
+    hits = [(kind.strip(), date) for kind, date in DATED_BLOCK.findall(cited.get("_body", ""))
+            if any(word in kind for word in RETRACTIONS) and date > since]
+    if not hits:
+        return ""
+    kind, date = max(hits, key=lambda h: h[1])
+    return (f" NOTE: that node announced {kind!r} on {date} — check whether this "
+            f"claim rests on what was withdrawn.")
+
+
+def check_retractions(nodes: dict[str, dict]) -> tuple[list[str], list[str]]:
+    """A correction narrated in prose that no tool can see is half a correction.
+
+    dat:0048. The prior wiki retracted a prediction in a dated block and left the
+    prediction itself unedited in a numbered list on the same page; its own
+    generated index republished the dead prediction the following day, because
+    the index read the list and the retraction was eight hundred words away.
+
+    Append-only is the right default and this system copies it — the fact a
+    correction was needed has to survive. The cost is that the retracted text
+    stays valid-looking in place. Two checks price that cost:
+
+      A dated block newer than the node's own `updated`/`rechecked` means
+      somebody appended a correction and did not touch the fields. Warning.
+
+      A retraction announced in a heading (SPENT, RETRACTED, WITHDRAWN,
+      SUPERSEDED) on a node carrying `falsifiers` must also appear IN the
+      `falsifiers` field. Error — that field is the one a tool reads, and a
+      spent falsifier still listed as live is exactly the failure above.
+    """
+    errors: list[str] = []
+    warnings: list[str] = []
+    for node_id, node in sorted(nodes.items()):
+        body = node.get("_body", "")
+        where = node["_path"]
+        blocks = DATED_BLOCK.findall(body)
+        if not blocks:
+            continue
+
+        latest = max(date for _, date in blocks)
+        mine = as_of(node)
+        if mine and latest > mine:
+            warnings.append(
+                f"{where}: carries a dated block from {latest} but is only as of {mine} — "
+                f"a correction was appended and the front matter was not touched. "
+                f"Set `updated` (or `rechecked`), or the node reads as older than its own body.")
+
+        announced = {kind.strip() for kind, _ in blocks
+                     for word in RETRACTIONS if word in kind}
+        if announced and node.get("falsifiers"):
+            listed = " ".join(str(f) for f in node["falsifiers"]).upper()
+            if not any(word in listed for word in RETRACTIONS):
+                errors.append(
+                    f"{where}: body announces {sorted(announced)!r} but no entry in "
+                    f"`falsifiers` says so. Narrating a retraction beside a field that "
+                    f"still reads as live is the dat:0048 defect — mark the spent entry "
+                    f"in the field, which is what a tool reads.")
+    return errors, warnings
+
+
+def check_cycles(nodes: dict[str, dict]) -> list[str]:
+    """Cycles are impossible if the invariant holds; verified rather than assumed."""
+    found: list[str] = []
+    colour: dict[str, int] = {}
+
+    def walk(node_id: str, trail: list[str]) -> None:
+        colour[node_id] = 1
+        for target in nodes.get(node_id, {}).get("cites", []):
+            if target not in nodes:
+                continue
+            if colour.get(target) == 1:
+                cut = trail[trail.index(target):] if target in trail else [target]
+                found.append(" -> ".join(cut + [target]))
+            elif colour.get(target, 0) == 0:
+                walk(target, trail + [target])
+        colour[node_id] = 2
+
+    for node_id in sorted(nodes):
+        if colour.get(node_id, 0) == 0:
+            walk(node_id, [node_id])
+    return found
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser(description=__doc__,
+                                 formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("--strict", action="store_true", help="treat warnings as errors")
+    ap.add_argument("--json", action="store_true", help="machine-readable report")
+    ap.add_argument("--kb", type=pathlib.Path, default=KB)
+    args = ap.parse_args()
+
+    if not SCHEMA.exists():
+        print(f"schema not found: {SCHEMA}", file=sys.stderr)
+        return 1
+    schema = json.loads(SCHEMA.read_text())
+
+    spec_errors = load_edge_spec(EDGES)
+    spec_errors += check_vocabulary(schema)
+
+    if not args.kb.exists():
+        print(f"knowledge base not found: {args.kb}", file=sys.stderr)
+        return 1
+
+    nodes, errors = load_nodes(args.kb)
+    errors = spec_errors + errors
+
+    for node_id, node in sorted(nodes.items()):
+        payload = {k: v for k, v in node.items() if not k.startswith("_")}
+        found: list[str] = []
+        validate_value(payload, schema, schema, "", found)
+        errors += [f"{node['_path']}: {e.lstrip('.')}" for e in found]
+
+    graph_errors, warnings = check_graph(nodes)
+    errors += graph_errors
+    errors += [f"citation cycle: {c}" for c in check_cycles(nodes)]
+
+    edge_errors, edge_warnings, edge_stats = check_edges(nodes)
+    errors += edge_errors
+    warnings += edge_warnings
+    warnings += check_staleness(nodes)
+
+    retraction_errors, retraction_warnings = check_retractions(nodes)
+    errors += retraction_errors
+    warnings += retraction_warnings
+
+    by_layer: dict[int, int] = {}
+    for node in nodes.values():
+        layer = node.get("layer")
+        if isinstance(layer, int):
+            by_layer[layer] = by_layer.get(layer, 0) + 1
+
+    if args.json:
+        print(json.dumps({
+            "nodes": len(nodes),
+            "by_layer": {str(k): by_layer[k] for k in sorted(by_layer)},
+            "edges": edge_stats,
+            "errors": errors,
+            "warnings": warnings,
+            "ok": not errors and not (args.strict and warnings),
+        }, indent=2))
+    else:
+        shape = "  ".join(f"L{layer}:{by_layer[layer]}" for layer in sorted(by_layer)) or "empty"
+        print(f"{len(nodes)} nodes   {shape}")
+        if edge_stats["total"]:
+            families = "  ".join(f"{f}:{n}" for f, n in sorted(edge_stats["by_family"].items()))
+            audited = edge_stats["total"] - edge_stats["unaudited"]
+            print(f"{edge_stats['total']} edges   {families}"
+                  f"   ({audited}/{edge_stats['total']} audited)")
+        for warning in warnings:
+            print(f"  warn   {warning}")
+        for error in errors:
+            print(f"  ERROR  {error}")
+        if errors:
+            print(f"\n{len(errors)} error(s)")
+        elif warnings and args.strict:
+            print(f"\n{len(warnings)} warning(s), --strict")
+        else:
+            print("\nclean" + (f", {len(warnings)} warning(s)" if warnings else ""))
+
+    return 1 if errors or (args.strict and warnings) else 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

@@ -1,0 +1,386 @@
+#!/usr/bin/env python3
+"""The front door. Material in, an L0 source node and a preserved original out.
+
+The specification calls ingestion the primary mechanism through which the system
+grows, and says the user should not need to understand the internal hierarchy —
+they should simply provide information. This is the deterministic half of that.
+
+What this tool does, and does completely:
+
+  * preserves the original byte-exact under raw/, because a derived
+    representation can always be regenerated and an original cannot
+  * records sha256 and size, so corruption is detectable rather than assumed
+  * mints a stable source id
+  * writes the L0 `source` node with real provenance
+  * emits an extraction worksheet saying what is still owed
+
+What this tool does NOT do, on purpose: extract meaning. Turning a document into
+atomic datapoints requires reading it, and a regex pretending to read is how a
+corpus fills with confident nonsense. Extraction is a job for an agent, and the
+worksheet is its brief.
+
+TESTIMONY MODE (--testimony) is the important one. Some material's reliability
+is unestablished — a prior system's conclusions, a retrospective account, a
+third party's summary. That material still belongs in the archive, but what it
+supplies is evidence of WHAT IT ASSERTED, not evidence that the assertion holds.
+The source is flagged, and wb-validate then refuses any datum drawn from it that
+does not name whose assertion it is. Corroboration and contradiction against the
+rest of the corpus is what promotes such a claim afterwards — which is exactly
+how a prior system's mistakes become visible instead of inherited.
+
+Usage:
+  bin/wb-ingest FILE...                     ingest one or more files
+  bin/wb-ingest DIR --recursive             ingest a tree
+  bin/wb-ingest --story                     read a recollection from stdin
+  bin/wb-ingest FILE --testimony            its assertions are the evidence
+  bin/wb-ingest FILE --dry-run              show what would happen
+
+Standard library only, matching the rest of the project.
+"""
+
+from __future__ import annotations
+
+import argparse
+import datetime
+import hashlib
+import json
+import pathlib
+import re
+import shutil
+import sys
+
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+KB = ROOT / "kb"
+RAW = ROOT / "raw"
+
+# Extension -> the schema's source_type vocabulary. Anything unmatched becomes
+# "document" and says so, rather than guessing something more specific.
+BY_SUFFIX = {
+    ".md": "document", ".markdown": "document", ".txt": "note", ".rtf": "document",
+    ".pdf": "document", ".doc": "document", ".docx": "document",
+    ".html": "document", ".htm": "document", ".xml": "document", ".json": "document",
+    ".csv": "document", ".tsv": "document", ".xlsx": "document",
+    ".jpg": "photo", ".jpeg": "photo", ".png": "photo", ".heic": "photo",
+    ".gif": "photo", ".webp": "photo", ".tiff": "photo",
+    ".mp3": "audio", ".wav": "audio", ".m4a": "audio", ".flac": "audio",
+    ".mp4": "video", ".mov": "video", ".mkv": "video", ".webm": "video",
+    ".py": "code", ".js": "code", ".sh": "code", ".c": "code", ".go": "code",
+    ".eml": "email", ".mbox": "email", ".ics": "calendar",
+}
+
+BIG = 10 * 1024 * 1024      # warn above this; git is not a media store
+
+
+def slugify(text: str) -> str:
+    slug = re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
+    return re.sub(r"-{2,}", "-", slug)[:60].strip("-") or "untitled"
+
+
+def existing_ids(kb: pathlib.Path) -> set[str]:
+    found = set()
+    for path in kb.rglob("*.md"):
+        match = re.search(r'^id\s*=\s*"([^"]+)"', path.read_text(encoding="utf-8",
+                                                                errors="replace"), re.M)
+        if match:
+            found.add(match.group(1))
+    return found
+
+
+def unique_id(base: str, taken: set[str]) -> str:
+    """Ids are stable forever, so a collision is resolved by suffix, never reuse."""
+    candidate = f"src:{base}"
+    if candidate not in taken:
+        return candidate
+    for n in range(2, 1000):
+        candidate = f"src:{base}-{n}"
+        if candidate not in taken:
+            return candidate
+    raise SystemExit(f"could not allocate an id for {base!r}")
+
+
+def digest(path: pathlib.Path) -> tuple[str, int]:
+    h = hashlib.sha256()
+    size = 0
+    with path.open("rb") as fh:
+        for chunk in iter(lambda: fh.read(1 << 20), b""):
+            h.update(chunk)
+            size += len(chunk)
+    return h.hexdigest(), size
+
+
+def toml_escape(text: str) -> str:
+    return text.replace("\\", "\\\\").replace('"', '\\"').replace("\n", " ").strip()
+
+
+def source_node(node_id: str, title: str, args, meta: dict) -> str:
+    slug = node_id.split(":", 1)[1]
+    lines = [
+        "+++",
+        f'id          = "{node_id}"',
+        "layer       = 0",
+        'type        = "source"',
+        f'title       = "{toml_escape(title)}"',
+        f'source_type = "{meta["source_type"]}"',
+        f'acquired    = "{args.acquired}"',
+        f'provenance  = "{toml_escape(meta["provenance"])}"',
+        f'reliability = "{args.reliability}"',
+        f'confidence  = "{args.confidence}"',
+        f'importance  = {args.importance}',
+    ]
+    if args.testimony:
+        lines.append("testimony   = true")
+    if args.sensitive:
+        lines.append("sensitive   = true")
+    if meta.get("sha256"):
+        lines.append(f'extraction  = "Not yet extracted. Original preserved at '
+                     f'raw/{slug}/ — sha256 {meta["sha256"][:16]}…, {meta["bytes"]:,} bytes. '
+                     f'See raw/{slug}/EXTRACT.md for what extraction owes."')
+    lines.append(f'created     = "{args.acquired}"')
+    if args.tags:
+        tags = ", ".join(f'"{toml_escape(t)}"' for t in args.tags)
+        lines.append(f"tags        = [{tags}]")
+    lines += ["", "[when]", f'date = "{args.acquired}"', "+++", ""]
+
+    body = [f"## What this is\n\n{meta['description']}\n"]
+    if args.testimony:
+        body.append(
+            "## Testimony, not fact\n\n"
+            "This source is marked `testimony`. Its reliability is not established, so what "
+            "it supplies is evidence of **what it asserted** — never evidence that the "
+            "assertion holds.\n\n"
+            "Every datum drawn from it must carry `attributed_to = \"" + node_id + "\"`, and "
+            "`bin/wb-validate` fails the build otherwise. A claim therefore reads *\"this "
+            "source asserted P\"*, which is true and checkable, rather than *\"P\"*, which is "
+            "not yet established.\n\n"
+            "Promotion happens through corroboration: when an independent source in the "
+            "corpus supports the same claim, that is a second datum, and an interpretation "
+            "resting on both is stronger than either. When the corpus contradicts it, the "
+            "result is a `contradiction` node — and those are among the most valuable objects "
+            "here, because they mark precisely where this source was wrong.\n")
+    body.append(
+        "## Extraction status\n\n"
+        "**Not extracted.** This node records that the material exists, where it came from "
+        "and that it is intact. Turning it into atomic datapoints is a separate step; "
+        f"`raw/{slug}/EXTRACT.md` is the brief for it.\n")
+    return "\n".join(lines) + "\n".join(body)
+
+
+def worksheet(node_id: str, title: str, args, meta: dict) -> str:
+    slug = node_id.split(":", 1)[1]
+    attribution = (
+        f'attributed_to = "{node_id}"    # REQUIRED — this source is testimony\n'
+        if args.testimony else "")
+    claim_shape = (f'claim = "{title} asserted that ..."' if args.testimony
+                   else 'claim = "..."')
+    return f"""# Extraction brief — `{node_id}`
+
+**Status: not extracted.** Delete this file only when the work below is done.
+
+| | |
+| :--- | :--- |
+| Source node | `kb/sources/{slug}.md` |
+| Original | `raw/{slug}/{meta['filename']}` |
+| sha256 | `{meta.get('sha256', 'n/a')}` |
+| Size | {meta.get('bytes', 0):,} bytes |
+| Testimony | {'**yes** — assertions are the evidence' if args.testimony else 'no'} |
+
+## What extraction owes
+
+One datum per claim. The unit is *one claim about one thing, at one time, with
+known provenance* — atomicity is what makes later reasoning possible, and a
+paragraph compressed into a single datum cannot be cross-referenced against
+anything.
+
+```toml
++++
+id            = "dat:NNNN-short-slug"
+layer         = 1
+type          = "datum"
+title         = "..."
+{claim_shape}
+cites         = ["{node_id}"]
+{attribution}confidence    = "high | moderate | low | speculative | unknown"
+extraction    = "How this was obtained, and what limits it. Sample size belongs here."
++++
+```
+
+Work through, in order:
+
+1. **Atomic datapoints** — every separable claim.
+2. **Entities** — people, places, institutions, projects, artifacts. Do **not**
+   merge an ambiguous match into an existing entity. An uncertain identity stays
+   uncertain; a wrong merge is close to unrecoverable once things cite it.
+3. **Events** — what happened, with `[when]`. Date precision is meaningful:
+   `2018` and `2018-03-04` are different claims, so do not pad.
+4. **Relationships** — first-class L2 objects, not adjectives on a person.
+5. **Explicit beliefs**, kept apart from observations. What someone believed at
+   the time is evidence about them regardless of whether it was correct.
+6. **Observation vs interpretation.** Anything that is a reading goes to L3 with
+   a `perspective`, never to L1.
+7. **Cross-reference** against the existing corpus: what does this corroborate,
+   contradict, or newly explain?
+8. **Contradictions** — write the `contradiction` node. Do not resolve it.
+   "The historical record is ambiguous" is a valid and often correct result.
+9. **Gaps** — what did this raise that nothing answers?
+
+## What extraction must not do
+
+- Invent dates. Absent is `unknown`; approximate is `approx`.
+- Silently merge entities on a partial name match.
+- Promote a reading to L1 because it feels obvious.
+- Normalise away the weird parts. Specific recurring strangeness is where the
+  cognitive signature lives; generic descriptors are cheap and interchangeable.
+{"- Restate an assertion as fact. This source is testimony: `attributed_to` is required." if args.testimony else ""}
+
+## Verify when done
+
+```sh
+bin/wb-validate      # the layer invariant, testimony attribution, edge families
+tests/test-invariant
+```
+"""
+
+
+def ingest_one(path: pathlib.Path, args, taken: set[str], report: list[str]) -> None:
+    title = args.title or path.stem.replace("_", " ").replace("-", " ").strip()
+    node_id = unique_id(slugify(args.slug or title), taken)
+    taken.add(node_id)
+    slug = node_id.split(":", 1)[1]
+
+    sha, size = digest(path)
+    if size > BIG:
+        report.append(f"  warn  {path.name} is {size / 1048576:.1f} MB — git stores it forever")
+
+    meta = {
+        "filename": path.name,
+        "sha256": sha,
+        "bytes": size,
+        "source_type": args.source_type or BY_SUFFIX.get(path.suffix.lower(), "document"),
+        "provenance": args.provenance or f"Ingested from {path.name} on {args.acquired}.",
+        "description": args.description or
+                       f"`{path.name}`, ingested {args.acquired}. Preserved byte-exact at "
+                       f"`raw/{slug}/{path.name}`.",
+    }
+
+    if args.dry_run:
+        report.append(f"  would ingest  {node_id}  ({meta['source_type']}, {size:,} B)")
+        return
+
+    (RAW / slug).mkdir(parents=True, exist_ok=True)
+    shutil.copy2(path, RAW / slug / path.name)
+    (RAW / slug / "manifest.json").write_text(json.dumps({
+        "id": node_id, "filename": path.name, "sha256": sha, "bytes": size,
+        "ingested": args.acquired, "testimony": bool(args.testimony),
+        "original_path": str(path),
+    }, indent=2) + "\n")
+    (RAW / slug / "EXTRACT.md").write_text(worksheet(node_id, title, args, meta))
+    (KB / "sources" / f"{slug}.md").write_text(source_node(node_id, title, args, meta))
+    report.append(f"  {node_id}  ->  kb/sources/{slug}.md  +  raw/{slug}/  ({size:,} B)")
+
+
+def ingest_story(args, taken: set[str], report: list[str]) -> None:
+    text = sys.stdin.read()
+    if not text.strip():
+        raise SystemExit("nothing on stdin")
+    title = args.title or "Untitled recollection"
+    node_id = unique_id(slugify(args.slug or title), taken)
+    taken.add(node_id)
+    slug = node_id.split(":", 1)[1]
+
+    if args.dry_run:
+        report.append(f"  would ingest  {node_id}  ({len(text):,} chars from stdin)")
+        return
+
+    (RAW / slug).mkdir(parents=True, exist_ok=True)
+    original = RAW / slug / "submission.txt"
+    original.write_text(text, encoding="utf-8")
+    sha, size = digest(original)
+    meta = {
+        "filename": "submission.txt",
+        "sha256": sha, "bytes": size,
+        "source_type": args.source_type or "note",
+        "provenance": args.provenance or
+                      f"Submitted directly by the operator on {args.acquired} as a story, "
+                      f"recollection or correction. Preserved verbatim as received.",
+        "description": args.description or
+                       f"A recollection submitted {args.acquired}, preserved verbatim at "
+                       f"`raw/{slug}/submission.txt`. Retrospective self-report: evidence "
+                       f"about what the operator recalls and how they frame it, which is not "
+                       f"the same thing as evidence about what occurred.",
+    }
+    (RAW / slug / "manifest.json").write_text(json.dumps({
+        "id": node_id, "filename": "submission.txt", "sha256": sha, "bytes": size,
+        "ingested": args.acquired, "testimony": bool(args.testimony), "original_path": "stdin",
+    }, indent=2) + "\n")
+    (RAW / slug / "EXTRACT.md").write_text(worksheet(node_id, title, args, meta))
+    (KB / "sources" / f"{slug}.md").write_text(source_node(node_id, title, args, meta))
+    report.append(f"  {node_id}  ->  kb/sources/{slug}.md  +  raw/{slug}/  ({size:,} B)")
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser(description=__doc__,
+                                 formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("paths", nargs="*", type=pathlib.Path)
+    ap.add_argument("--story", action="store_true", help="read a recollection from stdin")
+    ap.add_argument("--recursive", "-r", action="store_true", help="walk directories")
+    ap.add_argument("--testimony", action="store_true",
+                    help="this source's ASSERTIONS are the evidence, not what it asserts")
+    ap.add_argument("--source-type", help="override the type guessed from the extension")
+    ap.add_argument("--reliability", default="uncertain",
+                    choices=["primary", "contemporaneous", "corroborated",
+                             "retrospective", "third-party", "uncertain"])
+    ap.add_argument("--confidence", default="high",
+                    choices=["high", "moderate", "low", "speculative", "unknown"],
+                    help="confidence that the source is what it claims to be — NOT that its "
+                         "contents are true")
+    ap.add_argument("--importance", type=int, default=3, choices=range(1, 6))
+    ap.add_argument("--title", help="title for a single source")
+    ap.add_argument("--slug", help="id slug for a single source")
+    ap.add_argument("--provenance", help="where this came from and how")
+    ap.add_argument("--description", help="body text for the source node")
+    ap.add_argument("--tags", nargs="*", default=[])
+    ap.add_argument("--sensitive", action="store_true",
+                    help="withhold from published artifacts. Does NOT withhold from "
+                         "reasoning — see bin/wb-query.")
+    ap.add_argument("--acquired", default=datetime.date.today().isoformat())
+    ap.add_argument("--dry-run", action="store_true")
+    args = ap.parse_args()
+
+    if not re.fullmatch(r"\d{4}(-\d{2}(-\d{2})?)?", args.acquired):
+        raise SystemExit(f"--acquired must be YYYY, YYYY-MM or YYYY-MM-DD, got {args.acquired!r}")
+    if not args.story and not args.paths:
+        ap.error("give at least one path, or --story to read stdin")
+    if args.story and args.paths:
+        ap.error("--story reads stdin; do not also pass paths")
+
+    (KB / "sources").mkdir(parents=True, exist_ok=True)
+    taken = existing_ids(KB)
+    report: list[str] = []
+
+    if args.story:
+        ingest_story(args, taken, report)
+    else:
+        files: list[pathlib.Path] = []
+        for path in args.paths:
+            if path.is_dir():
+                if not args.recursive:
+                    raise SystemExit(f"{path} is a directory — pass --recursive")
+                files += sorted(p for p in path.rglob("*") if p.is_file())
+            elif path.is_file():
+                files.append(path)
+            else:
+                raise SystemExit(f"not found: {path}")
+        if len(files) > 1 and (args.title or args.slug):
+            raise SystemExit("--title/--slug name a single source; drop them for a batch")
+        for path in files:
+            ingest_one(path, args, taken, report)
+
+    print("\n".join(report) if report else "  nothing to do")
+    if not args.dry_run and report:
+        print("\nNot extracted yet. Each raw/<slug>/EXTRACT.md says what is owed.")
+        print("Then: bin/wb-validate")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

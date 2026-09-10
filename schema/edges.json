@@ -1,0 +1,48 @@
+{
+  "$comment": "The edge vocabulary, as data. This file is the single source of truth: node.schema.json's `rel` enum is checked against it by bin/wb-validate, which errors if the two drift. Adding a relation means adding it here.",
+
+  "families": {
+    "temporal": {
+      "claim": "Sequence and containment only. Makes no causal claim whatsoever.",
+      "relations": ["preceded", "followed", "occurred_during"]
+    },
+    "causal": {
+      "claim": "Graded causal contribution. Every causal edge must declare what it rests on.",
+      "requires": ["basis"],
+      "relations": ["caused", "influenced", "influenced_by", "resulted_from", "depended_on"]
+    },
+    "structural": {
+      "claim": "Membership, location, participation and reference.",
+      "relations": ["belonged_to", "located_at", "participated_in", "about"]
+    },
+    "semantic": {
+      "claim": "Meaning and tension. Resemblance, symbolism and disagreement.",
+      "relations": ["resembled", "symbolized", "challenges", "contradicted"]
+    },
+    "narrative": {
+      "claim": "How the subject has PRESENTED a thing, as distinct from what it was. A claim about the telling, never about the event. Must say who asserts it.",
+      "requires": ["asserted_by"],
+      "relations": ["mythologized", "performed_as", "disavowed", "reframed", "retold_as"]
+    },
+    "editorial": {
+      "claim": "The knowledge base's own bookkeeping — one body of material overtaking another. Distinct from the node-identity `supersedes` FIELD, which retires a node.",
+      "relations": ["displaced", "displaced_by"]
+    }
+  },
+
+  "inverses": {
+    "preceded": "followed",
+    "caused": "resulted_from",
+    "influenced": "influenced_by",
+    "displaced": "displaced_by"
+  },
+
+  "strength": ["strong", "moderate", "weak", "tentative"],
+  "basis": ["stated", "inferred", "speculative"],
+  "asserted_by": ["self", "external", "llm", "other"],
+
+  "removed": {
+    "evidences": "Removed. `A evidences B` is `B cites A` written backwards, and only one of the two spellings was enforced by the layer invariant. Two ways to say one thing, one of them unchecked, is the exact asymmetry this vocabulary exists to end. Evidence goes in `cites`.",
+    "supersedes": "Removed as an edge; still a top-level FIELD. The field means 'this node replaces that node' — identity bookkeeping. The old edge was being used for something else entirely: 'the thing described here overtook the thing described there'. That is a content claim, and it is now `displaced`."
+  }
+}

@@ -1,0 +1,162 @@
+#!/usr/bin/env python3
+"""Emit the whole wiki as plain text, for agents that would rather read than click.
+
+An LLM handed a 497-page HTML site has to crawl it: fetch, strip tags, follow
+links, and hope it found everything. The same material as one text file is a
+single fetch and a grep, and the structure that matters — which page a passage
+came from, which layer a claim sits at — survives as delimiters rather than as
+markup it has to parse back out.
+
+Three files, because 8 MB does not fit in a context window and pretending
+otherwise helps nobody:
+
+  corpus-kb.txt       the 88 checked nodes. Small. Read this one first — it is
+                      what the system currently believes and why.
+  corpus-archive.txt  the 497-page snapshot the nodes cite. Large, unedited,
+                      and wrong in the specific places the nodes record.
+  corpus.txt          both, concatenated, for whoever wants one URL.
+
+Redaction is the same function `bin/wb-archive` uses, imported rather than
+reimplemented, so the text and the HTML cannot disagree about what was masked
+(dat:0052). `bin/wb-check-publish` scans `.txt`, so a hole here fails the build.
+
+Usage:  bin/wb-corpus [--out site]
+"""
+
+from __future__ import annotations
+
+import argparse
+import importlib.machinery
+import importlib.util
+import json
+import pathlib
+import sys
+
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+EXPORT = ROOT / "raw" / "old-wiki-export-2026-09-04"
+SNAPSHOT = "2026-09-04"
+RULE = "=" * 78
+
+
+def archive_module():
+    spec = importlib.util.spec_from_loader(
+        "wb_archive",
+        importlib.machinery.SourceFileLoader("wb_archive",
+                                             str(ROOT / "bin" / "wb-archive")))
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
+
+def banner(kind: str, name: str, fields: dict[str, str]) -> str:
+    """`=== NODE: <id>` on the first line, exactly as the header promises."""
+    lines = [RULE, f"=== {kind}: {name}"]
+    lines += [f"=== {k}: {v}" for k, v in fields.items() if v]
+    lines.append(RULE)
+    return "\n".join(lines)
+
+
+def kb_text(mod) -> tuple[str, int]:
+    """Every node, frontmatter included — the metadata is the point."""
+    nodes = []
+    for path in sorted((ROOT / "kb").rglob("*.md")):
+        if path.name.upper() == "README.MD":
+            continue
+        raw = path.read_text(encoding="utf-8")
+        ident = layer = kind = title = ""
+        for line in raw.split("\n")[:40]:
+            for key, var in (("id", "ident"), ("layer", "layer"),
+                             ("type", "kind"), ("title", "title")):
+                if line.startswith(key) and "=" in line:
+                    value = line.split("=", 1)[1].strip().strip('"')
+                    if var == "ident" and not ident:
+                        ident = value
+                    elif var == "layer" and not layer:
+                        layer = value
+                    elif var == "kind" and not kind:
+                        kind = value
+                    elif var == "title" and not title:
+                        title = value
+        nodes.append((layer, ident, banner("NODE", ident, {
+            "LAYER": layer, "TYPE": kind, "TITLE": title,
+            "FILE": str(path.relative_to(ROOT)),
+        }) + "\n\n" + mod.redact(raw).strip() + "\n"))
+    nodes.sort(key=lambda n: (n[0], n[1]))
+    return "\n\n".join(body for _, _, body in nodes), len(nodes)
+
+
+def archive_text(mod) -> tuple[str, int]:
+    index = json.loads((EXPORT / "pages.json").read_text())
+    blob = (EXPORT / "whole.txt").read_bytes()
+    out = []
+    for entry in index["pages"]:
+        start = entry["byte_offset"]
+        text = blob[start:start + entry["byte_length"]].decode("utf-8", "replace")
+        out.append(banner("PAGE", entry["path"], {
+            "TITLE": entry.get("title", ""),
+        }) + "\n\n" + mod.redact(text).strip() + "\n")
+    return "\n\n".join(out), len(index["pages"])
+
+
+def header(what: str, detail: str, masked: int) -> str:
+    return f"""{RULE}
+=== WIKI BRAIN — {what}
+=== {detail}
+=== source: https://github.com/Danfr4nk/wikitest
+=== site:   https://danfr4nk.github.io/wikitest/
+===
+=== Phone numbers and email addresses are masked as [phone redacted] and
+=== [email redacted] — {masked} masked here. Nothing else is altered.
+===
+=== Records are separated by a line of '=' followed by '=== NODE:' or
+=== '=== PAGE:' and their metadata. Split on '^={{78}}$' to iterate.
+{RULE}
+
+"""
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    ap.add_argument("--out", default=str(ROOT / "site"))
+    args = ap.parse_args()
+    out = pathlib.Path(args.out)
+    out.mkdir(parents=True, exist_ok=True)
+
+    mod = archive_module()
+    mod.REDACTED = 0
+    kb_body, kb_count = kb_text(mod)
+    kb_masked = mod.REDACTED
+
+    mod.REDACTED = 0
+    arc_body, arc_count = archive_text(mod)
+    arc_masked = mod.REDACTED
+
+    kb_doc = header(
+        "the knowledge base",
+        f"{kb_count} nodes across six layers, each citing only strictly lower "
+        f"layers. What this system currently believes, and why.",
+        kb_masked) + kb_body
+    arc_doc = header(
+        "the archive",
+        f"{arc_count} pages, snapshot of {SNAPSHOT}, unedited. The prior wiki "
+        f"as it stood, including the errors the knowledge base records.",
+        arc_masked) + arc_body
+
+    (out / "corpus-kb.txt").write_text(kb_doc)
+    (out / "corpus-archive.txt").write_text(arc_doc)
+    (out / "corpus.txt").write_text(
+        header("complete corpus",
+               f"{kb_count} knowledge-base nodes followed by the {arc_count}-page "
+               f"archive snapshot of {SNAPSHOT}.",
+               kb_masked + arc_masked)
+        + kb_body + "\n\n" + arc_body)
+
+    total = (out / "corpus.txt").stat().st_size
+    print(f"corpus: {kb_count} nodes + {arc_count} pages, "
+          f"{kb_masked + arc_masked} identifiers masked, "
+          f"{total / 1_048_576:.1f} MB -> {out}/corpus.txt")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

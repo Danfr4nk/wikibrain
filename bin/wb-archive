@@ -1,0 +1,496 @@
+#!/usr/bin/env python3
+"""Render the prior wiki's 497 pages into a browsable site.
+
+The old wiki was public and the operator read it by clicking through it. This
+repository recovered its export byte-exact (dat:0012) and then published only
+what had been *extracted* — 88 nodes against 497 pages — which is a research
+artefact, not the thing he used to browse.
+
+This builds the thing he used to browse. It renders every page in
+`raw/old-wiki-export-2026-09-04/whole.txt`, resolves the `[[wikilinks]]` between
+them, and gives each domain an index.
+
+Two rules it keeps, because the archive is evidence and not a live wiki:
+
+  NOTHING IS EDITED. Every page is rendered from the export exactly as it was on
+  2026-09-04, including its errors — the conflated legal matters, the
+  misattributed DUI, the "still enrolled in December" reading the operator
+  himself corrected today. A reader following a link from a wikitest node has to
+  land on what the node was talking about, not on a tidied version of it.
+
+  IT IS MARKED AS AN ARCHIVE. Every page carries a banner saying it is a
+  snapshot, dated, and not the current state of anything. The corrections live
+  in `kb/` and the pages here link back to it, not the other way round.
+
+Usage:  bin/wb-archive [--out site]
+"""
+
+from __future__ import annotations
+
+import argparse
+import html
+import json
+import pathlib
+import re
+import sys
+
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+EXPORT = ROOT / "raw" / "old-wiki-export-2026-09-04"
+SNAPSHOT = "2026-09-04"
+
+WIKILINK = re.compile(r"\[\[([^\]|]+?)(?:\|([^\]]+))?\]\]")
+FRONTMATTER = re.compile(r"\A\s*---\n(.*?)\n---\n", re.S)
+
+# Same patterns bin/wb-check-publish refuses on, so the two cannot drift.
+PHONE = re.compile(r"\+1[0-9]{10}|\b[0-9]{3}-[0-9]{3}-[0-9]{4}\b")
+EMAIL = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
+EMAIL_OK = re.compile(r"noreply@|@example\.|@schema\.|json-schema\.org")
+DIGITS = re.compile(r"[0-9]{7,}")
+
+REDACTED = 0
+
+
+def redact(text: str) -> str:
+    """Mask contact identifiers, and only those.
+
+    The prior wiki carried 370 phone numbers and email addresses belonging to
+    roughly two hundred named third parties, in the body text of its own pages.
+    It was itself public, so these were already exposed — but "it leaked once"
+    is not consent, and republishing them at a new permanent URL is a fresh act.
+
+    So the identifiers go and nothing else does. Every name, claim, date,
+    argument and error stays exactly as written, because the archive is evidence
+    and a reader has to see what the pages actually said. What is removed is the
+    string that lets a stranger dial or email someone who never chose to be in
+    anyone's psychological archive.
+
+    The mask is visible rather than silent: a reader can see that a number was
+    there, which matters on pages where the number IS the person's identifier.
+    """
+    global REDACTED
+
+    def phone(m: re.Match) -> str:
+        global REDACTED
+        REDACTED += 1
+        return "[phone redacted]"
+
+    def email(m: re.Match) -> str:
+        global REDACTED
+        if EMAIL_OK.search(m.group(0)):
+            return m.group(0)
+        REDACTED += 1
+        return "[email redacted]"
+
+    return EMAIL.sub(email, PHONE.sub(phone, text))
+
+
+def safe(path: str) -> str:
+    """A page slug with long digit runs masked.
+
+    Some pages are named for a phone number, because the prior wiki had no name
+    for that person — `people/bryan-5088682461`. Redacting the body and leaving
+    the number in the URL would publish it anyway. Applied to filenames, hrefs
+    and the search index from one place so they cannot disagree.
+    """
+    return DIGITS.sub("xxxxxxx", path)
+
+
+# --------------------------------------------------------------------------
+# inline and block rendering
+# --------------------------------------------------------------------------
+
+def inline(text: str, here: str, known: set[str]) -> str:
+    """Escape, then re-introduce only the markup we control.
+
+    Order matters: escaping first means nothing in the source can inject a tag,
+    and every anchor below is built from an already-escaped string.
+    """
+    out = html.escape(redact(text), quote=False)
+    out = re.sub(r"`([^`]+)`", lambda m: f"<code>{m.group(1)}</code>", out)
+    out = re.sub(r"\*\*\*([^*]+)\*\*\*", r"<strong><em>\1</em></strong>", out)
+    out = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", out)
+    out = re.sub(r"(?<![*\w])\*([^*\n]+)\*(?!\w)", r"<em>\1</em>", out)
+    out = re.sub(r"\[([^\]]+)\]\((https?://[^)]+)\)",
+                 lambda m: f'<a href="{html.escape(m.group(2), quote=True)}" '
+                           f'rel="noopener">{m.group(1)}</a>', out)
+    out = re.sub(r"(?<!\[)(?<!\()\b(https?://[^\s<>\)]+)",
+                 lambda m: f'<a href="{html.escape(m.group(1), quote=True)}" '
+                           f'rel="noopener">{m.group(1)}</a>', out)
+    return wikilinks(out, here, known)
+
+
+def wikilinks(text: str, here: str, known: set[str]) -> str:
+    """`[[wiki/a/b|Label]]` -> a relative anchor, or a dead-link span.
+
+    A link to a page the export does not contain is rendered visibly dead
+    rather than silently as text. The old wiki had them; hiding them would
+    misrepresent the archive.
+    """
+    def one(m: re.Match) -> str:
+        target = m.group(1).strip()
+        label = (m.group(2) or target.rsplit("/", 1)[-1]).strip()
+        key = target if target.endswith(".md") else target + ".md"
+        if key in known:
+            return f'<a href="{relpath(here, key)}">{label}</a>'
+        return f'<span class="dead" title="not in the export">{label}</span>'
+    return WIKILINK.sub(one, text)
+
+
+def relpath(here: str, there: str) -> str:
+    """Relative href between two wiki paths, both `wiki/...md`."""
+    up = "../" * (here.count("/") - 1)
+    return html.escape(up + safe(there[len("wiki/"):-3]) + ".html", quote=True)
+
+
+def table(rows: list[str], here: str, known: set[str]) -> str:
+    cells = [[c.strip() for c in r.strip().strip("|").split("|")] for r in rows]
+    if len(cells) >= 2 and all(set(c) <= set("-: ") for c in cells[1]):
+        head, body = cells[0], cells[2:]
+    else:
+        head, body = None, cells
+    out = ['<div class="scroll"><table>']
+    if head:
+        out.append("<thead><tr>"
+                   + "".join(f"<th>{inline(c, here, known)}</th>" for c in head)
+                   + "</tr></thead>")
+    out.append("<tbody>")
+    for row in body:
+        out.append("<tr>" + "".join(f"<td>{inline(c, here, known)}</td>"
+                                    for c in row) + "</tr>")
+    out.append("</tbody></table></div>")
+    return "".join(out)
+
+
+def markdown(text: str, here: str, known: set[str]) -> str:
+    parts: list[str] = []
+    para: list[str] = []
+    quote: list[str] = []
+    rows: list[str] = []
+    stack: str | None = None
+    code: list[str] = []
+    in_code = False
+
+    def flush_para() -> None:
+        nonlocal para
+        if para:
+            parts.append(f"<p>{inline(' '.join(para), here, known)}</p>")
+            para = []
+
+    def flush_list() -> None:
+        nonlocal stack
+        if stack:
+            parts.append(f"</{stack}>")
+            stack = None
+
+    def flush_quote() -> None:
+        nonlocal quote
+        if quote:
+            body = markdown("\n".join(quote), here, known)
+            parts.append(f"<blockquote>{body}</blockquote>")
+            quote = []
+
+    def flush_table() -> None:
+        nonlocal rows
+        if rows:
+            parts.append(table(rows, here, known))
+            rows = []
+
+    def flush_all() -> None:
+        flush_para(); flush_list(); flush_quote(); flush_table()
+
+    for raw in text.split("\n"):
+        if raw.startswith("```"):
+            if in_code:
+                parts.append("<pre><code>"
+                             + html.escape(redact("\n".join(code)), quote=False)
+                             + "</code></pre>")
+                code, in_code = [], False
+            else:
+                flush_all()
+                in_code = True
+            continue
+        if in_code:
+            code.append(raw)
+            continue
+
+        line = raw.rstrip()
+
+        if not line.strip():
+            flush_all()
+            continue
+
+        if line.startswith(">"):
+            flush_para(); flush_list(); flush_table()
+            quote.append(line[1:].lstrip() if line[1:2] == " " else line[1:])
+            continue
+        flush_quote()
+
+        if line.lstrip().startswith("|") and line.rstrip().endswith("|"):
+            flush_para(); flush_list()
+            rows.append(line)
+            continue
+        flush_table()
+
+        if re.match(r"^\s*(-{3,}|\*{3,}|_{3,})\s*$", line):
+            flush_all()
+            parts.append("<hr>")
+            continue
+
+        heading = re.match(r"^(#{1,6})\s+(.*)$", line)
+        if heading:
+            flush_all()
+            # The page's own `# Title` is dropped in favour of the shell's
+            # <h1>, so `##` is the top section level and maps straight to h2.
+            level = min(max(len(heading.group(1)), 2), 6)
+            parts.append(f"<h{level}>"
+                         f"{inline(heading.group(2), here, known)}</h{level}>")
+            continue
+
+        bullet = re.match(r"^\s*[-*+]\s+(.*)$", line)
+        number = re.match(r"^\s*\d+[.)]\s+(.*)$", line)
+        if bullet or number:
+            want = "ul" if bullet else "ol"
+            flush_para()
+            if stack != want:
+                flush_list()
+                parts.append(f"<{want}>")
+                stack = want
+            item = (bullet or number).group(1)
+            parts.append(f"<li>{inline(item, here, known)}</li>")
+            continue
+        flush_list()
+
+        para.append(line)
+
+    flush_all()
+    if in_code and code:
+        parts.append("<pre><code>"
+                     + html.escape(redact("\n".join(code)), quote=False)
+                     + "</code></pre>")
+    return "".join(parts)
+
+
+# --------------------------------------------------------------------------
+# pages
+# --------------------------------------------------------------------------
+
+def load_pages() -> list[dict]:
+    index = json.loads((EXPORT / "pages.json").read_text())
+    blob = (EXPORT / "whole.txt").read_bytes()
+    pages = []
+    for entry in index["pages"]:
+        start = entry["byte_offset"]
+        text = blob[start:start + entry["byte_length"]].decode("utf-8", "replace")
+        meta: dict[str, str] = {}
+        fm = FRONTMATTER.match(text)
+        if fm:
+            for line in fm.group(1).split("\n"):
+                key = re.match(r"^([a-z_]+):\s*(.*)$", line)
+                if key:
+                    meta[key.group(1)] = key.group(2).strip().strip('"')
+            text = text[fm.end():]
+        parts = entry["path"].split("/")
+        pages.append({
+            "path": entry["path"],
+            "domain": parts[1] if len(parts) > 2 else "(root)",
+            "title": entry.get("title") or meta.get("title")
+                     or parts[-1][:-3].replace("-", " ").title(),
+            "modified": meta.get("date_modified", ""),
+            "page_type": meta.get("page_type", ""),
+            "body": text,
+            "bytes": entry["byte_length"],
+        })
+    return pages
+
+
+def shell(title: str, depth: int, body: str, subtitle: str = "") -> str:
+    up = "../" * depth
+    return f"""<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{html.escape(title)} — Wiki Brain archive</title>
+<link rel="stylesheet" href="{up}archive.css">
+</head><body>
+<header class="top">
+  <a class="home" href="{up}index.html">Wiki Brain <span>archive</span></a>
+  <nav><a href="{up}../index.html">wikitest</a></nav>
+</header>
+<main>
+<div class="stamp">Snapshot of {SNAPSHOT}. Rendered from the export exactly as it
+was, errors included — only phone numbers and email addresses are masked.
+Corrections live in <a href="{up}../index.html">wikitest</a>.</div>
+<h1>{html.escape(title)}</h1>
+{f'<p class="sub">{subtitle}</p>' if subtitle else ''}
+{body}
+</main>
+</body></html>
+"""
+
+
+CSS = """
+:root{--bg:#fbfaf8;--fg:#1c1a17;--mut:#6b655d;--rule:#e2ded6;--acc:#7a4a1e;
+--card:#fff;--dead:#b23;--code:#f1eee8}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){
+--bg:#15140f;--fg:#e9e5dc;--mut:#9a9287;--rule:#2f2c25;--acc:#d99a5b;
+--card:#1c1a15;--dead:#e77;--code:#211f19}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);
+font:16px/1.62 ui-serif,Georgia,"Times New Roman",serif}
+.top{display:flex;justify-content:space-between;align-items:baseline;gap:1rem;
+padding:.9rem 1.4rem;border-bottom:1px solid var(--rule);position:sticky;top:0;
+background:var(--bg);z-index:5;font-family:ui-sans-serif,system-ui,sans-serif}
+.home{font-weight:700;text-decoration:none;color:var(--fg);letter-spacing:.01em}
+.home span{font-weight:400;color:var(--mut)}
+.top nav a{color:var(--mut);text-decoration:none;font-size:.85rem}
+.top nav a:hover{color:var(--acc)}
+main{max-width:46rem;margin:0 auto;padding:1.6rem 1.4rem 6rem}
+h1{font-size:1.9rem;line-height:1.2;margin:.4rem 0 .2rem;letter-spacing:-.01em}
+h2{font-size:1.3rem;margin:2.2rem 0 .5rem;border-bottom:1px solid var(--rule);
+padding-bottom:.25rem}
+h3{font-size:1.08rem;margin:1.6rem 0 .35rem}
+h4,h5,h6{font-size:.98rem;margin:1.3rem 0 .3rem}
+p{margin:.75rem 0}
+a{color:var(--acc)}
+.sub{color:var(--mut);margin:.1rem 0 1.2rem;font-size:.92rem}
+.stamp{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.78rem;
+color:var(--mut);background:var(--card);border:1px solid var(--rule);
+border-left:3px solid var(--acc);padding:.5rem .7rem;margin:0 0 1.4rem}
+blockquote{margin:1rem 0;padding:.1rem 0 .1rem 1rem;border-left:3px solid var(--rule);
+color:var(--mut)}
+blockquote strong{color:var(--fg)}
+code{background:var(--code);padding:.1em .35em;border-radius:3px;
+font:.87em/1.5 ui-monospace,SFMono-Regular,Menlo,monospace}
+pre{background:var(--code);padding:.8rem 1rem;overflow-x:auto;border-radius:4px}
+pre code{background:none;padding:0}
+.scroll{overflow-x:auto;margin:1rem 0}
+table{border-collapse:collapse;width:100%;font-size:.9rem;
+font-family:ui-sans-serif,system-ui,sans-serif}
+th,td{border:1px solid var(--rule);padding:.4rem .55rem;text-align:left;
+vertical-align:top}
+th{background:var(--card);font-weight:600}
+hr{border:0;border-top:1px solid var(--rule);margin:2rem 0}
+ul,ol{padding-left:1.3rem}
+li{margin:.3rem 0}
+.dead{color:var(--dead);border-bottom:1px dotted var(--dead);cursor:help}
+.grid{display:grid;gap:.5rem;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr));
+list-style:none;padding:0;margin:1rem 0}
+.grid a{display:block;padding:.55rem .7rem;border:1px solid var(--rule);
+background:var(--card);text-decoration:none;border-radius:4px;
+font-family:ui-sans-serif,system-ui,sans-serif;font-size:.9rem}
+.grid a:hover{border-color:var(--acc)}
+.grid .n{color:var(--mut);font-size:.78rem}
+#q{width:100%;padding:.6rem .75rem;font:1rem/1.4 ui-sans-serif,system-ui,sans-serif;
+border:1px solid var(--rule);border-radius:4px;background:var(--card);
+color:var(--fg);margin:.6rem 0 1rem}
+#hits{list-style:none;padding:0;margin:0}
+#hits li{padding:.4rem 0;border-bottom:1px solid var(--rule);
+font-family:ui-sans-serif,system-ui,sans-serif;font-size:.92rem}
+#hits .d{color:var(--mut);font-size:.78rem;margin-left:.4rem}
+.count{color:var(--mut);font-size:.82rem;
+font-family:ui-sans-serif,system-ui,sans-serif}
+"""
+
+
+def build(out: pathlib.Path) -> int:
+    pages = load_pages()
+    known = {p["path"] for p in pages}
+    root = out / "archive"
+    root.mkdir(parents=True, exist_ok=True)
+    (root / "archive.css").write_text(CSS)
+
+    by_domain: dict[str, list[dict]] = {}
+    for page in pages:
+        by_domain.setdefault(page["domain"], []).append(page)
+
+    for page in pages:
+        rel = safe(page["path"][len("wiki/"):-3]) + ".html"
+        target = root / rel
+        target.parent.mkdir(parents=True, exist_ok=True)
+        depth = rel.count("/")
+        bits = [b for b in (page["domain"], page["page_type"],
+                            f"modified {page['modified']}" if page["modified"] else "")
+                if b]
+        # The page opens with its own `# Title`, which the shell already prints
+        # as the <h1>. Rendering both gives every one of the 497 pages a
+        # duplicated heading, so the leading one is dropped when it matches.
+        body = page["body"].lstrip("\n")
+        first = re.match(r"^#\s+(.*)\n", body)
+        if first and first.group(1).strip().lower() == page["title"].strip().lower():
+            body = body[first.end():]
+        target.write_text(shell(redact(page["title"]), depth,
+                                markdown(body, page["path"], known),
+                                " · ".join(bits)))
+
+    # per-domain indexes
+    for domain, group in sorted(by_domain.items()):
+        group.sort(key=lambda p: p["title"].lower())
+        items = "".join(
+            f'<li><a href="{html.escape(safe(p["path"][len("wiki/"):-3]) + ".html", quote=True)}">'
+            f'{html.escape(redact(p["title"]))}'
+            f'<div class="n">{html.escape(safe(p["path"][len("wiki/"):-3]))}</div></a></li>'
+            for p in group)
+        (root / f"{domain}.html").write_text(
+            shell(domain, 0, f'<ul class="grid">{items}</ul>',
+                  f"{len(group)} page{'s' if len(group) != 1 else ''}"))
+
+    # search index — titles and paths only, so it stays small enough to ship
+    (root / "pages.json").write_text(json.dumps(
+        [{"t": redact(p["title"]), "p": safe(p["path"][len("wiki/"):-3]) + ".html",
+          "d": p["domain"]} for p in sorted(pages, key=lambda x: x["path"])],
+        separators=(",", ":")))
+
+    domains = "".join(
+        f'<li><a href="{d}.html">{html.escape(d)}'
+        f'<div class="n">{len(g)} pages</div></a></li>'
+        for d, g in sorted(by_domain.items(), key=lambda kv: -len(kv[1])))
+
+    body = f"""
+<p>The wiki as it stood on {SNAPSHOT} — <strong>{len(pages)} pages</strong>,
+rendered from the recovered export with its internal links intact. Nothing here
+has been edited or corrected.</p>
+<input id="q" type="search" placeholder="Search {len(pages)} page titles…"
+ autocomplete="off" aria-label="Search page titles">
+<ul id="hits"></ul>
+<h2>Domains</h2>
+<ul class="grid">{domains}</ul>
+<h2>What this is, and what it is not</h2>
+<p>This is an <em>archive</em>. Its pages carry the state of the prior system on
+one day, including the mistakes it had not yet found — a lawyer attached to a
+snack theft for three weeks, another man's DUI recorded as the subject's, a
+graduation date the subject corrected only after this went back online.</p>
+<p>The checking happens in <a href="../index.html">wikitest</a>, which cites
+these pages and records where they turned out to be wrong. If you want to know
+what is <em>believed</em>, read that. If you want to know what was
+<em>written</em>, read this.</p>
+<script>
+const IX = fetch('pages.json').then(r => r.json());
+const q = document.getElementById('q'), hits = document.getElementById('hits');
+q.addEventListener('input', async () => {{
+  const s = q.value.trim().toLowerCase();
+  const ix = await IX;
+  if (s.length < 2) {{ hits.innerHTML = ''; return; }}
+  const found = ix.filter(p => p.t.toLowerCase().includes(s)
+                            || p.p.toLowerCase().includes(s)).slice(0, 60);
+  hits.innerHTML = found.length
+    ? found.map(p => `<li><a href="${{p.p}}">${{p.t}}</a><span class="d">${{p.d}}</span></li>`).join('')
+    : '<li class="d">no page title matches</li>';
+}});
+</script>
+"""
+    (root / "index.html").write_text(shell("Wiki Brain archive", 0, body,
+                                           f"{len(pages)} pages · snapshot {SNAPSHOT}"))
+    print(f"archive: {len(pages)} pages, {len(by_domain)} domains, "
+          f"{REDACTED} contact identifiers masked -> {root}")
+    return 0
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    ap.add_argument("--out", default=str(ROOT / "site"))
+    args = ap.parse_args()
+    return build(pathlib.Path(args.out))
+
+
+if __name__ == "__main__":
+    sys.exit(main())
