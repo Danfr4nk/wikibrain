@@ -1,4 +1,3 @@
-
 ---
 domain: timeline
 page_type: note

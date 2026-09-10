@@ -1,4 +1,3 @@
-
 ---
 domain: health
 page_type: synthesis

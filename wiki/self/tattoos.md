@@ -1,4 +1,3 @@
-
 ---
 domain: self
 page_type: entity

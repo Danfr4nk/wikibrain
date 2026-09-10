@@ -1,4 +1,3 @@
-
 ---
 domain: mind
 page_type: synthesis

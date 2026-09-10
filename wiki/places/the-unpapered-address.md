@@ -1,4 +1,3 @@
-
 ---
 domain: places
 page_type: synthesis

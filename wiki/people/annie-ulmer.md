@@ -1,4 +1,3 @@
-
 ---
 image_caption: Annie (Anne Louise Ulmer)
 image: assets/people/annie-ulmer/people-annie-ulmer-mt40almg.jpg

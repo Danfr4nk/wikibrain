@@ -1,4 +1,3 @@
-
 ---
 domain: people
 page_type: note

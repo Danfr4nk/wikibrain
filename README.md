@@ -27,14 +27,27 @@ The pages in `wiki/` were cut from that export by byte offset, not parsed out of
 it. The source hash was verified before the split and every page was read back
 after writing.
 
+**One byte per page is dropped on purpose.** Each page in `whole.txt` is
+introduced by a `===` / `PAGE:` / `===` banner followed by a blank line, and
+`pages.json` points `byte_offset` at that blank line rather than past it. So
+every raw slice arrives one byte long at the front, and that byte is the
+export's formatting, not the file's.
+
+It is not cosmetic. YAML frontmatter is only frontmatter on line 1: carried
+through verbatim, all 497 pages fail `bin/wiki-lint` as *missing frontmatter*
+and `app.py` builds no infobox for any of them. That the originals were
+well-formed is settled by `pages.json` itself — it records a `title` per page,
+which the exporter could only have read by parsing frontmatter its own parser
+accepted. Stripping that byte is the more faithful reconstruction, not a repair.
+
 | | |
 | :--- | :--- |
 | Source | `raw/old-wiki-export-2026-09-04/whole.txt` in `Danfr4nk/wikitest` |
 | sha256 | `4037dedc019e2595fab9dca558a70ee466a39b5ed2a0d3ed58af3c25fb69d5a6` |
 | Export size | 7,536,214 bytes |
 | Pages recovered | 497 / 497 |
-| Page bytes written | 7,442,352 |
-| Frontmatter intact | 497 / 497 |
+| Page bytes written | 7,441,855 |
+| Frontmatter valid on line 1 | 497 / 497 |
 | Wikilinks | 9,944, unescaped |
 | Google-Docs damage | none — 0 escaped wikilinks, 0 flattened frontmatter blocks |
 

@@ -63,11 +63,29 @@ def main(argv):
 
         blob = raw[p["byte_offset"]:p["byte_offset"] + p["byte_length"]]
 
-        # Every page in this export opens with YAML frontmatter. A page that
-        # does not is a bad offset, and a bad offset writes plausible-looking
-        # garbage rather than failing — so check before writing, not after.
-        if not blob.decode("utf-8").lstrip().startswith("---"):
-            sys.exit(f"FATAL: page does not begin with frontmatter: {path}")
+        # Drop the separator's trailing newline.
+        #
+        # Each page in whole.txt is introduced by a "===/PAGE:/===" banner
+        # followed by a blank line, and pages.json points byte_offset at that
+        # blank line rather than past it. So every slice arrives one byte long
+        # at the front, and that byte is the export's formatting, not the file's.
+        #
+        # It is not cosmetic. YAML frontmatter is only frontmatter on line 1:
+        # with the leading newline all 497 pages fail bin/wiki-lint as "missing
+        # frontmatter", and app.py builds no infobox for any of them.
+        #
+        # That the original files were well-formed is settled by pages.json
+        # itself — it carries a "title" per page, which the exporter could only
+        # have read by parsing frontmatter that its own parser accepted. So
+        # stripping this byte is the more faithful reconstruction, not a repair.
+        if not blob.startswith(b"\n"):
+            sys.exit(f"FATAL: expected a leading separator newline: {path}")
+        blob = blob[1:]
+
+        # A bad offset writes plausible-looking garbage rather than failing,
+        # so check before writing, not after.
+        if not blob.decode("utf-8").startswith("---"):
+            sys.exit(f"FATAL: page does not begin with frontmatter on line 1: {path}")
 
         out = dst / path
         out.parent.mkdir(parents=True, exist_ok=True)

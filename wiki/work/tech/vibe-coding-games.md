@@ -1,4 +1,3 @@
-
 ---
 domain: work
 page_type: entity
