@@ -1,4 +1,3 @@
-
 ---
 domain: legal
 page_type: summary

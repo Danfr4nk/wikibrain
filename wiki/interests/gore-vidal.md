@@ -1,4 +1,3 @@
-
 ---
 domain: interests
 page_type: entity

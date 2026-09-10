@@ -1,4 +1,3 @@
-
 ---
 image_caption: Jason Bermejo
 image: assets/people/jason-bermejo/people-jason-bermejo-msw6nyoh.jpg
