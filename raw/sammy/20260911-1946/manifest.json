@@ -1,0 +1,18 @@
+{
+ "batch": "20260911-1946",
+ "pulled_at_utc": "2026-09-11T19:46:21Z",
+ "origin": "operator-pasted telemetry readout + analysis (wiki-sync chat)",
+ "items": [
+  {
+   "file": "telemetry-IMG_1768_Original.md",
+   "what": "Single-face telemetry readout (frontality 79) + canon-match analysis, subject identity not stated",
+   "author": "telemetry lab instrument + accompanying analysis"
+  }
+ ],
+ "files": {
+  "telemetry-IMG_1768_Original.md": {
+   "sha256": "49e316c82e99bd63ad468a00aa8e44249461b03a1882e181f8f8d585be49b8e0",
+   "bytes": 2687
+  }
+ }
+}
