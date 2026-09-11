@@ -1,0 +1,242 @@
++++
+id          = "ent:annie-ulmer"
+layer       = 2
+type        = "entity"
+entity_kind = "person"
+title       = "Anne Louise Ulmer (Annie)"
+cites       = ["dat:0072-annie-ulmer-email-correspondence-found"]
+confidence  = "high"
+importance  = 5
+created     = "2026-09-11"
+rechecked   = "2026-09-11"
+tags        = ["person", "annie-ulmer", "partner", "attachment"]
++++
+
+> Seeded 2026-09-11 from `wikitest/kb/entities/annie-ulmer.md` (validated
+> expansion content, same schema) per the Annie rule. The inline `dat:`/`src:`
+> references below are the wikitest cite graph — those nodes do not exist in
+> this repo; only `dat:0072` is resident here. Full evidential base remains in
+> `Danfr4nk/wikitest`.
+
+
+## Summary
+
+Anne Louise Ulmer, Uniontown PA — Dan's partner of eleven years, November
+2015 to the terminal rupture of August 2026. The largest single relationship
+record in the corpus: **97,768 unique messages**, 2015-11-28 → 2026-06-05,
+across four handles
+(`dat:0160`,
+`dat:0164`).
+The prior wiki's 126,683 figure is ~29% overstated against the held corpus
+and may not be quoted — the operator's own corrected 97,768 is validated to
+within 0.2%
+(`dat:0113`).
+
+The relationship's arc, in the record's own periodization: the 2015
+bond-switch origin; cohabitation in Uniontown and NYC; the authored
+non-monogamous "arrangement"; the 2019 escort window; the 2020–2024 record
+hole; the terminal-phase collapse of late 2025 into the June 1, 2026 closure;
+the 52-day failure of that closure; the July re-entanglement; and the
+terminal rupture of August 16–19, 2026 around Jerel Wayne Coles — after
+which Dan is keeping her blocked, flagged as the first held boundary in the
+record (`dat:0250`).
+
+## Origin: the bond switch, corrected
+
+The hand-read chronology fixes the relationship's origin more precisely than
+the page's collapse admits. The corpus opens 2015-11-28 already
+mid-relationship — Dan already calling her "the love of my life," Annie
+answering "I've known that since day one" — putting "day one" in the past
+tense on the corpus's first day, consistent with a **~Nov 24, 2015
+introduction** back-dated from Annie's Dec 1 message *"HAPPY ONE WEEK SINCE
+LEX HANDED YOU TO ME"* (2015-12-01 14:37:05)
+(`dat:0165`,
+`dat:0123`).
+The **November 29 golf-course meeting is a first in-person meeting, not a
+first contact**. Annie's birthday is November 28; *"YOU ARE MY EVERYTHING"*
+is timestamped 2015-11-29 08:24:14 UTC (= 03:24 EST), hours after the
+meeting — the held corpus confirms the read-pass dating to the minute
+(`dat:0165`).
+
+The bond-switch header was corrected twice. The 24-hour switch from Alexis
+was **Dan's** move, previously misattributed to Annie, and Ally's 2026-08-02
+correction reversed the subject: Dan left his relationship (Alexis) within
+24 hours, not Annie leaving hers — "the point is mutual"
+(`dat:0123`).
+
+The first held thread rows fall 2015-11-28 23:47:54 UTC — *between* the
+page's introduction and meeting dates: the corpus brackets them, confirms
+neither. What it does independently confirm is the pivot's contemporaneous
+context: Dan's Nov 29 "Things are collapsing with lex. You might be seeing
+a lot more Annie very soon"
+(`dat:0729`).
+
+## The arrangement era and the read's evidence
+
+The relationship ran an authored non-monogamous "arrangement" with paid and
+unpaid third parties; in summer 2019 Annie worked as an escort under the
+alias "Hazel" (old-wiki testimony; no dat node in this KB yet corroborates
+the "Hazel" window from held sources). The prior wiki's reconstruction of
+the 2019-04-14 Shelbie/Annie threesome verifies verbatim against held
+messages, UTC→EDT to the minute
+(`dat:0416`),
+and the November 2018 Alexis arrangement reunion — including *"Initially I
+offered her $3000 to be a plaything for Annie"* — is confirmed verbatim
+(`dat:0124`).
+
+Per-year direction counts: Annie out-messaged Dan in every held year except
+2015 and 2025–26 — but 2016 depends on whether the parallel AOL channel
+(3,513 received messages) counts as the same conversation; merged, the page's
+claim is exactly correct
+(`dat:0115`).
+
+The Annie Record (a hand-read chronology, not an extraction) covers 97,768
+unique messages to 2026-06-05; as of the 2026-08-18 synthesis pass the Read
+had processed 13.9% and the Record 18.9% through 2016-01-24. The record's
+biggest structural warning: **2020-11 → 2024-12 is empty — 5 messages in
+four years — and is a hole in the record, not a quiet period in the
+relationship**
+(`dat:0160`,
+`dat:0164`).
+
+One verified biographical recovery: Annie's 2024 employer "Libby" was
+songwriter **Libby Titus**, married to Donald Fagen — paid personal
+assistant and informal carer, February to early/mid-August 2024, ending
+2024-08-06 after a screaming match; her death 2024-10-13 confirmed three
+ways (`dat:0116`).
+
+## Two claims the record cannot carry
+
+1. **"I'm in love with Annie Ulmer" is Annie's coaching script for Dan, not
+   his declaration** — in the held corpus (2015-12-02 15:42 EST,
+   is_from_me=0) it reads *"Call him and be like. Listen I broke up with
+   lex, I'm in love with Annie Ulmer and he was probz faint"* — Annie
+   rehearsing a line for Dan to deliver to a third party
+   (`dat:0541`).
+   Do not quote it as Dan's.
+2. **Dan's account that Annie is a rape survivor whose assailant got 45
+   years** exists in the held corpus exactly twice (2020-03-29 and
+   2026-07-28), both times as Dan's own words. No Annie-side, legal, or
+   third-party source corroborates the underlying fact. It is evidence
+   about Dan, not about Annie's history
+   (`dat:0158`).
+
+## Terminal phase: 2025 → 2026
+
+- **2025-10-26 ~00:49:** Annie's DUI stop, PSP Troop B, docket
+  MJ-14101-CR-0000631-2025. Detailed account sourced to the page's own
+  unheld megadoc; proceedings ran into January 2026
+  (`dat:0117`).
+- **Dec 2025 spike:** the 4,657-message December peak replicates within 1%
+  in the held thread (4,620), with Jan/Feb 2026 asymmetry ratios (1.30:1,
+  1.94:1) intact — Annie's engagement halving while Dan's holds
+  (`dat:0591`).
+- **2026-06-01:** the "closure." An unbroken Dan outbound sequence ending
+  00:27:49 EDT: *"Goodbye forever. This was not how it should have ended
+  but. sic semper lupanis."* — **Dan's sign-off**, misattributed to Annie
+  on the page until 2026-08-13; her only contribution to the closure is the
+  June 5 apology
+  (`dat:1343`).
+- **June 15:** the Coles defection pivot is corpus-attested ("You can have
+  her back ?" 17:14:58 UTC), though two of the page's four "verbatim" June
+  15 quotes exist nowhere in the held slice
+  (`dat:1344`).
+- **July 2026:** re-entanglement through Milo. The severance is described as
+  failing within 52 days — but the arithmetic is unresolved: June 1 + 52
+  days is July 23, while the fireworks email that ended the severance is
+  dated July 4. One of the two figures is off; see Open questions.
+- **2026-07-26 07:06 EDT:** Dan's disclosure text to Annie's mother Ellen
+  about messages written from Annie's phone — iMessage, not the "email" the
+  reentanglement page recorded, and 44 minutes after his 06:22
+  intent-announcement
+  (`dat:0403`).
+- **Aug 16–19:** terminal rupture. The grievance verdict (2026-08-20)
+  scores 7 of 10 complaints fully supported, 2 partly, 1 false — and the
+  false one is the most useful: Annie's *"I want to be alone. I want to get
+  help"* (Aug 17 20:12 EDT) was a third-option answer a binary demand could
+  not register. Strongest grievance: the asymmetric clearing — Annie's
+  *"He didn't rape me"* (Aug 19 06:33 EDT) in the group chat
+  (`dat:0975`).
+- **Aug 26:** the operator-observed addendum — Dan continues to keep Annie
+  blocked, "the block is still being honored," refused against the
+  historical pattern
+  (`dat:0250`). But the
+  page's own falsifier fired within 48 hours: Aug 27–31 resumption at
+  16/39/108/84/65 messages/day, two-sided, in the crisis register
+  (`dat:0112`).
+  As of the 2026-09-09 record the block is again being kept — the first
+  held boundary of his life.
+- **2026-09-09:** Dan surfaced a 15:27 Voice Memos recording of the Aug 16
+  Morgantown St call between Annie and Jerel Coles; analysis worked from
+  the filed 204-turn transcript, she repeatedly asks for her phone and says
+  she wants to leave; the attempted independent transcription did not
+  complete. The raw transcript is preserved as
+  [`src:morgantown-call-independent-stt-transcript-2026-09-09`](../sources/morgantown-call-independent-stt-transcript-2026-09-09.md).
+
+## The severance statistics — quote both or neither
+
+The exit-episode count resolved 2026-08-23 at **129 episodes, 128 resumed
+(100%), median 36 seconds, all-time maximum 46 hours** — withdrawing the
+dossiers' 127/110 pair
+(`dat:0622`).
+But the synthesis page still carries the stale 127/110 figures
+unreconciled, so **neither may be quoted without the other**
+(`dat:1292`).
+
+## Contradictions and open questions
+
+- The severance arithmetic (52-day failure vs the July 4 fireworks email,
+  33 days after June 1) is unreconciled.
+- "First held boundary" (dat:0250) vs its own 48-hour failure (dat:0112):
+  the record distinguishes the held block from the violated one — the
+  sequence is boundary honored Aug 26, violated Aug 27–31, re-held after.
+  The current held state is per the 2026-09-09 record.
+- Four of the personality assessment's seven evidence quotes were confirmed
+  verbatim; two were displaced by one day (the corpus's known good-faith
+  misremembering pattern, not fabrication); one dated 2024-10-19 is
+  unreplicated — Annie's 2024 thread is not in the held corpus
+  (`dat:0114`).
+- The 2020–2024 record hole constrains every claim about those years to
+  non-message evidence.
+- Dan is measuring the severance against a 120-day horizon: December 19,
+  2026.
+
+## Cross-links
+
+- ent:dan — the subject; the relationship is the record's
+  load-bearing tie.
+- ent:ally-lubin — the channel that ran concurrently the
+  whole time, and the control condition for the block.
+- ent:suzanne-frank, ent:rick-frank,
+  ent:frances-coldren — family nodes intersecting the
+  timeline (2015-11-30 supply, the 2018 vigil caregiving alongside Dan).
+- Ellen, Bill, and Claire Ulmer — the de facto in-laws; ties that outlasted
+  the relationship itself.
+- The severance pair 258→129 and the June 1 authorship corrections are the
+  corrections this node must carry forward.
+
+## 2026-09-11: email correspondence surfaces (metadata only)
+
+All-time Gmail sweep at Dan's direction ("find all the emails from people I
+actually know"). Five real emails from Annie found
+(`dat:0072-annie-ulmer-email-correspondence-found`):
+
+- 2026-06-10 — "Re: closure i guess" (alulmer28@gmail.com) — dated **9 days
+  after the 2026-06-01 closure**. The "Re:" prefix implies an ongoing thread,
+  not a cold open. Body not read.
+- 2026-07-04 — "Mimi" (alulmer28@gmail.com)
+- 2026-07-22 — "Mimi" (alulmer28@gmail.com) — same one-word subject twice,
+  18 days apart. "Mimi" is not otherwise in the record as a name either of
+  them used; candidate pet name or subject-line shorthand. Body not read.
+- 2021-05-01 — "Anne Ulmer Resume .pages"
+- 2017-06-30 — "Fwd: New Patient Paperwork" (annieulmr@aol.com)
+
+Also: empty-subject 2017-09-20; automated Maps location share 2018-02-03
+and an Apple "Subscribe to Anne Ulmer's 'Dan'?" prompt 2019-04-23 (both
+machine-generated, not correspondence).
+
+Significance: the sweep found only five real emails across the entire
+mailbox history — email was never her channel. The June 10 "closure"
+thread lands inside the 52-day failure window of the June 1 closure,
+not after the August rupture: the "closure" was being negotiated in the
+medium the relationship otherwise never used.

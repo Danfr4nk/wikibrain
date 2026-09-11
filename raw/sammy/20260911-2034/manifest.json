@@ -1,0 +1,18 @@
+{
+ "batch": "20260911-2034",
+ "pulled_at_utc": "2026-09-11T20:34:31Z",
+ "origin": "operator-directed all-time Gmail sweep for personal correspondence (wiki-sync chat); Dan: archive to wiki, drop gmail from 4h pulls",
+ "items": [
+  {
+   "file": "email-personal-inventory.md",
+   "what": "Inventory of every personal email from people Dan knows (Annie x5, Suz x3, Vanessa 2011-12 burst, unknown Sharon, 2 self-notes); bodies unread except Sharon + self-notes",
+   "author": "Gmail API triage by Sammy"
+  }
+ ],
+ "files": {
+  "email-personal-inventory.md": {
+   "sha256": "099d8617cf23dfd253c40c950a9b5183ef24c58804e41419bb555eb14ae2322d",
+   "bytes": 3194
+  }
+ }
+}

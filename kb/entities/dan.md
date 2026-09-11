@@ -48,3 +48,20 @@ fantasy space, so the information is in the moderators and the floor.
 Stated preference on imagined scenarios, n=1, one sitting — predicts what he
 rates, not what he would do. Companion report:
 `src:scenario-ratings-v1-2026-09-11`.
+
+## Late-night self-notes, September 2026
+
+Two fragments Dan emailed himself, captured in the 2026-09-11 all-time
+Gmail sweep (`dat:0075-sharon-unknown-and-dan-self-notes`):
+
+- 2026-09-09 23:33 EDT — subject "Unconditional": "I will make this
+  short…. And I will try somehow; someway to kake thi" (ends mid-word,
+  as sent)
+- 2026-09-10 02:03 EDT — subject "UNCONDITION-LOL": "You won’t read this
+  and that’s okay."
+
+Both unsent drafts by structure — email-to-self as a thinking surface,
+not a channel. The "unconditional" motif, twice in three hours, a month
+after the terminal Annie rupture: the word is doing load-bearing work
+somewhere in his private vocabulary. Recorded as fragments, not
+interpreted.
