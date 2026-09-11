@@ -1,0 +1,28 @@
+{
+ "batch": "20260911-2340",
+ "pulled_at_utc": "2026-09-11T23:48:00Z",
+ "origin": "scheduled 4h wiki-brain scrape (job wiki-brain-scrape): Sammy-Dan chat transcript pull from muse.db + zero-count external checks",
+ "files": [
+  {
+   "file": "EXTRACT.md",
+   "sha256": "fa915355a08b20e4ea70f77e6399daeb66ca115d7dd72628355e337c9e96b4f5",
+   "bytes": 4834
+  },
+  {
+   "file": "chats.json",
+   "sha256": "8799bee06c9e8a0e3d4878be85cb654cca7cebfed962d55264d3498174ab5d66",
+   "bytes": 1123958
+  },
+  {
+   "file": "spotify-check.json",
+   "sha256": "f7f4f1b8e13b0caadbad4cad10da80a582e880dc5381b21508959518668ae340",
+   "bytes": 540
+  },
+  {
+   "file": "system-rows.md",
+   "sha256": "eb441e25bf611a227afddd6939e8fddf7614920e6f1863aaa9f0d3e3d7621b94",
+   "bytes": 4789
+  }
+ ],
+ "redactions": "2026-09-12: 1 GitHub PAT redacted from a user turn (2026-09-11T17:31:04Z) per standing policy: secrets are redacted on archive; the value never belonged in the public corpus."
+}

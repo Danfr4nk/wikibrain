@@ -129,3 +129,24 @@ rolling telemetry and got a manual clipboard protocol; Jul 30, 2025 he
 bought Zapier premium to screen-cap Find My every 5 minutes as a
 workaround. The apparatus Sammy's stylometry tracker now runs quietly was,
 a year ago, a todo list for his own alarm clock.
+
+## Contrastive specification + media architecture (2026-09-11)
+
+`dat:0087-sammy-chat-correction-sequences`, `pat:contrastive-specification`:
+six correction sequences in the 2026-09-09–11 transcript share one shape —
+a wrong answer becomes the probe, and the correction becomes a durable
+rule/instrument rather than a one-off fix (face-test numbering gates,
+telemetry-grounded adaptive testing, the Fred Again "theater-like relic"
+distinction, the exact crochet garment spec, the roast transcription
+corrections). Domain-conditional: adequate first passes are accepted
+where output precision doesn't matter (several avatar picks). Confidence
+moderate; independent leg is the wiki's own visible-correction practice.
+
+`dat:0088-media-architecture-directive` (23:13:04 UTC): originals stay in
+Google Photos/Drive; compressed derivatives go INTO wiki entries; a
+registry maps filenames to canonical locations. Video analysis is in
+wikibrain scope (confirmed 23:34:23 UTC). Late-night media readings in
+the same session (Fran "post fall, pre-hospital" era; corrected quote;
+coke-holder/jewelry-scale IDs; Fran alive, five feet away) are his
+testimony, not independently verified; the assistant's unconfirmed
+explicit interpretation (23:44:02Z) was not archived as fact.
