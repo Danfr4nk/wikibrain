@@ -23,3 +23,9 @@ what he rates, not what he would do. Superseded instrument-wise by v2's causal
 single-knob design (168 modifiers, each changing exactly one metric), which
 fixes v1's correlational attribution flaw; v1's numbers stand as the
 correlational baseline.
+
+Item-level primary record archived 2026-09-11:
+`raw/sammy/20260911-1944/scenario-ratings-v1.json` — 122 items with full
+24-metric vectors, 1-10 ratings and veto flags, export ts
+2026-09-11T07:31:42Z. Independently recomputed from this file:
+`dat:0065-scenario-ratings-v1-export-verifies-profile`.

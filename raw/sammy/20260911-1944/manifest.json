@@ -1,0 +1,18 @@
+{
+ "batch": "20260911-1944",
+ "pulled_at_utc": "2026-09-11T19:44:46Z",
+ "origin": "operator-uploaded instrument export (iOS), archived by Sammy",
+ "items": [
+  {
+   "file": "scenario-ratings-v1.json",
+   "what": "Scenario-ratings v1 item-level export: 122 items, 24-metric vectors, 1-10 ratings + veto; ts 2026-09-11T07:31:42Z",
+   "author": "scenario-ratings v1 instrument (Dan's ratings)"
+  }
+ ],
+ "files": {
+  "scenario-ratings-v1.json": {
+   "sha256": "9fc46cfdd7d54a98535df89d966a6efb6270469ed73658fb11b8cb769c49d821",
+   "bytes": 71845
+  }
+ }
+}
