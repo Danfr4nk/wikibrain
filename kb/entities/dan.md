@@ -22,3 +22,29 @@ the more valuable things this system can express.
 Biographical detail is deliberately not seeded here. This repository is public,
 and what goes on this page is Dan's call to make rather than a default for
 tooling to set.
+
+## Stated sexual-preference profile (2026-09-11)
+
+Added at Dan's explicit direction ("those both go in," 2026-09-11 wiki-sync).
+First full run of the scenario-ratings diagnostic (v1): 122 imagined-scenario
+items, 121 rated, 0 vetoes, mean 8.36 — the instrument maps his existing
+fantasy space, so the information is in the moderators and the floor.
+
+- `dat:0059-scenario-ratings-v1-scale-behavior` — scale behavior and ceiling.
+- `dat:0060-scenario-ratings-v1-pegging-floor` — pegging is the sole hard
+  boundary (all variants 3-4); the only lever that moves it is male attention
+  redirected onto him (+4, the largest delta in the dataset).
+- `dat:0061-scenario-ratings-v1-amplifier-moderator-deltas` — ranked deltas:
+  older experienced male partner -6, friend-as-third -5, neutral turf over
+  home turf, filming as multiplier not rescue.
+- `dat:0062-scenario-ratings-v1-cross-cutting-rules` — six regularities:
+  target-clarity beats ambiguity; proximity is load-bearing; filming
+  multiplies heat without creating it; she orchestrates, he is pursued, he
+  is not the center; neutral turf, known-quantity men, no friends;
+  talked-about beats silent, intense beats slow, ongoing beats one-off.
+- `int:scenario-ratings-v1-profile` — self-perspective reading with falsifiers
+  (v2's causal single-knob design supersedes v1's correlational attribution).
+
+Stated preference on imagined scenarios, n=1, one sitting — predicts what he
+rates, not what he would do. Companion report:
+`src:scenario-ratings-v1-2026-09-11`.

@@ -1,0 +1,50 @@
+{
+ "batch": "20260911-1941",
+ "pulled_at_utc": "2026-09-11T19:41:21Z",
+ "origin": "operator-supplied reports archived by Sammy per 2026-09-11 wiki-sync directive",
+ "items": [
+  {
+   "file": "scenario-profile-2026-09-11.md",
+   "what": "Scenario-ratings v1 full readout (dense profile), 121/122 items rated 2026-09-11",
+   "author": "Sammy (analysis of Dan's ratings)"
+  },
+  {
+   "file": "scenario-report-2026-09-11.md",
+   "what": "Scenario-ratings v1 readable report (Dan's requested format)"
+  },
+  {
+   "file": "facial-telemetry-bank-v2-2026-09-10.md",
+   "what": "Facial telemetry lab v2 bank reference report (18 faces, quality vector, iris-anchored mm metrics)"
+  },
+  {
+   "file": "facial-telemetry-bank-v2-2026-09-10.json",
+   "what": "Full v2 telemetry bank metrics JSON"
+  },
+  {
+   "file": "pair-audit-2026-09-11.json",
+   "what": "Full-bank v2 pair-validity audit (17/50 pairs admitted)"
+  }
+ ],
+ "files": {
+  "facial-telemetry-bank-v2-2026-09-10.json": {
+   "sha256": "f5bf4a15a56838d87d87d5f1b54e7a11a6841f5d78de9cf904111740570ec874",
+   "bytes": 43878
+  },
+  "facial-telemetry-bank-v2-2026-09-10.md": {
+   "sha256": "cde453f913d18d57c6f9872586341f8c7e296b9b290e3531879e5ebf34e3579b",
+   "bytes": 3822
+  },
+  "pair-audit-2026-09-11.json": {
+   "sha256": "7d41bf17d2f434dff26b0b36793fa117ebeda2d3c50d35fd8fb3f71283a1dd4b",
+   "bytes": 14422
+  },
+  "scenario-profile-2026-09-11.md": {
+   "sha256": "69bfac63155f3acaf2503e469c5a8a9fb9500af5523f0c87b7a29b4dabe63c50",
+   "bytes": 13808
+  },
+  "scenario-report-2026-09-11.md": {
+   "sha256": "f596b0e9d6372f6d4dae883884a60608047c32578615ce606cf77f6b9a0b74a9",
+   "bytes": 8785
+  }
+ }
+}

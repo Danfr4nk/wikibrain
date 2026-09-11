@@ -1,0 +1,902 @@
+[
+ {
+  "axis": "brow",
+  "anchor": "legacy",
+  "target": "brow_arch_mean",
+  "target_z": 0.65,
+  "validity": -1.68,
+  "dir_v0_minus_v1_z": 0.65,
+  "top_confound": [
+   "width_height_ratio",
+   "fwhr_proxy",
+   "mouth_to_nose"
+  ],
+  "top_confound_z": [
+   2.33,
+   2.13,
+   1.75
+  ]
+ },
+ {
+  "axis": "brow",
+  "anchor": "p2a01",
+  "target": "brow_arch_mean",
+  "target_z": 0.74,
+  "validity": -0.7,
+  "dir_v0_minus_v1_z": 0.33,
+  "top_confound": [
+   "upper_lower_lip",
+   "nose_w_to_intercanthal",
+   "canthal_tilt_mean"
+  ],
+  "top_confound_z": [
+   1.45,
+   0.99,
+   0.84
+  ]
+ },
+ {
+  "axis": "brow",
+  "anchor": "p2a02",
+  "target": "brow_arch_mean",
+  "target_z": 0.26,
+  "validity": -0.68,
+  "dir_v0_minus_v1_z": 0.26,
+  "top_confound": [
+   "upper_lower_lip",
+   "asymmetry_9",
+   "eye_w_to_h"
+  ],
+  "top_confound_z": [
+   0.94,
+   0.68,
+   0.65
+  ]
+ },
+ {
+  "axis": "brow",
+  "anchor": "p2a03",
+  "target": "brow_arch_mean",
+  "target_z": 1.18,
+  "validity": -0.41,
+  "dir_v0_minus_v1_z": 1.18,
+  "top_confound": [
+   "canthal_tilt_mean",
+   "third_upper_pct",
+   "mean_asymmetry"
+  ],
+  "top_confound_z": [
+   1.59,
+   0.87,
+   0.81
+  ]
+ },
+ {
+  "axis": "brow",
+  "anchor": "p2a04",
+  "target": "brow_arch_mean",
+  "target_z": 1.18,
+  "validity": -0.38,
+  "dir_v0_minus_v1_z": 1.18,
+  "top_confound": [
+   "upper_lower_lip",
+   "canthal_tilt_mean",
+   "mean_asymmetry"
+  ],
+  "top_confound_z": [
+   1.56,
+   0.98,
+   0.81
+  ]
+ },
+ {
+  "axis": "brow",
+  "anchor": "p2a05",
+  "target": "brow_arch_mean",
+  "target_z": 0.11,
+  "validity": -1.28,
+  "dir_v0_minus_v1_z": 0.0,
+  "top_confound": [
+   "eye_w_to_h",
+   "upper_lower_lip",
+   "asymmetry_9"
+  ],
+  "top_confound_z": [
+   1.39,
+   1.12,
+   0.9
+  ]
+ },
+ {
+  "axis": "brow",
+  "anchor": "p2a06",
+  "target": "brow_arch_mean",
+  "target_z": 0.72,
+  "validity": -0.57,
+  "dir_v0_minus_v1_z": 0.72,
+  "top_confound": [
+   "upper_lower_lip",
+   "eye_w_to_h",
+   "ipd_to_cheek"
+  ],
+  "top_confound_z": [
+   1.28,
+   0.69,
+   0.59
+  ]
+ },
+ {
+  "axis": "brow",
+  "anchor": "p2a07",
+  "target": "brow_arch_mean",
+  "target_z": 0.83,
+  "validity": -0.02,
+  "dir_v0_minus_v1_z": 0.72,
+  "top_confound": [
+   "fifths",
+   "mouth_to_nose",
+   "eye_spacing_widths"
+  ],
+  "top_confound_z": [
+   0.85,
+   0.63,
+   0.61
+  ]
+ },
+ {
+  "axis": "brow",
+  "anchor": "p2a08",
+  "target": "brow_arch_mean",
+  "target_z": 1.18,
+  "validity": 0.17,
+  "dir_v0_minus_v1_z": 1.18,
+  "top_confound": [
+   "eye_w_to_h",
+   "philtrum_to_nose",
+   "canthal_tilt_mean"
+  ],
+  "top_confound_z": [
+   1.01,
+   0.64,
+   0.6
+  ]
+ },
+ {
+  "axis": "brow",
+  "anchor": "p2a09",
+  "target": "brow_arch_mean",
+  "target_z": 0.92,
+  "validity": -0.49,
+  "dir_v0_minus_v1_z": 0.92,
+  "top_confound": [
+   "asymmetry_9",
+   "mean_asymmetry",
+   "canthal_tilt_mean"
+  ],
+  "top_confound_z": [
+   1.41,
+   1.36,
+   0.88
+  ]
+ },
+ {
+  "axis": "brow",
+  "anchor": "p2a10",
+  "target": "brow_arch_mean",
+  "target_z": 0.47,
+  "validity": -0.36,
+  "dir_v0_minus_v1_z": -0.07,
+  "top_confound": [
+   "third_mid_pct",
+   "mouth_to_nose",
+   "mouth_to_cheek"
+  ],
+  "top_confound_z": [
+   0.83,
+   0.67,
+   0.54
+  ]
+ },
+ {
+  "axis": "brow",
+  "anchor": "p2a11",
+  "target": "brow_arch_mean",
+  "target_z": 0.85,
+  "validity": 0.14,
+  "dir_v0_minus_v1_z": 0.85,
+  "top_confound": [
+   "nose_w_to_intercanthal",
+   "eye_spacing_widths",
+   "mouth_to_cheek"
+  ],
+  "top_confound_z": [
+   0.71,
+   0.57,
+   0.48
+  ]
+ },
+ {
+  "axis": "brow",
+  "anchor": "p2a12",
+  "target": "brow_arch_mean",
+  "target_z": 1.37,
+  "validity": 0.01,
+  "dir_v0_minus_v1_z": 1.37,
+  "top_confound": [
+   "eye_w_to_h",
+   "ipd_to_cheek",
+   "upper_lower_lip"
+  ],
+  "top_confound_z": [
+   1.37,
+   0.95,
+   0.85
+  ]
+ },
+ {
+  "axis": "eyes",
+  "anchor": "legacy",
+  "target": "eye_spacing_widths",
+  "target_z": 0.59,
+  "validity": -0.81,
+  "dir_v0_minus_v1_z": 0.08,
+  "top_confound": [
+   "eye_w_to_h",
+   "upper_lower_lip",
+   "nose_w_to_intercanthal"
+  ],
+  "top_confound_z": [
+   1.4,
+   0.94,
+   0.85
+  ]
+ },
+ {
+  "axis": "eyes",
+  "anchor": "p2a05",
+  "target": "eye_spacing_widths",
+  "target_z": 0.12,
+  "validity": -1.14,
+  "dir_v0_minus_v1_z": 0.11,
+  "top_confound": [
+   "canthal_tilt_mean",
+   "upper_lower_lip",
+   "mouth_to_nose"
+  ],
+  "top_confound_z": [
+   1.26,
+   0.83,
+   0.69
+  ]
+ },
+ {
+  "axis": "eyes",
+  "anchor": "p2a08",
+  "target": "eye_spacing_widths",
+  "target_z": 1.01,
+  "validity": -1.8,
+  "dir_v0_minus_v1_z": 1.01,
+  "top_confound": [
+   "eye_w_to_h",
+   "mouth_to_nose",
+   "fifths"
+  ],
+  "top_confound_z": [
+   2.8,
+   1.21,
+   1.15
+  ]
+ },
+ {
+  "axis": "eyes",
+  "anchor": "p2a09",
+  "target": "eye_spacing_widths",
+  "target_z": 0.59,
+  "validity": -1.5,
+  "dir_v0_minus_v1_z": 0.59,
+  "top_confound": [
+   "eye_w_to_h",
+   "canthal_tilt_mean",
+   "upper_lower_lip"
+  ],
+  "top_confound_z": [
+   2.08,
+   1.33,
+   0.96
+  ]
+ },
+ {
+  "axis": "eyes",
+  "anchor": "p2a10",
+  "target": "eye_spacing_widths",
+  "target_z": 0.47,
+  "validity": -0.6,
+  "dir_v0_minus_v1_z": 0.15,
+  "top_confound": [
+   "canthal_tilt_mean",
+   "eye_w_to_h",
+   "asymmetry_9"
+  ],
+  "top_confound_z": [
+   1.08,
+   0.87,
+   0.73
+  ]
+ },
+ {
+  "axis": "eyes",
+  "anchor": "p2a11",
+  "target": "eye_spacing_widths",
+  "target_z": 0.72,
+  "validity": -0.36,
+  "dir_v0_minus_v1_z": 0.72,
+  "top_confound": [
+   "canthal_tilt_mean",
+   "mean_asymmetry",
+   "asymmetry_9"
+  ],
+  "top_confound_z": [
+   1.07,
+   1.05,
+   0.96
+  ]
+ },
+ {
+  "axis": "eyes",
+  "anchor": "p2a12",
+  "target": "eye_spacing_widths",
+  "target_z": 0.71,
+  "validity": -1.33,
+  "dir_v0_minus_v1_z": 0.13,
+  "top_confound": [
+   "canthal_tilt_mean",
+   "upper_lower_lip",
+   "mean_asymmetry"
+  ],
+  "top_confound_z": [
+   2.04,
+   1.58,
+   0.56
+  ]
+ },
+ {
+  "axis": "jaw",
+  "anchor": "legacy",
+  "target": "gonial_angle_mean",
+  "target_z": 1.59,
+  "validity": -0.74,
+  "dir_v0_minus_v1_z": 1.51,
+  "top_confound": [
+   "mouth_to_cheek",
+   "mean_asymmetry",
+   "mouth_to_nose"
+  ],
+  "top_confound_z": [
+   2.33,
+   2.29,
+   2.14
+  ]
+ },
+ {
+  "axis": "jaw",
+  "anchor": "p2a04",
+  "target": "gonial_angle_mean",
+  "target_z": 0.33,
+  "validity": -0.96,
+  "dir_v0_minus_v1_z": -0.11,
+  "top_confound": [
+   "eye_w_to_h",
+   "lip_fullness",
+   "philtrum_to_nose"
+  ],
+  "top_confound_z": [
+   1.29,
+   0.72,
+   0.67
+  ]
+ },
+ {
+  "axis": "jaw",
+  "anchor": "p2a05",
+  "target": "gonial_angle_mean",
+  "target_z": 0.25,
+  "validity": -0.51,
+  "dir_v0_minus_v1_z": -0.06,
+  "top_confound": [
+   "upper_lower_lip",
+   "eye_spacing_widths",
+   "nose_to_cheek"
+  ],
+  "top_confound_z": [
+   0.76,
+   0.69,
+   0.58
+  ]
+ },
+ {
+  "axis": "jaw",
+  "anchor": "p2a07",
+  "target": "gonial_angle_mean",
+  "target_z": 1.95,
+  "validity": -3.95,
+  "dir_v0_minus_v1_z": -1.95,
+  "top_confound": [
+   "mean_asymmetry",
+   "asymmetry_9",
+   "upper_lower_lip"
+  ],
+  "top_confound_z": [
+   5.89,
+   4.62,
+   3.51
+  ]
+ },
+ {
+  "axis": "jaw",
+  "anchor": "p2a09",
+  "target": "gonial_angle_mean",
+  "target_z": 0.5,
+  "validity": -0.53,
+  "dir_v0_minus_v1_z": -0.5,
+  "top_confound": [
+   "upper_lower_lip",
+   "ipd_to_cheek",
+   "nose_w_to_intercanthal"
+  ],
+  "top_confound_z": [
+   1.03,
+   0.71,
+   0.48
+  ]
+ },
+ {
+  "axis": "lips",
+  "anchor": "legacy",
+  "target": "lip_fullness",
+  "target_z": 3.24,
+  "validity": -0.07,
+  "dir_v0_minus_v1_z": 3.24,
+  "top_confound": [
+   "mouth_to_nose",
+   "philtrum_to_nose",
+   "mouth_to_cheek"
+  ],
+  "top_confound_z": [
+   3.31,
+   2.81,
+   2.51
+  ]
+ },
+ {
+  "axis": "lips",
+  "anchor": "p2a01",
+  "target": "lip_fullness",
+  "target_z": 3.8,
+  "validity": 0.8,
+  "dir_v0_minus_v1_z": 3.8,
+  "top_confound": [
+   "philtrum_to_nose",
+   "chin_to_lower_third",
+   "nose_w_to_intercanthal"
+  ],
+  "top_confound_z": [
+   3.0,
+   2.51,
+   1.16
+  ]
+ },
+ {
+  "axis": "lips",
+  "anchor": "p2a02",
+  "target": "lip_fullness",
+  "target_z": 2.45,
+  "validity": 0.68,
+  "dir_v0_minus_v1_z": 2.45,
+  "top_confound": [
+   "chin_to_lower_third",
+   "mean_asymmetry",
+   "nose_w_to_intercanthal"
+  ],
+  "top_confound_z": [
+   1.77,
+   1.24,
+   1.22
+  ]
+ },
+ {
+  "axis": "lips",
+  "anchor": "p2a03",
+  "target": "lip_fullness",
+  "target_z": 3.37,
+  "validity": 1.05,
+  "dir_v0_minus_v1_z": 3.37,
+  "top_confound": [
+   "chin_to_lower_third",
+   "mouth_to_nose",
+   "philtrum_to_nose"
+  ],
+  "top_confound_z": [
+   2.32,
+   2.12,
+   1.6
+  ]
+ },
+ {
+  "axis": "lips",
+  "anchor": "p2a04",
+  "target": "lip_fullness",
+  "target_z": 4.09,
+  "validity": 0.64,
+  "dir_v0_minus_v1_z": 4.09,
+  "top_confound": [
+   "philtrum_to_nose",
+   "chin_to_lower_third",
+   "third_lower_pct"
+  ],
+  "top_confound_z": [
+   3.45,
+   2.14,
+   0.96
+  ]
+ },
+ {
+  "axis": "lips",
+  "anchor": "p2a05",
+  "target": "lip_fullness",
+  "target_z": 3.06,
+  "validity": 0.38,
+  "dir_v0_minus_v1_z": 3.06,
+  "top_confound": [
+   "philtrum_to_nose",
+   "chin_to_lower_third",
+   "mouth_to_nose"
+  ],
+  "top_confound_z": [
+   2.68,
+   1.8,
+   1.71
+  ]
+ },
+ {
+  "axis": "lips",
+  "anchor": "p2a06",
+  "target": "lip_fullness",
+  "target_z": 3.04,
+  "validity": 0.59,
+  "dir_v0_minus_v1_z": 3.04,
+  "top_confound": [
+   "chin_to_lower_third",
+   "mouth_to_nose",
+   "third_lower_pct"
+  ],
+  "top_confound_z": [
+   2.44,
+   1.23,
+   1.12
+  ]
+ },
+ {
+  "axis": "lips",
+  "anchor": "p2a07",
+  "target": "lip_fullness",
+  "target_z": 3.56,
+  "validity": -0.34,
+  "dir_v0_minus_v1_z": 3.49,
+  "top_confound": [
+   "philtrum_to_nose",
+   "chin_to_lower_third",
+   "eye_w_to_h"
+  ],
+  "top_confound_z": [
+   3.9,
+   1.65,
+   1.42
+  ]
+ },
+ {
+  "axis": "lips",
+  "anchor": "p2a08",
+  "target": "lip_fullness",
+  "target_z": 3.69,
+  "validity": 1.04,
+  "dir_v0_minus_v1_z": 2.95,
+  "top_confound": [
+   "philtrum_to_nose",
+   "chin_to_lower_third",
+   "eye_spacing_widths"
+  ],
+  "top_confound_z": [
+   2.65,
+   1.44,
+   0.93
+  ]
+ },
+ {
+  "axis": "lips",
+  "anchor": "p2a09",
+  "target": "lip_fullness",
+  "target_z": 2.61,
+  "validity": 0.25,
+  "dir_v0_minus_v1_z": 2.61,
+  "top_confound": [
+   "mouth_to_nose",
+   "philtrum_to_nose",
+   "chin_to_lower_third"
+  ],
+  "top_confound_z": [
+   2.36,
+   1.95,
+   1.77
+  ]
+ },
+ {
+  "axis": "lips",
+  "anchor": "p2a10",
+  "target": "lip_fullness",
+  "target_z": 3.49,
+  "validity": 0.74,
+  "dir_v0_minus_v1_z": 3.49,
+  "top_confound": [
+   "philtrum_to_nose",
+   "chin_to_lower_third",
+   "mouth_to_cheek"
+  ],
+  "top_confound_z": [
+   2.75,
+   2.02,
+   1.19
+  ]
+ },
+ {
+  "axis": "lips",
+  "anchor": "p2a11",
+  "target": "lip_fullness",
+  "target_z": 2.59,
+  "validity": 0.39,
+  "dir_v0_minus_v1_z": 2.59,
+  "top_confound": [
+   "chin_to_lower_third",
+   "mean_asymmetry",
+   "philtrum_to_nose"
+  ],
+  "top_confound_z": [
+   2.2,
+   1.24,
+   0.96
+  ]
+ },
+ {
+  "axis": "lips",
+  "anchor": "p2a12",
+  "target": "lip_fullness",
+  "target_z": 3.26,
+  "validity": 0.91,
+  "dir_v0_minus_v1_z": 3.26,
+  "top_confound": [
+   "chin_to_lower_third",
+   "philtrum_to_nose",
+   "mouth_to_cheek"
+  ],
+  "top_confound_z": [
+   2.35,
+   2.2,
+   1.61
+  ]
+ },
+ {
+  "axis": "nose",
+  "anchor": "legacy",
+  "target": "nose_w_to_intercanthal",
+  "target_z": 1.93,
+  "validity": -0.55,
+  "dir_v0_minus_v1_z": -1.93,
+  "top_confound": [
+   "mouth_to_nose",
+   "brow_arch_mean",
+   "upper_lower_lip"
+  ],
+  "top_confound_z": [
+   2.49,
+   2.22,
+   1.77
+  ]
+ },
+ {
+  "axis": "nose",
+  "anchor": "p2a01",
+  "target": "nose_w_to_intercanthal",
+  "target_z": 0.87,
+  "validity": -0.51,
+  "dir_v0_minus_v1_z": -0.62,
+  "top_confound": [
+   "upper_lower_lip",
+   "canthal_tilt_mean",
+   "fifths"
+  ],
+  "top_confound_z": [
+   1.38,
+   1.16,
+   1.01
+  ]
+ },
+ {
+  "axis": "nose",
+  "anchor": "p2a02",
+  "target": "nose_w_to_intercanthal",
+  "target_z": 2.47,
+  "validity": -0.1,
+  "dir_v0_minus_v1_z": -2.47,
+  "top_confound": [
+   "upper_lower_lip",
+   "philtrum_to_nose",
+   "mouth_to_nose"
+  ],
+  "top_confound_z": [
+   2.57,
+   1.53,
+   1.51
+  ]
+ },
+ {
+  "axis": "nose",
+  "anchor": "p2a03",
+  "target": "nose_w_to_intercanthal",
+  "target_z": 1.93,
+  "validity": 0.46,
+  "dir_v0_minus_v1_z": -1.42,
+  "top_confound": [
+   "canthal_tilt_mean",
+   "mouth_to_cheek",
+   "ipd_to_cheek"
+  ],
+  "top_confound_z": [
+   1.47,
+   1.37,
+   0.95
+  ]
+ },
+ {
+  "axis": "nose",
+  "anchor": "p2a04",
+  "target": "nose_w_to_intercanthal",
+  "target_z": 1.06,
+  "validity": -0.81,
+  "dir_v0_minus_v1_z": -0.97,
+  "top_confound": [
+   "canthal_tilt_mean",
+   "philtrum_to_nose",
+   "mean_asymmetry"
+  ],
+  "top_confound_z": [
+   1.87,
+   0.96,
+   0.93
+  ]
+ },
+ {
+  "axis": "nose",
+  "anchor": "p2a05",
+  "target": "nose_w_to_intercanthal",
+  "target_z": 0.14,
+  "validity": -1.16,
+  "dir_v0_minus_v1_z": -0.14,
+  "top_confound": [
+   "mean_asymmetry",
+   "eye_w_to_h",
+   "canthal_tilt_mean"
+  ],
+  "top_confound_z": [
+   1.3,
+   1.22,
+   0.6
+  ]
+ },
+ {
+  "axis": "nose",
+  "anchor": "p2a06",
+  "target": "nose_w_to_intercanthal",
+  "target_z": 2.02,
+  "validity": -0.1,
+  "dir_v0_minus_v1_z": -0.34,
+  "top_confound": [
+   "eye_spacing_widths",
+   "third_mid_pct",
+   "ipd_to_cheek"
+  ],
+  "top_confound_z": [
+   2.12,
+   1.87,
+   1.78
+  ]
+ },
+ {
+  "axis": "nose",
+  "anchor": "p2a07",
+  "target": "nose_w_to_intercanthal",
+  "target_z": 2.6,
+  "validity": -0.03,
+  "dir_v0_minus_v1_z": -0.97,
+  "top_confound": [
+   "mouth_to_nose",
+   "eye_spacing_widths",
+   "ipd_to_cheek"
+  ],
+  "top_confound_z": [
+   2.64,
+   2.02,
+   2.02
+  ]
+ },
+ {
+  "axis": "nose",
+  "anchor": "p2a08",
+  "target": "nose_w_to_intercanthal",
+  "target_z": 1.25,
+  "validity": 0.14,
+  "dir_v0_minus_v1_z": -1.14,
+  "top_confound": [
+   "mean_asymmetry",
+   "mouth_to_nose",
+   "fifths"
+  ],
+  "top_confound_z": [
+   1.12,
+   1.06,
+   0.85
+  ]
+ },
+ {
+  "axis": "nose",
+  "anchor": "p2a10",
+  "target": "nose_w_to_intercanthal",
+  "target_z": 1.06,
+  "validity": -0.06,
+  "dir_v0_minus_v1_z": -1.02,
+  "top_confound": [
+   "mouth_to_nose",
+   "brow_arch_mean",
+   "canthal_tilt_mean"
+  ],
+  "top_confound_z": [
+   1.12,
+   0.65,
+   0.57
+  ]
+ },
+ {
+  "axis": "nose",
+  "anchor": "p2a11",
+  "target": "nose_w_to_intercanthal",
+  "target_z": 0.96,
+  "validity": 0.25,
+  "dir_v0_minus_v1_z": -0.88,
+  "top_confound": [
+   "eye_w_to_h",
+   "mouth_to_cheek",
+   "fifths"
+  ],
+  "top_confound_z": [
+   0.71,
+   0.66,
+   0.64
+  ]
+ },
+ {
+  "axis": "nose",
+  "anchor": "p2a12",
+  "target": "nose_w_to_intercanthal",
+  "target_z": 1.11,
+  "validity": -0.06,
+  "dir_v0_minus_v1_z": -1.11,
+  "top_confound": [
+   "mouth_to_nose",
+   "upper_lower_lip",
+   "third_mid_pct"
+  ],
+  "top_confound_z": [
+   1.17,
+   1.08,
+   0.99
+  ]
+ }
+]
