@@ -1,0 +1,51 @@
+{
+ "batch": "20260911-2113",
+ "pulled_at_utc": "2026-09-11T21:13:29Z",
+ "origin": "operator-approved catch-up ingest of artifact documents never previously ingested to the wiki (wiki-sync chat 2026-09-11)",
+ "files": [
+  {
+   "file": "PLAYLIST_ANALYSIS.md",
+   "sha256": "ecb1e1b595d4102c6f79d9b0a60aaa516a97b5135e57447d3356cfe6d81b98b0",
+   "bytes": 31913
+  },
+  {
+   "file": "explicit-commitments-why-dans-not-close.pdf",
+   "sha256": "174fff4370246b3d33fd70cea32cd9ac756573210533690a8aba3a7ed56981a0",
+   "bytes": 113977
+  },
+  {
+   "file": "log-limitation-findings.md",
+   "sha256": "d778c71188298bc69828dccd5d33aab0022ee9dc1cc469d8ab1d73f24dc9f151",
+   "bytes": 6298
+  },
+  {
+   "file": "morgantown-call-analysis.md",
+   "sha256": "5abba83b26915b2eedf6ebfd5010e6ed894b0594e058624d77f5e5ca7d312baa",
+   "bytes": 19970
+  },
+  {
+   "file": "morgantown-call-validation-report.pdf",
+   "sha256": "a6394495679dfed951cfe44521a8b8af2331d6177f330faf59b9e906885bf882",
+   "bytes": 165084
+  },
+  {
+   "file": "stylometry-baseline.md",
+   "sha256": "225a608d299d9fd51a3710a73522df80b98791ee05ae107b6ed0761b4f71ee1b",
+   "bytes": 2584
+  },
+  {
+   "file": "wiki-llm-daily-driver-draft.md",
+   "sha256": "aa9eeecb052cccfa72491cc696bc3771819931623dd96af0fbca27439d966556",
+   "bytes": 5734
+  }
+ ],
+ "descriptions": {
+  "PLAYLIST_ANALYSIS.md": "Taste forensics: 2025 MASTER CRATE deep-dive + v2 Exportify haul (Sammy, MUSIC THREAD 2026-09-11)",
+  "wiki-llm-daily-driver-draft.md": "LLMs-as-infrastructure vs age-cohort position draft (2026-09-09)",
+  "log-limitation-findings.md": "Paint-by-numbers harness limitation findings from ChatGPT logs (2026-09-11)",
+  "morgantown-call-analysis.md": "Three-participant ethical analysis of the 2026-08-16 Morgantown St call",
+  "morgantown-call-validation-report.pdf": "Forensic validation report on the Morgantown call audio/transcript (2026-09-09)",
+  "explicit-commitments-why-dans-not-close.pdf": "Corpus-derived letter to Annie on explicit-commitment architecture (Sammy)",
+  "stylometry-baseline.md": "Stylometric fingerprint v1 baseline, 94,503 outbound iMessages (2026-09-11)"
+ }
+}

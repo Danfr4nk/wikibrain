@@ -240,3 +240,62 @@ mailbox history — email was never her channel. The June 10 "closure"
 thread lands inside the 52-day failure window of the June 1 closure,
 not after the August rupture: the "closure" was being negotiated in the
 medium the relationship otherwise never used.
+
+## 2026-09-09 — Morgantown call forensic validation
+
+The validation report (`src:morgantown-call-validation-2026-09-09`,
+`dat:0079-morgantown-validation`) substantially validates the primary
+evidence: SHA-256/MD5/duration match the Source Amendment, and an
+independent 175-segment transcription pass confirms the load-bearing
+exchanges (phone search 00:43, "shut the fuck up let her go" 05:12, the
+Ellen threat ~13:37).
+
+One categorical claim dies: she does not "never say yes" — the direct
+transcript has "Yes, save it" at 04:43. The narrower supportable form is
+that she never *freely* affirms: the utterance arrives while her phone is
+withheld, questions are repeated, and family disclosure is threatened.
+The report's principal finding is a wiki defect, not an evidence defect:
+correction propagation failed — downstream pages (notably Jerel's) still
+carried stale "untranscribed/T2" claims and wrong counts.
+
+## 2026-09-09 — Morgantown call three-participant analysis
+
+The forensic reading (`src:morgantown-call-analysis-2026`,
+`dat:0080-morgantown-power-map`): Jerel's interrogation is narrative
+capture — phone seized, return conditioned on answers ("once you answer
+the question"), family threat as second lever; every response confirms
+his premise. At the 15-minute scale the record supports constraint: she
+asks to leave from 04:16, alleges being hit, says she was threatened.
+
+The finding that survives both evidence sets: **victim here, agent
+elsewhere.** She concealed the continuing contact (the call proves
+betrayal: Jerel is physically present with her phone), and in this
+encounter she was being coercively controlled by the person she
+concealed. Neither half cancels the other. Her "yes" at 04:43 is a
+compliance product under duress, not clean testimony — treating it as
+corroboration would reward the coercive mechanism itself.
+
+Dan's arc: 20 of his 50 turns are pro-autonomy ("give her the phone and
+let her leave"); at 13:30 he threatens Ellen disclosure to force the
+phone's return, and the recording converts from witness to instrument.
+The Aug 17-19 campaign re-aims that instrument at her — coercive
+reality-testing that produces movement, not knowledge.
+
+## 2026-09-11 — The explicit-commitment letter
+
+Sammy's corpus-derived letter (`src:explicit-commitments-letter-2026-09-11`,
+`dat:0081-explicit-commitment-architecture`) is the mechanism behind the
+rupture's shape: verbal commitments are the bond's data structure, and
+behavior cannot close the model. 0 severance signals in 41,073 of her
+messages — nothing in the format his system recognizes ever said
+"closed." The severance sequence the letter identifies: **June 1, 2026**
+"Goodbye forever... sic semper lupanis" (his line, misattributed to her
+until August 2026 — her severance total was never even a near-miss);
+**August 19, 2026** group-chat clearing (first public discrimination
+between two men under her own name); **August 26, 2026** the block held
+(first held boundary in the record). With a severance signal on record
+and no transmission, "I don't feel close to you anymore" is a structural
+report, not a mood: the rule that constituted closeness is no longer
+live. Caveat the letter states plainly: this does not make him blameless
+— the concealed Valeria affair and the "THERE IS NO SITUATION" / "Grow
+up. And fucking trust me" lines of October 19, 2024 are his column.

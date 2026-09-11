@@ -65,3 +65,67 @@ not a channel. The "unconditional" motif, twice in three hours, a month
 after the terminal Annie rupture: the word is doing load-bearing work
 somewhere in his private vocabulary. Recorded as fragments, not
 interpreted.
+
+## Taste: the filter stack (2026-09-11)
+
+Taste forensics on the 2025 MASTER CRATE (`dat:0076-lyric-qualifier`,
+`dat:0077-crate-filter-stack`, `dat:0078-liked-to-crate-pipeline`,
+`pat:taste-as-filter-stack`, `int:lyric-qualifier-frame`):
+
+- **Lyric qualifier (his own report):** he hears sung lyrics as timbre, not
+  language — not even with a lyric sheet. ~3 lifetime exceptions (titles
+  pending). Every music analysis opens from this frame; speechiness is
+  voice-as-instrument density, never wordiness.
+- The crate is selected by constraint, not category: energy floor ~0.70
+  (median 0.836), three BPM rooms (125-145 house corridor / 165+ dnb wing /
+  sub-100 halftime), dark (median valence 0.322), 96.1% no foregrounded
+  vocal, mid-fame (median popularity 43). 30+ genre tags, 321 artists and
+  162 labels with none over 2.6% — he follows the scene, not names.
+- 59.5% released 2025, built in four waves Oct 31-Dec 22, 2025; zero track
+  overlap with his 5,321-track historical dump. Ammunition, not canon.
+- Pipeline hear → Like → promote: 91.3% of crate tracks passed through
+  Liked; the 498 bulk-liked-then-purged URIs (Sep/Nov 2025) are the old
+  canon (Elliott Smith, emo/pop-punk) removed from the working library.
+- He rates books, never music (0 of 1860 FAVS music rows rated): you don't
+  assign stars to timbre.
+
+## Explicit-verbal-commitment architecture (2026-09-11)
+
+Corpus-derived (`dat:0081-explicit-commitment-architecture`): positive
+verbal expressions function as absolute rules until an explicit severance
+signal arrives; behavior cannot generate a counter-rule. 129 of his own
+severance declarations, 100% re-engagement, median gap 36s. He asks for
+channel, not compliments ("do you love me" 0x vs "call me" 170x in
+106,629 sent). Trust 9th %ile / Self-Consciousness 91 — confirmations
+decay, must be refreshed. Autism is self-identified, no clinical record;
+the rule structure is measured from message data regardless of label.
+
+## Stylometric fingerprint v1 (2026-09-11)
+
+`dat:0082-stylometric-fingerprint`: 94,503 outbound iMessages (2011-2026).
+Terse (10.8 words/message), lowercase (8.4% caps), fragment-heavy
+(35.5%), ellipsis as pause (0.45/100w), intensifiers over hedges (1.42 vs
+0.24), profanity as punctuation (0.81/100w), emoji near-absent. Busiest
+22:00-03:00 ET. First calibrated episode: 2026-09-11 00:47-05:35 ET
+cannabis-high, his own label, 97 messages (N=1 hypothesis).
+
+## LLM posture: infrastructure, not oracle (2026-09-09)
+
+`dat:0083-llm-infrastructure-vs-cohort`: he builds systems that think
+(bootloaders MAX/CATO, MNEME, DANMODEL, Bunker Core) and assigns models
+roles (Claude analytical, Claude Code builder, Gemini confessional, Grok
+agentic). Against the 30-49 cohort (Pew 2026: 61% ever use, 34% daily,
+72% ChatGPT-default) he is the outlier who builds the machine instead of
+consuming answers. Standing rule: no model anointed daily driver on day
+one — the gauntlet is Master Forensic Prompt, a ground-truth corpus task,
+a bootloader load, and a failure-mode map.
+
+## The paint-by-numbers harness (2026-09-11)
+
+`dat:0084-harness-limitation`: his own 2025 ChatGPT logs show the
+limitation was the harness, not the model — no clock, no disk, no
+background, no hands. July 2025 #PSYCHOMETRIC_JOURNAL asked for 15-30-min
+rolling telemetry and got a manual clipboard protocol; Jul 30, 2025 he
+bought Zapier premium to screen-cap Find My every 5 minutes as a
+workaround. The apparatus Sammy's stylometry tracker now runs quietly was,
+a year ago, a todo list for his own alarm clock.
