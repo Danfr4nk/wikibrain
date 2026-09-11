@@ -23,6 +23,26 @@
   {
    "file": "pair-audit-2026-09-11.json",
    "what": "Full-bank v2 pair-validity audit (17/50 pairs admitted)"
+  },
+  {
+   "file": "gmail.json",
+   "what": "Scrape 20260911-1941: 50 gmail triage records (id/date/from/subject) since 2026-09-10"
+  },
+  {
+   "file": "spotify-nowplaying.json",
+   "what": "Scrape 20260911-1941: spotify now-playing snapshot (baseline)"
+  },
+  {
+   "file": "spotify-playlists.json",
+   "what": "Scrape 20260911-1941: spotify library playlist inventory (baseline)"
+  },
+  {
+   "file": "messenger-threads.json",
+   "what": "Scrape 20260911-1941: messenger thread list baseline (2 threads, newest activity 2026-08-26)"
+  },
+  {
+   "file": "messenger-sync.json",
+   "what": "Scrape 20260911-1941: messenger sync status record"
   }
  ],
  "files": {
@@ -45,6 +65,71 @@
   "scenario-report-2026-09-11.md": {
    "sha256": "f596b0e9d6372f6d4dae883884a60608047c32578615ce606cf77f6b9a0b74a9",
    "bytes": 8785
+  },
+  "gmail.json": {
+   "sha256": "7f3a041e0b4c8c60471eada754b01acbe73034b0172d7fde436884ece00fa70c",
+   "bytes": 20464
+  },
+  "messenger-sync.json": {
+   "sha256": "4feb76f0c3456101d413308a2c1bd032cb8d270e6c0a49611d44e6a0f8575a45",
+   "bytes": 1956
+  },
+  "messenger-threads.json": {
+   "sha256": "f0c385a5f172137208e298006e4a690c12db81ff546318725939790543aa0407",
+   "bytes": 1744
+  },
+  "spotify-nowplaying.json": {
+   "sha256": "8158cae11e25b4a193ecb889f240c1c89afb9d825d06ee8aab0da61b29551e20",
+   "bytes": 574
+  },
+  "spotify-playlists.json": {
+   "sha256": "7fe5aabc65e4749efdc130b3580063c8162d465b80cd1853265ca52f56bcaed3",
+   "bytes": 5915
+  }
+ },
+ "scrape": {
+  "pulled_at_utc": "2026-09-11T19:44:00Z",
+  "window_from": "2026-09-10T00:00:00-04:00",
+  "sources": {
+   "gmail": {
+    "status": "connected",
+    "count": 50,
+    "watermark_to": "2026-09-11T18:11:40Z"
+   },
+   "instagram": {
+    "status": "connected",
+    "count": 0,
+    "watermark_to": "2026-08-26T23:04:49-04:00",
+    "note": "newest of 196 pulled posts predates window"
+   },
+   "threads": {
+    "status": "connected",
+    "count": 0,
+    "watermark_to": "2026-08-26T23:04:55Z",
+    "note": "newest of 4 own posts predates window"
+   },
+   "facebook": {
+    "status": "connected",
+    "count": 0,
+    "watermark_to": "2026-07-04T15:51:25-04:00",
+    "note": "newest of 10 timeline posts predates window"
+   },
+   "messenger": {
+    "status": "connected",
+    "count": 0,
+    "watermark_to": "2026-08-26T22:23:43Z",
+    "note": "thread-list baseline archived"
+   },
+   "spotify": {
+    "status": "connected",
+    "count": 0,
+    "watermark_to": "baseline-2026-09-11T19:44:00Z",
+    "note": "now-playing + playlist inventory baselines; no recently-played endpoint in spotify-api CLI"
+   },
+   "device": {
+    "status": "no read path",
+    "note": "device-data skill exposes no SMS/text read path"
+   }
   }
  }
 }
