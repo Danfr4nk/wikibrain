@@ -6,7 +6,7 @@ aliases: ["psychosexual operating system", "erotic architecture cluster"]
 status: stable
 importance: critical
 date_created: 2026-07-14
-date_modified: 2026-07-14
+date_modified: 2026-09-11
 knowledge: mixed
 sources:
   - raw/self/dox-scan/Dan Profile.txt
@@ -65,9 +65,8 @@ retrospective analysis. Detail pages: [[wiki/mind/psychosexual/orchestration-and
 [[wiki/mind/psychosexual/taboo-and-boundary-testing]],
 [[wiki/mind/psychosexual/emotional-imprinting]],
 [[wiki/mind/psychosexual/arrangement-history]],
-[[wiki/mind/psychosexual/developmental-origins]].
-
-## The cluster at a glance
+[[wiki/mind/psychosexual/developmental-origins]],
+[[wiki/mind/psychosexual/scenario-ratings-profile]].## The cluster at a glance
 
 | Page | Covers | Evidentiary basis |
 |------|--------|--------------------|
@@ -76,6 +75,7 @@ retrospective analysis. Detail pages: [[wiki/mind/psychosexual/orchestration-and
 | [[wiki/mind/psychosexual/emotional-imprinting]] | "Unemotional sex is a myth"; crush-activation-on-contact; the Eli incident reframed through this lens | Theory: single AI source, but converges with the independently-documented attachment pattern on [[wiki/mind/concepts/attachment-model]] |
 | [[wiki/mind/psychosexual/arrangement-history]] | The decade-long real-world record: camming, paid bookings, facilitated encounters, dated and named | Primary: message threads, largely already synthesized into individual people/event pages |
 | [[wiki/mind/psychosexual/developmental-origins]] | The 2005 parental rupture's intimacy-abandonment axiom; the 2005–2010 emo/pop-punk "romantic collapse fantasy" imprinting era; the sx/sp instinctual fusion drive | Mixed: primary biographical record plus AI interpretive framing |
+| [[wiki/mind/psychosexual/scenario-ratings-profile]] | The 2026-09-11 stated-preference profile: 121 rated scenarios, target-clarity engine, sole pegging boundary, she-directs/he-pursues role structure | Primary: Dan's own gut-scale ratings (v1 correlational; v2 causal supersedes) |
 
 ## How to read this cluster
 

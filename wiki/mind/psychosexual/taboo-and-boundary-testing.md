@@ -4,7 +4,7 @@ page_type: concept
 title: "Taboo and Boundary-Testing"
 status: stable
 date_created: 2026-07-14
-date_modified: 2026-08-10
+date_modified: 2026-09-11
 knowledge: mixed
 sources:
   - raw/self/dox-scan/Dan Profile.txt
@@ -139,6 +139,22 @@ instinct the "ontology rupture" framing describes in the abstract, just
 demonstrated across relationship-type boundaries rather than orientation
 specifically. See [[wiki/mind/psychosexual/arrangement-history]] for the
 full inventory.
+
+## The one boundary he doesn't test (2026-09-11)
+
+The general pattern above has exactly one exception, and the scenario
+ratings ([[wiki/mind/psychosexual/scenario-ratings-profile]]) found it by
+exhaustion: being pegged while another man watches scored 3–4 across every
+variant — filmed, unfilmed, alone, Dan in charge — the only scenario family
+averaging below 5 in 121 ratings. The boundary is act-specific, not
+configuration-specific: "the guy joins in on you" lifts the same scenario
+3→7, the largest positive swing in the dataset. So the taboo-seeking
+reading needs its qualifier: he tests every boundary *except* this one, and
+even inside the exception, the other man's attention on him is the lever.
+The pattern isn't boundarylessness — it's boundary *authorship*. He crosses
+the lines he draws; the pegging line is the one he drew and holds, which is
+precisely what makes it load-bearing evidence for the authorship theory
+rather than against the boundary-testing one.
 
 ## Gaps
 

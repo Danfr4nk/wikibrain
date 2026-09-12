@@ -6,7 +6,7 @@ aliases: ["single life as a null state", "the transfer not the exit", "engineere
 status: active
 knowledge: earned
 date_created: 2026-08-28
-date_modified: 2026-08-28
+date_modified: 2026-09-11
 sources: []
 synthesizes:
   - wiki/mind/synthesis/the-unbroken-bond
@@ -226,6 +226,19 @@ conclusion each adult relationship separately arrived at.
 3. The next documented transition out of a long bond, if one occurs, will
    show a successor identified before or immediately upon the vacancy,
    consistent with both documented transitions to date (2015, 2026).
+
+> **2026-09-11 — prediction 2 now has its document.** The scenario-ratings
+> profile ([[wiki/mind/psychosexual/scenario-ratings-profile]]) is the
+> first-person "what I look for" statement this prediction was waiting for,
+> and it checks in the way predicted: specified, priced, engineered
+> qualities (target-clarity 8.88, filmed 9.05, neutral turf 8.88, ongoing
+> 9.29) rather than unexamined preference. Two notes for the record. First,
+> the profile's structural appetites — ongoing over one-off, open-ended over
+> bounded, "it happens again monthly" a 10 — sit inside the serial-monogamy
+> identity without contradiction: he wants continuity *of arrangement*, not
+> of exclusivity. Second, the profile postdates the Annie decade's end by a
+> month; whether these are stable traits or post-severance reconstruction
+> is untestable until the v2 causal instrument runs.
 
 ## Gaps
 

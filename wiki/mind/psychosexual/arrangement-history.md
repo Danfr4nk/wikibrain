@@ -187,6 +187,56 @@ any instance in the table above. Speed-of-onset is not currently a property
 this page measures for the others, and this is the instance that shows it
 is worth measuring.
 
+## Stated preference vs. the record (2026-09-11)
+
+On 2026-09-11 — seven years after the last documented burst — Dan rated 121
+constructed erotic scenarios on a 1–10 scale (see
+[[wiki/mind/psychosexual/scenario-ratings-profile]]). This is retrospective
+stated preference, not contemporaneous evidence, and it cannot re-date anything
+in the table above. What it can do is test the table's structural readings
+against what he says he wants now.
+
+**It sharpens the authorship question rather than settling it.** The profile's
+hottest authorship level is "she directs" (8.48), and all three top scenario
+families have her orchestrating or watching. Read against this page's open
+problem — the April 2019 revision, which broke the claim that every instance
+shares one author — the profile adds a stated-preference data point: in
+fantasy, *he prefers her authorship*. That cuts two ways. It makes the
+Annie-initiated April 2019 instance look less like an anomaly and more like the
+configuration he rates highest. But it also means the Dan-as-architect reading
+of the other rows could be flattered by his own retrospective framing — the
+negotiation threads where Dan is "by definition the correspondent" are also
+the threads where he is performing the director role he now says he prefers
+not to hold. The sampling artefact noted above survives; the profile just adds
+motive to it.
+
+**Three structural convergences.** The camera finding (filmed 9.05 vs unfilmed
+8.21; removing the camera from the 2019-shaped scenario drops it 10→5) matches
+the behavioral record exactly — the 2019 experiment was filmed as a matter of
+architecture. The proximity finding (distance variants tank 9→5, 8→5, 8→3)
+matches a corpus with zero "she calls after" configurations. The
+acquaintance-over-friend finding (friend variant craters 9→4) matches Danny
+Matthews' tier: "a grade above me at school, known as a dork" — acquaintance,
+not friend.
+
+**One honest divergence.** Neutral turf wins the profile decisively (8.88 over
+7.87 home, 7.30 hers; "at his place" drops a 10→6) — but the documented
+encounters ran at 117 Belmont Circle and equivalent home settings. Either the
+preference postdates the practice, or turf was never as load-bearing as he now
+rates it. The profile's own cheapest test ("run the foursome family at his
+place; model says 7 or below") is the right falsifier, and it applies
+retroactively: the 2019 record *is* that test, and the arrangement held.
+
+**The identity split, restated.** The "serial monogamist" self-description
+(2019-08-17) sat six weeks before the Kelly Johansson run inside a corpus where
+commitment vocabulary is nearly absent and arrangement vocabulary abundant.
+The profile adds the appetite side of the same split: ongoing (9.29),
+open-ended (9.25), "it happens again monthly" a 10. He described himself as a
+monogamist while building the filmed record; he rates continuity and
+open-endedness highest while calling the boundary act-specific. The split is
+not hypocrisy — it is the same authorship-over-openness reading this page
+already licenses, now with a stated-preference signature on it.
+
 ## The 2026 accusation, tested against this table
 
 On the recording of **2026-08-16** ([[wiki/timeline/events/august-2026-morgantown-call]]),

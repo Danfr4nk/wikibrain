@@ -4,7 +4,7 @@ page_type: concept
 title: "Orchestration and Voyeurism"
 status: stable
 date_created: 2026-07-14
-date_modified: 2026-08-11
+date_modified: 2026-09-11
 knowledge: mixed
 sources:
   - raw/self/dox-scan/Dan Profile.txt
@@ -171,6 +171,25 @@ theorization in the corpus is either AI-authored or AI-co-written. The
 "Danny" massage incident and the Fran-timing coincidence remain
 uncorroborated and should not be treated as established fact pending a
 primary source.
+
+## Stated preference fills part of the gap (2026-09-11)
+
+The gap above is now narrower. The 2026-09-11 scenario ratings
+([[wiki/mind/psychosexual/scenario-ratings-profile]]) are Dan's own
+gut-scale answers, not AI-authored theory — the closest thing in the corpus
+to a first-person account of *why* this structure. What he reports: the
+camera multiplies heat but never creates it (filmed 9.05 vs 8.21; pegging
+stays 3 filmed or not); proximity is non-negotiable (distance variants tank
+9→5, 8→5, 8→3); and the preferred role is not director-as-center but
+director-adjacent — "she directs" tops authorship while "you're the focus"
+is the *lowest* spotlight level (7.95), with the "you are the focus"
+variant dropping a threesome 9→6. The dossier's "director not participant"
+framing survives, but the profile refines it: he doesn't want the director's
+chair either. He wants to be the one things happen to — arranged by her,
+the other man's attention unambiguous, himself peripheral to the spotlight
+he orchestrated. Authorship over the boundary, yes; but authorship
+exercised by *her*, with him as the arranged object rather than the
+arranging subject.
 
 ## Related
 
