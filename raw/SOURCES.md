@@ -122,3 +122,25 @@ otherwise, and a live key must not be public. An AWS key ID inside expired
 ChatGPT-export S3 presigned URLs (3 files, 72 occurrences, OpenAI's session
 credential, expired 2025-04-22) was redacted to `AKIA-REDACTED-EXPIRED`.
 Byte-originals remain in private RAWLOGS. Recommendation: rotate both xAI keys.
+
+### Large-file exclusions (GitHub API limits, same batch)
+Four files could not be pushed through the Git Data API and were omitted from
+the pushed trees (byte-originals remain in private RAWLOGS and in the local
+backfill worktree):
+- `raw/imessage/messages.csv` (47.8 MB) — blob-create API rejects it ("input
+  was too large to process").
+- `raw/takeout/takeout-20260103T040931Z-3-001/Takeout/My Activity/Gemini Apps/Screen Recording 2025-11-26 at 9.-6250b4544e5b66cd.mov` (40.6 MB),
+  `.../bassdown final bounce-f9869e242729f118` and `.../bassdown final bounce-697663cfa661ba2f`
+  (38.4 MB each, same bytes) — trees referencing ~38 MB+ blobs time out on
+  GitHub's side ("request timed out... input was too large"). A tree with a
+  36.4 MB blob succeeded, so the practical ceiling sits between 36 and 38 MB.
+These need a native `git push` from a machine with direct GitHub access to
+land in wikibrain; until then RAWLOGS is their home.
+
+### Push record
+Pushed 2026-09-12 as branch `sammy/wb-raw-backfill` (12 commits, tip
+`f54c0e8`) via the Git Data API (native `git push` is blocked: SSH key not
+registered on the account, HTTPS proxy only allows api.github.com). 7,517
+unique blobs uploaded; 1,958 objects already on remote main skipped; 4 files
+above omitted per API limits. Remote branch verified: 8,899 blobs under
+`raw/`.
