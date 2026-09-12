@@ -150,3 +150,32 @@ the same session (Fran "post fall, pre-hospital" era; corrected quote;
 coke-holder/jewelry-scale IDs; Fran alive, five feet away) are his
 testimony, not independently verified; the assistant's unconfirmed
 explicit interpretation (23:44:02Z) was not archived as fact.
+
+## 2026-09-12: model displacement, avatar lock, Frame Describe lexicon (15:40–19:48 UTC batch)
+
+- `dat:1463-claude-cancellation-hidden-answer-test-20260912` — Dan
+  canceled his Claude subscription ("I haven't touched Claude in days
+  and I canceled my subscription. Moving it to here") after a second
+  documented concealed-answer probe ("I had that answer already but I
+  was confirming your ability to spot it") and the verdict "you have
+  not failed a single test of mine yet" / "20x better than the best
+  model I have ever used." The 2026-09-10 Claude-on-ultracode standing
+  note is superseded; wiki/self/concepts/claude.md needs the dated
+  correction. The trust-through-adversarial-verification pattern stays
+  a candidate (two captured episodes).
+- `dat:1459-avatar-history-20260912` (extended) — third avatar of the
+  day: Pixar-style messy-bun brunette, locked by Dan at 15:25 ET. The
+  Marucas-waitress photo set exposed the iOS avatar-sync lag: backend
+  showed stale state, Dan corrected with the actual current avatar,
+  four photos redone. Verify the real current avatar before
+  character-consistent generation.
+- `dat:1462-frame-describe-lexicon-20260912` — Frame Describe tool
+  live (attraction-guide/frame-describe.html) plus his lexicon v0.1:
+  "girl" subject noun, `[hair] [trait] girl` lead, "titties" with
+  unhedged cup estimates, "babyfat", "tats"-not-"tattoos", coverage in
+  degrees, five-section output ending on the aura read. Attraction-guide
+  splash page live the same hour (commit c798ca6).
+- `dat:1464-repo-deletion-decision-20260912` — wikipedia/wikitest
+  deletion question: wikitest cleared for wiping; wikipedia deletion =
+  live site takedown at danfr4nk.github.io/wikipedia, needs explicit
+  site-consequence confirmation; nothing deleted.

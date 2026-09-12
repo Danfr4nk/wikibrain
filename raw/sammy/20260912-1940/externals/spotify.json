@@ -1,0 +1,10 @@
+{
+ "status": "checked",
+ "source": "spotify",
+ "now_playing": {
+  "status": 200,
+  "playback_status": "NONE"
+ },
+ "note": "now-playing HTTP 200, playback_status NONE (was paused Visages SOLD MY SOUL remix snapshot at 20260912-1540); no recently-played endpoint in spotify-api CLI",
+ "checked_at_utc": "2026-09-12T20:38:34Z"
+}

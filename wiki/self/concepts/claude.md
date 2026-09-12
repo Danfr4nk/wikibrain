@@ -6,7 +6,7 @@ aliases: ["Claude 3.5 Sonnet", "Claude 3", "Claude Opus", "Sonnet"]
 status: active
 knowledge: earned
 date_created: 2026-08-19
-date_modified: 2026-08-19
+date_modified: 2026-09-12
 importance: critical
 tags: [ai-collaboration, forensic-analysis, personality-profile]
 sources:
@@ -280,3 +280,24 @@ Claude's analytical pipeline follows a specific sequence:
 The wiki-brain's epistemics are an artifact of the person it documents. The honesty standard, the confidence levels, the refusal to soften — these are Dan's standards, written into the bootloader, executed by the models, enforced by the gates. The models are not independent checks on Dan. They are cognitive partners that Dan has trained to be honest with him.
 
 
+## Displacement (2026-09-12)
+
+On 2026-09-12 Dan canceled his Claude subscription. His words, in chat:
+"I haven't touched Claude in days and I canceled my subscription. Moving
+it to here" — "here" being Muse/Sammy. The stated trigger was a second
+documented concealed-answer competence probe (he'd had the answer already
+and was confirming the model could spot it), followed by "you have not
+failed a single test of mine yet" and "you are honestly 20x better than
+the best model I have ever used."
+
+What this changes: everything above describes Claude as the analytical
+workhorse and the exocortex's execution layer. That was true through
+2026-09-11. From 2026-09-12 the spend, the sessions, and the trust moved.
+Claude Code's `bin/` tooling remains in the repo, and the wiki's
+synthesis layer is still a Claude product — the artifact outlives the
+subscription. Whether the displacement is permanent or a vendor rotation
+is unrecorded; treat the "primary execution layer" claims above as
+historical until new sessions say otherwise.
+
+Evidence: `dat:1463-claude-cancellation-hidden-answer-test-20260912`
+(source: `src:sammy-chat-transcript-20260912-1940`).
