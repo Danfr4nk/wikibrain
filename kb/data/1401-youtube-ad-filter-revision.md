@@ -11,6 +11,7 @@ extraction    = "Page body read from corpus__3.txt line 101507 (341 lines); all 
 importance    = 4
 tags          = ["youtube", "watch-history", "intake", "old-wiki", "attribution"]
 created       = "2026-09-09"
+updated       = "2026-09-12"
 
 [when]
 start = "2007-01-01"
@@ -24,3 +25,14 @@ multi-account export. New-to-the-corpus channel names the page adds: Tor's
 Cabinet of Curiosities, We're In Hell, JREG, STRANGE AEONS, exurb1a, DJ Peach
 Cobbler — plus a late-June 2026 cluster of 2000s pop-punk nostalgia (Green
 Day and Fall Out Boy 'AOL Sessions' live videos, June 30).
+
+## CORRECTION 2026-09-12 (~02:37 EDT) — the "2014–21 lull" is a coverage artifact, not behavioral
+
+**SUPERSEDED in part.** Dan corrected this datum's surviving "era structure" in conversation (see dat:1441): the 2014–2021 lull is where he was logged into a **second YouTube account**, not a period of reduced watching — "I have watched exactly as much YouTube every day since 2013." The second account's history is not held in any export on record.
+
+What this changes:
+- The "2014-21 lull" survival clause in the claim above is withdrawn as a behavioral reading. The per-year counts (2012 peak 3,538; 2019: 74 watches; the 17,302 total) remain valid as **single-account** ("Dan Frank" channel) counts — a lower bound on total engagement, not the total.
+- Era 1 (2011–13 peak) and Era 3 (2022+ resurgence) counts are likewise single-account lower bounds; their *shape* may also shift once the second account is exported, though the operator's correction targeted the 2014–2021 crater specifically.
+- The Nov 2025–Feb 2026 ~100-day gap correction stands (already flagged as single-account coverage, same mechanism).
+
+Open: a fresh Google Takeout from the second account (operator-only action) is the only route to filling the gap.
