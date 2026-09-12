@@ -3,7 +3,7 @@ domain: work
 page_type: summary
 status: stable
 date_created: 2026-06-23
-date_modified: 2026-09-02
+date_modified: 2026-09-11
 sources:
   - raw/self/twitter/archive.jsonl
 related: []
@@ -62,6 +62,13 @@ shipping rather than capability, and this is the one case in the corpus where
 something removed the constraint instead of Dan overcoming it.
 
 ## Projects
+
+### Coding projects (full entries)
+
+- [[wiki/work/tech/projects/index]] — the coding-projects category: full entries for hook2piano, attraction-guide (+telemetry, scenario instruments, face library), stylometry tracker, iMessage Analysis Toolkit (Gumroad), and the wiki-brain tooling itself. DANMODEL, MNEME, and Bunker Core are consolidated by link to their existing entries rather than duplicated.
+
+### Overviews
+
 - [[wiki/work/tech/grok-build/overview]] (Grok subagents, iMessage responder, portal TUI, export scripts; subagent mode for wiki tasks; OpenRouter routing)
 - [[wiki/work/tech/max-framework/overview]] (MAX adversarial output; CATO forensic exocortex; Grok hybrid; tables for architecture/use cases/sources)
 - [[wiki/work/tech/imessage-tooling/overview]] (chat.db extraction, Electron app, py exporters, csv to wiki ingest; SQL examples, 97k volume baseline; Full Disk)
