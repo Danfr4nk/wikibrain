@@ -1,22 +1,22 @@
----
-dat: 1446
-title: "Au Za'atar hostess DM threads: the 'testing the waters' count"
-date_created: 2026-09-12
-sources:
-  - raw/messenger-drive-2026-09-12/messenger_drive_canonical.jsonl
-  - raw/messenger-drive-2026-09-12/threads.json
-claims:
-  - claim: "Five confirmed Au Za'atar hostesses have DM threads in the Drive pull: Valeria Iglesias, Lou Bahet, an unnamed Mexican aerospace-engineer hostess, Chloe Larson, and Anne Ulmer."
-    confidence: high
-  - claim: "Three of the five were 'testing the waters' (flirtatious/romantic prospecting): Valeria Iglesias, Lou Bahet, and the unnamed aerospace-engineer hostess."
-    confidence: high
-  - claim: "Dan pursued the unnamed aerospace-engineer hostess June 27–July 1, 2022 (128 messages) while the Valeria thread was still active — the same window as the Valeria burst's taper."
-    confidence: high
-  - claim: "Chloe Larson's thread is work logistics, not prospecting; Anne Ulmer's is the girlfriend relationship, a separate category."
-    confidence: high
----
++++
+id         = "dat:1446-au-zaatar-hostess-threads"
+layer      = 1
+type       = "datum"
+title      = "Au Za'atar hostess DM threads: the 'testing the waters' count"
+claim      = "Three confirmed Au Za'atar hostesses were 'testing the waters' (flirtatious/romantic prospecting) in the Drive DM pull: Valeria Iglesias (4,879 msgs), Lou Bahet (1,602), and an unnamed Mexican aerospace-engineer hostess pursued 2022-06-27 to 2022-07-01 (128 msgs: 'the beautiful hostess and her snacky red dress,' 'my completely flagrant and obvious crush,' note in her bag, phone number given) while the Valeria thread was still live. Chloe Larson's thread is work logistics; Annie's is the girlfriend relationship. Cosette and rambo show testing-waters behavior with unconfirmed roles."
+cites      = ["src:messenger-drive-2026-09-12"]
+confidence = "high"
+tags       = ["au-zaatar", "hostess", "prospecting", "valeria-iglesias-cid", "lou-bahet"]
+importance = 4
+created    = "2026-09-12"
+[[edges]]
+rel = "about"
+target = "ent:dan"
+strength = "strong"
+asserted_by = "llm"
++++
 
-# Au Za'atar hostess DM threads: the "testing the waters" count
+## Reading
 
 Dan's question, 2026-09-12: how many Au Za'atar hostesses did he have
 Messenger/Instagram conversations with that were all "testing the waters."
