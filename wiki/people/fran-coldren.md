@@ -8,7 +8,7 @@ importance: critical
 relation_type: family
 knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-08-26
+date_modified: 2026-09-11
 date_range: ["1920-08-15", "2018-04-04"]
 tags: [family, uniontown-era, grief, music-production, financial-stress]
 sources:
@@ -436,5 +436,56 @@ what actually happened in that room — exist only as uploads inside AI sessions
 Locating the originals is the highest-value collection task attached to this
 page.
 
+## Media
 
+![Nighttime vigil: Fran in Stryker bed, oxygen mask](../media/upload-001.jpg)
 
+*2018-04-04/05 (night, per content) — Poster frame from video. Nighttime vigil video: Fran in Stryker bed, oxygen mask, dark room; a hand (Dan's) enters frame near the end. The video reviewed for the 23:26 retraction.*
+
+---
+
+![Daytime: Fran in Stryker bed, eyes open](../media/upload-002.jpg)
+
+*2018-04-04/05 (daytime, per content) — Poster frame from video. Daytime: Fran in Stryker bed, oxygen mask, eyes open and looking around. Dan's label: her condition several hours before the night video.*
+
+---
+
+![Nursing home: Fran talking, drinking from a cup](../media/upload-003.jpg)
+
+*2018-03-12/04-01 (nursing-home interval, per content and Dan label) — Poster frame from video. Close-up: Fran in pink top and white turtleneck, talking, drinking from a cup with a straw. Nursing-home room.*
+
+---
+
+![Nursing home: Fran in wheelchair](../media/upload-004.jpg)
+
+*2018-03-12/04-01 (nursing-home interval, per content and Dan label) — Poster frame from video. Blurry motion clip: Fran in wheelchair, pink top, orange wristband. Nursing-home room.*
+
+---
+
+![Nursing home: Fran agitated in wheelchair](../media/upload-005.jpg)
+
+*2018-03-12/04-01 (nursing-home interval, per content and Dan label) — Poster frame from video. Fran in wheelchair, agitated and restless, leaning forward, distressed. Nursing-home room, bed and patterned recliner visible.*
+
+---
+
+![Nursing home: Fran gesturing in hallway](../media/upload-006.jpg)
+
+*2018-03-12/04-01 (nursing-home interval, per content and Dan label) — Poster frame from video. Fran in wheelchair (pink top, patterned pants, orange wristband), agitated, mouth open, gesturing; a hand steadies her shoulder; she wipes her face. Hallway with room 3 visible. Nursing-home room.*
+
+---
+
+![Sunroom at night: Fran seated, Suz standing over her](../media/upload-007.jpg)
+
+*~2012-2013 (Fran 92, per Dan testimony) — Poster frame from video. Nighttime sunroom: Fran seated in black-and-white patterned jacket; Suz (per Dan, 2026-09-11) in white stands over her, leans in talking, then walks away.*
+
+---
+
+![Sunroom at night: Fran talking, smiling](../media/upload-008.jpg)
+
+*~2012-2013 (Fran 92, per Dan testimony) — Poster frame from video. Nighttime sunroom, same scene: Fran (92, per Dan) seated in patterned jacket roasts Suz (in white, per Dan); Suz leaves; Fran keeps talking, ends smiling/laughing. Dan: Suz could not handle it. The line itself is audio-only.*
+
+---
+
+![Fran's living room, caregiver era](../media/upload-009.jpg)
+
+*caregiver era, pre-vigil (per Dan 2026-09-11: Fran is sitting up in her own living-room chair, lucid — predates the March-April 2018 decline) — Compressed photo. Fran's living room (fireplace, walker, recliner). A blonde woman in a pink turtleneck sits at a table bearing: a black game controller, two TV remotes, a glass of amber liquid, her purse, a small plastic bag, a blue-and-white container that Dan identifies (2026-09-11) as Suz's coke holder (disguised as a cigarette pack), and a black case Dan identifies as a jewelry scale. Dan's point: Fran is alive, well, and lucid, sitting ~5 feet away in her armchair — the paraphernalia is out on the table in front of her, not hidden.*

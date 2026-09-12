@@ -3,7 +3,7 @@ domain: people
 page_type: entity
 status: active
 date_created: 2026-06-23
-date_modified: 2026-08-27
+date_modified: 2026-09-11
 date_range_start: 2018-02-16
 date_range_end: 2024-12-26
 sources:
@@ -99,4 +99,20 @@ Recurring elements:
 
 Danny's real-estate brokerage is not otherwise documented; whether the December 2024 invitation was taken up is unknown, and no further contact appears in the corpus after that date. The largest gap is about the opening night itself: nothing in the thread — before, during, or in the six and a half years after — refers to Fran's fall, to an ambulance, or to anything having gone wrong that evening. Whether Danny knew a medical emergency was under way in the house while he was in it is unestablished and is answerable only by him. Dan describes him as "a grade above me at school, known as a dork then," which is the only account of how they knew each other and comes from the operator rather than the corpus.
 
+## Media
 
+![Bedroom still: Danny Matthews night (1 of 3)](../media/upload-016.jpg)
+
+*no EXIF/date metadata in file; event date undated from the file itself — Compressed photo. Still frame (828x466), filename equals SHA-256. Bedroom with string lights, mattress on the floor; a man and a woman engaged in sexual activity. One of three stills from footage Dan supplied 2026-09-11 as 'a Danny Matthews night.' Corpus: wiki/people/danny-matthews - local realtor (handled 117 Belmont Circle sale post-Fran) and one half of a swinger couple with girlfriend Nicole; arrangement opened 2018-02-16 ('you guys would be the first couple we were with'); first executed encounter 2018-03-07/08 at 117 Belmont Circle (Annie with Danny Matthews, Dan watching, the night of Fran's falls); periodic contact Feb 2018 through at least 2024 across a 349-message thread interleaving real-estate and sexual logistics. Identities in frame rest on Dan's testimony, not independent identification; the specific night is undated.*
+
+---
+
+![Bedroom still: Danny Matthews night (2 of 3)](../media/upload-017.jpg)
+
+*no EXIF/date metadata in file; event date undated from the file itself — Compressed photo. Still frame (828x959), filename equals SHA-256. Bedroom with string lights, mattress on the floor; a man and a woman engaged in sexual activity. One of three stills from footage Dan supplied 2026-09-11 as 'a Danny Matthews night.' Corpus: wiki/people/danny-matthews - local realtor (handled 117 Belmont Circle sale post-Fran) and one half of a swinger couple with girlfriend Nicole; arrangement opened 2018-02-16 ('you guys would be the first couple we were with'); first executed encounter 2018-03-07/08 at 117 Belmont Circle (Annie with Danny Matthews, Dan watching, the night of Fran's falls); periodic contact Feb 2018 through at least 2024 across a 349-message thread interleaving real-estate and sexual logistics. Identities in frame rest on Dan's testimony, not independent identification; the specific night is undated.*
+
+---
+
+![Bedroom still: Danny Matthews night (3 of 3)](../media/upload-018.jpg)
+
+*no EXIF/date metadata in file; event date undated from the file itself — Compressed photo. Still frame (828x621), filename equals SHA-256. Bedroom with string lights, mattress on the floor; a man and a woman engaged in sexual activity. One of three stills from footage Dan supplied 2026-09-11 as 'a Danny Matthews night.' Corpus: wiki/people/danny-matthews - local realtor (handled 117 Belmont Circle sale post-Fran) and one half of a swinger couple with girlfriend Nicole; arrangement opened 2018-02-16 ('you guys would be the first couple we were with'); first executed encounter 2018-03-07/08 at 117 Belmont Circle (Annie with Danny Matthews, Dan watching, the night of Fran's falls); periodic contact Feb 2018 through at least 2024 across a 349-message thread interleaving real-estate and sexual logistics. Identities in frame rest on Dan's testimony, not independent identification; the specific night is undated.*

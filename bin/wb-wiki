@@ -270,6 +270,9 @@ def inline(text: str) -> str:
     out = re.sub(r"`([^`]+)`", lambda m: f"<code>{m.group(1)}</code>", out)
     out = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", out)
     out = re.sub(r"(?<![*\w])\*([^\n]+)\*(?!\w)", r"<em>\1</em>", out)
+    out = re.sub(r"!\[([^\]]*)\]\(([^)]+)\)",
+                 lambda m: f'<img src="{html.escape(m.group(2), quote=True)}" '
+                           f'alt="{html.escape(m.group(1), quote=True)}" loading="lazy">', out)
     out = re.sub(r"\[([^\]]+)\]\(([^)]+)\)",
                  lambda m: f'<a href="{html.escape(m.group(2), quote=True)}">{m.group(1)}</a>', out)
     return out
@@ -519,6 +522,8 @@ th{background:#eaecf0}
 .deadlink{color:#a33;border-bottom:1px dotted #a33;cursor:help}
 .footer{border-top:1px solid var(--line);margin-top:40px;padding:16px 22px;color:var(--mut);font-size:12.5px}
 .clear{clear:both}
+.wrap img{max-width:100%;height:auto;border:1px solid var(--line);border-radius:4px;margin:10px 0}
+figure.wbmedia{margin:14px 0}figure.wbmedia figcaption{font-size:13px;color:var(--mut);margin-top:4px}
 @media(max-width:720px){.infobox{float:none;width:100%;margin:0 0 18px}.wrap{padding:18px 16px}}
 </style>"""
 
@@ -994,6 +999,13 @@ def main() -> int:
 
     # Front page (replaces the kb overview; layer pages stay linked)
     (out / "index.html").write_text(front_page(pages, counts), encoding="utf-8")
+
+    # Media: compressed derivatives embedded in articles live under wiki/media/
+    # and are referenced relatively (e.g. ../media/<id>.jpg from wiki/people/).
+    import shutil
+    media_src = ROOT / "wiki" / "media"
+    if media_src.is_dir():
+        shutil.copytree(media_src, out / "wiki" / "media", dirs_exist_ok=True)
 
     # Dead-link report
     dead = sorted(set(linker.dead))

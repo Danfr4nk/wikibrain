@@ -4,7 +4,7 @@ page_type: concept
 title: "Arrangement History"
 status: active
 date_created: 2026-07-14
-date_modified: 2026-08-26
+date_modified: 2026-09-11
 knowledge: mixed
 sources:
   - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md
@@ -342,5 +342,14 @@ represents a genuine shift in preference, a reaction to the [[wiki/people/eli|El
 betrayal's timing, or simply what that particular partner required is not
 established anywhere in the corpus.
 
+## Media
 
+![Red-lit bedroom footage still (2019 experiment)](../../media/upload-013.jpg)
 
+*container creation 2026-09-11T23:52:30Z (export/upload time); no capture-time metadata; on-screen content undated — Poster frame from video. 46.94s, 720x1280, HEVC/AAC, 11,603,566 bytes; filename equals SHA-256. Red-lit bedroom; two people engaged in sexual activity; ends on CapCut export screen (CapCut ID 2784015505), indicating edited/exported curation. Identities of the two people not independently established from the footage (faces blurred/red-lit). Dan supplied 2026-09-11 in the context of corroborating the documented non-monogamy arrangement ('the 2019 experiment'); the file itself carries no 2019 date. Audiovisual evidence only: existence of deliberately filmed and curated intimate footage.*
+
+---
+
+![Security-camera still, 2019-10-21 night footage](../../media/upload-014.jpg)
+
+*on-screen camera timestamps 2019-10-21 00:45:25 to 02:02:10 (Monday); container creation 2019-10-28T15:46:15Z — Poster frame from video. 87.17s, 1920x1080, H.264/AAC, 6,646,564 bytes; filename equals SHA-256. Screen recording of a security-camera phone app (playback UI: pause/volume/download buttons, timeline scrubber visible throughout). Night-vision footage of three people on a bed: a woman with long hair and two men; one man (glasses) largely reclines/observes while the woman is intimate with the other man (tattooed arm); configurations shift across ~77 minutes of camera time. Edited selects jumping between timestamps (00:45, 00:57, 01:10, 01:23, 01:37, 01:49, 01:50, 01:58, 02:01, 02:02), not continuous footage. Identities not independently established from night-vision faces; 'who' comes from Dan's framing ('the 2019 experiment'), not from identification. Corroborates the dossier's structural claim (partner with others while Dan present/observing) and the orchestrated-witnessing/camera architecture; does not by itself establish repetition across years. Consent dynamics not determinable from footage.*
