@@ -339,3 +339,15 @@ report, not a mood: the rule that constituted closeness is no longer
 live. Caveat the letter states plainly: this does not make him blameless
 — the concealed Valeria affair and the "THERE IS NO SITUATION" / "Grow
 up. And fucking trust me" lines of October 19, 2024 are his column.
+
+## 2026-09-12 — Au Za'atar location clarification
+
+During the hostess DM census (`dat:1446-au-zaatar-hostess-threads`), Dan
+noted he had forgotten Annie in the count, then corrected the frame
+himself: "WELL Annie worked at the other location so you're more correct
+than I was to be fair" (`src:sammy-chat-transcript-20260912-0740`,
+2026-09-12T07:43:31Z). She was a hostess at the original East Village
+location — not the Midtown location where Valeria, Lou, and the other
+census subjects worked. She belongs in a separate category from the
+"testing the waters" census: the kept hostess of eleven years, not a
+parallel thread.

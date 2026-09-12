@@ -134,11 +134,18 @@ nowhere else in the corpus.
 ## The forgetting
 
 On 2026-09-12, when the Drive ingest ranked her the #3 correspondent in
-the social-DM archives, Dan said "WHO?" — verbatim, in chat. Three years
-after 1,602 messages in 21 days, including the single most
-message-dense day of any thread in the pull, she was gone from his memory
-entirely. The page exists partly to keep that fact queryable: the
-intensity of a correspondence predicts nothing about its retention.
+the social-DM archives, Dan said "I forgot about that Lou girl even
+existed i said WHO?" — verbatim, in chat
+(`src:sammy-chat-transcript-20260912-0740`, 2026-09-12T07:22:46Z;
+`dat:1447-lou-forgotten-despite-1602-messages`). Three years after 1,602
+messages in 21 days, including the single most message-dense day of any
+thread in the pull, she was gone from his memory entirely. The page exists
+partly to keep that fact queryable: the intensity of a correspondence
+predicts nothing about its retention. See
+`int:volume-salience-contrast` for the bounded reading — volume measures
+channel-local intensity, not durable relationship salience — with the
+Annie (133 FB messages, eleven years) and Valeria (4,879 IG messages, one
+iMessage) contrast cases and the falsifiers.
 
 **Gaps:** surname confirmation; whether they met up after September 11,
 2023; why the thread died; any post-September-2023 contact on any
