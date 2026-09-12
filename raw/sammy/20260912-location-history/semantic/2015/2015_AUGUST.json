@@ -1,0 +1,251 @@
+{
+  "retrieved_at": {
+    "user_local": "2026-09-11T23:59:21.073-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-12T03:59:21.073Z"
+  },
+  "timelineObjects": [
+    {
+      "placeVisit": {
+        "centerLatE7": 398978800,
+        "centerLngE7": -797245000,
+        "duration": {
+          "endTimestamp": "2015-08-09T01:55:13.892Z",
+          "startTimestamp": "2015-08-08T22:33:56.905Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "61 South Beeson Boulevard, Uniontown, Pennsylvania 15401, United States",
+          "latitudeE7": 398991339,
+          "locationConfidence": 56.7723,
+          "longitudeE7": -797252490,
+          "placeId": "ChIJ5b3XbzE-NYgRqufo3CdlI2E",
+          "semanticType": "TYPE_SEARCHED_ADDRESS"
+        },
+        "locationConfidence": 53,
+        "otherCandidateLocations": [
+          {
+            "address": "58 E Fayette St, Uniontown, PA 15401, USA",
+            "latitudeE7": 398975471,
+            "locationConfidence": 7.1982617,
+            "longitudeE7": -797239078,
+            "name": "Mahoney's Bar & Grill",
+            "placeId": "ChIJJ4438DM-NYgRocN8fhNHEI4"
+          },
+          {
+            "address": "26 E Fayette St, Uniontown, PA 15401, USA",
+            "latitudeE7": 398977890,
+            "locationConfidence": 5.299304,
+            "longitudeE7": -797250575,
+            "name": "Fox's Pizza, Subs & More",
+            "placeId": "ChIJrb712TM-NYgRQIgMxnfu6WY"
+          },
+          {
+            "address": "26 E Fayette St, Uniontown, PA 15401, USA",
+            "latitudeE7": 398977890,
+            "locationConfidence": 2.5828114,
+            "longitudeE7": -797250575,
+            "name": "Green Valley Art Glass",
+            "placeId": "ChIJrb712TM-NYgRe8Ax8YMPNWE"
+          },
+          {
+            "address": "8 E Church St, Uniontown, PA 15401, USA",
+            "latitudeE7": 398999035,
+            "locationConfidence": 2.0979395,
+            "longitudeE7": -797248137,
+            "name": "Herald Standard",
+            "placeId": "ChIJwayBFjE-NYgRkS4QxrbMyag"
+          },
+          {
+            "address": "47 E Fayette St, Uniontown, PA 15401, USA",
+            "latitudeE7": 398982805,
+            "locationConfidence": 1.7105991,
+            "longitudeE7": -797238017,
+            "name": "US Post Office",
+            "placeId": "ChIJTy8N8zE-NYgRzic4o7dc0gA"
+          },
+          {
+            "address": "140 Beeson Ave, Uniontown, PA 15401, USA",
+            "latitudeE7": 398969354,
+            "locationConfidence": 1.4430233,
+            "longitudeE7": -797268733,
+            "name": "Unemployment Compensation Tax",
+            "placeId": "ChIJPy92RjI-NYgRf9jXLlgpgT8"
+          },
+          {
+            "address": "164 Beeson Ave, Uniontown, PA 15401, USA",
+            "latitudeE7": 398963961,
+            "locationConfidence": 1.4115763,
+            "longitudeE7": -797272152,
+            "name": "Lanzi Academy of Dance Inc",
+            "placeId": "ChIJN8mFXTI-NYgRaf0N4daSHQ4"
+          },
+          {
+            "address": "80 E Fayette St, Uniontown, PA 15401, USA",
+            "latitudeE7": 398970458,
+            "locationConfidence": 1.2261051,
+            "longitudeE7": -797221568,
+            "name": "Coral Reef Tropicals",
+            "placeId": "ChIJf6__EzQ-NYgR0IvAZfCcMGo"
+          },
+          {
+            "address": "58 E Fayette St, Uniontown, PA 15401, USA",
+            "latitudeE7": 398975471,
+            "locationConfidence": 1.0757989,
+            "longitudeE7": -797239078,
+            "name": "Brass Rail",
+            "placeId": "ChIJJ4438DM-NYgRjxJZQMIIREQ"
+          }
+        ],
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 45
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "distance": 841,
+        "duration": {
+          "endTimestamp": "2015-08-09T03:07:59.025Z",
+          "startTimestamp": "2015-08-09T01:55:13.892Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {
+          "latitudeE7": 398914877,
+          "longitudeE7": -797295230
+        },
+        "startLocation": {
+          "address": "61 South Beeson Boulevard, Uniontown, Pennsylvania 15401, United States",
+          "latitudeE7": 398991339,
+          "locationConfidence": 56.7723,
+          "longitudeE7": -797252490,
+          "placeId": "ChIJ5b3XbzE-NYgRqufo3CdlI2E",
+          "semanticType": "TYPE_SEARCHED_ADDRESS"
+        },
+        "waypointPath": {
+          "confidence": 1.0,
+          "distanceMeters": 1033.4813701052635,
+          "source": "BACKFILLED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 398980064,
+              "lngE7": -797246475
+            },
+            {
+              "latE7": 398915405,
+              "lngE7": -797295074
+            }
+          ]
+        }
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 0.0
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "distance": 1170,
+        "duration": {
+          "endTimestamp": "2015-08-09T05:11:23.371Z",
+          "startTimestamp": "2015-08-09T03:07:59.025Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {
+          "latitudeE7": 398882830,
+          "longitudeE7": -797218615
+        },
+        "startLocation": {
+          "latitudeE7": 398914877,
+          "longitudeE7": -797295230
+        },
+        "waypointPath": {
+          "confidence": 0.0,
+          "distanceMeters": 910.8074694202488,
+          "source": "BACKFILLED",
+          "travelMode": "DRIVE",
+          "waypoints": [
+            {
+              "latE7": 398915405,
+              "lngE7": -797295074
+            },
+            {
+              "latE7": 398882827,
+              "lngE7": -797219161
+            }
+          ]
+        }
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 0.0
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          },
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "MEDIUM",
+        "distance": 20261,
+        "duration": {
+          "endTimestamp": "2015-08-11T01:52:04.374Z",
+          "startTimestamp": "2015-08-11T01:23:20.363Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {},
+        "startLocation": {},
+        "waypointPath": {
+          "confidence": 1.0,
+          "distanceMeters": 23480.73525675824,
+          "source": "BACKFILLED",
+          "travelMode": "DRIVE",
+          "waypoints": [
+            {
+              "latE7": 400265655,
+              "lngE7": -798761596
+            },
+            {
+              "latE7": 398876838,
+              "lngE7": -797219161
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

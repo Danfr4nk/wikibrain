@@ -1,0 +1,2053 @@
+{
+  "retrieved_at": {
+    "user_local": "2026-09-11T23:59:00.331-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-12T03:59:00.331Z"
+  },
+  "timelineObjects": [
+    {
+      "placeVisit": {
+        "centerLatE7": 407711900,
+        "centerLngE7": -739557950,
+        "duration": {
+          "endTimestamp": "2020-05-16T13:19:47.881Z",
+          "startTimestamp": "2020-05-09T04:33:19.293Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "307 E 76th St, New York, NY 10021, USA",
+          "calibratedProbability": 82.411934,
+          "latitudeE7": 407712706,
+          "locationConfidence": 96.05842,
+          "longitudeE7": -739557121,
+          "placeId": "ChIJaa1_Y79YwokRZCH_0K4hSCg",
+          "semanticType": "TYPE_HOME",
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "locationConfidence": 83,
+        "otherCandidateLocations": [
+          {
+            "address": "1454 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 2.7428079,
+            "latitudeE7": 407712137,
+            "locationConfidence": 3.1969862,
+            "longitudeE7": -739563685,
+            "name": "The Stumble Inn",
+            "placeId": "ChIJZ0kHf79YwokRoyp64RkoMeQ"
+          },
+          {
+            "address": "341 E 76th St, New York, NY 10021, USA",
+            "calibratedProbability": 0.11708891,
+            "latitudeE7": 407711791,
+            "locationConfidence": 0.13647752,
+            "longitudeE7": -739554448,
+            "placeId": "ChIJHwhfYb9YwokRyxep79xZIRQ",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          },
+          {
+            "address": "1471 1st Ave., New York, NY 10075, USA",
+            "calibratedProbability": 0.08892385,
+            "latitudeE7": 407708968,
+            "locationConfidence": 0.10364864,
+            "longitudeE7": -739540829,
+            "name": "American Trash",
+            "placeId": "ChIJh6f1Vr9YwokRfFLjX-COPaI",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          },
+          {
+            "address": "404 E 76th St, New York, NY 10021, USA",
+            "calibratedProbability": 0.08060479,
+            "latitudeE7": 407700164,
+            "locationConfidence": 0.093952045,
+            "longitudeE7": -739537216,
+            "name": "The Impala",
+            "placeId": "ChIJOYerTcdYwokRpEFtj9N5edw"
+          }
+        ],
+        "placeConfidence": "HIGH_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 92
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          }
+        ],
+        "activityType": "WALKING",
+        "confidence": "HIGH",
+        "distance": 1264,
+        "duration": {
+          "endTimestamp": "2020-05-16T13:29:16Z",
+          "startTimestamp": "2020-05-16T13:19:47.881Z"
+        },
+        "editActionMetadata": {
+          "activitySegment": {
+            "activityConfidence": 0.0,
+            "activityType": "WALKING"
+          },
+          "editHistory": {
+            "editEvent": [
+              {
+                "editOperation": [
+                  "MODIFY_UNCHANGED"
+                ],
+                "uiConfiguration": {
+                  "uiActivitySegmentConfiguration": "UNPERSONALIZED_EDIT_ACTIVITY_SEGMENT"
+                }
+              }
+            ]
+          }
+        },
+        "editConfirmationStatus": "CONFIRMED",
+        "endLocation": {
+          "latitudeE7": 407715140,
+          "longitudeE7": -739650931,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "lastEditedTimestamp": "2020-05-27T05:17:00.671Z",
+        "simplifiedRawPath": {
+          "points": [
+            {
+              "accuracyMeters": 11,
+              "latE7": 407694969,
+              "lngE7": -739579773,
+              "timestamp": "2020-05-16T13:21:17.137Z"
+            }
+          ]
+        },
+        "startLocation": {
+          "latitudeE7": 407705428,
+          "longitudeE7": -739546629,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "waypointPath": {
+          "distanceMeters": 1036.1559871473726,
+          "source": "INFERRED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 407711639,
+              "lngE7": -739558486
+            },
+            {
+              "latE7": 407704582,
+              "lngE7": -739572219
+            },
+            {
+              "latE7": 407693939,
+              "lngE7": -739580001
+            },
+            {
+              "latE7": 407707138,
+              "lngE7": -739629821
+            },
+            {
+              "latE7": 407715797,
+              "lngE7": -739650497
+            }
+          ]
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "duration": {
+          "endTimestamp": "2020-05-16T13:38:43Z",
+          "startTimestamp": "2020-05-16T13:29:16Z"
+        },
+        "editActionMetadata": {
+          "editHistory": {
+            "editEvent": [
+              {
+                "editOperation": [
+                  "CONFIRM"
+                ],
+                "uiConfiguration": {}
+              }
+            ]
+          },
+          "originalCandidates": {
+            "placeVisitSegment": {
+              "placeVisitCandidate": [
+                {
+                  "location": {
+                    "address": "New York, NY, USA",
+                    "locationConfidence": 59.79114,
+                    "name": "Central Park",
+                    "placeId": "ChIJ4zGFAZpYwokRGUGph3Mf37k"
+                  }
+                },
+                {
+                  "location": {
+                    "address": "888 Madison Ave, New York, NY 10021, USA",
+                    "locationConfidence": 3.011736,
+                    "name": "Ralph's Coffee",
+                    "placeId": "ChIJLx2u_exZwokRRATuJZ5qHJQ"
+                  }
+                }
+              ]
+            }
+          },
+          "placeVisitSegment": {
+            "location": {
+              "address": "New York, NY, USA",
+              "locationConfidence": 59.79114,
+              "name": "Central Park",
+              "placeId": "ChIJ4zGFAZpYwokRGUGph3Mf37k"
+            }
+          }
+        },
+        "editConfirmationStatus": "CONFIRMED",
+        "lastEditedTimestamp": "2020-05-16T13:46:58.199Z",
+        "location": {
+          "address": "New York, NY, USA",
+          "calibratedProbability": 100.0,
+          "latitudeE7": 407825547,
+          "locationConfidence": 100.0,
+          "longitudeE7": -739655834,
+          "name": "Central Park",
+          "placeId": "ChIJ4zGFAZpYwokRGUGph3Mf37k"
+        },
+        "locationAssertionType": "WITHIN_OR_AT",
+        "locationConfidence": 100,
+        "otherCandidateLocations": [
+          {
+            "address": "888 Madison Ave, New York, NY 10021, USA",
+            "calibratedProbability": 14.900144,
+            "latitudeE7": 407716586,
+            "locationConfidence": 43.9486,
+            "longitudeE7": -739657658,
+            "name": "Ralph's Coffee",
+            "placeId": "ChIJLx2u_exZwokRRATuJZ5qHJQ",
+            "sourceInfo": {
+              "deviceTag": 1300737410
+            }
+          },
+          {
+            "calibratedProbability": 4.6334877,
+            "isCurrentLocation": true,
+            "latitudeE7": 407721283,
+            "locationConfidence": 13.666666,
+            "longitudeE7": -739657332,
+            "placeId": "ChIJ5RVPqexYwokRLEWfSknDHGE"
+          },
+          {
+            "address": "1000 Madison Ave, New York, NY 10075, USA",
+            "calibratedProbability": 2.5382743,
+            "latitudeE7": 407750816,
+            "locationConfidence": 7.4867463,
+            "longitudeE7": -739626007,
+            "placeId": "ChIJ-Z7VSJRYwokR3bT4KgtQfAo"
+          },
+          {
+            "address": "22 E 73rd St, New York, NY 10021, USA",
+            "calibratedProbability": 0.843432,
+            "latitudeE7": 407724649,
+            "locationConfidence": 2.4877381,
+            "longitudeE7": -739655530,
+            "name": "Permanent Mission of Cameroon to the United Nations",
+            "placeId": "ChIJqSUeVZNYwokRV3i5f4K6nU4"
+          },
+          {
+            "address": "9 E 71st St, New York, NY 10021, USA",
+            "calibratedProbability": 0.6317466,
+            "latitudeE7": 407715636,
+            "locationConfidence": 1.863363,
+            "longitudeE7": -739664545,
+            "placeId": "ChIJX7sBvOxYwokRmPiRe6uuxzM",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          },
+          {
+            "calibratedProbability": 0.5189908,
+            "latitudeE7": 407715636,
+            "locationConfidence": 1.5307852,
+            "longitudeE7": -739664545,
+            "placeId": "ChIJ06LEcN1ZwokR3w1hy74DRP4"
+          },
+          {
+            "address": "864 Madison Ave, New York, NY 10021, USA",
+            "calibratedProbability": 0.4358492,
+            "latitudeE7": 407708058,
+            "locationConfidence": 1.2855555,
+            "longitudeE7": -739663586,
+            "name": "Ladurée",
+            "placeId": "ChIJSZqmkOxYwokRZGIhd_HRkKM"
+          },
+          {
+            "address": "910 5th Ave, New York, NY 10021, USA",
+            "calibratedProbability": 0.29913113,
+            "latitudeE7": 407720172,
+            "locationConfidence": 0.8822998,
+            "longitudeE7": -739650497,
+            "name": "SP+ Parking",
+            "placeId": "ChIJ0-9Ws-xYwokRGaK50HoON7A"
+          },
+          {
+            "address": "New York, NY 10021, USA",
+            "calibratedProbability": 0.15625636,
+            "latitudeE7": 407717900,
+            "locationConfidence": 0.4608847,
+            "longitudeE7": -739652480,
+            "name": "E 72 St/Madison Av",
+            "placeId": "ChIJfS-WV-tYwokRLYYqSN0E6yk"
+          }
+        ],
+        "placeConfidence": "USER_CONFIRMED",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 100
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 82.47772455215454
+          },
+          {
+            "activityType": "RUNNING",
+            "probability": 10.14920324087143
+          },
+          {
+            "activityType": "STILL",
+            "probability": 5.324739962816238
+          },
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 0.6820430513471365
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.6630947347730398
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 0.3591575426980853
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.12540951138362288
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 0.09762545232661068
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 0.03493984113447368
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.030827909358777102
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.022298726253211495
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.014656700659543276
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.011757160245906562
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 0.006323782145045698
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.00019628830614237813
+          }
+        ],
+        "activityType": "WALKING",
+        "confidence": "HIGH",
+        "distance": 1125,
+        "duration": {
+          "endTimestamp": "2020-05-16T13:51:21Z",
+          "startTimestamp": "2020-05-16T13:38:43.314Z"
+        },
+        "endLocation": {
+          "latitudeE7": 407706061,
+          "longitudeE7": -739545863,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "simplifiedRawPath": {
+          "points": [
+            {
+              "accuracyMeters": 14,
+              "latE7": 407714920,
+              "lngE7": -739605331,
+              "timestamp": "2020-05-16T13:42:10.433Z"
+            }
+          ]
+        },
+        "startLocation": {
+          "latitudeE7": 407721721,
+          "longitudeE7": -739660339,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "waypointPath": {
+          "confidence": 0.7984841048053207,
+          "distanceMeters": 1048.495768804182,
+          "roadSegment": [
+            {
+              "duration": "26s",
+              "placeId": "ChIJw4M7ruxYwokR7T1B-_FFuYo"
+            },
+            {
+              "duration": "59s",
+              "placeId": "ChIJNbzRROtYwokRPUJlcs_S4JE"
+            },
+            {
+              "duration": "7s",
+              "placeId": "ChIJxWhoP-tYwokRhglLqtomC00"
+            },
+            {
+              "duration": "34s",
+              "placeId": "ChIJu_HjOetYwokRBJnjAgy21E8"
+            },
+            {
+              "duration": "58s",
+              "placeId": "ChIJs4ONK5VYwokRuDJX1vjsnXI"
+            },
+            {
+              "duration": "63s",
+              "placeId": "ChIJoerIs-pYwokRY7N5Q1HNAFk"
+            },
+            {
+              "duration": "86s",
+              "placeId": "ChIJCxfICsBYwokRvB69_dEs8Mo"
+            },
+            {
+              "duration": "11s",
+              "placeId": "ChIJvd46kMBYwokRxDKk9-Br-Rs"
+            },
+            {
+              "duration": "15s",
+              "placeId": "ChIJYUBRkMBYwokRDcrkrPUDKj8"
+            }
+          ],
+          "source": "INFERRED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 407720947,
+              "lngE7": -739660873
+            },
+            {
+              "latE7": 407716331,
+              "lngE7": -739608764
+            },
+            {
+              "latE7": 407714920,
+              "lngE7": -739605331
+            },
+            {
+              "latE7": 407714080,
+              "lngE7": -739594573
+            },
+            {
+              "latE7": 407704391,
+              "lngE7": -739562683
+            }
+          ]
+        }
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 50.81459879875183
+          },
+          {
+            "activityType": "STILL",
+            "probability": 19.34796571731567
+          },
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 11.18510216474533
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 10.57230830192566
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 2.9819749295711517
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 1.9642364233732224
+          },
+          {
+            "activityType": "RUNNING",
+            "probability": 1.7102910205721855
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.3251158632338047
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.3103346563875675
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 0.28958425391465425
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.25200950913131237
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.1680622925050557
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 0.042216049041599035
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.03458960563875735
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0016107749615912326
+          }
+        ],
+        "activityType": "WALKING",
+        "confidence": "LOW",
+        "distance": 252,
+        "duration": {
+          "endTimestamp": "2020-05-21T23:01:31Z",
+          "startTimestamp": "2020-05-21T22:10:17.324Z"
+        },
+        "endLocation": {
+          "latitudeE7": 407708273,
+          "longitudeE7": -739551591,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "simplifiedRawPath": {
+          "distanceMeters": 3012.362347211595,
+          "points": [
+            {
+              "accuracyMeters": 65,
+              "latE7": 407749007,
+              "lngE7": -739647016,
+              "timestamp": "2020-05-21T22:19:31Z"
+            },
+            {
+              "accuracyMeters": 75,
+              "latE7": 407736139,
+              "lngE7": -739677237,
+              "timestamp": "2020-05-21T22:24:37Z"
+            },
+            {
+              "accuracyMeters": 65,
+              "latE7": 407720851,
+              "lngE7": -739661023,
+              "timestamp": "2020-05-21T22:27:53Z"
+            },
+            {
+              "accuracyMeters": 65,
+              "latE7": 407724718,
+              "lngE7": -739629188,
+              "timestamp": "2020-05-21T22:32:22Z"
+            },
+            {
+              "accuracyMeters": 65,
+              "latE7": 407698792,
+              "lngE7": -739567540,
+              "timestamp": "2020-05-21T22:40:55Z"
+            },
+            {
+              "accuracyMeters": 65,
+              "latE7": 407699180,
+              "lngE7": -739544088,
+              "timestamp": "2020-05-21T22:44:40Z"
+            },
+            {
+              "accuracyMeters": 21,
+              "latE7": 407701703,
+              "lngE7": -739542112,
+              "timestamp": "2020-05-21T22:48:33Z"
+            },
+            {
+              "accuracyMeters": 65,
+              "latE7": 407692348,
+              "lngE7": -739520072,
+              "timestamp": "2020-05-21T22:51:52Z"
+            },
+            {
+              "accuracyMeters": 20,
+              "latE7": 407696820,
+              "lngE7": -739542962,
+              "timestamp": "2020-05-21T22:55:03Z"
+            },
+            {
+              "accuracyMeters": 65,
+              "latE7": 407705506,
+              "lngE7": -739544588,
+              "timestamp": "2020-05-21T23:00:31Z"
+            }
+          ],
+          "source": "INFERRED"
+        },
+        "startLocation": {
+          "latitudeE7": 407716809,
+          "longitudeE7": -739572666,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        }
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          }
+        ],
+        "activityType": "WALKING",
+        "confidence": "HIGH",
+        "distance": 240,
+        "duration": {
+          "endTimestamp": "2020-05-23T10:07:42Z",
+          "startTimestamp": "2020-05-23T10:01:39.663Z"
+        },
+        "editActionMetadata": {
+          "activitySegment": {
+            "activityConfidence": 0.0,
+            "activityType": "WALKING"
+          },
+          "editHistory": {
+            "editEvent": [
+              {
+                "editOperation": [
+                  "MODIFY_UNCHANGED"
+                ],
+                "uiConfiguration": {
+                  "uiActivitySegmentConfiguration": "UNPERSONALIZED_EDIT_ACTIVITY_SEGMENT"
+                }
+              }
+            ]
+          }
+        },
+        "editConfirmationStatus": "CONFIRMED",
+        "endLocation": {
+          "latitudeE7": 407690805,
+          "longitudeE7": -739581656,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "lastEditedTimestamp": "2020-05-27T05:16:29.854Z",
+        "startLocation": {
+          "latitudeE7": 407709864,
+          "longitudeE7": -739568260,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "waypointPath": {
+          "distanceMeters": 239.68905751691017,
+          "source": "INFERRED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 407709884,
+              "lngE7": -739568405
+            },
+            {
+              "latE7": 407694511,
+              "lngE7": -739579620
+            },
+            {
+              "latE7": 407690963,
+              "lngE7": -739582061
+            }
+          ]
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 407712275,
+        "centerLngE7": -739558225,
+        "duration": {
+          "endTimestamp": "2020-05-25T17:39:28Z",
+          "startTimestamp": "2020-05-25T15:09:20.478Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "307 E 76th St, New York, NY 10021, USA",
+          "calibratedProbability": 89.40488,
+          "latitudeE7": 407712706,
+          "locationConfidence": 98.59627,
+          "longitudeE7": -739557121,
+          "placeId": "ChIJaa1_Y79YwokRZCH_0K4hSCg",
+          "semanticType": "TYPE_HOME",
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "locationConfidence": 86,
+        "otherCandidateLocations": [
+          {
+            "address": "1454 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 0.23382057,
+            "latitudeE7": 407712137,
+            "locationConfidence": 0.2578588,
+            "longitudeE7": -739563685,
+            "name": "The Stumble Inn",
+            "placeId": "ChIJZ0kHf79YwokRoyp64RkoMeQ"
+          },
+          {
+            "address": "1471 1st Ave., New York, NY 10075, USA",
+            "calibratedProbability": 0.13963898,
+            "latitudeE7": 407708968,
+            "locationConfidence": 0.15399474,
+            "longitudeE7": -739540829,
+            "name": "American Trash",
+            "placeId": "ChIJh6f1Vr9YwokRfFLjX-COPaI",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          },
+          {
+            "address": "404 E 76th St, New York, NY 10021, USA",
+            "calibratedProbability": 0.11677595,
+            "latitudeE7": 407700164,
+            "locationConfidence": 0.12878126,
+            "longitudeE7": -739537216,
+            "name": "The Impala",
+            "placeId": "ChIJOYerTcdYwokRpEFtj9N5edw"
+          },
+          {
+            "address": "341 E 76th St, New York, NY 10021, USA",
+            "calibratedProbability": 0.11474159,
+            "latitudeE7": 407711791,
+            "locationConfidence": 0.12653776,
+            "longitudeE7": -739554448,
+            "placeId": "ChIJHwhfYb9YwokRyxep79xZIRQ",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          }
+        ],
+        "placeConfidence": "HIGH_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 94
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 80.72677254676819
+          },
+          {
+            "activityType": "STILL",
+            "probability": 16.19172990322113
+          },
+          {
+            "activityType": "RUNNING",
+            "probability": 2.3989971727132797
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.3003306919708848
+          },
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 0.22086033131927252
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 0.04520729125943035
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 0.03491266688797623
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.0206661963602528
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.01751388772390783
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.016929850971791893
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.008775363676249981
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 0.007071021536830813
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 0.005954359221505001
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.004032812285004184
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0002549293640186079
+          }
+        ],
+        "activityType": "WALKING",
+        "confidence": "HIGH",
+        "distance": 3464,
+        "duration": {
+          "endTimestamp": "2020-05-25T18:27:04Z",
+          "startTimestamp": "2020-05-25T17:39:28Z"
+        },
+        "endLocation": {
+          "latitudeE7": 407705899,
+          "longitudeE7": -739569878,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "simplifiedRawPath": {
+          "points": [
+            {
+              "accuracyMeters": 59,
+              "latE7": 407744293,
+              "lngE7": -739703064,
+              "timestamp": "2020-05-25T17:58:41.511Z"
+            },
+            {
+              "accuracyMeters": 66,
+              "latE7": 407726822,
+              "lngE7": -739685440,
+              "timestamp": "2020-05-25T18:03:34Z"
+            },
+            {
+              "accuracyMeters": 65,
+              "latE7": 407718239,
+              "lngE7": -739681854,
+              "timestamp": "2020-05-25T18:04:05Z"
+            },
+            {
+              "accuracyMeters": 65,
+              "latE7": 407684631,
+              "lngE7": -739636383,
+              "timestamp": "2020-05-25T18:15:26Z"
+            }
+          ]
+        },
+        "startLocation": {
+          "latitudeE7": 407711866,
+          "longitudeE7": -739558321,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "waypointPath": {
+          "confidence": 0.9999214600829632,
+          "distanceMeters": 3270.9866735882274,
+          "roadSegment": [
+            {
+              "duration": "894s",
+              "placeId": "ChIJxw0djr9YwokRloo5MaEWL_4"
+            },
+            {
+              "duration": "1804s",
+              "placeId": "ChIJ0_SMX5VYwokRw7E0zBL6eDE"
+            },
+            {
+              "duration": "1836s",
+              "placeId": "ChIJDYCYE5VYwokR5Mam5uEwU9A"
+            },
+            {
+              "duration": "204s",
+              "placeId": "ChIJJUc0G5VYwokR4G15Y6vG3EU"
+            },
+            {
+              "duration": "1647s",
+              "placeId": "ChIJf-Fn_JRYwokRmLaZ5b7KJQo"
+            },
+            {
+              "duration": "1773s",
+              "placeId": "ChIJF_QNYpRYwokRjn6p3ysb6tA"
+            },
+            {
+              "duration": "78s",
+              "placeId": "ChIJN4RIeZRYwokR8vQSuEHCUF4"
+            },
+            {
+              "duration": "141s",
+              "placeId": "ChIJ9yFBeZRYwokRgr0BeYLpXTk"
+            },
+            {
+              "duration": "580s",
+              "placeId": "ChIJUUI_eJRYwokR1X287a4oj0k"
+            },
+            {
+              "duration": "313s",
+              "placeId": "ChIJBwA6hpNYwokRnieWUQBH89g"
+            },
+            {
+              "duration": "690s",
+              "placeId": "ChIJCw41hJNYwokRk4BVn1e55GU"
+            },
+            {
+              "duration": "957s",
+              "placeId": "ChIJz80hopNYwokRtLFlMGhh4zU"
+            },
+            {
+              "duration": "1035s",
+              "placeId": "ChIJvXzRqZNYwokRQ6463cGO25M"
+            },
+            {
+              "duration": "78s",
+              "placeId": "ChIJE4LoAZNYwokRzYuc0Z5dVG8"
+            },
+            {
+              "duration": "204s",
+              "placeId": "ChIJrX8x_pJYwokRqZVrnM8UY0k"
+            },
+            {
+              "duration": "502s",
+              "placeId": "ChIJwxiv_pJYwokRbxcm_3rCexs"
+            },
+            {
+              "duration": "439s",
+              "placeId": "ChIJx78K8JJYwokRMzh5d2u9s_k"
+            },
+            {
+              "duration": "439s",
+              "placeId": "ChIJ_-jd7ZJYwokROZbsjHSXGLM"
+            },
+            {
+              "duration": "643s",
+              "placeId": "ChIJhRJik5JYwokRj5qKXhCcrFg"
+            },
+            {
+              "duration": "486s",
+              "placeId": "ChIJ7RQevpJYwokR45fHauMV1ao"
+            },
+            {
+              "duration": "580s",
+              "placeId": "ChIJZa_-u5JYwokRGTyQiyBX0wg"
+            },
+            {
+              "duration": "517s",
+              "placeId": "ChIJAzlJrpJYwokRq6Zzjnc98fo"
+            },
+            {
+              "duration": "925s",
+              "placeId": "ChIJqdO8z5JYwokRGX0U0gxspNg"
+            },
+            {
+              "duration": "549s",
+              "placeId": "ChIJGwNzz5JYwokRR62v63oOkQU"
+            },
+            {
+              "duration": "643s",
+              "placeId": "ChIJhaB81JJYwokR1-25MAia2SU"
+            },
+            {
+              "duration": "204s",
+              "placeId": "ChIJ-67V1JJYwokRyKiJoYyM5Sg"
+            },
+            {
+              "duration": "643s",
+              "placeId": "ChIJhx-1KpNYwokROregcF6fWPU"
+            },
+            {
+              "duration": "235s",
+              "placeId": "ChIJ1fLpKpNYwokRgkwoEF4Jv14"
+            },
+            {
+              "duration": "2526s",
+              "placeId": "ChIJA8HQ2OxYwokRdq_sZrcHkxc"
+            },
+            {
+              "duration": "659s",
+              "placeId": "ChIJsQwcA-1YwokRHFD9UopMyrA"
+            },
+            {
+              "duration": "188s",
+              "placeId": "ChIJtWftAe1YwokRAUxFFTNyteo"
+            },
+            {
+              "duration": "753s",
+              "placeId": "ChIJWWDhV-xYwokRYeKCzxlBZrw"
+            },
+            {
+              "duration": "1035s",
+              "placeId": "ChIJWWDhV-xYwokRy9v5Yo5DEQM"
+            },
+            {
+              "duration": "1616s",
+              "placeId": "ChIJwafgeuxYwokRDaad4zUl2OI"
+            },
+            {
+              "duration": "219s",
+              "placeId": "ChIJnwVqiOtYwokRU98a58zOoEg"
+            },
+            {
+              "duration": "1741s",
+              "placeId": "ChIJ2dOFketYwokRMm93jOuoCuE"
+            },
+            {
+              "duration": "549s",
+              "placeId": "ChIJO28-yOtYwokRt73lGa7sVes"
+            },
+            {
+              "duration": "596s",
+              "placeId": "ChIJO28-yOtYwokRXJowhGY9mF0"
+            },
+            {
+              "duration": "533s",
+              "placeId": "ChIJJSiHyetYwokRtuYBNuZ9yXY"
+            },
+            {
+              "duration": "455s",
+              "placeId": "ChIJRa6AA-pYwokRPo0tnuefin0"
+            },
+            {
+              "duration": "925s",
+              "placeId": "ChIJ441UzsFYwokR01FcPdY2Iaw"
+            },
+            {
+              "duration": "768s",
+              "placeId": "ChIJqZJWNMBYwokRUWhbvIC2lUQ"
+            },
+            {
+              "duration": "156s",
+              "placeId": "ChIJ47gXSMBYwokRBwD-NXlL42I"
+            },
+            {
+              "duration": "768s",
+              "placeId": "ChIJxStcQcBYwokR-exIczUAb-4"
+            },
+            {
+              "duration": "94s",
+              "placeId": "ChIJQxhPaMBYwokRF4jd4Exn4h0"
+            }
+          ],
+          "source": "INFERRED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 407720375,
+              "lngE7": -739579162
+            },
+            {
+              "latE7": 407750968,
+              "lngE7": -739651718
+            },
+            {
+              "latE7": 407743949,
+              "lngE7": -739701614
+            },
+            {
+              "latE7": 407735671,
+              "lngE7": -739705963
+            },
+            {
+              "latE7": 407727432,
+              "lngE7": -739684982
+            },
+            {
+              "latE7": 407727355,
+              "lngE7": -739677200
+            },
+            {
+              "latE7": 407718276,
+              "lngE7": -739681930
+            },
+            {
+              "latE7": 407707633,
+              "lngE7": -739685897
+            },
+            {
+              "latE7": 407685165,
+              "lngE7": -739635848
+            },
+            {
+              "latE7": 407684898,
+              "lngE7": -739586715
+            },
+            {
+              "latE7": 407706031,
+              "lngE7": -739570083
+            }
+          ]
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 407710033,
+        "centerLngE7": -739564333,
+        "duration": {
+          "endTimestamp": "2020-05-25T20:10:25.650Z",
+          "startTimestamp": "2020-05-25T18:27:04Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "307 E 76th St, New York, NY 10021, USA",
+          "calibratedProbability": 57.77277,
+          "latitudeE7": 407712706,
+          "locationConfidence": 83.20526,
+          "longitudeE7": -739557121,
+          "placeId": "ChIJaa1_Y79YwokRZCH_0K4hSCg",
+          "semanticType": "TYPE_HOME",
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "locationConfidence": 68,
+        "otherCandidateLocations": [
+          {
+            "address": "1454 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 5.0160794,
+            "latitudeE7": 407712137,
+            "locationConfidence": 7.224237,
+            "longitudeE7": -739563685,
+            "name": "The Stumble Inn",
+            "placeId": "ChIJZ0kHf79YwokRoyp64RkoMeQ"
+          },
+          {
+            "address": "1450 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 3.1396017,
+            "isCurrentLocation": true,
+            "latitudeE7": 407710359,
+            "locationConfidence": 4.521704,
+            "longitudeE7": -739564936,
+            "name": "Mel's Burger Bar",
+            "placeId": "ChIJqQMTgMBYwokR7HZwBu8zGu4"
+          },
+          {
+            "address": "1450 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 1.6218333,
+            "isCurrentLocation": true,
+            "latitudeE7": 407710785,
+            "locationConfidence": 2.3357902,
+            "longitudeE7": -739564636,
+            "name": "Hanabi",
+            "placeId": "ChIJRY7bf79YwokRm9Y_m9XHTY4"
+          },
+          {
+            "address": "1396 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 0.55391926,
+            "latitudeE7": 407689436,
+            "locationConfidence": 0.7977633,
+            "longitudeE7": -739579714,
+            "name": "CVS",
+            "placeId": "ChIJH_1qNcBYwokRWu7v4rcDpW8"
+          }
+        ],
+        "placeConfidence": "HIGH_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 81
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 52.765750885009766
+          },
+          {
+            "activityType": "STILL",
+            "probability": 45.38651704788208
+          },
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 0.5253318231552839
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.4263442475348711
+          },
+          {
+            "activityType": "RUNNING",
+            "probability": 0.33028849866241217
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.31212426256388426
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 0.05710807745344937
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.05058930837549269
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 0.04391533730085939
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 0.04257467808201909
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.027687064721249044
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.016425111971329898
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 0.010843127529369667
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.004006564267911017
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0004935795004712418
+          }
+        ],
+        "activityType": "WALKING",
+        "confidence": "LOW",
+        "distance": 539,
+        "duration": {
+          "endTimestamp": "2020-05-25T20:23:17Z",
+          "startTimestamp": "2020-05-25T20:10:25.650Z"
+        },
+        "endLocation": {
+          "latitudeE7": 407711907,
+          "longitudeE7": -739559889,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "simplifiedRawPath": {
+          "points": [
+            {
+              "accuracyMeters": 65,
+              "latE7": 407690964,
+              "lngE7": -739581528,
+              "timestamp": "2020-05-25T20:13:41.974Z"
+            }
+          ]
+        },
+        "startLocation": {
+          "latitudeE7": 407709905,
+          "longitudeE7": -739568135,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "waypointPath": {
+          "confidence": 1.0,
+          "distanceMeters": 998.3567145733612,
+          "roadSegment": [
+            {
+              "duration": "66s",
+              "placeId": "ChIJQxhPaMBYwokRF4jd4Exn4h0"
+            },
+            {
+              "duration": "523s",
+              "placeId": "ChIJxStcQcBYwokR-exIczUAb-4"
+            },
+            {
+              "duration": "104s",
+              "placeId": "ChIJ47gXSMBYwokRBwD-NXlL42I"
+            },
+            {
+              "duration": "523s",
+              "placeId": "ChIJqZJWNMBYwokRUWhbvIC2lUQ"
+            },
+            {
+              "duration": "1532s",
+              "placeId": "ChIJw5pGrsFYwokRTzHdow4vO9I"
+            },
+            {
+              "duration": "428s",
+              "placeId": "ChIJnQREG8FYwokRBDKyBsOIbo8"
+            },
+            {
+              "duration": "114s",
+              "placeId": "ChIJnQREG8FYwokRoL1JtxOXgIg"
+            },
+            {
+              "duration": "285s",
+              "placeId": "ChIJaz8fwcBYwokR7xP-I0cWo20"
+            },
+            {
+              "duration": "561s",
+              "placeId": "ChIJW6x1sMBYwokRVrojGdW_0lA"
+            },
+            {
+              "duration": "1227s",
+              "placeId": "ChIJv90unsBYwokRxKRb-cnvWE0"
+            },
+            {
+              "duration": "85s",
+              "placeId": "ChIJv90unsBYwokRTWErubJys-Y"
+            }
+          ],
+          "source": "INFERRED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 407709999,
+              "lngE7": -739568328
+            },
+            {
+              "latE7": 407701110,
+              "lngE7": -739574737
+            },
+            {
+              "latE7": 407688446,
+              "lngE7": -739583587
+            },
+            {
+              "latE7": 407688293,
+              "lngE7": -739553146
+            },
+            {
+              "latE7": 407711524,
+              "lngE7": -739560165
+            }
+          ]
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 407712000,
+        "centerLngE7": -739559000,
+        "duration": {
+          "endTimestamp": "2020-05-26T22:37:25Z",
+          "startTimestamp": "2020-05-25T20:23:17Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "307 E 76th St, New York, NY 10021, USA",
+          "calibratedProbability": 86.901054,
+          "latitudeE7": 407712706,
+          "locationConfidence": 98.48015,
+          "longitudeE7": -739557121,
+          "placeId": "ChIJaa1_Y79YwokRZCH_0K4hSCg",
+          "semanticType": "TYPE_HOME",
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "locationConfidence": 86,
+        "otherCandidateLocations": [
+          {
+            "address": "1454 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 0.7771278,
+            "latitudeE7": 407712137,
+            "locationConfidence": 0.8806759,
+            "longitudeE7": -739563685,
+            "name": "The Stumble Inn",
+            "placeId": "ChIJZ0kHf79YwokRoyp64RkoMeQ"
+          },
+          {
+            "address": "341 E 76th St, New York, NY 10021, USA",
+            "calibratedProbability": 0.104968876,
+            "latitudeE7": 407711791,
+            "locationConfidence": 0.11895541,
+            "longitudeE7": -739554448,
+            "placeId": "ChIJHwhfYb9YwokRyxep79xZIRQ",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          },
+          {
+            "address": "1471 1st Ave., New York, NY 10075, USA",
+            "calibratedProbability": 0.100883864,
+            "latitudeE7": 407708968,
+            "locationConfidence": 0.1143261,
+            "longitudeE7": -739540829,
+            "name": "American Trash",
+            "placeId": "ChIJh6f1Vr9YwokRfFLjX-COPaI",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          },
+          {
+            "calibratedProbability": 0.064881444,
+            "latitudeE7": 407711571,
+            "locationConfidence": 0.07352655,
+            "longitudeE7": -739564340,
+            "placeId": "ChIJRY7bf79YwokR16QASZ9mYqs",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          }
+        ],
+        "placeConfidence": "HIGH_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 93
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 87.57484555244446
+          },
+          {
+            "activityType": "STILL",
+            "probability": 9.094634652137756
+          },
+          {
+            "activityType": "RUNNING",
+            "probability": 2.5374775752425194
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.3283745842054486
+          },
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 0.29386342503130436
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 0.04477916227187961
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 0.041991251055151224
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.028397442656569183
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.019229603640269488
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 0.00975160437519662
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.008073313802015036
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.0071619761001784354
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.006035286787664518
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 0.005162315210327506
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.00022181693566381
+          }
+        ],
+        "activityType": "WALKING",
+        "confidence": "HIGH",
+        "distance": 2730,
+        "duration": {
+          "endTimestamp": "2020-05-26T23:15:41.549Z",
+          "startTimestamp": "2020-05-26T22:37:25Z"
+        },
+        "endLocation": {
+          "latitudeE7": 407710456,
+          "longitudeE7": -739564945,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "simplifiedRawPath": {
+          "points": [
+            {
+              "accuracyMeters": 65,
+              "latE7": 407754631,
+              "lngE7": -739651489,
+              "timestamp": "2020-05-26T22:46:50Z"
+            },
+            {
+              "accuracyMeters": 34,
+              "latE7": 407723579,
+              "lngE7": -739688492,
+              "timestamp": "2020-05-26T22:57:37.106Z"
+            }
+          ]
+        },
+        "startLocation": {
+          "latitudeE7": 407717751,
+          "longitudeE7": -739573862,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "waypointPath": {
+          "confidence": 0.9999356036749094,
+          "distanceMeters": 2565.3103997935746,
+          "roadSegment": [
+            {
+              "duration": "1104s",
+              "placeId": "ChIJ0_SMX5VYwokRw7E0zBL6eDE"
+            },
+            {
+              "duration": "1123s",
+              "placeId": "ChIJDYCYE5VYwokR5Mam5uEwU9A"
+            },
+            {
+              "duration": "124s",
+              "placeId": "ChIJJUc0G5VYwokR4G15Y6vG3EU"
+            },
+            {
+              "duration": "1008s",
+              "placeId": "ChIJf-Fn_JRYwokRmLaZ5b7KJQo"
+            },
+            {
+              "duration": "1085s",
+              "placeId": "ChIJF_QNYpRYwokRjn6p3ysb6tA"
+            },
+            {
+              "duration": "48s",
+              "placeId": "ChIJN4RIeZRYwokR8vQSuEHCUF4"
+            },
+            {
+              "duration": "86s",
+              "placeId": "ChIJ9yFBeZRYwokRgr0BeYLpXTk"
+            },
+            {
+              "duration": "355s",
+              "placeId": "ChIJUUI_eJRYwokR1X287a4oj0k"
+            },
+            {
+              "duration": "192s",
+              "placeId": "ChIJBwA6hpNYwokRnieWUQBH89g"
+            },
+            {
+              "duration": "720s",
+              "placeId": "ChIJfVQehJNYwokRGkwe_pBxM_A"
+            },
+            {
+              "duration": "124s",
+              "placeId": "ChIJvZuKcZNYwokRn3kX8n64jn8"
+            },
+            {
+              "duration": "537s",
+              "placeId": "ChIJs6RZa5NYwokR8VIjTYj8djY"
+            },
+            {
+              "duration": "192s",
+              "placeId": "ChIJ60v4PpNYwokREWxcQDqShdk"
+            },
+            {
+              "duration": "951s",
+              "placeId": "ChIJZ_qmMJNYwokRX0FAr7_7agc"
+            },
+            {
+              "duration": "86s",
+              "placeId": "ChIJK-Z6MpNYwokR045WhuoH34A"
+            },
+            {
+              "duration": "566s",
+              "placeId": "ChIJZyN0K5NYwokRzya4OIqe7ZU"
+            },
+            {
+              "duration": "38s",
+              "placeId": "ChIJt1391JJYwokRagbMacx1U8k"
+            },
+            {
+              "duration": "124s",
+              "placeId": "ChIJ-67V1JJYwokRyKiJoYyM5Sg"
+            },
+            {
+              "duration": "489s",
+              "placeId": "ChIJx6hUKe1YwokRjNagPvn6oLw"
+            },
+            {
+              "duration": "86s",
+              "placeId": "ChIJN8qOL-1YwokR88du7cmsHuk"
+            },
+            {
+              "duration": "163s",
+              "placeId": "ChIJFQROLu1YwokRR0Mx0NY1SXU"
+            },
+            {
+              "duration": "268s",
+              "placeId": "ChIJ3UmBK-1YwokRkuMxZqFgUmA"
+            },
+            {
+              "duration": "393s",
+              "placeId": "ChIJhx-1KpNYwokROregcF6fWPU"
+            },
+            {
+              "duration": "144s",
+              "placeId": "ChIJ1fLpKpNYwokRgkwoEF4Jv14"
+            },
+            {
+              "duration": "365s",
+              "placeId": "ChIJHR25zOxYwokRgph5iQtR-No"
+            },
+            {
+              "duration": "259s",
+              "placeId": "ChIJyfF4yuxYwokRCxinR5v6LnM"
+            },
+            {
+              "duration": "778s",
+              "placeId": "ChIJw4M7ruxYwokR7T1B-_FFuYo"
+            },
+            {
+              "duration": "989s",
+              "placeId": "ChIJNbzRROtYwokRPUJlcs_S4JE"
+            },
+            {
+              "duration": "124s",
+              "placeId": "ChIJxWhoP-tYwokRhglLqtomC00"
+            },
+            {
+              "duration": "1047s",
+              "placeId": "ChIJc46fIutYwokRnU-zcc2ESr0"
+            },
+            {
+              "duration": "720s",
+              "placeId": "ChIJUWNn7-pYwokR7foJ0VDW9T4"
+            },
+            {
+              "duration": "365s",
+              "placeId": "ChIJWUCekupYwokR7_AjxGJmIqA"
+            },
+            {
+              "duration": "701s",
+              "placeId": "ChIJGzI2hOpYwokRAEmmFVWj7PM"
+            },
+            {
+              "duration": "259s",
+              "placeId": "ChIJwZkLK8BYwokR5AcyiGlW0So"
+            },
+            {
+              "duration": "384s",
+              "placeId": "ChIJH8RTzcFYwokR1IvAKXqMivo"
+            },
+            {
+              "duration": "470s",
+              "placeId": "ChIJqZJWNMBYwokRUWhbvIC2lUQ"
+            },
+            {
+              "duration": "96s",
+              "placeId": "ChIJ47gXSMBYwokRBwD-NXlL42I"
+            },
+            {
+              "duration": "470s",
+              "placeId": "ChIJxStcQcBYwokR-exIczUAb-4"
+            },
+            {
+              "duration": "57s",
+              "placeId": "ChIJQxhPaMBYwokRF4jd4Exn4h0"
+            }
+          ],
+          "source": "INFERRED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 407724571,
+              "lngE7": -739585876
+            },
+            {
+              "latE7": 407727050,
+              "lngE7": -739594955
+            },
+            {
+              "latE7": 407753372,
+              "lngE7": -739653396
+            },
+            {
+              "latE7": 407725028,
+              "lngE7": -739686508
+            },
+            {
+              "latE7": 407723846,
+              "lngE7": -739689407
+            },
+            {
+              "latE7": 407698936,
+              "lngE7": -739608306
+            },
+            {
+              "latE7": 407706985,
+              "lngE7": -739569396
+            }
+          ]
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 407712071,
+        "centerLngE7": -739560971,
+        "duration": {
+          "endTimestamp": "2020-05-29T08:19:08.324Z",
+          "startTimestamp": "2020-05-26T23:15:41.549Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "307 E 76th St, New York, NY 10021, USA",
+          "calibratedProbability": 72.26643,
+          "latitudeE7": 407712706,
+          "locationConfidence": 93.928505,
+          "longitudeE7": -739557121,
+          "placeId": "ChIJaa1_Y79YwokRZCH_0K4hSCg",
+          "semanticType": "TYPE_HOME",
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "locationConfidence": 80,
+        "otherCandidateLocations": [
+          {
+            "address": "1454 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 3.6708314,
+            "latitudeE7": 407712137,
+            "locationConfidence": 4.7711735,
+            "longitudeE7": -739563685,
+            "name": "The Stumble Inn",
+            "placeId": "ChIJZ0kHf79YwokRoyp64RkoMeQ"
+          },
+          {
+            "address": "1450 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 0.28281793,
+            "latitudeE7": 407710359,
+            "locationConfidence": 0.3675934,
+            "longitudeE7": -739564936,
+            "name": "Mel's Burger Bar",
+            "placeId": "ChIJqQMTgMBYwokR7HZwBu8zGu4"
+          },
+          {
+            "calibratedProbability": 0.11468225,
+            "latitudeE7": 407711571,
+            "locationConfidence": 0.14905858,
+            "longitudeE7": -739564340,
+            "placeId": "ChIJRY7bf79YwokR16QASZ9mYqs",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          },
+          {
+            "address": "1471 1st Ave., New York, NY 10075, USA",
+            "calibratedProbability": 0.105163,
+            "latitudeE7": 407708968,
+            "locationConfidence": 0.13668591,
+            "longitudeE7": -739540829,
+            "name": "American Trash",
+            "placeId": "ChIJh6f1Vr9YwokRfFLjX-COPaI",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          }
+        ],
+        "placeConfidence": "HIGH_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 84
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 71.59648537635803
+          },
+          {
+            "activityType": "STILL",
+            "probability": 21.345525979995728
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 3.834261372685432
+          },
+          {
+            "activityType": "RUNNING",
+            "probability": 1.7539534717798233
+          },
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 0.8478743024170399
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 0.23771466221660376
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 0.12317231157794596
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.07030873093754053
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.05988985649310053
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 0.05785952671431005
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.04016856255475432
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.019943626830354333
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 0.00990358312265016
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.002571050572441891
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0003620477400545497
+          }
+        ],
+        "activityType": "WALKING",
+        "confidence": "MEDIUM",
+        "distance": 1166,
+        "duration": {
+          "endTimestamp": "2020-05-29T08:35:25.599Z",
+          "startTimestamp": "2020-05-29T08:19:08.324Z"
+        },
+        "endLocation": {
+          "latitudeE7": 407710822,
+          "longitudeE7": -739562458,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "simplifiedRawPath": {
+          "points": [
+            {
+              "accuracyMeters": 19,
+              "latE7": 407667580,
+              "lngE7": -739597626,
+              "timestamp": "2020-05-29T08:24:28.382Z"
+            }
+          ]
+        },
+        "startLocation": {
+          "latitudeE7": 407711908,
+          "longitudeE7": -739558289,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "waypointPath": {
+          "confidence": 1.0,
+          "distanceMeters": 1418.0820116976731,
+          "roadSegment": [
+            {
+              "duration": "40s",
+              "placeId": "ChIJv90unsBYwokRTGErubJys-Y"
+            },
+            {
+              "duration": "6s",
+              "placeId": "ChIJQxhPaMBYwokRF4jd4Exn4h0"
+            },
+            {
+              "duration": "48s",
+              "placeId": "ChIJxStcQcBYwokR-exIczUAb-4"
+            },
+            {
+              "duration": "9s",
+              "placeId": "ChIJ47gXSMBYwokRBwD-NXlL42I"
+            },
+            {
+              "duration": "48s",
+              "placeId": "ChIJqZJWNMBYwokRUWhbvIC2lUQ"
+            },
+            {
+              "duration": "58s",
+              "placeId": "ChIJ441UzsFYwokR01FcPdY2Iaw"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJ50sjAupYwokRNyk7hWUfUOg"
+            },
+            {
+              "duration": "19s",
+              "placeId": "ChIJ50sjAupYwokRnBX37dEVuak"
+            },
+            {
+              "duration": "20s",
+              "placeId": "ChIJR_SQ-OlYwokR5t8dpXgJOqQ"
+            },
+            {
+              "duration": "7s",
+              "placeId": "ChIJIwp1-ulYwokRmPSwzWQejF0"
+            },
+            {
+              "duration": "7s",
+              "placeId": "ChIJIwp1-ulYwokRmfSwzWQejF0"
+            },
+            {
+              "duration": "18s",
+              "placeId": "ChIJR_SQ-OlYwokR598dpXgJOqQ"
+            },
+            {
+              "duration": "17s",
+              "placeId": "ChIJ50sjAupYwokRnRX37dEVuak"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJ50sjAupYwokRNik7hWUfUOg"
+            },
+            {
+              "duration": "52s",
+              "placeId": "ChIJ441UzsFYwokR01FcPdY2Iaw"
+            },
+            {
+              "duration": "43s",
+              "placeId": "ChIJqZJWNMBYwokRUWhbvIC2lUQ"
+            },
+            {
+              "duration": "8s",
+              "placeId": "ChIJ47gXSMBYwokRBwD-NXlL42I"
+            },
+            {
+              "duration": "43s",
+              "placeId": "ChIJxStcQcBYwokR-exIczUAb-4"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJQxhPaMBYwokRF4jd4Exn4h0"
+            },
+            {
+              "duration": "21s",
+              "placeId": "ChIJv90unsBYwokRTWErubJys-Y"
+            }
+          ],
+          "source": "INFERRED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 407711639,
+              "lngE7": -739558486
+            },
+            {
+              "latE7": 407668838,
+              "lngE7": -739598388
+            },
+            {
+              "latE7": 407668838,
+              "lngE7": -739598388
+            },
+            {
+              "latE7": 407712135,
+              "lngE7": -739561538
+            }
+          ]
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 407709972,
+        "centerLngE7": -739555583,
+        "duration": {
+          "endTimestamp": "2020-06-01T19:18:02.725Z",
+          "startTimestamp": "2020-05-29T08:35:25.599Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "307 E 76th St, New York, NY 10021, USA",
+          "calibratedProbability": 75.88001,
+          "latitudeE7": 407712706,
+          "locationConfidence": 99.1181,
+          "longitudeE7": -739557121,
+          "placeId": "ChIJaa1_Y79YwokRZCH_0K4hSCg",
+          "semanticType": "TYPE_HOME",
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "locationConfidence": 87,
+        "otherCandidateLocations": [
+          {
+            "address": "1454 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 0.14403312,
+            "latitudeE7": 407712137,
+            "locationConfidence": 0.18814296,
+            "longitudeE7": -739563685,
+            "name": "The Stumble Inn",
+            "placeId": "ChIJZ0kHf79YwokRoyp64RkoMeQ"
+          },
+          {
+            "address": "341 E 76th St, New York, NY 10021, USA",
+            "calibratedProbability": 0.10330248,
+            "latitudeE7": 407711791,
+            "locationConfidence": 0.13493864,
+            "longitudeE7": -739554448,
+            "placeId": "ChIJHwhfYb9YwokRyxep79xZIRQ",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          },
+          {
+            "address": "1471 1st Ave., New York, NY 10075, USA",
+            "calibratedProbability": 0.10208813,
+            "latitudeE7": 407708968,
+            "locationConfidence": 0.1333524,
+            "longitudeE7": -739540829,
+            "name": "American Trash",
+            "placeId": "ChIJh6f1Vr9YwokRfFLjX-COPaI",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          },
+          {
+            "address": "404 E 76th St, New York, NY 10021, USA",
+            "calibratedProbability": 0.05144609,
+            "latitudeE7": 407700164,
+            "locationConfidence": 0.067201346,
+            "longitudeE7": -739537216,
+            "name": "The Impala",
+            "placeId": "ChIJOYerTcdYwokRpEFtj9N5edw"
+          }
+        ],
+        "placeConfidence": "HIGH_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 80
+      }
+    }
+  ]
+}

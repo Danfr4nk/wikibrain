@@ -1,0 +1,158 @@
+{
+  "retrieved_at": {
+    "user_local": "2026-09-11T23:59:25.051-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-12T03:59:25.051Z"
+  },
+  "timelineObjects": [
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "duration": {
+          "endTimestamp": "2015-01-04T00:12:46.575Z",
+          "startTimestamp": "2015-01-03T02:16:44.292Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {},
+        "startLocation": {}
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 398654000,
+        "centerLngE7": -797135500,
+        "duration": {
+          "endTimestamp": "2015-01-04T02:25:23.626Z",
+          "startTimestamp": "2015-01-04T00:12:46.575Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "latitudeE7": 398654268,
+          "locationConfidence": 81.24906,
+          "longitudeE7": -797150111,
+          "placeId": "ChIJHX9MC5M_NYgRdI5wmidgzAQ"
+        },
+        "locationConfidence": 73,
+        "otherCandidateLocations": [
+          {
+            "address": "181 Stadium Dr, Uniontown, PA 15401, USA",
+            "latitudeE7": 398648760,
+            "locationConfidence": 10.31373,
+            "longitudeE7": -797135154,
+            "name": "South Union Township Sports Academy",
+            "placeId": "ChIJtyAruJM_NYgRTaAsg9qnUZE"
+          },
+          {
+            "address": "159 Stadium Dr, Uniontown, PA 15401, USA",
+            "latitudeE7": 398663234,
+            "locationConfidence": 5.1662855,
+            "longitudeE7": -797135507,
+            "name": "R C Precision Machining",
+            "placeId": "ChIJaS7MjJM_NYgRWfXUepa1qbo"
+          },
+          {
+            "address": "Reservoir Rd, Hopwood, PA 15445, USA",
+            "latitudeE7": 398649492,
+            "locationConfidence": 3.2709212,
+            "longitudeE7": -797115886,
+            "name": "Hopwood Area Recreation Council",
+            "placeId": "ChIJIYj4Y5E_NYgRUz4D_Q1q-XA"
+          }
+        ],
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 60
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "duration": {
+          "endTimestamp": "2015-01-04T18:48:25.412Z",
+          "startTimestamp": "2015-01-04T02:25:23.626Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {
+          "latitudeE7": 400365418,
+          "longitudeE7": -795831201
+        },
+        "startLocation": {
+          "latitudeE7": 398654268,
+          "locationConfidence": 81.24906,
+          "longitudeE7": -797150111,
+          "placeId": "ChIJHX9MC5M_NYgRdI5wmidgzAQ"
+        }
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "UNKNOWN_ACTIVITY_TYPE",
+            "probability": 0.0
+          }
+        ],
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "duration": {
+          "endTimestamp": "2015-02-16T00:21:31.723Z",
+          "startTimestamp": "2015-01-04T18:48:25.412Z"
+        },
+        "endLocation": {
+          "latitudeE7": 398606409,
+          "longitudeE7": -799539339
+        },
+        "simplifiedRawPath": {
+          "distanceMeters": 41780.62574402471,
+          "points": [
+            {
+              "accuracyMeters": 165,
+              "latE7": 398798293,
+              "lngE7": -797321625,
+              "timestamp": "2015-01-04T20:34:01.751Z"
+            },
+            {
+              "accuracyMeters": 165,
+              "latE7": 398758206,
+              "lngE7": -797259947,
+              "timestamp": "2015-01-04T20:35:01.801Z"
+            }
+          ],
+          "source": "BACKFILLED"
+        },
+        "startLocation": {
+          "latitudeE7": 400365418,
+          "longitudeE7": -795831201
+        }
+      }
+    }
+  ]
+}
