@@ -1,0 +1,28 @@
+{
+  "source": "Google MyActivity exports (4 files, found in Drive via search, downloaded 2026-09-12)",
+  "ingest_date": "2026-09-12",
+  "files": [
+    {"name": "myactivity-2022-07-20-big.html.gz", "drive_modified": "2022-07-20", "size_bytes": 88876641, "actions": 88425, "note": "largest; Search+Visit heavy"},
+    {"name": "myactivity-2022-07-20-2.html.gz", "drive_modified": "2022-07-20", "size_bytes": 10523801, "actions": 10757, "note": "YouTube-watch heavy"},
+    {"name": "myactivity-2025-07-30-a.html.gz", "drive_modified": "2025-07-30", "size_bytes": 17145309, "actions": 17401, "note": "reverse-chronological, newest first"},
+    {"name": "myactivity-2025-07-30-b.html.gz", "drive_modified": "2025-07-30", "size_bytes": 10826865, "actions": 1672, "note": "reverse-chronological, newest first"}
+  ],
+  "parsed": "myactivity-unique.jsonl.gz",
+  "unique_actions": 108821,
+  "coverage": "2006-09-10T22:04:51Z to 2025-07-27T04:00:43Z",
+  "action_breakdown": {
+    "Searched for": 52646, "Visited": 38372, "Watched": 16302, "Viewed": 949,
+    "Disliked": 168, "Liked": 148, "Subscribed to": 138, "Defined": 86,
+    "Viewed job details": 5, "Saved": 3, "Viewed more information about": 3,
+    "Confirmed delivery info and viewed menu": 1
+  },
+  "dedup": "key = (timestamp_iso, action, text[:200], url[:200]); 118255 parsed -> 108821 unique; 9434 duplicates across overlapping files",
+  "parser": "timestamp converted from America/New_York (EST/EDT per record) to UTC ISO; redirect-wrapped urls unwrapped to destination",
+  "compression": "gzip -9; gunzip to read",
+  "caveats": [
+    "2023-2024 volume collapses across ALL action types simultaneously (2024: 661 actions) - a logging/settings change, not behavior; post-2022 data is not a reliable behavior record",
+    "Coverage ends 2025-07-27: the Oct-Dec 2025 dance-music re-entry is NOT covered",
+    "YouTube 'Watched' titles include ad impressions labeled 'From Google Ads' in the source",
+    "Earliest record 2006-09-10"
+  ]
+}
