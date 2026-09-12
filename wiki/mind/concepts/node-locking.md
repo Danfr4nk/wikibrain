@@ -117,8 +117,8 @@ additional nodes not yet cataloged here.
 > 02:24:54 — fifty-eight seconds before "I fell asleep," and roughly
 > twenty-three minutes after being told the receipts had exposed the claim.
 > Two subsequent messages generate none. Whether the receipts were toggled off
-> or the thread simply was not opened is **undetermined and left
-> undetermined** — the argument that would have settled it is void under
+> or the thread simply was not opened is **undetermined and left**
+> **undetermined** — the argument that would have settled it is void under
 > [[wiki/mind/synthesis/read-receipt-forensics]] finding M2. Logged alongside
 > the Suzy-call NACK and the ten-day January 2026 blackout. Full account:
 > [[wiki/timeline/events/august-2026-unmasking]].

@@ -73,8 +73,8 @@ connections:
 > [[wiki/interests/music/overview]] (2026-08-23). That page gained one section —
 > a corpus search establishing that the production identity has almost no social
 > trace in fifteen years of messages (one message about making a track, zero
-> about a studio, no play counts). **No alias, genre, date, release or aesthetic
-> claim on that page changed**, and this page reasons only from those. Nothing
+> about a studio, no play counts). **No alias, genre, date, release or aesthetic**
+> **claim on that page changed**, and this page reasons only from those. Nothing
 > here is affected and no claim is withdrawn.
 
 Dan evaluates culture, objects, and people on a single axis, and the axis is
@@ -106,8 +106,8 @@ compiled it into a machine-enforceable rule.**
 In the bootloader material governing how AI systems must behave toward him, the
 instruction is explicit:
 
-> *"The system must immediately pass a check: 'Did you just treat Dan like a
-> normie?' Never explain basics or moralize."*
+> *"The system must immediately pass a check: 'Did you just treat Dan like a*
+> *normie?' Never explain basics or moralize."*
 
 That is the metric leaving the realm of opinion. It is a standing precondition
 a machine must satisfy before it is permitted to continue — an automated
@@ -126,9 +126,9 @@ Ordinary snobbery is a reaction. This is infrastructure.
 
 The corpus states the social use plainly. Under *Splitting via Irony*:
 
-> *"Deploying a confrontational, high-intensity, anti-normie persona filtered
-> through deep irony to preserve personal boundaries and weed out disingenuous
-> participants."*
+> *"Deploying a confrontational, high-intensity, anti-normie persona filtered*
+> *through deep irony to preserve personal boundaries and weed out disingenuous*
+> *participants."*
 
 Three things are packed into that sentence and all three are load-bearing.
 First, the anti-normie posture is **deliberate and deployed**, not merely felt.
@@ -151,8 +151,8 @@ The metric is not a blunt like/dislike; the corpus shows it graded. The
 profile isolates a **"Millennial Cringe" cluster** by name — *cockwomble,
 twatwaffle, douchecanoe, numpty* — with a diagnosis attached:
 
-> *"These are the verbal equivalent of a 'Keep Calm and Carry On' poster. They
-> are designed to sound eccentric but carry zero structural threat."*
+> *"These are the verbal equivalent of a 'Keep Calm and Carry On' poster. They*
+> *are designed to sound eccentric but carry zero structural threat."*
 
 That is a precise and unusual objection. The complaint is not that the words
 are unfunny or overused. It is that they **perform transgression while being
@@ -210,9 +210,9 @@ performed layer, and the unbudging frequency underneath is the identity.
 The corpus contains an explicit denial of the snobbery frame, and it is not
 dismissed here:
 
-> **The Schopenhauer Principle:** *"The deeper one's understanding, the harder
-> it is to engage in common social interactions. They aren't avoiding people
-> from snobbery but from cognitive incompatibility."*
+> **The Schopenhauer Principle:** *"The deeper one's understanding, the harder*
+> *it is to engage in common social interactions. They aren't avoiding people*
+> *from snobbery but from cognitive incompatibility."*
 
 Two readings survive the evidence. Under the **cognitive-incompatibility**
 reading, the filter is protective — a bandwidth-matching device, not a status

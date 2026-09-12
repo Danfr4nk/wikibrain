@@ -37,20 +37,20 @@ Beyond that, Claire is **married to [[wiki/people/garrett]]** and has children �
 Waylon — whom Annie regularly helped care for, a real and recurring commitment
 that runs through the last two years of the corpus at high density.
 
-> **GAP CLOSED [2026-08-23].** This page previously read *"Claire has children —
-> an unnamed niece and nephew."* **They are named.** Alice appears **66 times**
+> **GAP CLOSED [2026-08-23].** This page previously read *"Claire has children —*
+> *an unnamed niece and nephew."* **They are named.** Alice appears **66 times**
 > between October 2023 and July 2025 and Otto **31 times** over the same span;
 > Alice is the elder, born around 2019–2020, and Otto is young enough to be on a
 > fixed 1:00–3:00 nap in March 2025 with a late-October birthday. A third child,
-> **Waylon**, appears exactly twice, both on 2024-07-11 (*"Otto Alice and
-> waylon"*, and Dan's reply *"Waylon Jennings?"*) — too thin to establish whether
+> **Waylon**, appears exactly twice, both on 2024-07-11 (*"Otto Alice and*
+> *waylon"*, and Dan's reply *"Waylon Jennings?"*) — too thin to establish whether
 > he is a third sibling, a cousin or a friend, and deliberately left without a
 > page rather than guessed at.
 
-> **REJECTED [2026-08-23] — the Wednesday-alibi reading is falsified, not merely
-> unverified.** This page has carried an AI-authored dossier's speculation that
-> *"Wednesday visits to help with Claire's kids functioned as a recurring alibi
-> pattern during the relationship's suspicious period."* Tested against the full
+> **REJECTED [2026-08-23] — the Wednesday-alibi reading is falsified, not merely**
+> **unverified.** This page has carried an AI-authored dossier's speculation that
+> *"Wednesday visits to help with Claire's kids functioned as a recurring alibi*
+> *pattern during the relationship's suspicious period."* Tested against the full
 > **217,573-record** dump by day of week:
 >
 > | Term | n | Wednesday share |
@@ -61,8 +61,8 @@ that runs through the last two years of the corpus at high density.
 > | "my niece" / "my nephew" / "Claire's kids" | 4 | **0%** |
 > | Otto | 31 | 16.1% |
 >
-> **Wednesday is the least likely day for Alice and well below baseline for
-> Claire**, whose mentions concentrate on Friday and Saturday (100 of 257, 39%).
+> **Wednesday is the least likely day for Alice and well below baseline for**
+> **Claire**, whose mentions concentrate on Friday and Saturday (100 of 257, 39%).
 > The proposed pattern is not in the record. This rules out one specific
 > mechanism on one specific axis and says nothing else about the
 > [[wiki/timeline/events/eli-incident|Eli]] period, which is untouched by it.

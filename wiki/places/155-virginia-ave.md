@@ -91,9 +91,9 @@ they were Fran's caregivers until her March 2018 fall — paid full-time for rou
 the terminal vigil — Dan was served an eviction notice for 155 Virginia by
 Dian V. Moore, demanding the keys.
 
-> **GAP CLOSED [2026-08-22]:** This page read, until now, *"the residence
-> timeline has him staying until February 2019, so the notice's outcome is
-> undocumented."* It is documented. A Fayette County summary summons filed
+> **GAP CLOSED [2026-08-22]:** This page read, until now, *"the residence*
+> *timeline has him staying until February 2019, so the notice's outcome is*
+> *undocumented."* It is documented. A Fayette County summary summons filed
 > **April 5, 2018** — seven days after the notice — gives the defendant's
 > address as **337 Saratoga Dr, Uniontown PA 15401**
 > ([[wiki/timeline/events/uniontown-hospital-vape-alarm]], docket
@@ -142,9 +142,9 @@ because Dan's own account places that night while Alexis was still being hidden
 at 337 Saratoga and *before* the move here. The contradiction is recorded on
 the arrest page; a lease or a dated message from the move would settle it.
 
-> **A second, differently-dated account of a similarly-shaped episode
-> surfaced 2026-08-28, and it complicates rather than settles the
-> contradiction above.** A 2026-08-27 operator capture
+> **A second, differently-dated account of a similarly-shaped episode**
+> **surfaced 2026-08-28, and it complicates rather than settles the**
+> **contradiction above.** A 2026-08-27 operator capture
 > (`raw/people/captures/2026-08-27_223406_gap-alexis-armel.md`, full account
 > on [[wiki/people/alexis-armel]]) describes Suz throwing Alexis out of the
 > house over a March **2014** washing-machine incident, followed by five

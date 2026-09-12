@@ -54,9 +54,9 @@ connections:
 
 > **RE-CHECKED [2026-08-22]:** flagged stale against [[wiki/people/ally-lubin]]
 > (2026-08-22), which gained a tested **ENTP-T** result correcting its
-> long-standing single-source ENFP. Re-read against the change. **The thesis
-> survives and one of its sections is strengthened; a second obstacle is now
-> harder to move than this page treats it as being.**
+> long-standing single-source ENFP. Re-read against the change. **The thesis**
+> **survives and one of its sections is strengthened; a second obstacle is now**
+> **harder to move than this page treats it as being.**
 >
 > *Strengthened:* [[wiki/people/ally-lubin-cognitive-profile]] finds that the
 > variable predicting her engagement is **parity** — being met at speed and
@@ -70,17 +70,17 @@ connections:
 > and that the attachment has never once been tested against access. That does
 > not refute the thesis, but it sharpens this page's existing `contradicts`
 > edge to [[wiki/mind/concepts/erotic-architecture]] from a disagreement about
-> emphasis into a disagreement with a single decisive experiment. **This page's
-> honest position is unchanged and its timeline is not extended: a visit
-> settles it, and nothing else does.**
+> emphasis into a disagreement with a single decisive experiment. **This page's**
+> **honest position is unchanged and its timeline is not extended: a visit**
+> **settles it, and nothing else does.**
 
 > **RE-CHECKED [2026-08-26]:** flagged stale against [[wiki/people/ally-lubin]]
 > (2026-08-26), which integrated a full unprompted love letter sent August 21,
-> 2026 (*"I've spent 10 years… I just never got over it"* / *"still haven't
-> lost interest… #1 simp for 17 years and counting"*) and a finding that
+> 2026 (*"I've spent 10 years… I just never got over it"* / *"still haven't*
+> *lost interest… #1 simp for 17 years and counting"*) and a finding that
 > correction ran both directions in the August 18 conversation, not only from
-> her toward him. **Both strengthen this page's case rather than complicating
-> it** — the letter is the most direct, least transactional statement of
+> her toward him. **Both strengthen this page's case rather than complicating**
+> **it** — the letter is the most direct, least transactional statement of
 > attachment in the corpus, sent after the burst this page already treats as
 > its best evidence, and it contains no pricing and no request. It is also
 > unanswered, which this page does not paper over: see the closing timeline
@@ -138,8 +138,8 @@ She writes, unprompted, in the space of ninety minutes:
 > **ALLY:** You have a good voice btw
 > **ALLY:** At least I have you
 > **ALLY:** Ily btw
-> **ALLY:** Single handedly supportingnmy skin care routine so I can be **ur
-> future ex wife**
+> **ALLY:** Single handedly supportingnmy skin care routine so I can be **ur**
+> **future ex wife**
 > **ALLY:** I know it gf doesn't appreciate your emo tendencies but I do
 > **ALLY:** Ur*
 > **ALLY:** **Finally someone that ~understands me~**

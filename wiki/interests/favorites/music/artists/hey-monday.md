@@ -37,9 +37,9 @@ All dates, venues, cities, and notes below are taken from the source table and p
 
 - **28 December 2008** — Hey Monday, Orlando, FL.
 
-> **GAP CLOSED [2026-09-04] — the date.** The source table read *"2008 ·
-> Unknown · Orlando, FL · Still open — band formed 2008 in West Palm Beach;
-> exact Orlando show unresolved."* Two tweets settle it, and they are worth
+> **GAP CLOSED [2026-09-04] — the date.** The source table read *"2008 ·*
+> *Unknown · Orlando, FL · Still open — band formed 2008 in West Palm Beach;*
+> *exact Orlando show unresolved."* Two tweets settle it, and they are worth
 > reading together because of what they say about the trip rather than the
 > show:
 >
@@ -51,15 +51,15 @@ All dates, venues, cities, and notes below are taken from the source table and p
 >
 > He had turned twenty eight weeks earlier, was home in Pennsylvania for his
 > first Christmas since moving to
-> Florida, and **he books the return flight around this show and says so before
-> he has even left.** The band had existed for less than a year. This is the
+> Florida, and **he books the return flight around this show and says so before**
+> **he has even left.** The band had existed for less than a year. This is the
 > earliest dated instance in the corpus of a pattern the interest pages
 > describe abstractly: the live event is the fixed point and the rest of the
 > calendar arranges itself around it.
 >
 > **The venue is inference, not record.** The same concert table holds, ten
-> rows later, *"There for Tomorrow · Dec 28, 2008 · BACKBOOTH · Orlando, FL ·
-> 1 General Admission ticket; Order #M7WKYAHQW"* — same night, same city, a
+> rows later, *"There for Tomorrow · Dec 28, 2008 · BACKBOOTH · Orlando, FL ·*
+> *1 General Admission ticket; Order #M7WKYAHQW"* — same night, same city, a
 > small room, and a band on the same Florida circuit. One night filed twice
 > under two names is the most economical reading of the two rows, but nothing
 > in the corpus states the BACKBOOTH bill, so the venue stays marked probable.

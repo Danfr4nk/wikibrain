@@ -382,8 +382,8 @@ graph TD
 
 ## Corrections
 
-> **CORRECTED [2026-08-02] — the maternal line ran through the wrong
-> grandparent.** This page previously drew Fran's descent to Dan through
+> **CORRECTED [2026-08-02] — the maternal line ran through the wrong**
+> **grandparent.** This page previously drew Fran's descent to Dan through
 > **George Dixon Shrum Jr.**, the maternal grandfather. Read directly from the
 > GEDCOM's family records (`Daniel Frank family tree.txt`), it is the other
 > way round: Fran's only recorded child is **Rebecca Diane Van Voorhis**, born

@@ -110,10 +110,10 @@ here, the thing that produced a consequence.
 
 > **CONTRADICTION [2026-08-02] — who was where.**
 > [[wiki/timeline/events/fran-death-vigil]], written from the Photo Thread
-> session, has Dan blowing enormous clouds from a 110-watt SMOK **in the
-> room** while Suz puffed her 10-watt device **in the hospital bathroom**.
-> Both captures behind this page invert that: **Suz in the room, Dan in the
-> bathroom.** The positions are not decorative — a bathroom smoke detector is
+> session, has Dan blowing enormous clouds from a 110-watt SMOK **in the**
+> **room** while Suz puffed her 10-watt device **in the hospital bathroom**.
+> Both captures behind this page invert that: **Suz in the room, Dan in the**
+> **bathroom.** The positions are not decorative — a bathroom smoke detector is
 > exactly where an alarm would trip, so the capture's arrangement is the one
 > that produces the documented outcome, while the vigil's arrangement does
 > not obviously produce it at all. Neither account is contemporaneous and
@@ -123,13 +123,13 @@ here, the thing that produced a consequence.
 ## The legal residue — a filed summary case, docket MJ-14101-NT-0000082-2018
 
 > **GAP CLOSED [2026-08-22]:** This page asked, from its creation until now,
-> *"Whether a summary offense was actually filed with a Fayette County
-> magistrate, or whether the paperwork was an incident report a security guard
-> described in charging language, is unestablished and answerable only from
-> outside the corpus."* It was filed. The operator supplied the summons
+> *"Whether a summary offense was actually filed with a Fayette County*
+> *magistrate, or whether the paperwork was an incident report a security guard*
+> *described in charging language, is unestablished and answerable only from*
+> *outside the corpus."* It was filed. The operator supplied the summons
 > (`raw/legal/documents/2018-04_summons-hospital-smoking.md`): a
-> **Summons for Summary Case — Non-Traffic**, *Commonwealth of Pennsylvania v.
-> Daniel G Frank*, docket **MJ-14101-NT-0000082-2018**, citation **R 2009305-4**,
+> **Summons for Summary Case — Non-Traffic**, *Commonwealth of Pennsylvania v.*
+> *Daniel G Frank*, docket **MJ-14101-NT-0000082-2018**, citation **R 2009305-4**,
 > **case filed 4/5/2018** before **Magisterial District Judge Michael M. Metros**,
 > MDJ-14-1-01, 88 North Gallatin Avenue, Uniontown. The security guard's
 > "charging documents" were charging documents.

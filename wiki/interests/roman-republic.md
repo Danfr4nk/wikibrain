@@ -92,10 +92,10 @@ The table above is a reading list, and this page frames 2024 as a reading
 binge. Dan's own account of how it started puts the reading **second**, and
 rates it **lower**. On 8 April 2024:
 
-> *"After I finished the @HistoriaCivilis Caesar/Octavian series, I started
-> devouring the 'essential' books about the late Roman Republic. The books are
-> wonderful, but none of them has come close to compiling the story in a way
-> that has pulled me in like videos with squares."*
+> *"After I finished the @HistoriaCivilis Caesar/Octavian series, I started*
+> *devouring the 'essential' books about the late Roman Republic. The books are*
+> *wonderful, but none of them has come close to compiling the story in a way*
+> *that has pulled me in like videos with squares."*
 
 **HistoriaCivilis** is a YouTube channel that animates Roman politics as
 coloured squares moving on a map — hence "videos with squares." It is the
@@ -113,13 +113,13 @@ not about the books — which he rated 4s and 5s in the same window.
 The next day he is more specific about what the audio did that the books did
 not:
 
-> *"'Death Throes' helped clear up some of the events which weren't totally
-> clear to me. For example - I wasn't sure why Pompey became the de facto
-> leader of the anti-Caesarian faction, but Carlin lays out the amazing scope
-> of his military achievements in a way I hadn't understood"* (9 April 2024)
+> *"'Death Throes' helped clear up some of the events which weren't totally*
+> *clear to me. For example - I wasn't sure why Pompey became the de facto*
+> *leader of the anti-Caesarian faction, but Carlin lays out the amazing scope*
+> *of his military achievements in a way I hadn't understood"* (9 April 2024)
 
-> *"Carlin does a wonderful job of presenting the proto-Marxian narrative that
-> underlies the whole era in a way that's both fair and fascinating."*
+> *"Carlin does a wonderful job of presenting the proto-Marxian narrative that*
+> *underlies the whole era in a way that's both fair and fascinating."*
 > (9 April 2024)
 
 The second line corroborates this page's own reading of the Parenti rating

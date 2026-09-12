@@ -110,8 +110,8 @@ changelog:
 > **RE-CHECKED [2026-08-23]:** flagged stale against
 > [[wiki/mind/synthesis/dan-annie-fallout-verdict]] (2026-08-23), which moved on
 > one arithmetical point only — the exit-declaration relapse rate corrected from
-> 87% to **100%** (129 episodes, median gap thirty-six seconds). **This page
-> carries no exit-cycle figure**, and the verdict's supply and procurement
+> 87% to **100%** (129 episodes, median gap thirty-six seconds). **This page**
+> **carries no exit-cycle figure**, and the verdict's supply and procurement
 > findings, which are what this page reasons from, are unchanged. Nothing
 > affected, no claim withdrawn.
 
@@ -127,8 +127,8 @@ changelog:
 > here and still is not. No claim withdrawn.
 
 
-> **RE-CHECKED [2026-08-20] — the demand curve's other end closed; no dosage or
-> finance claim moves.** Flagged stale against
+> **RE-CHECKED [2026-08-20] — the demand curve's other end closed; no dosage or**
+> **finance claim moves.** Flagged stale against
 > [[wiki/mind/synthesis/supply-network]], [[wiki/people/annie-ulmer]],
 > [[wiki/people/suzanne-frank]] and
 > [[wiki/mind/synthesis/dan-annie-fallout-verdict]], all moved 2026-08-20 for
@@ -136,9 +136,9 @@ changelog:
 > 2–16 record confirms the pattern already documented rather than changing it:
 > daily $50–$100 procurement, the source ("bop") unchanged, and one line worth
 > having on record because it is the clearest statement of the supply
-> relationship's social cost anywhere in the corpus — *"you do realize that I
-> had to invent someone who I am selling to, because nobody is comfortable
-> selling to you"* (2026-08-09 11:05). The channel closed on 2026-08-19 with the
+> relationship's social cost anywhere in the corpus — *"you do realize that I*
+> *had to invent someone who I am selling to, because nobody is comfortable*
+> *selling to you"* (2026-08-09 11:05). The channel closed on 2026-08-19 with the
 > relationship. What this page cannot yet say is what happens to Dan's own
 > consumption when the person he was buying for is gone; that is the obvious
 > next measurement and the export ends the same day.
@@ -348,7 +348,7 @@ the drive was running on almost nothing: a bag corner and one hitter's
 worth of weed, carried on a 3am errand for no reason, produced a
 felony-adjacent charge out of the smallest quantity in the record.
 
-> **RE-CHECKED [2026-08-21] — premise moved, and it moved *toward* this page.**
+> **RE-CHECKED [2026-08-21] — premise moved, and it moved** *toward* **this page.**
 > [[wiki/people/menore]] and [[wiki/mind/synthesis/supply-network]] were both
 > rewritten on 2026-08-21 and this page reasons from them. Three things
 > changed, and the cocaine reading survives all three intact:
@@ -361,8 +361,8 @@ felony-adjacent charge out of the smallest quantity in the record.
 > 2. **The product silence is now a measurement, and it points somewhere.**
 >    The Menore thread contains **zero** occurrences of *bag*, *ball*, *8ball*
 >    or *weed* across 4,413 messages — total OPSEC, exactly as this page
->    assumed. But Dan names the product freely to *other* people: *"$50 is
->    getting you something like 1.5 to 2 of **menore's bags**"* (2025-04-14)
+>    assumed. But Dan names the product freely to *other* people: *"$50 is*
+>    *getting you something like 1.5 to 2 of **menore's bags**"* (2025-04-14)
 >    and *"no weed or Menore"* (2025-04-24), which both establishes the
 >    packaging unit and rules cannabis out. This page's own arrest record —
 >    *"residue in an empty cocaine bag"* — makes *bag* the corpus's
@@ -421,9 +421,9 @@ Dan states the procurement-as-access thesis in his own voice on the
 night of July 28, 2026, mid-argument, unprompted and against his own
 position:
 
-> *"even the worst thing I've done — getting you drugs — didn't really
-> benefit me nearly as much as it was about that being the only way you
-> would see me."*
+> *"even the worst thing I've done — getting you drugs — didn't really*
+> *benefit me nearly as much as it was about that being the only way you*
+> *would see me."*
 
 The thesis is inferred from the record on
 [[wiki/mind/synthesis/dan-annie-fallout-verdict|the fallout verdict]]

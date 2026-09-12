@@ -89,19 +89,19 @@ connections:
 > **RE-CHECKED [2026-08-28]:** flagged stale against
 > [[wiki/people/suzanne-frank]] (2026-08-28), which added a March 2014
 > Alexis-era eviction/concealment episode — housing and family-drama, no
-> capital event, no figure this page draws on. **No claim on this page is
-> affected.**
+> capital event, no figure this page draws on. **No claim on this page is**
+> **affected.**
 
-> **REVISED [2026-08-23] — the spine gains a second direction it has never
-> recorded.** Flagged stale against [[wiki/people/annie-ulmer]] and
+> **REVISED [2026-08-23] — the spine gains a second direction it has never**
+> **recorded.** Flagged stale against [[wiki/people/annie-ulmer]] and
 > [[wiki/people/rick-frank]] (both 2026-08-23). The Rick change is an alias
 > finding with no capital content and nothing here moves for it. The Annie change
 > does bear on this page.
 >
 > **Annie held paid work through most of 2024** — personal assistance and care for
 > [[wiki/people/libby|Libby]], 116 messages February to December, at a documented
-> rate of *"just over 3 hours today.. she paid me 500"* (2024-05-17) — **on top of
-> a second six-day-a-week job.** The standing account that she was unemployed for
+> rate of *"just over 3 hours today.. she paid me 500"* (2024-05-17) — **on top of**
+> **a second six-day-a-week job.** The standing account that she was unemployed for
 > a full year after the 2023 firing is wrong for that year.
 >
 > **No figure on this page changes and the headline is untouched.** The
@@ -116,20 +116,20 @@ connections:
 > **One forward-dated addition, corrected same-day.** The Libby income stops in
 > **August 2024**, not at the end of the year — the work ended in a screaming
 > match on 08-06 and the last of three unpaid-wages demand letters Dan drafted is
-> dated 08-13. **[[wiki/people/libby|Libby Titus]] then died on 13 October 2024
-> with the balance, on the evidence available, unpaid.** So the spine's inbound
+> dated 08-13. **[[wiki/people/libby|Libby Titus]] then died on 13 October 2024**
+> **with the balance, on the evidence available, unpaid.** So the spine's inbound
 > side does not taper; it is cut off by a death, and the stated rate in the
 > letters (**$75/hour**) does not reconcile with the one payment figure in the
 > messages ($500 for just over three hours), which is held open on her page. The
-> next documented financial event on Annie's side is *"I got the letter I was
-> denied unemployment"* (2025-03-31).
+> next documented financial event on Annie's side is *"I got the letter I was*
+> *denied unemployment"* (2025-03-31).
 
 > **RE-CHECKED [2026-08-22]:** flagged stale against
 > [[wiki/places/337-saratoga-drive]] (2026-08-22). That page gained one dated row
 > — an April 2018 court summons giving 337 Saratoga as Dan's address of record
 > ([[wiki/timeline/events/uniontown-hospital-vape-alarm]]) — and a paragraph
-> explaining why a single document sits in a table of eras. **No capital event
-> is involved and nothing on this page moves.** The spine runs on transfers,
+> explaining why a single document sits in a table of eras. **No capital event**
+> **is involved and nothing on this page moves.** The spine runs on transfers,
 > liquidations and the $465k sale; an address on a summons is not a transaction,
 > creates no claim on the house and changes neither the Chapter 13 account nor
 > the forward claim about the proceeds. No claim withdrawn.
@@ -167,21 +167,21 @@ as gifts and distributions: Fran's "$100/year" protocol and the NS7
 gift, summer wages driving parts deliveries, and ultimately the estate.
 
 The one moment the two lines cross in a single document is dated to the
-> **ADDED [2026-09-04] — five advances the spine did not have, and a
-> contradiction it must carry.** The [[wiki/people/rod-banks]] thread itemises
+> **ADDED [2026-09-04] — five advances the spine did not have, and a**
+> **contradiction it must carry.** The [[wiki/people/rod-banks]] thread itemises
 > **$32,500** of estate advances between 2019-10-12 and 2020-04-17, each one
 > authorised by **Jason Adams** and written by Banks, quoted on that page. This
 > page's timeline carried a single `2020-06-23 · $10,000` line for the period,
 > and the $10,000 in the thread is dated **2020-02-04**. Either there were two
 > $10,000 advances four months apart or one of the two dates is wrong; the
-> corpus does not settle it and this page does not pick. **The advances are now
-> in the timeline above with their dates and the 2020-06-23 line is left
-> standing beside them.** The arithmetic downstream of this page — the
+> corpus does not settle it and this page does not pick. **The advances are now**
+> **in the timeline above with their dates and the 2020-06-23 line is left**
+> **standing beside them.** The arithmetic downstream of this page — the
 > dissipation rate, the lifetime-outflow comparison — has *not* been re-run
 > against the larger figure and should be, in a pass that can rebuild the
 > derivation rather than annotate it. Also: [[wiki/people/fred-adams]], the man
-> this page calls the money spine's institutional valve, **died around 18–21
-> May 2020**, between the last of these advances and the order.
+> this page calls the money spine's institutional valve, **died around 18–21**
+> **May 2020**, between the last of these advances and the order.
 
 day. On **August 21, 2020** the court signed the order distributing
 **$144,069.31** of the Fran estate to Dan. On **August 22, 2020** he
@@ -209,8 +209,8 @@ the estate's direct heir. The outcome was settled two months earlier, on
 Dan's first reaction was the same fear:
 
 > Dan: *"does a court case mean diane challenged it"*
-> Suz: *"No"* · *"This is when that would happen. She isn't going to do that.
-> Rod talks to her. See what he says"*
+> Suz: *"No"* · *"This is when that would happen. She isn't going to do that.*
+> *Rod talks to her. See what he says"*
 
 The court date was the distribution proceeding itself. The order signed four
 days after it, on August 21, and no objection appears anywhere in the corpus
@@ -308,8 +308,8 @@ absorber the record says does not exist.
 > switchboard as carrying money *toward* Dan — "the deep-cycle borrowing
 > (~$750/week) came from her." Both halves fail against the primary record.
 > The $750 figure is a single accusation from 13 December 2018 that
-> `operating_manual.md` generalised into a rate; and the **largest single
-> capital movement between them ran the other way.**
+> `operating_manual.md` generalised into a rate; and the **largest single**
+> **capital movement between them ran the other way.**
 
 In August 2018 — four months after Fran's death and **two years before the
 distribution actually landed** — Dan drew down roughly $20,000 against the
@@ -482,8 +482,8 @@ implicit premise that one node in this system had reserves. None did.
   Fred Adams (Ira's former law partner) as trustee. What remains open is the
   first husband's identity and whether any of the money predates Whyel.
 
-> **RE-CHECKED [2026-08-02] — premise moved, spine intact, one terminal
-> uncertainty added.** [[wiki/people/suzanne-frank]] gained the write-back edges
+> **RE-CHECKED [2026-08-02] — premise moved, spine intact, one terminal**
+> **uncertainty added.** [[wiki/people/suzanne-frank]] gained the write-back edges
 > for 463 Morgantown, the Fran vigil and the 337 sale, plus a note that the Arnu
 > mechanics-lien deadline elapsed on ~27 July 2026 unobserved. The switchboard
 > finding is unaffected — every flow this page traces still runs through her, and

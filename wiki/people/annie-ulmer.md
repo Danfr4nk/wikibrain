@@ -504,15 +504,15 @@ their version and his own is the relationship's first structural problem — and
 it is stated on day five, by both of them, in writing. Detail on
 [[wiki/people/ellen-ulmer]].
 
-> **REVISED [2026-08-02] — the twenty-four-hour switch is Dan's, not
-> Annie's.** This page previously stated, in two places, that *Annie* left her
+> **REVISED [2026-08-02] — the twenty-four-hour switch is Dan's, not**
+> **Annie's.** This page previously stated, in two places, that *Annie* left her
 > existing relationship within twenty-four hours of the introduction. Per the
 > operator, that is backwards: **Dan** left Alexis inside twenty-four hours of
 > meeting Annie. The corpus corroborates the corrected version and never
 > corroborated the old one — Annie is introduced (by Alexis) around
 > **2015-11-24**, Dan meets her in person **2015-11-29**, and his own outbound text the
-> same night reads *"Things are collapsing with lex. You might be seeing a lot
-> more Annie very soon."* The formal breakup ("I'm in love with Annie Ulmer")
+> same night reads *"Things are collapsing with lex. You might be seeing a lot*
+> *more Annie very soon."* The formal breakup ("I'm in love with Annie Ulmer")
 > follows within days. [[wiki/mind/synthesis/bond-switch-2015]] records that the
 > bootloader's **v1 claim was the correct one** — "Dan left Alexis within 24
 > hours of the Annie connection forming" — and that it was withdrawn only
@@ -799,8 +799,8 @@ payments against at $650 a week.
 > April 27, 2025 account — two months after the move, weeks after Paci's
 > final $10,000 accounting letter — already puts the same figure on
 > record: Dan describes the apartment placed on a "shot clock" with
-> "roughly $10,000 already owed," plus a separate **$7,000 Con Edison
-> bill**, as the financial reality that made arguing to stay in New York
+> "roughly $10,000 already owed," plus a separate **$7,000 Con Edison**
+> **bill**, as the financial reality that made arguing to stay in New York
 > "not really even worth the time it would take to debate." The number
 > holding flat between Paci's own settlement letter and Dan's independent
 > April retelling rules out any reading where meaningful payments were
@@ -809,8 +809,8 @@ payments against at $650 a week.
 > utility rather than the landlord; full context at
 > [[wiki/timeline/periods/feb-apr-2025-return-and-rupture]].
 >
-> **RE-CHECKED [2026-08-13] — the debt survives, the "shot clock" does
-> not.** A 2026-08-13 operator capture establishes that the February 2025
+> **RE-CHECKED [2026-08-13] — the debt survives, the "shot clock" does**
+> **not.** A 2026-08-13 operator capture establishes that the February 2025
 > eviction was arranged by Dan rather than imposed on the household
 > ("The move that solved nothing," below). Every figure in this block is
 > unaffected: the ~$10,000 balance, the $650/week payments, the $7,000
@@ -1005,8 +1005,8 @@ happy that we wouldn't have to be apart anymore," the same day). February
 2025 is, on the dossiers' own account, the last moment genuine repair was
 even theoretically on the table.
 
-> **CORRECTED [2026-08-13] — the eviction did not happen to this
-> household. Dan arranged it, and Annie was never told.** Every earlier
+> **CORRECTED [2026-08-13] — the eviction did not happen to this**
+> **household. Dan arranged it, and Annie was never told.** Every earlier
 > version of this page, and of [[wiki/people/john-paci]],
 > [[wiki/places/307-e-76th-st]] and
 > [[wiki/timeline/periods/feb-apr-2025-return-and-rupture]], read the
@@ -1016,8 +1016,8 @@ even theoretically on the table.
 > 2026-08-13 operator capture **[OPERATOR]** states that this is exactly
 > the impression Dan built, and that he built it deliberately. In the
 > days after Eli brought Annie home he called Paci, told him the family
-> could no longer service the balance, and asked him to *pretend to be in
-> the process of filing an eviction* if Annie called. Paci agreed. Dan
+> could no longer service the balance, and asked him to *pretend to be in*
+> *the process of filing an eviction* if Annie called. Paci agreed. Dan
 > then told Annie the eviction was punishment for her having been sick in
 > the hallway that night, stopped paying new rent for two months while
 > letting the balance grow on a debt he had already decided not to pay,
@@ -1027,8 +1027,8 @@ even theoretically on the table.
 > The capture is also explicit that some messages were deleted at the
 > time to keep the plan from her; the Paci thread (`+16314558185`)
 > carries **zero rows between 2024-08-18 10:22 and 2025-02-01 07:26**, a
-> 167-day silence spanning the entire setup **[RAW-CSV,
-> raw/self/message-csv, local time, both directions]**, and the two rows
+> 167-day silence spanning the entire setup **[RAW-CSV,**
+> **raw/self/message-csv, local time, both directions]**, and the two rows
 > that resume it — an answer with no surviving question ("Do it about
 > 9"), then Dan thanking the landlord *for help* twenty-eight minutes
 > later — are the only acknowledgment of the arrangement left in the
@@ -1336,8 +1336,8 @@ her, unprompted, "a compulsive liar with a drug addiction" — completing
 in fourteen days a distortion cycle that had taken Dan a decade to
 escape.
 
-> **CORRECTED [2026-08-13] — "sic semper lupanis" is Dan's line, not
-> Annie's, and Annie has no exit line at all.** This page previously read
+> **CORRECTED [2026-08-13] — "sic semper lupanis" is Dan's line, not**
+> **Annie's, and Annie has no exit line at all.** This page previously read
 > *"Her exit line: 'Goodbye forever… sic semper lupanis.'"* — presenting
 > the closing words of June 1 as Annie's severance of the relationship.
 > They are Dan's. Verified directly against the deep export
@@ -1361,8 +1361,8 @@ escape.
 > line was Annie's and reconciled the column to that decision rather than
 > to the export's schema. Every later page inherited the attribution
 > without re-reading the row. A semantic check points the same way and
-> should have been run at the time: *sic semper lupanis* parodies *sic
-> semper tyrannis*, and its noun (`lupa`, Latin slang for a prostitute)
+> should have been run at the time: *sic semper lupanis* parodies *sic*
+> *semper tyrannis*, and its noun (`lupa`, Latin slang for a prostitute)
 > makes the phrase an insult directed **at** its recipient — natural as a
 > parting shot, incoherent as a self-description.
 >
@@ -1622,8 +1622,8 @@ called the last time"* (02:04), and when he dares her to call them again she
 says *"I absolutely fucking will."* She does not.
 
 > **CORRECTED [2026-08-20], against the primary transcript.** This paragraph
-> previously said she refused *"through a dozen repetitions of the question —
-> to say that Dan ever prostituted her,"* and put Dan's stock line at fourteen
+> previously said she refused *"through a dozen repetitions of the question —*
+> *to say that Dan ever prostituted her,"* and put Dan's stock line at fourteen
 > repetitions. The line is **twenty**. And the refusal was not total: at 04:43,
 > answering *"Yes or no?"*, she says ***"Yes, save it"***, which Coles
 > immediately reads to Dan as assent. The words are ambiguous, they are
@@ -1747,11 +1747,11 @@ An accusation with no stated content cannot be conceded or refused, which is
 why her side of the hour is *"No," "You can't tell me how i feel or felt," "I
 want to be alone."*
 
-> **PARSING TRAP.** At 15:03:43 Annie writes *"YOU DO NOT KNOW ANYTHING ABOUT
-> WHATS GOING ON."* Dan answers *"There's some big secret"* at 15:04:04 and she
+> **PARSING TRAP.** At 15:03:43 Annie writes *"YOU DO NOT KNOW ANYTHING ABOUT*
+> *WHATS GOING ON."* Dan answers *"There's some big secret"* at 15:04:04 and she
 > writes *"okay"* at **15:04:05** — one second later, faster than reading and
-> replying. That *"okay"* is almost certainly answering *"These lies dont work
-> anymore"* four seconds earlier, **not** conceding that a secret exists. Same
+> replying. That *"okay"* is almost certainly answering *"These lies dont work*
+> *anymore"* four seconds earlier, **not** conceding that a secret exists. Same
 > failure mode as the *"He'll?"* misparse of August 8.
 
 **How it actually ends.** *"Goodbye. I am blocking"* at 15:07:37, then:
@@ -1772,8 +1772,8 @@ want to be alone."*
 > is **audience-dependent under pressure** (the rape claim asserted to Dan and
 > denied to Coles inside five hours, timed against a third audience); she still
 > issues **no terminating statement**, and *"I want to be alone"* is the nearest
-> approach in eleven years without being one; and her **self-blame is immediate,
-> total and unprompted** — *"yes it's my fucking fault"* lands twenty-two
+> approach in eleven years without being one; and her **self-blame is immediate,**
+> **total and unprompted** — *"yes it's my fucking fault"* lands twenty-two
 > seconds after *"INWAS TRAPPED / AGAIN"*, which is the strongest argument in
 > the record against reading any of this as strategy. The angriest
 > characterisations on this page's terminal-phase sections — *evil*, *monster*,
@@ -1876,8 +1876,8 @@ going to receive — "the exit was never through the verdict," the final
 audit records. "It was through the door." Its own closing word, written
 as of the last available entry: "still."
 
-> **RE-CHECKED [2026-08-13] — the zero holds, but it is a zero over an
-> export, not over Annie.** "Zero explicit severance signals" is an
+> **RE-CHECKED [2026-08-13] — the zero holds, but it is a zero over an**
+> **export, not over Annie.** "Zero explicit severance signals" is an
 > **absence** claim, and an absence is only ever as wide as the corpus it
 > was searched in. The sweep that produced it read
 > `raw/self/message-csv/imessage_7244346811+2124702449_both_all_now.csv`:
@@ -1885,9 +1885,9 @@ as of the last available entry: "still."
 > (+17244346811 = 31,177 and +12124702449 = 9,896; direction column is
 > from Dan's POV, so *received* = her inbound; timestamps already local)
 > **[RAW-CSV, re-counted directly this pass]**. Against **50,332**
-> in-window received messages across all five handles, that is **81.6%
-> coverage** and **9,259 messages never searched** **[DERIVED, export
-> audit 2026-08-13]**.
+> in-window received messages across all five handles, that is **81.6%**
+> **coverage** and **9,259 messages never searched** **[DERIVED, export**
+> **audit 2026-08-13]**.
 >
 > The unswept remainder is not a rounding error and it is not redundant.
 > It sits on the alternate number **+17249204125** (4,812 received
@@ -1905,9 +1905,9 @@ as of the last available entry: "still."
 > and 2019–2020, which include the Train Plan crisis — the one pre-2025
 > event on this page where an ending was plausibly on the table.
 >
-> So the finding is restated with its scope attached: **across the
-> 41,073-message dual-handle export, Annie never issues an explicit
-> severance signal.** That is still the strongest quantitative fact on
+> So the finding is restated with its scope attached: **across the**
+> **41,073-message dual-handle export, Annie never issues an explicit**
+> **severance signal.** That is still the strongest quantitative fact on
 > this page, it is unaffected by the 2026-08-13 correction above (the one
 > apparent counterexample turned out to be Dan's line), and Dan's own
 > July 28, 2026 testimony — that she has "never once said it" across
@@ -1948,9 +1948,9 @@ inside ([[wiki/self/chats/gemini-18]]).
 
 > **CORRECTED [2026-08-23].** The standing account of Annie's working life —
 > sourced to `raw/self/dox-md/Honest assessment and value judgment analysis.md`
-> and repeated downstream — is that she *"was fired in 2023 and spent a full year
-> unemployed."* **The message record shows her working two jobs through most of
-> 2024**, and the better-paid one has been invisible to this wiki until now.
+> and repeated downstream — is that she *"was fired in 2023 and spent a full year*
+> *unemployed."* **The message record shows her working two jobs through most of**
+> **2024**, and the better-paid one has been invisible to this wiki until now.
 
 From **February to early August 2024** Annie worked as a paid personal assistant
 and informal carer for **[[wiki/people/libby|Libby Titus]]** — the songwriter
@@ -2019,17 +2019,17 @@ as the unemployment letter.
 | Word volume, Jul 26 – Aug 2 2026 | 2.88 : 1 — unchanged by the crisis |
 | Annie's median message length | 4 words, in both the final year and the re-entanglement window |
 
-> **CORRECTED [2026-08-20] — two rows in this table were line counts, not
-> message counts.** The dual-handle archive was given as *"88,549 lines /
-> 88,548 rows… re-verified by direct count"*, treating the two as the same
+> **CORRECTED [2026-08-20] — two rows in this table were line counts, not**
+> **message counts.** The dual-handle archive was given as *"88,549 lines /*
+> *88,548 rows… re-verified by direct count"*, treating the two as the same
 > thing. They are not: message texts contain newlines, and `csv` parsing
 > returns **85,586 records**. The direction split was always right, and proves
 > it — 44,513 + 41,073 = 85,586, not 88,548. The triple-handle archive is
 > **95,067**, not 95,067-as-implied-by-98,522 lines.
 >
 > The second error is the one this repository has documented before and keeps
-> making. The alternate-number thread was given as *"4,812 msgs"*; **4,812 is
-> its received count**. The thread is **9,481 messages**, and Dan's own 4,669
+> making. The alternate-number thread was given as *"4,812 msgs"*; **4,812 is**
+> **its received count**. The thread is **9,481 messages**, and Dan's own 4,669
 > in it were invisible to every pass that quoted the smaller figure. Neither
 > error touches any conclusion on this page — both threads were characterised
 > from their content, not their size — but a page that reports Dan's share of
@@ -2184,16 +2184,16 @@ disposition past the preliminary hearing is unknown.
 
 One gap opened with the 2026-08-13 pass and **closed on 2026-08-20**.
 
-> **GAP CLOSED [2026-08-20] — the severance sweep is complete and the zero
-> held.** The gap read: *"The severance sweep is 81.6% complete: 9,259 of
-> Annie's 50,332 in-window received messages — the +17249204125 thread and both
-> email handles — have never been searched for a severance signal… Nobody
-> should quote the zero without the scope until that sweep is run."* It has
-> been run, adversarially, across **all 48,791 received messages in every
-> export on disk**, using twelve patterns aimed at the claim rather than at any
+> **GAP CLOSED [2026-08-20] — the severance sweep is complete and the zero**
+> **held.** The gap read: *"The severance sweep is 81.6% complete: 9,259 of*
+> *Annie's 50,332 in-window received messages — the +17249204125 thread and both*
+> *email handles — have never been searched for a severance signal… Nobody*
+> *should quote the zero without the scope until that sweep is run."* It has
+> been run, adversarially, across **all 48,791 received messages in every**
+> **export on disk**, using twelve patterns aimed at the claim rather than at any
 > single phrasing (*it's over*, *we're done*, *I'm done*, *don't contact me*,
-> *leave me alone*, *stop texting me*, *I don't love you*, *break up*, *never
-> speak to me*, *goodbye forever*, *I'm blocking you*, *lose my number*).
+> *leave me alone*, *stop texting me*, *I don't love you*, *break up*, *never*
+> *speak to me*, *goodbye forever*, *I'm blocking you*, *lose my number*).
 >
 > 136 raw matches, and **every one is a false positive on inspection** — the
 > two that survived first reading did not survive context. *"It's over"*
@@ -2201,8 +2201,8 @@ One gap opened with the 2026-08-13 pass and **closed on 2026-08-20**.
 > where to shower. *"Please stop texting me"* (2018-08-03 20:54) is a
 > mid-argument request to pause during a camming-setup fight, and the same
 > thread is discussing an ATM run four minutes later. The rest are
-> *"I'll take you, I don't want you to walk in the rain"*, *"it's over
-> drawn"*, *"I'm not trying to break up"* and similar.
+> *"I'll take you, I don't want you to walk in the rain"*, *"it's over*
+> *drawn"*, *"I'm not trying to break up"* and similar.
 >
 > **The zero can now be quoted without a scope caveat**, and it is a stronger
 > result than the page previously claimed: not "no severance signal in the

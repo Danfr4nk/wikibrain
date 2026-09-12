@@ -75,8 +75,8 @@ sits inside.
 
 In late November 2015, Dan's primary attachment target transferred from [[wiki/people/alexis-armel|Alexis]] to [[wiki/people/annie-ulmer|Annie]] inside a single calendar month — the Alexis relationship ending and the Annie bond forming at the same moment. The bootloader corpus names this the **single-bond switch**: not a gradual disengagement followed by a new attachment, but one bond closing as the other opens, with no unattached gap between them. This page is the synthesis of that transition — its timing, its mechanics, and what the shared "lair" at 155 Virginia Avenue reveals about how the switch actually happened.
 
-> **RE-CHECKED [2026-09-04] — the premise moved, and it refines one word
-> rather than the thesis.** [[wiki/people/alexis-armel]] gained a measurement of
+> **RE-CHECKED [2026-09-04] — the premise moved, and it refines one word**
+> **rather than the thesis.** [[wiki/people/alexis-armel]] gained a measurement of
 > the relationship's public register: it stops on **29 November 2013** and holds
 > at zero for the last **twenty-four months**, across 1,132 posts, in years when
 > his distinct-handle count was at an all-time high.
@@ -87,8 +87,8 @@ In late November 2015, Dan's primary attachment target transferred from [[wiki/p
 > archive shows is that *the public trace* of the relationship had ended two
 > years before the bond did — so "sudden" is true of the bond and false of its
 > public surface, and a later pass reaching for the archive to demonstrate the
-> abruptness would find the opposite and should know why in advance. **No claim
-> here is withdrawn.** If anything the separation supports this page's own
+> abruptness would find the opposite and should know why in advance. **No claim**
+> **here is withdrawn.** If anything the separation supports this page's own
 > reading, since a bond that had been publicly invisible for two years closing
 > in a single day is a bond whose visible surface and actual state had come
 > apart well before the switch.
@@ -103,14 +103,14 @@ The switch is a direct behavioral expression of the sx/sp instinctual stack docu
 > about whose exit it was, both assume Annie was unattached. **She was not.**
 > The hand-read of the two-sided corpus ([[wiki/timeline/annie-record]]) has her
 > ending her own relationship in the same week: her family and a partner are
-> with her on the night of the golf-course meeting — *"my fam and dude are here
-> and are going to force me to leave with them"* (2015-11-29 01:35) — Dan refers
-> to him as *"turd boy"* (02:49), and Annie says **"I am going to get rid of him
-> just like you just did"** (02:52). The switch was **mutual and simultaneous**,
+> with her on the night of the golf-course meeting — *"my fam and dude are here*
+> *and are going to force me to leave with them"* (2015-11-29 01:35) — Dan refers
+> to him as *"turd boy"* (02:49), and Annie says **"I am going to get rid of him**
+> **just like you just did"** (02:52). The switch was **mutual and simultaneous**,
 > which the thesis above does not merely survive but is sharpened by: the
 > singular slot was vacated and reoccupied on *both* sides inside the same
-> seventy-two hours. **The man is unnamed in the corpus and is identified by
-> the operator (2026-08-17) as Emilio** — testimony rather than a corpus
+> seventy-two hours. **The man is unnamed in the corpus and is identified by**
+> **the operator (2026-08-17) as Emilio** — testimony rather than a corpus
 > derivation, and load-bearing enough that anything built on it should say so.
 > That identification is what turns the December 2 crisis from bad luck into
 > retaliation: see below.
@@ -163,18 +163,18 @@ The bootloader's reconstructed chronology, cross-checked against the message rec
 | 2015-12-12 | 363 sent | **MASTER_MESSAGES_DB_DUMP.csv, recomputed** |
 | 2015-12-13 | 679 sent | **MASTER_MESSAGES_DB_DUMP.csv, recomputed** |
 
-> **CORRECTED 2026-08-15 — the switch had no precipitating betrayal, and this
-> page was the main carrier of the claim that it did.** Every prior version of
+> **CORRECTED 2026-08-15 — the switch had no precipitating betrayal, and this**
+> **page was the main carrier of the claim that it did.** Every prior version of
 > this table opened with an "Alexis cheating revelation" on 2015-11-28, one day
 > before the Annie introduction, and the adjacency did the causal work
 > throughout the wiki: a betrayal, then a replacement.
 >
 > **The message is retrospective and the event is from 2009.** Read with the two
 > lines that precede it (`all_imessages_complete_dump.txt`, 2015-11-28
-> 19:07–19:08): *"I love this it's the exact opposite way I started my last
-> relationship"* → *"Like I truly trust you"* → *"Lex cheated on me 2 weeks in
-> after I moved her to fla."* The sentence's declared subject is **how the last
-> relationship started**. "Two weeks in" is two weeks into the Alexis
+> 19:07–19:08): *"I love this it's the exact opposite way I started my last*
+> *relationship"* → *"Like I truly trust you"* → *"Lex cheated on me 2 weeks in*
+> *after I moved her to fla."* The sentence's declared subject is **how the last**
+> **relationship started**. "Two weeks in" is two weeks into the Alexis
 > relationship, which began in 2009 at
 > [[wiki/timeline/periods/full-sail-2008-2010|Full Sail]], in the Florida he had
 > moved her to. Per the operator it was an **online-only** episode. It is now
@@ -192,14 +192,14 @@ The bootloader's reconstructed chronology, cross-checked against the message rec
 > moves her to Florida" row by back-computing "2 weeks" from the message
 > timestamp; no source ever asserted it.
 >
-> **What this does to the thesis: it strengthens it, and the page should be read
-> as having been right for the wrong reason.** A switch executed *because the
-> partner cheated* is an ordinary, well-motivated breakup, and it is the weakest
+> **What this does to the thesis: it strengthens it, and the page should be read**
+> **as having been right for the wrong reason.** A switch executed *because the*
+> *partner cheated* is an ordinary, well-motivated breakup, and it is the weakest
 > possible instance of a single-bond mechanism — the cause is external and
 > sufficient on its own. With the betrayal removed, nothing Alexis did in
 > November 2015 explains the ending. Six years closed in roughly seventy-two
-> hours with no precipitating grievance, and the introduction came *from Alexis
-> herself*. That is the singular-slot mechanism operating with no cover story:
+> hours with no precipitating grievance, and the introduction came *from Alexis*
+> *herself*. That is the singular-slot mechanism operating with no cover story:
 > the bond did not end and then get replaced, it was replaced and therefore
 > ended. Every downstream page that leaned on "cheating → switch" was leaning on
 > the one detail that made the switch look normal.
@@ -216,23 +216,23 @@ The bootloader's reconstructed chronology, cross-checked against the message rec
 > answered on this page's finding rather than on
 > [[wiki/mind/synthesis/the-unbroken-bond]]'s, quoting the sentence above: a
 > six-year bond closing in seventy-two hours with nothing prompting it but
-> the arrival of a replacement. If **"the replacement was sourced before the
-> vacancy occurred"** is too strong for the evidence, this page is where it
+> the arrival of a replacement. If **"the replacement was sourced before the**
+> **vacancy occurred"** is too strong for the evidence, this page is where it
 > has to be narrowed, because it is now quoted to a third party. The relevant
 > test stays what it always was: whether anything in the 2015-11-24 →
 > 2015-12-01 window shows a decision to end the Alexis bond that predates
 > Annie's arrival. None has been found.
 >
 > **CORRECTION TO THIS CORRECTION [2026-08-15, same day].** The first version of
-> this block argued the point partly from a message reading *"I know but she
-> leaves for fla this week"* (2016-01-18), taken as Alexis relocating seven
-> weeks after the breakup. **That was wrong, and it was the same error this
-> block exists to fix** — a pronoun resolved to the person the passage was
+> this block argued the point partly from a message reading *"I know but she*
+> *leaves for fla this week"* (2016-01-18), taken as Alexis relocating seven
+> weeks after the breakup. **That was wrong, and it was the same error this**
+> **block exists to fix** — a pronoun resolved to the person the passage was
 > about rather than to the person the conversation was about. In context Dan is
 > texting Annie about needing money for a tux and having gone to *"grams"* for a
-> work list: *"I went to grams and made a list of work to do for her tomorrow /
-> Because I need a tux and shit"* → Annie: *"that's not until the end of
-> February"* → *"I know but she leaves for fla this week."* **"She" is Fran**,
+> work list: *"I went to grams and made a list of work to do for her tomorrow /*
+> *Because I need a tux and shit"* → Annie: *"that's not until the end of*
+> *February"* → *"I know but she leaves for fla this week."* **"She" is Fran**,
 > whose Florida winters are already documented on
 > [[wiki/people/fran-coldren]] — he needed the paid work done before she left.
 > Corrected per the operator, who supplied the governing fact: Alexis's only
@@ -241,8 +241,8 @@ The bootloader's reconstructed chronology, cross-checked against the message rec
 
 The bootloader's own withdrawal-then-reinstatement is the key to the "24 hours" figure. It initially *withdrew* the v1 claim that Dan **"left Alexis within 24 hours of the Annie connection forming"** because an earlier (wrong) dating of the Alexis breakup to summer 2013 created a 2.5-year gap. Recomputing the breakup to **November 2015** reinstates the contemporaneity: the two events are the same week, and the v1 claim was right all along.
 
-> **REVISED [2026-08-02] — the subject of the twenty-four-hour sentence was
-> flipped, and this page helped carry it.** Until today
+> **REVISED [2026-08-02] — the subject of the twenty-four-hour sentence was**
+> **flipped, and this page helped carry it.** Until today
 > [[wiki/people/annie-ulmer]] stated in two places that *Annie* left her existing
 > relationship within twenty-four hours of the introduction, and this page cited
 > that formulation approvingly as a second, independent convergence on the same
@@ -257,14 +257,14 @@ The bootloader's own withdrawal-then-reinstatement is the key to the "24 hours" 
 > mechanism than a switch executed by his new partner, because the mechanism this
 > page describes is **his**: the slot does not go empty, and the replacement is
 > sourced before the vacancy. Nothing in the dated sequence changes — 2015-11-28
-> revelation, 2015-11-29 introduction and the same-night *"you might be seeing a
-> lot more Annie very soon,"* the December 1 breakup — only who the record says
+> revelation, 2015-11-29 introduction and the same-night *"you might be seeing a*
+> *lot more Annie very soon,"* the December 1 breakup — only who the record says
 > was doing it.
 >
-> *[2026-08-15: the "2015-11-28 revelation" beat named in the last sentence of
-> this 2026-08-02 block has since been retracted — see the CORRECTED block
-> above. The rest of that block stands; the twenty-four-hour subject-flip and
-> this correction are independent findings about the same week.]*
+> *[2026-08-15: the "2015-11-28 revelation" beat named in the last sentence of*
+> *this 2026-08-02 block has since been retracted — see the CORRECTED block*
+> *above. The rest of that block stands; the twenty-four-hour subject-flip and*
+> *this correction are independent findings about the same week.]*
 
 ## The onset flood (verified)
 

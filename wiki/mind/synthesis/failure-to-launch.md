@@ -104,8 +104,8 @@ connections:
 > distinction between tenure and satisfaction — the Fran vigil is the one
 > commitment in the corpus reported as satisfying, and the embedded-objective
 > page now argues this is because it is the sole case with no host distinct
-> from its payload and a payload with a findable edge. **No claim on this page
-> is affected.** This page's question is capability and transferability, not
+> from its payload and a payload with a findable edge. **No claim on this page**
+> **is affected.** This page's question is capability and transferability, not
 > satisfaction, and the non-transferability of a payload — the mechanism this
 > page depends on — is untouched by either addition.
 
@@ -194,19 +194,19 @@ reached an audience large enough to leave a trace in it.
 > a year of private noodling. SLOPPP released roughly monthly, ran two
 > recurring mix series, entered the Major Lazer "Aerosol Can" flip into
 > **Beatport contest voting** and canvassed for votes, published a
-> collaboration address (*"Lets collab! danfr4nk@icloud.com for stems and
-> patch trades"*), emailed tracks to other DJs, joined Splice, streamed live
+> collaboration address (*"Lets collab! danfr4nk@icloud.com for stems and*
+> *patch trades"*), emailed tracks to other DJs, joined Splice, streamed live
 > mixes, and was thanked by name by two producers whose support he
 > acknowledged publicly. That is shipping — the exact thing this page names as
 > the bottleneck — sustained for about twelve months.
 >
-> So the finding is not that he never shipped. **He shipped, competitively and
-> outwardly, for a year, and then stopped**, and the absence of audience is
+> So the finding is not that he never shipped. **He shipped, competitively and**
+> **outwardly, for a year, and then stopped**, and the absence of audience is
 > what the shipping bought him. That is a worse result than never trying and a
 > more precise one: the constraint this page identifies survived a year of
 > being directly attacked. Dan's own line from inside it, 25 April 2014, is
-> the fairest summary anyone has offered: *"as a 'nobody' DJ, the aoki scandal
-> is extra annoying."*
+> the fairest summary anyone has offered: *"as a 'nobody' DJ, the aoki scandal*
+> *is extra annoying."*
 
 ---
 
@@ -245,34 +245,34 @@ AI-collaboration period and rules out its having been learned from models.
 > is genuinely rare — and not "is well calibrated," which would be the valuable
 > version and is currently unknown.
 
-> **REVISED [2026-08-23] — the counts were wrong, the asymmetry survives, and
-> the experiment this page recommended does not exist.** The figures above (43
-> vs 2, 15 graded vs zero) were re-derived from the on-disk CSVs and **none of
-> the four reproduces**; the full correction is on
+> **REVISED [2026-08-23] — the counts were wrong, the asymmetry survives, and**
+> **the experiment this page recommended does not exist.** The figures above (43
+> vs 2, 15 graded vs zero) were re-derived from the on-disk CSVs and **none of**
+> **the four reproduces**; the full correction is on
 > [[wiki/mind/concepts/calibrated-confidence]]. Under a strict, symmetric filter
 > — a first-person credence, population shares and cited statistics excluded,
-> applied identically to both directions — the result is **24 graded credences
-> from Dan against 1 from 503 other people**, a rate ratio near 22× rather than
+> applied identically to both directions — the result is **24 graded credences**
+> **from Dan against 1 from 503 other people**, a rate ratio near 22× rather than
 > the infinite one implied by "zero." The original filter had been counting
 > retail discounts, opinion polls, population shares and rhetorical framings.
-> **The thesis holds and is now stronger for having survived a filter built to
-> break it.** The arithmetic under it does not.
+> **The thesis holds and is now stronger for having survived a filter built to**
+> **break it.** The arithmetic under it does not.
 >
 > **The consequential part is the other half.** This page named scoring these
-> instances against outcomes as *"the highest-value cheap experiment named
-> anywhere in this cluster"* and asserted the data already existed. **It does
-> not.** Reading all 24, they are claims about another person's interior
+> instances against outcomes as *"the highest-value cheap experiment named*
+> *anywhere in this cluster"* and asserted the data already existed. **It does**
+> **not.** Reading all 24, they are claims about another person's interior
 > (*"98.7% sure you don't believe any of your catholicism"*), claims about
 > unwitnessed past events (*"99% sure it was a sedative in that"*), and
-> rhetorical framings. **Exactly one is resolvable from the corpus and it
-> resolved false**: on 2018-08-08, *"I am 75% sure this is my last summer at
-> Nemacolin"* — and [[wiki/work/nemacolin-caddying]] dates the job April 2016 to
+> rhetorical framings. **Exactly one is resolvable from the corpus and it**
+> **resolved false**: on 2018-08-08, *"I am 75% sure this is my last summer at*
+> *Nemacolin"* — and [[wiki/work/nemacolin-caddying]] dates the job April 2016 to
 > **November 2019** per his own resume. He worked the next season.
 >
 > n = 1 is not a calibration test. What the re-derivation establishes is less
-> flattering than the experiment would have been and more useful: **the habit is
-> real and genuinely rare, and it is aimed almost entirely at propositions that
-> can never be scored.** Using the scale is a cognitive signature. Using it
+> flattering than the experiment would have been and more useful: **the habit is**
+> **real and genuinely rare, and it is aimed almost entirely at propositions that**
+> **can never be scored.** Using the scale is a cognitive signature. Using it
 > where it could be checked is a different skill, and eleven years of record
 > contain one instance of it. Only a **prospective** log — forward-dated claims
 > with resolution dates, kept from now — can produce a scoreable set.
@@ -295,8 +295,8 @@ in the profile of a real outlier capacity attached to a nearly empty market.
 > **RE-CHECKED [2026-08-27]:** flagged stale against
 > [[wiki/mind/profile/linguistic-profile]] (2026-08-27), which gained a section
 > on a commissioned vocabulary session ([[wiki/interests/language/vocabulary-lexicon]]).
-> **No claim on this page changes, and the new material cuts both ways rather
-> than one.** It is more of the same outlier capacity in a nearly empty market —
+> **No claim on this page changes, and the new material cuts both ways rather**
+> **than one.** It is more of the same outlier capacity in a nearly empty market —
 > an insult register built by mechanism rather than reached for, which is a
 > genuinely unusual thing to be able to do and is worth approximately nothing
 > professionally, exactly this section's argument. But it is also *selected*
@@ -593,12 +593,12 @@ not turn over at the renames — only the periods do. GRIPNOTIC has been
 continuously his since 2016, longer than any job he has held.
 
 > **CORRECTED [2026-08-23].** This paragraph previously concluded that the
-> aliases were *"the only such container in the record"* and that *"the one
-> durable container in the biography is the one nobody has ever measured."* It
+> aliases were *"the only such container in the record"* and that *"the one*
+> *durable container in the biography is the one nobody has ever measured."* It
 > has now been measured — Part V½ above — and the container fails the test. In
 > 98,056 of Dan's own messages there is **one** about making a track, **zero**
-> about being in a studio, **three** lifetime mentions of GRIPNOTIC, and **no
-> play, stream or listener count anywhere in the corpus.** An alias with no
+> about being in a studio, **three** lifetime mentions of GRIPNOTIC, and **no**
+> **play, stream or listener count anywhere in the corpus.** An alias with no
 > audience trace and no external counterparty is not an orbit; it is another
 > payload, installed in a structure he built himself.
 

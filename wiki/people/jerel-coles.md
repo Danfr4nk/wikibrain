@@ -69,8 +69,8 @@ connections:
 
 # Jerel Wayne Coles
 
-> **Status: identified 2026-08-08; confirmed 2026-08-09 as also being the July
-> 2026 antagonist.** Supersedes [[wiki/people/tuquick-17248123683]] outright,
+> **Status: identified 2026-08-08; confirmed 2026-08-09 as also being the July**
+> **2026 antagonist.** Supersedes [[wiki/people/tuquick-17248123683]] outright,
 > on an exact identifier match. Supersedes [[wiki/people/the-unnamed-man]] on
 > **direct operator confirmation** — see [[#Is Coles the unnamed man too?]]
 > for what closed the phone-number identity and what closed the merge, since
@@ -375,20 +375,20 @@ See [[wiki/people/annie-ulmer]] §Target G.
 >
 > - **Annie alleges he has hit her, to his face.** At 02:35, answering his own
 >   *"You're acting like someone's fucking hitting you and shit,"* she says
->   ***"You are."*** He denies it four times immediately (*"No I didn't. No I
->   fucking didn't. No I didn't. So I hit you? Where'd I hit you at then?"*).
+>   ***"You are."*** He denies it four times immediately (*"No I didn't. No I*
+>   *fucking didn't. No I didn't. So I hit you? Where'd I hit you at then?"*).
 >   The allegation is hers and the denial is his; the recording settles neither,
 >   and both belong on this page.
-> - **He admits holding her phone in terms.** When Dan says *"You have her
->   phone asshole. Obviously you are"* (09:16), he answers ***"Yeah, I am"*** —
+> - **He admits holding her phone in terms.** When Dan says *"You have her*
+>   *phone asshole. Obviously you are"* (09:16), he answers ***"Yeah, I am"*** —
 >   at 09:19 and again at 09:31.
-> - **He conditions its return on an answer** — *"Yeah I will, once you answer
->   the question"* (05:08) — and threatens her mother to force one: *"if you
->   don't answer the question, I'm calling your mom"* (05:38).
-> - **He is dared to face police and invites it**: *"if I'm gonna get charged
->   call the police… it's three numbers, 9-1-1. Stop fucking bluffing"*
->   (12:58–13:05). Annie's *"That's exactly why the police were called the last
->   time"* (02:04) is the only indication in the corpus of prior police contact
+> - **He conditions its return on an answer** — *"Yeah I will, once you answer*
+>   *the question"* (05:08) — and threatens her mother to force one: *"if you*
+>   *don't answer the question, I'm calling your mom"* (05:38).
+> - **He is dared to face police and invites it**: *"if I'm gonna get charged*
+>   *call the police… it's three numbers, 9-1-1. Stop fucking bluffing"*
+>   (12:58–13:05). Annie's *"That's exactly why the police were called the last*
+>   *time"* (02:04) is the only indication in the corpus of prior police contact
 >   between them, and it is unverified.
 >
 > He takes **99 of the call's 204 turns** — nearly as many as Annie and Dan
@@ -516,8 +516,8 @@ sent it believing Dan had already emailed her mother the record of her making
 the claim, timed to land before her parents read it. Its function was to shape
 what Coles saw, hours ahead of what her family would see.
 
-> **The corpus now holds four positions on the same claim and scores none of
-> them:** asserted to Dan, repeatedly and over months; denied by Coles in
+> **The corpus now holds four positions on the same claim and scores none of**
+> **them:** asserted to Dan, repeatedly and over months; denied by Coles in
 > writing; denied by Annie here, in the group chat; and re-asserted to Dan
 > afterwards. Recording all four is the finding. Choosing between them from a
 > record produced under this much pressure would not be.

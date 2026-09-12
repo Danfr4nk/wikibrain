@@ -51,10 +51,10 @@ connections:
 
 # The Wiki-Brain
 
-> **RE-CHECKED [2026-08-20] — a structural assumption of the corpus turned out
-> to be false, and this page is where that belongs.** Flagged stale against
-> [[wiki/self/message-corpora/source-coverage-index]] (2026-08-20). **No claim
-> here is withdrawn**, but the system gains a defect worth naming at this level:
+> **RE-CHECKED [2026-08-20] — a structural assumption of the corpus turned out**
+> **to be false, and this page is where that belongs.** Flagged stale against
+> [[wiki/self/message-corpora/source-coverage-index]] (2026-08-20). **No claim**
+> **here is withdrawn**, but the system gains a defect worth naming at this level:
 > **a handle is not a person.** Every message-derived attribution in this wiki
 > assumes the sender of a row is the owner of the handle it came from. At least
 > six inbound rows on Annie's 212 handle across July–August 2026 were typed by a
@@ -64,15 +64,15 @@ connections:
 > automated detector; the three known episodes were each identifiable from
 > register alone. This is the same class of failure as the AI-secondary
 > attribution reversals of 2026-08-19 and the `MASTER_MESSAGES_DB_DUMP` count
-> error — the wiki's recurring defect is not bad data but **confident metadata
-> that answers a slightly different question than the one being asked.**
+> error — the wiki's recurring defect is not bad data but **confident metadata**
+> **that answers a slightly different question than the one being asked.**
 
-> **RE-CHECKED [2026-08-21] — premise moved, and it refines this page's origin
-> claim without overturning it.** [[wiki/self/concepts/llm]] moved on
+> **RE-CHECKED [2026-08-21] — premise moved, and it refines this page's origin**
+> **claim without overturning it.** [[wiki/self/concepts/llm]] moved on
 > 2026-08-21: Gemini's 'chicken nugget' passage was corrected off Dan's ledger,
 > and the post-GPT-5 causation of ChatGPT's decline was marked untested. This
-> page carries an edge claiming ChatGPT is *"where the bootloader concept was
-> first prototyped, which makes it the wiki-brain's own origin point."* That
+> page carries an edge claiming ChatGPT is *"where the bootloader concept was*
+> *first prototyped, which makes it the wiki-brain's own origin point."* That
 > survives, with one dating refinement now available from the 375-thread
 > export: Dan's ChatGPT use starts **2022-12-10**, ten days after launch, and
 > the first eleven threads are puns, voice-over rewrites and a video essay. The

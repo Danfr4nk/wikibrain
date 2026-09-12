@@ -119,8 +119,8 @@ gap between it and its blueprint.
 | | Sympathy | 6 |
 | | Trust | 9 |
 
-> **CONTRADICTION [2026-08-02] — the table may have no column for the thing
-> doing the work.** [[wiki/mind/concepts/acquisition-drive]] records the
+> **CONTRADICTION [2026-08-02] — the table may have no column for the thing**
+> **doing the work.** [[wiki/mind/concepts/acquisition-drive]] records the
 > operator's own claim, offered with an explicit disclaimer against
 > hyperbole, that his "resilience for the goal" sits at the 95th percentile
 > or above — a persistence dimension that appears nowhere in the Big30 facet

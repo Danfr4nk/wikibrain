@@ -182,10 +182,10 @@ the sequence flatly: Danielle ends, Dan having cheated, and Alexis begins.
 [[wiki/people/danielle-onesi|Danielle Onesi]] and Alexis are listed together
 on Dan's own Facebook profile under "Previous relationships," in that order.
 
-> **GAP CLOSED [2026-08-28] — the meeting is now dated and staged, narrowing
-> a gap [[wiki/timeline/periods/full-sail-2008-2010]] stated directly:** *"No
-> message corpus or dated record narrows the 'Danielle ends, Alexis begins'
-> sequence to specific weeks within the eighteen-month window."* An operator
+> **GAP CLOSED [2026-08-28] — the meeting is now dated and staged, narrowing**
+> **a gap [[wiki/timeline/periods/full-sail-2008-2010]] stated directly:** *"No*
+> *message corpus or dated record narrows the 'Danielle ends, Alexis begins'*
+> *sequence to specific weeks within the eighteen-month window."* An operator
 > capture volunteered 2026-08-27 supplies the missing sequence. Dan graduated
 > Full Sail in **August 2009** and was living in Orlando when he came home to
 > PA for **Thanksgiving**, a few months later — the trip on which he meets
@@ -198,9 +198,9 @@ on Dan's own Facebook profile under "Previous relationships," in that order.
 > [[wiki/health/chemical-architecture]] already dates Suboxone stabilization
 > to February 17, 2010, "at Full Sail's end," without naming what the final
 > active-use episode before it was. This capture names it: Alexis brings
-> **thirty Roxicet pills** with her over the Thanksgiving weekend, and *"the
-> opiate addiction that Dan had truly kicked while in college is back in
-> force."* A supply line forms almost immediately in Orlando — a friend
+> **thirty Roxicet pills** with her over the Thanksgiving weekend, and *"the*
+> *opiate addiction that Dan had truly kicked while in college is back in*
+> *force."* A supply line forms almost immediately in Orlando — a friend
 > called **Spetch**, described as a childhood friend and roommate of
 > [[wiki/people/jason-bermejo|Jason Bermejo]], drives from Winter Park to
 > Ocala daily to keep it running. The full causal chain — Thanksgiving
@@ -231,8 +231,8 @@ on Dan's own Facebook profile under "Previous relationships," in that order.
 > November precedes the first named tweet by a fortnight, which is exactly the
 > shape of *"a week or two after that he buys her a one-way ticket to Orlando"*
 > — and it means the account was carrying the relationship publicly before it
-> carried her name. The Christmas nervousness the capture describes — *"whether
-> she would return with him"* — is answered on 30 December by a tweet crediting
+> carried her name. The Christmas nervousness the capture describes — *"whether*
+> *she would return with him"* — is answered on 30 December by a tweet crediting
 > her with saving the drive.
 >
 > **What the tweets do not corroborate:** the Roxicet, Spetch, the one-way
@@ -240,8 +240,8 @@ on Dan's own Facebook profile under "Previous relationships," in that order.
 > archive confirms the relationship's shape and pace, not the drug chain, and
 > that half still rests on testimony alone.
 
-> **Christmas 2009: the trip home that ends a friendship and nearly extends
-> itself past Orlando.** Dan and Alexis drive back to Pennsylvania for
+> **Christmas 2009: the trip home that ends a friendship and nearly extends**
+> **itself past Orlando.** Dan and Alexis drive back to Pennsylvania for
 > Christmas, and Dan records being nervous about whether she would return
 > with him. The week produces two dated, load-bearing events, both written up
 > in full elsewhere: a party at Suz's house (337 Saratoga) that ends Dan's
@@ -396,8 +396,8 @@ relationship's only pre-terminal rupture is therefore dated to its first
 hour, and it is dated by her — an act of detection, not a drift
 ([[wiki/timeline/events/franki-fireworks-day-2013]]).
 
-> **GAP CLOSED [2026-08-28] — the return took months, not weeks, and the
-> corpus now has the whole interval.** This page previously read "he went
+> **GAP CLOSED [2026-08-28] — the return took months, not weeks, and the**
+> **corpus now has the whole interval.** This page previously read "he went
 > back to her within weeks." An operator capture volunteered 2026-08-27
 > (`raw/people/captures/2026-08-27_223406_gap-alexis-armel.md`) supplies the
 > full sequence and it is longer and more specific than that: Alexis spent
@@ -454,8 +454,8 @@ time.*
 months before the relationship does.** The last two mentions of that year are
 nineteen minutes apart, both barbed, and they read as one side of an argument:
 
-> *"@alexisarmel lets scale back the 'making fun of boyfriends who say
-> "plurnt"' vibe that you've so generously cultivated"* — 22:12 EST
+> *"@alexisarmel lets scale back the 'making fun of boyfriends who say*
+> *"plurnt"' vibe that you've so generously cultivated"* — 22:12 EST
 >
 > *"@alexisarmel keep it up, catch a slug to the fvcε"* — 22:31 EST
 
@@ -561,9 +561,9 @@ her there while he was asleep, repeatedly enough to be a habit worth a joke.
   appears in a tweet. The one that looked as though it might, the return to
   Fayette County, is falsified above by its own dates.
 
-> **A dating convention worth knowing before quoting any date in this
-> section.** `created_at` in the archive is UTC, and **687 of its 2,741 posts —
-> 25.1% — were posted between 00:00 and 04:59 UTC**, which is the *previous*
+> **A dating convention worth knowing before quoting any date in this**
+> **section.** `created_at` in the archive is UTC, and **687 of its 2,741 posts —**
+> **25.1% — were posted between 00:00 and 04:59 UTC**, which is the *previous*
 > evening in New York. The twitter year pages date by the raw UTC field, so
 > this section keeps that convention for the table and gives EST only where a
 > clock time is quoted. The two 29 November tweets above are `2013-11-30` in
@@ -637,24 +637,24 @@ every beat of it:
 | 2015-12-08 | *"That was the night before I broke up with lex"* |
 | Dec 2015 | 728 / 682 / 679 messages sent on three consecutive days to Annie |
 
-> **CORRECTED 2026-08-15 — the "cheating" that this page dated to November 28,
-> 2015 did not happen in 2015 at all, and the Florida move it was pinned to is
-> a fabrication.** The page previously opened this table with *"~mid-Nov 2015 |
-> Dan moves her to Florida"* and read the next day's message — *"Lex cheated on
-> me 2 weeks in after I moved her to fla"* — as a fresh betrayal that triggered
+> **CORRECTED 2026-08-15 — the "cheating" that this page dated to November 28,**
+> **2015 did not happen in 2015 at all, and the Florida move it was pinned to is**
+> **a fabrication.** The page previously opened this table with *"~mid-Nov 2015 |*
+> *Dan moves her to Florida"* and read the next day's message — *"Lex cheated on*
+> *me 2 weeks in after I moved her to fla"* — as a fresh betrayal that triggered
 > the switch to Annie. Both halves are wrong, and the second was invented by
 > back-computing "2 weeks" from the date of the message.
 >
 > **What the message actually says, from the two lines immediately before it**
 > (`raw/self/dox-scan/all_imessages_complete_dump.txt`, 2015-11-28 19:07–19:08):
 > *"I love this it's the exact opposite way I started my last relationship"* →
-> *"Like I truly trust you"* → *"Lex cheated on me 2 weeks in after I moved her
-> to fla."* The named subject of the sentence is **how the last relationship
-> started**, not how it was ending. "Two weeks in" is two weeks into the
+> *"Like I truly trust you"* → *"Lex cheated on me 2 weeks in after I moved her*
+> *to fla."* The named subject of the sentence is **how the last relationship**
+> **started**, not how it was ending. "Two weeks in" is two weeks into the
 > **Alexis** relationship, which began in **2009** while Dan was at
 > [[wiki/timeline/periods/full-sail-2008-2010|Full Sail in Winter Park]] — the
-> Florida he moved her to. Per the operator the episode was **online only, not
-> in person**, and has no connection to 2015 whatsoever.
+> Florida he moved her to. Per the operator the episode was **online only, not**
+> **in person**, and has no connection to 2015 whatsoever.
 >
 > **The residence record settles it on its own.** Alexis lived in Florida
 > **once, from 2009 to February 2010** — the Full Sail stretch in Winter Park,
@@ -666,9 +666,9 @@ every beat of it:
 >
 > **The message corpus agrees for the specific week.** Alexis was physically in
 > Uniontown, living with Dan, across the exact window the old table placed her
-> in Florida: *"Alexis is sloshed"* (Nov 30), *"I just heard lex on the phone
-> with her parents"* (Nov 30), *"Helping lex leave"* (Dec 1), *"Alexis only left
-> yesterday"* (Dec 2). She moved out of 155 Virginia on December 1 and stayed in
+> in Florida: *"Alexis is sloshed"* (Nov 30), *"I just heard lex on the phone*
+> *with her parents"* (Nov 30), *"Helping lex leave"* (Dec 1), *"Alexis only left*
+> *yesterday"* (Dec 2). She moved out of 155 Virginia on December 1 and stayed in
 > Pennsylvania.
 >
 > **This is a message-date-as-event-date failure**, the same class as the
@@ -912,8 +912,8 @@ would tell the two apart.
 > The objection above is that absence in a thin record is not evidence of
 > absence in the world. The twitter archive answers it for the public channel
 > specifically, because it supplies a **denominator**: the last twenty-four
-> months of the relationship contain **zero** mentions of her across **1,132
-> posts**, in years when his distinct-handle count was at its all-time high of
+> months of the relationship contain **zero** mentions of her across **1,132**
+> **posts**, in years when his distinct-handle count was at its all-time high of
 > 57. That is not a thin record failing to record something; it is a
 > well-populated record of him naming other people. See [The public register,
 > and where it stops](#the-public-register-and-where-it-stops).
@@ -930,8 +930,8 @@ November 2009 – November 2015, and Dan told Lucas Thomas in 2017 that he had
 "dated her for 7 years." The Twitter record favours a late-2009 start.
 
 > **GAP NARROWED [2026-08-28].** The 2026-08-27 capture dates the meeting
-> itself to a **Thanksgiving trip home, a few months after the August 2009
-> Full Sail graduation** — i.e., November 2009. That is consistent with the
+> itself to a **Thanksgiving trip home, a few months after the August 2009**
+> **Full Sail graduation** — i.e., November 2009. That is consistent with the
 > bootloader's "November 2009" start and the Twitter record's "late 2009"
 > lean, and against the Gemini profile's "2010." It does not settle the "7
 > years" Dan told Lucas Thomas in 2017 (six years from Nov 2009 to Nov 2015

@@ -182,8 +182,8 @@ behaviour from talking to models.
 
 > **REVISED [2026-08-23].** The first version of this page assumed, from
 > [[wiki/mind/synthesis/message-circadian-latency]], that Dan was transmitting
-> into a channel that answered slowly — *"broadcasting into a slow or silent
-> void."* **That claim has since been retracted** (`RETRACTED.md`
+> into a channel that answered slowly — *"broadcasting into a slow or silent*
+> *void."* **That claim has since been retracted** (`RETRACTED.md`
 > §`latency-9x-asymmetry`); it does not reproduce from any on-disk export. The
 > correction does not weaken this page. It relocates its subject, and the
 > relocated version is both more specific and more testable.

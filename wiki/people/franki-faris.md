@@ -69,14 +69,14 @@ typing is now carried on [[wiki/people/alexis-armel]] as well as here, since
 the datum being filed only on a five-day rebound's page is what let two
 independent 2026-08-21 passes conclude she had no type at all.
 
-> **RESOLVED [2026-08-28] — the five-day figure belongs to this page's
-> title, but only barely, and Franki's own tenure is now separately
-> attested.** The CONTRADICTION below (2026-08-02) held two five-day spans
+> **RESOLVED [2026-08-28] — the five-day figure belongs to this page's**
+> **title, but only barely, and Franki's own tenure is now separately**
+> **attested.** The CONTRADICTION below (2026-08-02) held two five-day spans
 > open against each other rather than pick one. A second, independent
 > operator capture (2026-08-27,
 > `raw/people/captures/2026-08-27_223406_gap-alexis-armel.md`) states again,
-> unprompted and without reference to the first: *"She [Alexis] spent 5 days
-> at Virginia ave and then went to her moms."* Two independent T0 statements
+> unprompted and without reference to the first: *"She [Alexis] spent 5 days*
+> *at Virginia ave and then went to her moms."* Two independent T0 statements
 > now agree the five days belong to **Alexis's** displacement to 155
 > Virginia Ave, not to Franki's own tenure — which the same family of
 > captures describes only as ending immediately ("got sick of me basically
@@ -196,16 +196,16 @@ mall, seen from the Rt 119 bypass near the Main Street exit. It does not name th
 date. The framing is now **supported rather than unsourced**, and still not
 fixed.
 
-> **RESOLVED [2026-08-28] — was CONTRADICTION [2026-08-02]: the "five days"
-> belongs to Alexis, not Franki.** This page carried *"a five-day rebound"*
+> **RESOLVED [2026-08-28] — was CONTRADICTION [2026-08-02]: the "five days"**
+> **belongs to Alexis, not Franki.** This page carried *"a five-day rebound"*
 > and *"the Franki interlude lasted five days before collapsing,"* sourced to
 > the Gemini-58 and DANSYNTH self-narrations, and
 > [[wiki/mind/synthesis/dormancy-not-exit]] used that figure as its
 > tenure-floor control. A 2026-08-02 capture first attached five days to a
-> different thing entirely: **Alexis** stayed at 155 Virginia Avenue *"for 5
-> days before returning to carmichaels to her parents."* Of Franki's own
-> tenure it said only that she *"got sick of me basically immediately and it
-> went nowhere."* At the time, neither reading was adopted — two five-day
+> different thing entirely: **Alexis** stayed at 155 Virginia Avenue *"for 5*
+> *days before returning to carmichaels to her parents."* Of Franki's own
+> tenure it said only that she *"got sick of me basically immediately and it*
+> *went nowhere."* At the time, neither reading was adopted — two five-day
 > spans in the same episode, one week apart, and the earlier sources were
 > later AI-assisted reconstructions exactly the class of material most likely
 > to have conflated them.
@@ -217,8 +217,8 @@ fixed.
 > displacement to 155 Virginia Ave; Franki's own tenure is separately and
 > consistently described, across both captures, as collapsing immediately.
 > The Gemini-58/DANSYNTH reconstructions did conflate the two spans, exactly
-> as suspected. **The control case on `dormancy-not-exit` is corrected
-> accordingly** — Franki's own occupancy is now the shorter, sharper control
+> as suspected. **The control case on `dormancy-not-exit` is corrected**
+> **accordingly** — Franki's own occupancy is now the shorter, sharper control
 > the page had been reaching for all along, and this page's title phrase "a
 > five-day rebound" is retired.
 

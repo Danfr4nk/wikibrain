@@ -329,16 +329,16 @@ third party is unidentified.
 > with — whether Dan followed through on contacting Annie's parents, on the
 > exposure threat, or on the "disappear" statement — are all answered by the
 > next export of the thread, filed as
-> `raw/self/message-csv/imessage_export_2124702449_20260802.csv`. **The
-> parents were contacted**, at 06:22 on July 26, seventy-eight minutes after
+> `raw/self/message-csv/imessage_export_2124702449_20260802.csv`. **The**
+> **parents were contacted**, at 06:22 on July 26, seventy-eight minutes after
 > the last message on this page: "Alright I'm contacting Ellen," followed by
 > screenshots. That makes it the first of six-plus recorded
-> maternal-disclosure threats ever executed. **The exposure threat was
-> executed and then withdrawn** — the full text log went up at
+> maternal-disclosure threats ever executed. **The exposure threat was**
+> **executed and then withdrawn** — the full text log went up at
 > `caakehorn.github.io/leviathan/transcript.html` at 05:36 and came down at
 > 18:05 the same day, on one request from Annie, after the third party read
-> it from her phone and forwarded it to himself. **The disappearance did not
-> happen**: contact was continuous from 05:22 on July 26 through August 2,
+> it from her phone and forwarded it to himself. **The disappearance did not**
+> **happen**: contact was continuous from 05:22 on July 26 through August 2,
 > 1,880 messages and six in-person meetings, five of them drug handoffs. The
 > refusal to supply documented above held for **thirty-one hours**. Full
 > account at

@@ -72,8 +72,8 @@ connections:
 > constitution-pass mechanism section: Ti-dominance explains why the
 > exocortex prompt's evidentiary standard takes the specific shape it does.
 > This page reasons from that page's general "instrument is also a subject"
-> claim, not from the new mechanism section. **No claim on this page is
-> affected.**
+> claim, not from the new mechanism section. **No claim on this page is**
+> **affected.**
 
 > **RE-CHECKED [2026-08-26]:** flagged stale against
 > [[wiki/mind/profile/intp]] and [[wiki/mind/profile/enneagram-5w4]] (both
@@ -88,12 +88,12 @@ connections:
 > [[wiki/mind/profile/deviance-mapping]] (2026-08-22), and this one is a
 > substantive move in **this page's favour**. That page gained a section
 > checking its own ten outlier claims against the raw record, and the result is
-> that **exactly two survive independent recomputation against a real comparison
-> population** — the 0.9601 contact concentration and the 43-versus-2 calibrated
+> that **exactly two survive independent recomputation against a real comparison**
+> **population** — the 0.9601 contact concentration and the 43-versus-2 calibrated
 > confidence measure the audit never produced at all. The remaining eight are
 > single-model judgments over material Dan supplied, which is this page's thesis
-> stated by the instrument itself. **No claim here is withdrawn; the evidence
-> base is strengthened**, and the seventeen-appearances-in-106,629-messages
+> stated by the instrument itself. **No claim here is withdrawn; the evidence**
+> **base is strengthened**, and the seventeen-appearances-in-106,629-messages
 > figure this page already carries is now doing work on a second page
 > ([[wiki/mind/synthesis/failure-to-launch]]) as the ceiling on every capability
 > claim sourced to the audit.
@@ -112,13 +112,13 @@ life project"* at 98/100 and calls writing his own psychological operating
 manual *"his primary occupation."*
 
 The measurement that makes this a rule rather than an observation is a
-> **RE-CHECKED [2026-08-21] — the handle defect does not reach this page's
-> counts, and the reason is structural rather than lucky.**
+> **RE-CHECKED [2026-08-21] — the handle defect does not reach this page's**
+> **counts, and the reason is structural rather than lucky.**
 > [[wiki/self/concepts/wiki-brain]] and
 > [[wiki/mind/synthesis/instrument-is-subject]] both moved on 2026-08-20 and
 > this page reasons from both. `instrument-is-subject` moved by a `RE-CHECKED`
-> block only. `wiki-brain` gained something sharper — **a handle is not a
-> person**: at least six inbound rows on Annie's 212 handle across July–August
+> block only. `wiki-brain` gained something sharper — **a handle is not a**
+> **person**: at least six inbound rows on Annie's 212 handle across July–August
 > 2026 were typed by a third party holding her phone, during exactly the
 > crisis windows the corpus draws its highest-stakes claims from.
 > `BACKLOG.md` asked whether that caveat reaches the counts below rather than
@@ -131,8 +131,8 @@ The measurement that makes this a rule rather than an observation is a
 > himself wrote. This page's central measurement is immune by construction,
 > not by inspection.
 >
-> **The one inbound figure supports an absence, which the defect cannot
-> fill.** The 110,944 inbound messages from 503 handles are cited to establish
+> **The one inbound figure supports an absence, which the defect cannot**
+> **fill.** The 110,944 inbound messages from 503 handles are cited to establish
 > that the corpus holds *no* independent characterisation of Dan by anyone who
 > is not him or an instrument he commissioned. A third party typing on Annie's
 > phone mid-crisis is not a clinician, an employer instrument or a
@@ -161,9 +161,9 @@ life. It exists in commissioned sessions, and it stays there.
 
 > **Provenance disclosure**, per [[wiki/mind/synthesis/instrument-is-subject]].
 > Every member of this climb is or depends on non-primary material — that is
-> the subject, not a defect in the sourcing. **The primary evidence this page
-> adds that its premises lacked is a census of typology vocabulary across the
-> full message dump**, run 2026-08-19, plus the seventeen instances it returned
+> the subject, not a defect in the sourcing. **The primary evidence this page**
+> **adds that its premises lacked is a census of typology vocabulary across the**
+> **full message dump**, run 2026-08-19, plus the seventeen instances it returned
 > read individually. Two of those instances change something: one contradicts
 > the profile cluster's own type code, and one shows the analysis prompt being
 > forwarded to a third party.
@@ -185,16 +185,16 @@ life. It exists in commissioned sessions, and it stays there.
 | This wiki | 476 pages | [[wiki/self/concepts/wiki-brain]] | — |
 | Bespoke vocabulary | Two graded word batches, selected from a machine-generated pool | [[wiki/interests/language/vocabulary-lexicon]] | — |
 
-> **RE-CHECKED [2026-08-23] — premise moved, and it moved in this page's favour.
-> The stylometrics row is now the first instrument in the table to be independently
-> falsified.** [[wiki/mind/profile/linguistic-profile]] was corrected on 2026-08-23:
+> **RE-CHECKED [2026-08-23] — premise moved, and it moved in this page's favour.**
+> **The stylometrics row is now the first instrument in the table to be independently**
+> **falsified.** [[wiki/mind/profile/linguistic-profile]] was corrected on 2026-08-23:
 > its "99th percentile for lexical diversity" and "post-graduate (16th grade+)
 > readability" were recomputed against the sender-tagged corpus and both failed.
 > Measured Flesch-Kincaid is **2.08 (2015–19) to 4.00 (2026)**, and his 2025–26
 > type-token ratio is **0.0509 against his own interlocutors' 0.0544** on equal
 > 200,000-token samples — he is marginally *less* lexically diverse than the people
-> answering him. The mechanism is exactly the one this page names: **no percentile
-> was ever computed against a comparison group.** The analysis ranked Dan against an
+> answering him. The mechanism is exactly the one this page names: **no percentile**
+> **was ever computed against a comparison group.** The analysis ranked Dan against an
 > implied population that was never assembled, at Dan's request, over Dan's corpus.
 > The moment somebody built the obvious control — the other side of his own
 > conversations, already sitting in the same file — the finding inverted.
@@ -203,14 +203,14 @@ life. It exists in commissioned sessions, and it stays there.
 > so far argued structurally. Seven frameworks agreeing was already weak evidence for
 > the reasons below. It is now weaker by one, and the failure was found by counting
 > rather than by re-interviewing the apparatus. The prediction this licenses is
-> specific and cheap to test: **the remaining instruments in the table that report
-> percentiles — Big Five/Big30 at "Impulsiveness 96, Altruism 1", the deviance audit
-> at "80–99/100 across seven domains" — were produced the same way and have never met
-> a control group either.** See [[wiki/mind/profile/texting-deviance-audit]] for the
+> specific and cheap to test: **the remaining instruments in the table that report**
+> **percentiles — Big Five/Big30 at "Impulsiveness 96, Altruism 1", the deviance audit**
+> **at "80–99/100 across seven domains" — were produced the same way and have never met**
+> **a control group either.** See [[wiki/mind/profile/texting-deviance-audit]] for the
 > recomputation.
 
-> **RE-CHECKED [2026-08-27] — premise moved, and it added an instrument rather
-> than disturbing a claim.** [[wiki/mind/profile/linguistic-profile]] gained a
+> **RE-CHECKED [2026-08-27] — premise moved, and it added an instrument rather**
+> **than disturbing a claim.** [[wiki/mind/profile/linguistic-profile]] gained a
 > section on 2026-08-27 documenting a **commissioned vocabulary session**: on
 > 2026-08-26 Dan prompted a model to generate graded insult and praise batches,
 > selected from the pool, and had the same session produce a second-order
@@ -234,12 +234,12 @@ life. It exists in commissioned sessions, and it stays there.
 > The provenance problem is therefore not merely inherited here — it is
 > unusually pure. The stylometrics row at least measured something external (his
 > own sent messages, which exist whether or not anyone asks about them). This
-> row does not. The vocabulary batches record *which words were selected as
-> pleasing in one session*, and that page says so plainly; nothing establishes
+> row does not. The vocabulary batches record *which words were selected as*
+> *pleasing in one session*, and that page says so plainly; nothing establishes
 > that any of them appear in his outbound text. The prediction the 2026-08-23
-> re-check licensed applies here in advance rather than in retrospect: **this
-> instrument has no control group and cannot acquire one by being analysed
-> harder.** The one thing that would test it — running `bin/text-metrics` over
+> re-check licensed applies here in advance rather than in retrospect: **this**
+> **instrument has no control group and cannot acquire one by being analysed**
+> **harder.** The one thing that would test it — running `bin/text-metrics` over
 > the corpus to see whether the dignified-shape insult ever actually appears —
 > is a counting operation, which is the same move that inverted the stylometrics
 > finding, and nobody has run it.
@@ -313,8 +313,8 @@ the wiki.**
 > [[wiki/mind/synthesis/instrument-is-subject]], residue outranks testimony and a
 > disagreement between them is recorded rather than settled by seniority — and
 > the commissioned codes are testimony by that page's own definition, produced
-> in order to characterise. What the corpus actually contains is **one dated
-> first-person self-typing that the wiki does not match**, and nobody has looked
+> in order to characterise. What the corpus actually contains is **one dated**
+> **first-person self-typing that the wiki does not match**, and nobody has looked
 > for a second.
 
 ## The one instance that is not commissioned

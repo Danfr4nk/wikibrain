@@ -57,8 +57,8 @@ connections:
 > received-versus-sought sort aimed at an already-admitted person: a six-year
 > partner whose public register goes ironic and then silent. This page's axis is
 > *imposed versus chosen*, applied to order rather than to people, and the
-> addition supplies no new instance of it. **Checked and left standing, with one
-> adjacency worth naming for a later pass:** a partner is a chosen object, and
+> addition supplies no new instance of it. **Checked and left standing, with one**
+> **adjacency worth naming for a later pass:** a partner is a chosen object, and
 > if the two axes are one operation seen from different sides — which
 > [[wiki/mind/synthesis/the-deferred-audit]] argues — then a chosen person going
 > quiet is the kind of case that would test the claim. Nothing here rests on it
@@ -69,15 +69,15 @@ connections:
 > the metric's one documented upper bound (the Ally Skins exchange) and removed
 > its `sage_pending` staging. This page's mirror claim — "the performed is
 > false, the unmanaged is true" — reasons from the metric's general mechanism,
-> not from the new Ally-specific material. **No claim on this page is
-> affected.**
+> not from the new Ally-specific material. **No claim on this page is**
+> **affected.**
 
 > **RE-CHECKED [2026-08-23]:** flagged stale against
 > [[wiki/interests/music/overview]] (2026-08-23). That page gained one section —
 > a corpus search establishing that the production identity has almost no social
 > trace in fifteen years of messages (one message about making a track, zero
-> about a studio, no play counts). **No alias, genre, date, release or aesthetic
-> claim on that page changed**, and this page reasons only from those. Nothing
+> about a studio, no play counts). **No alias, genre, date, release or aesthetic**
+> **claim on that page changed**, and this page reasons only from those. Nothing
 > here is affected and no claim is withdrawn.
 
 Dan wants the world to be less orderly than it is, and — with one large
@@ -112,8 +112,8 @@ is not mentioned; it is organising.
 unambiguous:
 
 > **2.5 Chaotic Neutral: The Philosophical Alignment**
-> *"Chaotic Neutral is not merely a gaming alignment but a fundamental
-> psychological stance."*
+> *"Chaotic Neutral is not merely a gaming alignment but a fundamental*
+> *psychological stance."*
 
 The section splits into two halves, and both matter.
 
@@ -159,10 +159,10 @@ applies it to taste, the other to events. Neither is primarily about pleasure.
 The workplace case is where the preference is most visible and least
 defensible, and the profile supplies the mechanism rather than the incident:
 
-> **2.4.3 Unstructured: The Chaos Embrace** — *"Disorganized, spontaneous,
-> resistant to schedules… Resists external structure while maintaining
-> obsessive internal logical structures… May work in intense bursts followed by
-> complete collapse."*
+> **2.4.3 Unstructured: The Chaos Embrace** — *"Disorganized, spontaneous,*
+> *resistant to schedules… Resists external structure while maintaining*
+> *obsessive internal logical structures… May work in intense bursts followed by*
+> *complete collapse."*
 
 That last clause is the tell, and it generalises. The native operating rhythm
 is **burst-and-collapse, not steady-state**. A workplace running normally
@@ -230,8 +230,8 @@ authority over him* accounts for it exactly.
 > holds entropy as the fundamental truth of existence has constructed the one
 > personal system least able to survive it. The two pages resolve rather than
 > cancel: the appetite is outward-facing and the concentration is inward-facing,
-> which is a single policy stated twice — **maximum investment in the chosen,
-> maximum indifference to the imposed** — but the cost lands here, because the
+> which is a single policy stated twice — **maximum investment in the chosen,**
+> **maximum indifference to the imposed** — but the cost lands here, because the
 > chosen carries everything and carries it alone.
 
 ## Falsifiers

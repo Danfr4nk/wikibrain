@@ -131,8 +131,8 @@ Dan describes him as a gateway to "a different style of music that still resonat
 > mother still remembers — "Jester = forgettable / Dunn = gross and
 > forgettable / Mohler = a literal woman" — to which Jason answers
 > "Haha she badass." Mohler (now Jamie, per the operator; pre-2023
-> known as Jim) is a **fourth member of the same Full Sail friend
-> group**, not Jason's partner. See [[wiki/people/jamie-mohler]] for
+> known as Jim) is a **fourth member of the same Full Sail friend**
+> **group**, not Jason's partner. See [[wiki/people/jamie-mohler]] for
 > the full page.
 
 **Shared circle (2009–2015 Full Sail / Orlando era)**:

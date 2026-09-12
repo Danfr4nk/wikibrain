@@ -183,15 +183,15 @@ the territory was gone the host had nothing in it.
 > BFS moved substantively, and `BACKLOG.md` flagged it as the least cheap of
 > the nine open staleness pairs. It was right to.
 >
-> **Two accounts of why BFS ended are now on the record and they do not
-> match.** This section says the job ended *"at the exact moment the role
-> produced its first genuinely assigned demand: pay the $50 drawer shortage
-> out of pocket, sign the write-up."* Dan's own retrospective, given to Annie
-> on 2026-08-11, says something else entirely: *"literally the only thing I
-> did was go home 30 minutes before my shift was supposed to end after I
-> called my manager and made sure it was okay."* And the ending was formal in
-> a way this page never recorded — a posted sign reading **"NO HIRE: Daniel
-> Frank"** in two locations, BFS and the Little Caesars office.
+> **Two accounts of why BFS ended are now on the record and they do not**
+> **match.** This section says the job ended *"at the exact moment the role*
+> *produced its first genuinely assigned demand: pay the $50 drawer shortage*
+> *out of pocket, sign the write-up."* Dan's own retrospective, given to Annie
+> on 2026-08-11, says something else entirely: *"literally the only thing I*
+> *did was go home 30 minutes before my shift was supposed to end after I*
+> *called my manager and made sure it was okay."* And the ending was formal in
+> a way this page never recorded — a posted sign reading **"NO HIRE: Daniel**
+> **Frank"** in two locations, BFS and the Little Caesars office.
 >
 > **That matters because a control has to be clean.** The row is doing work
 > here as evidence that *absence of a payload* is what collapses tenure to

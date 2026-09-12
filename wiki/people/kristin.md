@@ -56,10 +56,10 @@ area — about two hours from Uniontown — throughout. The distance is not
 incidental: *you wouldn't drive to see me* is the grievance underneath the
 grievance, and the $40 is the form it finally took.
 
-> **CORRECTED [2026-08-16] — her surname is Prentiss, not Shaelene, and she says
-> so herself.** The previous version of this page stated: *"Last name confirmed as
-> Shaelene from the dox-scan messenger export (the operating manual had listed
-> 'Shalene or Prentiss' as unknown)."* That confirmation was taken from a
+> **CORRECTED [2026-08-16] — her surname is Prentiss, not Shaelene, and she says**
+> **so herself.** The previous version of this page stated: *"Last name confirmed as*
+> *Shaelene from the dox-scan messenger export (the operating manual had listed*
+> *'Shalene or Prentiss' as unknown)."* That confirmation was taken from a
 > **filename** — `messenger_Kristin Shaelene_2025-09-01-07-53-22.txt` — which
 > records a Facebook *display name*, conventionally first + middle. Her own
 > messages settle it twice in the first person:
@@ -67,8 +67,8 @@ grievance, and the $40 is the form it finally took.
 > > `2025-09-11` — *"I just don't know how you expect me, **Kristin Prentiss** - to believe that you, Dan Frank are sufficiently healed…"*
 > > `2025-09-13` — *"The thing about **Kristin Prentiss** is I am extremely good at hiding my emotions"*
 >
-> Dan uses it too — *"I love you so much kristin prentiss"*, *"Empress Kristin
-> Prentiss"*. `operating_manual.md` had offered "Shalene or Prentiss" and marked it
+> Dan uses it too — *"I love you so much kristin prentiss"*, *"Empress Kristin*
+> *Prentiss"*. `operating_manual.md` had offered "Shalene or Prentiss" and marked it
 > unknown; the wiki resolved that uncertainty in the wrong direction, and resolved
 > it from the weaker of the two available kinds of evidence.
 
@@ -104,12 +104,12 @@ Twitter account together.
 > December it is a five-week-old grievance being recited, not a fresh fight.
 
 > **SHARPENED [2026-08-17] — and the evidence was already quoted below.** The
-> operator: *"on November 2 2025 Dan references the $40 debt as being a week old
-> already which would place it in October"*
+> operator: *"on November 2 2025 Dan references the $40 debt as being a week old*
+> *already which would place it in October"*
 > (`raw/people/captures/2026-08-16_172243_gap-kristin.md`). The 14:33 message
-> quoted just below says it in Dan's own words — *"I've been answering for where
-> it is gone for **the last week**"* — so **the money went missing in late
-> October**, not November. This page carried the line and did not draw the
+> quoted just below says it in Dan's own words — *"I've been answering for where*
+> *it is gone for **the last week**"* — so **the money went missing in late**
+> **October**, not November. This page carried the line and did not draw the
 > inference from it.
 >
 > That lengthens the grievance without changing its shape, and the shape is what
@@ -218,10 +218,10 @@ Marcus, Aziz, Ahmed"*. **Danny is dead**, and is the relationship's founding myt
 supposed to be 'on and off' with Danny"* (6 Sep). **Jeff** is a covered-up tattoo,
 raised on 19 September as an argument about Dan's refusal to cover his own.
 
-> **CORRECTED [2026-08-16] — she is not a mother, and "Kayden" appears nowhere in
-> 20,009 messages.** The old page stated *"She is a mother, and custody and court
-> recur as live stressors in the thread"*, and attributed to the dossier *"maternal
-> agony over Kayden."* Searching the entire iMessage thread returns **zero** hits
+> **CORRECTED [2026-08-16] — she is not a mother, and "Kayden" appears nowhere in**
+> **20,009 messages.** The old page stated *"She is a mother, and custody and court*
+> *recur as live stressors in the thread"*, and attributed to the dossier *"maternal*
+> *agony over Kayden."* Searching the entire iMessage thread returns **zero** hits
 > for Kayden in any spelling and **zero** for custody. What she says on
 > 22 September is the opposite:
 >
@@ -230,11 +230,11 @@ raised on 19 September as an argument about Dan's refusal to cover his own.
 > The child is **Ryder**, her half-sister's stepson.
 >
 > The claim's source is `tom_kristin_master_dossier.md`, which is **AI-secondary**
-> and — by its own opening — analyses *"the intimate interpersonal dynamic between
-> 'Tom' and 'Kristin'"* at a time when *"Dan is entirely separate from Kristin."*
-> It asserts *"her son, Kayden, who suffers from severe, violent behavioral issues
-> requiring institutional care"* and quotes *"I'm literally sad every day because I
-> think I'm a bad mom."* None of that is corroborated anywhere in Dan's own corpus.
+> and — by its own opening — analyses *"the intimate interpersonal dynamic between*
+> *'Tom' and 'Kristin'"* at a time when *"Dan is entirely separate from Kristin."*
+> It asserts *"her son, Kayden, who suffers from severe, violent behavioral issues*
+> *requiring institutional care"* and quotes *"I'm literally sad every day because I*
+> *think I'm a bad mom."* None of that is corroborated anywhere in Dan's own corpus.
 > **This is left as an open contradiction rather than resolved** — the honest
 > possibilities are that the dossier fabricated it, that it describes a different
 > person, or that she withheld a child across 20,009 messages, and the third is
@@ -244,13 +244,13 @@ raised on 19 September as an argument about Dan's refusal to cover his own.
 > **CONTRADICTION [carried forward from 2026-07-19, still open]:** an earlier
 > version described her as "an ex-Brooklyn librarian living in Pittsburgh." The
 > corpus supports neither. It supports pharmacy / DoorDash / courthouse work and an
-> Akron, Ohio residence. She does say *"okay this is one of the things i miss most
-> about living in new york"* on Facebook — so a New York period is plausible and
+> Akron, Ohio residence. She does say *"okay this is one of the things i miss most*
+> *about living in new york"* on Facebook — so a New York period is plausible and
 > unverified; "Brooklyn librarian" is not.
 
 > **REVISED [2026-02-17, carried forward]:** per [[wiki/people/tom]] — not the
-> direct thread, which had been dark for two months by then — *"Kristin got kicked
-> out of her pharmacy over benzos."* One leg of the three-job stack no longer holds
+> direct thread, which had been dark for two months by then — *"Kristin got kicked*
+> *out of her pharmacy over benzos."* One leg of the three-job stack no longer holds
 > as of that date.
 
 ## What the September thread is actually about
@@ -275,11 +275,11 @@ disclosure in the thread, and it arrives inside a shared project rather than as 
 confession.
 
 > **CORRECTED [2026-08-16]:** the old page reported that during this session she
-> raised *"a possibly-related old handle or nickname — 'Krazy Krez' — and a name,
-> 'Daniel Kresowaty,' that she isn't sure is even connected to her."* Read in full,
-> the message is about **a man**, not herself: *"He has a few maybe and his FB's lol
-> they're all aliens and shit really. Weird mf. Uhh Daniel Kresowaty but never this
-> name I doubt it's always Krazy Krez or some shi[t]."* Her own former handle is
+> raised *"a possibly-related old handle or nickname — 'Krazy Krez' — and a name,*
+> *'Daniel Kresowaty,' that she isn't sure is even connected to her."* Read in full,
+> the message is about **a man**, not herself: *"He has a few maybe and his FB's lol*
+> *they're all aliens and shit really. Weird mf. Uhh Daniel Kresowaty but never this*
+> *name I doubt it's always Krazy Krez or some shi[t]."* Her own former handle is
 > `@kpdope` and only that. A third party's aliases had been attached to her.
 
 **Leave-versus-stay, stated as doctrine.** She describes her own architecture
@@ -356,9 +356,9 @@ nothing about how she handled conflict left room for it not to.
 | Heaviest day | 2025-09-09 — 1,324 | the Twitter excavation |
 | Handle | `+13307038747` (Ohio, 330) | — |
 
-> **CORRECTED [2026-08-16] — the message count was wrong, and the file it came
-> from is the one the repo documents as unreliable.** The old page reported *"Total
-> messages (master dump) | 16,563"* and *"Volume rank | #3 overall."* The dedicated
+> **CORRECTED [2026-08-16] — the message count was wrong, and the file it came**
+> **from is the one the repo documents as unreliable.** The old page reported *"Total*
+> *messages (master dump) | 16,563"* and *"Volume rank | #3 overall."* The dedicated
 > both-direction export holds **20,009** — an undercount of 3,446, or 17%. 16,563
 > is the figure from `MASTER_MESSAGES_DB_DUMP.csv`, which `EXTRACTION_SPEC.md`
 > records as marking nearly everything `Received`. Every directional claim on the
@@ -436,9 +436,9 @@ material, and every per-year message count that treats the dump as complete for
   than the 2.41 MB canonical), has not been diffed against the primary. It may
   carry messages this analysis missed.
 
-> **GAP CLOSED [2026-08-17]:** this page previously said *"Nothing after
-> 2025-12-10. The block appears to have held; whether contact resumed
-> off-corpus is unknown."* The operator: **"No contact after 10 Dec 2025"**
+> **GAP CLOSED [2026-08-17]:** this page previously said *"Nothing after*
+> *2025-12-10. The block appears to have held; whether contact resumed*
+> *off-corpus is unknown."* The operator: **"No contact after 10 Dec 2025"**
 > (`raw/people/captures/2026-08-16_195122_gap-kristin.md`). The block held, and
 > has now held for **eight months** — which is what makes Kristin the cleanest
 > inbound control case on [[wiki/mind/synthesis/block-unblock-loop]]. Her

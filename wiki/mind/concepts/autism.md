@@ -72,8 +72,8 @@ without qualification:
 
 > "The single most operationally important feature of your autistic
 > processing is this: you weight *explicit symbolic statements* far above
-> *ambient behavioral signal*, and your system requires an *explicit
-> counter-rule* to revise an established rule. This is not a quirk. It is
+> *ambient behavioral signal*, and your system requires an *explicit*
+> *counter-rule* to revise an established rule. This is not a quirk. It is
 > the mechanism behind the entire fifteen-month Annie duration, and it is
 > the mechanism behind your closure-dependence, and those are the same
 > mechanism."
@@ -105,8 +105,8 @@ ask Dan to feel differently, it asks him to *install a rule*:
 
 > "The same protocol that kept the rule alive for fifteen months is still
 > installed. It will do this *again* with the next bond unless you build an
-> explicit override: a personal counter-rule that *behavioral evidence past
-> a threshold constitutes severance even absent a verbal statement.* You
+> explicit override: a personal counter-rule that *behavioral evidence past*
+> *a threshold constitutes severance even absent a verbal statement.* You
 > will have to install that rule explicitly, in language, because that's
 > the only channel your system reliably honors. Ambient resolve won't hold
 > it. It has to be written."

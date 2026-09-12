@@ -90,8 +90,8 @@ connections:
 
 # Dormancy, Not Exit
 
-> **RE-CHECKED [2026-09-04] — two premises moved, and one of them is
-> supporting evidence.** [[wiki/people/alexis-armel]] gained a measurement of the
+> **RE-CHECKED [2026-09-04] — two premises moved, and one of them is**
+> **supporting evidence.** [[wiki/people/alexis-armel]] gained a measurement of the
 > relationship's public register — zero mentions across the last twenty-four
 > months and 1,132 posts, in years when his distinct-handle count peaked at 57 —
 > and [[wiki/people/franki-faris]] gained the inverse of an existing typed edge
@@ -99,8 +99,8 @@ connections:
 >
 > The Alexis material reads *with* this page rather than against it. A public
 > channel falling silent while the tie continues for two more years, and while
-> he is publicly naming more people than in any year of his life, is a **channel
-> suspended, not a tie deleted** — which is this page's rule, observed on a
+> he is publicly naming more people than in any year of his life, is a **channel**
+> **suspended, not a tie deleted** — which is this page's rule, observed on a
 > surface it had not previously been tested on. It is not strong evidence, since
 > a broadcast archive cannot show a tie continuing; it is the message record and
 > the operator's account that establish the relationship ran to November 2015.
@@ -114,13 +114,13 @@ connections:
 > it does not touch this page's mechanism, its member table, or the
 > measurement section. **No claim on this page is affected.**
 
-> **RE-CHECKED [2026-08-23] — flagged stale against
-> [[wiki/mind/synthesis/the-unbroken-bond]] (2026-08-23), and the pass that moved
-> it also produced the number this page has always needed.** That page gained a
+> **RE-CHECKED [2026-08-23] — flagged stale against**
+> **[[wiki/mind/synthesis/the-unbroken-bond]] (2026-08-23), and the pass that moved**
+> **it also produced the number this page has always needed.** That page gained a
 > re-check note; nothing on it was withdrawn. The material development is
 > elsewhere in the same pass: the severance base rate is now derived from primary
-> data rather than inferred — **129 declarations across the merged Annie corpus,
-> 128 of 128 resumed, median gap thirty-six seconds, all-time maximum 46 hours**
+> data rather than inferred — **129 declarations across the merged Annie corpus,**
+> **128 of 128 resumed, median gap thirty-six seconds, all-time maximum 46 hours**
 > ([[wiki/mind/synthesis/the-rescue-premise]] Part I½).
 >
 > **This is the strongest evidence this page's thesis has ever had.** "Dormancy,
@@ -144,15 +144,15 @@ connections:
 > days later gives Dan's address as 337 Saratoga
 > ([[wiki/timeline/events/uniontown-hospital-vape-alarm]]), so the notice moved
 > his address of record even though the residence timeline runs to February 2019.
-> **This page reasons from 155 Virginia as a *container* across an occupant swap,
-> and from the contested five-day figure attached to Alexis's stay there.**
+> **This page reasons from 155 Virginia as a** *container* **across an occupant swap,**
+> **and from the contested five-day figure attached to Alexis's stay there.**
 > Neither depends on when or whether Dan's own tenancy there ended on paper. The
 > tenure floor, the swap, and the open question about the five days are all
 > unaffected. No claim withdrawn.
 
 
-> **RE-CHECKED [2026-08-20] — a live test of this page's central rule opened
-> four days ago, and the page must not pre-score it.** Flagged stale against
+> **RE-CHECKED [2026-08-20] — a live test of this page's central rule opened**
+> **four days ago, and the page must not pre-score it.** Flagged stale against
 > [[wiki/mind/synthesis/the-unbroken-bond]] (2026-08-20), which itself moved for
 > the August 16–19 severance
 > ([[wiki/timeline/events/august-2026-morgantown-call]]). The Annie relationship
@@ -164,12 +164,12 @@ connections:
 > reopens a condition outright (*"You could still not do the wrong thing"*).
 > What is genuinely novel, and is the thing this page's dormancy/exit boundary
 > should actually turn on, is at 14:53:25: Dan closes **the re-entry channel**
-> in advance — *"Do NOT ever think that enough time has passed that now you can
-> tell me… when something happens to Milo"* — which is precisely the vector the
+> in advance — *"Do NOT ever think that enough time has passed that now you can*
+> *tell me… when something happens to Milo"* — which is precisely the vector the
 > July 2026 reopening used after fifty-two days. A dormancy is a silence with
 > the door unlatched; this is the first time in the corpus anyone has named the
-> latch. **No finding here is
-> withdrawn and none is confirmed.** Four days is not a dormancy and it is not
+> latch. **No finding here is**
+> **withdrawn and none is confirmed.** Four days is not a dormancy and it is not
 > an exit — this page's own floor, narrowed to seven weeks by the James Dee
 > case, is more than ten times the elapsed time. Recorded so the next pass
 > reaches for it deliberately: if contact resumes, this is the strongest
@@ -277,8 +277,8 @@ block is the closest thing the corpus has to that case.
 
 > **CORRECTED [2026-08-13] — the rule holds; the mechanism this section adopted on 2026-08-02 does not, and it is replaced rather than patched.**
 >
-> **The premise that moved.** The June 1 2026 sign-off — *"Goodbye forever. This was
-> not how it should have ended but. sic semper lupanis."* — is **Dan's own outbound**,
+> **The premise that moved.** The June 1 2026 sign-off — *"Goodbye forever. This was*
+> *not how it should have ended but. sic semper lupanis."* — is **Dan's own outbound**,
 > not Annie's. Scope: `2026-06-01 00:27:49 America/New_York`, `SENT OR RECEIVED = Sent`,
 > `HANDLE = Me`, dyad `+12124702449`, non-group, in the deep whole-device export
 > (`04:27:49` in that file's UTC clock); `direction = sent` independently in
@@ -295,12 +295,12 @@ block is the closest thing the corpus has to that case.
 >
 > **Why this lands on this section specifically.** Everything above the 2026-08-02
 > addition is behavioural and survives untouched. What that addition did was adopt a
-> *mechanism*, in one sentence: **"the closing operation requires a counterparty and the
-> counterparty rarely performs it."** As stated, that is now false. Dan performed the
+> *mechanism*, in one sentence: **"the closing operation requires a counterparty and the**
+> **counterparty rarely performs it."** As stated, that is now false. Dan performed the
 > closing operation unilaterally, and performed it well.
 >
-> **The decision.** The page's rule — *nothing leaves this graph* — **survives, and is
-> untouched.** No node was deleted on June 1: Annie is on the graph today, the tie
+> **The decision.** The page's rule — *nothing leaves this graph* — **survives, and is**
+> **untouched.** No node was deleted on June 1: Annie is on the graph today, the tie
 > reactivated on day fifty-two, and the reactivation ran 624 messages in four days. The
 > rule was never a claim about whether Dan can send a goodbye. It is a claim about
 > whether anything ends up gone, and nothing did.
@@ -311,8 +311,8 @@ block is the closest thing the corpus has to that case.
 > cannot do without an external terminating statement is treat the result as **settled**,
 > so the closure has no stopping condition of its own and decays the moment a channel
 > opens. His own July 28 words are about exactly this and were misread here as being
-> about the sending: *"My brain can't cross out that part of my life that I love unless
-> I know that you don't feel that way."* Crossing out is not the same act as saying
+> about the sending: *"My brain can't cross out that part of my life that I love unless*
+> *I know that you don't feel that way."* Crossing out is not the same act as saying
 > goodbye. He said goodbye on June 1 without difficulty. It is the crossing-out that
 > requires the other person, and the crossing-out is what dormancy is the absence of.
 >
@@ -326,9 +326,9 @@ block is the closest thing the corpus has to that case.
 >
 > **The falsifier moves with it.** The old mechanism predicted that a tie ended by an
 > explicit unhedged severance from the other side should close cleanly — Kristin, above.
-> The replacement predicts something additionally testable on Dan's own side: **a
-> suspension he initiates should hold exactly as long as it takes for a co-held object to
-> generate a reason to make contact, and no longer.** June 1 gives one measurement,
+> The replacement predicts something additionally testable on Dan's own side: **a**
+> **suspension he initiates should hold exactly as long as it takes for a co-held object to**
+> **generate a reason to make contact, and no longer.** June 1 gives one measurement,
 > fifty-two days, on one co-held object ([[wiki/people/milo|the dog]]), reopened through
 > email rather than the blocked channel. A second initiated suspension with nothing
 > co-held should not reopen at all, and if one does, the suspend/delete distinction is
@@ -410,8 +410,8 @@ the bandwidth it had. Every case in the table behaves this way, and it is why
 > flows. This page reads the same relationship as the corpus's best evidence
 > that closures of exactly that shape are dormancies. Both readings cannot be
 > safely held, and the resolution is chronological rather than interpretive:
-> **the 2013 departure from New York was also a clean transactional close, for
-> the same structural reason, and it ran sixty-seven months before reopening.**
+> **the 2013 departure from New York was also a clean transactional close, for**
+> **the same structural reason, and it ran sixty-seven months before reopening.**
 > The 2025 close has stood about seventeen. That page has been amended to mark
 > the control provisional; this page predicts it reopens. Whichever way the next
 > export falls, one of the two is wrong in a specific, dated, recorded way —
@@ -419,8 +419,8 @@ the bandwidth it had. Every case in the table behaves this way, and it is why
 
 ## The control, and where the rule stops
 
-> **Read this section against the 2026-08-28 resolution below before quoting
-> a figure from it.** The "five days" this section originally attached to
+> **Read this section against the 2026-08-28 resolution below before quoting**
+> **a figure from it.** The "five days" this section originally attached to
 > Franki's own occupancy is corrected there to Alexis's displacement at 155
 > Virginia Ave; Franki's actual tenure is "immediately, and it went nowhere"
 > — shorter than five days, which sharpens rather than weakens everything
@@ -447,14 +447,14 @@ established — five days is below it and six years is above it. As of
 2026-08-18 there is now exactly one documented case in between, and it is
 handled in the re-check immediately below.
 
-> **RE-CHECKED [2026-08-18] — the tenure gap has its first occupant, and the
-> floor turns out to be a gradient rather than a line.**
+> **RE-CHECKED [2026-08-18] — the tenure gap has its first occupant, and the**
+> **floor turns out to be a gradient rather than a line.**
 > [[wiki/people/danielle-onesi]] moved on 2026-08-18 for the James Dee ingest.
 > The change that matters here is not on her page but in what it uncovered:
 > [[wiki/people/james-dee]], a **fifty-six-day** tie running May–July 2025,
 > ended on 2025-07-11 by the most abrupt rupture in the corpus — twelve minutes
-> from Dan sending a psychological profile of James to James to *"OK, you can
-> quit MASS texting me"* ([[wiki/timeline/events/james-analysis-pdf]]).
+> from Dan sending a psychological profile of James to James to *"OK, you can*
+> *quit MASS texting me"* ([[wiki/timeline/events/james-analysis-pdf]]).
 >
 > **Why this section owns it.** The paragraph above has said since 2026-08-01
 > that no case exists between the five-day control and the six-year members.
@@ -468,16 +468,16 @@ handled in the re-check immediately below.
 > the tie resumed anyway, in person, in a basement confrontation over a new song
 > that Dan dates by his own anchor to **August–September 2025** (inferred, not
 > dated). So the node was not deleted — the falsifier for this page — but it was
-> not given a new job either. It went to **residual contact: reactivation
-> bandwidth retained at low amplitude, with no role attached.**
+> not given a new job either. It went to **residual contact: reactivation**
+> **bandwidth retained at low amplitude, with no role attached.**
 >
 > **The floor moves, and its shape changes.** The bracket was five days to six
 > years — a span of three orders of magnitude. It is now five days to
 > fifty-six, because retention of *some* kind is demonstrated at fifty-six.
 > More usefully, the floor is no longer a threshold with nothing on one side and
 > a structural tie on the other: there is a middle state, and this page had no
-> vocabulary for it. **Franki is deletion, Danielle is reassignment, James is
-> suspension without reassignment** — which is precisely the *suspend* primitive
+> vocabulary for it. **Franki is deletion, Danielle is reassignment, James is**
+> **suspension without reassignment** — which is precisely the *suspend* primitive
 > the 2026-08-13 correction argued the graph implements. The best available
 > instance of that correction's central claim was sitting unwired in the corpus
 > for five days.
@@ -499,13 +499,13 @@ handled in the re-check immediately below.
 > already queued there — those handles should divide by tenure, not by whether
 > they were ever answered.
 
-> **RESOLVED [2026-08-28] — was CONTRADICTION [2026-08-02]: the "five days"
-> is not Franki's, and a second capture settles it.** An operator capture
+> **RESOLVED [2026-08-28] — was CONTRADICTION [2026-08-02]: the "five days"**
+> **is not Franki's, and a second capture settles it.** An operator capture
 > ingested on 2026-08-02
 > ([[wiki/timeline/events/franki-fireworks-day-2013]]) first attached five
 > days to a *different person in the same episode*: **Alexis** stayed at
-> [[wiki/places/155-virginia-ave|155 Virginia Ave]] *"for 5 days before returning
-> to carmichaels to her parents."* Of Franki's own tenure that capture said only
+> [[wiki/places/155-virginia-ave|155 Virginia Ave]] *"for 5 days before returning*
+> *to carmichaels to her parents."* Of Franki's own tenure that capture said only
 > that she *"got sick of me basically immediately and it went nowhere."* At
 > the time neither reading was adopted, because the wiki's original five-day
 > figure traced to the Gemini-58 and DANSYNTH self-narrations — later
@@ -519,13 +519,13 @@ handled in the re-check immediately below.
 > Two independent first-person statements now agree, so per
 > [[wiki/mind/synthesis/instrument-is-subject]]'s own standard this has
 > crossed from single-witness testimony into corroborated residue-adjacent
-> fact. **The five days belong to Alexis. Franki's occupancy is confirmed,
-> across both captures, as collapsing immediately rather than lasting a
-> measured span.**
+> fact. **The five days belong to Alexis. Franki's occupancy is confirmed,**
+> **across both captures, as collapsing immediately rather than lasting a**
+> **measured span.**
 >
 > What this does to the page, stated plainly: exactly what the 2026-08-02
-> block predicted it would if this resolution landed. The control **holds
-> harder** — a shorter, now-settled Franki tenure ("immediately, and it went
+> block predicted it would if this resolution landed. The control **holds**
+> **harder** — a shorter, now-settled Franki tenure ("immediately, and it went
 > nowhere") makes the tenure-floor argument sharper, not weaker, and nothing
 > about her non-persistence changes. Every use of "five days" on this page
 > now refers to Alexis's displacement, not to the control case's own
@@ -558,8 +558,8 @@ outcome is not a measure of how strong the bond was — the graph does not
 implement delete. It implements dormancy, and dormancy is reversible by
 construction.
 
-> **CORRECTED [2026-08-13]:** this paragraph used to read *"severance is simply not an
-> operation this system has."* That sentence is withdrawn. Severance is an operation this
+> **CORRECTED [2026-08-13]:** this paragraph used to read *"severance is simply not an*
+> *operation this system has."* That sentence is withdrawn. Severance is an operation this
 > system has, Dan issued it himself at `00:27:49` on June 1 2026, and it ran for
 > fifty-two days with zero outbound against four inbound approaches. What the system
 > lacks is not the operation but its **permanence** — see the correction block above.
@@ -704,8 +704,8 @@ documents across different people.
 > didn't touch its argument — no new claim, date, or figure was introduced.
 > This page's dependency on it is untouched.
 
-> **RE-CHECKED [2026-08-15] — both premises moved, and both moves supply this
-> page with evidence rather than cost it any.**
+> **RE-CHECKED [2026-08-15] — both premises moved, and both moves supply this**
+> **page with evidence rather than cost it any.**
 > [[wiki/people/alexis-armel]] and [[wiki/mind/synthesis/the-unbroken-bond]]
 > both moved on 2026-08-15 for the same correction: the "cheating" that dated
 > the end of the Alexis relationship to 2015-11-28 is a retrospective account
@@ -723,9 +723,9 @@ documents across different people.
 > 2018 arrangement and the correspondence to 2025. The gap between "ended" and
 > "gone" is now measurable at the resolution of days at the very moment the bond
 > was replaced. Nothing on this page is withdrawn.
-> *(A first version of this block put her departure from Pennsylvania in
-> mid-January 2016 on a misread pronoun; corrected the same day — see
-> [[wiki/mind/synthesis/bond-switch-2015]]. She stayed.)*
+> *(A first version of this block put her departure from Pennsylvania in*
+> *mid-January 2016 on a misread pronoun; corrected the same day — see*
+> *[[wiki/mind/synthesis/bond-switch-2015]]. She stayed.)*
 
 ## The constitution pass
 

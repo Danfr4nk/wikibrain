@@ -129,10 +129,10 @@ ran through.
 | `raw/self/analysis/2026-08-18_forensic-analysis-morgantown-call.md` | An agent-authored analysis carrying a full speaker-labelled transcript, itself derived from a PDF transcript not in the corpus | **T2 AI-secondary, two removes from the audio.** See the corrections section. |
 
 > **SOURCING NOTE — SUPERSEDED [2026-08-20].** This page previously read:
-> *"the transcript in this page is not primary… Everything quoted from the
-> call comes from the AI-secondary analysis… The single highest-value open
-> action on this page is a real transcription of the audio."* **That action is
-> done.** The operator supplied a timestamped speaker-labelled transcript of
+> *"the transcript in this page is not primary… Everything quoted from the*
+> *call comes from the AI-secondary analysis… The single highest-value open*
+> *action on this page is a real transcription of the audio."* **That action is**
+> **done.** The operator supplied a timestamped speaker-labelled transcript of
 > the audio, filed at
 > `raw/self/audio/2026-08-16_Morgantown_St_call-transcript.txt`, and every
 > quotation in the section below has now been checked against it. The results
@@ -143,8 +143,8 @@ ran through.
 > **Two limits remain, and they are not the same limit.** First, the
 > transcript covers `00:00:00`–`00:14:59` against an audio duration of
 > `15:27.24`, so **the last ~28 seconds are untranscribed** and nothing should
-> be claimed about them. Second, **the speaker labels are diarization output,
-> not identification.** At least five of the 204 turns carry another
+> be claimed about them. Second, **the speaker labels are diarization output,**
+> **not identification.** At least five of the 204 turns carry another
 > speaker's words under the wrong label — 04:03 and 06:22 put Coles's lines
 > under Annie, 09:46 puts Annie's *"I'm willing to leave"* under Coles, 10:31
 > puts Dan's stock line under Coles, and 14:30 puts Coles's line under Dan.
@@ -264,11 +264,11 @@ and both of the others are responding to him.
   her leave now"* (12:15), against Coles goading him — *"Dan, come get her
   man. Do you have a car?"* (12:12).
 
-> **CORRECTED [2026-08-20] — five figures in this section were wrong, all
-> from the secondary transcript.**
+> **CORRECTED [2026-08-20] — five figures in this section were wrong, all**
+> **from the secondary transcript.**
 >
-> - *"fourteen separate times between 06:30 and 12:31"* → **twenty times,
->   06:31 to 14:17.** Undercounted by six, and the window was cut short by
+> - *"fourteen separate times between 06:30 and 12:31"* → **twenty times,**
+>   **06:31 to 14:17.** Undercounted by six, and the window was cut short by
 >   nearly two minutes; he is still saying it ninety seconds before the
 >   transcript ends.
 > - *"'I want to leave!' repeatedly from 11:04"* → **from 04:16**
@@ -276,16 +276,16 @@ and both of the others are responding to him.
 >   11:54. **Six minutes and forty-eight seconds earlier than stated**, which
 >   materially lengthens the window in which she is on record asking to go.
 > - Dan's first intervention is **05:12**, not 06:30, and it is not the stock
->   line: *"Hey psychopath, do you think it's really a hard choice when
->   you're the one screaming in her face who the fuck she's gonna pick? Shut
->   the fuck up, let her go."*
-> - Timestamps corrected: the phone confession 00:44 → **00:43**; *"You're
->   holding my phone"* 02:18 → **02:24**; the recording taunt 02:19 →
+>   line: *"Hey psychopath, do you think it's really a hard choice when*
+>   *you're the one screaming in her face who the fuck she's gonna pick? Shut*
+>   *the fuck up, let her go."*
+> - Timestamps corrected: the phone confession 00:44 → **00:43**; *"You're*
+>   *holding my phone"* 02:18 → **02:24**; the recording taunt 02:19 →
 >   **02:36**; *"kill yourself"* 07:51 → **08:12**; the junkie line 01:58 →
 >   **02:09**; the parent threat 08:41 → **08:37**.
 > - *"I'm going to call your dad. Fuck your mom"* (08:41) → the line is
->   **08:37** and **breaks off unfinished**: *"I'm gonna talk to your dad,
->   fuck your… Matter of fact…"* It is also a *counter*-threat, answering
+>   **08:37** and **breaks off unfinished**: *"I'm gonna talk to your dad,*
+>   *fuck your… Matter of fact…"* It is also a *counter*-threat, answering
 >   Dan's threat to call Coles's mother, not an opening move.
 
 > **CORRECTED [2026-08-20] — "she never says yes" does not survive the
@@ -304,8 +304,8 @@ and both of the others are responding to him.
 > **A "yes" extracted that way is worth nothing as evidence about 2019.** But
 > the page cannot claim she never said it, because she did, and Coles built on
 > it in the next breath. What the record supports is the narrower and still
-> decisive claim: **she never freely affirmed it, and she is never heard
-> affirming it when not under duress.**
+> decisive claim: **she never freely affirmed it, and she is never heard**
+> **affirming it when not under duress.**
 
 **What the secondary transcript missed entirely.** Four things, none of them
 minor, none of which appear anywhere on this page before today.
@@ -332,25 +332,25 @@ minor, none of which appear anywhere on this page before today.
 
 **And one thing that changes this page's own conclusion.**
 
-> **REVISED [2026-08-20] — the function shift happens inside the recording,
-> not twelve hours later.** This section closed by saying that within twelve
+> **REVISED [2026-08-20] — the function shift happens inside the recording,**
+> **not twelve hours later.** This section closed by saying that within twelve
 > hours Dan was *"using the same fifteen minutes as leverage against her,"*
 > and that *"the artifact does not change. Its function does."* The primary
 > transcript puts the turn **at 13:30, while the call is still running**:
 >
 > > **DAN:** Hey, you're gonna give her her phone back? Or we're gonna like…
-> > it's gonna be a real problem. Or… **I'm gonna send this whole thing to
-> > Ellen because it sounds really fucking bad and I haven't said a word this
-> > entire time.**
+> > it's gonna be a real problem. Or… **I'm gonna send this whole thing to**
+> **> Ellen because it sounds really fucking bad and I haven't said a word this**
+> **> entire time.**
 >
-> He repeats the threat at 13:46 with the elapsed time attached — *"what has
-> gone on for the last 13 minutes and 51 seconds"* — and Coles calls the bluff
-> four times in the closing ninety seconds (*"Dan, call Ellen. Stop bluffing.
-> Do it"*). Dan had already raised the police twice (10:23, 12:55) and been
+> He repeats the threat at 13:46 with the elapsed time attached — *"what has*
+> *gone on for the last 13 minutes and 51 seconds"* — and Coles calls the bluff
+> four times in the closing ninety seconds (*"Dan, call Ellen. Stop bluffing.*
+> *Do it"*). Dan had already raised the police twice (10:23, 12:55) and been
 > dared to dial (*"it's three numbers, 9-1-1. Stop fucking bluffing"*, 13:05).
 >
-> The correction cuts both ways and both halves belong on the page. **Against
-> Dan:** the recording is not a document he made for one reason and later
+> The correction cuts both ways and both halves belong on the page. **Against**
+> **Dan:** the recording is not a document he made for one reason and later
 > repurposed; it is being aimed at Annie's mother while Annie is still in the
 > room asking for her phone, which makes the "least self-interested fifteen
 > minutes" reading above **partly wrong** and it is corrected rather than
@@ -432,9 +432,9 @@ I was gonna come over. Talk this shit out."*
 
 Three minutes later, 19:38:
 
-> *"oh were you? When / **Because it wasn't actually sent** / And I knew you
-> would suddenly come back to life / And have all kinds of shit to say /
-> Which of course is what happened"*
+> *"oh were you? When / **Because it wasn't actually sent** / And I knew you*
+> *would suddenly come back to life / And have all kinds of shit to say /*
+> *Which of course is what happened"*
 
 He did not lie to hurt her. He lied to **measure** her — a controlled
 experiment with a stated hypothesis, a stated prediction, and a debrief, run
@@ -460,9 +460,9 @@ believing the record of her making it had already reached her mother (see
 **The catalyst** above). Dan screenshots something at 07:27:35. The register
 changes at 11:25 and never changes back:
 
-> *"Dont forget which one of us actually tried to ruin your life by exposing
-> you to your parents / And which one of us just wanted to know the fucking
-> truth."*
+> *"Dont forget which one of us actually tried to ruin your life by exposing*
+> *you to your parents / And which one of us just wanted to know the fucking*
+> *truth."*
 >
 > *"I could have torn your life apart. I still could and I don't."*
 
@@ -546,10 +546,10 @@ of both men, that **Coles** did not rape her — a public retraction of the
 accusation she had made to Dan repeatedly and was still making to him privately
 that same night. Per the operator, and this is the part that fixes the timing:
 
-> *"she sent that thinking that i had sent an email to her mother documenting
-> all the times she had made that claim to me and her continued insistence it
-> was true… that is the purpose of her retraction at 630am, hours before she
-> expects her parents to read what she had told me."*
+> *"she sent that thinking that i had sent an email to her mother documenting*
+> *all the times she had made that claim to me and her continued insistence it*
+> *was true… that is the purpose of her retraction at 630am, hours before she*
+> *expects her parents to read what she had told me."*
 
 **The date is 2026-08-19**, and the message record independently supports it
 three ways:
@@ -561,14 +561,14 @@ three ways:
 | The register of the whole thread changes at **11:25** — from asserting the disclosure as executed to insisting he *didn't* do it. Before 06:33 there is no such turn anywhere in the window. | The effect sits four hours after the cause. |
 
 > **One inconsistency, held rather than smoothed.** The operator's first
-> statement calls this the catalyst for *"telling her i hadnt actually sent the
-> recording,"* and the explicit admission of the false send is **2026-08-18
-> 19:38** — before this. Both can be true if the two are different acts: the
-> Aug 18 admission was a test debrief (*"I knew you would suddenly come back to
-> life"*), while what the Aug 19 retraction produces is the **abandonment of
-> the claim altogether** — 11:25, then plainly at 15:12. The operator's own
-> phrasing supports that reading (*"the shift… to essentially having no runway
-> left to work with"*). The group-chat export settles it in one query and has
+> statement calls this the catalyst for *"telling her i hadnt actually sent the*
+> *recording,"* and the explicit admission of the false send is **2026-08-18**
+> **19:38** — before this. Both can be true if the two are different acts: the
+> Aug 18 admission was a test debrief (*"I knew you would suddenly come back to*
+> *life"*), while what the Aug 19 retraction produces is the **abandonment of**
+> **the claim altogether** — 11:25, then plainly at 15:12. The operator's own
+> phrasing supports that reading (*"the shift… to essentially having no runway*
+> *left to work with"*). The group-chat export settles it in one query and has
 > never been filed.
 
 ### What the retraction actually did
@@ -584,8 +584,8 @@ in.
 
 **And per the operator she had agreed to do the same for Dan and did not:**
 
-> *"i had called her and said that she needed to do the same for me and she
-> said she would but did not."*
+> *"i had called her and said that she needed to do the same for me and she*
+> *said she would but did not."*
 
 The call is voice and appears in no export; it rests on testimony alone. What
 does not rest on testimony is what Dan says at the end of the day, which had
@@ -620,23 +620,23 @@ the choice. It is the choice performed, and then denied all afternoon.
 
 The operator states plainly:
 
-> *"i did not try to blackmail her with the information, i was going to give
-> her the fairness of being able to see and raise any concerns about
-> authenticity or anything else in advance but she kept successfully appealing
-> to me with short term stall tactics and appeals to emotion."*
+> *"i did not try to blackmail her with the information, i was going to give*
+> *her the fairness of being able to see and raise any concerns about*
+> *authenticity or anything else in advance but she kept successfully appealing*
+> *to me with short term stall tactics and appeals to emotion."*
 
 **The advance-sight offer is corroborated, repeatedly, in his own outbound
 messages** — it is not a retrospective gloss:
 
-> *"If you would like to see what I wrote and attached before I send it I can
-> let you see it first to make sure you don't accuse me of putting fake things
-> in"* (Aug 17 19:32)
+> *"If you would like to see what I wrote and attached before I send it I can*
+> *let you see it first to make sure you don't accuse me of putting fake things*
+> *in"* (Aug 17 19:32)
 >
-> *"I'M NOT BLACKMAILING YOU — YOU KEEP ASKING ME TO GIVE YOU A CHANCE AND I
-> SAY YES AND YOU DON'T SAY ABYTHING"* (Aug 18 19:44)
+> *"I'M NOT BLACKMAILING YOU — YOU KEEP ASKING ME TO GIVE YOU A CHANCE AND I*
+> *SAY YES AND YOU DON'T SAY ABYTHING"* (Aug 18 19:44)
 >
-> *"I am going to include that also so you don't say I am like holding this
-> above your head"* (Aug 18 21:44)
+> *"I am going to include that also so you don't say I am like holding this*
+> *above your head"* (Aug 18 21:44)
 
 **The stalling is corroborated too**, and it is the reason the deadlines kept
 moving: *"Can you wait until Claire picks them up"* (Aug 18 15:25), *"Give me a
@@ -658,9 +658,9 @@ the evidence available, it was not.
 ### August 19 — the last day, read closely
 
 > **CORRECTED [2026-08-20].** The first version of this section said the day
-> ended with *"Goodbye. I am blocking"* at 15:07:03 and called it **"the first
-> goodbye in this record with no *unless* attached… no condition, no deadline,
-> no request."** Both halves are wrong, and a close re-read of the 194 messages
+> ended with *"Goodbye. I am blocking"* at 15:07:03 and called it **"the first**
+> **goodbye in this record with no** *unless* **attached… no condition, no deadline,**
+> **no request."** Both halves are wrong, and a close re-read of the 194 messages
 > of August 19 is what found it. **The block was declared and not executed**:
 > eight more messages follow it inside eight minutes, including one from Annie
 > that Dan answers. And the closing stretch is **explicitly conditional** —
@@ -700,9 +700,9 @@ self-blame arrives eleven seconds after the claim, unprompted.
 **11:25–11:58 — the eulogy, and the memory deletion.** Six long messages, none
 answered. This is the register change:
 
-> *"There never was an eggie bagels. I never had a dog named Betty. I don't
-> know what happened from November 24, 2015 until today but I know that you
-> never existed and aren't worth being sad over anymore."* (11:41:38)
+> *"There never was an eggie bagels. I never had a dog named Betty. I don't*
+> *know what happened from November 24, 2015 until today but I know that you*
+> *never existed and aren't worth being sad over anymore."* (11:41:38)
 
 The nickname, the dog, and the relationship's start date deleted in one
 sentence. The same message contains the forward statement — *"I am going to
@@ -845,23 +845,23 @@ confirmed by the file's own device and location metadata. It is also a T2
 source that this pass had to correct in three places, and the pattern of the
 errors is worth more than the errors.
 
-> **CORRECTED [2026-08-20] — the analysis places Dan's own house at the
-> crime scene.** Its header reads *"Location: 463 Morgantown St (the other
-> guy's house) — Dan was NOT present."* **463 Morgantown St is Dan's
-> residence** ([[wiki/legal/463-morgantown]]), which is why Coles typing it
-> at him the next day is a threat and why Dan answers *"why are you sending
-> me my address?"*. Coles's address of record is 106 Nassau St. The analysis
+> **CORRECTED [2026-08-20] — the analysis places Dan's own house at the**
+> **crime scene.** Its header reads *"Location: 463 Morgantown St (the other*
+> *guy's house) — Dan was NOT present."* **463 Morgantown St is Dan's**
+> **residence** ([[wiki/legal/463-morgantown]]), which is why Coles typing it
+> at him the next day is a threat and why Dan answers *"why are you sending*
+> *me my address?"*. Coles's address of record is 106 Nassau St. The analysis
 > appears to have read the recording's filename as naming the scene, when the
 > filename names the **recorder's** location. Ingested uncritically, this
 > single field would have put Dan inside the confrontation — the exact
 > inversion its own headline correction exists to prevent.
 
 > **CORRECTED [2026-08-20] — two more messages belong to Coles.** The
-> analysis attributes 23:53:31 *"Call her"* and 23:53:45 *"You think I care
-> ?"* to Annie, having just established that Coles was typing on her phone at
+> analysis attributes 23:53:31 *"Call her"* and 23:53:45 *"You think I care*
+> *?"* to Annie, having just established that Coles was typing on her phone at
 > 23:42:57 and 23:45:10. They are Coles, and its own transcript proves it:
-> at audio 14:23 he is saying the same words aloud — *"Do it, Dan. Call
-> Ellen. Stop bluffing… You think I give a fuck?"* The attribution rule was
+> at audio 14:23 he is saying the same words aloud — *"Do it, Dan. Call*
+> *Ellen. Stop bluffing… You think I give a fuck?"* The attribution rule was
 > applied to the accusations and then dropped one exchange later.
 
 > **INCOMPLETE — the analysis's export ends 2026-08-17 15:39.** Its

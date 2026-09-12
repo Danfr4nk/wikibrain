@@ -129,20 +129,20 @@ knowledge in place of happiness and stability); **chemical engineering**
 private religion, with cycles of fusion and collapse); and **social
 interface** (self-imposed, intellectually fortified exile).
 
-> **GAP CLOSED [2026-08-22]:** the motivational-system claim — *"intensity and
-> forbidden knowledge in place of happiness and stability"* — now has a
+> **GAP CLOSED [2026-08-22]:** the motivational-system claim — *"intensity and*
+> *forbidden knowledge in place of happiness and stability"* — now has a
 > measurement behind it taken from **outside** the apparatus, and it settles
 > half the claim while leaving the other half exactly where it was. A count of
 > first-person happiness claims across 106,629 sent messages returns **170**, a
 > rate of **1.59 per 1,000**, concentrated so heavily in the first five weeks of
 > the Annie relationship (**7.86 per 1,000**) that every subsequent year sits
-> between 0.00 and 2.72 — **including the years of maximum capital and maximum
-> supply.**
+> between 0.00 and 2.72 — **including the years of maximum capital and maximum**
+> **supply.**
 >
 > That is not proof of the *substitution* the audit asserts, and it is
 > independent evidence for the half that can be counted: whatever this system
-> optimises for, **the trace of feeling good is thin and does not track any of
-> the usual inputs.** The audit is testimony; this is residue
+> optimises for, **the trace of feeling good is thin and does not track any of**
+> **the usual inputs.** The audit is testimony; this is residue
 > ([[wiki/mind/synthesis/instrument-is-subject]]). The distinction is the same
 > one the section below applies to the audit's ten outliers, and it is the only
 > honest way to read a self-commissioned instrument.

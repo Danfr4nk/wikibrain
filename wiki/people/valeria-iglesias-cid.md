@@ -93,11 +93,11 @@ by association.
 
 > **REVISED [2026-07-18]:** a direct parse of `message_1.json` corrects
 > this section's earlier "continuous low-frequency contact 2022–2025"
-> framing. The Instagram record is actually a **six-week detonation and a
-> coda**: 1,038 messages in the last four days of May 2022, **3,830 in
-> June 2022 alone** (the single loudest month of any side-channel in the
-> corpus), 12 stragglers in July–August 2022 — then **three years of
-> Instagram silence** — then a four-message exchange on July 11, 2025
+> framing. The Instagram record is actually a **six-week detonation and a**
+> **coda**: 1,038 messages in the last four days of May 2022, **3,830 in**
+> **June 2022 alone** (the single loudest month of any side-channel in the
+> corpus), 12 stragglers in July–August 2022 — then **three years of**
+> **Instagram silence** — then a four-message exchange on July 11, 2025
 > (Dan sends an attachment + "too pretty stop it. omg im dead"; she
 > replies "Hahahahaha" / "Miss u"). The 2023–2024 contact the earlier
 > version attributed to this thread actually ran over **iMessage** at her

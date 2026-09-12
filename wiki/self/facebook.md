@@ -69,8 +69,8 @@ chain, and the exact Annie relationship timestamp (Nov 28 2015, anchoring
 > `places lived` gives **Brooklyn NYC from January 3, 2010**. The
 > [[wiki/self/twitter|tweet archive]] has Dan in Florida for another
 > eight weeks: *"moving to brooklyn in 9 days"* on 20 February 2010,
-> *"last day in errrlando…hangin in a u-haul store"* on the 27th, *"peace
-> out, florida. it's been real."* on the 28th.
+> *"last day in errrlando…hangin in a u-haul store"* on the 27th, *"peace*
+> *out, florida. it's been real."* on the 28th.
 >
 > **This export contradicts itself, and the other half is right.** The
 > `work history` row two lines up starts **Ishlab Studio in March 2010**
@@ -80,8 +80,8 @@ chain, and the exact Annie relationship timestamp (Nov 28 2015, anchoring
 > value Dan typed into a profile form at an unknown later moment, it is
 > memory, and it drifted by two months.
 >
-> The distinction is worth carrying beyond this page: **a Facebook
-> profile field is testimony, not a record.** `relationship … since
+> The distinction is worth carrying beyond this page: **a Facebook**
+> **profile field is testimony, not a record.** `relationship … since
 > November 28, 2015` is a system-generated timestamp and can anchor a
 > period page. `places lived: from Jan 3, 2010` is free text and cannot.
 > They sit in the same table and look identical. See

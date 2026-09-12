@@ -196,8 +196,8 @@ street."*
 > **CONTRADICTION [2026-08-08] — open.** Dan attributes the Virginia Avenue
 > passage to ***The Bend of the World*** (2014) and cites pages 227–228.
 > Bacharach's own February 2021 message names a different novel as the
-> Uniontown book: *"it figures prominently in my Doorposts of Your House
-> novel."* The reading record sides with Bacharach. Dan's Goodreads library
+> Uniontown book: *"it figures prominently in my Doorposts of Your House*
+> *novel."* The reading record sides with Bacharach. Dan's Goodreads library
 > and the FAVS masterlist each contain exactly one Bacharach title —
 > ***The Doorposts of Your House and on Your Gates*** (Liveright, 2017),
 > rated **5**, shelved 2022-03-24 — and *The Bend of the World* appears in

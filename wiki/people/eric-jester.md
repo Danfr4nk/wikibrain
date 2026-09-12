@@ -58,8 +58,8 @@ Eric Jester is a Full Sail film-school friend (contacts notes: "sandwich eater. 
 ## The dense years the message record cannot see
 
 > **CORRECTED [2026-09-02]:** this page described the friendship itself as
-> "sparse but genuinely warm." That is an accurate reading of the *message
-> thread*, which begins **May 2017**. It is not an accurate description of
+> "sparse but genuinely warm." That is an accurate reading of the *message*
+> *thread*, which begins **May 2017**. It is not an accurate description of
 > the friendship, because the eight years before that are not in any message
 > export — and the [[wiki/self/twitter|@danfrank archive]] holds them.
 

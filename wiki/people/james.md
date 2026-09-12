@@ -9,7 +9,7 @@ date_range_start: 2025-05-27
 date_range_end: present
 sources:
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/message-csv/imessage_*_2025 slices
+  - *raw/self/message-csv/imessage_*_2025 slices
   - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md
   - raw/self/dox-md/Gemini-_21.md
   - raw/self/dox-md/Gemini Activity.html

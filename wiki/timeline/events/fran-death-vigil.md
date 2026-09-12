@@ -312,16 +312,16 @@ anywhere in the corpus outside the November–December 2015 onset flood.**
 Four dated statements inside six days, three of them to people outside the
 household:
 
-> **2018-04-01 19:28** — *"i've grown from seeing this from such a close
-> perspective and i got to make sure she had fun during her last days."*
-> **2018-04-02 09:15** — *"she spent the last year of her life with people who
-> cared about her and legitimately had fun."*
-> **2018-04-02 22:58** — *"i have said my goodbyes to her like 3 or 4 times now…
-> i've got all the closure i need with her."*
-> **2018-04-06 17:55** — *"i spent the past 6 months looking after her full time
-> ($15 an hour to play video games with gram is a good deal) and we had a lot of
-> fun. got good closure and finally did something in my life that wasn't
-> completely selfish haha"*
+> **2018-04-01 19:28** — *"i've grown from seeing this from such a close*
+> *perspective and i got to make sure she had fun during her last days."*
+> **2018-04-02 09:15** — *"she spent the last year of her life with people who*
+> *cared about her and legitimately had fun."*
+> **2018-04-02 22:58** — *"i have said my goodbyes to her like 3 or 4 times now…*
+> *i've got all the closure i need with her."*
+> **2018-04-06 17:55** — *"i spent the past 6 months looking after her full time*
+> *($15 an hour to play video games with gram is a good deal) and we had a lot of*
+> *fun. got good closure and finally did something in my life that wasn't*
+> *completely selfish haha"*
 
 A `bin/mine-messages` sweep of all 106,629 sent messages finds no second
 instance of Dan reporting a good outcome from something he *did* rather than
@@ -338,8 +338,8 @@ in the same corpus produced none, and required an external severance signal
 after ten years ([[wiki/mind/concepts/attachment-model]]) rather than
 anything resembling this page's April 2 and April 6 statements.
 
-> **REVISED [2026-07-18] (two corrections from the primary Photo Thread
-> PT II session + caregiver threads):** (1) Earlier versions of this page
+> **REVISED [2026-07-18] (two corrections from the primary Photo Thread**
+> **PT II session + caregiver threads):** (1) Earlier versions of this page
 > fused **two separate falls** into one — the filmed 8:00 AM
 > discovery/keno episode was an earlier spill Fran survived by months;
 > the fall that triggered the hospital sequence was the night of

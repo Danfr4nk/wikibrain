@@ -47,8 +47,8 @@ next to it.
 
 ## The exchange
 
-> **13:08** — Annie: *"Do me favor lol make me an AI drug test results for
-> fayette county drug and alcohol that shows passing 😂"*
+> **13:08** — Annie: *"Do me favor lol make me an AI drug test results for*
+> *fayette county drug and alcohol that shows passing 😂"*
 > **13:08** — *"My parents asked me to show results"*
 > **13:08** — *"Okay bye gotta go"* — she is walking into counselling
 >

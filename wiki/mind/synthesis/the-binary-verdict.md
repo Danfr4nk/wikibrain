@@ -103,16 +103,16 @@ down establishes why the same mind runs two machines — a dominant closure
 function with almost no relational grading function beside it, sitting on
 a corpus-confirmed low-trust default.
 
-> **RE-CHECKED [2026-09-04] — a premise moved and it puts a real question to
-> one row of the table below.** [[wiki/mind/concepts/the-cool-metric]] gained a
+> **RE-CHECKED [2026-09-04] — a premise moved and it puts a real question to**
+> **one row of the table below.** [[wiki/mind/concepts/the-cool-metric]] gained a
 > section showing the sorting metric run on a six-year live-in partner:
 > affection in the public register falls from 12 of 32 mentions in 2010 to 3 of
 > 47 across 2011-2014, the last three namings are jokes at her expense, and she
 > is never publicly named again across the relationship's final twenty-four
 > months and 1,132 posts.
 >
-> **The question that raises, stated rather than answered.** The *Taste and
-> people* row asserts no documented middle value. Six years of retained
+> **The question that raises, stated rather than answered.** The *Taste and*
+> *people* row asserts no documented middle value. Six years of retained
 > cohabitation with the warm register at zero could be read as one — kept, not
 > celebrated, not ejected. It could equally be read as the verdict having landed
 > on *performed* years earlier with the tie retained anyway, which is
@@ -477,8 +477,8 @@ this pass.
 
 ## Gaps
 
-> **REVISED [2026-08-28] — the constitution pass narrows this gap rather
-> than closes it.** This entry previously asked whether the binary default
+> **REVISED [2026-08-28] — the constitution pass narrows this gap rather**
+> **than closes it.** This entry previously asked whether the binary default
 > is downstream of Core Axiom 1 specifically, or an instance of a more
 > general Ti-dominant, forensic-verdict cognitive style, and flagged
 > [[wiki/mind/concepts/forensic-method]] as a plausible deeper mechanism
@@ -486,8 +486,8 @@ this pass.
 > (see "The mechanism" above): the forensic method's four-step procedure is
 > a threshold gate with the same two outputs (elevate / do not elevate) as
 > every domain on this page, and it names its own grounding in the same
-> Intellect/Introspection and Trust/Altruism registers argued above. **What
-> remains genuinely open** is the direction of the arrow between Core Axiom
+> Intellect/Introspection and Trust/Altruism registers argued above. **What**
+> **remains genuinely open** is the direction of the arrow between Core Axiom
 > 1 and the cognitive stack — whether the axiom is a *product* of a mind
 > built this way, or whether the axiom (however it was formed — register 8,
 > age and upbringing, could not date its origin either) is itself doing some

@@ -99,8 +99,8 @@ row in this corpus by at least five and a half years.
 
 **Pricing & Quantity**: No price negotiation anywhere in the thread; commodity transaction. Quantity is named exactly **twice** in 4,413 messages — *"Okay. I need 8 of them"* (2018-11-08) and *"Need 8"* (2019-02-13) — with *"I only got 8 when I got back"* (2019-03-25) confirming the unit is countable and pre-portioned rather than weighed. See the correction below: "8" is overwhelmingly a **clock time** in this thread, not an order size.
 
-> **CORRECTED [2026-08-21] — the thread's transaction language was misread, and
-> the true version is a stronger OPSEC finding.** This page asserted
+> **CORRECTED [2026-08-21] — the thread's transaction language was misread, and**
+> **the true version is a stronger OPSEC finding.** This page asserted
 > *"Consistent quantity requests — Dan typically orders '8'"* and, under
 > Operational Security, *"'Need 8' is the entire transaction language."*
 > Measured against the 2,660 sent messages: **`need 8` occurs twice**, and the
@@ -110,8 +110,8 @@ row in this corpus by at least five and a half years.
 > same 18:00–20:00 delivery window the metrics section measures. The claim
 > read a timestamp as a dosage.
 >
-> **What the transaction language actually is: availability, ETA, address —
-> and no product, ever.** The measured idiom, by frequency of Dan's sent
+> **What the transaction language actually is: availability, ETA, address —**
+> **and no product, ever.** The measured idiom, by frequency of Dan's sent
 > messages:
 >
 > | Phrase | Count |
@@ -123,10 +123,10 @@ row in this corpus by at least five and a half years.
 > | `how long` / `how long u think` | **72** |
 > | `ok` / `k` / `thx` / `thanks` (acknowledgements) | **~790** |
 >
-> A complete order in this thread is *"can you stop by"* followed by *"I'm home
-> on 76."* Nothing is named, nothing is counted, nothing is priced. The
-> discipline is not that the product had a codeword — it is that **the product
-> is absent from the exchange entirely**, and both parties knew the order
+> A complete order in this thread is *"can you stop by"* followed by *"I'm home*
+> *on 76."* Nothing is named, nothing is counted, nothing is priced. The
+> discipline is not that the product had a codeword — it is that **the product**
+> **is absent from the exchange entirely**, and both parties knew the order
 > without stating it. That is what six years of "discretion please" actually
 > produced, and it is a better version of the claim this page was trying to
 > make.
@@ -271,10 +271,10 @@ surely went unconfirmed by text.
   Menore's route hours, in sharp contrast to Dan's own nocturnal
   baseline documented in [[wiki/mind/synthesis/intake-constancy]].
 
-> **RESOLVED [2026-08-21] — the 1,458-day gap is an artifact of the handle,
-> not a break in service.** This block previously read as an unresolved
-> CONTRADICTION: the dedicated export shows **no traffic between May 26, 2020
-> and May 24, 2024**, which appeared to contradict both this page's
+> **RESOLVED [2026-08-21] — the 1,458-day gap is an artifact of the handle,**
+> **not a break in service.** This block previously read as an unresolved
+> CONTRADICTION: the dedicated export shows **no traffic between May 26, 2020**
+> **and May 24, 2024**, which appeared to contradict both this page's
 > "sustained operations" framing and the Au Za'atar storytime's claim
 > ([[wiki/work/au-zaatar]]) that Menore served Dan through 2021–24. It offered
 > two branches — an intermediate number, or a storytime that compresses the
@@ -288,29 +288,29 @@ surely went unconfirmed by text.
 >
 > - **2023** — *"i texted menore right by carnegie hall"* (Aug 13),
 >   *"Menore supposed to be here at 10:20"* (Sep 2), *"Menore said 20 mins"*
->   (Oct 17) and again (Oct 18), *"Did you call menore?"* (Nov 7), *"I need
->   you to see menore and when you do; get my vape from him"* (Dec 29).
-> - **Jan–May 2024, before the handle resumes on May 24** — *"Menore said he
->   is in Brooklyn and will let me know"* (Jan 26), *"Menore said 1020"*
+>   (Oct 17) and again (Oct 18), *"Did you call menore?"* (Nov 7), *"I need*
+>   *you to see menore and when you do; get my vape from him"* (Dec 29).
+> - **Jan–May 2024, before the handle resumes on May 24** — *"Menore said he*
+>   *is in Brooklyn and will let me know"* (Jan 26), *"Menore said 1020"*
 >   (Feb 2), *"Menore will be here around 9"* (Feb 28), *"I just text menore"*
 >   (Mar 12).
 >
 > Those are the exact quote-an-ETA-then-confirm-arrival mechanics this page
-> documents as the service's signature, running years into the "gap." **The
-> Au Za'atar 2021–24 claim is therefore corroborated, not compressed**, and
+> documents as the service's signature, running years into the "gap." **The**
+> **Au Za'atar 2021–24 claim is therefore corroborated, not compressed**, and
 > the 2024-05-24 message is a re-introduction to a *number*, not to a man.
 >
 > Two residues remain. **2022 returns zero mentions** — the one year in the
 > record with no evidence either way, and the only place a real service break
 > could still hide. And *"Menore #1?"* (2024-01-27, inbound) implies Dan was
 > running more than one Menore contact simultaneously, which is the mechanism
-> itself showing up in the record. **No export exists for any handle but
-> 3476070497**, so the intermediate number's own thread is unrecovered; every
+> itself showing up in the record. **No export exists for any handle but**
+> **3476070497**, so the intermediate number's own thread is unrecovered; every
 > 2021–2024 datum above is a third-party mention, not a message to Menore.
 >
 > **GAP CLOSED [2026-08-26]:** the operator, T0, first person
-> (`raw/people/captures/2026-08-26_034338_gap-menore.md`): *"I had a flip
-> phone that year."* 2022's silence has an ordinary explanation that does not
+> (`raw/people/captures/2026-08-26_034338_gap-menore.md`): *"I had a flip*
+> *phone that year."* 2022's silence has an ordinary explanation that does not
 > require a service break: a flip phone is not going to generate the same
 > iMessage/SMS trail as the smartphone years bracketing it on both sides, and
 > the *other* threads that carry the 2021 and 2023 third-party mentions above

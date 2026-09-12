@@ -109,9 +109,9 @@ design.
 
 > Every interpretive frame in this wiki that did not come from the primary
 > record traces to an AI session, is marked non-primary on arrival, and has no
-> corroboration independent of a model's own output. **`knowledge:` must
-> therefore propagate upward: a page that synthesizes a `mixed` page cannot
-> itself be `earned` unless it adds primary evidence.**
+> corroboration independent of a model's own output. **`knowledge:` must**
+> **therefore propagate upward: a page that synthesizes a `mixed` page cannot**
+> **itself be `earned` unless it adds primary evidence.**
 
 Three falsifiers, each checkable:
 
@@ -186,8 +186,8 @@ writing the same kind of self-wiki would likely have produced a softer
 standard and a less severe version of this page's problem — or simply
 never noticed the problem existed.
 
-> **RE-CHECKED [2026-08-02] — the premise moved, the rule survives, and the
-> movement is the rule's first live exercise.**
+> **RE-CHECKED [2026-08-02] — the premise moved, the rule survives, and the**
+> **movement is the rule's first live exercise.**
 > [[wiki/mind/synthesis/ancestral-dialectic]] was revised on 2026-08-02 after a
 > direct read of the GEDCOM contradicted it: the report has the paternal line
 > fleeing the pogroms *into* the Fayette County coal patch, while the census
@@ -198,10 +198,10 @@ never noticed the problem existed.
 > executed for the first time. The worked example got more worked. Nothing on
 > this page needed weakening.
 
-> **GAP CLOSED [2026-08-02] — the enumeration was run, and `knowledge:` does not
-> propagate.** All 19 pages carrying `synthesizes:` were enumerated against their
-> premises' `knowledge:` values. **Ten of them reason from at least one `mixed`
-> premise, and every one is marked `earned`** — `attachment-trauma-bond`,
+> **GAP CLOSED [2026-08-02] — the enumeration was run, and `knowledge:` does not**
+> **propagate.** All 19 pages carrying `synthesizes:` were enumerated against their
+> premises' `knowledge:` values. **Ten of them reason from at least one `mixed`**
+> **premise, and every one is marked `earned`** — `attachment-trauma-bond`,
 > `block-unblock-loop`, `dan-annie-fallout-verdict`, `dormancy-not-exit`,
 > `estate-money-spine`, `fayette-return`, `instrument-is-subject` (this page),
 > `supply-network`, `the-unbroken-bond`, plus `suzanne-frank` with the field

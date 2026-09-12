@@ -114,8 +114,8 @@ connections:
 > shape, not the new counter-instance. **No claim on this page is affected.**
 
 > **RESOLVED [2026-08-23] — the 127/110 pair is settled, and it settles at 100%.**
-> This page has carried *"127 exit declarations against 110 re-engagements (87%
-> relapse)"* flagged `[DERIVED]` from the dossier passes, against
+> This page has carried *"127 exit declarations against 110 re-engagements (87%*
+> *relapse)"* flagged `[DERIVED]` from the dossier passes, against
 > [[wiki/mind/concepts/attachment-model]]'s Gaps section, which noted that the
 > same dossiers describe the re-engagement rate as *"effectively 100%"* and that
 > neither figure had ever been re-derived from primary data. It has now been
@@ -123,16 +123,16 @@ connections:
 >
 > Searching Dan-sent severance language — blocking declarations, *goodbye*,
 > *I'm done / we're done / it's over*, *never contact me again* — across the
-> **95,067-row merged Annie corpus** (2015-11-28 → 2026-05-28) returns **258
-> messages, collapsing to 129 distinct episodes** when hits within 24 hours of
+> **95,067-row merged Annie corpus** (2015-11-28 → 2026-05-28) returns **258**
+> **messages, collapsing to 129 distinct episodes** when hits within 24 hours of
 > each other are treated as one declaration.
 >
-> **129 episodes against the dossier's 127, from a completely independent
-> method.** That is corroboration, not coincidence, and it retires the doubt
+> **129 episodes against the dossier's 127, from a completely independent**
+> **method.** That is corroboration, not coincidence, and it retires the doubt
 > this page has carried about its own headline number.
 >
-> **The relapse figure is not 87%. It is 100%, and the interesting part is the
-> speed.** Of the 129 episodes, 128 are followed by a further message inside the
+> **The relapse figure is not 87%. It is 100%, and the interesting part is the**
+> **speed.** Of the 129 episodes, 128 are followed by a further message inside the
 > corpus (the 129th is the last row in the file). **All 128 resumed.** The median
 > gap between a severance declaration and the next message in either direction
 > is **0.01 hours — thirty-six seconds.** 89.1% resumed inside one hour; 99.2%
@@ -145,14 +145,14 @@ connections:
 > **And this is what makes June 1 2026 an outlier rather than an instance.**
 > Against a base rate of 129 declarations, a median resumption of thirty-six
 > seconds and an all-time maximum of 46 hours, the fifty-two-day silence that
-> followed the June 1 closure is **twenty-seven times longer than the longest
-> gap in the preceding decade.** This page's falsified prediction — that the
+> followed the June 1 closure is **twenty-seven times longer than the longest**
+> **gap in the preceding decade.** This page's falsified prediction — that the
 > June severance would hold — now reads differently in its own favour: it was
 > not a bad call against a flat prior, it was a call on an event that was, by
 > the only measure available, unprecedented by more than an order of magnitude.
 > It still failed, and both facts belong on the page. The rule this page states
-> survived; what the numbers add is **how far the exception had to travel before
-> it broke.**
+> survived; what the numbers add is **how far the exception had to travel before**
+> **it broke.**
 >
 > The corpus used ends 2026-05-28 and therefore excludes both the June 1 closure
 > and the August 19 severance. The 100% figure describes the decade *before*
@@ -163,8 +163,8 @@ connections:
 > [[wiki/people/annie-ulmer]] and [[wiki/mind/concepts/attachment-model]] (both
 > 2026-08-22). Both moved to carry a pointer into
 > [[wiki/mind/synthesis/the-rescue-premise]]; no figure, arc section or claim
-> was withdrawn on either. **One claim on this page is directly engaged and it
-> is engaged in this page's favour, not against it.** That page's Part I item 1
+> was withdrawn on either. **One claim on this page is directly engaged and it**
+> **is engaged in this page's favour, not against it.** That page's Part I item 1
 > argues that the August 19 2026 severance is the first in the record to name
 > and pre-close its own most likely reopening channel — Milo and
 > thinking-of-you news, the July 4 route that ended the fifty-two-day silence —
@@ -181,33 +181,33 @@ connections:
 > answers *"WOW / That is all I needed to see."* She had answered; she had not
 > answered **the binary he specified** (*him or me*), which admits no third
 > option. Every threat in this page's eleven-year record demands a *statement*,
-> and **a demand for a statement can only be satisfied by the exact statement
-> specified** — so a different true answer registers as no answer at all. The
+> and **a demand for a statement can only be satisfied by the exact statement**
+> **specified** — so a different true answer registers as no answer at all. The
 > architecture is not detecting deception at that moment; it is detecting
 > non-compliance with a template and cannot tell the two apart. That is the
 > likeliest reason 127 exits produced 110 re-engagements: the terminating
 > condition was never reachable by anything the other party was willing to say.
 
 
-> **ADDED [2026-08-20] — the August 2026 threat was not blackmail, and the
-> distinction is load-bearing for how this page counts.** The three-day
+> **ADDED [2026-08-20] — the August 2026 threat was not blackmail, and the**
+> **distinction is load-bearing for how this page counts.** The three-day
 > maternal-disclosure campaign of 2026-08-17/19
 > ([[wiki/timeline/events/august-2026-morgantown-call]]) demanded no money, no
 > sex, no contact and no return — only a written statement that Annie was
 > finished with [[wiki/people/jerel-coles|Coles]] — and the material was
-> repeatedly offered to her for inspection *before* use (*"If you would like to
-> see what I wrote and attached before I send it I can let you see it first"*,
+> repeatedly offered to her for inspection *before* use (*"If you would like to*
+> *see what I wrote and attached before I send it I can let you see it first"*,
 > 08-17 19:32). Eleven deferrals were requested and every one was granted. That
 > is not the structure of blackmail. It is also not nothing: a disclosure held
 > over someone for three days with moving deadlines has coercive force whatever
-> it is called, and Annie names it (*"You're making this worse for me doing
-> that"*). **Both hold, and this page should score the threat class by its
-> demand rather than by its intensity** — every instance in the corpus demands
+> it is called, and Annie names it (*"You're making this worse for me doing*
+> *that"*). **Both hold, and this page should score the threat class by its**
+> **demand rather than by its intensity** — every instance in the corpus demands
 > a *statement*, which is why none of them ever converts into an exchange, and
 > which is the likeliest reason the execution rate has stayed at or near zero
-> for eleven years. On the best current evidence the August campaign was **not
-> executed** either: 2026-08-19 15:12:16, *"I could have torn your life apart.
-> I still could and I don't."*
+> for eleven years. On the best current evidence the August campaign was **not**
+> **executed** either: 2026-08-19 15:12:16, *"I could have torn your life apart.*
+> *I still could and I don't."*
 
 
 Across the corpus, Dan's severances follow one script: **the exit is
@@ -256,8 +256,8 @@ documented at all.
 | [[wiki/people/menore]] (control) | No block — farewell text, Feb 20 2025 | Dependency ended by geography | Clean close, no loop — **but not a closed channel**: supplier confirmed still operating 2026, and Dan benchmarked his new market against him through July 2025 |
 | [[wiki/people/annie-ulmer]] 2026 | June 1 closure — **Dan's own sign-off**, 00:27:49 (corrected 2026-08-13) | Supply and money dead; [[wiki/people/milo]] still co-held | Held 52 days against four inbound approaches, then reopened |
 
-> **RETRACTED 2026-08-11 — the Rick control row was built on an incomplete
-> source and its central claim is false.** This page (and `rick-frank.md`,
+> **RETRACTED 2026-08-11 — the Rick control row was built on an incomplete**
+> **source and its central claim is false.** This page (and `rick-frank.md`,
 > and `totality-themes.md`'s "Rick-file rhyme") described the Rick channel
 > as "a 12-day outbound burst in late 2015, then dark," treated as the
 > corpus's cleanest proof that Dan *can* hold a family severance
@@ -266,11 +266,11 @@ documented at all.
 > primary-checked "12-day burst" figure, then this session's own
 > "verification" against `imessage_7243667777_both_all_now.csv` — a file
 > whose name claims completeness it doesn't have. The full primary dump
-> (`all_imessages_complete_dump.txt`) shows **over 1,600 two-way messages
-> across 2015–2025**, real repair within three weeks of the December 2015
+> (`all_imessages_complete_dump.txt`) shows **over 1,600 two-way messages**
+> **across 2015–2025**, real repair within three weeks of the December 2015
 > friction, and a warm, high-volume correspondence through 2020 and again
-> in 2023–24. **Dan did not hold a decade-long block against Rick. He kept
-> re-engaging, repeatedly, for a decade.** Full corrected account on
+> in 2023–24. **Dan did not hold a decade-long block against Rick. He kept**
+> **re-engaging, repeatedly, for a decade.** Full corrected account on
 > `rick-frank.md`.
 >
 > What the corrected record actually shows is a *different*, much more
@@ -327,23 +327,23 @@ to speak. What distinguishes the counterparties' blocks is only the
 rule above: Kristin's held because she needed nothing back.
 
 
-> **RE-CHECKED [2026-08-16] — the Kristin premise moved substantially, and the
-> conclusion survives strengthened rather than merely intact.**
+> **RE-CHECKED [2026-08-16] — the Kristin premise moved substantially, and the**
+> **conclusion survives strengthened rather than merely intact.**
 > [[wiki/people/kristin]] was rewritten from the primary exports on 2026-08-16.
 > Two of its changes bear on this page.
 >
 > **The row's reasoning is now better supported than when it was written.** The
 > table reads *"She blocks Dan, Dec 9 2025 | She needed nothing from him | Held."*
-> The rewrite establishes that the dependency had already been dead for **five
-> weeks** before the block: November 2025 holds 53 messages, most of them
+> The rewrite establishes that the dependency had already been dead for **five**
+> **weeks** before the block: November 2025 holds 53 messages, most of them
 > unanswered image sends, after Dan stopped replying over the $40. So "she needed
 > nothing back" is not an inference from the block — it is a fact she had already
 > demonstrated for a month by not pursuing him. The control case is cleaner than
 > the page claimed.
 >
 > **But the December sequence is no longer only an inbound-block case.** The old
-> reading treated Dec 7–10 as the end of a live relationship. It was a **failed
-> reactivation** — Dan re-entering a channel that had gone dormant in early
+> reading treated Dec 7–10 as the end of a live relationship. It was a **failed**
+> **reactivation** — Dan re-entering a channel that had gone dormant in early
 > November, which he had left. That makes the episode an instance of *both* sides
 > of the loop in one event: Dan running the re-entry, Kristin answering it with a
 > terminal block. Filed accordingly on
@@ -452,8 +452,8 @@ exhaust.
 > **CORRECTED [2026-08-13] — the exit was executed, and this page's headline formula does not survive it. The dependency rule does.**
 >
 > **The premise that moved.** Two facts arrived together and they belong together.
-> First, the June 1 sign-off — *"Goodbye forever. This was not how it should have ended
-> but. sic semper lupanis."* — is **Dan's outbound**, not Annie's. It sits at
+> First, the June 1 sign-off — *"Goodbye forever. This was not how it should have ended*
+> *but. sic semper lupanis."* — is **Dan's outbound**, not Annie's. It sits at
 > `2026-06-01 00:27:49 America/New_York` (`04:27:49` UTC in `imessage_export_deep.csv`,
 > `SENT OR RECEIVED = Sent`, `HANDLE = Me`, dyad `+12124702449`, not a group thread), is
 > the last of an unbroken seven-message outbound run beginning `00:21:47`, and carries
@@ -466,19 +466,19 @@ exhaust.
 > whole-device export across all five Annie identifiers, dyadic and group threads
 > together, UTC converted to local: between `2026-06-01 00:27:49` and
 > `2026-07-23 14:54:01` the record contains **zero outbound messages from Dan** and
-> **seven inbound from Annie across four separate approaches** — June 5 (*"Daniel, i
-> just want to say that i am extremely sorry"*), June 9 (*"Are you okay"* / *"Please
-> answer"*), June 10 (the Valic/Corebridge paperwork request plus *"Please"*), June 15
+> **seven inbound from Annie across four separate approaches** — June 5 (*"Daniel, i*
+> *just want to say that i am extremely sorry"*), June 9 (*"Are you okay"* / *"Please*
+> *answer"*), June 10 (the Valic/Corebridge paperwork request plus *"Please"*), June 15
 > (*"Daniel"*). Every one unanswered. The June 10 approach matters most, because a
 > financial-paperwork request is the single most characteristic contact shape of the
 > entire terminal phase and the closest thing to a live dependency probe the corpus
 > could have designed. It drew nothing.
 >
-> **The decision, stated rather than deferred: the thesis survives in modified form,
-> and the modification is a real cost.**
+> **The decision, stated rather than deferred: the thesis survives in modified form,**
+> **and the modification is a real cost.**
 >
-> *What does not survive.* The opening formula — **"the exit is declared, not
-> executed"** — is false for the corpus's most important severance, and false in the
+> *What does not survive.* The opening formula — **"the exit is declared, not**
+> **executed"** — is false for the corpus's most important severance, and false in the
 > strongest available way. June 1 is not a declared exit that quietly leaked; it is a
 > declaration and its execution in the same message, followed by fifty-two days of
 > perfect compliance under four direct solicitations from the counterparty. Whatever the
@@ -489,8 +489,8 @@ exhaust.
 > this is its cleanest run. The rule says a block holds while nothing either party
 > needs flows through the channel; the June 10 money-paperwork probe is exactly the
 > material dependency the rule scores as dead, and it produced no reopening, while the
-> July 4 email about the dog — a non-material co-held object, arriving on a *channel
-> the block did not cover* — did. The rule predicted which of two approaches would
+> July 4 email about the dog — a non-material co-held object, arriving on a *channel*
+> *the block did not cover* — did. The rule predicted which of two approaches would
 > break a fifty-two-day silence, and it picked correctly against the base rate.
 >
 > *The corrected formula.* **The exit is executed; the deletion never is.** Dan can
@@ -502,8 +502,8 @@ exhaust.
 > 127 exits were failures of resolve. At least one of them was not.
 >
 > *A prediction the correction generates.* If execution is available and permanence is
-> not, then the useful measurement is no longer *whether* a severance holds but *how
-> long* — and the length should track the number of live co-held objects rather than
+> not, then the useful measurement is no longer *whether* a severance holds but *how*
+> *long* — and the length should track the number of live co-held objects rather than
 > anything about the declaration's wording or vehemence. Fifty-two days against one
 > co-held object (the dog) is the current single data point; the rule predicts a
 > severance with two live co-held objects holds materially less, and one with none holds
@@ -514,19 +514,19 @@ exhaust.
 > would break the corrected formula as decisively as June 1 broke the old one, because
 > it would put the reopening back inside him rather than in the channel.
 
-> **RE-CHECKED 2026-08-01 — the rule survives, the Menore control row does
-> not, and it was weakened by Menore's own history.** `menore.md` moved on
+> **RE-CHECKED 2026-08-01 — the rule survives, the Menore control row does**
+> **not, and it was weakened by Menore's own history.** `menore.md` moved on
 > 2026-08-01 while this page reasons from it, so the dependency was re-read.
 > The reliability and timeline facts are unchanged, but
 > [[wiki/mind/synthesis/dormancy-not-exit]] surfaces something on that same page
-> which this table never scored: **the February 2025 farewell is Menore's
-> second apparent closure, not his first.** The channel already went silent once
+> which this table never scored: **the February 2025 farewell is Menore's**
+> **second apparent closure, not his first.** The channel already went silent once
 > for **2,044 days** when Dan left New York in April 2013 — a gap that looked
 > exactly like a clean transactional close, for the same structural reason
 > (geography ended the dependency) — and it reopened in November 2018 with a
-> one-minute reply. The 2025 close has stood roughly seventeen months. **The
-> precedent ran sixty-seven.** The control row should therefore be read as *not
-> yet falsified* rather than as settled: it has not outlived the counterexample
+> one-minute reply. The 2025 close has stood roughly seventeen months. **The**
+> **precedent ran sixty-seven.** The control row should therefore be read as *not*
+> *yet falsified* rather than as settled: it has not outlived the counterexample
 > sitting on the same page. The governing rule is untouched — nothing either
 > party needs flows through that channel today — but the row can no longer be
 > quoted as "the record's only fully clean closure" without the qualification,
@@ -541,11 +541,11 @@ exhaust.
 
 ## Prediction resolved, and a threat rule that falls out of it
 
-> **RESOLVED [2026-08-02] — the July 26 prediction, confirmed at the
-> resolution of minutes.** The Gaps section below predicted that the "whatever
+> **RESOLVED [2026-08-02] — the July 26 prediction, confirmed at the**
+> **resolution of minutes.** The Gaps section below predicted that the "whatever
 > goodbye annie" of 05:04 on July 26 2026 would not hold, on the grounds that
-> the dog had not stopped being co-held. Contact resumed at **05:22 the same
-> morning — eighteen minutes** — and ran 1,880 messages and six in-person
+> the dog had not stopped being co-held. Contact resumed at **05:22 the same**
+> **morning — eighteen minutes** — and ran 1,880 messages and six in-person
 > meetings over the following eight days
 > ([[wiki/timeline/events/july-august-2026-reentanglement]]). This is the
 > shortest interval between an exit declaration and its reversal anywhere in
@@ -567,17 +567,17 @@ from decision to act: **sixteen minutes**, no announcement, no negotiation.
 This page called it *"the first executed maternal-disclosure threat in the
 corpus"* until 2026-08-18; it is not one, and the correction is directly below.
 
-> **CORRECTED [2026-08-18] — July 26 is not a member of the threat class, and
-> removing it takes the executed count from one to zero.**
+> **CORRECTED [2026-08-18] — July 26 is not a member of the threat class, and**
+> **removing it takes the executed count from one to zero.**
 >
 > **The premise that moved.** Both [[wiki/people/ellen-ulmer]] and
 > [[wiki/timeline/events/july-august-2026-reentanglement]] were updated on
 > 2026-08-17 with an operator answer that supplies the July 26 motive: Annie
 > claimed to have been raped and held hostage by
-> [[wiki/people/jerel-coles|Jerel Coles]] *"minutes before Coles began texting
-> Dan threats from Annie's phone, leading Dan to believe Annie was in danger."*
-> Both pages draw the same conclusion in the same words — this was **"not the
-> threat finally executed as leverage"** but a belief that her life was at risk.
+> [[wiki/people/jerel-coles|Jerel Coles]] *"minutes before Coles began texting*
+> *Dan threats from Annie's phone, leading Dan to believe Annie was in danger."*
+> Both pages draw the same conclusion in the same words — this was **"not the**
+> **threat finally executed as leverage"** but a belief that her life was at risk.
 > This page kept the old reading for a day. The write-back never reached it,
 > which is the same cascade failure `ellen-ulmer` diagnoses about itself in its
 > own GAP CLOSED block.
@@ -599,8 +599,8 @@ corpus"* until 2026-08-18; it is not one, and the correction is directly below.
 > is a **cleaner** contrast, because it varies only the counterparty's response
 > and holds announcement constant. That is the variable the 2026-08-13 revision
 > already identified; July 26 was the last thing propping up the superseded
-> version. Second, **the maternal-disclosure threat now has an execution rate of
-> zero across seven or more instances.** This page previously reported one, and
+> version. Second, **the maternal-disclosure threat now has an execution rate of**
+> **zero across seven or more instances.** This page previously reported one, and
 > the one was the wrong case. The performativity finding is not weakened by the
 > correction, it is total.
 >
@@ -641,17 +641,17 @@ across the 127 exit declarations, which is queued below.
 >
 > The three cases together locate the actual variable, and it is not announcement, it is
 > **whether the announcement got answered with a counter-offer.** July 26: no
-> announcement, sixteen minutes, executed. **June 1: announced, and the counterparty's
-> entire reply was *"Understood"* at `00:10:06` — no plea, no trade, nothing to bargain
-> against — and it executed, eighteen minutes later, as the last of a seven-message
-> outbound run beginning `00:21:47` that drew no response at all.** July 28: announced,
+> announcement, sixteen minutes, executed. **June 1: announced, and the counterparty's**
+> **entire reply was** *"Understood"* **at `00:10:06` — no plea, no trade, nothing to bargain**
+> **against — and it executed, eighteen minutes later, as the last of a seven-message**
+> **outbound run beginning `00:21:47` that drew no response at all.** July 28: announced,
 > and the counterparty spent twelve hours and roughly two hundred messages bargaining —
 > begging, jurisdictional claims, self-harm statements, surrender — and it did not
 > execute.
 >
 > So announcement is not the mechanism; it is only the *opportunity* for the mechanism.
-> **The corrected rule: an intention dies in the trade, and only a counterparty willing
-> to trade can kill it.** That is a strictly better rule than the printed one, because it
+> **The corrected rule: an intention dies in the trade, and only a counterparty willing**
+> **to trade can kill it.** That is a strictly better rule than the printed one, because it
 > makes the counterparty a variable rather than a bystander, and it explains why the
 > eighteen unexecuted block threats cluster in a relationship whose defining feature is
 > a partner who always answered — the threats were bids because there was always someone

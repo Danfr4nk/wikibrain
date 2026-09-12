@@ -164,8 +164,8 @@ connections:
 > **RE-CHECKED [2026-08-26]:** flagged stale against
 > [[wiki/timeline/events/fran-death-vigil]] (2026-08-26), which added the
 > closure-cluster finding (four dated good-outcome statements in six days)
-> and new typed edges to closing-the-set and attachment-model. **No claim on
-> this page is affected** — nothing here reasons from Dan's happiness
+> and new typed edges to closing-the-set and attachment-model. **No claim on**
+> **this page is affected** — nothing here reasons from Dan's happiness
 > statements or the closure mechanism, only from the caregiving rotation and
 > the estate timeline, both untouched.
 
@@ -291,18 +291,18 @@ minute, try to put yourself in my position if you can,"* and then, at 19:54,
 *"Was that an accident or do you need to talk?"*
 
 > **CORRECTED [2026-08-18]:** This page previously recorded, under the 2017–18
-> poverty floor, *"$750/week borrowing during the worst stretch; recurring
-> rescue-and-repayment cycles."* [[wiki/legal/463-morgantown]] carries the same
+> poverty floor, *"$750/week borrowing during the worst stretch; recurring*
+> *rescue-and-repayment cycles."* [[wiki/legal/463-morgantown]] carries the same
 > figure as a standing pattern ("the operating manual documents $750/week
 > borrowing patterns"). The primary record contains **one** such statement, on
-> 13 December 2018: *"You borrowed $750 last week alone! It's not like you are
-> doing some big fucking favor for me!"* It is an accusation about a single
+> 13 December 2018: *"You borrowed $750 last week alone! It's not like you are*
+> *doing some big fucking favor for me!"* It is an accusation about a single
 > week, made in an argument, on a day when she had that morning asked him for
 > $450 and he had already sent money back. `operating_manual.md` — an
 > AI-secondary profile document — generalised the one line into a rate
 > ("Mom Suz borrowing $750/week," which also inverts the direction), and the
-> wiki inherited the rate. **There is no evidence of a recurring $750/week
-> arrangement in either direction.** The underlying pattern is real and better
+> wiki inherited the rate. **There is no evidence of a recurring $750/week**
+> **arrangement in either direction.** The underlying pattern is real and better
 > described by the ledger above: irregular transfers of $20 to $3,000 running
 > both ways, entered as debts, never reconciled.
 
@@ -411,9 +411,9 @@ $615k to $465k over thirteen months is that the house needed work she had no
 money to do while the IRS claims accrued interest daily.
 
 > **CORRECTED [2026-08-18]:** The previous version of this page described the
-> sale as *"She is selling it to buyers Jennifer J. and Scott P. Delverm for
-> $465k, contingent on their sale of 19 Jeffries at ≤$229.9k, a bankruptcy
-> approval, and a 7-day vacate,"* treating the bankruptcy as one contingency
+> sale as *"She is selling it to buyers Jennifer J. and Scott P. Delverm for*
+> *$465k, contingent on their sale of 19 Jeffries at ≤$229.9k, a bankruptcy*
+> *approval, and a 7-day vacate,"* treating the bankruptcy as one contingency
 > among three. It is the cause of the transaction, not a condition on it. The
 > childhood home was liquidated to satisfy roughly $157,000 of mostly tax debt,
 > under a court deadline, and the loss of Dan's housing is a second-order
@@ -504,11 +504,11 @@ unconditional guarantee and an itemised bill, in the same paragraph, from the
 same person, meant equally.
 
 > **GAP CLOSED [2026-08-18]:** The previous version of this page listed as its
-> first gap: *"Her own perspective on the 2005 rupture is undocumented — the
-> corpus view is entirely Dan-side."* The 2005 rupture specifically remains
+> first gap: *"Her own perspective on the 2005 rupture is undocumented — the*
+> *corpus view is entirely Dan-side."* The 2005 rupture specifically remains
 > undocumented from her side. But the broader claim that the wiki holds no
-> first-person account of her own position was **wrong, and wrong by a wide
-> margin** — the July 2019 letter, the May 2018 letter about Fran below, and
+> first-person account of her own position was **wrong, and wrong by a wide**
+> **margin** — the July 2019 letter, the May 2018 letter about Fran below, and
 > several thousand other messages in her voice were in `raw/` the whole time.
 > The page was reasoning from summaries of her rather than from her.
 
@@ -526,9 +526,9 @@ reason the corpus has it:
 > be sold. I had to plan her memorial service by myself and basically handled
 > everything alone. One thing I can say is that anytime I had a decision to
 > make, I thought, what would Gram do? That made it easy because I probably
-> knew her better than anyone and I usually knew what she wanted. **She was the
-> one and only guiding force in my life. The one person who loved me
-> unconditionally** and I will live the rest of my life honoring her by doing
+> knew her better than anyone and I usually knew what she wanted. **She was the**
+> **one and only guiding force in my life. The one person who loved me**
+> **unconditionally** and I will live the rest of my life honoring her by doing
 > the things I know she would want me to do.
 
 That is the same generation-skipping attachment Dan describes, in the same
@@ -598,9 +598,9 @@ do and do not happen.
 > **CORRECTED [2026-08-18]:** This page dated her move from Coldwell Banker to
 > **Park Place Realty Group** to **2020**, and paired it with "her best sales
 > month on record." The move is documented a year earlier. On 28 September
-> 2019: *"Park Place Realty. It's a boutique agency that my buddy Barry
-> Crumrine started. He left Remax."* On 2 October 2019: *"Park place realty…
-> here I come!"* By 13 November 2019 Coldwell Banker had cut her access —
+> 2019: *"Park Place Realty. It's a boutique agency that my buddy Barry*
+> *Crumrine started. He left Remax."* On 2 October 2019: *"Park place realty…*
+> *here I come!"* By 13 November 2019 Coldwell Banker had cut her access —
 > *"Looks like he shut me down. Nice."* The strong month was **August 2020**,
 > ten months after the move and in the middle of the pandemic housing surge;
 > the two events are separated by most of a year, which weakens the causal
@@ -662,9 +662,9 @@ documented play ending in a documented stop — was not on this page at all.
 
 **Alcohol.**
 
-> **GAP CLOSED [2026-08-18]:** The previous version listed as a gap: *"The
-> 'wine mom' / evening-rhythm characterization is Dan's; no independent account
-> of her relationship to alcohol is on file."* An extensive account is on file,
+> **GAP CLOSED [2026-08-18]:** The previous version listed as a gap: *"The*
+> *'wine mom' / evening-rhythm characterization is Dan's; no independent account*
+> *of her relationship to alcohol is on file."* An extensive account is on file,
 > in her own messages, across every year of the corpus.
 
 Wine is a logistics category in this thread the way gas and cigarettes are. She
@@ -709,8 +709,8 @@ keeping whole:
 > four-month 2016 contact who was *"speculative, not confirmed"* a partner of
 > Suz's. In this thread Felix appears continuously from January 2016 to June
 > 2026 — over a decade — in a role consistent with the bar-and-supply circuit
-> rather than a domestic one (*"Felix is here. He has some"*; *"Felix is looking
-> for $200"*; picked up from KJ's; owed $10). The partner reading is not
+> rather than a domestic one (*"Felix is here. He has some"*; *"Felix is looking*
+> *for $200"*; picked up from KJ's; owed $10). The partner reading is not
 > supported here. Recorded on that page as a revision.
 
 ## Brokering the switch, November–December 2015
@@ -725,8 +725,8 @@ reason she gives is that the name fits the family — *"I.e. Anne Dan Suzanne
 Fran Diane Van"* (13:48–13:49). Dan confirms in the same window that *"She
 srsly offered me a car last night."* At 05:02 the following morning:
 
-> **"Suz just came to check on me, brought me a line, and told me she'd get me
-> a car this week if I get Alexis out."**
+> **"Suz just came to check on me, brought me a line, and told me she'd get me**
+> **a car this week if I get Alexis out."**
 
 Read at face value, that is a mother arriving before dawn with cocaine and a
 vehicle conditional on completing an eviction. It is the earliest instance in
@@ -791,8 +791,8 @@ the wrong complex in the right corridor and is retired.)
 > **CORROBORATED [2026-08-18]:** This episode rested entirely on a single 2026
 > operator capture with no corroborating record. It now has one, from her, in
 > 2024, unprompted and in a different context — on 14 November 2024, listing her
-> losses: **"You have no idea how much money I lost between antique oaks and
-> Virginia Ave. I try not to think about it."** The name of the complex in her
+> losses: **"You have no idea how much money I lost between antique oaks and**
+> **Virginia Ave. I try not to think about it."** The name of the complex in her
 > own words, sixteen years after the purchase, is independent confirmation that
 > the property existed, that it was hers, and that it lost money. The
 > trafficking arrest remains uncorroborated.
@@ -826,8 +826,8 @@ was **overridden**, for five months, by her own son inside her own house.
 Whether she remained unaware the whole time or simply let it stand
 unaddressed is not established by the capture and is not resolved here.
 
-> **This sits alongside, and does not resolve, a second, differently-dated
-> account of a similarly-shaped episode.** [[wiki/legal/2015-possession-arrest]]
+> **This sits alongside, and does not resolve, a second, differently-dated**
+> **account of a similarly-shaped episode.** [[wiki/legal/2015-possession-arrest]]
 > and [[wiki/places/155-virginia-ave]] already carry an operator account of
 > Alexis "secretly living at 337 Saratoga... hidden for roughly four months
 > after being thrown out," placed immediately before the January 2015 lease
@@ -987,8 +987,8 @@ product of the 2020 turn, not a precondition of it.
 
 ## Message corpus
 
-> **CORRECTED [2026-08-18]:** This page previously reported *"Messages (master
-> dump) | 2,391 — rank ~8–10."* The true figure is **33,698 — rank 2**, an
+> **CORRECTED [2026-08-18]:** This page previously reported *"Messages (master*
+> *dump) | 2,391 — rank ~8–10."* The true figure is **33,698 — rank 2**, an
 > undercount by a factor of fourteen. The old number came from
 > `MASTER_MESSAGES_DB_DUMP.csv`, which `EXTRACTION_SPEC.md` flags as
 > direction-unreliable and which is also badly incomplete for this thread. The
@@ -1084,9 +1084,9 @@ with."*
 
 She received none of it. Dan reveals why on August 17 at 16:15:
 
-> *"you got lucky. I was so worried that you were going to betray me again
-> after Saturday's night that I blocked your number from my moms phone just in
-> case that happened. So she never actually got the calls or texts."*
+> *"you got lucky. I was so worried that you were going to betray me again*
+> *after Saturday's night that I blocked your number from my moms phone just in*
+> *case that happened. So she never actually got the calls or texts."*
 
 This is worth recording precisely because the wiki's account of that
 relationship is so heavily weighted toward extraction and friction. Dan

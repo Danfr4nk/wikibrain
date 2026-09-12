@@ -184,8 +184,8 @@ Clingan then calls Annie directly: *"have you lost your damn mind / And to keep
 my eyes open"* (15:38–15:39), followed by the warning that makes it an
 intervention rather than jealousy:
 
-> *"he had his ex move out and you were there the next day. That makes you look
-> like shit and he's going to treat you like it"* (15:39)
+> *"he had his ex move out and you were there the next day. That makes you look*
+> *like shit and he's going to treat you like it"* (15:39)
 
 This is **the first documented instance of the switch being used against Annie
 by a third party**, and an outsider independently reading the same

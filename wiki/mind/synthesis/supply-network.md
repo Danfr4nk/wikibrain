@@ -134,8 +134,8 @@ connections:
 
 > **RE-CHECKED [2026-08-23]:** flagged stale against [[wiki/people/annie-ulmer]]
 > (2026-08-23), which gained a section on her 2024 employment
-> ([[wiki/people/libby]]) and on unpaid childcare. **No supply figure, route,
-> counterparty or date on that page changed**, and this page reasons only from
+> ([[wiki/people/libby]]) and on unpaid childcare. **No supply figure, route,**
+> **counterparty or date on that page changed**, and this page reasons only from
 > those. Nothing here is affected and no claim is withdrawn. Worth noting forward
 > for whoever works the economics: the Libby arrangement is the first documented
 > inbound income on Annie's side anywhere in the corpus, and it runs concurrently
@@ -145,8 +145,8 @@ connections:
 > **RE-CHECKED [2026-08-22]:** flagged stale against
 > [[wiki/people/annie-ulmer]] (2026-08-22), which moved solely by an appended
 > paragraph in its Closing note pointing at
-> [[wiki/mind/synthesis/the-rescue-premise]], plus a changelog line. **No supply
-> figure, date, route or counterparty on that page changed**, and this page
+> [[wiki/mind/synthesis/the-rescue-premise]], plus a changelog line. **No supply**
+> **figure, date, route or counterparty on that page changed**, and this page
 > reasons from exactly those. Nothing here is affected and no claim is
 > withdrawn. Worth noting forward: the new page treats the procurement
 > dependency's post-August-19 state as its first-listed gap, because it is the
@@ -197,8 +197,8 @@ stating it outright on **2015-11-29 at 14:54**, about
 [[wiki/people/alexis-armel|Alexis]], while working out why she will not leave
 the house:
 
-> *"Ahhhh I know why she isn't leaving / Or like HASNT left / …she doesn't have
-> another drug source"*
+> *"Ahhhh I know why she isn't leaving / Or like HASNT left / …she doesn't have*
+> *another drug source"*
 
 Two things make this the most valuable single line on this page. It is the
 earliest instance in the corpus by roughly three years, and it is applied to
@@ -440,11 +440,11 @@ why the end became possible.
 > resumes at full bandwidth after 2,044 days of silence is *more* of an outlier
 > against the friendship-embedded nodes, not less.
 
-> **REVISED [2026-08-02] — the inversion did not end with the relationship,
-> and Dan has now stated its purpose himself.** This section describes Dan in
+> **REVISED [2026-08-02] — the inversion did not end with the relationship,**
+> **and Dan has now stated its purpose himself.** This section describes Dan in
 > the supplier seat as the terminal phase's structure. The July–August 2026
-> export shows the configuration **survived both the June 1 closure and the
-> July 26 goodbye**: after a fifty-two-day gap and one documented refusal,
+> export shows the configuration **survived both the June 1 closure and the**
+> **July 26 goodbye**: after a fifty-two-day gap and one documented refusal,
 > procurement resumed on July 27 and ran **five handoffs in six days**, and
 > every in-person meeting in that window either was a handoff or had one
 > attached ([[wiki/timeline/events/july-august-2026-reentanglement]]). The
@@ -454,9 +454,9 @@ why the end became possible.
 >
 > The section's central inference also stops being an inference. It reads the
 > arrangement as a retention mechanism; on July 28 Dan says so, unprompted and
-> against his own position in the argument he was having: *"even the worst
-> thing I've done — getting you drugs — didn't really benefit me nearly as
-> much as it was about that being the only way you would see me."* He is
+> against his own position in the argument he was having: *"even the worst*
+> *thing I've done — getting you drugs — didn't really benefit me nearly as*
+> *much as it was about that being the only way you would see me."* He is
 > explicit that the transaction buys access rather than gratitude, and he
 > continues supplying after saying it. The **thirty-one hours** between the
 > corpus's only refusal and its reversal is the measure of what the refusal
@@ -553,24 +553,24 @@ the named dealers, which is part of why a supply failure was survivable for so
 long and why the spring 2026 failures registered as a relationship event rather
 than a logistics one.
 
-> **CONTRADICTION [2026-08-19] — the Suboxone route may run through a prescriber
-> first and [[wiki/people/tom]] second.** This page treats Tom as the standing
+> **CONTRADICTION [2026-08-19] — the Suboxone route may run through a prescriber**
+> **first and [[wiki/people/tom]] second.** This page treats Tom as the standing
 > supply line for Suboxone strips, and reads the May 2026 no-show as a single
 > point of failure giving way. The June 2025 messages describe a different
 > topology. **2025-03-06:** *"I had my doctor move my prescription here."*
-> **2025-06-08:** *"my doctor said the pharmacy won't fill an out of state
-> prescription, so i'm going to need your referral service."* **2025-06-12:** *"my
-> doctor tried to send a prescription to walmart and they won't fill it either so
-> i'm completely out of options now."* **2025-06-13:** *"I am so fucked. I'm gonna
-> have to drive down to see Tom today."*
+> **2025-06-08:** *"my doctor said the pharmacy won't fill an out of state*
+> *prescription, so i'm going to need your referral service."* **2025-06-12:** *"my*
+> *doctor tried to send a prescription to walmart and they won't fill it either so*
+> *i'm completely out of options now."* **2025-06-13:** *"I am so fucked. I'm gonna*
+> *have to drive down to see Tom today."*
 >
 > On that sequence the prescription is the default path, the failure is
 > jurisdictional rather than relational, and Tom is the **failover**. If that
 > holds, May 2026 is a second-line failure with the first line already down,
 > which is a materially more fragile architecture than the one this page
 > describes and a different remedy. **Held open rather than resolved** — four
-> messages across one episode are not a topology, the 2019 line *"try to go get
-> subs from my old doctor"* is the only earlier corroboration, and no prescriber
+> messages across one episode are not a topology, the 2019 line *"try to go get*
+> *subs from my old doctor"* is the only earlier corroboration, and no prescriber
 > is named anywhere in `raw/`. Full accounting at
 > [[wiki/health/the-configured-body]].
 

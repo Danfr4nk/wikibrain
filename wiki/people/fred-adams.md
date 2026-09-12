@@ -94,8 +94,8 @@ messages name him — six received from [[wiki/people/suzanne-frank|Suz]], three
 sent to or received from [[wiki/people/rick-frank|Rick]], the rest scattered —
 and they are contemporaneous first-party evidence rather than retelling.
 
-> **Two recipients are withheld and the reason is the standing directive in
-> `CLAUDE.md`, not uncertainty.** Three of these rows were sent to a number the
+> **Two recipients are withheld and the reason is the standing directive in**
+> **`CLAUDE.md`, not uncertainty.** Three of these rows were sent to a number the
 > corpus establishes as an alternate line on a thread that directive closes.
 > The rows are about Adams, naming the recipient adds nothing about Adams, and
 > a new dated line placing that person in a 2019 exchange is exactly what the
@@ -158,11 +158,11 @@ not know he was not alive for it.
 > estate had been in process since Fran's death in April 2018 and the corpus
 > shows Dan chasing calls to Adams through 2019 with no result; a distribution
 > can be signed by an Orphans' Court judge for reasons that have nothing to do
-> with who died in May. But this page's claim that *"the fact that it took two
-> and a half years to arrive after Fran's death is a function of the structure
-> Adams sat at the centre of"* now has a testable form it did not have — the
-> structure lost its centre, and the money moved within weeks of it. **The
-> corpus cannot settle that**, and settling it means the estate docket, which
+> with who died in May. But this page's claim that *"the fact that it took two*
+> *and a half years to arrive after Fran's death is a function of the structure*
+> *Adams sat at the centre of"* now has a testable form it did not have — the
+> structure lost its centre, and the money moved within weeks of it. **The**
+> **corpus cannot settle that**, and settling it means the estate docket, which
 > is outside this repository.
 
 > **One phrase on this page must not be read the way it now reads.** The
@@ -225,13 +225,13 @@ family's shape rather than about Adams, and it belongs on all three pages.
 
 ## Gaps
 
-> **CORRECTED [2026-09-04].** This section read: *"Adams sends and receives
-> nothing in the message corpus; every fact here comes from Dan's narration or
-> from the estate attorney's calls, and the estate attorney reached in August
-> 2020 (`+17245706170`) is not established to be Adams or his office."* The
+> **CORRECTED [2026-09-04].** This section read: *"Adams sends and receives*
+> *nothing in the message corpus; every fact here comes from Dan's narration or*
+> *from the estate attorney's calls, and the estate attorney reached in August*
+> *2020 (`+17245706170`) is not established to be Adams or his office."* The
 > first clause holds. The rest does not — sixteen dated contemporaneous
-> messages name him, the estate attorney is **Jason Adams** of **Adams &
-> Adams**, and Fred Adams was dead before the distribution moved. See [The
+> messages name him, the estate attorney is **Jason Adams** of **Adams &**
+> **Adams**, and Fred Adams was dead before the distribution moved. See [The
 > contemporaneous record](#the-contemporaneous-record--sixteen-dated-rows-nobody-had-read).
 
 Adams sends and receives nothing in the message corpus — he is named in it, at

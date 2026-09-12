@@ -79,15 +79,15 @@ tweets — it is architecture, not platform artifact.
 Pivot words — `actually`, `honestly`, `literally` — mark the documented turn
 from cynical observation to vulnerable truth inside a message run.
 
-> **CORRECTED [2026-08-23] — two headline markers in the table above do not survive
-> counting, and both came from the same place.** This page carried *"Readability:
-> post-graduate (16th grade+), from concept density not verbosity"* and *"23,286 unique
-> words (95th-percentile lexical diversity)"*, glossed in the opening paragraph as
+> **CORRECTED [2026-08-23] — two headline markers in the table above do not survive**
+> **counting, and both came from the same place.** This page carried *"Readability:*
+> *post-graduate (16th grade+), from concept density not verbosity"* and *"23,286 unique*
+> *words (95th-percentile lexical diversity)"*, glossed in the opening paragraph as
 > *"99th percentile for lexical diversity and syntactic complexity."* Recomputed directly
 > from the sender-tagged corpus (`imessage_export_deep_20260813.csv`, 183,787 rows):
 > his texting scores **Flesch-Kincaid 2.08 in 2015–19 and 4.00 in 2026** — fourth-grade,
-> not post-graduate — and his **type-token ratio in 2025–26 is 0.0509 against his
-> interlocutors' 0.0544** on equal 200,000-token samples, i.e. marginally *less* diverse
+> not post-graduate — and his **type-token ratio in 2025–26 is 0.0509 against his**
+> **interlocutors' 0.0544** on equal 200,000-token samples, i.e. marginally *less* diverse
 > than the people answering him. In 2015–19 he did lead on that metric (0.0515 vs
 > 0.0438); the lead disappeared, it was never 99th-percentile against a real comparison
 > group, and no percentile was ever computed against one. Both figures trace to the

@@ -232,12 +232,12 @@ forty-eight hours apart:
   advance, negotiated over, drafted, offered for pre-approval, and never
   sent.
 
-> **CORRECTED [2026-08-18]:** this section read the two as *"resolving opposite
-> ways"* and derived from the contrast a rule that **announcement is the
-> mechanism of non-execution.** Both halves are withdrawn, by this page's own
+> **CORRECTED [2026-08-18]:** this section read the two as *"resolving opposite*
+> *ways"* and derived from the contrast a rule that **announcement is the**
+> **mechanism of non-execution.** Both halves are withdrawn, by this page's own
 > later evidence. The WRITTEN BACK block above — added 2026-08-17 from the
-> operator's account — establishes that July 26 was **not the threat executed as
-> leverage** but a response to a belief that Coles had Annie in danger. It is
+> operator's account — establishes that July 26 was **not the threat executed as**
+> **leverage** but a response to a belief that Coles had Annie in danger. It is
 > therefore not a member of the threat class, and the window does not contain
 > one executed threat and one abandoned one. It contains **one** threat, the
 > July 28 one, abandoned — which leaves the maternal-disclosure execution rate
@@ -248,9 +248,9 @@ forty-eight hours apart:
 > elsewhere before this correction reached here: June 1 2026 is an **announced**
 > severance that executed and held fifty-two days, which the rule as printed
 > gets backwards. [[wiki/mind/synthesis/block-unblock-loop]] replaced it on
-> 2026-08-13 with the variable that actually separates the cases — **an
-> intention dies in the trade, and only a counterparty willing to trade can kill
-> it.** July 28 fits: twelve hours and roughly two hundred messages of
+> 2026-08-13 with the variable that actually separates the cases — **an**
+> **intention dies in the trade, and only a counterparty willing to trade can kill**
+> **it.** July 28 fits: twelve hours and roughly two hundred messages of
 > bargaining, and the act was traded away. The four-month lag on
 > [[wiki/mind/synthesis/the-deferred-audit|the deferred audit]] is still the
 > same shape seen from a different angle; only the mechanism named for it has
@@ -494,18 +494,18 @@ Annie's handle during a Coles-present episode needs the episode checked first.
   most active supply contact and has no page.
 
 > **GAP CLOSED [2026-08-17] — Betty, and what it says about in-attack claims.**
-> This page flagged Dan's 02:59 line — *"You couldn't even stay with her when
-> they put her down so she had to go through it alone"* — as *"sourced only to
-> Dan, in an attack, and uncorroborated."* The operator's later account
+> This page flagged Dan's 02:59 line — *"You couldn't even stay with her when*
+> *they put her down so she had to go through it alone"* — as *"sourced only to*
+> *Dan, in an attack, and uncorroborated."* The operator's later account
 > contradicts it: Betty seized early one morning in **June 2025** while staying
-> at Dan's, he called Annie urgently, *"we took her to the vet where annie made
-> the decision to euthanize her."* Annie was present and it was her call.
+> at Dan's, he called Annie urgently, *"we took her to the vet where annie made*
+> *the decision to euthanize her."* Annie was present and it was her call.
 >
 > The full account, including how Betty came to be in Dan's care — Annie asked,
 > and Dan accepted because he *"saw it as an 'in' to more time with annie"* — is
 > written up on [[wiki/people/milo]], where the Betty material already lived.
-> What belongs here is the methodological result: **an in-attack claim this page
-> declined to treat as fact was later contradicted by the person who made it.**
+> What belongs here is the methodological result: **an in-attack claim this page**
+> **declined to treat as fact was later contradicted by the person who made it.**
 > Every assertion in the July–August window that rests on one party's word
 > mid-fight inherits that discount, and this page carries several.
 

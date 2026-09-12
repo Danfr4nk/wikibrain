@@ -92,9 +92,9 @@ changelog:
 
 **For context injection:** Daniel Gillingham Frank ("Dan"), born November 1, 1988, Uniontown PA (age from DOB — do not carry a hardcoded number). Independent music producer (GRIPNOTIC alias, active) and AI-consulting/agent pipeline work. Democratic socialist, atheist, autistic (self-identified), Jewish heritage on the paternal line. INTP 5w4 sx/sp — Ti-dominant forensic analyst who treats every domain (relationships, politics, work, AI) through the same anomaly-detection lens. The failure mode is never ignorance; it is the diagnosis-to-behavior gap. Core unconscious axioms: *not exceptional = worthless; not vigilant = annihilated; love that doesn't cost everything isn't real; time = countdown.* The decade-long relationship with [[wiki/people/annie-ulmer]] took an involuntary closure June 1, 2026 and **reopened in early August 2026 — treat it as live, not historical**; contact, an in-person apology to Suz, and resumed sexual contact all fall between 2026-08-02 and 2026-08-09. Housing is in transition: 337 Saratoga **Drive** sold ~June 2026 ($465k, Suz's transaction); the documented landing place is [[wiki/legal/463-morgantown|463 Morgantown St]], occupied on no signed lease with no post-close financial plan on record. BFS termination (cash dispute) in 2026. The one consistently sincere output channel is music production. All behavioral data defers to the message corpus — **217,573 records, 106,629 sent / 110,944 received across 503 handles**, per `bin/mine-messages stats` — and to documented primary records, not memory or narrative.
 
-> **STALENESS AUDIT [2026-08-16] — the spine had drifted fourteen days behind its
-> own corpus, and the drift was concentrated in the one paragraph that gets
-> injected into LLM sessions.**
+> **STALENESS AUDIT [2026-08-16] — the spine had drifted fourteen days behind its**
+> **own corpus, and the drift was concentrated in the one paragraph that gets**
+> **injected into LLM sessions.**
 >
 > Ninety of 456 pages were modified after this page's 2026-08-02 revision. Seven
 > claims here were superseded by that newer work. They are corrected in place
@@ -117,8 +117,8 @@ changelog:
 > mistake that gets reasoned *from*. Tom is the wiki's exhibit for safe lateral
 > attachment; the volume behind that claim was mostly a different relationship.
 >
-> **Two failure classes worth naming, because both will recur.** First, *a number
-> that is right about one file and wrong about the corpus* — 181,585 is a true row
+> **Two failure classes worth naming, because both will recur.** First, *a number*
+> *that is right about one file and wrong about the corpus* — 181,585 is a true row
 > count and a false corpus size, and it had already propagated to six pages.
 > Second, *a hardcoded age*: "Age 37 as of 2026" is true until 1 November and then
 > silently false, with nothing to trip on it. Both are now expressed as
@@ -144,9 +144,9 @@ changelog:
 
 **Core axioms (unconscious, load-bearing)** [DOC]: not exceptional = worthless · not vigilant = annihilated · love that doesn't cost everything isn't real · time = countdown.
 
-> **CORROBORATION ATTEMPTED [2026-08-02] — three of the four axioms are not
-> visible in the message corpus, and *time = countdown* is the clearest
-> negative.** The first systematic pass of the message-density campaign
+> **CORROBORATION ATTEMPTED [2026-08-02] — three of the four axioms are not**
+> **visible in the message corpus, and** *time = countdown* **is the clearest**
+> **negative.** The first systematic pass of the message-density campaign
 > (`EXTRACTION_SPEC.md`) tested the axioms lexically against all 106,629 of Dan's
 > outbound messages, 2015–2025, with the 110,944 inbound messages from 503 other
 > handles as a within-medium control. Results, per thousand messages:
@@ -161,8 +161,8 @@ changelog:
 > On every explicit urgency construction except one, Dan writes **less** of it
 > than the people texting him. "Rest of my life" looked promising at 3.5× until
 > the twenty hits were read: all of them are 2015–16 declarations to
-> [[wiki/people/annie-ulmer|Annie]] — *"I want to spend the rest of my life with
-> you"* — which is love-bombing, not mortality. Direct age self-reference
+> [[wiki/people/annie-ulmer|Annie]] — *"I want to spend the rest of my life with*
+> *you"* — which is love-bombing, not mortality. Direct age self-reference
 > survives contamination at **n=8** across eleven years, half of it escort-ad
 > boilerplate.
 >
@@ -171,8 +171,8 @@ changelog:
 > people *typing*, and the control shows SMS is a near-zero-introspection medium
 > for everybody in it — "the thing about me" occurs zero times in 217,573
 > messages from either direction. What the result establishes is narrower and
-> more useful: **the message corpus cannot corroborate the axioms, so the
-> corpus's standing as final arbiter has a jurisdiction.** The LLM Quick Brief
+> more useful: **the message corpus cannot corroborate the axioms, so the**
+> **corpus's standing as final arbiter has a jurisdiction.** The LLM Quick Brief
 > above says all behavioural data defers to the message corpus. For behaviour
 > that is true. For the psychological layer the corpus is silent, and every
 > axiom on this line rests on the AI-session dossiers alone
@@ -183,8 +183,8 @@ changelog:
 > see [[wiki/mind/concepts/calibrated-confidence]] for a Ti-dominance signature
 > measured at 22× the corpus baseline.
 
-> **METHOD NOTE — a false positive caught in the same pass, recorded because the
-> next reader will hit it too.** The first run of this test scored "age
+> **METHOD NOTE — a false positive caught in the same pass, recorded because the**
+> **next reader will hit it too.** The first run of this test scored "age
 > self-reference" at 3.82× baseline and very nearly became a finding about the
 > countdown being experienced as *position rather than urgency*. Reading the
 > matches showed the pattern was catching **"I'm 99% sure"** — percentages, not
@@ -240,8 +240,8 @@ Lower-resolution contacts with known gaps: Chris James. (The former "Ismaila" ga
 
 > **CONTRADICTION CLOSED [2026-08-16] — she was 97, and this page was the last copy still carrying the spread.**
 > [[wiki/people/fran-coldren]] resolved it on 2026-08-02 against a dated message
-> in which Dan describes her, at the time, as *"a 97 year old woman with advanced
-> dimentia"* (2017-12-29) — consistent with an August 1920 birth and an April 2018
+> in which Dan describes her, at the time, as *"a 97 year old woman with advanced*
+> *dimentia"* (2017-12-29) — consistent with an August 1920 birth and an April 2018
 > death. The **98** in this page and in
 > `raw/self/context-core/CONTEXT_CORE_EXPANDED.md`, and the "93-year-old
 > matriarch" in an operator capture, are both superseded. Note the direction of

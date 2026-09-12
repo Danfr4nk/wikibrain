@@ -392,8 +392,8 @@ named herself — she did anything he asked, so he showed up for her.
 > **REVISED [2026-08-02]:** this page previously read the caregiving as "the
 > strongest documented evidence against reading Dan's low-altruism scores as
 > incapacity." [[wiki/mind/concepts/acquisition-drive]] gives a better account,
-> and Dan's own words settle it: *"finally did something in my life that wasn't
-> completely selfish."* He did not experience the vigil as evidence of his
+> and Dan's own words settle it: *"finally did something in my life that wasn't*
+> *completely selfish."* He did not experience the vigil as evidence of his
 > character; he experienced it as an exception to it. The caregiving is not
 > counter-evidence to Altruism at the 1st percentile — it is evidence that
 > altruism was never the operative variable. Fran's care was a goal he
@@ -402,8 +402,8 @@ named herself — she did anything he asked, so he showed up for her.
 >
 > **The full sentence, and what a corpus-wide search adds to it.** The quote
 > above has been cited in fragments; in full it reads (2018-04-06 17:55, to a
-> friend): *"we had a lot of fun. got good closure and finally did something
-> in my life that wasn't completely selfish haha."* A `bin/mine-messages`
+> friend): *"we had a lot of fun. got good closure and finally did something*
+> *in my life that wasn't completely selfish haha."* A `bin/mine-messages`
 > sweep of all 106,629 sent messages returns **no second instance** of Dan
 > reporting a good outcome from an action he took — every other positive
 > self-report in the corpus is attributed to a person he had, not a thing he

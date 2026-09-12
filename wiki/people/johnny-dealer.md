@@ -49,8 +49,8 @@ infobox:
 
 # Johnny (+17243223678)
 
-> **RE-CHECKED [2026-08-23] — premise moved, conclusion survives, and the new
-> measurement adds a fact this page did not have.**
+> **RE-CHECKED [2026-08-23] — premise moved, conclusion survives, and the new**
+> **measurement adds a fact this page did not have.**
 > [[wiki/self/message-corpora/master-message-dump]] moved on 2026-08-23 when its
 > "avg ~8.36 words/message" Voice Patterns line was corrected to a per-era series
 > (8.34 in 2015–19 rising to 15.03 in 2026). Nothing this page draws from the dump is
@@ -58,8 +58,8 @@ infobox:
 > are all counts, not style figures.
 >
 > The recomputation that produced the correction does, however, measure this thread
-> directly, and the result is worth carrying: **it is one of only two threads in the
-> entire corpus where Dan writes less than the person he is talking to.** Across
+> directly, and the result is worth carrying: **it is one of only two threads in the**
+> **entire corpus where Dan writes less than the person he is talking to.** Across
 > 3,625 of his messages here he averages 6.64 words to Johnny's 11.41, and 9.70 words
 > per turn against Johnny's 15.00 — a ratio of **0.65×**, against his corpus-wide
 > 1.23× for the same period. He also opens the fewest multi-message turns of anywhere
@@ -73,8 +73,8 @@ infobox:
 > evidence in [[wiki/mind/profile/texting-deviance-audit]] that his verbosity is
 > channel-triggered rather than a fixed limit. Johnny, notably, is the wordier party.
 
-> **RE-CHECKED [2026-08-02] — conclusion survives, and the premise now
-> strengthens it.** [[wiki/self/message-corpora/master-message-dump]] moved when
+> **RE-CHECKED [2026-08-02] — conclusion survives, and the premise now**
+> **strengthens it.** [[wiki/self/message-corpora/master-message-dump]] moved when
 > the message-density campaign added two findings to it: that graded numeric
 > confidence is a measurable behavioural signature in the corpus, and — the
 > relevant one here — that the corpus is trustworthy for **behaviour** while
@@ -154,8 +154,8 @@ Johnny functions as reliable but transactional dealer node during 2018 crisis (p
 > **RE-CHECKED [2026-08-18]:** `bin/wiki-climb check` flagged this page stale
 > against [[wiki/self/message-corpora/master-message-dump]], which moved to
 > record that the master CSV undercounts
-> [[wiki/people/suzanne-frank|Suzanne Frank]]'s thread fourteen-fold. **Nothing
-> here is contradicted** — the correction is specific to that one handle. It does
+> [[wiki/people/suzanne-frank|Suzanne Frank]]'s thread fourteen-fold. **Nothing**
+> **here is contradicted** — the correction is specific to that one handle. It does
 > carry a caution for this page: Johnny's volume figure is sourced to the same
 > CSV and has not been recounted against
 > `all_imessages_complete_dump.txt`, where the handle `+17243223678` shows 5,089

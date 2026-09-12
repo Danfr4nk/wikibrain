@@ -68,13 +68,13 @@ connections:
 
 # Food and Diet
 
-> **RE-CHECKED [2026-09-04] — the premise widened, and widening it sharpens
-> this page rather than threatening it.** [[wiki/mind/concepts/the-cool-metric]]
+> **RE-CHECKED [2026-09-04] — the premise widened, and widening it sharpens**
+> **this page rather than threatening it.** [[wiki/mind/concepts/the-cool-metric]]
 > gained a substantive section: the twitter archive shows the sorting metric run
 > on a six-year live-in partner, with affection in the public register falling
 > from 12 of 32 mentions in 2010 to 3 of 47 across 2011-2014 and then to zero.
-> **That extends the metric's demonstrated reach to the most intimate object in
-> the corpus, and food is still outside it.** This page's argument is a
+> **That extends the metric's demonstrated reach to the most intimate object in**
+> **the corpus, and food is still outside it.** This page's argument is a
 > jurisdictional one — one axis for everything the axis is allowed to touch —
 > and a premise that now reaches further without reaching food makes the
 > exemption harder to explain as mere lack of occasion. No claim here is
@@ -126,12 +126,12 @@ been pointed at.
 > earning, damaging, marking a region, standing in for physical reality, or
 > carrying a band — and none of them is judging it.
 
-> **REVISED [2026-08-02] — the rule above is falsified in its strong form, and
-> what replaces it is sharper.** An operator capture filed the same week
+> **REVISED [2026-08-02] — the rule above is falsified in its strong form, and**
+> **what replaces it is sharper.** An operator capture filed the same week
 > documents an absolute dietary regime the page did not know existed, and
-> "absent from its evaluative record entirely" cannot survive *"pickles are the
-> mortal enemy."* What survives, and is the better statement, is that **there is
-> no record of food being ranked** — no favourites, no cuisine preferences, no
+> "absent from its evaluative record entirely" cannot survive *"pickles are the*
+> *mortal enemy."* What survives, and is the better statement, is that **there is**
+> **no record of food being ranked** — no favourites, no cuisine preferences, no
 > better-or-worse. What exists instead is a **composition rule**, and it is
 > total. See "The regime" below. The controls in the next section are unaffected:
 > they measure the absence of *taste*, and taste is still absent.

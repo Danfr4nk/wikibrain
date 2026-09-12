@@ -85,10 +85,10 @@ messaged her at **06:22 on July 26, 2026**, during the crisis recorded at
 
 The operator's account of why (2026-08-17, T0):
 
-> *"Dan was forced to contact her during the conflict that Annie created in
-> late July where she claimed to be raped and held hostage by Jerel Coles. She
-> made these claims minutes before Coles began texting Dan threats from Annie's
-> phone, leading Dan to believe Annie was in danger."*
+> *"Dan was forced to contact her during the conflict that Annie created in*
+> *late July where she claimed to be raped and held hostage by Jerel Coles. She*
+> *made these claims minutes before Coles began texting Dan threats from Annie's*
+> *phone, leading Dan to believe Annie was in danger."*
 
 **Corroborated, not merely asserted.** The contact itself is independently on
 file: `july-august-2026-reentanglement` records *"Alright I'm contacting
@@ -106,20 +106,20 @@ he initiated on it, he did so believing her daughter's life was at risk. Read
 against the six unexecuted threats, the channel's function holds even at the
 moment it looks most like it broke.
 
-> **GAP CLOSED [2026-08-17]:** This page previously said *"Nothing records
-> whether she and Dan have had any contact since the June 2026 severance or the
-> July 2026 re-contact; the last message on file is the November 2025 birthday
-> note, which predates both."* There was contact, on 2026-07-26 — **and the
-> wiki already knew.** The 06:22 disclosure has been on
+> **GAP CLOSED [2026-08-17]:** This page previously said *"Nothing records*
+> *whether she and Dan have had any contact since the June 2026 severance or the*
+> *July 2026 re-contact; the last message on file is the November 2025 birthday*
+> *note, which predates both."* There was contact, on 2026-07-26 — **and the**
+> **wiki already knew.** The 06:22 disclosure has been on
 > `july-august-2026-reentanglement` since that page was written; it was never
 > written back here, so this page went on declaring a gap the corpus had
 > already filled. A cascade failure, not a missing fact.
 
-> **DISCREPANCY [2026-08-17]:** The operator places the message *"in the text
-> logs on 26 July 2026 at around 7am"*;
+> **DISCREPANCY [2026-08-17]:** The operator places the message *"in the text*
+> *logs on 26 July 2026 at around 7am"*;
 > `july-august-2026-reentanglement` times the disclosure to **06:22** and its
-> own Gaps section calls it *"the email to Ellen"*, recorded as **not in
-> `raw/`**. Text versus email, and 06:22 versus ~07:00, are not settled here.
+> own Gaps section calls it *"the email to Ellen"*, recorded as **not in**
+> **`raw/`**. Text versus email, and 06:22 versus ~07:00, are not settled here.
 > The operator's pointer is the more chaseable of the two — if the message is in
 > the iMessage logs it is recoverable, and that page's gap should be re-checked
 > against them rather than left as "not in `raw/`".
@@ -139,13 +139,13 @@ haven't said a word this entire time."*
 Over the next three days Dan names her email six times and narrates his own
 reluctance about the address:
 
-> *"If I don't hear from you by noon, im sending to your moms work email…
-> that's the only one I could find"* (Aug 17 04:21)
+> *"If I don't hear from you by noon, im sending to your moms work email…*
+> *that's the only one I could find"* (Aug 17 04:21)
 >
 > *"should I send to your moms HHS.net email or the Verizon.net email"* /
-> *"i'm really really really trying to avoid sending to mcmillen because as
-> much as I want to make you face up to the truth that would not be good to do
-> on a work email"* (Aug 18 19:43)
+> *"i'm really really really trying to avoid sending to mcmillen because as*
+> *much as I want to make you face up to the truth that would not be good to do*
+> *on a work email"* (Aug 18 19:43)
 
 Annie's stated reason for begging him not to, repeatedly, is Ellen's state
 rather than her own exposure: *"This will literally kill my mom"* (Aug 19

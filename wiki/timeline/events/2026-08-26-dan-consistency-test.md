@@ -64,8 +64,8 @@ connection is alive.
 
 In other words:
 
-> **The old Dan needed intensity to feel that something was happening. The new
-> test is whether Dan can let something happen without manufacturing intensity.**
+> **The old Dan needed intensity to feel that something was happening. The new**
+> **test is whether Dan can let something happen without manufacturing intensity.**
 
 ## Why this is a real falsifiable change
 

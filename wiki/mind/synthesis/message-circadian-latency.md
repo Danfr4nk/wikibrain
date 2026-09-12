@@ -58,17 +58,17 @@ This is a **primary cut** of the raw message corpus, generated fresh from the ex
 
 ## The headline, retracted: the asymmetry runs the other way
 
-> **CORRECTED [2026-08-23] — the central finding of this page was backwards, and
-> the error is reproducible.** This section previously opened *"The headline: a 9×
-> reply-latency asymmetry with Annie"* and concluded: *"Dan answers almost
-> everyone within 1–5 minutes. The people he messages answer him on a completely
-> different clock… Dan's outbound responsiveness is uniform and near-instant
-> across every relationship — the inbound delay is what differentiates them…
-> everything else is Dan broadcasting into a slow or silent void."* The table
+> **CORRECTED [2026-08-23] — the central finding of this page was backwards, and**
+> **the error is reproducible.** This section previously opened *"The headline: a 9×*
+> *reply-latency asymmetry with Annie"* and concluded: *"Dan answers almost*
+> *everyone within 1–5 minutes. The people he messages answer him on a completely*
+> *different clock… Dan's outbound responsiveness is uniform and near-instant*
+> *across every relationship — the inbound delay is what differentiates them…*
+> *everything else is Dan broadcasting into a slow or silent void."* The table
 > under it gave **Annie at 1.0 min outbound against 9.0 min inbound, n = 31,612**.
 >
-> **On every on-disk export, under two independent methods, Dan is the slower
-> correspondent.** The retraction is recorded at `RETRACTED.md` §`latency-9x-asymmetry`.
+> **On every on-disk export, under two independent methods, Dan is the slower**
+> **correspondent.** The retraction is recorded at `RETRACTED.md` §`latency-9x-asymmetry`.
 
 ### What killed it
 

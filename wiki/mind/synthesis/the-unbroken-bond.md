@@ -58,8 +58,8 @@ connections:
 
 # The Unbroken Bond
 
-> **RE-CHECKED [2026-08-28] — premise moved, and it confirms this page rather
-> than complicating it.** [[wiki/people/alexis-armel]] moved 2026-08-28 for a
+> **RE-CHECKED [2026-08-28] — premise moved, and it confirms this page rather**
+> **than complicating it.** [[wiki/people/alexis-armel]] moved 2026-08-28 for a
 > 2026-08-27 operator capture giving the fuller sequence of the 2013
 > separation: five days at 155 Virginia Ave, her mother's house, a new
 > boyfriend (Chris Tressler), a brief NYC move, and reconciliation in
@@ -79,9 +79,9 @@ connections:
 
 > **RE-CHECKED [2026-08-23]:** flagged stale against
 > [[wiki/mind/concepts/chaos-preference]] (2026-08-23), which gained a re-check
-> note and no claim change. Nothing here is affected by that page. **Separately
-> and more materially, the base rate this page's thesis lives or dies on has now
-> been derived** — 129 severance episodes, 100% re-engagement, median gap
+> note and no claim change. Nothing here is affected by that page. **Separately**
+> **and more materially, the base rate this page's thesis lives or dies on has now**
+> **been derived** — 129 severance episodes, 100% re-engagement, median gap
 > thirty-six seconds, all-time maximum 46 hours
 > ([[wiki/mind/synthesis/the-rescue-premise]] Part I½). That is the strongest
 > quantitative support "the bond is unbroken" has ever had for the decade to
@@ -92,9 +92,9 @@ connections:
 > **RE-CHECKED [2026-08-22]:** flagged stale against
 > [[wiki/people/annie-ulmer]] (2026-08-22). That page moved by one appended
 > paragraph and a changelog entry, both pointing at
-> [[wiki/mind/synthesis/the-rescue-premise]]; no claim was withdrawn. **This
-> page's thesis is neither confirmed nor refuted by the change and is now
-> testable on a date.** The new page's Part I sets out six endogenous features
+> [[wiki/mind/synthesis/the-rescue-premise]]; no claim was withdrawn. **This**
+> **page's thesis is neither confirmed nor refuted by the change and is now**
+> **testable on a date.** The new page's Part I sets out six endogenous features
 > of the August 2026 severance that have no precedent in eleven years, and its
 > P4 states the falsifier plainly: a severance holding past 2026-12-19 with no
 > external agent involved. That is the first dated condition under which "the
@@ -159,8 +159,8 @@ between them."*
 > *"**2015-11-28** — the Alexis cheating revelation."* There was no such
 > revelation that week; the message it rested on is Dan describing the **2009**
 > start of the Alexis relationship to Annie. See
-> [[wiki/mind/synthesis/bond-switch-2015]]. **This page's own claim survives
-> intact and gets sharper** — the removed bullet was the only item in the
+> [[wiki/mind/synthesis/bond-switch-2015]]. **This page's own claim survives**
+> **intact and gets sharper** — the removed bullet was the only item in the
 > sequence that supplied a *reason* for the ending, and its removal leaves a
 > six-year bond closing in seventy-two hours with nothing prompting it but the
 > arrival of a replacement.
@@ -258,9 +258,9 @@ disorder he wants everywhere else, because it is his.
 
 > **CORRECTED [2026-08-13] — Dan issued the June 1 severance himself and vacated the slot for fifty-two days with no successor. The thesis survives; the "exit is structurally unavailable" clause does not.**
 >
-> **The premise that moved, with its scope.** The June 1 closing line — *"Goodbye
-> forever. This was not how it should have ended but. sic semper lupanis."* — is **Dan's
-> outbound**, not Annie's: `2026-06-01 00:27:49 America/New_York`
+> **The premise that moved, with its scope.** The June 1 closing line — *"Goodbye*
+> *forever. This was not how it should have ended but. sic semper lupanis."* — is **Dan's**
+> **outbound**, not Annie's: `2026-06-01 00:27:49 America/New_York`
 > (`04:27:49` UTC in the deep whole-device export), `SENT OR RECEIVED = Sent`,
 > `HANDLE = Me`, dyad `+12124702449`, non-group, and the last of an unbroken
 > seven-message outbound run from `00:21:47` with no inbound row inside it;
@@ -269,11 +269,11 @@ disorder he wants everywhere else, because it is his.
 > [[wiki/mind/synthesis/dan-annie-fallout-verdict]] carries the correction and its cause.
 > The fifty-two days are also now measured rather than assumed: across all five Annie
 > identifiers, dyadic and group threads together, the interval to
-> `2026-07-23 14:54:01` contains **zero outbound from Dan** and **seven inbound from
-> Annie in four separate approaches**, none answered.
+> `2026-07-23 14:54:01` contains **zero outbound from Dan** and **seven inbound from**
+> **Annie in four separate approaches**, none answered.
 >
-> **The decision, made rather than deferred: the central thesis survives, and one of its
-> supporting clauses is withdrawn.**
+> **The decision, made rather than deferred: the central thesis survives, and one of its**
+> **supporting clauses is withdrawn.**
 >
 > *The thesis survives.* Seventeen years of continuous occupancy is untouched. Fifty-two
 > days is not an unattached period in the sense Falsifier 1 requires — the falsifier
@@ -281,17 +281,17 @@ disorder he wants everywhere else, because it is his.
 > the bond did not end, it resumed and is running. Nothing here converts "continuous"
 > into "serial."
 >
-> *The clause does not survive.* **"Exit is structurally unavailable"** and **"leaving
-> requires a successor"** are both falsified by this instance. Dan left, unilaterally,
+> *The clause does not survive.* **"Exit is structurally unavailable"** and **"leaving**
+> **requires a successor"** are both falsified by this instance. Dan left, unilaterally,
 > by his own sentence, and sourced no successor — the corpus contains no replacement
 > bond in June or July 2026, and the slot sat empty for fifty-two days while he refused
 > four direct approaches from its previous occupant. Whatever November 2015 shows about
 > *how he has historically left*, it does not show that he *cannot* leave otherwise.
 >
 > **What replaces it, and why it is the better claim.** The constraint was never on the
-> act of leaving. It is on **staying gone**. The corrected statement: *the slot tolerates
-> vacancy, and tolerates it for weeks; what it does not tolerate is vacancy becoming
-> permanent.* That is a materially weaker claim than the one it replaces and the page is
+> act of leaving. It is on **staying gone**. The corrected statement: *the slot tolerates*
+> *vacancy, and tolerates it for weeks; what it does not tolerate is vacancy becoming*
+> *permanent.* That is a materially weaker claim than the one it replaces and the page is
 > better for it, because the strong version was doing work that only the 2015 switch
 > supported, and the 2015 switch is a single case. Two cases now exist and they disagree
 > about the method — 2015 filled the slot before vacating it, 2026 vacated it empty —
@@ -299,19 +299,19 @@ disorder he wants everywhere else, because it is his.
 > concession Falsifier 3 was written to extract, and it is recorded here rather than
 > argued around.
 >
-> **Falsifier 3, scored honestly.** It asks for *"a bond ending with no successor sourced
-> before or shortly after."* June 1 supplies the no-successor half and fails on the
-> other: the bond did not end. So the falsifier is **not met — but it is met halfway,
-> and the half it met is the half the page cared about.** The remaining defence of the
+> **Falsifier 3, scored honestly.** It asks for *"a bond ending with no successor sourced*
+> *before or shortly after."* June 1 supplies the no-successor half and fails on the
+> other: the bond did not end. So the falsifier is **not met — but it is met halfway,**
+> **and the half it met is the half the page cared about.** The remaining defence of the
 > singular-slot mechanism now rests entirely on *duration of vacancy*, which makes it
-> quantitative and killable: **a vacancy of more than roughly six months with no
-> successor would settle it.** The corpus can only answer that going forward, and the
+> quantitative and killable: **a vacancy of more than roughly six months with no**
+> **successor would settle it.** The corpus can only answer that going forward, and the
 > July–August reentanglement means the clock has already reset.
 >
 > **One thing it does not touch.** The `enneagram-5w4` sx-dominant mechanism — one bond
 > at maximum voltage rather than several at moderate voltage — is unaffected either way.
-> Fifty-two days of refusing the only occupant while sourcing nobody else is *maximum
-> voltage on a single object*, not evidence for multiplicity. If anything the abstinence
+> Fifty-two days of refusing the only occupant while sourcing nobody else is *maximum*
+> *voltage on a single object*, not evidence for multiplicity. If anything the abstinence
 > is the same singularity seen from its other side.
 
 ## The unifying reading
@@ -327,13 +327,13 @@ once.
 
 Everything else can be allowed to burn, because he did not pick it.
 
-> **RE-CHECKED [2026-08-02] — the premise moved and one clause of this page does
-> not survive it.** [[wiki/mind/concepts/chaos-preference]] now carries the
+> **RE-CHECKED [2026-08-02] — the premise moved and one clause of this page does**
+> **not survive it.** [[wiki/mind/concepts/chaos-preference]] now carries the
 > contradiction with [[wiki/mind/synthesis/single-channel]], which shows the
 > entropy carve-out is not confined to the attachment slot: the same
 > single-occupancy discipline runs in four domains, relational, creative,
-> cognitive and evaluative. The claim above that **the pair-bond is "the one
-> structure that is simultaneously chosen and permanent"** was written before
+> cognitive and evaluative. The claim above that **the pair-bond is "the one**
+> **structure that is simultaneously chosen and permanent"** was written before
 > that page existed and is now too strong. The creative identity has the same
 > shape — one alias occupied at a time, four in thirteen years, never in
 > parallel — and so does the cognitive one. What survives, and is the better
@@ -354,24 +354,24 @@ Everything else can be allowed to burn, because he did not pick it.
 > instance is **his own act** rather than his partner's. Nothing needed revising;
 > the argument gained its best evidence.
 
-> **RE-CHECKED [2026-08-18] — three premises moved; the thesis holds, gains a
-> third cost it did not have, and loses the right to call one of its bonds
-> "shallow" without saying what it means.**
+> **RE-CHECKED [2026-08-18] — three premises moved; the thesis holds, gains a**
+> **third cost it did not have, and loses the right to call one of its bonds**
+> **"shallow" without saying what it means.**
 >
-> **[[wiki/mind/synthesis/bond-switch-2015]] (moved 2026-08-17) — a new cost,
-> and it is external.** The switch's fourth party is now named: the operator
+> **[[wiki/mind/synthesis/bond-switch-2015]] (moved 2026-08-17) — a new cost,**
+> **and it is external.** The switch's fourth party is now named: the operator
 > identified **[[wiki/people/emilio|Emilio]]** as the partner displaced on
 > Annie's side. What that identification unlocks is not a name but a symmetry.
 > Both partners were displaced inside the *same seventy-two hours* — Alexis by
-> Dan, Emilio by Annie — and **both displacements detonated a relationship in
-> the following month**: Emilio contacted Annie's sister Claire, which is what
+> Dan, Emilio by Annie — and **both displacements detonated a relationship in**
+> **the following month**: Emilio contacted Annie's sister Claire, which is what
 > turned the December 2 family confrontation from bad luck into retaliation, and
 > Zach Harshman's fallout ended a friendship of Dan's on December 23.
 >
 > This page's "What it costs" list has two entries and both are *internal* —
 > no calibration on endings, and no durable exit. The Emilio material adds a
-> third of a different kind: **the slot's continuity is paid for by producing
-> displaced people, and they act.** A switch executed at the resolution of days
+> third of a different kind: **the slot's continuity is paid for by producing**
+> **displaced people, and they act.** A switch executed at the resolution of days
 > gives the vacated party no notice and no exit ramp of their own, and within a
 > month each of them had reached into the new bond's social surround. That is a
 > cost the thesis predicts in hindsight and had no instance of until now.
@@ -385,9 +385,9 @@ Everything else can be allowed to burn, because he did not pick it.
 > cost belongs to the switch mechanism, which is not. Recorded so a later pass
 > does not quietly annex it as more evidence for singularity.
 >
-> **[[wiki/people/alexis-armel]] (moved 2026-09-04) — occupancy-without-
-> activation gets its first contemporaneous evidence, and it is a denominator
-> rather than an absence.** Everything this page has held about the Alexis
+> **[[wiki/people/alexis-armel]] (moved 2026-09-04) — occupancy-without-**
+> **activation gets its first contemporaneous evidence, and it is a denominator**
+> **rather than an absence.** Everything this page has held about the Alexis
 > occupancy came from retrospective narration or from the speed of the November
 > 2015 switch — both testimony, both after the fact. The twitter archive is
 > neither. It shows the public register on her stopping on **29 November 2013**
@@ -396,8 +396,8 @@ Everything else can be allowed to burn, because he did not pick it.
 > all-time high of **57** and his @-mention rate was the second highest of the
 > era. Her share of his @-tweets: **24.2% in 2013, 3.1% in 2014, 0% in 2015.**
 >
-> **Why this specifically answers the objection that page's Gaps section
-> raises.** The occupancy claim has always been vulnerable to *coverage*: a
+> **Why this specifically answers the objection that page's Gaps section**
+> **raises.** The occupancy claim has always been vulnerable to *coverage*: a
 > thin record that shows no crisis-grade attachment behaviour is also what
 > under-documentation looks like. This measurement has a denominator. It is not
 > a record failing to mention her; it is a well-populated record of him
@@ -409,17 +409,17 @@ Everything else can be allowed to burn, because he did not pick it.
 > channel is measured; the private one is still missing for exactly the years
 > that matter. *The thesis is strengthened and not settled.*
 >
-> **[[wiki/people/alexis-armel]] (moved 2026-08-18) — the word "shallow" is
-> now doing unearned work.** That page gained a blind 2026 model scoring on
+> **[[wiki/people/alexis-armel]] (moved 2026-08-18) — the word "shallow" is**
+> **now doing unearned work.** That page gained a blind 2026 model scoring on
 > seven invented dimensions: **Alexis 7.1, Annie 1.9**, with seven of the
 > 5.2-point gap sitting in *non-exploitation* alone. It is attributed AI output,
 > not a measurement, and nothing here rests on it. But this page's own edge
-> describes the Alexis bond as *"shallow enough to show that occupancy did not
-> require the deep attachment system to be active"* — and the instrument that
+> describes the Alexis bond as *"shallow enough to show that occupancy did not*
+> *require the deep attachment system to be active"* — and the instrument that
 > scored the two relationships blind put the "shallow" one nearly four times
 > higher. Both can be true, and the fact that they can is the finding:
-> **depth of Dan's attachment and quality of the relationship are independent
-> axes, and this page has been using one word for both.** The thesis is
+> **depth of Dan's attachment and quality of the relationship are independent**
+> **axes, and this page has been using one word for both.** The thesis is
 > unaffected — occupancy is what it measures, not warmth — but "shallow" should
 > be read strictly as *the deep attachment system was not engaged*, never as
 > *the relationship was worse.* On the available evidence it was better.
@@ -577,8 +577,8 @@ point the corpus has supplied evidence they can diverge.
   This page is about a structural property of Dan's life and deliberately makes
   no claim about whether the bonds were good, nor about the people in them.
 
-> **RE-CHECKED [2026-08-08] — the thesis holds; two of this page's own gaps
-> move.** The premise [[wiki/people/alexis-armel]] was rewritten against 495
+> **RE-CHECKED [2026-08-08] — the thesis holds; two of this page's own gaps**
+> **move.** The premise [[wiki/people/alexis-armel]] was rewritten against 495
 > previously-unread Google Chat blocks spanning the NYC-1 years, which is the
 > first *primary* evidence this page has ever had about the six-year bond's
 > interior rather than the bootloader's retrospective read of it.
@@ -596,8 +596,8 @@ point the corpus has supplied evidence they can diverge.
 > household — sustained baby-talk register, daily check-ins, shared money
 > and shared logistics. Read carelessly, that is evidence *against*
 > "shallow." It is not, because this page's claim was never that the
-> relationship was cold: it is that **occupancy and activation are separate
-> variables**, and warmth is not activation. What the archive does establish
+> relationship was cold: it is that **occupancy and activation are separate**
+> **variables**, and warmth is not activation. What the archive does establish
 > is that the "suppressed deep system" reading can no longer be stated
 > without also stating that the suppression was invisible from inside the
 > relationship — which is a strictly stronger and more falsifiable version

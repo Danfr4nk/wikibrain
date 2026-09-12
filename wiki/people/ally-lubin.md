@@ -160,8 +160,8 @@ diagnoses what came out the other end:
 > **DAN:** I need tk mention that I ran out of Claude quota for the week
 > already so I'm using a free model and it's kinda bad but Claude will clean
 > it all up on Thursday when I can use it again
-> **DAN:** **Hence it thinking you were the one accepting my very attractive
-> offer there**
+> **DAN:** **Hence it thinking you were the one accepting my very attractive**
+> **offer there**
 
 So the subject of the page joked an instruction into the ingest path, the
 operator did the same by accident, the model fused the two into a consented
@@ -182,8 +182,8 @@ wiki, and any pass that mines the corpus is partly reading itself.
 Three older corrections, retained because the evidence that killed them still
 matters:
 
-> **CORRECTED [2026-08-18]:** The page said the iMessage record was *"452
-> messages at handle +15619061550, spanning 2019-06-28 to 2023-11-14."* `452`
+> **CORRECTED [2026-08-18]:** The page said the iMessage record was *"452*
+> *messages at handle +15619061550, spanning 2019-06-28 to 2023-11-14."* `452`
 > was the row count for that handle in a partial CSV export and sat within
 > five of the received-only count (457) — the standard failure mode for
 > CSV-derived people pages. The true figure is **1,080** (623 sent, 457
@@ -195,8 +195,8 @@ matters:
 
 > **CORRECTED [2026-08-18]:** The typed edge to
 > [[wiki/people/dan-polyak|Dan Polyak]] asserted that Polyak's April 18, 2019
-> message was *"the only documented account of how direct contact with Ally
-> began."* Direct contact began **July 5, 2013**; the modern conversation began
+> message was *"the only documented account of how direct contact with Ally*
+> *began."* Direct contact began **July 5, 2013**; the modern conversation began
 > **December 6, 2018**. The impersonation falls four months *into* the
 > relationship, not two months before it.
 
@@ -213,16 +213,16 @@ era]]. This is the concrete instance of what
 [[wiki/mind/concepts/the-cool-metric|the cool metric]] describes: weaponized
 subcultural literacy, personified in one woman, at seventeen.
 
-> **CORRECTED [2026-08-20]:** This page said *"The venue was the
-> AbsolutePunk.net / emo-scene internet."* Dan retracts the specific venue in
-> the thread on August 18, 2026 at 23:08: *"The wiki says absolutepunk but
-> that is wrong."* He offers Twitter as more likely (*"Maybe it was actually
-> twitter?"*) and is certain only of the intermediary — *"I know for sure it
-> was via clandan"* — and of the adjacent names, the AbsolutePunk photographer
+> **CORRECTED [2026-08-20]:** This page said *"The venue was the*
+> *AbsolutePunk.net / emo-scene internet."* Dan retracts the specific venue in
+> the thread on August 18, 2026 at 23:08: *"The wiki says absolutepunk but*
+> *that is wrong."* He offers Twitter as more likely (*"Maybe it was actually*
+> *twitter?"*) and is certain only of the intermediary — *"I know for sure it*
+> *was via clandan"* — and of the adjacent names, the AbsolutePunk photographer
 > Chris Miller and the Overcast Kids message boards. The scene is right; the
 > site is not established. He later characterises her category precisely:
-> *"You're an early adopter twitter girl / That's infinitely higher up the
-> food chain."*
+> *"You're an early adopter twitter girl / That's infinitely higher up the*
+> *food chain."*
 
 The Facebook takeout shows the approach as a slow, one-directional accretion:
 nine documented interactions from Dan to her content between **May 20, 2011**
@@ -263,8 +263,8 @@ surprise her later today with $250 in her cash app."* A finder's fee of
 twenty-five dollars and a gift of two hundred and fifty, inside the same week,
 inside [[wiki/timeline/periods/2018-deep-cycle|the deep cycle]].
 
-> **CORRECTED [2026-08-20]:** the clause above previously read *"and $750/week
-> borrowed from his mother."* That rate was retracted on 2026-08-18 — a single
+> **CORRECTED [2026-08-20]:** the clause above previously read *"and $750/week*
+> *borrowed from his mother."* That rate was retracted on 2026-08-18 — a single
 > December 13, 2018 accusation about a single week generalised into a standing
 > rate by `operating_manual.md`, with the direction inverted: the large 2018
 > movement is roughly **$14,000 from Dan to Suz**, Aug–Oct. See
@@ -286,8 +286,8 @@ also contains, on day one, her stating the problem:
 > Intuitive 84%, Thinking 54%, Prospecting 61%, Turbulent 92%
 > (`raw/people/captures/2026-08-22_ally-lubin-16personalities-entp-t.md`). The
 > infobox is corrected, with the caveat that the instrument is self-administered
-> and the screenshot carries nothing tying it to her. **On the substance of the
-> December 2018 argument, Dan was right** — the auxiliary is Ti, not Fi, and her
+> and the screenshot carries nothing tying it to her. **On the substance of the**
+> **December 2018 argument, Dan was right** — the auxiliary is Ti, not Fi, and her
 > contest-and-audit moves throughout this page are its signature. The full
 > function-stack read, its contrastive test against ENFP, and what the record
 > says follows from it are at
@@ -295,8 +295,8 @@ also contains, on day one, her stating the problem:
 
 > **DAN:** Send me your address. I'm buying your Christmas gift <3
 > (I promise not to show up in North Carolina)
-> **ALLY:** Lies!!!!!1!1! … I'm scared to hahah … **You've literally said
-> you'd show up to my house!!!**
+> **ALLY:** Lies!!!!!1!1! … I'm scared to hahah … **You've literally said**
+> **you'd show up to my house!!!**
 
 He answers *"I'm kind of insulted that you think I'd be such an incompetent
 murderer,"* then, seriously: *"I seem to have a hard time getting across the
@@ -359,14 +359,14 @@ in so that she can keep an eye on them."*
 Four months into daily contact, Polyak confronts Dan in Facebook Messenger:
 
 > Hey man, I woke up to a text from Ally about a missed phone call which was
-> super confusing since I was asleep. I hit her up and heard that **you fake
-> used my number for some online shit.** In the future, please don't. That is
+> super confusing since I was asleep. I hit her up and heard that **you fake**
+> **used my number for some online shit.** In the future, please don't. That is
 > a MAJOR invasion of both of mine and her's privacy and regardless of both of
 > you having my numbers, it's jarring and extremely creepy. Your message to
 > her about me being "collateral damage" is arrogant and truly shows me
 > intentions of why you're kept in contact. Very slimy move. I have all the
-> screenshots of your messages with Ally, this isn't a joke, **I will pursue
-> legal action if this happens again**…
+> screenshots of your messages with Ally, this isn't a joke, **I will pursue**
+> **legal action if this happens again**…
 
 No reply from Dan appears in the thread. Two days later Facebook's
 `people_and_friends.html` records an activity stamp naming Alexandra Lubin,
@@ -574,9 +574,9 @@ he opens the Ally channel for the first time in fourteen months:
 > convinced him she was lying about everything she said about me….and I was
 > being super bizarre. I asked him if he was a zionist in the middle of the
 > whole thing and his brain had to reboot from the weirdness
-> **more importantly when am I allowed to come try to marry on you because I
-> need to go so far away this girl broke my entire brain and I am no longer a
-> piece of shit scumbag who would cheat now so lets make haste**
+> **more importantly when am I allowed to come try to marry on you because I**
+> **need to go so far away this girl broke my entire brain and I am no longer a**
+> **piece of shit scumbag who would cheat now so lets make haste**
 > You should have told me a long time ago that cheating on people will make
 > that other person feel like you're falling into a collapsing supernova I
 > hated it so much
@@ -595,8 +595,8 @@ outbound, no reply in any export.
 > wrong: there are **nine** messages, not ten.
 >
 > This is corroborated rather than resting on testimony alone. Ally's first
-> line on August 18, 2026 — before any of this is discussed — is *"Why do I
-> have 2 numbers for you and an iCloud"*, which is the mechanism stated from
+> line on August 18, 2026 — before any of this is discussed — is *"Why do I*
+> *have 2 numbers for you and an iCloud"*, which is the mechanism stated from
 > her side. **The correction propagates:** at least one of this channel's
 > celebrated long silences is a routing artifact, and the fourteen-month and
 > thirty-eight-month gaps should not be read as pure dormancy without checking
@@ -604,9 +604,9 @@ outbound, no reply in any export.
 > [[wiki/mind/synthesis/dormancy-not-exit]].
 
 > **PREDICTION RESOLVED [2026-08-20] — half right.** This page predicted that
-> *"the next contact with Ally will follow a rupture in Dan's primary
-> attachment within days, not precede one, and it will originate from Dan and
-> go unanswered."* The August 18 contact **did** originate from Dan and **did**
+> *"the next contact with Ally will follow a rupture in Dan's primary*
+> *attachment within days, not precede one, and it will originate from Dan and*
+> *go unanswered."* The August 18 contact **did** originate from Dan and **did**
 > sit inside a rupture — but it was answered, at length, by her: 154 inbound
 > messages in eight hours. The falsifier the page named ("a sustained
 > Ally-initiated exchange during a period of relational stability") did not
@@ -727,11 +727,11 @@ the supply to try to gain more access"* (13:43).
 
 > **CAVEAT — the August 19 inbound is missing, not absent.** The export
 > contains 331 outbound messages on August 19 and zero inbound, but Dan's own
-> messages that day are unambiguously responsive: *"Sorry is this your coffee
-> order or your answer,"* *"Bob was born in what year,"* *"Okay okay i get it
-> so you have a legitimate grievance here,"* *"Are you SERIOUS??? / I would
-> never do that."* Ally was replying. **The capture, not the conversation,
-> stops at 21:42 on August 18.** Every claim on this page about what Ally said
+> messages that day are unambiguously responsive: *"Sorry is this your coffee*
+> *order or your answer,"* *"Bob was born in what year,"* *"Okay okay i get it*
+> *so you have a legitimate grievance here,"* *"Are you SERIOUS??? / I would*
+> *never do that."* Ally was replying. **The capture, not the conversation,**
+> **stops at 21:42 on August 18.** Every claim on this page about what Ally said
 > or did after that time is therefore withheld, including the previous
 > version's account of her cat dying, her answering the question about her
 > brother, and her asking whether the wiki's model of her was accurate — that
@@ -804,26 +804,26 @@ elsewhere argues the attachment is real, mutual in flashes and structurally
 unlike the Annie channel should let the primary source make that case rather
 than paraphrase it:
 
-> **DAN (2026-08-21):** *"You really are unlike anyone else that I've ever
-> experienced. I've been thinking a lot about what it was about you that made
-> me so comically attracted to you that I spent more than a decade flailing
-> around like an idiot on social media, desperately trying to get your
-> attention so that I could meet you. There was never any reason whatsoever
-> to think that this was a good idea… the chances of you being curious enough
-> to waste your time getting to know a mediocre looking, drug-addled, autistic
-> tryhard were lower than 0. And yet…. I just never got over it. […] Listen;
-> you could scrape through everything I've ever done online and I promise you
-> that there's no precedent for the role you've been unwillingly cast in for
-> me. […] The real reason that I noticed you and couldn't get you out of my
-> head was that I have never come across a girl who is so quick and funny
-> that it made me feel like they were on an entirely different level. Its the
-> way you dress and your ability to spot trends… It's your personal brand.
-> It's your aesthetic. It's.. just…you. […] I do hope that I can show you that
-> I'm really not interested in being the person who would message you only to
-> tell you about the bizarre sex shit going on or a personal crisis anymore.
-> […] I still haven't lost interest in the same things about you that made me
-> your #1 simp for 17 years and counting."* — signed **"Your future soulmate,
-> Beto o'rourke."**
+> **DAN (2026-08-21):** *"You really are unlike anyone else that I've ever*
+> *experienced. I've been thinking a lot about what it was about you that made*
+> *me so comically attracted to you that I spent more than a decade flailing*
+> *around like an idiot on social media, desperately trying to get your*
+> *attention so that I could meet you. There was never any reason whatsoever*
+> *to think that this was a good idea… the chances of you being curious enough*
+> *to waste your time getting to know a mediocre looking, drug-addled, autistic*
+> *tryhard were lower than 0. And yet…. I just never got over it. […] Listen;*
+> *you could scrape through everything I've ever done online and I promise you*
+> *that there's no precedent for the role you've been unwillingly cast in for*
+> *me. […] The real reason that I noticed you and couldn't get you out of my*
+> *head was that I have never come across a girl who is so quick and funny*
+> *that it made me feel like they were on an entirely different level. Its the*
+> *way you dress and your ability to spot trends… It's your personal brand.*
+> *It's your aesthetic. It's.. just…you. […] I do hope that I can show you that*
+> *I'm really not interested in being the person who would message you only to*
+> *tell you about the bizarre sex shit going on or a personal crisis anymore.*
+> *[…] I still haven't lost interest in the same things about you that made me*
+> *your #1 simp for 17 years and counting."* — signed **"Your future soulmate,**
+> **Beto o'rourke."**
 
 Full text: `raw/self/sage/` capture of `raw/people/captures/2026-08-21_175309_gap-ally-lubin.md`.
 
@@ -888,8 +888,8 @@ they agree exactly.
 > The chat.db file has 1,376 lines and **1,285 records**; August 18 has 143
 > lines and **375 records**. The 74% share previously claimed for the 2019
 > peak was computed against the smaller total and is now **51%**, because the
-> August 2026 burst is nearly as large as the 2019 crisis. **The phone
-> handle's 1,080/623/457 is also corrected** — the true figure is
+> August 2026 burst is nearly as large as the 2019 crisis. **The phone**
+> **handle's 1,080/623/457 is also corrected** — the true figure is
 > **1,064/612/452** from the desktop export `imessage_export_5619061550`,
 > which is the only source containing both sent and received for that
 > handle.

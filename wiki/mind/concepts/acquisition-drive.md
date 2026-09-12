@@ -220,9 +220,9 @@ be found if one exists.
 
 > **PREDICTION FALSIFIED [2026-08-02] — and the rule is better for it.** The
 > employment record was audited, as this paragraph invited. It contains two
-> assigned commitments that dwarf the Fran vigil on both axes: **41 months at
-> [[wiki/work/au-zaatar]]** and **43 months at
-> [[wiki/work/nemacolin-caddying]]**, against six months of caregiving. On
+> assigned commitments that dwarf the Fran vigil on both axes: **41 months at**
+> **[[wiki/work/au-zaatar]]** and **43 months at**
+> **[[wiki/work/nemacolin-caddying]]**, against six months of caregiving. On
 > duration and on cost the prediction fails outright, and it fails on the
 > first place it told anyone to look.
 >
@@ -246,8 +246,8 @@ be found if one exists.
 > was never built past specification, the [[wiki/work/tech/danmodel|DANMODEL]]
 > blind evaluation has no results file anywhere and may never have been run,
 > and [[wiki/work/tech/ai-video-essays]] stalled at planning. All three were
-> entirely self-set and none completed. **Self-origination is necessary for
-> the engine to fire and is not sufficient for it to finish.** The 95th-
+> entirely self-set and none completed. **Self-origination is necessary for**
+> **the engine to fire and is not sufficient for it to finish.** The 95th-
 > percentile claim should be read as being about what the drive does when it
 > engages, not about how reliably it engages.
 
@@ -268,10 +268,10 @@ be found if one exists.
 The Fran vigil has a verdict from Dan himself that the section above never
 quoted. Four days after the funeral, unprompted, to a third party:
 
-> **DAN (2018-04-06 17:55, to 4137703708):** *"she was a trip dude but i spent
-> the past 6 months looking after her full time ($15 an hour to play video
-> games with gram is a good deal) and we had a lot of fun. got good closure and
-> finally did something in my life that wasn't completely selfish haha"*
+> **DAN (2018-04-06 17:55, to 4137703708):** *"she was a trip dude but i spent*
+> *the past 6 months looking after her full time ($15 an hour to play video*
+> *games with gram is a good deal) and we had a lot of fun. got good closure and*
+> *finally did something in my life that wasn't completely selfish haha"*
 
 A `bin/mine-messages` sweep of all 106,629 sent messages finds no second
 instance of Dan reporting a good outcome from something he *did* — every other

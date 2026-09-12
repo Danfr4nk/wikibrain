@@ -42,8 +42,8 @@ Casey Bondarenka was a friend who overstayed his welcome during a chaotic late-2
 > **CORRECTED [2026-08-17]:** "Overstayed his welcome" implied an established
 > friendship. The hand-read of the Annie corpus
 > ([[wiki/timeline/annie-record]]) dates his arrival precisely: on 2015-11-30
-> Dan complains *"Casey will never stfu here"* and explains, *"He just started
-> hanging out with us last week"* (13:47–13:48). Casey had been in the friend
+> Dan complains *"Casey will never stfu here"* and explains, *"He just started*
+> *hanging out with us last week"* (13:47–13:48). Casey had been in the friend
 > group **roughly one week** when the switch happened, and was asked to stay
 > away within a fortnight. The entire documented arc — arrival, insertion into
 > the household, expulsion — spans about nine weeks, which changes what his

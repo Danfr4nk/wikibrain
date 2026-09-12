@@ -162,8 +162,8 @@ connections:
 > [[wiki/mind/concepts/the-cool-metric]], a member, gained a section extending
 > the sorting metric's demonstrated range to an intimate partner. This page's
 > thesis is about totality as a mode across domains, and a member gaining a new
-> *instance* of its own axis neither adds a domain nor removes one. **No theme,
-> count or conclusion here is affected and none is withdrawn.**
+> *instance* of its own axis neither adds a domain nor removes one. **No theme,**
+> **count or conclusion here is affected and none is withdrawn.**
 
 > **RE-CHECKED [2026-08-28]:** flagged stale against
 > [[wiki/mind/synthesis/dormancy-not-exit]] (2026-08-28), which resolved a
@@ -175,8 +175,8 @@ connections:
 > **RE-CHECKED [2026-08-23]:** flagged stale against
 > [[wiki/mind/concepts/attachment-model]] and
 > [[wiki/mind/synthesis/block-unblock-loop]] (both 2026-08-23). Both moved for
-> one reason: the 127/110 exit pair was re-derived from primary data as **129
-> episodes with 100% re-engagement**, median gap thirty-six seconds. This page
+> one reason: the 127/110 exit pair was re-derived from primary data as **129**
+> **episodes with 100% re-engagement**, median gap thirty-six seconds. This page
 > cites *"127 declared exits before any of them held for even a season"* —
 > that sentence is **strengthened, not affected**: the corrected record shows
 > none of them held for even 46 hours, which is a stronger form of the same
@@ -198,8 +198,8 @@ connections:
 > the change; **no claim on this page is affected** and nothing here is
 > withdrawn. The one thing a later pass should look at rather than assume: block-unblock-loop now records that Dan's own assertions of threat execution are unreliable (a proven false send on 2026-08-18), which narrows what the loop's threat counts can be built from. This page cites the loop's *pattern*, not its execution tallies, so the narrowing does not reach it — but a pass that ever cites those tallies here must read [[wiki/timeline/events/august-2026-morgantown-call]] first.
 
-> **RE-CHECKED [2026-08-21] — three premises moved and one of them strengthens
-> this page.** [[wiki/mind/synthesis/block-unblock-loop]],
+> **RE-CHECKED [2026-08-21] — three premises moved and one of them strengthens**
+> **this page.** [[wiki/mind/synthesis/block-unblock-loop]],
 > [[wiki/mind/synthesis/dormancy-not-exit]] and
 > [[wiki/mind/synthesis/supply-network]] all moved on 2026-08-21, all through
 > the same finding about the **Menore** channel. This page cites Menore by name
@@ -218,11 +218,11 @@ connections:
 > [[wiki/mind/concepts/acquisition-drive]] (both 2026-08-26), which added a
 > tenure-versus-satisfaction distinction built on the Fran vigil and left the
 > MNEME/DANMODEL/video-essay self-origination record — the material "The
-> Irreversibility Firewall" below reasons from — untouched. **No claim on this
-> page is affected.**
+> Irreversibility Firewall" below reasons from — untouched. **No claim on this**
+> **page is affected.**
 
-> **RETIRED 2026-08-11 — the original "themed summary" spine, kept for
-> history.** Everything from here through the old "## Conclusion" heading
+> **RETIRED 2026-08-11 — the original "themed summary" spine, kept for**
+> **history.** Everything from here through the old "## Conclusion" heading
 > (git history has the full text; see `log.md` this date for the section-by-
 > section accounting) was a structured restatement of one raw AI-authored
 > document, `TOTALITY_SYNTHESIS_2026-06-10.md` — six paragraph-headers
@@ -324,15 +324,15 @@ one category rather than three. The engine that makes the firewall
 necessary and the engine the firewall is defending against are the same
 engine.
 
-> **RE-CHECKED [2026-08-16] — premise moved, conclusion survives, and one
-> prediction gains a boundary.**
+> **RE-CHECKED [2026-08-16] — premise moved, conclusion survives, and one**
+> **prediction gains a boundary.**
 > [[wiki/mind/synthesis/block-unblock-loop]] moved on 2026-08-16 after
 > [[wiki/people/kristin]] was rewritten from primary exports.
 >
-> This page's edge reads that *"the exit is declared, never executed, because
-> execution is the irreversible act,"* with the firewall's **"blocks don't hold on
-> people"** prediction strengthened by the 2026-08-11 Rick retraction. **That
-> holds.** Nothing in the Kristin rewrite touches Dan's own severances; the
+> This page's edge reads that *"the exit is declared, never executed, because*
+> *execution is the irreversible act,"* with the firewall's **"blocks don't hold on**
+> **people"** prediction strengthened by the 2026-08-11 Rick retraction. **That**
+> **holds.** Nothing in the Kristin rewrite touches Dan's own severances; the
 > Kristin block is a *counterparty's* and was already scoped as such.
 >
 > **The boundary it gains.** The rewrite establishes that Dan stopped answering
@@ -369,13 +369,13 @@ is itself a kind of small, unauthorized deletion. **Prediction:** any
 relationship, account, or structure the corpus calls "ended" should, on
 inspection, still be reachable.
 
-> **RETRACTED and restated [2026-08-15] — Prediction 1's supporting clause was
-> false, and the correction sharpens the firewall rather than damaging it.**
-> This section stated that the Annie bond *"only ever closed when an outside
-> party (Ellen Ulmer, informed directly) forced the irreversible act from
-> outside the system."* [[wiki/mind/synthesis/dormancy-not-exit]] moved on
-> 2026-08-13 and says the opposite on the record: **Dan issued the June 1 2026
-> severance himself**, at 00:27:49, and held it for 52 days. The act was
+> **RETRACTED and restated [2026-08-15] — Prediction 1's supporting clause was**
+> **false, and the correction sharpens the firewall rather than damaging it.**
+> This section stated that the Annie bond *"only ever closed when an outside*
+> *party (Ellen Ulmer, informed directly) forced the irreversible act from*
+> *outside the system."* [[wiki/mind/synthesis/dormancy-not-exit]] moved on
+> 2026-08-13 and says the opposite on the record: **Dan issued the June 1 2026**
+> **severance himself**, at 00:27:49, and held it for 52 days. The act was
 > performable, unforced, and unilateral. As written, the clause is dead.
 >
 > **What survives is the distinction the old wording collapsed.** Saying
@@ -384,19 +384,19 @@ inspection, still be reachable.
 > Dan performed the first alone and it did not hold: the 52 days ended in the
 > [[wiki/timeline/events/july-2026-recontact|July 23–26 recontact]] and the
 > [[wiki/timeline/events/july-august-2026-reentanglement|reentanglement]] that
-> followed. `dormancy-not-exit` states the refined form directly — *"it is the
-> crossing-out that requires the other person, and the crossing-out is what
-> dormancy is the absence of."* The firewall's prediction was never about who
+> followed. `dormancy-not-exit` states the refined form directly — *"it is the*
+> *crossing-out that requires the other person, and the crossing-out is what*
+> *dormancy is the absence of."* The firewall's prediction was never about who
 > can utter a severance; it is about who can make one stick. Restated:
-> **closures Dan can perform alone are the reversible kind, and the corpus
-> contains no instance of him unilaterally producing an irreversible one.**
+> **closures Dan can perform alone are the reversible kind, and the corpus**
+> **contains no instance of him unilaterally producing an irreversible one.**
 >
 > **A third instance, one relationship earlier, arrived the same day.** The
 > 2015 Alexis closure was corrected on 2026-08-15
 > ([[wiki/mind/synthesis/bond-switch-2015]]): the "cheating revelation" that
 > supposedly triggered it was a retrospective account of a **2009** episode,
-> so the six-year bond closed in roughly seventy-two hours with *no grievance
-> on the record at all* — and Alexis was then retained anyway, paid into the
+> so the six-year bond closed in roughly seventy-two hours with *no grievance*
+> *on the record at all* — and Alexis was then retained anyway, paid into the
 > November 2018 arrangement with her own successor and carried as warm
 > correspondence to 2025. Same shape, eleven years apart: the ending is
 > performed easily and unilaterally, and the crossing-out never happens.
@@ -1074,8 +1074,8 @@ cost:
 > in the RETRACTION above, and the second touches sender attribution on a
 > February 2025 row this page never cites. No further revision required.
 
-> **RE-CHECKED [2026-08-19] — a premise lost a limb, and the theme survives on
-> three legs instead of four.** [[wiki/mind/synthesis/single-channel]] moved on
+> **RE-CHECKED [2026-08-19] — a premise lost a limb, and the theme survives on**
+> **three legs instead of four.** [[wiki/mind/synthesis/single-channel]] moved on
 > 2026-08-19: its *evaluative* leg, which that page had itself scored as its
 > weakest ("a reading rather than a measurement"), was measured for the first
 > time and came back inverted. Computed over entries-per-creator from
@@ -1085,8 +1085,8 @@ cost:
 > alternative account of that distribution is
 > [[wiki/mind/synthesis/closing-the-set]].
 >
-> **The Irreversibility Firewall's reading of concentration is unaffected and the
-> edge above has been narrowed rather than withdrawn.** The firewall argument
+> **The Irreversibility Firewall's reading of concentration is unaffected and the**
+> **edge above has been narrowed rather than withdrawn.** The firewall argument
 > runs on *exposure*: a channel carrying load is a channel that can be audited,
 > so risk is consolidated rather than distributed. That argument was only ever
 > supported by the relational leg, which is the only one with a measurement

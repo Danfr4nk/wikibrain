@@ -58,8 +58,8 @@ two operations in one CSV is what looks like catholic curiosity. The
 mechanism is the INTP stack, not an Openness score the instrument never
 actually reported as a single number.
 
-> **REVISED [2026-09-01] — stale against
-> [[wiki/interests/favorites/music]] (moved 2026-07-14).** This page last
+> **REVISED [2026-09-01] — stale against**
+> **[[wiki/interests/favorites/music]] (moved 2026-07-14).** This page last
 > moved on 2026-06-23. Twenty-one days later the music member was rewritten
 > from a cluster inventory into a two-wave, three-cluster, eighteen-year
 > continuity argument with a lyrics-as-timbre caveat, a production-
@@ -77,30 +77,30 @@ actually reported as a single number.
 > evidence of one-track-per-artist sampling, which is the same surface
 > Architecture A produces for a different reason.
 
-> **CORRECTED [2026-09-01] — "98 authors across 120 titles" was not
-> range.** The 2026-06-23 lead treated the author column as a span from
+> **CORRECTED [2026-09-01] — "98 authors across 120 titles" was not**
+> **range.** The 2026-06-23 lead treated the author column as a span from
 > Plutarch to Trump-era journalism, and read that span as eclecticism.
 > [[wiki/interests/favorites/books]] (2026-08-19) and
 > [[wiki/mind/synthesis/closing-the-set]] counted by subject instead: 40 of
 > the 120 books are tagged `trump` or `jan-6` (30 authors); 20 are tagged
 > `roman-republic`, `ancient-history` or `caesar` (14 authors); the two
-> sets do not overlap; **half the shelf is two subjects read through 44
-> hands.** Eighty-five of 98 authors appear exactly once because one
+> sets do not overlap; **half the shelf is two subjects read through 44**
+> **hands.** Eighty-five of 98 authors appear exactly once because one
 > account per witness is all exhaustive coverage of a single event
 > requires. Old claim visible in the 2026-06-23 body: "spanning ancient
 > (Plutarch, Goldsworthy Roman) to immediate present." The dates are
 > real. They are two closed sets, not a tour of the library.
 
-> **CORRECTED [2026-09-01] — "high openness" was a cluster name treated as
-> a mechanism.** The 2026-06-23 Interpretation section said the list
+> **CORRECTED [2026-09-01] — "high openness" was a cluster name treated as**
+> **a mechanism.** The 2026-06-23 Interpretation section said the list
 > "reflects high openness and pattern-seeking across domains, consistent
 > with the architect frame and cognitive profile."
 > [[wiki/mind/profile/big-five-psychometrics]] does not report a single
 > Openness percentile. It reports Artistic Interests at 81 (corpus-audited
 > at 3.82× aesthetic language — the strongest confirmation in the table),
 > Intellect 95, Liberalism 91, Introspection 87, and an Inquisitive facet
-> whose documented cycle is discovery → immersion → synthesis → **abrupt
-> abandonment once the mystery is solved.** That cycle is set-closure, not
+> whose documented cycle is discovery → immersion → synthesis → **abrupt**
+> **abandonment once the mystery is solved.** That cycle is set-closure, not
 > browsing. Pattern-seeking is auxiliary Ne. The architect frame is
 > fortress/geometry tagging on the art record, which
 > [[wiki/mind/synthesis/closing-the-set]] already reread as six subjects
@@ -167,11 +167,11 @@ into "eclecticism." This page is the distinction.
 > readings. Typology vocabulary appears seventeen times in 106,629
 > outbound messages and stays in laboratory sessions; the one first-person
 > self-typing in the record gives `5w6sx RLOEI` against the cluster's 5w4
-> / RLUEI. **This page does not lean on the wing or the SLOAN third
-> letter.** It leans on (a) Artistic Interests 81, which is the one
+> / RLUEI. **This page does not lean on the wing or the SLOAN third**
+> **letter.** It leans on (a) Artistic Interests 81, which is the one
 > aesthetic facet the 2026-08-16 corpus audit confirmed at 3.82×, (b) the
-> Inquisitive cycle as a *description of behavior already measured in the
-> CSV*, and (c) the Ti/Ne split as a mechanism that predicts the dual
+> Inquisitive cycle as a *description of behavior already measured in the*
+> *CSV*, and (c) the Ti/Ne split as a mechanism that predicts the dual
 > architecture rather than as a credential. The CSV distributions, the
 > Facebook dates, and the two ingestion waves are residue. If the
 > function scores are wrong, Architecture A and Architecture B are still

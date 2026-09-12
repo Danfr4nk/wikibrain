@@ -33,8 +33,8 @@ John Felix's thread (`+17249636738`, 59 messages, February–June 2016) is almos
 > **REVISED [2026-08-18]:** The partner reading above is **not supported** by
 > the source this page never checked. The `+17249636738` thread does run only
 > February–June 2016, but "Felix" appears in the
-> [[wiki/people/suzanne-frank|Suz]] thread **continuously from January 2016 to
-> June 2026** — a decade — and the role there is the Uniontown bar-and-supply
+> [[wiki/people/suzanne-frank|Suz]] thread **continuously from January 2016 to**
+> **June 2026** — a decade — and the role there is the Uniontown bar-and-supply
 > circuit rather than a domestic one: *"Felix is here. He has some"* (2018);
 > *"Felix is looking for $200. He asked me to ask the rev"* (2018); Dan owing
 > him $10 (2016); Suz driving him around to pay people back after a win (2016);
@@ -44,8 +44,8 @@ John Felix's thread (`+17249636738`, 59 messages, February–June 2016) is almos
 > painting the property. The domestic details this page read as cohabitation —
 > Suz leaving her phone at his place, feeding an animal — are equally consistent
 > with a long-running social and supply association, which is what the ten-year
-> record actually shows. **The 2016 thread is a four-month slice of a
-> decade-long contact, not the whole of it.**
+> record actually shows. **The 2016 thread is a four-month slice of a**
+> **decade-long contact, not the whole of it.**
 
 ## Gaps
 

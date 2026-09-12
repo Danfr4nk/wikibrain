@@ -62,8 +62,8 @@ connections:
 > participants' conduct within it. No ethical finding here depends on the
 > exit-cycle arithmetic. Nothing affected, no claim withdrawn.
 
-> **RE-CHECKED [2026-08-22] — premise moved by a re-check block only, at the
-> end of a four-link chain.** [[wiki/mind/synthesis/august-grievance-verdict]] moved on 2026-08-22
+> **RE-CHECKED [2026-08-22] — premise moved by a re-check block only, at the**
+> **end of a four-link chain.** [[wiki/mind/synthesis/august-grievance-verdict]] moved on 2026-08-22
 > solely by gaining a `RE-CHECKED` blockquote. Walking the chain back: it leads
 > to the April 2018 hospital summons
 > ([[wiki/timeline/events/uniontown-hospital-vape-alarm]]), a court document that
@@ -82,8 +82,8 @@ connections:
 > demand-for-a-statement mechanism. No grievance finding, quotation or
 > verdict changed, and this analysis reasons from those.
 
-> **VERIFIED AND AMENDED [2026-08-20] — the parental-disclosure threat is made
-> during the call, not after it.** This page's central reconstruction turns on a
+> **VERIFIED AND AMENDED [2026-08-20] — the parental-disclosure threat is made**
+> **during the call, not after it.** This page's central reconstruction turns on a
 > sequence: Dan is protective *during* the recording, and *afterward* uses the
 > recording and the prospect of parental disclosure to create a high-stakes
 > decision point. The direct transcript
@@ -92,22 +92,22 @@ connections:
 > transcript ends and while Annie is still in the room asking for her phone:
 >
 > > **DAN:** Hey, you're gonna give her her phone back? Or we're gonna like…
-> > it's gonna be a real problem. Or… **I'm gonna send this whole thing to
-> > Ellen because it sounds really fucking bad and I haven't said a word this
-> > entire time.**
+> > it's gonna be a real problem. Or… **I'm gonna send this whole thing to**
+> **> Ellen because it sounds really fucking bad and I haven't said a word this**
+> **> entire time.**
 >
 > He repeats it at 13:46 with the elapsed time attached, and Coles calls the
 > bluff four times in the closing seconds.
 >
-> **This complicates the page without overturning it, and the direction is not
-> the obvious one.** The threat's target at 13:30 is **Coles, not Annie**, and
+> **This complicates the page without overturning it, and the direction is not**
+> **the obvious one.** The threat's target at 13:30 is **Coles, not Annie**, and
 > its stated purpose is to make him hand the phone back — which is the same
 > object Dan had been pursuing for eight minutes and twenty separate demands.
 > That is evidence *for* this page's reading that the instrument was conceived
 > in a protective frame rather than an acquisitive one. What it costs the page
 > is the clean temporal break: the leverage is not invented after the call in a
-> different emotional state, it is **already in Dan's hand while he is still
-> being protective, and is later re-aimed from Coles to Annie.** The morally
+> different emotional state, it is **already in Dan's hand while he is still**
+> **being protective, and is later re-aimed from Coles to Annie.** The morally
 > serious act is the re-aiming, and this page should say so rather than resting
 > on "afterward."
 >
@@ -116,8 +116,8 @@ connections:
 > *"You're acting like someone's fucking hitting you and shit,"* she says
 > ***"You are"***, and Coles denies it four times — which strengthens the
 > "principal active coercive force" finding on conduct rather than motive.
-> And **Dan answers the prostitution allegation on tape, narrowly**: *"I really
-> didn't need the money at that time when that was all going on"* (07:31). He
+> And **Dan answers the prostitution allegation on tape, narrowly**: *"I really*
+> *didn't need the money at that time when that was all going on"* (07:31). He
 > contests the motive, not the fact.
 
 

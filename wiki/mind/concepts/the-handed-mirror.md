@@ -114,8 +114,8 @@ escalation of method. They are the same act aimed at someone who mattered.
 
 > **CORRECTED [2026-08-18]:** [[wiki/mind/concepts/forensic-method]] carried
 > the claim that the July 2026 Leviathan dashboards were "the method's first
-> outward deployment." They are the first deployment *as leverage in a live
-> dispute*; the first outward deployment at a named private person is the
+> outward deployment." They are the first deployment *as leverage in a live*
+> *dispute*; the first outward deployment at a named private person is the
 > James Analysis PDF, **2025-07-11**, a year and two weeks earlier. The
 > forensic-method edge has been narrowed accordingly. The error was not
 > reasoning — it was that the source containing the 2025 case had been read to

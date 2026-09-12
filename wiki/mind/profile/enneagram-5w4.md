@@ -177,17 +177,17 @@ machinery, formalized at [[wiki/mind/concepts/attachment-model]].
 better supported); no dated instrument result exists, only convergent
 AI-era analyses.
 
-> **CONTRADICTION [2026-08-19] — the only first-person self-typing in the primary
-> record is not 5w4.** Everything on this page descends from a commissioned
+> **CONTRADICTION [2026-08-19] — the only first-person self-typing in the primary**
+> **record is not 5w4.** Everything on this page descends from a commissioned
 > instrument. The message corpus contains exactly one instance of Dan typing
 > himself in his own words, quoting back a prompt he had written, on
-> **2024-11-04**: *"vanessa is an xNFP 4w5 and **Dan is an INTP 5w6sx RLOEI** -
-> compare them."*
+> **2024-11-04**: *"vanessa is an xNFP 4w5 and **Dan is an INTP 5w6sx RLOEI** -*
+> *compare them."*
 >
 > Not 5w4, and not RLUEI. The wing is the difference that matters here, because
 > this page is named for it and derives its central content from it — the
-> tragic-romantic identity-through-difference reading, the craving for *"mythic
-> comprehension,"* and much of the emotional architecture the attachment pages
+> tragic-romantic identity-through-difference reading, the craving for *"mythic*
+> *comprehension,"* and much of the emotional architecture the attachment pages
 > then build on. A 6 wing points at loyalty, anxiety and security-seeking
 > instead. The SLOAN third letter differs too: O for Organized rather than U for
 > Unstructured, which cuts against the burst-and-collapse rhythm

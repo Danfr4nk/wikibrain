@@ -52,8 +52,8 @@ infobox:
 > checked by grep against every changed figure and claim — so nothing here is
 > rederived. Recorded rather than date-bumped, per `CLAUDE.md` §3.
 
-> **RE-CHECKED [2026-08-21] — premise moved, conclusion unaffected; verified
-> rather than assumed.** [[wiki/self/context-core]] moved on 2026-08-19 and has
+> **RE-CHECKED [2026-08-21] — premise moved, conclusion unaffected; verified**
+> **rather than assumed.** [[wiki/self/context-core]] moved on 2026-08-19 and has
 > been flagged against this page since. The diff is one typed edge added to the
 > spine, pointing at `the-cato-seat`, and nothing else — no figure, date or
 > claim about Jerad changed. `BACKLOG.md` recorded this as *believed* cheap

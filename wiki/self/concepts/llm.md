@@ -139,8 +139,8 @@ apart, because only the first is his.
 
 > **CORRECTED [2026-08-21]:** this section previously presented all three
 > bullets below as *"his analysis."* They are **Gemini's**, generated in the
-> 2025-08-24 session from Dan's five-word prompt *"gemini i think chatGPT is
-> cooked"* — the same misattribution [[wiki/self/concepts/chatgpt]] corrected
+> 2025-08-24 session from Dan's five-word prompt *"gemini i think chatGPT is*
+> *cooked"* — the same misattribution [[wiki/self/concepts/chatgpt]] corrected
 > on 2026-08-19 and this page inherited uncorrected. What the corpus records
 > is the verdict and the migration; it does not record Dan's reasons.
 

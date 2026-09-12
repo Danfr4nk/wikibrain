@@ -129,8 +129,8 @@ was written to support this page's thesis, and it lands on the same year.
 > version of this section claimed the archive showed **two steps, not one** —
 > a first step in 2017 (4.0% → 11.1%, "nearly tripling") separating
 > *political engagement* from *socialist identity*, plus a "documented off
-> period" at 1.2–4.0% across 2013–2016. **Both were artifacts of the keyword
-> pattern, and both are withdrawn.**
+> period" at 1.2–4.0% across 2013–2016. **Both were artifacts of the keyword**
+> **pattern, and both are withdrawn.**
 >
 > Re-measured with a pattern that includes the political vocabulary Dan
 > actually used in those years — Troy Davis, capital punishment, Paterno, the
@@ -139,12 +139,12 @@ was written to support this page's thesis, and it lands on the same year.
 > not 1.4%, so the "off period" was mostly the pattern failing to see what
 > was there.
 >
-> **The tell was in the archive the whole time.** On the night of **21
-> September 2011** Dan posted four tweets across the Troy Davis execution:
-> *"10 reasons why executing Troy Davis is a bad idea"* (18:41 EDT), *"this is
-> awful to watch. first-world country? yeah right."* to his sister half an
-> hour before it happened, *"I have no idea whether Troy Davis was guilty or
-> not, but he deserved the chance to live another day to fight in court"* six
+> **The tell was in the archive the whole time.** On the night of **21**
+> **September 2011** Dan posted four tweets across the Troy Davis execution:
+> *"10 reasons why executing Troy Davis is a bad idea"* (18:41 EDT), *"this is*
+> *awful to watch. first-world country? yeah right."* to his sister half an
+> hour before it happened, *"I have no idea whether Troy Davis was guilty or*
+> *not, but he deserved the chance to live another day to fight in court"* six
 > minutes after it did, and a call for *"a serious debate"* on capital
 > punishment. That is a fully formed position, held and argued in public, in
 > a year the first table scored at 1.3%.
@@ -184,8 +184,8 @@ without prompting:
 
 > "i also didn't realize that there was a fully leftist perspective that
 > embraces tolerance without falling into the 'woke-scold' ideology. i
-> took a **HARD turn left recently thanks to hasan piker, chapo trap
-> house, thoughtslime, etc.**"
+> took a **HARD turn left recently thanks to hasan piker, chapo trap**
+> **house, thoughtslime, etc.**"
 
 Minutes later, the reading list that came with it:
 
@@ -249,10 +249,10 @@ Two years later he gave a **different** account of the same conversion, and it
 is not in this page. On **18 July 2022**, addressing Opie of
 [[wiki/interests/opie-and-anthony|Opie & Anthony]] directly:
 
-> *"something to consider - while many O&A fans followed Anthony down the
-> reactionary rabbit hole of white-grievance politics…a lot of the online
-> community were so repulsed by the racism and fascistic overtones that we
-> were radicalized to leftist politics (1/3)"*
+> *"something to consider - while many O&A fans followed Anthony down the*
+> *reactionary rabbit hole of white-grievance politics…a lot of the online*
+> *community were so repulsed by the racism and fascistic overtones that we*
+> *were radicalized to leftist politics (1/3)"*
 
 **"We were radicalized to leftist politics."** Same verb this page uses,
 different cause: not media he sought out, but a media community he already

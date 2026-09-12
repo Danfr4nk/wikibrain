@@ -222,8 +222,8 @@ not been filed to `raw/self/message-csv/` — see the sourcing note above. Prior
 corpus analyses that used `reply_to_guid` as a threading signal (M2) have not
 yet been audited; that audit is owed and is listed in `BACKLOG.md`.
 
-> **RE-CHECKED [2026-08-18] — premise moved, conclusion unaffected and slightly
-> strengthened.** [[wiki/mind/concepts/forensic-method]] moved on 2026-08-18: its
+> **RE-CHECKED [2026-08-18] — premise moved, conclusion unaffected and slightly**
+> **strengthened.** [[wiki/mind/concepts/forensic-method]] moved on 2026-08-18: its
 > claim that the July 2026 Leviathan dashboards were the method's first outward
 > deployment was corrected to 2025-07-11
 > ([[wiki/timeline/events/james-analysis-pdf]]), and it gained a terminal step,
@@ -234,8 +234,8 @@ yet been audited; that audit is owed and is listed in `BACKLOG.md`.
 > because a cited source had been read to eleven percent of its length. The
 > instrument that lied quietly there was a reading pass rather than a query.
 
-> **RE-CHECKED [2026-08-23] — premise moved by one typed edge, conclusion
-> unaffected.** [[wiki/mind/concepts/forensic-method]] gained an `instance-of` edge on
+> **RE-CHECKED [2026-08-23] — premise moved by one typed edge, conclusion**
+> **unaffected.** [[wiki/mind/concepts/forensic-method]] gained an `instance-of` edge on
 > 2026-08-23 into [[wiki/mind/profile/texting-deviance-audit]]. No content this page
 > depends on changed. The new instance does rhyme with this page's subject: the audit's
 > decisive move was a control that disconfirmed the hypothesis being tested — Dan's
@@ -243,8 +243,8 @@ yet been audited; that audit is owed and is listed in `BACKLOG.md`.
 > the lowercase opener is habit, not sentence-fragmentation. That is the same class of
 > check whose absence produced the four `chat.db` defects catalogued here.
 
-> **RE-CHECKED [2026-08-26] — premise moved by one typed edge, conclusion
-> unaffected.** [[wiki/mind/concepts/forensic-method]] gained an `instance-of` edge
+> **RE-CHECKED [2026-08-26] — premise moved by one typed edge, conclusion**
+> **unaffected.** [[wiki/mind/concepts/forensic-method]] gained an `instance-of` edge
 > into the new [[wiki/mind/profile/lexicon]] page — the same evidence-cite/
 > authority-invoke/render-a-finding machinery documented there for crisis analysis,
 > observed running on a compliment instead. Nothing about `chat.db` metadata

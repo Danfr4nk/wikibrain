@@ -115,10 +115,10 @@ decade first.
 The show's afterlife has a politics, and Dan gave his own account of it on
 **18 July 2022**, writing to Opie directly:
 
-> *"something to consider - while many O&A fans followed Anthony down the
-> reactionary rabbit hole of white-grievance politics…a lot of the online
-> community were so repulsed by the racism and fascistic overtones that we
-> were radicalized to leftist politics (1/3)"*
+> *"something to consider - while many O&A fans followed Anthony down the*
+> *reactionary rabbit hole of white-grievance politics…a lot of the online*
+> *community were so repulsed by the racism and fascistic overtones that we*
+> *were radicalized to leftist politics (1/3)"*
 
 Two things in one sentence. He names the fanbase's rightward drift after
 Anthony Cumia's 2014 firing as a **reactionary rabbit hole of white-grievance
@@ -131,11 +131,11 @@ leftist politics."*
 > **3 July 2014** over racist posts about a Black woman who had hit him in
 > Times Square. On **4 July 2014** Dan tweeted at him:
 >
-> > *"nothing but love and respect ant. Thanks for not selling your soul
-> > through this whole mess."*
+> > *"nothing but love and respect ant. Thanks for not selling your soul*
+> *> through this whole mess."*
 >
-> And on **25 March 2014**: *"brilliant point re 'tranny' outrage. Minority
-> groups feel entitled to have at least 1 term ruled a slur."* 2014 is a
+> And on **25 March 2014**: *"brilliant point re 'tranny' outrage. Minority*
+> *groups feel entitled to have at least 1 term ruled a slur."* 2014 is a
 > **spreadsheet-complete year** on `wiki/self/twitter/2014` — 170 of 171 rows
 > from the operator export — so the absence of any post expressing discomfort
 > is itself evidence, and the record is not merely silent but opposed.
@@ -182,15 +182,15 @@ joke" is the exact doctrine the show ran on, and he says he has left it.
 > shift is dated five months earlier by `wiki/self/twitter/2021`. On
 > **26 October 2021**, during the Chappelle row, he wrote:
 >
-> > *"Lenny Bruce was arrested...not by 'the public', but by the state. Dave
-> > Chappelle is facing criticism which is, I'm told, different."*
+> > *"Lenny Bruce was arrested...not by 'the public', but by the state. Dave*
+> *> Chappelle is facing criticism which is, I'm told, different."*
 >
 > That is the same position, argued rather than declared, and aimed precisely
 > at the martyrdom analogy the absolutist defence depends on. Bounding it from
 > the other side: on **16 January 2019** he was still fully inside the old
-> position — *"The recent joke shaming of Louis CK is so fucking disturbing.
-> You don't have to agree with the material to appreciate the essence of what a
-> joke is."* So the move happens somewhere in the thirty-three months between
+> position — *"The recent joke shaming of Louis CK is so fucking disturbing.*
+> *You don't have to agree with the material to appreciate the essence of what a*
+> *joke is."* So the move happens somewhere in the thirty-three months between
 > those two dates, and the March 2022 thread is the moment he **states** it
 > about himself, not the moment he arrives at it.
 

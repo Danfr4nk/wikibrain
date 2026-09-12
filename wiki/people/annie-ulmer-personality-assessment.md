@@ -31,8 +31,8 @@ connections:
 
 # Annie Ulmer — Forensic Personality Assessment
 
-> **RE-CHECKED [2026-08-23] — new behavioural material, and it cuts against the
-> harsher readings rather than confirming them.** Flagged stale against
+> **RE-CHECKED [2026-08-23] — new behavioural material, and it cuts against the**
+> **harsher readings rather than confirming them.** Flagged stale against
 > [[wiki/people/annie-ulmer]] (2026-08-23), which gained a section establishing
 > that Annie worked two jobs through most of 2024, including sustained paid care
 > for an elderly woman ([[wiki/people/libby]]), and provided regular unpaid
@@ -51,8 +51,8 @@ connections:
 
 > **RE-CHECKED [2026-08-22]:** flagged stale against
 > [[wiki/people/annie-ulmer]] (2026-08-22). The entity page moved by an appended
-> Closing-note paragraph and a changelog line only — **no assessment input
-> changed**: no new quote, no new dated behaviour, no revision to the August
+> Closing-note paragraph and a changelog line only — **no assessment input**
+> **changed**: no new quote, no new dated behaviour, no revision to the August
 > 16–19 record this assessment scores. Nothing here is affected and no claim is
 > withdrawn.
 

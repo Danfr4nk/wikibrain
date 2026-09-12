@@ -114,8 +114,8 @@ The "Contact Gini" concept refers to the application of the Gini coefficient to 
 
 ## RECOMPUTED 2026-08-01 — the figure holds, the constancy does not
 
-> **The 0.961 coefficient was quoted from a profile document and had never been
-> recomputed.** It has now been recomputed directly from
+> **The 0.961 coefficient was quoted from a profile document and had never been**
+> **recomputed.** It has now been recomputed directly from
 > `raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv` — 184,359 rows, of which
 > 105,405 carry a contact handle. **Result: 0.9601 across 496 unique handles.**
 > The quoted figure survives to three decimal places and the handle count
@@ -362,21 +362,21 @@ The relationship closure on June 1, 2026, did not simply end a personal partners
 
 ## Redundancy Imperative
 
-> **REVISED [2026-08-20] — a thin second channel was running the whole time,
-> and the page's own metric hid it.** This section says the June 2026 closure
-> was comprehensive *"because no redundant support infrastructure was
-> prepared."* The August 2026 exports show that is not quite true. Across
+> **REVISED [2026-08-20] — a thin second channel was running the whole time,**
+> **and the page's own metric hid it.** This section says the June 2026 closure
+> was comprehensive *"because no redundant support infrastructure was*
+> *prepared."* The August 2026 exports show that is not quite true. Across
 > August 18–19, 2026 — the two days the Annie relationship terminated — Dan
-> sent **more messages to [[wiki/people/ally-lubin|Ally Lubin]] than to Annie,
-> by a three-figure margin**, interleaved hour by hour, and the Ally channel
+> sent **more messages to [[wiki/people/ally-lubin|Ally Lubin]] than to Annie,**
+> **by a three-figure margin**, interleaved hour by hour, and the Ally channel
 > carried more traffic than the terminating one.
 >
 > This does not lower the Gini and does not rescue the argument. A channel
 > that has never met its counterpart, produces no material support, and had
 > carried thirteen messages in the preceding seventeen months is not
 > redundancy in any engineering sense — which is exactly why a concentration
-> metric computed over lifetime volume did not see it. **But the failure mode
-> is now more precise than "there was nothing else."** There was somewhere for
+> metric computed over lifetime volume did not see it. **But the failure mode**
+> **is now more precise than "there was nothing else."** There was somewhere for
 > the load to go; it was one person, unmet, and it absorbed a burst larger than
 > anything the primary channel produced in its final week.
 >

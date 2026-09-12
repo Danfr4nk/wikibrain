@@ -48,10 +48,10 @@ of the Roman Republic — Tom Holland, four Adrian Goldsworthy volumes, Michael
 Parenti, Plutarch, all rated 4 or 5
 ([[wiki/interests/roman-republic]]) — he wrote:
 
-> *"After I finished the @HistoriaCivilis Caesar/Octavian series, I started
-> devouring the 'essential' books about the late Roman Republic. The books are
-> wonderful, but none of them has come close to compiling the story in a way
-> that has pulled me in like videos with squares."*
+> *"After I finished the @HistoriaCivilis Caesar/Octavian series, I started*
+> *devouring the 'essential' books about the late Roman Republic. The books are*
+> *wonderful, but none of them has come close to compiling the story in a way*
+> *that has pulled me in like videos with squares."*
 
 A YouTube channel that animates Roman politics as coloured squares beat nine
 books, by his own account, on a subject he cared enough about to read nine

@@ -128,9 +128,9 @@ and it is what this page adds.
 
 > **Provenance disclosure**, per [[wiki/mind/synthesis/instrument-is-subject]]'s
 > obligation on climbs from non-primary premises. One member,
-> [[wiki/mind/concepts/forensic-method]], is `knowledge: mixed`. **The primary
-> evidence this page adds that its premises lacked is the entire distribution
-> section below**: creator-frequency histograms, subject-tag counts, and a Gini
+> [[wiki/mind/concepts/forensic-method]], is `knowledge: mixed`. **The primary**
+> **evidence this page adds that its premises lacked is the entire distribution**
+> **section below**: creator-frequency histograms, subject-tag counts, and a Gini
 > coefficient computed directly from `FAVS MASTERLIST.csv`, none of which
 > appears anywhere in the corpus or in any model's reading of it. The rule
 > survives even if the interpretive account of the forensic engine is wrong,
@@ -307,10 +307,10 @@ on the corpus's only documented instance of Dan reporting a good outcome from
 something he *did* rather than something he *had*. Four days after her
 funeral, unprompted, to a third party:
 
-> **DAN (2018-04-06 17:55, to 4137703708):** *"she was a trip dude but i spent
-> the past 6 months looking after her full time ($15 an hour to play video
-> games with gram is a good deal) and we had a lot of fun. got good closure and
-> finally did something in my life that wasn't completely selfish haha"*
+> **DAN (2018-04-06 17:55, to 4137703708):** *"she was a trip dude but i spent*
+> *the past 6 months looking after her full time ($15 an hour to play video*
+> *games with gram is a good deal) and we had a lot of fun. got good closure and*
+> *finally did something in my life that wasn't completely selfish haha"*
 
 The [[wiki/timeline/events/fran-death-vigil|six-month Fran vigil]] is a
 set-closure object like any on this page — self-set, bounded by a death,
@@ -425,8 +425,8 @@ wiki producing that response.
   scene-complete — is exactly the shape this rule predicts and is attested only
   by one retrospective capture.
 
-> **RE-CHECKED [2026-08-23] — premise moved by one typed edge, conclusion
-> unaffected.** [[wiki/mind/concepts/forensic-method]] moved on 2026-08-23 to carry an
+> **RE-CHECKED [2026-08-23] — premise moved by one typed edge, conclusion**
+> **unaffected.** [[wiki/mind/concepts/forensic-method]] moved on 2026-08-23 to carry an
 > `instance-of` edge into [[wiki/mind/profile/texting-deviance-audit]] — the method
 > turned on Dan's own self-report about how he texts, where two of his three stated
 > claims were falsified by counting. No factual content on the premise page changed and

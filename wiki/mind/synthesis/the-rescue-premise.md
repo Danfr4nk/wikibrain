@@ -76,8 +76,8 @@ connections:
 > standing contradiction over whether a five-day tenure figure belonged to
 > Franki Faris or to Alexis Armel's 2013 displacement — a Uniontown-era,
 > pre-Annie correction touching neither the June 1 severance, the July–August
-> reentanglement, nor the August 2026 rupture this page reasons about. **No
-> claim on this page is affected.**
+> reentanglement, nor the August 2026 rupture this page reasons about. **No**
+> **claim on this page is affected.**
 
 > **RE-CHECKED [2026-08-27]:** flagged stale against
 > [[wiki/people/ally-lubin-cognitive-profile]] (2026-08-27), which closed its
@@ -94,8 +94,8 @@ connections:
 
 > **RE-CHECKED [2026-08-26]:** flagged stale against
 > [[wiki/people/ally-lubin-cognitive-profile]] (2026-08-26), which added only a
-> re-check note confirming its own parity finding unchanged. **No claim on this
-> page is affected** — the money/volume/superlatives/surveillance failure
+> re-check note confirming its own parity finding unchanged. **No claim on this**
+> **page is affected** — the money/volume/superlatives/surveillance failure
 > pattern this page cites is untouched.
 
 Two separate claims sit inside the question this page was asked to answer, and
@@ -351,8 +351,8 @@ distribution as the behaviour that produced it.
 > **The blind spot, stated precisely because Part I depends on it.** The export
 > this page reasons from (`imessage_export_2124702449_20260820.csv`, 6,495 rows)
 > was taken on **2026-08-20** and its last row is **2026-08-19 15:15:33** — the
-> final message of the severance. **There is therefore no data at all for
-> August 20, 21 or 22.** This page's claim that the silence holds is an
+> final message of the severance. **There is therefore no data at all for**
+> **August 20, 21 or 22.** This page's claim that the silence holds is an
 > inference from the absence of a newer export, not an observation. One fresh
 > export settles it, and until one exists every forward statement here should be
 > read with that gap in it.

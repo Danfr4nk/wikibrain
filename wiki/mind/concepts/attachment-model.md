@@ -108,8 +108,8 @@ The attachment model details the first documented instance of full attachment-sy
 > 175,358 iMessages across all 66 contacts referenced in the corpus, not
 > from the Annie relationship alone. Relabeled below rather than dropped,
 > since the scale is still informative context. Third, a real omission:
-> four independent source documents converge on **12 documented crisis or
-> suicidal statements from Dan, met with no substantive response** — a
+> four independent source documents converge on **12 documented crisis or**
+> **suicidal statements from Dan, met with no substantive response** — a
 > data point directly relevant to this model's central claim and absent
 > from the page until now. Added below.
 
@@ -134,12 +134,12 @@ This cognitive architecture is heavily influenced by a multi-generational family
 
 The complete lack of explicit severance signals across a ten-year corpus, combined with two hundred and ninety-nine love affirmations, meant that no internal data was available to generate a counter-rule. Consequently, the attachment model remained active until it was terminated by an external event. The 12 unmet crisis statements sit inside the same architecture from the opposite direction: even Dan's own most severe signals did not produce a response the model could register as care, and — per the "no counter-rule" structure — a non-response is not a severance signal either, so it too left the loop running rather than closing it.
 
-> **GAP CLOSED [2026-08-22]:** the twelve-statements row measures *the absence
-> of a substantive response*, and the corpus contains exactly one substantive
+> **GAP CLOSED [2026-08-22]:** the twelve-statements row measures *the absence*
+> *of a substantive response*, and the corpus contains exactly one substantive
 > response — it simply is not sympathy. On **2019-10-14**, told the Pittsburgh
-> funeral story in full, [[wiki/people/ally-lubin|Ally]] answers: *"I'm just
-> confused how neither of you had money because you always send me cash app
-> statements with like thousands of dollars."* That is the only documented
+> funeral story in full, [[wiki/people/ally-lubin|Ally]] answers: *"I'm just*
+> *confused how neither of you had money because you always send me cash app*
+> *statements with like thousands of dollars."* That is the only documented
 > instance anywhere in the record of a disclosure from Dan being **audited**
 > rather than absorbed, ignored or reciprocated, and it is a third category this
 > model did not have: not warmth, not neglect, but the claim treated as evidence
@@ -148,8 +148,8 @@ The complete lack of explicit severance signals across a ten-year corpus, combin
 > It **complicates the model rather than weakening it**, and in a specific
 > direction. The architecture's problem is that verbal assurance and behavioural
 > contradiction cannot be reconciled into a closure, so the one response class
-> that could in principle generate a counter-rule is a response that *engages
-> the evidence*. Ally's answer is the only recorded instance of that class. The
+> that could in principle generate a counter-rule is a response that *engages*
+> *the evidence*. Ally's answer is the only recorded instance of that class. The
 > twelve unmet statements and this one audited statement are therefore not the
 > same measurement taken twelve and one times — they are two different things,
 > and the corpus has a sample size of one on the interesting one. Whether an
@@ -255,21 +255,21 @@ settled. Neither figure has been re-derived directly from
 pass with `bin/mine-messages` against the raw dump would settle which
 count (if either) is correct.
 
-> **RESOLVED [2026-08-23], and both halves favour the dossiers' corrected
-> reading.** Dan-sent severance language — blocking declarations, *goodbye*,
+> **RESOLVED [2026-08-23], and both halves favour the dossiers' corrected**
+> **reading.** Dan-sent severance language — blocking declarations, *goodbye*,
 > *I'm done / we're done / it's over*, *never contact me again* — across the
 > **95,067-row merged Annie corpus** (2015-11-28 → 2026-05-28) returns 258
 > messages collapsing to **129 distinct episodes** once hits within 24 hours are
-> treated as one declaration. **129 against the dossiers' 127, by an independent
-> method**, which corroborates the count this page had doubted rather than
+> treated as one declaration. **129 against the dossiers' 127, by an independent**
+> **method**, which corroborates the count this page had doubted rather than
 > undermining it. And of the 128 episodes with a following message inside the
-> corpus, **all 128 resumed — 100%, median gap thirty-six seconds, all-time
-> maximum 46 hours.** The 110-of-127 (87%) figure carried on
+> corpus, **all 128 resumed — 100%, median gap thirty-six seconds, all-time**
+> **maximum 46 hours.** The 110-of-127 (87%) figure carried on
 > [[wiki/mind/synthesis/block-unblock-loop]] and
 > [[wiki/mind/synthesis/attachment-trauma-bond]] is withdrawn.
 >
-> **This is the strongest quantitative support the no-counter-rule architecture
-> has ever had, and it recategorises the behaviour it measures.** A system that
+> **This is the strongest quantitative support the no-counter-rule architecture**
+> **has ever had, and it recategorises the behaviour it measures.** A system that
 > cannot generate a terminating signal predicts that declared exits terminate
 > nothing — and the primary record shows 129 declarations producing a median
 > silence of under a minute. That is not weak resolve repeatedly overcome. On

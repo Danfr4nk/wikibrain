@@ -233,8 +233,8 @@ other pages — each claim dated, each traceable to a tweet with a URL.
 
 > **CONTRADICTION:** the archive and [[wiki/self/facebook]] disagree about
 > when Dan moved to Brooklyn. Facebook's `places lived` field says 3
-> January 2010. On 20 February 2010 he tweeted *"moving to brooklyn in 9
-> days"*, and on the 28th *"peace out, florida."* Both records are his
+> January 2010. On 20 February 2010 he tweeted *"moving to brooklyn in 9*
+> *days"*, and on the 28th *"peace out, florida."* Both records are his
 > own; one is timestamped by the platform and one was typed into a
 > profile form later. The contradiction is held on both pages rather than
 > resolved by seniority, and the general lesson is recorded there: a
@@ -286,8 +286,8 @@ inference.
 > A second lesson, cheaper to state than it was to learn: this wiki discounted
 > the quoted line partly because `raw/self/dox-scan/FULL TWITTER ANALYSIS.txt`
 > is AI-generated and demonstrably unreliable in aggregate. It was right about
-> this specific quotation. **Unreliable in aggregate is not wrong about any
-> given line**, and "the archive does not contain it" was a statement about the
+> this specific quotation. **Unreliable in aggregate is not wrong about any**
+> **given line**, and "the archive does not contain it" was a statement about the
 > archive.
 
 **Still open, and only a complete X account export closes it:** the creation

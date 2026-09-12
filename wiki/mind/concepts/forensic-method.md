@@ -208,8 +208,8 @@ happened, who did what, is this account consistent — and its output was
 understanding. On July 25–26, 2026 it was aimed at a person, and its
 output was leverage.
 
-> **CORRECTED [2026-08-18] — this was not the first outward turn, only the
-> first hostile one.** This section, and the edge to
+> **CORRECTED [2026-08-18] — this was not the first outward turn, only the**
+> **first hostile one.** This section, and the edge to
 > [[wiki/timeline/events/july-2026-recontact]], carried the claim that the
 > Leviathan dashboards were the method's first deployment against another
 > person. They were not. On **2025-07-11**, a year and two weeks earlier, Dan
@@ -222,8 +222,8 @@ output was leverage.
 > the 2025 case had been cited by this page's own `sources:` list since June
 > 2026 and read only to its first 140 lines.
 >
-> What survives, narrowed: July 2026 is the first deployment **as leverage in
-> a live dispute**. What changes: the outward turn is not an escalation the
+> What survives, narrowed: July 2026 is the first deployment **as leverage in**
+> **a live dispute**. What changes: the outward turn is not an escalation the
 > method underwent in 2026. It is a standing property of the method, named at
 > [[wiki/mind/concepts/the-handed-mirror]], and the only thing that escalated
 > was the intent behind it.

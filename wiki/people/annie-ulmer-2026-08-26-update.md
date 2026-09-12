@@ -23,8 +23,8 @@ infobox:
 
 > **VISIBLE UPDATE — 2026-08-26**
 >
-> The notable fact is not merely that Annie is blocked. It is that **the block
-> is still being honored**.
+> The notable fact is not merely that Annie is blocked. It is that **the block**
+> **is still being honored**.
 
 The current operator report is that Dan continues to keep Annie blocked, with
 no reported workaround, alternate channel, or "one last message" exception.
@@ -52,8 +52,8 @@ relief.
 If the present block remains intact while Dan continues functioning elsewhere,
 then the experiment is testing something much more specific:
 
-> **Can Dan experience the end of an attachment without turning the attachment's
-> pain into a command to act?**
+> **Can Dan experience the end of an attachment without turning the attachment's**
+> **pain into a command to act?**
 
 So far, the reported answer is yes.
 

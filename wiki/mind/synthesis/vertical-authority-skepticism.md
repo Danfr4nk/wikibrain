@@ -278,8 +278,8 @@ On content alone, this profile could have gone either way.
 The Troy Davis posts show the axis operating rather than merely present. He
 declines the easy version of his own position:
 
-> *"I have no idea whether Troy Davis was guilty or not, but he deserved the
-> chance to live another day to fight in court."*
+> *"I have no idea whether Troy Davis was guilty or not, but he deserved the*
+> *chance to live another day to fight in court."*
 
 The objection is procedural, not factual — to the authority's claim to be
 certain enough to kill, not to its verdict. That is this page's thesis stated

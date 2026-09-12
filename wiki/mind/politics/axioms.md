@@ -163,8 +163,8 @@ paid to how it forms and what it costs a system's checks when it does.
 On **10 October 2023** Dan states a decision procedure for his own politics in
 one line:
 
-> *"Political positions are best formulated and checked with one test: what
-> would Michael Brooks do?"*
+> *"Political positions are best formulated and checked with one test: what*
+> *would Michael Brooks do?"*
 
 Michael Brooks was the Majority Report co-host and *Michael Brooks Show* host
 who died in July 2020, three weeks before the

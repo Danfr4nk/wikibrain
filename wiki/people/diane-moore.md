@@ -67,21 +67,21 @@ she is not called anywhere in the corpus, while the message dump named her
 plainly and three other pages carried her second identity as an unexplained
 actor.
 
-> **CORRECTED [2026-08-18] — her married name is Moore, and the wiki already
-> had it.** This page previously titled her *"Diane (Rebecca Diane Van Voorhis
-> Shrum)"* and stated outright that the surname was *"given here as Shrum on
-> the strength of the documented marriage rather than a record naming her that
-> way."* The message corpus names her twice, on 2018-04-01: **"diane moore
-> hasn't been able to be reached by anyone. dave is 'speaking on her
-> behalf'"** and **"the social workers are talking to dave moore about the
-> day-to-day stuff."** George Dixon Shrum Jr. is Suz's father and Diane's
+> **CORRECTED [2026-08-18] — her married name is Moore, and the wiki already**
+> **had it.** This page previously titled her *"Diane (Rebecca Diane Van Voorhis*
+> *Shrum)"* and stated outright that the surname was *"given here as Shrum on*
+> *the strength of the documented marriage rather than a record naming her that*
+> *way."* The message corpus names her twice, on 2018-04-01: **"diane moore**
+> **hasn't been able to be reached by anyone. dave is 'speaking on her**
+> **behalf'"** and **"the social workers are talking to dave moore about the**
+> **day-to-day stuff."** George Dixon Shrum Jr. is Suz's father and Diane's
 > *first* husband; she remarried [[wiki/people/dave-moore|Dave Moore]].
 >
 > The same correction merges a second entity. `wiki/places/155-virginia-ave`,
 > `wiki/timeline/events/fran-death-vigil` and `wiki/timeline/master-timeline`
 > all record that on 2018-03-29 Dan was served an eviction notice for 155
-> Virginia Avenue **"by Dian V. Moore,"** and the vigil page listed *"Dian V.
-> Moore's role/relation to the estate"* as an open gap. That is this
+> Virginia Avenue **"by Dian V. Moore,"** and the vigil page listed *"Dian V.*
+> *Moore's role/relation to the estate"* as an open gap. That is this
 > grandmother. The wiki held the antagonist under one name and the instrument
 > under another, three pages apart, and asked itself who the second one was.
 
@@ -95,10 +95,10 @@ hours. The wiki guessed **Diane and George**. The operator's answer, filed
 
 > **"Dian and Dave"**
 
-> **GAP CLOSED [2026-08-18].** The gap, as this page stated it: *"The
-> 'grandparents who already hated you' that Dan feared during the earlier
-> keno-morning fall are presumably Diane and George, but he never names them in
-> that passage."* They are **Dian and Dave** — his grandmother and her second
+> **GAP CLOSED [2026-08-18].** The gap, as this page stated it: *"The*
+> *'grandparents who already hated you' that Dan feared during the earlier*
+> *keno-morning fall are presumably Diane and George, but he never names them in*
+> *that passage."* They are **Dian and Dave** — his grandmother and her second
 > husband, not his biological grandfather. The correction matters more than a
 > name swap: the couple Dan feared was the couple that then issued the
 > exclusion instrument, sold the Florida condo, and communicated with the
@@ -139,17 +139,17 @@ state for most of Dan's childhood. Nothing in the message corpus contradicts or
 confirms either span, and by 2016 she is close enough to be a live threat to
 *"come to town and start accusing everyone of 'abusing' gram."*
 
-> **CORRECTED [2026-08-18]:** this paragraph called Farmington Hills *"the only
-> geographic fact the corpus supplies about her adult life."* It had not been
+> **CORRECTED [2026-08-18]:** this paragraph called Farmington Hills *"the only*
+> *geographic fact the corpus supplies about her adult life."* It had not been
 > the only one since 2026-08-14, when the ancestry rewrite added Stanwood
 > 2013–2020 from the same GEDCOM. The page went four days declaring a scarcity
 > the corpus had already relieved.
 >
 > The addition is load-bearing outside this page.
 > [[wiki/mind/synthesis/fayette-return]] argues that everyone in this family
-> ends up within twenty miles of Uniontown; **Diane is the tree's one documented
-> departure from the Pennsylvania/West Virginia region with no attested
-> return**, and she is still living, so no terminus exists for her at all. She
+> ends up within twenty miles of Uniontown; **Diane is the tree's one documented**
+> **departure from the Pennsylvania/West Virginia region with no attested**
+> **return**, and she is still living, so no terminus exists for her at all. She
 > does not falsify that page's rule, which is stated over the paternal Frank
 > line — but she is the sharpest available test of whether the rule describes a
 > lineage or a county, and the two readings have so far made identical
@@ -208,8 +208,8 @@ visitation instrument that the corpus does not capture — but the document the
 messages describe, with the key demand and the trespassing clause, is a
 terminal-week document. Where they disagree, the messages govern.
 
-> **CONTRADICTION:** Dan's 2026 recollection dates the exclusion to *"well
-> before"* the final admission; his own 2018 messages date the operative
+> **CONTRADICTION:** Dan's 2026 recollection dates the exclusion to *"well*
+> *before"* the final admission; his own 2018 messages date the operative
 > instrument to the last week of Fran's life. Held rather than resolved: the
 > capture may be describing a separate, earlier letter about supervised
 > visits, and the March 29 / April 3 documents may be the escalation of it.
@@ -254,8 +254,8 @@ corpus contains:
 > her mother be released and sent home with 24 hr care and that's that. The
 > problem is, it isn't that simple. Even if she could go home right now,
 > someone, not Vicki, has to be taking care of all of the things it takes to
-> have her at home. **My mother doesn't know what she's talking about and she
-> needs to shut the fuck up.**"
+> have her at home. **My mother doesn't know what she's talking about and she**
+> **needs to shut the fuck up.**"
 
 Six days later Suz reports having *"put a muzzle on Dian,"* and Dan's reply is
 the most politically alert thing anyone says during the vigil — a warning to

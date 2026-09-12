@@ -193,8 +193,8 @@ gives Dan's age as **26**. Born November 1, 1988, he is 26 only between
 November 2014 and November 2015 — which fixes the filing to **February 2015**
 and the arrest to on or shortly before February 17, 2015.
 
-> **REVISED [2026-08-03] — a wiki inference was wrong and the operator's
-> capture was right.** When this page was written earlier the same day, it
+> **REVISED [2026-08-03] — a wiki inference was wrong and the operator's**
+> **capture was right.** When this page was written earlier the same day, it
 > judged the capture's opening line ("It's sometime in early 2015") to be
 > "almost certainly too early," on the reasoning that a February arrest would
 > leave a nine-month gap before the December 2015 barracks trips. That
@@ -214,8 +214,8 @@ after being thrown out, which places the night well before the November 2015
 switch to [[wiki/people/annie-ulmer|Annie]]
 ([[wiki/mind/synthesis/bond-switch-2015]]).
 
-> **CONTRADICTION [2026-08-03] — the February date collides with the 155
-> Virginia Ave timeline.** The capture places the arrest firmly *before* the
+> **CONTRADICTION [2026-08-03] — the February date collides with the 155**
+> **Virginia Ave timeline.** The capture places the arrest firmly *before* the
 > move to [[wiki/places/155-virginia-ave|155 Virginia Ave]] — Alexis was still
 > being hidden at 337 Saratoga, "before we made it to her 155 virginia ave
 > house where she let me and lex live together." But that page dates the
@@ -229,8 +229,8 @@ switch to [[wiki/people/annie-ulmer|Annie]]
 > pick a winner. Resolving it needs the lease or a dated message from the
 > move.
 
-> **A second, differently-dated account complicates rather than resolves
-> this, per a 2026-08-28 ingest.** A 2026-08-27 operator capture (full
+> **A second, differently-dated account complicates rather than resolves**
+> **this, per a 2026-08-28 ingest.** A 2026-08-27 operator capture (full
 > account on [[wiki/people/alexis-armel]]) describes a similarly-shaped
 > thrown-out/hidden episode — Suz evicting Alexis after a washing-machine
 > incident, months of concealment — but dates it a full year earlier, to
@@ -295,12 +295,12 @@ February 2015 filing and the first surviving message about the case in December
 2015 contain the preliminary hearing and arraignment and are entirely
 undocumented.
 
-> **CORRECTION [2026-08-22]:** This section previously read *"Magisterial
-> District Judge **Michael Metros** appears once, in the blotter, and has no
-> other trace in the corpus."* He appears twice. The April 2018 summons behind
+> **CORRECTION [2026-08-22]:** This section previously read *"Magisterial*
+> *District Judge **Michael Metros** appears once, in the blotter, and has no*
+> *other trace in the corpus."* He appears twice. The April 2018 summons behind
 > [[wiki/timeline/events/uniontown-hospital-vape-alarm]] — docket
-> MJ-14101-NT-0000082-2018, filed 4/5/2018 — names **Honorable Michael M.
-> Metros**, MDJ-14-1-01, 88 North Gallatin Avenue, Uniontown, and gives the
+> MJ-14101-NT-0000082-2018, filed 4/5/2018 — names **Honorable Michael M.**
+> **Metros**, MDJ-14-1-01, 88 North Gallatin Avenue, Uniontown, and gives the
 > district's telephone number and address that the blotter did not. Both of
 > Dan's documented charging events ran through the same magisterial district
 > three years apart, which is unremarkable for a man living in Uniontown and

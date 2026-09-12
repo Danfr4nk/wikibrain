@@ -179,8 +179,8 @@ ET) shows the debt remained an active and unpleasant subject long after
 the household dissolved [RAW-DUMP]. Neither of the July 25 messages has a
 reply in the record.
 
-> **CORRECTED [2026-08-13] — `+19173631636` is not Paci's handle and the
-> "building-wide group text under his name" was not his.** The 2026-08-10
+> **CORRECTED [2026-08-13] — `+19173631636` is not Paci's handle and the**
+> **"building-wide group text under his name" was not his.** The 2026-08-10
 > version of this page listed `+19173631636` among Paci's handles,
 > annotated "(building group text)," and cited it as evidence that Paci
 > collected October 2023 rent for the building by text. The thread on that

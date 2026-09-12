@@ -112,13 +112,13 @@ connections:
 > caregiving or estate material. **No claim on this page is affected** — the
 > leverage-see-saw material this page draws from Suz is untouched.
 
-> **REVISED [2026-08-23] — the 110-of-127 pair this page reasons from is
-> withdrawn, and the replacement strengthens the thesis.** Flagged stale against
+> **REVISED [2026-08-23] — the 110-of-127 pair this page reasons from is**
+> **withdrawn, and the replacement strengthens the thesis.** Flagged stale against
 > [[wiki/mind/concepts/attachment-model]] (2026-08-23), which resolved its own
 > long-standing gap on this exact figure. Dan-sent severance language across the
 > 95,067-row merged Annie corpus (2015-11-28 → 2026-05-28) returns 258 messages
-> collapsing to **129 episodes** — corroborating the 127 — of which **128 of 128
-> resumed: 100%, median gap thirty-six seconds, all-time maximum 46 hours.**
+> collapsing to **129 episodes** — corroborating the 127 — of which **128 of 128**
+> **resumed: 100%, median gap thirty-six seconds, all-time maximum 46 hours.**
 > Wherever this page says *"127 exit declarations, 110 re-engagements,"* read
 > **129 declarations, 100% re-engagement**; the 87% relapse rate never existed.
 >
@@ -141,19 +141,19 @@ connections:
 > Nothing withdrawn.
 
 
-> **RE-CHECKED [2026-08-20] — the bond this page models ended, and the ending
-> is the model working, not failing.** Flagged stale against
+> **RE-CHECKED [2026-08-20] — the bond this page models ended, and the ending**
+> **is the model working, not failing.** Flagged stale against
 > [[wiki/people/annie-ulmer]] and [[wiki/people/suzanne-frank]], both moved for
 > the August 16–19 ingest
-> ([[wiki/timeline/events/august-2026-morgantown-call]]). **No claim here is
-> withdrawn.** The window is this page's own dynamics at maximum amplitude: a
+> ([[wiki/timeline/events/august-2026-morgantown-call]]). **No claim here is**
+> **withdrawn.** The window is this page's own dynamics at maximum amplitude: a
 > disclosed suicide attempt met with escalation rather than de-escalation, 67
 > hours in which 18% of everything Annie sends contains *please* or *begging*, a
 > deliberately falsified threat used to measure her attachment, and reconciliation
 > attempts running in both directions inside the same hour. One thing genuinely
 > new for a later pass rather than a correction: on 2026-08-19 at 11:41 Dan
-> attempted the move this page says the architecture cannot make — *"There never
-> was an eggie bagels. I never had a dog named Betty… you never existed"* — a
+> attempted the move this page says the architecture cannot make — *"There never*
+> *was an eggie bagels. I never had a dog named Betty… you never existed"* — a
 > unilateral deletion of the shared record in place of the terminating statement
 > he could never get. Whether that is the bond's exit mechanism or its most
 > elaborate evasion is not scorable from four days of record and is not scored
@@ -182,13 +182,13 @@ The full-decade dossiers give the bond its measurable arc. The love was genuine 
 > counted." Corrected here per the parallel fix on
 > [[wiki/mind/concepts/attachment-model]].
 
-> **REVISED [2026-08-02] — the 187:191 procurement statistic is withdrawn from
-> this page; the rate collapse-and-rebound is not.** The dossier figure — 187 of
+> **REVISED [2026-08-02] — the 187:191 procurement statistic is withdrawn from**
+> **this page; the rate collapse-and-rebound is not.** The dossier figure — 187 of
 > 191 terminal-phase love declarations with a request inside 24 hours — was
 > recomputed under controls on [[wiki/mind/synthesis/dan-annie-fallout-verdict]]
 > on 2026-07-18 and did not survive. The ratio reproduces (212 of 220, 96.4%),
-> but **97.2% of a random sample of *all* her messages in the same window are
-> equally request-adjacent**: she made requests nearly every day, so any class of
+> but **97.2% of a random sample of** *all* **her messages in the same window are**
+> **equally request-adjacent**: she made requests nearly every day, so any class of
 > her messages scores ~96–97% at a 24-hour radius and the adjacency carries no
 > information about love specifically. The directional test inverts it outright —
 > a drug or money request follows within an hour of a love-declaration only 3.2%
@@ -215,10 +215,10 @@ used this page as the pathological control and found one documented channel
 where that asymmetry does not hold: [[wiki/people/ally-lubin|Ally]]. Both
 sides pre-empt the standing the mechanism needs, on the same day in 2019:
 
-> **DAN (2019-08-17):** *"you know i'm honest enough to let you know i'm a
-> garbage person so you don't have to worry about feeling shitty or weird"*
-> **ALLY, the same day:** *"I tell you more than I tell anyone and I don't
-> know why."*
+> **DAN (2019-08-17):** *"you know i'm honest enough to let you know i'm a*
+> *garbage person so you don't have to worry about feeling shitty or weird"*
+> **ALLY, the same day:** *"I tell you more than I tell anyone and I don't*
+> *know why."*
 
 Symmetric self-indictment removes the standing DARVO and the confession trap
 both run on: neither party holds a concealed failure the other can be made
@@ -289,16 +289,16 @@ instinct stacking, not on a trait score the corpus does not corroborate.
 
 The Annie bond did not arrive into an empty attachment field. It replaced the one prior long-term target. The 2015 transition is documented in detail at [[wiki/mind/synthesis/bond-switch-2015]]: the Alexis relationship ended and the Annie bond formed in the *same week* (introduction ~Nov 24, made by Alexis herself; Annie met in person Nov 29; Dan's own same-night outbound text, "Things are collapsing with lex. You might be seeing a lot more Annie very soon," is the earliest primary-source record of the pivot; Alexis moves out Dec 1). The bootloader names this the **single-bond switch** — one bond closing as the other opens, with no unattached gap.
 
-> **CORRECTED 2026-08-15 — there was no "Alexis cheating revelation" in this
-> week, and the sentence above used to say there was.** The Nov 28 2015 message
+> **CORRECTED 2026-08-15 — there was no "Alexis cheating revelation" in this**
+> **week, and the sentence above used to say there was.** The Nov 28 2015 message
 > Dan sent Annie — *"Lex cheated on me 2 weeks in after I moved her to fla"* —
 > is him narrating the **2009** beginning of the Alexis relationship as a
 > contrast to how the Annie one was starting; the line immediately before it is
 > *"I love this it's the exact opposite way I started my last relationship."*
 > Alexis was living in Dan's Uniontown house that entire week, and her only
 > Florida residency was 2009–2010. Full evidence at
-> [[wiki/mind/synthesis/bond-switch-2015]]. **For the trauma-bond read the
-> correction cuts the right way:** the switch had no precipitating grievance, so
+> [[wiki/mind/synthesis/bond-switch-2015]]. **For the trauma-bond read the**
+> **correction cuts the right way:** the switch had no precipitating grievance, so
 > the transfer cannot be explained as a justified response to betrayal — which
 > is what the paragraph below needs it to be if "the vacated socket" is to mean
 > anything mechanical rather than circumstantial.

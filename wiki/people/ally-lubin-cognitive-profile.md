@@ -66,22 +66,22 @@ connections:
 
 # Ally Lubin — Cognitive Profile
 
-> **RE-CHECKED [2026-09-04] — the premise moved, and the two additions bracket
-> each other.** [[wiki/mind/concepts/the-cool-metric]] gained a section showing
+> **RE-CHECKED [2026-09-04] — the premise moved, and the two additions bracket**
+> **each other.** [[wiki/mind/concepts/the-cool-metric]] gained a section showing
 > the metric run on a six-year live-in partner, with the warm public register
 > collapsing to zero. That page already carries this profile's own contribution
 > at the other end: the Skins exchange of 2026-08-18 is its one documented case
-> of somebody *outscoring* the person holding the yardstick. **Nothing on this
-> page changes** — the ceiling case is untouched, and the new material is about
+> of somebody *outscoring* the person holding the yardstick. **Nothing on this**
+> **page changes** — the ceiling case is untouched, and the new material is about
 > the metric pointed downward at somebody already admitted rather than upward at
 > somebody who beats it. Recorded because the two together now bound the
 > instrument's range in both directions, which neither did alone.
 
 > **RE-CHECKED [2026-08-23]:** flagged stale against
 > [[wiki/mind/concepts/the-cool-metric]] (2026-08-23), which gained a re-check
-> note with no claim change; nothing on this page depends on it. **One finding
-> elsewhere in this pass does bear on this page and it sharpens the parity
-> argument rather than disturbing it.** The retraction of the reply-latency
+> note with no claim change; nothing on this page depends on it. **One finding**
+> **elsewhere in this pass does bear on this page and it sharpens the parity**
+> **argument rather than disturbing it.** The retraction of the reply-latency
 > asymmetry (`RETRACTED.md` §`latency-9x-asymmetry`) establishes that Dan is the
 > slower correspondent corpus-wide and that the deficit in his primary
 > relationship was never response but **content** — which is the same shape as
@@ -93,8 +93,8 @@ connections:
 > blocks. Both are already load-bearing on this page — the love letter's trend
 > spotting line is already quoted above as the Ne-dominance exhibit, and the
 > 16:46–21:09 concession sequence is already this page's central Ti evidence.
-> **The entity page has caught up to what this one already used from the raw
-> captures; no claim here changes.**
+> **The entity page has caught up to what this one already used from the raw**
+> **captures; no claim here changes.**
 
 This page is the typology read on the woman at the centre of the longest
 attachment in the corpus, built from a tested instrument that arrived on
@@ -134,10 +134,10 @@ attribution question the page originally opened is now closed, and closed by
 the only means available: the operator states plainly that the result is Ally
 Lubin's and that it is recent.
 
-> **GAP CLOSED [2026-08-27]:** the page asked *"whose result is the
-> screenshot, and when was it taken? The image carries no identifying
-> metadata. Did Ally send it to Dan directly, and on what date? The original
-> `IMG_2320.heic` may carry EXIF that the screenshot destroyed."* The operator
+> **GAP CLOSED [2026-08-27]:** the page asked *"whose result is the*
+> *screenshot, and when was it taken? The image carries no identifying*
+> *metadata. Did Ally send it to Dan directly, and on what date? The original*
+> *`IMG_2320.heic` may carry EXIF that the screenshot destroyed."* The operator
 > answers: *"Thats Ally Lubin's result ajd it is recent."* Source:
 > `raw/people/captures/2026-08-27_022249_gap-ally-lubin-cognitive-profile.md`.
 
@@ -179,14 +179,14 @@ type-code purist would throw away.
 ## The determination: ENTP-T, and the ENFP it retires
 
 > **CORRECTED [2026-08-22]:** [[wiki/people/ally-lubin]] carries
-> `mbti: ENFP` in its infobox. That claim traces to a **single disputed
-> source** — the December 2018 iMessage argument in which she asserted ENFP
+> `mbti: ENFP` in its infobox. That claim traces to a **single disputed**
+> **source** — the December 2018 iMessage argument in which she asserted ENFP
 > and *Dan refused to accept it*, which the entity page records as a piece of
 > relationship colour rather than as a typology finding. The sage pass of
 > 2026-08-21 had already flagged the field as "a claim with exactly one
-> disputed source behind it." A tested result now contradicts it. **The
-> infobox on the entity page is corrected to ENTP-T with the provenance
-> caveat attached**, and the 2018 exchange is reclassified from colour to
+> disputed source behind it." A tested result now contradicts it. **The**
+> **infobox on the entity page is corrected to ENTP-T with the provenance**
+> **caveat attached**, and the 2018 exchange is reclassified from colour to
 > evidence: on the substance of the dispute, Dan was right, though there is
 > nothing in the record suggesting he was right for the correct reason.
 
@@ -270,9 +270,9 @@ The clearest instance in the corpus is the **Skins exchange** of 2026-08-18,
 21:25–21:28, where she takes a comparison Dan made about another woman and
 re-sorts the entire cast in four messages:
 
-> *"I don't think she's half Effy bc I'm Effy"* · *"Let's be real has she even
-> seen Skins"* · *"Annie wasn't smart enough to be Effy"* · *"Well first of all
-> I'm not a Michelle"* / *"I'm a half Effy half Cassie"*
+> *"I don't think she's half Effy bc I'm Effy"* · *"Let's be real has she even*
+> *seen Skins"* · *"Annie wasn't smart enough to be Effy"* · *"Well first of all*
+> *I'm not a Michelle"* / *"I'm a half Effy half Cassie"*
 
 This is a whole taxonomy built and applied in under three minutes, and it does
 work on four separate axes at once: it claims a character, denies a rival's
@@ -379,10 +379,10 @@ in the stack, and it is where the type's suffering concentrates.
 The corpus is unusually explicit here. Her own account, 2026-08-18 at
 21:34–21:35, four messages in ninety seconds:
 
-> *"I'm not a cool girl anymore"* · *"Ok well first of all there always is
-> some sort of concept of time"* · *"And second of all I spent the best and
-> most beautiful years of my life hating myself"* · *"And I'll never get them
-> back"* · *"And I'll never be this young again"*
+> *"I'm not a cool girl anymore"* · *"Ok well first of all there always is*
+> *some sort of concept of time"* · *"And second of all I spent the best and*
+> *most beautiful years of my life hating myself"* · *"And I'll never get them*
+> *back"* · *"And I'll never be this young again"*
 
 And the fixed point that period is measured against — *"I peaked in 2008"* —
 which the entity page notes is **the same year Dan independently sets as the

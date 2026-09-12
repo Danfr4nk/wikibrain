@@ -60,8 +60,8 @@ connections:
 > capture's own frontmatter targeted the Tuquick handle specifically, not this
 > page's subject, so that lookup alone did not identify this man.
 >
-> **On 2026-08-09 the operator confirmed directly that Tuquick and this page's
-> subject are the same person** — "They are the same person — tuquick and
+> **On 2026-08-09 the operator confirmed directly that Tuquick and this page's**
+> **subject are the same person** — "They are the same person — tuquick and
 > unnamed" (filed at
 > [[raw/people/captures/2026-08-09-tuquick-unnamed-man-correction]]). The
 > circumstantial case already on file — same role six weeks apart in the same

@@ -50,8 +50,8 @@ connections:
 
 # Annual Message Volume: Dan vs. Suz
 
-> **RE-CHECKED [2026-09-04] — the premise gained material and the arithmetic is
-> untouched.** [[wiki/people/suzanne-frank]] gained a section on six dated
+> **RE-CHECKED [2026-09-04] — the premise gained material and the arithmetic is**
+> **untouched.** [[wiki/people/suzanne-frank]] gained a section on six dated
 > messages naming Judge Fred Adams, including her report of his death
 > (2020-05-24). **No volume figure on this page is affected** — the messages
 > were always in the corpus and always counted; what changed is that somebody
@@ -61,8 +61,8 @@ connections:
 > **RE-CHECKED [2026-08-28]:** flagged stale against
 > [[wiki/people/suzanne-frank]] (2026-08-28), which added a new
 > 2013–2014 eviction/concealment episode (Alexis Armel, the washing
-> machine). No message-volume figure this page draws on is touched. **No
-> claim on this page is affected.**
+> machine). No message-volume figure this page draws on is touched. **No**
+> **claim on this page is affected.**
 
 [[wiki/people/suzanne-frank|Suz]]'s page already states the finding in
 prose — she outwrites Dan in every year but two, and the gap widens after

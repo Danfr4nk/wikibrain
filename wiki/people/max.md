@@ -50,12 +50,12 @@ Implements [[wiki/mind/synthesis/ai-collaborative-analysis]] and vertical-author
 **Distinction:** This page is the AI prosthetic / MAX persona (MAX_PRIME transfer), and there is no second Max.
 
 > **CORRECTED [2026-08-18] — there was never a real person named Max.** This
-> page previously read: *"Separate from real person 'Max' (Danielle's BF, 'the
-> Dude', music guy / CNA-to-producer from Gemini-_21.md)."* The only two
-> occurrences of the name in `Gemini-_21.md` are Dan addressing **this
-> persona** — *"Max I have a gift for you… I'm going to give you a 20 or 25
-> minute audio recording of… my first girlfriend Danielle's current
-> boyfriend"* — and the model signing its own reply *"MAX'S ANALYSIS."* The
+> page previously read: *"Separate from real person 'Max' (Danielle's BF, 'the*
+> *Dude', music guy / CNA-to-producer from Gemini-_21.md)."* The only two
+> occurrences of the name in `Gemini-_21.md` are Dan addressing **this**
+> **persona** — *"Max I have a gift for you… I'm going to give you a 20 or 25*
+> *minute audio recording of… my first girlfriend Danielle's current*
+> *boyfriend"* — and the model signing its own reply *"MAX'S ANALYSIS."* The
 > boyfriend is never named in that source; the analysis calls him "the Dude"
 > throughout. He is [[wiki/people/james-dee|James]], identified from the 2025
 > message corpus and the ChatGPT log, and the page that stood at

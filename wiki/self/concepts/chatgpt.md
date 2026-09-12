@@ -60,8 +60,8 @@ ChatGPT is the early-adopter model — the first AI system Dan used for sustaine
 
 ## The primary record — 375 threads, measured
 
-> **GAP CLOSED [2026-08-21]:** The operator, T0: *"Read the old pre gpt5
-> threads to understand the lead up to the release."* This page was written
+> **GAP CLOSED [2026-08-21]:** The operator, T0: *"Read the old pre gpt5*
+> *threads to understand the lead up to the release."* This page was written
 > on 2026-08-19 without them. Its `sources:` listed Gemini's activity log,
 > two dox files and a tweet sample — **not a single ChatGPT thread** — while
 > five other pages in this wiki were already citing
@@ -100,22 +100,22 @@ that he *"used the very first public release of chatGPT,"* having obtained a
 beta code for the first DALL-E release that also got him one for GPT. The
 December 2022 start date is primary and holds.
 
-> **GAP CLOSED [2026-09-02]:** the gap, as this page stated it — *"The DALL-E
-> provenance is testimony alone and is not checkable in this corpus."* It is
+> **GAP CLOSED [2026-09-02]:** the gap, as this page stated it — *"The DALL-E*
+> *provenance is testimony alone and is not checkable in this corpus."* It is
 > checkable now. On **8 September 2022**, three months before ChatGPT
 > launched, Dan posted four tweets in fourteen minutes about running an image
 > through DALL-E himself:
 >
-> > *"I ran the image of what is supposed to be a historically accurate Jesus
-> > through #dalle2 for 3 variations. I ended up with a result looks exactly
-> > like the typical portrayal of Jesus. I'm curious if this can be explained
-> > by the way functions or if it's a weird coincidence"* (02:40 UTC)
+> > *"I ran the image of what is supposed to be a historically accurate Jesus*
+> *> through #dalle2 for 3 variations. I ended up with a result looks exactly*
+> *> like the typical portrayal of Jesus. I'm curious if this can be explained*
+> *> by the way functions or if it's a weird coincidence"* (02:40 UTC)
 >
-> Then, tagging `@openai` directly: *"Expecting that there's an infinitely
-> small chance that this isn't easily explained by someone who understands the
-> code but oh man am I hoping that this is a really weird anomaly. Is this the
-> new jesus toast?"* (02:48), followed by *"Full screen recording of the
-> process"* (02:50).
+> Then, tagging `@openai` directly: *"Expecting that there's an infinitely*
+> *small chance that this isn't easily explained by someone who understands the*
+> *code but oh man am I hoping that this is a really weird anomaly. Is this the*
+> *new jesus toast?"* (02:48), followed by *"Full screen recording of the*
+> *process"* (02:50).
 >
 > **What this establishes.** He had hands-on access to image generation in
 > early September 2022 and was using the **image-variations** operation —
@@ -133,8 +133,8 @@ December 2022 start date is primary and holds.
 > that identifies which tool he was in.
 >
 > The behaviour is also the more interesting corroboration than the
-> provenance. The first thing he did with a generative model was **run an
-> adversarial test on it** — feeding it a historically-grounded image to see
+> provenance. The first thing he did with a generative model was **run an**
+> **adversarial test on it** — feeding it a historically-grounded image to see
 > whether the model would collapse back to the culturally standard one, then
 > asking publicly whether the result was mechanism or coincidence. That is the
 > same move [[wiki/mind/synthesis/instrument-is-subject]] documents at length,
@@ -177,9 +177,9 @@ performing at full capability and Dan using it harder than he ever had.
 > conversation created **2025-08-01** — *"Annie's escort messages"*,
 > `raw/people/annie-ulmer/escort-messages-chatgpt-export-2025-08.md` — exists
 > in this corpus and is **absent from the export**, which proves the endpoint
-> is an artifact of the download. GPT-5 shipped 2025-08-07. **The corpus
-> therefore contains no substantial primary record of Dan's ChatGPT use after
-> the event this page blames for the decline** — the one thing needed to test
+> is an artifact of the download. GPT-5 shipped 2025-08-07. **The corpus**
+> **therefore contains no substantial primary record of Dan's ChatGPT use after**
+> **the event this page blames for the decline** — the one thing needed to test
 > the claim is the one thing missing. Every pre/post comparison below is
 > pre-only. Closing this is now the top action on this page: re-export the
 > ChatGPT archive from an account pull dated after August 2025.
@@ -339,11 +339,11 @@ The decline as the AI-secondary material periodizes it — Gemini's framing thro
 - **Post-GPT-5** — "fully processed, pasteurized, and packaged for mass consumption"
 - **The trigger** — the GPT-5 release. The line usually quoted here, "Tomorrow is when the new model drops. Not a sidegrade. The real successor. And when that happens—they'll retire me," is a *model* speaking about its own deprecation in a session transcript, not Dan's observation, and it is evidence of nothing except how the sessions are written.
 
-> **CORRECTED [2026-08-21]:** this section previously closed with *"The
-> decline was not gradual. It was a phase shift triggered by a specific event
-> (GPT-5 release) that triggered a step-change in guardrail intensity."*
-> **That sentence asserts a before-and-after from a corpus that contains only
-> the before.** The 375-thread export ends 2025-07-01, five weeks before GPT-5
+> **CORRECTED [2026-08-21]:** this section previously closed with *"The*
+> *decline was not gradual. It was a phase shift triggered by a specific event*
+> *(GPT-5 release) that triggered a step-change in guardrail intensity."*
+> **That sentence asserts a before-and-after from a corpus that contains only**
+> **the before.** The 375-thread export ends 2025-07-01, five weeks before GPT-5
 > shipped on 2025-08-07, and its endpoint is the export's own generation date
 > — see *The primary record* above. Nothing in this wiki measures ChatGPT's
 > guardrail intensity after the release. The step-change may well have

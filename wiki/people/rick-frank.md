@@ -87,13 +87,13 @@ connections:
 
 # Richard Harrison "Rick" Frank
 
-> **ADDED [2026-08-23] — "Ricky" is a further 66 mentions this page was not
-> counting.** The corpus carries *Ricky* **66 times** between 2015 and 2020,
+> **ADDED [2026-08-23] — "Ricky" is a further 66 mentions this page was not**
+> **counting.** The corpus carries *Ricky* **66 times** between 2015 and 2020,
 > overwhelmingly from Suz's handle and Annie's, in a register that is
 > unmistakably domestic: *"Come over and introduce Annie to Ricky"* (2015-12-11),
 > *"I think Ricky and I are coming over to fix the toilet first"* (2016-01-13),
-> *"Supposed to go to dinner soon w Ricky"* (2016-04-20), *"I forgot to drop off
-> money at Ricky's"* (2017-10-24), *"Ask your mom if she can see Ricky"*
+> *"Supposed to go to dinner soon w Ricky"* (2016-04-20), *"I forgot to drop off*
+> *money at Ricky's"* (2017-10-24), *"Ask your mom if she can see Ricky"*
 > (2017-10-09).
 >
 > **This corroborates the 2026-08-11 correction rather than complicating it.**
@@ -256,8 +256,8 @@ who has been present the entire time this page previously described as
 
 ## The relationship, corrected: warm, high-volume, and asymmetric rather than silent
 
-> **CORRECTED 2026-08-11 — the prior version of this section was wrong, not
-> just incomplete, and the error is recorded rather than quietly fixed.** An
+> **CORRECTED 2026-08-11 — the prior version of this section was wrong, not**
+> **just incomplete, and the error is recorded rather than quietly fixed.** An
 > earlier pass this same day built an entire narrative — "the loudest
 > silence," a "held-block control case," "that is the last message Dan ever
 > sent to this number" — on `imessage_7243667777_both_all_now.csv`, a file
@@ -273,8 +273,8 @@ who has been present the entire time this page previously described as
 > itself: a per-contact export claiming "all time" is a claim to verify,
 > not a claim to trust, and the fix is the same discipline that was already
 > written down for the general dumps — cross-check against the largest
-> available source before asserting completeness. **Independent
-> corroboration, found the same day by coincidence:** a 73-page print-to-PDF
+> available source before asserting completeness. **Independent**
+> **corroboration, found the same day by coincidence:** a 73-page print-to-PDF
 > export of this exact thread, made by Dan himself in 2018 (`raw/self/message-exports/rick-frank-imessage-pdf-export-2018-thru-2018-04.txt`,
 > covering Dec 2015–Apr 2018, Messages.app's own render rather than a
 > reconstructed export), matches `all_imessages_complete_dump.txt`

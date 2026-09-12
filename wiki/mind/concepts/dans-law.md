@@ -58,15 +58,15 @@ Dan's Law directly operationalizes two standing principles from the forensic met
 
 The law is the deconfounding filter that converts raw anomaly lists into actionable signal.
 
-> **CONTRADICTION [2026-08-19] — the law has never been pointed at where Dan
-> lives.** Its signature move is to treat a missing paper trail as the operative
+> **CONTRADICTION [2026-08-19] — the law has never been pointed at where Dan**
+> **lives.** Its signature move is to treat a missing paper trail as the operative
 > feature of an arrangement rather than an oversight: at BFS the absence of
 > documentation on a $50 cash demand *is* the demand's mechanism, and at the
 > Capitol the missing procedure is the load-bearing anomaly. Applied to Dan's own
 > housing, the same reading is available and has never been run.
 >
-> Across sixteen years and seven residences the corpus holds **no lease, no
-> contemporaneous rent figure, no signatory and no deposit** for any home he has
+> Across sixteen years and seven residences the corpus holds **no lease, no**
+> **contemporaneous rent figure, no signatory and no deposit** for any home he has
 > lived in — the identical signature, sustained across two states and four
 > counterparties, at stakes several orders of magnitude above a drawer shortage.
 > The two legal instruments that do appear were both relational moves that

@@ -82,11 +82,11 @@ is that Dan is using the *scale* and everyone else is using a word.
 
 ## Re-derived 2026-08-23: the counts do not reproduce, the asymmetry does, and the test is not runnable
 
-> **CORRECTED [2026-08-23].** This page's measurement table gave **43 outbound
-> instances against 2 inbound**, and **15 graded (non-endpoint) values against
-> zero**. Re-derived from the on-disk CSVs — 98,228 deduped Dan-sent messages
-> against 91,858 received — **none of the four numbers reproduces, and the
-> "zero" is false.** The direction and rough magnitude of the finding survive;
+> **CORRECTED [2026-08-23].** This page's measurement table gave **43 outbound**
+> **instances against 2 inbound**, and **15 graded (non-endpoint) values against**
+> **zero**. Re-derived from the on-disk CSVs — 98,228 deduped Dan-sent messages
+> against 91,858 received — **none of the four numbers reproduces, and the**
+> **"zero" is false.** The direction and rough magnitude of the finding survive;
 > the arithmetic does not, and the reason is that the original filter was
 > counting things that are not credences.
 

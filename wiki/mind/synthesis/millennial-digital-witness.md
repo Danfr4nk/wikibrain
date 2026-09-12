@@ -87,8 +87,8 @@ that objection, though not completely.
 On **30 October 2012**, from an Upper East Side apartment during Hurricane
 Sandy, Dan tweeted:
 
-> *"Sandy is like first true 'digital disaster'. Can't remember so much
-> user generated content from a storm."*
+> *"Sandy is like first true 'digital disaster'. Can't remember so much*
+> *user generated content from a storm."*
 
 He was twenty-three, had been *"up all night on upper east following the
 storm"*, and had spent the previous two days running his own liveblog of

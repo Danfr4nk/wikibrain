@@ -97,15 +97,15 @@ agrees with it exactly.
 > seat: **accurate, early, and unable to intervene.** Not the victor, not the
 > victim, and not the fool — the observer whose reading of the system was
 > correct and whose correctness bought nothing. The rule predicts what he will
-> keep and what he will not, and its sharpest form is negative: **there is no
-> figure in this corpus who was right and won and kept it.**
+> keep and what he will not, and its sharpest form is negative: **there is no**
+> **figure in this corpus who was right and won and kept it.**
 
 > **Provenance disclosure**, per [[wiki/mind/synthesis/instrument-is-subject]].
 > Three members are `knowledge: mixed` or rest substantially on dossier
 > material — [[wiki/mind/profile/intp]],
 > [[wiki/mind/profile/socionics-and-attitudinal]], [[wiki/self/context-core]].
-> **The primary evidence this page adds is the tag and title distribution over
-> the favorites record and the want-to-read queue**, computed 2026-08-19 from
+> **The primary evidence this page adds is the tag and title distribution over**
+> **the favorites record and the want-to-read queue**, computed 2026-08-19 from
 > `FAVS MASTERLIST.csv` and `DAN_COMP.md`. Those are residue: he tagged the art
 > himself, rated the books himself, and shelved the queue himself, none of it in
 > order to say anything about his psychology. The rule is therefore testable
