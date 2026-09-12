@@ -48,7 +48,7 @@ connections:
     type: parallels
     claim: "Trust 9 with Self-Consciousness 91 supplies the trait-level mechanism for the short half-life of reassurance — a confirmation does not carry forward as a prior, so the estimate decays and must be refreshed — which is the loop's maintenance cycle in the attachment domain."
   - page: wiki/mind/concepts/autism
-    type: overlaps
+    type: co-occurs
     claim: "The autism self-identification and the social anxiety describe overlapping territory (explicit-over-inferred meaning, bottom-percentile sociability, extreme social aversion). The autism page treats the anxiety from the architectural side; this page treats it from the felt side. Whether they are two labels for one system or two systems sharing a channel remains open."
 ---
 

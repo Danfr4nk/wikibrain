@@ -26,7 +26,7 @@ connections:
     type: evidences
     claim: "The explicit-over-inferred processing described here is the mechanism the attachment model's rule-based bond runs on: a stated rule holds until an explicit severance statement arrives, because inferred cues do not register as rule-changes."
   - page: wiki/mind/concepts/social-anxiety
-    type: overlaps
+    type: co-occurs
     claim: "The autism self-identification and the social anxiety describe overlapping territory (explicit-over-inferred meaning, bottom-percentile sociability, extreme social aversion). This page treats the anxiety from the architectural side; the anxiety page treats it from the felt side. Dan raised the intersection himself inside the anxiety session ('edge case autist weirdo'). Whether they are two labels for one system or two systems sharing a channel remains open."
   - page: wiki/mind/profile/intp
     type: parallels

@@ -44,7 +44,7 @@ connections:
     type: parallels
     claim: "Reciprocal of that page's parallels edge: the fiction-avoidance here may run on the same timbre-first perceptual mechanism as the dance-only phases. Held as a parallel in both directions."
   - page: wiki/interests/chapo-trap-house
-    type: overlaps
+    type: co-occurs
     claim: "Chapo is one leg of the political-commentary spine and the accidental delivery mechanism for the Bacharach exception (episode 94, autoplay). The show is information intake; the novel it surfaced is the exception that tests the rule."
 ---
 
