@@ -20,6 +20,9 @@ related:
   - wiki/mind/psychosexual/index
 tags: [addiction-recovery, personality-profile]
 connections:
+  - page: wiki/mind/concepts/social-anxiety
+    type: evidenced-by
+    claim: "The social-anxiety page takes this audit's 'extreme social aversion' outlier (90/100) as the behavioral expression of Dan's self-described 'crippling social anxiety,' reached by an instrument independent of the anxiety material — the trait-level and felt-side accounts of the same condition."
   - page: wiki/mind/synthesis/failure-to-launch
     type: contradicts
     claim: "Exactly two of this audit's outlier claims survive independent recomputation against a real comparison population, and one of the two - relational concentration at 0.9601 - is a liability rather than a skill, which bounds the living-edge-case verdict much more tightly than 92% confidence suggests."
