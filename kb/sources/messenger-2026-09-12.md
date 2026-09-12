@@ -24,3 +24,5 @@ tags        = ["messenger", "facebook", "messages", "raw-data"]
 Total: 2 threads, 11 messages, 2026-08-14T02:50:52Z -> 2026-08-26T22:23:43Z.
 
 Negative finding: Messenger is not a substantive channel for Dan. The 2026-09-08 Facebook export contained posts only (no messages/ directory); the iMessage corpus (192,140 messages, Mar 2011-Sep 2026) is where his messaging life lives. Do not treat Messenger silence as relationship silence.
+
+**Correction 2026-09-12 (SUPERSEDED by src:messenger-drive-2026-09-12).** The negative finding above was wrong: it rested on the broken 2-thread CLI sync. Dan's Drive held the real archives - 27,573 messages across FB Messenger, Instagram DMs, and TikTok DMs (2007-2026). Messenger/IG is a substantive secondary channel; iMessage remains the primary one.
