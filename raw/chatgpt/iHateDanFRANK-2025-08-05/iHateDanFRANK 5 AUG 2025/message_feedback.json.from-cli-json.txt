@@ -1,0 +1,99 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 2903 bytes not retrievable byte-identically. JSON semantics preserved.]
+[
+  {
+    "content": "{}",
+    "conversation_id": "e88722c4-0f7b-4552-a170-b5500c77664b",
+    "create_time": "2023-05-09T01:23:16.484471Z",
+    "evaluation_name": null,
+    "evaluation_treatment": null,
+    "id": "90d61500-b35f-4472-b08d-2435770de6b4",
+    "rating": "thumbs_up",
+    "update_time": "2024-12-06T23:01:08.520994Z",
+    "user_id": "user-PPh6MeXekhdI4JZbUjV3236F",
+    "workspace_id": null
+  },
+  {
+    "content": "{\"text\": \"Amazing\"}",
+    "conversation_id": "3546eeb3-77a4-429d-b225-6d80b2fb3c24",
+    "create_time": "2023-06-03T02:35:51.052677Z",
+    "evaluation_name": null,
+    "evaluation_treatment": null,
+    "id": "ffa51ba7-ef65-40b9-904d-d9eea49fdefe",
+    "rating": "thumbs_up",
+    "update_time": "2024-12-06T23:01:24.425759Z",
+    "user_id": "user-PPh6MeXekhdI4JZbUjV3236F",
+    "workspace_id": null
+  },
+  {
+    "content": "{}",
+    "conversation_id": "c21f3336-be72-4b70-ae93-055a342a0fbd",
+    "create_time": "2024-03-16T04:14:45.404513Z",
+    "evaluation_name": null,
+    "evaluation_treatment": null,
+    "id": "20c87a7c-bf02-44de-ae51-d550f8b14e10",
+    "rating": "thumbs_down",
+    "update_time": "2024-12-06T22:59:43.196269Z",
+    "user_id": "user-PPh6MeXekhdI4JZbUjV3236F",
+    "workspace_id": null
+  },
+  {
+    "content": "{}",
+    "conversation_id": "68174eff-eb54-8011-9c76-67617f72dd09",
+    "create_time": "2025-05-04T11:31:09.390117Z",
+    "evaluation_name": null,
+    "evaluation_treatment": null,
+    "id": "5d8705e4-2ee0-490a-8b09-05955f79f90e",
+    "rating": "thumbs_up",
+    "update_time": "2025-05-04T11:31:09.480695Z",
+    "user_id": "user-PPh6MeXekhdI4JZbUjV3236F",
+    "workspace_id": null
+  },
+  {
+    "content": "{}",
+    "conversation_id": "681afcb8-09ac-8011-b269-23d52ab165f9",
+    "create_time": "2025-05-07T06:51:06.109725Z",
+    "evaluation_name": null,
+    "evaluation_treatment": null,
+    "id": "df59633f-49c8-42ec-b3cd-4c0840fd0c05",
+    "rating": "thumbs_up",
+    "update_time": "2025-05-07T06:51:06.152003Z",
+    "user_id": "user-PPh6MeXekhdI4JZbUjV3236F",
+    "workspace_id": null
+  },
+  {
+    "content": "{}",
+    "conversation_id": "681afcb8-09ac-8011-b269-23d52ab165f9",
+    "create_time": "2025-05-07T06:51:21.997828Z",
+    "evaluation_name": null,
+    "evaluation_treatment": null,
+    "id": "47fc6a7d-9521-46aa-99cb-f97b9e0f9fdc",
+    "rating": "thumbs_up",
+    "update_time": "2025-05-07T06:51:22.075288Z",
+    "user_id": "user-PPh6MeXekhdI4JZbUjV3236F",
+    "workspace_id": null
+  },
+  {
+    "content": "{}",
+    "conversation_id": "68294bd9-d51c-8011-89ca-30c81bbe0a6a",
+    "create_time": "2025-05-22T00:23:38.310544Z",
+    "evaluation_name": null,
+    "evaluation_treatment": null,
+    "id": "afdf2fa9-1712-481a-8b59-d9e8d3d539cd",
+    "rating": "thumbs_up",
+    "update_time": "2025-05-22T00:23:38.462783Z",
+    "user_id": "user-PPh6MeXekhdI4JZbUjV3236F",
+    "workspace_id": null
+  },
+  {
+    "content": "{}",
+    "conversation_id": "68294bd9-d51c-8011-89ca-30c81bbe0a6a",
+    "create_time": "2025-05-22T00:23:40.148795Z",
+    "evaluation_name": null,
+    "evaluation_treatment": null,
+    "id": "01117b1b-d392-4505-b773-706cc303a42f",
+    "rating": "thumbs_up",
+    "update_time": "2025-05-22T00:23:40.191893Z",
+    "user_id": "user-PPh6MeXekhdI4JZbUjV3236F",
+    "workspace_id": null
+  }
+]
