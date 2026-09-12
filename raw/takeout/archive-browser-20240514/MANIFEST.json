@@ -1,0 +1,13 @@
+{
+ "source": "Google Takeout archive_browser.html (2024-05-14)",
+ "repo_prefix": "raw/takeout/archive-browser-20240514",
+ "drive_id": "12nJzFpx8tAnIHx_d3zTMTsybl-P7GoEc",
+ "drive_name": "Takeout",
+ "ingest_date": "2026-09-11",
+ "file_count": 1,
+ "total_bytes": 136311,
+ "skips": [],
+ "conversions": [],
+ "notes": "Single-file source. archive_browser.html is the Takeout archive index page.",
+ "extra": {}
+}

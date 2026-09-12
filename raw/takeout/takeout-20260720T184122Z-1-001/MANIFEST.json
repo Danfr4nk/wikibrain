@@ -1,0 +1,24 @@
+{
+ "source": "Google Takeout takeout-20260720T184122Z-1-001",
+ "repo_prefix": null,
+ "drive_id": "1T3upeQy5pJZuRivkLTXa4b4tbSQBpVsa",
+ "drive_name": "takeout-20260720T184122Z-1-001.zip",
+ "ingest_date": "2026-09-11",
+ "file_count": 51,
+ "total_bytes": 141879623,
+ "skips": [
+  {
+   "path": "Takeout/YouTube and YouTube Music/videos/SLOPPP (HOPEFULLY) LIVE SET.mp4",
+   "size": 269900607,
+   "reason": ">=100MB: exceeds GitHub single-file/blob cap; not split per instructions"
+  },
+  {
+   "path": "Takeout/YouTube and YouTube Music/videos/SLOPPP BEDROOM SESSION TEST FEED.mp4",
+   "size": 503486565,
+   "reason": ">=100MB: exceeds GitHub single-file/blob cap; not split per instructions"
+  }
+ ],
+ "conversions": [],
+ "notes": "ZIP (890,601,000 bytes) verified with unzip -t. 100MB threshold = 100,000,000 bytes exactly.",
+ "extra": {}
+}

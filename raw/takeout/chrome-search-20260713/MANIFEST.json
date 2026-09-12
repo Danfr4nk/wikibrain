@@ -1,0 +1,13 @@
+{
+ "source": "Google Takeout Chrome/Search export (2026-07-13)",
+ "repo_prefix": "raw/takeout/chrome-search-20260713",
+ "drive_id": "1DNe0TnufNbfpOHMzZq6pWMaRnerNV0n9",
+ "drive_name": "Takeout",
+ "ingest_date": "2026-09-11",
+ "file_count": 1,
+ "total_bytes": 6148,
+ "skips": [],
+ "conversions": [],
+ "notes": "Chrome/ and Search/ subfolders were empty in Drive; only .DS_Store present.",
+ "extra": {}
+}
