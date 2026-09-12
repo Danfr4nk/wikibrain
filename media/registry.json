@@ -207,7 +207,7 @@
      "text": "Well, what does it have to do with whose birthday it is?"
     }
    ],
-   "transcript_note": "faster-whisper base model transcript was garbled; Dan corrected 2026-09-11: Fran's line was \"is this your birthday or my birthday\" — said because Suz was characteristically making everything about herself. Dan's correction outranks the model output."
+   "transcript_note": "faster-whisper base model transcript was garbled; Dan corrected 2026-09-11: Fran's line was \"is this your birthday or my birthday\" \u2014 said because Suz was characteristically making everything about herself. Dan's correction outranks the model output."
   },
   {
    "id": "gphotos-005",
@@ -252,7 +252,7 @@
    "share_url": "https://photos.app.goo.gl/iQg6UH6zEcTBoiBS8",
    "original_filename": null,
    "poster_sha256": "c2113aa6f7e4fe755753f4ea42d183bf4ae59458b8a8459b0cf7283f6e740b0b",
-   "description": "Scrapbook page: newspaper clippings — 1969-06-22 hole-in-one (No.5 wood, 153 yds, No.11, Uniontown CC); UCC Women's Golf Assn championship (Mrs. Thomas M. Whyel, 342/72 holes, won by 7); 1959-04-27 Miami Herald first ace (8-iron, 113 yds, 13th hole, LaGorce CC); plus trophy photo of Fran in striped turtleneck.",
+   "description": "Scrapbook page: newspaper clippings \u2014 1969-06-22 hole-in-one (No.5 wood, 153 yds, No.11, Uniontown CC); UCC Women's Golf Assn championship (Mrs. Thomas M. Whyel, 342/72 holes, won by 7); 1959-04-27 Miami Herald first ace (8-iron, 113 yds, 13th hole, LaGorce CC); plus trophy photo of Fran in striped turtleneck.",
    "analysis_status": "analyzed-full-res",
    "compressed_path": null,
    "linked_nodes": []
@@ -272,12 +272,12 @@
   {
    "id": "upload-009",
    "type": "photo",
-   "date": "caregiver era, pre-vigil (per Dan 2026-09-11: Fran is sitting up in her own living-room chair, lucid — predates the March-April 2018 decline)",
+   "date": "caregiver era, pre-vigil (per Dan 2026-09-11: Fran is sitting up in her own living-room chair, lucid \u2014 predates the March-April 2018 decline)",
    "share_url": null,
    "canonical_location": "workspace/user/media_library/image/0e/0eca317eeb5f95fd89d849f39f05eb97fb995dfeea1ca5b1728d13ba9e5e7d4d.jpg",
    "original_filename": null,
    "sha256": "0eca317eeb5f95fd89d849f39f05eb97fb995dfeea1ca5b1728d13ba9e5e7d4d",
-   "description": "Fran's living room (fireplace, walker, recliner). A blonde woman in a pink turtleneck sits at a table bearing: a black game controller, two TV remotes, a glass of amber liquid, her purse, a small plastic bag, a blue-and-white container that Dan identifies (2026-09-11) as Suz's coke holder (disguised as a cigarette pack), and a black case Dan identifies as a jewelry scale. Dan's point: Fran is alive, well, and lucid, sitting ~5 feet away in her armchair — the paraphernalia is out on the table in front of her, not hidden.",
+   "description": "Fran's living room (fireplace, walker, recliner). A blonde woman in a pink turtleneck sits at a table bearing: a black game controller, two TV remotes, a glass of amber liquid, her purse, a small plastic bag, a blue-and-white container that Dan identifies (2026-09-11) as Suz's coke holder (disguised as a cigarette pack), and a black case Dan identifies as a jewelry scale. Dan's point: Fran is alive, well, and lucid, sitting ~5 feet away in her armchair \u2014 the paraphernalia is out on the table in front of her, not hidden.",
    "analysis_status": "analyzed-full-res",
    "compressed_path": null,
    "linked_nodes": []
@@ -473,7 +473,7 @@
    "count": 30,
    "date": "album range Jun 17, 2007 - May 4, 2018 (share-page range, not item dates)",
    "share_url": "https://photos.app.goo.gl/L9RTkVrjft8MovqCA",
-   "description": "30-item \"Fran\" content library. Christmas groups 12/27/2012 (young man with Nikon, provisional young Dan), 01/17/2013, 01/22/2013, 05/02/2013 x2, 01/21/2014 dated anchors. Golf-themed throw blanket on Fran's couch (golfer-identity link to Mrs. Thomas M. Whyel scrapbook). Possible Florida residence (stucco house, turquoise door, dragonfly knocker, Jan 2014; upscale interior Jan 2013) — provisional, consistent with La Gorce/Miami era. Vintage B&W photo-of-a-photo of three women (1960s dress; center figure possibly young Fran — unverified). Three hibachi-restaurant video poster frames (motion clips not pulled). Recurring cast includes an unidentified young woman and a sparkly-top blonde woman (provisional Suz — do not assert). All images pulled full-res 2026-09-11; archived ~/workspace/fran-album/.",
+   "description": "30-item \"Fran\" content library. Christmas groups 12/27/2012 (young man with Nikon, provisional young Dan), 01/17/2013, 01/22/2013, 05/02/2013 x2, 01/21/2014 dated anchors. Golf-themed throw blanket on Fran's couch (golfer-identity link to Mrs. Thomas M. Whyel scrapbook). Possible Florida residence (stucco house, turquoise door, dragonfly knocker, Jan 2014; upscale interior Jan 2013) \u2014 provisional, consistent with La Gorce/Miami era. Vintage B&W photo-of-a-photo of three women (1960s dress; center figure possibly young Fran \u2014 unverified). Three hibachi-restaurant video poster frames (motion clips not pulled). Recurring cast includes an unidentified young woman and a sparkly-top blonde woman (provisional Suz \u2014 do not assert). All images pulled full-res 2026-09-11; archived ~/workspace/fran-album/.",
    "analysis_status": "analyzed-2026-09-11",
    "compressed_path": [
     "media/derivatives/gphotos-fran-library/f7-1200q70.jpg",
@@ -1055,7 +1055,9 @@
      "file": "d56af236da4d2db2cb3de1b2a47357310b0498c71fe9cc1f3bea44d268503b78.jpg",
      "sha256": "d56af236da4d2db2cb3de1b2a47357310b0498c71fe9cc1f3bea44d268503b78"
     }
-   ]
+   ],
+   "censored": true,
+   "censor_note": "2026-09-12 retroactive sweep: explicit sexual content pixelated (top 58% of frame, mosaic). Uncensored original at local_path; never committed."
   },
   {
    "id": "upload-016",
@@ -1211,7 +1213,7 @@
    "date": "EXIF DateTime 2018:11:06 23:23:42 (iPhone 8 Plus, iOS 12.0.1). GPS date stamp 2018:11:07 04:23 UTC = Nov 6 23:23 EST, consistent.",
    "share_url": null,
    "local_path": "workspace/user/media_library/image/3f/3f2ee65d86e441597001c62aad625d8133ff4d069666f31c1dc2c73b6aa9db3a.jpg",
-   "description": "828x1104 nighttime Midtown Manhattan street photo (filename equals SHA-256): yellow taxi, tall buildings, trash bags on curb, Five Guys signage visible right. EXIF GPS 40d45'44.82\"N 73d58'36.42\"W (Midtown East, ~E 47th St area), camera facing ~288 deg (WNW), altitude ~24m, speed 0. Dan's testimony: taken when they arrived in NYC. Corroboration: EXIF date 2018:11:06 23:23:42. Dan remembers leaving home around noon, but device location history (Semantic Location History batch 20260912-location-history, preserved 2026-09-12) puts the NYC departure at 4:44 PM and Shoreham Hotel arrival at 11:14 PM — this photo, taken 11:23:42 PM, lands nine minutes after the device-derived arrival. Preserved as memory/date displacement, not dishonesty. GPS coordinates independently place it in Manhattan, not just Dan's word.",
+   "description": "828x1104 nighttime Midtown Manhattan street photo (filename equals SHA-256): yellow taxi, tall buildings, trash bags on curb, Five Guys signage visible right. EXIF GPS 40d45'44.82\"N 73d58'36.42\"W (Midtown East, ~E 47th St area), camera facing ~288 deg (WNW), altitude ~24m, speed 0. Dan's testimony: taken when they arrived in NYC. Corroboration: EXIF date 2018:11:06 23:23:42. Dan remembers leaving home around noon, but device location history (Semantic Location History batch 20260912-location-history, preserved 2026-09-12) puts the NYC departure at 4:44 PM and Shoreham Hotel arrival at 11:14 PM \u2014 this photo, taken 11:23:42 PM, lands nine minutes after the device-derived arrival. Preserved as memory/date displacement, not dishonesty. GPS coordinates independently place it in Manhattan, not just Dan's word.",
    "analysis_status": "analyzed-full-res",
    "compressed_path": null,
    "linked_nodes": [],
@@ -1230,7 +1232,7 @@
    "share_url": null,
    "local_path": "workspace/user/media_library/video/9c/9cfd90029ce006ad5039c51534c991caf60bdec885ed8f7471ca2248f6cbe794.mov",
    "canonical_location": null,
-   "description": "Dan-labeled 'Part 4'. Bedroom scene with two women; no man visible in any sampled frame (t=10..255). Per Dan's testimony: Annie (nude, on top at start, receiving oral) and Alexis Armel (red/black patterned robe, on bottom at start). Sequence: 11:09-11:10 Annie facesits Alexis (Alexis in robe, on pillows); ~11:10:27-31 position swap (Annie rotates/rolls to her back); 11:10:31+ Alexis (robe now off, bunched on bed) performs oral on Annie; 11:13:11 Alexis sits up fixing hair, Annie reclines on pillows. Frame-level finding (2026-09-12): during the rotation swap, Alexis is NOT licking Annie's nipple - tight crops show Annie's nipples visible/untouched while Alexis's mouth orients to Annie's face then groin. In the examined rotation frames (t≈76–80), Alexis's oral attention is genital, not nipple — the full 261s was not exhaustively inspected, so do not generalize beyond the sampled frames.",
+   "description": "Dan-labeled 'Part 4'. Bedroom scene with two women; no man visible in any sampled frame (t=10..255). Per Dan's testimony: Annie (nude, on top at start, receiving oral) and Alexis Armel (red/black patterned robe, on bottom at start). Sequence: 11:09-11:10 Annie facesits Alexis (Alexis in robe, on pillows); ~11:10:27-31 position swap (Annie rotates/rolls to her back); 11:10:31+ Alexis (robe now off, bunched on bed) performs oral on Annie; 11:13:11 Alexis sits up fixing hair, Annie reclines on pillows. Frame-level finding (2026-09-12): during the rotation swap, Alexis is NOT licking Annie's nipple - tight crops show Annie's nipples visible/untouched while Alexis's mouth orients to Annie's face then groin. In the examined rotation frames (t\u224876\u201380), Alexis's oral attention is genital, not nipple \u2014 the full 261s was not exhaustively inspected, so do not generalize beyond the sampled frames.",
    "duration_s": 261.13,
    "transcript": null,
    "transcript_note": "No dialogue transcribed; security-cam footage, phone audio not reviewed.",
@@ -1262,12 +1264,12 @@
    "share_url": null,
    "local_path": "workspace/user/media_library/video/a9/a973a0e3be134d455ac9a75063827c24e8c0000241c5257e3d408d6fd1d387bf.mov",
    "canonical_location": null,
-   "description": "Dan-supplied 'shortened version'. 560.76s (~9m21s), 1920x1080 H.264/AAC, 60,962,577 bytes; filename equals SHA-256 (verified 2026-09-12). Screen recording of the Zmodo bedroom live feed — same bedroom as upload-025/Part 4 (same hutch, LED clothing rack, yellow curtains, red solo cup, INDO mat, phone on bed). Sequence: 10:23:00-10:25:47 — Annie (white lace racerback tank, light underwear, hair in bun) and a dark-haired woman (blue tank top, dark bottoms) make out on the bed, continuous kissing with smiles/laughter breaking through ~10:25:05-10:25:20; the woman begins removing the blue tank (Annie helps) as the cut lands. [CUT ~40 min.] 11:05:20-11:08:58 — both nude, cuddled into pillows/blanket, slow kissing, legs tangled, languid. [CUT ~22 min; phone orientation flips, overlay renders mirrored.] ~11:30:39-11:33:29 — Annie on top, kneeling/straddling over the woman (reclined on pillows), kissing, slow grind; ends with Annie straddling her fully. No man appears in any of the ~130 attached frames reviewed. Overlap note: the opening segment (10:23:00-10:25:47) overlaps upload-021's footage (10:19:45-10:26:51) — same two women, same blue-top removal at ~10:25:45; whether this is a re-cut or a separate capture of the same feed is not established. Date significance: 11-06-2018 is the morning of the NYC trip — device location history puts Dan's departure at 4:44 PM that day, so this session ran ~10:23-11:33 AM, roughly six hours before he left. Second woman's identity UNCONFIRMED in this video (Dan has not ID'd her here); do not assert she is Alexis Armel. Annie's identification rests on visual continuity with upload-021 (same morning, same clothing), not on a separate explicit ID for this video.",
+   "description": "Dan-supplied 'shortened version'. 560.76s (~9m21s), 1920x1080 H.264/AAC, 60,962,577 bytes; filename equals SHA-256 (verified 2026-09-12). Screen recording of the Zmodo bedroom live feed \u2014 same bedroom as upload-025/Part 4 (same hutch, LED clothing rack, yellow curtains, red solo cup, INDO mat, phone on bed). Sequence: 10:23:00-10:25:47 \u2014 Annie (white lace racerback tank, light underwear, hair in bun) and a dark-haired woman (blue tank top, dark bottoms) make out on the bed, continuous kissing with smiles/laughter breaking through ~10:25:05-10:25:20; the woman begins removing the blue tank (Annie helps) as the cut lands. [CUT ~40 min.] 11:05:20-11:08:58 \u2014 both nude, cuddled into pillows/blanket, slow kissing, legs tangled, languid. [CUT ~22 min; phone orientation flips, overlay renders mirrored.] ~11:30:39-11:33:29 \u2014 Annie on top, kneeling/straddling over the woman (reclined on pillows), kissing, slow grind; ends with Annie straddling her fully. No man appears in any of the ~130 attached frames reviewed. Overlap note: the opening segment (10:23:00-10:25:47) overlaps upload-021's footage (10:19:45-10:26:51) \u2014 same two women, same blue-top removal at ~10:25:45; whether this is a re-cut or a separate capture of the same feed is not established. Date significance: 11-06-2018 is the morning of the NYC trip \u2014 device location history puts Dan's departure at 4:44 PM that day, so this session ran ~10:23-11:33 AM, roughly six hours before he left. Second woman's identity UNCONFIRMED in this video (Dan has not ID'd her here); do not assert she is Alexis Armel. Annie's identification rests on visual continuity with upload-021 (same morning, same clothing), not on a separate explicit ID for this video.",
    "duration_s": 560.76,
    "transcript": null,
    "transcript_note": "Audio track not reviewed.",
    "participants": [
-    "Dan Gillingham Frank (not visible; presumed screen-recording operator — inference from Zmodo feed on his phone, not testimony)",
+    "Dan Gillingham Frank (not visible; presumed screen-recording operator \u2014 inference from Zmodo feed on his phone, not testimony)",
     "Anne Ulmer (visual continuity with upload-021, same morning; no separate explicit ID for this video)",
     "Unidentified dark-haired woman (identity not confirmed by Dan for this video)"
    ],
@@ -1293,7 +1295,7 @@
    "date": "2026-09-12T06:53:31Z upload (screenshot taken ~06:51Z; phone clock 2:51 AM EDT).",
    "share_url": null,
    "local_path": "workspace/user/media_library/image/7e/7e967810f1e04dc88ac951c7b7ab1d368f3c6a773be6cafd3418dba7a7e04e6b.jpg",
-   "description": "828x1792 iMessage screenshot, filename equals SHA-256. Dan's outbound thread with Kristin: 4 blue-bubble texts, all Delivered, no reply visible — (1) 'It's weird I thought about you you yesterday on the kirkaversary' [Edited], (2) 'I moved. Come see me tomorrow', (3) photo of dispensary cannabis products (Maitri Medical Uniontown, Flower Foundry packaging, insa KUSH MNZ), (4) 'I give you dispo trees'. Sent ~2:50 AM EDT 2026-09-12, minutes after the assistant surfaced Kristin's unseen Aug-26 Messenger messages (dat:1452). Dan's 'Look wgat you did' (06:53:31Z). This is Dan breaking the Dec-2025 block himself; see dat:1453.",
+   "description": "828x1792 iMessage screenshot, filename equals SHA-256. Dan's outbound thread with Kristin: 4 blue-bubble texts, all Delivered, no reply visible \u2014 (1) 'It's weird I thought about you you yesterday on the kirkaversary' [Edited], (2) 'I moved. Come see me tomorrow', (3) photo of dispensary cannabis products (Maitri Medical Uniontown, Flower Foundry packaging, insa KUSH MNZ), (4) 'I give you dispo trees'. Sent ~2:50 AM EDT 2026-09-12, minutes after the assistant surfaced Kristin's unseen Aug-26 Messenger messages (dat:1452). Dan's 'Look wgat you did' (06:53:31Z). This is Dan breaking the Dec-2025 block himself; see dat:1453.",
    "analysis_status": "analyzed-full-res",
    "compressed_path": "wiki/media/upload-027.jpg",
    "linked_nodes": [
@@ -1313,7 +1315,7 @@
    "date": "2026-09-12T06:55:40Z upload (screen recording taken ~06:55Z; on-screen clock 2:55 AM EDT).",
    "share_url": null,
    "local_path": "workspace/user/media_library/video/d8/d8bf3f17f4589e256bd3ff63fb4716b64203f52501eb935ee4b29e5a1983d2b7.mp4",
-   "description": "10.7s 720x1558 HEVC screen recording of Dan scrolling his Messenger thread list ('See many more', 06:55:40Z). Top entry: 'Message request / Kristin Shaelene / Ew lol / Aug 26' — visual confirmation the Kristin thread sat in message requests (cf. dat:1452, PENDING folder). Also visible: Ryan Lisac (Aug 16), Suzanne Frank (Aug 6, attachment), TOM (Jul 2), Rachelle Maison - Zebro (Jul 1), Dr. Amy Acton (Jun 30), Ismaila Barry (3 new messages), Danielle Onesi (Mar 20 2025, 3 new messages), Brad Hubeaut (Mar 17 2025), Sena LeDonne (Nov 15 2024), Bobby Cole (Nov 5 2024), Stan Newman (Sep 2 2024), Josh Brannan (Jul 19 2024, 4 new messages), Modi Khalifa (Jul 18 2024), Gio Solco (May 21 2024, attachment), Lucie Dobbin (May 7 2024), and a second message-request entry. Corroborates Dan's 06:54:33Z correction that the assistant's 2-thread Messenger pull was a partial view. No discernible audio; 3 frames extracted for the record.",
+   "description": "10.7s 720x1558 HEVC screen recording of Dan scrolling his Messenger thread list ('See many more', 06:55:40Z). Top entry: 'Message request / Kristin Shaelene / Ew lol / Aug 26' \u2014 visual confirmation the Kristin thread sat in message requests (cf. dat:1452, PENDING folder). Also visible: Ryan Lisac (Aug 16), Suzanne Frank (Aug 6, attachment), TOM (Jul 2), Rachelle Maison - Zebro (Jul 1), Dr. Amy Acton (Jun 30), Ismaila Barry (3 new messages), Danielle Onesi (Mar 20 2025, 3 new messages), Brad Hubeaut (Mar 17 2025), Sena LeDonne (Nov 15 2024), Bobby Cole (Nov 5 2024), Stan Newman (Sep 2 2024), Josh Brannan (Jul 19 2024, 4 new messages), Modi Khalifa (Jul 18 2024), Gio Solco (May 21 2024, attachment), Lucie Dobbin (May 7 2024), and a second message-request entry. Corroborates Dan's 06:54:33Z correction that the assistant's 2-thread Messenger pull was a partial view. No discernible audio; 3 frames extracted for the record.",
    "analysis_status": "analyzed-frames",
    "compressed_path": null,
    "linked_nodes": [],
@@ -1325,7 +1327,7 @@
    ]
   }
  ],
- "policy": "Originals are never committed to wikitest or RAWLOGS. This registry maps each item to its canonical location (Google Photos share URL or Drive path). Compressed derivatives for wiki entries live under media/<batch-slug>/ and are referenced from the src:/dat: nodes.",
- "policy_set": "2026-09-11",
+ "policy": "Originals are never committed to wikitest or RAWLOGS. This registry maps each item to its canonical location (Google Photos share URL or Drive path). Compressed derivatives for wiki entries live under media/<batch-slug>/ and are referenced from the src:/dat: nodes. Censorship rule (2026-09-12, Dan's directive): embedded derivatives showing nudity or sexual activity are pixelated/blurred before commit. The uncensored original stays at its canonical location and is never committed.",
+ "policy_set": "2026-09-12",
  "set_by": "dan"
 }
