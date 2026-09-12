@@ -3,7 +3,7 @@ domain: interests
 page_type: summary
 status: stable
 date_created: 2026-07-11
-date_modified: 2026-08-18
+date_modified: 2026-09-11
 sources: []
 related: []
 ---
@@ -21,6 +21,7 @@ related: []
 - [[wiki/interests/opie-and-anthony]] — the single most-watched thing in his YouTube history: the 2012–13 shock-radio archive binge (~450 watches) that trained his humor and fed the live-comedy taste.
 - [[wiki/interests/film-canon]] — the 11-title movie list read as a real canon he evangelizes and tests partners with; Kubrick completism, Eyes Wide Shut as "favorite Christmas movie," and the King of Comedy/Taxi Driver self-portrait pair.
 - [[wiki/interests/roman-republic]] — the 2024 full-immersion ancient-history year: Carlin→Holland→Goldsworthy→Plutarch read back to back, and the evangelism of Caesar/Rome to everyone around him.
+- [[wiki/interests/hasan-piker]] — one of the four channels of the 2020 lockdown conversion pipeline, and the first member of his own tribe he publicly corrected: the Feb 2022 "I love Hasan but his take on Russia is either purposefully antagonistic… or astonishingly naive" tweets and the stable domestic-trusted/foreign-cringe read.
 
 ## language
 
