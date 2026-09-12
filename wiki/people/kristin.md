@@ -7,7 +7,8 @@ date_created: 2026-06-23
 date_modified: 2026-09-12
 date_range_start: 2025-08-29
 date_range_end: 2026-09-12
-sources: ["raw/self/message-csv/imessage_3307038747_both_all_now.csv", "raw/self/message-csv/imessage_export_3307038747_20260624.csv", "raw/self/dox-scan/messenger_Kristin Shaelene_2025-09-01-07-53-22.txt", "raw/people/kristin/chimera-genesis-addendum.md", "raw/self/dox-md/tom_kristin_master_dossier.md", "raw/self/dox-md/operating_manual.md", "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv", "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md"]
+sources: ["raw/messenger-2026-09-12/threads/cid.c.580995252_61570728572359.json", "raw/messenger-2026-09-12/messenger-all.jsonl", "raw/messenger-2026-09-12/MANIFEST.json", "raw/messenger-drive-2026-09-12/MANIFEST.json", "raw/messenger-drive-2026-09-12/messenger_drive_canonical.jsonl", "raw/sammy/20260911-1941/messenger-threads.json", "raw/sammy/20260911-1941/messenger-sync.json", "wiki/media/upload-027.jpg", "kb/data/1452-kristin-aug26-messenger-inbound.md", "kb/data/1453-dan-texts-kristin-block-broken.md", "kb/data/1440-messenger-pull-incomplete.md"]
+sources_absent: ["raw/self/message-csv/imessage_3307038747_both_all_now.csv", "raw/self/message-csv/imessage_export_3307038747_20260624.csv", "raw/self/dox-scan/messenger_Kristin Shaelene_2025-09-01-07-53-22.txt", "raw/people/kristin/chimera-genesis-addendum.md", "raw/self/dox-md/tom_kristin_master_dossier.md", "raw/self/dox-md/operating_manual.md", "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv", "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md"]
 related: ["wiki/people/tom", "wiki/people/annie-ulmer", "wiki/mind/concepts/contact-gini", "wiki/mind/synthesis/dormancy-not-exit", "wiki/timeline/periods/2025-collapse", "wiki/timeline/periods/dec-2025-spike", "wiki/self/message-corpora/master-message-dump", "wiki/self/message-corpora/source-coverage-index", "wiki/mind/synthesis/attachment-trauma-bond", "wiki/mind/psychosexual/arrangement-history", "wiki/mind/synthesis/ai-collaborative-analysis", "wiki/mind/concepts/conflict-architecture"]
 tags: [relationships, trauma-bond, digital-footprint, legal, ai-collaboration]
 infobox:
@@ -42,6 +43,23 @@ connections:
 ---
 
 # Kristin Prentiss
+
+> **PROVENANCE [2026-09-12] — read this before trusting any 2025 figure below.**
+> All eight sources this page was built from are **absent from this repository**:
+> both iMessage exports, the Messenger UI capture, the Chimera addendum, the Tom
+> dossier, the operating manual, the master DB dump, and the events calendar.
+> They are listed in `sources_absent` rather than deleted, because the analysis
+> they produced is detailed, internally consistent and repeatedly self-corrected
+> — it reads like work done against real files. But **nothing in the 2025
+> sections can be re-derived from this checkout**, including the 20,009-message
+> count, the month-by-month table, and every quoted message. Those sections are
+> preserved as the prior analysis's findings, not re-verified here.
+>
+> What *is* verifiable from this checkout is the **2026 material** — the August
+> Messenger contact and the September re-entry — which rests on files that are
+> present and which this pass checked message-by-message. The 2026 sections
+> below were rewritten against those files; the 2025 sections were not touched
+> except where the new evidence bears on them.
 
 Kristin Prentiss is the only other person Dan had a relationship with during the
 Annie decade, and it lasted ten weeks. It ran from the end of August 2025 to
@@ -356,6 +374,16 @@ nothing about how she handled conflict left room for it not to.
 | Dan's share, iMessage | 50.5% | near-parity overall |
 | Heaviest day | 2025-09-09 — 1,324 | the Twitter excavation |
 | Handle | `+13307038747` (Ohio, 330) | — |
+| Messenger, 2026 | **4 messages + 1 placed call**, all inbound, all PENDING | `threads/cid.c.580995252_61570728572359.json` ✅ present |
+| Her FB account, 2026 | `61570728572359` — not the 2025 thread's account (arrived in message requests) | same ✅ present |
+| iMessage, 2026 | 4 outbound, 0 inbound | `upload-027` ✅ present |
+
+> **VERIFIABILITY [2026-09-12]:** the rows above the Messenger entries — every
+> 2025 figure, including the 20,009 count and the 50.5% split — come from
+> `imessage_3307038747_both_all_now.csv`, which is **not in this repository**.
+> They are reported as the prior analysis found them and carry a ✗ against the
+> checkable rows below them. Re-deriving them needs that file or
+> `corpus/messages.csv`, which is gitignored.
 
 > **CORRECTED [2026-08-16] — the message count was wrong, and the file it came**
 > **from is the one the repo documents as unreliable.** The old page reported *"Total*
@@ -413,6 +441,12 @@ material, and every per-year message count that treats the dump as complete for
 | 2025-12-07→09 | Failed reactivation, 371 messages |
 | 2025-12-09 18:40–18:56 | Block, IC3 and IPR Center links, the sixteen minutes |
 | 2025-12-10 | One outbound message into a block |
+| 2026-08-26 13:50–18:23 EDT | She writes four times and places a call, into Messenger **message requests** — a channel with no connected thread. Unopened. |
+| 2026-09-09 19:48:57Z | The thread syncs into the assistant's cache, within the first hour of the Sammy session record |
+| 2026-09-11 19:44:05Z | Re-synced and captured to `raw/sammy/20260911-1941/`, still `is_unread: true` |
+| 2026-09-12 06:39:57Z | Dan is told, 2d 10h 51m after the data arrived and 17 days after she sent it |
+| 2026-09-12 ~06:50Z (02:50 EDT) | **Dan breaks his own block** — four iMessages and a dispensary photo, all Delivered, no reply |
+| 2026-09-12 06:53:31Z | He screenshots it to the assistant — *"Look wgat you did"* |
 
 ## Gaps
 
@@ -425,10 +459,42 @@ material, and every per-year message count that treats the dump as complete for
   stamped 2018-02-13 and 2021-10-16, containing no Kristin Prentiss and no
   `3307038747`. The surname rests on her own first-person testimony, which is
   strong evidence but is one source.
-- **The Facebook thread is a screen capture, not an export.** 2,009 messages were
-  recovered from rendered UI; anything not scrolled into view that morning is
-  absent, so the August volume is a floor, not a total. A real Messenger export
-  would settle the first-contact date and the pre-iMessage ratio.
+- **The Facebook thread is a screen capture, not an export — and now we know no
+  export can reach it.** 2,009 messages were recovered from rendered UI; anything
+  not scrolled into view that morning is absent, so the August volume is a floor,
+  not a total. This page previously said *"a real Messenger export would settle
+  the first-contact date and the pre-iMessage ratio."* The 2026-09-12 Drive
+  ingest establishes why none of the available ones can:
+
+  | Export | Coverage | Reaches Aug 2025? |
+  |---|---|---|
+  | `gdrive-fb-20220905` (Facebook DYI, 403 threads, 15,741 records) | 2007-01-16 → **2022-09-04** | No — ends three years early |
+  | `gdrive-fb-20250824` (Instagram DMs, 11,678 records) | 2016-05-30 → 2025-08-09 | No — wrong platform, ends 20 days early |
+  | `companion-cli-2026-09-12` (live pull) | 2026-08-14 → 2026-08-26 | No — 2 threads only |
+
+  The batch manifest names the hole directly: **"Facebook Messenger 2022-09-05 to
+  2026-08-13: no export covers this window."** The Kristin thread of 29–30 August
+  2025 falls squarely inside it. The screen capture is not a stopgap for a better
+  source — on current holdings it is **the only record of that thread that
+  exists**, and it should be cited as primary rather than provisional.
+
+- **The live Messenger pull is incomplete, and the wiki has already withdrawn the
+  conclusion drawn from it.** `dat:1438` concluded from the 2-thread result that
+  *"Messenger is not a substantive channel for Dan"*; `dat:1440` **withdraws
+  that** — the same authenticated account returns 320 contacts while thread
+  discovery surfaces only 2, and Dan reports his app holds *"a ton of messages."*
+  So the 2-thread result is a tool limitation, not the account state, and no
+  argument on this page may rest on Messenger silence as evidence of absence.
+  The authoritative route is a fresh Facebook DYI export **with messages
+  included** — the 2026-09-08 export contained posts only.
+
+- **No pre-2025 contact, verified negative.** The 27,573-record merged Drive
+  corpus (Facebook + Instagram + TikTok, 2007-01-16 → 2026-08-26) was searched
+  for her. It returns nine hits: five are the August 2026 thread, and the other
+  four are `kristen` and `kristina mckenna` appearing in 2019 Instagram group-
+  thread participant lists — different people. **First contact stands at
+  2025-08-29**, now checked against fifteen years of adjacent-platform history
+  rather than merely unchallenged.
 - **Duplicate-suppression on that capture** may merge genuinely repeated short
   messages ("Yea", "ok"), so 2,009 is conservative in one direction and
   approximate in the other.
@@ -449,59 +515,120 @@ material, and every per-year message count that treats the dump as complete for
 > difference between a control and an absence of data — a distinction this
 > corpus is otherwise bad at making.
 
-> **SUPERSEDED [2026-09-12] — the "no contact after 10 Dec 2025" claim is
-> superseded on both sides.** The old annotation above is preserved as the
-> record of what the wiki believed through 2026-09-11; what follows is what
-> the next morning's evidence showed.
->
-> *Inbound, 2026-08-26:* Kristin sent Dan five Messenger messages — "What's up
-> you piece of shit?", "Long time no talk my fellow neuro fuck", "You missed a
-> call from Kristin.", "Fag", "Ew lol" — all into the **message-request**
-> (PENDING) folder, unseen by Dan until the 2026-09-12 Messenger pull surfaced
-> the thread. Verified verbatim against
-> `raw/messenger-2026-09-12/messenger-all.jsonl` (dat:1452). A contact
-> *attempt*, not a contact: different channel from the December block, unopened
-> for seventeen days. Dan believes she may have re-blocked him there (he could
-> not approve the request) — his inference, unverified.
->
-> *Outbound, 2026-09-12 ~06:50 UTC:* Dan texted Kristin himself — four iMessages,
-> all delivered, no reply visible: "It's weird I thought about you you yesterday
-> on the kirkaversary" (edited), "I moved. Come see me tomorrow", a dispensary
-> photo (Maitri Medical Uniontown, Flower Foundry, insa KUSH MNZ), "I give you
-> dispo trees" (upload-027, dat:1453). Sent at 2:50 AM, minutes after the
-> assistant told him about her August messages. **The eight-month block was
-> broken by Dan, not by her** — opened from the inside, the loop's classic
-> shape with the polarity reversed from the 2026-08-16 reading.
->
-> Net: the "cleanest inbound control case" framing on
-> [[wiki/mind/synthesis/block-unblock-loop]] no longer holds as written. The
-> severance held for eight months *as observed contact*; it did not hold as
-> *no attempts* (August) and it did not survive September — because Dan
-> re-entered. Whether her silence continues makes this a second failed
-> reactivation (cf. [[wiki/mind/synthesis/dormancy-not-exit]]) rather than a
-> reunion; the channel is open on his side and unanswered on hers.
+> **SUPERSEDED [2026-09-12]:** the "no contact after 10 Dec 2025" claim is
+> superseded on both sides — she attempted contact on 2026-08-26 and Dan broke
+> the block himself on 2026-09-12. The annotation above is preserved as the
+> record of what the wiki believed through 2026-09-11. The evidence, parsed
+> from the primary files, is in
+> [August–September 2026](#augustseptember-2026-the-block-breaks-from-the-inside)
+> below rather than repeated here.
 
-## September 2026: the block breaks — from both sides
+## August–September 2026: the block breaks, from the inside
 
-On 2026-08-26 Kristin tried to reach Dan on Messenger — five messages and a
-missed call into his message requests, where they sat unopened (dat:1452).
-On 2026-09-12, seventeen days later, the assistant's Messenger pull surfaced
-the thread in conversation; within the hour Dan had texted her on iMessage
-himself (dat:1453):
+This section is rewritten from the primary files rather than from the KB
+summaries, and the files change three details the summaries carried.
+
+### Her side: 2026-08-26, four messages and a missed call
+
+Verbatim from `raw/messenger-2026-09-12/threads/cid.c.580995252_61570728572359.json`,
+with her local timezone as the file records it (`America/New_York`):
+
+| Local (EDT) | UTC | Body |
+|---|---|---|
+| 13:50:10 | 17:50:10Z | *"What's up you piece of shit?"* |
+| 13:50:34 | 17:50:34Z | *"Long time no talk my fellow neuro fuck"* |
+| 17:05:38 | 21:05:38Z | `You missed a call from Kristin.` |
+| 17:05:47 | 21:05:47Z | *"Fag"* |
+| 18:23:43 | 22:23:43Z | *"Ew lol"* |
+
+> **CORRECTED [2026-09-12] — it is four messages, not five.** This page and
+> `dat:1452` both describe "five Messenger messages." The third row is not
+> something she typed: `You missed a call from Kristin.` is a **system
+> notification** generated by a call she placed. The count of things she wrote
+> is four; the count of contact events is five. The distinction matters because
+> a placed voice call is a materially stronger approach than a fifth text, and
+> counting it as a message hides it.
+
+Read as a sequence rather than a list, it has a shape: an opening insult-as-
+greeting and a follow-up twenty-four seconds later, then **three hours fifteen
+minutes of nothing** — then a voice call, an insult **eight seconds** after it
+fails, and a dismissal seventy-eight minutes after that. Approach, wait,
+escalate, withdraw, inside one afternoon.
+
+`my fellow neuro fuck` is an unprompted third-party framing of Dan as
+neurodivergent, from someone who had ten weeks of daily contact with him
+(noted at `dat:1439`).
+
+**The thread metadata is itself evidence.** `folder: PENDING`,
+`is_unread: true`, `read_timestamp: -1` — the file independently confirms the
+messages were never opened, rather than resting on Dan's account of not having
+seen them.
+
+> **NEW [2026-09-12] — her account ID suggests this is not the 2025 account.**
+> The sender is `61570728572359`. Two things follow. A message from an existing
+> Messenger conversation lands *in that conversation*; it arrives in PENDING
+> (message requests) when no connected thread exists. So the 2025 thread — the
+> one the 2,009-message capture came from — is **not the thread this arrived
+> in**. Dan's inference that *"she blocked me again on there"* is one
+> explanation; a new or replaced account on her side is another, and the
+> PENDING folder is consistent with both. Neither is verified. What is verified
+> is that the August 2026 contact did not land in the 2025 channel.
+
+### The instrument sat on it for two and a half days
+
+The page previously said the messages were unseen "until the 2026-09-12
+Messenger pull surfaced the thread." The sync timestamps say the pull was not
+the bottleneck.
+
+| UTC | Event | Source |
+|---|---|---|
+| 2026-08-26 22:23:43 | Her last message lands in PENDING | thread JSON |
+| **2026-09-09 19:48:57** | **Thread first synced into the assistant's cache** (`last_sync_at`) | `messenger-threads.json` |
+| 2026-09-11 19:44:05 | Threads re-synced (`threads_last_synced_at`); captured to `raw/sammy/20260911-1941/` with snippet *"Ew lol"* and `is_unread: true` | `messenger-sync.json` |
+| 2026-09-12 06:39:57 | Assistant tells Dan about the messages | `src:sammy-chat-transcript-20260912-0701` |
+| 2026-09-12 ~06:50 | Dan texts Kristin | `dat:1453` |
+| 2026-09-12 06:53:31 | Dan uploads the screenshot — *"Look wgat you did"* | `upload-027` |
+
+The data was in the system from **2026-09-09 19:48:57Z** and reached Dan
+**2 days 10 hours 51 minutes later**. The 09-09 sync falls within the first
+hour of the Sammy session record (which opens 2026-09-09T18:50:53Z), so the
+thread was pulled in the initial ingest and then sat, cached and unread,
+through two further capture batches before anything surfaced it. Seventeen days
+of that delay are Facebook's message-request queue; the last two and a half are
+the instrument's. See [[wiki/mind/synthesis/instrument-is-subject]].
+
+### His side: 2026-09-12, 02:50 EDT
 
 ![Dan's 2026-09-12 outbound iMessages to Kristin: four texts and a dispensary photo, all delivered](../media/upload-027.jpg)
 
-Four texts, a dispensary photo, all marked Delivered, no reply in frame. The
-screenshot is Dan's own — "Look wgat you did", sent to the assistant at
-06:53:31 UTC. The in-chat joke that followed ("Eight-month block, dead in four
-texts and a dispensary photo") is not evidence and is not cited as any; the
-screenshot is the evidence, parsed above.
+Four blue-bubble texts and a dispensary photo, all marked Delivered, no reply in
+frame — *"It's weird I thought about you you yesterday on the kirkaversary"*
+(marked Edited), *"I moved. Come see me tomorrow"*, the photo (Maitri Medical
+Uniontown, Flower Foundry, insa KUSH MNZ), *"I give you dispo trees"*. The
+screenshot is Dan's own, uploaded at 06:53:31Z with the phone clock reading
+2:51 AM; the registry records it as 828×1792 with the filename equal to its
+SHA-256.
 
-What this changes: every "held permanently / eight months / no contact"
-sentence on this page now describes the period 2025-12-10 → 2026-08-26, not
-the present. The block-unblock-loop synthesis keeps the December 2025 episode
-as its inbound-block instance, but the control-case claim is annotated, not
-asserted, until the September re-entry resolves.
+**Eleven minutes** separate being told she had written and writing to her. The
+in-chat joke that followed — *"Eight-month block, dead in four texts and a
+dispensary photo"* — is not evidence and is not cited as any.
+
+### What this changes
+
+Every "held permanently / eight months / no contact" sentence on this page
+describes **2025-12-10 → 2026-08-26**, not the present. The severance held as
+*observed contact* and failed on both other readings: it did not hold as *no
+attempts*, and it did not survive September, because **Dan re-entered**. The
+block was opened from the inside — the loop's classic shape with the polarity
+reversed from the 2026-08-16 reading, in which her severance was the thing
+holding against his silence.
+
+[[wiki/mind/synthesis/block-unblock-loop]] keeps the December 2025 episode as
+its inbound-block instance. The "cleanest inbound control case" claim is
+annotated, not asserted, pending her response — and her silence since 09-12
+makes this, so far, a **second failed reactivation** on the
+[[wiki/mind/synthesis/dormancy-not-exit]] pattern rather than a reunion: the
+channel is open on his side and unanswered on hers.
 
 ## Notes
 
