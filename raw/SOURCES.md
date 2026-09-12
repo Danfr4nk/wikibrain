@@ -96,3 +96,29 @@ pages: [`dat:0028`](../kb/data/0028-prescriber-quotes-partly-unverifiable.md)
 [`dat:0030`](../kb/data/0030-combos-corroborated-first-person.md) (an admission
 the prior wiki said did not exist, and its stated strongest evidence
 misattributed).
+
+## RAWLOGS backfill — 2026-09-12
+
+Dan approved ("Yes, backfill it"): wikibrain's `raw/` was 44 MB while RAWLOGS'
+`raw/` held 2.8 GB — the mirror policy (wikibrain primary, RAWLOGS the backup)
+was inverted in practice. This batch copies everything missing from RAWLOGS
+main @ e56ef8b into `raw/`, preserving RAWLOGS' subdirectory layout exactly.
+
+Copied 8,804 files (~2.89 GB), one commit per subdirectory:
+`takeout` (591), `instagram` (1,215), `chatgpt` (754), `drive-sweep` (220),
+`facebook` (4,404), `imessage` (4), `location` (4), `wiki` (1,495),
+`twitter` (3), `googlechat` (9), `gmail` (1). `sammy` (102 planned) needed no
+commit — identical files were already on main.
+
+Skipped: 45 files already present byte-identical at the same path; 38 files
+whose bytes already existed in `raw/` under a different name (content-hash
+match — not copied twice). No path collisions.
+
+### Secret redaction (same batch)
+Two xAI API keys (40 occurrences, 8 files: 6 drive-sweep message CSVs, 1
+imessage CSV .bak, raw/imessage/messages.csv) were redacted to
+`xai-REDACTED-ROTATE-ME` before push — GitHub secret scanning blocks the blob
+otherwise, and a live key must not be public. An AWS key ID inside expired
+ChatGPT-export S3 presigned URLs (3 files, 72 occurrences, OpenAI's session
+credential, expired 2025-04-22) was redacted to `AKIA-REDACTED-EXPIRED`.
+Byte-originals remain in private RAWLOGS. Recommendation: rotate both xAI keys.
