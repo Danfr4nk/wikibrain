@@ -1,0 +1,142 @@
+{
+  "retrieved_at": {
+    "user_local": "2026-09-11T23:58:11.304-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-12T03:58:11.304Z"
+  },
+  "timelineObjects": [
+    {
+      "placeVisit": {
+        "centerLatE7": 407713100,
+        "centerLngE7": -739556925,
+        "duration": {
+          "endTimestamp": "2024-03-21T18:36:48Z",
+          "startTimestamp": "2024-03-21T18:29:01Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "307 E 76th St, New York, NY 10021, USA",
+          "calibratedProbability": 89.2242,
+          "latitudeE7": 407712706,
+          "locationConfidence": 94.95963,
+          "longitudeE7": -739557121,
+          "placeId": "ChIJaa1_Y79YwokRZCH_0K4hSCg",
+          "semanticType": "TYPE_HOME",
+          "sourceInfo": {
+            "deviceTag": 1639724752
+          }
+        },
+        "locationConfidence": 81,
+        "otherCandidateLocations": [
+          {
+            "address": "1454 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 1.0614393,
+            "latitudeE7": 407711833,
+            "locationConfidence": 1.1296698,
+            "longitudeE7": -739562997,
+            "name": "The Stumble Inn",
+            "placeId": "ChIJZ0kHf79YwokRoyp64RkoMeQ"
+          },
+          {
+            "address": "301 E 76th St, New York, NY 10021, USA",
+            "calibratedProbability": 0.33212444,
+            "latitudeE7": 407713507,
+            "locationConfidence": 0.35347378,
+            "longitudeE7": -739560591,
+            "name": "Blossom Brows Threading Salon",
+            "placeId": "ChIJ1XqJe79YwokRoZR8J_t1GYU"
+          },
+          {
+            "address": "Store, 304 E 77th St, New York, NY 10075, USA",
+            "calibratedProbability": 0.31181976,
+            "latitudeE7": 407716455,
+            "locationConfidence": 0.3318639,
+            "longitudeE7": -739555651,
+            "name": "Brazilian Market NYC",
+            "placeId": "ChIJjdZy7o9ZwokR4e3862bIYyc"
+          },
+          {
+            "address": "1470 2nd Ave, New York, NY 10075, USA",
+            "calibratedProbability": 0.301056,
+            "latitudeE7": 407717059,
+            "locationConfidence": 0.32040823,
+            "longitudeE7": -739558370,
+            "name": "TD Bank",
+            "placeId": "ChIJLZJqcb9YwokRWrUSUoUAUqA"
+          }
+        ],
+        "placeConfidence": "HIGH_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 96
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 407590752,
+        "centerLngE7": -739627163,
+        "duration": {
+          "endTimestamp": "2024-03-31T02:02:26Z",
+          "startTimestamp": "2024-03-31T01:59:36Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "Au Za'atar, 1063 1st Ave., New York, NY 10022, United States",
+          "calibratedProbability": 81.30602,
+          "latitudeE7": 407589866,
+          "locationConfidence": 90.103355,
+          "longitudeE7": -739627516,
+          "name": "Au Za'atar - Midtown East",
+          "placeId": "ChIJvVBJx45ZwokROqLKcQlndPM",
+          "semanticType": "TYPE_WORK",
+          "sourceInfo": {
+            "deviceTag": 1639724752
+          }
+        },
+        "locationConfidence": 75,
+        "otherCandidateLocations": [
+          {
+            "address": "1063 1st Ave., New York, NY 10022, USA",
+            "calibratedProbability": 6.607807,
+            "latitudeE7": 407589658,
+            "locationConfidence": 7.322774,
+            "longitudeE7": -739627039,
+            "name": "The Greene Door",
+            "placeId": "ChIJYRk44-ZYwokRNPCSGYoCTYY"
+          },
+          {
+            "address": "1065 1st Ave., New York, NY 10022, USA",
+            "calibratedProbability": 1.066742,
+            "latitudeE7": 407592090,
+            "locationConfidence": 1.1821637,
+            "longitudeE7": -739626394,
+            "name": "Sushi Ginza",
+            "placeId": "ChIJ4Qov2mRZwokRq7cr4_3wK9c"
+          },
+          {
+            "address": "1069 1st Ave., New York, NY 10022, USA",
+            "calibratedProbability": 0.34425887,
+            "latitudeE7": 407593052,
+            "locationConfidence": 0.38150778,
+            "longitudeE7": -739625016,
+            "name": "Go Noodle",
+            "placeId": "ChIJWwJz_uZYwokRBVV6FyZ_Kgs"
+          },
+          {
+            "address": "1074 1st Ave., New York, NY 10022, USA",
+            "calibratedProbability": 0.20094492,
+            "latitudeE7": 407591723,
+            "locationConfidence": 0.22268721,
+            "longitudeE7": -739620025,
+            "name": "Sutton Bar Room",
+            "placeId": "ChIJFTW1AOdYwokRxcn0wNMDjuA"
+          }
+        ],
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 96
+      }
+    }
+  ]
+}

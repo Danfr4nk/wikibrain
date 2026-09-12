@@ -1,0 +1,2524 @@
+{
+ "batch": "20260912-location-history",
+ "pulled_at_utc": "2026-09-12T04:00:00Z",
+ "origin": "Google Drive all-Drive search 2026-09-12: 8 'Semantic Location History' folder trees + 4 semantic_location.db copies; month JSONs deduplicated by (year, name, size) then verified by sha256",
+ "files": [
+  {
+   "file": "semantic/2024/2024_APRIL.json",
+   "sha256": "426e1cd0096b54cb9ab03dae63f0a97f620a7c150ae2da30d16a1c5da60565bd",
+   "bytes": 2140,
+   "year": "2024",
+   "drive_file_ids": [
+    "1PUWNjjd22T1wifJykYeyiTW5nrRaOgBC",
+    "1X3zAWAPtmoohPSjb0UvHM3UrIrMsueMR",
+    "1NLkNSzll5bvJEWLKIy881pesfiWEucBr",
+    "1Pyo5pxo158UgKzCGLfEjQUwaq5svYvbj",
+    "1PGNe4XPSa6klVd0LlcotaLWsIMGK9hND",
+    "1OQJHyE4cyR9pYRqClNXFHHMmh4Srh6NG",
+    "1wzmu_ck2uEUczDhlllM4nDGixNJOZp8K",
+    "1ubEvQ9g9lBX8RxAiU9MwhyESaERjwsqA"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2024/2024_JANUARY.json",
+   "sha256": "e1931d280b4c0885e7619e59a8eeb1a11607ebec3418343bc298fd6f76e9af1a",
+   "bytes": 86000,
+   "year": "2024",
+   "drive_file_ids": [
+    "1ZF0RYf4jOAhdF5EUKNm4m3vxulcmFA7m",
+    "1zQ3QADl-1ULcd9WJbSeCL_JT266g2Y0Y",
+    "1m8D2GdpMK-GYPWiYnEfWByyz5UkFKXWv",
+    "1RevJVMt0UdAr9prUWidYIne9YfjGD02E",
+    "1z25bakhQxHESYut_FCXh25qAoFoElKzP",
+    "1CxbkiYS858SwaNk54MXhOQXldbhVIjuo",
+    "1fDa9A4V5og6LvHHaX-IzbXxeQA3WvHQV",
+    "1Q0rGf1XGrOqQ7vkBAz6AZtMaHtySBC2W"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2024/2024_MARCH.json",
+   "sha256": "0058b4866aa58cb1c1152343542fe7eca8815b7a4bfc6196a2468bcf56395167",
+   "bytes": 4358,
+   "year": "2024",
+   "drive_file_ids": [
+    "1juiahTy1JXZkzzoF0cW9gij8BWBB4bi0",
+    "1lhf-o8QsqExz-CH1o9s9_tMmA3DH04fN",
+    "1rn-5BbABrjHrFkgMhKQdvoSQfzHxxU7-",
+    "1Pii2sQ4bE18xznnTZbND4Xy9ARSkQS-Q",
+    "1p-NQBi0Vj_HAi0ZWX6KfY4F0HoQBNGP3",
+    "1KQ3yswYGShDIQ_h1kIVR0nQFJ9p0Dywg",
+    "1pOeBwcDcIti3GV6RejHxDahvAJg3_cux",
+    "1xHfPCmeehmYkUPnQLdG-Ca4Ff5KOyu-0"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2024/2024_FEBRUARY.json",
+   "sha256": "6f43d72d1f2fa0c1fd3135d79d86d8c1ec6f7137530dc74a185637cc1b449a88",
+   "bytes": 2157,
+   "year": "2024",
+   "drive_file_ids": [
+    "1r6IqtYy3YkclDGGpsu2vAvqGRRWWxtyd",
+    "1ZwNrQW3S5wu_q3GCCK6EF8QoEQ3NZEPT",
+    "1_CjB2Caws8r6amo-YXnfJ1fKkrXQGkPW",
+    "1PvPYvh39JuS6i28FAfrYulXobTFevMau",
+    "1Rjo5c0_yHNtA_E7Y4vPhAmunZYtGAl5L",
+    "1ZmtR7JERVAWYxYPBEIx0ZkOY2O7exIiK",
+    "1MnosWmPjGfjd0AKdTAAy07-Gzapeppv7",
+    "1hJYIZAcP39ZT2yy_vdzMz_b_keCfhuNo"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2023/2023_MARCH.json",
+   "sha256": "a5885e38edc3d9a1d5225991553253c9172d05f33487fd0257e6b86e3d67e4aa",
+   "bytes": 463283,
+   "year": "2023",
+   "drive_file_ids": [
+    "12i4eSDhXU1ONWv4pUa2De1VwRY9fdxMv",
+    "1wUm22S5ljnbaFWWJtqnD1geEHouvBBl2",
+    "1zPPzhj_M2q7ET16_fhyKMgvChm7N_LAW",
+    "1S2YHU2Ig2Mgyqw8fWTUznF6G4whjWuV0",
+    "1w35SOF4YV9pOWU7LcsPJB04LEeKW6BoZ",
+    "10OIHmb-jGoNmnx0A6ZmZYoslASpiglSl",
+    "16fONKGpchVJ-LJQbxuxsQUukjzoqax86",
+    "1WPtoPjF-F7OjGjybDSP6A6wPWHimdBBp"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2023/2023_JULY.json",
+   "sha256": "6e2f311cf68f64504481d62e96093367c0258ff2f15786c13c2cf4558b33d809",
+   "bytes": 537937,
+   "year": "2023",
+   "drive_file_ids": [
+    "1ziEHZs57M1-hFv7K2NWP76RtXO0cyKAq",
+    "1JS1lnATK8zJZNhwefsj5ZxsW92iuvOOV",
+    "1H-IviAZi3iB84eRecFnhemy44O5kGBor",
+    "1TD23X87eUT6QMxCyi21CGf_9acDDbhpL",
+    "1CoS5CyCFy8MDq2Qgz15ZhYMIbD5dOBf8",
+    "1WTcJy-1Yb_sXnWhYYcibWYVKrtuhyN3v",
+    "1Oq4SlEGRFhAjuzse0qhA9E2bLrvFKNtj",
+    "1KbYbqr_gAIJUMikcVgzEUpaVKy3xWJCh"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2023/2023_FEBRUARY.json",
+   "sha256": "e7c1ea75756968e33b6f4b13db5473b11ace2fe5c7327161c1a4681548a029be",
+   "bytes": 377145,
+   "year": "2023",
+   "drive_file_ids": [
+    "1OlRmQbeVFkTr_yxsvtfXOqCiN11VTKml",
+    "1A2dIirFhMIXryhJ3lM06jCsLPSrs0sWk",
+    "1jqxPG71pmLi3EvQJjNMHQPmZHcav7PC8",
+    "1T6tVzX5i9U3MfpMl2_sVxtgEDr92dI7z",
+    "1olymm84_E3S1i7FPMpoFHNhTEfHy1NjF",
+    "1RzeFf6OA-r5xC6ZVuq030eER8--Rgx0b",
+    "1USUnyyfk5rHqO9NIgCKd0ZXuvJpo3C5Z",
+    "1Da89QwXbT-LwsRiu8Flv1wKTYFjSYxbB"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2023/2023_OCTOBER.json",
+   "sha256": "861f1a75f5d415e3fce96a04e82f9388c9f532dea1a50c70ba75f6a0001a5acd",
+   "bytes": 576624,
+   "year": "2023",
+   "drive_file_ids": [
+    "1xHI75gjLiK-t9qM_jXx13VMx1JzdjGjJ",
+    "1hS4XPm84Dt_bS5Re0ZmNZNdcAl6dnFj9",
+    "1Tq_ILEjN3hb6txT1BvgX0tio8MHmYxYO",
+    "1SmJdwrCuadfX85T7BwXajMmMHTlBcgRk",
+    "1Mu_8C-d01bCoa8k_o_ZeQQXOlRthgUTQ",
+    "11f2qO59AvEcXNlkIIQtsP1rwWRUhFpHk",
+    "1e0P1FgV5euNRmM9HP1V7vW0GCMBJH_1A",
+    "1g1P5UlHPpCq204EJNjjHNbeuuDlz2T_c"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2023/2023_NOVEMBER.json",
+   "sha256": "7038bbbd8b47b2da7cf3f6520cdd4f5938e83f5e81bd393e4ec22b99fc11a8a8",
+   "bytes": 455912,
+   "year": "2023",
+   "drive_file_ids": [
+    "14jcFH8MUQDE7Z8LjxI2eXc7I7Zv_Bqvi",
+    "1DHXEi8xDAo91Xmm8NrlG5NtBb8hkX91-",
+    "1Z-PlWPjr0zMI1kpjvdPCnOyo9AHBw1ej",
+    "1SqpFwdrrFKaeG8Hv7-u8P8ZRSvOneXgr",
+    "1FphQ3rzVsxrNNkcnXj5YhuHdftr4jKgs",
+    "1fhWb0vdDRu783XC6NzVj9MR2dVmjb-UL",
+    "17doTc1L0oPmRL8pIQHnYl0ZHUm0G-d7B",
+    "1dXUJskkEtgffRaq-Q-blyJ41XtVw8Guw"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2023/2023_DECEMBER.json",
+   "sha256": "292e45a04f80bd69fbcc512b82451a7a17ae0da213df9f09591b710de77fbbec",
+   "bytes": 538837,
+   "year": "2023",
+   "drive_file_ids": [
+    "1SyEW-tLHBuIiO0BtXbpKk8QMr2sXB1zz",
+    "13U5pcqlaqhOwTviw0TmvQZVzKasxyO-l",
+    "1gv6UUYH5l32bXRje5UsdQOemPI4ALRzU",
+    "1Rzh-YbwFWcV3kno3SovUHa_FlPisL7rG",
+    "1QJjTTehppEsQM4sdAxanaL3ubf-tKUB3",
+    "1I4MXi_3ToKIfsJa0daNhTrAnR1Tf105o",
+    "1es_APXMkF6tnkKaQaCcAYIO5AikfF4M5",
+    "1hsk_f6EV1l7T9V45euWNU6XuVLyyoJIG"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2023/2023_MAY.json",
+   "sha256": "76e079f3c28e1bc02766c521d134762305d633493ee39078c9131bbe4b49e8c9",
+   "bytes": 459958,
+   "year": "2023",
+   "drive_file_ids": [
+    "1nArKH63qnzxXVuQTXIInKZGDUg2K6Qzn",
+    "1fkZc8FTat8yfqTsRp4PYIwGHfDBUrxi8",
+    "1GgeMTZzSMBeaGIK7wHRq1IRmbGm5pl1n",
+    "1S4ijycz6f-NU-OIOuDR4h2mSbv0YYdOy",
+    "17LCt3G70sm62Kh6yBgpNNvCx_sepEHHg",
+    "1Z0VYO0rkAJ82NOEZKkyWIXmbLsZ4-yvQ",
+    "1c1Dd_A6MRXJb7tDHIKzordgKezCEN06R",
+    "11HQZNYywdqgNjU0i75NJ5ZQqLZkxUCFp"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2023/2023_APRIL.json",
+   "sha256": "3f3edb45ea997e18205451990858df37e0314487edf64f8d92671d21662415e5",
+   "bytes": 492495,
+   "year": "2023",
+   "drive_file_ids": [
+    "1I7GZ90jI4i-eNGFzaoQ3q6v9FJ_uvrn4",
+    "1u7RvDMdSimoYJ2Blj94gCF-J1Iz0YJlZ",
+    "1fxwnt_7Ifult_g2X2auohQIyJIfooD4H",
+    "1Ro7wn0SD-Dy2QuLq3T06ka0Uuknftl2g",
+    "1T13UYnsP41FNfKmsSU8ts7PckvgTNk11",
+    "1RvpEVV2Mju_SNYWS7GqTApNOS0cnlBrA",
+    "1LrVSiiaPGW77Y6R4mOdxJ08hvPImhdSD",
+    "1AzdaoB9x85WqyvpQ6TDzxC6BEdVL-zIF"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2023/2023_JUNE.json",
+   "sha256": "26eb2d9c67d3201189d15d066c481e73de97d2372233f0b8104998a8922a0bb2",
+   "bytes": 517569,
+   "year": "2023",
+   "drive_file_ids": [
+    "12GzJ2qHdVZfJcspbs3vYkYTWQzzBVufB",
+    "1KFqvgwFt6U-brHP_ExUP_2T9RriReb-0",
+    "1nHc8RYA4g5dfDrPkHuazThDHIv-1-suj",
+    "1SwSH0WY3TRUDcxcxaJTW0Q7Kivc7wS_H",
+    "1kiI5Ub_uVxEYpUjwzuQOUcRFIAydANZG",
+    "1HJ7t4gaGEy4FBaH1UWPlhnXyW9A03_Nn",
+    "17XF8Zywh9UZexna3kjTa4i5nEXV-8ZRr",
+    "1HRPIfP_lhLuGarNib9zK4QLyQVkh1wwM"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2023/2023_SEPTEMBER.json",
+   "sha256": "8db5926c8d19df7e8c1cd2d65bf10b4ae52b606510cd4cd90a1f412986a23c7e",
+   "bytes": 1004215,
+   "year": "2023",
+   "drive_file_ids": [
+    "1FkscMOIqJGXCrgsa0f_dDPRLrejgUpNu",
+    "1zoG7wSTGd_A94csM4ZMC9Sd7Zrr1j976",
+    "1UKLLPVrgfG-kXvpq1LJhWWy1TzQhXNOD",
+    "1TElRWxW5M82q9u4WbsOM9An2HO8JleGl",
+    "1ssKW9-MZWthkMUutjKXFl5GLW1NO7VMl",
+    "1lYBCyGL-Bgvn5HBF_wH7gvigFBEFnBnv",
+    "1nvx2uHQ5hqvD4giznNvrHCJXrah86V7S",
+    "1SuVV7vL2GAsBqDpPj1-Zqbu7Ds91zmIa"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2023/2023_JANUARY.json",
+   "sha256": "20031219ce20df0e75ad3b281b859075229b86d871b26f3940fe8193a6af75c5",
+   "bytes": 490460,
+   "year": "2023",
+   "drive_file_ids": [
+    "1esOuyN7k2GXPUzbL9sUvdIYiV0S029zW",
+    "1L5amzEj_Vb9voa0SHf6ne8JEUfCowQG1",
+    "1n8zY_r61ryJpdTIAXYzZ2532hRuQcD6M",
+    "1RsalIkkciXMgp9FiEHDxctsMlXIl7t__",
+    "1hsIRAfVtEnGMeKP_Pd-cKwrMiCHik6-W",
+    "15nLpujA1_qIVIFQekv0jipdZGqwdQp53",
+    "1WmopxKCyYT--6dSe8utHbz4Y71ycGRb6",
+    "1az29kv7iXr-d0zgi9oIuXbkbRP5tXNpL"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2023/2023_AUGUST.json",
+   "sha256": "f7e0fb27189994f04cf28fe2ec1b724b1e6fddd48afcd0c3a8f627adc6dc9b67",
+   "bytes": 488755,
+   "year": "2023",
+   "drive_file_ids": [
+    "1GXjsn-__VsrxIcGvrKvps2gElsTQ1aQd",
+    "11A_DLKocJcc6HxUUsqBvI5UqW_Jyx3ut",
+    "1X-Sn_k_FHhpfQAPFbyibED7wXSYG692H",
+    "1RiK04-SFpTNNpH1gFg_D6DVZh3ecJZTV",
+    "1Sw73q2tNRoZkkoPOgnnID-eiq9YJ4GmB",
+    "1GBM80Rth2wrnb1t2pFYDAZDG3pS48WzK",
+    "1h8Q35qOq07IT2tx9ZGq_ZMTjIgxjstU4",
+    "1tfFkG0FuSWOywaQKvD1sqBDAWGcwghmm"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2021/2021_OCTOBER.json",
+   "sha256": "ed5cd493e60d83fcda45803bc9bb6857a466f08ac24d2342120c617e407154ce",
+   "bytes": 330688,
+   "year": "2021",
+   "drive_file_ids": [
+    "1kgZveASZ4WIxlN6OrRz_-luDHaywtTgT",
+    "132qr5pKNfLobe9FJpGGG4mQdSdwh8NFj",
+    "1IjSdBSTA1EDk7TeCTyV06Uyff9oZ985V",
+    "1SMcoRL9H5KpVnp_EJFTZOqZEDuwF88YW",
+    "1C3fjE_yjnCYTKDKM0VOczdQp0mHK8A2v",
+    "1L7DijvC5v89Si-w1sBIW4wl3-_R4nai7",
+    "1ffqIMWm83QakcqcYtwL0Ku_IGrGo1t3n",
+    "1iJRmtC1wCtsropKdIbtNuIek0UWbVQmv"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2021/2021_SEPTEMBER.json",
+   "sha256": "ee33d8a82b2d016edb8e059da9f20a0254bfa81e2a55c46184a3050674716c88",
+   "bytes": 394776,
+   "year": "2021",
+   "drive_file_ids": [
+    "1MkfZ_pcWCIOes-25ql4AtNtY97QhRojB",
+    "1UufvB9-_FgVe-y1TjMmYvGLIg8lPC8sp",
+    "1eB_Qlah4Z-bJmaeKa__2kyWG_uxsMKGt",
+    "1SMZVP7xh__srNMBR81yf0s25B2IK1xTz",
+    "1qoXbbonHGVO-FgWRDnvDpti1Ra9XmoZi",
+    "1b9AMPj6Cp6c7jvFF4q3g1wKueiXbjxv0",
+    "17C51ekbPAVNTCIn-NDApD1bIdeJ0Rlfr",
+    "1YvTD0Xvz3SRLwdRqOUXZSJs74lRyNu8z"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2021/2021_NOVEMBER.json",
+   "sha256": "eeff221b9b785f190aa7cf1610fa4edb5d2e4eeb488a547fb9804a6f8e1c9079",
+   "bytes": 326869,
+   "year": "2021",
+   "drive_file_ids": [
+    "1bl455U5CerzmK5yC4hrho6NCV4BFvgEa",
+    "1LPxr-ZPrzwmNeJri7_lreLlGIP52lhru",
+    "1ZNPF2r8cCiqE9elcsjjOvXCi12hHeCSO",
+    "1SPxMtCmasJyvmXln7AUS5d6NE7SdtiAz",
+    "1YK47Zl75_EaU12_lza0PgaBVxoD-hum-",
+    "1pmAF6OJMnkZD0i6zlKtnw4R5Qv53uxDL",
+    "17QSuk0XK7_0NDWAmpmpqK4zTMj8RM8Hu",
+    "1jNwuVWo7rxNPvqKOnPAnNA_npskjILMs"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2021/2021_JULY.json",
+   "sha256": "effbc41d37c9d5022179f830cb2b1cf9d40877b83eabdb066a4acbcfcbc945a5",
+   "bytes": 173834,
+   "year": "2021",
+   "drive_file_ids": [
+    "1_AnFvy6RSE3BCr7HiM1vBzC7loDeuteS",
+    "1ydP4C9Hovu91uDQStrdXnJh8veH5raXb",
+    "1Roe_ZrS-jhJwkEf4gQ3SOAC3LHqg-wSB",
+    "1SZ_fnVXmjvN6v1luc3m5FWzvzj8hIVEB",
+    "1TRrnR1YhH9zA8hRI9slRnKMhh-DTLvSp",
+    "1NX9chhJ7QN_WtbjphgGy2BEPI9T152-C",
+    "152Vb_czPOM7OfiljFiDV5p-G684NXcTj",
+    "1NMvjdxposqsKLROoPTGayTi6hfNEnH96"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2021/2021_AUGUST.json",
+   "sha256": "9e8cc90ab78dc66adf619edfc6527be5d0d44da0241680636256aa3e463c1103",
+   "bytes": 424793,
+   "year": "2021",
+   "drive_file_ids": [
+    "15_tQyWm0FPDCXIeuC0p2wKBOtD8-plnX",
+    "1GSglSC14yHXynlklSWlOsYYF_TWzZ_S5",
+    "1WAu0il-7eQ3QRfniwb-6dseCIGT8QuzJ",
+    "1SOCEzAnX21tmYczmCZqZ1loFxnxZdKcW",
+    "1yOByg-2W52rT6-DlNphawtKRioOpxjoe",
+    "1bW-uQedAr-sD1g5hn2vG55oRR9T7SDpH",
+    "16_YkXIdKn5sUDaLc72sVm2_hwK6piD_X",
+    "1NR30kowGDFOxltlHpzAksVIuj2FeQlZq"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2021/2021_DECEMBER.json",
+   "sha256": "31eb3e92cc57915befd6b2e2adda2da5ae80574cb75e273e49d20049c70ec68d",
+   "bytes": 172477,
+   "year": "2021",
+   "drive_file_ids": [
+    "1eKF8gkuKCayF1yFuWFEe4GbP_ay2TtYi",
+    "1-naeZJBCUKGBZP0JfY_2DHGHXMWLn_q9",
+    "1JIVfcohOKHLC8xUQ0NxdickN7TvR-Gh3",
+    "1SM4IqPuuSfndgBSQ8Y6i0a70o7ciRXmu",
+    "1f-ESfTYiPnPy2hZzzfwkW3VrD8zqG-oQ",
+    "1NXMHjqmGhXwVhVjEjqEfBKxCujS4kkCT",
+    "1Fj6_dZGblR4ObXVVqtG2Buo5oNBv3aU3",
+    "1Zccp9_Jy714CALxBc0mOgT0chiqqrRZm"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2022/2022_APRIL.json",
+   "sha256": "b2db88a0a3c1029a34d6e6e35ae79484cf0ddae4865b7e9a8012f4749b847667",
+   "bytes": 408620,
+   "year": "2022",
+   "drive_file_ids": [
+    "1RHGmKjUwbY-5nPE9w3m9S4rzBZ7lQ-6E",
+    "1yw3EMfh8IGfYAyh3JFyuhcH2y2SrpIOe",
+    "1onLa5L5ZA8sDbSDR_e8vkinQPknSpGfE",
+    "1UXt9uGeKg0Q13FevZvOpNVysZgBk5DXe",
+    "1s_YvffMNBT9mg2uqvbGtk1mYTVU__l9p",
+    "1G7Y9cjT7RPdCVn-htA2TS122Bd4YFW5y",
+    "1mx1FzltZLUg_bWLD65VTIiAbQfY-IuiR",
+    "1j9L7Tb-7edwnMRxjfR0Mbgw-laoApijn"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2022/2022_SEPTEMBER.json",
+   "sha256": "66259fc2aca7ee85b7bfcd5f89839269caa6ec183be7f772e6105d7d1a9bbfea",
+   "bytes": 553951,
+   "year": "2022",
+   "drive_file_ids": [
+    "1RN77Tgxmaq-S9uocNV4lq1YD03bSs16q",
+    "1nGzMdmsmALtb1Ld5C-wAjZ9P7E0Cf_Bp",
+    "11Hz-qbOWbOSxvlVKNeviA2Wuo3GPMhkT",
+    "1UwPnpMO47joG9go4P1HJRiUwjfQ4_XkL",
+    "16Q2ETAK-gbcGY2a_sBLRv-jBWbNhUUOw",
+    "1w_5_ekg6WC58N-EAQickfLzK4-vgj444",
+    "1v-FHAPN1rSxkxZNWCteXZ4hYojoTDr25",
+    "1iN6rUo3y6owEX5i_oUFgnArM5jC_IPFG"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2022/2022_DECEMBER.json",
+   "sha256": "0c49147a4fa9606b6acb12245ae17176f0223bd16b760277b92ff8fce0406da2",
+   "bytes": 492774,
+   "year": "2022",
+   "drive_file_ids": [
+    "15QuYeQp842KguFYvg-7JsobWY8QtvtBQ",
+    "1p1ye0J1GFvZmFGqhduj2EehcwkIRB2iM",
+    "1wSs7fCq5QqOOuOaeS2pUTM_gI_L2CdsF",
+    "1UrXScR9PuBDS_su7svOf2al2VSQ7AaZ5",
+    "1donTy6GK5d3wLazpt_C6BQ63PJ3JYaaH",
+    "138ggaNCQgG9UEy0WRDc2r46HSNZvGbwR",
+    "1jIj7yltG-6e8k0H_a-mldkvkkp_SVtBu",
+    "1BCGa5Q0FYoLAGwK9eTejJZKZ5C5mErFO"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2022/2022_FEBRUARY.json",
+   "sha256": "d3a68a6c4d3a27f5f61b9ea709ea4cc4ad97b16f5be1fc0964446da706a81fbd",
+   "bytes": 418345,
+   "year": "2022",
+   "drive_file_ids": [
+    "1VxgUm8Brd4grC__ez9Z8dQhUYUNU70Xg",
+    "1gPcPCIVEVTZ-4fvdve4vxGFCExoD7K2k",
+    "1pMW-4DgsxivKFAGjQ0Bbp3dUJQEksIb_",
+    "1UiBlvPjDDmD3xRBpGRJUaYiPKcsb-Uxa",
+    "1GDz1wzpqqX08aQTTqYdY7f7l_wxruMSJ",
+    "1vaL2qC7KolEKdomhOPiaexNlx9ZH3EdW",
+    "1LvE9R7AONs2f9YJw6SH0ePaXdpJo0Btf",
+    "1CapQxlOLfbughEZfi3o0I04JIWo_Wu8M"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2022/2022_MARCH.json",
+   "sha256": "0df88a046c6b995b12d8de0160037df217d7132f95a0beec130bbaf0637b71a6",
+   "bytes": 508192,
+   "year": "2022",
+   "drive_file_ids": [
+    "1LCLOUBswl3mBnmnNRwoygD4x62s9tvMw",
+    "14HpLFzqZ0Lp3CZ59a3Rkh-XVO9h38TeT",
+    "17F9rA-mkPIQ4ju2azpmDloGqmqgwHREC",
+    "1UdGNrw323GB7w6qDPEyybRfzq4G0RlTq",
+    "13fYUh3Qz8SZTfBf_2V0xJoCuNSpIVi1R",
+    "1eXCDNJe8AvgrpN5aenTNz9ppfprgVbOH",
+    "1_n27k92lIX2y_fLQ0CKIsmAxzn5V99t_",
+    "158U_PXNoyCeMMMQ_s7cs6l2ljkUuAHtd"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2022/2022_OCTOBER.json",
+   "sha256": "2b558a3355f3a49804158d8389685a2b4f6253bfe5a77d29e73513c9f6a0ee57",
+   "bytes": 636760,
+   "year": "2022",
+   "drive_file_ids": [
+    "1kvQZeY3xnTwB3sSIEyG2NKhPIbxBzpGq",
+    "1kz_8vGdtRVdUnzY_u8uSNeOAoHZKQVNR",
+    "1h7stCV248arb5HZVOa9OD_rlLNdm9wrH",
+    "1UpR7HSykxapBMHAj7AGRiJn2mXAi-H15",
+    "1RGZavrpRqrXQ59DO-n6MPCtiXecp_8l7",
+    "1yiyXVehJk-WxnmplD3Mgn6jLf7wGhG62",
+    "143HaYiUJj0RkLWXEo0q3KNRYswxWsAkA",
+    "165QtLuqbblppxMnsCjJhSfTGLaEsawZG"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2022/2022_JUNE.json",
+   "sha256": "4f403e36dab6319721ac12b196a4e439866489c83d341c969b5ef4ddc0ed6b68",
+   "bytes": 404062,
+   "year": "2022",
+   "drive_file_ids": [
+    "1dtR67aLGjQ1exWa0kWOFDOSQ6_CtJkAb",
+    "15KNEXwpnOhoWfs3J7j-AoaX8MEYEKBf_",
+    "1wY6ogJcb1j1OAihGNCz5AIu7A4CPK6CH",
+    "1UQ_1mtfM5O4ZQr9NDSuzgAaFU8PKinPU",
+    "1he6Bj7RhdWD7VHkMsWVNi8d5yUIKmKpf",
+    "1kWN-X7QgTjO0OU9z4ySByNKsi7vryBS9",
+    "1rkUQuuXukwbOhPKSinwal2SuXP639ecx",
+    "1-YNjCfsB8HlpzcJpKLsqBOSG39TaQkdb"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2022/2022_MAY.json",
+   "sha256": "15a35398a467f4f3432cc1e5300cfb1226a8b4c86a2d89e79d3c15939645d11b",
+   "bytes": 441929,
+   "year": "2022",
+   "drive_file_ids": [
+    "1B22p4Z-Lvnedq8ZtqyB8H1Yfj3nbde5Z",
+    "1DVTG67VDt9ZSiCEuuqr_J3Xg76pLJLdJ",
+    "1A_JIYxNA1WSrro5Mw3Lacsx0IE7SiHVm",
+    "1UO3Wyhd-5dGYNSZRzxNNP1RVhadQr0Dz",
+    "1JFBwOIHCHuFeznDNbxoeV6ODiWv0C2-T",
+    "1RD6csd0iHExoopL2roz-7xZ8msPCXlsU",
+    "1enMW4zB3sgrhdHn4JnifiHNNbNj0umcJ",
+    "1AfmRBeIJxBvRxy6aUtq82NqrYIDg0g30"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2022/2022_JULY.json",
+   "sha256": "9f896dff8d60e41a35b05aaaafe9f74f50c777f3dba2ab10e56f6b1c6958c293",
+   "bytes": 480965,
+   "year": "2022",
+   "drive_file_ids": [
+    "1EXyirQLLNHd_C-7KiZ5warKKHOaTDrPZ",
+    "1V8bcOALmR5t7-ua2wHzGxgyGDAWT21Dg",
+    "10eVc9691JoIO-OmDLLfoAbAcaZ3spzRC",
+    "1UnURmMyTHVr3uGFPmLFUd0oGIMZRRcl_",
+    "1b0SuGp3clbszi-VbufMHyaT0WNcqJ7Pj",
+    "16dNNR3pSW2LfXvo_TDiuaGz7EbD_S7c6",
+    "1-Z5DmRnArz1jTX0L1HL1rGvWjallmMQX",
+    "15-xppFWMxj-Rz7zTHkU5oDzpfCN4ebP8"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2022/2022_AUGUST.json",
+   "sha256": "2e2dbb1fae9769597f4c4fab6ee2919f10ecef990750e593af44efe9bd4636b2",
+   "bytes": 531870,
+   "year": "2022",
+   "drive_file_ids": [
+    "1K3sX0Fme3iKImvzp0xkrHeQ4mdY2aqre",
+    "14j8eTPWCgSfeqiklVXrGSNT-BFxuf6Bu",
+    "1vZAtLfbX2hKkMpblG27PdHfFBFRCo82s",
+    "1UYfCXg_9ncPzD1LN62sLfwRlHoeZs5T3",
+    "1VIb0aOH2iX9F6FUggWRSz1abew2Y7Don",
+    "1p5N3eO-J8CYhQoCV8uDGSrvwc7zyx-yp",
+    "1Y4a7Wgo7xiuot6sDYcHpjdl7R6_bKSKv",
+    "1Y_AhuFl0bj9P6Ouc1viMyL3svYUcTssn"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2022/2022_JANUARY.json",
+   "sha256": "3aeed0546adc1ae4122521af352442470e2ea4cf531a4829c3779998198d1aae",
+   "bytes": 497681,
+   "year": "2022",
+   "drive_file_ids": [
+    "1ksmbr8_HuZmEXUPE2v_lhRc5jy-_vRj-",
+    "1rAuN60SNhUeC2Qop4RW-1XF07v9BE9-z",
+    "1yv9OCOwdQTCimXvwKNVN3CRRHScwLl-y",
+    "1UYL-6svdvJ1YdPCv2pPdToCgvKYsr3Ta",
+    "1FNhuctvV4Qt8m2e7hWTbT1sDNtbFmCUE",
+    "12yM1wLhRAs1dK8cNKkOvj_q6YtH1aQa-",
+    "1j8OUoNjtpNxQH1gscuGCbcLVdbdoC4u3",
+    "1D8ty5yiO542O51F33ycSSdSa9dr2adBM"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2022/2022_NOVEMBER.json",
+   "sha256": "48adb2ddb23a542018fb582fad76e1793e3102e58e98e8c36087ebb8142c721e",
+   "bytes": 534856,
+   "year": "2022",
+   "drive_file_ids": [
+    "1x1hhr7PrtgZolZgW_OCbtjY-h4Gm-WcI",
+    "1cQ-qVflQVvowaoN-H8x_MvP9v3UaOWVz",
+    "1z1DoPmY3DcumuXc7PYjPEKC_-ubDIq_P",
+    "1UoCYUaMD6ot_hFCggN0vboep1NaCFmbE",
+    "1JqepCm8F01dlVVnuWEjFFahuCN7rkR94",
+    "1XfBA_7j5756Onr36ciziJjnI_9hiITry",
+    "1l8DTassLJWpDk8u7xrcMG9n8c3M9rkci",
+    "14CLc8_NX7aPROXTKZk56EslwIHuUztJm"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2020/2020_MARCH.json",
+   "sha256": "f0f38a82a028092702710639f733272ed1bd3eb7214a6837d1a0c17166c5d180",
+   "bytes": 21867,
+   "year": "2020",
+   "drive_file_ids": [
+    "1gZfyvoFq0wtbN3pjVWYcFDHkGa8EXJq2",
+    "1QZXZCtcn1uQfNRDg_rnuun8w_NWVgY3a",
+    "1Gr5pN1-6Kvbm8q-XMyY-CMrc8dfUcEy0",
+    "1V0PTzkrV5Ts_-8_mIDFus_5y49qjWP5r",
+    "1Bj25Lr0kInGAFeZeWVGKpKOS4tOp5HHB",
+    "1zrehBkhU2PSk9rYI-Q6UMNi1F_dA5ea6",
+    "17YxAyDu9CaD375o7Um7sBOMLxqIJfe2d",
+    "1zsY5Hm1WWXFH0CQ9hQNwk2F__OBT7e9e"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2020/2020_JUNE.json",
+   "sha256": "952e32caeb060d6577802adf062a0642d6e1d2c4d9cfe24fd0f7ab54e7f930e7",
+   "bytes": 113210,
+   "year": "2020",
+   "drive_file_ids": [
+    "143HHmwugR57IGN_EOAXYtMU6njLjwblu",
+    "1yVDEGd-ZQYbqI7sSfgzh_Z66R0rzSJt9",
+    "170u66QcxUfDMKZ9Xfllh00i_msXUJXBx",
+    "1WMAlSgF4PKR9_tdXXhBZMNzvGM-MTJ6S",
+    "1LmsY026SHHXM1-dOuEQbXfBjrrIQnbhP",
+    "1jyx-QCDANknoh19sUA7_5azFB3lbvyM4",
+    "1Syn6_EDQBIGWGkvnBngs9qlurvLz19Iw",
+    "1PI2suvkBzAIEqpEadLU8-Ryfj84nJkpB"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2020/2020_APRIL.json",
+   "sha256": "16f334df48e124ae9339aad9cf20cc90458955e2d3030b310898d6102e3ca33d",
+   "bytes": 111401,
+   "year": "2020",
+   "drive_file_ids": [
+    "1vb-JcwTk61O7upH2HIw1M7y0EXTlHP1S",
+    "1A4VR9OXkPw6OL_mP6i0bP8CCgKqnyhb7",
+    "1eDVc3IcIOgYRRuUxe6MJ4WCD92-_SJaA",
+    "1V0sr5Qvn__MOjNnr0TFu2i25AV_YCGGj",
+    "1eR2uHJyfTiQu6nXDnGDouI-HuLoMwcYF",
+    "1Dr4Uy315wV0PURfr5Ub1pYXCTB7nhwhH",
+    "1jejo6tNFSkd-2qzuO1B0s0wm7IslPJxp",
+    "1WelDS3eAqpDyYhthTfVoi_YI9e_JFkeu"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2020/2020_JULY.json",
+   "sha256": "a48a83a2effe83a54e5b1f6f4764ce367e46e8967c0709618eae066e2a8ed228",
+   "bytes": 7043,
+   "year": "2020",
+   "drive_file_ids": [
+    "11ALkoJFpG5GUWGO8fxAwhED7zgm7QaI1",
+    "1h6nEmVpF2VZKhFjmD4tD05JAnXJyNCz7",
+    "15qKB_kiNp0aNB4NUKGG2mEiXEUv3ka6t",
+    "1V0rLBGBJU_O_Mnwvxagc1D-pd2PPlm4i",
+    "1Kw33jVRu9p1mL40IO8BSKeSCQKawQZPC",
+    "1h21pG-NfAPo-dCnAli3ek6MSVKPOsEZ0",
+    "1nzBJpeb9GwQFZn4gIJBEOE4OeHp_khBK",
+    "16oOKeuNerKe1c0gyxKASbN9mMvi2Vu2-"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2020/2020_FEBRUARY.json",
+   "sha256": "865bee02f46f82cabeab05bcef5b6ec74831c29258aa75e33f5df1a4aa546929",
+   "bytes": 15330,
+   "year": "2020",
+   "drive_file_ids": [
+    "16SIwkghtj5n2Z0Ml28ew6lOFDGWXjk8N",
+    "1gZlCkmkzwhHP249A4KgLSdktwNEy6NcL",
+    "1i9f07CcOHCMV1xYeBSDnExotNCv4AE33",
+    "1V0rd9K7-pq2GFUF-TZxdBmYBcLIzYGGH",
+    "1wawn67fuCblFh2ftlxt7c20vbKb7AJoq",
+    "1hZnAFFbx2pwWWQvkR41cPZ_1gJaR_Iwf",
+    "15ouvXH7Bnnwp3cs0WtiS5FBYkpATIGvH",
+    "1nXpmp3v7_P3Jab-bzDhWZfAhyA3J05MY"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2020/2020_SEPTEMBER.json",
+   "sha256": "c0d4017feac55c2664d2607aa5a2eb9a90446aecc940bfb2dddf562c051276b8",
+   "bytes": 467130,
+   "year": "2020",
+   "drive_file_ids": [
+    "15a46Q4YD959EOSKorW6eJUTvcyH4Kkix",
+    "1tFhXlbHPY3dAxtG0VKhqVVJodMruKJ3H",
+    "1yzkd9vinL15dBgmhVueAkN0-4BJhMjHC",
+    "1WIc7dkjx2ay04Sbx_y8SHQxPedsrEQ2S",
+    "1oBQT2-_o3yBwqzFgP8_hf8Y7G26pL1pv",
+    "1TB9KojcHPSa886wEeFdLpgGmGxrONP0e",
+    "1XESajObx_g9iOipJa96UyvSi70SE9CTx",
+    "1pjlPs-unUiD2yGyIB2sZ_nCe7rPCmMp0"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2020/2020_AUGUST.json",
+   "sha256": "34441b0eb1b8d7bbf6cceedeb66851824a786a9f45830e0e6c5ee7c373e70fef",
+   "bytes": 414043,
+   "year": "2020",
+   "drive_file_ids": [
+    "1sx8C27a5RnzeDLZSfTe2Ty1BroB9owV0",
+    "15yyibNfic26ioerVGj5SHYJb9wASU69Y",
+    "1RC8QM3OCYsrlvihT5P4UXHfIc3nsgpDa",
+    "1V0tajLeAEHyMnX1ukiO0QWi5zAvg6Pl-",
+    "1UaqcQUjYaNt8AIVoPaV_g7rM8JYjUiwL",
+    "1qqUbjLqKggKnclFaakVBNzg89L6Pc_E1",
+    "1nf671LatWDhHPOTWz9eiHbbEBX1R8is8",
+    "1ed76BN_TtKi8MRtGdATWd1Ppzd1OPlBj"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2020/2020_MAY.json",
+   "sha256": "98a70be5aa73281693e1ef95ce172ca13fd3e8248d88aeb0180d4285a34726ef",
+   "bytes": 51386,
+   "year": "2020",
+   "drive_file_ids": [
+    "120OaU4DqxuoM48bE5Ho8_T_ouBf8LKlH",
+    "1sfy-ahi-_LVOotaAL6-o_DPcsjCMK0rv",
+    "1WVPCpoo3uWU7muScn6Dju2cVFjnog2Ja",
+    "1V4f1p2HQotoRlQokhRlTOmuxaecVdRGI",
+    "1y3CQUTJYl9BsBkVCfTL_-NiWLJrE10SL",
+    "1ZoWkiz36pZ2DKeRtSkeBs-Z0MFp2ejLa",
+    "1FLKJjRtMVflGfMfA4EkBcBLkVOAD6JbI",
+    "1tQqYUSDTd2bcOv7X9ACQKmXvxIC6mIKS"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2020/2020_JANUARY.json",
+   "sha256": "0da3835e7a407b261db0b685aa39d91ff0d93825227c3e7947565a9f82a2cc96",
+   "bytes": 31274,
+   "year": "2020",
+   "drive_file_ids": [
+    "1VSGWGVNVzUkj5ObBdPsWw-RrKi5vKNqc",
+    "1s04h6yP4v8V6otgk5rJ83PyWEmJgoZpC",
+    "1FHXnR-jTKrkb_uVYIMMfYvfTKy-cwj9R",
+    "1V8I_ipWEICBibf0a1FrOZaMaNoOYi94v",
+    "1r0TMPd8DVRqG-ZUFDHBsjEGP3YorLja_",
+    "10BhjggP2t0IC_aikBO2qwYUwNLlz2Ukq",
+    "1-87_PT1oFtdwBE4W-iG5ctuNT8PdQeN7",
+    "1tnQAE_ARXFesS41wu_p0hP3T-TwzY1ez"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2019/2019_AUGUST.json",
+   "sha256": "176f349c883d6f5bbc9aed04a2e3ab9fc76c5a5e0c0e90c9c6c1012c2ff63ed4",
+   "bytes": 281734,
+   "year": "2019",
+   "drive_file_ids": [
+    "1__uOcl6Y650U3gmyxFk6_WIr1xJ9WMaY",
+    "1XGc_DYhIymxf9piVmJCCgSGzuaLjvtqI",
+    "1sGR-Gw49SRWbD1IpqKqR0sSCXwfczKd-",
+    "1ZNanXWPKJzH_Yip3If-ynxkm0oelcPo9",
+    "1A8fQRoBcHOUN1k1ipdhi3rkrd0iJTOW9",
+    "1ZTr_nOb8Zo7VfAlGXYVjQD0xkOm9UcT-",
+    "1ysxEBELDNxyinoc6EW_L6vkSqV4bgpkd",
+    "1gSbD1GN02LN5KOpCEK3rFDit08zCU0Tf"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2019/2019_OCTOBER.json",
+   "sha256": "5ff800b7a9b6f75e5b41ea4e21fb385104fa5aa1bf73259b8abd24df959328a0",
+   "bytes": 371490,
+   "year": "2019",
+   "drive_file_ids": [
+    "1Gs3VQSLNolatA6wYlZSEMxD4liRkoAB3",
+    "10KZ9gEA4Qaob7cbaB-5vzZ64NtadpL_t",
+    "1Y4xUrYAMZ4dlhP-AKBH_aaXoJ6hxySMj",
+    "1Z-O8g-qfDMPaRPsV8PszK5whKdx-hrZm",
+    "1iHthGY4OAl5ERitaICOJsIvaPBuEMv3f",
+    "15hRYCkA-9Oh3fc0oHc06s5XOu5h_JFRt",
+    "1Kkm8NHYO8T-ZpC-NqtuO7k5lWgmmljDx",
+    "1s-vNhpgRIlkpE3X6kp8RpAbV7HZlQBbQ"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2019/2019_SEPTEMBER.json",
+   "sha256": "03f740bfc20561b130dcf25e97f08587c5905b9507a6c41277852c2d147c1689",
+   "bytes": 188163,
+   "year": "2019",
+   "drive_file_ids": [
+    "1UhrlfcAEFN96IF7YExf7juXgZvuXvPHn",
+    "16kPzhp6f276oevd-eay5PTHBfr48wGyV",
+    "1Kvk7hPy6UGn4Gf74i1OoBjZ0xoHDTeO1",
+    "1ZdoVKmFXzSmwHMGc5A8iirhI1g1wzAmw",
+    "1dEBoZS72i88FtfqcsBHqRWk3OgQbdoTL",
+    "1iyjl1vYKIjilq_DI1_gy5Hub-onWkyLQ",
+    "1ok7cwOsCobOSwq61SGO9OzyNVF9u_Yvv",
+    "10CKltRN5w-09wjXOg_fJS7bzM5ltToU7"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2019/2019_JANUARY.json",
+   "sha256": "44914bdd2653883b77d4212ea8e420378fe1f7e5cfd8575c05f6e3f616193497",
+   "bytes": 779408,
+   "year": "2019",
+   "drive_file_ids": [
+    "1MoLHLOIHDl6Q00YqTWuNXIRxuBQ87PAd",
+    "17euTSjnvdsRuEBJbcXzLTHVSrd9m4UWi",
+    "13kk3ruhTctRnDk_V0cit2YjYjhUWDRb3",
+    "1ZWAe1wjjrptQmxY7WCQWudNGzuuS-shb",
+    "1yjkAMkZW-KHZ1Zj1iqHlpBdCn8opOvWK",
+    "119n9bfhaXB6Ae2DFlawGo9xa9VfXq09w",
+    "1HytWSuOMG4JDPZH7yNHzMtR6P542qzFK",
+    "1mk3svEFE0mJBKJTQdXgOCJauFXTvxX8W"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2019/2019_MARCH.json",
+   "sha256": "42144c8464d70b5b630bd6942a8e40c7c35b79a0e0e5b07e9adc76636ab8d7ca",
+   "bytes": 350831,
+   "year": "2019",
+   "drive_file_ids": [
+    "1HYGgN3rV9zHrHl_Ky0eII14AsXYodWuE",
+    "1Lwy9OLiGgL6pg9qGqRKS6jdOyRCiC0gk",
+    "1mEBT2yRQQtd7WawoP3biKXh9B4NS0VOM",
+    "1ZZgnBiDZLLfmPITyD_RMhDe0357ZlMah",
+    "1w_Ue35pLFb18WME-9BeBDRGIMmRZqW3E",
+    "14X_HmeS4wWmHE8W5Fm8ttIaC2UZ8c5Ky",
+    "1YJOZlrB2yj71nhw4wEyMAEA36GhZUdwU",
+    "17wr1gxRJHjrcQG0t_GOp2i1O2KQhw2_L"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2019/2019_MAY.json",
+   "sha256": "ebf17750efe85ef4e1cdd50c08f83e44d49b4de57ef4912b60b07ffdc2527d35",
+   "bytes": 469568,
+   "year": "2019",
+   "drive_file_ids": [
+    "1J7inWPPnQ4WQwpS5c12a0073BczntK4j",
+    "1m1hTTqYrd-a9AUhuXUDhZ3RYTeHR-fQe",
+    "1EAwKT5sRtYSKmTlIYVRYsaUm94tiRFue",
+    "1ZUwcNottwxPDIhRMweLG5pLREQnYhDuq",
+    "1R_2F5dq_kUpdsDcTGyE3UTSZxvw_N4nY",
+    "1liPxcpZciOulFqY2HrnJIanWv3DW2vgn",
+    "1f4VtuvCt8gSDAaSfkXUTLrL2ep-ioEG5",
+    "1oRKFt9RmslyTH2UbkOCrO6f1B7q7h7vN"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2019/2019_JUNE.json",
+   "sha256": "6ccd6238243ba98b6090cbd2c6037d79a3acbb279283c18d0918d24bd6b90cc4",
+   "bytes": 505596,
+   "year": "2019",
+   "drive_file_ids": [
+    "1mfglCF5_wWeiqCMsDysCcb2lqUuc3Xcl",
+    "1f_qJOmKQPKhQqILWIVYr1YRsRTnPo0xb",
+    "1QdJw36LWh8uxa43tNzCjRRysegkheJ2b",
+    "1ZKvXsnzX6mIs95moPqOlU4_iNHGSpKtD",
+    "1EgtAhUH2uns_yBr_aP-zzuXxPn6MvHdi",
+    "1nYq8j1vdKcHElH8qCVhVewzNYpsGkFrN",
+    "18KaaoT6eDX3xWNL438niK43KSzJtuhAz",
+    "1Nz0dzmcGHYdmfYBKRvxEYsfSNxiI11Lm"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2019/2019_APRIL.json",
+   "sha256": "8f7fc1243c917e3477123b0ccd53e5bb4da4b3faf9b7626c964407c0b81c9450",
+   "bytes": 576090,
+   "year": "2019",
+   "drive_file_ids": [
+    "1OBMti5tN-jQLgKMICAwuy_C1uCzjVbRA",
+    "12jAYNPjMKCybCl-a5lvsbshN2L_uStXS",
+    "1Wzki_IR_QazX0nam59pVo368G2tG2HN7",
+    "1ZFH6b0IXqwhHcxDgk6v6GbclWV8saMkh",
+    "1XNtckUTlqAcWbJJAMc-362Q4Q-Fkgew-",
+    "17Pm_dFWes8C6aX9JkbiNaVBWTXPY5t8F",
+    "151c62et1bq3wOt4BlH8pRAF_wECurUEz",
+    "1Eic7KI2Y-EtUh-QtsYCfjFuF4WQyebL4"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2019/2019_JULY.json",
+   "sha256": "2d9d98a199b9e1fd093ebc4c7839a3ab1d41ed8e4e9e270c6ac71d6e4fa8434e",
+   "bytes": 514421,
+   "year": "2019",
+   "drive_file_ids": [
+    "16N2JTpzcj_m1mfTQr_vNDwEP4mK7mJPZ",
+    "1pufNdiG27J5aVaWayrfkfNxh5kw8hMpr",
+    "1DN41sYgdZ82uAWJ1HWVxpwa3gzfl6M5H",
+    "1ZEnDsgTqQLEgyjQE3vNOHQ05UXHjSQCz",
+    "1DkjUByf8vZpQOlHMkIevlD-vS0qwd5ZQ",
+    "1aQj1bBf5wew3tdGmmuD_2PRDQrWuHZo3",
+    "1fx5sdHkZ4gA75lmeftBtacezBrQL_SQn",
+    "1GP2tKdSNfo6LMtfBjiS84-wqQ-XHT4zm"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2019/2019_FEBRUARY.json",
+   "sha256": "bdcb9d7172edbf0b0a9abba5620630f8a3bfef7a4b31539ff7ba64cccef6cdb5",
+   "bytes": 1046661,
+   "year": "2019",
+   "drive_file_ids": [
+    "1Hied6qvQxltW4j7Dufks9Gld-nn7lzqh",
+    "1HzRNkO41EMxbPBS8waMos-EuK4ou8Xtq",
+    "17jkE-qxk4_2UrqkqCeFr3Pd-gD3bWlor",
+    "1ZbxLMenYYowg0HkNB_Xbn6L-OZWEfFEg",
+    "14527N55qcY2TZR6EeR36b8xlR6Ty1sn8",
+    "146AGo83oJnP_hB8E4XxWOT_66seDNeoU",
+    "1AkqZHoz06Y8nBljQyofUOK86iAITXBHR",
+    "1b7yvDif-7thh9zfJS_RDpMb8tapxCiZi"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2019/2019_DECEMBER.json",
+   "sha256": "fd89db9f33cf818b6a337b5ebd63d7a632f1e624e51b078ebb2bd7061a8b21ad",
+   "bytes": 138380,
+   "year": "2019",
+   "drive_file_ids": [
+    "1SK2BUMZhClST3UDgsaVHrYp6VrUV3yeA",
+    "1tnV1NfMo8F0PRVwQZT-IE7rM-IB0q-Fd",
+    "12n4AaaAkvx38QfXGeQFG4bKrwVZND2Uf",
+    "1YxeMDZfYAazGpVAWzPemzQNvaYREnJBE",
+    "1PIw9pix5NAV_IwfK7bM0YwfRlqpuiOqZ",
+    "1XgB_3fXTuF-jF8ew91vLmOCedt5gDsph",
+    "1mszos9BlDuCb__P3J49pkChRlFChsWQZ",
+    "1N-IZD-58QYzSvr3Cu32xDNeuRENtIlXP"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2019/2019_NOVEMBER.json",
+   "sha256": "aca4a581cb65670bbee12f853694de58afc7030b9774972e8277d12fb84bd2ae",
+   "bytes": 198837,
+   "year": "2019",
+   "drive_file_ids": [
+    "17jFRiTG6eg-eOfNNFfg2L6p6X1Okc4rF",
+    "1jjsu0mgrbN7ijgDe7bBdDqWD2nWGv2Gb",
+    "1tIFEWTfoWZXbDB327cewiFYBhL8mJiH3",
+    "1Z0hPLs1Pu9Tlubdpk4Xg2yM-Eenc2lzZ",
+    "1kNnQX-kbijrH0UQfXxsKG-aKJkx3xfFx",
+    "1by6QYPDm73aTRUh2oj73kxB-J-KreXMp",
+    "1RLfBc4SXL4M4xOhtQvW-WW9-Cjp3OL1x",
+    "18-LRG8EdKxLhnGjTXw-8DJ5hdIO5ROmI"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2015/2015_AUGUST.json",
+   "sha256": "cd139fa1fc2a1e70ae026e15f0edd06ce3d7b99352def2274415f99992e589da",
+   "bytes": 6560,
+   "year": "2015",
+   "drive_file_ids": [
+    "1DKDjgk_TCJdtz0wX5KDiBEet3cSHBoLR",
+    "1pB_o8GByCs0P1W3B87OflS0DC_ytu5rV",
+    "1u1VigOworCuIZ-D0vg5LxqH0aFlzRADP",
+    "1PaYKOz9zs0paSj4Zn7z7hR4wR5iYn3wy",
+    "1rgSNJxb6Hh6GtJJfcsLpz1-OY94sqsk-",
+    "1ay-Yct7ay8l1aLhsL-TsaI5llCiLsf_a",
+    "1WSZA7rzu4GkFUjUrCLGsS7grhase2oNf",
+    "1PL1-Y7SkboxtHv972IdIjdoW3UbfbqYq"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2015/2015_JUNE.json",
+   "sha256": "6a49d5bfbb28f5f526bd0bc56f5511506aa34bb4ff278c51d19cdc85fecc6b33",
+   "bytes": 18780,
+   "year": "2015",
+   "drive_file_ids": [
+    "1_L5fe7Qy9fckfyErw1XSPO6R5d-bdJ5H",
+    "1yITHDlUAu7gCPB_21etErObOKvZq6WR7",
+    "1WYWUlA3wOTf-GZzXEHw9NwRMgtoWz1Jd",
+    "1PfipMv6MFqu0V1lPgzFuLvrRJlSN7KlN",
+    "1tF6WCOfzAK0_E2REPuj7FYS_pynqSf2q",
+    "1jz0gyox64YMuz-VZVQ3wNQQ4FAwEl0oe",
+    "1nwbvQCBxyE8Ciy_IIlOtp8oyNkJGmE4u",
+    "19YZMXZxqRYE-41YM6yeWmXvesNJT6DTD"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2015/2015_MAY.json",
+   "sha256": "ff8b2082733de4509696a50d690d7f65a540cb177ee616c21beb4c3cb3d1e47d",
+   "bytes": 41907,
+   "year": "2015",
+   "drive_file_ids": [
+    "1lnHRf2I5Di83qXb-gizvzVHfhdj1GRNW",
+    "1MKxhgpJywHe4Mtyq3DHqNmrWqA3dr0ro",
+    "15qu4JKZxrq7vjGOgLZYCIQfUh-bxDFuy",
+    "1REHluiF6OfFsoOEReNnFp1Ul0N1Qmcjz",
+    "1xcz5y9yD36DcqNEuXxxu5tXD0c8RK22X",
+    "1hOtb2Itf5Lgp2zF5yAWWts0xCS6-AzV_",
+    "18u3EQyK8YwuqEFGblOCGEwrPzmj_Fqrf",
+    "1g_H0_-oXIlgtjGKNIVWAbwY9erUx7u55"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2015/2015_FEBRUARY.json",
+   "sha256": "727041104ce9e1a342ec6fe0777d635c29d3ff93fcbb5c028b173abb43714f6c",
+   "bytes": 5143,
+   "year": "2015",
+   "drive_file_ids": [
+    "1sHn8IRkdYqtqd1lUnSycQd_U7rKsfBMq",
+    "1-jLs3sVClTL-JVug61aHLLHSAEd4WezL",
+    "1dB3rtXmyLlIXbGh_wBtlzpxaFkil-hIC",
+    "1SJ84-BtFE9zN7reoQjbcKvkYruHWQJEL",
+    "1sW2tK_aE6EWCFfsg-VhIkrEfWD1N2PkY",
+    "1o5laQD_A86sQYQ-DMDUU41cAzaBz4Lst",
+    "1Xil5KHNO803lQYrVOqkJaiEg6UJzceYo",
+    "1AsqEh6iGdiFmQxtB0FlE-UnyJGcuyB91"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2015/2015_JULY.json",
+   "sha256": "a797e8f02ad9a16ca62db37b6208fccc4de7d83b42ac67f0aa353f0860e4badc",
+   "bytes": 24115,
+   "year": "2015",
+   "drive_file_ids": [
+    "1BwyxhdcVD5hSLXd5uRXEEYCMscssDBNi",
+    "1cb3eMbzekl1HpyhYX4MQ6Si1Vo9QSWf5",
+    "1tpWYyIKr4-LqTQqNgrC9RxE5JOFm2oJg",
+    "1RVWjdiOtBsngz7N6ivVI0dOILufLSzHL",
+    "1GnpDOiLSMVevKtRgbcuycKx0E2FrDcCH",
+    "1ABcaTKKmxqOJ5nRV8Z2UQY8cDmFBY-K0",
+    "16TZZiIrt1o3hCjf2JDUkENUfcQ5A6qKW",
+    "1bkNVl3sQubUavjUTaSKEEsrJ4FBVqh5C"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2015/2015_JANUARY.json",
+   "sha256": "fd3d02e913d22166b49132b3d951e96b8d485a151ff8322ef4f2d5305965b024",
+   "bytes": 3864,
+   "year": "2015",
+   "drive_file_ids": [
+    "1LlOpItAc3Ds-iqIqvOOLgtTzOco7lw3-",
+    "1hb32cP4QCLuWWQW0cQ_GKV4Qym45Dz-B",
+    "1IFQDEA7mwm9Znw6dmD16eHmbWso7xpzs",
+    "1P_K15UHZnmlwPK5Yd4Aaty-I2wur2Tht",
+    "13kXKPIzOyaiCLysmamYpQRXT6p62s2WZ",
+    "1bVCjuKkF-XS7o4qC2Na-Cg9UwCZ-azxG",
+    "10SHF8hyw4a22C5dQHYKVrs82WFHe3Y3Y",
+    "1DzU4PTyXGkDhXykIPHOGBF0ABfKoxIcf"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2015/2015_APRIL.json",
+   "sha256": "653ac640639795a706f405ac202bae74d53833e781feb0af57c4cf1f1c56619f",
+   "bytes": 7157,
+   "year": "2015",
+   "drive_file_ids": [
+    "1jrVaBHM3Pg8dh-9Lf6rxoMfxbQ0j-Wqi",
+    "17IpvO_2fZ78Vp742_m-0Dbl02LMx-Z6i",
+    "1ELPWDrv9O0jKC6-HuEHx1V7eJcOKp2lM",
+    "1RQ0kncCZHJc1SyM-599eftYZfQ1U2ydT",
+    "1SjRyy55C0H09BTtVxu0WIH5NUOrIxErn",
+    "1gZ9Sq7s_VC8zP7F0Dkcq4Tbm11oRKOHG",
+    "1OwBhKY2_5AxVSmLQohqXjN47ViF5zYbn",
+    "1iq2teY_LCOWuXdMYLfQE4pDlKf-pNfVE"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2015/2015_MARCH.json",
+   "sha256": "87921767a10269517adb3287267233a71ade5684048ffce2af86a602b94df94a",
+   "bytes": 15891,
+   "year": "2015",
+   "drive_file_ids": [
+    "1yz8SjW0rwUCRBHOm2gODNz5u-5_P-H9k",
+    "1EBO8QrHHnBHWdqmVV4-CVhTQNsuWXlRr",
+    "1SAX3Xfce1JaOMKCLAbOFAQuuKtBY53Kh",
+    "1RCi-vfMgYSbXz4mYgxn2Nhp51PG2_6b2",
+    "1sPyJRs_g8SIVDoV3q8NqxZab9aC_CZSf",
+    "1rq7Ld06cXHxsm9DVjV9SbzZVXSyygD1V",
+    "1wSYw3yh447giPUXteleArfFeCPjgjkva",
+    "1YTW4d25IzTqFXOoAt9ebywn2rIwuOWKo"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2016/2016_OCTOBER.json",
+   "sha256": "5d3a46fd7be6ea7fc958aae19aceb3dacfe7b327761c859db7d8d7cefbb7e8e9",
+   "bytes": 557755,
+   "year": "2016",
+   "drive_file_ids": [
+    "1DV17wq1UoctuI5lkvuW99Sg_Dg37EdUf",
+    "1lWmNPdus-s_2d71PZo9YYXkc-iHc3_tO",
+    "1QdMV4RhgcVTe7_GRRcc0q3_dFEtnZvn0",
+    "1UK41GuYDPVlpWuhEh08E0jgs04GfFz5Z",
+    "1hSElL_YlXbYCpGhUqa2w0PdqHQM6VmqN",
+    "1-A63Cb_8CWkWfjGfQ7Q5SANTTdhryPBG",
+    "1wOseCIVNZFXn6wB9WXrp2g327Jcu7RQG",
+    "1vYoKZkR3RlkGEJfW9bSZpPZpXLaMB6l4"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2016/2016_JANUARY.json",
+   "sha256": "6bec92907a93dd40ff89e5a5a2d6631df2c7eb7b43dd727789eb910e017c9370",
+   "bytes": 133262,
+   "year": "2016",
+   "drive_file_ids": [
+    "1030c_Q35OW_JIZIOry_VDmAJLJS21PFm",
+    "1BCiE5xsLdiebkdU6tQnST61MsGbTXHZu",
+    "1p2owWnKhWt-7bSIqFi-ddSpNSWC4M86f",
+    "1SFGVPwF-sgEfdC9MYagM-T5RlWgSrq9U",
+    "1jDRFJj2KI-ZR9RPCR0DJEC1cSvBt99R4",
+    "19KUZVTCUA3sq_kx3bPZjXN6mmrAJj6sg",
+    "1lzagQUAc29chB8IRwvbsZ7XGkZH23YYe",
+    "1veaDGj_fAiq0V_qpJlNryg1Pau3_3c00"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2016/2016_AUGUST.json",
+   "sha256": "ae63a8fe7382b0ef9e0e8419d7b101d1336adf7b9a814a4e497862ce2a8e95c8",
+   "bytes": 433790,
+   "year": "2016",
+   "drive_file_ids": [
+    "1vN2TKuWXzLbJBdlfSqKzi0En3NcgIKpq",
+    "1toZcpebJkrI90d6e-CeKOKEP9-f7b0C9",
+    "1x780bSHPUbTr_uJwtQkPPu76xxEGItH8",
+    "1UGJvcNAwIrisuW_Jplm2gf5ipixT26y6",
+    "1xm6B4Zb4lRhpjSksSwvU0QL3M2GzFy-p",
+    "1gNDQuPVj6ISFmuwz-ZeYstv6KnRd753K",
+    "1v9BQD4Ffhmq8DOUSZcZ-Ug2MkDkAJa4C",
+    "1T95Z9rz5ncMvXISnPZDrTqNVW0vPl5jC"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2016/2016_DECEMBER.json",
+   "sha256": "aee29a8525ed60c539cb70a54f62c9f70136fc0ea78d9d5928984b1db4fbea1a",
+   "bytes": 661111,
+   "year": "2016",
+   "drive_file_ids": [
+    "1BwTi8bwXWakqgi8Ir-mPcHGpQsWkzDIL",
+    "1okVz8G9c363W1Ej147VzVF9pwVCEYtSZ",
+    "1AGXwmXL-Eq_bHuAnm8Qb4TxRJDTuMmZ9",
+    "1U60SloplRzUwAIOYGkY_9cf0ledN5M6a",
+    "1APcV3KO3QRP4CKlxUXb7Bgu_MH09u7sN",
+    "1FPquEgWw0tjkBplKl5Or-9J3e34wyl-V",
+    "1uQg7KS0CkSLBVXGIpQCPVSMhCDEGj39L",
+    "1qk9_wt6Si_UQCnTOOghlD0i5N3nY3wJl"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2016/2016_NOVEMBER.json",
+   "sha256": "202c283fab95f182c2c7b9ceb142bc86ce5c981b317bd37a52defe43b4865115",
+   "bytes": 283757,
+   "year": "2016",
+   "drive_file_ids": [
+    "1alOgHjBzAczfh_fjpW9fRYO21HVUb7OE",
+    "1NspV5P1f4I7daR_2NwcUNMMmABQ5dKJi",
+    "1n5Imf63K81SOEs_1DkeQ5uh1tJ2uxApu",
+    "1UJIeoeSPPxT7QKCooISKZC7TTUsxBQUc",
+    "17MnfTPzfxPS2_FhmR-I9xJRukdr0iC0d",
+    "1ftpEpNYKJdICyizSTZNdRFt9bOiCWFXQ",
+    "1TCHWrm-09SLNS2GpHihknjClQnM6W5fu",
+    "1KDM1p-BQPnyFVGMKyrSJqaJ_mmpc6WUK"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2016/2016_SEPTEMBER.json",
+   "sha256": "1b98304aa4033060fff9fe70fd999aaca12fd8b8d01d8f121f0f73ac1aa2b171",
+   "bytes": 382529,
+   "year": "2016",
+   "drive_file_ids": [
+    "1MGAbqZ4swSsvXtbHePw82ge9wFfWqKRy",
+    "1cRp4Bx6O6uM8_NrerGJbCHwh9ctKsGD5",
+    "1ZLOx1Db20Y76_qteseNk-ooYLP5Cd86I",
+    "1U4R_0wQMBS_e0GCCr6fZOytkPmMGK9Jx",
+    "13J6bl4Bx-ivA95YI64_SIBuJnkjv1_OL",
+    "1muWjtzI57q5Md_EozYP7d1aDmvgkSINh",
+    "1djKqTPwPdswTXNg46wSSxJd0g-705D1n",
+    "1g0eXZk30YVoyccdctrl8Zg2weesHdPJD"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2016/2016_FEBRUARY.json",
+   "sha256": "da47c1ab11666dbf10efe1d017eb433522f55b5f0593833f79df190b3a5b1ca2",
+   "bytes": 1818,
+   "year": "2016",
+   "drive_file_ids": [
+    "108px3nGMKdHKc6M9uAIuDR3Ed88nlYE0",
+    "1smJIeS2Q83sD7gP6lb5fTESOOJbPrSzk",
+    "1L5T5vMTLuGS92duLvciRk5t_Zh_73fIo",
+    "1RBvo2M6RxSzFoTamgrU2Cm5FsrDL2bmG",
+    "18557FLlhrBFeLnyzGd30aID2Kbv-haq9",
+    "12FFElW8c-HQxwo4u8kqkalgNzMIqfiHh",
+    "1YmRCAMh202OnuKa4IExxZpCNYNObqeTb",
+    "1kbpX-zABU1HKCWyaK6RaqmPzuCMdEnOv"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2017/2017_AUGUST.json",
+   "sha256": "1e50194d3fb784904e5caffd20e6e94a0fd2f1e82c356ffc39075241f715bb74",
+   "bytes": 903662,
+   "year": "2017",
+   "drive_file_ids": [
+    "1DJqgeykqQLuN19a6CK21dyCOpWdBAZaL",
+    "1Fxzjbun2pXc7mc4t32FCEnvtpB9YWkoU",
+    "1qxnoKLwIzsY1mHFRZBOLysTaZYIA3JfI",
+    "1VXCwL83jEJ0BnA6Tj4Kf08UtHYRNJGI4",
+    "1WYKsc7EPR-pPwlWWchCnr6ViWoybL4FE",
+    "1p-ZuqM45RE8U9381zSrEh8RcpQj-GPqF",
+    "1sjpyy_PDBSTbKRAZezIMWBa2crwV1fGz",
+    "1tJStdPES_iG1hcbbX2ulpaetYNqC26xH"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2017/2017_JUNE.json",
+   "sha256": "e32127d8da0608374bab16b4828cb6e7f5a02930ce0b4ab6a79dd6bad984e28d",
+   "bytes": 741903,
+   "year": "2017",
+   "drive_file_ids": [
+    "1MCLGUTkZ1GzmuQGm95gUKveOCAxVIHT9",
+    "1I_Zc0KNJ0JleGKWqyhtaBliHWoJV_qsC",
+    "1nQoUDcpPUWX78d375IQWfBTKDF_RVZbk",
+    "1VA04tPeklQlLVeeB29JS7BqFztgnBVCP",
+    "1msUsZGXDbVf-TAzAICLHisQL9qQmbIBH",
+    "11bWQN4aA712_Wdw0sFt5arD6Uya9jsQX",
+    "1e4OJ_rRdEEoBZnsnLQMBjdEA5Kj3wNw6",
+    "1xDlKXinrIRh_m0XWcqlVK7cy3lUAnW3r"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2017/2017_SEPTEMBER.json",
+   "sha256": "b2b0e2c593ee2124659634bd75658aeecbfece2de49894089b260dabf4eb9802",
+   "bytes": 757158,
+   "year": "2017",
+   "drive_file_ids": [
+    "1MpDnQq0EMMSN1oPeAEaJinZLTB7Zf-kG",
+    "13bq6vvVvNyxuNS4RAvwf7RD2DiaWYAnT",
+    "1HUZrNifU4bofQ78Nn05OwMsR4lzD_Q36",
+    "1VZFiJY2PbajRjkhETAIWDNSrG45lvOiZ",
+    "1DbUg89mJaYfCXqhfOQb7AnmnQoIeLWMb",
+    "1789Q4qCWIDr7JeLnCQ64p8YteOXhPL3k",
+    "1xDQjc5g5kqdPbdpN-dT6NHh_AXkiCKgV",
+    "1_NFCR20BNK69b2pNBMP5r_5pT71Zb-I5"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2017/2017_OCTOBER.json",
+   "sha256": "acf19846cdae96b2dc67440465cd9f89fdabb07cb09e179960204243bdbfa3e9",
+   "bytes": 1379249,
+   "year": "2017",
+   "drive_file_ids": [
+    "1_TdQeo8lz3FekfJ_gUYjAF0KCSE-P14H",
+    "1U3jSl1h0G9Ud-lt2SxbVdH57v9Y46Hly",
+    "1q5h59Bp710e_VEbZhY39mKBLtnmn8aeC",
+    "1VZMxgiARMQq0YKrJXOJAtv8neFWcySzt",
+    "1kHXgYxcoNFkuQrMCSmmr21qoXDjQJ2Vb",
+    "1wrWkUHeQV2yhPZKSKrLCGae6OQs5Aq7l",
+    "1l8cZoM0lddXJyCTZU1YCDR9mzmYmeTsF",
+    "1tGxN_5d1hiU-MEfBCWgZKR-m6S7nBIFx"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2017/2017_DECEMBER.json",
+   "sha256": "a5087d6c58335b752a0b6a6ee4b049813470d95ec731f5be3b37af2f28a2f3ad",
+   "bytes": 616268,
+   "year": "2017",
+   "drive_file_ids": [
+    "1gwHB3HiIKpctdIedGsTnteTS7Ewomw2Y",
+    "1YOPVbM7rRQxzPb6qYf0C1qtalb1s--oO",
+    "1kvTII6Y9O7lYg9J_oCEMNT75iD3-nBC4",
+    "1VQrdPpztJyRBsS7DPlPelxPvOSGzD8z_",
+    "14-BNUvWm0Lt8D2MpPyTnStz5cAR65nNm",
+    "14kkjwRdpxu7i8m6gksn22KBOuhvwabl9",
+    "1MqQeCPDHH5mYBLD8GDBbFXZa0LOMivNh",
+    "1-4x2FJY76g-vYTsnArKp5GlgRHzgCDhJ"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2017/2017_JANUARY.json",
+   "sha256": "c1da9041db95a4b07b6cd90b5bcdef9c6e4dbedfaefe7f79354e882c8892c3c9",
+   "bytes": 159836,
+   "year": "2017",
+   "drive_file_ids": [
+    "1rOPjLhrmgh5pN5pnV4bGeFOiiX4lu-k3",
+    "1_vBwVW8rstRBnHXP7gOubM8jCmEWkYOa",
+    "1ybdIUWjT-ERVzaQdlHTFgWg9biqhcXqg",
+    "1V9g6At_AC-GmkaQAFq11qlWeh4I_N2dY",
+    "1D_lKtJAxc9ZSg6Ztx_xmScpRTj99I6GT",
+    "1LJ8axrGhVpH3whm2jCuWOP-fdkFZ-qyV",
+    "1gHlv-qhvcw9zov2lj1xDHF7lVlk-rpJo",
+    "1rqzSTHGDFV29bI3ehg6gHxpnxY46BIIR"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2017/2017_JULY.json",
+   "sha256": "ede7daf5a4b2b5cdc30a648b410b64dc88260a6a0ba0a25f19190b2944edff6a",
+   "bytes": 457987,
+   "year": "2017",
+   "drive_file_ids": [
+    "1WyK4zP5v2hOEt-5SNuRTRIzpDwrZUShl",
+    "1SaguRqKuva4f7PYxdsNcVgaFZ9PccgyX",
+    "1-Ho7jTxyMq0mV3RVi6OaG3qYQZ8lz4-S",
+    "1VOkPtN4OVlFOfi_pPuaTRztc_LGRJZx6",
+    "1C3MCjkN-mYplx2FfvPMduyvUsuwAeg3t",
+    "1-x9u3oYgH7WVbwRSYwHbgl0g8FKEWE2E",
+    "1CBt3ybWYpWMX_u9yazo7bPeKcZvjYBrb",
+    "1GoSmJkF1VTouMNRaT-Qw9gKhof6FNnwZ"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2017/2017_MAY.json",
+   "sha256": "94d36f7cdcf4275fb08b6bba9bf2ca29ec1336a375f383ff6b331cc46e37149b",
+   "bytes": 545288,
+   "year": "2017",
+   "drive_file_ids": [
+    "18zVc6ui25KsY2Vfpji0a7A3r24PRpaEQ",
+    "1yv01qWzWqg-B6hjk-r_jaV_iNfjOCMkq",
+    "1837wyebulYUem-pMdhYg9qAbPgMzrWh7",
+    "1UMB7CNV1rY_fWeXLSX-tNk7y80rY-fis",
+    "1xOVcA4qlu_M9uR9oEBto-N6vQPWwiNU0",
+    "1MTmXfjM8duYBXctowmnfB8j_sulUSVIM",
+    "1OggZAyPKKlEV8fh99dhxH906-fu1P9Tp",
+    "1uGm_qQ8AZsevxanpZqK0V3OuC8ziOe8B"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2017/2017_NOVEMBER.json",
+   "sha256": "02424a7db2e9d5e02c282e952e7a687453b6a5bfc5b5d96a88bf4c9eeaff0d7a",
+   "bytes": 843569,
+   "year": "2017",
+   "drive_file_ids": [
+    "1Ti3WiD-60SSZNVPFOQrOXvrKmTvNV02J",
+    "1kLXxs-N6W8nsUg-96aVwUzxI4t7TujkM",
+    "1_jwJL5uGN85OFc9NNeFMXNn9JDAR9Tw_",
+    "1VIvz3HSiOgLr-IgfTHAhBfDt6nhM01f-",
+    "1Q6EP2X_Q-Q-uNV_sWLXw_erSyuvLvzIY",
+    "1nu3N_5t7M1RtnNpW9q3X0j7ckrcHEDHI",
+    "1HZFzNKy5eyUJcN4lmtpiAwwF_zLKWUaK",
+    "1VGlyTnRBAdaq4st3BRj_7-FKgcEvKTBN"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2018/2018_AUGUST.json",
+   "sha256": "538c6e47fe399f72cc9ccb41650571c1fa7e7f0a45f4a4ef791b95b61502328d",
+   "bytes": 897780,
+   "year": "2018",
+   "drive_file_ids": [
+    "1DtXJab-CoVAmySplfiZg1yG8TzMOhLBH",
+    "1PModaVTEhHGMZr_I0VPPLA_Jc021BE5u",
+    "14Lchsd7Zj2OIk3AkkAOLaOfeNKKzK1SR",
+    "1TNTn0hJSgo0LCt81bqx4L-iUK2BQY2Vn",
+    "1s-4FCywVBWneNOhGUOw2dbKBbFqKnDLB",
+    "1cxFcS6Mrf_aYQYGOUXrV6WlolePewoKQ",
+    "1I0cEPfX-cXYamwy5tCdV8ezue46LQa_L",
+    "1jpHyeJ1BGpC_6YCMw-x5ouT9EirrhZnl"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2018/2018_APRIL.json",
+   "sha256": "f72054c56a68223b950b4a09dc976733996de2e838fce4e0e9153f4550f13635",
+   "bytes": 551972,
+   "year": "2018",
+   "drive_file_ids": [
+    "1hHz6IsCGEG2l5hisLqFLGCC5zvwYVz8l",
+    "1fK-vPjMgGqvzbNa2QnCRDYY2JsCj-Bk8",
+    "17IqyiV5b1eXmccmcOpvvcJEdXaieChWs",
+    "1TtrzbPeC8rrnMwtx4i_yHcrPjxzzKv8k",
+    "1ncO-hZzje1oKwLpE8guFjWTw3wuATI2C",
+    "1Va_ecSzTYYt0F6DByplsa9p5flDZzrCq",
+    "1_d2InZCDgizJlxs-yoXu_PU-_88m1iYE",
+    "16QGV5q-1qnru1_rdVuEA9UQANZ5kMksn"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2018/2018_DECEMBER.json",
+   "sha256": "332f7c482a5965dfda8702ebba028d880b4e062870588191efeb8b284c58de8d",
+   "bytes": 656111,
+   "year": "2018",
+   "drive_file_ids": [
+    "189AYbt8LlsqFsvtNFzYBvBtC3LEmP4Sz",
+    "1R0rUB_c4iwmWKXC1b03iRcfsr81T-TQ8",
+    "1lbZchNGyGJl1rM_ZCERVQ22jGiDKXwK2",
+    "1TVm3sZnIuxqDiXZBvuR7zRj4S2AOGOEA",
+    "1sEqYKKyhfEGMIyzUr6dp3dhtE77xBcFU",
+    "1R2vEHf-BWwkDHvvIzB69_xoDbQTDHiWp",
+    "1kZhhquijzTdah4Vrrh8Ph7R_sDNfRquK",
+    "1CWlGWdRGq2JpZSDjcLxcGxvYmdKcvUY7"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2018/2018_FEBRUARY.json",
+   "sha256": "53b9e0ea466db319ad8f51af101eeecc0c55cb5aa2a4cea05524cbee0d90cf72",
+   "bytes": 530106,
+   "year": "2018",
+   "drive_file_ids": [
+    "1rvNKIASZcW69kPRdOzq0PITe9g6h7P1I",
+    "1FnEXh_Q7lT88Eal_8I-TLmSsO7j2KG9X",
+    "1Mpzu3-MAdn1WZ7dTCFjzTJBLgWAe3DqB",
+    "1TwgCnMrJXBfvh4WOQd9dQRgNPe1Bffgz",
+    "1ipx7ujqrHKtLJgyKq3yt1ii3nMIBHkI4",
+    "1qhM52JYfnekJjtYBAKS6s0YXrbdsakR3",
+    "170P5VH1Nu_X-KKCNrTtivYH1Ggq6ktVn",
+    "1_3EzBmz-THDxtI3lBh-eTZvjezAuDK7K"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2018/2018_MARCH.json",
+   "sha256": "51227bc5ec17b345a62bfdeeff9fc8db281d8e704cd3875941509fbb150dbd05",
+   "bytes": 563735,
+   "year": "2018",
+   "drive_file_ids": [
+    "1fzDP6QwCQkqrrdOUAy333kMu9DYhJG0g",
+    "1pX6CMF81prPkY-MYDQatty2PpXK0A7f0",
+    "1DQc5DKR9zu5UDADMw6mhrCAIyqnVYlq9",
+    "1Tj8EiTqGUPg7VlJ_HehHcF6Zhii_4m-3",
+    "12MAtnngPub9ZRRzgbUYLUhKMZCvXLL_N",
+    "1vLCtP9PMZgntLGEKTutqCRQuaQr197MV",
+    "1gEBiCuvu4nmgg-uUigdQnnqDucK-9xPK",
+    "1sfEltc7T_5YIDpY4UHNwqRD-VTCbxgtG"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2018/2018_OCTOBER.json",
+   "sha256": "8cf61ae2625cfc5599b74a2aba616870c42a8b842609b8fd3557b41bef3c7758",
+   "bytes": 1166825,
+   "year": "2018",
+   "drive_file_ids": [
+    "1T1qSCE60p_ZPXHqGq5zOvLUs6bjxhWWP",
+    "1I1EdGZ30DgCgUSYLPBDLqnl0kaHILc0_",
+    "13D02-2ZqbGS9wln_8ZVbdKqcjpXmNl54",
+    "1V-KZUmq_UobaGIeH7tW6YayEqM1Rp71G",
+    "1I_3VtHq8CDC4zkeIug1r5Gtb8wEuag2i",
+    "1LXqA2a2eF5nFczYZerA7PcSPUXlVR3n2",
+    "1v1L333DUw0yCOimIY3zhaDkVNuy3GB4X",
+    "1UGXTPSk4W7SDt6vjsk598z6EhjCYY4w0"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2018/2018_JULY.json",
+   "sha256": "b4a1110b526abb1bdd50e6d6c399bb48d71503ae0c75f9eeaffbdd262ba9d49f",
+   "bytes": 654970,
+   "year": "2018",
+   "drive_file_ids": [
+    "1Ak95e93njrioMESF4CvjO1jVHlmpmphb",
+    "1Tmsyo-STTGUUUBo4OSKVzJg9iU1g8pLf",
+    "1DLPJgvskYS_aNFPuVp7FEP4QCeL6AIJM",
+    "1TyGe3PgcbKzu0d-fWIgyw019Y_6dBF2E",
+    "1r7sw6LTMNeZOcbIyzbYfpgWmoE1CNfZF",
+    "1V89Kg7crkxfL8h1drihsPUrsKJ-oOX2Q",
+    "1kdLEh1kQy7FM_jcJX820LsMoxb8fuTBE",
+    "1jE-1KvZlIDgpaW7LPF7jd2iybOeMlPE-"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2018/2018_JUNE.json",
+   "sha256": "d5a8c02e3d4b40db628426e253e9c9f499326d1f768c33f2501332041d31e865",
+   "bytes": 689532,
+   "year": "2018",
+   "drive_file_ids": [
+    "1RQtxYenih3jwiXNfSHngFr4HYW5NYc_v",
+    "1FQd5sIXmw6rK0XuIj_mOSp6KhfnenWTZ",
+    "1yqOlDIEE5yIiW5BI65itIeVUnImwWO9E",
+    "1TtygHLOeMY9bVbVUolSrypyIkoJTBKkq",
+    "1ccKBwJcyUpxMe-1wWf0lTyqDjY2QEoKC",
+    "1O3XDAlMY0EmtZF8l3zm6fpsHVZpUGoXx",
+    "1-BhNit-LnCb6cdt-DuCX9E6tgy6RpnIe",
+    "1vic83JV1HB3YXBC3sGBVn3jwyJj1nPe7"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2018/2018_MAY.json",
+   "sha256": "4cea7e4cfaf22302139a9c20e2ada072647daca4cf3a2dca1d2ef782cd009d36",
+   "bytes": 835320,
+   "year": "2018",
+   "drive_file_ids": [
+    "15FdGafMwX13lu8dBcWADux4Y4VcBbB12",
+    "11m-OXAkFADT0IzMK6aWkAvFUPVdMrgss",
+    "1p2ze9pe3sRGYUgYwKBTZiqDmd4ZNKMiS",
+    "1TU-efzNU3E2n600gQforGdKoGoaFl7Up",
+    "1_2VBQQGRnwOlZ7jwj9XFdquCD3xGXtIO",
+    "1ZCx-y3FZizkW_Q0slQ7kI6nStMrqcZOf",
+    "1iqCSJ7ww3E92BpQfBMEEOl9MvSse_gXB",
+    "1bA6iQdsH5-ngDTLGGj7a1G4IXj1PEroP"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2018/2018_SEPTEMBER.json",
+   "sha256": "aaa249421dee00bae2c5bd27ba32004a6541cfab7b46630a82879d236e6737ad",
+   "bytes": 463127,
+   "year": "2018",
+   "drive_file_ids": [
+    "1Ni4lHZGnaVhyimFKlRsLSlvQtdml4fH5",
+    "1eWsx4uWlYTKSobf74riRt6aIKaHKxFAF",
+    "1FQ2XkOVqOeS8PFQdkU_n6zeuOaMr2cBD",
+    "1TurlGIpmbZh9bmvGHWUewLgdMBmVYzDN",
+    "1yffvVLD9BrI1yBUR5mE0r_u4yKws1mwO",
+    "1hGkYX1XKNr_9ROzJWpValeMlzjAZLC7O",
+    "1ObJFor6tUv_-6KaokBGPjTmQwjWiXGP-",
+    "1YRm-HTj5DRo1lBn2gC_qgz8zQtmLlkhF"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2018/2018_JANUARY.json",
+   "sha256": "ca77cd685493b78a0cdfb6482d741c78aa8e2caf1b40ad76d3693b533d01aaf6",
+   "bytes": 648225,
+   "year": "2018",
+   "drive_file_ids": [
+    "1gGzvSfPX3uy0s58S2khXTbuMWNTv3-Ee",
+    "1baS-xA5wnbEFBYfc4OHGv5jBo2McYrPh",
+    "1xgWwNbxt_lhhXCFvG6bKr0577_O9UTXj",
+    "1TS-xX_Eg_NZn97augVxviUK4aqupbdOB",
+    "14xG3yiJIE-1Vy4QZGxLFphMOoZAvfOnj",
+    "1tszM-LBtmW3rxoT3YtqHos3D42v__2UM",
+    "1SrU31zMXUXeAHkXCnnPEGrbmafJmRGWP",
+    "12IhMt82Vl_oxdyQNOgqleVlKAAORAZmY"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2014/2014_AUGUST.json",
+   "sha256": "96c769f9451a40c145dbcc66ec127aa632901b85ced4fc05711fb3811ea54874",
+   "bytes": 179950,
+   "year": "2014",
+   "drive_file_ids": [
+    "1ivU4WNKTY0Z1a1C1NCz3mjl_vl5envyj",
+    "1g6RzJ_sF6R2mg3YjScG1Qw9P-4d2PILi",
+    "1w4rwWd6RTvuQEKAAllshiONiOKFRz9cz",
+    "1Q6NhvtDDGwIyqKnxGc_mHrzi0hzJb52d",
+    "1t4y3OVxScT0PWnIGQdX72WCYuibJdq7r",
+    "1aXzlnG8hBatJ7vcnsOornYlzyLNjgpjw",
+    "11Gkm4yc1aCyICCTFc3ld8_fJjHKpk6Tc",
+    "1GJFrPUW3P2LTnnfHGdOWp1N3iiBG3aSI"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2014/2014_OCTOBER.json",
+   "sha256": "fd404ae78f06a7bcc01e8174b88eb98c641c16fcfcdae53f6fb12f9d64d2b986",
+   "bytes": 4378,
+   "year": "2014",
+   "drive_file_ids": [
+    "1SE9MIOjl0UBon9j2mm_TMtdqnCrgYqPR",
+    "1vTqvs2XYCtLnETI6_O2rb6GDjnbbRbFC",
+    "1gn2s3IpGrDo66TAgOgPFE3SapBKqkcNm",
+    "1QG9WiKYmlV86tVUtQ5Ig2BOZCLFt5Kl7",
+    "1rzWyw3hymtvVYV4kqhBe6rzJpil44YN4",
+    "1OiuIOYUjVJDdH49VitNwZlE3vh14Osct",
+    "1VtC6rLGQpFW2SnVrpHLAaAjlakljYQd0",
+    "1lEoU0kIevrlQgYxfaqTaCrKLZ-SXIaEX"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2014/2014_JULY.json",
+   "sha256": "682a1bd10dabb25a9de194f8319db175513334486b94c7ab3ad5b44162207418",
+   "bytes": 608,
+   "year": "2014",
+   "drive_file_ids": [
+    "1j-mn8w9BeYrCv8rawGCZTSn_uhg_afe3",
+    "1sQ0xgwc3oz1cPi1ivsweMofKyhUq-p-o",
+    "1bjJoRJLtpiZ_Vvt5J2ctJaYS4nQH88im",
+    "1Q-mmi--cXMsza2C9lebhNmHN2X_fTP4-",
+    "1knr5z8smqdR6DCsTZleF9T3hiiNm2oY2",
+    "1XjPWQAkt_Ksb-tAKFqN6r5yKZjyFvu_M",
+    "1-6iyryqAKlCTi8oHwcRqnsXnOilYPQ0k",
+    "1vvCeSPhS_y-M24hcPPcRd9TK39i_J8wI"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2014/2014_JUNE.json",
+   "sha256": "7ca3354f5502fbe753803c1e812b9cb033e01bee6bc16e99f2349172611a076c",
+   "bytes": 6278,
+   "year": "2014",
+   "drive_file_ids": [
+    "1BKV7eyHRPODQAtb4exvLZhRYr3ifV3f_",
+    "1Auv8DPGa2Wz5G80i_jsSu3O_Jo7NoXf2",
+    "1h_lfXep6gYyE-O_wRylc8sM58GOK48Z-",
+    "1Q9OdG8M31VfqLJU4q8zAGJ4kB9R2fFkK",
+    "1UbvNp7m94XLnchIfUoUDdpKSvNkrDXZi",
+    "1TcF8PM7hUx7m2OrHgx0JQv-UJzYfXiKK",
+    "1q4L_PbmX-V2TfR5qzY7Ptu1VwEPv6e-L",
+    "1rWJn8ODegUD8WYpJYVfQxo_vL1_76pAO"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2014/2014_SEPTEMBER.json",
+   "sha256": "c68df2024b539a6cfa94ee9a11d61eb36f309dffec4247b02a8f23a517f0ea3b",
+   "bytes": 344690,
+   "year": "2014",
+   "drive_file_ids": [
+    "1ssjJT2zYlQOc25yUkjihcNVjDfy8i73E",
+    "1ZyW3z_PB64R_sLjoeF9zQJoxomf2mfDU",
+    "1SWOqROHovYrNBU-VQOLko8iYT1xMYJka",
+    "1SiSZsh0XCUBITW0r9NQR4oYpTV0ggVyS",
+    "1IcYOFpc3lKYkdUOgFyqPurZas8rjVwrc",
+    "1S-pu3OdlfTV_eXFglrnLw_iK6WmB_mgx",
+    "1ffovwYqQ6y3rUR6ItrKYOR3KV_AU5tjz",
+    "1GrqYb_nAu5yII7mXS2-57IuFRsnVFBRJ"
+   ],
+   "drive_parent_trees": [
+    "sep08-2026",
+    "jul13-2026a",
+    "jul13-2026b",
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2",
+    "jun25-2026",
+    "jun10-2026"
+   ]
+  },
+  {
+   "file": "semantic/2018/2018_NOVEMBER.json",
+   "sha256": "c6d3f3c1ef9e56eb563538d1f241654f8032785c452d1108f1389eb1a90d8eaf",
+   "bytes": 1152285,
+   "year": "2018",
+   "drive_file_ids": [
+    "1UxjJ5DOm9lAJEHKXpFH1vzbe2TCp86j6",
+    "1zFK4SdPNL1-nCzA5nVJciYSkcDnBTinA",
+    "11-oBImf3BJ4lQOsPCv5VYPTYm96FIp3t"
+   ],
+   "drive_parent_trees": [
+    "may14-2024",
+    "jul13-2026m1",
+    "jul13-2026v2"
+   ]
+  },
+  {
+   "file": "db/semantic_location.db-jun10-2026a.db",
+   "sha256": "6822c877d6e2b5feec256092c61131e19782229c5088e91cf0b23b101a31b8aa",
+   "bytes": 332,
+   "drive_file_id": "1OCjIIYk0oW5-BNfaojMgmFLExHQ9OjmH",
+   "note": "distinct snapshot; all 4 db copies have different hashes"
+  },
+  {
+   "file": "db/semantic_location.db-jun10-2026b.db",
+   "sha256": "b1a32a4b7c87066295c6c013beccb368d26ba3bc6a97edad5ae05beb4849e30e",
+   "bytes": 332,
+   "drive_file_id": "1jPdLfFVhanOcOAPsFl2BafIV8JfpmOlO",
+   "note": "distinct snapshot; all 4 db copies have different hashes"
+  },
+  {
+   "file": "db/semantic_location.db-jun10-2026c.db",
+   "sha256": "9f3d1b5b7adb4551ba35be5ee8d347f4c2d3340b858c2d963f5e6237093e7e96",
+   "bytes": 332,
+   "drive_file_id": "1lUsct3BdST5wSeNWvQH49esqkc6KpYDE",
+   "note": "distinct snapshot; all 4 db copies have different hashes"
+  },
+  {
+   "file": "db/semantic_location.db-sep06-2026.db",
+   "sha256": "97443ea4eeacd4210305c4d93633eb50c34d82ea51a17b05c11413cff7d68bb6",
+   "bytes": 332,
+   "drive_file_id": "1neoD8GDyY1VED-1SLzIWOEHqcI-XxvJU",
+   "note": "distinct snapshot; all 4 db copies have different hashes"
+  }
+ ],
+ "duplicate_references": 671,
+ "duplicate_note": "671 Drive files were byte-identical copies of the 96 canonical month files (same name+size across the 8 trees); every Drive file ID is recorded in drive_file_ids/drive_parent_trees above. 4 .DS_Store junk files failed download (not data).",
+ "total_bytes": 39214729
+}

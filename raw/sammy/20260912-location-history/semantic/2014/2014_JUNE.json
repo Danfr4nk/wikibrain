@@ -1,0 +1,283 @@
+{
+  "retrieved_at": {
+    "user_local": "2026-09-12T00:00:10.866-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-12T04:00:10.866Z"
+  },
+  "timelineObjects": [
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "distance": 5581,
+        "duration": {
+          "endTimestamp": "2014-06-01T15:17:08.140Z",
+          "startTimestamp": "2014-06-01T08:07:32.298Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {},
+        "simplifiedRawPath": {
+          "points": [
+            {
+              "accuracyMeters": 10,
+              "latE7": 398681870,
+              "lngE7": -797029037,
+              "timestamp": "2014-06-01T14:51:31.674Z"
+            }
+          ]
+        },
+        "startLocation": {},
+        "waypointPath": {
+          "confidence": 0.9927284188416516,
+          "distanceMeters": 120.59604082532287,
+          "source": "BACKFILLED",
+          "travelMode": "DRIVE",
+          "waypoints": [
+            {
+              "latE7": 398878440,
+              "lngE7": -797219238
+            },
+            {
+              "latE7": 398682670,
+              "lngE7": -797029800
+            },
+            {
+              "latE7": 398883209,
+              "lngE7": -797229766
+            }
+          ]
+        }
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "distance": 958,
+        "duration": {
+          "endTimestamp": "2014-06-01T22:09:19.804Z",
+          "startTimestamp": "2014-06-01T15:17:08.140Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {},
+        "startLocation": {},
+        "waypointPath": {
+          "confidence": 0.966162438879234,
+          "distanceMeters": 1150.282296975139,
+          "source": "BACKFILLED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 398883209,
+              "lngE7": -797229766
+            },
+            {
+              "latE7": 398921279,
+              "lngE7": -797331237
+            }
+          ]
+        }
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "distance": 107078,
+        "duration": {
+          "endTimestamp": "2014-06-03T00:28:25.499Z",
+          "startTimestamp": "2014-06-01T22:09:19.804Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {},
+        "startLocation": {}
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "distance": 736,
+        "duration": {
+          "endTimestamp": "2014-06-03T22:50:42.731Z",
+          "startTimestamp": "2014-06-03T16:05:36.582Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {},
+        "startLocation": {},
+        "waypointPath": {
+          "confidence": 0.9076146405205728,
+          "distanceMeters": 1297.4557456186249,
+          "source": "BACKFILLED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 398881683,
+              "lngE7": -797226791
+            },
+            {
+              "latE7": 398813400,
+              "lngE7": -797214355
+            }
+          ]
+        }
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "distance": 48272,
+        "duration": {
+          "endTimestamp": "2014-06-05T02:09:20.532Z",
+          "startTimestamp": "2014-06-03T22:50:42.731Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {},
+        "startLocation": {}
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "distance": 126,
+        "duration": {
+          "endTimestamp": "2014-06-05T03:09:47.420Z",
+          "startTimestamp": "2014-06-05T02:09:20.532Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {},
+        "startLocation": {},
+        "waypointPath": {
+          "confidence": 1.0,
+          "distanceMeters": 182.91678243435015,
+          "source": "BACKFILLED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 398980827,
+              "lngE7": -799688491
+            },
+            {
+              "latE7": 398991775,
+              "lngE7": -799692077
+            }
+          ]
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 398777450,
+        "centerLngE7": -797314400,
+        "duration": {
+          "endTimestamp": "2014-06-05T06:09:31.119Z",
+          "startTimestamp": "2014-06-05T04:13:08.365Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "337 Saratoga Dr, Uniontown, Fayette, Pennsylvania 15401, United States",
+          "latitudeE7": 398753168,
+          "locationConfidence": 99.83581,
+          "longitudeE7": -797327216,
+          "placeId": "ChIJb99dud0_NYgR0U6Ut5A9-uk",
+          "semanticType": "TYPE_HOME"
+        },
+        "locationConfidence": 92,
+        "otherCandidateLocations": [
+          {
+            "address": "370 Derrick Ave, Uniontown, PA 15401, USA",
+            "latitudeE7": 398798224,
+            "locationConfidence": 0.16419047,
+            "longitudeE7": -797277582,
+            "name": "Hatfield Elementary School",
+            "placeId": "ChIJiXd06sQ_NYgRIn9mTKAu5zA"
+          }
+        ],
+        "placeConfidence": "HIGH_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 77
+      }
+    }
+  ]
+}
