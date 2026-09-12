@@ -166,6 +166,12 @@ ways (`dat:0116`).
   (`dat:0112`).
   As of the 2026-09-09 record the block is again being kept — the first
   held boundary of his life.
+  **[2026-09-11 retraction: none of this survived. Dan confirmed verbatim
+  "there was never a block"** (`dat:0090-block-retraction-2026-09-11`):
+  ~25 block/severance declarations Aug 15–19, none executed; daily
+  two-way texting continued Aug 27–Sep 7. The "operator-observed"
+  honored block and the "re-held" state were the performance of a
+  boundary, not a boundary. The severance was performed, not enacted.]
 - **2026-09-09:** Dan surfaced a 15:27 Voice Memos recording of the Aug 16
   Morgantown St call between Annie and Jerel Coles; analysis worked from
   the filed 204-turn transcript, she repeatedly asks for her phone and says
@@ -191,6 +197,9 @@ unreconciled, so **neither may be quoted without the other**
   the record distinguishes the held block from the violated one — the
   sequence is boundary honored Aug 26, violated Aug 27–31, re-held after.
   The current held state is per the 2026-09-09 record.
+  **[2026-09-11: moot. `dat:0090-block-retraction-2026-09-11` — there was
+  never a block at any point; the honored/violated/re-held sequence
+  describes performances, not enactments.]**
 - Four of the personality assessment's seven evidence quotes were confirmed
   verbatim; two were displaced by one day (the corpus's known good-faith
   misremembering pattern, not fabrication); one dated 2024-10-19 is
@@ -293,7 +302,9 @@ messages — nothing in the format his system recognizes ever said
 until August 2026 — her severance total was never even a near-miss);
 **August 19, 2026** group-chat clearing (first public discrimination
 between two men under her own name); **August 26, 2026** the block held
-(first held boundary in the record). With a severance signal on record
+(first held boundary in the record) **[SUPERSEDED 2026-09-11:
+`dat:0090-block-retraction-2026-09-11` — Dan confirmed "there was never
+a block"]**. With a severance signal on record
 and no transmission, "I don't feel close to you anymore" is a structural
 report, not a mood: the rule that constituted closeness is no longer
 live. Caveat the letter states plainly: this does not make him blameless

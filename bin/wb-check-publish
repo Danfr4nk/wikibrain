@@ -36,6 +36,14 @@ FRONTMATTER = re.compile(r"\A\+\+\+\s*\n(.*?)\n\+\+\+", re.S)
 PHONE = re.compile(r"\+1[0-9]{10}|\b[0-9]{3}-[0-9]{3}-[0-9]{4}\b")
 EMAIL = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
 EMAIL_ALLOWED = re.compile(r"noreply@|@example\.|@schema\.|json-schema\.org")
+# Intended publications, not leaks: addresses from the operator-approved
+# 20260911-2034 email inventory (Dan's "everything goes in" mandate,
+# 2026-09-10/11). Already public in the repo source; the site adds no new
+# exposure. Do not add addresses here without Dan's explicit say-so.
+EMAIL_INTENDED = re.compile(
+    r"alulmer28@gmail\.com|annieulmr@aol\.com|suzfrank915@gmail\.com|"
+    r"verayark00@gmail\.com|iamvanessafrank@yahoo\.com"
+)
 
 TEXTY = {".html", ".json", ".txt", ".css", ".md", ".xml", ".js"}
 
@@ -99,7 +107,7 @@ def main() -> int:
         for hit in PHONE.findall(text):
             failures.append(f"phone number {hit!r} in {rel}")
         for hit in EMAIL.findall(text):
-            if not EMAIL_ALLOWED.search(hit):
+            if not EMAIL_ALLOWED.search(hit) and not EMAIL_INTENDED.search(hit):
                 failures.append(f"email address {hit!r} in {rel}")
 
     # 4. the published graph must not cite what it withheld
