@@ -1,0 +1,45 @@
+{
+  "files": [
+    {
+      "id": "src:fran-coldren-photos-2015-12-11-and-diane-letters-2017",
+      "filename": "photo-01-fran-bong-smiling-2015-12-11.jpg",
+      "sha256": "d44aec89886fbe7649f9f9480952cec7d7827114628e95e98f219d83ca1df9e4",
+      "bytes": 249419,
+      "ingested": "2026-09-11",
+      "testimony": false
+    },
+    {
+      "id": "src:fran-coldren-photos-2015-12-11-and-diane-letters-2017",
+      "filename": "photo-02-fran-bong-handoff-2015-12-11.jpg",
+      "sha256": "2ff6f99f95cca9c7c171ac192ec86a41f9e694d597a982184920c3fc0eeda73e",
+      "bytes": 235705,
+      "ingested": "2026-09-11",
+      "testimony": false
+    },
+    {
+      "id": "src:fran-coldren-photos-2015-12-11-and-diane-letters-2017",
+      "filename": "photo-03-fran-bong-holding-2015-12-11.jpg",
+      "sha256": "78730b0e53b19ab32f845567acdc69f21064ac1e435511abe3607ce821b7816e",
+      "bytes": 255057,
+      "ingested": "2026-09-11",
+      "testimony": false
+    },
+    {
+      "id": "src:fran-coldren-photos-2015-12-11-and-diane-letters-2017",
+      "filename": "photo-04-diane-letter-palm-city-2017-08-25.jpg",
+      "sha256": "75062127f86b67fbb50a4de203656cb3e6b10c19f844fe31f6a947796d0295a7",
+      "bytes": 277341,
+      "ingested": "2026-09-11",
+      "testimony": false
+    },
+    {
+      "id": "src:fran-coldren-photos-2015-12-11-and-diane-letters-2017",
+      "filename": "photo-05-diane-letter-20k-loan-2017-11-01.jpg",
+      "sha256": "b094bfb504273b882484c1ca4cb8812f74b66df57c1e44e6c12e2f3635a0502d",
+      "bytes": 191015,
+      "ingested": "2026-09-11",
+      "testimony": false
+    }
+  ],
+  "note": "Genuine capture EXIF (iPhone 6/6s/6 Plus, live GPS). Photos 01-03: 2015:12:11 18:11:16-20 (4-second span), Fran's house Hopwood PA (GPS 39.8876,-79.7221). Photo 04: letter dated 2017-08-25, photographed 2017:08:31 19:40:31 at Fran's house. Photo 05: letter dated 2017-11-01, photographed 2017:11:06 14:56:56 at Fran's house. Letters are from 'Dian' (Diane Moore, Fran's daughter) to 'Mother' (Fran Coldren); full text transcribed in dat:1410 and dat:1411."
+}

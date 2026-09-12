@@ -1,0 +1,85 @@
+{
+  "files": [
+    {
+      "id": "src:franks-auto-supermarket-photos-2026-09-11",
+      "filename": "photo-01-storefront-beeson-blvd.jpg",
+      "sha256": "cd3b84233a0161c49521e3b3b3c56d8f2a8f4b707a558bfea1e57f57a48bf32f",
+      "bytes": 127110,
+      "ingested": "2026-09-11",
+      "testimony": false
+    },
+    {
+      "id": "src:franks-auto-supermarket-photos-2026-09-11",
+      "filename": "photo-02-sign-78-great-years.jpg",
+      "sha256": "a22ec78d5b692115b52fb54980e84463466b9fb39cc08bda1e35d6ede6925204",
+      "bytes": 120859,
+      "ingested": "2026-09-11",
+      "testimony": false
+    },
+    {
+      "id": "src:franks-auto-supermarket-photos-2026-09-11",
+      "filename": "photo-03-storefront-strip-mall.jpg",
+      "sha256": "c2b75f99633e2a850498f4ed417fe2d46456b8944aedf2577f00fc947d595b57",
+      "bytes": 124544,
+      "ingested": "2026-09-11",
+      "testimony": false
+    },
+    {
+      "id": "src:franks-auto-supermarket-photos-2026-09-11",
+      "filename": "photo-04-storefront-we-speak-car.jpg",
+      "sha256": "244489f5ce367f918e48412b10578727c972df3b71cbfbb4850fd3af2dac9168",
+      "bytes": 113127,
+      "ingested": "2026-09-11",
+      "testimony": false
+    },
+    {
+      "id": "src:franks-auto-supermarket-photos-2026-09-11",
+      "filename": "photo-05-ribbon-cutting-mckeesport-1990-04-06.jpg",
+      "sha256": "90c596deb1b3eeae30d625fb45e378d0f7ce48960eb37fab391f755cf6493b34",
+      "bytes": 83795,
+      "ingested": "2026-09-11",
+      "testimony": false
+    },
+    {
+      "id": "src:franks-auto-supermarket-photos-2026-09-11",
+      "filename": "photo-06-delivery-truck.jpg",
+      "sha256": "b71aa5712852b73af75e8c1926e750160ae9f3bf3b27981be121b3f13792b6a9",
+      "bytes": 80530,
+      "ingested": "2026-09-11",
+      "testimony": false
+    },
+    {
+      "id": "src:franks-auto-supermarket-photos-2026-09-11",
+      "filename": "photo-07-wayback-1999-10-17.jpg",
+      "sha256": "677e1eb84d3841ebdd834d2b8017e8a20498010dab44075df73f9f1ba12ce678",
+      "bytes": 185239,
+      "ingested": "2026-09-11",
+      "testimony": false
+    },
+    {
+      "id": "src:franks-auto-supermarket-photos-2026-09-11",
+      "filename": "photo-08-wayback-2000-09-27.jpg",
+      "sha256": "94ffff8a64b7402eb0911317cc1236938c10f8b3b96547f5fe6c1648180ae94a",
+      "bytes": 241826,
+      "ingested": "2026-09-11",
+      "testimony": false
+    },
+    {
+      "id": "src:franks-auto-supermarket-photos-2026-09-11",
+      "filename": "photo-09-wayback-2001-03-29.jpg",
+      "sha256": "366dc2adfaba2de7dddf1d4a0fef4718e73d5853ef64ba12e93d6b984493cae4",
+      "bytes": 281234,
+      "ingested": "2026-09-11",
+      "testimony": false
+    },
+    {
+      "id": "src:franks-auto-supermarket-photos-2026-09-11",
+      "filename": "photo-10-wayback-2002-08-05.jpg",
+      "sha256": "569e8895d761439c46c38987fe80cc741c444c4e45cd40a3e74053524f05b4a7",
+      "bytes": 230703,
+      "ingested": "2026-09-11",
+      "testimony": false
+    }
+  ],
+  "note": "EXIF DateTime on all ten is a file-save date (2022-09-13 x4, 2023-07-24 x6), not a capture date. No GPS, no camera make. Images 07-10 are Wayback Machine screenshots of autosupermarket.com captures (1999-10-17, 2000-09-27, 2001-03-29, 2002-08-05)."
+}

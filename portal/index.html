@@ -5,11 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>DAN FRANK — WIKI-BRAIN PORTAL</title>
 <!--
-  PORTAL PROTOTYPE (probe, not production).
-  - Single file. No external assets, no fonts, no images. Nothing to flag.
-  - Reads live data from the wikitest build: graph.json (nodes/layers/edges).
-  - Deliberately NOT part of bin/wb-build. If this direction is approved,
-    the wiring decision is: wb-build copies portal/ -> site/portal/.
+  WIKI-BRAIN PORTAL.
+  - Static. No external assets, no fonts, no images. Nothing to flag.
+  - Reads only built artifacts, same-origin: ../graph.json and ../feeds/*.json.
+  - Wired into bin/wb-build: portal/ is copied to site/portal/ during the build.
+  - Tabs live in tabs/*.js; each registers as PortalTab_<name> = {html, css, init}.
 -->
 <style>
   :root{
@@ -160,7 +160,7 @@
       <div class="panel">
         <h2>▚ THE VOID — LIVE KNOWLEDGE GRAPH</h2>
         <canvas id="void"></canvas>
-        <div class="voidcap"><span>RENDER: PARTICLE FIELD // 88 NODES</span><span>VIBE: VOID</span></div>
+        <div class="voidcap"><span id="voidcapl">RENDER: PARTICLE FIELD</span><span>VIBE: VOID</span></div>
       </div>
       <div class="panel" style="margin-top:12px;">
         <h2>▚ NODE BROWSER — <span id="nodecount">…</span></h2>
@@ -171,14 +171,14 @@
     </div>
 
     <!-- stubs for the other eight tabs -->
-    <div class="tabpage" id="page-sage"><div class="panel"><h2>🧙 THE SAGE</h2><div class="stamp">NOT BUILT YET</div><p class="stubdesc"><b>Intended:</b> the ask interface — layered retrieval over the graph (<span style="color:var(--cyn)">bin/wb-query</span> with the personality prior), answers that cite nodes instead of vibes. Every claim traceable to L0.</p></div></div>
-    <div class="tabpage" id="page-words"><div class="panel"><h2>📝 WORDS</h2><div class="stamp">NOT BUILT YET</div><p class="stubdesc"><b>Intended:</b> the lexicon — voice calibration, pivot words, register analysis drawn from the message corpus. The 23,286-word fingerprint, queryable.</p></div></div>
-    <div class="tabpage" id="page-lattice"><div class="panel"><h2>▦ THE LATTICE</h2><div class="stamp">NOT BUILT YET</div><p class="stubdesc"><b>Intended:</b> typed-edge graph visualization — causal, temporal, structural, semantic, narrative and editorial families rendered as a navigable lattice. Strength, basis and asserted_by on every edge.</p></div></div>
-    <div class="tabpage" id="page-leviathan"><div class="panel"><h2>🐋 LEVIATHAN</h2><div class="stamp">NOT BUILT YET</div><p class="stubdesc"><b>Intended:</b> the deep archive trawler — full-text pressure over the 497-page snapshot and the raw corpus. Finds what keyword search misses.</p></div></div>
-    <div class="tabpage" id="page-gallery"><div class="panel"><h2>🖼 THE GALLERY</h2><div class="stamp">NOT BUILT YET</div><p class="stubdesc"><b>Intended:</b> image intake and multimodal corroboration (roadmap §3). EXIF as L1 datum, model readings as L3 interpretation — never confused.</p></div></div>
-    <div class="tabpage" id="page-transcript"><div class="panel"><h2>📼 THE TRANSCRIPT</h2><div class="stamp">NOT BUILT YET</div><p class="stubdesc"><b>Intended:</b> session logs — the build history of the wiki itself, every extraction and climb, replayable.</p></div></div>
-    <div class="tabpage" id="page-arcade"><div class="panel"><h2>👾 THE ARCADE</h2><div class="stamp">NOT BUILT YET</div><p class="stubdesc"><b>Intended:</b> the games. Matter.js chaos engines, rebuilt without the assets that got the old account flagged.</p></div></div>
-    <div class="tabpage" id="page-transmissions"><div class="panel"><h2>📡 TRANSMISSIONS</h2><div class="stamp">NOT BUILT YET</div><p class="stubdesc"><b>Intended:</b> the feed — findings, corrections and falsifications as they land, newest first. The wiki thinking out loud.</p></div></div>
+    <div class="tabpage" id="page-sage"></div>
+    <div class="tabpage" id="page-words"></div>
+    <div class="tabpage" id="page-lattice"></div>
+    <div class="tabpage" id="page-leviathan"></div>
+    <div class="tabpage" id="page-gallery"></div>
+    <div class="tabpage" id="page-transcript"></div>
+    <div class="tabpage" id="page-arcade"></div>
+    <div class="tabpage" id="page-transmissions"></div>
   </section>
 
   <aside>
@@ -207,13 +207,27 @@
 <div class="ticker bot"><span class="run" id="tickBot"></span></div>
 
 <footer>
-  <span>PORTAL PROBE — single file, no assets, reads <b>graph.json</b> live. Not part of bin/wb-build.</span>
+  <span>PORTAL — static tabs, reads built artifacts only (graph.json + feeds/). Wired into bin/wb-build.</span>
   <span id="footstat">graph: <span class="err">not loaded</span></span>
 </footer>
 
+<script src="tabs/sage.js"></script>
+<script src="tabs/words.js"></script>
+<script src="tabs/lattice.js"></script>
+<script src="tabs/leviathan.js"></script>
+<script src="tabs/gallery.js"></script>
+<script src="tabs/transcript.js"></script>
+<script src="tabs/arcade.js"></script>
+<script src="tabs/transmissions.js"></script>
 <script>
 "use strict";
-const GRAPH_URL = "https://danfr4nk.github.io/wikitest/graph.json";
+const GRAPH_URL = "../graph.json";
+const FEED_URLS = {
+  words: "../feeds/words.json",
+  transcript: "../feeds/transcript.json",
+  transmissions: "../feeds/transmissions.json",
+  gallery: "../feeds/gallery.json",
+};
 const $ = id => document.getElementById(id);
 
 /* ---------- tickers ---------- */
@@ -241,6 +255,41 @@ const TABS = [
   ["transcript","THE TRANSCRIPT","録"],["arcade","THE ARCADE","遊"],["transmissions","TRANSMISSIONS","信"],
 ];
 const tabsEl = $("tabs");
+
+/* ---------- tab modules (tabs/*.js) ---------- */
+const TABMOD = {
+  sage: PortalTab_sage, words: PortalTab_words, lattice: PortalTab_lattice,
+  leviathan: PortalTab_leviathan, gallery: PortalTab_gallery,
+  transcript: PortalTab_transcript, arcade: PortalTab_arcade,
+  transmissions: PortalTab_transmissions,
+};
+let G = null;                 /* {nodes, edgeVocab, baseUrl} once graph.json loads */
+const FEEDS = {words:null, transcript:null, transmissions:null, gallery:null};
+const _tabInited = {};
+(function mountTabs(){
+  const st = document.createElement("style");
+  let css = "";
+  Object.entries(TABMOD).forEach(([key, mod])=>{
+    $("page-"+key).innerHTML = mod.html;
+    css += mod.css + "\n";
+  });
+  st.textContent = css;
+  document.head.appendChild(st);
+})();
+function ensureTab(key){
+  if(key==="wikibrain" || _tabInited[key] || !G) return;
+  _tabInited[key] = true;
+  try{ TABMOD[key].init($("page-"+key), G, FEEDS); }
+  catch(e){ $("page-"+key).innerHTML =
+    `<div class="panel"><span class="err">TAB FAULT: ${esc(e.message)}</span><br><span class="nid">the tab crashed on init; the graph itself is fine.</span></div>`; }
+}
+/* feeds are fetched once, in parallel; tabs init lazily and read FEEDS live */
+Object.entries(FEED_URLS).forEach(([key, url])=>{
+  fetch(url).then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); })
+    .then(j=>{ FEEDS[key]=j; })
+    .catch(()=>{ FEEDS[key]=null; });
+});
+
 TABS.forEach(([key,label,pre],i)=>{
   const b = document.createElement("button");
   b.innerHTML = `<span class="pre">${pre}</span>${label}`;
@@ -250,6 +299,7 @@ TABS.forEach(([key,label,pre],i)=>{
     b.classList.add("active");
     document.querySelectorAll(".tabpage").forEach(p=>p.classList.remove("active"));
     $("page-"+key).classList.add("active");
+    ensureTab(key);
   };
   tabsEl.appendChild(b);
 });
@@ -331,7 +381,9 @@ $("netinput").addEventListener("input",e=>{netFilter=e.target.value;renderList()
 fetch(GRAPH_URL).then(r=>{if(!r.ok)throw new Error(r.status);return r.json();})
 .then(g=>{
   NODES=g.nodes||[];
+  G={nodes:NODES, edgeVocab:g.edge_vocabulary||{}, baseUrl:g.base_url||""};
   $("graphstat").textContent=`${NODES.length} NODES · LIVE`;
+  $("voidcapl").textContent=`RENDER: PARTICLE FIELD // ${NODES.length} NODES`;
   $("vibenodes").textContent=NODES.length;
   $("vibelast").textContent=new Date().toISOString().slice(0,10);
   $("footstat").innerHTML=`graph: <span class="ok">live</span> · base: ${esc(g.base_url||"")}`;

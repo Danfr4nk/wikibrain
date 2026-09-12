@@ -3,7 +3,7 @@ id         = "evt:2026-09-09-edge-rework"
 layer      = 2
 type       = "event"
 title      = "The edge system is reworked into six families"
-cites      = ["dat:0011-edge-pointed-against-its-note"]
+cites      = ["dat:0011-edge-pointed-against-its-note", "dat:0673-jay-lauer-direction-and-count-corrections", "dat:0675-jim-vrabel-thread-count-direction-correction"]
 confidence = "high"
 importance = 4
 created    = "2026-09-09"
@@ -67,3 +67,41 @@ and made it indistinguishable from metadata somebody did, which is the same
 failure as [`pat:partial-data-confident-error`](../patterns/partial-data-confident-error.md)
 in a smaller frame. Edges missing those fields are counted and reported as
 provisional, and that count is now part of every validator run.
+
+## The ingest ran under the reworked system — and produced edge-shaped findings
+
+The September ingest is the first body of work written entirely under
+the six families, and its corrections keep landing on *relations*, not
+just facts:
+
+- **Direction corrections.**
+  [`dat:0673`](../data/0673-jay-lauer-direction-and-count-corrections.md)
+  reverses the jay-lauer 11:07 message — Annie→Dan, not Dan→Annie —
+  correcting both the page and `dat:0064`, which had repeated the page's
+  direction.
+  [`dat:0675`](../data/0675-jim-vrabel-thread-count-direction-correction.md)
+  reworks the jim-vrabel thread from one-way 313 to two-way 612. These are edge
+  errors in content nodes: who said what to whom is a relation, and the
+  old graph had no way to mark the relation as the thing being
+  corrected.
+- **The audit debt is real.** The `influenced_by` edge on
+  [`evt:2026-09-08-rebuild-begins`](2026-09-08-rebuild-begins.md) still
+  carries a note saying it points the opposite way from what the note
+  says — a post-rework artifact that documents its own provisionality
+  rather than hiding it. That is the system working as designed: the
+  edge is declared, attributed (`asserted_by = "llm"`, `basis =
+  "inferred"`), and visibly unsettled.
+- **Edges still fail silently.** The ingest's DUP-FLAG (dat 1344/1345
+  committed twice by worker 29 before renumbering) and the `synthesizes:`
+  YAML duplication on three pages were node-identity failures the edge
+  vocabulary couldn't have caught — a reminder that the rework hardened
+  *relations*, not *identity*, and identity failures remain the graph's
+  soft surface.
+
+## Open questions
+
+- Whether the rebuild-begins `influenced_by` edge gets repointed or
+  retired in a follow-on audit.
+- Whether node-identity hardening (dedup keys, id collision checks)
+  belongs in the validator, given the 1344/1345 collision happened under
+  a validator that was watching everything else.

@@ -12,6 +12,9 @@ differ sharply in cost.
 | :--- | :--- |
 | `old-wiki-export-2026-09-04/whole.txt` | 497 pages, 7.5 MB, byte-exact. Ingested as `src:old-wiki-export-2026-09-04`, `testimony = true` |
 | `corpus/messages.csv` | 192,140 messages, 2011-03 → 2026-09. **Gitignored and re-pullable**: `bin/wb-corroborate --pull` fetches it and verifies sha256 against `corpus/manifest.json` before use |
+| `e0914806-f920-40ab-9371-447bdbb736f5-morgantown-st/E0914806-…-Morgantown St.m4a` | The 2026-08-16 Annie/Coles/Dan call audio, 15:27, 13.1 MB, byte-exact. Ingested as `src:e0914806-f920-40ab-9371-447bdbb736f5-morgantown-st`. sha256 matches the copy already filed in Drive |
+| `morgantown-call-independent-stt-transcript-2026-09-09/…txt` | Independent faster-whisper (small.en) transcript of the call, 175 segments, 0:00–14:23. Ingested as `src:morgantown-call-independent-stt-transcript-2026-09-09`, `reliability = uncertain` — STT output, spot-check before quoting |
+| `morgantown-call-validation-report/morgantown-call-validation-report.pdf` | Six-page validation report (2026-09-09): provenance, transcription cross-check, and the stale-claim defects found on the live wiki pages. Ingested as `src:morgantown-call-validation-report` |
 
 ## Reachable, not yet pulled
 

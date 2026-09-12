@@ -1,0 +1,55 @@
++++
+id            = "dat:0257-morgantown-call-leverage-campaign"
+layer         = 1
+type          = "datum"
+title         = "The Morgantown St call and leverage campaign, 2026-08-16–19 — 1,199 messages, a 15:27 recording of Coles, and the terminal severance"
+claim         = "The event page `wiki/timeline/events/august-2026-morgantown-call.md` (created 2026-08-20, importance critical, status closed, knowledge: earned) covers **2026-08-16 23:37 → 2026-08-19 15:15**: **1,199 messages** — 811 from Dan, 388 inbound — across which the relationship ended. The window opens with a phone call Dan did not place and recorded anyway: **15 minutes 27 seconds** on his MacBook (`Morgantown St.m4a`, container 2026-08-17T03:54:49Z = 23:54:49 EDT), two text/audio alignments fixing the call at **~23:37 → 23:53**, the recording opening mid-shout so it does not capture the call's own beginning. The filename is location evidence — macOS Voice Memos names a recording for the street the device stands on, and Morgantown St is Dan's street, placing him at home, on a call, not at the scene. **What is on the recording** (verified against the operator-supplied timestamped transcript, 2026-08-20): 204 turns — Coles 99, Annie 55, Dan 50. Coles confesses to searching her phone while she slept (*\"She was sleeping, I went through her phone. Yeah, and now what?\"*, 00:43) and holds the phone for the whole call (*\"Yeah, I am\"* twice, 09:19/09:31); Annie asks for her phone five times, says she wants to leave from 04:16, says she is being held hostage twice, alleges she was hit (*\"You are\"*, 02:35) and threatened (*\"No, you threatened me\"*, 05:22), and says the police were called before over this (02:04). Coles interrogates her on tape seven turns between 04:18 and 07:24 to make her say Dan prostituted her (*\"Did Dan make you fuck guys for money to get for drugs?\"*), conditions the phone on the answer (05:08), threatens her parents to force it (05:38), threatens the parents from the first minute (01:01), tells Dan to kill himself (08:12), and both men announce they are recording (Coles 02:36: *\"Make sure you record this Dan, because I know you're gonna edit it\"*). The intimate video is argued live with a timecode Dan supplies (*at 37 seconds*, 14:07). Dan's contribution is almost entirely one sentence — *\"Give her her phone and let her leave\"* and near-variants in 20 of his 50 turns — plus an offer to drive (12:15), and at 07:31 he answers the prostitution allegation **narrowly**, contesting the motive (not broke, didn't need the money) without contesting that the escorting happened. **The corrections printed on the page:** at 04:43 Annie says *\"Yes, save it\"* under interrogation — the page retracts its own earlier \"she never says yes,\" holding instead that she never *freely* affirmed it; and the function shift happens **inside** the recording, at 13:30 — Dan aims it at Annie's mother while the call is still running (*\"I'm gonna send this whole thing to Ellen… I haven't said a word this entire time\"*), so the artifact was leverage from inception, not repurposed later. **The campaign, Aug 17–19:** the demand is never money or contact but a **statement** — say in writing she is done with him. The asymmetry doubles (ratio 3.1:1 → 6.3:1 by text volume; 18% of Annie's messages contain *please* or *begging*; Dan says goodbye 37 times and threatens to block 15 times in 67 hours, neither happening until the end). The named target is **Ellen's work email**. Aug 17 12:52 Annie discloses a suicide attempt by strangulation (repeated 20:09, and in capitals Aug 18 15:52) — no independent corroboration; the page does not treat it as settled, and records that the campaign did not pause for it. **The false send:** Aug 18 19:35 Dan writes *\"i did\"*; at 19:38 he admits *\"it wasn't actually sent… I knew you would suddenly come back to life\"* — a deliberate probe, after which Dan's own assertions of execution can no longer serve as evidence of execution. The contradiction is held open: three Aug 19 01:04–01:48 statements that he sent it versus 11:25/15:12 denials (*\"I could have torn your life apart. I still could and I don't\"*); the page calls Dan's sent-mail folder the cheapest high-value verification. **It happened again:** Aug 18 21:46 Coles seizes her phone a second time (*\"She's with me man chill lmfao\"* / *\"Still moaning\"* / *\"No body cares junkie\"*), then an **SOS sequence** 22:18–23:41 (six SOSs, *\"Betty. Milo. Whatever sos words\"* — the two dogs used as a duress code), Dan replying at 23:40, 72 minutes after the first. **The catalyst:** Aug 19 06:33 Annie writes *\"He didn't rape me\"* in the group chat — a public retraction of the accusation she kept making to Dan privately, issued in front of Coles hours before she expected the record of it to reach her mother; Dan screenshots at 07:27:35, and the register turns at 11:25. The page does **not** adjudicate the rape claim (asserted to Dan repeatedly, denied by Coles in writing, denied by Annie in the group chat, re-asserted to Dan afterwards — all four recorded, none scored). **Was it blackmail?** The page holds both: the operator's denial (*\"i did not try to blackmail her\"*) with the advance-sight offer corroborated in his own outbound messages, and the stalling corroborated (eleven deferrals across two days) — against the coercive structure of a three-day disclosure campaign with deadlines while she begged. **Aug 19:** the block declared at 15:07:37 was not executed (seven more messages, the export ends mid-exchange at 15:15:33); the day's argument is about a future act neither party names (the retraction's choice, unnamed in-text until the last 33 seconds: *\"YOU COILDNT EVEN CLEAR ME FEOM THE LIES YOU TOLD ABOUT ME\"*); three periodizations of the relationship inside four hours (3 weeks / 10 years / 17 months); and the structural novelty at 14:53:25 — Dan pre-emptively closes the Milo channel (*\"Do NOT ever think that enough time has passed…\"*), the vector every prior reconciliation ran through. **The corpus finding:** at least six inbound messages from Annie's handle were typed by Coles (the page lists them; `wiki/self/context-core` counts 97,768 unique messages across her four handles) — a handle is not a person, and attribution during documented Coles-present episodes must be checked before use."
+cites         = ["src:old-wiki-export-2026-09-04", "src:morgantown-call-independent-stt-transcript-2026-09-09", "src:morgantown-call-validation-report"]
+attributed_to = "src:old-wiki-export-2026-09-04"
+confidence    = "high"
+extraction    = "Page body read directly from corpus__3.txt line 104750 (all 978 lines); verified text-identical against raw/old-wiki-export-2026-09-04/whole.txt lines 98331-99315 (diff clean apart from delimiters and the corpus snapshot's [phone redacted] where the old-wiki export carries the handle unredacted — same flag as dat:0251, number not reproduced here). The page's own sources (the m4a, the operator transcript, the two message CSVs, the forensic analysis, the two captures) are not held in this repository; its quotations were verified by the page author against the operator transcript (T1) on 2026-08-20, with its corrections printed on the page. Cross-checked here against two sources that ARE held: (1) the independent STT transcript made 2026-09-09 (175 segments, no speaker labels), which corroborates in content the phone-search confession, the hit-you allegation/denial exchange, the 'record this' taunt, the interrogation about money-for-sex (including the dead-grandmother's-money line), and the 37-seconds video argument; minor timestamp offsets exist between the two transcript passes (a few seconds on most lines; the 'record this' line differs more), and the STT carries ASR artifacts (e.g., 'Dan' for Dan) — corroboration is of content, not attribution; (2) the forensic validation report dated 2026-09-09, whose determination is 'the primary evidence is substantially validated': artifact identity holds (duration, Voice Memos identifier, MD5, SHA-256 match the Source Amendment record), core conduct holds (independent pass corroborates phone search, interrogation, repeated exit demands, offer to drive, parental-disclosure threat), and the one failing assertion is on the Jerel Coles page — the 'never says yes' categorical wording — which THIS page had already corrected on 2026-08-20. The report's stated boundaries: it does not prove the file unedited, does not independently verify speaker identities, does not resolve the alleged assault, and does not settle whether the audio was sent. The sent/not-sent contradiction and the UTC-vs-local timestamp offset were independently verified by this ingest series in dat:0057 (cross-referenced, not duplicated); the Coles address-threat exchange is covered in dat:0073 (cross-referenced, not duplicated). Timestamps quoted here are the page's own, in the page's frame; see dat:0057 on the wiki's UTC convention."
+importance    = 5
+tags          = ["timeline", "2026", "annie-ulmer", "jerel-coles", "evidence", "old-wiki", "attribution", "corroborated"]
+created       = "2026-09-09"
+
+[when]
+start = "2026-08-16"
+end   = "2026-08-19"
++++
+
+## Costs the page posts to the layers above it
+
+- The threat-execution rate is no longer computable from Dan's word: 28
+  maternal-disclosure threats in 67 hours, one proven simulation, a claimed
+  execution Dan himself later contradicts — the instrument was his own
+  assertion, now known deliberately unreliable.
+- The re-entanglement did not end August 9: it ran ten more days, including
+  an August 11 sleepover, the BFS job restoration the same day, and daily
+  procurement.
+- Coles was never gone: August 13's group-chat message plus Annie's \"Do not
+  engage\" is the seam — contact existed where the wiki had none between June
+  15 and this.
+- Suz was contacted again, fifteen days after an in-person apology for the
+  first campaign — and did not receive it, because Dan had pre-emptively
+  blocked Annie's number on his mother's phone.
+
+## Gaps the page leaves open
+
+- The audio is unheard by anyone writing the wiki (transcript only; last
+  ~28 seconds untranscribed; speaker labels are diarization, with at least
+  five mislabeled turns identified).
+- Was the email sent? One query on the sent-mail folder.
+- The group chat has never been exported — load-bearing on the August 13
+  seam and the August 19 retraction.
+- The phone call in which Annie agreed to clear Dan's name and did not is
+  voice-only; rests on operator testimony.
+- What happened after 23:41 on August 18 (the SOS sequence has no
+  resolution in any source).
+- Did the block hold? The export ends eight minutes after it was declared.
+
+## What would prove this page wrong
+
+Stated on the page: a transcription showing Annie, not Coles, produced the
+23:45 accusation (inverts the handle-finding); evidence the email *was*
+delivered August 18 (makes the 19:38 admission the lie); contact continuing
+past 2026-08-19 15:15:33.

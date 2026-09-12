@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "id": "src:legion-of-skanks-tapings-photos-2019-12-23-2020-08-25",
+      "filename": "photo-01-skanksmas-2019-12-23.jpg",
+      "sha256": "0432a40bb067a0e9fdcf369e4c0931b1c04884326b7efd40abc89517e481990d",
+      "bytes": 247946,
+      "ingested": "2026-09-11",
+      "testimony": false
+    },
+    {
+      "id": "src:legion-of-skanks-tapings-photos-2019-12-23-2020-08-25",
+      "filename": "photo-02-election-episode-2020-08-25.jpg",
+      "sha256": "dcc0ec1983549b2f073055c52ab173d157f0e1478f5ba724ffa2c769d6b4380d",
+      "bytes": 257222,
+      "ingested": "2026-09-11",
+      "testimony": false
+    }
+  ],
+  "note": "Genuine capture EXIF (iPhone XS, live GPS). Photo 1: 2019:12:23 21:40:36 local, GPS 40.735603,-73.988411. Photo 2: 2020:08:25 20:13:13 local, GPS 40.735631,-73.988183. Episode mapping per operator 2026-09-11: photo 1 = Skanksmas episode, photo 2 = 2020 election episode. The 'gun as a dildo' taping Dan attended has no photo in this batch (wrong file sent) \u2014 testimony only, open item."
+}
