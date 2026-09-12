@@ -4,15 +4,15 @@ page_type: entity
 status: closed
 knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-08-26
+date_modified: 2026-09-12
 date_range_start: 2025-08-29
-date_range_end: 2025-12-10
+date_range_end: 2026-09-12
 sources: ["raw/self/message-csv/imessage_3307038747_both_all_now.csv", "raw/self/message-csv/imessage_export_3307038747_20260624.csv", "raw/self/dox-scan/messenger_Kristin Shaelene_2025-09-01-07-53-22.txt", "raw/people/kristin/chimera-genesis-addendum.md", "raw/self/dox-md/tom_kristin_master_dossier.md", "raw/self/dox-md/operating_manual.md", "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv", "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md"]
 related: ["wiki/people/tom", "wiki/people/annie-ulmer", "wiki/mind/concepts/contact-gini", "wiki/mind/synthesis/dormancy-not-exit", "wiki/timeline/periods/2025-collapse", "wiki/timeline/periods/dec-2025-spike", "wiki/self/message-corpora/master-message-dump", "wiki/self/message-corpora/source-coverage-index", "wiki/mind/synthesis/attachment-trauma-bond", "wiki/mind/psychosexual/arrangement-history", "wiki/mind/synthesis/ai-collaborative-analysis", "wiki/mind/concepts/conflict-architecture"]
 tags: [relationships, trauma-bond, digital-footprint, legal, ai-collaboration]
 infobox:
   name: "Kristin Prentiss"
-  relationship_to_dan: "girlfriend (Aug-Nov 2025), closed hostile"
+  relationship_to_dan: "girlfriend (Aug-Nov 2025); block held Dec 2025–Sep 2026, broken by Dan 2026-09-12"
   sex: female
   location: "Akron / Barberton, Ohio"
   first_contact: 2025-08-29
@@ -23,7 +23,7 @@ connections:
     claim: "The 2025 relationship is the arrangement's documented inversion — total-exclusivity demands and purity tests where the Annie structure practiced authored openness."
   - page: wiki/mind/synthesis/block-unblock-loop
     type: component-of
-    claim: "Kristin's Dec 9 2025 block of Dan held permanently — the loop's inbound control case: her severance was structural because she needed nothing from the channel."
+    claim: "SUPERSEDED [2026-09-12]: Kristin's Dec 9 2025 block of Dan held eight months as observed contact, but the 'cleanest inbound control case' framing no longer holds as written — Kristin attempted contact via Messenger message-requests on 2026-08-26 (dat:1452), and Dan broke the block himself with four outbound iMessages on 2026-09-12 (dat:1453). The December episode remains the loop's inbound-block instance; the control-case claim is annotated pending resolution of the September re-entry."
   - page: wiki/people/tom
     type: component-of
     claim: "The Kristin thread enters the corpus through Tom's social circle; he is the introduction vector, and the AI dossier the wiki drew her biography from is about her relationship with him rather than with Dan."
@@ -49,7 +49,8 @@ early November, produced about **22,000 messages across two platforms**, and
 ended in an argument about **forty dollars** that neither of them got past. A
 month of near-silence followed, then a four-day attempt to restart it in December
 that ended with her blocking him and sending links to two federal complaint
-portals. She has not appeared in the corpus since.
+portals. She had not appeared in the corpus since — until September 2026 (see
+"September 2026" below).
 
 She is from **Barberton, Ohio**, born 21 July 1990, and was living in the Akron
 area — about two hours from Uniontown — throughout. The distance is not
@@ -351,7 +352,7 @@ nothing about how she handled conflict left room for it not to.
 | iMessage total | **20,009** (sent 10,102 / received 9,907) | `imessage_3307038747_both_all_now.csv` |
 | Facebook Messenger | **2,009 distinct** (Dan 1,439 / Kristin 570) | UI capture, 2025-09-01 |
 | Combined | **~22,018** | — |
-| Span | 2025-08-29 → 2025-12-10 | 67 active iMessage days |
+| Span | 2025-08-29 → 2025-12-10 (relationship); contact attempts/resumption 2026-08-26 → 2026-09-12 | 67 active iMessage days |
 | Dan's share, iMessage | 50.5% | near-parity overall |
 | Heaviest day | 2025-09-09 — 1,324 | the Twitter excavation |
 | Handle | `+13307038747` (Ohio, 330) | — |
@@ -447,6 +448,60 @@ material, and every per-year message count that treats the dump as complete for
 > the silence is corroborated off-corpus, rather than merely unobserved, is the
 > difference between a control and an absence of data — a distinction this
 > corpus is otherwise bad at making.
+
+> **SUPERSEDED [2026-09-12] — the "no contact after 10 Dec 2025" claim is
+> superseded on both sides.** The old annotation above is preserved as the
+> record of what the wiki believed through 2026-09-11; what follows is what
+> the next morning's evidence showed.
+>
+> *Inbound, 2026-08-26:* Kristin sent Dan five Messenger messages — "What's up
+> you piece of shit?", "Long time no talk my fellow neuro fuck", "You missed a
+> call from Kristin.", "Fag", "Ew lol" — all into the **message-request**
+> (PENDING) folder, unseen by Dan until the 2026-09-12 Messenger pull surfaced
+> the thread. Verified verbatim against
+> `raw/messenger-2026-09-12/messenger-all.jsonl` (dat:1452). A contact
+> *attempt*, not a contact: different channel from the December block, unopened
+> for seventeen days. Dan believes she may have re-blocked him there (he could
+> not approve the request) — his inference, unverified.
+>
+> *Outbound, 2026-09-12 ~06:50 UTC:* Dan texted Kristin himself — four iMessages,
+> all delivered, no reply visible: "It's weird I thought about you you yesterday
+> on the kirkaversary" (edited), "I moved. Come see me tomorrow", a dispensary
+> photo (Maitri Medical Uniontown, Flower Foundry, insa KUSH MNZ), "I give you
+> dispo trees" (upload-027, dat:1453). Sent at 2:50 AM, minutes after the
+> assistant told him about her August messages. **The eight-month block was
+> broken by Dan, not by her** — opened from the inside, the loop's classic
+> shape with the polarity reversed from the 2026-08-16 reading.
+>
+> Net: the "cleanest inbound control case" framing on
+> [[wiki/mind/synthesis/block-unblock-loop]] no longer holds as written. The
+> severance held for eight months *as observed contact*; it did not hold as
+> *no attempts* (August) and it did not survive September — because Dan
+> re-entered. Whether her silence continues makes this a second failed
+> reactivation (cf. [[wiki/mind/synthesis/dormancy-not-exit]]) rather than a
+> reunion; the channel is open on his side and unanswered on hers.
+
+## September 2026: the block breaks — from both sides
+
+On 2026-08-26 Kristin tried to reach Dan on Messenger — five messages and a
+missed call into his message requests, where they sat unopened (dat:1452).
+On 2026-09-12, seventeen days later, the assistant's Messenger pull surfaced
+the thread in conversation; within the hour Dan had texted her on iMessage
+himself (dat:1453):
+
+![Dan's 2026-09-12 outbound iMessages to Kristin: four texts and a dispensary photo, all delivered](../media/upload-027.jpg)
+
+Four texts, a dispensary photo, all marked Delivered, no reply in frame. The
+screenshot is Dan's own — "Look wgat you did", sent to the assistant at
+06:53:31 UTC. The in-chat joke that followed ("Eight-month block, dead in four
+texts and a dispensary photo") is not evidence and is not cited as any; the
+screenshot is the evidence, parsed above.
+
+What this changes: every "held permanently / eight months / no contact"
+sentence on this page now describes the period 2025-12-10 → 2026-08-26, not
+the present. The block-unblock-loop synthesis keeps the December 2025 episode
+as its inbound-block instance, but the control-case claim is annotated, not
+asserted, until the September re-entry resolves.
 
 ## Notes
 

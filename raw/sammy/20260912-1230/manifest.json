@@ -1,0 +1,33 @@
+{
+ "batch": "20260912-1230",
+ "source_id": "src:sammy-chat-transcript-20260912-1230",
+ "window_start": "2026-09-12T11:40:36.166+00:00",
+ "window_end": "2026-09-12T12:30:00.000+00:00",
+ "pulled_at": "2026-09-12T12:42:00+00:00",
+ "first_message_at": "2026-09-12T11:40:36.166+00:00",
+ "last_message_at": "2026-09-12T12:26:11.640+00:00",
+ "counts": {
+  "user_assistant_rows": 1,
+  "user_rows": 0,
+  "assistant_rows": 1,
+  "system_rows": 78,
+  "total_rows": 79
+ },
+ "validation": {
+  "chat_rows_unique_ids": true,
+  "chat_rows_chronological": true,
+  "all_body_lengths_match": true,
+  "all_body_md5_match": true
+ },
+ "note": "chats.json holds 1 assistant row, byte-exact (blen 602, md5 d899e0617e0f50faa0da5059d901f83f). System rows hash-pinned in system_manifest.json (78 rows, unique ids, chronological; all blen/md5 triplets re-verified against DB with an independent query — 6 hand-transcribed blen values corrected, 0 md5 mismatches). First system row (tool-guidance-carrier at 11:40:36.166Z) is the 1-row overlap with batch 20260912-1140's last system row. Window cutoff frozen at 12:30:00Z; 0 user messages in window.",
+ "files": {
+  "chats.json": {
+   "sha256": "ac49e2ee00bec9d6d90dc9dfecc96be06fa52389729af6e44cd7b26af65479e4",
+   "bytes": 881
+  },
+  "system_manifest.json": {
+   "sha256": "17075bc8d0fab98b90838cac8164136519ca57ecd052934c392825e9cdbf8605",
+   "bytes": 27682
+  }
+ }
+}

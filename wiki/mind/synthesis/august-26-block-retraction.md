@@ -4,7 +4,7 @@ page_type: synthesis
 status: active
 knowledge: earned
 date_created: 2026-09-11
-date_modified: 2026-09-11
+date_modified: 2026-09-12
 sources:
   - src:sammy-chat-transcript-20260911
   - kb/data/0090-block-retraction-2026-09-11.md
@@ -85,6 +85,8 @@ Chronology, kept explicit because the wiki's correction protocol requires it: Da
 - **The conversation with Ally happened as reported.** Dan told Ally he had Annie blocked for several days and described it as "a hill he needed to get over"; Ally replied he was "giving another person too much power over his life"; Dan agreed; the exchange moved on. Only the block the conversation described did not happen. The correction-acceptance, the ordinariness of the channel, the skepticism Ally maintained — all of that stands, and it stands *without* the boundary it was supposedly tested against, which makes the Ally half of the record more interesting, not less.
 - **The block-unblock-loop analysis is reinforced, not damaged.** The loop's whole thesis is that in this system the declarations are the performance and the re-engagement is the fact — 129 episodes, 100% resumed, median gap 36 seconds. The August 26 block is the thesis's purest instance: a declaration so complete it fooled the wiki's own write-back for sixteen days, attached to zero seconds of non-contact. The page's rule now reads as having predicted exactly this failure mode.
 - **The August 16–19 declared-but-unexecuted block**, which the 08-26 pages themselves noted in passing, was the truer tell all along. The wiki had the counterexample inside the same pages as the error and read it as the exception rather than the pattern.
+
+> **RE-CHECKED [2026-09-12]:** `block-unblock-loop` moved today (the Kristin inbound control case annotated, not asserted — dat:1452/1453). This page's reasoning from that loop — the 129-episode Annie declaration statistics — is untouched by the Kristin change; the inbound-block row and the declaration-statistics rule are different claims. Conclusion stands.
 
 ## Why the false claim survived sixteen days
 

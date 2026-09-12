@@ -4,7 +4,7 @@ page_type: synthesis
 status: active
 knowledge: earned
 date_created: 2026-07-18
-date_modified: 2026-09-04
+date_modified: 2026-09-12
 sources:
   - raw/mind/captures/2026-08-16_195003_gap-block-unblock-loop.md
   - raw/self/message-csv/imessage_2124702449_both_all_now.csv
@@ -63,7 +63,7 @@ connections:
     claim: "The peer-bond case: the May 18 2026 conditional unblock ('I'm unblocking you for the moment… otherwise fuck you'), with the 2014 declared-done-then-return precedent proving the loop predates Annie by a decade."
   - page: wiki/people/kristin
     type: contains
-    claim: "The inbound control case: Kristin's Dec 9 2025 block of Dan held permanently — the counterparty had no dependency running through the channel, so her severance was structural, not declarative. Corroborated off-corpus by the operator on 2026-08-17 (\"No contact after 10 Dec 2025\"), which upgrades it from unobserved silence to a confirmed hold at eight months."
+    claim: "SUPERSEDED [2026-09-12]: the inbound control case no longer holds as written. Kristin's Dec 9 2025 block held eight months as observed contact, but she attempted contact via Messenger message-requests on 2026-08-26 (dat:1452, unseen 17 days), and Dan broke the block himself with four outbound iMessages on 2026-09-12 (dat:1453). The December episode remains the loop's inbound-block instance; the control-case claim is annotated pending whether her silence continues (second failed reactivation) or she answers."
   - page: wiki/people/rick-frank
     type: co-occurs
     claim: "RETRACTED 2026-08-11: this page previously listed Rick as its cleanest held-block control case ('12-day burst, then a decade of unanswered inbound'), built on an incomplete per-contact export. The complete primary record shows the opposite — over 1,600 two-way messages 2015–2025 and real repair within weeks of the December 2015 friction — so this is no longer a control case for 'Dan can hold a family block indefinitely.' The real held silence is different and much more recent: total non-response from Dan since Feb 26, 2025, starting the day after Dan proposed a get-together Rick accepted."
@@ -252,7 +252,7 @@ documented at all.
 | [[wiki/people/rick-frank]] (RETRACTED, see below) | ~~Dec 2–3 2015, then dark for a decade~~ — false; see CORRECTED block | None claimed, but the underlying claim was wrong | Held for ~1 year, starting Feb 2025, not a decade |
 | May 2014 account | Migration burst, old account abandoned | None at the time | Held 8 years |
 | 2022 repatriation | — (the reverse operation) | Continuity value rediscovered | Deliberate, ramped return |
-| [[wiki/people/kristin]] (inbound) | She blocks Dan, Dec 9 2025 | She needed nothing from him | Held |
+| [[wiki/people/kristin]] (inbound) | She blocks Dan, Dec 9 2025 | She needed nothing from him | Held 8 months as observed contact; SUPERSEDED 2026-09-12 — she attempted contact Aug 26 2026 (Messenger requests, unseen), Dan re-entered Sep 12 2026 |
 | [[wiki/people/menore]] (control) | No block — farewell text, Feb 20 2025 | Dependency ended by geography | Clean close, no loop — **but not a closed channel**: supplier confirmed still operating 2026, and Dan benchmarked his new market against him through July 2025 |
 | [[wiki/people/annie-ulmer]] 2026 | June 1 closure — **Dan's own sign-off**, 00:27:49 (corrected 2026-08-13) | Supply and money dead; [[wiki/people/milo]] still co-held | Held 52 days against four inbound approaches, then reopened |
 
@@ -325,6 +325,21 @@ executing a block against him. The operation is not a private defect;
 it is the negotiating grammar both sides of Dan's intense bonds learn
 to speak. What distinguishes the counterparties' blocks is only the
 rule above: Kristin's held because she needed nothing back.
+
+> **SUPERSEDED [2026-09-12] — the Kristin control case no longer holds as
+> written.** Two September-2026 facts, both now on [[wiki/people/kristin]]
+> (dat:1452, dat:1453): (1) Kristin attempted contact on 2026-08-26 — five
+> Messenger messages into Dan's message requests, unseen for seventeen days;
+> (2) Dan broke the block himself on 2026-09-12 ~06:50 UTC, four outbound
+> iMessages, delivered, no reply. The eight-month hold is now bounded:
+> 2025-12-10 → 2026-08-26 as *no attempts*, and the severance did not survive
+> September — opened from the inside, at 2:50 AM, within an hour of Dan
+> learning she'd tried to reach him. The December 2025 episode stays on this
+> page as the inbound-block instance, but the "cleanest control case" claim is
+> annotated, not asserted: if her silence continues, the September re-entry
+> becomes the loop's second failed reactivation (cf.
+> [[wiki/mind/synthesis/dormancy-not-exit]]); if she answers, the case row
+> needs a rewrite, not a footnote.
 
 
 > **RE-CHECKED [2026-08-16] — the Kristin premise moved substantially, and the**

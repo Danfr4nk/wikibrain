@@ -1285,6 +1285,44 @@
      "sha256": "a973a0e3be134d455ac9a75063827c24e8c0000241c5257e3d408d6fd1d387bf"
     }
    ]
+  },
+  {
+   "id": "upload-027",
+   "type": "image",
+   "count": 1,
+   "date": "2026-09-12T06:53:31Z upload (screenshot taken ~06:51Z; phone clock 2:51 AM EDT).",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/7e/7e967810f1e04dc88ac951c7b7ab1d368f3c6a773be6cafd3418dba7a7e04e6b.jpg",
+   "description": "828x1792 iMessage screenshot, filename equals SHA-256. Dan's outbound thread with Kristin: 4 blue-bubble texts, all Delivered, no reply visible — (1) 'It's weird I thought about you you yesterday on the kirkaversary' [Edited], (2) 'I moved. Come see me tomorrow', (3) photo of dispensary cannabis products (Maitri Medical Uniontown, Flower Foundry packaging, insa KUSH MNZ), (4) 'I give you dispo trees'. Sent ~2:50 AM EDT 2026-09-12, minutes after the assistant surfaced Kristin's unseen Aug-26 Messenger messages (dat:1452). Dan's 'Look wgat you did' (06:53:31Z). This is Dan breaking the Dec-2025 block himself; see dat:1453.",
+   "analysis_status": "analyzed-full-res",
+   "compressed_path": "wiki/media/upload-027.jpg",
+   "linked_nodes": [
+    "wiki/people/kristin.md"
+   ],
+   "manifest": [
+    {
+     "file": "7e967810f1e04dc88ac951c7b7ab1d368f3c6a773be6cafd3418dba7a7e04e6b.jpg",
+     "sha256": "7e967810f1e04dc88ac951c7b7ab1d368f3c6a773be6cafd3418dba7a7e04e6b"
+    }
+   ]
+  },
+  {
+   "id": "upload-028",
+   "type": "video",
+   "count": 1,
+   "date": "2026-09-12T06:55:40Z upload (screen recording taken ~06:55Z; on-screen clock 2:55 AM EDT).",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/video/d8/d8bf3f17f4589e256bd3ff63fb4716b64203f52501eb935ee4b29e5a1983d2b7.mp4",
+   "description": "10.7s 720x1558 HEVC screen recording of Dan scrolling his Messenger thread list ('See many more', 06:55:40Z). Top entry: 'Message request / Kristin Shaelene / Ew lol / Aug 26' — visual confirmation the Kristin thread sat in message requests (cf. dat:1452, PENDING folder). Also visible: Ryan Lisac (Aug 16), Suzanne Frank (Aug 6, attachment), TOM (Jul 2), Rachelle Maison - Zebro (Jul 1), Dr. Amy Acton (Jun 30), Ismaila Barry (3 new messages), Danielle Onesi (Mar 20 2025, 3 new messages), Brad Hubeaut (Mar 17 2025), Sena LeDonne (Nov 15 2024), Bobby Cole (Nov 5 2024), Stan Newman (Sep 2 2024), Josh Brannan (Jul 19 2024, 4 new messages), Modi Khalifa (Jul 18 2024), Gio Solco (May 21 2024, attachment), Lucie Dobbin (May 7 2024), and a second message-request entry. Corroborates Dan's 06:54:33Z correction that the assistant's 2-thread Messenger pull was a partial view. No discernible audio; 3 frames extracted for the record.",
+   "analysis_status": "analyzed-frames",
+   "compressed_path": null,
+   "linked_nodes": [],
+   "manifest": [
+    {
+     "file": "d8bf3f17f4589e256bd3ff63fb4716b64203f52501eb935ee4b29e5a1983d2b7.mp4",
+     "sha256": "d8bf3f17f4589e256bd3ff63fb4716b64203f52501eb935ee4b29e5a1983d2b7"
+    }
+   ]
   }
  ],
  "policy": "Originals are never committed to wikitest or RAWLOGS. This registry maps each item to its canonical location (Google Photos share URL or Drive path). Compressed derivatives for wiki entries live under media/<batch-slug>/ and are referenced from the src:/dat: nodes.",

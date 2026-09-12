@@ -49,3 +49,5 @@ Yearly action counts:
 Peak months: 2011-05 (1,784), 2013-03 (1,559), 2013-01 (1,467), 2022-04 (1,417). Lowest: 2024-08 (2), 2024-03 (4), 2024-06 (4).
 
 The 2023-2024 drop hits searches, visits, AND passive watches simultaneously (2024: 73 searches, 2 visits, 570 watches). A behavior change cannot suppress passive watch-logging; this is Web & App Activity being paused, a signed-out browser, or an account switch. Treat 2023+ as coverage decay, not as Dan searching less.
+
+> **COVERAGE NOTE [2026-09-12]:** the 16,302 watch events inside this timeline's 108,821 actions are single-YouTube-account ("Dan Frank" channel) data per dat:1441 — the operator confirmed 2026-09-12 he watched "exactly as much YouTube every day since 2013" on a second account whose history is not held in any export. Treat watch counts as lower bounds, not a census. The 2023–24 collapse reading (logging/account change, not behavior change) is unaffected.
