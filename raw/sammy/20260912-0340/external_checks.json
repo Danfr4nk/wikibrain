@@ -1,0 +1,46 @@
+{
+ "batch": "20260912-0340",
+ "pulled_at_utc": "2026-09-12T03:40:00Z",
+ "instagram": {
+  "status": "connected",
+  "account": "ihatedanfrank",
+  "newest_post": "2026-08-26 23:04:49",
+  "watermark": "2026-08-26T23:04:49-04:00",
+  "new_items": 0
+ },
+ "threads": {
+  "status": "connected",
+  "account": "ihatedanfrank",
+  "newest_post": "2026-08-26 23:04:55",
+  "watermark": "2026-08-26T23:04:55Z",
+  "new_items": 0
+ },
+ "facebook": {
+  "status": "connected",
+  "account": "Dan Frank",
+  "newest_post": "2026-07-04T19:51:25+00:00",
+  "watermark": "2026-07-04T15:51:25-04:00",
+  "new_items": 0
+ },
+ "messenger": {
+  "status": "connected",
+  "newest_thread_ts": "2026-08-26T22:23:43.707Z",
+  "watermark": "2026-08-26T22:23:43Z",
+  "new_items": 0
+ },
+ "spotify": {
+  "status": "connected",
+  "now_playing_track": "Satisfy You",
+  "context": "Release Radar",
+  "note": "snapshot + library inventory saved; no recently-played endpoint",
+  "new_items": 0
+ },
+ "device": {
+  "status": "no read path",
+  "note": "no read path for iOS texts in device-data skill"
+ },
+ "gmail": {
+  "status": "excluded",
+  "note": "Dan dropped Gmail from the pulls 2026-09-11"
+ }
+}
