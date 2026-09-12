@@ -1,0 +1,938 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 35860 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Was your degree mostly physics or is it more modeling and materials stuff?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656666074766
+    },
+    {
+      "content": "Yay capitalismâ¦the brightest and most highly trained people on the planet get to work at horror show restaurants in New York City and endure very overzealous andâ¦letâs be honest, creepy gringo losers the whole time",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656665964612
+    },
+    {
+      "content": "Maybe that would be a perfect excuse for me to ask you to hang out",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656665123798
+    },
+    {
+      "content": "And since youâre such a good speaker of both",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656665074124
+    },
+    {
+      "content": "I need some Spanish lessons",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656665050556
+    },
+    {
+      "content": "I think",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656665035910
+    },
+    {
+      "content": "ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656664275241
+    },
+    {
+      "content": "I have WhatsApp too if thatâs easier",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656664261777
+    },
+    {
+      "content": "6467376955\n\nText me because Iâm bad at checking this",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656664250480
+    },
+    {
+      "content": "I've fucking worked with nasa and jaxa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656646821785
+    },
+    {
+      "content": "I've built not only one, but two functional satellites that are in space right now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656646789689
+    },
+    {
+      "content": "I graduated from aerospace engineering",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656646751988
+    },
+    {
+      "content": "you're such a stalker",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656646741553
+    },
+    {
+      "content": "hahahaha you're right, i should've known",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656646736833
+    },
+    {
+      "content": "So wait did you actually go into a STEM degree?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656646713764
+    },
+    {
+      "content": "But you should know me well enough by now to know Iâve done extensive research on you so Iâm very well aware that youâre a preternaturally talented dancer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656646681570
+    },
+    {
+      "content": "I mean Iâve never seen it in person",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656646645657
+    },
+    {
+      "content": "and you've never seen me dance, you'd pass out, I'm that good hahahahahaha jk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656646487433
+    },
+    {
+      "content": "but of course they don't know that hahahahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656645979492
+    },
+    {
+      "content": "I mean, I'm good with technology I'm a fucking aerospace engineer for god's sake, I can think of at least 3 quick fixes for our tech problems",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656645967860
+    },
+    {
+      "content": "I tried to tell dimitri today something about the ipads and a way to make them quicker but he just told me that khalid's the one who oversees that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656645915473
+    },
+    {
+      "content": "Youâre kinda weird, you know that? Like youâre intimidatingly smart and quick and you get jokes in Englishâ¦youâve got a lot more going on than most pretty girls",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656645676127
+    },
+    {
+      "content": "But this is torture even thinking about it letâs just go back to discussing the beautiful hostess and her snacky red dress",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656645535712
+    },
+    {
+      "content": "Those are the problems that are literally so critical that I can not do my job until they are resolved.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656645467915
+    },
+    {
+      "content": "Thereâs several problems going on right nowâ¦in order of importance \n\n- wifi (no drink tickets and music problems)\n- bar (untrained bartenders canât make correct drinks and too many missing menu options)\n- POS (slow, batteries die immediately, not enough iPads, compatibility issues with iPad and white machines)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656645438509
+    },
+    {
+      "content": "If I donât do something itâs going to be a complete catastrophe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656645280255
+    },
+    {
+      "content": "I donât know",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656645260656
+    },
+    {
+      "content": "Yes so tomorrow",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656645257143
+    },
+    {
+      "content": "Iâm not Latino so obviously I donât voice text",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656645219348
+    },
+    {
+      "content": "Sorry misfire lmao",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656645206146
+    },
+    {
+      "audio_files": [
+        {
+          "creation_timestamp": 1656645200,
+          "uri": "your_instagram_activity/messages/inbox/instagramuser_928486848549414/audio/audioclip16566452000001207_442724444076993.mp4"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656645200412
+    },
+    {
+      "content": "dimitri told sharna and me to write any complaints we have cause apparently we'll discuss them tomorrow",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656645038918
+    },
+    {
+      "content": "tomorrow is gonna be crazy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656645009299
+    },
+    {
+      "content": "omg dylan was soooo nice, he really was trying very hard and staying positive and calm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656645000893
+    },
+    {
+      "content": "that's my pretty privilege i love it hahahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656644952416
+    },
+    {
+      "content": "yet",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656644899903
+    },
+    {
+      "content": "I won't quit,",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656644897811
+    },
+    {
+      "content": "I felt so bad for Dylan tonight he was doing such a good job and trying so hard and dimitri like yelled at me when I told him he was doing good",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656643799528
+    },
+    {
+      "content": "Which you have totally earnedâ¦but given my completely flagrant and obvious crush I would have been forced to say you were doing well anyways",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656643570058
+    },
+    {
+      "content": "And I gave him a glowing review of your performance",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656643422732
+    },
+    {
+      "content": "Dimitri asked me again today about you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656643407920
+    },
+    {
+      "content": "Youâre not allowed to quit",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656643395087
+    },
+    {
+      "content": "thank youuuu ð¥°\nis the magic dancing does for me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656642794011
+    },
+    {
+      "content": "You looked extra extra stunning today omg",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656642016303
+    },
+    {
+      "content": "Soâ¦..",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656641980193
+    },
+    {
+      "content": "they don't care about any us you guys, they only care about themselves, and as you said, as long as the restaurant keeps thriving even with new staff every couple of months, they'll never change",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656590863416
+    },
+    {
+      "content": "that's no life my friend",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656590785135
+    },
+    {
+      "content": "I've been there a week and I'm already ready to quit hahahahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656590770862
+    },
+    {
+      "content": "are you for real? I mean, is the money really that good that you stick up to it? to the exploitation, the rudeness, the madness??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656590735908
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1656577150,
+          "uri": "your_instagram_activity/messages/inbox/instagramuser_928486848549414/photos/290775592_1242516699885806_1588174985921456124_n_449267417023999.jpg"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656577149068
+    },
+    {
+      "content": "Iâve lost 20 pounds from the stress",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656577104487
+    },
+    {
+      "content": "Do you realizeâ¦and seriously think about thisâ¦\n\nI have been in this disaster for a year straight. No vacations. 6 days a week.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656577061192
+    },
+    {
+      "content": "Dimitri is literally the stupidest and worst manager possible and tarik is not interested in anything that might make things even slightly better for us",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656576999704
+    },
+    {
+      "content": "Tonight was BRUTAL and the vibes are just completely fucked",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656576890519
+    },
+    {
+      "content": "Iâm just now starting to snap out of it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656576863937
+    },
+    {
+      "content": "Holy shit",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656576856194
+    },
+    {
+      "content": "omw",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656535317914
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656535313178
+    },
+    {
+      "content": "yep",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656535309491
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656534559957,
+      "videos": [
+        {
+          "creation_timestamp": 1656534561,
+          "uri": "your_instagram_activity/messages/inbox/instagramuser_928486848549414/videos/10000000_1143371646243043_7325879992096495646_n_438185331531882.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Are you coming today",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656534554153
+    },
+    {
+      "content": "fun time to be working",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656534439281
+    },
+    {
+      "content": "Okay now she and I are yelling at each other",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656534413352
+    },
+    {
+      "content": "Felipe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656533800173
+    },
+    {
+      "content": "who was at the bar yesterday??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656533746749
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656533514783
+    },
+    {
+      "content": "Sheâs so mad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656533328344
+    },
+    {
+      "content": "Her fucking mind",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656533317626
+    },
+    {
+      "content": "Is losing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656533314784
+    },
+    {
+      "content": "The bartender",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656533312438
+    },
+    {
+      "content": "My god",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656533309435
+    },
+    {
+      "content": "Oh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656533307636
+    },
+    {
+      "content": "hahahaha see u soon",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656530168210
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656529299076
+    },
+    {
+      "content": "he was being very rude to the bussers and to me and i couldn't take it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656529289749
+    },
+    {
+      "content": "is felipe leaving too?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656529192701
+    },
+    {
+      "content": "fuck",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656529184959
+    },
+    {
+      "content": "hahahahaha oops that was my anxiety talking then",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656529170498
+    },
+    {
+      "content": "what do you mean no bartender? is the new girl not going? her day off was yesterday like me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656529152389
+    },
+    {
+      "content": "But I am curious what did you tell dimitri lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656528682542
+    },
+    {
+      "content": "When I said drama awaits you it was not at all about or related to something you did",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656528644683
+    },
+    {
+      "content": "I donât think dimitri is mad? I asked him yesterday if you were coming in and he just said it was your day off",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656528516862
+    },
+    {
+      "content": "No dj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656528461684
+    },
+    {
+      "content": "No Felipe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656528456877
+    },
+    {
+      "content": "No bartender",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656528453477
+    },
+    {
+      "content": "Omfggggg today is going to be a shit show",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656528446956
+    },
+    {
+      "content": "i told him some stuff yesterday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656447785541
+    },
+    {
+      "content": "is dimitri mad at me?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656447774671
+    },
+    {
+      "content": "Omg drama awaits you here",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656443030970
+    },
+    {
+      "content": "this made my day",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656354806049
+    },
+    {
+      "content": "are you for real omg he looks so funny in that hat",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656354796811
+    },
+    {
+      "content": "hahahahahahahahahahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656354771049
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656350437431,
+      "videos": [
+        {
+          "creation_timestamp": 1656350438,
+          "uri": "your_instagram_activity/messages/inbox/instagramuser_928486848549414/videos/287259646_180843427651489_355096257803459558_n_1269263243841533.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Fuck I meant to send that before oops",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656350427574
+    },
+    {
+      "content": "Thereâs your dimitri info",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656342598420
+    },
+    {
+      "content": "omg ð¤£ð¤£ð¤£ð¤£",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656341513816
+    },
+    {
+      "content": "you'd get on so well with my friends back home",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656340274054
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656336046074
+    },
+    {
+      "content": "Iâm also incredibly curious what aztechsat is and the details of whatever STEM vibes put you on a panel to speak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656335872515
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656335514524,
+      "videos": [
+        {
+          "creation_timestamp": 1656335515,
+          "uri": "your_instagram_activity/messages/inbox/instagramuser_928486848549414/videos/289983185_411745474228592_3510293074309454032_n_547266486873127.mp4"
+        }
+      ]
+    },
+    {
+      "content": "not declined!! I just don't know where my head is sometimes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656335444836
+    },
+    {
+      "content": "I really hadn't found your note",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656335329718
+    },
+    {
+      "content": "really???? :( now that you mention it, i remember you told me to check my bag, but I guess I forgot",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656335299803
+    },
+    {
+      "content": "the only things i see in twitter are taylor swift, 1d and my friends ð¤£ some feminism here and there and that's it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656335265367
+    },
+    {
+      "content": "me and my friends in mexico use it a lot but that's probably cause we're self obsessed and love gossip",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656335193453
+    },
+    {
+      "content": "And ever since Iâve been debating the odds of how likely it would be that you had not found it against the probability of the note being declined haga",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656334344105
+    },
+    {
+      "content": "Listen I put that in your bag on like Tuesday. It was the night I came back right after I leftâ¦thatâs why I came back and I said âcheck your bagâ on my way back out",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656334271742
+    },
+    {
+      "content": "I was PRETTY sure you werenât in the second group but now Iâm sure ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656334180447
+    },
+    {
+      "content": "If you do youâre either very woke and politically engaged or youâre a fascist groyper who wants to express their intent to kill minorities",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656334145752
+    },
+    {
+      "content": "Listen thereâs not a lot of people who still use Twitter actively",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656334089558
+    },
+    {
+      "content": "THERES NO DIMITRI GOSSIP lmao I just was trying to subtly open the line of communication lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656334065499
+    },
+    {
+      "content": "how can someone not be obsessed with twitter?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656334030231
+    },
+    {
+      "content": "i really would like to know the dimitri gossip",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656334013137
+    },
+    {
+      "content": "So trust me I get it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656334003914
+    },
+    {
+      "content": "Yeah itâs really a very specific type of person that is still obsessed with Twitter",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656334000577
+    },
+    {
+      "content": "twitter is literally my favorite app I love ittttt",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656333979389
+    },
+    {
+      "content": "Let me guessâ¦itâs white and has words that are lies about having some important âdimitri informationâ on it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656333947052
+    },
+    {
+      "content": "i really should check my bag more hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656333918797
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656333907082
+    },
+    {
+      "content": "guess what i just found",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656333886860
+    },
+    {
+      "content": "âï¸ ultra pretty\nâï¸woke & politically aware\nâï¸speaks Spanish\nâï¸smart\n\nIâm done for ugh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656333812442
+    },
+    {
+      "content": "Also Iâm just completely helpless now that I know youâre not only a leftist but you keep an active Twitter account ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656333190881
+    },
+    {
+      "content": "I mean that move is verryyyy risky on the creep scale so after that one didnât work I scaled back my effort slightly lmao",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656332645737
+    },
+    {
+      "content": "did you never find the note I stuck in your bag?? ð£",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656332581990
+    },
+    {
+      "content": "you just had to ask ð¤£ð¤£ð¤£ð¤£",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656331395100
+    },
+    {
+      "content": "this could've been easier",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656331383369
+    },
+    {
+      "content": "It was NOT easy and I have like 300 new Hispanic friends on here named Sofia that got added in the process. ððð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656321088616
+    },
+    {
+      "content": "If you only knew the time and effort Iâve dedicated to searching you out online to bother you lmao.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656320997495
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:39:08.465-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:39:08.465Z"
+  },
+  "thread_path": "inbox/instagramuser_928486848549414",
+  "title": "Instagram User"
+}

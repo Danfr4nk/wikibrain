@@ -1,0 +1,164 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 3684 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "relationships_feed_favorites": [
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_simo_am",
+          "timestamp": 1668754502,
+          "value": "_simo_am"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/ejregula",
+          "timestamp": 1668754496,
+          "value": "ejregula"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/mrfriedline",
+          "timestamp": 1668754486,
+          "value": "mrfriedline"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/ledonnestudio",
+          "timestamp": 1668754482,
+          "value": "ledonnestudio"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/phloxenheim",
+          "timestamp": 1668754473,
+          "value": "phloxenheim"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/sassy_mcdracula",
+          "timestamp": 1668754471,
+          "value": "sassy_mcdracula"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/maye_santigo_",
+          "timestamp": 1667447677,
+          "value": "maye_santigo_"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/manueltiagoo",
+          "timestamp": 1667447677,
+          "value": "manueltiagoo"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/melchornamikaze",
+          "timestamp": 1667447677,
+          "value": "melchornamikaze"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/felipee_nyc",
+          "timestamp": 1667447677,
+          "value": "felipee_nyc"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/anneloulm",
+          "timestamp": 1667447677,
+          "value": "anneloulm"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/akramul_haque09",
+          "timestamp": 1667447677,
+          "value": "akramul_haque09"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/hello.rgl",
+          "timestamp": 1667447677,
+          "value": "hello.rgl"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_stod",
+          "timestamp": 1667447677,
+          "value": "_stod"
+        }
+      ],
+      "title": ""
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:22:40.683-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:22:40.683Z"
+  }
+}

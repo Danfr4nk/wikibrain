@@ -1,0 +1,20 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 263 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "fbid": "138423685875979",
+  "label_values": [
+    {
+      "label": "Is opted out of ads about Meta",
+      "value": "False"
+    },
+    {
+      "label": "When you last opted out of ads about Meta",
+      "timestamp_value": 0
+    }
+  ],
+  "media": [],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:21:58.025-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:21:58.025Z"
+  }
+}

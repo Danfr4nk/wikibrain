@@ -1,0 +1,21 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 298 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "relationships_restricted_users": [
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_corsan_",
+          "timestamp": 1659752392,
+          "value": "_corsan_"
+        }
+      ],
+      "title": ""
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:22:37.007-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:22:37.007Z"
+  }
+}

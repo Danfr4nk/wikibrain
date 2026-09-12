@@ -1,0 +1,165 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 3599 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:24:21.622-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:24:21.622Z"
+  },
+  "text_post_app_text_app_interest_feeds": [
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Added topic names delimited by `|`": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        },
+        "Added usernames delimited by `|`": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        },
+        "Feed name": {
+          "href": "",
+          "timestamp": 0,
+          "value": "archived"
+        },
+        "Feed type": {
+          "href": "",
+          "timestamp": 0,
+          "value": "archived"
+        },
+        "Owner username": {
+          "href": "",
+          "timestamp": 0,
+          "value": "ihatedanfrank"
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Added topic names delimited by `|`": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        },
+        "Added usernames delimited by `|`": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        },
+        "Feed name": {
+          "href": "",
+          "timestamp": 0,
+          "value": "saved"
+        },
+        "Feed type": {
+          "href": "",
+          "timestamp": 0,
+          "value": "saved"
+        },
+        "Owner username": {
+          "href": "",
+          "timestamp": 0,
+          "value": "ihatedanfrank"
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Added topic names delimited by `|`": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        },
+        "Added usernames delimited by `|`": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        },
+        "Feed name": {
+          "href": "",
+          "timestamp": 0,
+          "value": "liked"
+        },
+        "Feed type": {
+          "href": "",
+          "timestamp": 0,
+          "value": "liked"
+        },
+        "Owner username": {
+          "href": "",
+          "timestamp": 0,
+          "value": "ihatedanfrank"
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Added topic names delimited by `|`": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        },
+        "Added usernames delimited by `|`": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        },
+        "Feed name": {
+          "href": "",
+          "timestamp": 0,
+          "value": "following"
+        },
+        "Feed type": {
+          "href": "",
+          "timestamp": 0,
+          "value": "following"
+        },
+        "Owner username": {
+          "href": "",
+          "timestamp": 0,
+          "value": "ihatedanfrank"
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Added topic names delimited by `|`": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        },
+        "Added usernames delimited by `|`": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        },
+        "Feed name": {
+          "href": "",
+          "timestamp": 0,
+          "value": "for_you"
+        },
+        "Feed type": {
+          "href": "",
+          "timestamp": 0,
+          "value": "for_you"
+        },
+        "Owner username": {
+          "href": "",
+          "timestamp": 0,
+          "value": "ihatedanfrank"
+        }
+      },
+      "title": ""
+    }
+  ]
+}

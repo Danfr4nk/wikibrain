@@ -1,0 +1,30 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 723 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Hello! Sitting at the bathrooms!\n\n469-774-3324! Good to meet you, i make music and am from Texas. I wish you luck on your endeavors.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Cameron Xavier Allmond (Cavalier.)",
+      "timestamp_ms": 1555787367854
+    }
+  ],
+  "participants": [
+    {
+      "name": "Cameron Xavier Allmond (Cavalier.)"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:28:22.090-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:28:22.090Z"
+  },
+  "thread_path": "message_requests/cameronxavierallmondcavalier_591459308917548",
+  "title": "Cameron Xavier Allmond (Cavalier.)"
+}

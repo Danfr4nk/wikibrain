@@ -1,0 +1,304 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 11995 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664080576942,
+      "videos": [
+        {
+          "creation_timestamp": 1664080568,
+          "uri": "your_instagram_activity/messages/inbox/davidk_485402112856602/videos/AQNS7dgMa6ByLTYzIvxGQGttkk747Uwz9Sncblo7_nUaLqjVczUFXk89tzI5bzQ1Y5bUx17hgjBzCECkFxM4myN4rhTRrxdFb_tL8vXiVhPecR_774067437005994.mp4"
+        }
+      ]
+    },
+    {
+      "content": "I'm gonna check this out for sure!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "David K",
+      "timestamp_ms": 1664003049741
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663982522577,
+      "videos": [
+        {
+          "creation_timestamp": 1663982515,
+          "uri": "your_instagram_activity/messages/inbox/davidk_485402112856602/videos/AQNPuoCbKgUWDOYFNaxdDBIvh70yaBJPRWmDFyJoh6TPz7md1iEyN1CGMfwnz99Fn85EO7JVpUmx_hfrVgBlauTwRmW3kBV_7idikBPBuWUvYS_1056519685052946.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Auto stems and acaoellas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663982521830
+    },
+    {
+      "content": "Download app Moises",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663982513032
+    },
+    {
+      "content": "Dude omg",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663982490164
+    },
+    {
+      "content": "I just absolutely love it here and everything about this place",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663389680408
+    },
+    {
+      "content": "Sorry I wasnât trying to knock Las Vegas as much as I was trying to rep nyc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663389638050
+    },
+    {
+      "content": "I don't like Las Vegas for what its known for, I like the small nooks and crannies where the cultural things are happening. \n\nI moved away for a bit, and came back, although now is the first time I'm actually working doing what I moved here wanting to do, and now I'm working with aeg presents booking concerts and comedy shows out of some beautiful theaters here. \n\nI don't think I will retire here, But if you're ever looking to get out of your city, you could visit here and not have to go to a casino, and have a glorious time.\nI plan to take another trip to the city. And trust me, I've always wanted to move there.. I can't wrap my head around getting there and staying, just the cost moving in alone is fucking crazy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "David K",
+      "timestamp_ms": 1663128780551
+    },
+    {
+      "content": "That was in the âfinding myselfâ phase",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663124472217
+    },
+    {
+      "content": "And also thanks for making me feel old because âgrowing upâ was something I experienced well before Florida hahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663124459031
+    },
+    {
+      "content": "I wanted to move to LA after college and I ended up here and I canât tell you how much I love it still",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663124405772
+    },
+    {
+      "content": "If you would like to have the debate about which one of our two adopted cities is better Iâm glad to have it.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663124350787
+    },
+    {
+      "content": "Hey fuck Las Vegas you come to nyc ð½",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663124302950
+    },
+    {
+      "content": "I need to find the power supply to my backup hard drive from my old MacBook from full sail days.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "David K",
+      "timestamp_ms": 1663123318441
+    },
+    {
+      "content": "Hahahaha it was an incredible time. \nYou're right, about the sentimental value being very personal. \n\nThank you for sharing this with me. Genuinely made me remember how good of a time\nI did have growing up. \n\nAlso... come visit Las Vegas sometime!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "David K",
+      "timestamp_ms": 1663123223016
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "David K",
+      "timestamp_ms": 1663123122368
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "David K",
+      "timestamp_ms": 1663123120820
+    },
+    {
+      "content": "I had to explain to my girlfriend\nâYeah itâs mostly funny because this kid is an evangelical Christian and his involvement in any of this was confusingâ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663122839265
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "David K",
+          "reaction": "â¤ï¸",
+          "timestamp": 1663123120
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663122788849,
+      "videos": [
+        {
+          "creation_timestamp": 1663122779,
+          "uri": "your_instagram_activity/messages/inbox/davidk_485402112856602/videos/AQMfU4xzmw_hqx1SzP8uKq1PycDK9wwVz5sAf9SXDr_0frcxS5cNbi9VCe56kiCE6a4krHwbKyKggGu859dyNU2Ga0uHOih8BBUt0Dxmqqw93l_613737787040731.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Especially as a product of just a terrible awful sub-genre of an already annoying broader genre",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "David K",
+          "reaction": "â¤ï¸",
+          "timestamp": 1663123122
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663122661615
+    },
+    {
+      "content": "But I will tell you - I really do think that the APR songs are objectively good",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663122609703
+    },
+    {
+      "content": "even the cooler stuff - like the forever the sickest kids demos that I grabbed from Coreyâ¦.true the files are not able to be found anywhere else but also nobody cares at all",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663122580156
+    },
+    {
+      "content": "Like I was so excited about it and I immediately realized that, even though all of that stuff really is irreplaceableâ¦it couldnât have less value to anyone who isnât me lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663122520289
+    },
+    {
+      "content": "I thought I had lost of all of that and it was incredible getting it back",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663122485969
+    },
+    {
+      "content": "I have a hard drive with a lot of that time period on it, haha I haven't dug into history in a while",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "David K",
+      "timestamp_ms": 1663120902779
+    },
+    {
+      "content": "Oh what a time it was being young.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "David K",
+      "timestamp_ms": 1663120850356
+    },
+    {
+      "content": "With all of my audio files from 06-10",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663120623698
+    },
+    {
+      "content": "I found a lost backup",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663120612692
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663120402834,
+      "videos": [
+        {
+          "creation_timestamp": 1663120396,
+          "uri": "your_instagram_activity/messages/inbox/davidk_485402112856602/videos/AQO0IIsSK2G4Kkkvi3YAiqcSUGqprhH7W_eVDM7eAUKaLl3wOlsCp_zjMJmo8pXOOeS7OvHStTe_mpaDhwiq8Bys5_iLjnP59tNmqyueMNuxcU_644740100300148.mp4"
+        }
+      ]
+    },
+    {
+      "content": "rekordbox",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601693270008
+    },
+    {
+      "content": "DUDE",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601693266053
+    },
+    {
+      "content": "ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "David K",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2041792780842731139"
+      },
+      "timestamp_ms": 1557621702520
+    },
+    {
+      "content": "How does someone accrue bitcoin?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "David K",
+      "timestamp_ms": 1514346928875
+    },
+    {
+      "content": "Teach me to have wealth.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "David K",
+      "timestamp_ms": 1514346874146
+    }
+  ],
+  "participants": [
+    {
+      "name": "David K"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:36:13.142-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:36:13.142Z"
+  },
+  "thread_path": "inbox/davidk_485402112856602",
+  "title": "David K"
+}

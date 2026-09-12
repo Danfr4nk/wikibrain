@@ -1,0 +1,252 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 8683 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Good choice",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Cosette ð»",
+      "timestamp_ms": 1642392964622
+    },
+    {
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Cosette ð»",
+      "timestamp_ms": 1642392959550
+    },
+    {
+      "content": "So after like 5 times of almost dying I just decided that walking 20 blocks was better than walking 20 blocks with a broken wrist",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1642392795258
+    },
+    {
+      "content": "I tried for like two blocks to ride and every time I started to accelerate the wheels would fishtail",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1642392753494
+    },
+    {
+      "content": "I figure you would end up walking",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Cosette ð»",
+      "timestamp_ms": 1642390906568
+    },
+    {
+      "content": "Hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Cosette ð»",
+      "timestamp_ms": 1642390805320
+    },
+    {
+      "content": "Or just text me 646-737-6955",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1642386755873
+    },
+    {
+      "content": "Text me on here because I always forget to check my ig messages",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1642384813860
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1642384812,
+          "uri": "your_instagram_activity/messages/inbox/cosette_771903654206206/photos/272006328_412859130588079_1827567875426546972_n_1391474901292503.jpg"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1642384811005
+    },
+    {
+      "content": "Literally dead",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1642384648953
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1642384642649,
+      "videos": [
+        {
+          "creation_timestamp": 1642384644,
+          "uri": "your_instagram_activity/messages/inbox/cosette_771903654206206/videos/272093403_773156253845295_3845306765882989159_n_360203582110173.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Yeah sure !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Cosette ð»",
+      "timestamp_ms": 1642313849311
+    },
+    {
+      "content": "I still wanna hang sometime if you ever are bored and can tolerate a trash american lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1642307851759
+    },
+    {
+      "content": "Had*",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Cosette ð»",
+      "timestamp_ms": 1640819069701
+    },
+    {
+      "content": "I has my Phone turn off",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Cosette ð»",
+      "timestamp_ms": 1640819062956
+    },
+    {
+      "content": "Yeah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Cosette ð»",
+      "timestamp_ms": 1640819025754
+    },
+    {
+      "content": "Call silvana sheâs worried about you lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1640754686323
+    },
+    {
+      "content": "hang after work sometime?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1640586122180
+    },
+    {
+      "content": "Itâs okey hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Cosette ð»",
+      "timestamp_ms": 1640410193639
+    },
+    {
+      "content": "eres la mas guapa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1640403827103
+    },
+    {
+      "content": "sorry sorry i didnât even see your message until now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1640398444087
+    },
+    {
+      "content": "So maybe we will arrive a little late",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Cosette ð»",
+      "timestamp_ms": 1640378688419
+    },
+    {
+      "content": "Because of an inconvenience",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Cosette ð»",
+      "timestamp_ms": 1640378659910
+    },
+    {
+      "content": "We are stuck on te train",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Cosette ð»",
+      "timestamp_ms": 1640378627530
+    },
+    {
+      "content": "Hey I just wanted to tell you that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Cosette ð»",
+      "timestamp_ms": 1640378612342
+    },
+    {
+      "content": "Dan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Cosette ð»",
+      "timestamp_ms": 1640378595292
+    },
+    {
+      "content": "ððð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Cosette ð»",
+      "timestamp_ms": 1640326756919
+    },
+    {
+      "content": "Thank you !!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Cosette ð»",
+      "timestamp_ms": 1640326717247
+    },
+    {
+      "content": "but i may have just been using that as an excuse to get your info because iâm totally helpless to pretty girls who speak spanish sooooo ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1640318337540
+    },
+    {
+      "content": "thatâs where you can see the paycheck and get old paychecks if you need",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1640315253500
+    },
+    {
+      "content": "https://my.adp.com/static/redbox/#/dashboard",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://my.adp.com/static/redbox/#/dashboard"
+      },
+      "timestamp_ms": 1640315197717
+    }
+  ],
+  "participants": [
+    {
+      "name": "Cosette ð»"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:38:37.164-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:38:37.164Z"
+  },
+  "thread_path": "inbox/cosette_771903654206206",
+  "title": "Cosette ð»"
+}

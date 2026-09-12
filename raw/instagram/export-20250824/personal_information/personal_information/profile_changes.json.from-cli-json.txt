@@ -1,0 +1,660 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 16913 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "profile_profile_change": [
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1502585421,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Email"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "dfrank88@gmail.com"
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1511207709,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Profile Bio Link"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "https://open.spotify.com/user/dfrank88/playlist/04cPJGCTKNLvQJptA3PD5x?si=Jw8oARJ2Qbm7unQ-f6e5Jg"
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1514349498,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Profile Bio Link"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "http://www.twitter.com/danfrank"
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "https://open.spotify.com/user/dfrank88/playlist/04cPJGCTKNLvQJptA3PD5x?si=Jw8oARJ2Qbm7unQ-f6e5Jg"
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1518682457,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Email"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "ihatedanfrank@gmail.com"
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "dfrank88@gmail.com"
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1518682497,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Email"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "danfr4nk@example.com"
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "ihatedanfrank@gmail.com"
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1518682663,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Email"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "dfrank88@gmail.com"
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "danfr4nk@example.com"
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1518682672,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Email"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "ihatedanfrank@gmail.com"
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "dfrank88@gmail.com"
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1552536591,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Profile Bio Link"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "http://www.ihatedanfrank.com/"
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "http://www.twitter.com/danfrank"
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1552617911,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Username"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "ihatedanfrank"
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1625626276,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Profile Bio Link"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "http://www.twitter.com/danfrank/"
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "http://www.ihatedanfrank.com/"
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1659756740,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Phone Number"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "+16464500022"
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1661584413,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Profile Bio Text"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Leftist politics | Skateboarding | Tattoos | NYC"
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1665975332,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Multiple links"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "(title: Tik Tok, url: http://www.tiktok.com/@caakehorn), (title: , url: )"
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "(title: , url: http://www.twitter.com/danfrank/), (title: , url: )"
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1688344034,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Multiple links"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "(title: Tik Tok, url: http://www.tiktok.com/@caakehorn), (title: , url: ), (title: Twitter, url: http://www.twitter.com/danfrank)"
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "(title: Tik Tok, url: http://www.tiktok.com/@caakehorn), (title: , url: )"
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1688345546,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Profile Bio Text"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Do not go gentle into that good night. Rage, rage against the dying of the light."
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Leftist politics | Skateboarding | Tattoos | NYC"
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1688623723,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Multiple links"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "(title: Tik Tok, url: http://www.tiktok.com/@caakehorn), (title: Twitter, url: http://www.twitter.com/danfrank), (title: , url: ), (title: Threads, url: http://threads.net/@ihatedanfrank)"
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "(title: Tik Tok, url: http://www.tiktok.com/@caakehorn), (title: Twitter, url: http://www.twitter.com/danfrank), (title: , url: )"
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1688634958,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Profile Bio Text"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Described by my loved ones as âinsufferableâ, âdelusionalâ and âshockingly unimpressiveâ"
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Do not go gentle into that good night. Rage, rage against the dying of the light."
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1689125870,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Profile Bio Text"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "I write dumb and bad essays on politics and culture from my cramped NYC studio apartment."
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Described by my loved ones as âinsufferableâ, âdelusionalâ and âshockingly unimpressiveâ"
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1690262962,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Multiple links"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "(title: Tik Tok, url: http://www.tiktok.com/@caakehorn), (title: Twitter, url: http://www.twitter.com/danfrank), (title: , url: )"
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "(title: Tik Tok, url: http://www.tiktok.com/@caakehorn), (title: Twitter, url: http://www.twitter.com/danfrank), (title: , url: ), (title: Threads, url: http://threads.net/@ihatedanfrank)"
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1691644118,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Profile Bio Text"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Champagne socialism"
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "I write dumb and bad essays on politics and culture from my cramped NYC studio apartment."
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1707536260,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Profile Bio Text"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "New York City//\nChampagne socialism//"
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Champagne socialism"
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1742174054,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Profile Bio Text"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "politics sicko"
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "New York City//\nChampagne socialism//"
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1742174170,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Multiple links"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "(title: Twitter, url: http://www.twitter.com/danfrank), (title: , url: )"
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "(title: Tik Tok, url: http://www.tiktok.com/@caakehorn), (title: Twitter, url: http://www.twitter.com/danfrank), (title: , url: )"
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1756037005,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Phone Number"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "+16464500022"
+        }
+      },
+      "title": "Profile Change"
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Change Date": {
+          "href": "",
+          "timestamp": 1756037065,
+          "value": ""
+        },
+        "Changed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Phone Number"
+        },
+        "New Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": "new_security_phone_number_hidden"
+        },
+        "Previous Value": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": "Profile Change"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:23:06.391-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:23:06.391Z"
+  }
+}

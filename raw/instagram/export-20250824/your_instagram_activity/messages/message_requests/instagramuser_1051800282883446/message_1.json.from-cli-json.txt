@@ -1,0 +1,42 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1431 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Instagram User sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "share": {
+        "link": "https://www.instagram.com/_u/the.evac",
+        "profile_share_name": "East Village Art Collection | NYC",
+        "profile_share_username": "the.evac"
+      },
+      "timestamp_ms": 1668278766711
+    },
+    {
+      "content": "Dan, just scrolling through instagram and stumbled across your account, thought your vibes are pretty cool. I work for a gallery in NYC called The East Village Art Collection, we are hosting an immersive art experience on Friday!! It would be great if you came as our guest, we would of course give you a ticket on us!!! This is my personal account, so message the main account @the.evac and mention my name :) \n\nAlso, if you wanna participate as an artist, for sure hit us up!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1668278766302
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:26:38.146-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:26:38.146Z"
+  },
+  "thread_path": "message_requests/instagramuser_1051800282883446",
+  "title": "Instagram User"
+}

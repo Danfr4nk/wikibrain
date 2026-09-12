@@ -1,0 +1,36 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1308 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Hey there ð great profile!\n\nI run a big number of Instagram accounts. I would like to offer you a unique service called âpowerlikesâ. \nThey will help you to grow your Instagram account faster, get more real likes, followers and most importantly more customers. \nI will also provide you with the best hashtags that you should use and give you some tips. \nWe can first make a TEST post for FREE (I don't need your login info). \nContact me on @artifulworld â if you are interested to hear more.\n\nThank you ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1618088211355
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1618088211355
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:26:32.209-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:26:32.209Z"
+  },
+  "thread_path": "message_requests/instagramuser_464014564831901",
+  "title": "Instagram User"
+}

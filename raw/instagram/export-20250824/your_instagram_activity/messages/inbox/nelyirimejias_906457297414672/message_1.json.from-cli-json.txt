@@ -1,0 +1,92 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 3024 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Getting a Venezuelan girl on staff might be the best thing that has happened in 6 months there and I couldnât emotionally handle the loss ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1648524611202
+    },
+    {
+      "content": "Why?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nelyiri Mejias",
+      "timestamp_ms": 1648523879993
+    },
+    {
+      "content": "Gooooood. Youâre not allowed to quit lmao",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1648523840367
+    },
+    {
+      "content": "ð¥³ð¥³",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nelyiri Mejias",
+      "timestamp_ms": 1648523206702
+    },
+    {
+      "content": "I will be off the wednesday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nelyiri Mejias",
+      "timestamp_ms": 1648523192693
+    },
+    {
+      "content": "ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1648523145593
+    },
+    {
+      "content": "Por cierto, asegÃºrate de encontrar un dÃ­a libre para ti mismo porque a menos que les digas que necesitas uno, te harÃ¡n trabajar todos los dÃ­as",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1648523129126
+    },
+    {
+      "content": "By the way make sure to figure out a day off for yourself because unless you tell them you need one, theyâll make you work every day",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1648523124126
+    },
+    {
+      "content": "Noð¢",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nelyiri Mejias",
+      "timestamp_ms": 1648523009427
+    },
+    {
+      "content": "Was it busy today?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1648522961764
+    }
+  ],
+  "participants": [
+    {
+      "name": "Nelyiri Mejias"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:30:37.998-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:30:37.998Z"
+  },
+  "thread_path": "inbox/nelyirimejias_906457297414672",
+  "title": "Nelyiri Mejias"
+}

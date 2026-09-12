@@ -1,0 +1,146 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 5312 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "hey hi - everything good with you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1748155714452
+    },
+    {
+      "content": "Okay I have until 5pm today",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Shelbie Breakiron",
+      "timestamp_ms": 1719138396100
+    },
+    {
+      "content": "Iâm gonna pass out but message me tonight if you donât figure it out",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1719137716227
+    },
+    {
+      "content": "ð thatâs no good.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1719137509281
+    },
+    {
+      "content": "I need to come up with like $8900 before the end of this month and I need to come up with 800 of that before the end of today so I donât know what to do. Theyâre going to auction my house if not, and Iâve only ever been late on my rent one time which is now and Iâve lived there for 13 years and itâs only bought rent. I own my house.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Shelbie Breakiron",
+      "timestamp_ms": 1719137159156
+    },
+    {
+      "content": "Iâve called up to me and vet. Bills are expensive.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Shelbie Breakiron",
+      "timestamp_ms": 1719137120563
+    },
+    {
+      "content": "What happened?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1719136070234
+    },
+    {
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1719136055459
+    },
+    {
+      "content": "Just on a different note Iâm on the struggle bus",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Shelbie Breakiron",
+      "timestamp_ms": 1719135790428
+    },
+    {
+      "content": "Iâm all good whatâs new with you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1719135562360
+    },
+    {
+      "content": "Hey hi thanks. No noise. Disturbingly quiet",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1719135538825
+    },
+    {
+      "content": "Whatâs up with you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Shelbie Breakiron",
+      "timestamp_ms": 1719135082292
+    },
+    {
+      "content": "Hi there just checking in with you to see how youâre doing hope people have been nice and not making any noise lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Shelbie Breakiron",
+      "timestamp_ms": 1719135076277
+    },
+    {
+      "content": "which one?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601693179272
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1601693177,
+          "uri": "your_instagram_activity/messages/inbox/shelbiebreakiron_482418119821668/photos/120474597_3370873869804746_4485936412360222397_n_2723945674534708.jpg"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601693176549
+    },
+    {
+      "content": "just thought i'd let you know that i suck and you somehow still win",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601693121955
+    },
+    {
+      "content": "you are the most complicated figure in my (very complicated) life....... you could murder my parents and burn my house down and all i'd have to say is ''yo......did u see that cute girl\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601693096981
+    }
+  ],
+  "participants": [
+    {
+      "name": "Shelbie Breakiron"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:35:44.175-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:35:44.175Z"
+  },
+  "thread_path": "inbox/shelbiebreakiron_482418119821668",
+  "title": "Shelbie Breakiron"
+}

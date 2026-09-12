@@ -1,0 +1,31 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 567 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/1968176692371541951"
+      },
+      "timestamp_ms": 1548844974659
+    }
+  ],
+  "participants": [
+    {
+      "name": "Vessel Â®"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:28:52.785-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:28:52.785Z"
+  },
+  "thread_path": "inbox/vesselr_602589404471205",
+  "title": "Vessel Â®"
+}

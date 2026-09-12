@@ -1,0 +1,30 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 855 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Hey, reaching out from @gnarcycrew\n\nI think you're the perfect fit to showcase our jewelry collection, so we'd like to offer you 3 free (yes, FREE) pieces of your choice ð±\n\nJust drop a DM to @gnarcycrew (or reply to any of their stories) please and Shawn will get it done for you! Cheers! ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1718679602791
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:27:38.828-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:27:38.828Z"
+  },
+  "thread_path": "message_requests/instagramuser_1455880385808765",
+  "title": "Instagram User"
+}

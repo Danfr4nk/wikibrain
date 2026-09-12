@@ -1,0 +1,48 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1254 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "I do?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667447410068
+    },
+    {
+      "content": "Support President Biden",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Tina Sato",
+      "timestamp_ms": 1666121056067
+    },
+    {
+      "content": "Tina sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Tina Sato",
+      "share": {
+        "link": "https://www.instagram.com/tv/CcNjtcFgtsS/?id=2814062396338002706_11064593",
+        "original_content_owner": "ihatedanfrank",
+        "share_text": "We did it guys. Thanks to the support of Premier Biden and our comrades at Amazon, we have finally established the Communist States of America."
+      },
+      "timestamp_ms": 1666121027323
+    }
+  ],
+  "participants": [
+    {
+      "name": "Tina Sato"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:29:02.749-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:29:02.749Z"
+  },
+  "thread_path": "inbox/tinasato_1029627178434090",
+  "title": "Tina Sato"
+}

@@ -1,0 +1,88 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 2917 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "share": {
+        "link": "https://www.instagram.com/p/BhpV4V1nX6c/",
+        "original_content_owner": "_paige.renee",
+        "share_text": "Lifeâs a beach. Itâs all about how you get up....and downð See what I did there ð #golf #mondaymotivation"
+      },
+      "timestamp_ms": 1529294226625
+    },
+    {
+      "content": "I donât understand the hype surrounding this girl... sheâs above average looking but sheâs like a sex icon for golfers. I wouldnât even look twice at her. And with a nose like that, what does her vagina look like? My money is on Roast Beef sammich",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1529294226625
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "share": {
+        "link": "https://www.instagram.com/p/BjTm2cpAnPS/",
+        "original_content_owner": "golf_gods",
+        "share_text": "Tag away! ð\nð¸ - @pgamemes \n#golfgods"
+      },
+      "timestamp_ms": 1527483704825
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1527227855541
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1526878617813
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1526573786022
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1525640387261
+    },
+    {
+      "content": "The sound effects are everything",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1524842939302
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1524842922115
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:32:36.651-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:32:36.651Z"
+  },
+  "thread_path": "inbox/instagramuser_552104286189422",
+  "title": "Instagram User"
+}

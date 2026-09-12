@@ -1,0 +1,29 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 549 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "hey! r u still working at au zaatar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Roz ðª»",
+      "timestamp_ms": 1736218951536
+    }
+  ],
+  "participants": [
+    {
+      "name": "Roz ðª»"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:29:50.144-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:29:50.144Z"
+  },
+  "thread_path": "inbox/roz_1561403435261950",
+  "title": "Roz ðª»"
+}

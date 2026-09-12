@@ -1,0 +1,34 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 984 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://www.instagram.com/reel/Cka13ygg8IB/?id=2961916635218428417_11064593",
+        "original_content_owner": "ihatedanfrank",
+        "share_text": "A BEGINNERS GUIDE TO THE 2022 MIDTERM ELECTION \n\nI doubt anyone else reads it, but if you doâ¦yes I pretty much stole this copy word for word from NYT so thanks @bydanielvictor this is super important information and easily digestible please donât DMCA me"
+      },
+      "timestamp_ms": 1667308222322
+    }
+  ],
+  "participants": [
+    {
+      "name": "Daniel Victor"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:32:54.914-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:32:54.914Z"
+  },
+  "thread_path": "inbox/danielvictor_1041746140555527",
+  "title": "Daniel Victor"
+}

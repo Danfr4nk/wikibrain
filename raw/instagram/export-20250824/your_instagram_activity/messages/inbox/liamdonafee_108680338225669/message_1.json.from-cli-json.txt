@@ -1,0 +1,29 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 523 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Hope you guys had a good time! Thanks for the boost!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1631247474217
+    }
+  ],
+  "participants": [
+    {
+      "name": "Liam Donafee"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:31:56.468-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:31:56.468Z"
+  },
+  "thread_path": "inbox/liamdonafee_108680338225669",
+  "title": "Liam Donafee"
+}

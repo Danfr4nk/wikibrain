@@ -1,0 +1,41 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1010 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Pop quiz - do you know what band used the Warhol banana piece as cover art for a famous album?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1665799024985
+    },
+    {
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://www.instagram.com/p/CeboQnpO04nRZits9FQSFZT2IhWJ-_MXX1S-xM0/?carousel_share_child_media_id=2854051846609903385_208598049",
+        "original_content_owner": "marianaagrajales",
+        "share_text": ""
+      },
+      "timestamp_ms": 1665799024749
+    }
+  ],
+  "participants": [
+    {
+      "name": "M"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:31:33.694-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:31:33.694Z"
+  },
+  "thread_path": "inbox/m_1025524022177739",
+  "title": "M"
+}

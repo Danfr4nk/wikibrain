@@ -1,0 +1,33 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 826 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Facebook administration yet again another propaganda page full of spam,misinformation and out right lies.TAKE THESE PAGES DOWN!!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "share": {
+        "share_text": "Facebook administration yet again another propaganda page full of spam,misinformation and out right lies.TAKE THESE PAGES DOWN!!!!"
+      },
+      "timestamp_ms": 1669293142229
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:27:18.673-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:27:18.673Z"
+  },
+  "thread_path": "message_requests/instagramuser_1061919765204831",
+  "title": "Instagram User"
+}

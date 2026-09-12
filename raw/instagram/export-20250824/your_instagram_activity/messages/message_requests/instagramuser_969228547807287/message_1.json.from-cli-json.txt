@@ -1,0 +1,30 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1566 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Ðre yÐ¾u interÐµsting tÐ¾ grow ÑÐ¾ur InstÐ°grÐ°m, TikTok, YouTube and other smm Ð°ccounts\n100% guÐ°rÐ°nteed\n\n1k follÐ¾wers 10 $ð\n2k fÐ¾llowÐµrs 20 $ð \n3k followers 30 $ð\n5k fÐ¾llowers 45 $ð\n10k followers 80 $ð\n20k follÐ¾wÐµrs 150 $ð\n___\n*Ð Ð°Ñk viÐµws 10k views for 50$\n*PÐ°ck LikÐµs 1k Likes fÐ¾r 10$\n------------------\n\nð®Shoot us a message to our official page @meboos.sup5  for more information.\n-----------------\nð¥Test Before Pay ð FREE Trial Available Today\n-----------------\nðPlease don't reply to this message. To get in touch with us, click @meboos.sup5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1660057901319
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:27:27.769-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:27:27.769Z"
+  },
+  "thread_path": "message_requests/instagramuser_969228547807287",
+  "title": "Instagram User"
+}

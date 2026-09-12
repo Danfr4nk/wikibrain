@@ -1,0 +1,35 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 904 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "the_official_james_spiker sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "the_official_james_spiker",
+      "share": {
+        "link": "https://www.instagram.com/reel/DJXKTlFuXsn/?id=3627413350829882151_190454002",
+        "original_content_owner": "blackcraftcult",
+        "share_text": "Our collaboration with @officialmotorhead now available!ð\nblackcraftcult.com"
+      },
+      "timestamp_ms": 1754743694715
+    }
+  ],
+  "participants": [
+    {
+      "name": "the_official_james_spiker"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:24:52.965-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:24:52.965Z"
+  },
+  "thread_path": "message_requests/the_official_james_spiker_1810278097035657",
+  "title": "the_official_james_spiker"
+}

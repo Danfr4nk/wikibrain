@@ -1,0 +1,51 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1432 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Howâd I do? I owe you one for the inspiration",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1721702355984
+    },
+    {
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://www.instagram.com/reel/C9v51C8uENg/?id=3418204976147088224_11064593",
+        "original_content_owner": "ihatedanfrank",
+        "share_text": "âI donât follow politics. Itâs so boring.â \n\n#election #trump #kamalaharris"
+      },
+      "timestamp_ms": 1721702355733
+    },
+    {
+      "content": "Completely fucking insane",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "mrfriedline",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2846654899179565141"
+      },
+      "timestamp_ms": 1653577773161
+    }
+  ],
+  "participants": [
+    {
+      "name": "mrfriedline"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:28:42.870-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:28:42.870Z"
+  },
+  "thread_path": "inbox/mrfriedline_909415977121878",
+  "title": "mrfriedline"
+}

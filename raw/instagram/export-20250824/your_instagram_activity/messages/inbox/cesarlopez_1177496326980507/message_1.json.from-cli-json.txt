@@ -1,0 +1,88 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 2333 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "en fuego",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1723429243984
+    },
+    {
+      "content": "La MAS GUAPO",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1723429237656
+    },
+    {
+      "content": "Mucho guapo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1723429233916
+    },
+    {
+      "content": "Y guapo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1723429230203
+    },
+    {
+      "content": "Tu eres un chico bueno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1723429225957
+    },
+    {
+      "content": "Also I miss you buddy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1723429206929
+    },
+    {
+      "content": "To check his texts",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1723429167821
+    },
+    {
+      "content": "Tell maye",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1723429163352
+    },
+    {
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/3082634515101822818"
+      },
+      "timestamp_ms": 1681698851909
+    }
+  ],
+  "participants": [
+    {
+      "name": "Cesar LÃ³pez"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:33:12.864-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:33:12.864Z"
+  },
+  "thread_path": "inbox/cesarlopez_1177496326980507",
+  "title": "Cesar LÃ³pez"
+}

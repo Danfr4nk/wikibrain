@@ -1,0 +1,102 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 2878 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Iâm still the GOAT in verdansk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Choche",
+      "timestamp_ms": 1626309672501
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Choche",
+      "timestamp_ms": 1626309640510
+    },
+    {
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Choche",
+      "timestamp_ms": 1625704611129
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1625699071989
+    },
+    {
+      "content": "Youâre dogwater",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Choche",
+      "timestamp_ms": 1625631444118
+    },
+    {
+      "content": "Fucking weirdo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Choche",
+      "timestamp_ms": 1625631443972
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1625631222,
+          "uri": "your_instagram_activity/messages/inbox/choche_1033678824037478/photos/210890838_365781441613052_4184263968548534533_n_1009671703208265.jpg"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1625631221800
+    },
+    {
+      "content": "Iâm coming back tomorrow",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Choche",
+      "timestamp_ms": 1625348996781
+    },
+    {
+      "content": "Of course not",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Choche",
+      "timestamp_ms": 1625348996555
+    },
+    {
+      "content": "How will I survive without anyone to eat my snackys or call me a faggot 30 times a day",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1625284341747
+    },
+    {
+      "content": "YOU LEFT ME????",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1625284281692
+    }
+  ],
+  "participants": [
+    {
+      "name": "Choche"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:36:37.866-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:36:37.866Z"
+  },
+  "thread_path": "inbox/choche_1033678824037478",
+  "title": "Choche"
+}

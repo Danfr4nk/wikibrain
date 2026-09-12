@@ -1,0 +1,976 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 37973 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "ig_reels_media": [
+    {
+      "media": [
+        {
+          "creation_timestamp": 1730951487,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "922A1C84-C3D6-4493-A79E-8586EA467324",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1730951487,
+                "uri": "media/reels/202411/465783704_1089666636278263_4645147787773251135_n_18020014535322576.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "Wow, I canât believe they lost. Youâre telling me that we didnât win all those moderate âNicky Haleyâ voters after all?\n\nAnd NOW the analysis is that the Democratic Party needs to become more âcentristâ and adopt even more Republican policy items? \n\nOkay got it - the problem wasnât that we had far too much Dick Cheney but actually that we needed way more Dick Cheney!",
+          "uri": "media/reels/202411/AQN1m94cWFpAfn4b9c6fRwnXMHuLv5xozncxSLQedEzOQb7UW477zRyh_7xJ1ww64hfBoUmf0ZqvPQ5PtC6KkWeKrIT3Hf5ThNlSbTU_18047504822076117.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1730692165,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "latitude": 40.7142,
+                  "longitude": -74.0064
+                },
+                {
+                  "camera_position": "unknown",
+                  "device_id": "922A1C84-C3D6-4493-A79E-8586EA467324",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1730692165,
+                "uri": "media/reels/202411/465589356_8776680205688017_2387253102422938022_n_18041992316127352.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "A discussion of just how bad the Democrats want to lose the election with the @chapotraphouse boys and @adamfriedland \n(From Chapo Trap House #879)",
+          "uri": "media/reels/202411/AQNFyRuO7bFU8wUklGpZfX_rcf4npvkLYDPUEwiLe62GClAx6Boa_ZUmJdG_S2DHdlBG0tkJzOxYZiadv9KbVvzui23SiX7dwr0Ek_18066758107589483.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1730524987,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "latitude": 40.7142,
+                  "longitude": -74.0064
+                },
+                {
+                  "camera_position": "unknown",
+                  "device_id": "922A1C84-C3D6-4493-A79E-8586EA467324",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1730524987,
+                "uri": "media/reels/202411/465415115_738659141793463_1556444514685061653_n_18206157052291642.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "For anyone not following politics - hereâs why the electoral map makes a Kamala victory so unlikely. #election #kamalaharris #trump",
+          "uri": "media/reels/202411/AQPwXqOuMHgEOr91GxKFddVFTCm_BjSaVYsXG2xRlodW5J0FBS3JhV3r3KZEr_XxyuVs7El7aJjLURBLqluiqGOxCt8MV_f1HHg0HY_18013319582401061.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1725328749,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "latitude": 40.756889220123,
+                  "longitude": -73.846262736355
+                },
+                {
+                  "camera_position": "unknown",
+                  "device_id": "922A1C84-C3D6-4493-A79E-8586EA467324",
+                  "source_type": "0"
+                },
+                {
+                  "camera_position": "unknown",
+                  "device_id": "922A1C84-C3D6-4493-A79E-8586EA467324",
+                  "source_type": "0"
+                },
+                {
+                  "camera_position": "unknown",
+                  "device_id": "922A1C84-C3D6-4493-A79E-8586EA467324",
+                  "source_type": "0"
+                }
+              ]
+            }
+          },
+          "media_variants": [],
+          "title": "Got lost looking for the US Open, but we ended up at this weird tennis match a few blocks away.",
+          "uri": "media/reels/202409/AQPOkHhLcxwZmHgTh1goXxA_xq3q0PENANrdIPbZqeVVmJOrNpRFhGz7rEhUPX2425Vh0x5gXyqMYkLKFnv1ZE51pVnlSmZNmFRCFc_18031445276469183.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1721702233,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "interest_topics": [
+            {
+              "topic_name": "Dance"
+            },
+            {
+              "topic_name": "Comedy"
+            },
+            {
+              "topic_name": "Styles & Trends"
+            }
+          ],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "922A1C84-C3D6-4493-A79E-8586EA467324",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1721702233,
+                "uri": "media/reels/202407/452080159_457259813938629_8502856815557457007_n_18035775191039617.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "âI donât follow politics. Itâs so boring.â \n\n#election #trump #kamalaharris",
+          "uri": "media/reels/202407/AQOHB9HLtr0hK5LulRwX9lt0maYDvwUqa_S48BivFEUPH0qATzDH7CcKcy35L2Qb4KK8Lkz3yygI9ZzKpZMLg4TEPQqu1p7S97ZVn4_18018109022162034.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1720145374,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "922A1C84-C3D6-4493-A79E-8586EA467324",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1720145374,
+                "uri": "media/reels/202407/449822009_459856623446789_7402009137561809438_n_18058547158617330.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "The idea that anyone still wants to nominate Joe Bidenâ¦.\n\n#draftgretch #toldyaso",
+          "uri": "media/reels/202407/AQPNTscEiaM9HuPvKsmHExIIGHuyXdvevyaUhGjg9THTENIR_Pk9rhWyVF4upKcM5xdtF2s3WPoEk8dlFkno3hddmR93Z0oYfRwSVk_17886324513063765.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1698733061,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "interest_topics": [
+            {
+              "topic_name": "Cats"
+            },
+            {
+              "topic_name": "Animal Encounters"
+            },
+            {
+              "topic_name": "Animal-Human Bonding"
+            }
+          ],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "latitude": 40.7142,
+                  "longitude": -74.0064
+                },
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "0"
+                }
+              ],
+              "music_genre": "Old School Punk Music, Punk Rock Music, Alternative & Punk Music",
+              "subtitles": {
+                "creation_timestamp": 1698733061,
+                "uri": "media/reels/202310/455343532_465609426381677_3146987157402963910_n_18042364102820273.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "Gabe was named sarcastically in honor of the singer in a terrible pop punk band and he never held it against me. He was a talkative, sweet and concerningly intuitive little dude that brought me so much happiness and always knew when I needed a friend. \n\nHe died peacefully today following a week long hunger strike which I can only assume was performed in solidarity with the people of Palestine.\nIn lieu of flowers please send donations to the re-election campaign of AOC or your local antifa bail fund, causes he was dedicated to advancing.",
+          "uri": "media/reels/202310/AQMcCODW6_kYwleHdab9LZBuSxID40rrqtxo4xyEOAxb8mfjIA7hWIo5oAvq2y7ESzkE3DCgvd3LO6G7I4SLdH169Zme6AFEwxTBKxQ_17854407051038585.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1691995279,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "interest_topics": [
+            {
+              "topic_name": "Outdoors"
+            }
+          ],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "latitude": 40.7142,
+                  "longitude": -74.0064
+                },
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "0"
+                }
+              ]
+            }
+          },
+          "media_variants": [],
+          "title": "Last nightâs storm was the craziest weather Iâve seen in NYC since superstorm Sandy.\n\nThis is not fake audio, itâs so real and definitely not fake. If you donât believe me, I no speaky English so donât ask about this very real audio.",
+          "uri": "media/reels/202308/AQPkJXXq5dNWZ8wGi9agCVYvmHuuN4lYkAiIJAb2xE4ftb7VD0CTNswnmzrlMKvk_UFX5Zqc7WlSoPt0AePuEcZW_Kf236DXcOPNs_17988742670213487.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1668920236,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "latitude": 40.7779,
+                  "longitude": -73.9675
+                },
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "0"
+                }
+              ]
+            }
+          },
+          "media_variants": [],
+          "title": "Manhattan",
+          "uri": "media/reels/202211/AQMEyiZCRb8tnqVPu74X3Y7yf4SNbXuVZgX_lQ9QpFkeLX6L1YlwKaw_O3AOIXEeoyyrYdyIWdC7C80JjDAFA868GzxJopdwtZDyLt8_18243623389126208.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1668580350,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1668580350,
+                "uri": "media/reels/202211/456053746_1061392871988971_3195978156376154519_n_18010228097626145.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "If youâre a real fan of conservative weirdos like me youâll love this stuff about Louie Gohmert from Michael Wolffâs book âLandslideâ",
+          "uri": "media/reels/202211/AQPuv56QRLH1Rnz4FNJM57HuW7n0v64SKStt9h3ck_ZBKyOeZBoM5vNi7jVcmZNqGFWw1lScRKDkCaZ_5Wnt7dIYnfcBjNmrRbaS2f4_17879650031768678.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1668574410,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "latitude": 40.7142,
+                  "longitude": -74.0064
+                },
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1668574410,
+                "uri": "media/reels/202211/315652966_114778551443920_6063146155084367644_n_17966052346880302.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "The best part of Trumpâs announcement was when he thought the phrase âcorridors of powerâ was âcarters of powerâ and said it 3000 times",
+          "uri": "media/reels/202211/AQPJ_mDrXosN1NoBVizIGnT8NwjBqIYcJUsCPXMMhWpfKDoXBRbqpNB2AjMZsa8pyFjEiD_OrJaadL_kN7G3_ourFpflrrNmR5rfeDc_18223423660091828.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1668473118,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1668473118,
+                "uri": "media/reels/202211/455019448_405384552090484_2669934475711767781_n_18291103828203853.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "10/10 no notes",
+          "uri": "media/reels/202211/AQNvdrGcK6cxKorZtK1DMfkXR8kAhEi8lO7OzsI0gtQxxiqcR8F1xUZlDss71HenGTP2h0PgwxlE5gR8wrCjVkEjEs9pI1QXJFzytE_17945436050230535.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1668400225,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "-1"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1668400225,
+                "uri": "media/reels/202211/455652686_522595450205399_2328703849451556387_n_17904644072936309.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "Hey guys, there isnât going to be a 2024 DeSantis vs Trump primary. There CANâT be.",
+          "uri": "media/reels/202211/AQMWOcTDDA_1fiGi_Cp4NlOTy1HkCpL8z5n1G5m78CQb6XS8PLCrqwShEt6fYaWpmBm0aJM6lRYsbJMerHq9j4I_xN9J7ZhR1Zqc_17986059181633855.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1668056140,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "latitude": 40.7142,
+                  "longitude": -74.0064
+                },
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1668056140,
+                "uri": "media/reels/202211/315247294_931628897815421_1967008755092446627_n_18255132730117806.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "This is just perfect Trump. Itâs obvious in intent and completely wrong and delivered shamelessly. I love it",
+          "uri": "media/reels/202211/AQOm08N6PFT2o1C4f8WacXuu72Rip408WTUa0Ewkfb9Afi5n3wI_gDXZsJWBrvqqSTWaDAFpGq1948vIn0Em6QOYhnm_MGG95iekY_17961569834082251.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1667308208,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "latitude": 40.7142,
+                  "longitude": -74.0064
+                },
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1667308208,
+                "uri": "media/reels/202211/454932485_1184612479250784_2295252664010520613_n_18066363442582551.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "A BEGINNERS GUIDE TO THE 2022 MIDTERM ELECTION \n\nI doubt anyone else reads it, but if you doâ¦yes I pretty much stole this copy word for word from NYT so thanks @bydanielvictor this is super important information and easily digestible please donât DMCA me",
+          "uri": "media/reels/202211/AQM_Av4o6Uj1kbdCbKniHZF3rA_AfgmHxjhLqxAZsIrT7sDD3vou3bzxYOZIMPTd4zKIzaW7ER2r3AKiddgk_B1Rpmi4v0CQ1rxFo_18134992738303728.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1666943446,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "latitude": 40.7142,
+                  "longitude": -74.0064
+                },
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "0"
+                }
+              ],
+              "music_genre": "Alternative Music, Punk Rock Music, Alternative & Punk Music, Pop Punk Music",
+              "subtitles": {
+                "creation_timestamp": 1666943446,
+                "uri": "media/reels/202210/455846704_8415780695099692_5787757748432826984_n_18023817950346134.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "He said he would lie. He lied and didnât even pretend to show evidenceâ¦and then half the country was like âOK sure.â",
+          "uri": "media/reels/202210/AQPAYI78PLYHeZDTKMoZakfYrT88T432NrwmfaSUPJuVToY5XZdHMEDOYhs0B473bjdmguMy2MOjKD16kzPn2fa_PIJFqskesKjyW8_18048261328344167.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1666674612,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1666674612,
+                "uri": "media/reels/202210/313018558_655570902625176_2749949894311114031_n_18157586632257835.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "I know Iâm beating a dead horse but it is so unthinkably weird that this guy, making fun of Hansonâ¦picked 3 Supreme Court justices and forever realigned American politics and culture",
+          "uri": "media/reels/202210/AQNx5V_RwznBO7C2V6PihBcqO6OaN6zF9mElJtJ53mNM5vm121nM5S5o80w6hOLnBCOvxjGrFHunnvLqlbIJwqVFCm80RlbrnvABQQ_17994551584517725.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1666593453,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "latitude": 36.664682171503,
+                  "longitude": -93.223088564838
+                },
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "0"
+                }
+              ],
+              "music_genre": "Pop Music, Easy Listening Music, Classic Vocal Pop Music",
+              "subtitles": {
+                "creation_timestamp": 1666593453,
+                "uri": "media/reels/202210/455118439_7930059643767490_2097719238805829242_n_18317019505157656.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "If youâre a public figure advancing the racist, antidemocratic messageâ¦you donât get to enjoy our city without being loudly reminded that everyone fucking hates you. If you want to be left alone, enjoy going to the Yakov Smirnoff Theater in Branson, MO.",
+          "uri": "media/reels/202210/AQMIsELQzTM62ukbqYefZ4fKqd0wa6bQaOjVGzchf5avDcjXLXsLA0JlR35cyF3p0tvpOlGucURPGniCPktmtSTE__Lw42ugWx7D8_18006797644498235.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1665805259,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1665805259,
+                "uri": "media/reels/202210/455877140_1038645567652924_7376948912392683169_n_18114218218389763.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "A quick look at the two most impressively unimpressive candidates in recent memory.  #herschelwalker #mehmetoz",
+          "uri": "media/reels/202210/AQMdmGYGCAkDnFXAPkA9YtENQO9_eE9zftLHlMD4orjn5aS3LF4vIWfxf5vMrA7df7W_a8oC4o1axnqIUKHIMjWGBaOwm15BVM0GkA_17994623476554970.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1665398108,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "0"
+                }
+              ],
+              "music_genre": "Glam Rock Music, Alternative Music, Urban Contemporary Music",
+              "subtitles": {
+                "creation_timestamp": 1665398108,
+                "uri": "media/reels/202210/454749891_1053531582963518_4005194132206313799_n_18006400016356810.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "Explained: why the opinion journalists and political pundits talking about #desantis as the 2024 front runner are either dumb or disgusting center right triangulators serving a corporate neoliberal agenda to promote the interests of capital. Hope youâre a fast reader.\n\n#politics #trump2024 #desantis2024 #trump #desantis #republican #election #primary",
+          "uri": "media/reels/202210/AQOXFr4iozqnnyTTf_AVW_3qnAfwMh8c17fjVJyVwfhev3kEzXWJndwTvzxUcNzlEfCY_nFM1SCInWW6f58bBtXyk2WhXkicJsJbrg_17902372205667117.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1664342205,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1664342205,
+                "uri": "media/reels/202209/455647614_1477981752835407_6064265467513277958_n_18088120312477406.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "From Jon Karlâs documentary series âThe Trump Showâ",
+          "uri": "media/reels/202209/AQNzgrks2lO_VsrTbrty9ShvnMPZCOLGKBPdnU7JHXYtD4rgVFElTMFdGNReuWcXZKmHFoGuilnPpf7EweDLK4rQJlH9GmKNUb_jg_17927413673412342.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1663549964,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1663549964,
+                "uri": "media/reels/202209/307132192_3254431614870965_5390127923843352532_n_17955856393939504.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "More fun with AI art #stabilityai #dalle2 #aiart #ai",
+          "uri": "media/reels/202209/AQMBPUNZogPNJdHWEtrNSAwgdVAEsygY_pINLm8UScq_mK4FMxLb9wzyDmoyYueMyHhFDAlFbXN_MjTzJgahHEc8KEhiKKU3i4GNiQ_17908572863546236.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1663211908,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1663211908,
+                "uri": "media/reels/202209/454993947_1884400995400253_5569738997828542233_n_18307089085091681.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "To understand how a centrist senator (who represented a state which exists today mostly as a corporate tax haven) and co-authored the fucking 1994 crime bill was transformed into the intrepid destroyer of MAGA fascism of today, it helps to revisit how the last 20 years have reshaped American politics and the escalation of GOP illiberalism",
+          "uri": "media/reels/202209/AQOX017tVWForI1m8I7yx2TOgztItyInZfVf6SvVryLXiJB_geNtcfxbApbipvvgGkApSnun9RVD5r8gyqFoBLL7Js8Zv4bq4L5WQ_17956582097011120.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1662946112,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1662946112,
+                "uri": "media/reels/202209/306545213_106066602252886_3994122026794962807_n_18007310695461867.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "To give you an idea of just how easy these tools are #stabilityai #dalle2 #aiart #politicalart #deeplearning",
+          "uri": "media/reels/202209/AQNJTINRAVauvFhoX1BeYGOHLmmzw18O3vhD8bFc0gPhFV7onEtHeJAhtbxL62TEsATEC5GtZE4fzOXi1a4c32EKILe7jdUxNpck_18195313315206296.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1662945626,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1662945626,
+                "uri": "media/reels/202209/455109103_1147810282991145_4422570892394302888_n_18065570539596278.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "Made with Stability Diffusion AI (a free, open source, public tool)",
+          "uri": "media/reels/202209/AQOpJH2llJvhehQBqPY5VMp7OrWmNeD6z9Nx1y7Y6BcA2IehKUXKTdIK61IFqGAQdDR5Izds5qQuvNoUtug3P2hjxlt314KVz9UIn0_17926885976395329.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1662463754,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [],
+              "subtitles": {
+                "creation_timestamp": 1662463754,
+                "uri": "media/reels/202209/455933109_1505638700073597_4904168635859849369_n_18279449125232818.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "Democrats are now well positioned to hold the Senate and potentially pick up seats. Iâm sure theyâll find a way to blow it in the 2 months left until Election Day.",
+          "uri": "media/reels/202209/AQP1dmFhwnS7EyifPYTkqQDKOwrXaFxD0pwgmdyjoFo2l89Bb2OE33ZOKw6jdgTyvW8_LtP4CWbbKhv6a5Gj1j6bnNVCyIAE0N64gs_17957215306988072.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1662340734,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1662340734,
+                "uri": "media/reels/202209/455080201_466232796384858_48662987661179174_n_18444872914003872.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "",
+          "uri": "media/reels/202209/AQPKSdEgxsV1YsGJN0DWsemmd1StviP1zfrQzFb_C9HRgF9tzodQKA_251fMoJVPrsL_9Q6bVUAVc5HpFSmE0lXPWfwsns2YI_17924063528436329.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1662091002,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "latitude": 40.7142,
+                  "longitude": -74.0064
+                },
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1662091002,
+                "uri": "media/reels/202209/455723676_830821739156069_7698731253339139377_n_17975082884746132.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "Yo my boy Brandon is just SPITTING in his primetime address tonight.",
+          "uri": "media/reels/202209/AQMW46PU2nzOOXeFVF3vtjwojRlfAoG62h_aNRI8WoDFtNBBxb1HqOaZI4iVYCMjHfW7pfLfKLPwJQaFSvAcxGxISrvmbxrG6lSU_17916812438605062.mp4"
+        }
+      ]
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:24:37.983-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:24:37.983Z"
+  }
+}

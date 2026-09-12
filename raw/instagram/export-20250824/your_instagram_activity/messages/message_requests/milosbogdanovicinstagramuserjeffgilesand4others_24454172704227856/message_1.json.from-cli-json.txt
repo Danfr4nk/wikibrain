@@ -1,0 +1,63 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1465 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "joinable_mode": {
+    "link": "",
+    "mode": 1
+  },
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "ðCatch me hereð https://donna-162.carmelo97596.buzz/l/r78OnHM",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "share": {
+        "link": "https://donna-162.carmelo97596.buzz/l/r78OnHM",
+        "share_text": "ðCatch me hereð https://donna-162.carmelo97596.buzz/l/r78OnHM"
+      },
+      "timestamp_ms": 1704487588113
+    },
+    {
+      "content": "A contact created the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1704487586380
+    }
+  ],
+  "participants": [
+    {
+      "name": "milos bogdanovic"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Jeff Giles"
+    },
+    {
+      "name": "Sergio tacchini"
+    },
+    {
+      "name": "Jayden Evans"
+    },
+    {
+      "name": "Jeff Pay"
+    },
+    {
+      "name": "Dan Frank"
+    },
+    {
+      "name": "Jason Smith"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:25:11.382-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:25:11.382Z"
+  },
+  "thread_path": "message_requests/milosbogdanovicinstagramuserjeffgilesand4others_24454172704227856",
+  "title": "milos bogdanovic, Instagram User, Jeff Giles and 4 others"
+}

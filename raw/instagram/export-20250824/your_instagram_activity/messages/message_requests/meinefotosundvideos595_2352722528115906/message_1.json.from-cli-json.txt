@@ -1,0 +1,65 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1429 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "joinable_mode": {
+    "link": "",
+    "mode": 1
+  },
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1569022775362
+    },
+    {
+      "content": "A contact added you and 4 others to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1569022742972
+    },
+    {
+      "content": "A contact named the group mÐµine fotos und videÐ¾s (595).",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1569022740341
+    }
+  ],
+  "participants": [
+    {
+      "name": "Marius Regler"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "akuma.nina"
+    },
+    {
+      "name": "Marc CroÌssmann"
+    },
+    {
+      "name": "Jonathan Manning"
+    },
+    {
+      "name": "Dan Frank"
+    },
+    {
+      "name": "Alexander BÃ¤hr"
+    },
+    {
+      "name": "Vera Viviane Schmidt Abomorad"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:25:09.297-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:25:09.297Z"
+  },
+  "thread_path": "message_requests/meinefotosundvideos595_2352722528115906",
+  "title": "mÐµine fotos und videÐ¾s (595)"
+}

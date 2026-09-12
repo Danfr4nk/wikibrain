@@ -1,0 +1,55 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1067 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "fbid": "18162238006056594",
+  "label_values": [
+    {
+      "label": "Removed categories",
+      "vec": [
+        {
+          "value": "Facebook Page admins"
+        },
+        {
+          "value": "Facebook access (OS): Mac Sierra"
+        },
+        {
+          "value": "Facebook access (browser): Safari"
+        },
+        {
+          "value": "Facebook access (mobile): all mobile devices"
+        },
+        {
+          "value": "Facebook access (network type): 4G"
+        },
+        {
+          "value": "Facebook access: older devices and OS"
+        },
+        {
+          "value": "Frequent Travelers"
+        },
+        {
+          "value": "Mobile network or device users"
+        },
+        {
+          "value": "Potential mobile network or device change"
+        },
+        {
+          "value": "Recent mobile network or device change"
+        }
+      ]
+    },
+    {
+      "dict": [],
+      "title": "Hidden ads"
+    },
+    {
+      "dict": [],
+      "title": "Hidden advertisers"
+    }
+  ],
+  "media": [],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:21:55.186-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:21:55.186Z"
+  }
+}

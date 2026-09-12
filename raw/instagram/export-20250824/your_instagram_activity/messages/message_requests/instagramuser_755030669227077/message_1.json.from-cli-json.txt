@@ -1,0 +1,41 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1346 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "share": {
+        "link": "https://www.instagram.com/_u/miniactivewear",
+        "profile_share_name": "Mini Activewear",
+        "profile_share_username": "miniactivewear"
+      },
+      "timestamp_ms": 1635192607858
+    },
+    {
+      "content": "Hey there! ð ð\r\n\r\nIâm on the collaboration team for Mini Activewear and I think that youâd be perfect to promote our carbon-neutral activewear! ð±ð\r\n\r\nIf you're interested and would like some more info please message our main account @miniactivewear ð\r\n\r\nAll our love, Mini ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1635192607858
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:27:30.801-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:27:30.801Z"
+  },
+  "thread_path": "message_requests/instagramuser_755030669227077",
+  "title": "Instagram User"
+}

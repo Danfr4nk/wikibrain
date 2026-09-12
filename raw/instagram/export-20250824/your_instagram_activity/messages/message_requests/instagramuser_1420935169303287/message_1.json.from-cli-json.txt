@@ -1,0 +1,42 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1097 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "@sophiexraain just released her ONLYF*NS and sheâs picking one of her followers to make content with this week! Now is your chance ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1714279292929
+    },
+    {
+      "content": "Instagram User sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "share": {
+        "link": "https://www.instagram.com/_u/sophiexraain",
+        "profile_share_name": "",
+        "profile_share_username": "sophiexraain"
+      },
+      "timestamp_ms": 1714279290660
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:26:34.132-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:26:34.132Z"
+  },
+  "thread_path": "message_requests/instagramuser_1420935169303287",
+  "title": "Instagram User"
+}

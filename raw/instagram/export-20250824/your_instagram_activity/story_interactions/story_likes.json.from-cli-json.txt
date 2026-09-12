@@ -1,0 +1,106 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1690 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:23:41.696-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:23:41.696Z"
+  },
+  "story_activities_story_likes": [
+    {
+      "string_list_data": [
+        {
+          "timestamp": 1748371595
+        }
+      ],
+      "title": "viglesiascid"
+    },
+    {
+      "string_list_data": [
+        {
+          "timestamp": 1689793804
+        }
+      ],
+      "title": "elyesbaltagi"
+    },
+    {
+      "string_list_data": [
+        {
+          "timestamp": 1666239140
+        }
+      ],
+      "title": "marianaagrajales"
+    },
+    {
+      "string_list_data": [
+        {
+          "timestamp": 1655424067
+        }
+      ],
+      "title": "valeriaiglesiascid"
+    },
+    {
+      "string_list_data": [
+        {
+          "timestamp": 1655270457
+        }
+      ],
+      "title": "valeriaiglesiascid"
+    },
+    {
+      "string_list_data": [
+        {
+          "timestamp": 1654857897
+        }
+      ],
+      "title": "valeriaiglesiascid"
+    },
+    {
+      "string_list_data": [
+        {
+          "timestamp": 1654420721
+        }
+      ],
+      "title": "valeriaiglesiascid"
+    },
+    {
+      "string_list_data": [
+        {
+          "timestamp": 1654297952
+        }
+      ],
+      "title": "valeriaiglesiascid"
+    },
+    {
+      "string_list_data": [
+        {
+          "timestamp": 1653956615
+        }
+      ],
+      "title": "valeriaiglesiascid"
+    },
+    {
+      "string_list_data": [
+        {
+          "timestamp": 1653884326
+        }
+      ],
+      "title": "valeriaiglesiascid"
+    },
+    {
+      "string_list_data": [
+        {
+          "timestamp": 1650338750
+        }
+      ],
+      "title": "flordagos"
+    },
+    {
+      "string_list_data": [
+        {
+          "timestamp": 1649993396
+        }
+      ],
+      "title": "flordagos"
+    }
+  ]
+}

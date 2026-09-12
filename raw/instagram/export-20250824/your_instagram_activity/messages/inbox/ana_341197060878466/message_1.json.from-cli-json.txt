@@ -1,0 +1,279 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 9668 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "audio_files": [
+        {
+          "creation_timestamp": 1625715220,
+          "uri": "your_instagram_activity/messages/inbox/ana_341197060878466/audio/audioclip162571522000059606_504459457333715.mp4"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ana",
+      "timestamp_ms": 1625715220124
+    },
+    {
+      "audio_files": [
+        {
+          "creation_timestamp": 1625715143,
+          "uri": "your_instagram_activity/messages/inbox/ana_341197060878466/audio/audioclip162571514300060929_830817924211451.mp4"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ana",
+      "timestamp_ms": 1625715143551
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ana",
+      "timestamp_ms": 1625715000530
+    },
+    {
+      "content": "Also the new âmanagersâ are bad news for everyone lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1625711106443
+    },
+    {
+      "content": "If I were you I would try to distance myself from the label of âserverâ as much as possible. We totally need someone doing the prep work that youâve been doing in the back and thatâs a great opportunity to be useful without having to be as visible as you would serving",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1625711057869
+    },
+    {
+      "content": "I think I told you this when tou first started but the key to making sure you do well at that restaurant is to be as low key as possible and stay as far away from attention as you can",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Ana",
+          "reaction": "â¤ï¸",
+          "timestamp": 1625715000
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1625710872897
+    },
+    {
+      "audio_files": [
+        {
+          "creation_timestamp": 1625710676,
+          "uri": "your_instagram_activity/messages/inbox/ana_341197060878466/audio/audioclip162571067600037222_3998542326927395.mp4"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ana",
+      "timestamp_ms": 1625710675952
+    },
+    {
+      "audio_files": [
+        {
+          "creation_timestamp": 1625710631,
+          "uri": "your_instagram_activity/messages/inbox/ana_341197060878466/audio/audioclip16257106310005712_258185339443028.mp4"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ana",
+      "timestamp_ms": 1625710631126
+    },
+    {
+      "audio_files": [
+        {
+          "creation_timestamp": 1625710622,
+          "uri": "your_instagram_activity/messages/inbox/ana_341197060878466/audio/audioclip162571062200015209_520725282502499.mp4"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ana",
+      "timestamp_ms": 1625710622133
+    },
+    {
+      "content": "But Iâm only surprised because I thought Leo was doing a really good job",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1625710607957
+    },
+    {
+      "content": "Like Iâm fully aware that I donât get held to the same standards that I would if I spoke Spanish and itâs not good",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1625710579382
+    },
+    {
+      "audio_files": [
+        {
+          "creation_timestamp": 1625710526,
+          "uri": "your_instagram_activity/messages/inbox/ana_341197060878466/audio/audioclip162571052600015813_4330640656993093.mp4"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ana",
+      "timestamp_ms": 1625710526195
+    },
+    {
+      "content": "Actually itâs really kinda gross how badly Iâve seen people treated there because of their ethnicity",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1625710498903
+    },
+    {
+      "audio_files": [
+        {
+          "creation_timestamp": 1625710481,
+          "uri": "your_instagram_activity/messages/inbox/ana_341197060878466/audio/audioclip162571048100026564_894184691470919.mp4"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ana",
+      "timestamp_ms": 1625710481201
+    },
+    {
+      "content": "*sorry for the misspellis os just this",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ana",
+      "timestamp_ms": 1625710430422
+    },
+    {
+      "content": "I know hahaha thats so latino culture",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ana",
+      "timestamp_ms": 1625710413279
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ana",
+      "timestamp_ms": 1625710403682
+    },
+    {
+      "content": "Well actually he hold me that the boss was kinda a dick with hindÃº that he ask him to go home like an hour before and when he fired him",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ana",
+      "timestamp_ms": 1625710396315
+    },
+    {
+      "content": "Everybody has two fucking names and itâs so confusing lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Ana",
+          "reaction": "â¤ï¸",
+          "timestamp": 1625710403
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1625710380437
+    },
+    {
+      "content": "Do you mean Leo??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ana",
+      "timestamp_ms": 1625710351532
+    },
+    {
+      "content": "Leo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1625710351355
+    },
+    {
+      "content": "Whos Alex??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ana",
+      "timestamp_ms": 1625710346787
+    },
+    {
+      "content": "Thank yoooou :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ana",
+      "timestamp_ms": 1625710332992
+    },
+    {
+      "content": "What happened with Alex? Did they seriously get rid of him??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1625710319330
+    },
+    {
+      "content": "ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1625710248595
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1625710233,
+          "uri": "your_instagram_activity/messages/inbox/ana_341197060878466/photos/212573145_818528935457025_2301680441460086805_n_336157901288001.jpg"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1625710231867
+    },
+    {
+      "content": "Of course",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1625710224624
+    },
+    {
+      "content": "Andres forgot to send me the schedule so could you send it to me please?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ana",
+      "timestamp_ms": 1625710181018
+    },
+    {
+      "content": "Hey dan! Hope you are doing great,May I ask you something??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ana",
+      "timestamp_ms": 1625710133458
+    }
+  ],
+  "participants": [
+    {
+      "name": "Ana"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:39:30.741-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:39:30.741Z"
+  },
+  "thread_path": "inbox/ana_341197060878466",
+  "title": "Ana"
+}

@@ -1,0 +1,76 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1639 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "organic_insights_reach": [
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Accounts Reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "119"
+        },
+        "Accounts Reached Delta": {
+          "href": "",
+          "timestamp": 0,
+          "value": "+65.2% vs Feb 25 - May 25"
+        },
+        "Date Range": {
+          "href": "",
+          "timestamp": 0,
+          "value": "May 26 - Aug 23"
+        },
+        "External link taps": {
+          "href": "",
+          "timestamp": 0,
+          "value": "4"
+        },
+        "External link taps delta": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0%"
+        },
+        "Followers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "53.7%"
+        },
+        "Impressions": {
+          "href": "",
+          "timestamp": 0,
+          "value": "554"
+        },
+        "Impressions Delta": {
+          "href": "",
+          "timestamp": 0,
+          "value": "-15.3%"
+        },
+        "Non-Followers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "46.2%"
+        },
+        "Non-Followers Delta": {
+          "href": "",
+          "timestamp": 0,
+          "value": "You reached -14.1% more accounts that weren't following you compared to Feb 25 - May 25."
+        },
+        "Profile Visits Delta": {
+          "href": "",
+          "timestamp": 0,
+          "value": "-3.9%"
+        },
+        "Profile visits": {
+          "href": "",
+          "timestamp": 0,
+          "value": "75"
+        }
+      },
+      "title": ""
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:22:13.130-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:22:13.130Z"
+  }
+}

@@ -1,0 +1,36 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 817 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Ah sorry wrong person !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Natalie Frank ð",
+      "timestamp_ms": 1483925414419
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Natalie Frank ð",
+      "timestamp_ms": 1483925394235
+    }
+  ],
+  "participants": [
+    {
+      "name": "Natalie Frank ð"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:25:28.530-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:25:28.530Z"
+  },
+  "thread_path": "message_requests/nataliefrank_558616595535153",
+  "title": "Natalie Frank ð"
+}

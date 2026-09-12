@@ -1,0 +1,694 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 14475 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "organic_insights_live": [
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Peak Concurrent Viewers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Start Time": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Peak Concurrent Viewers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Start Time": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Peak Concurrent Viewers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Start Time": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Peak Concurrent Viewers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Start Time": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Peak Concurrent Viewers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Start Time": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Peak Concurrent Viewers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Start Time": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Peak Concurrent Viewers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Start Time": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Peak Concurrent Viewers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Start Time": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Peak Concurrent Viewers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Start Time": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Peak Concurrent Viewers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Start Time": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Peak Concurrent Viewers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Start Time": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Peak Concurrent Viewers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Start Time": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Peak Concurrent Viewers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Start Time": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Peak Concurrent Viewers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Start Time": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Peak Concurrent Viewers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Start Time": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Peak Concurrent Viewers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Start Time": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Peak Concurrent Viewers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Start Time": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Peak Concurrent Viewers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Start Time": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Peak Concurrent Viewers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Start Time": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": ""
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:22:11.469-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:22:11.469Z"
+  }
+}

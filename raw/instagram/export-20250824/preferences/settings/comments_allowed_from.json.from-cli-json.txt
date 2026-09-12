@@ -1,0 +1,21 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 276 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:22:03.910-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:22:03.910Z"
+  },
+  "settings_allow_comments_from": [
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Comments Allowed From": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Everyone"
+        }
+      },
+      "title": ""
+    }
+  ]
+}

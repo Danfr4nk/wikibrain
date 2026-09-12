@@ -1,0 +1,41 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 735 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "account_history_imprecise_last_known_location": [
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "GPS Time Uploaded": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        },
+        "Imprecise Latitude": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Imprecise Longitude": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Precise Latitude": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Precise Longitude": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        }
+      },
+      "title": ""
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:22:53.183-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:22:53.183Z"
+  }
+}

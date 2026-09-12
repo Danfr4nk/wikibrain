@@ -1,0 +1,442 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 16716 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "m  ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1596312391385
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "original_content_owner": "notsick3"
+      },
+      "timestamp_ms": 1596312390792
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1562560188543
+    },
+    {
+      "content": "307 e 76th",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1551153099322
+    },
+    {
+      "content": "I got the apartment. Moving Saturday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1551153081362
+    },
+    {
+      "content": "I almost signed a lease for a spot near sunset park too. Holy shit that commute would suck",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1550986437965
+    },
+    {
+      "content": "Weâll get smoked and feel better that everyone else we know with less appealing zip codes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1550986390197
+    },
+    {
+      "content": "Letâs link up once Iâm in town.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1550986339652
+    },
+    {
+      "content": "Nice man thatâs awesome",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "jrl5138",
+      "timestamp_ms": 1550975721832
+    },
+    {
+      "content": "I actually heard about it and 5 mins later was in the car driving up to nyc to put a deposit on that shit",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1550960496901
+    },
+    {
+      "content": "Yo I found a spot on 76th bet 2 and 3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1550960435041
+    },
+    {
+      "content": "2 boosted boards, that is",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1550118680196
+    },
+    {
+      "content": "I bought 2 because Iâm a spoiled brat so when Iâm up here weâll go shred",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1550118634197
+    },
+    {
+      "content": "Bedford ave south williamsburg. I had so much fun cruising the area today",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1550118575841
+    },
+    {
+      "content": "Thatâs my old hood",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1550118538837
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1550118490528,
+      "videos": [
+        {
+          "creation_timestamp": 1603784549,
+          "uri": "your_instagram_activity/messages/inbox/jrl5138_548024089927737/videos/52971365_243779899845066_561159557649268736_n_1027857544401271.mp4"
+        }
+      ]
+    },
+    {
+      "content": "I love being in this city, nothing beats it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "jrl5138",
+      "timestamp_ms": 1550118486817
+    },
+    {
+      "content": "Thatâs actually completely unsurprising in this city, but wild",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "jrl5138",
+      "timestamp_ms": 1550118468950
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1550118403973,
+      "videos": [
+        {
+          "creation_timestamp": 1603099057,
+          "uri": "your_instagram_activity/messages/inbox/jrl5138_548024089927737/videos/52569120_824646101212696_928372823301292032_n_270900537507104.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Wrong video sorry",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1550118379730
+    },
+    {
+      "content": "I canât tell you how happy I am to be coming back. Itâs just the only place in the world worth being",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1550113742695
+    },
+    {
+      "content": "Not the super nicest area but this is me literally escaping from pa as fast as I can",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1550113688028
+    },
+    {
+      "content": "703 Kosciuszko ave is where I think weâll be",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1550113661066
+    },
+    {
+      "content": "Let me know if your looking at bed stuy. I lived on Monroe/Marcus Garvey for 3 years",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "jrl5138",
+      "timestamp_ms": 1550111114064
+    },
+    {
+      "content": "Holy shit only 30 min",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "jrl5138",
+      "timestamp_ms": 1550111093037
+    },
+    {
+      "content": "Iâm half tempted to jump on mine now and roll over to say hi lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1550111020104
+    },
+    {
+      "content": "Thatâs less than 30 mins travel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1550110990770
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1550110925688
+    },
+    {
+      "content": "Iâm so excited now that I got a boosted board. Check our this route I did today",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1550110853268
+    },
+    {
+      "content": "Oh nice! Let me know where you get an apartment. Iâm in bushwick now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "jrl5138",
+      "timestamp_ms": 1550110790565
+    },
+    {
+      "content": "Either 3/1 or 4/1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1550110494389
+    },
+    {
+      "content": "Almost. Iâm here grabbing an apartment",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1550110487110
+    },
+    {
+      "content": "So you back in the city now?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "jrl5138",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/1978764338927904719"
+      },
+      "timestamp_ms": 1550107961146
+    },
+    {
+      "content": "It was so nice to hear âSTAND CLEAR OF THE CLOSING DOOR PLEASEâ again",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1541924428614
+    },
+    {
+      "content": "I was in for a few days. Canât wait to be back full time",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1541924379325
+    },
+    {
+      "content": "You in ny?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "jrl5138",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/1907801418028808184"
+      },
+      "timestamp_ms": 1541652865732
+    },
+    {
+      "content": "Holy fuck I think he might have #metoo âd me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1540858644413
+    },
+    {
+      "content": "And obviously Iâve lived amongst the gay. I have tons of gay friends and itâs never weird like that.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1540858644134
+    },
+    {
+      "content": "I canât tell you how creepy the Bruce thing was man. I wound up blocking him and he seemed nice enough but as soon as he found out that Annie and I are doing cam stuff he weirded out and wouldnât stop talking about my hog. I just didnât know if this was usual behavior or if he is even like...an openly gay dude?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1540858643856
+    },
+    {
+      "content": "Hoping to be back my May. It just hit me that I need to go back up and give it another go",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1540853519572
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1603594761,
+          "uri": "your_instagram_activity/messages/inbox/jrl5138_548024089927737/photos/44000203_259224291604770_6204406073584232672_n_290566708640422.jpg"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1540853051554
+    },
+    {
+      "content": "Just saw your message about Bruce...hahahahaha \n\nAny idea where youâre moving when you come back to ny?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "jrl5138",
+      "timestamp_ms": 1540757222455
+    },
+    {
+      "content": "Thatâs where I was for most of the time I was in nyc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1516544633819
+    },
+    {
+      "content": "Nice dude! Next time youâre on the JMZ or going over the williamsburg bridge, look for the super tall newish construction building near the domino sugar plant. I think they just call it 424 Bedford now.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1516544619199
+    },
+    {
+      "content": "Iâm in bushwick Iâve been here now 4 years. Let me know if you think about  visiting. Thanks for the number, always good to have multiple options for goodies.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "jrl5138",
+      "timestamp_ms": 1516509579798
+    },
+    {
+      "content": "And coke and Molly and whatever else is being consumed in a shitty bridge and tunnel, meat packing district club",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1516500747469
+    },
+    {
+      "content": "But theyâre not JUST a black car service. They also double as the cityâs best pot delivery service",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1516500668052
+    },
+    {
+      "content": "Oh hey hereâs something of note:\n\n347-965-4836\nThatâs the number for a great towncar service that will pick up anywhere in bk, queens, and manhattan below like 96th",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1516500551661
+    },
+    {
+      "content": "Iâve officially been out of nyc for 4 years and I just recently starting missing it and wanting to go back",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1516500178115
+    },
+    {
+      "content": "Where in the city are you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1516500130437
+    },
+    {
+      "content": "Haha you made the correct decision.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "jrl5138",
+      "timestamp_ms": 1516486045996
+    },
+    {
+      "content": "Got on the car, assessed the situation, turned around and decided Iâd wait for the next ride haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1516485980461
+    },
+    {
+      "content": "I had my first experience with a train wanker at the Marcy ave j station",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1516485960062
+    },
+    {
+      "content": "She gave zero fucks it was quite impressive",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "jrl5138",
+      "timestamp_ms": 1516485936938
+    },
+    {
+      "content": "Haha yeah I forgot ace was a bad line too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1516485931920
+    },
+    {
+      "content": "Actually it was the L. Shit was wild. Thought Iâd only see that on A or JMZ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "jrl5138",
+      "timestamp_ms": 1516485912090
+    },
+    {
+      "content": "Must be a 123 or JMZ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1516485842604
+    }
+  ],
+  "participants": [
+    {
+      "name": "jrl5138"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:34:57.171-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:34:57.171Z"
+  },
+  "thread_path": "inbox/jrl5138_548024089927737",
+  "title": "jrl5138"
+}

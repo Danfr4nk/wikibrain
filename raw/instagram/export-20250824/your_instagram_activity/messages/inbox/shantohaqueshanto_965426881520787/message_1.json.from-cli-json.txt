@@ -1,0 +1,185 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 6295 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Shanto sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Shanto Haque Shanto",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-84yu0AewF/?id=3439873992247340037_57285673634",
+        "original_content_owner": "mommas.all.booked",
+        "share_text": "I couldnât not post this bc Iâm laughing so hard. \nDonât come for me. ððð\nRemixed from @muggamanb \n\n#igreels"
+      },
+      "timestamp_ms": 1727419421914
+    },
+    {
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Shanto Haque Shanto",
+      "timestamp_ms": 1711267523107
+    },
+    {
+      "content": "https://photos.app.goo.gl/9JJnZZmPnG2Ti8gU6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://photos.app.goo.gl/9JJnZZmPnG2Ti8gU6",
+        "share_text": "https://photos.app.goo.gl/9JJnZZmPnG2Ti8gU6"
+      },
+      "timestamp_ms": 1711247797815
+    },
+    {
+      "content": "Iâm good buddy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1711247743498
+    },
+    {
+      "content": "But you have to say âyou were rightâ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1711247683951
+    },
+    {
+      "content": "How is everything?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Shanto Haque Shanto",
+      "timestamp_ms": 1711247683415
+    },
+    {
+      "content": "How are you buddy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Shanto Haque Shanto",
+      "timestamp_ms": 1711247674177
+    },
+    {
+      "content": "And if not itâs fine",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Shanto Haque Shanto",
+          "reaction": "â¤",
+          "timestamp": 1711267523
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1711247672650
+    },
+    {
+      "content": "Itâs almost April",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1711247654855
+    },
+    {
+      "content": "Are you not coming back",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1711247648954
+    },
+    {
+      "content": "Akrmul",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1711247642676
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1710669958,
+          "uri": "your_instagram_activity/messages/inbox/shantohaqueshanto_965426881520787/photos/430002731_697936132274052_3954122874549350796_n_697936128940719.jpg"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1710669958999
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1710669925,
+          "uri": "your_instagram_activity/messages/inbox/shantohaqueshanto_965426881520787/photos/429907291_316821174733953_2913009278324629187_n_316821171400620.jpg"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1710669926638
+    },
+    {
+      "content": "Shanto sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Shanto Haque Shanto",
+      "timestamp_ms": 1710439254225
+    },
+    {
+      "content": "Shanto sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Shanto Haque Shanto",
+      "timestamp_ms": 1696044590806
+    },
+    {
+      "content": "Shanto sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Shanto Haque Shanto",
+      "share": {
+        "link": "https://www.instagram.com/reel/Cr1fdwEN6sW/?id=3095518702804118294_4677185068",
+        "original_content_owner": "thafoodheaven",
+        "share_text": "Will this ever turn in to a pizza ? ð±ð\nWatch til the end ðð»â¤ï¸\nBy @jhonhinojosa8\nLove Food ? Follow us"
+      },
+      "timestamp_ms": 1683872782195
+    },
+    {
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2925336070402981026"
+      },
+      "timestamp_ms": 1662947304342
+    },
+    {
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2897858790089059470"
+      },
+      "timestamp_ms": 1659671719982
+    }
+  ],
+  "participants": [
+    {
+      "name": "Shanto Haque Shanto"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:34:30.556-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:34:30.556Z"
+  },
+  "thread_path": "inbox/shantohaqueshanto_965426881520787",
+  "title": "Shanto Haque Shanto"
+}

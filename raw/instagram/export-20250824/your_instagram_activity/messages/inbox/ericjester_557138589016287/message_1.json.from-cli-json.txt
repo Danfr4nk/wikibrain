@@ -1,0 +1,32 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 616 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Youâre so good at that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Eric Jester",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/1865625940730660560"
+      },
+      "timestamp_ms": 1536631806567
+    }
+  ],
+  "participants": [
+    {
+      "name": "Eric Jester"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:32:48.465-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:32:48.465Z"
+  },
+  "thread_path": "inbox/ericjester_557138589016287",
+  "title": "Eric Jester"
+}

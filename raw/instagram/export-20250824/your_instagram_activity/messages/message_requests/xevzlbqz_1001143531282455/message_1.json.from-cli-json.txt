@@ -1,0 +1,41 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1039 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "ï»¿I have read your information many times, and I think we are very convenient and similar. I hope we can become friends as soon as possible. If it is convenient for you, you can add my telegram:",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "XevzLbQz",
+      "timestamp_ms": 1663382598447
+    },
+    {
+      "content": "https://t.me/nn1238889",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "XevzLbQz",
+      "share": {
+        "link": "https://t.me/nn1238889",
+        "share_text": "https://t.me/nn1238889"
+      },
+      "timestamp_ms": 1663382594057
+    }
+  ],
+  "participants": [
+    {
+      "name": "XevzLbQz"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:25:18.458-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:25:18.458Z"
+  },
+  "thread_path": "message_requests/xevzlbqz_1001143531282455",
+  "title": "XevzLbQz"
+}

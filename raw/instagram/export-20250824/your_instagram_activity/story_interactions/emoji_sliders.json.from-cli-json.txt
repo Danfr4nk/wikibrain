@@ -1,0 +1,28 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 368 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:23:43.467-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:23:43.467Z"
+  },
+  "story_activities_emoji_sliders": [
+    {
+      "string_list_data": [
+        {
+          "timestamp": 1529890400,
+          "value": "62.2518"
+        }
+      ],
+      "title": "ihatedanfrank"
+    },
+    {
+      "string_list_data": [
+        {
+          "timestamp": 1527642907,
+          "value": "29.1935"
+        }
+      ],
+      "title": "pgatour"
+    }
+  ]
+}

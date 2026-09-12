@@ -1,0 +1,20 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 247 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "devices_two_factor_authentication": [
+    {
+      "string_map_data": {
+        "Device ID": {
+          "value": "F2C5E623-46B0-48C1-B83F-3244F10F982D"
+        },
+        "Nickname": {
+          "value": "Xs max"
+        }
+      }
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:23:20.423-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:23:20.423Z"
+  }
+}

@@ -1,0 +1,28 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 439 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "relationships_blocked_users": [
+    {
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/ricardoguzj",
+          "timestamp": 1659671391
+        }
+      ],
+      "title": "ricardoguzj"
+    },
+    {
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/lindsayleigh022",
+          "timestamp": 1529541165
+        }
+      ],
+      "title": "lindsayleigh022"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:22:30.439-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:22:30.439Z"
+  }
+}

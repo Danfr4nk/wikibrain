@@ -1,0 +1,34 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 659 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Instagram User sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "share": {
+        "link": "https://0wrj.icu/#bktyfx1krq",
+        "share_text": "Check on map"
+      },
+      "timestamp_ms": 1553359941083
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:27:47.598-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:27:47.598Z"
+  },
+  "thread_path": "message_requests/instagramuser_597144891682323",
+  "title": "Instagram User"
+}

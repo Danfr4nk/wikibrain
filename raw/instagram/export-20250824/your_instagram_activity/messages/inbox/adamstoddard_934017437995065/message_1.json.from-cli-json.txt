@@ -1,0 +1,88 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 3071 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Ayo DanFrank, how ya doon? Is there somewhere I can print my W4 from Au Zataar? Did we have paychex? I cnt remember",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Adam Stoddard",
+      "timestamp_ms": 1674079911534
+    },
+    {
+      "content": "Hows Au Zat? You guys gotta buncha new guys right?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Adam Stoddard",
+      "timestamp_ms": 1656899233311
+    },
+    {
+      "content": "Hola chingon! Mexico has been good, its been a lot of hard work but I am learning a lot, happy to be near the ocean tho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Adam Stoddard",
+      "timestamp_ms": 1656899223300
+    },
+    {
+      "content": "Hey gringo howâs Mexico",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656895460590
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://www.instagram.com/p/CfPFYdpgFxc/?carousel_share_child_media_id=2868535158993083484_5577718207",
+        "original_content_owner": "stavvybaby2",
+        "share_text": "We had a good run ð¤ð¤"
+      },
+      "timestamp_ms": 1656649947019
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656649918675
+    },
+    {
+      "content": "He seriously quit?!? Damn he is the potatoes on that show, ill take the blame on this one",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Adam Stoddard",
+      "timestamp_ms": 1656374351170
+    },
+    {
+      "content": "1. You once told me âtheyâre not going to end the show (at the end of the year)\n\n2. Stav quit on your last day at au zaatar.\n\nThis is terrible now where am I going to listen to one weird guy and one funny guy bully one sleepy guy?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656328577925
+    },
+    {
+      "content": "Okay dude I fucking blame you for cumtown ending",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656328398358
+    }
+  ],
+  "participants": [
+    {
+      "name": "Adam Stoddard"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:33:24.972-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:33:24.972Z"
+  },
+  "thread_path": "inbox/adamstoddard_934017437995065",
+  "title": "Adam Stoddard"
+}

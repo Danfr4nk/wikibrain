@@ -1,0 +1,29 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1019 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "hey dude ! i wanted to ask super quickly if Gas Digital is looking for some free labor. i went to college for audio production and iâm super solid with video and graphic editing. Honestly though iâd be so hyped even just helping load in/out or cleaning toilets or rolling baseball bat spliffs. i live in manhattan with my girlfriend who is a cam girl so i donât need money, just something to do. If you guys or anyone else you know needs a white slave hit me the fuck up\n\nihatedanfrank@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1573750146077
+    }
+  ],
+  "participants": [
+    {
+      "name": "Luis J. Gomez"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:31:35.828-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:31:35.828Z"
+  },
+  "thread_path": "inbox/luisjgomez_569947654406223",
+  "title": "Luis J. Gomez"
+}

@@ -1,0 +1,406 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 9412 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:24:15.031-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:24:15.031Z"
+  },
+  "text_post_app_text_post_app_unfollowed_users": [
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/pete.buttigieg",
+          "timestamp": 1689333549,
+          "value": "pete.buttigieg"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/diego_navaranda",
+          "timestamp": 1689043385,
+          "value": "diego_navaranda"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/theatlantic",
+          "timestamp": 1689042991,
+          "value": "theatlantic"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/jordanlonigro",
+          "timestamp": 1689042768,
+          "value": "jordanlonigro"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/",
+          "timestamp": 1688942788,
+          "value": ""
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/the_oodie",
+          "timestamp": 1688737423,
+          "value": "the_oodie"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/theemoodyfoody",
+          "timestamp": 1688737419,
+          "value": "theemoodyfoody"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/everyday_ericalee",
+          "timestamp": 1688737367,
+          "value": "everyday_ericalee"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/rylandblackinton",
+          "timestamp": 1688686000,
+          "value": "rylandblackinton"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/valenmlopez",
+          "timestamp": 1688685993,
+          "value": "valenmlopez"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/bludnymph",
+          "timestamp": 1688685831,
+          "value": "bludnymph"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/amaratzia.sinclairxx",
+          "timestamp": 1688685729,
+          "value": "amaratzia.sinclairxx"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/tedbearbeats",
+          "timestamp": 1688685451,
+          "value": "tedbearbeats"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/lookingformin",
+          "timestamp": 1688685444,
+          "value": "lookingformin"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/shaunnovakmusic",
+          "timestamp": 1688685440,
+          "value": "shaunnovakmusic"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/facelab.mobi",
+          "timestamp": 1688685429,
+          "value": "facelab.mobi"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/caitlin__oconnor",
+          "timestamp": 1688685427,
+          "value": "caitlin__oconnor"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/_darnit_domi",
+          "timestamp": 1688685424,
+          "value": "_darnit_domi"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/jennaezarik",
+          "timestamp": 1688685421,
+          "value": "jennaezarik"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/atrak",
+          "timestamp": 1688685417,
+          "value": "atrak"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/joerogan",
+          "timestamp": 1688685412,
+          "value": "joerogan"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/alexawhatsfordinner",
+          "timestamp": 1688685407,
+          "value": "alexawhatsfordinner"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/thefader",
+          "timestamp": 1688685405,
+          "value": "thefader"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/",
+          "timestamp": 1688685399,
+          "value": ""
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/turntablelab",
+          "timestamp": 1688685398,
+          "value": "turntablelab"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/maddecent",
+          "timestamp": 1688685374,
+          "value": "maddecent"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/whatdotcd",
+          "timestamp": 1688685369,
+          "value": "whatdotcd"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/treasurefingers",
+          "timestamp": 1688685368,
+          "value": "treasurefingers"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/popcravenow",
+          "timestamp": 1688646620,
+          "value": "popcravenow"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/aliciamenendezxo",
+          "timestamp": 1688640636,
+          "value": "aliciamenendezxo"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/lis__smith",
+          "timestamp": 1688640632,
+          "value": "lis__smith"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/glenn_thrush",
+          "timestamp": 1688628116,
+          "value": "glenn_thrush"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/repbowman",
+          "timestamp": 1688627355,
+          "value": "repbowman"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/realrudygiuliani",
+          "timestamp": 1688626037,
+          "value": "realrudygiuliani"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/matthewstoller",
+          "timestamp": 1688625965,
+          "value": "matthewstoller"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/mikhailapeterson",
+          "timestamp": 1688619128,
+          "value": "mikhailapeterson"
+        }
+      ],
+      "title": ""
+    }
+  ]
+}

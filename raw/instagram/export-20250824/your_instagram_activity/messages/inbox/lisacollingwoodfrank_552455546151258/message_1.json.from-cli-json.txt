@@ -1,0 +1,43 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1447 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "You are welcome! This is such an exciting time for Syd and me! Thank you offering a connection at the gun club! I will keep that in mind!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Lisa Collingwood Frank",
+      "timestamp_ms": 1667394392436
+    },
+    {
+      "content": "Thank you Lisa!!!  Howâs the wedding planning going? If my hunch is right, this must be SO exciting for  a mother/daughter dynamic that is as close as you guys are. \n\nAlthough if the venue falls through I know a guy who could get you the hall at the hopwood gun club. Just in case! ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667357113737
+    },
+    {
+      "content": "Happy Birthday, Dan! I hope you are having an amazing day!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Lisa Collingwood Frank",
+      "timestamp_ms": 1667335771415
+    }
+  ],
+  "participants": [
+    {
+      "name": "Lisa Collingwood Frank"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:31:52.608-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:31:52.608Z"
+  },
+  "thread_path": "inbox/lisacollingwoodfrank_552455546151258",
+  "title": "Lisa Collingwood Frank"
+}

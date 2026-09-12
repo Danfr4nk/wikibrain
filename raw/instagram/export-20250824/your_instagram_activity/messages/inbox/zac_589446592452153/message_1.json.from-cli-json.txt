@@ -1,0 +1,144 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 5205 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "You guys alright?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Zac",
+      "timestamp_ms": 1590867297797
+    },
+    {
+      "content": "also the only response i deserve for such an inane brag is : âwhy are you telling me this? i couldnât possibly give a fuckâ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563496383908
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1603063752,
+          "uri": "your_instagram_activity/messages/inbox/zac_589446592452153/photos/66711690_400913767197516_393968513518021781_n_640238489987841.jpg"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563496339044
+    },
+    {
+      "content": "i hit 1000 total miles on boosted board today",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563496309604
+    },
+    {
+      "content": "Kinda like a unicycle or something lol. Was dope for going through grass and dirt though, best feature imo. And do it dude so much opportunity in NYC just make it happen. I'm trying to move back to philly asap, but I got a decent job here that is keeping me from going for it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Zac",
+      "timestamp_ms": 1547245209448
+    },
+    {
+      "content": "Lol my buddy had one of the version one but it was real awkward for me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Zac",
+      "timestamp_ms": 1547245110177
+    },
+    {
+      "content": "For real Iâm so close to just buying the OneWheel though. Iâm trying super hard to not allow myself to get a third eBoard in one week",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1547244275751
+    },
+    {
+      "content": "Plan is to move back to nyc in the next few months...hence - boosted boards",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1547244226351
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1547244183351,
+      "videos": [
+        {
+          "creation_timestamp": 1602212856,
+          "uri": "your_instagram_activity/messages/inbox/zac_589446592452153/videos/50159588_2178415838846663_1260354047022465024_n_738742626680968.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Find a story to tell lol. That's the same reason I never did vlog. My life is boring haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Zac",
+      "timestamp_ms": 1547218613528
+    },
+    {
+      "content": "If only I had a single thing worth blogging about lol\n\nIâve got all the equipment but no subject",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1547208913796
+    },
+    {
+      "content": "Lol gotta get a canon 80d or the Sony a7s and you'll be on your way to YouTube fame and glory ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Zac",
+      "timestamp_ms": 1547149304039
+    },
+    {
+      "content": "And Snapchat specs.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1547141566094
+    },
+    {
+      "content": "Gopro hero 7 black",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1547141548020
+    },
+    {
+      "content": "So now I have the Boosted Stealth and Mini X",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1547141527744
+    },
+    {
+      "content": "Dude I got the new boosted longboard and I love it so much I went ahead and ordered the new short deck too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1547141506642
+    }
+  ],
+  "participants": [
+    {
+      "name": "Zac"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:35:12.627-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:35:12.627Z"
+  },
+  "thread_path": "inbox/zac_589446592452153",
+  "title": "Zac"
+}

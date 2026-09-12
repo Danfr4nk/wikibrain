@@ -1,0 +1,44 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 886 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1625699072230
+    },
+    {
+      "content": "m  ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1596312391041
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "original_content_owner": "notsick3"
+      },
+      "timestamp_ms": 1596312390775
+    }
+  ],
+  "participants": [
+    {
+      "name": "OGXXX"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:30:17.470-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:30:17.470Z"
+  },
+  "thread_path": "inbox/ogxxx_580202266709919",
+  "title": "OGXXX"
+}

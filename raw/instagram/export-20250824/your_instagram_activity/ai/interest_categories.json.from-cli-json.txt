@@ -1,0 +1,33 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 694 bytes not retrievable byte-identically. JSON semantics preserved.]
+[
+  {
+    "fbid": "18519238216056594",
+    "label_values": [
+      {
+        "label": "Interest",
+        "value": "The user might be interested in nail art and beauty"
+      },
+      {
+        "label": "Last updated time",
+        "timestamp_value": 1754754954
+      }
+    ],
+    "media": [],
+    "timestamp": 1754754954
+  },
+  {
+    "fbid": "18519238210056594",
+    "label_values": [
+      {
+        "label": "Interest",
+        "value": "The user might be interested in personal style and fashion confidence"
+      },
+      {
+        "label": "Last updated time",
+        "timestamp_value": 1754754954
+      }
+    ],
+    "media": [],
+    "timestamp": 1754754954
+  }
+]

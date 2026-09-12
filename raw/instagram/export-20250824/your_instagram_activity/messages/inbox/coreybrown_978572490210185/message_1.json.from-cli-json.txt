@@ -1,0 +1,41 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1013 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "I found a lost backup of all my audio from 2006-2010",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663120637180
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663120387549,
+      "videos": [
+        {
+          "creation_timestamp": 1663120380,
+          "uri": "your_instagram_activity/messages/inbox/coreybrown_978572490210185/videos/AQO0IIsSK2G4Kkkvi3YAiqcSUGqprhH7W_eVDM7eAUKaLl3wOlsCp_zjMJmo8pXOOeS7OvHStTe_mpaDhwiq8Bys5_iLjnP59tNmqyueMNuxcU_815808819445354.mp4"
+        }
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Corey Brown"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:35:49.258-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:35:49.258Z"
+  },
+  "thread_path": "inbox/coreybrown_978572490210185",
+  "title": "Corey Brown"
+}

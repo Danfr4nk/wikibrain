@@ -1,0 +1,31 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 482 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "monetization_eligibility": [
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Decision": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Eligible"
+        },
+        "Product Name": {
+          "href": "",
+          "timestamp": 0,
+          "value": "BRANDED CONTENT"
+        },
+        "Reason": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": ""
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:23:36.798-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:23:36.798Z"
+  }
+}

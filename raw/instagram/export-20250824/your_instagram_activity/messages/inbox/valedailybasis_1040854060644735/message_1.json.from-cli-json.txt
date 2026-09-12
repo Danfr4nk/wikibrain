@@ -1,0 +1,163 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 5554 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "I started doing videos about politics recently so doing quick edits is no probz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667449912754
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667449850959,
+      "videos": [
+        {
+          "creation_timestamp": 1667449841,
+          "uri": "your_instagram_activity/messages/inbox/valedailybasis_1040854060644735/videos/AQOYyOu6vuooGtrhtJYtfUAQvFXzaa9m3aArkPy0i_LiF0XbNbyGwiHi_FX78I8QaC3UNhAuaAzlb7HmskoqGhTKnbiUglJL9f5n_Cplfz_qGO_431197889186555.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Hahahahahhaa really wtf",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Vale daily basis",
+      "timestamp_ms": 1667449801807
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667449770470,
+      "videos": [
+        {
+          "creation_timestamp": 1667449764,
+          "uri": "your_instagram_activity/messages/inbox/valedailybasis_1040854060644735/videos/AQNNtpO45blQGPq1SSAKGkdPYeJl45525kEETJMdzt0tP_yLFTJm83wJVtETMU_digTZeSdjDnBan_a9gnAc3dJW3BO1XigYJ9qMXLUrzUgD8H_700743407720021.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Its cool",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Vale daily basis",
+      "timestamp_ms": 1667449486326
+    },
+    {
+      "content": "Hahahaa how did you do that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Vale daily basis",
+      "timestamp_ms": 1667449483885
+    },
+    {
+      "content": "But I thought a Yale grad would be so smart youâd see right though my desperation and general lameness",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667449413645
+    },
+    {
+      "content": "I meannnnn honestly it was the fastest and most immediate way I could demonstrate how creative and funny I am. ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667449372586
+    },
+    {
+      "content": "Jajaa wtf is that video",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Vale daily basis",
+      "timestamp_ms": 1667449196653
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Vale daily basis",
+      "timestamp_ms": 1667449178531
+    },
+    {
+      "content": "You changed the theme to Lollipop",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667444554474
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Vale daily basis",
+          "reaction": "â¤ï¸",
+          "timestamp": 1667449178
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667439567303,
+      "videos": [
+        {
+          "creation_timestamp": 1667439559,
+          "uri": "your_instagram_activity/messages/inbox/valedailybasis_1040854060644735/videos/AQOjWS27CBlF7eh5wqkqyElz_VNwMn453Eh_QooE2NggbODruIZlMSCR61H4IFMo_zEqsmkYzNEGSzc1ziOUjg9YyMnYnXOzXxg1QE2VuM9NOb_1198987211033608.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Big big big mistake sending me a dmâ¦now I get to bother you all the time ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667437774428
+    },
+    {
+      "content": "6pm to 10",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Vale daily basis",
+      "timestamp_ms": 1667224038479
+    },
+    {
+      "content": "Im sick, can you cover me today? PLEASE",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Vale daily basis",
+      "timestamp_ms": 1667224034559
+    },
+    {
+      "content": "Rodrigo gave me your insta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Vale daily basis",
+      "timestamp_ms": 1667224011473
+    },
+    {
+      "content": "Dan its Valentina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Vale daily basis",
+      "timestamp_ms": 1667224003168
+    }
+  ],
+  "participants": [
+    {
+      "name": "Vale daily basis"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:34:05.271-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:34:05.271Z"
+  },
+  "thread_path": "inbox/valedailybasis_1040854060644735",
+  "title": "Vale daily basis"
+}

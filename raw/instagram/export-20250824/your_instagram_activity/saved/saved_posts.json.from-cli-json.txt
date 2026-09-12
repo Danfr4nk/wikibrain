@@ -1,0 +1,100 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 2115 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:23:34.835-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:23:34.835Z"
+  },
+  "saved_saved_media": [
+    {
+      "string_map_data": {
+        "Saved on": {
+          "href": "https://www.instagram.com/reel/Cka13ygg8IB/",
+          "timestamp": 1667310430
+        }
+      },
+      "title": "ihatedanfrank"
+    },
+    {
+      "string_map_data": {
+        "Saved on": {
+          "href": "https://www.instagram.com/tv/CcNjtcFgtsS/",
+          "timestamp": 1666411852
+        }
+      },
+      "title": "ihatedanfrank"
+    },
+    {
+      "string_map_data": {
+        "Saved on": {
+          "href": "https://www.instagram.com/tv/B-yjQOGFjmU/",
+          "timestamp": 1655543360
+        }
+      },
+      "title": "ihatedanfrank"
+    },
+    {
+      "string_map_data": {
+        "Saved on": {
+          "href": "https://www.instagram.com/p/CeY_hkps-zs/",
+          "timestamp": 1654365264
+        }
+      },
+      "title": "hbnielsentattoo"
+    },
+    {
+      "string_map_data": {
+        "Saved on": {
+          "href": "https://www.instagram.com/tv/CciUI9Yr2Or/",
+          "timestamp": 1650436474
+        }
+      },
+      "title": "johnfetterman"
+    },
+    {
+      "string_map_data": {
+        "Saved on": {
+          "href": "https://www.instagram.com/tv/B8b6QYRFWAc/",
+          "timestamp": 1581475359
+        }
+      },
+      "title": "timjdillon"
+    },
+    {
+      "string_map_data": {
+        "Saved on": {
+          "href": "https://www.instagram.com/p/Bui_4vigC7Q/",
+          "timestamp": 1551631768
+        }
+      },
+      "title": "jennlynnj"
+    },
+    {
+      "string_map_data": {
+        "Saved on": {
+          "href": "https://www.instagram.com/p/Bop66JJhlWe/",
+          "timestamp": 1539133897
+        }
+      },
+      "title": "maggiecoffman86"
+    },
+    {
+      "string_map_data": {
+        "Saved on": {
+          "href": "https://www.instagram.com/p/BnjqV_ADF5J/",
+          "timestamp": 1536706022
+        }
+      },
+      "title": "ihatedanfrank"
+    },
+    {
+      "string_map_data": {
+        "Saved on": {
+          "href": "https://www.instagram.com/p/BQ4sSLygM0L/",
+          "timestamp": 1487953572
+        }
+      },
+      "title": "ihatedanfrank"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 2082 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "profile_user": [
+    {
+      "media_map_data": {
+        "Profile Photo": {
+          "creation_timestamp": 1742174346,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "title": "",
+          "uri": "media/profile/202503/484209605_548366834956592_4026606967442509696_n_18304475290234599.jpg"
+        }
+      },
+      "string_map_data": {
+        "Bio": {
+          "href": "",
+          "timestamp": 0,
+          "value": "politics sicko"
+        },
+        "Date of birth": {
+          "href": "",
+          "timestamp": 0,
+          "value": "1988-11-01"
+        },
+        "Email": {
+          "href": "",
+          "timestamp": 0,
+          "value": "ihatedanfrank@gmail.com"
+        },
+        "Emoji Pong High Score": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Gender": {
+          "href": "",
+          "timestamp": 0,
+          "value": "male"
+        },
+        "Name": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Dan Frank"
+        },
+        "Phone Confirmation Method": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Manual"
+        },
+        "Phone Confirmed": {
+          "href": "",
+          "timestamp": 0,
+          "value": "True"
+        },
+        "Phone Number": {
+          "href": "",
+          "timestamp": 0,
+          "value": "+16467376955"
+        },
+        "Private Account": {
+          "href": "",
+          "timestamp": 0,
+          "value": "False"
+        },
+        "Pronouns": {
+          "href": "",
+          "timestamp": 0,
+          "value": "he/him"
+        },
+        "Username": {
+          "href": "",
+          "timestamp": 0,
+          "value": "ihatedanfrank"
+        },
+        "Website": {
+          "href": "",
+          "timestamp": 0,
+          "value": "http://www.twitter.com/danfrank"
+        }
+      },
+      "title": "User Information"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:23:05.164-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:23:05.164Z"
+  }
+}

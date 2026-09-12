@@ -1,0 +1,112 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1907 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "joinable_mode": {
+    "link": "",
+    "mode": 1
+  },
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Great! Grab Yours Instantly!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1557776236726
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1557776236726
+    }
+  ],
+  "participants": [
+    {
+      "name": "Jacob Cross"
+    },
+    {
+      "name": "J Scott"
+    },
+    {
+      "name": "Jake Lee"
+    },
+    {
+      "name": "Scott Hill"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Bernice Brooks"
+    },
+    {
+      "name": "uncle bird"
+    },
+    {
+      "name": "Herbert J. Unicorn"
+    },
+    {
+      "name": "Jordan Machac"
+    },
+    {
+      "name": "Jessica Seng"
+    },
+    {
+      "name": "Kristen"
+    },
+    {
+      "name": "Denise Nacrelli McLeod"
+    },
+    {
+      "name": "V I C O"
+    },
+    {
+      "name": "Kristina McKenna"
+    },
+    {
+      "name": "Dan Frank"
+    },
+    {
+      "name": "Zach Peagler"
+    },
+    {
+      "name": "shortmone"
+    },
+    {
+      "name": "prettyponylogan"
+    },
+    {
+      "name": "Amy Cousins"
+    },
+    {
+      "name": "ð½Love never endsð½"
+    },
+    {
+      "name": "curtis washington"
+    },
+    {
+      "name": "RÃ©mi Perreault"
+    },
+    {
+      "name": "Bakers Cerritos"
+    },
+    {
+      "name": "Giorgia Kelley"
+    },
+    {
+      "name": "Markie"
+    },
+    {
+      "name": "Suvi Autio"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:25:49.505-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:25:49.505Z"
+  },
+  "thread_path": "message_requests/jacobcrossjscottjakeleeand22others_2381177478584735",
+  "title": "Jacob Cross, J Scott, Jake Lee and 22 others"
+}

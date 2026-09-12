@@ -1,0 +1,41 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 976 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1603341094,
+          "uri": "your_instagram_activity/messages/inbox/kya_565551701508309/photos/60557160_813262222394425_647220931966412932_n_409075033588993.jpg"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1559501488444
+    },
+    {
+      "content": "hey kya! i upped my subscription to the snapchat tier yesterday. how does i go about getting the add from you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1559501483641
+    }
+  ],
+  "participants": [
+    {
+      "name": "KYA"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:37:20.364-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:37:20.364Z"
+  },
+  "thread_path": "inbox/kya_565551701508309",
+  "title": "KYA"
+}

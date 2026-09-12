@@ -1,0 +1,55 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1498 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "that's awesome",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ross Thompson",
+      "timestamp_ms": 1663452601483
+    },
+    {
+      "content": "i have absolutely no memory of that son but i super vaguely remember recording with you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ross Thompson",
+      "timestamp_ms": 1663452600031
+    },
+    {
+      "content": "hahaha wow",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ross Thompson",
+      "timestamp_ms": 1663452580283
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663383844394,
+      "videos": [
+        {
+          "creation_timestamp": 1663383834,
+          "uri": "your_instagram_activity/messages/inbox/rossthompson_10229322973326976/videos/AQMmHQ1b6Cm7bJ_b45bENB3noPCRB1GJcAjMzClOsQJ7FqXbYzj12hMV0uBNGcvSlVP69cc2c8e5GPvFdETgxcAHqWLcg_ZfMG_FUTOCMF3QQN_754658482303238.mp4"
+        }
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Ross Thompson"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:33:31.391-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:33:31.391Z"
+  },
+  "thread_path": "inbox/rossthompson_10229322973326976",
+  "title": "Ross Thompson"
+}

@@ -1,0 +1,38 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 662 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "fbid": "17841401697790172",
+  "label_values": [
+    {
+      "label": "Name",
+      "vec": [
+        {
+          "value": "Facebook access (mobile): Android devices"
+        },
+        {
+          "value": "Facebook access (mobile): Apple (iOS) devices"
+        },
+        {
+          "value": "Facebook access (mobile): smartphones and tablets"
+        },
+        {
+          "value": "Food and Restaurants"
+        },
+        {
+          "value": "Frequent international travelers"
+        },
+        {
+          "value": "Friends of Recently Moved"
+        },
+        {
+          "value": "Wi-Fi Usage"
+        }
+      ]
+    }
+  ],
+  "media": [],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:21:56.738-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:21:56.738Z"
+  }
+}

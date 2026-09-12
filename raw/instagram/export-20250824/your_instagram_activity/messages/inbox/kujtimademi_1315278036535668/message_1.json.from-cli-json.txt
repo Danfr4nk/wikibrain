@@ -1,0 +1,62 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 2364 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "What is this?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Kujtim Ademi",
+      "timestamp_ms": 1703813834115
+    },
+    {
+      "content": "Kujtim sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Kujtim Ademi",
+      "share": {
+        "link": "https://www.instagram.com/p/C1asCsJpLMy/",
+        "original_content_owner": "pubity",
+        "share_text": "Maine Secretary of State Shenna Bellows has ruled that former President Donald Trump cannot appear on the state's 2024 primary ballot, citing the 14th Amendment's provision barring those engaged in insurrection. \n\nThis decision follows a similar ruling in Colorado and may lead to a U.S. Supreme Court review. Trump's campaign plans to appeal, accusing Democrats of election interference. \n\nThe challenges focus on state primaries, with Maine's decision affecting Colorado, and over a dozen other states have primaries on March 5. Trump's eligibility could be determined before the general election if not resolved by July's national convention. ð³ï¸â"
+      },
+      "timestamp_ms": 1703813833922
+    },
+    {
+      "content": "Before you tell me who is Dan Frank (you or the asshole writer) please tell me if restaurant works for New Yearâs Eve?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Kujtim Ademi",
+      "timestamp_ms": 1703174546262
+    },
+    {
+      "content": "I have two questions",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Kujtim Ademi",
+      "timestamp_ms": 1703174441532
+    },
+    {
+      "content": "Hello my friend",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Kujtim Ademi",
+      "timestamp_ms": 1703174427196
+    }
+  ],
+  "participants": [
+    {
+      "name": "Kujtim Ademi"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:32:02.386-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:32:02.386Z"
+  },
+  "thread_path": "inbox/kujtimademi_1315278036535668",
+  "title": "Kujtim Ademi"
+}

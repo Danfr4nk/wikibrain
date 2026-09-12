@@ -1,0 +1,204 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 7048 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "But youâre doing good and everyone likes you on the staff so I just wanted to help make things easier for you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1629526672977
+    },
+    {
+      "content": "Itâs dumb but he will treat you better if you seem more American.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1629526572948
+    },
+    {
+      "content": "One more thing - try to use English as much as you can with Tarik",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1629526511653
+    },
+    {
+      "content": "Felipe and I are the only ones that they listen to and I will remind them that you are helping a lot and doing well",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1629526452800
+    },
+    {
+      "content": "He will yell even if you are doing perfect",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1629526315565
+    },
+    {
+      "content": "I know, no matter who you are, he will yell at you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "M O R R I L L",
+      "timestamp_ms": 1629526304751
+    },
+    {
+      "content": "But for real thatâs the most important thing at either restaurant",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1629526286247
+    },
+    {
+      "content": "Oh I thought you knew her nevermind lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1629526255308
+    },
+    {
+      "content": "I don't know, I only have one day to meet her, I think Andres knows whatâs sofias instagram \nHahah yes nobody talks at work",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "M O R R I L L",
+      "timestamp_ms": 1629526234527
+    },
+    {
+      "content": "He is really rough...with everybody. Just do your job and try to stay away from him",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1629526233224
+    },
+    {
+      "content": "And stay away from the kitchen whenever possible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1629526027751
+    },
+    {
+      "content": "Never ask him for instructions",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1629526008943
+    },
+    {
+      "content": "Mostly - anything Tarik says, just answer âyesâ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1629525972624
+    },
+    {
+      "content": "Thereâs a few things you both should know if you donât want to get screamed at every day",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1629525945128
+    },
+    {
+      "content": "Whatâs Sofiaâs instagram name? Everyone at work keeps in touch on here instead of talking in person",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1629525911743
+    },
+    {
+      "content": "yes, he told me he knew you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "M O R R I L L",
+      "timestamp_ms": 1629525851229
+    },
+    {
+      "content": "He worked at the restaurant for a couple weeks and opened with me every day",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1629525772961
+    },
+    {
+      "content": "Yeeees hahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "M O R R I L L",
+      "timestamp_ms": 1629525709868
+    },
+    {
+      "content": "and the second?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "M O R R I L L",
+      "timestamp_ms": 1629525701165
+    },
+    {
+      "content": "Andres is your brother right?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1629525690143
+    },
+    {
+      "content": "Oooh really? Because?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "M O R R I L L",
+      "timestamp_ms": 1629525672404
+    },
+    {
+      "content": "Did you know I know your brother really well?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1629523820660
+    },
+    {
+      "content": "Dos actually",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1629523791860
+    },
+    {
+      "content": "Dime, quÃ© pregunta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "M O R R I L L",
+      "timestamp_ms": 1629522630741
+    },
+    {
+      "content": "Yo tengo una pregunta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1629518496607
+    },
+    {
+      "content": "Yo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1629518467035
+    }
+  ],
+  "participants": [
+    {
+      "name": "M O R R I L L"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:31:27.851-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:31:27.851Z"
+  },
+  "thread_path": "inbox/morrill_196095215914267",
+  "title": "M O R R I L L"
+}

@@ -1,0 +1,138 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 3229 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "joinable_mode": {
+    "link": "",
+    "mode": 1
+  },
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Why go out of your way to buy Instagram likes manually with every new upload? Our system detects new uploads within 60 seconds and sends you real likes from real users automatically.\r\n\r\nHow it works:\r\n1. Upload a picture or video to Instagram ð²\r\n2. Your new media is automatically detected ðµââ\r\n3. Watch your likes&views grow ð\r\n\r\nâNo Instagram password requiredâ\r\n\r\nAre you interested in?\r\nYes/No? â¤µ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1554169074654
+    },
+    {
+      "content": "A contact added you and 27 others to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1554169074193
+    },
+    {
+      "content": "Hi!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1554169073816
+    }
+  ],
+  "participants": [
+    {
+      "name": "FÎ±ÑgÏ"
+    },
+    {
+      "name": "L.A."
+    },
+    {
+      "name": "Naups"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "ââBookiesââ"
+    },
+    {
+      "name": "kylie smith"
+    },
+    {
+      "name": "*COPE."
+    },
+    {
+      "name": "Claudette McCoy"
+    },
+    {
+      "name": "Michele Karas"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Ó¨ Æ¬ Î£ P"
+    },
+    {
+      "name": "Najji S"
+    },
+    {
+      "name": "Alex"
+    },
+    {
+      "name": "mickey1781"
+    },
+    {
+      "name": "April Eve Brennan"
+    },
+    {
+      "name": "Chelsea Janke"
+    },
+    {
+      "name": "Jessica Lieseke David"
+    },
+    {
+      "name": "LVMBO TheArtist ð¨ð¾âð¨ð¼ð¶"
+    },
+    {
+      "name": "Jen"
+    },
+    {
+      "name": "Rob Howlett"
+    },
+    {
+      "name": "Pharoh D"
+    },
+    {
+      "name": "Michelle \"Stellaâ Rose Dugue"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Andre L Martin"
+    },
+    {
+      "name": "Dan Frank"
+    },
+    {
+      "name": "Lucy"
+    },
+    {
+      "name": "Cat Cosmol"
+    },
+    {
+      "name": "Tracy Lee"
+    },
+    {
+      "name": "meme_bonbon"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "ððªð»ð²ðª"
+    },
+    {
+      "name": "Ross Silverman"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:28:15.736-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:28:15.736Z"
+  },
+  "thread_path": "message_requests/freelikes_2497779400310152",
+  "title": "FREE LIKES!"
+}

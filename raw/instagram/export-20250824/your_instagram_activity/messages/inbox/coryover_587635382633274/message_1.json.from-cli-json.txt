@@ -1,0 +1,38 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 717 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "m  ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1596312391436
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "original_content_owner": "notsick3"
+      },
+      "timestamp_ms": 1596312391164
+    }
+  ],
+  "participants": [
+    {
+      "name": "Cory Over"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:32:58.757-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:32:58.757Z"
+  },
+  "thread_path": "inbox/coryover_587635382633274",
+  "title": "Cory Over"
+}

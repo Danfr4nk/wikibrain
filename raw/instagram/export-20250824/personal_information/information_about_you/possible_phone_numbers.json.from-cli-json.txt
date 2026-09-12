@@ -1,0 +1,21 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 265 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "inferred_data_inferred_phone_numbers": [
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "",
+          "timestamp": 0,
+          "value": "+16467376955"
+        }
+      ],
+      "title": ""
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:23:15.877-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:23:15.877Z"
+  }
+}

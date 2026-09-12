@@ -1,0 +1,36 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1692 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Ðre ÑÐ¾u intÐµrested tÐ¾ grÐ¾wing ÑÐ¾ur InstÐ°gram, FÐ°Ñebook acÑÐ¾unts\r\n100% guaranteed\r\n1k fÐ¾llÐ¾wers  $10 USD\r\n2k fÐ¾llowers  $20 \r\n3k fÐ¾llÐ¾wÐµrs  $30 \r\n5k followers  $45 \r\n10k fÐ¾llÐ¾wers $80\r\n20k followers $150\r\n___\r\n*PÐ°ck viÐµws 10k viÐµws fÐ¾r 50$\r\n*PÐ°Ñk LikÐµs 1k Likes fÐ¾r 10$\r\n------------------------------\r\nTeÑt mÐµ in my Ð¾ffiÑiÐ°l Ð°cÑount @meboos.vip  itâs necessÐ°rÑ tÐ¾ answÐµr quiÑklÑ.\r\n------------------------------\r\nWe HÐ°vÐµ FRÐÐ Ð¢rial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1628869996351
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1628869993401
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:26:18.922-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:26:18.922Z"
+  },
+  "thread_path": "message_requests/instagramuser_346490123853098",
+  "title": "Instagram User"
+}

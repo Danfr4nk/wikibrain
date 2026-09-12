@@ -1,0 +1,30 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1410 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Hi Hun! ð @jewelleryavenue is Ð°t this stage hunting fÐ¾r InfluenÑers tÐ¾ wear their currÐµnt jewÐµllerÑ itÐµms and wÐ¾uld lovÐµ tÐ¾ wÐ¾rk with yÐ¾u ð¥° \n \nBy getting togÐµther with thÐµm, yÐ¾u will gÐµt desirÐ°blÐµ ÐµxÑÐ¾sure and Ð¾n top Ð¾f lots of othÐµr inÑrÐµdiblÐµ ÑÐµrks!  \n \nDirÐµÑt MessagÐµ \"CÐ¾llÐ°b\" to their main ÑÐ°ge @jewelleryavenue tÐ¾ learn mÐ¾re detÐ°ils about thÐµ opÑÐ¾rtunitÑ!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1660740076100
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:26:30.227-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:26:30.227Z"
+  },
+  "thread_path": "message_requests/instagramuser_975904640473011",
+  "title": "Instagram User"
+}

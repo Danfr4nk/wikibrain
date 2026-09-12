@@ -1,0 +1,37 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 786 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "â¤ï¸",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1544637546694
+    },
+    {
+      "content": "http://yazmin.redxamster.com/9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1544637542544
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:27:13.155-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:27:13.155Z"
+  },
+  "thread_path": "message_requests/instagramuser_576298333766979",
+  "title": "Instagram User"
+}

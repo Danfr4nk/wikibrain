@@ -1,0 +1,106 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 3777 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Oh okay, thank you so much!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Silvana Lobato",
+      "timestamp_ms": 1640755030639
+    },
+    {
+      "content": "So she was REALLY late",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1640754980102
+    },
+    {
+      "content": "Glad sheâs okay. I just heard back from Faye and I guess she literally just left the restaurant lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1640754940769
+    },
+    {
+      "content": "Its fine - donât be sorry!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1640754899570
+    },
+    {
+      "content": "She just wrote to me and told me that she was fine, sorry for the trouble, but I was worried because she usually arrives early",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Silvana Lobato",
+      "timestamp_ms": 1640754754826
+    },
+    {
+      "content": "Okay. We were really short staffed tonight and still had tables when i left so Iâm sure she just got out lateâ¦but donât worry Iâll find out for you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1640754610033
+    },
+    {
+      "content": "Like 11:30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Silvana Lobato",
+      "timestamp_ms": 1640754487445
+    },
+    {
+      "content": "What time does she usually get back? Iâm guessing itâs much earlier if youâre concerned",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1640754446155
+    },
+    {
+      "content": "Thanks i appreciate it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Silvana Lobato",
+      "timestamp_ms": 1640754358425
+    },
+    {
+      "content": "Hey no worries! I left before her at like 930 so Iâm not sure when she got out of there but let me text Felipe to see if maybe she was there later than usual or something",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1640754316980
+    },
+    {
+      "content": "Or at what time did she leave",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Silvana Lobato",
+      "timestamp_ms": 1640754238098
+    },
+    {
+      "content": "Hi Dan, sorry bout the hour, but cosette hasnât arrived home and I wanted to ask you if you know were she is",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Silvana Lobato",
+      "timestamp_ms": 1640754224010
+    }
+  ],
+  "participants": [
+    {
+      "name": "Silvana Lobato"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:29:27.985-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:29:27.985Z"
+  },
+  "thread_path": "inbox/silvanalobato_760125362057015",
+  "title": "Silvana Lobato"
+}

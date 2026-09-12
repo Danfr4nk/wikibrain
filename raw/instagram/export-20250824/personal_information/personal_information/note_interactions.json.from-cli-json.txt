@@ -1,0 +1,21 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 273 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "profile_note_interactions": [
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Last Notes Seen Time": {
+          "href": "",
+          "timestamp": 1752272498,
+          "value": ""
+        }
+      },
+      "title": ""
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:23:00.117-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:23:00.117Z"
+  }
+}

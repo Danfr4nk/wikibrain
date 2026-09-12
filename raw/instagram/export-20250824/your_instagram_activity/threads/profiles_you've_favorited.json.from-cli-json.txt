@@ -1,0 +1,87 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1855 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:24:19.576-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:24:19.576Z"
+  },
+  "text_post_app_text_post_app_favorited_users": [
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/acynig",
+          "timestamp": 1689059684,
+          "value": "acynig"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/rawstorymedia",
+          "timestamp": 1689059664,
+          "value": "rawstorymedia"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/meidastouch",
+          "timestamp": 1689059656,
+          "value": "meidastouch"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/andykaczynski",
+          "timestamp": 1689059644,
+          "value": "andykaczynski"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/griffinkyle",
+          "timestamp": 1688651133,
+          "value": "griffinkyle"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/ryangrim",
+          "timestamp": 1688633597,
+          "value": "ryangrim"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/hugoxlowell",
+          "timestamp": 1688633481,
+          "value": "hugoxlowell"
+        }
+      ],
+      "title": ""
+    }
+  ]
+}

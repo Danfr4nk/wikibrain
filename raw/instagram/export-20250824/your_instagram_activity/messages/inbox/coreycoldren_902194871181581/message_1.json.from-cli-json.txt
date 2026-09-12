@@ -1,0 +1,148 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 6570 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "And no I havenât heard of Zizek before",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Corey Coldren",
+      "timestamp_ms": 1659559367365
+    },
+    {
+      "content": "Canât say Iâve heard of Chapo no but that sounds interestingâ¦\n\nAnd yeah there are a lot of bits and pieces of probably ever legislator that Iâve got an issue with. Fetterman plays the part of a blue collar progressive but heâs really just playing the same tune as most before him with a better media strategy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Corey Coldren",
+      "timestamp_ms": 1659559354744
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Corey Coldren",
+      "timestamp_ms": 1659559280291
+    },
+    {
+      "content": "Are you familiar with Slavoj Zizek?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659493872969
+    },
+    {
+      "content": "I still try not to think too much about how that primary played out and how hopeful I felt before Super Tuesday.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659493838117
+    },
+    {
+      "content": "The Bernie 2020 campaign was really my moment of clarity in finding a coherent and sincere political ideology.  I started listening to Chapo around that time and it was an epiphany to realize that one can be âwokeâ without sacrificing being edgy or antagonistic.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Corey Coldren",
+          "reaction": "â¤ï¸",
+          "timestamp": 1659559280
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659493675193
+    },
+    {
+      "content": "I like AOC a lot but it really bums me out that even our most promising legislators are so beholden to Israel. Same thing with Fettermanâ¦it seems to be completely impossible to really hold public office (on any level) and call out the neverending atrocities of Israel and the IDF",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659493429680
+    },
+    {
+      "content": "By the way thereâs just nothing that could make me more happy and proud than your usage of âpipelineâ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659492948841
+    },
+    {
+      "content": "Do you listen to chapo trap house",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659492877900
+    },
+    {
+      "content": "No red pills or crypto for me lmao",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Corey Coldren",
+      "timestamp_ms": 1656703400224
+    },
+    {
+      "content": "Youâll be happy to know I didnât find myself in the alt-right pipeline or in the neoliberal Adam Smith/Clinton type vibe. I wouldnât say Iâm all the way where you want me to be but considering two of the politicians agree most with are AOC and Bernieâ¦ I bet were pretty close!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Corey Coldren",
+      "timestamp_ms": 1656703391757
+    },
+    {
+      "content": "AHAHA thatâs too good, great to gear from you Dan!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Corey Coldren",
+      "timestamp_ms": 1656703258871
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Corey Coldren",
+      "timestamp_ms": 1656703234945
+    },
+    {
+      "content": "I refuse to believe itâs possible that you are like black/red-pilled crypto fascist on some nietzsche vibesâ¦\n\nOr worseâ¦ ayn rand, even.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656400902661
+    },
+    {
+      "content": "I got excited because those two things are essentially sports entertainment for me and Iâm just hoping youâre now  a woke DSA marxist who is in the hasanabi or Vaush twitch chat too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656400707371
+    },
+    {
+      "content": "Okay dude so my mom just showed me the notice you sent out for graduating and I saw BA in poli sci and minor in philosophy so thereâs no way I couldnât not message you to see where youâve landed ideologically and what genre/era/school of philosophy youâre into",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Corey Coldren",
+          "reaction": "â¤ï¸",
+          "timestamp": 1656703234
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656400449216
+    }
+  ],
+  "participants": [
+    {
+      "name": "Corey Coldren"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:33:00.640-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:33:00.640Z"
+  },
+  "thread_path": "inbox/coreycoldren_902194871181581",
+  "title": "Corey Coldren"
+}

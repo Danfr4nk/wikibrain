@@ -1,0 +1,76 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1634 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "joinable_mode": {
+    "link": "",
+    "mode": 1
+  },
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "https://bnc.lt/6Lw0K2fw6cb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "share": {
+        "link": "https://bnc.lt/6Lw0K2fw6cb"
+      },
+      "timestamp_ms": 1610898428311
+    }
+  ],
+  "participants": [
+    {
+      "name": "Matt Tims"
+    },
+    {
+      "name": "ÙØ­ÙØ¯ Ø§ÙØ´Ø±ÙÙ"
+    },
+    {
+      "name": "Juan Gonzalez"
+    },
+    {
+      "name": "bj23137"
+    },
+    {
+      "name": "Callum"
+    },
+    {
+      "name": "Dan Frank"
+    },
+    {
+      "name": "World"
+    },
+    {
+      "name": "Sina Timur"
+    },
+    {
+      "name": "Trouble Is My Business"
+    },
+    {
+      "name": "kamiii.porshekoh"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Ace of Base Indonesia ð®ð©ð®ð©"
+    },
+    {
+      "name": "GKEW STUDIOS"
+    },
+    {
+      "name": "Seychell Nud"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:25:41.984-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:25:41.984Z"
+  },
+  "thread_path": "message_requests/matttimsmhmdalshryfjuangonzalezand11others_424280095547121",
+  "title": "Matt Tims, âÙØ­ÙØ¯ Ø§ÙØ´Ø±ÙÙâ, Juan Gonzalez and 11 others"
+}

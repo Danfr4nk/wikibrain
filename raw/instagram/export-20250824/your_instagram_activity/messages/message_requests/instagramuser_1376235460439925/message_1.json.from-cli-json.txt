@@ -1,0 +1,42 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1057 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "She sends free ONLYF*NS content to everyone who follows her @skylarxrraee ð¤«ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1708302934320
+    },
+    {
+      "content": "Instagram User sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "share": {
+        "link": "https://www.instagram.com/_u/skylarxrraee",
+        "profile_share_name": "Skylar Rae",
+        "profile_share_username": "skylarxrraee"
+      },
+      "timestamp_ms": 1708302932566
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:27:04.522-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:27:04.522Z"
+  },
+  "thread_path": "message_requests/instagramuser_1376235460439925",
+  "title": "Instagram User"
+}

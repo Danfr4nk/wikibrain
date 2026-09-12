@@ -1,0 +1,53 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1445 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Thanks. Looks like a weird Saturday night..and creepy, I like that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Emaly Minerd",
+      "timestamp_ms": 1538362601395
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1538272866174
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://www.instagram.com/p/BoPKA08A0PX/",
+        "original_content_owner": "unproductively.dark",
+        "share_text": "We must close our eyes and invoke a new manner of seeing, a wakefulness that is the birthright of us all, though few put it to use. \nPlotinus"
+      },
+      "timestamp_ms": 1538272606124
+    },
+    {
+      "content": "Whoa wow omg what a babe. 10/10 A++",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1538272606124
+    }
+  ],
+  "participants": [
+    {
+      "name": "Emaly Minerd"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:32:50.896-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:32:50.896Z"
+  },
+  "thread_path": "inbox/emalyminerd_551407579595394",
+  "title": "Emaly Minerd"
+}

@@ -1,0 +1,31 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 554 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2681920769604389445"
+      },
+      "timestamp_ms": 1633929901842
+    }
+  ],
+  "participants": [
+    {
+      "name": "Nick Lutsko"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:30:24.911-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:30:24.911Z"
+  },
+  "thread_path": "inbox/nicklutsko_132823255740303",
+  "title": "Nick Lutsko"
+}

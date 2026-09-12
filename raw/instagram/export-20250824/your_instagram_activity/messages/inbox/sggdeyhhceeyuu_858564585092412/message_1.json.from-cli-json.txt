@@ -1,0 +1,29 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 618 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Found your account looking for k. Not sure if thatâs on the menu but hit me up if you can. Iâm in Manhattan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1624181801517
+    }
+  ],
+  "participants": [
+    {
+      "name": "sggdeyhhceeyuu"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:28:37.442-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:28:37.442Z"
+  },
+  "thread_path": "inbox/sggdeyhhceeyuu_858564585092412",
+  "title": "sggdeyhhceeyuu"
+}

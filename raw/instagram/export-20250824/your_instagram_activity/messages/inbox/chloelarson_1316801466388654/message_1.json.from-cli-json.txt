@@ -1,0 +1,344 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 12203 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Reacted â¼ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Chloe Larson",
+      "timestamp_ms": 1707968278030
+    },
+    {
+      "content": "I think the new hostess is russian so hopefully sheâs enough of a glutton for punishment to last a month or two",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Chloe Larson",
+          "reaction": "â¼ï¸",
+          "timestamp": 1707968278
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1707968070174
+    },
+    {
+      "content": "Godspeed",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Chloe Larson",
+      "timestamp_ms": 1707968018405
+    },
+    {
+      "content": "HAHAHAHA",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Chloe Larson",
+      "timestamp_ms": 1707968014182
+    },
+    {
+      "content": "Câest la vie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1707968001675
+    },
+    {
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Chloe Larson",
+      "timestamp_ms": 1707967991617
+    },
+    {
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Chloe Larson",
+      "timestamp_ms": 1707967990631
+    },
+    {
+      "content": "It was the worst of times",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Chloe Larson",
+          "reaction": "â¤",
+          "timestamp": 1707967990
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1707967988203
+    },
+    {
+      "content": "No fucking way",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Chloe Larson",
+      "timestamp_ms": 1707967984826
+    },
+    {
+      "content": "It was the best of times",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Chloe Larson",
+          "reaction": "â¤",
+          "timestamp": 1707967991
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1707967984162
+    },
+    {
+      "content": "Actually everyone*** is unhappy so?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Chloe Larson",
+      "timestamp_ms": 1707967978746
+    },
+    {
+      "content": "Anyways after that I got food poisoning from the chicken and here we are",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1707967977963
+    },
+    {
+      "content": "Maybe that should say something abt the business",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Chloe Larson",
+      "timestamp_ms": 1707967961584
+    },
+    {
+      "content": "Well yeah we all are so",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Chloe Larson",
+      "timestamp_ms": 1707967954383
+    },
+    {
+      "content": "Hahahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Chloe Larson",
+      "timestamp_ms": 1707967948867
+    },
+    {
+      "content": "Thatâs the one lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1707967945343
+    },
+    {
+      "content": "Tarik told me that you said the hostesses are unhappy or something g",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1707967928918
+    },
+    {
+      "content": "Patrizia?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Chloe Larson",
+      "timestamp_ms": 1707967914947
+    },
+    {
+      "content": "The manager (whose name escapes me right now lmao) came to me and said",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1707967907892
+    },
+    {
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Chloe Larson",
+      "timestamp_ms": 1707967897466
+    },
+    {
+      "content": "He told me he took me off the schedule and was bluffing ð¬",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Chloe Larson",
+      "timestamp_ms": 1707967895460
+    },
+    {
+      "content": "Yeah well that was one reason I messaged you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Chloe Larson",
+          "reaction": "â¤",
+          "timestamp": 1707967897
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1707967883782
+    },
+    {
+      "content": "I can imagine",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Chloe Larson",
+      "timestamp_ms": 1707967868177
+    },
+    {
+      "content": "But it has literally zero payoff",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1707967856347
+    },
+    {
+      "content": "Ohhhh Iâm sure",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Chloe Larson",
+      "timestamp_ms": 1707967850619
+    },
+    {
+      "content": "Because he LOVESSSSS that shit",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1707967845618
+    },
+    {
+      "content": "When I started there I thought I could get in REAL Good by being a super snitch to him about certain goings on",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1707967835476
+    },
+    {
+      "content": "Heâs so full of it bc he basically tried to make me quit saying âsomeone told me you donât like working hereâ and I kept denying that lololol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Chloe Larson",
+      "timestamp_ms": 1707967817965
+    },
+    {
+      "content": "Long story short all I told him was that I saw you get yelled at by ghassan about the pita",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1707967766553
+    },
+    {
+      "content": "Thank you for clutching up as much as you could",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Chloe Larson",
+      "timestamp_ms": 1707967751481
+    },
+    {
+      "content": "Heâs so ridiculous for all of that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Chloe Larson",
+      "timestamp_ms": 1707967738783
+    },
+    {
+      "content": "He probes that a bit further and I legitimately had no idea about any of it so I had nothing to spill. \n\nI thought I was clear and then he asks again âwell what about Chloe. Did she say something about today?â",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1707967703857
+    },
+    {
+      "content": "Because I figured - I donât even know her nameâ¦if somehow I am going to get someone in a jam I would rather it be her",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1707967558073
+    },
+    {
+      "content": "So, using my big big brain, I gave an answer which wasnât entirely untrue and said you mentioned that the other hostess was unhappy about something and that I didnât know any of the details",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1707967524235
+    },
+    {
+      "content": "At this point Iâm completely stumpedâ¦I knew he wasnât just escalating the interrogation like this without ANY reasonable suspicion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1707967377463
+    },
+    {
+      "content": "Nevertheless, he persists. \n\nâWell what was she saying?â",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1707967303229
+    },
+    {
+      "content": "I told him no and tried to walk back outside. Nothing good can come of this.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1707967265317
+    },
+    {
+      "content": "((Becauseâ¦you know, anytime he sees two employees in conversation that exact question gets asked))",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1707967184584
+    },
+    {
+      "content": "Tarik pulls me aside and goes âI saw you talking to Chloe a minute ago, is something wrong?â",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1707967148563
+    },
+    {
+      "content": "Sorry it wouldnât let me send more until you accepted. Okay SO",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1707967065303
+    },
+    {
+      "content": "What happened",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Chloe Larson",
+      "timestamp_ms": 1707790240183
+    },
+    {
+      "content": "So after you left",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1707623655313
+    }
+  ],
+  "participants": [
+    {
+      "name": "Chloe Larson"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:33:02.761-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:33:02.761Z"
+  },
+  "thread_path": "inbox/chloelarson_1316801466388654",
+  "title": "Chloe Larson"
+}

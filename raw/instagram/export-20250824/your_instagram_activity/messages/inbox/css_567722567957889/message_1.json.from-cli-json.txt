@@ -1,0 +1,293 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 11094 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Damn dude",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "CSS",
+      "timestamp_ms": 1597972861713
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1597971607916,
+      "videos": [
+        {
+          "creation_timestamp": 1597971608,
+          "uri": "your_instagram_activity/messages/inbox/css_567722567957889/videos/117715212_298551041434458_4672275146956375884_n_615046226074060.mp4"
+        }
+      ]
+    },
+    {
+      "content": "okay the odds of this completely accidental kill happening are astronomical",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1597971594138
+    },
+    {
+      "content": "Nicee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "CSS",
+      "timestamp_ms": 1597895721136
+    },
+    {
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://www.twitch.tv/videos/715656112",
+        "share_text": "ihatedanfrank went live on Twitch. Catch up on their Call of DutyÂ®: Modern WarfareÂ® VOD now."
+      },
+      "timestamp_ms": 1597895705142
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1597895629644,
+      "videos": [
+        {
+          "creation_timestamp": 1597895630,
+          "uri": "your_instagram_activity/messages/inbox/css_567722567957889/videos/117717019_310899826660671_58789226716974423_n_2621417098187295.mp4"
+        }
+      ]
+    },
+    {
+      "content": "sent you a friend request. shoot me an invite when you get on.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1597888231093
+    },
+    {
+      "content": "i know right",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1597876772779
+    },
+    {
+      "content": "HAhahhaha incredible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "CSS",
+      "timestamp_ms": 1597876755174
+    },
+    {
+      "content": "i got banned for sabatoging games anytime i paired with a [trump] clan tag. they thought that âihatedanfrankâ was actually âi hated anne frankâ lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1597876730831
+    },
+    {
+      "content": "Ok cool yeah Iâll definitely be on later",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "CSS",
+      "timestamp_ms": 1597876699915
+    },
+    {
+      "content": "Hahaha yea I mean quality was always kinda shit but top notch reliability and promptness",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "CSS",
+      "timestamp_ms": 1597876683333
+    },
+    {
+      "content": "btw i got my username taken away on COD so youâll know itâs me when you see âuser746382â or something",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1597876649497
+    },
+    {
+      "content": "i moved out of nyc for an actual decade and they still keep that same number on like...how??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1597876547685
+    },
+    {
+      "content": "dude i fucking love those guys so much. they literally have the same line active that you gave me for them in 2009...iâve never seen anything like it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1597876515305
+    },
+    {
+      "content": "Hahaha dude I donât think my heart could handle playin Warzone all revved up",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "CSS",
+      "timestamp_ms": 1597876441415
+    },
+    {
+      "content": "right after menore drops lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1597876392119
+    },
+    {
+      "content": "we goin tonight my dude",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1597876371807
+    },
+    {
+      "content": "DUDE if you ever wanna get up on Warzone hit me up MrChucky212 Iâm obsessed",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "CSS",
+      "timestamp_ms": 1597876343978
+    },
+    {
+      "content": "m  ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1596312391129
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "original_content_owner": "notsick3"
+      },
+      "timestamp_ms": 1596312390793
+    },
+    {
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1553566013153
+    },
+    {
+      "content": "Those are videos. Well videos that contain the audio of his last voicemail to me lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1553565829531
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1553564634570,
+      "videos": [
+        {
+          "creation_timestamp": 1602372871,
+          "uri": "your_instagram_activity/messages/inbox/css_567722567957889/videos/55921794_273393563588537_8288413022938988544_n_749948932403811.mp4"
+        }
+      ]
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1553564077125,
+      "videos": [
+        {
+          "creation_timestamp": 1602354015,
+          "uri": "your_instagram_activity/messages/inbox/css_567722567957889/videos/56126998_631945030585094_3717577769903718400_n_349895119775209.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Needless to say, it ended super SUPER poorly lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1553563561191
+    },
+    {
+      "content": "Everyone is gone from CL. One of the interns I hired has the god forsaken position you and I did, which is impressive longevity at that place. \n\nI quit after Kevin wore me down and was asking me to do shit like scam United Airlines for a refund on the ticket he opted not to use when he had some kind of emotional meltdown about his kid.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1553563539437
+    },
+    {
+      "content": "Good for you dude. Iâm in the exact same boat, she moved in about 2 years ago and Iâm fairly certain I should put a ring on this one. She and I have a legit pornstar coming over tonight for a âdateâ with us...you donât throw away a girlfriend who supports that kind of filth",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1553563348598
+    },
+    {
+      "content": "Nope not hitched yet but living with GF for almost 2 yrs and that is def in the cards. What brought you back to nyc? I havenât kept in touch with any CL people over the years, and Iâm pretty sure everyone who was there when we worked there ainât there anymore",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "CSS",
+      "timestamp_ms": 1553549685456
+    },
+    {
+      "content": "Did I hear correctly that you tied the knot?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1553475062757
+    },
+    {
+      "content": "How about you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1553475044807
+    },
+    {
+      "content": "Iâm good dude. So glad to be back in nyc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1553475036605
+    },
+    {
+      "content": "Hahahaha blast from the past!! How you been?? Long time",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "CSS",
+      "timestamp_ms": 1553444548392
+    },
+    {
+      "content": "That was the first call I made when I moved back to nyc lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1551744552155
+    },
+    {
+      "content": "I saw Menore last night and he was asking me if Iâve seen you loo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1551744536273
+    }
+  ],
+  "participants": [
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:36:21.874-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:36:21.874Z"
+  },
+  "thread_path": "inbox/css_567722567957889",
+  "title": "CSS"
+}

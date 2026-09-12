@@ -1,0 +1,80 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 2206 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "I had to put gabe down today",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1698698637361
+    },
+    {
+      "content": "Wheee are you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1691996079795
+    },
+    {
+      "content": "?????",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1691996075129
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1677215891498,
+      "videos": [
+        {
+          "creation_timestamp": 1677215882,
+          "uri": "your_instagram_activity/messages/inbox/alexisarmel_549460606450752/videos/331984430_6021343977932682_7506627467029718139_n_1264334877552324.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Thatâs exactly what VA Ave was like with Zach",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1632627587151
+    },
+    {
+      "content": "Listen to that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1632627556027
+    },
+    {
+      "content": "https://youtu.be/l-wh_XZ1PBk?t=360",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://youtu.be/l-wh_XZ1PBk?t=360",
+        "share_text": "from episode 214, \"Hot Couch Nation"
+      },
+      "timestamp_ms": 1632627549300
+    }
+  ],
+  "participants": [
+    {
+      "name": "Alexis Armel"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:36:40.697-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:36:40.697Z"
+  },
+  "thread_path": "inbox/alexisarmel_549460606450752",
+  "title": "Alexis Armel"
+}

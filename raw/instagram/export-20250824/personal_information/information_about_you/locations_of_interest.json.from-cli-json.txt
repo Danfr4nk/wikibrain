@@ -1,0 +1,42 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 817 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "fbid": "17841401697790172",
+  "label_values": [
+    {
+      "label": "Locations of interest",
+      "vec": [
+        {
+          "value": "Star City, West Virginia"
+        },
+        {
+          "value": "Jefferson Hills, Pennsylvania"
+        },
+        {
+          "value": "Folsom, California"
+        },
+        {
+          "value": "Uniontown, Pennsylvania"
+        },
+        {
+          "value": "California"
+        },
+        {
+          "value": "Colorado"
+        },
+        {
+          "value": "Pennsylvania"
+        }
+      ]
+    },
+    {
+      "label": "Usage explanation",
+      "value": "Locations of interest are used to personalize your experience on Instagram and show you more relevant ads. Learn more about how Instagram uses location in Privacy Center."
+    }
+  ],
+  "media": [],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:23:14.185-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:23:14.185Z"
+  }
+}

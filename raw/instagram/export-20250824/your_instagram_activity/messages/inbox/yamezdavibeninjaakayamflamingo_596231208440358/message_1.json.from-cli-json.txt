@@ -1,0 +1,101 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 3807 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "yo i'm still using your scratch tool sample files lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601693490195
+    },
+    {
+      "content": "so fucking glad i spent the extra money for the ddj1000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601693415727
+    },
+    {
+      "content": "yo dude so i've been fucking with rekordbox for a few days now and omg it's so much better than anything serato has put out since 2012",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601693324865
+    },
+    {
+      "content": "Yamez sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Yamez Da Vibe Ninja ð¥·ð½ aka YAM FLAMINGOð¦©",
+      "share": {
+        "link": "https://soundcloud.com/djyamez1/cookies-henny",
+        "share_text": "WAVY VIBES"
+      },
+      "timestamp_ms": 1596330813297
+    },
+    {
+      "content": "m  ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1596312391192
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "original_content_owner": "notsick3"
+      },
+      "timestamp_ms": 1596312390773
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Yamez Da Vibe Ninja ð¥·ð½ aka YAM FLAMINGOð¦©",
+      "timestamp_ms": 1552309233885
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Yamez Da Vibe Ninja ð¥·ð½ aka YAM FLAMINGOð¦©",
+      "timestamp_ms": 1552228799801
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Yamez Da Vibe Ninja ð¥·ð½ aka YAM FLAMINGOð¦©",
+      "timestamp_ms": 1552228315662
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Yamez Da Vibe Ninja ð¥·ð½ aka YAM FLAMINGOð¦©",
+      "timestamp_ms": 1552142020278
+    },
+    {
+      "content": "Hey dude! I just moved back from pgh to nyc  and Iâm trying to get involved in the scene a little bit. Hit me up if you ever need help loading in our out of a gig or any other miscellaneous white slave shit I could help you out with.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1552067937134
+    }
+  ],
+  "participants": [
+    {
+      "name": "Yamez Da Vibe Ninja ð¥·ð½ aka YAM FLAMINGOð¦©"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:28:46.742-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:28:46.742Z"
+  },
+  "thread_path": "inbox/yamezdavibeninjaakayamflamingo_596231208440358",
+  "title": "Yamez Da Vibe Ninja ð¥·ð½ aka YAM FLAMINGOð¦©"
+}
