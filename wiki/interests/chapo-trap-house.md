@@ -6,6 +6,7 @@ date_created: 2026-09-11
 date_modified: 2026-09-11
 sources:
   - "~/workspace/user/files/corpus__3.txt (tweets 2023-02-21, 2022-07-18, 2022-08-04, 2024-11-04; iMessage 2020-02 evangelism; Bacharach guest-spot passage)"
+synthesizes:
   - "wiki/mind/synthesis/2020-left-turn.md (self-narrated conversion 2020-08-22; media-pipeline timeline)"
   - "wiki/self/youtube-watch-history.md (Aug 2025–Jul 2026 top-channel counts)"
 tags: [politics, ideology, digital-footprint]
