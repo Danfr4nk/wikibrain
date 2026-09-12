@@ -23,9 +23,13 @@ connections:
   - page: wiki/people/jacob-bacharach
     type: contextualizes
     claim: "A Chapo guest spot served on autoplay surfaced novelist Jacob Bacharach, whose name Dan recognized from childhood — the Bacharachs lived down Saratoga Drive from the Franks — the entry point to the Bend of the World / Uniontown coincidence chain."
+  - page: wiki/mind/concepts/non-fiction-only
+    type: overlaps
+    claim: "Chapo is one leg of the political-commentary spine that the non-fiction-only concept documents as information intake, and the accidental delivery mechanism for its strongest fiction exception — episode 94, served on autoplay, surfaced Jacob Bacharach's Uniontown novel. The show is documentary diet; the novel it surfaced is the exception that tests the rule."
   - page: wiki/mind/politics/index
     type: contextualizes
     claim: "The show is the media expression of the democratic-socialist, vertical-authority-skeptic position — the 'fully leftist perspective that embraces tolerance without falling into the woke-scold ideology' of the 2020 self-narration."
+date_modified: 2026-09-12
 ---
 
 # Chapo Trap House
