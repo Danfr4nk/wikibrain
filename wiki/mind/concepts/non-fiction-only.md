@@ -19,6 +19,7 @@ synthesizes:
   - wiki/mind/concepts/forensic-method
   - wiki/interests/music/concepts/lyrics-as-timbre
   - wiki/interests/chapo-trap-house
+  - wiki/interests/hasan-piker
   - wiki/mind/concepts/autism
 tags: [taste, identity, media-diet, reading, cognitive-style]
 connections:
@@ -46,6 +47,9 @@ connections:
   - page: wiki/interests/chapo-trap-house
     type: co-occurs
     claim: "Chapo is one leg of the political-commentary spine and the accidental delivery mechanism for the Bacharach exception (episode 94, autoplay). The show is information intake; the novel it surfaced is the exception that tests the rule."
+  - page: wiki/interests/hasan-piker
+    type: evidenced-by
+    claim: "The Hasan relationship is the on-record instance of the intake-audit thesis: the 2022–23 public corrections of Hasan's foreign-policy takes are the media-diet miniature of this concept — the inward criticism that shows the commentary spine is an evidence source rather than a comfort source. Reciprocal of that page's instantiates edge."
 ---
 
 # Non-Fiction Only
@@ -102,7 +106,7 @@ The fiction rule is policed from the other side, too. On 2013-02-25, at the heig
 
 The context-core [DOC] line names the intellectual spine: **Majority Report, Chapo, ContraPoints, RLM, hbomberguy** — and notes he pays for Nate Silver. The YouTube watch history makes it behavioral rather than aspirational. Real watches, Aug 2025–Jul 2026: Breaking Points (112), LastWeekTonight (95), The Majority Report w/ Sam Seder (93), Tor's Cabinet of Curiosities (91), We're In Hell (42), JREG (23), HasanAbi (16), Chapo Trap House (13). The political-commentary spine is continuous with the 2022+ diet (Majority Report, David Pakman, Breaking Points, HasanAbi, Some More News in the 2023 layer; Trump the top keyword at 301 title hits). Politics is his primary entertainment and near-total ideological pursuit: democratic socialist, vertical-authority-skeptic, hard-left since 2019 (Bernie + Chapo).
 
-The August 2020 radicalization is self-narrated and media-driven: the Chapo/Hasan/ContraPoints pipeline (*"i took a HARD turn left recently thanks to hasan piker, chapo trap house, thoughtslime, etc."*), cemented by lockdown reading of the primary texts (Marx, Kropotkin). His tribe is Brooksian rather than generically leftist — he is on record criticizing Hasan Piker's foreign-policy takes two days before the Ukraine invasion (*"I love Hasan but his take on Russia is either purposefully antagonistic at the expense of his intellectual credibility or astonishingly naive in the face of overwhelming contradictory evidence"*), which is the same auditing faculty applied to his own side. The diet is not fandom. It is intake — and intake gets audited. The inward criticism is the tell that the commentary spine is an evidence source rather than a comfort source: you do not fact-check your church unless you came for the facts. The Vidal litmus test works the same way on people; the Hasan criticism works the same way on media. Everything in the diet is subject to the forensic stance, including the diet itself.
+The August 2020 radicalization is self-narrated and media-driven: the Chapo/Hasan/ContraPoints pipeline (*"i took a HARD turn left recently thanks to hasan piker, chapo trap house, thoughtslime, etc."*), cemented by lockdown reading of the primary texts (Marx, Kropotkin). His tribe is Brooksian rather than generically leftist — he is on record criticizing [[wiki/interests/hasan-piker|Hasan Piker]]'s foreign-policy takes two days before the Ukraine invasion (*"I love Hasan but his take on Russia is either purposefully antagonistic at the expense of his intellectual credibility or astonishingly naive in the face of overwhelming contradictory evidence"*), which is the same auditing faculty applied to his own side. The diet is not fandom. It is intake — and intake gets audited. The inward criticism is the tell that the commentary spine is an evidence source rather than a comfort source: you do not fact-check your church unless you came for the facts. The Vidal litmus test works the same way on people; the Hasan criticism works the same way on media. Everything in the diet is subject to the forensic stance, including the diet itself.
 
 ## Why: the forensic stance
 
