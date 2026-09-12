@@ -723,13 +723,21 @@ def article_html(page: dict, linker: WikiLinker, pages: dict) -> str:
 # --------------------------------------------------------------------------
 
 def front_page(pages: list[dict], counts: dict[str, int]) -> str:
-    newest = sorted(pages, key=lambda p: str(p["meta"].get("date_modified") or ""),
+    newest = sorted(pages, key=lambda p: str(p["meta"].get("date_created") or ""),
                     reverse=True)[:12]
     new_items = "\n".join(
         f'<div><a href="wiki/{p["url"]}">{html.escape(p["title"])}</a> '
-        f'<small>{html.escape(str(p["meta"].get("date_modified") or ""))} · '
+        f'<small>{html.escape(str(p["meta"].get("date_created") or ""))} · '
         f'{html.escape(str(p["meta"].get("domain") or ""))}</small></div>'
         for p in newest)
+
+    modified = sorted(pages, key=lambda p: str(p["meta"].get("date_modified") or ""),
+                      reverse=True)[:25]
+    mod_items = "\n".join(
+        f'<div><a href="wiki/{p["url"]}">{html.escape(p["title"])}</a> '
+        f'<small>{html.escape(str(p["meta"].get("date_modified") or ""))} · '
+        f'{html.escape(str(p["meta"].get("domain") or ""))}</small></div>'
+        for p in modified)
 
     cards = "\n".join(
         f'<a class="dcard" href="domains/{d}.html"><b>{d.title()}</b><br>'
@@ -759,6 +767,8 @@ def front_page(pages: list[dict], counts: dict[str, int]) -> str:
 <div class="dgrid">{cards}</div>
 <h2 class="sec">Newest articles</h2>
 <div class="newlist">{new_items}</div>
+<h2 class="sec">Recently modified</h2>
+<div class="newlist">{mod_items}</div>
 <h2 class="sec">The evidence layers</h2>
 <p style="color:var(--mut);font-size:14px">The kb/ knowledge graph underneath the
 articles — nodes, typed edges and the layer rule
