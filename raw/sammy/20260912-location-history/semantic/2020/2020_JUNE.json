@@ -1,0 +1,4597 @@
+{
+  "retrieved_at": {
+    "user_local": "2026-09-11T23:58:54.574-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-12T03:58:54.574Z"
+  },
+  "timelineObjects": [
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 78.77433896064758
+          },
+          {
+            "activityType": "STILL",
+            "probability": 9.758741408586502
+          },
+          {
+            "activityType": "RUNNING",
+            "probability": 4.936495423316956
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 3.685130923986435
+          },
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 1.8786650151014328
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 0.46086753718554974
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 0.1152782584540546
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.11304927757009864
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 0.08955880184657872
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.056972430320456624
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.05395847838371992
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.042015910730697215
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.023488292936235663
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 0.010711132927099245
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0007280183581315214
+          }
+        ],
+        "activityType": "WALKING",
+        "confidence": "HIGH",
+        "distance": 1098,
+        "duration": {
+          "endTimestamp": "2020-06-01T19:29:58.998Z",
+          "startTimestamp": "2020-06-01T19:18:02.725Z"
+        },
+        "endLocation": {
+          "latitudeE7": 407768932,
+          "longitudeE7": -739655595,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "startLocation": {
+          "latitudeE7": 407711917,
+          "longitudeE7": -739558318,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "waypointPath": {
+          "confidence": 1.0,
+          "distanceMeters": 1126.6083597882578,
+          "roadSegment": [
+            {
+              "duration": "35s",
+              "placeId": "ChIJv90unsBYwokRTGErubJys-Y"
+            },
+            {
+              "duration": "125s",
+              "placeId": "ChIJxw0djr9YwokRloo5MaEWL_4"
+            },
+            {
+              "duration": "89s",
+              "placeId": "ChIJ0_SMX5VYwokRw7E0zBL6eDE"
+            },
+            {
+              "duration": "91s",
+              "placeId": "ChIJDYCYE5VYwokR5Mam5uEwU9A"
+            },
+            {
+              "duration": "10s",
+              "placeId": "ChIJJUc0G5VYwokR4G15Y6vG3EU"
+            },
+            {
+              "duration": "81s",
+              "placeId": "ChIJf-Fn_JRYwokRmLaZ5b7KJQo"
+            },
+            {
+              "duration": "87s",
+              "placeId": "ChIJF_QNYpRYwokRjn6p3ysb6tA"
+            },
+            {
+              "duration": "3s",
+              "placeId": "ChIJN4RIeZRYwokR8vQSuEHCUF4"
+            },
+            {
+              "duration": "7s",
+              "placeId": "ChIJ9yFBeZRYwokRgr0BeYLpXTk"
+            },
+            {
+              "duration": "28s",
+              "placeId": "ChIJUUI_eJRYwokR1X287a4oj0k"
+            },
+            {
+              "duration": "17s",
+              "placeId": "ChIJ5ye6iZNYwokRa3bMrw5s_IU"
+            },
+            {
+              "duration": "0s",
+              "placeId": "ChIJcZ49i5NYwokRc6kq6UHRSf0"
+            },
+            {
+              "duration": "14s",
+              "placeId": "ChIJLdp99JNYwokRmuol_j839jw"
+            },
+            {
+              "duration": "13s",
+              "placeId": "ChIJd4m89pNYwokRel94beaQFyE"
+            },
+            {
+              "duration": "21s",
+              "placeId": "ChIJA1hA95NYwokR4AOkKpVa-h8"
+            },
+            {
+              "duration": "11s",
+              "placeId": "ChIJ3S9H_5NYwokRJH-HhusJ8yE"
+            }
+          ],
+          "source": "INFERRED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 407711639,
+              "lngE7": -739558486
+            },
+            {
+              "latE7": 407750968,
+              "lngE7": -739651718
+            },
+            {
+              "latE7": 407768821,
+              "lngE7": -739655303
+            }
+          ]
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 407769933,
+        "centerLngE7": -739651400,
+        "duration": {
+          "endTimestamp": "2020-06-01T19:50:13.772Z",
+          "startTimestamp": "2020-06-01T19:29:58.998Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "New York, NY, USA",
+          "calibratedProbability": 67.39652,
+          "isCurrentLocation": true,
+          "latitudeE7": 407828647,
+          "locationConfidence": 94.98628,
+          "longitudeE7": -739653551,
+          "name": "Central Park",
+          "placeId": "ChIJ4zGFAZpYwokRGUGph3Mf37k",
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "locationConfidence": 81,
+        "otherCandidateLocations": [
+          {
+            "address": "1000 Madison Ave, New York, NY 10075, USA",
+            "calibratedProbability": 3.3772233,
+            "latitudeE7": 407750816,
+            "locationConfidence": 4.7597394,
+            "longitudeE7": -739626007,
+            "placeId": "ChIJ-Z7VSJRYwokR3bT4KgtQfAo"
+          },
+          {
+            "address": "1000 5th Ave, New York, NY 10028, USA",
+            "calibratedProbability": 0.042516395,
+            "latitudeE7": 407787750,
+            "locationConfidence": 0.05992111,
+            "longitudeE7": -739645562,
+            "name": "The Cantor Roof Garden Bar",
+            "placeId": "ChIJE55YmDdZwokRww2Wdrvnimc"
+          },
+          {
+            "address": "New York, NY 10075, USA",
+            "calibratedProbability": 0.0075910673,
+            "latitudeE7": 407769810,
+            "locationConfidence": 0.010698583,
+            "longitudeE7": -739634780,
+            "name": "E 79 St/5 Av",
+            "placeId": "ChIJfdZaJ5RYwokRmk-n7YWZV54"
+          },
+          {
+            "address": "1000 Madison Ave, New York, NY 10075, USA",
+            "calibratedProbability": 0.0062156874,
+            "latitudeE7": 407754236,
+            "locationConfidence": 0.008760171,
+            "longitudeE7": -739629935,
+            "name": "Sant Ambroeus Madison",
+            "placeId": "ChIJL-_3K5RYwokRzKguUK0MB-w"
+          }
+        ],
+        "placeConfidence": "HIGH_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "simplifiedRawPath": {
+          "distanceMeters": 494.8862294751027,
+          "points": [
+            {
+              "accuracyMeters": 20,
+              "latE7": 407768932,
+              "lngE7": -739655595,
+              "timestamp": "2020-06-01T19:29:58.998Z"
+            },
+            {
+              "accuracyMeters": 18,
+              "latE7": 407769716,
+              "lngE7": -739641471,
+              "timestamp": "2020-06-01T19:36:27.249Z"
+            },
+            {
+              "accuracyMeters": 36,
+              "latE7": 407751752,
+              "lngE7": -739652546,
+              "timestamp": "2020-06-01T19:39:29.607Z"
+            },
+            {
+              "accuracyMeters": 50,
+              "latE7": 407744408,
+              "lngE7": -739636874,
+              "timestamp": "2020-06-01T19:41:47.169Z"
+            }
+          ],
+          "source": "INFERRED"
+        },
+        "visitConfidence": 76
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 86.36414408683777
+          },
+          {
+            "activityType": "STILL",
+            "probability": 7.040948420763016
+          },
+          {
+            "activityType": "RUNNING",
+            "probability": 3.932726383209229
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 1.969847083091736
+          },
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 0.4412136506289244
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 0.11798382038250566
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 0.05065270233899355
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.029414540040306747
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.015769540914334357
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 0.014359006308950484
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.012337806401774287
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.004124984116060659
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.0035771779948845506
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 0.0026870529836742207
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.00022205401819519463
+          }
+        ],
+        "activityType": "WALKING",
+        "confidence": "HIGH",
+        "distance": 726,
+        "duration": {
+          "endTimestamp": "2020-06-01T19:58:50.983Z",
+          "startTimestamp": "2020-06-01T19:50:13.772Z"
+        },
+        "endLocation": {
+          "latitudeE7": 407711010,
+          "longitudeE7": -739557933,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "startLocation": {
+          "latitudeE7": 407742720,
+          "longitudeE7": -739633263,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "waypointPath": {
+          "confidence": 1.0,
+          "distanceMeters": 724.9496546743082,
+          "roadSegment": [
+            {
+              "duration": "83s",
+              "placeId": "ChIJf-Fn_JRYwokRmbaZ5b7KJQo"
+            },
+            {
+              "duration": "12s",
+              "placeId": "ChIJJUc0G5VYwokR4W15Y6vG3EU"
+            },
+            {
+              "duration": "90s",
+              "placeId": "ChIJDYCYE5VYwokR5cam5uEwU9A"
+            },
+            {
+              "duration": "99s",
+              "placeId": "ChIJ0_SMX5VYwokRwrE0zBL6eDE"
+            },
+            {
+              "duration": "140s",
+              "placeId": "ChIJxw0djr9YwokRl4o5MaEWL_4"
+            },
+            {
+              "duration": "38s",
+              "placeId": "ChIJv90unsBYwokRTWErubJys-Y"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJv90unsBYwokRxKRb-cnvWE0"
+            }
+          ],
+          "source": "INFERRED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 407742500,
+              "lngE7": -739633407
+            },
+            {
+              "latE7": 407726402,
+              "lngE7": -739595413
+            },
+            {
+              "latE7": 407710723,
+              "lngE7": -739558181
+            }
+          ]
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 407713517,
+        "centerLngE7": -739560250,
+        "duration": {
+          "endTimestamp": "2020-06-02T09:27:03.086Z",
+          "startTimestamp": "2020-06-01T19:58:50.983Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "307 E 76th St, New York, NY 10021, USA",
+          "calibratedProbability": 76.74338,
+          "latitudeE7": 407712706,
+          "locationConfidence": 98.19651,
+          "longitudeE7": -739557121,
+          "placeId": "ChIJaa1_Y79YwokRZCH_0K4hSCg",
+          "semanticType": "TYPE_HOME",
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "locationConfidence": 85,
+        "otherCandidateLocations": [
+          {
+            "address": "1454 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 0.81226397,
+            "latitudeE7": 407712137,
+            "locationConfidence": 1.0393273,
+            "longitudeE7": -739563685,
+            "name": "The Stumble Inn",
+            "placeId": "ChIJZ0kHf79YwokRoyp64RkoMeQ"
+          },
+          {
+            "address": "1471 1st Ave., New York, NY 10075, USA",
+            "calibratedProbability": 0.11204437,
+            "latitudeE7": 407708968,
+            "locationConfidence": 0.14336568,
+            "longitudeE7": -739540829,
+            "name": "American Trash",
+            "placeId": "ChIJh6f1Vr9YwokRfFLjX-COPaI",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          },
+          {
+            "address": "341 E 76th St, New York, NY 10021, USA",
+            "calibratedProbability": 0.08677823,
+            "latitudeE7": 407711791,
+            "locationConfidence": 0.11103655,
+            "longitudeE7": -739554448,
+            "placeId": "ChIJHwhfYb9YwokRyxep79xZIRQ",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          },
+          {
+            "calibratedProbability": 0.07157619,
+            "latitudeE7": 407711571,
+            "locationConfidence": 0.09158487,
+            "longitudeE7": -739564340,
+            "placeId": "ChIJRY7bf79YwokR16QASZ9mYqs",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          }
+        ],
+        "placeConfidence": "HIGH_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 83
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "RUNNING",
+            "probability": 58.89525413513184
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 33.06516110897064
+          },
+          {
+            "activityType": "WALKING",
+            "probability": 4.4662561267614365
+          },
+          {
+            "activityType": "STILL",
+            "probability": 2.257794141769409
+          },
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 0.910674687474966
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.21108118817210195
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 0.0716028269380331
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 0.059832248371094465
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.042382205720059574
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 0.00689867083565332
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.0054706804803572595
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 0.003913592081516981
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.003478585131233558
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.00015071786947373766
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.00005170924737285531
+          }
+        ],
+        "activityType": "RUNNING",
+        "confidence": "LOW",
+        "distance": 14969,
+        "duration": {
+          "endTimestamp": "2020-06-02T10:40:30Z",
+          "startTimestamp": "2020-06-02T09:27:03.086Z"
+        },
+        "endLocation": {
+          "latitudeE7": 407712940,
+          "longitudeE7": -739558081,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "simplifiedRawPath": {
+          "points": [
+            {
+              "accuracyMeters": 14,
+              "latE7": 407732658,
+              "lngE7": -739550400,
+              "timestamp": "2020-06-02T09:28:49.606Z"
+            },
+            {
+              "accuracyMeters": 13,
+              "latE7": 407755814,
+              "lngE7": -739603729,
+              "timestamp": "2020-06-02T09:30:57.690Z"
+            },
+            {
+              "accuracyMeters": 21,
+              "latE7": 407622337,
+              "lngE7": -739724426,
+              "timestamp": "2020-06-02T09:39:23.219Z"
+            },
+            {
+              "accuracyMeters": 31,
+              "latE7": 407626114,
+              "lngE7": -739820862,
+              "timestamp": "2020-06-02T09:44:40.331Z"
+            },
+            {
+              "accuracyMeters": 12,
+              "latE7": 407499352,
+              "lngE7": -739721756,
+              "timestamp": "2020-06-02T09:54:12.588Z"
+            },
+            {
+              "accuracyMeters": 23,
+              "latE7": 407596130,
+              "lngE7": -739817810,
+              "timestamp": "2020-06-02T10:02:58.239Z"
+            },
+            {
+              "accuracyMeters": 36,
+              "latE7": 407480011,
+              "lngE7": -739926453,
+              "timestamp": "2020-06-02T10:10:40.363Z"
+            },
+            {
+              "accuracyMeters": 15,
+              "latE7": 407446365,
+              "lngE7": -739915466,
+              "timestamp": "2020-06-02T10:13:24.307Z"
+            },
+            {
+              "accuracyMeters": 10,
+              "latE7": 407421379,
+              "lngE7": -739889679,
+              "timestamp": "2020-06-02T10:16:06.592Z"
+            },
+            {
+              "accuracyMeters": 12,
+              "latE7": 407396240,
+              "lngE7": -739766464,
+              "timestamp": "2020-06-02T10:21:23Z"
+            }
+          ]
+        },
+        "startLocation": {
+          "latitudeE7": 407712344,
+          "longitudeE7": -739558757,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "waypointPath": {
+          "confidence": 0.6134083519118182,
+          "distanceMeters": 16059.841646973116,
+          "roadSegment": [
+            {
+              "duration": "22s",
+              "placeId": "ChIJv90unsBYwokRTGErubJys-Y"
+            },
+            {
+              "duration": "8s",
+              "placeId": "ChIJl1wceb9YwokRFab_J5WVOCA"
+            },
+            {
+              "duration": "24s",
+              "placeId": "ChIJLzBbd79YwokRBBpmG5UBMwc"
+            },
+            {
+              "duration": "33s",
+              "placeId": "ChIJJRaFEr9YwokRWC86l335h8M"
+            },
+            {
+              "duration": "10s",
+              "placeId": "ChIJxTGuEL9YwokRG2bJHW-1By8"
+            },
+            {
+              "duration": "24s",
+              "placeId": "ChIJ8zA7H79YwokRo_b-v9atT3M"
+            },
+            {
+              "duration": "2s",
+              "placeId": "ChIJ8zA7H79YwokRp9RE2FD3ZEs"
+            },
+            {
+              "duration": "21s",
+              "placeId": "ChIJucH7-75YwokRnRQy33llIrQ"
+            },
+            {
+              "duration": "42s",
+              "placeId": "ChIJ4TPv-L5YwokRyp-IX4eKKt0"
+            },
+            {
+              "duration": "26s",
+              "placeId": "ChIJ4TPv-L5YwokR28Z4fuUY4sk"
+            },
+            {
+              "duration": "25s",
+              "placeId": "ChIJT4BiRr5YwokRL8pXOPBc_xQ"
+            },
+            {
+              "duration": "8s",
+              "placeId": "ChIJJVC7OL5YwokRygAg9eTe61o"
+            },
+            {
+              "duration": "7s",
+              "placeId": "ChIJJVC7OL5YwokRM-rgNPDo5Yc"
+            },
+            {
+              "duration": "2s",
+              "placeId": "ChIJ15RpPL5YwokRc3o8tM7cqlA"
+            },
+            {
+              "duration": "22s",
+              "placeId": "ChIJ15RpPL5YwokRiqB8j8lwlQA"
+            },
+            {
+              "duration": "24s",
+              "placeId": "ChIJhXyKH75YwokR72j2UghddIM"
+            },
+            {
+              "duration": "9s",
+              "placeId": "ChIJb2cf9ZVYwokRvVZ7dBvSeQ8"
+            },
+            {
+              "duration": "12s",
+              "placeId": "ChIJb2cf9ZVYwokRFVGGqmXGE3E"
+            },
+            {
+              "duration": "20s",
+              "placeId": "ChIJ43xv8pVYwokRgf5qML2owY0"
+            },
+            {
+              "duration": "7s",
+              "placeId": "ChIJaT8a7JVYwokRjtTm8s7uMdA"
+            },
+            {
+              "duration": "17s",
+              "placeId": "ChIJsRaW6ZVYwokRHRp4SSjETIE"
+            },
+            {
+              "duration": "7s",
+              "placeId": "ChIJRdYAw5VYwokRY9a2foUMxtU"
+            },
+            {
+              "duration": "8s",
+              "placeId": "ChIJJ7q5xJVYwokROQSmb4dgbuw"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJJ7q5xJVYwokRyD0fzjJQg7c"
+            },
+            {
+              "duration": "2s",
+              "placeId": "ChIJ4THExJVYwokRZhZ_y52PG9g"
+            },
+            {
+              "duration": "19s",
+              "placeId": "ChIJuQ3N0ZVYwokRx7DRg2LcXnM"
+            },
+            {
+              "duration": "2s",
+              "placeId": "ChIJ-dpU1pVYwokRNgtm0A3rnhQ"
+            },
+            {
+              "duration": "38s",
+              "placeId": "ChIJ59yyVetYwokRaw072FmcScc"
+            },
+            {
+              "duration": "40s",
+              "placeId": "ChIJjzVOoexYwokRiaiEIK_i22c"
+            },
+            {
+              "duration": "33s",
+              "placeId": "ChIJcxyPkOxYwokRtnK5THhiHVY"
+            },
+            {
+              "duration": "32s",
+              "placeId": "ChIJv1ZaiuxYwokRbuy9kEdXkM8"
+            },
+            {
+              "duration": "30s",
+              "placeId": "ChIJjwbPXOxYwokRx08EnLFb4Y8"
+            },
+            {
+              "duration": "29s",
+              "placeId": "ChIJx0sFOOxYwokRQsFtQsSoxPo"
+            },
+            {
+              "duration": "30s",
+              "placeId": "ChIJt7PaLexYwokRz6slwww-Pe8"
+            },
+            {
+              "duration": "31s",
+              "placeId": "ChIJV_lPfu5YwokRahRP7hVn5Vo"
+            },
+            {
+              "duration": "32s",
+              "placeId": "ChIJE-vPZe5YwokRbZSSOyK5lJs"
+            },
+            {
+              "duration": "32s",
+              "placeId": "ChIJN2QaRO5YwokRtkBbuivyN4U"
+            },
+            {
+              "duration": "31s",
+              "placeId": "ChIJEZ2ONe5YwokRiz6JC3NTfFY"
+            },
+            {
+              "duration": "33s",
+              "placeId": "ChIJe4wbz-9YwokRxug-5H0LMyA"
+            },
+            {
+              "duration": "32s",
+              "placeId": "ChIJ_2mZ3e9YwokRM0XRhKEildY"
+            },
+            {
+              "duration": "13s",
+              "placeId": "ChIJCXay4-9YwokRU4HdhBRvDnA"
+            },
+            {
+              "duration": "18s",
+              "placeId": "ChIJd4p9AvBYwokRmQi4eDAkOdo"
+            },
+            {
+              "duration": "32s",
+              "placeId": "ChIJGxqLqfpYwokRPDbq24cHUmQ"
+            },
+            {
+              "duration": "36s",
+              "placeId": "ChIJKfNEuvpYwokRgChIVWz16LQ"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJr3_vwPpYwokRnO8kBhC9HUw"
+            },
+            {
+              "duration": "20s",
+              "placeId": "ChIJRY0p6PpYwokRtGVpNLrtoUY"
+            },
+            {
+              "duration": "22s",
+              "placeId": "ChIJP3Zm7_pYwokRSc5GuLa09Cc"
+            },
+            {
+              "duration": "41s",
+              "placeId": "ChIJCeiJ9vpYwokR4dgX6k_xOHY"
+            },
+            {
+              "duration": "13s",
+              "placeId": "ChIJ_Z5OXPpYwokRVzq3TIa_ZR8"
+            },
+            {
+              "duration": "74s",
+              "placeId": "ChIJwacZFfpYwokRVd38WblC6Uw"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJ1RVU5_lYwokRetajalepsg0"
+            },
+            {
+              "duration": "15s",
+              "placeId": "ChIJnali3vlYwokRDiOsHmsx31s"
+            },
+            {
+              "duration": "44s",
+              "placeId": "ChIJnali3vlYwokRQxH8QTnRXBQ"
+            },
+            {
+              "duration": "45s",
+              "placeId": "ChIJd5Xsf_dYwokRmJgDFhEevhk"
+            },
+            {
+              "duration": "9s",
+              "placeId": "ChIJH9V6KPhYwokRaF7jQfqNek4"
+            },
+            {
+              "duration": "21s",
+              "placeId": "ChIJH9V6KPhYwokRhlmZIKfYrLQ"
+            },
+            {
+              "duration": "31s",
+              "placeId": "ChIJiT0_PPhYwokR6qX-EHklOBY"
+            },
+            {
+              "duration": "30s",
+              "placeId": "ChIJB4owavhYwokRoF2fx15G7bE"
+            },
+            {
+              "duration": "29s",
+              "placeId": "ChIJnfKIY_hYwokRJiNBytB3hm8"
+            },
+            {
+              "duration": "32s",
+              "placeId": "ChIJ8QtuhPhYwokR-SCt5eOSp88"
+            },
+            {
+              "duration": "18s",
+              "placeId": "ChIJh6h7IFZYwokReWGpGXU1SHI"
+            },
+            {
+              "duration": "13s",
+              "placeId": "ChIJh6h7IFZYwokRYYoo4M7jkzo"
+            },
+            {
+              "duration": "30s",
+              "placeId": "ChIJRXsjG1ZYwokRPcR8Ho5fNA8"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJS_m151VYwokR8QQFobMvijM"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJ434awlVYwokRdeuibMEOsgc"
+            },
+            {
+              "duration": "32s",
+              "placeId": "ChIJu9kruVVYwokREnOdCOUCU9Y"
+            },
+            {
+              "duration": "13s",
+              "placeId": "ChIJb_NQpVVYwokRwFD-EFxHtZU"
+            },
+            {
+              "duration": "20s",
+              "placeId": "ChIJowwgqVVYwokR3JwLCfUBRlQ"
+            },
+            {
+              "duration": "8s",
+              "placeId": "ChIJMy3EAFVYwokRVDJZqYmKkcQ"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJ2X9A4VRYwokRTq8mv0ygyQ4"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJ2X9A4VRYwokRdDB3KJWwfDg"
+            },
+            {
+              "duration": "10s",
+              "placeId": "ChIJdTzt3FRYwokRBxL8KU5NCOE"
+            },
+            {
+              "duration": "25s",
+              "placeId": "ChIJBRpnxVRYwokRseVi1lnuMUo"
+            },
+            {
+              "duration": "21s",
+              "placeId": "ChIJm2YA0lRYwokR3uzsWQAXQn8"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJ0ag6sapZwokR9L7bKa1es6k"
+            },
+            {
+              "duration": "9s",
+              "placeId": "ChIJRT5MsKpZwokRIDJD3y8L88A"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJkQjDr6pZwokRwTN0DOjvOjU"
+            },
+            {
+              "duration": "14s",
+              "placeId": "ChIJh7Rdr6pZwokRz5i3VtfdIWs"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJi9zMDgBZwokRvfdZ3l432uE"
+            },
+            {
+              "duration": "6s",
+              "placeId": "ChIJXRqTDgBZwokRNTdBfXn1eZ4"
+            },
+            {
+              "duration": "26s",
+              "placeId": "ChIJ4xoyEgBZwokRlXjdPKWAnoQ"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJ_YR6FQBZwokRcYLcDESkJ2g"
+            },
+            {
+              "duration": "20s",
+              "placeId": "ChIJC8WpOABZwokRmQXOIOEyz0Q"
+            },
+            {
+              "duration": "7s",
+              "placeId": "ChIJ12NwmQFZwokRQIOqgpi7Nuo"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJG_-9mwFZwokR8gSmAKsnSPI"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJV4ZkmwFZwokRpEe2bhrFXMY"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJK1OrnAFZwokRhN9lkgnkPSM"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJM5NugwFZwokR3_5dixaWb6c"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJ7Uy8gwFZwokRWh6MpAbRHrM"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJ_2l9gQFZwokRCoP82E3MW1k"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJSx-ogQFZwokR4oWAEPvzVNc"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJofVngAFZwokRwtJQxT0NDWE"
+            },
+            {
+              "duration": "14s",
+              "placeId": "ChIJU-AIzQNZwokREHDdhS_zWNI"
+            },
+            {
+              "duration": "30s",
+              "placeId": "ChIJG8QAtgNZwokR5HkU_Yf8NUE"
+            },
+            {
+              "duration": "29s",
+              "placeId": "ChIJWz7ArwNZwokRkHjrFDvnc_o"
+            },
+            {
+              "duration": "42s",
+              "placeId": "ChIJF_3_CANZwokRI09u00W9qP8"
+            },
+            {
+              "duration": "36s",
+              "placeId": "ChIJF_3_CANZwokRIk9u00W9qP8"
+            },
+            {
+              "duration": "32s",
+              "placeId": "ChIJWz7ArwNZwokRkXjrFDvnc_o"
+            },
+            {
+              "duration": "36s",
+              "placeId": "ChIJG8QAtgNZwokR5XkU_Yf8NUE"
+            },
+            {
+              "duration": "17s",
+              "placeId": "ChIJU-AIzQNZwokREXDdhS_zWNI"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJofVngAFZwokRw9JQxT0NDWE"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJSx-ogQFZwokR44WAEPvzVNc"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJ_2l9gQFZwokRC4P82E3MW1k"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJ7Uy8gwFZwokRWx6MpAbRHrM"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJM5NugwFZwokR3v5dixaWb6c"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJK1OrnAFZwokRhd9lkgnkPSM"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJV4ZkmwFZwokRpUe2bhrFXMY"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJG_-9mwFZwokR8wSmAKsnSPI"
+            },
+            {
+              "duration": "8s",
+              "placeId": "ChIJ12NwmQFZwokRQYOqgpi7Nuo"
+            },
+            {
+              "duration": "33s",
+              "placeId": "ChIJG3UuNwBZwokRRb1sdTrBY7E"
+            },
+            {
+              "duration": "20s",
+              "placeId": "ChIJi1J9LABZwokRVV_GM_x8doU"
+            },
+            {
+              "duration": "1s",
+              "placeId": "ChIJceKnKv5YwokRFvRbpQumIAI"
+            },
+            {
+              "duration": "0s",
+              "placeId": "ChIJmXumKv5YwokRud7K97HeQ74"
+            },
+            {
+              "duration": "9s",
+              "placeId": "ChIJmXumKv5YwokRjmvLZcRDCGk"
+            },
+            {
+              "duration": "31s",
+              "placeId": "ChIJjfR-Lv5YwokR61yx3EOwU0c"
+            },
+            {
+              "duration": "18s",
+              "placeId": "ChIJNT1hN_5YwokRPKz4PGkAswM"
+            },
+            {
+              "duration": "14s",
+              "placeId": "ChIJV6oIR_5YwokRGMKdDUlI4LU"
+            },
+            {
+              "duration": "33s",
+              "placeId": "ChIJyRgrQ_5YwokR3OMmhRpADB8"
+            },
+            {
+              "duration": "34s",
+              "placeId": "ChIJdSxqiv5YwokRCoCITOTaeCw"
+            },
+            {
+              "duration": "20s",
+              "placeId": "ChIJ4wUhkP5YwokRgIVRsDa2AaI"
+            },
+            {
+              "duration": "13s",
+              "placeId": "ChIJrymQmf5YwokRDGj2pFYjf-s"
+            },
+            {
+              "duration": "18s",
+              "placeId": "ChIJv9Lzl_5YwokRDAnprHr1F2Y"
+            },
+            {
+              "duration": "7s",
+              "placeId": "ChIJVZYHvv5YwokR1LUNn2YbprY"
+            },
+            {
+              "duration": "9s",
+              "placeId": "ChIJEVy3v_5YwokRAtSvl6ZR7dY"
+            },
+            {
+              "duration": "2s",
+              "placeId": "ChIJXc9-wP5YwokRbOE4lKzfPx0"
+            },
+            {
+              "duration": "2s",
+              "placeId": "ChIJZ5eKwP5YwokR7iJwfQGkmuw"
+            },
+            {
+              "duration": "2s",
+              "placeId": "ChIJN-j7wP5YwokR2sa_Q5hv9lI"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJkXcRwf5YwokRwF2E4wjm4UQ"
+            },
+            {
+              "duration": "24s",
+              "placeId": "ChIJdTtgw_5YwokRebBM_Ut4k7k"
+            },
+            {
+              "duration": "12s",
+              "placeId": "ChIJN7l92f5YwokRwWZnvLUyopw"
+            },
+            {
+              "duration": "2s",
+              "placeId": "ChIJtUpS2P5YwokRM-bJu2FCS0M"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJZSBs2P5YwokRi1i2NxyWWks"
+            },
+            {
+              "duration": "7s",
+              "placeId": "ChIJ40_CJ_9YwokRn-YkgxuHCEU"
+            },
+            {
+              "duration": "3s",
+              "placeId": "ChIJmeEmJv9YwokRvRQbmJlrco0"
+            },
+            {
+              "duration": "3s",
+              "placeId": "ChIJRVepKP9YwokRx7PboHLrSTs"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJdfS8L_9YwokRF50YE9OAKUk"
+            },
+            {
+              "duration": "21s",
+              "placeId": "ChIJwfcETf9YwokR91jZVJFPkzM"
+            },
+            {
+              "duration": "15s",
+              "placeId": "ChIJBYqiUv9YwokRt7S51dKW0R0"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJS_m151VYwokR8QQFobMvijM"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJ434awlVYwokRdeuibMEOsgc"
+            },
+            {
+              "duration": "32s",
+              "placeId": "ChIJu9kruVVYwokREnOdCOUCU9Y"
+            },
+            {
+              "duration": "13s",
+              "placeId": "ChIJb_NQpVVYwokRwFD-EFxHtZU"
+            },
+            {
+              "duration": "20s",
+              "placeId": "ChIJowwgqVVYwokR3JwLCfUBRlQ"
+            },
+            {
+              "duration": "8s",
+              "placeId": "ChIJMy3EAFVYwokRVDJZqYmKkcQ"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJ2X9A4VRYwokRTq8mv0ygyQ4"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJ2X9A4VRYwokRdDB3KJWwfDg"
+            },
+            {
+              "duration": "10s",
+              "placeId": "ChIJdTzt3FRYwokRBxL8KU5NCOE"
+            },
+            {
+              "duration": "25s",
+              "placeId": "ChIJBRpnxVRYwokRseVi1lnuMUo"
+            },
+            {
+              "duration": "11s",
+              "placeId": "ChIJe3VMSKtZwokRWEbZYgAUd_g"
+            },
+            {
+              "duration": "8s",
+              "placeId": "ChIJpaCbRqtZwokRMl6C_1VwDXw"
+            },
+            {
+              "duration": "12s",
+              "placeId": "ChIJpaCbRqtZwokRYVmz87_XOLM"
+            },
+            {
+              "duration": "30s",
+              "placeId": "ChIJzaR9aKtZwokRV5CGfPF-wG8"
+            },
+            {
+              "duration": "31s",
+              "placeId": "ChIJLwJufKtZwokRjSVLvSBP7J0"
+            },
+            {
+              "duration": "30s",
+              "placeId": "ChIJbT4wf6xZwokRQSoitPRdVr4"
+            },
+            {
+              "duration": "31s",
+              "placeId": "ChIJ9Y4vcqxZwokRooGDMWtx8tk"
+            },
+            {
+              "duration": "32s",
+              "placeId": "ChIJcTY3EaxZwokRDO6pABYCS68"
+            },
+            {
+              "duration": "14s",
+              "placeId": "ChIJq5CwGKxZwokRbia9MOdiX0Y"
+            },
+            {
+              "duration": "12s",
+              "placeId": "ChIJ6-JrIKxZwokR9E_btlYQIX8"
+            },
+            {
+              "duration": "6s",
+              "placeId": "ChIJvf5Ynq5ZwokRSsJ8Fn3W35E"
+            },
+            {
+              "duration": "34s",
+              "placeId": "ChIJ1ed_mq5ZwokR-RyViDut5ik"
+            },
+            {
+              "duration": "7s",
+              "placeId": "ChIJQY4Rja5ZwokRrU7NP3nLaaI"
+            },
+            {
+              "duration": "6s",
+              "placeId": "ChIJQY4Rja5ZwokR0rUAkU6vMzI"
+            },
+            {
+              "duration": "8s",
+              "placeId": "ChIJ_TgN865ZwokRLzH2kwio86g"
+            },
+            {
+              "duration": "10s",
+              "placeId": "ChIJLWil9q5ZwokR0S5EUSjTfoE"
+            },
+            {
+              "duration": "9s",
+              "placeId": "ChIJx0gP965ZwokRGP-k0tGliMA"
+            },
+            {
+              "duration": "7s",
+              "placeId": "ChIJd-Vr-K5ZwokR9PNr4wldLBQ"
+            },
+            {
+              "duration": "14s",
+              "placeId": "ChIJ-TTnVa5ZwokRhMERDtwefAo"
+            },
+            {
+              "duration": "7s",
+              "placeId": "ChIJL2BPq69ZwokRJRQGLbKUyrY"
+            },
+            {
+              "duration": "8s",
+              "placeId": "ChIJL2BPq69ZwokRuxdTcGdD0_g"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJIQturK9ZwokRz8eMgy4ZR5I"
+            },
+            {
+              "duration": "31s",
+              "placeId": "ChIJDdtku69ZwokRYi33Rx9Bclg"
+            },
+            {
+              "duration": "22s",
+              "placeId": "ChIJ4-96k69ZwokRkabRuRGBNoI"
+            },
+            {
+              "duration": "9s",
+              "placeId": "ChIJ4-96k69ZwokRVl_hJuF_RKc"
+            },
+            {
+              "duration": "20s",
+              "placeId": "ChIJ4wO0bKVZwokRGj6Q5HVvPZg"
+            },
+            {
+              "duration": "11s",
+              "placeId": "ChIJ2cukEqVZwokRylsIAaBf7Eg"
+            },
+            {
+              "duration": "14s",
+              "placeId": "ChIJ9wwaKaRZwokRfA2wesdbu9Q"
+            },
+            {
+              "duration": "19s",
+              "placeId": "ChIJCe1uJqRZwokRuDaUyViPSF8"
+            },
+            {
+              "duration": "3s",
+              "placeId": "ChIJmXF-IaRZwokR3IjS3pCYc6g"
+            },
+            {
+              "duration": "12s",
+              "placeId": "ChIJ41LVIaRZwokR1qIPHpVh7Nk"
+            },
+            {
+              "duration": "10s",
+              "placeId": "ChIJDVB4oqZZwokRoz0UWBSu_RQ"
+            },
+            {
+              "duration": "18s",
+              "placeId": "ChIJaWlol6ZZwokRSk-eTvdjSSQ"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJoRwWkaZZwokRIrQ-Izqr3NM"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJkfp1kaZZwokRgov2C3-pdmI"
+            },
+            {
+              "duration": "7s",
+              "placeId": "ChIJ4bIykqZZwokR3HbEgaJ2x9o"
+            },
+            {
+              "duration": "18s",
+              "placeId": "ChIJu5Az7aZZwokRVQWwLYScBBg"
+            },
+            {
+              "duration": "13s",
+              "placeId": "ChIJEWvL8aZZwokRN9wSMoQM2Q4"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJe36G-qZZwokRPUfxOqaej70"
+            },
+            {
+              "duration": "9s",
+              "placeId": "ChIJOTMWHadZwokRX2pXtnWMD6o"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJxc40EadZwokRtdBGYmwG_1w"
+            },
+            {
+              "duration": "49s",
+              "placeId": "ChIJE2jjjglZwokRkESnehgDpdQ"
+            },
+            {
+              "duration": "36s",
+              "placeId": "ChIJ35OyfwlZwokRl0GwlFrM-Vw"
+            },
+            {
+              "duration": "28s",
+              "placeId": "ChIJ-zr22AtZwokRwHBVFD7iQYI"
+            },
+            {
+              "duration": "20s",
+              "placeId": "ChIJL6DO4AtZwokRzup7ahU9Ae4"
+            },
+            {
+              "duration": "40s",
+              "placeId": "ChIJBY5X-gtZwokRgF59zlZmq6I"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJs1IdqQ5ZwokRYPMYcCAfweg"
+            },
+            {
+              "duration": "15s",
+              "placeId": "ChIJRbxnpQ5ZwokR5CG5EYiAwRA"
+            },
+            {
+              "duration": "8s",
+              "placeId": "ChIJf1hTug5ZwokR8EALNtY-muQ"
+            },
+            {
+              "duration": "6s",
+              "placeId": "ChIJY-3huw5ZwokRHpcZzddvIho"
+            },
+            {
+              "duration": "33s",
+              "placeId": "ChIJ_a1A6A5ZwokRUDirYxFqKVE"
+            },
+            {
+              "duration": "22s",
+              "placeId": "ChIJJVZICQ9ZwokRRHELCcGc-Go"
+            },
+            {
+              "duration": "21s",
+              "placeId": "ChIJ18PVnw9ZwokR7CHYzWYzlHk"
+            },
+            {
+              "duration": "9s",
+              "placeId": "ChIJ1VLwnA9ZwokR3FugC1OwBr8"
+            },
+            {
+              "duration": "25s",
+              "placeId": "ChIJNUs6hA9ZwokR2E7oI7AeRUk"
+            },
+            {
+              "duration": "21s",
+              "placeId": "ChIJAeLfYgVZwokRrCbCkOiG5WI"
+            },
+            {
+              "duration": "13s",
+              "placeId": "ChIJw-vbZQVZwokRxmlAL3WWSrU"
+            },
+            {
+              "duration": "20s",
+              "placeId": "ChIJTcSOaQVZwokRTSs6w2xrUjw"
+            },
+            {
+              "duration": "12s",
+              "placeId": "ChIJYfZ1QAVZwokR0YL-cy2-RcY"
+            },
+            {
+              "duration": "12s",
+              "placeId": "ChIJOdOUPgVZwokRD35E6x5mHYY"
+            },
+            {
+              "duration": "9s",
+              "placeId": "ChIJ63hIOwVZwokRpvoOrf0ofHA"
+            },
+            {
+              "duration": "12s",
+              "placeId": "ChIJ63hIOwVZwokRwaSjT1kO-rE"
+            },
+            {
+              "duration": "12s",
+              "placeId": "ChIJk-lJ1gRZwokRP8VTI-JTpyg"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJs7vL0wRZwokR53D3bxEHbuE"
+            },
+            {
+              "duration": "3s",
+              "placeId": "ChIJTSMYzQRZwokRfYdWrgY3rkg"
+            },
+            {
+              "duration": "15s",
+              "placeId": "ChIJTSMYzQRZwokRytvU6RBI33M"
+            },
+            {
+              "duration": "36s",
+              "placeId": "ChIJWa93ShtZwokRGyVvO3kG14o"
+            },
+            {
+              "duration": "7s",
+              "placeId": "ChIJKQb8ThtZwokRg1XzjxUg5Rs"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJ1WePWhtZwokRlD4zDsxpgBU"
+            },
+            {
+              "duration": "10s",
+              "placeId": "ChIJP6lmWRtZwokRKMUO9A-tPSg"
+            },
+            {
+              "duration": "34s",
+              "placeId": "ChIJfTKjoRxZwokRowlClrFRITA"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJMYVlmBxZwokRyg393QVGnt0"
+            },
+            {
+              "duration": "18s",
+              "placeId": "ChIJ8VEElxxZwokRos8DSqe3PWU"
+            },
+            {
+              "duration": "9s",
+              "placeId": "ChIJoyJ-kxxZwokR31_KNxJs0UQ"
+            },
+            {
+              "duration": "6s",
+              "placeId": "ChIJoyJ-kxxZwokRXgCUpAWRu6A"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJw2ir7RxZwokROmZ2nKhSDj0"
+            },
+            {
+              "duration": "30s",
+              "placeId": "ChIJG7DX7xxZwokREbOtDsUNhqw"
+            },
+            {
+              "duration": "22s",
+              "placeId": "ChIJ-3Ia_BxZwokRhGxPMxcpSjI"
+            },
+            {
+              "duration": "8s",
+              "placeId": "ChIJk55MAB1ZwokRbj53q4EW2JE"
+            },
+            {
+              "duration": "30s",
+              "placeId": "ChIJ40xqqB1ZwokR9db6K4lLXc8"
+            },
+            {
+              "duration": "8s",
+              "placeId": "ChIJu8Cqph1ZwokRl5NaHpEuS-o"
+            },
+            {
+              "duration": "2s",
+              "placeId": "ChIJ6XD_ox1ZwokR1aylDxItrZ0"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJaUusox1ZwokRZyd6ZD_WNMY"
+            },
+            {
+              "duration": "12s",
+              "placeId": "ChIJX80dmB1ZwokRmy2F8VBqdN8"
+            },
+            {
+              "duration": "12s",
+              "placeId": "ChIJf0lXlx1ZwokRzGgDejfhNT4"
+            },
+            {
+              "duration": "32s",
+              "placeId": "ChIJDS3Ojx1ZwokRjM0Z59DxKjA"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJPz77DOJYwokR3J77VlBAA4g"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJ7SL3DeJYwokRwzUnyZ68KBE"
+            },
+            {
+              "duration": "21s",
+              "placeId": "ChIJkWkZF-JYwokRNcEUOkqAHrY"
+            },
+            {
+              "duration": "21s",
+              "placeId": "ChIJYZt4I-JYwokRv5ThaWebgH4"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJYZt4I-JYwokRSfDt5r8tY_Q"
+            },
+            {
+              "duration": "30s",
+              "placeId": "ChIJBZQ9KuJYwokRftYwPP-gAQw"
+            },
+            {
+              "duration": "12s",
+              "placeId": "ChIJUUmNfuFYwokREcJHEdTFCeg"
+            },
+            {
+              "duration": "17s",
+              "placeId": "ChIJA8VHe-FYwokRfQ2suxih78c"
+            },
+            {
+              "duration": "32s",
+              "placeId": "ChIJl6RoaOFYwokRo0_9RUJTxgg"
+            },
+            {
+              "duration": "17s",
+              "placeId": "ChIJV9ctRuFYwokRC2tdm7hLbIs"
+            },
+            {
+              "duration": "19s",
+              "placeId": "ChIJV9ctRuFYwokRqvJFWU8wyyY"
+            },
+            {
+              "duration": "9s",
+              "placeId": "ChIJmXqnz-ZYwokRSQdwKHYn6vM"
+            },
+            {
+              "duration": "25s",
+              "placeId": "ChIJ0RhF2-ZYwokRb8NsG8eq8cY"
+            },
+            {
+              "duration": "36s",
+              "placeId": "ChIJxSZv4eZYwokRaKPjau6Dt7s"
+            },
+            {
+              "duration": "15s",
+              "placeId": "ChIJCf9cAudYwokRbJQq-NLSCyU"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJlfjJAOdYwokRmJsD8q5KUJc"
+            },
+            {
+              "duration": "11s",
+              "placeId": "ChIJG1oeqedYwokR31vaNr_KnNU"
+            },
+            {
+              "duration": "17s",
+              "placeId": "ChIJeXVipedYwokRLWLPVIF_Vcw"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJ-d76uudYwokRTvZXCowUuHU"
+            },
+            {
+              "duration": "18s",
+              "placeId": "ChIJWRdIuedYwokRlRO4X3lCPK8"
+            },
+            {
+              "duration": "14s",
+              "placeId": "ChIJi1VK4udYwokR5p7lQfR-5k0"
+            },
+            {
+              "duration": "8s",
+              "placeId": "ChIJq41CCOhYwokRplJe2rQfbxo"
+            },
+            {
+              "duration": "9s",
+              "placeId": "ChIJ5Q8EBuhYwokRyvSGMP36UxA"
+            },
+            {
+              "duration": "32s",
+              "placeId": "ChIJ_dFvG-hYwokRaA89RjcRaaU"
+            },
+            {
+              "duration": "34s",
+              "placeId": "ChIJkw0vnsJYwokR6-xylfvcLvM"
+            },
+            {
+              "duration": "17s",
+              "placeId": "ChIJAaA8hMJYwokR2QL0A8EzYQo"
+            },
+            {
+              "duration": "34s",
+              "placeId": "ChIJaR5pasJYwokRAbqofbqw7Kk"
+            },
+            {
+              "duration": "19s",
+              "placeId": "ChIJf2gZPMJYwokR3MY3U7XrvlE"
+            },
+            {
+              "duration": "32s",
+              "placeId": "ChIJGyk5KMJYwokRkhrH01A_bxk"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJo8MWg8FYwokRmXLjmjxkf1Q"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJl2SQncFYwokRsJPWddS4kss"
+            },
+            {
+              "duration": "9s",
+              "placeId": "ChIJl2SQncFYwokRsqP3VfK7HZA"
+            },
+            {
+              "duration": "17s",
+              "placeId": "ChIJD9cdDMFYwokRjiGIgpd57Us"
+            },
+            {
+              "duration": "25s",
+              "placeId": "ChIJnQREG8FYwokRBDKyBsOIbo8"
+            },
+            {
+              "duration": "6s",
+              "placeId": "ChIJnQREG8FYwokRoL1JtxOXgIg"
+            },
+            {
+              "duration": "17s",
+              "placeId": "ChIJaz8fwcBYwokR7xP-I0cWo20"
+            },
+            {
+              "duration": "33s",
+              "placeId": "ChIJW6x1sMBYwokRVrojGdW_0lA"
+            },
+            {
+              "duration": "73s",
+              "placeId": "ChIJv90unsBYwokRxaRb-cnvWE0"
+            }
+          ],
+          "source": "INFERRED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 407711906,
+              "lngE7": -739559097
+            },
+            {
+              "latE7": 407714996,
+              "lngE7": -739564666
+            },
+            {
+              "latE7": 407734031,
+              "lngE7": -739550170
+            },
+            {
+              "latE7": 407742118,
+              "lngE7": -739569244
+            },
+            {
+              "latE7": 407757530,
+              "lngE7": -739605636
+            },
+            {
+              "latE7": 407632980,
+              "lngE7": -739716873
+            },
+            {
+              "latE7": 407622413,
+              "lngE7": -739724578
+            },
+            {
+              "latE7": 407620811,
+              "lngE7": -739739456
+            },
+            {
+              "latE7": 407626190,
+              "lngE7": -739821014
+            },
+            {
+              "latE7": 407620162,
+              "lngE7": -739825439
+            },
+            {
+              "latE7": 407498703,
+              "lngE7": -739722213
+            },
+            {
+              "latE7": 407578010,
+              "lngE7": -739777755
+            },
+            {
+              "latE7": 407596130,
+              "lngE7": -739817810
+            },
+            {
+              "latE7": 407525787,
+              "lngE7": -739894409
+            },
+            {
+              "latE7": 407478446,
+              "lngE7": -739928741
+            },
+            {
+              "latE7": 407462921,
+              "lngE7": -739940032
+            },
+            {
+              "latE7": 407448272,
+              "lngE7": -739914016
+            },
+            {
+              "latE7": 407443275,
+              "lngE7": -739902114
+            },
+            {
+              "latE7": 407421417,
+              "lngE7": -739888992
+            },
+            {
+              "latE7": 407424697,
+              "lngE7": -739859619
+            },
+            {
+              "latE7": 407397003,
+              "lngE7": -739764175
+            },
+            {
+              "latE7": 407443084,
+              "lngE7": -739730911
+            },
+            {
+              "latE7": 407711639,
+              "lngE7": -739558486
+            }
+          ]
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 407711497,
+        "centerLngE7": -739558961,
+        "duration": {
+          "endTimestamp": "2020-06-02T20:48:48.594Z",
+          "startTimestamp": "2020-06-02T10:40:30Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "307 E 76th St, New York, NY 10021, USA",
+          "calibratedProbability": 76.77869,
+          "latitudeE7": 407712706,
+          "locationConfidence": 98.99115,
+          "longitudeE7": -739557121,
+          "placeId": "ChIJaa1_Y79YwokRZCH_0K4hSCg",
+          "semanticType": "TYPE_HOME",
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "locationConfidence": 87,
+        "otherCandidateLocations": [
+          {
+            "address": "1454 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 0.17729633,
+            "latitudeE7": 407712137,
+            "locationConfidence": 0.22858904,
+            "longitudeE7": -739563685,
+            "name": "The Stumble Inn",
+            "placeId": "ChIJZ0kHf79YwokRoyp64RkoMeQ"
+          },
+          {
+            "address": "1471 1st Ave., New York, NY 10075, USA",
+            "calibratedProbability": 0.112854116,
+            "latitudeE7": 407708968,
+            "locationConfidence": 0.14550339,
+            "longitudeE7": -739540829,
+            "name": "American Trash",
+            "placeId": "ChIJh6f1Vr9YwokRfFLjX-COPaI",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          },
+          {
+            "address": "341 E 76th St, New York, NY 10021, USA",
+            "calibratedProbability": 0.08933905,
+            "latitudeE7": 407711791,
+            "locationConfidence": 0.11518529,
+            "longitudeE7": -739554448,
+            "placeId": "ChIJHwhfYb9YwokRyxep79xZIRQ",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          },
+          {
+            "address": "404 E 76th St, New York, NY 10021, USA",
+            "calibratedProbability": 0.0646454,
+            "latitudeE7": 407700164,
+            "locationConfidence": 0.08334765,
+            "longitudeE7": -739537216,
+            "name": "The Impala",
+            "placeId": "ChIJOYerTcdYwokRpEFtj9N5edw"
+          }
+        ],
+        "placeConfidence": "HIGH_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 81
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 68.79175901412964
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 23.45481514930725
+          },
+          {
+            "activityType": "STILL",
+            "probability": 4.763151332736015
+          },
+          {
+            "activityType": "RUNNING",
+            "probability": 1.478080078959465
+          },
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 1.187270786613226
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.09166034869849682
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.05585990147665143
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 0.04224989388603717
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 0.04201266565360129
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.03902255557477474
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 0.029510771855711937
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 0.0211412989301607
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.002891152325901203
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.0005136968866281677
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0000636017716715287
+          }
+        ],
+        "activityType": "WALKING",
+        "confidence": "MEDIUM",
+        "distance": 439,
+        "duration": {
+          "endTimestamp": "2020-06-02T20:54:19.506Z",
+          "startTimestamp": "2020-06-02T20:48:48.594Z"
+        },
+        "endLocation": {
+          "latitudeE7": 407749309,
+          "longitudeE7": -739539129,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "startLocation": {
+          "latitudeE7": 407712477,
+          "longitudeE7": -739558085,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "waypointPath": {
+          "confidence": 1.0,
+          "distanceMeters": 499.8648568833938,
+          "roadSegment": [
+            {
+              "duration": "36s",
+              "placeId": "ChIJv90unsBYwokRTGErubJys-Y"
+            },
+            {
+              "duration": "12s",
+              "placeId": "ChIJl1wceb9YwokRFKb_J5WVOCA"
+            },
+            {
+              "duration": "34s",
+              "placeId": "ChIJLzBbd79YwokRBRpmG5UBMwc"
+            },
+            {
+              "duration": "47s",
+              "placeId": "ChIJJRaFEr9YwokRWS86l335h8M"
+            },
+            {
+              "duration": "15s",
+              "placeId": "ChIJxTGuEL9YwokRGmbJHW-1By8"
+            },
+            {
+              "duration": "35s",
+              "placeId": "ChIJ8zA7H79YwokRovb-v9atT3M"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJ8zA7H79YwokRptRE2FD3ZEs"
+            },
+            {
+              "duration": "26s",
+              "placeId": "ChIJb69S3r5YwokR3ZlaUw3pIbk"
+            },
+            {
+              "duration": "25s",
+              "placeId": "ChIJ68dg275YwokR7x24U6bYsyo"
+            },
+            {
+              "duration": "13s",
+              "placeId": "ChIJKZS3xb5YwokR6f5CtZ711pM"
+            },
+            {
+              "duration": "7s",
+              "placeId": "ChIJZSEYyL5YwokRuGtRX32kG3U"
+            },
+            {
+              "duration": "28s",
+              "placeId": "ChIJZSEYyL5YwokRyJKosFuglw0"
+            },
+            {
+              "duration": "20s",
+              "placeId": "ChIJE-lusr5YwokRhxcsZe33XHQ"
+            }
+          ],
+          "source": "INFERRED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 407711639,
+              "lngE7": -739558486
+            },
+            {
+              "latE7": 407723274,
+              "lngE7": -739557495
+            },
+            {
+              "latE7": 407749137,
+              "lngE7": -739538726
+            }
+          ]
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 407755200,
+        "centerLngE7": -739535475,
+        "duration": {
+          "endTimestamp": "2020-06-02T21:13:52.422Z",
+          "startTimestamp": "2020-06-02T20:54:19.506Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "240 E 86th St, New York, 10028, United States",
+          "calibratedProbability": 23.20767,
+          "latitudeE7": 407772179,
+          "locationConfidence": 44.363785,
+          "longitudeE7": -739520950,
+          "name": "Fairway Market 86th Street",
+          "placeId": "ChIJQ75KlYlYwokRN76w58GDi00",
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "locationConfidence": 36,
+        "otherCandidateLocations": [
+          {
+            "address": "1442 Lexington Ave, New York, NY 10128, USA",
+            "calibratedProbability": 16.34881,
+            "latitudeE7": 407754949,
+            "locationConfidence": 31.252386,
+            "longitudeE7": -739536955,
+            "name": "Bonjour Crepes & Wine",
+            "placeId": "ChIJL9lsPaRYwokR8rYZLMRf0MQ"
+          },
+          {
+            "address": "1588 2nd Ave, New York, NY 10028, USA",
+            "calibratedProbability": 2.2884943,
+            "latitudeE7": 407754335,
+            "locationConfidence": 4.374686,
+            "longitudeE7": -739532956,
+            "name": "Wa Jeal Chili House",
+            "placeId": "ChIJa4KK_LtYwokRXcEb5Yrs0JQ"
+          },
+          {
+            "address": "1579 2nd Ave, New York, NY 10028, USA",
+            "calibratedProbability": 2.0310025,
+            "latitudeE7": 407752719,
+            "locationConfidence": 3.8824642,
+            "longitudeE7": -739538736,
+            "name": "Insomnia Cookies",
+            "placeId": "ChIJu59nrL5YwokRlNqwmyk6OpA"
+          },
+          {
+            "address": "1585 2nd Ave, New York, NY 10028, USA",
+            "calibratedProbability": 1.3757398,
+            "latitudeE7": 407755546,
+            "locationConfidence": 2.6298642,
+            "longitudeE7": -739537572,
+            "name": "Baba Convenience Store",
+            "placeId": "ChIJ6WHHqr5YwokRJsbMiWa3kEQ"
+          },
+          {
+            "address": "1577 2nd Ave, New York, NY 10028, USA",
+            "calibratedProbability": 1.1484817,
+            "latitudeE7": 407752378,
+            "locationConfidence": 2.1954377,
+            "longitudeE7": -739540301,
+            "name": "Pinkberry",
+            "placeId": "ChIJ331P_LtYwokRIl1hLfSFtI4"
+          },
+          {
+            "calibratedProbability": 1.0228739,
+            "latitudeE7": 407756878,
+            "locationConfidence": 1.9553256,
+            "longitudeE7": -739531291,
+            "placeId": "ChIJDfcQ_btYwokRcS9owBJr3WQ"
+          },
+          {
+            "address": "1587 2nd Ave A, New York, NY 10028, USA",
+            "calibratedProbability": 1.0010773,
+            "latitudeE7": 407755970,
+            "locationConfidence": 1.9136593,
+            "longitudeE7": -739536469,
+            "name": "Crown Wine & Liquor",
+            "placeId": "ChIJYWlXVblYwokRd1_cT8EiA-M"
+          },
+          {
+            "address": "1571 2nd Ave, New York, NY 10028, USA",
+            "calibratedProbability": 0.8294797,
+            "latitudeE7": 407751299,
+            "locationConfidence": 1.5856334,
+            "longitudeE7": -739541133,
+            "name": "BurgerFi",
+            "placeId": "ChIJaZbdrb5YwokRnUHobNXU9kc"
+          },
+          {
+            "address": "1569 2nd Ave, New York, NY 10028, USA",
+            "calibratedProbability": 0.7397827,
+            "latitudeE7": 407750640,
+            "locationConfidence": 1.4141686,
+            "longitudeE7": -739541037,
+            "name": "16 Handles",
+            "placeId": "ChIJO2Pmsb5YwokRDQNdFHVsYYQ"
+          }
+        ],
+        "placeConfidence": "LOW_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 80
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 58.7515652179718
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 36.694130301475525
+          },
+          {
+            "activityType": "RUNNING",
+            "probability": 1.7091656103730202
+          },
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 1.4720729552209375
+          },
+          {
+            "activityType": "STILL",
+            "probability": 1.0244901292026043
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.0847206509206444
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 0.06257051136344671
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.054250902030617
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 0.04903680528514087
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.04691823851317167
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 0.03594511654227972
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 0.012449690257199109
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.0022806938432040624
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.00035378373013372766
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.00005721564662053424
+          }
+        ],
+        "activityType": "WALKING",
+        "confidence": "LOW",
+        "distance": 394,
+        "duration": {
+          "endTimestamp": "2020-06-02T21:14:29.966Z",
+          "startTimestamp": "2020-06-02T21:13:52.422Z"
+        },
+        "endLocation": {
+          "latitudeE7": 407715947,
+          "longitudeE7": -739558015,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "startLocation": {
+          "latitudeE7": 407748629,
+          "longitudeE7": -739539830,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "waypointPath": {
+          "confidence": 0.0,
+          "distanceMeters": 406.29118499927984,
+          "roadSegment": [
+            {
+              "duration": "1s",
+              "placeId": "ChIJE-lusr5YwokRhhcsZe33XHQ"
+            },
+            {
+              "duration": "3s",
+              "placeId": "ChIJZSEYyL5YwokRyZKosFuglw0"
+            },
+            {
+              "duration": "0s",
+              "placeId": "ChIJZSEYyL5YwokRuWtRX32kG3U"
+            },
+            {
+              "duration": "1s",
+              "placeId": "ChIJKZS3xb5YwokR6P5CtZ711pM"
+            },
+            {
+              "duration": "3s",
+              "placeId": "ChIJ68dg275YwokR7h24U6bYsyo"
+            },
+            {
+              "duration": "3s",
+              "placeId": "ChIJb69S3r5YwokR3JlaUw3pIbk"
+            },
+            {
+              "duration": "0s",
+              "placeId": "ChIJ8zA7H79YwokRp9RE2FD3ZEs"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJ8zA7H79YwokRo_b-v9atT3M"
+            },
+            {
+              "duration": "2s",
+              "placeId": "ChIJxTGuEL9YwokRG2bJHW-1By8"
+            },
+            {
+              "duration": "6s",
+              "placeId": "ChIJJRaFEr9YwokRWC86l335h8M"
+            },
+            {
+              "duration": "3s",
+              "placeId": "ChIJuUU5Q79YwokR3lcj3ATgMNc"
+            }
+          ],
+          "source": "INFERRED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 407748756,
+              "lngE7": -739540100
+            },
+            {
+              "latE7": 407723617,
+              "lngE7": -739558334
+            },
+            {
+              "latE7": 407718238,
+              "lngE7": -739556350
+            }
+          ]
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 407710857,
+        "centerLngE7": -739555000,
+        "duration": {
+          "endTimestamp": "2020-06-02T23:12:26.797Z",
+          "startTimestamp": "2020-06-02T21:14:29.966Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "307 E 76th St, New York, NY 10021, USA",
+          "calibratedProbability": 66.204994,
+          "latitudeE7": 407712706,
+          "locationConfidence": 97.45611,
+          "longitudeE7": -739557121,
+          "placeId": "ChIJaa1_Y79YwokRZCH_0K4hSCg",
+          "semanticType": "TYPE_HOME",
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "locationConfidence": 84,
+        "otherCandidateLocations": [
+          {
+            "address": "1454 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 0.629906,
+            "latitudeE7": 407712137,
+            "locationConfidence": 0.9272441,
+            "longitudeE7": -739563685,
+            "name": "The Stumble Inn",
+            "placeId": "ChIJZ0kHf79YwokRoyp64RkoMeQ"
+          },
+          {
+            "address": "341 E 76th St, New York, NY 10021, USA",
+            "calibratedProbability": 0.24503651,
+            "latitudeE7": 407711791,
+            "locationConfidence": 0.36070248,
+            "longitudeE7": -739554448,
+            "placeId": "ChIJHwhfYb9YwokRyxep79xZIRQ",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          },
+          {
+            "address": "311 E 76th St, New York, NY 10021, USA",
+            "calibratedProbability": 0.23357065,
+            "latitudeE7": 407711807,
+            "locationConfidence": 0.34382433,
+            "longitudeE7": -739556597,
+            "name": "Sin City Burger",
+            "placeId": "ChIJhyonXc1ZwokRYJti4YQ6zNk"
+          },
+          {
+            "address": "1471 1st Ave., New York, NY 10075, USA",
+            "calibratedProbability": 0.16317283,
+            "latitudeE7": 407708968,
+            "locationConfidence": 0.24019623,
+            "longitudeE7": -739540829,
+            "name": "American Trash",
+            "placeId": "ChIJh6f1Vr9YwokRfFLjX-COPaI",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          }
+        ],
+        "placeConfidence": "HIGH_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 67
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "CYCLING",
+            "probability": 80.42609095573425
+          },
+          {
+            "activityType": "RUNNING",
+            "probability": 8.258657157421112
+          },
+          {
+            "activityType": "WALKING",
+            "probability": 5.105073004961014
+          },
+          {
+            "activityType": "STILL",
+            "probability": 4.783594235777855
+          },
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 0.7811436429619789
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.23166630417108536
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 0.16871059779077768
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 0.13190575409680605
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 0.04025418602395803
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.03815334930550307
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.02825516567099839
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 0.004806348806596361
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.0011751091733458452
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.00035173438845959026
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.00016149249404406874
+          }
+        ],
+        "activityType": "CYCLING",
+        "confidence": "HIGH",
+        "distance": 6580,
+        "duration": {
+          "endTimestamp": "2020-06-03T00:00:40.695Z",
+          "startTimestamp": "2020-06-02T23:12:26.797Z"
+        },
+        "endLocation": {
+          "latitudeE7": 407713366,
+          "longitudeE7": -739553475,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "simplifiedRawPath": {
+          "points": [
+            {
+              "accuracyMeters": 11,
+              "latE7": 407609291,
+              "lngE7": -739640579,
+              "timestamp": "2020-06-02T23:34:30.668Z"
+            },
+            {
+              "accuracyMeters": 25,
+              "latE7": 407573204,
+              "lngE7": -739822693,
+              "timestamp": "2020-06-02T23:46:38.962Z"
+            }
+          ]
+        },
+        "startLocation": {
+          "latitudeE7": 407707952,
+          "longitudeE7": -739551998,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "waypointPath": {
+          "confidence": 0.9921245087527292,
+          "distanceMeters": 7995.116812405866,
+          "roadSegment": [
+            {
+              "duration": "1044s",
+              "placeId": "ChIJv90unsBYwokRxKRb-cnvWE0"
+            },
+            {
+              "duration": "1928s",
+              "placeId": "ChIJEa11qsBYwokRnmCKWUGin3U"
+            },
+            {
+              "duration": "1446s",
+              "placeId": "ChIJEa11qsBYwokRK2bVNIyJPGI"
+            },
+            {
+              "duration": "3455s",
+              "placeId": "ChIJuUU5Q79YwokR31cj3ATgMNc"
+            },
+            {
+              "duration": "883s",
+              "placeId": "ChIJLzBbd79YwokRBBpmG5UBMwc"
+            },
+            {
+              "duration": "321s",
+              "placeId": "ChIJl1wceb9YwokRFab_J5WVOCA"
+            },
+            {
+              "duration": "160s",
+              "placeId": "ChIJQxhPaMBYwokRF4jd4Exn4h0"
+            },
+            {
+              "duration": "1205s",
+              "placeId": "ChIJxStcQcBYwokR-exIczUAb-4"
+            },
+            {
+              "duration": "241s",
+              "placeId": "ChIJ47gXSMBYwokRBwD-NXlL42I"
+            },
+            {
+              "duration": "1125s",
+              "placeId": "ChIJqZJWNMBYwokRUWhbvIC2lUQ"
+            },
+            {
+              "duration": "1446s",
+              "placeId": "ChIJ441UzsFYwokR01FcPdY2Iaw"
+            },
+            {
+              "duration": "80s",
+              "placeId": "ChIJ50sjAupYwokRNik7hWUfUOg"
+            },
+            {
+              "duration": "401s",
+              "placeId": "ChIJ50sjAupYwokRnRX37dEVuak"
+            },
+            {
+              "duration": "482s",
+              "placeId": "ChIJR_SQ-OlYwokR598dpXgJOqQ"
+            },
+            {
+              "duration": "160s",
+              "placeId": "ChIJIwp1-ulYwokRmfSwzWQejF0"
+            },
+            {
+              "duration": "1044s",
+              "placeId": "ChIJSWL37ulYwokRJoJh5YjO7-0"
+            },
+            {
+              "duration": "883s",
+              "placeId": "ChIJ736qwOlYwokRGKSUpplE5_k"
+            },
+            {
+              "duration": "160s",
+              "placeId": "ChIJJbV8t-lYwokRseyDqSXN7UY"
+            },
+            {
+              "duration": "321s",
+              "placeId": "ChIJX_J7TehYwokR9qJRGsWZyjo"
+            },
+            {
+              "duration": "160s",
+              "placeId": "ChIJQb0QUuhYwokRBKqK3-mYm7E"
+            },
+            {
+              "duration": "401s",
+              "placeId": "ChIJQ-2oUehYwokRGrR1ZFv4jC4"
+            },
+            {
+              "duration": "321s",
+              "placeId": "ChIJGawPWuhYwokRBqfOfDSs8Jg"
+            },
+            {
+              "duration": "1205s",
+              "placeId": "ChIJQUepX-hYwokRuXy7Ak1ygcQ"
+            },
+            {
+              "duration": "482s",
+              "placeId": "ChIJC6eGiehYwokR9fHvghbbnrM"
+            },
+            {
+              "duration": "241s",
+              "placeId": "ChIJF3xvFeZYwokR4AuKgM8qkFo"
+            },
+            {
+              "duration": "160s",
+              "placeId": "ChIJ92FOaeZYwokRHsGOnmDXvxY"
+            },
+            {
+              "duration": "80s",
+              "placeId": "ChIJ-4bYbuZYwokR7RlK1vzXWNo"
+            },
+            {
+              "duration": "321s",
+              "placeId": "ChIJdUeCZeZYwokRnSo50xfbpqo"
+            },
+            {
+              "duration": "401s",
+              "placeId": "ChIJq3-3fOZYwokRQ_WOZncoWGI"
+            },
+            {
+              "duration": "401s",
+              "placeId": "ChIJzcg8h-ZYwokRyytv72DsSR8"
+            },
+            {
+              "duration": "482s",
+              "placeId": "ChIJa8MGg-ZYwokRu7-36TnXO0U"
+            },
+            {
+              "duration": "482s",
+              "placeId": "ChIJlTACIeRYwokRSUazrD1m3jA"
+            },
+            {
+              "duration": "241s",
+              "placeId": "ChIJxxJXH-RYwokReSJiyusNl3Y"
+            },
+            {
+              "duration": "241s",
+              "placeId": "ChIJxxJXH-RYwokRZQ0RJF380wg"
+            },
+            {
+              "duration": "723s",
+              "placeId": "ChIJ09mVGuRYwokRf-1ei39XfQ8"
+            },
+            {
+              "duration": "160s",
+              "placeId": "ChIJXZycCeRYwokRjQHsq0CwHwU"
+            },
+            {
+              "duration": "241s",
+              "placeId": "ChIJF8EDCuRYwokRnEyEvKEKdbw"
+            },
+            {
+              "duration": "723s",
+              "placeId": "ChIJFfOVkuNYwokRmKoMY37XBZc"
+            },
+            {
+              "duration": "562s",
+              "placeId": "ChIJmYmpveNYwokRnpSsV9v7qhU"
+            },
+            {
+              "duration": "241s",
+              "placeId": "ChIJwwChvONYwokR_itbgo4GNtU"
+            },
+            {
+              "duration": "241s",
+              "placeId": "ChIJwwChvONYwokRtWO1O24YrZ0"
+            },
+            {
+              "duration": "964s",
+              "placeId": "ChIJi2LpruNYwokRT6AX5QblCO0"
+            },
+            {
+              "duration": "482s",
+              "placeId": "ChIJQUH5VeJYwokRW_03Q3IaJGo"
+            },
+            {
+              "duration": "321s",
+              "placeId": "ChIJQUH5VeJYwokRyLTjxRDQFo0"
+            },
+            {
+              "duration": "964s",
+              "placeId": "ChIJxS_p8-JYwokRycAli_htqi4"
+            },
+            {
+              "duration": "1205s",
+              "placeId": "ChIJfUqvkeJYwokRdGXchONYrEQ"
+            },
+            {
+              "duration": "2089s",
+              "placeId": "ChIJ-ZC7n-JYwokRB3LeTflEir4"
+            },
+            {
+              "duration": "642s",
+              "placeId": "ChIJr2vSXR1ZwokRXnlKk7NxrjI"
+            },
+            {
+              "duration": "723s",
+              "placeId": "ChIJpVS7XB1ZwokREHVuMYGlblM"
+            },
+            {
+              "duration": "723s",
+              "placeId": "ChIJjZ1cRB1ZwokRIKJzbly-JNo"
+            },
+            {
+              "duration": "2009s",
+              "placeId": "ChIJc0XkNx1ZwokRrFiVPF5x1Dg"
+            },
+            {
+              "duration": "482s",
+              "placeId": "ChIJ95-6lQJZwokRsbxvmIk7xvM"
+            },
+            {
+              "duration": "2410s",
+              "placeId": "ChIJeUTWiAJZwokRUPCVXUROZJo"
+            },
+            {
+              "duration": "1687s",
+              "placeId": "ChIJOVgWcQJZwokR3EjIf-q29ow"
+            },
+            {
+              "duration": "803s",
+              "placeId": "ChIJm1yjdAJZwokRTpbiXPP7SoE"
+            },
+            {
+              "duration": "160s",
+              "placeId": "ChIJjxnVk_9YwokRyIBdHUzFR1k"
+            },
+            {
+              "duration": "321s",
+              "placeId": "ChIJU1Qcjv9YwokR7HNaOFTeweo"
+            },
+            {
+              "duration": "401s",
+              "placeId": "ChIJ_Vbcjv9YwokRZECMr9a8lz0"
+            },
+            {
+              "duration": "1125s",
+              "placeId": "ChIJYWFFa_9YwokRxlbPJAG9cgE"
+            },
+            {
+              "duration": "562s",
+              "placeId": "ChIJR7q-Pv9YwokRwHddw891Zos"
+            },
+            {
+              "duration": "562s",
+              "placeId": "ChIJRwt8Ov9YwokRqDNfTGBncW4"
+            },
+            {
+              "duration": "160s",
+              "placeId": "ChIJTQXFMf9YwokRYfD_x4rdGIE"
+            },
+            {
+              "duration": "401s",
+              "placeId": "ChIJ4UzsLf9YwokR3apzZO4-Z4A"
+            },
+            {
+              "duration": "160s",
+              "placeId": "ChIJ8fogLf9YwokRr06VRDWcxS0"
+            },
+            {
+              "duration": "80s",
+              "placeId": "ChIJZ_gt0_hYwokRMVJ-nFtzd2o"
+            },
+            {
+              "duration": "80s",
+              "placeId": "ChIJQUAV0_hYwokRY_ilsamgtDM"
+            },
+            {
+              "duration": "160s",
+              "placeId": "ChIJ62GD0_hYwokRoTtDwCTBDkE"
+            },
+            {
+              "duration": "562s",
+              "placeId": "ChIJDRzr1vhYwokR5448WvMi2b8"
+            },
+            {
+              "duration": "562s",
+              "placeId": "ChIJc4172PhYwokR5w8ljMf6HAc"
+            },
+            {
+              "duration": "642s",
+              "placeId": "ChIJ5fVQH_lYwokRDp1jQPIX8JY"
+            },
+            {
+              "duration": "482s",
+              "placeId": "ChIJ5fVQH_lYwokR5xj8azwjPdY"
+            },
+            {
+              "duration": "1125s",
+              "placeId": "ChIJE9KOD_lYwokRv2BskiBaeuM"
+            },
+            {
+              "duration": "1044s",
+              "placeId": "ChIJ_fYooflYwokRSqvmm5G5rCs"
+            },
+            {
+              "duration": "482s",
+              "placeId": "ChIJ9Q2Q_vlYwokRx5NE6-Stg4s"
+            },
+            {
+              "duration": "562s",
+              "placeId": "ChIJ9Q2Q_vlYwokRBJvMNz_GNUM"
+            },
+            {
+              "duration": "1125s",
+              "placeId": "ChIJ22N0rfBYwokRVylSDKuHkzw"
+            },
+            {
+              "duration": "642s",
+              "placeId": "ChIJ9X9NtvBYwokRF4uCHPwB6O0"
+            },
+            {
+              "duration": "482s",
+              "placeId": "ChIJXZwQxvBYwokRcVPgJa32UXg"
+            },
+            {
+              "duration": "160s",
+              "placeId": "ChIJMXOtxfBYwokRqk_IpCfGrCU"
+            },
+            {
+              "duration": "562s",
+              "placeId": "ChIJnXvE2vBYwokRTpt_HZRNmHU"
+            },
+            {
+              "duration": "241s",
+              "placeId": "ChIJnXvE2vBYwokROr5HAB8pm-o"
+            },
+            {
+              "duration": "642s",
+              "placeId": "ChIJeYMy1_BYwokRPjqZpUavW_4"
+            },
+            {
+              "duration": "803s",
+              "placeId": "ChIJTZLI1fBYwokR5C3kwdDbwf0"
+            },
+            {
+              "duration": "1205s",
+              "placeId": "ChIJGWcQLPFYwokR6ZTUE5CQcIE"
+            },
+            {
+              "duration": "964s",
+              "placeId": "ChIJdWzjOfFYwokRI4ujmLn0POA"
+            },
+            {
+              "duration": "642s",
+              "placeId": "ChIJ4ftYQfFYwokREBMbxS_c31U"
+            },
+            {
+              "duration": "803s",
+              "placeId": "ChIJz2FWYPFYwokRpumirMo2QYU"
+            },
+            {
+              "duration": "2009s",
+              "placeId": "ChIJOdLh2_NYwokRouklbvb4MpI"
+            },
+            {
+              "duration": "803s",
+              "placeId": "ChIJYcQbz_NYwokR-OW4xKCltcg"
+            },
+            {
+              "duration": "723s",
+              "placeId": "ChIJ5T_Ky_NYwokRYi0Xc-G17T0"
+            },
+            {
+              "duration": "2009s",
+              "placeId": "ChIJI_onNvJYwokR15vYDbW6HKw"
+            },
+            {
+              "duration": "642s",
+              "placeId": "ChIJn4S-P_JYwokRcN7YiEIbMak"
+            },
+            {
+              "duration": "482s",
+              "placeId": "ChIJY1uSFPJYwokROGC27OheiZI"
+            },
+            {
+              "duration": "2089s",
+              "placeId": "ChIJRT2lE_JYwokRzHHtHZ_j6gc"
+            },
+            {
+              "duration": "562s",
+              "placeId": "ChIJaV3_h-1YwokRAnWN1NVZ-Es"
+            },
+            {
+              "duration": "80s",
+              "placeId": "ChIJv_mRbO1YwokRs5wmQaOW6ew"
+            },
+            {
+              "duration": "401s",
+              "placeId": "ChIJ8wywFO1YwokRZ4W7Ktfcl9s"
+            },
+            {
+              "duration": "1285s",
+              "placeId": "ChIJkTdCPO1YwokRJeE4Kcb5Bhg"
+            },
+            {
+              "duration": "241s",
+              "placeId": "ChIJFQROLu1YwokRR0Mx0NY1SXU"
+            },
+            {
+              "duration": "401s",
+              "placeId": "ChIJ3UmBK-1YwokRkuMxZqFgUmA"
+            },
+            {
+              "duration": "803s",
+              "placeId": "ChIJhx-1KpNYwokROregcF6fWPU"
+            },
+            {
+              "duration": "321s",
+              "placeId": "ChIJ1fLpKpNYwokRgkwoEF4Jv14"
+            },
+            {
+              "duration": "160s",
+              "placeId": "ChIJgV-fMpNYwokRAJ5fAhXTggU"
+            },
+            {
+              "duration": "160s",
+              "placeId": "ChIJK-Z6MpNYwokR0o5WhuoH34A"
+            },
+            {
+              "duration": "1285s",
+              "placeId": "ChIJZ_qmMJNYwokRXkFAr7_7agc"
+            },
+            {
+              "duration": "241s",
+              "placeId": "ChIJ60v4PpNYwokREGxcQDqShdk"
+            },
+            {
+              "duration": "1125s",
+              "placeId": "ChIJs6RZa5NYwokR8FIjTYj8djY"
+            },
+            {
+              "duration": "321s",
+              "placeId": "ChIJvZuKcZNYwokRnnkX8n64jn8"
+            },
+            {
+              "duration": "2973s",
+              "placeId": "ChIJfVQehJNYwokRG0we_pBxM_A"
+            },
+            {
+              "duration": "562s",
+              "placeId": "ChIJBwA6hpNYwokRnyeWUQBH89g"
+            },
+            {
+              "duration": "1285s",
+              "placeId": "ChIJUUI_eJRYwokR1H287a4oj0k"
+            },
+            {
+              "duration": "1446s",
+              "placeId": "ChIJ9yFBeZRYwokRgr0BeYLpXTk"
+            },
+            {
+              "duration": "723s",
+              "placeId": "ChIJN4RIeZRYwokR8vQSuEHCUF4"
+            },
+            {
+              "duration": "1928s",
+              "placeId": "ChIJF_QNYpRYwokRj36p3ysb6tA"
+            },
+            {
+              "duration": "2250s",
+              "placeId": "ChIJf-Fn_JRYwokRmbaZ5b7KJQo"
+            },
+            {
+              "duration": "241s",
+              "placeId": "ChIJJUc0G5VYwokR4W15Y6vG3EU"
+            },
+            {
+              "duration": "1526s",
+              "placeId": "ChIJDYCYE5VYwokR5cam5uEwU9A"
+            },
+            {
+              "duration": "1767s",
+              "placeId": "ChIJ0_SMX5VYwokRwrE0zBL6eDE"
+            },
+            {
+              "duration": "2410s",
+              "placeId": "ChIJxw0djr9YwokRl4o5MaEWL_4"
+            },
+            {
+              "duration": "642s",
+              "placeId": "ChIJv90unsBYwokRTWErubJys-Y"
+            },
+            {
+              "duration": "321s",
+              "placeId": "ChIJv90unsBYwokRxKRb-cnvWE0"
+            }
+          ],
+          "source": "INFERRED",
+          "travelMode": "BICYCLE",
+          "waypoints": [
+            {
+              "latE7": 407708358,
+              "lngE7": -739551696
+            },
+            {
+              "latE7": 407653045,
+              "lngE7": -739609298
+            },
+            {
+              "latE7": 407607612,
+              "lngE7": -739642333
+            },
+            {
+              "latE7": 407528991,
+              "lngE7": -739699478
+            },
+            {
+              "latE7": 407574043,
+              "lngE7": -739822769
+            },
+            {
+              "latE7": 407723846,
+              "lngE7": -739689407
+            },
+            {
+              "latE7": 407710113,
+              "lngE7": -739555816
+            }
+          ]
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 407711920,
+        "centerLngE7": -739557280,
+        "duration": {
+          "endTimestamp": "2020-06-03T23:23:48.346Z",
+          "startTimestamp": "2020-06-03T00:00:40.695Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "307 E 76th St, New York, NY 10021, USA",
+          "calibratedProbability": 78.80965,
+          "latitudeE7": 407712706,
+          "locationConfidence": 96.57155,
+          "longitudeE7": -739557121,
+          "placeId": "ChIJaa1_Y79YwokRZCH_0K4hSCg",
+          "semanticType": "TYPE_HOME",
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "locationConfidence": 83,
+        "otherCandidateLocations": [
+          {
+            "address": "1454 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 1.6622033,
+            "latitudeE7": 407712137,
+            "locationConfidence": 2.0368261,
+            "longitudeE7": -739563685,
+            "name": "The Stumble Inn",
+            "placeId": "ChIJZ0kHf79YwokRoyp64RkoMeQ"
+          },
+          {
+            "address": "341 E 76th St, New York, NY 10021, USA",
+            "calibratedProbability": 0.17336923,
+            "latitudeE7": 407711791,
+            "locationConfidence": 0.21244271,
+            "longitudeE7": -739554448,
+            "placeId": "ChIJHwhfYb9YwokRyxep79xZIRQ",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          },
+          {
+            "address": "1450 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 0.16808446,
+            "latitudeE7": 407710359,
+            "locationConfidence": 0.20596687,
+            "longitudeE7": -739564936,
+            "name": "Mel's Burger Bar",
+            "placeId": "ChIJqQMTgMBYwokR7HZwBu8zGu4"
+          },
+          {
+            "address": "1471 1st Ave., New York, NY 10075, USA",
+            "calibratedProbability": 0.14416674,
+            "latitudeE7": 407708968,
+            "locationConfidence": 0.17665865,
+            "longitudeE7": -739540829,
+            "name": "American Trash",
+            "placeId": "ChIJh6f1Vr9YwokRfFLjX-COPaI",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          }
+        ],
+        "placeConfidence": "HIGH_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 87
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "CYCLING",
+            "probability": 84.38724279403687
+          },
+          {
+            "activityType": "STILL",
+            "probability": 9.83489155769348
+          },
+          {
+            "activityType": "WALKING",
+            "probability": 2.3368364199995995
+          },
+          {
+            "activityType": "RUNNING",
+            "probability": 1.7663661390542984
+          },
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 1.3591925613582134
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.0810582481790334
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 0.0593020289670676
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.05835342453792691
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 0.0551411067135632
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 0.03866840270347893
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.017670303350314498
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 0.00482792456750758
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.00022629440081800567
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.00018374779529040097
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.000031832487934480014
+          }
+        ],
+        "activityType": "CYCLING",
+        "confidence": "HIGH",
+        "distance": 7512,
+        "duration": {
+          "endTimestamp": "2020-06-03T23:57:43.388Z",
+          "startTimestamp": "2020-06-03T23:23:48.346Z"
+        },
+        "endLocation": {
+          "latitudeE7": 407711240,
+          "longitudeE7": -739557992,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "simplifiedRawPath": {
+          "points": [
+            {
+              "accuracyMeters": 31,
+              "latE7": 407734871,
+              "lngE7": -739594498,
+              "timestamp": "2020-06-03T23:25:06.281Z"
+            },
+            {
+              "accuracyMeters": 26,
+              "latE7": 407727089,
+              "lngE7": -739670486,
+              "timestamp": "2020-06-03T23:28:21.357Z"
+            },
+            {
+              "accuracyMeters": 24,
+              "latE7": 407994423,
+              "lngE7": -739565353,
+              "timestamp": "2020-06-03T23:42:07.461Z"
+            },
+            {
+              "accuracyMeters": 27,
+              "latE7": 407819824,
+              "lngE7": -739534912,
+              "timestamp": "2020-06-03T23:51:21.227Z"
+            }
+          ]
+        },
+        "startLocation": {
+          "latitudeE7": 407712404,
+          "longitudeE7": -739558023,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "waypointPath": {
+          "confidence": 1.0,
+          "distanceMeters": 10249.915379868951,
+          "roadSegment": [
+            {
+              "duration": "20s",
+              "placeId": "ChIJv90unsBYwokRxKRb-cnvWE0"
+            },
+            {
+              "duration": "22s",
+              "placeId": "ChIJEa11qsBYwokRnmCKWUGin3U"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJEa11qsBYwokRK2bVNIyJPGI"
+            },
+            {
+              "duration": "39s",
+              "placeId": "ChIJuUU5Q79YwokR31cj3ATgMNc"
+            },
+            {
+              "duration": "37s",
+              "placeId": "ChIJ8x3zor9YwokR5JAJegye3hc"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJCzun0L9YwokRqA2Du02tbpk"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJ52dp179YwokRSlTyenXiwx8"
+            },
+            {
+              "duration": "2s",
+              "placeId": "ChIJf_d0p5VYwokRDR3MojcWABM"
+            },
+            {
+              "duration": "25s",
+              "placeId": "ChIJk0qDQpRYwokRG19XGHbba8s"
+            },
+            {
+              "duration": "33s",
+              "placeId": "ChIJ3TXtcJRYwokRsi_q3Ar4BIY"
+            },
+            {
+              "duration": "7s",
+              "placeId": "ChIJUUI_eJRYwokR1X287a4oj0k"
+            },
+            {
+              "duration": "3s",
+              "placeId": "ChIJBwA6hpNYwokRnieWUQBH89g"
+            },
+            {
+              "duration": "12s",
+              "placeId": "ChIJfVQehJNYwokRGkwe_pBxM_A"
+            },
+            {
+              "duration": "1s",
+              "placeId": "ChIJvZuKcZNYwokRn3kX8n64jn8"
+            },
+            {
+              "duration": "11s",
+              "placeId": "ChIJs6RZa5NYwokR8VIjTYj8djY"
+            },
+            {
+              "duration": "7s",
+              "placeId": "ChIJ60v4PpNYwokREWxcQDqShdk"
+            },
+            {
+              "duration": "51s",
+              "placeId": "ChIJZ_qmMJNYwokRX0FAr7_7agc"
+            },
+            {
+              "duration": "1s",
+              "placeId": "ChIJK-Z6MpNYwokR045WhuoH34A"
+            },
+            {
+              "duration": "14s",
+              "placeId": "ChIJZyN0K5NYwokRzya4OIqe7ZU"
+            },
+            {
+              "duration": "14s",
+              "placeId": "ChIJ0aLC0JJYwokRQ1pDPOFVsmQ"
+            },
+            {
+              "duration": "0s",
+              "placeId": "ChIJffDHxJJYwokRrY44L4-OctQ"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJXfgYw5JYwokRH7dSH5TEAbE"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJeQ8Y5pJYwokRvbP0Jm98tVc"
+            },
+            {
+              "duration": "7s",
+              "placeId": "ChIJXQG55JJYwokRfeVxCxWeZTM"
+            },
+            {
+              "duration": "6s",
+              "placeId": "ChIJBWLJ_ZJYwokROcp9U4q6i4E"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJNe67x5NYwokRiYKyVmS6b_s"
+            },
+            {
+              "duration": "17s",
+              "placeId": "ChIJPYXfw5NYwokRx1Zk_kal-DU"
+            },
+            {
+              "duration": "69s",
+              "placeId": "ChIJPYXfw5NYwokRfzP8kLPbplQ"
+            },
+            {
+              "duration": "8s",
+              "placeId": "ChIJwx_CXJFYwokR7ipx9cy8tSg"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJe6J7RJFYwokRIKiIhUrFNcg"
+            },
+            {
+              "duration": "10s",
+              "placeId": "ChIJ08DoN5FYwokRvLB-C_VD4Z4"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJK7JfMpFYwokRSLCIhE8rr5c"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJFSxq05ZYwokR7hYM0U3F2m4"
+            },
+            {
+              "duration": "49s",
+              "placeId": "ChIJRWD71ZZYwokR5S21ZIJ0u6I"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJ2aUFZZdYwokRSADwsp-CBZw"
+            },
+            {
+              "duration": "10s",
+              "placeId": "ChIJq3EDfJdYwokRRt5CHk7ys-s"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJhYYogZdYwokR88QEPGpWrFU"
+            },
+            {
+              "duration": "67s",
+              "placeId": "ChIJO46XIJhYwokRHs2mA4R9u4Q"
+            },
+            {
+              "duration": "1s",
+              "placeId": "ChIJpecLe6JYwokRVvihEXk9Y5o"
+            },
+            {
+              "duration": "1s",
+              "placeId": "ChIJv5HEeqJYwokRQ05ieAb9xbg"
+            },
+            {
+              "duration": "47s",
+              "placeId": "ChIJz5DAIqJYwokRbhBv5t2lbBk"
+            },
+            {
+              "duration": "10s",
+              "placeId": "ChIJgdmhmKFYwokRBmM_6u4KBfc"
+            },
+            {
+              "duration": "29s",
+              "placeId": "ChIJNewLrKFYwokR4M3Fvsq-f_E"
+            },
+            {
+              "duration": "7s",
+              "placeId": "ChIJO0BdQ6BYwokRSlhZArP7gpk"
+            },
+            {
+              "duration": "37s",
+              "placeId": "ChIJE6bSZ6BYwokRK03I3NCp7ro"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJQ-4BQR72wokRtf0BKniYsck"
+            },
+            {
+              "duration": "3s",
+              "placeId": "ChIJZ47rZx72wokRLLtX8I7TgbI"
+            },
+            {
+              "duration": "1s",
+              "placeId": "ChIJW_JEZx72wokR7Cc5jiC32G4"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJ08oMYB72wokRvlBoSTPFg7g"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJi82olR72wokR8z47dTC1ROo"
+            },
+            {
+              "duration": "20s",
+              "placeId": "ChIJd1SdpR72wokR6WOULKtmlbQ"
+            },
+            {
+              "duration": "1s",
+              "placeId": "ChIJ7wf6ABz2wokRk68MBdj3E7U"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJt4il-Bv2wokRP_dU_rgrkts"
+            },
+            {
+              "duration": "17s",
+              "placeId": "ChIJ_ZXM5Bv2wokRDenxbWCSSZk"
+            },
+            {
+              "duration": "0s",
+              "placeId": "ChIJ450X5xv2wokRP2MDeAQ5Dks"
+            },
+            {
+              "duration": "0s",
+              "placeId": "ChIJ450X5xv2wokRBTlafDM9IpU"
+            },
+            {
+              "duration": "1s",
+              "placeId": "ChIJc_CcYBn2wokRV1KbdoKdMak"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJz6GmZxn2wokRYDvO6qQFDk4"
+            },
+            {
+              "duration": "19s",
+              "placeId": "ChIJR39FZRn2wokRbvuHa0EUfwc"
+            },
+            {
+              "duration": "9s",
+              "placeId": "ChIJr5Atfxn2wokRCOLDgZolXtg"
+            },
+            {
+              "duration": "17s",
+              "placeId": "ChIJuwfjgBn2wokRYLacYDJDLQU"
+            },
+            {
+              "duration": "0s",
+              "placeId": "ChIJ87Xehhn2wokRTone0Yb26T4"
+            },
+            {
+              "duration": "2s",
+              "placeId": "ChIJoQNZhhn2wokRGYwAPgPFJgE"
+            },
+            {
+              "duration": "30s",
+              "placeId": "ChIJHfy2kRn2wokRxbBWfFDgH0c"
+            },
+            {
+              "duration": "12s",
+              "placeId": "ChIJodDDvxn2wokRmT2i9FjggKY"
+            },
+            {
+              "duration": "2s",
+              "placeId": "ChIJ00WjwBn2wokRcWcdQ17HfXA"
+            },
+            {
+              "duration": "2s",
+              "placeId": "ChIJPRtDxxn2wokR7SlflE-CG2k"
+            },
+            {
+              "duration": "22s",
+              "placeId": "ChIJ_yzXtxn2wokRlHjS4YchK3A"
+            },
+            {
+              "duration": "7s",
+              "placeId": "ChIJ_yzXtxn2wokRlXjS4YchK3A"
+            },
+            {
+              "duration": "3s",
+              "placeId": "ChIJPRtDxxn2wokR7ClflE-CG2k"
+            },
+            {
+              "duration": "2s",
+              "placeId": "ChIJ00WjwBn2wokRcGcdQ17HfXA"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJodDDvxn2wokRmD2i9FjggKY"
+            },
+            {
+              "duration": "16s",
+              "placeId": "ChIJHfy2kRn2wokRxLBWfFDgH0c"
+            },
+            {
+              "duration": "6s",
+              "placeId": "ChIJoQNZhhn2wokRGIwAPgPFJgE"
+            },
+            {
+              "duration": "0s",
+              "placeId": "ChIJ87Xehhn2wokRT4ne0Yb26T4"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJuwfjgBn2wokRYbacYDJDLQU"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJr5Atfxn2wokRCeLDgZolXtg"
+            },
+            {
+              "duration": "10s",
+              "placeId": "ChIJR39FZRn2wokRb_uHa0EUfwc"
+            },
+            {
+              "duration": "9s",
+              "placeId": "ChIJz6GmZxn2wokRYTvO6qQFDk4"
+            },
+            {
+              "duration": "3s",
+              "placeId": "ChIJc_CcYBn2wokRVlKbdoKdMak"
+            },
+            {
+              "duration": "33s",
+              "placeId": "ChIJl9be3Bv2wokRpixACVsQqI0"
+            },
+            {
+              "duration": "17s",
+              "placeId": "ChIJTS9Ekxv2wokRFl1M4JnbLuw"
+            },
+            {
+              "duration": "27s",
+              "placeId": "ChIJqzBvihv2wokRCR9J3oFDwqI"
+            },
+            {
+              "duration": "2s",
+              "placeId": "ChIJd2hnDRz2wokRznhhjStMaJM"
+            },
+            {
+              "duration": "1s",
+              "placeId": "ChIJfxnoEhz2wokRs4lsDwsyF7E"
+            },
+            {
+              "duration": "8s",
+              "placeId": "ChIJSaAcFBz2wokREUI68GMCuYY"
+            },
+            {
+              "duration": "1s",
+              "placeId": "ChIJod7ZFxz2wokRE-8-yR_qVO0"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJKaEgPRz2wokRi9IYYKDRdEE"
+            },
+            {
+              "duration": "3s",
+              "placeId": "ChIJWzc0Ixz2wokRc6-3z8ICWTg"
+            },
+            {
+              "duration": "11s",
+              "placeId": "ChIJzZoaJRz2wokReHujsyKV4OM"
+            },
+            {
+              "duration": "11s",
+              "placeId": "ChIJUQzhLRz2wokRlcvE932_EwA"
+            },
+            {
+              "duration": "13s",
+              "placeId": "ChIJMVP_1B32wokRQ_xBHOIbow8"
+            },
+            {
+              "duration": "20s",
+              "placeId": "ChIJ8zNCfx72wokRk9Wzi18HeAE"
+            },
+            {
+              "duration": "9s",
+              "placeId": "ChIJZ_YReB72wokRrjOm52nXrCQ"
+            },
+            {
+              "duration": "8s",
+              "placeId": "ChIJ40Nf2R32wokRrIvbqNEoqcA"
+            },
+            {
+              "duration": "1s",
+              "placeId": "ChIJ_7Hd3B32wokR0Cb2EUviuvc"
+            },
+            {
+              "duration": "19s",
+              "placeId": "ChIJNVU-Bx72wokRch3aIPzkjBk"
+            },
+            {
+              "duration": "7s",
+              "placeId": "ChIJ5X2HuaBYwokRcFQ5UezcgBs"
+            },
+            {
+              "duration": "6s",
+              "placeId": "ChIJ22xVx6BYwokRsE3ptEOTad4"
+            },
+            {
+              "duration": "11s",
+              "placeId": "ChIJU20VwqBYwokR87F2tc9WoF4"
+            },
+            {
+              "duration": "2s",
+              "placeId": "ChIJYVSj56BYwokRdW3IKfW18ik"
+            },
+            {
+              "duration": "2s",
+              "placeId": "ChIJYVSj56BYwokR_u6mAjDigyY"
+            },
+            {
+              "duration": "13s",
+              "placeId": "ChIJD_IL4qBYwokRVRGDlZBNFjo"
+            },
+            {
+              "duration": "2s",
+              "placeId": "ChIJD_IL4qBYwokRLWlClrIbZ7g"
+            },
+            {
+              "duration": "18s",
+              "placeId": "ChIJTdGOdaFYwokRe7NoJixDLqU"
+            },
+            {
+              "duration": "21s",
+              "placeId": "ChIJwX4ahKFYwokRyDAHZKAhGMc"
+            },
+            {
+              "duration": "14s",
+              "placeId": "ChIJu9zRJaJYwokRTPn2cVVxvoE"
+            },
+            {
+              "duration": "18s",
+              "placeId": "ChIJ281IPqJYwokRF7cZe5SF1WA"
+            },
+            {
+              "duration": "10s",
+              "placeId": "ChIJcUXYaKJYwokR5lpBVJRiF7s"
+            },
+            {
+              "duration": "3s",
+              "placeId": "ChIJFc9ZZKJYwokRyiO6KUWoHNs"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJn6i_DaNYwokRA34icVseoS8"
+            },
+            {
+              "duration": "9s",
+              "placeId": "ChIJzwY9waRYwokR-Ei9V_EP5SY"
+            },
+            {
+              "duration": "9s",
+              "placeId": "ChIJQfXqxKRYwokR8qrXtHeiYfQ"
+            },
+            {
+              "duration": "11s",
+              "placeId": "ChIJPc4m2qRYwokRpgpx6dAAP40"
+            },
+            {
+              "duration": "8s",
+              "placeId": "ChIJl0hr07pYwokRmV1031tjH4c"
+            },
+            {
+              "duration": "11s",
+              "placeId": "ChIJz1AG17pYwokRi1kQEoiMERI"
+            },
+            {
+              "duration": "6s",
+              "placeId": "ChIJM_BmJ7tYwokRlzTrVZYoKGI"
+            },
+            {
+              "duration": "9s",
+              "placeId": "ChIJM7hqGbtYwokRwPhk0fPSo3c"
+            },
+            {
+              "duration": "6s",
+              "placeId": "ChIJjTYIELtYwokROTsoE8rKlfY"
+            },
+            {
+              "duration": "11s",
+              "placeId": "ChIJpfXXDrtYwokReR2r6odN7bA"
+            },
+            {
+              "duration": "12s",
+              "placeId": "ChIJS7oportYwokRKTx6PcPy8PE"
+            },
+            {
+              "duration": "6s",
+              "placeId": "ChIJJ0h3lLtYwokRcLRvLXS_904"
+            },
+            {
+              "duration": "4s",
+              "placeId": "ChIJJ0h3lLtYwokRNOUwOeL2Ww0"
+            },
+            {
+              "duration": "10s",
+              "placeId": "ChIJ2f068LtYwokR2OD8GEhmUfQ"
+            },
+            {
+              "duration": "6s",
+              "placeId": "ChIJBewt_rtYwokRtgmPdu_8ENE"
+            },
+            {
+              "duration": "3s",
+              "placeId": "ChIJBewt_rtYwokRh7eOhXwTPYE"
+            },
+            {
+              "duration": "10s",
+              "placeId": "ChIJE-lusr5YwokRhhcsZe33XHQ"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJZSEYyL5YwokRyZKosFuglw0"
+            },
+            {
+              "duration": "1s",
+              "placeId": "ChIJZSEYyL5YwokRuWtRX32kG3U"
+            },
+            {
+              "duration": "2s",
+              "placeId": "ChIJKZS3xb5YwokR6P5CtZ711pM"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJ68dg275YwokR7h24U6bYsyo"
+            },
+            {
+              "duration": "5s",
+              "placeId": "ChIJb69S3r5YwokR3JlaUw3pIbk"
+            },
+            {
+              "duration": "0s",
+              "placeId": "ChIJ8zA7H79YwokRp9RE2FD3ZEs"
+            },
+            {
+              "duration": "8s",
+              "placeId": "ChIJ8zA7H79YwokRo_b-v9atT3M"
+            },
+            {
+              "duration": "3s",
+              "placeId": "ChIJxTGuEL9YwokRG2bJHW-1By8"
+            },
+            {
+              "duration": "12s",
+              "placeId": "ChIJJRaFEr9YwokRWC86l335h8M"
+            },
+            {
+              "duration": "10s",
+              "placeId": "ChIJLzBbd79YwokRBBpmG5UBMwc"
+            },
+            {
+              "duration": "3s",
+              "placeId": "ChIJl1wceb9YwokRFab_J5WVOCA"
+            },
+            {
+              "duration": "22s",
+              "placeId": "ChIJv90unsBYwokRTWErubJys-Y"
+            },
+            {
+              "duration": "2s",
+              "placeId": "ChIJv90unsBYwokRxKRb-cnvWE0"
+            }
+          ],
+          "source": "INFERRED",
+          "travelMode": "BICYCLE",
+          "waypoints": [
+            {
+              "latE7": 407711334,
+              "lngE7": -739558715
+            },
+            {
+              "latE7": 407724990,
+              "lngE7": -739571456
+            },
+            {
+              "latE7": 407734794,
+              "lngE7": -739594573
+            },
+            {
+              "latE7": 407754440,
+              "lngE7": -739648666
+            },
+            {
+              "latE7": 407728996,
+              "lngE7": -739672698
+            },
+            {
+              "latE7": 407966461,
+              "lngE7": -739538574
+            },
+            {
+              "latE7": 407993850,
+              "lngE7": -739562759
+            },
+            {
+              "latE7": 407819709,
+              "lngE7": -739534988
+            },
+            {
+              "latE7": 407714805,
+              "lngE7": -739564285
+            },
+            {
+              "latE7": 407711105,
+              "lngE7": -739558105
+            }
+          ]
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "duration": {
+          "endTimestamp": "2020-06-08T10:20:05.590Z",
+          "startTimestamp": "2020-06-07T01:41:53.827Z"
+        },
+        "editActionMetadata": {
+          "editHistory": {
+            "editEvent": [
+              {
+                "editOperation": [
+                  "CONFIRM"
+                ],
+                "uiConfiguration": {}
+              }
+            ]
+          },
+          "originalCandidates": {
+            "placeVisitSegment": {
+              "placeVisitCandidate": [
+                {
+                  "location": {
+                    "address": "307 E 76th St, New York, NY 10021, USA",
+                    "locationConfidence": 95.86146,
+                    "placeId": "ChIJaa1_Y79YwokRZCH_0K4hSCg"
+                  }
+                },
+                {
+                  "location": {
+                    "address": "1454 2nd Ave, New York, NY 10021, USA",
+                    "locationConfidence": 0.64067507,
+                    "name": "The Stumble Inn",
+                    "placeId": "ChIJZ0kHf79YwokRoyp64RkoMeQ"
+                  }
+                }
+              ]
+            }
+          },
+          "placeVisitSegment": {
+            "location": {
+              "address": "307 E 76th St, New York, NY 10021, USA",
+              "locationConfidence": 95.86146,
+              "placeId": "ChIJaa1_Y79YwokRZCH_0K4hSCg"
+            }
+          }
+        },
+        "editConfirmationStatus": "CONFIRMED",
+        "lastEditedTimestamp": "2020-06-09T18:14:58.662Z",
+        "location": {
+          "address": "307 E 76th St, New York, NY 10021, USA",
+          "calibratedProbability": 100.0,
+          "latitudeE7": 407712706,
+          "locationConfidence": 100.0,
+          "longitudeE7": -739557121,
+          "placeId": "ChIJaa1_Y79YwokRZCH_0K4hSCg",
+          "semanticType": "TYPE_HOME"
+        },
+        "locationAssertionType": "WITHIN_OR_AT",
+        "locationConfidence": 100,
+        "otherCandidateLocations": [
+          {
+            "address": "1454 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 1.559065,
+            "latitudeE7": 407712137,
+            "locationConfidence": 1.763613,
+            "longitudeE7": -739563685,
+            "name": "The Stumble Inn",
+            "placeId": "ChIJZ0kHf79YwokRoyp64RkoMeQ"
+          },
+          {
+            "address": "1446 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 0.29075453,
+            "latitudeE7": 407708656,
+            "locationConfidence": 0.32890126,
+            "longitudeE7": -739565749,
+            "name": "Gristedes",
+            "placeId": "ChIJEfwHf8BYwokRzpIRFgb_rxk"
+          },
+          {
+            "address": "311 E 76th St, New York, NY 10021, USA",
+            "calibratedProbability": 0.250681,
+            "latitudeE7": 407711807,
+            "locationConfidence": 0.28357014,
+            "longitudeE7": -739556597,
+            "name": "Sin City Burger",
+            "placeId": "ChIJhyonXc1ZwokRYJti4YQ6zNk"
+          },
+          {
+            "address": "404 E 76th St, New York, NY 10021, USA",
+            "calibratedProbability": 0.18566893,
+            "latitudeE7": 407700164,
+            "locationConfidence": 0.21002853,
+            "longitudeE7": -739537216,
+            "name": "The Impala",
+            "placeId": "ChIJOYerTcdYwokRpEFtj9N5edw"
+          }
+        ],
+        "placeConfidence": "USER_CONFIRMED",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 100
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 87.98888325691223
+          },
+          {
+            "activityType": "STILL",
+            "probability": 7.362491637468338
+          },
+          {
+            "activityType": "RUNNING",
+            "probability": 1.7475705593824389
+          },
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 0.8426488377153873
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.8150775916874409
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.46419501304626465
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 0.2901125466451049
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 0.16786892665550113
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 0.1201704959385097
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.10851497063413262
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.036178206210024655
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.030763697577640418
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 0.01530437875771895
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.00919885715120472
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0010284550626238342
+          }
+        ],
+        "activityType": "WALKING",
+        "confidence": "HIGH",
+        "distance": 930,
+        "duration": {
+          "endTimestamp": "2020-06-08T10:36:47.985Z",
+          "startTimestamp": "2020-06-08T10:20:05.590Z"
+        },
+        "endLocation": {
+          "latitudeE7": 407688339,
+          "longitudeE7": -739612962,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "simplifiedRawPath": {
+          "distanceMeters": 1160.7325757596218,
+          "points": [
+            {
+              "accuracyMeters": 33,
+              "latE7": 407667904,
+              "lngE7": -739600597,
+              "timestamp": "2020-06-08T10:25:41.265Z"
+            },
+            {
+              "accuracyMeters": 65,
+              "latE7": 407680926,
+              "lngE7": -739619069,
+              "timestamp": "2020-06-08T10:27:52.819Z"
+            },
+            {
+              "accuracyMeters": 33,
+              "latE7": 407688339,
+              "lngE7": -739612962,
+              "timestamp": "2020-06-08T10:28:58.706Z"
+            },
+            {
+              "accuracyMeters": 33,
+              "latE7": 407697472,
+              "lngE7": -739604908,
+              "timestamp": "2020-06-08T10:30:03.229Z"
+            }
+          ],
+          "source": "INFERRED"
+        },
+        "startLocation": {
+          "latitudeE7": 407712025,
+          "longitudeE7": -739558192,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 407712278,
+        "centerLngE7": -739557744,
+        "duration": {
+          "endTimestamp": "2020-06-09T22:45:37.917Z",
+          "startTimestamp": "2020-06-09T01:38:42.002Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "307 E 76th St, New York, NY 10021, USA",
+          "calibratedProbability": 89.43566,
+          "latitudeE7": 407712706,
+          "locationConfidence": 98.621025,
+          "longitudeE7": -739557121,
+          "placeId": "ChIJaa1_Y79YwokRZCH_0K4hSCg",
+          "semanticType": "TYPE_HOME",
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "locationConfidence": 86,
+        "otherCandidateLocations": [
+          {
+            "address": "1454 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 0.5309588,
+            "latitudeE7": 407712137,
+            "locationConfidence": 0.58549017,
+            "longitudeE7": -739563685,
+            "name": "The Stumble Inn",
+            "placeId": "ChIJZ0kHf79YwokRoyp64RkoMeQ"
+          },
+          {
+            "address": "341 E 76th St, New York, NY 10021, USA",
+            "calibratedProbability": 0.12898351,
+            "latitudeE7": 407711791,
+            "locationConfidence": 0.14223059,
+            "longitudeE7": -739554448,
+            "placeId": "ChIJHwhfYb9YwokRyxep79xZIRQ",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          },
+          {
+            "calibratedProbability": 0.120328285,
+            "isCurrentLocation": true,
+            "latitudeE7": 407712631,
+            "locationConfidence": 0.13268644,
+            "longitudeE7": -739558424,
+            "placeId": "ChIJK6IojzZZwokRPN2sTAIDSus"
+          },
+          {
+            "address": "1471 1st Ave., New York, NY 10075, USA",
+            "calibratedProbability": 0.10277062,
+            "latitudeE7": 407708968,
+            "locationConfidence": 0.113325536,
+            "longitudeE7": -739540829,
+            "name": "American Trash",
+            "placeId": "ChIJh6f1Vr9YwokRfFLjX-COPaI",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          }
+        ],
+        "placeConfidence": "HIGH_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 95
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 407698575,
+        "centerLngE7": -739575275,
+        "duration": {
+          "endTimestamp": "2020-06-09T22:52:23.285Z",
+          "startTimestamp": "2020-06-09T22:45:37.917Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "74th And 2nd, 1411 2nd Ave 1st floor, New York, NY 10021, USA",
+          "calibratedProbability": 17.601372,
+          "latitudeE7": 407699636,
+          "locationConfidence": 43.685207,
+          "longitudeE7": -739579134,
+          "name": "Smoke Zone N Vape Smoke Shop",
+          "placeId": "ChIJBzlBQMBYwokRdxPvnfQzpdU",
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "locationConfidence": 35,
+        "otherCandidateLocations": [
+          {
+            "address": "307 E 76th St, New York, NY 10021, USA",
+            "calibratedProbability": 10.953468,
+            "latitudeE7": 407712517,
+            "locationConfidence": 27.18564,
+            "longitudeE7": -739558487,
+            "placeId": "ChIJaa1_Y79YwokRZCH_0K4hSCg",
+            "semanticType": "TYPE_HOME"
+          },
+          {
+            "address": "1396 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 6.978596,
+            "latitudeE7": 407689436,
+            "locationConfidence": 17.320322,
+            "longitudeE7": -739579714,
+            "name": "CVS",
+            "placeId": "ChIJH_1qNcBYwokRWu7v4rcDpW8"
+          },
+          {
+            "address": "2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 3.1034422,
+            "latitudeE7": 407686869,
+            "locationConfidence": 7.7024975,
+            "longitudeE7": -739584429,
+            "name": "72 St",
+            "placeId": "ChIJT3CZzMFYwokRiRpq9Un_B2M"
+          },
+          {
+            "address": "1417 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 0.49037927,
+            "latitudeE7": 407701243,
+            "locationConfidence": 1.2170825,
+            "longitudeE7": -739577261,
+            "name": "A la Turka",
+            "placeId": "ChIJdTrzacBYwokR6DHjw1ICQ7k"
+          },
+          {
+            "address": "1411 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 0.2985512,
+            "latitudeE7": 407699510,
+            "locationConfidence": 0.7409804,
+            "longitudeE7": -739578638,
+            "name": "Up Thai",
+            "placeId": "ChIJfQ5BQMBYwokR7CxrwWOFFjw"
+          }
+        ],
+        "placeConfidence": "LOW_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 73
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 407713369,
+        "centerLngE7": -739559808,
+        "duration": {
+          "endTimestamp": "2020-06-11T01:50:30Z",
+          "startTimestamp": "2020-06-09T22:52:23.285Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "307 E 76th St, New York, NY 10021, USA",
+          "calibratedProbability": 70.0603,
+          "latitudeE7": 407712706,
+          "locationConfidence": 99.19004,
+          "longitudeE7": -739557121,
+          "placeId": "ChIJaa1_Y79YwokRZCH_0K4hSCg",
+          "semanticType": "TYPE_HOME",
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "locationConfidence": 87,
+        "otherCandidateLocations": [
+          {
+            "address": "1454 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 0.4125675,
+            "latitudeE7": 407712137,
+            "locationConfidence": 0.5841052,
+            "longitudeE7": -739563685,
+            "name": "The Stumble Inn",
+            "placeId": "ChIJZ0kHf79YwokRoyp64RkoMeQ"
+          },
+          {
+            "address": "1471 1st Ave., New York, NY 10075, USA",
+            "calibratedProbability": 0.026106222,
+            "latitudeE7": 407708968,
+            "locationConfidence": 0.03696069,
+            "longitudeE7": -739540829,
+            "name": "American Trash",
+            "placeId": "ChIJh6f1Vr9YwokRfFLjX-COPaI",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          },
+          {
+            "address": "74th And 2nd, 1411 2nd Ave 1st floor, New York, NY 10021, USA",
+            "calibratedProbability": 0.02001028,
+            "latitudeE7": 407699636,
+            "locationConfidence": 0.028330171,
+            "longitudeE7": -739579134,
+            "name": "Smoke Zone N Vape Smoke Shop",
+            "placeId": "ChIJBzlBQMBYwokRdxPvnfQzpdU"
+          },
+          {
+            "address": "341 E 76th St, New York, NY 10021, USA",
+            "calibratedProbability": 0.01563295,
+            "latitudeE7": 407711791,
+            "locationConfidence": 0.02213283,
+            "longitudeE7": -739554448,
+            "placeId": "ChIJHwhfYb9YwokRyxep79xZIRQ",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          }
+        ],
+        "placeConfidence": "HIGH_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 70
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 407712400,
+        "centerLngE7": -739557550,
+        "duration": {
+          "endTimestamp": "2020-06-23T10:55:00.674Z",
+          "startTimestamp": "2020-06-19T21:45:13.029Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "307 E 76th St, New York, NY 10021, USA",
+          "calibratedProbability": 86.21922,
+          "latitudeE7": 407712706,
+          "locationConfidence": 99.527405,
+          "longitudeE7": -739557121,
+          "placeId": "ChIJaa1_Y79YwokRZCH_0K4hSCg",
+          "semanticType": "TYPE_HOME",
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "locationConfidence": 87,
+        "otherCandidateLocations": [
+          {
+            "address": "1454 2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 0.12340691,
+            "latitudeE7": 407712137,
+            "locationConfidence": 0.14245512,
+            "longitudeE7": -739563685,
+            "name": "The Stumble Inn",
+            "placeId": "ChIJZ0kHf79YwokRoyp64RkoMeQ"
+          },
+          {
+            "calibratedProbability": 0.046251964,
+            "latitudeE7": 407712631,
+            "locationConfidence": 0.053391084,
+            "longitudeE7": -739558424,
+            "placeId": "ChIJK6IojzZZwokRPN2sTAIDSus"
+          },
+          {
+            "address": "1471 1st Ave., New York, NY 10075, USA",
+            "calibratedProbability": 0.0450933,
+            "latitudeE7": 407708968,
+            "locationConfidence": 0.052053582,
+            "longitudeE7": -739540829,
+            "name": "American Trash",
+            "placeId": "ChIJh6f1Vr9YwokRfFLjX-COPaI",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          },
+          {
+            "address": "404 E 76th St, New York, NY 10021, USA",
+            "calibratedProbability": 0.037446097,
+            "latitudeE7": 407700164,
+            "locationConfidence": 0.043226007,
+            "longitudeE7": -739537216,
+            "name": "The Impala",
+            "placeId": "ChIJOYerTcdYwokRpEFtj9N5edw"
+          }
+        ],
+        "placeConfidence": "HIGH_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 92
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 94.02382969856262
+          },
+          {
+            "activityType": "STILL",
+            "probability": 4.471773281693459
+          },
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 0.6891449447721243
+          },
+          {
+            "activityType": "RUNNING",
+            "probability": 0.38809895049780607
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.22540341597050428
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 0.06461510783992708
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.04176718648523092
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 0.03236815391574055
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.01981273089768365
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.014067388838157058
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 0.012858994887210429
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.0072866045229602605
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.004643406646209769
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 0.004161809556535445
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.00016657655805829563
+          }
+        ],
+        "activityType": "WALKING",
+        "confidence": "HIGH",
+        "distance": 345,
+        "duration": {
+          "endTimestamp": "2020-06-23T10:58:44.307Z",
+          "startTimestamp": "2020-06-23T10:55:00.674Z"
+        },
+        "endLocation": {
+          "latitudeE7": 407690036,
+          "longitudeE7": -739566737,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "startLocation": {
+          "latitudeE7": 407705954,
+          "longitudeE7": -739544877,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "waypointPath": {
+          "confidence": 1.0,
+          "distanceMeters": 386.0466197562843,
+          "roadSegment": [
+            {
+              "duration": "20s",
+              "placeId": "ChIJv90unsBYwokRxaRb-cnvWE0"
+            },
+            {
+              "duration": "43s",
+              "placeId": "ChIJW6x1sMBYwokRVrojGdW_0lA"
+            },
+            {
+              "duration": "22s",
+              "placeId": "ChIJaz8fwcBYwokR7xP-I0cWo20"
+            },
+            {
+              "duration": "66s",
+              "placeId": "ChIJLSdwVsBYwokRQHvU2DzQrI0"
+            }
+          ],
+          "source": "INFERRED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 407705955,
+              "lngE7": -739544906
+            },
+            {
+              "latE7": 407688293,
+              "lngE7": -739553146
+            },
+            {
+              "latE7": 407690200,
+              "lngE7": -739566574
+            }
+          ]
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 407692520,
+        "centerLngE7": -739576300,
+        "duration": {
+          "endTimestamp": "2020-06-23T11:08:02.786Z",
+          "startTimestamp": "2020-06-23T10:58:44.307Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "1396 2nd Ave, New York, NY 10021, USA",
+          "calibratedProbability": 27.240253,
+          "latitudeE7": 407689436,
+          "locationConfidence": 58.688538,
+          "longitudeE7": -739579714,
+          "name": "CVS",
+          "placeId": "ChIJH_1qNcBYwokRWu7v4rcDpW8",
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "locationConfidence": 47,
+        "otherCandidateLocations": [
+          {
+            "address": "307 E 76th St, New York, NY 10021, USA",
+            "calibratedProbability": 11.477123,
+            "latitudeE7": 407712517,
+            "locationConfidence": 24.727213,
+            "longitudeE7": -739558487,
+            "placeId": "ChIJaa1_Y79YwokRZCH_0K4hSCg",
+            "semanticType": "TYPE_HOME"
+          },
+          {
+            "address": "2nd Ave, New York, NY 10021, USA",
+            "calibratedProbability": 7.0928926,
+            "latitudeE7": 407686869,
+            "locationConfidence": 15.281484,
+            "longitudeE7": -739584429,
+            "name": "72 St",
+            "placeId": "ChIJT3CZzMFYwokRiRpq9Un_B2M"
+          },
+          {
+            "address": "74th And 2nd, 1411 2nd Ave 1st floor, New York, NY 10021, USA",
+            "calibratedProbability": 0.35729903,
+            "latitudeE7": 407699636,
+            "locationConfidence": 0.76979303,
+            "longitudeE7": -739579134,
+            "name": "Smoke Zone N Vape Smoke Shop",
+            "placeId": "ChIJBzlBQMBYwokRdxPvnfQzpdU"
+          },
+          {
+            "address": "1330 1st Ave., New York, NY 10021, USA",
+            "calibratedProbability": 0.033108506,
+            "latitudeE7": 407672320,
+            "locationConfidence": 0.07133156,
+            "longitudeE7": -739560610,
+            "placeId": "ChIJpx0Xc8FYwokRWN-BdVOjXA0",
+            "semanticType": "TYPE_SEARCHED_ADDRESS"
+          }
+        ],
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 74
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 92.0951783657074
+          },
+          {
+            "activityType": "STILL",
+            "probability": 6.417946517467499
+          },
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 0.7208923809230328
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.33902309369295835
+          },
+          {
+            "activityType": "RUNNING",
+            "probability": 0.23193045053631067
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 0.05345480749383569
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.04365694767329842
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 0.029623019509017467
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.027434455114416775
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 0.020526247681118548
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.011042987171094865
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.003693955295602791
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 0.003085092612309382
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.0023579701519338414
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0001595966750755906
+          }
+        ],
+        "activityType": "WALKING",
+        "confidence": "HIGH",
+        "distance": 186,
+        "duration": {
+          "endTimestamp": "2020-06-23T11:12:30.313Z",
+          "startTimestamp": "2020-06-23T11:08:02.786Z"
+        },
+        "endLocation": {
+          "latitudeE7": 407713443,
+          "longitudeE7": -739565302,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "startLocation": {
+          "latitudeE7": 407698512,
+          "longitudeE7": -739575371,
+          "sourceInfo": {
+            "deviceTag": 1300737410
+          }
+        },
+        "waypointPath": {
+          "confidence": 1.0,
+          "distanceMeters": 89.71533393677049,
+          "roadSegment": [
+            {
+              "duration": "28s",
+              "placeId": "ChIJxStcQcBYwokR-exIczUAb-4"
+            },
+            {
+              "duration": "11s",
+              "placeId": "ChIJQxhPaMBYwokRF4jd4Exn4h0"
+            }
+          ],
+          "source": "INFERRED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 407698974,
+              "lngE7": -739576416
+            },
+            {
+              "latE7": 407701110,
+              "lngE7": -739574737
+            },
+            {
+              "latE7": 407705039,
+              "lngE7": -739570770
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

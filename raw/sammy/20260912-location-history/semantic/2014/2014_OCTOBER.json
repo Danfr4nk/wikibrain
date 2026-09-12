@@ -1,0 +1,185 @@
+{
+  "retrieved_at": {
+    "user_local": "2026-09-12T00:00:09.606-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-12T04:00:09.606Z"
+  },
+  "timelineObjects": [
+    {
+      "placeVisit": {
+        "centerLatE7": 398756200,
+        "centerLngE7": -797249000,
+        "duration": {
+          "endTimestamp": "2014-10-01T00:24:50.288Z",
+          "startTimestamp": "2014-10-01T00:11:20.339Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "187 Concord Pl, Uniontown, PA 15401, United States",
+          "latitudeE7": 398758839,
+          "locationConfidence": 49.436806,
+          "longitudeE7": -797238575,
+          "name": "Daniel E Martin LLC",
+          "placeId": "ChIJn9kH0MM_NYgRh_EaVOemufw"
+        },
+        "locationConfidence": 47,
+        "otherCandidateLocations": [
+          {
+            "address": "156 Brandywine Rd, Uniontown, PA 15401, USA",
+            "latitudeE7": 398753600,
+            "locationConfidence": 27.60456,
+            "longitudeE7": -797249710,
+            "name": "Accent Wire",
+            "placeId": "ChIJe669TMI_NYgRd2Tss5LEwKM"
+          },
+          {
+            "latitudeE7": 398757690,
+            "locationConfidence": 11.546429,
+            "longitudeE7": -797259459,
+            "name": "Rick Rafail Pool Construction",
+            "placeId": "ChIJeY8LqsM_NYgR7KWcidJUmAY"
+          },
+          {
+            "address": "42 Heritage Hills Rd, Uniontown, PA 15401, USA",
+            "latitudeE7": 398771250,
+            "locationConfidence": 6.278098,
+            "longitudeE7": -797259870,
+            "name": "Pohaski Plumbing & Consulting",
+            "placeId": "ChIJqTMBdsM_NYgRF4X7aNpN5Wg"
+          },
+          {
+            "latitudeE7": 398786451,
+            "locationConfidence": 5.134106,
+            "longitudeE7": -797243815,
+            "name": "Flint Trading Inc",
+            "placeId": "ChIJS-pFEsQ_NYgRYAFoXV5-85o"
+          }
+        ],
+        "placeConfidence": "LOW_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 67
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "distance": 61110,
+        "duration": {
+          "endTimestamp": "2014-10-01T20:30:52.685Z",
+          "startTimestamp": "2014-10-01T01:35:26.049Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {},
+        "simplifiedRawPath": {
+          "points": [
+            {
+              "accuracyMeters": 10,
+              "latE7": 398881798,
+              "lngE7": -797222977,
+              "timestamp": "2014-10-01T02:54:01.133Z"
+            },
+            {
+              "accuracyMeters": 10,
+              "latE7": 398694153,
+              "lngE7": -796975479,
+              "timestamp": "2014-10-01T18:30:10.700Z"
+            },
+            {
+              "accuracyMeters": 50,
+              "latE7": 398699341,
+              "lngE7": -798908386,
+              "timestamp": "2014-10-01T19:25:46.643Z"
+            }
+          ]
+        },
+        "startLocation": {},
+        "waypointPath": {
+          "confidence": 0.0,
+          "distanceMeters": 2169.8264156446085,
+          "source": "BACKFILLED",
+          "travelMode": "DRIVE",
+          "waypoints": [
+            {
+              "latE7": 398754158,
+              "lngE7": -797321166
+            },
+            {
+              "latE7": 398881072,
+              "lngE7": -797223129
+            },
+            {
+              "latE7": 398693923,
+              "lngE7": -796975021
+            },
+            {
+              "latE7": 398697624,
+              "lngE7": -798910293
+            },
+            {
+              "latE7": 398837928,
+              "lngE7": -797353439
+            }
+          ]
+        }
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "distance": 992,
+        "duration": {
+          "endTimestamp": "2014-10-01T20:51:36.719Z",
+          "startTimestamp": "2014-10-01T20:30:52.685Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {},
+        "startLocation": {},
+        "waypointPath": {
+          "confidence": 1.0,
+          "distanceMeters": 2164.4946543277338,
+          "source": "BACKFILLED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 398837928,
+              "lngE7": -797353439
+            },
+            {
+              "latE7": 398753700,
+              "lngE7": -797321014
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
