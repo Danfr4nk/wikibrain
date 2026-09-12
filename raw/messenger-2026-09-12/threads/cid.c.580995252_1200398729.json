@@ -1,0 +1,106 @@
+{
+ "thread": {
+  "name": "Ryan Lisac",
+  "folder": "INBOX",
+  "type": "ONE_TO_ONE",
+  "other_id": "1200398729"
+ },
+ "messages": [
+  {
+   "attachments": null,
+   "body": "wait...do you get access to SUPERGROK with your tesla sub or just the regular consumer Grok platform??",
+   "is_e2ee": false,
+   "message_id": "mid.$cAAAAAGUt6T2mL3M7a2f_i3lthgVo",
+   "message_sent_at": {
+    "user_local": "2026-08-13T22:50:52.139-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-08-14T02:50:52.139Z"
+   },
+   "reactions": [],
+   "sender_id": "580995252",
+   "sender_name": "Dan Frank",
+   "sender_nickname": null,
+   "timestamp": 1786675852139
+  },
+  {
+   "attachments": null,
+   "body": "It doesn’t come with it — you get a free version of Grok but I upgraded mine just to not hit any type of daily limits.",
+   "is_e2ee": false,
+   "message_id": "mid.$cAAAAAGUt6T2mMYgCEWgAEK4ryv66",
+   "message_sent_at": {
+    "user_local": "2026-08-14T08:32:48.145-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-08-14T12:32:48.145Z"
+   },
+   "reactions": [],
+   "sender_id": "1200398729",
+   "sender_name": "Ryan Lisac",
+   "sender_nickname": null,
+   "timestamp": 1786710768145
+  },
+  {
+   "attachments": null,
+   "body": "Caakehorn.github.io/home",
+   "is_e2ee": false,
+   "message_id": "mid.$cAAAAAGUt6T2mOIa43GgB0FrSQbxd",
+   "message_sent_at": {
+    "user_local": "2026-08-15T17:08:44.380-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-08-15T21:08:44.380Z"
+   },
+   "reactions": [],
+   "sender_id": "580995252",
+   "sender_name": "Dan Frank",
+   "sender_nickname": null,
+   "timestamp": 1786828124380
+  },
+  {
+   "attachments": null,
+   "body": "Built in 2 hours with Claude code lol",
+   "is_e2ee": false,
+   "message_id": "mid.$cAAAAAGUt6T2mOIbzpmgB0Gqsw5EH",
+   "message_sent_at": {
+    "user_local": "2026-08-15T17:08:59.430-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-08-15T21:08:59.430Z"
+   },
+   "reactions": [],
+   "sender_id": "580995252",
+   "sender_name": "Dan Frank",
+   "sender_nickname": null,
+   "timestamp": 1786828139430
+  },
+  {
+   "attachments": null,
+   "body": "Leave the text box empty and press submit - that’s the code",
+   "is_e2ee": false,
+   "message_id": "mid.$cAAAAAGUt6T2mOIdqc2gB0IhorKmF",
+   "message_sent_at": {
+    "user_local": "2026-08-15T17:09:29.843-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-08-15T21:09:29.843Z"
+   },
+   "reactions": [],
+   "sender_id": "580995252",
+   "sender_name": "Dan Frank",
+   "sender_nickname": null,
+   "timestamp": 1786828169843
+  },
+  {
+   "attachments": null,
+   "body": "Didn’t work, still asked for a code",
+   "is_e2ee": false,
+   "message_id": "mid.$cAAAAAGUt6T2mPuTYqWgDZ-PGIaNX",
+   "message_sent_at": {
+    "user_local": "2026-08-16T22:49:16.201-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-08-17T02:49:16.201Z"
+   },
+   "reactions": [],
+   "sender_id": "1200398729",
+   "sender_name": "Ryan Lisac",
+   "sender_nickname": null,
+   "timestamp": 1786934956201
+  }
+ ]
+}
