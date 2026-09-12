@@ -1,0 +1,15 @@
+{
+ "source": "Facebook export B 2026-09-08",
+ "repo_prefix": null,
+ "drive_id": "1UpemAJK9efLMVi5ma-RBdS0VwSt_tg3g",
+ "drive_name": "facebook-ihatedanfrank",
+ "ingest_date": "2026-09-11",
+ "file_count": 1474,
+ "total_bytes": 77666156,
+ "skips": [],
+ "conversions": [
+  "from-gdoc"
+ ],
+ "notes": "857 Docs via .from-gdoc.txt (provisional: paragraph text runs).",
+ "extra": {}
+}
