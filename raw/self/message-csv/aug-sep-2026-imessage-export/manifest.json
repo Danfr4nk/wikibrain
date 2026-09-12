@@ -1,0 +1,33 @@
+{
+  "batch": "aug-sep-2026-imessage-export",
+  "created": "2026-09-12",
+  "provenance": "Sliced from the Agent Edition iMessage corpus snapshot (~/workspace/wikitest/corpus/messages.csv, 192,140 rows, max date_sent 2026-09-07 21:30:56). Not a fresh device export: the Sep-2026 in-conversation forensic pass that produced the Aug-26 block-retraction figures examined this same snapshot window; this slice files that window in raw/ so the figures graduate from counted-in-chat to archived and re-checkable.",
+  "window": {
+    "start": "2026-08-11 00:00:00",
+    "end": "2026-09-07 21:30:56",
+    "predicate": "date_sent BETWEEN"
+  },
+  "files": [
+    {
+      "path": "aug-sep-2026-imessage-export.csv",
+      "rows": 5905,
+      "sha256": "67204d792c86fe1eca436a7603022ba87ca6af34dda828ab0d542a207a836676",
+      "columns": 47
+    }
+  ],
+  "verifications": {
+    "annie_thread_last72h": {
+      "claim": "765 messages in the last 72h of the export (Annie thread)",
+      "result": "REPRODUCED EXACTLY: 765 messages in thread +12124702449 with date_sent >= 2026-09-04 00:00:00 (export tail through 2026-09-07 21:30:56)",
+      "note": "The pass's '72h' label is loose (window is ~93.5h); the count matches on the calendar-tail reading."
+    },
+    "good_night_pretty_girl_sep7": {
+      "claim": "Sep-7 'good night pretty girl' ritual",
+      "result": "CONFIRMED: 2026-09-07 01:44:26, from Dan (is_from_me=1), text exactly 'Good night pretty girl'"
+    },
+    "severance_declarations_aug15_19": {
+      "claim": "~25 block/severance declarations Aug 15-19, none executed",
+      "result": "21 candidate declarations from Dan matching block/severance keywords (incl. conditional threats); daily two-way texting with Annie continues Aug 27-Sep 7 in the same slice, confirming none were executed"
+    }
+  }
+}
