@@ -1,0 +1,28 @@
+{
+  "expansion_of": {
+    "id": "src:old-wiki-export-2026-09-04",
+    "pack": "raw/wiki/old-wiki/whole.txt",
+    "pack_sha256": "4037dedc019e2595fab9dca558a70ee466a39b5ed2a0d3ed58af3c25fb69d5a6",
+    "pack_bytes": 7536214,
+    "header_bytes": 556,
+    "header_sha256": "6d1e2cbe06f4aa08951a163add412cd47f5e12510162f617bd9ff533dbd8178c",
+    "page_index": "raw/wiki/old-wiki/pages.json",
+    "page_count": 497
+  },
+  "method": "Binary slices of whole.txt at pages.json byte offsets, written verbatim. No decoding, no reflow, no normalization. Page separators live between slices (never inside them) and follow one exact template.",
+  "separator_template": "\"========================================================================\" x2 with \\nPAGE: <path>\\n between, trailing \\n",
+  "layout": "raw/wiki/old-wiki/pages/<pages.json path>  (keeps the wiki/<domain>/... inner shape, parallel to raw/wiki/new-wiki/<repo>/wiki/...). Bodies byte-identical to slices; all provenance and mechanical metadata in index.jsonl, never in the files.",
+  "verification": {
+    "rebuilt_from_expanded_files_sha256": "4037dedc019e2595fab9dca558a70ee466a39b5ed2a0d3ed58af3c25fb69d5a6",
+    "matches_whole_txt": true,
+    "per_page_body_sha256": "index.jsonl :: body_sha256",
+    "note": "To re-verify: for each index.jsonl row, sha256(file bytes) must equal body_sha256, and header + concat(body_i + separator_{i+1}) must hash to pack_sha256."
+  },
+  "index": {
+    "file": "raw/wiki/old-wiki/index.jsonl",
+    "rows": 497,
+    "fields": "path, file, title, title_derived_from, domain, page_type, aliases, status, importance, date_created, date_modified, sources, frontmatter_parse, byte_offset, byte_length, body_sha256, words, lines, headings[{level,text}], wikilinks[{target,label}], dates_observed[]",
+    "mechanical_only": true,
+    "note": "headings/wikilinks/dates_observed are scanned from the page prose only (the page's own YAML frontmatter block is excluded; its dates live in date_created/date_modified). dates_observed are raw strings as written (the export mixes UTC and local, padded and unpadded); no normalization is applied. title falls back frontmatter -> first H1 -> filename slug, recorded in title_derived_from."
+  }
+}
