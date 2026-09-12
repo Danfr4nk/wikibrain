@@ -1,5 +1,5 @@
 +++
-id         = "dat:1447-lou-forgotten-despite-1602-messages"
+id         = "dat:1448-lou-forgotten-despite-1602-messages"
 layer      = 1
 type       = "datum"
 title      = "Dan forgot Lou Bahet existed despite 1,602 messages in 21 days"

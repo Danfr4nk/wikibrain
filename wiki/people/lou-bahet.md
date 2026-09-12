@@ -137,7 +137,7 @@ On 2026-09-12, when the Drive ingest ranked her the #3 correspondent in
 the social-DM archives, Dan said "I forgot about that Lou girl even
 existed i said WHO?" — verbatim, in chat
 (`src:sammy-chat-transcript-20260912-0740`, 2026-09-12T07:22:46Z;
-`dat:1447-lou-forgotten-despite-1602-messages`). Three years after 1,602
+`dat:1448-lou-forgotten-despite-1602-messages`). Three years after 1,602
 messages in 21 days, including the single most message-dense day of any
 thread in the pull, she was gone from his memory entirely. The page exists
 partly to keep that fact queryable: the intensity of a correspondence
