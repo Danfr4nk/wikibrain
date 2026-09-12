@@ -13,7 +13,7 @@ confidence = "high"
 importance = 5
 created    = "2026-09-09"
 updated    = "2026-09-09"
-rechecked  = "2026-09-10"
+rechecked  = "2026-09-12"
 tags       = ["annie-ulmer", "relationship", "attachment", "control-case"]
 
 falsifiers = [

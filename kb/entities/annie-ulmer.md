@@ -351,3 +351,20 @@ location — not the Midtown location where Valeria, Lou, and the other
 census subjects worked. She belongs in a separate category from the
 "testing the waters" census: the kept hostess of eleven years, not a
 parallel thread.
+
+## 2026-09-12 — The handoff framing (Annie trained Valeria)
+
+On the Valeria article's merge, Dan said: "Its so great Annie trained
+Valeria it would have been the perfect handoff in the spirit of
+Alexis>annie" (`src:sammy-chat-transcript-20260912-1140`,
+2026-09-12T07:44:18Z). The fact: she trained Valeria as an Au Za'atar
+hostess — her own words, via Dan's article: "hey i trained a new"
+hostess. His narration chains the succession explicitly to Alexis→Annie
+(the 2009–2015 ex, the wiki's control case): the older woman onboarding
+her replacement, framed as apprenticeship/transfer rather than overlap.
+The assistant's gloss in-chat — "Your girlfriend onboarding your
+affair" — he endorsed ("lol I cant argue with that"). Filed as
+`dat:1451-annie-trained-valeria-handoff-framing`; single attributed
+instance, not yet a pattern. Whether Alexis→Annie actually shares the
+structure is the open check (surface reading: no — Alexis was evicted
+Nov 2015; Annie arrived from a different channel).

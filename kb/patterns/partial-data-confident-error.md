@@ -7,7 +7,7 @@ cites           = ["int:fragments-silently-partial", "con:gitignore-is-not-prote
                    "dat:0037-publication-gate-fails-safe",
                    "dat:0052-old-wiki-instrument-layer-three-rules",
                    "dat:0053-old-wiki-instruments-corrected-each-other"]
-evidence_count  = 3
+evidence_count  = 4
 counterexamples = ["dat:0003-attribution-gap",
                    "dat:0037-publication-gate-fails-safe"]
 falsifiers      = [
@@ -42,6 +42,15 @@ Instances so far:
 3. **The Drive staging copy** (`dat:0006-drive-copy-lossy`) — round-tripped
    markdown that is damaged but still plausible, so the corruption survives
    review.
+4. **The Valeria iMessage long tail**
+   (`dat:1449-valeria-imessage-coverage-hole`, 2026-09-12) — the old Valeria
+   article asserted specific iMessages (Sep 2023, Nov 2024, Jul 2025) from a
+   corpus that has *zero rows* for the entire affair window (May 2021–Dec
+   2022) and merely uncorroborated absence in the covered months. The claims
+   were reclassified as unverified in `dat:1445` before anyone had stated
+   the structural reason: the instrument was incapable of showing the truth
+   for the window that mattered. A fourth instance, and the cleanest —
+   confident claims, partial source, the gap invisible in the output.
 
 ## Counterexample
 
