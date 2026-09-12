@@ -39,7 +39,7 @@ hole; the terminal-phase collapse of late 2025 into the June 1, 2026 closure;
 the 52-day failure of that closure; the July re-entanglement; and the
 terminal rupture of August 16–19, 2026 around Jerel Wayne Coles — after
 which Dan is keeping her blocked, flagged as the first held boundary in the
-record (`dat:0250`).
+record (`dat:0250`) **[SUPERSEDED 2026-09-11: `dat:0090-block-retraction-2026-09-11` — Dan confirmed verbatim "there was never a block"; ~25 declarations Aug 15–19, none executed; daily two-way texting continued Aug 27–Sep 7. The boundary was performed, not enacted.]**.
 
 ## Origin: the bond switch, corrected
 
@@ -208,7 +208,7 @@ unreconciled, so **neither may be quoted without the other**
 - The 2020–2024 record hole constrains every claim about those years to
   non-message evidence.
 - Dan is measuring the severance against a 120-day horizon: December 19,
-  2026.
+  2026. **[SUPERSEDED 2026-09-11: void — `dat:0090-block-retraction-2026-09-11`. There was no severance to measure.]**
 
 ## Cross-links
 

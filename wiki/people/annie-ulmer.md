@@ -306,7 +306,7 @@ connections:
     claim: "The booking was for the couple, not for Dan — Trinity was hired days after the March 2019 move back to New York to 'come hang out with my girlfriend and i,' which places Annie inside the arrangement as a participant rather than a party being managed around."
   - page: wiki/mind/synthesis/high-provision-low-condolence
     type: instantiates
-    claim: "The ~$139K sent against ~$16–20K received back — a six-to-one asymmetry across Cash App and Venmo — is the rule's largest documented case: provision was this bond's operating register, and the 120-day severance horizon to December 19, 2026 is the live test of whether the pattern holds under rupture."
+    claim: "The ~$139K sent against ~$16–20K received back — a six-to-one asymmetry across Cash App and Venmo — is the rule's largest documented case: provision was this bond's operating register, and the 120-day severance horizon to December 19, 2026 is the live test of whether the pattern holds under rupture. [SUPERSEDED 2026-09-11: the severance-horizon test is void — wiki/mind/synthesis/august-26-block-retraction. Dan confirmed 'there was never a block'; there was no severance to measure. The asymmetry finding stands; the horizon does not.]"
 ---
 
 # Annie (Anne Louise Ulmer)
@@ -883,6 +883,8 @@ than a month-by-month reconciliation, and the exact split between drugs,
 household costs, and gifts isn't recoverable from the totals alone.)
 
 The money record now instantiates [[wiki/mind/synthesis/high-provision-low-condolence]]: ~$139K sent against ~$16–20K received back, a six-to-one asymmetry — provision was the bond's operating register, and the synthesis names the 120-day severance horizon to December 19, 2026 as the live test of whether the pattern holds under rupture.
+
+> **SUPERSEDED [2026-09-11] —** the severance-horizon test named above is void: [[wiki/mind/synthesis/august-26-block-retraction]]. Dan confirmed verbatim "there was never a block" — ~25 declarations Aug 15–19, none executed, daily two-way texting through Sep 7. The six-to-one asymmetry finding stands; the December 19, 2026 horizon does not.
 
 ## The Train Plan, 2020
 

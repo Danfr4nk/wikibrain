@@ -60,12 +60,12 @@ Fe-inferior at 10% valuing — the function that would produce graded relational
 
 ## Prediction
 
-In the next crisis involving someone he values, provision will precede or substitute for verbal consolation in the message record. Falsifiers: a documented crisis with sustained consolation language and no provision offer; a significant no-strings transfer never later invoked or itemized. Live window: the 120-day severance horizon to December 19, 2026.
+In the next crisis involving someone he values, provision will precede or substitute for verbal consolation in the message record. Falsifiers: a documented crisis with sustained consolation language and no provision offer; a significant no-strings transfer never later invoked or itemized. Live window: the 120-day severance horizon to December 19, 2026. **[SUPERSEDED 2026-09-11:** the severance-horizon test is void — see [[wiki/mind/synthesis/august-26-block-retraction]]. Dan confirmed verbatim "there was never a block"; ~25 block/severance declarations Aug 15–19, none executed; daily two-way texting continued Aug 27–Sep 7. There was no severance to measure, so the December 19, 2026 horizon named here no longer exists. The prediction above survives; its test does not.**]**
 
 ## Gaps
 
 - The $2,100 figure cannot be settled without 2019 Cash App exports; the Suz $14,000 lacks raw/ provenance.
-- No test yet against a future crisis — the severance horizon is the live window.
+- No test yet against a future crisis — the severance horizon is the live window. **[SUPERSEDED 2026-09-11:** the horizon is void — [[wiki/mind/synthesis/august-26-block-retraction]]. The gap that remains is a test against a future crisis with no horizon attached.**]**
 - Origin of the provision register (register 8): the Fran caregiving years 2017–18 are a candidate source, but the corpus does not presently say so — speculative, recorded as a gap rather than a claim.
 
 ## Constitution pass (2026-09-10)
