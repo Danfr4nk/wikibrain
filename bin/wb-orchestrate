@@ -1,0 +1,192 @@
+#!/usr/bin/env python3
+"""Recursive Work Engine v1 — orchestrator.
+
+The heartbeat, not the intelligence. Each tick moves the queue one step:
+
+  WAKE -> LOAD QUEUE -> SELECT FRONTIER -> RUN (emit package)
+  WAKE -> LOAD QUEUE -> VALIDATE -> INGEST DELTA -> INGEST SPAWNS
+       -> PROPAGATE IMPACT -> RESCORE -> CONVERGENCE CHECK -> SLEEP
+
+The orchestrator never executes investigations itself: `tick --emit` prints
+a work package for an agent (or the next cron run) to execute, and
+`tick --ingest-result` consumes the run_result file that execution produced.
+
+Usage:
+  bin/wb-orchestrate tick --emit
+  bin/wb-orchestrate tick --ingest-result <run_result.json>
+  bin/wb-orchestrate daemon --results-dir <dir> --max-ticks N
+
+All queue mutations go through bin/wb-work. Exit 0 on a completed tick,
+1 when there is nothing to do or a phase fails. Standard library only.
+"""
+
+from __future__ import annotations
+
+import argparse
+import json
+import os
+import pathlib
+import subprocess
+import sys
+
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+WB_WORK = ROOT / "bin" / "wb-work"
+
+
+def phase(name: str, detail: str = ""):
+    line = f"[tick] {name}"
+    if detail:
+        line += f" — {detail}"
+    print(line, flush=True)
+
+
+def wb_work(*args: str, queue_dir: str | None) -> subprocess.CompletedProcess:
+    cmd = [str(WB_WORK)]
+    if queue_dir:
+        cmd += ["--queue-dir", queue_dir]
+    cmd += list(args)
+    return subprocess.run(cmd, capture_output=True, text=True)
+
+
+def fail(proc: subprocess.CompletedProcess, what: str):
+    sys.stderr.write(f"error: {what} failed:\n{proc.stderr or proc.stdout}\n")
+    sys.exit(1)
+
+
+def emit_tick(queue_dir: str | None) -> int:
+    phase("WAKE")
+    phase("LOAD QUEUE")
+    phase("SELECT FRONTIER", "rescoring from observables")
+    r = wb_work("rescore", queue_dir=queue_dir)
+    if r.returncode != 0:
+        fail(r, "rescore")
+    n = wb_work("next", "--json", queue_dir=queue_dir)
+    if n.returncode != 0 or '"selected": null' in n.stdout:
+        phase("SLEEP", "queue empty — nothing to select")
+        return 1
+    try:
+        pkg = json.loads(n.stdout)
+    except json.JSONDecodeError:
+        fail(n, "next (unparseable output)")
+    wid = pkg["id"]
+    phase("RUN", f"claiming {wid} and emitting work package (NOT executing)")
+    c = wb_work("claim", wid, queue_dir=queue_dir)
+    if c.returncode != 0:
+        fail(c, f"claim {wid}")
+    package = {
+        "phase": "RUN",
+        "work": pkg,
+        "contract": ("Execute this investigation, then terminate with a "
+                     "run_result JSON file (see schema/work.schema.json "
+                     "$defs/run_result) and feed it back via "
+                     "`tick --ingest-result`. Prose-only reflection is not "
+                     "a completion."),
+    }
+    print(json.dumps(package, indent=2, ensure_ascii=False))
+    phase("SLEEP", "package emitted — awaiting run_result")
+    return 0
+
+
+def ingest_tick(queue_dir: str | None, result_file: str) -> int:
+    phase("WAKE")
+    phase("LOAD QUEUE")
+    try:
+        with open(result_file) as f:
+            result = json.load(f)
+    except (OSError, json.JSONDecodeError) as e:
+        sys.stderr.write(f"error: cannot read result file: {e}\n")
+        return 1
+    wid = result.get("work_id", "?")
+    phase("VALIDATE", f"run_result for {wid}")
+    v = wb_work("validate-result", result_file, queue_dir=queue_dir)
+    if v.returncode != 0:
+        sys.stderr.write(v.stderr or v.stdout)
+        sys.stderr.write("ingest refused: result failed validation\n")
+        return 1
+    phase("INGEST DELTA", f"completing {wid}")
+    c = wb_work("complete", wid, "--result", result_file, queue_dir=queue_dir)
+    if c.returncode != 0:
+        fail(c, f"complete {wid}")
+    try:
+        out = json.loads(c.stdout)
+    except json.JSONDecodeError:
+        fail(c, "complete (unparseable output)")
+    ing = out.get("ingest", {})
+    phase("INGEST SPAWNS",
+          f"{len(ing.get('created', []))} created, "
+          f"{len(ing.get('blocked', []))} blocked, "
+          f"{len(ing.get('skipped_dedup', []))} dedup-skipped")
+    phase("PROPAGATE IMPACT",
+          "engaged" if ing.get("impact_propagated")
+          else "skipped — empty delta, nothing to propagate")
+    phase("RESCORE")
+    r = wb_work("rescore", queue_dir=queue_dir)
+    if r.returncode != 0:
+        fail(r, "rescore")
+    phase("CONVERGENCE CHECK",
+          f"branch {out.get('branch')}: "
+          f"{out.get('branch_consecutive_low_delta')} consecutive low-delta, "
+          f"status={out.get('branch_status')}")
+    print(f"--- causal trail segment for {wid} ---")
+    t = wb_work("trail", wid, queue_dir=queue_dir)
+    print(t.stdout, end="")
+    phase("SLEEP", f"{wid} -> {out.get('status')}")
+    return 0
+
+
+def daemon(queue_dir: str | None, results_dir: str, max_ticks: int) -> int:
+    rdir = pathlib.Path(results_dir)
+    if not rdir.is_dir():
+        sys.stderr.write(f"error: results dir not found: {results_dir}\n")
+        return 1
+    files = sorted(p for p in rdir.iterdir()
+                   if p.is_file() and p.suffix == ".json")
+    if not files:
+        print("[daemon] no result files — nothing to ingest")
+        return 1
+    ticks = 0
+    for i, f in enumerate(files):
+        if ticks >= max_ticks:
+            break
+        print(f"[daemon] tick {ticks + 1}/{max_ticks}: ingesting {f.name}")
+        rc = ingest_tick(queue_dir, str(f))
+        ticks += 1
+        if rc != 0:
+            return rc
+        if ticks < max_ticks and i + 1 < len(files):
+            print(f"[daemon] tick {ticks + 1}/{max_ticks}: emitting next package")
+            rc = emit_tick(queue_dir)
+            ticks += 1
+            if rc != 0:
+                return rc
+    print(f"[daemon] done: {ticks} ticks")
+    return 0
+
+
+def main() -> None:
+    p = argparse.ArgumentParser(prog="wb-orchestrate",
+                                description="Recursive Work Engine v1 — orchestrator")
+    p.add_argument("--queue-dir",
+                   help="queue directory (default: <repo>/queue; or WB_QUEUE_DIR)")
+    sub = p.add_subparsers(dest="cmd", required=True)
+    t = sub.add_parser("tick", help="one heartbeat tick")
+    g = t.add_mutually_exclusive_group(required=True)
+    g.add_argument("--emit", action="store_true",
+                   help="select frontier and emit the work package")
+    g.add_argument("--ingest-result", metavar="FILE",
+                   help="validate + ingest a run_result file")
+    d = sub.add_parser("daemon", help="ingest a directory of result files")
+    d.add_argument("--results-dir", required=True)
+    d.add_argument("--max-ticks", type=int, default=10)
+    args = p.parse_args()
+    qd = args.queue_dir or os.environ.get("WB_QUEUE_DIR")
+
+    if args.cmd == "tick":
+        if args.emit:
+            sys.exit(emit_tick(qd))
+        sys.exit(ingest_tick(qd, args.ingest_result))
+    sys.exit(daemon(qd, args.results_dir, args.max_ticks))
+
+
+if __name__ == "__main__":
+    main()

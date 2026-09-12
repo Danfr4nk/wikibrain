@@ -1,0 +1,240 @@
+#!/usr/bin/env python3
+"""Smoke test for the Recursive Work Engine v1.
+
+Exercises the orchestration kernel end to end in a throwaway queue:
+schema validation of the seed queue, a 3-tick chain (spawn -> contradiction
+-> convergence), trail integrity, and the prose-only-result rejection.
+
+Usage:  tests/test-work-queue [-v]
+
+Standard library only. Exit 0 when every case passes.
+"""
+
+from __future__ import annotations
+
+import argparse
+import json
+import pathlib
+import shutil
+import subprocess
+import sys
+import tempfile
+
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+WB_WORK = ROOT / "bin" / "wb-work"
+SCHEMA = ROOT / "schema" / "work.schema.json"
+
+PASS = 0
+
+
+def note(msg: str, verbose: bool):
+    if verbose:
+        print(f"  ok: {msg}")
+
+
+def check(cond: bool, msg: str):
+    global PASS
+    if not cond:
+        print(f"FAIL: {msg}")
+        sys.exit(1)
+    PASS += 1
+
+
+def run(qdir: pathlib.Path, *args: str) -> subprocess.CompletedProcess:
+    return subprocess.run(
+        [str(WB_WORK), "--queue-dir", str(qdir), *args],
+        capture_output=True, text=True)
+
+
+def write_result(path: pathlib.Path, work_id: str, run_id: str,
+                 delta: dict, spawns: list, changed=None, contra=None):
+    result = {
+        "work_id": work_id,
+        "run_id": run_id,
+        "delta": delta,
+        "changed_claims": changed or [],
+        "contradictions_found": contra or [],
+        "spawned_work": spawns,
+        "next_frontier": {
+            "summary": "test frontier",
+            "reason": "test reason",
+            "suggested_type": "cross_reference",
+            "suggested_target": "test-target",
+        },
+    }
+    path.write_text(json.dumps(result))
+
+
+def spawn(stype: str, target: str, parent: str, basis: str = "manual") -> dict:
+    return {"type": stype, "target": target,
+            "reason": f"test spawn {stype} {target}",
+            "priority_basis": basis,
+            "provenance": {"parent_work_id": parent}}
+
+
+def zero_delta(**kw) -> dict:
+    d = {"new_evidence": 0, "changed_claims": 0, "new_relationships": 0,
+         "contradictions_found": 0, "questions_resolved": 0,
+         "questions_created": 0, "affected_articles": 0}
+    d.update(kw)
+    return d
+
+
+def main() -> None:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("-v", action="store_true")
+    args = ap.parse_args()
+    v = args.v
+
+    tmp = pathlib.Path(tempfile.mkdtemp(prefix="wb-work-test-"))
+    qdir = tmp / "queue"
+    qdir.mkdir()
+    # Hermetic seeds: the test must not depend on the live queue/ directory.
+    seeds = [
+        {"id": f"work-000{i}", "type": t, "target": tgt,
+         "reason": f"test seed {i}", "priority_basis": "manual",
+         "created_by": "test", "created_at": "2026-09-12T00:00:00",
+         "dependencies": [], "budget": {"max_runs": 10, "max_depth": 3},
+         "provenance": {"origin": "manual", "parent_work_id": None, "run_id": None}, "status": "queued"}
+        for i, t, tgt in ((1, "sparse_node_expansion", "test-target-1"),
+                          (2, "article_reconstruction", "test-target-2"),
+                          (3, "evidence_recruitment",
+                           "gphotos-phase-2-media-embed"))
+    ]
+    with open(qdir / "work.queue.jsonl", "w") as f:
+        for s in seeds:
+            f.write(json.dumps(s) + "\n")
+    (qdir / "runs.jsonl").write_text("")
+    (qdir / "branches.json").write_text(json.dumps({"branches": []}))
+
+    # 1. seed queue validates against the schema (load-time check) ---------
+    r = run(qdir, "list", "--json")
+    check(r.returncode == 0, f"seed queue failed schema validation:\n{r.stderr}")
+    seeds = json.loads(r.stdout)
+    check(len(seeds) == 3, f"expected 3 seed items, got {len(seeds)}")
+    check({s["id"] for s in seeds} == {"work-0001", "work-0002", "work-0003"},
+          "seed ids are work-0001..work-0003")
+    check(all(s["status"] == "queued" for s in seeds), "seeds are queued")
+    check(all(s["provenance"]["origin"] == "manual" for s in seeds),
+          "seeds have manual provenance")
+    types = {s["id"]: s["type"] for s in seeds}
+    check(types["work-0001"] == "sparse_node_expansion", "Q2 -> sparse_node_expansion")
+    check(types["work-0002"] == "article_reconstruction", "Q3 -> article_reconstruction")
+    check(types["work-0003"] == "evidence_recruitment", "Q4 -> evidence_recruitment")
+    note("seed queue: 3 items, schema-valid, correctly mapped", v)
+    check(json.loads(SCHEMA.read_text())["$defs"].keys() >=
+          {"work_item", "spawned_work", "next_frontier", "run_result"},
+          "schema defines all four objects")
+
+    # 2. tick 1: productive run spawns 2 children incl. contradiction_audit -
+    check(run(qdir, "claim", "work-0001").returncode == 0, "claim work-0001")
+    r1 = tmp / "r1.json"
+    write_result(r1, "work-0001", "run-t1",
+                 zero_delta(new_evidence=5, changed_claims=2, contradictions_found=1,
+                            affected_articles=4),
+                 [spawn("contradiction_audit", "con:test-1", "work-0001",
+                        "contradiction_severity"),
+                  spawn("cross_reference", "ent:test-1", "work-0001",
+                        "dependency_impact")],
+                 changed=["dat:t1"], contra=["con:test-1"])
+    r = run(qdir, "complete", "work-0001", "--result", str(r1))
+    check(r.returncode == 0, f"complete work-0001 failed:\n{r.stderr}")
+    out = json.loads(r.stdout)
+    kids = [c["id"] for c in out["ingest"]["created"]]
+    check(len(kids) == 2, f"tick1 created 2 children, got {kids}")
+    kinds = {c["type"] for c in out["ingest"]["created"]}
+    check("contradiction_audit" in kinds, "tick1 spawned a contradiction_audit")
+    audit_id = next(c["id"] for c in out["ingest"]["created"]
+                    if c["type"] == "contradiction_audit")
+    note(f"tick1: spawned {kids}", v)
+
+    # 3. tick 2: the audit reports a contradiction -> counter resets --------
+    check(run(qdir, "claim", audit_id).returncode == 0, f"claim {audit_id}")
+    r2 = tmp / "r2.json"
+    write_result(r2, audit_id, "run-t2",
+                 zero_delta(contradictions_found=2), [],
+                 contra=["con:test-1", "con:test-2"])
+    r = run(qdir, "complete", audit_id, "--result", str(r2))
+    check(r.returncode == 0, f"complete {audit_id} failed:\n{r.stderr}")
+    out = json.loads(r.stdout)
+    check(out["branch_consecutive_low_delta"] == 0,
+          "contradiction run reset the convergence counter to 0")
+    note("tick2: contradiction reported, convergence counter reset", v)
+
+    # 4. tick 3: three consecutive low-delta runs -> converged --------------
+    r = run(qdir, "new", "--type", "corpus_discovery", "--target", "global-test",
+            "--reason", "convergence probe", "--priority-basis", "manual",
+            "--created-by", "test")
+    check(r.returncode == 0, f"new failed:\n{r.stderr}")
+    root = json.loads(r.stdout)["id"]
+    prev, prev_run = root, "run-c0"
+    for i, (mag_kw, label) in enumerate(
+            [({"questions_created": 1}, "mag1"),
+             ({}, "mag0"),
+             ({"questions_created": 2}, "mag2")], start=1):
+        rid = f"run-c{i}"
+        check(run(qdir, "claim", prev).returncode == 0, f"claim {prev}")
+        rp = tmp / f"rc{i}.json"
+        spawns = [spawn("cross_reference", f"ent:conv-{i}", prev)] if i < 3 else []
+        write_result(rp, prev, rid, zero_delta(**mag_kw), spawns)
+        rr = run(qdir, "complete", prev, "--result", str(rp))
+        check(rr.returncode == 0, f"complete {prev} failed:\n{rr.stderr}")
+        out = json.loads(rr.stdout)
+        if i < 3:
+            check(out["status"] == "completed", f"{prev} completed ({label})")
+            check(out["branch_consecutive_low_delta"] == i,
+                  f"counter at {i} after {label}")
+            prev = out["ingest"]["created"][0]["id"]
+        else:
+            check(out["status"] == "converged",
+                  f"{prev} converged after 3rd low-delta run (got {out['status']})")
+            check(out["branch_status"] == "converged", "branch marked converged")
+            check(out["branch_consecutive_low_delta"] == 3, "counter at 3")
+    branches = json.loads((qdir / "branches.json").read_text())
+    check(branches[root]["status"] == "converged", "branches.json converged")
+    note(f"tick3: branch {root} converged after 3 low-delta runs", v)
+
+    # 5. trail integrity: parents resolve, no orphan spawns -----------------
+    r = run(qdir, "trail", "work-0001", "--json")
+    check(r.returncode == 0, "trail work-0001")
+    t = json.loads(r.stdout)
+    known = set(t["items"].keys())
+    for wid, item in t["items"].items():
+        p = item["provenance"]["parent_work_id"]
+        check(p is None or p in known, f"orphan parent link: {wid} -> {p}")
+    for wid, causes in t["causes"].items():
+        for c in causes:
+            check(c["to"] in known, f"orphan spawn edge: {wid} -> {c['to']}")
+    check(set(t["descendants"]) >= set(kids), "trail shows tick1 children")
+    note("trail: all parent links resolve, no orphan spawns", v)
+
+    # 6. prose-only reflection fails validation -----------------------------
+    prose = tmp / "prose.json"
+    prose.write_text(json.dumps({
+        "notes": "I reflected deeply and Paci may deserve further investigation.",
+        "work_id": "work-0002",
+    }))
+    r = run(qdir, "validate-result", str(prose))
+    check(r.returncode != 0, "prose-only result must FAIL validation")
+    check("required field missing" in r.stderr, "error names missing fields")
+    note("prose-only result correctly rejected", v)
+
+    # 7. lifecycle + dedup guards -------------------------------------------
+    r = run(qdir, "claim", "work-0002")
+    check(r.returncode == 0, "claim work-0002")
+    r = run(qdir, "claim", "work-0002")
+    check(r.returncode != 0, "double claim must fail")
+    r = run(qdir, "new", "--type", "evidence_recruitment",
+            "--target", "gphotos-phase-2-media-embed",
+            "--reason", "dup", "--priority-basis", "manual")
+    check(r.returncode != 0 and "dedup refusal" in r.stderr,
+          "duplicate (type,target) refused")
+    note("lifecycle and dedup guards hold", v)
+
+    shutil.rmtree(tmp, ignore_errors=True)
+    print(f"all {PASS} checks passed")
+    sys.exit(0)
+
+
+if __name__ == "__main__":
+    main()
