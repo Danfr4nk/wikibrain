@@ -17,6 +17,8 @@ strength = "strong"
 asserted_by = "llm"
 +++
 
+**SUPERSEDED 2026-09-12 (~03:00 EDT).** Dan corrected this finding in conversation: his Messenger app contains "a ton of messages" — the 2-thread result was a shallow/broken CLI sync, not the account's true state. The companion's thread discovery returned only 2 threads despite 320 contacts on the same account, and sync/repair surfaced nothing further. The "empty channel" conclusion is withdrawn. See dat:1440. The 11 messages in raw/messenger-2026-09-12/ remain valid as far as they go, but are a partial pull, not a complete inventory.
+
 **Evidence class:** negative finding bounding the corpus. Raw: `raw/messenger-2026-09-12/`.
 
 1. **The complete inventory.** Thread 1: Ryan Lisac (INBOX), 6 messages, 2026-08-14/15/17 - Dan asks whether a Tesla sub includes SUPERGROK; Dan shares "Caakehorn.github.io/home ... Built in 2 hours with Claude code lol" with instructions ("Leave the text box empty and press submit - that's the code"); Ryan reports it didn't work, "still asked for a code." Thread 2: Kristin Shaelene (PENDING/message request), 5 messages, 2026-08-26, all from her, none answered: "What's up you piece of shit?", "Long time no talk my fellow neuro fuck", a missed call, "Fag", "Ew lol".
