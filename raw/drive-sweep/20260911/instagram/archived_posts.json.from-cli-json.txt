@@ -1,0 +1,449 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 13867 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "ig_archived_post_media": [
+    {
+      "media": [
+        {
+          "creation_timestamp": 1613829002,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "latitude": 40.7142,
+                  "longitude": -74.0064
+                },
+                {
+                  "camera_position": "unknown",
+                  "device_id": "FE617F4A-54EB-4DF2-8FB1-90477B1B57C6",
+                  "source_type": "library"
+                }
+              ]
+            }
+          },
+          "media_variants": [],
+          "title": "Oh no ya donât",
+          "uri": "media/archived_posts/202102/AQPupCnYgTyuwK3ECUTYq6MdWXgb86tSxDLxhO0Qb8TE4hYZeYmbkFtu99YrBJGVMjZ18y5DGhRsdH8b5ViNJnC7vwNcdlPyV2V6qr0_18139468237088143.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1612528622,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "FE617F4A-54EB-4DF2-8FB1-90477B1B57C6",
+                  "source_type": "library"
+                }
+              ]
+            }
+          },
+          "media_variants": [],
+          "title": "Thousand yard stare",
+          "uri": "media/archived_posts/202102/AQOgrRrwi5uhycD13q0DstB8tuz4DFgRNInasQDUgrqj8oNgYlnyvomaDBIJOTwpcQYm8cbnY2qTrQWC6cD3BYYDCcdlIQ9t2wN4_17896475305838770.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1612491054,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "FE617F4A-54EB-4DF2-8FB1-90477B1B57C6",
+                  "source_type": "library"
+                }
+              ]
+            }
+          },
+          "media_variants": [],
+          "title": "some asmr - emphasis on the A and R",
+          "uri": "media/archived_posts/202102/AQPotvoekWfGLRoc6yf91i58GjsdQIgkE3u7RjavYFeOI1c09MXCBnfus1eeTpDDeuwXfN08uqQ6dqrefh8sw5rNB699mhP4YLb9E_17908080496651218.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1612111709,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "latitude": 40.7142,
+                  "longitude": -74.0064
+                },
+                {
+                  "camera_position": "unknown",
+                  "device_id": "FE617F4A-54EB-4DF2-8FB1-90477B1B57C6",
+                  "source_type": "library"
+                }
+              ]
+            }
+          },
+          "media_variants": [],
+          "title": "Sundays are for crypto",
+          "uri": "media/archived_posts/202101/AQMCz5aBrySEWpotbOF7bP_KoIYna0rOZ3uJlBV7GPvyox55MGX4Yn2yg4OGKQEPqR7WNF7TqBQBcMWhSjVf5aHABGo_68y1iU4HU_17887131949923692.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1611800391,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "FE617F4A-54EB-4DF2-8FB1-90477B1B57C6",
+                  "source_type": "library"
+                }
+              ]
+            }
+          },
+          "title": "Meme stock early adopter POV",
+          "uri": "media/archived_posts/202101/142935747_499746751011700_9194287811785941068_n_17958797248389968.jpg"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1610919850,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "latitude": 40.7142,
+                  "longitude": -74.0064
+                },
+                {
+                  "camera_position": "unknown",
+                  "device_id": "FE617F4A-54EB-4DF2-8FB1-90477B1B57C6",
+                  "scene_capture_type": "standard",
+                  "source_type": "library"
+                }
+              ]
+            }
+          },
+          "title": "",
+          "uri": "media/archived_posts/202101/139337172_2195141697286403_523445272318077905_n_17893654027803392.jpg"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1610716028,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "latitude": 40.7142,
+                  "longitude": -74.0064
+                }
+              ]
+            }
+          },
+          "title": "Thanks for the help in GA",
+          "uri": "media/archived_posts/202101/138898009_400029721277510_2801633052398469712_n_17952679681401067.jpg"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1610694975,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "title": "Patriot or pussy?",
+          "uri": "media/archived_posts/202101/138292427_168909255014939_5016419146168462191_n_17853672107490068.jpg"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1610686654,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "title": "",
+          "uri": "media/archived_posts/202101/139469028_256741822534497_6724994534079085080_n_17946057271419219.jpg"
+        }
+      ]
+    },
+    {
+      "creation_timestamp": 1610228986,
+      "media": [
+        {
+          "creation_timestamp": 1610228986,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "title": "",
+          "uri": "media/archived_posts/202101/136691447_2680278088950909_2158732102432023826_n_17870200190231608.jpg"
+        },
+        {
+          "creation_timestamp": 1610228986,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "title": "",
+          "uri": "media/archived_posts/202101/136679911_395134621553202_6352998570000057672_n_17876684306111111.jpg"
+        },
+        {
+          "creation_timestamp": 1610228986,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "title": "",
+          "uri": "media/archived_posts/202101/137220019_390367258727050_8539315985540269546_n_17873380886167508.jpg"
+        }
+      ],
+      "title": "Leftist agitation and direct antifascist action. A proud and patriotic American tradition"
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1587197183,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "media_variants": [],
+          "title": "omfg what",
+          "uri": "media/archived_posts/202004/AQPsr95587fplzNMJO4TSyUk3JeFqcVHXVohFwdbTHnT0ZMJRFQ3qluiTsfDUfpILQjX95PTcFtNpAo_NeVRKd7cOtAAx1TlogB81aM_17904450043443634.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1585727339,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "media_variants": [],
+          "title": "iâm not above grief strats regardless of the situation IRL",
+          "uri": "media/archived_posts/202004/AQMOdXeEvZJg_44Xo4UnHPUWthixF59dDFKeJ989DPa8SRBTVfqkkZUlOJSk60WrzxfbC66D3dhNKrnVL7XXLDQ1poQ4hsA4oJBHzY_18062441239203744.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1585212687,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "latitude": 40.7142,
+                  "longitude": -74.0064
+                }
+              ]
+            }
+          },
+          "media_variants": [],
+          "title": "Warzone RPG plays",
+          "uri": "media/archived_posts/202003/AQPCSZxbhw7YT7T1EZmMROVsGVSuF22L9stusCzMF2jsA7hzqXn5ce8aFWPzv43GWdEXBJwTNjCcfmKUgZE1QsF2HzqT6rtGyaQhRso_17881672426555920.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1582555261,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "media_variants": [],
+          "title": "catch me at MLG next year",
+          "uri": "media/archived_posts/202002/AQPQDaaMPYWZXBeLV78XjBp9Wp_mgUUd8TFwmgX3J6BjyP7KZUZI7219vcWauy_YLU4jD5ku684HfWFCbxzWtpixOeWWiZSnBSbuMI_18130853848039661.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1537015624,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "media_variants": [],
+          "title": "2017 scratch to win Deathwish lizard king",
+          "uri": "media/archived_posts/201809/AQNzzuK9HAWPwGZUEsdtmSJXlLKu_U9GwkSFWojU_QnOUTx8WSVGpjeiqht9Wvju3Aqn5_nvUxPlYhK1t2VVQhO8U02jYRWjAjYQtY4_17979454471057152.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1536668959,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "title": "MIT",
+          "uri": "media/archived_posts/201809/40281403_339640463265176_4290118449600083347_n_17900747941246359.jpg"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1532534982,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "media_variants": [],
+          "title": "",
+          "uri": "media/archived_posts/201807/AQNsKq0CyLzmRqtAkWc5qiqLAAR8dGWgvgDaSUhXo_ZzNsFOXOBoqFwDsUhhcBzXzXZNvFECBvMuenfMI_HirYf7eteYbGgKKvR388_17900886079216623.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1525996354,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "media_variants": [],
+          "title": "",
+          "uri": "media/archived_posts/201805/AQNdmFMV3fYi2FOd1V3ETFem7j1itL54nhELdCX3WQrHUDLKN7V6d9tXcSEvBOEhMrn6Z6zwchBQwQ6KjW0F3iVFgOBo_xEFgJwy2Bw_17853521812256278.mp4"
+        }
+      ]
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-10T21:07:28.483-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T01:07:28.483Z"
+  }
+}
