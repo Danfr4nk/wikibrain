@@ -84,9 +84,18 @@ def main() -> int:
         if rel.parts and rel.parts[0] in {"corpus", "shelf"} or path.name == "messages.csv":
             failures.append(f"corpus material in build output: {rel}")
 
-    # 3. no contact details
+    # 3. no contact details.
+    # Scope: the kb/ evidence-layer output only. The wiki/ article corpus is
+    # excluded on purpose: wiki/*.md is tracked in the public repo, so its
+    # contact handles are already public at the source — rendering them adds
+    # no new exposure — and the standing instruction (2026-09-10) is that the
+    # wiki brain publishes fully public, private data included. Do not
+    # re-extend this check to wiki/ output without Dan's explicit say-so.
+    WIKI_OUTPUT = {"wiki", "domains", "wiki-index.json"}
     for path, text in texts.items():
         rel = path.relative_to(args.site)
+        if rel.parts and rel.parts[0] in WIKI_OUTPUT or rel.name in WIKI_OUTPUT:
+            continue
         for hit in PHONE.findall(text):
             failures.append(f"phone number {hit!r} in {rel}")
         for hit in EMAIL.findall(text):

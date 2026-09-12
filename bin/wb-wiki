@@ -1,0 +1,1000 @@
+#!/usr/bin/env python3
+"""Render the wiki/ article corpus into site/wiki/ (standard library only).
+
+Reads wiki/**/*.md — YAML-subset frontmatter plus a markdown body using
+[[wiki/path|label]] wikilinks — and produces a Wikipedia-style reading
+surface:
+
+  site/wiki/<path>.html   one article per page: title, infobox, TOC,
+                          full body, connections, tags, metadata footer
+  site/wiki-index.json    title/domain/tag index for client-side search
+  site/domains/<d>.html   per-domain article indexes
+  site/index.html         the wiki front door (search, domains, newest;
+                          the kb layer pages are linked as "evidence layers")
+
+Wikilinks with no target page are reported on stderr (dead-link report).
+The build does not fail on them — the report is the control.
+
+Usage:
+  bin/wb-wiki              build into site/ (expects site/ to exist)
+  bin/wb-wiki --out DIR    build into DIR
+"""
+
+from __future__ import annotations
+
+import argparse
+import html
+import json
+import os
+import pathlib
+import re
+import sys
+
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+WIKI = ROOT / "wiki"
+
+
+# --------------------------------------------------------------------------
+# Minimal YAML-subset parser for wiki/ frontmatter.
+# Block mappings/sequences, sequences of mappings, flow collections
+# (single- or multi-line), quoted scalars, block scalars (>/|).
+# --------------------------------------------------------------------------
+
+class FMError(ValueError):
+    pass
+
+
+def _unquote(s: str) -> str:
+    if len(s) >= 2 and s[0] == "'" and s[-1] == "'":
+        # Lenient: several files write \' inside single-quoted strings
+        # (invalid YAML, but the intent is unambiguous).
+        return s[1:-1].replace("''", "'").replace("\\'", "'")
+    if len(s) >= 2 and s[0] == '"' and s[-1] == '"':
+        inner = s[1:-1]
+        out = []
+        i = 0
+        while i < len(inner):
+            c = inner[i]
+            if c == "\\" and i + 1 < len(inner):
+                n = inner[i + 1]
+                out.append({"n": "\n", "t": "\t", "r": "\r",
+                            "\\": "\\", '"': '"', "0": "\0"}.get(n, n))
+                i += 2
+            else:
+                out.append(c)
+                i += 1
+        return "".join(out)
+    return s
+
+
+def _flow_balanced(s: str) -> bool:
+    depth, quote = 0, None
+    i = 0
+    while i < len(s):
+        c = s[i]
+        if quote:
+            if c == "\\" and quote == '"':
+                i += 2
+                continue
+            if c == quote:
+                if quote == "'" and i + 1 < len(s) and s[i + 1] == "'":
+                    i += 2
+                    continue
+                quote = None
+        elif c in "'\"":
+            quote = c
+        elif c in "[{":
+            depth += 1
+        elif c in "]}":
+            depth -= 1
+        i += 1
+    return quote is None and depth == 0
+
+
+def _split_flow(s: str) -> list[str]:
+    parts, depth, cur, quote = [], 0, [], None
+    i = 0
+    while i < len(s):
+        c = s[i]
+        if quote:
+            cur.append(c)
+            if c == "\\" and quote == '"' and i + 1 < len(s):
+                cur.append(s[i + 1])
+                i += 2
+                continue
+            if c == quote:
+                if quote == "'" and i + 1 < len(s) and s[i + 1] == "'":
+                    cur.append("'")
+                    i += 2
+                    continue
+                quote = None
+            i += 1
+            continue
+        if c in "'\"":
+            quote = c
+            cur.append(c)
+        elif c in "[{":
+            depth += 1
+            cur.append(c)
+        elif c in "]}":
+            depth -= 1
+            cur.append(c)
+        elif c == "," and depth == 0:
+            parts.append("".join(cur))
+            cur = []
+        else:
+            cur.append(c)
+        i += 1
+    parts.append("".join(cur))
+    return parts
+
+
+_KEY_RE = re.compile(r"""^(?:"((?:[^"\\]|\\.)*)"|'((?:[^']|'')*)'|([A-Za-z0-9_][\w.\-]*))\s*:(?:\s+(.*))?$""")
+
+
+class _Parser:
+    def __init__(self, text: str):
+        self.lines: list[tuple[int, str]] = []
+        for raw in text.split("\n"):
+            s = raw.rstrip()
+            if not s.strip() or s.strip().startswith("#"):
+                continue
+            indent = len(s) - len(s.lstrip(" "))
+            self.lines.append((indent, s.strip()))
+        self.i = 0
+
+    def parse(self):
+        if not self.lines:
+            return {}
+        v = self._block(self.lines[0][0])
+        return v if isinstance(v, dict) else {}
+
+    def _block(self, indent: int):
+        ind, content = self.lines[self.i]
+        assert ind == indent, (ind, indent, content)
+        if content == "-" or content.startswith("- "):
+            return self._seq(indent)
+        return self._map(indent)
+
+    def _map(self, indent: int) -> dict:
+        d: dict = {}
+        while self.i < len(self.lines):
+            ind, content = self.lines[self.i]
+            if ind < indent:
+                break
+            if ind > indent:
+                raise FMError(f"unexpected indent: {content!r}")
+            m = _KEY_RE.match(content)
+            if not m:
+                raise FMError(f"bad mapping line: {content!r}")
+            key = m.group(1) if m.group(1) is not None else (
+                m.group(2).replace("''", "'") if m.group(2) is not None else m.group(3))
+            rest = (m.group(4) or "").strip()
+            self.i += 1
+            d[key] = self._value(rest, indent)
+        return d
+
+    def _seq(self, indent: int) -> list:
+        items: list = []
+        while self.i < len(self.lines):
+            ind, content = self.lines[self.i]
+            if ind != indent or not (content == "-" or content.startswith("- ")):
+                break
+            self.i += 1
+            rest = content[1:].strip()
+            if rest == "":
+                nxt = self.lines[self.i] if self.i < len(self.lines) else None
+                items.append(self._block(nxt[0]) if nxt and nxt[0] > indent else None)
+                continue
+            m = _KEY_RE.match(rest)
+            if m:
+                d: dict = {}
+                while True:
+                    key = m.group(1) if m.group(1) is not None else (
+                        m.group(2).replace("''", "'") if m.group(2) is not None else m.group(3))
+                    r2 = (m.group(4) or "").strip()
+                    d[key] = self._value(r2, indent)
+                    nxt = self.lines[self.i] if self.i < len(self.lines) else None
+                    if nxt and nxt[0] > indent:
+                        ind2, c2 = nxt
+                        m2 = _KEY_RE.match(c2)
+                        if not m2:
+                            raise FMError(f"bad mapping line: {c2!r}")
+                        self.i += 1
+                        m = m2
+                        continue
+                    break
+                items.append(d)
+            else:
+                items.append(self._flow_or_scalar(rest))
+        return items
+
+    def _flow_or_scalar(self, rest: str):
+        if rest[:1] in "[{" and not _flow_balanced(rest):
+            buf = [rest]
+            while self.i < len(self.lines) and not _flow_balanced(" ".join(buf)):
+                buf.append(self.lines[self.i][1])
+                self.i += 1
+            return self._scalar(" ".join(buf))
+        return self._scalar(rest)
+
+    def _value(self, rest: str, indent: int):
+        if rest != "":
+            if rest in (">", "|", ">-", "|-", ">+", "|+"):
+                folded = rest.startswith(">")
+                chunks = []
+                while self.i < len(self.lines) and self.lines[self.i][0] > indent:
+                    chunks.append(self.lines[self.i][1])
+                    self.i += 1
+                return " ".join(chunks) if folded else "\n".join(chunks)
+            return self._flow_or_scalar(rest)
+        nxt = self.lines[self.i] if self.i < len(self.lines) else None
+        if nxt and nxt[0] > indent:
+            return self._block(nxt[0])
+        return None
+
+    def _scalar(self, s: str):
+        s = s.strip()
+        if s.startswith("[") and s.endswith("]"):
+            return [self._scalar(p) for p in _split_flow(s[1:-1]) if p.strip() != ""]
+        if s.startswith("{") and s.endswith("}"):
+            d: dict = {}
+            for p in _split_flow(s[1:-1]):
+                if p.strip() == "":
+                    continue
+                m = _KEY_RE.match(p.strip())
+                if not m:
+                    raise FMError(f"bad flow mapping entry: {p!r}")
+                key = m.group(1) if m.group(1) is not None else (
+                    m.group(2).replace("''", "'") if m.group(2) is not None else m.group(3))
+                d[key] = self._scalar(m.group(4) or "")
+            return d
+        if len(s) >= 2 and s[0] in "\"'" and s[-1] == s[0]:
+            return _unquote(s)
+        if s in ("~", "null", "Null", "NULL"):
+            return None
+        return s
+
+
+def parse_frontmatter(text: str) -> dict:
+    return _Parser(text).parse()
+
+
+# --------------------------------------------------------------------------
+# Markdown subset (mirrors bin/wb-build): headings, emphasis, code, lists,
+# quotes, links, tables. Plus in-page anchors on h2/h3 for the TOC.
+# --------------------------------------------------------------------------
+
+def inline(text: str) -> str:
+    out = html.escape(text, quote=False)
+    out = re.sub(r"`([^`]+)`", lambda m: f"<code>{m.group(1)}</code>", out)
+    out = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", out)
+    out = re.sub(r"(?<![*\w])\*([^\n]+)\*(?!\w)", r"<em>\1</em>", out)
+    out = re.sub(r"\[([^\]]+)\]\(([^)]+)\)",
+                 lambda m: f'<a href="{html.escape(m.group(2), quote=True)}">{m.group(1)}</a>', out)
+    return out
+
+
+def anchor(text: str) -> str:
+    slug = re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
+    return slug or "section"
+
+
+def markdown(text: str) -> str:
+    lines = text.split("\n")
+    html_parts: list[str] = []
+    para: list[str] = []
+    list_stack: str | None = None
+    in_code = False
+    code: list[str] = []
+
+    def flush_para() -> None:
+        nonlocal para
+        if para:
+            html_parts.append(f"<p>{inline(' '.join(para))}</p>")
+            para = []
+
+    def flush_list() -> None:
+        nonlocal list_stack
+        if list_stack:
+            html_parts.append(f"</{list_stack}>")
+            list_stack = None
+
+    for raw in lines:
+        if raw.startswith("```"):
+            if in_code:
+                body = html.escape("\n".join(code), quote=False)
+                html_parts.append(f"<pre><code>{body}</code></pre>")
+                code, in_code = [], False
+            else:
+                flush_para(); flush_list()
+                in_code = True
+            continue
+        if in_code:
+            code.append(raw)
+            continue
+
+        line = raw.rstrip()
+        if not line.strip():
+            flush_para(); flush_list()
+            continue
+
+        heading = re.match(r"^(#{1,6})\s+(.*)$", line)
+        if heading:
+            flush_para(); flush_list()
+            level = len(heading.group(1)) + 1  # page <h1> is the article title
+            if level in (2, 3, 4):
+                aid = anchor(heading.group(2))
+                html_parts.append(f'<h{level} id="{aid}">{inline(heading.group(2))}</h{level}>')
+            else:
+                html_parts.append(f"<h{level}>{inline(heading.group(2))}</h{level}>")
+            continue
+
+        if line.startswith("> "):
+            flush_para(); flush_list()
+            html_parts.append(f"<blockquote>{inline(line[2:])}</blockquote>")
+            continue
+
+        bullet = re.match(r"^\s*[-*]\s+(.*)$", line)
+        number = re.match(r"^\s*\d+\.\s+(.*)$", line)
+        if bullet or number:
+            want = "ul" if bullet else "ol"
+            flush_para()
+            if list_stack != want:
+                flush_list()
+                html_parts.append(f"<{want}>")
+                list_stack = want
+            html_parts.append(f"<li>{inline((bullet or number).group(1))}</li>")
+            continue
+
+        if line.startswith("|"):
+            flush_para(); flush_list()
+            cells = [c.strip() for c in line.strip("|").split("|")]
+            if all(re.fullmatch(r":?-{2,}:?", c) for c in cells):
+                continue
+            tag = "th" if not html_parts or not html_parts[-1].startswith("<tr") else "td"
+            row = "".join(f"<{tag}>{inline(c)}</{tag}>" for c in cells)
+            html_parts.append(f"<tr>{row}</tr>")
+            continue
+
+        para.append(line.strip())
+
+    flush_para(); flush_list()
+    if in_code and code:
+        html_parts.append(f"<pre><code>{html.escape(chr(10).join(code))}</code></pre>")
+
+    joined = "\n".join(html_parts)
+    return re.sub(r"((?:<tr>.*?</tr>\s*)+)", r"<table>\1</table>", joined, flags=re.S)
+
+
+# --------------------------------------------------------------------------
+# Wikilinks: [[wiki/path|label]], [[wiki/path#frag|label]], [[#frag]],
+# [[raw/...]] (repo path, not a wiki page — rendered as code).
+# --------------------------------------------------------------------------
+
+WIKILINK_RE = re.compile(r"\[\[([^\]]+)\]\]")
+MDLINK_RE = re.compile(r"(?<!!)\[([^\]]+)\]\(([^)\s]+)\)")
+
+DOMAINS = ["people", "timeline", "places", "work", "mind",
+           "legal", "health", "interests", "self", "meta"]
+
+
+def prettify(stem: str) -> str:
+    return stem.replace("-", " ").replace("_", " ").strip().title() or stem
+
+
+def norm_key(target: str) -> str:
+    """Normalize a wikilink target to a page key like 'wiki/people/aaron'."""
+    t = target.strip().strip("/")
+    if t.endswith(".md"):
+        t = t[:-3]
+    if not t or t == "wiki":
+        return "wiki/"
+    return t if t.startswith("wiki/") else "wiki/" + t
+
+
+class WikiLinker:
+    def __init__(self):
+        self.dead: list[tuple[str, str]] = []   # (from_page, target)
+        self.raw_refs: list[tuple[str, str]] = []
+
+    def resolve(self, body: str, page_key: str, pages: dict) -> str:
+        """Replace [[...]] and [label](wiki/...) with placeholder tokens;
+        markdown runs after."""
+        self._tokens: list[str] = []
+
+        def sub_md(m: re.Match) -> str:
+            label, target = m.group(1), m.group(2)
+            if target.startswith(("wiki/", "/wiki/")):
+                self._tokens.append(f"{target}|{label}")
+                return f"\x00WL{len(self._tokens) - 1}\x00"
+            return m.group(0)
+
+        body = MDLINK_RE.sub(sub_md, body)
+
+        def sub(m: re.Match) -> str:
+            inner = m.group(1).strip()
+            self._tokens.append(inner)
+            return f"\x00WL{len(self._tokens) - 1}\x00"
+
+        return WIKILINK_RE.sub(sub, body)
+
+    def render_tokens(self, html_text: str, page_key: str,
+                      pages: dict, page_dir: str) -> str:
+        def sub(m: re.Match) -> str:
+            inner = self._tokens[int(m.group(1))]
+            return self._link(inner, page_key, pages, page_dir)
+        return re.sub(r"\x00WL(\d+)\x00", sub, html_text)
+
+    def _link(self, inner: str, page_key: str, pages: dict, page_dir: str) -> str:
+        # Split target|label on the first pipe. \| is the separator escaped
+        # for table contexts; a \| inside the label stays a literal pipe.
+        tmp = inner.replace("\\|", "\x00PIPE\x00")
+        segs = tmp.split("|", 1)
+        if len(segs) == 2:
+            target = segs[0].replace("\x00PIPE\x00", "|").strip()
+            label = segs[1].replace("\x00PIPE\x00", "|").strip()
+        else:
+            segs = tmp.split("\x00PIPE\x00", 1)
+            if len(segs) == 2:
+                target, label = segs[0].strip(), segs[1].strip()
+            else:
+                target, label = tmp.replace("\x00PIPE\x00", "|").strip(), None
+
+        # In-page anchor: [[#frag]] / [[#frag|label]]
+        if target.startswith("#"):
+            frag = anchor(target[1:])
+            return f'<a href="#{frag}">{html.escape(label or target[1:])}</a>'
+
+        # Raw-repo reference, or a bare repo file like [[CLAUDE.md]]:
+        # not a wiki page — render as code.
+        if target.startswith("raw/") or not target.startswith("wiki/"):
+            self.raw_refs.append((page_key, target))
+            return f"<code>{html.escape(label or target)}</code>"
+
+        frag = ""
+        if "#" in target:
+            target, _, frag = target.partition("#")
+            frag = anchor(frag)
+        key = norm_key(target)
+        page = pages.get(key)
+        if page is None:
+            self.dead.append((page_key, inner))
+            text = html.escape(label or target)
+            return (f'<span class="deadlink" title="No such article: '
+                    f'{html.escape(key)}">{text}</span>')
+        href = os.path.relpath(page["url"], page_dir or ".")
+        if frag:
+            href += f"#{frag}"
+        text = html.escape(label or page["title"])
+        return f'<a href="{html.escape(href, quote=True)}">{text}</a>'
+
+
+# --------------------------------------------------------------------------
+# Article rendering
+# --------------------------------------------------------------------------
+
+CSS = """<style>
+:root{--blue:#3366cc;--ink:#202122;--mut:#72777d;--line:#a2a9b1;--bg:#fff}
+*{box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+ color:var(--ink);background:var(--bg);margin:0;line-height:1.65}
+a{color:var(--blue);text-decoration:none}a:hover{text-decoration:underline}
+.mast{border-bottom:1px solid var(--line);padding:10px 22px;font-size:14px;
+ display:flex;gap:18px;align-items:baseline;background:#f8f9fa}
+.mast b{font-size:16px}.mast .crumb{color:var(--mut)}
+.wrap{max-width:1060px;margin:0 auto;padding:26px 30px 60px}
+h1{font-family:Georgia,'Times New Roman',serif;font-weight:400;font-size:2em;
+ border-bottom:1px solid var(--line);padding-bottom:8px;margin:0 0 4px}
+.subtitle{color:var(--mut);font-size:13px;margin:0 0 18px}
+.infobox{float:right;clear:right;width:290px;margin:0 0 18px 22px;
+ border:1px solid var(--line);background:#f8f9fa;font-size:13px;line-height:1.5}
+.infobox caption,.infobox .ib-title{background:#eaecf0;font-weight:700;
+ padding:8px 12px;font-size:14px;text-align:left}
+.infobox table{width:100%;border-collapse:collapse}
+.infobox th,.infobox td{padding:6px 12px;vertical-align:top;text-align:left}
+.infobox th{width:38%;color:#444;font-weight:600}
+.infobox tr+tr th,.infobox tr+tr td{border-top:1px solid #ddd}
+.toc{border:1px solid var(--line);background:#f8f9fa;padding:12px 18px;
+ display:inline-block;min-width:280px;font-size:14px;margin:0 0 20px}
+.toc b{display:block;margin-bottom:6px}.toc ul{margin:4px 0;padding-left:18px}
+.toc li{margin:2px 0}
+h2{font-family:Georgia,serif;font-weight:400;font-size:1.5em;
+ border-bottom:1px solid var(--line);padding-bottom:4px;margin:1.6em 0 .6em;overflow:hidden}
+h3{font-family:Georgia,serif;font-weight:600;font-size:1.17em;margin:1.3em 0 .4em;overflow:hidden}
+blockquote{border-left:3px solid #c8ccd1;margin:1em 0;padding:6px 16px;color:#444}
+code{background:#f8f9fa;border:1px solid #ddd;border-radius:2px;padding:1px 5px;font-size:.92em}
+pre{background:#f8f9fa;border:1px solid #ddd;padding:12px;overflow:auto}
+pre code{border:0;padding:0}
+table{border-collapse:collapse;margin:1em 0}th,td{border:1px solid #c8ccd1;padding:6px 10px;font-size:14px}
+th{background:#eaecf0}
+.conn{border:1px solid #e0e0e0;border-left:4px solid var(--blue);padding:10px 14px;margin:10px 0;font-size:14px}
+.conn .ctype{display:inline-block;background:#eaf3ff;border:1px solid #bcd3f5;border-radius:3px;
+ padding:0 8px;font-size:12px;margin-right:8px;color:#2a4b8d}
+.tags{margin:18px 0}.tag{display:inline-block;background:#f1f5fb;border:1px solid #d5dbe5;
+ border-radius:10px;padding:2px 10px;font-size:12.5px;margin:0 6px 6px 0;color:#333}
+.metafoot{border-top:1px solid var(--line);margin-top:30px;padding-top:12px;color:var(--mut);font-size:13px}
+.metafoot dl{display:grid;grid-template-columns:150px 1fr;gap:4px 12px;margin:8px 0}
+.metafoot dt{font-weight:600;color:#555}
+.deadlink{color:#a33;border-bottom:1px dotted #a33;cursor:help}
+.footer{border-top:1px solid var(--line);margin-top:40px;padding:16px 22px;color:var(--mut);font-size:12.5px}
+.clear{clear:both}
+@media(max-width:720px){.infobox{float:none;width:100%;margin:0 0 18px}.wrap{padding:18px 16px}}
+</style>"""
+
+FRONT_CSS = """<style>
+:root{--blue:#3366cc;--ink:#202122;--mut:#72777d;--line:#a2a9b1}
+*{box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;color:var(--ink);margin:0;line-height:1.6}
+a{color:var(--blue);text-decoration:none}a:hover{text-decoration:underline}
+.hero{padding:56px 24px 34px;text-align:center;border-bottom:1px solid var(--line);background:#f8f9fa}
+.hero h1{font-family:Georgia,serif;font-weight:400;font-size:2.6em;margin:0 0 6px}
+.hero p{color:var(--mut);margin:6px 0 20px}
+.search{max-width:560px;margin:0 auto;display:flex;gap:8px}
+.search input{flex:1;padding:12px 14px;font-size:16px;border:1px solid var(--line);border-radius:4px}
+.search button{padding:12px 20px;font-size:15px;background:var(--blue);color:#fff;border:0;border-radius:4px;cursor:pointer}
+#results{max-width:680px;margin:14px auto 0;text-align:left;font-size:14px}
+#results .hit{padding:8px 4px;border-bottom:1px solid #eee}
+#results .hit small{color:var(--mut)}
+.wrap{max-width:1060px;margin:0 auto;padding:30px 26px 60px}
+h2.sec{font-family:Georgia,serif;font-weight:400;font-size:1.5em;border-bottom:1px solid var(--line);padding-bottom:6px}
+.dgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:12px;margin:16px 0}
+.dcard{border:1px solid var(--line);border-radius:6px;padding:14px 16px;background:#fff}
+.dcard:hover{background:#f4f8ff}
+.dcard b{font-size:16px}.dcard .n{color:var(--mut);font-size:13px}
+.newlist{columns:2;font-size:14px;margin:8px 0}@media(max-width:700px){.newlist{columns:1}}
+.newlist div{break-inside:avoid;padding:3px 0}
+.newlist small{color:var(--mut)}
+.layers{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0}
+.layers a{border:1px solid var(--line);border-radius:4px;padding:6px 14px;font-size:14px;background:#f8f9fa}
+.gov{border:1px solid #c8ccd1;border-left:4px solid #72777d;background:#f8f9fa;padding:12px 16px;font-size:14px;margin:18px 0}
+.machine{font-size:13px;color:var(--mut)}
+.footer{border-top:1px solid var(--line);padding:16px 24px;color:var(--mut);font-size:12.5px;text-align:center}
+</style>"""
+
+
+def infobox_html(infobox: dict) -> str:
+    if not infobox:
+        return ""
+    rows = []
+    title = None
+    for k, v in infobox.items():
+        if k in ("name", "title") and isinstance(v, str) and title is None:
+            title = v
+        label = k.replace("_", " ").title()
+        if v is None:
+            val = "—"
+        elif isinstance(v, list):
+            val = "<br>".join(html.escape(str(x)) for x in v)
+        else:
+            val = html.escape(str(v))
+        rows.append(f"<tr><th>{html.escape(label)}</th><td>{val}</td></tr>")
+    head = f'<div class="ib-title">{html.escape(title)}</div>' if title else ""
+    return (f'<aside class="infobox">{head}<table>' +
+            "".join(rows) + "</table></aside>")
+
+
+def toc_html(rendered_body: str) -> str:
+    heads = re.findall(r'<h([23]) id="([^"]+)">(.+?)</h\1>', rendered_body)
+    if len(heads) < 4:
+        return ""
+    items = []
+    for level, aid, text in heads:
+        label = re.sub(r"<[^>]+>", "", text)
+        pad = " style='margin-left:14px'" if level == "3" else ""
+        items.append(f'<li{pad}><a href="#{aid}">{label}</a></li>')
+    return ('<nav class="toc" aria-label="Contents"><b>Contents</b><ul>' +
+            "".join(items) + "</ul></nav>")
+
+
+def connections_html(conns: list, linker: WikiLinker, page_key: str,
+                     pages: dict, page_dir: str) -> str:
+    if not conns:
+        return ""
+    blocks = []
+    for c in conns:
+        if not isinstance(c, dict):
+            continue
+        target = str(c.get("page", "")).strip()
+        ctype = str(c.get("type", "")).strip()
+        claim = str(c.get("claim", "")).strip()
+        key = norm_key(target)
+        page = pages.get(key)
+        if page is None:
+            linker.dead.append((page_key, target))
+            link = (f'<span class="deadlink" title="No such article: '
+                    f'{html.escape(key)}">{html.escape(target)}</span>')
+        else:
+            href = os.path.relpath(page["url"], page_dir or ".")
+            link = f'<a href="{html.escape(href, quote=True)}">{html.escape(page["title"])}</a>'
+        type_badge = f'<span class="ctype">{html.escape(ctype)}</span>' if ctype else ""
+        claim_html = f" — {inline(claim)}" if claim else ""
+        blocks.append(f'<div class="conn">{type_badge}<b>{link}</b>{claim_html}</div>')
+    if not blocks:
+        return ""
+    return "<h2>Connections</h2>\n" + "\n".join(blocks)
+
+
+def see_also_html(meta: dict, linker: WikiLinker, page_key: str,
+                  pages: dict, page_dir: str) -> str:
+    items: list[str] = []
+    for field in ("related", "synthesizes"):
+        vals = meta.get(field) or []
+        if isinstance(vals, str):
+            vals = [vals]
+        for v in vals:
+            v = str(v).strip()
+            if not v:
+                continue
+            key = norm_key(v)
+            page = pages.get(key)
+            if page is None:
+                linker.dead.append((page_key, v))
+                items.append(f'<li><span class="deadlink" title="No such article">{html.escape(v)}</span></li>')
+            else:
+                href = os.path.relpath(page["url"], page_dir or ".")
+                items.append(f'<li><a href="{html.escape(href, quote=True)}">'
+                             f'{html.escape(page["title"])}</a></li>')
+    if not items:
+        return ""
+    return "<h2>See also</h2>\n<ul>\n" + "\n".join(items) + "\n</ul>"
+
+
+def article_html(page: dict, linker: WikiLinker, pages: dict) -> str:
+    meta = page["meta"]
+    page_dir = os.path.dirname(page["url"])
+    body_src = linker.resolve(page["body"], page["key"], pages)
+    rendered = markdown(body_src)
+    rendered = linker.render_tokens(rendered, page["key"], pages, page_dir)
+
+    domain = str(meta.get("domain", "") or "")
+    ptype = str(meta.get("page_type", "") or "")
+    subtitle_bits = [b for b in (domain, ptype) if b]
+    aliases = meta.get("aliases") or []
+    if isinstance(aliases, str):
+        aliases = [aliases]
+    subtitle = " · ".join(subtitle_bits)
+    if aliases:
+        subtitle += " — also known as " + ", ".join(html.escape(str(a)) for a in aliases)
+
+    toc = toc_html(rendered)
+    conns = connections_html(meta.get("connections") or [], linker,
+                             page["key"], pages, page_dir)
+    see_also = see_also_html(meta, linker, page["key"], pages, page_dir)
+
+    tags = meta.get("tags") or []
+    if isinstance(tags, str):
+        tags = [tags]
+    tags_html = ""
+    if tags:
+        chips = "".join(f'<span class="tag">{html.escape(str(t))}</span>' for t in tags)
+        tags_html = f'<div class="tags">{chips}</div>'
+
+    foot_rows = []
+    for label, fkey in (("Status", "status"), ("Knowledge", "knowledge"),
+                        ("Importance", "importance"),
+                        ("Created", "date_created"), ("Modified", "date_modified")):
+        v = meta.get(fkey)
+        if v:
+            foot_rows.append(f"<dt>{label}</dt><dd>{html.escape(str(v))}</dd>")
+    dr0, dr1 = meta.get("date_range_start"), meta.get("date_range_end")
+    if dr0 or dr1:
+        foot_rows.append(f"<dt>Date range</dt><dd>{html.escape(str(dr0 or '?'))} → "
+                         f"{html.escape(str(dr1 or '?'))}</dd>")
+    sources = meta.get("sources") or []
+    if isinstance(sources, str):
+        sources = [sources]
+    if sources:
+        src_list = "".join(f"<li><code>{html.escape(str(s))}</code></li>" for s in sources)
+        foot_rows.append(f"<dt>Sources ({len(sources)})</dt><dd><ul>{src_list}</ul></dd>")
+
+    up = os.path.relpath("index.html", os.path.join("wiki", page_dir or "."))
+
+    return f"""<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{html.escape(page['title'])} — Wiki Brain</title>
+{CSS}</head>
+<body>
+<div class="mast"><b><a href="{html.escape(up, quote=True)}">Wiki Brain</a></b>
+<span class="crumb">{html.escape(domain)} / {html.escape(ptype)}</span></div>
+<div class="wrap">
+{infobox_html(meta.get("infobox") or {})}
+<h1>{html.escape(page['title'])}</h1>
+<p class="subtitle">{subtitle}</p>
+{toc}
+{rendered}
+{conns}
+{see_also}
+{tags_html}
+<div class="clear"></div>
+<div class="metafoot"><dl>
+{"".join(foot_rows)}
+</dl></div>
+</div>
+<div class="footer">Wiki Brain article · {html.escape(page['key'])} ·
+<a href="{html.escape(up, quote=True)}">front page</a></div>
+</body></html>
+"""
+
+
+# --------------------------------------------------------------------------
+# Front page, domain indexes, search index
+# --------------------------------------------------------------------------
+
+def front_page(pages: list[dict], counts: dict[str, int]) -> str:
+    newest = sorted(pages, key=lambda p: str(p["meta"].get("date_modified") or ""),
+                    reverse=True)[:12]
+    new_items = "\n".join(
+        f'<div><a href="wiki/{p["url"]}">{html.escape(p["title"])}</a> '
+        f'<small>{html.escape(str(p["meta"].get("date_modified") or ""))} · '
+        f'{html.escape(str(p["meta"].get("domain") or ""))}</small></div>'
+        for p in newest)
+
+    cards = "\n".join(
+        f'<a class="dcard" href="domains/{d}.html"><b>{d.title()}</b><br>'
+        f'<span class="n">{counts.get(d, 0)} articles</span></a>'
+        for d in DOMAINS if counts.get(d))
+
+    layers = " ".join(
+        f'<a href="layer-{i}.html">Layer {i}</a>' for i in range(6))
+
+    return f"""<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wiki Brain</title>
+{FRONT_CSS}</head>
+<body>
+<div class="hero">
+<h1>Wiki Brain</h1>
+<p>{len(pages)} articles · people, timeline, places, work, mind, legal, health, interests, self, meta</p>
+<div class="search">
+<input id="q" type="search" placeholder="Search {len(pages)} articles…" autocomplete="off">
+<button onclick="doSearch()">Search</button>
+</div>
+<div id="results"></div>
+</div>
+<div class="wrap">
+<h2 class="sec">Browse by domain</h2>
+<div class="dgrid">{cards}</div>
+<h2 class="sec">Newest articles</h2>
+<div class="newlist">{new_items}</div>
+<h2 class="sec">The evidence layers</h2>
+<p style="color:var(--mut);font-size:14px">The kb/ knowledge graph underneath the
+articles — nodes, typed edges and the layer rule
+("a node may cite only nodes at a strictly lower layer").</p>
+<div class="layers">{layers}</div>
+<div class="gov"><b>Governance.</b> Articles are written from primary evidence
+(raw messages, exports, documents). Confidence and knowledge state are labeled
+on every article; the evidence layers carry the fine-grained citation graph.</div>
+<p class="machine">Machine-readable: <a href="llms.txt">llms.txt</a> ·
+<a href="graph.json">graph.json</a> · <a href="wiki-index.json">article index</a></p>
+</div>
+<div class="footer">Wiki Brain — {len(pages)} articles rendered from wiki/</div>
+<script>
+let IDX=[];
+fetch('wiki-index.json').then(r=>r.json()).then(j=>{{IDX=j;}});
+const box=document.getElementById('q'), res=document.getElementById('results');
+function doSearch(){{
+  const q=box.value.trim().toLowerCase();
+  if(q.length<2){{res.innerHTML='';return;}}
+  const hits=IDX.filter(e=>(e.t+' '+(e.a||[]).join(' ')+' '+(e.g||[]).join(' ')).toLowerCase().includes(q)).slice(0,15);
+  res.innerHTML=hits.length
+    ? hits.map(h=>'<div class="hit"><a href="wiki/'+h.u+'">'+h.t+'</a> <small>'+h.d+' · '+h.y+'</small></div>').join('')
+    : '<div class="hit">No matches.</div>';
+}}
+box.addEventListener('input',doSearch);
+</script>
+</body></html>
+"""
+
+
+def domain_page(domain: str, pages: list[dict]) -> str:
+    rows = "\n".join(
+        f'<div><a href="../wiki/{p["url"]}">{html.escape(p["title"])}</a> '
+        f'<small>{html.escape(str(p["meta"].get("page_type") or ""))} · '
+        f'{html.escape(str(p["meta"].get("date_modified") or ""))}</small></div>'
+        for p in sorted(pages, key=lambda p: p["title"].lower()))
+    return f"""<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{domain.title()} — Wiki Brain</title>
+{FRONT_CSS}</head>
+<body>
+<div class="wrap">
+<p><a href="../index.html">Wiki Brain</a> / {html.escape(domain)}</p>
+<h1 style="font-family:Georgia,serif;font-weight:400">{domain.title()}
+<small style="font-size:.5em;color:var(--mut)">{len(pages)} articles</small></h1>
+<div class="newlist">{rows}</div>
+</div>
+<div class="footer"><a href="../index.html">Wiki Brain front page</a></div>
+</body></html>
+"""
+
+
+# --------------------------------------------------------------------------
+# Loading
+# --------------------------------------------------------------------------
+
+def collect_targets(pages: list[dict]) -> set[str]:
+    """All wiki/ link targets referenced by bodies and frontmatter lists."""
+    targets: set[str] = set()
+
+    def add(raw: str) -> None:
+        tmp = raw.replace("\\|", "\x00PIPE\x00")
+        t = tmp.split("|", 1)[0].split("\x00PIPE\x00", 1)[0]
+        t = t.replace("\x00PIPE\x00", "|").strip()
+        t = t.split("#", 1)[0].strip()
+        if t.startswith("wiki/"):
+            targets.add(norm_key(t))
+
+    for p in pages:
+        for m in WIKILINK_RE.finditer(p["body"]):
+            add(m.group(1))
+        for m in MDLINK_RE.finditer(p["body"]):
+            if m.group(2).startswith(("wiki/", "/wiki/")):
+                add(m.group(2))
+        meta = p["meta"]
+        for c in meta.get("connections") or []:
+            if isinstance(c, dict) and str(c.get("page", "")).strip():
+                add(str(c["page"]))
+        for field in ("related", "synthesizes"):
+            vals = meta.get(field) or []
+            if isinstance(vals, str):
+                vals = [vals]
+            for v in vals:
+                if str(v).strip():
+                    add(str(v))
+    return targets
+
+
+def directory_index_page(key: str) -> dict | None:
+    """Auto-generated listing page for a linked directory with no index page."""
+    rel = key[len("wiki/"):]
+    d = WIKI / rel
+    if not rel or not d.is_dir():
+        return None
+    kids = sorted(c.stem for c in d.iterdir() if c.suffix == ".md")
+    subs = sorted(c.name for c in d.iterdir() if c.is_dir())
+    lines = [f"This section of the wiki has no index article of its own. "
+             f"Pages filed under **{rel}**:"]
+    lines += [f"- [[wiki/{rel}/{k}]]" for k in kids]
+    if subs:
+        lines.append("")
+        lines.append("Subsections:")
+        lines += [f"- [[wiki/{rel}/{s}]]" for s in subs]
+    return {
+        "key": key,
+        "url": rel + ".html",
+        "title": prettify(rel.split("/")[-1]) + " — index",
+        "meta": {"domain": rel.split("/")[0], "page_type": "index",
+                 "status": "generated"},
+        "body": "\n".join(lines),
+    }
+
+
+def load_pages() -> list[dict]:
+    pages = []
+    for path in sorted(WIKI.rglob("*.md")):
+        rel = path.relative_to(WIKI)
+        key = "wiki/" + str(rel.with_suffix(""))
+        text = path.read_text(encoding="utf-8")
+        m = re.match(r"^---\n(.*?)\n---\n(.*)$", text, re.S)
+        if m:
+            fm_text, body = m.group(1), m.group(2)
+            # A few files have body blockquotes inserted inside the
+            # frontmatter segment; lift them back to the top of the body.
+            fm_lines, prefix = [], []
+            for line in fm_text.split("\n"):
+                (prefix if line.strip().startswith(">") else fm_lines).append(line)
+            try:
+                meta = parse_frontmatter("\n".join(fm_lines))
+            except FMError as e:
+                print(f"warn: frontmatter parse failed for {key}: {e}", file=sys.stderr)
+                meta, prefix = {}, []
+            body = "\n".join(prefix + [body])
+        else:
+            meta, body = {}, text
+        if not isinstance(meta, dict):
+            meta = {}
+
+        title = str(meta.get("title") or "").strip()
+        if not title:
+            hm = re.search(r"^#\s+(.+)$", body, re.M)
+            title = hm.group(1).strip() if hm else prettify(rel.stem)
+
+        pages.append({
+            "key": key,
+            "url": str(rel.with_suffix(".html")),
+            "title": title,
+            "meta": meta,
+            "body": body,
+        })
+    return pages
+
+
+# --------------------------------------------------------------------------
+# Main
+# --------------------------------------------------------------------------
+
+def main() -> int:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--out", default="site",
+                    help="output directory (default: site)")
+    args = ap.parse_args()
+    out = pathlib.Path(args.out)
+    out.mkdir(parents=True, exist_ok=True)
+
+    pages = load_pages()
+    by_key = {p["key"]: p for p in pages}
+
+    # Auto-generate index pages for linked directories that have no page
+    # of their own (e.g. [[wiki/interests/music]]); iterate because a
+    # generated index can itself link to subdirectories.
+    while True:
+        new = [directory_index_page(k)
+               for k in sorted(collect_targets(pages) - set(by_key))]
+        new = [d for d in new if d is not None]
+        if not new:
+            break
+        pages.extend(new)
+        by_key.update({d["key"]: d for d in new})
+
+    dupes = len(pages) - len(by_key)
+    if dupes:
+        print(f"warn: {dupes} duplicate page keys", file=sys.stderr)
+
+    linker = WikiLinker()
+    wiki_dir = out / "wiki"
+    for p in pages:
+        dest = wiki_dir / p["url"]
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        dest.write_text(article_html(p, linker, by_key), encoding="utf-8")
+
+    # Search index
+    index = []
+    for p in pages:
+        meta = p["meta"]
+        tags = meta.get("tags") or []
+        aliases = meta.get("aliases") or []
+        if isinstance(tags, str):
+            tags = [tags]
+        if isinstance(aliases, str):
+            aliases = [aliases]
+        index.append({
+            "u": p["url"],
+            "t": p["title"],
+            "d": str(meta.get("domain") or ""),
+            "y": str(meta.get("page_type") or ""),
+            "m": str(meta.get("date_modified") or ""),
+            "g": [str(t) for t in tags],
+            "a": [str(a) for a in aliases],
+        })
+    (out / "wiki-index.json").write_text(json.dumps(index), encoding="utf-8")
+
+    # Domain indexes
+    counts: dict[str, int] = {}
+    dom_dir = out / "domains"
+    dom_dir.mkdir(exist_ok=True)
+    for d in DOMAINS:
+        dp = [p for p in pages if str(p["meta"].get("domain") or "") == d]
+        counts[d] = len(dp)
+        if dp:
+            (dom_dir / f"{d}.html").write_text(domain_page(d, dp), encoding="utf-8")
+
+    # Front page (replaces the kb overview; layer pages stay linked)
+    (out / "index.html").write_text(front_page(pages, counts), encoding="utf-8")
+
+    # Dead-link report
+    dead = sorted(set(linker.dead))
+    if dead:
+        print(f"\ndead wikilinks: {len(dead)}", file=sys.stderr)
+        for frm, tgt in dead:
+            print(f"  {frm} -> [[{tgt}]]", file=sys.stderr)
+    print(f"rendered {len(pages)} articles -> {out}/wiki/ "
+          f"({len(dead)} dead wikilinks, {len(set(linker.raw_refs))} raw refs)")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

@@ -44,6 +44,9 @@ jobs:
       - name: Build the site
         run: python3 bin/wb-build
 
+      - name: Render the wiki/ article corpus
+        run: python3 bin/wb-wiki
+
       # The 497-page snapshot of the prior wiki, rendered browsable. Its source
       # is tracked (raw/old-wiki-export-2026-09-04/whole.txt), so this runs
       # everywhere the repo does.
