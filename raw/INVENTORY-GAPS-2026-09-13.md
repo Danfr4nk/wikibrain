@@ -249,20 +249,52 @@ overstates coverage:
 | `twitter/` | `tweets_sample_2019-2026.txt` — a **sample**, superseded by `raw/twitter/` |
 | `takeout-index/` | An index HTML, not the archives it indexes |
 | `chatgpt-export/` | 1 file, 2022–2025 — overlaps `raw/chatgpt/` at unknown margin |
-| `misc-zip/` | `Archive 2.zip`, 14 MB, **unexpanded and uncharacterised** |
+| `misc-zip/` | `Archive 2.zip`, 13.7 MB — **opened 2026-09-13; see below. Not thin at all.** |
 
-`misc-zip/Archive 2.zip` is the only fully unknown object in the archive.
+**`Archive 2.zip` was the only unknown object in the archive, and it was the
+one that mattered.** Opened 2026-09-13, it holds seven files:
+
+```
+ 28905037  2025-08-11 05:01   all_imessages_complete_dump.txt
+  4686481  2025-08-11 05:02   all_imessages_part_aa.txt
+  … through part_af
+```
+
+`all_imessages_complete_dump.txt` is, byte-for-byte by name and size, the
+**28.9 MB file G9 records as BLOCKED behind a Drive sharing change on
+`dox-scan/`** — the one `raw/SOURCES.md` calls the decisive test for
+`pat:reasoning-sound-provenance-unreliable`'s main falsifier. It has been
+tracked in this repository since the 2026-09-11 Drive sweep, compressed, while
+being recorded as unreachable.
+
+Extracted and verified: 217,573 dated records, 2011-03-18 → 2025-08-11,
+sha256 `0512212efbb86d41…`, clean of `xai-*` and `AKIA*` credentials.
+
+Filed as `src:imessage-complete-dump-2025-08-11`. The falsifier test it gates
+was run; the result is [`dat:1502`](../kb/data/1502-corpus-coverage-hole-2025.md)
+— all four quotes present, and the authoritative corpus missing 88,311 messages
+the dump holds over the window both cover. **G9's decisive test is no longer
+blocked on anything.**
 
 ### G9 — Documented-but-unreachable material
 
 `raw/SOURCES.md` records Drive folders still not pulled. Still true:
 
-- `dox-scan/` / `dox-md/` — **blocked, needs one sharing change.**
-  `all_imessages_complete_dump.txt` is 28.9 MB: past the connector's 10 MB
-  limit, and anonymous HTTPS returns a sign-in page. This is the stated
-  decisive test for `pat:reasoning-sound-provenance-unreliable` — whether four
-  unverifiable quotes live in this dump. One permission change settles it and
-  it has not been made.
+- ~~`dox-scan/` / `dox-md/` — **blocked, needs one sharing change.**~~
+  **Closed 2026-09-13 — and it was never actually blocked.** The Drive copy of
+  `all_imessages_complete_dump.txt` is still behind a sign-in page, but the
+  same 28.9 MB file was already tracked in this repository inside
+  `raw/drive-sweep/20260911/misc-zip/Archive 2.zip` (see G8). The stated
+  decisive test for `pat:reasoning-sound-provenance-unreliable` ran against it:
+  **all four quotes are present**, and the corpus is missing 88,311 messages
+  the dump holds. Filed as `src:imessage-complete-dump-2025-08-11` and
+  [`dat:1502`](../kb/data/1502-corpus-coverage-hole-2025.md).
+
+  The lesson generalises past this one file. The reachability map in
+  `SOURCES.md` was written per-source, from where each artifact was *first*
+  found, and never re-checked against the tree after a bulk sweep landed.
+  A source recorded as unreachable in Drive is not evidence it is unreachable
+  — **grep the archive before believing the map.**
 - `gemini-activity/`, `youtube-watch-history/`, `concerts/`, `captures/`,
   `gmail-captures/` — recorded as unassessed. Still unassessed.
 - The 82 MB Facebook zip remains private and past the connector's export limit.
@@ -276,13 +308,13 @@ blocked on an action only Dan can take; everything below it is work.
 
 | # | Gap | Cost to close | Why it ranks here |
 | :-- | :--- | :--- | :--- |
-| 1 | **G2 + G9** One Drive folder is private | **One sharing change** | Two gaps, one action. Opens the 17.8 MB takeout zip (Search + Chrome history) *and* `dox-scan/`, which is the stated decisive falsifier test for `pat:reasoning-sound-provenance-unreliable` |
+| 1 | **G2** Takeout zip is private | **One sharing change** | Opens the 17.8 MB zip holding the un-ingested Search + Chrome history. *G9's half of this is already closed — the dump was in the repo; see G8.* |
 | 2 | **G4** Location dead since 2024-05 | One Timeline export | Removes independent corroboration from the entire period the recent work is about |
 | 3 | **G3** xAI keys unrotated | Rotate | Live credentials, flagged 2026-09-12, still live |
 | 4 | **G1** RAWLOGS/wikibrain layout conflict | **A decision, then 23 moves + tooling** | Every enumeration of the backup repo is a third of the archive. Not actionable until the convention is settled — see G1 |
 | — | — | — | — |
 | 5 | **G6/G5** Wrong stated ranges, stale exports | Correct `SOURCES.md`; re-export IG/ChatGPT | Causes confidently-scoped analysis over data that isn't there — or skips data that is. *Metadata half done 2026-09-13* |
-| 6 | **G8** `Archive 2.zip` uncharacterised | `unzip -l` | Only unknown object in the archive |
+| ✓ | **G8** `Archive 2.zip` uncharacterised | *Done 2026-09-13* | Held the 28.9 MB dump G9 called unreachable. See G8 and `dat:1502` |
 | ✓ | **G2** (partial) 3 large files | *Done 2026-09-13* | 117 MB restored by native push; API ceiling ≠ git ceiling |
 
 ## 5. What this audit did not verify
