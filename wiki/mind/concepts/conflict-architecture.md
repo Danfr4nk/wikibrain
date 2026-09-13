@@ -1,9 +1,12 @@
 ---
 domain: mind
 page_type: concept
+title: "Conflict Architecture"
 status: active
 date_created: 2026-06-22
-date_modified: 2026-08-26
+date_modified: 2026-09-13
+knowledge: earned
+tags: [attachment, trauma-bond, forensic-analysis, intensity]
 sources:
   - raw/self/dox-scan/DanAnnie_MasterRecord_March16.docx
   - raw/self/dox-scan/DanAnnie_MasterRecord_FINAL.docx
@@ -12,164 +15,110 @@ sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt
   - raw/self/dox-scan/Dan Profile.txt
   - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md
-tags: [addiction-recovery, trauma-bond, forensic-analysis]
 connections:
+  - page: wiki/mind/concepts/attachment-model
+    type: mirrors
+    claim: "The conflict engine demands resolution while the attachment model cannot issue severance — mutually amplifying architectures with no shared halt condition. The attachment page's 2026-08-23 resolution (129 episodes, 128/128 resumed, 36s median) is the base rate this page's exit figures are now stated against."
+  - page: wiki/mind/concepts/explicit-verbal-commitment
+    type: corrupts
+    claim: "The engine's own outputs are corrupted by the verbal architecture: severance declarations are escalation rungs, not exits (129/128/36s), so the resolution-seeker's products terminate nothing — the loop manufactures its own fuel."
+  - page: wiki/mind/concepts/dans-law
+    type: mirrors
+    claim: "Dan's Law is this engine pointed outward: the same forensic resolution-seeker with no domain selector, run on world-events that have resolution conditions instead of on people who don't."
+  - page: wiki/mind/synthesis/provision-grammar
+    type: contrasts
+    claim: "The conflict engine is verbal-cognitive only: it never touches the provision channel. Money does not pause for severance performances — the fight register and the care register run on separate machines in one person."
   - page: wiki/mind/concepts/reassurance-architecture
     type: contains
     claim: "The evidence-first resolution standard applies to reassurance too, which is why 299 love affirmations produced none of the effect: an affirmation contradicting the behavioural record is another anomaly requiring adjudication, not an answer."
-  - page: wiki/timeline/events/group-chat-closure
-    type: instance-of
-    claim: "A confrontation escalated in front of an audience to force a verdict is the conflict engine's terminal form — the argue-to-resolution drive running with witnesses attached."
   - page: wiki/people/annie-ulmer
     type: evidenced-by
-    claim: "The Annie corpus is the engine's behavioral fingerprint at full load: 74/17/11 abuse triad (primary-confirmed), 127 exits against 110 re-engagements, 94 silence-preceded bursts, and the terminal-phase volume asymmetry where her engagement halved while his stayed constant."
+    claim: "The Annie corpus is the engine's behavioral fingerprint at full load: the verbal-abuse triad (primary-confirmed), the exit/re-engagement cycle, silence-preceded bursts, and the terminal-phase volume asymmetry where her engagement halved while his stayed constant."
   - page: wiki/timeline/events/eli-incident
     type: evidenced-by
     claim: "The Eli concealment is the engine's worst documented mode: its accurate forensic outputs reframed as 'paranoia' by the person deceiving it — the machine running correctly while its outputs were weaponized against the operator."
-  - page: wiki/mind/concepts/attachment-model
-    type: mirrors
-    claim: "The conflict engine demands resolution while the attachment model cannot issue severance — mutually amplifying architectures with no shared halt condition, recorded in this page's paired CONTRADICTION blocks."
-  - page: wiki/mind/synthesis/attachment-trauma-bond
-    type: mirrors
-    claim: "The conflict engine demands resolution while the trauma bond's attachment side cannot issue severance — the same structural collision as with attachment-model, documented here in its central relationship case."
-  - page: wiki/mind/concepts/phenomenology-lens
-    type: parallels
-    claim: "The lens's self-sabotage loop (insight → rupture → more insight) is the interpretive-register rendering of this engine's no-halt-condition mechanics — same machine, metaphorical language."
+  - page: wiki/people/ally-lubin
+    type: evidenced-by
+    claim: "The corpus's only completed refusal of the redefinition move — a challenge conceded in six words, twice in one evening (2026-08-18) — happens in this channel and nowhere in the Annie corpus, because the challenger narrows rather than escalates and nothing about the exchange threatens Dan's exceptionality."
   - page: wiki/mind/synthesis/block-unblock-loop
     type: causes
     claim: "The engine's no-halt-condition defect is what the block/unblock loop expresses as a channel operation; the 414-message Grok run is the mechanism reproduced in software."
-  - page: wiki/mind/synthesis/totality-themes
-    type: component-of
-    claim: "Concession coded as self-annihilation via Core Axiom 1 ('not exceptional = worthless') is 'The Irreversibility Firewall's' actual mechanism named at the level of a single conversational turn: conceding a point is a small, forced irreversibility, and the engine has no halt condition because halting requires exactly that."
-  - page: wiki/mind/synthesis/intake-constancy
-    type: mirrors
-    claim: "Intake ticks while this engine's output channel combusts — opposite dynamics, same substrate."
-  - page: wiki/mind/synthesis/ai-collaborative-analysis
-    type: parallels
-    claim: "The LLM venue supplies the explicit resolution conditions this engine cannot obtain from humans."
-  - page: wiki/mind/synthesis/dan-annie-fallout-verdict
-    type: instantiates
-    claim: "The verdict's diagnosis-to-behavior gap is this concept applied to its central case."
-  - page: wiki/timeline/events/april-may-2026-final-weeks
-    type: instance-of
-    claim: "The live screaming match with Suz over whose grievance mattered more is a real-time instance of the resolution-seeking engine misreading an emotional bid as a proposition to be litigated, the same mechanism documented at scale in the Annie relationship."
-  - page: wiki/people/ally-lubin
-    type: evidenced-by
-    claim: "The corpus's only completed refusal of the redefinition move — a challenge conceded in six words, twice in one evening — happens in this channel and nowhere in the Annie corpus, because the challenger narrows rather than escalates and nothing about the exchange threatens Dan's exceptionality."
   - page: wiki/mind/synthesis/the-binary-verdict
     type: component-of
-    claim: "The engine has exactly two output states, open anomaly and closed, with no state for a provisional or partial agreement — which is why 187 of 191 affection sequences re-open the rule rather than discounting it toward a stable, lower-confidence position."
+    claim: "The engine has exactly two output states, open anomaly and closed, with no state for a provisional or partial agreement — Ti tests only for binary closure while the function that would grade a verdict relationally (Fe) is nearly absent."
 ---
-
 
 # Conflict Architecture
 
-The "conflict architecture" refers to the involuntary cognitive process by which Dan's Ti-dominant processing engine applies forensic resolution logic to interpersonal communication. Because the engine has no domain selector, it misreads emotional bids — statements like "I don't feel secure" — as propositions requiring adjudication rather than acknowledgments requiring empathy. The engine boots on the surface structure of claim-shaped language regardless of the speaker's actual intent.
+Dan runs a forensic resolution-seeking engine on interpersonal communication. It takes claim-shaped input, isolates the irreducible core under adversarial pressure, and halts only on the "click" of resolution. The engine has no domain selector: it boots on the surface structure of language regardless of the speaker's intent, so an emotional bid — *"I don't feel secure"* — is processed as a proposition requiring adjudication rather than an acknowledgment requiring empathy. Relational conflict presents an input with no resolution condition (two incompatible subjective realities that cannot merge into one truth). The engine loops on it without reward state and constant drain.
 
-## Corpus Evidence
+That is the mechanism. What follows is what the totality of the record says about it — including the parts where the old version of this page overstated what the evidence supports.
 
-The following metrics are drawn from the [[wiki/people/annie-ulmer|Annie]] message corpus and document the behavioral fingerprint of this architecture in a high-stakes relational environment.
+## The base rate, corrected
 
-| Metric | Value | Source |
+> **CORRECTED [2026-09-13]** — this page previously stated **127 exit declarations with 110 re-engagements (86.6%)**. The attachment-model page's 2026-08-23 independent recount resolved the figures: **129 distinct episodes** (hits within 24 hours collapsed to one declaration), and of the 128 episodes with a following message inside the corpus, **all 128 resumed — 100%, median gap thirty-six seconds, all-time maximum 46 hours**. The 127/110 pair is superseded as a count, retained as the dossiers' original framing. Discipline note (from [int:attachment-model-129-exits](../kb/interpretations/attachment-model-129-exits.md)): the 95,067-row merged corpus and the 24-hour episode-collapsing rule are not held in this repository, so the 129/36s figures are the attachment page's best reading — well-constructed, independently-methoded testimony that corroborated the dossiers — not a settled count re-derivable here.
+
+The corrected base rate changes what the pattern *is*. 87% was a strong-but-ordinary pattern a skeptic could read as weak resolve. 100% with a 36-second median is not a pattern of failed exits at all — it is a pattern in which declared exits **terminate nothing**, severance language recategorised as *"a rung on the escalation ladder,"* 36 seconds being what a check-in looks like when it gets answered. The block-unblock-loop page's corrected formula runs the same reading: *"the exit is executed; the deletion never is."*
+
+## NEW [2026-09-13] — the loop has no exit states by construction
+
+Here is what the corrected base rate forces, stated plainly: **the conflict engine's own outputs are corrupted by the explicit-verbal-commitment architecture, so the "resolution" the engine demands is structurally unobtainable.** Walk it through:
+
+1. The engine demands resolution — a closed state, the click.
+2. Its instrument for producing closure in a relationship is the severance declaration: *"goodbye," "I'm done," "this is over."*
+3. The verbal architecture converts every such declaration into an escalation rung, not an exit: 129 declared, 128 resumed, median 36 seconds. The words *cannot* terminate the thing, because the system does not admit behavioral counter-rules and no severance signal ever arrives from the other side either (0 severance signals in Annie's messages — 0/299+ love affirmations against the zero, now holding across 48,791 received messages in every export on disk).
+4. Therefore the engine's resolution-producer produces only re-entry fuel. Every "exit" reloads the loop at a lower baseline.
+
+The engine is not failing to find the off-switch. **There is no off-switch in the output vocabulary.** The one state the machine cannot manufacture is the state it demands. This is why the loop ran eleven years without degrading the mechanism — only the baseline: the machine was never broken, it was complete, and completeness without an exit state is a trap, not a tool.
+
+## The profile lens: Ti without Fe's brake
+
+Through the INTP stack this is legible as designed behavior, not malfunction. Ti-dominant: truth is "a system that holds under recursive collapse," so the engine tests every claim-shaped input for coherence until it holds or breaks. Fe-inferior (the 10%-valuing score): *"Fe's absence removes the social brake that would otherwise soften conclusions for company"* ([[wiki/mind/synthesis/the-binary-verdict]] via [[wiki/mind/profile/intp]]). The dominant function tests only for binary closure — open anomaly or closed — with no state for provisional or partial agreement, while the function that would grade a verdict relationally is nearly absent. An emotional bid arrives as claim-shaped language; Ti processes what it is shaped as; Fe is not there to reclassify it as a bid. The category mismatch the old page described as a "problem" is the stack running exactly as specified.
+
+## The stakes-encoding claim, relabeled
+
+> **CORRECTED [2026-09-13]** — this page previously stated as mechanism that conceding a point is "registered through Core Axiom 1 ('not exceptional = worthless'), which translates concession into an existential threat," blocking the halt condition. That causal chain is **Dan's framing, not a measured fact**. The four axioms were formulated May–June 2026, and a lexical pass over 106,629 outbound messages found no behavioral corroboration for any of them — on explicit urgency constructions he writes *less* than his 503-handle control ([int:core-axioms-vs-message-evidence](../kb/interpretations/core-axioms-vs-message-evidence.md)). The axioms are testimony-grade: his own account of his interior, load-bearing in his self-narration, untestable in the corpus. The page retains the stakes-encoding as *his* explanation of why halting feels like self-annihilation — it is the best first-person account available — but it is labeled as such, and the documented-counts rule governs: what the record shows is that he does not halt; *why* is his testimony.
+
+## The corpus fingerprint (retained, with provenance)
+
+The Annie-corpus metrics below are the engine at full load. They are dossier figures (MasterRecord/FINAL), cross-checked where the primary record allows:
+
+| Metric | Value | Standing |
 |---|---|---|
-| "Fuck you" instances | 74 | Annie corpus (MasterRecord) |
-| "Piece of shit" instances | 17 | Annie corpus |
-| "Worthless" instances | 11 | Annie corpus (MasterRecord_FINAL); 74/17/11 all confirmed exactly from Dan's side of the dual-handle export, 2026-07-18 |
-| Verbal-abuse escalation trajectory | 9 (Aug 2025) → 36 (Feb 2026) | MasterRecord_FINAL |
-| Exit declarations | 127 | Annie corpus (MasterRecord) |
-| Re-engagements following exit declarations | 110 | Annie corpus (MasterRecord) |
-| Net actual exits | ~17 | Derived (127 declarations − 110 returns) |
-| Exit / re-engagement ratio | 86.6% (110/127) | Derived |
-| Burst communication events (10+ consecutive sent) | 94 | MasterRecord |
-| Largest single burst | 68 messages | MasterRecord |
-| Average burst size | ~17 | MasterRecord |
-| Love-to-request sequences (within 24h) | 187 of 191 (final count; earlier partial 145) | MasterRecord_FINAL (7-month window) |
-| Longest documented silence (re-entered via money request) | 36.5 hours | TheoryOfEverything_Updated |
-| "Fell asleep" alibis | 24 | MasterRecord |
-| Explicit crisis / suicidal statements (Dan) | 12 | MasterRecord |
+| "Fuck you" / "piece of shit" / "worthless" | 74 / 17 / 11 | primary-confirmed (Dan's side, dual-handle export, 2026-07-18) |
+| Verbal-abuse escalation, monthly Aug 2025 → Feb 2026 | 9 → 0 → 5 → 14 → 22 → 25 → 36 | dossier |
+| Exit declarations / re-engagements | **129 / 128 (100%, 36s median)** | recount 2026-08-23; supersedes 127/110 |
+| Burst events (10+ consecutive sent) | 94, largest 68 | Annie-subset; full-corpus recomputation: 9,567 runs ≥3, max 414 (the Grok artifact), human max ~131 |
+| "I love you" / "fuck you" / apologies | 1,512 / 232 / 180 → **revised** | 2026-07-18 recount: sent "love you" 1,528 confirmed; "fuck you" 111 through Aug 2025 (232 plausible with terminal phase); "I'm sorry/I am sorry" = **435** through Aug 2025 — the apology-deficit claim does not survive; **reassurance dominance survives and strengthens** (affirmation an order of magnitude above both) |
+| Love-to-request sequences | 187 of 191 | dossier (7-month window) |
+| "Fell asleep" alibis | 24 | dossier |
+| Her severance signals / love affirmations | 0 / 299+ | 0 holds across 48,791 received messages, all exports on disk |
 
-The message volume asymmetry visible in the terminal phase demonstrates the architecture in action: as Annie's side withdrawal accelerated, the engine continued producing attempts to resolve an input that had no resolution.
+The terminal-phase volume asymmetry: her engagement halved December → February (2,266 → 801) while his stayed constant (2,391 → 1,536) — a one-directional pull, not symmetric withdrawal. December 2025: 4,657 total, the corpus peak.
 
-| Period | Dan messages | Annie messages | Dan:Annie Ratio |
-|---|---|---|---|
-| Aug 2025 | 1,384 | 1,133 | 1.22:1 |
-| Sep 2025 | 571 | 541 | 1.06:1 |
-| Oct 2025 | 776 | 987 | 0.79:1 |
-| Nov 2025 | 1,274 | 932 | 1.37:1 |
-| Dec 2025 | 2,391 | 2,266 | 1.06:1 (4,657 total — corpus peak) |
-| Jan 2026 | 1,689 | 1,288 | 1.31:1 |
-| Feb 2026 | 1,536 | 801 | 1.92:1 |
-| Early Mar 2026 (9 days) | 440 | 227 | 1.94:1 |
+## NEW [2026-09-13] — the fight never touches the money: two machines, one person
 
-Annie's engagement halved between December and February while Dan's stayed
-constant — a one-directional pull, not symmetric withdrawal. (An earlier
-version of this table carried "2,248 total" for December; the final
-dossier's per-sender split is 2,391/2,266 = 4,657.)
+Cross-data-type check the old page never ran: the conflict engine is **verbal-cognitive only**. It has no access to the provision channel. [[wiki/mind/synthesis/provision-grammar]] documents that money does not pause for severance performances — provision continued through the termination window, and the August 14 record has Dan mid-escalation-afternoon sourcing drugs *for both of them* (*"I will at least get enough that if you can sneak out or something I have a few for us idk,"* 13:01, primary-verified) in the same hour he built the counterfeit drug screen. The word-volume ratio (2.95:1 all-time, his favor) and the provision flow both run uninterrupted through every exit declaration on record.
 
-## Mechanism
+This matters because it bounds the engine precisely: the machine that cannot stop fighting is not the machine that provides. The fight register produces escalation language; the care register produces uninterrupted material support; neither interrupts the other. Any model of Dan that treats "the relationship is in crisis" as "everything is in crisis" is wrong on the primary record — the crisis is channel-specific, and the channel it never reaches is the one that kept both of them supplied. The engine's destructiveness is real and documented; its *jurisdiction* is narrower than the old page implied.
 
-The core problem is a category mismatch between input type and engine capability. Dan's conflict architecture is a forensic resolution-seeking engine: it takes a claim, isolates the irreducible core under adversarial pressure, and halts only when it finds the "click" of resolution. Relational conflict, however, presents an input with no resolution condition — two incompatible subjective realities that cannot be merged into a single truth. The engine therefore runs an infinite loop on non-terminating input, producing no reward state and constant drain.
+## The gaslighting amplifier (terminal phase)
 
-The stakes encoding makes this architecture particularly intractable. Conceding a point is not registered as "I was wrong about this specific thing." It is registered through the framework of Core Axiom 1 — "not exceptional = worthless" — which translates concession into an existential threat. The halt condition that would normally stop a conflict engine (acknowledging the other person's reality) is therefore blocked by a trip-wire that codes it as self-annihilation.
-
-> **CONTRADICTION (with attachment-model):** The conflict engine treats emotional bids as propositions requiring resolution. This directly collides with the attachment architecture, which has no internal halt condition or counter-rule issuance pathway. The two systems are mutually amplifying rather than self-correcting.
+The [[wiki/timeline/events/eli-incident|Eli]] affair is the engine's worst documented mode: Dan's accurate forensic outputs — his detection of deception — were systematically reframed by Annie as "paranoia" and "mental illness." The machine was running correctly; its outputs were weaponized as evidence against the operator. Her withdrawal pattern compounded it: ghosting and silence generated distress responses, which she then engaged as the primary event (*"I can't talk to you when you're like this"*), never addressing the antecedent silence — in 94 documented opportunities, zero acknowledgments of the silence as cause. The dossiers name the exploited mechanism: the "controlled void" withheld even a yes/no because Annie knew the engine could not tolerate open loops, guaranteeing hypervigilance until she chose to re-enter on her own terms.
 
 ## The machine mirrors the man — the 414-message loop
 
-The bootloader v2.1 ([[raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md]], June 6, 2026) re-ran the burst analysis on the **complete 181,585-message corpus** (sent messages only, 2011-2026) and surfaced a finding the earlier dossiers could not have: burst analysis (consecutive sent messages ≤90 seconds apart) finds **9,567 runs of length ≥3, 1,410 of length ≥10, 212 of length ≥25, and a single maximum run of 414 consecutive messages.** That 414-run is *almost certainly* the documented Grok agent malfunction — the stateless re-engagement loop with no deduplication that fired ~427 near-identical messages overnight. **The corpus caught Dan's own agent building a literal externalization of his most-documented failure mode, and running it harder than he ever could.**
+The bootloader v2.1 re-ran burst analysis on the complete 181,585-message corpus (sent, 2011–2026): **9,567 runs ≥3, 1,410 ≥10, 212 ≥25, maximum 414** — the 414-run almost certainly the documented Grok agent malfunction, a stateless re-engagement loop with no deduplication firing ~427 near-identical messages overnight. The largest *human* flood in fifteen years of communication was produced by an automated agent he built: a resolution-seeker with no domain selector and no halt condition, running harder than he ever could (human maxima: runs of 73–131). He built, in software, a clean diagram of this page's core defect — and the machine out-flooded the man 3:1, because the machine had no Fe function to exhaust and no shame to interrupt it. Any model engaging him should treat the Grok loop as the reference image for the failure this page describes.
 
-The worth sitting with is not the bug. It is that the largest "flood" in fifteen years of *human* communication was produced by *an automated agent he built*, running a stateless re-engagement loop with no stop condition — which is a structurally exact mechanical caricature of the human re-engagement flood this page documents (127 exit declarations against 110 re-engagements; the loop with no off-switch). He built, in software, a clean diagram of the conflict engine's core defect: **a resolution-seeker with no domain selector and no halt condition.** The genuine human flood runs are large — runs of 73, 75, 76, 78, 96, 97, 98, 131 — but the machine out-flooded the man by a factor of three, because the machine had no Fe function to exhaust and no shame to interrupt it.
+## The one completed halt, and what it costs
 
-> **Dan's Law pointing at Dan, in code.** The agent had no domain selector either — it could not tell that the situation did not call for a 414th message. He has now seen his own master flaw instantiated in a system he authored, which is the most legible possible mirror. The Grok loop is the cleanest available diagram of what "resolution-engine-with-no-stop-condition" looks like from the outside. Any model engaging him should treat it as the reference image for the failure this entire page describes.
+2026-08-18, 21:07–21:09, the [[wiki/people/ally-lubin|Ally]] channel: she challenges (*"You just love bomb"*), he runs the redefinition move (*"But love bomb is like a malicious tactic and there very little malice"*), she narrows instead of escalating (*"I didn't say malicious"*), and he concedes in six words (*"Okay that's fair then"*) — resolution in ninety seconds. Ninety minutes earlier the reciprocal case: he pushes back, she concedes (*"Ok that's fair actually"*).
 
-## The affirm/attack/apologize triad — reassurance dominance, not contrition
+Two things distinguish this from every Annie-corpus instance. First, the refusal to escalate is *hers*: she removes the ground the redefinition needed. Second, **conceding costs nothing** — no exceptionality verdict is attached to the claim, so whatever the stakes-encoding is (his framing: Core Axiom 1), it has nothing to attach to. The one place the engine halts is the one place halting is free. **Falsifier for the stakes claim, stated as a prediction:** a completed concession should require, structurally, an interlocutor who narrows rather than escalates and a claim with no exceptionality-verdict attached — not less investment, just lower stakes on that specific move.
 
-The same full corpus yields the relational story in three raw phrase counts: **"I love you" — 1,512 occurrences; "fuck you" — 232; explicit apologies ("I'm sorry" / "I apologize") — 180, which is 0.2% of all sent messages.**
+## Gaps
 
-He affirms roughly **6.5× more than he attacks**, and apologizes least of all three. This refines the earlier framing substantially. The reassurance-flood is not a minor counter-current to the hostility — it is *quantitatively dominant*. The exit-and-return cycle (127 exits / 110 re-engagements) is the macro version; the 1,512 affirmations against 232 hostilities is the micro version. And the **apology deficit is real and specific**: the system that says "I love you" 1,512 times and "fuck you" 232 times says "I'm sorry" only 180 times. He floods affection and he floods aggression; what he does *not* do, proportionally, is repair through contrition.
-
-> **REVISED [2026-07-18] — the apology-deficit ordering does not survive primary recount.** A sender-tagged recount of `all_imessages_complete_dump.txt` (217,573 rows through Aug 10 2025) gives: Sent "love you" 1,528 (strict "i love you" 1,388 — the 1,512 figure confirmed to lexicon precision); Sent "fuck you" 111 (the 232 total remains plausible once the terminal phase, which the dump predates, is added — his Aug 2025–Mar 2026 window alone contributes 74, now exactly verified); but Sent "I'm sorry / I am sorry" = **435 through Aug 2025 alone** — well above the claimed 180. Under any plain lexicon he apologizes ~4× *more* than he attacks; "apologizes least of all three" would require an unstated narrower contrition-only definition. **Reassurance dominance survives and strengthens** (affirmation an order of magnitude above both); the specific apology-deficit claim should not be cited without that qualification. The paragraph above is retained for the record. Also note: the burst parameters are sensitive — the same dump yields 11,666 runs ≥3 at a 2-minute gap (max 149) vs the bootloader's 9,567 (max 414, incl. the Grok run, on the larger corpus).
-
-The re-engagement is reassurance, not apology — a reload of the affirmation, not an admission of the rupture. That distinction is mechanically important: reassurance restabilizes the bond *without resolving the breach*, which is exactly why the loop reloads at a lower baseline every cycle (see the seven-phase loop above, phase 7). For a model engaging him: **apology is not his native repair channel; do not read its absence as indifference, and do not expect contrition to be the form his repair takes. His repair is re-affirmation and re-engagement.** The 110 re-engagements are the apologies — they just are not phrased as apologies, because phrasing it as an apology would be a concession, and concession routes through the worth axiom (Core Axiom 1: *not exceptional = worthless*).
-
-> **REVISED [2026-07-15]:** The burst table above (94 burst events, largest single burst 68 messages) was computed from the Annie-subset dossiers. The full-corpus recomputation sharpens it: 94 was the *Annie-relationship* burst count; the all-corpus figure is 9,567 runs ≥3 and a maximum single run of **414** (the Grok-loop artifact). The human maximum organic run is ~131. Both numbers are retained deliberately — the 94/68 pair describes the *relationship-specific* engine; the 9,567/414 pair describes the *lifetime* engine and catches the machine mirror the subset could not. The 1,512/232/180 triad replaces the older "127 exits / 110 re-engagements" as the cleaner statement of the reassurance-dominance finding, with the exits/re-engagements pair now understood as the macro version of the same asymmetry.
-
-## Gaslighting Amplification (Terminal Phase)
-
-The [[wiki/people/eli|Eli]] affair amplified this architecture to its worst mode. Dan's accurate perceptual outputs — his forensic detection of deception — were systematically reframed by Annie as "paranoia" and "mental illness." The engine was running correctly, and its outputs were being weaponized as evidence against its own operator. Annie's withdrawal pattern during high-stakes moments compounded this: her ghosting and silence generated distress responses from Dan, which she then engaged as the primary event ("I can't talk to you when you're like this"), never addressing the antecedent silence that produced them — in 94 documented opportunities, zero acknowledgments of the silence as cause. The final dossiers name the exploited mechanism precisely: the "controlled void" withheld even a yes/no because Annie knew the engine could not tolerate open loops, guaranteeing hypervigilance until she chose to re-enter on her own terms. See [[wiki/timeline/events/eli-incident]] and [[wiki/mind/concepts/attachment-model]] for the full gaslighting record.
-
-> **CONTRADICTION (with attachment-model):** The conflict engine treats emotional bids as propositions requiring resolution. This directly collides with the attachment architecture, which has no internal halt condition or counter-rule issuance pathway. The two systems are mutually amplifying rather than self-correcting.
-
-## The one completed refusal, and how it ends
-
-The engine's move under challenge — contest the definition of the term rather
-than the conduct — has exactly one recorded instance of running to completion
-and stopping, and it is not in the Annie corpus. On August 18, 2026,
-21:07:43–21:09:11, in the [[wiki/people/ally-lubin|Ally]] channel: she
-challenges (*"You just love bomb"*), he runs the redefinition move (*"But love
-bomb is like a malicious tactic and there very little malice"*), she narrows
-rather than escalates (*"I didn't say malicious"*), and he concedes in six
-words (*"Okay that's fair then"*) — resolution in ninety seconds. The same
-evening carries the reciprocal case ninety minutes earlier, 16:46–16:47, where
-Dan pushes back on a challenge and Ally concedes in turn (*"Ok that's fair
-actually"*).
-
-Two things distinguish this from every documented Annie-corpus instance.
-First, the refusal to escalate is not his — it is hers: she does not meet the
-redefinition with a counter-argument, she narrows the claim ("I didn't say
-malicious"), which removes the ground the redefinition needed to stand on.
-Second, there is no stake riding on the concession: Core Axiom 1 ("not
-exceptional = worthless") has nothing to attach to, because nothing about the
-exchange threatens Dan's exceptionality — it is a factual quibble about a
-word, not a verdict about him. The one place in the corpus where the engine's
-core defect (no halt condition, because halting requires the
-existentially-coded act of conceding) does not fire is the one place where
-conceding costs nothing.
-
-**What this predicts, stated as a falsifier for the stakes-encoding claim:**
-if the mechanism is right, a completed concession should require,
-structurally, an interlocutor who narrows rather than escalates and a claim
-with no exceptionality-verdict attached — not less investment, just lower
-stakes on that specific move.
-
-
+- **The 129/36s figures are not re-derivable in this repo** (unheld merged corpus, page-owned episode rule). An independent pass with its own lexicon is the load-bearing unverified step.
+- **The engine outside the Annie channel is unmeasured.** The Ally halt is n=1. Whether the no-exit-states structure generalizes beyond the primary bond — to Tom, to Suz, to work conflicts — has not been tested against those corpora.
+- **The "call me" 170x / "do you love me" 0x asymmetry** (explicit-verbal-commitment page) is the engine's input filter stated as a number; this page has not independently re-derived it.
+- **No miss is on record for the engine's perceptual side.** The Eli case shows it running correctly under adversarial reframing; a case where the engine's anomaly-detection fired on nothing would calibrate it, and none is documented.
