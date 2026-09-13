@@ -1,0 +1,8 @@
+# Gap / linkage page candidates — chemical-architecture synthesis pass (2026-09-13)
+
+Found while researching wiki/mind/synthesis/chemical-architecture.md. Not written; logged for the 25-page batch.
+
+1. `wiki/health/suboxone-dose-curve.md` — the corpus holds exactly one dosage figure (2mg/day, 2013-07-10) across 16 years; a dedicated page could consolidate the dose-curve evidence problem (2011 appointment, 2013 figure, 2025 logistics messages, dat:0025/dat:0028/dat:0033) and state the "one point + sixteen years of silence" gap as its own object.
+2. `wiki/mind/synthesis/supply-graph-vs-chain.md` — May 2026 was a two-layer correlated failure (prescriber jammed by geography + Tom no-show by relationship collapse), which the existing supply-network page treats as a chain break; a synthesis on correlated multi-layer failure as the architecture's true fragility model.
+3. `wiki/people/tom-maison-supply-record.md` (or a supply subsection on the Tom page) — Tom as the standing supply line (strips/mushrooms/cocaine/klonopin, "shows up with substances and announces it") plus the loss-absorption episode (rival bought out dealer's stock, Tom covered) is load-bearing for the May 2026 cascade but scattered across bfs-foods and chemical-architecture; needs one consolidated account.
+4. `wiki/health/maintenance-vs-verdict.md` — the two-zeros comparison (alcohol exclusion-by-verdict vs opiate maintenance-by-daily-act) generalized: the register-never-closes rule's two moves (substitute / exclude-by-verdict) with the Suboxone null case (neither move in 16 years) as the third object the rule can't classify.
