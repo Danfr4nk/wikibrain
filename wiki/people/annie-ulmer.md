@@ -378,6 +378,28 @@ here, in full, because a wiki that hedges its clearest finding to look
 balanced is worse than one that states an asymmetric truth and shows its
 work.
 
+## Remorse, and why it never landed
+
+She said she was sorry constantly — roughly one message in twenty in the final
+year, hundreds of times across the decade — and the record gives no reason to
+think she was performing. She said it at 5:45 in the morning to no one awake.
+She said it after there was nothing left to win. She told him herself that she
+had promised to change before and failed, that she kept hurting him over and
+over, that watching herself do it felt like an out-of-body experience she didn't
+know how to fix. He told her, in plain language and more than twenty times, what
+an apology that would land actually sounded like: not the word, but the behavior
+named and the change planned. She couldn't produce it. Not wouldn't — couldn't.
+The apologies got more frequent and emptier as the years went on, until "sorry"
+was punctuation. What broke wasn't her sincerity. It was the conversion step
+between feeling bad and doing different, and nothing either of them tried could
+repair that step.
+
+*[Method: apology-language frequency sweep across four message exports,
+2015–2026; counts, falsification run, and the 23 specification messages in kb —
+`dat:1505-annie-apology-frequency`, `pat:annie-apology-inflation`,
+`pat:threat-apology-reset-loop`, `int:annie-apology-sincerity-verdict`,
+`int:verbal-commitment-architecture-qualifier`.]*
+
 ## The relationship in one paragraph
 
 Annie (Anne Louise Ulmer), Dan's partner
