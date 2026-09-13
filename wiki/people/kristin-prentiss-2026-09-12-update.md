@@ -23,7 +23,7 @@ infobox:
 # Kristin Prentiss — 2026-09-12 Redux Update
 
 > **REDUX — 2026-09-12 → 2026-09-13**
->
+
 > The block held eight months. Then Dan broke it himself, and within a single day the two of them covered: mundane 4:30 AM banter, a Wiki Brain unveiling, a visit negotiation, thirteen voice memos and the first subject-side refusal of the archival apparatus, a phishing scare, a taxonomy of women, a confession, and — past midnight — the exact explicit-verbal-terms negotiation that defined the Annie decade, deployed on a new target at full speed on night one.
 
 ## The re-initiation
