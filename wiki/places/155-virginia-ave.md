@@ -4,7 +4,7 @@ page_type: entity
 title: "155 Virginia Ave"
 status: closed
 date_created: 2026-07-13
-date_modified: 2026-08-28
+date_modified: 2026-09-12
 sources:
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
   - raw/self/dox-md/operating_manual.md
@@ -43,6 +43,9 @@ connections:
   - page: wiki/mind/synthesis/bond-switch-2015
     type: evidences
     claim: "The lair-continuity documented at this address is spatial proof the switch was a swap, not a relocation."
+  - page: wiki/people/casey-bondarenka
+    type: co-occurs
+    claim: "Per Dan's 2026-09-12 testimony, Casey took the uncured 'Dream Queen' harvest grown at this address and smoked it in one night during the switch — inside his documented 2015-11-29 to 2015-12-02 household presence (dat:casey-uncured-harvest-dream-queen-20260912)."
   - page: wiki/people/zachariah-harshman
     type: evidenced-by
     claim: "From January 2015 the address is Zach's consistent handoff location ('front door is open, i'm in the kitchen'), placing the earliest documented Uniontown supply node inside this same house — and inside the same month the Alexis-to-Annie transfer he later reacts to takes place."
@@ -101,6 +104,28 @@ Dian V. Moore, demanding the keys.
 > attribution in `dat:1409` is superseded, with indoor-GPS caveats kept on
 > the record). Fran at the Virginia Avenue lair, two months into the Annie
 > relationship: she was a guest in their space, not the other way around.
+
+> **THE GROW [2026-09-12].** The lair grew its own supply. Dan sent nine
+> EXIF-dated photographs (iPad mini, 2015-08-18 through 2015-10-04)
+> documenting an indoor cannabis grow at this address: seedling to bushy
+> vegetative growth in terracotta pots under CFL lighting — Energetic-branded
+> CFLs, a clamp lamp, a desk-lamp rig — a home setup, nothing professional.
+> One frame shows two pots: at least two plants. GPS on eight of nine frames
+> clusters at the 155 Virginia fix. The strain was his favorite, and he gave
+> it his own name: **"Dream Queen"** — his label, not a verified strain ID
+> (`dat:virginia-ave-grow-timeline-2015`). The photo series ends in veg,
+> seven weeks before the switch; there are no harvest frames, because per
+> Dan's 2026-09-12 testimony the harvest never got photographed — [[wiki/people/casey-bondarenka|Casey]]
+> took it before it had cured and smoked it all in one night during the
+> Alexis-to-Annie switch (`dat:casey-uncured-harvest-dream-queen-20260912`).
+> The taking rests on his testimony alone, but the window fits the one
+> independently documented fact about Casey: he was inside this household
+> 2015-11-29 through 2015-12-02, the exact fortnight of the handoff. The
+> irony is load-bearing, not decorative: the container that held constant
+> across the attachment transfer was, in the months before the transfer,
+> literally cultivating.
+>
+> ![Dream Queen grow, 155 Virginia Ave, 2015-10-04](../../media/upload-038.jpg)
 
 > **GAP CLOSED [2026-08-22]:** This page read, until now, *"the residence*
 > *timeline has him staying until February 2019, so the notice's outcome is*

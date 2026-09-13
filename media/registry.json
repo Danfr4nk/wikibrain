@@ -1354,6 +1354,177 @@
      "sha256": "1846b7b425ac98cba071cebab56386ea2bec1ddbfa229419138b453972c78d99"
     }
    ]
+  },
+  {
+   "id": "upload-030",
+   "type": "image",
+   "count": 1,
+   "date": "2015-08-18 20:48:23 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/53/53e3e91054e089a95e44e6dde4eed9bd757b85815489383cf435641ecf1e1a9f.jpg",
+   "sha256": "53e3e91054e089a95e44e6dde4eed9bd757b85815489383cf435641ecf1e1a9f",
+   "dimensions": "828x828",
+   "gps": null,
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan): seedling, first true leaves, soil close-up; no GPS. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-timeline-2015",
+    "dat:casey-uncured-harvest-dream-queen-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-031",
+   "type": "image",
+   "count": 1,
+   "date": "2015-08-27 16:46:25 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/aa/aa329dfeecad1975f76fa19aefb7c659d69fa37d39341a58287739eaba0fc91e.jpg",
+   "sha256": "aa329dfeecad1975f76fa19aefb7c659d69fa37d39341a58287739eaba0fc91e",
+   "dimensions": "828x1109",
+   "gps": "39.887372,-79.721845",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan): young plant, 5-finger leaves developing. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-timeline-2015",
+    "dat:casey-uncured-harvest-dream-queen-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-032",
+   "type": "image",
+   "count": 1,
+   "date": "2015-09-04 15:05:20 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/41/41c12a3c75156aa47da3e76deff4bf7ee14a9fdf03f8a59e6c438cf602dde087.jpg",
+   "sha256": "41c12a3c75156aa47da3e76deff4bf7ee14a9fdf03f8a59e6c438cf602dde087",
+   "dimensions": "828x1109",
+   "gps": "39.887398,-79.721859",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan): under CFLs (Energetic brand visible), terracotta pot rim. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-timeline-2015",
+    "dat:casey-uncured-harvest-dream-queen-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-033",
+   "type": "image",
+   "count": 1,
+   "date": "2015-09-07 18:54:49 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/83/8399e72bbf2d48159071da4896154c5100aad757886793d41e90185e5bd70bff.jpg",
+   "sha256": "8399e72bbf2d48159071da4896154c5100aad757886793d41e90185e5bd70bff",
+   "dimensions": "828x828",
+   "gps": "39.887352,-79.721847",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan): bushier, terracotta pot, CFL glow. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-timeline-2015",
+    "dat:casey-uncured-harvest-dream-queen-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-034",
+   "type": "image",
+   "count": 1,
+   "date": "2015-09-10 22:35:00 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/03/036b4fa5cb686ea11b8fb6ebfcde20a44bcb2d18d455a2e036ba9ac9caa90ba6.jpg",
+   "sha256": "036b4fa5cb686ea11b8fb6ebfcde20a44bcb2d18d455a2e036ba9ac9caa90ba6",
+   "dimensions": "828x1109",
+   "gps": "39.887375,-79.721878",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan): top-down full canopy, terracotta pot. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-timeline-2015",
+    "dat:casey-uncured-harvest-dream-queen-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-035",
+   "type": "image",
+   "count": 1,
+   "date": "2015-09-20 01:38:34 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/5e/5e337de6ba73ecf056dfca92e56d3112a0b46e0f89072bdace8b382b90dd59f4.jpg",
+   "sha256": "5e337de6ba73ecf056dfca92e56d3112a0b46e0f89072bdace8b382b90dd59f4",
+   "dimensions": "828x1109",
+   "gps": "39.887408,-79.721833",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan): two pots visible \u2014 at least two plants; clamp lamp overhead. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-timeline-2015",
+    "dat:casey-uncured-harvest-dream-queen-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-036",
+   "type": "image",
+   "count": 1,
+   "date": "2015-09-25 11:07:49 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/57/57b5f24fc5d4959f9d0dc2304db3bbc938f3073b07cd82230d5dde7abd31e4b4.jpg",
+   "sha256": "57b5f24fc5d4959f9d0dc2304db3bbc938f3073b07cd82230d5dde7abd31e4b4",
+   "dimensions": "828x1109",
+   "gps": "39.887423,-79.721842",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan): tall vegetative plant, desk-lamp CFL rig, second pot behind. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-timeline-2015",
+    "dat:casey-uncured-harvest-dream-queen-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-037",
+   "type": "image",
+   "count": 1,
+   "date": "2015-09-30 23:32:36 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/13/131e36c2d1317b21c2e57a96002975d4fdae37bfdcf077ea07c791ee55afa701.jpg",
+   "sha256": "131e36c2d1317b21c2e57a96002975d4fdae37bfdcf077ea07c791ee55afa701",
+   "dimensions": "828x1109",
+   "gps": "39.887352,-79.721867",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan): vegetative plant, CFL + reflector shade overhead. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-timeline-2015",
+    "dat:casey-uncured-harvest-dream-queen-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-038",
+   "type": "image",
+   "count": 1,
+   "date": "2015-10-04 16:44:26 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/c2/c2a4908df6ca6fc18afafffca2dde979743f0be1900963e80d5c891415503478.jpg",
+   "sha256": "c2a4908df6ca6fc18afafffca2dde979743f0be1900963e80d5c891415503478",
+   "dimensions": "828x1109",
+   "gps": "39.887380,-79.721861",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan): tallest plant, clamp-lamp + desk-lamp rig visible; derivative embedded as upload-030. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-timeline-2015",
+    "dat:casey-uncured-harvest-dream-queen-20260912"
+   ],
+   "embed": true,
+   "embed_excluded": false
   }
  ],
  "policy": "Originals are never committed to wikitest or RAWLOGS. This registry maps each item to its canonical location (Google Photos share URL or Drive path). Compressed derivatives for wiki entries live under media/<batch-slug>/ and are referenced from the src:/dat: nodes. Censorship rule (2026-09-12, Dan's directive): embedded derivatives showing nudity or sexual activity are pixelated/blurred before commit. The uncensored original stays at its canonical location and is never committed.",

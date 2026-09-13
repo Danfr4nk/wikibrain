@@ -1,0 +1,88 @@
+{
+ "batch": "photo-ingest-20260912-virginia-grow",
+ "intake_source": "direct send in chat (iOS), 2026-09-12",
+ "album_url": null,
+ "album_name": null,
+ "photo_count_expected": 10,
+ "photo_count_received": 9,
+ "missing": [
+  "4f/4f7c46d4c6f56875a627e378ac6a75d64313066c62e1f30ae450aa54167a37d9f.jpg \u2014 listed in directory but unreadable at intake; pending re-pull"
+ ],
+ "pull_timestamp_utc": "2026-09-13T00:50:00Z",
+ "pull_method": "direct file copy from ~/workspace/user/media_library/image/",
+ "files": [
+  {
+   "filename": "53e3e91054e089a95e44e6dde4eed9bd757b85815489383cf435641ecf1e1a9f.jpg",
+   "sha256": "53e3e91054e089a95e44e6dde4eed9bd757b85815489383cf435641ecf1e1a9f",
+   "bytes": 392531,
+   "upload_id": "upload-030",
+   "exif_datetime": "2015-08-18 20:48:23",
+   "dimensions": "828x828"
+  },
+  {
+   "filename": "aa329dfeecad1975f76fa19aefb7c659d69fa37d39341a58287739eaba0fc91e.jpg",
+   "sha256": "aa329dfeecad1975f76fa19aefb7c659d69fa37d39341a58287739eaba0fc91e",
+   "bytes": 336899,
+   "upload_id": "upload-031",
+   "exif_datetime": "2015-08-27 16:46:25",
+   "dimensions": "828x1109"
+  },
+  {
+   "filename": "41c12a3c75156aa47da3e76deff4bf7ee14a9fdf03f8a59e6c438cf602dde087.jpg",
+   "sha256": "41c12a3c75156aa47da3e76deff4bf7ee14a9fdf03f8a59e6c438cf602dde087",
+   "bytes": 319864,
+   "upload_id": "upload-032",
+   "exif_datetime": "2015-09-04 15:05:20",
+   "dimensions": "828x1109"
+  },
+  {
+   "filename": "8399e72bbf2d48159071da4896154c5100aad757886793d41e90185e5bd70bff.jpg",
+   "sha256": "8399e72bbf2d48159071da4896154c5100aad757886793d41e90185e5bd70bff",
+   "bytes": 302730,
+   "upload_id": "upload-033",
+   "exif_datetime": "2015-09-07 18:54:49",
+   "dimensions": "828x828"
+  },
+  {
+   "filename": "036b4fa5cb686ea11b8fb6ebfcde20a44bcb2d18d455a2e036ba9ac9caa90ba6.jpg",
+   "sha256": "036b4fa5cb686ea11b8fb6ebfcde20a44bcb2d18d455a2e036ba9ac9caa90ba6",
+   "bytes": 266435,
+   "upload_id": "upload-034",
+   "exif_datetime": "2015-09-10 22:35:00",
+   "dimensions": "828x1109"
+  },
+  {
+   "filename": "5e337de6ba73ecf056dfca92e56d3112a0b46e0f89072bdace8b382b90dd59f4.jpg",
+   "sha256": "5e337de6ba73ecf056dfca92e56d3112a0b46e0f89072bdace8b382b90dd59f4",
+   "bytes": 271094,
+   "upload_id": "upload-035",
+   "exif_datetime": "2015-09-20 01:38:34",
+   "dimensions": "828x1109"
+  },
+  {
+   "filename": "57b5f24fc5d4959f9d0dc2304db3bbc938f3073b07cd82230d5dde7abd31e4b4.jpg",
+   "sha256": "57b5f24fc5d4959f9d0dc2304db3bbc938f3073b07cd82230d5dde7abd31e4b4",
+   "bytes": 294206,
+   "upload_id": "upload-036",
+   "exif_datetime": "2015-09-25 11:07:49",
+   "dimensions": "828x1109"
+  },
+  {
+   "filename": "131e36c2d1317b21c2e57a96002975d4fdae37bfdcf077ea07c791ee55afa701.jpg",
+   "sha256": "131e36c2d1317b21c2e57a96002975d4fdae37bfdcf077ea07c791ee55afa701",
+   "bytes": 289505,
+   "upload_id": "upload-037",
+   "exif_datetime": "2015-09-30 23:32:36",
+   "dimensions": "828x1109"
+  },
+  {
+   "filename": "c2a4908df6ca6fc18afafffca2dde979743f0be1900963e80d5c891415503478.jpg",
+   "sha256": "c2a4908df6ca6fc18afafffca2dde979743f0be1900963e80d5c891415503478",
+   "bytes": 296686,
+   "upload_id": "upload-038",
+   "exif_datetime": "2015-10-04 16:44:26",
+   "dimensions": "828x1109"
+  }
+ ],
+ "notes": "Dedupe: SHA-256 clean against media/registry.json and every raw/*/manifest.json. Originals local-only, never committed."
+}

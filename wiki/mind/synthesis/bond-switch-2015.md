@@ -4,7 +4,7 @@ page_type: synthesis
 knowledge: earned
 status: active
 date_created: 2026-07-15
-date_modified: 2026-09-04
+date_modified: 2026-09-12
 sources:
   - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
@@ -277,6 +277,16 @@ The bootloader's headline onset figure — 728 / 682 / 679 messages sent on Dece
 The physical detail that makes the switch concrete: [[wiki/places/155-virginia-ave|155 Virginia Avenue]] — which context-core calls "the Alexis lair" — was leased during the end of the Alexis relationship, and Annie moved into that *same apartment* when the new relationship began after Thanksgiving 2015. Dan did not leave the shared space and bring Annie into a new one; the new bond occupied the physical shell of the old one. This is what the record flags as **self-preservation lair-continuity**: the sp (self-preservation) instinct's "lair" — resources, safety, the dwelling — was held constant across the attachment transfer. Only the occupant of the singular bond slot changed; the fortress did not move.
 
 The lair-continuity is why 155 Virginia is the address where "the two defining relationships of his adult life handed off." It is the spatial proof that the single-bond switch was a swap, not a relocation. The MOGZART era, the smashonista couples-camming period, the 2017 poverty floor, and the 2018 deep cycle all then played out *inside the Alexis lair*, with Annie now its co-occupant — the old furniture of the prior bond hosting the entire genesis of the next.
+
+The lair was also, in the months before the handoff, literally cultivating:
+Dan's EXIF-dated photo series (2015-08-18–10-04) documents an indoor cannabis
+grow at the address — "Dream Queen," his name for his favorite strain — and
+his 2026-09-12 testimony is that [[wiki/people/casey-bondarenka|Casey]] took
+the harvest before it cured and smoked it in one night during the switch
+window (`dat:casey-uncured-harvest-dream-queen-20260912`). The claim is his
+alone, but the window is corroborated: Casey is independently documented
+inside the household 2015-11-29–12-02. Full account at
+[[wiki/places/155-virginia-ave|155 Virginia Avenue]].
 
 ## A provenance gap in the bootloader's termination figure
 
