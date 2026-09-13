@@ -209,6 +209,6 @@ consequential open question.
 
 ## Sources
 
-<a href="../../media/upload-038.jpg"><img src="../../media/upload-038.jpg" width="240" alt="Dream Queen grow, 155 Virginia Ave, 2015-10-04"></a>
+[![Dream Queen grow, 155 Virginia Ave, 2015-10-04](../../media/upload-038.jpg)](../../media/upload-038.jpg)
 
 *Dream Queen grow, 155 Virginia Ave, 2015-10-04 — representative frame from the fifteen-photo seedling-to-flower series (`dat:virginia-ave-grow-timeline-2015`).*

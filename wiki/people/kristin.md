@@ -542,6 +542,6 @@ curly-apostrophe trap in `EXTRACTION_SPEC.md` and belongs beside it.
 
 ## Sources
 
-<a href="../media/upload-027.jpg"><img src="../media/upload-027.jpg" width="240" alt="Dan's 2026-09-12 outbound iMessages to Kristin: four texts and a dispensary photo, all delivered"></a>
+[![Dan's 2026-09-12 outbound iMessages to Kristin: four texts and a dispensary photo, all delivered](../media/upload-027.jpg)](../media/upload-027.jpg)
 
 *Dan's 2026-09-12 outbound iMessages to Kristin: four texts and a dispensary photo, all delivered. Evidence for the September 2026 block-break (dat:1453).*
