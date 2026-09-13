@@ -1,0 +1,46 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 832 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "organic_insights_audience": [
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Date Range": {
+          "href": "",
+          "timestamp": 0,
+          "value": "May 26 - Aug 23"
+        },
+        "Followers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "301"
+        },
+        "Followers Delta": {
+          "href": "",
+          "timestamp": 0,
+          "value": "-1.4% vs Feb 25 - May 25"
+        },
+        "Follows": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Overall followers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "-4"
+        },
+        "Unfollows": {
+          "href": "",
+          "timestamp": 0,
+          "value": "4"
+        }
+      },
+      "title": ""
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:22:09.816-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:22:09.816Z"
+  }
+}

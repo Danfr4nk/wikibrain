@@ -1,0 +1,351 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 8012 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:24:12.519-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:24:12.519Z"
+  },
+  "text_post_app_text_post_app_follow_requests_sent": [
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/aligood18",
+          "timestamp": 1688684582,
+          "value": "aligood18"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/dee_onesi",
+          "timestamp": 1688684582,
+          "value": "dee_onesi"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/sobbs_jr",
+          "timestamp": 1688684582,
+          "value": "sobbs_jr"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/l.molchan",
+          "timestamp": 1688684582,
+          "value": "l.molchan"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/alexgfrank",
+          "timestamp": 1688684582,
+          "value": "alexgfrank"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/proactivism",
+          "timestamp": 1688684582,
+          "value": "proactivism"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/gabbie_ceeee",
+          "timestamp": 1688684582,
+          "value": "gabbie_ceeee"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/thatmeddlingkid1",
+          "timestamp": 1688684582,
+          "value": "thatmeddlingkid1"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/appalappi",
+          "timestamp": 1688684582,
+          "value": "appalappi"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/genaezzi",
+          "timestamp": 1688684582,
+          "value": "genaezzi"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/bheilman04",
+          "timestamp": 1688684582,
+          "value": "bheilman04"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/joshbrannan",
+          "timestamp": 1688684582,
+          "value": "joshbrannan"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/roofeeo",
+          "timestamp": 1688684582,
+          "value": "roofeeo"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/rachelfriedline",
+          "timestamp": 1688684582,
+          "value": "rachelfriedline"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/hello.rgl",
+          "timestamp": 1688684582,
+          "value": "hello.rgl"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/timsuchevits",
+          "timestamp": 1688684582,
+          "value": "timsuchevits"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/betherin.nunez",
+          "timestamp": 1688684582,
+          "value": "betherin.nunez"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/mikoliner",
+          "timestamp": 1688684543,
+          "value": "mikoliner"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/nickix3x",
+          "timestamp": 1688684543,
+          "value": "nickix3x"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/nolc",
+          "timestamp": 1688684543,
+          "value": "nolc"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/jpmichniak",
+          "timestamp": 1688684543,
+          "value": "jpmichniak"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/juanamaria.to",
+          "timestamp": 1688684543,
+          "value": "juanamaria.to"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/lukedms",
+          "timestamp": 1688684543,
+          "value": "lukedms"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/ledonnestudio",
+          "timestamp": 1688684543,
+          "value": "ledonnestudio"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/thatgolfman_",
+          "timestamp": 1688684543,
+          "value": "thatgolfman_"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/paigevanek",
+          "timestamp": 1688684543,
+          "value": "paigevanek"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/brittmechling",
+          "timestamp": 1688684543,
+          "value": "brittmechling"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/gianna.1207",
+          "timestamp": 1688684543,
+          "value": "gianna.1207"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/ssslobato",
+          "timestamp": 1688684543,
+          "value": "ssslobato"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/a.eid.nahas",
+          "timestamp": 1688684543,
+          "value": "a.eid.nahas"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/sucanict",
+          "timestamp": 1688684543,
+          "value": "sucanict"
+        }
+      ],
+      "title": ""
+    }
+  ]
+}

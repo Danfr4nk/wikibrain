@@ -1,0 +1,21 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 265 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "account_history_registration_info": [
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Time": {
+          "href": "",
+          "timestamp": 1318729266,
+          "value": ""
+        }
+      },
+      "title": ""
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:22:54.508-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:22:54.508Z"
+  }
+}

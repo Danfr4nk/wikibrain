@@ -1,0 +1,124 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 2249 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "joinable_mode": {
+    "link": "",
+    "mode": 1
+  },
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "ð¥  hello. How're u? ðð»ðð»ðð» http://mustodonpanfilof.site",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "share": {
+        "link": "http://mustodonpanfilof.site/"
+      },
+      "timestamp_ms": 1611175036985
+    }
+  ],
+  "participants": [
+    {
+      "name": "Wilasinee Khienmaneewong"
+    },
+    {
+      "name": "Dom"
+    },
+    {
+      "name": "Fatih Acy"
+    },
+    {
+      "name": "Matiyar Toosi"
+    },
+    {
+      "name": "Rafael Vitor"
+    },
+    {
+      "name": "Tony Yammine"
+    },
+    {
+      "name": "eggtart.wa"
+    },
+    {
+      "name": "David Alexander"
+    },
+    {
+      "name": "ÄÂ£Â¥âz"
+    },
+    {
+      "name": "mejumaa musa"
+    },
+    {
+      "name": "Bharat Kanwar"
+    },
+    {
+      "name": "Watches | Cars | Mansions"
+    },
+    {
+      "name": "Silvia Torres Iglesias"
+    },
+    {
+      "name": "Bill Tsats"
+    },
+    {
+      "name": "Gareth Conde"
+    },
+    {
+      "name": "C-clarck Smith"
+    },
+    {
+      "name": "Dan Frank"
+    },
+    {
+      "name": "Grant Julius"
+    },
+    {
+      "name": "Finlay Crozier"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Elona Granek"
+    },
+    {
+      "name": "Rey Mart Labaja Regalado"
+    },
+    {
+      "name": "chrishya_14"
+    },
+    {
+      "name": "Sky Blue Automotive"
+    },
+    {
+      "name": "Ryan Bracken"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Cristian Molina Cura"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Logan David"
+    },
+    {
+      "name": "JEUDI FIRMIN"
+    },
+    {
+      "name": "Amy Bertram"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:25:20.264-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:25:20.264Z"
+  },
+  "thread_path": "message_requests/wilasineekhienmaneewongdomfatihacyand27others_452071562652664",
+  "title": "Wilasinee Khienmaneewong, Dom, Fatih Acy and 27 others"
+}

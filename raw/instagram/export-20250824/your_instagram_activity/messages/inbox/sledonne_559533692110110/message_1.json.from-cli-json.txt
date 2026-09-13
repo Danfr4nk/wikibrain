@@ -1,0 +1,2010 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 81297 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "You needed to get some CANTON",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1695588673133
+    },
+    {
+      "content": "im pretty embarassed of a lot of the TRG issues but i miss my movies!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1695588662368
+    },
+    {
+      "content": ":)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1695588647039
+    },
+    {
+      "content": "Find as many Laverne productions videos and TRG issues as possible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1695354013231
+    },
+    {
+      "content": "And my mission was:",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1695353974170
+    },
+    {
+      "content": "I just came back to Uniontown for the first time in 3 years",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1695353966591
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1695353954223
+    },
+    {
+      "content": "Miss it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/3082642646062319039"
+      },
+      "timestamp_ms": 1681762070189
+    },
+    {
+      "content": "its intense",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1678328706222
+    },
+    {
+      "content": "taking care of a baby",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1678328704024
+    },
+    {
+      "content": "fixing it up",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1678328698651
+    },
+    {
+      "content": "bought a house",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1678328689051
+    },
+    {
+      "content": "i never did",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1678328685608
+    },
+    {
+      "content": "Did you ever read the book?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1678155019138
+    },
+    {
+      "content": "Iâm listening to Black Wolf Feed (Chapo Premium Feed Bootleg) | 711 - Bayesian Prior Movers feat. Jacob Bacharach (3/3/23) on Podbean, check it out! https://www.podbean.com/ei/dir-ngkua-1710b542",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://www.podbean.com/ei/dir-ngkua-1710b542",
+        "share_text": "Iâm listening to Black Wolf Feed (Chapo Premium Feed Bootleg) | 711 - Bayesian Prior Movers feat. Jacob Bacharach (3/3/23) on Podbean, check it out! https://www.podbean.com/ei/dir-ngkua-1710b542"
+      },
+      "timestamp_ms": 1678154996550
+    },
+    {
+      "content": "Iâll check it out",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1671541520614
+    },
+    {
+      "content": "https://youtu.be/j6qW-ZKxZss",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://youtu.be/j6qW-ZKxZss",
+        "share_text": "https://youtu.be/j6qW-ZKxZss"
+      },
+      "timestamp_ms": 1671515290715
+    },
+    {
+      "content": "Have you seen the documentary about Gore Vidal and William F Buckley âbest of enemiesâ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671515249491
+    },
+    {
+      "content": "Ahh fuck it wonât let me send you this link",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671515220104
+    },
+    {
+      "content": "https://bit.ly/3PCvT04",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://bit.ly/3PCvT04",
+        "share_text": "https://bit.ly/3PCvT04"
+      },
+      "timestamp_ms": 1671515204435
+    },
+    {
+      "content": "Is Unsplash",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1671458081150
+    },
+    {
+      "content": "Whatâs almost weirder to me than generating ai images",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1671458075118
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1671457986306
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1671457985263
+    },
+    {
+      "content": "I will say thisâ¦itâs been a LONG time since I have really been shocked by getting to use a new technology and itâs happened 3 times in the last year, all of which were AI tools.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "â¤ï¸",
+          "timestamp": 1671457985
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671426089472
+    },
+    {
+      "content": "You REALLY got in my head with this. Iâve been thinking about how I actually feel about this stuff for days now lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "â¤ï¸",
+          "timestamp": 1671457986
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671425541571
+    },
+    {
+      "content": "S. LeDonne sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "share": {
+        "link": "https://www.instagram.com/p/CmMimW9IT1d/?carousel_share_child_media_id=2993920021863939421_19223779944",
+        "original_content_owner": "freeze_magazine",
+        "share_text": "will chat gpt be the end of hours spent writing exhibition texts no one will ever read?"
+      },
+      "timestamp_ms": 1671236550303
+    },
+    {
+      "content": "Reacted ð® to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1671196378095
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1671196362162
+    },
+    {
+      "content": "I agree with your conclusion entirely and itâs not even something that isnât already demonstrably happening. The largest transfer of wealth in history happened at the exact moment that we (well..Goldman and Blackstone) developed tools to trade and speculate using machine learning to develop formula scripts in real time and algorithms to buy and sell for maximum profitability",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "â¤ï¸",
+          "timestamp": 1671196362
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671171151984
+    },
+    {
+      "content": "Now AI specifically is an interesting case of tech disruption being a loss for society because there is a real argument to be made that art and creative efforts will suffer and subsequently, we all will suffer from the loss of that output\n\nBut.\nWhen I graduated college for music production in 2009, I moved to New York and 3 months later a new âgenerationâ of software was released for making music. Basically, it became so accessible for people to make music without needing a studio and an engineer that 75% of the recording industry collapsedâ¦only the most prestigious studios survived. If you want a violin, you donât need to pay someone to play and record it anymoreâ¦you can do it instantly on your own and it sounds exactly as good. This was the end of my career path in studiosâ¦and while it was bad for me personally, itâs hard to argue that we didnât benefit from the accessibility to these tools.\n\nWell, to be honestâ¦as I wrote that I realized that thereâs no good music coming out now soâ¦",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "ð®",
+          "timestamp": 1671196378
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671170233603
+    },
+    {
+      "content": "1. Think about how different your daily life is today than it was even in the year 2000. Absolutely everything we do is facilitated through a digital process. We ALL spend hours a day on a computer in our pocket. \n\nThis is an enormous change to the human experience. We watched everything in our lives become part of digital infrastructure.\n\nItâs really hard to contextualize how thatâs changed our society and culture and existence. Looking at the net change so farâ¦it has not been something that has been positive for the individual and has largely been bad for the collective too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671168669703
+    },
+    {
+      "content": "But I have two minds about it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671168286648
+    },
+    {
+      "content": "In fact quite the opposite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671168256860
+    },
+    {
+      "content": "I am almost POSITIVE that tech will not lead to utopia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671168249357
+    },
+    {
+      "content": "I just dint know that tech will lead to utopia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1671161705935
+    },
+    {
+      "content": "I donât mean to be negative",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1671161695136
+    },
+    {
+      "content": "Capitalism will use the productivity for its gain and we will will be in drudgery in some way",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1671161685111
+    },
+    {
+      "content": "I like your enthusiasm I just donât think it will be a good change",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1671161648463
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1671161482392
+    },
+    {
+      "content": "If you play around with it for 30 mins your mind is going to be spinning trying to grasp how fucking useful this technology is going to be in likeâ¦everything we do",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "â¤ï¸",
+          "timestamp": 1671161482
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671161285215
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1671161234,
+          "uri": "your_instagram_activity/messages/inbox/sledonne_559533692110110/photos/319931009_539056411420165_4988996491569282576_n_539056408086832.jpg"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671161235942
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1671161120,
+          "uri": "your_instagram_activity/messages/inbox/sledonne_559533692110110/photos/319732811_682413183361793_3017963263820621505_n_682413180028460.jpg"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671161122393
+    },
+    {
+      "content": "https://www.newyorker.com/news/our-columnists/could-an-ai-chatbot-rewrite-my-novel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://www.newyorker.com/news/our-columnists/could-an-ai-chatbot-rewrite-my-novel",
+        "share_text": "https://www.newyorker.com/news/our-columnists/could-an-ai-chatbot-rewrite-my-novel"
+      },
+      "timestamp_ms": 1671160933016
+    },
+    {
+      "content": "itâs so wild man, in the last 6 months AI has disrupted every creative outlet humans have",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671160794413
+    },
+    {
+      "content": "Free Unlimited use",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671160727396
+    },
+    {
+      "content": "https://chat.openai.com/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://chat.openai.com/",
+        "share_text": "https://chat.openai.com/"
+      },
+      "timestamp_ms": 1671160698285
+    },
+    {
+      "content": "It writes and checks computer code",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671160654992
+    },
+    {
+      "content": "This thing will draft basic legal documents",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671160649497
+    },
+    {
+      "content": "Reacted ð® to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1671160631631
+    },
+    {
+      "content": "2. Writers block is now simply an excuse for procrastination now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671160596429
+    },
+    {
+      "content": "1. Homework and take home tests are completely irrelevant now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "ð®",
+          "timestamp": 1671160631
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671160577069
+    },
+    {
+      "content": "Iâve never once been even slightly impressed by a chat AI. This thing is so futuristic itâs hard to believe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671160548749
+    },
+    {
+      "content": "So this is made by the same company that developed DALL-E, the best of the best AI art generator",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671160503706
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671160447990,
+      "videos": [
+        {
+          "creation_timestamp": 1671160432,
+          "uri": "your_instagram_activity/messages/inbox/sledonne_559533692110110/videos/318815057_5404089963034826_6719177171028895536_n_1606611879776657.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1671160268710
+    },
+    {
+      "content": "Look at this",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671160197281
+    },
+    {
+      "content": "Now, thatâs impressiveâ¦but that is the most basic example",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671160194477
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "â¤ï¸",
+          "timestamp": 1671160268
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671160093235,
+      "videos": [
+        {
+          "creation_timestamp": 1671160077,
+          "uri": "your_instagram_activity/messages/inbox/sledonne_559533692110110/videos/319948995_5909580949099737_3948292522230491654_n_830755068157535.mp4"
+        }
+      ]
+    },
+    {
+      "content": "ðð»",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1671159940597
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1671159410000
+    },
+    {
+      "content": "okay",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1671159178488
+    },
+    {
+      "content": "If you havenât, strap in because youâre going to be blown away by this",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671159174203
+    },
+    {
+      "content": "So have you heard about chatGPT yet",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671159115469
+    },
+    {
+      "content": "Thatâs awesome Iâm super excited to hear what you think about it. Itâsâ¦unusual to be sure",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "â¤ï¸",
+          "timestamp": 1671159410
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1671159098288
+    },
+    {
+      "content": "just ordered Jacob's book",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Dan Frank",
+          "reaction": "ð",
+          "timestamp": 1671159068
+        }
+      ],
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1670532153316
+    },
+    {
+      "content": "S. LeDonne sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "share": {
+        "link": "https://www.instagram.com/p/Cll1SyAu49-/?carousel_share_child_media_id=2983024710167122777_46164770015",
+        "original_content_owner": "neoliberalhell",
+        "share_text": ""
+      },
+      "timestamp_ms": 1669838791221
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1669600740557
+    },
+    {
+      "content": "Any time dude",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "â¤ï¸",
+          "timestamp": 1669600740
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669600736390
+    },
+    {
+      "content": "Next time Iâm in the city",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1669600721304
+    },
+    {
+      "content": "WE have to get drinks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1669600715246
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1669600705264
+    },
+    {
+      "content": "At the very least I wouldnât have overcompensated for my lack of diy punk ethos bu getting a misfits tattoo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "â¤ï¸",
+          "timestamp": 1669600705
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669600677250
+    },
+    {
+      "content": "That being said Iâm always weirdly appreciative of how much I was clowned. I really was the paragon of the upper-middle class, Calvinist sheltered spoiled existence and without the countless and creative ways I was made aware of this I would probably have the same atrocious cultural sensibilities to this day.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669600636205
+    },
+    {
+      "content": "It wasnât just a tie dye shirt either it was a tie dye shirt from a music festival that like Stone Temple Pilots and Staind played so it was actually much much worse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669600397072
+    },
+    {
+      "content": "But at my core I am still the kid who showed up at a punk rock show wearing a tie dye t shirt with no awareness of just how lame of a move it would be so I am stoked anytime I can absolve myself of my natural poser nature by associating with objectively cool people lmao",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669600335950
+    },
+    {
+      "content": "Super cool",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1669600282173
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1669600212,
+          "uri": "your_instagram_activity/messages/inbox/sledonne_559533692110110/photos/317036125_1861577164194978_6330037488417948694_n_1861577154194979.jpg"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669600214106
+    },
+    {
+      "content": "Fully aware of how lame it is and I am",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669600206845
+    },
+    {
+      "content": "I just want to brag about something",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669600197697
+    },
+    {
+      "content": "Thatâs amazing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1669519576205
+    },
+    {
+      "content": "That image from that tiny drone",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669519527255
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669519518043,
+      "videos": [
+        {
+          "creation_timestamp": 1669519510,
+          "uri": "your_instagram_activity/messages/inbox/sledonne_559533692110110/videos/317291670_8291300527609621_560530043938644318_n_863548651493073.mp4"
+        }
+      ]
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1669519476,
+          "uri": "your_instagram_activity/messages/inbox/sledonne_559533692110110/photos/316971697_883543776145026_290155105936466625_n_883543769478360.jpg"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669519478659
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1669519448732
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669519427453,
+      "videos": [
+        {
+          "creation_timestamp": 1669519417,
+          "uri": "your_instagram_activity/messages/inbox/sledonne_559533692110110/videos/316510752_5560241234022965_5623607930083724451_n_845705346473875.mp4"
+        }
+      ]
+    },
+    {
+      "content": "You realize pretty quickly when you fly them that thereâs a lot of potential to use them in awful ways. You could very easily attach any number of things to it and fly it into whatever you wanted. So the military is pretty keen on being able to spot these things that are way too small to get picked up on traditional radar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669519211750
+    },
+    {
+      "content": "I started noticing that whenever I would fly above ~2000 feet, a couple minutes later an absolutely silent surveillance UAV would do a pass over the area I was in",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669519017522
+    },
+    {
+      "content": "And this is going to sound super Alex Jones level conspiratorial but",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669518881014
+    },
+    {
+      "content": "Oh and one more interesting thing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669518852391
+    },
+    {
+      "content": "And would have a 5 minute heads up on when he would arrive",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "â¤ï¸",
+          "timestamp": 1669519448
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669518806812
+    },
+    {
+      "content": "I would send the drone up as I waited for my weed dealer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669518775339
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669518765144,
+      "videos": [
+        {
+          "creation_timestamp": 1669518748,
+          "uri": "your_instagram_activity/messages/inbox/sledonne_559533692110110/videos/317015744_6151893531546309_5810219297738156252_n_556876762877317.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Thatâs Derrick Avenue",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669518754281
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1669518638827
+    },
+    {
+      "content": "Is how it changes your perception of the topography",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "â¤ï¸",
+          "timestamp": 1669518638
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669518620693
+    },
+    {
+      "content": "Thatâs the really wild thing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669518586992
+    },
+    {
+      "content": "A very surreal representation of UT",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1669518572559
+    },
+    {
+      "content": "So interesting",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1669518557270
+    },
+    {
+      "content": "So much better than just having a number in an account I would never actually enjoy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669518512124
+    },
+    {
+      "content": "Drones, electric skateboards and moving to nyc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669518496150
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669518494726,
+      "videos": [
+        {
+          "creation_timestamp": 1669518480,
+          "uri": "your_instagram_activity/messages/inbox/sledonne_559533692110110/videos/316541886_5885444794812939_3505153734739032478_n_1603375270099546.mp4"
+        }
+      ]
+    },
+    {
+      "content": "This is why I spent my whole inheritance",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669518485461
+    },
+    {
+      "content": "Reacted ð to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1669518439504
+    },
+    {
+      "content": "https://drive.google.com/file/d/1EhaHyXrt1jC-QvvWrdSsbP9tGSTH3thE/view?usp=drivesdk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://drive.google.com/file/d/1EhaHyXrt1jC-QvvWrdSsbP9tGSTH3thE/view?usp=drivesdk",
+        "share_text": "https://drive.google.com/file/d/1EhaHyXrt1jC-QvvWrdSsbP9tGSTH3thE/view?usp=drivesdk"
+      },
+      "timestamp_ms": 1669518246100
+    },
+    {
+      "content": "Note that these are the suuuuuper compressed video files and the full resolution files are fucking stunning. One of the drones I have literally has a Hasseblad lens and sensor on it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669518168617
+    },
+    {
+      "content": "And oh man did they end up hating me at the country club once I realized how funny it was to follow people around on the golf course as they were playing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669517354448
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669517295186,
+      "videos": [
+        {
+          "creation_timestamp": 1669517281,
+          "uri": "your_instagram_activity/messages/inbox/sledonne_559533692110110/videos/317137413_5588981237824212_4456704988761601255_n_2674635552673082.mp4"
+        }
+      ]
+    },
+    {
+      "content": "I was working as a golf caddy so I would do that in the morning and then come home in the afternoon and play golf while flying the drone along with me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669517023913
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669516995165,
+      "videos": [
+        {
+          "creation_timestamp": 1669516979,
+          "uri": "your_instagram_activity/messages/inbox/sledonne_559533692110110/videos/316503099_5575748785841146_663410804787972100_n_523621932992756.mp4"
+        }
+      ]
+    },
+    {
+      "content": "I spent like 3 years having such a fun time doing this because I basically had a whole golf course as my backyard",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669516943908
+    },
+    {
+      "content": "Iâll send you some clips.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669516906227
+    },
+    {
+      "content": "https://www.facebook.com/ihatedanfrank/videos/10160961788970253/?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://www.facebook.com/ihatedanfrank/videos/10160961788970253/",
+        "share_text": "https://www.facebook.com/ihatedanfrank/videos/10160961788970253/?"
+      },
+      "timestamp_ms": 1669516820715
+    },
+    {
+      "content": "So when I was (back) living in uniontown and lived on the golf course I started buying drones and got really good flying them for fun",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669516661238
+    },
+    {
+      "content": "And just ran really really fast",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669516464235
+    },
+    {
+      "content": "I got really long stilts",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "ð",
+          "timestamp": 1669518439
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669516454357
+    },
+    {
+      "content": "No",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669516437776
+    },
+    {
+      "content": "Is this from a drone",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1669343390570
+    },
+    {
+      "content": "ð¥",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2978371860481265302"
+      },
+      "timestamp_ms": 1669343379055
+    },
+    {
+      "content": "lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2975451315296632698"
+      },
+      "timestamp_ms": 1668923146903
+    },
+    {
+      "content": "2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668918608008
+    },
+    {
+      "content": "Bolts *",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668918601850
+    },
+    {
+      "content": "Did he reach out to you about duck boots",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668918597623
+    },
+    {
+      "content": "You never really know",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668918586118
+    },
+    {
+      "content": "Such is my faith in your talent that Iâve always assumed thereâs a pretty good chance it might be a super valuable treasure some day",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668918329275
+    },
+    {
+      "content": "How did I get those colors so muddy ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668918240604
+    },
+    {
+      "content": "Nice",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668918229109
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668918217265
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668918207607
+    },
+    {
+      "content": "Two headed turko",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668917869204
+    },
+    {
+      "content": "Did you know (or did I ever tell you) I still have one of your canvases circa 2007",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668917859134
+    },
+    {
+      "content": "I appreciate you talking through all this",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668221288198
+    },
+    {
+      "content": "Youâre very insightful",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668221260426
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668221254910
+    },
+    {
+      "content": "For sure",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668221252819
+    },
+    {
+      "content": "Reacted ð® to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668221246626
+    },
+    {
+      "content": "And obviously that effected the social circle of punk music that you were a part of way disproportionately",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "â¤ï¸",
+          "timestamp": 1668221254
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668221186406
+    },
+    {
+      "content": "The question I always have is what I all of that was like for people like you who were watching literally dozens of your friends die preventable and ultimately meaningless deaths and also have no real connection or experience to the system which was making it happen.\n\nLike how much more confusing and unbelievable it must have been to the people who werenât involved in drugs  that all of this was happening",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "ð®",
+          "timestamp": 1668221246
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668221132916
+    },
+    {
+      "content": "Like, well , that would have been an uncle that theyâll never meet",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668220978935
+    },
+    {
+      "content": "I was just thinking about him today when I was playing with my baby",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668220964060
+    },
+    {
+      "content": "How much do I owe you for this talk therapy session btw",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668220896625
+    },
+    {
+      "content": "And you knowâ¦I wasnât fucking close to him. But heâs like one of those symbolic references that make me really weird about the whole area",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668220885255
+    },
+    {
+      "content": "The image of like dirty river rusty factory Pennsylvania makes me think of how sad it is that Nate Gregor is dead",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668220850522
+    },
+    {
+      "content": "I donât know why but there are a few people who I have a cognitive /  visual attachment about and Nate Gregor is one of them",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668220823052
+    },
+    {
+      "content": "And all the bad choices I made growing up there and I just feel very resentful and weirdly emotionally scarred by the area itself",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668220733862
+    },
+    {
+      "content": "Like my whole mindset to all of the environment we grew up in is how many of our friends fucking died",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668220677043
+    },
+    {
+      "content": "I almost agree but I left with a much darker and bad vibe to the whole area and Pittsburgh is juuuuust close enough that I was never invested in being there or making it feel culturally relevant",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668220652090
+    },
+    {
+      "content": "Reacted ð to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668220576860
+    },
+    {
+      "content": "I got suspended from my political tiktok account a few days ago and Iâve had a lot of free time to make unnecessary videos like the one I sent you lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "ð",
+          "timestamp": 1668220576
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668220569960
+    },
+    {
+      "content": "Thatâs the bar for me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668220569587
+    },
+    {
+      "content": "For moving to Pittsburgh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668220566376
+    },
+    {
+      "content": "Iâm proud of people from UT",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668220561626
+    },
+    {
+      "content": "Literally",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668220554788
+    },
+    {
+      "content": "Like",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668220552372
+    },
+    {
+      "content": "So amazing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668220545891
+    },
+    {
+      "content": "Heâs doing essays for them too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668220540330
+    },
+    {
+      "content": "Your video was what I needed to see tho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668220540149
+    },
+    {
+      "content": "https://www.nytimes.com/2022/06/08/opinion/january-6-hearings.html",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://www.nytimes.com/2022/06/08/opinion/january-6-hearings.html",
+        "share_text": "https://www.nytimes.com/2022/06/08/opinion/january-6-hearings.html"
+      },
+      "timestamp_ms": 1668220536629
+    },
+    {
+      "content": "I started reading it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668220525290
+    },
+    {
+      "content": "Thatâs the NYT review of the book if youâre interested",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668220517271
+    },
+    {
+      "content": "https://www.nytimes.com/2017/07/07/books/review/doorposts-of-your-house-and-on-your-gates-jacob-bacharach.html",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://www.nytimes.com/2017/07/07/books/review/doorposts-of-your-house-and-on-your-gates-jacob-bacharach.html",
+        "share_text": "https://www.nytimes.com/2017/07/07/books/review/doorposts-of-your-house-and-on-your-gates-jacob-bacharach.html"
+      },
+      "timestamp_ms": 1668220509753
+    },
+    {
+      "content": "And lastly",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668220504211
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668220478249
+    },
+    {
+      "content": "Very cool",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668220463912
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668220456623
+    },
+    {
+      "content": "https://twitter.com/jakebackpack?s=21&t=83k_CaqVXO-myEOP1mjfXQ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://twitter.com/jakebackpack?s=21&t=83k_CaqVXO-myEOP1mjfXQ",
+        "share_text": "https://twitter.com/jakebackpack?s=21&t=83k_CaqVXO-myEOP1mjfXQ"
+      },
+      "timestamp_ms": 1668220329466
+    },
+    {
+      "content": "And super nice dude too. He tried to sneak me on the guest list for a live podcast that was mega sold out here in Brooklyn and I havenât seen him in literally 20 years lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "â¤ï¸",
+          "timestamp": 1668220456
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668220290536
+    },
+    {
+      "content": "Like he doesnât act Pittsburghy at all but his books are set there and itâs a common theme of his social commentary",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "â¤ï¸",
+          "timestamp": 1668220478
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668220223358
+    },
+    {
+      "content": "Heâs one of those guys that lives Pittsburgh as if itâs NYC",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668220181306
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668220073980
+    },
+    {
+      "content": "Indeed",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668220069831
+    },
+    {
+      "content": "I hadnât even thought about this until now but you probably will really dig the biblical allegory angle to this book too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "â¤ï¸",
+          "timestamp": 1668220073
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668218998908
+    },
+    {
+      "content": "I feel like Iâll lend my copy to a few ppl after reading it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668174319075
+    },
+    {
+      "content": "Haha I know",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668174282754
+    },
+    {
+      "content": "I just want you to imagineâ¦\n\nIâm listening to a podcast that I love and I recognize the name and think âthereâs no way itâs the same Jacob Bacharachâ and then he starts talking about uniontown",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668141668392
+    },
+    {
+      "content": "I have made it my mission to tell people about his book and other work because Iâm so unbelievably happy that uniontown produced a REAL leftist",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668141619751
+    },
+    {
+      "content": "Thanks for sending",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668089203402
+    },
+    {
+      "content": "This is my vibe though",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668089198835
+    },
+    {
+      "content": "I expect this will be even more personal !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668088793938
+    },
+    {
+      "content": "Little fires everywhere is based in shaker heights , where Kaylaâs family is from , so we are always there, then it shifts to PGH, then nyc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668088768654
+    },
+    {
+      "content": "Totally different but",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668088726635
+    },
+    {
+      "content": "I will read this asap",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668088718807
+    },
+    {
+      "content": "My brother worked for dr dilio for years",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668088673834
+    },
+    {
+      "content": "Holy shit haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668088652174
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668058563505,
+      "videos": [
+        {
+          "creation_timestamp": 1668058555,
+          "uri": "your_instagram_activity/messages/inbox/sledonne_559533692110110/videos/AQNYGxV9OOKO9rhBOGQMLJEM4PjCqmb5driFnWrM2_ufLavR9AnrAY09aeUl6Tf7AIc6XdhefFXbE4CNYavzvXSp8lpu2BZPjRp8Aqph5gcz4M_906501940321044.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Alright geezer. And because I will be asleep for many hours after normal people would wake up i made the briefing I would give you ahead of time",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668058544678
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668056311799
+    },
+    {
+      "content": "Lemme look into it when I wake up",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1668056310744
+    },
+    {
+      "content": "I apologize if Iâve asked this before but have I told you about this: https://www.goodreads.com/book/show/30231804",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "â¤ï¸",
+          "timestamp": 1668056311
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://www.goodreads.com/book/show/30231804",
+        "share_text": "I apologize if Iâve asked this before but have I told you about this: https://www.goodreads.com/book/show/30231804"
+      },
+      "timestamp_ms": 1668056230086
+    },
+    {
+      "content": "Heâs kind of a troll but he always makes me feel good about being an artist",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1666788328743
+    },
+    {
+      "content": "Some great reports",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1666788310391
+    },
+    {
+      "content": "Iâll send you his link list on messenger",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1666788306915
+    },
+    {
+      "content": "Thought you might",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1666788296151
+    },
+    {
+      "content": "Great",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1666788283402
+    },
+    {
+      "content": "Like usually if thereâs a creator or band or whatever I will have at least heard of it in passing but I like this a lot and has never heard of this guy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1666765093650
+    },
+    {
+      "content": "And not to be a snob but I donât usually get totally and completely scooped very often so good on you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1666765040874
+    },
+    {
+      "content": "Never heard until now but i like this",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1666765005204
+    },
+    {
+      "content": "S. LeDonne sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "share": {
+        "link": "https://www.instagram.com/reel/CjDcCh5AY3W/?id=2937314701106843094_437771619",
+        "original_content_owner": "bradtroemel",
+        "share_text": "In this chapter I go through every different type of HUSTLE meme, genre by genre, to describe how they all relate to each other. Link in bio + stories to watch the other 20 mins of Chapter 2 the NO SLEEP era"
+      },
+      "timestamp_ms": 1666713159586
+    },
+    {
+      "content": "S. LeDonne sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "share": {
+        "link": "https://www.instagram.com/reel/CjQg2I2g0Ek/?id=2940995014517539108_437771619",
+        "original_content_owner": "bradtroemel",
+        "share_text": "Welcome to the SCAM ERA ðððð£ð"
+      },
+      "timestamp_ms": 1666713143463
+    },
+    {
+      "content": "Are you a fan of Brad Tromel ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1666713072598
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "share": {
+        "original_content_owner": "bugtronica_"
+      },
+      "timestamp_ms": 1565566769036
+    },
+    {
+      "content": "Haha thatâs cool",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1563510247309
+    },
+    {
+      "content": "it turns commuting into the best part of your day.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563510238072
+    },
+    {
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1563510233304
+    },
+    {
+      "content": "Ahhhhhhhh I see I see",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1563510174512
+    },
+    {
+      "content": "the longboard is way less terrifying, and remember thereâs a lot of bike lane coverage here",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563510163187
+    },
+    {
+      "content": "Dude that looks scary as hell",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1563510121404
+    },
+    {
+      "content": "Oh yea Iâve seen your videos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1563510114686
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "â¤ï¸"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563510101492,
+      "videos": [
+        {
+          "creation_timestamp": 1601398076,
+          "uri": "your_instagram_activity/messages/inbox/sledonne_559533692110110/videos/67633022_459849967896164_3431348294461161472_n_675207556449365.mp4"
+        }
+      ]
+    },
+    {
+      "content": "itâs the main mode of transportation for myself and my (never once rode an actual skateboard) girlfriend. that should speak to just how not sketchy they are. \n\n15 mile range on the battery and tops out around 25mph",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563510056494
+    },
+    {
+      "content": "yeah itâs an electric skateboard, itâs so much fun to cruise around on. itâs by far the most time efficient way to get around/see the city.\n\niâve got 2 extras so weâll go shred.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563509979749
+    },
+    {
+      "content": "Is it a skateboard ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1563509744583
+    },
+    {
+      "content": "are you familiar with boosted boards?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563505162806
+    },
+    {
+      "content": "I have a few friends who do stand up but more so improv up down here",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1563496909671
+    },
+    {
+      "content": "I will for sure",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1563496897015
+    },
+    {
+      "content": "give me a shout when youâre in town",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563496865581
+    },
+    {
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1563496864519
+    },
+    {
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1563496862937
+    },
+    {
+      "content": "lololol trust me iâm sure heâs WAY more fulfilled and well adjusted than i am",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "â¤ï¸"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563496837254
+    },
+    {
+      "content": "thatâs my character: guy who doesnât have any idea itâs no longer cool to brag about having punk rock ethos at 30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "â¤ï¸"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563496802987
+    },
+    {
+      "content": "Lol at the @ Matt Turko",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1563496787286
+    },
+    {
+      "content": "ðððððð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1563496776405
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563496033510
+    },
+    {
+      "content": "i donât think anyone will appreciate the irony of this as much as you will. check out what âposer of the year 2003â dan frank decided to do",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563495951674
+    },
+    {
+      "content": "iâm still really atrocious but thereâs something super cathartic about bouncing around thoughts in your head into a microphone. just gotta figure out how to  make it funny i guess",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563495839602
+    },
+    {
+      "content": "Iâm into it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1563451643772
+    },
+    {
+      "content": "Oh sick",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1563451637153
+    },
+    {
+      "content": "iâd love to grab a coffee with you once youâre settled in. \n\nalso if youâre ever looking for something terribly unfunny to do, iâm doing stand up most nights a week",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563426199933
+    },
+    {
+      "content": "no way thatâs awesome! i canât begin to tell you how much i love being here...it never âwears offâ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563425887938
+    },
+    {
+      "content": "We actually stayed on east 79th a few weeks ago",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1563421210523
+    },
+    {
+      "content": "Thank you for the offer though !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1563421180367
+    },
+    {
+      "content": "My wife and I are moving to Gramercy Park in two weeks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1563421169744
+    },
+    {
+      "content": "Thanks for letting me know that man",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1563420997144
+    },
+    {
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1563420983485
+    },
+    {
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "timestamp_ms": 1563420980218
+    },
+    {
+      "content": "give me a shout if youâre ever in nyc. i live on east 76th, youâre more than welcome to crash here if youâre in town.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "â¤ï¸"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563419865724
+    },
+    {
+      "content": "i havenât spoken to my dad in over 6 months and today he texted me with a link to your WESA write up.  thatâs the whole story - just thought iâd let you know youâre mending wounds and bringing families together. \n\n\n~the power of art~",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "S. LeDonne",
+          "reaction": "â¤ï¸"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563419611494
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "S. LeDonne",
+      "share": {
+        "link": "https://www.instagram.com/p/Bnovb6yh7eo/",
+        "original_content_owner": "katsubot",
+        "share_text": "Autonomous Anonymous Test. ððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððððð#katsu #katsuru #autonomous #drone #dronepainting"
+      },
+      "timestamp_ms": 1537195153606
+    }
+  ],
+  "participants": [
+    {
+      "name": "S. LeDonne"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:34:53.836-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:34:53.836Z"
+  },
+  "thread_path": "inbox/sledonne_559533692110110",
+  "title": "S. LeDonne"
+}

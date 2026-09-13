@@ -1,0 +1,118 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 2058 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "joinable_mode": {
+    "link": "",
+    "mode": 1
+  },
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1560204616042
+    },
+    {
+      "content": "Great! Yours Picked! Tap on Coupon Above To Grab Yours Quickly!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1560204616042
+    }
+  ],
+  "participants": [
+    {
+      "name": "Jacob Cross"
+    },
+    {
+      "name": "Lola ð"
+    },
+    {
+      "name": "Sam Hay"
+    },
+    {
+      "name": "Jake Lee"
+    },
+    {
+      "name": "Alexica Silveyra"
+    },
+    {
+      "name": "Bernice Brooks"
+    },
+    {
+      "name": "uncle bird"
+    },
+    {
+      "name": "Herbert J. Unicorn"
+    },
+    {
+      "name": "Kelli Mimbs Hatton"
+    },
+    {
+      "name": "Jessica Seng"
+    },
+    {
+      "name": "Kristen"
+    },
+    {
+      "name": "Denise Nacrelli McLeod"
+    },
+    {
+      "name": "Andrea Trimarco"
+    },
+    {
+      "name": "V I C O"
+    },
+    {
+      "name": "Hanyu ð§ï¸"
+    },
+    {
+      "name": "Kristina McKenna"
+    },
+    {
+      "name": "Dan Frank"
+    },
+    {
+      "name": "Zach Peagler"
+    },
+    {
+      "name": "shortmone"
+    },
+    {
+      "name": "Amy Cousins"
+    },
+    {
+      "name": "curtis washington"
+    },
+    {
+      "name": "RÃ©mi Perreault"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Bakers Cerritos"
+    },
+    {
+      "name": "Markie"
+    },
+    {
+      "name": "Suvi Autio"
+    },
+    {
+      "name": "charlie36hustle"
+    },
+    {
+      "name": "bemorephresh"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:25:47.601-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:25:47.601Z"
+  },
+  "thread_path": "message_requests/jacobcrosslolasamhayand24others_2430433317047710",
+  "title": "Jacob Cross, Lola ð, Sam Hay and 24 others"
+}

@@ -1,0 +1,41 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1164 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "share": {
+        "link": "https://www.instagram.com/p/CGXY-JuA2EQ/?id=2420513148894404880_43931118217",
+        "original_content_owner": "secretplace7505",
+        "share_text": "Hello, we are SMM agency. Thanks to us, our average client grows between 1-10k followers each month. Click 'Learn More' in post!"
+      },
+      "timestamp_ms": 1602966386760
+    },
+    {
+      "content": "Quickly grow your Instagram Accounts with 1000 to 2500 REAL followers Every Month! Start Now For Free!! Click the above post to learn more",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1602966386760
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:26:26.610-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:26:26.610Z"
+  },
+  "thread_path": "message_requests/instagramuser_576434287086717",
+  "title": "Instagram User"
+}

@@ -1,0 +1,30 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 660 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "am a caring woman I love to help people with my money so am here to help college student bills and financial needs also non student and unemployed",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1636577924331
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:26:28.400-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:26:28.400Z"
+  },
+  "thread_path": "message_requests/instagramuser_766599201403557",
+  "title": "Instagram User"
+}

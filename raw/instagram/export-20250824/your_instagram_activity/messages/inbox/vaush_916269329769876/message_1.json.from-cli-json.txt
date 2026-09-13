@@ -1,0 +1,41 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 865 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/3438551503528862592"
+      },
+      "timestamp_ms": 1724127361503
+    },
+    {
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2906516184230808136"
+      },
+      "timestamp_ms": 1660703808943
+    }
+  ],
+  "participants": [
+    {
+      "name": "Vaush"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:28:55.842-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:28:55.842Z"
+  },
+  "thread_path": "inbox/vaush_916269329769876",
+  "title": "Vaush"
+}

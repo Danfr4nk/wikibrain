@@ -1,0 +1,13 @@
+{
+ "source": "Google Takeout takeout-20260103T040931Z-001",
+ "repo_prefix": "raw/takeout/takeout-20260103T040931Z-001",
+ "drive_id": "16wBR8OtMN9M-gAeQGslgadD4b1BljO9j",
+ "drive_name": "takeout-20260103T040931Z-001.zip",
+ "ingest_date": "2026-09-11",
+ "file_count": 1,
+ "total_bytes": 432957,
+ "skips": [],
+ "conversions": [],
+ "notes": "ZIP verified with unzip -t before extraction. ZIP itself not pushed; extracted contents byte-identical.",
+ "extra": {}
+}

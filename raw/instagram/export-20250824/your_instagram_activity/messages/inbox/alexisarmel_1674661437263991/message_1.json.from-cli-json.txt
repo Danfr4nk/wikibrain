@@ -1,0 +1,43 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 954 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "i've been back for 3 months and not one word from you. okay then okay",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1748373715621
+    },
+    {
+      "content": "ew",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1748373692968
+    },
+    {
+      "content": "Guess what",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1740015753859
+    }
+  ],
+  "participants": [
+    {
+      "name": "Alexis Armel"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:33:23.112-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:33:23.112Z"
+  },
+  "thread_path": "inbox/alexisarmel_1674661437263991",
+  "title": "Alexis Armel"
+}

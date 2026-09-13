@@ -1,0 +1,34 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 708 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1602326939,
+          "uri": "your_instagram_activity/messages/inbox/instagramuser_546549713408508/photos/29739448_2052981071627230_676601861884608512_n_339748663805512.jpg"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1523317022534
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:37:05.731-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:37:05.731Z"
+  },
+  "thread_path": "inbox/instagramuser_546549713408508",
+  "title": "Instagram User"
+}

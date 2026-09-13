@@ -96,3 +96,47 @@ pages: [`dat:0028`](../kb/data/0028-prescriber-quotes-partly-unverifiable.md)
 [`dat:0030`](../kb/data/0030-combos-corroborated-first-person.md) (an admission
 the prior wiki said did not exist, and its stated strongest evidence
 misattributed).
+
+## RAWLOGS backfill — 2026-09-12
+
+Dan approved ("Yes, backfill it"): wikibrain's `raw/` was 44 MB while RAWLOGS'
+`raw/` held 2.8 GB — the mirror policy (wikibrain primary, RAWLOGS the backup)
+was inverted in practice. This batch copies everything missing from RAWLOGS
+main @ e56ef8b into `raw/`, preserving RAWLOGS' subdirectory layout exactly.
+
+Copied 8,804 files (~2.89 GB), one commit per subdirectory:
+`takeout` (591), `instagram` (1,215), `chatgpt` (754), `drive-sweep` (220),
+`facebook` (4,404), `imessage` (4), `location` (4), `wiki` (1,495),
+`twitter` (3), `googlechat` (9), `gmail` (1). `sammy` (102 planned) needed no
+commit — identical files were already on main.
+
+Skipped: 45 files already present byte-identical at the same path; 38 files
+whose bytes already existed in `raw/` under a different name (content-hash
+match — not copied twice). No path collisions.
+
+### Secret redaction (same batch)
+Two xAI API keys (40 occurrences, 8 files: 6 drive-sweep message CSVs, 1
+imessage CSV .bak, raw/imessage/messages.csv) were redacted to
+`xai-REDACTED-ROTATE-ME` before push — GitHub secret scanning blocks the blob
+otherwise, and a live key must not be public. An AWS key ID inside expired
+ChatGPT-export S3 presigned URLs (3 files, 72 occurrences, OpenAI's session
+credential, expired 2025-04-22) was redacted to `<redacted>`.
+Byte-originals remain in private RAWLOGS. Recommendation: rotate both xAI keys.
+
+### Large-file handling (GitHub API limits, same batch)
+Four files could not be pushed through the Git Data API as single blobs and
+were handled specially (byte-originals remain in private RAWLOGS):
+- `raw/imessage/messages.csv` (47.8 MB, 192,140 rows, 2011-03-19 → 2026-09-07)
+  — the blob-create API rejects it. Present here as a verified-lossless split:
+  `raw/imessage/messages-part1-2011-2019.csv` (96,070 rows, 21.8 MB) and
+  `raw/imessage/messages-part2-2019-2026.csv` (96,070 rows, 26.2 MB).
+  Recombining parsed rows reproduces all 192,140 records exactly (verified
+  2026-09-13). Public copy carries the xAI-key redaction; RAWLOGS keeps the
+  byte-original.
+- `raw/takeout/.../Gemini Apps/Screen Recording 2025-11-26 at 9.-6250b4544e5b66cd.mov`
+  (40.6 MB), `.../bassdown final bounce-f9869e242729f118` and
+  `.../bassdown final bounce-697663cfa661ba2f` (38.4 MB each, same bytes) —
+  trees referencing ~38 MB+ blobs time out on GitHub's side. Omitted from the
+  pushed trees; a native `git push` from a machine with direct GitHub access
+  would carry them. A tree with a 36.4 MB blob succeeded, so the practical
+  ceiling sits between 36 and 38 MB.

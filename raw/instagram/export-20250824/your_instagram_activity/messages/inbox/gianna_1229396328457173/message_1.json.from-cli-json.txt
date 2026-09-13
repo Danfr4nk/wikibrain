@@ -1,0 +1,606 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 22847 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "to quit LMAO",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1694623618130
+    },
+    {
+      "content": "and i havenât even emailed them yet",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1694623612897
+    },
+    {
+      "content": "no way",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1694623607474
+    },
+    {
+      "content": "Lou quit",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1694574472979
+    },
+    {
+      "content": "We are literally back to an all male staff",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1694574418102
+    },
+    {
+      "content": "then after im gonna be like okay bye see you never",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1694237433862
+    },
+    {
+      "content": "iâm going to send an email w my sick hours",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1694237414938
+    },
+    {
+      "content": "okay bc iâm literally not going back",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1694237397004
+    },
+    {
+      "content": "But you can only use 40 a year",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1694236058003
+    },
+    {
+      "content": "And if you donât use all 40 by December 31, only 20 hours max will carry over",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1694236015194
+    },
+    {
+      "content": "But yes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1694235975294
+    },
+    {
+      "content": "Sorry for the late reply",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1694235973445
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1693924516,
+          "uri": "your_instagram_activity/messages/inbox/gianna_1229396328457173/photos/373465202_764025152147248_7227580091354040181_n_764025145480582.jpg"
+        }
+      ],
+      "sender_name": "gianna",
+      "timestamp_ms": 1693924518680
+    },
+    {
+      "content": "so can i use all 15.6?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1693924500532
+    },
+    {
+      "content": "o lowkey just donât wanna come back lmao",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1693791754649
+    },
+    {
+      "content": "damnn that sucks but yeah good luck w him lmao",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1693791754103
+    },
+    {
+      "content": "Today",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1693788459832
+    },
+    {
+      "content": "when does he get back??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1693788447358
+    },
+    {
+      "content": "omg lmaooo so thatâs good",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1693788442958
+    },
+    {
+      "content": "And hasnât been there since Thursday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1693788437459
+    },
+    {
+      "content": "You actually picked a bad time too because tarik went on vacation",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1693788429584
+    },
+    {
+      "content": "And Hunter quit",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1693788409237
+    },
+    {
+      "content": "Today was Anitaâs last day",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1693788403878
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1693788329,
+          "uri": "your_instagram_activity/messages/inbox/gianna_1229396328457173/photos/372405379_6962434680441729_7782562224089631206_n_6962434677108396.jpg"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1693788331140
+    },
+    {
+      "content": "You can get one from your ADP",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1693788326343
+    },
+    {
+      "content": "and how do you use it and how much can you use at once",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1693788294311
+    },
+    {
+      "content": "not w me but i can get one",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1693788286374
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1693788163900
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1693788057561
+    },
+    {
+      "content": "Do you have a paystub",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1693788030492
+    },
+    {
+      "content": "remember i told you i didnât know i had any at all so i was gonna ask you how to use it lmao",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1693788011615
+    },
+    {
+      "content": "And I just have never understood it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1693787982601
+    },
+    {
+      "content": "My ex LOVES the arctic monkeys",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1693787976448
+    },
+    {
+      "content": "And taking more days is fine, itâs only a problem if you try to come back after like 3 or 4 days ya know",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1693787894488
+    },
+    {
+      "content": "How many paid sick hours do you have",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1693787840433
+    },
+    {
+      "content": "They never do",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1693787830004
+    },
+    {
+      "content": "but they never even answered my email",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1693787681700
+    },
+    {
+      "content": "not come back till like thursday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1693787680672
+    },
+    {
+      "content": "ughh iâm gonna try to milk it lmso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1693787661962
+    },
+    {
+      "content": "So come back Tuesday or something",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1693786887533
+    },
+    {
+      "content": "Idk probably 5 days",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1693786864102
+    },
+    {
+      "content": "and like i lowkey forgot i have an arctic monkeys concert this saturday ðð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1693780490815
+    },
+    {
+      "content": "but also like how long do you think i should be out for if i said wednesday i testedâ positive",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1693780468834
+    },
+    {
+      "content": "lmaoooo honestly true heâs traditional",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1693780432426
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1693780417566
+    },
+    {
+      "content": "Oh and for the record Elyes DEFINITELY does not need an open relationship. He almost melted down when he saw girlfriend in another guyâs pictureâ¦I think his brain would literally break if she was sleeping with other guys",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1693766280332
+    },
+    {
+      "content": "Iâm glad you did it though because itâs only going to help me when I need to use that excuse in a few weeks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "gianna",
+          "reaction": "â¤ï¸",
+          "timestamp": 1693780417
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1693766084908
+    },
+    {
+      "content": "Haha Iâm not great at it either, I just saw your messages",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1693766032320
+    },
+    {
+      "content": "he usually sees through my bullshit but sometimes i can convince him itâs true",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1693418414591
+    },
+    {
+      "content": "but if eleyes asks tell him i for real have it lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1693418400376
+    },
+    {
+      "content": "today i âwoke up with no sense of tasteâ looks like i have covid",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1693418011224
+    },
+    {
+      "content": "but iâm following through w the plan we talked about yesterday â¦.lmao",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1693417984712
+    },
+    {
+      "content": "i never saw theses messages if you couldnât tell i suck at social media lmao",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1693417971378
+    },
+    {
+      "content": "^that type of relationship is what eleyes needs ððð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1693417956970
+    },
+    {
+      "content": "Also to be fair - I think I perplexed her even more than necessary by mentioning that I have a girlfriend but weâre non-monogamous when she asked if I was in a relationship on her first day",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1688528473904
+    },
+    {
+      "content": "But yeah it took roz a few weeks to realize that the way you can tell how much I actually enjoy someone is by how often I tell them to âshut the fuck upâ\n\nIf I actually donât like someone, I endeavor to say as little to them as humanly possible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1688528141372
+    },
+    {
+      "content": "Unfortunately they did such a bad job that the only way I could make it work was in reverse ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1688527797545
+    },
+    {
+      "content": "We couldnât see the fireworks so I told these idiots that we would have to do it like a green screen",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1688527751256
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1688527702578,
+      "videos": [
+        {
+          "creation_timestamp": 1688527696,
+          "uri": "your_instagram_activity/messages/inbox/gianna_1229396328457173/videos/358165630_9683243228414972_4657179785311616103_n_2259335127790648.mp4"
+        }
+      ]
+    },
+    {
+      "content": "As Iâve gotten older Iâve realized just how difficult it is for a lot of (most) people to âgetâ my wholeâ¦thingâ¦ \n\nSo Iâm pretty accustomed to giving people a little bit to understand and adjust before I decide that Iâm going to put them in the enemy category",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1688527076918
+    },
+    {
+      "content": "was so stressed but also i was like fuck that place",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1688526728953
+    },
+    {
+      "content": "i called out today",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1688526687598
+    },
+    {
+      "content": "but also",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1688526683176
+    },
+    {
+      "content": "bro so funny bc i saw the rif between you two but not on purpose just personality wise",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Dan Frank",
+          "reaction": "ð",
+          "timestamp": 1688526979
+        }
+      ],
+      "sender_name": "gianna",
+      "timestamp_ms": 1688526681418
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1688526638880
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1688526637231
+    },
+    {
+      "content": "You missed a fun night today surprisingly",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1688526289562
+    },
+    {
+      "content": "(This hurdle made it take a little time before roz and I got along. She would take me seriously when I would say that the annoying customer should have their head smashed off of a bathroom sink)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "gianna",
+          "reaction": "â¤ï¸",
+          "timestamp": 1688526638
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1688526268392
+    },
+    {
+      "content": "Like when I made that joke about DJâs dad, most personality types arenât able to understand how or why someone would say something like that if they have 0 animosity towards that person.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "gianna",
+          "reaction": "â¤ï¸",
+          "timestamp": 1688526637
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1688526163196
+    },
+    {
+      "content": "youâre almost certainly an I rather than an E\n\nLogic over emotional decision making tendencies \n\nIâve made a couple really awful jokes that you were able to see the humor in and that thereâs some comedic separation/dissonance in dark humor \n\nMore mechanical thinking than personality driven",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1688526053646
+    },
+    {
+      "content": "If I had to type you just based on the very limited window I have Iâd say probably ISFJ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1688525826449
+    },
+    {
+      "content": "okay let me take it once more, i fuck with this quiz but i feel like every single time i get a different answer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1688413873093
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "gianna",
+      "timestamp_ms": 1688413847862
+    },
+    {
+      "content": "If you donât know what the fuck Iâm talking about - https://www.humanmetrics.com/personality/test",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://www.humanmetrics.com/personality/test",
+        "share_text": "If you donât know what the fuck Iâm talking about - https://www.humanmetrics.com/personality/test"
+      },
+      "timestamp_ms": 1688344578216
+    },
+    {
+      "content": "Going to make it my mission to sell you on Myers Briggs now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1688343969062
+    },
+    {
+      "content": "Iâm shocked that youâre an astrology head instead of being part of the far superior club of us who are obsessed with MBTI.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "gianna",
+          "reaction": "â¤ï¸",
+          "timestamp": 1688413847
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1688343907994
+    }
+  ],
+  "participants": [
+    {
+      "name": "gianna"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:34:27.549-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:34:27.549Z"
+  },
+  "thread_path": "inbox/gianna_1229396328457173",
+  "title": "gianna"
+}

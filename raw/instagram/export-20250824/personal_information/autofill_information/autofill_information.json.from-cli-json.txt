@@ -1,0 +1,31 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 540 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "ig_autofill_data": {
+    "address_level1": "",
+    "address_level2": "",
+    "address_level3": "",
+    "address_level4": "",
+    "address_line1": "",
+    "address_line2": "",
+    "address_line3": "",
+    "country": "",
+    "country_name": "",
+    "email": "danfrank",
+    "family_name": "",
+    "given_name": "",
+    "postal_code": "",
+    "street_address": "",
+    "tel": "",
+    "tel_area_code": "",
+    "tel_country_code": "",
+    "tel_local": "",
+    "tel_local_prefix": "",
+    "tel_local_suffix": "",
+    "tel_national": ""
+  },
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:23:26.764-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:23:26.764Z"
+  }
+}

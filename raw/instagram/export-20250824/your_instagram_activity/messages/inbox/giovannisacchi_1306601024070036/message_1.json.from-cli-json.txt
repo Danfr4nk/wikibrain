@@ -1,0 +1,28 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 459 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1698808449978
+    }
+  ],
+  "participants": [
+    {
+      "name": "Giovanni Sacchi"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:32:41.572-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:32:41.572Z"
+  },
+  "thread_path": "inbox/giovannisacchi_1306601024070036",
+  "title": "Giovanni Sacchi"
+}

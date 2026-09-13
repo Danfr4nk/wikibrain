@@ -1,0 +1,32 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 579 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:24:24.229-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:24:24.229Z"
+  },
+  "text_post_app_text_post_app_blocked_users": [
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/ricardoguzj",
+          "timestamp": 1659671391,
+          "value": "ricardoguzj"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.threads.com/lindsayleigh022",
+          "timestamp": 1529541165,
+          "value": "lindsayleigh022"
+        }
+      ],
+      "title": ""
+    }
+  ]
+}

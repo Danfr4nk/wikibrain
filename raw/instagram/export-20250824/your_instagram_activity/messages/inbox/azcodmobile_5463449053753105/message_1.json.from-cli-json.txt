@@ -1,0 +1,69 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1824 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "joinable_mode": {
+    "link": "",
+    "mode": 1
+  },
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Iâm on now if anyone wants to jump in",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669605872152
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1669533863,
+          "uri": "your_instagram_activity/messages/inbox/azcodmobile_5463449053753105/photos/317001598_847324399921498_6751614159558599206_n_847324393254832.jpg"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669533864909
+    },
+    {
+      "content": "Modi i sent you a request but hereâs my UID : 6802161412468310017",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669533729741
+    },
+    {
+      "content": "You named the group AZ COD mobile.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669532503510
+    },
+    {
+      "content": "Starting the Official au zaatar COD mobile chat here",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1669532486424
+    }
+  ],
+  "participants": [
+    {
+      "name": "Dan Frank"
+    },
+    {
+      "name": "_simo_am"
+    },
+    {
+      "name": "Modi Khalifa"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:36:25.494-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:36:25.494Z"
+  },
+  "thread_path": "inbox/azcodmobile_5463449053753105",
+  "title": "AZ COD mobile"
+}

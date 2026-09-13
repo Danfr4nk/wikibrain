@@ -1,0 +1,56 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1090 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "profile_account_insights": [
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Contact Syncing": {
+          "href": "",
+          "timestamp": 0,
+          "value": "True"
+        },
+        "First Close Friends Story Time": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        },
+        "First Country Code": {
+          "href": "",
+          "timestamp": 0,
+          "value": "US"
+        },
+        "First Story Time": {
+          "href": "",
+          "timestamp": 1516249217,
+          "value": ""
+        },
+        "Has Shared Live Video": {
+          "href": "",
+          "timestamp": 0,
+          "value": "True"
+        },
+        "Last Login": {
+          "href": "",
+          "timestamp": 1756036878,
+          "value": ""
+        },
+        "Last Logout": {
+          "href": "",
+          "timestamp": 1591707166,
+          "value": ""
+        },
+        "Last Story Time": {
+          "href": "",
+          "timestamp": 1736218673,
+          "value": ""
+        }
+      },
+      "title": ""
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:23:01.471-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:23:01.471Z"
+  }
+}

@@ -1,0 +1,375 @@
+[Converted from Google Doc 'None' (id 1v4aylBWxS3WzF0CShkVx_mrqOTXkSFBFjBEhX1CiUmM); this is a conversion, not the original Drive-native document.]
+
+
+
+
+
+
+
+Login protection data
+
+
+Cookie: aNfD********************
+
+
+IP Address: 2604:ca00:169:a4eb::861:ce90
+
+
+IP Address: 2604:ca00:17c:304e::c63:3696
+
+
+Estimated location inferred from IP 37.368, -122.04
+
+
+IP Address: 2607:fb90:7ba2:d3cd:a0fc:37a8:50d5:e032
+
+
+IP Address: 2607:fb90:7b14:8fed:d14e:119b:ac5c:6667
+
+
+Estimated location inferred from IP 40.712, -73.96
+
+
+IP Address: 2607:fb90:7b62:d534:991f:dea2:3025:a9d6
+
+
+IP Address: 2607:fb90:7a2c:603b:7d0f:8869:ce0e:3132
+
+
+IP Address: 2607:fb90:5489:9221:ccaf:c6b6:e077:bc66
+
+
+IP Address: 2607:fb90:7b16:abda:adc3:7813:ffa0:3daa
+
+
+Cookie: xrgJ********************
+
+
+IP Address: 2607:fb90:7cb:6a5e:bd4a:f41d:7d09:2eae
+
+
+Cookie: O4fJ********************
+
+
+IP Address: 2607:fb90:7b3b:7c82:3d75:9ba8:f1b:dd98
+
+
+IP Address: 2607:fb90:7b73:c6d9:38c1:1a41:d1cc:f1f8
+
+
+IP Address: 2607:fb90:2443:35a2:5d25:fd95:6231:6ada
+
+
+IP Address: 2607:fb90:7b3e:346a:1a:be51:3490:7758
+
+
+IP Address: 2607:fb90:5490:9550:5c8f:338b:2355:839f
+
+
+IP Address: 2607:fb90:7bda:2152:5d26:7c71:fbc1:732b
+
+
+IP Address: 2607:fb90:7bca:5b26:9c3:9d76:25ea:5b49
+
+
+IP Address: 2607:fb90:7b1d:82ad:cd:c1de:39a7:362e
+
+
+IP Address: 2607:fb90:7a46:1740:3d51:17fc:6692:d813
+
+
+IP Address: 2607:fb90:7bd8:2d3e:a09a:26d:8e35:9766
+
+
+IP Address: 2607:fb90:7a1f:5fa5:dce7:32b5:5819:2b1b
+
+
+IP Address: 2607:fb90:7b19:b92d:4e0:80dd:7bbc:dd17
+
+
+IP Address: 2607:fb90:7b03:38da:51c7:6c03:2e5:7923
+
+
+IP Address: 2607:fb90:7b01:58e4:199:b799:ea2f:7a32
+
+
+IP Address: 2607:fb90:7b42:9ec6:f1bb:586:c042:74b3
+
+
+IP Address: 2607:fb90:7ad5:6795:514a:d3e5:a6db:29d1
+
+
+IP Address: 2607:fb90:7ba7:50fe:adb6:d67:2a68:1fa9
+
+
+IP Address: 2607:fb90:7a96:4677:cd1e:13a5:2650:1055
+
+
+IP Address: 2604:ca00:168:af7c::a60:6dbe
+
+
+IP Address: 2607:fb90:76f:652f:d4c8:8b1:7e19:70b9
+
+
+Estimated location inferred from IP 41.104, -74.048
+
+
+IP Address: 2607:fb90:7b0c:cebc:cfa:2d07:c570:f347
+
+
+IP Address: 68.129.248.49
+
+
+IP Address: 2607:fb90:7a58:10be:7c62:dab0:f4f7:f8ff
+
+
+Cookie: yca-********************
+
+
+IP Address: 2607:fb90:7c8:3d70:f807:689b:94f9:a0e4
+
+
+IP Address: 108.14.42.172
+
+
+IP Address: 2607:fb90:7a35:3ada:18b1:a3d8:39cd:3fcd
+
+
+IP Address: 100.2.1.22
+
+
+IP Address: 173.77.90.172
+
+
+IP Address: 2607:fb90:7a2d:fc4c:688c:d8f3:2cae:ee4a
+
+
+IP Address: 2607:fb90:7b17:1eae:b4a7:2a77:1b8a:1eb0
+
+
+IP Address: 2607:fb90:7c2:e7e4:ccd1:b681:78d4:cea4
+
+
+IP Address: 2607:fb90:7ae9:c6ff:135:9441:4749:d6e3
+
+
+IP Address: 98.116.120.102
+
+
+IP Address: 2607:fb90:7b4b:b9da:78c0:a858:37cf:68ac
+
+
+IP Address: 2607:fb90:7ad9:ed6:c40a:bd79:bb58:8480
+
+
+IP Address: 2607:fb90:7b3d:eaa6:918:cfd:79ea:c3a6
+
+
+Estimated location inferred from IP 40.976, -73.696
+
+
+IP Address: 2607:fb90:5428:8106:697b:7c18:6df4:927
+
+
+IP Address: 2607:fb90:7b4e:7daf:159f:f8f6:64b8:c110
+
+
+IP Address: 2607:fb90:549e:5ae:70cf:5155:7862:4911
+
+
+IP Address: 173.56.213.131
+
+
+IP Address: 2607:fb90:7ada:ec90:85e2:970c:2874:ed85
+
+
+IP Address: 2607:fb90:5424:6a27:6515:d696:ab4a:852d
+
+
+IP Address: 2607:fb90:7b6b:1ca5:4980:e4c8:e36:d110
+
+
+IP Address: 2607:fb90:7a83:356:481c:c390:9d65:91e2
+
+
+IP Address: 2607:fb90:7c3:f1e0:61ce:de99:732f:ce13
+
+
+IP Address: 2607:fb90:7b41:5bc0:81b4:8b64:9230:d9f9
+
+
+IP Address: 2607:fb90:5420:6bf1:443:103d:d9db:c930
+
+
+IP Address: 2607:fb90:7a43:5bbb:cdba:dcc3:be8a:c568
+
+
+IP Address: 2607:fb90:542b:6a0a:754e:6456:a1d1:3cff
+
+
+IP Address: 2607:fb90:7b0b:98f2:7173:f010:ded8:1970
+
+
+IP Address: 2607:fb90:548a:66e2:354c:9618:c0d9:2638
+
+
+IP Address: 2607:fb90:7ce:d4eb:6dbe:91bf:22d0:bd6c
+
+
+IP Address: 2607:fb90:7b92:16c4:595f:590c:dbf8:6423
+
+
+IP Address: 2607:fb90:7b48:106f:5cf0:24a3:bd5:4db
+
+
+IP Address: 2607:fb90:7bae:d2a7:25d9:c504:83a3:7649
+
+
+IP Address: 2607:fb90:2492:5178:f5e0:afda:76a1:761f
+
+
+IP Address: 2607:fb90:7b3c:4499:dca5:a043:b1c9:ee99
+
+
+IP Address: 2607:fb90:7a9f:ac87:24b4:841f:f904:b4ad
+
+
+IP Address: 2607:fb90:7c1:334d:1cda:9a35:cffd:c342
+
+
+IP Address: 2607:fb90:7ae2:76ba:cd09:8dea:8750:65fb
+
+
+IP Address: 2607:fb90:5421:e625:88fa:a771:f688:1d20
+
+
+IP Address: 2607:fb90:5486:1f30:196d:ec9f:5d9f:2b1b
+
+
+IP Address: 2607:fb90:7bcc:9924:ade7:6680:47da:c88a
+
+
+IP Address: 2607:fb90:7cd:30f2:70f2:8049:41f3:a22d
+
+
+IP Address: 2607:fb90:7a8d:a2cc:8973:f0f:6485:4ed1
+
+
+IP Address: 2607:fb90:7bd9:9893:f572:bdb1:5e7:2f2f
+
+
+IP Address: 2607:fb90:7add:90b4:4e5:b6ae:51f8:841f
+
+
+IP Address: 2607:fb90:7a93:57a4:2c2c:2999:2bb3:ac17
+
+
+IP Address: 2607:fb90:7a84:9f78:7d01:69ec:19da:1d58
+
+
+IP Address: 2607:fb90:5438:ed5:c939:e6fa:8339:5bb3
+
+
+IP Address: 108.41.122.87
+
+
+IP Address: 172.58.230.174
+
+
+IP Address: 2607:fb90:7b9a:a56:b59a:6ab1:811c:ac96
+
+
+IP Address: 2607:fb90:2449:cd6e:b572:261b:429f:9362
+
+
+IP Address: 2607:fb90:5493:bbb6:9ccc:277f:7d52:c344
+
+
+IP Address: 2607:fb90:7bce:7562:c519:bfb2:ccd5:d861
+
+
+IP Address: 2607:fb90:5433:75f8:fd9c:af71:fa9e:8bdc
+
+
+IP Address: 2607:fb90:7b67:9c18:9819:5333:dd8b:f160
+
+
+Estimated location inferred from IP 40.664, -73.608
+
+
+IP Address: 2607:fb90:aaba:921b:242e:d6cb:9bc:7209
+
+
+IP Address: 2607:fb90:7b0e:f2b5:bd05:d77d:e03f:1d5b
+
+
+IP Address: 2607:fb90:244d:acfe:b034:7a1c:e263:5c64
+
+
+IP Address: 71.247.212.44
+
+
+IP Address: 72.69.19.28
+
+
+Cookie: llyD********************
+
+
+IP Address: 2607:fb90:7b64:7cb1:ec4d:d42b:bc23:9e87
+
+
+IP Address: 173.68.202.56
+
+
+IP Address: 96.239.33.220
+
+
+IP Address: 2607:fb90:7b15:a254:ddd9:f1b7:4d93:e9cb
+
+
+IP Address: 2607:fb90:5429:5a6a:64ce:7a45:1bb2:a275
+
+
+IP Address: 2607:fb90:7b35:51b6:6ca4:d9d5:a99b:fdcd
+
+
+IP Address: 2607:fb90:775:81b9:c878:3092:76ba:33ae
+
+
+IP Address: 2607:fb90:7b98:4853:c5ea:f010:861f:862e
+
+
+Estimated location inferred from IP 40.8, -73.608
+
+
+Cookie: DfIi********************
+
+
+Estimated location inferred from IP 39.92, -74.928
+
+
+Cookie: K6Q4********************
+
+
+Cookie: ngzV********************
+
+
+Cookie: IZ76********************
+
+
+Cookie: zZqH********************
+
+
+Cookie: LRvz********************
+
+
+Cookie: OhNY********************
+
+
+Estimated location inferred from IP 40.712, -74.224
+
+
+Cookie: 9o1d********************
+
+
+Generated by Dan Frank on Monday, September 5, 2022 at 4:40 AM UTC-04:00

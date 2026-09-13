@@ -1,0 +1,23 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 388 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "ig_profile_picture": [
+    {
+      "creation_timestamp": 1742174346,
+      "cross_post_source": {
+        "source_app": "FB"
+      },
+      "media_metadata": {
+        "camera_metadata": {
+          "has_camera_metadata": false
+        }
+      },
+      "title": "",
+      "uri": "media/profile/202503/484209605_548366834956592_4026606967442509696_n_18304475290234599.jpg"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:24:33.407-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:24:33.407Z"
+  }
+}

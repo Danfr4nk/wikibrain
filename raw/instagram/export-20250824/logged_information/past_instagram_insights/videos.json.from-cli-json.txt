@@ -1,0 +1,1219 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 33846 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "organic_insights_videos": [
+    {
+      "media_map_data": {
+        "Media Thumbnail": {
+          "creation_timestamp": 1656157496,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1656157496,
+                "uri": "media/igtv/202206/455031358_7890704367715544_4629234848236573302_n_18038904125052494.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "Someday, centuries from nowâ¦these videos will be shown in American history classes and these antidemocratic shitlords will be excoriated for their blind affirmation of the endless cascade of obvious lies that the notorious obvious liar has and continues to tell. While there is no possibility that trump ever faces any criminal prosecutionâ¦itâs nice to know this nonsense was captured in such glorious and unmistakable grift like the lies about a stolen election \n\nItâs bizarre nobody found out until now that a documentary team was embedded with the trump campaign from September 2020 until he left office but it was confirmed when the Jan 6 select committee subpoenaed the footage and a few clips have been released. \n\nPreserving this unhinged shit for the historic record is a blessing and inshallah the big boy president says as much stupid and legally perilous stuff as Iâm expecting him to. You KNOW this megalomaniac was yapping aimlessly about how unfairly he was being treated after 1/6 and taking a yak being banned from twitter.",
+          "uri": "media/igtv/202206/AQNVQlq5zAHZkGBePUrEK7REPodfsAaUXQpiKilY5kV0hlkYAPgZqkbjV9m0dbgJG_ggjwr_o5dkra7R_NxhQTy_17921166440516936.mp4"
+        }
+      },
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Average Percentage Watched": {
+          "href": "",
+          "timestamp": 0,
+          "value": "14%"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "208"
+        },
+        "Follows": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Impressions": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Likes": {
+          "href": "",
+          "timestamp": 0,
+          "value": "2"
+        },
+        "Profile visits": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Upload Timestamp": {
+          "href": "",
+          "timestamp": 1656157496,
+          "value": ""
+        },
+        "Views": {
+          "href": "",
+          "timestamp": 0,
+          "value": "68"
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {
+        "Media Thumbnail": {
+          "creation_timestamp": 1651645209,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D"
+                }
+              ]
+            }
+          },
+          "media_variants": [],
+          "title": "The tragic fate of Roe v Wade will  accelerate the conservative Evangelical cause with devastating potential consequences for every minority protected class and seeks to reverse a half century of civil rights progress. Equality is oppression to those who expect privilege and this SCOTUS ruling is a green light for their illiberal & essentialist agenda to look even more like 1850 than 1950.",
+          "uri": "media/igtv/202205/AQNDJme7nLHozbbF_MdxoOxh2_ygpeSeC6iezkYNjiD7EUx5t0L6DyefLDb4o8tLOa55apYoZ9RvP_4D2CA1NxU9_17921871287367738.mp4"
+        }
+      },
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "21"
+        },
+        "Average Percentage Watched": {
+          "href": "",
+          "timestamp": 0,
+          "value": "53%"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "20"
+        },
+        "Follows": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Impressions": {
+          "href": "",
+          "timestamp": 0,
+          "value": "26"
+        },
+        "Likes": {
+          "href": "",
+          "timestamp": 0,
+          "value": "1"
+        },
+        "Percent Reach From Non Followers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "52% weren't following this account"
+        },
+        "Profile visits": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Upload Timestamp": {
+          "href": "",
+          "timestamp": 1651645209,
+          "value": ""
+        },
+        "Views": {
+          "href": "",
+          "timestamp": 0,
+          "value": "98"
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {
+        "Media Thumbnail": {
+          "creation_timestamp": 1649682600,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "latitude": 40.7779,
+                  "longitude": -73.9675
+                },
+                {
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1649682600,
+                "uri": "media/igtv/202204/278355739_560045995547452_458453675533515443_n_17940258898975285.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "We did it guys. Thanks to the support of Premier Biden and our comrades at Amazon, we have finally established the Communist States of America.",
+          "uri": "media/igtv/202204/AQPDGYSJHYgqstduLSwUO50Zuqsb2p7mYw5sUExuwyMze6_eOjJCJDJry_qNA7PXd2I7ymH8TDmrdpGmXALAZ2J_17931781082135225.mp4"
+        }
+      },
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "43"
+        },
+        "Average Percentage Watched": {
+          "href": "",
+          "timestamp": 0,
+          "value": "34%"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "27"
+        },
+        "Follows": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Impressions": {
+          "href": "",
+          "timestamp": 0,
+          "value": "56"
+        },
+        "Likes": {
+          "href": "",
+          "timestamp": 0,
+          "value": "3"
+        },
+        "Percent Reach From Non Followers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "60% weren't following this account"
+        },
+        "Profile visits": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Upload Timestamp": {
+          "href": "",
+          "timestamp": 1649682600,
+          "value": ""
+        },
+        "Views": {
+          "href": "",
+          "timestamp": 0,
+          "value": "189"
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {
+        "Media Thumbnail": {
+          "creation_timestamp": 1635834073,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "latitude": 40.712701423445,
+                  "longitude": -74.005891084671
+                },
+                {
+                  "device_id": "FE617F4A-54EB-4DF2-8FB1-90477B1B57C6"
+                }
+              ]
+            }
+          },
+          "media_variants": [],
+          "title": "Surprise sighting of psychopath mayoral candidate Curtis Sliwa on the day after he was hit by a car and the day before Election Day is unironically my favorite nyc run in.",
+          "uri": "media/igtv/202111/AQN3jjZZOiFcHRFAZcKFUVjowTs3XDfdd05sChZubFFAllR7UGWp435RWW8RLcUB6FN8Dz_D92QiDcmMrIP8Bb_Z4mUqH591_79PwU_17908092782089410.mp4"
+        }
+      },
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "10"
+        },
+        "Average Percentage Watched": {
+          "href": "",
+          "timestamp": 0,
+          "value": "572%"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "8"
+        },
+        "Follows": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Impressions": {
+          "href": "",
+          "timestamp": 0,
+          "value": "11"
+        },
+        "Likes": {
+          "href": "",
+          "timestamp": 0,
+          "value": "2"
+        },
+        "Percent Reach From Non Followers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "60% weren't following this account"
+        },
+        "Profile visits": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Upload Timestamp": {
+          "href": "",
+          "timestamp": 1635834073,
+          "value": ""
+        },
+        "Views": {
+          "href": "",
+          "timestamp": 0,
+          "value": "105"
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {
+        "Media Thumbnail": {
+          "creation_timestamp": 1617240581,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "device_id": "FE617F4A-54EB-4DF2-8FB1-90477B1B57C6"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1617240581,
+                "uri": "media/igtv/202103/167523423_125087462915304_8539829147236564519_n_17974821298370143.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "22 killstreak + 11 vtol & chopper kills",
+          "uri": "media/igtv/202103/AQM3mtLXSmbPjEKZ23HNnXMgEo6Q2UME05F3WKKRNJhmadcQF3kha_XLH4bipAnXFut0MbedSaayzSxA9FbR4JQjjwwBLe0UNVGbFM_17901561400851999.mp4"
+        }
+      },
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Average Percentage Watched": {
+          "href": "",
+          "timestamp": 0,
+          "value": "6%"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "249"
+        },
+        "Follows": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Impressions": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Likes": {
+          "href": "",
+          "timestamp": 0,
+          "value": "1"
+        },
+        "Profile visits": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Upload Timestamp": {
+          "href": "",
+          "timestamp": 1617240581,
+          "value": ""
+        },
+        "Views": {
+          "href": "",
+          "timestamp": 0,
+          "value": "34"
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {
+        "Media Thumbnail": {
+          "creation_timestamp": 1586499353,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [],
+              "subtitles": {
+                "creation_timestamp": 1586499353,
+                "uri": "media/igtv/202004/456277641_1406984896612389_5813669405462055389_n_18281545423227793.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "#callofduty #warzone #battleroyale",
+          "uri": "media/igtv/202004/AQP6LkNxIjjb5Qm9jmm9pUK6jmjdeHzL7Rw3dRmFQuOpDvkEvQyneaHcFL33IEHkOohg2HOQIxXj5wd4CRmVd3xyDZxea_DMjpTyI_17856809161873789.mp4"
+        }
+      },
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Average Percentage Watched": {
+          "href": "",
+          "timestamp": 0,
+          "value": "4%"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "272"
+        },
+        "Follows": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Impressions": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Likes": {
+          "href": "",
+          "timestamp": 0,
+          "value": "1"
+        },
+        "Profile visits": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Upload Timestamp": {
+          "href": "",
+          "timestamp": 1586499353,
+          "value": ""
+        },
+        "Views": {
+          "href": "",
+          "timestamp": 0,
+          "value": "37"
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {
+        "Media Thumbnail": {
+          "creation_timestamp": 1586332965,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [],
+              "subtitles": {
+                "creation_timestamp": 1586332965,
+                "uri": "media/igtv/202004/459395082_437040932714580_4898448362920951167_n_18247852576260484.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "Since being stuck in my apartment for 45 days Iâve played waaaaay too much of this game.\n#warzone #callofduty #modernwarfare #battleroyale",
+          "uri": "media/igtv/202004/AQPQgV7C224CMI1nJQeIfvGZPo1_I5B6SVwFQOe5Fi8jGgA85SFElg_f5AIGulFE_t0SsoOyvPraT7tlafUhD7Aqdw0QTIKo4oAH4Xk_17862282298792089.mp4"
+        }
+      },
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Average Percentage Watched": {
+          "href": "",
+          "timestamp": 0,
+          "value": "6%"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "326"
+        },
+        "Follows": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Impressions": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Likes": {
+          "href": "",
+          "timestamp": 0,
+          "value": "7"
+        },
+        "Profile visits": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Upload Timestamp": {
+          "href": "",
+          "timestamp": 1586332965,
+          "value": ""
+        },
+        "Views": {
+          "href": "",
+          "timestamp": 0,
+          "value": "55"
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {
+        "Media Thumbnail": {
+          "creation_timestamp": 1601625584,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "media_variants": [],
+          "title": "playing around with some fx features on the ddj1000 and rekordbox",
+          "uri": "media/igtv/202010/AQOyRzXoKAMEQryIgrVCz37EUeolZ3yG_HK8kzU1rU97pnixkfZP7lY6T4PK2vE2sO9S365yy8lO7rp4PCdUDktK5u28qlYToWMS6g_17888497078695830.mp4"
+        }
+      },
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Average Percentage Watched": {
+          "href": "",
+          "timestamp": 0,
+          "value": "6%"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "124"
+        },
+        "Follows": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Impressions": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Likes": {
+          "href": "",
+          "timestamp": 0,
+          "value": "2"
+        },
+        "Profile visits": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Upload Timestamp": {
+          "href": "",
+          "timestamp": 1601625584,
+          "value": ""
+        },
+        "Views": {
+          "href": "",
+          "timestamp": 0,
+          "value": "32"
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {
+        "Media Thumbnail": {
+          "creation_timestamp": 1587311676,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [],
+              "subtitles": {
+                "creation_timestamp": 1587311676,
+                "uri": "media/igtv/202004/456275559_921568426658402_4314644537066730537_n_18033747392134231.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "Snipes and other distance plays from War Zone BR & Plunder\n#callofduty #warzone #modernwarfare #mlg",
+          "uri": "media/igtv/202004/AQPPpzAVeNRBq9Q0evn0AB3jURbfGPydWT2iqTp42dcjBfzkFXCaOhqXtsDQDNR8rykRGZ3PYfJff44HgNx76HchxmcJtOxQVSrqg0_17845399676095286.mp4"
+        }
+      },
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Average Percentage Watched": {
+          "href": "",
+          "timestamp": 0,
+          "value": "4%"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "261"
+        },
+        "Follows": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Impressions": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Likes": {
+          "href": "",
+          "timestamp": 0,
+          "value": "8"
+        },
+        "Profile visits": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Upload Timestamp": {
+          "href": "",
+          "timestamp": 1587311676,
+          "value": ""
+        },
+        "Views": {
+          "href": "",
+          "timestamp": 0,
+          "value": "43"
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {
+        "Media Thumbnail": {
+          "creation_timestamp": 1580484648,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [],
+              "subtitles": {
+                "creation_timestamp": 1580484648,
+                "uri": "media/igtv/202001/455827913_874043701243794_5625796999948724086_n_17875253709113889.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "Call of Duty: Modern Warfare quickscope edit",
+          "uri": "media/igtv/202001/AQMA3MuemsSPl9313vlVPywR7jcxtGnBhsQrlSRxL4ImQhgCgrT6gzfxJkFEowgrrLQvVtV0benfU5CdCwFxKA1_ARWrgXGeLsn1OE_17875620991529696.mp4"
+        }
+      },
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Average Percentage Watched": {
+          "href": "",
+          "timestamp": 0,
+          "value": "13%"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "223"
+        },
+        "Follows": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Impressions": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Likes": {
+          "href": "",
+          "timestamp": 0,
+          "value": "2"
+        },
+        "Profile visits": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Upload Timestamp": {
+          "href": "",
+          "timestamp": 1580484648,
+          "value": ""
+        },
+        "Views": {
+          "href": "",
+          "timestamp": 0,
+          "value": "52"
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {
+        "Media Thumbnail": {
+          "creation_timestamp": 1581246277,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [],
+              "subtitles": {
+                "creation_timestamp": 1581246277,
+                "uri": "media/igtv/202002/455348741_536848382103921_4364319744545188756_n_18452941348016534.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "Call of Duty: Modern Warfare",
+          "uri": "media/igtv/202002/AQNqHZdc3PwyDmDrKg2PQRuM4TfXsgP4QpoYmpOpvC4hfDaNg4TLEJc2S1bMggxbyGiwxLczrXVsBVqv9mX4E2cXi_UtJnHvvkae8_17861104987702359.mp4"
+        }
+      },
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Average Percentage Watched": {
+          "href": "",
+          "timestamp": 0,
+          "value": "6%"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "209"
+        },
+        "Follows": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Impressions": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Likes": {
+          "href": "",
+          "timestamp": 0,
+          "value": "2"
+        },
+        "Profile visits": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Upload Timestamp": {
+          "href": "",
+          "timestamp": 1581246277,
+          "value": ""
+        },
+        "Views": {
+          "href": "",
+          "timestamp": 0,
+          "value": "54"
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {
+        "Media Thumbnail": {
+          "creation_timestamp": 1587462969,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [],
+              "subtitles": {
+                "creation_timestamp": 1587462969,
+                "uri": "media/igtv/202004/454912620_1017750633220101_3453084724504902499_n_17925472511824870.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "",
+          "uri": "media/igtv/202004/AQPs19rJt2cWsXICZhpVxfoVJQp5Ejr6kUzDZtduY6xpo84qk3TwvB9WT_W2eJkc5v3sjaLE0jJ1CJTt1R_cPcsyLuc6WVkvO4A0M_17878974901601124.mp4"
+        }
+      },
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Average Percentage Watched": {
+          "href": "",
+          "timestamp": 0,
+          "value": "9%"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "101"
+        },
+        "Follows": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Impressions": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Likes": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Profile visits": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Upload Timestamp": {
+          "href": "",
+          "timestamp": 1587462969,
+          "value": ""
+        },
+        "Views": {
+          "href": "",
+          "timestamp": 0,
+          "value": "51"
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {
+        "Media Thumbnail": {
+          "creation_timestamp": 1584891839,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [],
+              "subtitles": {
+                "creation_timestamp": 1584891839,
+                "uri": "media/igtv/202003/459197189_501554619325675_45778962707963471_n_18034935901966138.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "@timjdillon did a pretty brilliant job unpacking the reality of our current societal trajectory on his latest podcast. \nfull episode: https://youtu.be/fchyL6ngu2E",
+          "uri": "media/igtv/202003/AQPgb3pQM_z64Ow2jpQRuWm1Y1YhxV8H6X4Fo0JrjgFt_MN0xcUr885h2WdWoqRjWQk7kuk6YGGTYpH7fPVtdP_fykKvwAJNjNuNS8_17894336824468529.mp4"
+        }
+      },
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "3"
+        },
+        "Average Percentage Watched": {
+          "href": "",
+          "timestamp": 0,
+          "value": "4%"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "423"
+        },
+        "Follows": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Impressions": {
+          "href": "",
+          "timestamp": 0,
+          "value": "3"
+        },
+        "Likes": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Percent Reach From Non Followers": {
+          "href": "",
+          "timestamp": 0,
+          "value": "66% weren't following this account"
+        },
+        "Profile visits": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Upload Timestamp": {
+          "href": "",
+          "timestamp": 1584891839,
+          "value": ""
+        },
+        "Views": {
+          "href": "",
+          "timestamp": 0,
+          "value": "100"
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {
+        "Media Thumbnail": {
+          "creation_timestamp": 1581789365,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [],
+              "subtitles": {
+                "creation_timestamp": 1581789365,
+                "uri": "media/igtv/202002/455878931_1729718224469122_4313954634937549303_n_17884694232093864.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "",
+          "uri": "media/igtv/202002/AQPRPtP9dwzYmTTXOehzeXvkVYooAascWMO_KIriRQWhNO4WtmCsgAnH00WNdwpsapM9J6TUgtRL7kpvtHTWDgWwxOLP1AqV6oOLCS0_18093353563191875.mp4"
+        }
+      },
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Average Percentage Watched": {
+          "href": "",
+          "timestamp": 0,
+          "value": "17%"
+        },
+        "Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "78"
+        },
+        "Follows": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Impressions": {
+          "href": "",
+          "timestamp": 0,
+          "value": "--"
+        },
+        "Likes": {
+          "href": "",
+          "timestamp": 0,
+          "value": "1"
+        },
+        "Profile visits": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Upload Timestamp": {
+          "href": "",
+          "timestamp": 1581789365,
+          "value": ""
+        },
+        "Views": {
+          "href": "",
+          "timestamp": 0,
+          "value": "61"
+        }
+      },
+      "title": ""
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:22:15.840-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:22:15.840Z"
+  }
+}

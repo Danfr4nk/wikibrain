@@ -1,0 +1,50 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1051 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "joinable_mode": {
+    "link": "",
+    "mode": 1
+  },
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Instagram User sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "share": {
+        "link": "http://ssxssx.website/ynK3H4v1",
+        "share_text": "Visit the page to see this album : Click and sign up to watch my sexy videos free ;)"
+      },
+      "timestamp_ms": 1581603822516
+    }
+  ],
+  "participants": [
+    {
+      "name": "Ailen Irungaray"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Smash Nose Swimbaits"
+    },
+    {
+      "name": "Dan Frank"
+    },
+    {
+      "name": "Eric Brady"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:28:24.635-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:28:24.635Z"
+  },
+  "thread_path": "message_requests/ailenirungarayinstagramuserinstagramuserand2others_569031950348291",
+  "title": "Ailen Irungaray, Instagram User, Instagram User and 2 others"
+}

@@ -1,0 +1,33 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 629 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Ahahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Miguel Cordero",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2843524800377415541"
+      },
+      "timestamp_ms": 1653239464494
+    }
+  ],
+  "participants": [
+    {
+      "name": "Miguel Cordero"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:25:40.222-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:25:40.222Z"
+  },
+  "thread_path": "message_requests/miguelcordero_906284894101653",
+  "title": "Miguel Cordero"
+}

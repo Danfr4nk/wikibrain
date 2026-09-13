@@ -1,0 +1,155 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 3552 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "joinable_mode": {
+    "link": "",
+    "mode": 1
+  },
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Jenny | Pittsburgh Lived-In Color & Extensions left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Jenny | Pittsburgh Lived-In Color & Extensions",
+      "timestamp_ms": 1570544276514
+    },
+    {
+      "content": "A contact added Leslie Barlow and 3 others to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1570203972328
+    },
+    {
+      "content": "A contact added Carolina and 4 others to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1570203969154
+    },
+    {
+      "content": "A contact added mike and 4 others to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1570203966660
+    },
+    {
+      "content": "A contact added sydneysightseeing and 4 others to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1570203964224
+    },
+    {
+      "content": "A contact added you and 4 others to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1570203960740
+    },
+    {
+      "content": "Instagram User sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "share": {
+        "link": "https://cutt.ly/mw10dGV#86910",
+        "share_text": "Click on the link aboveððâ¤ï¸"
+      },
+      "timestamp_ms": 1570203957302
+    }
+  ],
+  "participants": [
+    {
+      "name": "Marlena Smith-Millman"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "sydneysightseeing"
+    },
+    {
+      "name": "6x6mi"
+    },
+    {
+      "name": "Maddy Mariee"
+    },
+    {
+      "name": "salammi.m"
+    },
+    {
+      "name": "linco1nkatz1"
+    },
+    {
+      "name": "Tracy"
+    },
+    {
+      "name": "Michelle Mandak"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Brito"
+    },
+    {
+      "name": "mike"
+    },
+    {
+      "name": "Gg"
+    },
+    {
+      "name": "Carolina"
+    },
+    {
+      "name": "Dan Frank"
+    },
+    {
+      "name": "Tiffany Thomas Young"
+    },
+    {
+      "name": "Kimeisha Bailey"
+    },
+    {
+      "name": "Meckenzie Dietz"
+    },
+    {
+      "name": "champagne papi"
+    },
+    {
+      "name": "T"
+    },
+    {
+      "name": "Charlene Marie Cruse-Rivera"
+    },
+    {
+      "name": "Leslie Barlow"
+    },
+    {
+      "name": "Madzia Vel Madzik"
+    },
+    {
+      "name": "Emily Prince Howard"
+    },
+    {
+      "name": "Acuna Josue"
+    },
+    {
+      "name": "djrhxj123"
+    },
+    {
+      "name": "Guk"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:25:43.889-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:25:43.889Z"
+  },
+  "thread_path": "message_requests/marlenasmithmillmaninstagramusersydneysightseeingand23others_2605338872850996",
+  "title": "Marlena Smith-Millman, Instagram User, sydneysightseeing and 23 others"
+}

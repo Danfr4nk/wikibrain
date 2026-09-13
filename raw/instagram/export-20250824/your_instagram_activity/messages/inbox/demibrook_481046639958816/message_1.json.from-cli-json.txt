@@ -1,0 +1,88 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 3269 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Demi Brook",
+      "share": {
+        "link": "https://www.instagram.com/p/CKWunZ1goi0/",
+        "original_content_owner": "hasandpiker",
+        "share_text": "the tears fuel me. iâm sorry itâs funny as hell that these folks are crying because a group of trump loyalist military members didnât round up and execute all the democrats on inauguration day like q anon promised."
+      },
+      "timestamp_ms": 1611356109244
+    },
+    {
+      "content": "Thatâs fantastic ð. Yeah I caught some of his coverage.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Demi Brook",
+      "timestamp_ms": 1610052999038
+    },
+    {
+      "content": "Confirmed simp. His stream and chapo trap house had a huge impact on my ideology and made me rethink some shitty quasi-transphobic takes I used to have. \n\nBy the way if you catch this soon, heâs doing election coverage tonight which are usually the best streams.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1609908699312
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1609908273987
+    },
+    {
+      "content": "Ohhh. Makes sense. Iâll have to spend more time watching his stream. I just got covid so Iâll have a good bit of time to kill. Haha. However, stay safe as well!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Demi Brook",
+      "timestamp_ms": 1609878634620
+    },
+    {
+      "content": "oh well, just wondered because nobody else i am friends with follows him. hope everything is good with you - stay safe!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1609818431678
+    },
+    {
+      "content": "it's the best. i'm way into it.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1609818387117
+    },
+    {
+      "content": "I have a few times. Not much though.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Demi Brook",
+      "timestamp_ms": 1609804363547
+    },
+    {
+      "content": "i saw you follow hasan piker -do you watch his stream?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1609793550789
+    }
+  ],
+  "participants": [
+    {
+      "name": "Demi Brook"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:32:53.019-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:32:53.019Z"
+  },
+  "thread_path": "inbox/demibrook_481046639958816",
+  "title": "Demi Brook"
+}

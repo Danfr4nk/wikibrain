@@ -1,0 +1,504 @@
+total 17249936
+-rw-r--r--@   1 daniel  staff   2.8M Sep 22 22:01 001 - Take Me Higher.mp3
+-rw-r--r--@   1 daniel  staff   3.6M Sep 22 22:01 002 - U Want It.mp3
+-rw-r--r--@   1 daniel  staff   3.0M Sep 22 22:01 003 - Turn It Up.mp3
+drwx---rwx@  15 daniel  staff   480B Sep 22 22:03 004 - BodyMove-E minor-174bpm-440hz
+-rw-r--r--@   1 daniel  staff   5.5M Sep 22 22:03 004 - BodyMove-Em-174bpm-440hz.mp3
+-rw-r--r--@   1 daniel  staff   2.2M Sep 22 22:01 004 - BodyMove.mp3
+-rw-r--r--@   1 daniel  staff    36M Sep 22 22:02 004 - BodyMove.wav
+-rw-r--r--@   1 daniel  staff   288K Sep 30 06:44 004 - BodyMove.wav.asd
+-rw-r--r--@   1 daniel  staff   3.3M Sep 22 22:01 005 - CTRL.mp3
+-rw-r--r--@   1 daniel  staff   179K Dec 25 21:40 0e720683-dbb0-4c44-bf5a-e0af9e7692d4.jpg
+-rw-r--r--@   1 daniel  staff   468K Oct  9 16:17 1.caf
+-rw-r--r--@   1 daniel  staff   1.4G Dec 24 02:06 13722551.mp413722551.mp4
+-rw-r--r--@   1 daniel  staff   1.6G Dec 24 02:02 14045595.mp414045595.mp4
+-rw-------@   1 daniel  staff   173K Dec 23 19:56 1963bf4366a93b2a3f4469cb5177ce6838cd5a93c5c999e1982f6928437cba01.mp3Download Rolling Jump Up Samples & Loops.mp3
+-rw-r--r--@   1 daniel  staff   147M Dec 24 16:48 1UYrY2OvxDs.mov
+-rw-r--r--@   1 daniel  staff   127K Oct  1 22:55 1b13ac87_ZMD14F8DA275520_v20251001135419.MP4
+-rw-r--r--@   1 daniel  staff   137K Oct  1 22:55 1b2e7e5f_ZMD14F8DA275520_v20251001135731.MP4
+-rw-r--r--@   1 daniel  staff   468K Oct  9 16:17 2.caf
+-rw-r--r--@   1 daniel  staff    58K Dec 22 18:29 2.csv
+-rw-r--r--@   1 daniel  staff    37K Sep 30 22:56 20210112-trump-wall-ap-773.jpg
+-rw-r--r--@   1 daniel  staff    50K Oct  2 04:21 2022-09-19.jpg
+-rw-r--r--@   1 daniel  staff    58K Dec 22 18:40 2025_MASTER_CRATE.csv
+-rw-r--r--@   1 daniel  staff    44M Sep 19 10:12 2160p.mp4
+-rw-r--r--@   1 daniel  staff   128K Sep 19 10:48 21a1bbb3_ZMD14F8DA275520_v20250919021224.mp4
+-rw-r--r--@   1 daniel  staff   622K Sep 30 22:58 231108114756-02-hadrians-wall-damaged.jpg
+-rw-r--r--@   1 daniel  staff   206K Oct  1 22:55 2466e33c_ZMD14F8DA275520_v20251001144322.MP4
+-rw-r--r--@   1 daniel  staff   4.1M Oct  1 23:19 2466e33c_ZMD14F8DA275520_v20251001144322.gif
+-rw-r--r--@   1 daniel  staff   234K Oct  9 16:20 3.caf
+-rw-r--r--@   1 daniel  staff    25K Dec 22 18:01 3.csv
+-rw-r--r--@   1 daniel  staff    93K Sep 30 22:57 34421971631_faa0049465_c-800x445.jpg
+-rw-r--r--@   1 daniel  staff   146K Oct  1 22:18 38705bd5_ZMD14F8DA275520_v20251001154139.MP4
+-rw-r--r--@   1 daniel  staff   162K Oct  1 22:55 455ff88a_ZMD14F8DA275520_v20251001143703.MP4
+-rw-------@   1 daniel  staff   172K Dec 23 19:56 472ead4acfa79696d988e63b09c2740dc95ad6bb7a54e69412a2cd8ba4d66600.mp3Download Rolling Jump Up Samples & Loops.mp3
+-rw-r--r--@   1 daniel  staff   128M Dec 23 19:22 4925676.mp4
+-rw-------@   1 daniel  staff   173K Dec 23 19:56 4d0b473533d6c2d812a13f683cde6f8509af9b5c88e5f9ed0e5780d02cb63222.mp3Download Rolling Jump Up Samples & Loops.mp3
+-rw-------@   1 daniel  staff   172K Dec 23 19:56 4ee67598928680dd288b57a84c719326751da9fbcfc787adaff498a6b9697575.mp3Download Rolling Jump Up Samples & Loops.mp3
+-rw-r--r--@   1 daniel  staff   128K Oct  1 22:54 50eaccf2_ZMD14F8DA275520_v20251001150704.MP4
+-rw-r--r--@   1 daniel  staff   176K Oct  1 22:55 5f369899_ZMD14F8DA275520_v20251001144003.MP4
+-rw-r--r--@   1 daniel  staff   118K Oct  1 05:01 6107b24268c87.jpg
+-rw-r--r--@   1 daniel  staff   107M Dec 24 00:13 6330319.mp46330319.mp4
+-rw-r--r--@   1 daniel  staff   160M Dec 24 01:59 7058662.mp47058662.mp4
+-rw-------@   1 daniel  staff   174K Dec 23 19:56 713c027308b63242b872eb8735eb2d129e329412f9364447e6784d9cfdaf39f9.mp3Download Rolling Jump Up Samples & Loops.mp3
+-rw-r--r--@   1 daniel  staff   312K Oct  1 22:54 76f17747_ZMD14F8DA275520_v20251001153228.MP4
+-rw-r--r--@   1 daniel  staff   445M Dec 24 00:12 7987007.mp47987007.mp4
+-rw-r--r--@   1 daniel  staff   128K Oct  1 22:54 7b2687ef_ZMD14F8DA275520_v20251001144744.MP4
+-rw-r--r--@   1 daniel  staff   147K Sep 30 22:54 81hQX9dJBhL._UF894,1000_QL80_.jpg
+-rw-r--r--@   1 daniel  staff    58M Jul  1  2024 845 - We Need The Machines feat. Adam Friedland (6:28:24).mp3
+-rw-r--r--@   1 daniel  staff    60M Jul  3  2024 846 - Sundown of the Erdtree feat. Dave Weigel & Ettingermentum (7:2:24).mp3
+-rw-------@   1 daniel  staff    77M Jun 14  2025 850 Enter the Battle Box.m4a
+-rw-r--r--@   1 daniel  staff   124K Oct  1 22:54 8837176e_ZMD14F8DA275520_v20251001151258.MP4
+-rw-------@   1 daniel  staff   174K Dec 23 19:54 91a60572343b40d74ea1f6eb852bb153886a9752eab8077b5f725eb7339b0291.mp3Jump Up Loops and Sample Packs | Loopcloud.mp3
+-rw-r--r--@   1 daniel  staff   307K Sep 19 12:26 9271d1f4_ZMD14F8DA275520_v20250919015846(1).mp4
+-rw-r--r--@   1 daniel  staff   307K Sep 19 12:28 9271d1f4_ZMD14F8DA275520_v20250919015846(2).mp4
+-rw-r--r--@   1 daniel  staff   307K Sep 19 12:25 9271d1f4_ZMD14F8DA275520_v20250919015846.mp4
+-rw-------@   1 daniel  staff   173K Dec 23 19:56 95805c2ff493766bb2a149e1637968221da2e2f126280833dba7dffe745aeac5.mp3Download Rolling Jump Up Samples & Loops.mp3
+-rw-r--r--@   1 daniel  staff   2.6M Oct  7 19:59 AHEE - Brain Tickler (Gunpoint Remix).mp3
+-rw-r--r--@   1 daniel  staff   2.2M Oct  7 20:00 AHEE - Brain Tickler (LÄRJ Remix).mp3
+-rw-r--r--@   1 daniel  staff   2.1M Oct  7 19:59 AHEE - Brain Tickler (VIP).mp3
+drwx------@  14 daniel  staff   448B Oct  1 02:13 AHEE - Brain Tickler-C major-75bpm-440hz
+-rw-r--r--@   1 daniel  staff    24M Oct  1 02:13 AHEE - Brain Tickler-C major-75bpm-440hz.zip
+-rw-r--r--@   1 daniel  staff   5.7M Sep 30 02:15 AHEE - Brain Tickler.mp3
+-rw-r--r--@   1 daniel  staff    36M Sep 30 02:16 AHEE - Brain Tickler.wav
+-rw-r--r--@   1 daniel  staff   289K Sep 30 02:16 AHEE - Brain Tickler.wav.asd
+-rw-r--r--@   1 daniel  staff   5.3M Sep 29 15:18 A_nature_documentary_202509291518_pb81f.mp4
+-rw-r--r--@   1 daniel  staff   1.2M Sep 29 15:02 A_scene_from_202509291502_b005k.mp4
+-rw-r--r--@   1 daniel  staff   5.5M Sep 29 14:58 A_tv_commercial_202509291458_u77yw.mp4
+-rw-r--r--@   1 daniel  staff    18M Sep 29 22:12 Ableton Live 9 Suite 9.1 Mac OS X (64 bit) (crack XForce) [ChingLiu]-20250930T021150Z-1-001.zip
+-rw-r--r--@   1 daniel  staff    18M Dec  9 12:43 Ableton Live 9 Suite 9.1 Mac OS X (64 bit) (crack XForce) [ChingLiu]-20251209T174252Z-1-001.zip
+-rw-r--r--@   1 daniel  staff    18M Dec  9 12:43 Ableton_Live_9_Suite_x64_OSX-20251209T174258Z-1-001.zip
+-rw-r--r--@   1 daniel  staff    90M Sep 27 05:26 Adam Friedland on Piers Morgan.mp4
+-rw-r--r--@   1 daniel  staff   9.6K Sep 27 05:27 Adam Friedland on Piers Morgan.srt
+-rw-r--r--@   1 daniel  staff   3.7M Oct  7 19:58 Ahee - Brain Tickler (Farce Flip) [Free Download].mp3
+-rw-r--r--@   1 daniel  staff    93B Sep 26 22:03 Angular_Triplet.mid
+-rw-r--r--@   1 daniel  staff   6.8M Sep 25 18:32 Ariana Grande - 7 rings (Lyrics)-C#m-70bpm-441hz.mp3
+-rw-r--r--@   1 daniel  staff   6.9M Sep 25 18:25 Ariana Grande - 7 rings (Lyrics).mp3
+-rw-r--r--@   1 daniel  staff   7.4M Sep 26 18:43 Atmosphere - Asshole (Official Audio).mp3
+-rw-r--r--@   1 daniel  staff   5.2K Sep 26 18:44 Atmosphere - Asshole (Official Audio).srt
+drwx------@  12 daniel  staff   384B Dec 23 22:07 Beto’s Horns (fred remix) - Fred again.., CA7RIEL & Paco Amoroso - SoundLoadMate.com-E minor-128bpm-440hz
+-rw-r--r--@   1 daniel  staff    28M Dec 23 22:06 Beto’s Horns (fred remix) - Fred again.., CA7RIEL & Paco Amoroso - SoundLoadMate.com-E minor-128bpm-440hz.zip
+-rw-r--r--@   1 daniel  staff   3.5M Dec 23 22:03 Beto’s Horns (fred remix) - Fred again.., CA7RIEL & Paco Amoroso - SoundLoadMate.com.mp3
+-rw-r--r--@   1 daniel  staff   2.9M Oct  7 22:29 Blessings (Odd Mob Remix).mp3
+-rw-r--r--@   1 daniel  staff    93B Sep 26 22:03 Bounce_Riff.mid
+-rw-r--r--@   1 daniel  staff   4.9M Sep 23 00:25 Bpm050_Bm_HeavyBeatin_HiHat.wav
+-rw-r--r--@   1 daniel  staff    40K Sep 23 20:39 Bpm050_Bm_HeavyBeatin_HiHat.wav.asd
+-rw-r--r--@   1 daniel  staff   3.7M Sep 23 00:26 Bpm066_Em_Trapt_Drums.wav
+-rw-r--r--@   1 daniel  staff    32K Sep 23 20:39 Bpm066_Em_Trapt_Drums.wav.asd
+-rw-r--r--@   1 daniel  staff   3.6M Sep 23 00:25 Bpm068_Cm_ThaStreetz_Drums.wav
+-rw-r--r--@   1 daniel  staff    32K Sep 23 20:39 Bpm068_Cm_ThaStreetz_Drums.wav.asd
+-rw-r--r--@   1 daniel  staff   3.6M Sep 23 00:22 Bpm068_Cm_ThaStreetz_OrchHits_var01.wav
+-rw-r--r--@   1 daniel  staff    30K Sep 23 20:39 Bpm068_Cm_ThaStreetz_OrchHits_var01.wav.asd
+-rw-r--r--@   1 daniel  staff   3.0M Sep 20 04:09 By The Grace Of God.mp3
+-rw-r--r--@   1 daniel  staff   8.5K Sep 30 02:06 B̴͎̠̜͋͋A̶͖̤̱͘S̸̛͕͕̺̎̎S̴̛͎̅͊_̴͎̎̔͐Ḧ̴͇̼́Ơ̴̲̻̱̈́U̶̠̟̼͛S̵̨͙̍Ë̷͚̻̫́͘͝_̶̦̑͗͘D̷̰͎̖̿̑Ḁ̶̗̖̔̊͝N̶͇̩̒̑͜_̷̛͎̈́F̷̞̥͋̿͝R̴̡͔̰̾A̷̳̯͐̄͝N̸͆.csv
+-rw-r--r--@   1 daniel  staff   202K Dec 24 18:18 Change_camera_perspective_202512241818 (1).jpeg
+-rw-r--r--@   1 daniel  staff   182K Dec 24 18:18 Change_camera_perspective_202512241818.jpeg
+-rw-r--r--@   1 daniel  staff   6.7M Oct  4 01:13 Charli xcx - Von dutch (official lyric video).mp3
+-rw-r--r--@   1 dan     staff   194K Jul  1 00:28 ChatGPT-[[[[_POLITICS_]]]].json
+-rw-r--r--@   1 dan     staff   131K Jun 23  2025 ChatGPT-[[[[_𝕤𝕖𝕩𝕠𝕡𝕙𝕠𝕟𝕖_]]]]].md
+-rw-r--r--@   1 daniel  staff   123M Dec 23 00:13 Chee - Hey Now.bwtemplate.part
+drwx------@  12 daniel  staff   384B Dec 11 19:09 Chris Lake, Skrillex, ANITA B QUEEN - La Noche (if found Remix) - if found - SoundLoadMate.com-F minor-140bpm-440hz
+-rw-r--r--@   1 daniel  staff    19M Dec 11 19:07 Chris Lake, Skrillex, ANITA B QUEEN - La Noche (if found Remix) - if found - SoundLoadMate.com-F minor-140bpm-440hz.zip
+-rw-r--r--@   1 daniel  staff   2.4M Dec 11 19:04 Chris Lake, Skrillex, ANITA B QUEEN - La Noche (if found Remix) - if found - SoundLoadMate.com.mp3
+-rw-r--r--@   1 daniel  staff    93B Sep 26 22:03 Chromatic_Creeper.mid
+-rw-------    1 dan     staff    59K Nov 24 03:33 Chrome Passwords.csv
+-rw-r--r--@   1 daniel  staff   9.2M Oct  3 21:50 Clipse - Let God Sort Em Out (Full Album) - 001 - The Birds Don't Sing.mp3
+-rw-r--r--@   1 daniel  staff   9.3M Oct  3 21:50 Clipse - Let God Sort Em Out (Full Album) - 002 - Chains & Whips.mp3
+-rw-r--r--@   1 daniel  staff   9.9M Oct  3 21:51 Clipse - Let God Sort Em Out (Full Album) - 003 - P.O.V..mp3
+-rw-r--r--@   1 daniel  staff   7.5M Oct  3 21:51 Clipse - Let God Sort Em Out (Full Album) - 004 - So Be It.mp3
+-rw-r--r--@   1 daniel  staff   5.9M Oct  3 21:51 Clipse - Let God Sort Em Out (Full Album) - 005 - Ace Trumpets.mp3
+-rw-r--r--@   1 daniel  staff   7.2M Oct  3 21:52 Clipse - Let God Sort Em Out (Full Album) - 006 - All Things Considered.mp3
+-rw-r--r--@   1 daniel  staff   6.0M Oct  3 21:52 Clipse - Let God Sort Em Out (Full Album) - 007 - M.T.B.T.T.F..mp3
+-rw-r--r--@   1 daniel  staff   4.6M Oct  3 21:52 Clipse - Let God Sort Em Out (Full Album) - 008 - E.B.I.T.D.A..mp3
+-rw-r--r--@   1 daniel  staff   7.7M Oct  3 21:58 Clipse - Let God Sort Em Out (Full Album) - 009 - F.I.C.O.-Am-79bpm-440hz.mp3
+-rw-r--r--@   1 daniel  staff   7.7M Oct  3 21:58 Clipse - Let God Sort Em Out (Full Album) - 009 - F.I.C.O.-drums-A minor-79bpm-440hz.mp3
+-rw-r--r--@   1 daniel  staff   7.7M Oct  3 21:58 Clipse - Let God Sort Em Out (Full Album) - 009 - F.I.C.O.-vocals-A minor-79bpm-440hz.mp3
+-rw-r--r--@   1 daniel  staff   7.7M Oct  3 21:53 Clipse - Let God Sort Em Out (Full Album) - 009 - F.I.C.O..mp3
+-rw-r--r--@   1 daniel  staff   5.9M Oct  3 21:53 Clipse - Let God Sort Em Out (Full Album) - 010 - Inglorious Bastards.mp3
+-rw-r--r--@   1 daniel  staff   7.7M Oct  3 21:56 Clipse - Let God Sort Em Out (Full Album) - 011 - So Far Ahead-Em-80bpm-440hz(1).mp3
+-rw-r--r--@   1 daniel  staff   7.7M Oct  4 01:24 Clipse - Let God Sort Em Out (Full Album) - 011 - So Far Ahead-Em-80bpm-440hz(2).mp3
+-rw-r--r--@   1 daniel  staff    51M Oct  4 01:29 Clipse - Let God Sort Em Out (Full Album) - 011 - So Far Ahead-Em-80bpm-440hz(2).wav
+-rw-r--r--@   1 daniel  staff   396K Oct  4 01:30 Clipse - Let God Sort Em Out (Full Album) - 011 - So Far Ahead-Em-80bpm-440hz(2).wav.asd
+-rw-r--r--@   1 daniel  staff   7.7M Oct  3 21:56 Clipse - Let God Sort Em Out (Full Album) - 011 - So Far Ahead-Em-80bpm-440hz.mp3
+-rw-r--r--@   1 daniel  staff   7.7M Oct  3 21:53 Clipse - Let God Sort Em Out (Full Album) - 011 - So Far Ahead.mp3
+-rw-r--r--@   1 daniel  staff   5.9M Oct  3 21:53 Clipse - Let God Sort Em Out (Full Album) - 012 - Let God Sort Em Out-Chandeliers.mp3
+-rw-r--r--@   1 daniel  staff   7.1M Oct  3 21:54 Clipse - Let God Sort Em Out (Full Album) - 013 - By The Grace Of God.mp3
+-rw-r--r--@   1 daniel  staff   6.2M Oct  3 21:54 Clipse - Let God Sort Em Out (Full Album) - 014 - Rich Gang, Sufferryanyt & FireDemon - Lumber jack.mp3
+-rw-r--r--@   1 daniel  staff   1.8K Oct  3 21:55 Clipse - Let God Sort Em Out (Full Album) - 014 - Rich Gang, Sufferryanyt & FireDemon - Lumber jack.srt
+-rw-r--r--@   1 daniel  staff    11M Sep 20 05:45 Clipse, Kendrick Lamar, Pusha T, Malice - Chains & Whips (Official Music Video).mp3
+-rw-r--r--@   1 daniel  staff    20M Sep 30 20:14 Clipse, Pusha T, Malice - Ace Trumpets (Official Lyric Video).mp4
+-rw-r--r--@   1 daniel  staff   1.7M Dec  9 15:31 Clothing_Change_Request.mp4
+-rw-r--r--@   1 daniel  staff   160K Nov 18 08:14 Code_Generated_Image.png
+-rw-r--r--@   1 daniel  staff    82K Sep 27 02:21 Communication Patterns.pdf
+drwxr-xr-x@   6 daniel  staff   192B Sep 26 19:26 Crack
+-rw-r--r--@   1 daniel  staff    29M Sep 24 21:43 DJI_0006.mp4
+-rw-r--r--@   1 dan     staff   2.3K Jul 17 00:20 DNB 2025.txt
+-rw-r--r--@   1 dan     staff   3.1K Jul 17 01:20 DNB GOOOOD.txt
+-rw-r--r--@   1 daniel  staff    46K Sep 22 18:14 Dan × Kristin — Complete Dossier (v1.pdf
+-rw-r--r--@   1 daniel  staff    28M Sep 25 18:22 Day in the life Lizard King 2011.mp4
+-rw-r--r--@   1 daniel  staff    87B Sep 26 22:05 Dissonant_Stabber(1).mid
+-rw-r--r--@   1 daniel  staff    93B Sep 26 22:03 Dissonant_Stabber.mid
+-rw-r--r--@   1 daniel  staff   137B Sep 26 21:59 DnB_A.mid
+-rw-r--r--@   1 daniel  staff   161B Sep 26 21:59 DnB_B.mid
+-rw-------@   1 daniel  staff   126K Dec 23 19:34 Download Arabic Afro House 3 Samples & Loops.mp3
+-rw-------@   1 daniel  staff   119K Dec 23 19:34 Download Bass Decent Samples & Loops -  - 2025-12-23 19-34-39.mp3
+-rw-------@   1 daniel  staff    60K Dec 23 19:35 Download Bass Decent Samples & Loops -  - 2025-12-23 19-35-23.mp3
+-rw-------@   1 daniel  staff   119K Dec 23 19:35 Download Bass Decent Samples & Loops -  - 2025-12-23 19-35-24.mp3
+-rw-------@   1 daniel  staff   149K Dec 23 19:35 Download Bass Decent Samples & Loops -  - 2025-12-23 19-35-25.mp3
+-rw-------@   1 daniel  staff    60K Dec 23 19:35 Download Bass Decent Samples & Loops -  - 2025-12-23 19-35-26.mp3
+-rw-------@   1 daniel  staff    60K Dec 23 19:35 Download Bass Decent Samples & Loops -  - 2025-12-23 19-35-27.mp3
+-rw-------@   1 daniel  staff    14K Dec 23 19:35 Download Bass Decent Samples & Loops -  - 2025-12-23 19-35-28.mp3
+-rw-------@   1 daniel  staff   237K Dec 23 19:35 Download Bass Decent Samples & Loops -  - 2025-12-23 19-35-29.mp3
+-rw-------@   1 daniel  staff   119K Dec 23 19:35 Download Bass Decent Samples & Loops -  - 2025-12-23 19-35-30.mp3
+-rw-------@   1 daniel  staff   119K Dec 23 19:35 Download Bass Decent Samples & Loops -  - 2025-12-23 19-35-31.mp3
+-rw-------@   1 daniel  staff   119K Dec 23 19:35 Download Bass Decent Samples & Loops -  - 2025-12-23 19-35-32.mp3
+-rw-------@   1 daniel  staff    60K Dec 23 19:35 Download Bass Decent Samples & Loops -  - 2025-12-23 19-35-33.mp3
+-rw-------@   1 daniel  staff   119K Dec 23 19:35 Download Bass Decent Samples & Loops -  - 2025-12-23 19-35-34.mp3
+-rw-------@   1 daniel  staff   237K Dec 23 19:39 Download Bass Decent Samples & Loops -  - 2025-12-23 19-39-27.mp3
+-rw-------@   1 daniel  staff   119K Dec 23 19:39 Download Bass Decent Samples & Loops -  - 2025-12-23 19-39-28.mp3
+-rw-------@   1 daniel  staff   119K Dec 23 19:39 Download Bass Decent Samples & Loops -  - 2025-12-23 19-39-29.mp3
+-rw-------@   1 daniel  staff   119K Dec 23 19:39 Download Bass Decent Samples & Loops -  - 2025-12-23 19-39-30.mp3
+-rw-------@   1 daniel  staff   126K Dec 23 19:39 Download Bass Decent Samples & Loops -  - 2025-12-23 19-39-31.mp3
+-rw-------@   1 daniel  staff   237K Dec 23 19:39 Download Bass Decent Samples & Loops -  - 2025-12-23 19-39-32.mp3
+-rw-------@   1 daniel  staff   119K Dec 23 19:39 Download Bass Decent Samples & Loops -  - 2025-12-23 19-39-33.mp3
+-rw-------@   1 daniel  staff   212K Dec 23 19:39 Download Bass Decent Samples & Loops -  - 2025-12-23 19-39-34.mp3
+-rw-------@   1 daniel  staff   119K Dec 23 19:39 Download Bass Decent Samples & Loops -  - 2025-12-23 19-39-35.mp3
+-rw-------@   1 daniel  staff    60K Dec 23 19:39 Download Bass Decent Samples & Loops -  - 2025-12-23 19-39-36.mp3
+-rw-------@   1 daniel  staff   251K Dec 23 19:39 Download Bass Decent Samples & Loops -  - 2025-12-23 19-39-37.mp3
+-rw-------@   1 daniel  staff    60K Dec 23 19:39 Download Bass Decent Samples & Loops -  - 2025-12-23 19-39-38.mp3
+-rw-------@   1 daniel  staff   4.7K Dec 23 19:41 Download Bass Decent Samples & Loops -  - 2025-12-23 19-41-52.mp3
+-rw-------@   1 daniel  staff   237K Dec 23 19:41 Download Bass Decent Samples & Loops -  - 2025-12-23 19-41-53.mp3
+-rw-------@   1 daniel  staff   7.6K Dec 23 19:41 Download Bass Decent Samples & Loops -  - 2025-12-23 19-41-54.mp3
+-rw-------@   1 daniel  staff   119K Dec 23 19:43 Download Bass Decent Samples & Loops -  - 2025-12-23 19-43-48.mp3
+-rw-------@   1 daniel  staff   149K Dec 23 19:43 Download Bass Decent Samples & Loops -  - 2025-12-23 19-43-49.mp3
+-rw-------@   1 daniel  staff   237K Dec 23 19:43 Download Bass Decent Samples & Loops -  - 2025-12-23 19-43-50.mp3
+-rw-------@   1 daniel  staff   119K Dec 23 19:49 Download Bass Decent Samples & Loops -  - 2025-12-23 19-49-13.mp3
+-rw-------@   1 daniel  staff    60K Dec 23 19:34 Download Bass Decent Samples & Loops.mp3
+-rw-------@   1 daniel  staff   119K Dec 23 19:34 Download Samples & Loops.mp3
+-rw-r--r--@   1 daniel  staff   137B Sep 26 21:59 Dub_A.mid
+-rw-r--r--@   1 daniel  staff   145B Sep 26 21:59 Dub_B.mid
+-rw-r--r--@   1 daniel  staff   216K Oct  2 04:24 E5669877-FE4E-4290-B20F-ED511539D96B.jpg
+-rw-r--r--@   1 daniel  staff   273K Sep 29 04:37 EXPORT.csv
+-rw-r--r--@   1 daniel  staff   2.9M Dec 23 23:15 FRONT & CENTER - Joey Bada$$ - SoundLoadMate.com.mp3
+-rw-r--r--@   1 daniel  staff    46M Dec 23 23:19 FRONT & CENTER - Joey Bada$$ - SoundLoadMate.com.wav
+-rw-r--r--@   1 daniel  staff   367K Dec 23 23:21 FRONT & CENTER - Joey Bada$$ - SoundLoadMate.com.wav.asd
+-rw-r--r--@   1 daniel  staff   147K Sep 29 21:55 Forensic Relationship Report_ Dan Frank and Kristin Prentiss.pdf
+-rw-r--r--@   1 daniel  staff   108K Sep 11 07:07 G0j6BiiXEAA05NX.png
+-rw-r--r--@   1 daniel  staff   3.4M Sep 11 01:30 G60rka5oD0omHhQK.mp4
+-rw-r--r--@   1 daniel  staff    36K Sep 11 01:25 GeI7gwMXcAAGppJ.jpeg
+-rw-r--r--@   1 daniel  staff    72K Sep 11 01:26 GeIGv-gWEAEZ3JB.jpeg
+-rw-r--r--@   1 daniel  staff   2.0M Sep 22 16:59 Gemini_Generated_Image_1tfb551tfb551tfb.png
+-rw-r--r--@   1 daniel  staff   4.9M Dec  9 15:39 Gemini_Generated_Image_5zg735zg735zg735.png
+-rw-r--r--@   1 daniel  staff   4.7M Dec 11 16:54 Gemini_Generated_Image_bry2pvbry2pvbry2.png
+-rw-r--r--@   1 daniel  staff   898K Dec  9 15:48 Gemini_Generated_Image_itbf8gitbf8gitbf copy.jpg
+-rw-r--r--@   1 daniel  staff   5.0M Dec  9 15:40 Gemini_Generated_Image_itbf8gitbf8gitbf.png
+-rw-r--r--@   1 daniel  staff   4.7M Nov 21 08:35 Gemini_Generated_Image_l99i52l99i52l99i.png
+-rw-r--r--@   1 daniel  staff   1.9M Sep 11 00:29 Gemini_Generated_Image_ojynkgojynkgojyn.png
+-rw-r--r--@   1 daniel  staff   5.5M Dec  9 15:39 Gemini_Generated_Image_vguda6vguda6vgud.png
+-rw-r--r--@   1 daniel  staff   795K Sep 16 16:23 Gemini_Generated_Image_vhf92tvhf92tvhf9.png
+-rw-r--r--@   1 daniel  staff   4.3M Sep 16 06:10 Gemini_Generated_Image_x3jcfzx3jcfzx3jc(1).png
+-rw-r--r--@   1 daniel  staff   4.3M Sep 16 06:10 Gemini_Generated_Image_x3jcfzx3jcfzx3jc.png
+-rw-r--r--@   1 daniel  staff   7.1M Dec 22 21:26 Gemini_Generated_Image_xgxlx9xgxlx9xgxl.png
+-rw-r--r--@   1 daniel  staff   2.1M Nov 21 00:46 Gemini_Generated_Image_y92dety92dety92d.jpg
+-rw-r--r--@   1 daniel  staff   2.1M Nov 21 00:49 Gemini_Generated_Image_yx6w7byx6w7byx6w.jpg
+-rw-r--r--@   1 daniel  staff   198K Dec  9 16:24 Generate_an_image_202512091624.jpeg
+-rw-r--r--@   1 daniel  staff   185K Dec  9 16:25 Generate_an_image_202512091625.jpeg
+-rw-r--r--@   1 daniel  staff   107K Dec  5 08:52 Generate_these_two_202512050852.jpeg
+-rw-r--r--@   1 daniel  staff   133K Sep 11 01:23 GlIwOa1bYAIAuls.jpeg
+drwx------@  15 daniel  staff   480B Sep 30 17:15 Goosebumpz (Bonus Track)-A minor-72bpm-440hz
+-rw-r--r--@   1 daniel  staff    33M Sep 30 17:14 Goosebumpz (Bonus Track)-A minor-72bpm-440hz.zip
+-rw-r--r--@   1 daniel  staff   7.7M Sep 30 17:14 Goosebumpz (Bonus Track)-Am-72bpm-440hz.mp3
+-rw-r--r--@   1 daniel  staff   7.8M Sep 30 17:10 Goosebumpz (Bonus Track).mp3
+drwx------@  17 daniel  staff   544B Dec 23 22:11 Got_Away_feat_Royal_the_Serpent_KLICKAUD-C# minor-70bpm-440hz
+-rw-r--r--@   1 daniel  staff    27M Dec 23 22:10 Got_Away_feat_Royal_the_Serpent_KLICKAUD-C# minor-70bpm-440hz.zip
+-rw-r--r--@   1 daniel  staff   3.3M Dec 23 18:00 Got_Away_feat_Royal_the_Serpent_KLICKAUD.mp3
+-rw-r--r--@   1 daniel  staff    54M Dec 23 18:01 Got_Away_feat_Royal_the_Serpent_KLICKAUD.wav
+-rw-r--r--@   1 daniel  staff   421K Dec 23 18:01 Got_Away_feat_Royal_the_Serpent_KLICKAUD.wav.asd
+-rw-r--r--@   1 daniel  staff   9.4M Sep 27 01:24 Grizzly Bear - Will Calls (Diplo Remix)-drums-B minor-150bpm-441hz.mp3
+-rw-r--r--@   1 daniel  staff   490K Sep 27 01:25 Grizzly Bear - Will Calls (Diplo Remix)-drums-B minor-150bpm-441hz.wav.asd
+-rw-r--r--@   1 daniel  staff   208K Sep 30 22:56 HUH4QQ5UFFBBPNQ4A4N6M4JI2E.webp
+-rw-r--r--@   1 daniel  staff   1.8M Sep 12 16:16 Hasan Piker_ Charlie Kirk and His Political Ideology Deserve an “Honest Assessment” _ Vanity Fair.pdf
+-rw-r--r--@   1 daniel  staff    23M Sep 26 22:30 How to Play "Purpose" by Justin Bieber | HDpiano (Part 1) Piano Tutorial.mp4
+-rw-r--r--@   1 daniel  staff   9.7K Sep 26 22:31 How to Play "Purpose" by Justin Bieber | HDpiano (Part 1) Piano Tutorial.srt
+drwx------@   9 daniel  staff   288B Sep 26 19:36 Hum it to google-Eb minor-78bpm-440hz
+-rw-r--r--@   1 daniel  staff   4.5M Sep 26 18:56 Hum it to google.mp3
+-rw-r--r--@   1 daniel  staff   137B Sep 26 21:59 Hybrid.mid
+-rw-r--r--@   1 daniel  staff    12M Sep 24 19:28 IMG_0246.mp4
+-rw-r--r--@   1 daniel  staff   4.5M Oct  6 19:09 IMG_1262.PNG
+-rw-r--r--@   1 daniel  staff   1.1M Sep 24 19:14 IMG_2263.jpg
+-rw-r--r--@   1 daniel  staff    17M Sep 28 23:49 IMG_4352.mp4
+-rw-r--r--@   1 daniel  staff    24M Oct  9 17:16 IMG_4379.MOV
+-rw-r--r--@   1 daniel  staff   1.4M Sep 22 16:04 IMG_4421.PNG
+-rw-r--r--@   1 daniel  staff    17M Dec  9 13:52 IMG_6067.mp4
+-rw-r--r--@   1 daniel  staff   2.6M Dec  6 18:12 IMG_7107.mov
+-rw-r--r--@   1 daniel  staff    79K Oct  2 04:25 IMG_7264.jpg
+-rw-r--r--@   1 daniel  staff   1.2M Sep 28 19:29 IMG_7489 Copy.JPG
+-rw-r--r--@   1 daniel  staff    67K Oct  6 15:58 Image 10-6-25 at 3.58 PM.heic
+-rw-r--r--@   1 daniel  staff   1.6M Sep 29 15:24 Imagine_prompt_a_202509291524_50oo8.mp4
+-rw-r--r--@   1 daniel  staff    17M Dec 23 00:11 In_Cycles-1.bwtemplate.part
+-rw-r--r--@   1 daniel  staff    25M Dec 23 00:10 In_Cycles.bwtemplate
+-rw-------@   1 daniel  staff    18K Dec 23 19:49 Jump Up Loops and Sample Packs | Loopcloud -  - 2025-12-23 19-49-14.mp3
+-rw-------@   1 daniel  staff   172K Dec 23 19:49 Jump Up Loops and Sample Packs | Loopcloud -  - 2025-12-23 19-49-15.mp3
+-rw-------@   1 daniel  staff    44K Dec 23 19:49 Jump Up Loops and Sample Packs | Loopcloud -  - 2025-12-23 19-49-16.mp3
+-rw-------@   1 daniel  staff   173K Dec 23 19:49 Jump Up Loops and Sample Packs | Loopcloud -  - 2025-12-23 19-49-18.mp3
+-rw-------@   1 daniel  staff   345K Dec 23 19:49 Jump Up Loops and Sample Packs | Loopcloud -  - 2025-12-23 19-49-19.mp3
+-rw-------@   1 daniel  staff    87K Dec 23 19:49 Jump Up Loops and Sample Packs | Loopcloud -  - 2025-12-23 19-49-20.mp3
+-rw-------@   1 daniel  staff    88K Dec 23 19:49 Jump Up Loops and Sample Packs | Loopcloud -  - 2025-12-23 19-49-21.mp3
+-rw-------@   1 daniel  staff   172K Dec 23 19:49 Jump Up Loops and Sample Packs | Loopcloud -  - 2025-12-23 19-49-22.mp3
+-rw-------@   1 daniel  staff   173K Dec 23 19:49 Jump Up Loops and Sample Packs | Loopcloud -  - 2025-12-23 19-49-23.mp3
+-rw-------@   1 daniel  staff   344K Dec 23 19:49 Jump Up Loops and Sample Packs | Loopcloud -  - 2025-12-23 19-49-24.mp3
+-rw-------@   1 daniel  staff   172K Dec 23 19:49 Jump Up Loops and Sample Packs | Loopcloud -  - 2025-12-23 19-49-25.mp3
+-rw-------@   1 daniel  staff    87K Dec 23 19:49 Jump Up Loops and Sample Packs | Loopcloud -  - 2025-12-23 19-49-26.mp3
+-rw-------@   1 daniel  staff   172K Dec 23 19:49 Jump Up Loops and Sample Packs | Loopcloud -  - 2025-12-23 19-49-27.mp3
+-rw-------@   1 daniel  staff   172K Dec 23 19:49 Jump Up Loops and Sample Packs | Loopcloud -  - 2025-12-23 19-49-28.mp3
+-rw-------@   1 daniel  staff   172K Dec 23 19:49 Jump Up Loops and Sample Packs | Loopcloud -  - 2025-12-23 19-49-29.mp3
+-rw-------@   1 daniel  staff    87K Dec 23 19:49 Jump Up Loops and Sample Packs | Loopcloud.mp3
+-rw-------@   1 daniel  staff   172K Dec 23 19:52 Jump Up Loops and Sample Packs | Loopcloud7052943c4a90fe5c1fa2d1d0baf61faffd9d25973debd64b448a7140f7e936ab.mp3
+-rw-r--r--@   1 daniel  staff   8.2M Sep 27 18:54 Justin Bieber - Purpose (PURPOSE - The Movement)-other-C major-82bpm-441hz.mp3
+-rw-r--r--@   1 daniel  staff   8.3M Sep 27 18:49 Justin Bieber - Purpose (PURPOSE - The Movement).mp3
+-rw-r--r--@   1 daniel  staff   6.2M Sep 30 18:16 Kiss Kiss Kiss (Remastered 2010)-Am-139bpm-440hz.mp3
+-rw-r--r--@   1 daniel  staff   6.2M Sep 30 18:16 Kiss Kiss Kiss (Remastered 2010)-vocals-A minor-139bpm-440hz.mp3
+-rw-r--r--@   1 daniel  staff   6.3M Sep 29 20:57 Kiss Kiss Kiss (Remastered 2010).mp3
+-rw-r--r--@   1 daniel  staff   960K Sep 11 08:03 L2zWwE57MKTyS5q2.mp4
+-rw-------@   1 daniel  staff   1.9M Oct  6 22:02 LYNY - Section (EqualSum Remix).mp3
+-rw-r--r--@   1 daniel  staff   2.3M Oct  6 22:00 LYNY - Section (Know Good, Terminal 6 Flip).mp3
+-rw-r--r--@   1 daniel  staff   2.3M Oct  7 16:28 LYNY - Section (Pongu DnB Bootleg) [Villainous FREE DL September '25].mp3
+-rw-r--r--@   1 daniel  staff   3.1M Oct  6 21:43 LYNY -SECTION - MOUSAI X UNDEHFINED FLIP.mp3
+drwx------@  12 daniel  staff   384B Dec 11 19:06 Levity - Salamander - Levity - SoundLoadMate.com-G major-73bpm-440hz
+-rw-r--r--@   1 daniel  staff    27M Dec 11 19:05 Levity - Salamander - Levity - SoundLoadMate.com-G major-73bpm-440hz.zip
+-rw-r--r--@   1 daniel  staff   3.5M Dec 11 19:01 Levity - Salamander - Levity - SoundLoadMate.com.mp3
+-rw-r--r--@   1 daniel  staff   342K Nov 18 08:12 Liked_Songs(1).CSV
+-rw-r--r--@   1 daniel  staff   370K Dec 22 20:59 Liked_Songs.csv
+-rw-r--r--@   1 daniel  staff   7.2K Sep 28 23:18 MASTER song list - Sheet9.csv
+-rw-r--r--@   1 daniel  staff    81K Sep 28 23:19 MASTER song list - Sheet9.pdf
+-rw-r--r--@   1 daniel  staff   6.9K Sep 28 23:22 MASTER_song_list.txt
+drwx------@   7 daniel  staff   224B Sep 22 19:59 Mac Miller - Frick Park Market-Gb major-78bpm-442hz
+-rw-r--r--@   1 daniel  staff   7.9M Sep 22 16:37 Mac Miller - Frick Park Market.mp3
+-rw-r--r--@   1 daniel  staff   113B Sep 26 22:03 Machine_Gun.mid
+-rw-r--r--@   1 daniel  staff    52K Sep 19 17:56 Megadoc — Kristin × Dan _ One‑of‑one Case & Courtship Plan-1.pdf
+-rw-r--r--@   1 daniel  staff    52K Sep 19 15:32 Megadoc — Kristin × Dan _ One‑of‑one Case & Courtship Plan.pdf
+-rw-r--r--@   1 daniel  staff    87B Sep 26 22:05 Minor_Key_Saw.mid
+-rw-r--r--@   1 daniel  staff   9.9M Sep 28 19:56 New Slaves.mp3
+-rw-r--r--@   1 daniel  staff    43M Oct  2 03:08 Oct_02__0200_49s_202510020308_39xin.mp4
+-rw-r--r--@   1 daniel  staff    50M Oct  2 03:11 Oct_02__0200_57s_202510020311_3o1h3.mp4
+-rw-r--r--@   1 daniel  staff   250M Oct  3 22:02 Odd Future - "Oldie".mp4
+-rw-r--r--@   1 daniel  staff    11M Oct  3 22:10 Odd Future - Oldie-G-88bpm-428hz.mp3
+-rw-r--r--@   1 daniel  staff   4.3M Oct  7 22:17 Odd Mob - Lithium (Mistwist DNB bootleg).mp3
+-rw-r--r--@   1 daniel  staff   2.4M Oct  7 22:17 Odd Mob - Lithium (VIP).mp3
+-rw-r--r--@   1 daniel  staff    87B Sep 26 22:04 Offbeat_Octaves.mid
+-rw-r--r--@   1 daniel  staff   9.8M Oct  8 22:43 Oldie.mp3
+-rw-r--r--@   1 daniel  staff   2.0M Dec 11 18:54 Oskar med K - spellbound (Zanchez remix) - Zanchez - SoundLoadMate.com.mp3
+drwx------@  16 daniel  staff   512B Sep 23 07:47 P.O.V.-Eb major-80bpm-440hz
+-rw-r--r--@   1 daniel  staff   4.0M Sep 20 04:07 P.O.V.-Eb-80bpm-440hz.m4a
+-rw-r--r--@   1 daniel  staff    65M Sep 24 21:06 P.O.V.-Eb-80bpm-440hz.wav
+-rw-r--r--@   1 daniel  staff   504K Sep 24 21:06 P.O.V.-Eb-80bpm-440hz.wav.asd
+-rw-r--r--@   1 daniel  staff   4.1M Sep 20 04:06 P.O.V..mp3
+-rw-r--r--@   1 daniel  staff   147K Sep 23 00:30 Phantom_Kick04.wav
+-rw-r--r--@   1 daniel  staff   4.4K Sep 23 19:38 Phantom_Kick04.wav.asd
+-rw-r--r--@   1 daniel  staff   5.5M Dec  9 16:14 Photos.zip
+-rw-r--r--@   1 daniel  staff    15K Sep 30 22:53 Pink-Floyd-Capitol.webp
+-rw-r--r--@   1 daniel  staff    57M Dec 23 00:11 Play_Keys.bwtemplate.part
+-rw-r--r--@   1 daniel  staff   835K Sep 29 02:19 Playlist detail - Soundiiz (9_29_2025 2：19：32 AM).html
+-rw-r--r--@   1 daniel  staff   2.4M Dec  9 15:34 Post_Game_Cheerleader_Gossip_and_Intimacy.mp4
+-rw-r--r--@   1 daniel  staff   127K Sep 12 14:28 Psychological Analysis of Dan & Kristin’s Relationship Dynamics.pdf
+-rw-r--r--@   1 daniel  staff   6.9M Sep 28 20:08 Purity Ring - Grammy.mp3
+-rw-r--r--@   1 daniel  staff   1.2M Sep 27 03:15 Qustodio (9_27_2025 3：15：22 AM).html
+-rw-r--r--@   1 daniel  staff   1.4M Sep 27 03:16 Qustodio (9_27_2025 3：16：16 AM).html
+-rw-r--r--@   1 daniel  staff   1.4M Sep 27 03:16 Qustodio (9_27_2025 3：16：42 AM).html
+-rw-r--r--@   1 daniel  staff   1.4M Sep 27 03:17 Qustodio (9_27_2025 3：17：08 AM).html
+-rw-r--r--@   1 daniel  staff    59K Sep 27 03:18 Qustodio.pdf
+-rw-r--r--@   1 dan     staff   1.6K Jul 17 01:17 RECENTY PLAYED.txt
+-rw-r--r--@   1 daniel  staff   6.2K Sep 16 02:35 RELATIONSHIP_DOSSIER_v1.json
+-rw-r--r--@   1 daniel  staff   143M Jan  1  2019 RESPECT.%20feat.%20Adam%20Friedland%20and%20Mike%20Recine%20_%20Chapo%20Trap%20House%20_%20Episode%20222%20FULL.mp4
+-rw-r--r--@   1 daniel  staff   9.4M Sep 27 23:52 RIP Amy Winehouse 🙏  #amywinehouse #nevermindthebuzzcocks #fyp #bbc #bbccomedy.mp4
+-rw-r--r--@   1 daniel  staff    76M Sep 28 00:50 Reddit - The heart of the internet.mp4
+-rw-r--r--@   1 daniel  staff   111K Sep 25 19:56 Relationship Guide for Dan_ Building and Sustaining a Committed Relationship with Kristin.pdf
+-rw-r--r--@   1 daniel  staff   479K Sep 12 09:22 STTJBTVOTXlUhblx.mp4
+-rw-r--r--@   1 daniel  staff   2.7M Oct  6 21:44 Section - LYNY (ShyKahn Flip) [Free Download].mp3
+-rw-r--r--@   1 daniel  staff   2.7M Oct  6 21:44 Section - Lyny (CATTLE PROD Flip).mp3
+drwx------@  13 daniel  staff   416B Oct  6 23:12 Section-C minor-70bpm-440hz
+-rw-r--r--@   1 daniel  staff    29M Oct  6 23:10 Section-C minor-70bpm-440hz.zip
+-rw-r--r--@   1 daniel  staff   2.7M Oct  6 22:51 Section.mp3
+-rw-r--r--@   1 daniel  staff   220K Dec  9 17:20 She_accidentally_spills_202512091720(1).jpeg
+-rw-r--r--@   1 daniel  staff   226K Dec  9 17:20 She_accidentally_spills_202512091720.jpeg
+-rw-r--r--@   1 daniel  staff   119K Dec 24 18:17 Smooch_passion_202512241817.jpeg
+drwx------@   7 daniel  staff   224B Sep 23 07:47 So Far Ahead-E minor-80bpm-440hz
+-rw-r--r--@   1 daniel  staff   3.2M Sep 20 04:10 So Far Ahead.mp3
+-rw-r--r--@   1 daniel  staff   135M Dec 24 16:43 Sophiexdt shows her pussy and asshole.mp4
+-rw-r--r--@   1 daniel  staff    93B Sep 26 22:03 Spiral_Up.mid
+drwx------@  14 daniel  staff   448B Sep 25 18:29 Step-Bb major-78bpm-441hz
+-rw-r--r--@   1 daniel  staff    10M Sep 25 18:24 Step.mp3
+-rw-r--r--@   1 daniel  staff    31K Sep 30 02:06 S̴̡̱̈́̇H̷̭̤̑̚𝙴𝙻𝙻S̴̨̱͌̾H̶̰̹͗̈́𝙾𝙲K̸̨̘̇̈́_D̶̜̂̚R̸̢̈́͝𝚄𝙼_&_̴̘̽̾B̸̡̭̾̚𝙰𝚂𝚂_D̷͇̯̦̓͝𝙰𝙽_F̷͎̲̽̏̓R̸͓͖͍̄͛͛𝙰𝙽K̷͈̈́͆̅_̶̰.csv
+-rw-r--r--@   1 dan     staff   3.8K Jul 17 01:19 TOP WEEKLY.txt
+-rw-r--r--@   1 daniel  staff   7.8M Sep 27 19:55 The Greatest.mp3
+-rw-r--r--@   1 daniel  staff   3.9M Sep 29 21:54 The Skrillex Bass Sound Reproduction - Benny Benassi - Cinema (Skrillex Remix).mp3
+-rw-r--r--@   1 daniel  staff    28K Sep 30 22:55 The_Great_Wall_of_China_at_Jinshanling-edit.jpg
+-rw-r--r--@   1 daniel  staff   107K Dec 24 18:17 They_embrace_closely_202512241817.jpeg
+drwx------@   7 daniel  staff   224B Oct  1 17:45 Thinkin Bout You-A minor-65bpm-440hz
+-rw-r--r--@   1 daniel  staff    33M Sep 30 18:10 Thinkin Bout You-A minor-65bpm-440hz.zip
+-rw-r--r--@   1 daniel  staff   7.7M Sep 29 21:16 Thinkin Bout You-Am-65bpm-440hz.mp3
+-rw-r--r--@   1 daniel  staff   7.8M Sep 29 01:20 Thinkin Bout You.mp3
+-rw-r--r--@   1 daniel  staff   649B Sep 26 22:01 Trap_Beat_01.mid
+-rw-r--r--@   1 daniel  staff   633B Sep 26 22:01 Trap_Beat_02.mid
+-rw-r--r--@   1 daniel  staff   625B Sep 26 22:01 Trap_Beat_03.mid
+-rw-r--r--@   1 daniel  staff   625B Sep 26 22:02 Trap_Beat_04.mid
+-rw-r--r--@   1 daniel  staff   617B Sep 26 22:02 Trap_Beat_05.mid
+-rw-r--r--@   1 daniel  staff   641B Sep 26 22:02 Trap_Beat_06.mid
+-rw-r--r--@   1 daniel  staff   625B Sep 26 22:02 Trap_Beat_08.mid
+-rw-r--r--@   1 daniel  staff    88M Sep 30 19:19 Trotsky with Hitchens and Service.mp4
+-rw-r--r--@   1 daniel  staff   1.9M Sep 12 12:40 Uniontown Dispensary - Medical Marijuana — Maitri Medicinals.pdf
+-rw-r--r--@   1 daniel  staff   3.8M Sep 30 19:55 Untitled 13.mov
+-rw-r--r--@   1 daniel  staff    18M Oct  1 06:39 Untitled 17.mov
+-rw-r--r--@   1 daniel  staff    30M Oct  1 20:03 Untitled 20.mov
+-rw-r--r--@   1 daniel  staff   5.7M Sep 28 21:48 Untitled 3.mov
+-rw-r--r--@   1 daniel  staff    12M Sep 24 22:55 Untitled 4.mov
+-rw-r--r--@   1 daniel  staff   7.9M Oct  1 20:21 Untitled 5.mov
+-rw-r--r--@   1 daniel  staff    36M Sep 30 14:00 Untitled 7.mov
+-rw-r--r--@   1 daniel  staff   265M Dec  9 14:06 Untitled Project 1(1).mp4
+-rw-r--r--@   1 daniel  staff   4.6M Oct  1 21:59 Untitled.mov
+-rwx------@   1 daniel  staff   304K Sep 12 14:43 Untitled.pages
+-rw-r--r--@   1 dan     staff   858B Jul 17 01:18 VIBES.txt
+-rw-r--r--@   1 daniel  staff   1.8M Dec  9 15:28 Video_Generation_From_Image.mp4
+-rw-r--r--@   1 daniel  staff   240K Dec  5 08:51 Vstrng_bottoms_202512050851.jpeg
+-rw-r--r--@   1 daniel  staff   578K Dec 22 21:06 Whisk_010b9b5b092bfaca210452d87f309ba6dr.jpeg
+-rw-r--r--@   1 daniel  staff   2.7M Dec 22 21:23 Whisk_083c1df112f3603a92f4e94d96bd33d3dr.png
+-rw-r--r--@   1 daniel  staff   1.2M Dec  5 05:59 Whisk_0e223a33d8a1ee8b8c44835cb20c04efeg.png
+-rw-r--r--@   1 daniel  staff   168K Oct  1 21:46 Whisk_1fc226eec701e1791c1465f955d5c6ffdr.jpeg
+-rw-r--r--@   1 daniel  staff   736K Dec 22 21:10 Whisk_2f7faf0c6632d23ba8d49c0d9f7ee739dr.jpeg
+-rw-r--r--@   1 daniel  staff   1.9M Nov 21 07:51 Whisk_44cb86102fc3c4f9427409cc0739b920eg.png
+-rw-r--r--@   1 daniel  staff   717K Dec 22 21:10 Whisk_4ed52eb9423d1cb87d7412dcfdf538d8dr.jpeg
+-rw-r--r--@   1 daniel  staff   856K Dec 22 21:08 Whisk_626c35640d832ee84d24d868c88b6d24dr.jpeg
+-rw-r--r--@   1 daniel  staff   113K Dec 13 20:03 Whisk_b95439026036c8283024482517c31fbedr.jpeg
+-rw-r--r--@   1 daniel  staff   283K Dec 22 21:30 Whisk_b9a65142c04d1a088024034a0e668290dr.jpeg
+-rw-r--r--@   1 daniel  staff   695K Sep 23 04:48 Whisk_bd852b36f754aeb8d924fbbb3d163a57dr.jpeg
+-rw-r--r--@   1 daniel  staff   812K Dec 22 21:09 Whisk_c542a598c9e1d38956342445e82c1960dr.jpeg
+-rw-r--r--@   1 daniel  staff   617K Dec 22 21:13 Whisk_c704b2d8aeb39a690d942adfbe1ded5ddr.jpeg
+-rw-r--r--@   1 daniel  staff   426K Oct  1 21:49 Whisk_d0b0f531375be9b830b42b3f35c9926bdr.jpeg
+-rw-r--r--@   1 daniel  staff   581K Sep 24 22:35 Whisk_deee91a1d624501a7074d9a9703b99e2dr.jpeg
+-rw-r--r--@   1 daniel  staff   690K Dec 22 21:13 Whisk_e9a97028e1ded14a50c4f9bdd0ac1082dr.jpeg
+-rw-r--r--@   1 daniel  staff   1.1M Dec  5 06:30 Whisk_ea84eefef257ea68657475a6ea3fc9c1eg(1).png
+-rw-r--r--@   1 daniel  staff   1.1M Dec  5 06:30 Whisk_ea84eefef257ea68657475a6ea3fc9c1eg(2).png
+-rw-r--r--@   1 daniel  staff   1.1M Dec  5 06:30 Whisk_ea84eefef257ea68657475a6ea3fc9c1eg(3).png
+-rw-r--r--@   1 daniel  staff   1.1M Dec  5 06:30 Whisk_ea84eefef257ea68657475a6ea3fc9c1eg.png
+-rw-r--r--@   1 daniel  staff   2.3M Dec  5 22:02 Whisk_ktmhjdokltowito40cm5qjytidn1qtlzctmx0ym.png
+-rw-r--r--@   1 dan     staff   1.6K Jul 17 01:19 XFER.txt
+-rw-r--r--@   1 daniel  staff   191M Sep 30 00:59 Xfer.Records - SerumFX v1.0.9.b6 and Serum v1.0.9.b9 OS X [PiTcHsHiFTeR][dada].dmg
+-rw-r--r--@   1 daniel  staff   3.1M Oct  7 19:53 Yeke Yeke - PEEKABOO (JRM DNB FLIP).mp3
+-rw-r--r--@   1 daniel  staff   4.0M Oct  7 16:34 Yeke Yeke.mp3
+-rw-r--r--@   1 daniel  staff    42K Sep 27 01:21 You're Welcome-20250927T052140Z-1-001.zip
+-rw-r--r--@   1 daniel  staff    17K Sep 30 02:06 _𝙴Ņ̴̨̢̘̜̭̱̰̽̾̂̚̕Ö̸̡̨̧̭̱̘̜̰́̾̽̂̚̕R̶̢̨̡̜̰̭̘̱̔̂̾̈́̚̚𝙼O̸̧̨̢̘̭̜̱̰̾̽̂̚̕͝U̴̧̨̢̘̜̭̱̰̽̾̂̚̕_𝚅Ḯ̸̡̨̧̭̱̘̜̰̾̽̂̚̕B̶̢̨̡̜̰̭̘̱.csv
+-rw-------@   1 daniel  staff   173K Dec 23 19:56 a0b5a38c9cde32cb5bf6fcda6c3237f9f36b9e6a79f7e22aeabb1f16772fa7dc.mp3Download Rolling Jump Up Samples & Loops.mp3
+-rw-------@   1 daniel  staff   173K Dec 23 19:56 a52f281113c96610ba2216b83b509c9bebc64fe2222c793ed63d15447b29a58e.mp3Download Rolling Jump Up Samples & Loops.mp3
+-rw-------@   1 daniel  staff   174K Dec 23 19:56 a746f6b61c67a4472cfe79d73e8dee83d55507cda413347e064108e9c5fbe609.mp3Download Rolling Jump Up Samples & Loops.mp3
+-rw-r--r--@   1 daniel  staff   346K Sep 19 12:27 a7ed490e_ZMD14F8DA275520_v20250919020150(1).mp4
+-rw-r--r--@   1 daniel  staff   346K Sep 19 12:25 a7ed490e_ZMD14F8DA275520_v20250919020150.mp4
+-rw-------@   1 daniel  staff   172K Dec 23 19:56 a9081bae8b899ba700410734c7104e86cdea95de4bc8dee5371c78b63767fcdb.mp3Download Samples & Loops.mp3
+drwxrwxr-x@  15 daniel  staff   480B Mar 17  2025 ableton-patcher-main
+-rw-r--r--@   1 daniel  staff   811K Sep 26 19:12 ableton-patcher-main.zip
+-rw-------@   1 daniel  staff   172K Dec 23 19:56 af01740894b85927fb161e440d459d8f62c698faab09f71cd1cc1f94e3072d95.mp3Download Rolling Jump Up Samples & Loops.mp3
+-rw-r--r--@   1 daniel  staff    26M Sep 27 23:53 amy.mov
+-rw-------@   1 daniel  staff   173K Dec 23 19:56 bae7261dc4d2da2d04b9961f0763484eede3348fef9f1721b3f0b26f3b59f39d.mp3Download Rolling Jump Up Samples & Loops.mp3
+-rw-r--r--@   1 daniel  staff   2.8M Sep 27 03:54 balance.mov
+-rw-r--r--@   1 daniel  staff   6.3K Oct  6 05:11 basic_pitch_transcription.mid
+-rw-r--r--@   1 daniel  staff   4.1M Sep 24 22:52 bb.mov
+-rw-r--r--@   1 daniel  staff    28M Sep 27 03:46 bb1.mov
+-rw-r--r--@   1 daniel  staff    21M Sep 27 03:51 bb2.mov
+-rw-------@   1 daniel  staff   172K Dec 23 19:56 c885a431842d36c39365bfa96fdf3461088a7203e9f27df3ba076055c5a75259.mp3Download Rolling Jump Up Samples & Loops.mp3
+-rw-r--r--@   1 daniel  staff    80K Sep 19 15:18 can you generate a full report of mental disorder....pdf
+-rw-r--r--@   1 daniel  staff   7.3M Oct  1 21:20 ccccc.mov
+-rw-r--r--@   1 daniel  staff   169K Sep 19 15:04 chatgpt-log-2025-09-19.html
+-rw-r--r--@   1 daniel  staff   8.9K Sep 26 00:12 chatgpt-log-2025-09-26.html
+-rw-r--r--@   1 daniel  staff    16K Sep 29 21:15 chatgpt-log-2025-09-30.html
+-rw-r--r--@   1 daniel  staff    14K Sep 28 18:31 chromatic_chord_compendium_enhanced_single_file_html.html
+-rw-r--r--@   1 daniel  staff    20K Sep 16 02:34 commitments.csv
+-rw-r--r--@   1 daniel  staff   4.6M Oct  1 22:00 crybaby.mov
+-rw-------@   1 daniel  staff   173K Dec 23 19:56 d6382e4bfbfc067f106d1383eee5174b28cb52dc345f98ee2323a6d467b9f146.mp3Download Rolling Jump Up Samples & Loops.mp3
+-rw-r--r--@   1 daniel  staff   129K Sep 19 10:44 dcb3f3d9_ZMD14F8DA275520_v20250919020512.mp4
+-rw-------@   1 daniel  staff   173K Dec 23 19:56 de1413f3707ad135d70d2f9197394ee33ee5edf7497c5a23e929816de303e637.mp3Download Rolling Jump Up Samples & Loops.mp3
+-rw-r--r--@   1 daniel  staff   157K Dec 23 21:22 download-1.jpg
+-rw-------@   1 daniel  staff   173K Dec 23 19:56 e864c873a42151c385424511c6f953a6d20df552291a307b706af505499c47d3.mp3Download Rolling Jump Up Samples & Loops.mp3
+-rw-r--r--@   1 daniel  staff   3.2M Dec 15 00:34 ear2.mov
+-rw-r--r--@   1 daniel  staff   3.3M Dec 15 00:32 eear.mov
+-rw-r--r--@   1 daniel  staff    13M Sep 27 20:11 ez.mov
+-rw-------@   1 daniel  staff   174K Dec 23 19:56 f802ca37794ce63c4a2bb50bd914201936d6733e3c5d60ee4525ab24a6412a99.mp3Download Rolling Jump Up Samples & Loops.mp3
+-rw-------@   1 daniel  staff   173K Dec 23 19:56 f9591054bc860b706d37a45b84379e5882b4ec3271740681ed83fe6927540c6b.mp3Download Rolling Jump Up Samples & Loops.mp3
+-rw-r--r--@   1 daniel  staff    80K Sep 14 18:47 generate a report (in language anyone can underst....pdf
+-rw-r--r--@   1 daniel  staff    34M Oct  2 07:20 gf.mov
+-rw-r--r--@   1 daniel  staff   4.5M Sep 27 02:19 gpt-5-system-card2.pdf
+-rw-r--r--@   1 daniel  staff    19M Sep 28 23:01 idoifsf.mov
+-rw-r--r--@   1 daniel  staff   304B Sep 26 19:26 install.txt
+-rw-r--r--@   1 daniel  staff   2.0M Oct  2 14:50 jkkj.mov
+-rw-r--r--@   1 daniel  staff   163K Oct  1 23:18 kd - 01.gif
+-rw-r--r--@   1 daniel  staff   537K Oct  1 23:16 kd.gif
+-rw-r--r--@   1 daniel  staff   250K Oct  1 23:02 kd.mov
+-rw-r--r--@   1 daniel  staff    47M Jun 13  2021 leonard.m4a
+-rw-r--r--@   1 daniel  staff    21M Sep 24 23:45 lllllll.mov
+-rw-r--r--@   1 daniel  staff   2.5M Dec 23 19:44 loop\.mov
+-rw-r--r--@   1 daniel  staff   1.9M Sep 24 21:19 looperman-l-5771471-0407548-jerk-drum-loop-basics.wav
+-rw-r--r--@   1 daniel  staff    25K Sep 24 21:19 looperman-l-5771471-0407548-jerk-drum-loop-basics.wav.asd
+-rw-r--r--@   1 daniel  staff   2.3M Sep 24 21:18 looperman-l-7023567-0407754-drums-for-trap-140-bpm.wav
+-rw-r--r--@   1 daniel  staff    30K Sep 24 21:19 looperman-l-7023567-0407754-drums-for-trap-140-bpm.wav.asd
+-rw-r--r--@   1 daniel  staff   996K Sep 24 21:20 looperman-l-7823406-0407715-clipse-type-drums.wav
+-rw-r--r--@   1 daniel  staff    15K Sep 24 21:20 looperman-l-7823406-0407715-clipse-type-drums.wav.asd
+-rw-r--r--@   1 daniel  staff   4.0M Dec  2 23:46 m.mov
+-rw-r--r--@   1 daniel  staff   4.9M Dec  3 09:31 meee.mov
+-rw-r--r--@   1 daniel  staff   3.6M Dec  3 23:25 meeee2.mov
+-rw-r--r--@   1 daniel  staff   3.3M Sep 16 03:32 mir.mov
+-rw-r--r--@   1 daniel  staff    10M Sep 27 20:18 missed.mov
+-rw-r--r--@   1 daniel  staff   1.3M Dec 23 18:53 nnnn.mov
+-rw-r--r--@   1 daniel  staff    32M Sep 27 04:17 no.mov
+-rw-r--r--@   1 daniel  staff   8.0M Sep 27 20:14 ooo.mov
+-rw-r--r--@   1 daniel  staff   5.0M Sep 27 04:20 oooop.mov
+-rw-r--r--@   1 daniel  staff   3.5M Sep 26 02:27 oopd.mov
+-rw-r--r--@   1 daniel  staff    28M Sep 27 04:29 opt.mov
+-rw-r--r--@   1 daniel  staff    25M Sep 28 00:38 pi.mov
+-rw-r--r--@   1 daniel  staff   5.5M Sep 12 18:45 piratebay.mov
+-rw-r--r--@   1 daniel  staff   5.8M Sep 26 05:36 pp.mov
+-rw-r--r--@   1 daniel  staff    97K Oct  1 11:15 pridefest-2016-pink-flamingos_76061446-f0ae-5102-065ba0447b65195a.jpg
+-rw-r--r--@   1 daniel  staff   112K Oct  2 04:22 rEjop68cMC.jpg
+-rw-r--r--@   1 daniel  staff   8.1K Sep 16 02:35 raw_evidence_appendix.csv
+-rw-r--r--@   1 daniel  staff   2.0M Sep 23 09:44 result-2025-09-16T100913.866.pdf
+-rw-r--r--@   1 daniel  staff    59K Dec  9 15:36 s.jpg
+-rw-r--r--@   1 daniel  staff   2.5M Oct  7 19:48 section drops.m4a
+-rw-r--r--@   1 daniel  staff   1.5M Sep 26 04:10 shelf.mov
+-rw-r--r--@   1 daniel  staff    63M Jul 15 17:25 soundgasm.netsoundgasm.net -  - 2025-07-15 17-25-24.m4a
+-rw-------@   1 daniel  staff    69M Jun 14  2025 soundgasm.netsoundgasm.net.m4a
+-rw-------@   1 daniel  staff   324K Sep 11 15:43 stock-vector-wearing-barrel-258888065.jpg
+drwx------@  20 daniel  staff   640B Dec 22 18:38 taste_analysis
+-rw-r--r--@   1 daniel  staff   969K Dec 22 21:00 taste_analysis (1).zip
+-rw-r--r--@   1 daniel  staff   1.3M Dec 22 18:37 taste_analysis.ipynb
+-rw-r--r--@   1 daniel  staff   768K Dec 22 18:38 taste_analysis.zip
+-rw-r--r--@   1 daniel  staff   9.0M Oct  1 06:37 thinkin.mov
+-rw-r--r--@   1 daniel  staff   430K Sep 16 02:35 time_series_sentiment.csv
+-rw-r--r--@   1 daniel  staff   226B Sep 16 02:34 top_bigrams.csv
+-rw-r--r--@   1 daniel  staff   321B Sep 16 02:34 top_trigrams.csv
+-rw-r--r--@   1 daniel  staff   432B Sep 16 02:34 top_words.csv
+-rw-r--r--@   1 daniel  staff   258K Sep 30 22:56 trump-border-wall-partially-built-458255.html
+-rw-------@   1 daniel  staff    50K Nov 21 00:49 unnamed-1.jpg
+-rw-r--r--@   1 daniel  staff    95K Dec 13 19:58 unnamed-2.jpg
+-rw-------@   1 daniel  staff    45K Nov 21 00:46 unnamed.jpg
+drwxr-xr-x@   2 daniel  staff    64B Sep 27 03:27 us.sitesucker.mac.sitesucker
+-rw-r--r--@   1 daniel  staff   7.5M Oct  1 21:17 uyuy.mov
+-rw-r--r--@   1 daniel  staff   130K Dec  9 15:37 v.jpg
+-rw-r--r--@   1 daniel  staff   209K Sep 10 15:34 vRBFjfV5fqJ7V0JD.mp4
+-rw-r--r--@   1 daniel  staff    14M Sep 27 20:22 variants.mov
+-rw-r--r--@   1 daniel  staff   183K Sep 30 22:55 wall.avif
+-rw-r--r--@   1 daniel  staff    61M Nov 19 04:54 whisk_images(1).zip
+-rw-r--r--@   1 daniel  staff    61M Nov 19 04:54 whisk_images(2).zip
+-rw-r--r--@   1 daniel  staff    61M Nov 19 04:54 whisk_images(3).zip
+drwx------@  84 daniel  staff   2.6K Nov 20 20:07 whisk_images(4)
+-rw-r--r--@   1 daniel  staff    56M Nov 19 16:58 whisk_images(4).zip
+drwx------@  84 daniel  staff   2.6K Nov 19 17:00 whisk_images(5)
+-rw-r--r--@   1 daniel  staff    56M Nov 19 16:58 whisk_images(5).zip
+drwx------@ 224 daniel  staff   7.0K Nov 19 17:05 whisk_images(6)
+-rw-r--r--@   1 daniel  staff    61M Nov 19 04:54 whisk_images.zip
+-rw-r--r--@   1 daniel  staff    58K Oct  6 16:50 why should this not be considered infidenlity.pdf
+-rw-r--r--@   1 daniel  staff    29M Sep 27 04:13 wide.mov
+-rw-r--r--@   1 daniel  staff    55M Aug 13  2023 y2mate.com - Chapo Trap House COVID Chronicles Part 1.mp3
+-rw-r--r--@   1 daniel  staff    10M Sep 28 21:53 yes2.mov
+-rw-r--r--@   1 daniel  staff    17M Sep 28 21:51 yesssss.mov
+-rw-r--r--@   1 daniel  staff   6.9M Sep 30 22:14 yguygyug\.mov
+-rw-r--r--@   1 daniel  staff   9.8M Sep 27 20:16 「MV」mumei-F-96bpm-441hz.mp3
+-rw-r--r--@   1 daniel  staff   9.8M Sep 27 20:15 「MV」mumei-vocals-F major-96bpm-441hz.mp3
+-rw-r--r--@   1 daniel  staff   9.9M Sep 27 20:03 「MV」mumei.mp3
+-rw-r--r--@   1 daniel  staff    48K Sep 27 20:03 「MV」mumei.srt

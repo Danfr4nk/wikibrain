@@ -1,0 +1,40 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 563 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "impressions_history_posts_seen": [
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "felipee_nyc"
+        },
+        "Time": {
+          "timestamp": 1756036893
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "bcarb8625"
+        },
+        "Time": {
+          "timestamp": 1756035766
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "jpmichniak"
+        },
+        "Time": {
+          "timestamp": 1756035786
+        }
+      }
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:21:51.724-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:21:51.724Z"
+  }
+}

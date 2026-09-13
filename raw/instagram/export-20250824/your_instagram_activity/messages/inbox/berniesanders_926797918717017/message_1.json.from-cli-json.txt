@@ -1,0 +1,31 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 563 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2863081708583103032"
+      },
+      "timestamp_ms": 1655525975163
+    }
+  ],
+  "participants": [
+    {
+      "name": "Bernie Sanders"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:33:19.955-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:33:19.955Z"
+  },
+  "thread_path": "inbox/berniesanders_926797918717017",
+  "title": "Bernie Sanders"
+}

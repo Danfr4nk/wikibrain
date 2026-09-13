@@ -1,0 +1,55 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1317 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/3539981746881342266"
+      },
+      "timestamp_ms": 1736218764115
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1736209894758
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/3539906904366583279"
+      },
+      "timestamp_ms": 1736209832642
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/3539904897752900220"
+      },
+      "timestamp_ms": 1736209596910
+    }
+  ],
+  "participants": [
+    {
+      "name": "Robert Lindow"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:29:52.868-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:29:52.868Z"
+  },
+  "thread_path": "inbox/robertlindow_1638474754215993",
+  "title": "Robert Lindow"
+}

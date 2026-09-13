@@ -1,0 +1,59 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1467 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "I only do pick ups unfortunately",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "NYC TRIPZ",
+      "timestamp_ms": 1653605275037
+    },
+    {
+      "content": "Sup bro I just read your messages. didn't even realize you messaged me before. My bad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "NYC TRIPZ",
+      "timestamp_ms": 1653605266557
+    },
+    {
+      "content": "Interested",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1653564350908
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "original_content_owner": "nyctripz"
+      },
+      "timestamp_ms": 1653564350565
+    },
+    {
+      "content": "Do you run to Manhattan?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1630374110314
+    }
+  ],
+  "participants": [
+    {
+      "name": "NYC TRIPZ"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:30:44.076-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:30:44.076Z"
+  },
+  "thread_path": "inbox/nyctripz_1224501854685772",
+  "title": "NYC TRIPZ"
+}

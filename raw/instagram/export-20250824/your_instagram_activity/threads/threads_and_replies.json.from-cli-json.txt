@@ -1,0 +1,3848 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 120690 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:24:09.413-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:24:09.413Z"
+  },
+  "text_post_app_text_posts": [
+    {
+      "media": [
+        {
+          "creation_timestamp": 1696360345,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "I",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1690155640,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Until a proper keyword search function is implemented, Threads isnât going to be a viable alternative for me. \n\nThe algorithm here isâ¦fine. But it canât be the only option available.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1690155228,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "I joined Twitter in 2008 and have used it consistently ever since. It makes me sad to see such a useful and unique place get destroyed.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689761540,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "2023, everyone.\n\nCant wait to see what kind of depraved, nightmarish stuff the universe serves up next year.",
+          "uri": "media/posts/202307/361922762_202240782497894_8862087057988806285_n_18027860392514312.jpg"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689728722,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "With the news of an imminent 3rd Trump indictment, it occurred to me that I donât think most people realize just how insane politics is going to get over the next 16 months. \n\nHonestly - the 2020 election is going to seem totally normal compared to what weâre about to experience.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689479146,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "I know you were going for humor here and Iâm totally averse to RFK Jr as a candidate..\n\nBut I must tell you that this post is as weird and cringe as it is unfunny. We make fun of conservatives for how bad their comedy is and this is exactly the kind of forced reference, desperately overzealous âjokeâ that solidified their reputation as the unfunny political party. \n\nWe must be better than this.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689335694,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "I walked by the 20 block area that theyâre camped out last night at midnight. Every 2 minutes or so, I would hear a terrible scream and watch a group scramble..eventually I realized that rats/roaches were the cause",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689327154,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Iâm not going to be able to do this algorithm TL much longer and have found myself back on Twitter more and more in the last few days.\n\nIf Meta has any interest in sustaining this thing they need to add search function and reverse chrono feedâ¦like yesterday",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689323010,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Beyond just being excited to see a new Chris Nolan movie, i am just unbelievably happy to see a blockbuster film on this scale that features a nuanced and positive examination of a character with socialist leanings and why they aspire to create a better future than the death march of archconservative impearlism",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689323006,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "The last 1/3 of the book is the post-war stuff and the hearings that take place when Oppie is accused of being involved in espionage for the Soviets. \n\nItâs a fascinating, sad and horrific conclusion to the story.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689323001,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Oppenheimer attempts a difficult balancing act between the scientists (and his own) humanistic morality & progressive ideology while maintaining a perception of a more conservative patriotism needed to appease the military overseers controlling and funding their work. \n\nUltimately, he realizes that he and his scientists will have no control or input of when/why this weapon is used or how it is regulated.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689322997,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Oppenheimer and the scientists are interested in creating these weapons of mass destruction exclusively to defeat the Naziâs and fascism. As Germany declines, a debate about the ethics of their work gets louder. \n\nWill we share this research with Russia (our ally against Germany) to prevent an arms race?\n\nDo we even need these weapons now that the Naziâs are defeated?",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689322993,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Despite this pushback, Gen Leslie Groves sees Oppie as the best choice to lead the scientific development.\n\nAfter launching âSite Yâ in Los Alamos as the central worksite for the development of the bomb and a long process of recruiting scientists to work on the project - the central theme of the book is made clear",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689322990,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "When WWII breaks out, nuclear fission has just been demonstrated through lab experiments. The possibility of harnessing these reactions to create a superweapon is still not certain, but military projects are commissioned to create it on both the allied and axis sides.\n\nOppie is uniquely qualified for this project from his work with radiation/particle physics at Berkley, but a strong resistance to his selection in the project forms among top brass due to his political affiliations.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689322985,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "As a professor at UC Berkley, Oppie is exposed to a culture of leftist ideology that is prevalent among his coworkers in higher education. His new politically awareness inspires him to attend meetings of several activist groups who would later be accused of being front orgs for communist activity.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689322982,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "The first 1/3 of the book is typical backstory/exposition about an awkward and eccentric (if brilliant) Oppie who, during adolescence struggles to find his place in the world outside of the Upper West Side Jewish neighborhood community that he grew up in. \n\nHe excels in physics and eventually achieves a place as one of the top minds in theoretical physics, during the golden era of this field in the first half of the 20th century",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689322979,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "In anticipation of Oppenheimer release, I finished reading the book it is adapted from- American Prometheus: The Triumph and Tragedy of J Robert Oppenheimer\n\nHereâs a top line synopsis of the stuff to know before you see the movie",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689319674,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Retire during a friendly administration, dammit!\n\nSorry, I just will never get over the institutional damage that could/should have been avoided if RBG would have listened to reason and let Obama pick her successor in 2013.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689309702,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "There is a 30 block campout on 5th Ave from 72nd street to 59th street (and then wrapping around) for Summerfest",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689290704,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Solidarity to all SAG-AFTRA comrades",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689289206,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Wrong app",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689289078,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Pop off queen.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689288930,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "âSecret Service confirms glass of scotch found in White House in 1926â",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689287315,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "",
+          "uri": "media/posts/202307/359766827_222647740727980_6838198401750636569_n_18052712248443339.jpg"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689210269,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Kinda hysterical that Donald Trump is simultaneously being clowned by some republicans  as âtoo woke friendlyâ while others insist that he is the bulwark against the leftist woks mind virus.\n\nMore evidence that Trump exists as a blank canvas for reactionaries to paint whatever ideological agenda they want on to.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689210068,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Yo come ON! \n\nI was already 5th gear hyped for this movie and then you tell me itâs got âPrestigeâ vibes?!",
+          "uri": "media/posts/202307/360035353_1485923635486125_7323069481914621349_n_17865131042923022.jpg"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689209968,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "I have not, but I appreciate the recommendation. Going to need all the help I can get to pass the time while I wait for 7/31, which was the first availability for 70mm imax tickets I could find.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689154891,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Not Oppenheimer? Not interested.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689141648,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "LETS GOOOOOOOO",
+          "uri": "media/posts/202307/360033889_653402623354149_6307433042221347179_n_18000850684927958.jpg"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689128679,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "I have only had this level of anticipation and excitement about a new movie one time before, and the payoff of seeing it was one of the most fun and memorable experiences of my life.\n\nThat movie was The Dark Knight and I will never forget how insane it was to see it IMAX on opening night",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "creation_timestamp": 1689128208,
+      "media": [
+        {
+          "creation_timestamp": 1689128207,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "",
+          "uri": "media/359213768_18373284994056594_7945261092234178401_n_17977930544178076.jpg"
+        },
+        {
+          "creation_timestamp": 1689128207,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "",
+          "uri": "media/360084572_18373284985056594_6379838423543242487_n_17988877424159532.jpg"
+        },
+        {
+          "creation_timestamp": 1689128207,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "",
+          "uri": "media/360084756_18373284997056594_1052046961392646624_n_17921972807684881.jpg"
+        },
+        {
+          "creation_timestamp": 1689128207,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "",
+          "uri": "media/359832629_18373285000056594_8901089706897574157_n_18029353288549200.jpg"
+        }
+      ],
+      "title": "FIRST OPPENHEIMER REVIEWS"
+    },
+    {
+      "creation_timestamp": 1689125237,
+      "media": [
+        {
+          "creation_timestamp": 1689125237,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "",
+          "uri": "media/359813631_18373279591056594_2023557929507928007_n_17863279643967892.jpg"
+        },
+        {
+          "creation_timestamp": 1689125237,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "",
+          "uri": "media/348632832_18373279594056594_6829039813630430619_n_17984757647223550.jpg"
+        }
+      ],
+      "title": "Bad news everyone.\n\nThreads registration badge has been removed from instagram profile."
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689124918,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "3/3",
+          "uri": "media/posts/202307/359687285_212746905077298_3559899314152345204_n_18360363085064451.jpg"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689070548,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "As goofy as it seems, Donald Trump would sabotage whatever GOP candidate and hand Biden a win if he was somehow defeated in a  primary. \n\nHis animosity towards any and all political challengers is surprisingly fleeting, and his real concern is self-involved..so the perceived disloyalty of republicans would be much more egregious to him than the performative hostility he exhibits towards the democrats",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689067215,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Thanks, Obama!!!",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689067052,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "All things considered, this guy is a still a huge nonce who was an active participant in J6.\n\nKinda weird that people are treating this dude like an ally just because heâs antagonizing Tucker Carlson.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689065494,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Oh! A sprawling dome of heat!\n\nThat sounds..nice?",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689058207,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "media_variants": [],
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Correlation polling: GOP approval vs Trump favorability \n\nData includes only Republican respondents.",
+          "uri": "media/posts/202307/AQMKSirleUedo6ROF25PW8RyujWKkkYuASCntF2DErhljC9IhEzf4aJxh5Vz6AfblK5n6hF783fFGbCHwswQ9e_18278321509125182.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689054577,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "My sister is responsible for radicalizing me into a class-traitor DSA antifa marxist. \n\nShe called me stupid for liking Joe Rogan in 2015. She called me a transphobe for being kinda transphobic in 2017. She called me a fucking loser for being slow to support Bernie in 2019.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689054080,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "",
+          "uri": "media/posts/202307/358965908_276974471594827_4640873889646550794_n_18047159314426750.jpg"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689054004,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Wooh-sah",
+          "uri": "media/posts/202307/359636645_233559172878881_4863807244080942374_n_18000828250798011.jpg"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689053566,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Absolutely unbelievable how this all played out to facilitate the most successful platform launch ever (like, by a LOT)\n\nWhile it wonât be âeasyâ to grow this place into the sustainable Twitter replacement space it could become, meta has the proper resources and best odds of making that happen",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689052814,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "These small touch features are the reason why I do not miss my bird app",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689043269,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Threads political media starter-pack:\n\n@ryangrim \nacyn\n@rawstorymedia \n@kenklipp \n@griffinkyle \n@meidastouch \n@mehdirhasan \n@taylorlorenz \n@andykaczynski \n@mckaycoppins",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689042572,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Thank you.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689039997,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "2. So who else might be able to step in?\n\nGavin Newsom is widely seen as the best emergency substitute, but he will face his own set of unique challenges in consolidating the party. \n\nNewsom has been able to hit the sweet spot as CA gov - successfully finding the middle ground to partially satisfy both Berkley progressives and Beverly Hills moderate-libs. That is a good play in a +20 dem state, but may be a death sentence in places like Wisconsin & Michigan",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689039407,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "1. The most obvious (or traditionally expected) move would be the current VP, but I think we all know that this is so laughably stupid that itâs hardly worth mentioning.\n\nOn paper, Kamala Harris seems like a viable option - her credentials as a state AG + experience as a Senator are fine qualifiers.\n\nBut holy shit she may be the worst public speaker in modern politics. She is permanently stuck in a mode that can only be described as âoverdid it on ediblesâ",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689038907,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Iâve been running this scenario through my head over and over again and it terrifies me:\n\nJoe Biden is somehow incapacitated before the convention and unable to run in 2024. What happens next?",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689038722,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "My summer reading list, which is the same book as the last 3 years",
+          "uri": "media/posts/202307/358502171_814025910124533_3819129241000990311_n_18116735164309235.jpg"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689025469,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "âGreat job to those taking it a step fartherâ\n\nThreads is so positive that even scambait Amazon sellers can find encouragement here",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689025363,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "AI is notoriously awful with the body text of books, so I doubt it.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1689025102,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Most restaurants pool tips now. This is bad for the staff not only because it completely removes the incentive structure that tips provide and subsidize the worst/least inspired team members..but it opens up a slew of new mechanisms for the employer to dip in to the tips earned.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688957889,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "media_variants": [],
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Get dicked, NYT mini.",
+          "uri": "media/posts/202307/AQMB5vSUMHorpQch0kO1ek5dBnZ2oErpjHQS_rYsTlCyzLOhBW53lZRxSexLtne2w0htfjy0Jq3HNmqO3iJ4L_17947594475645309.mp4"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688946617,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Weâre 7 months out from the first primary and both nominees are basically locked",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688936089,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "I have barely opened twitter",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688933067,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Is it Oppenheimer day yet",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688842658,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "inshallah",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688795638,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Welcome to threads everybody",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688782572,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "This is way too generous.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688756334,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "This idea that threads will exist free of politics and news is completely asinine. \n\nThis shitposting honeymoon isnât going to last forever and trust me when I say that a TL full of influencer brand deals and stolen memes will shed users quickly",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688737283,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Dear lord",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688701380,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Yes anyone with a different opinion must be suffering from bad vibes",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688700021,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Step 1: filibuster reform",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688699538,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Hard disagree",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688694789,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Barbie Oppenheimer. Oppenheimer Barbie.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688689363,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Freedom caucus thinks theyâre doing feminism by defending LoBo here",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688689249,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "If you want SpaceX to succeed your best bet is to hope for the exact opposite of that:\n\nHope that he gives them blank check access to his accounts and then forgets that he has anything to do with their operations.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688688736,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "This is one of those rare cases where flipping a codefendent isnât going to substantially change the strength of the case. \n\nOf course, it would benefit the prosecution to some degree to have cooperative testimony but this is a super unusual situation where DOJ only filed charges because of the overwhelming amount of evidence that Trump insisted on giving them.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688688343,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Threads power-user",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688688162,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Oh man how creepy. You surreptitiously snap a picture of someone in the gym and then send that person the picture of themself. \n\nDo you know how infinitely weird that is?",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688687399,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Yes. Thatâs what a kleptocracy is. You nailed it.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688685170,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Ugh enough of this useless engagement bait.\n\nCanât we at least TRY to post good content without the entire purpose being to artificially game the algo.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688685017,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Iâm a socialist, friendo. \n\nI want to take the money you already pay and use it to give you (and everyone else) a better, happier and healthier life.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688684915,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Lmao this guy thinks Iâm not terminally online. \n\nYes Iâm very well aware of the story.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688684815,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "I didnât say you were a Nazi. \n\nBut banning political content here is not only crazy, but actively detrimental to the public good. It would also instantly kill this platform.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688683973,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Yeah - we believe in capitalism where only huge lucrative companies and their elite oligarch owners deserve government assistance.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688683756,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Pesos to churros youâre a nonce.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688683697,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Good god, no. How about we just donât foster a community of naziâs?",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688683363,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Project Veritas flip",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688680719,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Iâd be more surprised if you told me about a major cultural event they had *not* predicted",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688669325,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "",
+          "uri": "media/posts/202307/358169446_1046013813258193_5946392692264674908_n_18036951508499425.jpg"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688668941,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Okay Twitter is fucking DONE. \n\nThreads is less than 24 hours old and DJTJ is already here, schizo posting about cocaine.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688668511,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Iâm not saying itâs unfair, just that it opens up an opportunity for them by creating a line of attack that doesnât provide any political benefit.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688666540,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Something tells me thereâs a pretty firm divide between the hardware/software & code devs that isnât being crossed. Particularly at a company as big as Meta",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688665496,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Even greg js better on threads. Everything better on threads.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688665441,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Just checked in on Twitter and theyâre keeping their minds busy by debating who is more alpha: Himmler or Ribbentrop\n\nTheyâre doingâ¦.:..theyâre fine,â¦.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688653247,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Congratulations. Take the worlds most annoying post and somehow made it even more unbearable. \n\nYouâre a pillar of society.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688652950,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Give me my fucking chrono-following TL.\n\nPlease.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688652747,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Except it doesnât work because the âfixâ here only effects what notifications you receive. It has no impact on what posts or accounts appear in your timeline",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688652584,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Itâs easy to tell which accounts were exclusive Instagram users by their constant and usage of the triple repeated emoji rather than any expressive verbal ability",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688649397,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "You donât deserve shoe",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688648323,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Something about âMAGAtâ has always bothered me. Maybe itâs the weird capitalization. Maybe itâs the risk of giving reactionary ghouls an easy optics win with such dehumanizing terminology. \n\nI just think âchudâ strikes the perfect balance and tone",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688645764,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Oh god, REDDIT is here too???? \n\nGross",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688644982,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Day 2, party is over. Now letâs get back to discussing the important issues we were working on in the bird app",
+          "uri": "media/posts/202307/358338911_575121064783675_7878175189799851370_n_18023216104580342.jpg"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688644718,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Only a real square wouldnât know that itâs schedule II. \n\nIgnorance of the law is terribly unpatriotic, good sir.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688643097,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "I can tell youâre a real man because you need emojiâs to express ideas and not justâ¦you know, words. \n\nBut donât worry, guy. Iâm absolutely shattered by your terrifyingly accurate depiction of my empty and unfilled life.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688642599,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Okay huzzah for you. Now you & your Iron Man sleeve can go back over to instagram where you can be validated for this kind of dreck and leave the posting to the posters.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688642041,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Iâm realizing that the one thing I miss about Twitter is the thrashing dogpile that would be heaped on anyone desperate enough to white knight in response to the standard ânot buying the OFâ meme",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688641185,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Both @jonkarl trump books were fantastic so this shit has me on cloud 9",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688635830,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "What is it about right wing content that is SO infectious to these algorithms? I followed like 2 far-right ghouls and my entire feed is exclusively posts about Hunter Biden and the woke mind virus",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688635505,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "They say Steve Bannon has a preternatural understanding of  new media culture and is a genius at using it for effective political messagingâ¦\n\nYet his is the only podcast that skipped the one day of organic fun on here and went right to promo posting.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688634183,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Omg I canât wait to see how crazy the Twitter traffic drop is from the combined one-two punch of  the rate limit fiasco + Threads launch",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688633183,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "I know weâre supposed to be nice and charitable on this platform and allâ¦\n\nBut the answer to this question is so obvious that I have to assume you were just spitballing ideas to post about simply for the sake of posting something. Iâd be shocked if even 25% of the ig userbase decides to use Threads",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688632139,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "So how are they wildly similar?",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688626905,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Notable lack of clown emoji here.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688626711,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Okay so weâve left the chaos timeline era \n\nNow my feed is showing followed accounts but with the weirdest and least understandable time sort.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688626469,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Iâve been skeptical, but I might actually believe this place has a chance if Felix makes the move",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688625845,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Day 1 biggest mystery: WHERE IS @hasanpiker",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688625645,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Follow my account if you enjoy things like- The Beatles, William Shakespeareâs âKing Learâ, fine red wine, Citizen Kane or any oil on canvas painting by Leonardo da Vinci",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688624880,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "My theory is that the algorithm is going to push positivity content and sunshine bubblegum posts so Iâm gonna try to get in on that. \n\nWho else here loves fun activities like: \nDelicious restaurants, reminiscing with long-lost friends, the companionship of a dog/cat, dancing to your favorite song",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688624293,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Itâs a win/win because no matter what happens to Threads in the long term, the threat of lost market share will force Elon to hold off on whatever the next thing was that he had planned to actively destroy the site.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688623426,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "The sweet satisfaction of starting over with a fresh, empty âfollowingâ feed.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688618204,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Item # 2 - let me see what posts Iâve liked",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688618059,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Torn because I totally agree, yet I wouldnât have seen this post without the algorithm.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688617690,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Donât ruin this for me, Mark.",
+          "uri": "media/posts/202307/358266178_962164731693412_1425977409168597042_n_17888893733851781.jpg"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688617393,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "We hope to take what the car does best and create a new experience around maritime experiences - high volume shipping vessels, cruiseliner tourism, luxury yachts and swamp style fanboats.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688614027,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Oh well, no matter how atrocious this whole thing turns out at least itâs holding Elonâs feet to the fire and forcing him to roll back the worst changes at Twitter. Heâs already partially backed off of the rate limiting",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688613868,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Iâm just not understandingâ¦what is the use case for Threads? \n\nWhat utility does a micro blogging platform have other than being a âtown squareâ for real-time viral dialogue?",
+          "uri": "media/posts/202307/357830732_258733243531833_2248867027143689471_n_17921562965740350.jpg"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688612248,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "The more I think about it, the more I realize that I just want this to be Twitter 2. \n\nIâd be thrilled (and I believe it would be a successful business venture) if meta just set out to recreate the backend concept of Twitter with a better UI and a reduced presence of transphobic vampires in the TL",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688611929,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "For threads to succeed, theyâre going to need to really study and implement some of the core concepts that are specific and associated with Twitterâ¦even at the risk of being dubbed a clone or rip-off\n\nItem #1 - trending tab",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688608720,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "In the post-truth economy, it only takes one âhookâ to sustain infinite controversy. Thereâs still a huge pocket of MAGA imagineers trying to get to the bottom of fucking Comet Ping Pong",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688608463,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "The old meme about Trump playing 4d chess has always been astonishingly and observably false, and this new White House drug story perfectly exemplifies why.\n\nReal 4d chess would be GOP operatives planting the narcotics there knowing that it would fuel months of Hunter Biden media speculation",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688608079,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Also if the target userbase is current ig & Facebook users, itâs going to be a weird experience. \n\nThe idea of my ig feed (which is entirely mediocre food photography, filter-death selfies and atrocious transphobia memes) expressing themselves in the written word q sends shivers down my spine",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688607670,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Iâm liking the clean UI here and am fully behind anything that might re-capture the fun of old Twitterâ¦\n\nThat being said, I need an option for a chronological timeline.",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688606733,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Happy to see more of the 08 Twitter crew getting in early here",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1688606636,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "unknown"
+                }
+              ]
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "Threads early adopter right here",
+          "uri": ""
+        }
+      ]
+    }
+  ]
+}

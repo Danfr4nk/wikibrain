@@ -1,0 +1,1652 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 65716 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "I donât think. You have to keep text same size. If it means having Pennsylvania on same line",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1668084315965
+    },
+    {
+      "content": "Didnât realize there was sound.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1668084271916
+    },
+    {
+      "content": "Very",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1668084261710
+    },
+    {
+      "content": "I would put the article 1 stuff up from.   Bcs I donât know what the agruement is until bery end",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1668084259446
+    },
+    {
+      "content": "Um",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1668084031581
+    },
+    {
+      "content": "Text is too fast.    Need to make sure 2024 is on same line",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1668084027891
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668053401748,
+      "videos": [
+        {
+          "creation_timestamp": 1668053384,
+          "uri": "your_instagram_activity/messages/inbox/ejrags_576638930399586/videos/AQPPYyj3FdXtDty2sFW1wW46jv6Lv3WZVGBHRCd_5cDcYJazJlCbysAbdnNoZ8JhpI3X3gdxoWecd3_dYXZ7eTEJBUdYp_cmkWgBtEZDe2tuOE_847638299708968.mp4"
+        }
+      ]
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668053231583,
+      "videos": [
+        {
+          "creation_timestamp": 1668053218,
+          "uri": "your_instagram_activity/messages/inbox/ejrags_576638930399586/videos/AQNrwurR8qiZhN8VjE7JCfwwkPsB_PbLzoqSucT5wGHOeqBf1JnKUgNyqbz4coLgWzSJZpcbkwMVhjPBQlEXu80H_sB_Svdkal6KnCKbECHfJ5_1346515089487740.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Iâve been trying to make something that explains the Moore v Harper case and what might happen if the court rules in the way itâs expected. Im curious if you think this is even marginally digestible. Itâs obviously waaaaay too boring to be impactful in its current form but I just want a second opinion on the scripting",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668053201242
+    },
+    {
+      "content": "And for real the stroke thing is like an audio processing thing and (from what Iâm seeing and what the reporting and expert analysis indicate) itâs not effecting his comprehension. Just the ability to receive the input by ear",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668050344573
+    },
+    {
+      "content": "But one thing Iâm fucking sure ofâ¦the seating of John fetterman to the senate is going to be something that will be unambiguously good. I know heâs awful at public speaking but Iâve known about him for close to 13 years now and heâs someone who is going to be thoughtful and conscientious and I think he will be great",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668050232085
+    },
+    {
+      "content": "Annieâs dad was in nyc tonight and heâs a typical reflexive default Republican voter no matter what. He was talking about it to my amazement",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668049973198
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1668049914,
+          "uri": "your_instagram_activity/messages/inbox/ejrags_576638930399586/photos/315148019_1093516214600872_3970291533220039947_n_1093516204600873.jpg"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668049916656
+    },
+    {
+      "content": "To my surprise, election denialismâ¦not that popular with the broad gop base",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668049878433
+    },
+    {
+      "content": "I think i might have been wrong about something I said",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668049831728
+    },
+    {
+      "content": "And itâs not like their staffers arenât the ones reading and marking up bills anyways.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667970900433
+    },
+    {
+      "content": "And I am 1000% sure that even if he had 3 more strokes I have more confidence in his ability to be an engaged representative who is making decisions with his constituency in mind than literally any sitting Republican Senator",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667970844769
+    },
+    {
+      "content": "And I was worried about the debate before I knew the auditory processing issues were as bad as they were",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667970729503
+    },
+    {
+      "content": "Also fetterman has always been just a shit orator",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667970704155
+    },
+    {
+      "content": "But I promise having a leftist who isnât tagged with the âAOC DSA defund the policeâ shit is important",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667970661606
+    },
+    {
+      "content": "Not only was Oz so fucking bad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667970633719
+    },
+    {
+      "content": "From pa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1667970631164
+    },
+    {
+      "content": "Oz isnât from so",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1667970627735
+    },
+    {
+      "content": "Had a stroke not fit to serve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1667970623465
+    },
+    {
+      "content": "But I didnât want to",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1667970618377
+    },
+    {
+      "content": "And it didnâtâ¦and he had a fucking stroke",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667970608433
+    },
+    {
+      "content": "I did vote for feterman",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1667970608251
+    },
+    {
+      "content": "I was SO happy about fetterman and I just knew some Bernie 2016/2020 shit would happen",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667970590829
+    },
+    {
+      "content": "I seriously made myself not be emotionally invested in this outcome",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667970570719
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1667970553,
+          "uri": "your_instagram_activity/messages/inbox/ejrags_576638930399586/photos/312662317_651202309986315_3940403469783158572_n_651202303319649.jpg"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667970555431
+    },
+    {
+      "content": "Iâm paying more attention to NYT and decisiondesk site also just Twitter",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667970500334
+    },
+    {
+      "content": "DecisiondeskHQ has a live stream",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667970465312
+    },
+    {
+      "content": "But if you want like data driven stuff",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667970453575
+    },
+    {
+      "content": "https://m.twitch.tv/hasanabi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://m.twitch.tv/hasanabi",
+        "share_text": "https://m.twitch.tv/hasanabi"
+      },
+      "timestamp_ms": 1667970445435
+    },
+    {
+      "content": "Iâm trying to find a good live feed",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1667970414893
+    },
+    {
+      "content": "So I donât see that trend leaving the Republican mainstream zeitgeist",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667970402897
+    },
+    {
+      "content": "What channel are you watching",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1667970396807
+    },
+    {
+      "content": "Like the ability to just choose the best outcome has already been field-tested and honestly there were no consequences",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667970384957
+    },
+    {
+      "content": "You know the thing is that itâs too appealing for a party that has no ability to win a national popular vote",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667970343586
+    },
+    {
+      "content": "I liked the shit commercial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1667970324352
+    },
+    {
+      "content": "Idc. Just give me no electiondeniers and Iâm happy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1667970310326
+    },
+    {
+      "content": "The commercial is buried in that majority report clip if you need to make yourself throw up",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667970230653
+    },
+    {
+      "content": "Fuck thatâs the wrong commercial but itâs the same guy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667970209253
+    },
+    {
+      "content": "https://youtu.be/vJrOnBmFWpg",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://youtu.be/vJrOnBmFWpg",
+        "share_text": "https://youtu.be/vJrOnBmFWpg"
+      },
+      "timestamp_ms": 1667970202796
+    },
+    {
+      "content": "https://youtu.be/IfDr9nZAAMk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://youtu.be/IfDr9nZAAMk",
+        "share_text": "https://youtu.be/IfDr9nZAAMk"
+      },
+      "timestamp_ms": 1667970139701
+    },
+    {
+      "content": "Looks like a guy who plays in a cover band on weekends",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1667970098589
+    },
+    {
+      "content": "Or his position on guns",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1667970065601
+    },
+    {
+      "content": "I can find much on guy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1667970060698
+    },
+    {
+      "content": "I didnât get to check yet but during the primary there was just an awful and unbelievably annoying centrist dude running on the âBernie sanders is craaaaazy! We need to move right to winâ guys â¦I hope itâs not him",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667970022111
+    },
+    {
+      "content": "Iâm kinda unfamiliar with red Colorado. I still a little bit donât believe itâs even a purple state but my sister lives there and assures me thereâs a lot of rural nonsense and subsequent conservatism",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667969951049
+    },
+    {
+      "content": "I bet guy beating her is pro gun",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1667969903012
+    },
+    {
+      "content": "Ppl out there just care about there guns",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1667969895493
+    },
+    {
+      "content": "I meanâ¦neither do they, but they lie better",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667969884234
+    },
+    {
+      "content": "You know the real answer though right? Most people are far too invested in just keeping themselves fed with bullshit jobs to care enough to watch and analyze politics with any nuanceâ¦and these fake populist republicans have a real case when they say âdemocrats donât care about your economic needsâ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667969866964
+    },
+    {
+      "content": "And I asked him why boebart.   And he said ej.    Sheâs better than the guy that was here before her",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1667969759176
+    },
+    {
+      "content": "Elaborate",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667969757716
+    },
+    {
+      "content": "You still get your vote in the county you reside in and weâre giving you a bonus vote",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667969748419
+    },
+    {
+      "content": "lol.  So the best read perosn Iâve met in my entire life lives there",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1667969741682
+    },
+    {
+      "content": "I mean a second ballot",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667969720421
+    },
+    {
+      "content": "And to clarify",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667969716011
+    },
+    {
+      "content": "Honestly I think thatâs enough of a vested interest in the management of their local govt to allow you to vote there",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1667969712157
+    },
+    {
+      "content": "This is district I elk hunt in",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2967423164814162936"
+      },
+      "timestamp_ms": 1667969631046
+    },
+    {
+      "content": "https://en.wikipedia.org/wiki/The_Chapo_Guide_to_Revolution",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://en.wikipedia.org/wiki/The_Chapo_Guide_to_Revolution",
+        "share_text": "https://en.wikipedia.org/wiki/The_Chapo_Guide_to_Revolution"
+      },
+      "timestamp_ms": 1660975090950
+    },
+    {
+      "content": "^ one more you might be interested in. Itâs an audiobook",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660975016534
+    },
+    {
+      "content": "https://drive.google.com/file/d/1hpzcAsHKGzGHMBqvEQaLIqegROsBMQZB/view?usp=drivesdk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://drive.google.com/file/d/1hpzcAsHKGzGHMBqvEQaLIqegROsBMQZB/view?usp=drivesdk",
+        "share_text": "https://drive.google.com/file/d/1hpzcAsHKGzGHMBqvEQaLIqegROsBMQZB/view?usp=drivesdk"
+      },
+      "timestamp_ms": 1660975003097
+    },
+    {
+      "content": "Peace out",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660974935387
+    },
+    {
+      "content": "Right on",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660974928734
+    },
+    {
+      "content": "Talk soon dude",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660974926240
+    },
+    {
+      "content": "Alright dude Iâm going to shower in the fetal position after how depressing this conversation was lmao",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660974920029
+    },
+    {
+      "content": "Yuppppp they got the KKK permits to March in Manhattan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660974868118
+    },
+    {
+      "content": "Yeah man.  People lose sight of the whole first admendment.  Really all the admendments",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660974865111
+    },
+    {
+      "content": "And then immediately used it for weird trivial shit",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660974833906
+    },
+    {
+      "content": "They made a convincing case during COVID to suppress speech and it still did nothing but harm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660974819738
+    },
+    {
+      "content": "Bcs it was their first amendment right. Now they donât",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660974814171
+    },
+    {
+      "content": "March in parades",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660974794200
+    },
+    {
+      "content": "Wow",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660974789820
+    },
+    {
+      "content": "March in Oradea",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660974786524
+    },
+    {
+      "content": "The aclu used to defend nazis rights to March",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660974781208
+    },
+    {
+      "content": "Itâs their right",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660974747982
+    },
+    {
+      "content": "If someoneâs speech does not cause you direct harm forget about it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660974745018
+    },
+    {
+      "content": "And of all those we should be the shining light of the hill of it in my opinion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660974727905
+    },
+    {
+      "content": "I dont know how many nations have a true free speech in their construction but Iâd say itâs under 50",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660974693544
+    },
+    {
+      "content": "Antithetical",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660974665383
+    },
+    {
+      "content": "Fuck",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660974661381
+    },
+    {
+      "content": "And it really is just anathema to the values of the country",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660974646849
+    },
+    {
+      "content": "Slippery slope",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660974623211
+    },
+    {
+      "content": "Yep",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660974616089
+    },
+    {
+      "content": "Even if itâs all right wing rhetoric being killedâ¦they WILL use these tactics to suppress leftist movements too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660974589181
+    },
+    {
+      "content": "Im still up in the air on this. Thereâs a lot of super damaging misinformation which has exacerbated the divide but I feel really really weird about blackouts of information",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660974557147
+    },
+    {
+      "content": "I just mean thereâs a vested interest (for both parties) in preventing any real movement away from the current systems that benefit the legislators and their corporate benefactors so much",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660974476055
+    },
+    {
+      "content": "I thought thatâs what you were referring to when you said even had these discussions",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660974197375
+    },
+    {
+      "content": "Bcs itâs their platform and company",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660974166119
+    },
+    {
+      "content": "Which Iâm ok with",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660974154623
+    },
+    {
+      "content": "The majority of the censor ship now is coming from tech left leaning platforms",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660974139851
+    },
+    {
+      "content": "Iâm what way",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660974111679
+    },
+    {
+      "content": "The real crux of the issue right now is likeâ¦how far away we are from even having these discussions with any real substance.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660974045776
+    },
+    {
+      "content": "âOh nooooo we would love to include that $15 minimum wage but darnnnnnn the rules dude says itâs not advisable sorryâ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660973985619
+    },
+    {
+      "content": "They love the cover the parliamentarian gives them though",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660973940802
+    },
+    {
+      "content": "Which the current parliamentarian is by all side said to be good but thatâs not case in future",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973861608
+    },
+    {
+      "content": "Currently you have the parliamentarian who is an unelected offical ruling on what is and isnât good for reconciliation 50-50 vote",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973821692
+    },
+    {
+      "content": "Agreed 100%",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660973796746
+    },
+    {
+      "content": "You can filibuster but stand there and talk. Take all 50 members and give them their turn",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973775963
+    },
+    {
+      "content": "I mean I donât really think the talking filibuster and the current filibuster should even be called the same thing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660973765431
+    },
+    {
+      "content": "Of course",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660973737362
+    },
+    {
+      "content": "Thatâs the common ground",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973732073
+    },
+    {
+      "content": "I like the filibuster. But think they should have to stand and talk like they used too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973723087
+    },
+    {
+      "content": "Thatâs fair. Could work if you killed the filibuster",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660973700064
+    },
+    {
+      "content": "Itâs more sustainable that the current conditions but it doesnât give me much hope for any kind of improvement to material conditions or systemic reform",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660973667528
+    },
+    {
+      "content": "I feel like the Congress should move the country progressively and the Supreme Court and the president should keep them in check.  It also would be a 5-4 and not 6-3 court",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973667160
+    },
+    {
+      "content": "Iâm ok with that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973605815
+    },
+    {
+      "content": "Which is basically nothing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660973585643
+    },
+    {
+      "content": "Itâs just likeâ¦yes a third party could work but the concept is always rooted in centrism",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660973578948
+    },
+    {
+      "content": "Heâs unproven I guess. But he has outside the box ideas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973523612
+    },
+    {
+      "content": "I think he has interesting ideas but isnât a leader",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973506078
+    },
+    {
+      "content": "Iâm really a man with out a party",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973448924
+    },
+    {
+      "content": "I like a little of this a little of that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973440637
+    },
+    {
+      "content": "What do you think of the Yang party",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660973433501
+    },
+    {
+      "content": "I like living in a purple area",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973431825
+    },
+    {
+      "content": "I still hold out hope for a third party to make a splash",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973417149
+    },
+    {
+      "content": "Just glad I live in such a solidly blue area bless up",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660973407478
+    },
+    {
+      "content": "But thatâ¦is not something Iâm expecting anytime soon lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660973350672
+    },
+    {
+      "content": "I just donât think we get out of this kind of hyper charged partisanship until the GOP is dissolved and thereâs a collective shift in how people interact with politics",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660973338052
+    },
+    {
+      "content": "Lives",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973260659
+    },
+    {
+      "content": "It doesnât effect ppls loves",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973258509
+    },
+    {
+      "content": "Totally. Itâs just kinda crazy thatâs even in the top 100 issues we look at politically",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660973245359
+    },
+    {
+      "content": "But transgender rights most ppl donât understand",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973212476
+    },
+    {
+      "content": "I donât care what ppl do",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973192420
+    },
+    {
+      "content": "Like",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973187435
+    },
+    {
+      "content": "20 democrats and congress give transgender talking points that the right can use to paint all of the democrats that way",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973184546
+    },
+    {
+      "content": "Fayette county should be a leftist paradise. Historically the area WAS a haven for worker solidarity",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660973170114
+    },
+    {
+      "content": "Bcs of culture war",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973138941
+    },
+    {
+      "content": "The poorest ppl in country vote republican",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973132870
+    },
+    {
+      "content": "Culture war is all ppl care about",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973108716
+    },
+    {
+      "content": "Like youâd think EPA and minimum wage and labor protection would be common sense",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660973095617
+    },
+    {
+      "content": "What is common sense stuff now? They make everything into culture war and obfuscate on economic issues",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660973075636
+    },
+    {
+      "content": "Maybe Iâm wrong on that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973057875
+    },
+    {
+      "content": "Idk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973053357
+    },
+    {
+      "content": "But with extremes taking over then only extreme stuff will get through",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973050132
+    },
+    {
+      "content": "Bcs then only common sense stuff gets through",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973030235
+    },
+    {
+      "content": "That works when both parties arenât polarized",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973020348
+    },
+    {
+      "content": "I actually like the stalemate of it having all the partyâs control both houses and gov mansion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660973007482
+    },
+    {
+      "content": "Itâs big big yikes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660972993518
+    },
+    {
+      "content": "And a Republican who is so openly illiberal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660972978104
+    },
+    {
+      "content": "But moving to a Republican governor in the most important swing state",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660972966980
+    },
+    {
+      "content": "I know thatâs what I meanâ¦even if fetterman wins thereâs no change in partisan count",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660972953852
+    },
+    {
+      "content": "I mean mastriano is gov",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660972930204
+    },
+    {
+      "content": "Sharpiro is gov",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660972921294
+    },
+    {
+      "content": "Thatâs the real fear. That senate seat was already red but holy shit dude",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660972904390
+    },
+    {
+      "content": "He is crazy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660972896904
+    },
+    {
+      "content": "Yo if mastriano wins",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660972887925
+    },
+    {
+      "content": "And they all say heâs not even form this state",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660972875452
+    },
+    {
+      "content": "Like I talk to alot if I feel normal ppp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660972865100
+    },
+    {
+      "content": "They need to amend the pa constitution to prevent this happening in future",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660972851724
+    },
+    {
+      "content": "Lmao that IS a problem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660972846435
+    },
+    {
+      "content": "The biggest problem with dr oz is heâs not from pa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660972831105
+    },
+    {
+      "content": "Hes +12 on Oz right now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660972815697
+    },
+    {
+      "content": "Iâm going to be sad watching him cave on Israel but yes he is the model for fixing the broken big tent party lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660972804170
+    },
+    {
+      "content": "If he didnât have stroke",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660972706206
+    },
+    {
+      "content": "Fetterman could be president",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660972701875
+    },
+    {
+      "content": "Fetterman has a shot at that too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660972689135
+    },
+    {
+      "content": "And it would have moved the narrative away from leftist ideology being purple hair college wokescold stuff to more of a populist economic message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660972579861
+    },
+    {
+      "content": "Dude I still canât really cope with the Super Tuesday 2020 Stuff. \n\nI donât think Bernie would have been able to get a ton of policy through but it would have shifted the Overton window",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660972534790
+    },
+    {
+      "content": "But he got railroaded by dems",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660972491185
+    },
+    {
+      "content": "But then againâ¦if youâve always gotten away with EVERYTHINGâ¦I guess you would assume thereâs nothing too far",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660972488952
+    },
+    {
+      "content": "I donât know if he would have bear trump",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660972484841
+    },
+    {
+      "content": "Bernie got fucked over in 2020",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660972476210
+    },
+    {
+      "content": "I canât wrap my head around it honestly. It seems way too dumb even for him.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660972459077
+    },
+    {
+      "content": "My whole thing with fbi raid is that Donald trump needs to be held to the same standard of justice as any othe related offical.  However there should be a very high bar to raid his house. And I would like to think the court system wouldnât approve that with out a high threshold of evidence",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660972440701
+    },
+    {
+      "content": "But it wasnât until Bernie 2020 that I really figured out a cohesive political ideology that isnât just âtrump badâ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660972408349
+    },
+    {
+      "content": "But at least Iâm aware of my inescapable love for the spectacle of trump. Iâm not so unaware that I need to pretend itâs a principled endeavor.\n\nItâs entertainment for someone who thinks theyâre a little smarter than most of the pop",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660972366165
+    },
+    {
+      "content": "If thatâs true itâs terrible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660972357498
+    },
+    {
+      "content": "I just never get sick of it lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660972290465
+    },
+    {
+      "content": "And itâs just all sad stuff so whatâs the. Point",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660972270803
+    },
+    {
+      "content": "https://www.google.com/amp/s/www.newsweek.com/donald-trump-saudi-arabia-nuclear-mar-lago-raid-washington-post-1733182%3Famp%3D1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://www.google.com/amp/s/www.newsweek.com/donald-trump-saudi-arabia-nuclear-mar-lago-raid-washington-post-1733182%3Famp%3D1",
+        "share_text": "https://www.google.com/amp/s/www.newsweek.com/donald-trump-saudi-arabia-nuclear-mar-lago-raid-washington-post-1733182%3Famp%3D1"
+      },
+      "timestamp_ms": 1660972261254
+    },
+    {
+      "content": "I canât really do anything about it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660972261210
+    },
+    {
+      "content": "I honestly donât follow the news a ton",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660972254760
+    },
+    {
+      "content": "Iâve not seen any of that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660972236130
+    },
+    {
+      "content": "Like that is just the absolute most awful thing ever lmao. Every terrible thing they point to Iran about is 10x worse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660972234656
+    },
+    {
+      "content": "Dude the craziest shit is what weâre learning about the Saudiâs in 2019",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660972192338
+    },
+    {
+      "content": "I mean I KINDA agreeâ¦like I think there were tons of other impeachable events that also merited it but it was really fucking wild how they just told the state dept to fuck off and made our foreign policy just a backchannel and conditioned our whole policy platform on the dumbest conspiracy ever through Giuliani",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660972154731
+    },
+    {
+      "content": "Thereâs a lot of corporatist in Congress",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660971966397
+    },
+    {
+      "content": "I personally would have impeached him the first time but not the second.   The democrats blew the whole process the first time",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660971939736
+    },
+    {
+      "content": "Sheâs literally a CIA agent who ran for a house seat as a super moderate dem and has been approving every defense budget amendment and corporate tax loophole she can find ever since",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660971931918
+    },
+    {
+      "content": "I donât know who that lady is",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660971881913
+    },
+    {
+      "content": "That whole investigation and the circus surrounding it was really weirdly covered",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660971874994
+    },
+    {
+      "content": "You know I didnât expect to like it and thereâs a lot of praise for the most disgusting neoliberal hacks in congress like abagail spanberger but",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660971851750
+    },
+    {
+      "content": "Idk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660971797715
+    },
+    {
+      "content": "Just seems like a money grab to me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660971796181
+    },
+    {
+      "content": "What is the purpose of Adam schiff releasing a book  other than to make money",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660971786261
+    },
+    {
+      "content": "Also Adam Schiffâs âmidnight in Washingtonâ is phenomenal but just about the 2019 impeachment",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660971731120
+    },
+    {
+      "content": "I liked the Michael Wolff books too but theyâre just so fucking bourgeois journalism. âFire and furyâ came out before the Epstein case resurfaced and literally he talks about him and calls his first arrest âone count of soliciting prostitutionâ\n\nTechnically correct but missing one maaaaajor detail there lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660971700622
+    },
+    {
+      "content": "Jonathan Karlâs âfront row at the trump showâ and âbetrayalâ by far",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660971503314
+    },
+    {
+      "content": "What is best trump tell all book",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660967665357
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660960116107,
+      "videos": [
+        {
+          "creation_timestamp": 1660960110,
+          "uri": "your_instagram_activity/messages/inbox/ejrags_576638930399586/videos/AQNRXkXGeDOnbrJevBZX5liowqJVb3LO4o7PZkhttz7cQaC3mGXZ8IypjvvMAIHtHQO3g6kvQ8ZiZW9hShgBIEvRtmHG43C_Gm8AFfK1jQowdj_768605191049587.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Iâm a real fucking simp for all the trump tell-all books",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660960082904
+    },
+    {
+      "content": "It got kind of buried because they slow walked the DoD review process that all the books of govt employees have to go through to make sure thereâs nothing classified. It got delayed for over a year",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660960037351
+    },
+    {
+      "content": "Itâs hard to get that high up in government with our being owned by someone",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660877980212
+    },
+    {
+      "content": "I didnât read his book I didnât know he had one",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660877943135
+    },
+    {
+      "content": "People donât get that far up for no reason",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660877926164
+    },
+    {
+      "content": "(And still by far the best cabinet member lmao)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660877882796
+    },
+    {
+      "content": "Esperâs book was hilarious garbage. That dudes name should be legally changed to Raytheon Lockheed Halliburton III",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660877851727
+    },
+    {
+      "content": "Heâs probably the most famous perosn to come out of uniontown since George c Marshall now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660877615456
+    },
+    {
+      "content": ". I was at bar when he got nominated and someone told me they went to school with him",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660877601147
+    },
+    {
+      "content": "Trumps sec def",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660877566812
+    },
+    {
+      "content": "Did you know mark esper was a Laurel highlands grad?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660877559768
+    },
+    {
+      "content": "Itâs just exciting that of the absolute cesspool of horrific politics that consume that areaâ¦there are like 2 who are trying to make up for it lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660877533546
+    },
+    {
+      "content": "Iâll put it on the list man. Thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660877471651
+    },
+    {
+      "content": "And all of his work is very Pittsburgh-centric",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660877460285
+    },
+    {
+      "content": "But yeah the novel I linked you first takes place in uniontown",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660877443603
+    },
+    {
+      "content": "https://youtu.be/70EHzbCg54g",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://youtu.be/70EHzbCg54g",
+        "share_text": "https://youtu.be/70EHzbCg54g"
+      },
+      "timestamp_ms": 1660877428069
+    },
+    {
+      "content": "Older brother",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660877399968
+    },
+    {
+      "content": "Heâs on chapo trap house a bunch and writes op Ed for literally New York Times and a bunch of smaller outlets like new republic",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660877397540
+    },
+    {
+      "content": "Older or younger brother",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660877388092
+    },
+    {
+      "content": "Did not know that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660877381899
+    },
+    {
+      "content": "Oh no shit",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660877378694
+    },
+    {
+      "content": "And his brother is a novelist and leftist essayist",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660877363852
+    },
+    {
+      "content": "I know Nate",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1660877361427
+    },
+    {
+      "content": "Painley**",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660877349484
+    },
+    {
+      "content": "Nate Bacharach graduated a few years ahead of you. I think the same class as Matt Paci let",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660877345844
+    },
+    {
+      "content": "So",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660877325968
+    },
+    {
+      "content": "I donât know if youâre familiar at all with this but I feel like you would absolutely love this shit",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660877325482
+    },
+    {
+      "content": "https://www.goodreads.com/en/book/show/30231804",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://www.goodreads.com/en/book/show/30231804",
+        "share_text": "https://www.goodreads.com/en/book/show/30231804"
+      },
+      "timestamp_ms": 1660877307549
+    },
+    {
+      "content": "Donât not do it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ej Rags",
+      "timestamp_ms": 1596342738940
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "original_content_owner": "notsick3"
+      },
+      "timestamp_ms": 1596312391197
+    }
+  ],
+  "participants": [
+    {
+      "name": "Ej Rags"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:36:32.151-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:36:32.151Z"
+  },
+  "thread_path": "inbox/ejrags_576638930399586",
+  "title": "Ej Rags"
+}

@@ -1,0 +1,40 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1149 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "ig_recently_deleted_media": [
+    {
+      "media": [
+        {
+          "creation_timestamp": 1754545214,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "source_type": "library"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1754545214,
+                "uri": "media/recently_deleted/202508/528749136_1904264863742903_4060484882893074931_n_18379062391193259.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "The only thing Fran loved more than golf was performing with her OG boom-bap west coast hip hop group.",
+          "uri": "media/recently_deleted/202508/AQPm57mgOZNSRHNYY456myE75Z1Ncipxv6cWlaKb_qXGbSmH6ea0GYOzGw9dIUlwX7z8EgnEVKtH3PluvA8aA5IAJvyAiauKwQ_17844503871544815.mp4"
+        }
+      ]
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:24:29.471-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:24:29.471Z"
+  }
+}

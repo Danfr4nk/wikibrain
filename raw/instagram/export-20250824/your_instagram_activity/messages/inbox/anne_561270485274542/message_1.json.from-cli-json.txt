@@ -1,0 +1,314 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 9995 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://www.instagram.com/reel/C_b_k6Xu_a3/?id=3448629553188828855_11064593",
+        "original_content_owner": "ihatedanfrank",
+        "share_text": "Got lost looking for the US Open, but we ended up at this weird tennis match a few blocks away."
+      },
+      "timestamp_ms": 1725328754883
+    },
+    {
+      "content": "https://www.capcut.com/t/ZmFbMx7DA/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://www.capcut.com/t/ZmFbMx7DA/",
+        "share_text": "https://www.capcut.com/t/ZmFbMx7DA/"
+      },
+      "timestamp_ms": 1722050590270
+    },
+    {
+      "content": "You and milo need this chair",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Anne",
+      "timestamp_ms": 1701796229194
+    },
+    {
+      "content": "Anne sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Anne",
+      "share": {
+        "link": "https://www.instagram.com/reel/Cx_HfLRRrgj/?id=3206314388441446435_58406121554",
+        "original_content_owner": "seatmatechairs",
+        "share_text": "Willie get on weâre running duos\n\n#gamingsetup #gamingchair #petstagram #invention"
+      },
+      "timestamp_ms": 1701796228962
+    },
+    {
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1688342282448
+    },
+    {
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/3082642646062319039"
+      },
+      "timestamp_ms": 1681699722253
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://www.instagram.com/p/Chol3myObBM/",
+        "original_content_owner": "ihatedanfrank",
+        "share_text": "Probably wishing for my demise."
+      },
+      "timestamp_ms": 1661326923600
+    },
+    {
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2908657908504050043"
+      },
+      "timestamp_ms": 1660959086993
+    },
+    {
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2905719888763078919"
+      },
+      "timestamp_ms": 1660608846583
+    },
+    {
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2903630215165067775"
+      },
+      "timestamp_ms": 1660359734374
+    },
+    {
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2900633516247238161"
+      },
+      "timestamp_ms": 1660002497608
+    },
+    {
+      "content": "m  ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1596312391190
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "original_content_owner": "notsick3"
+      },
+      "timestamp_ms": 1596312390832
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2150538121477257158"
+      },
+      "timestamp_ms": 1570584151240
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2085299694217872252"
+      },
+      "timestamp_ms": 1562807126729
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/1977270245459905141"
+      },
+      "timestamp_ms": 1549929017912
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/1974048804315558220"
+      },
+      "timestamp_ms": 1549544985686
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1546471041269
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/1907801418028808184"
+      },
+      "timestamp_ms": 1541647674725
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/1723657918409991066"
+      },
+      "timestamp_ms": 1519696067725
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1518938550352
+    },
+    {
+      "content": "oops didnt mean to send the second one. hey hmu after ur boyfriend falls asleep so u can come over and suck on my big dick aight smh smh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1518671197323
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Dan Frank",
+          "reaction": "â¤ï¸"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1518671150872,
+      "videos": [
+        {
+          "creation_timestamp": 1603180228,
+          "uri": "your_instagram_activity/messages/inbox/anne_561270485274542/videos/27820905_1997877763797629_5382238971079530512_n_699888897578071.mp4"
+        }
+      ]
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "original_content_owner": "danfr4nk"
+      },
+      "timestamp_ms": 1518671125116
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "original_content_owner": "danfr4nk"
+      },
+      "timestamp_ms": 1518581145432
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1518581113435
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/1709123967905511186"
+      },
+      "timestamp_ms": 1517963477324
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/1707121507426979711"
+      },
+      "timestamp_ms": 1517724765642
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1517272593236
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/1699860919025965924"
+      },
+      "timestamp_ms": 1516859239093
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://www.instagram.com/p/BFbpIUrp1J9_pUGAqOQnH74U3GFEgKn3TAKBjY0/",
+        "original_content_owner": "gracelaurel",
+        "share_text": "Last night was so much fun! Thanks again to the Falls City Pub for having us for their Summer Kickoff! #FCC"
+      },
+      "timestamp_ms": 1464623868224
+    },
+    {
+      "content": "I want to kill myself",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1464623868224
+    }
+  ],
+  "participants": [
+    {
+      "name": "Anne"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:36:19.103-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:36:19.103Z"
+  },
+  "thread_path": "inbox/anne_561270485274542",
+  "title": "Anne"
+}

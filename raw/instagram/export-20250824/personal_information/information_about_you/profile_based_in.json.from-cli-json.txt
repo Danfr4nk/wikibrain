@@ -1,0 +1,21 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 279 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "inferred_data_primary_location": [
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "City Name": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Hopwood, Pennsylvania"
+        }
+      },
+      "title": ""
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:23:17.151-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:23:17.151Z"
+  }
+}

@@ -1,0 +1,26 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 411 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:22:03.255-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:22:03.255Z"
+  },
+  "settings_upgraded_to_cross_app_messaging": [
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Time Upgraded": {
+          "href": "",
+          "timestamp": 1610620757,
+          "value": ""
+        },
+        "Upgraded To Cross-App Messaging": {
+          "href": "",
+          "timestamp": 0,
+          "value": "True"
+        }
+      },
+      "title": ""
+    }
+  ]
+}

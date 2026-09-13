@@ -1,0 +1,114 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 3400 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Trevor",
+      "share": {
+        "original_content_owner": "josh_potter"
+      },
+      "timestamp_ms": 1730810266709
+    },
+    {
+      "content": "ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Trevor",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/3226150215370776830"
+      },
+      "timestamp_ms": 1698849175391
+    },
+    {
+      "content": "You want me to come serve food in NYC? Bro Iâm the ugliest server of all time lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Trevor",
+      "timestamp_ms": 1656177065657
+    },
+    {
+      "content": "The money is so good",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656092045899
+    },
+    {
+      "content": "I want to try to sell you on the similarity between looping and serving nyc upscale dining",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656091915352
+    },
+    {
+      "content": "Good man! Just grinding bro. Never ends",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Trevor",
+      "timestamp_ms": 1655921571990
+    },
+    {
+      "content": "How are you duder?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1655885842818
+    },
+    {
+      "content": "Right on brotha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Trevor",
+      "timestamp_ms": 1655869638127
+    },
+    {
+      "content": "Never gets old to me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1655769569264
+    },
+    {
+      "content": "Itâs the fucking best dude",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1655769554960
+    },
+    {
+      "content": "I still canât leave the apartment without getting overwhelmed how much I love nyc lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1655769538189
+    },
+    {
+      "content": "Still liking it?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Trevor",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2864453778525113091"
+      },
+      "timestamp_ms": 1655754702937
+    }
+  ],
+  "participants": [
+    {
+      "name": "Trevor"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:29:01.003-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:29:01.003Z"
+  },
+  "thread_path": "inbox/trevor_928919648504844",
+  "title": "Trevor"
+}

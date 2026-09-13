@@ -1,0 +1,164 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 3714 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "relationships_follow_requests_sent": [
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/meerahmad_",
+          "timestamp": 1690261161,
+          "value": "meerahmad_"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_ameeraha",
+          "timestamp": 1690261052,
+          "value": "_ameeraha"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/camilo.triana65",
+          "timestamp": 1688351925,
+          "value": "camilo.triana65"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/franz.contreras",
+          "timestamp": 1672797997,
+          "value": "franz.contreras"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/nated672",
+          "timestamp": 1666673052,
+          "value": "nated672"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/miriamabugaber",
+          "timestamp": 1664342211,
+          "value": "miriamabugaber"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/richardcadrouce",
+          "timestamp": 1659977223,
+          "value": "richardcadrouce"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/sofia.martinezsn",
+          "timestamp": 1656218161,
+          "value": "sofia.martinezsn"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/sofia.raam",
+          "timestamp": 1655954141,
+          "value": "sofia.raam"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/sofiaa_padillaa",
+          "timestamp": 1655605114,
+          "value": "sofiaa_padillaa"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/vale_bachrich",
+          "timestamp": 1653540352,
+          "value": "vale_bachrich"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/mat4074",
+          "timestamp": 1518948801,
+          "value": "mat4074"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/claire_oneal_",
+          "timestamp": 1491470949,
+          "value": "claire_oneal_"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/dgarb11",
+          "timestamp": 1443911896,
+          "value": "dgarb11"
+        }
+      ],
+      "title": ""
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:22:33.869-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:22:33.869Z"
+  }
+}

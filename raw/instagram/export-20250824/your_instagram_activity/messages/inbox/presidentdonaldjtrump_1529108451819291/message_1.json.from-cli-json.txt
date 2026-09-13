@@ -1,0 +1,38 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 895 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "This account can't receive your message because they don't allow new message requests from everyone.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1724287655718
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/3439896351380963269"
+      },
+      "timestamp_ms": 1724287653191
+    }
+  ],
+  "participants": [
+    {
+      "name": "President Donald J. Trump"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:30:15.473-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:30:15.473Z"
+  },
+  "thread_path": "inbox/presidentdonaldjtrump_1529108451819291",
+  "title": "President Donald J. Trump"
+}

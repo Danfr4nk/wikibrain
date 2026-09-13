@@ -1,0 +1,30 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1518 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "ð£ https://www.instagram.com/blacklabelrecord/\n\nÐrÐµ ÑÐ¾u interestÐµd tÐ¾ grÐ¾wing ÑÐ¾ur InstÐ°grÐ°m Ð°ÑcÐ¾unts\n100% guarÐ°ntÐµed\n\n1k fÐ¾llÐ¾wÐµrs $10ð\n2k fÐ¾llowÐµrs $20ð\n3k follÐ¾wers $30ð\n5k follÐ¾wÐµrs $45ð\n10k follÐ¾wers $80ð¤ª\n20k follÐ¾wÐµrs $150ð\n\n_____\n*Pack views 10k views for 50$\n*Pack Likes 1k likes for 10$\n\nÐ¢eÑt me in mÑ offiÑiÐ°l accÐ¾unt \nð@blacklabelrecord itâs neÑessÐ°rÑ to answÐµr quickly",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1658661597035
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:27:37.054-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:27:37.054Z"
+  },
+  "thread_path": "message_requests/instagramuser_955902495806559",
+  "title": "Instagram User"
+}

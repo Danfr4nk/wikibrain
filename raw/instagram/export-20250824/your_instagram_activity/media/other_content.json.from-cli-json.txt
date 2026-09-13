@@ -1,0 +1,164 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 4122 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "ig_other_media": [
+    {
+      "media": [
+        {
+          "creation_timestamp": 1725328617,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "device_id": "922A1C84-C3D6-4493-A79E-8586EA467324"
+                }
+              ]
+            }
+          },
+          "title": "",
+          "uri": "media/other/202409/458289230_860739939353178_8891823519119710320_n_18324891496146278.png"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1725328538,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "device_id": "922A1C84-C3D6-4493-A79E-8586EA467324"
+                }
+              ]
+            }
+          },
+          "title": "",
+          "uri": "media/other/202409/458076855_397179306759962_4473479251989404073_n_17999036507502487.png"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1721219591,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "device_id": "922A1C84-C3D6-4493-A79E-8586EA467324"
+                }
+              ]
+            }
+          },
+          "title": "",
+          "uri": "media/other/202407/451406259_855084959862027_3796676137121783559_n_17952089099807380.png"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1721219503,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "device_id": "922A1C84-C3D6-4493-A79E-8586EA467324"
+                }
+              ]
+            }
+          },
+          "title": "",
+          "uri": "media/other/202407/451624381_26245216385092267_6771554023803130796_n_18018960515520870.png"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1721219475,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "device_id": "922A1C84-C3D6-4493-A79E-8586EA467324"
+                }
+              ]
+            }
+          },
+          "title": "",
+          "uri": "media/other/202407/451411186_1544035116548602_8754619273701951352_n_18035817368308592.png"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1547175868,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "title": "",
+          "uri": "media/other/201901/47690976_2100229753356436_5513730541359887464_n_17977845523199983.jpg"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "creation_timestamp": 1536607442,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "title": "",
+          "uri": "media/other/201809/40022158_1001045073400370_5646667063475234752_n_17946201931163717.jpg"
+        }
+      ]
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:24:30.439-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:24:30.439Z"
+  }
+}
