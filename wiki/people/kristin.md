@@ -488,9 +488,7 @@ On 2026-08-26 Kristin tried to reach Dan on Messenger — five messages and a
 missed call into his message requests, where they sat unopened (dat:1452).
 On 2026-09-12, seventeen days later, the assistant's Messenger pull surfaced
 the thread in conversation; within the hour Dan had texted her on iMessage
-himself (dat:1453):
-
-![Dan's 2026-09-12 outbound iMessages to Kristin: four texts and a dispensary photo, all delivered](../media/upload-027.jpg)
+himself (dat:1453; screenshot thumbnailed in Sources, below):
 
 Four texts, a dispensary photo, all marked Delivered, no reply in frame. The
 screenshot is Dan's own — "Look wgat you did", sent to the assistant at
@@ -521,3 +519,9 @@ stores some text in **mathematical-monospace Unicode**, so a plain grep for
 curly-apostrophe trap in `EXTRACTION_SPEC.md` and belongs beside it.
 
 
+
+## Sources
+
+<a href="../media/upload-027.jpg"><img src="../media/upload-027.jpg" width="240" alt="Dan's 2026-09-12 outbound iMessages to Kristin: four texts and a dispensary photo, all delivered"></a>
+
+*Dan's 2026-09-12 outbound iMessages to Kristin: four texts and a dispensary photo, all delivered. Evidence for the September 2026 block-break (dat:1453).*

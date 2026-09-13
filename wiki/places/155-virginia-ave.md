@@ -128,9 +128,7 @@ Dian V. Moore, demanding the keys.
 > 2015-11-29 through 2015-12-02, the exact fortnight of the handoff. The
 > irony is load-bearing, not decorative: the container that held constant
 > across the attachment transfer was, in the months before the transfer,
-> literally cultivating.
->
-> ![Dream Queen grow, 155 Virginia Ave, 2015-10-04](../../media/upload-038.jpg)
+> literally cultivating. (Representative frame thumbnailed in Sources, below.)
 
 > **GAP CLOSED [2026-08-22]:** This page read, until now, *"the residence*
 > *timeline has him staying until February 2019, so the notice's outcome is*
@@ -208,3 +206,9 @@ different resolutions or two separate episodes is now the page's most
 consequential open question.
 
 
+
+## Sources
+
+<a href="../../media/upload-038.jpg"><img src="../../media/upload-038.jpg" width="240" alt="Dream Queen grow, 155 Virginia Ave, 2015-10-04"></a>
+
+*Dream Queen grow, 155 Virginia Ave, 2015-10-04 — representative frame from the fifteen-photo seedling-to-flower series (`dat:virginia-ave-grow-timeline-2015`).*

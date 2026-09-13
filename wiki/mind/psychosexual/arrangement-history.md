@@ -392,8 +392,7 @@ represents a genuine shift in preference, a reaction to the [[wiki/people/eli|El
 betrayal's timing, or simply what that particular partner required is not
 established anywhere in the corpus.
 
-## Media
-
-![Security-camera still, 2019-10-21 night footage](../../media/upload-014.jpg)
+## Sources
+<a href="../../media/upload-014.jpg"><img src="../../media/upload-014.jpg" width="240" alt="Security-camera still, 2019-10-21 night footage"></a>
 
 *on-screen camera timestamps 2019-10-21 00:45:25 to 02:02:10 (Monday); container creation 2019-10-28T15:46:15Z — Poster frame from video. 87.17s, 1920x1080, H.264/AAC, 6,646,564 bytes; filename equals SHA-256. Screen recording of a security-camera phone app (playback UI: pause/volume/download buttons, timeline scrubber visible throughout). Night-vision footage of three people on a bed: a woman with long hair and two men; one man (glasses) largely reclines/observes while the woman is intimate with the other man (tattooed arm); configurations shift across ~77 minutes of camera time. Edited selects jumping between timestamps (00:45, 00:57, 01:10, 01:23, 01:37, 01:49, 01:50, 01:58, 02:01, 02:02), not continuous footage. Identities not independently established from night-vision faces; 'who' comes from Dan's framing ('the 2019 experiment'), not from identification. Corroborates the dossier's structural claim (partner with others while Dan present/observing) and the orchestrated-witnessing/camera architecture; does not by itself establish repetition across years. Consent dynamics not determinable from footage.*
