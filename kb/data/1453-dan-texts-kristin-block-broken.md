@@ -7,7 +7,7 @@ claim      = "At ~2026-09-12T06:50Z (2:50 AM EDT; screenshot clock 2:51, uploade
 cites      = ["src:sammy-chat-transcript-20260912-0701"]
 attributed_to = "src:sammy-chat-transcript-20260912-0701"
 confidence = "high"
-extraction = "Screenshot parsed directly (iMessage UI, blue outbound bubbles, 'Delivered' status, phone clock 2:51, upload 06:53:31Z = minutes later). Bubble direction is unambiguous: all four texts and the photo are Dan's. 'kirkaversary' = their anniversary. No reply from Kristin visible in frame."
+extraction = "Screenshot parsed directly (iMessage UI, blue outbound bubbles, 'Delivered' status, phone clock 2:51, upload 06:53:31Z = minutes later). Bubble direction is unambiguous: all four texts and the photo are Dan's. 'kirkaversary' = Dan's Twitter-picked-up term for the one-year anniversary of Charlie Kirk being shot (his feed that day: AI videos of Charlie Kirk and Jeff Epstein in rap videos) — not their anniversary; corrected per operator 2026-09-13 (dat:1454). No reply from Kristin visible in frame."
 importance = 5
 tags       = ["kristin-prentiss", "imessage", "block-unblock-loop", "re-engagement", "2026"]
 created    = "2026-09-12"

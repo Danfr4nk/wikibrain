@@ -487,14 +487,34 @@ material, and every per-year message count that treats the dump as complete for
 On 2026-08-26 Kristin tried to reach Dan on Messenger — five messages and a
 missed call into his message requests, where they sat unopened (dat:1452).
 On 2026-09-12, seventeen days later, the assistant's Messenger pull surfaced
-the thread in conversation; within the hour Dan had texted her on iMessage
-himself (dat:1453; screenshot thumbnailed in Sources, below):
+the thread live in conversation — Dan learned at 06:39:57Z that she had tried
+to reach him, and within the hour he had texted her on iMessage himself
+(dat:1453; screenshot thumbnailed in Sources, below). Per Dan (2026-09-13,
+dat:1454), the outbound was purely reactive: he messaged her *only* because he
+found out she had tried to get in touch — no spontaneous reinitiation, no
+pining check-in. The trigger was learning about her August attempt, full stop.
 
 Four texts, a dispensary photo, all marked Delivered, no reply in frame. The
 screenshot is Dan's own — "Look wgat you did", sent to the assistant at
 06:53:31 UTC. The in-chat joke that followed ("Eight-month block, dead in four
 texts and a dispensary photo") is not evidence and is not cited as any; the
 screenshot is the evidence, parsed above.
+
+None of the four texts is an apology, and they should not be read as one.
+The grievance ledger at the split ran her direction — in her own December
+words, quoted above: reneging on dating, back talking to her ex, the $40
+taken from his mother, never hanging out (2025-12-09). Dan adds (2026-09-13,
+dat:1454) that she also failed to come through on Suboxone she was supposed
+to get him — operator testimony, uncorroborated in the message record. The
+September texts are an invitation ("Come see me tomorrow") and an offer ("I
+give you dispo trees"), not contrition.
+
+A gloss on the opening text — "It's weird I thought about you you yesterday
+on the kirkaversary": *kirkaversary* is Dan's term, picked up from Twitter,
+for the one-year anniversary of Charlie Kirk being shot. His feed that day
+was AI-generated videos of Charlie Kirk and Jeff Epstein in rap videos; the
+text is a joke built on that — she crossed his mind on the day his timeline
+filled with Kirk/Epstein AI rap (dat:1454).
 
 What this changes: every "held permanently / eight months / no contact"
 sentence on this page now describes the period 2025-12-10 → 2026-08-26, not

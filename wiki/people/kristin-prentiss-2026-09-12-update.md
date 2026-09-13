@@ -35,7 +35,12 @@ silence, corroborated off-corpus — the
 case for a channel that closes because one side simply stops needing it.
 
 On Sep 12, 2026 Dan ended it unilaterally, by iMessage, with three
-messages and no preamble:
+messages and no preamble. The trigger was not spontaneous: minutes earlier,
+the assistant's Messenger pull had surfaced Kristin's five unseen 2026-08-26
+messages sitting in his message requests (dat:1452) — Dan learned, live in
+chat, that she had tried to reach him seventeen days prior. Per Dan
+(2026-09-13, dat:1454), he messaged her *only* because of that discovery; no
+pining check-in, no unprompted reinitiation:
 
 - "It's weird I thought about you you yesterday on the kirkaversary"
   (edited)
@@ -45,8 +50,12 @@ messages and no preamble:
 No apology, no accounting for the eight months. A joke with a typo, an
 invitation, and weed. She replied.
 
-The word "kirkaversary" appears once, unexplained, and neither of them
-ever returns to it. It hangs over the opening like a door left ajar.
+The word "kirkaversary" appears once, unexplained in-thread, and neither of them
+ever returns to it — but Dan glossed it the next day (dat:1454): his
+Twitter-picked-up term for the one-year anniversary of Charlie Kirk being
+shot, when his feed was AI-generated videos of Charlie Kirk and Jeff Epstein
+in rap videos. The opening text is a joke about his timeline, not a pet name
+for a date. It hangs over the opening like a door left ajar.
 
 What follows is documented in two sources: Dan's own decorated
 transcription (alchemical Unicode dividers, his reconstruction) and a
@@ -420,8 +429,10 @@ how Dan renders his own conversations.
   priced by neither. The thread's entire second day depends on it.
 - Were the thirteen voice memos ingested despite her refusal? Her "no" is
   on the record; compliance is not evidenced.
-- What is the "kirkaversary"? The opening message's one unexplained
-  reference, never returned to.
+- What is the "kirkaversary"? Answered 2026-09-13 (dat:1454): Dan's
+  Twitter-picked-up term for the one-year anniversary of Charlie Kirk being
+  shot — his feed that day was AI videos of Charlie Kirk and Jeff Epstein in
+  rap videos. No longer open.
 - What is the 1300s revolt trailer? Unidentified by title in the visible
   thread; a compliance test whose object is unknown.
 - Who sent the Tom phishing email? `phloexanhomim@gmail.com` is not
