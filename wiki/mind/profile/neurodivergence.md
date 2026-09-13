@@ -37,6 +37,9 @@ connections:
   - page: wiki/mind/concepts/exocortex
     type: instance-of
     claim: "The autism claim itself was produced inside the same AI-collaborative sessions the exocortex page documents as Dan's primary self-knowledge mechanism — a label arrived at through, and repeated across, bootloader-style documents rather than through any process outside them."
+  - page: wiki/mind/concepts/autism
+    type: instantiates
+    claim: "[2026-09-13] Verifies the dated direct self-identification (2025-09-15 21:49:05 UTC, 'SHUT UP I'M AUTISTIC', dat:0939) and runs the manuals' explicit-override proposal as the label's one falsifiable behavioral claim — August 2026 supplies a negative observation."
 ---
 
 # Neurodivergence — Autism as Self-Identification
@@ -82,8 +85,14 @@ what Dan himself said inside the session.
 
 ## In his own words
 
-The clearest primary-source statement in the corpus is not a description but
-a question. In an undated Claude conversation transcript (`raw/self/dox-md/Breaking
+The dated direct self-identification is verified (2025-09-15 21:49:05 UTC,
+primary-verified, dat:0939):
+
+> "SHUT UP I'M AUTISTIC"
+
+The clearest primary-source *statement about what the label means* in the
+corpus is not a description but a question. In an undated Claude
+conversation transcript (`raw/self/dox-md/Breaking
 the anxiety avoidance cycle.md`), Dan asks directly whether the label is
 doing real work or excusing him from ordinary standards:
 
@@ -155,8 +164,24 @@ capable of distinguishing between those two possibilities.
 ## Gaps
 
 - **No clinical or diagnostic record exists anywhere in `raw/`.** There is no
-  date of self-identification, no account of what prompted it, and no
-  mention of a formal evaluation ever being sought. This is answerable by
+  account of what prompted it, and no
+  mention of a formal evaluation ever being sought. ~~No date of self-identification~~
+  [CORRECTED 2026-09-13: a date is now verified — 2025-09-15 21:49:05 UTC,
+  *"SHUT UP I'M AUTISTIC"*, primary-verified in the held message corpus
+  (dat:0939) — the sole all-caps standalone self-identification across
+  eleven years of messages; the other 26 held "autistic" rows are slang or
+  banter. It precedes the AI operating-manual documents that repeat the
+  label as settled fact, which means the manuals are extended self-report,
+  not independent corroboration.]
+- **NEW — the label's one falsifiable behavioral claim has a negative observation [2026-09-13].**
+  The AI manuals propose an explicit override: written behavioral evidence
+  ("your messages do not match your beliefs") would force closure of a
+  belief held open by emotional/identity architecture. No override
+  installation is documented, and August 2026 supplies a negative
+  observation — overwhelming behavioral evidence still did not produce
+  closure. Two readings: the label is interpretive overhead that did no
+  decisional work, or the architecture resists even explicit self-patching.
+  (dat:0940; see [[wiki/mind/concepts/autism]].) This is answerable by
   Dan directly in one paragraph — when the self-identification happened and
   what specifically prompted it — and would let this page distinguish a
   long-held self-understanding from something adopted more recently, inside

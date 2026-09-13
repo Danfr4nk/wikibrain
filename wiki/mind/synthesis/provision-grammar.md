@@ -59,6 +59,9 @@ connections:
   - page: wiki/mind/synthesis/august-26-block-retraction
     type: contextualizes
     claim: "The retraction voids the severance-horizon test the high-provision page named; it does not touch the provision grammar, which was measured over a decade, not tested against a horizon."
+  - page: wiki/mind/concepts/conflict-architecture
+    type: contrasts
+    claim: "The conflict engine is verbal-cognitive only and never touches the provision channel: no declaration in the corpus is accompanied by a provision halt. The fight register and the care register are decoupled — two machines, one person — which bounds the engine's jurisdiction to the verbal channel."
 ---
 
 # Provision Grammar

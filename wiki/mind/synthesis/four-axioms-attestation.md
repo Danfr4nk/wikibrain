@@ -58,6 +58,9 @@ connections:
   - page: wiki/mind/synthesis/high-provision-low-condolence
     type: parallels
     claim: "Already demoted axiom 3 to frame on behavioral grounds. This entry adds the provenance complement: axiom 3 is also the axiom with the thinnest dated trail — absent from the May 2026 two-axiom stage, first dated in-wiki 2026-06-22, with no earlier attestation located."
+  - page: wiki/mind/politics/axioms
+    type: restated-by
+    claim: "The 2026-09-13 axioms rebuild restates this entry's findings as the formulation's provenance and adds the inversion thesis: the power axiom (four convergent legs) is better evidenced than the four axioms (one dossier-mediated formulation, failed corpus audit). This entry is the attestation; that page is the argument built on it."
   - page: wiki/timeline/master-timeline
     type: supplies
     claim: "The timeline's ★ 2026-06-01 context-core entry (the LLM Quick Brief line carrying all four axioms) is an index re-derivation date, not a formulation date. This entry marks that distinction so the timeline's dating is not misread as provenance."

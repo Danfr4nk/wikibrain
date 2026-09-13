@@ -54,7 +54,7 @@ connections:
     claim: "A concentration architecture is maximally fragile, which is the opposite of what someone who prizes entropy should build — unless the appetite for disorder was always strictly outward-facing, which is exactly what that page concludes."
   - page: wiki/mind/synthesis/closing-the-set
     type: contradicts
-    claim: "The evaluative leg, which this page scores as its weakest and 'a reading rather than a measurement,' is now measured and runs the other way: the curated taste record's creator-level Gini is 0.188 against the contact graph's 0.9601, so the concentration architecture is relational and does not generalise to culture."
+    claim: "The evaluative leg, which this page scores as its weakest and 'a reading rather than a measurement,' is now measured and runs the other way: the curated taste record's creator-level Gini is 0.188 against the contact graph's 0.9556 (held replication 2026-09-09; the page's 0.9601 came from an unheld export), so the concentration architecture is relational and does not generalise to culture."
   - page: wiki/people/ally-lubin
     type: evidenced-by
     claim: "Ally is the one relational object in the corpus who has named this page's defining trait — sustained undisguised intensity — as her stated entry condition rather than her objection, which sharpens this page's live substitution test with a named candidate."
@@ -185,11 +185,23 @@ single-channel architecture has no failover.**
 > 5,838 messages to **ten** handles while receiving 4,046 from **eighteen**. He
 > does not merely receive from a small set; he writes to a smaller one.
 
+> **CORRECTED [2026-09-13] — the two-sided portion of the 2026-08-01 second**
+> **pass is unverifiable and is withdrawn as a finding.** All 99,360 outbound
+> rows in the held corpus carry no contact handle, and the MASTER_DUMP export
+> the recipient-recovery imputation was re-derived from is not held
+> ([dat:0531](../../kb/data/0531-contact-gini-two-sided-unverifiable.md)). What
+> survives independent replication is strictly **inbound** concentration:
+> **0.9556 over 498 handles** on the held corpus (192,140 rows), per-year
+> tables replicating row-for-row ([dat:0528](../../kb/data/0528-contact-gini-inbound-replication-2026-09-09.md)).
+> The "narrower going out" claim and the 2026 ten-vs-eighteen figure rest on
+> the unheld export and are retained only as unreplicated. Full accounting at
+> [[wiki/mind/concepts/contact-gini]].
+
 ## The four instances
 
 | Domain | Distributed alternative | What is actually there |
 | :--- | :--- | :--- |
-| **Relational** | several close ties | one bond, occupied ~17 years, two-sided Gini **0.96** |
+| **Relational** | several close ties | one bond, occupied ~17 years, inbound Gini **0.9556** (held replication 2026-09-09; two-sided unrated) |
 | **Creative** | concurrent projects | four aliases in 13 years, strictly sequential |
 | **Cognitive** | many tools, many advisors | one LLM as *"externalized prefrontal cortex"* |
 | **Evaluative** | domain-specific criteria | one performed-vs-authentic axis for everything |

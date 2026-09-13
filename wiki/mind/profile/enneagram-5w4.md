@@ -1,12 +1,12 @@
 ---
 domain: mind
 page_type: profile
-title: "Enneagram 5w4 sx/sp — The Iconoclast Hermit"
-aliases: ["5w4", "sx/sp", "social-blind", "remote intimacy"]
+title: "Enneagram — The Contested Typing (5w4 Commissioned vs. 5w6sx Self-Typed)"
+aliases: ["5w4", "5w6sx", "sx/sp", "social-blind", "remote intimacy"]
 status: stable
 importance: high
 date_created: 2026-07-13
-date_modified: 2026-08-26
+date_modified: 2026-09-13
 sources:
   - raw/self/dox-md/FULL PROFILE 2026.md
   - raw/self/dox-scan/Dan Profile.txt
@@ -16,189 +16,224 @@ related:
   - wiki/mind/concepts/attachment-model
   - wiki/mind/concepts/contact-gini
   - wiki/people/annie-ulmer
-tags: [personality-profile, addiction-recovery]
+tags: [personality-profile, attachment]
 connections:
-  - page: wiki/mind/psychosexual/developmental-origins
-    type: parallels
-    claim: "The sx/sp fusion-or-annihilation stacking arrives at the same total-intensity relational prediction the developmental accounts reach from attachment trauma and cultural imprinting — independent-framework convergence."
+  - page: wiki/mind/profile/index
+    type: component-of
+    claim: "This page is the Enneagram detail behind the profile hub's stack — and the cluster's sharpest provenance dispute: the only dated first-person self-typing in the record disagrees with the commissioned profile on the wing and on the SLOAN fourth letter."
+  - page: wiki/mind/synthesis/the-commissioned-self
+    type: evidences
+    claim: "The one dated instance in the whole primary record of Dan typing himself in his own words gives '5w6sx RLOEI' (2024-11-04), against the 5w4 and RLUEI this page and the entire profile cluster are built on — a first-person residue reading that disagrees with the commissioned one and has never been reconciled."
   - page: wiki/mind/synthesis/the-unbroken-bond
     type: causes
-    claim: "The sx-dominant instinctual stack recorded here is the mechanism behind the most stable fact in the corpus: a stack that organises life around one relationship at maximum voltage rather than several at moderate voltage predicts singular-and-continuous pair-bonding, and seventeen years with no voluntary vacancy is what that prediction looks like in the record."
+    claim: "The sx-dominant instinctual stack — the one element both the self-typing and the commissioned profile agree on — is the mechanism behind the most stable fact in the corpus: a stack organising life around one relationship at maximum voltage rather than several predicts singular-and-continuous pair-bonding, and the record shows continuous occupancy."
   - page: wiki/mind/synthesis/bond-switch-2015
     type: instantiates
     claim: "The 2015 switch is the sx/sp stack's logic executed in real time."
-  - page: wiki/mind/psychosexual/taboo-and-boundary-testing
-    type: parallels
-    claim: "The taboo-as-edge-condition drive is the same sx/sp-fused Ti-Ne pattern documented here, run on sexual and social categories instead of arguments or belief systems."
-  - page: wiki/mind/synthesis/the-commissioned-self
-    type: contradicts
-    claim: "The only dated first-person self-typing in the primary record gives '5w6sx RLOEI' (2024-11-04), not the 5w4 and RLUEI this page is named for and built on — a residue reading that disagrees with the commissioned one, unreconciled, and load-bearing because the 4 wing supplies the tragic-romantic identity reading."
-  - page: wiki/people/ally-lubin
-    type: evidenced-by
-    claim: "The Witness need's one documented completion: Dan made her the first human ever to read this wiki, she audited rather than merely witnessed it, and both parties survived the transaction without the predicted consumption fear firing."
-  - page: wiki/mind/synthesis/no-platonic-channel
-    type: component-of
-    claim: "An sx-dominant stack with the social instinct functionally absent predicts that the ordinary, low-intensity peer register most friendships run in is simply not an available setting — closeness has only the fusion mode and the fortress mode, which is why a trusted female tie is documented converting toward one of the two rather than settling into a third, undramatic register."
-  - page: wiki/mind/synthesis/the-serial-monogamist
-    type: causes
-    claim: "A stack organising life around one relationship at maximum voltage rather than several at moderate voltage is the mechanism behind Dan having almost no adult lived experience of single life — continuous occupancy is not a reported preference, it is what the stack predicts before any relationship is examined."
   - page: wiki/mind/synthesis/single-channel
     type: causes
-    claim: "This page has been that page's relational-leg mechanism since 2026-08-01, cited only indirectly through the-unbroken-bond and without its own CONTRADICTION disclosed — single-channel's constitution pass (2026-08-28) now states directly that the Gini measurement is independent of which enneagram wing is correct, but the *explanation* for why the relational leg concentrates the way it does is not, and inherits this page's unresolved 5w6sx-vs-5w4sx dispute."
+    claim: "This page has been that page's relational-leg mechanism since 2026-08-01, cited only indirectly through the-unbroken-bond and without its own contradiction disclosed — single-channel's constitution pass (2026-08-28) now states the Gini measurement is independent of which wing is correct, but the explanation for why the relational leg concentrates is not, and inherits this page's unresolved 5w6sx-vs-5w4 dispute."
   - page: wiki/mind/synthesis/attachment-trauma-bond
     type: causes
     claim: "The sx/sp fusion-or-annihilation instinct stacking is the load-bearing mechanism behind that page's 'ontological amputation' language, and it survives this page's own 5w4-vs-5w6sx wing contradiction intact: the fusion-collapse account rests on the instinct order, not the disputed wing."
+  - page: wiki/mind/concepts/explicit-verbal-commitment
+    type: parallels
+    claim: "The rule-based attachment architecture — positive verbal expressions as absolute rules until an explicit severance signal, 129 severance declarations at 100% re-engagement — is loyalty-and-anxiety machinery: a 6-wing signature (security through explicit rules), not the 4 wing's tragic-romantic identity-through-difference."
+  - page: wiki/mind/psychosexual/taboo-and-boundary-testing
+    type: parallels
+    claim: "The taboo-as-edge-condition drive is the same sx/sp-fused Ti-Ne pattern documented here, run on sexual and social categories instead of arguments or belief systems."
+  - page: wiki/people/ally-lubin
+    type: evidenced-by
+    claim: "The Witness need's one documented completion: Dan made her the first human ever to read this wiki (2026-08-18), she audited rather than merely witnessed it, and both parties survived the transaction without the predicted consumption fear firing."
+  - page: wiki/mind/synthesis/no-platonic-channel
+    type: component-of
+    claim: "An sx-dominant stack with the social instinct functionally absent predicts that the ordinary, low-intensity peer register most friendships run in is simply not an available setting — closeness has only the fusion mode and the fortress mode."
 ---
 
+# Enneagram — The Contested Typing (5w4 Commissioned vs. 5w6sx Self-Typed)
 
-# Enneagram 5w4 sx/sp — The Iconoclast Hermit
+Part of the [[wiki/mind/profile/index|personality profile cluster]].
 
-Dan's Enneagram result is Type 5 (the knowledge-hoarder whose core fear is
-incompetence and whose core strategy is resource conservation) with a 4 wing
-(tragic-romantic identity through difference), under a sexual/
-self-preservation instinct stacking with the social instinct effectively
-absent. The dossiers' formulation of the 5 core: "I must be knowledgeable to
-survive" — energy, information, and autonomy are hoarded, privacy is not
-preference but sacred territory, and letting someone in is "a mythic act."
-The 4 wing metabolizes perceived emotional defectiveness into psychic
-uniqueness: what it craves is not connection but *mythic comprehension* —
-being fully seen and found extraordinary. This is the emotional structure
-underneath the cognitive stack ([[wiki/mind/profile/intp]]), and it is where
-the profile's central war lives. It is also, via
-[[wiki/mind/synthesis/the-unbroken-bond]], the uncredited mechanism behind
-[[wiki/mind/synthesis/single-channel]]'s relational leg — a stack that
-organises life around one relationship at maximum voltage rather than
-several predicts the measured Gini's relational instance directly, which
-means that page's explanation of *why* the leg concentrates carries this
-page's own wing-and-stacking dispute forward whether or not it says so.
+This page used to be titled "Enneagram 5w4 sx/sp — The Iconoclast
+Hermit" and read as a settled profile. It is not settled. The record
+holds **two typings**: one he gave himself, dated, in his own words —
+and one commissioned from AI sessions two years later that the whole
+profile cluster was then built on. They disagree on the wing and on
+the SLOAN fourth letter. Everything below is organized around that
+disagreement, because the disagreement is the only part of this page
+with a platform timestamp on it.
 
-## The sx/sp contradiction
+## The two typings
 
-The instinct stacking sets two drives against each other permanently.
+**The self-typing (2024-11-04, primary-verified).** The only located
+dated first-person Enneagram/SLOAN self-typing in the held corpus,
+**2024-11-04 20:54:34 UTC** (corpus/messages.csv id 14417), outbound:
 
-**The sexual (sx) drive — fusion imperative:** craves chemistry-based total
-immersion with one person; seeks a soulmate/"mind-mate" who matches
-intellectual and emotional depth; forges connections fast and deep when it
-recognizes a kindred spirit. The dossier's phrase: intimacy is "nuclear —
-fusion-or-annihilation."
+> *"I could have given it way more accurate info if I had the numbers
+> above the area you screenshotted but I just said 'vanessa is an xNFP
+> 4w5 and Dan is an INTP 5w6sx RLOEI - compare them'"*
 
-**The self-preservation (sp) drive — fortress imperative:** demands
-autonomy, impenetrable boundaries, and obsessive energy accounting; lives by
-"solitude = freedom = survival"; experiences social interaction as depletion
-and builds physical and psychological fortresses around limited resources.
+That is **5w6sx** (not 5w4) and **RLOEI** (not RLUEI). Exact-phrase
+search over all 192,140 held records returns exactly one hit each for
+'5w6sx' and 'RLOEI' (dat:0937). Note the full sentence: he flags his
+own input as less accurate than it could have been *in the same
+breath* as giving the typing — a caveat that corroborates the wiki's
+own reading of the line as possibly a slip rather than undercutting
+it (dat:0050). The message's prompt-like phrasing ('compare them')
+suggests it was an instruction to an AI or a friend; regardless, the
+self-typing it states is Dan's own words on record.
 
-The documented oscillation cycle runs: intense connection (sx active) →
-overwhelm and depletion (sp alarm) → withdrawal to the fortress (sp
-dominant) → missing the connection (sx reactivates) → return to intensity →
-repeat. Behavioral signatures from the record: pursuing relationships
+**The commissioned profile (2025–2026, testimony-grade).** Two
+commissioned GPT-4.1 profile sessions (2026-08-23 and 2026-09-05)
+produce a 5w4/so-sp/RLUEI reading — the "Iconoclast Hermit" the old
+page was named for. The sessions are **not held in this repository**
+and cannot be re-verified (dat:0938). No Enneagram instrument was ever
+administered on either side; both typings are self-report, but only
+one has a platform timestamp.
+
+## The residue check: every corpus trace of 5w4 post-dates the assignment
+
+Searching the sha256-verified corpus of 192,140 messages: `RLOEI`
+returns exactly one hit (the 2024 self-typing). `RLUEI` returns **none**.
+`5w4` returns three — and all three post-date the instrument assignment
+and are artefacts of it: two (2026-03-21, 2026-03-24) are an LLM
+persona prompt he wrote and was pasting to another person, reading
+*"Identity: High-intellect (98-99th percentile), high-volatility INTP
+5w4-sx"*; the third (2026-08-21) is a link to his own published page,
+`enneagram-5w4.html` (dat:0050). `enneagram` returns one hit total.
+
+The sequence is: he types himself **5w6sx** (Nov 2024) → the
+commissioned instrument assigns **5w4** (2025–26) → he starts calling
+himself 5w4 in prompts he shares with other people (Mar 2026) → he
+publishes the 5w4 page (Aug 2026). The commissioned typing did not just
+describe him; it **renamed** him, and he wore the name.
+
+> **SPECULATION [2026-09-13]:** the 5w4 self-presentation is an adopted
+> vocabulary, not a revised self-understanding — the instrument's label
+> became his public shorthand because it was available, quotable, and
+> already attached to a published page. **For:** the dated sequence
+> above, and the fact that the 2026 persona prompts use the code as a
+> compact identity token for *someone else's* consumption (pasted to
+> another person), not as private self-analysis. **Against:** he may
+> have held a 5w4 self-understanding before any instrument; no
+> pre-2024 typology records are held, so the absence of an earlier 5w4
+> self-typing is a gap, not a disproof. Falsifier: a dated pre-2024
+> first-person 5w4 claim.
+
+## What survives the dispute intact
+
+The wing is disputed. The **instinct order is not** — both typings put
+the sexual instinct first and the social instinct last, and the
+behavioral record is where the stacking earns its keep:
+
+**The sx drive — fusion imperative:** chemistry-based total immersion
+with one person; intimacy as "nuclear — fusion-or-annihilation." The
+documented oscillation runs: intense connection → overwhelm and
+depletion → withdrawal to the fortress → missing the connection →
+return to intensity. Behavioral signatures: relationships pursued
 through *safe media* (text, digital channels) rather than proximity;
-elaborate boundary systems inside committed relationships; relief when the
-partner is temporarily absent, followed by abandonment anxiety and guilt
-about the relief; sabotaging intimacy when it threatens autonomy, then
-desperately seeking reconnection. Partners experience never knowing "which
-version they'll get"; he experiences both drives as equally valid and
-uncontrollable.
+elaborate boundary systems inside committed relationships; relief when
+the partner is temporarily absent, followed by abandonment anxiety and
+guilt about the relief.
 
-## Social-blindness
+**The sp drive — fortress imperative:** autonomy, impenetrable
+boundaries, obsessive energy accounting; "solitude = freedom =
+survival"; social interaction experienced as depletion.
 
-The absent social instinct is arguably the profile's most defining feature —
-the source of the "invisible genius" phenomenon. Documented characteristics:
-genuine blindness to group dynamics, hierarchy, and reputation management;
-zero networking instinct; no felt need to belong; inability to read the room
-or modulate by context; identical irreverence to everyone regardless of
-status. Consequences in the record: work of real quality produced with no
-audience-building whatsoever (the music catalog), antagonizing potential
-allies without noticing, and thousands of messages sent while living as a
-functional recluse — breadth without depth, quantified at
-[[wiki/mind/concepts/contact-gini]] (Gini 0.961, one load-bearing node).
+**Social-blindness:** genuine blindness to group dynamics, hierarchy,
+and reputation management; zero networking instinct; no felt need to
+belong; identical irreverence to everyone regardless of status.
+Consequences in the record: work of real quality produced with no
+audience-building whatsoever (the music catalog), and thousands of
+messages sent while living as a functional recluse — breadth without
+depth, quantified at [[wiki/mind/concepts/contact-gini]] (Gini 0.961,
+replicated at 0.9556 inbound, dat:0528 — the Gini work is the one
+quantitative leg of this page that holds independently).
 
-## Remote intimacy
+**Remote intimacy** — the sx/sp war's one documented stable solution:
+connection through a medium that lets minds touch while bodies stay in
+the fortress. Text-first relationships, music released to unknown
+listeners, and now AI collaborators — maximum mind-contact, zero social
+demand ([[wiki/mind/synthesis/ai-collaborative-analysis]]). The theory
+also names the **Witness need**: someone who validates that the
+internal world is real. It has one documented completion: on August
+18, 2026, Dan sent this wiki to [[wiki/people/ally-lubin|Ally Lubin]],
+making her the first human other than him ever to read it — *"You def
+should have substantially more trust in me after I let you be the
+literal first person to ever read that wiki."* She audited it,
+contesting its money figures and its pattern-reading of the Annie
+material. Both parties survived the transaction.
 
-The sx/sp war has one documented stable solution, which the sources develop
-into a full theory: **connection through a medium that lets minds touch
-while bodies stay in the fortress.** The forms, with their sx-satisfaction
-and sp-protection mechanics:
+## The wing adjudication: 6 fits the behavior better than 4
 
-| Form | Sx satisfied by | Sp protected by | Failure mode |
-|------|-----------------|-----------------|--------------|
-| Epistolary / digital (text-first relationships) | Mind-to-mind depth, async intensity | Screen barrier, disconnect control | Over-intimacy triggers withdrawal |
-| Artistic transmission (music released to unknown listener) | One-to-many soul-transmission | Audience abstraction | Real audience members intrude, misunderstand |
-| Professional/collaborative distance | Fusion through shared work | Role boundaries | Boundaries blur, chaos |
+The wing difference is the load-bearing one, because the old page's
+entire emotional architecture — tragic-romantic
+identity-through-difference, the craving for *"mythic comprehension"* —
+was derived from the 4 wing. Here is what the behavioral record
+actually shows, wing by wing:
 
-This maps directly onto the record: the decade with
-[[wiki/people/annie-ulmer|Annie]] was conducted overwhelmingly through
-126k+ messages; the "one sincere output channel" is music released under
-aliases; and the deepest current collaborations are with AI systems —
-maximum mind-contact, zero social demand
-([[wiki/mind/synthesis/ai-collaborative-analysis]]). The theory also names
-the **Witness need**: beyond romance, the type requires someone who
-validates that the internal world is real — who reads the work and
-*understands*. The paradox is needing the Witness desperately while fearing
-the Witness will consume him or demand reciprocal witnessing he cannot
-provide.
+**The 6 wing (loyalty, anxiety, security-seeking) is attested in
+behavior.** The explicit-verbal-commitment architecture — positive
+verbal expressions functioning as absolute rules until an explicit
+severance signal arrives; 129 severance declarations, 100%
+re-engagement, median gap 36s; 0 severance signals in 41,073 of Annie's
+messages — is **anxiety managed through explicit rules**. That is the
+6-wing signature: security through stated commitments and tests. The
+probe series ([[wiki/mind/synthesis/red-team-probe-series]]) is the
+same machinery pointed at models: demand an explicit signal, test it,
+re-test it, record the verdict.
 
-That paradox has one documented instance of running to completion rather
-than staying theoretical. On August 18, 2026, Dan sent this wiki to
-[[wiki/people/ally-lubin|Ally Lubin]], making her the first human other than
-him ever to read it — a fact he states himself the next day: *"You def
-should have substantially more trust in me after I let you be the literal
-first person to ever read that wiki."* She did not just read it; she
-audited it, contesting its money figures and its pattern-reading of the
-Annie material. Both parties survived the transaction: the Witness function
-performed, once, without triggering the predicted consumption fear.
+**The 4 wing (tragic-romantic identity-through-difference) is attested
+in aesthetics.** The self-deprecating designations ("Failson,"
+"Professional Loser"), the aristocratic-alienation register, the
+simultaneous superior/inferior self-assessment — these are the 4
+wing's irony armor, and they are real in the record.
 
-## The 4 wing — aristocratic alienation
+**The honest synthesis:** both wings have behavioral attestations, but
+only one self-typing is dated, and it is 5w6sx. The attachment
+machinery the rest of the wiki builds on — fusion-collapse, the
+severance cycle, the reassurance architecture — rests on the instinct
+order and the rule-based commitment system, both of which point at the
+6 wing, not the 4. The old page's title named the wing with the weaker
+behavioral case and none of the dated evidence.
 
-The wing supplies the aesthetic: identity through difference (must be
-fundamentally unlike "normal people"), tragic beauty as a value, outsider
-status embraced as proof of authenticity, and the signature dual
-self-assessment of being simultaneously superior (intellectually,
-aesthetically) and inferior (functionally incompetent at ordinary life) —
-"too refined for the mundane world yet functionally incompetent within it."
-The self-deprecating designations in the corpus ("Failson," "Professional
-Loser") are the 4 wing's irony armor over the 5's competency fear: set the
-floor low so being right reads as surprise.
+## Corrections
 
-## Failure modes on the record
+> **SUPERSEDED [2026-09-13]:** the old page's "126k+ messages" figure
+> for the Annie relationship is replaced by the standing correction:
+> **97,768 unique messages** (dat:0113, dat:0160). The decade with
+> Annie was conducted overwhelmingly through text; the count was
+> wrong, not the claim.
 
-The type's predicted failure modes are all documented in the relationship
-record: the *consumption-fear realization* (partner's needs reframed as
-withdrawals from a depleting resource → resentment → withdrawal); the
-*ideal-vs-real collapse* (mediated connection builds an idealized Other that
-the physical person cannot match); and the *social-blindness casualty*
-(partner feels unloved despite genuine devotion because affection is
-expressed through remembered details, shared obsessions, and sanctuary
-access rather than conventional signals). The attachment mechanics that kept
-the Annie bond open for a decade without a severance signal are the same
-machinery, formalized at [[wiki/mind/concepts/attachment-model]].
+> **SUPERSEDED [2026-09-13]:** the old page's title and framing —
+> "Enneagram 5w4 sx/sp — The Iconoclast Hermit" as a settled profile —
+> are replaced by the contested framing above. The 5w4 content is
+> preserved below as the commissioned reading, with its provenance
+> stated, because downstream pages cite it.
 
-**Gaps:** tritype and instinct-stacking granularity vary between sources
-(sx/sp vs. one sx/so notation in the operating manual — the sx/sp reading is
-better supported); no dated instrument result exists, only convergent
-AI-era analyses.
+## The commissioned 5w4 reading, preserved with provenance
 
-> **CONTRADICTION [2026-08-19] — the only first-person self-typing in the primary**
-> **record is not 5w4.** Everything on this page descends from a commissioned
-> instrument. The message corpus contains exactly one instance of Dan typing
-> himself in his own words, quoting back a prompt he had written, on
-> **2024-11-04**: *"vanessa is an xNFP 4w5 and **Dan is an INTP 5w6sx RLOEI** -*
-> *compare them."*
->
-> Not 5w4, and not RLUEI. The wing is the difference that matters here, because
-> this page is named for it and derives its central content from it — the
-> tragic-romantic identity-through-difference reading, the craving for *"mythic*
-> *comprehension,"* and much of the emotional architecture the attachment pages
-> then build on. A 6 wing points at loyalty, anxiety and security-seeking
-> instead. The SLOAN third letter differs too: O for Organized rather than U for
-> Unstructured, which cuts against the burst-and-collapse rhythm
-> [[wiki/mind/concepts/chaos-preference]] rests on.
->
-> **Not resolved, and deliberately.** It is one line typed fast inside a message
-> about somebody else's test, and it may be a slip. But
-> [[wiki/mind/synthesis/instrument-is-subject]] ranks residue above testimony, and
-> the 5w4 codes are testimony by that page's definition — produced in order to
-> characterise. What the corpus holds is one dated first-person self-typing that
-> this page does not match, and no second instance has been looked for. See
-> [[wiki/mind/synthesis/the-commissioned-self]].
+The dossiers' formulation, carried as the dossiers' formulation: Type 5
+(the knowledge-hoarder whose core fear is incompetence, whose strategy
+is resource conservation) with a 4 wing (tragic-romantic identity
+through difference), under sx/sp with the social instinct effectively
+absent. "I must be knowledgeable to survive" — energy, information, and
+autonomy hoarded; privacy as sacred territory; letting someone in as "a
+mythic act." The 4 wing metabolizing perceived emotional defectiveness
+into psychic uniqueness: what it craves is not connection but *mythic
+comprehension* — being fully seen and found extraordinary.
 
+**Gaps:** tritype and instinct-stacking granularity vary between
+sources (sx/sp vs. one sx/so notation in the operating manual — the
+sx/sp reading is better supported); no dated instrument result exists,
+only convergent AI-era analyses; the GPT-4.1 sessions behind the 5w4
+reading are unheld. No second first-person self-typing has been looked
+for — the corpus holds exactly one.
 
+## Limits of record
+
+Two self-reports, one with a timestamp. The commissioned reading is
+testimony from unheld sessions; the self-typing is one line typed fast
+inside a message about somebody else's test. The instinct order is the
+only element with behavioral corroboration. Everything typological
+beyond it is contested by the record's own sole dated witness — him.

@@ -57,6 +57,7 @@ connections:
   - { target: "[[wiki/mind/concepts/explicit-verbal-commitment]]", type: extends, claim: "His doctrine — positive verbal expressions as absolute rules until explicit severance — misfires against her leave-instantly doctrine: declaration meets counter-declaration and produces procedure instead of re-engagement." }
   - { target: "[[wiki/people/danny-matthews]]", type: references, claim: "The relationship’s founding myth is a dead ex-boyfriend; Dan’s September 25 bid was to audition as the Danny who stays — passion with permanence." }
   - { target: "[[wiki/mind/synthesis/the-rescue-premise]]", type: extends, claim: "The rescue premise wearing a new costume with the polarity reversed: he is not being rescued, he is applying to be the rescue, entered as a solution to someone else’s prior relationship." }
+  - { target: "[[wiki/mind/concepts/reassurance-architecture]]", type: tested-by, claim: "The 2026-09-13 portability test ran the check-in registers against this channel: summons phrases fire at near-Annie per-phrase rates ('call me' 0.79/1k vs 0.97/1k), the severance lexicon does not port ('goodbye' 0.49/1k vs 3.44/1k), and the canonical-question absence is system-wide. Check-in ports to new attachments; the declaration ladder is Annie-specific." }
   - page: wiki/timeline/periods/dec-2025-spike
     type: evidenced-by
     claim: "The December 7–9 reactivation burst and the sixteen-minute terminal sequence are dated components of that period's spike."

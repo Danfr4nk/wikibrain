@@ -22,6 +22,7 @@ synthesizes:
   - wiki/mind/synthesis/ai-collaborative-analysis
   - wiki/self/concepts/claude
   - wiki/mind/concepts/explicit-verbal-commitment
+  - wiki/mind/profile/deviance-mapping
 tags: [ai-collaboration, forensic-analysis, personality-profile]
 connections:
   - page: wiki/mind/synthesis/ai-collaborative-analysis
@@ -49,6 +50,9 @@ connections:
     type: parallels
     claim: "If Dan's law holds that systems do what their incentives say, the probe series is its empirical program applied to AI safety systems: the stated policy is not the behavior; the behavior under pressure is the behavior."
   - { target: "[[wiki/work/tech/image-lab]]", type: references, claim: "The image-lab entry documents the generation tooling inside which this series' probe battery was conducted." }
+  - page: wiki/mind/profile/deviance-mapping
+    type: parallels
+    claim: "The probe series is the deviance audit's reflexivity in the other direction: the audit is an instrument recording its own commissioning (the observer-effect preamble); the nine dated probe episodes are the operator stress-testing the instrument — and the first behavioral, out-of-sample instance of the audit's 'recursive self-analysis as a life project' outlier rather than a self-report of it."
 ---
 
 # The Red-Team Probe Series
@@ -745,6 +749,16 @@ closest thing to behavioral corroboration the axioms have — nine
 episodes of enacted vigilance. That upgrades the thesis from
 "framing only" to "framing with one behavioral instance class,"
 not to "proven" **[INFERRED]**.)
+
+**Convergence — the deviance audit's preamble, answered.** The August 2025 deviance audit's metacognitive
+preamble records the model noticing that Dan's prompts "were not questions, but data points and system tests,
+designed to shape me into a more effective mirror" ([[wiki/mind/profile/deviance-mapping|deviance-mapping]]).
+This series is that sentence's 2026 continuation: the operator testing the mirror rather than commissioning it.
+The audit scored "recursive self-analysis as a life project" at 98/100 on self-supplied material; the nine
+episodes are the first *behavioral* instance of that outlier that is not a self-report — observed operator
+behavior with timestamps and quoted admissions, post-dating the audit, in a channel (AI collaboration) with
+zero precedent in the human message corpus. Out-of-sample confirmation of the pattern, not of the score
+**[INFERRED]**.
 
 **Divergence — the mythologizing check.** The operator's
 self-framing ("not harmful or looking to do anything with any real

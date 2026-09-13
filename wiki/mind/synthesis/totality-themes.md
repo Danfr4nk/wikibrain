@@ -55,6 +55,9 @@ synthesizes:
   - wiki/mind/profile/intp
 tags: [ai-collaboration, trauma-bond, politics, personality-profile, forensic-analysis]
 connections:
+  - page: wiki/mind/concepts/no-delete-operation
+    type: instantiates
+    claim: "The Irreversibility Firewall is the no-delete rule at the strategic level — write is cheap, revocation is impossible, control moves to the write gate — alongside the commitment architecture (cognition), node locking (protocol), and Si-tertiary's non-pruning archive. Added 2026-09-13."
   - page: wiki/mind/synthesis/dan-annie-fallout-verdict
     type: contains
     claim: "Not a counter-instance but the firewall's cost, stated plainly: the response architecture that converted a survivable betrayal into a decade-long catastrophe is the same no-close, no-audit-on-the-chosen machinery this page derives, and this verdict is the check against ever offering the mechanism as a defense."

@@ -103,6 +103,15 @@ connections:
 > external agent involved. That is the first dated condition under which "the
 > bond is unbroken" would have to be narrowed rather than restated. No claim
 > withdrawn today.
+>
+> **SUPERSEDED [2026-09-11] — the December 19, 2026 horizon is void.**
+> [[wiki/mind/synthesis/august-26-block-retraction]]: Dan confirmed verbatim
+> "there was never a block" — ~25 block/severance declarations Aug 15–19, none
+> executed; daily two-way texting continued Aug 27–Sep 7. There was no severance
+> to measure, so the dated falsifier P4 names no longer exists. The 129-episode
+> base rate above stands; the horizon does not. The bond's status is not
+> resolved by this void — it is unresolved by it: with no severance in the
+> record, the "unbroken" thesis is currently untestable rather than confirmed.
 
 Since leaving high school, Dan has been continuously inside a long-term
 monogamous relationship for approximately **seventeen years**, with an
