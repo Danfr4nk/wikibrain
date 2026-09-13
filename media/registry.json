@@ -2285,6 +2285,518 @@
       ],
       "batch": "photo-ingest-20260912-zac-01",
       "embed_excluded": false
+    },
+    {
+      "id": "frame-001",
+      "type": "frame",
+      "date": "2018-11-06",
+      "description": "Pixelated still (10:19:45 AM camera time) from upload-021: The open: woman in white tank top (hair in bun) sits on the bed facing the woman in blue, reclined under the blanket near the pillows; casual conversation. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p1_01_open.jpg, never committed.",
+      "original_filename": "p1_01_open.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p1_01_open.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-021",
+      "camera_time": "10:19:45 AM"
+    },
+    {
+      "id": "frame-002",
+      "type": "frame",
+      "date": "2018-11-06",
+      "description": "Pixelated still (10:20:30 AM camera time) from upload-021: Woman in blue sits up slightly, lies back, stretches; woman in white stays seated, gesturing as they talk. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p1_02_stretch.jpg, never committed.",
+      "original_filename": "p1_02_stretch.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p1_02_stretch.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-021",
+      "camera_time": "10:20:30 AM"
+    },
+    {
+      "id": "frame-003",
+      "type": "frame",
+      "date": "2018-11-06",
+      "description": "Pixelated still (10:22:12 AM camera time) from upload-021: Woman in blue sits up and moves toward the woman in white; embrace and kissing begin. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p1_03_first-kiss.jpg, never committed.",
+      "original_filename": "p1_03_first-kiss.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p1_03_first-kiss.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-021",
+      "camera_time": "10:22:12 AM"
+    },
+    {
+      "id": "frame-004",
+      "type": "frame",
+      "date": "2018-11-06",
+      "description": "Pixelated still (10:23:30 AM camera time) from upload-021: Seated facing each other, sustained kissing and embracing; woman in white's arm around the woman in blue. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p1_04_kissing.jpg, never committed.",
+      "original_filename": "p1_04_kissing.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p1_04_kissing.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-021",
+      "camera_time": "10:23:30 AM"
+    },
+    {
+      "id": "frame-005",
+      "type": "frame",
+      "date": "2018-11-06",
+      "description": "Pixelated still (10:25:45 AM camera time) from upload-021: Woman in blue removes her blue tank top; black sports bra underneath; fixes her hair. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p1_05_top-off.jpg, never committed.",
+      "original_filename": "p1_05_top-off.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p1_05_top-off.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-021",
+      "camera_time": "10:25:45 AM"
+    },
+    {
+      "id": "frame-006",
+      "type": "frame",
+      "date": "2018-11-06",
+      "description": "Pixelated still (10:26:00 AM camera time) from upload-021: Woman in blue stands and walks off frame right, leaving the room. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p1_06_blue-leaves.jpg, never committed.",
+      "original_filename": "p1_06_blue-leaves.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p1_06_blue-leaves.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-021",
+      "camera_time": "10:26:00 AM"
+    },
+    {
+      "id": "frame-007",
+      "type": "frame",
+      "date": "2018-11-06",
+      "description": "Pixelated still (10:26:30 AM camera time) from upload-021: Woman in white alone on the bed; picks up her phone. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p1_07_alone.jpg, never committed.",
+      "original_filename": "p1_07_alone.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p1_07_alone.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-021",
+      "camera_time": "10:26:30 AM"
+    },
+    {
+      "id": "frame-008",
+      "type": "frame",
+      "date": "2018-11-06",
+      "description": "Pixelated still (10:23:05 AM camera time) from upload-026: Annie (white lace racerback tank, messy bun, back to camera) mid-kiss with the dark-haired woman in the blue tank; arms around each other. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/cut_01_mid-kiss.jpg, never committed.",
+      "original_filename": "cut_01_mid-kiss.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/cut_01_mid-kiss.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-026",
+      "camera_time": "10:23:05 AM"
+    },
+    {
+      "id": "frame-009",
+      "type": "frame",
+      "date": "2018-11-06",
+      "description": "Pixelated still (10:23:40 AM camera time) from upload-026: The long kiss: hands cupping faces, fingers in hair, palms on necks and backs; the woman's arm circles Annie's waist. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/cut_02_long-kiss.jpg, never committed.",
+      "original_filename": "cut_02_long-kiss.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/cut_02_long-kiss.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-026",
+      "camera_time": "10:23:40 AM"
+    },
+    {
+      "id": "frame-010",
+      "type": "frame",
+      "date": "2018-11-06",
+      "description": "Pixelated still (10:24:20 AM camera time) from upload-026: Still kissing; Annie's hand cups the woman's face; the woman's hands frame Annie's jaw; bodies pressed, Annie's leg draped. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/cut_03_face-cup.jpg, never committed.",
+      "original_filename": "cut_03_face-cup.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/cut_03_face-cup.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-026",
+      "camera_time": "10:24:20 AM"
+    },
+    {
+      "id": "frame-011",
+      "type": "frame",
+      "date": "2018-11-06",
+      "description": "Pixelated still (10:25:15 AM camera time) from upload-026: Smiles and laughter breaking through between kisses, then back in. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/cut_04_smiles.jpg, never committed.",
+      "original_filename": "cut_04_smiles.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/cut_04_smiles.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-026",
+      "camera_time": "10:25:15 AM"
+    },
+    {
+      "id": "frame-012",
+      "type": "frame",
+      "date": "2018-11-06",
+      "description": "Pixelated still (10:25:45 AM camera time) from upload-026: The blue top halfway off; Annie helping lift it over the woman's head. Last clothed frame of the morning. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/cut_05_top-halfway.jpg, never committed.",
+      "original_filename": "cut_05_top-halfway.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/cut_05_top-halfway.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-026",
+      "camera_time": "10:25:45 AM"
+    },
+    {
+      "id": "frame-013",
+      "type": "frame",
+      "date": "2018-11-06",
+      "description": "Pixelated still (11:07:17 AM camera time) from upload-026: Both nude, sunk into the pillows and the rumpled gray blanket; slow kissing, arms around each other, legs tangled; Annie stroking her hair and face. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/cut_06_cuddle.jpg, never committed.",
+      "original_filename": "cut_06_cuddle.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/cut_06_cuddle.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-026",
+      "camera_time": "11:07:17 AM"
+    },
+    {
+      "id": "frame-014",
+      "type": "frame",
+      "date": "2018-11-06",
+      "description": "Pixelated still (11:31:30 AM camera time) from upload-026: Annie upright, kneeling, straddling the dark-haired woman reclined on the pillows; kissing; the woman's hands on Annie's hips and lower back. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/cut_07_annie-on-top.jpg, never committed.",
+      "original_filename": "cut_07_annie-on-top.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/cut_07_annie-on-top.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-026",
+      "camera_time": "11:31:30 AM"
+    },
+    {
+      "id": "frame-015",
+      "type": "frame",
+      "date": "2018-11-06",
+      "description": "Pixelated still (11:32:24 AM camera time) from upload-026: Annie straddling her fully, bodies pressed flush, still kissing. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/cut_08_straddle-end.jpg, never committed.",
+      "original_filename": "cut_08_straddle-end.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/cut_08_straddle-end.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-026",
+      "camera_time": "11:32:24 AM"
+    },
+    {
+      "id": "frame-016",
+      "type": "frame",
+      "date": "2018-12-06",
+      "description": "Pixelated still (10:55:20 AM camera time) from upload-020: Woman A (glasses, hair in bun) on her left side under a pale sheet facing the camera; woman B (dark hair, red plaid pajama set) at the dresser. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p3_01_room.jpg, never committed.",
+      "original_filename": "p3_01_room.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p3_01_room.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-020",
+      "camera_time": "10:55:20 AM"
+    },
+    {
+      "id": "frame-017",
+      "type": "frame",
+      "date": "2018-12-06",
+      "description": "Pixelated still (10:55:35 AM camera time) from upload-020: Woman B sits on the bed's right edge, back to camera, nude after removing her pajamas; adjusting her hair. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p3_02_stripping.jpg, never committed.",
+      "original_filename": "p3_02_stripping.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p3_02_stripping.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-020",
+      "camera_time": "10:55:35 AM"
+    },
+    {
+      "id": "frame-018",
+      "type": "frame",
+      "date": "2018-12-06",
+      "description": "Pixelated still (10:56:00 AM camera time) from upload-020: B lies back beside A; they face each other, talk and laugh; B stretches out on her back. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p3_03_together.jpg, never committed.",
+      "original_filename": "p3_03_together.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p3_03_together.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-020",
+      "camera_time": "10:56:00 AM"
+    },
+    {
+      "id": "frame-019",
+      "type": "frame",
+      "date": "2018-12-06",
+      "description": "Pixelated still (10:57:00 AM camera time) from upload-020: B props her knees up, scrolling her phone; A on her side watching. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p3_04_phone.jpg, never committed.",
+      "original_filename": "p3_04_phone.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p3_04_phone.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-020",
+      "camera_time": "10:57:00 AM"
+    },
+    {
+      "id": "frame-020",
+      "type": "frame",
+      "date": "2018-12-06",
+      "description": "Pixelated still (10:58:35 AM camera time) from upload-020: B sets the phone down; A turns fully toward B; kissing begins; B's hand slides under the sheet. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p3_05_kiss-starts.jpg, never committed.",
+      "original_filename": "p3_05_kiss-starts.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p3_05_kiss-starts.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-020",
+      "camera_time": "10:58:35 AM"
+    },
+    {
+      "id": "frame-021",
+      "type": "frame",
+      "date": "2018-12-06",
+      "description": "Pixelated still (11:00:45 AM camera time) from upload-020: Sustained sexual activity: A shifted over B, oral and manual, bodies under and around the sheet; positions rotating. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p3_06_sustained.jpg, never committed.",
+      "original_filename": "p3_06_sustained.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p3_06_sustained.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-020",
+      "camera_time": "11:00:45 AM"
+    },
+    {
+      "id": "frame-022",
+      "type": "frame",
+      "date": "2018-12-06",
+      "description": "Pixelated still (11:05:15 AM camera time) from upload-020: A on top of B, straddling/kneeling; continued oral and manual contact. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p3_07_a-on-top.jpg, never committed.",
+      "original_filename": "p3_07_a-on-top.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p3_07_a-on-top.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-020",
+      "camera_time": "11:05:15 AM"
+    },
+    {
+      "id": "frame-023",
+      "type": "frame",
+      "date": "2018-12-06",
+      "description": "Pixelated still (11:08:15 AM camera time) from upload-020: B reclined with legs up at times; kissing resumes; activity ongoing at the final frame. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p3_08_legs-up.jpg, never committed.",
+      "original_filename": "p3_08_legs-up.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p3_08_legs-up.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-020",
+      "camera_time": "11:08:15 AM"
+    },
+    {
+      "id": "frame-024",
+      "type": "frame",
+      "date": "2018-06-14",
+      "description": "Pixelated still (11:09:06 AM camera time) from upload-025: The open: Annie nude on all fours, back and ass to camera, head dropped toward the pillows, her pussy over Alexis's face; Alexis on her back on the pillows in the red/black robe, dark hair spread, face half-buried. Facesitting already underway. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p4_01_facesit.jpg, never committed.",
+      "original_filename": "p4_01_facesit.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p4_01_facesit.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-025",
+      "camera_time": "11:09:06 AM"
+    },
+    {
+      "id": "frame-025",
+      "type": "frame",
+      "date": "2018-06-14",
+      "description": "Pixelated still (11:09:36 AM camera time) from upload-025: Annie more vertical, straddling Alexis's head, right hand pressed on Alexis's upper chest; Alexis's eyes closed; Annie's titties hanging toward Alexis's face. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p4_02_vertical.jpg, never committed.",
+      "original_filename": "p4_02_vertical.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p4_02_vertical.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-025",
+      "camera_time": "11:09:36 AM"
+    },
+    {
+      "id": "frame-026",
+      "type": "frame",
+      "date": "2018-06-14",
+      "description": "Pixelated still (11:09:56 AM camera time) from upload-025: Annie braces her left hand flat on the wall, arches up, still straddling, grinding down slightly. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p4_03_grind.jpg, never committed.",
+      "original_filename": "p4_03_grind.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p4_03_grind.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-025",
+      "camera_time": "11:09:56 AM"
+    },
+    {
+      "id": "frame-027",
+      "type": "frame",
+      "date": "2018-06-14",
+      "description": "Pixelated still (11:10:11 AM camera time) from upload-025: The long sit: small rocks and resettles; Annie's hand moves to Alexis's thigh. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p4_04_long-sit.jpg, never committed.",
+      "original_filename": "p4_04_long-sit.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p4_04_long-sit.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-025",
+      "camera_time": "11:10:11 AM"
+    },
+    {
+      "id": "frame-028",
+      "type": "frame",
+      "date": "2018-06-14",
+      "description": "Pixelated still (11:10:19 AM camera time) from upload-025: The swap: Annie mid-roll, knees up, twisting off Alexis's face onto her back; her titties pass in front of Alexis's face, nipples visible and untouched; Alexis's mouth tracks her face/shoulder then dives south. No mouth-to-nipple contact. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p4_05_swap.jpg, never committed.",
+      "original_filename": "p4_05_swap.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p4_05_swap.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-025",
+      "camera_time": "11:10:19 AM"
+    },
+    {
+      "id": "frame-029",
+      "type": "frame",
+      "date": "2018-06-14",
+      "description": "Pixelated still (11:10:26 AM camera time) from upload-025: The robe off, bunched by the pillows; Alexis kneeling between Annie's legs, head dropping to Annie's pussy; Annie on her back, small dark tattoo visible on her left ribcage, legs bent up and spreading. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p4_06_reconfig.jpg, never committed.",
+      "original_filename": "p4_06_reconfig.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p4_06_reconfig.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-025",
+      "camera_time": "11:10:26 AM"
+    },
+    {
+      "id": "frame-030",
+      "type": "frame",
+      "date": "2018-06-14",
+      "description": "Pixelated still (11:11:01 AM camera time) from upload-025: The main event: Alexis on all fours/kneeling, head buried, dark hair curtaining the contact point, eating Annie's pussy; Annie on the pillows, legs up and open, smiling, mouth open. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p4_07_main-event.jpg, never committed.",
+      "original_filename": "p4_07_main-event.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p4_07_main-event.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-025",
+      "camera_time": "11:11:01 AM"
+    },
+    {
+      "id": "frame-031",
+      "type": "frame",
+      "date": "2018-06-14",
+      "description": "Pixelated still (11:12:01 AM camera time) from upload-025: Main event continuing: Annie small bucks and resettles under her; phone untouched on the bed. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p4_08_main-event-2.jpg, never committed.",
+      "original_filename": "p4_08_main-event-2.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p4_08_main-event-2.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-025",
+      "camera_time": "11:12:01 AM"
+    },
+    {
+      "id": "frame-032",
+      "type": "frame",
+      "date": "2018-06-14",
+      "description": "Pixelated still (11:12:51 AM camera time) from upload-025: The wind-down: Alexis upright facing left, gathering her hair up in both hands; Annie reclined on the pillows, legs still spread, one hand drifting to her own chest, grinning. Censored derivative per 2026-09-12 directive; uncensored original at ~/workspace/annie-alexis-frames/p4_09_wind-down.jpg, never committed.",
+      "original_filename": "p4_09_wind-down.jpg",
+      "share_url": null,
+      "compressed_path": "wiki/media/annie-alexis-frames/p4_09_wind-down.jpg",
+      "poster_sha256": null,
+      "analysis_status": "embedded",
+      "linked_nodes": [
+        "wiki/timeline/events/annie-alexis-reunion-november-2018"
+      ],
+      "source_upload": "upload-025",
+      "camera_time": "11:12:51 AM"
     }
   ],
   "policy": "Originals are never committed to wikitest or RAWLOGS. This registry maps each item to its canonical location (Google Photos share URL or Drive path). Compressed derivatives for wiki entries live under media/<batch-slug>/ and are referenced from the src:/dat: nodes. Censorship rule (2026-09-12, Dan's directive): embedded derivatives showing nudity or sexual activity are pixelated/blurred before commit. The uncensored original stays at its canonical location and is never committed.",
