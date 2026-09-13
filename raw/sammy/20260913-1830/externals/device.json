@@ -1,0 +1,9 @@
+{
+ "source": "device",
+ "status": "no_read_path",
+ "pulled_at": "2026-09-13T19:05:00Z",
+ "watermark_from": null,
+ "count": 0,
+ "new_items": [],
+ "note": "No read path for iOS texts in the device-data skill (standing finding). Not checked."
+}

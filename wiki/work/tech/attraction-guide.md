@@ -55,6 +55,44 @@ moved to `/game.html`.
   precision-based. Provider-agnostic — bring your own vision API key
   (stored in localStorage), per-run custom instructions.
 
+## 2026-09-13 Telemetry Lab methodology corrections
+
+On 2026-09-13 Dan ran an improvement pass over the Telemetry Lab and it
+turned into an audit — the kind where the instrument confesses. The changes:
+
+- **Pose, decomposed.** The face transformation matrix was broken out into
+  explicit pitch/yaw/roll instead of one opaque transform, so pose effects
+  can be read off directly instead of hiding inside a black-box matrix.
+- **"Bootstrap" renamed.** The resampling step was called a bootstrap; it
+  wasn't one. It's landmark-noise jitter now — the new name says what the
+  code actually does, and stops laundering a statistical claim the
+  instrument never earned.
+- **Honest uncertainty.** The Wilson score interval display was corrected
+  to show its real states: n=0 and n<4 now render as what they are —
+  no-data and thin-data — instead of drawing confident-looking intervals
+  over nothing.
+- **Ethnicity selector from the actual bank.** The selector is populated
+  from the face library's real groups now, not a generic list that implied
+  coverage the bank doesn't have.
+- **Geometry in pixel space, roll-corrected.** Landmark geometry moved to
+  pixel space with roll-corrected canthal tilt — the tilt metric no longer
+  inherits head-roll as if it were facial structure.
+- **The heavy tail was the detector.** The phase-1 adiposity "heavy tail"
+  — the thing that looked like a real distributional finding about his
+  preferences — traced to a detector artifact. After the fix the reported
+  SD collapsed 0.0364 → 0.0155. The actual remaining confound moved to the
+  phase-2 jaw-soft variants, where it belongs.
+
+Harness: 55/55 checks green after the pass. Still open: the JS drift audit
+is blocked pending harness infrastructure. The JS port's 27/27
+cross-validation against the Python reference (noted above) predates these
+corrections — the port needs re-validation against the corrected lab.
+
+The through-line is the one Dan keeps enforcing: audit the instrument, then
+trust it. A preference-mapping pipeline that can't tell you when its own
+detector is lying to it isn't measuring Dan — it's measuring itself.
+Evidence: `dat:1505-telemetry-lab-methodology-corrections-20260913`.
+
 ## The Frame Describe lexicon v0.1
 
 The tool runs on Dan's own descriptive register, committed 2026-09-12

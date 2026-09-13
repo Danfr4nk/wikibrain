@@ -1,0 +1,9 @@
+{
+ "source": "facebook",
+ "status": "connected",
+ "pulled_at": "2026-09-13T19:05:00Z",
+ "watermark_from": "2026-07-04T15:51:25-04:00",
+ "count": 0,
+ "new_items": [],
+ "note": "timeline fetch --profile-id 580995252 --limit 3: newest post 2026-07-04T15:51:25-04:00 (id 10174620228845253, caption 'poetry'), exactly at watermark. 0 new."
+}

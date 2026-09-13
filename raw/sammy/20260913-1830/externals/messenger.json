@@ -1,0 +1,9 @@
+{
+ "source": "messenger",
+ "status": "connected",
+ "pulled_at": "2026-09-13T19:05:00Z",
+ "watermark_from": "2026-08-26T22:23:43.707Z",
+ "count": 0,
+ "new_items": [],
+ "note": "threads: 2 cached threads; newest_cached_ts 1787783023707 = 2026-08-26T22:23:43.707Z, exactly at watermark (Kristin Shaelene snippet 'Ew lol' unchanged). 0 new."
+}
