@@ -10,6 +10,19 @@ extraction = "iPhone 6 EXIF with live GPS; all three frames at the same Hopwood 
 importance = 3
 tags       = ["frances-coldren", "family", "photographs"]
 created    = "2026-09-11"
+updated    = "2026-09-12"
 +++
 
 <!-- prose for humans; the frontmatter is for machines -->
+
+> **CORRECTION [2026-09-12] — location assertion SUPERSEDED.** The claim
+> "at Fran's Hopwood house (GPS 39.8876,-79.7221)" is superseded and no
+> longer asserted. Dan stated 2026-09-12 that the photos were taken at
+> **155 Virginia Ave**, and a GPS computation
+> (`dat:bong-photos-gps-virginia-ave-20260912`) places the EXIF fix
+> (39.887639,-79.721992) 29.6m from the geocoded 155 Virginia Ave point
+> versus 83.4m from 117 Belmont Cir — consistent with 155 Virginia Ave,
+> inconsistent with the Fran's-house attribution, with the usual
+> indoor-GPS and geocode-approximation caveats. The original text above is
+> preserved intact; only the location assertion is superseded. The rest of
+> this node stands.

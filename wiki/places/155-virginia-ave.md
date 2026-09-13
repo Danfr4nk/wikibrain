@@ -91,6 +91,17 @@ they were Fran's caregivers until her March 2018 fall — paid full-time for rou
 the terminal vigil — Dan was served an eviction notice for 155 Virginia by
 Dian V. Moore, demanding the keys.
 
+> **PHOTO LOCATION [2026-09-12].** The 2015-12-11 Fran bong triple — three
+> iPhone frames of Fran Coldren, then 95, posing delightedly with Dan's
+> glass bong — was taken **at this address**, not at Fran's house as the
+> 2026-09-11 batch recorded. Dan stated it outright 2026-09-12, and the
+> EXIF GPS (39.887639,-79.721992) lands 29.6m from the geocoded 155
+> Virginia Ave point versus 83.4m from 117 Belmont Cir
+> (`dat:bong-photos-gps-virginia-ave-20260912`; the earlier Hopwood-house
+> attribution in `dat:1409` is superseded, with indoor-GPS caveats kept on
+> the record). Fran at the Virginia Avenue lair, two months into the Annie
+> relationship: she was a guest in their space, not the other way around.
+
 > **GAP CLOSED [2026-08-22]:** This page read, until now, *"the residence*
 > *timeline has him staying until February 2019, so the notice's outcome is*
 > *undocumented."* It is documented. A Fayette County summary summons filed

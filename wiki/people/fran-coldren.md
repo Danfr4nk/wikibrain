@@ -305,6 +305,16 @@ accidentally composing itself into rising smoke.
 > projection. No smoke, no smoking. His words, and a clean documented instance
 > of the good-faith visual-misread pattern: wrong on the read, right the moment
 > the mechanism was seen. See `dat:bong-photo-smoke-solved-dan-20260912`.
+>
+> **LOCATION CORRECTION [2026-09-12].** Dan stated the triple was taken at
+> **155 Virginia Ave**, not at Fran's house — and the EXIF GPS
+> (39.887639,-79.721992) backs him: 29.6m from the geocoded 155 Virginia
+> Ave point, 83.4m from 117 Belmont Cir. The 2026-09-11 batch's Hopwood-house
+> attribution is superseded (`dat:1409`, `dat:bong-photos-gps-virginia-ave-20260912`).
+> The December 2015 Fran at the Virginia Avenue lair — two months into the
+> Annie relationship, two years before the paid caregiving — reads
+> differently than Fran at her own table: she was a guest in their space,
+> holding court with the bong she'd called a lovely vase.
 
 He filmed most of that year, which is why any of it survives. His framing of
 what he was documenting is the right one: a wild spirit resisting institutional
