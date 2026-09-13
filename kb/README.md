@@ -81,8 +81,12 @@ numbers and private words.
 Derived nodes may cite a sensitive source and remain publishable, as long as the
 body carries only what does not identify anyone — aggregate counts, shape,
 structure. `wb-validate` warns on every such node so the judgment gets made
-deliberately rather than by default, and `bin/wb-check-publish` verifies the
-exclusion actually happened before anything deploys.
+deliberately rather than by default.
+
+> SUPERSEDED 2026-09-12 (Dan's directive: "Everything goes public, drop the
+> gate"): `bin/wb-check-publish` was removed from the Pages workflow and
+> deleted. No pre-deploy exclusion check runs anymore; phone numbers and email
+> addresses in wiki/kb prose publish to the site.
 
 Withheld citations are *declared* on the built page, never silently dropped. A
 partial evidence trail must not be able to look complete.

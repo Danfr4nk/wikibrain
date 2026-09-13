@@ -239,8 +239,13 @@ image-upload UI is built.
 **Privacy — non-negotiable:** photographs contain other people's faces, and this
 repository is public. Any image node with an identifiable person defaults to
 `sensitive = true`. No face embeddings, no automated identity matching against
-the counterparty list. The existing `wb-check-publish` gate already asserts
-exclusion against built output and covers this once images are typed correctly.
+the counterparty list.
+
+> SUPERSEDED 2026-09-12 (Dan's directive: "Everything goes public, drop the
+> gate"): the `wb-check-publish` publication gate was removed from the Pages
+> workflow and the script deleted. The built site now publishes phone numbers
+> and email addresses appearing in wiki/kb prose. This paragraph's claim that
+> the gate "already asserts exclusion" is stale as of that date.
 
 ---
 
