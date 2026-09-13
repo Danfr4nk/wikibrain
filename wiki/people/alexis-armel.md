@@ -631,7 +631,7 @@ every beat of it:
 | 2015-11-28 | Dan tells Annie the Alexis relationship's **origin** story (see the correction below) — Alexis is at this point still living with Dan in Uniontown |
 | 2015-11-29 ~2 AM | Meets Annie at the Uniontown Country Club, in the rain. *"I met someone that instantly changed my life"* is said **to Annie herself**, at 03:28, roughly an hour afterwards — not to a third party about her. Same evening, to Zachariah: *"Things are collapsing with lex"*. The same thread records a second golf-course meetup Nov 29, 6:40–7:30: *"meet you on the golf," "I'm on 3 tee," "I would sleep in the wet grass with you"* — distinct from the 2 AM sneak-out Dan places after the Nov 25 "danfranksgiving" party (see the testimony block below) |
 | 2015-11-29 14:54 | Dan names the tie holding her in the house: *"Ahhhh I know why she isn't leaving / Or like HASNT left / …she doesn't have another drug source"* |
-| 2015-11-30 | *"Alexis is sloshed"*; Suz offers Dan a car *"if I get Alexis out"* |
+| 2015-11-30 | *"Alexis is sloshed"*; Suz offers Dan a car *"if I get Alexis out"*; cover text to Alexis sent ~16:56 — *"she really isn't involved"* (active cover, `dat:alexis-cover-text-2015-11-30`); FB relationship field cleared 23:36, Dan's caption *"11/30/2015 official break up"* (`dat:official-breakup-2015-11-30`) |
 | 2015-12-01 | Alexis moves out of 155 Virginia — *"Helping lex leave"*; Zach ferries her: *"Zach has to take lex to blue moon"* |
 | 2015-12-02 | *"Listen I broke up with lex, I'm in love with Annie Ulmer"*; *"Alexis only left yesterday"* |
 | 2015-12-03 | Annie to Dan, 22:05: *"She refuses to walk past the bar where I'm standing"* — Alexis avoiding Annie at a bar, a week on |
@@ -647,6 +647,32 @@ every beat of it:
 > together, and "that was the true minute Alexis and I split up." Filed as his
 > testimony (`dat:annie-origin-narrative-dan-20260912`); the table above keeps
 > its corpus datings, and the two are not reconciled here.
+>
+> **The cover text and the official breakup [2026-09-12 intake].** The
+> formalization left two same-day artifacts, both screenshotted by Dan. Around
+> 4:56 PM on ~Nov 30 — no EXIF on the text screenshots, so the date is
+> inferred: Dan's same-night caption dates the breakup 11/30, and Annie quotes
+> the line back verbatim on Dec 3 — Dan sent Alexis the cover text, captured in
+> draft (4:55) and sent (4:56) states: *"Hey I remembered that you and Anne are
+> supposed to work together tonight. Please leave her out of all of our
+> problems, she really isn't involved. I won't say anything else about it or
+> her, but it's not fair to blame her for the decisions we've both made that
+> led us here."* This is the cover-story mechanics in primary form: Annie was
+> the entire reason, and the text asserts the opposite. It cross-refs Dan's Nov
+> 29 0:01 line to Annie — *"She thinks I'm just creeping you"* — the same cover
+> maintained across channels. Alexis's replies, in full: *"im not going to
+> involve myself in any of that any more. @"* and *"I couldn't care less about
+> anne."* Her documented tone at the split is cold disengagement, not explosion.
+> That night at 11:36 PM Dan cleared the Facebook relationship field and
+> screenshotted it, captioning the cropped frame *"11/30/2015 official break
+> up"* — the caption is his retrospective dating on a contemporaneous
+> screenshot (EXIF 23:36:50). The formalization therefore reads as a two-day
+> process (Nov 29 vows, Nov 30 text and field-clear) or as Dan's retrospective
+> compression; both datings are kept. Filed as
+> `dat:alexis-cover-text-2015-11-30` and `dat:official-breakup-2015-11-30`;
+> source `src:annie-cover-text-screenshots-2015`. The *"supposed to work
+> together tonight"* line is a new primary sourcing of the established
+> coworker fact, not a new claim.
 
 > **CORRECTED 2026-08-15 — the "cheating" that this page dated to November 28,**
 > **2015 did not happen in 2015 at all, and the Florida move it was pinned to is**
@@ -897,7 +923,7 @@ already applies to the blind girlfriend-score model above.
 
 After the eviction, Alexis remains hostile toward Annie and Dan:
 
-- **Dec 3, 2015**: Alexis texts Annie: *"happy 7 years. enjoy your herpes. bye"* (16:29). Dan shows Annie. Dan drafts a text to Alexis asking her to lay off Annie. Annie edits it. Dan sends it (16:56). Alexis's phone goes off at the bar.
+- **Dec 3, 2015**: Alexis texts Annie: *"happy 7 years. enjoy your herpes. bye"* (16:29). Dan shows Annie. Dan drafts a text to Alexis asking her to lay off Annie. Annie edits it. Dan sends it (16:56). Alexis's phone goes off at the bar. The co-edit is now verbatim in the corpus: Annie — *"Just say instead of that 'i remembered that you and she are supposed to work together tonight'"* (quoting the Nov 30 cover line back as the template), *"'I don't want any problems between you two'"*, *"Instead of the first paragraph"*, *"Lemme read before you send"* — and after the send, *"She refuses to walk past the bar where I'm standing."* The cover was a joint Dan+Annie production, not Dan freelancing.
 - **Dec 9, 2015**: Alexis texts Annie: *"You don't need to come in"* (13:57). Annie quits CT's.
 - **Dec 14, 2015**: Alexis asks Dan for help. Dan refuses: *"I'm not actively trying to fuck her life up but I would neeeever do a single thing to HELP her"* (10:52).
 
@@ -968,3 +994,9 @@ and months-long concealment (2014 here, late-2014/early-2015 on
 is unresolved — see the note under [The hidden year
 (2014)](#the-hidden-year-2014).
 
+
+## Sources
+
+<a href="../../media/upload-049.jpg"><img src="../../media/upload-049.jpg" width="240" alt="Unsent draft of the cover text to Alexis, 4:55 PM"></a>
+<a href="../../media/upload-050.jpg"><img src="../../media/upload-050.jpg" width="240" alt="Sent cover text to Alexis with her replies, 4:56 PM"></a>
+<a href="../../media/upload-051.jpg"><img src="../../media/upload-051.jpg" width="240" alt="Facebook relationship field cleared, captioned 11/30/2015 official break up"></a>

@@ -378,6 +378,19 @@ testimony-only; the formalization is real-time text. The synthesis's "one day
 apart" dating (Alexis end Nov 28, Annie start Nov 29) now reads as the
 formalization layer; the rupture layer ran in person, days earlier, unwritten.
 
+The formalization has same-day artifacts beyond the vows. Around 4:56 PM on
+~Nov 30 Dan sent Alexis the cover text — *"Hey I remembered that you and Anne
+are supposed to work together tonight. Please leave her out of all of our
+problems, she really isn't involved"* — asserting the opposite of the truth
+while Annie was the entire cause (`dat:alexis-cover-text-2015-11-30`); Alexis
+answered with cold disengagement (*"I couldn't care less about anne"*). That
+night at 11:36 PM Dan cleared the Facebook relationship field and captioned
+the screenshot *"11/30/2015 official break up"*
+(`dat:official-breakup-2015-11-30`) — his retrospective dating on a
+contemporaneous screenshot. On Dec 3 Annie co-authored the follow-up text live
+at her workplace, quoting the Nov 30 line back as the template. Formalization
+is therefore a Nov 29–30 two-day process in the record, not a single timestamp.
+
 ## Gaps
 
 - **Emilio's surname, and his own channel.** The partner Annie left is named by the operator but appears in no export of his own; everything known about him is relayed through Annie. Whether he is also the unnamed person who told Ellen about the car on Dec 2 is **not** established — Casey is the one both parties blame.
@@ -387,3 +400,6 @@ formalization layer; the rupture layer ran in person, days earlier, unwritten.
 
 
 
+## Sources
+
+<a href="../../media/upload-051.jpg"><img src="../../media/upload-051.jpg" width="240" alt="Facebook relationship field cleared, captioned 11/30/2015 official break up"></a>

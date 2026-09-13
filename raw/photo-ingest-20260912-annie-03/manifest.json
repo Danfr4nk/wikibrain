@@ -1,0 +1,56 @@
+{
+ "batch": "photo-ingest-20260912-annie-03",
+ "album_url": null,
+ "intake_source": "direct send in chat 2026-09-12 (third Annie drop)",
+ "photo_count": 5,
+ "pull_timestamp_utc": "2026-09-13T01:09:15.150788+00:00",
+ "pull_method": "direct device upload, staged from ~/workspace/user/media_library",
+ "files": [
+  {
+   "local_path": "workspace/user/media_library/image/49/493411a5751da4f60919e0fc9ed07a43d3075f1fd9b6e3af607dfdfdf990d539.jpg",
+   "upload_id": "upload-049",
+   "sha256": "493411a5751da4f60919e0fc9ed07a43d3075f1fd9b6e3af607dfdfdf990d539",
+   "bytes": 230927,
+   "gphotos_media_id": null,
+   "platform_timestamp": null,
+   "exif_datetime": null
+  },
+  {
+   "local_path": "workspace/user/media_library/image/06/060b30a6ef999974799b4f5d5768d0dee893e5070421ed7dd1d2d2bd15f39bc4.jpg",
+   "upload_id": "upload-050",
+   "sha256": "060b30a6ef999974799b4f5d5768d0dee893e5070421ed7dd1d2d2bd15f39bc4",
+   "bytes": 231009,
+   "gphotos_media_id": null,
+   "platform_timestamp": null,
+   "exif_datetime": null
+  },
+  {
+   "local_path": "workspace/user/media_library/image/ad/adf3fc6e30df60b660811939abcc87df37c9b790379724dbf26acbf3e0b2aebf.jpg",
+   "upload_id": "upload-051",
+   "sha256": "adf3fc6e30df60b660811939abcc87df37c9b790379724dbf26acbf3e0b2aebf",
+   "bytes": 73798,
+   "gphotos_media_id": null,
+   "platform_timestamp": null,
+   "exif_datetime": "2015:11:30 23:36:50"
+  },
+  {
+   "local_path": "workspace/user/media_library/image/8b/8bf4d2c628e026eb297d594d3dfbdd1a939f690c3fe53c0ec3fd0276467aee3b.jpg",
+   "upload_id": "upload-052",
+   "sha256": "8bf4d2c628e026eb297d594d3dfbdd1a939f690c3fe53c0ec3fd0276467aee3b",
+   "bytes": 79523,
+   "gphotos_media_id": null,
+   "platform_timestamp": null,
+   "exif_datetime": null
+  },
+  {
+   "local_path": "workspace/user/media_library/image/00/002d2bcd15819a38c5b050fd74e44fc13992a3993b0d04d0c49fd349344e583b.jpg",
+   "upload_id": "upload-053",
+   "sha256": "002d2bcd15819a38c5b050fd74e44fc13992a3993b0d04d0c49fd349344e583b",
+   "bytes": 83695,
+   "gphotos_media_id": null,
+   "platform_timestamp": null,
+   "exif_datetime": "2015:11:30 23:36:50"
+  }
+ ],
+ "notes": "Text screenshots (upload-049/050) carry no EXIF; send date ~2015-11-30 inferred (see dat:alexis-cover-text-2015-11-30). FB screenshots upload-051/053 EXIF 2015:11:30 23:36:50. Originals local-only, never committed."
+}

@@ -1,0 +1,92 @@
+[
+ {
+  "id": "upload-049",
+  "type": "image",
+  "count": 1,
+  "date": "2015-11-30 ~16:55 local (INFERRED: no EXIF; status bar 4:55 PM; dated by Dan's same-night '11/30/2015 official break up' caption + Annie's verbatim quote-back 2015-12-03 21:50 UTC; confidence moderate); sent by Dan in chat 2026-09-12 as the third Annie drop",
+  "share_url": null,
+  "local_path": "workspace/user/media_library/image/49/493411a5751da4f60919e0fc9ed07a43d3075f1fd9b6e3af607dfdfdf990d539.jpg",
+  "sha256": "493411a5751da4f60919e0fc9ed07a43d3075f1fd9b6e3af607dfdfdf990d539",
+  "dimensions": "828x1470",
+  "gps": null,
+  "description": "Unsent draft of the Alexis cover text ('Messages (2)' header, keyboard visible): 'Hey I remembered that you and Anne are supposed to work together tonight. Please leave her out of all of our problems, she really isn't involved. I won't say anything else about it or her, but it's not fair to blame her for the decisions we've both made that led us here.'",
+  "linked_nodes": [
+   "src:annie-cover-text-screenshots-2015",
+   "dat:alexis-cover-text-2015-11-30"
+  ],
+  "embed": true,
+  "embed_excluded": false
+ },
+ {
+  "id": "upload-050",
+  "type": "image",
+  "count": 1,
+  "date": "2015-11-30 ~16:56 local (INFERRED, same as upload-049; 'Today 4:56 PM' marker; no EXIF); sent by Dan in chat 2026-09-12 as the third Annie drop",
+  "share_url": null,
+  "local_path": "workspace/user/media_library/image/06/060b30a6ef999974799b4f5d5768d0dee893e5070421ed7dd1d2d2bd15f39bc4.jpg",
+  "sha256": "060b30a6ef999974799b4f5d5768d0dee893e5070421ed7dd1d2d2bd15f39bc4",
+  "dimensions": "828x1470",
+  "gps": null,
+  "description": "Sent version of the cover text (green bubble) with Alexis's replies: 'im not going to involve myself in any of that any more. @' and 'I couldn't care less about anne' \u2014 cold disengagement, not explosion.",
+  "linked_nodes": [
+   "src:annie-cover-text-screenshots-2015",
+   "dat:alexis-cover-text-2015-11-30"
+  ],
+  "embed": true,
+  "embed_excluded": false
+ },
+ {
+  "id": "upload-051",
+  "type": "image",
+  "count": 1,
+  "date": "2015-11-30 23:36:50 local (EXIF DateTime, status bar 11:36 PM); Dan's caption below frame: '11/30/2015 official break up' (retrospective dating); sent by Dan in chat 2026-09-12 as the third Annie drop",
+  "share_url": null,
+  "local_path": "workspace/user/media_library/image/ad/adf3fc6e30df60b660811939abcc87df37c9b790379724dbf26acbf3e0b2aebf.jpg",
+  "sha256": "adf3fc6e30df60b660811939abcc87df37c9b790379724dbf26acbf3e0b2aebf",
+  "dimensions": "828x638",
+  "gps": null,
+  "description": "Cropped Facebook iOS 'Edit Profile' screenshot: RELATIONSHIP field cleared to '---', partner picker empty; Dan's caption '11/30/2015 official break up' below the frame.",
+  "linked_nodes": [
+   "src:annie-cover-text-screenshots-2015",
+   "dat:official-breakup-2015-11-30"
+  ],
+  "embed": true,
+  "embed_excluded": false
+ },
+ {
+  "id": "upload-052",
+  "type": "image",
+  "count": 1,
+  "date": "2015-11-30 23:36 (no EXIF; same screen as upload-051/053, uncropped, status bar 11:36 PM); sent by Dan in chat 2026-09-12 as the third Annie drop",
+  "share_url": null,
+  "local_path": "workspace/user/media_library/image/8b/8bf4d2c628e026eb297d594d3dfbdd1a939f690c3fe53c0ec3fd0276467aee3b.jpg",
+  "sha256": "8bf4d2c628e026eb297d594d3dfbdd1a939f690c3fe53c0ec3fd0276467aee3b",
+  "dimensions": "828x1470",
+  "gps": null,
+  "description": "Uncropped variant of the FB relationship-clear screenshot (same screen as upload-051/053, no caption) \u2014 same-screen variant, thumbnailed via upload-051 only.",
+  "linked_nodes": [
+   "src:annie-cover-text-screenshots-2015",
+   "dat:official-breakup-2015-11-30"
+  ],
+  "embed": true,
+  "embed_excluded": false
+ },
+ {
+  "id": "upload-053",
+  "type": "image",
+  "count": 1,
+  "date": "2015-11-30 23:36:50 local (EXIF DateTime, status bar 11:36 PM); sent by Dan in chat 2026-09-12 as the third Annie drop",
+  "share_url": null,
+  "local_path": "workspace/user/media_library/image/00/002d2bcd15819a38c5b050fd74e44fc13992a3993b0d04d0c49fd349344e583b.jpg",
+  "sha256": "002d2bcd15819a38c5b050fd74e44fc13992a3993b0d04d0c49fd349344e583b",
+  "dimensions": "828x1470",
+  "gps": null,
+  "description": "Uncropped variant of the FB relationship-clear screenshot (same screen as upload-051/052, no caption) \u2014 same-screen variant, thumbnailed via upload-051 only.",
+  "linked_nodes": [
+   "src:annie-cover-text-screenshots-2015",
+   "dat:official-breakup-2015-11-30"
+  ],
+  "embed": true,
+  "embed_excluded": false
+ }
+]
