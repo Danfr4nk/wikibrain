@@ -105,6 +105,10 @@ connections:
   - page: wiki/mind/synthesis/closing-the-set
     type: evidences
     claim: "A corpus-wide search finds no second instance of Dan reporting a good outcome from an action he took, which makes the caregiving vigil the corpus's only documented case of the completion drive working end to end."
+  - { target: "[[wiki/mind/synthesis/annie-ally-contrast]]", type: references, claim: "That entry places her as a contextualizing figure in the Annie/Ally comparison: the axiom-proof bond against which both channels are measured." }
+  - { target: "[[wiki/mind/synthesis/chemical-architecture]]", type: contextualizes, claim: "That entry names her home as the unbroken setting of Dan's chemically maintained life: sixteen years of Suboxone taken inside the house she anchored, and the caregiving year lived under the same roof." }
+  - { target: "[[wiki/mind/synthesis/four-financial-inversions]]", type: references, claim: "That entry's inversion 1 runs on the 2020-08-21 distribution of her estate ($144,069.31 to Dan): the largest documented single capital event of the biography, and the funding floor of the Suz-backed years." }
+  - { target: "[[wiki/mind/synthesis/november-2005-hinge]]", type: contextualizes, claim: "That entry carries the Fran counter-case: the one relationship the hinge's axioms cannot explain is the evidence they have to absorb." }
 ---
 
 # Frances "Fran" Whyel Coldren
@@ -136,7 +140,7 @@ outrank both.
 | Age at death | **97** | Dan, 2017-12-29: *"a 97 year old woman with advanced dimentia"* |
 | Caregiving wage | **$15/hour** | Dan, 2018-04-06: *"$15 an hour to play video games with gram"* |
 | Paid full-time duration | **~6 months** (≈Oct 2017 – Apr 2018) | Dan, 2018-04-06: *"i spent the past 6 months looking after her full time"* |
-| Who authorised the pay | Judge Fred Adams | Dan, 2018-03-30: *"fred would have put the kaibosh on me being paid to watch gram"* |
+| Who authorised the pay | [[wiki/people/fred-adams|Judge Fred Adams]] | Dan, 2018-03-30: *"fred would have put the kaibosh on me being paid to watch gram"* |
 | Post-fall surgery | Yes | Dan, 2018-03-09: *"she got through the surgery"* |
 | Nursing-home admission | ~**2018-03-12** | Same message: *"supposed to go to a nursing home on monday"* |
 | Hospice began | ~**2018-04-01/02** | Dan, 2018-04-05: *"put her on hospice a couple days ago"* |
@@ -168,7 +172,7 @@ children of **Marion Edward Thomas Sr.** (b. 1877) and **Ida Ellen Conwell**
 The April 1940 census places Emmet, Fran and their infant daughter together in
 **Smithfield, Fayette County** — the arrival of the maternal line in the county
 it never leaves. Her only child, Diane — [[wiki/people/diane-moore|Diane Moore]]
-by her second marriage, and the "Dian V. Moore" who served the March 2018
+by her second marriage, and the "[[wiki/people/diane-moore|Dian V. Moore]]" who served the March 2018
 eviction notice — is Dan's maternal grandmother, which
 means the Whyel coal money, the Coldren legal connection and the estate that
 eventually reaches Dan all descend through one person — and that person spent
@@ -213,7 +217,7 @@ place her beside **Arnold Palmer's private plane**; per the 2026 capture, Dan
 extracted the full Palmer history out of her on golf-cart rides across the
 course during the caregiving year.
 
-The seat of all of it was **117 Belmont Circle**
+The seat of all of it was **[[wiki/places/117-belmont-circle|117 Belmont Circle]]**
 ([[wiki/places/117-belmont-circle]]), the three-storey house on the edge of the
 UCC fairway she held for over fifty years. Directly next door, for those same
 five decades, lived [[wiki/people/annie-ulmer|Annie Ulmer's]] grandparents —
@@ -236,12 +240,12 @@ elsewhere at far worse cost-benefit ratios. The corpus confirms the machine was
 in service — an April 2017 message walks someone through installing "SERATO DJ
 and driver for numark ns7 II" — though it does not date the gift.
 
-Every alias since (SLOPPP, MOGZART, GRIPNOTIC) and the involuntary sub-bass
+Every alias since (SLOPPP, MOGZART, [[wiki/interests/music/aliases/gripnotic|GRIPNOTIC]]) and the involuntary sub-bass
 signature running through them ([[wiki/interests/music/concepts/sub-bass-signature]])
 trace to the patronage of a woman born in a West Virginia coal town in 1920.
 
 The patronage also ran in a smaller, more ordinary register: **paid work at her
-house, timed around her Florida winters.** On **2016-01-18** Dan tells Annie he
+house, timed around her Florida winters.** On **2016-01-18** Dan tells [[wiki/people/annie-ulmer|Annie]] he
 has *"went to grams and made a list of work to do for her tomorrow"* because he
 needs money for a tux; Annie points out the event *"[isn't] until the end of
 February,"* and he answers *"I know but she leaves for fla this week."* The
@@ -260,17 +264,16 @@ winters the page otherwise refers to only in general terms.
 ## The caregiving arrangement (≈October 2017 – April 2018)
 
 This is the chapter the corpus changes most. The page previously described
-Dan and Annie as paid round-the-clock caregivers across "~2015–2018." Dan's own
+Dan and [[wiki/people/annie-ulmer|Annie]] as paid round-the-clock caregivers across "~2015–2018." Dan's own
 contemporaneous account is narrower and more specific: **six months, full time,
 at $15 an hour**, which places the paid arrangement at roughly October 2017
 onward and makes the earlier years informal rather than employed. The money
 came through the estate and was authorised by its trustee — in March 2018 Dan
 reasons that *"fred would have put the kaibosh on me being paid to watch gram
-if there was an ongoing issue,"* which puts [[wiki/people/fred-adams|Judge
-Adams]] directly in the payroll chain.
+if there was an ongoing issue,"* which puts [[wiki/people/fred-adams|Judge Adams]] directly in the payroll chain.
 
 The standing directive governing all of it was categorical, and both Dan and
-Suz were given it in the same terms: **keep me at home no matter what, do
+[[wiki/people/suzanne-frank|Suz]] were given it in the same terms: **keep me at home no matter what, do
 everything you can to not let me get taken from this house** — with the
 rationale everyone understood, that if she entered a facility once she was
 never getting out. She turned out to be right, which is why the directive
@@ -339,7 +342,7 @@ had predicted, her mind never returning, looping on a single question — *when
 am I leaving?*; was admitted to the Uniontown Hospital pediatric wing on
 **1 April**, a room secured by the donations she and Ira had made; was placed
 on **hospice around 1–2 April**, at which point staff **stopped feeding her**;
-and died on **4 April**, four days later, with Dan and Annie the only two
+and died on **4 April**, four days later, with Dan and [[wiki/people/annie-ulmer|Annie]] the only two
 people in the room. Three minutes later it began to snow. Full account:
 [[wiki/timeline/events/fran-death-vigil]].
 
@@ -353,7 +356,7 @@ recognisably the same disposition her great-grandson runs at
 ## The death moment, and Dan's retraction of it within 24 hours
 
 The most-quoted passage in this wiki's account of Fran is the moment of death:
-Annie asleep at the bedside, Dan awake and alone, silently attempting to
+[[wiki/people/annie-ulmer|Annie]] asleep at the bedside, Dan awake and alone, silently attempting to
 communicate with a woman who had been non-responsive for days — *"if you can
 hear me give me some kind of sign"* — and Annie waking him immediately after to
 say Fran had blinked for the first time in a week. He went to the bed, told her
@@ -375,7 +378,7 @@ twenty-four hours of the most emotionally loaded event of his life, holding a
 story that had visibly moved everyone he told it to, he went to the primary
 source, found the mundane cue that explained the timing — an alarm neither
 witness consciously registered — and corrected himself unprompted, to a
-family member, at no benefit to himself. The forensic method
+family member, at no benefit to himself. [[wiki/mind/concepts/forensic-method|The forensic method]]
 ([[wiki/mind/concepts/forensic-method]]) is usually documented pointed at
 politics, at Annie, at institutions. Here it is pointed at his own most
 consoling memory, and it wins.
@@ -387,7 +390,7 @@ his own final clause refuses that, and the wiki should too.
 
 Fran is the maternal source node of [[wiki/mind/synthesis/estate-money-spine]],
 and the corpus documents the anticipation as well as the arrival. In **January
-2018**, with her alive and declining, Dan writes to Annie about what comes
+2018**, with her alive and declining, Dan writes to [[wiki/people/annie-ulmer|Annie]] about what comes
 "after gram goes and we have a chance to get above water with the
 inheritance... i want to seriously get out of here." On **4 April 2018**, the
 day she died, he texts an acquaintance: *"inheritance will help with the
@@ -397,7 +400,7 @@ A first cheque arrived **27 April 2018**; he explains the delay on the rest
 himself — *"my inheritance doesn't get distributed until we liquidate all her
 assets."* The court-ordered distribution of **$144,069.31**, reduced by a
 $10,000 advance to a final **$134,069.31**, was released 1 September 2020,
-routed through Suz.
+routed through [[wiki/people/suzanne-frank|Suz]].
 
 These sit alongside genuine grief in the same week, sometimes the same day, and
 the page keeps both rather than choosing. The mourning was not performed — the
@@ -436,7 +439,7 @@ named herself — she did anything he asked, so he showed up for her.
 > *closure* and *not selfish* — not *completion*. See
 > [[wiki/mind/synthesis/closing-the-set]].
 
-She is also half the reason the Annie relationship carried a mythic charge: the
+She is also half the reason the [[wiki/people/annie-ulmer|Annie]] relationship carried a mythic charge: the
 deathwatch the two of them kept, three years into their decade, is the
 emotional high-water mark of the entire record of them as a couple.
 

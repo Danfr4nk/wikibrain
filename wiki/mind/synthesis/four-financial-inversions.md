@@ -1,4 +1,5 @@
 ---
+title: "The Four Financial Inversions"
 domain: mind
 page_type: synthesis
 status: active
@@ -63,11 +64,14 @@ connections:
   - page: wiki/mind/synthesis/august-26-block-retraction
     type: contextualizes
     claim: "The voided severance-horizon test (there was never a block; ~25 declarations Aug 15–19, none executed) removes the horizon high-provision-low-condolence named as the provision pattern's live test — the pattern stands, its test does not, and this entry does not re-erect it."
+  - { target: "[[wiki/people/fran-coldren]]", type: contextualizes, claim: "The 2020-08-21 distribution order \u2014 $144,069.31 of the Fran estate to Dan, the biography\u2019s largest documented single capital event \u2014 is inversion 1\u2019s funding floor and its dissipation the record of the inversion\u2019s ending." }
+  - { target: "[[wiki/mind/synthesis/kristin-channel]]", type: references, claim: "That entry uses this one\u2019s ~$19\u201323K ledger as its explicit comparator for what the $40 prices: five-figure medium of ongoing negotiation versus forty-dollar terminus." }
+  - { target: "[[wiki/people/rod-banks]]", type: documents, claim: "The five estate advances totalling $32,500 (2019-10-12 to 2020-04-17), authorised by Jason Adams and written by Rod Banks, are inversion 1\u2019s dated capital injections." }
 ---
 
 # The Four Financial Inversions
 
-The money in the Dan–Annie relationship did not flow one way for a decade.
+The money in the Dan–[[wiki/people/annie-ulmer|Annie]] relationship did not flow one way for a decade.
 
 It inverted four times.
 
@@ -79,8 +83,8 @@ Cut it at any inversion boundary and the piece you are holding will tell you a t
 
 The four, in order:
 
-1. **~2015–2020: Dan funds.** The household runs on his money, which is substantially his mother's money — Suz's cash provisioning, the estate advances, the 2020 distribution. Annie moves between jobs.
-2. **2023–2025: the landlord-debt years.** Dan working, Annie between jobs; the couple jointly accumulates ~$10,000 owed to John Paci at 307 E 76th St, serviced at $650/week in late 2024 and never retired. Plus a separate $7,000 Con Edison bill.
+1. **~2015–2020: Dan funds.** The household runs on his money, which is substantially his mother's money — [[wiki/people/suzanne-frank|Suz]]'s cash provisioning, the estate advances, the 2020 distribution. Annie moves between jobs.
+2. **2023–2025: the landlord-debt years.** Dan working, Annie between jobs; the couple jointly accumulates ~$10,000 owed to [[wiki/people/john-paci|John Paci]] at 307 E 76th St, serviced at $650/week in late 2024 and never retired. Plus a separate $7,000 Con Edison bill.
 3. **Mid-2024–Mar 2025: Annie funds.** Dan loses the Au Za'atar job involuntarily (August 2024); Annie becomes the household's sole earner — the Libby income, a second six-day-a-week job, the rent, the phone bill, a PNC loan, the shared drug budget — until the income is cut off by a death and a denied claim.
 4. **Feb 2025–: Dan supplies.** The move to Uniontown strips Annie of income, independence, and drug access simultaneously; Dan becomes her supply chain. This is the one inversion attributable to a decision rather than to circumstance, because the move that produced it was engineered by the party it benefited **[OPERATOR]**.
 
@@ -116,7 +120,7 @@ Nothing here duplicates those pages; everything here depends on them.
 
 ### The earliest record: "take people's money"
 
-The first financial statement in the relationship's record is Annie's.
+The first financial statement in the relationship's record is [[wiki/people/annie-ulmer|Annie]]'s.
 
 It is about whose money the household runs on.
 
@@ -206,7 +210,7 @@ The "paid her back for last night" line establishes cyclicality, not one-off hel
 Status: directly observed. The facility's *scale* (how much per month) is [UNKNOWN] — the record shows the rhythm, not the volume.
 
 **Claim 1c: Family capital, not wages, was the system's fuel.**
-Evidence: five estate advances totalling $32,500 (2019-10-12 → 2020-04-17), each authorised by Jason Adams and written by Rod Banks **[ATTESTED — rod-banks thread]**; the $144,069.31 distribution (court order 2020-08-21) **[ATTESTED]**; no sustained Dan wage record 2015–2020 in the corpus **[DERIVED absence — stated as a gap, not proof]**.
+Evidence: five estate advances totalling $32,500 (2019-10-12 → 2020-04-17), each authorised by Jason Adams and written by [[wiki/people/rod-banks|Rod Banks]] **[ATTESTED — rod-banks thread]**; the $144,069.31 distribution (court order 2020-08-21) **[ATTESTED]**; no sustained Dan wage record 2015–2020 in the corpus **[DERIVED absence — stated as a gap, not proof]**.
 Status: the capital arrivals are attested; the "not wages" half is an absence in the record, held as a gap.
 
 **Claim 1d: Annie moved between jobs while Dan funded.**
@@ -219,11 +223,11 @@ The Suz facility was not the only capital in the system.
 
 The family source-lines were moving on their own schedule underneath:
 
-- **2019-10-12 → 2020-04-17:** five estate advances totalling **$32,500**, each authorised by Jason Adams and written by [[wiki/people/rod-banks|Rod Banks]] — $5,000 / $10,000 / $7,000 / $3,000 / $7,500 **[ATTESTED — rod-banks thread, per estate-money-spine]**.
+- **2019-10-12 → 2020-04-17:** five estate advances totalling **$32,500**, each authorised by Jason Adams and written by Rod Banks — $5,000 / $10,000 / $7,000 / $3,000 / $7,500 **[ATTESTED — rod-banks thread, per estate-money-spine]**.
 - **2020-06-23:** a further **$10,000** advance — with a possible second $10,000 dated 2020-02-04 in the thread. The corpus does not settle whether these are two advances or one misdated. Held open **[ATTESTED with the stated ambiguity]**.
-- **2020-08-21:** the court signs the distribution order. **$144,069.31** of the Fran estate to Dan — the biography's largest documented single capital arrival **[ATTESTED]**.
+- **2020-08-21:** the court signs the distribution order. **$144,069.31** of the [[wiki/people/fran-coldren|Fran]] estate to Dan — the biography's largest documented single capital arrival **[ATTESTED]**.
 
-The estate-money-spine's finding stands behind this inversion: **a lump arrival survives about two quarters.**
+The [[wiki/mind/synthesis/estate-money-spine|estate-money-spine]]'s finding stands behind this inversion: **a lump arrival survives about two quarters.**
 
 $134,069.31 lands September 1, 2020.
 
@@ -332,7 +336,7 @@ Before the direction inverts, there is a hinge worth naming separately.
 
 It complicates every grievance that follows.
 
-In **~April 2021**, a month after starting at Au Za'atar himself (March 2021), **Dan got Annie the hostess job at the original East Village location** **[ATTESTED — au-zaatar page; DANSYNTH ingest corrected Dan's location to Midtown 58th & 1st, Annie's to the EV flagship]**.
+In **~April 2021**, a month after starting at Au Za'atar himself (March 2021), **Dan got [[wiki/people/annie-ulmer|Annie]] the hostess job at the original East Village location** **[ATTESTED — au-zaatar page; DANSYNTH ingest corrected Dan's location to Midtown 58th & 1st, Annie's to the EV flagship]**.
 
 She was later fired from it **with zero notice** — the au-zaatar page documents the "avatar of reliability" contrast in full.
 
@@ -340,7 +344,7 @@ The vector matters in both directions.
 
 It is Dan *providing* — a job, not cash.
 
-Provision in the high-provision-low-condolence register, where drafted instruments and logistics count alongside money.
+Provision in the [[wiki/mind/synthesis/high-provision-low-condolence|high-provision-low-condolence]] register, where drafted instruments and logistics count alongside money.
 
 And it is the last unambiguous provision *before* the debt years.
 
@@ -362,7 +366,7 @@ By 2023 the roles had flipped.
 
 Dan working — the Au Za'atar wage era.
 
-Annie between jobs.
+[[wiki/people/annie-ulmer|Annie]] between jobs.
 
 And the two of them **jointly accumulating debt to their landlord**, [[wiki/people/john-paci|John Paci]], at [[wiki/places/307-e-76th-st|307 E 76th St]].
 
@@ -469,7 +473,7 @@ Grievances need a face; ConEd doesn't have one.
 
 Step back from the personalities and look at the mechanism.
 
-In inversion 1, the household's credit facility was a person (Suz) with a next-day settlement rhythm.
+In inversion 1, the household's credit facility was a person ([[wiki/people/suzanne-frank|Suz]]) with a next-day settlement rhythm.
 
 In inversion 2, the facility was a landlord's patience — consumed in $650/week increments that never retired the principal.
 
@@ -579,7 +583,7 @@ The 690-shift block (March 2021–August 2024) ends.
 
 With it ends the wage era that had made inversion 2's "Dan working" half true.
 
-Annie became, **for the only extended stretch in the decade, the household's sole earner**.
+[[wiki/people/annie-ulmer|Annie]] became, **for the only extended stretch in the decade, the household's sole earner**.
 
 Rent. The phone bill. A PNC loan she'd been told to take out and never got help repaying. The shared drug budget **[ATTESTED — annie-ulmer.md "What the money did," as stated]**.
 
@@ -629,7 +633,7 @@ A detail worth promoting from the high-provision page: the three demand letters 
 
 Provision as drafted instruments, not cash.
 
-The rule from high-provision-low-condolence — provision (money, logistics, drafted instruments) precedes or substitutes for verbal consolation — is visible inside inversion 3's own paperwork.
+The rule from [[wiki/mind/synthesis/high-provision-low-condolence|high-provision-low-condolence]] — provision (money, logistics, drafted instruments) precedes or substitutes for verbal consolation — is visible inside inversion 3's own paperwork.
 
 He did not earn the income. He *documented* it, letterheaded it, made it legible.
 
@@ -699,7 +703,7 @@ She earned; he did not.
 
 The six-day weeks are [ATTESTED].
 
-The drug-budget line is consistent with the supply-network's terminal-phase finding that procurement was the relationship's load-bearing structure.
+The drug-budget line is consistent with the [[wiki/mind/synthesis/supply-network|supply-network]]'s terminal-phase finding that procurement was the relationship's load-bearing structure.
 
 **What it leaves out:** everything outside the rotation boundary.
 
@@ -768,7 +772,7 @@ A landlord finally out of patience with a debt past ten thousand dollars, forcin
 
 A **2026-08-13 operator capture** **[OPERATOR]** states that this is exactly the impression Dan built, and that he built it deliberately:
 
-- In the days after Eli brought Annie home (January 2025), Dan called Paci, told him the family could no longer service the balance, and asked him to **pretend to be in the process of filing an eviction** if Annie called. Paci agreed.
+- In the days after Eli brought [[wiki/people/annie-ulmer|Annie]] home (January 2025), Dan called Paci, told him the family could no longer service the balance, and asked him to **pretend to be in the process of filing an eviction** if Annie called. Paci agreed.
 - Dan told Annie the eviction was punishment for her having been sick in the hallway that night.
 - He **stopped paying new rent for two months** while letting the balance grow on a debt he had already decided not to pay, banking cash against it.
 - He used the manufactured deadline to move her back to Uniontown.
@@ -934,7 +938,7 @@ Scale and recruitment matter.
 
 Four pairwise comparisons the single-object frame makes visible:
 
-**1 vs 3: the mirror.** Inversion 1 (Dan funds via Suz, ~2015–2020) and inversion 3 (Annie funds via Libby, mid-2024–Mar 2025) are the cleanest mirror pair — each party's sole-provider era, each funded substantially by a third party's capital (Suz's liquidity; Libby's wages), each generating the decade's strongest grievance in its own favor. The mirror is imperfect in the load-bearing way: his era ran on *transmitted* capital (he did not earn it), hers on *earned* wages (she did). "I funded" means different things in the two rotations, and the grievances trade on the ambiguity.
+**1 vs 3: the mirror.** Inversion 1 (Dan funds via [[wiki/people/suzanne-frank|Suz]], ~2015–2020) and inversion 3 ([[wiki/people/annie-ulmer|Annie]] funds via Libby, mid-2024–Mar 2025) are the cleanest mirror pair — each party's sole-provider era, each funded substantially by a third party's capital (Suz's liquidity; Libby's wages), each generating the decade's strongest grievance in its own favor. The mirror is imperfect in the load-bearing way: his era ran on *transmitted* capital (he did not earn it), hers on *earned* wages (she did). "I funded" means different things in the two rotations, and the grievances trade on the ambiguity.
 
 **1 vs 4: the transmission rhyme.** In both, Dan is the node through which a necessity flows — Suz's cash in 1, the network's product in 4. The difference is origination vs. control: in 1 he transmits what his mother provides; in 4 he controls what Annie cannot otherwise get. Transmission can be replaced (another backstop); control cannot (single node). That is why inversion 1's dependency was soft and inversion 4's was structural.
 
@@ -1018,7 +1022,7 @@ Who provides reversed four times.
 
 The demand letters in inversion 3, the hostess job in the interlude, the supply chain in inversion 4: the register is constant while the direction oscillates.
 
-High-provision-low-condolence measured the register's level (1.79–2.49x provision, 0.45x sympathy).
+[[wiki/mind/synthesis/high-provision-low-condolence|High-provision-low-condolence]] measured the register's level (1.79–2.49x provision, 0.45x sympathy).
 
 This entry measures its *invariance under rotation*.
 
@@ -1040,7 +1044,7 @@ Not archived in `raw/`.
 
 Drawn from two separate apps — not a single combined ledger.
 
-- **Cash App:** Dan's "Total Sent" to Annie's `@Annelouise28` profile: **$139,184.96**. His account dashboard's all-contacts total: $138,249.40 sent against $20,243.37 received across 807 transactions — Annie the dominant destination of that outflow **[ATTESTED — screenshot; note the $935.56 gap between the profile total and the dashboard total, held as observed, unexplained]**.
+- **Cash App:** Dan's "Total Sent" to [[wiki/people/annie-ulmer|Annie]]'s `@Annelouise28` profile: **$139,184.96**. His account dashboard's all-contacts total: $138,249.40 sent against $20,243.37 received across 807 transactions — Annie the dominant destination of that outflow **[ATTESTED — screenshot; note the $935.56 gap between the profile total and the dashboard total, held as observed, unexplained]**.
 - **Venmo:** sent Annie's `@$Louisexoxo` **$99.8K**, received **$15.8K** back, across 448 payments **[ATTESTED — screenshot]**.
 - **Control:** a screenshot of a different contact (Shelby Breakiron) showing the same Sent/Received schema, confirming the figures are Dan's own flows rather than a joint account **[ATTESTED]**.
 
@@ -1112,7 +1116,7 @@ A net computed from exports would be a better one.
 
 The exports are not in `raw/`.
 
-**What would upgrade it:** the 2019 Cash App export (also missing — it would settle the $2,100 Ally figure too), or any month-by-month payment-app export covering 2015–2026.
+**What would upgrade it:** the 2019 Cash App export (also missing — it would settle the $2,100 [[wiki/people/ally-lubin|Ally]] figure too), or any month-by-month payment-app export covering 2015–2026.
 
 Until then, the figure stands as the best available measurement with its provenance on its sleeve.
 
@@ -1126,7 +1130,7 @@ Held together:
 
 | Inversion | The grievance (strongest form) | What it gets right | What it leaves out |
 |---|---|---|---|
-| 1. Dan funds (~2015–2020) | *I carried the household for five years on my family's money while she drifted between jobs.* | The Dan→Annie direction; her 2015-12-29 "our own money" concession. | The money was substantially Suz's before it was his (2016-01-01/02 provisioning routine); the $14K counter-flow Dan→Suz (2018). |
+| 1. Dan funds (~2015–2020) | *I carried the household for five years on my family's money while she drifted between jobs.* | The Dan→[[wiki/people/annie-ulmer|Annie]] direction; her 2015-12-29 "our own money" concession. | The money was substantially [[wiki/people/suzanne-frank|Suz]]'s before it was his (2016-01-01/02 provisioning routine); the $14K counter-flow Dan→Suz (2018). |
 | 2. Landlord debt (2023–2025) | *I was working and sending $650 a week against the debt.* | The payments [ATTESTED]; the wage-earner direction. | The balance never retired ($10K at accumulation, $10K at move-out); the debt was jointly accumulated; the $7K ConEd nobody claims. |
 | 3. Annie funds (mid-2024–Mar 2025) | *I worked six fucking days a week and you worried about having drugs, that's it.* | The sharpest true reversal of the decade; 2024 the most Annie-dominant year (0.46 ratio) by independent measurement. | The decade net ($119–123K the other way); the cutoff was a death (2024-10-13) and a denied claim, not his design. |
 | 4. Dan supplies (Feb 2025–) | *He moved me 300 miles into dependency through a deception I never detected* / *The eviction was coming anyway and the plan offered her anywhere.* | Hers: the authorship is conceded [OPERATOR]. His: the debt was real, the premise true. | Hers: the stated purpose (fresh start, her choice — meant sincerely). His: scale and recruitment — two months, a cooperating outsider, deleted messages. |
@@ -1193,7 +1197,7 @@ Each re-pricing generates a grievance that is accurate about the re-pricing and 
 
 And the family system behind inversion 1 generalizes the point.
 
-Agent-B's summary line — *"Money runs through women, not banks"* — is glib and load-bearing at once: Suz's $14,000 (2018, mother-ward), the $2,100 to Ally (2019, contested), the estate advances via Rod Banks, Suz itemizing the cost of her total availability.
+Agent-B's summary line — *"Money runs through women, not banks"* — is glib and load-bearing at once: Suz's $14,000 (2018, mother-ward), the $2,100 to [[wiki/people/ally-lubin|Ally]] (2019, contested), the estate advances via Rod Banks, Suz itemizing the cost of her total availability.
 
 The provision register is not Annie-specific.
 
@@ -1201,9 +1205,9 @@ What is Annie-specific is the scale ($119–123K — roughly the entire estate d
 
 ## Controls: the other channels
 
-Two smaller flows bound the Annie figure and keep the mechanism honest.
+Two smaller flows bound the [[wiki/people/annie-ulmer|Annie]] figure and keep the mechanism honest.
 
-**Suz, $14,000 (August–October 2018).**
+**[[wiki/people/suzanne-frank|Suz]], $14,000 (August–October 2018).**
 
 Dan drew ~$20,000 against the undistributed estate and transferred ~$14,000 to his mother.
 
@@ -1219,7 +1223,7 @@ It proves the register is directional-flexible: it follows the bond, not the gen
 
 And it proves the family moves money on no paper as a standing practice, not an Annie-era exception.
 
-**Ally, $2,100 (Aug–Oct 2019, contested).**
+**[[wiki/people/ally-lubin|Ally]], $2,100 (Aug–Oct 2019, contested).**
 
 *"i've sent 2100 and have like 2 pictures and im STILL trying"* — documented as an offer, disputed by Ally in 2019 and again in 2026 (*"there's no proof you ever sent me $2100 except your [screenshot]"*).
 
@@ -1236,7 +1240,7 @@ Both touch what the net *means*: the number measures one bond's throughput on a 
 ## Predictions and falsifiers
 
 **1. The inbound sweep.**
-If the payment-app exports are ever pulled into `raw/`, the Annie→Dan direction will show *some* flow — the spine's revision already expects it ("the inbound side has simply never been swept").
+If the payment-app exports are ever pulled into `raw/`, the [[wiki/people/annie-ulmer|Annie]]→Dan direction will show *some* flow — the spine's revision already expects it ("the inbound side has simply never been swept").
 Prediction: it will not approach the $119–123K net's order of magnitude, because the $16–20K received figure already captures the app-visible inbound and the gap is ~$100K.
 Falsifier: app-visible Annie→Dan flow above ~$40K would force the net — and the six-to-one — to be restated.
 
@@ -1258,7 +1262,7 @@ This is unfalsifiable in the near term by construction — it predicts a propert
 The staged-eviction decode rests on the operator capture plus the 167-day thread silence and the "Do it about 9" resumption.
 Falsifier (per john-paci.md's own predictions): any recovered message in which Paci refers to the eviction as fictitious, any Annie-side message showing she knew, or a rent receipt dated 2025-01-05→move-out.
 
-**6. The "via Suz" qualifier.**
+**6. The "via [[wiki/people/suzanne-frank|Suz]]" qualifier.**
 A sustained 2015–2020 Dan earned-income record would revise inversion 1's funding characterization.
 The corpus holds none; the prediction is that none will surface, because the estate/Suz capital is sufficient to explain the period and the Au Za'atar wage era's March 2021 start is documented as a beginning, not a continuation.
 
@@ -1316,7 +1320,7 @@ It is carried here so the future pass finds it.
 
 - **The Paci letter date.** [[wiki/people/john-paci]] (2025-03-05 10:42 ET) and [[wiki/places/307-e-76th-st]] line 127 say 2025; [[wiki/people/annie-ulmer]] and 307-e-76th-st line 69 say 2026. This entry adopts 2025 as better-supported (timestamped; arithmetically coherent with "two weeks after the move") but the conflict is wiki-internal and needs a primary re-check of the letter itself, not a vote.
 - **The inbound side was never swept.** The $16–20K received figure is app-visible inbound on two apps at a point in time; a full export could revise it. The spine flagged this 2026-08-23; it is still open.
-- **The 2019 Cash App export** would settle the $2,100 Ally figure and sharpen the early-inversion-1/late-2019 boundary. Not in `raw/`.
+- **The 2019 Cash App export** would settle the $2,100 [[wiki/people/ally-lubin|Ally]] figure and sharpen the early-inversion-1/late-2019 boundary. Not in `raw/`.
 - **The Libby second employer** (*"I'll be here 6 days a week"*) appears nowhere in [[wiki/work/]] or on Annie's page — the only part of her 2024 income the wiki cannot see at all, and therefore the only part of inversion 3's inbound side that is unattested.
 - **The $75/hr vs ~$167/hr Libby rate contradiction** is held open on [[wiki/people/libby]]; resolving it would sharpen inversion 3's income measurement.
 - **Whether the $10,000 Paci balance or the $7,000 ConEd bill was ever paid**, in whole or part — no record past 2025-07-25.
@@ -1325,22 +1329,22 @@ It is carried here so the future pass finds it.
 - **The Cash App / Venmo overlap question**: whether any transfers appear in both ledgers (double-counted if summed — which is why this entry follows the people page in treating them separately rather than summing).
 - **The $935.56 gap** between the Cash App profile total ($139,184.96) and the all-contacts dashboard total ($138,249.40) is observed and unexplained — small against the net, noted for the re-audit.
 - **Annie's full 2015–2020 employment history** is fragmentary (CT's Dec 2015 attested; the rest is "moved between jobs" as summary). A fuller record could sharpen inversion 1's "between jobs" half.
-- **Dan's 2015–2020 earned income**, if any sustained source exists in the corpus, would revise inversion 1's "via Suz" qualifier. None found; the gap is stated, not assumed empty.
+- **Dan's 2015–2020 earned income**, if any sustained source exists in the corpus, would revise inversion 1's "via [[wiki/people/suzanne-frank|Suz]]" qualifier. None found; the gap is stated, not assumed empty.
 - **The December 2025 PNC incident** — a Cash App transfer and a $21.99 music-sample-service charge appearing on Annie's PNC account (*"I DID NOT INITIATE THOSE PAYMENTS… If you had anything to do with them, you better tell me now!!!!"*) — is a late money event inside inversion 4's window that this entry does not integrate. It belongs to a future pass on the terminal-phase finances.
 - **The PNC loan's own terms** — the loan Annie was "told to take out and never got help repaying" — amount, lender terms, and current status are all unattested. Inversion 3's liability side is thinner than its income side.
 
 ## Limits of record
 
-**Observed directly:** the 2015-12-29 "take people's money" / "our own money" exchange; the 2016-01-01 $60/$100/Suz-backstop exchange; the 2016-01-02 bank-run message; the 2015-12-14 CT's schedule exchange; the Paci settlement letter (2025-03-05 10:42 ET) and July 25 2025 follow-ups; the $650 November 2024 payment ("to tell John"); Annie's 2025-01-05 "I paid all of the rent"; the 2025-02-04 ConEd cutoff message; the 167-day Paci thread silence (2024-08-18 → 2025-02-01) and its two-row resumption; the payment-app screenshots (2026-07-15) with their exact figures; the year-by-year message ratios; "I WORK 6 FUCKING DAYS A WEEK" (2024-11-15); the Libby $500/3-hours message (2024-05-17); the three demand letters (last 2024-08-13); "I got the letter I was denied unemployment" (2025-03-31); the 2025-07-28 "only way you would see me" statement; the five-handoffs-in-six-days terminal window; the December 2025 PNC "I DID NOT INITIATE THOSE PAYMENTS" message.
+**Observed directly:** the 2015-12-29 "take people's money" / "our own money" exchange; the 2016-01-01 $60/$100/Suz-backstop exchange; the 2016-01-02 bank-run message; the 2015-12-14 CT's schedule exchange; the Paci settlement letter (2025-03-05 10:42 ET) and July 25 2025 follow-ups; the $650 November 2024 payment ("to tell John"); [[wiki/people/annie-ulmer|Annie]]'s 2025-01-05 "I paid all of the rent"; the 2025-02-04 ConEd cutoff message; the 167-day Paci thread silence (2024-08-18 → 2025-02-01) and its two-row resumption; the payment-app screenshots (2026-07-15) with their exact figures; the year-by-year message ratios; "I WORK 6 FUCKING DAYS A WEEK" (2024-11-15); the Libby $500/3-hours message (2024-05-17); the three demand letters (last 2024-08-13); "I got the letter I was denied unemployment" (2025-03-31); the 2025-07-28 "only way you would see me" statement; the five-handoffs-in-six-days terminal window; the December 2025 PNC "I DID NOT INITIATE THOSE PAYMENTS" message.
 
 **Reported (operator testimony):** the 2026-08-13 staged-eviction capture in full (the January 2025 plan, Paci's agreement, the two months of withheld rent, the deleted messages, the stated fresh-start purpose); Dan's April 27 2025 "shot clock" account ($10,000 owed + $7,000 ConEd as the financial reality); the "roughly the first five New York years" funding characterization; the Au Za'atar hostess-job hiring (~April 2021).
 
 **Calculated:** the $119K–$123K net and six-to-one ratio (from screenshots, not exports — derivation shown above); the $935.56 Cash App internal gap (observed, unexplained); the message-ratio table; the ~$167/hour implied Libby rate (against the $75/hour letter rate — contradiction held open).
 
-**Inferred:** the "via Suz" qualifier on inversion 1 (strong convergence: the provisioning routine + the estate capital + Annie's own "take people's money"); the grievance machine's rule (local truth proportional to rotation totality); the provision register as the mechanism under the inversions (via high-provision-low-condolence's measured 1.79–2.49x/0.45x split); the reading of inversion 4's currency change (money → procurement) as the same architecture at a different layer; the 1-vs-3 mirror's earned-vs-transmitted asymmetry.
+**Inferred:** the "via [[wiki/people/suzanne-frank|Suz]]" qualifier on inversion 1 (strong convergence: the provisioning routine + the estate capital + Annie's own "take people's money"); the grievance machine's rule (local truth proportional to rotation totality); the provision register as the mechanism under the inversions (via [[wiki/mind/synthesis/high-provision-low-condolence|high-provision-low-condolence]]'s measured 1.79–2.49x/0.45x split); the reading of inversion 4's currency change (money → procurement) as the same architecture at a different layer; the 1-vs-3 mirror's earned-vs-transmitted asymmetry.
 
 **Disproven:** the "$10,000 paid down" reading (corrected 2026-08-10 — the balance held flat from ~2023 to move-out); the "Annie unemployed for a full year after the 2023 firing" account for 2024 (corrected 2026-08-23 — she held paid work through most of it); the "forced exit" reading of February 2025 (corrected 2026-08-13 — the eviction was arranged); the "$750/week from Suz" rate and its direction (corrected 2026-08-18 — single accusation, generalized by a secondary source; largest 2018 flow ran Dan→Suz); the `+19173631636`-as-Paci attribution (corrected 2026-08-13 — the thread is Jim's).
 
-**Disputed:** the $2,100 Ally figure (offer documented, figure contested, no export); the $75/hr vs ~$167/hr Libby rates (both first-hand, unreconciled); the Paci letter's year (2025 vs 2026 across pages — adopted 2025, flagged); whether the 2020-02-04 and 2020-06-23 $10,000 estate advances are two events or one misdated (corpus does not settle).
+**Disputed:** the $2,100 [[wiki/people/ally-lubin|Ally]] figure (offer documented, figure contested, no export); the $75/hr vs ~$167/hr Libby rates (both first-hand, unreconciled); the Paci letter's year (2025 vs 2026 across pages — adopted 2025, flagged); whether the 2020-02-04 and 2020-06-23 $10,000 estate advances are two events or one misdated (corpus does not settle).
 
 **Unknown:** the inbound-side sweep; the 2019 Cash App export; the Libby second employer; post-2025-07-25 Paci/ConEd payment status; the Sept 2020–early 2021 burn decomposition; the $139K's drug/household/gift split; Cash App/Venmo overlap; Annie's full 2015–2020 employment record; any sustained Dan earned income 2015–2020; the PNC loan's terms and status.
