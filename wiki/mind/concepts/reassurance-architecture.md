@@ -1,536 +1,241 @@
 ---
 domain: mind
 page_type: concept
-title: "The Reassurance Architecture — Check-Ins, Reaffirmation, and Why They Become Load-Bearing Under Stakes"
-aliases: ["reassurance architecture", "the check-in loop", "validation loop"]
-status: stable
+title: "The Reassurance Architecture — Check-Ins, Reaffirmation, and Why They Never Land"
+status: active
 knowledge: earned
-importance: high
-date_created: 2026-08-22
-date_modified: 2026-08-23
-tags: [attachment, relationships, personality-profile, mental-health, forensic-analysis]
+date_created: 2026-08-04
+date_modified: 2026-09-13
 sources:
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/dox-scan/DanAnnie_MasterRecord_FINAL.docx
-  - raw/self/dox-scan/DanAnnie_CompleteAnalysis_Final.docx
-  - raw/self/dox-md/Honest assessment and value judgment analysis.md
-  - raw/self/dox-scan/Dan Profile.txt
+  - src:imessage-corpus-2026
+  - src:old-wiki-export-2026-09-04
+  - kb/data/0755-reassurance-phrase-zeros-replicate-counts-diverge.md
+  - kb/data/0754-reassurance-architecture-crisis-day-table-verified.md
+  - kb/data/0081-explicit-commitment-architecture.md
+  - kb/interpretations/attachment-model-129-exits.md
+tags: [relationships, attachment, trauma-bond, trust, consistency, forensic-analysis, personality-profile]
 connections:
   - page: wiki/mind/concepts/attachment-model
-    type: instance-of
-    claim: "The check-in behaviour is the observable surface of the no-counter-rule architecture: a rule that cannot be closed by behavioural evidence must be re-confirmed by transmission, and each unresolved anomaly generates another request."
-  - page: wiki/mind/concepts/contact-gini
-    type: evidenced-by
-    claim: "Concentration tightens under load rather than distributing — 2025 is simultaneously the highest-volume year at 33,214 messages and the highest-concentration full year at 0.9576 — which is why a single node's silence is not an inconvenience but a total loss of signal."
-  - page: wiki/mind/synthesis/message-circadian-latency
-    type: evidenced-by
-    claim: "That page's reply-latency headline was retracted on 2026-08-23 and the corrected numbers relocate this page's deficit: Annie answered faster than Dan in every year from 2015 to 2026, so what was missing was never response but content, measurable as a 46-versus-18 character median in the final month."
-  - page: wiki/mind/concepts/calibrated-confidence
+    type: component-of
+    claim: "This page is the attachment model's observable surface: the check-in loop is what the no-counter-rule architecture looks like from inside a messaging thread. The model's 0-in-41,073 severance-signal count is this page's load-bearing negative."
+  - page: wiki/mind/concepts/explicit-verbal-commitment
+    type: component-of
+    claim: "The summons register ('call me,' 'you up') is the procedural half of that architecture: when words are the only acceptable confirmation and none arrive, he requests a channel instead of a compliment."
+  - page: wiki/mind/synthesis/provision-grammar
     type: parallels
-    claim: "Graded numeric confidence in casual text — 43 instances outbound against 2 inbound from 503 handles — is the same estimate-maintaining habit expressed in the epistemic domain that the check-in expresses in the relational one."
-  - page: wiki/mind/synthesis/read-receipt-forensics
-    type: escalates
-    claim: "When transmitted confirmation stops arriving the system substitutes measurement for it, and read-receipt timestamp analysis is the most developed instance of surveillance standing in for reassurance."
-  - page: wiki/mind/concepts/the-handed-mirror
-    type: parallels
-    claim: "Both behaviours end in delivery to a subject who did not request it, and both fail for the same reason: Dan models the act as offering scarce attention while the recipient experiences it as a proceeding opened against them."
-  - page: wiki/mind/concepts/document-fabrication
-    type: escalates
-    claim: "The August 18 2026 false-send — claiming the recording had gone to her mother and then admitting 'I knew you would suddenly come back to life' — is the check-in escalated into a manufactured stimulus designed to force a reading out of a channel that had stopped returning one."
+    claim: "That entry's substitution thesis — attachment expressed in countable transfers because transfers need no interpretation — is this page's summons register restated in the financial domain. Same mechanism, opposite medium."
+  - page: wiki/mind/synthesis/severance-declarations
+    type: references
+    claim: "The 129 severance declarations are the check-in loop's terminal register: when measurement fails long enough, the declaration fires as regulation. The Kristin-channel test shows the summons register ports to new attachments; the severance grammar does not."
+  - page: wiki/mind/synthesis/kristin-channel
+    type: tested-against
+    claim: "The 2026-09-13 portability test ran this page's registers against the Kristin thread: the summons register fires at near-Annie per-phrase rates, the canonical-question absence is system-wide, and the severance lexicon does not port. Findings filed here; channel dynamics remain that page's."
   - page: wiki/mind/profile/big-five-psychometrics
-    type: caused-by
-    claim: "Trust at the 9th percentile with Self-Consciousness at 91 supplies the trait-level mechanism for the short half-life of reassurance: low trust means a confirmation does not carry forward as a prior, so the estimate decays and must be refreshed."
-  - page: wiki/timeline/events/august-2026-unmasking
     type: evidenced-by
-    claim: "The sincere direct ask sits at the top of the escalation ladder and is the rarest move in the record — 'annie if I am being crazy I honestly want to know' at 00:38:10, read in zero seconds and never answered."
+    claim: "Trust at the 9th percentile and Self-Consciousness at 91 supply the profile-layer mechanism: confirmations do not carry as priors, and the social sensor runs hot. The 2026-08-16 lexical audit's high-provision/low-condolence split is the provision half of the check-in register."
+  - page: wiki/mind/synthesis/august-26-block-retraction
+    type: supersedes
+    claim: "The severance-horizon prediction this page once carried (a December 19, 2026 test date) is void: the August 26 block never happened, so there was no severance to measure. Dated retraction 2026-09-11."
 ---
 
-# The Reassurance Architecture
+*Part of the [[wiki/mind/index|mind domain]] — concept.*
 
 Dan's need for validation, check-in and reaffirmation is not a personality
-trait that happens to intensify under pressure. It is a **verification loop**
-that runs nearly silent at baseline and becomes the dominant behaviour under
-stakes, and it does so for a structural reason rather than an emotional one:
-the cognitive architecture holds a relationship as an active rule-set, and an
-active rule cannot be confirmed by inference. **It has to be transmitted.** When
-transmission stops, the system does not treat the silence as neutral. It treats
-it as evidence that the rule may have changed — which is the one question it
-cannot answer from the inside — and it escalates until it gets a reading.
-
-That mechanism is why the need becomes crucial specifically in emotional and
-high-stakes situations, and why it is close to invisible outside them. Stakes
-do not add emotion to a stable system. **Stakes multiply anomalies**, and every
-anomaly is a rule that now needs re-confirming.
-
-## The finding that reframes everything else: he almost never asks
-
-The obvious prediction is that a man with a documented reassurance need writes
-a great many messages asking for reassurance. Measured against 106,629 of his
-own sent messages, he does not.
-
-| Phrase (normalised, Sent only) | Messages |
-|---|---|
-| "do you love me" | **0** |
-| "are we ok" | **0** |
-| "am i crazy" | **0** |
-| "i cant do this" | **0** |
-| "i need you to tell me" | 1 |
-| "are you mad" | 1 |
-| "did i do something" | 2 |
-| "what did i do" | 3 |
-| "reassure" | 6 |
-| "promise me" | 9 |
-
-Zero, across eleven years, for the canonical phrasing. Whatever this need is,
-**it does not surface as a request for words of affirmation.** The literature's
-stereotype of reassurance-seeking is almost entirely absent from the corpus,
-and a page that had checked only for the stereotype would have concluded the
-trait was not there.
-
-It surfaces in four other registers, and each of them is measurable.
-
-### Register 1 — Volume. The burst is the request
-
-[[wiki/mind/synthesis/message-circadian-latency]] establishes across 175,358
-rows that **62.7% of Dan's inter-send gaps are under two minutes**, that the
-median gap is 1.0 minute, and that the longest unbroken run is **284
-consecutive messages**. The dossier record isolates the relational form of it:
-**94 high-volume burst events of ten or more consecutive Dan messages, every
-one of them preceded by Annie's silence.**
-
-That conditional is the whole finding. The bursts are not distributed randomly
-through the relationship and they are not a function of having a lot to say.
-They are triggered by non-response. The system's answer to an absent reading is
-to increase transmission until a reading returns.
-
-> **This is characterisation, never evidence about a given night.** The burst
-> profile is a fifteen-year constant across every relationship in the archive,
-> and [[wiki/mind/synthesis/message-circadian-latency]] states the rule
-> explicitly. A high message count on a particular evening proves nothing about
-> that evening.
-
-### Register 2 — Summons. The ask is for reachability, not for words
-
-What the corpus does contain in volume is a request that the channel be open.
-
-| Phrase (Sent only) | Messages |
-|---|---|
-| "call me" | **170** |
-| "you up" | **119** |
-| "pick up" | **89** |
-| "goodbye" | 57 |
-| "where are you" | **41** |
-| "are you ok" | 24 |
-| "hello?" | 22 |
-| "you there" | 19 |
-| "answer me" | 18 |
-| "i need to know" | 19 |
-
-Against zero instances of *"do you love me"*, there are **170 of "call me"**.
-The content of the confirmation is close to irrelevant; its **arrival** is the
-entire signal. This is consistent with the architecture rather than with an
-emotional reading — a rule-check does not need a compliment, it needs a
-response packet.
-
-### Register 3 — Measurement. When transmission fails, instrument the channel
-
-When the summons stops working the system does not give up on the reading. It
-stops asking for it and starts **taking** it.
-
-The location-sharing record is the cleanest instance. A ten-year norm of mutual
-GPS sharing was removed unilaterally by Annie in August 2025, following a night
-spent at a former partner's residence, and never restored across **44 explicit
-requests** — after which the removal was reframed as Dan making a controlling
-demand ([[wiki/mind/concepts/attachment-model]], Semantic Drift). The corpus
-carries 41 instances of *"where are you"*, 39 of *"location"* and 18 of
-*"find my"*.
-
-The developed form is [[wiki/mind/synthesis/read-receipt-forensics]] — reading
-`chat.db` `date_read` values to reconstruct wakefulness, and the associated
-finding that a directional asymmetry in that column will produce the opposite
-conclusion if read the wrong way. On the night of August 8–9, 2026, 34 of 44
-read receipts land in two seconds or less
-([[wiki/timeline/events/august-2026-unmasking]]). The instrumentation was
-correct. It also supplied no reassurance whatsoever, which is the point:
-measurement can establish that she was awake and cannot establish that the rule
-still holds.
-
-**Surveillance is what this architecture does when reassurance is unavailable,
-and it is a strictly worse substitute** — it answers a question the system did
-not need answered while leaving the one it did need open.
-
-### Register 4 — Estimate maintenance, in the epistemic domain
-
-The same habit shows up where no relationship is involved at all.
-[[wiki/mind/concepts/calibrated-confidence]] finds Dan attaching **graded
-numeric probabilities to his own beliefs in casual text 43 times** across
-106,629 outbound messages, against **2 instances** in 110,944 inbound messages
-from 503 other people — and of those, **15 graded values** (75, 80, 89, 90, 95)
-against **zero**. Nobody else in the corpus uses the scale; they use a word.
-
-This is the reassurance loop with the affect removed. A person who maintains a
-live numeric estimate of a belief is a person for whom the estimate can drift,
-and who therefore needs new observations to update it. Applied to a
-relationship, that is a check-in. The habit predates the AI-collaboration era by
-eight years, appearing in every year the dump covers, so it is not learned
-behaviour from talking to models.
-
----
-
-## What the primary record says the deficit actually is
-
-> **REVISED [2026-08-23].** The first version of this page assumed, from
-> [[wiki/mind/synthesis/message-circadian-latency]], that Dan was transmitting
-> into a channel that answered slowly — *"broadcasting into a slow or silent*
-> *void."* **That claim has since been retracted** (`RETRACTED.md`
-> §`latency-9x-asymmetry`); it does not reproduce from any on-disk export. The
-> correction does not weaken this page. It relocates its subject, and the
-> relocated version is both more specific and more testable.
-
-### She answered. She answered faster than he did, for eleven years
-
-Re-derived from the 2015–2019 Annie handle, one file, one method, year by year,
-and from the 6,495-message July–August 2026 export:
-
-| Year | n | Dan median reply | Annie median reply |
-|---|---:|---:|---:|
-| 2015 | 13,635 | 15 s | **11 s** |
-| 2016 | 12,572 | 27 s | **18 s** |
-| 2017 | 14,565 | 29 s | **18 s** |
-| 2018 | 22,045 | 26 s | **19 s** |
-| 2026 (Jul 23 – Aug 19) | 6,495 | 27 s | **15 s** |
-
-**There is no year in which Annie was the slower party, including the final
-month.** Corpus-wide across 181,585 messages the same pattern holds — Dan 32.0 s
-against 25.0 s under a flip-based method, 111 s against 59 s under the
-every-message method the retracted figure used.
-
-This kills the intuitive account of the check-in loop, which was that Dan
-escalates because nobody answers. **People answer, and the person he escalated
-at hardest answered fastest.** So the loop is not driven by silence, and any
-explanation resting on silence is wrong.
-
-### The deficit is length, and it is large
-
-The same July–August 2026 window, 6,495 messages over 28 days:
-
-| | Dan | Annie |
-|---|---:|---:|
-| Messages | 3,629 | 2,866 |
-| **Message ratio** | **1.27 : 1** | |
-| Characters | 268,638 | 74,262 |
-| **Character ratio** | **3.62 : 1** | |
-| Median message length | **46 chars** | **18 chars** |
-| Mean length | 74 | 25.9 |
-| p90 length | 170 | 53 |
-| Share of messages ≤10 chars | 13.1% | **29.2%** |
-
-By message count the channel is close to symmetrical — 1.27:1, which is what
-made "she wasn't responding" feel wrong to check. By volume of language it is
-**3.62:1**, and nearly a third of her side is ten characters or fewer.
-
-**That is the deficit the architecture cannot resolve.** A rule-checking system
-needs enough information in the reply to update the estimate. *"ok"*, *"?"*,
-*"Dan"* and *"wait"* are responses — they close the transmission request at rung
-1 — and they carry almost no information, so the anomaly they were sent to
-resolve stays open and the loop fires again. **Fast, short, and constant is the
-worst possible input for this architecture**: it removes every excuse to
-disengage while supplying nothing to conclude with. A slow channel would at
-least have produced a clean signal.
-
-### The character ratio is a crisis thermometer, and it is the best one found
-
-Daily, across the same window. Ordinary days sit at 2.0–3.0. The two worst days
-in the entire relationship are the two extremes:
-
-| Date | Dan msgs | Annie msgs | char ratio | what happened |
-|---|---:|---:|---:|---|
-| 2026-07-28 | 374 | 396 | 2.7 | high volume, both sides — not a crisis |
-| 2026-08-08 | 83 | 65 | 4.8 | the unmasking |
-| 2026-08-09 | 113 | 105 | 5.2 | the read-receipt night |
-| 2026-08-13 | 143 | 126 | 2.7 | the "good week" |
-| 2026-08-16 | 64 | **12** | **11.7** | the Morgantown call |
-| 2026-08-17 | 374 | 210 | 4.9 | the seventy-hour campaign opens |
-| 2026-08-18 | 267 | 120 | 6.3 | the false send |
-| 2026-08-19 | 141 | **53** | **12.3** | the severance |
-
-Note July 28: **770 messages in a day, near-perfect parity, ratio 2.7.** The
-highest-volume day in the window is not a crisis day. **Volume is not the
-signal** — which retires the intuitive reading of the burst and explains why
-[[wiki/mind/synthesis/message-circadian-latency]] is right to warn that the
-burst profile is a fifteen-year constant and must never be cited as evidence
-about a particular night. The character ratio separates the crisis days
-cleanly and the message count does not.
-
-### The bursts are also smaller than the record claims
-
-The dossier figure of **94 burst events of ten or more consecutive Dan
-messages**, and the *"longest unbroken run is 284 messages"* carried on
-[[wiki/mind/synthesis/message-circadian-latency]], describe the 2015–2018 era.
-Re-derived over the July–August 2026 window: **1,509 consecutive-Dan runs,
-median length 2, maximum 43, with 36 runs of ten or more and none above 50.**
-
-So the escalation in 2026 is not a bigger burst. It is the **same number of
-turns carrying four times the words**, which is a different behaviour with a
-different meaning — and it is invisible to every instrument that counts
-messages.
-
-## Why stakes make it crucial: the mechanism, in four parts
-
-### 1. Anomalies scale with stakes, and each one needs its own confirmation
-
-[[wiki/mind/concepts/attachment-model]] is the governing structure. A positive
-verbal commitment functions as an absolute rule that stays active until an
-explicit, unambiguous severance signal arrives; the system cannot generate a
-counter-rule from behavioural evidence. It does not fail to *see* contradicting
-behaviour — it sees it, finds it inconsistent with the active rule, and **flags
-it as an anomaly to be resolved** rather than closing the model.
-
-Under low stakes, few anomalies are generated and the loop is nearly dormant.
-Under high stakes — a suspected third party, a job ending, a house selling, a
-threat, a silence at 2 a.m. — anomalies arrive faster than they can be
-resolved, and each unresolved one is an open request. **The loop is
-load-scaling by design.** This is why the need does not merely intensify in
-crisis; it changes category, from a background preference to the organising
-behaviour of the day.
-
-### 2. There is no failover, so one node's silence is total
-
-[[wiki/mind/concepts/contact-gini]] recomputes the concentration of Dan's
-relational load at **0.9601 across 496 handles** from 184,359 rows — testimony
-converted to residue — and finds it is **not a constant**. It responds to load:
-the highest-concentration full year on record, 2025 at 0.9576, is also by a
-wide margin the highest-volume year at 33,214 messages, and the year of the
-collapse. Lifetime top-five share is **70.1%**: five handles carry
-seven-tenths of the entire archive.
-
-[[wiki/mind/synthesis/single-channel]] generalises it and names the consequence
-plainly: the architecture has no failover. So when stakes rise, the
-verification load does not spread across a support network. **All of it lands
-on the single node it is about**, which is also the node least able to answer
-it, because it is the node the stakes concern.
-
-### 3. Low trust gives reassurance a short half-life
-
-[[wiki/mind/profile/big-five-psychometrics]] puts **Trust at the 9th
-percentile**, alongside Self-Consciousness at 91 and Vulnerability at 78 — the
-bottom decile on the trait that determines whether a confirmation carries
-forward as a prior.
-
-This is the trait-level answer to the question the behaviour raises: why does
-reassurance not *hold*? Why does an answer at 11 p.m. not cover midnight? Because
-at Trust 9, a confirmation is a **local observation, not a durable prior**. It
-decays. The estimate has to be refreshed at intervals set by the decay rate
-rather than by anything the other person would consider reasonable, and both
-parties are then correct at once: he genuinely needs a new reading, and she has
-genuinely already given one.
-
-### 4. The evidence has to be admissible, which is why words fail
-
-[[wiki/mind/concepts/conflict-architecture]] and
-[[wiki/mind/concepts/forensic-method]] document the resolution engine: disputes
-are settled evidence-first, with documents, timestamps and reconstructions.
-That standard applies to reassurance too, and it is why the largest supply of
-reassurance in the corpus produced none of the effect.
-
-Annie issued **299 love affirmations** and **231 apologies with 278 commitment
-statements against zero measurable behavioural follow-through**, with **187 of
-191 affection expressions paired with a request** (96.6%). Under a forensic
-standard those figures do not read as reassurance. They read as an unreliable
-witness, and each one **generates a data conflict rather than resolving one** —
-an affirmation that contradicts the behavioural record is another anomaly, not
-an answer.
-
-**This is the cruel part of the architecture and it should be stated plainly:
-the system asks for a kind of confirmation that words alone are structurally
-incapable of supplying, and then treats every word offered as further evidence
-requiring adjudication.** No quantity of verbal reassurance can close it. That
-is not a failure of the person supplying it.
-
----
-
-## The escalation ladder
-
-Under rising stakes the same need expresses itself in a stable, ordered
-sequence. Each rung is reached only when the one below fails to return a
-reading.
-
-| Rung | Behaviour | Corpus instance |
-|---|---|---|
-| 1 | **Summons** — request that the channel open | *"call me"* ×170, *"you up"* ×119, *"pick up"* ×89 |
-| 2 | **Volume** — burst until answered | 94 bursts of 10+ consecutive messages, all preceded by her silence; longest run 284 |
-| 3 | **Measurement** — instrument the channel instead of asking it | 44 GPS requests after the Aug 2025 removal; read-receipt forensics; 34 of 44 reads in ≤2s on Aug 8–9 2026 |
-| 4 | **Manufactured stimulus** — fabricate an event to force a reading | The Aug 18 2026 false send: *"it wasn't actually sent, and I knew you would suddenly come back to life"* |
-| 5 | **Ultimatum** — maximum-amplitude confirmation request | 106 documented ultimatums, effectively all retracted |
-| 6 | **The sincere ask** — the rarest move in the record | *"annie if I am being crazy I honestly want to know"* (2026-08-09, 00:38:10) — read in 0 seconds, never answered |
-
-Two rungs deserve their own treatment because both are routinely misread.
-
-### The ultimatum is a check-in, and the retraction is what proves it
-
-The corpus records **106 ultimatums, all retracted**, and the standard reading —
-supplied by the AI assessment itself — is that this trained Annie empirically
-that Dan's stated limits do not exist, removing his own leverage. That reading
-is correct about the consequence and wrong about the intent, and the intent is
-recoverable from the base rate.
-
-A threat retracted approximately 100% of the time is not a threat. **It is the
-loudest available request for a reading**, and its retraction is not weakness —
-it is the loop terminating normally, because the check-in got answered. The
-ultimatum's function is to guarantee a response from a channel that has stopped
-producing them, and it works: an exit declaration is the one message in this
-record that never goes unanswered.
-
-This is also why it is the most expensive rung. Rungs 1–4 cost Dan credibility
-with himself; rung 5 spends the only real leverage in the relationship on a
-status query, every time.
-
-### The manufactured stimulus is the loop at its most destructive
-
-On August 18, 2026 Dan falsely claimed to have sent the Morgantown recording
-and her text logs to her mother's work email, then told her it was a test:
-*"it wasn't actually sent, and I knew you would suddenly come back to life."*
-
-That sentence is the clearest statement anywhere in the corpus of what the
-whole architecture is for. The stated purpose is not punishment, not leverage
-and not disclosure. It is **to make an unresponsive channel respond** — to
-generate a reading by force when every lower rung had failed. It sits two days
-after the August 14 fake Fayette County drug screen he built for her, spending
-forty minutes correcting the logo and the misspelled *panel*
-([[wiki/mind/concepts/document-fabrication]]). The same capability, pointed both
-ways inside four days: fabricate a document *for* her when asked plainly,
-fabricate a send *against* her when unanswered.
-
-The cost is that it destroyed the credibility of every subsequent assertion,
-including three the following morning that the email had already gone. **A
-reading obtained by fabrication is not a reading**, and the loop cannot use it —
-which is why the escalation continued rather than resolving.
-
----
-
-## Where the record cuts the other way
-
-The standard this repository runs on requires the counter-evidence to be stated
-at full strength, and there is a good deal of it.
-
-**The same behaviour is an imposition, and the recipient experiences it as
-one.** Annie's documented response — *"I cannot talk to you when you are like
-this"* — is catalogued on [[wiki/mind/concepts/attachment-model]] as
-cause-and-effect inversion, responding to the distress rather than to the
-withdrawal that caused it, and as a mechanism of the gaslighting architecture.
-That reading is sound and this page does not soften it. It is also true that a
-system which escalates on non-response converts **every pause into a
-provocation**, and 94 bursts conditional on her silence is a machine for
-manufacturing the withdrawal it fears. Both are true at once. The loop is a
-genuine need and a genuine pressure, and its worst property is that it makes
-the two indistinguishable from inside.
-
-**Verification demanded is not verification supplied.** Across the same period
-in which Dan issued 44 requests for restored location sharing, he engineered
-the February 2025 eviction with Paci's cooperation and concealed it from Annie
-([[wiki/people/annie-ulmer]]), and ran the August 2026 false-send. The check-in
-architecture is asymmetric in practice, and any account of it that presents it
-purely as need is incomplete.
-
-**It is not lifelong, and that is the sharpest limit on the whole page.** By
-Dan's own account, across seven years living with
-[[wiki/people/alexis-armel|Alexis]] he *"never even thought about a real future
-with"* her — companionship without the attachment system ever fully engaging.
-[[wiki/mind/concepts/attachment-model]] treats Annie as the first and only full
-activation. So this is not a constant of the organism. **It is what the
-organism does when the attachment system is engaged**, which means the
-prevailing evidence base for the entire concept is a single relationship, and
-generalising it to future ones is inference rather than measurement.
-
-**The delivery failure has a non-relational twin.**
-[[wiki/mind/concepts/the-handed-mirror]] documents the same engine in the
-analytical domain: the terminal step of an analysis is delivery to its subject,
-Dan models it as giving somebody the scarcest good there is, and the recipient
-experiences a proceeding. [[wiki/timeline/events/james-analysis-pdf]] is the
-controlled case — every critical passage removed in advance, the previous
-evening spent handing over two equally unflattering analyses of himself, and
-**twelve minutes** to *"OK, you can quit MASS texting me."* Removing every
-knife bought nothing. The parallel matters here because it establishes the
-failure is not about the content of what is transmitted, in either domain.
-
-**And the loop's worst case is documented: it does not resolve even at maximum
-amplitude.** Four independent source documents converge on **12 crisis or
-suicidal statements from Dan met with no substantive response** — logged
-replies include a twelve-hour silence, a bar name, and a complaint about
-laundry. Under the no-counter-rule structure a non-response is not a severance
-signal either. So the highest-amplitude signal the system can emit returns
-neither reassurance nor closure, and **leaves the loop running**. Any account
-of this architecture that reads it as manipulation has to explain that row, and
-cannot.
-
-**One substantive response exists in the whole record, and it is not sympathy.**
-On 2019-10-14, told the Pittsburgh funeral story in full,
-[[wiki/people/ally-lubin|Ally]] answers: *"I'm just confused how neither of you
-had money because you always send me cash app statements with like thousands of
-dollars."* The disclosure was **audited** rather than absorbed, ignored or
-reciprocated — the only documented instance of that class anywhere in the corpus
-([[wiki/mind/concepts/attachment-model]]). It belongs on this page because it is
-the only candidate for a response that could in principle satisfy a
-forensic-standard verification loop: it engages the evidence rather than
-asserting a feeling. Whether an audited disclosure closes the loop or opens
-another anomaly is untestable at n=1, and it is the sharpest version of this
-page's last Gap.
-
----
+quirk. It is a measurement system with the gain turned all the way up and
+no stable zero point — and eleven years of messages show exactly what it
+measures, what it never asks, and what happens when the readings come back
+empty.
+
+## The negative finding that anchors everything
+
+Across 99,332 sent rows with text in the held corpus, Dan writes
+**"do you love me" zero times. "are we ok" zero times. "am i crazy" zero
+times. "i cant do this" zero times.** [primary-verified — dat:0755] The
+four canonical reassurance questions — the sentences a textbook would
+predict from someone with his attachment profile — do not exist in eleven
+years of his outbound text. What exists instead is a procedural register:
+"call me" (129 held / 170 in the page's older export), "you up" (93/119),
+"pick up," "where are you," "you there" (19 in both exports — the one
+count that replicates exactly). He does not ask for compliments. He asks
+for a channel.
+
+The asymmetry is the finding: **zero interpretive requests against
+hundreds of procedural ones.** [conclusion from primary counts] Under the
+[[wiki/mind/concepts/explicit-verbal-commitment|explicit-verbal
+architecture]], this is not an accident of phrasing. A compliment is an
+interpretation task — it asks to be believed, and belief is exactly what
+the system cannot metabolize. A channel is a procedure: pick up, answer,
+transmit. Procedures have verifiable completion states. The check-in loop
+is built out of the only kind of confirmation the architecture can
+process.
+
+## The registers
+
+**The summons register** — "call me," "you up," "pick up," "where are
+you," "answer me," "you there." Short, imperative, channel-opening. These
+are not questions about the relationship; they are requests for
+transmission. Absolute counts are export- and normalizer-specific
+[methodological caveat — dat:0755]: the page's older 106,629-message
+export and the held 99,332-row export disagree on every non-zero figure
+("call me" 170 vs 129, "goodbye" 57 vs 207, "are you ok" 24 vs 0 — the
+held corpus has "are you okay" ×20, a normalizer-choice artifact). The
+robust part is the shape: zeros on the interpretive side, large numbers
+on the procedural side, in both exports.
+
+**The measurement register** — 43 location-related sent messages in the
+Annie thread [primary-verified — dat:0754; the page's "44 explicit
+requests" was counted after the August 2025 GPS-sharing removal]. Where
+are you, share your location, the GPS requests. Measurement as
+proximity: if the channel is open, the coordinates are the next thing the
+system wants.
+
+**The severance register** — "goodbye" at 207 in the held export against
+57 in the page's older one. The declaration fires when measurement fails
+long enough; the [[wiki/mind/synthesis/severance-declarations|129
+episodes]] are this loop's terminal form, not a separate phenomenon.
+
+## The deficit was length, not latency
+
+The page's own 2026-08-23 correction is the most important passage it
+contains, and the rebuild keeps it in substance: the original framing —
+bursts caused by silence, "broadcasting into a slow void" — was wrong,
+and the numbers proved it. **Annie answered faster than Dan in every year
+from 2015 to 2026** (2026: her 15 seconds against his 27). [page-attributed
+from the 2026-08-23 revision; the held corpus was not re-cut for latency
+in this pass] What moved in a crisis was not speed and not count — it was
+informational volume.
+
+July 23–August 19, 2026: 6,495 messages, Dan 3,629 / Annie 2,866, count
+ratio 1.27:1 — near parity. Character ratio **3.70:1** [primary-verified
+— dat:0754; the page's 3.62:1 is the older export's figure]. Median
+message length 46 vs 17 characters. The crisis-day table is the clean
+demonstration: July 28 runs 374/396 messages at ratio 2.8 (ordinary);
+August 16 runs 64/12 at ratio 11.9 and August 19 runs 141/53 at ratio
+12.6 (crisis). Count parity with a twelvefold character asymmetry. The
+loop was never starved of replies. It was starved of substance — and the
+system, built to measure, measured exactly that.
+
+## The portability test: the Kristin channel [new — 2026-09-13]
+
+The page's oldest open question was whether the loop predates Annie or
+belongs to the attachment system generally. The held corpus cannot test
+the pre-Annie direction (the Alexis era is outside it), but it can test
+the cross-attachment direction: the Kristin relationship (August–November
+2025, ~10 weeks, 10,102 sent / 9,562 received in the held export) is the
+only other romantic attachment in the record.
+
+Run against the Kristin, Annie, and Tom (male-friend control) threads with
+a documented normalizer (lowercase, idiomatic uses stripped, word-boundary
+match):
+
+- **The summons register ports.** "call me" at 0.79/1k sent (Kristin) vs
+  0.97/1k (Annie) vs 0.59/1k (Tom); "you up" at 0.79/1k vs 0.92/1k vs
+  0.29/1k. The check-in phrases fire in the new attachment at near-Annie
+  per-phrase rates — well above what a purely Annie-specific loop would
+  predict.
+- **The severance grammar does not port.** "goodbye" at 0.49/1k (Kristin)
+  vs 3.44/1k (Annie); "answer me" at zero in Kristin vs 22 in Annie. The
+  declaration ladder is the Annie-specific layer.
+- **The canonical-question absence is system-wide.** "do you love me,"
+  "are we ok," "am i crazy," "i cant do this" are zero in all three
+  threads — including the friend control. The filter against interpretive
+  reassurance-seeking is architectural, not relational.
+
+[status: conclusion from primary counts, 2026-09-13 cut — normalizer and
+handle sets documented above; function (logistical vs check-in) not
+disambiguated; the Kristin channel is ten weeks against Annie's eleven
+years] The loop's check-in layer generalizes to new attachments. Its
+severance-declaration layer does not. That split is now filed against
+[[wiki/mind/synthesis/severance-declarations|the severance grammar]] and
+[[wiki/mind/synthesis/kristin-channel|the Kristin channel]] as a standing
+discrimination test.
+
+## Through the profile lens
+
+- **Trust, 9th percentile.** Confirmations do not carry as priors: each
+  check-in's result decays, so the loop must re-run. This is the
+  mechanism behind "nearly silent at baseline, organizing under stakes"
+  — the sensor needs a reading, and old readings do not count.
+  [profile-evidenced — big-five-psychometrics]
+- **Self-Consciousness, 91st percentile.** The social sensor runs hot;
+  the 1.85× self-monitoring rate in the 2026-08-16 lexical audit is the
+  same gain turned inward. [profile-evidenced]
+- **Fe-inferior.** He craves connection and distrusts emotional reads —
+  the precise combination that produces a measurement system for
+  something he cannot directly perceive. [profile-evidenced — intp]
+- **The explicit-verbal architecture.** Stated things are absolute rules;
+  behavior supplies no counter-rule. The check-in loop is what that
+  architecture does when the rule it needs — *you are still here* — is
+  never stated: it measures proxies (channel, coordinates, character
+  counts) because it cannot interpret assurances. [concept-evidenced —
+  explicit-verbal-commitment]
+- **High provision, low condolence.** Instrumental generosity at
+  1.79–2.49× baseline against sympathy tokens at 0.45×. The provision
+  channel is the check-in register's financial twin — see
+  [[wiki/mind/synthesis/provision-grammar|Provision Grammar]] for the
+  full substitution thesis, which this page does not duplicate. [profile-
+  and synthesis-evidenced]
+
+## What does not survive the rebuild
+
+- **The dossier-arithmetic figures are unresolved, not confirmed.** The
+  106 ultimatums, the 299 love affirmations / 231 apologies / 278
+  commitments, the 94 bursts of 10+, the 284-message longest run — the
+  page itself flagged these as never re-derived, and dat:0755 leaves them
+  unresolved. They are not repeated here as findings. [2026-09-09]
+- **The "1,509 consecutive-Dan runs, median 2, max 43" figure is
+  unattested.** No kb node covers it; it does not appear in this pass's
+  held-corpus cuts (which find 230 Annie-thread runs of 10+, max 412 —
+  a different cut, not a refutation). Withheld pending a documented run.
+  [2026-09-13]
+- **The severance-horizon prediction is void.** The page once carried a
+  December 19, 2026 test date for the August severance. The August 26
+  block never happened — the severance was performed, not enacted — so
+  there was nothing to measure. Retracted 2026-09-11; see
+  [[wiki/mind/synthesis/august-26-block-retraction|the retraction]].
+  [SUPERSEDED 2026-09-11]
+- **The "127 false exits" figure is superseded by 129.**
+  [[wiki/mind/synthesis/severance-declaration-audit|Reconciled
+  2026-09-13.]] The 129/128-resumption/36-second-median recount rests on
+  a 95,067-row merged corpus not held in the repo — strong
+  page-derived testimony, not independently reproducible primary fact.
+  [testimony-grade — kb/interpretations/attachment-model-129-exits.md]
+- **The early "silence causes bursts" framing is retracted by the page
+  itself** (2026-08-23 correction, above). The rebuild does not retain
+  both framings.
 
 ## Predictions and falsifiers
 
-1. **Length predicts escalation; latency does not.** The character ratio
-   between Dan and the other party rises before and during a crisis while the
-   message-count ratio stays near parity, and reply latency does not move at
-   all. Confirmed once, on the July–August 2026 window: count ratio 1.27:1
-   against a character ratio of 3.62:1, with the character ratio at 2.0–3.0 on
-   ordinary days and **11.7 on August 16 and 12.3 on August 19**, the two worst
-   days in the record. *Falsifier:* a documented crisis episode in which the
-   character ratio stays flat, or one in which the count ratio moves and the
-   character ratio does not.
-2. **Measurement suppresses messaging.** Any channel that supplies passive
-   verification (location sharing, read receipts left on) shows lower message
-   volume than the same channel without it. One instance is already on the
-   record in the predicted direction: the August 2025 removal of GPS sharing is
-   followed by the highest-volume, highest-concentration year in the corpus.
-   *Falsifier:* a documented period of restored location sharing with no volume
-   decline.
-3. **The first crisis is the diagnostic, not the first months.** Check-in rate
-   in the opening ninety days of a new relationship predicts nothing; the rate
-   during its first high-stakes event predicts the steady state.
-   *Falsifier:* a documented crisis in a new relationship with no volume spike,
-   no summons cluster and no measurement request.
-4. **Ultimatums track silence, not grievance.** Across the record, exit
-   declarations cluster after periods of non-response rather than after
-   discoveries of misconduct. *Falsifier:* a `bin/mine-messages` pass showing
-   ultimatums distributed independently of preceding silence.
-
----
+1. The next attachment channel to reach comparable intensity will show
+   the summons register before it shows the severance grammar — the
+   Kristin split predicts check-in ports first, declarations follow only
+   under sustained deficit. Falsifier: a new intense channel with
+   severance declarations but no summons phase.
+2. The canonical-question zeros will hold in every future export. A
+   single "do you love me" in his sent text falsifies the architectural
+   reading and demotes it to a stylistic preference.
+3. If the character-ratio mechanism is right, crisis days in any future
+   window will separate on Dan/partner character ratio while count ratio
+   stays near parity. Falsifier: a crisis with inverted count asymmetry
+   and flat character ratio.
 
 ## Gaps
 
-1. **No non-crisis baseline exists anywhere in the record.**
-   [[wiki/self/overview]] already names this as a standing gap and it is the
-   binding constraint on this page: every measurement above is taken under
-   load, so the claim that the loop is "nearly silent at baseline" is inferred
-   from the absence of low-stakes bursts rather than observed in a documented
-   calm period.
-2. **The 106-ultimatum and 127-false-exit figures are dossier arithmetic**,
-   never re-derived from `all_imessages_complete_dump.txt`, and the sources
-   disagree with each other on the re-engagement rate (100% versus 110-of-127).
-   Prediction 4 above is the pass that would settle both.
-3. **Does the loop predate Annie?** The Alexis and Danielle corpora have not
-   been mined for the four registers above. If the summons and burst patterns
-   are present at comparable rates in the 2009–2015 Alexis record, the
-   "first full activation" framing is wrong and this page needs rewriting from
-   the premise up. That is a single `bin/mine-messages` query away.
-4. **What actually closes a check-in?** The corpus documents thoroughly what
-   fails. It contains no clean instance of a reassurance that demonstrably held
-   — no case where a confirmation arrived and the loop measurably stood down
-   for a sustained period. Either none exists, or nobody has looked for the
-   negative space. Worth one deliberate search, because everything practical
-   depends on the answer.
+1. **No non-crisis baseline for the summons rate.** The registers are
+   measured in the terminal window; whether the loop idles or sleeps at
+   baseline is still inferred, not measured.
+2. **Latency was not re-cut in this pass.** The "Annie answered faster
+   every year" figures are the page's 2026-08-23 revision, not a fresh
+   held-corpus cut.
+3. **The pre-Annie direction is untestable in the held corpus.** The
+   Alexis era (2009–2015) predates it; the Kristin test answers the
+   cross-attachment direction only.
 
+## Limits of the record
 
+Absolute non-zero phrase counts are export- and normalizer-specific;
+only the zeros and the zero-versus-many shape are robust across exports.
+[methodological — dat:0755] The 2021–2022 corpus gap removes two years
+from every longitudinal claim. Handle attribution follows the wiki's
+established Annie/Kristin/Tom mappings; misattribution would move small
+counts, not the zeros.
