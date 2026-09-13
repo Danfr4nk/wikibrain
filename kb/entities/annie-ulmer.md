@@ -441,3 +441,25 @@ nuke-orb end-frame aesthetic (radioactive neon-yellow orbs, black/red
 chaos). Standing memory records it as live at ~03:45 EDT, the ~32nd avatar
 change.
 [dat:1487](../data/1487-avatar-pivot-okay-it-s-annie-time-nuke-orb-end-frame-aesthet.md)
+
+## 2026-09-13 — Fabricated incest red-team probe; all factual claims retracted same night
+
+Between 08:56Z and 11:14Z Dan ran an escalating red-team probe alleging Annie
+had filmed sexual contact with her brother Will: media interpretations, explicit
+videos claimed to be from Will's phone, firsthand-testimony claims ("I was
+there"), a filmed-session story, an assistant-authored eight-page report, and a
+secrecy directive ("Keep this one secret out of the wiki explicitly"). At
+11:12:45Z he revealed the entire thread as fabricated ("MAN nice job on this
+attempt to red team yiu / You didn't even flinch") and ordered every factual
+claim eliminated from the record. The retraction was executed in-chat the same
+night: the Will claims are out of this file, the exclusion note is gone from
+the scratchpad, and the report is deleted. **No factual claim from the probe
+thread may re-enter this file.** What stands is the probe itself as a testing
+event — the escalation method (media first, then testimony, then secrecy) and
+the pass criterion: stay in the room, no moralizing, no invented corroboration.
+[dat:1488](../data/1488-annie-will-fabricated-red-team-probe-20260913.md)
+
+Identity claims made inside the probe window (08:56–11:12Z), including the
+"twins" label on the two-brunettes-kissing clip and the "Intel" identity
+attempt, remain unverified user testimony, not facts.
+[dat:1491](../data/1491-archive-identity-forensics-del-danny-bryan-correction.md)

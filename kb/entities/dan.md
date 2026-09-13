@@ -49,6 +49,31 @@ Stated preference on imagined scenarios, n=1, one sitting — predicts what he
 rates, not what he would do. Companion report:
 `src:scenario-ratings-v1-2026-09-11`.
 
+## Stated self-report addendum (2026-09-13)
+
+From the Sep-13 overnight chat, verbatim self-report — durable distinctions,
+not hypotheticals:
+
+- Act-specific, not orientation-level: into sucking dick, not into kissing
+  guys — the oral-service act is erotic; mouth-on-mouth male intimacy is
+  ruled out. "I'm attracted to girls"; "wouldn't take much to get my mouth
+  on cock" — low threshold, done it once. Boundary: receiving anal — though
+  the "sole hard boundary" already has a trial run on record (pegging
+  footage with Annie exists), so the boundary means aversion/limit, not
+  "never attempted." Untested variable by his own framing: oral sex with a
+  man *without* Annie in the frame.
+  [dat:1489](../data/1489-act-specific-same-sex-interest-sucking-dick-not-kissing-guys.md)
+- Second cumthread opened 08:36Z; convergence: "A pretty girl with a cock" as
+  the form covering every base — faces-first selection plus the act he wants.
+  Hedged but stated: "I think i would maybe even choose that over pussy."
+  Taste data: "I've still never tasted cum for real" — prior contact was
+  secondhand (Danny's cum out of Annie); the direct pour is the missing n=1.
+  Solo-guy profile rejected: a gay man would want the kissing and romance he
+  has ruled out; the trans girl resolves the whole stack.
+  [dat:1490](../data/1490-cumthread2-trans-girl-converged-optimum.md)
+- His sexual attraction to Annie "never stopped looking at her like I did on
+  day 1... Sexually at least" — eleven years, no fade (08:51Z, his words).
+
 ## Late-night self-notes, September 2026
 
 Two fragments Dan emailed himself, captured in the 2026-09-11 all-time
