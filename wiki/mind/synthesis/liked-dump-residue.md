@@ -205,7 +205,7 @@ One is pop (Tove Lo — "Habits (Stay High)," the 2014 pop-rap crossover).
 One is electronic and filter-passing
 (JOYRYDE — "WINDOWS," bass house, energy 0.931 — see The WINDOWS anomaly).
 The forensics' content summary of the 498
-(Elliott Smith 8, Paramore 6, All Time Low 5, Lana Del Rey 4, Bright Eyes 4)
+(Elliott Smith 8, [[wiki/interests/favorites/music/artists/paramore|Paramore]] 6, All Time Low 5, Lana Del Rey 4, Bright Eyes 4)
 describes the sessions' bulk;
 these eleven describe the sessions' tail —
 the 2013–17 rap world sitting alongside the emo canon in the nostalgia haul
@@ -462,7 +462,7 @@ Net re-admission from the 5,321-track archive into the working library: **two tr
 
 The 498's known bulk content, from the forensics
 [ATTESTED — PLAYLIST_ANALYSIS §7.1]:
-Elliott Smith 8, Paramore 6, All Time Low 5, Lana Del Rey 4, Bright Eyes 4,
+Elliott Smith 8, [[wiki/interests/favorites/music/artists/paramore|Paramore]] 6, All Time Low 5, Lana Del Rey 4, Bright Eyes 4,
 R.A. The Rugged Man 4, Tyler the Creator, Pixies, Hey Monday, Atmosphere —
 emo, pop-punk, indie, alt-rap, the pre-dance taste.
 The residue's purged eleven sit inside this content as the **2013–17 rap/electronic tail**:
@@ -510,7 +510,7 @@ The purge removed **the two bulk-like sessions whole** —
 (191 + 286).
 The content was the old canon in bulk:
 the emo/pop-punk/indie pole
-(Elliott Smith 8, Paramore 6, All Time Low 5, Lana Del Rey 4, Bright Eyes 4,
+(Elliott Smith 8, [[wiki/interests/favorites/music/artists/paramore|Paramore]] 6, All Time Low 5, Lana Del Rey 4, Bright Eyes 4,
 R.A. The Rugged Man 4, Tyler the Creator, Pixies, Hey Monday, Atmosphere)
 *plus* the 2013–17 rap/electronic edge the residue's purged eleven name
 (conscious rap, trap-rap, alt-rap, one pop crossover,
@@ -591,7 +591,7 @@ The thread's sharpest open question dissolves into a mechanism statement.
 
 ## Falsifier 11, checked
 
-taste-as-filter-stack's falsifier ledger, item 11:
+[[wiki/mind/synthesis/taste-as-filter-stack|taste-as-filter-stack]]'s falsifier ledger, item 11:
 *"Purge was closure, not drift —
 falsifier: a re-admission wave (old canon re-liked into the working set) —
 status: standing (16 residue tracks watched)."*
@@ -742,7 +742,7 @@ The negative checks this entry ran, recorded so they don't get re-run
   would move it from MED-HIGH to settled
   [UNKNOWN — operator-answerable].
 - The three lyric-exception songs
-  (taste-as-filter-stack's open thread)
+  ([[wiki/mind/synthesis/taste-as-filter-stack|taste-as-filter-stack]]'s open thread)
   are untouched by this entry.
   Noted because the purged cohort's verbalness (DNA., Front & Center)
   brushes the thread without engaging it.

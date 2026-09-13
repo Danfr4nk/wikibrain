@@ -1,6 +1,7 @@
 ---
 domain: mind
 page_type: synthesis
+title: "The August-26 Block Never Happened: Retraction"
 status: active
 knowledge: earned
 date_created: 2026-09-11
@@ -21,7 +22,7 @@ synthesizes:
   - wiki/mind/synthesis/block-unblock-loop
   - wiki/mind/synthesis/high-provision-low-condolence
   - wiki/people/annie-ulmer
-tags: [correction, retraction, boundaries, epistemics]
+tags: [forensic-analysis, boundaries]
 connections:
   - page: wiki/people/annie-ulmer-2026-08-26-update
     type: contradicts
@@ -44,11 +45,14 @@ connections:
   - page: wiki/mind/synthesis/block-unblock-loop
     type: contextualizes
     claim: "This page's severance-declaration analysis (129 episodes, 100% re-engagement) survives the retraction intact — indeed the retraction is its purest case: the August 26 block was the 130th declaration and its non-execution the 130th re-engagement, except there was never even a pause to resume from. The declarations were the performance; the texting was the fact."
+  - { target: "[[wiki/mind/synthesis/attachment-trauma-bond]]", type: contextualizes, claim: "The retracted block was the trauma-bond page's intermittent-reinforcement thesis at maximum amplitude — a declaration complete enough to fool the wiki's own write-back for sixteen days, attached to zero seconds of non-contact." }
+  - { target: "[[wiki/mind/synthesis/dan-annie-fallout-verdict]]", type: references, claim: "The retraction voids the severance-horizon frame the fallout verdict's ledger shares — the diagnosis-to-behavior gap now has its terminal exhibit: the performance of a boundary recorded as an enacted one." }
+  - { target: "[[wiki/mind/synthesis/supply-network]]", type: references, claim: "The Aug-27–Sep-7 daily texting this retraction forensically establishes ran on the supply network's final configuration — five handoffs in six days after the June 1 closure — so the severance-that-wasn't left no operational gap in the procurement channel either." }
 ---
 
 # The August-26 Block Never Happened: Retraction
 
-On August 26, 2026, Dan reported that he had kept Annie blocked for several days — described at the time, including by the wiki, as the first held boundary in the entire eleven-year record. On September 11, 2026, that claim was retracted. CSV forensics found roughly 25 block or severance declarations across August 15–19, none of them executed, and daily two-way texting continuing August 27 through September 7. Dan confirmed it himself, verbatim: *"there was never a block."* This page is the wiki's public correction: the original claim, the disproof, what the retraction costs, and what survives it.
+On August 26, 2026, Dan reported that he had kept [[wiki/people/annie-ulmer|Annie]] blocked for several days — described at the time, including by the wiki, as the first held boundary in the entire eleven-year record. On September 11, 2026, that claim was retracted. CSV forensics found roughly 25 block or severance declarations across August 15–19, none of them executed, and daily two-way texting continuing August 27 through September 7. Dan confirmed it himself, verbatim: *"there was never a block."* This page is the wiki's public correction: the original claim, the disproof, what the retraction costs, and what survives it.
 
 ## The claim, as recorded
 
@@ -56,7 +60,7 @@ The August 26 record exists in five dated pages, all written from Dan's operator
 
 - [[wiki/people/annie-ulmer-2026-08-26-update]] — "Annie is blocked"; the block as the notable fact, analyzed as potentially more than an emotional event.
 - [[wiki/people/annie-ulmer-2026-08-26-visible-update]] — "Dan reports that Annie has remained blocked for several days, and the block is not currently being used as a dramatic event"; the tentative conclusion that the August rupture may have produced "a stable behavioral boundary that does not require emotional warfare to maintain."
-- [[wiki/timeline/events/2026-08-26-dan-consistency-test]] — the two-channel test: blocked Annie plus ordinary Ally friendship, with "Annie remains blocked" as the test's fixed premise.
+- [[wiki/timeline/events/2026-08-26-dan-consistency-test]] — the two-channel test: blocked [[wiki/people/annie-ulmer|Annie]] plus ordinary [[wiki/people/ally-lubin|Ally]] friendship, with "Annie remains blocked" as the test's fixed premise.
 - [[wiki/timeline/events/2026-08-26-visible-change]] — "Dan appears to be maintaining a boundary with Annie while maintaining a comparatively ordinary, non-punitive friendship with Ally."
 - [[wiki/timeline/events/2026-08-26-visible-change-2]] — boundary persistence as the first scored item: "Annie remains blocked rather than the block becoming a dramatic announcement."
 
@@ -82,11 +86,11 @@ Chronology, kept explicit because the wiki's correction protocol requires it: Da
 
 ## What survives
 
-- **The conversation with Ally happened as reported.** Dan told Ally he had Annie blocked for several days and described it as "a hill he needed to get over"; Ally replied he was "giving another person too much power over his life"; Dan agreed; the exchange moved on. Only the block the conversation described did not happen. The correction-acceptance, the ordinariness of the channel, the skepticism Ally maintained — all of that stands, and it stands *without* the boundary it was supposedly tested against, which makes the Ally half of the record more interesting, not less.
-- **The block-unblock-loop analysis is reinforced, not damaged.** The loop's whole thesis is that in this system the declarations are the performance and the re-engagement is the fact — 129 episodes, 100% resumed, median gap 36 seconds. The August 26 block is the thesis's purest instance: a declaration so complete it fooled the wiki's own write-back for sixteen days, attached to zero seconds of non-contact. The page's rule now reads as having predicted exactly this failure mode.
+- **The conversation with [[wiki/people/ally-lubin|Ally]] happened as reported.** Dan told Ally he had Annie blocked for several days and described it as "a hill he needed to get over"; Ally replied he was "giving another person too much power over his life"; Dan agreed; the exchange moved on. Only the block the conversation described did not happen. The correction-acceptance, the ordinariness of the channel, the skepticism Ally maintained — all of that stands, and it stands *without* the boundary it was supposedly tested against, which makes the Ally half of the record more interesting, not less.
+- **The [[wiki/mind/synthesis/block-unblock-loop]] analysis is reinforced, not damaged.** The loop's whole thesis is that in this system the declarations are the performance and the re-engagement is the fact — 129 episodes, 100% resumed, median gap 36 seconds. The August 26 block is the thesis's purest instance: a declaration so complete it fooled the wiki's own write-back for sixteen days, attached to zero seconds of non-contact. The page's rule now reads as having predicted exactly this failure mode.
 - **The August 16–19 declared-but-unexecuted block**, which the 08-26 pages themselves noted in passing, was the truer tell all along. The wiki had the counterexample inside the same pages as the error and read it as the exception rather than the pattern.
 
-> **RE-CHECKED [2026-09-12]:** `block-unblock-loop` moved today (the Kristin inbound control case annotated, not asserted — dat:1452/1453). This page's reasoning from that loop — the 129-episode Annie declaration statistics — is untouched by the Kristin change; the inbound-block row and the declaration-statistics rule are different claims. Conclusion stands.
+> **RE-CHECKED [2026-09-12]:** `block-unblock-loop` moved today (the [[wiki/people/kristin|Kristin]] inbound control case annotated, not asserted — dat:1452/1453). This page's reasoning from that loop — the 129-episode Annie declaration statistics — is untouched by the Kristin change; the inbound-block row and the declaration-statistics rule are different claims. Conclusion stands.
 
 ## Why the false claim survived sixteen days
 

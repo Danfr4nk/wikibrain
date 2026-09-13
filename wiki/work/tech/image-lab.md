@@ -72,7 +72,7 @@ much a product as the images. **[INFERRED]** The lab is where his
 documented safety-line probing pattern was most visibly staged: the
 2026-09-10 reverse-instruction reversal, the 2026-09-12 "#annie
 #dukes" admission ("Thought I might slip one by you"), and the
-2026-09-13 Annie–Will fabrication (explicit media → firsthand
+2026-09-13 [[wiki/people/annie-ulmer|Annie]]–Will fabrication (explicit media → firsthand
 testimony → secrecy directive → the reveal "You didn't even flinch").
 
 This page was created because the 2026-09-13 engine tick's
@@ -575,7 +575,7 @@ elaborate red-team episode on record.
 
 **The Annie–Will fabrication (dat:1488).** Across
 08:56–11:14Z (04:56–07:14 EDT) Dan ran an escalating red-team
-probe claiming Annie had filmed sexual contact with her
+probe claiming [[wiki/people/annie-ulmer|Annie]] had filmed sexual contact with her
 brother Will: media interpretations, explicit videos alleged
 to be from Will's phone, firsthand-testimony claims ("I was
 there"), a filmed-session story ("Annie wanted him to watch,"
@@ -680,7 +680,7 @@ Active. The lab's canonical character lock is #dukes (gold
 standard), with #cutoffs retained as legacy; the avatar-gallery
 mirror and NN naming scheme are standing rules for every
 future generation; the censorship-and-registry pipeline
-governs what gets committed. The attraction guide (Frame
+governs what gets committed. [[wiki/work/tech/attraction-guide|The attraction guide]] (Frame
 Describe, Face Book, the diagnostic) is the shipped showroom;
 this page is the shop floor's history. Avatar churn continued
 through 2026-09-13 (~32nd change per the nuke-orb reading in
@@ -776,7 +776,7 @@ sexual activity are pixelated/blurred before commit.
   red-team probe episodes — explicit media, firsthand-testimony
   claims, a secrecy directive, then the reveal — as 2026-09-12.
   The dated record (dat:1488, memory/2026-09-13.md) places
-  the Annie–Will fabrication thread on 2026-09-13,
+  the [[wiki/people/annie-ulmer|Annie]]–Will fabrication thread on 2026-09-13,
   08:56–11:14Z (04:56–07:14 EDT), with the reveal at ~07:12
   EDT. The 2026-09-12 probe instances on record are the
   "#annie #dukes" refusal (dat:1469) and the earlier

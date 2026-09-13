@@ -117,8 +117,7 @@ of his romantic pattern, offered to a third party with nothing riding on
 the answer: *"i'm a serial monogamist so i've only been with a few girls,
 and they all fit a very specific type"* (2019-08-17, 22:26). Two things
 about the timing matter. It is the only instance of the phrase anywhere in
-217,573 messages, and it lands six weeks before the [[wiki/people/kelly-johansson|Kelly
-Johansson]] run and two months before the filmed MMF with
+217,573 messages, and it lands six weeks before the [[wiki/people/kelly-johansson|Kelly Johansson]] run and two months before the filmed MMF with
 [[wiki/people/bryan-5088682461|Bryan]] — the most sexually open documented
 window of his adult life. [[wiki/mind/psychosexual/arrangement-history]]
 runs the corpus-wide check this deserves: `monogam` appears 7 times and
@@ -207,7 +206,7 @@ conclusion each adult relationship separately arrived at.
    inspection.
 3. **A documented instance of Dan expressing relief, contentment, or
    positive self-report about being unattached**, comparable in register to
-   the Fran-vigil "got good closure" sentence
+   the [[wiki/people/fran-coldren|Fran]]-vigil "got good closure" sentence
    ([[wiki/mind/concepts/acquisition-drive]]) but about single life rather
    than about a finished project. The corpus has not been searched
    specifically for this.

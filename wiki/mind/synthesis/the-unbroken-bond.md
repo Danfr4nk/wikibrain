@@ -54,6 +54,9 @@ connections:
   - page: wiki/mind/synthesis/the-serial-monogamist
     type: component-of
     claim: "Seventeen continuous years with the unattached total measurable in weeks is the header fact behind Dan's stated theory of himself as a dater: he has almost no adult lived experience of the state — single life as an occupied interval rather than a gap between transfers — that any account of his own pattern would need to check itself against."
+  - { target: "[[wiki/mind/synthesis/the-commissioned-self]]", type: contextualizes, claim: "The commissioned-self page describes the narrative machinery running this page's bond thesis." }
+  - { target: "[[wiki/mind/synthesis/dance-music-only-phases]]", type: contextualizes, claim: "The fallow dance decade maps onto the Annie decade this page describes." }
+
 ---
 
 # The Unbroken Bond
@@ -61,7 +64,7 @@ connections:
 > **RE-CHECKED [2026-08-28] — premise moved, and it confirms this page rather**
 > **than complicating it.** [[wiki/people/alexis-armel]] moved 2026-08-28 for a
 > 2026-08-27 operator capture giving the fuller sequence of the 2013
-> separation: five days at 155 Virginia Ave, her mother's house, a new
+> separation: five days at [[wiki/places/155-virginia-ave|155 Virginia Ave]], her mother's house, a new
 > boyfriend (Chris Tressler), a brief NYC move, and reconciliation in
 > **October 2013**. This page's own chronology table already read "Jul–Oct
 > 2013 separation" before this capture existed — the new testimony
@@ -174,7 +177,7 @@ the whole of the explanation, not half of it.
 
 ## Why: the mechanism is documented, not speculated
 
-The wiki already contains the machinery. [[wiki/mind/profile/enneagram-5w4]]
+[[wiki/self/concepts/wiki-brain|The wiki]] already contains the machinery. [[wiki/mind/profile/enneagram-5w4]]
 records an **sx-dominant instinctual stack**, and `bond-switch-2015` states the
 consequence directly: sexual-dominant *"organises life around **one**
 relationship at maximum voltage, not many."*
@@ -252,7 +255,7 @@ disorder he wants everywhere else, because it is his.
   (2019-08-17, 22:26).
 - **The severance failed.** The single hardest piece of evidence on this page:
   the June 1 2026 closure held for **52 days** and then contact resumed on July
-  23, running **624 messages across four days**. The wiki's own inference that
+  23, running **624 messages across four days**. [[wiki/self/concepts/wiki-brain|The wiki]]'s own inference that
   June 1 was terminal has been formally withdrawn. Seventeen years of
   continuity did not end because the relationship ended.
 

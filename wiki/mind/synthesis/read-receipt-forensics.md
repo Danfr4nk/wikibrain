@@ -29,13 +29,16 @@ connections:
   - page: wiki/mind/profile/big-five-psychometrics
     type: caused-by
     claim: "This page's own reassurance-architecture citation — read-receipt analysis as 'measurement substituting for reassurance' — is one hop from its actual source: Trust at the 9th percentile, corpus-confirmed at 1.96x raised suspicion, is why a confirmation does not carry forward and a device-level metadata query gets run in the first place. Named directly here rather than left implicit."
+  - { target: "[[wiki/mind/synthesis/instrument-is-subject]]", type: contextualizes, claim: "The instrument-is-subject page sets the evidentiary standard this forensic method has to meet." }
+  - { target: "[[wiki/mind/synthesis/the-unbroken-bond]]", type: references, claim: "The unmasking case at the heart of M4 unfolded inside the bond the unbroken-bond page describes." }
+
 ---
 
 # Read-Receipt Forensics — chat.db Metadata and Its Traps
 
 Derived from a single extraction session, 2026-08-09. Three defects, each of
 which **silently produces a confident wrong answer rather than an error.** That
-is the failure mode the forensic method is least protected against, which is why
+is the failure mode [[wiki/mind/concepts/forensic-method|the forensic method]] is least protected against, which is why
 this is a page and not a footnote.
 
 > **Sourcing note.** The session this page documents ran directly against the
@@ -175,7 +178,7 @@ metadata; pull text separately and join on timestamp.
 Three of the four defects above produced, at some point in one session, a
 **confident and wrong** intermediate conclusion: a zero-row result read as a
 finding, a directional column read as undirectional, and an auto-populated field
-read as intentional. None raised an error. The forensic method's exposure is not
+read as intentional. None raised an error. [[wiki/mind/concepts/forensic-method|The forensic method]]'s exposure is not
 to hard failures — it is to instruments that lie quietly and in the direction of
 whatever is already suspected.
 
@@ -215,6 +218,38 @@ detector available is register.
 **No method-level finding on this page is withdrawn.** M1–M3 are properties of
 `chat.db` and are untouched.
 
+## The constitution pass
+
+Run 2026-08-28, against the eleven registers in `SYNTHESIS_SPEC.md`. This
+page is a technical methodology page — SQLite column semantics and a
+type-affinity bug — and most registers genuinely do not bear on it; forcing
+a fit where the content is mechanical rather than psychological would be
+exactly the decorative citation this pass exists to catch, not to produce.
+One register does bear, and it was already implicit rather than absent.
+
+| # | Register | Disposition |
+|---|---|---|
+| 1. Cognitive stack | **Checked, does not add a distinct mechanism.** Ti-dominance's demand for verified truth could be gestured at for why these queries get run at all, but it would be redundant with register 2's more specific, corpus-confirmed account — not cited, to avoid citing the same fact twice under two names. |
+| 2. Personality profile | **Moved the conclusion, and made explicit what was already implicit.** This page's own pre-existing `reassurance-architecture` citation calls read-receipt analysis "measurement substituting for reassurance" without naming what that architecture runs on. [[wiki/mind/profile/big-five-psychometrics]]'s Trust 9 — corpus-confirmed at 1.96x — is the one hop back: a confirmation that doesn't carry forward is why a device-metadata query gets run in the first place. |
+| 3. Historical precedent | **Checked, does not bear.** The four defects are properties of `chat.db`, not of a documented pattern in Dan's history. |
+| 4. Attitudes and forces | **Checked, does not bear.** |
+| 5. Security and prosperity | **Checked, does not bear.** |
+| 6. Health | **Checked, does not bear.** |
+| 7. Romantic and relational state | **Already load-bearing, at one remove.** The worked examples (the August 2026 window, the third-party phone-access episodes) are relational in content but this page's own thesis is about the instrument, not about what the instrument found. |
+| 8. Age and upbringing | **Checked, does not bear.** |
+| 9. Geographic and ethnic culture | **Checked, does not bear.** |
+| 10. Religious and ideological programming | **Checked, does not bear.** |
+| 11. Axiomatic politics | **Checked, does not bear.** |
+| 12. Other — provenance | **Checked, left standing.** Trust 9 is corpus-confirmed rather than self-commissioned, which is the stronger half of the provenance gradient this session has tracked elsewhere — appropriate here, since it is the only register-level claim this page now carries. |
+
+**What survived:** all four defects (M1-M4), the extraction recipe, and
+every re-check block — none required a profile-layer citation to stand,
+since they are properties of a database schema. **What the pass added:** a
+name for the psychological driver this page's own prior citation already
+gestured at without stating. **What it did not do:** manufacture a
+cognitive-stack connection to a page whose actual content is a SQL
+type-coercion bug.
+
 ## Gaps
 
 The underlying `annie_metadata_24h.csv` this page's counts are drawn from has
@@ -249,37 +284,3 @@ yet been audited; that audit is owed and is listed in `BACKLOG.md`.
 > authority-invoke/render-a-finding machinery documented there for crisis analysis,
 > observed running on a compliment instead. Nothing about `chat.db` metadata
 > extraction is downstream of that finding.
-
-## The constitution pass
-
-Run 2026-08-28, against the eleven registers in `SYNTHESIS_SPEC.md`. This
-page is a technical methodology page — SQLite column semantics and a
-type-affinity bug — and most registers genuinely do not bear on it; forcing
-a fit where the content is mechanical rather than psychological would be
-exactly the decorative citation this pass exists to catch, not to produce.
-One register does bear, and it was already implicit rather than absent.
-
-| # | Register | Disposition |
-|---|---|---|
-| 1. Cognitive stack | **Checked, does not add a distinct mechanism.** Ti-dominance's demand for verified truth could be gestured at for why these queries get run at all, but it would be redundant with register 2's more specific, corpus-confirmed account — not cited, to avoid citing the same fact twice under two names. |
-| 2. Personality profile | **Moved the conclusion, and made explicit what was already implicit.** This page's own pre-existing `reassurance-architecture` citation calls read-receipt analysis "measurement substituting for reassurance" without naming what that architecture runs on. [[wiki/mind/profile/big-five-psychometrics]]'s Trust 9 — corpus-confirmed at 1.96x — is the one hop back: a confirmation that doesn't carry forward is why a device-metadata query gets run in the first place. |
-| 3. Historical precedent | **Checked, does not bear.** The four defects are properties of `chat.db`, not of a documented pattern in Dan's history. |
-| 4. Attitudes and forces | **Checked, does not bear.** |
-| 5. Security and prosperity | **Checked, does not bear.** |
-| 6. Health | **Checked, does not bear.** |
-| 7. Romantic and relational state | **Already load-bearing, at one remove.** The worked examples (the August 2026 window, the third-party phone-access episodes) are relational in content but this page's own thesis is about the instrument, not about what the instrument found. |
-| 8. Age and upbringing | **Checked, does not bear.** |
-| 9. Geographic and ethnic culture | **Checked, does not bear.** |
-| 10. Religious and ideological programming | **Checked, does not bear.** |
-| 11. Axiomatic politics | **Checked, does not bear.** |
-| 12. Other — provenance | **Checked, left standing.** Trust 9 is corpus-confirmed rather than self-commissioned, which is the stronger half of the provenance gradient this session has tracked elsewhere — appropriate here, since it is the only register-level claim this page now carries. |
-
-**What survived:** all four defects (M1-M4), the extraction recipe, and
-every re-check block — none required a profile-layer citation to stand,
-since they are properties of a database schema. **What the pass added:** a
-name for the psychological driver this page's own prior citation already
-gestured at without stating. **What it did not do:** manufacture a
-cognitive-stack connection to a page whose actual content is a SQL
-type-coercion bug.
-
-

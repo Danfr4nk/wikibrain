@@ -1,6 +1,7 @@
 ---
 domain: mind
 page_type: synthesis
+title: "Attachment Trauma Bond and Aura Illness"
 knowledge: earned
 status: active
 date_created: 2026-06-22
@@ -95,6 +96,12 @@ connections:
   - page: wiki/mind/profile/big-five-psychometrics
     type: contradicts
     claim: "Vulnerability, the facet that would most directly predict this page's psychosomatic-crisis account, runs below the within-medium baseline (0.81x) on the 2026-08-16 corpus audit — flat like Impulsiveness, not confirmed like Trust or Self-Consciousness. The somatic-toll mechanism argued here rests on the Ti-Si loop and the sx/sp instinct stacking instead, and does not lean on this facet."
+  - { target: "[[wiki/mind/synthesis/august-26-block-retraction]]", type: contextualizes, claim: "The retraction's terminal-phase finding — 129 severance declarations, 100% re-engagement, the Aug-26 block never enacted — is this page's intermittent-reinforcement mechanism running to its purest documented instance." }
+  - { target: "[[wiki/mind/synthesis/dan-annie-fallout-verdict]]", type: corroborates, claim: "The fallout verdict answers the moral question this page leaves open — whether the bond mechanics amount to a genuine wrong — and its 100% re-engagement recount corroborates the reinforcement machinery measured here." }
+  - { target: "[[wiki/mind/synthesis/no-platonic-channel]]", type: extends, claim: "The Ally channel that disarms this page's confession-trap mechanism by symmetric self-indictment is the same channel the no-platonic-channel page reads as the conversion-default's cleanest case — one mechanism's control, the other's central exhibit." }
+  - { target: "[[wiki/mind/synthesis/estate-money-spine]]", type: corroborates, claim: "The three-rotation earner see-saw the spine quantifies ($119K–$123K net outflow) is this page's leverage see-saw measured in capital — the material substrate of the same bond." }
+  - { target: "[[wiki/mind/synthesis/supply-network]]", type: corroborates, claim: "The terminal-phase supplier-seat finding — Dan controlling supply as the relationship's last structure — is this page's logistical-tether section at ledger resolution." }
+  - { target: "[[wiki/mind/synthesis/annual-volume-suz]]", type: contextualizes, claim: "The Dan-vs-Suz volume asymmetry that chart quantifies — Suz permanently ahead from 2017, widening toward ~2:1 — is dated outbound residue for this page's leverage see-saw: who writes more, when, tracks who holds the exit." }
 ---
 
 
@@ -245,7 +252,7 @@ The accepted amendments establish that the tether was a decade-long *oscillation
 
 The collapse of this primary attachment resulted in severe psychosomatic consequences, referred to within the corpus as "aura illness." This illness was the predictable neurobiological and identity-level consequence of exiting a fused attachment figure.
 
-This somatic toll was the result of a specific typological collision. Dan's [[wiki/mind/profile/intp|INTP]] [[wiki/mind/profile/enneagram-5w4|5w4 sx/sp]] profile dictates an intense, one-on-one merging instinct (sx). Annie functioned as the primary co-regulator of his nervous system. When this fusion broke, it registered not merely as emotional pain, but as an ontological amputation of the self-concept. Furthermore, the 5w4 recursive architecture meant that Dan did not simply feel the pain; he analyzed it, looped it, and built symbolic structures around it, such as "burning rituals" and long forensic texts. This analytical strength was turned against the self, keeping the wound open. Finally, the crisis activated older, primal abandonment schemas—specifically the collapse of the relationship with [[wiki/people/alexis-armel|Alexis]] and the parental rupture of 2004–2005. The current pain was, in essence, historical pain wearing a 2026 mask.
+This somatic toll was the result of a specific typological collision. Dan's [[wiki/mind/profile/intp|INTP]] [[wiki/mind/profile/enneagram-5w4|5w4 sx/sp]] profile dictates an intense, one-on-one merging instinct (sx). Annie functioned as the primary co-regulator of his nervous system. When this fusion broke, it registered not merely as emotional pain, but as an ontological amputation of the self-concept. Furthermore, the [[wiki/mind/profile/enneagram-5w4|5w4]] recursive architecture meant that Dan did not simply feel the pain; he analyzed it, looped it, and built symbolic structures around it, such as "burning rituals" and long forensic texts. This analytical strength was turned against the self, keeping the wound open. Finally, the crisis activated older, primal abandonment schemas—specifically the collapse of the relationship with [[wiki/people/alexis-armel|Alexis]] and the parental rupture of 2004–2005. The current pain was, in essence, historical pain wearing a 2026 mask.
 
 ### The measured mechanism, and what stays open
 
@@ -287,7 +294,7 @@ instinct stacking, not on a trait score the corpus does not corroborate.
 
 ## The single-bond switch (the Alexis→Annie transfer)
 
-The Annie bond did not arrive into an empty attachment field. It replaced the one prior long-term target. The 2015 transition is documented in detail at [[wiki/mind/synthesis/bond-switch-2015]]: the Alexis relationship ended and the Annie bond formed in the *same week* (introduction ~Nov 24, made by Alexis herself; Annie met in person Nov 29; Dan's own same-night outbound text, "Things are collapsing with lex. You might be seeing a lot more Annie very soon," is the earliest primary-source record of the pivot; Alexis moves out Dec 1). The bootloader names this the **single-bond switch** — one bond closing as the other opens, with no unattached gap.
+The Annie bond did not arrive into an empty attachment field. It replaced the one prior long-term target. The 2015 transition is documented in detail at [[wiki/mind/synthesis/bond-switch-2015]]: the [[wiki/people/alexis-armel|Alexis]] relationship ended and the [[wiki/people/annie-ulmer|Annie]] bond formed in the *same week* (introduction ~Nov 24, made by Alexis herself; Annie met in person Nov 29; Dan's own same-night outbound text, "Things are collapsing with lex. You might be seeing a lot more Annie very soon," is the earliest primary-source record of the pivot; Alexis moves out Dec 1). The bootloader names this the **single-bond switch** — one bond closing as the other opens, with no unattached gap.
 
 > **CORRECTED 2026-08-15 — there was no "Alexis cheating revelation" in this**
 > **week, and the sentence above used to say there was.** The Nov 28 2015 message
@@ -360,7 +367,7 @@ still running after: mutual lending with no paper, an itemised statement
 produced in an argument, each party claiming to be the creditor, and reconciliation
 arriving as the next emergency rather than as settlement. The 3 July 2019
 exchange is the same shape as the terminal-phase money arguments, eleven months
-before the Eli affair and six years before the collapse.
+before the [[wiki/timeline/events/eli-incident|Eli affair]] and six years before the collapse.
 
 **What that changes:** the see-saw is not something the Annie relationship
 produced. It is the financial grammar Dan learned at home, and the bond
@@ -398,6 +405,12 @@ Resolution demands grieving the fantasy of the relationship that could have been
 > December 2015 rupture and its 2025–26 tail (13 verified unanswered reaches,
 > not 12) — richer evidence for the same paternal-rupture template this page
 > already cites, not a different one. Nothing here needed revising.
+
+## Gaps
+
+- The psychosomatic-crisis mechanism is a single-case retrospective attribution: her migraines, infections, and weight gain tracked the bond's stress curve, but no clinician record and no her-side account corroborate the causal read — this page itself labels it the least defensible section.
+- The leverage see-saw's claimed novelty against the trauma-bond literature (added 2026-09-02) has not been sourced against the cited literature; the comparison exists on the bond-switch page and is not independently verified here.
+- The bond model is built entirely from Dan's outbound record and his retrospective framing; her inbound-side account of the same dynamics does not exist in the corpus.
 
 ## The constitution pass
 

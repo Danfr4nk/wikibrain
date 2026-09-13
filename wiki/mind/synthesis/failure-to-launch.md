@@ -101,7 +101,7 @@ connections:
 > **RE-CHECKED [2026-08-26]:** flagged stale against
 > [[wiki/mind/synthesis/the-embedded-objective]] and
 > [[wiki/mind/concepts/acquisition-drive]] (both 2026-08-26), which added a
-> distinction between tenure and satisfaction — the Fran vigil is the one
+> distinction between tenure and satisfaction — the [[wiki/people/fran-coldren|Fran]] vigil is the one
 > commitment in the corpus reported as satisfying, and the embedded-objective
 > page now argues this is because it is the sole case with no host distinct
 > from its payload and a payload with a findable edge. **No claim on this page**
@@ -148,7 +148,7 @@ documented title in thirty-seven years is *Experience Associate – Golf*.
 
 [[wiki/mind/synthesis/estate-money-spine]] traces the whole chain and its
 finding is that money in this biography **arrives in lumps and exits through
-standing drains**. The court signed the final distribution of the Fran estate on
+standing drains**. The court signed the final distribution of the [[wiki/people/fran-coldren|Fran]] estate on
 August 21, 2020 at **$144,069.31**; the check released September 1; by early
 2021 the corpus records *"the money just ran out"* and the Au Za'atar hire
 follows in March. The Robinhood account peaked at roughly $25k, so the market
@@ -313,7 +313,7 @@ that reverses the conclusion; verifying eight cited timestamps against her
 actual outbound record and finding they prove the opposite of what they were
 offered for; catching his own misparse of *"He'll?"* 105 minutes later from the
 garble family; and identifying, retroactively and against his own interest,
-that at least six inbound messages attributed to Annie were typed by somebody
+that at least six inbound messages attributed to [[wiki/people/annie-ulmer|Annie]] were typed by somebody
 holding her phone. **Documented commercial application: zero.**
 
 **AI and exocortex engineering.** CATO, MAX, the operating manual, the iMessage
@@ -351,7 +351,7 @@ them for a combined seven years.
 
 ## Part III — The constraint, stated as a fit claim rather than a verdict
 
-Seven Big30 facets sit in the bottom decile and four in the bottom fifth
+Seven [[wiki/mind/profile/big-five-psychometrics|Big30]] facets sit in the bottom decile and four in the bottom fifth
 percentile:
 
 | Facet | Percentile |
