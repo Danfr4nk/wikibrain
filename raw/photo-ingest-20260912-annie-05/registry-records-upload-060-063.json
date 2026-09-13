@@ -1,0 +1,79 @@
+[
+  {
+    "id": "upload-060",
+    "type": "image",
+    "count": 1,
+    "date": "2015-12-05 19:42 (status bar 7:42 PM, 2% battery - NO EXIF; date by adjacency, confidence moderate)",
+    "share_url": null,
+    "local_path": "workspace/user/media_library/image/4e/4e3f2a6b0fcb075ffc6adeca4687a2e4633abe537ae602c1a2ec14e428c39d58.jpg",
+    "dimensions": "828x1470",
+    "gps": null,
+    "description": "iMessage screenshot, Messages (3) Alexis, 7:42 PM: 'Can we talk really quick / No fights no nothing. / I'm outside it won't take 5 minutes / I know your mom is here so obviously I'm not here to cause problems. 5 minutes n we don't have to speak ever again.' First of three Dec 5 lead-up frames.",
+    "linked_nodes": [
+      "src:annie-stolen-laptop-night-2015-12-05",
+      "dat:alexis-pre-incident-texts-2015-12-05"
+    ],
+    "embed": false,
+    "embed_excluded": false,
+    "sha256": "4e3f2a6b0fcb075ffc6adeca4687a2e4633abe537ae602c1a2ec14e428c39d58",
+    "bytes": 215364
+  },
+  {
+    "id": "upload-061",
+    "type": "image",
+    "count": 1,
+    "date": "2015-12-05 19:45:45 (EXIF, matches status bar 7:45 PM, 3% battery)",
+    "share_url": null,
+    "local_path": "workspace/user/media_library/image/59/59d01b0334223e8fdf30812792058af9e896372b1d21a1dffaf87cf1e9363ccd.jpg",
+    "dimensions": "828x1470",
+    "gps": null,
+    "description": "iMessage screenshot, Messages (2) Alexis, 7:45 PM: her 'need 2 mins to speak to you face to face n that'll be it' vs Dan's 'I can't right now. And after you wouldn't sell me the sub / I don't really feel like I need to feel bad about it' - the Suboxone-withholding refusal, primary.",
+    "linked_nodes": [
+      "src:annie-stolen-laptop-night-2015-12-05",
+      "dat:alexis-pre-incident-texts-2015-12-05",
+      "dat:alexis-suboxone-withholding-2015-12-05"
+    ],
+    "embed": false,
+    "embed_excluded": false,
+    "sha256": "59d01b0334223e8fdf30812792058af9e896372b1d21a1dffaf87cf1e9363ccd",
+    "bytes": 237634
+  },
+  {
+    "id": "upload-062",
+    "type": "image",
+    "count": 1,
+    "date": "2015-12-05 20:54:46 (EXIF, matches status bar 8:54 PM, 3% battery)",
+    "share_url": null,
+    "local_path": "workspace/user/media_library/image/a7/a718ba6f2f52e469fbc0200528d3237b7332cbd17593f94845bd69803186e440.jpg",
+    "dimensions": "828x1470",
+    "gps": null,
+    "description": "iMessage screenshot, Messages (2) Alexis, 8:54 PM: same opener, same two Dan replies, then Alexis 'Feel bad about what? This has nothing to do with any of that.' Dan: 'What is it then?' - the exchange ends here. Last lead-up frame before the incident.",
+    "linked_nodes": [
+      "src:annie-stolen-laptop-night-2015-12-05",
+      "dat:alexis-pre-incident-texts-2015-12-05"
+    ],
+    "embed": false,
+    "embed_excluded": false,
+    "sha256": "a718ba6f2f52e469fbc0200528d3237b7332cbd17593f94845bd69803186e440",
+    "bytes": 210536
+  },
+  {
+    "id": "upload-063",
+    "type": "video",
+    "count": 1,
+    "date": "2015-12-05 (night, no container timestamp evidence; by batch adjacency)",
+    "share_url": null,
+    "local_path": "workspace/user/media_library/video/90/90385b4b029538e1594bb629906512dd4ea91ecc9e1c970e0510c578baef7847.mp4",
+    "dimensions": "720x1280",
+    "gps": null,
+    "description": "14.14s vertical bedroom video: dim, vertical blinds, string lights, bed with clothes. One woman (black tank, dark pants with white side stripes, hair in bun) moves around the room - bends over bed, stands, hands near face. UNIDENTIFIED: face-tag 0.111 (runner-up alexis) vs 0.45 threshold. Audio (whisper-tiny, rough): 'I didn't have to, I sent, I had the messages where I tried to resolve this before.' / 'Okay, so I'll get all the drug paraphernalia out so in case you need to call the cops.' Representative frame = upload-063.jpg.",
+    "linked_nodes": [
+      "src:annie-stolen-laptop-night-2015-12-05",
+      "dat:alexis-stolen-laptop-night-testimony-dan-20260912"
+    ],
+    "embed": false,
+    "embed_excluded": false,
+    "sha256": "90385b4b029538e1594bb629906512dd4ea91ecc9e1c970e0510c578baef7847",
+    "bytes": 3601852
+  }
+]

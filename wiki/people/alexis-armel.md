@@ -635,6 +635,7 @@ every beat of it:
 | 2015-12-01 | Alexis moves out of 155 Virginia — *"Helping lex leave"*; Zach ferries her: *"Zach has to take lex to blue moon"* |
 | 2015-12-02 | *"Listen I broke up with lex, I'm in love with Annie Ulmer"*; *"Alexis only left yesterday"* |
 | 2015-12-03 | Annie to Dan, 22:05: *"She refuses to walk past the bar where I'm standing"* — Alexis avoiding Annie at a bar, a week on |
+| 2015-12-05 | The "stolen laptop night": Alexis texts from outside the house 7:42–8:54 PM asking to talk; Dan refuses twice, citing the withheld Suboxone; Dan's 2026 testimony says she assaulted him and he knocked her out twice defending himself (`dat:alexis-stolen-laptop-night-testimony-dan-20260912`) — see [below](#the-stolen-laptop-night--dec-5-2015) |
 | 2015-12-08 | *"That was the night before I broke up with lex"* |
 | Dec 2015 | 728 / 682 / 679 messages sent on three consecutive days to Annie |
 
@@ -929,6 +930,26 @@ After the eviction, Alexis remains hostile toward Annie and Dan:
 
 This is the earliest post-eviction statement of Dan's policy toward Alexis — non-intervention, non-assistance.
 
+### The stolen-laptop night — Dec 5, 2015
+
+Two days after the Dec 3 workplace incident, the breakup turned physical — and the record of the night survives only because Dan kept the screenshots.
+
+**The 72-minute lead-up, verbatim** (`dat:alexis-pre-incident-texts-2015-12-05`). Alexis texts from outside the house, 7:42–8:54 PM:
+
+> 7:42 PM — *"Can we talk really quick / No fights no nothing. / I'm outside it won't take 5 minutes"* … *"I know your mom is here so obviously I'm not here to cause problems. 5 minutes n we don't have to speak ever again."*
+
+Dan refuses at 7:45 — *"I can't right now. And after you wouldn't sell me the sub / I don't really feel like I need to feel bad about it"* — and again at 8:54, when Alexis asks what the refusal has to do with anything: *"Feel bad about what? This has nothing to do with any of that."* / *"What is it then?"* The exchange ends there.
+
+**The "sub" is the load-bearing detail.** Alexis had his Suboxone and declined to sell it to him. Dan had been on daily Suboxone since February 2010 — 16+ unbroken years, zero relapses — so what was being withheld was his maintenance medication, in the middle of the breakup week, and he named it as the reason he wouldn't open the door.
+
+**What happened next is Dan's testimony alone.** Sending these screenshots eleven years later he called it *"the stolen laptop night where I got attacked and accidentally knocked Alexis out TWICE defending myself as she assaulted me"* (`dat:alexis-stolen-laptop-night-testimony-dan-20260912`). The laptop theft, her assault, and the two knockouts appear nowhere in the files — `messages.csv` holds zero rows dated Dec 4–5, 2015, so the corpus is dark on the night itself. The texts are primary for the 72 minutes they cover; everything past *"What is it then?"* is his retrospective account, filed as testimony without adjudication.
+
+**The compression is the finding.** Two days earlier he and Annie were co-writing cover texts claiming she *"really isn't involved"*; that same week Alexis is outside his house texting to talk, his mother inside, his Suboxone in Alexis's hands. The breakup was not an event with a date — it was a fortnight of overlapping collisions, and the Dec 5 night is the most violent one on record.
+
+Also from that night: a 14-second bedroom video (dim, vertical blinds, string lights). One woman moves around the room — bends over the bed, stands, hands near her face. She is **unidentified**: the local face-tag run against the annie/alexis registry scored her 0.111 (runner-up: alexis) against the 0.45 threshold, so she is not named here. The audio carries one voice (whisper-tiny rough transcript): *"I didn't have to, I sent, I had the messages where I tried to resolve this before."* … *"Okay, so I'll get all the drug paraphernalia out so in case you need to call the cops."* Speaker not established; fidelity limited — treat as rough.
+
+## Gaps
+
 
 ## Gaps
 
@@ -1000,3 +1021,7 @@ is unresolved — see the note under [The hidden year
 <a href="../../media/upload-049.jpg"><img src="../../media/upload-049.jpg" width="240" alt="Unsent draft of the cover text to Alexis, 4:55 PM"></a>
 <a href="../../media/upload-050.jpg"><img src="../../media/upload-050.jpg" width="240" alt="Sent cover text to Alexis with her replies, 4:56 PM"></a>
 <a href="../../media/upload-051.jpg"><img src="../../media/upload-051.jpg" width="240" alt="Facebook relationship field cleared, captioned 11/30/2015 official break up"></a>
+<a href="../../media/upload-060.jpg"><img src="../../media/upload-060.jpg" width="240" alt="Alexis texts from outside the house, 7:42 PM, Dec 5 2015"></a>
+<a href="../../media/upload-061.jpg"><img src="../../media/upload-061.jpg" width="240" alt="Dan refuses, cites the withheld Suboxone, 7:45 PM"></a>
+<a href="../../media/upload-062.jpg"><img src="../../media/upload-062.jpg" width="240" alt="Alexis asks what it has to do with anything, 8:54 PM"></a>
+<a href="../../media/upload-063.jpg"><img src="../../media/upload-063.jpg" width="240" alt="Representative frame from the 14-second bedroom video that night; woman unidentified"></a>

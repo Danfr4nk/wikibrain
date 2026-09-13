@@ -1,0 +1,85 @@
+{
+  "batch": "photo-ingest-20260912-annie-05",
+  "pull_timestamp_utc": "2026-09-13T01:16:32Z",
+  "pull_method": "direct send in chat (no album)",
+  "intake_source": "Dan, iOS chat, 2026-09-12",
+  "photo_count": 4,
+  "files": [
+    {
+      "filename": "4e3f2a6b0fcb075ffc6adeca4687a2e4633abe537ae602c1a2ec14e428c39d58.jpg",
+      "sha256": "4e3f2a6b0fcb075ffc6adeca4687a2e4633abe537ae602c1a2ec14e428c39d58",
+      "bytes": 215364,
+      "gphotos_media_id": null,
+      "platform_timestamp": null,
+      "intake_source": "direct send in chat 2026-09-12 (fifth Annie drop)",
+      "dimensions": "828x1470",
+      "exif_datetime": null
+    },
+    {
+      "filename": "59d01b0334223e8fdf30812792058af9e896372b1d21a1dffaf87cf1e9363ccd.jpg",
+      "sha256": "59d01b0334223e8fdf30812792058af9e896372b1d21a1dffaf87cf1e9363ccd",
+      "bytes": 237634,
+      "gphotos_media_id": null,
+      "platform_timestamp": null,
+      "intake_source": "direct send in chat 2026-09-12 (fifth Annie drop)",
+      "dimensions": "828x1470",
+      "exif_datetime": "2015:12:05 19:45:45"
+    },
+    {
+      "filename": "a718ba6f2f52e469fbc0200528d3237b7332cbd17593f94845bd69803186e440.jpg",
+      "sha256": "a718ba6f2f52e469fbc0200528d3237b7332cbd17593f94845bd69803186e440",
+      "bytes": 210536,
+      "gphotos_media_id": null,
+      "platform_timestamp": null,
+      "intake_source": "direct send in chat 2026-09-12 (fifth Annie drop)",
+      "dimensions": "828x1470",
+      "exif_datetime": "2015:12:05 20:54:46"
+    },
+    {
+      "filename": "90385b4b029538e1594bb629906512dd4ea91ecc9e1c970e0510c578baef7847.mp4",
+      "sha256": "90385b4b029538e1594bb629906512dd4ea91ecc9e1c970e0510c578baef7847",
+      "bytes": 3601852,
+      "gphotos_media_id": null,
+      "platform_timestamp": null,
+      "intake_source": "direct send in chat 2026-09-12 (fifth Annie drop)",
+      "dimensions": "720x1280",
+      "exif_datetime": null,
+      "duration_s": 14.14
+    }
+  ],
+  "node_ids": [
+    "src:annie-stolen-laptop-night-2015-12-05",
+    "dat:alexis-stolen-laptop-night-testimony-dan-20260912",
+    "dat:alexis-suboxone-withholding-2015-12-05",
+    "dat:alexis-pre-incident-texts-2015-12-05"
+  ],
+  "registry_ids": [
+    "upload-060",
+    "upload-061",
+    "upload-062",
+    "upload-063"
+  ],
+  "audio_transcription": {
+    "model": "whisper-tiny (local, faster-whisper), fidelity: rough",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.0,
+        "text": "I didn't have to, I sent, I had the messages where I tried to resolve this before."
+      },
+      {
+        "start": 7.0,
+        "end": 14.0,
+        "text": "Okay, so I'll get all the drug paraphernalia out so in case you need to call the cops."
+      }
+    ],
+    "note": "Speaker not identified from audio alone; transcript is rough - do not quote as verbatim evidence without a better model pass."
+  },
+  "face_tag": {
+    "run": true,
+    "registry": "local-only ~/workspace/face-tag (annie + alexis centroids)",
+    "threshold": 0.45,
+    "result": "unknown 0.111, runner-up alexis - woman UNIDENTIFIED",
+    "frame": "7s"
+  }
+}
