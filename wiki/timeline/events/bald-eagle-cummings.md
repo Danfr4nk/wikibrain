@@ -6,7 +6,7 @@ aliases: ["Bald Eagle", "the Boomerang incident"]
 status: stable
 knowledge: mixed
 date_created: 2026-08-02
-date_modified: 2026-08-02
+date_modified: 2026-09-12
 date_range_start: 2000-12-01
 date_range_end: 2002-03-31
 sources:
@@ -150,8 +150,15 @@ adjacency. It is still not answered.
   located so far. Whether any of them remained in contact is unknown — which
   makes this cohort a direct test of [[wiki/mind/synthesis/dormancy-not-exit]]'s
   no-exit rule at the earliest point the record reaches.
-- **The nickname is unattested outside this capture.** A year of school-wide use
-  should have left traces in the 2007-era Facebook archive; nobody has looked.
+- **The nickname is unattested outside this capture.** On 2026-09-12 the
+  2007–2022 Facebook text record was searched exhaustively for "bald eagle"
+  and variants (407 message files / 15,923 messages, own posts, photo
+  metadata, albums) — zero hits
+  (`dat:1474-bald-eagle-cummings-nickname-exhaustive-negative-search-of-t`).
+  The Facebook channel is now exhausted rather than unexamined, but this is a
+  narrowing, not a falsification: a 2000–01 middle-school nickname was never
+  likely to surface in 2007+ Facebook text, so confidence moves in neither
+  direction. The nickname remains single-source.
 - **The second-hand claim about Victor and Britney in the minivan** is reported
   as something Dan *"later found out"* and is not corroborated.
 

@@ -41,3 +41,22 @@ girlfriend ordering, and the named ski crew. If the capture is accurate,
 three other pages gain grounding; if it is misremembered, they inherit the
 error. That leverage is what makes the low-confidence filing important
 rather than ignorable.
+
+## Addendum 2026-09-12: Facebook channel exhausted, not just unexamined
+
+Work item wb-0027 (evidence_recruitment, run 2026-09-12) executed the search
+this node said nobody had done: the full text of the June-2026 Facebook export
+(407 message files / 15,923 messages spanning 2007–2022, own posts, photo
+metadata, albums, notifications, search history) was searched for "bald eagle"
+and variants ("baldeagle", "bald-eagle"). Zero hits — recorded as
+`dat:1474-bald-eagle-cummings-nickname-exhaustive-negative-search-of-t`. The same
+pass confirmed corpus-wide that "Britney Bolen" and "Victor Fiano" appear
+nowhere in ~/workspace/user/files outside the wiki page itself.
+
+Epistemic effect: this is a **narrowing, not a falsification**. A nickname used
+in 2000–01 among middle-schoolers was never likely to surface in Facebook text
+from 2007 onward, so the negative result moves confidence in neither direction.
+What changes is the status of the gap: "a year of school-wide use should have
+left traces in the 2007-era Facebook archive; nobody has looked" is now
+"someone looked; the Facebook channel is exhausted." The nickname remains
+single-source. The low-confidence filing stands.

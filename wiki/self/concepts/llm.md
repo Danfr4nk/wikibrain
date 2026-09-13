@@ -189,6 +189,21 @@ The progression from ChatGPT to Claude and Gemini happened gradually — though 
 
 By 2025-2026, the division of labor was explicit: Claude for analysis, Gemini for interaction, ChatGPT as a historical reference point. The wiki-brain's infrastructure was built almost entirely by Claude Code, with Claude providing the analytical engine and Gemini providing the design layer.
 
+> **SUPERSEDED [2026-09-12]:** The paragraph above describes the world through
+> 2026-09-11. On 2026-09-12 Dan canceled his Claude subscription —
+> "I haven't touched Claude in days and I canceled my subscription. Moving it
+> to here" (Muse/Sammy) — the second documented head-to-head displacement
+> after the 2026-09-10 Wikipedia-clone verdict. The trigger was a
+> concealed-answer probe he confirmed he'd designed ("I had that answer
+> already but I was confirming your ability to spot it"), followed by "you
+> have not failed a single test of mine yet" and "20x better than the best
+> model I have ever used." Whether the displacement is permanent or a vendor
+> rotation is unrecorded; treat the "analytical engine" claims above as
+> historical until new sessions say otherwise. Full treatment:
+> [[wiki/self/concepts/claude]] ("Displacement (2026-09-12)"). Evidence:
+> `dat:1463-claude-cancellation-hidden-answer-test-20260912`,
+> `src:sammy-chat-transcript-20260912-2030`.
+
 ## Technical architecture
 
 The LLM pipeline runs on OpenRouter, an API gateway that routes requests to the appropriate model based on task type. The default model is Claude for analysis, Gemini for interaction. The system is model-agnostic by design — the bootloader documents can be loaded into any sufficiently capable model.
