@@ -15,3 +15,7 @@ date   = "2026-09-12"
 +++
 
 <!-- prose for humans; the frontmatter is for machines -->
+
+## Addendum [2026-09-12]
+
+The photo record described above as ending in veg now ends in late flower (2015-11-01) per the second drop — dat:virginia-ave-grow-flower-2015. The harvest itself is still unphotographed, so the uncured-harvest detail still explains the gap. Nothing else in this node changes.

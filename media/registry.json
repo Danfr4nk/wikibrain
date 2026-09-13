@@ -1525,6 +1525,114 @@
    ],
    "embed": true,
    "embed_excluded": false
+  },
+  {
+   "id": "upload-039",
+   "type": "image",
+   "count": 1,
+   "date": "2015-10-09 01:21:03 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow, second drop",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/2f/2f6c15ddaad228ee1ce3cd14a9ce7e1277af3c55759fb10b3a8cb967562ef781.jpg",
+   "sha256": "2f6c15ddaad228ee1ce3cd14a9ce7e1277af3c55759fb10b3a8cb967562ef781",
+   "dimensions": "828x1109",
+   "gps": "39.887383,-79.722167",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan), flowering stage: early flower, white pistils, dark lights-out frame. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-flower-2015"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-040",
+   "type": "image",
+   "count": 1,
+   "date": "2015-10-09 01:31:29 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow, second drop",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/7e/7e6dc7c70b46b368642631a2982242c6bdf304fb0637f241f55ce58c02aeb854.jpg",
+   "sha256": "7e6dc7c70b46b368642631a2982242c6bdf304fb0637f241f55ce58c02aeb854",
+   "dimensions": "828x1109",
+   "gps": "39.887394,-79.722183",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan), flowering stage: early flower, white pistil clusters, desk lamp at frame edge. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-flower-2015"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-041",
+   "type": "image",
+   "count": 1,
+   "date": "2015-10-12 01:31:55 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow, second drop",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/46/46d55805f14d76278197fec64d15257fecf975d06770613b90d3578778fc6fc3.jpg",
+   "sha256": "46d55805f14d76278197fec64d15257fecf975d06770613b90d3578778fc6fc3",
+   "dimensions": "828x1109",
+   "gps": "39.887389,-79.722167",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan), flowering stage: early flower in terracotta pot, desk-lamp CFL rig visible, yellowing lower leaves. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-flower-2015"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-042",
+   "type": "image",
+   "count": 1,
+   "date": "2015-10-15 03:14:22 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow, second drop",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/90/90336a6f7c7ce22968e44399d717c60db85b8666f582eb951f850ae0b7f803e8.jpg",
+   "sha256": "90336a6f7c7ce22968e44399d717c60db85b8666f582eb951f850ae0b7f803e8",
+   "dimensions": "828x828",
+   "gps": "39.887378,-79.722092",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan), flowering stage: early-mid flower, white pistils, terracotta pot. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-flower-2015"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-043",
+   "type": "image",
+   "count": 1,
+   "date": "2015-10-28 07:26:34 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow, second drop",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/c0/c0cff5064756415046652aa763e8387d5798d1f33c3e9eb8be386870df0e0ad4.jpg",
+   "sha256": "c0cff5064756415046652aa763e8387d5798d1f33c3e9eb8be386870df0e0ad4",
+   "dimensions": "828x1109",
+   "gps": "39.887383,-79.722153",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan), flowering stage: developed colas, pistils ambering. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-flower-2015"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-044",
+   "type": "image",
+   "count": 1,
+   "date": "2015-11-01 22:17:44 local (EXIF, Samsung SCH-I545); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow, second drop",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/fb/fb65330a1a7b1d31f0c52aad48abe33eb06b35881fe2bc7393387c213796335f.jpg",
+   "sha256": "fb65330a1a7b1d31f0c52aad48abe33eb06b35881fe2bc7393387c213796335f",
+   "dimensions": "828x1472",
+   "gps": null,
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan), flowering stage: trichome/pistil macro, amber pistils, frosty; Samsung Galaxy S4 (SCH-I545), no GPS \u2014 only non-iPad frame. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-flower-2015"
+   ],
+   "embed": false,
+   "embed_excluded": false
   }
  ],
  "policy": "Originals are never committed to wikitest or RAWLOGS. This registry maps each item to its canonical location (Google Photos share URL or Drive path). Compressed derivatives for wiki entries live under media/<batch-slug>/ and are referenced from the src:/dat: nodes. Censorship rule (2026-09-12, Dan's directive): embedded derivatives showing nudity or sexual activity are pixelated/blurred before commit. The uncensored original stays at its canonical location and is never committed.",

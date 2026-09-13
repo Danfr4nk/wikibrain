@@ -12,3 +12,7 @@ created    = "2026-09-13"
 +++
 
 <!-- prose for humans; the frontmatter is for machines -->
+
+## Addendum [2026-09-12] — second drop, flowering stage
+
+Six more photos received same day, same batch: 2f6c15dd (2015-10-09 01:21:03), 7e6dc7c7 (2015-10-09 01:31:29), 46d55805 (2015-10-12 01:31:55), 90336a6f (2015-10-15 03:14:22), c0cff506 (2015-10-28 07:26:34) — all iPad mini with GPS at the 155 Virginia fix — plus fb65330a (2015-11-01 22:17:44, Samsung SCH-I545, no GPS), a trichome/pistil macro. Set now 15 readable of 16 sent; the 4f file remains a phantom directory entry (listed, unreadable). Filed at dat:virginia-ave-grow-flower-2015.

@@ -17,3 +17,7 @@ end    = "2015-10-04"
 +++
 
 <!-- prose for humans; the frontmatter is for machines -->
+
+## Addendum [2026-09-12]
+
+SUPERSEDED in part: the "photo series ends in veg (2015-10-04)" reading above. A second drop of six flowering-stage frames (2015-10-09 to 2015-11-01) extends the series to late flower — see dat:virginia-ave-grow-flower-2015. The 15-photo set now documents the full seedling-to-flower run. The rest of this node stands: no tension with the switch window or the tenancy, and the harvest itself remains unphotographed.

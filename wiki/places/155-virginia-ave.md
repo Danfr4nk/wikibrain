@@ -105,17 +105,22 @@ Dian V. Moore, demanding the keys.
 > the record). Fran at the Virginia Avenue lair, two months into the Annie
 > relationship: she was a guest in their space, not the other way around.
 
-> **THE GROW [2026-09-12].** The lair grew its own supply. Dan sent nine
-> EXIF-dated photographs (iPad mini, 2015-08-18 through 2015-10-04)
-> documenting an indoor cannabis grow at this address: seedling to bushy
-> vegetative growth in terracotta pots under CFL lighting — Energetic-branded
-> CFLs, a clamp lamp, a desk-lamp rig — a home setup, nothing professional.
-> One frame shows two pots: at least two plants. GPS on eight of nine frames
-> clusters at the 155 Virginia fix. The strain was his favorite, and he gave
-> it his own name: **"Dream Queen"** — his label, not a verified strain ID
-> (`dat:virginia-ave-grow-timeline-2015`). The photo series ends in veg,
-> seven weeks before the switch; there are no harvest frames, because per
-> Dan's 2026-09-12 testimony the harvest never got photographed — [[wiki/people/casey-bondarenka|Casey]]
+> **THE GROW [2026-09-12].** The lair grew its own supply. Dan sent fifteen
+> EXIF-dated photographs (2015-08-18 through 2015-11-01) documenting an indoor
+> cannabis grow at this address, seedling to late flower: vegetative growth in
+> terracotta pots under CFL lighting — Energetic-branded CFLs, a clamp lamp, a
+> desk-lamp rig — then early flower with white pistils (Oct 9), developed colas
+> with ambering pistils (Oct 28), and a trichome macro (Nov 1). A home setup,
+> nothing professional; one frame shows two pots, so at least two plants. GPS
+> on thirteen of fifteen frames clusters at the 155 Virginia fix (the Nov 1
+> macro came from a Samsung Galaxy S4, no GPS). Dan's testimony, filed as his:
+> zero growing experience or knowledge, grown in a closet with clamp lights and
+> incandescent bulbs. The strain was his favorite, and he gave it his own name:
+> **"Dream Queen"** — his label, not a verified strain ID
+> (`dat:virginia-ave-grow-timeline-2015`, `dat:virginia-ave-grow-flower-2015`).
+> The series ends in late flower, four weeks before the switch; the harvest
+> itself was never photographed — because per Dan's 2026-09-12 testimony it
+> never got the chance: [[wiki/people/casey-bondarenka|Casey]]
 > took it before it had cured and smoked it all in one night during the
 > Alexis-to-Annie switch (`dat:casey-uncured-harvest-dream-queen-20260912`).
 > The taking rests on his testimony alone, but the window fits the one

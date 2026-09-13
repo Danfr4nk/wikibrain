@@ -3,8 +3,8 @@
  "intake_source": "direct send in chat (iOS), 2026-09-12",
  "album_url": null,
  "album_name": null,
- "photo_count_expected": 10,
- "photo_count_received": 9,
+ "photo_count_expected": 16,
+ "photo_count_received": 15,
  "missing": [
   "4f/4f7c46d4c6f56875a627e378ac6a75d64313066c62e1f30ae450aa54167a37d9f.jpg \u2014 listed in directory but unreadable at intake; pending re-pull"
  ],
@@ -82,7 +82,55 @@
    "upload_id": "upload-038",
    "exif_datetime": "2015-10-04 16:44:26",
    "dimensions": "828x1109"
+  },
+  {
+   "filename": "2f6c15ddaad228ee1ce3cd14a9ce7e1277af3c55759fb10b3a8cb967562ef781.jpg",
+   "sha256": "2f6c15ddaad228ee1ce3cd14a9ce7e1277af3c55759fb10b3a8cb967562ef781",
+   "bytes": 294803,
+   "upload_id": "upload-039",
+   "exif_datetime": "2015-10-09 01:21:03",
+   "dimensions": "828x1109"
+  },
+  {
+   "filename": "7e6dc7c70b46b368642631a2982242c6bdf304fb0637f241f55ce58c02aeb854.jpg",
+   "sha256": "7e6dc7c70b46b368642631a2982242c6bdf304fb0637f241f55ce58c02aeb854",
+   "bytes": 313465,
+   "upload_id": "upload-040",
+   "exif_datetime": "2015-10-09 01:31:29",
+   "dimensions": "828x1109"
+  },
+  {
+   "filename": "46d55805f14d76278197fec64d15257fecf975d06770613b90d3578778fc6fc3.jpg",
+   "sha256": "46d55805f14d76278197fec64d15257fecf975d06770613b90d3578778fc6fc3",
+   "bytes": 260731,
+   "upload_id": "upload-041",
+   "exif_datetime": "2015-10-12 01:31:55",
+   "dimensions": "828x1109"
+  },
+  {
+   "filename": "90336a6f7c7ce22968e44399d717c60db85b8666f582eb951f850ae0b7f803e8.jpg",
+   "sha256": "90336a6f7c7ce22968e44399d717c60db85b8666f582eb951f850ae0b7f803e8",
+   "bytes": 274128,
+   "upload_id": "upload-042",
+   "exif_datetime": "2015-10-15 03:14:22",
+   "dimensions": "828x828"
+  },
+  {
+   "filename": "c0cff5064756415046652aa763e8387d5798d1f33c3e9eb8be386870df0e0ad4.jpg",
+   "sha256": "c0cff5064756415046652aa763e8387d5798d1f33c3e9eb8be386870df0e0ad4",
+   "bytes": 316061,
+   "upload_id": "upload-043",
+   "exif_datetime": "2015-10-28 07:26:34",
+   "dimensions": "828x1109"
+  },
+  {
+   "filename": "fb65330a1a7b1d31f0c52aad48abe33eb06b35881fe2bc7393387c213796335f.jpg",
+   "sha256": "fb65330a1a7b1d31f0c52aad48abe33eb06b35881fe2bc7393387c213796335f",
+   "bytes": 417750,
+   "upload_id": "upload-044",
+   "exif_datetime": "2015-11-01 22:17:44",
+   "dimensions": "828x1472"
   }
  ],
- "notes": "Dedupe: SHA-256 clean against media/registry.json and every raw/*/manifest.json. Originals local-only, never committed."
+ "notes": "Dedupe: SHA-256 clean against media/registry.json and every raw/*/manifest.json. Originals local-only, never committed. Second drop 2026-09-12: 6 flowering-stage photos (2015-10-09 to 2015-11-01), completing the seedling-to-flower arc; dedupe clean."
 }
