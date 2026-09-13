@@ -10,7 +10,7 @@ importance = 5
 tags       = ["annie-ulmer", "boundary", "block", "held-boundary"]
 created    = "2026-09-09"
 updated    = "2026-09-09"
-rechecked  = "2026-09-10"
+rechecked  = "2026-09-12"
 falsifiers = [
   "The 2026-09-09 record's claim — 'keeping her blocked' — is contradicted by message traffic after 2026-08-26 showing two-sided contact resuming in the old register, as happened Aug 27–31. Then the held boundary is another violated one and this node's thesis collapses.",
   "A workaround channel surfaces — an alternate number, a group-chat thread, a 'one last message' exception — reported in operator testimony or in the corpus. The block-as-boundary framing survives only if the block is the whole boundary; a routed-around block is a gesture.",

@@ -15,7 +15,7 @@ created       = "2026-09-12"
 [when]
 start = "2018-02-16"
 end   = "2024-12-31"
-note  = "Exact date unrecoverable from screenshots (only relative 'Yesterday' markers). Tentative era: post-Mar-2017 (Nintendo Switch visible) and the iOS 12/13-era iMessage UI suggest the early-arrangement years rather than the Nov-2024 birthday thread; the dark cat on the couch may predate Gabe's Nov-2023 death. See date-anchor notes below."
+approx = "Exact date unrecoverable from screenshots (only relative 'Yesterday' markers). Tentative era: post-Mar-2017 (Nintendo Switch visible) and the iOS 12/13-era iMessage UI suggest the early-arrangement years rather than the Nov-2024 birthday thread; the dark cat on the couch may predate Gabe's Nov-2023 death. See date-anchor notes below."
 +++
 
 ## Device/thread metadata (visible in screenshots)

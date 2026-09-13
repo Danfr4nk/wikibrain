@@ -27,11 +27,12 @@ cites       = ["dat:0160-annie-read-corpus-scale-and-method",
                "dat:0541-relationship-start-dec-beats-verified",
                "dat:0403-ellen-ulmer-july-2026-disclosure-settled",
                "dat:0416-shelbie-annie-threesome-reconstruction-verified",
-               "src:morgantown-call-independent-stt-transcript-2026-09-09"]
+               "src:morgantown-call-independent-stt-transcript-2026-09-09",
+               "dat:1467-moan-transcriber-killed-and-brian-audio-correction"]
 confidence  = "high"
 importance  = 5
 created     = "2026-09-09"
-rechecked   = "2026-09-10"
+rechecked   = "2026-09-12"
 tags        = ["person", "annie-ulmer", "partner", "attachment"]
 +++
 
@@ -238,6 +239,25 @@ unreconciled, so **neither may be quoted without the other**
   non-message evidence.
 - Dan is measuring the severance against a 120-day horizon: December 19,
   2026. **[SUPERSEDED 2026-09-11: void — `dat:0090-block-retraction-2026-09-11`. There was no severance to measure.]**
+
+## 2026-09-12 — Brian voice-note scanner correction (moan transcriber killed)
+
+Dan sent a 29-minute voice note on 2026-09-12 labeled by him "It's Brian
+— an appointment" (`t1.m4a`; the rough 319-segment transcript is
+`~/workspace/user/files/t1_transcript.txt`). The `moan_scan.py` scanner's
+triage read: approximately 15 minutes of two people talking, then quiet,
+with zero moan detections — correcting the assistant's earlier "mostly
+music and moans" characterization, which was model hallucination on
+distant, quiet audio (the last ~9 min are nearly silent; no Brian voice
+is clearly identified). The scanner is triage rather than verdict:
+detected speech suppresses moan scores. The whole moan-transcriber line
+was killed by Dan's explicit order the same evening ("Okay stop all
+work on the moan transcriber"), so the instrument will not be run
+against this or any other audio. Filed as
+`dat:1467-moan-transcriber-killed-and-brian-audio-correction`. TEMPORAL
+QUALIFICATION: whether this "Brian" is the 2019 NYC client
+(`dat:0207-brian-nyc-2019-client-thread`) is not established — do not
+merge the identities until evidence says otherwise.
 
 ## Cross-links
 
