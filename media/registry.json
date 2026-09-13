@@ -1325,6 +1325,35 @@
      "sha256": "d8bf3f17f4589e256bd3ff63fb4716b64203f52501eb935ee4b29e5a1983d2b7"
     }
    ]
+  },
+  {
+   "id": "upload-029",
+   "type": "image",
+   "count": 1,
+   "date": "2025-09-03T04:42:46 local (EXIF, iPhone 14 iOS 18.5); sent by Dan in chat 2026-09-12 captioned \"The famous 'wall' from the pre Kristin summer 2025 era.\"",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/18/1846b7b425ac98cba071cebab56386ea2bec1ddbfa229419138b453972c78d99.jpg",
+   "description": "The Wall: basement wood-paneled wall under drop ceiling, densely covered with dozens of printed B&W women's portraits plus text/graphic prints (GPT banner, BLACK FLAG-style logo, MAKE AMERICA, tarot pentagram poster, I'M OK, OAKLAND RAIDERS, BORN TO RAID/EST.1960, hand-drawn ARE YOU...?, red poster, roast-joke pic, deja reference). Armchair + mic stand below. All portrait subjects UNIDENTIFIED; no nudity/sexual activity visible. Built Aug 1-2 2025 as an evaluation device for Kristin's take; photographed a month later.",
+   "linked_nodes": [
+    "src:wall-photo-2025-09-03",
+    "dat:wall-built-20250801-02",
+    "dat:wall-purpose-kristin-take",
+    "dat:wall-contents-per-texts-20250803",
+    "dat:wall-cumslut-photo-20250826",
+    "dat:wall-milo-joke-false-lead-20250805",
+    "dat:wall-tom-kristin-picture-suggestion",
+    "dat:wall-photo-exif-20250903",
+    "dat:wall-photo-visual-read",
+    "pat:wall-as-analog-face-library"
+   ],
+   "analysis_status": "analyzed-full-res",
+   "compressed_path": "wiki/media/upload-029.jpg",
+   "manifest": [
+    {
+     "file": "1846b7b425ac98cba071cebab56386ea2bec1ddbfa229419138b453972c78d99.jpg",
+     "sha256": "1846b7b425ac98cba071cebab56386ea2bec1ddbfa229419138b453972c78d99"
+    }
+   ]
   }
  ],
  "policy": "Originals are never committed to wikitest or RAWLOGS. This registry maps each item to its canonical location (Google Photos share URL or Drive path). Compressed derivatives for wiki entries live under media/<batch-slug>/ and are referenced from the src:/dat: nodes. Censorship rule (2026-09-12, Dan's directive): embedded derivatives showing nudity or sexual activity are pixelated/blurred before commit. The uncensored original stays at its canonical location and is never committed.",

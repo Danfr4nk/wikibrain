@@ -396,6 +396,7 @@ material, and every per-year message count that treats the dump as complete for
 
 | Date | Event |
 |---|---|
+| 2025-08-01→02 | The Wall built — dozens of printed B&W women's portraits on his basement wall, "my wall of despair." Built, by his own 08-03 account, to get *her* take ("we need to show kristin my wall of despair"), nearly four weeks before first direct contact. See [Attraction Guide](wiki/work/tech/attraction-guide.md) |
 | 2025-08-29 | First contact in evidence — Facebook Messenger |
 | 2025-08-30 | Bulk of the Facebook thread; link-trading, politics and music |
 | 2025-09-01 | Messenger UI captured 07:04–07:53; iMessage thread opens (933 messages) |
