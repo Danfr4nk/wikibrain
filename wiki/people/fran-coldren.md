@@ -8,7 +8,7 @@ importance: critical
 relation_type: family
 knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-09-11
+date_modified: 2026-09-12
 date_range: ["1920-08-15", "2018-04-04"]
 tags: [family, uniontown-era, grief, music-production, financial-stress]
 sources:
@@ -291,6 +291,20 @@ on a photorealistic Los Angeles bridge, producing the line the family kept:
 There is the photograph of her posing delightedly with his glass bong, which
 she had complimented as "a lovely vase," a grey sweatshirt behind her
 accidentally composing itself into rising smoke.
+
+> **SMOKE QUESTION SOLVED — BY Dan [2026-09-12].** Dan re-sent the 2015-12-11
+> bong triple byte-identical (sha256-for-sha256 against the 2026-09-11
+> ingestion) and asked what actually happens "in the one with the smoke coming
+> out," supplying his own iOS Photos crop zoomed on the mouthpiece. Forensic
+> read (3x zoom, contrast/brightness enhanced): the mouthpiece bore is just a
+> dark oval against the black room — no plume in the crop, no smoke in any of
+> the four files. Dan himself then supplied the mechanism: the "smoke" was a
+> white sweatshirt on a table in the background, accidentally in the perfect
+> position and the perfect color, with the bong held at the perfect angle — an
+> optical illusion reading as smoke coming out of the mouthpiece in the 2D
+> projection. No smoke, no smoking. His words, and a clean documented instance
+> of the good-faith visual-misread pattern: wrong on the read, right the moment
+> the mechanism was seen. See `dat:bong-photo-smoke-solved-dan-20260912`.
 
 He filmed most of that year, which is why any of it survives. His framing of
 what he was documenting is the right one: a wild spirit resisting institutional
