@@ -190,7 +190,7 @@ The core moral event of the relationship's terminal phase was the systematic ero
 ## Gaslighting Architecture
 
 The communication corpus demonstrates a systematic gaslighting architecture used to maintain relational stasis during active deception:
-- **Verbal Anchoring:** Annie maintained explicit verbal commitments, such as calling Dan her "soulmate" or telling him she loved him, while concurrently withdrawing physical presence, shared time, and fidelity.
+- **Verbal Anchoring:** Annie maintained explicit verbal commitments, such as calling Dan her "soulmate" or telling him she loved him, while concurrently withdrawing physical presence, shared time, and fidelity. This is [[wiki/mind/concepts/explicit-verbal-commitment]] weaponized from the other side: for a system that admits no counter-rule from behavior, the maintained statements *are* the bond, however far the behavior drifts.
 - **Semantic Drift:** The ten-year norm of mutual location sharing was unilaterally removed by Annie in August 2025, following a night spent at her former partner's residence. This removal was subsequently refed and reframed as Dan making a controlling demand.
 - **Cause-and-Effect Inversion:** Annie systematically responded to the distress caused by her withdrawal rather than the withdrawal itself, using phrases such as "I cannot talk to you when you are like this" to avoid addressing the underlying issues.
 - **Systematic Attacks on Reality:** While maintaining the concealed NYC relationship with [[wiki/people/eli|Eli]] through 2024, Annie repeatedly told Dan that his suspicions were insane, paranoid, or symptoms of mental illness. Dan explicitly documented that he chose to believe these assertions in order to return to a perceived normal life.

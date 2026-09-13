@@ -165,8 +165,9 @@ party mid-argument in late summer 2025 — "I hear melodies, harmonies. I
 don't hear the narrative or the topic of the lyrical content at all" —
 roughly a year before the capture the page was built on.
 
-The same filter governs relationships: the explicit-verbal-commitment
-architecture finds positive verbal expressions functioning as **absolute
+The same filter governs relationships: the
+[[wiki/mind/concepts/explicit-verbal-commitment]] architecture finds positive
+verbal expressions functioning as **absolute
 rules until an explicit severance signal arrives**, with no counter-rule
 admitted from behavior. Measured across 106,629 sent messages: "call me"
 170 times versus "do you love me" zero times — he asks for channel, not
@@ -186,7 +187,7 @@ forensic accuracy and drops the social cost; they are one mechanism.
 
 ### Rule-based attachment
 
-Dan states the mechanism in his own voice and attributes it to autism:
+Dan states [[wiki/mind/concepts/explicit-verbal-commitment|the mechanism]] in his own voice and attributes it to autism:
 *"My brain can't cross out that part of my life that I love unless I know
 that you don't feel that way"* — the tie persists because the terminating
 statement is never made. The Annie case is the concept's load-bearing
