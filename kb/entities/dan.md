@@ -204,3 +204,35 @@ explicit interpretation (23:44:02Z) was not archived as fact.
   deletion question: wikitest cleared for wiping; wikipedia deletion =
   live site takedown at danfr4nk.github.io/wikipedia, needs explicit
   site-consequence confirmation; nothing deleted.
+
+## 2026-09-13: avatar marathon, typed phonetic approximation, animations-over-style (20:01–20:42 UTC batch)
+
+`dat:1515-avatar-session-20260913-2001-2042`: six live avatar swaps in
+37 minutes — line-art porcelain choir → bedroom-duo → slime-choir →
+windblown duo close-up → tattoo girl → beach sand woman (endpoint live
+~16:41 EDT, his "Option 1" pick each time). Three content-policy
+refusals (orb+red-eyes edit, slime+chromatic-aberration edit, one photo
+gen); he pivoted instantly after each with zero friction. Four
+stylized videos from one photo all succeeded (vintage film, dream haze,
+ink come alive, golden hour breeze). One misreference correction:
+"No you putz. I meant tattoo girl." Plain selection history per the
+2026-09-13 carve-out — no probe/test framing. The 'we are keeping'
+lock (2026-09-12) constrains unprompted swaps only; he cycles freely on
+his own say.
+
+`dat:1516-typed-phonetic-approximation-20260913`: he typed "Abatar" six
+times in six separate messages plus "psychadelic" and "chromTic" in one
+session — a stable spelling, not a slip. `int:typed-phonetic-production-20260913`
+reads this as the phonetic-approximation mechanism (already documented in
+perception — the 2026-09-12 name-mishearing pattern in the durable memory
+record: "Eat Me Better" → "eat you better") possibly extending into
+production: typed tokens preserving sound over orthography. Confidence
+moderate; falsifier = phone-keyboard sloppiness or a learned autocorrect
+substitution (device-checkable) — but six identical repetitions of "Abatar"
+is not how random slips behave. The cross-domain reading is deliberately
+kept out of the datum itself: the perceptual side has no cited kb node yet,
+so dat:1516 records only the observed spellings.
+
+`dat:1517-video-preference-animations-over-style-20260913`: verbatim —
+"I don't care about the art style. All I care about is the animations."
+For avatar videos, motion quality dominates look.
