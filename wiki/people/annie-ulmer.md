@@ -9,7 +9,7 @@ importance: critical
 knowledge: mixed
 status: active
 date_created: 2026-06-22
-date_modified: 2026-08-23
+date_modified: 2026-09-12
 date_range_start: 2015-11-01
 date_range_end: 2026-08-19
 infobox:
@@ -472,6 +472,51 @@ anxiety. This was new territory for him: nothing in the
 [[wiki/people/danielle-onesi]] or earlier [[wiki/people/alexis-armel]]
 history shows a comparably total activation.
 
+**Dan's 2026 account of the origin week.** In September 2026, sending the
+Morgantown-trip photos, Dan gave the mechanism the corpus never had: about a
+week before Thanksgiving, [[wiki/people/alexis-armel|Alexis]] told him to go
+meet Annie to pick up drugs for the two of them while Alexis worked. He and
+Annie clicked immediately; she asked him to go with her to Morgantown for the
+pickup. They went together, and on return they had sex — seven hours later he
+brought Alexis her drugs, Annie still with him, and they sat down at the bar
+together. "That was the true minute Alexis and I split up." Alexis, in his
+telling, "knew what was going on just not HOW MUCH" — and "no one thought I
+could get Annie" (`dat:annie-origin-narrative-dan-20260912`).
+
+Three datings in the account sit against the corpus record. First, the
+introduction: Dan says ~Nov 19; the back-computation from Annie's Dec 1 "HAPPY
+ONE WEEK SINCE LEX HANDED YOU TO ME" gives ~Nov 24 — held open. Second, the
+golf course at 2am: Dan places a sneak-out meetup after the Nov 25
+"danfranksgiving" party — funded by
+[[wiki/people/zachariah-harshman|Zachariah Harshman]], which Annie attended.
+The message record, which opens 2015-11-28 23:47:54 ("Fuck my friends. Fuck
+birthday dinner. Fucking going drinking. I wanna be with you"), documents a
+*second* golf-course meetup on Nov 29, 6:40–7:30 ("meet you on the golf," "I'm
+on 3 tee," "I would sleep in the wet grass with you") — two distinct meetings,
+one testified, one textually anchored. The same thread finalizes the split:
+Nov 29 0:01, Dan: "Alexis doesn't know that you have any part in this. She
+thinks I'm just creeping you" — consistent with "knew what was going on just
+not HOW MUCH" — and by 8:33 the "It's done I'm yours" vows. Dan's bar scene
+was the rupture; Nov 29 was the formalization. Third, the second Morgantown
+trip: Dan says the day after Thanksgiving (Nov 27) — drugs, Annie's septum
+piercing, drinks at Primanti Bros; the three frames' EXIF agrees on **Nov 30,
+17:19–17:53** across two devices — held open. The piercing claim is
+corroborated by the shop frame (red walls, flash art, aftercare in hand) — and by its GPS: 39.6287, -79.9560, a live fix with ten-meter error exactly at capture time, i.e. downtown Morgantown, WV. (The cocktail frame's fix is stale — 16:36 against a 17:53 capture — and untrusted; the middle frame carries no GPS, consistent with a re-save.) Coordinates corroborate Morgantown, not a specific establishment; venue names are unverified. The trip's strongest anchor is eleven
+years later: 2026-07-24, Dan to Annie, unprompted — "you made me sad again. I
+just remembered you singing little mermaid to me in the car when we went to
+get your nose pierced and went to primanti's." What the trip does settle is a
+biographical exception: Dan drank alcohol at Primanti Bros — "my only time
+being forced to have alcohol in so long" — against the thirteen-to-fifteen-year
+alcohol-zero record, a breach he was still joking about on Dec 2 ("I mean I
+touch stink bugs and drink alcohol now.."). Two structural facts about the
+record: the origin week of Nov 19–27 holds four iMessages total — the meeting,
+both Morgantown runs, the first sex, the bar scene, danfranksgiving, the 2am
+meetup are textually dark, and Dan's 2026 testimony is the only record of that
+week; and no chat named for Alexis exists in the corpus, so her side of the
+breakup week is unrecoverable (`dat:primanti-alcohol-exception-2015-11-30`,
+`dat:danfranksgiving-2015-11-25`). The frames are thumbnailed in Sources,
+below.
+
 **Two things the 2026-08-17 hand-read of the two-sided corpus changes here.**
 
 First, *Annie was not unattached* — which reopens, from the other side, the
@@ -530,6 +575,18 @@ it is stated on day five, by both of them, in writing. Detail on
 > voluntarily empty, and that the replacement is sourced before the vacancy
 > occurs. Under [[wiki/mind/synthesis/dan-annie-fallout-verdict]]'s ledger it
 > belongs on the diagnosis-to-behaviour side, with his contributions, not hers.
+
+> **MECHANISM NOTE [2026-09-12] — the twenty-four-hour bond switch gains its
+> workings.** Dan's 2026-09-12 account (`dat:annie-origin-narrative-dan-20260912`)
+> supplies what the 2026-08-02 revision only dated: he clicked with Annie the
+> day he met her (his dating: ~Nov 19, 2015) — she asked him to go to Morgantown
+> with her, and they had sex on return. The bond transfer *was* that fast.
+> What was not fast was the formal separation: the rupture was a bar scene
+> about seven hours after the first Morgantown return ("the true minute"),
+> the formalization was the Nov 29 vows ("It's done I'm yours"), and Alexis
+> moved out Dec 1–2. The 'twenty-four hours' names the attachment transfer,
+> not the eviction. The origin week itself is textually dark — four iMessages
+> total for Nov 19–27 — so the rupture layer is testimony-only.
 
 The corpus's own volume confirms the intensity independent of anyone's
 memory of it. Dan sent 728 messages on December 10, 2015 alone, then 682,
@@ -596,10 +653,13 @@ mailed weed parcel.
 in-person golf-course meeting (Nov 29), Annie sent the first nude Dan ever
 got from her: a black-and-white bathroom selfie taken on her own iPhone 6s
 front camera at 14:33 EST on Thursday, November 26, 2015 — Thanksgiving
-Day — from her own position, not his. The visual-erotic channel opened
-before the physical one: she had not yet met him in person, he was still
-formally with Alexis, and the switch fortnight still had three days to
-run. The "first" rests on Dan's 2026 testimony; the timestamp rests on
+Day — from her own position, not his. [SUPERSEDED 2026-09-12 — the reading below is withdrawn. Dan's 2026-09-12
+origin account (`dat:annie-origin-narrative-dan-20260912`) has them having sex
+around ~Nov 19, a week *before* this photo. What the EXIF still anchors: the
+first nude was sent Nov 26, on Thanksgiving. What it no longer establishes:
+that no physical contact preceded it. The timestamp stands; the interpretation
+does not. `dat:annie-first-nude-milestone-20260912` carries the same
+correction.] The "first" rests on Dan's 2026 testimony; the timestamp rests on
 EXIF (`dat:annie-first-nude-milestone-20260912`). The frame is thumbnailed
 in Sources, below.
 
@@ -2308,3 +2368,9 @@ week, and it produced this page.
 ## Sources
 
 <a href="../../media/upload-045.jpg"><img src="../../media/upload-045.jpg" width="240" alt="Annie Ulmer, first nude, 2015-11-26 (pixelated)"></a> — Annie Ulmer's first nude to Dan, 2015-11-26 14:33 EST, black-and-white bathroom selfie (iPhone 6s front camera, her position). Embedded derivative pixelated per the censorship rule; the original is never committed. See `dat:annie-first-nude-milestone-20260912`.
+
+<a href="../../media/upload-046.jpg"><img src="../../media/upload-046.jpg" width="240" alt="Annie in piercing shop, 2015-11-30"></a> — Annie in a piercing/tattoo shop (red walls, flash art, framed certificate), 2015-11-30 17:19 local, iPhone 6; aftercare in hand, septum piercing trip. See `dat:primanti-alcohol-exception-2015-11-30`.
+
+<a href="../../media/upload-047.jpg"><img src="../../media/upload-047.jpg" width="240" alt="Dan with fishbowl cocktail, 2015-11-30"></a> — Dan drinking a blue fishbowl cocktail with a rubber duck, bar at night, 2015-11-30 17:52 local (no camera EXIF — possible re-save).
+
+<a href="../../media/upload-048.jpg"><img src="../../media/upload-048.jpg" width="240" alt="Two fishbowl cocktails, 2015-11-30"></a> — Two blue fishbowl cocktails with rubber ducks on a branded table, 2015-11-30 17:53 local, iPhone 6. Dan attributes the bar stop to Primanti Bros, Morgantown; venue not verifiable from the frame.

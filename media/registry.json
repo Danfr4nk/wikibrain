@@ -1651,6 +1651,60 @@
       ],
       "embed": true,
       "embed_excluded": false
+    },
+    {
+      "id": "upload-046",
+      "type": "image",
+      "count": 1,
+      "date": "2015-11-30 17:19:59 local (EXIF, iPhone 6); sent by Dan in chat 2026-09-12 as the second of an Annie photo series",
+      "share_url": null,
+      "local_path": "workspace/user/media_library/image/c5/c54ab1f570fc4ac6e596f1d3bcdcb2fb45eebbc32bb83d2d9be83053c8576917.jpg",
+      "sha256": "c54ab1f570fc4ac6e596f1d3bcdcb2fb45eebbc32bb83d2d9be83053c8576917",
+      "dimensions": "828x1104",
+      "gps": "39.6286778,-79.9559861 (EXIF, live fix at capture time \u2014 2015-11-30 22:19:59 UTC = 17:19:59 EST; HPE 10m, alt 291m; downtown Morgantown WV \u2014 the piercing shop)",
+      "description": "Annie Ulmer in a piercing/tattoo shop (red walls, flash-art frame, framed certificate), holding a small aftercare item \u2014 about to get or just got her septum pierced. Dan (2026-09-12) attaches this to the second Morgantown trip (drugs, septum piercing, Primanti Bros). Coordinates corroborate Morgantown, not a specific establishment.",
+      "linked_nodes": [
+        "src:annie-morgantown-trip-2015-11-30",
+        "dat:primanti-alcohol-exception-2015-11-30"
+      ],
+      "embed": true,
+      "embed_excluded": false
+    },
+    {
+      "id": "upload-047",
+      "type": "image",
+      "count": 1,
+      "date": "2015-11-30 17:52:48 local (EXIF); sent by Dan in chat 2026-09-12 as the second of an Annie photo series",
+      "share_url": null,
+      "local_path": "workspace/user/media_library/image/d5/d5496a7ebf17f8d1d1856cf39b5834b4f5609b89c76bddbe01117229e7a1a36d.jpg",
+      "sha256": "d5496a7ebf17f8d1d1856cf39b5834b4f5609b89c76bddbe01117229e7a1a36d",
+      "dimensions": "828x1473",
+      "gps": "none (consistent with re-save; no camera make/model in EXIF)",
+      "description": "Dan drinking a blue fishbowl cocktail with a rubber duck, bar at night \u2014 the bar stop on the second Morgantown trip. The drinking is a documented exception to his 13-15-year alcohol-zero record ('my only time being forced to have alcohol in so long').",
+      "linked_nodes": [
+        "src:annie-morgantown-trip-2015-11-30",
+        "dat:primanti-alcohol-exception-2015-11-30"
+      ],
+      "embed": true,
+      "embed_excluded": false
+    },
+    {
+      "id": "upload-048",
+      "type": "image",
+      "count": 1,
+      "date": "2015-11-30 17:53:11 local (EXIF, iPhone 6); sent by Dan in chat 2026-09-12 as the second of an Annie photo series",
+      "share_url": null,
+      "local_path": "workspace/user/media_library/image/db/db21f0ddfdbab8db958b0050ea8a2ec7764b9ab8dafbcdbe199f980d21a3ec.jpg",
+      "sha256": "db21f0ddfdbab8db958b0050ea8a2ec7764b9ab8dafbcdbe199f980d21a3ec",
+      "dimensions": "828x1035",
+      "gps": "39.6531667,-79.9410389 (EXIF \u2014 STALE FIX: timestamp 16:36:36 vs capture 17:53:11, DOP 0.0, alt 0.0; plausible Morgantown-area bar, low trust)",
+      "description": "Two blue fishbowl cocktails with rubber ducks on a branded table ('CRAFTED BY CUSTOM...'), 23 seconds after upload-047 \u2014 the two-drink stop on the second Morgantown trip.",
+      "linked_nodes": [
+        "src:annie-morgantown-trip-2015-11-30",
+        "dat:primanti-alcohol-exception-2015-11-30"
+      ],
+      "embed": true,
+      "embed_excluded": false
     }
   ],
   "policy": "Originals are never committed to wikitest or RAWLOGS. This registry maps each item to its canonical location (Google Photos share URL or Drive path). Compressed derivatives for wiki entries live under media/<batch-slug>/ and are referenced from the src:/dat: nodes. Censorship rule (2026-09-12, Dan's directive): embedded derivatives showing nudity or sexual activity are pixelated/blurred before commit. The uncensored original stays at its canonical location and is never committed.",

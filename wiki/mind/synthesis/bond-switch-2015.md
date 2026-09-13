@@ -358,6 +358,26 @@ Dan's house that morning is **never named**, and both Dan and Annie blame
 [[wiki/people/casey-bondarenka|Casey]]. Emilio's documented vector is Claire,
 not Ellen. Do not collapse the two.
 
+## Rupture vs formalization (2026-09-12)
+
+The switch's timestamp resolves into two events, not one. Dan's 2026 account
+dates the *rupture* to a bar scene in the origin week: about a week before
+Thanksgiving, Alexis sent him to meet Annie for a drug pickup; he and Annie
+went to Morgantown together, had sex on return, and seven hours later he
+delivered Alexis's drugs with Annie still beside him — all three sat at the
+bar, and "that was the true minute Alexis and I split up"
+(`dat:annie-origin-narrative-dan-20260912`). The *formalization* is
+corpus-anchored: the Annie thread opens 2015-11-28 23:47:54, and on Nov 29 the
+vows land — "It's done I'm yours" (8:33+), after a night that also carries two
+golf-course meetups (the 2am sneak-out after danfranksgiving and the 6:40–7:30
+"I'm on 3 tee" round) and Dan's line "Alexis doesn't know that you have any
+part in this. She thinks I'm just creeping you" (0:01) — consistent with his
+"knew what was going on just not HOW MUCH." Mechanism, revised: the origin
+week of Nov 19–27 is textually dark (four iMessages total), so the rupture is
+testimony-only; the formalization is real-time text. The synthesis's "one day
+apart" dating (Alexis end Nov 28, Annie start Nov 29) now reads as the
+formalization layer; the rupture layer ran in person, days earlier, unwritten.
+
 ## Gaps
 
 - **Emilio's surname, and his own channel.** The partner Annie left is named by the operator but appears in no export of his own; everything known about him is relayed through Annie. Whether he is also the unnamed person who told Ellen about the car on Dec 2 is **not** established — Casey is the one both parties blame.

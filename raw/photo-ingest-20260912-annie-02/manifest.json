@@ -1,0 +1,61 @@
+{
+  "batch": "photo-ingest-20260912-annie-02",
+  "intake_source": "direct_send",
+  "sent_by": "Dan Frank",
+  "sent_date": "2026-09-12",
+  "channel": "chat (second Annie photo drop)",
+  "note": "Originals remain local-only at workspace/user/media_library/image/{c5,d5,db}/; never committed. Derivatives committed as wiki/media/upload-046/047/048.jpg.",
+  "files": [
+    {
+      "original_hash": "c54ab1f570fc4ac6e596f1d3bcdcb2fb45eebbc32bb83d2d9be83053c8576917",
+      "local_path": "workspace/user/media_library/image/c5/c54ab1f570fc4ac6e596f1d3bcdcb2fb45eebbc32bb83d2d9be83053c8576917.jpg",
+      "bytes": 260047,
+      "sha256": "c54ab1f570fc4ac6e596f1d3bcdcb2fb45eebbc32bb83d2d9be83053c8576917",
+      "dimensions": "828x1104",
+      "exif": {
+        "DateTimeOriginal": "2015-11-30 17:19:59",
+        "Make": "Apple",
+        "Model": "iPhone 6",
+        "GPS": "39.6286778,-79.9559861 (live fix at capture time, HPE 10m)"
+      },
+      "derivative": "wiki/media/upload-046.jpg (675x900)",
+      "platform_id": null,
+      "gphotos_id": null,
+      "description": "Annie in piercing/tattoo shop, aftercare item in hand \u2014 septum piercing trip"
+    },
+    {
+      "original_hash": "d5496a7ebf17f8d1d1856cf39b5834b4f5609b89c76bddbe01117229e7a1a36d",
+      "local_path": "workspace/user/media_library/image/d5/d5496a7ebf17f8d1d1856cf39b5834b4f5609b89c76bddbe01117229e7a1a36d.jpg",
+      "bytes": 312301,
+      "sha256": "d5496a7ebf17f8d1d1856cf39b5834b4f5609b89c76bddbe01117229e7a1a36d",
+      "dimensions": "828x1473",
+      "exif": {
+        "DateTimeOriginal": "2015-11-30 17:52:48",
+        "Make": null,
+        "Model": null,
+        "GPS": null
+      },
+      "derivative": "wiki/media/upload-047.jpg (505x900)",
+      "platform_id": null,
+      "gphotos_id": null,
+      "description": "Dan drinking a blue fishbowl cocktail with a rubber duck, bar at night"
+    },
+    {
+      "original_hash": "db21f0ddfdbab8db958b0050ea8a2ec7764b9ab8dafbcdbe199f980d21a3ec",
+      "local_path": "workspace/user/media_library/image/db/db21f0ddfdbab8db958b0050ea8a2ec7764b9ab8dafbcdbe199f980d21a3ec.jpg",
+      "bytes": 192518,
+      "sha256": "db21f0ddfdbab8db958b0050ea8a2ec7764b9ab8dafbcdbe199f980d21a3ec",
+      "dimensions": "828x1035",
+      "exif": {
+        "DateTimeOriginal": "2015-11-30 17:53:11",
+        "Make": "Apple",
+        "Model": "iPhone 6",
+        "GPS": "39.6531667,-79.9410389 (STALE fix 16:36:36, low trust)"
+      },
+      "derivative": "wiki/media/upload-048.jpg (720x900)",
+      "platform_id": null,
+      "gphotos_id": null,
+      "description": "Two blue fishbowl cocktails with rubber ducks on a branded table"
+    }
+  ]
+}
