@@ -1,0 +1,126 @@
+{
+  "batch": "photo-ingest-20260912-zac-01",
+  "intake_source": "direct send (iOS, Dan)",
+  "photo_count": 10,
+  "unique_registered": 9,
+  "pull_timestamp_utc": "2026-09-13T01:36:04Z",
+  "pull_method": "direct file send, staged via glob copy",
+  "timezone": "America/New_York",
+  "identity_note": "Contact \"Zac\" identified by Dan (2026-09-12, authoritative) as Zac Shumar, NOT Zach Clingan.",
+  "timing_note": "Shumar argument EXIF-dated 2015-12-06 (Sunday; church fit). Clingan \"I have to talk to you\" text is 2015-12-09 20:18:33 UTC per messages.csv \u2014 three days later, not the same afternoon.",
+  "files": [
+    {
+      "source_path": "workspace/user/media_library/image/49/49674a776a0e6e60f79d575cb94fec5a18142bab6770607edb486421f867508d.jpg",
+      "sha256": "49674a776a0e6e60f79d575cb94fec5a18142bab6770607edb486421f867508d",
+      "bytes": 200248,
+      "exif_datetime": "2015:12:06 14:57:51",
+      "status_bar_time": "2:57 PM",
+      "description": "Zac sends Instagram kissing-couple screenshot + \"Come on man.\"",
+      "upload_id": "upload-072",
+      "filename": "zac-01-1457.jpg",
+      "testimony": false
+    },
+    {
+      "source_path": "workspace/user/media_library/image/20/2045055f3ef58066dcb6a93733548f107bdcb86fc1738f31b6a38258e40070e8.jpg",
+      "sha256": "2045055f3ef58066dcb6a93733548f107bdcb86fc1738f31b6a38258e40070e8",
+      "bytes": 228848,
+      "exif_datetime": "2015:12:06 15:11:14",
+      "status_bar_time": "3:08 PM",
+      "description": "\"Would you rather see her with another shitty dude\" exchange; \"I think she is going to treat you badly\"",
+      "upload_id": "upload-073",
+      "filename": "zac-02-1508.jpg",
+      "testimony": false
+    },
+    {
+      "source_path": "workspace/user/media_library/image/3e/3e5dd2ef9ddc7ec94aba72651de5181062d185d20970849a878bcbad4fe42e16.jpg",
+      "sha256": "3e5dd2ef9ddc7ec94aba72651de5181062d185d20970849a878bcbad4fe42e16",
+      "bytes": 268899,
+      "exif_datetime": "2015:12:06 15:22:10",
+      "status_bar_time": "3:11 PM",
+      "description": "\"you bail on lex and jump on Annie\" \u2014 third-party naming of the switch",
+      "upload_id": "upload-074",
+      "filename": "zac-03-1511.jpg",
+      "testimony": false
+    },
+    {
+      "source_path": "workspace/user/media_library/image/02/020eddb288d94a152a6554edb2c0dd226825a2e62f0c720803e3d0a12111b202.jpg",
+      "sha256": "020eddb288d94a152a6554edb2c0dd226825a2e62f0c720803e3d0a12111b202",
+      "bytes": 239907,
+      "exif_datetime": null,
+      "status_bar_time": "3:22 PM",
+      "description": "\"poured my heart out... then you go and fuck her the next weekend\"",
+      "upload_id": "upload-075",
+      "filename": "zac-04-1522a.jpg",
+      "testimony": false
+    },
+    {
+      "source_path": "workspace/user/media_library/image/a6/a6621f05a770829cfc041717e2fb9d8d206a0d96521c554c50dba07efd9b1ebe.jpg",
+      "sha256": "a6621f05a770829cfc041717e2fb9d8d206a0d96521c554c50dba07efd9b1ebe",
+      "bytes": 236870,
+      "exif_datetime": null,
+      "status_bar_time": "3:22 PM",
+      "description": "\"So you knew that you were trying to fuck her and just didn't mention that?\"",
+      "upload_id": "upload-076",
+      "filename": "zac-05-1522b.jpg",
+      "testimony": false
+    },
+    {
+      "source_path": "workspace/user/media_library/image/28/28dbee912e1872c365368a5f3d01116ac484b68621aeac956fccfe80e3ad8f19.jpg",
+      "sha256": "28dbee912e1872c365368a5f3d01116ac484b68621aeac956fccfe80e3ad8f19",
+      "bytes": 218895,
+      "exif_datetime": null,
+      "status_bar_time": "3:27 PM",
+      "description": "\"I went to church with her and her family today\"",
+      "upload_id": "upload-077",
+      "filename": "zac-06-1527.jpg",
+      "testimony": false
+    },
+    {
+      "source_path": "workspace/user/media_library/image/41/41bc368b75f132d1af74a49713c63a66fe26d44dbe27087f07a351698fe8c089.jpg",
+      "sha256": "41bc368b75f132d1af74a49713c63a66fe26d44dbe27087f07a351698fe8c089",
+      "bytes": 242114,
+      "exif_datetime": "2015:12:06 15:41:35",
+      "status_bar_time": "3:41 PM",
+      "description": "Closing exchange: \"getting with the girl I wanted\"",
+      "upload_id": "upload-078",
+      "filename": "zac-07-1541.jpg",
+      "testimony": false
+    },
+    {
+      "source_path": "workspace/user/media_library/image/33/33af2a8294c32738aa2fe155f79148a8bb84ed9120ebbd5e51d9bb78863876ae.jpg",
+      "sha256": "33af2a8294c32738aa2fe155f79148a8bb84ed9120ebbd5e51d9bb78863876ae",
+      "bytes": 238599,
+      "exif_datetime": null,
+      "status_bar_time": "3:41 PM",
+      "description": "VARIANT ENCODE of zac-07-1541 (same screenshot, different bytes) \u2014 not separately registered",
+      "upload_id": null,
+      "filename": "zac-07b-1541-variant.jpg",
+      "testimony": false,
+      "duplicate_of": "upload-078",
+      "registration_note": "Semantic duplicate/export variant of the same screenshot; not separately registered, no thumbnail"
+    },
+    {
+      "source_path": "workspace/user/media_library/image/1f/1f98d59a7dbbc1338e82742e63e7f9ea89d1e9cef206f98771fadce27e9ebcaf.jpg (homoglyph in source filename; staged via glob)",
+      "sha256": "1f98d59a7dbbc1338e82742e63e7f9ea89d1e9cef206f98771fadce27e9ebcaf",
+      "bytes": 302142,
+      "exif_datetime": null,
+      "status_bar_time": "8:53 PM",
+      "description": "Dan's \"I'll keep rambling about how perfect you are\" message as received on Annie's phone (Verizon)",
+      "upload_id": "upload-079",
+      "filename": "zac-08-rambler.jpg",
+      "testimony": false,
+      "provenance_note": "Screenshot from Annie's phone (Verizon); gray bubbles inferred as Dan's messages as received on her device"
+    },
+    {
+      "source_path": "workspace/user/media_library/image/82/82e833761c8e5048d157da2b74980aae932c57ef167b1b47c2933c78dc8262be.jpg",
+      "sha256": "82e833761c8e5048d157da2b74980aae932c57ef167b1b47c2933c78dc8262be",
+      "bytes": 193254,
+      "exif_datetime": null,
+      "status_bar_time": "6:04 PM",
+      "description": "\"I want to marry you / And spend forever feeling this happy\" \u2014 \"I can promise you / That you will marry me\"",
+      "upload_id": "upload-080",
+      "filename": "zac-09-marry.jpg",
+      "testimony": false
+    }
+  ]
+}
