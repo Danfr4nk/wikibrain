@@ -1991,7 +1991,10 @@
       "dimensions": "828x1473",
       "gps": null,
       "description": "Post-it-note advent calendar (numbers 1-25 + star) arranged as a tree on a dark door, captioned 'Post it....Adventi calendar'. Dates the batch to December independently of testimony.",
-      "linked_nodes": ["src:annie-new-life-2015-12", "dat:annie-new-life-exchange-2015-12-01"],
+      "linked_nodes": [
+        "src:annie-new-life-2015-12",
+        "dat:annie-new-life-exchange-2015-12-01"
+      ],
       "embed": false,
       "embed_excluded": false,
       "sha256": "8ff5e48d46bda42a3408ad02b194c3cf35e0aeb156f508fe4b88d183856090d5",
@@ -2007,7 +2010,10 @@
       "dimensions": "828x1470",
       "gps": null,
       "description": "Indoor selfie: Dan in a black beanie pulling a face, Annie leaning her head on his shoulder, ceiling light above. Evening of Dec 1, after the new-life exchange.",
-      "linked_nodes": ["src:annie-new-life-2015-12", "dat:annie-new-life-exchange-2015-12-01"],
+      "linked_nodes": [
+        "src:annie-new-life-2015-12",
+        "dat:annie-new-life-exchange-2015-12-01"
+      ],
       "embed": false,
       "embed_excluded": false,
       "sha256": "d21ef5b76c2e85baee5926481e88c823485d39917d7856da0a1bbb0f5bf96a30",
@@ -2023,7 +2029,10 @@
       "dimensions": "828x1104",
       "gps": "39.885292,-79.712425 (EXIF - weak fix, HPE 320m; approximate, Uniontown PA area)",
       "description": "Annie lying on a mattress holding a string of lit Christmas lights above her, laughing; black tank top, jeans; deck and yard visible through a glass door. Afternoon of Dec 1 - decorating the household as theirs.",
-      "linked_nodes": ["src:annie-new-life-2015-12", "dat:annie-new-life-exchange-2015-12-01"],
+      "linked_nodes": [
+        "src:annie-new-life-2015-12",
+        "dat:annie-new-life-exchange-2015-12-01"
+      ],
       "embed": false,
       "embed_excluded": false,
       "sha256": "0f2ad7836dffb34656a53fee630f89ed897810dc220a58ec12e1823e8b550fca",
@@ -2039,7 +2048,10 @@
       "dimensions": "828x1470",
       "gps": null,
       "description": "iMessage screenshot (AT&T LTE, 1:38 PM, 17% battery) with Annie: Dan's 'new life' declaration - 'Because I didn't sleep and I want to bask in my new life with you' / 'Annie Ulmer from now on its just you and me' / 'Because she's gone' / 'We made it lol' / 'I wanna spend forever smothering you in love' (bottom line partially cut); Annie: 'You're adorable' / smiley / 'This is wonderful you give me the best feeling'. Earliest primary instance of the explicit-verbal-commitment architecture.",
-      "linked_nodes": ["src:annie-new-life-2015-12", "dat:annie-new-life-exchange-2015-12-01"],
+      "linked_nodes": [
+        "src:annie-new-life-2015-12",
+        "dat:annie-new-life-exchange-2015-12-01"
+      ],
       "embed": false,
       "embed_excluded": false,
       "sha256": "229a927dcb74bed9aabbbae048bf9d80776d540e8eaa6939a9d993d98234e9cb",
@@ -2055,7 +2067,10 @@
       "dimensions": "828x1104",
       "gps": "39.88765,-79.722167 (EXIF - HPE ~324m; approximate, Uniontown PA area)",
       "description": "Laughing selfie: Annie with hand over her mouth, Dan in a red shirt leaning his head on her shoulder. Midday Dec 7 - settled-couple register.",
-      "linked_nodes": ["src:annie-new-life-2015-12", "dat:annie-first-december-2015-12-07"],
+      "linked_nodes": [
+        "src:annie-new-life-2015-12",
+        "dat:annie-first-december-2015-12-07"
+      ],
       "embed": false,
       "embed_excluded": false,
       "sha256": "ff1077dfe7fedba898f49cf36130732d256735ca312c1b0033abffd56d9308b3",
@@ -2071,7 +2086,10 @@
       "dimensions": "828x621",
       "gps": "39.887428,-79.722106 (EXIF - HPE ~313m; approximate, Uniontown PA area)",
       "description": "Bed photo: Dan shirtless (red wristband visible) and Annie beside him under white sheets, both smiling at the camera. No nudity or sexual activity visible; no pixelation. Representative frame.",
-      "linked_nodes": ["src:annie-new-life-2015-12", "dat:annie-first-december-2015-12-07"],
+      "linked_nodes": [
+        "src:annie-new-life-2015-12",
+        "dat:annie-first-december-2015-12-07"
+      ],
       "embed": false,
       "embed_excluded": false,
       "sha256": "e19c454605a5fd42f9ddbf28be1330bca12d342e1fa7b53afceea4f801ce8809",
@@ -2087,7 +2105,10 @@
       "dimensions": "828x621",
       "gps": "39.887428,-79.722106 (EXIF - HPE ~313m; approximate, Uniontown PA area)",
       "description": "Bed photo: Dan kissing Annie's cheek, her arm around him, under white sheets. No nudity or sexual activity visible; no pixelation.",
-      "linked_nodes": ["src:annie-new-life-2015-12", "dat:annie-first-december-2015-12-07"],
+      "linked_nodes": [
+        "src:annie-new-life-2015-12",
+        "dat:annie-first-december-2015-12-07"
+      ],
       "embed": false,
       "embed_excluded": false,
       "sha256": "bd456b879a16b73174171427f50f9e738f14d6545c8e97035b8954e61d37f54f",
@@ -2111,6 +2132,159 @@
       "embed_excluded": false,
       "sha256": "f736bf78317ba98a6575baa8f9cb9c2626cac545d34864e3b5cf3ff8bb514562",
       "bytes": 211598
+    },
+    {
+      "id": "upload-072",
+      "type": "image",
+      "count": 1,
+      "date": "2015-12-06 14:57:51 local (EXIF, Photos 1.0.1 export; status-bar 2:57 PM)",
+      "share_url": null,
+      "local_path": "workspace/user/media_library/image/49/49674a776a0e6e60f79d575cb94fec5a18142bab6770607edb486421f867508d.jpg",
+      "dimensions": "800x1420",
+      "gps": null,
+      "description": "iMessage screenshot, Dan<->Zac Shumar: Shumar sends Instagram kissing-couple screenshot, \"Come on man.\" First frame of the Dec 6 confrontation.",
+      "sha256": "7c435404d958aba60e66bf7798307f565a1140728d400625b1c7f078495932ad",
+      "linked_nodes": [
+        "dat:shumar-dan-argument-2015-12-06"
+      ],
+      "batch": "photo-ingest-20260912-zac-01",
+      "embed_excluded": false
+    },
+    {
+      "id": "upload-073",
+      "type": "image",
+      "count": 1,
+      "date": "2015-12-06 15:11:14 local (EXIF, Photos 1.0.1 export; status-bar 3:08 PM)",
+      "share_url": null,
+      "local_path": "workspace/user/media_library/image/20/2045055f3ef58066dcb6a93733548f107bdcb86fc1738f31b6a38258e40070e8.jpg",
+      "dimensions": "800x1420",
+      "gps": null,
+      "description": "iMessage screenshot, Dan<->Shumar: \"I'm just mad that it's you. After everything I told you\" / \"I think she is going to treat you badly.\"",
+      "sha256": "bcd66203bd5a508d99fe187a5d507aaf65b319be194be9625565be20f8fca3c9",
+      "linked_nodes": [
+        "dat:shumar-dan-argument-2015-12-06"
+      ],
+      "batch": "photo-ingest-20260912-zac-01",
+      "embed_excluded": false
+    },
+    {
+      "id": "upload-074",
+      "type": "image",
+      "count": 1,
+      "date": "2015-12-06 15:22:10 local (EXIF, Photos 1.0.1 export; status-bar 3:11 PM)",
+      "share_url": null,
+      "local_path": "workspace/user/media_library/image/3e/3e5dd2ef9ddc7ec94aba72651de5181062d185d20970849a878bcbad4fe42e16.jpg",
+      "dimensions": "800x1420",
+      "gps": null,
+      "description": "iMessage screenshot, Dan<->Shumar: \"you bail on lex and jump on Annie like that's just dumb\" - third-party naming of the bond switch.",
+      "sha256": "8484a22e6bffe7df29980935ccfa36b97eb7280122d3a49f0d6d6f253c2850fd",
+      "linked_nodes": [
+        "dat:shumar-switch-naming-2015-12-06"
+      ],
+      "batch": "photo-ingest-20260912-zac-01",
+      "embed_excluded": false
+    },
+    {
+      "id": "upload-075",
+      "type": "image",
+      "count": 1,
+      "date": "2015-12-06 ~15:22 local (no EXIF; adjacent-dated; status-bar 3:22 PM)",
+      "share_url": null,
+      "local_path": "workspace/user/media_library/image/02/020eddb288d94a152a6554edb2c0dd226825a2e62f0c720803e3d0a12111b202.jpg",
+      "dimensions": "800x1420",
+      "gps": null,
+      "description": "iMessage screenshot, Dan<->Shumar: \"I poured my heart out to you about her then you go and fuck her the next weekend. Like it just fucking hurts, I trusted you man.\"",
+      "sha256": "4b8c6c3faee19416a702b5391363bb44bbca85a586eae09e30b567fbeb07414d",
+      "linked_nodes": [
+        "dat:shumar-dan-argument-2015-12-06"
+      ],
+      "batch": "photo-ingest-20260912-zac-01",
+      "embed_excluded": false
+    },
+    {
+      "id": "upload-076",
+      "type": "image",
+      "count": 1,
+      "date": "2015-12-06 ~15:22 local (no EXIF; adjacent-dated; status-bar 3:22 PM)",
+      "share_url": null,
+      "local_path": "workspace/user/media_library/image/a6/a6621f05a770829cfc041717e2fb9d9b1ebe.jpg",
+      "dimensions": "800x1420",
+      "gps": null,
+      "description": "iMessage screenshot, Dan<->Shumar: \"So you knew that you were trying to fuck her and just didn't mention that? That the issue.\"",
+      "sha256": "008d135dfa8d56914463f6de68a6b07e5787073edad221b5a5cc3938b46662ac",
+      "linked_nodes": [
+        "dat:shumar-dan-argument-2015-12-06"
+      ],
+      "batch": "photo-ingest-20260912-zac-01",
+      "embed_excluded": false
+    },
+    {
+      "id": "upload-077",
+      "type": "image",
+      "count": 1,
+      "date": "2015-12-06 ~15:27 local (no EXIF; adjacent-dated; status-bar 3:27 PM)",
+      "share_url": null,
+      "local_path": "workspace/user/media_library/image/28/28dbee912e1872c365368a5f3d01116ac484b68621aeac956fccfe80e3ad8f19.jpg",
+      "dimensions": "800x1420",
+      "gps": null,
+      "description": "iMessage screenshot, Dan<->Shumar: \"I went to church with her and her family today. This isn't me trying to sling web on some girl you once liked.\" Dec 6 was a Sunday.",
+      "sha256": "37c8e47f01cb5118538397c6b23119cb8661d3c639331b4f823ce05a1b2141e6",
+      "linked_nodes": [
+        "dat:shumar-church-annie-family-2015-12-06"
+      ],
+      "batch": "photo-ingest-20260912-zac-01",
+      "embed_excluded": false
+    },
+    {
+      "id": "upload-078",
+      "type": "image",
+      "count": 1,
+      "date": "2015-12-06 15:41:35 local (EXIF, Photos 1.0.1 export; status-bar 3:41 PM)",
+      "share_url": null,
+      "local_path": "workspace/user/media_library/image/41/41bc368b75f132d1af74a49713c63a66fe26d44dbe27087f07a351698fe8c089.jpg",
+      "dimensions": "800x1420",
+      "gps": null,
+      "description": "iMessage screenshot, Dan<->Shumar closing exchange: \"I wish you and lex would have stayed together instead of getting with the girl I wanted.\" A second encode (33/33af...) of the same screenshot was received but not separately registered (semantic duplicate).",
+      "sha256": "4a1f69d589430486ede8ffd901f7db8f198d7d72f97f33a6a63e41fddc31b028",
+      "linked_nodes": [
+        "dat:shumar-dan-argument-2015-12-06"
+      ],
+      "batch": "photo-ingest-20260912-zac-01",
+      "embed_excluded": false
+    },
+    {
+      "id": "upload-079",
+      "type": "image",
+      "count": 1,
+      "date": "2015-12-10 20:38 local (corpus row 131575, 2015-12-11 01:38:38 UTC; status-bar 8:53 PM)",
+      "share_url": null,
+      "local_path": "workspace/user/media_library/image/1f/1f98d59a7dbbc1338e82742e63e7f9ea89d1e9cef206f98771fadce27e9ebcaf.jpg (source filename contains a homoglyph variant; staged via glob)",
+      "dimensions": "800x1423",
+      "gps": null,
+      "description": "Screenshot from Annie's phone (Verizon): Dan's long commitment message (\"I'll keep rambling about how perfect you are\u2026 I love you forever\") as received text. Annie-side evidence.",
+      "sha256": "3622ea9853789f6b7ca02c21c61eb171189b4f6734f629045be2da0e775df007",
+      "linked_nodes": [
+        "dat:dan-rambler-annie-phone-2015-12-10"
+      ],
+      "batch": "photo-ingest-20260912-zac-01",
+      "embed_excluded": false
+    },
+    {
+      "id": "upload-080",
+      "type": "image",
+      "count": 1,
+      "date": "2015-12-10 18:01 local (messages.csv rows 131945/131902, 23:01:46/23:01:58 UTC; status-bar 6:04 PM)",
+      "share_url": null,
+      "local_path": "workspace/user/media_library/image/82/82e833761c8e5048d157da2b74980aae932c57ef167b1b47c2933c78dc8262be.jpg",
+      "dimensions": "800x1420",
+      "gps": null,
+      "description": "iMessage screenshot, Dan<->Annie: \"I want to marry you\" / \"And spend forever feeling this happy\" \u2014 \"I can promise you\" / \"That you will marry me.\" Full exchange extends to \"Save it forever\" / \"Nobody has ever made me as happy as you just did\" (rows 131959/131916/131944/131901).",
+      "sha256": "1a45e0f67e33ba0d2c45e88277fea2126f9c32f75f48d41015fe3aa32c089da9",
+      "linked_nodes": [
+        "dat:dan-annie-marriage-exchange-2015-12-10"
+      ],
+      "batch": "photo-ingest-20260912-zac-01",
+      "embed_excluded": false
     }
   ],
   "policy": "Originals are never committed to wikitest or RAWLOGS. This registry maps each item to its canonical location (Google Photos share URL or Drive path). Compressed derivatives for wiki entries live under media/<batch-slug>/ and are referenced from the src:/dat: nodes. Censorship rule (2026-09-12, Dan's directive): embedded derivatives showing nudity or sexual activity are pixelated/blurred before commit. The uncensored original stays at its canonical location and is never committed.",

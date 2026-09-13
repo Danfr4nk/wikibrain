@@ -549,6 +549,25 @@ their version and his own is the relationship's first structural problem — and
 it is stated on day five, by both of them, in writing. Detail on
 [[wiki/people/ellen-ulmer]].
 
+**December 6: Shumar's confrontation, and church with her family.** Four days
+after the stolen-laptop night, [[wiki/people/zac-shumar|Zac Shumar]] — the man
+who had wanted Annie himself and had poured his heart out to Dan about her —
+confronted Dan by text over Dan taking her: *"Like I poured my heart out to
+you about her then you go and fuck her the next weekend. Like it just fucking
+hurts, I trusted you man"* (Dec 6, 2:57–3:41 PM, EXIF-dated; the sole record,
+absent from the message exports). Shumar named the transfer in real time —
+*"you bail on lex and jump on Annie"* — an outsider reading the single-bond
+switch eight days into the documented record. Dan defended the relationship
+as family integration rather than conquest: *"I went to church with her and
+her family today"* — December 6 was a Sunday, so the claim is
+weekday-consistent (the 3:27 PM frame itself carries no EXIF and is dated by
+adjacency). And the switch was already public enough in Uniontown that Shumar
+had *"found out through other people."* The full exchange is on
+[[wiki/people/zac-shumar|his page]]. Four days later the corpus corroborates
+that the argument was real and still live — Dan texts her on Dec 10 that
+Shumar "didn't get back from philly in time" with his PA system and that
+"he's still mad at me" (messages.csv rows 131957, 131914).
+
 > **REVISED [2026-08-02] — the twenty-four-hour switch is Dan's, not**
 > **Annie's.** This page previously stated, in two places, that *Annie* left her
 > existing relationship within twenty-four hours of the introduction. Per the
@@ -594,7 +613,21 @@ memory of it. Dan sent 728 messages on December 10, 2015 alone, then 682,
 four-day sent-volume anywhere in the eleven-year record apart from the
 relationship's own 2025–26 termination window. The same shape — maximum
 output under maximum attachment — appears at both ends of this
-relationship and nowhere else in Dan's corpus with comparable force. The
+relationship and nowhere else in Dan's corpus with comparable force.
+
+**December 10: the commitment goes explicit.** Two exchanges from that day
+survive as screenshots and are instances of the explicit-verbal-commitment
+architecture ([[wiki/mind/concepts/explicit-verbal-commitment|dat:0081]]). In
+the evening Dan wrote, as received on **Annie's** phone (the screenshot is
+Annie-side evidence — Verizon status bar, 8:53 PM; corpus row 131575 at
+20:38 EST): *"I'll keep rambling about how perfect you are and how happy it
+makes me that this (what I'm doing right now) doesn't seem to annoy you…
+I love you forever and will always be here to make sure you smile."* Later
+the same night (18:01–18:03 EST, messages.csv rows 131945/131902 and
+131959/131916): Dan — *"I want to marry you" / "And spend forever feeling
+this happy"* — Annie — *"I can promise you" / "That you will marry me."*
+Her "Save it forever" and his "Nobody has ever made me as happy as you just
+did" extend the exchange. Both are thumbnailed in Sources, below. The
 timing on the public record matches exactly: Dan's Twitter handle
 **@Lo_weez** debuts as his "new primary" relational tag in December 2015
 ("worlds best girlfriend"), continuing through 2016 with matching
@@ -649,6 +682,14 @@ mailed weed parcel.
 510|> converging on the same mechanism makes a single, misdated event the
 511|> likelier reading.
 512|
+> > **FRICTION [2026-09-12]:** Dan's own 2026 testimony dates the bust to
+> > Valentine's Day 2017 and agrees on the mechanism (arrested picking up
+> > a mailed shipment), but puts the shipment at **20 lbs** against the
+> > **ten pounds from California** of his 2018 retellings. Date, mechanism,
+> > arrests, bail, paid lawyer, plea structure, and SCI Muncy agree across
+> > every account; the weight is the single numerical contradiction —
+> > preserved, not smoothed. (dat:shumar-bust-20lbs-dan-20260912)
+>
 **The first nude, November 26.** Between the introduction (~Nov 24) and the
 in-person golf-course meeting (Nov 29), Annie sent the first nude Dan ever
 got from her: a black-and-white bathroom selfie taken on her own iPhone 6s
@@ -2410,3 +2451,7 @@ week, and it produced this page.
 <a href="../../media/upload-069.jpg"><img src="../../media/upload-069.jpg" width="240" alt="Dan and Annie in bed, 2015-12-07"></a> — Bed photo, 2015-12-07 14:35 local, iPhone 6s: Dan shirtless with a red wristband, Annie beside him under white sheets, both smiling. No nudity or sexual activity visible. See `dat:annie-first-december-2015-12-07`.
 
 <a href="../../media/upload-070.jpg"><img src="../../media/upload-070.jpg" width="240" alt="Dan kissing Annie's cheek in bed, 2015-12-07"></a> — Bed photo, 2015-12-07 14:35 local: Dan kissing Annie's cheek, her arm around him, under the sheets. No nudity or sexual activity visible.
+
+<a href="../../media/upload-079.jpg"><img src="../../media/upload-079.jpg" width="240" alt="Dan's 'rambler' commitment message as received on Annie's phone, 2015-12-10"></a> — Dan's long commitment message ("I'll keep rambling about how perfect you are… I love you forever") as received on Annie's phone, screenshot 8:53 PM; corpus row 131575 at 2015-12-11 01:38:38 UTC (20:38 EST). Annie-side evidence of the commitment architecture. See `dat:dan-rambler-annie-phone-2015-12-10`.
+
+<a href="../../media/upload-080.jpg"><img src="../../media/upload-080.jpg" width="240" alt="Marriage exchange, 2015-12-10"></a> — "I want to marry you" / "And spend forever feeling this happy" — "I can promise you" / "That you will marry me," 2015-12-10 18:01–18:03 EST (messages.csv rows 131945/131902, 131959/131916). See `dat:dan-annie-marriage-exchange-2015-12-10`.

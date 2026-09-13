@@ -358,6 +358,33 @@ Dan's house that morning is **never named**, and both Dan and Annie blame
 [[wiki/people/casey-bondarenka|Casey]]. Emilio's documented vector is Claire,
 not Ellen. Do not collapse the two.
 
+## A third party names the switch, December 6
+
+Eight days into the documented record, an outsider describes the mechanism to
+Dan's face. On December 6, 2015, [[wiki/people/zac-shumar|Zac Shumar]] — the
+man who had wanted Annie himself, had poured his heart out to Dan about her,
+and was watching Dan take her the next weekend — texts Dan: *"Like we even
+talked about how lex and annie are similar so you bail on lex and jump on
+Annie like that's just dumb."*
+
+It is worth being precise about what Shumar is and isn't. He is not a
+neutral witness: *"Yeah well I wish you and lex would have stayed together
+instead of getting with the girl I wanted."* But the motive makes the
+observation *more* load-bearing, not less — the displaced rival on Annie's
+side of the ledger reads the transfer as a single-slot move ("bail on" /
+"jump on") independently, in real time, and before the switch's December 10
+escalation into the marriage declarations and the message flood. Two more
+facts from the same argument: Dan is already defending the relationship as
+family integration rather than sex (*"I went to church with her and her
+family today"* — Dec 6 was a Sunday), and the relationship is already public
+enough in Uniontown that Shumar *"found out through other people."*
+(dat:shumar-switch-naming-2015-12-06, dat:shumar-dan-argument-2015-12-06)
+
+The Shumar argument is EXIF-dated December 6; [[wiki/people/zach-clingan|Zach
+Clingan]]'s separately documented intervention ("I have to talk to you") is
+December 9. The earlier intake framing that these were the same afternoon is
+superseded — the sequence is Shumar on the 6th, Clingan on the 9th.
+
 ## Rupture vs formalization (2026-09-12)
 
 The switch's timestamp resolves into two events, not one. Dan's 2026 account

@@ -741,11 +741,26 @@ reason the one that did could.
 
 ## The Shumar years
 
-Alexis began dating **Zac (Zachary) Shumar** after the breakup — a man who
-had previously dated Dan's sister [[wiki/people/vanessa-frank|Vanessa]], and
-who per the CATO bootloader's own compression of the corpus (an AI synthesis,
-not a primary quote) had also been Annie's first. All four were entangled
-before any of what follows.
+Alexis began dating **[[wiki/people/zac-shumar|Zac (Zachary) Shumar]]**
+after the breakup — a man who had previously dated Dan's sister
+[[wiki/people/vanessa-frank|Vanessa]], and who per the CATO bootloader's own
+compression of the corpus (an AI synthesis, not a primary quote) had also
+been Annie's first. All four were entangled before any of what follows.
+
+> **GROUNDED [2026-09-12]:** Dan's own account now supplies the backstory
+> the bootloader only compressed. Shumar was **Vanessa's first boyfriend**
+> (Dan's 2026-08-19 phrasing to Ally Lubin: "dated my sister for 3 years in
+> high school"), and he **lost his virginity to Annie** — stated twice by
+> Dan, 2026-08-19 (messages.csv row 231518, in the same breath as the bust:
+> "the guy whose weed it was … lost his virginity to Annie") and 2026-09-12.
+> Testimony-grade (same speaker both times), not independent — but the
+> quarantine in dat:0247 ("no primary source anywhere in the corpus") now
+> reads: no *contemporaneous* source; the Dan-sourced attestation exists, and
+> it runs in this direction (Annie was *his* first). He started hanging
+> around right as the December 2015 switch happened — the
+> [[wiki/people/zac-shumar|December 6 confrontation]] — then dated Alexis.
+> (dat:shumar-vanessa-first-boyfriend-dan-20260912,
+> dat:shumar-virginity-annie-dan-testimony)
 
 On **Valentine's Day 2017** Zac went to collect a mail-order marijuana
 shipment and walked into police staged for it. The contemporaneous account —
@@ -757,7 +772,11 @@ the same phone call from jail. The retellings Dan gave later put the shipment
 at ten pounds from California and add the legal aftermath: Zac hired paid
 counsel, the DA required all three defendants to accept the same plea, and
 Alexis — whose own exposure was minimal, "it legit wasn't her deal" — took
-it. Within about a month she failed a drug test, violated probation, and was
+it. **FRICTION [2026-09-12]:** Dan's 2026 testimony agrees on the date
+(Valentine's Day 2017), mechanism, arrests, bail, lawyer, plea, and SCI
+Muncy — but puts the shipment at **20 lbs**. Preserved as an unresolved
+contradiction between his 2018 retellings and his 2026 account, not smoothed.
+Within about a month she failed a drug test, violated probation, and was
 jailed around the end of October 2017; by April 2018 she was at **SCI
 Muncy**, Pennsylvania's women's state prison. Zac did no time.
 
@@ -773,7 +792,12 @@ Two details around the edges matter more than the case. Alexis, Zac and a
 third person had been **living with Dan and Annie** at the time — *"All in
 the same house… Me and my ex, Annie and her ex… Dude they were living with
 us"* — which is the arrangement's structural precondition sitting in plain
-view a year before anyone acted on it. And the friendship with Zac Shumar
+view a year before anyone acted on it. Dan's 2026-09-12 account frames the stay
+as a cause: Zac and Alexis's house burned down, and they moved in with Dan
+and Annie for about a month — consistent with the Lucas thread's Feb 11,
+2017 fire report, but held open against the bootloader's "roughly a month
+afterward" (post-Nov-2015) stay, which may be a second stay or the same one
+misdated. And the friendship with Zac Shumar
 outlasted all of it: Dan and Zac were collaborating on an apparel side
 project in October 2017 while Alexis was on probation, and in July 2022 Dan
 was still close enough to him to report *"a 5 hour argument with Zac
