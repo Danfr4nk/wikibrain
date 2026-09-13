@@ -475,6 +475,24 @@ precise, better-evidenced account of "the loudest silence... all fun must
 be approved by management" than either "he's just a football-and-golf guy"
 or "we have nothing in common" would be on their own.
 
+**Peak Rick, January 11, 2016** (`dat:rick-denver-trip-yank-2016-01-11`).
+A screenshot Dan sent over on 2026-09-12 carrying his own label — "peak
+Rick" — and it earns it. The morning of January 11, six days before the
+Steelers' divisional playoff game in Denver, Rick texted: *"Do u want to go
+to the Steeler game in Denver?"* Dan lit up across three messages —
+*"Wow!"*, *"How long of a trip would it be? What days"*, *"I would love to
+go just want to make sure of the dates first"* — and Rick pulled it back
+in the same exchange: *"I was kidding. I want to also but can't swing
+it."* Dan: *"LOL I was going to say."* The exchange appears in no message
+export in the corpus; it survives only because Dan screenshotted it that
+morning. As a beat it is the register in miniature — the Steelers channel
+as the medium of father-son contact, a big offer floated and withdrawn
+within minutes, the son left holding the deflated version and laughing it
+off. The timing does its own work: eleven days after the "kicked to the
+curb" friction of mid-December, weeks after that friction resolved — the
+father who got the confessional version of the Annie-parents crisis in
+December is, in January, doing the Denver-trip yank.
+
 ## Family position
 
 Rick sits at the exact seam of the [[wiki/mind/synthesis/ancestral-dialectic|Ashkenazi/Appalachian ancestral binary]]: the paternal Jewish line running through him is the "hypervigilance" side of that framework, while his own 2005 collapse — the cocaine, the rehab, the marriage's end — is itself the load-bearing evidence the "numbness" side of the same dialectic points back to on the maternal side. Paternal Jewish line: grandson of [[wiki/people/david-j-frank|David J. Frank]] (b. 1892, Russia) and
@@ -498,3 +516,7 @@ claim that he never will** — the record simply ends there, and a future
 pass should re-pull both sources before restating this finding.
 
 
+
+## Sources
+
+<a href="../media/upload-071.jpg"><img src="../media/upload-071.jpg" width="240" alt="iMessage screenshot, 2016-01-11: Rick offers then retracts a Steelers-in-Denver trip"></a>
