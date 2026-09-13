@@ -82,9 +82,9 @@ By **November 23**, some friction had crept in: Alexis said she wanted to hang o
 
 ## Footage play-by-play (analyzed 2026-09-11–13; expanded 4x on 2026-09-13)
 
-The standing open question on this page — whether any footage from the birthday-night hidden-camera request was actually taken — is now closed. On 2026-09-11 Dan uploaded three parts of security-camera footage of the reunion plus a fourth part dated five months earlier, and commissioned a detailed play-by-play for this entry. The footage passed through PicsArt and is in his possession. On 2026-09-13 he ordered the play-by-play quadrupled: 128 frame grabs at roughly 16-second cadence across all four videos, one image per beat below.
+The standing open question on this page — whether any footage from the birthday-night hidden-camera request was actually taken — is now closed. On 2026-09-11 Dan uploaded three parts of security-camera footage of the reunion plus a fourth part dated five months earlier, and commissioned a detailed play-by-play for this entry. The footage passed through PicsArt and is in his possession. On 2026-09-13 he ordered the play-by-play quadrupled to 128 beats, then ordered the grabs re-pulled: each beat now uses the single frame that best displays its narrative action (chosen from five candidates spanning ±8s around the old timestamp), zoom-cropped onto the action.
 
-Censorship follows Dan's 2026-09-13 revision of the 2026-09-12 directive: only visibly exposed genitalia are pixelated — nothing else. At this camera distance and resolution almost nothing qualified: exactly 1 of the 128 frames needed a redaction. Uncensored originals live at `~/workspace/annie-alexis-frames/v2/raw/` and were never committed.
+Censorship follows Dan's 2026-09-13 revision of the 2026-09-12 directive: only visibly exposed nipples and genitalia are pixelated — nothing else, never the whole image. On the re-pulled set, 19 of the 128 frames needed targeted redaction (30 regions total). Uncensored originals live at `~/workspace/annie-alexis-frames/v3/final/` and were never committed.
 
 Identities: part 4's and part 3's identifications are Dan's testimony (Annie / Alexis); the second woman in the shortened Nov-6 cut (upload-026) is **unidentified** and is not asserted to be Alexis.
 
