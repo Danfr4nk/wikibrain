@@ -389,47 +389,6 @@ Kristin on night one. The daytime "favorite sex of ever all time forever"
 was already issuing declarations in banter form before the formal terms
 were tabled.
 
-## The order-switch, and what it reveals
-
-The exchange's most forensic moment is small. Kristin's "Okay. If you just
-stated: [the four bullets]... then you followed with 'now that I think
-about it'" **reverses his actual message order** — the "now that I think
-about it, I would enjoy someone being obsessed with me" line came first.
-Dan caught it in real time: "You switched the order of those to make it
-seem like I walked back what I was saying."
-
-She never addressed the order claim. She pivoted: "No. I'm not here for
-manipulation tactics. I'm evolved my guy — I don't thrive on pain
-anymore."
-
-Read it plainly: she misrepresented the sequence, he called it, and the
-callout was reframed as the offense. The deflection *is* the data. The
-irony she does not seem to register is that the pivot itself is the
-maneuver she accuses him of — the conversation is redirected from the
-falsifiable claim (the order) to the unfalsifiable one (his intent).
-
-There is a method footnote here that cost real time. Dan's own
-transcription of the chat **flipped the speaker** on the "switched the
-order" line, attributing his blue-bubble message to Kristin. An analyst
-working from the transcription alone reads the accusation backwards — and
-did, until the screen recording corrected it. The archive corrected the
-analyst, which is the system working as designed, and a standing warning
-about reconstructed logs: the transcription is Dan's rendering, and his
-rendering had the single most load-bearing line of the exchange attributed
-to the wrong speaker.
-
-## The pinpointing contradiction
-
-Two beats after the order-switch, Dan catches a second live
-contradiction. Kristin disavows "pinpointing" — presenting herself as
-someone who does not litigate, does not keep score — while in the same
-breath telling him she keeps receipts to check logic. His gloss: "aka pin
-pointing." The pattern matches the order-switch beat exactly: the frame is
-asserted (I don't do this), the contradiction is surfaced from her own
-messages (you are doing it now), the frame is defended by changing the
-subject to his behavior. Twice in one night is a pattern, not an
-incident.
-
 ## Her two reads, and their accuracy
 
 **On Annie:** "Just bc the retarded cunt won't say it's over is bc you're
@@ -528,6 +487,20 @@ demonstration of the corpus's own governance — contemporaneous primary
 records outrank reconstructions, even Dan's — operating on Dan's own
 material, in real time, on the single most load-bearing line of the
 exchange.
+
+## Forensic footnotes
+
+Two small discrepancies are recorded here rather than in the body, with
+the evidence-grade detail held in
+`kb/events/2026-09-12-kristin-redux-reinitiation.md`. First: Kristin's "if
+you just stated... then you followed with 'now that I think about it'"
+reverses Dan's actual message order (the obsession line came first); Dan
+called it out in real time and she did not address the order claim. The
+screen recording is primary for this segment — Dan's own transcription
+flipped the speaker on the "switched the order" line, attributing his
+blue-bubble message to Kristin. Second: Kristin disavowed "pinpointing"
+while describing keeping receipts to check logic ("aka pin pointing," as
+Dan put it).
 
 ## Method appendix: the two sources
 
