@@ -1,0 +1,10 @@
+{
+  "source": "facebook",
+  "status": "connected",
+  "account": "Dan Frank",
+  "watermark_from": "2026-07-04T15:51:25-04:00",
+  "pulled_at": "2026-09-13T07:42:59Z",
+  "count": 0,
+  "new_items": [],
+  "note": "Newest own timeline post is exactly the watermark (2026-07-04 15:51:25-04:00, 'poetry'). Zero new items."
+}
