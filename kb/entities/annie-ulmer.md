@@ -388,3 +388,25 @@ affair" — he endorsed ("lol I cant argue with that"). Filed as
 instance, not yet a pattern. Whether Alexis→Annie actually shares the
 structure is the open check (surface reading: no — Alexis was evicted
 Nov 2015; Annie arrived from a different channel).
+
+## 2026-09-13 — Origin-week chapter framing + the verification-era question
+
+During the Annie origin-week photo intake (`src:sammy-chat-transcript-20260913-0340`,
+2026-09-13T00:55–01:28Z), Dan dictated the chapter structure himself: "the drug
+buy > Alexis leaving | And then Alexis leaving > everything explodes." The photo
+evidence (first nude 2015-11-26, first public appearance 2015-12-03, stolen-laptop
+night dated December 5, new-life declaration 2015-12-01) was being ingested on
+the parallel `sammy/photo-ingest-20260912-annie-06` branch; this subsection
+records the conversational layer only.
+
+Two contemporaneous statements worth holding verbatim. On affect, eleven years
+after the origin week: "…I fell in love with this stupid bitch cunt liar. I
+still love that slut" (2026-09-13T01:04:19Z) — contempt and attachment in one
+breath, no softening, consistent with the long record of both registers
+coexisting. On epistemics: "Are we now in an era where everything is matching
+up to texts in the text logs" (2026-09-13T01:22:24Z). The in-chat answer, which
+he accepted: from December 1, 2015 on, the texts carry the story; before that
+(the drug buy, the first Morgantown run, the bar rupture, Thanksgiving) it is
+his word alone — and December 5th itself is a hole (the texts stop at "What is
+it then?" and the night is dark in the logs). His own framing of the regime
+change: testimony-first before the intake, record-first after.
