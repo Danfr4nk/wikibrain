@@ -1,0 +1,9 @@
+{
+  "source": "spotify",
+  "status": "connected",
+  "watermark_from": "snapshot-2026-09-12T23:35:50Z",
+  "pulled_at": "2026-09-13T07:42:59Z",
+  "count": 0,
+  "new_items": [],
+  "note": "No recently-played endpoint in CLI; snapshot only. now-playing: PAUSED, 'don't need u (i do)' by blunn, context playlist 'Baby's First Stalker', progress_ms 1494, timestamp_ms 1789277750726. Unchanged vs last batch (PAUSED, same track, same progress_ms). Playlist inventory: 98 total per API (was recorded 125 last batch; filter-surface count difference, not verified as deletions). FUNDAMENTAL FLAW (AUG / SEP) crate still present."
+}

@@ -410,3 +410,34 @@ he accepted: from December 1, 2015 on, the texts carry the story; before that
 his word alone — and December 5th itself is a hole (the texts stop at "What is
 it then?" and the night is dark in the logs). His own framing of the regime
 change: testimony-first before the intake, record-first after.
+
+## 2026-09-13 — Messenger recents corroborate contact continuity; Kristin's supplier read
+
+Dan's screen recording of his Messenger recent-messages list, captured during
+the Sep-12/13 Kristin video call (2026-09-13T04:21Z,
+`src:sammy-chat-transcript-20260913-0740`), shows the recents at 12:03 AM:
+Kristin Prentiss (12:03 AM), **Annie Ulmer (Yesterday) — "Goodnight love you
+and Mimi"**, Suzanne Frank (Yesterday), "Annie, Shu & ..." (Wednesday) —
+Annie's quoted line "And if the junkie says I'm lying I have a pic",
+Dan Frank (Tuesday), Rick Frank (Tuesday) — "Are you free this week?",
+Alexandra Lubin (Tuesday) — "Didn't urgent care tell you to also go to the
+dentist?" Two points: the "Goodnight love you and Mimi" text confirms the
+Sep-12 contact continuity already in the record (the "good night pretty
+girl" ritual register, ongoing through Sep 7 and still active); and the
+"Annie, Shu & ..." group entry puts Annie in a live group thread the same
+week, on record questioning someone's lying with a photo as evidence.
+
+Kristin's read on the entanglement, same call, as attributed testimony:
+"Just bc the retarded cunt won't say it's over is bc you're her supplier.
+She takes advantage of your neurodivergence. It's very black and white and
+from the outside looking in it all looks fucking retarded from out here."
+Her framing: supplier dynamic + exploitation of his neurodivergence. Filed
+as her stated view, not established fact.
+[dat:1483](../data/1483-kristin-video-call-transcription-her-reads-on-dan-his-stated.md)
+
+Same window, 07:42Z: Dan pivoted the avatar session with "Okay it's Annie
+time" — "As an abatar. Specifically rhe end aesthetic of that clip" — the
+nuke-orb end-frame aesthetic (radioactive neon-yellow orbs, black/red
+chaos). Standing memory records it as live at ~03:45 EDT, the ~32nd avatar
+change.
+[dat:1487](../data/1487-avatar-pivot-okay-it-s-annie-time-nuke-orb-end-frame-aesthet.md)

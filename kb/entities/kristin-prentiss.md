@@ -132,6 +132,48 @@ corpus weight ~2.9x (see `ent:tom-maison`).
 - What did the $40 dispute actually consist of — the causal story behind the
   number?
 
+## 2026-09-13 — The video-call transcription layer
+
+During the Sep-12/13 re-initiation, Dan pasted a full chat-log transcription of
+the video call (2026-09-13T04:21–04:22Z, `src:sammy-chat-transcript-20260913-0740`),
+in two blocks alongside the screen recordings. This subsection records the
+evidence; the human narrative lives in
+`wiki/people/kristin-prentiss-2026-09-12-update.md` (the redux article, merged
+via PR #45, expanded to 573 lines and rewritten as 13 linear chapters per Dan's
+"human article" directive — forensics demoted to footnotes).
+
+New evidence from her side, all attributed testimony:
+
+- Her neurodivergence self-disclosure: "You know I'm autistic too right? Or
+  have BPD, ADHD, OCD, whatever the fuck the gay terminology you want to slap
+  my ass with - I look at everything as a graph, scale, percentages, etc."
+- Her kink-origin read on his asphyxiation/cuckoldry talk: "I think you just
+  think you enjoy these things bc of the decade long situation with Ann. But -
+  I could be wrong. Only you know you best and what you were into prior" /
+  "Idk if you're just traumatized and the worst example of internet possible."
+- The "do you need love?" exchange: she asks "do you need love? I don't get
+  it lol" and says "the only thing that holds me to you is your need for
+  metaphysical as opposed to just physical." He answers: "Do I want to? There
+  are few things I want LESS"; "I either want an intense and all consuming
+  obsession with someone (and I have the track record to prove I did exactly
+  that for a decade lol)"; "I want to be obsessed. I don't think it's possible
+  for anyone to be obsessed with me. Too annoying."
+- Her direct hit on the apparatus: "You do have sauce ... you're naturally
+  cute. Aside from blowing coke all day... You're not a fucking robot like
+  you think. Quit doubting yourself so much. You're smart, stop acting like
+  you need wiki and chatGPT and 20 programs to tell you who you are. Just be
+  bro."
+- Her visit boundary: "If you're saying I can't stop by without being your
+  gf so be it. I have so much healing to do."
+  [dat:1483](../data/1483-kristin-video-call-transcription-her-reads-on-dan-his-stated.md)
+
+Method note from the same window: Dan's pasted transcription flipped the
+speaker of the "now that I think about it" line; the screen recording (blue
+bubble) proved the line was his, and the assistant's initial read was
+corrected on the spot. Pasted transcriptions are his re-typing, not system
+exports — speaker attribution in them is fallible.
+[dat:1484](../data/1484-order-switch-incident-transcription-flipped-the-speaker-scre.md)
+
 ## Cross-links
 
 - `ent:tom-maison` — her handle's mislabeling under Tom overstated his corpus
