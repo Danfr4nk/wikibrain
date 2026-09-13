@@ -429,4 +429,4 @@ is therefore a Nov 29–30 two-day process in the record, not a single timestamp
 
 ## Sources
 
-<a href="../../media/upload-051.jpg"><img src="../../media/upload-051.jpg" width="240" alt="Facebook relationship field cleared, captioned 11/30/2015 official break up"></a>
+[![Facebook relationship field cleared, captioned 11/30/2015 official break up](../../media/upload-051.jpg)](../../media/upload-051.jpg)

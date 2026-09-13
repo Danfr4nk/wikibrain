@@ -1042,10 +1042,10 @@ is unresolved — see the note under [The hidden year
 
 ## Sources
 
-<a href="../../media/upload-049.jpg"><img src="../../media/upload-049.jpg" width="240" alt="Unsent draft of the cover text to Alexis, 4:55 PM"></a>
-<a href="../../media/upload-050.jpg"><img src="../../media/upload-050.jpg" width="240" alt="Sent cover text to Alexis with her replies, 4:56 PM"></a>
-<a href="../../media/upload-051.jpg"><img src="../../media/upload-051.jpg" width="240" alt="Facebook relationship field cleared, captioned 11/30/2015 official break up"></a>
-<a href="../../media/upload-060.jpg"><img src="../../media/upload-060.jpg" width="240" alt="Alexis texts from outside the house, 7:42 PM, Dec 5 2015"></a>
-<a href="../../media/upload-061.jpg"><img src="../../media/upload-061.jpg" width="240" alt="Dan refuses, cites the withheld Suboxone, 7:45 PM"></a>
-<a href="../../media/upload-062.jpg"><img src="../../media/upload-062.jpg" width="240" alt="Alexis asks what it has to do with anything, 8:54 PM"></a>
-<a href="../../media/upload-063.jpg"><img src="../../media/upload-063.jpg" width="240" alt="Representative frame from the 14-second bedroom video that night; woman unidentified"></a>
+[![Unsent draft of the cover text to Alexis, 4:55 PM](../../media/upload-049.jpg)](../../media/upload-049.jpg)
+[![Sent cover text to Alexis with her replies, 4:56 PM](../../media/upload-050.jpg)](../../media/upload-050.jpg)
+[![Facebook relationship field cleared, captioned 11/30/2015 official break up](../../media/upload-051.jpg)](../../media/upload-051.jpg)
+[![Alexis texts from outside the house, 7:42 PM, Dec 5 2015](../../media/upload-060.jpg)](../../media/upload-060.jpg)
+[![Dan refuses, cites the withheld Suboxone, 7:45 PM](../../media/upload-061.jpg)](../../media/upload-061.jpg)
+[![Alexis asks what it has to do with anything, 8:54 PM](../../media/upload-062.jpg)](../../media/upload-062.jpg)
+[![Representative frame from the 14-second bedroom video that night; woman unidentified](../../media/upload-063.jpg)](../../media/upload-063.jpg)

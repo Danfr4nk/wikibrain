@@ -519,4 +519,4 @@ pass should re-pull both sources before restating this finding.
 
 ## Sources
 
-<a href="../media/upload-071.jpg"><img src="../media/upload-071.jpg" width="240" alt="iMessage screenshot, 2016-01-11: Rick offers then retracts a Steelers-in-Denver trip"></a>
+[![iMessage screenshot, 2016-01-11: Rick offers then retracts a Steelers-in-Denver trip](../media/upload-071.jpg)](../media/upload-071.jpg)
