@@ -4,7 +4,7 @@ page_type: entity
 title: "Claire Ulmer"
 status: active
 date_created: 2026-07-14
-date_modified: 2026-08-23
+date_modified: 2026-09-13
 sources:
   - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md
   - raw/self/dox-md/Honest assessment and value judgment analysis.md
@@ -16,6 +16,8 @@ connections:
   - page: wiki/people/emilio
     type: co-occurs
     claim: "Claire is the channel Annie's displaced partner used to reach the family — \"because fucking Emilio texted her about me\" is Annie's own account, in the moment, of why her sister turned on her during the 2015-12-02 confrontation."
+  - { target: "[[wiki/people/bill-ulmer]]", type: references, claim: "Bill is Annie's father — the parental channel of the same Ulmer family field; his 2017–2020 thread is the father-side counterpart to the sister-channel documented here." }
+  - { target: "[[wiki/people/annie-ulmer]]", type: documents, claim: "This page documents the sister-channel of the Annie decade: the Milo origin, the 2015-12-02 confrontation, and the childcare asymmetry Annie absorbed in 2025." }
 infobox:
   name: "Claire Ulmer"
   relationship_to_dan: unknown

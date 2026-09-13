@@ -1,4 +1,5 @@
 ---
+title: "Aura Illness: The May–July 2026 Compound Collapse"
 domain: mind
 page_type: synthesis
 status: active
@@ -58,6 +59,11 @@ connections:
   - page: wiki/health/chemical-architecture.md
     type: evidenced-by
     claim: "The 72+ hours of withdrawal Dan worked the BFS incident shift in is the chemical substrate of the whole object: the supply failure is not background color to the job loss but its upstream cause, documented on the BFS page as the load-bearing first domino."
+  - { target: "[[wiki/mind/synthesis/the-2025-collapse]]", type: contextualizes, claim: "Names itself against the 2025 hinge — the 'Two collapses' section reads 2025 as the prior collapse; this entry is the second." }
+  - { target: "[[wiki/mind/synthesis/severance-declarations]]", type: corroborates, claim: "The 52-day enacted severance is the declaration series' single executed outlier — this page measures what the severance page theorizes." }
+  - { target: "[[wiki/people/jerel-coles]]", type: references, claim: "The May 2026 rupture that opens this collapse is Annie's departure for Jerel Coles — the compound's proximal trigger." }
+  - { target: "[[wiki/mind/synthesis/august-26-block-retraction]]", type: references, claim: "The August 15–19 declaration cluster this page dates is the retraction page's object — ~25 declarations, zero executed." }
+  - { target: "[[wiki/mind/synthesis/block-unblock-loop]]", type: extends, claim: "Files the 52-day hold as the loop's extreme outlier — the only severance in the record to approach enactment." }
 ---
 
 # Aura Illness: The May–July 2026 Compound Collapse
@@ -66,7 +72,7 @@ In early June 2026, in a Grok session dated by its own contents to the days arou
 severance, Dan named the state he was in. He had just been fired "for a totally illegitimate thing."
 The childhood home was being sold with roughly three weeks to vacate. His primary male friend had
 stopped responding after a sub-sandwich dispute. The eleven-year relationship had ended in a group
-chat. In his own words: *"i have LITERALLY noone now, even tom isnt talking to me."* And then,
+chat. In his own words: *"i have LITERALLY noone now, even [[wiki/people/tom|tom]] isnt talking to me."* And then,
 unprompted, the coinage: **"aura illness"** — *"i'm just a walking catastrophe until something turns
 it around"* **[OPERATOR]**.
 
@@ -106,7 +112,7 @@ June 2026 **[INFERRED]**. The session's contents, as preserved:
   independently dated to "sometime in May [2026]" per Dan (2026-07-14) **[OPERATOR]**.
 - "The house i grew up in is being sold and we have to move out in like 3 weeks" — 337 Saratoga
   Drive, closed June 23, vacated July 8 **[OPERATOR + ATTESTED]**.
-- "Even tom isnt talking to me" after the sub dispute — Tom's no-show breaking point dated
+- "Even [[wiki/people/tom|tom]] isnt talking to me" after the sub dispute — Tom's no-show breaking point dated
   2026-05-15/16, last contact 2026-05-29/30 **[OPERATOR + ATTESTED]**.
 - "i have LITERALLY noone now" — the inventory, stated flat **[OPERATOR]**.
 - "aura illness" / "i'm just a walking catastrophe until something turns it around" — the coinage
@@ -116,7 +122,7 @@ Three properties of the coinage matter. First, it is **unprompted**: the session
 stresses that Dan supplied the term himself rather than adopting a model's label — which
 distinguishes it from the dossier-derived vocabulary elsewhere in the corpus and gives it the
 epistemic status of operator phenomenology, not analysis. Second, it is **systemic, not localized**:
-"walking catastrophe" does not name grief about Annie, or anger about BFS, or the Tom fallout — it
+"walking catastrophe" does not name grief about Annie, or anger about BFS, or the [[wiki/people/tom|Tom]] fallout — it
 names the *totality*, the condition of having no intact structure left. Third, it is **temporal**:
 "until something turns it around" frames the illness as a state with an exit condition, not a trait
 — which is what makes the August 11 BFS rehire offer legible later as the first candidate for the
@@ -130,7 +136,7 @@ to deny him that, because a real reckoning would have cost her the low-accountab
 already taking **[OPERATOR]**. The hinge-point theory belongs to the severance analysis proper; it
 is noted here because it was forged inside the collapse window, in the same session as the coinage,
 and because it predicts exactly the shape of the failure that follows — no hinge point ever arrives,
-and the severance therefore ends not with resolution but with the Milo email.
+and the severance therefore ends not with resolution but with the [[wiki/people/milo|Milo]] email.
 
 ## The four structures
 
@@ -141,7 +147,7 @@ with a company-owned Little Caesars) for roughly a month, from late April 2026 u
 **$50 drawer shortage** in mid-May ended it **[ATTESTED, wiki/work/bfs-foods]**. The full forensic
 account is on that page; what belongs here is the collapse-relevant skeleton:
 
-- The incident shift was a Sunday in mid-May — surrounding events are firmly message-dated (Tom's
+- The incident shift was a Sunday in mid-May — surrounding events are firmly message-dated ([[wiki/people/tom|Tom]]'s
   "need to sell a sub, 20 bucks" on May 9; Dan's "first paycheck Saturday" and the Nick Mattie
   sighting on May 13; the Pittsburgh court promise on May 15; the strategy briefing prepared May
   20), which brackets the shift to **Sunday, May 17 [INFERRED — see the date appendix]**.
@@ -210,7 +216,7 @@ to a transaction number — so naming them without a single pointer is the finge
 confabulation, not diagnosis. She had a number and back-filled categories under it **[ATTESTED as
 Dan's reconstruction; the confabulation reading is INFERRED]**.
 
-The episode also carries the **Timmy precedent** — the pattern template. Two weeks before the drawer
+The episode also carries the **[[wiki/people/timmy|Timmy]] precedent** — the pattern template. Two weeks before the drawer
 dispute, the store held an emergency meeting over Timmy, an 18–19-year-old Little Caesars employee
 banned for playing the store's slot machines on the clock; the camera footage Kim pulled
 incidentally caught **Anita selling Timmy a vape while underage**, a licensing liability that nearly
@@ -275,8 +281,8 @@ produces the dispute. The body is the wire the causal current runs on — which 
 ### Structure 2: The home — 337 Saratoga Drive, closed June 23, vacated July 8
 
 337 Saratoga Drive, Uniontown PA — the family-built (1996) childhood home, Dan's residence for three
-separate eras including the GRIPNOTIC basement studio, the setting of the November 2005 parental
-rupture — was sold by his mother Suz, closing **June 23, 2026**, at **$465k** to buyers Jennifer J.
+separate eras including the [[wiki/interests/music/aliases/gripnotic|GRIPNOTIC]] basement studio, the setting of the November 2005 parental
+rupture — was sold by his mother [[wiki/people/suzanne-frank|Suz]], closing **June 23, 2026**, at **$465k** to buyers Jennifer J.
 and Scott P. Delverm **[ATTESTED, wiki/places/337-saratoga-drive]**. The sale was not a choice: Suz
 filed Chapter 13 in October 2024 (case 24-22285-GLT, ~$157,000 scheduled liabilities, mostly IRS
 priority claims for 2018–2021); the house was owned free and clear and was the only asset capable of
@@ -372,7 +378,7 @@ was simultaneously:
   the mom's affair with the family dealer), which makes the house the one place where Dan's stated
   life-hinge *happened*.
 - **The GRIPNOTIC basement** — the solitary production studio of the 2015–19 era, the room where
-  the Annie decade's fallow dance years were spent building in isolation.
+  the [[wiki/people/annie-ulmer|Annie]] decade's fallow dance years were spent building in isolation.
 - **The Fran years' base** — the caregiving era (2017–18) run from the same address.
 
 Losing it to a court-ordered sale is therefore not a housing transition but a *value-object
@@ -393,7 +399,7 @@ could not touch.
 
 ### Structure 3: The friend — Tom, May 15–30
 
-Tom Maison — Dan's primary male ally, "the clearest instance of safe, lateral (peer, non-paternal)
+[[wiki/people/tom|Tom]] Maison — Dan's primary male ally, "the clearest instance of safe, lateral (peer, non-paternal)
 attachment in the record," ~4,160 messages on the primary handle plus ~1,600 under
 phloxenheim@gmail.com, simultaneously crisis anchor and supply line (Suboxone, mushrooms, cocaine,
 klonopin) **[ATTESTED, wiki/people/tom]**. The friendship's collapse in spring 2026 is documented as
@@ -454,7 +460,7 @@ owe-stonewall-escalate-declare-done-reconcile cycle, documented in 2014 and re-r
 2026, with Dan's own 2014 diagnosis naming the mechanism precisely: Tom's reliability is
 transactional — high during mutual dependence, degrading to indifference once he no longer needs Dan
 as a buyer. The language even rhymes across the twelve years: 2014's "I'm not doing this stupid
-fucking dance with you anymore" and 2026's "this is some real Kristin-coded shit" are the same
+fucking dance with you anymore" and 2026's "this is some real [[wiki/people/kristin|Kristin]]-coded shit" are the same
 affective category — *this person is producing outputs functionally indistinguishable from someone
 untrustworthy* — the 2026 version simply having the Kristin deception-cost slot available to anchor
 it.
@@ -483,7 +489,7 @@ inventory lands harder because the "someone" was demonstrably there in March.
 
 **The dual role.** Tom was simultaneously crisis anchor and supply line — "my main guy for, well...
 everything" — and the spring-2026 failure is what happens when the two roles collide: the supply
-failure *is* the friendship failure, because the friendship had become the supply line. The
+failure *is* the friendship failure, because the friendship had become [[wiki/meta/journeys/the-supply-line|the supply line]]. The
 [[wiki/mind/synthesis/supply-network|supply-network]] page's formulation is exact: Tom is "the
 network's terminal-era sole node and its characteristic failure mode: the friendship-embedded
 supplier whose owe-and-silence cycles (2014, 2026) demonstrate that in this market intimacy licenses
@@ -542,12 +548,12 @@ The corpus verification, run for this entry against the message dumps **[DERIVED
 - **June 1**: 124 messages on the Annie handle (+12124702449) — 85 from Dan, 39 inbound — the
   closure day.
 - **June 5–15**: 7 messages total, all inbound (`is_from_me=0`), **zero answered**. The "four
-  inbound approaches" the block-unblock-loop page names; the annie-ulmer page's "Annie tried three
+  inbound approaches" the [[wiki/mind/synthesis/block-unblock-loop|block-unblock-loop]] page names; the [[wiki/people/annie-ulmer|annie-ulmer]] page's "Annie tried three
   times in June and was not answered" (the counts differ slightly by pass; the direction —
   unanswered — is consistent).
 - **June 15 → July 23**: 38 days of true channel silence, the longest message-dated gap in the
   handle's 2026 record.
-- **July 23, 18:54**: Dan responds to the Milo email — *"I should not have responded to that
+- **July 23, 18:54**: Dan responds to the [[wiki/people/milo|Milo]] email — *"I should not have responded to that
   email"* — and the flood resumes: 373 messages July 24, 441 on July 26, **2,070 messages across
   July 23–31**, roughly balanced (1,045 from Dan, 1,025 inbound).
 
@@ -578,9 +584,9 @@ bare timestamp *"25 Nov 2015 – 04 May 2026"* — not as an ultimatum or a good
 date applied to the relationship in his own framing, unprompted, the only such annotation in the
 full record **[ATTESTED]**. The gesture is retrospective and prospective at once: it declares the
 relationship over in the only register Dan fully trusts (the explicit verbal one) while the texting
-continues. The explicit-verbal-commitment architecture would predict that a stated closing date
+continues. The [[wiki/mind/concepts/explicit-verbal-commitment|explicit-verbal-commitment]] architecture would predict that a stated closing date
 should *function as a rule* — and the fact that the next four weeks run at peak crisis volume (2,336
-messages in May on the Annie handle) is the first datum in the entry's account of why stated rules
+messages in May on the [[wiki/people/annie-ulmer|Annie]] handle) is the first datum in the entry's account of why stated rules
 kept failing against the machinery.
 
 The same evening's warmth-to-morning-request cycle is running at full load: on **May 4**, warmth the
@@ -621,7 +627,7 @@ session theorizes why the hinge point can never come.
 
 ### Week of May 11: the job, still normal
 
-**May 9**: Tom — *"need to sell a sub, 20 bucks"* **[ATTESTED, message-dated]**. The sub-sandwich
+**May 9**: [[wiki/people/tom|Tom]] — *"need to sell a sub, 20 bucks"* **[ATTESTED, message-dated]**. The sub-sandwich
 economy is already the unit of account between them; the $20 ask on May 9 is the prelude to the
 $35/$36/$30 dispute that will end the friendship three weeks later. The amounts are small and the
 stakes are not the amounts — they are what the amounts *meter*: reliability, responsiveness, whether
@@ -673,7 +679,7 @@ converted from a relationship into a ledger.
 
 **May 20**: the BFS strategy briefing is prepared **[ATTESTED]**. Dan is now working the drawer
 dispute as a forensic reconstruction — in withdrawal, post-rupture, with the hours already cut. The
-reconstruction (the three hypotheses, the phantom tender, the speech-impediment theory, the Timmy
+reconstruction (the three hypotheses, the phantom tender, the speech-impediment theory, the [[wiki/people/timmy|Timmy]]
 precedent, the EBT impossibility) is produced *inside* the collapse window, not after it. This
 matters for the phenomenology: the "walking catastrophe" of early June is not someone overwhelmed
 past analysis — it is someone analyzing at full capacity while the structures fail anyway. The
@@ -723,7 +729,7 @@ theory, passed in the theory's favor: an apology is not a coup de grâce.
 ### Weeks of June 8–21: the silence holds
 
 **June 5–15**: 7 inbound messages, **0 answered** **[DERIVED]**. The "four inbound approaches"
-(block-unblock-loop) / "three times in June" (annie-ulmer) — the counts differ by pass; the
+([[wiki/mind/synthesis/block-unblock-loop|block-unblock-loop]]) / "three times in June" ([[wiki/people/annie-ulmer|annie-ulmer]]) — the counts differ by pass; the
 direction is consistent: unanswered. In the historical loop, an unanswered inbound would trigger a
 channel switch (money request, logistics pretext, triangulation). In June 2026 there is no channel
 to switch to — the money is gone, the supply is dead, the logistics have no base, the triangulation
@@ -739,8 +745,8 @@ the way a field lies fallow.
 ### Week of June 22–28: the house closes
 
 **June 23**: the Saratoga sale closes at $465k **[ATTESTED]**. The 7-day vacate clause sets the
-planned out-date at July 1. The childhood home — the Nov 2005 rupture's setting, the GRIPNOTIC
-basement's location, the Fayette Return's tightest value — is now someone else's on paper, with Dan
+planned out-date at July 1. The childhood home — the Nov 2005 rupture's setting, the [[wiki/interests/music/aliases/gripnotic|GRIPNOTIC]]
+basement's location, the [[wiki/mind/synthesis/fayette-return|Fayette Return]]'s tightest value — is now someone else's on paper, with Dan
 still inside it on a week-to-week clock.
 
 The close lands 22 days into the severance. The slowest structure's legal event arrives *inside* the
@@ -766,7 +772,7 @@ absence of the old ones.
 
 ### Weeks of July 13–26: the dog
 
-**July 23, 18:54**: Dan answers the Milo email. *"I should not have responded to that email. There's
+**July 23, 18:54**: Dan answers the [[wiki/people/milo|Milo]] email. *"I should not have responded to that email. There's
 nothing you could say to me that would help me pr—"* **[ATTESTED, corpus]**. Fifty-two days after
 June 1. Thirty-eight days after the last message in either direction.
 
@@ -824,14 +830,14 @@ reused. It does not need to be.
 
 ## The three June attempts
 
-The annie-ulmer page's second-movement account itemizes what the 7 unanswered inbound messages of
+The [[wiki/people/annie-ulmer|annie-ulmer]]'s second-movement account itemizes what the 7 unanswered inbound messages of
 June 5–15 actually were — three approaches, each testing a different channel, each unanswered:
 
 **Attempt one: "Are you okay."** The care channel — the same non-substantive pattern inverted,
 concern offered without content. Unanswered.
 
 **Attempt two: "Daniel."** The formal-name channel — the full first name, the register of
-seriousness, arriving as a single word. The explicit-verbal-commitment architecture would predict
+seriousness, arriving as a single word. The [[wiki/mind/concepts/explicit-verbal-commitment|explicit-verbal-commitment]] architecture would predict
 that a name, stated plainly, should function as a summons; the corpus record shows it functioning as
 nothing. Unanswered.
 
@@ -851,7 +857,7 @@ escalate after the third. There is no fourth.
 
 ## The loop's rule and its widening
 
-The block-unblock-loop page states the governing rule against a baseline of **127 exit declarations
+The [[wiki/mind/synthesis/block-unblock-loop|block-unblock-loop]] page states the governing rule against a baseline of **127 exit declarations
 and 110 re-engagements inside 48 hours** — the severance that held for 52 days is the outlier
 against that background by more than an order of magnitude. The rule: *a severance holds exactly
 when nothing either party still needs runs through the channel.*
@@ -870,7 +876,7 @@ of severance: the rule's "nothing either party still needs" must be read to incl
 just dependencies — and bonds, unlike dependencies, cannot be starved by structural collapse,
 because they are not structures.
 
-This is why the entry treats Milo as the collapse's blind spot rather than its refutation: the
+This is why the entry treats [[wiki/people/milo|Milo]] as the collapse's blind spot rather than its refutation: the
 compound object explains the 52 days completely, and the 53rd day reveals the object's boundary. A
 theory that explains the hold and the failure with the same mechanism — structural starvation, then
 the one starve-proof channel — is stronger than a theory that explains only one of them.
@@ -880,7 +886,7 @@ the one starve-proof channel — is stronger than a theory that explains only on
 The recontact deserves the full record because it is the failure's fingerprint — the hour-by-hour
 shape of a 52-day severance ending:
 
-**The approach.** Annie emails over the **July 4 weekend** asking whether the dog is frightened by
+**The approach.** [[wiki/people/annie-ulmer|Annie]] emails over the **July 4 weekend** asking whether the dog is frightened by
 fireworks. No answer. She **resends around July 21**. Dan replies on **July 23 at 18:54** — the
 first outbound message on the handle in 38 days — with the line that names the mechanism while it
 runs: *"I should not have responded to that email."*
@@ -908,7 +914,7 @@ machinery — and for 72 hours it does (the flood, the karaoke, the nicknames). 
 moment the old machinery makes its first demand (supply, cash, a dark car at 2:45 AM), the machinery
 *fails to engage*. The entry does not resolve this; it marks it. Possibilities: the 52 days changed
 the terms (the channel reopened for the bond, not for the supply); the collapse's material facts
-persisted (he had nothing to supply *with* — the supply line was still dead, the job still gone, the
+persisted (he had nothing to supply *with* — [[wiki/meta/journeys/the-supply-line|supply line]] was still dead, the job still gone, the
 displacement still real); or the refusal is what the hinge-point theory looks like when it finally
 arrives in miniature — a no, stated, under pressure, for the first time. All three can be true. The
 refusal stands as the one point in the record where the widened rule bends without breaking: the
@@ -918,7 +924,7 @@ bond reopened the channel, and the channel did not carry what it used to carry.
 
 The recontact fortnight also supplies the one piece of the collapse's aftermath that does not come
 from Dan. With no supply to procure and the relationship already lost — her parents having found
-out, an intervention held, an inpatient placement refused, her car lost — Annie says, in the July
+out, an intervention held, an inpatient placement refused, her car lost — [[wiki/people/annie-ulmer|Annie]] says, in the July
 exchanges: *"I put your through hell. And I am sorry for that." "you were always true to me." "I
 wasn't enough." "I should have just accepted rehab and got myself fixed."*
 
@@ -937,7 +943,7 @@ and the supply stopped because everything underneath it had failed.
 The compound object is defined by four failures — but the "LITERALLY noone" inventory's accuracy
 depends on what it *excludes*, and the exclusions are load-bearing.
 
-**Suz.** Suzanne Frank — Dan's mother, the second-largest correspondence in his life, permanently
+**[[wiki/people/suzanne-frank|Suz]].** Suzanne Frank — Dan's mother, the second-largest correspondence in his life, permanently
 available, his co-habitant before and after the displacement — is *not* in the inventory. She is
 also the person executing the $465k sale: the owner-realtor liquidating the family-built asset, the
 counterparty to the housing exit, and simultaneously the destination of the displacement (463
@@ -947,7 +953,7 @@ in her house, the bankruptcy is her filing, the sale is her transaction. She is 
 structure of the collapse without being any of them. The "noone" in "LITERALLY noone" therefore
 means something specific: no *peer*, no *lateral*, no one in the cohort of chosen bonds. The
 vertical bond (mother) survives; the lateral bonds (friend, partner) fail. That asymmetry is worth
-marking because it predicts the post-collapse attachment pattern: the Ally channel (new lateral
+marking because it predicts the post-collapse attachment pattern: the [[wiki/people/ally-lubin|Ally]] channel (new lateral
 bond, opening August at 1,628 messages) forms *after* the collapse, not during it — the laterals
 have to be rebuilt from zero.
 
@@ -960,7 +966,7 @@ count as "someone" in the inventory is the person whose transaction displaced hi
 loyalty (she is family, not inventory) or blind spot (the vertical bond's costs are unnameable) is
 left to the reader and the record.
 
-**Milo.** The dog — co-held with Annie, found as a starving stray by Claire Ulmer and routed to the
+**[[wiki/people/milo|Milo]].** The dog — co-held with [[wiki/people/annie-ulmer|Annie]], found as a starving stray by Claire Ulmer and routed to the
 couple — is the inventory's other exclusion, and the opposite kind: not a structure that absorbed
 the failure but a *bond* the failure could not touch. The entry's central claim about Milo: he
 carries no money, no drugs, no logistics, no proximity infrastructure — only shared custody and
@@ -999,10 +1005,10 @@ August–September 2026 iMessage export (5,905 rows) **[DERIVED]**.
 | 2026-05 | 2,792 | The collapse window: crisis + supply failure + job loss |
 | 2026-06 | 931 | The severance: closure day, then silence |
 | 2026-07 | 2,115 | Silence until July 23, then the flood |
-| 2026-08 | 6,803 | Full re-engagement + Ally channel opens |
+| 2026-08 | 6,803 | Full re-engagement + [[wiki/people/ally-lubin|Ally]] channel opens |
 
 The shape is the collapse made quantitative: May runs hot (2,792 — the crisis month, with 2,336
-messages on the Annie handle alone), June falls off a cliff (931 — the closure and its aftermath),
+messages on the [[wiki/people/annie-ulmer|Annie]] handle alone), June falls off a cliff (931 — the closure and its aftermath),
 July is bimodal (near-zero until the 23rd, then 2,070 messages in nine days), August explodes (6,803
 — the relationship fully re-engaged plus the Ally channel at 1,628).
 
@@ -1029,7 +1035,7 @@ Three findings from the direction data, each load-bearing for the entry's thesis
    breaking, not a conversation resuming.
 
 3. **The May peak precedes the June cliff by exactly the collapse's mechanism.** May's 2,336 is
-   the crisis at full volume — the May 6 3:30–5:57 AM window, the Tom supply strain, the BFS
+   the crisis at full volume — the May 6 3:30–5:57 AM window, the [[wiki/people/tom|Tom]] supply strain, the BFS
    incident week all inside it. June's 131 is what the channel looks like when the structures
    underneath it have failed. The volume does not decline; it *collapses*, which is the difference
    this entry is trying to name.
@@ -1115,7 +1121,7 @@ numbers). This is Dan's forensic register at full load — the same register tha
 itself — deployed against his own termination.
 
 The briefing's core is the three-hypothesis elimination structure: the phantom tender, the
-speech-impediment theory, the Timmy precedent. What the close read notices is what the briefing
+speech-impediment theory, the [[wiki/people/timmy|Timmy]] precedent. What the close read notices is what the briefing
 *doesn't* do: it never claims certainty about which hypothesis is true. The phantom tender is "the
 only explanation that doesn't require inventing a second crime"; the speech-impediment theory is
 "not entirely impossible"; the Timmy precedent is "the load-bearing witness." The briefing is an
@@ -1145,7 +1151,7 @@ compound state, which does not. "Aura illness" is what the forensic mind says wh
 ## The 90-day window as one object
 
 Laid end to end, the collapse runs roughly May 4 (Dan's self-periodization "25 Nov 2015 – 04 May
-2026") to July 23 (the Milo recontact) — with a long tail to August 11 (the BFS rehire offer). The
+2026") to July 23 (the [[wiki/people/milo|Milo]] recontact) — with a long tail to August 11 (the BFS rehire offer). The
 dated skeleton:
 
 | Date | Event | Structure |
@@ -1153,7 +1159,7 @@ dated skeleton:
 | May 4 | Dan self-periodizes: "25 Nov 2015 – 04 May 2026" | Severance (opening) |
 | May 5 | Marucas job mention; GPS-shared-with-third-party row; phoneless supply pickup | Severance |
 | May 6, 3:30–5:57 AM | Worst crisis window in the full record; final message "IF YOU DON'T WANT TO BE WITH ME YOU HAVE TO SAY SOMETHING" | Severance |
-| May 9 | Tom: "need to sell a sub, 20 bucks" | Friend (supply strain) |
+| May 9 | [[wiki/people/tom|Tom]]: "need to sell a sub, 20 bucks" | Friend (supply strain) |
 | May 13 | Dan: "first paycheck Saturday"; Nick Mattie sighting | Job |
 | May 15 | Tom's Pittsburgh "after court" promise | Friend |
 | May 15–16 | Tom no-show breaking point; Dan risks termination | Friend → Job (causal) |
@@ -1163,7 +1169,7 @@ dated skeleton:
 | May 29–30 | Tom last contact; threat re: Phil; record stops | Friend |
 | ~Jun 1–7 [INFERRED] | **The coinage session**: "aura illness" / "walking catastrophe" / "LITERALLY noone" | Phenomenology |
 | Jun 1 | Group-chat closure; Dan's "Goodbye forever" sign-off 00:27:49 | Severance |
-| Jun 5 | Annie: "Daniel, i just want to say that i am extremely sorry" | Severance |
+| Jun 5 | [[wiki/people/annie-ulmer|Annie]]: "Daniel, i just want to say that i am extremely sorry" | Severance |
 | Jun 5–15 | 7 inbound messages, 0 answered | Severance (holding) |
 | Jun 23 | Saratoga sale closes ($465k); 7-day vacate clause | Home |
 | Jul 8 | Actual move-out to 463 Morgantown St (no lease) | Home |
@@ -1265,7 +1271,7 @@ gives it a different epistemic status from the retrospective coinages: less poli
 theorized, closer to the phenomenology.
 
 **It is non-blaming.** The corpus's typical crisis vocabulary assigns agency — someone did something
-(Anita confabulated, Tom string-alonged, the caller impersonated). "Walking catastrophe" assigns no
+(Anita confabulated, [[wiki/people/tom|Tom]] string-alonged, the caller impersonated). "Walking catastrophe" assigns no
 agent, not even himself: the catastrophe is something he *is* (a state) or something that *walks* (a
 condition in motion), not something someone did. In a corpus where the forensic instinct is to find
 the responsible party, the coinage's refusal to do so is itself data: the collapse is experienced as
@@ -1285,7 +1291,7 @@ not in substance, and the illness changed character rather than lifting.
 #### The two senses, held apart
 
 The divergence between Sense 1 (this entry: the compound crisis state, operator-coined, early June
-2026) and Sense 2 (attachment-trauma-bond: "the predictable neurobiological and identity-level
+2026) and Sense 2 ([[wiki/mind/synthesis/attachment-trauma-bond|attachment-trauma-bond]]: "the predictable neurobiological and identity-level
 consequence of exiting a fused attachment figure," dossier-derived) needs the fullest possible
 statement, because the wiki currently lets the phrase do double duty without marking it.
 
@@ -1330,7 +1336,7 @@ The coinage session's second theory deserves its own exposition, because it is t
 product — and because the 52 days test it to destruction.
 
 The theory, in Dan's own reasoning rather than the model's: a clean ending felt impossible without a
-**"hinge point"** or **"coup de grâce"** — a single, unambiguous, self-owned act from Annie that
+**"hinge point"** or **"coup de grâce"** — a single, unambiguous, self-owned act from [[wiki/people/annie-ulmer|Annie]] that
 would let him hate her without ambivalence. And his own diagnosis: her consistent "there's nothing
 going on" denial was *structured specifically to deny him that* — because a real reckoning would
 have cost her the low-accountability exit she was already taking **[OPERATOR]**.
@@ -1356,7 +1362,7 @@ coup de grâce; the hinge requires the *reckoning*, not the sentiment). Test two
 recontact** — her pain disclosure, her apology (*"I am sorry for all the pain I have caused"*), his
 pushback, her hold. No reckoning arrives. No hinge point. And the severance ends *anyway*, within
 the hour. The theory fails test two: the hinge was supposed to be *necessary* for the ending to end,
-and the ending ends without it — because the Milo channel does not need the ambivalence resolved. It
+and the ending ends without it — because the [[wiki/people/milo|Milo]] channel does not need the ambivalence resolved. It
 needs the dog.
 
 **It predicts the August form.** If the hinge never comes and the ambivalence never resolves, the
@@ -1381,17 +1387,17 @@ and not just its epigraph.
 
 ## Why the longest severance happened then
 
-The 52-day hold is the block-unblock-loop's extreme outlier: the only severance in the record to
+The 52-day hold is the [[wiki/mind/synthesis/block-unblock-loop|block-unblock-loop]]'s extreme outlier: the only severance in the record to
 survive past 48 hours, against 127–129 documented exit declarations with sub-48-hour re-engagement
 (the count differs by pass; the order of magnitude does not). The collapse supplies the material
 explanation, and it has three parts:
 
 **Part 1: the re-engagement machinery lost its fuel.** Across the eleven-year record, re-engagement
 ran on specific channels: money (the love-to-request procurement pattern, cardless-ATM codes, supply
-logistics), drugs (the supply relationship, Dan as node and Annie as dependent), logistics (rides,
+logistics), drugs (the supply relationship, Dan as node and [[wiki/people/annie-ulmer|Annie]] as dependent), logistics (rides,
 pickups, the shared household), and proximity (the Uniontown geography). By mid-June 2026: the BFS
 income was gone (no paychecks to request a cut of, no schedule to coordinate); the Saratoga housing
-was in its final two weeks (no stable base to orbit); Tom — the triangulation node and alternate
+was in its final two weeks (no stable base to orbit); [[wiki/people/tom|Tom]] — the triangulation node and alternate
 supply line — was silent; and the drug-supply relationship between Dan and Annie was dead (her May 5
 Marucas job reduced her dependency on the Uniontown supply chain "in the weeks immediately before
 the June 1 closure," per the april-may page). Every channel the loop used to re-enter was either
@@ -1447,12 +1453,12 @@ final weeks (notice → close → vacate); Dan had no stable base to host from a
 routine to offer. The logistics channel needs *a place*; the place was being sold.
 
 **Proximity and triangulation.** The Uniontown geography, Tom as the third node (the
-arrangement-history participation, the Kristin introduction vector, the crisis-scaffold role). State
+arrangement-history participation, the [[wiki/people/kristin|Kristin]] introduction vector, the crisis-scaffold role). State
 in June: Tom silent since May 30; the triangulation node removed. The loop's peer-bond case
 (block-unblock-loop's Tom row) had failed for exactly the reason the loop predicts — the supply
 dependency still ran through the channel — and now the channel itself was dead.
 
-**The dog.** Milo — co-held, carrying no money, no drugs, no logistics, only shared custody and
+**The dog.** [[wiki/people/milo|Milo]] — co-held, carrying no money, no drugs, no logistics, only shared custody and
 affection. State in June: intact. The *one* channel the collapse could not touch, because it was
 never a structure — it was a bond. This is the inventory's punchline and the next section's premise:
 the severance held for 52 days because four of five channels were starved, and it failed on the
@@ -1467,7 +1473,7 @@ record: not dramatic refusal but the absence of the usual next move.
 
 ## Why it still failed
 
-The severance ended **July 23, 2026, at 18:54**, when Dan answered an email about Milo: *"I should
+The severance ended **July 23, 2026, at 18:54**, when Dan answered an email about [[wiki/people/milo|Milo]]: *"I should
 not have responded to that email. There's nothing you could say to me that would help me pr—"*
 **[ATTESTED, corpus]**. The flood that followed — 2,070 messages across July 23–31, roughly balanced
 in direction — is the quantitative shape of the failure: 52 days of silence converted into 9 days of
@@ -1476,7 +1482,7 @@ the highest-intensity contact in the 2026 record.
 The mechanism of the failure is the precise inverse of the mechanism of the hold. The collapse
 starved every channel the re-engagement machinery ran on — money, drugs, logistics, proximity —
 except one: **the shared dog**. Milo carried no money, no drugs, no logistics; he was not a
-structure that could fail. The block-unblock-loop page states it exactly: the severance "held 52
+structure that could fail. The [[wiki/mind/synthesis/block-unblock-loop|block-unblock-loop]] page states it exactly: the severance "held 52
 days against four inbound approaches, then reopened on a channel that carried no money, drugs or
 logistics, only a shared dog." The collapse explains the 52 days because it destroyed the
 machinery's fuel; the Milo channel explains the failure because it was the one fuel the collapse
@@ -1597,7 +1603,7 @@ catastrophe does not stop walking when the road reappears; he starts questioning
 was ever gone.
 
 The BFS page's own placement note is worth preserving verbatim: "The date matters for placement more
-than for work history. This is five days before the week that ended the Annie relationship, and it
+than for work history. This is five days before the week that ended the [[wiki/people/annie-ulmer|Annie]] relationship, and it
 is the only thing in the 2026 collapse that went the other way." Five days before the August 15–19
 declaration cluster. The one reversal lands inside the window of the worst loss — the collapse's
 final irony, and the reason the entry treats the rehire as the collapse's *coda* rather than its
@@ -1614,7 +1620,7 @@ marks each date's provenance explicitly.
 | May 4, 2026 | "25 Nov 2015 – 04 May 2026" self-periodization, 8:10 PM | april-may-2026-final-weeks [ATTESTED] | Bare timestamp, unprompted; the only such annotation in the record |
 | May 5, 2026 | Marucas job mention; GPS row 3:09 PM | april-may-2026-final-weeks [ATTESTED] | Job mention precedes the drug-supply logistics request in sequence |
 | May 6, 2026, 3:30–5:57 AM | Worst crisis window; final message of extract | april-may-2026-final-weeks [ATTESTED] | "May is rated the worst period in the full record — not by volume, but by content" |
-| May 9, 2026 | Tom: "need to sell a sub, 20 bucks" | bfs-foods (message-dated) [ATTESTED] | Anchor for the incident-shift bracketing |
+| May 9, 2026 | [[wiki/people/tom|Tom]]: "need to sell a sub, 20 bucks" | bfs-foods (message-dated) [ATTESTED] | Anchor for the incident-shift bracketing |
 | May 13, 2026 | "first paycheck Saturday"; Nick Mattie sighting | bfs-foods (message-dated) [ATTESTED] | |
 | May 15, 2026 | Tom's Pittsburgh "after court" promise | bfs-foods (message-dated) [ATTESTED] | |
 | May 15–16, 2026 | Tom no-show breaking point | tom.md [ATTESTED] | |
@@ -1623,16 +1629,16 @@ marks each date's provenance explicitly.
 | May 20, 2026 | BFS strategy briefing prepared | bfs-foods [ATTESTED] | |
 | "Sometime in May [2026]" | BFS termination (Dan's dating) | bfs-foods [OPERATOR, 2026-07-14] | Deliberately imprecise; the exact termination date is not resolved further than this window |
 | May 29–30, 2026 | Tom last contact | tom.md [ATTESTED] | May 30: threat re: Phil; record stops |
-| ~Jun 1–7, 2026 | The coinage session ("aura illness") | **INFERRED** | Dated by contents: post-June-1 severance, pre-June-23 close ("like 3 weeks" to vacate). The annie-ulmer page dates it "late May/early June" — the June 1 reference pushes it to June |
-| Jun 1, 2026 | Group-chat closure; "Goodbye forever" sign-off 00:27:49 | group-chat-closure; annie-ulmer (corrected 2026-08-13) [ATTESTED] | The sign-off was Dan's, misattributed to Annie until Aug 2026 |
+| ~Jun 1–7, 2026 | The coinage session ("aura illness") | **INFERRED** | Dated by contents: post-June-1 severance, pre-June-23 close ("like 3 weeks" to vacate). The [[wiki/people/annie-ulmer|annie-ulmer]] page dates it "late May/early June" — the June 1 reference pushes it to June |
+| Jun 1, 2026 | Group-chat closure; "Goodbye forever" sign-off 00:27:49 | [[wiki/timeline/events/group-chat-closure|group-chat-closure]]; [[wiki/people/annie-ulmer|annie-ulmer]] (corrected 2026-08-13) [ATTESTED] | The sign-off was Dan's, misattributed to Annie until Aug 2026 |
 | Jun 5, 2026 | Annie: "extremely sorry" | march-2026-terminal-phase (Aftermath) [ATTESTED] | Only unprompted acknowledgment in the record |
 | Jun 5–15, 2026 | 7 inbound, 0 answered | messages.csv [DERIVED] | |
 | Jun 23, 2026 | Saratoga sale closes ($465k) | 337-saratoga-drive; confirmed by Dan 2026-07-14 [ATTESTED] | 7-day vacate clause → planned out-date Jul 1 |
 | Jul 8, 2026 | Actual move-out → 463 Morgantown St | 337-saratoga-drive [ATTESTED] | A week past the planned date; no lease at the successor address |
-| Jul 23, 2026, 18:54 | Milo email answered; severance ends | messages.csv [DERIVED] | 52 days after Jun 1 by date difference |
+| Jul 23, 2026, 18:54 | [[wiki/people/milo|Milo]] email answered; severance ends | messages.csv [DERIVED] | 52 days after Jun 1 by date difference |
 | Jul 23–31, 2026 | 2,070 messages (1,045 Dan / 1,025 inbound) | messages.csv [DERIVED] | |
 | Aug 11, 2026 | BFS rehire offered | bfs-foods [OPERATOR] | 'NO HIRE: Daniel Frank' sign, two locations |
-| Aug 15–19, 2026 | ~25 declarations, zero executed | august-26-block-retraction [DERIVED] | |
+| Aug 15–19, 2026 | ~25 declarations, zero executed | [[wiki/mind/synthesis/august-26-block-retraction|august-26-block-retraction]] [DERIVED] | |
 | Aug 26, 2026 | Reported block — retracted | august-26-block-retraction [OPERATOR retraction] | "there was never a block" |
 | Aug 27–Sep 7, 2026 | Daily two-way texting; 5,905 export rows | aug-sep-2026-imessage-export [DERIVED] | |
 
@@ -1654,7 +1660,7 @@ marks each date's provenance explicitly.
 
 ## The explicit-verbal-commitment architecture under collapse
 
-The wiki's standing model of Dan's attachment — the explicit-verbal-commitment architecture
+The wiki's standing model of Dan's attachment — the [[wiki/mind/concepts/explicit-verbal-commitment|explicit-verbal-commitment]] architecture
 (rule-based attachment; positive verbal expressions function as absolute rules until an explicit
 severance signal arrives; 129 severance declarations, 100% re-engagement, median gap 36 seconds; "do
 you love me" 0x in 106,629 sent vs "call me" 170x) — meets its hardest test in the collapse window,
@@ -1704,7 +1710,7 @@ A synthesis entry earns its keep by predicting. The compound-collapse object mak
 claims about what follows it in the record:
 
 **1. The declaration cluster was predictable.** The coinage session's hinge-point theory — that no
-clean ending was possible without a "coup de grâce" Annie would never supply — predicts that
+clean ending was possible without a "coup de grâce" [[wiki/people/annie-ulmer|Annie]] would never supply — predicts that
 post-recontact severance attempts would take the *declarative* form (announcements of boundaries)
 rather than the *enacted* form (silence), because the material possibility condition for enacted
 severance (structural starvation) had lifted. The August 15–19 cluster (~25 declarations, zero
@@ -1721,7 +1727,7 @@ at Morgantown? the Kristin channel? the stylometry workstream?) being tested the
 **open** — the prediction now reads "the next restored structure will be tested against the illness,
 and the test will be epistemic, not emotional."
 
-**3. The Tom channel stays dead.** The friendship's collapse is structural (twelve-year pattern,
+**3. The [[wiki/people/tom|Tom]] channel stays dead.** The friendship's collapse is structural (twelve-year pattern,
 root-node failure), not situational — which predicts no reconciliation on the old terms. The record
 after May 30, 2026 shows no dated Tom contact through the wiki's current coverage. Status:
 **holding, with the Gaps caveat** (the record simply stops; absence of evidence is not evidence of
@@ -1747,8 +1753,8 @@ current corpus covers thinly.
 The 52 days deserve a final quantitative framing, because the number's significance is relative — it
 is long only against the background that makes it anomalous:
 
-**The baseline.** The loop's documented history: 127 exit declarations (annie-ulmer) / 129 episodes
-(block-unblock-loop) — the counts unreconciled, the phenomenon undisputed — with **100%
+**The baseline.** The loop's documented history: 127 exit declarations ([[wiki/people/annie-ulmer|annie-ulmer]]) / 129 episodes
+([[wiki/mind/synthesis/block-unblock-loop|block-unblock-loop]]) — the counts unreconciled, the phenomenon undisputed — with **100%
 re-engagement** and a **median gap of 36 seconds**. The distribution's central tendency is not days
 or hours but *seconds*: the typical severance in the eleven-year record lasts less than a minute.
 Against that background, 52 days is not an outlier by a factor of two or ten but by a factor of
@@ -1783,10 +1789,10 @@ synthesis and the materials it builds on:
 
 **The master timeline** (wiki/timeline/master-timeline) carries the window's star entry: *"★ May
 2026 — Isolation compounds around the severance: BFS Foods termination, 337 Saratoga sale notice,
-Tom fallout — Dan's own 'aura illness' coinage"* — Sense 1, correctly placed, but a single line. The
+[[wiki/people/tom|Tom]] fallout — Dan's own 'aura illness' coinage"* — Sense 1, correctly placed, but a single line. The
 timeline's job is the line; this entry's job is everything the line compresses.
 
-**The 2025-collapse period page** (wiki/timeline/periods/2025-collapse, archived) cross-checks
+**The [[wiki/timeline/periods/2025-collapse|2025-collapse period]] page** (wiki/timeline/periods/2025-collapse, archived) cross-checks
 cleanly — "Matches core Feb 2025 back to Uniontown, Aug 2025 terminal, June 1 2026 closure" — and
 its data profile (259 events, the Dec 2025 spike at 4,657 messages, "eli" 388 mentions) establishes
 the *prior* collapse this entry distinguishes itself from (see "Two collapses" below). Its
@@ -1799,7 +1805,7 @@ the June 23 close, the July 8 vacate — and the claim this entry centers: the m
 "the same week as the June 1, 2026 relationship severance"), [[wiki/people/tom]] (the 2014
 precedent, the March 31 inversion, the May 15–30 sequence, the "main guy for everything" dual role),
 [[wiki/people/annie-ulmer]] (the terminal phase, the closure, the coinage session's fullest
-treatment, the 52 days, the Milo recontact, the corroboration). Each is complete on its own terms;
+treatment, the 52 days, the [[wiki/people/milo|Milo]] recontact, the corroboration). Each is complete on its own terms;
 none treats the four as one causal object. That is the gap this entry fills — and the reason the
 brief's "no duplication" constraint is satisfiable: the components are *cited*, not repeated, and
 what is new is the *compounding itself*.
@@ -1811,7 +1817,7 @@ loop's governing rule is the mechanism; the retraction's forensics (25 declarati
 *possibility condition*: why the rule held for 52 days once, and why the declarations took over
 after.
 
-**The attachment-trauma-bond page** is the Sense 2 holder — the only page that uses "aura illness"
+**The [[wiki/mind/synthesis/attachment-trauma-bond|attachment-trauma-bond]] page** is the Sense 2 holder — the only page that uses "aura illness"
 for the somatic aftermath rather than the compound state. The divergence is preserved, not litigated
 (see "The two senses, held apart"). The november-2005-hinge page and the rick-frank page both carry
 the "historical pain wearing a 2026 mask" claim, which this entry neither adopts nor rejects — it
@@ -1819,8 +1825,8 @@ marks the claim's dependence on the dossier-derived Sense 2 and leaves the adjud
 evidence.
 
 **The fayette-return page** supplies the value-theory the Saratoga loss needs: the house as the
-return's tightest value, the Nov 2005 rupture's setting, the GRIPNOTIC basement. This entry does not
-re-argue the Fayette Return; it *spends* it — the housing exit hurts the way it does because the
+return's tightest value, the Nov 2005 rupture's setting, the [[wiki/interests/music/aliases/gripnotic|GRIPNOTIC]] basement. This entry does not
+re-argue [[wiki/mind/synthesis/fayette-return|Fayette Return]]; it *spends* it — the housing exit hurts the way it does because the
 house meant what the Fayette Return says it meant.
 
 **The dan's-law page** (if the brief's cross-reference holds — the BFS page says Dan's Law was
@@ -1835,11 +1841,11 @@ the state-term's full exposition.
 
 The negative definition, because the compound object is easy to blur into its neighbors:
 
-**Not the 2025 collapse.** The 2025-collapse period (Feb 2025–Apr 2026 in its widest framing) is the
-*relationship's* terminal event: the NYC exit, Annie's move to her parents, the Dec 2025 spike, the
+**Not the 2025 collapse.** The [[wiki/timeline/periods/2025-collapse|2025-collapse]] period (Feb 2025–Apr 2026 in its widest framing) is the
+*relationship's* terminal event: the NYC exit, [[wiki/people/annie-ulmer|Annie]]'s move to her parents, the Dec 2025 spike, the
 terminal phase, the June 1 closure. The 2026 compound collapse is the *system's* terminal event:
 job, home, friend, and severance failing together. The 2025 collapse ends the relationship; the 2026
-collapse determines that the ending *holds* (for 52 days) and then *fails* (on the Milo channel).
+collapse determines that the ending *holds* (for 52 days) and then *fails* (on the [[wiki/people/milo|Milo]] channel).
 The two share the June 1 date as a boundary — the 2025 collapse's end is the 2026 collapse's middle.
 
 **Not the terminal phase.** The terminal phase (March–May 2026, the april-may-2026-final-weeks and
@@ -1873,11 +1879,11 @@ making explicitly because the 2026 object is defined partly against the 2025 one
 
 | | 2025 collapse | 2026 compound collapse |
 |---|---|---|
-| **What fails** | The relationship's *form* — NYC exit, Annie's move to her parents, the Dec 2025 spike, the terminal oscillation | The system's *structures* — job, home, friend, severance |
+| **What fails** | The relationship's *form* — NYC exit, [[wiki/people/annie-ulmer|Annie]]'s move to her parents, the Dec 2025 spike, the terminal oscillation | The system's *structures* — job, home, friend, severance |
 | **Date range** | Feb 2025 → Jun 1, 2026 (widest framing) | ~May 4 → ~Aug 26, 2026 (≈90 days + coda) |
 | **Volume signature** | Peak: Dec 2025 (4,657 msgs), May 2026 (2,792) | Cliff: Jun 2026 (931); flood: Jul 23–31 (2,070 in 9 days) |
-| **Operator vocabulary** | The Loop, the hinge point (theorized later) | "aura illness" (coined inside), Dan's Law, "Kristin-coded" |
-| **Outcome** | The relationship ends (June 1) | The ending holds 52 days, then fails on the Milo channel |
+| **Operator vocabulary** | The Loop, the hinge point (theorized later) | "aura illness" (coined inside), Dan's Law, "[[wiki/people/kristin|Kristin]]-coded" |
+| **Outcome** | The relationship ends (June 1) | The ending holds 52 days, then fails on the [[wiki/people/milo|Milo]] channel |
 | **Reversibility** | Irreversible in form (the NYC era does not return) | Partially reversible in structure (BFS rehire Aug 11) |
 
 The 2025 collapse is the *slow* compound — eighteen months of terminal dynamics, the 41,278-message
@@ -1898,7 +1904,7 @@ phenomenology claim: systemic states produce state-terms; long dynamics produce 
 The compound object invites three counterfactuals, each testing a different joint of the causal
 structure:
 
-**If Tom had said "I can't" on Friday morning.** The BFS page's own counterfactual, preserved here
+**If [[wiki/people/tom|Tom]] had said "I can't" on Friday morning.** The BFS page's own counterfactual, preserved here
 because it is the collapse's load-bearing one: had Tom declined plainly on May 15 morning instead of
 stringing Dan along through Sunday, Dan would have had time and options to source elsewhere before
 the impairment cascade began — no 72-hour withdrawal slide, no impaired incident shift, no drawer
@@ -1907,15 +1913,15 @@ exonerates (the drawer dispute's illegitimacy stands regardless) but that it *is
 mechanism*: the failure was not the absence of product but the consumption of optionality.
 Structures 1 and 3 share one etiology at the root — and the root is a *speech act that never
 happened* ("I can't"), which is why the collapse reads, at its origin, as a failure of explicitness.
-The explicit-verbal-commitment architecture's shadow: the people in Dan's life who owe him
+The [[wiki/mind/concepts/explicit-verbal-commitment|explicit-verbal-commitment]] architecture's shadow: the people in Dan's life who owe him
 explicitness keep paying him in "soon."
 
-**If the hinge point had arrived.** If Annie had supplied, in early June, the single unambiguous
+**If the hinge point had arrived.** If [[wiki/people/annie-ulmer|Annie]] had supplied, in early June, the single unambiguous
 self-owned act the hinge-point theory requires — the reckoning rather than the apology — the theory
 predicts the ambivalence resolves and the severance becomes *resolute* rather than merely *enacted*.
 Would the 52 days have become permanent? The material explanation says the question is malformed:
 the severance's duration was set by the structural configuration, not by the ambivalence's
-resolution — and the configuration changed on July 23 regardless (the Milo channel was always going
+resolution — and the configuration changed on July 23 regardless (the [[wiki/people/milo|Milo]] channel was always going
 to survive; the email was always going to come). The hinge would have changed the *character* of the
 failure (a resolved ending recontacted vs. an ambivalent ending recontacted) but not, on this
 entry's reading, its *timing*. The theory's unfalsifiability is doing work here: it predicts that no
@@ -1937,7 +1943,7 @@ June 2026 was the most starved in the eleven-year record.
 ## Counter-readings (expanded)
 
 **Coincidence.** Four stressed structures can fail in the same quarter without constituting one
-object — the "bad months" reading. Against it: the Tom→BFS causal chain (not coincidence but
+object — the "bad months" reading. Against it: the [[wiki/people/tom|Tom]]→BFS causal chain (not coincidence but
 mechanism), the operator's own contemporaneous grouping, and the severance's material explanation,
 which predicts the 52-day outlier from the collapse rather than merely accompanying it. For it: the
 Saratoga sale's upstream cause (the October 2024 Chapter 13) long predates the window, and the June
@@ -1957,7 +1963,7 @@ attests. Dan did not say "my mother's bankruptcy finally closed"; he said "i hav
 now." The unity being claimed is phenomenological first, causal second, and the coincidence reading
 has to explain the phenomenology away rather than merely the scheduling.
 
-**The somatic reading.** The attachment-trauma-bond page's Sense 2 (somatic toll of exiting a fused
+**The somatic reading.** The [[wiki/mind/synthesis/attachment-trauma-bond|attachment-trauma-bond]] page's Sense 2 (somatic toll of exiting a fused
 attachment figure) could claim priority: perhaps what Dan named was really the attachment break's
 bodily aftermath, and the job/home/friend losses were the *occasion* rather than the *substance*.
 Against it: the coinage session names the three non-relationship losses explicitly and the severance
@@ -1980,7 +1986,7 @@ keeps them distinct for that reason.
 a boundary because the collapse clarified what mattered. Against it: everything in the coinage
 session points the other way ("walking catastrophe," "LITERALLY noone"), the hold correlates with
 the *absence* of re-engagement channels rather than their refusal, and the moment a channel appeared
-(Milo, July 23) the severance ended within the hour. A resolve-based account would predict the
+([[wiki/people/milo|Milo]], July 23) the severance ended within the hour. A resolve-based account would predict the
 severance surviving the Milo email; the structural account predicts exactly what happened.
 
 The strength reading's steelman: the *unanswered* inbound messages (7 across Jun 5–15) are a choice
@@ -2009,6 +2015,126 @@ the closure happened, that the house was going. A person facing imminent displac
 bond). The 52-day hold is consistent with the former; the July 23 collapse with the latter. The
 entry does not adjudicate between them — both are consistent with the material explanation, which is
 about channels, not motives.
+
+## Gaps
+
+- **The coinage session's raw source.** The session is preserved only via the [[wiki/people/annie-ulmer|annie-ulmer]]'s
+  summary (added 2026-08-10); the underlying Grok chat log has not been located in raw/. The exact
+  wording, the session's own date metadata, and the surrounding turns (what Dan said immediately
+  before and after the coinage) are all unverified against primary material. An evidence-grade kb
+  datum for the coinage is the single highest-value recruitment this entry names.
+- **The BFS incident Sunday.** Attested as "a Sunday in mid-May"; May 17 is inferred from
+  bracketing anchors. A message-dated confirmation (the shift's own texts, the CSR timestamp) would
+  harden or move it.
+- **The exact BFS termination date.** "Sometime in May [2026]" per Dan (2026-07-14) is the finest
+  dating the corpus currently supplies. Final payroll disposition is undocumented.
+- **The [[wiki/people/tom|Tom]] friendship after May 30.** Whether it recovered is undocumented — the record stops.
+  The "LITERALLY noone" inventory is therefore time-bounded to the coinage session; a later
+  reconciliation would not retroactively change the collapse but would change its tail.
+- **The declaration counts.** 127 vs 129 across pages; the counting methods have not been
+  reconciled. A single audited count with stated inclusion criteria would settle it.
+- **The 72-hour figure.** 765 (in-chat pass) vs 643 (filed export, Sep 5–7). The export's own
+  coverage (does it include all handles?) is the likely source of the tension.
+- **463 Morgantown St.** The successor housing's legal status was unresolved as of August 2026 (no
+  lease/POA). The collapse's housing structure therefore does not cleanly *end* on July 8 — it
+  transitions into a new precarity, which is arguably a fifth structure rather than the second one's
+  resolution.
+- **The "hinge point" theory's fate.** Dan's coinage-session theory — that a clean ending required
+  a "coup de grâce" Annie never supplied — predicts the severance could not resolve, only lapse. The
+  July 23 lapse is consistent; whether Dan still holds the theory (it would predict the August
+  declarations' futility) is untested in the corpus after June.
+- **The +17243228715 handle.** The second-largest 2026 channel (320/355/237/14 across Apr–Jul) is
+  unidentified in this entry's sources. Its co-collapse with Annie's handle in June is load-bearing
+  for the systemic-event reading; identifying it would harden or soften that claim.
+- **The [[wiki/people/suzanne-frank|Suz]] exclusion.** Why the "LITERALLY noone" inventory excludes the mother — loyalty, blind
+  spot, or the vertical/lateral distinction — is unrecoverable from the session summary. The raw log
+  might show whether Suz was discussed and cut, or never raised.
+- **The July 26 refusal's aftermath.** The only documented refusal under pressure in eleven years
+  arrives at 2:45 AM on July 26 — and the corpus record of what it changed (in the channel, in the
+  machinery, in Dan's own accounting) is thin. A refusal that significant should have a trace; the
+  trace is currently one line.
+- **The rehire's terms.** August 11: reapply, per the same manager-side chain that posted the ban.
+  Whether Dan actually reapplied, what the terms were, and whether the job resumed are unconfirmed
+  (MEMORY.md: "rehire offered Aug 11, 2026 — status unconfirmed"). The collapse's only reversal is
+  currently a single operator utterance.
+- **The "something" that turns it around.** Sense 1's exit condition ("until something turns it
+  around") has never been tested to completion: the rehire destabilized rather than relieved, the
+  recontact restored no structure. What the operator would count as the turnaround — and whether the
+  coinage's exit condition is satisfiable at all — is open.
+
+## Limits of record
+
+**Observed:** the message dumps (May–July 2026 volumes by handle and direction; the June 1
+closure-day traffic; the 7 unanswered inbound June 5–15; the 38-day channel silence; the July 23
+18:54 recontact and the 2,070-message flood; the 5,905-row Aug–Sep export). The Saratoga sale
+documents (Chapter 13 case 24-22285-GLT, $465k close June 23, July 8 vacate). The BFS
+contemporaneous records (CSR close read even, the $50 demand as reported, the 36→7 hours cut, the
+August 11 rehire and the 'NO HIRE' sign).
+
+**Reported:** Dan's own accounts — the coinage session ("aura illness," "walking catastrophe,"
+"LITERALLY noone," "totally illegitimate thing," "like 3 weeks"); the BFS termination dated
+"sometime in May [2026]" (2026-07-14); the [[wiki/people/tom|Tom]] debt figures ($35/$36/$30 across utterances); the
+August 26 block and its verbatim retraction ("there was never a block").
+
+**Calculated:** the 52-day severance (June 1 → July 23 by date difference); the 38-day true channel
+silence (June 15 → July 23); the May–July monthly volumes (Apr 1,906 → May 2,792 → Jun 931 → Jul
+2,115 → Aug 6,803 in the wikitest dump); the ~15% tension between the 765 and 643 figures for the
+export's final 72 hours.
+
+**Inferred:** the BFS incident shift as Sunday, May 17 (bracketed, not attested); the coinage
+session as ~June 1–7 (dated by contents); the material explanation of the 52-day hold (the entry's
+riskiest claim, marked throughout); the one-object thesis itself (supported by causal entanglement +
+operator grouping + material explanation, falsifiable as stated in §4).
+
+**Disproven:** the August 26 block (retracted; the five August 26 pages carry SUPERSEDED
+annotations); the "protected refusal → same-day retaliation" shape of the BFS dispute (corrected
+2026-08-26: the hours cut preceded the $50 conversation); the "first held boundary" conclusion
+(withdrawn with the retraction).
+
+**Unknown:** the coinage session's raw log; the BFS exact termination date and final payroll; the
+Tom friendship's post-May-30 state; the 463 Morgantown legal resolution; whether the 127/129
+declaration counts reconcile; the precise 72-hour export figure.
+
+## Method appendix: how the forensics were done
+
+The quantitative claims in this entry rest on two message dumps and one filed export, and the
+method's limits are part of the record:
+
+**The wikitest dump** (192,140 rows, per the derivation pass): the source of the monthly-arc table
+(Mar 3,193 → Apr 1,906 → May 2,792 → Jun 931 → Jul 2,115 → Aug 6,803), the handle-level breakdowns
+([[wiki/people/annie-ulmer|Annie]] +12124702449, [[wiki/people/tom|Tom]] phloxenheim@gmail.com, +17243228715, the [[wiki/people/ally-lubin|Ally]] channel), and the direction
+splits (June 1: 85/39; June 5–15: 7 inbound, 0 answered; July 23–31: 1,045/1,025). The dump is an
+older file — the standing canonical corpus count is 217,573 records / 503 handles — so dump-derived
+figures are *relative* (shapes, ratios, direction splits), not canonical totals. The entry never
+presents a dump figure as the corpus total.
+
+**The handle-identification problem.** The Annie handle in the 2026 dump (+12124702449) differs from
+the number on the annie-ulmer page (+16467376955, 97,768 unique messages across the full eleven-year
+record). The page aggregates across numbers; the 2026 traffic runs on the current one. Handle
+continuity across number changes is attested by the conversation threading, not by the digits —
+which is why the entry cites the handle with its 2026 number and leaves the cross-number
+reconciliation to the linkage pages.
+
+**The filed Aug–Sep export** (5,905 dated rows, 2026-08-11 → 2026-09-07): the source of the coda's
+daily texting record, the declaration-cluster dating (Aug 15–19), and the Sep 5–7 figures
+(141/283/219 = 643). The export's coverage is stated as the filed rows; whether it includes all
+handles for the window is not verified — which is the preserved tension with the retraction page's
+"765 in the last 72 hours" from a later in-chat pass. The entry does not adjudicate; it reports both
+with provenance.
+
+**The 52-day calculation.** June 1 → July 23 by date difference = 52 days; the 38-day true channel
+silence (June 15 → July 23) is the stricter measure (last inbound June 15, first outbound July 23
+18:54). Both are *date-difference* calculations on the dump's timestamps, not operator claims —
+which is why they survive the retraction cycle that killed the August 26 block. Calculated facts are
+cheaper than reported ones, and the entry prefers them where they exist.
+
+**The inference tags.** Every non-trivial claim carries its tag: [ATTESTED] (message-dated or
+page-sourced), [OPERATOR] (Dan's own words, with the veracity-ledger caution), [DERIVED] (computed
+from the dumps), [INFERRED] (bracketed, falsifiable — the May 17 Sunday, the ~June 1–7 coinage
+dating), [DISPUTED] (the Tom debt's three figures, preserved not resolved). The tags are the
+method's audit trail: a reader can re-derive every load-bearing claim from the tag and the cited
+source without trusting the entry's prose.
+
 
 ## Gaps
 

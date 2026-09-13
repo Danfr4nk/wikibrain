@@ -5,7 +5,7 @@ title: "Vanessa C. Frank"
 aliases: ["Vanessa", "Vanessa Frank"]
 status: stable
 date_created: 2026-06-23
-date_modified: 2026-09-02
+date_modified: 2026-09-13
 sources: ["raw/self/twitter/archive.jsonl", "raw/mind/captures/2026-08-02_122411_perspective-complete-objective.md", "raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip", "raw/self/context-core/CONTEXT_CORE_EXPANDED.md", "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv", "raw/self/dox-md/Gemini-_18.md", "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md"]
 related: ["wiki/people/suzanne-frank", "wiki/people/rick-frank", "wiki/self/ancestry", "wiki/self/overview", "wiki/people/annie-ulmer"]
 tags: [ai-collaboration]
@@ -25,6 +25,8 @@ connections:
   - page: wiki/self/twitter/2013
     type: evidenced-by
     claim: "The five 2013 posts under @VanessaFrankzz are the only contemporaneous record of the sibling relationship before the message thread opens in December 2015, and every one of them is a joke made at her expense in public — 'Hair Alert!', 'Kill yourself, make the world a better place', 'has geriatric comedy on lock' — which is a register the low-conflict message thread never shows."
+  - { target: "[[wiki/people/diane-moore]]", type: references, claim: "Diane is Vanessa's maternal grandmother — the hostile pole of the maternal line that Vanessa's page only touches as family logistics." }
+  - { target: "[[wiki/people/suzanne-frank]]", type: references, claim: "Suzanne is Vanessa's mother; the family cross-channel section documents Vanessa as a reader of — and check on — her mother's account." }
 ---
 
 # Vanessa C. Frank
@@ -77,7 +79,7 @@ tuition, risking lawsuits." By 2020 she is making the climate-and-capital case
 
 > **REVISED [2026-07-14]:** an earlier version of this section attributed
 > the Bernie Sanders 2020 New Hampshire canvassing trip, and the pushback
-> on Suz's "boomer mentality... modest anodyne centrist" framing, to
+> on [[wiki/people/suzanne-frank|Suz]]'s "boomer mentality... modest anodyne centrist" framing, to
 > Vanessa. Re-checking the raw rows shows both are outbound (`Sent`)
 > messages in Dan's own voice ("i have been relentlessly appealing to mom
 > to open her mind... i'm going to NH on monday to canvass") — it was Dan
@@ -112,8 +114,7 @@ about school while she is finishing high school (she was born January 1994):
 sure it's hard to live up to :)"* and, minutes later, *"aww that's okay/ you
 didn't have a chance, given my flawless HS career"* — both on 23 February
 2012, and both funnier against
-[[wiki/timeline/periods/dark-era-2007-2008|what his own high school years
-actually were]]. He tells her she and Aubrey Plaza *"are the same person"*
+[[wiki/timeline/periods/dark-era-2007-2008|what his own high school years actually were]]. He tells her she and Aubrey Plaza *"are the same person"*
 (24 November 2011). He wishes her luck before something on 28 July 2011. And
 on 7 December 2011: *"wtf just got a text from mom about this I hate you
 all"* — the sibling channel operating as the place to complain about the
@@ -135,7 +136,7 @@ please don't say anything"), and her messages about him carry the family's
 documented strain — "being with dad at that time was fucking excruciating,"
 "lol dad is zero concerned." When something is off with their mother she comes
 to Dan to triangulate ("I got a weird message from mom today. Just making sure
-there isn't some emergency?"), which places her, like Dan, as a reader of Suz's
+there isn't some emergency?"), which places her, like Dan, as a reader of [[wiki/people/suzanne-frank|Suz]]'s
 oscillations rather than a driver of them.
 
 ## Corpus dimensions
@@ -168,10 +169,10 @@ silence is itself worth noting rather than explaining away.
 
 ## Notes and gaps
 
-The behavioral spine lists her as "Vail, ski-school," which the message
+The [[wiki/self/context-core|behavioral spine]] lists her as "Vail, ski-school," which the message
 corpus neither confirms nor contradicts — the thread is about politics and
 family, not her location or work, so the Colorado detail is carried forward as
-unverified. Her birth record is from the ancestry GEDCOM. Everything else here is from
+unverified. Her birth record is from the [[wiki/self/ancestry]] GEDCOM. Everything else here is from
 the iMessage thread except the 2011–2013 section above, which is from the
 tweet archive and is the only evidence of the relationship before December
 2015.

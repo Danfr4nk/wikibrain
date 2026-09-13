@@ -38,6 +38,7 @@ connections:
   - page: wiki/places/307-e-76th-st
     type: contextualizes
     claim: "The arrears were never abstract: Annie asked John Paci to hold rent checks against a Libby payment that never came (2024-08-01, 2024-08-14), which is the dispute's material footprint on the household the wiki otherwise tracks through landlord debt."
+  - { target: "[[wiki/mind/synthesis/estate-money-spine]]", type: contextualizes, claim: "The dispute is the estate-money spine's live unresolved thread: the Libby claim runs through the same inheritance-money pressure the spine tracks, with the 2024-08-14 preserve-documents draft as its most explicit deployment." }
 ---
 
 # The Libby wage dispute: shifts, rates, and the open estate question
@@ -45,9 +46,9 @@ connections:
 This is the ledger page for [[wiki/people/libby|Libby Titus]] — the
 shift-by-shift payment reconstruction the main page does not attempt, and the
 estate-claim question the main page leaves as its first gap. Everything below is
-drawn from the Dan↔Annie iMessage thread (`imessages_2124702449_last6months`,
+drawn from the Dan↔[[wiki/people/annie-ulmer|Annie]] iMessage thread (`imessages_2124702449_last6months`,
 timestamps UTC; local dates are EDT, UTC−4 — see the method appendix), which
-holds 107 messages containing the string "Libby" between 2024-02-09 and
+holds 107 messages containing the string "[[wiki/people/libby|Libby]]" between 2024-02-09 and
 2025-03-21. The main page's 116-message count likely includes variant
 spellings and adjacent threads; the 107 is the audited figure from this
 thread **[DERIVED]**.
@@ -61,13 +62,12 @@ thread **[DERIVED]**.
 
 ## The rate's biography: $50 to $75 to $500-in-cash
 
-The demand letters state **$75/hour**, *"our normal, agreed upon rate"*, *"set
-by Libby Fagen"* (2024-08-14). That is the end of the rate's story, not the
+The demand letters state **$75/hour**, *"our normal, agreed upon rate"*, *"set by [[wiki/people/libby|Libby Fagen]]"* (2024-08-14). That is the end of the rate's story, not the
 beginning. The thread records three distinct pay regimes, and the famous
 contradiction only looks like one if the first two are missing.
 
 **February — the $50/hour opening.** On **2024-02-08**, the first payday,
-Annie reports: *"Dan. She paid me $350."* Twenty minutes later she quotes the
+[[wiki/people/annie-ulmer|Annie]] reports: *"Dan. She paid me $350."* Twenty minutes later she quotes the
 negotiation verbatim:
 
 > *"She goes 'how much can I pay you?' I said that's up to you! However much*
@@ -119,7 +119,7 @@ later chased were also framed around checks, not cash.
 The thread is a conversation, not a timesheet, so "shift-by-shift" means
 every shift the thread evidences, in order, with what the thread says about
 pay. Days with no mention are not days with no work — the register is set in
-the first week (*"I gotta gotta gotta get up early tomorrow and help Libby.
+the first week (*"I gotta gotta gotta get up early tomorrow and help [[wiki/people/libby|Libby]].
 I need money"*, 2024-02-16) and the work is near-daily through the spring.
 
 **February — the trial.** First visit implied before 2024-02-08. Paid $350 on
@@ -130,8 +130,7 @@ money"* (02-14). Hospital trip 02-20. The month's shape is piecework: show
 up, get paid something, need money.
 
 **March — the job turns medical, and the money keeps coming.** Brain cancer
-disclosed 03-05; right-lung recurrence 03-06. Annie is driving to
-appointments, sitting through them, spending half-hours on the phone with
+disclosed 03-05; right-lung recurrence 03-06. [[wiki/people/annie-ulmer|Annie]] is driving to appointments, sitting through them, spending half-hours on the phone with
 doctors (03-19), receiving **cemetery-plot emails** (03-20). Pay mentions are
 sparse but the direction is up: the triple-pay day (03-17). *"Well. Libby
 just texted me. 'I can leave it at the front desk' meaning the check"*
@@ -184,8 +183,8 @@ arrears' day zero.
 
 ## The arrears: July 20 to August 14, day by day
 
-**July 20.** Annie waits outside the park for Libby to answer. She has
-already written the rent check; John Paci has it; they *"missed one week"*.
+**July 20.** [[wiki/people/annie-ulmer|Annie]] waits outside the park for [[wiki/people/libby|Libby]] to answer. She has
+already written the rent check; [[wiki/people/john-paci|John Paci]] has it; they *"missed one week"*.
 The Libby money and the rent check are now the same problem.
 
 **July 21.** *"I'm just hoping that I can see Libby tomorrow because she owes
@@ -336,18 +335,16 @@ The dispute's numbers are small — hundreds, not thousands — and the thread
 shows exactly what hundreds meant in that household in the summer of 2024.
 
 **The rent checks.** *"I may try to see if John will hold this weeks rent
-check and explain to him the situation that I am waiting for a check from
-Libby"* (2024-08-01). Two weeks later the ask is more desperate: *"Did you
+check and explain to him the situation that I am waiting for a check from [[wiki/people/libby|Libby]]"* (2024-08-01). Two weeks later the ask is more desperate: *"Did you
 tell him please just hold it until I get paid Sunday.. did you tell him you
-lost your job?"* (2024-08-14). John Paci is holding post-dated rent against
-a receivable from a dying woman's household, and Annie is asking Dan to tell
-the landlord she lost a job she had already lost — the arrears have started
+lost your job?"* (2024-08-14). [[wiki/people/john-paci|John Paci]] is holding post-dated rent against
+a receivable from a dying woman's household, and [[wiki/people/annie-ulmer|Annie]] is asking Dan to tell the landlord she lost a job she had already lost — the arrears have started
 generating their own small deceptions.
 
 **The mother, twice.** On 2024-07-22: *"My mom will help what needs to be
 covered for rent until Libby pays me.. but I feel bad. But I have to make
 sure I pay her back. Because I haven't the last times I have borrowed."* The
-receivable is being borrowed against from Ellen before it is even collected,
+receivable is being borrowed against from [[wiki/people/ellen-ulmer|Ellen]] before it is even collected,
 and the borrowing has a history of non-repayment stated in the same breath.
 
 **The phones.** The May largesse was earmarked before it arrived:
@@ -376,7 +373,7 @@ letters vs. $500 for ~3 hours on 2024-05-17. The fuller record narrows it
 without closing it:
 
 1. The $75/hour was the **contracted** rate — "our normal, agreed upon
-   rate," "set by Libby Fagen" — and the $675 arrears figure is arithmetically
+   rate," "set by [[wiki/people/libby|Libby Fagen]]" — and the $675 arrears figure is arithmetically
    consistent with it (9 hours × $75) [DERIVED].
 2. The $500 and $700 were **ad hoc overpayments**, and Libby's own framing
    survives for the $700: *"today was a nightmare."* Hazard pay, in her
@@ -396,7 +393,7 @@ it is still one.
 **The honest statement: the exact balance is unknown.** What the record
 supports, stated as a floor with its reason:
 
-- **Lower bound: $675** [ATTESTED] — Annie's own figure to Libby on
+- **Lower bound: $675** [ATTESTED] — [[wiki/people/annie-ulmer|Annie]]'s own figure to [[wiki/people/libby|Libby]] on
   2024-07-25 for "the hours from last week." This is the only arrears total
   anyone ever stated in writing.
 - **Possible addition: unknown** [UNKNOWN] — Dan's July-28 draft cites "the 6
@@ -409,15 +406,14 @@ supports, stated as a floor with its reason:
 So: **at least $675, possibly more, total never fixed in writing.** Libby
 Titus died on **13 October 2024**. Nothing in the thread records any payment
 between August 14 and her death, or after it. On the evidence available the
-balance was open when she died — which is what the main page and the
-estate-money-spine already say, now with the $675 floor under it.
+balance was open when she died — which is what the main page and the [[wiki/mind/synthesis/estate-money-spine|estate-money-spine]] already say, now with the $675 floor under it.
 
 ## Was any claim ever filed?
 
 Three candidate filings, three answers from the record:
 
 **1. The NY Department of Labor complaint.** Threatened in letter 3 with a
-deadline of 12:00 PM EST, 15 August 2024. On Aug 14 Annie said *"I guess i
+deadline of 12:00 PM EST, 15 August 2024. On Aug 14 [[wiki/people/annie-ulmer|Annie]] said *"I guess i
 have no choice but to file"*; Dan said he'd *"do the whole thing for you."*
 **No confirmation of filing appears anywhere in the thread afterward**
 [ATTESTED absence — the thread is their full channel and discusses every
@@ -427,7 +423,7 @@ messages contain no mention of the DOL, no case number, no follow-up — and
 the dispute itself vanishes from the conversation.
 
 **2. A claim against the estate.** After 13 October 2024, any wage claim
-would have run against Libby Titus's estate, not against Libby. The thread
+would have run against [[wiki/people/libby|Libby Titus]]'s estate, not against Libby. The thread
 contains **zero mentions** of an estate, probate, executor, surrogate's
 court, or any post-death pursuit of the money — across the 107 Libby
 messages and the full thread's post-August span. Dan's own pre-death
@@ -453,7 +449,7 @@ about a different job, the Libby months already receding into a benchmark.
 ## After the death: who a claim would even run against
 
 This is the part the record never reaches, so it is stated here as
-structure, not as finding. Libby Titus died 13 October 2024. Three parties
+structure, not as finding. [[wiki/people/libby|Libby Titus]] died 13 October 2024. Three parties
 survive her in the thread's account, and a wage claim would have had to
 choose among them:
 
@@ -463,8 +459,7 @@ choose among them:
    requires knowing the estate is in probate, having a docket to attach to,
    and stating a sum certain. The letters never stated a sum certain.
 2. **Donald Fagen.** He survives her, he was cc'd on the household finances
-   (the May 30 bank-account breakdown came from his email), and Annie's
-   own strategy was *"Let me know what to sign and when I can get my
+   (the May 30 bank-account breakdown came from his email), and [[wiki/people/annie-ulmer|Annie]]'s own strategy was *"Let me know what to sign and when I can get my
    check"* addressed to both of them. But nothing in the thread establishes
    he was the employer; the rate was set by Libby, the checks were Libby's
    to write until she claimed she couldn't.
@@ -482,8 +477,7 @@ conclusion; it is the shape of the hole the record leaves.
 
 ## Method appendix (compact)
 
-- **Thread identity.** `imessages_2124702449_last6months` is the Dan↔Annie
-  iMessage thread: +12124702449, 40,338 rows, direction `sent` = Dan,
+- **Thread identity.** `imessages_2124702449_last6months` is the Dan↔[[wiki/people/annie-ulmer|Annie]] iMessage thread: +12124702449, 40,338 rows, direction `sent` = Dan,
   `received` = Annie (the Aug 1 letter is signed "Anne Ulmer"; the Aug 13
   letters "Anne L. Ulmer"). Timestamps are UTC; all local dates above are
   EDT (UTC−4).
@@ -493,8 +487,7 @@ conclusion; it is the shape of the hole the record leaves.
   Neither count includes "her"-only references, which were not swept.
 - **The $1,800/$2,000 trap, excluded.** On 2024-08-14 Annie discusses a
   $1,800 balance against a $2,000 settlement offer with $200 monthly
-  payments and PNC transfers — that is her **bank loan/settlement**, not
-  Libby wages (context: "I need to pay loan by tomorrow," "pnc drain every
+  payments and PNC transfers — that is her **bank loan/settlement**, not [[wiki/people/libby|Libby]] wages (context: "I need to pay loan by tomorrow," "pnc drain every
   penny"). It is excluded from every figure above; conflating it would
   nearly triple the arrears.
 - **"Their response" (2024-08-13).** Read as: the Fagen side responded to
@@ -510,7 +503,7 @@ conclusion; it is the shape of the hole the record leaves.
 
 ## Gaps
 
-1. **The arrears total.** $675 is the floor (Annie's figure, 2024-07-25);
+1. **The arrears total.** $675 is the floor ([[wiki/people/annie-ulmer|Annie]]'s figure, 2024-07-25);
    the letters' placeholders were never completed in-thread. Whether
    post–July 25 shifts accrued is not established. The operator can close
    this in a sentence.
@@ -533,8 +526,7 @@ conclusion; it is the shape of the hole the record leaves.
 
 ## Limits of record
 
-- Every figure on this page is single-source: Annie's messages to Dan.
-  Libby's side survives only as quoted by Annie (the "nightmare" line, the
+- Every figure on this page is single-source: [[wiki/people/annie-ulmer|Annie]]'s messages to Dan. [[wiki/people/libby|Libby]]'s side survives only as quoted by [[wiki/people/annie-ulmer|Annie]] (the "nightmare" line, the
   $50/hour offer, the 2 AM "do not come for your check" text) and once as
   a forwarded-but-unquoted response. There is no corroborating employer
   record, no timesheet, no pay stub in the corpus.

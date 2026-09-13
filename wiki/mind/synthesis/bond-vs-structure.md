@@ -51,6 +51,7 @@ connections:
   - page: wiki/mind/synthesis/august-26-block-retraction
     type: evidenced-by
     claim: "The retraction is the performance/channel decoupling stated in its purest form: ~25 declarations August 15-19 with zero toggles, then block-claims migrated to the witness channel while the Annie channel carried daily two-way texting — full-volume speech, zero channel movement."
+  - { target: "[[wiki/mind/synthesis/witness-channel-declarations]]", type: contextualizes, claim: "The channel-cost ordering this entry establishes ('nothing either party still needs flows through the channel') is the rule the witness channel exploits: block claims are performed to a witness at zero channel cost while the primary channel stays live." }
 ---
 
 # Bond vs Structure: Why Severances Break Through the Cheapest Channel
@@ -73,7 +74,7 @@ mechanism: *"I should not have responded to that email"* [ATTESTED —
 This entry is the mechanism generalized. The block-unblock loop states the governing
 rule in its corrected form: **a block holds if and only if nothing either party
 still needs flows through the channel — and what is needed need not be material**
-[[wiki/mind/synthesis/block-unblock-loop]]. The Milo case widened it: the residual
+[[wiki/mind/synthesis/block-unblock-loop]]. The [[wiki/people/milo|Milo]] case widened it: the residual
 dependency does not have to be material. What this entry adds is the *ordering*:
 severance breaks do not distribute randomly across the surviving channels. They
 sort by firing cost, cheapest first — and the cheapest channel is, structurally,
@@ -104,7 +105,7 @@ The severance: June 1, 2026, Dan's own sign-off at 00:27:49 — *"Goodbye foreve
 This was not how it should have ended but. sic semper lupanis."* — after
 *"Blocking you"* at 00:09:31. Her reply, six seconds later: *"Understood."*
 [ATTESTED — [[wiki/mind/synthesis/severance-declarations]]]. Then fifty-two days:
-zero outbound from Dan, seven inbound from Annie across four approaches — June 5
+zero outbound from Dan, seven inbound from [[wiki/people/annie-ulmer|Annie]] across four approaches — June 5
 (an apology), June 9 ("Are you okay" / "Please answer"), June 10 (the
 Valic/Corebridge paperwork request plus "Please"), June 15 ("Daniel") — every one
 unanswered [ATTESTED — the loop's CORRECTED block, counted from the deep
@@ -118,7 +119,7 @@ arm. The June 10 paperwork request is the *expensive* channel firing: money,
 logistics, the terminal phase's signature contact shape. It drew nothing. The
 June 5 apology and June 9 welfare check are the *intermediate* channels firing:
 affect, concern, the vocabulary of repair. They drew nothing. The July 4 email —
-*"is [Milo] frightened by fireworks"* — is the *cheapest* channel firing: a bare
+*"is [[[wiki/people/milo|Milo]]] frightened by fireworks"* — is the *cheapest* channel firing: a bare
 welfare question about a dog, arriving on a channel the block did not cover
 (email, not iMessage), carrying nothing material, demanding nothing, offering
 nothing. It was answered nineteen days later, on July 23, and within eight hours
@@ -151,11 +152,11 @@ channel fired; the expensive ones did not.
 
 ## The dog, as a dog
 
-Before the taxonomy: who Milo is, because the channel facts only make sense
+Before the taxonomy: who [[wiki/people/milo|Milo]] is, because the channel facts only make sense
 through the animal. Milo is Dan's Chihuahua, in his life by September 2018
 (a two-dog surgery day on 2018-09-14), acquired during the Uniontown-era
 relationship and moved with them to NYC [ATTESTED — [[wiki/people/milo]]]. The
-origin story is Dan's own telling (2026-07-14): Annie's sister Claire found him
+origin story is Dan's own telling (2026-07-14): [[wiki/people/annie-ulmer|Annie]]'s sister [[wiki/people/claire-ulmer|Claire]] found him
 as a starving stray, the runt of his litter with one developed testicle, rejected
 by his pack; Dan was against adopting and made Annie write "we are not getting a
 new dog" on her own hand in Sharpie before they went to see him; Claire's dog
@@ -190,7 +191,7 @@ named the dog in *his* vocabulary (*"when something happens to Milo"*); the
 route runs in *hers*. A channel with two names is harder to close by declaring
 one of them shut.
 
-**He is the oath object.** Dan swore his feelings to Valeria on Milo [ATTESTED —
+**He is the oath object.** Dan swore his feelings to [[wiki/people/valeria-iglesias-cid|Valeria]] on Milo [ATTESTED —
 [[wiki/people/milo]]]; on 2026-08-17 at 20:40:30: *"On Milo that's what happens
 tonight"*; on 2026-08-21: *"I can swear on my little dog Milo's health and well
 being that I learned 2 big lessons"* [ATTESTED —
@@ -211,8 +212,7 @@ starving it would mean.
 
 [[wiki/mind/synthesis/aura-illness-compound-collapse]] treats May–July 2026 as
 one object: four load-bearing structures failing inside ninety days — the BFS
-termination (causally downstream of Tom's supply failure), the forced exit from
-337 Saratoga, the Tom rupture, the relationship severance. For this entry's
+termination (causally downstream of [[wiki/people/tom|Tom]]'s supply failure), the forced exit from [[wiki/places/337-saratoga-drive|337 Saratoga]], the Tom rupture, the relationship severance. For this entry's
 purposes the collapse is not a tragedy to retell; it is the experiment's
 treatment arm. Read it as a channel-starvation protocol:
 
@@ -231,7 +231,7 @@ treatment arm. Read it as a channel-starvation protocol:
   Dan moving the house single-handed a week late) removed the shared space;
   the cohabitation that had made in-person contact the default was gone.
 - **Triangulation, exhausted.** The March 19–20 exposure threats, the July 26
-  executed maternal disclosure ("Alright I'm contacting Ellen," 06:22, followed
+  executed maternal disclosure ("Alright I'm contacting [[wiki/people/ellen-ulmer|Ellen]]," 06:22, followed
   by screenshots), the Leviathan dashboards published and then withdrawn —
   every leverage channel had been played out by late July.
 
@@ -251,14 +251,12 @@ instrument: the Tom endpoint (post-May-30, ~11 weeks silence, confirmed by
 operator report *"No I have not been in contact with tom"*) holds because the
 dependency was zeroed *and* a replacement node (Bop, house-calling daily) exists
 — no co-held object, no bond residue, no channel left to fire
-[[wiki/mind/synthesis/block-unblock-loop]]. Menore's farewell held because the channel was
-purely transactional — nothing co-held once the transaction ended. The Rick row
-that once anchored the "severance capacity" claim was retracted outright (built
+[[wiki/mind/synthesis/block-unblock-loop]]. [[wiki/people/menore|Menore]]'s farewell held because the channel was
+purely transactional — nothing co-held once the transaction ended. The [[wiki/people/rick-frank|Rick]] row that once anchored the "severance capacity" claim was retracted outright (built
 on an incomplete source; the real record is 1,600+ two-way messages across a
 decade). The catalog converges: where structure is the whole bond, severance
 holds when structure ends. Where bond exceeds structure, severance holds only
-until bond's cheapest channel fires. The Annie case is the catalog's sole
-instance of the second class, which is why it needed the widening.
+until bond's cheapest channel fires. The [[wiki/people/annie-ulmer|Annie]] case is the catalog's sole instance of the second class, which is why it needed the widening.
 
 ## The formal rule
 
@@ -273,7 +271,7 @@ Definitions, because the rule is only as good as its terms:
 - **A channel** is any medium through which contact between the severed parties
   can travel: the iMessage thread, email, a third party's phone, a dog's vet
   bill, a nightly sign-off, a public GitHub Pages dashboard, an audience that
-  reports back. Channels are not dyadic by necessity — the witness channel is
+  reports back. Channels are not dyadic by necessity — the [[wiki/mind/synthesis/witness-channel-declarations|witness channel]] is
   triadic, and it still fires.
 - **A channel is live** if a message can travel it without either party doing
   something they have demonstrated they will not do. The iMessage thread was
@@ -306,9 +304,9 @@ firing. Duration is not the variable. The live set is.
 What would falsify the rule: a severance that breaks through a high-cost
 material channel while a cheaper non-material channel was live and unused. The
 record, as filed, contains no such case — and the nearest approach runs the
-other way. On July 26, at maximum pressure, Annie asked for drugs and cash
+other way. On July 26, at maximum pressure, [[wiki/people/annie-ulmer|Annie]] asked for drugs and cash
 (*"Do you have anything Dan… I have cash… ARE YOU COMING OR NOT… COME
-INSIDE… Bring Milo."*); Dan refused (*"i'm not getting rid of an 8 ball for
+INSIDE… Bring [[wiki/people/milo|Milo]]."*); Dan refused (*"i'm not getting rid of an 8 ball for
 20 seconds in a dark car," "no i'm not going to risk my entire life or
 freedom"*) — the refusal holding thirty-one hours, the only documented refusal
 to supply under maximum pressure in the entire corpus [ATTESTED —
@@ -326,13 +324,12 @@ this page owns the firings.
 
 ### Material channels
 
-**Supply / drugs.** Tom 2014: *"I'm done… not doing this stupid fucking dance"*
+**Supply / drugs.** [[wiki/people/tom|Tom]] 2014: *"I'm done… not doing this stupid fucking dance"*
 (Sept 10) → reopened in 5 days (*"yo looking to purchase"*) — sole informal
 strip source, the expensive channel firing because no cheap one existed
 [ATTESTED — loop]. Tom 2026: blocked May 18, unblocked same day with ultimatum
 (*"I'm unblocking you for the moment… otherwise fuck you"*) — still the only
-supply node; reopened same day [ATTESTED — loop]. Annie, July 26: the drug
-request at the crisis peak — refused, 31 hours — the one case where the material
+supply node; reopened same day [ATTESTED — loop]. [[wiki/people/annie-ulmer|Annie]], July 26: the drug request at the crisis peak — refused, 31 hours — the one case where the material
 channel was offered and the severance's logic *held against it*, because the
 cheap channel had already done the work [ATTESTED — july-2026-recontact]. Annie,
 late July–August 2: contact continuous from 05:22 July 26 through August 2 —
@@ -363,7 +360,7 @@ and the collapse had removed the overlap.
 blocks, unblocks to send final lines, blocks again — the loop running
 bidirectionally inside the bond [ATTESTED — loop, via
 [[wiki/timeline/events/march-2026-terminal-phase]]]. July 26, 06:22: Dan
-executes the maternal-disclosure threat (*"Alright I'm contacting Ellen,"*
+executes the maternal-disclosure threat (*"Alright I'm contacting [[wiki/people/ellen-ulmer|Ellen]],"*
 followed by screenshots) — the first of six-plus recorded maternal-disclosure
 threats ever executed [ATTESTED — july-2026-recontact RESOLVED]. July 23–26:
 the Leviathan dashboards (`caakehorn.github.io/leviathan/ask.html`,
@@ -385,7 +382,7 @@ the entry's load-bearing exhibit:
   Mimi"* [ATTESTED — [[wiki/people/milo]]]. Firing cost: zero. Deniability:
   total — it is, on its face, kindness to an animal.
 - *The voice.* Dan speaks as him at exactly the moments a direct approach
-  would fail: *"Milo said you can borrow his pink kimono," "Milo said now he
+  would fail: *"[[wiki/people/milo|Milo]] said you can borrow his pink kimono," "Milo said now he
   can send you even better pictures," "milo just wanted to know because he
   said he liked Craig st"* (July–August re-entanglement); *"Milo said he
   will come spend the night with you sometime"* (2026-08-12 2:30:17),
@@ -400,7 +397,7 @@ the entry's load-bearing exhibit:
   transitions from hostility back to warmth run through him: July 26, 20:20
   — fifteen hours of rape allegation, an executed disclosure, an attack on
   her weight, "Don't contact me again" — ends with *"Omg he caught one"*
-  (Milo caught a rabbit; Annie: "Bunny? / Omg / He caught it?"); July 27,
+  (Milo caught a rabbit; [[wiki/people/annie-ulmer|Annie]]: "Bunny? / Omg / He caught it?"); July 27,
   00:09 — the thread restarts on the dog sighing in a pink kimono after a
   shower; July 30 — a full day of repair conducted almost wholly in dog
   content (carrier bag, expensive food, petting zoo, a bee); August 2 — the
@@ -413,7 +410,7 @@ the entry's load-bearing exhibit:
   photographs of him [ATTESTED — milo]. The threat and the reconciliation
   run through the same object, which is what makes it load-bearing rather
   than sentimental: nothing else in the relationship can do both.
-- *The duress code.* August 18/19: after Coles had been typing on her handle,
+- *The duress code.* August 18/19: after [[wiki/people/jerel-coles|Coles]] had been typing on her handle,
   Annie sends *"Betty. Milo. Whatever sos words"* (2026-08-19 02:54:28)
   [ATTESTED — aug-sep-2026-imessage-export.csv; milo]. The channel that
   reopened the relationship in July is the channel she reaches for to prove
@@ -452,14 +449,14 @@ the hour does not cancel the ritual.
 **The witness.** The third party who receives the performance and reflects it
 back. Three instances, three functions:
 
-- *Ally, the audience.* August 28 (*"It occurred to me today that I don't
+- *[[wiki/people/ally-lubin|Ally]], the audience.* August 28 (*"It occurred to me today that I don't
   even know how long it's been since I blocked her"*), September 4 (*"I did
   not (and will not) unblock the paw patrol"*), September 7 (*"So I
   unblocked paw patrol to see if I would get anything from her about it …
   not 30 seconds later I get a message 'call 911' … I just blocked her
   again"*) — all to allylubin@gmail.com, all while the Annie channel
   carried daily two-way texting [ATTESTED —
-  [[wiki/mind/synthesis/severance-declarations]]]. The witness channel's
+  [[wiki/mind/synthesis/severance-declarations]]]. The [[wiki/mind/synthesis/witness-channel-declarations|witness channel]]'s
   firing cost is zero and its function is *narrative maintenance*: the
   severance stays real somewhere even where it is not enacted. But note the
   September 7 turn — the witness channel firing *backwards*: he unblocked
@@ -468,7 +465,7 @@ back. Three instances, three functions:
   which the performer re-engages. A witness you report the block to is a
   witness you can later tell about the unblock, and the telling is contact
   with the bond by proxy.
-- *Ellen, the triangulation.* July 26, 06:22 — *"Alright I'm contacting
+- *[[wiki/people/ellen-ulmer|Ellen]], the triangulation.* July 26, 06:22 — *"Alright I'm contacting
   Ellen,"* followed by screenshots: the disclosure threat executed
   seventy-eight minutes after the *"whatever goodbye annie"* [ATTESTED —
   july-2026-recontact RESOLVED]. Contacting her mother is contact with the
@@ -516,10 +513,10 @@ One firing of each channel, priced:
 | Logistics / presence | Bodies, addresses, overlapping schedules (removed by the housing exit) | No — showing up is showing up |
 | Leverage / disclosure | Whatever the disclosure destroys; irreversible | No — and it escalates |
 | The dog (welfare question) | Nothing | Yes — it presents as kindness to an animal |
-| The dog (voice) | Nothing; negative — cheaper than holding the unsent message | Yes — disowned by design ("Milo said") |
+| The dog (voice) | Nothing; negative — cheaper than holding the unsent message | Yes — disowned by design ("[[wiki/people/milo|Milo]] said") |
 | The ritual (goodnight) | Nothing; automatic | Yes — addressed to the hour, not the bond |
-| The witness (Ally) | Nothing | Yes — it is about her, not to her |
-| The witness (Ellen / Coles) | Nothing for the sender; high for the target | Partially — it presents as intelligence, not contact |
+| The witness ([[wiki/people/ally-lubin|Ally]]) | Nothing | Yes — it is about her, not to her |
+| The witness ([[wiki/people/ellen-ulmer|Ellen]] / [[wiki/people/jerel-coles|Coles]]) | Nothing for the sender; high for the target | Partially — it presents as intelligence, not contact |
 
 Three structural reasons the bottom of the table is always non-material:
 
@@ -545,7 +542,7 @@ Three structural reasons the bottom of the table is always non-material:
    declaration can name the channel. Naming is not closing.
 
 The cost table also explains the one asymmetry the loop's catalog needed:
-why the Tom severances break fast through the *expensive* channel. In 2014
+why the [[wiki/people/tom|Tom]] severances break fast through the *expensive* channel. In 2014
 and 2026 there was no cheaper live channel — Dan and Tom co-held nothing,
 shared no ritual, had no audience between them. When the live set contains
 only expensive channels, the expensive one fires on schedule (5 days, same
@@ -580,8 +577,8 @@ Non-material channels resist starvation structurally:
   goodnight fires at the hour whether the severance is holding or not, as
   the August 15–19 overlap proves: declarations and rituals sharing the
   same nights, the ritual outlasting every one of them.
-- The audience exists. You cannot un-tell Ally, un-contact Ellen, or
-  un-publish sixteen days of wiki analysis. The witness channel is
+- The audience exists. You cannot un-tell [[wiki/people/ally-lubin|Ally]], un-contact [[wiki/people/ellen-ulmer|Ellen]], or
+  un-publish sixteen days of wiki analysis. The [[wiki/mind/synthesis/witness-channel-declarations|witness channel]] is
   starve-proof because witnesses are not a resource to be depleted; they
   are a record that has already been written.
 
@@ -589,8 +586,7 @@ This is why the August 19 pre-closure matters more than its uncertain
 outcome. It is the first move in eleven years aimed at the right target:
 not the expensive channels (which starve themselves) but the cheap one
 (which does not). *"Do NOT ever think that enough time has passed that now
-you can tell me about something that made you think of me or when something
-happens to Milo"* [ATTESTED — the-rescue-premise] names the welfare
+you can tell me about something that made you think of me or when something happens to [[wiki/people/milo|Milo]]"* [ATTESTED — the-rescue-premise] names the welfare
 question and the thinking-of-you message — the two cheapest shapes in the
 table — and closes them prospectively. Whether a declaration can starve a
 non-material channel is the open question this entry leaves to the record:
@@ -605,9 +601,7 @@ channel, can do what circumstance cannot.
 ## Performance volume is uncorrelated with channel state
 
 The declarations page proves the speech act runs at full volume with the
-channel untouched: ~25 declarations August 15–19, zero toggles; then the
-speech migrates to the witness channel (Ally, August 28–September 7) while
-the Annie channel carries daily two-way texting — 765 messages in the final
+channel untouched: ~25 declarations August 15–19, zero toggles; then the speech migrates to the [[wiki/mind/synthesis/witness-channel-declarations|witness channel]] ([[wiki/people/ally-lubin|Ally]], August 28–September 7) while the [[wiki/people/annie-ulmer|Annie]] channel carries daily two-way texting — 765 messages in the final
 72 hours of the export, including the *"Good night pretty girl"* ritual
 [ATTESTED — [[wiki/mind/synthesis/severance-declarations]];
 aug-sep-2026-imessage-export.csv]. This entry's channel reading of the same
@@ -633,7 +627,7 @@ enough to kill it. Stated so the record can grade them:
 
 1. **Cost ordering across the catalog.** Where the live set contains only
    expensive channels, breaks come fast through the expensive channel
-   (Tom 2014: 5 days; Tom 2026: same day). Where the live set contains a
+   ([[wiki/people/tom|Tom]] 2014: 5 days; Tom 2026: same day). Where the live set contains a
    cheap channel, the expensive channels do not fire first (June 10 money
    probe: nothing; July 4 dog email: the break). A future case breaking
    this ordering — an expensive channel firing while a cheaper live one
@@ -642,7 +636,7 @@ enough to kill it. Stated so the record can grade them:
    it: severance length should track the number of live co-held objects,
    not the declaration's wording. Fifty-two days against one co-held object
    (the dog) is the single data point; two live co-held objects should hold
-   materially less; zero should hold indefinitely (Menore: ~18 months and
+   materially less; zero should hold indefinitely ([[wiki/people/menore|Menore]]: ~18 months and
    counting, provisional on elapsed time) [ATTESTED — loop]. This entry
    adds the cost refinement: among the co-held objects, the cheapest one
    sets the ceiling, not the count alone.
@@ -651,7 +645,7 @@ enough to kill it. Stated so the record can grade them:
    cost-ordered prediction, the starve-proof claim weakens: declaration
    *can* do what circumstance cannot. If it breaks through the pre-closed
    channel anyway — the welfare question arriving under a new name, the
-   way "Mimi" already routes around "Milo" — the starve-proof claim
+   way "Mimi" already routes around "[[wiki/people/milo|Milo]]" — the starve-proof claim
    strengthens, and the two-name problem becomes the mechanism's name.
 4. **The ritual prediction.** The nightly sign-off is the cheapest channel
    with the highest automaticity. Any future severance that leaves the
@@ -684,7 +678,7 @@ from, so the forensics stay checkable without becoming the subject.
   handoffs), the 31-hour refusal hold, and the June 10 vs July 4 A/B reading
   are all carried from [[wiki/timeline/events/july-2026-recontact]] and the
   loop's CORRECTED block, which derived them from the deep whole-device
-  export across all five Annie identifiers, UTC converted to local. This
+  export across all five [[wiki/people/annie-ulmer|Annie]] identifiers, UTC converted to local. This
   entry re-derives none of them.
 - The 129/128/100% declaration figures, the 36-second median, the 23-second
   terminal-phase median, and the ~25 August 15–19 declarations are carried
@@ -696,7 +690,7 @@ from, so the forensics stay checkable without becoming the subject.
   `aug-sep-2026-imessage-export.csv` for this entry [DERIVED]. The
   instrument is a case-insensitive regex over the text column; it catches
   the nightly sign-off shape and may miss variants ("gn", "night").
-- The Milo message series (08-11 through 09-07, dog's-voice lines, oath
+- The [[wiki/people/milo|Milo]] message series (08-11 through 09-07, dog's-voice lines, oath
   lines, vet-bill line, SOS line) was pulled from the same export by
   keyword for this entry [DERIVED]; the interpretation (voice, oath,
   duress code) follows [[wiki/people/milo]]'s own filing.
@@ -705,15 +699,15 @@ from, so the forensics stay checkable without becoming the subject.
 - "Cheapest" is an ordinal claim, not a cardinal one: the cost table ranks
   channels relative to each other within a live set. No dollar values are
   asserted, and none are needed — the rule only requires the ordering.
-- The Tom 11-week silence is provisional on elapsed time (eleven weeks is a
+- The [[wiki/people/tom|Tom]] 11-week silence is provisional on elapsed time (eleven weeks is a
   fortnight longer than the Annie closure ran before failing), per the
-  loop's own caution. The Menore ~18-month hold carries the same
+  loop's own caution. The [[wiki/people/menore|Menore]] ~18-month hold carries the same
   provisionality plus the dormancy-not-exit caveat (the channel once went
   silent 2,044 days and reopened) [[wiki/mind/synthesis/dormancy-not-exit]].
 
 ## Gaps
 
-- **The July 4 email itself is not in `raw/`.** Only Annie's description of
+- **The July 4 email itself is not in `raw/`.** Only [[wiki/people/annie-ulmer|Annie]]'s description of
   it (fireworks question, sent over July 4, resent ~July 21) and the fact of
   the July 23 reply survive [ATTESTED — july-2026-recontact Gaps]. The type
   case's triggering message is attested secondhand. If the email surfaces,
@@ -724,7 +718,7 @@ from, so the forensics stay checkable without becoming the subject.
   shapes in other windows ("night", "sleep well", tapbacks). A full-corpus
   pass for bedtime-closure shapes would test prediction 4 properly. Nobody
   has run it.
-- **The witness channel's causal direction is unproven.** The September 7
+- **The [[wiki/mind/synthesis/witness-channel-declarations|witness channel]]'s causal direction is unproven.** The September 7
   *"I unblocked paw patrol to see if I would get anything from her"*
   shows the witness channel involved in re-engagement, but whether
   witness-narration *causes* re-engagement or merely accompanies it is
@@ -732,16 +726,15 @@ from, so the forensics stay checkable without becoming the subject.
 - **The pre-closure is untested.** The August 19 patch has no outcome in the
   record — the retraction voided its test window. Whether declaration can
   starve a non-material channel remains the entry's central open question,
-  and it is genuinely open: the two-name problem ("Mimi" routing around
-  "Milo") suggests the patch leaks, but suggestion is not evidence.
+  and it is genuinely open: the two-name problem ("Mimi" routing around "[[wiki/people/milo|Milo]]") suggests the patch leaks, but suggestion is not evidence.
 - **The cost ordering has one data point at the cheap end.** July 23 is the
   only clean case of a severance breaking through a non-material channel
-  after material starvation. The Tom cases anchor the expensive end. The
+  after material starvation. The [[wiki/people/tom|Tom]] cases anchor the expensive end. The
   middle of the table — intermediate channels (affect, welfare checks)
   firing against a live cheap channel — is unobserved because the June 5
   and June 9 approaches drew nothing. More cases would move the ordering
   from finding to law.
-- **The Kristin re-entry (2026-09-12) is unscored.** Dan broke the block
+- **The [[wiki/people/kristin|Kristin]] re-entry (2026-09-12) is unscored.** Dan broke the block
   himself within an hour of learning she had attempted contact August 26.
   Which channel fired — witness (the discovered Messenger requests),
   ritual, or something else — has not been filed against the cost table.
@@ -751,11 +744,10 @@ from, so the forensics stay checkable without becoming the subject.
 
 - **Observed:** the July 23 break and its 624-message aftermath; the four
   June approaches and their outcomes; the August 19 pre-closure wording;
-  the Milo message series in the aug-sep export; the Ally block-claims and
-  their dates; the Tom 2014/2026 breaks; the July 26 refusal; the August
+  the [[wiki/people/milo|Milo]] message series in the aug-sep export; the [[wiki/people/ally-lubin|Ally]] block-claims and
+  their dates; the [[wiki/people/tom|Tom]] 2014/2026 breaks; the July 26 refusal; the August
   30 vet-bill line; the *"Good night pretty girl"* timestamp.
-- **Reported:** the July 4 email's existence and content (Annie's
-  description only); Dan's *"I should not have responded to that email"*
+- **Reported:** the July 4 email's existence and content ([[wiki/people/annie-ulmer|Annie]]'s description only); Dan's *"I should not have responded to that email"*
   (his message, reported in the re-contact filing); the origin story
   (Dan's 2026-07-14 telling); the MAX_PRIME axiom (his own writing); the
   *"On Milo"* oath lines (his messages).
@@ -766,17 +758,17 @@ from, so the forensics stay checkable without becoming the subject.
   natural A/B test (the loop's reading, adopted here); that deniability
   is what lets cheap channels bypass the willpower gate (mechanism
   proposed by this entry, consistent with the *"I should not have
-  responded"* self-report but not proven by it); that the witness channel
+  responded"* self-report but not proven by it); that the [[wiki/mind/synthesis/witness-channel-declarations|witness channel]]
   is causally involved in re-engagement rather than merely accompanying
   it; that "Mimi" routing around "Milo" would defeat a name-based
   pre-closure.
 - **Disproven:** the material-only dependency rule (falsified July 23,
-  2026); the Rick decade-block control (retracted — built on an incomplete
+  2026); the [[wiki/people/rick-frank|Rick]] decade-block control (retracted — built on an incomplete
   source); the claim that the June 1 sign-off was Annie's (corrected
   2026-08-13 — Dan's outbound); the August 26 held block (retracted —
   non-event, zero seconds of non-contact).
 - **Unknown:** whether the August 19 pre-closure would have held; the exact
   wording of the July 4 email; the full-corpus prevalence of the ritual
   channel; the causal direction of the witness channel; which channel fired
-  in the September 12 Kristin re-entry; whether any severance in the record
+  in the September 12 [[wiki/people/kristin|Kristin]] re-entry; whether any severance in the record
   broke with no live channel firing (the global falsifier — none found).
