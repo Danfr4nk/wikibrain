@@ -1795,6 +1795,114 @@
    ],
    "embed": true,
    "embed_excluded": false
+  },
+  {
+   "id": "upload-054",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-03 23:41:53 local (EXIF, iPhone 6)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/c9/c918bf78736ed1b8b0d92c1fd09154d432ea3bfb01be9d76c1364485b1dd7fe9.jpg",
+   "sha256": "c918bf78736ed1b8b0d92c1fd09154d432ea3bfb01be9d76c1364485b1dd7fe9",
+   "dimensions": "828x1104",
+   "gps": "39.9003556,-79.7255333 (EXIF - LIVE FIX: GPS timestamp 04:41:50 UTC 2015-12-04 = 23:41:50 EST capture, within seconds; Uniontown PA area)",
+   "description": "Annie looking left, profile, hand at chin; Dan in dark hoodie at frame right. First of six public-debut selfies.",
+   "linked_nodes": [
+    "src:annie-first-public-2015-12-03",
+    "dat:annie-first-public-milestone-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-055",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-03 23:41:55 local (EXIF, iPhone 6)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/d1/d1a5cf37e3f45bd22469ecd02a88863ce023bee3a780e9edf65eb9abf665556a.jpg",
+   "sha256": "d1a5cf37e3f45bd22469ecd02a88863ce023bee3a780e9edf65eb9abf665556a",
+   "dimensions": "828x1104",
+   "gps": "39.9003556,-79.7255333 (EXIF - LIVE FIX: GPS timestamp matches capture; Uniontown PA area)",
+   "description": "Annie mid-laugh, motion blur, hand at her throat; string lights and lit window behind. Second public-debut frame.",
+   "linked_nodes": [
+    "src:annie-first-public-2015-12-03",
+    "dat:annie-first-public-milestone-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-056",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-03 23:42:05 local (EXIF, iPhone 6)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/6d/6d85205a619ab970a163c6069f5816936a85991bc5366d376f0b4754552cf63f.jpg",
+   "sha256": "6d85205a619ab970a163c6069f5816936a85991bc5366d376f0b4754552cf63f",
+   "dimensions": "828x1104",
+   "gps": "39.9006778,-79.7259528 (EXIF - LIVE FIX: GPS timestamp matches capture; Uniontown PA area)",
+   "description": "REPRESENTATIVE - clearest two-shot: Annie smiling directly at the camera, Dan beside her in dark hoodie, string lights and lit window behind.",
+   "linked_nodes": [
+    "src:annie-first-public-2015-12-03",
+    "dat:annie-first-public-milestone-20260912"
+   ],
+   "embed": true,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-057",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-03 23:42:13 local (EXIF, iPhone 6)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/bc/bc87a7e5ce4aa0070b207ae52e9fec29e4b71f3bb0c7c70aa4640030687cdb1e.jpg",
+   "sha256": "bc87a7e5ce4aa0070b207ae52e9fec29e4b71f3bb0c7c70aa4640030687cdb1e",
+   "dimensions": "828x1104",
+   "gps": "39.9007222,-79.7259222 (EXIF - LIVE FIX: GPS timestamp matches capture; Uniontown PA area)",
+   "description": "Annie laughing, head down, motion blur; Dan at frame right. Fourth public-debut frame.",
+   "linked_nodes": [
+    "src:annie-first-public-2015-12-03",
+    "dat:annie-first-public-milestone-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-058",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-03 23:42:32 local (EXIF, iPhone 6)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/9c/9cc236a273f20b6c218ae3effbcf1e97c30077854501f62e15c827148e7596b6.jpg",
+   "sha256": "9cc236a273f20b6c218ae3effbcf1e97c30077854501f62e15c827148e7596b6",
+   "dimensions": "828x1104",
+   "gps": "39.9007694,-79.7257306 (EXIF - LIVE FIX: GPS timestamp matches capture; Uniontown PA area)",
+   "description": "Annie kissing Dan\u2019s cheek; his hand holding hers. Fifth public-debut frame.",
+   "linked_nodes": [
+    "src:annie-first-public-2015-12-03",
+    "dat:annie-first-public-milestone-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-059",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-03 23:51:34 local (EXIF, iPhone 6)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/f4/f4b390bbd8387e31298caf4f3cb59c9424b637434cb823944f5f38cbe78dabc9.jpg",
+   "sha256": "f4b390bbd8387e31298caf4f3cb59c9424b637434cb823944f5f38cbe78dabc9",
+   "dimensions": "828x1104",
+   "gps": "39.9009944,-79.7258306 (EXIF - LIVE FIX: GPS timestamp matches capture; Uniontown PA area)",
+   "description": "Dark close two-shot, Annie grinning at camera, Dan beside her; string lights above. Sixth and last public-debut frame, ~9 min after the first.",
+   "linked_nodes": [
+    "src:annie-first-public-2015-12-03",
+    "dat:annie-first-public-milestone-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
   }
  ],
  "policy": "Originals are never committed to wikitest or RAWLOGS. This registry maps each item to its canonical location (Google Photos share URL or Drive path). Compressed derivatives for wiki entries live under media/<batch-slug>/ and are referenced from the src:/dat: nodes. Censorship rule (2026-09-12, Dan's directive): embedded derivatives showing nudity or sexual activity are pixelated/blurred before commit. The uncensored original stays at its canonical location and is never committed.",

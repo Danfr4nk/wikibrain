@@ -663,6 +663,22 @@ correction.] The "first" rests on Dan's 2026 testimony; the timestamp rests on
 EXIF (`dat:annie-first-nude-milestone-20260912`). The frame is thumbnailed
 in Sources, below.
 
+**First time in public, December 3.** Four days after the formalization, on
+Thursday, December 3, 2015, Dan and Annie appeared together in public for the
+first time: six nighttime selfies taken 23:41–23:51 EST outside a bar or
+restaurant — string lights, a lit window, a partial EXIT sign — Annie smiling
+at the camera, kissing his cheek, laughing mid-motion, Dan in a dark hoodie.
+The "first" is Dan's 2026-09-12 testimony; the timestamp is EXIF: iPhone 6,
+six frames, a live GPS fix (~39.9004, -79.7255 — Uniontown, PA area) matching
+capture to the second. The read is the hidden-to-public transition: the first
+~ten days ran on cover — Harshman alibis, "she thinks I'm just creeping you"
+(2015-11-29), the golf course at night
+([[wiki/mind/synthesis/bond-switch-2015]]). These frames are the cover coming
+off: the couple exists where it can be seen. The venue is unnamed — what's
+visible is the light and the EXIT sign, nothing more
+(`dat:annie-first-public-milestone-20260912`). The clearest frame is
+thumbnailed in Sources, below.
+
 513|## The first year (January 2016)
 514|
 515|The relationship's first full month — January 2016 — is a dense
@@ -2374,3 +2390,5 @@ week, and it produced this page.
 <a href="../../media/upload-047.jpg"><img src="../../media/upload-047.jpg" width="240" alt="Dan with fishbowl cocktail, 2015-11-30"></a> — Dan drinking a blue fishbowl cocktail with a rubber duck, bar at night, 2015-11-30 17:52 local (no camera EXIF — possible re-save).
 
 <a href="../../media/upload-048.jpg"><img src="../../media/upload-048.jpg" width="240" alt="Two fishbowl cocktails, 2015-11-30"></a> — Two blue fishbowl cocktails with rubber ducks on a branded table, 2015-11-30 17:53 local, iPhone 6. Dan attributes the bar stop to Primanti Bros, Morgantown; venue not verifiable from the frame.
+
+<a href="../../media/upload-056.jpg"><img src="../../media/upload-056.jpg" width="240" alt="Dan and Annie, first public appearance, 2015-12-03"></a> — First time in public together, 2015-12-03 23:42 local, iPhone 6: Annie smiling at the camera, Dan beside her in a dark hoodie, string lights and a lit window behind. Six frames 23:41–23:51, live GPS fix (~39.9004, -79.7255, Uniontown PA) matching capture to the second. The "first" is Dan's 2026-09-12 testimony; the timestamp is EXIF. See `dat:annie-first-public-milestone-20260912`.
