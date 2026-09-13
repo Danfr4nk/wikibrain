@@ -463,3 +463,10 @@ Identity claims made inside the probe window (08:56–11:12Z), including the
 "twins" label on the two-brunettes-kissing clip and the "Intel" identity
 attempt, remain unverified user testimony, not facts.
 [dat:1491](../data/1491-archive-identity-forensics-del-danny-bryan-correction.md)
+
+## 2026-09-13 — "Why doesn't Annie ever feel bad about any of it" — the question asked live
+
+At 13:36Z Dan asked, plainly: "So then why doesn't Annie ever feel bad about any of it." The answer given back was his own architecture, applied live: on the explicit-verbal-commitment system he runs, he scans for explicit stated rules and discards behavioral repair as noise — while her repair language, if it exists at all, would have to be presence rather than prose. Surfaced as the stated-rule evidence: her July 23–25 texts ("I put you through hell," "You were always true to me") and her June 5 apology — explicit, verbal, already on record — against her median 18 characters, which is why it never lands as enough for him. His reply: "that makes sense now."
+
+The presence-not-prose reading of her repair language is an interpretation, not an established fact — filed here as such, not as a claim about what she feels. What is factual: he is still, after the terminal ending, asking where her remorse lives.
+[src:sammy-chat-transcript-20260913-1540](../sources/sammy-chat-transcript-20260913-1540.md)
