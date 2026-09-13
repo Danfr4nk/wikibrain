@@ -179,10 +179,10 @@ August 30, 2026, Annie texted Dan "Zac Shumar's dad died."
 
 Screenshots received 2026-09-12 (direct send from Dan); originals local-only.
 
-<a href="../media/upload-072.jpg"><img src="../media/upload-072.jpg" width="240" alt="Dec 6 2015, 2:57 PM: Shumar sends an Instagram kissing-couple screenshot captioned 'Come on man'"></a>
-<a href="../media/upload-073.jpg"><img src="../media/upload-073.jpg" width="240" alt="Dec 6 2015, 3:08 PM: 'I'm just mad that it's you. After everything I told you'"></a>
-<a href="../media/upload-074.jpg"><img src="../media/upload-074.jpg" width="240" alt="Dec 6 2015, 3:11 PM: 'you bail on lex and jump on Annie'"></a>
-<a href="../media/upload-075.jpg"><img src="../media/upload-075.jpg" width="240" alt="Dec 6 2015, 3:22 PM: 'I poured my heart out to you about her then you go and fuck her the next weekend'"></a>
-<a href="../media/upload-076.jpg"><img src="../media/upload-076.jpg" width="240" alt="Dec 6 2015, 3:22 PM: 'So you knew that you were trying to fuck her and just didn't mention that?'"></a>
-<a href="../media/upload-077.jpg"><img src="../media/upload-077.jpg" width="240" alt="Dec 6 2015, 3:27 PM: 'I went to church with her and her family today'"></a>
-<a href="../media/upload-078.jpg"><img src="../media/upload-078.jpg" width="240" alt="Dec 6 2015, 3:41 PM: 'getting with the girl I wanted'"></a>
+[![Dec 6 2015, 2:57 PM: Shumar sends an Instagram kissing-couple screenshot captioned 'Come on man'](../media/upload-072.jpg)](../media/upload-072.jpg)
+[![Dec 6 2015, 3:08 PM: 'I'm just mad that it's you. After everything I told you'](../media/upload-073.jpg)](../media/upload-073.jpg)
+[![Dec 6 2015, 3:11 PM: 'you bail on lex and jump on Annie'](../media/upload-074.jpg)](../media/upload-074.jpg)
+[![Dec 6 2015, 3:22 PM: 'I poured my heart out to you about her then you go and fuck her the next weekend'](../media/upload-075.jpg)](../media/upload-075.jpg)
+[![Dec 6 2015, 3:22 PM: 'So you knew that you were trying to fuck her and just didn't mention that?'](../media/upload-076.jpg)](../media/upload-076.jpg)
+[![Dec 6 2015, 3:27 PM: 'I went to church with her and her family today'](../media/upload-077.jpg)](../media/upload-077.jpg)
+[![Dec 6 2015, 3:41 PM: 'getting with the girl I wanted'](../media/upload-078.jpg)](../media/upload-078.jpg)
