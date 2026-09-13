@@ -1,6 +1,7 @@
 ---
 domain: mind
 page_type: synthesis
+title: "The 2020 Left Turn"
 status: stable
 knowledge: earned
 date_created: 2026-07-16
@@ -60,7 +61,7 @@ connections:
     claim: "The material grievance under the ideology is on the record six months before this page's 2020-08-22 conversion date and is never quoted here: 'imagine being able to just go to the doctor or dentist when you need' and 'the doctor thing is a really big thing for me...there's no reason that 50,000 people die a year because they don't have insurance' (2020-02-07)."
   - page: wiki/self/twitter/2009
     type: evidenced-by
-    claim: 'The corpus\'s earliest dated political self-description is a departure, not an arrival: "i no longer consider myself a republican" (2009-11-28), triggered by a link to people behaving badly and naming no replacement. Eleven years before the arrival this page dates, and the same mechanism as the 2022 O&A account — leaving a tribe rather than joining one.'
+    claim: "The corpus's earliest dated political self-description is a departure, not an arrival: \"i no longer consider myself a republican\" (2009-11-28), triggered by a link to people behaving badly and naming no replacement. Eleven years before the arrival this page dates, and the same mechanism as the 2022 O&A account — leaving a tribe rather than joining one."
   - page: wiki/self/twitter/2016
     type: evidenced-by
     claim: "2016 is a step backwards from the turn, not toward it: no post on or after the election at all, DNC comments aimed at stagecraft rather than candidates, and 'I don't know much about politics but Obama is NOT a fascist' (8 December) — a disclaimer of expertise from a man who argued eight positions sharply in 2011."
@@ -76,6 +77,9 @@ connections:
   - page: wiki/self/twitter/2020
     type: evidenced-by
     claim: "The public declaration is 2020-10-03 and it is an ultimatum — 'if 2020 hasn't made you a marxist ... you're either frighteningly uninformed or just a fucking ghoul' — but the analysis precedes the label: 15 February 2020 runs the Democratic primary as a class conflict, before any lockdown."
+  - target: "[[wiki/timeline/master-timeline]]"
+    type: references
+    claim: "References the timeline's 2009-2020 Twitter-year entries as the dated evidence base for the four-stage sequence (read of all nineteen year pages, 2026-09-03)."
   - page: wiki/self/twitter/2023
     type: evidenced-by
     claim: "The class content absent from 2011-2019 arrives complete on 2023-03-03 in its own vocabulary — bourgeois, class status, systemic advantages, material well-being — with the argument run psychologically: a class position explained by the fear of losing it rather than by its economic interest."
@@ -216,7 +220,7 @@ Three features of that sentence matter more than its date. It is a
 **departure** — it says what he has stopped being and names nothing he has
 become. It is triggered by **people**, by a link to somebody behaving badly,
 rather than by a policy or an argument. And it is aimed at the tribe he was
-raised inside: `CONTEXT_CORE_EXPANDED` records the Uniontown household as
+raised inside: [[wiki/self/context-core|CONTEXT_CORE_EXPANDED]] records the Uniontown household as
 *"Republican household + talk-radio diet (Limbaugh/Beck/Hannity on the
 auto-parts delivery job)"*.
 
@@ -231,7 +235,7 @@ of it: the departure had already happened, twice, and 2020 is when something
 finally occupied the vacancy.
 
 **The counter-evidence, and it is real.** One tweet is one tweet. Nothing else
-on `wiki/self/twitter/2009` is political, the page's first nine months are a
+on [[wiki/self/twitter/2009|`wiki/self/twitter/2009`]] is political, the page's first nine months are a
 fetch artefact rather than a sample (so an absence there proves nothing), and
 eleven years of no recorded political identity separate the two events. A
 disavowal at twenty-one is a common thing for a twenty-one-year-old to say and
@@ -278,7 +282,7 @@ export is now wanted.
 
 ## 2011: eleven years of anti-authority with no economics in it
 
-The section above dates the exit to 2009. `wiki/self/twitter/2011` fills in
+The section above dates the exit to 2009. [[wiki/self/twitter/2011|`wiki/self/twitter/2011`]] fills in
 what stood in the gap, and it is not a slow drift leftward.
 
 2011's eight political posts are Glenn Beck, the Iraq war budget against
@@ -309,7 +313,7 @@ contemporaneous record shows he was not among the repulsed at the time: on
 **4 July 2014**, one day after Cumia was fired over racist posts, Dan tweeted
 at him *"nothing but love and respect ant. Thanks for not selling your soul
 through this whole mess."* 2014 is spreadsheet-complete and contains nothing to
-the contrary (`wiki/self/twitter/2014`; ledger record **t015**).
+the contrary ([[wiki/self/twitter/2014|`wiki/self/twitter/2014`]]; ledger record **t015**).
 
 The cause survives; the timing does not. **And the correction is in this
 page's favour.** The six-year gap between the split and the August 2020
@@ -336,7 +340,7 @@ which no keyword pattern can see.
 | **Democratic socialist** | 2020-08-22 → | This page. |
 
 **Where the fourth stage actually begins.** The stage boundary is not August
-2020. `wiki/self/twitter/2020` shows the *analysis* arriving first, in the
+2020. [[wiki/self/twitter/2020|`wiki/self/twitter/2020`]] shows the *analysis* arriving first, in the
 Democratic primary: on **15 February 2020**, four months after the Booker joke
 and a month before any lockdown, he runs four posts reading Bloomberg's
 candidacy as a party-splitting instrument bought with money, cites the stop-and-
@@ -437,12 +441,6 @@ emotionally clinched by turning the new lens on his own family's
 union-busting money. It belongs in the timeline as an event, not just as
 a static trait.
 
-**Gaps:** The exact reading dates for the Manifesto / Das Kapital /
-Conquest of Bread are only "since I've been stuck inside" (mid-2020) — no
-precise dates in the corpus. Pre-2016 political self-identification is
-thin in the sampled dump; whether he was liberal-by-default or apolitical
-before Bernie is not established here.
-
 ## The material stake, six months early
 
 The pipeline this page documents — Bernie, then Chapo and Hasan under lockdown,
@@ -465,4 +463,10 @@ conditional and the recorded barrier is a copay
 ([[wiki/health/the-configured-body]]). The turn's media pipeline is not
 displaced by this; what it gains is a body under it.
 
+## Gaps
 
+The exact reading dates for the Manifesto / Das Kapital /
+Conquest of Bread are only "since I've been stuck inside" (mid-2020) — no
+precise dates in the corpus. Pre-2016 political self-identification is
+thin in the sampled dump; whether he was liberal-by-default or apolitical
+before Bernie is not established here.
