@@ -48,41 +48,61 @@ what downstream reasoning enumerates, these are invisible to it.
 
 ## 3. Gaps
 
-### G1 — The RAWLOGS mirror is broken: 9 source trees landed under `raw/sammy/`
+### G1 — The two repos disagree on where an ingest batch lives
 
-**Severity: high. This is the one that silently corrupts retrieval.**
+**Severity: high, but it is a convention conflict, not a bug.**
 
-The nine 2026-09-13 commits titled `Mirror raw/<slug> from wikibrain (gap
-backfill 2026-09-13)` did not write to `raw/<slug>/`. Every one of them wrote to
-`raw/sammy/<slug>/`. Verified by path, not by subject:
+> **Corrected 2026-09-13, after publication.** The first version of this section
+> said the 2026-09-13 mirror commits "wrote to the wrong path." That was half
+> right and the half it got wrong changes the fix, so it is restated here rather
+> than patched.
 
-```
-$ git show --name-only --format='' 6abe820 | head -2
-raw/sammy/old-wiki-export-2026-09-04/EXTRACT.md
-raw/sammy/old-wiki-export-2026-09-04/manifest.json
-```
+Twenty-four directories sit under `RAWLOGS/raw/sammy/` that live at
+`wikibrain/raw/<slug>/`. Classifying each by the commit that created it splits
+them cleanly:
 
-Affected: `self`, `old-wiki-export-2026-09-04`, `myactivity-2026-09-12`,
-`morgantown-call-validation-report`,
-`morgantown-call-independent-stt-transcript-2026-09-09`, `messenger-2026-09-12`,
-`legion-of-skanks-…`, `franks-auto-supermarket-…`,
-`e0914806-…-morgantown-st` — and by the same pattern `307-e-76th-st-…`,
-`fran-coldren-…`, `facebook-threads`, `correction-20260912-virginia-gps`,
-`messenger-drive-2026-09-12`, `aug-sep-2026-imessage-export`.
+| Origin | Count | Examples |
+| :--- | ---: | :--- |
+| `Mirror raw/<slug> from wikibrain (gap backfill 2026-09-13)` | **13** | `self`, `old-wiki-export-2026-09-04`, `e0914806-…-morgantown-st`, `myactivity-2026-09-12`, `facebook-threads` |
+| Native RAWLOGS batch commits, **predating the mirror** | **11** | `messenger-drive-2026-09-12` (0fe8cdd), `aug-sep-2026-imessage-export` (24ab87d), `correction-20260912-virginia-gps` (8e805c6), the 9 `photo-ingest-2026091*` dirs |
 
-Consequences:
+So `raw/sammy/<slug>/` is RAWLOGS' **own prevailing convention** for ingest
+batches, established before the mirror ran. The mirror followed the local
+convention rather than reproducing wikibrain's layout. That is a defensible
+thing for a mirror to have done; it is just not what
+`wikibrain/raw/SOURCES.md` claims the mirror policy is ("preserving RAWLOGS'
+subdirectory layout exactly", written of the reverse direction).
 
-1. `RAWLOGS/raw/` top level has **13** entries against wikibrain's **36**. Any
-   tool that enumerates `raw/*/` on RAWLOGS sees less than half the archive.
-2. `raw/sammy/` is the Sammy chat-batch namespace, keyed by `YYYYMMDD-HHMM`.
-   It now also holds a 7.5 MB wiki export, a 13 MB audio file and a photo
-   corpus. A batch-walker that globs `raw/sammy/*/` will trip on them.
-3. `raw/sammy` reads 104 MB in RAWLOGS against 61 MB in wikibrain — the delta
-   is misfiled source material, not additional chat.
+`photo-ingest-20260912-annie-01` is the tell: it sits under `raw/sammy/` in
+**both** repos. One dir got the sammy path on both sides and its nine siblings
+did not.
 
-The commit subjects say the backfill succeeded, so nothing flags this.
+The operational consequences stand regardless of which convention is right:
+
+1. `RAWLOGS/raw/` top level enumerates **13** entries against wikibrain's **36**.
+   A tool that walks `raw/*/` on RAWLOGS sees a third of the archive.
+2. `raw/sammy/` otherwise keys on `YYYYMMDD-HHMM`. It now also holds a 7.5 MB
+   wiki export, a 13 MB audio file and a photo corpus, so a batch-walker
+   globbing `raw/sammy/*/` trips on them.
+3. `raw/sammy` reads 104 MB in RAWLOGS against 61 MB in wikibrain. The delta is
+   source material, not chat.
+4. `aug-sep-2026-imessage-export` now exists **twice** in RAWLOGS —
+   `raw/sammy/aug-sep-2026-imessage-export/` (native, 24ab87d) and
+   `raw/sammy/self/message-csv/aug-sep-2026-imessage-export/` (mirrored,
+   5d0673f). Byte-identical, md5 `bb0f897c7fb3e8f338e913faa9dec3ac`.
+
+**This is a decision, not a repair, and it is deliberately not actioned here.**
+Either RAWLOGS adopts `raw/<slug>/` (23 moves, and RAWLOGS' own ingest tooling
+has to change with it) or wikibrain's mirror policy is rewritten to say the two
+layouts differ on purpose. Moving trees on the strength of an audit's reading of
+a convention is how an archive gets scrambled.
 
 ### G2 — Four files were never ingested; ~920 MB of source is outside the archive
+
+> **Partially closed 2026-09-13.** The three "omitted from pushed trees" files
+> below were recovered and are now in `wikibrain/raw/`. See *Recovered* at the
+> end of this section. The two `MyActivity.html` files are **not** recoverable
+> from this session and the reason turns out to be the same one blocking G9.
 
 Harvested from the ingest manifests' own `skips` arrays:
 
@@ -100,10 +120,44 @@ files with identical bytes.
 
 The two `MyActivity.html` files are the material loss. Full Google Search and
 Chrome history is the densest behavioural-timeline channel available, and both
-are currently outside every repository. The blocker is transport (GitHub API
-blob limits), not the data — a native `git push` from a machine with direct
-GitHub access carries them. **These are recoverable, and nobody has recovered
-them.**
+are currently outside every repository.
+
+**Recovered (2026-09-13).** The three sub-38 MB files were never a data problem
+— they hit the GitHub **Git Data API's** blob ceiling, which is not the same
+ceiling native `git push` has. Pushed natively from this session, byte-exact
+from RAWLOGS, hashes re-verified after the copy:
+
+| File | Bytes | sha256 |
+| :--- | ---: | :--- |
+| `Screen Recording 2025-11-26 at 9.-6250b4544e5b66cd.mov` | 40,619,374 | `9af399d9a4dadbb1…` |
+| `bassdown final bounce-f9869e242729f118` | 38,432,744 | `37c6a7e27830a872…` |
+| `bassdown final bounce-697663cfa661ba2f` | 38,432,744 | `37c6a7e27830a872…` |
+
+117 MB pushed in 9 seconds. The two bassdown files are byte-identical to each
+other; both kept under their distinct names per the keep-every-form policy.
+
+**Still out, and the blocker is not what the manifests say.** The two
+`MyActivity.html` files exist only inside
+`takeout-20260103T040931Z-3-002.zip` in Drive (`1iXw3onpgXUtN9huey54qPV7ctnc0ffuF`),
+which is 17.8 MB — comfortably under every transport limit involved. It was
+never the size. Fetching it anonymously returns a **sign-in page**:
+
+```
+$ curl -sSL "https://drive.google.com/uc?export=download&id=1iXw3onp…"
+http=200 size=914147 type=text/html
+<!doctype html>…<base href="https://accounts.google.com/v3/signin/">
+```
+
+So the zip is private, exactly like the Facebook zip and `dox-scan/`. **G2 and
+G9 are the same blocker**: a Drive sharing change on the containing folder
+opens both, and after that the 17.8 MB zip is a routine pull. Only
+`Search/MyActivity.html` (103.8 MB) then remains hard — past GitHub's 100 MB
+per-file cap for native push too, so it needs a split or content-addressed
+storage, which is the decision `raw/README.md` already flags.
+
+The Drive connector is not a route for any of this: it returns file bodies as
+base64 into the conversation, so a 17.8 MB binary is unusable regardless of
+permissions.
 
 ### G3 — The iMessage corpus has three divergent forms and no stated authority
 
@@ -195,20 +249,52 @@ overstates coverage:
 | `twitter/` | `tweets_sample_2019-2026.txt` — a **sample**, superseded by `raw/twitter/` |
 | `takeout-index/` | An index HTML, not the archives it indexes |
 | `chatgpt-export/` | 1 file, 2022–2025 — overlaps `raw/chatgpt/` at unknown margin |
-| `misc-zip/` | `Archive 2.zip`, 14 MB, **unexpanded and uncharacterised** |
+| `misc-zip/` | `Archive 2.zip`, 13.7 MB — **opened 2026-09-13; see below. Not thin at all.** |
 
-`misc-zip/Archive 2.zip` is the only fully unknown object in the archive.
+**`Archive 2.zip` was the only unknown object in the archive, and it was the
+one that mattered.** Opened 2026-09-13, it holds seven files:
+
+```
+ 28905037  2025-08-11 05:01   all_imessages_complete_dump.txt
+  4686481  2025-08-11 05:02   all_imessages_part_aa.txt
+  … through part_af
+```
+
+`all_imessages_complete_dump.txt` is, byte-for-byte by name and size, the
+**28.9 MB file G9 records as BLOCKED behind a Drive sharing change on
+`dox-scan/`** — the one `raw/SOURCES.md` calls the decisive test for
+`pat:reasoning-sound-provenance-unreliable`'s main falsifier. It has been
+tracked in this repository since the 2026-09-11 Drive sweep, compressed, while
+being recorded as unreachable.
+
+Extracted and verified: 217,573 dated records, 2011-03-18 → 2025-08-11,
+sha256 `0512212efbb86d41…`, clean of `xai-*` and `AKIA*` credentials.
+
+Filed as `src:imessage-complete-dump-2025-08-11`. The falsifier test it gates
+was run; the result is [`dat:1502`](../kb/data/1502-corpus-coverage-hole-2025.md)
+— all four quotes present, and the authoritative corpus missing 88,311 messages
+the dump holds over the window both cover. **G9's decisive test is no longer
+blocked on anything.**
 
 ### G9 — Documented-but-unreachable material
 
 `raw/SOURCES.md` records Drive folders still not pulled. Still true:
 
-- `dox-scan/` / `dox-md/` — **blocked, needs one sharing change.**
-  `all_imessages_complete_dump.txt` is 28.9 MB: past the connector's 10 MB
-  limit, and anonymous HTTPS returns a sign-in page. This is the stated
-  decisive test for `pat:reasoning-sound-provenance-unreliable` — whether four
-  unverifiable quotes live in this dump. One permission change settles it and
-  it has not been made.
+- ~~`dox-scan/` / `dox-md/` — **blocked, needs one sharing change.**~~
+  **Closed 2026-09-13 — and it was never actually blocked.** The Drive copy of
+  `all_imessages_complete_dump.txt` is still behind a sign-in page, but the
+  same 28.9 MB file was already tracked in this repository inside
+  `raw/drive-sweep/20260911/misc-zip/Archive 2.zip` (see G8). The stated
+  decisive test for `pat:reasoning-sound-provenance-unreliable` ran against it:
+  **all four quotes are present**, and the corpus is missing 88,311 messages
+  the dump holds. Filed as `src:imessage-complete-dump-2025-08-11` and
+  [`dat:1502`](../kb/data/1502-corpus-coverage-hole-2025.md).
+
+  The lesson generalises past this one file. The reachability map in
+  `SOURCES.md` was written per-source, from where each artifact was *first*
+  found, and never re-checked against the tree after a bulk sweep landed.
+  A source recorded as unreachable in Drive is not evidence it is unreachable
+  — **grep the archive before believing the map.**
 - `gemini-activity/`, `youtube-watch-history/`, `concerts/`, `captures/`,
   `gmail-captures/` — recorded as unassessed. Still unassessed.
 - The 82 MB Facebook zip remains private and past the connector's export limit.
@@ -217,15 +303,19 @@ overstates coverage:
 
 ## 4. Ranked
 
+Reordered 2026-09-13 after the recovery pass. Everything above the rule is
+blocked on an action only Dan can take; everything below it is work.
+
 | # | Gap | Cost to close | Why it ranks here |
 | :-- | :--- | :--- | :--- |
-| 1 | **G1** RAWLOGS mirror mis-pathed | One corrective commit | Silent. Every enumeration of the backup repo is wrong right now, and the commit log says otherwise |
-| 2 | **G2** Search + Chrome history never ingested | A native `git push` | 150 MB of the densest timeline channel, blocked on transport alone |
-| 3 | **G4** Location dead since 2024-05 | One Timeline export | Removes independent corroboration from the entire period the recent work is about |
-| 4 | **G9** `dox-scan/` sharing | One permission change | Named as the decisive falsifier test; costs nothing |
-| 5 | **G3** xAI keys unrotated | Rotate | Live credentials in a private repo, flagged 2026-09-12 |
-| 6 | **G5/G6** Stale exports, wrong stated ranges | Re-export IG/ChatGPT; correct the inventory | Causes confidently-scoped analysis over data that isn't there — or skips data that is |
-| 7 | **G8** `Archive 2.zip` uncharacterised | `unzip -l` | Only unknown object in the archive |
+| 1 | **G2** Takeout zip is private | **One sharing change** | Opens the 17.8 MB zip holding the un-ingested Search + Chrome history. *G9's half of this is already closed — the dump was in the repo; see G8.* |
+| 2 | **G4** Location dead since 2024-05 | One Timeline export | Removes independent corroboration from the entire period the recent work is about |
+| 3 | **G3** xAI keys unrotated | Rotate | Live credentials, flagged 2026-09-12, still live |
+| 4 | **G1** RAWLOGS/wikibrain layout conflict | **A decision, then 23 moves + tooling** | Every enumeration of the backup repo is a third of the archive. Not actionable until the convention is settled — see G1 |
+| — | — | — | — |
+| 5 | **G6/G5** Wrong stated ranges, stale exports | Correct `SOURCES.md`; re-export IG/ChatGPT | Causes confidently-scoped analysis over data that isn't there — or skips data that is. *Metadata half done 2026-09-13* |
+| ✓ | **G8** `Archive 2.zip` uncharacterised | *Done 2026-09-13* | Held the 28.9 MB dump G9 called unreachable. See G8 and `dat:1502` |
+| ✓ | **G2** (partial) 3 large files | *Done 2026-09-13* | 117 MB restored by native push; API ceiling ≠ git ceiling |
 
 ## 5. What this audit did not verify
 

@@ -6,6 +6,73 @@ recorded because working it out took a dozen calls and should not be repeated.
 Reachability is the operative column: everything below exists, and the routes
 differ sharply in cost.
 
+> **Audited 2026-09-13.** [`INVENTORY-GAPS-2026-09-13.md`](INVENTORY-GAPS-2026-09-13.md)
+> reconciles this map against the measured state of both repositories and
+> carries the nine open gaps. Three corrections it forced are folded in below.
+> The audit is the live document; this file is the map.
+
+## The whole archive, measured
+
+Counted from the working tree 2026-09-13. `raw/` holds **36** source
+directories; the eleven below are the ones the carried-over inventory named,
+and §"Also here" lists what it omitted.
+
+| Source | On disk | Span / size |
+| :--- | :--- | :--- |
+| `imessage/` | 5 files, 46 MB | 192,140 msgs, 2011-03-19 → 2026-09-07 |
+| `facebook/` | 4,404 files, 234 MB | exports `-a` (2,927) and `-b` (1,475), both 2026-09-08, plus `ross-thompson/` |
+| `instagram/export-20250824/` | 1,215 files, 626 MB | 9 sections, pulled 2025-08-24 |
+| `chatgpt/` | 754 files, 488 MB | `dfrank88` 288 MB + `iHateDanFRANK` 201 MB, both 2025-08-05 |
+| `takeout/` | 588 files, 856 MB | 10 archives, 2024-05-14 → 2026-07-22 |
+| `drive-sweep/20260911/` | 220 files, 319 MB | 15 subfolders |
+| `location/` | 4 files, 31 MB | 121,733 records, 2014-04-02 → **2024-05-14** |
+| `wiki/` + `old-wiki-export-2026-09-04/` | 1,499 files, 34 MB | 497 pages, body-sha256 indexed |
+| `twitter/` | 3 files, 1.3 MB | **2,741 tweets, 2008-09-24 → 2026-09-01** |
+| `googlechat/` | 9 files, 852 KB | 7 distinct; 2 byte-identical dup pairs |
+| `gmail/` | 1 file, 20 KB | Creative License / McKiernan thread, 2026-08-10 |
+
+**Three corrections to what this file used to say:**
+
+1. **Twitter is not "Aug 2013 → Apr 2026."** Parsed from `archive.jsonl`, the
+   span is **2008-09-24 → 2026-09-01**. Nearly five years of early material was
+   present and unaccounted for. `reposts.jsonl` is **5 records** — not a second
+   corpus, and not comparable to the 2,741 tweets.
+2. **The ingested Facebook source is `export-20260908-a/b`**, not
+   `src:facebook-export-2026-06-23` as referenced further down this file. The
+   June generation is superseded.
+3. **Location history stops at 2024-05-14.** This file nominates location as the
+   independent-corroboration channel; it does not cover 2024-2026, which is the
+   period the Morgantown call, the Aug-2026 block retraction and the Creative
+   License dispute all sit in.
+
+### Export staleness, as of 2026-09-13
+
+Uneven enough that "checked every channel" is usually false:
+
+| Channel | Newest | Age |
+| :--- | :--- | ---: |
+| Facebook | 2026-09-08 | 5 days |
+| Takeout | 2026-07-22 | 2 months |
+| Instagram | 2025-08-24 | **13 months** |
+| ChatGPT | 2025-08-05 | **13 months** |
+| Location | 2024-05-14 *(data)* | **28 months** |
+
+### Also here, and previously unlisted
+
+Eight source families are in `raw/` and were absent from the inventory. Anything
+that enumerates sources from a list rather than from the tree misses them:
+
+| Source | Size | What it is |
+| :--- | :--- | :--- |
+| `sammy/` | 260 files, 61 MB | 25 chat-scrape batches, 2026-09-11 → 09-13, + a location-history batch |
+| `messenger-drive-2026-09-12/` | 6.0 MB | 27,573 FB/IG/TikTok DM records, 331 threads, 2007–2026 — a **distinct channel** from the Facebook export |
+| `takeout/**/YouTube` | *(in 856 MB)* | Watch + search history, 39 playlists, comments, subscriptions, 2 uploads |
+| `e0914806-…-morgantown-st/` | 13 MB | 2026-08-16 call audio, 15:27 — with `morgantown-call-independent-stt-transcript-2026-09-09/` and `morgantown-call-validation-report/` as separate sources |
+| 10 × `photo-ingest-2026091*/` | ~100 KB | Annie ×6, Rick, Zac, Virginia grow, 2037 batch |
+| 4 × photo/document sets | 3.6 MB | 307 E 76th lease signing (2019-02-25), Fran Coldren + Diane letters (2015/2017), Frank's Auto Supermarket, Legion of Skanks tapings |
+| `myactivity-2026-09-12/` | 10 MB | 5 gzipped My Activity dumps, separate from `takeout/` |
+| `self/`, `facebook-threads/`, `the-wall-2025-09-03/`, `correction-20260912-virginia-gps/` | ~1.7 MB | Aug–Sep 2026 iMessage slice, FB thread index, misc |
+
 ## In the repository now
 
 | Source | State |
@@ -27,8 +94,8 @@ The richest is `raw/self/` (`16gzTW1PxZvwQMleiZ8iXKxh5rLeSDNM-`):
 
 | Folder | What it is | Why it matters |
 | :--- | :--- | :--- |
-| `facebook/` | **NOW PUBLIC** — the unzipped tree was shared 2026-09-09 | Anonymous HTTPS works per file: `docs.google.com/document/d/<id>/export?format=txt`. Ingested as `src:facebook-export-2026-06-23`. First retrieval closed an open contradiction (`dat:0031`) |
-| `dox-scan/`, `dox-md/` | **BLOCKED — needs sharing.** `all_imessages_complete_dump.txt` is 28.9 MB: past the connector's 10 MB limit, and anonymous HTTPS returns a sign-in page | This is the **decisive test** for `pat:reasoning-sound-provenance-unreliable`'s main falsifier. If the four unverifiable quotes are in this dump and not in the authoritative export, the finding is about coverage rather than provenance — a much less alarming conclusion that changes what to do next. One sharing change on this folder settles it |
+| `facebook/` | **NOW PUBLIC** — the unzipped tree was shared 2026-09-09 | Anonymous HTTPS works per file: `docs.google.com/document/d/<id>/export?format=txt`. Ingested as `src:facebook-export-2026-06-23` — **superseded**; `raw/facebook/` now holds the 2026-09-08 generation (`export-20260908-a/b`). First retrieval closed an open contradiction (`dat:0031`) |
+| `dox-scan/`, `dox-md/` | **BLOCKED — needs sharing.** `all_imessages_complete_dump.txt` is 28.9 MB: past the connector's 10 MB limit, and anonymous HTTPS returns a sign-in page. **Same blocker as `takeout-20260103T040931Z-3-002.zip`** (`1iXw3onpgXUtN9huey54qPV7ctnc0ffuF`, 17.8 MB, holds the un-ingested Search + Chrome `MyActivity.html`) — re-verified 2026-09-13, anonymous fetch returns `accounts.google.com/v3/signin`. One sharing change opens both | This is the **decisive test** for `pat:reasoning-sound-provenance-unreliable`'s main falsifier. If the four unverifiable quotes are in this dump and not in the authoritative export, the finding is about coverage rather than provenance — a much less alarming conclusion that changes what to do next. One sharing change on this folder settles it |
 | `twitter/` | Archive | Already load-bearing: the prior wiki's nicotine chronology and the Suboxone day-zero correction both rest on it |
 | `location/` | Location history | The independent-corroboration channel `ROADMAP.md` §4 wants for the 2021–2022 corpus gap |
 | `message-csv/`, `message-exports/`, `imessage/` | Earlier message extracts | Shelved by `CORPUS_POLICY.md`; useful only as evidence of what was believed |
@@ -133,10 +200,11 @@ were handled specially (byte-originals remain in private RAWLOGS):
   Recombining parsed rows reproduces all 192,140 records exactly (verified
   2026-09-13). Public copy carries the xAI-key redaction; RAWLOGS keeps the
   byte-original.
-- `raw/takeout/.../Gemini Apps/Screen Recording 2025-11-26 at 9.-6250b4544e5b66cd.mov`
+- ~~`raw/takeout/.../Gemini Apps/Screen Recording 2025-11-26 at 9.-6250b4544e5b66cd.mov`
   (40.6 MB), `.../bassdown final bounce-f9869e242729f118` and
-  `.../bassdown final bounce-697663cfa661ba2f` (38.4 MB each, same bytes) —
-  trees referencing ~38 MB+ blobs time out on GitHub's side. Omitted from the
-  pushed trees; a native `git push` from a machine with direct GitHub access
-  would carry them. A tree with a 36.4 MB blob succeeded, so the practical
-  ceiling sits between 36 and 38 MB.
+  `.../bassdown final bounce-697663cfa661ba2f` (38.4 MB each, same bytes)~~ —
+  **recovered 2026-09-13.** Trees referencing ~38 MB+ blobs time out on the
+  **Git Data API**; native `git push` has no such ceiling and carried all three
+  (117 MB, 9 seconds), byte-exact from RAWLOGS with hashes re-verified after
+  the copy. The 36–38 MB "practical ceiling" is an API limit only — do not
+  treat it as a repository limit. GitHub's actual per-file hard cap is 100 MB.
