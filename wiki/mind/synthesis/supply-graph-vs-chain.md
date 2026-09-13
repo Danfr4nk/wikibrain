@@ -1,4 +1,5 @@
 ---
+title: "Supply Graph, Not Supply Chain"
 domain: mind
 page_type: synthesis
 status: active
@@ -52,6 +53,9 @@ connections:
   - page: wiki/timeline/events/july-august-2026-reentanglement
     type: evidenced-by
     claim: "Bop — arriving daily at noon, by volume the corpus's most active supply contact — is the post-collapse replacement node. This entry reads him as the graph rebuilding with higher availability than the node the two-layer cut destroyed."
+  - { target: "[[wiki/people/tom-maison-supply-record]]", type: corroborates, claim: "The Tom supply ledger — announcement pattern, loss-absorption episode, 2014 precedent, May 2026 sequence — is this page's illicit-layer evidence base." }
+  - { target: "[[wiki/health/suboxone-dose-curve]]", type: contextualizes, claim: "The one-point-and-silence dose inventory behind this page's demand side — the fixed-rate intake the graph's edges exist to carry." }
+  - { target: "[[wiki/health/maintenance-vs-verdict]]", type: references, claim: "The rule-generalization synthesis whose 'May 2026 demonstration' covers the same failure from the chemical-register side." }
 ---
 
 # Supply Graph, Not Supply Chain
@@ -74,7 +78,7 @@ The chain model's claims, fairly stated **[ATTESTED, wiki/mind/synthesis/supply-
 
 Procurement is one permanent institution since January 2011, not scattered dealer contacts — a continuously-operating logistics architecture with succession, redundancy, and failure modes.
 
-Redundancy decayed monotonically: the 2018 deep cycle ran parallel dealers ([[wiki/people/johnny-dealer|Johnny]], a second handle, [[wiki/people/teddy|Teddy]]); NYC ran on [[wiki/people/menore|Menore]]'s 99.3% availability; by 2025 the whole load sat on Tom.
+Redundancy decayed monotonically: the [[wiki/timeline/periods/2018-deep-cycle|2018 deep cycle]] ran parallel dealers ([[wiki/people/johnny-dealer|Johnny]], a second handle, [[wiki/people/teddy|Teddy]]); NYC ran on [[wiki/people/menore|Menore]]'s 99.3% availability; by 2025 the whole load sat on Tom.
 
 The reliability inversion: distance disciplines, intimacy licenses failure. Tom is the least reliable node in the record; the professional stranger is the most reliable.
 
@@ -170,7 +174,7 @@ The friendship-embedded supplier fails the way friendships fail — by indiffere
 
 ### The illicit layer's lost depth: the 2018 parallel nodes
 
-The terminal-era illicit layer — Tom alone — is not the layer's historical shape. The 2018 deep cycle ran genuine parallel depth **[ATTESTED, wiki/mind/synthesis/supply-network]**:
+The terminal-era illicit layer — Tom alone — is not the layer's historical shape. The [[wiki/timeline/periods/2018-deep-cycle|2018 deep cycle]] ran genuine parallel depth **[ATTESTED, wiki/mind/synthesis/supply-network]**:
 
 **[[wiki/people/johnny-dealer|Johnny]]** (2018–2019): primary deep-cycle dealer, strips ($15/8mg, $20/12mg), "b's", fronts. ~3,462 messages. Produced supply panics when he vacationed or his phone died — *"I have no other person I can get z from. Johnny leaving for the beach"* (Aug 2019) — but the panics stayed panics because the parallel nodes existed.
 
@@ -237,13 +241,13 @@ The graph, stated as edges (direction: toward Dan):
 
 *Second dealer → Dan* (2018): parallel node, identity unresolved.
 
-*Teddy → Dan* (2018–20): strips, pills, credit. Fragile but present.
+*[[wiki/people/teddy|Teddy]] → Dan* (2018–20): strips, pills, credit. Fragile but present.
 
-*Zaco → Dan* (2018): strip secondary, inbound-marketing.
+*[[wiki/people/zaco|Zaco]] → Dan* (2018): strip secondary, inbound-marketing.
 
-*Menore → Dan* (NYC, 2013–2025): the professional edge, 99.3% uptime. Still operating 2026 — but in the wrong city for the May 2026 failure, which is its own lesson: **an edge that cannot reach the failure's geography is not redundancy.**
+*[[wiki/people/menore|Menore]] → Dan* (NYC, 2013–2025): the professional edge, 99.3% uptime. Still operating 2026 — but in the wrong city for the May 2026 failure, which is its own lesson: **an edge that cannot reach the failure's geography is not redundancy.**
 
-*Jay Lauer ⇄ Dan* (2016–17): peer trading, bidirectional.
+*[[wiki/people/jay-lauer|Jay Lauer]] ⇄ Dan* (2016–17): peer trading, bidirectional.
 
 **Fiscal rail.**
 
@@ -263,13 +267,13 @@ So far this page has modeled one graph. The record actually holds several — on
 
 **The Suboxone subgraph.** Demand: daily, inelastic, withdrawal on interruption — the fixed-rate intake the [[wiki/mind/synthesis/intake-constancy|intake-constancy]] page documents.
 
-Edges, terminal era: the prescriber route (thin, jurisdictional) and Tom (sole strip source by 2025). Historical depth: Johnny ($15/8mg, $20/12mg strips), Teddy (strips, pills), Zaco (2018 strip secondary), Jay Lauer (peer-trading).
+Edges, terminal era: the prescriber route (thin, jurisdictional) and Tom (sole strip source by 2025). Historical depth: Johnny ($15/8mg, $20/12mg strips), [[wiki/people/teddy|Teddy]] (strips, pills), [[wiki/people/zaco|Zaco]] (2018 strip secondary), [[wiki/people/jay-lauer|Jay Lauer]] (peer-trading).
 
 This is the subgraph with the catastrophic failure mode, because it is the only subgraph whose interruption produces a physiological cascade. Every other product's graph can fail and the operator has a bad week. This one fails and he cannot work a shift.
 
-**The cocaine subgraph.** Demand: daily, but elastic in a way Suboxone is not — the dosage arc moves with money (1g baseline, 3.5–7g in the 2017–2020 inheritance window, 0.5–1g after), which means the demand curve has a governor even if the governor is only the wallet **[ATTESTED, wiki/health/cocaine via wiki/mind/synthesis/chemical-architecture]**.
+**The [[wiki/health/cocaine|cocaine]] subgraph.** Demand: daily, but elastic in a way Suboxone is not — the dosage arc moves with money (1g baseline, 3.5–7g in the 2017–2020 inheritance window, 0.5–1g after), which means the demand curve has a governor even if the governor is only the wallet **[ATTESTED, wiki/health/cocaine via wiki/mind/synthesis/chemical-architecture]**.
 
-Edges: Tom, Johnny (the deep-cycle primary), the minor-node layer (Al/"Socialist" 2018, Jajuan Davis winter 2018–19, Lindsay Carolla Thanksgiving 2016), Suz (routine provision 2015–16), and — the inversion — Dan himself as the terminal-phase supplier to [[wiki/people/annie-ulmer|Annie]].
+Edges: Tom, Johnny (the deep-cycle primary), the minor-node layer (Al/"Socialist" 2018, [[wiki/people/jajuan-davis|Jajuan Davis]] winter 2018–19, [[wiki/people/lindsay-carolla|Lindsay Carolla]] Thanksgiving 2016), Suz (routine provision 2015–16), and — the inversion — Dan himself as the terminal-phase supplier to [[wiki/people/annie-ulmer|Annie]].
 
 The cocaine graph was always wider than the Suboxone graph, which is why no cocaine supply failure in the record produces a crisis: the product with the most elastic demand had the most redundant graph, and the product with the least elastic demand had the least. That is either a design accident or the one place the architecture's priorities were exactly backwards. The record does not say which.
 
@@ -277,7 +281,7 @@ The cocaine graph was always wider than the Suboxone graph, which is why no coca
 
 The thinnest subgraph — but also the one whose interruption has no documented catastrophic mode, which is why its thinness never got priced. A subgraph nobody depends on for survival can afford to be fragile. The Suboxone subgraph could not, and was.
 
-**The cannabis subgraph.** Menore's NYC line via [[wiki/people/sam|Sam]] (2019–20, menus, a delivery driver — the only node in the record to fire Dan as a customer), Jim Vrabel (two and a half years, marijuana), the Zach Harshman-era wax/dabs/flower.
+**The cannabis subgraph.** [[wiki/people/menore|Menore]]'s NYC line via [[wiki/people/sam|Sam]] (2019–20, menus, a delivery driver — the only node in the record to fire Dan as a customer), [[wiki/people/jim-vrabel|Jim Vrabel]] (two and a half years, marijuana), the Zach Harshman-era wax/dabs/flower.
 
 Multiple edges, low stakes, no withdrawal mode. The cannabis graph is the control: this is what a non-critical product's procurement looks like — genuinely distributed, genuinely replaceable, and nobody ever wrote a synthesis page about it because nothing about it ever failed loudly.
 
@@ -408,7 +412,7 @@ Cut set: still multi-edge. The 2014 Tom owe-and-silence cycle is the era's load 
 
 Note what this proves and what it doesn't: it proves a Tom failure was survivable *in this topology*. It does not prove a Tom failure is survivable in general. The chain model sometimes reads the 2014 survival as evidence about Tom. It is evidence about 2014's graph.
 
-**2016–2019: the deep era.** Edges: Johnny (primary), the second dealer, Teddy, Zaco, Jay Lauer (peer-trading), Menore in NYC (2018 return — "answered in one minute and resumed the exact prior service"), Tom throughout, the prescriber somewhere in the background (2019: *"try to go get subs from my old doctor"*).
+**2016–2019: the deep era.** Edges: Johnny (primary), the second dealer, [[wiki/people/teddy|Teddy]], [[wiki/people/zaco|Zaco]], [[wiki/people/jay-lauer|Jay Lauer]] (peer-trading), [[wiki/people/menore|Menore]] in NYC (2018 return — "answered in one minute and resumed the exact prior service"), Tom throughout, the prescriber somewhere in the background (2019: *"try to go get subs from my old doctor"*).
 
 Cut set: the largest in the record — four to five parallel illicit edges plus the licit route plus the NYC professional edge. The Johnny vacation panics are the era's load tests: primary-edge failures that produce distress signals but not withdrawal, because the cut set is deep.
 

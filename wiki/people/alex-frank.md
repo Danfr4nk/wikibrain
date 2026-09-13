@@ -41,7 +41,7 @@ Abloh, RuPaul, and many others.
 
 The connection to Dan runs through the paternal Frank line: Dan's
 grandfather and Alex's grandfather were **brothers**. That makes Alex Dan's
-cousin (first cousin once removed) and puts Morley Jay Frank — Alex's
+cousin (first cousin once removed) and puts [[wiki/people/morley-frank|Morley Jay Frank]] — Alex's
 "Uncle Morley" — as the shared great-uncle on the paternal side. The
 Frank-family funeral in Alex's essay is family material to Dan, not
 distant gossip.
@@ -77,7 +77,7 @@ logged **2025-09-03**:
 
 > eat n' park delivered frownie cookies to my granfather's funeral i swear to god lmao
 
-(The "grandfather" here is Morley — the funeral Alex's essay documents.)
+(The "grandfather" here is [[wiki/people/morley-frank|Morley]] — the funeral Alex's essay documents.)
 That Dan is still surfacing the detail unprompted in late 2025, nearly
 three decades after the 1998 funeral, is the same signal the search data
 shows: Alex's work and the Morley story are a recurring, low-intensity

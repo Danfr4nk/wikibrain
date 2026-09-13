@@ -64,6 +64,8 @@ connections:
   - page: wiki/people/alexis-armel
     type: evidenced-by
     claim: "The July 2013 break (her detection text, 'I saw your messages. I know you're with Franki', early-July fireworks day) is the rupture that activation A1 sits inside of — the oldest leg of the recomputed base rate."
+  - { target: "[[wiki/mind/synthesis/kristin-channel]]", type: contextualizes, claim: "The September 12, 2026 Kristin reinitiation is filed there; this entry reads it as a live rival bid and a standing instability-adjacent condition on the primary slot." }
+  - { target: "[[wiki/mind/synthesis/the-scoreboard]]", type: references, claim: "The scoreboard's first hard entry — the August 26 block prediction, reported as fact and falsified by export sixteen days later — is this entry's standing example of a scored prediction." }
 ---
 
 # The Concurrent-Attachment Hypothesis
@@ -132,7 +134,7 @@ argument lives, and they are stated next to each observation.
 **What "instability" means for scoring.** Not a mood, not a vibe — a
 dated observable, one of: (a) a severance declaration in any primary
 thread (the 129-episode loop's instrument); (b) a rival bid for the
-primary slot (the Kristin 2025 shape: exclusivity demands + volume
+primary slot (the [[wiki/people/kristin|Kristin]] 2025 shape: exclusivity demands + volume
 dominance); (c) a documented rupture event (a dated break, a departure,
 a disclosed infidelity, a third-party intrusion like the June 2026 Coles
 messages). "No instability" means none of the three is dated within the
@@ -420,7 +422,7 @@ message (2026-08-19 15:15:33). Three scoring gates:
   "no filed reply" can hide.
 - **O2 — instability events:** dated severance declarations, rival
   bids, rupture events, each with its date and the instrument that
-  dated it. Live at T1: the September 12 Kristin reinitiation (four
+  dated it. Live at T1: the September 12 [[wiki/people/kristin|Kristin]] reinitiation (four
   iMessages, delivered, no reply [ATTESTED —
   [[wiki/mind/synthesis/kristin-channel]]]) — a rival bid, dormant but
   live, and therefore a standing instability-adjacent condition on the
@@ -482,7 +484,7 @@ Scored on the filed record, inheriting
   Maruca's waitress job and a bad review [OPERATOR]; contact ongoing as
   of September 12. The severance was performed, not enacted — the
   retraction's finding with a month of corroboration. The September 12
-  Kristin reinitiation is a live rival bid on a held slot, not an
+  [[wiki/people/kristin|Kristin]] reinitiation is a live rival bid on a held slot, not an
   instability in the primary thread itself.
 - **O3:** No burst, nothing to time. P1 untested, not disconfirmed.
 - **O4:** No Ally-initiated exchange filed. F2 not triggered.
@@ -496,7 +498,7 @@ twenty-five days weakly favor H_term's "reloading" over H1's "standing
 pattern" only insofar as a standing pattern with a live rival bid
 (Kristin, Sep 12) and ongoing primary contact has produced no second
 instance — weak, because twenty-five days is not ninety and the
-threshold is unmeasured. The scoreboard's first hard entry remains the
+threshold is unmeasured. [[wiki/mind/synthesis/the-scoreboard|The scoreboard]]'s first hard entry remains the
 August 26 block prediction, which scored exactly as the old rule said
 it would: reported as fact, falsified by export sixteen days later.
 ## How the protocol discriminates the rival readings
@@ -588,7 +590,7 @@ that no future pass can move the goalposts.
   September export are unfiled. Without them T2 cannot score O1/O3,
   and the protocol degrades to watching O2/O4. Both are one-export
   jobs.
-- **The Kristin rival bid as instability.** The September 12
+- **The [[wiki/people/kristin|Kristin]] rival bid as instability.** The September 12
   reinitiation is filed as a live rival bid; whether it escalates into
   a dated instability (O2 condition b) or stays a dormant claim is the
   T2 watch-item. If it escalates and an Ally burst appears *during*
@@ -607,7 +609,7 @@ What was directly observed: the August 18–19 hour-by-hour dual-load
 ledger (408/552); the four activation episodes' dates, sizes, and
 pursuit content; the June 1 19h38m severance-to-burst interval; the
 August 7, 2019 22:39 job-loss message; the July 2013 Alexis detection
-text; the September 2026 contact states (Mom Maruca's exchange, Kristin
+text; the September 2026 contact states (Mom Maruca's exchange, [[wiki/people/kristin|Kristin]]
 reinitiation). What was reported: Dan's 2026-09-11 "there was never a
 block"; the 2026-08-20 operator capture on the misaddressed burst; the
 ally-lubin page's prediction and its "half right" self-score. What was
