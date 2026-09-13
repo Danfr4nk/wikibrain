@@ -592,6 +592,17 @@ mailed weed parcel.
 510|> converging on the same mechanism makes a single, misdated event the
 511|> likelier reading.
 512|
+**The first nude, November 26.** Between the introduction (~Nov 24) and the
+in-person golf-course meeting (Nov 29), Annie sent the first nude Dan ever
+got from her: a black-and-white bathroom selfie taken on her own iPhone 6s
+front camera at 14:33 EST on Thursday, November 26, 2015 — Thanksgiving
+Day — from her own position, not his. The visual-erotic channel opened
+before the physical one: she had not yet met him in person, he was still
+formally with Alexis, and the switch fortnight still had three days to
+run. The "first" rests on Dan's 2026 testimony; the timestamp rests on
+EXIF (`dat:annie-first-nude-milestone-20260912`). The frame is thumbnailed
+in Sources, below.
+
 513|## The first year (January 2016)
 514|
 515|The relationship's first full month — January 2016 — is a dense
@@ -2293,3 +2304,7 @@ completed exit from a long relationship anywhere in the corpus
 week, and it produced this page.
 
 
+
+## Sources
+
+<a href="../../media/upload-045.jpg"><img src="../../media/upload-045.jpg" width="240" alt="Annie Ulmer, first nude, 2015-11-26 (pixelated)"></a> — Annie Ulmer's first nude to Dan, 2015-11-26 14:33 EST, black-and-white bathroom selfie (iPhone 6s front camera, her position). Embedded derivative pixelated per the censorship rule; the original is never committed. See `dat:annie-first-nude-milestone-20260912`.

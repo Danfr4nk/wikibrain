@@ -1,0 +1,24 @@
+{
+  "batch": "photo-ingest-20260912-annie-01",
+  "album_url": null,
+  "album_name": null,
+  "intake_source": "direct send by Dan in chat, 2026-09-12 (first of an ongoing Annie series)",
+  "photo_count": 1,
+  "pull_timestamp_utc": "2026-09-13T00:56:59Z",
+  "pull_method": "direct chat send; original staged at ~/workspace/wiki-sync/photo-staging/photo-ingest-20260912-annie-01/ (local-only)",
+  "files": [
+    {
+      "filename": "c8b92c4c600b838dffc954d8fee68582b01b57ee266e5eef4664429911000bca.jpg",
+      "sha256": "c8b92c4c600b838dffc954d8fee68582b01b57ee266e5eef4664429911000bca",
+      "bytes": 97733,
+      "gphotos_media_id": null,
+      "platform_timestamp": null,
+      "exif_datetime": "2015-11-26 14:33:20 local",
+      "exif_make_model": "Apple iPhone 6s (front camera 2.65mm f/2.2)",
+      "exif_gps": "39.8845,-79.7262 (HPE 65m; Annie's position \u2014 she took the selfie)",
+      "dimensions": "828x778",
+      "upload_id": "upload-045",
+      "censorship": "nudity \u2014 embedded derivative pixelated (wiki/media/upload-045.jpg); original never committed"
+    }
+  ]
+}
