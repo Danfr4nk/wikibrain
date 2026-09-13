@@ -1,0 +1,43 @@
+{
+  "id": "src:wall-photo-2025-09-03",
+  "batch": "photo-ingest-20260912-2027",
+  "registry_id": "upload-029",
+  "intake_source": "direct chat send (Dan, FACEBOOK side chat, misdirected; forwarded via hooktheory side chat)",
+  "pull_timestamp_utc": "2026-09-13T00:27:55Z",
+  "pull_method": "direct-chat-send (original from iOS media library)",
+  "originals_note": "Originals are never committed to any repo (media policy 2026-09-11). Staged local-only at photo-staging/photo-ingest-20260912-2027/wall-001.jpg.",
+  "files": [
+    {
+      "staging_name": "wall-001.jpg",
+      "sha256": "1846b7b425ac98cba071cebab56386ea2bec1ddbfa229419138b453972c78d99",
+      "bytes": 203430,
+      "gphotos_media_id": null,
+      "gphotos_platform_timestamp": null,
+      "exif_datetime": "2025:09:03 04:42:46",
+      "exif_make": "Apple",
+      "exif_model": "iPhone 14",
+      "exif_software": "18.5",
+      "dimensions": [
+        828,
+        466
+      ]
+    }
+  ],
+  "kb_nodes": [
+    "src:wall-photo-2025-09-03",
+    "dat:wall-built-20250801-02",
+    "dat:wall-purpose-kristin-take",
+    "dat:wall-contents-per-texts-20250803",
+    "dat:wall-cumslut-photo-20250826",
+    "dat:wall-milo-joke-false-lead-20250805",
+    "dat:wall-tom-kristin-picture-suggestion",
+    "dat:wall-photo-exif-20250903",
+    "dat:wall-photo-visual-read",
+    "pat:wall-as-analog-face-library"
+  ],
+  "wiki_touched": [
+    "wiki/work/tech/attraction-guide.md",
+    "wiki/people/kristin.md"
+  ],
+  "derivative": "wiki/media/upload-029.jpg"
+}
