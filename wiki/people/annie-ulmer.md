@@ -1073,6 +1073,10 @@ context sits at [[wiki/timeline/periods/covid-era-2020]].
 > the exterminators"). The full cast and the apartment's own
 > $10,000-debt afterlife are at [[wiki/places/307-e-76th-st]].
 
+## September 27, 2020: the del recording
+
+A week after the Train Plan confrontation, Dan arranged and filmed Annie having sex with a man they knew ("del") in the NYC apartment — "the one full experience i have recorded," in his words, with him present throughout. Three recordings from that afternoon survive; the 19-minute file was analyzed frame-by-frame in 2026. Full account, with the footage play-by-play, at [[wiki/timeline/events/annie-del-september-2020]].
+
 ## [[wiki/people/eli|Eli]], and the thing that mattered more than the affair
 
 By autumn 2024 at the latest, Annie was in a concealed relationship with
