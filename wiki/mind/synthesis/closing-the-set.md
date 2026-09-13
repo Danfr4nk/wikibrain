@@ -25,6 +25,9 @@ synthesizes:
   - wiki/self/youtube-watch-history
 tags: [personality-profile, forensic-analysis, digital-footprint]
 connections:
+  - page: wiki/mind/concepts/the-endpoint-requirement
+    type: complements
+    claim: "[2026-09-13] This page describes the closing of bounded sets; the endpoint-requirement page proposes the discriminator for which wants the engine even pursues — defined terminal states. The two pages together state the drive's full rule: a pursuit fires toward a defined endpoint, and an era ends when its set closes."
   - page: wiki/mind/concepts/attachment-model
     type: mirrors
     claim: "The Annie bond is the unclosable set: the largest object the completion engine was ever attached to, and the only one whose terminating signal had to arrive from outside because 41,073 of her messages contain none."

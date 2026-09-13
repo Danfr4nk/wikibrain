@@ -41,6 +41,9 @@ connections:
   - page: wiki/mind/synthesis/the-rescue-premise
     type: evidenced-by
     claim: "The August 19, 2026 severance is the record's first declaration to name and pre-close its own most likely reopening channel in advance (the Milo / thinking-of-you route) — a declaration that contains its own failure-mode analysis, which is the closest any of the 129 comes to being about enactment rather than performance."
+  - page: wiki/mind/concepts/reassurance-architecture
+    type: tested-against
+    claim: "The 2026-09-13 Kristin portability test discriminates this entry's grammar from the check-in loop: the summons register ports to the Kristin channel at near-Annie rates, but the severance lexicon does not ('goodbye' 0.49/1k vs 3.44/1k; 'answer me' zero). The declaration ladder is the Annie-specific layer; the check-in layer generalizes."
   - page: wiki/mind/synthesis/dan-annie-fallout-verdict
     type: evidenced-by
     claim: "The June 1, 2026 sign-off correction (Dan's outbound, not Annie's; 'Blocking you' 00:09:31, 'Goodbye forever… sic semper lupanis' 00:27:49, her 'Understood' 00:10:06) is the declaration series' one executed instance — and her 'Understood,' an acknowledgment of his severance, remains her closest approach to issuing one herself. Her explicit-severance count stays at zero."

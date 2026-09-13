@@ -450,6 +450,15 @@ cited; it belongs here: **any answer that draws a behavioral prediction from
    somebody rebuilds the Enneagram read from the message record rather than from
    the dossiers, the rule predicts the 4-wing's tragic-romantic content will turn
    out to have been supplied by the instrument rather than found in the corpus.
+   > **Partial adjudication [2026-09-13]:** the [[wiki/mind/profile/enneagram-5w4]] rebuild ran exactly this
+   > re-derivation. Result: the 6 wing's loyalty/anxiety signature is attested in behavior — the
+   > explicit-verbal-commitment architecture (positive verbal expressions as absolute rules until an
+   > explicit severance signal; 129 severance declarations, 100% re-engagement) is security-through-explicit-rules
+   > machinery, i.e. 6-wing, not the 4 wing's tragic-romantic identity-through-difference. The 4 wing's
+   > attestation is aesthetic (the "Failson" irony armor, aristocratic-alienation register), not architectural.
+   > Both wings have behavioral traces; only 5w6sx has a date. The falsifier above is half-closed: the 4-wing
+   > content was supplied by the instrument *and* partially adopted into self-presentation afterward (the
+   > 2026-03-21/24 "INTP 5w4-sx" persona prompts pasted to another person).
 4. **This page's own reading will be commissioned before it is tested.** The
    corpus's standing habit is to resolve a question about Dan by asking a model
    about Dan. If the 5w6 contradiction gets settled by putting it to an LLM

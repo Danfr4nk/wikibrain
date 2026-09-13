@@ -19,6 +19,12 @@ related:
   - wiki/mind/concepts/phenomenology-lens
 tags: [personality-profile, trauma-bond, addiction-recovery]
 connections:
+  - page: wiki/mind/concepts/explicit-verbal-commitment
+    type: evidences
+    claim: "The Fe-inferior mechanism — a Ti-generated decision that a tie is over never becomes felt-settled without an external terminating statement — is the cognitive-function substrate the commitment architecture runs on. Added 2026-09-13."
+  - page: wiki/mind/concepts/no-delete-operation
+    type: evidences
+    claim: "Si-tertiary's non-pruning archive ('suspend, not delete') is the function-level substrate of the system-wide no-delete rule. Added 2026-09-13."
   - page: wiki/interests/roman-republic
     type: evidenced-by
     claim: "The great-man-theory tag cluster on the 2024 Caesar/Alexander/Oppenheimer reads is corpus evidence for the singular-figure-versus-the-system self-myth this profile documents."

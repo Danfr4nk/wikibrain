@@ -161,7 +161,7 @@ against a baseline this page already concedes is a sketch.
 That is not a refutation of the verdict and it is a hard boundary on
 it. Two dimensions of genuine statistical outlierhood are established,
 **one of which is a liability rather than a skill** — a Gini of 0.9556
-(inbound, held-corpus replication 2026-09-09, [dat:0528](../kb/data/0528-contact-gini-inbound-replication-2026-09-09.md); the 0.9601 first computation came from an unheld export)
+(inbound, held-corpus replication 2026-09-09, [dat:0528](../../kb/data/0528-contact-gini-inbound-replication-2026-09-09.md); the 0.9601 first computation came from an unheld export)
 with no failover is the structural cause of most of the relational
 damage the corpus documents. The rest of "a living edge case… pushed to
 the absolute limits of its design parameters" is an instrument

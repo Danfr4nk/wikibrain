@@ -83,17 +83,21 @@ practice before the axiom had a name.
 
 ## The axiom layer (interpretation, source loop open)
 
-- [[wiki/mind/politics/axioms]] — the power axiom: Dan's 2024
-  Caesar/Roman-Republic binge plus his self-authored Cato-the-Younger AI
-  persona resolve to one commitment to opposing concentrated,
-  unaccountable power, not a "leftist politics vs. authoritarian
-  fascination" paradox. **Status:** interpretation, not measurement. The
-  strongest leg — the CATO origin line (*"Cato the Younger — Stoic
-  absolutist, self-deleted at Utica post-Thapsus"*) as a self-authored
-  system prompt — cites `raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md`,
-  which is **not held anywhere in this repository**; the framing is the
-  page's testimony, not a re-checked artifact (dat:0797). The Rome-binge
-  leg is stronger: Parenti's explicitly Marxist, class-conflict *The
+- [[wiki/mind/politics/axioms]] — two axiom layers, rebuilt 2026-09-13:
+  the **four core axioms** (May–June 2026 formulation, dossier-mediated,
+  no corpus corroboration — his framing, a model's systematization, his
+  endorsement) and the **power axiom** (his Cato persona, the dated Rome
+  binge, the verified Brooks-test tweet, the vertical-skepticism
+  architecture). The rebuild's inversion thesis: the power axiom is the
+  better-evidenced of the two — four convergent legs against one
+  dossier-mediated formulation with a failed corpus audit. **Status:**
+  interpretation with stated tiers, not measurement. The strongest leg —
+  the CATO origin line (*"Cato the Younger — Stoic absolutist,
+  self-deleted at Utica post-Thapsus"*) as a self-authored system prompt
+  — cites `raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md`, which is
+  **not held anywhere in this repository**; the framing is the page's
+  testimony, not a re-checked artifact (dat:0797). The Rome-binge leg is
+  stronger: Parenti's explicitly Marxist, class-conflict *The
   Assassination of Julius Caesar* read March 29–April 29, 2024 alongside
   Goldsworthy's conventional biography at the same 5-star rating is
   comparative power-analysis, not strongman admiration.

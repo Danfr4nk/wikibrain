@@ -1287,7 +1287,13 @@ instances, Dan met her warmth — "I love you," "good morning" — with
 hostility within twelve hours, meaning that by the later months
 affection itself had become a trigger for anticipated betrayal as often
 as abandonment was. Eighteen separate threats to block her permanently
-were followed by unblocking every single time; six or more threats to
+were followed by unblocking every single time **[CLARIFIED 2026-09-11:**
+per [[wiki/mind/synthesis/august-26-block-retraction]], Dan confirmed
+verbatim "there was never a block" — the August declarations were never
+executed, so "unblocking" misdescribes the sequence; the declarations were
+the performance and contact never stopped. The eighteen-threat count stands
+as declared threats; the "unblocking every single time" framing is retired.**]**;
+six or more threats to
 tell his mother the truth went unexecuted. Set against all of that: not
 one documented instance, across the entire window, of Dan withholding the
 drug supply as leverage or punishment — including hours after his own
@@ -2202,7 +2208,7 @@ substance.
 | Explicit severance signals / love affirmations | **0 / 299+ — the zero now holds across all 48,791 of her received messages in every export on disk** (2026-08-20 sweep; previously scoped to the 41,073-message dual-handle export only) |
 | Wellbeing checks on Dan, raw / net of perfunctory | 7 / 4 (once per 55 days) |
 | Dan's burst events (10+ unanswered messages, largest 68) | 94 |
-| Dan's exit declarations / re-engagements within 48h | 127 / 110 |
+| Dan's exit declarations / re-engagements within 48h | 127 / 110 — **SUPERSEDED 2026-09-13**: the attachment-model page's 2026-08-23 independent recount resolved this to **129 distinct episodes, 128/128 resumed, median gap 36 seconds** (24h episode-collapsing rule; the merged corpus is not held in-repo, so the recount is the page's best reading, not a re-derivable count). The 127/110 pair is retained as the dossiers' original framing. |
 | Dan's unexecuted block threats / "tell mom" threats | 18 / 6+ |
 | Dan's verbal abuse, Aug 2025 → Feb 2026 (monthly) | 9 → 0 → 5 → 14 → 22 → 25 → 36 |
 | Dan's hostility within 12h of her warmth | 47 instances |
