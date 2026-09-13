@@ -26,7 +26,7 @@ synthesizes:
   - wiki/mind/synthesis/august-26-block-retraction
   - wiki/mind/synthesis/severance-declarations
   - wiki/mind/concepts/attachment-model
-tags: [relationships, attachment, concurrency, falsifiability, personality-profile, base-rates]
+tags: [relationships, attachment, forensic-analysis, personality-profile]
 connections:
   - page: wiki/people/annie-ulmer
     type: evidenced-by

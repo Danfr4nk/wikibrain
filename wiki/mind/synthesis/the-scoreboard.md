@@ -29,7 +29,7 @@ synthesizes:
   - wiki/mind/synthesis/instrument-is-subject
   - wiki/mind/concepts/document-fabrication
   - wiki/self/message-corpora/source-coverage-index
-tags: [measurement, forensic-analysis, personality-profile, epistemics, quantification]
+tags: [forensic-analysis, personality-profile]
 connections:
   - page: wiki/mind/synthesis/severance-declarations
     type: component-of
@@ -638,7 +638,7 @@ work than the integers, and they are doing it more safely.
 Some counts in the corpus cannot be recomputed at all, and the scoreboard's
 honesty requires saying so. The standing cases:
 
-- **The veracity ledger's arithmetic is unaudited.** `wiki/meta/testimony-veracity`
+- **The veracity ledger's arithmetic is unaudited.** [[wiki/meta/testimony-veracity]]
   scores sixteen first-person claims (veracity 52/100 on 31.0 weight; Brier
   0.335; skill −0.34; the inverted confidence bands) — but the page is
   machine-generated from `testimony/events.jsonl`, which the repository does

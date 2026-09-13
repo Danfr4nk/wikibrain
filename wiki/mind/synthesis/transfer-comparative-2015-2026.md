@@ -26,7 +26,7 @@ synthesizes:
   - wiki/people/ally-lubin
   - wiki/people/ally-lubin-cognitive-profile
   - wiki/mind/concepts/explicit-verbal-commitment
-tags: [relationships, attachment, transfer, comparison, slot-occupancy, 2015, 2026]
+tags: [relationships, attachment]
 connections:
   - page: wiki/mind/synthesis/vacancy-rule
     type: component-of

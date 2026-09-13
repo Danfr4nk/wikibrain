@@ -16,7 +16,7 @@ synthesizes:
   - wiki/mind/synthesis/chemical-architecture
   - wiki/health/cocaine
   - wiki/health/intake-ledger
-tags: [register-never-closes, suboxone, maintenance, verdict, substitution, taper, health, abstinence]
+tags: [relationships, addiction-recovery, relationships, physical-health]
 connections:
   - page: wiki/mind/synthesis/the-register-never-closes
     type: updates

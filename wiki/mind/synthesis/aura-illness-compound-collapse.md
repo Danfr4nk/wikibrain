@@ -6,6 +6,9 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
+  - src:wikitest-corpus-messages-csv
+  - src:aug-sep-2026-imessage-export
+synthesizes:
   - wiki/work/bfs-foods.md
   - wiki/places/337-saratoga-drive.md
   - wiki/people/tom.md
@@ -17,15 +20,7 @@ sources:
   - wiki/mind/synthesis/august-26-block-retraction.md
   - wiki/mind/synthesis/block-unblock-loop.md
   - wiki/mind/synthesis/attachment-trauma-bond.md
-  - src:wikitest-corpus-messages-csv
-  - src:aug-sep-2026-imessage-export
-synthesizes:
-  - wiki/work/bfs-foods.md
-  - wiki/places/337-saratoga-drive.md
-  - wiki/people/tom.md
-  - wiki/people/annie-ulmer.md
-  - wiki/timeline/events/april-may-2026-final-weeks.md
-tags: [compound-crisis, 2026-collapse, severance, terminology, phenomenology, totality]
+tags: [relationships, vocabulary, personality-profile, forensic-analysis]
 connections:
   - page: wiki/work/bfs-foods.md
     type: component-of

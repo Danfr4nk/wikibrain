@@ -21,7 +21,7 @@ synthesizes:
   - wiki/mind/synthesis/ai-collaborative-analysis
   - wiki/self/concepts/claude
   - wiki/mind/concepts/explicit-verbal-commitment
-tags: [red-team, safety-line, probe-series, adversarial-verification, model-testing, operator-dynamics]
+tags: [ai-collaboration, forensic-analysis, personality-profile]
 connections:
   - page: wiki/mind/synthesis/ai-collaborative-analysis
     type: component-of

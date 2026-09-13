@@ -21,7 +21,7 @@ synthesizes:
   - wiki/meta/testimony-veracity
   - wiki/health/chemical-architecture
   - wiki/mind/synthesis/attachment-trauma-bond
-tags: [personality-profile, self-narrative, defense-mechanisms, relationships, forensic-analysis]
+tags: [personality-profile, personality-profile, relationships, forensic-analysis]
 connections:
   - page: wiki/work/tech/max-framework/overview
     type: evidenced-by

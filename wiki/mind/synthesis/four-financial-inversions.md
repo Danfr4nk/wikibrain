@@ -6,6 +6,12 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
+  - raw/self/captures/2026-08-13_john-paci-staged-eviction-operator-decode.md
+  - raw/self/message-csv/aug-sep-2026-imessage-export
+synthesizes:
+  - wiki/mind/synthesis/estate-money-spine
+  - wiki/mind/synthesis/high-provision-low-condolence
+  - wiki/mind/synthesis/supply-network
   - wiki/people/annie-ulmer
   - wiki/people/john-paci
   - wiki/places/307-e-76th-st
@@ -16,15 +22,7 @@ sources:
   - wiki/timeline/periods/feb-apr-2025-return-and-rupture
   - wiki/timeline/periods/2025-collapse
   - wiki/timeline/periods/2021-2023-employment-block
-  - raw/self/captures/2026-08-13_john-paci-staged-eviction-operator-decode.md
-  - raw/self/message-csv/aug-sep-2026-imessage-export
-synthesizes:
-  - wiki/mind/synthesis/estate-money-spine
-  - wiki/mind/synthesis/high-provision-low-condolence
-  - wiki/mind/synthesis/supply-network
-  - wiki/people/annie-ulmer
-  - wiki/people/john-paci
-tags: [money, financial-stress, forensic-analysis, relationships, grievance]
+tags: [financial-stress, forensic-analysis, relationships]
 connections:
   - page: wiki/mind/synthesis/estate-money-spine
     type: component-of
@@ -595,7 +593,7 @@ Which is itself a finding, given the decade's length.
 
 **116 messages February to December 2024**, at a documented rate of *"just over 3 hours today.. she paid me 500"* (**2024-05-17**) **[ATTESTED]** — roughly $167/hour.
 
-**On top of a second six-day-a-week job** — the *"I'll be here 6 days a week"* employer, still unidentified, appearing nowhere in `wiki/work/` **[ATTESTED statement; UNKNOWN employer]**.
+**On top of a second six-day-a-week job** — the *"I'll be here 6 days a week"* employer, still unidentified, appearing nowhere in [[wiki/work/]] **[ATTESTED statement; UNKNOWN employer]**.
 
 Two complications must be carried, not smoothed.
 
@@ -1319,7 +1317,7 @@ It is carried here so the future pass finds it.
 - **The Paci letter date.** [[wiki/people/john-paci]] (2025-03-05 10:42 ET) and [[wiki/places/307-e-76th-st]] line 127 say 2025; [[wiki/people/annie-ulmer]] and 307-e-76th-st line 69 say 2026. This entry adopts 2025 as better-supported (timestamped; arithmetically coherent with "two weeks after the move") but the conflict is wiki-internal and needs a primary re-check of the letter itself, not a vote.
 - **The inbound side was never swept.** The $16–20K received figure is app-visible inbound on two apps at a point in time; a full export could revise it. The spine flagged this 2026-08-23; it is still open.
 - **The 2019 Cash App export** would settle the $2,100 Ally figure and sharpen the early-inversion-1/late-2019 boundary. Not in `raw/`.
-- **The Libby second employer** (*"I'll be here 6 days a week"*) appears nowhere in `wiki/work/` or on Annie's page — the only part of her 2024 income the wiki cannot see at all, and therefore the only part of inversion 3's inbound side that is unattested.
+- **The Libby second employer** (*"I'll be here 6 days a week"*) appears nowhere in [[wiki/work/]] or on Annie's page — the only part of her 2024 income the wiki cannot see at all, and therefore the only part of inversion 3's inbound side that is unattested.
 - **The $75/hr vs ~$167/hr Libby rate contradiction** is held open on [[wiki/people/libby]]; resolving it would sharpen inversion 3's income measurement.
 - **Whether the $10,000 Paci balance or the $7,000 ConEd bill was ever paid**, in whole or part — no record past 2025-07-25.
 - **The six unaccounted months** (September 2020 → early 2021): the estate distribution's burn decomposition (rent vs. supply vs. Annie vs. market) is not separable from current sources — the endpoints are documented, the middle is not.

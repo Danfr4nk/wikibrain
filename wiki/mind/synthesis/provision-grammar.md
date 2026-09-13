@@ -6,16 +6,6 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
-  - wiki/people/annie-ulmer
-  - wiki/people/ally-lubin
-  - wiki/people/suzanne-frank
-  - wiki/mind/synthesis/four-financial-inversions
-  - wiki/mind/synthesis/high-provision-low-condolence
-  - wiki/mind/synthesis/estate-money-spine
-  - wiki/mind/synthesis/annie-ally-contrast
-  - wiki/mind/concepts/explicit-verbal-commitment
-  - wiki/mind/concepts/reassurance-architecture
-  - wiki/mind/profile/big-five-psychometrics
   - raw/self/message-csv/aug-sep-2026-imessage-export
 synthesizes:
   - wiki/mind/synthesis/four-financial-inversions
@@ -23,7 +13,12 @@ synthesizes:
   - wiki/mind/synthesis/estate-money-spine
   - wiki/mind/synthesis/annie-ally-contrast
   - wiki/mind/concepts/explicit-verbal-commitment
-tags: [money, attachment, provision, forensic-analysis, relationships, grievance]
+  - wiki/people/annie-ulmer
+  - wiki/people/ally-lubin
+  - wiki/people/suzanne-frank
+  - wiki/mind/concepts/reassurance-architecture
+  - wiki/mind/profile/big-five-psychometrics
+tags: [financial-stress, attachment, forensic-analysis, relationships]
 connections:
   - page: wiki/mind/synthesis/four-financial-inversions
     type: component-of

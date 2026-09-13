@@ -8,16 +8,6 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
-  - wiki/timeline/events/july-2026-recontact.md
-  - wiki/timeline/events/july-august-2026-reentanglement.md
-  - wiki/timeline/events/group-chat-closure.md
-  - wiki/timeline/events/august-2026-morgantown-call.md
-  - wiki/people/milo.md
-  - wiki/mind/synthesis/the-rescue-premise.md
-  - wiki/mind/synthesis/block-unblock-loop.md
-  - wiki/mind/synthesis/severance-declarations.md
-  - wiki/mind/synthesis/august-26-block-retraction.md
-  - wiki/mind/synthesis/aura-illness-compound-collapse.md
   - raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv
   - src:corpus__3.txt
 synthesizes:
@@ -27,7 +17,12 @@ synthesizes:
   - wiki/timeline/events/july-2026-recontact
   - wiki/people/milo
   - wiki/people/annie-ulmer
-tags: [severance, attachment, dependency, channel-theory, forensic-analysis, personality-profile]
+  - wiki/timeline/events/july-august-2026-reentanglement
+  - wiki/timeline/events/group-chat-closure
+  - wiki/timeline/events/august-2026-morgantown-call
+  - wiki/mind/synthesis/the-rescue-premise
+  - wiki/mind/synthesis/august-26-block-retraction
+tags: [relationships, attachment, digital-footprint, forensic-analysis, personality-profile]
 connections:
   - page: wiki/mind/synthesis/block-unblock-loop
     type: updates

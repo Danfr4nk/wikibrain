@@ -23,7 +23,7 @@ synthesizes:
   - wiki/work/tech/attraction-guide.md
   - wiki/mind/synthesis/red-team-probe-series.md
   - wiki/self/concepts/media-ingest.md
-tags: [image-generation, instruments, workstream, red-team, video-generation, 2026]
+tags: [ai-collaboration, digital-footprint]
 connections:
   - page: wiki/work/tech/attraction-guide.md
     type: component-of

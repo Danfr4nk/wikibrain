@@ -22,7 +22,7 @@ synthesizes:
   - wiki/people/john-paci
   - wiki/places/307-e-76th-st
   - wiki/timeline/periods/dec-2025-spike
-tags: [nyc-era, uniontown-era, relationships, infidelity, hinge-event, music-production, geography, financial-stress]
+tags: [nyc-era, uniontown-era, relationships, infidelity, music-production, financial-stress]
 connections:
   - page: wiki/timeline/periods/feb-apr-2025-return-and-rupture
     type: component-of

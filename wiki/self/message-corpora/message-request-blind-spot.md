@@ -20,7 +20,7 @@ synthesizes:
   - wiki/self/message-corpora/source-coverage-index
   - wiki/self/message-corpora/master-message-dump
   - wiki/meta/instruments/index
-tags: [methods, instruments, epistemics, message-requests, absence-of-evidence, block-unblock-loop, coverage]
+tags: [forensic-analysis, digital-footprint, relationships]
 connections:
   - page: wiki/mind/synthesis/kristin-channel
     type: instantiates

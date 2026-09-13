@@ -26,7 +26,7 @@ synthesizes:
   - wiki/mind/synthesis/the-rescue-premise
   - wiki/mind/synthesis/dormancy-not-exit
   - wiki/self/concepts/ally-and-dan-love-as-destiny
-tags: [relationships, attachment, concurrency, personality-profile]
+tags: [relationships, attachment, personality-profile]
 connections:
   - page: wiki/people/annie-ulmer
     type: mirrors

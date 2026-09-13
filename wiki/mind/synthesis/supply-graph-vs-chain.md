@@ -17,7 +17,7 @@ synthesizes:
   - wiki/health/chemical-architecture
   - wiki/people/tom
   - wiki/work/bfs-foods
-tags: [supply, fragility, redundancy, suboxone, prescriber, tom, may-2026-collapse, network-model]
+tags: [addiction-recovery, forensic-analysis]
 connections:
   - page: wiki/mind/synthesis/supply-network
     type: contradicts

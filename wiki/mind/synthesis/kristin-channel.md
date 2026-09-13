@@ -21,7 +21,7 @@ synthesizes:
   - wiki/mind/synthesis/dormancy-not-exit
   - wiki/mind/synthesis/the-serial-monogamist
   - wiki/mind/synthesis/august-26-block-retraction
-tags: [relationships, attachment, severance, block-unblock-loop, control-case, money, conflict-disposition]
+tags: [relationships, attachment, financial-stress]
 connections:
   - page: wiki/people/kristin
     type: analyzes

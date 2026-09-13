@@ -14,7 +14,7 @@ synthesizes:
   - wiki/mind/synthesis/taste-as-filter-stack
   - wiki/mind/synthesis/dance-music-only-phases
   - wiki/mind/synthesis/closing-the-set
-tags: [music-production, taste, digital-footprint, measurement, personality-profile]
+tags: [music-production, taste, digital-footprint, forensic-analysis, personality-profile]
 connections:
   - page: wiki/mind/synthesis/taste-as-filter-stack
     type: supplies

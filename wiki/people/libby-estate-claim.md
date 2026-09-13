@@ -1,8 +1,13 @@
 ---
+infobox:
+  name: Libby Titus (Libby Fagen)
+  relationship_to_dan: never met; known entirely through Annie's account — Annie's employer, private client for paid personal assistance
+  known_for: songwriter ("Love Has No Pride"); the unpaid-wage dispute at the center of this report
+  closed: "Died 13 October 2024"
 domain: people
-page_type: investigation
+page_type: report
 title: "The Libby wage dispute: shifts, rates, and the open estate question"
-status: open
+status: active
 knowledge: earned
 importance: high
 date_created: 2026-09-13
@@ -11,7 +16,7 @@ date_range_start: 2024-02-08
 date_range_end: 2024-10-13
 synthesizes:
   - wiki/people/libby
-tags: [financial-stress, legal, nyc-era, forensic-method, unpaid-wages]
+tags: [financial-stress, legal, nyc-era, forensic-analysis, career]
 sources:
   - raw: raw/drive-sweep/20260911/gsheets/message-csv/imessages_2124702449_last6months.from-gsheet.imessage_2124702449_last6months.csv.csv
 connections:

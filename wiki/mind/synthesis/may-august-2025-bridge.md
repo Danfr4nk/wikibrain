@@ -33,7 +33,7 @@ synthesizes:
   - wiki/places/337-saratoga-drive
   - wiki/self/concepts/chatgpt
   - wiki/timeline/periods/dec-2025-spike
-tags: [uniontown-era, saratoga, narrative-bridge, relationships, attachment, block-unblock-loop, music-production, employment, corpus-gaps]
+tags: [uniontown-era, housing, relationships, attachment, music-production, career, digital-footprint]
 connections:
   - page: wiki/mind/synthesis/the-2025-collapse
     type: component-of

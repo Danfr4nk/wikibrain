@@ -23,7 +23,7 @@ synthesizes:
   - wiki/people/kristin
   - wiki/people/ally-lubin
   - wiki/people/jason-cole
-tags: [relationships, attachment, language, speech-acts, personality-profile, forensic-analysis, corpus-method]
+tags: [relationships, attachment, language, personality-profile, forensic-analysis, digital-footprint]
 connections:
   - page: wiki/mind/synthesis/severance-declarations
     type: supplies

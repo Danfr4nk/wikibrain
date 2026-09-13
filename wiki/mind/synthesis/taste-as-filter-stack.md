@@ -19,7 +19,7 @@ synthesizes:
   - wiki/interests/music/concepts/sub-bass-signature
   - wiki/mind/synthesis/music-as-identity
   - wiki/mind/synthesis/dance-music-only-phases
-tags: [music-production, taste, personality-profile, digital-footprint, measurement]
+tags: [music-production, taste, personality-profile, digital-footprint, forensic-analysis]
 connections:
   - page: wiki/mind/synthesis/dance-music-only-phases
     type: component-of

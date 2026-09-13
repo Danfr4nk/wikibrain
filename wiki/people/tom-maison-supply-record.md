@@ -1,4 +1,8 @@
 ---
+infobox:
+  name: Tom
+  relationship_to_dan: friend — primary male ally; standing supply line (2018–2026, ruptured May 2026)
+  known_for: the supply ledger reconstructed in this report
 domain: people
 page_type: entity
 status: active
@@ -18,7 +22,7 @@ synthesizes:
   - wiki/mind/synthesis/chemical-architecture.md
   - wiki/mind/synthesis/aura-illness-compound-collapse.md
   - wiki/mind/synthesis/supply-network.md
-tags: [supply-network, friendship, suboxone, withdrawal, reliability-inversion]
+tags: [addiction-recovery, relationships, financial-stress]
 connections:
   - page: wiki/people/tom.md
     type: updates

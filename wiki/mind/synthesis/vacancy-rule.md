@@ -35,7 +35,7 @@ synthesizes:
   - wiki/people/ally-lubin
   - wiki/people/kristin
   - wiki/people/danielle-onesi
-tags: [relationships, attachment, personality-profile, falsifiability, vacancy, slot-occupancy, severance]
+tags: [relationships, attachment, personality-profile, forensic-analysis]
 connections:
   - page: wiki/mind/synthesis/the-unbroken-bond
     type: updates

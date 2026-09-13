@@ -21,7 +21,7 @@ synthesizes:
   - wiki/mind/synthesis/intake-constancy
   - wiki/mind/concepts/forensic-method
   - wiki/mind/profile/deviance-mapping
-tags: [chemical-architecture, suboxone, vigilance, axioms, function-vs-framing, addiction, supply-network, health]
+tags: [addiction-recovery, personality-profile, physical-health]
 connections:
   - page: wiki/health/chemical-architecture
     type: component-of
@@ -159,7 +159,7 @@ Dan replied: *"NO no — if the train left on feb 18 that means that the first d
 i began my successful suboxone streak was feb 17, 2010."* The day before a
 train. The anchor came from a model reading email logs.
 
-**The anchor was wrong.** `wiki/self/twitter/2010` shows the February 18 train
+**The anchor was wrong.** [[wiki/self/twitter/2010]] shows the February 18 train
 running the other way: on the 17th he is already in New York (*"off to
 Williamsburg"*) and on the 18th he is *"on the train back to PA."* The
 arithmetic behind the corpus's most-cited date does not hold **[ATTESTED]**.

@@ -29,7 +29,7 @@ synthesizes:
   - wiki/timeline/master-timeline
   - wiki/mind/synthesis/high-provision-low-condolence
   - wiki/mind/synthesis/the-deferred-audit
-tags: [axioms, provenance, attestation, testimony, veracity, 2026, dossier-layer, formulation-dating]
+tags: [personality-profile, forensic-analysis]
 connections:
   - page: wiki/mind/synthesis/november-2005-hinge
     type: supplies
@@ -177,10 +177,10 @@ v2.0, quoted above — Dan's own document, two-axiom stage. **[ATTESTED]**
 via [[wiki/self/concepts/llm]].
 
 **In-wiki arrival: 2026-06-22.** The old-wiki export's frontmatter dates
-put the formulation on three pages created that day: `wiki/self/context-
-core.md` (all four axioms, [DOC]-grade), `wiki/mind/concepts/conflict-
-architecture.md` (axiom 1 as the concession mechanism's routing), and
-`wiki/mind/synthesis/totality-themes.md` (axiom 1 as the Irreversibility
+put the formulation on three pages created that day: [[wiki/self/context-
+core.md]] (all four axioms, [DOC]-grade), [[wiki/mind/concepts/conflict-
+architecture.md]] (axiom 1 as the concession mechanism's routing), and
+[[wiki/mind/synthesis/totality-themes.md]] (axiom 1 as the Irreversibility
 Firewall's worth-domain instance). **[ATTESTED]** — page-level phrase
 search against `raw/old-wiki-export-2026-09-04/whole.txt`, 497 pages,
 dated frontmatter.
@@ -211,11 +211,11 @@ him using the word, he is aiming it outward.
 **Earliest dated attestation: May 2026**, same CATO v2.0 quotation as
 axiom 1 — the two travel together from the first writing. **[ATTESTED]**.
 
-**In-wiki arrival: 2026-06-22**, on `wiki/self/context-core.md`,
-`wiki/mind/concepts/dans-law.md` ("operationalizes 'not vigilant =
+**In-wiki arrival: 2026-06-22**, on [[wiki/self/context-core.md]],
+[[wiki/mind/concepts/dans-law.md]] ("operationalizes 'not vigilant =
 annihilated' by treating false dismissal of a real signal as a survival
-error"), `wiki/mind/concepts/forensic-method.md`, and
-`wiki/mind/synthesis/ai-collaborative-analysis.md` ("the axiom 'not
+error"), [[wiki/mind/concepts/forensic-method.md]], and
+[[wiki/mind/synthesis/ai-collaborative-analysis.md]] ("the axiom 'not
 vigilant = annihilated' becomes 'do not let the model soften the data'").
 **[ATTESTED]** — same page-level search. Note the distribution: axiom 2
 is the *instrumental* axiom in the June batch — it shows up where the
@@ -244,8 +244,8 @@ practice visible since 2015.
 
 ### 3. Love that doesn't cost everything isn't real
 
-**Earliest dated attestation: 2026-06-22**, in-wiki — `wiki/self/context-
-core.md` and `wiki/mind/synthesis/totality-themes.md`. **[ATTESTED]**.
+**Earliest dated attestation: 2026-06-22**, in-wiki — [[wiki/self/context-
+core.md]] and [[wiki/mind/synthesis/totality-themes.md]]. **[ATTESTED]**.
 This axiom has no May 2026 attestation: it is absent from the CATO
 two-axiom stage entirely.
 
@@ -298,7 +298,7 @@ just its housing application, sits in the document. Second, what the
 TOTALITY doc demonstrably contains is the *application* (countdown to
 irreversibility, housing); the bare equation "time = countdown" in
 canonical form is first attested in-wiki on 2026-06-22
-(`wiki/self/context-core.md`, `wiki/mind/synthesis/totality-themes.md`).
+([[wiki/self/context-core.md]], [[wiki/mind/synthesis/totality-themes.md]]).
 The application may predate the equation's canonical phrasing — or the
 equation may have been in the TOTALITY doc all along. The record does not
 distinguish. **[UNKNOWN]**.

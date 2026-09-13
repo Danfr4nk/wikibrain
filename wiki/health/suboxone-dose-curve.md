@@ -1,6 +1,6 @@
 ---
 domain: health
-page_type: evidence-consolidation
+page_type: synthesis
 status: active
 knowledge: earned
 date_created: 2026-09-13
@@ -14,7 +14,7 @@ synthesizes:
   - wiki/health/chemical-architecture
   - wiki/health/the-configured-body
   - wiki/health/intake-ledger
-tags: [suboxone, dosage, evidence-inventory, negative-evidence, prescriber, supply-network, measurement]
+tags: [addiction-recovery, forensic-analysis, forensic-analysis]
 connections:
   - page: wiki/health/chemical-architecture
     type: supplies

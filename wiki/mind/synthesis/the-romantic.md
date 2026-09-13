@@ -20,7 +20,7 @@ synthesizes:
   - wiki/people/annie-ulmer
   - wiki/people/ally-lubin
   - wiki/mind/concepts/explicit-verbal-commitment
-tags: [relationships, attachment, affection, love-bombing, soliloquy, personality-profile]
+tags: [relationships, attachment, personality-profile]
 connections:
   - page: wiki/people/kristin
     type: evidenced-by

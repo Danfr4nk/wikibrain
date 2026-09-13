@@ -25,7 +25,7 @@ synthesizes:
   - wiki/mind/concepts/dans-law
   - wiki/health/chemical-architecture
   - wiki/health/cocaine
-tags: [origin-story, axioms, testimony, veracity, family-rupture, 2005, calibration]
+tags: [personality-profile, forensic-analysis, family, forensic-analysis]
 connections:
   - page: wiki/people/rick-frank
     type: evidenced-by
@@ -654,8 +654,8 @@ weeks. The dated anchors **[ATTESTED]**:
   retraction, "Ricky" register) — the wiki auditing its own testimony
   for the first time at scale.
 - **2026-09-10**: the port commit (b5098ca) — the canonical four-axiom
-  formulation arrives in `wiki/self/context-core.md` and
-  `wiki/mind/profile/index.md` fully formed, with no earlier local
+  formulation arrives in [[wiki/self/context-core.md]] and
+  [[wiki/mind/profile/index.md]] fully formed, with no earlier local
   history.
 - **2026-09-12**: the Rick page update (the repair, the stonewalling)
   — the hinge's present-tense renegotiation begins.
@@ -1231,7 +1231,7 @@ pass attempted to close it: searched `raw/self/dox-md/`,
 for the canonical strings ("not exceptional = worthless", "not vigilant
 = annihilated", "time = countdown") — no hits. Git archaeology on the
 wiki side: `git log -S` finds the canonical formulation arriving in
-`wiki/self/context-core.md` and `wiki/mind/profile/index.md` via the
+[[wiki/self/context-core.md]] and [[wiki/mind/profile/index.md]] via the
 2026-09-10 port commit (b5098ca), fully formed, with no earlier local
 history (the file was created in the port). So the formulation predates
 2026-09-10 and postdates... unknown. It is not in the reachable dossier

@@ -14,11 +14,6 @@ sources:
   - raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv
   - src:imessage_3307038747_both_all_now.csv
   - src:messenger-2026-09-12-pull
-  - wiki/work/bfs-foods.md
-  - wiki/places/337-saratoga-drive.md
-  - wiki/people/ally-lubin.md
-  - wiki/people/kristin.md
-  - wiki/timeline/periods/2025-collapse.md
 synthesizes:
   - wiki/mind/synthesis/severance-declarations
   - wiki/mind/synthesis/kristin-channel
@@ -33,7 +28,8 @@ synthesizes:
   - wiki/people/annie-ulmer
   - wiki/work/bfs-foods
   - wiki/places/337-saratoga-drive
-tags: [complication, selection, severance, witnesses, documentation, attachment, forensic-analysis, personality-profile]
+  - wiki/timeline/periods/2025-collapse
+tags: [personality-profile, relationships, forensic-analysis, attachment]
 connections:
   - page: wiki/mind/synthesis/severance-declarations
     type: instantiates

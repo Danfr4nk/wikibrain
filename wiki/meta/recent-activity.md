@@ -5,7 +5,7 @@ title: "Recent Activity"
 status: active
 knowledge: derived
 date_created: 2026-08-26
-date_modified: 2026-09-04
+date_modified: 2026-09-13
 sources: []
 ---
 
@@ -23,51 +23,146 @@ What changed, newest first, by the `date_modified` each page carries. The
 so a page that recorded why it moved says so here, and one that did not is
 simply listed.
 
-## 2026-09-04 — 41 pages
+## 2026-09-13 — 44 pages
+
+| Page | Domain | What moved |
+|---|---|---|
+| [[wiki/health/maintenance-vs-verdict]] | health | — |
+| [[wiki/health/suboxone-dose-curve]] | health | — |
+| [[wiki/meta/claim-validity]] | meta | — |
+| [[wiki/meta/digest]] | meta | — |
+| [[wiki/meta/open-questions]] | meta | _(carries a CONTRADICTION from 2026-07-20)_ |
+| [[wiki/meta/recent-activity]] | meta | _(carries a RE-CHECKED)_ |
+| [[wiki/meta/testimony-veracity]] | meta | — |
+| [[wiki/mind/concepts/explicit-verbal-commitment]] | mind | — |
+| [[wiki/mind/synthesis/2025-move-chronology]] | mind | — |
+| [[wiki/mind/synthesis/ai-collaborative-analysis]] | mind | — |
+| [[wiki/mind/synthesis/annie-ally-contrast]] | mind | — |
+| [[wiki/mind/synthesis/annie-thread-ally-sweep]] | mind | — |
+| [[wiki/mind/synthesis/audition-dynamics]] | mind | — |
+| [[wiki/mind/synthesis/aura-illness-compound-collapse]] | mind | — |
+| [[wiki/mind/synthesis/bond-vs-structure]] | mind | — |
+| [[wiki/mind/synthesis/chemical-architecture]] | mind | — |
+| [[wiki/mind/synthesis/concurrent-attachment-hypothesis]] | mind | — |
+| [[wiki/mind/synthesis/four-axioms-attestation]] | mind | — |
+| [[wiki/mind/synthesis/four-financial-inversions]] | mind | — |
+| [[wiki/mind/synthesis/kristin-channel]] | mind | — |
+| [[wiki/mind/synthesis/liked-dump-residue]] | mind | — |
+| [[wiki/mind/synthesis/may-august-2025-bridge]] | mind | — |
+| [[wiki/mind/synthesis/november-2005-hinge]] | mind | — |
+| [[wiki/mind/synthesis/provision-grammar]] | mind | — |
+| [[wiki/mind/synthesis/red-team-probe-series]] | mind | — |
+| [[wiki/mind/synthesis/self-deprecation-shield]] | mind | — |
+| [[wiki/mind/synthesis/severance-declaration-audit]] | mind | — |
+| [[wiki/mind/synthesis/severance-declarations]] | mind | — |
+| [[wiki/mind/synthesis/severance-language-atlas]] | mind | — |
+| [[wiki/mind/synthesis/supply-graph-vs-chain]] | mind | — |
+| [[wiki/mind/synthesis/taste-as-filter-stack]] | mind | — |
+| [[wiki/mind/synthesis/the-2025-collapse]] | mind | **RE-CHECKED** — this entry was written against the 2026-08-13 Paci rescope ("staged, not forced") and the 2026-09-11 operator confirmation (re-entry lands on the collapse). Both postdate the timeline period pages it  |
+| [[wiki/mind/synthesis/the-curse]] | mind | — |
+| [[wiki/mind/synthesis/the-romantic]] | mind | — |
+| [[wiki/mind/synthesis/the-scoreboard]] | mind | — |
+| [[wiki/mind/synthesis/transfer-comparative-2015-2026]] | mind | — |
+| [[wiki/mind/synthesis/vacancy-rule]] | mind | — |
+| [[wiki/mind/synthesis/witness-channel-declarations]] | mind | — |
+| [[wiki/people/libby-estate-claim]] | people | — |
+| [[wiki/people/tom-maison-supply-record]] | people | — |
+| [[wiki/self/message-corpora/message-request-blind-spot]] | self | — |
+| [[wiki/timeline/events/annie-alexis-reunion-november-2018]] | timeline | — |
+| [[wiki/work/tech/image-lab]] | work | — |
+| [[wiki/work/tech/index]] | work | — |
+
+## 2026-09-12 — 26 pages
+
+| Page | Domain | What moved |
+|---|---|---|
+| [[wiki/interests/chapo-trap-house]] | interests | — |
+| [[wiki/interests/dj-peach-cobbler]] | interests | — |
+| [[wiki/interests/hasan-piker]] | interests | — |
+| [[wiki/mind/concepts/autism]] | mind | — |
+| [[wiki/mind/concepts/non-fiction-only]] | mind | — |
+| [[wiki/mind/concepts/social-anxiety]] | mind | _(carries a REVISED from 2026-07-26)_ |
+| [[wiki/mind/synthesis/august-26-block-retraction]] | mind | **RE-CHECKED** — `block-unblock-loop` moved today (the Kristin inbound control case annotated, not asserted — dat:1452/1453). This page's reasoning from that loop — the 129-episode Annie declaration statistics — is un |
+| [[wiki/mind/synthesis/block-unblock-loop]] | mind | _(carries a RE-CHECKED from 2026-09-04)_ |
+| [[wiki/mind/synthesis/bond-switch-2015]] | mind | _(carries a RE-CHECKED from 2026-09-04)_ |
+| [[wiki/mind/synthesis/dance-music-only-phases]] | mind | — |
+| [[wiki/people/alexis-armel]] | people | _(carries a CORRECTED from 2026-09-02)_ |
+| [[wiki/people/annie-ulmer]] | people | _(carries a CORRECTED from 2026-08-23)_ |
+| [[wiki/people/casey-bondarenka]] | people | _(carries a CORRECTED from 2026-08-17)_ |
+| [[wiki/people/fran-coldren]] | people | _(carries a CONTRADICTION from 2026-08-02)_ |
+| [[wiki/people/kristin]] | people | _(carries a GAP CLOSED from 2026-08-17)_ |
+| [[wiki/people/lou-bahet]] | people | — |
+| [[wiki/people/valeria-iglesias-cid]] | people | — |
+| [[wiki/people/zach-clingan]] | people | **CORRECTED** — The third register named above — "a fellow caddie at Nemacolin in the autumn of 2017, trading weed and report times" — is withdrawn. On 2026-09-12 Dan testified that his Clingan ended on December 9, 2 |
+| [[wiki/people/zach-unidentified-843]] | people | — |
+| [[wiki/places/155-virginia-ave]] | places | _(carries a GAP CLOSED from 2026-08-22)_ |
+| [[wiki/self/concepts/claude]] | self | _(carries a CORRECTED from 2026-08-19)_ |
+| [[wiki/self/concepts/media-ingest]] | self | — |
+| [[wiki/self/youtube-watch-history]] | self | _(carries a REVISED from 2026-07-20)_ |
+| [[wiki/timeline/events/bald-eagle-cummings]] | timeline | — |
+| [[wiki/timeline/events/end-fight]] | timeline | **CORRECTED** — The previous version of this page attributed the June 1 closing line — *"Goodbye forever. This was not how it should have ended but. sic semper lupanis."* (2026-06-01 00:27:49 EDT) — to Annie, in two  |
+| [[wiki/work/tech/attraction-guide]] | work | — |
+
+## 2026-09-11 — 10 pages
+
+| Page | Domain | What moved |
+|---|---|---|
+| [[wiki/interests/index]] | interests | — |
+| [[wiki/mind/psychosexual/arrangement-history]] | mind | _(carries a CORRECTED from 2026-08-20)_ |
+| [[wiki/mind/psychosexual/index]] | mind | — |
+| [[wiki/mind/psychosexual/orchestration-and-voyeurism]] | mind | — |
+| [[wiki/mind/psychosexual/scenario-ratings-profile]] | mind | — |
+| [[wiki/mind/psychosexual/taboo-and-boundary-testing]] | mind | _(carries a CORRECTED from 2026-08-10)_ |
+| [[wiki/mind/synthesis/the-serial-monogamist]] | mind | — |
+| [[wiki/people/danny-matthews]] | people | — |
+| [[wiki/people/jaredtricia]] | people | — |
+| [[wiki/self/concepts/chatgpt]] | self | _(carries a GAP CLOSED from 2026-09-02)_ |
+
+## 2026-09-10 — 3 pages
+
+| Page | Domain | What moved |
+|---|---|---|
+| [[wiki/mind/synthesis/high-provision-low-condolence]] | mind | — |
+| [[wiki/mind/synthesis/the-name-is-the-instrument]] | mind | — |
+| [[wiki/mind/synthesis/the-register-never-closes]] | mind | — |
+
+## 2026-09-04 — 33 pages
 
 | Page | Domain | What moved |
 |---|---|---|
 | [[wiki/health/chemical-architecture]] | health | _(carries a GAP CLOSED from 2026-08-28)_ |
 | [[wiki/interests/concert-record/index]] | interests | — |
 | [[wiki/interests/favorites/music/artists/flight-of-the-conchords]] | interests | — |
-| [[wiki/interests/favorites/music/artists/hey-monday]] | interests | **GAP CLOSED** — The source table read *"2008 · Unknown · Orlando, FL · Still open — band formed 2008 in West Palm Beach; exact Orlando show unresolved."* Two tweets settle it, and they are worth reading together beca |
+| [[wiki/interests/favorites/music/artists/hey-monday]] | interests | **GAP CLOSED** — The source table read *"2008 ·* *Unknown · Orlando, FL · Still open — band formed 2008 in West Palm Beach;* *exact Orlando show unresolved."* Two tweets settle it, and they are worth reading together  |
 | [[wiki/interests/favorites/music/artists/jedi-mind-tricks]] | interests | — |
 | [[wiki/interests/favorites/music/artists/john-mayer]] | interests | — |
 | [[wiki/interests/favorites/music/artists/lil-wayne]] | interests | — |
 | [[wiki/interests/favorites/music/artists/the-starting-line]] | interests | — |
-| [[wiki/interests/food-and-diet]] | interests | **RE-CHECKED** — the-cool-metric gained a substantive section: the twitter archive shows the sorting metric run on a six-year live-in partner, with affection in the public register falling from 12 of 32 mentions in 20 |
+| [[wiki/interests/food-and-diet]] | interests | **RE-CHECKED** — **this page rather than threatening it.** the-cool-metric gained a substantive section: the twitter archive shows the sorting metric run on a six-year live-in partner, with affection in the public reg |
 | [[wiki/interests/music/aliases/sloppp]] | interests | _(carries a GAP CLOSED from 2026-09-02)_ |
 | [[wiki/interests/the-office]] | interests | — |
-| [[wiki/meta/digest]] | meta | — |
-| [[wiki/meta/open-questions]] | meta | _(carries a CONTRADICTION from 2026-07-20)_ |
-| [[wiki/meta/readers-digest]] | meta | — |
-| [[wiki/meta/recent-activity]] | meta | _(carries a GAP CLOSED)_ |
-| [[wiki/meta/testimony-veracity]] | meta | — |
 | [[wiki/mind/concepts/acquisition-drive]] | mind | _(carries a CONTRADICTION from 2026-08-02)_ |
 | [[wiki/mind/concepts/calibrated-confidence]] | mind | _(carries a CORRECTED from 2026-08-23)_ |
 | [[wiki/mind/concepts/chaos-preference]] | mind | **RE-CHECKED** — the-cool-metric gained a section showing the received-versus-sought sort aimed at an already-admitted person: a six-year partner whose public register goes ironic and then silent. This page's axis is  |
 | [[wiki/mind/concepts/the-cool-metric]] | mind | _(carries a RE-CHECKED from 2026-08-23)_ |
-| [[wiki/mind/synthesis/annual-volume-suz]] | mind | **RE-CHECKED** — suzanne-frank gained a section on six dated messages naming Judge Fred Adams, including her report of his death (2020-05-24). **No volume figure on this page is affected** — the messages were always i |
-| [[wiki/mind/synthesis/block-unblock-loop]] | mind | **RE-CHECKED** — rick-frank gained one typed edge and no prose: his 2018-01-06 message, already quoted on that page, is now also cited on fred-adams as the corpus's only statement of what Adams was to the family. **No |
-| [[wiki/mind/synthesis/bond-switch-2015]] | mind | **RE-CHECKED** — alexis-armel gained a measurement of the relationship's public register: it stops on **29 November 2013** and holds at zero for the last **twenty-four months**, across 1,132 posts, in years when his d |
-| [[wiki/mind/synthesis/dormancy-not-exit]] | mind | **RE-CHECKED** — alexis-armel gained a measurement of the relationship's public register — zero mentions across the last twenty-four months and 1,132 posts, in years when his distinct-handle count peaked at 57 — and |
+| [[wiki/mind/synthesis/annual-volume-suz]] | mind | **RE-CHECKED** — **untouched.** suzanne-frank gained a section on six dated messages naming Judge Fred Adams, including her report of his death (2020-05-24). **No volume figure on this page is affected** — the message |
+| [[wiki/mind/synthesis/dormancy-not-exit]] | mind | **RE-CHECKED** — **supporting evidence.** alexis-armel gained a measurement of the relationship's public register — zero mentions across the last twenty-four months and 1,132 posts, in years when his distinct-handle c |
 | [[wiki/mind/synthesis/estate-money-spine]] | mind | _(carries a RE-CHECKED from 2026-08-28)_ |
-| [[wiki/mind/synthesis/single-channel]] | mind | **RE-CHECKED** — the-cool-metric gained a section measuring the public register on the six-year partner: affection at 12 of 32 mentions in 2010, 3 of 47 across 2011-2014, then zero for the relationship's last twenty-f |
-| [[wiki/mind/synthesis/the-binary-verdict]] | mind | **RE-CHECKED** — the-cool-metric gained a section showing the sorting metric run on a six-year live-in partner: affection in the public register falls from 12 of 32 mentions in 2010 to 3 of 47 across 2011-2014, the la |
-| [[wiki/mind/synthesis/the-deferred-audit]] | mind | **RE-CHECKED** — the-cool-metric moved on 2026-09-04 by gaining a substantive section, not a re-check note: the twitter archive shows *splitting via irony* aimed at a six-year live-in partner rather than at strangers, |
+| [[wiki/mind/synthesis/single-channel]] | mind | **RE-CHECKED** — **this page with a datapoint rather than a problem.** the-cool-metric gained a section measuring the public register on the six-year partner: affection at 12 of 32 mentions in 2010, 3 of 47 across 201 |
+| [[wiki/mind/synthesis/the-binary-verdict]] | mind | **RE-CHECKED** — **one row of the table below.** the-cool-metric gained a section showing the sorting metric run on a six-year live-in partner: affection in the public register falls from 12 of 32 mentions in 2010 to  |
+| [[wiki/mind/synthesis/the-deferred-audit]] | mind | **RE-CHECKED** — **deferral argument survives it unchanged.** the-cool-metric moved on 2026-09-04 by gaining a substantive section, not a re-check note: the twitter archive shows *splitting* *via irony* aimed at a six |
 | [[wiki/mind/synthesis/the-unbroken-bond]] | mind | _(carries a RE-CHECKED from 2026-08-28)_ |
 | [[wiki/mind/synthesis/totality-themes]] | mind | **RE-CHECKED** — the-cool-metric, a member, gained a section extending the sorting metric's demonstrated range to an intimate partner. This page's thesis is about totality as a mode across domains, and a member gainin |
-| [[wiki/people/alexis-armel]] | people | _(carries a CORRECTED from 2026-09-02)_ |
-| [[wiki/people/ally-lubin-cognitive-profile]] | people | **RE-CHECKED** — the-cool-metric gained a section showing the metric run on a six-year live-in partner, with the warm public register collapsing to zero. That page already carries this profile's own contribution at th |
+| [[wiki/people/ally-lubin-cognitive-profile]] | people | **RE-CHECKED** — **each other.** the-cool-metric gained a section showing the metric run on a six-year live-in partner, with the warm public register collapsing to zero. That page already carries this profile's own co |
 | [[wiki/people/franki-faris]] | people | _(carries a REVISED from 2026-07-13)_ |
-| [[wiki/people/fred-adams]] | people | **CORRECTED** — This section read: *"Adams sends and receives nothing in the message corpus; every fact here comes from Dan's narration or from the estate attorney's calls, and the estate attorney reached in August 2 |
-| [[wiki/people/katie-fletcher]] | people | **CORRECTED** — this paragraph ended *"There is no message corpus for her — everything known arrives through Dan's later AI-session narration."* There is still no message corpus. But "everything known" was wrong: the |
+| [[wiki/people/fred-adams]] | people | **CORRECTED** — This section read: *"Adams sends and receives* *nothing in the message corpus; every fact here comes from Dan's narration or* *from the estate attorney's calls, and the estate attorney reached in Augu |
+| [[wiki/people/katie-fletcher]] | people | **CORRECTED** — this paragraph ended *"There is no message corpus* *for her — everything known arrives through Dan's later AI-session* *narration."* There is still no message corpus. But "everything known" was wrong: |
 | [[wiki/people/rick-frank]] | people | _(carries a CORRECTED from 2026-08-11)_ |
-| [[wiki/people/rod-banks]] | people | **CORRECTED** — This page was written from 41 messages in the CSV export and attributed their one-sidedness to the export. The dox-scan dump holds the same thread at **92 messages — 51 Sent, 41 Received.** Dan's half |
+| [[wiki/people/rod-banks]] | people | **CORRECTED** — **wrong, and the whole reading above was built on one side of a conversation.** This page was written from 41 messages in the CSV export and attributed their one-sidedness to the export. The dox-scan  |
 | [[wiki/people/suzanne-frank]] | people | _(carries a RE-CHECKED from 2026-08-26)_ |
-| [[wiki/people/suzanne-frank-personality-assessment]] | people | **RE-CHECKED** — suzanne-frank gained a section on her six messages naming Judge Fred Adams. **No scored dimension here is affected.** Worth recording for a later pass: the 2018-11-05 message asks a sitting judge and  |
+| [[wiki/people/suzanne-frank-personality-assessment]] | people | **RE-CHECKED** — **assessment rather than against it.** suzanne-frank gained a section on her six messages naming Judge Fred Adams. **No scored dimension** **here is affected.** Worth recording for a later pass: the 2 |
 | [[wiki/self/twitter/2008]] | self | _(carries a GAP CLOSED from 2026-09-03)_ |
-| [[wiki/self/twitter/2014]] | self | **CORRECTED** — She is barely here. Those two are the whole year against **23 in 2013**, and the collapse is specific to her rather than to the account: 2014's @-mention *rate* is the second highest of the era at 374 |
+| [[wiki/self/twitter/2014]] | self | **CORRECTED** — **without their denominator.** She is barely here. Those two are the whole year against **23 in 2013**, and the collapse is specific to her rather than to the account: 2014's @-mention *rate* is the s |
 
 ## 2026-09-03 — 33 pages
 
@@ -88,7 +183,7 @@ simply listed.
 | [[wiki/self/location-history]] | self | _(carries a CONTRADICTION from 2026-09-02)_ |
 | [[wiki/self/twitter]] | self | _(carries a CONTRADICTION)_ |
 | [[wiki/self/twitter/2009]] | self | **CONTRADICTION** — `raw/self/context-core/CONTEXT_CORE_EXPANDED.md` states *"AS Recording Arts; graduated Aug 2009 (top 5%)"*, and `wiki/timeline/periods/full-sail-2008-2010` and `wiki/people/alexis-armel` both build on |
-| [[wiki/self/twitter/2010]] | self | **CONTRADICTION** — the anchor is misread. The 18 February train was the **return** leg, not the outbound one. On 17 February Dan is already in New York (*"off to Williamsburg"*), and on the 18th he is *"On the train bac |
+| [[wiki/self/twitter/2010]] | self | **CONTRADICTION** — the anchor is misread. The 18 February train was the **return** leg, not the outbound one. On 17 February Dan is already in New York (*"off to Williamsburg"*), and on the 18th he is *"On the train* *b |
 | [[wiki/self/twitter/2011]] | self | — |
 | [[wiki/self/twitter/2012]] | self | — |
 | [[wiki/self/twitter/2013]] | self | — |
@@ -105,7 +200,7 @@ simply listed.
 | [[wiki/self/twitter/2025]] | self | — |
 | [[wiki/self/twitter/2026]] | self | — |
 | [[wiki/timeline/events/franki-fireworks-day-2013]] | timeline | — |
-| [[wiki/timeline/periods/full-sail-2008-2010]] | timeline | **CONTRADICTION** — the August 2009 graduation date is contradicted by Dan's own contemporaneous public record, in two independent places. On **2009-08-31** he wrote *"so weirded out i start my last month of college tomo |
+| [[wiki/timeline/periods/full-sail-2008-2010]] | timeline | **CONTRADICTION** — the August 2009 graduation date is contradicted by Dan's own contemporaneous public record, in two independent places. On **2009-08-31** he wrote *"so weirded out i start my last month of* *college to |
 
 ## 2026-09-02 — 10 pages
 
@@ -113,20 +208,20 @@ simply listed.
 |---|---|---|
 | [[wiki/meta/index]] | meta | — |
 | [[wiki/meta/instruments/index]] | meta | — |
-| [[wiki/people/eric-jester]] | people | **CORRECTED** — this page described the friendship itself as "sparse but genuinely warm." That is an accurate reading of the *message thread*, which begins **May 2017**. It is not an accurate description of the frien |
+| [[wiki/meta/readers-digest]] | meta | — |
+| [[wiki/people/eric-jester]] | people | **CORRECTED** — this page described the friendship itself as "sparse but genuinely warm." That is an accurate reading of the *message* *thread*, which begins **May 2017**. It is not an accurate description of the fri |
 | [[wiki/people/shane-brannan]] | people | — |
 | [[wiki/people/vanessa-frank]] | people | _(carries a REVISED from 2026-07-14)_ |
 | [[wiki/self/facebook]] | self | **CONTRADICTION** — This paragraph used to say *every* field cross-checks. One does not. `places lived` gives **Brooklyn NYC from January 3, 2010**. The tweet archive has Dan in Florida for another eight weeks: *"moving  |
 | [[wiki/self/index]] | self | — |
 | [[wiki/self/tattoos]] | self | **CORRECTED** — this page previously read "**entirely** cultural reference … *every* known piece points at a specific record, band, or artist rather than a generic symbol," and dated the earliest well-documented piec |
-| [[wiki/timeline/periods/2010s]] | timeline | **GAP CLOSED** — the gap, as this page stated it — *"the exact 2010 move date is unresolved (context-core's residence table starts Brooklyn in April 2010, while an earlier note claimed a January 3 move — the Florida t |
-| [[wiki/work/tech/index]] | work | — |
+| [[wiki/timeline/periods/2010s]] | timeline | **GAP CLOSED** — the gap, as this page stated it — *"the* *exact 2010 move date is unresolved (context-core's residence table* *starts Brooklyn in April 2010, while an earlier note claimed a January* *3 move — the Flo |
 
 ## 2026-09-01 — 2 pages
 
 | Page | Domain | What moved |
 |---|---|---|
-| [[wiki/interests/favorites/eclecticism]] | interests | **REVISED** — This page last moved on 2026-06-23. Twenty-one days later the music member was rewritten from a cluster inventory into a two-wave, three-cluster, eighteen-year continuity argument with a lyrics-as-tim |
+| [[wiki/interests/favorites/eclecticism]] | interests | **REVISED** — **music (moved 2026-07-14).** This page last moved on 2026-06-23. Twenty-one days later the music member was rewritten from a cluster inventory into a two-wave, three-cluster, eighteen-year continuity |
 | [[wiki/timeline/index]] | timeline | — |
 
 ## 2026-08-31 — 4 pages
@@ -136,7 +231,7 @@ simply listed.
 | [[wiki/health/cocaine]] | health | _(carries a RE-CHECKED from 2026-08-28)_ |
 | [[wiki/health/index]] | health | — |
 | [[wiki/health/intake-ledger]] | health | — |
-| [[wiki/health/the-configured-body]] | health | **RE-CHECKED** — cocaine and chemical-architecture both gained the intake ledger's first measured night (2026-08-30/31: one 0.75 g cocaine unit over 9h 31m in six doses, three 0.05 g cannabis units; the unit reconcile |
+| [[wiki/health/the-configured-body]] | health | **RE-CHECKED** — **is on this page's side.** cocaine and chemical-architecture both gained the intake ledger's first measured night (2026-08-30/31: one 0.75 g cocaine unit over 9h 31m in six doses, three 0.05 g cannab |
 
 ## 2026-08-30 — 1 page
 
@@ -144,11 +239,11 @@ simply listed.
 |---|---|---|
 | [[wiki/meta/skills]] | meta | — |
 
-## 2026-08-28 — 18 pages
+## 2026-08-28 — 15 pages
 
 | Page | Domain | What moved |
 |---|---|---|
-| [[wiki/mind/synthesis/alias-as-periodization]] | mind | **RE-CHECKED** — totality-themes gained two RE-CHECKED notes (2026-08-28) confirming a `dormancy-not-exit` correction (a five-day tenure figure reattributed from Franki Faris to Alexis Armel) touches neither page. **N |
+| [[wiki/mind/synthesis/alias-as-periodization]] | mind | **RE-CHECKED** — **the mechanism this page was missing on the invariant side.** totality-themes gained two RE-CHECKED notes (2026-08-28) confirming a `dormancy-not-exit` correction (a five-day tenure figure reattribut |
 | [[wiki/mind/synthesis/attachment-trauma-bond]] | mind | **RE-CHECKED** — flagged stale against suzanne-frank (2026-08-28), which added a pre-Annie, Alexis-era eviction/concealment episode (2013–2014, Uniontown). It touches neither the Annie-era material nor any figure this |
 | [[wiki/mind/synthesis/august-grievance-verdict]] | mind | **RE-CHECKED** — flagged stale against attachment-trauma-bond (2026-08-28), which gained a RE-CHECKED note tracing back to a pre-Annie, 2013–2014 Alexis-era eviction/concealment episode on suzanne-frank. It touc |
 | [[wiki/mind/synthesis/dan-annie-fallout-verdict]] | mind | _(carries a RE-CHECKED from 2026-08-26)_ |
@@ -162,21 +257,17 @@ simply listed.
 | [[wiki/mind/synthesis/the-commissioned-self]] | mind | **RE-CHECKED** — flagged stale against instrument-is-subject (2026-08-28), which added a constitution-pass mechanism section: Ti-dominance explains why the exocortex prompt's evidentiary standard takes the specific sh |
 | [[wiki/mind/synthesis/the-embedded-objective]] | mind | **RE-CHECKED** — flagged stale against 2015-possession-arrest (2026-08-28), which added a second, differently-dated operator account of an Alexis eviction/concealment episode used only to help date that page's arrest  |
 | [[wiki/mind/synthesis/the-rescue-premise]] | mind | **RE-CHECKED** — flagged stale against dormancy-not-exit (2026-08-28), which resolved a standing contradiction over whether a five-day tenure figure belonged to Franki Faris or to Alexis Armel's 2013 displacement — a  |
-| [[wiki/mind/synthesis/the-serial-monogamist]] | mind | — |
-| [[wiki/people/zach-clingan]] | people | **GAP CLOSED** — The 2014 "drug people" taxonomy and the December 2015 "my arch rival" outburst (below) both assume a rupture the corpus had never actually recorded. A 2026-08-27 operator capture (`raw/people/captures |
-| [[wiki/places/155-virginia-ave]] | places | _(carries a GAP CLOSED from 2026-08-22)_ |
 | [[wiki/places/the-unpapered-address]] | places | **RE-CHECKED** — estate-money-spine gained a constitution-pass mechanism section (the Altruism-1 inversion explaining the $14,000 family loan) and a full register table. Nothing in it touches tenancy, paper, or any of |
 
-## 2026-08-27 — 4 pages
+## 2026-08-27 — 3 pages
 
 | Page | Domain | What moved |
 |---|---|---|
 | [[wiki/interests/language/vocabulary-lexicon]] | interests | — |
 | [[wiki/mind/profile/linguistic-profile]] | mind | **GAP CLOSED** — the operator volunteered the full "words for stupid" list against this page. It was not a gap this page had stated — unprompted material, staged here for the ingest to place. Placed here, in Lexical f |
-| [[wiki/people/danny-matthews]] | people | — |
-| [[wiki/places/117-belmont-circle]] | places | **GAP CLOSED** — the page previously said *"whether the sale actually closed, when, to whom and for how much is undocumented; the record stops at 'pending.'"* Two of those four are now answered — **when** (summer 2019 |
+| [[wiki/places/117-belmont-circle]] | places | **GAP CLOSED** — the page previously said *"whether the sale* *actually closed, when, to whom and for how much is undocumented; the record* *stops at 'pending.'"* Two of those four are now answered — **when** (summer  |
 
-## 2026-08-26 — 47 pages
+## 2026-08-26 — 43 pages
 
 | Page | Domain | What moved |
 |---|---|---|
@@ -200,8 +291,6 @@ simply listed.
 | [[wiki/mind/profile/lexicon]] | mind | — |
 | [[wiki/mind/profile/neurodivergence]] | mind | — |
 | [[wiki/mind/profile/voice-modes]] | mind | _(carries a CONTRADICTION)_ |
-| [[wiki/mind/psychosexual/arrangement-history]] | mind | _(carries a CORRECTED from 2026-08-20)_ |
-| [[wiki/mind/synthesis/ai-collaborative-analysis]] | mind | — |
 | [[wiki/mind/synthesis/closing-the-set]] | mind | _(carries a RE-CHECKED from 2026-08-23)_ |
 | [[wiki/mind/synthesis/intensity-is-no-longer-the-only-mode]] | mind | — |
 | [[wiki/mind/synthesis/political-psyops]] | mind | — |
@@ -209,15 +298,13 @@ simply listed.
 | [[wiki/people/ally-lubin]] | people | _(carries a CORRECTED from 2026-08-22)_ |
 | [[wiki/people/annie-ulmer-personality-assessment]] | people | _(carries a RE-CHECKED from 2026-08-23)_ |
 | [[wiki/people/bekah-fullem]] | people | — |
-| [[wiki/people/fran-coldren]] | people | _(carries a CONTRADICTION from 2026-08-02)_ |
 | [[wiki/people/jerad-friedline]] | people | **RE-CHECKED** — `bin/wiki-climb check` flagged this page stale against context-core, which moved on 2026-08-26. The premise did not move in substance — the only change on that page was one new `connections:` entry cr |
-| [[wiki/people/kristin]] | people | _(carries a GAP CLOSED from 2026-08-17)_ |
-| [[wiki/people/menore]] | people | **GAP CLOSED** — the operator, T0, first person (`raw/people/captures/2026-08-26_034338_gap-menore.md`): *"I had a flip phone that year."* 2022's silence has an ordinary explanation that does not require a service bre |
+| [[wiki/people/menore]] | people | **GAP CLOSED** — the operator, T0, first person (`raw/people/captures/2026-08-26_034338_gap-menore.md`): *"I had a flip* *phone that year."* 2022's silence has an ordinary explanation that does not require a service b |
 | [[wiki/people/milo]] | people | _(carries a GAP CLOSED from 2026-08-17)_ |
 | [[wiki/people/shelbie-breakiron]] | people | — |
 | [[wiki/people/tom]] | people | — |
 | [[wiki/self/ancestry]] | self | — |
-| [[wiki/self/concepts/ally-and-dan-love-as-destiny]] | self | **RE-CHECKED** — flagged stale against ally-lubin (2026-08-26), which integrated a full unprompted love letter sent August 21, 2026 (*"I've spent 10 years… I just never got over it"* / *"still haven't lost interest… # |
+| [[wiki/self/concepts/ally-and-dan-love-as-destiny]] | self | **RE-CHECKED** — flagged stale against ally-lubin (2026-08-26), which integrated a full unprompted love letter sent August 21, 2026 (*"I've spent 10 years… I just never got over it"* / *"still haven't* *lost interest… |
 | [[wiki/self/concepts/astrology-star-signs]] | self | **RE-CHECKED** — flagged stale again against ally-lubin (2026-08-26), which integrated a staged love letter and a sage finding about a mutual-correction sequence and a joke line ("I'm a SINGLE MOTHER"). None of the th |
 | [[wiki/self/context-core]] | self | _(carries a CORRECTED)_ |
 | [[wiki/self/overview]] | self | — |
@@ -228,20 +315,19 @@ simply listed.
 | [[wiki/work/fastly-fsly]] | work | _(carries a RE-CHECKED from 2026-08-21)_ |
 | [[wiki/work/tech/max-framework/overview]] | work | — |
 
-## 2026-08-23 — 15 pages
+## 2026-08-23 — 14 pages
 
 | Page | Domain | What moved |
 |---|---|---|
 | [[wiki/mind/concepts/attachment-model]] | mind | _(carries a GAP CLOSED from 2026-08-22)_ |
-| [[wiki/mind/concepts/reassurance-architecture]] | mind | **REVISED** — The first version of this page assumed, from message-circadian-latency, that Dan was transmitting into a channel that answered slowly — *"broadcasting into a slow or silent void."* **That claim has si |
+| [[wiki/mind/concepts/reassurance-architecture]] | mind | **REVISED** — The first version of this page assumed, from message-circadian-latency, that Dan was transmitting into a channel that answered slowly — *"broadcasting into a slow or silent* *void."* **That claim has  |
 | [[wiki/mind/profile/texting-deviance-audit]] | mind | _(carries a CONTRADICTION)_ |
-| [[wiki/mind/synthesis/message-circadian-latency]] | mind | **CORRECTED** — This section previously opened *"The headline: a 9× reply-latency asymmetry with Annie"* and concluded: *"Dan answers almost everyone within 1–5 minutes. The people he messages answer him on a complet |
+| [[wiki/mind/synthesis/message-circadian-latency]] | mind | **CORRECTED** — **the error is reproducible.** This section previously opened *"The headline: a 9×* *reply-latency asymmetry with Annie"* and concluded: *"Dan answers almost* *everyone within 1–5 minutes. The people  |
 | [[wiki/people/alice]] | people | — |
-| [[wiki/people/annie-ulmer]] | people | **CORRECTED** — The standing account of Annie's working life — sourced to `raw/self/dox-md/Honest assessment and value judgment analysis.md` and repeated downstream — is that she *"was fired in 2023 and spent a full  |
-| [[wiki/people/claire-ulmer]] | people | **GAP CLOSED** — This page previously read *"Claire has children — an unnamed niece and nephew."* **They are named.** Alice appears **66 times** between October 2023 and July 2025 and Otto **31 times** over the same s |
+| [[wiki/people/claire-ulmer]] | people | **GAP CLOSED** — This page previously read *"Claire has children —* *an unnamed niece and nephew."* **They are named.** Alice appears **66 times** between October 2023 and July 2025 and Otto **31 times** over the same |
 | [[wiki/people/garrett]] | people | — |
 | [[wiki/people/index]] | people | — |
-| [[wiki/people/johnny-dealer]] | people | **RE-CHECKED** — master-message-dump moved on 2026-08-23 when its "avg ~8.36 words/message" Voice Patterns line was corrected to a per-era series (8.34 in 2015–19 rising to 15.03 in 2026). Nothing this page draws from |
+| [[wiki/people/johnny-dealer]] | people | **RE-CHECKED** — **measurement adds a fact this page did not have.** master-message-dump moved on 2026-08-23 when its "avg ~8.36 words/message" Voice Patterns line was corrected to a per-era series (8.34 in 2015–19 ri |
 | [[wiki/people/libby]] | people | **GAP CLOSED** — The first version of this page carried the identification as **inferred**, on two supports: Dan's own contemporaneous Tumblr link (`girlfriend-muse-libby-titus-elizabeth-jurist`, sent 2024-03-17, six  |
 | [[wiki/people/otto]] | people | — |
 | [[wiki/places/derrick-avenue]] | places | — |
@@ -255,17 +341,16 @@ simply listed.
 | [[wiki/legal/2015-retail-theft-arrest]] | legal | _(carries a REVISED from 2026-08-03)_ |
 | [[wiki/legal/index]] | legal | — |
 | [[wiki/places/337-saratoga-drive]] | places | _(carries a REVISED from 2026-08-18)_ |
-| [[wiki/timeline/events/uniontown-hospital-vape-alarm]] | timeline | **GAP CLOSED** — This page asked, from its creation until now, *"Whether a summary offense was actually filed with a Fayette County magistrate, or whether the paperwork was an incident report a security guard describe |
+| [[wiki/timeline/events/uniontown-hospital-vape-alarm]] | timeline | **GAP CLOSED** — This page asked, from its creation until now, *"Whether a summary offense was actually filed with a Fayette County* *magistrate, or whether the paperwork was an incident report a security guard* *desc |
 
-## 2026-08-21 — 6 pages
+## 2026-08-21 — 5 pages
 
 | Page | Domain | What moved |
 |---|---|---|
 | [[wiki/people/emaly-minerd]] | people | — |
 | [[wiki/people/trinity-st-clair]] | people | — |
-| [[wiki/self/concepts/chatgpt]] | self | _(carries a GAP CLOSED from 2026-09-02)_ |
-| [[wiki/self/concepts/llm]] | self | **CORRECTED** — this section previously presented all three bullets below as *"his analysis."* They are **Gemini's**, generated in the 2025-08-24 session from Dan's five-word prompt *"gemini i think chatGPT is cooked |
-| [[wiki/self/concepts/wiki-brain]] | self | **RE-CHECKED** — llm moved on 2026-08-21: Gemini's 'chicken nugget' passage was corrected off Dan's ledger, and the post-GPT-5 causation of ChatGPT's decline was marked untested. This page carries an edge claiming Cha |
+| [[wiki/self/concepts/llm]] | self | **CORRECTED** — this section previously presented all three bullets below as *"his analysis."* They are **Gemini's**, generated in the 2025-08-24 session from Dan's five-word prompt *"gemini i think chatGPT is* *cook |
+| [[wiki/self/concepts/wiki-brain]] | self | **RE-CHECKED** — **claim without overturning it.** llm moved on 2026-08-21: Gemini's 'chicken nugget' passage was corrected off Dan's ledger, and the post-GPT-5 causation of ChatGPT's decline was marked untested. This |
 | [[wiki/work/au-zaatar]] | work | _(carries a REVISED from 2026-07-14)_ |
 
 ## 2026-08-20 — 16 pages
@@ -273,11 +358,11 @@ simply listed.
 | Page | Domain | What moved |
 |---|---|---|
 | [[wiki/legal/463-morgantown]] | legal | _(carries a CORRECTED from 2026-08-18)_ |
-| [[wiki/mind/concepts/contact-gini]] | mind | **REVISED** — This section says the June 2026 closure was comprehensive *"because no redundant support infrastructure was prepared."* The August 2026 exports show that is not quite true. Across August 18–19, 2026 — |
+| [[wiki/mind/concepts/contact-gini]] | mind | **REVISED** — **and the page's own metric hid it.** This section says the June 2026 closure was comprehensive *"because no redundant support infrastructure was* *prepared."* The August 2026 exports show that is not |
 | [[wiki/mind/concepts/document-fabrication]] | mind | — |
 | [[wiki/people/alexander-jackson]] | people | **RE-CHECKED** — flagged stale against 463-morgantown (2026-08-20). That page gained a section on the address becoming a threat vector — Coles sending it to Dan unprompted on 2026-08-17 — and one typed edge. Re-read a |
 | [[wiki/people/arnu]] | people | **RE-CHECKED** — flagged stale against 463-morgantown (2026-08-20). That page gained a section on the address as a threat vector and one typed edge. Re-read against the change; **no claim on this page is affected** an |
-| [[wiki/people/bruce-burish]] | people | **CORRECTED** — both versions of this page reported the thread as **181 messages**, and the stub added that they were *"all received (export artifact — Dan's outbound not captured)."* **181 is exactly the received co |
+| [[wiki/people/bruce-burish]] | people | **CORRECTED** — both versions of this page reported the thread as **181 messages**, and the stub added that they were *"all received (export* *artifact — Dan's outbound not captured)."* **181 is exactly the received* |
 | [[wiki/people/ellen-ulmer]] | people | _(carries a GAP CLOSED from 2026-08-17)_ |
 | [[wiki/people/james-dee]] | people | **GAP CLOSED** — The operator supplied the answer directly: **"Last name is Spiker."** Filed verbatim as T0 evidence in `raw/people/captures/2026-08-20_015525_gap-james-dee.md`. The page now records **Spiker** as the  |
 | [[wiki/people/jerel-coles]] | people | — |
@@ -285,11 +370,11 @@ simply listed.
 | [[wiki/people/tuquick-17248123683]] | people | _(carries a REVISED from 2026-08-09)_ |
 | [[wiki/people/zaco]] | people | — |
 | [[wiki/self/message-corpora/source-coverage-index]] | self | — |
-| [[wiki/timeline/events/august-2026-morgantown-call]] | timeline | **CORRECTED** — *"fourteen separate times between 06:30 and 12:31"* → **twenty times, 06:31 to 14:17.** Undercounted by six, and the window was cut short by nearly two minutes; he is still saying it ninety seconds be |
+| [[wiki/timeline/events/august-2026-morgantown-call]] | timeline | **CORRECTED** — **from the secondary transcript.** - *"fourteen separate times between 06:30 and 12:31"* → **twenty times,** **06:31 to 14:17.** Undercounted by six, and the window was cut short by nearly two minutes |
 | [[wiki/timeline/events/august-2026-morgantown-call-source-amendment]] | timeline | — |
 | [[wiki/timeline/events/august-2026-unmasking]] | timeline | — |
 
-## 2026-08-19 — 18 pages
+## 2026-08-19 — 16 pages
 
 | Page | Domain | What moved |
 |---|---|---|
@@ -299,7 +384,7 @@ simply listed.
 | [[wiki/interests/film-canon]] | interests | — |
 | [[wiki/interests/gore-vidal]] | interests | — |
 | [[wiki/interests/roman-republic]] | interests | — |
-| [[wiki/mind/concepts/dans-law]] | mind | **CONTRADICTION** — Its signature move is to treat a missing paper trail as the operative feature of an arrangement rather than an oversight: at BFS the absence of documentation on a $50 cash demand *is* the demand's mec |
+| [[wiki/mind/concepts/dans-law]] | mind | **CONTRADICTION** — **lives.** Its signature move is to treat a missing paper trail as the operative feature of an arrangement rather than an oversight: at BFS the absence of documentation on a $50 cash demand *is* the d |
 | [[wiki/mind/concepts/the-handed-mirror]] | mind | _(carries a CORRECTED from 2026-08-18)_ |
 | [[wiki/mind/profile/big-five-psychometrics]] | mind | _(carries a CONTRADICTION from 2026-08-02)_ |
 | [[wiki/mind/profile/socionics-and-attitudinal]] | mind | — |
@@ -307,68 +392,35 @@ simply listed.
 | [[wiki/mind/synthesis/interests-as-era-markers]] | mind | — |
 | [[wiki/places/307-e-76th-st]] | places | **GAP CLOSED** — the Gaps note above records the monthly rent as not recovered. It is in the message dump twice, from Dan's own outbound. **2024-05-02:** *"I mean that's fine but the last lease we signed was 2450."* * |
 | [[wiki/places/90th-st-manhattan]] | places | _(carries a CORRECTED from 2026-08-10)_ |
-| [[wiki/self/concepts/claude]] | self | **CORRECTED** — An earlier version of this page reversed both attributions — it credited "Claude = to analyze stuff" to Tom and "It did really well with the Kristin chat logs. Better than GPT" to Dan, and dated the e |
 | [[wiki/self/concepts/claude-code]] | self | _(carries a RE-CHECKED)_ |
 | [[wiki/self/concepts/gemini]] | self | **CORRECTED** — An earlier version of this page quoted Gemini's ChatGPT autopsy — "access and replicate a linguistic pattern from a specific subculture without an immediate, top-down ethical override," "every system  |
-| [[wiki/self/youtube-watch-history]] | self | _(carries a REVISED from 2026-07-20)_ |
 
-## 2026-08-18 — 14 pages
+## 2026-08-18 — 13 pages
 
 | Page | Domain | What moved |
 |---|---|---|
-| [[wiki/interests/index]] | interests | — |
 | [[wiki/interests/music/concepts/lyrics-as-timbre]] | interests | — |
 | [[wiki/people/danielle-onesi]] | people | **CORRECTED** — this paragraph had the identification right and the wiki did not act on it. A separate entity page, `wiki/people/max-danielle-bf`, was created in June 2026 for the same man under the name "Max" — read |
 | [[wiki/people/dave-moore]] | people | — |
-| [[wiki/people/diane-moore]] | people | **CORRECTED** — This page previously titled her *"Diane (Rebecca Diane Van Voorhis Shrum)"* and stated outright that the surname was *"given here as Shrum on the strength of the documented marriage rather than a reco |
+| [[wiki/people/diane-moore]] | people | **CORRECTED** — **had it.** This page previously titled her *"Diane (Rebecca Diane Van Voorhis* *Shrum)"* and stated outright that the surname was *"given here as Shrum on* *the strength of the documented marriage ra |
 | [[wiki/people/john-felix]] | people | **REVISED** — The partner reading above is **not supported** by the source this page never checked. The `+17249636738` thread does run only February–June 2016, but "Felix" appears in the Suz thread **continuously f |
-| [[wiki/people/max]] | people | **CORRECTED** — This page previously read: *"Separate from real person 'Max' (Danielle's BF, 'the Dude', music guy / CNA-to-producer from Gemini-_21.md)."* The only two occurrences of the name in `Gemini-_21.md` are  |
+| [[wiki/people/max]] | people | **CORRECTED** — This page previously read: *"Separate from real person 'Max' (Danielle's BF, 'the* *Dude', music guy / CNA-to-producer from Gemini-_21.md)."* The only two occurrences of the name in `Gemini-_21.md` ar |
 | [[wiki/self/lineage/family-tree]] | self | **CORRECTED** — The tree previously carried her only under her birth name and the wiki's entity page under an inferred "Shrum." The message corpus names her twice on 2018-04-01 as **Diane Moore**, alongside **Dave Mo |
 | [[wiki/timeline/annie-read-notes]] | timeline | — |
 | [[wiki/timeline/annie-record]] | timeline | — |
 | [[wiki/timeline/events/james-analysis-pdf]] | timeline | — |
 | [[wiki/timeline/events/july-2026-recontact]] | timeline | — |
-| [[wiki/timeline/events/july-august-2026-reentanglement]] | timeline | **CORRECTED** — this section read the two as *"resolving opposite ways"* and derived from the contrast a rule that **announcement is the mechanism of non-execution.** Both halves are withdrawn, by this page's own lat |
+| [[wiki/timeline/events/july-august-2026-reentanglement]] | timeline | **CORRECTED** — this section read the two as *"resolving opposite* *ways"* and derived from the contrast a rule that **announcement is the** **mechanism of non-execution.** Both halves are withdrawn, by this page's o |
 | [[wiki/timeline/periods/2018-deep-cycle]] | timeline | **CORRECTED** — the clause above read *"mom borrow $750/wk."* The rate does not exist and its direction is inverted. The corpus holds one $750 statement — an accusation about a single week, made in a 13 December 2018 |
 
-## 2026-08-17 — 7 pages
+## 2026-08-17 — 6 pages
 
 | Page | Domain | What moved |
 |---|---|---|
-| [[wiki/people/casey-bondarenka]] | people | **CORRECTED** — "Overstayed his welcome" implied an established friendship. The hand-read of the Annie corpus (annie-record) dates his arrival precisely: on 2015-11-30 Dan complains *"Casey will never stfu here"* and |
 | [[wiki/people/emilio]] | people | — |
 | [[wiki/people/zachariah-harshman]] | people | — |
 | [[wiki/self/gemini-activity/archive/v1-extract]] | self | — |
 | [[wiki/timeline/2015-annie-read-wiki-impact-analysis]] | timeline | — |
-| [[wiki/timeline/events/robotussin-s-last-dance]] | timeline | **GAP CLOSED** — This page asked *"whether any of the three were sober enough to make decisions by the time they left Ruby Tuesday's."* The operator: **"on the contrary, we were all MUCH less sober and subsequently ev |
-| [[wiki/timeline/periods/2015-2016-annie-relationship-start]] | timeline | **CORRECTED** — The dossier baseline above reads as though two days of relationship had elapsed before *"YOU ARE MY EVERYTHING."* The hand-read (annie-record) times it to **2015-11-29 03:24**, with *"You are my full  |
-
-## 2026-08-16 — 1 page
-
-| Page | Domain | What moved |
-|---|---|---|
-| [[wiki/timeline/events/shelbie-annie-threesome-april-2019]] | timeline | **GAP CLOSED** — This page carried "Exact date within April 2019 is not established. Whether this was a one-time event or recurred beyond the June 8 exchange is unknown" as an open question since 2026-07-14. The opera |
-
-## 2026-08-15 — 3 pages
-
-| Page | Domain | What moved |
-|---|---|---|
-| [[wiki/timeline/events/timeline]] | timeline | — |
-| [[wiki/timeline/master-timeline]] | timeline | _(carries a CONTRADICTION from 2026-07-20)_ |
-| [[wiki/timeline/periods/uniontown-return-2013-2015]] | timeline | **CORRECTED** — The message behind it (*"Lex cheated on me 2 weeks in after I moved her to fla"*) is Dan telling Annie how the Alexis relationship **began, in 2009**, at Full Sail — the line before it is *"the exact  |
-
-## 2026-08-14 — 2 pages
-
-| Page | Domain | What moved |
-|---|---|---|
-| [[wiki/self/lineage/23andme-genomics]] | self | **CORRECTED** — The previous version of this page claimed the source PDFs were "image-based without an extractable text layer" and that "specific percentage values are not digitally recorded." This was wrong. All thr |
-| [[wiki/self/lineage/hybrid-analysis]] | self | — |
-
-## 2026-08-13 — 1 page
-
-| Page | Domain | What moved |
-|---|---|---|
-| [[wiki/people/john-paci]] | people | **REVISED** — the version of this page written on 2026-08-10 described a warm, long-suffering landlord and an eviction that simply happened to him and to his tenants. The eviction was staged at Dan's request. The r |
-
-
+| [[wiki/timeline/events/robotussin-s-last-dance]] | timeline | **GAP CLOSED** — This page asked *"whether any of the three were sober enough to make decisions by the* *time they left Ruby Tuesday's."* The operator: **"on the contrary, we were all MUCH less sober and subsequently  |
+| [[wiki/timeline/periods/2015-2016-annie-relationship-start]] | timeline | **CORRECTED** — **days.** The dossier baseline above reads as though two days of relationship had elapsed before *"YOU ARE MY EVERYTHING."* The hand-read (annie-record) times it to **2015-11-29 03:24**, with *"You* * |
 

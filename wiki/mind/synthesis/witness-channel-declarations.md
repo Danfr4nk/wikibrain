@@ -22,7 +22,7 @@ synthesizes:
   - wiki/people/annie-ulmer
   - wiki/timeline/events/august-2026-morgantown-call
   - wiki/timeline/events/group-chat-closure
-tags: [attachment, speech-acts, relationships, ally-lubin, annie-ulmer, forensics, witnesses, severance]
+tags: [attachment, relationships, forensic-analysis]
 connections:
   - page: wiki/mind/synthesis/severance-declarations
     type: component-of

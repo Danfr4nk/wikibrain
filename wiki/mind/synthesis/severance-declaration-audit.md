@@ -21,7 +21,7 @@ synthesizes:
   - wiki/mind/synthesis/block-unblock-loop
   - wiki/mind/concepts/explicit-verbal-commitment
   - wiki/mind/concepts/attachment-model
-tags: [methodology, forensic-audit, measurement, attachment, speech-acts, epistemics]
+tags: [forensic-analysis, attachment, relationships]
 connections:
   - page: wiki/mind/synthesis/severance-declarations
     type: updates

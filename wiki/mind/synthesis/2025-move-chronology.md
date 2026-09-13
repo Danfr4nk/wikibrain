@@ -14,17 +14,13 @@ sources:
   - raw/imessage/summary.json
   - raw/imessage/messages-part1-2011-2019.csv
   - src:corpus-agent-summaries-2026-09
-  - wiki/people/annie-ulmer
-  - wiki/timeline/periods/feb-apr-2025-return-and-rupture
-  - wiki/mind/synthesis/the-2025-collapse
-  - wiki/people/john-paci
 synthesizes:
   - wiki/timeline/periods/feb-apr-2025-return-and-rupture
   - wiki/mind/synthesis/the-2025-collapse
   - wiki/people/annie-ulmer
   - wiki/people/john-paci
   - wiki/places/307-e-76th-st
-tags: [nyc-era, uniontown-era, relationships, housing, chronology, eviction, forensics, hinge-event]
+tags: [nyc-era, uniontown-era, relationships, housing, forensic-analysis]
 connections:
   - page: wiki/timeline/periods/feb-apr-2025-return-and-rupture
     type: component-of

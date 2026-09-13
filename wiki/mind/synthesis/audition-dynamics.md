@@ -25,7 +25,7 @@ synthesizes:
   - wiki/mind/synthesis/annie-ally-contrast
   - wiki/mind/synthesis/bond-switch-2015
   - wiki/mind/synthesis/the-rescue-premise
-tags: [relationships, attachment, audition, demonstration, courtship, serial-monogamy, transfer]
+tags: [relationships, attachment]
 connections:
   - page: wiki/mind/synthesis/kristin-channel
     type: component-of

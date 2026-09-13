@@ -13,7 +13,7 @@ synthesizes:
   - wiki/people/ally-lubin
   - wiki/people/annie-ulmer
   - wiki/mind/synthesis/annie-ally-contrast
-tags: [ally-lubin, annie-ulmer, corpus-sweep, compartmentalization, disclosure, attachment, forensics]
+tags: [digital-footprint, relationships, attachment, forensic-analysis]
 connections:
   - page: wiki/mind/synthesis/annie-ally-contrast
     type: supplies

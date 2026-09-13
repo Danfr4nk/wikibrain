@@ -24,7 +24,7 @@ synthesizes:
   - wiki/mind/concepts/attachment-model
   - wiki/people/annie-ulmer
   - wiki/people/ally-lubin
-tags: [relationships, attachment, language, speech-acts, personality-profile, forensic-analysis]
+tags: [relationships, attachment, language, personality-profile, forensic-analysis]
 connections:
   - page: wiki/mind/concepts/explicit-verbal-commitment
     type: instantiates
