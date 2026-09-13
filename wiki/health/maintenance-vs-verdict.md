@@ -1,4 +1,5 @@
 ---
+title: "Maintenance vs Verdict: the Rule Generalized"
 domain: health
 page_type: synthesis
 status: active
@@ -16,7 +17,7 @@ synthesizes:
   - wiki/mind/synthesis/chemical-architecture
   - wiki/health/cocaine
   - wiki/health/intake-ledger
-tags: [relationships, addiction-recovery, relationships, physical-health]
+tags: [relationships, addiction-recovery, physical-health]
 connections:
   - page: wiki/mind/synthesis/the-register-never-closes
     type: updates
@@ -39,6 +40,9 @@ connections:
   - page: wiki/mind/concepts/explicit-verbal-commitment
     type: parallels
     claim: "Verdict as installed rule: a positive verbal expression functions as an absolute rule until an explicit severance signal arrives. The alcohol verdict and the heroin micro-verdict are that architecture's chemical instances — stated as a structural parallel, not a corpus claim."
+  - { target: "[[wiki/health/suboxone-dose-curve]]", type: documents, claim: "The one-point-and-silence dose inventory this entry's null case inherits — the 2mg figure, the dated bearings, the non-observation discipline." }
+  - { target: "[[wiki/people/tom-maison-supply-record]]", type: contextualizes, claim: "The Tom supply ledger — announcement pattern, 2014 precedent, May 2026 sequence — is the supply-side evidence beneath this entry's null-case readings." }
+  - { target: "[[wiki/mind/synthesis/supply-graph-vs-chain]]", type: references, claim: "The graph model reads the same May 2026 failure as a correlated two-layer cut — the fragility analysis this entry's 'May 2026 demonstration' section brackets out." }
 ---
 
 # Maintenance vs Verdict: the Rule Generalized
@@ -83,7 +87,7 @@ The rule has a positive form and a negative form, and they do different work.
 **Positive:** every register resolves by substitution or by verdict. Nicotine
 resolves by substitution — five delivery systems across eighteen years, the
 substance never removed. Alcohol resolves by verdict — a hard zero for thirteen
-to fifteen years, active aversion, coded to family betrayal. Cocaine resolves by
+to fifteen years, active aversion, coded to family betrayal. [[wiki/health/cocaine|Cocaine]] resolves by
 suspension (more on this below; it is already a strain on the positive form).
 Cannabis has no quit-attempt history and the rule makes no claim there yet.
 
@@ -121,7 +125,7 @@ eighteen years, five delivery systems, zero interruption **[ATTESTED,
 wiki/health/chemical-architecture]**. The sequence, with the dates that make it
 evidence rather than narrative:
 
-- **Onset 2007**, at a promotional Fall Out Boy show — the same year as the
+- **Onset 2007**, at a promotional [[wiki/interests/favorites/music/artists/fall-out-boy|Fall Out Boy]] show — the same year as the
   first opiate, making 2007 the year the stack *starts* rather than the year one
   substance arrived **[ATTESTED]**.
 - **Quit announced October 16, 2008**: *"I think I'm gonna stop smoking
@@ -207,7 +211,7 @@ thirteen to fifteen years, active aversion, no exceptions in the record
    the hinge event, the stated life-hinge — is alcohol-coded in the family
    record. The wiki's reading: anti-identification with the family's mechanism
    of betrayal, not with substance use itself **[INFERRED, flagged as the
-   source's own informed speculation]**. Opiates and cocaine carry no
+   source's own informed speculation]**. Opiates and [[wiki/health/cocaine|cocaine]] carry no
    equivalent charge; they were adopted freely and built into a maintained,
    defended architecture. Only alcohol is radioactive, and it is radioactive
    because it is *theirs*.
@@ -252,7 +256,7 @@ even without Suboxone. Three registers sit in the penumbra — classifiable by
 neither move, and each one strains the positive half of the rule in a different
 direction.
 
-**Cocaine: the suspension.** Paused 2007–08, resumed 2012 — a suspension, never
+**[[wiki/health/cocaine|Cocaine]]: the suspension.** Paused 2007–08, resumed 2012 — a suspension, never
 a closure — with the dose arc moving on inheritance money (roughly 1g/day
 baseline, 3.5–7g daily across the 2017–2020 window, ~0.5–1g daily from 2020 as
 the inheritance exhausted) while the register itself never once tapered to
@@ -278,7 +282,7 @@ was never universal in the first place.
 
 **The December 2015 pact: the announced closure that never executed.** On
 December 8, 2015 — ten days after the corpus's first "YOU ARE MY EVERYTHING"
-to Annie — the two discuss quitting an unspecified substance together cold
+to [[wiki/people/annie-ulmer|Annie]] — the two discuss quitting an unspecified substance together cold
 turkey: *"if you are okay going cold turkey, I will do it with you,"* framed
 around shared spending (*"I don't want to spend every penny I have on it"*)
 and avoiding *"the road you and lex did"* **[ATTESTED,
@@ -428,7 +432,7 @@ shape. Reading I has to file the formulation change as incidental (a supply
 artifact, not a move), which is defensible — the speaker never *announced* it
 the way substitutions get announced — but it is a filing, not an explanation.
 And Reading I has a deeper problem: it makes the rule's two moves look
-arbitrary. Why three and not four? The cocaine suspension is already a
+arbitrary. Why three and not four? The [[wiki/health/cocaine|cocaine]] suspension is already a
 candidate fourth. A rule that grows a new move for every unclassifiable
 register is not a rule; it is a list. Reading I saves the phenomenon and
 loses the generality. That is a real cost, and this entry does not hide it.
@@ -493,7 +497,7 @@ about which one it is using.
 
 The scoping reading. The rule was built from registers *with quit histories*
 — nicotine's eighteen-year chain of announced quits, alcohol's categorical
-exclusion, cocaine's pause and resumption. Its positive form classifies what
+exclusion, [[wiki/health/cocaine|cocaine]]'s pause and resumption. Its positive form classifies what
 happens when a register *changes*. The null case never changed. It is not a
 register in motion; it is a register at rest — installed in 2010, executed
 daily without re-decision, the way a positive verbal expression in
@@ -542,7 +546,7 @@ right: **no taper, anywhere, ever.** The negative half — never taper-and-
 close — covers every register in the corpus including the null case, the
 suspension, the untested register, and the unexecuted pact. Sixteen years of
 Suboxone contain no taper. Eighteen years of nicotine contain no taper. The
-alcohol zero contains no taper. The cocaine arc moves on money, never on a
+alcohol zero contains no taper. The [[wiki/health/cocaine|cocaine]] arc moves on money, never on a
 staircase. The December 2015 pact proposed *cold turkey*, not a taper — even
 the imagined closure skips the middle. Whatever the positive moves turn out
 to be — two, three, or a theory of change with a separate theory of rest —
@@ -594,13 +598,13 @@ finishes it, whichever way it finishes.**
 - **The taper-shaped absence.** "No taper discussion in sixteen years" is attested by absence across channels, which is the weakest form of attestation the wiki uses. A targeted pass over the 2025 prescriber messages for dose/review language would upgrade or retire this.
 - **The alcohol verdict's date.** The zero is 13–15 years but the verdict's *moment* — the decision, if there was one — is undated in the corpus. The heroin verdict is dated to a night (winter 2008); the alcohol verdict is dated only to a window. The coding (betrayal, four generations) is his framing at medium confidence.
 - **A theory of rest.** Reading III's open border: no page in the wiki takes maintenance-as-such as its object — the installed rule, the daily execution without re-decision. Candidate gap page.
-- **The 2015 pact's substance.** The December 8, 2015 cold-turkey discussion never names the substance. If it was Suboxone, it is the null case's only discussed closure; if it was cocaine, it belongs to the suspension arc. The thread does not say.
+- **The 2015 pact's substance.** The December 8, 2015 cold-turkey discussion never names the substance. If it was Suboxone, it is the null case's only discussed closure; if it was [[wiki/health/cocaine|cocaine]], it belongs to the suspension arc. The thread does not say.
 - **Dosage after 2013.** One figure (2mg/day, 2013-07-10) for a sixteen-year run. No later figure confirms or revises it. The "chassis never got bigger" claim leans on a single self-report plus absence.
 
 ## Limits of record
 
-- **Observed:** the nicotine tweet sequence (dated, public, 2007–2022); the July 10–11, 2013 Elizabeth Eleanor exchange (dosage figure, terror sentence, INTP refusal — via the facebook export and dat:0055/dat:0061); the fourteen-occurrence suboxone run in the facebook archive 2011–2021 (dat:0055); the 2025 prescriber-routing messages (dat:0025); the 2026-08-30 intake-ledger night; the May 2026 supply-failure cascade (via wiki/work/bfs-foods).
-- **Reported:** the sixteen-year run, zero relapses, no program participation (his testimony, unbroken across channels); the 2mg figure (single self-report); the alcohol zero and active aversion (his framing, corroborated only by absence); the cocaine dose arc (retrospective self-audit); the Thanksgiving 2009 thirty-Roxicet episode (his account via the old wiki).
+- **Observed:** the nicotine tweet sequence (dated, public, 2007–2022); the July 10–11, 2013 [[wiki/people/elizabeth-eleanor|Elizabeth Eleanor]] exchange (dosage figure, terror sentence, INTP refusal — via the facebook export and dat:0055/dat:0061); the fourteen-occurrence suboxone run in the facebook archive 2011–2021 (dat:0055); the 2025 prescriber-routing messages (dat:0025); the 2026-08-30 intake-ledger night; the May 2026 supply-failure cascade (via wiki/work/bfs-foods).
+- **Reported:** the sixteen-year run, zero relapses, no program participation (his testimony, unbroken across channels); the 2mg figure (single self-report); the alcohol zero and active aversion (his framing, corroborated only by absence); the [[wiki/health/cocaine|cocaine]] dose arc (retrospective self-audit); the Thanksgiving 2009 thirty-Roxicet episode (his account via the old wiki).
 - **Calculated:** ~5,840 consecutive daily doses (16 × 365); the sixty-seven-day 2008 quit failure (Oct 16 → Dec 22); the January 2011 counter-restart arithmetic (fresh day one ≈ Jan 3); the 3.5-year countback bracketing day-zero (dat:0055).
 - **Inferred:** the three readings of the null case (seams shown, none selected); the terror-as-unspoken-verdict (Reading II); the verdict's defining property as irreversibility-by-decision (from the heroin micro-case); the substitution anatomy (register preserved, hardware rotated, completion language, adjacent reasons); the vigilance symmetry (dose defended and zero defended by the same faculty).
 - **Disproven:** the original day-zero derivation (Amtrak arithmetic ran the wrong direction; date survives on the tweet + facebook bracketing); the single-point-of-failure reading of the supply (dual topologies overlapped since 2013, dat:0055 — qualified: the 2025–26 topology is outside the facebook window).

@@ -82,6 +82,9 @@ connections:
   - page: wiki/timeline/events/robotussin-s-last-dance
     type: co-occurs
     claim: "Frank's Auto Supply is the daytime setting of the same day — the delivery-driver job held that afternoon, at 17, on a day whose evening ended with 90 minutes of full intoxication at Ruby Tuesday's near Pittsburgh airport and a 95 mph drive back toward Uniontown."
+  - { target: "[[wiki/mind/synthesis/november-2005-hinge]]", type: contextualizes, claim: "That entry audits the November 2005 rupture as testimony rather than fact: his 6 AM rehab admission, disclosed on the learner's-permit drive, is the hinge's load-bearing event and its least documented one." }
+  - { target: "[[wiki/people/bill-ulmer]]", type: references, claim: "Dan's December 2016 report of making (more gradual) progress with Bill and Ellen places Rick adjacent to the Annie-parents repair he was kept outside of." }
+  - { target: "[[wiki/people/ellen-ulmer]]", type: references, claim: "Same December 2016 report: Ellen, alongside Bill, is the Annie-side parent the repair was moving toward while Rick's own repair stayed stalled." }
 ---
 
 
@@ -105,8 +108,7 @@ connections:
 > is not low-intensity contact.
 >
 > **Held open:** a small number of the Annie-side uses sit in money-request
-> contexts during the [[wiki/timeline/periods/2017-poverty-floor|2017 poverty
-> floor]] (*"Can you get a 50 from Ricky for us?"*, 2017-10-17) which could in
+> contexts during the [[wiki/timeline/periods/2017-poverty-floor|2017 poverty > floor]] (*"Can you get a 50 from Ricky for us?"*, 2017-10-17) which could in
 > principle name a different Ricky. Nothing in the corpus supports a second one,
 > and the domestic uses are unambiguous, so all 66 are read as this person — but
 > the ambiguity is recorded rather than resolved by assertion.
@@ -138,8 +140,7 @@ Dan's own framing: "he was idiosyncratic in his control, which he used to
 facilitate a strictness in both the psychic and moral sense, as well as the
 legal and tangible sense."
 
-**The Tan Calabrese / Angelfire incident.** [[wiki/people/tan-calabrese|Tan
-Calabrese]] — a childhood friend, later a corpus contact from 2016–2020 —
+**The Tan Calabrese / Angelfire incident.** [[wiki/people/tan-calabrese|Tan Calabrese]] — a childhood friend, later a corpus contact from 2016–2020 —
 once made an Angelfire website mocking his older brother's girlfriend. Rick
 found "this stupid harmless site" in the family browser history and took it
 as his own duty to act on it: he confronted Tan directly and humiliated Dan
@@ -171,7 +172,7 @@ recorded here because it is exactly the kind of primary, dated, named-source
 testimony this page is supposed to hold, whether or not it turns out to be
 the load-bearing explanation.
 
-Dan explicitly asked that his mother Suz's version of events **not** be
+Dan explicitly asked that his mother [[wiki/people/suzanne-frank|Suz]]'s version of events **not** be
 solicited or inferred alongside this — noted so a future pass does not
 assume the omission is an oversight.
 
@@ -215,7 +216,7 @@ before Dan's 22nd birthday — Rick met his son in Pittsburgh and the two
 boarded an Amtrak train together bound for New York, then spent the
 following months apartment-hunting; by June, Dan had a lease at
 [[wiki/places/424-bedford-ave|424 Bedford Ave]] in Williamsburg. The
-Gemini-58 reconstruction dates the offer that made this possible to the same
+[[wiki/self/chats/gemini-58|Gemini-58]] reconstruction dates the offer that made this possible to the same
 window: Rick proposed **$2,000 a month "while you intern," plus help finding
 an apartment**, as the alternative to Dan's stated preference — an
 Entourage-style move to West Hollywood chasing the "Ari Gold" version of the
@@ -294,8 +295,8 @@ kicked to the curb." But the full record shows **Dan replied the same
 day** ("Not sure what that means or how I've kicked you to the curb," Dec
 16, 12:06pm — not documented in the prior version at all), the exchange
 continued through Dec 17 and Dec 19 (Dan reporting real progress with
-Annie's family: "I've hung out with both Claire and Will and they both
-approve. Also making (more gradual) progress with Bill and Ellen"), and by
+Annie's family: "I've hung out with both [[wiki/people/claire-ulmer|Claire]] and Will and they both
+approve. Also making (more gradual) progress with [[wiki/people/bill-ulmer|Bill]] and [[wiki/people/ellen-ulmer|Ellen]]"), and by
 **December 25 and 27** Rick is inviting Dan to Christmas dinner and to
 watch a game at Lisa's, and Dan is actively participating ("Oh cool! What
 time is the game"). The friction was real and the "kicked to the curb"
@@ -490,13 +491,13 @@ as the medium of father-son contact, a big offer floated and withdrawn
 within minutes, the son left holding the deflated version and laughing it
 off. The timing does its own work: eleven days after the "kicked to the
 curb" friction of mid-December, weeks after that friction resolved — the
-father who got the confessional version of the Annie-parents crisis in
+father who got the confessional version of the [[wiki/people/annie-ulmer|Annie]]-parents crisis in
 December is, in January, doing the Denver-trip yank.
 
 ## Family position
 
 Rick sits at the exact seam of the [[wiki/mind/synthesis/ancestral-dialectic|Ashkenazi/Appalachian ancestral binary]]: the paternal Jewish line running through him is the "hypervigilance" side of that framework, while his own 2005 collapse — the cocaine, the rehab, the marriage's end — is itself the load-bearing evidence the "numbness" side of the same dialectic points back to on the maternal side. Paternal Jewish line: grandson of [[wiki/people/david-j-frank|David J. Frank]] (b. 1892, Russia) and
-[[wiki/people/sadie-harris|Sadie Harris]] (b. 1900, Austria), son of Morley Jay Frank (1927–1998);
+[[wiki/people/sadie-harris|Sadie Harris]] (b. 1900, Austria), son of [[wiki/people/morley-frank|Morley Jay Frank]] (1927–1998);
 Episcopalian himself ([[wiki/self/ancestry]]). One of the four documented
 generations of functional alcoholism. Multiple Uniontown residences on
 record through 1989–2002; current address unconfirmed.

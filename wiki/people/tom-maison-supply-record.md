@@ -1,4 +1,5 @@
 ---
+title: "Tom Maison: The Standing Supply Line"
 infobox:
   name: Tom
   relationship_to_dan: friend — primary male ally; standing supply line (2018–2026, ruptured May 2026)
@@ -51,13 +52,16 @@ connections:
   - page: wiki/people/suzanne-frank.md
     type: evidenced-by
     claim: "Suz is the friendship's third party: the car battery Tom bought her unprompted, her exclusive permission to call him directly, the Cash App plumbing that facilitated the Tom-era purchases. Her ledger of the friendship is warmer than Dan's late-period one."
+  - { target: "[[wiki/health/suboxone-dose-curve]]", type: extends, claim: "The dose-curve evidence ledger — the 2mg point and sixteen-year silence — frames the pharmacological stakes of this entry's supply claims." }
+  - { target: "[[wiki/mind/synthesis/supply-graph-vs-chain]]", type: extends, claim: "The graph model generalizes this entry's ledger into the two-layer fragility analysis — Tom as the node adjacent to every failure path." }
+  - { target: "[[wiki/health/maintenance-vs-verdict]]", type: contextualizes, claim: "Reads the sixteen-year Suboxone run this entry documents as maintenance-as-third-move, frozen compound move, or outside the rule's domain — three live readings, none selected." }
 ---
 
 # Tom Maison: The Standing Supply Line
 
 Tom Maison is Dan's primary male friend, and for most of the record that
 is the whole sentence that matters. Everything else on this page — the
-strips, the mushrooms, the cocaine, the klonopin, the owe-and-silence
+strips, the mushrooms, the [[wiki/health/cocaine|cocaine]], the klonopin, the owe-and-silence
 cycles, the May 2026 no-show that cost Dan a job — is one dimension of
 the friendship, not the man. This page exists because the supply dimension
 was scattered: fragments on [[wiki/work/bfs-foods|bfs-foods]], fragments in
@@ -78,7 +82,7 @@ that they were the same person.**
 ## Who Tom is in Dan's life
 
 Start with the register, because it is the friendship's signature and it
-never changed. The Tom/Kristin dossier's phrase is "irony-poisoned stoic"
+never changed. The Tom/[[wiki/people/kristin|Kristin]] dossier's phrase is "irony-poisoned stoic"
 **[ATTESTED, wiki/people/tom]**: the man who absorbs Dan's suicide threats
 and withdrawals with validation, without judgment, and without ever
 pushing toward rehab. In the primary thread this reads as unbothered
@@ -93,14 +97,14 @@ You do not audit the one place you are not performing **[ATTESTED,
 wiki/people/tom]**.
 
 The friendship's background conditions: roughly 2010 onward, out of the
-adolescent Seven Springs scene **[ATTESTED, wiki/people/tom]**; Tom is
+adolescent [[wiki/places/seven-springs|Seven Springs]] scene **[ATTESTED, wiki/people/tom]**; Tom is
 about three weeks older than Dan; Pittsburgh area; Ohiopyle excursions a
 recurring shared setting. The documented message weight is 4,160 messages
 on the +17249987341 handle plus ~1,603 under phloxenheim@gmail.com —
 corrected to ~5,763 after Kristin's handle was found mislabeled under his,
 rank #5 in the master dump **[ATTESTED, wiki/people/tom]**. He is the
-first-call for major events: the Trump shooting, the Biden dropout,
-GameStop, the September 2020 FSLY stock tip **[ATTESTED, wiki/people/tom]**.
+first-call for major events: the [[wiki/interests/favorites/books/topics/trump|Trump]] shooting, the Biden dropout,
+GameStop, the September 2020 [[wiki/work/fastly-fsly|FSLY]] stock tip **[ATTESTED, wiki/people/tom]**.
 He is also the recurring third party Dan selected for the 2018–2024
 arrangement, chosen specifically because he was a friend the aftermath
 could be managed with **[ATTESTED, wiki/people/tom]**, and the
@@ -150,7 +154,7 @@ the sounding board, and the sounding board sometimes carried product.
 ## The supply ledger
 
 Consolidated: the substances that flowed through the friendship were
-Suboxone strips, mushrooms, cocaine, and klonopin **[ATTESTED,
+Suboxone strips, mushrooms, [[wiki/health/cocaine|cocaine]], and klonopin **[ATTESTED,
 wiki/mind/synthesis/chemical-architecture]**, with the standing
 characterization — quoted across the architecture pages — that Tom
 "shows up with substances and announces it" **[ATTESTED,
@@ -189,10 +193,9 @@ filled — "I am so fucked. I'm gonna have to drive down to see Tom today"
 giving way: the prescriber layer was already jammed by geography, and
 Tom was the failover. The failover then failed. The family plumbing ran
 underneath: Suz's Cash App transfers facilitated the Tom-era purchases
-**[ATTESTED, wiki/mind/synthesis/supply-network]**, and the 2018 deep
-cycle ran on irregular transfers of $20 to $3,000 in both directions,
+**[ATTESTED, wiki/mind/synthesis/supply-network]**, and the [[wiki/timeline/periods/2018-deep-cycle|2018 deep cycle]] ran on irregular transfers of $20 to $3,000 in both directions,
 entered as debts and never reconciled — procurement was never fiscally
-isolated from the family, a thread the estate money spine carries
+isolated from the family, a thread the [[wiki/mind/synthesis/estate-money-spine|estate money spine]] carries
 forward **[ATTESTED, wiki/mind/synthesis/supply-network]**.
 
 The succession context: Tom succeeded Johnny (via the undocumented Tim)
@@ -206,7 +209,7 @@ parallel — a supplier failure was an inconvenience — while the terminal
 era ran everything through one friendship-embedded node **[ATTESTED,
 wiki/mind/synthesis/supply-network]**. Redundancy decayed monotonically
 into Tom. The record's peak Tom-dependence is 2017–2018 (the poverty
-floor, supply during the collapse years), 2025 (the Annie collapse), and
+floor, supply during the collapse years), 2025 (the [[wiki/people/annie-ulmer|Annie]] collapse), and
 spring 2026 — the friendship's own end **[ATTESTED, wiki/people/tom]**.
 
 ## The loss-absorption episode
@@ -266,7 +269,7 @@ precisely: **Tom's reliability is transactional — high during mutual
 dependence, degrading to indifference once he no longer needs Dan as a
 buyer** **[ATTESTED, wiki/people/tom]**. The language rhymes across the
 twelve years: 2014's "I'm not doing this stupid fucking dance with you
-anymore" and 2026's "this is some real Kristin-coded shit" are the same
+anymore" and 2026's "this is some real [[wiki/people/kristin|Kristin]]-coded shit" are the same
 affective category — *this person is producing outputs functionally
 indistinguishable from someone untrustworthy* **[ATTESTED,
 wiki/people/tom]**.
@@ -275,10 +278,10 @@ The reliability inversion is the 2014 episode stated as a market rule,
 and it is worth importing from the supply-network page because it is
 the friendship's economics, not a character verdict: **"the more purely
 transactional the relationship, the more reliable the supply"**
-**[ATTESTED, wiki/mind/synthesis/supply-network]**. Menore — a stranger
+**[ATTESTED, wiki/mind/synthesis/supply-network]**. [[wiki/people/menore|Menore]] — a stranger
 running a professional delivery service — answered 455 of 458 requests
 across 6.5 years at 99.3% availability. Johnny was reliable in-season.
-Teddy was willing but fragile. And Tom — the friend, the "anchor," the
+[[wiki/people/teddy|Teddy]] was willing but fragile. And Tom — the friend, the "anchor," the
 one node embedded in a real attachment — was the least reliable node in
 the record **[ATTESTED, wiki/mind/synthesis/supply-network]**. "In this
 market it is the opposite: distance disciplines, intimacy licenses
@@ -319,7 +322,7 @@ as a status reversal — "NOW I AM COOLGUY... SORRY CAN'T TALK COOLGUY HAS
 A GIRL IN HIS BED" **[ATTESTED, wiki/people/tom]**.
 
 May breaks it. The "cash app me $30, I'll give you 2" pattern repeats
-through early May with growing friction (Annie's ex-boyfriend
+through early May with growing friction ([[wiki/people/annie-ulmer|Annie]]'s ex-boyfriend
 commentary, DUI-court scheduling conflicts on Tom's side) **[ATTESTED,
 wiki/people/tom]**. May 15–16 is the breaking point: Tom promises subs
 after "weed whacking," goes silent for hours while Dan escalates from
@@ -408,7 +411,7 @@ first. The body followed. The job followed the body.
 One primary-record episode, from the number-handle thread, deserves
 its own section because it is the sharpest evidence of where the
 friendship stood relative to everything else in Dan's life — and it
-predates the collapse by seven months. October 8, 2025: Kristin,
+predates the collapse by seven months. October 8, 2025: [[wiki/people/kristin|Kristin]],
 introduced through Tom's own social circle, was supposed to deliver a
 sub on Monday; Dan gave her the money; she holds it over his head while
 he is getting sick. His message to Tom at 11:16 AM:
@@ -444,7 +447,7 @@ pattern was not unseen. It was unaudited.
 For reference — the consolidated supply record, stripped of narrative,
 claim by claim:
 
-1. **What flowed:** Suboxone strips, mushrooms, cocaine, klonopin
+1. **What flowed:** Suboxone strips, mushrooms, [[wiki/health/cocaine|cocaine]], klonopin
    **[ATTESTED, wiki/mind/synthesis/chemical-architecture]**. Sole
    strip source by 2025 **[ATTESTED,
    wiki/mind/synthesis/supply-network]**.
@@ -556,7 +559,7 @@ body.
   chemical-architecture's earlier single-point-of-failure framing and
   is the later, corrected account.
 - **Counts:** 4,160 (number handle) + ~1,603 (phloxenheim) ≈ 5,763,
-  rank #5 — the corrected figure after the Kristin-handle
+  rank #5 — the corrected figure after the [[wiki/people/kristin|Kristin]]-handle
   mislabeling was fixed **[ATTESTED, wiki/people/tom]**. The earlier
   ~2.9x overstatement from the mislabeled handle is a documented
   measurement artifact, not a substantive claim about the friendship.
@@ -610,7 +613,7 @@ body.
 What was directly observed: the number-handle primary thread,
 2025-08-02–2026-02-14, hand-read for this entry — the announcement
 pattern, the klonopin episode, the wall-era exchanges, the October 8
-Kristin contrast, the January 2026 Gemini thread, the February 14
+[[wiki/people/kristin|Kristin]] contrast, the January 2026 Gemini thread, the February 14
 "testing" close; the March 24 phloxenheim "Will you talk to me for
 a little bit?" from the same dump. What was reported: the 2014
 owe-and-silence quotes, the May 2026 collapse sequence, the March 31

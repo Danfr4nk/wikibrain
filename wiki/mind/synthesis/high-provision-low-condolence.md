@@ -1,6 +1,7 @@
 ---
 domain: mind
 page_type: synthesis
+title: "High-Provision, Low-Condolence"
 status: active
 knowledge: earned
 date_created: 2026-09-10
@@ -11,7 +12,7 @@ synthesizes:
   - wiki/people/annie-ulmer
   - wiki/people/ally-lubin
   - wiki/people/suzanne-frank
-tags: [relationships, money, personality-profile]
+tags: [relationships, financial-stress, personality-profile]
 connections:
   - page: wiki/mind/profile/big-five-psychometrics
     type: instance-of
@@ -28,6 +29,7 @@ connections:
   - page: wiki/people/suzanne-frank
     type: instance-of
     claim: "The maternal register: give-and-invoice — permanently available, and the availability gets itemized."
+  - { target: "[[wiki/mind/synthesis/block-unblock-loop]]", type: references, claim: "The provision/condolence split and the severance-declaration loop are one non-deleting architecture on two registers — affection arrives as countable provision, exits are performed rather than enacted — so this page's live prediction and that page's 129-episode rule describe the same refusal to delete." }
 ---
 
 # High-Provision, Low-Condolence
@@ -48,7 +50,7 @@ The rule, stated plainly: in any bond he values, provision (money, logistics, dr
 
 ## Controls and counterexamples
 
-The three demand letters drafted for Libby Titus's unpaid wages widen the rule beyond cash: provision as drafted instruments, not money. The rule is about the register, not the currency.
+The three demand letters drafted for [[wiki/people/libby|Libby Titus]]'s unpaid wages widen the rule beyond cash: provision as drafted instruments, not money. The rule is about the register, not the currency.
 
 The honest controls the corpus does not yet supply: a documented crisis in which he produces sustained consolation language with no provision offer (breaks the provision half), or a significant no-strings transfer that is never later invoked or itemized (breaks the ledger half). Either would be carried here, not absorbed.
 
@@ -66,8 +68,8 @@ In the next crisis involving someone he values, provision will precede or substi
 
 - The $2,100 figure cannot be settled without 2019 Cash App exports; the Suz $14,000 lacks raw/ provenance.
 - No test yet against a future crisis — the severance horizon is the live window. **[SUPERSEDED 2026-09-11:** the horizon is void — [[wiki/mind/synthesis/august-26-block-retraction]]. The gap that remains is a test against a future crisis with no horizon attached.**]**
-- Origin of the provision register (register 8): the Fran caregiving years 2017–18 are a candidate source, but the corpus does not presently say so — speculative, recorded as a gap rather than a claim.
+- Origin of the provision register (register 8): the [[wiki/people/fran-coldren|Fran]] caregiving years 2017–18 are a candidate source, but the corpus does not presently say so — speculative, recorded as a gap rather than a claim.
 
 ## Constitution pass (2026-09-10)
 
-Eleven registers checked. Moved the conclusion: (1)/(2) the Fe-inferior mechanism under the low-condolence half — the missing piece the 2026-08-28 failure named; (10)/(11) the axiom explicitly demoted from evidence to framing. Checked and left standing: (3) the Fran 2020 distribution as precedent for provision-without-asset; (5) the $144K arrival enabling the outflow scale, and the unsettled Morgantown housing as the live test environment; (7) the three bonds as the instantiating cases; (12) the Libby Titus demand letters widening provision beyond cash. Checked, no bearing: (4) attitudes and forces beyond the money spine, (6) health, (9) cultural markers. The corpus cannot presently speak to: (8) the origin of the provision register — recorded as a Gap above.
+Eleven registers checked. Moved the conclusion: (1)/(2) the Fe-inferior mechanism under the low-condolence half — the missing piece the 2026-08-28 failure named; (10)/(11) the axiom explicitly demoted from evidence to framing. Checked and left standing: (3) the [[wiki/people/fran-coldren|Fran]] 2020 distribution as precedent for provision-without-asset; (5) the $144K arrival enabling the outflow scale, and the unsettled Morgantown housing as the live test environment; (7) the three bonds as the instantiating cases; (12) the [[wiki/people/libby|Libby Titus]] demand letters widening provision beyond cash. Checked, no bearing: (4) attitudes and forces beyond the money spine, (6) health, (9) cultural markers. The corpus cannot presently speak to: (8) the origin of the provision register — recorded as a Gap above.

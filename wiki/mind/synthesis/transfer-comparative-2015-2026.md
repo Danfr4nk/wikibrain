@@ -108,7 +108,7 @@ TO ME" (Annie, Dec 1), `all_imessages_complete_dump.txt`, carried on
 at roughly 2 a.m. Dan meets Annie in person — the golf course, rain. The same
 evening he texts Zachariah: *"Things are collapsing with lex. You might be
 seeing a lot more Annie very soon"* [ATTESTED]. On November 30 Alexis is still
-in the house ("Alexis is sloshed"); Suz offers Dan a car "if I get Alexis
+in the house ("Alexis is sloshed"); [[wiki/people/suzanne-frank|Suz]] offers Dan a car "if I get [[wiki/people/alexis-armel|Alexis]]
 out" [ATTESTED]. On December 1: "Helping lex leave" — the eviction, executed,
 not declared [ATTESTED]. The breakup statement filed in the calendar is
 *"I'm in love with Annie Ulmer"* [ATTESTED, LIFE_EVENTS_CALENDAR]. Then the
@@ -127,7 +127,7 @@ relationship: *"Goodbye forever. This was not how it should have ended"*
 [ATTESTED, `imessage_ALL_both_2026-05-31_2026-06-02.csv`, the
 [[wiki/timeline/events/group-chat-closure|group-chat-closure]]]. At 20:06:05
 the same day — **19 hours and 38 minutes later** [DERIVED] — he opens the
-Ally channel for the first time in fourteen months with a nine-message burst,
+[[wiki/people/ally-lubin|Ally]] channel for the first time in fourteen months with a nine-message burst,
 eight between 20:06 and 20:15, one at 23:23, all outbound [ATTESTED]. The
 burst contains the elopement frame in its first-draft form: *"more
 importantly when am I allowed to come try to marry on you because I need to
@@ -165,7 +165,7 @@ here.
 
 **2015 — the transfer was a two-sided operation.** The correction that
 re-dated the whole 2015 reading (bond-switch-2015, 2026-08-17) established
-that Annie was ending her own relationship in the same seventy-two hours.
+that [[wiki/people/annie-ulmer|Annie]] was ending her own relationship in the same seventy-two hours.
 Her family and a partner are with her on the night of the golf-course
 meeting — *"my fam and dude are here and are going to force me to leave with
 them"* (2015-11-29 01:35) — Dan refers to him as *"turd boy"* (02:49), and
@@ -205,12 +205,12 @@ reader. The 2015 transfer had a partner.
 ## Dimension 2: incumbent posture — cooperation vs. resistance
 
 **2015 — the incumbent introduced the successor.** This is the strangest
-dated fact in either transfer and it is attested twice over: Annie's own
+dated fact in either transfer and it is attested twice over: [[wiki/people/annie-ulmer|Annie]]'s own
 December 1 line, *"HAPPY ONE WEEK SINCE LEX HANDED YOU TO ME,"* and the
 bond-switch-2015 ledger row placing the introduction at ~November 24 with
 Alexis named as the introducer [ATTESTED]. The incumbent did not merely
 fail to resist; she sourced. And the family apparatus cooperated around the
-exit: Suz offered a car conditional on getting Alexis out [ATTESTED]. The
+exit: [[wiki/people/suzanne-frank|Suz]] offered a car conditional on getting [[wiki/people/alexis-armel|Alexis]] out [ATTESTED]. The
 spec's phrase for the result is exact — **no auditor left standing**. After
 December 1 there was no party with a claim on the slot who could contest the
 occupancy: Alexis was out (and would later be the warm-correspondence
@@ -227,7 +227,7 @@ performance. The June 1 severance opened the 52-day hold — zero outbound to
 Annie — but the ledger's own finding is that the slot was *held*, not
 emptied: a successor bid was live from hour twenty, and occupancy resumed
 July 23 with 624 messages across four days [ATTESTED, vacancy-rule]. The
-August 26 "block" — reported to Ally as the fixed premise of the new life —
+August 26 "block" — reported to [[wiki/people/ally-lubin|Ally]] as the fixed premise of the new life —
 was performed, not enacted; sixteen days to falsify, and when it fell it
 fell completely [OPERATOR]. And the incumbent's post-August posture is not
 withdrawal but re-entanglement: September 10, Annie tells him she works as a
@@ -250,7 +250,7 @@ herself — or, in the singular 2015 case, handed the seat over.
 ## Dimension 3: the successor's stated price
 
 **2015 — no price was stated, because the terms were reciprocity.** The
-record contains no admission price from Annie, no precondition, no terms.
+record contains no admission price from [[wiki/people/annie-ulmer|Annie]], no precondition, no terms.
 What it contains is the symmetric act: *"I am going to get rid of him just
 like you just did"* (2015-11-29 02:52) [ATTESTED]. Her terms, insofar as the
 record shows any, were that he do what she was doing — vacate, simultaneously,
@@ -360,7 +360,7 @@ was never his to arrange.
 
 **2015 — the vacancy never opened.** Sourced before it opened (the incumbent
 introduced the successor on ~Nov 24, days before the Dec 1 eviction), filled
-before it could be felt (Annie moved into 155 Virginia Avenue — the lair
+before it could be felt ([[wiki/people/annie-ulmer|Annie]] moved into 155 Virginia Avenue — the lair
 held constant, the swap spatial as well as relational), and never audited
 afterward (no party left with standing to contest it). The vacancy-rule
 ledger's verdict: vacancy effectively zero [ATTESTED]. This is the rule's
@@ -377,12 +377,12 @@ But the ledger's own narrowing applies: the successor bid was live from hour
 twenty of the vacancy, and occupancy resumed July 23 (624 messages across
 four days) — so the fifty-two days were a *hold*, a slot with a bid on it,
 not an empty slot [ATTESTED]. Then the August terminal window: the August 26
-block, reported to Ally as the fixed premise of the new life, performed not
+block, reported to [[wiki/people/ally-lubin|Ally]] as the fixed premise of the new life, performed not
 enacted [OPERATOR]; the retraction sixteen days later; ongoing September
 contact. The vacancy was handled, in the end, by not occurring. The slot
 that the June 1 severance declared open was never actually vacated — the
 declaration was a slot-event in the declaration system, not a vacancy event
-in the occupancy ledger, to use vacancy-rule's own distinction — and the
+in the [[wiki/mind/synthesis/vacancy-rule|occupancy ledger]], to use vacancy-rule's own distinction — and the
 transfer was attempted onto an occupied slot for the whole of its run.
 
 Put the two handlings side by side and the mechanism shows itself
@@ -404,7 +404,7 @@ sourcing (19h38m), the activation (708 messages, 380 consecutive), the
 demonstrated obsession (eighteen years), and the stated willingness (the
 elopement pitch, the love letter). What it lacked:
 
-**1. An incumbent who vacates.** 2015: Alexis introduced Annie (~Nov 24),
+**1. An incumbent who vacates.** 2015: [[wiki/people/alexis-armel|Alexis]] introduced [[wiki/people/annie-ulmer|Annie]] (~Nov 24),
 moved out December 1 ("Helping lex leave"), and never re-filed a claim on
 the slot. 2026: Annie re-occupied the slot July 23 after the 52-day hold,
 the August 26 block was performed-not-enacted, and contact continued into
@@ -415,7 +415,7 @@ was ever actually tendered.
 **2. A successor who participates in the transfer operation.** 2015: Annie
 exited her own bond in the same seventy-two hours ("I am going to get rid
 of him just like you just did"), met in person November 29, evaluated and
-was evaluated instantaneously. 2026: Ally audited the documentation on
+was evaluated instantaneously. 2026: [[wiki/people/ally-lubin|Ally]] audited the documentation on
 August 18, stated the price at 13:54:32, and never rendered a verdict on the
 application. The June 1 burst was misaddressed to a handle she doesn't
 monitor; the August 18 elopement pitch sits unanswered in every source; the
@@ -463,7 +463,7 @@ vacating incumbent or an evaluating successor in the 2026 record, and it
 revises. The record to date shows neither.
 
 A final comparative note, because the corpus contains a second negative
-control and it confirms the pattern [ATTESTED, kristin-channel]: the Kristin
+control and it confirms the pattern [ATTESTED, [[wiki/mind/synthesis/kristin-channel|kristin-channel]]]: the [[wiki/people/kristin|Kristin]]
 ten weeks (August 29 – early November 2025, 22,018 messages, exclusivity
 demands) were the decade's only other contested-slot episode — a rival bid
 for an occupied primary slot, extinguished in ten weeks, failed December
@@ -483,13 +483,13 @@ names what would overturn it:
   operator's 2026-08-20 corroboration and Ally's own "Why do I have 2
   numbers for you and an iCloud" line both point the other way. Standing
   unless displaced.
-- **The August 19 inbound.** If both Ally handles are re-exported from
+- **The August 19 inbound.** If both [[wiki/people/ally-lubin|Ally]] handles are re-exported from
   `chat.db` and the export shows she answered the elopement pitch and
   engaged, "never evaluated" becomes "evaluated and declined" — the verdict
   (failure) strengthens, the mechanism (which element was missing) revises
   from missing-evaluation to failed-evaluation. The June 1 misaddressing
   stands regardless.
-- **The incumbent's non-vacancy.** If dated message evidence shows Annie was
+- **The incumbent's non-vacancy.** If dated message evidence shows [[wiki/people/annie-ulmer|Annie]] was
   fully out of the slot across June–July 2026 — i.e., the July 23 resumption
   and the September contact are misdated or misattributed — the 52-day hold
   becomes a true vacancy and element 6 of the verdict falls. The resumption
@@ -526,7 +526,7 @@ names what would overturn it:
   has since seen the text. If she has, attempt one's "empty house" framing
   needs a dated revision.
 - **The 2015 introduction's exact date.** ~November 24 is the ledger's
-  resolution, derived from Annie's December 1 "one week since" line. Day
+  resolution, derived from [[wiki/people/annie-ulmer|Annie]]'s December 1 "one week since" line. Day
   precision would tighten the sourcing-speed comparison (2015's ~5 days
   vs. 2026's 19h38m) but would not change its direction.
 - **The 52-day hold's interior.** Zero outbound to Annie is attested as a
@@ -535,7 +535,7 @@ names what would overturn it:
   proves to be inbound-initiated, the "closed from the inside" phrasing
   refines to "re-entered by the incumbent."
 - **Ally's current stance.** Unknown. The channel is dormant, not closed
-  (dormancy-not-exit applies); a future evaluation would reopen elements
+  ([[wiki/mind/synthesis/dormancy-not-exit|dormancy-not-exit]] applies); a future evaluation would reopen elements
   2, 3, and 5 rather than merely annotating them.
 - **The 2013 separation as a third case.** Alexis–Dan separated July–Oct
   2013 and reconciled; the transfer machinery's behavior across a
@@ -553,9 +553,9 @@ names what would overturn it:
   November 2015 dated lines ("HAPPY ONE WEEK SINCE LEX HANDED YOU TO ME,"
   "I am going to get rid of him just like you just did," "Things are
   collapsing with lex," "Helping lex leave"); the December 10–13 onset
-  flood counts as recomputed; the September 2026 Annie contact.
+  flood counts as recomputed; the September 2026 [[wiki/people/annie-ulmer|Annie]] contact.
 - **Reported:** the June 1 misaddressing (operator, 2026-08-20,
-  corroborated by Ally's own handle confusion on August 18); the August 26
+  corroborated by [[wiki/people/ally-lubin|Ally]]'s own handle confusion on August 18); the August 26
   block's non-execution (operator, 2026-09-11: "there was never a block");
   the $2,100 contestation (Ally, August 18 — reported by both sides,
   unresolved).

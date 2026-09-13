@@ -1,6 +1,7 @@
 ---
 domain: mind
 page_type: synthesis
+title: "The Intake Constancy"
 knowledge: earned
 status: active
 date_created: 2026-07-15
@@ -49,6 +50,8 @@ connections:
   - page: wiki/health/chemical-architecture
     type: parallels
     claim: "The nicotine arc is this page's shape running on a substance instead of on media: eighteen years of unbroken intake under five rotating delivery systems, each rotation announced and experienced as a change. Structural rather than measured — the corpus holds no nicotine rate to hold flat — so it is an argument by shape, not a second instance of the constant."
+  - { target: "[[wiki/mind/synthesis/the-binary-verdict]]", type: contextualizes, claim: "The verdict page cites the intake constancy as behavioral evidence for the binary thesis; this page is the measured backbone." }
+
 ---
 
 
@@ -61,7 +64,7 @@ watch history, one from Google search/activity — both land on the same
 conclusion when placed against each other: **a fixed-rate intake metabolism that
 holds flat across every variable the biography can throw at it.** This page treats
 that finding as a primary architectural fact, because it reframes three loaded
-themes elsewhere in the wiki and it is the connective thread that makes the rest
+themes elsewhere in [[wiki/self/concepts/wiki-brain|the wiki]] and it is the connective thread that makes the rest
 of the corpus cohere.
 
 ## The two constants
@@ -136,8 +139,7 @@ records), 1 AM (8,692), 11 PM (7,289), with a deep trough at
 9 AM (1,911, the global minimum). In the 2025+ slice, **26.8% of
 all activity falls between midnight and 4 AM.** A mind whose peak hours are
 11 PM–3 AM *mechanically* excludes most synchronous human contact — which
-is the structural substrate under the [[wiki/mind/concepts/contact-gini|contact
-Gini]] isolation finding. The intake is constant *and* unsynchronous, and
+is the structural substrate under the [[wiki/mind/concepts/contact-gini|contact Gini]] isolation finding. The intake is constant *and* unsynchronous, and
 those are the same sentence read two ways.
 
 ## Output combusts; intake ticks
@@ -184,9 +186,8 @@ and the venue migration to LLMs is the rate. Identity-layer churn runs all the w
 down to which Google account watches YouTube — and underneath all of it, one
 appetite, one clock.
 
-This is the spine of the [[wiki/mind/synthesis/totality-themes|migration
-grammar]]: self-search as a leading indicator of identity reorganization, the
-SLOPPP→MOGZART alias boundary landing exactly on the May 2014 account-rotation,
+This is the spine of the [[wiki/mind/synthesis/totality-themes|migration grammar]]: self-search as a leading indicator of identity reorganization, the
+[[wiki/interests/music/aliases/sloppp|SLOPPP]]→MOGZART alias boundary landing exactly on the May 2014 account-rotation,
 the 2022 repatriation proving amputations are reversible. Every one of those
 events is a reorganization of the *identity layer*. None of them touches the
 *intake rate*. The system can shed a skin, migrate an account, or launch a forensic
@@ -198,7 +199,7 @@ page: because volume never varies, the *subject* of intake is the only
 degree of freedom left — and it rotates in discrete, dateable obsessions.
 [[wiki/mind/synthesis/interests-as-era-markers]] develops this into a
 timeline instrument: the era-marker series (2007 teen cluster → 2012–13
-O&A → 2016–19 golf → 2019 stand-up → 2020 politics → 2024 Rome) that lets
+O&A → 2016–19 [[wiki/interests/golf|golf]] → 2019 stand-up → 2020 politics → 2024 Rome) that lets
 an undated artifact be placed in the biography by what the channel was
 locked onto.
 

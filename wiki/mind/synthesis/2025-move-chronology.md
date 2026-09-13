@@ -46,12 +46,15 @@ connections:
   - page: wiki/mind/synthesis/dan-annie-fallout-verdict
     type: precedes
     claim: "The verdict's terminal-phase statistics (Aug 2025–Mar 2026) begin after the sequence this entry dates; the quantified asymmetry the verdict measures is the long tail of the ordering resolved here."
+  - target: "[[wiki/mind/synthesis/may-august-2025-bridge]]"
+    type: references
+    claim: "The May–August corridor is the next window of the same dated reconstruction — the bridge continues the month-by-month accounting this chronology starts in February 2025."
 ---
 
 # The 2025 Move Chronology: Before, Not Simultaneous
 
 The hinge had one unanswered ordering question, and [[wiki/mind/synthesis/the-2025-collapse|the 2025-collapse entry]] flagged it as the highest-value dating gap in the whole window:
-did Annie move to her parents' house **before**, **after**, or **simultaneous with** Dan's February 22, 2025 exit from New York?
+did [[wiki/people/annie-ulmer|Annie]] move to her parents' house **before**, **after**, or **simultaneous with** Dan's February 22, 2025 exit from New York?
 
 The answer is **before — roughly two weeks before** — and it arrives in a single dated sentence, written by Dan himself, in a thread the wiki already treated as the hinge's most load-bearing primary record.
 
@@ -142,7 +145,7 @@ The parents are being used as the reality-acceptance mechanism: "get her to see 
 The parents came *to* the apartment. This is the loading dock, not the destination.
 **"At least they will be able to take the first load of stuff back with them"** — "the first load" means the move is *starting*, not finishing. There were more loads to come.
 "Back with them" — back to her parents' house. This is Annie's move to her parents', and it began on or immediately after February 6, 2025.
-**"her parents"** — not his. She went to her parents' house in Uniontown; he landed at 337 Saratoga Drive.
+**"her parents"** — not his. She went to her parents' house in Uniontown; he landed at [[wiki/places/337-saratoga-drive|337 Saratoga Drive]].
 The two landings the collapse entry describes were already separating on the 6th, before his own exit.
 That evening, the Apple-service thread logs a Genius Bar reminder for 4:15 PM — the ordinary calendar still running underneath the move.
 
@@ -200,7 +203,7 @@ The performance had an audience of three (Annie, her parents, himself, per the c
 The dealer got the matinee.
 
 **February 22 — the exit.**
-Dan leaves 307 E 76th St and returns to 337 Saratoga Drive **[ATTESTED — agent-A residence table, agent-D timeline]**.
+Dan leaves 307 E 76th St and returns to [[wiki/places/337-saratoga-drive|337 Saratoga Drive]] **[ATTESTED — agent-A residence table, agent-D timeline]**.
 The same day, in the Annie thread (cited to annie_all_time_logs.csv; the CSV is not on disk, so these carry the page's citation):
 Annie — *"I don't want to be away from you. I don't. I am so sorry I caused this disaster"* — and Dan — *"I remember the day you moved in being SO FUCKING happy that we wouldn't have to be apart anymore"* **[OPERATOR + HER-MESSAGE, via wiki/people/annie-ulmer]**.
 The exchange reads as a leave-taking between two people already separated: she is at her parents', he is arriving at his mother's, and the February 6 move is two weeks behind them.

@@ -77,17 +77,20 @@ connections:
   - page: wiki/mind/synthesis/supply-network
     type: updates
     claim: "That page's June 2025 prescriber episode — the three quoted messages about the out-of-state prescription failing — is annotated here as never_observed in the authoritative corpus (dat:0028, 0 messages on 2025-06-08 and 2025-06-12). The supply topology is held open rather than resolved, which changes what the corridor can claim about the chemical architecture's mid-year state."
+  - target: "[[wiki/mind/synthesis/2025-move-chronology]]"
+    type: extends
+    claim: "Continues the move chronology's dated month-by-month reconstruction into the May–August corridor the hinge entry never narrated."
 ---
 
 # The May–August 2025 Bridge
 
-Between the April 27, 2025 clearing — the ChatGPT "impartial arbiter"
-session — and the August 29 first contact with Kristin Prentiss, there are
+Between the April 27, 2025 clearing — the [[wiki/self/concepts/chatgpt|ChatGPT]] "impartial arbiter"
+session — and the August 29 first contact with [[wiki/people/kristin|Kristin Prentiss]], there are
 four months the wiki has never narrated. The hinge entry ends at the
 clearing. The Kristin entry begins at first contact. In between: the
 Saratoga landing, the basement, the return to work, a friendship started
 and incinerated in twelve minutes, the wall of portraits, the heaviest AI
-usage of his life, and the terminal turn of the Annie channel. The numbers
+usage of his life, and the terminal turn of the [[wiki/people/annie-ulmer|Annie]] channel. The numbers
 exist. The narrative doesn't. This entry reconstructs what the corpus
 supports, and marks what it doesn't.
 
@@ -356,7 +359,7 @@ fuse. The life-events calendar logs **30 events** — against September's
 collapse: Cheating accusation; Burning ritual ('One more load to
 burn...'); Wall of Despair; Unconditional love monologues; GPS proxy; drug
 tether"* **[ATTESTED — the LIFE_EVENTS calendar as carried in the
-2025-collapse period page]**. The terminal phase of the Annie channel —
+[[wiki/timeline/periods/2025-collapse|2025-collapse period page]]**. The terminal phase of the Annie channel —
 which [[wiki/mind/synthesis/dan-annie-fallout-verdict|the fallout verdict]] will later measure as August 2025 through March
 2026, 18,236+ messages, Dan at 55.2% — begins here **[ATTESTED — the
 annie-ulmer page's terminal-phase extract]**.
@@ -425,7 +428,7 @@ exocortex is complete inside the window.
 
 **August 29–30: first contact.** A Messenger UI screen capture, taken the
 morning of September 1, holds a conversation timestamped August 29 and 30
-**[ATTESTED]**. The Facebook phase parses to **2,009 distinct messages —
+**[ATTESTED]**. The [[wiki/self/facebook|Facebook]] phase parses to **2,009 distinct messages —
 1,439 from Dan, 570 from her**: he is sending 2.5× what she sends, the
 inverse of the Annie channel's standing asymmetry, and the volume is the
 courtship **[DERIVED — HIGH — [[wiki/mind/synthesis/kristin-channel|the kristin-channel page]]]**. Politics and
@@ -448,12 +451,12 @@ the pattern is documented at August 3]**.
 
 Two adjacent loops are datable inside the corridor:
 
-- **Rick.** Total non-response from Dan since **February 26, 2025** —
+- **[[wiki/people/rick-frank|Rick]].** Total non-response from Dan since **February 26, 2025** —
   beginning the day after Dan himself proposed a get-together Rick
   accepted — held about a year **[ATTESTED — the block-unblock-loop
   page's corrected Rick block]**. The corridor's May–August is inside
   that silence. The family channel is dark for the entire bridge.
-- **Menore.** The February 20, 2025 farewell stands; the supplier is
+- **[[wiki/people/menore|Menore]].** The February 20, 2025 farewell stands; the supplier is
   confirmed still operating through 2026, and Dan benchmarked his new
   market against him through July 2025 **[ATTESTED — [[wiki/mind/synthesis/block-unblock-loop|the loop page]]]**.
   The procurement geography outlasts the personal channel.
@@ -505,15 +508,15 @@ Assembled from dated fragments, with the seams showing:
 - **Work:** eleven months unemployed → mid-2025 return to an unnamed
   full-time job, 40-hour weeks by the session date. No career ladder, no
   named employer, no documented wage **[UNKNOWN on all three]**.
-- **Chemical architecture:** daily Suboxone (16+ unbroken years from
+- **[[wiki/health/chemical-architecture|Chemical architecture]]:** daily Suboxone (16+ unbroken years from
   Feb 17, 2010); by June 2025 the prescription is the default route with
   the dealer network as failover; Tom the named failover
   **[ATTESTED — the health timeline; the June episode itself DISPUTED as
-  above]**. Daily cocaine, nicotine, cannabis; alcohol zero — the
+  above]**. Daily [[wiki/health/cocaine|cocaine]], nicotine, cannabis; alcohol zero — the
   standing architecture, unchanged by the corridor **[ATTESTED — the
   health summary]**.
-- **Social contact:** Rick dark since Feb 26. Tom: the supply line and
-  the September tattoo disclosure (just past the window). James: May 27
+- **Social contact:** [[wiki/people/rick-frank|Rick]] dark since Feb 26. Tom: the supply line and
+  the September tattoo disclosure (just past the window). [[wiki/people/james|James]]: May 27
   to July 11, then twelve minutes to severance. Suz: cohabiting,
   Chapter 13, the house's owner-realtor. Annie's extended family: the
   niece/nephew orbit through May–June (Sweet Frog May 8, pedicures May
@@ -531,9 +534,9 @@ Assembled from dated fragments, with the seams showing:
 Three claims, each checkable:
 
 1. **The construction needed the floor.** September's 97 events and the
-   14,688-message Kristin September do not start from the April clearing;
+   14,688-message [[wiki/people/kristin|Kristin]] September do not start from the April clearing;
    they start from the August routine — the job, the basement, the wall,
-   the machines, the terminal-turned Annie channel. Remove the corridor
+   the machines, the terminal-turned [[wiki/people/annie-ulmer|Annie]] channel. Remove the corridor
    and the construction reads as eruption; with it, it reads as
    continuation **[INFERRED — MED-HIGH]**.
 2. **The loop's terminal shape predates the terminal statistics.**

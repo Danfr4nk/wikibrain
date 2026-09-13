@@ -64,14 +64,15 @@ connections:
   - page: wiki/mind/concepts/attachment-model
     type: instantiates
     claim: "The attachment model's 299:0 finding (love-affirmations against severance signals) is this atlas's inbound column for the Annie dyad stated at the system level: across all 503 handles the corpus contains exactly one inbound executed severance signal from a romantic counterparty (Kristin, December 9, 2025), and it did not come from Annie."
+  - { target: "[[wiki/mind/synthesis/severance-declaration-audit]]", type: corroborates, claim: "The atlas's coded declarations are the language sample the audit counts — the audit's 36-38 figure for August 15-19 is the quantitative face of this entry's qualitative coding." }
+  - { target: "[[wiki/mind/synthesis/witness-channel-declarations]]", type: contextualizes, claim: "The atlas's Ally-channel 'blocked her' rows are the language evidence the witness-channel entry's claim-by-claim anatomy is built from: declarations about a toggle that was never thrown." }
 ---
 
 # The Severance-Language Atlas
 
 Dan's severance declarations are famous inside this wiki — 129 episodes, 36 seconds,
 100% resumption — but every measurement to date has been scoped to one dyad. This
-entry asks the obvious next question and answers it with a corpus-wide instrument: **is
-the declaration grammar specific to the Annie dyad, or does it run system-wide?** The
+entry asks the obvious next question and answers it with a corpus-wide instrument: **is the declaration grammar specific to the [[wiki/people/annie-ulmer|Annie]] dyad, or does it run system-wide?** The
 answer, measured across 192,140 messages on 570 threads: **the grammar is system-wide as
 vocabulary and dyad-concentrated as performance.** The words appear on 25 threads —
 dealers, caddy friends, a group chat, a self-thread, a joke. The *signature* — the
@@ -101,7 +102,7 @@ The measurement was run 2026-09-13 against the wikitest corpus build:
 documented full corpus is 217,573 records / 503 handles; the build used here is the
 machine-local export of it, and every count below is labeled [DERIVED] from that build
 so a re-run on a different build can be compared honestly. Threads and handles are not
-the same unit — one person can hold several numbers (Annie holds at least four), one
+the same unit — one person can hold several numbers ([[wiki/people/annie-ulmer|Annie]] holds at least four), one
 number can be re-used by a different person, and one thread (the group chat) holds
 three people — and the atlas treats the thread as the unit of measurement and the
 person as the unit of interpretation, flagging every place the two diverge.
@@ -128,10 +129,9 @@ noisy. The false-positive classes, named so a re-run can reproduce the exclusion
 
 1. **Activity-completion "I'm done":** *"I'm done showering"*, *"I'm done golfing"*,
    *"I'm done dashing lol"*, *"K im done i just got back at my dads"* — the single
-   largest noise source, and the reason the guarded pattern exists. The Kristin thread
-   alone carries a dozen of these (DoorDash-era logistics), all excluded.
+   largest noise source, and the reason the guarded pattern exists. The [[wiki/people/kristin|Kristin]] thread alone carries a dozen of these (DoorDash-era logistics), all excluded.
 2. **Reported speech:** *"Omg, That's her saying goodbye"* (a friend narrating someone
-   else's exit), *"hope you said goodbye to milo"* — goodbye as a word about a third
+   else's exit), *"hope you said goodbye to [[wiki/people/milo|milo]]"* — goodbye as a word about a third
    party's act, not the speaker's.
 3. **General resolutions:** *"I will never again date a girl that drinks"* — a maxim,
    not a severance; no counterparty, no channel.
@@ -192,7 +192,7 @@ on every thread resumes — 104/104 on the Annie handles, 6/6 on Kristin, 1/1 on
 Cole, 1/1 on the dealer thread. The instrument finds no outbound declaration by Dan, on
 any handle, that ends contact. The exceptions in the atlas are all inbound.
 
-## The Annie dyad across handles
+## The [[wiki/people/annie-ulmer|Annie]] dyad across handles
 
 The dyad does not live on one number, so the atlas does not score it on one number.
 Three handles plus the blank-identifier aggregate carry the declaration traffic:
@@ -225,7 +225,7 @@ here). Two instruments, two builds, two vocabularies: the ritual does not care w
 ruler you use.
 
 Two caveats ride with the dyad's numbers, and both are load-bearing enough to state
-plainly. First, **the Coles seizures**: at least six inbound messages on +12124702449
+plainly. First, **the [[wiki/people/jerel-coles|Coles]] seizures**: at least six inbound messages on +12124702449
 in the August 2026 window were typed by Jerel Coles, including *"You made me fuck guys
 for money"* (2026-08-16 23:45:10) [ATTESTED — annie-ulmer]. A naive per-handle read
 files those as her testimony; they are his. For the resumption measurement the
@@ -266,7 +266,7 @@ unsent artifact in the notes-to-self thread. The performance, at its most elabor
 had no audience at all — unless the audience was the future self who would re-read
 it. File that under the witness section's strangest case.
 
-## The Kristin dyad: the grammar at low volume, the exit from the other side
+## The [[wiki/people/kristin|Kristin]] dyad: the grammar at low volume, the exit from the other side
 
 The Kristin thread (+13307038747, 2025-09-01 → 2025-12-11, 19,664 messages) is the
 atlas's second case and its most instructive contrast. His declaration grammar runs
@@ -292,8 +292,7 @@ here at low volume — **6 outbound episodes** [DERIVED]:
 
 **Median gap: 0.1 minutes — six seconds.** All six resumed. His declaration grammar,
 run on a second romantic dyad, behaves exactly as on the first: performance,
-witnessed, resumed inside the minute. The grammar is not Annie-specific. What is
-Annie-specific is the *volume* — 104 episodes against 6 — and, as the next paragraph
+witnessed, resumed inside the minute. The grammar is not [[wiki/people/annie-ulmer|Annie]]-specific. What is [[wiki/people/annie-ulmer|Annie]]-specific is the *volume* — 104 episodes against 6 — and, as the next paragraph
 shows, the direction of the one declaration that held.
 
 Because on **2025-12-09 at 23:55:49**, the direction reversed, and the atlas records
@@ -310,8 +309,7 @@ to confront the truth about yourself, ya know?"* 2025-12-11 01:29:12) — one-wa
 traffic into a held block — then silence from both sides for the rest of the build
 (through 2026-09-07), eight months as observed contact. The declaration that held is
 the one he did not issue. Her signal was followed by no counter-bid — nothing to
-trade against — so the intention was simply performed, the way the trade rule
-(block-unblock-loop) says unstated-or-unanswered intentions are. The atlas's
+trade against — so the intention was simply performed, the way the trade rule ([[wiki/mind/synthesis/block-unblock-loop|block-unblock-loop]]) says unstated-or-unanswered intentions are. The atlas's
 sharpest single finding: **his six declarations to Kristin resumed in a median six
 seconds; her one declaration to him held eight months.**
 
@@ -330,7 +328,7 @@ ended.
 This is the architecture's asymmetry running in miniature and the only case in the
 atlas where it runs to completion on a romantic channel: **she issued, he answered,
 it held.** The next message on the thread comes **186 days later** (2019-08-02,
-*"hey did you want to meet up with Annie today for those?"*) — different content,
+*"hey did you want to meet up with [[wiki/people/annie-ulmer|Annie]] today for those?"*) — different content,
 different person or same person on a different errand, [UNKNOWN] which; a number
 reused or a topic changed, the thread cannot say. What it can say is that the
 severance exchange of January 28 was terminal for the dyad it closed. The fling's
@@ -343,7 +341,7 @@ reason is visible in the transcript: the exit was hers before it was his.
 Outside the two romantic dyads, the declaration grammar appears as singletons —
 genuine specimens, each resumed, each instructive about the grammar's range:
 
-**Jason Cole (+17249846036, 2016-12-14).** The money/art dispute over the $85 Betty
+**[[wiki/people/jason-cole|Jason Cole]] (+17249846036, 2016-12-14).** The money/art dispute over the $85 Betty
 portrait commission. His block-claim: *"I'm blocking you and I'll tell u when I'm
 home"* (20:10:14) [ATTESTED] — followed one minute later by his own *"That's fun"*
 / *"Later"*, then Jason's replies at 20:11 and 21:15. The thread ends on Jason's
@@ -361,22 +359,20 @@ performance.
 
 **The arrangement third party (+17249844280, 2019-02-19).** Two *"It's over"*
 hits — *"It's over, I wouldn't have even brought it up if I weren't concerned that
-you were mad or thought I was mad"* — both outbound, both **typed by Annie from
-Dan's phone** (the thread opens *"Hey it's Annie"*, and the counterparty asks
+you were mad or thought I was mad"* — both outbound, both **typed by [[wiki/people/annie-ulmer|Annie]] from Dan's phone** (the thread opens *"Hey it's Annie"*, and the counterparty asks
 *"why are you texting me from Dan's phone"*) [ATTESTED]. Authorship matters: these
 are her severance of the arrangement, filed under his direction column. The atlas
 counts them as his thread's, with the authorship flag — another handle-is-not-a-
 person case.
 
-**The group chat (chat159239664500651272, 2026-06-01 → 08-19).** Dan, Coles, and
-Annie's 212 number — 567 messages across the terminal summer. The declaration hits
+**The group chat (chat159239664500651272, 2026-06-01 → 08-19).** Dan, [[wiki/people/jerel-coles|Coles]], and [[wiki/people/annie-ulmer|Annie]]'s 212 number — 567 messages across the terminal summer. The declaration hits
 are meta-talk, not declarations: *"My dude does it bode well that she didn't say
 'hey Im done there's someone I want to see' and just lied"* (2026-06-01 02:46:53,
 outbound) [ATTESTED]. The grammar has become something the participants discuss
 as a move in the game — *"she didn't say the line"* as a tell. The performance is
 now legible to its own audience.
 
-**Ally (allylubin@gmail.com).** Two outbound hits, both meta: *"I feel like I kept
+**[[wiki/people/ally-lubin|Ally]] (allylubin@gmail.com).** Two outbound hits, both meta: *"I feel like I kept
 giving legitimate chances to just say 'im done'"* (2026-08-19) — the demand for
 her severance signal, stated to the witness — and *"Ew never again"* (2026-08-31).
 The channel carries talk *about* the declaration grammar, which is the witness
@@ -411,13 +407,12 @@ channel evidence [DERIVED, ATTESTED texts]:
 - 2026-09-07 — *"So she must have been texting me like literally AS i unblocked
   her"* / *"I just blocked her again and hopefully he doesn't show up here again"*
 
-Against the retraction — *"there was never a block"* [OPERATOR], daily two-way
-texting on the Annie channel August 27–September 7 [DERIVED] — these are
+Against the retraction — *"there was never a block"* [OPERATOR], daily two-way texting on the [[wiki/people/annie-ulmer|Annie]] channel August 27–September 7 [DERIVED] — these are
 declarations about a channel toggle that was never thrown, issued to a witness who
 cannot see the channel. The August 28 message is the specimen: the speaker
 narrating his own enacted boundary to an audience, uncertain of its duration
 (*"I don't even know how long it's been"*), while the boundary never existed. The
-performance selects for unwitnessable stages — Ally cannot see the Annie thread,
+performance selects for unwitnessable stages — [[wiki/people/ally-lubin|Ally]] cannot see the [[wiki/people/annie-ulmer|Annie]] thread,
 and neither could the wiki until the September 11 forensics [INFERRED]. The earlier
 third-person claims follow the same shape at lower stakes: *"I blocked her"*
 (2018-01-18, on the Annie 724 thread, context: a third party), *"emaly sent me
@@ -435,7 +430,7 @@ architecture predicts the system's behavior from it. Across 192,140 rows, 570
 threads, 2011–2026, inbound severance signals that meet the grammar (first-person,
 present-tense, channel-directed, with or without terms):
 
-1. **Kristin, 2025-12-09** — *"Blocking you now. Don't contact me again or an
+1. **[[wiki/people/kristin|Kristin]], 2025-12-09** — *"Blocking you now. Don't contact me again or an
    officer will be reaching out."* Executed. Held eight months as observed contact.
    The corpus's one clean inbound severance.
 2. **The 2018–19 fling, 2019-01-28** — *"I'm done. You don't want me, you don't
@@ -444,10 +439,9 @@ present-tense, channel-directed, with or without terms):
 3. **"Nabeel," 2019-05-26** — *"No we're done. Deuces"* → *"Jk of course"* sixty
    seconds later. The joke form. Retracted faster than any genuine declaration in
    the atlas.
-4. **Annie, 2015–2026** — zero, in 41,073 messages [DERIVED, dat:0081]. The
+4. **[[wiki/people/annie-ulmer|Annie]], 2015–2026** — zero, in 41,073 messages [DERIVED, dat:0081]. The
    dog that never barked, confirmed at corpus scale: the scan's 13–37 inbound hits
-   on her threads are activity-completion, reported speech, Coles-seizure
-   contamination, and mid-fight *"i'm done"* bursts the recount already adjudicated.
+   on her threads are activity-completion, reported speech, [[wiki/people/jerel-coles|Coles]]-seizure contamination, and mid-fight *"i'm done"* bursts the recount already adjudicated.
 
 Three inbound signals in fifteen years, two of them exits, none of them hers. The
 system can receive the grammar — it received it twice and processed both as
@@ -461,14 +455,13 @@ complete. It is a bid awaiting her signal, and the signal is the one thing her
 
 ## The answer: vocabulary system-wide, performance dyad-specific
 
-Return to the batch plan's question: *is the declaration grammar specific to the
-Annie dyad or does it appear across handles?* The atlas answers in two parts,
+Return to the batch plan's question: *is the declaration grammar specific to the [[wiki/people/annie-ulmer|Annie]] dyad or does it appear across handles?* The atlas answers in two parts,
 because the question conflates two things the data separates.
 
 **The vocabulary is system-wide.** Twenty-five threads carry the words. Dealers
 hear *"never again"* as a maxim; caddy friends hear *"I'm done"* as activity;
 a group chat discusses *"im done"* as a tell; a stranger jokes *"we're done.
-Deuces"* and retracts it in a minute; Jason Cole hears *"I'm blocking you"*
+Deuces"* and retracts it in a minute; [[wiki/people/jason-cole|Jason Cole]] hears *"I'm blocking you"*
 over $85. The grammar is available everywhere — it is ordinary English for
 ending things, and Dan uses it the way anyone does, thinly and casually, across
 the whole graph. Nothing about the words is dyad-specific.
@@ -477,7 +470,7 @@ the whole graph. Nothing about the words is dyad-specific.
 describe — the declaration issued in the small hours, witnessed, resumed within
 minutes, repeated until the count needs three digits — appears at full strength
 on exactly one dyad (104 outbound episodes, 100% resumption, medians of minutes)
-and at low volume on exactly one more (Kristin: 6 episodes, 100% resumption,
+and at low volume on exactly one more ([[wiki/people/kristin|Kristin]]: 6 episodes, 100% resumption,
 median six seconds). Everywhere else it appears once and dies, or appears as
 noise. And the two dyads where the performance runs are the two romantic dyads
 with sustained high-volume contact — the grammar needs a stage, and the stage is
@@ -507,8 +500,7 @@ most consistent success, depending on what you think the speech act is for.
 
 The atlas found four, and none are reconciled:
 
-1. **104 vs 129.** This instrument's stricter vocabulary collapses the Annie
-   handles to 104 outbound episodes; the 2026-08-23 recount's looser vocabulary
+1. **104 vs 129.** This instrument's stricter vocabulary collapses the [[wiki/people/annie-ulmer|Annie]] handles to 104 outbound episodes; the 2026-08-23 recount's looser vocabulary
    (counting bare mid-fight *"i'm done"*) found 129 on its build. Both use the
    24-hour rule. The resumption finding (100%) is invariant; the count is
    rule-relative. Neither is "the" count.
@@ -516,7 +508,7 @@ The atlas found four, and none are reconciled:
    (97,768 unique messages); Dan's Facebook registration lists it as his phone;
    this build shows it as a 182-message self-thread. At least one page-level
    claim is wrong. The atlas reports the build.
-3. **Handle ≠ person, both directions.** Coles typed at least six inbound
+3. **Handle ≠ person, both directions.** [[wiki/people/jerel-coles|Coles]] typed at least six inbound
    messages on Annie's 212 handle (August 2026); Annie typed outbound messages
    on the +17249844280 thread from Dan's phone (February 2019); the +17245525006
    number may have changed hands between January and August 2019. Per-handle
@@ -524,14 +516,14 @@ The atlas found four, and none are reconciled:
    above the thread level is flagged where it matters.
 4. **The blank-identifier aggregate.** 10,031 rows with no chat_identifier and
    fourteen distinct senders, spanning 2015–2026. Its 7 declaration episodes are
-   attributed to the Annie dyad by content (her aol address, her name, Milo),
+   attributed to the Annie dyad by content (her aol address, her name, [[wiki/people/milo|Milo]]),
    not by handle. A stricter instrument would exclude them; this one includes
    them flagged.
 
 ## Gaps
 
-1. **The Kristin thread's missing 9,259.** The August 13 export audit found
-   9,259 received messages on Annie's alternate handles never swept for
+1. **The [[wiki/people/kristin|Kristin]] thread's missing 9,259.** The August 13 export audit found
+   9,259 received messages on [[wiki/people/annie-ulmer|Annie]]'s alternate handles never swept for
    severance language (dat:1292's coverage note). This atlas's build may or may
    not include them; the inbound zero for Annie rests on the swept portion.
 2. **The 503-handle denominator.** The documented corpus is 503 handles; this
@@ -552,7 +544,7 @@ The atlas found four, and none are reconciled:
    luck,"* different content. Number reuse, same person on new terms, or a
    different dyad entirely: the thread cannot say, and the fling's "terminal"
    label is provisional on the answer.
-6. **The Jason Cole ending.** The thread's last message is Jason's (2016-12-14
+6. **The [[wiki/people/jason-cole|Jason Cole]] ending.** The thread's last message is Jason's (2016-12-14
    21:15), unanswered. Whether the friendship survived December 2016, and
    whether the block-claim was ever enacted off-thread, is the jason-cole
    page's standing gap — this atlas adds only that the claim itself resumed in
@@ -573,10 +565,9 @@ The atlas found four, and none are reconciled:
 - Timestamps are export-local; the sibling entries note UTC-vs-local hazards
   in the CSVs. Gaps under a minute are robust to this; the 6-second medians
   should be read as "inside the minute," not as precise durations.
-- Direction columns in this build are from Dan's POV (`is_from_me`); the
-  Coles seizures and the Annie-typed outbound messages show the column is
+- Direction columns in this build are from Dan's POV (`is_from_me`); the [[wiki/people/jerel-coles|Coles]] seizures and the [[wiki/people/annie-ulmer|Annie]]-typed outbound messages show the column is
   necessary but not sufficient for authorship.
-- The corpus ends 2026-09-07. The September 12 Kristin reinitiation (four
+- The corpus ends 2026-09-07. The September 12 [[wiki/people/kristin|Kristin]] reinitiation (four
   outbound iMessages breaking her block, dat:1453) postdates the build and is
   not scored here — the "held eight months" claim is as-observed-in-build.
 - Epistemic discipline: every count above is [DERIVED] from the 192,140-row

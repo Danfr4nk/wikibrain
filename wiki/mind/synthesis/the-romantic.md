@@ -52,11 +52,12 @@ connections:
   - page: wiki/mind/concepts/conflict-architecture
     type: evidenced-by
     claim: "dat:0624 verifies the love-bomb exchange verbatim to the second; this entry reads the concession and its nine-minute reabsorption ('you can call me a love bomber all you want') as the style's signature move under challenge — concede the term, keep the weather."
+  - { target: "[[wiki/mind/synthesis/vacancy-rule]]", type: references, claim: "The June 1 burst — a marriage proposal nineteen hours after the breakup — is the vacancy rule's Transition 5, the failed Annie-to-Ally transfer." }
 ---
 
 # The Romantic
 
-On September 4, 2025 — three days after the iMessage thread with Kristin
+On September 4, 2025 — three days after the iMessage thread with [[wiki/people/kristin|Kristin]]
 Prentiss opened, five days after first contact — Dan types the sentence this
 whole entry is about:
 
@@ -93,7 +94,7 @@ The style has five forms, and they recur across channels with the regularity
 of a hand. None of them is the affection itself; all of them are the
 affection's *delivery system*.
 
-**One: the declaration burst.** "I love you" deployed at volume, early, and repeatedly — 354 sent instances to Kristin in ten weeks **[DERIVED]**; the founding-week vows to Annie ("It's done I'm yours," 2015-11-29; "Annie Ulmer from now on its just you and me," 2015-12-01) **[ATTESTED, via [[wiki/people/annie-ulmer]]]**; the June 1, 2026 Ally burst ("My sweetness my love," nineteen hours after the severance) **[OPERATOR, via [[wiki/people/ally-lubin]]**. The burst is front-loaded by design: it is a demonstration, and demonstrations are loudest at the opening. Ally, the only counterparty to name it in the record, called it *"love bomb"* on August 18, 2026, and he conceded — *"Okay that's fair then"* — in 88 seconds (dat:0624). The name the corpus gives the form is hers, and he accepted it. Then, nine minutes later, he reabsorbed it as a joke (*"you can call me a love bomber all you want I will find my Cassie from series 1 skins someday"*), which is the form's immune response: concede the term, keep the weather.
+**One: the declaration burst.** "I love you" deployed at volume, early, and repeatedly — 354 sent instances to [[wiki/people/kristin|Kristin]] in ten weeks **[DERIVED]**; the founding-week vows to Annie ("It's done I'm yours," 2015-11-29; "Annie Ulmer from now on its just you and me," 2015-12-01) **[ATTESTED, via [[wiki/people/annie-ulmer]]]**; the June 1, 2026 Ally burst ("My sweetness my love," nineteen hours after the severance) **[OPERATOR, via [[wiki/people/ally-lubin]]**. The burst is front-loaded by design: it is a demonstration, and demonstrations are loudest at the opening. Ally, the only counterparty to name it in the record, called it *"love bomb"* on August 18, 2026, and he conceded — *"Okay that's fair then"* — in 88 seconds (dat:0624). The name the corpus gives the form is hers, and he accepted it. Then, nine minutes later, he reabsorbed it as a joke (*"you can call me a love bomber all you want I will find my Cassie from series 1 skins someday"*), which is the form's immune response: concede the term, keep the weather.
 
 **Two: the love note, the love letter.** Short-form ("good night pretty girl," nightly, 2026-09-07 01:44:26 in the filed export **[ATTESTED, via [[wiki/mind/synthesis/severance-declarations]]**) and long-form (the Sep 5, 2025 Kristin letter — *"do not make fun of me for being such a bad writer who needs 4000 word selection edits to finish a single love letter ugh"* — and the Aug 21, 2026 Ally letter, signed *"Your future soulmate, Beto o'rourke"*) **[ATTESTED]**. The letter names its own genre and pre-apologizes for it; the Ally letter contains the line *"this is where your observation about me saying the same trite shit to girls would usually invalidate all of the aww factor"* — the disarm-the-critique-in-advance move, which is itself a romantic form: the apology for the love note, folded into the love note.
 
@@ -101,7 +102,7 @@ affection's *delivery system*.
 
 **Four: the ritual.** "Good night pretty girl" — nightly, tender, bond-affirming, running in the same 72 hours as "Omfg goodbye" in September 2026 **[ATTESTED]**. The ritual is the style's low-voltage setting: not the burst, not the letter, but the thing that gets repeated until it is furniture. In the explicit-verbal architecture, the ritual is rule-maintenance — every "good night pretty girl" re-issues the founding rule ("from now on its just you and me") in miniature. The severance-declarations page reads it as the declaration's counter-grammar; this page reads it as one of the romantic's nightly forms. Both readings hold: the lullaby beside the obituary.
 
-**Five: the audition speech.** The Sep 25, 2025 Kristin address is the type specimen: *"I am the person who can give you the passion, intensity and real spirit of romantic adventure that you've described in your relationship with danny, but with a sense of permenance and stability that keeps you from having to wonder or worry about whether or not i am going to lose interest, change or stop giving you 100% of my heart and soul"* **[ATTESTED, 2025-09-25 17:04:58]**. The audition is the style applied to a vacancy: a prior relationship's terms (Danny's passion without permanence) become the audition criteria, and the romantic offers the corrected version — same myth, better ending. The kristin-channel page reads this as the rescue premise's romantic instance; this page reads it as the repertoire's fifth form. The misspelling ("permenance") stays in the record because the record is the record.
+**Five: the audition speech.** The Sep 25, 2025 Kristin address is the type specimen: *"I am the person who can give you the passion, intensity and real spirit of romantic adventure that you've described in your relationship with danny, but with a sense of permenance and stability that keeps you from having to wonder or worry about whether or not i am going to lose interest, change or stop giving you 100% of my heart and soul"* **[ATTESTED, 2025-09-25 17:04:58]**. The audition is the style applied to a vacancy: a prior relationship's terms (Danny's passion without permanence) become the audition criteria, and the romantic offers the corrected version — same myth, better ending. The kristin-channel page reads this as [[wiki/mind/synthesis/the-rescue-premise|the rescue premise]]'s romantic instance; this page reads it as the repertoire's fifth form. The misspelling ("permenance") stays in the record because the record is the record.
 
 All five forms share one property, and it is the property that makes them a
 style rather than a set of habits: **they are authored.** The nicknames get
@@ -114,7 +115,7 @@ the burst's reputation either. It is closer to stagecraft — and the question
 the entry keeps returning to is whether stagecraft is the opposite of
 sincerity, or its vehicle.
 
-## Type specimen I: Kristin — the fastest inflation on record
+## Type specimen I: [[wiki/people/kristin|Kristin]] — the fastest inflation on record
 
 The Kristin channel is where the style runs at its maximum documented voltage,
 and the reason is structural: the channel is short. Ten weeks, 22,018 messages
@@ -134,7 +135,7 @@ warranty, withdrawal — in the time other channels spend on the burst.
 
 She replies: *"I know. I'm the same."* Two things are load-bearing here.
 First, the phrase "love bombing" is in the primary record from **him**,
-disclaimed, on September 4, 2025 — eleven and a half months before Ally
+disclaimed, on September 4, 2025 — eleven and a half months before [[wiki/people/ally-lubin|Ally]]
 applies it as a challenge and he concedes. He had the term, he had the
 defense, he ran the defense preemptively, in the first week, to a woman he had
 known for six days. Second, the warranty's grammar is absolute: *wouldn't say
@@ -181,7 +182,7 @@ flowery language or love bombing," Sep 4, 2025) doesn't count, because a
 disclaimer is the warranty doing its job. Second, the concession's mechanism
 is the narrowing: she removes the premise his redefinition needed (malice),
 and the redefinition starves. Third — and this is the part the
-conflict-architecture page's theory section does not incorporate, filed in
+[[wiki/mind/concepts/conflict-architecture|conflict-architecture]] page's theory section does not incorporate, filed in
 dat:0624's caveats — nine minutes later he reabsorbs the conceded term as a
 joke: *"Listen you can call me a love bomber all you want I will find my
 Cassie from series 1 skins someday"* (21:18:51 EDT). The concession completes;
@@ -227,11 +228,11 @@ letter becomes the ritual, the soliloquy becomes the retrospective.
 
 **The founding.** November 28, 2015: the thread opens with her mid-rupture. November 29: the "It's done I'm yours" vows. December 1, 2015, screenshot EXIF 13:38 EST — in the hours after Alexis's eviction, Dan declares the bond's founding rule over iMessage: *"Because I didn't sleep and I want to bask in my new life with you"* — then *"Brace yourself"* — then *"Annie Ulmer from now on its just you and me"* — *"Because she's gone"* — *"We made it lol."* She answers: *"You're adorable"* — then *"This is wonderful you give me the best feeling."* His last visible line: *"I wanna spend forever smothering you in love"* **[ATTESTED, dat:annie-new-life-exchange-2015-12-01, via [[wiki/people/annie-ulmer]]**.
 
-*"Smothering."* The word choice is the style in one verb — affection as total coverage, love as atmosphere, the weather already. And "forever," on day three of the thread (the origin week is textually dark; the thread's first visible day is November 28). The Kristin "I love you" on day three of contact and the Annie "forever smothering" on day three of the thread: the style's ignition timing is fixed. It does not need information about the person. It needs the channel to be open.
+*"Smothering."* The word choice is the style in one verb — affection as total coverage, love as atmosphere, the weather already. And "forever," on day three of the thread (the origin week is textually dark; the thread's first visible day is November 28). The [[wiki/people/kristin|Kristin]] "I love you" on day three of contact and the Annie "forever smothering" on day three of the thread: the style's ignition timing is fixed. It does not need information about the person. It needs the channel to be open.
 
 **The ritual.** "Good night pretty girl" — nightly, tender, the bond's closing formula, running in the same 72 hours as "Omfg goodbye" in September 2026 (2026-09-07 01:44:26 in the filed export) **[ATTESTED, via [[wiki/mind/synthesis/severance-declarations]]**. That page reads it as the declaration's counter-grammar — the lullaby beside the obituary, rule-maintenance against the 129 severance performances. This page reads the same primary fact as the romantic style's low-voltage form: the love note reduced to a nightly pulse, affection as furniture. The ritual's full history — when it started, whether it ever stopped — is unwritten **[UNKNOWN, per that page's Gaps]**. What is known: it was intact six days into September 2026, in the channel the declarations claimed to have closed, while the witness channel got the obituaries. The dyad receives care; the audience receives severance. The romantic style, in its late form, has learned to address its performances to the recipient who can use them.
 
-**The volume curve.** The year-by-year table on [[wiki/people/annie-ulmer]]: Dan out-messaged Annie only in 2015 (7,242 vs 6,394, ratio 1.13 — the beginning) and in the 2025–26 termination window (the ending). Every year between, she out-answered him — 2024, the Eli-affair year, the most Annie-dominant of the decade (5,273 vs 11,467, ratio 0.46) **[DERIVED, via that page]**. The annie-ulmer page's gloss: *"his volume overtakes hers as the ending's attachment activation mirrors the beginning's."* The romantic style's demonstration energy is visible in the ratio: maximum at ignition (2015), minimum at steady state, maximum again at termination. The weather arrives with the opening and returns with the closing; the middle is someone else's traffic. This is the same curve as Kristin's, stretched over a decade: 73.4% in month one there; the 1.13 ratio in year one here. The style front-loads. It always front-loads. The audition is the relationship's first act, not its prelude.
+**The volume curve.** The year-by-year table on [[wiki/people/annie-ulmer]]: Dan out-messaged Annie only in 2015 (7,242 vs 6,394, ratio 1.13 — the beginning) and in the 2025–26 termination window (the ending). Every year between, she out-answered him — 2024, the [[wiki/people/eli|Eli]]-affair year, the most Annie-dominant of the decade (5,273 vs 11,467, ratio 0.46) **[DERIVED, via that page]**. The annie-ulmer page's gloss: *"his volume overtakes hers as the ending's attachment activation mirrors the beginning's."* The romantic style's demonstration energy is visible in the ratio: maximum at ignition (2015), minimum at steady state, maximum again at termination. The weather arrives with the opening and returns with the closing; the middle is someone else's traffic. This is the same curve as Kristin's, stretched over a decade: 73.4% in month one there; the 1.13 ratio in year one here. The style front-loads. It always front-loads. The audition is the relationship's first act, not its prelude.
 
 **The terminal soliloquies.** March 8, 2026, 930 characters: *"I really did love you for every second since I met you outside of PNC. I wasn't a perfect person but I was only loyal and true to you no matter how you betrayed me... you were the love of my life"* **[ATTESTED, `annie_all_time_logs`]**. May 17, 2026, 1,819 characters: *"i know you and i were SUPPOSED to have been together... I loved you more than anything or anyone"* **[ATTESTED]**. May 27, 2026: *"annie I love you and I truly, sincerely, from the bottom of my heart meant it when I told you that I can and w[ill]"* **[ATTESTED]**. Note the tense shift: *did love, were, SUPPOSED to have been.* The soliloquy form, turned backward — the grand promise become the grand commemoration. The warranty is still there ("truly, sincerely, from the bottom of my heart"), but it is warranting the past now, not the future. The weather has passed; the soliloquy is the storm report. And then, eighty-four days after the March soliloquy, the final message of the eleven-year relationship (2026-08-19 15:15:33), and then — the retraction's finding — daily texting through September 7, the "good night pretty girl" ritual intact. The weather system does not end with the soliloquy. It just changes frequency.
 
@@ -242,9 +243,9 @@ letter becomes the ritual, the soliloquy becomes the retrospective.
 Set the three channels' volume shapes side by side and the style's energetics
 become visible as a single curve with three time constants.
 
-**Kristin: the ten-week compression.** 73.4% of the iMessage record in month one; Dan's share of sends 71.6% → 51.5% → 46.9% → 26.4% → 61.8% (Messenger, Sep, Oct, Nov, Dec) **[DERIVED]**. The 354 "love you"s: 249/105/0 across Sep/Oct/Nov+ **[DERIVED]**. This is the demonstration curve in its purest form because the channel is too short for anything else: ignition, parity, slip, withdrawal, and the returner's solo coda. The curve's shape is the audition's shape — maximum energy at the opening, because auditions are front-loaded by nature — and the kristin-channel page's reading stands: fourteen thousand messages in a month is not a conversation, it is a demonstration. What this page adds: the *affection* follows the same curve as the *volume*. The declarations don't just accompany the demonstration; they *are* the demonstration's content. When the energy goes, the love-words go with it — not gradually, but to zero. November has 53 messages and none of them is "i love you." The weather doesn't fade. It clears.
+**[[wiki/people/kristin|Kristin]]: the ten-week compression.** 73.4% of the iMessage record in month one; Dan's share of sends 71.6% → 51.5% → 46.9% → 26.4% → 61.8% (Messenger, Sep, Oct, Nov, Dec) **[DERIVED]**. The 354 "love you"s: 249/105/0 across Sep/Oct/Nov+ **[DERIVED]**. This is the demonstration curve in its purest form because the channel is too short for anything else: ignition, parity, slip, withdrawal, and the returner's solo coda. The curve's shape is the audition's shape — maximum energy at the opening, because auditions are front-loaded by nature — and the kristin-channel page's reading stands: fourteen thousand messages in a month is not a conversation, it is a demonstration. What this page adds: the *affection* follows the same curve as the *volume*. The declarations don't just accompany the demonstration; they *are* the demonstration's content. When the energy goes, the love-words go with it — not gradually, but to zero. November has 53 messages and none of them is "i love you." The weather doesn't fade. It clears.
 
-**Annie: the decade stretch.** Dan's send ratio 1.13 (2015) → 0.97 → 0.88 → 0.80 → 0.68 (2019) → 0.74 → 0.46 (2024) → 0.95 (2025) **[DERIVED, via [[wiki/people/annie-ulmer]]**. The romantic style's energy is maximum at ignition and at termination, minimum in the middle. The middle years are not loveless — 299+ of her affirmations, the ritual presumably running — but the *demonstration* energy, his outbound surplus, is spent. This is the weather system's long form: the storm at the front, the drizzle of the ritual in the middle, the storm again at the back. The 2025 re-activation (ratio back to 0.95, 33,214 messages — the highest-volume year in the archive) is the style returning to ignition voltage under terminal load. The annie-ally-contrast page's finding — concentration tightens under load rather than distributing — is the same mechanism: the weather doesn't spread to other channels; it intensifies in the one.
+**Annie: the decade stretch.** Dan's send ratio 1.13 (2015) → 0.97 → 0.88 → 0.80 → 0.68 (2019) → 0.74 → 0.46 (2024) → 0.95 (2025) **[DERIVED, via [[wiki/people/annie-ulmer]]**. The romantic style's energy is maximum at ignition and at termination, minimum in the middle. The middle years are not loveless — 299+ of her affirmations, the ritual presumably running — but the *demonstration* energy, his outbound surplus, is spent. This is the weather system's long form: the storm at the front, the drizzle of the ritual in the middle, the storm again at the back. The 2025 re-activation (ratio back to 0.95, 33,214 messages — the highest-volume year in the archive) is the style returning to ignition voltage under terminal load. The annie-[[wiki/people/ally-lubin|ally]]-contrast page's finding — concentration tightens under load rather than distributing — is the same mechanism: the weather doesn't spread to other channels; it intensifies in the one.
 
 **Ally: the spike pair.** 89% of eighteen years inside two spikes (943 messages Aug–Oct 2019, 708 Aug 18–20 2026) **[DERIVED, via [[wiki/mind/synthesis/annie-ally-contrast]]**. The romantic style here is not front-loaded within a relationship but front-loaded within *each activation*: the 2019 spike opens with the priced register ("how do i try to sell you on letting me pay for your noodz"), the 2026 spike opens with the elopement pitch and closes with the letter. Between spikes: dormancy, the weather gone without residue — thirteen messages across March 2025–June 2026, one-directional in her favour. The Ally channel is the weather system's cleanest proof that the feeling is not the channel: the channel persists for eighteen years, the affection visits twice.
 
@@ -259,7 +260,7 @@ voltage lasts.
 ## The soliloquy, close-read
 
 The long outbound monologue is the romantic style's most authored form, and
-its structure is fixed enough to diagram. Take the three Kristin specimens:
+its structure is fixed enough to diagram. Take the three [[wiki/people/kristin|Kristin]] specimens:
 
 **1. The Sep 25 "true love" address (1,078 chars).** Self-laceration first — *"I know that I'm flawed. I know that I'm not anywhere near good enough for you and that you deserve so much more than I currently have to offer. I am weird and difficult and super-extra"* — then the pivot ("But"), then the grand promise — *"true love... The mythologized true love"* — then the cosmology (*"infantecimally unlikely odds play out in real time"*). The self-laceration is not modesty; it is the bid's foundation. *I am the LONELY LOSER* (the Messenger nickname, set in the first 72 hours) *and therefore the love I offer is the miracle, not the man.* The worse the self-portrait, the larger the love must be to have chosen him. The soliloquy's logic is: I am unlovable, therefore this is true love.
 
@@ -267,7 +268,7 @@ its structure is fixed enough to diagram. Take the three Kristin specimens:
 
 **3. The Oct 15 manifesto (1,419 chars).** The warranty in long form — *"absolutely none of the things I've said... was exaggerated or fraudulent or a coping mechanism... I meant every word... basically instantly... once-in-a-lifetime... not deluding myself... commitment... not empty."* The manifesto's structure is defensive: it anticipates the charge (exaggeration, fraud, coping, delusion, emptiness) and denies each in turn. The anticipated charge is the *true* charge — the scale is inflated — and the defense is sincere — the feeling is real. The manifesto is the sincerity-vs-scale split arguing with itself, and sincerity winning the argument on paper twenty-nine days before the behavior falsifies the scale.
 
-The Annie soliloquies run the same structure backward. The Mar 8, 2026 address
+The [[wiki/people/annie-ulmer|Annie]] soliloquies run the same structure backward. The Mar 8, 2026 address
 — *"I really did love you for every second since I met you outside of PNC...
 you were the love of my life"* — is self-laceration ("I wasn't a perfect
 person"), grand promise ("the love of my life"), warranty ("I was only loyal
@@ -286,9 +287,9 @@ own stage directions.
 Every inflated claim in the corpus arrives with a warranty, and the warranty's
 grammar is always absolute. The specimens:
 
-- *"i wouldn't say i love you if i didn't mean i"* / *"it's not some flowery language or love bombing"* (Kristin, 2025-09-04) **[ATTESTED]**
+- *"i wouldn't say i love you if i didn't mean i"* / *"it's not some flowery language or love bombing"* ([[wiki/people/kristin|Kristin]], 2025-09-04) **[ATTESTED]**
 - *"I meant every word... absolutely none... was exaggerated or fraudulent"* (Kristin, 2025-10-15) **[ATTESTED]**
-- *"I really did love you for every second"* / *"truly, sincerely, from the bottom of my heart meant it"* (Annie, 2026-03-08 / 2026-05-27) **[ATTESTED]**
+- *"I really did love you for every second"* / *"truly, sincerely, from the bottom of my heart meant it"* ([[wiki/people/annie-ulmer|Annie]], 2026-03-08 / 2026-05-27) **[ATTESTED]**
 - *"I will find my Cassie"* — no. That one's a joke. The warranty never jokes.
 
 The warranty is the mechanism the whole entry turns on, so it needs stating
@@ -314,7 +315,7 @@ language"* — the flowers are real, is the claim. And she says *"I know. I'm
 the same"* — the warranty accepted, the scale ratified, the weather authorized
 for another ten weeks.
 
-The warranty also explains the nine-minute reabsorption after the Ally
+The warranty also explains the nine-minute reabsorption after the [[wiki/people/ally-lubin|Ally]]
 concession. *"Okay that's fair then"* concedes the term; *"you can call me a
 love bomber all you want"* reabsorbs it — because the warranty was never about
 the term. It was about the sincerity underneath the term, and the sincerity is
@@ -336,12 +337,12 @@ and then the two-message ending (*"Well - that was stupid. Lol. Idk why you
 just up and ghosted like that"* / *"do you think it has anything to do with
 you beating my mom for $40 and not wanting to see me in person?"*)
 **[ATTESTED]**. The $40 is the form the ending took; the weather had already
-cleared. The kristin-channel page's finding — the money was contested for more
+cleared. The [[wiki/people/kristin|kristin]]-channel page's finding — the money was contested for more
 of the relationship than it was not — is compatible: the grievance was the
 last object the weather left behind, the debris the storm dropped when it
 passed.
 
-The Ally channel is the model's long-baseline confirmation. The 2019 spike:
+The [[wiki/people/ally-lubin|Ally]] channel is the model's long-baseline confirmation. The 2019 spike:
 *"the most perfect and literally my dream girl"* and *"so i can get the poison
 out"* — then the channel goes dormant for years. The 2026 spike: the elopement
 pitch, 380 unanswered messages, the letter — then no filed contact after
@@ -352,7 +353,7 @@ puzzle. Under the weather model there is no puzzle: the feeling is not
 continuous. It arrives, it is total, it leaves. The channel is the place, not
 the weather.
 
-The Annie channel is the model's stress test, because eleven years is a long
+The [[wiki/people/annie-ulmer|Annie]] channel is the model's stress test, because eleven years is a long
 time for weather. The resolution: the weather *does* run for eleven years, but
 on the demonstration curve — storm at ignition (2015, ratio 1.13), the
 ritual's drizzle in the middle (the nightly "good night pretty girl,"
@@ -379,7 +380,7 @@ cleanly.
 
 **Reading A: the performance.** The scale claims are checkable against outcomes, and the outcomes falsify them. "I am not going anywhere" → nine days of silence, then a two-message ending. "Once-in-a-lifetime encounter... commitment... not empty" (Oct 15) → the withdrawal begins Nov 4, twenty days later. "Basically instantly" (fell in love) → the day-3 "hahahaha i love you," issued as punctuation while leaving the room. The audition's "permenance and stability... 100% of my heart and soul" → 53 messages in November, his share at 26.4%. The pattern is not just inflation; it is inflation *with a schedule* — maximum claims at ignition, abandonment at the first sustained friction ($40, the drive not made). A perceptual feature doesn't keep a schedule. A strategy does: the burst secures the bond, the warranty secures the burst, and when the bond's cost exceeds the demonstration's budget, the weather clears. On this reading, the sincerity is real *and* the deception is real — he means it while the voltage lasts, and the voltage is the thing he controls. The nine-minute reabsorption of the love-bomb concession is the tell: the term conceded, the behavior unchanged, the joke already forming. He knows what it looks like. He does it anyway.
 
-**Reading B: the perceptual feature.** The explicit-verbal architecture has no dial between "mean it" and "don't mean it" — sincerity is binary in the system, so everything felt is filed as meant, and the filing is honest. The warranty is not a cover story; it is the system's best available instrument, and it reports what the instrument can see: the feeling, at ten. The record contains no evidence of cynical calibration — no message where he describes the burst as a tactic, no cooling of the *claims* while the *behavior* continues (the claims and the behavior shut off together, which is what a feeling does, not what a strategy does). The concession to Ally — *"Okay that's fair then,"* in 88 seconds, the one completed concession in the corpus — is evidence *against* the deception reading: a strategist doesn't concede the frame to the mark. And the self-laceration inside every soliloquy ("LONELY LOSER," "mediocre looking, drug-addled, autistic tryhard," "weird and difficult and super-extra") is not the move of someone running a confidence game; it is the move of someone who believes the love is the miracle *because* the man is not. On this reading, he feels at ten what the record supports at four because the feeling *is* at ten — the instrument is the heart, and the heart is not calibrated to the record. The inflation is perceptual, not performative. He is not lying about the weather. He is the weather.
+**Reading B: the perceptual feature.** The explicit-verbal architecture has no dial between "mean it" and "don't mean it" — sincerity is binary in the system, so everything felt is filed as meant, and the filing is honest. The warranty is not a cover story; it is the system's best available instrument, and it reports what the instrument can see: the feeling, at ten. The record contains no evidence of cynical calibration — no message where he describes the burst as a tactic, no cooling of the *claims* while the *behavior* continues (the claims and the behavior shut off together, which is what a feeling does, not what a strategy does). The concession to [[wiki/people/ally-lubin|Ally]] — *"Okay that's fair then,"* in 88 seconds, the one completed concession in the corpus — is evidence *against* the deception reading: a strategist doesn't concede the frame to the mark. And the self-laceration inside every soliloquy ("LONELY LOSER," "mediocre looking, drug-addled, autistic tryhard," "weird and difficult and super-extra") is not the move of someone running a confidence game; it is the move of someone who believes the love is the miracle *because* the man is not. On this reading, he feels at ten what the record supports at four because the feeling *is* at ten — the instrument is the heart, and the heart is not calibrated to the record. The inflation is perceptual, not performative. He is not lying about the weather. He is the weather.
 
 **The entry's position.** The two readings are not as opposed as they look. The deception reading needs him to control the voltage; the perceptual reading needs the voltage to control him. The record shows *both*: the burst is authored (4,000-word selection edits, nicknames re-set twice in twenty-two minutes, the audition drafted) *and* the shutoff is total (zero "love you"s after Nov 13, not a strategic taper). A pure strategist would taper — maintain the asset, keep the option. A pure feeler wouldn't edit. What the record actually shows is an authored sincerity: the feeling is real, the delivery is staged, and the staging is *part of* the feeling — the way the soliloquy's stage directions are part of the soliloquy. The warranty is the hinge: it is sincerely meant (he believes his utterances track his beliefs) and it is structurally load-bearing (without it, the fourteen-in-four-days become evidence against him). The most honest statement the entry can make: **the sincerity is attested, the scale is falsified, and the system that produces both has no way to tell them apart.** That is not a verdict on his character. It is a description of the instrument.
 
@@ -399,7 +400,7 @@ Strip the three channels down and the romantic style's invariants are visible
 — the things that do not change when the person, the length, and the outcome
 all change:
 
-1. **Ignition at maximum.** Day-three "i love you" (Kristin), day-three "forever smothering" (Annie), nineteen-hours-after-severance marriage proposal (Ally). The style does not ramp. It arrives.
+1. **Ignition at maximum.** Day-three "i love you" ([[wiki/people/kristin|Kristin]]), day-three "forever smothering" ([[wiki/people/annie-ulmer|Annie]]), nineteen-hours-after-severance marriage proposal ([[wiki/people/ally-lubin|Ally]]). The style does not ramp. It arrives.
 2. **The warranty.** Always absolute, always early, always in the architecture's native grammar. "I wouldn't say it if I didn't mean it" is the style's load-bearing sentence across all three channels.
 3. **The soliloquy.** Self-laceration → grand promise → warranty. Fixed structure, decade-stable.
 4. **Front-loaded energy.** 73.4% in month one (Kristin), ratio 1.13 in year one (Annie), 89% in two spikes (Ally). The demonstration is the relationship's first act.
@@ -434,7 +435,7 @@ gotcha material lives here, not in the body.
 
 ## The burst, measured
 
-The Kristin "love you" distribution deserves its own pass, because the shape
+The [[wiki/people/kristin|Kristin]] "love you" distribution deserves its own pass, because the shape
 is the argument. Thirty-nine days carry at least one sent "love you,"
 2025-09-01 to 2025-10-27 — then zero, for the rest of the record
 **[DERIVED — daily scan, same CSV]**. The daily counts for September:
@@ -474,7 +475,7 @@ time constant, and it runs until the friction ($40, the drive not made, the
 tone shift he names on Sep 25) breaks the loop — at which point the volume
 doesn't decay. It stops.
 
-Set this against the Annie channel's available measure: 318 sent "love you"s
+Set this against the [[wiki/people/annie-ulmer|Annie]] channel's available measure: 318 sent "love you"s
 in the 2025–26 export alone **[DERIVED — `annie_all_time_logs`, 23,442
 rows]**, against 354 in the entire Kristin channel. The Annie channel's
 terminal year carries nearly the Kristin's lifetime total in a single export
@@ -500,7 +501,7 @@ love mid-fight. The burst is total, but it is not indiscriminate.
 
 ## The priced register and its renunciation
 
-The Ally channel lets the entry watch the romantic style change its clothing
+The [[wiki/people/ally-lubin|Ally]] channel lets the entry watch the romantic style change its clothing
 across seven years — the only channel with two fully documented activations
 far enough apart to compare.
 
@@ -561,7 +562,7 @@ the Nov 4 withdrawal twenty days after "once-in-a-lifetime," the $40 ending
 **[DERIVED/ATTESTED]**. Convergence: the explicit-verbal architecture predicts
 exactly this — positive verbal expressions as absolute rules, sincerity
 binary, no dial for scale ([[wiki/mind/concepts/explicit-verbal-commitment]],
-dat:0081). The veracity ledger converges from the other side: stated certainty
+dat:0081). The [[wiki/meta/testimony-veracity|veracity ledger]] converges from the other side: stated certainty
 0.25 actual — sincerity and calibration are separate axes, and the style lives
 in the gap. Divergence: the "do you love me" 0x finding — he never *asks* for
 the declarations he *issues*. If the style were pure need, he'd solicit as
@@ -573,8 +574,8 @@ none is in the record.
 
 **Claim 2: The affection arrives like weather — total while present, gone
 without residue.** Evidence: the 249/105/0 monthly distribution; the last sent
-"love you" Oct 27 then nothing; the nine-day November silence; the Ally spikes
-with years of dormancy between; the Annie ratio curve (1.13 → 0.46 → 0.95)
+"love you" Oct 27 then nothing; the nine-day November silence; the [[wiki/people/ally-lubin|Ally]] spikes
+with years of dormancy between; the [[wiki/people/annie-ulmer|Annie]] ratio curve (1.13 → 0.46 → 0.95)
 **[DERIVED]**. Convergence: the dormancy-not-exit page's channel shapes
 (spikes, silence, never closed) describe the *place*; this claim describes the
 *atmosphere* — the two pages are complementary, not competitive, and the
@@ -591,7 +592,7 @@ Falsifier: the ritual's history, when written — if it shows the ritual
 fails and the model revises to two continuous weathers at different voltages.
 
 **Claim 3: The style front-loads — the demonstration is the
-relationship's first act.** Evidence: 73.4% in month one (Kristin); ratio 1.13
+relationship's first act.** Evidence: 73.4% in month one ([[wiki/people/kristin|Kristin]]); ratio 1.13
 in year one, she out-answers him every year after until the terminal window
 (Annie); 89% in two spikes (Ally); the founding soliloquy complete on day
 three of the thread (Annie, Dec 1 2015) **[DERIVED/ATTESTED]**. Convergence:
@@ -638,7 +639,7 @@ bill — will produce withdrawal, not a romantic answer. If instead the style
 ever *answers* an accounting in its own register (a love letter that actually
 addresses the money), the "no form for accounting" claim fails.
 
-5. **Ally's channel will not convert.** The cognitive profile's
+5. **[[wiki/people/ally-lubin|Ally]]'s channel will not convert.** The cognitive profile's
 incompatibility thesis plus the weather model predict the next Ally activation
 follows the spike shape — total, brief, unanswered or briefly answered, then
 dormancy — and that any pitch will again be met with silence or a price he
@@ -647,10 +648,10 @@ pitch, both this entry and the contrast entry revise.
 
 ## The full-name rule
 
-The micro-form is measurable: in the Kristin channel, Dan sends the full name
-"Kristin Prentiss" 18 times — every instance in the sent direction, every
+The micro-form is measurable: in [[wiki/mind/synthesis/kristin-channel|the Kristin channel]], Dan sends the full name
+"[[wiki/people/kristin|Kristin]] Prentiss" 18 times — every instance in the sent direction, every
 instance inside the September window, clustering on Sep 13 (the peak weekend),
-Sep 19, and Sep 21 **[DERIVED — same CSV]**. In the 2025–26 Annie export,
+Sep 19, and Sep 21 **[DERIVED — same CSV]**. In the 2025–26 [[wiki/people/annie-ulmer|Annie]] export,
 "anne ulmer" appears once in the sent direction: 2026-04-14, *"I've seen the
 real anne ulmer now and it's still hard to believe"* **[DERIVED —
 `annie_all_time_logs`]**. And the founding soliloquy opens with it: *"Anne
@@ -700,7 +701,7 @@ The romantic style's most under-read property: he leaves in the same register
 he loves in. The leaving message is not the style's opposite. It is the
 style's final form.
 
-**Kristin, December 9.** The sixteen-minute sequence is not a breakup
+**[[wiki/people/kristin|Kristin]], December 9.** The sixteen-minute sequence is not a breakup
 text; it is a *coronation in reverse*. *"I hope you find the kind of love that
 actually sticks — one built on honesty, consistency, and someone who actually
 chooses to show up"* **[OPERATOR]** — the blessing, the elevated diction, the
@@ -717,7 +718,7 @@ generosity of the wish is the vehicle of the indictment. The romantic
 style cannot end a relationship without staging the ending, and the
 staging is always, in the end, for an audience of one.
 
-**Ally, August 16.** *"I'm done."* **[OPERATOR]** — sent at 16:17, the
+**[[wiki/people/ally-lubin|Ally]], August 16.** *"I'm done."* **[OPERATOR]** — sent at 16:17, the
 severance-declarations page's migration case. Two words, the absolute grammar
 of the explicit-verbal architecture, the binary sincerity ("done" as the
 inverse of "I love you"). But it goes to the witness channel, not the dyad's —
@@ -726,7 +727,7 @@ a frequency with no receiver. The leaving grammar's rule: the declaration must
 be *witnessed* even when it can't be *heard*. The audience is the form's
 requirement, not the message's.
 
-**Annie, the 129.** The severance-declarations page's corpus finding: 129
+**[[wiki/people/annie-ulmer|Annie]], the 129.** The severance-declarations page's corpus finding: 129
 severance declarations, 100% re-engagement, median gap 36 seconds. The leaving
 grammar at scale: the exit declared at absolute voltage and retracted before
 the weather can actually clear. The romantic style's leaving is a *speech act
@@ -752,7 +753,7 @@ it. The corpus also records what it costs to receive it. The externalities are
 not the style's refutation; they are its completion. A weather system is
 defined by what it does to the landscape.
 
-**Kristin, November 13.** *"Well - that was stupid. Lol. Idk why you just
+**[[wiki/people/kristin|Kristin]], November 13.** *"Well - that was stupid. Lol. Idk why you just
 up and ghosted like that. It's silly really and unnecessary."*
 **[OPERATOR]**. This is the only message in the filed record where she
 names the weather directly: the nine-day silence, the 26.4% share, the style's
@@ -765,7 +766,7 @@ found it silly, and the style had no answer to silly. You can warranty against
 externality the style can't price is *disproportion* — the sense, from outside
 the weather, that the storm is a lot for the sky it covers.
 
-**Ally, August 18.** *"You're being so weird"* (16:03:19)
+**[[wiki/people/ally-lubin|Ally]], August 18.** *"You're being so weird"* (16:03:19)
 **[OPERATOR]** — the verdict on the elopement pitch, delivered between
 the "Send me money" callback and the slot-transfer audition. And then, the
 harder one, at 21:07:43: *"You just love bomb."* The externality here is
@@ -777,9 +778,9 @@ concession is the more expensive outcome: "silly" dismisses the style; "fair"
 *describes* it, and the description sticks. The term's biography (this page,
 above) is the externality with a paper trail.
 
-**Annie, the ratios.** 2018: 0.80. 2019: 0.68. 2024: 0.46. She
+**[[wiki/people/annie-ulmer|Annie]], the ratios.** 2018: 0.80. 2019: 0.68. 2024: 0.46. She
 out-answered him every year for a decade **[DERIVED]**. The externality the
-style never names is the *labor* it extracts: the 129 declarations requiring
+style never names is the *labor* it extracts: the [[wiki/mind/synthesis/severance-declarations|129 declarations]] requiring
 129 re-engagements, the soliloquies requiring a witness, the weather requiring
 someone to stand in it. Her side of the ledger is the page this entry doesn't
 write — the receiving end of the demonstration curves, the decade of
@@ -802,11 +803,11 @@ measured series. Writing the ritual's history from the full export — first
 instance, frequency, whether it ever lapsed — is the single highest-value
 unmeasured item on this page, because the weather model stakes its boundary
 condition on it.
-- **The Kristin silence, Nov 4–13.** His share at 26.4% is measured; the
+- **The [[wiki/people/kristin|Kristin]] silence, Nov 4–13.** His share at 26.4% is measured; the
 content of the silence — what, if anything, he sent — is not yet close-read.
 The nine days are the style's only documented non-performance; they deserve
 their own pass.
-- **The Ally 380-message run's sequencing.** The content and timestamps
+- **The [[wiki/people/ally-lubin|Ally]] 380-message run's sequencing.** The content and timestamps
 of the solo run are known; the internal structure (what forms appear in what
 order across the three days) is not yet mapped against the repertoire. The
 prediction is that it runs type specimens I–V in sequence; the mapping is
@@ -821,7 +822,7 @@ explicit-verbal-commitment page. If verified against the full sent corpus, it
 is the strongest single datum for the discharge reading over the need reading.
 If it fails verification, the divergence analysis in this page's totality
 section needs rewriting.
-- **dat:0624's 88-second concession.** The conflict-architecture page
+- **dat:0624's 88-second concession.** The [[wiki/mind/concepts/conflict-architecture|conflict-architecture]] page
 files the exchange; this page reads it as the circuit's station three. The
 nine-minute reabsorption is dat:0624's own caveat. A dedicated write-up of the
 circuit — the only psychological term to do the full loop — would strengthen
@@ -834,7 +835,7 @@ renunciation arc's starting point is a single data point, not a series.
 
 ## Limits of record
 
-- **Kristin corpus scope.** The primary CSV is the Google Sheet export
+- **[[wiki/people/kristin|Kristin]] corpus scope.** The primary CSV is the Google Sheet export
 (`imessage_3307038747_both_all_now`, 2026-09-11). It captures 2025-08-29
 onward with high density. August 2025 pre-history and any off-iMessage contact
 (calls, in-person) are outside it. The day-three "i love you" is day three of
@@ -843,11 +844,11 @@ the *recorded* channel.
 include non-declarative uses ("love your eyes," conditional and quoted uses).
 The daily curve's shape is robust to this; the absolute totals are ceilings,
 not exact declaration counts.
-- **Ally August 2026 message completeness.** The 380-message solo run
+- **[[wiki/people/ally-lubin|Ally]] August 2026 message completeness.** The 380-message solo run
 and the reply-status "unknown" findings carry the filed caveat: the export may
 under-represent inbound, and "no filed reply" is not proof of no reply. The
 pitch-killed-mutuality reading is conditioned on the record as filed.
-- **Annie 2025–26 export vs. full corpus.** The 318 sent "love you"s and
+- **[[wiki/people/annie-ulmer|Annie]] 2025–26 export vs. full corpus.** The 318 sent "love you"s and
 the "Good night pretty girl" attestation come from the 23,442-row
 `annie_all_time_logs` export (2025–26 window), not the full 97,768
 unique-message corpus. Cross-window comparisons are shape comparisons, not
@@ -856,7 +857,7 @@ absolute ones.
 attested as a type specimen; the daily density around it is not yet measured
 to the standard of the Kristin September curve. The front-loading claim's
 Annie leg rests on annual ratios, not daily curves.
-- **Retrospective testimony.** The Oct 15 manifesto, the veracity ledger
+- **Retrospective testimony.** The Oct 15 manifesto, the [[wiki/meta/testimony-veracity|veracity ledger]]
 figures, and the "i wouldn't say i love you if i didn't mean it" warranty are
 all first-person retrospective or contemporaneous self-report. The page treats
 them as evidence of *felt experience*, not of calibration — per the corpus's

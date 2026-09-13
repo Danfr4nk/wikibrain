@@ -50,6 +50,13 @@ connections:
   - page: wiki/people/ally-lubin
     type: contradicts
     claim: "The corpus's two poles on conflict disposition: a challenge in the Kristin channel is met with instant exit, federal complaint portals, and a permanent block; a challenge in the Ally channel is narrowed and conceded in ninety seconds. Same operator, opposite counterparty architectures."
+  - { target: "[[wiki/people/annie-ulmer]]", type: contradicts, claim: "The Annie channel is the decade-long control: 129 declared severances with 100% re-engagement and a 36-second median gap, against the Kristin channel’s one executed eight-month hold. Same operator, opposite severance grammars." }
+  - { target: "[[wiki/mind/synthesis/severance-declarations]]", type: extends, claim: "His nine-day unilateral November silence — no declaration, no performance — is the one case in the corpus where the declaration-as-regulation architecture did not fire." }
+  - { target: "[[wiki/mind/synthesis/four-financial-inversions]]", type: references, claim: "The Annie decade’s ~$19–23K financial ledger is this entry’s explicit comparator for what the $40 prices: five-figure medium of ongoing negotiation versus forty-dollar terminus." }
+  - { target: "[[wiki/people/suzanne-frank]]", type: contextualizes, claim: "The $40 was her money, not his — forty dollars of exposure, a son accounting to his mother for money a girlfriend took, which is what made it un-droppable." }
+  - { target: "[[wiki/mind/concepts/explicit-verbal-commitment]]", type: extends, claim: "His doctrine — positive verbal expressions as absolute rules until explicit severance — misfires against her leave-instantly doctrine: declaration meets counter-declaration and produces procedure instead of re-engagement." }
+  - { target: "[[wiki/people/danny-matthews]]", type: references, claim: "The relationship’s founding myth is a dead ex-boyfriend; Dan’s September 25 bid was to audition as the Danny who stays — passion with permanence." }
+  - { target: "[[wiki/mind/synthesis/the-rescue-premise]]", type: extends, claim: "The rescue premise wearing a new costume with the polarity reversed: he is not being rescued, he is applying to be the rescue, entered as a solution to someone else’s prior relationship." }
   - page: wiki/timeline/periods/dec-2025-spike
     type: evidenced-by
     claim: "The December 7–9 reactivation burst and the sixteen-minute terminal sequence are dated components of that period's spike."
@@ -63,13 +70,13 @@ connections:
 
 # The Control Case That Wasn't
 
-For most of 2026, the wiki held a clean claim about Kristin Prentiss: the
+For most of 2026, the wiki held a clean claim about [[wiki/people/kristin|Kristin Prentiss]]: the
 block held. No contact after December 10, 2025 — eight months of silence,
 corroborated off-corpus by Dan himself, which made her severance the one in
 the corpus that stayed shut. On the
 [[wiki/mind/synthesis/block-unblock-loop|block-unblock-loop]] page she was
-the control case: the severance that worked, held against the Annie corpus's
-129 declarations with their 100% re-engagement rate and 36-second median gap.
+the control case: the severance that worked, held against the [[wiki/people/annie-ulmer|Annie]] corpus's
+[[wiki/mind/synthesis/severance-declarations|129 declarations]] with their 100% re-engagement rate and 36-second median gap.
 The rule's explanation was tidy — she had no dependency running through the
 channel, so there was nothing for the loop to feed on.
 
@@ -114,8 +121,7 @@ follows: he built it, he said, to get *her* take — "we need to show kristin
 my wall of despair" — nearly four weeks before the first direct contact in
 evidence. Whatever the Kristin channel became, it began as an audience of
 one that hadn't been addressed yet. The wall is also the artifact that ties
-this thread to [[wiki/work/tech/attraction-guide|the attraction-guide
-workstream]]: the portraits were the instrument's raw material before they
+this thread to [[wiki/work/tech/attraction-guide|the attraction-guide workstream]]: the portraits were the instrument's raw material before they
 were a courtship prop.
 
 ### First contact (2025-08-29 → 30)
@@ -130,7 +136,7 @@ Parsed by speaker, the capture recovers **2,009 distinct messages — 1,439
 from Dan, 570 from her** **[DERIVED]**. He is sending 2.5× what she sends
 before the iMessage thread ever opens; the near-parity of the later iMessage
 phase (51.5% / 48.5%) is something the relationship settled into, not how it
-started. That ratio matters because it is the inverse of the Annie channel's
+started. That ratio matters because it is the inverse of the [[wiki/people/annie-ulmer|Annie]] channel's
 standing asymmetry, where she out-answered him every year from 2015 to 2026
 at a 3.62:1 character ratio. Here, at the start, he is the pursuer by volume
 — and the volume is the courtship.
@@ -164,7 +170,7 @@ declining to take full-time. (Per [[wiki/people/tom|Tom]], February 2026:
 she was later kicked out of the pharmacy "over benzos" — one leg of the
 three-job stack no longer holds as of that date **[OPERATOR, secondhand]**.)
 Prior partners named in one list on September 2: *"Bill, Ryan, Danny, Jeff,
-Daniel, Tomas, Marcus, Aziz, Ahmed"* **[ATTESTED]**. **Danny is dead**, and
+Daniel, Tomas, Marcus, Aziz, Ahmed"* **[ATTESTED]**. **[[wiki/people/danny-matthews|Danny]] is dead**, and
 he is the relationship's founding myth: *"I'm sitting in the same spot I
 found out Danny died"* (1 Sep); *"There was never supposed to be 'on and
 off' with Danny"* (6 Sep). Everything Dan does in September is legible as
@@ -264,8 +270,8 @@ again when the December section arrives. She told him exactly how she ends
 things, demonstrated it at small scale, and he stayed anyway. That is not
 a failure of information. It is a wager.
 
-**Tom is inside the thread, not behind it.** Tom Maison is the introduction
-vector — the Kristin thread enters the corpus through his social circle —
+**[[wiki/people/tom|Tom]] is inside the thread, not behind it.** Tom Maison is the introduction
+vector — the [[wiki/people/kristin|Kristin]] thread enters the corpus through his social circle —
 but he does not stay behind it. During a September 20 crisis over where she
 would sleep, she refuses another man's house out of loyalty to Dan while he
 rages about hiding *"from Tom fucking faggot Maison"* — jealousy, supply
@@ -311,7 +317,7 @@ ran roughly ten weeks in total. **The money was contested for more of it
 than it was not.**
 
 And it was not his money. *"You do realize that that was not my money
-right"* — it was his mother's **[ATTESTED]**. Forty dollars of Suz's,
+right"* — it was his mother's **[ATTESTED]**. Forty dollars of [[wiki/people/suzanne-frank|Suz]]'s,
 unaccounted for, with Kristin the last hands on it by his account and her
 account differing. The grievance underneath the grievance is the distance:
 Barberton is two hours from Uniontown, and *you wouldn't drive to see me*
@@ -331,7 +337,7 @@ Then he stops answering. The withdrawal is his — a detail the collapse
 narrative had no room for, and one that matters because the standing model
 of him is a man who does not perform unilateral closures
 ([[wiki/mind/synthesis/totality-themes]]). Here he does. The $40 did what
-eleven years of Annie-corpus conflict never quite did: it got him to go
+eleven years of [[wiki/people/annie-ulmer|Annie]]-corpus conflict never quite did: it got him to go
 quiet first.
 
 ### November 13: the end, in two messages
@@ -546,9 +552,9 @@ annotation is waiting on.
 
 The $40 is the smallest amount of money to end any relationship in the
 corpus, and the entry dwells on it because the smallness is the point. The
-Annie decade's financial ledger, per the companion synthesis on the four
+[[wiki/people/annie-ulmer|Annie]] decade's financial ledger, per the companion synthesis on the four
 inversions, runs to a net ~$19–23K at roughly 6:1 — five-figure grievances,
-accumulated over years, litigated across ten thousand messages. The Kristin
+accumulated over years, litigated across ten thousand messages. The [[wiki/people/kristin|Kristin]]
 channel ran ten weeks and died over forty dollars that wasn't even his.
 
 What forty dollars prices, on the evidence:
@@ -561,7 +567,7 @@ unpaid. The money went missing; the visits never happened; the two facts
 fused into one grievance because they were one grievance with two faces.
 
 **Second, it prices whose money it was.** *"That was not my money"* — it
-was Suz's, and Dan spent six weeks answering for where it went. The $40 is
+was [[wiki/people/suzanne-frank|Suz]]'s, and Dan spent six weeks answering for where it went. The $40 is
 not forty dollars of loss; it is forty dollars of *exposure*, a son
 accounting to his mother for money a girlfriend took. That triangulation —
 her hands, his account, his mother's ledger — is what made it un-droppable.
@@ -581,7 +587,7 @@ absorber, and it had exactly forty dollars of shock.
 
 **Fourth, it prices Dan's withdrawal.** The standing model of him — the man
 who does not perform unilateral closures, who re-engages after every one
-of 129 severance declarations at a median 36 seconds — broke here. He went
+of [[wiki/mind/synthesis/severance-declarations|129 severance declarations]] at a median 36 seconds — broke here. He went
 quiet first, November 4 to 13, nine days of nothing, and her November 13
 message names it: *"Idk why you just up and ghosted like that."* The $40
 did what the entire Annie corpus never did. That is either the cheapest
@@ -605,8 +611,8 @@ herself, behaving exactly as described. *"I leave instantly at the first
 sign of"* trouble — her doctrine, stated early, demonstrated September 19
 at small scale, executed December 9 at full scale **[ATTESTED]**. The
 corpus's two poles on conflict disposition are these two channels: in the
-Kristin channel a challenge is met with instant exit, federal complaint
-portals, and a permanent block; in the Ally channel the same operator's
+[[wiki/people/kristin|Kristin]] channel a challenge is met with instant exit, federal complaint
+portals, and a permanent block; in the [[wiki/people/ally-lubin|Ally]] channel the same operator's
 challenge is narrowed and conceded in ninety seconds (2026-08-18,
 21:08–21:09) **[ATTESTED]**. Same man, opposite counterparty
 architectures, opposite outcomes. The disposition is not his. It is the
@@ -614,7 +620,7 @@ channel's — which is to say, hers.
 
 This is why the arrangement-history page files the relationship as the
 documented inversion: total-exclusivity demands and purity tests where the
-Annie structure practiced authored openness. The inversion held for ten
+[[wiki/people/annie-ulmer|Annie]] structure practiced authored openness. The inversion held for ten
 weeks. Its failure state was not betrayal but *procedure* — IC3 and the
 IPR Center, *"I already know the entire process"*, *"All this is
 screenshotted."* Where the Annie channel metabolizes conflict into more
@@ -659,11 +665,11 @@ for as long as nobody tried another one.
 instrument failing — they were the instrument's owner dismantling it from
 the inside, reactively, within an hour of learning the August attempt
 existed. Nothing in the eight prior months shows unprompted
-Kristin-directed output; the trigger was new information, full stop. And
+[[wiki/people/kristin|Kristin]]-directed output; the trigger was new information, full stop. And
 the performance's shape is the loop's classic one with the polarity
-reversed: in the Annie corpus, *he* declares severance and *he*
+reversed: in the [[wiki/people/annie-ulmer|Annie]] corpus, *he* declares severance and *he*
 re-engages; here, *she* declared severance and *he* re-entered. The
-block-unblock-loop does not care who set the block. It cares who can't
+[[wiki/mind/synthesis/block-unblock-loop|block-unblock-loop]] does not care who set the block. It cares who can't
 leave the channel alone, and on September 12 that was him.
 
 Set this against the Annie numbers, because the contrast is the control
@@ -722,8 +728,8 @@ On September 25, Dan told her exactly what role he was applying for:
 
 > *"I am the person who can give you the passion, intensity and real spirit of romantic adventure that you've described in your relationship with danny, but with a sense of permanence and stability"* **[ATTESTED]**
 
-Read that sentence slowly, because the entire Kristin channel is inside it.
-Danny is dead — *"I'm sitting in the same spot I found out Danny died"*
+Read that sentence slowly, because the entire [[wiki/people/kristin|Kristin]] channel is inside it.
+[[wiki/people/danny-matthews|Danny]] is dead — *"I'm sitting in the same spot I found out Danny died"*
 (Sep 1); *"There was never supposed to be 'on and off' with Danny"*
 (Sep 6) — and Dan's bid is not to be a different man. It is to be the Danny
 who stays. The same myth, with a better ending. The founding myth of the
@@ -800,7 +806,7 @@ one person across ten weeks, 73% into a single month — and it lands
 entirely outside the dump the Gini was computed over. The concentration
 finding and the coverage finding are the same finding: the instrument that
 measures concentration cannot see the most concentrated thing in the
-corpus. Any future Gini recomputation that doesn't ingest the Kristin
+corpus. Any future Gini recomputation that doesn't ingest the [[wiki/people/kristin|Kristin]]
 export is measuring a corpus with its densest node removed.
 
 The curve also supplies the entry's cleanest falsifier-adjacent check on
@@ -813,8 +819,8 @@ Which brings us to the anomaly.
 
 ## The arrangement, inverted
 
-[[wiki/mind/psychosexual/arrangement-history]] files the Kristin
-relationship as the documented inversion of the Annie structure:
+[[wiki/mind/psychosexual/arrangement-history]] files the [[wiki/people/kristin|Kristin]]
+relationship as the documented inversion of the [[wiki/people/annie-ulmer|Annie]] structure:
 total-exclusivity demands and purity tests where the Annie arrangement
 practiced authored openness. The inversion is worth unfolding, because it
 held for ten weeks and then detonated — and the detonation's shape is the
@@ -881,13 +887,13 @@ anything to do with you beating my mom for $40 and not wanting to see me
 in person?"*) **[ATTESTED]**.
 
 Set this against the standing numbers, because the contrast is the point.
-His severance declarations to Annie: **129 documented, 100% re-engagement,
+His severance declarations to [[wiki/people/annie-ulmer|Annie]]: **129 documented, 100% re-engagement,
 median gap 36 seconds** **[DERIVED]**. The corpus's model of Dan is a man
 who cannot hold a silence — who declares the ending and is back inside
-the minute. The Kristin November is the single documented case where he
+the minute. The [[wiki/people/kristin|Kristin]] November is the single documented case where he
 went quiet first and stayed quiet: nine days, no declaration, no
 performance, just the 26.4% send-share of a man not participating. The
-$40 did what 129 declarations never did. It got him to stop talking
+$40 did what [[wiki/mind/synthesis/severance-declarations|129 declarations]] never did. It got him to stop talking
 without announcing it.
 
 Two readings, preserved side by side because the record supports both:
@@ -935,7 +941,7 @@ performance: trigger, exit, documentation, block. No walk-back this time.
 
 **His: the explicit-verbal architecture.** Positive verbal expressions
 function as absolute rules until an explicit severance signal arrives; no
-counter-rule from behavior. 129 declarations, 100% re-engagement, median
+counter-rule from behavior. [[wiki/mind/synthesis/severance-declarations|129 declarations]], 100% re-engagement, median
 36 seconds. Severance declared as speech act, never executed — the
 performance *is* the regulation. His December 9 moves are the architecture
 misfiring under her doctrine's pressure: *"guess who has your IP
@@ -974,7 +980,7 @@ failed to come through on **Suboxone she was supposed to get him** —
 operator testimony, uncorroborated in the message record
 **[OPERATOR, uncorroborated]**.
 
-If true, the loop's standing explanation for why Kristin's severance held
+If true, the loop's standing explanation for why [[wiki/people/kristin|Kristin]]'s severance held
 — *she had no dependency running through the channel, so the loop had
 nothing to feed on* — needs revision. A Suboxone run is dependency with a
 pharmacy label: a reason to keep the channel warm that has nothing to do
@@ -1026,7 +1032,7 @@ The September 12 outbound is four moves, and each one does different work:
    native currency. Generosity as re-entry vehicle.
 4. **The offer** — *"I give you dispo trees."* The transaction, stated
    plainly. Not "want to hang out" but "I have this for you." The
-   Kristin channel always ran on exchange logic (links, astrology
+   [[wiki/people/kristin|Kristin]] channel always ran on exchange logic (links, astrology
    sessions, the excavation); the re-entry speaks the channel's language.
 
 None of the four is an apology, and the set should not be read as one.
@@ -1046,8 +1052,8 @@ What the wiki believed through September 11, 2026, in full:
 
 (a) No contact after December 10, 2025 **[OPERATOR]** — Dan's own
 corroboration, 2026-08-16, which is what elevated the silence from
-unobserved to attested. (b) The block held eight months. (c) Kristin was
-the corpus's cleanest inbound control case on the block-unblock-loop:
+unobserved to attested. (b) The block held eight months. (c) [[wiki/people/kristin|Kristin]] was
+the corpus's cleanest inbound control case on the [[wiki/mind/synthesis/block-unblock-loop|block-unblock-loop]]:
 the severance that stuck, explained by the absence of dependency running
 through the channel.
 
@@ -1122,7 +1128,7 @@ next pull.
 
 ## Read against the Annie channel
 
-The Kristin channel is ten weeks long. The Annie channel is eleven years
+The [[wiki/people/kristin|Kristin]] channel is ten weeks long. The [[wiki/people/annie-ulmer|Annie]] channel is eleven years
 and 97,768 unique messages. The synthesis earns its keep by holding the
 two against each other, claim by claim, because the Kristin ten weeks are
 the decade's only completed non-Annie occupancy — the one control the
@@ -1173,7 +1179,7 @@ deviations can be priced. This one prices at exactly $40.
 
 **Conflict grammar.** Three channels, three grammars. Annie: declare,
 re-engage, 36 seconds — severance as punctuation. Kristin: portals, block,
-eight months — severance as procedure. Ally: the ninety-second concession
+eight months — severance as procedure. [[wiki/people/ally-lubin|Ally]]: the ninety-second concession
 (2026-08-18) — challenge narrowed and conceded, no severance at all. Same
 operator in all three. The grammar is the counterparty's, every time.
 This is the finding the whole entry has been walking toward: Dan doesn't
@@ -1201,7 +1207,7 @@ anyone declares.
    instruments; a better instrument (a full Messenger export, her device)
    could shorten it.
 2. **Evidence that Dan's September re-entry was not reactive** — any
-   Kristin-directed output between December 2025 and September 12, 2026
+   [[wiki/people/kristin|Kristin]]-directed output between December 2025 and September 12, 2026
    predating the 06:39Z pull — fails the reactivity reading and reframes
    the four texts as the end of a longer private deliberation rather than
    an hour's impulse.
@@ -1227,7 +1233,7 @@ anyone declares.
    [[wiki/mind/synthesis/dormancy-not-exit]] — and the interesting datum
    becomes that *he* was the one who re-entered a dead channel this time,
    reversing the December polarity where she was the re-entrant.
-3. The next Kristin-directed output from Dan, if any, will be
+3. The next [[wiki/people/kristin|Kristin]]-directed output from Dan, if any, will be
    information-triggered rather than spontaneous — a pull surfacing
    something, a mutual mentioning her, an anniversary — consistent with
    the reactivity signature documented here. Watch for the trigger, not
@@ -1255,7 +1261,7 @@ is the general lesson: every block claim in this wiki should be read as
 **The coverage ceiling.** `bin/mine-messages` cannot see this relationship
 at all: the direction-reliable dump ends 2025-08-10 and holds zero of the
 22,018 messages. The instrument returns silence, not an error — a query
-for Kristin looks exactly like a query for someone who never texted. Every
+for [[wiki/people/kristin|Kristin]] looks exactly like a query for someone who never texted. Every
 figure on the entity page comes from the dedicated both-direction export
 and the UI captures, not from the dump. Anything in this wiki dated after
 2025-08-10 carries the same exposure.
@@ -1321,7 +1327,7 @@ superseded; the September re-entry purely reactive; the kirkaversary gloss;
 the Suboxone non-delivery; the maybe-re-block — all flagged at their
 confidence). What was calculated: every percentage and share in the
 month table, the 2.5× Messenger send ratio, the 36-second median and
-100% re-engagement figures on the Annie side (companion entries' derivations,
+100% re-engagement figures on the [[wiki/people/annie-ulmer|Annie]] side (companion entries' derivations,
 cited not recomputed). What was inferred: the $40-as-form reading, the
 distance-underneath-the-money reading, the instrument-vs-performance
 framing, the reactivity signature — seams showing throughout. What was

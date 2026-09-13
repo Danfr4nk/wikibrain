@@ -44,6 +44,8 @@ connections:
   - page: wiki/people/annie-ulmer
     type: contains
     claim: "The Annie dyad is the audit's entire scope: every count here is Dan-sent messages on the Annie channel. Nothing in this entry measures any other dyad."
+  - { target: "[[wiki/mind/synthesis/severance-language-atlas]]", type: contextualizes, claim: "The audit's 36-38 declaration count for August 15-19 is the performance side of the atlas's language catalog — the same window the atlas codes as witness-channel grammar, so the two entries read as count and content of one event." }
+  - { target: "[[wiki/mind/synthesis/witness-channel-declarations]]", type: corroborates, claim: "The filed-export counts are the evidentiary floor beneath the witness-channel anatomy: the declarations this audit counts are the same ones the witness entry sorts into channel claims versus performance." }
 ---
 
 # The Severance Declaration Audit: 127 vs 129, Reconciled
@@ -56,7 +58,7 @@ what counts as an exit-declaration, and reconciles the pair. The verdict, up fro
 
 - **The canonical number is 129.** It is the primary-record figure from a documented
   method (258 declaration-language messages collapsing to 129 episodes under a
-  24-hour rule, 2026-08-23 recount of the 95,067-row merged Annie corpus), and an
+  24-hour rule, 2026-08-23 recount of the 95,067-row merged [[wiki/people/annie-ulmer|Annie]] corpus), and an
   independent instrument built for this entry converges on it (11.2 vs 12.3
   episodes/year, 100% resumption in both, same-order gap medians).
 - **The 127 is dossier arithmetic.** Its sources (MasterRecord_March16,
@@ -86,7 +88,7 @@ stands. This entry is the instrument calibration underneath it.
 ## What this entry is
 
 A measurement audit, not a thesis. Its scope is deliberately narrow: **how many
-times did Dan issue a severance declaration on the Annie channel, under one
+times did Dan issue a severance declaration on the [[wiki/people/annie-ulmer|Annie]] channel, under one
 explicit definition, and why do two published counts differ by two?** It does not
 re-derive her zero (the attachment model's 41,073-message finding stands
 un-re-run), does not touch the [[wiki/mind/synthesis/block-unblock-loop]]'s dependency rule or trade
@@ -136,7 +138,7 @@ resumption-within-minutes as non-relapse.
 On 2026-08-23 the pair was re-derived from primary data [ATTESTED —
 [[wiki/mind/synthesis/block-unblock-loop]], dat:1292]: searching Dan-sent severance language
 (blocking declarations, *goodbye*, *I'm done / we're done / it's over*,
-*never contact me again*) across the **95,067-row merged Annie corpus**
+*never contact me again*) across the **95,067-row merged [[wiki/people/annie-ulmer|Annie]] corpus**
 (2015-11-28 → 2026-05-28) returned **258 messages**, collapsing to **129
 distinct episodes** when hits within 24 hours count as one declaration. Of the
 129, 128 are followed by a further corpus message — **all 128 resumed** — and
@@ -164,8 +166,7 @@ imessage-export/aug-sep-2026-imessage-export.csv` (Audit 1) and the
 MASTER_MESSAGES_DB_DUMP.from-gsheet.MASTER_MESSAGES_DB_DUMP.csv.csv`
 (Audit 2). No dossier, no testimony, no in-conversation forensic pass.
 
-**Dyad.** The Annie channel. Audit 1: `chat_identifier = +12124702449` plus
-the Ally witness thread (`allylubin@gmail.com`) scored separately. Audit 2:
+**Dyad.** The [[wiki/people/annie-ulmer|Annie]] channel. Audit 1: `chat_identifier = +12124702449` plus the [[wiki/people/ally-lubin|Ally]] witness thread (`allylubin@gmail.com`) scored separately. Audit 2:
 `contact_handle = +12124702449` — the Annie dyad handle in the master dump,
 verified balanced (8,574 Sent / 8,571 Received) and content-checked against
 the `imessage_2124702449_both_all_now` export, which carries the same handle
@@ -199,7 +200,7 @@ unless noted):
   asking for it is the demand the declarations are addressed to, not a
   declaration.
 - **E4 — directive.** Imperative *goodbye* addressed to her: *"you can say
-  goodbye,"* *"say goodbye to milo."* Telling her to say it is not saying it.
+  goodbye,"* *"say goodbye to [[wiki/people/milo|milo]]."* Telling her to say it is not saying it.
 - **E5 — nominal.** *goodbye* as noun phrase, not speech act: *"the goodbye
   letter i wrote you."*
 
@@ -236,7 +237,7 @@ gap-definition rounding — next-message-in-chat vs next-timestamp-delta).
 The reproduction is the good news. The catalog is not:
 
 - The published catalog contains **43 bullets, not 44.** The missing hit is
-  2026-08-19 17:39:05, the Ally-thread message (*"I feel like I kept giving
+  2026-08-19 17:39:05, the [[wiki/people/ally-lubin|Ally]]-thread message (*"I feel like I kept giving
   legitimate chances to just say 'im done'"*) — caught by the regex via the
   quoted *"im done,"* silently dropped from the catalog with no adjudication
   note. Under this audit's method the drop is correct (E1 — quoted) but the
@@ -292,7 +293,7 @@ applied to Sent rows [DERIVED — run 2026-09-13]:
 - **L1 (minus E1/E3):** 110 hits — one meta-request excluded (2026-02-14,
   *"when you were done"* framed as her commitment).
 - **L2 (minus E4/E5):** **103 hits** — six directive *"say goodbye"*
-  imperatives (*"you can say goodbye to milo,"* *"We can say goodbye just
+  imperatives (*"you can say goodbye to [[wiki/people/milo|milo]],"* *"We can say goodbye just
   like this"*) and one nominal (*"the goodbye letter i wrote you"*)
   excluded. The seven disputes are tabled below; the sharpest is
   2026-02-28 12:14:44 — *"I am 10000% serious this is it. You can say
@@ -330,7 +331,7 @@ lexicon: the same patterns run over all Sent rows in the master dump return
 **258 hits** — numerically identical to the 2026-08-23 recount's 258, and
 pure coincidence. The coarse set includes *"your goodbye kiss,"*
 *"Goodbye christy mas tree"* (a Christmas tree), *"I'm done smoking cigs,"*
-and *"I'm done with everything in the world that isn't Annie Ulmer"* (a
+and *"I'm done with everything in the world that isn't [[wiki/people/annie-ulmer|Annie Ulmer]]"* (a
 declaration of devotion, dated 2015-11-29, day two of the relationship).
 [DERIVED — the 258-coincidence is noted explicitly so it is never cited as
 replication; the pattern sets differ and the coarse pass has no
@@ -469,7 +470,7 @@ the 129 episodes — the recount's corpus ends 2026-05-28, four days before
 it. It is the outlier *against* the baseline, and the baseline is now a
 fixed ratio: any future severance is either below 27.1x (an episode) or
 above it (a new regime). Second, the fifty-two days failed on the dog —
-the July 4 Milo/fireworks email, a channel the block did not cover —
+the July 4 [[wiki/people/milo|Milo]]/fireworks email, a channel the block did not cover —
 which is why the [[wiki/mind/synthesis/block-unblock-loop]]'s corrected formula ("the exit is
 executed; the deletion never is") prices the silence in inventory, not
 willpower. The audit prices it in hours: 1,248 of them, then the channel
@@ -518,16 +519,14 @@ a ±2 noise floor on a 100%-resumption finding sharpens it.
   not in this worktree's raw/. Locating them would close the
   reconciliation's last open end — the 127's actual collapse rule — though
   the audit's verdict does not depend on it.
-- **Pre-2022 dyad coverage.** Audit 2 covers 2022-12-31 → 2026-03-25; the
-  2015–2022 Dan-sent Annie-dyad rows are split across exports with
+- **Pre-2022 dyad coverage.** Audit 2 covers 2022-12-31 → 2026-03-25; the 2015–2022 Dan-sent [[wiki/people/annie-ulmer|Annie]]-dyad rows are split across exports with
   degenerate direction columns (+17244346811: 31,177 rows, all Received).
   A clean-direction merge for 2015–2022 would extend the independent
   instrument across the full decade.
 - **The August 15–19 scope tension.** 36–38 (this audit, all declaration
   language) vs ~25 (dat:0090, block/severance language). Resolving it
   needs the ~25's pattern set, which is undocumented.
-- **Non-Annie dyads.** The declaration grammar travels (Tom 2014-09-10,
-  Kristin December 2025, the group threads); no dyad outside Annie's has
+- **Non-Annie dyads.** The [[wiki/mind/synthesis/severance-language-atlas|declaration grammar]] travels ([[wiki/people/tom|Tom]] 2014-09-10, [[wiki/people/kristin|Kristin]] December 2025, the group threads); no dyad outside Annie's has
   been counted under this method. The 129 is an Annie-dyad figure and
   should never be quoted as a lifetime figure.
 

@@ -1,6 +1,7 @@
 ---
 domain: people
 page_type: entity
+title: "Matt Kraus"
 status: active
 date_created: 2026-08-09
 date_modified: 2026-08-09
@@ -27,11 +28,11 @@ connections:
 
 # Matt Kraus
 
-Matt Kraus is Dan's closest documented childhood friend from the Seven Springs era. His family owned a condo a couple hundred feet from Dan's unit K2 in the Villages, and the two boys shared extreme-sports interests — aggressive inline skating and terrain-park skiing — throughout adolescence. Kraus appears across every major adolescent extreme-sports ritual the capture records: the Vans Skatepark birthday trips (2001–2003), the overlapping Seven Springs ski years, and four summers at Camp Woodward.
+Matt Kraus is Dan's closest documented childhood friend from the [[wiki/places/seven-springs|Seven Springs]] era. His family owned a condo a couple hundred feet from Dan's unit K2 in the Villages, and the two boys shared [[wiki/interests/extreme-sports|extreme-sports]] interests — aggressive inline skating and terrain-park skiing — throughout adolescence. Kraus appears across every major adolescent extreme-sports ritual the capture records: the Vans Skatepark birthday trips (2001–2003), the overlapping Seven Springs ski years, and four summers at Camp Woodward.
 
 ## The Vans Skatepark birthday trips
 
-For three years (probably 2001–2003), Dan's birthday party was a weekend-long excursion to the Vans Skatepark at Potomac Mills Mall — a several-hours drive that loaded 5–6 kids into Suz's car, left right after school on Friday, and returned Monday morning at roughly 1 AM. The Kraus family was the co-party: the Krauses brought three people, Dan brought five, and Kathy Kraus and Suz handled logistics for all three years. Matt Kraus was probably Dan's closest childhood friend at the time, and the trip was taken in conjunction with the Kraus family's own Seven Springs condo adjacency.
+For three years (probably 2001–2003), Dan's birthday party was a weekend-long excursion to the Vans Skatepark at Potomac Mills Mall — a several-hours drive that loaded 5–6 kids into [[wiki/people/suzanne-frank|Suz]]'s car, left right after school on Friday, and returned Monday morning at roughly 1 AM. The Kraus family was the co-party: the Krauses brought three people, Dan brought five, and Kathy Kraus and Suz handled logistics for all three years. Matt Kraus was probably Dan's closest childhood friend at the time, and the trip was taken in conjunction with the Kraus family's own [[wiki/places/seven-springs|Seven Springs]] condo adjacency.
 
 One year Dan literally insisted on buying the biggest LoveSac circular cushion thing and used it as a bed; a year or two later he lost his virginity on it. The capture records the ride-home awkwardness: "it was a very crowded ride home with that and 5 kids lol."
 
@@ -43,7 +44,7 @@ On year three, Matt Kraus broke his arm trying a front flip on the outdoor concr
 
 ## Seven Springs adjacency
 
-The Kraus condo was "a couple hundred feet away" from Dan's unit K2 in the Villages at Sunridge. The two families had extensive overlap in the extreme-sports interest and social calendar. The Krauses went to Catholic school and ran a different, broader friend group — hence the three-person vs. five-person split on the Vans trips — but the ski-weekend rhythm was shared.
+The Kraus condo was "a couple hundred feet away" from Dan's unit K2 in the Villages at Sunridge. The two families had extensive overlap in the [[wiki/interests/extreme-sports|extreme-sports]] interest and social calendar. The Krauses went to Catholic school and ran a different, broader friend group — hence the three-person vs. five-person split on the Vans trips — but the ski-weekend rhythm was shared.
 
 ## Gaps
 

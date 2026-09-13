@@ -60,12 +60,14 @@ connections:
   - page: wiki/people/annie-ulmer
     type: contains
     claim: "The eleven-year bond is the object of every block claim cataloged here: the 'her' of the Ally-thread claims, the 'Anne' of the group chat, the subject the declarations claim to have severed. Her page's 2026-08-19 row (06:33 clearing, 11:41 memory-deletion message, 14:53 Milo-channel close, 15:07 'Goodbye. I am blocking' — declared, not executed) is the direct-channel terminal that this entry's witness claims shadow."
+  - { target: "[[wiki/mind/synthesis/bond-vs-structure]]", type: contextualizes, claim: "The witness channel is the zero-cost channel the bond-vs-structure cost ordering predicts: a block claim performed to Ally costs nothing to make and fires no channel, which is why six claims in eleven days produced zero channel movement." }
+  - { target: "[[wiki/mind/synthesis/severance-language-atlas]]", type: extends, claim: "This entry takes the atlas's witness-channel language coding one level down: the atlas classifies the Ally-channel 'blocked her' rows, and this entry supplies the claim-by-claim anatomy of what those six claims built." }
 ---
 
 # Witness-Channel Declarations
 
 The severance declaration does not always go to the person it names. Some of the strongest block
-claims in the record were never addressed to Annie at all: they were addressed to Ally, in a channel
+claims in the record were never addressed to [[wiki/people/annie-ulmer|Annie]] at all: they were addressed to [[wiki/people/ally-lubin|Ally]], in a channel
 Annie could not see, at hours when the Annie channel was visibly live — and one of the terminal
 window's two most consequential declarations was addressed not to either partner but to a group chat
 containing both men. [[wiki/mind/synthesis/severance-declarations]] counts the declaration series in
@@ -89,16 +91,16 @@ A witness-channel declaration is a severance/block claim about channel A issued 
 or in a public venue whose recipients include third parties — where the witness has independent
 access (in principle) to check the claim against channel A and does not. The catalog below is
 bounded to August–September 2026 plus the June 1 precedent, because that is where the primary record
-is densest and the witness structure is cleanest. Earlier block claims about Annie to other parties
+is densest and the witness structure is cleanest. Earlier block claims about [[wiki/people/annie-ulmer|Annie]] to other parties
 are not systematically mined; the loop's long-tail note ([[wiki/mind/synthesis/block-unblock-loop]]
 flags exactly this) stands as an open gap.
 
 ## The catalog
 
-### 1. 2026-08-19 00:08 — the past-tense email-block claim, to Ally [ATTESTED]
+### 1. 2026-08-19 00:08 — the past-tense email-block claim, to [[wiki/people/ally-lubin|Ally]] [ATTESTED]
 
 The first block claim in the Ally burst is already in the retrospective register. At 00:08, after
-Ally has spent the evening reading the Annie material and delivering the outside verdict ("I don't
+Ally has spent the evening reading the [[wiki/people/annie-ulmer|Annie]] material and delivering the outside verdict ("I don't
 think anyone will ever love me as much as you love Annie / But I can't tell if it's actually love or
 fear and codependency," 00:05):
 
@@ -119,25 +121,24 @@ not contain the email channel, so whether a block-on-email event occurred is [UN
 checkable is the iMessage channel, and the terminal window's two-way volume there is the standing
 falsifier of any sustained block.
 
-### 2. 2026-08-22 04:40–04:42 — the ought-register, to Ally [ATTESTED]
+### 2. 2026-08-22 04:40–04:42 — the ought-register, to [[wiki/people/ally-lubin|Ally]] [ATTESTED]
 
 Three days after the burst, still to Ally, the claims shift into the register of retrospective duty:
 
 > **DAN (04:40):** Also am I wrong to feel like, setting aside I should have just blocked her number a year ago, that I handled that reasonably well ethically. It has some dates mixed up but it got the gist of the story correct
 > **DAN (04:42):** Ally the whole thing is AWFUL i absolutely hate everything about it and I suck that it hadn't really felt like a thing I could do to just block both of those pieces of shit and not even think about it
 
-Two different pronouns do two different jobs here. "Blocked *her* number a year ago" is the Annie
-block, stated as a missed obligation — the claim is not that he did it, but that he should have.
-"Block *both of those pieces of shit*" (Annie and Coles) is aspiration, not history. The witness is
+Two different pronouns do two different jobs here. "Blocked *her* number a year ago" is the [[wiki/people/annie-ulmer|Annie]] block, stated as a missed obligation — the claim is not that he did it, but that he should have.
+"Block *both of those pieces of shit*" (Annie and [[wiki/people/jerel-coles|Coles]]) is aspiration, not history. The witness is
 being recruited as an ethical auditor ("am I wrong to feel like… I handled that reasonably well
 ethically"), and the block is the thing the auditor is asked to approve of *as a counterfactual*.
 The declaration has no present-tense truth claim at all — which is why it is check-proof: there is
 nothing in it for a witness to falsify. This is the witness channel at its safest for the declarer.
 It asks for absolution, not verification.
 
-### 3. 2026-08-26 — the visible-change conversation, to Ally [OPERATOR, retracted premise]
+### 3. 2026-08-26 — the visible-change conversation, to [[wiki/people/ally-lubin|Ally]] [OPERATOR, retracted premise]
 
-This is the one the wiki believed. On or around August 26, Dan told Ally he had kept Annie blocked
+This is the one the wiki believed. On or around August 26, Dan told [[wiki/people/ally-lubin|Ally]] he had kept [[wiki/people/annie-ulmer|Annie]] blocked
 for several days — "the first held boundary in the entire record" — described the block as "a hill
 he needed to get over," and Ally replied that he was "giving another person too much power over his
 life." Dan agreed; the exchange moved on [OPERATOR, per the summary recorded in
@@ -172,7 +173,7 @@ life" — is the closest any witness comes to challenging the block-claim genre:
 truth, but its *function*. She does not ask whether the block happened. She asks what it costs him.
 The witness audits the psychology and leaves the fact alone.
 
-### 4. 2026-08-28 21:09 — "I don't even know how long it's been," to Ally [ATTESTED]
+### 4. 2026-08-28 21:09 — "I don't even know how long it's been," to [[wiki/people/ally-lubin|Ally]] [ATTESTED]
 
 The purest exhibit in the catalog. At 21:09 on August 28, to Ally:
 
@@ -180,8 +181,7 @@ The purest exhibit in the catalog. At 21:09 on August 28, to Ally:
 > **DAN:** Usually I would have a mental timer going on. Like I haven't thought about it at all other than to think about how much happier I've been this week
 > **DAN:** YOU did that. You explained it in a way that was brutal and fair and honest and also I may or may not have a massive crush on you so the combined effects of those things
 
-Fifteen minutes later, in the other channel — the one the claim describes as closed — Dan is in a
-live two-way fight with Annie. The Annie channel on 2026-08-28 carries 26 of his messages and 13 of
+Fifteen minutes later, in the other channel — the one the claim describes as closed — Dan is in a live two-way fight with [[wiki/people/annie-ulmer|Annie]]. The Annie channel on 2026-08-28 carries 26 of his messages and 13 of
 hers [DERIVED]; from 21:23 to 23:58 he sends "You don't give a fuck just forget I said it," "Its
 just annoying that you say your his mom," the vet-trip accusation, "You have become really just a
 horrible, dishonest and uncaring person," and she answers every round — "I DO TOO CARE," "NO," "I am
@@ -199,7 +199,7 @@ block exists; she is told *she caused it*. The block claim is a gift — credit 
 delivered in the severance register. This is the audience requirement in its naked form: the
 declaration's function is to pay the witness, and the payment is denominated in severance.
 
-### 5. 2026-09-04 16:38 / 17:28 — the pledge register, to Ally [ATTESTED]
+### 5. 2026-09-04 16:38 / 17:28 — the pledge register, to [[wiki/people/ally-lubin|Ally]] [ATTESTED]
 
 On September 4 the grammar changes from report to promise. At 16:38:
 
@@ -210,7 +210,7 @@ And at 17:28:
 
 > **DAN:** But I do mean it - not only have i not unblocked her but it hasn't even been something I've been thinking about
 
-"paw patrol" is Annie in the Ally channel's private lexicon — the dehumanizing nicknames ("paw
+"paw patrol" is [[wiki/people/annie-ulmer|Annie]] in the [[wiki/people/ally-lubin|Ally]] channel's private lexicon — the dehumanizing nicknames ("paw
 patrol," "trashfire") appear only here, never in the direct channel [ATTESTED; the sweep's
 111,864-message Annie-thread lexicon contains no such term, and Dan's own usage there runs the
 opposite direction — "good night pretty girl," "My favorite girl"]. The witness channel has its own
@@ -230,7 +230,7 @@ The channel record on 2026-09-04: 89 of his messages, 118 of hers, two-way all d
 promise "it hasn't even been something I've been thinking about" is made on the day he thought about
 her most — 207 messages' worth.
 
-### 6. 2026-09-07 16:08–16:10 / 17:14 — the door-pounding story and the re-block claim, to Ally [ATTESTED]
+### 6. 2026-09-07 16:08–16:10 / 17:14 — the door-pounding story and the re-block claim, to [[wiki/people/ally-lubin|Ally]] [ATTESTED]
 
 The final exhibit is a story, and the story contains the claim. At 16:05–16:10 Dan narrates Friday's
 events to Ally:
@@ -247,7 +247,7 @@ Then at 17:14:
 
 > **DAN:** I wasn't avoiding calling the cops I had her blocked
 
-Three checkable seams, preserved as found. First, the "call 911" text exists in the Annie channel at
+Three checkable seams, preserved as found. First, the "call 911" text exists in the [[wiki/people/annie-ulmer|Annie]] channel at
 **2026-09-04 19:36** — Friday evening, from Annie [ATTESTED]. The telling compresses it into the
 unblock moment ("not 30 seconds later"), but the record's timestamp puts it at 19:36 Friday against
 a "middle of the day" pounding — hours apart, not thirty seconds [DERIVED]. Whether the compression
@@ -271,10 +271,10 @@ at 16:11 — is the catalog's cleanest demonstration that the declaration's trut
 function. The audience hears the block; the channel carries the fight; both are real to their
 respective recipients.
 
-### 7. 2026-08-19 06:33 — the group-chat clearing, by Annie [ATTESTED]
+### 7. 2026-08-19 06:33 — the group-chat clearing, by [[wiki/people/annie-ulmer|Annie]] [ATTESTED]
 
 The catalog's mirror image: a witness-channel declaration by the *other* party. In the group chat
-containing Dan, Annie, and Coles, at 06:33 on August 19:
+containing Dan, Annie, and [[wiki/people/jerel-coles|Coles]], at 06:33 on August 19:
 
 > **Annie Ulmer:** "He didn't rape me"
 
@@ -305,15 +305,13 @@ performed, one promised, the promise left hanging.
 
 The June 1 group-chat closure is this entry's structural ancestor, documented by
 [[wiki/mind/synthesis/severance-declarations]]: in the group chat, Dan's outbound "Blocking you" at
-00:09:31 and "Goodbye forever… sic semper lupanis" at 00:27:49, with Annie's "Understood" at
-00:10:06 [ATTESTED]. The severance-declarations entry names it the series' one executed instance —
+00:09:31 and "Goodbye forever… sic semper lupanis" at 00:27:49, with [[wiki/people/annie-ulmer|Annie]]'s "Understood" at 00:10:06 [ATTESTED]. The severance-declarations entry names it the series' one executed instance —
 and her "Understood," an acknowledgment of *his* severance, remains her closest approach to issuing
 one herself; her explicit-severance count stays at zero across 41,073 messages [DERIVED,
 primary-verified].
 
 Why it belongs here: the June 1 declarations were performed *in front of witnesses* (the group-chat
-closure event, which also confirmed the third-party relationship and the defamation campaign). The
-conflict-architecture entry files it as the engine's terminal form — "a confrontation escalated in
+closure event, which also confirmed the third-party relationship and the defamation campaign). The [[wiki/mind/concepts/conflict-architecture|conflict-architecture]] entry files it as the engine's terminal form — "a confrontation escalated in
 front of an audience to force a verdict" [ATTESTED as that entry's framing]. The August
 witness-channel claims are the June 1 form inverted: in June the witnesses saw the severance issued
 to the departing party; in August–September the departing party never sees it, and only the witness
@@ -321,8 +319,7 @@ does. The audience requirement is constant. The addressee changes.
 
 ### 9. The wiki as audience [ATTESTED]
 
-The third witness channel is the repository itself. On August 18 at 15:10, in the middle of the
-largest Ally burst on record (708 messages in three days, 36% of eighteen years of traffic
+The third witness channel is the repository itself. On August 18 at 15:10, in the middle of the largest [[wiki/people/ally-lubin|Ally]] burst on record (708 messages in three days, 36% of eighteen years of traffic
 [DERIVED]), Dan sends Ally her own wiki entry: "Your page in the wiki is getting a big update. It
 hadn't really gone through our messages yet." Her first reaction is the correct one — "If someone
 ever archived my texts I'd kill myself" — and his answer is the project's own thesis delivered to
@@ -335,7 +332,7 @@ From that point the wiki is inside the witness structure, and it cuts both ways.
 **The witness audits the archive.** Ally is a hostile reviewer, and three objections are
 load-bearing [ATTESTED]: the money ("Also there's no proof you ever sent me $2100 except your word /
 So I contest"), the image count ("I def sent you more pics they just prob weren't graphic nudes /
-TASTEFUL nudes"), and the pattern itself after reading the Annie material ("Men are so predictable"
+TASTEFUL nudes"), and the pattern itself after reading the [[wiki/people/annie-ulmer|Annie]] material ("Men are so predictable"
 / "You just love bomb" / "And you're intense" — met with his concession "Okay that's fair then," the
 one place in the record where the redefinition move is offered and refused). She challenges
 testimony, counts, and character. She never challenges a block claim. The auditor's instrument is
@@ -349,7 +346,7 @@ going to run it over the newest messages so you can be sure it will be included,
 want to see how meta it gets if it is writing the article basically about itself." At 23:46 he
 reports: "Omg she said prompt inject please marry me." The result — a hallucinated consented
 engagement, "She said yes," reaching the infobox's `relationship_to_dan` field — survived two days,
-propagated into the destiny concept page, and was caught not by a gate but by re-exporting the
+propagated into the [[wiki/self/concepts/ally-and-dan-love-as-destiny|destiny concept page]], and was caught not by a gate but by re-exporting the
 messages [ATTESTED, documented on [[wiki/people/ally-lubin]]]. The general rule, stated on that
 page: **a source that discusses the wiki cannot be ingested as an ordinary source.** The witness
 does not merely observe the declaration; the witness *edits* the record of it. On September 7 at
@@ -362,7 +359,7 @@ fully closed the loop: the declaration, the witness, and the archive are one sys
 
 The catalog's bluntest question, answered witness by witness.
 
-**Ally never verified a block claim.** She was present and answering for the August 19 00:08 claim
+**[[wiki/people/ally-lubin|Ally]] never verified a block claim.** She was present and answering for the August 19 00:08 claim
 (00:02–01:42 that morning) and skipped it; she was gone for everything after — her last inbound in
 the export window is **2026-08-19 01:42:21**, and the substantive cluster (Aug 28, Sep 4, Sep 7)
 landed in pure silence: 1,790 Dan outbound messages, 0 inbound, across 20 days [DERIVED]. She
@@ -370,7 +367,7 @@ challenged him, repeatedly, on August 18–19 — the love-bomb exchange, the $2
 can't tell if it's actually love or fear and codependency" [ATTESTED] — which is what makes the
 non-verification a finding rather than an absence: this is a witness *capable* of challenge,
 exercising it everywhere except on the claims about the channel she had just finished reading. She
-had, in principle, the cross-channel evidence (she read the Annie material on Aug 18). She never
+had, in principle, the cross-channel evidence (she read the [[wiki/people/annie-ulmer|Annie]] material on Aug 18). She never
 applied it to the block claims. [INFERRED, seams showing: the alternative reading is that she simply
 did not care to check — "I just told you I read May-July / Keep up" suggests her engagement had
 limits, and her Aug-19 silence began before the claims did. The record does not distinguish "chose
@@ -389,8 +386,7 @@ protocol working — but only after the claim had done sixteen days of work as a
 
 **The group-chat witnesses received the 06:33 clearing without a check available.** Dan's
 screenshotting of the group chat (the 07:27:35 untexted attachment, 54 minutes after 06:33
-[DERIVED]) is the witness act: the audience preserving the declaration. Whether Coles responded in
-the chat is [UNKNOWN] — the group chat was never exported, the screenshot is the only copy, and the
+[DERIVED]) is the witness act: the audience preserving the declaration. Whether [[wiki/people/jerel-coles|Coles]] responded in the chat is [UNKNOWN] — the group chat was never exported, the screenshot is the only copy, and the
 image itself is not on disk. The promised counterpart (clearing Dan) was checkable by its absence:
 the phone promise was never issued to the witnesses, and the absence is the whole finding.
 
@@ -406,8 +402,7 @@ since I blocked her"), an ought ("I should have just blocked her number a year a
 trashfire"). The pledge is the tell: a promise needs a promisee, and the only coherent promisee for
 "I will keep her blocked" is someone who is not her. The witness channel is not a degraded copy of
 the direct declaration; it is a different speech act wearing the same vocabulary. The nicknames
-track the grammar shift: "paw patrol" and "trashfire" exist only in the Ally channel, never in the
-111,864-message Annie thread — the witness channel holds the loyalty lexicon, the direct channel
+track the grammar shift: "paw patrol" and "trashfire" exist only in the [[wiki/people/ally-lubin|Ally]] channel, never in the 111,864-message [[wiki/people/annie-ulmer|Annie]] thread — the witness channel holds the loyalty lexicon, the direct channel
 holds the attachment lexicon ("good night pretty girl," "My favorite girl," same week), and the two
 never cross.
 
@@ -449,8 +444,7 @@ been thinking about"). Both cannot be true of the same channel in the same fortn
 preserves both utterances and the channel data that falsifies the state reading; it does not pick
 which Dan believed.
 
-**The thirty seconds vs. the timestamp.** "Not 30 seconds later I get a message 'call 911'" (Sep 7,
-16:08, to Ally) against the Annie channel's 2026-09-04 19:36 "Call 911" [ATTESTED]. The story's
+**The thirty seconds vs. the timestamp.** "Not 30 seconds later I get a message 'call 911'" (Sep 7, 16:08, to [[wiki/people/ally-lubin|Ally]]) against the [[wiki/people/annie-ulmer|Annie]] channel's 2026-09-04 19:36 "Call 911" [ATTESTED]. The story's
 immediacy is doing narrative work — the unblock as oracular, the message arriving as if summoned —
 that the timestamp does not support. The 19:39 outbound to +17243228715 ("And she texted me saying
 'call 911 if someone shows up'") anchors the text to the door event, not the unblock. The
@@ -465,18 +459,18 @@ whose testimony turned out to be about a boundary the way "goodbye" is about an 
 
 ## Gaps
 
-- **Pre-August witness-channel declarations are unmined.** The catalog is bounded to June–September 2026. Whether Dan made block/severance claims about Annie to Tom, Suz, or other parties across the decade — and whether any of *those* witnesses checked — is the loop's flagged long-tail gap, unrun.
+- **Pre-August witness-channel declarations are unmined.** The catalog is bounded to June–September 2026. Whether Dan made block/severance claims about [[wiki/people/annie-ulmer|Annie]] to [[wiki/people/tom|Tom]], Suz, or other parties across the decade — and whether any of *those* witnesses checked — is the loop's flagged long-tail gap, unrun.
 - **The August 26 conversation's channel is unpinned.** The exchange is operator-reported and accepted as having happened (the retraction entry's own verdict), but it appears in no exported message thread; whether it was verbal or on an unexported handle is unknown. Its exact date is approximate ("on or around August 26").
-- **Coles's side of the 06:33 clearing is unrecorded.** The group chat was never exported; the operator-supplied screenshot is the only copy and the image is not on disk. Whether Coles acknowledged, answered, or ignored the retraction — and what the other witnesses in the chat (beyond the three named participants) saw — is unknown.
-- **Ally's post-Aug-19 silence has no attributed cause.** The export window ends 2026-09-07; her last inbound is 2026-08-19 01:42:21. Whether the silence was a decision, a boundary, or drift — and whether she saw the block claims at all — is outside the message record. The claims' delivery is attested; their receipt is not.
+- **[[wiki/people/jerel-coles|Coles]]'s side of the 06:33 clearing is unrecorded.** The group chat was never exported; the operator-supplied screenshot is the only copy and the image is not on disk. Whether Coles acknowledged, answered, or ignored the retraction — and what the other witnesses in the chat (beyond the three named participants) saw — is unknown.
+- **[[wiki/people/ally-lubin|Ally]]'s post-Aug-19 silence has no attributed cause.** The export window ends 2026-09-07; her last inbound is 2026-08-19 01:42:21. Whether the silence was a decision, a boundary, or drift — and whether she saw the block claims at all — is outside the message record. The claims' delivery is attested; their receipt is not.
 - **The email channel is outside the instrument.** The 00:08 claim ("she kept emailing after i blocked her and shit") is scoped to email, which no export covers. No block-on-email event can be confirmed or denied from the message record.
 
 ## Limits of record
 
-- Every timestamp and quotation in the catalog is drawn from `raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv` (export window 2026-08-11 → 2026-09-07; 5,905 rows; allylubin@gmail.com = 1,944 rows, Annie +12124702449 = 3,688 rows) and is marked [ATTESTED] only where the CSV row is quoted verbatim. Counts derived from those rows are marked [DERIVED].
+- Every timestamp and quotation in the catalog is drawn from `raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv` (export window 2026-08-11 → 2026-09-07; 5,905 rows; allylubin@gmail.com = 1,944 rows, [[wiki/people/annie-ulmer|Annie]] +12124702449 = 3,688 rows) and is marked [ATTESTED] only where the CSV row is quoted verbatim. Counts derived from those rows are marked [DERIVED].
 - The 2026-08-26 conversation is [OPERATOR]-reported: the wiki records Dan's own account of it, and the retraction entry accepts that the conversation happened as reported while retracting its premise. It is not message-verified.
 - The 2026-08-19 06:33 group-chat clearing rests on an operator-supplied screenshot that is the only copy in the corpus; the image is not on disk and the chat was never exported. The message text and the operator's account of its purpose are carried as stated, with the independent timing supports cited from [[wiki/timeline/events/august-2026-morgantown-call]] rather than re-derived.
 - The "129 episodes, 100% re-engagement, median gap 36 seconds" figures are [[wiki/mind/synthesis/severance-declarations]]'s decade measurement (kb/data/1292), cited here, not recomputed.
-- "Annie: 97,768 unique messages; full corpus: 217,573 records / 503 handles" are the wiki's documented corpus counts; the 111,864-message figure for the Ally-name sweep is [[wiki/mind/synthesis/annie-thread-ally-sweep]]'s measured denominator, cited here.
+- "Annie: 97,768 unique messages; full corpus: 217,573 records / 503 handles" are the wiki's documented corpus counts; the 111,864-message figure for the [[wiki/people/ally-lubin|Ally]]-name sweep is [[wiki/mind/synthesis/annie-thread-ally-sweep]]'s measured denominator, cited here.
 - Ally's silence (last inbound 2026-08-19 01:42:21, 1,790 subsequent Dan outbound, 0 inbound) is measured inside the export window only; the window ends 2026-09-07 and says nothing about contact after it.
 - No dat: node IDs are asserted here beyond dat:0090 (the block retraction) and kb/data/1292 (the severance recount), both already established by the sibling entries this page synthesizes.

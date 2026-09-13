@@ -82,6 +82,9 @@ connections:
   - page: wiki/mind/synthesis/fayette-return
     type: instantiates
     claim: "The 'personal failure' reading that page's own Consequences section rejects is Core Axiom 1's worth-binary applied to a family return — exceptional or worthless, no middle state — and that page's genealogical reframing is a rare documented case of escaping the binary by changing category (inherited pattern, not personal verdict) rather than by arguing for a graded middle value the architecture does not have."
+  - { target: "[[wiki/mind/synthesis/dormancy-not-exit]]", type: references, claim: "The dormancy record is the negative-space case for the binary verdict: declared exits the behavior never executed." }
+  - { target: "[[wiki/mind/synthesis/intake-constancy]]", type: extends, claim: "The intake constancy extends the binary thesis from values to behavior: the digging workflow admits no middle state either." }
+
 ---
 
 # The Binary Verdict
@@ -107,7 +110,7 @@ a corpus-confirmed low-trust default.
 > **one row of the table below.** [[wiki/mind/concepts/the-cool-metric]] gained a
 > section showing the sorting metric run on a six-year live-in partner:
 > affection in the public register falls from 12 of 32 mentions in 2010 to 3 of
-> 47 across 2011-2014, the last three namings are jokes at her expense, and she
+> 47 across 2011-2014, the last three namings are jokes at her expense, and [[wiki/people/alexis-armel|she]]
 > is never publicly named again across the relationship's final twenty-four
 > months and 1,132 posts.
 >
@@ -168,13 +171,13 @@ so the binary shows with nothing available to blur it.
 [[wiki/mind/synthesis/totality-themes]] states the corpus's clearest instance
 directly: **Core Axiom 1, "not exceptional = worthless."** Read literally,
 that sentence has no space in it for a self-assessment between the two
-named poles — there is no recorded instance anywhere in the wiki's
+named poles — there is no recorded instance anywhere in [[wiki/self/concepts/wiki-brain|the wiki]]'s
 psychological layer of Dan describing himself, or being described by the
 AI-collaborative material he commissioned, as "solid," "fine," or "good
 enough." The vocabulary of the corpus's self-narrative runs almost
 exclusively between peak events (the Mellon Arena night, the primacy
 moments) and catastrophic ones. [[wiki/mind/synthesis/totality-themes]]'s
-own reading of the intake-constancy data — that the involuntary record's
+own reading of the [[wiki/mind/synthesis/intake-constancy|intake-constancy]] data — that the involuntary record's
 single most extraordinary property is not a peak but a twenty-year
 *flatness* — is the corpus's own evidence that the exceptional/worthless
 frame is a narrative choice rather than a forced reading of the data: the
@@ -186,7 +189,7 @@ data supports a middle, and the self-verdict does not use it.
 concrete numbers — `normie` and `taste` each appear 68 times in the profile
 material, against 12 mentions of gatekeeping and 6 of snobbery — and the
 axis has exactly one documented failure mode: the August 18, 2026 Skins
-exchange, where Ally Lubin's command of the sorting criteria exceeds Dan's
+exchange, where [[wiki/people/ally-lubin|Ally Lubin]]'s command of the sorting criteria exceeds Dan's
 own and he does not adjudicate. That is a **ceiling**, not a middle state.
 The metric produces "passes" and "fails," and the one time it could not
 produce a verdict, it did not produce a partial one — it produced silence.
@@ -430,7 +433,7 @@ implied.
    party to it.
 4. If Fe-valuing is genuinely liftable by a specific interlocutor rather than
    fixed — the open question [[wiki/mind/profile/intp]] states about the
-   Ally Lubin exception — then any future documented verdict exchange with
+   [[wiki/people/ally-lubin|Ally Lubin]] exception — then any future documented verdict exchange with
    that same interlocutor should show the gate moving faster or flipping
    more easily than it does with anyone else, without ever producing a
    stated middle value. A *graded* verdict appearing there, rather than a
@@ -449,7 +452,7 @@ Dan's mind resolves questions.
 | # | Register | Disposition |
 |---|---|---|
 | 1. Cognitive stack | **Moved the conclusion.** [[wiki/mind/profile/intp]]'s Ti 96%/Fe 10% split supplies the mechanism argued above — a dominant closure test with no relational grading function beside it. |
-| 2. Personality profile | **Moved the conclusion, at a stated weaker-but-independently-audited strength.** [[wiki/mind/profile/big-five-psychometrics]]'s Trust 9 (corpus-confirmed 1.96x) explains the authority/trust domain specifically; the enneagram sx/sp stack was checked and does not bear on a verdict-cognition claim, so it is not cited here. |
+| 2. Personality profile | **Moved the conclusion, at a stated weaker-but-independently-audited strength.** [[wiki/mind/profile/big-five-psychometrics]]'s Trust 9 (corpus-confirmed 1.96x) explains the authority/trust domain specifically; the enneagram [[wiki/mind/profile/enneagram-5w4|sx/sp]] stack was checked and does not bear on a verdict-cognition claim, so it is not cited here. |
 | 3. Historical precedent | **Checked, left standing.** [[wiki/mind/synthesis/totality-themes]] already documents Core Axiom 1 ("not exceptional = worthless") as this page's clearest instance and already reasons about this page in its own prose — the two pages were cross-checked, not merely cross-linked. |
 | 4. Attitudes and forces | **Checked, left standing.** [[wiki/mind/concepts/chaos-preference]] and [[wiki/mind/synthesis/political-psyops]] are members already; no new attitude or trend surfaced that the domain table does not already carry. |
 | 5. Security and prosperity | **Not checked — a real Gap, not a silence.** [[wiki/mind/synthesis/estate-money-spine]] was read for this pass's purposes and its financial-decision record was not tested against the binary/graded split; it remains the obvious next domain (see Gaps). |

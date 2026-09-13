@@ -64,6 +64,9 @@ connections:
   - page: wiki/mind/synthesis/the-deferred-audit
     type: parallels
     claim: "That page names the model-derived dossier circuit — testimony in, dossier out, dossier cited as corroboration of the testimony. This entry is the provenance audit of one specific circuit output: the four axioms, traced to the dossier layer that synthesized them."
+  - target: "[[wiki/mind/synthesis/the-romantic]]"
+    type: references
+    claim: "The 'love-bombing, not mortality' reading of the June–July 2026 dossier chain is the romantic register's sincerity-vs-scale split restated as an axiom test."
 ---
 
 # The Four Axioms: First Written Attestation
@@ -77,10 +80,10 @@ the wiki's own governance requires: with dated attestations, named
 documents, and an honest negative where the trail runs out.
 
 The short answer: **axioms 1 and 2 were written by Dan himself no later
-than May 2026**, in the CATO bootloader v2.0, which carried only those two.
+than May 2026**, in the [[wiki/mind/concepts/exocortex|CATO bootloader]] v2.0, which carried only those two.
 **Axiom-4 language is attested 2026-06-10** in the raw TOTALITY synthesis.
 **All four axioms in canonical form arrive in the wiki on 2026-06-22**,
-in the context-core and totality-themes pages. The canonical four-axiom
+in the [[wiki/self/context-core|context-core]] and [[wiki/mind/synthesis/totality-themes|totality-themes]] pages. The canonical four-axiom
 sentence's exact first writing is bounded to **May–June 2026** and pinned
 to `CONTEXT_CORE_EXPANDED.md` — a document that exists in no accessible
 repository — so within that window, provenance is undetermined. What is
@@ -128,7 +131,7 @@ accessible repository.
 The earliest dated attestation of any axiom phrasing is Dan's own
 bootloader. [[wiki/self/concepts/llm]] carries the record **[ATTESTED]**:
 
-> The flagship is CATO (`CATO_BOOTLOADER_DANFRANK.md`, v2.0, May 2026),
+> The flagship is [[wiki/mind/concepts/exocortex|CATO]] (`CATO_BOOTLOADER_DANFRANK.md`, v2.0, May 2026),
 > named for Cato the Younger, the Roman Stoic who refused to compromise
 > under pressure.
 
@@ -177,9 +180,7 @@ v2.0, quoted above — Dan's own document, two-axiom stage. **[ATTESTED]**
 via [[wiki/self/concepts/llm]].
 
 **In-wiki arrival: 2026-06-22.** The old-wiki export's frontmatter dates
-put the formulation on three pages created that day: [[wiki/self/context-
-core.md]] (all four axioms, [DOC]-grade), [[wiki/mind/concepts/conflict-
-architecture.md]] (axiom 1 as the concession mechanism's routing), and
+put the formulation on three pages created that day: [[wiki/self/context- core.md]] (all four axioms, [DOC]-grade), [[wiki/mind/concepts/conflict- architecture.md]] (axiom 1 as the concession mechanism's routing), and
 [[wiki/mind/synthesis/totality-themes.md]] (axiom 1 as the Irreversibility
 Firewall's worth-domain instance). **[ATTESTED]** — page-level phrase
 search against `raw/old-wiki-export-2026-09-04/whole.txt`, 497 pages,
@@ -244,8 +245,7 @@ practice visible since 2015.
 
 ### 3. Love that doesn't cost everything isn't real
 
-**Earliest dated attestation: 2026-06-22**, in-wiki — [[wiki/self/context-
-core.md]] and [[wiki/mind/synthesis/totality-themes.md]]. **[ATTESTED]**.
+**Earliest dated attestation: 2026-06-22**, in-wiki — [[wiki/self/context- core.md]] and [[wiki/mind/synthesis/totality-themes.md]]. **[ATTESTED]**.
 This axiom has no May 2026 attestation: it is absent from the CATO
 two-axiom stage entirely.
 
@@ -266,9 +266,9 @@ variants. **[ATTESTED]**. Three axioms in Dan's voice, not four.
 
 **The behavioral complement** (from the sibling entry, restated for the
 trail): the ledger architecture — the Suz thread's never-closing account,
-the 129 severance declarations with 100% re-engagement — is the wiki's
+the [[wiki/mind/synthesis/severance-declarations|129 severance declarations]] with 100% re-engagement — is the wiki's
 best-measured interpersonal finding, and it documents cost being
-*tracked*, not cost being the *criterion of reality* for love. The Fran
+*tracked*, not cost being the *criterion of reality* for love. The [[wiki/people/fran-coldren|Fran]]
 bond — no ledger, no invoice, attested as the most formative — runs the
 axiom's prediction backwards. The axiom arrived latest, is attested
 thinnest, and fits the measurements worst. **[INFERRED]** — the
@@ -317,8 +317,8 @@ the message corpus with the 110,944 inbound messages as control
 
 On every explicit urgency construction except one, Dan writes *less* than
 his controls. "Rest of my life" looked promising at 3.5× until the twenty
-hits were read: all 2015–16 declarations to Annie — *"I want to spend the
-rest of my life with you"* — love-bombing, not mortality. Direct age
+hits were read: all 2015–16 declarations to [[wiki/people/annie-ulmer|Annie]] — *"I want to spend the
+rest of my life with you"* — [[wiki/mind/synthesis/the-romantic|love-bombing]], not mortality. Direct age
 self-reference survives at n=8 across eleven years, half of it escort-ad
 boilerplate. The context-core's own gloss: "This does not falsify the
 axiom, and the distinction matters. An unconscious load-bearing axiom is
@@ -394,13 +394,13 @@ six-week fuse:
   secondhand via totality-themes' inherited-language flag.
 - **2026-06-22** — the wiki batch: context-core.md (all four, [DOC]-grade),
   totality-themes.md (axioms 1, 3, 4), dans-law.md / forensic-method.md /
-  ai-collaborative-analysis.md (axiom 2), conflict-architecture.md
+  ai-collaborative-analysis.md (axiom 2), [[wiki/mind/concepts/conflict-architecture|conflict-architecture.md]]
   (axiom 1). The four-axiom canonical form is in-wiki from this date.
 - **2026-07-13** — profile hub (modified 2026-08-26): four axioms plus the
   personal myth, sourced to the dossier triad.
 - **2026-08-02** — the corroboration attempt: t011's lexical audit,
   outcome unfalsifiable, carried inline in the context-core.
-- **2026-08-14** — master-timeline.md: all four axioms in the timeline's
+- **2026-08-14** — [[wiki/timeline/master-timeline|master-timeline.md]]: all four axioms in the timeline's
   recent-activity index (the ★ 2026-06-01 context-core entry is a
   re-derivation marker, not a formulation date — marked here so it is not
   misread as one).
@@ -529,7 +529,7 @@ four-axiom systematization in June (the context-core, [DOC]-grade,
 injected into his AI sessions as background fact). The endorsement is
 real — he states them as certain — but the record now shows *what* he
 endorsed and *when*: a June 2026 dossier product, two months old when the
-August audit failed to corroborate it. The veracity ledger priced
+August audit failed to corroborate it. [[wiki/meta/testimony-veracity|The veracity ledger]] priced
 "certain" at 0.25 on calibration; the provenance hunt adds that the
 certainty was attached to a formulation younger than the audit.
 

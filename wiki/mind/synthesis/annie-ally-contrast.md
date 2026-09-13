@@ -70,6 +70,13 @@ connections:
   - page: wiki/timeline/events/2026-08-26-dan-consistency-test
     type: contextualizes
     claim: "The August 26 two-channel test — boundary with Annie, consistency with Ally, held simultaneously — is this entry's Protocol A/Protocol B contrast stated as a live experiment. The retraction voids the boundary half and leaves the consistency half standing, which sharpens rather than weakens the contrast."
+  - { target: "[[wiki/people/fran-coldren]]", type: contextualizes, claim: "The March 2018 Fran’s-house first non-monogamous encounter is the decade-phases section’s earliest dated arrangement milestone — the family house as the site where the Annie channel’s openness was first enacted." }
+  - { target: "[[wiki/people/suzanne-frank]]", type: contextualizes, claim: "The Annie money spine runs through her: Dan funding roughly the first five NYC years via Suz, before the later inversions moved the provision onto Annie alone." }
+  - { target: "[[wiki/people/milo]]", type: references, claim: "The pre-closed Milo channel is named in the decade-phases section as one of the arrangement-era third parties the Annie channel metabolized without severing." }
+  - { target: "[[wiki/mind/synthesis/severance-declarations]]", type: extends, claim: "The concurrency section’s 129-declarations count (zero signals from her side in 41,073 messages) is the quantitative base under this entry’s Protocol A: declarations as punctuation, never execution." }
+  - { target: "[[wiki/mind/synthesis/vacancy-rule]]", type: references, claim: "The slot-transfer audition — the primary slot believed vacant after the August severance — is this entry’s live case for the vacancy rule: the Ally channel opens nineteen hours after the June 1 severance." }
+  - { target: "[[wiki/mind/synthesis/the-scoreboard]]", type: references, claim: "The ninety-days-after addendum scores its early predictions against the scoreboard: n=1 on the Ally side, with the missing inbound as the datum that could change the reading." }
+
 ---
 
 # Two Channels, Two Protocols
@@ -77,8 +84,8 @@ connections:
 For forty-eight hours in August 2026, Dan ran two attachment channels at the
 same time, in the same hours, telling each one things about the other that
 the timestamps disprove. Across August 18–19 he sent **408 messages to
-Annie** — the woman he had spent eleven years with and was in the final
-hours of leaving — and **552 to Ally** — the woman he had never met, had
+[[wiki/people/annie-ulmer|Annie]]** — the woman he had spent eleven years with and was in the final
+hours of leaving — and **552 to [[wiki/people/ally-lubin|Ally]]** — the woman he had never met, had
 been in love with for eighteen years, and had just shown his own wiki to
 for the first time [DERIVED — dual-export count carried on
 [[wiki/people/annie-ulmer]]]. The threads interleave hour by hour; neither
@@ -104,12 +111,12 @@ human story comes first; the machinery is named after.
 
 ## The forty-eight hours, as they happened
 
-The window opens on the afternoon of August 18, 2026. Dan has sent Ally her
+The window opens on the afternoon of August 18, 2026. Dan has sent [[wiki/people/ally-lubin|Ally]] her
 own wiki entry at 15:10 — *"Your page in the wiki is getting a big update"*
 — and she is reading it live, quoting it back at him, oscillating between
 horror (*"If someone ever archived my texts I'd kill myself"*) and audit
 (*"Also there's no proof you ever sent me $2100 except your word / So I
-contest"*). The Annie thread is running beside it. What follows is the
+contest"*). The [[wiki/people/annie-ulmer|Annie]] thread is running beside it. What follows is the
 hour-by-hour ledger as [[wiki/people/ally-lubin]] records it, because any
 analysis of this window that does not start from the ledger is commentary:
 
@@ -183,7 +190,7 @@ whose channel runs on the absence of exactly that kind of performance.
 
 ## Channel one: Annie — eleven years under verbal law
 
-Anne Ulmer is the primary bond of Dan's adult life: eleven years, November
+[[wiki/people/annie-ulmer|Anne Ulmer]] is the primary bond of Dan's adult life: eleven years, November
 2015 to August 2026, **97,768 unique messages** in the corpus against
 119,405 records across four handles [DERIVED — the unique count is the
 deduplicated figure; the handle count is the raw export figure; the gap is
@@ -252,7 +259,7 @@ for eleven years.
 
 ## Channel two: Ally — eighteen years with no contract
 
-Alexandra Lubin is the longest-running attachment in the corpus with no
+[[wiki/people/ally-lubin|Alexandra Lubin]] is the longest-running attachment in the corpus with no
 physical component: a woman Dan has never met in person, in love with
 since roughly 2008 by his own accounting (*"i've spent 10 years idolizing
 this girl i've never met as the epitome of whatever 'cool' is"*,
@@ -300,7 +307,7 @@ durable — is the confessional with no stake. He says so directly on August
 interested and invested"* [OPERATOR]; she says it from her side an hour
 earlier: *"I tell you more than I tell anyone and I don't know why"*
 [OPERATOR]. What that channel carried in 2019 is the material the rest of
-the corpus reaches for: Annie's escort period in full (four clients, the
+the corpus reaches for: [[wiki/people/annie-ulmer|Annie]]'s escort period in full (four clients, the
 three-call protocol, the acid-and-mushrooms meltdown that ended it), the
 camming business with revenue screenshots, the October 20, 2019 MMF with
 Bryan disclosed within hours in more detail than Polyak got (*"nobody came
@@ -338,7 +345,7 @@ the asset anyway. It did not keep.
 
 The two channels begin in opposite ways, and the opposition is structural.
 
-The Annie channel begins with **sourcing before vacancy**. The 2015 switch
+The [[wiki/people/annie-ulmer|Annie]] channel begins with **sourcing before vacancy**. The 2015 switch
 from Alexis completes inside a single calendar month; the replacement was
 identified before the prior bond ended; the origin week is textually dark
 because it was lived in person — two Morgantown runs, first sex, the bar
@@ -350,7 +357,7 @@ of explicit verbal rules is already visible in the first week — *"It's done
 I'm yours"* vows on November 29 formalize what the bar scene ruptured
 [ATTESTED].
 
-The Ally channel begins with **a decade of watching before access**. He
+The [[wiki/people/ally-lubin|Ally]] channel begins with **a decade of watching before access**. He
 finds her around 2008, spends ten years idolizing at a distance, makes
 first contact in 2013 for a single day, waits five and a half years, then
 pays $25 to manufacture the re-entry in December 2018 [ATTESTED]. Nothing
@@ -378,13 +385,13 @@ free.
 
 ## The two protocols, stated so they can be broken
 
-> **Protocol A (Annie):** Positive verbal expressions function as absolute
+> **Protocol A ([[wiki/people/annie-ulmer|Annie]]):** Positive verbal expressions function as absolute
 > rules until an explicit severance signal arrives; no counter-rule from
 > behavior is admitted. Declarations are performances; re-engagement is the
 > fact. The system cannot exit by declaration — 129 attempts, 0 exits —
 > and it has never received a severance signal from either party.
 >
-> **Protocol B (Ally):** No verbal expression functions as a rule at all.
+> **Protocol B ([[wiki/people/ally-lubin|Ally]]):** No verbal expression functions as a rule at all.
 > The channel is governed by continuity without contract: it never closes,
 > it is never formalized, and its operating condition is inaccessibility.
 > Conversion attempts — pricing, pitching, proposing — are the one input
@@ -418,7 +425,7 @@ Falsifiers are at the end of this entry, with the rest.
 On June 1, 2026 at 00:27:49, Dan severs the eleven-year relationship:
 *"Goodbye forever. This was not how it should have ended"* [OPERATOR].
 Nineteen hours and thirty-eight minutes later, at 20:06:05, he opens the
-Ally channel for the first time in fourteen months [ATTESTED]:
+[[wiki/people/ally-lubin|Ally]] channel for the first time in fourteen months [ATTESTED]:
 
 > *My sweetness my love / Guess who suffered their first real like BRUTAL
 > heartbreak / cheated on and then she had the dude message to inform me 11
@@ -448,8 +455,8 @@ with the standing caveat that the August 19 inbound is missing from the
 export, not proven absent; his messages that day are unambiguously
 responsive, so she was replying and the capture stopped].
 
-This is the slot-transfer audition: the primary slot is vacant (or
-believed vacant — the August severance, unlike June's, has no single
+This is the slot-transfer audition: [[wiki/mind/synthesis/vacancy-rule|the primary slot]] is vacant (or
+believed vacant — [[wiki/timeline/events/august-2026-morgantown-call|the August severance]], unlike June's, has no single
 severance event in this telling, only the terminal week's decay), and the
 eighteen-year watcher channel is invited, on stage, to occupy it. She saw
 the audition — she had read her own wiki entry that afternoon, had audited
@@ -499,7 +506,7 @@ message to Ally produces, because the corpus barely contains any.
 
 On August 26, 2026, the wiki recorded what looked like the experiment this
 entry describes, run deliberately: Dan maintaining a hard boundary with
-Annie while preserving a calmer, ordinary channel with Ally — *"Dan
+[[wiki/people/annie-ulmer|Annie]] while preserving a calmer, ordinary channel with [[wiki/people/ally-lubin|Ally]] — *"Dan
 appears to be maintaining a boundary with Annie while maintaining a
 comparatively ordinary, non-punitive friendship with Ally"*
 [[wiki/timeline/events/2026-08-26-visible-change]]. The two-channel test,
@@ -551,8 +558,8 @@ forensics would take another two weeks to agree with her.
 ## What the concurrency proves — about Annie
 
 First, that **the verbal-rule system cannot describe its own concurrent
-state.** The wifi-off message and the all-Ally message are not lies in the
-ordinary sense — there is no evidence he believed Annie would check, or
+state.** The wifi-off message and the all-[[wiki/people/ally-lubin|Ally]] message are not lies in the
+ordinary sense — there is no evidence he believed [[wiki/people/annie-ulmer|Annie]] would check, or
 that he was managing her perception at all. They are Protocol A utterances
 doing what Protocol A utterances do: formalizing a position (*I am not
 available to her; I am entirely toward you*) in the only register the
@@ -567,7 +574,7 @@ not.
 
 Second, that **the "boundary" was never the scarcest resource in the
 Annie channel — the severance signal was.** Zero signals in 41,073 of her
-messages; 129 declarations from him; the one external signal the system
+messages; [[wiki/mind/synthesis/severance-declarations|129 declarations]] from him; the one external signal the system
 ever received was his own line, misattributed to her for two months. A
 system in which only one party can declare and neither party can signal
 is not a relationship with an exit problem. It is a relationship in which
@@ -592,7 +599,7 @@ happened.
 
 First, that **the channel can carry primary-scale load without a
 contract.** 552 messages in 48 hours is primary-bond volume — it exceeds
-the Annie thread's own 408 in the same window — delivered with no title,
+the [[wiki/people/annie-ulmer|Annie]] thread's own 408 in the same window — delivered with no title,
 no promise extracted, no exclusivity discussed, no future scheduled. The
 eighteen-year no-stake asset did not merely survive the load; the load is
 the largest mutual window in the channel's history, and its mutual half
@@ -654,7 +661,7 @@ The serial-monogamy page's transfer machinery even predicts the shape: the
 slot was (believed) vacant, the successor was identified, the transfer
 was attempted. On this reading the concurrency is not two channels — it
 is one channel mid-transfer, with the old occupant's thread still warm.
-The 408 Annie messages are the transfer's friction, not a second
+The 408 [[wiki/people/annie-ulmer|Annie]] messages are the transfer's friction, not a second
 attachment.
 
 **Reading 2: the rule was always about the slot, not the person.**
@@ -666,7 +673,7 @@ was ambiguous, so the voltage split. On this reading the concurrency
 refines the single-channel thesis rather than contradicting it: the unit
 of concentration is the slot, and slots can be contested.
 
-**Reading 3: the system has two slots, and always did.** The Ally
+**Reading 3: the system has two slots, and always did.** The [[wiki/people/ally-lubin|Ally]]
 channel's eighteen-year persistence — never closed, never contracted,
 activated at every primary-bond rupture (2019, 2023, June 2026, August
 2026) — is not a spike pattern. It is a second slot with a different
@@ -708,7 +715,7 @@ machinery is already the operating system: positions are stated,
 formalized, and restated, and the restatements do the work that behavior
 does not. This is also the period the wiki files as the arrangement
 architecture's baseline — the 2016 jealousy-kink baseline, the slow build
-toward the 2018–19 paid-model window — with Annie as the constant across
+toward the 2018–19 paid-model window — with [[wiki/people/annie-ulmer|Annie]] as the constant across
 every documented arrangement instance
 ([[wiki/mind/psychosexual/arrangement-history]]). The channel is not
 monogamous in practice and is never described by Dan as "serial
@@ -722,10 +729,10 @@ Annie's escort period (four clients over five months, Dan as vetting and
 check-in contact, the three-call protocol, ended by the
 acid-and-mushrooms meltdown), the camming business (revenue screenshots,
 the Lovense hardware, the Pornhub uploads, the stage name and website he
-administered), the March 2018 Fran's-house first non-monogamous encounter
+administered), the March 2018 [[wiki/people/fran-coldren|Fran]]'s-house first non-monogamous encounter
 (neither of them stopping it for the medical emergency in the next room),
 the October 20, 2019 MMF with Bryan. All of this is disclosed by Dan to
-Ally within hours — the Ally channel functioning, already, as the
+[[wiki/people/ally-lubin|Ally]] within hours — the Ally channel functioning, already, as the
 confessional for the Annie channel's most unspeakable material. The
 299-or-more love affirmations from Annie against zero explicit severance
 signals ([[wiki/people/annie-ulmer]]) belong substantially to this
@@ -769,7 +776,7 @@ line, 52 days held — the longest severance in the record — then the July
 unadjudicated rape allegation, the corpus's only refused supply request,
 no resolution). August 16–19: the terminal rupture, distinguished from
 every prior severance by six dated features, all endogenous —
-[[wiki/people/annie-ulmer]] names them: the pre-closed Milo channel, the
+[[wiki/people/annie-ulmer]] names them: the pre-closed [[wiki/people/milo|Milo]] channel, the
 present and hostile third party, the written clearing issued for Coles
 and withheld from Dan, the renounced archive, the concurrent Ally
 channel, and the seventy-two-minute SOS latency. The concurrency is not
@@ -789,7 +796,7 @@ two threads.
 
 ## The reversal years: what the Ally channel did 2020–2025
 
-If the Annie channel's 2020–2024 is steady-state Protocol A, the Ally
+If the [[wiki/people/annie-ulmer|Annie]] channel's 2020–2024 is steady-state Protocol A, the [[wiki/people/ally-lubin|Ally]]
 channel's 2020–2025 is Protocol B's dormancy phase — and it contains the
 inversion that proves the protocol is not pursuit.
 
@@ -841,7 +848,7 @@ the same way.
 The protocols are audible before they are legible. The two threads do not
 sound like each other, and the difference is itself evidence.
 
-The Annie thread, per the corpus measurement carried in the wiki's memory
+The [[wiki/people/annie-ulmer|Annie]] thread, per the corpus measurement carried in the wiki's memory
 layer, runs a **3.62:1 character ratio** — his messages 3.62 times the
 length of hers — with her median at **18 characters** [DERIVED]. She
 out-answered him every year 2015–2026; the deficit was message length,
@@ -852,7 +859,7 @@ register of a channel that never needs to establish context, because the
 context is eleven years old and always loaded. Nothing is explained;
 everything is continued.
 
-The Ally thread is the inverse: long-form, literate, jointly funny, the
+The [[wiki/people/ally-lubin|Ally]] thread is the inverse: long-form, literate, jointly funny, the
 most engineered private register in the corpus — a twelve-category
 compliment-and-affection phrase generator built around her by name,
 documented as more elaborate and more deliberately engineered than
@@ -894,12 +901,12 @@ Toward Ally, length is the bond auditioning.
 Both channels run on provision. The denominations differ by two orders of
 magnitude, and the difference is the protocols.
 
-The Annie money spine: **~$119–123K net payment-app outflow across the
+The [[wiki/people/annie-ulmer|Annie]] money spine: **~$119–123K net payment-app outflow across the
 decade** [DERIVED, via [[wiki/mind/synthesis/estate-money-spine]]] —
 roughly the size of the entire estate distribution, exiting through the
 relationship. The four financial inversions (companion entry in this
 batch, [[wiki/mind/synthesis/four-financial-inversions]]): Dan funding
-roughly the first five NYC years via Suz; the 2023 Paci-debt inversion;
+roughly the first five NYC years via [[wiki/people/suzanne-frank|Suz]]; the 2023 Paci-debt inversion;
 mid-2024 Annie as sole earner; February 2025 Dan becoming the supply
 chain — each inversion generating its locally-true, historically-
 incomplete grievance. Provision here is structural: it is the channel's
@@ -908,7 +915,7 @@ enacts. The high-provision-low-condolence rule
 ([[wiki/mind/synthesis/high-provision-low-condolence]]) was measured on
 this channel.
 
-The Ally money ledger: **$25** (finder's fee, December 2018), **$250**
+The [[wiki/people/ally-lubin|Ally]] money ledger: **$25** (finder's fee, December 2018), **$250**
 Cash App (stated intent, same week), a Sephora gift card, a Christmas
 gift, CBD attempted and failed, a wine gift card, the August 2019 price
 list (*"$30 for a tit pic if your face is visible… SUPER PREMIUM princess
@@ -944,7 +951,7 @@ The concurrency was not a concealment. That matters, because the obvious
 misreading of "408 and 552, interleaved" is an affair conducted across
 two threads, and the record forecloses it.
 
-**Ally knew about Annie** — in detail, for years, from him. *"What about
+**[[wiki/people/ally-lubin|Ally]] knew about [[wiki/people/annie-ulmer|Annie]]** — in detail, for years, from him. *"What about
 Anne lol"* (October 2023); *"Ok your opinion doesn't matter much because
 you lost your mind over like a cheap stripper"* (same exchange); her
 post-wiki-reading verdict (*"I don't think anyone will ever love me as
@@ -1008,7 +1015,7 @@ durable asset (*"the channel with no stake"*) is explicitly what
 conversion destroys. The destiny page's central evidence was the August
 18 "acceptance" (*"Okay deal. Sounds good 1-2-3 break"*), and that
 evidence is retracted — a hallucination, produced by a prompt injection
-he and Ally jointly fed the pipeline, written into the infobox for two
+he and [[wiki/people/ally-lubin|Ally]] jointly fed the pipeline, written into the infobox for two
 days. Dan's own assessment of the destiny page, sent to Ally on August
 19: *"The AI thinks we are going to get married because we both say
 'lol'"* [OPERATOR]. What remains for the destiny reading after the
@@ -1023,7 +1030,7 @@ toward dormancy without closure, with the next activation following the
 next primary-bond rupture.** The ninety days after August 19 were the
 first test. As of mid-September 2026: no filed source shows post–August
 21 contact. The destiny reading is not falsified — ninety days is not a
-verdict on eighteen years — but the scoreboard's first entry goes to
+verdict on eighteen years — but [[wiki/mind/synthesis/the-scoreboard|the scoreboard]]'s first entry goes to
 dormancy.
 
 A final note on the rivalry, because the wiki's own history here is part
@@ -1039,8 +1046,8 @@ prediction above: the instrument is now inside the experiment.
 ## The 2019 rehearsal: the concurrency had a precedent
 
 The August 2026 window was not the first time the two channels ran hot
-simultaneously. The 2019 crisis spike — 943 Ally messages across August 7
-to October 22 — sits entirely inside the intact Annie decade, and it
+simultaneously. The 2019 crisis spike — 943 [[wiki/people/ally-lubin|Ally]] messages across August 7
+to October 22 — sits entirely inside the intact [[wiki/people/annie-ulmer|Annie]] decade, and it
 contains the earlier, smaller version of the same structure: Dan narrating
 the primary bond into the secondary channel in real time.
 
@@ -1101,13 +1108,13 @@ rivalry. Twenty-five days in, the record is partial but scorable, and the
 honest move is to score it rather than wait.
 
 **What the filed record shows.** The September 11 forensic pass found daily
-two-way Annie texting August 27 through September 7 — 765 messages in the
+two-way [[wiki/people/annie-ulmer|Annie]] texting August 27 through September 7 — 765 messages in the
 last 72 hours of the export, *"good night pretty girl"* rituals intact
 [DERIVED, unfiled export]. On September 10 she told him she works as a
 waitress at Mom Maruca's in Uniontown and had received a bad review there
 [OPERATOR, via the memory layer]; contact is ongoing as of September 12.
 The severance was performed, not enacted — the retraction's finding, now
-with a month of corroboration behind it. On the Ally side: no filed source
+with a month of corroboration behind it. On the [[wiki/people/ally-lubin|Ally]] side: no filed source
 shows contact after the August 21 love letter. The elopement pitch sits
 unanswered; the letter's reply status is unknown; the channel is dormant.
 
@@ -1131,7 +1138,7 @@ message in eighteen years. If the register were viable, the silence after
 it is the puzzle; if the channel's viable registers are only pricing and
 pitching, the silence after the letter is the expected outcome and the
 letter was the coda. The entry does not resolve this — the missing
-inbound could contain the reply that changes it — but the scoreboard reads
+inbound could contain the reply that changes it — but [[wiki/mind/synthesis/the-scoreboard|the scoreboard]] reads
 n=1 until a filed source says otherwise.
 
 **Scoring the two-slot question** (Reading 2 vs Reading 3): the
@@ -1164,14 +1171,14 @@ at the ninety-day mark against whatever is filed by then.
 
 | # | Claim | Evidence | Convergence / divergence | What would falsify it |
 |---|---|---|---|---|
-| 1 | The two channels ran concurrently Aug 18–19, 2026, interleaved hour by hour | Dual-export ledger: 408 Annie / 552 Ally; hourly table on [[wiki/people/ally-lubin]] | Converges with the wifi-off and all-Ally timestamps; diverges from the old sequential-activation thesis on [[wiki/people/ally-lubin]] (channel activates when primary fails) — the old thesis is now bounded to pre-2026 | A re-export showing the hourly interleaving is a handle-attribution artifact |
+| 1 | The two channels ran concurrently Aug 18–19, 2026, interleaved hour by hour | Dual-export ledger: 408 [[wiki/people/annie-ulmer|Annie]] / 552 [[wiki/people/ally-lubin|Ally]]; hourly table on [[wiki/people/ally-lubin]] | Converges with the wifi-off and all-Ally timestamps; diverges from the old sequential-activation thesis on [[wiki/people/ally-lubin]] (channel activates when primary fails) — the old thesis is now bounded to pre-2026 | A re-export showing the hourly interleaving is a handle-attribution artifact |
 | 2 | He stated two things to Ally about Annie that the Annie thread falsifies within the hour | 00:09 wifi-off → 98 messages 01:00–02:59; 13:45 all-Ally → final Annie message 15:15:33 | Converges with the 129-declaration base rate (declarations don't describe traffic); diverges from nothing — no page previously claimed the window's statements were true | Contemporaneous evidence he believed the wifi was off (e.g., a second device), or a retraction of either statement in-thread |
-| 3 | The August 26 block report was a Protocol A utterance inside the Protocol B channel | Retraction: ~25 declarations Aug 15–19, zero executed; *"there was never a block"* [OPERATOR] | Converges with claim 2's mechanism (declaration/traffic split); converges with the block-unblock-loop's 100% re-engagement base rate | Evidence of any executed block (carrier-level, screenshot, third-party confirmation) in Aug 15–Sep 7 |
+| 3 | The August 26 block report was a Protocol A utterance inside the Protocol B channel | Retraction: ~25 declarations Aug 15–19, zero executed; *"there was never a block"* [OPERATOR] | Converges with claim 2's mechanism (declaration/traffic split); converges with the [[wiki/mind/synthesis/block-unblock-loop|block-unblock-loop]]'s 100% re-engagement base rate | Evidence of any executed block (carrier-level, screenshot, third-party confirmation) in Aug 15–Sep 7 |
 | 4 | The Ally channel's operating condition is inaccessibility | *"so i can get the poison out"* (2019); the unanswered pitch + 380 solo messages (2026); the cognitive profile's incompatibility thesis | Converges with no-platonic-channel (conversion attempts degrade the asset); converges with the erotic-architecture reading (arousal sustained by inaccessibility) | A consummated meeting followed by sustained, non-degraded contact — the channel surviving access |
 | 5 | Her entry condition is the obsession the architecture produces by default | *"Well first you'd have to be obsessed with me again"* (13:54:32, Aug 18) + single-channel's "sustained undisguised intensity" as the entry condition | Converges with the 18-year watcher history; diverges from the destiny page's marriage-convergence reading — both use the same burst | Her stating a different entry condition (exclusivity, meeting, financial) in a filed source |
 | 6 | The June 1 Ally burst was the transfer machinery firing; it misfired on addressing | 00:27:49 severance → 20:06:05 first Ally contact in 14 months; 9 messages to an unmonitored handle; her "blocked" conclusion | Converges with the-serial-monogamist's transfer-not-exit rule; converges with dormancy-not-exit's handle-artifact caution | Evidence she received and read the June 1 messages contemporaneously |
 | 7 | The August 21 letter is the first non-converting message in the channel's history | Full text filed; explicit renunciation of the 2019 register; no pitch, no price, no crisis | Converges with claim 4 (non-conversion as the channel's viable register); has no precedent to converge with — n=1 | An earlier Ally message with the same non-converting register (would strengthen, not falsify — it would show the register predates the audition's failure) |
-| 8 | The concurrency does not relieve the primary channel's load | 408 + 552 in 48h; primary still ended; no failover occurred | Diverges from the naive failover reading of single-channel; converges with single-channel's 2025 finding (load tightens concentration rather than distributing it) | A future primary-bond crisis absorbed by the Ally channel with the primary thread going quiet — load actually transferring |
+| 8 | The concurrency does not relieve the primary channel's load | 408 + 552 in 48h; primary still ended; [[wiki/mind/synthesis/single-channel|no failover]] occurred | Diverges from the naive failover reading of single-channel; converges with single-channel's 2025 finding (load tightens concentration rather than distributing it) | A future primary-bond crisis absorbed by the Ally channel with the primary thread going quiet — load actually transferring |
 | 9 | The 2026 Ally window is the first with no pricing register | Dan's own 14:10 Aug 19 statement; the 552-message ledger contains no price list, no Cash App, no payroll talk | Converges with the Aug 21 letter's renunciation of the 2019 register; diverges from the 2019 spike's priced shape — the channel ran on language alone | A filed source showing priced transactions inside the Aug 18–20 window |
 | 10 | The concurrency was not concealed from Ally | Her years-long knowledge of Annie (escort period, camming, MMF — all disclosed by him); her post-wiki-reading peer verdict on the Annie material | Converges with the confessional-with-no-stake role; the annie-ulmer page's explicit bound ("nothing in the Ally thread is an affair, a concealment, or a lie told to Annie") | Evidence she was misled about Annie's status during the window |
 | 11 | Whether Annie knew of the Ally channel is unmeasured | No filed source in this entry's pass shows Annie-side knowledge; the comparison ("She's no ally lubin") runs toward Ally, not toward Annie | Diverges from nothing — no page claims she knew; the gap is the absence of a sweep, not a contradiction | A corpus sweep for Ally-mentions in the Annie thread (cheap, unrun) returning dated knowledge |
@@ -1187,7 +1194,7 @@ frontmatter from the dual-export forensic pass; the hourly ledger on
 [[wiki/people/ally-lubin]] is the visible accounting. Both postdate the
 Agent Edition snapshot. Neither export is filed in raw/ as of this
 entry's date — the August 11–September 7 iMessage re-export is the
-standing gap (see august-26-block-retraction's Gaps). Treat the figures as
+standing gap (see [[wiki/mind/synthesis/august-26-block-retraction|august-26-block-retraction]]'s Gaps). Treat the figures as
 counted-in-chat, not archived.
 
 **On the wifi-off contradiction.** The 98-message count (01:00–02:59,
@@ -1198,7 +1205,7 @@ misleading-but-true statement; no evidence for the two-device reading has
 been filed.
 
 **On the "three statements."** Two are timestamp-falsified inside the
-window (wifi-off, all-Ally). The third live contradiction is positional,
+window (wifi-off, all-[[wiki/people/ally-lubin|Ally]]). The third live contradiction is positional,
 not temporal: the 23:42 SOS narration, in which he occupies the spectator
 seat of an emergency he is inside. The third *temporal* contradiction
 belongs to August 26 (the block report) and is carried by the retraction,
@@ -1214,7 +1221,7 @@ on the Ally page.
 
 **On the declaration counts.** 129 episodes / 100% / 36s median is the
 [[wiki/mind/concepts/explicit-verbal-commitment]] measurement on the
-eleven-year Annie record; the ~25 August 15–19 declarations are the
+eleven-year [[wiki/people/annie-ulmer|Annie]] record; the ~25 August 15–19 declarations are the
 September 11 forensic pass's count. The "130th declaration" framing of
 the August 26 block is this entry's arithmetic (129 + the block report),
 not a separate count — the block report may or may not be among the ~25
@@ -1249,8 +1256,8 @@ all-Ally declaration preceding both.
 ## Falsifiers
 
 1. **A filed re-export of August 18–19** showing the interleaving is a
-   handle-attribution artifact — e.g., the "Ally" messages in the heavy
-   hours addressed to a different handle, or the Annie-thread timestamps
+   handle-attribution artifact — e.g., the "[[wiki/people/ally-lubin|Ally]]" messages in the heavy
+   hours addressed to a different handle, or the [[wiki/people/annie-ulmer|Annie]]-thread timestamps
    shifted by timezone mishandling. The concurrency is the load-bearing
    fact of this entry; without it, the two-protocol reading has no
    stress test.
@@ -1275,7 +1282,7 @@ all-Ally declaration preceding both.
 
 ## Predictions
 
-1. **The next primary-bond instability will produce an Ally burst
+1. **The next primary-bond instability will produce an [[wiki/people/ally-lubin|Ally]] burst
    *during* the instability**, visible in both threads on the same days
    — the concurrency pattern, not the old sequential one. Checkable on
    the next export; the [[wiki/people/ally-lubin]] page already states
@@ -1284,7 +1291,7 @@ all-Ally declaration preceding both.
    August shape**: pitch → silence/withdrawal → solo run → dormancy
    without closure. The register of the attempt (pricing, elopement,
    destiny-framing) will vary; the shape will not.
-3. **No future "boundary" toward Annie (or a successor primary) will be
+3. **No future "boundary" toward [[wiki/people/annie-ulmer|Annie]] (or a successor primary) will be
    verifiable by declaration.** If Protocol A holds, the next reported
    block will again be falsifiable only by export, and the export will
    again show traffic. The test is cheap and the base rate is 129/129.
@@ -1304,7 +1311,7 @@ all-Ally declaration preceding both.
 
 ## Gaps
 
-- **The August 19 Ally inbound is missing from the export** (capture
+- **The August 19 [[wiki/people/ally-lubin|Ally]] inbound is missing from the export** (capture
   stops 21:42 August 18; his side is responsive). A full `chat.db`
   re-export of both Ally handles is the single highest-value action for
   this entry — it settles what she said about the pitch, the price, and
@@ -1323,7 +1330,7 @@ all-Ally declaration preceding both.
   any filed source. An itemized list (text, timestamp, channel) would let
   the "130th declaration" arithmetic be checked rather than asserted.
 - **Whether the June 1 "Goodbye forever" severance was received and read
-  by Annie** before the group-chat clearing — the severance event's own
+  by [[wiki/people/annie-ulmer|Annie]]** before the group-chat clearing — the severance event's own
   delivery is assumed, not established, in the sources filed to date.
 - **The 2019 $2,100 figure** remains disputed (accepted 2019, contested
   2026) with no Cash App export in raw/. It is not load-bearing for this
@@ -1339,7 +1346,7 @@ in this entry, the September 11 retraction forensics, the Facebook
 payments ledger ($25 memo), the January 2019 window (120 messages),
 the 2019 crisis thread (942 messages), the August 21 letter text.
 What was reported: Dan's operator testimony (the block, the wifi, the
-"all Ally" declaration, the June 1 misaddressing explanation), Ally's
+"all [[wiki/people/ally-lubin|Ally]]" declaration, the June 1 misaddressing explanation), Ally's
 in-thread statements (the price, the audits, the money contest).
 What was calculated: 408/552, 97,768 unique, 1,864 records, 129/100%/36s,
 0/170, 0/41,073, 380 consecutive, 89%-in-two-spikes — all [DERIVED] from

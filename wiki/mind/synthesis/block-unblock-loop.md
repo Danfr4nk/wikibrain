@@ -1,6 +1,7 @@
 ---
 domain: mind
 page_type: synthesis
+title: "The Block/Unblock Loop"
 status: active
 knowledge: earned
 date_created: 2026-07-18
@@ -94,6 +95,12 @@ connections:
   - page: wiki/mind/profile/intp
     type: caused-by
     claim: "Two distinct functions, not one, explain the corrected rule ('the exit is executed; the deletion never is'): Si-tertiary's non-pruning archive is why nothing co-held is ever actually erased from the system, which is what makes a channel reopenable regardless of how completely the exit itself was performed; Fe-inferior (10% valuing, and 'exhaustible' under repeated cycles, per this page's own 'machine proof' language) is why an executed severance never becomes felt-settled without an external terminating statement — the same two-function account already established for dormancy-not-exit's 'suspend, not delete' rule, run here on the channel-operation layer instead of the relationship-status layer."
+  - target: "[[wiki/mind/synthesis/may-august-2025-bridge]]"
+    type: references
+    claim: "The bridge's corridor contributes two datable 2025 instances of the loop's early form — the Rick silence and the Menore farewell — inside the rule's shape."
+  - target: "[[wiki/mind/synthesis/the-register-never-closes]]"
+    type: references
+    claim: "The register's chemical never-exit — sixteen unbroken years of Suboxone at zero missed days — is the structural twin of the loop's 129 declarations at 100% resumption: both are systems that never actually exit."
 ---
 
 # The Block/Unblock Loop
@@ -109,7 +116,7 @@ connections:
 > **RE-CHECKED [2026-08-26]:** flagged stale against
 > [[wiki/mind/concepts/conflict-architecture]] (2026-08-26), which added a
 > section documenting the corpus's one completed refusal of the redefinition
-> move (an Ally exchange) and removed its `sage_pending` staging. This page's
+> move (an [[wiki/people/ally-lubin|Ally]] exchange) and removed its `sage_pending` staging. This page's
 > citation of conflict-architecture is about the repair mechanism's general
 > shape, not the new counter-instance. **No claim on this page is affected.**
 
@@ -124,7 +131,7 @@ connections:
 > Searching Dan-sent severance language — blocking declarations, *goodbye*,
 > *I'm done / we're done / it's over*, *never contact me again* — across the
 > **95,067-row merged Annie corpus** (2015-11-28 → 2026-05-28) returns **258**
-> **messages, collapsing to 129 distinct episodes** when hits within 24 hours of
+> **messages, collapsing to [[wiki/mind/synthesis/severance-declarations|129 distinct episodes]]** when hits within 24 hours of
 > each other are treated as one declaration.
 >
 > **129 episodes against the dossier's 127, from a completely independent**
@@ -166,7 +173,7 @@ connections:
 > was withdrawn on either. **One claim on this page is directly engaged and it**
 > **is engaged in this page's favour, not against it.** That page's Part I item 1
 > argues that the August 19 2026 severance is the first in the record to name
-> and pre-close its own most likely reopening channel — Milo and
+> and pre-close its own most likely reopening channel — [[wiki/people/milo|Milo]] and
 > thinking-of-you news, the July 4 route that ended the fifty-two-day silence —
 > which is precisely the failure mode this page's rule predicts and which this
 > page's own falsified June 2026 prediction was widened to accommodate. The rule
@@ -742,7 +749,7 @@ this page.
   reverse case: silent exits that executed. Whether the record contains
   unannounced severances that held has never been asked, because unannounced
   events are the ones a message corpus is worst at showing.
-- **The Menore control row is provisional on elapsed time** (see the re-check
+- **The [[wiki/people/menore|Menore]] control row is provisional on elapsed time** (see the re-check
   above). If that channel reopens, this page loses its cleanest non-Annie
   control, and the corrected rule needs a durability clause rather than a
   dependency clause alone.

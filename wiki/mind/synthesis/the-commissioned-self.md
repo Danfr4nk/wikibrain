@@ -63,6 +63,9 @@ connections:
   - page: wiki/mind/synthesis/the-binary-verdict
     type: instantiates
     claim: "That page's constitution pass is a documented instance of this page's own standing instruction — 'any answer that draws a behavioral prediction from mind/profile/ should cite this page alongside it' — applied to itself: it leans most heavily on calibrated-confidence, the one profile-layer finding with no self-report origin, states plainly that Trust 9 is corpus-audited while the Ti/Fe function split is not, and treats the two as different-strength evidence rather than citing them at equal weight."
+  - { target: "[[wiki/mind/synthesis/the-unbroken-bond]]", type: contradicts, claim: "The unbroken-bond page's August 2026 contradiction is the live stress test of the commission narrative this page describes." }
+  - { target: "[[wiki/mind/profile/texting-deviance-audit]]", type: references, claim: "The deviance audit is the audit half of the commission loop: instruments commissioned, then measured against the corpus." }
+
 ---
 
 # The Commissioned Self
@@ -77,7 +80,7 @@ connections:
 
 > **RE-CHECKED [2026-08-26]:** flagged stale against
 > [[wiki/mind/profile/intp]] and [[wiki/mind/profile/enneagram-5w4]] (both
-> 2026-08-26), which each added a documented instance from the Ally Lubin
+> 2026-08-26), which each added a documented instance from the [[wiki/people/ally-lubin|Ally Lubin]]
 > channel (a completed Fe-adjudication interruption; the Witness need's one
 > completion) and removed their `sage_pending` staging. Both additions are
 > integrated into this page's own sections above rather than merely
@@ -101,7 +104,7 @@ connections:
 Dan knows himself the way he knows a stranger: **by running an instrument over
 the evidence and reading the output.** Seven independent frameworks have been
 applied to him — MBTI with function percentages, Enneagram with wing and
-instinct stack, Big Five / Big30 with a SLOAN code, a personality-disorder
+instinct stack, Big Five / [[wiki/mind/profile/big-five-psychometrics|Big30]] with a SLOAN code, a personality-disorder
 vector, Socionics, Attitudinal Psyche, a moral alignment — plus a stylometric
 analysis, a deviance audit against a demographic baseline, a composite voice
 model, and now this wiki. That is not an unusual amount of interest in
@@ -290,7 +293,7 @@ subject, and this is the *apparatus* being delivered, so the subject can run it
 themselves.
 
 **And the self-typing, when it finally appears in his own words, disagrees with
-the wiki.**
+[[wiki/self/concepts/wiki-brain|the wiki]].**
 
 > **CONTRADICTION [2026-08-19] — the one first-person type code in the primary
 > record is not the one the profile cluster is built on.** On 2024-11-04, quoting
@@ -298,7 +301,7 @@ the wiki.**
 > **Dan is an INTP 5w6sx RLOEI**."*
 >
 > The entire `mind/profile/` cluster, and [[wiki/self/context-core]]'s LLM Quick
-> Brief, carry **5w4 sx/sp** and **RLUEI**. Two codes differ. The wing is 6, not
+> Brief, carry **5w4 sx/sp** and **[[wiki/mind/profile/big-five-psychometrics|RLUEI]]**. Two codes differ. The wing is 6, not
 > 4 — and the 4 wing is doing enormous work in the wiki, since
 > [[wiki/mind/profile/enneagram-5w4]] is named for it and derives the
 > tragic-romantic identity-through-difference reading, the "mythic
@@ -354,10 +357,10 @@ were available, over a corpus Dan chose, with instructions Dan wrote
 self-commissioned frameworks over one dataset is agreement, and agreement
 therefore carries almost no information. The genuinely informative results in
 the whole cluster are the ones that *disagree* with something — the Socionics
-ILI-Ni mismatch against the MBTI LII prediction, and the 5w6/RLOEI line above.
+[[wiki/mind/profile/socionics-and-attitudinal|ILI]]-Ni mismatch against the MBTI LII prediction, and the 5w6/RLOEI line above.
 
 **Why [[wiki/mind/concepts/calibrated-confidence]] is worth more than the
-psychometrics.** That page found a behavioural signature by counting — graded
+[[wiki/mind/profile/big-five-psychometrics|psychometrics]].** That page found a behavioural signature by counting — graded
 numeric confidence at 22× the rate of 503 other people, present in every year
 from 2015 — and it explicitly frames itself as *"the same architecture caught
 with nobody watching."* It is the only finding in the psychological layer that
@@ -429,7 +432,7 @@ cited; it belongs here: **any answer that draws a behavioral prediction from
 3. **A framework he did not commission.** An instrument applied to Dan by
    somebody else, for their own reasons, whose result he then adopted.
 4. **The 5w6 line explained away.** A second dated first-person self-typing
-   giving 5w4 would make the 2024 line a slip and close the contradiction. So
+   giving [[wiki/mind/profile/enneagram-5w4|5w4]] would make the 2024 line a slip and close the contradiction. So
    would a message where Dan corrects it. Either resolves the sharpest open item
    here.
 
@@ -442,7 +445,7 @@ cited; it belongs here: **any answer that draws a behavioral prediction from
    himself.** The 2015 Annie links, the 2024 Vanessa comparison and the 2025
    prompt forward are three instances across a decade; the rule says the
    handing-outward is part of the operation and not a coincidence of enthusiasm.
-3. **The 5w4 reading will not survive a serious re-derivation from primary
+3. **The [[wiki/mind/profile/enneagram-5w4|5w4]] reading will not survive a serious re-derivation from primary
    material.** This is the falsifiable form of the contradiction above: if
    somebody rebuilds the Enneagram read from the message record rather than from
    the dossiers, the rule predicts the 4-wing's tragic-romantic content will turn

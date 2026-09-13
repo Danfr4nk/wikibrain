@@ -94,6 +94,8 @@ connections:
   - page: wiki/people/danielle-onesi
     type: evidenced-by
     claim: "The pre-corpus anchor: ~2005–2009, ended ~Valentine's Day 2009 by the operator's 2025 account, followed by the ~nine-month gap to Alexis — the longest adult vacancy on record and the one that bounds the rule's strong form to the documented era."
+  - { target: "[[wiki/mind/synthesis/the-curse]]", type: extends, claim: "The curse's complicating mechanism is the vacancy rule running without a vacancy ever opening — performed severance as the complication that prevents the slot from clearing." }
+  - { target: "[[wiki/mind/synthesis/the-romantic]]", type: references, claim: "The June 1 burst is Transition 5's opening move — the romantic weather the failed Annie-to-Ally transfer rode in on." }
 ---
 
 # The Vacancy Rule
@@ -130,9 +132,9 @@ dissolves the moment the definition is applied.
 relationship the explicit-verbal rule system governs, the one whose
 severances are counted in the declaration loop (129 episodes, 100%
 re-engagement, median gap thirty-six seconds **[ATTESTED]** —
-kb/data/0081), the one that structures residence (155 Virginia Ave held
-constant across the 2015 switch **[ATTESTED]** — bond-switch-2015), and the
-one that dominates the corpus by volume in its period (Annie: 97,768 unique
+kb/data/0081), the one that structures residence ([[wiki/places/155-virginia-ave|155 Virginia Ave]] held
+constant across the 2015 switch **[ATTESTED]** — [[wiki/mind/synthesis/bond-switch-2015|bond-switch-2015]]), and the
+one that dominates the corpus by volume in its period ([[wiki/people/annie-ulmer|Annie]]: 97,768 unique
 messages **[ATTESTED]**; Kristin: 22,018 in ten weeks **[ATTESTED]** —
 [[wiki/people/kristin]]; Alexis: the pre-2015 anchor). Operationally, the
 slot's occupant is whoever the declaration system is currently measuring —
@@ -158,7 +160,7 @@ disagreements are where the entry's hardest calls live:
    is a bid, not an occupancy.
 3. **Residence and material entanglement.** Whoever structures the household
    — the lair at 155 Virginia Ave in 2015, the Morgantown obligations in
-   2026, the co-held dog Milo throughout — is the occupant the material
+   2026, the co-held dog [[wiki/people/milo|Milo]] throughout — is the occupant the material
    layer recognizes. This instrument is the slowest to move and the hardest
    to fake: declarations can be performed (August 26, 2026), volume can
    spike (Kristin, September 2025), but the lease, the dog, and the address
@@ -168,7 +170,7 @@ disagreements are where the entry's hardest calls live:
 no live successor bid. Both conditions matter. A severance declaration
 opens no vacancy by itself — the August 26, 2026 block was performed, never
 executed, and the ledger does not count it **[ATTESTED]** — the
-august-26-block-retraction. A live bid holds the slot the way a signed
+[[wiki/mind/synthesis/august-26-block-retraction|august-26-block-retraction]]. A live bid holds the slot the way a signed
 offer holds a house: the June 1, 2026 Ally burst was misaddressed and
 unreceived, but it was placed nineteen hours after the severance, which
 means the vacancy that opened at 00:27:49 had a bid on it by 20:06:05
@@ -231,9 +233,9 @@ carry their markers; the method appendix shows the arithmetic.
 | 1 | [[wiki/people/danielle-onesi|Danielle]] ("Dee") | ~2005 – ~Feb 2009 | ~3–4 yrs (pre-adult) | [UNKNOWN] | [UNKNOWN] |
 | 2 | [[wiki/people/alexis-armel|Alexis]] | Nov 2009 – Nov 2015 | ~9 months **[DERIVED]** | Successor bid via Kelly Mulroy failed; Alexis identified later in 2009 **[ATTESTED/INFERRED]** | [UNKNOWN] — pre-corpus onset |
 | 3 | [[wiki/people/annie-ulmer|Annie]] | Nov 2015 – Aug 2026 | ~0 days (overlap) **[DERIVED]** | Sourced ~Nov 24 by the incumbent herself; activated Nov 29; incumbent out Dec 1 **[ATTESTED]** | 728 sent/day Dec 10; 682/363/679 Dec 11–13 **[ATTESTED]** |
-| 3a | [[wiki/people/kristin|Kristin]] — rival bid | 2025-08-29 – early Nov 2025 | n/a (contested) | Sourced via Tom's social circle during partial primary vacancy **[ATTESTED]** | 1,324 msgs Sep 9 **[ATTESTED]** |
+| 3a | [[wiki/people/kristin|Kristin]] — rival bid | 2025-08-29 – early Nov 2025 | n/a (contested) | Sourced via [[wiki/people/tom|Tom]]'s social circle during partial primary vacancy **[ATTESTED]** | 1,324 msgs Sep 9 **[ATTESTED]** |
 | 4 | Annie — 52-day hold | Jun 1 – Jul 23, 2026 | 52 days **[DERIVED]** | Successor bid placed 19h38m after severance (misaddressed) **[ATTESTED]** | 624 msgs across four days on resumption **[ATTESTED]** |
-| 5 | Annie — terminal window | Aug 15–19 – Aug 27, 2026 | ~8–12 days **[DERIVED]** | Ally bid live Aug 18–20 (708 msgs); incumbent re-bid by Aug 27 **[ATTESTED]** | Daily texting Aug 27–Sep 7 **[ATTESTED]** |
+| 5 | Annie — terminal window | Aug 15–19 – Aug 27, 2026 | ~8–12 days **[DERIVED]** | [[wiki/people/ally-lubin|Ally]] bid live Aug 18–20 (708 msgs); incumbent re-bid by Aug 27 **[ATTESTED]** | Daily texting Aug 27–Sep 7 **[ATTESTED]** |
 | 6 | Annie — present | Aug 27, 2026 – 2026-09-13 | 0 (continuous) | Incumbent never vacated; rival bids live (Ally ongoing, Kristin reinitiated Sep 12) **[ATTESTED]** | Ongoing contact (Sep 10: Mom Maruca's) **[ATTESTED]** |
 
 Three things the table shows before any commentary does. First, the
@@ -258,7 +260,7 @@ era, which is the honest scope limit on everything this entry claims.
 The dates. Danielle is dated ~2005–2009 on [[wiki/people/danielle-onesi]]
 **[ATTESTED]**. The breakup is dated by Dan's own 2025 account to
 Valentine's Day, five months into the Orlando move — the Orlando move being
-August 2008 (Danielle picked out the cat Gabe the day after he arrived),
+August 2008 (Danielle picked out the cat [[wiki/people/gabe|Gabe]] the day after he arrived),
 so ~February 14, 2009 **[OPERATOR, retrospective — seams showing: a
 sixteen-year-old memory of a date, stated once, in a 2025 conversation]**.
 The mechanism was exit-by-cheating: he broke up with Danielle "in a real
@@ -280,7 +282,7 @@ instruments (message-level dating, the declaration loop, onset-flood
 measurement) only operate inside it. Before November 2009 the ledger runs
 on retrospective testimony, and retrospective testimony is what the wiki's
 own governance ranks below contemporaneous records **[DERIVED from the
-veracity ledger: stated certainty ≈ 0.25 actual]**. Second — and this is
+[[wiki/meta/testimony-veracity|veracity ledger]]: stated certainty ≈ 0.25 actual]**. Second — and this is
 the interesting part — the Danielle exit *was* a substitution attempt. He
 did not leave Danielle for nothing; he left her for Kelly Mulroy, and the
 substitution misfired. The nine-month vacancy is what a failed sourcing
@@ -325,7 +327,7 @@ rule's scope; it is listed so the ledger does not pretend the record
 starts at Danielle. The adult rule starts at row 2. Everything before it
 is context, not evidence.
 
-## Transition 2: Alexis → Annie, ~November 24 → December 1, 2015
+## Transition 2: Alexis → [[wiki/people/annie-ulmer|Annie]], ~November 24 → December 1, 2015
 
 The sharpest instance in the ledger, and the one that needs a correction
 before it can be read.
@@ -354,7 +356,7 @@ vacancy is day-resolution and measures zero.
 ### The dated sequence
 
 **[ATTESTED]** — [[wiki/timeline/periods/2015-2016-annie-relationship-start]],
-bond-switch-2015:
+[[wiki/mind/synthesis/bond-switch-2015|bond-switch-2015]]:
 
 - **~2015-11-24** — Annie enters, introduced by Alexis herself. Annie's
   December 1 message: *"HAPPY ONE WEEK SINCE LEX HANDED YOU TO ME."* The
@@ -364,7 +366,7 @@ bond-switch-2015:
   first "I love you" at 03:14; *"YOU ARE MY EVERYTHING"* at 03:24 and
   *"You are my full life"* at 03:23 — roughly ninety minutes after the
   meeting ended, before either had slept **[ATTESTED]** — the hand-read on
-  the annie-record timeline. Activation at first contact, at message
+  the [[wiki/timeline/annie-record|annie-record]] timeline. Activation at first contact, at message
   volume. The dossier baseline's "day two" framing was corrected 2026-08-17
   to "inside two hours of first physical contact" — the onset was faster
   than the first write-up allowed.
@@ -374,9 +376,9 @@ bond-switch-2015:
   is inferred (Casey Bondarenka, by thread adjacency) rather than read off
   the row — the inference is marked because the direction field is a known
   export limitation.
-- **2015-11-30** — Alexis still in the house ("Alexis is sloshed"); Suz
+- **2015-11-30** — Alexis still in the house ("Alexis is sloshed"); [[wiki/people/suzanne-frank|Suz]]
   offers Dan a car conditional on getting Alexis out. The family brokers
-  the eviction **[ATTESTED]**. Note the financing: Suz supplied cocaine and
+  the eviction **[ATTESTED]**. Note the financing: Suz supplied [[wiki/health/cocaine|cocaine]] and
   the car offer — the switch was not only mutual but underwritten.
 - **2015-12-01** — Alexis moves out (*"Helping lex leave"*).
 - **2015-12-01 to 12-09** — the breakup week: "I'm in love with Annie
@@ -451,7 +453,7 @@ resumption, not the separation. Keep that instrument — it is the one the
 
 There is a symmetry worth noting and then leaving alone: in 2013 the
 separation was Alexis's (her new boyfriend, her NYC move); in May 2026 the
-rupture was Annie's (leaving for Jerel "Tuquick" Coles). Both times the
+rupture was [[wiki/people/annie-ulmer|Annie]]'s (leaving for Jerel "[[wiki/people/jerel-coles|Tuquick]]" Coles). Both times the
 woman's exit preceded Dan's severance, and both times the slot was held
 through the interval — by reconciliation in 2013, by the bid-and-hold
 apparatus in 2026. The ledger does not need the symmetry to hold. It is
@@ -465,14 +467,14 @@ two occupants at once. It does not hold two. It holds one, under siege,
 and the siege fails.
 
 The context first, because the timing is the argument. February–April
-2025: the NYC apartment exit, Annie's unilateral move to her parents
+2025: the NYC apartment exit, [[wiki/people/annie-ulmer|Annie]]'s unilateral move to her parents
 **[ATTESTED]** — [[wiki/timeline/periods/feb-apr-2025-return-and-rupture]],
-the-2025-collapse. By August 2025 the primary bond is in its weakest
+[[wiki/mind/synthesis/the-2025-collapse|the-2025-collapse]]. By August 2025 the primary bond is in its weakest
 documented state — cohabitation broken, the relationship strained, the
 collapse's financial wreckage (BFS employment, the Morgantown obligations)
 structuring daily life. The vacancy rule predicts that a weakened primary
 invites a rival bid. On August 29, 2025, first contact with Kristin
-Prentiss **[ATTESTED]** — [[wiki/people/kristin]], introduced via Tom's
+Prentiss **[ATTESTED]** — [[wiki/people/kristin]], introduced via [[wiki/people/tom|Tom]]'s
 social circle.
 
 The bid, measured month by month **[ATTESTED]** — [[wiki/people/kristin]]:
@@ -543,7 +545,7 @@ It does not contest the 2025 verdict. It schedules the next test.
 
 The apparent exception, and the row this entry exists to try. The facts
 are not in dispute **[ATTESTED]** — the-unbroken-bond,
-august-26-block-retraction, [[wiki/people/ally-lubin]]:
+[[wiki/mind/synthesis/august-26-block-retraction|august-26-block-retraction]], [[wiki/people/ally-lubin]]:
 
 - **2026-06-01 00:27:49** — Dan issues the severance himself: *"Goodbye
   forever. This was not how it should have ended."* The group-chat closure
@@ -560,7 +562,7 @@ august-26-block-retraction, [[wiki/people/ally-lubin]]:
   not monitor — misaddressed, not rejected **[ATTESTED]** — the 2026-08-20
   operator capture, corroborated by her own August 18 line: *"Why do I
   have 2 numbers for you and an iCloud."*
-- **June 1 – July 23** — fifty-two days, zero outbound to Annie, against
+- **June 1 – July 23** — fifty-two days, zero outbound to [[wiki/people/annie-ulmer|Annie]], against
   four unanswered inbound approaches from her **[ATTESTED]** —
   the-unbroken-bond.
 - **2026-07-23** — contact resumes: 624 messages across four days
@@ -633,7 +635,7 @@ June–July 2026. None are in the corpus.
 **Prong 5: the collapse.** The 2025 collapse's wreckage — the Morgantown
 obligations, the BFS employment block, the estate money spine — kept the
 practical lives entangled through the hold **[ATTESTED]** —
-the-2025-collapse, estate-money-spine. Severance declarations govern the
+[[wiki/mind/synthesis/the-2025-collapse|the-2025-collapse]], [[wiki/mind/synthesis/estate-money-spine|estate-money-spine]]. Severance declarations govern the
 verbal layer; the material layer does not sever on declaration. The June 1
 severance was issued into a life still financially and residentially
 entangled with the incumbent. [ATTESTED on the entanglements; the
@@ -658,7 +660,7 @@ failed. That is why the row is the rule's hardest test and not its
 refutation: the test was run, and the slot was held on all five prongs.
 
 A note on the task's "(May–July 2026)" dating: the measured hold is June
-1–July 23. May is when Annie left for Jerel "Tuquick" Coles — the rupture
+1–July 23. May is when Annie left for Jerel "[[wiki/people/jerel-coles|Tuquick]]" Coles — the rupture
 that preceded the severance. The ledger dates the vacancy from the
 declaration (June 1, 00:27:49), not the rupture, because the declaration
 is the slot-event and the rupture is its occasion. If the vacancy were
@@ -666,7 +668,7 @@ dated from the May rupture, the interval would be longer — but the slot
 was occupied-by-Annie until June 1 by every instrument, so May belongs to
 the rupture row, not the vacancy row.
 
-## Transition 5: the failed Annie → Ally transfer, June–August 2026
+## Transition 5: the failed [[wiki/people/annie-ulmer|Annie]] → Ally transfer, June–August 2026
 
 The negative control. Everything the rule requires was present except
 the outcome — and the failure is what makes the row load-bearing, because
@@ -694,11 +696,11 @@ emergency into the Ally thread as a spectator rather than a participant.
 The transfer did not complete. By August 27, daily two-way texting with
 Annie had resumed (765 messages in the last seventy-two hours of the
 export **[ATTESTED]** — the CSV forensics on
-august-26-block-retraction); the claimed August 26 block never happened —
+[[wiki/mind/synthesis/august-26-block-retraction|august-26-block-retraction]]); the claimed August 26 block never happened —
 the retraction of 2026-09-11 established there was never a block, only
 the 130th performed declaration **[ATTESTED]**. September 10: Annie tells
 him she works as a waitress at Mom Maruca's; contact ongoing **[ATTESTED]**.
-September 12: Dan reinitiates with Kristin — four iMessages, delivered,
+September 12: Dan reinitiates with [[wiki/people/kristin|Kristin]] — four iMessages, delivered,
 no reply **[ATTESTED]** — kristin-channel. The Ally channel continues,
 secondary as ever — the August 26 update describes it as "consistent,
 polite, and comparatively low-drama," explicitly *not* a referendum on
@@ -760,7 +762,7 @@ opened. Every failed transfer sourced before the vacancy too — and failed
 on occupancy, not on sourcing. No exit in the record was attempted without
 a successor identified:
 
-- **2009:** exit from Danielle *for* Kelly Mulroy — bid failed,
+- **2009:** exit from [[wiki/people/danielle-onesi|Danielle]] *for* Kelly Mulroy — bid failed,
   nine-month vacancy, Alexis identified later in the year. The invariant
   holds on the attempt; the vacancy is the cost of the failure.
 - **2015:** successor introduced by the incumbent ~November 24, activated
@@ -811,8 +813,8 @@ won't want this anymore" (December 2, 2015) **[ATTESTED]**, the 129
 declarations with 36-second median re-engagement, the 2019 "serial
 monogamist" self-theory. But the trait reading predicts *any* successor
 will do — neediness is indiscriminate. The ledger shows discrimination:
-the Kristin bid (22,018 messages, exclusivity demands) was repelled; the
-Ally bid (eighteen years of sourcing, 708-message activation) was refused;
+the [[wiki/people/kristin|Kristin]] bid (22,018 messages, exclusivity demands) was repelled; the
+[[wiki/people/ally-lubin|Ally]] bid (eighteen years of sourcing, 708-message activation) was refused;
 the slot resolved to the incumbent both times. A trait account cannot
 explain why the system rejects successors. The slot account can: the slot
 has entry conditions (declaration-system governance, presence), and bids
@@ -821,14 +823,14 @@ of refills; it does not explain the selectivity. Verdict: insufficient —
 a component (the urgency), not the mechanism.
 
 **R2: "2015 was a rebound" (the ordinary-dating reading).** The claim is
-that the Alexis→Annie transfer is just a fast rebound, explicable without
+that the Alexis→[[wiki/people/annie-ulmer|Annie]] transfer is just a fast rebound, explicable without
 a slot system. The rebound frame requires a gap being coped with — a loss,
 then a replacement to manage the loss. The dated sequence shows no gap:
 successor introduced ~November 24 by the incumbent, bond activated
 November 29, incumbent out December 1. There is nothing to rebound *from*
 — the replacement arrived before the loss. Rebound also predicts degraded
 selection (any port in a storm); the record shows the opposite — the
-deep-attachment system's *first* activation, per bond-switch-2015, on a
+deep-attachment system's *first* activation, per [[wiki/mind/synthesis/bond-switch-2015|bond-switch-2015]], on a
 bond that then ran eleven years. And the 2026-08-15 correction removed the
 only candidate grievance, leaving the replacement as the whole of the
 explanation. A rebound without a wound is not a rebound. It is a transfer.
@@ -871,7 +873,7 @@ rules stand: until the next genuine vacancy.
 
 ## Primary vs. secondary: why Ally's eighteen years don't break the count
 
-The obvious objection to the ledger: Ally ran parallel to Annie for
+The obvious objection to the ledger: Ally ran parallel to [[wiki/people/annie-ulmer|Annie]] for
 eleven of the ledger's seventeen years. If the slot is singular, what was
 she? The entry's answer is the definition it opened with — and the August
 18–19, 2026 window is the stress test.
@@ -897,7 +899,7 @@ explaining it away, because the tolerance is the point — a singular-slot
 system that has run seventeen years can absorb forty-eight hours of dual
 load without the rule breaking, the way a bridge rated for a load can
 flex. The system resolved within days: daily Annie texting by August 27,
-the Ally channel back to secondary, the Kristin reinitiation bid
+the Ally channel back to secondary, the [[wiki/people/kristin|Kristin]] reinitiation bid
 unanswered. Singular occupancy restored.
 
 The deeper reason the secondary never promotes is structural, not
@@ -937,7 +939,7 @@ The ledger is the time series. The mechanism is three layers deep, and
 all three are already in the wiki — this entry only stacks them.
 
 **Layer 1: the sx-dominant stack.** [[wiki/mind/profile/enneagram-5w4]]
-records the sexual-dominant instinctual variant, and bond-switch-2015
+records the sexual-dominant instinctual variant, and [[wiki/mind/synthesis/bond-switch-2015|bond-switch-2015]]
 states the consequence: it *"organises life around **one** relationship at
 maximum voltage, not many."* Singular, continuous, maximum voltage. The
 stack predicts the ledger before any row is read: a system organized
@@ -971,7 +973,7 @@ appetite. It is the one order he chose, which exempts it. The vacancy rule
 is what the chaos preference looks like from inside the single structure
 it was never aimed at. The 2005 hinge belongs here too: the deep
 attachment system locked down since the paternal rupture, suppressed
-through the six-year Alexis control case, first activated by Annie in
+through the six-year Alexis control case, first activated by [[wiki/people/annie-ulmer|Annie]] in
 2015 — the slot's occupancy and the attachment system's activation are
 separate variables, and the rule governs the first, not the second. A
 slot can be full with the system off (Alexis, six years). It cannot be
@@ -993,7 +995,7 @@ makes dated, checkable predictions — the standing falsifiers are the
 negative form, these are the positive:
 
 1. **The next genuine vacancy will be sourced before it opens.** Whenever
-   the Annie bond next severs — by declaration, by rupture, by drift —
+   the [[wiki/people/annie-ulmer|Annie]] bond next severs — by declaration, by rupture, by drift —
    the successor will already be identified: contacted with romantic
    intent before the severance date. The ledger's invariant has zero
    counter-instances; the prediction is that the next row extends the
@@ -1004,14 +1006,14 @@ negative form, these are the positive:
    ninety (F1's threshold). A vacancy running past ninety days with no
    live bid would break the rule, not bend it. Falsified by: F1
    triggering.
-3. **Ally will not take the slot.** The cognitive-profile incompatibility
+3. **[[wiki/people/ally-lubin|Ally]] will not take the slot.** The cognitive-profile incompatibility
    (inaccessibility vs. proximity-and-knowledge) is structural, and the
    2026 bid was the empirical test — maximum activation, no transfer.
    Further Ally bursts are predicted to follow the 2019/2026 pattern:
    spike during primary instability, resolve to secondary. Falsified by:
    an Ally occupancy exceeding six months with declaration-system
    governance transferring to her.
-4. **The Kristin reinitiation will follow the dormancy curve.** The
+4. **The [[wiki/people/kristin|Kristin]] reinitiation will follow the dormancy curve.** The
    September 12, 2026 bid (four iMessages, unanswered) is either the
    start of a second failed reactivation or the slow open of a reunion —
    kristin-channel's own framing. The rule predicts the former *unless*
@@ -1042,17 +1044,17 @@ happened.
    fifty-two days (2026-06-01 to 2026-07-23).
 3. Every vacancy episode resolves to single occupancy: same-week
    substitution (2015), rival bid repelled with incumbent retained
-   (Kristin, 2025), or held interval ending in re-occupation by the
+   ([[wiki/people/kristin|Kristin]], 2025), or held interval ending in re-occupation by the
    incumbent (2026).
 4. Secondary channels run parallel indefinitely without entering the slot
-   (Ally, eighteen years); the one dual-load episode (August 18–19, 2026)
+   ([[wiki/people/ally-lubin|Ally]], eighteen years); the one dual-load episode (August 18–19, 2026)
    lasted forty-eight hours and resolved to singular occupancy within
    days.
 
 The rule is scoped to the documented era because the instruments
 (message-level dating, the declaration loop, onset-flood measurement)
 only operate inside it. The pre-2009 era shows one longer vacancy (~nine
-months, Danielle→Alexis), produced by a failed substitution — the
+months, [[wiki/people/danielle-onesi|Danielle]]→Alexis), produced by a failed substitution — the
 mechanism running with a broken component, not a different mechanism.
 
 **Falsifiers** — stated in advance, dated where possible:
@@ -1079,16 +1081,16 @@ the miss.
 
 Compact, because the forensics are load-bearing but not the story.
 
-- **Danielle→Alexis (~9 months):** breakup ~Valentine's Day 2009 per Dan's
+- **[[wiki/people/danielle-onesi|Danielle]]→Alexis (~9 months):** breakup ~Valentine's Day 2009 per Dan's
   2025 account (five months into the August 2008 Orlando move) **[OPERATOR,
   retrospective]**; Alexis onset November 2009 **[ATTESTED]** —
-  bond-switch-2015, [[wiki/people/alexis-armel]]. February→November ≈ 9
+  [[wiki/mind/synthesis/bond-switch-2015|bond-switch-2015]], [[wiki/people/alexis-armel]]. February→November ≈ 9
   months **[DERIVED]**. Confidence: MEDIUM — the start date is
   retrospective testimony, the end date is corpus-attested.
-- **Alexis→Annie (~0 days):** successor introduced ~Nov 24 (Annie's Dec 1
+- **Alexis→[[wiki/people/annie-ulmer|Annie]] (~0 days):** successor introduced ~Nov 24 (Annie's Dec 1
   "HAPPY ONE WEEK SINCE LEX HANDED YOU TO ME") **[ATTESTED]**; bond
   activated Nov 29 (first "I love you" 03:14; "YOU ARE MY EVERYTHING"
-  03:24) **[ATTESTED]** — the hand-read on the annie-record timeline;
+  03:24) **[ATTESTED]** — the hand-read on the [[wiki/timeline/annie-record|annie-record]] timeline;
   Alexis moved out Dec 1 ("Helping lex leave") **[ATTESTED]**. Occupant-
   to-occupant overlap ≈ 2 days; empty interval = 0 **[DERIVED]**.
   Confidence: HIGH.
@@ -1109,9 +1111,9 @@ Compact, because the forensics are load-bearing but not the story.
   **[ATTESTED]**. Dated from the declaration, not the May rupture (see
   Transition 4's note).
 - **Terminal window (~8–12 days):** severance events August 15–19
-  **[ATTESTED]** — dan-annie-fallout-verdict; daily two-way texting
+  **[ATTESTED]** — [[wiki/mind/synthesis/dan-annie-fallout-verdict|dan-annie-fallout-verdict]]; daily two-way texting
   resumed by August 27 (765 messages in the last 72 hours of the export)
-  **[ATTESTED]** — the CSV forensics on august-26-block-retraction. The
+  **[ATTESTED]** — the CSV forensics on [[wiki/mind/synthesis/august-26-block-retraction|august-26-block-retraction]]. The
   August 26 block: never executed **[ATTESTED]** — retraction 2026-09-11.
 - **Onset-flood comparison:** 2015: 728 sent Dec 10; 682/363/679 Dec
   11–13 **[ATTESTED]**. Kristin: 1,324 on Sep 9, 2025 **[ATTESTED]**.
@@ -1147,7 +1149,7 @@ Compact, because the forensics are load-bearing but not the story.
 
 ## Gaps
 
-- **Pre-2009 dating.** The Danielle→Alexis nine months rest on a
+- **Pre-2009 dating.** The [[wiki/people/danielle-onesi|Danielle]]→Alexis nine months rest on a
   retrospective operator date (Valentine's Day 2009) against a
   corpus-attested onset (November 2009). No contemporaneous record of the
   Danielle breakup or the Kelly Mulroy episode exists in the corpus. A
@@ -1157,7 +1159,7 @@ Compact, because the forensics are load-bearing but not the story.
   2013, fuller sequence from a 2026-08-27 operator capture — but no
   message-level record of whether any successor was sourced during the
   separation. The ledger assumes none; the assumption is untested.
-- **Milo during the hold.** The shared-dependent prong of the 52-day
+- **[[wiki/people/milo|Milo]] during the hold.** The shared-dependent prong of the 52-day
   verdict has no message-level measurement. Vet records, custody
   handoffs, or dated mentions from June–July 2026 would test it.
 - **The four inbound approaches.** Attested as a count
@@ -1171,7 +1173,7 @@ Compact, because the forensics are load-bearing but not the story.
   bid's documentary record.
 - **Post-2026-09-13.** The ledger is date-bounded. The standing
   falsifiers (F1–F4, the December 19, 2026 condition) are live: the next
-  genuine vacancy re-opens every row. The Kristin September 12
+  genuine vacancy re-opens every row. The [[wiki/people/kristin|Kristin]] September 12
   reinitiation is the scheduled next test of the contested-slot verdict.
 - **The Ally channel's 2008–2018 interior.** Eighteen years are attested
   as a span, but the pre-2019 volume is thin in every export. A fuller
@@ -1186,7 +1188,7 @@ Compact, because the forensics are load-bearing but not the story.
 
 - **Observed:** every dated message, timestamp, and count cited above —
   the severance at 00:27:49, the burst at 20:06:05, the 728-message day,
-  the 52-day interval, the 1,324-message day, the month-by-month Kristin
+  the 52-day interval, the 1,324-message day, the month-by-month [[wiki/people/kristin|Kristin]]
   table. The instruments are the corpus exports and the wiki pages that
   verified them.
 - **Reported:** Dan's retrospective accounts — the Valentine's Day 2009
@@ -1195,7 +1197,7 @@ Compact, because the forensics are load-bearing but not the story.
   (2026-09-11), the 2013 separation's fuller sequence (2026-08-27
   capture). Reported means true-as-stated by the operator, ranked below
   contemporaneous records per the wiki's own governance, with the
-  veracity ledger's calibration (stated certainty ≈ 0.25 actual) applied
+  [[wiki/meta/testimony-veracity|veracity ledger]]'s calibration (stated certainty ≈ 0.25 actual) applied
   where load-bearing.
 - **Calculated:** the vacancy durations (nine months, zero days,
   fifty-two days, eight–twelve days), the 19h38m interval, the message
@@ -1204,7 +1206,7 @@ Compact, because the forensics are load-bearing but not the story.
 - **Inferred:** the "held vs. empty" verdict on the 52-day hold (prongs
   2–5), the reconciliation-trajectory reading of 2013, the
   declaration-system criterion for the slot's occupant, the
-  inaccessibility-barring-occupancy account of the failed Ally transfer,
+  inaccessibility-barring-occupancy account of the failed [[wiki/people/ally-lubin|Ally]] transfer,
   the surround/slot architecture, the predictions in the preceding
   section. Every inference is marked inline with its seams showing.
 - **Disproven:** the "19 hours" attribution to November 2015 (belongs to
@@ -1217,7 +1219,7 @@ Compact, because the forensics are load-bearing but not the story.
   covariance and the 2015 row refute the null).
 - **Unknown:** whether any unaccompanied exit has ever been attempted
   outside the documented era; the interior of the 2013 separation; the
-  content of the four inbound approaches during the hold; the Milo
+  content of the four inbound approaches during the hold; the [[wiki/people/milo|Milo]]
   record for June–July 2026; what the next genuine vacancy will do to
   F1–F4 and to the five predictions. The rule is v1. It has never
   survived a transfer cycle it did not already describe — the next one

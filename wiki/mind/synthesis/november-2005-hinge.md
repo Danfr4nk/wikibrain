@@ -1,4 +1,5 @@
 ---
+title: "The November 2005 Hinge"
 domain: mind
 page_type: synthesis
 status: active
@@ -25,7 +26,7 @@ synthesizes:
   - wiki/mind/concepts/dans-law
   - wiki/health/chemical-architecture
   - wiki/health/cocaine
-tags: [personality-profile, forensic-analysis, family, forensic-analysis]
+tags: [personality-profile, forensic-analysis, family]
 connections:
   - page: wiki/people/rick-frank
     type: evidenced-by
@@ -72,6 +73,13 @@ connections:
   - page: wiki/mind/synthesis/totality-themes
     type: contradicts
     claim: "Totality-themes treats the axioms as load-bearing throughout — the Irreversibility Firewall, the binary-verdict rule, the housing-clock extension. This entry does not dispute the firewall's behavioral findings; it disputes the axioms' status as their foundation, and marks the housing-clock extension (axiom four) as [INFER]-grade inherited language, which that page already half-concedes."
+  - { target: "[[wiki/mind/concepts/explicit-verbal-commitment]]", type: references, claim: "The axiom-by-axiom section runs the hinge's four axioms through the explicit-verbal-commitment architecture — none of the axioms require the hinge to be literally true to function as rules." }
+  - { target: "[[wiki/people/danielle-onesi]]", type: contextualizes, claim: "Her relationship with Dan began around 2005; she is the hinge's continuous civilian witness — present before, during, and after the rupture, still in the picture two decades on." }
+  - { target: "[[wiki/people/vanessa-frank]]", type: documents, claim: "The hinge as a family event has exactly one potential narrator besides the parents: Vanessa, eleven at the time, born 16 January 1994 [ATTESTED] — and she has not narrated it." }
+  - { target: "[[wiki/people/fran-coldren]]", type: contextualizes, claim: "The Fran counter-case: the one axiom-proof relationship Dan names his biggest influence is the evidence the hinge's axioms have to absorb rather than explain away." }
+  - { target: "[[wiki/people/jay-lauer]]", type: references, claim: "Jay Lauer's November 2007 overdose death, told to Rick in Las Vegas the same night the 2005 retelling detonated the trip, is the hinge's second act — the date the addiction narrative became undeniable." }
+  - { target: "[[wiki/places/seven-springs]]", type: references, claim: "The Seven Springs ski crew is the pre-history the hinge will not contain: Dan's first drug-exposure cohort, active before the hinge and independent of it." }
+  - { target: "[[wiki/places/337-saratoga-drive]]", type: contextualizes, claim: "The rupture's location: the person who lived inside 337 Saratoga Drive through it was eleven years old." }
 ---
 
 # The November 2005 Hinge
@@ -80,8 +88,8 @@ In November 2005, Dan was seventeen, a junior in high school, living at 337
 Saratoga Drive in Uniontown, Pennsylvania. His father drove him home from
 getting his learner's permit and, in the car, disclosed that he was entering
 rehab for cocaine at six the next morning. It was the first drug conversation
-the household had ever had. Dan's permit was delayed a month. While Rick was
-in rehab, Suz slept with their shared cocaine dealer. The marriage ended.
+the household had ever had. Dan's permit was delayed a month. While [[wiki/people/rick-frank|Rick]] was
+in rehab, [[wiki/people/suzanne-frank|Suz]] slept with their shared cocaine dealer. The marriage ended.
 That same winter, Rick was diagnosed with stage-4 throat cancer, took
 experimental radiation at UPMC, and survived. **[OPERATOR]** — every clause
 of that paragraph is Dan's retrospective testimony, carried by the CATO-era
@@ -107,7 +115,7 @@ The canonical account, assembled from the dossier material
 reconstructions that cite them), runs as follows. **[OPERATOR]** throughout;
 nothing in this section is independently documented.
 
-Rick Frank disclosed he was entering rehab for cocaine, effective 6 AM the
+[[wiki/people/rick-frank|Rick]] Frank disclosed he was entering rehab for cocaine, effective 6 AM the
 next morning, on the drive home from Dan's learner's-permit appointment. The
 disclosure was the household's first-ever drug conversation — which means a
 seventeen-year-old who had known since age thirteen that his parents used
@@ -116,7 +124,7 @@ once heard either parent name it out loud until the day one of them announced
 he was leaving to be treated for it. Dan's permit was delayed a month as a
 consequence of the disclosure's timing.
 
-While Rick was in rehab, Suz began an affair with the family's cocaine
+While Rick was in rehab, [[wiki/people/suzanne-frank|Suz]] began an affair with the family's cocaine
 dealer — the same supply line both parents had been using. The marriage,
 begun 31 August 1985, ended in the rupture's wake; the wiki's standing
 formulation is "separated after the November 2005 rupture," with divorce
@@ -150,7 +158,7 @@ The trip is the hinge's second act, and it inverts the first: in 2005, the
 father disclosed his addiction to the son in a car; in 2007, the son
 recognized his own addiction traveling with the father. Dan left Vegas
 knowing he was in opiate withdrawal — the trip on which "physical opiate
-dependence became undeniable," per the chemical-architecture genesis —
+dependence became undeniable," per the [[wiki/mind/synthesis/chemical-architecture|chemical-architecture]] genesis —
 having recognized it in the company of the man who had announced his own
 rehab at 6 AM two years earlier.
 
@@ -168,9 +176,9 @@ father-son relationship in which addiction is the thing they have most
 documentedly in common, disclosed once in a car and recognized once in a
 hotel room, two years apart, with the direction of the disclosure reversed.
 
-There is a detail in the Rick page worth carrying here because it sharpens
+There is a detail in the [[wiki/people/rick-frank|Rick]] page worth carrying here because it sharpens
 the reversal. On the evening of 11 April 2017 — a decade after Vegas — Dan
-told Rick that a friend (Jay Lauer) had died of an overdose that day, and
+told Rick that a friend ([[wiki/people/jay-lauer|Jay Lauer]]) had died of an overdose that day, and
 quoted Rick's own addiction warning back at him: the conversation where
 Rick "called me over to Cross Creek and told me that there is no turning
 back from opiates and heroin, that you lose a part of yourself and your
@@ -206,7 +214,7 @@ wiki's standing frame. The month itself is Dan's dating **[OPERATOR]**; no
 document in the corpus independently fixes the rehab admission, the affair's
 onset, or the separation to November rather than, say, October or December.
 The wiki carries the month as settled because Dan states it as settled, and
-Dan states it with the confidence band the veracity ledger prices at 0.25
+Dan states it with the confidence band the [[wiki/meta/testimony-veracity|veracity ledger]] prices at 0.25
 actual (more on this below).
 
 One checkable tension sits inside the canonical telling and has never been
@@ -249,7 +257,7 @@ period itself, the corpus holds:
   Saosin at Charleroi VFW — the teen-concert-years record).
 - Retrospective accounts written years later (the dossiers, the captures,
   Dan's own tellings in AI chats from 2024–2026).
-- The chemical-architecture genesis, itself retrospective.
+- The [[wiki/mind/synthesis/chemical-architecture|chemical-architecture]] genesis, itself retrospective.
 - Nothing from either parent. Nothing from Vanessa (b. 1994 — eleven
   during the rupture; her account is unrecorded). Nothing from the
   dealer. Nothing institutional — no rehab intake record, no divorce
@@ -259,7 +267,7 @@ period itself, the corpus holds:
 **[DERIVED]** — the corpus's coverage of the hinge is 100% retrospective
 testimony, 0% contemporaneous residue. That does not make the testimony
 false; it makes it uncorroborated, which is a different and precisely
-bounded claim. The veracity ledger's t011 prices exactly this: the axioms
+bounded claim. The [[wiki/meta/testimony-veracity|veracity ledger]]'s t011 prices exactly this: the axioms
 are self_state claims, stated certain, outcome unfalsifiable — checked,
 and the corpus cannot settle them. The event itself was never separately
 ledgered, which is itself a finding about the wiki's habits: the most
@@ -295,7 +303,7 @@ A thirteen-year-old learns his parents use cocaine; nothing explodes; life
 continues. Whatever the hinge later meant, it did not mean *drugs exist*.
 
 **2004 — first use.** Dan's own first cocaine use is dated to 2004, in the
-context of the Seven Springs ski crew — "his first drug-exposure cohort,"
+context of the [[wiki/places/seven-springs|Seven Springs]] ski crew — "his first drug-exposure cohort,"
 per the wiki's own timeline entry — a full year *before* the November 2005
 hinge **[OPERATOR]**. The master timeline carries this plainly and the
 implication with it: the son was using the parents' substance, with his
@@ -337,7 +345,7 @@ actual content, on the evidence, is not pharmacological at all — it is
 epistemic. Both verticals running concealed realities. The concealment is
 the event; the cocaine is the medium it ran on. This is why
 [[wiki/mind/synthesis/vertical-authority-skepticism]] is the hinge's most
-defensible heir, and why the chemical-architecture pages are right to treat
+defensible heir, and why the [[wiki/mind/synthesis/chemical-architecture|chemical-architecture]] pages are right to treat
 2005 as complication rather than genesis.
 
 ## The dark era: what the hinge actually produced
@@ -346,7 +354,7 @@ If the axioms are the hinge's most *cited* product, the dark era is its
 most *documented* one — and the wiki's causal storytelling has the
 emphasis backwards. The two years between the November 2005 rupture and
 the September 2008 departure for Full Sail are, per the period page, "when
-the chemical architecture that has run continuously since actually began."
+the [[wiki/health/chemical-architecture|chemical architecture]] that has run continuously since actually began."
 Two body-level facts belong together as one period: opiate onset, and a
 documented eating disorder. **[OPERATOR]** for the period's contents;
 **[ATTESTED]** for the periodization's placement.
@@ -403,7 +411,7 @@ One more thread belongs here because the wiki scatters it. The bulimia
 connects forward to the present in a way the axioms don't: the corpus's
 clearest first-person link between the eating disorder and adult outcomes
 runs through the body-control register — weight, intake, the configured
-body — which is still live (the intake ledger, the 2026-08-30 measured
+body — which is still live ([[wiki/health/intake-ledger|the intake ledger]], the 2026-08-30 measured
 doses, the "configured body" pages). If you want the hinge's longest
 causal shadow, it isn't "time = countdown" — it's a seventeen-year-old
 learning that the body is the thing you can control when the household
@@ -430,7 +438,7 @@ The formulation's own status needs marking before the audit. These are
 *unconscious* axioms — Dan's word — which means they are by definition not
 available to introspection, which means the claim "these are my unconscious
 axioms" is a peculiar speech act: a conscious mind certifying the contents
-of its own unconscious with certainty. The veracity ledger records the
+of its own unconscious with certainty. The [[wiki/meta/testimony-veracity|veracity ledger]] records the
 stated confidence as "certain" and prices it at 0.25. The peculiarity is not
 a refutation — people do sometimes correctly name their own operating
 principles — but it sets the bar the evidence has to clear, and the bar is
@@ -610,14 +618,14 @@ re-corroborates the axioms. A closed loop with the hinge at the center
 and no behavioral check anywhere in the circuit.
 
 The graph also shows what *doesn't* cite the hinge, and the absences are
-instructive. The chemical-architecture pages cite 2005 as complication,
+instructive. The [[wiki/mind/synthesis/chemical-architecture|chemical-architecture]] pages cite 2005 as complication,
 not genesis — the one domain that did the chronological work refused the
-causal promotion. The Rick page's 2026-08-11 correction pass (the
+causal promotion. The [[wiki/people/rick-frank|Rick]] page's 2026-08-11 correction pass (the
 held-block retraction, the "Ricky" register) barely touches 2005 at all:
 a 1,600-message relationship record in which the hinge is nearly
 invisible, because the hinge is about the parents' marriage and the Rick
 page is about the father-son bond, and those turned out to be different
-objects. The Suz page's ledger architecture — the most measured
+objects. The [[wiki/people/suzanne-frank|Suz]] page's ledger architecture — the most measured
 interpersonal finding in the wiki — is built from 2015–2026 message data
 and doesn't need the hinge either. The pattern: **the hinge is
 load-bearing in the wiki's *interpretive* layer and nearly absent from
@@ -650,7 +658,7 @@ weeks. The dated anchors **[ATTESTED]**:
   consolidating the life story including the 2005 disclosure.
 - **2026-08-01**: the captures (bald-eagle-cummings and others) — the
   dictated-paragraph layer adding competitor origins.
-- **2026-08-11**: the correction pass on the Rick page (held-block
+- **2026-08-11**: the correction pass on the [[wiki/people/rick-frank|Rick]] page (held-block
   retraction, "Ricky" register) — the wiki auditing its own testimony
   for the first time at scale.
 - **2026-09-10**: the port commit (b5098ca) — the canonical four-axiom
@@ -682,7 +690,7 @@ about his life, the systems synthesizing, the synthesis re-entering the
 wiki as source. The hinge narrative went through that circuit: testimony
 in, dossier out, dossier cited as corroboration of the testimony. The
 circuit is not dishonest — every archive is built by someone — but it is
-closed, and closed circuits don't test their inputs. The veracity ledger
+closed, and closed circuits don't test their inputs. The [[wiki/meta/testimony-veracity|veracity ledger]]
 (t011) is the one instrument that broke the circuit open, by checking
 the axioms against 106,629 utterances and finding nothing. This entry is
 the second instrument. The question it leaves for the batch is whether
@@ -707,11 +715,11 @@ choice is still young enough to revisit.
 
 ### 1. Not exceptional = worthless
 
-**The behavioral case.** Totality-themes documents the binary-verdict rule:
+**The behavioral case.** [[wiki/mind/synthesis/totality-themes|Totality-themes]] documents the binary-verdict rule:
 on verdict questions — is this good, is this real, did this count — the
 corpus collapses to two states with no recorded middle value, while the
 same mind grades unwitnessed facts on continuous numeric scales. The
-conflict-architecture page documents the concession mechanism: conceding a
+[[wiki/mind/concepts/conflict-architecture|conflict-architecture]] page documents the concession mechanism: conceding a
 point is not registered as being wrong about one thing but as a small
 forced irreversibility, and the engine has no halt condition. Both findings
 are measured, not asserted. **[ATTESTED]** as behavior.
@@ -744,7 +752,7 @@ never built. It sits in the gaps below.
 
 **The behavioral case.** This is the axiom with the most behavioral smoke
 around it. Dan's Law is a documented forensic instrument with real
-applications. The Annie-decade record shows sustained hypervigilance —
+applications. The [[wiki/people/annie-ulmer|Annie]]-decade record shows sustained hypervigilance —
 deception detection running correctly under gaslighting load, the
 94 documented unacknowledged silences, the forensic posture as default.
 The Big Five profile carries Self-Consciousness at the 91st percentile,
@@ -779,9 +787,9 @@ testimony.
 ### 3. Love that doesn't cost everything isn't real
 
 **The behavioral case.** The ledger architecture is the wiki's best-
-measured interpersonal finding: the Suz thread's never-closing account
+measured interpersonal finding: the [[wiki/people/suzanne-frank|Suz]] thread's never-closing account
 ($14,000 moved son-ward-to-mother, itemized across a decade), the
-high-provision-low-condolence synthesis (permanent availability that gets
+[[wiki/mind/synthesis/high-provision-low-condolence|high-provision-low-condolence]] synthesis (permanent availability that gets
 itemized), the 129 severance declarations with 100% re-engagement, the
 give-and-invoice pattern running mother-ward for a decade before it ran
 partner-ward. Cost is everywhere in the bonds. **[ATTESTED]** as behavior.
@@ -789,7 +797,7 @@ partner-ward. Cost is everywhere in the bonds. **[ATTESTED]** as behavior.
 **What the axiom adds.** The axiom claims cost is the *criterion of
 reality* for love: cheap love is counterfeit. The ledgers show that cost
 is *tracked*, not that untracked love is judged unreal. And there is
-counter-evidence the axiom has to absorb: Fran. Dan names Fran Coldren his
+counter-evidence the axiom has to absorb: [[wiki/people/fran-coldren|Fran]]. Dan names Fran Coldren his
 biggest life influence; Suz names Fran "the one person who loved me
 unconditionally" — and the Fran bond is the one major bond in the corpus
 with no ledger, no invoice, no cost accounting. If love required cost to
@@ -805,7 +813,7 @@ demotion's reasoning: the axiom is Dan's gloss on *why the ledgers feel
 the way they do*, not the cause of the ledgers. The ledgers' actual
 causes are visible elsewhere — scarcity economics ($11–14k/year against
 $10k property taxes), the give-and-invoice maternal register, the
-explicit-verbal-commitment architecture — and none of them require the
+[[wiki/mind/concepts/explicit-verbal-commitment|explicit-verbal-commitment architecture]] — and none of them require the
 axiom.
 
 ### 4. Time = countdown
@@ -848,7 +856,7 @@ The hearing: text messages are performances, not journals. Nobody texts
 their operating principles. The 503-handle control establishes the medium
 baseline, and Dan writing less urgently than his controls could reflect
 register discipline (he is famously terse — the 3.62:1 character ratio
-against Annie, her median 18 chars), or channel norms, or the simple fact
+against [[wiki/people/annie-ulmer|Annie]], her median 18 chars), or channel norms, or the simple fact
 that urgency in text reads as neediness and he avoids the read. All fair.
 **[INFERRED]** — plausible alternative readings of the negative result.
 
@@ -924,7 +932,7 @@ consolidate gets the causal credit, and later evidence has to dislodge an
 incumbent rather than compete on equal footing.
 
 **The childhood public-humiliation pattern.** Dictated directly by Dan on
-2026-08-11 (not inferred from message data): Rick repeatedly pulled him
+2026-08-11 (not inferred from message data): [[wiki/people/rick-frank|Rick]] repeatedly pulled him
 out of rooms at parties, stores, and family functions to scream at him
 within earshot of the onlookers — over unpredictable "moral" infractions,
 most vividly the Tan Calabrese/Angelfire incident, where a harmless website
@@ -960,7 +968,7 @@ collapse, not the substance's arrival. The discovery is the hinge's
 competitor for "when the drugs entered the story," and it wins on
 chronology.
 
-The wiki's current synthesis (vertical-authority-skepticism) holds both
+The wiki's current synthesis ([[wiki/mind/synthesis/vertical-authority-skepticism|vertical-authority-skepticism]]) holds both
 the hinge and the humiliation pattern as "two candidate origins" — which
 is honest. This entry adds that the candidacy was never equal: the hinge
 had a twenty-year incumbency and a dossier-industrial complex behind it;
@@ -973,8 +981,8 @@ supposedly installed them has to stay load-bearing too.
 
 ## The eleven-year-old witness
 
-The hinge, as a *family* event, has exactly one narrator. Vanessa Frank —
-born 16 January 1994 **[ATTESTED]** (GEDCOM via the Suz page) — was eleven
+The hinge, as a *family* event, has exactly one narrator. [[wiki/people/vanessa-frank|Vanessa Frank]] —
+born 16 January 1994 **[ATTESTED]** (GEDCOM via the [[wiki/people/suzanne-frank|Suz]] page) — was eleven
 years old when the rupture happened, living in the same house, watching
 the same marriage end. Her perspective on November 2005 is unrecorded
 anywhere in the corpus. Not disputed, not thin — absent.
@@ -982,7 +990,7 @@ anywhere in the corpus. Not disputed, not thin — absent.
 What the wiki holds on Vanessa is minimal by design: younger sister, ski
 school in Vail, minimal contact, shared left politics (per the people
 index). She is the closest person to Dan who is not Dan, the only other
-person who lived inside 337 Saratoga Drive through the rupture as a
+person who lived inside [[wiki/places/337-saratoga-drive|337 Saratoga Drive]] through the rupture as a
 dependent child, and the only witness who could check the hinge's domestic
 texture — what the house felt like in the months before, whether the
 "first drug conversation" claim matches a child's memory of the household,
@@ -1028,7 +1036,7 @@ dealer's. Both structure what the story can be about.
 ## The girlfriend who stayed
 
 The hinge has one more near-contemporary witness the wiki has never
-treated as one. Danielle Onesi's relationship with Dan began around 2005
+treated as one. [[wiki/people/danielle-onesi|Danielle Onesi]]'s relationship with Dan began around 2005
 **[OPERATOR]** — the hinge year itself. She was his first girlfriend, his
 first serious relationship, labeled "The Origin" in his own HTML bio, and
 the relationship ran 2005–2009, spanning the rupture, the dark era, and
@@ -1042,8 +1050,8 @@ whether it buffered the hinge, whether the two are even separable.
 
 The record's silence here is total. Dee's page holds the relationship's
 bookends (begins ~2005, ends 2009 over Dan's cheating in Orlando),
-the long aftermath (Gabe the cat, picked out August 2008, euthanasia paid
-for by Dee November 2023 — "Cat Debt"), and the present (Suz's closest
+the long aftermath ([[wiki/people/gabe|Gabe]] the cat, picked out August 2008, euthanasia paid
+for by Dee November 2023 — "Cat Debt"), and the present ([[wiki/people/suzanne-frank|Suz]]'s closest
 friend, Christmas fixture, the James/cocaine Game Theory tension of
 2025–2026). It holds nothing about what she saw of the Frank household in
 2005–2006. She is, today, Suzanne's closest friend — which makes her the
@@ -1056,7 +1064,7 @@ on the record. **[UNKNOWN]** whether she has been asked off it.
 The point is not to assign her homework. The point is structural, and it
 compounds the Vanessa section: the hinge's narrator count is one, but its
 *witness* count is at least three (Dan, Vanessa, Danielle), possibly four
-(Rick, Suz — though both are parties, not witnesses). A family event with
+([[wiki/people/rick-frank|Rick]], Suz — though both are parties, not witnesses). A family event with
 four living participants and one narrator is not a documented event; it
 is a testimony with an audience. The wiki's evidentiary standards are
 strictest exactly where the material is thinnest, and the hinge is the
@@ -1081,7 +1089,7 @@ ordering, in the most-cited year of the record.
 ## The unnamed dealer
 
 One named absence structures the whole hinge: the dealer. The 2005 dealer
-— the family's cocaine supplier, both parents' source, the man Suz's
+— the family's cocaine supplier, both parents' source, the man [[wiki/people/suzanne-frank|Suz]]'s
 affair made into the marriage's ending — is unnamed everywhere in the
 corpus. No handle, no first name, no page. The wiki has a
 [[wiki/people/johnny-dealer]] — 3,462 messages, the 2018 deep-cycle
@@ -1094,7 +1102,7 @@ range (2018+) excludes the identification.
 The absence matters beyond completeness. The hinge's maternal half turns
 on a man with no name, no voice, and no page — which means half the
 rupture's causal machinery is a blank the story walks around. Every
-retelling centers Rick (named, paged, 1,600+ messages, a whole
+retelling centers [[wiki/people/rick-frank|Rick]] (named, paged, 1,600+ messages, a whole
 relationship record) and Suz (named, paged, 33,698 messages), while the
 third actor — the one whose existence converted infidelity into the
 marriage's ending — is a role without a person. That asymmetry is
@@ -1116,7 +1124,7 @@ no one can complete.
 
 The hinge is not only history; as of this writing it is the background of
 a live negotiation. On 1 September 2026 Dan broke an eighteen-month
-silence toward Rick — the 2026-08-11 correction pass had documented the
+silence toward [[wiki/people/rick-frank|Rick]] — the 2026-08-11 correction pass had documented the
 held-block retraction and the slow repair — and a 2 September dinner was
 arranged **[ATTESTED]** (Rick page, 2026-09-12 update). What matters for
 this entry is the register in which the repair is being conducted,
@@ -1196,7 +1204,7 @@ it has been checked. The unrun checks, in order of leverage:
    Frank divorce. Fixes the separation's legal reality against the
    "divorce followed" formulation.
 
-5. **Rehab admission records.** Rick's 2005 cocaine-rehab admission —
+5. **Rehab admission records.** [[wiki/people/rick-frank|Rick]]'s 2005 cocaine-rehab admission —
    facility, dates. (Access constraints acknowledged; listed for
    completeness, not assigned.)
 
@@ -1208,7 +1216,7 @@ it has been checked. The unrun checks, in order of leverage:
    perspective is unrecorded anywhere. The hinge as *family* event has
    exactly one narrator.
 
-8. **Suz's account of 2005 specifically.** Her page's documented gap:
+8. **[[wiki/people/suzanne-frank|Suz]]'s account of 2005 specifically.** Her page's documented gap:
    "The 2005 rupture specifically remains undocumented from her side."
    Dan explicitly asked that her version not be solicited for the
    humiliation-pattern account; no such instruction covers the rupture
@@ -1236,8 +1244,8 @@ wiki side: `git log -S` finds the canonical formulation arriving in
 history (the file was created in the port). So the formulation predates
 2026-09-10 and postdates... unknown. It is not in the reachable dossier
 files and not in the pre-port git history available here. The remaining
-candidate sources: the Gemini chat exports (gemini-07/13/18/21/58), the
-DANSYNTH corpus, and the pre-port wiki-brain repo state
+candidate sources: the Gemini chat exports ([[wiki/self/chats/gemini-07|gemini-07]]/13/18/21/58), the
+DANSYNTH corpus, and the pre-port [[wiki/self/concepts/wiki-brain|wiki-brain]] repo state
 (wiki-brain@5d1a747). Until one of those yields an attestation, the
 honest dating is: **formulated sometime before 2026-09-10, first written
 attestation in this repo 2026-09-10, original provenance undetermined** —
@@ -1281,9 +1289,9 @@ record.
 
 ## Limits of record
 
-**Directly observed:** the veracity ledger's t011 row (stated certain,
+**Directly observed:** the [[wiki/meta/testimony-veracity|veracity ledger]]'s t011 row (stated certain,
 outcome unfalsifiable, method documented); the wiki's axiom usages across
-the synthesis and concept layers (cited inline); the chemical-architecture
+the synthesis and concept layers (cited inline); the [[wiki/mind/synthesis/chemical-architecture|chemical-architecture]]
 genesis (2001 discovery, 2004 first use, summer 2005 DXM — all [OPERATOR]
 retrospective); the master timeline's 2005–2006 entries (concert dates
 from stubs/archives; the rupture entries marked ★ as dossier-sourced);
@@ -1305,7 +1313,7 @@ November 2005 [OPERATOR]).
 
 **Inferred:** the narrative-function account (centrality ≠ corroboration;
 0.25-correspondent and 1.0-functional); the pre-history's bending of the
-causal arrow (testimony-against-testimony); the Fran counter-case on
+causal arrow (testimony-against-testimony); the [[wiki/people/fran-coldren|Fran]] counter-case on
 axiom 3; the medium-problem analysis; the dealer-absence's narrative
 effect; the incumbent-advantage account of the hinge vs. the humiliation
 pattern.
@@ -1322,8 +1330,8 @@ the divorce's legal dating; whether the axioms were installed in 2005 or
 formulated decades later; whether the chat corpus would corroborate what
 the message corpus could not.
 
-**Unknown:** the dealer's identity; Vanessa's perspective; Suz's
-perspective on 2005 specifically; Rick's perspective on all of it; the
+**Unknown:** the dealer's identity; Vanessa's perspective; [[wiki/people/suzanne-frank|Suz]]'s
+perspective on 2005 specifically; [[wiki/people/rick-frank|Rick]]'s perspective on all of it; the
 rehab facility and dates; the cancer diagnosis's institutional trace;
 the axioms' first-attestation date; the dossier layer's exact role in
 the formulation.

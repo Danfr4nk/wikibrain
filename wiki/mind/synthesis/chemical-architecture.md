@@ -1,4 +1,5 @@
 ---
+title: "The Chemical Architecture as Enacted Axiom"
 domain: mind
 page_type: synthesis
 status: active
@@ -59,6 +60,12 @@ connections:
   - page: wiki/mind/concepts/dans-law
     type: parallels
     claim: "The law's documented unexamined boundary — never pointed at his own housing — has a twin here: sixteen years of vigilance over chemistry, zero over the body the chemistry runs on."
+  - { target: "[[wiki/meta/testimony-veracity]]", type: documents, claim: "The veracity ledger is this entry's calibration instrument throughout: stated certainty ~0.25 actual, with the dosing run itself as the corroboration the ledger cannot supply." }
+  - { target: "[[wiki/people/annie-ulmer]]", type: contextualizes, claim: "The Annie decade (November 2015–August 2026) is the run's longest container: the architecture had to survive it, and the terminal phase turned procurement logistics explicit." }
+  - { target: "[[wiki/people/fran-coldren]]", type: contextualizes, claim: "Fran's inheritance (2017–2020) is the architecture's stress test: removing the capital constraint escalated intake to 3.5–7g daily, and the system held." }
+  - { target: "[[wiki/mind/synthesis/single-channel]]", type: references, claim: "The no-failover design reading: sixteen-year MTBF with zero redundancy is a system optimized for continuity of supply, not resilience to interruption." }
+  - { target: "[[wiki/places/seven-springs]]", type: references, claim: "The pre-history section locates first cocaine use at 17–18 in the Seven Springs ski-crew context — the arc before the architecture." }
+  - { target: "[[wiki/mind/concepts/social-anxiety]]", type: references, claim: "The hedonic-tension section names social anxiety as the pressure the chemical configuration manages; no treatment engagement is documented anywhere in the record." }
 ---
 
 # The Chemical Architecture as Enacted Axiom
@@ -79,7 +86,7 @@ encodes vigilance as survival rather than preference **[ATTESTED,
 wiki/mind/concepts/forensic-method]** — is, as a stated belief, behaviorally
 uncorroborated: a lexical pass over 106,629 outbound messages found no
 corroboration for the four axioms as explicit urgency constructions **[DERIVED,
-per the wiki's veracity ledger]**. But the dosing run *is* the corroboration, in
+per the wiki's [[wiki/meta/testimony-veracity|veracity ledger]]]**. But the dosing run *is* the corroboration, in
 behavior rather than in language. Sixteen years is roughly 5,840 consecutive
 daily executions of a maintenance act **[DERIVED]**. No stated axiom in the
 corpus has anything like that behind it. The one axiom he lives, he never needed
@@ -99,7 +106,7 @@ else in this entry is commentary on that sentence.
 
 Consider what "unbroken" has to survive to remain true across sixteen years. It
 has to survive the 2010–2013 New York years and the return to Uniontown. It has
-to survive the entire Annie decade (November 2015–August 2026), including the
+to survive the entire [[wiki/people/annie-ulmer|Annie]] decade (November 2015–August 2026), including the
 terminal phase. It has to survive the 2017–2020 inheritance window, when every
 other register in the stack escalated and this one did not. It has to survive
 the May 2026 supply failure — which it did not, quite, and that exception is
@@ -111,7 +118,7 @@ maintained through that much circumstantial churn, is not a habit. Habits do not
 survive their contexts. This survived all of its contexts, which is what makes
 "architecture" the right word even before he says it.
 
-The deviance audit scores this domain 99/100 against the population baseline —
+The [[wiki/mind/profile/deviance-mapping|deviance audit]] scores this domain 99/100 against the population baseline —
 99.9th percentile — and names the scoring basis explicitly: deliberateness.
 "Engineered poly-substance dependence (99; conf. 99%) — daily cocaine..."
 **[ATTESTED, wiki/mind/profile/deviance-mapping]**. The single most
@@ -179,7 +186,7 @@ Two independent Facebook supports bracket the same window from a channel the
 ledger did not originally hold. On July 10, 2013 he writes *"i've been on
 maintainence for 3.5 years"* — counting back to roughly January 2010, consistent
 with February 17 within the rounding error of casual text **[ATTESTED,
-dat:0055]**. The prior wiki's testimony ledger scores the day-zero claim
+dat:0055]**. The prior wiki's [[wiki/meta/testimony-veracity|testimony ledger]] scores the day-zero claim
 CONFIRMED on the tweet, with the limit stated plainly: the subject never names
 the decision **[ATTESTED]**.
 
@@ -244,7 +251,7 @@ data about the specifier.
 The corpus's own framing, in his words: substances as hardware components, the
 stack tuned to "maintain extreme cognitive and existential intensity without
 succumbing to total chaos" **[OPERATOR, via wiki/health/chemical-
-architecture]**. The deviance audit's gloss: "not casual use; self-administered
+architecture]**. The [[wiki/mind/profile/deviance-mapping|deviance audit]]'s gloss: "not casual use; self-administered
 neurochemical engineering" **[ATTESTED, wiki/mind/profile/deviance-mapping]**.
 The recovery model is explicitly rejected — not neglected, not failed at, but
 refused as a frame **[OPERATOR]**.
@@ -366,7 +373,7 @@ pivot window. The cocaine that returned was specified: daily, instrumental,
 And the dosing-against-finances is the detail that most strongly corroborates
 the engineering frame, because it is the detail a rationalization would hide.
 The quantified arc: roughly 1g/day baseline, escalating to **3.5–7g daily during
-the 2017–2020 window** when Fran's inheritance removed the capital constraint,
+the 2017–2020 window** when [[wiki/people/fran-coldren|Fran]]'s inheritance removed the capital constraint,
 contracting back to **~0.5–1g daily** from 2020 as the inheritance exhausted
 **[ATTESTED, wiki/health/cocaine, via the retrospective self-audit]**. The
 retrospective's own reading is blunt: the escalation shows the "desired state"
@@ -414,10 +421,10 @@ Every step in that chain is attested. What the chain *demonstrates* is the
 architecture's true shape: **a system with sixteen years of reliability and zero
 redundancy.** The reliability is real — one failure in sixteen years is a
 remarkable MTBF for any system, let alone a pharmacological one maintained
-through the Annie decade, two states, and a pandemic. The zero redundancy is
+through the [[wiki/people/annie-ulmer|Annie]] decade, two states, and a pandemic. The zero redundancy is
 also real — the failover was three frantic days of sourcing, not a second
 supplier, not a prescriber bridge, not a stockpile. A designed system with a
-sixteen-year MTBF and no failover is a system designed by someone who optimized
+sixteen-year MTBF and [[wiki/mind/synthesis/single-channel|no failover]] is a system designed by someone who optimized
 for the steady state and never priced the tail risk. That is not a criticism
 from outside the frame. It is the frame's own logic, applied to its own blind
 spot.
@@ -515,7 +522,7 @@ grip on, because there has never been a quit to classify.
 
 Set against this the December 2015 data point, the one exception to the "no
 detox attempt" reading. On December 8, 2015 — ten days after the corpus's first
-"YOU ARE MY EVERYTHING" to Annie — the two discuss quitting an unspecified
+"YOU ARE MY EVERYTHING" to [[wiki/people/annie-ulmer|Annie]] — the two discuss quitting an unspecified
 substance together cold turkey: *"if you are okay going cold turkey, I will do
 it with you,"* framed around shared spending (*"I don't want to spend every
 penny I have on it"*) and avoiding *"the road you and lex did"* **[ATTESTED,
@@ -564,7 +571,7 @@ intensity it claims to maintain — that the chassis has a ceiling, and the
 ceiling is the chassis. If the mechanism is real, then the sixteen-year run is
 not just a success story but a trade: stability purchased against range, with
 the purchase price compounding annually. The mid-2025 hyperreflexivity session —
-self-initiated, naming his social anxiety as self-monitoring generating the
+self-initiated, naming his [[wiki/mind/concepts/social-anxiety|social anxiety]] as self-monitoring generating the
 problems it watches for, with no confirmed treatment engagement for the anxiety
 **[ATTESTED, agent-D timeline]** — sits inside that trade whether or not the
 mechanism is the cause. The anxiety is being managed by surveillance. The
@@ -582,7 +589,7 @@ Now the thesis, stated at full strength.
 
 "Not vigilant = annihilated" encodes vigilance as survival rather than
 preference **[ATTESTED, wiki/mind/concepts/forensic-method]**. The wiki's
-veracity ledger adds the caveat: a lexical pass over 106,629 outbound messages
+[[wiki/meta/testimony-veracity|veracity ledger]] adds the caveat: a lexical pass over 106,629 outbound messages
 found no corroboration for the four axioms as explicit urgency constructions —
 on stated urgency, he writes *less* than his contacts **[ATTESTED, per
 MEMORY/veracity ledger]**. The axioms are his framing, not behaviorally
@@ -592,7 +599,7 @@ But it stands against stated language, and the dosing run is not language.
 **Roughly 5,840 consecutive daily executions of a maintenance act** **[DERIVED:
 16 years × 365, minus nothing the record shows]** is the axiom in behavior.
 Consider what vigilance actually requires as a daily practice: remembering,
-sourcing, dosing, every day, through moves, through the Annie decade, through
+sourcing, dosing, every day, through moves, through the [[wiki/people/annie-ulmer|Annie]] decade, through
 the inheritance years when money removed every other constraint and this
 constraint held anyway. The vigilance is not selective *within* the chemistry.
 It is total there. The one register where "not vigilant = annihilated" is
@@ -819,7 +826,7 @@ line — Suboxone strips, mushrooms, cocaine, klonopin — "shows up with substa
 and announces it" **[ATTESTED, wiki/health/chemical-architecture]**. Dealer
 relationships carried significant message-volume weight for years
 ([[wiki/people/johnny-dealer]] at ~3,462 messages), and the 2017–18 period ran
-on drug-fronts as informal credit **[ATTESTED]**. In the Annie terminal phase,
+on drug-fronts as informal credit **[ATTESTED]**. In the [[wiki/people/annie-ulmer|Annie]] terminal phase,
 procurement logistics were explicitly one of the last living tethers of the
 relationship **[ATTESTED, wiki/mind/synthesis/attachment-trauma-bond]**.
 
@@ -882,7 +889,7 @@ ontology and then living inside it for thirteen years.
 
 ## The December 2015 pact
 
-Ten days after the corpus's first "YOU ARE MY EVERYTHING" to Annie — December 8,
+Ten days after the corpus's first "YOU ARE MY EVERYTHING" to [[wiki/people/annie-ulmer|Annie]] — December 8,
 2015 — the two discuss quitting an unspecified substance together cold turkey:
 *"if you are okay going cold turkey, I will do it with you,"* framed around
 shared spending (*"I don't want to spend every penny I have on it"*) and a wish
@@ -909,7 +916,7 @@ architecture stopped being a decision and became a condition.**
 
 ## The ledger's one measured night
 
-On 2026-08-30 the intake ledger began recording, and it supplies the first night
+On 2026-08-30 [[wiki/health/intake-ledger|the intake ledger]] began recording, and it supplies the first night
 where two rows of the stack were written down as they happened: one **0.75g
 cocaine unit** worked over 9h31m in six doses, and **three separate 0.05g
 cannabis units** at 22:06, 00:37 and 02:36, each opened and closed in a single
@@ -937,7 +944,7 @@ duration is testimony.**
 
 There is a second, subtler point. The ledger is *his* instrument — self-
 administered, append-only, begun by the operator on his own system. The man who
-built the chemical architecture is now building the measurement architecture on
+built the [[wiki/health/chemical-architecture|chemical architecture]] is now building the measurement architecture on
 top of it. That is the engineering frame extending itself: first the system,
 then the telemetry. Whether the telemetry will ever catch the system in a
 failure — whether a ledger entry will ever record a missed dose, a doubled dose,
@@ -947,7 +954,7 @@ closures. The first test is pending.
 
 ## Cross-register readings
 
-**Intake-constancy.** The fixed-intake-under-rotating-subject rule, run on
+**[[wiki/mind/synthesis/intake-constancy|Intake-constancy]].** The fixed-intake-under-rotating-subject rule, run on
 chemistry: the Suboxone dose holds flat (2mg, 2013, no later figure) while
 suppliers rotate (NYC doctor → old doctor → 2025 prescriber → Tom → three-burns-
 in-four-days), pharmacies rotate (out-of-state refusals, Walmart dead end), and
@@ -989,7 +996,7 @@ engagement, median gap 36 seconds) are the attachment system's rules-that-never-
 terminate; the ~5,840 doses are the chemical system's. Stated as a structural
 parallel, not a corpus claim. But note the asymmetry: the attachment rules get
 *declared*, repeatedly, performatively. The chemical rule was declared once —
-"engineered chemical architecture" — and then executed in silence for sixteen
+"engineered [[wiki/health/chemical-architecture|chemical architecture]]" — and then executed in silence for sixteen
 years. The loud rules fail; the quiet rule holds. That asymmetry is worth more
 than the parallel.
 
@@ -1079,7 +1086,7 @@ at age 13 (2001), via the discovery of his parents' own use — the same substan
 later implicated in the rupture (the father's rehab admission, the mother's
 affair with their dealer) was already a familiar, "adult" behavior in the house
 years before the hinge event **[ATTESTED]**. His own first cocaine use follows
-at 17–18 (2005–2006), in the Seven Springs ski-crew context, and the
+at 17–18 (2005–2006), in the [[wiki/places/seven-springs|Seven Springs]] ski-crew context, and the
 retrospective explicitly frames the choice as instrumental as much as social:
 cocaine as a chemical means of weight control tied to the adolescent bulimia,
 alongside its value as a subcultural credential inside the ski/band scene
@@ -1105,7 +1112,7 @@ polarity reversed.
 
 ## The inheritance stress test: 2017–2020
 
-Every engineered system needs a stress test, and the corpus supplies one: Fran's
+Every engineered system needs a stress test, and the corpus supplies one: [[wiki/people/fran-coldren|Fran]]'s
 inheritance, 2017–2020, removing the capital constraint that had governed every
 register **[ATTESTED, wiki/health/cocaine]**.
 
@@ -1187,7 +1194,7 @@ refuses to collapse them. A frame that can hold both "I am the system" and "I am
 terrified of stopping the system" is not a simple rationalization.
 Rationalizations don't usually file their terror.
 
-Apply the veracity ledger. Stated certainty ≈ 0.25 actual; "confident" ≈ 0.69
+Apply the [[wiki/meta/testimony-veracity|veracity ledger]]. Stated certainty ≈ 0.25 actual; "confident" ≈ 0.69
 **[ATTESTED, per MEMORY/veracity ledger]**. The OS sentence is stated at maximum
 certainty — which means, by his own calibration curve, discount it hard as
 *stated*. But then restore it as *enacted*: sixteen years of mornings is not
@@ -1210,7 +1217,7 @@ exact size of the audit.
 ## Countdown vs duration: the time axiom against the run
 
 "Time = countdown" — the fourth axiom, his framing **[ATTESTED, per
-MEMORY/veracity ledger, with the no-corroboration caveat]**. Sixteen years of
+MEMORY/[[wiki/meta/testimony-veracity|veracity ledger]], with the no-corroboration caveat]**. Sixteen years of
 daily maintenance is the opposite of a countdown. It is duration. Endurance. The
 long now of the dose, repeated until the repetition becomes the time.
 
@@ -1228,7 +1235,7 @@ way May 2026 would eventually demonstrate at job-loss scale.
 The tension: the man who experiences time as countdown built a system with no
 countdown in it. No taper, no end date, no "three years" after the first three
 years. The countdown runs upstairs — relationships counted down and ended (the
-Annie decade, terminally ended August 2026), eras counted down (NYC-1, the
+[[wiki/people/annie-ulmer|Annie]] decade, terminally ended August 2026), eras counted down (NYC-1, the
 inheritance window), jobs counted down (BFS, forty-one days). The chassis runs
 underneath, uncounted. The architecture is the thing that *survives* the
 countdowns. Sixteen years, and the dose outlasted every countdown it was ever
@@ -1289,7 +1296,7 @@ unconfirmed **[ATTESTED, wiki/health/chemical-architecture]**. The graph's edges
 extend beyond the documented core; the corpus sees the vocabulary but not the
 topology.
 
-**The Annie edge.** In the terminal phase, procurement logistics were explicitly
+**The [[wiki/people/annie-ulmer|Annie]] edge.** In the terminal phase, procurement logistics were explicitly
 one of the last living tethers of the relationship **[ATTESTED,
 wiki/mind/synthesis/attachment-trauma-bond]**. The architecture's supply needs
 outlasted the relationship's emotional content — the graph kept a dead edge
@@ -1392,7 +1399,7 @@ The synthesis makes checkable claims, and checkable claims name their killers:
 - **The cannabis register.** No quit-attempt history, no dose arc, one measured night. The rule makes no claim there yet.
 - **The prescriber's side.** Four messages, partially verifiable, all logistics. No name, no practice, no records. The 2025 out-of-state refusal suggests a prescriber bound to one state; the identity is unknown and, per the task constraints, not pursued.
 - **The 2015–2016 window.** The pact is December 2015. What, if anything, followed — an attempt, a discussion, a deliberate recommitment — is absent from the record. The closing of the question is bounded (after December 2015) but not dated.
-- **The hedonic mechanism.** Unsourced, from an AI chat. Filed at moderate confidence awaiting a real source. The anxiety it bears on is real and undated in treatment terms: no confirmed treatment engagement for the social anxiety anywhere.
+- **The hedonic mechanism.** Unsourced, from an AI chat. Filed at moderate confidence awaiting a real source. The anxiety it bears on is real and undated in treatment terms: no confirmed treatment engagement for the [[wiki/mind/concepts/social-anxiety|social anxiety]] anywhere.
 - **Pre-2010 dosage.** The arc from first opiate (2007) through the Vegas dependence point (November 2007) to the Alexis relapse (Thanksgiving 2009) has one quantified episode (thirty Roxicet) and is otherwise unmeasured.
 
 ## Limits of record
@@ -1404,13 +1411,13 @@ prescriber-logistics messages; the May 2026 BFS cascade as reconstructed on
 wiki/work/bfs-foods; the 2026-08-30/31 measured night; the eighteen-year
 nicotine tweet sequence; the December 2015 pact thread. What was reported: the
 sixteen-year run, the zero relapses, the 2mg figure's stability, the dosage arc,
-the "engineered chemical architecture" framing, the "too terrified"
+the "engineered [[wiki/health/chemical-architecture|chemical architecture]]" framing, the "too terrified"
 confessional, the INTP-based AA/NA refusal — all first-party, all testimony.
 What was calculated: ~5,840 doses; the 67-day quit failure; the counter-restart
 arithmetic; the 99/100 deviance score's basis. What was inferred: the anti-
 identification reading of the alcohol exclusion (flagged as the source's
 informed speculation); the vigilance-axiom thesis (this entry's central
-inference, seams showing); the structural parallels to intake-constancy,
+inference, seams showing); the structural parallels to [[wiki/mind/synthesis/intake-constancy|intake-constancy]],
 explicit-verbal-commitment, and dormancy-not-exit (all flagged as parallels, not
 corpus claims). What was disproven: the original train-arithmetic derivation of
 day-zero (anchor wrong, date survives on better evidence); the "no dental

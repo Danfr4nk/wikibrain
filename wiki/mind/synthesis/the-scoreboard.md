@@ -64,6 +64,8 @@ connections:
   - page: wiki/meta/testimony-veracity
     type: updates
     claim: "The ledger scores the operator's first-person claims — certain 0.25, confident 0.69, hedged 0.75, Brier 0.335 — but its arithmetic is unaudited (dat:0044: testimony/events.jsonl not held). This entry updates it with the standing warning: the scoreboard counts the counter, and the counter's arithmetic has never been independently recomputed."
+  - { target: "[[wiki/mind/synthesis/self-deprecation-shield]]", type: extends, claim: "The shield's accountability layer — the ledger's calibration bands — is what the scoreboard counts: the counter's own arithmetic, never independently recomputed." }
+  - { target: "[[wiki/mind/synthesis/the-curse]]", type: references, claim: "The curse's Case 6 is the incident-level form of this entry's counting: one $50 event, worked as a case file." }
 ---
 
 # The Scoreboard
@@ -124,7 +126,7 @@ The clusters are listed in roughly the order the record shows them appearing.
 
 ### I.A. People, counted in messages
 
-The largest count in the corpus is a woman. Annie's held-corpus presence totals
+The largest count in the corpus is a woman. [[wiki/people/annie-ulmer|Annie]]'s held-corpus presence totals
 **97,891 messages** across three identified handles — +17244346811 (2015–2019):
 62,814; +12124702449 (2023–2026): 31,433; annieulmr@aol.com (2016/2018): 3,644 —
 against the operator's own curated correction of **97,768 unique messages** in
@@ -141,7 +143,7 @@ one number.
 The number exists because a smaller number was caught lying. An older wiki page
 claimed Annie's personality determination rested on "behavioral evidence from her
 126,683-message corpus." No held source yields 126,683; the claim runs ~29% hot
-(dat:0113). The correction pattern is standing: Tom Maison's corpus weight was
+(dat:0113). The correction pattern is standing: [[wiki/people/tom|Tom]] Maison's corpus weight was
 overstated ~2.9x because Kristin's handle was mislabeled as his (MEMORY.md).
 The Annie count is therefore not a vanity statistic. It is the output of a
 repeated operation: catch the inflated count, replace it with the derived one,
@@ -279,9 +281,9 @@ Around the headline sits a constellation of small, exact, fiercely defended
 sums — and the smallness is the point. He was terminated from BFS Foods in
 May 2026 over a disputed **$50 drawer shortage** (rehire offered Aug 11, 2026,
 unconfirmed) [ATTESTED, MEMORY.md]. The Kristin relationship ended over **$40**.
-The Ally provision dispute is a contested **$2,100** (Aug–Oct 2019, no 2019
+The [[wiki/people/ally-lubin|Ally]] provision dispute is a contested **$2,100** (Aug–Oct 2019, no 2019
 Cash App export in raw/). The counter-direction family case is **$14,000
-Dan→Suz (2018)**. The landlord-debt years run on dated increments: **$650**
+Dan→[[wiki/people/suzanne-frank|Suz]] (2018)**. The landlord-debt years run on dated increments: **$650**
 November 2024 payment, **$650/week** servicing in late 2024, the **$10,000**
 settlement letter (2025-03-05), a separate **$7,000 Con Edison bill**. The
 Au Za'atar tenure is a **690-shift block** across **41 months** (March
@@ -322,7 +324,7 @@ a **498-URI purge** of the old canon
 
 What belongs to *this* entry is the function the counting served for the
 operator. Dan commissioned the forensics himself (2026-09-11) and confirmed the
-2025-collapse landing on his own timeline [OPERATOR]. The counting changed his
+[[wiki/timeline/periods/2025-collapse|2025-collapse]] landing on his own timeline [OPERATOR]. The counting changed his
 account of his own fandom: the forensics showed his love of lyricists was never
 about bars — 96.1% instrumental is a timbre-first ear's output, and the
 lyrics-as-timbre qualifier, stated directly 2026-07-14 and corroborated to a
@@ -379,7 +381,7 @@ and because the instrument keeping score of itself is where Part IV ends.
 
 The newest cluster is the scoreboard turned outward onto the machines. The
 worked case: **2026-09-10, the Wikipedia-clone head-to-head.** Dan ran Muse
-Spark 1.3 and Claude Opus 5 on the identical build task, then judged Muse's
+Spark 1.3 and [[wiki/self/concepts/claude-code|Claude Opus 5]] on the identical build task, then judged Muse's
 output **"mythos tier"** against Claude's **"functional-but-not-quite"**
 attempt [OPERATOR] (MEMORY.md). The verdict had a behavioral tail: on
 2026-09-12 he canceled the Claude subscription outright — *"I haven't touched
@@ -444,7 +446,7 @@ the scoreboard with the observer folded inside.
 
 The intake ledger is the self-counting's rawest form and its most honest limit.
 The 2026-08-30 measured night is the single point where a row graduates from
-description to measurement: **0.75g cocaine over 9h31m in six doses, three
+description to measurement: **0.75g [[wiki/health/cocaine|cocaine]] over 9h31m in six doses, three
 0.05g cannabis units** ([[wiki/mind/synthesis/chemical-architecture|chemical-architecture]])
 [ATTESTED]. For everything else the ledger grades honestly: cocaine and
 cannabis are "description + one measured night" (n=1, dated, real, insufficient
@@ -488,7 +490,7 @@ the August messages produces it; the timestamp arithmetic does.
 Control also runs through the money ledgers in a cruder form. The Morgantown
 call campaign (August 2026) staked a three-day leverage operation on a
 documentary record being believed on sight by the same audience the 2026-08-14
-counterfeit was built to deceive — Annie's parents
+counterfeit was built to deceive — [[wiki/people/annie-ulmer|Annie]]'s parents
 ([[wiki/mind/concepts/document-fabrication|document-fabrication]] connections)
 [ATTESTED]. The count as weapon: a ledger presented as self-evident, designed
 to move the people shown it. The $50 drawer dispute cost him a job rather than
@@ -523,7 +525,7 @@ judge — the export — and the proceedings are public inside the wiki.
 The verdicts cut both directions, and the both-directions property is what
 makes the practice evidence-grade rather than merely rhetorical. The 2026-09-11
 forensics convicted his block story. The triad recount convicted the wiki's
-apology-deficit ordering. The veracity ledger (Part III.D) convicts his
+apology-deficit ordering. The [[wiki/meta/testimony-veracity|veracity ledger]] (Part III.D) convicts his
 certainty vocabulary. A scoreboard that only ever ruled in the operator's favor
 would be a PR department; this one rules against him often enough to be
 believed when it rules for him. That is the game-theoretic reason the practice
@@ -590,7 +592,7 @@ shape, and the shape is part of the entry.
 
 The rogues' gallery, with the deltas stated plainly:
 
-- **Annie's corpus: 126,683 → 97,768** (operator-corrected) / 97,891
+- **[[wiki/people/annie-ulmer|Annie]]'s corpus: 126,683 → 97,768** (operator-corrected) / 97,891
   (held-corpus total; this entry's independent recompute from threads.csv).
   ~29% hot. Source of the inflation: unreplicable from any held export
   (dat:0113).
@@ -599,7 +601,7 @@ The rogues' gallery, with the deltas stated plainly:
   (dat:0755).
 - **"I'm sorry": 180 → 435** (through Aug 2025, plain lexicon). The
   "apologizes least" ordering died; the reassurance-dominance finding
-  strengthened (dan-annie-fallout-verdict, 2026-07-18 revision).
+  strengthened ([[wiki/mind/synthesis/dan-annie-fallout-verdict|dan-annie-fallout-verdict]], 2026-07-18 revision).
 - **Severance episodes: 127/110 (87%) → 129 episodes, 100% re-engagement.**
   The dossier's count was within two episodes; its relapse arithmetic was
   not (dat:1292).
@@ -610,7 +612,7 @@ The rogues' gallery, with the deltas stated plainly:
 - **"768 messages sent 2026-05-31"** (bootloader figure): non-reproducible;
   the closure export shows 265 sent / 482 total that day
   (dan-annie-fallout-verdict).
-- **Kristin's handle mislabeled as Tom's**: corpus weight overstated ~2.9x
+- **Kristin's handle mislabeled as [[wiki/people/tom|Tom]]'s**: corpus weight overstated ~2.9x
   (MEMORY.md). The count was precise and precisely attributed to the wrong
   person.
 
@@ -703,7 +705,7 @@ asked or cannot answer the one that was asked. The worked cases:
   matters more than the row counts."*
 - **Filenames that lie.** 18 sources carry a name claiming more than the
   file holds — the `_all_now` / `_all_time` suffix is unreliable as a
-  class. The 2026-08-11 Rick correction was caused by trusting one. Four
+  class. The 2026-08-11 [[wiki/people/rick-frank|Rick]] correction was caused by trusting one. Four
   sources are empty: a citation to one is indistinguishable from a real
   citation. The scoreboard's inputs include files whose names are
   themselves false counts.
@@ -774,7 +776,7 @@ alternatives, the institutionalization, and the counterfeit.
 ### IV.A. The null row: what he refuses to count
 
 The intake ledger grades every substance row as description or measurement,
-and the grades are honest about what "daily" conceals. Cocaine: description +
+and the grades are honest about what "daily" conceals. [[wiki/health/cocaine|Cocaine]]: description +
 one measured night (0.75g over 9h31m, six doses, 2026-08-30). Cannabis:
 description + one measured night (three 0.05g units). Nicotine: 18 years,
 no dose anywhere. Alcohol: zero, 13–15 years, corroborated by absence. And
@@ -789,7 +791,7 @@ The refusal is structural, not accidental. He counts the start date (February
 17, 2010 — *"i began my successful suboxone streak was feb 17, 2010"*) but
 not the days. The recovery world's scoreboard — chips, day counts, anniversaries
 — is the one counting system he will not join, because he does not frame the
-regimen as recovery at all: it is "engineered chemical architecture," the OS,
+regimen as recovery at all: it is "engineered [[wiki/health/chemical-architecture|chemical architecture]]," the OS,
 not the achievement (MEMORY.md). To count the days would be to enter a ledger
 whose unit (clean time) implies a narrative (addiction, overcome daily) that
 he rejects. The null row is therefore not an oversight. It is a refusal with
@@ -813,7 +815,7 @@ There are softer refusals scattered through the record. The stylometric
 tracker's README lists six honest limits — baseline mixes all states, register
 confound, small-N noise — which are refusals to claim what the instrument
 cannot support. The forecasting page notes its predictions are not in the
-veracity ledger *yet*. The money ledger's screenshots are unheld. The pattern
+[[wiki/meta/testimony-veracity|veracity ledger]] *yet*. The money ledger's screenshots are unheld. The pattern
 is consistent: where the count cannot be made honestly, the practice marks the
 gap rather than filling it. The null row is not the absence of the scoreboard.
 It is the scoreboard's signature — the visible place where the counting
@@ -881,7 +883,7 @@ procedure.
 The institutionalization has a reflexive consequence the entry must state
 plainly: the wiki now counts itself the way Dan counts everything else, and
 the counting has the same failure modes. The veracity ledger's arithmetic is
-unaudited (Part III.B). The wiki's prediction scoreboard (annie-ally-contrast:
+unaudited (Part III.B). The wiki's prediction scoreboard ([[wiki/people/annie-ulmer|annie]]-[[wiki/people/ally-lubin|ally]]-contrast:
 "the scoreboard's first entry goes to dormancy") grades the wiki's own
 forecasts — with the contamination noted on the page itself (the corpus
 contains the wiki after August 18, 2026; the instrument is inside the
@@ -999,7 +1001,7 @@ is re-derivable and the scope is stated: the severance decay function, the
 four inversions, the filter thresholds, the forecast returns. The mastery
 fails where the count answers the wrong question (performances, not exits),
 where the provenance ends at an unheld file (the 6:1 screenshots), where the
-inputs are misattributed (Tom's 2.9x), and where the operator's own certainty
+inputs are misattributed ([[wiki/people/tom|Tom]]'s 2.9x), and where the operator's own certainty
 is the least reliable instrument in the building. The scoreboard does not
 confer mastery. It confers *adjudication* — a way to settle disputes,
 including with himself, that is better than narrative and worse than truth.
@@ -1036,7 +1038,7 @@ like everything it measures, agrees to be graded.
   longest run) was flagged by the old wiki itself as never re-derived from
   the primary dump (dat:0755). The 299:0 asymmetry the severance entry leans
   on sits in this class. Re-derive or retire.
-- **The veracity ledger's arithmetic** needs testimony/events.jsonl, which
+- **The [[wiki/meta/testimony-veracity|veracity ledger]]'s arithmetic** needs testimony/events.jsonl, which
   is not held. The inverted bands (certain 0.25 / hedged 0.75) are n=10 and
   doubt-selected. Reconstruct the events file or re-run the ledger on a
   random sample.
@@ -1061,7 +1063,7 @@ like everything it measures, agrees to be graded.
 ## Limits of record
 
 What was directly observed: the threads.csv recompute (577 threads; 189,054
-attributable + 3,086 unattributable = 192,140; Annie's three handles summing
+attributable + 3,086 unattributable = 192,140; [[wiki/people/annie-ulmer|Annie]]'s three handles summing
 to 97,891); the stylometry code and README (25 per-message features in
 extract(), 29 documented with window-level additions); the 2026-08-30
 measured night as filed in chemical-architecture; the 2026-08-14 fabrication
@@ -1071,7 +1073,7 @@ figures and its ceiling, empty-source, and filename-liar findings. What was
 reported: the operator's 97,768 unique-message correction (MEMORY.md); the
 "mythos tier" verdict and the subscription cancellation (MEMORY.md); the
 concealed-answer probe quotes (red-team-probe-series); the 6:1 ratio's
-screenshot provenance (four-financial-inversions). What was calculated: the
+screenshot provenance ([[wiki/mind/synthesis/four-financial-inversions|four-financial-inversions]]). What was calculated: the
 severance series and medians (dat:1292, sibling entry); the lexical-pass
 contrasts and their held-corpus replication deltas (dat:0081, dat:0755); the
 corpus-size decompositions (dat:0077, dat:0113); the playlist-forensics

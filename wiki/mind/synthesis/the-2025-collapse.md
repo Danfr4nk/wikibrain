@@ -1,4 +1,5 @@
 ---
+title: "The 2025 Collapse"
 domain: mind
 page_type: synthesis
 status: active
@@ -60,6 +61,9 @@ connections:
   - page: wiki/timeline/events/eli-incident
     type: caused-by
     claim: "The Eli discovery (Jan 9, 2025; affair Aug 2024–Jan 2025) is the hinge's trigger event — but the trigger is not the mechanism. The mechanism is what Dan did with the trigger: the staged eviction, the asymmetric landing, the clearing."
+  - { target: "[[wiki/mind/synthesis/aura-illness-compound-collapse]]", type: contextualizes, claim: "The 2026 compound collapse names itself against this hinge — its 'Two collapses' section reads 2025 as the prior collapse; this page is the object it compares against." }
+  - { target: "[[wiki/mind/synthesis/taste-as-filter-stack]]", type: corroborates, claim: "The taste page dates the dance re-entry against this collapse and measures it; this page names the collapse's floor as what the re-entry was built on." }
+  - { target: "[[wiki/mind/synthesis/severance-declarations]]", type: references, claim: "The severance-declarations synthesis analyzes the declaration ritual that structures the relationship whose end this page narrates." }
 ---
 
 # The 2025 Collapse
@@ -67,7 +71,7 @@ connections:
 One ninety-day window — **January 9 to April 27, 2025** — contains the end of the New York era, the end of eleven years of cohabitation, and the conditions under which the dance-music re-entry would be built eight months later.
 The affair was discovered on January 9.
 The apartment was exited on February 22.
-Annie moved to her parents' house; Dan landed alone in his mother's house, which was listed for sale the same week he arrived.
+[[wiki/people/annie-ulmer|Annie]] moved to her parents' house; Dan landed alone in his mother's house, which was listed for sale the same week he arrived.
 On April 27 he sat with a chatbot and asked it to act as "an exclusively impartial arbiter" over the wreckage, and produced a self-analysis of his own relationship's loop that the wiki's later forensic machinery would take four more months to reconstruct independently.
 
 This entry's thesis is that the window is the **hinge the whole biography turns on**.
@@ -87,16 +91,16 @@ This page is the hinge thesis across all three: what ended, what was cleared, wh
 ## A note on dates, before anything else
 
 Dan's date memory displaces.
-The wiki's veracity ledger documents the pattern, and the upload-024 correction — device-derived 4:44 PM departure vs. noon memory — is the standing example.
+The wiki's [[wiki/meta/testimony-veracity|veracity ledger]] documents the pattern, and the upload-024 correction — device-derived 4:44 PM departure vs. noon memory — is the standing example.
 Every date below is therefore carried by a timestamp or a dated record, not by his recall **[method]**.
 
-- **January 9, 2025** — the Eli affair discovered **[ATTESTED — agent-D timeline; the return-and-rupture page says "January 2025"]**.
+- **January 9, 2025** — the [[wiki/people/eli|Eli]] affair discovered **[ATTESTED — agent-D timeline; the return-and-rupture page says "January 2025"]**.
 - The affair itself ran **August 2024–January 2025** **[ATTESTED — agent-D]**.
 - **Late January 2025** — Dan telephones John Paci and asks him to perform an eviction **[OPERATOR — the 2026-08-13 staged-eviction decode; corroborated at four independent points in the primary message record per the Paci page]**.
-- **February 22, 2025** — the NYC exit; Dan returns to 337 Saratoga Drive, Uniontown **[ATTESTED — agent-A residence table and agent-D timeline agree on the date]**.
+- **February 22, 2025** — the NYC exit; Dan returns to [[wiki/places/337-saratoga-drive|337 Saratoga Drive]], Uniontown **[ATTESTED — agent-A residence table and agent-D timeline agree on the date]**.
 - **April 17–26, 2025** — the ten-day message log Dan fed to ChatGPT **[ATTESTED — the analysis conversation's own framing]**.
 - **April 27, 2025** — the ChatGPT "impartial arbiter" conversation **[ATTESTED — source filename and page]**.
-- **October 28, 2025** — the "seven years without caring about music" message to Tom Maison **[OPERATOR — quoted in the phases entry]**.
+- **October 28, 2025** — the "seven years without caring about music" message to [[wiki/people/tom|Tom]] Maison **[OPERATOR — quoted in the phases entry]**.
 - **October 31 → December 22, 2025** — the four crate-build waves **[DERIVED — HIGH, from the 2026-09-11 forensics]**.
 - **December 2025** — 4,657 messages, the corpus peak month **[DERIVED — HIGH, from annie_all_time_logs.csv]**.
 
@@ -123,17 +127,17 @@ It ended five months *before* the hinge.
 That timing matters for the clearing thesis: the employment block that had swallowed the curatorial habit whole — the 2021–24 gap in the monthly playlists, the ~88 likes across seven years — was already gone when the collapse arrived.
 The hinge didn't end the job; the job's ending was the first clearing, and the hinge was the second.
 
-**The politicization.** The hard-left turn of 2019 — Bernie plus Chapo — happened inside this tenancy **[ATTESTED — the 2020-left-turn synthesis]**.
-The apartment is where the media diet, the axioms, and the Cato persona were assembled.
+**The politicization.** The hard-left turn of 2019 — Bernie plus Chapo — happened inside this tenancy **[ATTESTED — the [[wiki/mind/synthesis/2020-left-turn|2020-left-turn]] synthesis]**.
+The apartment is where the media diet, the axioms, and the [[wiki/mind/concepts/exocortex|Cato]] persona were assembled.
 The room where the politics were formed is the room the hinge vacated.
 
 **The pandemic bunker years.** The tenancy covers the entire COVID window.
-The "bunker" in Bunker Core is not a metaphor chosen later but the literal condition the era imposed.
+The "bunker" in [[wiki/mind/concepts/bunker-core|Bunker Core]] is not a metaphor chosen later but the literal condition the era imposed.
 The 2025-collapse page's Gemini material names the period's operating system directly: the **"Bifurcated Daily OS"** — survival work (the job, the apartment) running alongside a self-built technical sovereignty stack **[ATTESTED — Gemini-_18, via the 2025-collapse page]**.
 The hinge ended the survival-work half in one move and left the technical stack standing alone.
 What the stack became afterward — Bunker Core, the Gumroad tooling, the chat.db forensics — was built on the half that survived.
 
-**The cohabitation.** Eleven years of living with Annie ended in this window.
+**The cohabitation.** Eleven years of living with [[wiki/people/annie-ulmer|Annie]] ended in this window.
 Not the relationship — that ran to August 2026 — but the shared household, which had run continuously since December 2015 **[ATTESTED — agent-D: the Alexis→Annie bond switch, Nov 28–Dec 1, 2015]**.
 
 Six years, one landlord, one apartment, one job, one relationship under one roof.
@@ -153,7 +157,7 @@ What ended was the *container* — the geographic, economic, and domestic struct
 
 To understand what the hinge cleared, the container needs its full texture — not the summary above but the daily operating system the 2025-collapse page's Gemini material preserves.
 
-The **Decoupling/Grounding Paradox**, verbatim from the Gemini concepts: *"structural friction point ... zero-reliance philosophy and ... material dependence on ... Annie's stable domestic framework and Suzanne's real estate operations,"* framed as the "launchpad" providing *"baseline security and financial runway"* for the digital fortress **[ATTESTED — Gemini-_18, via the 2025-collapse page]**.
+The **Decoupling/Grounding Paradox**, verbatim from the Gemini concepts: *"structural friction point ... zero-reliance philosophy and ... material dependence on ... [[wiki/people/annie-ulmer|Annie]]'s stable domestic framework and [[wiki/people/suzanne-frank|Suzanne]]'s real estate operations,"* framed as the "launchpad" providing *"baseline security and financial runway"* for the digital fortress **[ATTESTED — Gemini-_18, via the 2025-collapse page]**.
 Read that against the hinge and it becomes a prediction: remove Annie's domestic framework and the zero-reliance philosophy has to become real or collapse.
 The hinge removed it.
 What followed — the Saratoga basement, the self-built stack, the Gumroad tooling — is the philosophy made real under duress, or the closest the record shows to it.
@@ -170,7 +174,7 @@ The container was at maximum pressure when the hinge released it.
 
 ## January: the detonation
 
-The hinge's trigger is [[wiki/timeline/events/eli-incident|the Eli incident]], and the incident's own page is precise about what detonated: a sustained concealed affair between Annie and her coworker Eli, active from at least August 2024, discovered physically in early 2025 — and, *"the documented center of gravity,"* defended throughout by months of gaslighting that attacked Dan's capacity to trust his own accurate perception **[ATTESTED — the Eli incident page]**.
+The hinge's trigger is [[wiki/timeline/events/eli-incident|the Eli incident]], and the incident's own page is precise about what detonated: a sustained concealed affair between [[wiki/people/annie-ulmer|Annie]] and her coworker [[wiki/people/eli|Eli]], active from at least August 2024, discovered physically in early 2025 — and, *"the documented center of gravity,"* defended throughout by months of gaslighting that attacked Dan's capacity to trust his own accurate perception **[ATTESTED — the Eli incident page]**.
 The corrective sources rank the gaslighting, not the affair, as the most serious moral failure of the terminal phase.
 
 Three of the incident page's connection claims matter for the hinge thesis, and each one reframes the detonation:
@@ -198,7 +202,7 @@ The hinge has a choreography — a sequence of dated moves, each one checkable �
 Suffered things don't have blocking.
 
 **January 9, 2025: the discovery.**
-The Eli affair — Annie's concealed relationship, running August 2024 to January 2025 — comes to light **[ATTESTED — agent-D]**.
+The [[wiki/people/eli|Eli]] affair — [[wiki/people/annie-ulmer|Annie]]'s concealed relationship, running August 2024 to January 2025 — comes to light **[ATTESTED — agent-D]**.
 The wiki's own characterization, from the agent-B summary, is precise about what made it load-bearing: *"the gaslighting outweighed the affair"* — the concealed alternate reality, not the infidelity as such, is what the discovery detonated **[ATTESTED — agent-A trauma-nodes]**.
 Note the template it activates: agent-A files it directly under the November 2005 parental rupture — *"a trusted figure maintaining a concealed alternate reality"* — as the same shape recurring twenty years later.
 The rhyme is documented in the corpus's own filing system, not imposed by this entry.
@@ -218,7 +222,7 @@ He told both of them it was done **[ATTESTED — the Paci page; corroborated at 
 Annie never found out — not in the window, and as far as the record shows, the decode of August 2026 is the first time the arrangement is named anywhere outside Dan's own account **[INFERRED — MED-HIGH]**.
 
 **February 22, 2025: the exit.**
-Dan leaves the apartment and returns to 337 Saratoga Drive **[ATTESTED]**.
+Dan leaves the apartment and returns to [[wiki/places/337-saratoga-drive|337 Saratoga Drive]] **[ATTESTED]**.
 The six-year tenancy ends.
 The eleven-year cohabitation ends.
 
@@ -237,7 +241,7 @@ The co-performer deserves his own section, because the hinge's authorship claim 
 
 John Paci owned and personally managed 307 E 76th St for the address's entire run — leasing it directly, scheduling exterminators himself, collecting rent and debt payments into at least mid-2025 **[ATTESTED — the Paci page]**.
 The operator's unprompted characterization, from a 2026-08-10 capture: *"elderly i-talian owner of the building and probably NYC's sweetest and nicest landlord"* **[OPERATOR]**.
-The corpus corroborates the warmth: Annie's first description, September 2020, calls him *"a GREAT guy,"* and Dan's gloss the same day — *"he's the one who stuck his neck out for us and held the apartment when we found it"* — describes someone who took a chance on them **[ATTESTED — raw dump, via the Paci page]**.
+The corpus corroborates the warmth: [[wiki/people/annie-ulmer|Annie]]'s first description, September 2020, calls him *"a GREAT guy,"* and Dan's gloss the same day — *"he's the one who stuck his neck out for us and held the apartment when we found it"* — describes someone who took a chance on them **[ATTESTED — raw dump, via the Paci page]**.
 Building-wide notices went out over his name and signature.
 The tenancy ran on his discretion for six years.
 
@@ -256,7 +260,7 @@ The collapse looks, from the inside of the choreography, less like a breakdown t
 
 ## The asymmetric landing
 
-The exit produced two landings, and the asymmetry between them is the hinge's second authored fact — or, more precisely, one landing was authored by Dan and the other was authored by Annie, unilaterally, against his offer.
+The exit produced two landings, and the asymmetry between them is the hinge's second authored fact — or, more precisely, one landing was authored by Dan and the other was authored by [[wiki/people/annie-ulmer|Annie]], unilaterally, against his offer.
 
 Dan's offer, in his April account: return to Pennsylvania to regroup on family money, with the new apartment's destination "intentionally empty" — Annie picks anywhere, he finds the money **[OPERATOR]**.
 Annie's move, without discussing it with him first: into her own parents' house, while insisting this represented no change in the relationship's status **[ATTESTED — the return-and-rupture page]**.
@@ -268,7 +272,7 @@ Neither consulted the other.
 The cohabitation didn't end by agreement; it ended by two separate solo decisions that happened to coincide **[INFERRED — MED-HIGH; both moves are attested, the "two solo decisions" reading is the rescope's plain implication]**.
 
 The asymmetry compounds when the money behind the offer is examined.
-Dan's "intentionally empty" destination was to be funded by family money — but the family money's own structure was collapsing: Suz's 2024 bankruptcy, the Saratoga listing the same week, the Fran estate ($144,069.31, court order signed 2020-08-21) exhausted in the 2020–21 meme-stock era **[ATTESTED — agent-D]**.
+Dan's "intentionally empty" destination was to be funded by family money — but the family money's own structure was collapsing: [[wiki/people/suzanne-frank|Suz]]'s 2024 bankruptcy, the Saratoga listing the same week, the [[wiki/people/fran-coldren|Fran]] estate ($144,069.31, court order signed 2020-08-21) exhausted in the 2020–21 meme-stock era **[ATTESTED — agent-D]**.
 The offer's funding was the crash-landing itself.
 Whether the offer was substantive or rhetorical — a real plan or a bid designed to be refused — is an open gap, and the rescope's "frame he built without telling her" leans toward the latter without proving it **[see Gaps]**.
 
@@ -281,10 +285,10 @@ The hinge didn't just end the cohabitation; it ended the *overhead* of the cohab
 
 ## Saratoga: the landing and the countdown
 
-337 Saratoga Drive has three eras, and the hinge opened the third **[ATTESTED — agent-C places]**.
-**Era one: childhood**, 1996 to September 2008 — the family-built house, the Seven Springs years, the Numark NS7 Fran gifted him.
-**Era two: the SLOPPP era**, May 2013 to January 2015 — the Uniontown return, the trap phase's production rooms, the pre-Annie life.
-**Era three: the GRIPNOTIC era**, February 2025 to July 2026 — the hinge's landing, the basement, the crate build, the MOGZART revival.
+[[wiki/places/337-saratoga-drive|337 Saratoga Drive]] has three eras, and the hinge opened the third **[ATTESTED — agent-C places]**.
+**Era one: childhood**, 1996 to September 2008 — the family-built house, the [[wiki/places/seven-springs|Seven Springs]] years, the Numark NS7 [[wiki/people/fran-coldren|Fran]] gifted him.
+**Era two: the [[wiki/interests/music/aliases/sloppp|SLOPPP]] era**, May 2013 to January 2015 — the Uniontown return, the trap phase's production rooms, the pre-[[wiki/people/annie-ulmer|Annie]] life.
+**Era three: the [[wiki/interests/music/aliases/gripnotic|GRIPNOTIC]] era**, February 2025 to July 2026 — the hinge's landing, the basement, the crate build, the [[wiki/interests/music/aliases/mogzart|MOGZART]] revival.
 
 The third era is the hinge's geography made concrete.
 Dan didn't return to Uniontown in the abstract; he returned to the specific house where the production identity had been built twice before — the SLOPPP rooms of 2013–15 and now the GRIPNOTIC basement of 2025–26.
@@ -307,12 +311,12 @@ The hinge didn't resolve the tether; it tensioned it to the maximum and left it 
 ## April 17–26: the week in miniature
 
 The most remarkable document of the hinge is not a message log but a meta-document: on April 27, 2025, Dan fed a ten-day message log (April 17–26) to ChatGPT and asked the model to act as *"an exclusively impartial arbiter of the fact patterns"* **[ATTESTED — the return-and-rupture page]**.
-He was running forensic analysis on his own relationship, with an AI as the instrument, four months before the wiki's machinery would reconstruct the same patterns from the raw CSVs — and reaching, by hand, the same shape the later quantification would measure.
+He was running [[wiki/mind/concepts/forensic-method|forensic analysis]] on his own relationship, with an AI as the instrument, four months before the wiki's machinery would reconstruct the same patterns from the raw CSVs — and reaching, by hand, the same shape the later quantification would measure.
 
 The pattern the exercise surfaced is a tight, repeating loop **[ATTESTED — the return-and-rupture page's summary]**:
 
-1. **Drug-procurement logistics generate friction** — a supplier called "Bop," a contact named John, Suz often facilitating delivery; timing and money as the friction surfaces.
-2. **Annie's caregiving obligations compress the relationship's time** — a grandmother-figure called "Sugie," plus church and extended family.
+1. **Drug-procurement logistics generate friction** — a supplier called "Bop," a contact named John, [[wiki/people/suzanne-frank|Suz]] often facilitating delivery; timing and money as the friction surfaces.
+2. **[[wiki/people/annie-ulmer|Annie]]'s caregiving obligations compress the relationship's time** — a grandmother-figure called "Sugie," plus church and extended family.
 Annie's own language names it directly: *"dealing with an old women's piss,"* feeling like *"a slave,"* elsewhere *"a servant."*
 3. **Dan reads each compression as evidence of deprioritization** and periodically escalates to statements like *"I just want to know once and for all who I spent 10 years with."*
 4. **Short repair cycles reset the loop** — an evening together, an apology, "I love you" — resetting rather than resolving.
@@ -349,7 +353,7 @@ The mediation matters less than it might, because the document's value for the h
 Four lines from the window, close-read — because the hinge thesis is partly a claim about language, and the language is dated.
 
 ***"The single 'safe' place that existed in my life that i could crash land in."***
-Dan on 337 Saratoga Drive, April 2025 **[OPERATOR — via the return-and-rupture page]**.
+Dan on [[wiki/places/337-saratoga-drive|337 Saratoga Drive]], April 2025 **[OPERATOR — via the return-and-rupture page]**.
 The definite article does the work: not *a* safe place, *the* single one.
 And the verb — *crash land* — concedes the landing was uncontrolled even as the choreography section proves the exit was directed.
 Both true: the exit was staged, the landing was a crash.
@@ -359,7 +363,7 @@ He may not have known; the record doesn't say whether he did.
 ***"I just want to know once and for all who I spent 10 years with."***
 The escalation line from the April week **[OPERATOR — via the return-and-rupture page]**.
 Ten years, stated as a sunk cost demanding an audit.
-The explicit-verbal-commitment architecture is audible in it: the demand is for a *verbal* settlement — *tell me who you are, once and for all* — a rule-statement that would close the books.
+The [[wiki/mind/concepts/explicit-verbal-commitment|explicit-verbal-commitment]] architecture is audible in it: the demand is for a *verbal* settlement — *tell me who you are, once and for all* — a rule-statement that would close the books.
 No such statement ever came; the architecture's requirement was never met, which is why the loop never closed.
 
 ***"Smashed."***
@@ -369,7 +373,7 @@ Against ten years of verbose forensic escalation — the 106,629 outbound messag
 The hinge thesis reads it as the moment the analyst stopped analyzing and reported the reading: irreparable, no future commitment visible from her side.
 
 ***"I swear i forget how to produce music... i can not for the life of me remember how to actually throw a song together."***
-October 28, 2025, to Tom Maison **[OPERATOR — via the phases entry]**.
+October 28, 2025, to [[wiki/people/tom|Tom]] Maison **[OPERATOR — via the phases entry]**.
 Six months after the hinge, three days before the crate build began.
 The hands had forgotten what the ears were re-learning — 270 likes in September, 153 in October already banked.
 The line dates the clearing's completion: the fallow decade's last admission, spoken at the exact boundary between the cleared ground and the first construction.
@@ -397,14 +401,14 @@ The crate was built by a man with no apartment to maintain, no cohabitant to neg
 **3. The metropolitan cost structure (abandoned February 22, 2025).**
 $2,700/month renewal, $10k arrears, $7k ConEd — the NYC economics that had required the 41-month job to sustain.
 The return to Saratoga replaced a cost structure with a crash-landing: family money, no rent, no meter running.
-The estate-money-spine synthesis frames the PA return as escaping metropolitan financial drains **[ATTESTED — the 2025-collapse page's connection claim]**.
+The [[wiki/mind/synthesis/estate-money-spine|estate-money-spine]] synthesis frames the PA return as escaping metropolitan financial drains **[ATTESTED — the 2025-collapse page's connection claim]**.
 A man paying nothing for shelter can spend seven weeks building a 232-track crate; a man working 690 shifts cannot.
 The economics of the re-entry are the economics of the collapse **[INFERRED — MED-HIGH]**.
 
 And then the *internal* clearing, the one Dan stated himself.
 The October 28 "seven years" message — quoted above — names it: the fallow decade's last year was 2025, and the hinge is what ended it.
 The collapse didn't just clear the schedule; it cleared the *identity backlog* — the ten years of not-announcing, the 908 public originals with nothing about music-making, the basement that never fully went quiet but never shipped either **[INFERRED — MED]**.
-What the ears re-learned in September–October, the hands would follow in March: the MOGZART DnB jump-up revival, March 4, 2026.
+What the ears re-learned in September–October, the hands would follow in March: the [[wiki/interests/music/aliases/mogzart|MOGZART]] DnB jump-up revival, March 4, 2026.
 The clearing ran ear-first, exactly as the phases entry's mechanism states it.
 
 ## Built on the floor: October–December 2025
@@ -412,7 +416,7 @@ The clearing ran ear-first, exactly as the phases entry's mechanism states it.
 Eight months after the hinge, the re-entry was built — and the forensics date its mechanism precisely enough to show it standing on the cleared ground **[DERIVED — HIGH throughout this section; all counts from the 2026-09-11 playlist forensics via the phases entry]**.
 
 **Two bulk-like sessions** — September 29 (191 tracks) and November 8 (286 tracks) — followed by a **purge**: 498 URIs present in the oldest Liked export absent from both June 2026 exports.
-The purged content is the old canon: Elliott Smith (8), Paramore (6), All Time Low (5), Lana Del Rey (4), Bright Eyes (4) — emo, pop-punk, indie, alt-rap, the pre-dance taste.
+The purged content is the old canon: Elliott Smith (8), [[wiki/interests/favorites/music/artists/paramore|Paramore]] (6), All Time Low (5), Lana Del Rey (4), Bright Eyes (4) — emo, pop-punk, indie, alt-rap, the pre-dance taste.
 The September 29 session coincides with a `LIKED SONGS 29SEP25` playlist snapshot the same day.
 
 **The build** — the 2025 MASTER CRATE (232 tracks, full Spotify audio features) in four dated waves: **October 31 (170) → November 21 (+45) → December 9 (+16) → December 22 (+1)**.
@@ -432,11 +436,11 @@ The same motion, twice, eight months apart **[INFERRED — MED-HIGH on the struc
 And the operator confirmed the landing himself.
 Per the phases entry, Dan's own timeline confirmation on **2026-09-11** places the re-entry exactly on the collapse **[OPERATOR]**.
 The dance-only switch of phase 2 is not a hobby resuming; it is a life reorganizing, with the record box as the first rebuilt structure.
-Then production followed: the MOGZART DnB jump-up revival on March 4, 2026, the "oof" set in April 2026 — the first shipped output of the post-closure era.
+Then production followed: the [[wiki/interests/music/aliases/mogzart|MOGZART]] DnB jump-up revival on March 4, 2026, the "oof" set in April 2026 — the first shipped output of the post-closure era.
 Listening rebuilt first; the alias came back for the second act **[ATTESTED — the phases entry]**.
 
 The alias detail is the hinge's clock face.
-MOGZART was adopted as SLOPPP closed in December 2015 — at the Annie relationship's opening — and revived in March 2026, during its collapse **[ATTESTED — the phases entry, via the alias-as-periodization page]**.
+MOGZART was adopted as [[wiki/interests/music/aliases/sloppp|SLOPPP]] closed in December 2015 — at the [[wiki/people/annie-ulmer|Annie]] relationship's opening — and revived in March 2026, during its collapse **[ATTESTED — the phases entry, via the alias-as-periodization page]**.
 The name marks both ends of the era the hinge closed.
 The hinge is the moment the clock struck.
 
@@ -444,16 +448,16 @@ The hinge is the moment the clock struck.
 
 The re-entry didn't happen in private; it happened in front of witnesses, and the witness list dates the construction.
 
-**Tom Maison, October 28, 2025.** The "seven years" message — quoted in full in the phases entry — is the re-entry's charter document **[OPERATOR]**.
+**[[wiki/people/tom|Tom]] Maison, October 28, 2025.** The "seven years" message — quoted in full in the phases entry — is the re-entry's charter document **[OPERATOR]**.
 Its thesis sentence: *"dance music is literally not the same as the music i have encoded in my brain. it is literally 98% about evoking emotional response rather than crafting something catchy."*
 Three days later the first crate wave dropped.
 The witness was told the theory; then the practice started.
 
-**Suz, April 6, 2026.** The "oof" set — shared to Suz on April 6, the same day he messaged a contact simply "GRIPNOTIC" **[ATTESTED — the phases entry]**.
+**[[wiki/people/suzanne-frank|Suz]], April 6, 2026.** The "oof" set — shared to Suz on April 6, the same day he messaged a contact simply "[[wiki/interests/music/aliases/gripnotic|GRIPNOTIC]]" **[ATTESTED — the phases entry]**.
 The mother who had been the crash-landing's host, the bankruptcy filer, the owner of the house on the countdown — she is also the re-entry's first audience.
 The hinge's landing zone and the re-entry's premiere share an address and a recipient.
 
-**The MOGZART revival, March 4, 2026.** *"Odd Mob – Never Alone (feat. Lizzy Land) [MOGZART DnB JUMP UP REMIX]"* on SoundCloud, tagged #DnB #Remix **[ATTESTED — the phases entry]**.
+**The [[wiki/interests/music/aliases/mogzart|MOGZART]] revival, March 4, 2026.** *"Odd Mob – Never Alone (feat. Lizzy Land) [MOGZART DnB JUMP UP REMIX]"* on SoundCloud, tagged #DnB #Remix **[ATTESTED — the phases entry]**.
 The alias adopted at the relationship's opening, revived during its collapse — the clock face striking the second time.
 Production followed listening by four months, exactly as the phases entry's mechanism predicts.
 
@@ -469,7 +473,7 @@ The relationship ran eighteen more months — to the June 1, 2026 group-chat clo
 What the hinge ended was the *era*: the tenancy, the cohabitation, the metropolitan economics.
 The *attachment* continued inside the cleared structure, and the cleared structure is what made the terminal phase's particular shape possible.
 
-The numbers: **12,255 messages in 2025 alone** in the terminal extract, with **December peaking at 4,657** — the highest month in the entire corpus, at near-parity (Dan 2,391 / Annie 2,266, ratio 1.06:1) **[DERIVED — HIGH — the dec-2025-spike page]**.
+The numbers: **12,255 messages in 2025 alone** in the terminal extract, with **December peaking at 4,657** — the highest month in the entire corpus, at near-parity (Dan 2,391 / [[wiki/people/annie-ulmer|Annie]] 2,266, ratio 1.06:1) **[DERIVED — HIGH — the [[wiki/timeline/periods/dec-2025-spike|dec-2025-spike]] page]**.
 The spike's own page draws the inference this entry needs: the December peak *"directly contradicts any retrospective narrative of gradual mutual disengagement"* — ten months after the hinge, the relationship was at its highest message volume on record, in what the dossiers characterize as holiday crisis management at high volume and near parity.
 The sharp asymmetry begins immediately after: January 2026 at 1.31:1, February at 1.92:1, Annie's engagement halving while Dan's held constant **[ATTESTED — the spike page]**.
 
@@ -492,11 +496,11 @@ The collapse is also the hinge of the money.
 The sibling batch entry on the four financial inversions will carry the full accounting; this section states only what the hinge thesis needs: the direction of the flow reversed inside the window, and the reversal was engineered, not suffered.
 
 The accepted accounting, per the 2025-collapse page's financial substrate section: three rotations.
-Dan funded the early NYC years; Dan worked through the 2023 landlord-debt accumulation while Annie was between jobs; Annie was sole earner through 2024 after Dan's involuntary Au Za'atar job loss (hours cut June–August 2024 to dodge unemployment obligations) **[ATTESTED — the 2025-collapse page]**.
+Dan funded the early NYC years; Dan worked through the 2023 landlord-debt accumulation while [[wiki/people/annie-ulmer|Annie]] was between jobs; Annie was sole earner through 2024 after Dan's involuntary Au Za'atar job loss (hours cut June–August 2024 to dodge unemployment obligations) **[ATTESTED — the 2025-collapse page]**.
 The hard number, from the Annie page via operator-provided payment-app screenshots (2026-07-15): roughly **$139K sent** by Dan across Cash App and Venmo against **$16–20K received** — a net outflow of roughly **$119K–$123K** over the relationship, a six-to-one asymmetry in her favor **[OPERATOR-provided screenshots; the page marks them as two separate app ledgers, not a single summed total]**.
 
 Inside the hinge window, the fourth rotation begins: **February 2025, Dan becomes the supply chain** — controlling the drug supply while Annie was unemployed and dependent — and the queue's work-0008 reason states it plainly: *"attributable to decision/engineered move, not circumstance"* **[the inversion framing is the queue's; the supply-chain fact is the 2025-collapse page's]**.
-The man who had funded the relationship with wages and family money for a decade began funding the bond's continuation with procurement logistics — "Bop," "John," Suz facilitating delivery, the April week's friction surfaces.
+The man who had funded the relationship with wages and family money for a decade began funding the bond's continuation with procurement logistics — "Bop," "John," [[wiki/people/suzanne-frank|Suz]] facilitating delivery, the April week's friction surfaces.
 The currency changed; the direction didn't.
 The hinge converted the provider role from economic to logistical without interruption — the same function, a different medium **[INFERRED — MED]**.
 
@@ -510,10 +514,10 @@ The arrears were the exit fund **[INFERRED — MED-HIGH; the "deliberate capital
 
 The Feb 22 return is the fourth iteration of the documented family pattern — [[wiki/mind/synthesis/fayette-return|the Fayette return]]'s rule: no member of the paternal Frank line, from G2 onward, has both left Fayette County and ended elsewhere; every documented departure is followed by a documented return **[ATTESTED — the fayette-return page]**.
 Dan's iterations are the densest: Florida (Full Sail, 2008–10), New York round one (2010–13), New York round two (2019–25).
-And the 2025 return is the tightest value the pattern has ever taken: not merely the county but **the childhood home itself**, 337 Saratoga Drive, the house the family built in 1996 **[ATTESTED — agent-C places]**.
+And the 2025 return is the tightest value the pattern has ever taken: not merely the county but **the childhood home itself**, [[wiki/places/337-saratoga-drive|337 Saratoga Drive]], the house the family built in 1996 **[ATTESTED — agent-C places]**.
 
 The fayette-return page's own framing of the current return applies to the hinge directly: *"the tether at maximum tension"* — the tightest possible value of the pattern, occupied while it is being sold out from under him **[ATTESTED — the fayette-return page]**.
-And the page's G1 correction adds the deep rhyme: David J. Frank's founding move was New York City to Fayette County — Manhattan 1900–1915, Brownsville by 1920 — *"the identical vector Dan runs"* in the 2025 return **[ATTESTED — the fayette-return page's 2026-08-02 revision]**.
+And the page's G1 correction adds the deep rhyme: [[wiki/people/david-j-frank|David J. Frank]]'s founding move was New York City to Fayette County — Manhattan 1900–1915, Brownsville by 1920 — *"the identical vector Dan runs"* in the 2025 return **[ATTESTED — the fayette-return page's 2026-08-02 revision]**.
 The hinge runs a vector the family has run for 125 years.
 It is the least original thing Dan has ever done, and the most structurally determined **[INFERRED — MED; the vector match is attested, the "least original" is gloss]**.
 
@@ -523,9 +527,9 @@ The collapse's geography is inherited; only the timing was his **[INFERRED — M
 
 ## The November 2005 rhyme
 
-The corpus files the Eli discovery under the November 2005 parental rupture as the same template — *"a trusted figure maintaining a concealed alternate reality"* **[ATTESTED — agent-A's trauma-nodes]**.
-November 2005: Rick's cocaine-rehab admission plus Suzanne's affair with the family dealer surfacing together, the marriage ending.
-January 2025: Annie's concealed affair with Eli surfacing, the cohabitation ending.
+The corpus files the [[wiki/people/eli|Eli]] discovery under the November 2005 parental rupture as the same template — *"a trusted figure maintaining a concealed alternate reality"* **[ATTESTED — agent-A's trauma-nodes]**.
+November 2005: [[wiki/people/rick-frank|Rick]]'s cocaine-rehab admission plus Suzanne's affair with the family dealer surfacing together, the marriage ending.
+January 2025: [[wiki/people/annie-ulmer|Annie]]'s concealed affair with Eli surfacing, the cohabitation ending.
 Twenty years apart, the same charge detonating: the trusted figure, the concealed reality, the discovery, the household dissolving in the aftermath.
 
 This entry does not claim the rhyme is causal.
@@ -533,14 +537,14 @@ It claims the rhyme is *load-bearing for the hinge thesis* in one specific way: 
 Not exceptional = worthless.
 Not vigilant = annihilated.
 Love that doesn't cost everything isn't real.
-Time = countdown **[OPERATOR — the axioms are his framing; the wiki's own lexical pass found no behavioral corroboration across 106,629 outbound messages, which the November-2005-hinge sibling entry must handle honestly]**.
+Time = countdown **[OPERATOR — the axioms are his framing; the wiki's own lexical pass found no behavioral corroboration across 106,629 outbound messages, which the [[wiki/mind/synthesis/november-2005-hinge|November-2005-hinge]] sibling entry must handle honestly]**.
 If the axioms were forged in 2005, the hinge is where they were *fired*: "not vigilant = annihilated" is the discovery of a concealed affair; "love that doesn't cost everything isn't real" is the $119K–$123K net outflow and the staged eviction performed at his own direction; "time = countdown" is the shot clock, the listed house, the 90-day window itself.
 The hinge is the axioms' proving ground — the quarter in which the operating system the 2005 rupture installed got run at full load **[INFERRED — LOW-MED; the axiom texts are attested as his framing, every application to 2025 is this entry's reading, and the non-corroboration caveat is load-bearing]**.
 
 The rhyme also supplies the hinge's falsifier-in-waiting: if the 2005 template genuinely governs, the discovery should have produced vigilance *before* the detonation — and it didn't.
 The affair ran August 2024 to January 2025, five months, under the same roof, while the vigilance axiom was supposedly running.
 The axiom failed its own test in the window where it mattered most.
-That is either evidence the axioms are post-hoc framing — the lexical pass's suggestion — or evidence that vigilance, like the forensic instrument, was not permitted to point at a chosen object until the object had already failed: the audit lag the fallout verdict names **[INFERRED — MED; the audit-lag reading is the verdict's, the application is mine]**.
+That is either evidence the axioms are post-hoc framing — the lexical pass's suggestion — or evidence that vigilance, like the forensic instrument, was not permitted to point at a chosen object until the object had already failed: [[wiki/mind/synthesis/the-deferred-audit|the audit lag]] the fallout verdict names **[INFERRED — MED; the audit-lag reading is the verdict's, the application is mine]**.
 
 ## Counter-readings
 
@@ -579,7 +583,7 @@ This one kills four.
 
 **1. "The exit was forced."**
 Killed by the Paci decode.
-The eviction was staged at Dan's request; the landlord performed it; Annie and her parents were given the performance as fact.
+The eviction was staged at Dan's request; the landlord performed it; [[wiki/people/annie-ulmer|Annie]] and her parents were given the performance as fact.
 The passive voice — *he was evicted, he had to leave* — is the cover story, and it was Dan's own cover story, told to the two people whose verification calls he knew were coming **[OPERATOR, corroborated]**.
 
 **2. "The relationship ended gradually and mutually."**
@@ -612,11 +616,11 @@ If the corroboration is re-read and fails — if the eviction was real and the d
 The capture is [OPERATOR]; operator testimony about his own stage management is the strongest single-source class in the corpus, but it is still single-source at the root.
 
 3. **The cohabitation's effective end predating the window.**
-If primary records show the shared household had already dissolved in 2024 — separate residences, the apartment already Annie's alone — then the hinge dissolved something already gone and the "end of cohabitation" claim fails.
+If primary records show the shared household had already dissolved in 2024 — separate residences, the apartment already [[wiki/people/annie-ulmer|Annie]]'s alone — then the hinge dissolved something already gone and the "end of cohabitation" claim fails.
 The current record has them co-tenanting through February 2025.
 
 4. **A competing hinge.**
-If a later window (the June 2026 closure, the August 2026 terminal end) better fits the "biography turns on it" claim — if the re-entry's *production* phase (March–April 2026: the MOGZART revival, the "oof" set) is the truer hinge — then this entry has mistaken the clearing for the turning.
+If a later window (the June 2026 closure, the August 2026 terminal end) better fits the "biography turns on it" claim — if the re-entry's *production* phase (March–April 2026: the [[wiki/interests/music/aliases/mogzart|MOGZART]] revival, the "oof" set) is the truer hinge — then this entry has mistaken the clearing for the turning.
 The defense: the production phase is the second act the hinge's clearing made possible, and second acts don't clear their own ground.
 
 ## After the hinge: the 2026 coda
@@ -651,7 +655,7 @@ A discretionary tenancy is a relationship, not a contract; it ends when the rela
 The hinge ended it the relationship way: by staging the withdrawal.
 
 The arrears have their own rotation history, and it matters.
-The 2025-collapse page's financial substrate documents three rotations: Dan funded the early NYC years; **Dan worked through the 2023 landlord-debt accumulation while Annie was between jobs**; Annie was sole earner through 2024 after Dan's involuntary Au Za'atar job loss (hours cut June–August 2024 to dodge unemployment obligations) **[ATTESTED — the 2025-collapse page]**.
+The 2025-collapse page's financial substrate documents three rotations: Dan funded the early NYC years; **Dan worked through the 2023 landlord-debt accumulation while [[wiki/people/annie-ulmer|Annie]] was between jobs**; Annie was sole earner through 2024 after Dan's involuntary Au Za'atar job loss (hours cut June–August 2024 to dodge unemployment obligations) **[ATTESTED — the 2025-collapse page]**.
 The ~$10,000 owed at exit is therefore not a single failure but the terminal balance of a multi-year debt cycle — the third rotation's residue, accumulated across the 2023–24 see-saw.
 The hinge didn't create the debt; it *stopped servicing* it, deliberately, and converted the final two months into operating capital **[ATTESTED — the Paci page's capital-raising claim]**.
 
@@ -662,7 +666,7 @@ The hinge's economics weren't just "leaving an expensive city."
 They were the deliberate default of every running meter — rent, power, the job that paid them — in a single quarter.
 
 And the landing's economics were the mirror image: family money, no rent, no meter.
-The estate-money-spine synthesis frames the PA return as escaping metropolitan financial drains **[ATTESTED — the 2025-collapse page's connection claim]**.
+The [[wiki/mind/synthesis/estate-money-spine|estate-money-spine]] synthesis frames the PA return as escaping metropolitan financial drains **[ATTESTED — the 2025-collapse page's connection claim]**.
 But "escaping" is the passive word; the active word is *defaulting*.
 The hinge is the quarter Dan stopped paying New York.
 Everything the re-entry cost — which was time, not money — became affordable the moment the meters stopped.
@@ -670,7 +674,7 @@ Everything the re-entry cost — which was time, not money — became affordable
 ## The affair's five months: August 2024 – January 2025
 
 The hinge's trigger has a duration, and the duration is part of the mechanism.
-The Eli affair ran **at least August 2024 to January 2025** — five months, under the same roof, inside the six-year tenancy's final half-year **[ATTESTED — the incident page and agent-D]**.
+The [[wiki/people/eli|Eli]] affair ran **at least August 2024 to January 2025** — five months, under the same roof, inside the six-year tenancy's final half-year **[ATTESTED — the incident page and agent-D]**.
 The tenancy that the hinge dissolved was already, for its last five months, housing a concealed alternate reality.
 
 The incident page's connections describe the concealment's mechanics with unusual precision.
@@ -683,7 +687,7 @@ The discovery is dated as "physically" in the incident page — *"discovered phy
 The body, not the ledger, broke the concealment **[ATTESTED — the incident page; the "physical" characterization is the page's]**.
 
 Five months also reframes the 2024 rotation.
-Annie was the sole earner through 2024 — Dan's Au Za'atar hours cut June–August to dodge unemployment obligations, her wages carrying the household **[ATTESTED — the 2025-collapse page]**.
+[[wiki/people/annie-ulmer|Annie]] was the sole earner through 2024 — Dan's Au Za'atar hours cut June–August to dodge unemployment obligations, her wages carrying the household **[ATTESTED — the 2025-collapse page]**.
 The sole-earner year and the affair's five months overlap almost exactly: August 2024 to January 2025 sits inside the sole-earner window.
 The hinge thesis doesn't moralize the overlap; it notes the structural fact: the household's economics and its fidelity failed in the same half-year, and the discovery detonated both at once.
 The shot clock and the affair are not two problems.
@@ -696,8 +700,8 @@ No day-by-day log like the April week survives in the sources read for this entr
 What follows is the exit reconstructed from the dated anchors, with the unknowns marked.
 
 **The anchors.** Late January: the Paci phone call **[OPERATOR]**.
-Early February: Annie's verification call to Paci, and her parents' separate call — both told the eviction was real **[ATTESTED — the Paci page]**.
-February 22: Dan leaves 307 E 76th St and returns to 337 Saratoga Drive **[ATTESTED — agent-A, agent-D]**.
+Early February: [[wiki/people/annie-ulmer|Annie]]'s verification call to Paci, and her parents' separate call — both told the eviction was real **[ATTESTED — the Paci page]**.
+February 22: Dan leaves 307 E 76th St and returns to [[wiki/places/337-saratoga-drive|337 Saratoga Drive]] **[ATTESTED — agent-A, agent-D]**.
 Annie moves to her parents' house in Uniontown — attested as a unilateral decision, undated in the sources read **[ATTESTED as decision; UNKNOWN as date — see Gaps]**.
 
 **The unknowns, stated plainly.** What was taken and what was left in the apartment.
@@ -711,7 +715,7 @@ The sequence is therefore: stage the eviction (late Jan) → let the verificatio
 Three weeks of performed crisis before the move.
 The hinge's opening wasn't an event; it was a *run* — a three-week production with a cast of four (Dan, Paci, Annie, her parents) and an audience that didn't know it was an audience.
 
-The exit's direction is the family vector: Manhattan to Fayette County, the identical move David J. Frank made between 1915 and 1920 **[ATTESTED — the fayette-return page]**.
+The exit's direction is the family vector: Manhattan to Fayette County, the identical move [[wiki/people/david-j-frank|David J. Frank]] made between 1915 and 1920 **[ATTESTED — the fayette-return page]**.
 Six years of New York ended the way the line's New Yorks always end: with a return.
 The fourth iteration, on schedule, into the childhood home.
 
@@ -719,10 +723,10 @@ The fourth iteration, on schedule, into the childhood home.
 
 The money hinge deserves its full texture, because the fourth rotation — Dan becomes the supply chain — is the hinge's most concrete engineered fact after the staged eviction.
 
-The April week names the logistics: a supplier called **"Bop,"** a contact named **John**, **Suz often facilitating delivery** — timing and money as the friction surfaces **[ATTESTED — the return-and-rupture page]**.
-This is February 2025's inversion made daily: the man who had funded the relationship with wages (Au Za'atar's ~690 shifts) and family money (the Fran estate's $144,069.31, exhausted 2020–21) now funded the bond's continuation with procurement — sourcing, timing, delivery, the friction of the handoff as the relationship's new medium of exchange.
+The April week names the logistics: a supplier called **"Bop,"** a contact named **John**, **[[wiki/people/suzanne-frank|Suz]] often facilitating delivery** — timing and money as the friction surfaces **[ATTESTED — the return-and-rupture page]**.
+This is February 2025's inversion made daily: the man who had funded the relationship with wages (Au Za'atar's ~690 shifts) and family money (the [[wiki/people/fran-coldren|Fran]] estate's $144,069.31, exhausted 2020–21) now funded the bond's continuation with procurement — sourcing, timing, delivery, the friction of the handoff as the relationship's new medium of exchange.
 
-The dependency structure is the 2025-collapse page's: Dan controlling the drug supply while Annie was unemployed and dependent — the latest of three rotations **[ATTESTED — the 2025-collapse page]**.
+The dependency structure is the 2025-collapse page's: Dan controlling the drug supply while [[wiki/people/annie-ulmer|Annie]] was unemployed and dependent — the latest of three rotations **[ATTESTED — the 2025-collapse page]**.
 The queue's work-0008 reason adds the hinge thesis's key qualifier: the February 2025 inversion is *"attributable to decision/engineered move, not circumstance."*
 The provider role didn't lapse; it *converted* — from economic to logistical, from wages to supply, without interruption.
 The same function, a different medium **[INFERRED — MED]**.
@@ -741,9 +745,9 @@ The hinge didn't just land Dan in Suz's house; it made Suz's house the entire in
 
 The 2025-collapse page preserves the Gemini formulation verbatim, and the hinge thesis finally resolves it — or rather, the hinge *was* the resolution.
 
-The paradox: *"structural friction point ... zero-reliance philosophy and ... material dependence on ... Annie's stable domestic framework and Suzanne's real estate operations,"* framed as the "launchpad" providing *"baseline security and financial runway"* for the digital fortress **[ATTESTED — Gemini-_18, via the 2025-collapse page]**.
+The paradox: *"structural friction point ... zero-reliance philosophy and ... material dependence on ... [[wiki/people/annie-ulmer|Annie]]'s stable domestic framework and Suzanne's real estate operations,"* framed as the "launchpad" providing *"baseline security and financial runway"* for the digital fortress **[ATTESTED — Gemini-_18, via the 2025-collapse page]**.
 The philosophy said: rely on nothing.
-The structure said: rely on Annie's household and Suz's houses.
+The structure said: rely on Annie's household and [[wiki/people/suzanne-frank|Suz]]'s houses.
 The paradox held as long as both dependencies held.
 
 The hinge removed Annie's domestic framework in ninety days — the cohabitation, the shared economics, the household itself.
@@ -752,7 +756,7 @@ The paradox didn't resolve into self-reliance; it resolved into *single-source* 
 
 And then the second half of the Gemini material: the **"Bifurcated Daily OS"** — survival work alongside the self-built technical sovereignty stack **[ATTESTED — Gemini-_18]**.
 The hinge ended the survival-work half (the 41-month job was already gone; the NYC economics were defaulted) and left the technical stack standing alone.
-What the stack became afterward — Bunker Core named as one half of the 2026 daily OS, the Gumroad iMessage toolkit (launched February 2026), the chat.db forensics as "Epistemic Verification" — was built in the hinge's aftermath, on the half that survived **[ATTESTED — the 2025-collapse page's _18 material]**.
+What the stack became afterward — [[wiki/mind/concepts/bunker-core|Bunker Core]] named as one half of the 2026 daily OS, the Gumroad iMessage toolkit (launched February 2026), the chat.db forensics as "Epistemic Verification" — was built in the hinge's aftermath, on the half that survived **[ATTESTED — the 2025-collapse page's _18 material]**.
 The paradox's resolution, in practice: the philosophy didn't become true, but the *stack* became real — the digital fortress got built because the physical launchpad started its countdown.
 
 The hinge thesis states the resolution plainly: 2025 is the year the zero-reliance philosophy was tested against the removal of what it secretly relied on, and the test's product was not independence but *infrastructure* — the technical stack as the thing that could be built when the domestic structure couldn't be **[INFERRED — MED]**.
@@ -761,7 +765,7 @@ The hinge thesis states the resolution plainly: 2025 is the year the zero-relian
 
 The biography has multiple candidate hinges, and the thesis needs to win against them — not by diminishing them but by typing them.
 
-**November 2005: the psyche's hinge.** Rick's rehab admission, Suzanne's affair with the dealer, the marriage ending — Dan's stated life-hinge, the axioms' alleged origin **[ATTESTED — agent-D]**.
+**November 2005: the psyche's hinge.** [[wiki/people/rick-frank|Rick]]'s rehab admission, Suzanne's affair with the dealer, the marriage ending — Dan's stated life-hinge, the axioms' alleged origin **[ATTESTED — agent-D]**.
 The 2005 hinge installed the operating system; the 2025 hinge ran it at full load.
 One is the *formation* event, the other the *proving* event.
 The biography's hinge is 2025 because hinges are what doors swing on, and the door — the NYC era, the cohabitation, the fallow decade — swung in 2025.
@@ -772,10 +776,10 @@ A hinge of *consequence avoided* — the one real arrest, expunged.
 It constrained the future (the clean record as the condition for everything after) but it didn't reorganize the present.
 2025 reorganized the present.
 
-**March–April 2018: the grief hinge.** Fran's fall (Mar 7–8), the deathbed vigil, her death April 4 (age 97), the eviction notice served at 155 Virginia mid-vigil on March 29 **[ATTESTED — agent-D]**.
+**March–April 2018: the grief hinge.** [[wiki/people/fran-coldren|Fran]]'s fall (Mar 7–8), the deathbed vigil, her death April 4 (age 97), the eviction notice served at 155 Virginia mid-vigil on March 29 **[ATTESTED — agent-D]**.
 The most emotionally loaded window in the corpus — and structurally the closest precedent to 2025: a death and an eviction in the same month, the household dissolving under grief.
 But the 2018 hinge didn't end an era; it deepened one.
-The Annie decade continued, the basement continued, the fallow continued.
+The [[wiki/people/annie-ulmer|Annie]] decade continued, the basement continued, the fallow continued.
 2018 was the decade's worst month; 2025 was the decade's last quarter **[INFERRED — MED]**.
 
 **June–August 2026: the bond's hinge.** The group-chat closure, the severance, the terminal end **[ATTESTED — agent-D]**.
@@ -841,9 +845,9 @@ He is a man who documented things happening, in real time, with timestamps **[IN
 
 Eleven years of shared household ended in the hinge window, and the household had its own strata worth excavating — because the hinge dissolved something with a decade of sediment.
 
-**Stratum 1: 155 Virginia Ave, Uniontown (Jan 2015 – Feb 2019).**
-The bond switch itself: Alexis evicted Nov 28–29, 2015; Annie moved in within days — December 2015, the "single-bond switch" **[ATTESTED — agent-D]**.
-The 155 Virginia era contains the 2017 poverty floor, the 2018 deep cycle, Fran's death vigil (April 2018) with the eviction notice served mid-vigil on March 29, 2018 **[ATTESTED — agent-D]**.
+**Stratum 1: [[wiki/places/155-virginia-ave|155 Virginia Ave]], Uniontown (Jan 2015 – Feb 2019).**
+The bond switch itself: Alexis evicted Nov 28–29, 2015; [[wiki/people/annie-ulmer|Annie]] moved in within days — December 2015, the "single-bond switch" **[ATTESTED — agent-D]**.
+The 155 Virginia era contains the 2017 poverty floor, the 2018 deep cycle, [[wiki/people/fran-coldren|Fran]]'s death vigil (April 2018) with the eviction notice served mid-vigil on March 29, 2018 **[ATTESTED — agent-D]**.
 Four years of Uniontown cohabitation before New York — the household's formation years, its poorest years, its grief year.
 
 **Stratum 2: 307 E 76th St, Manhattan (Feb 2019 – Feb 2025).**
@@ -865,7 +869,7 @@ The hinge didn't arrive without warning; 2024 loaded every charge the hinge deto
 The prelude matters because it separates the hinge's *causes* (2024) from its *mechanism* (the staged 90 days).
 
 **June–August 2024: the hours cut.** Au Za'atar cut Dan's hours to dodge unemployment obligations — the involuntary end of the 41-month run's full-time form **[ATTESTED — the 2025-collapse page]**.
-Annie became the sole earner.
+[[wiki/people/annie-ulmer|Annie]] became the sole earner.
 The third rotation began: her wages carrying the $2,700/month renewal and the accumulating arrears.
 The employment block that had structured the days since March 2021 started dissolving six months before the hinge.
 
@@ -873,7 +877,7 @@ The employment block that had structured the days since March 2021 started disso
 The legal hinge's echo — 2015's arrest preserved the record; 2024's pleas spent some of that preservation.
 A data point for the pressure, not a cause of the collapse.
 
-**August 2024: the affair begins.** The Eli relationship's earliest attested start **[ATTESTED — the incident page]**.
+**August 2024: the affair begins.** The [[wiki/people/eli|Eli]] relationship's earliest attested start **[ATTESTED — the incident page]**.
 Inside the sole-earner window, inside the tenancy's final half-year, under the same roof.
 The five-month concealment ran concurrent with the household's economic inversion — her wages, his hours cut, the affair starting.
 The prelude's grimmest structural fact: the provider rotation and the fidelity failure share a start date **[INFERRED — MED]**.
@@ -890,11 +894,11 @@ The hinge is what happened when the last support — the tenancy's discretionary
 The corpus counts the hinge year, and the counts have their own story — one that corroborates the "format change, not ending" thesis numerically.
 
 **The whole-corpus year: 41,278 messages in 2025** — within 2% of the 2018 peak **[DERIVED — the 2025-collapse page]**.
-2018 was the deep-cycle year: Fran's death, the eviction notice, the vigil.
+2018 was the deep-cycle year: [[wiki/people/fran-coldren|Fran]]'s death, the eviction notice, the vigil.
 2025 matched it for raw output with completely different content: relationship termination instead of relationship crisis.
 The instrument's volume didn't distinguish collapse from crisis; it measured pressure, and the pressure was equal.
 
-**The Annie extract: 12,255 messages in 2025**, December peaking at 4,657 — the corpus's peak month, Dan 2,391 / Annie 2,266, ratio 1.06:1 **[DERIVED — HIGH — the dec-2025-spike page]**.
+**The [[wiki/people/annie-ulmer|Annie]] extract: 12,255 messages in 2025**, December peaking at 4,657 — the corpus's peak month, Dan 2,391 / Annie 2,266, ratio 1.06:1 **[DERIVED — HIGH — the [[wiki/timeline/periods/dec-2025-spike|dec-2025-spike]] page]**.
 The monthly shape around the hinge: the terminal extract's 2025 total against the December peak means December alone carried 38% of the year's Annie-correspondence.
 The hinge quarter (Jan–Apr) is not the volume peak; the *bleed's* peak is.
 The collapse was quieter, in messages, than its aftermath — the staging, the exit, the landing generated less text than the long bleed's holiday crisis management.
@@ -905,16 +909,16 @@ The disengagement has a dated onset: not the hinge, but eleven months after it.
 Any narrative in which the hinge ended the relationship has to explain ten months of peak-volume near-parity correspondence *after* the supposed ending.
 The spike page's verdict stands: the December peak *"directly contradicts any retrospective narrative of gradual mutual disengagement"* **[ATTESTED]**.
 
-**The "love you" count.** 541 occurrences in the 2025 Annie extract; "eli" 388 mentions; "goodbye"/"lying" 110/150 **[DERIVED — the 2025-collapse page's data profile]**.
+**The "love you" count.** 541 occurrences in the 2025 Annie extract; "[[wiki/people/eli|eli]]" 388 mentions; "goodbye"/"lying" 110/150 **[DERIVED — the 2025-collapse page's data profile]**.
 The affection vocabulary outnumbered the rupture vocabulary nearly two to one *in the collapse year*.
 The hinge ended the household while the language of the bond ran at full volume.
 Format change, not ending — the counts won't permit the other reading.
 
 ## Saratoga's third era, week by week
 
-The landing's first weeks are thin in the record — thinner than the exit deserves — but the anchors that exist sketch the GRIPNOTIC era's opening.
+The landing's first weeks are thin in the record — thinner than the exit deserves — but the anchors that exist sketch the [[wiki/interests/music/aliases/gripnotic|GRIPNOTIC]] era's opening.
 
-**The house.** 337 Saratoga Drive: family-built 1996, childhood 1996–2008, SLOPPP era 2013–15, now the hinge's landing **[ATTESTED — agent-C]**.
+**The house.** [[wiki/places/337-saratoga-drive|337 Saratoga Drive]]: family-built 1996, childhood 1996–2008, [[wiki/interests/music/aliases/sloppp|SLOPPP]] era 2013–15, now the hinge's landing **[ATTESTED — agent-C]**.
 The basement that had held the 2015–19 GRIPNOTIC development — solitary, unannounced — received its operator back ten years after the SLOPPP rooms.
 The producer's room, reoccupied.
 
@@ -933,12 +937,12 @@ The entry marks the interval rather than filling it **[see Gaps]**.
 
 ## The hinge's witnesses
 
-Beyond Tom Maison (October 28) and Suz (April 6, 2026), the hinge had witnesses the thesis hasn't yet seated.
+Beyond [[wiki/people/tom|Tom]] Maison (October 28) and [[wiki/people/suzanne-frank|Suz]] (April 6, 2026), the hinge had witnesses the thesis hasn't yet seated.
 
-**Annie's parents.** The verification call's second recipients — called separately, told the eviction was real **[ATTESTED — the Paci page]**.
+**[[wiki/people/annie-ulmer|Annie]]'s parents.** The verification call's second recipients — called separately, told the eviction was real **[ATTESTED — the Paci page]**.
 They are the hinge's unwitting audience: the performance was staged for them as much as for Annie, and unlike Annie they had no relationship history with Dan to read against.
 Their belief is the performance's success metric.
-The hinge thesis notes, without further claim, that the parents who received Bill Ulmer's warmth-by-proxy (the 58-message thread, the "Dad/Bill" sign-offs **[ATTESTED — the Bill Ulmer page]**) were the same parents asked to verify a staged eviction.
+The hinge thesis notes, without further claim, that the parents who received [[wiki/people/bill-ulmer|Bill Ulmer]]'s warmth-by-proxy (the 58-message thread, the "Dad/Bill" sign-offs **[ATTESTED — the Bill Ulmer page]**) were the same parents asked to verify a staged eviction.
 
 **"Bop" and John.** The supply side: named in the April week as the logistics' human surface **[ATTESTED — the return-and-rupture page]**.
 They witness the hinge's economic conversion — the provider role's new medium — without knowing they're witnessing anything.
@@ -1002,7 +1006,7 @@ The hinge's choreography, reduced to three moves **[INFERRED — MED-HIGH; the s
 The hinge window contains two different chronologies, and the entry has told mostly one.
 The correction belongs here.
 
-**Her five months: August 2024 – January 2025.** The Eli relationship, concealed, under the same roof **[ATTESTED — the incident page]**.
+**Her five months: August 2024 – January 2025.** The [[wiki/people/eli|Eli]] relationship, concealed, under the same roof **[ATTESTED — the incident page]**.
 Concurrent with the sole-earner year — her wages carrying the $2,700 renewal while his hours were cut **[ATTESTED — the 2025-collapse page]**.
 The gaslighting as the maintenance mechanism: *"your suspicions are insane"* keeping the contradiction flagged as anomaly **[ATTESTED — the incident page]**.
 Her chronology's hinge isn't January 9 (discovery) but the unilateral move — undated in the sources read — to her parents' house in Uniontown, *"while insisting this represented no change in the relationship's status"* **[ATTESTED — the return-and-rupture page]**.
@@ -1028,7 +1032,7 @@ It housed them separately — two houses in Uniontown — and let the messages c
 
 The close-reading section named four lines; the window has more, and the language is the hinge's most honest record.
 
-***"Intentionally empty."*** Dan on the new apartment's destination in his regrouping proposal — left empty deliberately, Annie to pick anywhere **[OPERATOR — via the return-and-rupture page]**.
+***"Intentionally empty."*** Dan on the new apartment's destination in his regrouping proposal — left empty deliberately, [[wiki/people/annie-ulmer|Annie]] to pick anywhere **[OPERATOR — via the return-and-rupture page]**.
 The emptiness is the tell: a plan with no destination is a plan designed around the proposer's control of the *offer* rather than the *outcome*.
 The rescope's "frame he built without telling her" reads the emptiness as strategy; the gap section holds whether it was substantive or rhetorical.
 Either way, the phrase is the hinge's proposal language: precise about the mechanism (family money, her choice), empty about the place.
@@ -1038,14 +1042,14 @@ Either way, the phrase is the hinge's proposal language: precise about the mecha
 The arbiter wasn't impartial; it was *non-human*, which was the actual requirement.
 The hinge's method, named in its own prompt.
 
-***"Seven years without caring about music."*** October 28, to Tom **[OPERATOR]**.
+***"Seven years without caring about music."*** October 28, to [[wiki/people/tom|Tom]] **[OPERATOR]**.
 The number is approximate ("roughly"), the claim absolute.
 Against the forensics — 270 September likes, 153 October likes already banked — the statement is false about listening and true about *production*: the hands, not the ears.
 The hinge thesis keeps the phases entry's qualification and adds the language note: "caring about music" means *making* it, and the admission is the fallow decade's epitaph, spoken three days before the resurrection.
 
-***"Goodbye Demo."*** December 26, 2015 — SLOPPP's last release, four weeks after meeting Annie **[ATTESTED — the phases entry]**.
+***"Goodbye Demo."*** December 26, 2015 — [[wiki/interests/music/aliases/sloppp|SLOPPP]]'s last release, four weeks after meeting Annie **[ATTESTED — the phases entry]**.
 Not the hinge's language but its bookend: the alias closed as the relationship opened.
-The MOGZART revival (March 4, 2026) is the rhyme eleven years later: the alias reopened as the relationship closed.
+The [[wiki/interests/music/aliases/mogzart|MOGZART]] revival (March 4, 2026) is the rhyme eleven years later: the alias reopened as the relationship closed.
 The hinge sits between the two demos — the goodbye and the hello — and the language of endings ("goodbye") brackets the era the hinge ended.
 
 ## What the wiki got wrong before this entry
@@ -1077,12 +1081,12 @@ Three dates, three different events, one year that the aggregate blurred **[INFE
 Every anchored event in the window, in order, with its marker.
 Unanchored dates are marked UNKNOWN rather than placed.
 
-- **2025-01-09** — Eli affair discovered (physical discovery) **[ATTESTED — agent-D; MED-HIGH on the day]**.
+- **2025-01-09** — [[wiki/people/eli|Eli]] affair discovered (physical discovery) **[ATTESTED — agent-D; MED-HIGH on the day]**.
 - **2025-01-?? (late)** — Dan telephones John Paci; the staged-eviction arrangement **[OPERATOR — 2026-08-13 decode; corroborated ×4]**.
-- **2025-01-?? — 2025-02-??** — Annie's verification call to Paci; her parents' separate call; both told the eviction was real **[ATTESTED — the Paci page]**.
+- **2025-01-?? — 2025-02-??** — [[wiki/people/annie-ulmer|Annie]]'s verification call to Paci; her parents' separate call; both told the eviction was real **[ATTESTED — the Paci page]**.
 - **2025-02-??** — Annie's unilateral move to her parents' house, Uniontown (date UNKNOWN) **[ATTESTED as decision; UNKNOWN as date]**.
-- **2025-02-22** — NYC exit; return to 337 Saratoga Drive; six-year tenancy ends; eleven-year cohabitation ends **[ATTESTED — agent-A, agent-D]**.
-- **2025-02-22 – 2025-04-??** — The landing's first weeks: Saratoga basement, Suz-facilitated procurement, the loop turning (texture UNKNOWN in detail) **[ATTESTED in outline — the April week; UNKNOWN in daily detail]**.
+- **2025-02-22** — NYC exit; return to [[wiki/places/337-saratoga-drive|337 Saratoga Drive]]; six-year tenancy ends; eleven-year cohabitation ends **[ATTESTED — agent-A, agent-D]**.
+- **2025-02-22 – 2025-04-??** — The landing's first weeks: Saratoga basement, [[wiki/people/suzanne-frank|Suz]]-facilitated procurement, the loop turning (texture UNKNOWN in detail) **[ATTESTED in outline — the April week; UNKNOWN in daily detail]**.
 - **2025-04-17 – 2025-04-26** — The ten-day message log (underlying log not on disk) **[ATTESTED as framing; the log itself UNKNOWN]**.
 - **2025-04-21** — Pixar-filter boundary violation (third woman's image shared after objection) **[ATTESTED — the return-and-rupture page]**.
 - **2025-04-22** — Depression named; push-away ("leave me alone"); her unprompted return, staying till 10 PM **[ATTESTED]**.
@@ -1107,7 +1111,7 @@ The axiom doesn't predict the hinge, but the hinge is the shape the axiom would 
 **Axiom 2: not vigilant = annihilated.**
 The 2025 instantiation: the five-month concealment under the same roof, the accurate instrument told it was insane, the physical discovery on January 9.
 And the axiom's failure: five months unvigilant, in the window where vigilance mattered most.
-The lexical pass (no behavioral corroboration across 106,629 outbound messages) and the hinge agree: the axiom is *framing*, not machinery — or the machinery has the audit lag the fallout verdict names, forbidden from pointing at chosen objects until they've failed **[INFERRED — MED; the non-corroboration is attested, the lag reading is the verdict's]**.
+The lexical pass (no behavioral corroboration across 106,629 outbound messages) and the hinge agree: the axiom is *framing*, not machinery — or the machinery has [[wiki/mind/synthesis/the-deferred-audit|the audit lag]] the fallout verdict names, forbidden from pointing at chosen objects until they've failed **[INFERRED — MED; the non-corroboration is attested, the lag reading is the verdict's]**.
 
 **Axiom 3: love that doesn't cost everything isn't real.**
 The 2025 instantiation: the $119K–$123K net outflow (six-to-one, operator-screenshotted), the staged eviction performed at his own direction and cost, the arrears converted to exit fund.
@@ -1121,13 +1125,13 @@ The axiom isn't tested by the hinge; the hinge *is* the axiom, run as a calendar
 
 The restatement's verdict: the axioms read as *descriptions* of the hinge written twenty years early, not as causes of it.
 2005 wrote the language; 2025 supplied the referents.
-The sibling November-2005-hinge entry owns the formation question; this entry records the firing.
+The sibling [[wiki/mind/synthesis/november-2005-hinge|November-2005-hinge]] entry owns the formation question; this entry records the firing.
 
 ## Open questions for the operator
 
 The gaps section holds what the record can't answer; this section holds what only Dan can — the hinge's unanswered questions, stated directly.
 
-- **Annie's move date.** Before, after, or simultaneous with February 22 — the asymmetric landing's sequence turns on it.
+- **[[wiki/people/annie-ulmer|Annie]]'s move date.** Before, after, or simultaneous with February 22 — the asymmetric landing's sequence turns on it.
 - **The "intentionally empty" offer.** Substantive (money available, family committed) or rhetorical (designed to be refused) — the asymmetry's moral shape turns on it.
 - **Whether Annie ever learned the eviction was staged.** The concealment's endpoint — or its continuation.
 - **The April 2025 listing.** Confirmation, record, realtor — the countdown's start, single-sourced.
@@ -1145,7 +1149,7 @@ Three instruments were built or born in the window, and each one outlived it.
 
 **The staged eviction as instrument.** The Paci performance is usually read as deception — a cover story for the exit.
 Read as an instrument, it's something else: a *severance-signal generator*.
-The explicit-verbal-commitment architecture requires an explicit, external, undeniable event before a state change is permitted; the staged eviction manufactured exactly that event, for an audience of three, with verification calls as the calibration.
+The [[wiki/mind/concepts/explicit-verbal-commitment|explicit-verbal-commitment]] architecture requires an explicit, external, undeniable event before a state change is permitted; the staged eviction manufactured exactly that event, for an audience of three, with verification calls as the calibration.
 The instrument worked: the exit happened, the landing followed, the era ended.
 The hinge thesis treats the staging not as a lie but as a *tool* — the only tool the architecture made available for ending a household without an explicit severance signal from the other party **[INFERRED — MED]**.
 
@@ -1169,15 +1173,15 @@ The hinge is the fallow decade's end, and the decade's measurements are the hing
 The private corpus agrees: across 98,056 of his own messages, one message about making a beat, zero about being in a studio.
 The liked-songs timeline: roughly 88 likes across the entire seven years 2017–2023 **[DERIVED — HIGH]**.
 The monthly playlists: 2011–2020, then the 2021–24 Au Za'atar gap, then 2025.
-Ten years of not-announcing, laid over a basement that never fully went quiet — GRIPNOTIC developing 2015–19, solitary, unshipped **[ATTESTED — the phases entry]**.
+Ten years of not-announcing, laid over a basement that never fully went quiet — [[wiki/interests/music/aliases/gripnotic|GRIPNOTIC]] developing 2015–19, solitary, unshipped **[ATTESTED — the phases entry]**.
 
 **The hinge as the fallow's terminus.** The decade's last year was 2025 — the hinge year.
-The employment block ended August 2024 (the job), the cohabitation ended February 2025 (the hinge), the announcing block ended October 2025 (Tom, Suz, SoundCloud).
+The employment block ended August 2024 (the job), the cohabitation ended February 2025 (the hinge), the announcing block ended October 2025 ([[wiki/people/tom|Tom]], [[wiki/people/suzanne-frank|Suz]], SoundCloud).
 Three blocks, three end dates, one year.
 The fallow didn't end all at once; it ended in the hinge's sequence — and the sequence is why the re-entry took eight months: each block's end cleared one constraint, and the last constraint (the announcing block) cleared in October, three days before the first crate wave **[INFERRED — MED-HIGH]**.
 
-**The decade's bookends.** SLOPPP's "Goodbye Demo": December 26, 2015 — four weeks after meeting Annie **[ATTESTED — the phases entry]**.
-The MOGZART DnB jump-up revival: March 4, 2026 — during the collapse **[ATTESTED]**.
+**The decade's bookends.** [[wiki/interests/music/aliases/sloppp|SLOPPP]]'s "Goodbye Demo": December 26, 2015 — four weeks after meeting [[wiki/people/annie-ulmer|Annie]] **[ATTESTED — the phases entry]**.
+The [[wiki/interests/music/aliases/mogzart|MOGZART]] DnB jump-up revival: March 4, 2026 — during the collapse **[ATTESTED]**.
 The fallow decade runs demo to revival, goodbye to hello, with the hinge as the turn between them.
 The alias-as-periodization clock face: MOGZART marks both ends of the Annie era, and the hinge is the moment the clock struck **[ATTESTED — the phases entry, via the alias page]**.
 
@@ -1221,10 +1225,10 @@ The authored collapse, in its purest form: a man setting three clocks and living
 The fourteen-month clock ran out, and the hinge thesis needs the ending on record — because the countdown's end is the hinge's last consequence.
 
 **June 23, 2026: the closing.** Saratoga sold (~$465k) **[ATTESTED — agent-D]**.
-The house the family built in 1996 — the childhood rooms, the SLOPPP rooms, the GRIPNOTIC basement, the crash-landing, the crate's construction floor — transferred.
+The house the family built in 1996 — the childhood rooms, the [[wiki/interests/music/aliases/sloppp|SLOPPP]] rooms, the [[wiki/interests/music/aliases/gripnotic|GRIPNOTIC]] basement, the crash-landing, the crate's construction floor — transferred.
 The third era's end, on the listing's schedule, fourteen months to the week.
 
-**July 8, 2026: the vacating.** Dan left 337 Saratoga Drive **[ATTESTED — agent-D]**.
+**July 8, 2026: the vacating.** Dan left [[wiki/places/337-saratoga-drive|337 Saratoga Drive]] **[ATTESTED — agent-D]**.
 The second exit in seventeen months: February 22, 2025 (staged, authored, Manhattan to Uniontown) and July 8, 2026 (scheduled, listed, Saratoga to Morgantown).
 The hinge's exit was a performance; the countdown's exit was paperwork.
 The first one he directed; the second one he watched.
@@ -1271,12 +1275,12 @@ The Gaps and Limits sections close this entry by design: the hinge thesis is onl
 - **The underlying April 17–26 message log.** The return-and-rupture page flags it: the log Dan uploaded to ChatGPT is not itself on disk in `raw/` — only the analysis conversation survives.
 The week's primary record is therefore mediated twice (his selection, the model's summary).
 Recovery of the log would let the loop's stages be dated to the message.
-- **Annie's move date.** Her unilateral move to her parents' house is attested as a decision but not pinned to a date in the sources read for this entry.
+- **[[wiki/people/annie-ulmer|Annie]]'s move date.** Her unilateral move to her parents' house is attested as a decision but not pinned to a date in the sources read for this entry.
 The hinge's "asymmetric landing" would sharpen considerably with her move dated against his February 22 exit — before, after, or simultaneous changes the reading.
 - **The 46 Nevins St discrepancy.** Agent-D's timeline places "NYC Round Two" at "46 Nevins St, Brooklyn, Feb 2019–Feb 2025"; the Paci page, the address page, and agent-C all place the six-year tenancy at 307 E 76th St, Manhattan.
 One of these is wrong.
 If Nevins St is a real earlier address in the era (a 2019 sublet before the 76th St lease, e.g.), the era's geography needs a second pin; if it's an extraction error, it should be corrected at the source.
-- **Suz's 2024 bankruptcy.** Attested only by Dan's April 2025 account; the return-and-rupture page notes no independent legal-record corroboration.
+- **[[wiki/people/suzanne-frank|Suz]]'s 2024 bankruptcy.** Attested only by Dan's April 2025 account; the return-and-rupture page notes no independent legal-record corroboration.
 The "landing zone scheduled for removal" claim leans on it.
 - **The April 2025 listing.** The "listed the same week" claim rests on Dan's statement in the ChatGPT conversation.
 No listing record (Zillow/MLS capture, realtor correspondence) is cited in the sources read.

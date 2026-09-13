@@ -86,6 +86,10 @@ connections:
   - page: wiki/mind/profile/intp
     type: evidenced-by
     claim: "Two distinct functions on that page explain two distinct halves of this page's rule: tertiary Si's high-fidelity, non-pruning archive is why nothing decays out of the graph in the first place, and inferior Fe — the function that would certify a closure as socially, relationally real — is nearly absent, which is why a Ti-generated decision that a tie is over never becomes felt-settled without an external terminating statement supplying the Fe judgment Dan cannot generate for himself."
+  - { target: "[[wiki/mind/synthesis/the-binary-verdict]]", type: references, claim: "The binary-verdict page cites this dormancy pattern as its negative-space evidence." }
+  - { target: "[[wiki/mind/synthesis/instrument-is-subject]]", type: contextualizes, claim: "This page is the instrument-is-subject standard applied to the author's own contact history." }
+  - { target: "[[wiki/mind/synthesis/the-commissioned-self]]", type: references, claim: "The commissioned-self census supplies the self-measurement machinery behind the dormancy claim." }
+
 ---
 
 # Dormancy, Not Exit
@@ -119,7 +123,7 @@ connections:
 > **it also produced the number this page has always needed.** That page gained a
 > re-check note; nothing on it was withdrawn. The material development is
 > elsewhere in the same pass: the severance base rate is now derived from primary
-> data rather than inferred — **129 declarations across the merged Annie corpus,**
+> data rather than inferred — **[[wiki/mind/synthesis/severance-declarations|129 declarations]] across the merged Annie corpus,**
 > **128 of 128 resumed, median gap thirty-six seconds, all-time maximum 46 hours**
 > ([[wiki/mind/synthesis/the-rescue-premise]] Part I½).
 >
@@ -231,8 +235,7 @@ someone else arrived at her number in February 2025 and she answered "Who is
 this?" Even the last exchange in the thread is Dan offering a shared in-joke as
 proof of identity.
 
-The rule is not restricted to people. [[wiki/places/424-bedford-ave|424 Bedford
-Ave]] was vacated in 2012 and is the corpus's least physically documented major
+The rule is not restricted to people. [[wiki/places/424-bedford-ave|424 Bedford Ave]] was vacated in 2012 and is the corpus's least physically documented major
 residence — no photos, no rent figure, no lease. It nevertheless keeps
 producing, because it is where Dan met [[wiki/people/menore|Menore]], and that
 connection reactivates in November 2018 and runs until February 2025. The
@@ -394,7 +397,7 @@ consecutive gaps in the same architecture, not the same gap twice.
 
 ## The measurement: dormancy involves no decay
 
-Menore supplies the number that turns this from a pattern into a property.
+[[wiki/people/menore|Menore]] supplies the number that turns this from a pattern into a property.
 After Dan left New York in April 2013 the channel went silent for **2,044
 days**. In November 2018 it reopened — and the re-entry message was answered in
 **one minute.** Five and a half years of zero contact cost the channel nothing.
@@ -640,6 +643,38 @@ correction: a future pass on this page could add the Annie sexual-layer
 dormancy as a same-relationship example of the pattern it already
 documents across different people.
 
+## The constitution pass
+
+Run 2026-08-28, against the eleven registers in `SYNTHESIS_SPEC.md`. This
+page had never cited `wiki/mind/profile/` despite two mechanism corrections
+(2026-08-02, 2026-08-13) explicitly chasing the cognitive question a
+profile-layer register answers directly.
+
+| # | Register | Disposition |
+|---|---|---|
+| 1. Cognitive stack | **Moved the conclusion.** [[wiki/mind/profile/intp]]'s Si-tertiary explains the retention half (nothing decays from the archive); Fe-inferior explains the ratification half (why a self-performed closure never feels settled) — see "The mechanism, named at the function level" above. |
+| 2. Personality profile | **Checked, deliberately not added.** Trust 9 and Self-Consciousness 91 are already load-bearing for the adjacent question of audit *timing* on [[wiki/mind/synthesis/the-deferred-audit]]; forcing them here on top of the Ti/Si/Fe account this page actually needs would be the decorative citation SYNTHESIS_SPEC warns against. |
+| 3. Historical precedent | **Checked, left standing.** The member table ([[wiki/people/danielle-onesi|Danielle]], Alexis, 424 Bedford, [[wiki/people/menore|Menore]], James Dee, Franki) is this page's own historical evidence base and required no new material. |
+| 4. Attitudes and forces | **Checked, does not bear.** No chaos-preference or political material explains retention-without-decay specifically. |
+| 5. Security and prosperity | **Checked, does not bear.** No financial register explains why relational nodes persist. |
+| 6. Health | **Checked, does not bear directly.** |
+| 7. Romantic and relational state | **Checked, already load-bearing throughout** — [[wiki/mind/synthesis/the-unbroken-bond]] is already a member and the page's entire evidence base is relational. |
+| 8. Age and upbringing | **Checked, does not add new material.** No developmental account of the retention habit's origin exists in the corpus. |
+| 9. Geographic and ethnic culture | **Checked, flagged as the standing unresolved gap.** The "no base rate" Gap already on this page (small-county social graphs retain people structurally) is exactly this register, and it remains open rather than resolved by this pass. |
+| 10. Religious and ideological programming | **Checked, does not bear.** |
+| 11. Axiomatic politics | **Checked, does not bear.** |
+| 12. Other — provenance | **Checked, left standing.** The page's own July 28, 2026 self-report ("I'm fucking autistic") is already correctly flagged as "his own framing rather than adopt as a diagnosis" — the constitution pass adds no new provenance caveat beyond what the page already practices. |
+
+**What survived:** the suspend-not-delete rule, the member table, and every
+prediction — the mechanism section adds an explanation underneath an
+already-correct behavioral finding rather than changing it. **What the
+pass added:** two distinct, textually-grounded functions (Si, Fe) for two
+distinct halves of the rule, and an explicit statement of how this page's
+mechanism differs from the adjacent one on `the-deferred-audit` rather than
+merely restating it. **What it did not do:** force Trust 9 or
+Self-Consciousness onto a page that does not need them, or manufacture an
+age/upbringing or geographic origin story the corpus does not support.
+
 ## Gaps
 
 - **The tenure floor is undetermined, but the bracket has narrowed by three
@@ -656,12 +691,12 @@ documents across different people.
   to attack this — auditing every `people/` page for post-role contact tests the
   rule against the pages that *do* exist rather than against the ones that
   survived being memorable.
-- **The 2010s reactivations cluster in one window.** Menore's reopening (Nov
+- **The [[wiki/timeline/periods/2010s|2010s]] reactivations cluster in one window.** [[wiki/people/menore|Menore]]'s reopening (Nov
   2018) and the Alexis arrangement (Nov–Dec 2018) fall within weeks of each
   other. That could be the rule operating twice, or it could be one episode of
   deliberate reconnection during the 2018 deep cycle producing two events. The
   page currently treats them as independent and they may not be.
-- **Danielle's persistence may be Suzanne's, not Dan's.** The tie runs through
+- **[[wiki/people/danielle-onesi|Danielle]]'s persistence may be Suzanne's, not Dan's.** The tie runs through
   his mother, who is the one maintaining the friendship. If the mechanism is
   Suzanne's social maintenance rather than Dan's retention policy, the cleanest
   member is also the one least attributable to him.
@@ -726,38 +761,3 @@ documents across different people.
 > *(A first version of this block put her departure from Pennsylvania in*
 > *mid-January 2016 on a misread pronoun; corrected the same day — see*
 > *[[wiki/mind/synthesis/bond-switch-2015]]. She stayed.)*
-
-## The constitution pass
-
-Run 2026-08-28, against the eleven registers in `SYNTHESIS_SPEC.md`. This
-page had never cited `wiki/mind/profile/` despite two mechanism corrections
-(2026-08-02, 2026-08-13) explicitly chasing the cognitive question a
-profile-layer register answers directly.
-
-| # | Register | Disposition |
-|---|---|---|
-| 1. Cognitive stack | **Moved the conclusion.** [[wiki/mind/profile/intp]]'s Si-tertiary explains the retention half (nothing decays from the archive); Fe-inferior explains the ratification half (why a self-performed closure never feels settled) — see "The mechanism, named at the function level" above. |
-| 2. Personality profile | **Checked, deliberately not added.** Trust 9 and Self-Consciousness 91 are already load-bearing for the adjacent question of audit *timing* on [[wiki/mind/synthesis/the-deferred-audit]]; forcing them here on top of the Ti/Si/Fe account this page actually needs would be the decorative citation SYNTHESIS_SPEC warns against. |
-| 3. Historical precedent | **Checked, left standing.** The member table (Danielle, Alexis, 424 Bedford, Menore, James Dee, Franki) is this page's own historical evidence base and required no new material. |
-| 4. Attitudes and forces | **Checked, does not bear.** No chaos-preference or political material explains retention-without-decay specifically. |
-| 5. Security and prosperity | **Checked, does not bear.** No financial register explains why relational nodes persist. |
-| 6. Health | **Checked, does not bear directly.** |
-| 7. Romantic and relational state | **Checked, already load-bearing throughout** — [[wiki/mind/synthesis/the-unbroken-bond]] is already a member and the page's entire evidence base is relational. |
-| 8. Age and upbringing | **Checked, does not add new material.** No developmental account of the retention habit's origin exists in the corpus. |
-| 9. Geographic and ethnic culture | **Checked, flagged as the standing unresolved gap.** The "no base rate" Gap already on this page (small-county social graphs retain people structurally) is exactly this register, and it remains open rather than resolved by this pass. |
-| 10. Religious and ideological programming | **Checked, does not bear.** |
-| 11. Axiomatic politics | **Checked, does not bear.** |
-| 12. Other — provenance | **Checked, left standing.** The page's own July 28, 2026 self-report ("I'm fucking autistic") is already correctly flagged as "his own framing rather than adopt as a diagnosis" — the constitution pass adds no new provenance caveat beyond what the page already practices. |
-
-**What survived:** the suspend-not-delete rule, the member table, and every
-prediction — the mechanism section adds an explanation underneath an
-already-correct behavioral finding rather than changing it. **What the
-pass added:** two distinct, textually-grounded functions (Si, Fe) for two
-distinct halves of the rule, and an explicit statement of how this page's
-mechanism differs from the adjacent one on `the-deferred-audit` rather than
-merely restating it. **What it did not do:** force Trust 9 or
-Self-Consciousness onto a page that does not need them, or manufacture an
-age/upbringing or geographic origin story the corpus does not support.
-
-
-

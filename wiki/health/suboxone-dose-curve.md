@@ -1,4 +1,5 @@
 ---
+title: "The Dose Curve That Isn’t: Suboxone, 2010–2026"
 domain: health
 page_type: synthesis
 status: active
@@ -14,7 +15,7 @@ synthesizes:
   - wiki/health/chemical-architecture
   - wiki/health/the-configured-body
   - wiki/health/intake-ledger
-tags: [addiction-recovery, forensic-analysis, forensic-analysis]
+tags: [addiction-recovery, forensic-analysis]
 connections:
   - page: wiki/health/chemical-architecture
     type: supplies
@@ -43,6 +44,11 @@ connections:
   - page: wiki/self/twitter/2010
     type: evidenced-by
     claim: "The same-day tweet (15:07 ET, 2010-02-17) that independently supports the day-zero start of the interval this page's bearings are measured across."
+  - { target: "[[wiki/people/johnny-dealer]]", type: documents, claim: "The 2018-era strip pricing (8mg/$15, 12mg/$20) is the corpus's other suboxone-adjacent mg figure — supply-graph pricing, explicitly not his dose." }
+  - { target: "[[wiki/health/hyperreflexivity]]", type: contextualizes, claim: "The hedonic-tension question (dat:0020) is one outcome the dose record cannot be linked to — no dose-outcome linkage is possible from a single point." }
+  - { target: "[[wiki/people/alexis-armel]]", type: contextualizes, claim: "The Thanksgiving 2009 thirty-Roxicet episode contradicts the 'almost five years' duration claim inside the dosage exchange — the tension this page preserves rather than resolves." }
+  - { target: "[[wiki/people/tom-maison-supply-record]]", type: documents, claim: "The May 2026 supplier no-show and 72-hour withdrawal is this page's only functional bearing — the far edge of the sixteen-year run, observed rather than self-reported." }
+  - { target: "[[wiki/health/maintenance-vs-verdict]]", type: extends, claim: "Generalizes this page's null case (one point plus sixteen years of silence) as maintenance-as-third-move, frozen compound move, or outside the rule's domain." }
 ---
 
 # The Dose Curve That Isn't: Suboxone, 2010–2026
@@ -51,7 +57,7 @@ Sixteen-plus years of daily Suboxone dosing, and the corpus holds exactly one
 dosage figure: **2mg/day, self-reported on 2013-07-10** **[ATTESTED, dat:0055]**.
 Not one figure per year. Not one per decade. One figure, in one overnight
 Facebook exchange, after which the record never names a dose again — through
-thirteen more years of the same regimen, two states, a pandemic, the Annie
+thirteen more years of the same regimen, two states, a pandemic, the [[wiki/people/annie-ulmer|Annie]]
 decade, an inheritance window, a job loss, and a supply failure that cost him
 employment.
 
@@ -637,7 +643,7 @@ against the single-point-of-failure reading as a general claim**, while the
 May 2026 cascade is evidence for it as a 2026-specific claim. Both are
 ATTESTED; the contradiction resolves temporally — the redundancy existed
 when the informal network was thick and failed when it thinned to one man.
-That resolution belongs to the supply-network analysis, not to the dose
+That resolution belongs to the [[wiki/mind/synthesis/supply-network|supply-network analysis]], not to the dose
 curve; it is recorded here because the dose curve's far edge depends on it.
 [ATTESTED via dat:0055 and wiki/work/bfs-foods; the temporal resolution is
 INFERRED.]
@@ -709,7 +715,7 @@ is not dose).
 ## Limits of record
 
 - **Observed:** one dosage figure (2mg/day, self-reported, 2013-07-10,
-  Facebook, to Elizabeth Eleanor); one appointment with drug screening
+  Facebook, to [[wiki/people/elizabeth-eleanor|Elizabeth Eleanor]]); one appointment with drug screening
   (2011-08-04, Facebook); prescriber referenced across 2013–2025 (one quote
   verified verbatim 2019-05-31; three 2025 quotes unverified against the
   authoritative corpus, two in corpus holes); ~72-hour withdrawal following

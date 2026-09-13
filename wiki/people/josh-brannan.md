@@ -1,6 +1,7 @@
 ---
 domain: people
 page_type: entity
+title: "Josh Brannan"
 status: active
 date_created: 2026-06-23
 date_modified: 2026-09-03
@@ -25,6 +26,7 @@ connections:
   - page: wiki/self/twitter/2012
     type: evidenced-by
     claim: 'The 2012-02-23 tweet "People who need to come visit me: @danpolyak @EricJester @JoshBrannan @Woodguts" is the only place in the corpus Dan enumerates his own core friend group unprompted — four handles, three years into New York, named as the people who ought to be visiting and are not.'
+  - { target: "[[wiki/people/eric-jester]]", type: references, claim: "RECIPROCAL — both appear in Dan's only self-enumerated core friend group (the 2012-02-23 cohort list, 'People who need to come visit me')." }
 ---
 
 # Josh Brannan
