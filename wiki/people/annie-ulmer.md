@@ -663,6 +663,10 @@ correction.] The "first" rests on Dan's 2026 testimony; the timestamp rests on
 EXIF (`dat:annie-first-nude-milestone-20260912`). The frame is thumbnailed
 in Sources, below.
 
+**The hard part is done: the new-life declaration, December 1.** On the afternoon of Tuesday, December 1, 2015 — in the hours after Alexis's eviction (Dec 1–2) — Dan declared the bond's founding rule to Annie over iMessage (screenshot EXIF 13:38 EST): *"Because I didn't sleep and I want to bask in my new life with you"* — then *"Brace yourself"* — then *"Annie Ulmer from now on its just you and me"* — *"Because she's gone"* — *"We made it lol."* She answered: *"You're adorable"* — then *"This is wonderful you give me the best feeling."* His last visible line: *"I wanna spend forever smothering you in love"* (the bottom of the frame is cut by the message field). The read is in the verbs: the eviction is framed as a joint victory — *we made it* — and "Annie Ulmer from now on its just you and me" is a verbal rule issued in her full name, the earliest primary-source instance in the record of the explicit-verbal-commitment architecture (`dat:0081-explicit-commitment-architecture`): positive verbal expression as absolute rule, no counter-rule possible from behavior. The same afternoon's photos — she holds lit Christmas lights over a mattress (16:54), he pulls a face in a beanie while she leans on his shoulder (19:43), a Post-it advent calendar goes up on the door (22:52, "Post it....Adventi calendar") — are the household being made theirs, hour by hour (`dat:annie-new-life-exchange-2015-12-01`).
+
+**First December: settled, December 7.** A week after the public debut, the photographic register has moved from cover to public to domestic. On Monday, December 7, 2015 (EXIF 14:07–14:35, iPhone 6 and 6s, Uniontown-area GPS): a laughing selfie — her hand over her mouth, him in a red shirt leaning on her shoulder — and two bed photos, him shirtless with a red wristband, her beside him under white sheets, smiling; him kissing her cheek, her arm around him. Two weeks into the relationship. Nothing explicit is visible in the frames (`dat:annie-first-december-2015-12-07`).
+
 **First time in public, December 3.** Four days after the formalization, on
 Thursday, December 3, 2015, Dan and Annie appeared together in public for the
 first time: six nighttime selfies taken 23:41–23:51 EST outside a bar or
@@ -2392,3 +2396,17 @@ week, and it produced this page.
 <a href="../../media/upload-048.jpg"><img src="../../media/upload-048.jpg" width="240" alt="Two fishbowl cocktails, 2015-11-30"></a> — Two blue fishbowl cocktails with rubber ducks on a branded table, 2015-11-30 17:53 local, iPhone 6. Dan attributes the bar stop to Primanti Bros, Morgantown; venue not verifiable from the frame.
 
 <a href="../../media/upload-056.jpg"><img src="../../media/upload-056.jpg" width="240" alt="Dan and Annie, first public appearance, 2015-12-03"></a> — First time in public together, 2015-12-03 23:42 local, iPhone 6: Annie smiling at the camera, Dan beside her in a dark hoodie, string lights and a lit window behind. Six frames 23:41–23:51, live GPS fix (~39.9004, -79.7255, Uniontown PA) matching capture to the second. The "first" is Dan's 2026-09-12 testimony; the timestamp is EXIF. See `dat:annie-first-public-milestone-20260912`.
+
+<a href="../../media/upload-067.jpg"><img src="../../media/upload-067.jpg" width="240" alt="iMessage exchange, new-life declaration, 2015-12-01"></a> — The new-life declaration, 2015-12-01 13:38 local: "Annie Ulmer from now on its just you and me" / "Because she's gone" / "We made it lol." Earliest primary instance of the explicit-verbal-commitment architecture. See `dat:annie-new-life-exchange-2015-12-01`.
+
+<a href="../../media/upload-066.jpg"><img src="../../media/upload-066.jpg" width="240" alt="Annie with Christmas lights, 2015-12-01"></a> — Annie holding lit Christmas lights over a mattress, laughing, 2015-12-01 16:54 local, iPhone 6 (weak GPS fix, Uniontown PA area). Deck visible through the glass door.
+
+<a href="../../media/upload-065.jpg"><img src="../../media/upload-065.jpg" width="240" alt="Dan and Annie, beanie selfie, 2015-12-01"></a> — Dan in a beanie pulling a face, Annie leaning on his shoulder, 2015-12-01 19:43 local.
+
+<a href="../../media/upload-064.jpg"><img src="../../media/upload-064.jpg" width="240" alt="Post-it advent calendar, 2015-12-01"></a> — Post-it-note advent calendar (1–25 + star) on a door, captioned "Post it....Adventi calendar," 2015-12-01 22:52 local.
+
+<a href="../../media/upload-068.jpg"><img src="../../media/upload-068.jpg" width="240" alt="Dan and Annie laughing selfie, 2015-12-07"></a> — Laughing selfie, 2015-12-07 14:07 local: Annie's hand over her mouth, Dan in a red shirt leaning on her shoulder.
+
+<a href="../../media/upload-069.jpg"><img src="../../media/upload-069.jpg" width="240" alt="Dan and Annie in bed, 2015-12-07"></a> — Bed photo, 2015-12-07 14:35 local, iPhone 6s: Dan shirtless with a red wristband, Annie beside him under white sheets, both smiling. No nudity or sexual activity visible. See `dat:annie-first-december-2015-12-07`.
+
+<a href="../../media/upload-070.jpg"><img src="../../media/upload-070.jpg" width="240" alt="Dan kissing Annie's cheek in bed, 2015-12-07"></a> — Bed photo, 2015-12-07 14:35 local: Dan kissing Annie's cheek, her arm around him, under the sheets. No nudity or sexual activity visible.

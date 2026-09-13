@@ -1,0 +1,129 @@
+{
+ "batch": "photo-ingest-20260912-annie-06",
+ "intake_source": "direct send in chat by Dan, 2026-09-12 (sixth Annie drop)",
+ "album_url": null,
+ "album_name": null,
+ "pull_timestamp_utc": "2026-09-13T01:20:00Z",
+ "pull_method": "direct-send",
+ "dan_framing_20260912": "Alright now the hard part is done. I got Alexis out, Annie seems to really love me and she's coming to spend the night tonight....",
+ "files": [
+  {
+   "upload_id": "upload-064",
+   "filename": "8ff5e48d46bda42a3408ad02b194c3cf35e0aeb156f508fe4b88d183856090d5.jpg",
+   "local_path": "workspace/user/media_library/image/8f/8ff5e48d46bda42a3408ad02b194c3cf35e0aeb156f508fe4b88d183856090d5.jpg",
+   "sha256": "8ff5e48d46bda42a3408ad02b194c3cf35e0aeb156f508fe4b88d183856090d5",
+   "bytes": 331539,
+   "exif_datetime": "2015:12:01 22:52:48",
+   "exif_make": null,
+   "exif_model": null,
+   "dimensions": "828x1473",
+   "gps": null,
+   "gphotos_media_id": null,
+   "platform_timestamp": null
+  },
+  {
+   "upload_id": "upload-065",
+   "filename": "d21ef5b76c2e85baee5926481e88c823485d39917d7856da0a1bbb0f5bf96a30.jpg",
+   "local_path": "workspace/user/media_library/image/d2/d21ef5b76c2e85baee5926481e88c823485d39917d7856da0a1bbb0f5bf96a30.jpg",
+   "sha256": "d21ef5b76c2e85baee5926481e88c823485d39917d7856da0a1bbb0f5bf96a30",
+   "bytes": 296871,
+   "exif_datetime": "2015:12:01 19:43:36",
+   "exif_make": null,
+   "exif_model": null,
+   "dimensions": "828x1470",
+   "gps": null,
+   "gphotos_media_id": null,
+   "platform_timestamp": null
+  },
+  {
+   "upload_id": "upload-066",
+   "filename": "0f2ad7836dffb34656a53fee630f89ed897810dc220a58ec12e1823e8b550fca.jpg",
+   "local_path": "workspace/user/media_library/image/0f/0f2ad7836dffb34656a53fee630f89ed897810dc220a58ec12e1823e8b550fca.jpg",
+   "sha256": "0f2ad7836dffb34656a53fee630f89ed897810dc220a58ec12e1823e8b550fca",
+   "bytes": 264568,
+   "exif_datetime": "2015:12:01 16:54:06",
+   "exif_make": "Apple",
+   "exif_model": "iPhone 6",
+   "dimensions": "828x1104",
+   "gps": {
+    "lat": 39.885292,
+    "lon": -79.712425,
+    "hpe": "319.56",
+    "gps_timestamp": "(21.0, 54.0, 3.0)"
+   },
+   "gphotos_media_id": null,
+   "platform_timestamp": null
+  },
+  {
+   "upload_id": "upload-067",
+   "filename": "229a927dcb74bed9aabbbae048bf9d80776d540e8eaa6939a9d993d98234e9cb.jpg",
+   "local_path": "workspace/user/media_library/image/22/229a927dcb74bed9aabbbae048bf9d80776d540e8eaa6939a9d993d98234e9cb.jpg",
+   "sha256": "229a927dcb74bed9aabbbae048bf9d80776d540e8eaa6939a9d993d98234e9cb",
+   "bytes": 217966,
+   "exif_datetime": "2015:12:01 13:38:51",
+   "exif_make": null,
+   "exif_model": null,
+   "dimensions": "828x1470",
+   "gps": null,
+   "gphotos_media_id": null,
+   "platform_timestamp": null
+  },
+  {
+   "upload_id": "upload-068",
+   "filename": "ff1077dfe7fedba898f49cf36130732d256735ca312c1b0033abffd56d9308b3.jpg",
+   "local_path": "workspace/user/media_library/image/ff/ff1077dfe7fedba898f49cf36130732d256735ca312c1b0033abffd56d9308b3.jpg",
+   "sha256": "ff1077dfe7fedba898f49cf36130732d256735ca312c1b0033abffd56d9308b3",
+   "bytes": 250340,
+   "exif_datetime": "2015:12:07 14:07:33",
+   "exif_make": "Apple",
+   "exif_model": "iPhone 6",
+   "dimensions": "828x1104",
+   "gps": {
+    "lat": 39.88765,
+    "lon": -79.722167,
+    "hpe": "324.24691358024694",
+    "gps_timestamp": "(19.0, 7.0, 33.0)"
+   },
+   "gphotos_media_id": null,
+   "platform_timestamp": null
+  },
+  {
+   "upload_id": "upload-069",
+   "filename": "e19c454605a5fd42f9ddbf28be1330bca12d342e1fa7b53afceea4f801ce8809.jpg",
+   "local_path": "workspace/user/media_library/image/e1/e19c454605a5fd42f9ddbf28be1330bca12d342e1fa7b53afceea4f801ce8809.jpg",
+   "sha256": "e19c454605a5fd42f9ddbf28be1330bca12d342e1fa7b53afceea4f801ce8809",
+   "bytes": 114852,
+   "exif_datetime": "2015:12:07 14:35:18",
+   "exif_make": "Apple",
+   "exif_model": "iPhone 6s",
+   "dimensions": "828x621",
+   "gps": {
+    "lat": 39.887428,
+    "lon": -79.722106,
+    "hpe": "312.7231638418079",
+    "gps_timestamp": "(19.0, 35.0, 18.0)"
+   },
+   "gphotos_media_id": null,
+   "platform_timestamp": null
+  },
+  {
+   "upload_id": "upload-070",
+   "filename": "bd456b879a16b73174171427f50f9e738f14d6545c8e97035b8954e61d37f54f.jpg",
+   "local_path": "workspace/user/media_library/image/bd/bd456b879a16b73174171427f50f9e738f14d6545c8e97035b8954e61d37f54f.jpg",
+   "sha256": "bd456b879a16b73174171427f50f9e738f14d6545c8e97035b8954e61d37f54f",
+   "bytes": 114348,
+   "exif_datetime": "2015:12:07 14:35:39",
+   "exif_make": "Apple",
+   "exif_model": "iPhone 6s",
+   "dimensions": "828x621",
+   "gps": {
+    "lat": 39.887428,
+    "lon": -79.722106,
+    "hpe": "312.9086956521739",
+    "gps_timestamp": "(19.0, 35.0, 39.0)"
+   },
+   "gphotos_media_id": null,
+   "platform_timestamp": null
+  }
+ ]
+}
