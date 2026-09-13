@@ -92,251 +92,251 @@ Identities: part 4's and part 3's identifications are Dan's testimony (Annie / A
 
 Zmodo screen recording, 7m08s. The night before: at ~3:18 AM Dan coordinated with "Lex" over iMessage — she said "he" had gone to bed so she could skip out, that she was sober and unshowered ("exploding pipe or something"), throwing on pants; he replied he was a mess too and to get over here. At 4:22–4:25 AM the night-vision camera caught one woman sitting motionless on the bed's right edge for nearly four minutes, waiting. Then roughly six hours of stall: Annie kept saying she was "about to do it" and nothing happened, while Dan texted her live — "She came and laid down with you and you did nothing. You have no one to blame but yourself here" — with the noon NYC departure clock running (device record later corrected the departure to 4:44 PM). At 10:09 AM he texted Suz "Got something going on." At 10:19:45 — in his words — "my dreams came true."
 
-10:19:53 — The woman in the white tank top, hair up in a bun, sits on the bed facing the dark-haired woman in blue, who reclines against the pillows under a blanket. They talk, no contact; everyone is clothed.
+10:19:53 — Annie sits on the bed in the white tank top, hair in a bun, facing Alexis — half-buried in a blanket up by the pillows. Just talking. Everybody's still dressed.
 
-[![10:19:53 — The woman in the white tank top, hair up in a bun, sits on the bed facing the dark-hai...](../../media/annie-alexis-frames/frame-001.jpg)](../../media/annie-alexis-frames/frame-001.jpg)
+[![10:19:53 — Annie sits on the bed in the white tank top, hair in a bun, facing Alexis — half-burie...](../../media/annie-alexis-frames/frame-001.jpg)](../../media/annie-alexis-frames/frame-001.jpg)
 
-10:20:09 — Blue stretches an arm up toward white's face in a playful swipe while white leans in, seated. Still just talking — no clothes off, nothing sexual on camera yet.
+10:20:09 — Alexis stretches a lazy arm up and swipes at Annie's face, playful, and Annie leans into it. Still just talking. Nothing naked yet.
 
-[![10:20:09 — Blue stretches an arm up toward white's face in a playful swipe while white leans in, ...](../../media/annie-alexis-frames/frame-002.jpg)](../../media/annie-alexis-frames/frame-002.jpg)
+[![10:20:09 — Alexis stretches a lazy arm up and swipes at Annie's face, playful, and Annie leans in...](../../media/annie-alexis-frames/frame-002.jpg)](../../media/annie-alexis-frames/frame-002.jpg)
 
-10:20:26 — Both back in talking positions: white seated mid-bed, blue half-reclined with the blanket over her lap. Casual morning chatter, bodies apart.
+10:20:26 — They settle back into talking positions — Annie sitting mid-bed, Alexis half-reclined with the blanket over her lap. Morning chatter, bodies apart. Nothing happening.
 
-[![10:20:26 — Both back in talking positions: white seated mid-bed, blue half-reclined with the blan...](../../media/annie-alexis-frames/frame-003.jpg)](../../media/annie-alexis-frames/frame-003.jpg)
+[![10:20:26 — They settle back into talking positions — Annie sitting mid-bed, Alexis half-reclined ...](../../media/annie-alexis-frames/frame-003.jpg)](../../media/annie-alexis-frames/frame-003.jpg)
 
-10:20:42 — Blue sits up and closes the gap, reaching an arm toward white; their bodies angle toward each other. Talk is turning into touch.
+10:20:42 — Alexis sits up and closes the gap, reaching an arm out toward Annie. They're angling toward each other now. The talking's about to turn into touching.
 
-[![10:20:42 — Blue sits up and closes the gap, reaching an arm toward white; their bodies angle towa...](../../media/annie-alexis-frames/frame-004.jpg)](../../media/annie-alexis-frames/frame-004.jpg)
+[![10:20:42 — Alexis sits up and closes the gap, reaching an arm out toward Annie. They're angling t...](../../media/annie-alexis-frames/frame-004.jpg)](../../media/annie-alexis-frames/frame-004.jpg)
 
-10:20:59 — White leans back on her hands, legs stretched out; blue watches her from the pillows. A breather — talking, no contact.
+10:20:59 — Annie leans back on her hands, legs stretched out along the bed, while Alexis watches her from the pillows. Just a breather. Talking, no contact.
 
-[![10:20:59 — White leans back on her hands, legs stretched out; blue watches her from the pillows. ...](../../media/annie-alexis-frames/frame-005.jpg)](../../media/annie-alexis-frames/frame-005.jpg)
+[![10:20:59 — Annie leans back on her hands, legs stretched out along the bed, while Alexis watches ...](../../media/annie-alexis-frames/frame-005.jpg)](../../media/annie-alexis-frames/frame-005.jpg)
 
-10:21:15 — White crawls across the bed and leans over blue at the pillows, faces inches apart, mouths meeting in the first real kiss of the morning. Blue's striped-pants legs kick up behind her as white presses in.
+10:21:15 — Annie crawls across the bed and leans over Alexis at the pillows, faces inches apart — and they kiss. The first real one of the morning. Alexis's legs kick up behind her as Annie presses in.
 
-[![10:21:15 — White crawls across the bed and leans over blue at the pillows, faces inches apart, mo...](../../media/annie-alexis-frames/frame-006.jpg)](../../media/annie-alexis-frames/frame-006.jpg)
+[![10:21:15 — Annie crawls across the bed and leans over Alexis at the pillows, faces inches apart —...](../../media/annie-alexis-frames/frame-006.jpg)](../../media/annie-alexis-frames/frame-006.jpg)
 
-10:21:32 — White sits back upright after the kiss; blue half-reclined and smiling, blanket bunched at her waist. A pause — the kiss landed, they're regrouping and talking.
+10:21:32 — Annie sits back up after the kiss. Alexis is half-reclined and smiling, blanket bunched at her waist. The kiss landed and now they're regrouping, talking again.
 
-[![10:21:32 — White sits back upright after the kiss; blue half-reclined and smiling, blanket bunche...](../../media/annie-alexis-frames/frame-007.jpg)](../../media/annie-alexis-frames/frame-007.jpg)
+[![10:21:32 — Annie sits back up after the kiss. Alexis is half-reclined and smiling, blanket bunche...](../../media/annie-alexis-frames/frame-007.jpg)](../../media/annie-alexis-frames/frame-007.jpg)
 
-10:21:48 — Same beat: white seated, blue reclined under the blanket, talking. No physical contact in this frame.
+10:21:48 — Same beat — Annie sitting, Alexis reclined under the blanket, talking. No hands on each other in this one.
 
-[![10:21:48 — Same beat: white seated, blue reclined under the blanket, talking. No physical contact...](../../media/annie-alexis-frames/frame-008.jpg)](../../media/annie-alexis-frames/frame-008.jpg)
+[![10:21:48 — Same beat — Annie sitting, Alexis reclined under the blanket, talking. No hands on eac...](../../media/annie-alexis-frames/frame-008.jpg)](../../media/annie-alexis-frames/frame-008.jpg)
 
-10:22:05 — White seated mid-bed, blue propped on the pillows, mid-conversation. Bodies apart, nothing physical happening.
+10:22:05 — Annie's sitting mid-bed, Alexis propped on the pillows, mid-conversation. Bodies apart. Nothing physical happening.
 
-[![10:22:05 — White seated mid-bed, blue propped on the pillows, mid-conversation. Bodies apart, not...](../../media/annie-alexis-frames/frame-009.jpg)](../../media/annie-alexis-frames/frame-009.jpg)
+[![10:22:05 — Annie's sitting mid-bed, Alexis propped on the pillows, mid-conversation. Bodies apart...](../../media/annie-alexis-frames/frame-009.jpg)](../../media/annie-alexis-frames/frame-009.jpg)
 
-10:22:21 — Blue sits up fully — blue sleeveless top, black pants — facing white knee to knee. They lean toward each other; the second kiss is loading.
+10:22:21 — Alexis sits all the way up, facing Annie knee to knee. They lean in toward each other. The second kiss is about to happen.
 
-[![10:22:21 — Blue sits up fully — blue sleeveless top, black pants — facing white knee to knee. The...](../../media/annie-alexis-frames/frame-010.jpg)](../../media/annie-alexis-frames/frame-010.jpg)
+[![10:22:21 — Alexis sits all the way up, facing Annie knee to knee. They lean in toward each other....](../../media/annie-alexis-frames/frame-010.jpg)](../../media/annie-alexis-frames/frame-010.jpg)
 
-10:22:38 — They are kissing — mouths on mouths, heads tilted together, white's bun against blue's dark hair. Arms finding each other; the making out is properly underway.
+10:22:38 — Mouths on mouths. Heads tilted together, Annie's bun up against Alexis's dark hair. Arms finding each other. The making out is officially underway.
 
-[![10:22:38 — They are kissing — mouths on mouths, heads tilted together, white's bun against blue's...](../../media/annie-alexis-frames/frame-011.jpg)](../../media/annie-alexis-frames/frame-011.jpg)
+[![10:22:38 — Mouths on mouths. Heads tilted together, Annie's bun up against Alexis's dark hair. Ar...](../../media/annie-alexis-frames/frame-011.jpg)](../../media/annie-alexis-frames/frame-011.jpg)
 
-10:22:54 — Still locked in the kiss, deeper — blue's hand wraps around white's shoulder and neck, pulling her in. Both seated, torsos pressed together.
+10:22:54 — Still locked in, and deeper — Alexis's hand wraps around Annie's shoulder and neck and pulls her in. Both sitting up, torsos pressed together.
 
-[![10:22:54 — Still locked in the kiss, deeper — blue's hand wraps around white's shoulder and neck,...](../../media/annie-alexis-frames/frame-012.jpg)](../../media/annie-alexis-frames/frame-012.jpg)
+[![10:22:54 — Still locked in, and deeper — Alexis's hand wraps around Annie's shoulder and neck and...](../../media/annie-alexis-frames/frame-012.jpg)](../../media/annie-alexis-frames/frame-012.jpg)
 
-10:23:11 — White climbs onto blue's lap, straddling her thighs, and they keep kissing; blue tips back under white's weight with one black-pants leg stretched along the bed. White's tank rides up at the back.
+10:23:11 — Annie climbs up onto Alexis's lap and straddles her thighs, kissing the whole way. Alexis tips back under her with one leg stretched out along the bed. Annie's tank rides up in the back.
 
-[![10:23:11 — White climbs onto blue's lap, straddling her thighs, and they keep kissing; blue tips ...](../../media/annie-alexis-frames/frame-013.jpg)](../../media/annie-alexis-frames/frame-013.jpg)
+[![10:23:11 — Annie climbs up onto Alexis's lap and straddles her thighs, kissing the whole way. Ale...](../../media/annie-alexis-frames/frame-013.jpg)](../../media/annie-alexis-frames/frame-013.jpg)
 
-10:23:27 — White sits upright on blue's lap facing her, one bare leg hooked over blue's thigh; blue sits up to meet her. They kiss with mouths and hands busy.
+10:23:27 — Annie sits up on Alexis's lap facing her, one bare leg hooked over Alexis's thigh. Alexis sits up to meet her. Kissing, hands moving.
 
-[![10:23:27 — White sits upright on blue's lap facing her, one bare leg hooked over blue's thigh; bl...](../../media/annie-alexis-frames/frame-014.jpg)](../../media/annie-alexis-frames/frame-014.jpg)
+[![10:23:27 — Annie sits up on Alexis's lap facing her, one bare leg hooked over Alexis's thigh. Ale...](../../media/annie-alexis-frames/frame-014.jpg)](../../media/annie-alexis-frames/frame-014.jpg)
 
-10:23:44 — Deep in the makeout: white straddles blue's lap, blue's hand grips the back of white's neck, faces buried in each other. Everything stays covered.
+10:23:44 — Deep in the makeout now — Annie straddling Alexis's lap, Alexis's hand gripping the back of Annie's neck, faces buried in each other. Clothes still on.
 
-[![10:23:44 — Deep in the makeout: white straddles blue's lap, blue's hand grips the back of white's...](../../media/annie-alexis-frames/frame-015.jpg)](../../media/annie-alexis-frames/frame-015.jpg)
+[![10:23:44 — Deep in the makeout now — Annie straddling Alexis's lap, Alexis's hand gripping the ba...](../../media/annie-alexis-frames/frame-015.jpg)](../../media/annie-alexis-frames/frame-015.jpg)
 
-10:24:00 — The kiss holds — blue's hand cradles the back of white's head, pulling her mouth in harder; white rocks slightly on blue's lap. Still clothed, no genitalia visible.
+10:24:00 — The kiss holds. Alexis's hand cradles the back of Annie's head and pulls her mouth in harder. Annie rocks on her lap a little. Still dressed.
 
-[![10:24:00 — The kiss holds — blue's hand cradles the back of white's head, pulling her mouth in ha...](../../media/annie-alexis-frames/frame-016.jpg)](../../media/annie-alexis-frames/frame-016.jpg)
+[![10:24:00 — The kiss holds. Alexis's hand cradles the back of Annie's head and pulls her mouth in ...](../../media/annie-alexis-frames/frame-016.jpg)](../../media/annie-alexis-frames/frame-016.jpg)
 
-10:24:17 — They break the kiss and talk, blue holding white's arm and smiling; white stays straddled on blue's lap. A breather between rounds.
+10:24:17 — They break the kiss to talk, Alexis holding Annie's arm and smiling. Annie stays right where she is, straddling her lap. Breather between rounds.
 
-[![10:24:17 — They break the kiss and talk, blue holding white's arm and smiling; white stays stradd...](../../media/annie-alexis-frames/frame-017.jpg)](../../media/annie-alexis-frames/frame-017.jpg)
+[![10:24:17 — They break the kiss to talk, Alexis holding Annie's arm and smiling. Annie stays right...](../../media/annie-alexis-frames/frame-017.jpg)](../../media/annie-alexis-frames/frame-017.jpg)
 
-10:24:33 — Blue fixes her hair with both hands, laughing; white sits on her lap watching. Playful pause, no sexual contact in this frame.
+10:24:33 — Alexis fixes her hair with both hands, laughing. Annie sits on her lap watching. Playful little pause. Nothing sexual in this one.
 
-[![10:24:33 — Blue fixes her hair with both hands, laughing; white sits on her lap watching. Playful...](../../media/annie-alexis-frames/frame-018.jpg)](../../media/annie-alexis-frames/frame-018.jpg)
+[![10:24:33 — Alexis fixes her hair with both hands, laughing. Annie sits on her lap watching. Playf...](../../media/annie-alexis-frames/frame-018.jpg)](../../media/annie-alexis-frames/frame-018.jpg)
 
-10:24:50 — White bends forward and buries her face in blue's lap, going down between blue's legs — her head is at blue's crotch, mouth working on blue's pussy through the black pants. Blue sits back and lets her. No exposed genitalia visible at this resolution and angle.
+10:24:50 — Annie bends forward and buries her face between Alexis's legs, mouth pressed right onto Alexis's pussy through her pants. Eating her out clothed. Alexis sits back and lets her have it.
 
-[![10:24:50 — White bends forward and buries her face in blue's lap, going down between blue's legs ...](../../media/annie-alexis-frames/frame-019.jpg)](../../media/annie-alexis-frames/frame-019.jpg)
+[![10:24:50 — Annie bends forward and buries her face between Alexis's legs, mouth pressed right ont...](../../media/annie-alexis-frames/frame-019.jpg)](../../media/annie-alexis-frames/frame-019.jpg)
 
-10:25:06 — White comes back up and they resume kissing, white straddling blue's lap again, faces pressed together. The oral beat is over; it's mouths on mouths again.
+10:25:06 — Annie comes back up and they're kissing again, her straddling Alexis's lap, faces pressed together. The oral beat's over. Mouths on mouths.
 
-[![10:25:06 — White comes back up and they resume kissing, white straddling blue's lap again, faces ...](../../media/annie-alexis-frames/frame-020.jpg)](../../media/annie-alexis-frames/frame-020.jpg)
+[![10:25:06 — Annie comes back up and they're kissing again, her straddling Alexis's lap, faces pres...](../../media/annie-alexis-frames/frame-020.jpg)](../../media/annie-alexis-frames/frame-020.jpg)
 
-10:25:23 — Still kissing hard, white on blue's lap, blue's hand on white's cheek guiding her mouth. Clothes stay on; nothing exposed.
+10:25:23 — Still kissing hard, Annie on Alexis's lap, Alexis's hand on Annie's cheek guiding her mouth. Clothes stay on.
 
-[![10:25:23 — Still kissing hard, white on blue's lap, blue's hand on white's cheek guiding her mout...](../../media/annie-alexis-frames/frame-021.jpg)](../../media/annie-alexis-frames/frame-021.jpg)
+[![10:25:23 — Still kissing hard, Annie on Alexis's lap, Alexis's hand on Annie's cheek guiding her ...](../../media/annie-alexis-frames/frame-021.jpg)](../../media/annie-alexis-frames/frame-021.jpg)
 
-10:25:39 — A full clinch now — blue's arms wrap around white's shoulders, hauling her in chest to chest as they kiss. White's bare thigh is visible over blue's lap, but everything stays covered.
+10:25:39 — Full clinch now — Alexis wraps both arms around Annie's shoulders and hauls her in chest to chest, kissing her. Annie's bare thigh is over Alexis's lap. Still covered.
 
-[![10:25:39 — A full clinch now — blue's arms wrap around white's shoulders, hauling her in chest to...](../../media/annie-alexis-frames/frame-022.jpg)](../../media/annie-alexis-frames/frame-022.jpg)
+[![10:25:39 — Full clinch now — Alexis wraps both arms around Annie's shoulders and hauls her in che...](../../media/annie-alexis-frames/frame-022.jpg)](../../media/annie-alexis-frames/frame-022.jpg)
 
-10:25:56 — Blue is up on her knees behind white, now in a black sports bra with the blue top off; white kneels bent forward in front of her. Blue's hands are at white's waistband — clothes are coming off.
+10:25:56 — Alexis is up on her knees behind Annie, blue top off, black sports bra on. Annie's bent forward on her knees in front of her, ass up toward Alexis. Alexis's hands are at Annie's waistband — about to pull her clothes down.
 
-[![10:25:56 — Blue is up on her knees behind white, now in a black sports bra with the blue top off;...](../../media/annie-alexis-frames/frame-023.jpg)](../../media/annie-alexis-frames/frame-023.jpg)
+[![10:25:56 — Alexis is up on her knees behind Annie, blue top off, black sports bra on. Annie's ben...](../../media/annie-alexis-frames/frame-023.jpg)](../../media/annie-alexis-frames/frame-023.jpg)
 
-10:26:12 — Blue has left the frame; white sits alone on the bed in her white tank and underwear, knees drawn up, looking toward where blue went. Underwear covers everything; no exposed genitalia.
+10:26:12 — Alexis is out of the frame. Annie sits alone on the bed in her tank and underwear, knees drawn up, looking toward wherever Alexis went.
 
-[![10:26:12 — Blue has left the frame; white sits alone on the bed in her white tank and underwear, ...](../../media/annie-alexis-frames/frame-024.jpg)](../../media/annie-alexis-frames/frame-024.jpg)
+[![10:26:12 — Alexis is out of the frame. Annie sits alone on the bed in her tank and underwear, kne...](../../media/annie-alexis-frames/frame-024.jpg)](../../media/annie-alexis-frames/frame-024.jpg)
 
-10:26:29 — White alone on the bed, sitting with knees up, checking her phone. The session has paused; blue is out of frame.
+10:26:29 — Annie alone on the bed, knees up, checking her phone. The session's paused. Alexis is out of frame.
 
-[![10:26:29 — White alone on the bed, sitting with knees up, checking her phone. The session has pau...](../../media/annie-alexis-frames/frame-025.jpg)](../../media/annie-alexis-frames/frame-025.jpg)
+[![10:26:29 — Annie alone on the bed, knees up, checking her phone. The session's paused. Alexis is ...](../../media/annie-alexis-frames/frame-025.jpg)](../../media/annie-alexis-frames/frame-025.jpg)
 
-10:26 — Rotated phone-app view: white alone on the bed, one knee up, hand near her phone on the blanket. Still in tank and underwear; nothing exposed.
+10:26 — Rotated phone-app view — Annie alone on the bed, one knee up, hand by her phone on the blanket. Still in the tank and underwear.
 
-[![10:26 — Rotated phone-app view: white alone on the bed, one knee up, hand near her phone on the b...](../../media/annie-alexis-frames/frame-026.jpg)](../../media/annie-alexis-frames/frame-026.jpg)
+[![10:26 — Rotated phone-app view — Annie alone on the bed, one knee up, hand by her phone on the bl...](../../media/annie-alexis-frames/frame-026.jpg)](../../media/annie-alexis-frames/frame-026.jpg)
 
 ### Shortened cut — Nov 6, 2018 (upload-026)
 
 9m21s. Same bedroom, same morning. The woman in white returns; the second woman with her is unidentified — she is not asserted to be Alexis. Clothed kissing gives way to clothes coming off, oral, naked grinding, mutual fingering and scissoring, an extended 69 sequence both ways, then a laughing cooldown and a phone check, spent.
 
-t=00:00 — the two women sit close on the bed, locked in a deep kiss; the woman in the white tank top has her back to the camera while the dark-haired second woman cradles her neck and face. Both still clothed, the morning heat-up just starting.
+t=00:00 — the woman in the white tank top is already deep in a hard kiss with the dark-haired second woman, her back to the camera while the second woman cradles her neck and face. Both still dressed — the warm-up is just starting.
 
-[![t=00:00 — the two women sit close on the bed, locked in a deep kiss; the woman in the white tank ...](../../media/annie-alexis-frames/frame-027.jpg)](../../media/annie-alexis-frames/frame-027.jpg)
+[![t=00:00 — the woman in the white tank top is already deep in a hard kiss with the dark-haired sec...](../../media/annie-alexis-frames/frame-027.jpg)](../../media/annie-alexis-frames/frame-027.jpg)
 
-t=00:16 — still locked in the kiss, the woman in white now kneeling between the dark-haired second woman's legs while the second woman's hand cups her cheek; both still fully clothed, the making-out intensifying.
+t=00:16 — still fused at the mouth, the woman in white on her knees between the second woman's legs now, the second woman cupping her cheek. Clothes still on, the making out getting hungrier.
 
-[![t=00:16 — still locked in the kiss, the woman in white now kneeling between the dark-haired secon...](../../media/annie-alexis-frames/frame-028.jpg)](../../media/annie-alexis-frames/frame-028.jpg)
+[![t=00:16 — still fused at the mouth, the woman in white on her knees between the second woman's le...](../../media/annie-alexis-frames/frame-028.jpg)](../../media/annie-alexis-frames/frame-028.jpg)
 
-t=00:32 — the kiss continues, the woman in white now sitting in the dark-haired second woman's lap with her thighs spread around her; mouths glued together, hands roaming, clothes still on.
+t=00:32 — the woman in white climbs into the second woman's lap, thighs spread around her, mouths never breaking, hands roaming everywhere. Still dressed and getting hotter.
 
-[![t=00:32 — the kiss continues, the woman in white now sitting in the dark-haired second woman's la...](../../media/annie-alexis-frames/frame-029.jpg)](../../media/annie-alexis-frames/frame-029.jpg)
+[![t=00:32 — the woman in white climbs into the second woman's lap, thighs spread around her, mouths...](../../media/annie-alexis-frames/frame-029.jpg)](../../media/annie-alexis-frames/frame-029.jpg)
 
-t=00:48 — mouths still fused, the woman in white has her hand up at the second woman's throat/jaw, holding her close; both wrapped around each other, clothes still on, the session escalating.
+t=00:48 — the woman in white has her hand up at the second woman's throat and jaw, holding her in close, mouths still fused. Wrapped around each other, still dressed, escalating fast.
 
-[![t=00:48 — mouths still fused, the woman in white has her hand up at the second woman's throat/jaw...](../../media/annie-alexis-frames/frame-030.jpg)](../../media/annie-alexis-frames/frame-030.jpg)
+[![t=00:48 — the woman in white has her hand up at the second woman's throat and jaw, holding her in...](../../media/annie-alexis-frames/frame-030.jpg)](../../media/annie-alexis-frames/frame-030.jpg)
 
-t=01:04 — the dark-haired second woman drapes her arm over the woman in white's shoulder, pulling her in tight as they keep kissing; bodies pressed together, still dressed, the make-out session deepening.
+t=01:04 — the dark-haired second woman drapes an arm over the woman in white's shoulder and drags her in tight, kissing her harder. Bodies pressed together, still dressed, the make-out going deeper.
 
-[![t=01:04 — the dark-haired second woman drapes her arm over the woman in white's shoulder, pulling...](../../media/annie-alexis-frames/frame-031.jpg)](../../media/annie-alexis-frames/frame-031.jpg)
+[![t=01:04 — the dark-haired second woman drapes an arm over the woman in white's shoulder and drags...](../../media/annie-alexis-frames/frame-031.jpg)](../../media/annie-alexis-frames/frame-031.jpg)
 
-t=01:20 — a playful beat: the woman in white throws her arms up in the air, laughing, while the dark-haired second woman lifts her hands too, mid-wrestle; the mood is giggly and physical but still clothed.
+t=01:20 — a giggly beat: the woman in white throws her arms up in the air laughing while the second woman gets her hands up too, mid-wrestle. Physical and playful, still dressed.
 
-[![t=01:20 — a playful beat: the woman in white throws her arms up in the air, laughing, while the d...](../../media/annie-alexis-frames/frame-032.jpg)](../../media/annie-alexis-frames/frame-032.jpg)
+[![t=01:20 — a giggly beat: the woman in white throws her arms up in the air laughing while the seco...](../../media/annie-alexis-frames/frame-032.jpg)](../../media/annie-alexis-frames/frame-032.jpg)
 
-t=01:36 — the feed flips to a rotated angle; the woman in the red plaid top lies back on the pillows while the dark-haired second woman leans over her, bodies tangled in the blankets as the kissing goes on. No genitalia visible.
+t=01:36 — the woman in the red plaid top is on her back on the pillows while the dark-haired second woman leans over her, tangled in the blankets, still kissing her.
 
-[![t=01:36 — the feed flips to a rotated angle; the woman in the red plaid top lies back on the pill...](../../media/annie-alexis-frames/frame-033.jpg)](../../media/annie-alexis-frames/frame-033.jpg)
+[![t=01:36 — the woman in the red plaid top is on her back on the pillows while the dark-haired seco...](../../media/annie-alexis-frames/frame-033.jpg)](../../media/annie-alexis-frames/frame-033.jpg)
 
-t=01:52 — the dark-haired second woman reclines against the pillows in the red plaid top while the woman in white lies sprawled across her lap, face buried at her chest; legs tangled, blankets half-covering them, bodies pressed close. No genitalia visible.
+t=01:52 — the dark-haired second woman reclines against the pillows in the red plaid top with the woman in white sprawled across her lap, face buried in her chest. Legs tangled, blankets half off, bodies pressed close.
 
-[![t=01:52 — the dark-haired second woman reclines against the pillows in the red plaid top while th...](../../media/annie-alexis-frames/frame-034.jpg)](../../media/annie-alexis-frames/frame-034.jpg)
+[![t=01:52 — the dark-haired second woman reclines against the pillows in the red plaid top with the...](../../media/annie-alexis-frames/frame-034.jpg)](../../media/annie-alexis-frames/frame-034.jpg)
 
-t=02:08 — the woman in white, now bare-backed in red underwear, lies face-down across the second woman's torso with her mouth at her chest/lap, going down on her; the second woman reclines with her arms folded behind her head, legs sprawled. No genitalia exposed to the camera.
+t=02:08 — the woman in white is bare-backed in red underwear now, face-down across the second woman's torso with her mouth on her tits. The second woman just lies back, arms folded behind her head, legs sprawled, taking it.
 
-[![t=02:08 — the woman in white, now bare-backed in red underwear, lies face-down across the second ...](../../media/annie-alexis-frames/frame-035.jpg)](../../media/annie-alexis-frames/frame-035.jpg)
+[![t=02:08 — the woman in white is bare-backed in red underwear now, face-down across the second wom...](../../media/annie-alexis-frames/frame-035.jpg)](../../media/annie-alexis-frames/frame-035.jpg)
 
-t=02:24 — the woman in white stays draped over the second woman, her mouth working at the second woman's chest and nipples; the second woman lies back, one hand on the white-clad woman's head, guiding her. No genitalia visible.
+t=02:24 — the woman in white stays draped over her, mouth working the second woman's tits; the second woman's got a hand on her head, guiding her mouth where she wants it.
 
-[![t=02:24 — the woman in white stays draped over the second woman, her mouth working at the second ...](../../media/annie-alexis-frames/frame-036.jpg)](../../media/annie-alexis-frames/frame-036.jpg)
+[![t=02:24 — the woman in white stays draped over her, mouth working the second woman's tits; the se...](../../media/annie-alexis-frames/frame-036.jpg)](../../media/annie-alexis-frames/frame-036.jpg)
 
-t=02:40 — the second woman stays reclined, arms folded behind her head, while the woman in white remains draped across her with her mouth on her chest; a slow, unhurried oral session, legs and blankets tangled. No genitalia visible.
+t=02:40 — slow and unhurried: the second woman reclined, arms behind her head, while the woman in white stays draped across her with her mouth on her tits. Legs and blankets tangled.
 
-[![t=02:40 — the second woman stays reclined, arms folded behind her head, while the woman in white ...](../../media/annie-alexis-frames/frame-037.jpg)](../../media/annie-alexis-frames/frame-037.jpg)
+[![t=02:40 — slow and unhurried: the second woman reclined, arms behind her head, while the woman in...](../../media/annie-alexis-frames/frame-037.jpg)](../../media/annie-alexis-frames/frame-037.jpg)
 
-t=02:56 — the woman in white climbs back up the bed and presses her mouth to the second woman's, straddling her hips under the bunched blanket; bare back to the camera, the second woman's legs stretched out beside her. No genitalia visible.
+t=02:56 — the woman in white climbs back up and plants her mouth on the second woman's, straddling her hips under the bunched blanket. Bare back to the camera, the second woman's legs stretched out beside her.
 
-[![t=02:56 — the woman in white climbs back up the bed and presses her mouth to the second woman's, ...](../../media/annie-alexis-frames/frame-038.jpg)](../../media/annie-alexis-frames/frame-038.jpg)
+[![t=02:56 — the woman in white climbs back up and plants her mouth on the second woman's, straddlin...](../../media/annie-alexis-frames/frame-038.jpg)](../../media/annie-alexis-frames/frame-038.jpg)
 
-t=03:12 — the woman in white is fully on top of the second woman now, kissing her deep, her bare back arched over the second woman's body; the blanket is kicked down around their hips, legs entwined. No genitalia visible.
+t=03:12 — the woman in white is fully on top now, kissing her deep, bare back arched over the second woman's body. The blanket's kicked down around their hips, legs entwined.
 
-[![t=03:12 — the woman in white is fully on top of the second woman now, kissing her deep, her bare ...](../../media/annie-alexis-frames/frame-039.jpg)](../../media/annie-alexis-frames/frame-039.jpg)
+[![t=03:12 — the woman in white is fully on top now, kissing her deep, bare back arched over the sec...](../../media/annie-alexis-frames/frame-039.jpg)](../../media/annie-alexis-frames/frame-039.jpg)
 
-t=03:28 — the woman in white rides on top of the second woman, kissing her hard, her bare ass peeking above the blanket as she grinds down on her; the second woman's legs are spread wide beneath her. No genitalia exposed to the camera.
+t=03:28 — the woman in white rides on top, kissing her hard, bare ass peeking above the blanket as she grinds her pussy down on her. The second woman's legs are spread wide underneath her.
 
-[![t=03:28 — the woman in white rides on top of the second woman, kissing her hard, her bare ass pee...](../../media/annie-alexis-frames/frame-040.jpg)](../../media/annie-alexis-frames/frame-040.jpg)
+[![t=03:28 — the woman in white rides on top, kissing her hard, bare ass peeking above the blanket a...](../../media/annie-alexis-frames/frame-040.jpg)](../../media/annie-alexis-frames/frame-040.jpg)
 
-t=03:44 — the woman in white keeps riding on top, mouths locked with the second woman, her bare back and ass fully out of the blanket as she grinds against her; the second woman wraps her legs around her hips. No genitalia visible.
+t=03:44 — she keeps riding, mouths locked, her bare back and ass fully out of the blanket now, grinding her pussy against her. The second woman wraps her legs around her hips and holds on.
 
-[![t=03:44 — the woman in white keeps riding on top, mouths locked with the second woman, her bare b...](../../media/annie-alexis-frames/frame-041.jpg)](../../media/annie-alexis-frames/frame-041.jpg)
+[![t=03:44 — she keeps riding, mouths locked, her bare back and ass fully out of the blanket now, gr...](../../media/annie-alexis-frames/frame-041.jpg)](../../media/annie-alexis-frames/frame-041.jpg)
 
-t=04:00 — the woman in white grinds on top of the second woman, her bare ass square to the camera as she kisses down at her; the second woman's legs are spread open beneath her under the blanket. Buttocks visible, no genitalia exposed.
+t=04:00 — the woman in white grinds on top with her bare ass square to the camera, kissing down at her, her pussy pressed down onto the second woman. The second woman's legs are spread open under the blanket beneath her.
 
-[![t=04:00 — the woman in white grinds on top of the second woman, her bare ass square to the camera...](../../media/annie-alexis-frames/frame-042.jpg)](../../media/annie-alexis-frames/frame-042.jpg)
+[![t=04:00 — the woman in white grinds on top with her bare ass square to the camera, kissing down a...](../../media/annie-alexis-frames/frame-042.jpg)](../../media/annie-alexis-frames/frame-042.jpg)
 
-t=04:16 — the woman in white is fully naked now, standing over the bed and looking down at the second woman, who reclines on the pillows in the red top; the naked woman's hand trails down her own thigh, about to climb back onto the bed. No genitalia clearly visible.
+t=04:16 — the woman in white is fully naked now, standing over the bed looking down at the second woman, who's still reclined on the pillows in the red top. Her hand trails down her own thigh — she's about to climb back on.
 
-[![t=04:16 — the woman in white is fully naked now, standing over the bed and looking down at the se...](../../media/annie-alexis-frames/frame-043.jpg)](../../media/annie-alexis-frames/frame-043.jpg)
+[![t=04:16 — the woman in white is fully naked now, standing over the bed looking down at the second...](../../media/annie-alexis-frames/frame-043.jpg)](../../media/annie-alexis-frames/frame-043.jpg)
 
-t=04:32 — the naked woman in white is back on top, straddling the second woman's hips, her bare ass facing the camera as she kisses and grinds on her; the second woman's legs are splayed open under her. No genitalia visible.
+t=04:32 — the naked woman in white is back on top, straddling the second woman's hips, bare ass to the camera, kissing and grinding her pussy down on her. The second woman's legs splayed open under her.
 
-[![t=04:32 — the naked woman in white is back on top, straddling the second woman's hips, her bare a...](../../media/annie-alexis-frames/frame-044.jpg)](../../media/annie-alexis-frames/frame-044.jpg)
+[![t=04:32 — the naked woman in white is back on top, straddling the second woman's hips, bare ass t...](../../media/annie-alexis-frames/frame-044.jpg)](../../media/annie-alexis-frames/frame-044.jpg)
 
-t=04:48 — the naked woman in white stays mounted on the second woman, grinding her bare ass down on her while kissing her; the second woman's bent leg kicks up beside them. No genitalia visible.
+t=04:48 — she stays mounted, grinding her bare pussy down on the second woman while they kiss; the second woman's bent leg kicks up beside them.
 
-[![t=04:48 — the naked woman in white stays mounted on the second woman, grinding her bare ass down ...](../../media/annie-alexis-frames/frame-045.jpg)](../../media/annie-alexis-frames/frame-045.jpg)
+[![t=04:48 — she stays mounted, grinding her bare pussy down on the second woman while they kiss; th...](../../media/annie-alexis-frames/frame-045.jpg)](../../media/annie-alexis-frames/frame-045.jpg)
 
-t=05:04 — the camera view flips; the naked woman in white stands astride the second woman's hips, looking down at her with her hand on the second woman's shoulder, about to lower herself onto her face or lap; the second woman lies back, hand at her own mouth. No genitalia clearly visible.
+t=05:04 — the naked woman in white stands astride the second woman's hips, hand on her shoulder, looking down at her — about to lower her pussy onto the second woman's face. The second woman lies back, hand at her own mouth, waiting.
 
-[![t=05:04 — the camera view flips; the naked woman in white stands astride the second woman's hips,...](../../media/annie-alexis-frames/frame-046.jpg)](../../media/annie-alexis-frames/frame-046.jpg)
+[![t=05:04 — the naked woman in white stands astride the second woman's hips, hand on her shoulder, ...](../../media/annie-alexis-frames/frame-046.jpg)](../../media/annie-alexis-frames/frame-046.jpg)
 
-t=05:20 — both women naked now; the second woman lies on her back with her knees up while the woman in white spoons in behind her, one hand buried between the second woman's legs fingering her pussy, the second woman's other leg kicked up in the air. The hand covers the genitals; no vulva clearly visible.
+t=05:20 — both naked now. The second woman's on her back with her knees up while the woman in white spoons in behind her, hand buried between her legs, fingers inside her pussy, working her; the second woman's other leg kicked up in the air.
 
-[![t=05:20 — both women naked now; the second woman lies on her back with her knees up while the wom...](../../media/annie-alexis-frames/frame-047.jpg)](../../media/annie-alexis-frames/frame-047.jpg)
+[![t=05:20 — both naked now. The second woman's on her back with her knees up while the woman in whi...](../../media/annie-alexis-frames/frame-047.jpg)](../../media/annie-alexis-frames/frame-047.jpg)
 
-t=05:36 — both naked and scissoring now, legs interlocked; the woman in white lies on her back with her legs hooked up while the second woman presses between them, pussies grinding together, mouths meeting over the tangle of limbs. Genitals pressed together, none clearly visible.
+t=05:36 — scissoring: both naked, legs interlocked, the woman in white on her back with her legs hooked up while the second woman presses between them — pussies grinding together, mouths meeting over the tangle of limbs.
 
-[![t=05:36 — both naked and scissoring now, legs interlocked; the woman in white lies on her back wi...](../../media/annie-alexis-frames/frame-048.jpg)](../../media/annie-alexis-frames/frame-048.jpg)
+[![t=05:36 — scissoring: both naked, legs interlocked, the woman in white on her back with her legs ...](../../media/annie-alexis-frames/frame-048.jpg)](../../media/annie-alexis-frames/frame-048.jpg)
 
-t=05:52 — the woman in white sprawls on her back with one leg kicked straight up in the air while the second woman buries her face between her spread thighs, eating her pussy; her other leg hooks around the second woman's shoulder. The second woman's head covers the genitals; no vulva clearly visible.
+t=05:52 — the woman in white sprawls on her back, one leg kicked straight up in the air, while the second woman buries her face between her spread thighs, mouth on her pussy, eating her out. Her other leg hooks around the second woman's shoulder.
 
-[![t=05:52 — the woman in white sprawls on her back with one leg kicked straight up in the air while...](../../media/annie-alexis-frames/frame-049.jpg)](../../media/annie-alexis-frames/frame-049.jpg)
+[![t=05:52 — the woman in white sprawls on her back, one leg kicked straight up in the air, while th...](../../media/annie-alexis-frames/frame-049.jpg)](../../media/annie-alexis-frames/frame-049.jpg)
 
-t=06:08 — full 69 now: the woman in white is on all fours over the second woman with her mouth on her pussy while the second woman's head is tucked under the white-clad woman's ass, eating her out in return; both working each other's pussies at once. No genitalia clearly visible to the camera.
+t=06:08 — full 69: the woman in white on all fours over the second woman, mouth on her pussy, while the second woman's head is tucked under her ass, eating her out right back. Both working each other at once.
 
-[![t=06:08 — full 69 now: the woman in white is on all fours over the second woman with her mouth on...](../../media/annie-alexis-frames/frame-050.jpg)](../../media/annie-alexis-frames/frame-050.jpg)
+[![t=06:08 — full 69: the woman in white on all fours over the second woman, mouth on her pussy, whi...](../../media/annie-alexis-frames/frame-050.jpg)](../../media/annie-alexis-frames/frame-050.jpg)
 
-t=06:24 — the 69 rotates: the dark-haired second woman is on top now, her bare ass to the camera, head buried between the woman in white's legs eating her out while the woman in white returns the favor from below, her hands gripping the second woman's head. No genitalia clearly visible.
+t=06:24 — the 69 rotates: the dark-haired second woman's on top now, bare ass to the camera, head buried between the woman in white's legs with her tongue on her pussy, while the woman in white returns the favor from below, hands gripping the second woman's head.
 
-[![t=06:24 — the 69 rotates: the dark-haired second woman is on top now, her bare ass to the camera,...](../../media/annie-alexis-frames/frame-051.jpg)](../../media/annie-alexis-frames/frame-051.jpg)
+[![t=06:24 — the 69 rotates: the dark-haired second woman's on top now, bare ass to the camera, head...](../../media/annie-alexis-frames/frame-051.jpg)](../../media/annie-alexis-frames/frame-051.jpg)
 
-t=06:40 — the 69 goes on, the second woman on top with her bare ass toward the camera, face planted between the woman in white's thighs; the woman in white lies back with her hands on the second woman's head, pulling her deeper into her pussy. No genitalia clearly visible.
+t=06:40 — the 69 rolls on, the second woman on top, bare ass to the camera, face planted between the woman in white's thighs, tongue working her pussy. The woman in white lies back with her hands on the second woman's head, pulling her deeper into her pussy.
 
-[![t=06:40 — the 69 goes on, the second woman on top with her bare ass toward the camera, face plant...](../../media/annie-alexis-frames/frame-052.jpg)](../../media/annie-alexis-frames/frame-052.jpg)
+[![t=06:40 — the 69 rolls on, the second woman on top, bare ass to the camera, face planted between ...](../../media/annie-alexis-frames/frame-052.jpg)](../../media/annie-alexis-frames/frame-052.jpg)
 
-t=06:56 — the second woman is parked between the woman in white's spread legs, tongue on her pussy; the woman in white lies back on the pillows with her mouth open, one hand pressed on the second woman's head, her other leg hooked around her. No genitalia clearly visible.
+t=06:56 — the second woman's parked between the woman in white's spread legs, tongue on her pussy; the woman in white lies back on the pillows, mouth open, one hand pressed on the second woman's head, the other leg hooked around her.
 
-[![t=06:56 — the second woman is parked between the woman in white's spread legs, tongue on her puss...](../../media/annie-alexis-frames/frame-053.jpg)](../../media/annie-alexis-frames/frame-053.jpg)
+[![t=06:56 — the second woman's parked between the woman in white's spread legs, tongue on her pussy...](../../media/annie-alexis-frames/frame-053.jpg)](../../media/annie-alexis-frames/frame-053.jpg)
 
-t=07:12 — the 69 rolls on: the second woman's bare ass is toward the camera as her head works between the woman in white's legs; the woman in white lies back, hand on the second woman's head, mouth open. No genitalia clearly visible.
+t=07:12 — the 69 rolls on: the second woman's bare ass toward the camera, her head working between the woman in white's legs, tongue in her pussy; the woman in white lies back, hand on her head, mouth open.
 
-[![t=07:12 — the 69 rolls on: the second woman's bare ass is toward the camera as her head works bet...](../../media/annie-alexis-frames/frame-054.jpg)](../../media/annie-alexis-frames/frame-054.jpg)
+[![t=07:12 — the 69 rolls on: the second woman's bare ass toward the camera, her head working betwee...](../../media/annie-alexis-frames/frame-054.jpg)](../../media/annie-alexis-frames/frame-054.jpg)
 
-t=07:28 — still locked in the 69, the second woman's head buried between the woman in white's thighs licking her pussy while the woman in white's mouth works the second woman from below; the second woman's bare ass is toward the camera, the woman in white gripping her head. No genitalia clearly visible.
+t=07:28 — still locked in the 69, the second woman's head buried between the woman in white's thighs, licking her pussy, while the woman in white's mouth works her pussy from below. The second woman's bare ass to the camera, the woman in white gripping her head.
 
 [![t=07:28 — still locked in the 69, the second woman's head buried between the woman in white's thi...](../../media/annie-alexis-frames/frame-055.jpg)](../../media/annie-alexis-frames/frame-055.jpg)
 
-t=07:44 — the 69 breaks apart; the dark-haired second woman kneels up on the bed running her hand through her hair while the woman in white lies back on the pillows laughing, legs bent, catching her breath. No genitalia clearly visible.
+t=07:44 — the 69 breaks apart; the dark-haired second woman kneels up, running a hand through her hair, while the woman in white lies back on the pillows laughing, legs bent, catching her breath.
 
-[![t=07:44 — the 69 breaks apart; the dark-haired second woman kneels up on the bed running her hand...](../../media/annie-alexis-frames/frame-056.jpg)](../../media/annie-alexis-frames/frame-056.jpg)
+[![t=07:44 — the 69 breaks apart; the dark-haired second woman kneels up, running a hand through her...](../../media/annie-alexis-frames/frame-056.jpg)](../../media/annie-alexis-frames/frame-056.jpg)
 
-t=08:00 — a breather: the second woman kneels upright gathering her hair up with both hands while the woman in white lies back on the pillows, legs splayed, hand trailing over her own tits and stomach, smiling. No genitalia clearly visible.
+t=08:00 — a breather: the second woman kneels upright, gathering her hair up with both hands, while the woman in white lies back on the pillows, legs splayed, hand trailing over her own tits and stomach, smiling.
 
-[![t=08:00 — a breather: the second woman kneels upright gathering her hair up with both hands while...](../../media/annie-alexis-frames/frame-057.jpg)](../../media/annie-alexis-frames/frame-057.jpg)
+[![t=08:00 — a breather: the second woman kneels upright, gathering her hair up with both hands, whi...](../../media/annie-alexis-frames/frame-057.jpg)](../../media/annie-alexis-frames/frame-057.jpg)
 
-t=08:16 — the second woman crawls on all fours over the woman in white, her bare ass toward the camera, moving in to straddle her; the woman in white lies back with her legs open, hands on her own chest, waiting. No genitalia clearly visible.
+t=08:16 — the second woman crawls on all fours over the woman in white, bare ass to the camera, moving in to straddle her. The woman in white lies back, legs open, hands on her own chest, waiting.
 
-[![t=08:16 — the second woman crawls on all fours over the woman in white, her bare ass toward the c...](../../media/annie-alexis-frames/frame-058.jpg)](../../media/annie-alexis-frames/frame-058.jpg)
+[![t=08:16 — the second woman crawls on all fours over the woman in white, bare ass to the camera, m...](../../media/annie-alexis-frames/frame-058.jpg)](../../media/annie-alexis-frames/frame-058.jpg)
 
-t=08:32 — the second woman stands crouched over the bed reaching toward the nightstand, pausing the action, while the woman in white lies on her side with her knees drawn up, hand on her chest, watching her. No genitalia clearly visible.
+t=08:32 — the second woman stands crouched over the bed, reaching for the nightstand — a pause in the action — while the woman in white lies on her side, knees drawn up, hand on her chest, watching her.
 
-[![t=08:32 — the second woman stands crouched over the bed reaching toward the nightstand, pausing t...](../../media/annie-alexis-frames/frame-059.jpg)](../../media/annie-alexis-frames/frame-059.jpg)
+[![t=08:32 — the second woman stands crouched over the bed, reaching for the nightstand — a pause in...](../../media/annie-alexis-frames/frame-059.jpg)](../../media/annie-alexis-frames/frame-059.jpg)
 
-t=08:48 — the second woman stands naked at the side of the bed, hand at her chest, looking down at the woman in white, who lies sprawled on the bed with her knees up, hands folded on her chest, smiling up at her. No genitalia clearly visible.
+t=08:48 — the second woman stands naked at the side of the bed, hand at her chest, looking down at the woman in white, who's sprawled with her knees up, hands folded on her chest, smiling up at her.
 
 [![t=08:48 — the second woman stands naked at the side of the bed, hand at her chest, looking down a...](../../media/annie-alexis-frames/frame-060.jpg)](../../media/annie-alexis-frames/frame-060.jpg)
 
-t=09:04 — the second woman stands naked at the foot of the bed holding a phone, filming or checking it, while the woman in white lies back on the bed with her legs spread open, one arm draped over her head, spent and smiling. No genitalia clearly visible.
+t=09:04 — the second woman stands naked at the foot of the bed holding a phone, filming or checking it, while the woman in white lies back, legs spread open, one arm draped over her head. Spent and smiling.
 
 [![t=09:04 — the second woman stands naked at the foot of the bed holding a phone, filming or checki...](../../media/annie-alexis-frames/frame-061.jpg)](../../media/annie-alexis-frames/frame-061.jpg)
 
@@ -344,207 +344,207 @@ t=09:04 — the second woman stands naked at the foot of the bed holding a phone
 
 13m42s. A slow morning-after scene that only turns sexual near t≈08:51, when Annie climbs onto Alexis and they start making out — topless lounging and laughing before that, no oral, no manual genital contact, no visible genitalia in any frame. Note: the camera's on-screen overlays read 11-06-2018 (10:55–11:08 AM), almost certainly a mis-set camera clock; the footage is dated 12-06-2018 by Dan's upload and testimony.
 
-t=00:00 — Annie lies back against the pillows topless, one arm flung over her forehead, the sheet pulled down to her waist with her tits bare; Alexis stands by the dresser in her red robe, hands held up near her chest. They're awake, talking, nothing physical yet.
+t=00:00 — Annie's sprawled flat on the pillows, topless, one arm flung over her forehead, sheet down at her waist so her tits are fully out to the camera. Alexis is still up by the dresser in the red robe, hands up by her chest. They're awake and talking; no touching yet.
 
-[![t=00:00 — Annie lies back against the pillows topless, one arm flung over her forehead, the sheet...](../../media/annie-alexis-frames/frame-062.jpg)](../../media/annie-alexis-frames/frame-062.jpg)
+[![t=00:00 — Annie's sprawled flat on the pillows, topless, one arm flung over her forehead, sheet d...](../../media/annie-alexis-frames/frame-062.jpg)](../../media/annie-alexis-frames/frame-062.jpg)
 
-t=00:16 — Alexis has sat down on the edge of the bed with her bare back to the camera, the red robe pooled around her hips, tits out; Annie stays sprawled on the pillows with her arm over her eyes. Still just talking.
+t=00:16 — Alexis is on the edge of the bed, bare back to the camera, red robe pooled at her hips, her tits out in front. Annie's still flat on the pillows with her arm over her eyes. Still just talking, no contact.
 
-[![t=00:16 — Alexis has sat down on the edge of the bed with her bare back to the camera, the red ro...](../../media/annie-alexis-frames/frame-063.jpg)](../../media/annie-alexis-frames/frame-063.jpg)
+[![t=00:16 — Alexis is on the edge of the bed, bare back to the camera, red robe pooled at her hips,...](../../media/annie-alexis-frames/frame-063.jpg)](../../media/annie-alexis-frames/frame-063.jpg)
 
-t=00:32 — Alexis sits on the bed facing the closet, topless, the red robe bunched around her waist; Annie lies flat with a hand over her face. Casual morning-after sprawl, no contact.
+t=00:32 — Alexis sits up facing the closet, topless, red robe bunched at her waist. Annie's flat on her back with a hand over her face. Morning-after sprawl — nobody touching anybody.
 
-[![t=00:32 — Alexis sits on the bed facing the closet, topless, the red robe bunched around her wais...](../../media/annie-alexis-frames/frame-064.jpg)](../../media/annie-alexis-frames/frame-064.jpg)
+[![t=00:32 — Alexis sits up facing the closet, topless, red robe bunched at her waist. Annie's flat ...](../../media/annie-alexis-frames/frame-064.jpg)](../../media/annie-alexis-frames/frame-064.jpg)
 
-t=00:48 — Same positions: Alexis perched on the bed bare-backed in the red robe, Annie reclined on the pillows with her forearm across her face. Nobody's touched anybody yet.
+t=00:48 — Same as the last beat — Alexis perched on the bed, bare back in the red robe, Annie reclined with her forearm across her face. Nobody's touched anybody yet.
 
-[![t=00:48 — Same positions: Alexis perched on the bed bare-backed in the red robe, Annie reclined o...](../../media/annie-alexis-frames/frame-065.jpg)](../../media/annie-alexis-frames/frame-065.jpg)
+[![t=00:48 — Same as the last beat — Alexis perched on the bed, bare back in the red robe, Annie rec...](../../media/annie-alexis-frames/frame-065.jpg)](../../media/annie-alexis-frames/frame-065.jpg)
 
-t=01:04 — Alexis stretches out full-length on the bed next to Annie, red robe still on, legs extended toward the dresser; Annie stays buried in the sheets beside her. Both awake, still just lying there talking.
+t=01:04 — Alexis stretches out full-length next to Annie, red robe still on, legs extended toward the dresser. Annie's half-buried in the sheets beside her. Both awake, just lying there talking.
 
-[![t=01:04 — Alexis stretches out full-length on the bed next to Annie, red robe still on, legs exte...](../../media/annie-alexis-frames/frame-066.jpg)](../../media/annie-alexis-frames/frame-066.jpg)
+[![t=01:04 — Alexis stretches out full-length next to Annie, red robe still on, legs extended toward...](../../media/annie-alexis-frames/frame-066.jpg)](../../media/annie-alexis-frames/frame-066.jpg)
 
-t=01:21 — Alexis flops back onto the pillows beside Annie, knees bent, the red robe rucked around her waist, laughing with her hand at her mouth; Annie stays sprawled with her arm over her forehead. Still all talk, tits out on both of them.
+t=01:21 — Alexis flops back onto the pillows beside Annie, knees bent, red robe rucked up around her waist, laughing with her hand at her mouth. Annie's still sprawled with her arm over her forehead. Tits out on both of them, still all talk, no hands on each other.
 
-[![t=01:21 — Alexis flops back onto the pillows beside Annie, knees bent, the red robe rucked around...](../../media/annie-alexis-frames/frame-067.jpg)](../../media/annie-alexis-frames/frame-067.jpg)
+[![t=01:21 — Alexis flops back onto the pillows beside Annie, knees bent, red robe rucked up around ...](../../media/annie-alexis-frames/frame-067.jpg)](../../media/annie-alexis-frames/frame-067.jpg)
 
-t=01:37 — Alexis lounges with her knees up, holding something small up near her face and laughing; Annie lies beside her with her forearm over her eyes. Lazy naked morning, nobody touching anybody yet.
+t=01:37 — Alexis lounges with her knees up, holding something small up by her face, laughing. Annie's got her forearm over her eyes beside her. Lazy naked morning, nobody touching anybody yet.
 
-[![t=01:37 — Alexis lounges with her knees up, holding something small up near her face and laughing...](../../media/annie-alexis-frames/frame-068.jpg)](../../media/annie-alexis-frames/frame-068.jpg)
+[![t=01:37 — Alexis lounges with her knees up, holding something small up by her face, laughing. Ann...](../../media/annie-alexis-frames/frame-068.jpg)](../../media/annie-alexis-frames/frame-068.jpg)
 
-t=01:53 — Alexis kicks her legs up in the air, ankles crossed, laughing hard with the red robe bunched at her waist; Annie watches her from the pillows. Her crotch stays covered by the bunched robe — no pussy visible.
+t=01:53 — Alexis kicks her legs straight up in the air, ankles crossed, laughing hard, red robe bunched at her waist. Annie watches from the pillows. The robe keeps Alexis's pussy covered — nothing showing down there.
 
-[![t=01:53 — Alexis kicks her legs up in the air, ankles crossed, laughing hard with the red robe bu...](../../media/annie-alexis-frames/frame-069.jpg)](../../media/annie-alexis-frames/frame-069.jpg)
+[![t=01:53 — Alexis kicks her legs straight up in the air, ankles crossed, laughing hard, red robe b...](../../media/annie-alexis-frames/frame-069.jpg)](../../media/annie-alexis-frames/frame-069.jpg)
 
-t=02:09 — Same beat: Alexis's legs still up and crossed at the ankles, robe bunched around her hips, laughing; Annie lies next to her half under the sheet. Playful, not sexual yet.
+t=02:09 — Same beat — Alexis's legs still up, crossed at the ankles, robe bunched at her hips, laughing. Annie's half under the sheet next to her. Playful, nothing sexual yet.
 
-[![t=02:09 — Same beat: Alexis's legs still up and crossed at the ankles, robe bunched around her hi...](../../media/annie-alexis-frames/frame-070.jpg)](../../media/annie-alexis-frames/frame-070.jpg)
+[![t=02:09 — Same beat — Alexis's legs still up, crossed at the ankles, robe bunched at her hips, la...](../../media/annie-alexis-frames/frame-070.jpg)](../../media/annie-alexis-frames/frame-070.jpg)
 
-t=02:25 — Alexis keeps her legs kicked up, feet flexed, grinning; Annie has rolled slightly toward her. The robe still covers Alexis's crotch. Nothing exposed, just the two of them laughing in bed.
+t=02:25 — Alexis keeps her legs kicked up, feet flexed, grinning. Annie's rolled a little toward her. The robe still covers Alexis's pussy. Just the two of them laughing in bed.
 
-[![t=02:25 — Alexis keeps her legs kicked up, feet flexed, grinning; Annie has rolled slightly towar...](../../media/annie-alexis-frames/frame-071.jpg)](../../media/annie-alexis-frames/frame-071.jpg)
+[![t=02:25 — Alexis keeps her legs kicked up, feet flexed, grinning. Annie's rolled a little toward ...](../../media/annie-alexis-frames/frame-071.jpg)](../../media/annie-alexis-frames/frame-071.jpg)
 
-t=02:41 — Alexis reclines with her feet kicked up toward the closet, the red robe rucked around her waist, hand near her mouth; Annie sprawls half under the sheet. The robe keeps Alexis's crotch covered — no pussy visible.
+t=02:41 — Alexis reclines with her feet kicked up toward the closet, red robe rucked around her waist, hand near her mouth. Annie sprawls half under the sheet. The robe keeps her pussy covered.
 
-[![t=02:41 — Alexis reclines with her feet kicked up toward the closet, the red robe rucked around h...](../../media/annie-alexis-frames/frame-072.jpg)](../../media/annie-alexis-frames/frame-072.jpg)
+[![t=02:41 — Alexis reclines with her feet kicked up toward the closet, red robe rucked around her w...](../../media/annie-alexis-frames/frame-072.jpg)](../../media/annie-alexis-frames/frame-072.jpg)
 
-t=02:57 — Alexis stretches her legs out toward the dresser, feet crossed, robe bunched at her hips; Annie lies with her forearm over her forehead. Both naked-ish and laughing, still no contact.
+t=02:57 — Alexis stretches her legs out toward the dresser, feet crossed, robe bunched at her hips. Annie's got her forearm over her forehead. Both naked-ish and laughing, still no contact.
 
 [![t=02:57 — Alexis stretches her legs out toward the dresser, feet crossed, robe bunched at her hip...](../../media/annie-alexis-frames/frame-073.jpg)](../../media/annie-alexis-frames/frame-073.jpg)
 
-t=03:13 — Alexis lounges back with her legs extended, the red robe pooled around her waist; Annie stays buried in the sheets beside her with an arm flung over her head. Lazy, loose, nothing sexual happening yet.
+t=03:13 — Alexis lounges back, legs extended, red robe pooled at her waist. Annie's buried in the sheets beside her with an arm flung over her head. Lazy and loose, nothing sexual yet.
 
-[![t=03:13 — Alexis lounges back with her legs extended, the red robe pooled around her waist; Annie...](../../media/annie-alexis-frames/frame-074.jpg)](../../media/annie-alexis-frames/frame-074.jpg)
+[![t=03:13 — Alexis lounges back, legs extended, red robe pooled at her waist. Annie's buried in the...](../../media/annie-alexis-frames/frame-074.jpg)](../../media/annie-alexis-frames/frame-074.jpg)
 
-t=03:29 — Alexis pulls her knees up, feet braced near the closet, thighs parted with the robe bunched at her hips; Annie watches from the pillows. Her crotch stays hidden behind the bunched robe — nothing exposed.
+t=03:29 — Alexis pulls her knees up, feet braced, thighs parted, robe bunched at her hips. Annie watches from the pillows. Alexis's pussy stays hidden behind the robe.
 
-[![t=03:29 — Alexis pulls her knees up, feet braced near the closet, thighs parted with the robe bun...](../../media/annie-alexis-frames/frame-075.jpg)](../../media/annie-alexis-frames/frame-075.jpg)
+[![t=03:29 — Alexis pulls her knees up, feet braced, thighs parted, robe bunched at her hips. Annie ...](../../media/annie-alexis-frames/frame-075.jpg)](../../media/annie-alexis-frames/frame-075.jpg)
 
-t=03:45 — Alexis kicks her legs back up in the air, ankles crossed, laughing with her arm behind her head; Annie lies beside her with an arm over her face. Robe still covers her pussy.
+t=03:45 — Alexis kicks her legs back up in the air, ankles crossed, laughing with her arm behind her head. Annie's got an arm over her face beside her. The robe still covers her pussy.
 
 [![t=03:45 — Alexis kicks her legs back up in the air, ankles crossed, laughing with her arm behind ...](../../media/annie-alexis-frames/frame-076.jpg)](../../media/annie-alexis-frames/frame-076.jpg)
 
-t=04:02 — Alexis kicks her legs up and crosses them in the air, laughing, robe bunched at her waist; Annie stretches an arm out toward her. The robe still hides her crotch — no pussy visible.
+t=04:02 — Alexis kicks her legs up and crosses them in the air, laughing, robe bunched at her waist. Annie stretches an arm out toward her. Her pussy stays hidden.
 
 [![t=04:02 — Alexis kicks her legs up and crosses them in the air, laughing, robe bunched at her wai...](../../media/annie-alexis-frames/frame-077.jpg)](../../media/annie-alexis-frames/frame-077.jpg)
 
-t=04:18 — Both stretched out now: Alexis's legs extended toward the dresser, Annie rolled in close with her head near Alexis's chest, half under the sheet. Intimate but not sexual yet — no genitalia exposed.
+t=04:18 — Both stretched out now — Alexis's legs extended toward the dresser, Annie rolled in close with her head near Alexis's chest, half under the sheet. Intimate body contact, but nothing sexual yet.
 
-[![t=04:18 — Both stretched out now: Alexis's legs extended toward the dresser, Annie rolled in clos...](../../media/annie-alexis-frames/frame-078.jpg)](../../media/annie-alexis-frames/frame-078.jpg)
+[![t=04:18 — Both stretched out now — Alexis's legs extended toward the dresser, Annie rolled in clo...](../../media/annie-alexis-frames/frame-078.jpg)](../../media/annie-alexis-frames/frame-078.jpg)
 
-t=04:34 — Alexis throws her legs up wide, one foot braced high near the closet, thighs spread with the robe rucked at her waist; Annie stays tucked against her side. The bunched robe keeps her pussy covered at this angle.
+t=04:34 — Alexis throws her legs wide, one foot braced high, thighs spread, robe rucked at her waist. Annie's tucked against her side. At this angle the bunched robe still keeps Alexis's pussy covered.
 
-[![t=04:34 — Alexis throws her legs up wide, one foot braced high near the closet, thighs spread wit...](../../media/annie-alexis-frames/frame-079.jpg)](../../media/annie-alexis-frames/frame-079.jpg)
+[![t=04:34 — Alexis throws her legs wide, one foot braced high, thighs spread, robe rucked at her wa...](../../media/annie-alexis-frames/frame-079.jpg)](../../media/annie-alexis-frames/frame-079.jpg)
 
-t=04:50 — Alexis settles with her legs stretched out along the bed, feet bare on the sheets, robe pooled at her hips; Annie lies pressed close beside her. Relaxed cuddle sprawl, nothing exposed.
+t=04:50 — Alexis settles with her legs stretched out along the bed, bare feet on the sheets, robe pooled at her hips. Annie lies pressed close beside her. Relaxed cuddle sprawl.
 
-[![t=04:50 — Alexis settles with her legs stretched out along the bed, feet bare on the sheets, robe...](../../media/annie-alexis-frames/frame-080.jpg)](../../media/annie-alexis-frames/frame-080.jpg)
+[![t=04:50 — Alexis settles with her legs stretched out along the bed, bare feet on the sheets, robe...](../../media/annie-alexis-frames/frame-080.jpg)](../../media/annie-alexis-frames/frame-080.jpg)
 
-t=05:06 — Alexis kicks a leg up again, foot flexed in the air, laughing with her hand at her mouth; Annie watches from the pillows. Robe bunched at her waist covers her crotch — no visible pussy.
+t=05:06 — Alexis kicks a leg up again, foot flexed in the air, laughing with her hand at her mouth. Annie watches from the pillows. The robe bunched at her waist covers her pussy.
 
 [![t=05:06 — Alexis kicks a leg up again, foot flexed in the air, laughing with her hand at her mout...](../../media/annie-alexis-frames/frame-081.jpg)](../../media/annie-alexis-frames/frame-081.jpg)
 
-t=05:22 — Alexis flops back with her feet kicked up and crossed in the air, laughing with her hand at her mouth; Annie lies beside her, hand on her own throat. Robe bunched at Alexis's waist keeps her pussy hidden.
+t=05:22 — Alexis flops back, feet kicked up and crossed in the air, laughing with her hand at her mouth. Annie lies beside her with a hand on her own throat. The robe at Alexis's waist keeps her pussy hidden.
 
-[![t=05:22 — Alexis flops back with her feet kicked up and crossed in the air, laughing with her han...](../../media/annie-alexis-frames/frame-082.jpg)](../../media/annie-alexis-frames/frame-082.jpg)
+[![t=05:22 — Alexis flops back, feet kicked up and crossed in the air, laughing with her hand at her...](../../media/annie-alexis-frames/frame-082.jpg)](../../media/annie-alexis-frames/frame-082.jpg)
 
-t=05:38 — Alexis sits up halfway and drinks from a water bottle, the red robe wrapped around her waist, legs stretched out; Annie lounges with an arm behind her head. Water break, nothing exposed.
+t=05:38 — Alexis sits up halfway and drinks from a water bottle, red robe wrapped around her waist, legs stretched out. Annie lounges with an arm behind her head. Water break — nothing sexual.
 
-[![t=05:38 — Alexis sits up halfway and drinks from a water bottle, the red robe wrapped around her ...](../../media/annie-alexis-frames/frame-083.jpg)](../../media/annie-alexis-frames/frame-083.jpg)
+[![t=05:38 — Alexis sits up halfway and drinks from a water bottle, red robe wrapped around her wais...](../../media/annie-alexis-frames/frame-083.jpg)](../../media/annie-alexis-frames/frame-083.jpg)
 
-t=05:54 — Alexis sits up more, bare back half to the camera, fiddling with the robe at her shoulder; Annie stays sprawled with her arm flung over her head. Her back and ass are bare but no genitalia visible.
+t=05:54 — Alexis sits up more, bare back half to the camera, fiddling with the robe at her shoulder. Annie stays sprawled with her arm over her head. Alexis's bare back and ass are out, but her pussy and tits stay hidden.
 
 [![t=05:54 — Alexis sits up more, bare back half to the camera, fiddling with the robe at her should...](../../media/annie-alexis-frames/frame-084.jpg)](../../media/annie-alexis-frames/frame-084.jpg)
 
-t=06:10 — Alexis drops back down and kicks her legs up again, one hand resting on her own thigh; Annie watches with an arm over her forehead. The bunched robe still covers her crotch.
+t=06:10 — Alexis drops back down and kicks her legs up again, one hand resting on her own thigh. Annie watches with an arm over her forehead. The bunched robe still covers her pussy.
 
-[![t=06:10 — Alexis drops back down and kicks her legs up again, one hand resting on her own thigh; ...](../../media/annie-alexis-frames/frame-085.jpg)](../../media/annie-alexis-frames/frame-085.jpg)
+[![t=06:10 — Alexis drops back down and kicks her legs up again, one hand resting on her own thigh. ...](../../media/annie-alexis-frames/frame-085.jpg)](../../media/annie-alexis-frames/frame-085.jpg)
 
-t=06:26 — Alexis's legs stay up, ankles crossed, hand on her leg, grinning; Annie lies next to her with her arm over her head. Playful leg-waving, pussy still covered by the robe.
+t=06:26 — Alexis's legs stay up, ankles crossed, hand on her leg, grinning. Annie's got her arm over her head next to her. Playful leg-waving, pussy still covered.
 
-[![t=06:26 — Alexis's legs stay up, ankles crossed, hand on her leg, grinning; Annie lies next to he...](../../media/annie-alexis-frames/frame-086.jpg)](../../media/annie-alexis-frames/frame-086.jpg)
+[![t=06:26 — Alexis's legs stay up, ankles crossed, hand on her leg, grinning. Annie's got her arm o...](../../media/annie-alexis-frames/frame-086.jpg)](../../media/annie-alexis-frames/frame-086.jpg)
 
-t=06:43 — Alexis reclines with her knees bent up and slightly apart, the red robe bunched around her waist; Annie lies with her arm flung over her head. The robe keeps her pussy covered at this angle — nothing exposed.
+t=06:43 — Alexis reclines with her knees bent up and slightly apart, red robe bunched around her waist. Annie's arm is flung over her head. The robe keeps her pussy covered.
 
-[![t=06:43 — Alexis reclines with her knees bent up and slightly apart, the red robe bunched around ...](../../media/annie-alexis-frames/frame-087.jpg)](../../media/annie-alexis-frames/frame-087.jpg)
+[![t=06:43 — Alexis reclines with her knees bent up and slightly apart, red robe bunched around her ...](../../media/annie-alexis-frames/frame-087.jpg)](../../media/annie-alexis-frames/frame-087.jpg)
 
-t=06:59 — Alexis's knees stay up, legs crossed at the ankles, robe rucked at her hips; Annie sprawls beside her with an arm over her forehead. Still just lounging and laughing.
+t=06:59 — Alexis's knees stay up, legs crossed at the ankles, robe rucked at her hips. Annie sprawls beside her with an arm over her forehead. Still just lounging and laughing.
 
-[![t=06:59 — Alexis's knees stay up, legs crossed at the ankles, robe rucked at her hips; Annie spra...](../../media/annie-alexis-frames/frame-088.jpg)](../../media/annie-alexis-frames/frame-088.jpg)
+[![t=06:59 — Alexis's knees stay up, legs crossed at the ankles, robe rucked at her hips. Annie spra...](../../media/annie-alexis-frames/frame-088.jpg)](../../media/annie-alexis-frames/frame-088.jpg)
 
-t=07:15 — Alexis pulls her knees up with her feet flat on the bed, robe bunched at her waist; Annie lies next to her, half under the sheet. No contact, no exposure.
+t=07:15 — Alexis pulls her knees up, feet flat on the bed, robe bunched at her waist. Annie lies next to her, half under the sheet. No contact.
 
-[![t=07:15 — Alexis pulls her knees up with her feet flat on the bed, robe bunched at her waist; Ann...](../../media/annie-alexis-frames/frame-089.jpg)](../../media/annie-alexis-frames/frame-089.jpg)
+[![t=07:15 — Alexis pulls her knees up, feet flat on the bed, robe bunched at her waist. Annie lies ...](../../media/annie-alexis-frames/frame-089.jpg)](../../media/annie-alexis-frames/frame-089.jpg)
 
-t=07:31 — Same pose: Alexis with knees up together, feet planted, the red robe pooled at her hips; Annie with her arm over her head. Lazy naked sprawl, her crotch hidden by the robe.
+t=07:31 — Same pose — Alexis with knees up together, feet planted, red robe pooled at her hips. Annie with her arm over her head. Lazy naked sprawl, Alexis's pussy hidden by the robe.
 
-[![t=07:31 — Same pose: Alexis with knees up together, feet planted, the red robe pooled at her hips...](../../media/annie-alexis-frames/frame-090.jpg)](../../media/annie-alexis-frames/frame-090.jpg)
+[![t=07:31 — Same pose — Alexis with knees up together, feet planted, red robe pooled at her hips. A...](../../media/annie-alexis-frames/frame-090.jpg)](../../media/annie-alexis-frames/frame-090.jpg)
 
-t=07:47 — Alexis keeps her knees up, one hand resting near her own thigh, grinning; Annie stays sprawled beside her. Robe bunched at her waist covers her pussy — nothing visible.
+t=07:47 — Alexis keeps her knees up, one hand resting near her own thigh, grinning. Annie stays sprawled beside her. The robe bunched at her waist covers her pussy.
 
-[![t=07:47 — Alexis keeps her knees up, one hand resting near her own thigh, grinning; Annie stays s...](../../media/annie-alexis-frames/frame-091.jpg)](../../media/annie-alexis-frames/frame-091.jpg)
+[![t=07:47 — Alexis keeps her knees up, one hand resting near her own thigh, grinning. Annie stays s...](../../media/annie-alexis-frames/frame-091.jpg)](../../media/annie-alexis-frames/frame-091.jpg)
 
-t=08:03 — Alexis reclines with her knees up and crossed at the ankles, waving a hand as she talks, robe bunched at her waist; Annie lies with her arm over her head. Chatty, no contact.
+t=08:03 — Alexis reclines with her knees up, crossed at the ankles, waving a hand as she talks, robe bunched at her waist. Annie's got her arm over her head. Chatty, no contact.
 
-[![t=08:03 — Alexis reclines with her knees up and crossed at the ankles, waving a hand as she talks...](../../media/annie-alexis-frames/frame-092.jpg)](../../media/annie-alexis-frames/frame-092.jpg)
+[![t=08:03 — Alexis reclines with her knees up, crossed at the ankles, waving a hand as she talks, r...](../../media/annie-alexis-frames/frame-092.jpg)](../../media/annie-alexis-frames/frame-092.jpg)
 
-t=08:19 — Alexis sits up, bare back to the camera, leaning toward the nightstand reaching for something; the red robe hangs around her waist. Annie stays sprawled on the pillows. No genitalia visible.
+t=08:19 — Alexis sits up, bare back to the camera, leaning toward the nightstand reaching for something, red robe around her waist. Annie stays sprawled on the pillows.
 
 [![t=08:19 — Alexis sits up, bare back to the camera, leaning toward the nightstand reaching for som...](../../media/annie-alexis-frames/frame-093.jpg)](../../media/annie-alexis-frames/frame-093.jpg)
 
-t=08:35 — Alexis sits with her back to the camera, the robe wrapped around her waist, looking toward the closet; Annie lies with an arm flung over her forehead. Her back and ass are bare but nothing genital shows.
+t=08:35 — Alexis sits with her back to the camera, robe wrapped around her waist, looking toward the closet. Annie's got an arm flung over her forehead. Alexis's bare back and ass are out, but her pussy and tits stay hidden.
 
-[![t=08:35 — Alexis sits with her back to the camera, the robe wrapped around her waist, looking tow...](../../media/annie-alexis-frames/frame-094.jpg)](../../media/annie-alexis-frames/frame-094.jpg)
+[![t=08:35 — Alexis sits with her back to the camera, robe wrapped around her waist, looking toward ...](../../media/annie-alexis-frames/frame-094.jpg)](../../media/annie-alexis-frames/frame-094.jpg)
 
-t=08:51 — The energy shifts: Annie pushes up onto her knees and leans over Alexis, their faces close together kissing as Alexis's legs kick up in the air. First real contact — Annie's bare back to the camera, sheet slipping off her ass, no genitalia visible.
+t=08:51 — The energy shifts. Annie pushes up onto her knees and leans over Alexis, faces close, their mouths pressed together — and Alexis's legs kick up in the air. First real contact: mouths locked, making out. Annie's bare back to the camera, the sheet slipping off her ass.
 
-[![t=08:51 — The energy shifts: Annie pushes up onto her knees and leans over Alexis, their faces cl...](../../media/annie-alexis-frames/frame-095.jpg)](../../media/annie-alexis-frames/frame-095.jpg)
+[![t=08:51 — The energy shifts. Annie pushes up onto her knees and leans over Alexis, faces close, t...](../../media/annie-alexis-frames/frame-095.jpg)](../../media/annie-alexis-frames/frame-095.jpg)
 
-t=09:07 — Annie leans in over Alexis, mouths on each other, Annie's bare back and the sheet sliding off her; Alexis lies back with her legs stretched out under her. Full makeout underway, no pussy or dick visible.
+t=09:07 — Annie leans in over Alexis, mouths locked, Annie's bare back to the camera with the sheet sliding off her. Alexis lies back with her legs stretched out under her. Full makeout underway.
 
-[![t=09:07 — Annie leans in over Alexis, mouths on each other, Annie's bare back and the sheet slidi...](../../media/annie-alexis-frames/frame-096.jpg)](../../media/annie-alexis-frames/frame-096.jpg)
+[![t=09:07 — Annie leans in over Alexis, mouths locked, Annie's bare back to the camera with the she...](../../media/annie-alexis-frames/frame-096.jpg)](../../media/annie-alexis-frames/frame-096.jpg)
 
-t=09:24 — Rotated angle: Annie is on top leaning over Alexis, kissing her, with Alexis on her back and her legs spread wide; the red robe is bunched at Alexis's hips. Her crotch stays covered by the bunched robe — no clear pussy visible.
+t=09:24 — Annie's on top now, leaning over Alexis, kissing her, Alexis on her back with her legs spread wide. The red robe is bunched at Alexis's hips and keeps her pussy covered — still just mouths on mouths, no hands on pussy.
 
-[![t=09:24 — Rotated angle: Annie is on top leaning over Alexis, kissing her, with Alexis on her bac...](../../media/annie-alexis-frames/frame-097.jpg)](../../media/annie-alexis-frames/frame-097.jpg)
+[![t=09:24 — Annie's on top now, leaning over Alexis, kissing her, Alexis on her back with her legs ...](../../media/annie-alexis-frames/frame-097.jpg)](../../media/annie-alexis-frames/frame-097.jpg)
 
-t=09:40 — Annie props herself up on one elbow facing Alexis, their faces close, still kissing; Alexis lies back with her legs stretched out toward the dresser. Annie's bare back to the camera, nothing genital exposed.
+t=09:40 — Annie props herself up on one elbow facing Alexis, faces close, still kissing. Alexis lies back with her legs stretched out toward the dresser. Annie's bare back to the camera.
 
-[![t=09:40 — Annie props herself up on one elbow facing Alexis, their faces close, still kissing; Al...](../../media/annie-alexis-frames/frame-098.jpg)](../../media/annie-alexis-frames/frame-098.jpg)
+[![t=09:40 — Annie props herself up on one elbow facing Alexis, faces close, still kissing. Alexis l...](../../media/annie-alexis-frames/frame-098.jpg)](../../media/annie-alexis-frames/frame-098.jpg)
 
-t=09:56 — Annie leans in over Alexis with her mouth on hers, Annie's bare back and shoulders to the camera; Alexis reclines with her legs extended, the red robe around her waist. Deep makeout, no genitalia visible.
+t=09:56 — Annie leans in over Alexis, mouth on hers, Annie's bare back and shoulders to the camera. Alexis reclines with her legs extended, red robe around her waist. Deep makeout.
 
-[![t=09:56 — Annie leans in over Alexis with her mouth on hers, Annie's bare back and shoulders to t...](../../media/annie-alexis-frames/frame-099.jpg)](../../media/annie-alexis-frames/frame-099.jpg)
+[![t=09:56 — Annie leans in over Alexis, mouth on hers, Annie's bare back and shoulders to the camer...](../../media/annie-alexis-frames/frame-099.jpg)](../../media/annie-alexis-frames/frame-099.jpg)
 
-t=10:12 — Rotated angle: Annie drapes herself over Alexis, kissing her hard, Alexis's legs spread beneath her with the robe bunched between them at her hips. The robe covers her crotch — no visible pussy.
+t=10:12 — Annie drapes herself over Alexis, kissing her hard, Alexis's legs spread beneath her with the robe bunched between them at her hips. The robe covers Alexis's pussy; still mouths only, no genital contact.
 
-[![t=10:12 — Rotated angle: Annie drapes herself over Alexis, kissing her hard, Alexis's legs spread...](../../media/annie-alexis-frames/frame-100.jpg)](../../media/annie-alexis-frames/frame-100.jpg)
+[![t=10:12 — Annie drapes herself over Alexis, kissing her hard, Alexis's legs spread beneath her wi...](../../media/annie-alexis-frames/frame-100.jpg)](../../media/annie-alexis-frames/frame-100.jpg)
 
-t=10:28 — Annie lies sprawled across Alexis's torso, her head at Alexis's shoulder, kissing her; Alexis reclines with her legs stretched out. Annie's bare back fills the frame — no genitalia visible.
+t=10:28 — Annie lies sprawled across Alexis's torso, head at her shoulder, kissing her. Alexis reclines with her legs stretched out. Annie's bare back fills the frame.
 
-[![t=10:28 — Annie lies sprawled across Alexis's torso, her head at Alexis's shoulder, kissing her; ...](../../media/annie-alexis-frames/frame-101.jpg)](../../media/annie-alexis-frames/frame-101.jpg)
+[![t=10:28 — Annie lies sprawled across Alexis's torso, head at her shoulder, kissing her. Alexis re...](../../media/annie-alexis-frames/frame-101.jpg)](../../media/annie-alexis-frames/frame-101.jpg)
 
-t=10:44 — Annie lies back on the pillows with Alexis leaning over her, kissing her; Alexis's legs stretch out along the bed. Annie's arm is behind her head, relaxed into it. No genitalia visible.
+t=10:44 — Annie's back on the pillows with Alexis leaning over her, kissing her, Alexis's legs stretched out along the bed. Annie's arm is behind her head, relaxed into it. Mouths locked, nothing below the waist.
 
-[![t=10:44 — Annie lies back on the pillows with Alexis leaning over her, kissing her; Alexis's legs...](../../media/annie-alexis-frames/frame-102.jpg)](../../media/annie-alexis-frames/frame-102.jpg)
+[![t=10:44 — Annie's back on the pillows with Alexis leaning over her, kissing her, Alexis's legs st...](../../media/annie-alexis-frames/frame-102.jpg)](../../media/annie-alexis-frames/frame-102.jpg)
 
-t=11:00 — Alexis drapes herself over Annie, mouths locked, Alexis's bare back to the camera with her legs extended. Heavy makeout, the sheet tangled between them — no pussy visible.
+t=11:00 — Alexis drapes herself over Annie, mouths locked, Alexis's bare back to the camera, legs extended. Heavy makeout, the sheet tangled between them.
 
-[![t=11:00 — Alexis drapes herself over Annie, mouths locked, Alexis's bare back to the camera with ...](../../media/annie-alexis-frames/frame-103.jpg)](../../media/annie-alexis-frames/frame-103.jpg)
+[![t=11:00 — Alexis drapes herself over Annie, mouths locked, Alexis's bare back to the camera, legs...](../../media/annie-alexis-frames/frame-103.jpg)](../../media/annie-alexis-frames/frame-103.jpg)
 
-t=11:16 — Still locked together: Alexis on top kissing Annie, her bare back to the camera, lower body under the sheet; Annie's arm stays behind her head. No genitalia exposed.
+t=11:16 — Still locked together — Alexis on top kissing Annie, bare back to the camera, lower body under the sheet. Annie's arm stays behind her head.
 
-[![t=11:16 — Still locked together: Alexis on top kissing Annie, her bare back to the camera, lower ...](../../media/annie-alexis-frames/frame-104.jpg)](../../media/annie-alexis-frames/frame-104.jpg)
+[![t=11:16 — Still locked together — Alexis on top kissing Annie, bare back to the camera, lower bod...](../../media/annie-alexis-frames/frame-104.jpg)](../../media/annie-alexis-frames/frame-104.jpg)
 
-t=11:32 — Annie climbs on top of Alexis now, kissing her hard, Annie's bare back and ass to the camera with the sheet slipping off. Buttocks visible but not boxed; no genitalia visible.
+t=11:32 — Annie climbs on top of Alexis now, kissing her hard, Annie's bare back and ass to the camera with the sheet slipping off.
 
 [![t=11:32 — Annie climbs on top of Alexis now, kissing her hard, Annie's bare back and ass to the c...](../../media/annie-alexis-frames/frame-105.jpg)](../../media/annie-alexis-frames/frame-105.jpg)
 
-t=11:48 — Annie rides up over Alexis, kissing her with her back arched, fully bare back to the camera; Alexis lies beneath her. Intense but still just kissing — no pussy visible.
+t=11:48 — Annie rides up over Alexis, kissing her, back arched, fully bare back to the camera. Alexis lies beneath her. Intense, but still just mouths — no genital contact yet.
 
-[![t=11:48 — Annie rides up over Alexis, kissing her with her back arched, fully bare back to the ca...](../../media/annie-alexis-frames/frame-106.jpg)](../../media/annie-alexis-frames/frame-106.jpg)
+[![t=11:48 — Annie rides up over Alexis, kissing her, back arched, fully bare back to the camera. Al...](../../media/annie-alexis-frames/frame-106.jpg)](../../media/annie-alexis-frames/frame-106.jpg)
 
-t=12:05 — Annie stays on top of Alexis kissing her, Annie's bare back to the camera, Alexis's legs stretched out beneath her. The makeout continues — no genitalia visible.
+t=12:05 — Annie stays on top of Alexis kissing her, Annie's bare back to the camera, Alexis's legs stretched out beneath her. The makeout keeps going.
 
 [![t=12:05 — Annie stays on top of Alexis kissing her, Annie's bare back to the camera, Alexis's leg...](../../media/annie-alexis-frames/frame-107.jpg)](../../media/annie-alexis-frames/frame-107.jpg)
 
-t=12:21 — Annie arches over Alexis, kissing her hard, her bare back and ass to the camera; Alexis lies under her with her legs extended. Still mouths only — no pussy visible.
+t=12:21 — Annie arches over Alexis, kissing her hard, bare back and ass to the camera. Alexis lies under her with her legs extended. Still mouths only.
 
-[![t=12:21 — Annie arches over Alexis, kissing her hard, her bare back and ass to the camera; Alexis...](../../media/annie-alexis-frames/frame-108.jpg)](../../media/annie-alexis-frames/frame-108.jpg)
+[![t=12:21 — Annie arches over Alexis, kissing her hard, bare back and ass to the camera. Alexis lie...](../../media/annie-alexis-frames/frame-108.jpg)](../../media/annie-alexis-frames/frame-108.jpg)
 
-t=12:37 — Annie sits up straddling over Alexis, facing away toward the closet, fully nude with her back and ass to the camera; Alexis reaches up at her. Her vulva isn't visible from behind — no boxable genitalia.
+t=12:37 — Annie sits up straddling over Alexis, facing away toward the closet, fully nude with her back and ass to the camera. Alexis reaches up at her.
 
 [![t=12:37 — Annie sits up straddling over Alexis, facing away toward the closet, fully nude with he...](../../media/annie-alexis-frames/frame-109.jpg)](../../media/annie-alexis-frames/frame-109.jpg)
 
-t=12:53 — Annie leans back down over Alexis, kissing her, her bare back and ass filling the frame; Alexis lies beneath with her legs out. Enlarged check confirms no visible pussy — buttocks only.
+t=12:53 — Annie leans back down over Alexis, kissing her, her bare back and ass filling the frame. Alexis lies beneath with her legs out.
 
 [![t=12:53 — Annie leans back down over Alexis, kissing her, her bare back and ass filling the frame...](../../media/annie-alexis-frames/frame-110.jpg)](../../media/annie-alexis-frames/frame-110.jpg)
 
-t=13:09 — Annie is on all fours over Alexis with her head down at her, ass up toward the camera, legs spread; Alexis lies under her. Zoomed crop shows buttocks and inner thighs only — no visible vulva.
+t=13:09 — Annie's on all fours over Alexis with her head down at her, ass up toward the camera, legs spread. Alexis lies under her. Head low toward Alexis's body, mouths off the mouths.
 
-[![t=13:09 — Annie is on all fours over Alexis with her head down at her, ass up toward the camera, ...](../../media/annie-alexis-frames/frame-111.jpg)](../../media/annie-alexis-frames/frame-111.jpg)
+[![t=13:09 — Annie's on all fours over Alexis with her head down at her, ass up toward the camera, l...](../../media/annie-alexis-frames/frame-111.jpg)](../../media/annie-alexis-frames/frame-111.jpg)
 
-t=13:25 — Final frame: Annie still on all fours over Alexis, head buried at Alexis's chest, her bare ass up toward the camera with legs spread. Enlarged crop confirms buttocks only — no genitalia exposed.
+t=13:25 — Final frame: Annie still on all fours over Alexis, head buried at Alexis's chest, her bare ass up toward the camera with her legs spread.
 
 [![t=13:25 — Final frame: Annie still on all fours over Alexis, head buried at Alexis's chest, her b...](../../media/annie-alexis-frames/frame-112.jpg)](../../media/annie-alexis-frames/frame-112.jpg)
 
@@ -552,69 +552,69 @@ t=13:25 — Final frame: Annie still on all fours over Alexis, head buried at Al
 
 4m21s, daylight, 11:09–11:13 AM camera time. Per Dan's testimony: Annie and Alexis, five months before the reunion. Opens with kissing, Annie standing over Alexis, wall-braced grinding, a role swap with Alexis on top, legs-up spread, tangled grinding, then a long oral stretch — Alexis eating Annie out while Annie laughs and moans (t≈01:54–03:16) — winding down with both catching their breath.
 
-t=00:00 — Annie kneels over Alexis on the bed, bent double with her bare ass in the air, kissing Alexis's mouth while Alexis lies back against the pillows in a red top, their bodies pressed together.
+t=00:00 — Annie climbs over Lex on the bed, folded up with her bare ass in the air, grinding her naked body down onto Lex, mouths locked; Lex lies back on the pillows in her red top, bodies pressed tight together.
 
-[![t=00:00 — Annie kneels over Alexis on the bed, bent double with her bare ass in the air, kissing ...](../../media/annie-alexis-frames/frame-113.jpg)](../../media/annie-alexis-frames/frame-113.jpg)
+[![t=00:00 — Annie climbs over Lex on the bed, folded up with her bare ass in the air, grinding her ...](../../media/annie-alexis-frames/frame-113.jpg)](../../media/annie-alexis-frames/frame-113.jpg)
 
-t=00:16 — Annie stands naked on the bed over Alexis, looking down at her; Alexis reclines against the pillows with her legs bent and spread, the red top still covering her torso, as Annie reaches toward her.
+t=00:16 — Annie stands naked on the bed over Lex, looking down at her; Lex reclines on the pillows with her legs bent and spread wide, pussy on display, still in the red top, while Annie reaches down for her.
 
-[![t=00:16 — Annie stands naked on the bed over Alexis, looking down at her; Alexis reclines against...](../../media/annie-alexis-frames/frame-114.jpg)](../../media/annie-alexis-frames/frame-114.jpg)
+[![t=00:16 — Annie stands naked on the bed over Lex, looking down at her; Lex reclines on the pillow...](../../media/annie-alexis-frames/frame-114.jpg)](../../media/annie-alexis-frames/frame-114.jpg)
 
-t=00:33 — Annie braces one hand against the wall and bends over Alexis, grinding her naked body against Alexis's spread legs; Alexis lies back watching her, legs open.
+t=00:33 — Annie plants one hand on the wall and bends over Lex, grinding her naked pussy against Lex's spread legs, hips rocking; Lex lies back watching her, legs wide open.
 
-[![t=00:33 — Annie braces one hand against the wall and bends over Alexis, grinding her naked body a...](../../media/annie-alexis-frames/frame-115.jpg)](../../media/annie-alexis-frames/frame-115.jpg)
+[![t=00:33 — Annie plants one hand on the wall and bends over Lex, grinding her naked pussy against ...](../../media/annie-alexis-frames/frame-115.jpg)](../../media/annie-alexis-frames/frame-115.jpg)
 
-t=00:49 — Annie stays bent over with her hand on the wall, pressing her pussy against Alexis's legs and rocking; Alexis reclines on the pillows, legs spread to take her weight.
+t=00:49 — Annie stays bent over, hand on the wall, pressing her pussy hard into Lex's legs and rocking her hips back and forth; Lex reclines on the pillows, legs spread to take the weight.
 
-[![t=00:49 — Annie stays bent over with her hand on the wall, pressing her pussy against Alexis's le...](../../media/annie-alexis-frames/frame-116.jpg)](../../media/annie-alexis-frames/frame-116.jpg)
+[![t=00:49 — Annie stays bent over, hand on the wall, pressing her pussy hard into Lex's legs and ro...](../../media/annie-alexis-frames/frame-116.jpg)](../../media/annie-alexis-frames/frame-116.jpg)
 
-t=01:05 — Alexis takes the top, straddling over Annie with her legs spread wide, leaning in to kiss Annie's mouth; Annie lies back against the pillows under her.
+t=01:05 — Lex takes the top, straddling over Annie with her legs spread wide, her pussy grinding down against Annie's body as she leans in to kiss her mouth; Annie lies back on the pillows underneath her.
 
-[![t=01:05 — Alexis takes the top, straddling over Annie with her legs spread wide, leaning in to ki...](../../media/annie-alexis-frames/frame-117.jpg)](../../media/annie-alexis-frames/frame-117.jpg)
+[![t=01:05 — Lex takes the top, straddling over Annie with her legs spread wide, her pussy grinding ...](../../media/annie-alexis-frames/frame-117.jpg)](../../media/annie-alexis-frames/frame-117.jpg)
 
-t=01:22 — Annie lies on her back with her knees up and spread wide, her pussy exposed to the camera, while Alexis presses in between her legs, mouths locked.
+t=01:22 — Annie's on her back, knees up and spread wide, pussy exposed and open to the air, while Lex presses her body in between Annie's legs, mouths locked.
 
-[![t=01:22 — Annie lies on her back with her knees up and spread wide, her pussy exposed to the came...](../../media/annie-alexis-frames/frame-118.jpg)](../../media/annie-alexis-frames/frame-118.jpg)
+[![t=01:22 — Annie's on her back, knees up and spread wide, pussy exposed and open to the air, while...](../../media/annie-alexis-frames/frame-118.jpg)](../../media/annie-alexis-frames/frame-118.jpg)
 
-t=01:38 — the two tangle into a pile on the bed, legs in the air, grinding their pussies together; Annie's face is visible near the pillows, laughing.
+t=01:38 — they tangle into a pile on the bed, legs in the air, grinding their pussies together, rubbing clit against clit; Annie's face is up near the pillows, laughing.
 
-[![t=01:38 — the two tangle into a pile on the bed, legs in the air, grinding their pussies together...](../../media/annie-alexis-frames/frame-119.jpg)](../../media/annie-alexis-frames/frame-119.jpg)
+[![t=01:38 — they tangle into a pile on the bed, legs in the air, grinding their pussies together, r...](../../media/annie-alexis-frames/frame-119.jpg)](../../media/annie-alexis-frames/frame-119.jpg)
 
-t=01:54 — Alexis drops to all fours and buries her face in Annie's spread pussy, eating her out; Annie lies back on the pillows laughing with her legs wide open.
+t=01:54 — Lex drops to all fours and buries her face in Annie's spread pussy, mouth on her pussy, eating her out; Annie lies back on the pillows laughing, legs wide open.
 
-[![t=01:54 — Alexis drops to all fours and buries her face in Annie's spread pussy, eating her out; ...](../../media/annie-alexis-frames/frame-120.jpg)](../../media/annie-alexis-frames/frame-120.jpg)
+[![t=01:54 — Lex drops to all fours and buries her face in Annie's spread pussy, mouth on her pussy,...](../../media/annie-alexis-frames/frame-120.jpg)](../../media/annie-alexis-frames/frame-120.jpg)
 
-t=02:10 — Alexis stays on all fours with her ass in the air, face buried in Annie's pussy, licking her; Annie reclines against the pillows, legs spread, laughing.
+t=02:10 — Lex stays on all fours, ass in the air, face buried in Annie's pussy, tongue working her; Annie reclines on the pillows, legs spread, laughing.
 
-[![t=02:10 — Alexis stays on all fours with her ass in the air, face buried in Annie's pussy, lickin...](../../media/annie-alexis-frames/frame-121.jpg)](../../media/annie-alexis-frames/frame-121.jpg)
+[![t=02:10 — Lex stays on all fours, ass in the air, face buried in Annie's pussy, tongue working he...](../../media/annie-alexis-frames/frame-121.jpg)](../../media/annie-alexis-frames/frame-121.jpg)
 
-t=02:27 — Alexis kneels with her mouth on Annie's pussy, one of Annie's hands on her head; Annie lies back with her legs drawn up, taking it.
+t=02:27 — Lex kneels with her mouth on Annie's pussy, licking her, Annie's hand pressing down on her head, holding her there; Annie lies back with her legs drawn up, taking it.
 
-[![t=02:27 — Alexis kneels with her mouth on Annie's pussy, one of Annie's hands on her head; Annie ...](../../media/annie-alexis-frames/frame-122.jpg)](../../media/annie-alexis-frames/frame-122.jpg)
+[![t=02:27 — Lex kneels with her mouth on Annie's pussy, licking her, Annie's hand pressing down on ...](../../media/annie-alexis-frames/frame-122.jpg)](../../media/annie-alexis-frames/frame-122.jpg)
 
-t=02:43 — Alexis's face stays buried between Annie's legs, tongue on her pussy; Annie lies back on the pillows with her mouth open, moaning.
+t=02:43 — Lex's face stays buried between Annie's legs, tongue on Annie's pussy, eating her out; Annie lies back on the pillows, mouth open, moaning.
 
-[![t=02:43 — Alexis's face stays buried between Annie's legs, tongue on her pussy; Annie lies back o...](../../media/annie-alexis-frames/frame-123.jpg)](../../media/annie-alexis-frames/frame-123.jpg)
+[![t=02:43 — Lex's face stays buried between Annie's legs, tongue on Annie's pussy, eating her out; ...](../../media/annie-alexis-frames/frame-123.jpg)](../../media/annie-alexis-frames/frame-123.jpg)
 
-t=02:59 — Alexis stretches out along the bed, face in Annie's spread pussy; Annie lies back with one knee hiked high, moaning into the pillows.
+t=02:59 — Lex stretches out along the bed, face buried in Annie's spread pussy, eating her out; Annie lies back with one knee hiked high, moaning into the pillows.
 
-[![t=02:59 — Alexis stretches out along the bed, face in Annie's spread pussy; Annie lies back with ...](../../media/annie-alexis-frames/frame-124.jpg)](../../media/annie-alexis-frames/frame-124.jpg)
+[![t=02:59 — Lex stretches out along the bed, face buried in Annie's spread pussy, eating her out; A...](../../media/annie-alexis-frames/frame-124.jpg)](../../media/annie-alexis-frames/frame-124.jpg)
 
-t=03:16 — Alexis keeps eating Annie out, head buried between her thighs; Annie lies back laughing, legs wrapped around Alexis's head.
+t=03:16 — Lex keeps eating Annie out, head buried between her thighs, tongue on her pussy; Annie lies back laughing, legs wrapped around Lex's head, holding her in.
 
-[![t=03:16 — Alexis keeps eating Annie out, head buried between her thighs; Annie lies back laughing...](../../media/annie-alexis-frames/frame-125.jpg)](../../media/annie-alexis-frames/frame-125.jpg)
+[![t=03:16 — Lex keeps eating Annie out, head buried between her thighs, tongue on her pussy; Annie ...](../../media/annie-alexis-frames/frame-125.jpg)](../../media/annie-alexis-frames/frame-125.jpg)
 
-t=03:32 — Alexis sits up on her knees, pulling her hair back off her face; Annie sprawls on the pillows with her legs spread, both of them laughing and catching their breath.
+t=03:32 — Lex sits up on her knees, pulling her hair back off her face; Annie sprawls on the pillows, legs spread, both of them laughing and catching their breath.
 
-[![t=03:32 — Alexis sits up on her knees, pulling her hair back off her face; Annie sprawls on the p...](../../media/annie-alexis-frames/frame-126.jpg)](../../media/annie-alexis-frames/frame-126.jpg)
+[![t=03:32 — Lex sits up on her knees, pulling her hair back off her face; Annie sprawls on the pill...](../../media/annie-alexis-frames/frame-126.jpg)](../../media/annie-alexis-frames/frame-126.jpg)
 
-t=03:48 — Alexis rises higher on her knees, both hands gathering her hair up; Annie lies back on the pillows, legs still spread wide, recovering.
+t=03:48 — Lex rises higher on her knees, both hands gathering her hair up; Annie lies back on the pillows, legs still spread wide, recovering.
 
-[![t=03:48 — Alexis rises higher on her knees, both hands gathering her hair up; Annie lies back on ...](../../media/annie-alexis-frames/frame-127.jpg)](../../media/annie-alexis-frames/frame-127.jpg)
+[![t=03:48 — Lex rises higher on her knees, both hands gathering her hair up; Annie lies back on the...](../../media/annie-alexis-frames/frame-127.jpg)](../../media/annie-alexis-frames/frame-127.jpg)
 
-t=04:05 — Alexis bends over at the foot of the bed, bare ass to the camera; Annie lies back on the bed laughing, legs bent and spread.
+t=04:05 — Lex bends over at the foot of the bed, bare ass to the camera; Annie lies back on the bed laughing, legs bent and spread.
 
-[![t=04:05 — Alexis bends over at the foot of the bed, bare ass to the camera; Annie lies back on th...](../../media/annie-alexis-frames/frame-128.jpg)](../../media/annie-alexis-frames/frame-128.jpg)
+[![t=04:05 — Lex bends over at the foot of the bed, bare ass to the camera; Annie lies back on the b...](../../media/annie-alexis-frames/frame-128.jpg)](../../media/annie-alexis-frames/frame-128.jpg)
 
 ## Visual documentation
 
