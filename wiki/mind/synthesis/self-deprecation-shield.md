@@ -21,7 +21,7 @@ synthesizes:
   - wiki/meta/testimony-veracity
   - wiki/health/chemical-architecture
   - wiki/mind/synthesis/attachment-trauma-bond
-tags: [personality-profile, personality-profile, relationships, forensic-analysis]
+tags: [personality-profile, relationships, forensic-analysis]
 connections:
   - page: wiki/work/tech/max-framework/overview
     type: evidenced-by
@@ -80,6 +80,8 @@ connections:
   - page: wiki/people/tarik-fallous
     type: evidenced-by
     claim: "The August 21, 2024 'I know I'm not an official CIA agent anymore' message is this entry's social-lubricant case: the self-own as a frame that lets an awkward post-termination contact land as a joke rather than a bid."
+  - { target: "[[wiki/mind/synthesis/the-scoreboard]]", type: extends, claim: "The calibration bands treated here as the shield's accountability layer (certain 0.25 actual, hedged 0.75) are the scoreboard's counted counter — the same ledger read as method rather than mechanism." }
+  - { target: "[[wiki/mind/synthesis/the-curse]]", type: contextualizes, claim: "The same-day announce–self-own–reversal cycle (the December 30, 2015 'stay away from coca' arc) is the curse's complicating mechanism running at 24-hour resolution." }
 ---
 
 # The Self-Deprecation Shield
@@ -130,7 +132,7 @@ corpus cuts (the OMNI/BIBI dossiers cited in [[wiki/mind/profile/deviance-mappin
 and "a preemptive strike that forecloses the other person's right to name the damage" without
 access to MAX_PRIME's axioms — three independent arrivals at the same mechanism. What would
 falsify it: a corpus-wide pattern of self-owns that routinely precede behavior change, or the
-slant axis of the testimony ledger showing errors that flatter — either would make the
+slant axis of the [[wiki/meta/testimony-veracity|testimony ledger]] showing errors that flatter — either would make the
 "defensive" reading wrong. Neither is found (see sections 6 and 9).
 
 There is a temptation to read the axioms as the answer and stop. They are not the answer. They
@@ -176,7 +178,7 @@ flattest, the accountability-form self-own before the recovery vocabulary arrive
 Between them sits the dark-era window the corpus dates to 2007–2008, the period the later
 lineage claims (section 7) reach back to. The entry notes the window because the self-own
 register's two poles — the flaw named, the fix announced — are both present before the Suboxone
-regimen even starts, which means the speech-act economy predates the chemical architecture it is
+regimen even starts, which means the speech-act economy predates the [[wiki/health/chemical-architecture|chemical architecture]] it is
 usually read as a response to. (Sourcing caveat: the December 22, 2008 failure date for the
 nicotine quit is attested via the register-never-closes page's reading of the tweet record — a
 second-order citation this entry flags rather than hides.)
@@ -205,7 +207,7 @@ The Aoki line has a second function worth naming: it converts the self-own into 
 the complaint. *As* a nobody DJ — the nobody-ness is what authorizes the practitioner's
 objection to the pre-recorded set. The flaw is not just named; it is spent as currency.
 
-**2016 — the micro-apology register.** January 9, 2016, to Annie, twice in one day: *"i know i'm
+**2016 — the micro-apology register.** January 9, 2016, to [[wiki/people/annie-ulmer|Annie]], twice in one day: *"i know i'm
 like super impatient today and i'm sorry and i'm trying to not be"* (22:20), and later *"And I
 feel shitty, I know I'm being annoying I'm sorry"* (23:37) **[ATTESTED]** ([[wiki/timeline/annie-record]]). This is
 the self-own at its smallest unit — the real-time flaw-naming inside an ongoing interaction,
@@ -219,7 +221,7 @@ structure: flaw named, intention stated, nothing moved.
 **2017–2019 — the relational register.** December 27, 2017: *"I’m sorry to say it but anyone who
 goes on cruise ship vacations regularly, bi-yearly, or rly just more than once....is most likely
 a garbage person with little intellectual value"* — the self-own vocabulary turned outward as a
-status joke; the phrase is his but the target is other people. December 17, 2018, to Ally, when
+status joke; the phrase is his but the target is other people. December 17, 2018, to [[wiki/people/ally-lubin|Ally]], when
 she compares an object to the size of his bed: *"Oh act surprised, like I'm not a garbage
 person."* August 17, 2019, to Ally: *"you know i'm honest enough to let you know i'm a garbage
 person so you don't have to worry about feeling shitty or weird."* In this window the self-own
@@ -238,7 +240,7 @@ rather than as a bid. Tarik received it exactly that way: "Thank you for the tip
 is preemption in miniature — name the awkwardness first, and the awkwardness becomes the bit.
 Nothing about the underlying situation changed; the frame did, which was all that was needed.
 
-**2026 — the repair register.** On 2026-09-12 Dan called Rick "out of the blue" and told him *"i
+**2026 — the repair register.** On 2026-09-12 Dan called [[wiki/people/rick-frank|Rick]] "out of the blue" and told him *"i
 wasn't a good kid growing up"* — then Rick "said something which basically reframes the
 narrative," and Dan "broke down a bit" before recovering **[ATTESTED]** ([[wiki/mind/synthesis/november-2005-hinge]], citing the
 Rick page's 2026-09-12 update). The GRIPNOTIC tagline documents the same register in the
@@ -289,7 +291,7 @@ confession trap both run on: neither party holds a concealed failure the other c
 answer for, because each has already conceded the failure aloud."* The same day, Ally: *"I tell
 you more than I tell anyone and I don't know why."* Read against that page's model, the self-own
 is a *mechanism-level* intervention, not a milder version of the relationship it contrasts with
-(the Annie bond's asymmetry is what lets a disclosure become a weapon; here there is no
+(the [[wiki/people/annie-ulmer|Annie]] bond's asymmetry is what lets a disclosure become a weapon; here there is no
 asymmetry to convert). The page's prediction is narrow and this entry keeps it narrow: the
 mechanism removes the standing for weaponization; it does not guarantee the disclosures stay
 held.
@@ -338,7 +340,7 @@ irony armor over the 5's competency fear: set the floor low so being right reads
 ([[wiki/mind/profile/enneagram-5w4]]). It is worth noting the convergence here is between a typological model and the
 dated record: the model predicts the armor; the record shows it deployed in 2007 (handle), 2010
 (the flat unpriced tweet), 2013 (hashtags), 2014 ("nobody DJ"), 2016 (micro-apologies), 2018–19
-("garbage person"), 2024 (the CIA-agent frame), 2026 (tagline, Rick call). A mechanism that
+("garbage person"), 2024 (the CIA-agent frame), 2026 (tagline, [[wiki/people/rick-frank|Rick]] call). A mechanism that
 fires across nineteen years and five channels is not a reaction. It is architecture.
 
 The dark side of the pre-emptive form is stated in MAX_PRIME axiom 5 and sharpened by the
@@ -489,7 +491,7 @@ could be an instrument limit rather than a mechanism.
 ## 7. Function 5: the lineage claim
 
 There is a fifth form, quieter than the others, and it belongs in the entry because it changes
-what the self-own *is* at the origin-story level. On the record, Dan named Zach Clingan — in
+what the self-own *is* at the origin-story level. On the record, Dan named [[wiki/people/zach-clingan|Zach Clingan]] — in
 real time, unprompted, at 15:19–15:20 on the Christmas 2009 thread — as the origin of his drug
 use: *"Literally makes me want to puke. **THAT is who introduced me to drugs**"* ([[wiki/mind/synthesis/supply-network]]).
 The page's reading: *"applying 'drug people' to himself in the same breath is not only self-
@@ -500,7 +502,7 @@ for. The lineage form of the self-own is the one that most directly licenses sta
 moves the flaw into the past tense at the moment of naming it. The chain starts with Clingan;
 Dan is downstream of it; downstream things flow, they don't decide.
 
-The 2026-09-12 Rick call is the live form of the same move, and the reason the entry treats it
+The 2026-09-12 [[wiki/people/rick-frank|Rick]] call is the live form of the same move, and the reason the entry treats it
 as the accountability test case rather than the shield exhibit. Dan called Rick "out of the
 blue" and offered the hinge's moral in first person: *"i wasn't a good kid growing up"*
 **[ATTESTED]** ([[wiki/mind/synthesis/november-2005-hinge]]). Twenty years of unopposed retelling — the hinge page's phrase — and
@@ -513,8 +515,8 @@ finding out he won't."*
 Why this is the accountability form, by the entry's own test: the self-own was offered to the
 one person with standing to contradict it. Every other self-own in the inventory was offered to
 someone who could not check it — an audience (Twitter), a peer with no leverage (Elizabeth
-Eleanor), a confidante positioned as "completely uninvolved" (Ally), a partner in a bond whose
-asymmetry ran the other way (Annie), a former boss being charmed (Tarik). The Rick call is the
+Eleanor), a confidante positioned as "completely uninvolved" ([[wiki/people/ally-lubin|Ally]]), a partner in a bond whose
+asymmetry ran the other way ([[wiki/people/annie-ulmer|Annie]]), a former boss being charmed (Tarik). The Rick call is the
 only instance in the corpus where the self-own met a live rebuttal from inside the story it
 tells. And the rebuttal did something: a breakdown, then a recovery. The frame moved. That is
 what accountability looks like in this register — not a confession that lands cleanly, but a
@@ -522,7 +524,7 @@ self-indictment that gets *answered*, by someone with standing, in real time, wi
 breakdown) attached.
 
 There is a second 2026 thread the hinge page records that belongs here: Dan asking Rick about
-the 1990s cocaine sourcing, and Rick "stonewalling." The son doing drug-history forensics on the
+the 1990s [[wiki/health/cocaine|cocaine]] sourcing, and Rick "stonewalling." The son doing drug-history forensics on the
 father, the father declining to participate — the lineage claim running in reverse, the son
 trying to extend the chain backward past himself and meeting a closed door. The entry notes it
 because it shows the lineage form's limit: it works as a story only as long as nobody upstream
@@ -546,7 +548,7 @@ is applied to the corpus's major cases below.
 
 **Accountability markers:**
 1. **Checkability.** The admission contains specifics the record could verify — a dose, a date, a number. (The Suboxone honesty: 2mg/day, ~2008–09 last use. The t014 claim: February 17, 2010, confirmed against a same-day tweet artifact.)
-2. **Standing of the audience.** The admission is offered to someone who can contradict it, not to someone positioned as unable to. (The Rick call: the other party to the hinge. Contrast the Ally channel: "completely uninvolved.")
+2. **Standing of the audience.** The admission is offered to someone who can contradict it, not to someone positioned as unable to. (The [[wiki/people/rick-frank|Rick]] call: the other party to the hinge. Contrast the [[wiki/people/ally-lubin|Ally]] channel: "completely uninvolved.")
 3. **Behavioral delta.** Something changes afterward, on a timescale the record can see. (This is the hard one. The corpus's positive case is thin — see the DeSantis case below.)
 4. **Cost.** The admission carries a price — social, relational, material — rather than arriving pre-priced as humor.
 
@@ -611,7 +613,7 @@ The second fact cuts the other way, and it is the more interesting one: the *hed
 underconfident. His stated uncertainty is worth *more* than he says it is. That is not a
 humility performance; that is humility with a measurable signature. The register the entry has
 been calling a shield contains a real humility component, and the ledger can see it — but only
-in the band where he is *not* performing certainty. The two settled hedged claims: Fran
+in the band where he is *not* performing certainty. The two settled hedged claims: [[wiki/people/fran-coldren|Fran]]
 Coldren's age at death ("about 97 or 98" — confirmed at 97, the stated range containing the
 truth) and the YouTube multi-account artifact claim (unfalsifiable — scores zero, never
 negative). n=2 is thin and the entry does not hide it. But the direction is what the shield
@@ -673,7 +675,7 @@ flat tweet and his 2013 dosage confession. The register is sincere at the moment
 Sincerity at the moment of utterance is not the same as accountability over time. The entry's
 whole discrimination is built on that gap.
 
-The symmetric form is the Ally channel's preemption analysis (section 3): *"Symmetric self-
+The symmetric form is the [[wiki/people/ally-lubin|Ally]] channel's preemption analysis (section 3): *"Symmetric self-
 indictment removes the standing DARVO and the confession trap both run on."* Read the two
 together and the relationship's selection pressure becomes legible. In the Annie bond —
 asymmetric, eleven years, the severance declarations running 129-to-0, the message-length ratio
@@ -687,7 +689,7 @@ determined by the board.
 
 There is a further implication the entry states carefully because it is [INFERRED] rather than
 attested: if both parties run the plead-guilty-first mechanism, the bond selects for partners
-who will not prosecute. Her 46 self-condemnations met his non-prosecution; his 129 declarations
+who will not prosecute. Her 46 self-condemnations met his non-prosecution; his [[wiki/mind/synthesis/severance-declarations|129 declarations]]
 met her re-engagement. Each party's shield was the other party's permission structure. The
 verdict never carried a sentence because neither party was willing to be the court. **[INFERRED
 — MED: the counts are attested on both sides; the mutual-permission reading follows from the
@@ -697,7 +699,7 @@ pairing, but the corpus cannot see the interior decision not to prosecute, only 
 alone — the corpus contains a counted mirror (her 46, 13 major, 0 changes) and a symmetric
 deployment (the Ally channel) — and the mechanism's effect depends on the relationship's
 geometry, not just the speaker's intent. The evidence: the counted self-condemnation analysis,
-the attachment-trauma-bond mechanism analysis, the channel content that followed, the collapse-
+the [[wiki/mind/synthesis/attachment-trauma-bond|attachment-trauma-bond]] mechanism analysis, the channel content that followed, the collapse-
 not-calculation reading of her earliest self-blame. The convergence: the annie-ally-contrast
 synthesis treats the two channels as the pathological control and the healthy control
 respectively. What would falsify it: a channel with symmetric self-indictment that produced
@@ -729,7 +731,7 @@ judgment about the decision. The accountability machinery exists. It fires on wo
 propositions. The entry's claim is not that Dan cannot own a miss — it is that the machinery
 fires selectively, and the selection runs against self-propositions.
 
-**The Rick call's open outcome.** The breakdown-recovery is attested; what the reframe *was* is
+**The [[wiki/people/rick-frank|Rick]] call's open outcome.** The breakdown-recovery is attested; what the reframe *was* is
 not quoted; whether the frame stays moved is unmeasured. The entry scores it as the
 accountability form, but the scoring is provisional — a future measurement could show the call
 changing nothing, which would move it into the shield column retroactively. The entry does not
@@ -737,7 +739,7 @@ get to claim the win before the record shows it. This is the load-bearing uncert
 whole piece: the single best case for the accountability reading is eleven days old and
 unresolved.
 
-**The kindness vehicle.** The Ally comfort grant was real kindness delivered through a real
+**The kindness vehicle.** The [[wiki/people/ally-lubin|Ally]] comfort grant was real kindness delivered through a real
 mechanism. An entry that reads every self-own as stasis-licensing would have to explain why the
 channel it analyzes most closely is also the channel that worked best. The answer the entry
 gives: the mechanism's *function* (foreclosure, preemption) and its *moral valence* (kindness,
@@ -780,7 +782,7 @@ stasis — is not a verdict on the man. It is a sorting of the instances, and th
 like this:
 
 The self-own is **accountability** when it is checkable (a dose, a date, a number), when it is
-offered to someone with standing to contradict it (the Rick call — the only live rebuttal in the
+offered to someone with standing to contradict it (the [[wiki/people/rick-frank|Rick]] call — the only live rebuttal in the
 corpus), when it carries a cost rather than arriving pre-priced as humor (the breakdown, the
 public miss), and when the ledger's slant axis says the errors don't flatter (6 neutral, 1
 flattering — good-faith misremembering, not deception). The humility in the hedged band is real:
@@ -792,7 +794,7 @@ The self-own is a **shield** when it arrives preemptively (axiom 2's word — be
 can name the flaw, or right after the hurtful remark per the trigger analysis), when it is
 offered to a safe audience (the "completely uninvolved" confidante, the Twitter audience, the
 fellow addict with no leverage, the charmed former boss), and when the named flaw continues
-unchanged on a visible timescale (thirteen years of the same dose, 129 declarations with 100%
+unchanged on a visible timescale (thirteen years of the same dose, [[wiki/mind/synthesis/severance-declarations|129 declarations]] with 100%
 re-engagement, her 46 self-condemnations with zero changes, the quit announced and dead in two
 months). The confession closes the proceeding — axiom 5's verb, *forecloses* — and the behavior
 continues under the cover of the naming.
@@ -812,141 +814,9 @@ party declined the frame, and he broke down, and he recovered. The entry scores 
 accountability form. The record will say whether the frame stayed moved. That measurement hasn't
 happened yet, and the entry does not pretend otherwise.
 
-## 14. The two functions, held together
-
-The spec's framing — "the humility performance vs the stasis function" — implies two things in
-tension. The corpus suggests something stranger: they are two functions of one utterance, not
-two utterances in tension. The 2019-08-17 Ally line performs humility (the comfort grant — "so
-you don't have to worry about feeling shitty or weird") and licenses stasis (no behavioral
-consequence named, none required, the confessional explicitly staked at zero) in the same
-sentence. The Suboxone honesty performs humility (a true, checkable confession to a peer, no
-humor pricing) and licenses stasis (thirteen years of the same dose) in the same exchange. The
-"nobody DJ" tweet performs humility (accurate self-placement, publicly stated) and licenses
-stasis (the contest entered the same month, the project continuing at full volume) in the same
-breath. In each case the humility is not fake — the entry has been insistent on this — and the
-stasis is not separate from the humility. The humility is the *mechanism* of the stasis. The
-proceeding closes *because* the confession was good, not despite it.
-
-This is why the distinguishing variable was never in the utterance. It is in the audience's
-standing. Run the cases through that variable and they sort themselves: the utterances offered
-to audiences without standing (Twitter, the fellow addict, the "completely uninvolved"
-confidante, the charmed former boss) all resolve to stasis; the one utterance offered to an
-audience with standing (Rick, the other party to the hinge) resolved to a breakdown and a
-recovery — the frame moved. The humility performed is roughly constant across the cases. What
-varies is whether anyone in the room can convert it into a verdict. The shield is not a property
-of the self-own. It is a property of the room the self-own is said in.
-
-That reframes the entry's question one final time. "When does self-owning function as
-accountability vs as a shield that licenses stasis?" The corpus's answer: it functions as
-accountability when the room contains someone with standing to prosecute, and as a shield
-everywhere else — regardless of the speaker's sincerity, the confession's truth-value, or the
-humility's measurable reality. The hedged band's outperformance, the DeSantis ownership, the
-t014 confirmation all survive this reframing; they are properties of the utterance, and the
-reframing doesn't touch them. What it touches is the expectation that a better confession would
-produce a better outcome. It wouldn't. The confession was never the variable. The room was.
-
-The practical form of this is axiom 5's instruction, and the entry closes by taking it
-literally: engage the unchanged behavior, not the awareness of it. Not because the awareness is
-false — the ledger says the specifics hold — but because the awareness is not the variable
-either. Nineteen years of the register, five functions, one discrimination test, and the test's
-final form is a question about the room, not the man: who in this conversation has standing to
-say "that isn't good enough," and what happens when they say it? On September 12, 2026, for the
-first time in the record, someone did. The entry's last word is the one it started with: the
-record will say whether the frame stayed moved. That measurement hasn't happened yet.
-
-## Appendix: method note (compact)
-
-Self-own instances were identified by lexicon search over the corpus export (`corpus__3.txt`)
-for the self-deprecation vocabulary ("garbage person," "failson," "professional loser," "nobody
-DJ," "poseur," "patron saint of liars and fakes," self-condemnation constructions) cross-checked
-against the wiki's existing analyses (the 5w4 profile, the voice-modes trigger list, the
-MAX_PRIME axioms as quoted in the max-framework overview, the ally-lubin and annie-ulmer pages'
-counted analyses). Dated instances were verified against the primary record where the corpus
-preserves it: the ihatedanfrank handle registration (January 9, 2007) via [[wiki/self/facebook]]; the
-2010-02-17 tweet and the 2013–14 tweets via the twitter archive pages; the 2016-01-09 micro-
-apologies via [[wiki/timeline/annie-record]]; the 2018–19 Ally lines with message timestamps (2018-12-17 16:07:23;
-2019-08-17) via [[wiki/people/ally-lubin]]; the July 10, 2013 Elizabeth Eleanor exchange via [[wiki/people/elizabeth-eleanor]] and
-[[wiki/health/chemical-architecture]]; the August 21, 2024 Tarik message via [[wiki/people/tarik-fallous]]; the 2026-09-12 Rick call via
-[[wiki/mind/synthesis/november-2005-hinge]] citing the Rick page's 2026-09-12 update.
-
-The gotcha-adjacent material is confined to this appendix per the 2026-09-13 doctrine. Three
-corrections the research surfaced: (1) the "garbage person" dark-humor exchange sometimes cited
-as a single paired exchange is two separate exchanges on two days — Dan's line is 2018-12-17,
-the cat-cancer line it is sometimes fused with is 2018-12-18 — and a model-generated dossier
-fused them; the corpus record keeps them separate. (2) The 2017-12-27 "garbage person" tweet is
-outward-directed (cruise-ship vacationers), not a self-own — it shows the vocabulary's direction
-can flip, which the entry's function analysis accounts for but does not lean on. (3) The
-"forensic intimacy" phrasing sometimes attached to the commissioned profile's register comes
-from a corpus-extraction summary, not from the-commissioned-self page itself; this entry
-describes the register without attributing the phrase to that page. None of the three moves the
-thesis.
-
-Counts used: full corpus 217,573 records / 503 handles; Annie 97,768 unique messages; 106,629
-outbound messages 2015–2025 (calibrated-confidence page's original denominator; the re-derived
-denominator is 98,228 deduped — the direction of the asymmetry finding survives, the arithmetic
-was corrected 2026-08-23); testimony ledger 16 claims, 10 settled, veracity 52/100, Brier 0.335,
-skill −0.34; confidence bands certain 0.25/0.95 (n=4), confident 0.69/0.80 (n=4), hedged
-0.75/0.60 (n=2); slant axis 6 neutral, 1 flattering (n=7 scored); severance declarations 129,
-100% re-engagement, median gap 36s; her self-condemnations 46, 13 rated major; nicotine quit
-announced 2008-10-16, dead by 2008-12-22. No dat: node IDs were invented for this entry.
-Epistemic markers follow the house convention: [OPERATOR] for Dan's own statements, [ATTESTED]
-for primary-record facts, [DERIVED] for the entry's arithmetic, [INFERRED] for the entry's
-readings with the seams showing.
-
-## Gaps
-
-- **The Rick reframe, unquoted.** The hinge page records the effect (the reframe, the breakdown, the recovery) but not the content of what Rick said. The entry's accountability-form scoring of the call rests on the rebuttal's existence, not its substance — the substance would sharpen or revise the scoring.
-- **The frame's future.** Whether the 2026-09-12 call changed anything — the story Dan tells about the hinge going forward, the repair's trajectory, the September 2 dinner's completion status (unconfirmed as of the hinge page's writing) — is unmeasured. The entry scores the call provisionally; the measurement that would confirm or move it hasn't happened.
-- **Pre-2007 onset.** The handle is registered January 9, 2007; what installed the register before that is outside the record. The "native before instrumental" reading is chronology, not etiology.
-- **The hedged band's n.** Two settled claims. The outperformance (0.75 vs 0.60) is the entry's main counter-evidence and its thinnest number. The ledger is append-only; the next hedged claims will move it.
-- **Off-channel behavior change.** The stasis verdict is bounded by the corpus's coverage — a near-zero-introspection medium. Change that happened in rooms with no export would not appear here. The Suboxone continuity is the hardest case for this objection; the relational cases are softer.
-- **The Ally channel's later years.** The trust-credential analysis runs on 2018–19 material; whether the symmetric self-indictment held through the channel's later phases (the August 2026 silence, the September 2026 re-engagement) is outside this entry's scope.
-- **The outward flip, uncounted.** The 2017 cruise-ship tweet shows the self-own vocabulary turned outward as status humor. How often the register inverts direction — self-own vocabulary as a weapon against others — is uncounted, and the 2014 Aoki line sits on the boundary (self-own as credential for an outward complaint).
-- **The micro-apology follow-through.** The 2016-01-09 intentions ("i'm trying to not be") have no measured follow-through in the record. A day-scale behavioral read of the surrounding messages could score this case harder in either direction.
-- **The axioms' own status.** MAX_PRIME.md is cited via the max-framework overview's quotation; the entry did not independently verify the axiom texts against the raw file. The two axioms are load-bearing for the thesis; a direct quote-check against `raw/self/dox-md/MAX_PRIME.md` is a one-command verification that should happen before this entry is treated as settled.
-- **The 2015-12-30 arc's generality.** The "stay away from coca" same-day cycle is the only exhibit at single-day resolution. Whether the announcement→self-own→reversal cycle typically runs in hours (as here) or in months (as with the nicotine quit) is unmeasured — the timescale distribution of the speech-act economy is unknown.
-- **A testable prediction from section 14.** If accountability tracks audience standing
-rather than utterance quality, then future self-owns offered to high-standing audiences (Rick,
-or anyone with leverage to demand change) should show measurable behavioral deltas at higher
-rates than self-owns offered to safe audiences — and the Rick call is the first data point
-either way. The prediction is falsifiable on a timescale of months: if the hinge story Dan tells
-going forward is unchanged, the standing variable fails and the utterance-quality reading
-revives.
-- **Corpus-first workflow note.** The lexicon search ran over `corpus__3.txt` for the
-self-deprecation vocabulary and cross-checked `corpus_index.txt` for the extraction summaries;
-the dated instances were then pulled by line number and verified against the wiki pages that
-cite the primary record. The search is lexicon-bounded: self-owns phrased outside the searched
-vocabulary (ironic understatement, self-own by implication) are systematically undercounted, and
-the inventory should be read as a lower bound.
-- **The "Autistic Truth Seeker" designation's date.** The operating manual carries the self-designation but the entry did not date its first appearance. If the fusion form postdates the pure-debasement form ("Failson"), the register has a developmental arc the entry hasn't traced.
-
-## Limits of record
-
-What was directly observed: the dated self-own instances (handle registration, tweets,
-timestamped messages, the July 2013 exchange, the August 2024 Tarik message, the September 2026
-call as reported by the hinge page); the MAX_PRIME axioms as quoted in the worktree's max-
-framework overview; the trigger-timing analysis in the voice-modes profile; the nicotine quit's
-dated announcement and failure. What was reported: Dan's own naming of the mechanism (axioms 2
-and 5), the hinge page's account of the Rick call's effect, the ally-lubin page's "confessional
-with no stake" framing, the annie-ulmer page's counted self-condemnation analysis. What was
-calculated: the testimony ledger's bands, slant axis, and claim-class table (16 claims, 10
-settled); the severance-declaration counts (129, 100% re-engagement, 36s median); the 46 self-
-condemnations (13 major); the graded-credence asymmetry (24 strict outbound, effectively zero
-inbound). What was inferred: the five-function sort, the discrimination test and its case
-verdicts, the "native before instrumental" reading, the geometry-dependence claim in section 10,
-the mutual-permission-structure reading, the axioms' recursion. What was disproven: the fused
-dark-humor exchange (two days, not one); the reading of the 2017 cruise-ship tweet as a self-own
-(outward-directed); the attribution of "forensic intimacy" phrasing to the-commissioned-self
-page. What remains disputed: whether the Rick call's frame stays moved; whether the hedged
-band's outperformance survives a larger n; whether the accountability machinery's selectivity
-(world-propositions vs self-propositions) is a stable trait or a sampling artifact. What is
-unknown: the content of Rick's reframe; the pre-2007 installation of the register; off-channel
-behavior change; the frequency of the vocabulary's outward flip; the follow-through on the 2016
-micro-apology intentions.
-
 ## 13. Second pass: the ledger walk and four more exhibits
 
-A second research pass over the testimony ledger's full record and three exhibits the first pass
+A second research pass over the [[wiki/meta/testimony-veracity|testimony ledger]]'s full record and three exhibits the first pass
 under-read. This section is dated addenda, not revision — the thesis stands; the evidence gets
 denser.
 
@@ -955,7 +825,7 @@ denser.
 The sixteen claims, grouped by outcome, with what each group shows about the self-own register.
 
 **Confirmed (4).** t001: the April 2018 hospital vaping incident produced an actual criminal
-summons, not just an incident report — confirmed by docket MJ-14101-NT-0000082-2018. t003: Fran
+summons, not just an incident report — confirmed by docket MJ-14101-NT-0000082-2018. t003: [[wiki/people/fran-coldren|Fran]]
 Coldren "about 97 or 98" at death — confirmed at 97, the hedged range containing the truth.
 t012: meeting Alexis on a Thanksgiving 2009 trip, her Orlando arrival about two weeks later —
 confirmed by the tweet archive's dated fortnight of unnamed "her" before the first @alexisarmel
@@ -966,7 +836,7 @@ strongest cases (t001, t014) the confirmation comes from records he didn't autho
 accountability form of the self-own — the dose, the date — is the form that survives
 adjudication.
 
-**Partial (2).** t009: the six tattoos named on July 14, 2026 are his tattoos — partial, because
+**Partial (2).** t009: the six [[wiki/self/tattoos|tattoos]] named on July 14, 2026 are his tattoos — partial, because
 the tweet archive holds two the list didn't: the letter 'A' for Alexis, tattooed January 23,
 2010, eight years earlier than anything on the list, and a Morrissey piece dated by October
 2019. t015: the O&A-fans-repulsed-by-racism self-account — partial, because the 2014 archive
@@ -977,7 +847,7 @@ the core holds, a material detail doesn't — and the failure mode in both is om
 compression, not invention. He left the Alexis tattoo off the list; he compressed a multi-year
 radicalization into its origin scene. Neither flatters.
 
-**Self-contradicted (1).** t006: the April 2018 hospital vigil — him vaping in the room and Suz
+**Self-contradicted (1).** t006: the April 2018 hospital vigil — him vaping in the room and [[wiki/people/suzanne-frank|Suz]]
 in the bathroom, versus the Photo Thread session's inversion (him on the 110-watt SMOK in the
 room, Suz on the 10-watt device in the bathroom). Neither account contemporaneous, both his,
 roughly two weeks apart. This is the ledger's closest approach to the self-own register's danger
@@ -1011,7 +881,7 @@ shield made of misdated truths is flexible, which is why it has lasted nineteen 
 
 ### 13b. The "stay away from coca" same-day arc
 
-December 30, 2015. At ~01:29 Dan accidentally sends Annie a message meant for Lukyan: *"Cmon in
+December 30, 2015. At ~01:29 Dan accidentally sends [[wiki/people/annie-ulmer|Annie]] a message meant for Lukyan: *"Cmon in
 / Oops meant to send to Lukyan. He's dropping off some greens for our 'stay away from coca'
 plan"* **[ATTESTED]** ([[wiki/timeline/annie-record]]). The plan is named, in quotes, in the small hours — a harm-
 reduction announcement with a named supplier and a named substitute. Sixteen hours later, at
@@ -1050,13 +920,13 @@ ever being asked.
 
 ### 13d. "Autistic Truth Seeker": the self-own fused with the epistemic identity
 
-The operating manual's self-designations — "Failson," "Autistic Truth Seeker" — deserve a
+The [[wiki/mind/concepts/exocortex|operating manual]]'s self-designations — "Failson," "Autistic Truth Seeker" — deserve a
 paragraph because the second one fuses the self-own with the epistemic identity, and the fusion
 does specific work. "Failson" is pure debasement; "Autistic Truth Seeker" is debasement *as
 credential*. The "autistic" names the flaw (in his own lexicon, the trait cluster: explicit-
 over-inferred meaning, Ti-dom/Fe-inferior); the "truth seeker" converts the flaw into the
 instrument — the reason he can be trusted to name things plainly is that he names himself
-plainly first. This is the Ally credential claim (section 3) compressed into a title: the self-
+plainly first. This is the [[wiki/people/ally-lubin|Ally]] credential claim (section 3) compressed into a title: the self-
 own as the warrant for the epistemic authority. The entry notes the fusion because it is the
 most sophisticated form of the shield in the corpus — not "I'm broken so don't judge me" but
 "I'm broken in the specific way that makes me the person who tells the truth about brokenness."
@@ -1081,3 +951,135 @@ two people; it is two instances of the same speech-act economy interlocking. His
 discharge his urgency; her non-prosecution withholds the only signal his architecture would
 recognize as a verdict. The sentence is never carried because neither party's instrument can
 pronounce it.
+
+## 14. The two functions, held together
+
+The spec's framing — "the humility performance vs the stasis function" — implies two things in
+tension. The corpus suggests something stranger: they are two functions of one utterance, not
+two utterances in tension. The 2019-08-17 [[wiki/people/ally-lubin|Ally]] line performs humility (the comfort grant — "so
+you don't have to worry about feeling shitty or weird") and licenses stasis (no behavioral
+consequence named, none required, the confessional explicitly staked at zero) in the same
+sentence. The Suboxone honesty performs humility (a true, checkable confession to a peer, no
+humor pricing) and licenses stasis (thirteen years of the same dose) in the same exchange. The
+"nobody DJ" tweet performs humility (accurate self-placement, publicly stated) and licenses
+stasis (the contest entered the same month, the project continuing at full volume) in the same
+breath. In each case the humility is not fake — the entry has been insistent on this — and the
+stasis is not separate from the humility. The humility is the *mechanism* of the stasis. The
+proceeding closes *because* the confession was good, not despite it.
+
+This is why the distinguishing variable was never in the utterance. It is in the audience's
+standing. Run the cases through that variable and they sort themselves: the utterances offered
+to audiences without standing (Twitter, the fellow addict, the "completely uninvolved"
+confidante, the charmed former boss) all resolve to stasis; the one utterance offered to an
+audience with standing ([[wiki/people/rick-frank|Rick]], the other party to the hinge) resolved to a breakdown and a
+recovery — the frame moved. The humility performed is roughly constant across the cases. What
+varies is whether anyone in the room can convert it into a verdict. The shield is not a property
+of the self-own. It is a property of the room the self-own is said in.
+
+That reframes the entry's question one final time. "When does self-owning function as
+accountability vs as a shield that licenses stasis?" The corpus's answer: it functions as
+accountability when the room contains someone with standing to prosecute, and as a shield
+everywhere else — regardless of the speaker's sincerity, the confession's truth-value, or the
+humility's measurable reality. The hedged band's outperformance, the DeSantis ownership, the
+t014 confirmation all survive this reframing; they are properties of the utterance, and the
+reframing doesn't touch them. What it touches is the expectation that a better confession would
+produce a better outcome. It wouldn't. The confession was never the variable. The room was.
+
+The practical form of this is axiom 5's instruction, and the entry closes by taking it
+literally: engage the unchanged behavior, not the awareness of it. Not because the awareness is
+false — the ledger says the specifics hold — but because the awareness is not the variable
+either. Nineteen years of the register, five functions, one discrimination test, and the test's
+final form is a question about the room, not the man: who in this conversation has standing to
+say "that isn't good enough," and what happens when they say it? On September 12, 2026, for the
+first time in the record, someone did. The entry's last word is the one it started with: the
+record will say whether the frame stayed moved. That measurement hasn't happened yet.
+
+## Appendix: method note (compact)
+
+Self-own instances were identified by lexicon search over the corpus export (`corpus__3.txt`)
+for the self-deprecation vocabulary ("garbage person," "failson," "professional loser," "nobody
+DJ," "poseur," "patron saint of liars and fakes," self-condemnation constructions) cross-checked
+against the wiki's existing analyses (the [[wiki/mind/profile/enneagram-5w4|5w4]] profile, the voice-modes trigger list, the
+MAX_PRIME axioms as quoted in the max-framework overview, the ally-lubin and [[wiki/people/annie-ulmer|annie]]-ulmer pages'
+counted analyses). Dated instances were verified against the primary record where the corpus
+preserves it: the ihatedanfrank handle registration (January 9, 2007) via [[wiki/self/facebook]]; the
+2010-02-17 tweet and the 2013–14 tweets via the twitter archive pages; the 2016-01-09 micro-
+apologies via [[wiki/timeline/annie-record]]; the 2018–19 Ally lines with message timestamps (2018-12-17 16:07:23;
+2019-08-17) via [[wiki/people/ally-lubin]]; the July 10, 2013 Elizabeth Eleanor exchange via [[wiki/people/elizabeth-eleanor]] and
+[[wiki/health/chemical-architecture]]; the August 21, 2024 Tarik message via [[wiki/people/tarik-fallous]]; the 2026-09-12 [[wiki/people/rick-frank|Rick]] call via
+[[wiki/mind/synthesis/november-2005-hinge]] citing the Rick page's 2026-09-12 update.
+
+The gotcha-adjacent material is confined to this appendix per the 2026-09-13 doctrine. Three
+corrections the research surfaced: (1) the "garbage person" dark-humor exchange sometimes cited
+as a single paired exchange is two separate exchanges on two days — Dan's line is 2018-12-17,
+the cat-cancer line it is sometimes fused with is 2018-12-18 — and a model-generated dossier
+fused them; the corpus record keeps them separate. (2) The 2017-12-27 "garbage person" tweet is
+outward-directed (cruise-ship vacationers), not a self-own — it shows the vocabulary's direction
+can flip, which the entry's function analysis accounts for but does not lean on. (3) The
+"forensic intimacy" phrasing sometimes attached to the commissioned profile's register comes
+from a corpus-extraction summary, not from the-commissioned-self page itself; this entry
+describes the register without attributing the phrase to that page. None of the three moves the
+thesis.
+
+Counts used: full corpus 217,573 records / 503 handles; Annie 97,768 unique messages; 106,629
+outbound messages 2015–2025 (calibrated-confidence page's original denominator; the re-derived
+denominator is 98,228 deduped — the direction of the asymmetry finding survives, the arithmetic
+was corrected 2026-08-23); [[wiki/meta/testimony-veracity|testimony ledger]] 16 claims, 10 settled, veracity 52/100, Brier 0.335,
+skill −0.34; confidence bands certain 0.25/0.95 (n=4), confident 0.69/0.80 (n=4), hedged
+0.75/0.60 (n=2); slant axis 6 neutral, 1 flattering (n=7 scored); severance declarations 129,
+100% re-engagement, median gap 36s; her self-condemnations 46, 13 rated major; nicotine quit
+announced 2008-10-16, dead by 2008-12-22. No dat: node IDs were invented for this entry.
+Epistemic markers follow the house convention: [OPERATOR] for Dan's own statements, [ATTESTED]
+for primary-record facts, [DERIVED] for the entry's arithmetic, [INFERRED] for the entry's
+readings with the seams showing.
+
+## Gaps
+
+- **The [[wiki/people/rick-frank|Rick]] reframe, unquoted.** The hinge page records the effect (the reframe, the breakdown, the recovery) but not the content of what Rick said. The entry's accountability-form scoring of the call rests on the rebuttal's existence, not its substance — the substance would sharpen or revise the scoring.
+- **The frame's future.** Whether the 2026-09-12 call changed anything — the story Dan tells about the hinge going forward, the repair's trajectory, the September 2 dinner's completion status (unconfirmed as of the hinge page's writing) — is unmeasured. The entry scores the call provisionally; the measurement that would confirm or move it hasn't happened.
+- **Pre-2007 onset.** The handle is registered January 9, 2007; what installed the register before that is outside the record. The "native before instrumental" reading is chronology, not etiology.
+- **The hedged band's n.** Two settled claims. The outperformance (0.75 vs 0.60) is the entry's main counter-evidence and its thinnest number. The ledger is append-only; the next hedged claims will move it.
+- **Off-channel behavior change.** The stasis verdict is bounded by the corpus's coverage — a near-zero-introspection medium. Change that happened in rooms with no export would not appear here. The Suboxone continuity is the hardest case for this objection; the relational cases are softer.
+- **The [[wiki/people/ally-lubin|Ally]] channel's later years.** The trust-credential analysis runs on 2018–19 material; whether the symmetric self-indictment held through the channel's later phases (the August 2026 silence, the September 2026 re-engagement) is outside this entry's scope.
+- **The outward flip, uncounted.** The 2017 cruise-ship tweet shows the self-own vocabulary turned outward as status humor. How often the register inverts direction — self-own vocabulary as a weapon against others — is uncounted, and the 2014 Aoki line sits on the boundary (self-own as credential for an outward complaint).
+- **The micro-apology follow-through.** The 2016-01-09 intentions ("i'm trying to not be") have no measured follow-through in the record. A day-scale behavioral read of the surrounding messages could score this case harder in either direction.
+- **The axioms' own status.** MAX_PRIME.md is cited via the max-framework overview's quotation; the entry did not independently verify the axiom texts against the raw file. The two axioms are load-bearing for the thesis; a direct quote-check against `raw/self/dox-md/MAX_PRIME.md` is a one-command verification that should happen before this entry is treated as settled.
+- **The 2015-12-30 arc's generality.** The "stay away from coca" same-day cycle is the only exhibit at single-day resolution. Whether the announcement→self-own→reversal cycle typically runs in hours (as here) or in months (as with the nicotine quit) is unmeasured — the timescale distribution of the speech-act economy is unknown.
+- **A testable prediction from section 14.** If accountability tracks audience standing
+rather than utterance quality, then future self-owns offered to high-standing audiences (Rick,
+or anyone with leverage to demand change) should show measurable behavioral deltas at higher
+rates than self-owns offered to safe audiences — and the Rick call is the first data point
+either way. The prediction is falsifiable on a timescale of months: if the hinge story Dan tells
+going forward is unchanged, the standing variable fails and the utterance-quality reading
+revives.
+- **Corpus-first workflow note.** The lexicon search ran over `corpus__3.txt` for the
+self-deprecation vocabulary and cross-checked `corpus_index.txt` for the extraction summaries;
+the dated instances were then pulled by line number and verified against the wiki pages that
+cite the primary record. The search is lexicon-bounded: self-owns phrased outside the searched
+vocabulary (ironic understatement, self-own by implication) are systematically undercounted, and
+the inventory should be read as a lower bound.
+- **The "Autistic Truth Seeker" designation's date.** The operating manual carries the self-designation but the entry did not date its first appearance. If the fusion form postdates the pure-debasement form ("Failson"), the register has a developmental arc the entry hasn't traced.
+
+## Limits of record
+
+What was directly observed: the dated self-own instances (handle registration, tweets,
+timestamped messages, the July 2013 exchange, the August 2024 Tarik message, the September 2026
+call as reported by the hinge page); the MAX_PRIME axioms as quoted in the worktree's max-
+framework overview; the trigger-timing analysis in the voice-modes profile; the nicotine quit's
+dated announcement and failure. What was reported: Dan's own naming of the mechanism (axioms 2
+and 5), the hinge page's account of the [[wiki/people/rick-frank|Rick]] call's effect, the [[wiki/people/ally-lubin|ally]]-lubin page's "confessional
+with no stake" framing, the [[wiki/people/annie-ulmer|annie]]-ulmer page's counted self-condemnation analysis. What was
+calculated: the [[wiki/meta/testimony-veracity|testimony ledger]]'s bands, slant axis, and claim-class table (16 claims, 10
+settled); the severance-declaration counts (129, 100% re-engagement, 36s median); the 46 self-
+condemnations (13 major); the graded-credence asymmetry (24 strict outbound, effectively zero
+inbound). What was inferred: the five-function sort, the discrimination test and its case
+verdicts, the "native before instrumental" reading, the geometry-dependence claim in section 10,
+the mutual-permission-structure reading, the axioms' recursion. What was disproven: the fused
+dark-humor exchange (two days, not one); the reading of the 2017 cruise-ship tweet as a self-own
+(outward-directed); the attribution of "forensic intimacy" phrasing to the-commissioned-self
+page. What remains disputed: whether the Rick call's frame stays moved; whether the hedged
+band's outperformance survives a larger n; whether the accountability machinery's selectivity
+(world-propositions vs self-propositions) is a stable trait or a sampling artifact. What is
+unknown: the content of Rick's reframe; the pre-2007 installation of the register; off-channel
+behavior change; the frequency of the vocabulary's outward flip; the follow-through on the 2016
+micro-apology intentions.

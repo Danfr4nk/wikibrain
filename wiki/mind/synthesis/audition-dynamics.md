@@ -51,6 +51,8 @@ connections:
   - page: wiki/mind/synthesis/dormancy-not-exit
     type: parallels
     claim: "The Ally channel is the bond that persists precisely where no audition is running: eighteen years of dormancy punctuated by failed conversions. This entry argues dormancy is the audition's complement — the state a channel returns to when no one is performing."
+  - { target: "[[wiki/mind/synthesis/transfer-comparative-2015-2026]]", type: contextualizes, claim: "RECIPROCAL — that entry runs the cross-case comparison this page's grammar needs: the failed Ally audition as the mechanism of the 2026 transfer's courtship phase, tested against 2015's mutual simultaneous audition with instantaneous mutual evaluation." }
+  - { target: "[[wiki/mind/synthesis/annie-thread-ally-sweep]]", type: references, claim: "The sweep's 2026 disclosure cluster — Ally named inside a grievance about Annie, announced but never absorbed — is the failed-audition instance with the disclosure repurposed as triangulation: demonstration performed twice, evaluation never rendered." }
   - page: wiki/mind/synthesis/taste-as-filter-stack
     type: parallels
     claim: "His aesthetic auditioning is this grammar inverted: 'Play > skip to 33% in > do nothing OR like track OR like + into the current playlist' — instantaneous, loyalty-blind, no pending state. Romantic auditions run the opposite triage: maximum front-loaded demonstration, slow adjudication, verdict by exhaustion."
@@ -78,8 +80,8 @@ structural, not thematic. A burst of front-loaded demonstration energy — outpu
 at a volume and intensity the relationship will never sustain again — aimed at a
 role specified by the terms of a *prior* relationship, evaluated once (or
 never), and then followed by the collapse that arrives when the demonstration
-ends and the thing itself shows up. Kristin in September 2025, Ally in June and
-August 2026, Alexis-to-Annie in November–December 2015. This entry is the
+ends and the thing itself shows up. [[wiki/people/kristin|Kristin]] in September 2025, [[wiki/people/ally-lubin|Ally]] in June and
+August 2026, [[wiki/people/alexis-armel|Alexis]]-to-[[wiki/people/annie-ulmer|Annie]] in November–December 2015. This entry is the
 cross-case grammar of those three openings: the four phases, stated formally so
 they can be checked against each case, and the question the three cases jointly
 pose — whether the audition ever produces a durable bond, or whether the bond
@@ -115,8 +117,8 @@ Front-loaded maximum output, compressed into the shortest window, delivered
 conversation; it is a performance of capacity. Its signature is quantitative:
 output volume and intensity far above anything the relationship later sustains.
 
-- **Kristin:** 14,688 messages in September 2025 — 73.4% of everything ever said to her — with his share at 51.5% parity, preceded by 2,009 Messenger messages at 71.6% his share, the pursuer's ratio **[DERIVED]**. Fourteen thousand messages is not a conversation. It is a demonstration.
-- **Ally:** the June 1 nine-message burst (unreceived — performed to an empty house, see below), then August 18–19: 380 consecutive messages against no reply in the captured record, with 119 outbound in a single hour (08:00, August 19) **[DERIVED]**. Maximum voltage, no audience confirmed.
+- **[[wiki/people/kristin|Kristin]]:** 14,688 messages in September 2025 — 73.4% of everything ever said to her — with his share at 51.5% parity, preceded by 2,009 Messenger messages at 71.6% his share, the pursuer's ratio **[DERIVED]**. Fourteen thousand messages is not a conversation. It is a demonstration.
+- **[[wiki/people/ally-lubin|Ally]]:** the June 1 nine-message burst (unreceived — performed to an empty house, see below), then August 18–19: 380 consecutive messages against no reply in the captured record, with 119 outbound in a single hour (08:00, August 19) **[DERIVED]**. Maximum voltage, no audience confirmed.
 - **2015:** the grammar inverts here, and the inversion is load-bearing. The demonstration is not volume but *procedure*: the eviction executed inside seventy-two hours — key confiscated November 28 (*"She left her key out yesterday and I snagged it"*), property removed November 30 00:35, Alexis's parents summoned 13:42 — followed by the onset flood, 728 / 682 / 363 / 679 messages sent December 10–13, the highest daily sent-volume in the 2011–2026 record **[ATTESTED, recomputed]**. In the mutual case the flood is *post*-acceptance, which is the first structural difference the grammar has to account for.
 
 Phase 1's falsifier is a slow ramp: a relationship in this set that builds to
@@ -130,8 +132,8 @@ is always written from the terms of a prior relationship — the prior
 relationship is the casting director, setting the criteria the audition must
 meet.
 
-- **Kristin:** *"the Danny who stays."* Danny is dead — *"I'm sitting in the same spot I found out Danny died"* (Sep 1); *"There was never supposed to be 'on and off' with Danny"* (Sep 6) — and the bid is not to be a different man. It is to be the Danny who stays: the same myth, with a better ending **[OPERATOR]**. Danny was passion without permanence; the offer is passion *with* permanence. The bid's weakness is visible inside its own grammar: permanence is the one thing you cannot demonstrate in week four of knowing someone. It can only be promised.
-- **Ally:** the role is priced by the auditor herself, at 13:54:32 on August 18: *"Well first you'd have to be obsessed with me again"* **[OPERATOR]**. But the audition is conducted in a different currency than the price is denominated in — vows, campaigns, elopement logistics (*"Do not stand in the way of destiny"*), where she priced sustained undisguised obsession, the watcher channel's native currency. He is auditioning with Protocol A for a slot whose entry condition is written in Protocol B **[INFERRED]**.
+- **[[wiki/people/kristin|Kristin]]:** *"the Danny who stays."* Danny is dead — *"I'm sitting in the same spot I found out Danny died"* (Sep 1); *"There was never supposed to be 'on and off' with Danny"* (Sep 6) — and the bid is not to be a different man. It is to be the Danny who stays: the same myth, with a better ending **[OPERATOR]**. Danny was passion without permanence; the offer is passion *with* permanence. The bid's weakness is visible inside its own grammar: permanence is the one thing you cannot demonstrate in week four of knowing someone. It can only be promised.
+- **[[wiki/people/ally-lubin|Ally]]:** the role is priced by the auditor herself, at 13:54:32 on August 18: *"Well first you'd have to be obsessed with me again"* **[OPERATOR]**. But the audition is conducted in a different currency than the price is denominated in — vows, campaigns, elopement logistics (*"Do not stand in the way of destiny"*), where she priced sustained undisguised obsession, the watcher channel's native currency. He is auditioning with Protocol A for a slot whose entry condition is written in Protocol B **[INFERRED]**.
 - **2015:** the role is the mutual exit. She says it outright on 2015-11-29 at 02:52: *"I am going to get rid of him just like you just did"* **[ATTESTED]**. Each applies to be the other's way out. There is no prior-relationship myth to correct here — the prior relationships are not the casting directors, they are the things being exited. This is the second structural difference.
 
 Phase 2's falsifier is an audition for a role with no prior-relationship
@@ -144,8 +146,8 @@ is the exception.
 The moment the demonstration is judged. The grammar's sharpest discriminator,
 because the three cases diverge here completely.
 
-- **Kristin:** evaluated continuously and the verdict was *acceptance*. Her side of the audition — the astrology sessions, the Twitter excavation, the meth photographs — was a demonstration too: *here is the worst of it, early, all at once, decide now* **[INFERRED]**. The September 19 disorder-test sequence, the escalating purity tests, the climax-as-oath (*"If I cum with you in my presence I'll be with you until death"*) — these are an evaluation apparatus, and it rendered a yes. The relationship continued into October. Then came the re-evaluation at the first non-performance event, which is Phase 4.
-- **Ally:** never evaluated. The June 1 burst went to `allylubin@gmail.com`, the iCloud handle she does not monitor — misaddressed, not rejected **[DERIVED, operator-corroborated 2026-08-20]**. The first audition was performed to an empty house; she concluded for a time she had been blocked, the channel's own verdict on a silence that was a routing artifact. The August 18 elopement pitch sits unanswered in every source filed to date, and the August 19 inbound is missing from the export rather than proven absent — so the second attempt's evaluation is permanently **[UNKNOWN]** unless a re-export settles it. An audition that is never evaluated doesn't end. It just stops being performed.
+- **[[wiki/people/kristin|Kristin]]:** evaluated continuously and the verdict was *acceptance*. Her side of the audition — the astrology sessions, the Twitter excavation, the meth photographs — was a demonstration too: *here is the worst of it, early, all at once, decide now* **[INFERRED]**. The September 19 disorder-test sequence, the escalating purity tests, the climax-as-oath (*"If I cum with you in my presence I'll be with you until death"*) — these are an evaluation apparatus, and it rendered a yes. The relationship continued into October. Then came the re-evaluation at the first non-performance event, which is Phase 4.
+- **[[wiki/people/ally-lubin|Ally]]:** never evaluated. The June 1 burst went to `allylubin@gmail.com`, the iCloud handle she does not monitor — misaddressed, not rejected **[DERIVED, operator-corroborated 2026-08-20]**. The first audition was performed to an empty house; she concluded for a time she had been blocked, the channel's own verdict on a silence that was a routing artifact. The August 18 elopement pitch sits unanswered in every source filed to date, and the August 19 inbound is missing from the export rather than proven absent — so the second attempt's evaluation is permanently **[UNKNOWN]** unless a re-export settles it. An audition that is never evaluated doesn't end. It just stops being performed.
 - **2015:** evaluation instantaneous and mutual. Both exited within the same seventy-two hours — he left Alexis within twenty-four hours of the introduction, she was ending her own relationship in the same window — and a third party named the mechanism in real time: Zac Shumar, December 6, *"Like we even talked about how lex and annie are similar so you bail on lex and jump on Annie like that's just dumb"* **[ATTESTED]**. No tests, no gates, no oaths. The verdict was the transfer itself.
 
 Phase 3's falsifier is a slow, deliberated evaluation in any of the three cases
@@ -157,8 +159,8 @@ demonstration window. The record shows the opposite in all three.
 What happens when the demonstration ends and the thing itself arrives. The phase
 the title of this entry is named for.
 
-- **Kristin:** the decay *is* the second half of the relationship. October: 4,896 messages, a third of September; his share slipping to 46.9%. November: 53 messages — a rounding error — his share collapsed to 26.4%, the withdrawal made quantitative **[DERIVED]**. The trigger is precise and it is not dramatic: $40 of his mother's money, unaccounted for, across a two-hour drive nobody makes. *"anything to do with you beating my mom for $40 and not wanting to see me in person?"* **[OPERATOR]**. Then the nine-day undeclared silence (November 4–13), the single documented case in the corpus where he went quiet first without announcing it — *"Idk why you just up and ghosted like that"* (her, Nov 13), answered but not denied. Then December's 372-message reactivation and the sixteen-minute terminal sequence on December 9: told to get lost at 18:40, technical threats at 18:42 (*"guess who has your IP address"*), ic3.gov at 18:45, the IPR Center form at 18:51, *"Blocking you now. Don't contact me again or an officer will be reaching out"* at 18:55, his last word into the block at 18:56 — *"mr. officer i live at 337 saratoga drive"* **[ATTESTED]**. The $40 was the first thing in the relationship that wasn't a performance. It was just money, missing, and somebody had to answer for it. You can survive a bad review. You cannot survive the casting director deciding you're unreliable with money that wasn't yours.
-- **Ally:** no acceptance, no decay. The channel returns to its native state — dormancy — which is not a failure mode but the condition the channel is built on. The eighteen-year shape (two spikes, years of silence, never closed) is what an unevaluated audition decays *into*: not an ending, but the waiting room.
+- **[[wiki/people/kristin|Kristin]]:** the decay *is* the second half of the relationship. October: 4,896 messages, a third of September; his share slipping to 46.9%. November: 53 messages — a rounding error — his share collapsed to 26.4%, the withdrawal made quantitative **[DERIVED]**. The trigger is precise and it is not dramatic: $40 of his mother's money, unaccounted for, across a two-hour drive nobody makes. *"anything to do with you beating my mom for $40 and not wanting to see me in person?"* **[OPERATOR]**. Then the nine-day undeclared silence (November 4–13), the single documented case in the corpus where he went quiet first without announcing it — *"Idk why you just up and ghosted like that"* (her, Nov 13), answered but not denied. Then December's 372-message reactivation and the sixteen-minute terminal sequence on December 9: told to get lost at 18:40, technical threats at 18:42 (*"guess who has your IP address"*), ic3.gov at 18:45, the IPR Center form at 18:51, *"Blocking you now. Don't contact me again or an officer will be reaching out"* at 18:55, his last word into the block at 18:56 — *"mr. officer i live at 337 saratoga drive"* **[ATTESTED]**. The $40 was the first thing in the relationship that wasn't a performance. It was just money, missing, and somebody had to answer for it. You can survive a bad review. You cannot survive the casting director deciding you're unreliable with money that wasn't yours.
+- **[[wiki/people/ally-lubin|Ally]]:** no acceptance, no decay. The channel returns to its native state — dormancy — which is not a failure mode but the condition the channel is built on. The eighteen-year shape (two spikes, years of silence, never closed) is what an unevaluated audition decays *into*: not an ending, but the waiting room.
 - **2015:** no decay. The demonstration ended, the thing itself arrived, and the thing held for eleven years. The phase that doesn't happen is the finding — and it is the reason the 2015 case is the one the durability question gets tested against.
 
 ### The inverted parallel: the 33% skip test
@@ -171,7 +173,7 @@ Instantaneous, loyalty-blind, binary-plus, no pending state, no maybe — the
 verdict lands on the drop before the artist's name has time to matter, per
 [[wiki/mind/synthesis/taste-as-filter-stack]].
 
-The romantic audition is the photographic negative: maximum front-loaded
+[[wiki/mind/synthesis/the-romantic|The romantic]] audition is the photographic negative: maximum front-loaded
 demonstration, slow adjudication, verdict by exhaustion rather than by impact.
 In music the audition is over in seconds and the track either enters the crate
 or doesn't; in relationships the audition runs for weeks and the verdict is
@@ -188,9 +190,9 @@ it happens before the demonstration begins: the audience is assembled before the
 performance. The audition needs a casting director, and the casting director is
 installed in advance.
 
-- **Kristin:** the wall of despair, August 1–3, 2025 — dozens of printed portraits, built *"to get her take,"* nearly four weeks before the first direct contact in evidence **[OPERATOR]**. The demonstration (September's 14,688) is performed for an audience of one that was addressed before it existed. The wall is also the artifact tying the thread to the attraction-guide workstream: the portraits were the instrument's raw material before they were a courtship prop.
-- **Ally:** eighteen years of watcher-channel accumulation. The 2019 crisis (943 messages), the $2,100 money thread (accepted with *"Oh fuck,"* contested seven years later), the *"so i can get the poison out"* mission statement — all of it is pre-audition. When the June 1 burst fires, it fires into a channel with eighteen years of unmet charge. The auditor was installed in 2008; the audition is 2026.
-- **2015:** Alexis introduces them — *"HAPPY ONE WEEK SINCE LEX HANDED YOU TO ME"* — and Suz phones on November 29 to say he *should* date Annie, supplying the family-name theory (*"I.e. Anne Dan Suzanne Fran Diane Van"*) before the transfer executes **[ATTESTED]**. The casting is brokered before the performance: the mother names the role, the predecessor supplies the introduction, and only then does the eviction procedure run.
+- **[[wiki/people/kristin|Kristin]]:** the wall of despair, August 1–3, 2025 — dozens of printed portraits, built *"to get her take,"* nearly four weeks before the first direct contact in evidence **[OPERATOR]**. The demonstration (September's 14,688) is performed for an audience of one that was addressed before it existed. The wall is also the artifact tying the thread to the attraction-guide workstream: the portraits were the instrument's raw material before they were a courtship prop.
+- **[[wiki/people/ally-lubin|Ally]]:** eighteen years of watcher-channel accumulation. The 2019 crisis (943 messages), the $2,100 money thread (accepted with *"Oh fuck,"* contested seven years later), the *"so i can get the poison out"* mission statement — all of it is pre-audition. When the June 1 burst fires, it fires into a channel with eighteen years of unmet charge. The auditor was installed in 2008; the audition is 2026.
+- **2015:** Alexis introduces them — *"HAPPY ONE WEEK SINCE LEX HANDED YOU TO ME"* — and [[wiki/people/suzanne-frank|Suz]] phones on November 29 to say he *should* date [[wiki/people/annie-ulmer|Annie]], supplying the family-name theory (*"I.e. Anne Dan Suzanne Fran Diane Van"*) before the transfer executes **[ATTESTED]**. The casting is brokered before the performance: the mother names the role, the predecessor supplies the introduction, and only then does the eviction procedure run.
 
 Phase 0's function in the grammar: it explains why the demonstrations are so
 precisely aimed. The Kristin bid doesn't invent the Danny myth on September 25;
@@ -266,7 +268,7 @@ disclosure. And the oaths escalate past evaluation into contract: *"If I cum
 with you in my presence I'll be with you until death"* **[ATTESTED]**,
 *"completely throw myself into the situation"* (his).
 [[wiki/mind/psychosexual/arrangement-history]] files the whole arrangement as
-the documented inversion of the Annie structure — total-exclusivity demands and
+the documented inversion of the [[wiki/people/annie-ulmer|Annie]] structure — total-exclusivity demands and
 purity tests where the Annie arrangement practiced authored openness. Both are
 control systems; one controls by writing the rules down, the other by testing
 whether you already know them. He operated inside hers at maximum voltage for
@@ -313,7 +315,7 @@ re-engagement; it doesn't explain severance surviving dependency.
 The first attempt never arrived. On June 1, 2026 at 00:27:49 Dan severs the
 eleven-year relationship — *"Goodbye forever. This was not how it should have
 ended"* **[OPERATOR]** — and nineteen hours and thirty-eight minutes later, at
-20:06:05, opens the Ally channel for the first time in fourteen months: *"My
+20:06:05, opens the [[wiki/people/ally-lubin|Ally]] channel for the first time in fourteen months: *"My
 sweetness my love / Guess who suffered their first real like BRUTAL heartbreak /
 cheated on and then she had the dude message to inform me 11 years lmao"* …
 ***"more importantly when am I allowed to come try to marry on you because I
@@ -414,7 +416,7 @@ The concurrency table belongs in this case's Phase 1 accounting, because the
 demonstration ran beside a second live channel hour by hour — the only period in
 the documented record where it did:
 
-| Hour (2026) | → Annie | ← Annie | → Ally | ← Ally |
+| Hour (2026) | → [[wiki/people/annie-ulmer|Annie]] | ← Annie | → Ally | ← Ally |
 |---|---|---|---|---|
 | 08-18 15:00 | 77 | 44 | 6 | 4 |
 | 08-18 16:00 | 14 | 8 | 37 | 30 |
@@ -453,7 +455,7 @@ inaccessibility, and the two cannot both be satisfied.
 ## Case three: Alexis→Annie, 2015 — the completed audition
 
 The introduction came from Alexis herself. *"HAPPY ONE WEEK SINCE LEX HANDED YOU
-TO ME"* (Annie, Dec 1) **[ATTESTED]** — the prior relationship's holder
+TO ME"* ([[wiki/people/annie-ulmer|Annie]], Dec 1) **[ATTESTED]** — the prior relationship's holder
 physically handing the successor the introduction, which is the single-bond
 switch with no cover story. On 2015-11-29 at 02:52, the same night as the
 golf-course meeting, Annie says: *"I am going to get rid of him just like you
@@ -465,7 +467,7 @@ Phase 1 here is procedure, not volume. The eviction runs as a checklist rather
 than a confrontation: the key confiscated November 28, property removed from the
 guest bedroom November 30 at 00:35 (*"so she knows I could actually call the
 cops"*), Alexis's parents summoned at 13:42 — each step reversible, none of them
-a rupture **[ATTESTED]**. Suz brokers it: on November 29 she phones to say he
+a rupture **[ATTESTED]**. [[wiki/people/suzanne-frank|Suz]] brokers it: on November 29 she phones to say he
 *should* date Annie (*"I.e. Anne Dan Suzanne Fran Diane Van"*), and at 05:02 on
 November 30 — *"Suz just came to check on me, brought me a line, and told me
 she'd get me a car this week if I get Alexis out"* **[ATTESTED]**. Cocaine and a
@@ -574,7 +576,7 @@ carry audition-shaped entries beyond the three core cases, and they are filed
 here so the grammar's coverage is complete.
 
 **1. The 2009-origin narration (bond-switch-2015).** On 2015-11-28 at
-19:07–19:08, already texting Annie intimately, Dan narrates the origin of the
+19:07–19:08, already texting [[wiki/people/annie-ulmer|Annie]] intimately, Dan narrates the origin of the
 Alexis relationship as a contrast case: *"I love this it's the exact opposite
 way I started my last relationship"* → *"Like I truly trust you"* → *"Lex
 cheated on me 2 weeks in after I moved her to fla"* **[ATTESTED]**. Read
@@ -586,7 +588,7 @@ relationship started wrong (cheating, two weeks in), so this one starts right
 operating at the scale of a single message sequence, not just at the scale of
 months.
 
-**2. The August 26 block report (annie-ally-contrast).** On August 26 Dan told
+**2. The August 26 block report ([[wiki/mind/synthesis/annie-ally-contrast|annie-ally-contrast]]).** On August 26 Dan told
 Ally that Annie remained blocked — the fixed premise of the new life — and the
 retraction later showed the boundary was performed, not enacted: ~25
 declarations, zero executions, daily texting throughout **[DERIVED]**.
@@ -645,7 +647,7 @@ doesn't precede the bond; the bond's formation *is* the demonstration. The
 grammar's Phase 1/Phase 3 ordering inverts, which is why the 2015 case reads as
 the exception that organizes the rule.
 
-The audition produces a non-durable bond once — Kristin — and the mechanism of
+The audition produces a non-durable bond once — [[wiki/people/kristin|Kristin]] — and the mechanism of
 the non-durability is the grammar's title. The audition succeeded: the role was
 specified (the Danny who stays), the demonstration was performed at maximum
 voltage (14,688 messages), the evaluation rendered acceptance (the tests, the
@@ -657,7 +659,7 @@ performance was insincere, but because auditions select for performance and the
 thing itself is never only performance. Ten weeks. The audition bought
 acceptance; it could not pay maintenance.
 
-The audition produces no bond once — Ally, twice attempted — and the channel
+The audition produces no bond once — [[wiki/people/ally-lubin|Ally]], twice attempted — and the channel
 persists anyway, which is the case for the question's second half. The
 eighteen-year watcher channel is the bond that exists *after every audition
 failed*: its native state is dormancy, its operating condition is
@@ -675,7 +677,7 @@ return to dormancy (Ally). Mutual auditions are demonstrations *with* someone,
 and they survive the end of the demonstration because there is no auditor left
 for the thing itself to disappoint.** The question's second clause is true of
 the Ally channel specifically: the bond there — eighteen years of it, the
-longest-lived attachment in the record after Annie — arrived and persisted
+longest-lived attachment in the record after [[wiki/people/annie-ulmer|Annie]] — arrived and persisted
 precisely where no audition is running. The question's first clause is true
 exactly once, and only under mutuality.
 
@@ -691,8 +693,8 @@ it's an audition. The 10% is the house's own line on the house.
 Each major claim, with what would break it. Standing until broken.
 
 1. **Mutuality predicts durability.** A unilateral audition producing a durable bond anywhere in the record would falsify the central claim. The search space is the full 217,573-record corpus across 503 handles; none has been found. Standing.
-2. **The Kristin Phase-4 trigger.** If a dated source shows the $40 was settled before the November silence, or that the November withdrawal was hers rather than his, the "first non-performance event" reading of the decay trigger narrows to the October cooling alone. Standing.
-3. **The Ally evaluation gap.** If the August 19 inbound is ever re-exported and shows the elopement pitch was answered and engaged — rather than unanswered — the "never evaluated" claim for attempt two fails, and the case becomes a rejected audition rather than an unevaluated one. The June 1 misaddressing stands regardless (operator-corroborated). Standing.
+2. **The [[wiki/people/kristin|Kristin]] Phase-4 trigger.** If a dated source shows the $40 was settled before the November silence, or that the November withdrawal was hers rather than his, the "first non-performance event" reading of the decay trigger narrows to the October cooling alone. Standing.
+3. **The [[wiki/people/ally-lubin|Ally]] evaluation gap.** If the August 19 inbound is ever re-exported and shows the elopement pitch was answered and engaged — rather than unanswered — the "never evaluated" claim for attempt two fails, and the case becomes a rejected audition rather than an unevaluated one. The June 1 misaddressing stands regardless (operator-corroborated). Standing.
 4. **The Suboxone seam.** If the second Kristin export surfaces Suboxone logistics, the "no dependency" explanation for why her severance held gets annotated — a dependency thread makes the eight-month hold harder to explain, therefore more informative. It would revise the evaluation-phase reading, not the grammar. Standing.
 5. **The 2015 Phase-1 inversion.** If the textually dark origin week (November 19–27, four iMessages total) ever yields records showing a slow, deliberated courtship rather than the rupture-then-formalization sequence, the "demonstration as procedure" reading weakens. The formalization layer (Nov 28–30) is corpus-anchored regardless. Standing.
 6. **The currency-mismatch reading.** If Ally's price (*"you'd have to be obsessed with me again"*) is shown to have been met by the August 18–19 run in her own subsequent accounting — i.e., if she ever states the obsession condition was satisfied — the mismatch claim fails and the case becomes a completed Phase 2 with a failed Phase 3. No such statement is in any source filed to date. Standing.
@@ -701,14 +703,14 @@ Each major claim, with what would break it. Standing until broken.
 
 - **The August 19 inbound.** The evaluation moment for the second Ally audition is permanently missing unless both handles are re-exported from `chat.db` — described as a one-command job on [[wiki/people/ally-lubin]]. Until then, "380 unanswered" carries the capture caveat, and the grammar's sharpest Ally claim rests on an absence the instrument produced.
 - **The June 1 burst's afterlife.** The operator confirms Ally never received it (misaddressed, not rejected). Whether she has since seen its text — in the wiki context, where the burst is now quoted — is unrecorded. A received-after-the-fact audition is a strange object the grammar doesn't yet cover.
-- **Kristin's August 26 knock.** Five messages and a missed call, seventeen days unread, in the September register (*"Long time no talk my fellow neuro fuck"*) rather than the December one. If it was a re-audition — the old frequency tested to see if it still carries — it went unanswered by the record, not by Dan (he texted within the hour on September 12). The doctrine's remainder is unadjudicated.
+- **[[wiki/people/kristin|Kristin]]'s August 26 knock.** Five messages and a missed call, seventeen days unread, in the September register (*"Long time no talk my fellow neuro fuck"*) rather than the December one. If it was a re-audition — the old frequency tested to see if it still carries — it went unanswered by the record, not by Dan (he texted within the hour on September 12). The doctrine's remainder is unadjudicated.
 - **The 2015 dark week.** November 19–27 is textually dark (four iMessages); the rupture layer (bar scene, Morgantown, the true minute) is testimony-only per `dat:annie-origin-narrative-dan-20260912`. The mutual audition's Phase 1 is therefore partly unwitnessed — the formalization is corpus-anchored, the rupture is not.
 - **Generalizing the cliff.** The demonstration-decay curve (cliff, not slope) is computed for Kristin and asserted for the others. The volume tables for the Ally bursts and the 2015 onset exist; a side-by-side curve comparison would test whether the cliff is the grammar's signature or Kristin's alone.
 - **The operator's 10%.** One self-estimate, one moment, mid-demonstration. Whether he prices all his auditions or only the doomed ones is a single data point wearing a theory's clothes.
 
 ## Limits of record
 
-- **Observed:** the volume curves (Kristin month table, Ally hour table, 2015 onset flood recomputed from the master dump); the timestamps (June 1 00:27:49 → 20:06:05, August 18 13:54:32 → 23:18–23:20, December 9 18:40–18:56); the quoted messages, all from filed exports.
+- **Observed:** the volume curves ([[wiki/people/kristin|Kristin]] month table, [[wiki/people/ally-lubin|Ally]] hour table, 2015 onset flood recomputed from the master dump); the timestamps (June 1 00:27:49 → 20:06:05, August 18 13:54:32 → 23:18–23:20, December 9 18:40–18:56); the quoted messages, all from filed exports.
 - **Reported:** the operator's testimony — the June 1 misaddressing (corroborated by Ally's own *"Why do I have 2 numbers for you and an iCloud"*), the Suboxone claim (uncorroborated), the 10% estimate, the block retraction. Testimony is labeled where it carries a claim.
 - **Calculated:** the shares (73.4%, 51.5% → 46.9% → 26.4%), the gaps (19h38m, 72 hours, nine days), the cliff shape, the 380-message run. All derived from on-disk exports; the 768/day termination figure from the bootloader is *not* used here (provenance gap, per bond-switch-2015).
 - **Inferred:** the grammar itself — the four phases, the role-specification readings, the currency mismatch, mutuality as the durability variable, the 33%-skip-test inversion. The seams are shown; the inferences are the entry's, not the record's.

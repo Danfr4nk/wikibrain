@@ -82,6 +82,9 @@ connections:
   - page: wiki/legal/463-morgantown
     type: parallels
     claim: "The successor housing's unresolved legal tangle is the curse's signature move: even the landing pad arrives complicated."
+  - { target: "[[wiki/mind/synthesis/vacancy-rule]]", type: extends, claim: "Severance declarations are slot-events, not vacancy events — the vacancy rule is the formal statement of why the curse's 129 performances never open a vacancy." }
+  - { target: "[[wiki/mind/synthesis/the-scoreboard]]", type: references, claim: "Case 6 ('Fifty dollars, worked as a case file') is the scoreboard's counted-incident method applied to a single $50 event." }
+  - { target: "[[wiki/people/tom]]", type: documents, claim: "Case 3's structure-3 failure — Tom Maison's May 2026 no-show — is the friendship/supply collapse the compound case is built on." }
 ---
 
 # The Curse: A Complicating Mechanism
@@ -129,7 +132,7 @@ coinage session of early June 2026 — the one the
 [[wiki/mind/synthesis/aura-illness-compound-collapse|compound-collapse]] entry
 treats as its founding document — he named the state he was in **"aura
 illness"** and glossed it: *"i'm just a walking catastrophe until something
-turns it around"* **[OPERATOR — attested via the annie-ulmer page's "what else
+turns it around"* **[OPERATOR — attested via the [[wiki/people/annie-ulmer|annie]]-ulmer page's "what else
 was collapsing" section]**. "Aura illness" names the *state* (four structures
 failing inside ninety days); "walking catastrophe" names the *self* inside the
 state. Neither names the *mechanism* — the repeatable process by which the
@@ -140,7 +143,7 @@ about fortune.
 
 What would be falsified, stated early so the entry can be graded: if the
 cases below turn out to share no mechanism — if the severance pattern, the
-Kristin break, the Ally channel, the BFS reconstruction, and the housing tangle
+[[wiki/people/kristin|Kristin]] break, the [[wiki/people/ally-lubin|Ally]] channel, the BFS reconstruction, and the housing tangle
 each reduce to independent local causes with no common parts — then "the
 curse" is a mood, not a mechanism, and this entry fails. The test is whether
 the four parts recur across cases that have no other connection to each other:
@@ -149,8 +152,7 @@ argument. If the same four parts show up in all of them, the parts are real.
 
 ## What the curse is not
 
-The obvious confound is [[wiki/mind/concepts/chaos-preference|the chaos
-preference]] — the declared Chaotic Neutral alignment, the entropy appetite,
+The obvious confound is [[wiki/mind/concepts/chaos-preference|the chaos preference]] — the declared Chaotic Neutral alignment, the entropy appetite,
 the documented enjoyment of systems coming apart. That page's claim is precise
 and this entry must not blur it: **the chaos preference is strictly
 outward-facing and exempts the chosen.** He wants disorder in employers,
@@ -181,7 +183,7 @@ is. That is not luck. That is authorship with extra steps.
 
 A third confound, worth naming because it is half true: that the curse is just
 the severance pattern seen from far away. It is not. The severance pattern is
-one part (refusal of clean exits) applied to one channel (Annie). The curse is
+one part (refusal of clean exits) applied to one channel ([[wiki/people/annie-ulmer|Annie]]). The curse is
 the four-part mechanism applied across domains — and the cases below include a
 job, a house, and a friendship, none of which involve severance declarations.
 The severance entry is the deepest measurement of one part; this entry is the
@@ -191,9 +193,9 @@ claim that the parts travel together.
 
 The simple version that was available: **block her.** The iOS block is a real
 affordance; the channel goes dark; the sentences stop. He knew how it worked —
-on May 18, 2026 he blocked and unblocked Tom Maison inside the same day, the
+on May 18, 2026 he blocked and unblocked [[wiki/people/tom|Tom]] Maison inside the same day, the
 toggle thrown and reversed inside hours, which is what a toggle is *for*. The
-simple version of ending the Annie bond was eleven years of available,
+simple version of ending the [[wiki/people/annie-ulmer|Annie]] bond was eleven years of available,
 demonstrated, one-tap exits, any one of which would have done what 129
 declarations did not.
 
@@ -226,7 +228,7 @@ never complete). The toggle costs the channel's silence and requires no one.
 Across August 2026 the speech act ran at 25× volume with the toggle untouched:
 the declaration had been **decoupled from the toggle entirely** and no longer
 even pretended to operate the channel. It operated the audience. The block-
-claims migrated off the Annie channel onto the Ally channel — declared to a
+claims migrated off the Annie channel onto the [[wiki/people/ally-lubin|Ally]] channel — declared to a
 third party while the primary channel stayed live (*"I did not (and will not)
 unblock the paw patrol,"* September 4) — and onto the wiki, which carried the
 August 26 premise for sixteen days. The witness converts the performance into
@@ -238,7 +240,7 @@ The one enacted instance sharpens the case rather than softening it. June 1,
 no trade, nothing to bargain against — *"Goodbye forever… sic semper
 lupanis"* (00:27:49), then **fifty-two days** of silence: twenty-seven times
 the longest gap on record, failed on July 23 on the dog (her July 4 email
-about Milo and the fireworks, answered nineteen days later, then 624 messages
+about [[wiki/people/milo|Milo]] and the fireworks, answered nineteen days later, then 624 messages
 across four days) **[ATTESTED]**. What June 1 proves is that he *can* take
 the simple exit — the toggle works, the silence holds — and that the simple
 exit fails on **inventory**: the loop's corrected formula, the exit is
@@ -250,12 +252,12 @@ every time, at a median of thirty-six seconds.
 
 ## Case 2: The block broken from the inside, within the hour
 
-The simple version that was available: **leave it shut.** Kristin Prentiss's
+The simple version that was available: **leave it shut.** [[wiki/people/kristin|Kristin]] Prentiss's
 December 2025 severance was the corpus's one clean severance: *"All this is
 screenshotted. Blocking you now. Don't contact me again or an officer will be
 reaching out."* **[ATTESTED]** First-person, present-tense, channel-directed,
 with terms (the officer) — the complete grammar, executed, held eight months
-as observed contact. The block-unblock-loop carried her as its inbound control
+as observed contact. The [[wiki/mind/synthesis/block-unblock-loop|block-unblock-loop]] carried her as its inbound control
 case. The simple version was not hypothetical; it was the standing fact for
 eight months. Nothing was co-held. No dependency ran through the channel. The
 exit had no inventory problem.
@@ -315,7 +317,7 @@ removed the structure the next one's recovery would have needed. The
 treats the four as a single causal object; what belongs on this page is the
 curse-shaped skeleton:
 
-- **Structure 3 fails first (the friendship / the supply).** Tom Maison's
+- **Structure 3 fails first (the friendship / the supply).** [[wiki/people/tom|Tom]] Maison's
   no-show breaking point, dated 2026-05-15/16, last contact 2026-05-29/30,
   after the sub-sandwich dispute **[OPERATOR + ATTESTED]**. But the friendship
   was also the supply line, and the supply failure ran Friday through Sunday
@@ -344,7 +346,7 @@ curse-shaped skeleton:
   ran on had failed simultaneously; it ended July 23 because the one channel
   carrying no money, drugs, or logistics (the shared dog) survived the
   collapse intact.
-- **Structure 2 liquidates around him (the house).** 337 Saratoga Drive:
+- **Structure 2 liquidates around him (the house).** [[wiki/places/337-saratoga-drive|337 Saratoga Drive]]:
   listed **$615,000 in May 2025**, sold down through a $500–550k range to
   **$465k** to buyers Jennifer J. and Scott P. Delverm, contingent,
   **closed June 23, 2026** with a 7-day post-close vacate clause, actual
@@ -352,7 +354,7 @@ curse-shaped skeleton:
   The owner-realtor executing the sale is his mother, also the person he
   lives with — the family's largest asset liquidation and the loss of his
   housing collapsed into a single transaction run by one party. The
-  proceeding forcing it: Suz's Chapter 13, filed October 2024. The successor
+  proceeding forcing it: [[wiki/people/suzanne-frank|Suz]]'s Chapter 13, filed October 2024. The successor
   housing — 463 Morgantown St — carries its own unresolved legal tangle
   (**[[wiki/legal/463-morgantown]]**), and Dan's own account as of
   2026-07-14: "no confirmed post-close plan."
@@ -376,7 +378,7 @@ events into one condition, which is exactly the operation the curse's fourth
 part performs: participation through recording.
 
 The one recovery is the curse's tell. On **August 11, 2026** — five days
-before the week that ended the Annie relationship — *"Well I got my job at
+before the week that ended the [[wiki/people/annie-ulmer|Annie]] relationship — *"Well I got my job at
 BFS back"*: the same manager-side chain that posted the 'NO HIRE: Daniel
 Frank' sign told him to reapply **[OPERATOR]**. The only structure in the
 collapse that went the other way, landing inside the window of the worst
@@ -394,10 +396,10 @@ let it go). Both were available at every point. The record shows neither
 happening, ever.
 
 The complication that arrived: the longest-running structure in the corpus
-that contains no body. Ally Lubin — first contact **2011-05-20**, never met
+that contains no body. [[wiki/people/ally-lubin|Ally Lubin]] — first contact **2011-05-20**, never met
 in person, eighteen years of attachment carried as two spikes and nothing
 else: a 1,987-message tie in which a single 48-hour window carries **36% of
-eighteen years of traffic** **[DERIVED — contact-gini]**. The channel's
+eighteen years of traffic** **[DERIVED — [[wiki/mind/concepts/contact-gini|contact-gini]]]**. The channel's
 complications, in order:
 
 - The idolization predates the conversation by a decade. To Polyak on
@@ -406,7 +408,7 @@ complications, in order:
   is"* **[OPERATOR]** — ten years back to 2008, the year she independently
   nominates as her own peak, the period the wiki files as the dark era.
 - The channel was **bought into existence**: $25 to Polyak on December 12,
-  2018, Facebook memo *"For introducing me to Ally Lubin"* **[ATTESTED]**;
+  2018, [[wiki/self/facebook|Facebook]] memo *"For introducing me to Ally Lubin"* **[ATTESTED]**;
   four months later Polyak threatening legal action over Dan **spoofing his
   phone number** to reach her **[ATTESTED]**. The introduction was brokered,
   paid for, and then routed around the broker by impersonation.
@@ -420,7 +422,7 @@ complications, in order:
   ([[wiki/mind/synthesis/dormancy-not-exit|dormancy-not-exit]]).
 - The channel **became the witness**: August 18–20, 2026, both threads active
   in the same hours — Dan telling Ally he had switched his wifi off so he
-  would not see Annie while exchanging 98 messages with Annie in the next two
+  would not see [[wiki/people/annie-ulmer|Annie]] while exchanging 98 messages with Annie in the next two
   hours; *"all ally Lubin all the time now"* ninety minutes before the last
   message of the eleven-year relationship; the elopement pitch, unanswered
   **[ATTESTED — wiki/people/ally-lubin]**. She is the first outsider ever to
@@ -561,7 +563,7 @@ The simple version that was available: **she shares her location; he looks
 or doesn't.** GPS sharing is a solved technology. The simple version of May
 5, 2026 is a blue dot on a map.
 
-The complication that arrived: Annie shared her GPS location **with a third
+The complication that arrived: [[wiki/people/annie-ulmer|Annie]] shared her GPS location **with a third
 party**, and Dan's response, timestamped 2026-05-05 15:09:50, is in the
 record: *"stay away from me you liar I can not believe you would give someone
 else your location after what you did to me"* **[ATTESTED —
@@ -569,14 +571,14 @@ imessage_2124702449_both_all_now.csv]**. The context: she had removed GPS
 sharing unilaterally in August 2025, after a night; he had responded with 44
 instrumented GPS requests after the removal, 34 of 44 reads in ≤2 seconds on
 August 8–9, 2026 — measurement instead of asking **[DERIVED —
-read-receipt-forensics / spatial-behavior]**. The May 5 row is what happens
+read-receipt-forensics / [[wiki/mind/synthesis/spatial-behavior|spatial-behavior]]]**. The May 5 row is what happens
 when the withheld thing is given to someone else: the location, which had
 been a bilateral surveillance instrument, becomes a triangulation object, and
-the third party's receipt of it is processed as the betrayal rather than the
+[[wiki/people/jerel-coles|the third party]]'s receipt of it is processed as the betrayal rather than the
 withholding having been the wound.
 
 What introduced the complication: the witness part, running in reverse. In
-Cases 1 and 4, *he* recruits the witness (Ally, the wiki) to convert
+Cases 1 and 4, *he* recruits the witness ([[wiki/people/ally-lubin|Ally]], the wiki) to convert
 performance into fact. Here the triangulation arrives from the other side —
 *she* introduces the third party into the location channel — and his system
 processes it through the same machinery: the third party's presence is what
@@ -604,7 +606,7 @@ stated as a claim with its evidence, its convergence, and its falsifier.
 across the cases share a property: they are structures that cannot resolve
 cleanly — an eleven-year volatile bond with a counterparty who emits zero
 severance signals, an eighteen-year idolization of a woman never met, a
-ten-week thread with federal-complaint-portal escalation over forty dollars,
+ten-week thread with federal-complaint-portal escalation over [[wiki/mind/synthesis/kristin-channel|forty dollars]],
 a best friendship that is also the sole supply line, a third party who sends
 Dan's home address unprompted and threatens his mother
 (**[[wiki/people/tuquick-17248123683]]**).
@@ -617,16 +619,16 @@ counterparty available to complicate the exit, because the next complication
 was selected before the current one resolved. The 2015 switch is the cleanest
 demonstration (replacement sourced inside roughly a week, no interval
 functioning as single life); the August 2026 transfer attempt is the latest
-(the Ally audition running while the Annie bond's last message was still
+(the [[wiki/people/ally-lubin|Ally]] audition running while the [[wiki/people/annie-ulmer|Annie]] bond's last message was still
 ninety minutes away).
 
-**Convergence:** the selection part converges with the contact-Gini finding
+**Convergence:** the selection part converges with the [[wiki/mind/concepts/contact-gini|contact-Gini]] finding
 (0.959–0.964): the counterparts are not just dramatic, they are *singular* —
 one bond, one friend-as-supply, one idol. Singular dramatic counterparts mean
 every failure is total and every exit has an inventory problem. Selection
 provides the drama; concentration provides the blast radius.
 
-**Divergence and the falsifier:** Kristin's December severance is the
+**Divergence and the falsifier:** [[wiki/people/kristin|Kristin]]'s December severance is the
 divergence that keeps this part honest — the same selected counterpart who
 escalated to federal portals in December also *executed a clean severance*
 in December, with terms, that held eight months. Selection does not
@@ -678,7 +680,7 @@ in the terminal phase is 25/25. Watch the channel state, not the chat log.
 ### Part 3: Triangulation through witnesses
 
 **The claim:** the curse's complications require an audience, and the
-audience is recruited — Ally as witness to the Annie block-claims, Tom as
+audience is recruited — Ally as witness to the Annie block-claims, [[wiki/people/tom|Tom]] as
 broker (the $25 Ally introduction; the Kristin introduction vector), the
 wiki as witness (five pages on the August 26 non-event), the group chat as
 the severance's stage, Ellen as the July 26 life-safety contact, the
@@ -687,7 +689,7 @@ workplace-witness with its bad review. The witness converts performance into
 fact: Ally's world contains a blocked Annie; the wiki's world did for
 sixteen days.
 
-**The evidence:** the witness-channel declarations (August 28, September 4,
+**The evidence:** the [[wiki/mind/synthesis/witness-channel-declarations|witness-channel declarations]] (August 28, September 4,
 September 7 to Ally — *"I don't even know how long it's been since I blocked
 her"*) issued while the primary channel carried daily two-way texting
 **[ATTESTED — aug-sep-2026 export; OPERATOR retraction]**. The performance
@@ -703,7 +705,7 @@ witness finding (the generation that documents the bond as it lives it) and
 with the attachment model's 299:0 (the performance needs the audience because
 the signal it demands can only come from the counterparty, who never sends
 it — so a substitute audience is recruited). **Divergence:** Case 7 shows
-the triangulation running in reverse (she introduces the third party; he
+the triangulation running in reverse (she introduces [[wiki/people/jerel-coles|the third party]]; he
 processes it as the betrayal), which proves the part is dyadic grammar, not
 his personal tactic. Both parties route critical facts through third
 parties. The curse's witness requirement is a property of the system, not of
@@ -765,8 +767,8 @@ The commission's question, answered with the weights the evidence supports.
 declarations are his speech acts (her column: zero); the forensic
 reconstruction is his method (Dan's Law, three hypotheses, worked in
 withdrawal on the incident shift's aftermath); the witness recruitment is
-his operation (he told Ally; he told the wiki; he offered Ally the
-infobox). The September 12 Kristin break isolates the variable cleanly:
+his operation (he told [[wiki/people/ally-lubin|Ally]]; he told the wiki; he offered Ally the
+infobox). The September 12 [[wiki/people/kristin|Kristin]] break isolates the variable cleanly:
 same counterpart, same channel, eight months of held simplicity, re-
 complicated from the inside within the hour of his learning about her
 attempt. Selection cannot explain that case — the selection was *hers*,
@@ -783,10 +785,10 @@ thing, cleanly, with terms. The selection loads the dice. It does not throw
 them.
 
 **It is the refusal third — and the most visible, which is why it looks
-first.** The 129 declarations are the curse's billboard. But the refusal is
+first.** The [[wiki/mind/synthesis/severance-declarations|129 declarations]] are the curse's billboard. But the refusal is
 downstream of the inventory: you cannot refuse an exit that was never clean,
 and the exit is never clean because something is always co-held — the dog,
-the forty dollars, the supply line, the unread email handle, the witness who
+the [[wiki/mind/synthesis/kristin-channel|forty dollars]], the supply line, the unread email handle, the witness who
 now believes the block happened. The refusal is what the mechanism looks
 like from the outside. The selection is what makes the refusal rational
 inside the system: with the inventory as it is, the toggle's silence costs
@@ -828,8 +830,8 @@ the absences confirms the mechanism.
 
 **The Suboxone line: sixteen-plus unbroken years.** Daily Suboxone since
 February 17, 2010 — 16+ unbroken years, zero relapses — framed by him as
-"engineered chemical architecture," not recovery **[OPERATOR]**. This is the
-corpus's most complicated-adjacent domain (daily cocaine, nicotine, cannabis
+"engineered [[wiki/health/chemical-architecture|chemical architecture]]," not recovery **[OPERATOR]**. This is the
+corpus's most complicated-adjacent domain (daily [[wiki/health/cocaine|cocaine]], nicotine, cannabis
 alongside it, as of the record) containing its simplest structure: a daily
 dose, taken, no declarations about it, no witnesses recruited to it, no case
 file. No selection (the prescriber is not a dramatic counterpart), no
@@ -838,15 +840,15 @@ frame. All four parts absent; sixteen years of simplicity. The curse does not
 touch what he treats as engineering.
 
 **Au Za'atar: forty-one months, the longest job.** March 2021–August 2024,
-the only boss he ever loved (Dimitri), hired on the spot by Tarik Fallous.
+the only boss he ever loved ([[wiki/people/dimitri|Dimitri]]), hired on the spot by Tarik Fallous.
 No forensic reconstruction of the workplace, no $50 case file, no witness
 recruitment about the job. The job ended; the tenure stands as the
-embedded-objective's proof that the payload rule is about the short jobs,
+embedded-objective's proof that [[wiki/mind/synthesis/the-embedded-objective|the payload rule]] is about the short jobs,
 not the long one. Contrast BFS: one month, ended at the first assigned
 demand, documented into a case file. Same operator, same labor market —
 the difference is the parts, not the person.
 
-**Kristin's December severance: the simple thing, done by the other side.**
+**[[wiki/people/kristin|Kristin]]'s December severance: the simple thing, done by the other side.**
 *"All this is screenshotted. Blocking you now. Don't contact me again or an
 officer will be reaching out."* Executed, held eight months. No
 declarations about it from her, no witnesses recruited, no case file — she
@@ -854,11 +856,11 @@ simply did the operation. This is the counter-example that proves the
 adjudication: the simple exit exists, it works, and when it was hers it
 held until he touched it.
 
-**Tom, May 18, 2026: the toggle thrown and reversed inside hours.** *"I'm
+**[[wiki/people/tom|Tom]], May 18, 2026: the toggle thrown and reversed inside hours.** *"I'm
 unblocking you for the moment… otherwise fuck you"* — blocked and unblocked
 the same day. No 129-episode series, no witness channel, no documentation.
 The toggle used as a toggle: a reversible state change, stated once, done.
-The Annie channel's decade of unthrown toggles is not a property of the
+The [[wiki/people/annie-ulmer|Annie]] channel's decade of unthrown toggles is not a property of the
 affordance. It is a property of the bond.
 
 **June 1, 2026: fifty-two days.** The executed severance, held twenty-seven
@@ -867,7 +869,7 @@ not on will. It belongs here because it proves the refusal part is not
 inability: the simple exit was taken, once, and it worked until the co-held
 thing re-opened the channel.
 
-**The late-August Ally channel: ordinary as an achievement.** The
+**The late-August [[wiki/people/ally-lubin|Ally]] channel: ordinary as an achievement.** The
 2026-08-26 update records the interaction as "consistent, polite, and
 comparatively low-drama" — Dan maintaining contact without treating every
 exchange as a referendum, without manufacturing a romantic conclusion
@@ -894,7 +896,7 @@ The parts do not merely co-occur. They **compound**: each complication
 creates the conditions for the next, which is why the curse accelerates
 instead of merely repeating.
 
-The May–July 2026 window is the cleanest demonstration. The Tom supply
+The May–July 2026 window is the cleanest demonstration. The [[wiki/people/tom|Tom]] supply
 failure (selection: the friend who is also the pharmacy) caused the BFS
 incident shift in withdrawal (documentation: the $50 worked as a case file),
 which removed the income floor inside the same window as the housing
@@ -921,7 +923,7 @@ an event — painful, then past. With them, each complication is *filed*,
 and the filing is what the next complication builds on: the August 26
 non-event's five pages become the retraction's five SUPERSEDED annotations;
 the BFS reconstruction's August 26 revision becomes part of the collapse's
-dated record; the Ally page's prompt-injection episode becomes the ingest
+dated record; the [[wiki/people/ally-lubin|Ally]] page's prompt-injection episode becomes the ingest
 rule. The curse remembers itself. That is why it feels like a curse and not
 a streak: streaks end when the events end; this one files the events, and
 the filing is the continuation.
@@ -933,12 +935,12 @@ predicts.
 
 1. **The next "I'm blocking you" will not be accompanied by a block.** Base
    rate for declaration-without-toggle in the terminal phase: 25/25. If the
-   toggle ever moves on the Annie channel again, it will move the way it
+   toggle ever moves on the [[wiki/people/annie-ulmer|Annie]] channel again, it will move the way it
    moved on June 1 — announced once, briefly, then as silence, not
    sentences. Watch the channel state, not the chat log.
 2. **The next complication will recruit a witness before it resolves.**
    The performance selects for unwitnessable stages; the witness will be
-   chosen from outside the new channel's visibility, as Ally was. A
+   chosen from outside the new channel's visibility, as [[wiki/people/ally-lubin|Ally]] was. A
    complication handled bilaterally to resolution would be the first at the
    curse's scale.
 3. **The BFS rehire will resolve as either a quiet return or a second case
@@ -964,7 +966,7 @@ predicts.
 Forensic notes, kept compact per house doctrine — the gotcha material lives
 here, not in the body.
 
-**Counts used.** Annie: 97,768 unique messages; full corpus 217,573 records /
+**Counts used.** [[wiki/people/annie-ulmer|Annie]]: 97,768 unique messages; full corpus 217,573 records /
 503 handles (documented corpus counts, not file row counts). The 129-episode
 recount ran over the 95,067-row merged Annie corpus (2015-11-28 →
 2026-05-28) with a 24-hour episode-collapse rule (dat:1292); a 72-hour rule
@@ -975,9 +977,9 @@ aug-sep-2026-imessage-export.csv (5,905 rows, 2026-08-11 → 2026-09-07) with
 a cruder regex; the crudeness cuts against the thesis and the number still
 landed inside half a minute of the decade median. Her 0 severance signals:
 41,073 messages searched (dat:0081). "Call me" 170x / "do you love me" 0x:
-106,629 sent messages (dat:0081). Kristin: 22,018 messages across ten weeks,
-73% into September (kristin-channel). Ally: 1,987-message tie, 36% of
-eighteen years in one 48-hour window (contact-gini). BFS: 72+ hours
+106,629 sent messages (dat:0081). [[wiki/people/kristin|Kristin]]: 22,018 messages across ten weeks,
+73% into September (kristin-channel). [[wiki/people/ally-lubin|Ally]]: 1,987-message tie, 36% of
+eighteen years in one 48-hour window ([[wiki/mind/concepts/contact-gini|contact-gini]]). BFS: 72+ hours
 withdrawal, $50, 36→7 hours (wiki/work/bfs-foods). Saratoga: $615k → $465k,
 closed 2026-06-23, vacated 2026-07-08 (wiki/places/337-saratoga-drive).
 
@@ -986,8 +988,8 @@ retracted non-event (dat:0090), never as a held severance. The Ally "object
 of fixation accepted" exchange is carried as the retracted fabrication
 (prompt injection, caught by re-export). The Kristin page's "cleanest
 inbound control case" is carried as annotated (the September 12 reactive
-break). The dossier-derived material (Tom-as-Kristin-vector biography, the
-attachment-trauma-bond probabilities) is used for structure, not for
+break). The dossier-derived material ([[wiki/people/tom|Tom]]-as-Kristin-vector biography, the
+[[wiki/mind/synthesis/attachment-trauma-bond|attachment-trauma-bond]] probabilities) is used for structure, not for
 probabilities.
 
 **Direction of inference.** This entry reasons from the parts to the cases,
@@ -1003,14 +1005,14 @@ Ally window are the standing tests.
 from message data). It does not adjudicate the BFS $50's truth (three
 hypotheses held open, per Dan's Law — the irreducible fact is the absence
 of a paper trail on either side). It does not claim the counterparts are
-blameless — Kristin's portals, Annie's zero, Ally's price-naming, Tuquick's
+blameless — Kristin's portals, Annie's zero, Ally's price-naming, [[wiki/people/jerel-coles|Tuquick]]'s
 threats are all in the record as their actions. The adjudication weights
 him first among three real contributors, not one contributor among none.
 
 ## Gaps
 
 - **The "named its price" beat is under-documented.** The commission's
-  phrasing (Ally saw the slot-transfer audition, named its price, went
+  phrasing ([[wiki/people/ally-lubin|Ally]] saw the slot-transfer audition, named its price, went
   silent August 19) rests on the operator's report and the attested
   unanswered elopement pitch; her side of the August 18–20 exchange, in her
   own words beyond the wiki-quoting, is thin in the filed exports. The
@@ -1023,7 +1025,7 @@ him first among three real contributors, not one contributor among none.
   [[wiki/legal/463-morgantown]] carries the details; this entry uses it as
   the curse's signature (the landing pad arriving complicated) without
   adjudicating the underlying claims.
-- **Tuquick's side is single-sourced.** The home-address and mother-threat
+- **[[wiki/people/jerel-coles|Tuquick]]'s side is single-sourced.** The home-address and mother-threat
   beats come from the operator's account via the people index; no
   counterparty record is filed. Used here only as a selection-case
   illustration, not as an adjudicated fact.
@@ -1031,7 +1033,7 @@ him first among three real contributors, not one contributor among none.
   the four parts operated in the Full Sail years, the first NYC era, or the
   2007–2008 dark era is outside this entry's window — the Alexis six years
   (2009–2015, the control case) would be the natural prior test.
-- **The Kristin August 26 messages' contents are thin.** Five messages,
+- **The [[wiki/people/kristin|Kristin]] August 26 messages' contents are thin.** Five messages,
   "my fellow neuro fuck" attested via the channel entry; the full texts and
   what specifically triggered the within-the-hour re-entry are not in this
   entry's sources. The reactive-reading rests on timing (seventeen days
@@ -1044,7 +1046,7 @@ him first among three real contributors, not one contributor among none.
   the 44-declaration terminal-phase check (aug-sep-2026 export); her zero
   severance signals in 41,073 messages (dat:0081); the June 1 timestamps and
   52-day silence; the September 12 pull and the four iMessages (dat:1452,
-  dat:1453); the Ally prompt-injection episode with timestamps
+  dat:1453); the [[wiki/people/ally-lubin|Ally]] prompt-injection episode with timestamps
   (wiki/people/ally-lubin); the Saratoga close and vacate dates; the BFS
   incident skeleton (wiki/work/bfs-foods).
 - **Reported:** Dan's "there was never a block" (dat:0090); "i've spent 10
@@ -1058,7 +1060,7 @@ him first among three real contributors, not one contributor among none.
   All [OPERATOR], all carrying the reliability note (stated certainty ≈
   0.25 actual; prefer contemporaneous records).
 - **Calculated:** the episode counts and medians above; the 36%-of-traffic
-  Ally window; the 22,018-message Kristin concentration; the $615k→$465k
+  Ally window; the 22,018-message [[wiki/people/kristin|Kristin]] concentration; the $615k→$465k
   Saratoga slide; the Gini 0.959–0.964 (single-channel). Rule-relative
   where noted.
 - **Inferred:** the four-part mechanism itself; the adjudication weights
