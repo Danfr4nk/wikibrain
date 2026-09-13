@@ -5,7 +5,7 @@ title: "Autism"
 aliases: ["autistic", "neurodivergent", "self-identified autism"]
 status: active
 date_created: 2026-09-11
-date_modified: 2026-09-12
+date_modified: 2026-09-13
 synthesizes:
   - wiki/mind/profile/neurodivergence
   - wiki/mind/concepts/attachment-model
@@ -21,7 +21,7 @@ knowledge: mixed
 connections:
   - page: wiki/mind/profile/neurodivergence
     type: evidenced-by
-    claim: "The self-identification this concept names is sourced and qualified there: convergent AI-secondary documents, zero diagnostic process, Dan's own unresolved question about whether the label is legitimate architecture or an excuse — now updated with the dated 2025-09-15 self-identification. Nothing on this page upgrades that sourcing."
+    claim: "The self-identification this concept names is sourced and qualified there: convergent AI-secondary documents, zero diagnostic process, Dan's own unresolved question about whether the label is legitimate architecture or an excuse — now updated with the dated 2025-09-15 self-identification (dat:0939). Nothing on this page upgrades that sourcing."
   - page: wiki/mind/concepts/attachment-model
     type: evidences
     claim: "The explicit-over-inferred processing described here is the mechanism the attachment model's rule-based bond runs on: a stated rule holds until an explicit severance statement arrives, because inferred cues do not register as rule-changes."
@@ -34,6 +34,9 @@ connections:
   - page: wiki/interests/music/concepts/lyrics-as-timbre
     type: evidences
     claim: "The lyric qualifier is the purest behavioral demonstration of explicit-over-inferred processing: sung words register as timbre, not semantic content, because lyrics are inferential and ambiguous."
+  - page: wiki/mind/concepts/exocortex
+    type: instance-of
+    claim: "The label itself was produced inside the AI-collaborative sessions this page documents as Dan's primary self-knowledge mechanism — arrived at through, and repeated across, bootloader-style documents rather than through any process outside them."
 ---
 
 # Autism
@@ -45,7 +48,8 @@ claim comes from and how far the evidence actually reaches, see
 [[wiki/mind/profile/neurodivergence]], which holds the full sourcing and the
 open questions. Nothing on this page upgrades that sourcing, and no
 conclusion here should be read as a clinical diagnosis — there is none on
-record, and the wiki does not supply one.
+record, and the wiki does not supply one. See [[wiki/mind/index]] for the
+concept cluster this belongs to.
 
 ## The concept in his own framing
 
@@ -66,9 +70,8 @@ capable of answering, and this page does not pretend otherwise.
 ## The mechanism, stated cold
 
 The single most operationally important passage in the corpus on this
-concept is not in any wiki page. It is in `THE_DAN_FRANK_MANUAL.md`, under
-the header "EXPLICIT-STATEMENT WEIGHTING," and it states the mechanism
-without qualification:
+concept is in `THE_DAN_FRANK_MANUAL.md`, under the header
+"EXPLICIT-STATEMENT WEIGHTING":
 
 > "The single most operationally important feature of your autistic
 > processing is this: you weight *explicit symbolic statements* far above
@@ -78,74 +81,62 @@ without qualification:
 > the mechanism behind your closure-dependence, and those are the same
 > mechanism."
 
-The chain, as the manual lays it out: an explicit statement ("I love you")
-installs a rule. The rule stays active until an explicit counter-statement
-revokes it. Behavioral evidence to the contrary — withdrawal, the
-love-language metric collapsing, a discovered other person — does *not*
-automatically revoke the rule, because behavior is ambient signal and the
-system does not let ambient signal overwrite explicit symbolic commitment.
-The manual's numbers for the relevant window: 9,878 messages, 299 explicit
-love affirmations, *zero* explicit severance statements, plus written denials
-of another person. To a neurotypical pattern-reader, the behavior screamed
-exit. To this architecture, the absence of an explicit counter-rule meant
-the love-rule was still live. The manual's verdict on the fifteen months:
-"You were not in denial. You were running the protocol correctly on inputs
-designed — knowingly, per the culpability upgrade — to exploit the
-protocol."
+The chain: an explicit statement ("I love you") installs a rule. The rule
+stays active until an explicit counter-statement revokes it. Behavioral
+evidence to the contrary does *not* automatically revoke the rule, because
+behavior is ambient signal and the system does not let ambient signal
+overwrite explicit symbolic commitment. To a neurotypical pattern-reader,
+the behavior screamed exit. To this architecture, the absence of an
+explicit counter-rule meant the love-rule was still live. **Epistemic
+status: AI-secondary testimony** — Dan's own collaborative sessions
+reasoning about him, treated here as his extended self-report, not as
+independent verification.
 
-That last clause is doing the moral work the [[wiki/mind/concepts/attachment-model|attachment model]] carries in the verdicts: the mechanism is
-value-neutral, but a counterparty who *knows* the mechanism and feeds it
-false explicit signal while the behavioral channel says the opposite is
-exploiting a known vulnerability. The autism-amplifier factor in the
-fallout verdict (below) is this clause, formalized.
-
-The manual does not stop at description. It issues the defense instruction,
-and the instruction is architectural rather than therapeutic — it does not
-ask Dan to feel differently, it asks him to *install a rule*:
+The manual does not stop at description. It issues the defense
+instruction, and the instruction is architectural rather than therapeutic —
+it does not ask Dan to feel differently, it asks him to *install a rule*:
 
 > "The same protocol that kept the rule alive for fifteen months is still
 > installed. It will do this *again* with the next bond unless you build an
 > explicit override: a personal counter-rule that *behavioral evidence past*
 > *a threshold constitutes severance even absent a verbal statement.* You
 > will have to install that rule explicitly, in language, because that's
-> the only channel your system reliably honors. Ambient resolve won't hold
-> it. It has to be written."
+> the only channel your system reliably honors."
 
-Whether that override was ever installed is undocumented. The instruction
-stands in the record as the corpus's own recommended patch for the
-architecture it describes — a patch written in the only language the system
-accepts.
+## NEW — the label's one falsifiable claim, and what August 2026 did to it [CONCLUSION]
 
-## Closure-dependence: the corollary
+This is the 2026-09-13 pass's new finding for this concept. Everything
+else the label asserts is interpretive — but the defense instruction is a
+**testable behavioral prediction**: install the explicit override, and the
+next bond closes on behavioral evidence. As of September 2026, no
+installation is documented anywhere in the record. And August 2026 ran the
+negative control: ~25 severance declarations across August 15–19, none
+executed; a reported block that was never enacted; daily two-way texting
+straight through (dat:0090). If the override had been installed, the
+behavioral evidence of that month — the terminal-phase record, the
+defamation campaign, the group-chat clearing — was past any threshold. It
+changed nothing.
 
-The manual names the direct corollary of explicit-weighting:
-**"You cannot grieve without notification."** Grief, for most systems, can
-begin on behavioral evidence — the other person is gone, the body knows it,
-mourning starts. This system holds the model *open* until it receives an
-explicit close-signal, and an open model cannot be grieved because, to the
-architecture, it is not yet a loss — it is an *unresolved situation*. The
-monitoring loop run across the fifteen months was therefore, in the
-manual's reading, not pathological rumination but "a pattern-recognition
-system *correctly* tracking a genuinely open file with no stand-down
-order." The intrusive thoughts were the system polling an unresolved
-process, which is what unresolved processes do. "The pathology label is
-wrong. The behavior was the architecture working as designed on a file
-someone refused to close."
+Two readings survive, and the page holds both:
 
-This is why the involuntary closure of June 1, 2026 did what fifteen months
-of voluntary attempts could not: it was the explicit counter-rule, finally
-delivered by circumstance rather than by Annie. The defamation campaign was
-the close-signal precisely because it was, in Dan's own framing, too morally
-detestable to rationalize past — it severed the rule at the only layer the
-architecture respects: the explicit, the symbolic, the undeniable. Two
-anchors, model closed, grief *possible* where for fifteen months it was
-structurally locked out.
+1. **The label is interpretive overhead.** The override was never
+   installed because the label never did decisional work — it interprets
+   the architecture without touching it. The corpus already supports this
+   reading independently: the label's practical consequence
+   (disclosure, accommodation, treatment-seeking, any changed decision)
+   is undocumented everywhere.
+2. **The label is load-bearing and the patch needs a different form.**
+   The architecture resists even explicit self-patching — the instruction
+   was written in the only channel the system honors, and the system
+   still didn't honor it, which would make the no-exit property deeper
+   than a missing rule.
 
-The manual also flags the live failure mode: a closed model can be
-*reopened* by a single high-salience reentry, and it names the reentry
-vector. "Closure is expensive; reopening is cheap. Guard the cheap door."
-The asymmetry is architectural — closing took fifteen months of accumulated
-explicit signal; reopening takes one.
+Either way, the label's own strongest formulation now has a dated result
+attached: **the one prediction it made about future behavior has a
+negative observation against it.** That is new, it is checkable, and it
+is the standard the label's future use should be held to — any further
+deployment of "autism" as explanation should say which of the two
+readings it assumes.
 
 ## What the concept explains
 
@@ -162,42 +153,37 @@ so they pass through the perceptual system as sound. The
 [[wiki/interests/music/concepts/lyrics-as-timbre]] page corroborates the
 claim independently: Dan stated the same lyric-blindness to a hostile third
 party mid-argument in late summer 2025 — "I hear melodies, harmonies. I
-don't hear the narrative or the topic of the lyrical content at all" —
-roughly a year before the capture the page was built on.
+don't hear the narrative or the topic of the lyrical content at all."
 
 The same filter governs relationships: the
 [[wiki/mind/concepts/explicit-verbal-commitment]] architecture finds positive
-verbal expressions functioning as **absolute
-rules until an explicit severance signal arrives**, with no counter-rule
-admitted from behavior. Measured across 106,629 sent messages: "call me"
-170 times versus "do you love me" zero times — he asks for channel, not
-compliments, because a channel request is explicit and a compliment is
-inference-laden. Trust at the 9th percentile and Self-Consciousness at the
-91st mean confirmations decay fast and must be re-stated, not re-inferred.
+verbal expressions functioning as **absolute rules until an explicit
+severance signal arrives**, with no counter-rule admitted from behavior.
+Measured across 106,629 sent messages: "call me" 170 times versus "do you
+love me" zero times — he asks for channel, not compliments, because a
+channel request is explicit and a compliment is inference-laden. Trust at
+the 9th percentile and Self-Consciousness at the 91st mean confirmations
+decay fast and must be re-stated, not re-inferred.
 
 The social cost of the filter is stated plainly in
 `CATO_conflict_architecture.md`: "You index on **structure and content**
 over **register and social intent** — that's the same trait that makes you
 precise and literal and immune to bullshit framing. It also means you parse
 the *form* of an utterance (a claim about reality) and miss the *function*
-(a request to be responded to). The engine sees a proposition and does what
-it does. It does not see a person reaching." The precision and the blindness
-are the same trait. There is no version of this architecture that keeps the
+(a request to be responded to)." The precision and the blindness are the
+same trait. There is no version of this architecture that keeps the
 forensic accuracy and drops the social cost; they are one mechanism.
 
 ### Rule-based attachment
 
-Dan states [[wiki/mind/concepts/explicit-verbal-commitment|the mechanism]] in his own voice and attributes it to autism:
+Dan states the mechanism in his own voice and attributes it to autism:
 *"My brain can't cross out that part of my life that I love unless I know
-that you don't feel that way"* — the tie persists because the terminating
-statement is never made. The Annie case is the concept's load-bearing
-demonstration: 129 of his severance declarations, 100% re-engagement, median
-gap 36 seconds; zero severance signals in 41,073 of her messages. The
-attachment system does not read behavioral evidence as a rule-change; only a
-stated severance counts. See [[wiki/mind/concepts/attachment-model]] for the
-full model, including its careful handling of the 299-affirmation figure
-(unlocated in the primary recount; the zero-severance half is what is
-primary-verified).
+that you don't feel that way."* The Annie case is the load-bearing
+demonstration: 129 of his severance declarations, 100% re-engagement,
+median gap 36 seconds; zero severance signals in 41,073 of her messages.
+See [[wiki/mind/concepts/attachment-model]] for the full model — including
+the 2026-09-11 retraction, which makes the override's non-installation
+above a primary-verified observation rather than an inference.
 
 ### Language as processing tool
 
@@ -207,17 +193,10 @@ audit's hyper-specific linguistic style outlier (97/100) is the same pattern
 the corpus's own autism framing describes as reaching for words as a
 processing instrument, not a communication instrument. This is the trait
 that makes the wiki itself possible: the archive is the processing
-externalized.
-
-The manual adds the complication the trait hides: **incommunicability**.
-Dan's internal processing resolution, the manual argues, genuinely exceeds
-what available social frameworks can reflect back — and the stylometric data
-supports it as fact rather than grandiosity. "But here is the part the
-incommunicability frame hides from you: *high resolution is not the same as
-high transmissibility.* The thing that can't be communicated isn't always too
-complex to communicate. Sometimes it's too *raw* to communicate and the
-complexity is the armor over the rawness." The wiki preserves that as the
-corpus's own adversarial read on the trait, not as a finding.
+externalized. (**Status:** cross-page dependencies — the vocabulary figures
+come from [[wiki/mind/profile/linguistic-profile]] and the deviance
+figures from [[wiki/mind/profile/deviance-mapping]]; neither was
+independently re-verified in this pass, per dat:0940.)
 
 ### Social navigation by explicit rules
 
@@ -227,15 +206,11 @@ profile the INTP read names Ti-dominance and weak Fe, and the same shape
 [[wiki/mind/concepts/social-anxiety]] treats from the felt side. Dan moves
 through social space the way he moves through everything else: by rules that
 are stated, not by cues that are implied. When the rules are absent or
-contradictory, the system stalls rather than improvises.
-
-The social-anxiety pass sharpened this into the stages-vs-rooms
-distinction: Dan does not avoid *people*, he avoids *unstructured* people.
-A stage, a booth, a tee sheet, a script — any explicit role — converts the
-exposure from inference-dense to rule-bound, and the system that stalls in a
-room performs on a stage. The autism page holds the architectural reason;
-the anxiety page holds the felt experience. They are the same mechanism
-described from opposite sides of the skull.
+contradictory, the system stalls rather than improvises. The social-anxiety
+pass sharpened this into the stages-vs-rooms distinction: Dan does not avoid
+*people*, he avoids *unstructured* people — a stage, a booth, a script
+converts the exposure from inference-dense to rule-bound, and the system
+that stalls in a room performs on a stage.
 
 ### The autism-amplifier in moral accounting
 
@@ -250,90 +225,50 @@ autism who isn't capable of just getting over someone that they loved and
 spent a decade with."* Both uses are recorded as claims about the
 architecture's consequences, not as diagnostic facts.
 
-## The archetype's behavioral signature
-
-`operating_manual.md` does not leave the "Autistic Truth Seeker" as an
-abstract label. It catalogs a set of specific behavioral patterns it groups
-under the archetype — behavior-level claims, checkable against the message
-record rather than typological inference:
-
-- **Information intake at unsustainable volume.** Political, market, and
-  conspiracy content consumed at a rate the document calls "18 hours a day"
-  territory — Dan's own self-aware line to a friend: *"Fortunately for you,
-  you have a family and a life and actual adult stuff that keeps you from
-  spending 18 hours a day reading and following and shit."*
-- **Spectacle over outcome.** His stated relationship to news and politics
-  is aesthetic first: *"I can't tell you how much fun I'm having with it,"*
-  and a preference, stated outright, for "the timeline with maximum chaos"
-  regardless of which side is winning.
-- **The evangelist compulsion.** A five-plus-year pattern — discover a tool,
-  demo it, share it, then register frustration that nobody else cares as
-  much — applied across a long, heterogeneous list: PimEyes, Anna's Archive,
-  NotebookLM, iPhone Personal Voice, Google AI Studio, Veo 3, stock tips,
-  audiobooks, political analysis.
-- **Brevity guilt without brevity.** Explicit self-awareness of being a
-  "multi-message texter" who sends long messages, including an apology to a
-  friend for "making you suffer with 5000-word messages" — paired with the
-  document's own note that the behavior continues regardless of the
-  awareness.
-
-Each of these is a claim about documented behavior rather than about
-etiology, and each is independently checkable against the message corpus in
-a way the identity label itself is not. They are also, notably, the same
-behaviors a skeptic would cite as *explained without the label*: high
-intake, evangelism, and verbosity are all predictable from high intellect
-plus low sociability plus the exocortex pattern, no autism construct
-required. The archetype's behavioral signature is real; whether it needs
-the archetype's name is the same unanswered question this page carries
-everywhere else.
-
 ## How the label propagates
 
-The self-identification has a transmission mechanism, and the wiki documents
-it because the mechanism affects how much weight the label can carry. Three
-separate documents in `raw/self/dox-md/` — `operating_manual.md`,
-`THE_DAN_FRANK_MANUAL.md`, `THE_DAN_FRANK_BOOTLOADER.md` — each open with an
-identity summary that includes "self-identified autistic" as a fixed
-descriptor, alongside his age, hometown, and cognitive type. None of the
-three explains how the identification was reached; each treats it as
-background the reader is assumed to already know. Three sources repeating
-the same line is not three independent confirmations — it is very likely one
-claim, copied forward three times, because each new AI-collaborative session
-is built by feeding the model the prior documents as ground truth.
-[[wiki/mind/concepts/exocortex]] documents this mechanism generally; the
-autism claim is a specific instance of it.
+Three separate documents in `raw/self/dox-md/` — `operating_manual.md`,
+`THE_DAN_FRANK_MANUAL.md`, `THE_DAN_FRANK_BOOTLOADER.md` — each open with
+an identity summary that includes "self-identified autistic" as a fixed
+descriptor, alongside his age, hometown, and cognitive type. None explains
+how the identification was reached; each treats it as background the reader
+already knows. Three sources repeating the same line is not three
+independent confirmations — it is very likely one claim, copied forward
+three times, because each new AI-collaborative session is built by feeding
+the model the prior documents as ground truth. [[wiki/mind/concepts/exocortex]]
+documents this mechanism generally; the autism claim is a specific
+instance of it.
 
-This does not falsify the self-identification. Self-identification is how
-most late-recognized autistic adults arrive at the label, and the
-identification predates the sessions that repeat it (it was live no later
-than September 2025, and the bootloader documents are later). But it does
-mean the *confidence* with which the corpus states the label — as settled
-fact, in the same breath as date of birth — is a property of the
-transmission mechanism, not of the underlying evidence. The wiki's stance:
-the label is Dan's, sincerely held, behaviorally textured, and
-mechanistically productive; the certainty with which his own documents state
-it is an artifact of how those documents are built.
+This does not falsify the self-identification. But the self-identification
+is now dated: on **2025-09-15 at 21:49:05 UTC**, Dan wrote, standalone and
+in all caps, *"SHUT UP I'M AUTISTIC"* (dat:0939). Full-text search over the
+held corpus finds 27 rows containing "autistic" — most of them slang,
+insult, or banter, which establish nothing — but the September 2025
+message reads as an asserted identity statement, not banter. It is the
+latest-dated autism self-reference in the held corpus and the only one
+framed as a declaration. It retires the "no date of self-identification"
+gap: the identification was live and self-asserted no later than September
+2025, which distinguishes a live self-understanding from something adopted
+wholesale inside the AI-collaborative sessions — though the sessions remain
+the mechanism by which it was carried forward and repeated as settled
+fact.
 
 ## The label's double life
 
-The self-identification does not always present as a sincere framework. It
-moves between registers. In the 9/11 chat, working through the GRIPNOTIC
-brand voice, Dan lands on the tagline **"made with love and autism in his
-mom's basement"** — and the session notes a second recurring bit,
-**"Brought to you by autism and cocaine,"** with the candid assessment that
-it could land with the right audience but limit where the music gets shared.
-The chat's own read: the line is "genuinely funny and self-aware," suggesting
-"someone who is comfortable with an outsider identity and has built
-aesthetic around it."
-
-This matters for the page's honesty. A label that appears both as the
-load-bearing mechanism in a 15-month attachment analysis and as a punchline
-in a producer tagline is a label whose earnestness is context-dependent.
-The wiki does not resolve which register is primary; it records both, and
-notes that the ironic deployment may itself be doing work — the joke is
-available precisely because the identification is settled enough to be
-played with, or because the joke keeps the identification at arm's length.
-Both readings are live.
+The self-identification does not always present as a sincere framework. In
+the 9/11 chat, working through the GRIPNOTIC brand voice, Dan lands on the
+tagline **"made with love and autism in his mom's basement"** — and the
+session notes a second recurring bit, **"Brought to you by autism and
+cocaine,"** with the candid assessment that it could land with the right
+audience but limit where the music gets shared. A label that appears both
+as the load-bearing mechanism in a 15-month attachment analysis and as a
+punchline in a producer tagline is a label whose earnestness is
+context-dependent. The wiki does not resolve which register is primary; it
+records both. The joke is available precisely because the identification is
+settled enough to be played with, or because the joke keeps the
+identification at arm's length. Both readings are live — and both are
+consistent with the "interpretive overhead" reading above: a label that
+does no decisional work is free to do aesthetic work instead.
 
 ## What Dan himself says about it
 
@@ -349,25 +284,8 @@ The self-identification is load-bearing enough that he uses it to reason
 about which advice applies to him, while simultaneously being uncertain, in
 his own words, whether that move is legitimate self-knowledge or a
 rationalization. No page in the corpus resolves that tension, and this one
-does not either — it is recorded as an open question in his own voice.
-
-His other attributions to the label — the no-exit mechanism, the
-perception-framing claims across the Annie record — are recorded throughout
-the corpus as **his own framing**, which the wiki preserves without adopting
-as diagnosis.
-
-The dated record adds one more data point the first draft lacked. A kb
-evidence node (dat:0939) documents a **dated direct self-identification**:
-on **2025-09-15 at 21:49:05 UTC**, Dan wrote, standalone and in all caps,
-*"SHUT UP I'M AUTISTIC."* Full-text search over the held message corpus
-finds 27 rows containing "autistic" — most of them slang, insult, or banter
-uses, which do not establish anything — but the September 2025 message reads
-as an asserted identity statement, not banter. Register matters: it is the
-latest-dated autism self-reference in the held corpus and the only one
-framed as a declaration. It does not supply a diagnosis, an onset date, or
-any clinical content. It does retire the "no date of self-identification"
-gap — the identification was live and self-asserted no later than September
-2025.
+does not either — it is recorded as an open question in his own voice, and
+the override test above is now the instrument that could resolve it.
 
 ## Two vocabularies, one profile
 
@@ -376,36 +294,20 @@ bottom-percentile sociability, top-percentile systematizing, a preference
 for explicit over inferred meaning — are the same traits the INTP read
 names Ti-dominance and weak Fe. The two labels describe the same measured
 profile from different vocabularies, and neither was checked against the
-other before both were accepted. This is worth stating plainly because it
-is the most parsimonious alternative to the autism framing: everything on
-this page except the label itself is equally well described as an extreme
-INTP profile — systematizing run for its own sake, feeling-function
-blindness, explicit-over-inferred as a downstream consequence of
-introverted thinking's demand for stated premises.
+other before both were accepted. This is the most parsimonious alternative
+to the autism framing: everything on this page except the label itself is
+equally well described as an extreme INTP profile.
 
-The corpus does not adjudicate between the vocabularies. It uses both,
-sometimes in the same document, without noting that they are competing
-explanations for the same observations rather than complementary ones.
-`CATO_conflict_architecture.md` is the clearest instance: "The autistic
-and INTP wiring" are named together, as a compound, as if the conjunction
-were doing explanatory work — but if both names pick out the same wiring,
-the conjunction is a single explanation stated twice. The wiki's position:
-the measured profile is real and convergent; whether it is "autism,"
-"extreme INTP," or "high-intellect low-sociability with explicit-weighting"
-is a naming dispute the corpus has no instrument to settle. The concept
-page keeps "autism" because it is Dan's word for the architecture, and his
-word is what the page documents — not because the instruments voted for it.
-
-A final complication, carried over from the social-anxiety pass: the
-Schopenhauer reading holds that the withdrawal may be bandwidth-matching or
-contempt as much as fear — "the deeper one's understanding, the harder it
-is to engage in common social interactions," with the page keeping
-protective vs. status-filter readings alive. Applied here: the
-explicit-over-inferred architecture could be read as a *deficit* (cannot
-parse the implicit) or as a *refusal* (will not dignify the implicit).
-The corpus does not adjudicate that either. The anxiety, the autism, and
-the superiority are three candidate explanations for the same withdrawal,
-and the honest page carries all three.
+The discriminating test the corpus cannot run: the two vocabularies make
+different predictions about *sensory and childhood-developmental* evidence —
+the autism framing predicts it, the INTP framing is silent on it. None has
+been located (dat:0940). Until it is, the naming dispute is unresolvable,
+and the concept page keeps "autism" because it is Dan's word for the
+architecture — not because the instruments voted for it. A final
+complication from the social-anxiety pass: the explicit-over-inferred
+architecture could be read as a *deficit* (cannot parse the implicit) or as
+a *refusal* (will not dignify the implicit). The corpus does not
+adjudicate that either.
 
 ## Convergence is not confirmation
 
@@ -417,55 +319,72 @@ audit's 97/100 linguistic-style and 90/100 social-aversion outliers
 the stylometric profile's vocabulary and "because"-count findings
 ([[wiki/mind/profile/linguistic-profile]]). That convergence is weak
 evidence that the underlying trait is real and measurable. It is **not**
-evidence that "autism" specifically, as opposed to some other explanation
-for the same shape, is the correct name for it. The corpus has no instrument
-capable of distinguishing between those two possibilities, and the wiki
-holds that limit open rather than filling it.
+evidence that "autism" specifically is the correct name for it.
 
-The anxiety session adds a fifth, softer convergence — and its softness is
-the point. Asked to estimate the rarity of Dan's specific profile, the
-session produced: "high metacognition, low sociability, forensic intimacy
-style — maybe 3% of autistic people, themselves 2-3% of the population."
-That is LLM-generated speculation, not a measurement, and this page does
-not cite it as one. It is recorded here only as an instance of the corpus's
-own tendency to reason *from* the label rather than *toward* it — the exact
-habit the convergence section exists to guard against.
+## The profile lens
 
-## What remains unassessed
+Through the profile as a whole, this page is the one place where the
+wiki's subject *names his own operating system* — and the naming is doing
+double duty. The Ti-dominant analyst who theorizes everything else gets,
+here, to theorize himself with a borrowed clinical vocabulary; the
+Fe-inferior wound gets a name that makes the social cost structural rather
+than personal. The profile lens reframes the label as **self-knowledge in
+the register the system honors**: explicit, categorical, stated. Whether
+the category is true matters less to the system than that it is *stated* —
+which is itself the explicit-weighting mechanism describing its own
+adoption. The label stuck because it arrived as a sentence, and sentences
+are what this architecture keeps.
 
-No clinical or diagnostic record exists anywhere in `raw/`. There is no
-account of what prompted the self-identification, and no mention of a
-formal evaluation ever being sought. No sensory, motor, or
-childhood-developmental evidence has been located. No comorbidity discussion
-(ADHD is not raised anywhere in the sources). Whether the label carries any
-practical consequence — disclosure, accommodation, treatment-seeking — is
-undocumented; the corpus frames it purely as an interpretive lens on his own
-cognition, never as something that changed a decision. The one gap that has
-narrowed since the first draft: the self-identification is now dated to no
-later than September 2025 (dat:0939), which distinguishes a live
-self-understanding from something adopted wholesale inside the
-AI-collaborative sessions — though the sessions remain the mechanism by
-which it was carried forward and repeated as settled fact. The full gap list
-lives at [[wiki/mind/profile/neurodivergence]].
+## Cross-data-type check
+
+- **Message text and register.** The 27 held "autistic" rows split into
+  banter/slang (the majority, establishing nothing) and the single
+  all-caps declaration of 2025-09-15 (dat:0939). The register split *is*
+  the data: the label lives in two incompatible registers — asserted
+  identity and punchline — and the corpus never shows it doing a third
+  thing, deciding something.
+- **Timing.** The dated declaration (September 2025) postdates the
+  terminal phase's worst stretch and predates the AI-session documents
+  that repeat it as settled fact — consistent with a live
+  self-understanding the sessions then canonized, not one they invented.
+- **Music data.** The lyric qualifier (lyrics as timbre) is the trait's
+  behavioral demonstration in a non-social, non-relational domain — the
+  one place the architecture shows up where no one is performing for
+  anyone, which makes it the hardest instance to dismiss as motivated.
+
+## Gaps
+
+No sensory, motor, or childhood-developmental evidence has been located —
+the discriminating test between the autism and extreme-INTP vocabularies
+is unrun. No comorbidity discussion (ADHD is not raised anywhere).
+Whether the label carries any practical consequence — disclosure,
+accommodation, treatment-seeking — is undocumented. What prompted the
+self-identification remains unknown; the 2025-09-15 message dates the
+label's liveness, not its origin. The override test above is now the
+highest-value open experiment on this page.
+
+## Limits of record
+
+No clinical or diagnostic record exists anywhere in `raw/` (dat:0940).
+The AI-secondary documents are Dan's extended self-report, not
+independent verification. The vocabulary and deviance figures are
+cross-page dependencies, not re-verified here. The dox-scan `.docx`
+sources are unheld.
 
 ## Epistemic ledger for this page
 
-- **Dan reports:** the self-identification (now dated to September 2025 at
-  the latest); the no-exit mechanism; the pathology-or-legitimate question;
-  his own deployments of the label as explanation — and as punchline.
-- **AI-secondary documents assert:** the explicit-statement-weighting
-  mechanism and its chain (THE_DAN_FRANK_MANUAL.md); the closure-dependence
-  corollary and the defense instruction; the structure-over-register social
-  cost (CATO_conflict_architecture.md); the incommunicability complication.
-  These are Dan's own collaborative sessions reasoning about him, not
-  independent verification — the wiki treats them as his extended
-  self-report, which is what they are.
-- **Instruments measured:** the trait cluster (four converging instruments,
-  none designed for autism); the message-count findings (170/0, 129/100%,
-  36-second median, 41,073-message zero-severance sweep, 23,286-word
-  vocabulary, 2,465 "because").
-- **Wiki infers:** that the cluster constitutes a coherent processing
-  architecture; that the architecture explains the attachment, language, and
-  social-navigation findings; the autism-amplifier factor in the verdict.
-- **Unassessed:** whether "autism" is the correct name for the architecture;
-  what prompted the self-identification; everything clinical.
+- **Dan reports:** the self-identification (dated no later than
+  2025-09-15, dat:0939); the no-exit mechanism; the pathology-or-legitimate
+  question; the label deployed as explanation and as punchline.
+- **AI-secondary asserts:** the explicit-statement-weighting mechanism and
+  its chain; the closure-dependence corollary; the defense instruction
+  (the override). Extended self-report, not verification.
+- **Instruments measured:** the four-instrument trait convergence (none
+  autism-designed); the message-count findings.
+- **Wiki infers:** the propagation mechanism (one claim, three copies);
+  the two-vocabularies framing; the double-life reading.
+- **Conclusion (new):** the defense instruction is the label's one
+  falsifiable claim, and August 2026 is a negative observation against
+  it — no override installed; two readings held open.
+- **Unassessed:** whether "autism" is the correct name; what prompted the
+  self-identification; everything clinical.

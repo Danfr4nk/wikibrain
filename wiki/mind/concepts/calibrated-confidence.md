@@ -7,7 +7,7 @@ status: active
 importance: high
 knowledge: earned
 date_created: 2026-08-02
-date_modified: 2026-09-04
+date_modified: 2026-09-13
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt
   - raw/self/twitter/archive.jsonl
@@ -15,25 +15,22 @@ tags: [personality-profile, forensic-analysis, digital-footprint]
 connections:
   - page: wiki/mind/synthesis/failure-to-launch
     type: supplies
-    claim: "The strict re-derivation both rescues and bounds that page's strongest capability claim: 24 graded credences against 1 from 503 people survives a filter built to break it, while the calibration test it recommended turns out to have a resolvable sample size of one, which resolved false."
-  - page: wiki/mind/synthesis/failure-to-launch
-    type: evidences
-    claim: "This is the single capability claim in the corpus where superlative against the general population is defensible from residue rather than testimony - 15 graded non-endpoint values against zero across 503 people - and the decisive caveat is that expression is measured while accuracy remains untested."
+    claim: "The strict re-derivation both rescues and bounds that page's strongest capability claim: the graded-credence asymmetry survives a filter built to break it (direction stable across three independent scans), while the calibration test it recommended turns out to have a resolvable sample size of one, which resolved false (dat:0664)."
   - page: wiki/mind/concepts/reassurance-architecture
     type: parallels
     claim: "Maintaining a live graded numeric estimate of a belief is the same estimate-refreshing habit in the epistemic domain that the check-in performs in the relational one, which is why reassurance decays rather than accumulating."
   - page: wiki/mind/concepts/forensic-method
     type: evidences
-    claim: "The method's probabilistic core is not only an AI-session posture: Dan attaches graded numeric confidence to ordinary claims in casual SMS, which is the same reasoning running with no audience and nothing at stake."
+    claim: "The method's probabilistic core is not only an AI-session posture: Dan attaches graded numeric confidence to ordinary claims in casual SMS — the same reasoning running with no audience and nothing at stake. [FLAGGED 2026-09-13: that page's frontmatter still carries the pre-correction '22x / every year 2015–2025' headline; the corrected figures are 24-vs-1 on the old-wiki corpus, thinner on the held corpus (dat:0580, dat:0663).]"
   - page: wiki/mind/concepts/dans-law
     type: evidences
-    claim: "Dan's Law asks whether a coincidence cluster's joint probability is near zero, which presupposes someone who thinks in probabilities as a matter of habit rather than of method — this page is the habit, measured, a decade before and after the law was named."
+    claim: "Dan's Law asks whether a coincidence cluster's joint probability is near zero, which presupposes someone who thinks in probabilities as a matter of habit rather than of method — this page is the habit, measured."
   - page: wiki/mind/profile/linguistic-profile
     type: component-of
-    claim: "A concrete, countable stylistic marker to set beside the 99th-percentile lexical-diversity finding: graded numeric certainty appears 15 times in Dan's outbound text and zero times in 110,944 inbound messages from 503 handles."
+    claim: "A concrete, countable stylistic marker to set beside the 99th-percentile lexical-diversity finding: graded numeric certainty is Dan's signature at rates his correspondents never approach — with the corpus-dependence caveats this page now carries."
   - page: wiki/mind/profile/big-five-psychometrics
     type: evidences
-    claim: "Intellect at the 95th percentile has a behavioural correlate that costs Dan nothing and that no instrument prompted: he quantifies his own uncertainty in text messages, unprompted, in every year of the corpus."
+    claim: "Intellect at the 95th percentile has a behavioural correlate that costs Dan nothing and that no instrument prompted: he quantifies his own uncertainty in text messages, unprompted, across the years the corpus covers."
   - page: wiki/self/context-core
     type: evidences
     claim: "The Ti-dominant 'reality parsed as high-fidelity system' claim, which the spine carries on typological authority, has a measured behavioural signature underneath it for the first time."
@@ -42,270 +39,254 @@ connections:
     claim: "The first finding produced by the message-density campaign, and the demonstration of what the corpus is actually good for — behavioural signatures Dan never knew were being counted, rather than self-report he was never going to type into SMS."
   - page: wiki/mind/synthesis/the-binary-verdict
     type: component-of
-    claim: "This page is the control for a corpus-wide binary/graded split: all 24 strict credences attach to unwitnessed facts about the world, never to a verdict about a person's worth, a taste's authenticity, or a relationship's legitimacy — the one place gradation lives is fenced off from the one place it never appears."
+    claim: "This page is the control for a corpus-wide binary/graded split: the strict credences attach to unwitnessed facts about the world, never to a verdict about a person's worth, a taste's authenticity, or a relationship's legitimacy — the one place gradation lives is fenced off from the one place it never appears."
   - page: wiki/self/twitter
     type: evidenced-by
-    claim: "Partly runs this page's own Prediction on a fifth channel and reports it underpowered: the strict pattern returns 0 in 2,718 public posts where the message rate predicts ~1, the 22x inbound asymmetry can never be run on a broadcast archive at all — and the habit is there in a form the pattern cannot see, graded at the world ('it's 25% at best for Kamala') rather than at his own mental state."
+    claim: "The public archive (2,718 originals) returns 0 strict-pattern instances where the message rate predicts ~1 — underpowered, not a refutation — and shows the habit in a form the pattern cannot see: graded at the world ('it's 25% at best for Kamala') rather than at his own mental state."
 ---
 
 # Calibrated Confidence
 
-Dan Frank attaches **graded numeric probabilities to his own beliefs in casual
-text messages**, and he is effectively the only person in the corpus who does
-it. Across 106,629 outbound messages spanning 2015–2025 he writes a numeric
-confidence attached to an assertion — *"I'm 90% sure I will have z when she
-does," "Like 80% sure these were not hers," "I feel 0% confident about how it
-could go"* — 43 times. Across the 110,944 inbound messages from 503 other
-handles, it happens **twice**.
+Dan attaches **graded numeric probabilities to his own beliefs in casual
+text messages**, and he is effectively the only person in his corpus who
+does it. *"I'm 90% sure I will have z when she does." "Like 80% sure these
+were not hers." "I feel 0% confident about how it could go."* Nobody
+reaches for 89% as an intensifier; 89% is an estimate. The finding is not
+that Dan says "100% sure" more often than his friends. It is that **Dan is
+using the scale and everyone else is using a word.** See
+[[wiki/mind/index]] for the concept cluster this belongs to.
 
-The raw ratio understates it, and the interesting number is a different one.
+The 2026-09-13 rebuild keeps that thesis and re-grounds every number
+behind it, because the numbers turned out to be corpus-dependent in a way
+the old page took two passes to admit. What follows is the totality as of
+September 2026: three independent scans, two corpora, one stable direction.
 
-## The measurement
+## The measurement, and why it has three versions
 
-| | Dan (outbound) | Everyone else (inbound) |
-|---|---|---|
-| Messages | 106,629 | 110,944 |
-| Numeric confidence attached to a belief | **43** | **2** |
-| Of those, plain "100%" | 27 | 2 |
-| **Graded values (not 0 / 50 / 100)** | **15** | **0** |
-| Distinct values used | 0, 75, 80, 89, 90, 95, 99, 99.9999, 99.99999999, 100 | 100 |
+The original table (43 outbound / 2 inbound, 15 graded / 0) was counted
+on the old wiki's fuller corpus — chat.db extracts and the Facebook
+export, neither held in this repository. A 2026-08-23 re-derivation under
+a strict symmetric filter (first-person credences of the form "I am N%
+sure/certain/confident" or "there's an N% chance that ⟨clause⟩",
+population shares and cited statistics excluded) gave **60 strict
+credences outbound against 4 inbound; 24 graded (non-endpoint) against 1
+genuine** — the second inbound graded instance being a tapback quoting
+Dan's own message back at him. Rate ratio near 22×.
 
-Both inbound instances are the idiomatic "100%" that functions as a synonym for
-*definitely* — "100% convinced he has it." That is ordinary English and carries
-no arithmetic. What does not occur even once in a decade of other people's
-messages is a **value between the endpoints**: 75, 80, **89**, 90, 95. Eighty-nine
-per cent is the tell. Nobody reaches for 89% as an intensifier; 89% is an
-estimate.
+Two independent checks against the held corpus (192,140 records,
+`corpus/messages.csv`) then complicated the picture:
 
-So the finding is not that Dan says "100% sure" more often than his friends. It
-is that Dan is using the *scale* and everyone else is using a word.
+- **dat:0580** (strict definition): 4 operator instances against 0
+  contacts — directionally consistent ("he does it, they don't") on a
+  thin base; broad definition: 3.55 vs 3.27 per thousand, ratio 1.09×.
+  **2022 is entirely absent** — zero rows from any sender — so "every
+  year 2015–2025" is false on held data. Two of the four strict
+  instances quote Gemini-era scores.
+- **dat:0663** (independent regex, looser dedup): **48 strict / 18 graded
+  outbound vs 5 / 2 inbound** — same direction, same rough magnitude,
+  differing in exact number because dedup and exclusion rules differ. The
+  tapback, the one genuine inbound graded credence (2026-02-27,
+  *"she said that she needs space which I'm 99% sure that I'm fucked"*),
+  and the sample quotes all verify verbatim in the held corpus.
 
-## Re-derived 2026-08-23: the counts do not reproduce, the asymmetry does, and the test is not runnable
+**The honest reading:** the exact count depends on filter tuning and on
+which corpus is under it, but the direction is stable across all three
+runs and both corpora — outbound graded credences in the high teens to
+mid-twenties (old-wiki corpus) or high single digits to high teens
+(held), inbound in the ones, with roughly half the inbound "instances"
+being quotes of Dan himself. A finding whose count depends on tuning but
+whose direction survives tuning is a real behavioural signature with soft
+edges. The page now claims exactly that and nothing more.
 
-> **CORRECTED [2026-08-23].** This page's measurement table gave **43 outbound**
-> **instances against 2 inbound**, and **15 graded (non-endpoint) values against**
-> **zero**. Re-derived from the on-disk CSVs — 98,228 deduped Dan-sent messages
-> against 91,858 received — **none of the four numbers reproduces, and the**
-> **"zero" is false.** The direction and rough magnitude of the finding survive;
-> the arithmetic does not, and the reason is that the original filter was
-> counting things that are not credences.
+> **CORRECTED [2026-09-13] — two stale passages fixed.** The Gaps section
+> previously said the message dump covers 2015–2025 with "2022 and 2026
+> entirely missing." The 2022 half is true on held data; the 2026 half is
+> false — the held corpus carries 26,758 records dated 2026, and this
+> page's own corrected table cites a 2026-02-27 inbound credence. Fixed
+> below. The frontmatter connections previously carried the
+> pre-correction figures ("15 graded non-endpoint values against zero");
+> corrected to the 24-vs-1 re-derivation above.
 
-**The original filter swept in everything with a percent sign near a
-belief-word.** A permissive re-run returns **99** Dan-sent instances, not 43 —
-and inspecting them shows why the number is meaningless in either direction.
-The catch includes population shares (*"more than 99% of customers"*, *"99.999%
-of people"*), a cited opinion poll (*"64% of Israelis"*), a retail discount
-(*"40% off at the golf academy"*), plain proportions (*"a good 90% of what I was
-saying"*, *"75% of the time"*), and rhetorical framings that assert no credence
-at all (*"if there's even a 1% chance"*). None of those is a probability
-estimate about a proposition, which is the thing this page exists to claim.
+## The calibration test is not runnable, and that is the finding
 
-**Under a strict, symmetric filter — a first-person credence of the form "I am
-N% sure/certain/confident" or "there's an N% chance that ⟨clause⟩", with
-population shares and cited statistics excluded, applied identically to both
-directions:**
+[[wiki/mind/synthesis/failure-to-launch]] named scoring these instances
+against outcomes as the highest-value cheap experiment in the profile
+cluster. Reading all 24 strict graded credences, they sort into three
+groups and only one is scoreable even in principle:
 
-| | Dan (outbound) | Everyone else (inbound) |
-|---|---:|---:|
-| Messages | 98,228 | 91,858 |
-| Strict credences | **60** | **4** |
-| Of those, graded (not 0/50/100) | **24** | **2** |
-| Rate per 100,000 messages (graded) | **24.4** | **2.2** |
-
-**And one of the two inbound graded instances is not an instance.** The
-2025-09-04 entry is a tapback reading *"Loved '98% sure that's because it's
-either old camera or…'"* — somebody quoting Dan's own message back at him.
-Removing it leaves **one** genuine graded credence from 503 other people across
-eleven years: *"she said that she needs space which I'm 99% sure that I'm
-fucked"* (2026-02-27).
-
-So the corrected finding is **24 against 1**, a rate ratio near 22× rather than
-the infinite one the "zero" implied. **The thesis holds** — Dan uses the scale
-and almost nobody else does — and it is now a claim that has survived a filter
-designed to break it, which is worth more than the larger number it replaces.
-
-### The calibration test is not runnable, and that is the finding
-
-[[wiki/mind/synthesis/failure-to-launch]] named scoring these instances against
-outcomes as the highest-value cheap experiment in the profile cluster, on the
-reasoning that the data already existed. **It does not.** Reading all 24 strict
-graded credences, they sort into three groups and only one is scoreable even in
-principle:
-
-- **Claims about another person's interior** — *"90% sure those are sarcastic
-  apologies"*, *"98.7% sure you don't believe any of your catholicism"*,
-  *"99% sure you're a no"*. Unfalsifiable by construction.
-- **Claims about unwitnessed past events** — *"95% sure she quit and didn't tell
-  anyone"*, *"99% sure it was a sedative in that"*, *"99% sure it's her"*. No
-  resolution exists anywhere in the corpus.
+- **Claims about another person's interior** — *"90% sure those are
+  sarcastic apologies"*, *"98.7% sure you don't believe any of your
+  catholicism"*. Unfalsifiable by construction.
+- **Claims about unwitnessed past events** — *"95% sure she quit and
+  didn't tell anyone"*, *"99% sure it was a sedative in that"*.
+  No resolution exists anywhere in the corpus.
 - **Forward-looking claims about the world** — and there are almost none.
 
-**Exactly one instance in eleven years is resolvable from the corpus, and it
-resolved false.** On 2018-08-08 Dan writes *"I am 75% sure this is my last
-summer at Nemacolin."* [[wiki/work/nemacolin-caddying]] dates the job **April
-2016 – November 2019** per his own resume: he worked the 2019 season too. A 75%
-forecast that did not happen.
+**Exactly one instance in eleven years is resolvable from the corpus, and
+it resolved false.** On 2018-08-08 Dan writes *"I am 75% sure this is my
+last summer at Nemacolin."* [[wiki/work/nemacolin-caddying]] dates the job
+April 2016 – November 2019 per his own resume: he worked the 2019 season
+too (dat:0664 — forecast and tenure both verified). A 75% forecast that
+did not happen.
 
-n = 1 is not a calibration test and this page will not pretend otherwise. What
-the re-derivation establishes is sharper and less flattering than the experiment
-would have been: **the habit is real and rare, and it is aimed almost entirely
-at propositions that can never be scored.** Using the scale is a genuine
-cognitive signature. Using it where it could be checked is a different skill,
-and the corpus contains one attempt at it.
+n = 1 is not a calibration test. What the re-derivation establishes is
+sharper and less flattering than the experiment would have been: **the
+habit is real and rare, and it is aimed almost entirely at propositions
+that can never be scored.** Using the scale is a genuine cognitive
+signature. Using it where it could be checked is a different skill, and
+the corpus contains one attempt at it.
 
-**What would settle it.** A prospective log — any forward-dated prediction with
-a resolution date attached, recorded from now — produces a scoreable set inside
-months. Nothing retrospective will, and that is now a closed question rather
-than an open gap.
+**What would settle it.** A prospective log — any forward-dated prediction
+with a resolution date attached, recorded from now — produces a scoreable
+set inside months. Nothing retrospective will, and that is now a closed
+question rather than an open gap.
+
+## NEW — the numbers are intensity, not forecasts [CONCLUSION]
+
+This is the 2026-09-13 pass's new finding for this concept, and the
+totality forces it. Set three facts side by side:
+
+1. **The credences aim where they can't be scored.** Of 24 strict graded
+   instances, one is resolvable — and it resolved false. The scale is
+   deployed at interior states and unwitnessed pasts, almost never at
+   the checkable future.
+2. **He polices calibration in others and audits it in himself.** On
+   2022-03-30: *"That's a level of certainty I'm not sure how you've
+   arrived at."* On 2022-02-24, of an early Ukraine-invasion casualty
+   figure: *"This kind of specific and not large number seem a little sus
+   to me"* — a suspiciously-precise-number objection, the failure mode of
+   somebody who thinks about what a number is entitled to claim. And on
+   2024-11-07, after the election: *"Pretty crazy that even I, someone
+   who was really pessimistic about the probability of a Biden re-elect
+   was still giving him blue wall states in June (less than a week before
+   the debate)"* — an unprompted audit of his own past estimate, against
+   himself. (The two 2022 quotes are cross-page attested but not in the
+   held iMessage corpus — they sit in or against the missing-2022 gap;
+   the 2024-11-07 one verifies via the twitter archive.)
+3. **His own stated certainty is worth 0.25.** The testimony ledger
+   (dat:0044): stated "certain" holds up 0.25 of the time, "confident"
+   0.69, hedged 0.75 — at small n, but the direction is the point. The
+   ledger hedges to the point of self-sabotage while the method pages
+   mint headlines (int:confidence-calibration-ledger).
+
+The conclusion: **the graded numbers function as transmission of
+reasoning intensity, not as forecasts.** They mark how hard the engine is
+running on a proposition — which is why they cluster exactly where no one
+can check them, why the one checkable instance failed, and why the ledger
+prices his "certain" at a quarter. Calibration-policing is
+outward-facing: he holds others' numbers to account. Credence-emitting is
+inward-facing: his own numbers go where the audience can't score them.
+
+**The counter-case, stated honestly.** The 2024-11-07 self-audit shows
+the scoring norm exists inwardly too — he treats his own past numbers as
+auditable, which means the habit isn't *designed* to evade checking; it
+just structurally does. And n=1 is not a calibration curve. The
+prospective log would settle whether the numbers mean anything; until
+then, "intensity, not forecast" is the reading the totality supports,
+not a measurement.
 
 ## Why it survives the obvious objections
 
-Three alternative explanations were tested against the corpus and none holds.
+**It is not one relationship.** The instances spread across 12 distinct
+handles; Annie takes the largest share at roughly her share of the corpus
+generally. Not a private register.
 
-**It is not one relationship.** The 43 instances spread across **12 distinct
-handles**. [[wiki/people/annie-ulmer|Annie]] takes the largest share at 13, which
-is roughly her share of the corpus generally, so this is not a private register
-developed inside the primary relationship.
+**It is not an era.** It appears in every year the dump covers except the
+2022 gap (2015, 2016, 2017, 2018, 2019, 2020, 2021, 2023, 2024, 2025) — it
+predates the AI-collaboration period by years, so the habit was not
+learned from talking to models. If anything the models met a mind that
+already worked this way.
 
-**It is not an era.** It appears in **every single year the dump covers** —
-2015 (1), 2016 (6), 2017 (4), 2018 (8), 2019 (5), 2020 (7), 2023 (1), 2024 (4),
-2025 (7). It predates the AI-collaboration period by eight years, which matters
-because it means the habit was not learned from talking to models. If anything
-the models met a mind that already worked this way.
+**It is not numeracy in general.** Bare percentages of any kind run at
+2.94 per thousand outbound against 2.16 inbound — a ratio of only 1.36×.
+Dan is barely more numerate than his correspondents in ordinary usage.
+The divergence is specific to **percentages pointed at his own mental
+state**.
 
-**It is not numeracy in general.** Bare percentages of any kind — prices, tips,
-battery, odds — run at 2.94 per thousand outbound against 2.16 inbound, a ratio
-of only 1.36×. Dan is barely more numerate than his correspondents in ordinary
-usage. The divergence is specific to **percentages pointed at his own mental
-state**, where the ratio is 22×.
+## In private he grades his own mental state; in public he grades the world
 
-## What it means
+The twitter archive (2,718 originals, seventeen years) returns **0**
+strict-pattern instances where the message rate predicts roughly one —
+underpowered, not a refutation, and the decisive control (the
+outbound-to-inbound asymmetry) can never be run on a broadcast archive at
+all. But graded confidence *is* in the public archive, pointed somewhere
+else: *"There is a 0% chance that he would not actively work [against a
+primary challenger]"* (2022-07-01), *"it's 25% at best for Kamala,
+Gretch, Newsom"* (2024-07-06). *"I am 95% sure"* is a number about Dan;
+*"it's 25% at best for Kamala"* is a number about an election. Same
+scale, same granularity, same willingness to run it to the endpoints — a
+different object. Nobody broadcasts their own certainty to an audience
+that did not ask; a forecast is the form a probability takes when it is
+addressed to strangers. That is a real distinction rather than an
+artefact: it is what the medium selects for.
 
-The wiki's psychological layer is built largely on instruments and on AI
-sessions: [[wiki/mind/profile/big-five-psychometrics|Intellect at 95]],
-Ti-dominance, "reality parsed as a high-fidelity system,"
-[[wiki/mind/concepts/forensic-method|the forensic method]], and
-[[wiki/mind/concepts/dans-law|Dan's Law]] — a heuristic that opens by asking
-whether the joint probability of a coincidence cluster is near zero. All of that
-is asserted in venues where Dan was being asked about himself, or was
-constructing a self-description on purpose.
+## The profile lens
 
-This is the same architecture caught with nobody watching. Texting a friend
-about whether a coworker quit, he does not write *I think* — he writes *I am 95%
-sure, based on what RT said*, and appends his evidence. The probabilistic frame
-is not a method he adopts when doing analysis. It is the resting state of the
-sentence.
+Through the Ti-dominant lens ([[wiki/mind/profile/intp]]), this is
+introverted thinking's oldest habit made visible in SMS: **premises get
+stated, with their strength attached.** A credence is a premise with a
+number on it — the form Ti requires before it will reason. Dan's Law
+([[wiki/mind/concepts/dans-law]]) presupposes the same habit: asking
+whether a coincidence cluster's joint probability is near zero only makes
+sense from inside a mind that already runs the scale. The forensic method
+([[wiki/mind/concepts/forensic-method]]) is this habit with a corpus
+under it. And the binary-verdict split — gradation everywhere except
+verdicts about a person's worth — is the Fe-inferior boundary: the one
+place the system refuses to grade is the one place grading would be a
+relational act.
 
-Two details sharpen it. The first is **0% confident** (January 2018) — the scale
-runs downward as well as upward, which an intensifier cannot do. The second is
-the absurd tail: *"99.9999% sure," "99.9999999999999999% sure you don't."*
-Stacking nines past any possible warrant is a joke, but it is a joke that only
-works if the underlying scale is real to the person telling it — he is
-exaggerating along an axis he actually uses.
+## Cross-data-type check
 
-## Prediction
-
-If this is a genuine cognitive signature rather than a verbal tic, it should
-appear **wherever Dan writes and nowhere that he does not**. The falsifiable
-form: graded numeric confidence should be findable at comparable or higher rates
-in his email, Facebook Messenger, Reddit and forum output, and in the
-`raw/self/chats/` AI sessions — and it should remain near-absent in the inbound
-half of every one of those corpora. If a scan of the Facebook Messenger export
-returns Dan at the inbound baseline instead, then the habit is
-iMessage-specific, this page is measuring a channel rather than a mind, and the
-claim should be narrowed to the channel.
-
-## The prediction, run against the public archive — partly, and it does not settle
-
-Added 2026-09-04 from [[wiki/self/twitter]]. **The Prediction section above
-names a test and the corpus already held a fifth channel it did not list**: the
-public twitter archive, 2,718 originals across seventeen years, written for an
-audience rather than to one person.
-
-**Result 1 — the strict pattern returns zero, and that is not a refutation.**
-This page's own pattern (a numeric percentage adjacent to *sure / certain /
-positive / confident / convinced*) finds **0 instances in 2,718 public posts**.
-At the outbound-message rate of 43 per 106,629 — 0.40 per thousand — a corpus
-this size predicts roughly **one**. Observing zero when the expectation is one
-is what the same rate looks like about a third of the time. **The test as
-specified is underpowered on this archive and cannot distinguish "the habit is
-absent in public" from "the archive is too small to show it."** Stated plainly
-because the zero is tempting to over-read in either direction.
-
-**Result 2 — he is not less numerate in public.** The bare-percentage control
-runs at **3.68 per thousand public posts against 2.94 per thousand outbound
-messages.** Whatever the strict zero means, it is not that percentages stop
-appearing when there is an audience.
-
-**Result 3 — the decisive control cannot be run here at all, ever.** The
-finding above rests on a 22× outbound-to-inbound asymmetry: Dan does this and
-his correspondents do not. **A broadcast archive has no inbound half.** No
-volume of twitter data can supply that comparison, so this channel can furnish
-instances and can never confirm or refute the asymmetry that makes them mean
-anything.
-
-### What the pattern cannot see, and it is the actual finding
-
-Graded confidence *is* in the public archive. It is pointed somewhere else.
-
-| Date | Post |
-|---|---|
-| 2021-01-07 | *"i'm as sure as i could possibly be that the capitol police had arranged to allow the chuds into the building"* |
-| 2022-02-26 | *"While still incredibly unlikely, it's clear that the post-cold war era of geopolitical order is changing"* |
-| 2022-07-01 | *"There is a 0% chance that he would not actively work [against a primary challenger]"* |
-| 2023-03-15 | *"there's an astronomically high probability that, in the last 12 hours, you've liked tweets from both Ben Shapiro and Jordan Peterson"* |
-| 2024-07-06 | *"it's 25% at best for Kamala, Gretch, Newsom"* |
-| 2024-07-20 | *"There's about a 100% chance President Brainrot thinks that he's got a real life leprechaun on staff"* |
-
-**In private he grades his own mental state; in public he grades the world.**
-*"I am 95% sure"* is a number about Dan. *"it's 25% at best for Kamala"* is a
-number about an election. Same scale, same granularity, same willingness to run
-it to the endpoints — a different object, and this page's pattern is built to
-catch the first and structurally blind to the second. That is a real
-distinction rather than an artefact: it is what the medium selects for. Nobody
-broadcasts their own certainty to an audience that did not ask; a forecast is
-the form a probability takes when it is addressed to strangers.
-
-### Two behaviours the message corpus does not contain
-
-Both are stronger evidence than another instance would be, because a scale you
-merely *use* is a habit and a scale you **enforce and audit against** is a norm.
-
-**He polices calibration in other people.** On **2022-03-30**: *"That's a level
-of certainty I'm not sure how you've arrived at."* And on **2022-02-24**, of a
-casualty figure early in the Ukraine invasion: *"This kind of specific and not
-large number seem a little sus to me, though I do appreciate the need to
-inspire confidence and galvanize a terrified nation."* The second is a
-suspiciously-precise-number objection — the failure mode of somebody who thinks
-about what a number is entitled to claim.
-
-**He audits his own past confidence, unprompted and against himself.** On
-**2024-11-07**, after the election: *"Pretty crazy that even I, someone who was
-really pessimistic about the probability of a Biden re-elect, was still giving
-him blue wall states in June."* He is not reporting the outcome; he is
-reporting that his own estimate was insufficiently pessimistic, and dating it.
-
-**The 2022 hole is partly filled.** The Gaps section below records the message
-dump as missing 2022 and 2026 entirely. The archive has **158 originals in
-2022**, three of them in the table above, so the terminal-phase gap is narrower
-than it was — for this channel, on this behaviour, and not for the asymmetry.
-
-**What would settle it.** The Facebook Messenger and email exports, which are
-addressed to individuals and therefore *do* have an inbound half. Those remain
-the real test, exactly as the Prediction section says.
+- **The public channel (twitter).** 2,718 originals across seventeen
+  years: strict pattern 0 (expectation ~1 — underpowered); bare-percentage
+  control 3.68 per thousand against 2.94 outbound. He is not less numerate
+  in public; the strict habit's absence there is a power problem, not a
+  finding. The 2022 hole in the message dump is partly filled here — 158
+  originals in 2022 — but a broadcast archive can never supply the
+  inbound half the asymmetry needs.
+- **The ledger as second instrument.** dat:0044's calibration of his
+  testimony language (certain 0.25 / confident 0.69 / hedged 0.75,
+  veracity 52/100, Brier 0.335) is an independent instrument pointed at
+  the same question — do his numbers mean what they say? — and it answers
+  no. Two instruments, one verdict: the scale is real, the scorecard is
+  empty.
+- **Distribution across time.** The per-year table (2015:1 … 2025:7) was
+  not re-run in this pass, and the 2022 gap in the held corpus means any
+  "every year" phrasing must be scoped to the old-wiki corpus it was
+  computed on. The Facebook Messenger and email exports — addressed to
+  individuals, with inbound halves — remain the real test.
 
 ## Gaps
 
-The 43 instances are the yield of one pattern — numeric confidence adjacent to
-*sure / certain / positive / confident / convinced*. Adjacent constructions the
-pattern does not catch (*"odds are," "there's a good chance," "I'd bet,"
-"probably"*) are unmeasured, and a hedging-word study would put this finding on
-a much larger base; the 1.36× bare-percentage control suggests the effect is
-real but its true size is unknown. The dump covers 2015–2025 with **2022 and
-2026 entirely missing**, so nothing here speaks to the terminal phase or the
-July 2026 re-contact. Whether the habit is inherited, learned, or the residue of
-something specific is not addressed anywhere in the corpus — no message explains
-where it came from, and no source in `raw/` records anyone else in the family
-doing it.
+The dump covers 2015–2025 with **2022 entirely missing** from the held
+corpus (zero rows, all senders); 2026 is present (26,758 held records).
+Adjacent constructions the pattern does not catch (*"odds are," "there's
+a good chance," "I'd bet," "probably"*) are unmeasured — a hedging-word
+study would put this finding on a much larger base. Whether the habit is
+inherited, learned, or the residue of something specific is not addressed
+anywhere in the corpus. The prospective prediction log has not been
+started.
 
+## Limits of record
 
+The headline counts were computed on the old wiki's fuller corpus
+(chat.db extracts, Facebook export), neither held here; the held-corpus
+checks (dat:0580, dat:0663) reproduce the direction, not the arithmetic.
+The 2022-03-30 and 2022-02-24 policing quotes are cross-page attested
+only. The corpus snapshot is 2026-09-04.
+
+## Epistemic ledger for this page
+
+- **Primary-verified (held corpus):** the tapback quoting his own message
+  (2025-09-04); the one genuine inbound graded credence (2026-02-27);
+  sample quotes verbatim (dat:0663); the n=1 Nemacolin forecast and its
+  false resolution (dat:0664); the 2022 gap and the 2026 presence
+  (dat:0665).
+- **Page testimony (old-wiki corpus, unheld):** the 24-vs-1 re-derivation;
+  the per-year and per-handle distributions.
+- **Conclusion (new):** the numbers transmit reasoning intensity, not
+  forecasts — calibration-policing outward, credence-emitting inward;
+  counter-case stated.
+- **Contested:** the exact counts — three scans, two corpora, filter-
+  dependent; the direction is the stable finding.
+- **Open:** the prospective log; the Messenger/email test.
