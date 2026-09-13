@@ -1,0 +1,22 @@
+{
+  "files": [
+    {
+      "id": "src:307-e-76th-st-lease-signing-photos-2019-02-25",
+      "filename": "photo-1-empty-room-20190225-202033.jpg",
+      "sha256": "37426b77087250ac23be725cc9f80dc4ee5350161c7aaa84cdb67dfb9a94b8f6",
+      "bytes": 142986,
+      "ingested": "2026-09-11",
+      "testimony": false,
+      "original_path": "~/workspace/user/media_library/image/37/37426b77087250ac23be725cc9f80dc4ee5350161c7aaa84cdb67dfb9a94b8f6.jpg"
+    },
+    {
+      "id": "src:307-e-76th-st-lease-signing-photos-2019-02-25",
+      "filename": "photo-2-kitchen-20190225-201918.jpg",
+      "sha256": "dc9b1f3e5afe156a536a87472aaa14057801dfdc3ce74b1b8888616d56388676",
+      "bytes": 127134,
+      "ingested": "2026-09-11",
+      "testimony": false,
+      "original_path": "~/workspace/user/media_library/image/dc/dc9b1f3e5afe156a536a87472aaa14057801dfdc3ce74b1b8888616d56388676.jpg"
+    }
+  ]
+}
