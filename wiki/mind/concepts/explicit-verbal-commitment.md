@@ -2,7 +2,7 @@
 domain: mind
 page_type: concept
 title: "Explicit-Verbal Commitment"
-aliases: ["explicit-verbal commitment", "explicit-verbal-commitment architecture", "the explicit-verbal mechanism"]
+aliases: ["explicit-verbal commitment", "explicit-verbal-commitment architecture", "the explicit-verbal mechanism", "stated-rule binding"]
 status: active
 date_created: 2026-09-13
 date_modified: 2026-09-13
@@ -10,89 +10,145 @@ synthesizes:
   - wiki/mind/concepts/autism
   - wiki/mind/concepts/attachment-model
   - wiki/mind/concepts/social-anxiety
+  - wiki/mind/profile/intp
   - wiki/people/annie-ulmer
 sources:
   - kb/data/0081-explicit-commitment-architecture.md
+  - kb/data/0090-block-retraction-2026-09-11.md
+  - kb/data/0112-annie-2026-08-26-boundary-update-falsifier-fired.md
+  - kb/data/1292-block-unblock-loop-severance-recount-129-128.md
+  - kb/data/0622-attachment-model-129-episodes-resolution-withdraws-110-127.md
   - kb/data/1481-ally-joke-read-as-threat-2018-12-17.md
+  - kb/data/1493-explicit-register-calibration-intimate-photo-description.md
   - kb/data/annie-new-life-exchange-2015-12-01.md
   - kb/sources/explicit-commitments-letter-2026-09-11.md
 tags: [personality-profile, mental-health, attachment, language, relationships]
 knowledge: earned
 connections:
+  - page: wiki/mind/profile/intp
+    type: evidenced-by
+    claim: "The profile's Fe-inferior mechanism — a Ti-generated decision that a tie is over never becomes felt-settled without an external terminating statement — is the cognitive-function substrate this architecture runs on."
+  - page: wiki/mind/concepts/no-delete-operation
+    type: instantiates
+    claim: "The architecture's missing delete operation — positive rules enact, negative declarations only perform — is the flagship instance of the system-wide no-delete rule."
+  - page: wiki/mind/concepts/institutional-out
+    type: inverts
+    claim: "The out is this architecture's shadow: because stated commitments are irrevocable once issued, the escape is engineered before the commitment — the loophole installed ahead of the rule."
+  - page: wiki/mind/concepts/node-locking
+    type: parallels
+    claim: "Node locking is this architecture aimed at machines: stated rules issued to a model ('lock these nodes'), acknowledged, never consolidated — the one place a delete operation exists is the export boundary, and it works on models, never on people."
+  - page: wiki/mind/synthesis/severance-declarations
+    type: evidenced-by
+    claim: "The declaration-as-performance synthesis is this concept's negative pole fully measured: 129 episodes, the monthly cadence, the witness channel, the one executed instance."
   - page: wiki/mind/concepts/autism
     type: co-occurs
-    claim: "The autism article's rule-based-attachment subsection leans on this mechanism: 'a stated rule holds until an explicit severance statement arrives, because inferred cues do not register as rule-changes.' This page is that claim's target."
-  - page: wiki/mind/concepts/attachment-model
-    type: evidences
-    claim: "The attachment model's verbal-anchoring mechanism runs on this architecture — Annie's maintained verbal commitments functioned as load-bearing rules for a partner whose system does not admit behavioral counter-rules."
+    claim: "Dan attributes the architecture to autism himself; the label is self-identified with no clinical record, and the measurement survives independently of it."
   - page: wiki/mind/concepts/social-anxiety
     type: co-occurs
-    claim: "The social-anxiety article's explicit-verbal-mechanism section reads the architecture as compensatory: explicit verbal commitments convert an inference-dense social world into something rule-shaped enough to navigate. This page is that mechanism's home entry."
-  - page: wiki/mind/synthesis/the-unbroken-bond
-    type: evidenced-by
-    claim: "The synthesis's standing base rate — 129 severance episodes, 100% re-engagement, median gap thirty-six seconds — is the quantitative spine of this concept, derived from the same corpus measurement."
+    claim: "The architecture reads as compensatory prosthetic for an inference-dense social world: explicit commitments convert social situations into something rule-shaped enough to navigate."
   - page: wiki/interests/music/concepts/lyrics-as-timbre
     type: parallels
-    claim: "The lyric qualifier is the behavioral mirror image of this mechanism: where lyrics arrive as sound with the inference channel empty, jokes arrive as threats with the explicit channel overloading register. Same system, inverted."
+    claim: "Inverted mirror: lyrics arrive as timbre because the inference channel is empty; jokes arrive as threats because the explicit channel fires without register modulation. Same system, opposite failure modes."
   - page: wiki/people/annie-ulmer
     type: contains
-    claim: "The eleven-year relationship is the mechanism's load-bearing case: the founding verbal rule (2015-12-01), the severance statistics, and the explicit-commitment letter (2026-09-11) all live on her page."
+    claim: "The eleven-year bond is the load-bearing case: the founding rule (2015-12-01), the 129-episode declaration series, the zero in her column."
+  - page: wiki/people/ally-lubin
+    type: evidenced-by
+    claim: "The Ally channel is where the declaration acquires a witness: block-claims sent to her (Aug 28, Sep 4, Sep 7, 2026) while the Annie channel carried daily two-way texting."
+  - page: wiki/mind/concepts/document-fabrication
+    type: instantiates
+    claim: "The 2026-08-14 counterfeit drug screen is this architecture processing someone else's words: Annie's request arrived as an explicit verbal formulation and executed without deliberation — the same mechanism that makes his own commitments absolute makes a direct request unrefusable."
 ---
 
 # Explicit-Verbal Commitment
 
-Dan processes stated commitments as **absolute rules until an explicit severance signal arrives**, and admits no counter-rule from behavior. What is said out loud is load-bearing; what must be inferred does not register as a rule-change. The mechanism is measured, not asserted — it is the only candidate explanation the corpus supports for why 129 declared severances in the eleven-year Annie record produced zero actual exits, and it inverts one of the wiki's other signature findings about how he hears language.
+Dan processes stated commitments as **absolute rules until an explicit severance signal arrives**, and admits no counter-rule from behavior. What is said out loud is load-bearing; what must be inferred does not register as a rule-change. The profile gives the mechanism its cognitive-function name: with Fe-inferior at 10% valuing, a Ti-generated decision that a tie is over never becomes felt-settled without an external terminating statement supplying the relational judgment the stack cannot produce internally ([[wiki/mind/profile/intp]]). The architecture is not a preference he holds. It is the shape of the system doing the holding.
 
 ## The measurements
 
-The corpus-derived letter to Annie (2026-09-11) formalizes the architecture from message data (`dat:0081-explicit-commitment-architecture`):
+All figures [DERIVED] from primary message data unless marked:
 
-- **129 of his own severance declarations, 100% re-engagement, median gap thirty-six seconds, all-time maximum forty-six hours.** The declarations were performed, not enacted.
-- **0 severance signals in 41,073 of her messages.** Nothing in the format his system recognizes ever said "closed."
-- **"Do you love me" 0 times versus "call me" 170 times in 106,629 sent messages.** He asks for channel, not compliments — the request is for the explicit, rule-shaped thing (call me, a procedure) rather than the inferential thing (do you love me, an interpretation task).
-- **Trust at the 9th percentile and Self-Consciousness at the 91st** mean confirmations decay fast and must be re-stated, not re-inferred.
+- **129 distinct severance episodes** declared by Dan across the Annie corpus, 2015–2026 — 258 declaration-language messages collapsing to 129 episodes under a 24-hour collapsing rule (`dat:1292-block-unblock-loop-severance-recount-129-128`).
+- **128 of 129 followed by a further corpus message; all 128 resumed.** The 129th is the file's last row — censored by the export boundary, not a held severance. Re-engagement rate: **100%**. The earlier 87% figure (127/110) is withdrawn (`dat:0622`).
+- **Median gap, declaration to next message in either direction: thirty-six seconds.** 89.1% resumed inside one hour; 99.2% inside one day. **Longest gap in eleven years: 46 hours.**
+- **0 severance signals in 41,073 of her messages** (`dat:0081`). Nothing in the format his system recognizes ever said "closed."
+- **"Do you love me" 0 times versus "call me" 170 times** in 106,629 sent messages (`dat:0081`). He asks for channel, not compliments.
+- **Trust at the 9th percentile, Self-Consciousness at the 91st** [TESTIMONY — self-typed psychometrics, corroborated by corpus audit at `dat:0890`]. Confirmations decay fast and must be re-stated, never re-inferred.
 
-The severance arithmetic has a second independent recount on the block-unblock-loop side (`dat:1292`): the exit is executed; the deletion never is. The same asymmetry, scored from a different instrument, converges on the same law.
+Read as one instrument reading: a speech act with a **100% failure rate at enactment and a ~100% success rate at performance**. Every declaration succeeded in being taken — by her, by him, by this wiki — as a severance. None succeeded in being one.
+
+## The timing signature
+
+The declarations are not randomly distributed [DERIVED — [[wiki/mind/synthesis/severance-declarations]]]:
+
+- **Monthly cadence.** Roughly 10–11 per year across the decade — not daily (not a tic), not yearly (not an anniversary). A ritual with a tempo.
+- **Late-night clustering.** Densest hours 00:00–06:00 and 18:00–23:00 — the hours when pressure peaks. The declaration converts an unbearable *state* (the bond as it is, at 2 AM, mid-fight) into a bearable *event* (the fight, the goodbye, the re-engagement). Homeostasis performed as drama.
+- **Terminal-phase acceleration.** The Aug–Sep 2026 recount runs a 23-second median against the decade's 36 — the worse the bond gets, the faster the speech act fires and the faster contact resumes. Pressure vents *into* the bond, not out of it.
 
 ## The founding rule
 
-The mechanism has an earliest primary-source instance. On **December 1, 2015**, hours after Alexis's eviction, Dan issued the bond's founding verbal rule over iMessage: *"Annie Ulmer from now on its just you and me"* — *"Because she's gone"* — *"We made it lol"* (`dat:annie-new-life-exchange-2015-12-01`). The declaration is issued in her **full name**, the way a rule is issued: a positive verbal expression over the bond, with no behavioral counter-rule possible. She answered *"This is wonderful you give me the best feeling"* and the household was made theirs that same afternoon. The relationship's architecture was set on day one, in language, as a rule — and the system treated it as one for the next decade-plus.
+The mechanism has an earliest primary-source instance. On **2015-12-01** (~13:38 EST, iMessage screenshot EXIF), hours after Alexis's eviction, Dan issued the bond's founding verbal rule: *"Annie Ulmer from now on its just you and me"* — *"Because she's gone"* — *"We made it lol"* (`dat:annie-new-life-exchange-2015-12-01`). The declaration is issued in her **full name**, the way a rule is issued — a positive verbal expression over the bond, with no behavioral counter-rule possible. She answered *"This is wonderful you give me the best feeling"*, and the household was made theirs that same afternoon (advent calendar, Christmas lights, beanie selfie — EXIF 13:38–22:52).
 
-## Severance as signal, not behavior
+The relationship's architecture was set on day one, in language, as a rule. The system treated it as one for the next decade-plus.
 
-If the bond opens on an explicit verbal rule, it can only close on an explicit verbal signal. Behavior — absence, withdrawal, infidelity, a year of coldness — supplies no counter-rule, because the system does not read behavior as rule-change. This is what made the terminal phase legible: the letter identifies the severance sequence as **June 1, 2026** ("Goodbye forever… sic semper lupanis" — his line, misattributed to her until August), **August 19, 2026** (group-chat clearing, the first public discrimination between two men under her own name), and **August 26, 2026** (the block, billed as the first held boundary in the record — `dat:0090-block-retraction-2026-09-11`: **[SUPERSEDED 2026-09-11** — Dan confirmed verbatim "there was never a block"; ~25 declarations August 15–19, none executed; daily two-way texting continued through September 7]).
+## The severance sequence, corrected
 
-The retraction sharpens rather than weakens the concept: with the August 26 severance void, the August 19 severance stands as the first signal in the entire record to survive past the forty-six-hour maximum — the mechanism's own measurements define what counts as evidence of a real close.
+The 2026 terminal phase ran three candidate severances. The record now scores them:
 
-Dan states the rule himself, in his own voice, attributed to autism: *"My brain can't cross out that part of my life that I love unless I know that you don't feel that way"* — the tie persists because the terminating statement is never made. The letter's plainest line is structural, not emotional: *"I don't feel close to you anymore" is a structural report, not a mood: the rule that constituted closeness is no longer live.*
+- **June 1, 2026** — the one executed instance in the entire series [PRIMARY — timestamps]. Dan's outbound, misattributed to her until August: *"Blocking you"* 00:09:31, *"Goodbye forever… sic semper lupanis"* 00:27:49, her *"Understood"* 00:10:06. Produced the 52-day silence (June 1 → July 23) — by a wide margin the most durable severance in the record, already out-of-distribution against the 46-hour maximum. It broke anyway.
+- **August 19, 2026** — the group-chat clearing. The record's first declaration to name and pre-close its own most likely reopening channel in advance (the Milo / thinking-of-you route) — the closest any of the 129 comes to being about enactment rather than performance.
+- **August 26, 2026** — **SUPERSEDED [2026-09-11].** The block, billed as the first held boundary in the record, never happened. Dan confirmed verbatim: *"there was never a block"* (`dat:0090-block-retraction-2026-09-11`). CSV forensics: ~25 block/severance declarations Aug 15–19, none executed; daily two-way texting continued Aug 27–Sep 7, 765 messages in the final 72 hours of the export, including the "good night pretty girl" rituals. The Aug 26 observation (near-zero traffic Aug 22–26, consistent with a block) was true-as-of-shape and explicitly provisional; the shape was a pause, not a block.
 
-## The social cost: register failure
+> The retraction upgrades the concept rather than weakening it. The August 26 non-event is the declaration series' purest case: a severance so complete it fooled the wiki's own write-back for sixteen days — sixteen days of analysis built on a non-event. The declaration is the performance and the texting is the fact.
 
-The explicit channel fires **without register modulation** — stated utterances encode as rules regardless of intent, and that fires on other people too. On **December 17, 2018**, Dan joked to Ally Lubin, *"I promise not to show up in North Carolina,"* while asking for her address to buy her a Christmas gift; she read it literally as a threat — *"You've literally said you'd show up to my house!!!"*, *"I'm scared to hahah"*, *"I listen to ever murder podcast ever!!!"* (`dat:1481-ally-joke-read-as-threat-2018-12-17`). Dan named the failure in real time: *"I seem to have a hard time getting across the fact that I'm kidding in this thread."* His joking statements read to her as binding threats, and his attempt to re-label the joke failed.
+## The witness channel
 
-The social-anxiety article carries the full exchange; the mechanism's version of the point is that his explicit words function as rules for others even when he doesn't intend them as such — the same architecture that lets him navigate by stated rules makes his unstated ones land as threats. There is no version of this architecture that keeps the precision and drops the social cost; they are one mechanism.
+A declaration needs an audience. The Aug–Sep 2026 record shows block-claims sent to [[wiki/people/ally-lubin|Ally]] on **August 28, September 4, and September 7** — each asserting a severance from Annie — while the Annie channel carried daily two-way texting through the same window ([[wiki/mind/synthesis/severance-declarations]], [[wiki/mind/synthesis/witness-channel-declarations]]). The performance is addressed outward; the bond continues inward. This is also what the trade-rule reading argues: the declarations are bids, and bids need someone in the room.
+
+## Provision is his outbound grammar
+
+A cross-data-type check the old page never ran: the architecture governs what he *accepts* (words bind; behavior doesn't), but his *outbound* commitment grammar is different. Corpus-audited: instrumental generosity runs at **1.79–2.49x baseline** while sympathy tokens run at **0.45x** — high-provision, low-condolence (`dat:0890`, [[wiki/mind/profile/big-five-psychometrics]]). He does not say "I'm so sorry to hear that"; he sends $14,000 to his mother with nothing in writing, supplies drugs unconditionally through his most hostile outbursts, does the remembered-detail work.
+
+[INFERENCE — held as model, not finding.] He binds himself to others' words and binds others through his acts. The asymmetry is exact: the explicit-verbal channel is *inbound* — it is how the world writes rules onto him. His outbound register is provision, procedure, channel-maintenance ("call me," not "do you love me"). Read against the Fe-inferior profile this is coherent: verbal reassurance is an interpretation task he distrusts giving *and* receiving as information — but as a *rule* (her stated commitment, his founding declaration), language is the only thing that holds.
+
+## The social cost: register failure, now managed
+
+The explicit channel fires **without register modulation** — stated utterances encode as rules regardless of intent, and that fires on other people too. On **2018-12-17** Dan joked to Ally, *"I promise not to show up in North Carolina,"* while asking for her address to buy her a Christmas gift; she read it literally as a threat — *"You've literally said you'd show up to my house!!!"* — and his real-time repair failed: *"I seem to have a hard time getting across the fact that I'm kidding in this thread"* (`dat:1481-ally-joke-read-as-threat-2018-12-17`).
+
+The cost is now explicitly managed. On **2026-09-13** Dan issued standing register calibration for intimate-photo description — crude, direct body terms in his own lexicon, visually granular, never clinical from a distance — and confirmed the register as "PERFECT" (`dat:1493`). The man who could not modulate register in 2018 now *legislates* it in advance. The mechanism hasn't changed; it has been given a procedure.
 
 ## The mirror: lyrics as timbre
 
-The mechanism inverts one of the wiki's other load-bearing findings. In music, Dan hears sung lyrics as **timbre, not language** — words arrive as sound because lyrics are inferential and ambiguous ([[wiki/interests/music/concepts/lyrics-as-timbre]]): the inference channel is empty. In jokes, the explicit channel **overloads** register — the joke arrives as a threat: the explicit channel fires without modulation. Empty inference channel on one axis, overloaded explicit channel on the other. One system, two opposite failure modes, both measured.
+The mechanism inverts the wiki's other signature language finding. In music, Dan hears sung lyrics as **timbre, not language** — words arrive as sound because lyrics are inferential and ambiguous ([[wiki/interests/music/concepts/lyrics-as-timbre]]): the inference channel is empty. In jokes, the explicit channel **overloads** register — the joke arrives as a threat. Empty inference channel on one axis, overloaded explicit channel on the other. One system, two opposite failure modes, both measured.
 
-## Procedure over interpretation
+## New finding: the write-only rule system [DERIVED MODEL]
 
-The "call me" / "do you love me" asymmetry is the most concrete behavioral signature of the whole architecture and deserves to be sat with. "Call me" is a procedure — it specifies an action, a channel, a time; it can be executed without interpretation. "Do you love me" is an interpretation task — a reading of an internal state, delivered in language, to be weighed for sincerity, with no procedure for verifying the answer. Dan's corpus contains 170 requests for the procedure and zero for the interpretation. That is not a preference; it is a filter so complete it looks like a law of the system. Read against the social anxiety, the mechanism is compensatory: social situations are inference-dense environments, and inference is exactly the channel he distrusts. Explicit verbal commitments convert the social world into something rule-shaped enough to navigate.
+The totality forces a structural conclusion the old page never stated: **the architecture has no delete operation.** Positive rules enact — the founding declaration of 2015-12-01 organized eleven years of behavior. Negative rules only perform — 129 severance declarations, zero enactments (June 1 excepted, and even that broke at 52 days). A rule, once stated, can be *violated*; it cannot be *revoked*. The system is write-only.
 
-The conflict-architecture manual states the cost plainly: *"You index on **structure and content** over **register and social intent** — that's the same trait that makes you precise and literal and immune to bullshit framing. It also means you parse the *form* of an utterance (a claim about reality) and miss the *function* (a request to be responded to). The engine sees a proposition and does what it does. It does not see a person reaching."*
+Evidence for: the full declaration series; the founding rule's decade-long load-bearing career; the missing delete across sibling systems ([[wiki/mind/concepts/no-delete-operation]] — node-locking's verbatim retention, the Irreversibility Firewall, Si-tertiary's non-pruning archive).
+Evidence against: June 1, 2026 executed once — but it executed as a *pause* (52 days, then resumption), not as a revocation; the rule was never crossed out, only set down and picked back up. Dan's own formulation, attributed to autism: *"My brain can't cross out that part of my life that I love unless I know that you don't feel that way."* The tie persists because the terminating statement is never made — and the one statement shaped like a termination didn't terminate.
 
-## Convergences and limits
+This reframes the whole concept: it was never about attachment style. It is about a rule engine with no revocation primitive, running on a person.
 
-The architecture converges with the self-identified-autism trait cluster from four directions: the explicit-over-inferred processing named in the autism self-identification, the Ti-dom/Fe-inferior typological profile (systematizing over relating, craving connection while distrusting emotional reads), the lyric-as-timbre behavioral demonstration, and these corpus measurements. Dan attributes it to autism himself; the autism article is careful to add that nothing on its page upgrades the sourcing of the label — the self-identification is live but undiagnosed, and autism is self-identified with no clinical record.
+## Gaps
 
-The label is separable from the measurement. The rule structure is derived from message data — 129 declarations, the 0/41,073 severance count, the 0/170 question asymmetry — and survives whether the label is architecture or excuse. What the label does is name the system; what the data does is describe it.
+- The 129-episode recount rests on the attachment-model page's episode definition and partial severance lexicon; the 95,067-row merged corpus is not held in this repository, so the count is the page's testimony, not re-derivable here (`dat:0622`).
+- Whether the architecture generalizes beyond the Annie bond: the founding-rule grammar appears in his AI bootloader "laws" and standing instructions, but no message-count equivalent exists for other bonds. The Ally witness-channel is the only second-channel measurement.
+- The "call me" 170x count is outbound-only; her inbound "call me" rate is unmeasured.
 
-## Where the mechanism touches the wiki
+## Limits of record
 
-- [[wiki/mind/concepts/autism]] — rule-based attachment runs on this mechanism; this page is its target.
-- [[wiki/mind/concepts/attachment-model]] — verbal anchoring (Annie maintaining explicit verbal commitments while withdrawing presence) is the mechanism weaponized from the other side; the confession trap is the same missing-severance-signal stated as a missing permission.
-- [[wiki/mind/concepts/social-anxiety]] — the explicit-verbal-mechanism section; the mechanism as compensatory prosthetic for an inference-dense social world.
-- [[wiki/mind/synthesis/the-unbroken-bond]] and [[wiki/mind/synthesis/block-unblock-loop]] — the severance measurements as standing base rates; the loop's rule is this page's thesis.
-- [[wiki/people/annie-ulmer]] — the load-bearing case: founding rule (2015-12-01), severance statistics, the explicit-commitment letter.
-- [[wiki/interests/music/concepts/lyrics-as-timbre]] — the mirror finding: inference channel empty on the lyric axis, explicit channel overloaded on the joke axis.
+- Psychometric figures (Trust 9th %ile, Self-Consciousness 91st) are self-typed and AI-inferred, corroborated by corpus audit but not from a proctored instrument (`dat:0756`, `dat:0890`).
+- The autism attribution is Dan's own; no clinical record exists. The measurement survives independently of the label.
+- The Aug 11–Sep 7, 2026 export underlying the 765-message count post-dates the filed export and must be re-filed before those figures graduate to archived.
+
+## Links
+
+- [[wiki/mind/profile/intp]] — the Fe-inferior mechanism this architecture runs on.
+- [[wiki/mind/concepts/no-delete-operation]] — the write-only rule system as a general pattern.
+- [[wiki/mind/concepts/institutional-out]] — the shadow: the escape engineered before the commitment.
+- [[wiki/mind/synthesis/severance-declarations]] — the declaration series fully measured.
+- [[wiki/mind/synthesis/block-unblock-loop]] — the loop's dependency rule: a block holds iff nothing either party still needs flows through the channel.
+- [[wiki/mind/synthesis/august-26-block-retraction]] — the sixteen-day non-event.
+- [[wiki/mind/concepts/autism]] — the self-identified label; the measurement is separable from it.
+- [[wiki/people/annie-ulmer]] — the load-bearing case.

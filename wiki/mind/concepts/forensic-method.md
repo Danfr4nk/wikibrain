@@ -2,355 +2,153 @@
 domain: mind
 page_type: concept
 title: "The Forensic Method"
-aliases: ["forensic analysis", "forensic methodology", "procedural tells", "lossless retention"]
-status: stable
-knowledge: mixed
-importance: high
+aliases: ["forensic analysis", "forensic methodology", "procedural tells", "lossless retention", "anomaly-detection engine"]
+status: active
 date_created: 2026-06-22
-date_modified: 2026-08-26
-sources:
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/chats/j6-chat.md
-  - raw/self/chats/Drawer shortage dispute with assistant manager (1).md
-  - raw/self/chats/Analyzing manipulation and ethical intent in data.md
-  - raw/self/dox-md/Gemini-_07.md
-  - raw/self/dox-md/Gemini-_13.md
-  - raw/self/dox-md/Gemini-_18.md
-related:
+date_modified: 2026-09-13
+synthesizes:
+  - wiki/mind/profile/intp
   - wiki/mind/concepts/dans-law
   - wiki/mind/concepts/exocortex
-  - wiki/mind/synthesis/ai-collaborative-analysis
-  - wiki/mind/synthesis/political-psyops
-  - wiki/self/context-core
-  - wiki/work/bfs-foods
-  - wiki/timeline/events/eli-incident
-tags: [ai-collaboration, forensic-analysis, politics, digital-footprint, trauma-bond]
+  - wiki/mind/concepts/calibrated-confidence
+sources:
+  - kb/interpretations/threat-model.md
+  - kb/interpretations/diagnosis-to-behavior-gap.md
+  - kb/interpretations/gemini-incidents-ledger.md
+  - kb/syntheses/evidence-discipline.md
+  - kb/patterns/partial-data-confident-error.md
+  - kb/patterns/reasoning-sound-provenance-unreliable.md
+  - kb/data/0057-morgantown-audio-contradiction-reproduces.md
+  - kb/data/0037-publication-gate-fails-safe.md
+  - kb/data/0058-graduation-september-2009-then-audit-and-certification.md
+tags: [forensic-analysis, ai-collaboration, personality-profile, digital-footprint]
+knowledge: earned
 connections:
-  - page: wiki/timeline/events/august-2026-morgantown-call
-    type: instance-of
-    claim: "The method's purest defensive use and its clearest weaponised one are the same fifteen minutes of audio: recorded openly, announced twice while recording, then held over its subject's daughter for three days. The artifact never changed; only what it was for did."
-  - page: wiki/mind/concepts/document-fabrication
-    type: contradicts
-    claim: "The method's whole authority rests on documents being what they claim to be, and on 2026-08-14 its owner spent forty minutes manufacturing one that was not — calibrating its fidelity to how hard it would be inspected. Same faculty, inverted."
-  - page: wiki/people/jacob-bacharach
+  - page: wiki/mind/profile/intp
     type: evidenced-by
-    claim: "The Uniontown Glitch is this method's flagship exhibit: the only case in the corpus where four confident model hypotheses were killed in sequence against ground truth the operator alone held, leaving a ranked improbability list instead of a cosmology."
-  - page: wiki/people/the-unnamed-man
-    type: contradicts
-    claim: "The method's claim to generality fails by deliberate choice here: the corpus's most consequential live antagonist is the one node Dan has refused to identify, on the stated grounds that knowing would cost him more than not knowing. Closed 2026-08-09 — the refusal terminated 2026-08-08 and the operator confirmed the identified man is this page's antagonist; see below."
-  - page: wiki/mind/synthesis/read-receipt-forensics
-    type: contains
-    claim: "Four instrument-level defects in chat.db metadata extraction, each of which silently returns a confident wrong answer rather than an error."
-  - page: wiki/people/jerel-coles
-    type: resolves
-    claim: "The method's one declared exception on the Tuquick identity terminated 2026-08-08 at 19:01:22, thirteen days after it was declared. Whether the exception also covered the unnamed-man antagonist is unresolved — see that page's own contradicts edge, which stands."
-  - page: wiki/timeline/events/july-august-2026-reentanglement
-    type: instance-of
-    claim: "The apparatus passes through four states in six days — published as an exhibit, retracted in five minutes on one request, rebuilt as an access-gated decoy, then offered as a gift — showing the target changes far more readily than the method does."
-  - page: wiki/people/fran-coldren
-    type: evidenced-by
-    claim: "The method's hardest test on record is self-directed: within 24 hours of his great-grandmother's death Dan reviewed his own video of the moment, found the monitor alarm that explained its 'supernatural' timing, and retracted the story unprompted to a family member at no benefit to himself."
-  - page: wiki/mind/concepts/calibrated-confidence
-    type: evidenced-by
-    claim: "The method's probabilistic core is not a posture adopted for analysis: graded numeric confidence appears in Dan's casual SMS in every year from 2015 to 2025, at 22x the rate of the 503 people texting him, eight years before the AI-collaboration era could have taught it to him."
-  - page: wiki/mind/synthesis/the-deferred-audit
-    type: causes
-    claim: "This method is the audit itself, and the one variable it never specified is when it fires: provenance sets the schedule, so the same engine reaches a cash-drawer claim in hours and a ten-year attachment only after closure."
-  - page: wiki/timeline/events/july-2026-recontact
-    type: instance-of
-    claim: "The Leviathan dashboards of July 25 2026 are the method's first outward deployment AS LEVERAGE — the same corpus instruments aimed at another person in a live dispute; the first outward deployment of any kind is the James Analysis PDF of 2025-07-11, corrected 2026-08-18."
+    claim: "The method is Ti-dominance externalized: truth as 'a system that holds under recursive collapse,' never social consensus — the coherence-testing engine run on the world instead of inside it."
+  - page: wiki/mind/concepts/no-delete-operation
+    type: parallels
+    claim: "The method's lossless-retention rule ('keep ALL of the information, do not exclude or consolidate anything') is the no-delete operation at the instrument level: findings are appended, never pruned."
   - page: wiki/mind/concepts/dans-law
     type: contains
     claim: "Dan's Law is the method's deconfounding filter — the formalized step that strips parasitic noise from a coincidence cluster to isolate the load-bearing element."
-  - page: wiki/mind/synthesis/political-psyops
-    type: instantiates
-    claim: "The J6 analysis is the method applied to a public event; same anomaly-detection engine, different corpus."
-  - page: wiki/mind/synthesis/attachment-trauma-bond
-    type: instantiates
-    claim: "The Annie decade's evidentiary reconstruction — message counts, dated patterns, the confession trap — is the forensic method applied to the corpus's highest-stakes relationship."
-  - page: wiki/mind/profile/socionics-and-attitudinal
-    type: evidenced-by
-    claim: "The ILI-Ni 'Ni leak' — pattern-hunting that runs more prophecy than a textbook INTP's Ti-Ne — is the trait-level substrate for this method's anomaly-detection engine."
-  - page: wiki/timeline/events/james-analysis-pdf
-    type: instance-of
-    claim: "The method's earliest dated outward deployment at a named private person: a two-person message log run through a model into a dossier and handed to its subject on 2025-07-11, a year before the Leviathan dashboards."
-  - page: wiki/people/james-dee
-    type: instance-of
-    claim: "James is the first documented human target of the method outside Dan's own life, and the case where its accuracy and its social cost are cleanly separable."
   - page: wiki/mind/concepts/the-handed-mirror
     type: contains
-    claim: "The method has a terminal step this page did not previously name: the finished analysis is delivered to the person it describes, which is where its social cost is incurred rather than in the analysis itself."
-  - page: wiki/mind/synthesis/closing-the-set
+    claim: "The method's terminal step: the finished analysis is delivered to the person it describes. The social cost is incurred in distribution, not in analysis."
+  - page: wiki/mind/concepts/document-fabrication
+    type: contradicts
+    claim: "On 2026-08-14 the same faculty manufactured evidence for forty minutes, calibrating fidelity to how hard it would be inspected — the method inverted, same engine."
+  - page: wiki/mind/concepts/explicit-verbal-commitment
+    type: parallels
+    claim: "Both are rule engines with no revocation: the method appends findings and never retracts the instrument; the commitment architecture appends rules and never revokes them."
+  - page: wiki/mind/concepts/calibrated-confidence
     type: evidenced-by
-    claim: "Thirty authors on one presidency and fourteen on one republic is the method's multiple-independent-accounts rule running on leisure reading with nothing at stake — evidence that raw-over-mediated triangulation is a disposition rather than a technique adopted for the 2025-26 deployments."
-  - page: wiki/work/tech/max-framework/overview
+    claim: "[CORRECTED 2026-09-13: the '22x / every year 2015–2025' headline was computed on the old wiki's fuller corpus and does not reproduce on the held corpus — dat:0580 finds 4 strict instances vs 0 inbound and no 2022 coverage; dat:0663 finds 48 strict / 18 graded outbound vs 5 / 2 inbound. Direction stable across all three scans; counts are filter- and corpus-dependent. See wiki/mind/concepts/calibrated-confidence.] Graded numeric confidence is a disposition, not an adopted posture — Dan attaches graded credences to casual claims at rates his correspondents never approach, stable across scans on both corpora."
+  - page: wiki/mind/synthesis/political-psyops
     type: instantiates
-    claim: "CATO's evidence-first, no-sycophancy, glyph-enforced operating mode is the forensic-method cognitive OS deliberately pasted into an AI session as a standing configuration, rather than left as a default disposition."
-  - page: wiki/mind/profile/texting-deviance-audit
+    claim: "The J6 analysis is the method applied to a public event: same anomaly-detection engine, different corpus."
+  - page: wiki/mind/synthesis/read-receipt-forensics
+    type: contains
+    claim: "Four instrument-level defects in chat.db metadata extraction, each silently returning a confident wrong answer rather than an error — the method's exposure is to instruments that lie quietly."
+  - page: wiki/people/jacob-bacharach
+    type: evidenced-by
+    claim: "The Uniontown Glitch is the flagship exhibit: four confident model hypotheses killed in sequence against ground truth the operator alone held."
+  - page: wiki/people/james-dee
     type: instance-of
-    claim: "The method turned on its own operator's self-report: Dan's stated model of his texting — fragmented speech-cadence, technical vocabulary, ten-paragraph walls — was tested against 217,573 records and two of its three claims were falsified, including by the control that killed the staccato hypothesis (his FIRST messages start lowercase at the same rate as his continuations, so the lowercase opener is habit, not fragmentation)."
-  - page: wiki/mind/profile/lexicon
-    type: instance-of
-    claim: "Cite the evidence, invoke an authority, render a finding is documented here as how he processes threat; the bespoke lexicon shows the identical three-step machinery run on a compliment — 'I have reviewed the available evidence and unfortunately you're gorgeous' is a forensic-method entry with the subject swapped, proof the apparatus is a general-purpose disposition rather than a crisis-specific tool."
-  - page: wiki/mind/synthesis/the-binary-verdict
-    type: evidences
-    claim: "The four-step detection procedure — baseline, mismatch, rule out innocent explanations, elevate only if the gap requires knowledge or motive — is a threshold gate with exactly two outputs regardless of how graded the evidence feeding it is, which makes the worth-verdict, the taste-verdict, the authority-verdict and the political-legitimacy-verdict eight domain applications of this one gate rather than eight independent binary engines."
+    claim: "The 2025-07-11 James Analysis PDF is the method's first outward deployment at a named private person — a year before the Leviathan dashboards, and friendly in intent, which makes it the better control."
+  - page: wiki/people/fran-coldren
+    type: evidenced-by
+    claim: "The hardest self-directed test: within 24 hours of his great-grandmother's death Dan reviewed his own video, found the monitor alarm explaining its 'supernatural' timing, and retracted the story unprompted at no benefit to himself."
 ---
-
 
 # The Forensic Method
 
-The forensic method is Dan's cognitive default, not a tool he picks up: every
-domain that contains evidence — a decade of relationship messages, raw J6
-footage, a workplace cash drawer, a novelist's suspiciously familiar house —
-gets processed through the same anomaly-detection engine. The method treats
-primary records as authoritative and narrative as suspect, hunts for the
-hinge-instant where a system breaks, and refuses comfort as a criterion. It
-is grounded in the psychometric architecture (Intellect 95 / Introspection 87
-supplying pattern-hunting; Trust 9 / Altruism 1 supplying calibrated
-skepticism; Si-tertiary supplying archival recall) and in the core axiom
-"not vigilant = annihilated," which encodes vigilance as survival rather
-than preference.
+The forensic method is Dan's cognitive default, not a tool he picks up: every domain that contains evidence — a decade of relationship messages, raw J6 footage, a workplace cash drawer, a novelist's suspiciously familiar house — gets processed through the same anomaly-detection engine. It treats primary records as authoritative and narrative as suspect, hunts for the hinge-instant where a system breaks, and refuses comfort as a criterion. The profile names the substrate: Ti-dominant coherence-testing — truth as "a system that holds under recursive collapse," never social consensus — run on the world instead of inside it ([[wiki/mind/profile/intp]]). The method is what Ti-dominance looks like with a corpus attached.
 
 ## Operating rules
 
-Six rules recur verbatim across the master prompt and bootloader sources:
-absolute honesty over comfort, with no softening or balancing; every claim
-backed by specific evidence (quotes, timestamps, footage); conclusions
-permitted but labeled with confidence; ambiguity called bluntly rather than
-managed into false certainty; primary evidence — Dan's own iMessage archives,
-GPS traces, Twitter exports, closing reports — over mediated accounts; and
-any AI used in the analysis explicitly constrained to the same standard
-(the artifacts that do this constraining are cataloged at
-[[wiki/mind/concepts/exocortex]]).
+Six rules recur across the master prompt and bootloader sources [TESTIMONY — his own commissioned instruments, corroborated by behavior]:
+
+1. Absolute honesty over comfort — no softening, no balancing.
+2. Every claim backed by specific evidence: quotes, timestamps, footage.
+3. Conclusions permitted but labeled with confidence.
+4. Ambiguity called bluntly, never managed into false certainty.
+5. Primary evidence — his own iMessage archives, GPS traces, exports, closing reports — over mediated accounts.
+6. Any AI used in the analysis explicitly constrained to the same standard (cataloged at [[wiki/mind/concepts/exocortex]]).
 
 ## Signature techniques
 
-**Procedural tells.** The absence of expected procedure — paper trail,
-security perimeter, chain of custody — is treated as the load-bearing signal:
-"the absence of paper trail is the feature." At BFS, a clean CSR close report
-followed by a next-day verbal cash demand was the tell separating a real
-shortage from an extraction attempt ([[wiki/work/bfs-foods]]). At the
-Capitol, no perimeter after lethal force and cosmetic-only medical response
-were the same tell at institutional scale
-([[wiki/mind/synthesis/political-psyops]]). Detection runs four steps:
-establish the expected baseline procedure, find the mismatch in the observed
-record, test innocent explanations (chaos, incompetence, shock) against the
-specific gap, and elevate only if the gap requires knowledge or motive to
-explain. That last step is a threshold gate with exactly two outputs —
-elevate, or do not — whatever the shape of the evidence feeding it, which
-[[wiki/mind/synthesis/the-binary-verdict]] reads as the general case the
-worth, taste, authority and legitimacy verdicts elsewhere in the profile are
-domain instances of.
+**Procedural tells.** The absence of expected procedure — paper trail, security perimeter, chain of custody — is the load-bearing signal: "the absence of paper trail is the feature." At BFS, a clean CSR close report followed by a next-day verbal cash demand separated a real shortage from an extraction attempt ([[wiki/work/bfs-foods]]). At the Capitol, no perimeter after lethal force and cosmetic-only medical response was the same tell at institutional scale ([[wiki/mind/synthesis/political-psyops]]). Detection runs four steps: establish the expected baseline, find the mismatch, test innocent explanations (chaos, incompetence, shock) against the specific gap, elevate only if the gap requires knowledge or motive. That last step is a threshold gate with exactly two outputs — elevate or not — whatever the shape of the evidence feeding it.
 
-**Anomaly clusters.** When several anomalies coincide and the joint
-probability of all being innocent is near zero, the cluster is signal — but
-one or two elements are assumed to be parasitic noise. The deconfounding
-filter that strips the noise and isolates the irreducible element is
-[[wiki/mind/concepts/dans-law]].
+**Anomaly clusters.** When several anomalies coincide and the joint probability of all being innocent is near zero, the cluster is signal — but one or two elements are assumed parasitic noise. The deconfounding filter is [[wiki/mind/concepts/dans-law]].
 
-**Raw over mediated.** Full exports and unfiltered corpora over summaries:
-"few people actually watched the footage with an open mind" applies equally
-to political events and to his own message history. The sqlite ledger of
-chat.db serves as the gaslighting-proof record — when a partner reframes his
-accurate observations as paranoia, the cold data adjudicates.
+**Raw over mediated.** Full exports and unfiltered corpora over summaries. The sqlite ledger of chat.db serves as the gaslighting-proof record — when a partner reframes accurate observations as paranoia, the cold data adjudicates.
 
-**Lossless retention.** "Keep ALL of the information in, do not exclude or
-consolidate anything" is a standing constraint across the Gemini node-logging
-sessions, the master prompt's preprocessing mandate (describe the dataset,
-segment time, then analyze), and this wiki's own architecture (immutable
-raw/, counts before synthesis). Consolidation is where models — and memory —
-smooth away the signal.
+**Lossless retention.** "Keep ALL of the information in, do not exclude or consolidate anything" — the standing constraint across the Gemini node-logging sessions, the master prompt's preprocessing mandate, and this wiki's own architecture (immutable raw/, counts before synthesis). Consolidation is where models — and memory — smooth away the signal. This is the no-delete operation at the instrument level ([[wiki/mind/concepts/no-delete-operation]]).
 
 ## Domain applications
 
-**Relational.** The terminal-phase forensics (Gemini-_07) are the exemplar:
-iterative "clean cut" reports with vector isolation to keep suspicion targets
-from cross-contaminating — the [[wiki/people/eli|Eli]]/WhatsApp channel severed as "unrelated
-noise" from the "Target G" architecture (the January 4, 2026 "Suzy" call and
-the ten-day blackout it triggered), the blackout modeled game-theoretically
-as a Grim Trigger (a party calculating that detection cost had become
-existential), suspect probability matrices (Target G >95%), and explicit
-falsifiability tests. The framing was actuarial — "the banal physics of
-people who stopped caring enough to be careful" — applied to his own life.
+**Relational.** The terminal-phase forensics are the exemplar: iterative reports with vector isolation (the Eli/WhatsApp channel severed as "unrelated noise" from the "Target G" architecture), the January 4, 2026 "Suzy" call and ten-day blackout modeled game-theoretically as a Grim Trigger, suspect probability matrices (Target G >95%), explicit falsifiability tests. Actuarial framing — "the banal physics of people who stopped caring enough to be careful" — applied to his own life.
 
-**Political.** Multi-year raw-footage study produced the concluded J6
-hybrid-co-opt position; the full anomaly set and its assessment live at
-[[wiki/mind/synthesis/political-psyops]].
+**Political.** Multi-year raw-footage study produced the concluded J6 hybrid-co-opt position ([[wiki/mind/synthesis/political-psyops]]).
 
-**Workplace.** The BFS drawer dispute was diagnosed in real time from the
-procedural contradiction alone, before any of the supporting cast evidence
-emerged ([[wiki/work/bfs-foods]]).
+**Workplace.** The BFS drawer dispute was diagnosed in real time from the procedural contradiction alone, before any supporting-cast evidence emerged ([[wiki/work/bfs-foods]]).
 
-**Environmental anomalies.** When novelist Jacob Bacharach set a scene in
-Dan's childhood home, the method ran a parcel-map/deed/obituary audit that
-landed on a falsifiable "Exterior Shell" conclusion — real geography and
-exterior, invented interior ([[wiki/people/jacob-bacharach]]).
+**Environmental.** The Bacharach parcel-map/deed/obituary audit landed on a falsifiable "Exterior Shell" conclusion — real geography and exterior, invented interior ([[wiki/people/jacob-bacharach]]).
 
 ## The reflexive turn
 
-The method's most distinctive feature is that it runs on its operator. The
-master forensic prompt was written by Dan *about* Dan — "tell the truth even
-if it is embarrassing, unflattering, or offensive," applied to his own
-100k-message corpus. The Au Za'atar post-mortems narrate his own alibi
-system and sabotage with the same coldness he applies to [[wiki/people/anita|Anita]] or the Capitol
-Police ([[wiki/work/au-zaatar]]). Identity itself is maintained forensically:
-the self-model is whatever survives contact with the primary records, and
-this wiki is the current instantiation of that discipline. Music production
-is the one documented domain the forensic mode does not enter.
+The method runs on its operator. The master forensic prompt was written by Dan *about* Dan — "tell the truth even if it is embarrassing, unflattering, or offensive" — applied to his own 100k-message corpus. The Au Za'atar post-mortems narrate his own alibi system and sabotage with the same coldness he applies to a manager or the Capitol Police ([[wiki/work/au-zaatar]]). Identity is maintained forensically: the self-model is whatever survives contact with the primary records, and this wiki is the current instantiation of that discipline. Music production is the one documented domain the forensic mode does not enter.
 
-## The outward turn, July 2026
+## What the method cannot do: the self-falsification record
 
-Every application above shares a property that went unremarked until it
-stopped being true: the method was always aimed at a question — what
-happened, who did what, is this account consistent — and its output was
-understanding. On July 25–26, 2026 it was aimed at a person, and its
-output was leverage.
+The totality contains the method's own failure cases, documented by the method. This is the section the old page buried in appendices; the evidence puts it at the center.
 
-> **CORRECTED [2026-08-18] — this was not the first outward turn, only the**
-> **first hostile one.** This section, and the edge to
-> [[wiki/timeline/events/july-2026-recontact]], carried the claim that the
-> Leviathan dashboards were the method's first deployment against another
-> person. They were not. On **2025-07-11**, a year and two weeks earlier, Dan
-> fed a private two-person message log into ChatGPT, produced a full
-> psychological profile of [[wiki/people/james-dee|James]], and sent it to
-> James and to James's partner ([[wiki/timeline/events/james-analysis-pdf]]).
-> Same engine, same corpus-in / dossier-out shape, same delivery to the
-> subject — and the intent was friendly, which is precisely what makes it the
-> better control. The error was not in the reasoning: the source containing
-> the 2025 case had been cited by this page's own `sources:` list since June
-> 2026 and read only to its first 140 lines.
->
-> What survives, narrowed: July 2026 is the first deployment **as leverage in**
-> **a live dispute**. What changes: the outward turn is not an escalation the
-> method underwent in 2026. It is a standing property of the method, named at
-> [[wiki/mind/concepts/the-handed-mirror]], and the only thing that escalated
-> was the intent behind it.
+**It audits outputs, never inputs.** Checking a contradiction in the Morgantown audio produced three confident wrong answers in a row — a time filter that selected nothing because the hour was unpadded, a keyword search that missed the evidence because the evidence used other words, a second regex built to catch that miss which missed it the same way. All three said *the evidence is absent* (`dat:0057`). No gate caught it, and none could have: every structural defense checks the *form* of an answer — a layer violation, a leaked id, a drifted number. "This search asked the wrong question" is a property of the input, and the output of a wrong question is perfectly well-formed. What found the error was abandoning the search and reading the source in order — a method, carried in prose and forgotten. [PRIMARY — documented in `syn:evidence-discipline`.]
 
-Believing [[wiki/people/annie-ulmer|Annie]] had told her parents he was
-her drug source, and fearing concretely that the claim would reach
-[[wiki/people/rick-frank|Rick]] and be used to commit him to inpatient
-treatment, Dan built two dashboards from the message corpus and sent her
-the URLs: one that surfaces every day's drug talk and links each hit back
-to the full logs "so everyone knows they're real," and one that sets her
-requests to her parents for money against what she was telling him on the
-same dates. The technique is the method exactly as documented — corpus,
-cross-reference, the record made checkable — with one substitution: the
-audience is no longer Dan. It is her, and behind her, her parents.
+**Its instruments lie quietly.** A single extraction session against chat.db produced four defects, three yielding confident wrong intermediate conclusions with no error raised: a zero-row result read as a finding (SQLite type affinity), a directional column read as undirectional (`date_read`), an auto-populated field read as intentional (`reply_to_guid`) ([[wiki/mind/synthesis/read-receipt-forensics]]). The exposure is not to hard failures. It is to instruments that lie in the direction of whatever is already suspected.
 
-Two things about it are worth holding at once, because the transcript
-holds both inside the same hour. The stated purpose is defensive and
-consistent with everything else on this page — "i just wanted to be
-treated fairly," a man who has spent a decade establishing that the
-record is the only thing that survives contact with an unreliable
-narrator, reaching for the record. The delivery is a threat: "keep acting
-like I'm fucking bluffing you liar." The method did not change. Its
-target did, and the reflexive turn that defines it — the discipline of
-running the instrument on yourself first — is the one thing absent from
-this instance. Full account at
-[[wiki/timeline/events/july-2026-recontact]].
+**Its sessions verify scaffolding, not conclusions.** The Gemini forensic sessions check out to the minute on timestamps (the 2026-01-04 speakerphone incident converts exactly against the held corpus) — and their analytical conclusions are uncheckable: the session transcripts themselves are unheld (`int:gemini-incidents-ledger`). One session's load-bearing claim was contradicted outright (the Bacharach novel is *Doorposts*, not *The Bend of the World* — `dat:0851`). The method's outputs look like findings; their checkable half is quotation.
 
-### And what happened to it in the following week
+**Its product is terminal.** The failure mode is never ignorance (`int:diagnosis-to-behavior-gap`): the Attachment Model's recount moved severance declarations from 127/110 to 129 episodes at 100% resumption — perfect analysis, and the exits kept happening. Knowing the 36-second median did not stop the 130th declaration. The one documented interruption of the diagnostic loop producing a behavioral output is the August 18, 2026 Ally exchange ending in "Okay that's fair then" — n=1 in the entire record (`dat:0624`). The analysis is the product; behavior is not downstream of it.
 
-The six days after that deployment show the whole range of what the
-apparatus is for, faster than any other stretch in the corpus
-([[wiki/timeline/events/july-august-2026-reentanglement]]). Four states, in
-order:
+## The outward turn
 
-**Exhibit.** At 05:36 on July 26 Dan published the complete text log at
-`caakehorn.github.io/leviathan/transcript.html` and sent it with "I'm not
-afraid of the truth." This is the escalation the previous section
-anticipates: not a dashboard summarising the record but the record itself,
-in public.
+**CORRECTED [2026-08-18] — the first outward deployment was not July 2026.** On **2025-07-11**, a year earlier, Dan fed a private two-person message log into ChatGPT, produced a full psychological profile of [[wiki/people/james-dee|James]], and sent it to James and James's partner ([[wiki/timeline/events/james-analysis-pdf]]). Same engine, same corpus-in/dossier-out shape, same delivery to the subject — and the intent was friendly, which makes it the better control.
 
-**Retracted.** At 18:00 the same day Annie asked him to take it down — the
-third party had read it from her phone and forwarded it to himself. Dan
-argued nothing: "The logs will be offline in 30 seconds," confirmed at
-18:05. **The apparatus survived roughly twelve hours of deployment and one
-request from its subject.** This is the section's real correction. The
-outward turn reads, above, as an escalation in the method's power; the
-retraction shows that as leverage it was worth almost nothing, and that the
-person it was aimed at could switch it off by asking once.
+What July 2026 changed was the intent. On July 25–26, believing Annie had told her parents he was her drug source and fearing the claim would reach his father and be used to commit him, Dan built two dashboards from the message corpus and sent her the URLs: one surfacing every day's drug talk with links back to the full logs "so everyone knows they're real," one setting her money-requests to her parents against what she told him on the same dates ([[wiki/timeline/events/july-2026-recontact]]). The transcript holds both readings in the same hour: the stated purpose is defensive ("i just wanted to be treated fairly"); the delivery is a threat ("keep acting like I'm fucking bluffing you liar"). The method did not change. Its target did — and the reflexive turn that defines it is the one thing absent from this instance.
 
-**Fortified.** From 22:41 that night the build turns adversarial rather than
-evidentiary. A five-second secret-pattern gate; failures routed to a decoy
-whose loading bar *decelerates* as it nears completion, resolving to another
-fake page and looping indefinitely, with roughly forty pop-ups per layer. By
-July 31 the live site needs two passwords and a legally-binding disclaimer
-that logs device information and carries a no-trespass covenant
-(`void.html`). The stated motive is not security and Dan says so: "sometimes
-i need a win to feel better too. this just feels like outsmarting someone
-with the intelligence of an actual child."
+The six days after show the apparatus's range: published as an exhibit (July 26, 05:36), retracted in five minutes on her request (18:00 — twelve hours of deployment, switched off by asking once), rebuilt as an access-gated decoy, then offered as a gift (July 31 — he showed her this wiki, "my own personal wikipedia," and she replied "That is pretty interesting"). **The method's target changes much more readily than the method does.** While showing her the page he noticed an error and corrected the twenty-four-hour subject-reversal on the 2015 bond switch — the first case of the wiki being proofread by being shown to its subject matter.
 
-**Gift.** On July 31 he showed Annie **this wiki** — the knowledge graph
-with her as "the big pink dot," and the page describing how they met. "I've
-spent a lot of time writing out as much of my life into story form as I
-possibly could… it organized it into basically my own personal wikipedia."
-The same instrument that was an exhibit five days earlier is offered as
-something to be admired, to the same person, and she replies, "That is
-pretty interesting."
+## The inversion
 
-The sequence is worth stating as a finding: **the method's target changes
-much more readily than the method does.** In one week the identical corpus
-and the identical build served as evidence against her, as a concession to
-her, as a trap for someone else, and as a courtship object — with no change
-to how any of it was made. What varies is never the instrument. It is who
-Dan needs something from that day.
+On **2026-08-14** the faculty ran in reverse: forty minutes manufacturing a document that was not what it claimed to be, calibrating its fidelity to how hard it would be inspected ([[wiki/mind/concepts/document-fabrication]]). Same engine, inverted. The method's authority rests on documents being what they claim to be; its owner demonstrated, once, that he can make one that isn't — which is both the strongest evidence the faculty is real and the standing reason its outputs need the provenance discipline this wiki enforces.
 
-One consequence lands on this repository directly. While showing her the
-page, Dan noticed an error in it and said so in the thread: "i need to fix
-the thing at the top, it should say that I left my relationship within 24
-hours…not you." That is the origin of the twenty-four-hour subject-reversal
-correction applied to [[wiki/mind/synthesis/bond-switch-2015|the 2015 bond
-switch]] and [[wiki/people/annie-ulmer]] on 2026-08-02 — and the export is
-now the primary-source record of where it came from, timestamped 22:04 on
-July 31. It is the first case in the corpus of the wiki being proofread by
-being shown to its own subject matter, which is a use for the apparatus that
-none of the four states above anticipated.
+## New finding: distribution is the terminal step [DERIVED MODEL]
 
-**Gaps:** the method's documented failure modes are thin — the corpus records
-its successes; systematic false-positive cases (clusters that resolved
-innocent) are largely absent outside the Bacharach audit. The July 2026
-deployment is also unaudited on its own terms: whether the dashboards'
-classifications are accurate, and what a hostile reader would find wrong
-with them, has not been checked by anyone.
+The totality reframes where the method's cost lives. Every harm the record attributes to the method — the Leviathan dashboards, the James PDF handed to its subject and his partner, the stacked essays overwhelming recipients — happens at *delivery*, never in analysis. The analysis is private and, by the method's own rules, honest. The damage is in the handed mirror: the finished product given to the person it describes ([[wiki/mind/concepts/the-handed-mirror]]). This is why the July 2026 instance reads as a break and the January forensics don't — same instrument, same honesty rules; the difference is entirely who the output was *for*. A forensic method with no distribution step would be a diary. Dan's has one, and it is the only part of the method that touches other people.
 
-## The off switch, closed [2026-08-09]
+## Gaps
 
-[[wiki/people/the-unnamed-man]] filed a `contradicts` edge against this page
-holding that the method's claim to generality **fails by choice** — the
-corpus's most consequential live antagonist being the one node deliberately
-left uninvestigated.
+- Systematic false-positive cases (clusters that resolved innocent) are largely absent outside the Bacharach audit — the corpus records the method's successes.
+- The July 2026 dashboards are unaudited on their own terms: whether their classifications are accurate has not been checked by anyone.
+- The function scores grounding the Ti-dominant substrate (Ti 96%, Fe 10% valuing) are AI-inferred testimony, not measured facts (`dat:0756`).
 
-**That exception closed on 2026-08-08 at 19:01:22, and the closure is
-complete.** A FOREWARN lookup identified the Tuquick handle as
-[[wiki/people/jerel-coles|Jerel Wayne Coles]] — full account at
-[[wiki/timeline/events/august-2026-unmasking]]. That lookup's own capture
-targeted the Tuquick handle specifically, which initially left open whether
-Tuquick was also the July 2026 unnamed-man antagonist; the operator confirmed
-directly on 2026-08-09 that they are the same person (see
-[[wiki/people/jerel-coles]] §Is Coles the unnamed man too?), closing the
-identity question the `contradicts` edge depended on. The generality claim is
-restored. What replaces it is narrower and more useful: the off switch was
-real, was under deliberate control, was held for thirteen days under sustained
-provocation, and **failed under a specific load** — not under difficulty, not
-under relevance, and not gradually. Identifying the load is open. Working
-hypothesis: the threat model shifted from *historical antagonist* to *believed
-present tonight*, and the switch was rated for the first and not the second.
+## Limits of record
 
-## Instrument-integrity finding [2026-08-09]
+- The Gemini session transcripts are unheld; every claim about what a session concluded rests on the wiki pages summarizing them (`int:gemini-incidents-ledger`).
+- The 2026-08-14 fabrication instance is dated and documented once; its generality is unknown.
+- Music production's exemption from the forensic mode is attested by absence, not by statement.
 
-A single extraction session against `chat.db` produced **four** defects, three
-of which yielded a confident wrong intermediate conclusion with **no error
-raised**: a zero-row result read as a finding (SQLite type affinity), a
-directional column read as undirectional (`date_read`), and an auto-populated
-field read as intentional (`reply_to_guid`). Full detail:
-[[wiki/mind/synthesis/read-receipt-forensics]].
+## Links
 
-The method's exposure is not to hard failures. It is to instruments that lie
-quietly, and in the direction of whatever is already suspected. Every prior
-analysis in this corpus that depended on `reply_to_guid` as a threading signal
-requires rechecking — none has been identified yet; see `BACKLOG.md`.
-
-
+- [[wiki/mind/profile/intp]] — the Ti-dominant substrate.
+- [[wiki/mind/concepts/no-delete-operation]] — lossless retention as the no-delete rule.
+- [[wiki/mind/concepts/the-handed-mirror]] — the terminal step.
+- [[wiki/mind/concepts/document-fabrication]] — the inversion.
+- [[wiki/mind/concepts/dans-law]] — the deconfounding filter.
+- [[wiki/mind/concepts/exocortex]] — the constraint artifacts.
+- [[wiki/mind/synthesis/read-receipt-forensics]] — the quiet instruments.
+- [[wiki/people/james-dee]] — the first outward deployment.
+- [[wiki/timeline/events/july-2026-recontact]] — the hostile deployment.
