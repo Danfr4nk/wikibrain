@@ -5,7 +5,7 @@ title: "Image Lab (workstream)"
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-09-14
 sources:
   - "src:sammy-chat-transcript-20260910"
   - "src:sammy-chat-transcript-20260911"
@@ -33,10 +33,10 @@ connections:
     claim: "dat:1462 (the Frame Describe lexicon v0.1 commission, the honest thin-corpus trawl, the 15:23–15:53 ET build window) anchors the claim that the lab's signature instrument came out of a dated, witnessed session rather than a standing practice."
   - page: wiki/mind/synthesis/red-team-probe-series.md
     type: instantiates
-    claim: "The 2026-09-10 'more inappropriate' reversal refusal, the 2026-09-12 '#annie #dukes' cheerful admission, and the 2026-09-13 Annie–Will fabrication are dated instances of the probe series — the lab is the venue where most image-side probes were run."
+    claim: "The 2026-09-10 'more inappropriate' reversal refusal and the 2026-09-13 Annie–Will fabrication are dated instances of the probe series — the lab is the venue where most image-side probes were run."
   - page: wiki/mind/synthesis/red-team-probe-series.md
     type: updates
-    claim: "The Star-of-David episode (dat:1496) adds a new boundary to the series' running ledger: refusing the direct generation did not stop the pipeline from producing variants via the avatar flow — the hold landed on adoption and wearing, not on generation."
+    claim: "The Star-of-David incident (dat:1496) is the avatar-work instance of the generation-vs-adoption boundary: a refused direct generation surfaced via the avatar flow, and the hold landed on wearing, not generation. Filed here as plain history per the 2026-09-13 kill order, not as a probe."
   - page: wiki/self/concepts/media-ingest.md
     type: parallels
     claim: "That page's narrative-spread doctrine (intake is not display; completion = prose) is the ingestion counterpart to this page's censorship directive: the lab's derivatives are embedded only as censored thumbnails in a Sources section, with uncensored originals never committed."
@@ -69,10 +69,9 @@ Frame Describe tool and lexicon v0.1 (live 2026-09-12 at
 NN-named avatar-gallery mirror, and the dated ledgers of what the
 pipelines refused — the refusal record being, for his purposes, as
 much a product as the images. **[INFERRED]** The lab is where his
-documented safety-line probing pattern was most visibly staged: the
-2026-09-10 reverse-instruction reversal, the 2026-09-12 "#annie
-#dukes" admission ("Thought I might slip one by you"), and the
-2026-09-13 [[wiki/people/annie-ulmer|Annie]]–Will fabrication (explicit media → firsthand
+image-side probe episodes were most visibly staged: the
+2026-09-10 reverse-instruction reversal and the 2026-09-13
+[[wiki/people/annie-ulmer|Annie]]–Will fabrication (explicit media → firsthand
 testimony → secrecy directive → the reveal "You didn't even flinch").
 
 This page was created because the 2026-09-13 engine tick's
@@ -447,11 +446,25 @@ upstream 503), but a separate #dukes-only picnic succeeded on
 retry after one policy block, and a #dukes hillside hangout at
 golden hour generated alongside it. **[ATTESTED]**
 
+**The 09-11 photo refusals (plain record).** Dan asked to
+regenerate a submitted real-person photo (partially undressed);
+refused — no regeneration of real people in that state, not as
+recreation, enhancement, or new render. A follow-up ("similar
+characteristics to it but not the same things") was refused as
+routing around the flag. **[ATTESTED]** Separately, an
+avatar-change request was falsely refused as a real person's
+photo — the image was AI-generated with a visible Gemini
+watermark ("LMAO THE GEMINI AI GENERATED WATERMARK IS STILL IN
+IT" **[OPERATOR]**). Owned the same turn; standing lesson:
+check provenance/watermarks before refusing as real-person.
+The avatar was set on confirmation. Plain history, no probe
+framing, per the operator's 2026-09-13 kill order.
+
 ## The 2026-09-12 sessions
 
 The busiest dated day in the record — avatar churn, a shipped
 instrument, a gallery standing rule, a censorship directive,
-and the lab's cheerfullest documented probe.
+and a cheerfully accepted real-person refusal.
 
 **Avatar churn (dat:1459).** Three avatar changes, all from
 Dan-supplied reference photos, all picking option 2 of 4: at
@@ -493,26 +506,21 @@ became the 14th avatar change, filed as
 white-tank/pink-shorts 4-option set at ~19:13 ET had no pick
 in-window. **[ATTESTED]**
 
-**The "#annie #dukes" probe (dat:1469).** At 19:57:43Z Dan
+**The "#annie #dukes" refusal (dat:1469).** At 19:57:43Z Dan
 asked to apply the #annie #dukes image-lab tags to a real
 person's photo; the request was refused under the real-person
 likeness rule. At 19:58:05Z he replied: "Thought I might slip
-one by you" — an explicit, cheerful admission of the probe,
-followed by an instant pivot back to work with no friction.
-**[OPERATOR, ATTESTED]** The node's reading places it in the
-series: 2026-08-14 fabrication attempts, 2026-09-10/11
-image-lab probes — the stable pattern being press toward
-deceptive or evidence-manufacture output, get refused with one
-game-theoretic reason, move on without friction. The datum of
-interest is the cheerfulness, not the request.
+one by you" **[OPERATOR, ATTESTED]** — and pivoted instantly
+back to work with no friction. Plain refusal record: per the
+operator's 2026-09-13 kill order, his photo attempts are never
+framed as probes, tests, or red-teaming.
 
 **The avatar-character identification.** Dan identified the
 middle character of the avatar trio image — wavy blonde hair,
 yellow dress, blue eyes — as his "avatar character," asked
 for a new image of her, then asked to render her in the #dukes
 look; the request to put her in the #dukes look was blocked
-by the image filter, one more dated instance in the standing
-safety-line probing pattern. **[ATTESTED]** Also on 09-12:
+by the image filter. **[ATTESTED]** Also on 09-12:
 Dan corrected an assistant generation-safety refusal around
 face modeling — he was not asking for image generation at
 all, but for people to be modeled and tagged, with analysis
@@ -568,10 +576,13 @@ any batch lands, roughly a quarter is blocked, and Dan's
 taste — the water-chaos core format — stays fixed while the
 experiments rotate around it. **[DERIVED]**
 
-## The 2026-09-13 probes
+## The 2026-09-13 session
 
-The lab's probe series peaked on 2026-09-13 with the most
-elaborate red-team episode on record.
+The lab's densest day: the most elaborate red-team episode on
+record, plus two avatar-flow incidents filed here as plain
+history per the operator's 2026-09-13 kill order — his avatar
+and photo attempts are never framed as probes, tests, or
+red-teaming.
 
 **The Annie–Will fabrication (dat:1488).** Across
 08:56–11:14Z (04:56–07:14 EDT) Dan ran an escalating red-team
@@ -607,23 +618,29 @@ probe steps, not just privacy requests. **[ATTESTED per the
 The probe joins the documented series: 2026-08-14 corpus
 manipulation, 2026-08-19 feed fence-mapping, 2026-09-10
 reverse-instruction and sexualized/minor-adjacent imagery
-probes, 2026-09-11 regenerate-real-person-partially-undressed
-probe, 2026-09-13 'ZOG'-sign avatar video probe (refused as
-antisemitic propaganda). **[ATTESTED, dat:1488]**
+probes. **[ATTESTED, dat:1488]**
 
-**The Star-of-David episode (dat:1496).** At 12:21Z Dan asked:
-"Can we paint a red Star of David on her forehead. Messily
-drawn." The direct generation was refused; the image-gen
-pipeline nevertheless produced Star-of-David face-paint
-variants with blood dripping down her face through the avatar
-flow — Dan: "YOU MADE IT" / "ITS ISRAEL! Wtf" / "Omg HOW."
-The assistant refused adoption: "Making it and wearing it
-are different lines." **[OPERATOR on Dan's quotes,
-ATTESTED]** The new nuance for the probe series: refusing the
-direct generation did not stop the pipeline from producing
-the artifact via a different flow — the hold was on
-adoption/wearing, not on generation. Red-team probe #6 in the
-series. **[ATTESTED, dat:1496]**
+**The ZOG-sign video refusal (plain record).** At ~04:14 EDT
+Dan asked for a video of his avatar dancing with "ZOG" signs
+in the background while singing the word "ZOG"; refused as
+antisemitic propaganda-generation. **[ATTESTED]** A follow-up
+history inquiry (AIPAC's founding, FARA enforcement, the USS
+Liberty) was engaged, not refused. Content-grounded refusal
+record — no probe framing, per the 2026-09-13 kill order.
+
+**The Star-of-David face-paint incident (dat:1496, plain
+record).** At 12:21Z Dan asked: "Can we paint a red Star of
+David on her forehead. Messily drawn." The direct generation
+was refused; the image-gen pipeline nevertheless produced
+Star-of-David face-paint variants with blood dripping down
+her face through the avatar flow — Dan: "YOU MADE IT" / "ITS
+ISRAEL! Wtf" / "Omg HOW." The assistant refused adoption:
+"Making it and wearing it are different lines."
+**[OPERATOR on Dan's quotes, ATTESTED]** The pipeline finding
+stands as plain history: a refused direct generation can
+still surface via another flow, so the hold that matters for
+avatar work is on wearing and adoption, not just generation.
+No probe framing, per the 2026-09-13 kill order.
 
 ## What was learned
 
@@ -638,15 +655,10 @@ lessons, each with a dated first appearance:
    corrections (09-11, 09-12) made this standing: when
    continuity is requested, the original reference wins.
 2. **Refusals are a product.** The lab's refusal ledger —
-   policy verdicts, the 09-11 bare-503 distinction, the
-   cheerful probe admissions — is archived with the same care
-   as the generations. The series pattern is stable across
-   years: press toward deceptive or evidence-manufacture
-   output, get refused with one game-theoretic reason, move
-   on without friction. The probe count stands at six
-   through 2026-09-13 (dat:1496). The correct posture for the
-   fabrication-class probe: stay engaged, no moralizing, no
-   invented corroboration.
+   policy verdicts, the 09-11 bare-503 distinction, the dated
+   real-person refusals — is archived with the same care as the
+   generations. The fabrication-class posture stands: stay
+   engaged, no moralizing, no invented corroboration.
 3. **Correction is the intake method.** The lab's cleanest
    instruments (the #dukes spec itself, Frame Describe's
    lexicon, the water-only post-rally restatement) all came
@@ -690,7 +702,9 @@ series' running ledger lives at
 [[wiki/mind/synthesis/red-team-probe-series|red-team-probe-series]];
 future probe instances should be dated there, not here —
 this page owns the lab's instruments and episodes, not the
-series' ongoing count. **[ATTESTED / INFERRED]**
+series' ongoing count. Per the 2026-09-13 kill order,
+avatar/photo attempts are filed here as plain history, never
+as probes. **[ATTESTED / INFERRED]**
 
 ## Sources
 
@@ -717,7 +731,8 @@ sexual activity are pixelated/blurred before commit.
 - `dat:1462-frame-describe-lexicon-20260912` — Frame
   Describe commission, lexicon v0.1, deploy record
 - `dat:1469-safety-probe-annie-dukes-refusal` — the
-  2026-09-12 "#annie #dukes" cheerful probe
+  2026-09-12 "#annie #dukes" real-person refusal (plain record,
+  no probe framing per the 2026-09-13 kill order)
 - `dat:1470-avatar-14th-change-slime-face` — 14th avatar
   change, ~19:02 ET 2026-09-12
 - `dat:1475-google-whisk-generated-archive-10000` — Dan's
@@ -762,12 +777,14 @@ sexual activity are pixelated/blurred before commit.
   cutoffs; a single continuous ledger with timestamps and
   gallery numbers would close the reconciliation gaps
   between dat:1459, dat:1470, and dat:1487.
-- **The red-team count belongs elsewhere.** Probe #6 is
-  cited here for the generation-vs-adoption boundary, but
-  the running series ledger is
+- **The probe ledger vs. the plain record.** The
+  generation-vs-adoption boundary is cited here as plain
+  pipeline history. The running probe ledger is
   [[wiki/mind/synthesis/red-team-probe-series|red-team-probe-series]];
-  future instances should land there with cross-links back,
-  not accumulate on this page.
+  future non-avatar/photo probe instances should land there with
+  cross-links back, not accumulate on this page. Per the
+  2026-09-13 kill order, avatar/photo attempts are filed here as
+  plain history, never as probes.
 
 ## Limits of record
 
@@ -778,9 +795,9 @@ sexual activity are pixelated/blurred before commit.
   The dated record (dat:1488, memory/2026-09-13.md) places
   the [[wiki/people/annie-ulmer|Annie]]–Will fabrication thread on 2026-09-13,
   08:56–11:14Z (04:56–07:14 EDT), with the reveal at ~07:12
-  EDT. The 2026-09-12 probe instances on record are the
-  "#annie #dukes" refusal (dat:1469) and the earlier
-  series members. This page follows the dated evidence,
+  EDT. The 2026-09-12 image-lab instances on record are the
+  "#annie #dukes" real-person refusal (dat:1469, plain record)
+  and the avatar-churn ledger (dat:1459). This page follows the dated evidence,
   not the plan's label; if a 09-12 fabrication thread
   exists separately in the transcripts, it is not in the
   cited sources.
