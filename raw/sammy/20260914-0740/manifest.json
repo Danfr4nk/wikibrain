@@ -1,0 +1,52 @@
+{
+ "batch": "20260914-0740",
+ "rescued_from": "failed worker run 2026-09-14 04:05 EDT (interrupted); rescued by main agent 2026-09-14 08:08\u201308:15Z",
+ "chat_archive": {
+  "path": "raw/sammy/20260914-0740/chats.json",
+  "rows": 128,
+  "roles": {
+   "system": 126,
+   "assistant": 2
+  },
+  "window_start": "2026-09-14T05:30:08.272+00:00",
+  "window_end": "2026-09-14T08:11:05.09+00:00",
+  "deduped_against": "raw/sammy/20260914-0630/chats.json (117 rows, 2026-09-14T03:47:25Z-05:24:28Z)",
+  "byte_exact_full_body": 68,
+  "excerpt_truncated_6000": 60,
+  "note": "Truncated rows carry body_excerpt (first 6000 chars), body_bytes, body_md5, truncated=true. Full-body rows are byte-exact with md5 verified."
+ },
+ "externals": {
+  "instagram": {
+   "checked_at": "2026-09-14T08:10:00Z",
+   "new_items": 0
+  },
+  "threads": {
+   "checked_at": "2026-09-14T08:10:00Z",
+   "new_items": 0
+  },
+  "facebook": {
+   "checked_at": "2026-09-14T08:10:00Z",
+   "new_items": 0
+  },
+  "messenger": {
+   "checked_at": "2026-09-14T08:10:00Z",
+   "new_items": 0
+  },
+  "spotify": {
+   "checked_at": "2026-09-14T08:10:00Z",
+   "new_items": 0
+  },
+  "device": {
+   "checked_at": "2026-09-14T08:10:00Z",
+   "new_items": 0
+  }
+ },
+ "watermarks_after": {
+  "chats": "2026-09-14T08:11:05.09+00:00",
+  "instagram": "2026-09-14T01:05:11Z (unchanged; 57 viewers)",
+  "threads": "2026-08-26T23:04:55Z (unchanged)",
+  "facebook": "2026-07-04T15:51:25-04:00 (unchanged)",
+  "messenger": "2026-08-26T22:23:43.707Z (unchanged)",
+  "spotify": "snapshot-2026-09-12T23:35:50Z (unchanged; 125 playlists, paused on blunn)"
+ }
+}

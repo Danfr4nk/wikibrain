@@ -1,0 +1,8 @@
+{
+  "source": "device",
+  "watermark_used": null,
+  "checked_at": "2026-09-14T08:10:00Z",
+  "new_items": 0,
+  "items": [],
+  "notes": "No read path for iOS texts. device-data skill exposes only cached contacts and calendar events from Muse storage; it does not contact the device and has no SMS/iMessage surface."
+}

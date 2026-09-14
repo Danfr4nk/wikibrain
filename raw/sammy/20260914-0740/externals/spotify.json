@@ -1,0 +1,17 @@
+{
+  "source": "spotify",
+  "watermark_used": "snapshot-2026-09-12T23:35:50Z",
+  "checked_at": "2026-09-14T08:10:00Z",
+  "new_items": 0,
+  "playlist_count": 125,
+  "playlist_baseline": 125,
+  "now_playing": {
+    "track": "don't need u (i do)",
+    "artist": "blunn",
+    "playlist": "Baby's First Stalker",
+    "status": "PAUSED",
+    "progress_ms": 1494
+  },
+  "items": [],
+  "notes": "Playlist inventory 125 = baseline (no recently-played endpoint; baseline = snapshot + inventory). Now-playing snapshot recorded; no inventory delta."
+}
