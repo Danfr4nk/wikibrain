@@ -1,0 +1,10 @@
+{
+  "batch": "20260914-1230",
+  "checked_at": "2026-09-14T12:36:00Z",
+  "count": 0,
+  "new_items": [],
+  "note": "no read path: device-data skill exposes only cached contacts and calendar events from Muse storage; no SMS/iMessage surface.",
+  "source": "device",
+  "watermark_from": null,
+  "watermark_to": null
+}

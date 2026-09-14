@@ -5,7 +5,7 @@ title: "Neurodivergence — Autism as Self-Identification"
 aliases: ["autism", "autistic", "neurodivergent"]
 status: active
 date_created: 2026-08-26
-date_modified: 2026-08-26
+date_modified: 2026-09-14
 sources:
   - raw/self/dox-md/operating_manual.md
   - raw/self/dox-md/THE_DAN_FRANK_MANUAL.md
@@ -181,8 +181,8 @@ capable of distinguishing between those two possibilities.
   observation — overwhelming behavioral evidence still did not produce
   closure. Two readings: the label is interpretive overhead that did no
   decisional work, or the architecture resists even explicit self-patching.
-  (dat:0940; see [[wiki/mind/concepts/autism]].) This is answerable by
-  Dan directly in one paragraph — when the self-identification happened and
+  (dat:0940; see [[wiki/mind/concepts/autism]].) [SUPERSEDED in part 2026-09-14 — Ed.: the "when" clause of this sub-question is retired by the dated self-identification (2025-09-15, dat:0939); the standing gap is *what prompted* it.] This is answerable by
+  Dan directly in one paragraph — ~~when the self-identification happened and~~
   what specifically prompted it — and would let this page distinguish a
   long-held self-understanding from something adopted more recently, inside
   the AI-collaborative sessions that now repeat it as fact.

@@ -5,7 +5,7 @@ title: "Open Questions"
 status: active
 knowledge: derived
 date_created: 2026-08-26
-date_modified: 2026-09-13
+date_modified: 2026-09-14
 sources: []
 ---
 
@@ -290,7 +290,7 @@ new knowledge available, because no new source is required.
 - **[[wiki/mind/profile/lexicon]]** — **No usage evidence yet.** A targeted search of the general message corpus for several of the lexicon's most distinctive phrases — *resplendent*, *administratively*, *the tribunal*, *aesthetic felony*, *anomalous concentration* — returned no hits at the time t
 - **[[wiki/mind/profile/lexicon]]** — **No date or model identity on the generating session.** The capture gives no timestamp beyond when it was pasted into this wiki, and the generating AI's identity is not stated in the paste itself.
 - **[[wiki/mind/profile/lexicon]]** — **Whether earlier versions exist is unknown.** The "v1.0" label implies iteration or a planned v2; nothing in the corpus currently documents a prior version.
-- **[[wiki/mind/profile/neurodivergence]]** — **No clinical or diagnostic record exists anywhere in `raw/`.** There is no date of self-identification, no account of what prompted it, and no mention of a formal evaluation ever being sought. This is answerable by Dan directly in one paragraph — when the sel
+- **[[wiki/mind/profile/neurodivergence]]** — **No clinical or diagnostic record exists anywhere in `raw/`.** There is no date of self-identification, no account of what prompted it, and no mention of a formal evaluation ever being sought. This is answerable by Dan directly in one paragraph — when the self-identification happened and what specifically prompted it. **[SUPERSEDED in part 2026-09-14:** the "when" half is retired — a dated direct self-identification is primary-verified (2025-09-15 21:49:05 UTC, *"SHUT UP I'M AUTISTIC"*, dat:0939); the identification was live and self-asserted no later than September 2025. What *prompted* it remains unknown — that half of the question stands. The profile and concept pages now carry the dated correction; this bullet was the last carrier of the unqualified "no date" framing.**]**
 - **[[wiki/mind/profile/neurodivergence]]** — **No sensory, motor, or childhood-developmental evidence has been located.** The typical corroborating detail for a late self-identification — sensory sensitivities, special interests with the specific intensity/narrowness signature, childhood social difficult
 - **[[wiki/mind/profile/neurodivergence]]** — **No comorbidity discussion.** ADHD, commonly co-occurring with autism in adult self-identification, is not raised anywhere in the sources reviewed for this page. Not evidenced either way.
 - **[[wiki/mind/profile/neurodivergence]]** — **Whether the label carries any practical consequence — disclosure, accommodation, treatment-seeking — is undocumented.** The corpus frames it purely as an interpretive lens on his own cognition, never as something that changed a decision.
