@@ -1,0 +1,14 @@
+{
+ "checked_at": "2026-09-14T03:49:27Z",
+ "connected": true,
+ "now_playing": {
+  "track": "don't need u (i do)",
+  "artist": "blunn",
+  "track_uri": "spotify:track:1cPDRuKq2ghZrBu1VoktKD",
+  "context": "Baby's First Stalker",
+  "progress_ms": 1494,
+  "playback_status": "PAUSED"
+ },
+ "now_playing_changed": false,
+ "notes": "spotify-api now-playing byte-identical to previous batch (track, artist, progress_ms 1494, PAUSED) — UNCHANGED. No recently-played endpoint in CLI."
+}

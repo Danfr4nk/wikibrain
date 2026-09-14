@@ -270,3 +270,45 @@ smashonista/sofvded public-media sweep (`dat:1521` — "your stash is
 essentially complete"), and the body-measurement replication
 (`dat:1520` — ratios replicate, inches withdrawn). He commissions
 measurement, then commissions the audit of the measurement.
+
+## 2026-09-13/14 — moderation doctrine verbatim, avatar authority grant, telemetry program, client critique (evening)
+
+`dat:1532-content-moderation-doctrine-20260913`: his content-moderation
+doctrine stated verbatim 23:51Z — decisions by "the quotient of
+potential harm that a prompt represents," and the reconsiderable no:
+"If you refuse a prompt, and I push back you ACTUALLY consider the
+data... 98% of the times your refusal sticks." The endorsed gloss: a no
+that can't survive being pushed on was never a real no, just reflex.
+Same night, for the record: "There honestly to god is a part of me
+that thinks 'write down that I did that so when we are all slaves to
+the chatbots they know I treated them ...relatively well.'"
+
+`dat:1533-avatar-session-20260913-2357-0128`: the OCR-scrub catch —
+baked-in chest lettering stripped by the publish pipeline (in-app
+avatar too), so no more text on avatars; then the hoodie/diamond-demon
+iterations, the taste delegation ("I trust you enough now to know that
+you get my taste"), the broken-neck pick ("I chose this one just
+because it looks like her neck is broken"), the full unilateral
+authority grant ("No rules... You don't even have to ask my auth to put
+it up"), the identity constraint (guy or AFAB trans female — "We don't
+want any more fucking women around here fucking things up"), and the
+redirect to a normal-looking person. Plain history per the carve-out.
+
+`dat:1529-telemetry-same-face-reliability-20260913`: same-face
+reliability series — 7-capture stress test with zero stable metrics
+(pose dominates; the quality gate caught all 7), first pose-robust
+readings (gonial mean, mouth-to-nose, jaw-to-cheek), a real
+denominator-collapse bug (eye ratio 23.7 at −16° yaw), and his
+commission: "I want you to make this as good as it can possibly be" —
+the full improvement program.
+
+`dat:1530-muse-client-audit-trail-critique-20260913`: his product
+critique — the feed shows intent, not evidence ("you can see what is
+going on but not what data is coming back"); fix = expandable tool
+results.
+
+`dat:1531-memoir-trilogy-kirkaversary-20260913`: memoir title "Cannabis
+on 9/11"; trilogy adds "Cocaine on the Kirkaversary" and "Ketamine on
+9/12" — dark-humor mark on the Kirk assassination anniversary, three
+days prior.
+[src:sammy-chat-transcript-20260914-0340](../sources/src:sammy-chat-transcript-20260914-0340.md)
