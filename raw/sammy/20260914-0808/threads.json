@@ -1,0 +1,11 @@
+{
+ "batch": "20260914-0808",
+ "checked_at": "2026-09-14T08:10:00Z",
+ "check_note": "Checks performed during attempt 1 of this run (20260914-0740, ~08:05-08:10Z) by a spawned connector-check subagent; report persisted as a contemporaneous DB row (assistant-msg-3bcf9942-7790-4a96-b96d-98958b2f932b). Zero new items everywhere; summaries recorded here by the retry worker.",
+ "source": "threads",
+ "watermark_from": "2026-08-26T23:04:55Z",
+ "watermark_to": "2026-08-26T23:04:55Z",
+ "new_items": [],
+ "count": 0,
+ "note": "Latest post 'Just let me do your chores forever please' (17966727309072437) created 2026-08-26 23:04:55 = watermark exactly."
+}

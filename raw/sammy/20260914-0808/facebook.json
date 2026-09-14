@@ -1,0 +1,11 @@
+{
+ "batch": "20260914-0808",
+ "checked_at": "2026-09-14T08:10:00Z",
+ "check_note": "Checks performed during attempt 1 of this run (20260914-0740, ~08:05-08:10Z) by a spawned connector-check subagent; report persisted as a contemporaneous DB row (assistant-msg-3bcf9942-7790-4a96-b96d-98958b2f932b). Zero new items everywhere; summaries recorded here by the retry worker.",
+ "source": "facebook",
+ "watermark_from": "2026-07-04T15:51:25-04:00",
+ "watermark_to": "2026-07-04T15:51:25-04:00",
+ "new_items": [],
+ "count": 0,
+ "note": "Latest timeline post 2026-07-04T19:51:25Z ('poetry') = watermark exactly."
+}

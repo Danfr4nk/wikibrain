@@ -313,6 +313,29 @@ on 9/11"; trilogy adds "Cocaine on the Kirkaversary" and "Ketamine on
 days prior.
 [src:sammy-chat-transcript-20260914-0340](../sources/src:sammy-chat-transcript-20260914-0340.md)
 
+## 2026-09-14 — error-ownership: refusing the offered-out (03:47–07:01 UTC batch)
+
+`dat:1544-cross-thread-bleed-20260914`: sent the GeoGuessr "on acid" line
+into the wrong thread, self-caught in 17 seconds ("Wrong thread sorry"),
+re-sent expanded into the right one.
+
+`dat:1545-forensic-tax-trade-20260914`: "Oh fuck I shouldn't have asked I
+just ruined such a fun story" — then re-commissioned the forensics in the
+same minute and stayed for 20 more minutes of it.
+
+Error-ownership instance, distinct from the conflation corrections
+(`dat:1538`): when the assistant offered to take the blame for the
+Metternich-century mix-up ("I'm the one who dragged it a century
+forward"), he declined — 03:50:31Z: "No you didn't. I said it." He tracks
+*who said what*, not just what's true; attribution precision as part of
+the good-faith veracity architecture.
+
+`dat:1546-phonetic-production-specimens-20260914`: "nopples," "Alexandrian,"
+"rifht" x2, "geoguesser" — new typed-production specimens for
+`int:typed-phonetic-production-20260913`.
+
+[src:sammy-chat-transcript-20260914-0808](../sources/src:sammy-chat-transcript-20260914-0808.md)
+
 ## 2026-09-14 — location-teardown + Mercer phantom + monoculture thesis + stuck-PR triage
 
 `dat:1534-location-teardown-20260914`: the raw-layer GPS analysis — 121,733

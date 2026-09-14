@@ -1,0 +1,21 @@
+{
+ "batch": "20260914-0808",
+ "checked_at": "2026-09-14T08:10:00Z",
+ "check_note": "Checks performed during attempt 1 of this run (20260914-0740, ~08:05-08:10Z) by a spawned connector-check subagent; report persisted as a contemporaneous DB row (assistant-msg-3bcf9942-7790-4a96-b96d-98958b2f932b). Zero new items everywhere; summaries recorded here by the retry worker.",
+ "source": "spotify",
+ "watermark_from": "snapshot-2026-09-12T23:35:50Z",
+ "watermark_to": "snapshot-2026-09-14T08:10:00Z",
+ "new_items": [],
+ "count": 0,
+ "now_playing": {
+  "track": "don't need u (i do)",
+  "artist": "blunn",
+  "state": "paused at 1.5s",
+  "playlist": "Baby's First Stalker"
+ },
+ "inventory": {
+  "playlist_count": 125,
+  "delta": 0
+ },
+ "note": "No recently-played endpoint in spotify-api CLI; baseline = now-playing snapshot + complete playlist inventory (125 items, paginated 7 pages). No inventory delta vs baseline."
+}

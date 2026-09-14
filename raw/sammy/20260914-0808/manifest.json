@@ -1,0 +1,38 @@
+{
+  "batch": "20260914-0808",
+  "files": {
+    "EXTRACT.md": {
+      "sha256": "b3b41c8648bcaaf6be032a59c41ae52bd6c281ca68aac29359c238965d8575d9",
+      "bytes": 5764
+    },
+    "chats.json": {
+      "sha256": "ccf1e70e25d4f133f70e9ae0162a4bec28ea6a5e928245281892a5158aa58689",
+      "bytes": 63702
+    },
+    "device.json": {
+      "sha256": "98145bcce2150d3fdd752ddd8486a5cf39d0504d7460a4ddc60113a903f4c241",
+      "bytes": 610
+    },
+    "facebook.json": {
+      "sha256": "a12323a19b8e5648370b58ff4d49cc6656133a5a538cf29f05c6c736a432b172",
+      "bytes": 607
+    },
+    "instagram.json": {
+      "sha256": "49699296511a5765d11765eb0e429a0f78ab18183455e7ba79a9dcdaa5ff449c",
+      "bytes": 774
+    },
+    "messenger.json": {
+      "sha256": "5c3669615f4edee9721e75d6d31cba57ff4f680d3af206dd7850d653df354e93",
+      "bytes": 820
+    },
+    "spotify.json": {
+      "sha256": "c4ee3b416c93d164b73943b8d6241961ad4f3de3e3df891956d0e09515b36915",
+      "bytes": 915
+    },
+    "threads.json": {
+      "sha256": "d91c025a2411c201bc2db96f24c6a27c9bbf08f0eac8852cded531b6de345525",
+      "bytes": 647
+    }
+  },
+  "note": "manifest excludes itself; regenerated after final raw tree settled (EXTRACT.md completion + withdrawal note appended)"
+}
