@@ -5,7 +5,7 @@ title: "Autism"
 aliases: ["autistic", "neurodivergent", "self-identified autism"]
 status: active
 date_created: 2026-09-11
-date_modified: 2026-09-13
+date_modified: 2026-09-14
 synthesizes:
   - wiki/mind/profile/neurodivergence
   - wiki/mind/concepts/attachment-model
@@ -272,7 +272,7 @@ does no decisional work is free to do aesthetic work instead.
 
 ## What Dan himself says about it
 
-The clearest primary-source statement is a question, not a description. In
+The clearest primary-source statement *about what the label means* is a question, not a description. In
 `Breaking the anxiety avoidance cycle.md`, Dan asks whether the label is
 doing real work or excusing him from ordinary standards:
 
