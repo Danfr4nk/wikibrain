@@ -2465,6 +2465,20 @@ week, and it produced this page.
 
 
 
+## The tattoos
+
+For eleven years the photographic archive carried no confirmed tattoo on
+her — the 2026-09-12 correction retired that read, when a black
+tribal-style glyph showed at the edge of her flank in somebody else's
+photo. Two days later Dan sent the close-ups himself, "for your modeling
+and memory purposes": the glyph up close, a heart-like loop with tapered
+strokes on the hip, and a script piece low on the abdomen reading "Hope
+is a waking dream." — typewriter serif, two lines, the kind of line
+someone picks young and keeps. See
+`dat:annie-tattoos-close-ups-20260914`.
+
+
+
 ## Sources
 
 [![Annie Ulmer, first nude, 2015-11-26 (pixelated)](../../media/upload-045.jpg)](../../media/upload-045.jpg) — Annie Ulmer's first nude to Dan, 2015-11-26 14:33 EST, black-and-white bathroom selfie (iPhone 6s front camera, her position). Embedded derivative pixelated per the censorship rule; the original is never committed. See `dat:annie-first-nude-milestone-20260912`.
@@ -2496,3 +2510,9 @@ week, and it produced this page.
 [![Marriage exchange, 2015-12-10](../../media/upload-080.jpg)](../../media/upload-080.jpg) — "I want to marry you" / "And spend forever feeling this happy" — "I can promise you" / "That you will marry me," 2015-12-10 18:01–18:03 EST (messages.csv rows 131945/131902, 131959/131916). See `dat:dan-annie-marriage-exchange-2015-12-10`.
 
 [![Dan and Annie, Polaroid-style print](../media/gphotos-012.jpg)](../media/gphotos-012.jpg) — Dan and Annie cheek-to-cheek, both smiling; the print photographed on a granite counter. Undated, pre-terminal-phase. Curated pick from the Google Photos DANNIE HISTORY album thumbnail sampling (2026-09-14).
+
+[!["Hope is a waking dream." script tattoo, 2026-09-14](../../media/upload-081.jpg)](../../media/upload-081.jpg) — Close-up of Annie's script tattoo, typewriter-style serif over two lines, low on the abdomen/hip just above the underwear line. Sent by Dan in chat 2026-09-14 19:15 EDT. No nudity or sexual activity visible. See `dat:annie-tattoos-close-ups-20260914`.
+
+[![Tribal glyph tattoo close-up, 2026-09-14](../../media/upload-082.jpg)](../../media/upload-082.jpg) — Close-up of Annie's black tribal-style glyph: heart-like loop with extended tapered strokes on the hip/flank, a mole nearby. Consistent with the ribcage/flank glyph confirmed 2026-09-12. Sent by Dan in chat 2026-09-14 19:15 EDT. No nudity or sexual activity visible. See `dat:annie-tattoos-close-ups-20260914`.
+
+[!["Hope is a waking dream." tattoo, detail crop, 2026-09-14](../../media/upload-083.jpg)](../../media/upload-083.jpg) — Tighter detail crop of the same script tattoo as upload-081: the ink close up, fine hairs/stubble on the skin below it. Sent by Dan in chat 2026-09-14, same session. No nudity or sexual activity visible. See `dat:annie-tattoos-close-ups-20260914`.

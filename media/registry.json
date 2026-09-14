@@ -6,7 +6,9 @@
       "date": "2018-02-20",
       "description": "Fran Coldren (97) in white turtleneck and dark purple zip fleece, holding a tissue, being offered a hit off a lime-green box-mod vape. Interior, wood-paneled door.",
       "id": "gphotos-001",
-      "linked_nodes": ["wiki/people/fran-coldren.md"],
+      "linked_nodes": [
+        "wiki/people/fran-coldren.md"
+      ],
       "original_filename": null,
       "poster_sha256": "42411a4206e0376c98ba83f9c19d96d2c7a59352df00274d3d5646189646608b",
       "share_url": "https://photos.app.goo.gl/zBz5oaHZaa4E7maN6",
@@ -18,7 +20,9 @@
       "date": "2017-11-06",
       "description": "Fran Coldren (97) seated in a striped chair, teal polka-dot pajamas and dark purple chenille zip jacket, holding a PlayStation DualShock 4 controller (light bar lit). Sunroom, white blinds, green carpet.",
       "id": "gphotos-002",
-      "linked_nodes": ["wiki/people/fran-coldren.md"],
+      "linked_nodes": [
+        "wiki/people/fran-coldren.md"
+      ],
       "original_filename": null,
       "poster_sha256": "b3269a4367d98b733bce31b3c0693201daf2d61eeb303b357fc00488c63c70f7",
       "share_url": "https://photos.app.goo.gl/6SP4RkGeDkQRcZuK9",
@@ -30,7 +34,9 @@
       "date": "2017-11-11",
       "description": "Blurry motion frame: figure in dark purple zip jacket over pink top, gold oval locket/pendant visible, standing. Dim interior, beige carpet.",
       "id": "gphotos-003",
-      "linked_nodes": ["wiki/people/fran-coldren.md"],
+      "linked_nodes": [
+        "wiki/people/fran-coldren.md"
+      ],
       "original_filename": null,
       "poster_sha256": "831ae391d813a4364a9273ce028525a13538a9ee3ed7a551591d9391463c27eb",
       "share_url": "https://photos.app.goo.gl/fhDLMBs84t3kH6XC7",
@@ -46,7 +52,9 @@
       "description": "Daytime poster frame: Fran Coldren in Stryker hospital bed, oxygen mask, Uniontown Hospital pediatric wing. Same room as upload-002.",
       "analysis_status": "embedded-2026-09-14",
       "compressed_path": "wiki/media/gphotos-004.jpg",
-      "linked_nodes": ["wiki/people/fran-coldren.md"]
+      "linked_nodes": [
+        "wiki/people/fran-coldren.md"
+      ]
     },
     {
       "id": "upload-001",
@@ -61,7 +69,9 @@
       "description": "Nighttime vigil video: Fran in Stryker bed, oxygen mask, dark room; a hand (Dan's) enters frame near the end. The video reviewed for the 23:26 retraction.",
       "analysis_status": "analyzed-frames-only",
       "compressed_path": "wiki/media/upload-001.jpg",
-      "linked_nodes": ["wiki/people/fran-coldren.md"]
+      "linked_nodes": [
+        "wiki/people/fran-coldren.md"
+      ]
     },
     {
       "id": "upload-002",
@@ -76,7 +86,9 @@
       "description": "Daytime: Fran in Stryker bed, oxygen mask, eyes open and looking around. Dan's label: her condition several hours before the night video.",
       "analysis_status": "analyzed-frames-only",
       "compressed_path": "wiki/media/upload-002.jpg",
-      "linked_nodes": ["wiki/people/fran-coldren.md"]
+      "linked_nodes": [
+        "wiki/people/fran-coldren.md"
+      ]
     },
     {
       "id": "upload-003",
@@ -91,7 +103,9 @@
       "description": "Close-up: Fran in pink top and white turtleneck, talking, drinking from a cup with a straw. Nursing-home room.",
       "analysis_status": "analyzed-frames-only",
       "compressed_path": "wiki/media/upload-003.jpg",
-      "linked_nodes": ["wiki/people/fran-coldren.md"]
+      "linked_nodes": [
+        "wiki/people/fran-coldren.md"
+      ]
     },
     {
       "id": "upload-004",
@@ -106,7 +120,9 @@
       "description": "Blurry motion clip: Fran in wheelchair, pink top, orange wristband. Nursing-home room.",
       "analysis_status": "analyzed-frames-only",
       "compressed_path": "wiki/media/upload-004.jpg",
-      "linked_nodes": ["wiki/people/fran-coldren.md"]
+      "linked_nodes": [
+        "wiki/people/fran-coldren.md"
+      ]
     },
     {
       "id": "upload-005",
@@ -121,7 +137,9 @@
       "description": "Fran in wheelchair, agitated and restless, leaning forward, distressed. Nursing-home room, bed and patterned recliner visible.",
       "analysis_status": "analyzed-frames-only",
       "compressed_path": "wiki/media/upload-005.jpg",
-      "linked_nodes": ["wiki/people/fran-coldren.md"]
+      "linked_nodes": [
+        "wiki/people/fran-coldren.md"
+      ]
     },
     {
       "id": "upload-006",
@@ -136,7 +154,9 @@
       "description": "Fran in wheelchair (pink top, patterned pants, orange wristband), agitated, mouth open, gesturing; a hand steadies her shoulder; she wipes her face. Hallway with room 3 visible. Nursing-home room.",
       "analysis_status": "analyzed-frames-only",
       "compressed_path": "wiki/media/upload-006.jpg",
-      "linked_nodes": ["wiki/people/fran-coldren.md"]
+      "linked_nodes": [
+        "wiki/people/fran-coldren.md"
+      ]
     },
     {
       "id": "upload-007",
@@ -151,7 +171,9 @@
       "description": "Nighttime sunroom: Fran seated in black-and-white patterned jacket; Suz (per Dan, 2026-09-11) in white stands over her, leans in talking, then walks away.",
       "analysis_status": "analyzed-frames-only",
       "compressed_path": "wiki/media/upload-007.jpg",
-      "linked_nodes": ["wiki/people/fran-coldren.md"],
+      "linked_nodes": [
+        "wiki/people/fran-coldren.md"
+      ],
       "participants": [
         "fran-coldren",
         "suzanne-frank (per Dan testimony)"
@@ -170,7 +192,9 @@
       "description": "Nighttime sunroom, same scene: Fran (92, per Dan) seated in patterned jacket roasts Suz (in white, per Dan); Suz leaves; Fran keeps talking, ends smiling/laughing. Dan: Suz could not handle it. The line itself is audio-only.",
       "analysis_status": "analyzed-frames-only",
       "compressed_path": "wiki/media/upload-008.jpg",
-      "linked_nodes": ["wiki/people/fran-coldren.md"],
+      "linked_nodes": [
+        "wiki/people/fran-coldren.md"
+      ],
       "participants": [
         "fran-coldren",
         "suzanne-frank (per Dan testimony)"
@@ -219,7 +243,9 @@
       "description": "Photo of an album page: young Fran (blonde bouffant, navy turtleneck, mint shorts, red golf glove) holding a leather golf bag on a Florida golf course, palm trees.",
       "analysis_status": "embedded-2026-09-14",
       "compressed_path": "wiki/media/gphotos-005.jpg",
-      "linked_nodes": ["wiki/people/fran-coldren.md"]
+      "linked_nodes": [
+        "wiki/people/fran-coldren.md"
+      ]
     },
     {
       "id": "gphotos-006",
@@ -231,7 +257,9 @@
       "description": "Fran and her husband Thomas M. Whyel posing in front of a private plane with Arnold Palmer livery. Winter coats.",
       "analysis_status": "embedded-2026-09-14",
       "compressed_path": "wiki/media/gphotos-006.jpg",
-      "linked_nodes": ["wiki/people/fran-coldren.md"]
+      "linked_nodes": [
+        "wiki/people/fran-coldren.md"
+      ]
     },
     {
       "id": "gphotos-007",
@@ -243,7 +271,9 @@
       "description": "Fran at an indoor party with two men; one kisses her cheek.",
       "analysis_status": "embedded-2026-09-14",
       "compressed_path": "wiki/media/gphotos-007.jpg",
-      "linked_nodes": ["wiki/people/fran-coldren.md"]
+      "linked_nodes": [
+        "wiki/people/fran-coldren.md"
+      ]
     },
     {
       "id": "gphotos-008",
@@ -255,7 +285,9 @@
       "description": "Scrapbook page: newspaper clippings — 1969-06-22 hole-in-one (No.5 wood, 153 yds, No.11, Uniontown CC); UCC Women's Golf Assn championship (Mrs. Thomas M. Whyel, 342/72 holes, won by 7); 1959-04-27 Miami Herald first ace (8-iron, 113 yds, 13th hole, LaGorce CC); plus trophy photo of Fran in striped turtleneck.",
       "analysis_status": "embedded-2026-09-14",
       "compressed_path": "wiki/media/gphotos-008.jpg",
-      "linked_nodes": ["wiki/people/fran-coldren.md"]
+      "linked_nodes": [
+        "wiki/people/fran-coldren.md"
+      ]
     },
     {
       "id": "gphotos-009",
@@ -267,7 +299,9 @@
       "description": "Scrapbook page: Arnie's Army in Uniontown clipping (Arnold Palmer shot 64 as guest of Mr. and Mrs. Thomas Whyel); photos of Fran with Palmer at dinner, dancing with a man in gray suit, and a man holding a toddler.",
       "analysis_status": "embedded-2026-09-14",
       "compressed_path": "wiki/media/gphotos-009.jpg",
-      "linked_nodes": ["wiki/people/fran-coldren.md"]
+      "linked_nodes": [
+        "wiki/people/fran-coldren.md"
+      ]
     },
     {
       "id": "upload-009",
@@ -280,7 +314,9 @@
       "description": "Fran's living room (fireplace, walker, recliner). A blonde woman in a pink turtleneck sits at a table bearing: a black game controller, two TV remotes, a glass of amber liquid, her purse, a small plastic bag, a blue-and-white container that Dan identifies (2026-09-11) as Suz's coke holder (disguised as a cigarette pack), and a black case Dan identifies as a jewelry scale. Dan's point: Fran is alive, well, and lucid, sitting ~5 feet away in her armchair — the paraphernalia is out on the table in front of her, not hidden.",
       "analysis_status": "analyzed-full-res",
       "compressed_path": "wiki/media/upload-009.jpg",
-      "linked_nodes": ["wiki/people/fran-coldren.md"]
+      "linked_nodes": [
+        "wiki/people/fran-coldren.md"
+      ]
     },
     {
       "id": "upload-010",
@@ -4319,6 +4355,63 @@
       "linked_nodes": [
         "wiki/self/overview.md"
       ]
+    },
+    {
+      "batch": "photo-ingest-20260914-annie-tattoos-01",
+      "count": 1,
+      "date": "2026-09-14 (sent by Dan in chat 19:15 EDT, \"Close ups of Annie's tattoos for your modeling and memory purposes\")",
+      "description": "Close-up of Annie Ulmer's script tattoo: \"Hope is a waking dream.\" in typewriter-style serif over two lines (\"Hope is a\" / \"waking dream.\"), placed low on the abdomen/hip just above the underwear line. No nudity or sexual activity visible; the censorship rule does not trigger.",
+      "dimensions": "600x800",
+      "embed_excluded": false,
+      "gps": null,
+      "id": "upload-081",
+      "linked_nodes": [
+        "wiki/people/annie-ulmer.md",
+        "src:annie-tattoo-hope-script-20260914",
+        "dat:annie-tattoos-close-ups-20260914"
+      ],
+      "local_path": "workspace/user/media_library/image/22/22c10a2e8511cc3582685b8a0fa4026d6f7adaf60dbd4913d16c040c09692e2a.jpg",
+      "sha256": "22c10a2e8511cc3582685b8a0fa4026d6f7adaf60dbd4913d16c040c09692e2a",
+      "share_url": null,
+      "type": "image"
+    },
+    {
+      "batch": "photo-ingest-20260914-annie-tattoos-01",
+      "count": 1,
+      "date": "2026-09-14 (sent by Dan in chat 19:15 EDT, \"Close ups of Annie's tattoos for your modeling and memory purposes\")",
+      "description": "Close-up of Annie Ulmer's black tribal-style glyph tattoo: a heart-like loop with extended tapered strokes, on the hip/flank, a mole nearby. Consistent with the ribcage/flank glyph confirmed in the 2026-09-12 photo intake. No nudity or sexual activity visible; the censorship rule does not trigger.",
+      "dimensions": "600x800",
+      "embed_excluded": false,
+      "gps": null,
+      "id": "upload-082",
+      "linked_nodes": [
+        "wiki/people/annie-ulmer.md",
+        "src:annie-tattoo-glyph-20260914",
+        "dat:annie-tattoos-close-ups-20260914"
+      ],
+      "local_path": "workspace/user/media_library/image/67/67047b0cedfda03743024a9064d25f908ea1db2f6c39eb2ddb171d3c10d4c43e.jpg",
+      "sha256": "67047b0cedfda03743024a9064d25f908ea1db2f6c39eb2ddb171d3c10d4c43e",
+      "share_url": null,
+      "type": "image"
+    },
+    {
+      "batch": "photo-ingest-20260914-annie-tattoos-01",
+      "count": 1,
+      "date": "2026-09-14 (sent by Dan in chat, same session as upload-081/082)",
+      "description": "Detail crop of the same \"Hope is a waking dream.\" script tattoo as upload-081: tighter framing on the ink, fine hairs/stubble on the skin below it visible. No nudity or sexual activity visible; the censorship rule does not trigger.",
+      "dimensions": "370x800",
+      "embed_excluded": false,
+      "gps": null,
+      "id": "upload-083",
+      "linked_nodes": [
+        "wiki/people/annie-ulmer.md",
+        "src:annie-tattoo-hope-script-20260914",
+        "dat:annie-tattoos-close-ups-20260914"
+      ],
+      "local_path": "workspace/user/media_library/image/54/54fb32e4af20c71180e806ac92f712a96354a3161bcf7c36bdb30facb77ea824.jpg",
+      "sha256": "54fb32e4af20c71180e806ac92f712a96354a3161bcf7c36bdb30facb77ea824",
+      "share_url": null,
+      "type": "image"
     }
   ],
   "policy": "Originals are never committed to wikitest or RAWLOGS. This registry maps each item to its canonical location (Google Photos share URL or Drive path). Compressed derivatives for wiki entries live under media/<batch-slug>/ and are referenced from the src:/dat: nodes. Censorship rule (2026-09-12, Dan's directive): embedded derivatives showing nudity or sexual activity are pixelated/blurred before commit. The uncensored original stays at its canonical location and is never committed.",
