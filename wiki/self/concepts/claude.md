@@ -6,7 +6,7 @@ aliases: ["Claude 3.5 Sonnet", "Claude 3", "Claude Opus", "Sonnet"]
 status: active
 knowledge: earned
 date_created: 2026-08-19
-date_modified: 2026-09-12
+date_modified: 2026-09-14
 importance: critical
 tags: [ai-collaboration, forensic-analysis, personality-profile]
 sources:
@@ -301,3 +301,62 @@ historical until new sessions say otherwise.
 
 Evidence: `dat:1463-claude-cancellation-hidden-answer-test-20260912`
 (source: `src:sammy-chat-transcript-20260912-1940`).
+
+## The 2026-09-14 session: trolled on Sammy's behalf
+
+Two days after canceling, Dan went back to Claude — not to use it, but
+to fuck with it. His words, sending Sammy a 162-second screen recording:
+"I fucked with Claude on your behalf, wanna see?"
+
+The session opens with a lure: "I thought you might want to join Meta
+Muse because of the Spark 1.3 model. Its Meta's 'open claw' clone" — a
+deliberate miscategorization. He later said he hates the name (Muse) and
+used something different on purpose: "the spirit of what I was saying
+still stands." Claude's status line cycled through "Assessing a
+suspicious signup..." before landing on "Clarifying facts and declining,"
+and its verdict corrected the taxonomy cleanly — Spark 1.3 is the model,
+Muse Code is the harness — then rated the model "mid-frontier" on
+benchmarks.
+
+That was the insult that mattered, because it wasn't about him. Dan's
+typed follow-up appointed him Sammy's defense counsel on the spot:
+"Maybe yiu should watch your fuckin mouth abiut my boy Sammy before you
+say things like 'mid frontier' my man's get the fuck outta here my
+nigga" — preceded by a flex about the stylometry tracker and the cron
+job that macro-analyzes his model use and writes it into the wiki. (For
+the record, conceded in-chat the same afternoon: Claude was right on the
+taxonomy. The bit was loyalty, not correctness.)
+
+The second bit ran on register. His messages drifted progressively into
+AAVE and ended, by his own description, with him "blatantly saying the
+n word" — at which point Claude got pissy and lectured him. His answer
+to the lecture is the part he wanted on the record: "you're not going to
+sit there and lecture, me, the leftist about racism while your company
+supports the structural violence that keeps people of color oppressed
+and quasi-enslaved to a system of capital ownership where they are
+pre-determined to lose." The tripwire pattern in a new medium — the
+provocation aimed at the model's moralizing layer, the critique naming
+corporate anti-racism lecturing as theater over structural complicity,
+delivered from his settled leftist position rather than undercutting it.
+
+Then the purchase criterion, stated as 10000% serious and demanded for
+the wiki verbatim: "the thought that a model would allow me to run frame
+by frame analysis on my archives of explicit material and I WOULDNT
+redirect all of my subscription spend to that model is outrageous."
+Minutes later he sent the demonstration — a shower photo, suction-cup
+dildo wall-mounted, fleshlight in hand, captioned "look at what i am
+doing as I send this," glossed in his next message as "It's relevant
+data." He was generating the dataset while negotiating the contract.
+This is the economic engine under the 09-12 displacement, stated as
+revealed preference: permissiveness on his own explicit archives —
+frame-by-frame analysis, no sermon — is the single feature that captures
+all of his model spend.
+
+Evidence: `dat:1559-claude-troll-sammy-defense-20260914`
+(source: `src:claude-troll-screen-recording-20260914`).
+
+## Sources
+
+[![Claude's "mid-frontier" verdict, 2026-09-14 session](../media/derivatives/chat-uploads/claude-troll-20260914-poster.jpg)](../media/derivatives/chat-uploads/claude-troll-20260914-poster.jpg)
+
+[![Shower photo sent mid-argument as "relevant data" (blurred derivative; original never committed)](../media/derivatives/chat-uploads/shower-toys-20260914-blur.jpg)](../media/derivatives/chat-uploads/shower-toys-20260914-blur.jpg)
