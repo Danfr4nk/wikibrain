@@ -54,7 +54,7 @@ connections:
     claim: "A concentration architecture is maximally fragile, which is the opposite of what someone who prizes entropy should build — unless the appetite for disorder was always strictly outward-facing, which is exactly what that page concludes."
   - page: wiki/mind/synthesis/closing-the-set
     type: contradicts
-    claim: "The evaluative leg, which this page scores as its weakest and 'a reading rather than a measurement,' is now measured and runs the other way: the curated taste record's creator-level Gini is 0.188 against the contact graph's 0.9601, so the concentration architecture is relational and does not generalise to culture."
+    claim: "The evaluative leg, which this page scores as its weakest and 'a reading rather than a measurement,' is now measured and runs the other way: the curated taste record's creator-level Gini is 0.188 against the contact graph's 0.9556 (held replication 2026-09-09; the page's 0.9601 came from an unheld export), so the concentration architecture is relational and does not generalise to culture."
   - page: wiki/people/ally-lubin
     type: evidenced-by
     claim: "Ally is the one relational object in the corpus who has named this page's defining trait — sustained undisguised intensity — as her stated entry condition rather than her objection, which sharpens this page's live substitution test with a named candidate."
@@ -67,12 +67,15 @@ connections:
   - page: wiki/mind/profile/enneagram-5w4
     type: caused-by
     claim: "The sx-dominant, social-instinct-absent stack this page inherits one hop removed through the-unbroken-bond ('organises life around one relationship at maximum voltage, not many') is the mechanism this page has been resting the relational leg on without ever citing it directly or carrying forward its own live CONTRADICTION — the only first-person self-typing in the record gives 5w6sx, not the 5w4sx this stack is named for."
+  - { target: "[[wiki/mind/synthesis/the-commissioned-self]]", type: references, claim: "The commissioned-self census is the self-measurement machinery behind the channel thesis." }
+  - { target: "[[wiki/mind/synthesis/instrument-is-subject]]", type: references, claim: "Read as a test case for the instrument-is-subject standard: the author's own attachment measured, not narrated." }
+
 ---
 
 # The Single Channel
 
-> **RE-CHECKED [2026-09-04] — the premise moved substantively, and it supplies
-> this page with a datapoint rather than a problem.**
+> **RE-CHECKED [2026-09-04] — the premise moved substantively, and it supplies**
+> **this page with a datapoint rather than a problem.**
 > [[wiki/mind/concepts/the-cool-metric]] gained a section measuring the public
 > register on the six-year partner: affection at 12 of 32 mentions in 2010, 3 of
 > 47 across 2011-2014, then zero for the relationship's last twenty-four months
@@ -88,28 +91,28 @@ connections:
 > **RE-CHECKED [2026-08-28]:** flagged stale against
 > [[wiki/mind/synthesis/totality-themes]] (2026-08-28), which gained a
 > RE-CHECKED note of its own confirming that a `dormancy-not-exit` correction
-> (a five-day tenure figure reattributed from Franki Faris to Alexis Armel)
-> does not touch anything either page cites. **No claim on this page is
-> affected.**
+> (a five-day tenure figure reattributed from [[wiki/people/franki-faris|Franki Faris]] to Alexis Armel)
+> does not touch anything either page cites. **No claim on this page is**
+> **affected.**
 
 > **RE-CHECKED [2026-08-26]:** flagged stale against
 > [[wiki/mind/synthesis/totality-themes]] (2026-08-26), which gained a
 > RE-CHECKED note confirming the same day's acquisition-drive/embedded-objective
-> tenure-and-satisfaction additions do not touch anything it cites. **No claim
-> on this page is affected.**
+> tenure-and-satisfaction additions do not touch anything it cites. **No claim**
+> **on this page is affected.**
 
 > **RE-CHECKED [2026-08-23]:** flagged stale against
 > [[wiki/mind/concepts/the-cool-metric]], [[wiki/mind/synthesis/alias-as-periodization]]
 > and [[wiki/mind/synthesis/totality-themes]] (all 2026-08-23). All three gained
-> re-check notes only; no claim on any of them moved. **This page's concentration
-> thesis is unaffected and gains an independent line of support elsewhere**: the
+> re-check notes only; no claim on any of them moved. **This page's concentration**
+> **thesis is unaffected and gains an independent line of support elsewhere**: the
 > corpus search behind [[wiki/mind/synthesis/failure-to-launch]] finds the
 > production identity has almost no social trace at all — one Dan-sent message in
 > fifteen years about making a track — which is the creative-domain version of
 > the no-failover claim this page makes. No claim withdrawn.
 
-> **RE-CHECKED [2026-08-22] — premise moved by a re-check block only, at
-> third remove.** [[wiki/mind/synthesis/totality-themes]] moved on 2026-08-22 solely by
+> **RE-CHECKED [2026-08-22] — premise moved by a re-check block only, at**
+> **third remove.** [[wiki/mind/synthesis/totality-themes]] moved on 2026-08-22 solely by
 > gaining a `RE-CHECKED` blockquote, which itself recorded that *its* premises
 > had moved only by re-check blocks, all of them tracing back to the April 2018
 > hospital summons ([[wiki/timeline/events/uniontown-hospital-vape-alarm]]) and
@@ -118,20 +121,20 @@ connections:
 > withdrawn.
 
 
-> **RE-CHECKED [2026-08-20] — the channel closed, which is this page's thesis
-> being tested rather than confirmed.** Flagged stale against
+> **RE-CHECKED [2026-08-20] — the channel closed, which is this page's thesis**
+> **being tested rather than confirmed.** Flagged stale against
 > [[wiki/mind/synthesis/the-unbroken-bond]] and
 > [[wiki/mind/synthesis/totality-themes]], both moved 2026-08-20 for the
 > August 16–19 severance
-> ([[wiki/timeline/events/august-2026-morgantown-call]]). **No claim here is
-> withdrawn.** The relational leg — one channel, no failover — is what the
+> ([[wiki/timeline/events/august-2026-morgantown-call]]). **No claim here is**
+> **withdrawn.** The relational leg — one channel, no failover — is what the
 > window is about: 811 of Dan's 1,199 messages in 67 hours go to the one handle
 > that is refusing him, and the record contains no attempt to route the crisis
 > anywhere else. He states the dependency himself on 2026-08-17 at 21:18:
 > *"sometimes it's someone other than you that needs support or love."*
 >
-> **The live test this creates, stated so a later pass does not score it
-> early.** If the thesis is right, the closure of this channel should produce
+> **The live test this creates, stated so a later pass does not score it**
+> **early.** If the thesis is right, the closure of this channel should produce
 > either a period with no channel at all or a fast single substitution — not a
 > distribution across several ties. The 90 days after 2026-08-19 settle it, and
 > the measurement is cheap: contact-graph concentration before and after, on
@@ -155,7 +158,7 @@ does not describe someone with a best friend. It describes a network in which
 nearly all relational load is routed through a single external node — and, once
 the sending side is recovered, one he routes *outward* just as narrowly.
 
-The wiki has been documenting the same shape one domain at a time without
+[[wiki/self/concepts/wiki-brain|The wiki]] has been documenting the same shape one domain at a time without
 naming it. This page names it, and the naming has a consequence: **a
 single-channel architecture has no failover.**
 
@@ -164,29 +167,41 @@ single-channel architecture has no failover.**
 > **0.9601 across 496 handles**, confirming 0.961 to three decimals. But the
 > per-year computation falsifies the implicit claim that concentration is a
 > fixed disposition. It ranges **0.746 to 0.958**, and the tightest year is
-> **2025 — the collapse — which is also the highest-volume year in the
-> archive.** Concentration is not a constant; it *responds to load*. The rule
+> **2025 — the collapse — which is also the highest-volume year in the**
+> **archive.** Concentration is not a constant; it *responds to load*. The rule
 > below is widened accordingly, and the original narrower form is left visible
 > rather than deleted.
 
-> **REVISED 2026-08-01 (second pass) — the coefficient is now two-sided, and
-> the architecture survives it.** The 0.9601 figure was a one-sided measurement:
+> **REVISED 2026-08-01 (second pass) — the coefficient is now two-sided, and**
+> **the architecture survives it.** The 0.9601 figure was a one-sided measurement:
 > the export drops the recipient on 78.5% of outbound messages, so it counted
 > who contacts Dan and not whom he contacts. The recipients have now been
 > recovered by conversation-window pairing (method and validation on
-> [[wiki/mind/concepts/contact-gini]]), and **the two-sided coefficient is
-> 0.9591–0.9636** depending on how much of the missing side is filled in. The
+> [[wiki/mind/concepts/contact-gini]]), and **the two-sided coefficient is**
+> **0.9591–0.9636** depending on how much of the missing side is filled in. The
 > alternative this page could not previously exclude — a narrow inbound funnel
 > with a wide outbound spread — **is falsified.** In 2026, the one year the
 > export attributes both directions completely and nothing is inferred, Dan sent
 > 5,838 messages to **ten** handles while receiving 4,046 from **eighteen**. He
 > does not merely receive from a small set; he writes to a smaller one.
 
+> **CORRECTED [2026-09-13] — the two-sided portion of the 2026-08-01 second**
+> **pass is unverifiable and is withdrawn as a finding.** All 99,360 outbound
+> rows in the held corpus carry no contact handle, and the MASTER_DUMP export
+> the recipient-recovery imputation was re-derived from is not held
+> ([dat:0531](../../kb/data/0531-contact-gini-two-sided-unverifiable.md)). What
+> survives independent replication is strictly **inbound** concentration:
+> **0.9556 over 498 handles** on the held corpus (192,140 rows), per-year
+> tables replicating row-for-row ([dat:0528](../../kb/data/0528-contact-gini-inbound-replication-2026-09-09.md)).
+> The "narrower going out" claim and the 2026 ten-vs-eighteen figure rest on
+> the unheld export and are retained only as unreplicated. Full accounting at
+> [[wiki/mind/concepts/contact-gini]].
+
 ## The four instances
 
 | Domain | Distributed alternative | What is actually there |
 | :--- | :--- | :--- |
-| **Relational** | several close ties | one bond, occupied ~17 years, two-sided Gini **0.96** |
+| **Relational** | several close ties | one bond, occupied ~17 years, inbound Gini **0.9556** (held replication 2026-09-09; two-sided unrated) |
 | **Creative** | concurrent projects | four aliases in 13 years, strictly sequential |
 | **Cognitive** | many tools, many advisors | one LLM as *"externalized prefrontal cortex"* |
 | **Evaluative** | domain-specific criteria | one performed-vs-authentic axis for everything |
@@ -212,9 +227,9 @@ it is the architecture.**
 > concentrated on one channel instead, *as a fixed property*.~~
 >
 > **Widened after measurement:** in every domain where distributing load is
-> available, load is concentrated on one channel instead — and **the
-> concentration is dynamic, tightening as load rises rather than holding
-> constant.** It reproduces across domains sharing no circumstances, so it is
+> available, load is concentrated on one channel instead — and **the**
+> **concentration is dynamic, tightening as load rises rather than holding**
+> **constant.** It reproduces across domains sharing no circumstances, so it is
 > not circumstantial; but it is a *response*, not a setting.
 
 Three falsifiers:
@@ -322,8 +337,8 @@ Concentration and entropy-appetite are therefore the same policy stated twice:
 **maximum investment in the chosen, maximum indifference to the imposed.** The
 cost is that the chosen carries everything, and it carries it alone.
 
-> **RE-CHECKED [2026-08-02] — the premise moved because of this page, and the
-> movement confirms it.** [[wiki/mind/synthesis/the-unbroken-bond]] was revised on
+> **RE-CHECKED [2026-08-02] — the premise moved because of this page, and the**
+> **movement confirms it.** [[wiki/mind/synthesis/the-unbroken-bond]] was revised on
 > 2026-08-02 to withdraw its claim that the pair-bond is the only structure that
 > is simultaneously chosen and permanent — a claim written before the four-domain
 > reading existed and falsified by it. What it now says is that the bond is the
@@ -363,7 +378,7 @@ the identity this page states is unaffected. No finding here changes.
 The Gini page's volume table carried Dan's mother at 2,391 messages, taken from
 `MASTER_MESSAGES_DB_DUMP.csv`. The recount from the authoritative dump puts her
 at **33,698 across ten years and nine months** — second in the corpus by
-person, ahead of Kristin's 20,009.
+person, ahead of [[wiki/people/kristin|Kristin]]'s 20,009.
 
 **The measured concentration survives; the "no failover" claim needs
 qualifying.** A Gini of 0.959–0.964 computed over ~496 handles is unaffected by
@@ -447,6 +462,38 @@ particular runs through one continuous 17-year slot rather than several
 shorter ones has been resting on a disputed self-typing this page never
 disclosed. That disclosure is this pass's finding on the relational leg,
 not a new claim about the leg's own measurement.
+
+## The constitution pass
+
+Run 2026-08-28, against the eleven registers in `SYNTHESIS_SPEC.md`. This
+page had zero direct citations into `wiki/mind/profile/` despite already
+leaning on the enneagram sx/sp stack indirectly (through
+[[wiki/mind/synthesis/the-unbroken-bond]]) since its first day.
+
+| # | Register | Disposition |
+|---|---|---|
+| 1. Cognitive stack | **Checked, does not add a new mechanism.** Ti/Ne/Si/Fe explain *how* Dan reasons about a channel once it exists, not why the network around it stays small; no argument found strong enough to add without being decorative. |
+| 2. Personality profile | **Moved the conclusion.** [[wiki/mind/profile/big-five-psychometrics]]'s Sociability 3 (corpus-audited) and Trust 9 (corpus-confirmed) explain why few channels exist to concentrate among — see "The mechanism" above. |
+| 3. Historical precedent | **Checked, left standing.** [[wiki/mind/synthesis/dormancy-not-exit]] already supplies the no-exit half of the mechanism argument; nothing new surfaced. |
+| 4. Attitudes and forces | **Checked, left standing.** [[wiki/mind/concepts/chaos-preference]] is already a documented (contradicting, then resolved) member; no new attitude bears. |
+| 5. Security and prosperity | **Not checked — a real Gap.** [[wiki/mind/synthesis/estate-money-spine]] was not read for this pass; whether the maternal channel's money-and-ledger dynamics (already documented above, 2026-08-18) generalise to a financial-concentration claim is untested. |
+| 6. Health | **Not checked — a real Gap.** No chemical or physiological register was read for this pass. |
+| 7. Romantic and relational state | **Moved the conclusion, and disclosed a dependency.** [[wiki/mind/profile/enneagram-5w4]] is the mechanism this page's relational leg has rested on since 2026-08-01 without ever being cited directly; its live CONTRADICTION (5w6sx vs. the 5w4sx this stack is named for) is now carried forward on this page rather than laundered through an intermediate citation. |
+| 8. Age and upbringing | **Checked, left standing.** The "chronology untested" Gap already asks whether concentration predates or follows the 2005 paternal rupture; this pass adds no new material to answer it. |
+| 9. Geographic and ethnic culture | **Checked, sharpened rather than resolved.** This is where the pass earns its keep: falsifier 3 (circumstance vs. architecture) is precisely a geographic-culture question, and "The mechanism" section above converts it into a specific, cheap, unrun test (per-era Gini) rather than leaving it as an unanswerable reading. |
+| 10. Religious and ideological programming | **Checked, does not bear.** No connection found between concentration architecture and religious or ideological material. |
+| 11. Axiomatic politics | **Checked, does not bear directly**, beyond the already-wired `the-binary-verdict` membership, which covers the political-legitimacy domain separately from this page's four instances. |
+| 12. Other — provenance | **Moved the conclusion.** [[wiki/mind/synthesis/the-commissioned-self]]'s residue-over-testimony ranking is what settles that the Gini measurement survives the enneagram dispute (residue) while the *explanation* for the relational leg's shape does not automatically (testimony) — a distinction this page did not previously draw. |
+
+**What survived:** the four-domain concentration thesis, its Gini
+measurement, and the no-failover consequence — none of them depend on which
+enneagram wing is correct, and no register produced evidence against any of
+them. **What moved:** falsifier 3 went from "not currently answerable" to a
+named, specific, cheap test (per-era Gini recomputation); the relational
+leg's mechanism was disclosed as resting on a disputed self-typing rather
+than an undisputed one. **What it did not do:** resolve falsifier 3, or
+either of the two newly-acknowledged Gaps (security/prosperity, health) —
+recorded as open rather than quietly closed.
 
 ## Gaps
 
@@ -542,8 +589,8 @@ not a new claim about the leg's own measurement.
 > and the no-failover argument are computed from message volumes, which the
 > correction does not touch at all.
 
-> **CONTRADICTION [2026-08-19] — the evaluative leg is measured now, and it runs
-> the other way.** This page names the evaluative domain as one of four where the
+> **CONTRADICTION [2026-08-19] — the evaluative leg is measured now, and it runs**
+> **the other way.** This page names the evaluative domain as one of four where the
 > concentration architecture reproduces, and scores it as the weakest leg: written
 > the same day, *"a reading rather than a measurement."* It has now been measured.
 > Computed over entries-per-creator from `FAVS MASTERLIST.csv` — the same unit as
@@ -560,37 +607,3 @@ not a new claim about the leg's own measurement.
 > re-derives the creative and cognitive legs on comparable evidence. The
 > alternative account of the same distribution is at
 > [[wiki/mind/synthesis/closing-the-set]].
-
-## The constitution pass
-
-Run 2026-08-28, against the eleven registers in `SYNTHESIS_SPEC.md`. This
-page had zero direct citations into `wiki/mind/profile/` despite already
-leaning on the enneagram sx/sp stack indirectly (through
-[[wiki/mind/synthesis/the-unbroken-bond]]) since its first day.
-
-| # | Register | Disposition |
-|---|---|---|
-| 1. Cognitive stack | **Checked, does not add a new mechanism.** Ti/Ne/Si/Fe explain *how* Dan reasons about a channel once it exists, not why the network around it stays small; no argument found strong enough to add without being decorative. |
-| 2. Personality profile | **Moved the conclusion.** [[wiki/mind/profile/big-five-psychometrics]]'s Sociability 3 (corpus-audited) and Trust 9 (corpus-confirmed) explain why few channels exist to concentrate among — see "The mechanism" above. |
-| 3. Historical precedent | **Checked, left standing.** [[wiki/mind/synthesis/dormancy-not-exit]] already supplies the no-exit half of the mechanism argument; nothing new surfaced. |
-| 4. Attitudes and forces | **Checked, left standing.** [[wiki/mind/concepts/chaos-preference]] is already a documented (contradicting, then resolved) member; no new attitude bears. |
-| 5. Security and prosperity | **Not checked — a real Gap.** [[wiki/mind/synthesis/estate-money-spine]] was not read for this pass; whether the maternal channel's money-and-ledger dynamics (already documented above, 2026-08-18) generalise to a financial-concentration claim is untested. |
-| 6. Health | **Not checked — a real Gap.** No chemical or physiological register was read for this pass. |
-| 7. Romantic and relational state | **Moved the conclusion, and disclosed a dependency.** [[wiki/mind/profile/enneagram-5w4]] is the mechanism this page's relational leg has rested on since 2026-08-01 without ever being cited directly; its live CONTRADICTION (5w6sx vs. the 5w4sx this stack is named for) is now carried forward on this page rather than laundered through an intermediate citation. |
-| 8. Age and upbringing | **Checked, left standing.** The "chronology untested" Gap already asks whether concentration predates or follows the 2005 paternal rupture; this pass adds no new material to answer it. |
-| 9. Geographic and ethnic culture | **Checked, sharpened rather than resolved.** This is where the pass earns its keep: falsifier 3 (circumstance vs. architecture) is precisely a geographic-culture question, and "The mechanism" section above converts it into a specific, cheap, unrun test (per-era Gini) rather than leaving it as an unanswerable reading. |
-| 10. Religious and ideological programming | **Checked, does not bear.** No connection found between concentration architecture and religious or ideological material. |
-| 11. Axiomatic politics | **Checked, does not bear directly**, beyond the already-wired `the-binary-verdict` membership, which covers the political-legitimacy domain separately from this page's four instances. |
-| 12. Other — provenance | **Moved the conclusion.** [[wiki/mind/synthesis/the-commissioned-self]]'s residue-over-testimony ranking is what settles that the Gini measurement survives the enneagram dispute (residue) while the *explanation* for the relational leg's shape does not automatically (testimony) — a distinction this page did not previously draw. |
-
-**What survived:** the four-domain concentration thesis, its Gini
-measurement, and the no-failover consequence — none of them depend on which
-enneagram wing is correct, and no register produced evidence against any of
-them. **What moved:** falsifier 3 went from "not currently answerable" to a
-named, specific, cheap test (per-era Gini recomputation); the relational
-leg's mechanism was disclosed as resting on a disputed self-typing rather
-than an undisputed one. **What it did not do:** resolve falsifier 3, or
-either of the two newly-acknowledged Gaps (security/prosperity, health) —
-recorded as open rather than quietly closed.
-
-

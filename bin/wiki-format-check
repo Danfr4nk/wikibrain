@@ -1,0 +1,266 @@
+#!/usr/bin/env python3
+"""wiki-format-check — scan wiki/ for inline formatting the site renderer mishandles.
+
+bin/build-site calls inline() PER LINE for blockquotes, headings, table cells
+and frontmatter values, but JOINS lines for regular paragraphs and list items.
+So emphasis markers must balance within each rendered line in the per-line
+contexts, while they may span source lines in paragraphs/list items.
+
+Usage:
+  bin/wiki-format-check                 # scan wiki/, exit 1 if issues
+  bin/wiki-format-check path/to/page.md # scan specific files
+
+Checks (code spans stripped first, fenced blocks and frontmatter skipped):
+  unbalanced-bold     odd number of ** runs in the rendered unit
+  triple-star         *** run (renderer leaves a stray *)
+  unbalanced-italic   odd number of word-adjacent single * in the unit
+                      (list markers and `5 * 3`-style uses excluded)
+  unclosed-backtick   odd number of ` in the rendered unit
+  underscore-emphasis __text__ (renderer has no __ rule; shows raw)
+  list-in-blockquote  - or * list marker inside a > line (renders literally)
+  lone-gt             > line with no content (filtered by current renderer;
+                      reported for hygiene only)
+
+Exit 0 = clean, 1 = issues found. Stdlib only.
+"""
+
+from __future__ import annotations
+
+import re
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+WIKI = ROOT / "wiki"
+
+TABLE_SEP_RE = re.compile(r"^\s*[:|\-\s]+\s*$")
+# ** inside a word (e.g. Ratf**ked) is redaction/data, never markup
+WORD_STAR_RE = re.compile(r"[A-Za-z0-9]\*\*[A-Za-z0-9]")
+FENCE_RE = re.compile(r"^\s*```")
+HEADING_RE = re.compile(r"^(#{1,6})\s+(.*)$")
+LIST_RE = re.compile(r"^\s*(?:[-*]|\d+\.)\s+")
+LIST_CONT_RE = re.compile(r"^\s{2,}\S")
+HR_RE = re.compile(r"^\s*(-{3,}|\*{3,})\s*$")
+CODE_SPAN_RE = re.compile(r"`[^`]+`")
+
+
+def is_block_start(line: str, nxt: str) -> bool:
+    if HEADING_RE.match(line):
+        return True
+    if FENCE_RE.match(line):
+        return True
+    if HR_RE.match(line):
+        return True
+    if line.lstrip().startswith(">"):
+        return True
+    if LIST_RE.match(line):
+        return True
+    if "|" in line and TABLE_SEP_RE.match(nxt):
+        return True
+    return False
+
+
+def strip_code_spans(text: str) -> str:
+    return CODE_SPAN_RE.sub("", text)
+
+
+def check_unit(text: str) -> list[str]:
+    """Return issue codes for one renderer-inline() unit."""
+    issues: list[str] = []
+    body = strip_code_spans(text)
+
+    if text.count("`") % 2 == 1:
+        issues.append("unclosed-backtick")
+    # *** runs: balanced ***X*** renders as bold-italic; only odd counts strand
+    if len(re.findall(r"(?<!\*)\*\*\*(?!\*)", body)) % 2 == 1:
+        issues.append("triple-star")
+    # ** runs: non-overlapping literal occurrences, excluding ** inside
+    # words (e.g. Ratf**ked) which is redaction/data, never markup
+    body_nomark = WORD_STAR_RE.sub(lambda m: m.group(0)[0] + "  " + m.group(0)[-1], body)
+    stars2 = len(re.findall(r"\*\*", body_nomark))
+    if stars2 % 2 == 1:
+        issues.append("unbalanced-bold")
+    # single * not consumed by a pair but touching a non-space char
+    # (emphasis intent); `5 * 3`-style spaced uses and list markers excluded.
+    # Backslash escapes are transparent to the renderer (no unescape step).
+    no2 = re.sub(r"\\(.)", r"\1", body.replace("**", ""))
+    def _is_glob(i):
+        # * as path/glob wildcard (raw/self/*.csv, imessage_*.csv, bin/wiki-*)
+        # is data, never emphasis.
+        prev = no2[i - 1] if i > 0 else ""
+        nxt = no2[i + 1] if i + 1 < len(no2) else ""
+        if prev == "/" or nxt == "/":
+            return True
+        if nxt == "." and (prev.isalnum() or prev in "_-"):
+            return True
+        # trailing wildcard: wiki-* (prev -/_ , nothing word-like after)
+        if prev and prev in "-_" and not (nxt.isalnum() or nxt == "_"):
+            return True
+        return False
+
+    singles = sum(
+        1
+        for i, ch in enumerate(no2)
+        if ch == "*"
+        and not _is_glob(i)
+        and (
+            (i > 0 and not no2[i - 1].isspace())
+            or (i + 1 < len(no2) and not no2[i + 1].isspace())
+        )
+    )
+    if singles % 2 == 1:
+        issues.append("unbalanced-italic")
+    if re.search(r"(?<![\w_])__\w[\w ]*?\w__(?![\w_])", body):
+        issues.append("underscore-emphasis")
+    return issues
+
+
+def scan_file(path: Path) -> list[tuple[int, str, str]]:
+    """Return (line_no, issue_code, snippet) hits."""
+    hits: list[tuple[int, str, str]] = []
+    lines = path.read_text(encoding="utf-8").split("\n")
+
+    def emit(no: int, code: str, snippet: str):
+        hits.append((no, code, snippet.strip()[:100]))
+
+    # skip leading --- frontmatter block
+    i = 0
+    if lines and lines[0].strip() == "---":
+        i = 1
+        while i < len(lines) and lines[i].strip() != "---":
+            i += 1
+        i += 1
+
+    in_fence = False
+    while i < len(lines):
+        line = lines[i]
+        if FENCE_RE.match(line):
+            in_fence = not in_fence
+            i += 1
+            continue
+        if in_fence or not line.strip():
+            i += 1
+            continue
+
+        # blockquote run -> per-LINE units (renderer calls inline() per line)
+        if line.lstrip().startswith(">"):
+            while i < len(lines) and lines[i].lstrip().startswith(">"):
+                content = lines[i].lstrip()[1:].strip()
+                if not content:
+                    emit(i + 1, "lone-gt", ">")
+                else:
+                    if re.match(r"^[-*]\s+|^\d+\.\s+", content):
+                        emit(i + 1, "list-in-blockquote", content)
+                    for code in check_unit(content):
+                        emit(i + 1, code, content)
+                i += 1
+            continue
+
+        # heading -> single line unit
+        m = HEADING_RE.match(line)
+        if m:
+            for code in check_unit(m.group(2)):
+                emit(i + 1, code, m.group(2))
+            i += 1
+            continue
+
+        # table -> per-cell units
+        nxt = lines[i + 1] if i + 1 < len(lines) else ""
+        if "|" in line and TABLE_SEP_RE.match(nxt):
+            while i < len(lines) and "|" in lines[i]:
+                cells = [c.strip().strip("|").strip() for c in lines[i].split("|")]
+                # split_row nuance: drop empty edge cells from leading/trailing |
+                cells = [c for c in cells if c]
+                if not TABLE_SEP_RE.match(lines[i]):
+                    for cell in cells:
+                        for code in check_unit(cell):
+                            emit(i + 1, code, cell)
+                i += 1
+            continue
+
+        # list -> item lines joined with space, marker stripped
+        if LIST_RE.match(line):
+            while i < len(lines) and (
+                LIST_RE.match(lines[i]) or LIST_CONT_RE.match(lines[i])
+            ):
+                start = i + 1
+                item_lines: list[str] = []
+                while i < len(lines) and (
+                    LIST_RE.match(lines[i]) or LIST_CONT_RE.match(lines[i])
+                ):
+                    item_lines.append(LIST_RE.sub("", lines[i]).strip())
+                    i += 1
+                    # stop joining at next fresh item marker
+                    if i < len(lines) and LIST_RE.match(lines[i]):
+                        break
+                joined = " ".join(item_lines)
+                for code in check_unit(joined):
+                    emit(start, code, joined)
+            continue
+
+        # paragraph -> lines joined with space (renderer joins before inline())
+        if not is_block_start(line, nxt):
+            start = i + 1
+            buf = [line.strip()]
+            i += 1
+            while (
+                i < len(lines)
+                and lines[i].strip()
+                and not FENCE_RE.match(lines[i])
+                and not is_block_start(
+                    lines[i], lines[i + 1] if i + 1 < len(lines) else ""
+                )
+            ):
+                buf.append(lines[i].strip())
+                i += 1
+            para = " ".join(buf)
+            for code in check_unit(para):
+                emit(start, code, para)
+            continue
+
+        i += 1
+    return hits
+
+
+def main(argv: list[str]) -> int:
+    targets: list[Path] = []
+    if len(argv) > 1:
+        for a in argv[1:]:
+            p = Path(a)
+            if not p.is_absolute():
+                p = ROOT / p
+            targets.append(p)
+    else:
+        targets = sorted(WIKI.rglob("*.md"))
+
+    total = 0
+    warnings = 0
+    for path in targets:
+        if not path.is_file():
+            continue
+        try:
+            hits = scan_file(path)
+        except Exception as exc:  # noqa: BLE001 - report and keep scanning
+            print(f"{path}: SCAN-ERROR {exc}")
+            total += 1
+            continue
+        rel = path.relative_to(ROOT)
+        for no, code, snippet in hits:
+            if code == "lone-gt":
+                # filtered by the current renderer; hygiene note only
+                print(f"{rel}:{no}: {code} (warning): {snippet}")
+                warnings += 1
+                continue
+            print(f"{rel}:{no}: {code}: {snippet}")
+            total += 1
+    if warnings:
+        print(f"{warnings} warning(s) (lone-gt, non-failing)", file=sys.stderr)
+    if total:
+        print(f"\n{total} issue(s) found", file=sys.stderr)
+        return 1
+    print("clean")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main(sys.argv))

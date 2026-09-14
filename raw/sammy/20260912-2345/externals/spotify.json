@@ -1,0 +1,16 @@
+{
+ "status": "checked",
+ "source": "spotify",
+ "now_playing": {
+  "status": 200,
+  "playback_status": "PAUSED",
+  "track": "don't need u (i do)",
+  "artist": "blunn",
+  "context": "playlist Baby's First Stalker",
+  "progress_ms": 1494,
+  "timestamp_utc": "2026-09-12T23:35:50Z"
+ },
+ "playlist_count": 125,
+ "note": "now-playing HTTP 200, PAUSED; track changed since 1940 batch (was NONE; 1540 batch was paused Visages SOLD MY SOUL remix) — playback activity between snapshots. Playlist inventory 125/125 via paginated library (next-page offset loop). No recently-played endpoint in spotify-api CLI.",
+ "checked_at_utc": "2026-09-12T23:58:00Z"
+}

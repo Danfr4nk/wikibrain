@@ -1,0 +1,37 @@
+{
+ "batch": "20260912-0340",
+ "pulled_at_utc": "2026-09-12T03:40:00Z",
+ "watermark_from": {
+  "chats": "2026-09-11T23:44:02.5+00:00"
+ },
+ "watermark_to": {
+  "chats": "2026-09-12T03:37:38.556+00:00"
+ },
+ "counts": {
+  "chat_rows": 828,
+  "truncated_rows": 0,
+  "external_new_items": 0
+ },
+ "files": {
+  "chats.json": {
+   "sha256": "451ee4fb761948aa545268555b592358a81edf7b5cf78092300d3d642d1ff773",
+   "bytes": 8990827
+  },
+  "external_checks.json": {
+   "sha256": "903392594dfdb914ce1ce61a0f581506f5213c8866ee5872a5f09da86688ac1b",
+   "bytes": 1150
+  },
+  "spotify_library.json": {
+   "sha256": "18709e2450eeb9b3f1d54b52797559eb175afd0bcd12bc6ba67404f54123b532",
+   "bytes": 5912
+  },
+  "spotify_nowplaying.json": {
+   "sha256": "0e85507120a26fb67187a98f08cb7b0bd61fa791ae80963ff6a6649649ff3475",
+   "bytes": 1061
+  },
+  "manifest.json": {
+   "sha256": "9209bd3508643bd2156b8556bd9e3c7185777b0cba4834c03ee8b7a455018e43",
+   "bytes": 824
+  }
+ }
+}

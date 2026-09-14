@@ -30,8 +30,8 @@ named: momentum over conviction. The whole arc lives under
 [[wiki/timeline/periods/2020-2021-market-era]]; this page holds the FSLY-specific
 record.
 
-> **RE-CHECKED [2026-08-21] — premise moved, conclusion unaffected; verified
-> rather than assumed.** [[wiki/self/context-core]] moved on 2026-08-19 by a
+> **RE-CHECKED [2026-08-21] — premise moved, conclusion unaffected; verified**
+> **rather than assumed.** [[wiki/self/context-core]] moved on 2026-08-19 by a
 > single added typed edge and no other change. The FSLY position, dates and
 > figures on this page are untouched by it.
 
@@ -131,21 +131,21 @@ them. No date, price, position size or quote on this page is downstream of
 anything that changed, and the FSLY record here is sourced directly from the
 message corpus rather than through the period page. Nothing rederived.
 
-> **CORRECTED [2026-08-18] — this page's frontmatter was silently dropping its
-> own membership, and the wiki's gates could not see it.** The `synthesizes:`
+> **CORRECTED [2026-08-18] — this page's frontmatter was silently dropping its**
+> **own membership, and the wiki's gates could not see it.** The `synthesizes:`
 > key appeared **twice**: once listing
 > [[wiki/timeline/periods/2020-2021-market-era]] and again listing
 > [[wiki/self/context-core]]. YAML resolves a duplicate key by keeping the
-> last, so **every standard parser read this page as synthesizing only
-> `context-core`** — the market-era membership, which is the page's entire
+> last, so **every standard parser read this page as synthesizing only**
+> **`context-core`** — the market-era membership, which is the page's entire
 > reason for existing, was invisible outside this repository. The two lists are
 > now merged.
 >
 > This is worth more than the fix. `bin/wiki-climb`'s own frontmatter reader
 > collects *both* occurrences, which is why it correctly flagged the market-era
 > staleness above while a YAML consumer would not have known the edge existed.
-> **The repo's bespoke reader is more permissive than YAML, so the gates pass
-> while the derived artifact loses data** — and the portal at `caakehorn/home`,
+> **The repo's bespoke reader is more permissive than YAML, so the gates pass**
+> **while the derived artifact loses data** — and the portal at `caakehorn/home`,
 > which renders `wiki/**` into `public/wiki/`, parses this frontmatter for real.
 > A sweep found the same defect on two other pages
 > ([[wiki/people/jerad-friedline]], which was dropping `context-core`, and

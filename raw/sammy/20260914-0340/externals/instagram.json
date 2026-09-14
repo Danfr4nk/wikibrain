@@ -1,0 +1,27 @@
+{
+ "checked_at": "2026-09-14T03:49:27Z",
+ "connected": true,
+ "count": 1,
+ "newest_item_ts": "2026-09-13 18:05:11",
+ "watermark": "2026-08-26T23:04:49-04:00",
+ "items": [
+  {
+   "author_id": "17841401697790172",
+   "comments": 0,
+   "created_at": "2026-09-13 18:05:11",
+   "follower_count": 294,
+   "likes": 0,
+   "media_type": "video",
+   "platform": "instagram",
+   "post_id": "17976118472922462",
+   "profile_picture_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/808440635_18623253784056594_2889223902523892818_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=r8al7X3HN8YQ7kNvwHOf6V-&_nc_oc=AdqW9N9OMUKpptL62sinlKgpW5u7_s1-jN4nmSv8aXzhWPk-yEW6HWNL_yxUy-_Sxmf_6ovR9EbFdtnUE9cul-cO&_nc_zt=24&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_gid=FIkibFLM5jKPMDmjCb_71w&_nc_ss=7b22e&oh=00_AQIjsMKKehOHCiMCfXJVRAed6DWsOCVgiLbTuy_H82iwVg&oe=6AAD57D5",
+   "profile_url": "https://www.instagram.com/_u/ihatedanfrank",
+   "rank": 2,
+   "source_app": "INSTAGRAM",
+   "url": "https://www.instagram.com/stories/ihatedanfrank/17976118472922462/",
+   "username": "ihatedanfrank",
+   "verified": false
+  }
+ ],
+ "notes": "Own posts via instagram-cli posts --since 2026-08-26. NEW: 1 story (video) 2026-09-13 18:05:11, post_id 17976118472922462, url https://www.instagram.com/stories/ihatedanfrank/17976118472922462/; own-stories: media_count 1, viewer_count 43, content_expires_at user_local 2026-09-14T21:05:11-04:00 (implies posted 2026-09-13T21:05:11-04:00; posts listing said 18:05:11 — tz discrepancy recorded). 0 comments, 0 likes on the story item record."
+}

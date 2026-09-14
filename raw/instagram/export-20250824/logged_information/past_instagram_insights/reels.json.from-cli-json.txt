@@ -1,0 +1,615 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 19982 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "organic_insights_reels": [
+    {
+      "media_map_data": {
+        "Media Thumbnail": {
+          "creation_timestamp": 1730951487,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "922A1C84-C3D6-4493-A79E-8586EA467324",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1730951487,
+                "uri": "media/reels/202411/465783704_1089666636278263_4645147787773251135_n_18020014535322576.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "Wow, I canât believe they lost. Youâre telling me that we didnât win all those moderate âNicky Haleyâ voters after all?\n\nAnd NOW the analysis is that the Democratic Party needs to become more âcentristâ and adopt even more Republican policy items? \n\nOkay got it - the problem wasnât that we had far too much Dick Cheney but actually that we needed way more Dick Cheney!",
+          "uri": "media/reels/202411/AQN1m94cWFpAfn4b9c6fRwnXMHuLv5xozncxSLQedEzOQb7UW477zRyh_7xJ1ww64hfBoUmf0ZqvPQ5PtC6KkWeKrIT3Hf5ThNlSbTU_18047504822076117.mp4"
+        }
+      },
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "96"
+        },
+        "Caption": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Wow, I canât believe they lost. Youâre telling me that we didnât win all those moderate âNicky Haleyâ voters after all?\n\nAnd NOW the analysis is that the Democratic Party needs to become more âcentristâ and adopt even more Republican policy items? \n\nOkay got it - the problem wasnât that we had far too much Dick Cheney but actually that we needed way more Dick Cheney!"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "89"
+        },
+        "Instagram Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "1"
+        },
+        "Instagram Likes": {
+          "href": "",
+          "timestamp": 0,
+          "value": "1"
+        },
+        "Instagram Plays": {
+          "href": "",
+          "timestamp": 0,
+          "value": "107"
+        },
+        "Instagram Saves": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Instagram Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Upload Timestamp": {
+          "href": "",
+          "timestamp": 1730951487,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {
+        "Media Thumbnail": {
+          "creation_timestamp": 1730692165,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "latitude": 40.7142,
+                  "longitude": -74.0064
+                },
+                {
+                  "camera_position": "unknown",
+                  "device_id": "922A1C84-C3D6-4493-A79E-8586EA467324",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1730692165,
+                "uri": "media/reels/202411/465589356_8776680205688017_2387253102422938022_n_18041992316127352.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "A discussion of just how bad the Democrats want to lose the election with the @chapotraphouse boys and @adamfriedland \n(From Chapo Trap House #879)",
+          "uri": "media/reels/202411/AQNFyRuO7bFU8wUklGpZfX_rcf4npvkLYDPUEwiLe62GClAx6Boa_ZUmJdG_S2DHdlBG0tkJzOxYZiadv9KbVvzui23SiX7dwr0Ek_18066758107589483.mp4"
+        }
+      },
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "73"
+        },
+        "Caption": {
+          "href": "",
+          "timestamp": 0,
+          "value": "A discussion of just how bad the Democrats want to lose the election with the @chapotraphouse boys and @adamfriedland \n(From Chapo Trap House #879)"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "82"
+        },
+        "Instagram Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Instagram Likes": {
+          "href": "",
+          "timestamp": 0,
+          "value": "1"
+        },
+        "Instagram Plays": {
+          "href": "",
+          "timestamp": 0,
+          "value": "88"
+        },
+        "Instagram Saves": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Instagram Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Upload Timestamp": {
+          "href": "",
+          "timestamp": 1730692165,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {
+        "Media Thumbnail": {
+          "creation_timestamp": 1730524987,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "latitude": 40.7142,
+                  "longitude": -74.0064
+                },
+                {
+                  "camera_position": "unknown",
+                  "device_id": "922A1C84-C3D6-4493-A79E-8586EA467324",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1730524987,
+                "uri": "media/reels/202411/465415115_738659141793463_1556444514685061653_n_18206157052291642.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "For anyone not following politics - hereâs why the electoral map makes a Kamala victory so unlikely. #election #kamalaharris #trump",
+          "uri": "media/reels/202411/AQPwXqOuMHgEOr91GxKFddVFTCm_BjSaVYsXG2xRlodW5J0FBS3JhV3r3KZEr_XxyuVs7El7aJjLURBLqluiqGOxCt8MV_f1HHg0HY_18013319582401061.mp4"
+        }
+      },
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "256"
+        },
+        "Caption": {
+          "href": "",
+          "timestamp": 0,
+          "value": "For anyone not following politics - hereâs why the electoral map makes a Kamala victory so unlikely. #election #kamalaharris #trump"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "49"
+        },
+        "Instagram Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "1"
+        },
+        "Instagram Likes": {
+          "href": "",
+          "timestamp": 0,
+          "value": "2"
+        },
+        "Instagram Plays": {
+          "href": "",
+          "timestamp": 0,
+          "value": "290"
+        },
+        "Instagram Saves": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Instagram Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Upload Timestamp": {
+          "href": "",
+          "timestamp": 1730524987,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {
+        "Media Thumbnail": {
+          "creation_timestamp": 1725328749,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "latitude": 40.756889220123,
+                  "longitude": -73.846262736355
+                },
+                {
+                  "camera_position": "unknown",
+                  "device_id": "922A1C84-C3D6-4493-A79E-8586EA467324",
+                  "source_type": "0"
+                },
+                {
+                  "camera_position": "unknown",
+                  "device_id": "922A1C84-C3D6-4493-A79E-8586EA467324",
+                  "source_type": "0"
+                },
+                {
+                  "camera_position": "unknown",
+                  "device_id": "922A1C84-C3D6-4493-A79E-8586EA467324",
+                  "source_type": "0"
+                }
+              ]
+            }
+          },
+          "media_variants": [],
+          "title": "Got lost looking for the US Open, but we ended up at this weird tennis match a few blocks away.",
+          "uri": "media/reels/202409/AQPOkHhLcxwZmHgTh1goXxA_xq3q0PENANrdIPbZqeVVmJOrNpRFhGz7rEhUPX2425Vh0x5gXyqMYkLKFnv1ZE51pVnlSmZNmFRCFc_18031445276469183.mp4"
+        }
+      },
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "184"
+        },
+        "Caption": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Got lost looking for the US Open, but we ended up at this weird tennis match a few blocks away."
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "9"
+        },
+        "Instagram Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Instagram Likes": {
+          "href": "",
+          "timestamp": 0,
+          "value": "5"
+        },
+        "Instagram Plays": {
+          "href": "",
+          "timestamp": 0,
+          "value": "207"
+        },
+        "Instagram Saves": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Instagram Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Upload Timestamp": {
+          "href": "",
+          "timestamp": 1725328749,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {
+        "Media Thumbnail": {
+          "creation_timestamp": 1721702233,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "interest_topics": [
+            {
+              "topic_name": "Dance"
+            },
+            {
+              "topic_name": "Comedy"
+            },
+            {
+              "topic_name": "Styles & Trends"
+            }
+          ],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "922A1C84-C3D6-4493-A79E-8586EA467324",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1721702233,
+                "uri": "media/reels/202407/452080159_457259813938629_8502856815557457007_n_18035775191039617.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "âI donât follow politics. Itâs so boring.â \n\n#election #trump #kamalaharris",
+          "uri": "media/reels/202407/AQOHB9HLtr0hK5LulRwX9lt0maYDvwUqa_S48BivFEUPH0qATzDH7CcKcy35L2Qb4KK8Lkz3yygI9ZzKpZMLg4TEPQqu1p7S97ZVn4_18018109022162034.mp4"
+        }
+      },
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "129"
+        },
+        "Caption": {
+          "href": "",
+          "timestamp": 0,
+          "value": "âI donât follow politics. Itâs so boring.â \n\n#election #trump #kamalaharris"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "90"
+        },
+        "Instagram Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Instagram Likes": {
+          "href": "",
+          "timestamp": 0,
+          "value": "8"
+        },
+        "Instagram Plays": {
+          "href": "",
+          "timestamp": 0,
+          "value": "158"
+        },
+        "Instagram Saves": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Instagram Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "2"
+        },
+        "Upload Timestamp": {
+          "href": "",
+          "timestamp": 1721702233,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {
+        "Media Thumbnail": {
+          "creation_timestamp": 1720145374,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "camera_position": "unknown",
+                  "device_id": "922A1C84-C3D6-4493-A79E-8586EA467324",
+                  "source_type": "0"
+                }
+              ],
+              "subtitles": {
+                "creation_timestamp": 1720145374,
+                "uri": "media/reels/202407/449822009_459856623446789_7402009137561809438_n_18058547158617330.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "The idea that anyone still wants to nominate Joe Bidenâ¦.\n\n#draftgretch #toldyaso",
+          "uri": "media/reels/202407/AQPNTscEiaM9HuPvKsmHExIIGHuyXdvevyaUhGjg9THTENIR_Pk9rhWyVF4upKcM5xdtF2s3WPoEk8dlFkno3hddmR93Z0oYfRwSVk_17886324513063765.mp4"
+        }
+      },
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "128"
+        },
+        "Caption": {
+          "href": "",
+          "timestamp": 0,
+          "value": "The idea that anyone still wants to nominate Joe Bidenâ¦.\n\n#draftgretch #toldyaso"
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "83"
+        },
+        "Instagram Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Instagram Likes": {
+          "href": "",
+          "timestamp": 0,
+          "value": "1"
+        },
+        "Instagram Plays": {
+          "href": "",
+          "timestamp": 0,
+          "value": "129"
+        },
+        "Instagram Saves": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Instagram Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Upload Timestamp": {
+          "href": "",
+          "timestamp": 1720145374,
+          "value": ""
+        }
+      },
+      "title": ""
+    },
+    {
+      "media_map_data": {
+        "Media Thumbnail": {
+          "creation_timestamp": 1698733061,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [],
+          "interest_topics": [
+            {
+              "topic_name": "Cats"
+            },
+            {
+              "topic_name": "Animal Encounters"
+            },
+            {
+              "topic_name": "Animal-Human Bonding"
+            }
+          ],
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            },
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "latitude": 40.7142,
+                  "longitude": -74.0064
+                },
+                {
+                  "camera_position": "unknown",
+                  "device_id": "F2C5E623-46B0-48C1-B83F-3244F10F982D",
+                  "source_type": "0"
+                }
+              ],
+              "music_genre": "Old School Punk Music, Punk Rock Music, Alternative & Punk Music",
+              "subtitles": {
+                "creation_timestamp": 1698733061,
+                "uri": "media/reels/202310/455343532_465609426381677_3146987157402963910_n_18042364102820273.srt"
+              }
+            }
+          },
+          "media_variants": [],
+          "title": "Gabe was named sarcastically in honor of the singer in a terrible pop punk band and he never held it against me. He was a talkative, sweet and concerningly intuitive little dude that brought me so much happiness and always knew when I needed a friend. \n\nHe died peacefully today following a week long hunger strike which I can only assume was performed in solidarity with the people of Palestine.\nIn lieu of flowers please send donations to the re-election campaign of AOC or your local antifa bail fund, causes he was dedicated to advancing.",
+          "uri": "media/reels/202310/AQMcCODW6_kYwleHdab9LZBuSxID40rrqtxo4xyEOAxb8mfjIA7hWIo5oAvq2y7ESzkE3DCgvd3LO6G7I4SLdH169Zme6AFEwxTBKxQ_17854407051038585.mp4"
+        }
+      },
+      "string_map_data": {
+        "Accounts reached": {
+          "href": "",
+          "timestamp": 0,
+          "value": "222"
+        },
+        "Caption": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Gabe was named sarcastically in honor of the singer in a terrible pop punk band and he never held it against me. He was a talkative, sweet and concerningly intuitive little dude that brought me so much happiness and always knew when I needed a friend. \n\nHe died peacefully today following a week long hunger strike which I can only assume was performed in solidarity with the people of Palestine.\nIn lieu of flowers please send donations to the re-election campaign of AOC or your local antifa bail fund, causes he was dedicated to advancing."
+        },
+        "Duration": {
+          "href": "",
+          "timestamp": 0,
+          "value": "50"
+        },
+        "Instagram Comments": {
+          "href": "",
+          "timestamp": 0,
+          "value": "4"
+        },
+        "Instagram Likes": {
+          "href": "",
+          "timestamp": 0,
+          "value": "28"
+        },
+        "Instagram Plays": {
+          "href": "",
+          "timestamp": 0,
+          "value": "249"
+        },
+        "Instagram Saves": {
+          "href": "",
+          "timestamp": 0,
+          "value": "1"
+        },
+        "Instagram Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Upload Timestamp": {
+          "href": "",
+          "timestamp": 1698733061,
+          "value": ""
+        }
+      },
+      "title": ""
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:22:17.188-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:22:17.188Z"
+  }
+}

@@ -91,8 +91,8 @@ uncontradicted by anything else in `raw/`; her own messages bracket it
 (*"I already AM bankrupt!"*, Nov 2024; *"I have to have a hearing,"* June 2026).
 
 > **REVISED [2026-08-18]:** This section previously described the sale as
-> *"contingent on the sale of their own property (19 Jeffries, ≤$229.9k) and a
-> bankruptcy approval"* — treating the bankruptcy as one condition among
+> *"contingent on the sale of their own property (19 Jeffries, ≤$229.9k) and a*
+> *bankruptcy approval"* — treating the bankruptcy as one condition among
 > several. It is the cause of the transaction. The "bankruptcy approval" is a
 > Motion to Sell with a 21-day creditor-objection window, and the reason the
 > price fell $150,000 in thirteen months is that the property needed work she

@@ -31,6 +31,7 @@ connections:
   - page: wiki/mind/concepts/contact-gini
     type: evidenced-by
     claim: "Jerad's +191****3615 handle carries 857 messages (832 received, 25 sent), making it one of three handles with 100+ messages and documenting the high-concentration contact architecture (Gini 0.9601)."
+  - { target: "[[wiki/mind/synthesis/ai-collaborative-analysis]]", type: references, claim: "Jerad's March 2026 jailbreak-via-unicode observation places him inside the same AI-forensics technical interest that page analyzes." }
 tags: [relationships, politics, financial-stress]
 infobox:
   name: "Jerad Friedline"
@@ -44,16 +45,16 @@ infobox:
 
 > **RE-CHECKED [2026-08-16] — premise moved, conclusion unaffected.**
 > [[wiki/self/context-core]] was revised on 2026-08-16 by a staleness audit that
-> corrected seven claims: the Annie status (closed → live), Tom's corpus weight
-> (16,563 was Kristin's handle), the 337 Saratoga sale and the 463 Morgantown
+> corrected seven claims: the [[wiki/people/annie-ulmer|Annie]] status (closed → live), Tom's corpus weight
+> (16,563 was [[wiki/people/kristin|Kristin]]'s handle), the 337 Saratoga sale and the 463 Morgantown
 > landing, the corpus size (181,585 is one file, not the corpus), the sent-message
 > count (97,199 → 106,629), Annie's message volume (rows → 97,768 unique), and
-> Fran's age at death (~97–98 → 97). **This page reasons from none of them** —
+> [[wiki/people/fran-coldren|Fran]]'s age at death (~97–98 → 97). **This page reasons from none of them** —
 > checked by grep against every changed figure and claim — so nothing here is
 > rederived. Recorded rather than date-bumped, per `CLAUDE.md` §3.
 
-> **RE-CHECKED [2026-08-21] — premise moved, conclusion unaffected; verified
-> rather than assumed.** [[wiki/self/context-core]] moved on 2026-08-19 and has
+> **RE-CHECKED [2026-08-21] — premise moved, conclusion unaffected; verified**
+> **rather than assumed.** [[wiki/self/context-core]] moved on 2026-08-19 and has
 > been flagged against this page since. The diff is one typed edge added to the
 > spine, pointing at `the-cato-seat`, and nothing else — no figure, date or
 > claim about Jerad changed. `BACKLOG.md` recorded this as *believed* cheap
@@ -79,7 +80,7 @@ By October 6, 2020, Dan reported "dude i made $600 just from FSLY today." Later 
 
 ## The political mirror
 
-Jerad operates as Dan's political mirror with a distinctive arc. Both started with Bernie enthusiasm circa 2016, traveled through the Chapo trap, and converged on a reluctant Trump fascination by 2020–2024. Their three-year near-silence (2021–2024) is notable not for its absence but for how it evaporates instantly on major events — the Trump shooting, Biden dropout, and GameStop episode all triggered immediate reconnection.
+Jerad operates as Dan's political mirror with a distinctive arc. Both started with Bernie enthusiasm circa 2016, traveled through the Chapo trap, and converged on a reluctant [[wiki/interests/favorites/books/topics/trump|Trump]] fascination by 2020–2024. Their three-year near-silence (2021–2024) is notable not for its absence but for how it evaporates instantly on major events — the Trump shooting, Biden dropout, and GameStop episode all triggered immediate reconnection.
 
 This gap-resilience is Jerad's most reliable property: a multi-year silence that closes on crisis, making the relationship a **non-crisis baseline register** only when crisis doesn't loom.
 
@@ -87,11 +88,11 @@ This gap-resilience is Jerad's most reliable property: a multi-year silence that
 
 The Jerad thread is the origin point for several durable private jokes:
 
-- **Josh Brannan "innocent.wav"**: The eighth-grade memory of Josh under separate blankets, later crystallized into an AI-TTS audio file that stands as one of their last documented exchanges.
+- **[[wiki/people/josh-brannan|Josh Brannan]] "innocent.wav"**: The eighth-grade memory of Josh under separate blankets, later crystallized into an AI-TTS audio file that stands as one of their last documented exchanges.
 
 - **LOSE IT**: The invented fake service that locks you out of your own account to prevent panic-trading — the joke becomes an insight about impulsivity management.
 
-- **Chonkyfire**: OutKast's track permanently linked to Jerad's high-school girlfriend Mary Wilson.
+- **Chonkyfire**: [[wiki/interests/favorites/music/artists/outkast|OutKast]]'s track permanently linked to Jerad's high-school girlfriend Mary Wilson.
 
 ## AI collaboration (2026)
 
@@ -106,7 +107,7 @@ By March 2026, their exchanges migrated into AI-forensics territory. Jerad noted
 | Received from Jerad | 832 |
 | Date range | 2020-02-03 → 2026-03-25 |
 | Cadence | Low-frequency, high-signal; multi-year gaps that close on major events |
-| Anchor events | FSLY tip (Sep 2020); Tesla bull run (Feb 2020); political bursts |
+| Anchor events | [[wiki/work/fastly-fsly|FSLY]] tip (Sep 2020); Tesla bull run (Feb 2020); political bursts |
 
 ## Gaps
 

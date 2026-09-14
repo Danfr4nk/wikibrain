@@ -292,16 +292,20 @@ def markdown(text: str) -> str:
     code: list[str] = []
 
     def flush_para() -> None:
-        nonlocal para
+        nonlocal para, in_lede
         if para:
             html_parts.append(f"<p>{inline(' '.join(para))}</p>")
             para = []
+            in_lede = False
 
     def flush_list() -> None:
-        nonlocal list_stack
+        nonlocal list_stack, in_lede
         if list_stack:
             html_parts.append(f"</{list_stack}>")
             list_stack = None
+            in_lede = False
+
+    in_lede = True  # leading blockquotes (epigraph) render small until first para/list
 
     for raw in lines:
         if raw.startswith("```"):
@@ -335,7 +339,8 @@ def markdown(text: str) -> str:
 
         if line.startswith("> "):
             flush_para(); flush_list()
-            html_parts.append(f"<blockquote>{inline(line[2:])}</blockquote>")
+            cls = ' class="lede"' if in_lede else ""
+            html_parts.append(f"<blockquote{cls}>{inline(line[2:])}</blockquote>")
             continue
 
         bullet = re.match(r"^\s*[-*]\s+(.*)$", line)
@@ -506,6 +511,7 @@ h2{font-family:Georgia,serif;font-weight:400;font-size:1.5em;
  border-bottom:1px solid var(--line);padding-bottom:4px;margin:1.6em 0 .6em;overflow:hidden}
 h3{font-family:Georgia,serif;font-weight:600;font-size:1.17em;margin:1.3em 0 .4em;overflow:hidden}
 blockquote{border-left:3px solid #c8ccd1;margin:1em 0;padding:6px 16px;color:#444}
+blockquote.lede{font-size:13px;line-height:1.55;color:#555;font-style:italic}
 code{background:#f8f9fa;border:1px solid #ddd;border-radius:2px;padding:1px 5px;font-size:.92em}
 pre{background:#f8f9fa;border:1px solid #ddd;padding:12px;overflow:auto}
 pre code{border:0;padding:0}

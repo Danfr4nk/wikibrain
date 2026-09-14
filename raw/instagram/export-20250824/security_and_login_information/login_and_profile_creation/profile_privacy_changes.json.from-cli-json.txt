@@ -1,0 +1,21 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 289 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "account_history_account_privacy_history": [
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Time": {
+          "href": "",
+          "timestamp": 1518680667,
+          "value": ""
+        }
+      },
+      "title": "Switched to Public"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:22:46.486-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:22:46.486Z"
+  }
+}

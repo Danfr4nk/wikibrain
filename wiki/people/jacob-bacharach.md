@@ -196,8 +196,8 @@ street."*
 > **CONTRADICTION [2026-08-08] — open.** Dan attributes the Virginia Avenue
 > passage to ***The Bend of the World*** (2014) and cites pages 227–228.
 > Bacharach's own February 2021 message names a different novel as the
-> Uniontown book: *"it figures prominently in my Doorposts of Your House
-> novel."* The reading record sides with Bacharach. Dan's Goodreads library
+> Uniontown book: *"it figures prominently in my Doorposts of Your House*
+> *novel."* The reading record sides with Bacharach. Dan's Goodreads library
 > and the FAVS masterlist each contain exactly one Bacharach title —
 > ***The Doorposts of Your House and on Your Gates*** (Liveright, 2017),
 > rated **5**, shelved 2022-03-24 — and *The Bend of the World* appears in
@@ -259,6 +259,19 @@ produced the defining relationship of Dan's adult life are not two stories
 about Uniontown. They are the same three hundred feet of ground along the
 same fairway, and no telling of the Bacharach story before this one had put
 them on the same map.
+
+## 2026-09-13 — Dan re-centers the series on 155 Virginia Ave
+
+In the September 13 photo-intake chat, asked which address holds "a bunch of
+really weird and odd coincidences," Dan answered 155 Virginia Avenue and
+clarified: "I was referring to the series of Jacob Bacharach coincidences that
+center around the house" (`dat:1478-bacharach-virginia-ave-centering-20260913`).
+This matches the chain's third link — the novel's fictional rental is that
+house, picked for the glazed brick — not the Saratoga thread this page marks as
+the relationship's mundane basis. Worth noting as narration, not correction: in
+Dan's current telling the Virginia house is the center of gravity of the whole
+series, while the Saratoga decoupling the forensic pass insisted on doesn't
+figure. The chain itself is unchanged.
 
 ## Gaps
 

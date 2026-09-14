@@ -1,0 +1,50 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1524 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "A great day is over, ready for a new one?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1657599689241
+    },
+    {
+      "content": "The taste of warmth is sweet and nutritious in the embrace of early morning, the taste of romance is sweet and well nourished in the blessing of dawn, and the taste of happiness is happily upgraded in the earliest blessing. Good morning",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1657472669334
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1657472471128
+    },
+    {
+      "content": "Hi, IG recommended your work to me, it's very interesting photos, I guess you are also an interesting person, are you a native American?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1657392070467
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:26:22.778-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:26:22.778Z"
+  },
+  "thread_path": "message_requests/instagramuser_943826283680847",
+  "title": "Instagram User"
+}

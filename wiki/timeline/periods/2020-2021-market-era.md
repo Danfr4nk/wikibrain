@@ -33,8 +33,8 @@ tags: [career, financial-stress]
 > checked by grep against every changed figure and claim — so nothing here is
 > rederived. Recorded rather than date-bumped, per `CLAUDE.md` §3.
 
-> **RE-CHECKED [2026-08-21] — premise moved, conclusion unaffected; verified
-> rather than assumed.** [[wiki/self/context-core]] moved on 2026-08-19 by a
+> **RE-CHECKED [2026-08-21] — premise moved, conclusion unaffected; verified**
+> **rather than assumed.** [[wiki/self/context-core]] moved on 2026-08-19 by a
 > single added typed edge (to `the-cato-seat`) and no other change. Nothing
 > this period page reasons from was altered. Standing since 2026-08-19 as a
 > hypothesis in `BACKLOG.md`; now checked against the diff.

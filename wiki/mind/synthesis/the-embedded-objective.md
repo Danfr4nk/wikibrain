@@ -30,6 +30,9 @@ connections:
   - page: wiki/mind/concepts/acquisition-drive
     type: contradicts
     claim: "That page predicts no assigned goal was ever pursued at cost comparable to the Fran vigil; the employment record contains two that dwarf it — 41 months at Au Za'atar and 43 at Nemacolin — so the prediction is falsified and the rule has to be rewritten around what was actually being sustained inside them."
+  - page: wiki/mind/concepts/the-endpoint-requirement
+    type: complements
+    claim: "[2026-09-13] The endpoint requirement explains why the private objectives documented here could be sustained: each was a defined terminal state installed inside an assigned role — the tip split, the night class, the shed — while roles with no defined done-state produced no drive. The drive sustains toward endpoints, not toward wants."
   - page: wiki/work/au-zaatar
     type: instance-of
     claim: "The longest job of Dan's life was not sustained by the job: a negotiated tip split, an eighteen-month fabricated night class, and sole custody of the shed's cash tips are three self-set objectives installed inside an assigned role, and the job ended when the third was bulldozed rather than when the work got hard."
@@ -183,15 +186,15 @@ the territory was gone the host had nothing in it.
 > BFS moved substantively, and `BACKLOG.md` flagged it as the least cheap of
 > the nine open staleness pairs. It was right to.
 >
-> **Two accounts of why BFS ended are now on the record and they do not
-> match.** This section says the job ended *"at the exact moment the role
-> produced its first genuinely assigned demand: pay the $50 drawer shortage
-> out of pocket, sign the write-up."* Dan's own retrospective, given to Annie
-> on 2026-08-11, says something else entirely: *"literally the only thing I
-> did was go home 30 minutes before my shift was supposed to end after I
-> called my manager and made sure it was okay."* And the ending was formal in
-> a way this page never recorded — a posted sign reading **"NO HIRE: Daniel
-> Frank"** in two locations, BFS and the Little Caesars office.
+> **Two accounts of why BFS ended are now on the record and they do not**
+> **match.** This section says the job ended *"at the exact moment the role*
+> *produced its first genuinely assigned demand: pay the $50 drawer shortage*
+> *out of pocket, sign the write-up."* Dan's own retrospective, given to Annie
+> on 2026-08-11, says something else entirely: *"literally the only thing I*
+> *did was go home 30 minutes before my shift was supposed to end after I*
+> *called my manager and made sure it was okay."* And the ending was formal in
+> a way this page never recorded — a posted sign reading **"NO HIRE: Daniel**
+> **Frank"** in two locations, BFS and the Little Caesars office.
 >
 > **That matters because a control has to be clean.** The row is doing work
 > here as evidence that *absence of a payload* is what collapses tenure to

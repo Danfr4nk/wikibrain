@@ -29,10 +29,10 @@ connections:
 
 # Suzanne Frank — Forensic Personality Assessment
 
-> **RE-CHECKED [2026-09-04] — one new datum, and it cuts toward the
-> assessment rather than against it.** [[wiki/people/suzanne-frank]] gained a
-> section on her six messages naming Judge Fred Adams. **No scored dimension
-> here is affected.** Worth recording for a later pass: the 2018-11-05 message
+> **RE-CHECKED [2026-09-04] — one new datum, and it cuts toward the**
+> **assessment rather than against it.** [[wiki/people/suzanne-frank]] gained a
+> section on her six messages naming Judge Fred Adams. **No scored dimension**
+> **here is affected.** Worth recording for a later pass: the 2018-11-05 message
 > asks a sitting judge and her son for money in the same breath, which is a
 > clean instance of whatever this page says about resource-seeking under
 > pressure — it is offered as an instance, not as a re-score, because one
@@ -55,15 +55,15 @@ connections:
 > **RE-CHECKED [2026-08-26]:** flagged stale against
 > [[wiki/people/suzanne-frank]] (2026-08-26), which gained a `RE-CHECKED`
 > blockquote confirming the fran-death-vigil closure-cluster finding doesn't
-> touch her caregiving or estate material. **No claim on this page is
-> affected.**
+> touch her caregiving or estate material. **No claim on this page is**
+> **affected.**
 
 > **RE-CHECKED [2026-08-22]:** flagged stale against
 > [[wiki/people/suzanne-frank]] (2026-08-22), which moved by a `RE-CHECKED`
 > blockquote adding one undocumented event — an April 2018 court summons for Dan
 > arriving at her address during the funeral week
-> ([[wiki/timeline/events/uniontown-hospital-vape-alarm]]). **No trait score,
-> instrument reading or behavioural exemplar on this page is affected**, because
+> ([[wiki/timeline/events/uniontown-hospital-vape-alarm]]). **No trait score,**
+> **instrument reading or behavioural exemplar on this page is affected**, because
 > the corpus records nothing she said or did about it; an assessment cannot move
 > on an event with no observed response. Nothing withdrawn.
 

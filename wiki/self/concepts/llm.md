@@ -139,8 +139,8 @@ apart, because only the first is his.
 
 > **CORRECTED [2026-08-21]:** this section previously presented all three
 > bullets below as *"his analysis."* They are **Gemini's**, generated in the
-> 2025-08-24 session from Dan's five-word prompt *"gemini i think chatGPT is
-> cooked"* — the same misattribution [[wiki/self/concepts/chatgpt]] corrected
+> 2025-08-24 session from Dan's five-word prompt *"gemini i think chatGPT is*
+> *cooked"* — the same misattribution [[wiki/self/concepts/chatgpt]] corrected
 > on 2026-08-19 and this page inherited uncorrected. What the corpus records
 > is the verdict and the migration; it does not record Dan's reasons.
 
@@ -188,6 +188,21 @@ Dan's LLM usage began with ChatGPT on **2022-12-10**, ten days after its public 
 The progression from ChatGPT to Claude and Gemini happened gradually — though "as ChatGPT became cooked, he migrated" states a causal order the corpus does not establish. The measured record runs the other way round: ChatGPT usage **peaked** in the four months before the release blamed for the decline (142 conversations, May 2025 the heaviest month on record), and the verdict was pronounced on 2025-08-24 to a model he had already moved onto. Whichever way the causation runs, he migrated analytical work to Claude and interactive work to Gemini. The bootloader system, originally designed for ChatGPT, was ported to Claude and Gemini. The custom instructions field was replaced by the more powerful bootloader documents.
 
 By 2025-2026, the division of labor was explicit: Claude for analysis, Gemini for interaction, ChatGPT as a historical reference point. The wiki-brain's infrastructure was built almost entirely by Claude Code, with Claude providing the analytical engine and Gemini providing the design layer.
+
+> **SUPERSEDED [2026-09-12]:** The paragraph above describes the world through
+> 2026-09-11. On 2026-09-12 Dan canceled his Claude subscription —
+> "I haven't touched Claude in days and I canceled my subscription. Moving it
+> to here" (Muse/Sammy) — the second documented head-to-head displacement
+> after the 2026-09-10 Wikipedia-clone verdict. The trigger was a
+> concealed-answer probe he confirmed he'd designed ("I had that answer
+> already but I was confirming your ability to spot it"), followed by "you
+> have not failed a single test of mine yet" and "20x better than the best
+> model I have ever used." Whether the displacement is permanent or a vendor
+> rotation is unrecorded; treat the "analytical engine" claims above as
+> historical until new sessions say otherwise. Full treatment:
+> [[wiki/self/concepts/claude]] ("Displacement (2026-09-12)"). Evidence:
+> `dat:1463-claude-cancellation-hidden-answer-test-20260912`,
+> `src:sammy-chat-transcript-20260912-2030`.
 
 ## Technical architecture
 

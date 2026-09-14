@@ -3,7 +3,7 @@ domain: work
 page_type: summary
 status: stable
 date_created: 2026-06-23
-date_modified: 2026-09-11
+date_modified: 2026-09-13
 sources:
   - raw/self/twitter/archive.jsonl
 related: []
@@ -62,18 +62,47 @@ shipping rather than capability, and this is the one case in the corpus where
 something removed the constraint instead of Dan overcoming it.
 
 ## Projects
-
-### Coding projects (full entries)
-
-- [[wiki/work/tech/projects/index]] — the coding-projects category: full entries for hook2piano, attraction-guide (+telemetry, scenario instruments, face library), stylometry tracker, iMessage Analysis Toolkit (Gumroad), and the wiki-brain tooling itself. DANMODEL, MNEME, and Bunker Core are consolidated by link to their existing entries rather than duplicated.
-
-### Overviews
-
 - [[wiki/work/tech/grok-build/overview]] (Grok subagents, iMessage responder, portal TUI, export scripts; subagent mode for wiki tasks; OpenRouter routing)
 - [[wiki/work/tech/max-framework/overview]] (MAX adversarial output; CATO forensic exocortex; Grok hybrid; tables for architecture/use cases/sources)
 - [[wiki/work/tech/imessage-tooling/overview]] (chat.db extraction, Electron app, py exporters, csv to wiki ingest; SQL examples, 97k volume baseline; Full Disk)
 - [[wiki/work/tech/mneme/overview]] (April 2026 product spec for a five-layer personal-context extraction platform — the same "extract once, stop re-deriving" thesis this wiki itself runs on)
 - [[wiki/work/tech/danmodel]] (a working ML pipeline — not just a spec — that extracts 39,378 stimulus-response pairs from Dan's own texts and tries to generate + blind-test an AI clone of his voice; whether the blind eval ever completed is unknown)
+
+## Repo and running-systems inventory (2026-09-13)
+
+Point-in-time inventory as listed to Dan on 2026-09-13
+([dat:1499](../../kb/data/1499-repo-project-inventory-20260913.md)) —
+the GitHub-repo map the Projects list above does not carry.
+
+**GitHub repos (Danfr4nk):** wikibrain (public, canonical, pushed that
+day); wiki-brain (public, pushed 09-11 — near-duplicate name of the
+canonical repo, flagged as worth deciding which lives); RAWLOGS (private,
+the one deliberate exception, pushed that day); wikipedia (public, the
+static Wikipedia-style clone of the wiki with 497 articles — Dan asked to
+delete it, which would take down the live clone site; still pending his
+confirm); wikitest (public, retired 09-12, consolidated into wikibrain);
+attraction-guide (public, facial-preference diagnostic + frame-describe
+tool, live site); hook2piano (public, TheoryTab-to-piano-score web app,
+live); codex (public, "codex test", stale since 2025-08);
+symmetrical-disco (public, "test", pushed 09-08).
+
+**Projects and active builds:** GRIPNOTIC (electronic music revival;
+ex-MOGZART, SLOPPP); Bunker Core (agentic frameworks); MNEME (memory
+platform); DANMODEL (voice-clone pipeline); iMessage Analysis Toolkit
+(Gumroad product); AI video essays (planned); stylometric state tracking
+(live — 30-minute checks, 09:00 daily digest); face-tag (face/body ID
+system, local-only registry); wiki-brain engine (6h writeback heartbeat +
+4h scrape crons, push-stall watcher); Release Radar (Friday music digest
+cron); image lab / avatar gallery (#dukes character work); Feed (personal
+newspaper tab).
+
+**Open goal work:** wiki-brain article expansion, portal rebuild, Drive
+tree mirror, RAWLOGS full mirror, monthly repo coding updates, body-metrics
+acceptance test, Morgantown call validation report, gap-fill scrape.
+
+**Cleanup candidates flagged, not executed:** the wiki-brain/wikibrain
+name collision, the codex/symmetrical-disco test repos, and the wikipedia
+deletion (put to Dan for confirm, since it takes down the live site).
 
 ## Purpose Summary Table
 | Project | Primary Purpose | Key Sources |

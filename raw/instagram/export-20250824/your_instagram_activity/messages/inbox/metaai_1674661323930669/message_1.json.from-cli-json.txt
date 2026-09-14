@@ -1,0 +1,49 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 2674 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Meta AI",
+      "timestamp_ms": 1740015761119
+    },
+    {
+      "content": "My name is Meta AI. Think of me like an assistant who's here to help you learn, plan, and connect. What can I help you with today?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Meta AI",
+      "timestamp_ms": 1740015742389
+    },
+    {
+      "content": "The all-time leading scorers in El ClÃ¡sico, the iconic Barcelona vs Real Madrid rivalry, are a who's who of football legends. Here are the top scorers:\n\n- *1. Lionel Messi* (2004-2021): 26 goals. The Argentine superstar's impressive tally includes a hat-trick as a 19-year-old and several match-winning goals.Â¹\n- *2. Alfredo Di Stefano* (1953-1964): 18 goals. A Real Madrid icon, Di Stefano's goals helped shape the rivalry.\n- *3. Cristiano Ronaldo* (2009-2018): 18 goals. The Portuguese forward's impressive record includes a Copa del Rey final winner.\n- *4. Karim Benzema* (2009-2023): 16 goals. The French striker's consistent scoring has been a thorn in Barcelona's side.\n- *5. Raul* (1994-2010): 15 goals. A Real Madrid legend, Raul's goals often proved crucial in the rivalry.\n- *6. Cesar Rodriguez* (1939-1955): 14 goals. A Barcelona great, Rodriguez's goals helped establish the club's presence in the rivalry.\n- *7. Paco Gento* (1953-1971): 14 goals. A Real Madrid icon, Gento's speed and skill terrorized Barcelona defenders.\n- *8. Ferenc Puskas* (1958-1966): 14 goals. A legendary Hungarian forward, Puskas's goals often decided El ClÃ¡sico matches.\n- *9. Santillana* (1971-1988): 12 goals. A Real Madrid stalwart, Santillana's consistent scoring contributed to the club's success.\n- *10. Luis Suarez* (2014-2020): 11 goals. A Barcelona favorite, Suarez's goals, including a hat-trick, often proved decisive.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Meta AI",
+      "timestamp_ms": 1740015742136
+    },
+    {
+      "content": "Barcelona vs Real Madrid: All-time leading scorers",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1740015741757
+    }
+  ],
+  "participants": [
+    {
+      "name": "Meta AI"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:31:06.076-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:31:06.076Z"
+  },
+  "thread_path": "inbox/metaai_1674661323930669",
+  "title": "Meta AI"
+}

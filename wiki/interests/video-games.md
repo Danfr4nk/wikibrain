@@ -78,8 +78,8 @@ programme this wiki treats as the serious credential
 > coordinate, it is a twenty-year-old at trade school putting in a
 > fourteen-hour session.
 >
-> The honest shape is no longer "low-grade throughout." It is **two documented
-> high-intensity windows (2008, 2011–12) inside a long low-grade arc**, with
+> The honest shape is no longer "low-grade throughout." It is **two documented**
+> **high-intensity windows (2008, 2011–12) inside a long low-grade arc**, with
 > the intensity concentrated in exactly the years the record was thinnest. That
 > is a warning about the arc as much as a finding about the games: the periods
 > this page could see least were the periods where the most was happening.

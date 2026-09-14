@@ -68,9 +68,9 @@ teacher, and a building that closes for repairs.
 life, and she says so.** The clearest statement is 2025-03-31, in a message
 listing everything that had gone wrong in one day:
 
-> *"Then the kids came over. And Claire wanted me to cut Alice's hair. (Which of
-> course I wasn't paid for) she even jokingly said 'should we tip annie?' And then
-> laughed."*
+> *"Then the kids came over. And Claire wanted me to cut Alice's hair. (Which of*
+> *course I wasn't paid for) she even jokingly said 'should we tip annie?' And then*
+> *laughed."*
 
 The same message contains *"I got the letter I was denied unemployment"* — which
 is the only record in the corpus of Annie applying for unemployment, and it dates

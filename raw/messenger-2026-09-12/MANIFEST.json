@@ -1,0 +1,11 @@
+{
+ "source": "Facebook Messenger Companion (hatch_messenger_cli), fb user id 580995252, pulled 2026-09-12",
+ "threads": 2,
+ "messages": 11,
+ "coverage": "2026-08-14T02:50:52Z to 2026-08-26T22:23:43Z",
+ "note": "Full thread list via sync threads --older 3650 returns only these 2 threads; search for known contacts (Annie, Tom, Alexis) returns 0 hits. Messenger is not a substantive channel for Dan; his messaging life is iMessage (192k messages). The Sept 2026 Facebook export likewise contained posts only, no messages folder.",
+ "files": [
+  "threads/<cid>.json (raw per thread)",
+  "messenger-all.jsonl (parsed)"
+ ]
+}

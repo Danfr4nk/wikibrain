@@ -173,11 +173,11 @@ Cross-referenced: [[wiki/self/facebook]], [[wiki/self/context-core]], [[wiki/int
 > **CONTRADICTION [2026-08-19] — "98 unique authors" is not evidence of range.**
 > This page, and the 2026-06-23 form of [[wiki/interests/favorites/eclecticism]] alongside it, read 120
 > books across 98 authors as breadth. Counted by subject rather than by author,
-> the shelf is the opposite. **Forty of the 120 books are tagged `trump` or
-> `jan-6`, carried by thirty different authors. Twenty are tagged
-> `roman-republic`, `ancient-history` or `caesar`, carried by fourteen. The two
-> sets do not overlap, so exactly half the collection is two subjects read
-> through forty-four hands.** Eighty-five of the 98 authors appear exactly once
+> the shelf is the opposite. **Forty of the 120 books are tagged `trump` or**
+> **`jan-6`, carried by thirty different authors. Twenty are tagged**
+> **`roman-republic`, `ancient-history` or `caesar`, carried by fourteen. The two**
+> **sets do not overlap, so exactly half the collection is two subjects read**
+> **through forty-four hands.** Eighty-five of the 98 authors appear exactly once
 > — 86.7% — because one account per witness is all that exhaustive coverage of a
 > single event requires.
 >

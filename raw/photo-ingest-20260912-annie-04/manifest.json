@@ -1,0 +1,76 @@
+{
+ "batch": "photo-ingest-20260912-annie-04",
+ "intake_source": "direct send in chat by Dan, 2026-09-12 (fourth Annie drop)",
+ "album_url": null,
+ "album_name": null,
+ "pull_timestamp_utc": "2026-09-13T01:10:35Z",
+ "pull_method": "direct-send",
+ "files": [
+  {
+   "upload_id": "upload-054",
+   "filename": "c918bf78736ed1b8b0d92c1fd09154d432ea3bfb01be9d76c1364485b1dd7fe9.jpg",
+   "local_path": "workspace/user/media_library/image/c9/c918bf78736ed1b8b0d92c1fd09154d432ea3bfb01be9d76c1364485b1dd7fe9.jpg",
+   "sha256": "c918bf78736ed1b8b0d92c1fd09154d432ea3bfb01be9d76c1364485b1dd7fe9",
+   "bytes": 273750,
+   "exif_datetime": "2015:12:03 23:41:53",
+   "dimensions": "828x1104",
+   "gphotos_media_id": null,
+   "platform_timestamp": null
+  },
+  {
+   "upload_id": "upload-055",
+   "filename": "d1a5cf37e3f45bd22469ecd02a88863ce023bee3a780e9edf65eb9abf665556a.jpg",
+   "local_path": "workspace/user/media_library/image/d1/d1a5cf37e3f45bd22469ecd02a88863ce023bee3a780e9edf65eb9abf665556a.jpg",
+   "sha256": "d1a5cf37e3f45bd22469ecd02a88863ce023bee3a780e9edf65eb9abf665556a",
+   "bytes": 273160,
+   "exif_datetime": "2015:12:03 23:41:55",
+   "dimensions": "828x1104",
+   "gphotos_media_id": null,
+   "platform_timestamp": null
+  },
+  {
+   "upload_id": "upload-056",
+   "filename": "6d85205a619ab970a163c6069f5816936a85991bc5366d376f0b4754552cf63f.jpg",
+   "local_path": "workspace/user/media_library/image/6d/6d85205a619ab970a163c6069f5816936a85991bc5366d376f0b4754552cf63f.jpg",
+   "sha256": "6d85205a619ab970a163c6069f5816936a85991bc5366d376f0b4754552cf63f",
+   "bytes": 267133,
+   "exif_datetime": "2015:12:03 23:42:05",
+   "dimensions": "828x1104",
+   "gphotos_media_id": null,
+   "platform_timestamp": null
+  },
+  {
+   "upload_id": "upload-057",
+   "filename": "bc87a7e5ce4aa0070b207ae52e9fec29e4b71f3bb0c7c70aa4640030687cdb1e.jpg",
+   "local_path": "workspace/user/media_library/image/bc/bc87a7e5ce4aa0070b207ae52e9fec29e4b71f3bb0c7c70aa4640030687cdb1e.jpg",
+   "sha256": "bc87a7e5ce4aa0070b207ae52e9fec29e4b71f3bb0c7c70aa4640030687cdb1e",
+   "bytes": 276245,
+   "exif_datetime": "2015:12:03 23:42:13",
+   "dimensions": "828x1104",
+   "gphotos_media_id": null,
+   "platform_timestamp": null
+  },
+  {
+   "upload_id": "upload-058",
+   "filename": "9cc236a273f20b6c218ae3effbcf1e97c30077854501f62e15c827148e7596b6.jpg",
+   "local_path": "workspace/user/media_library/image/9c/9cc236a273f20b6c218ae3effbcf1e97c30077854501f62e15c827148e7596b6.jpg",
+   "sha256": "9cc236a273f20b6c218ae3effbcf1e97c30077854501f62e15c827148e7596b6",
+   "bytes": 273896,
+   "exif_datetime": "2015:12:03 23:42:32",
+   "dimensions": "828x1104",
+   "gphotos_media_id": null,
+   "platform_timestamp": null
+  },
+  {
+   "upload_id": "upload-059",
+   "filename": "f4b390bbd8387e31298caf4f3cb59c9424b637434cb823944f5f38cbe78dabc9.jpg",
+   "local_path": "workspace/user/media_library/image/f4/f4b390bbd8387e31298caf4f3cb59c9424b637434cb823944f5f38cbe78dabc9.jpg",
+   "sha256": "f4b390bbd8387e31298caf4f3cb59c9424b637434cb823944f5f38cbe78dabc9",
+   "bytes": 207902,
+   "exif_datetime": "2015:12:03 23:51:34",
+   "dimensions": "828x1104",
+   "gphotos_media_id": null,
+   "platform_timestamp": null
+  }
+ ]
+}

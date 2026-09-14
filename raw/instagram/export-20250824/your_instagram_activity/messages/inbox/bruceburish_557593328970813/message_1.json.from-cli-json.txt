@@ -1,0 +1,186 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 5568 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "I got in so much trouble",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Bruce Burish",
+      "timestamp_ms": 1726289082443
+    },
+    {
+      "content": "I remember it well",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Bruce Burish",
+      "timestamp_ms": 1726289075351
+    },
+    {
+      "content": "When I got picked up",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Bruce Burish",
+      "timestamp_ms": 1726288953389
+    },
+    {
+      "content": "Jesus",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Bruce Burish",
+      "timestamp_ms": 1726288947440
+    },
+    {
+      "content": "The 7springs party lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1726288568980
+    },
+    {
+      "content": "Do you remember",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1726288561785
+    },
+    {
+      "content": "I had a flashback today",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1726288559078
+    },
+    {
+      "content": "Yo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Bruce Burish",
+      "timestamp_ms": 1725331691343
+    },
+    {
+      "content": "Are you still in nyc?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Bruce Burish",
+      "timestamp_ms": 1721213587225
+    },
+    {
+      "content": "Brother!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Bruce Burish",
+      "timestamp_ms": 1668963672192
+    },
+    {
+      "content": "Are you still in NYC?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Bruce Burish",
+      "timestamp_ms": 1650343853254
+    },
+    {
+      "content": "Miss you brother",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Bruce Burish",
+      "timestamp_ms": 1650343846795
+    },
+    {
+      "content": "Howâs it hanging!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Bruce Burish",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2819600744019679078"
+      },
+      "timestamp_ms": 1650343265423
+    },
+    {
+      "content": "ð¤£",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Bruce Burish",
+      "timestamp_ms": 1645887935332
+    },
+    {
+      "content": "Only Fans yet?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Bruce Burish",
+      "timestamp_ms": 1645887926913
+    },
+    {
+      "content": "Howâs it hanging brother!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Bruce Burish",
+      "timestamp_ms": 1645887915029
+    },
+    {
+      "content": "I miss you man!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Bruce Burish",
+      "timestamp_ms": 1629281026716
+    },
+    {
+      "content": "Nice",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Bruce Burish",
+      "timestamp_ms": 1572440381610
+    },
+    {
+      "content": "itâs a live podcast",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1572436959619
+    },
+    {
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://m.youtube.com/watch?v=0PqXsBiW2ys",
+        "share_text": "Someone takes Luis' microphone... and that's a pretty big deal. featuring. Danny Tamberelli"
+      },
+      "timestamp_ms": 1572436943272
+    },
+    {
+      "content": "What is this?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Bruce Burish",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2164997404126160848"
+      },
+      "timestamp_ms": 1572308283360
+    },
+    {
+      "content": "Suppppp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Bruce Burish",
+      "timestamp_ms": 1569344699788
+    }
+  ],
+  "participants": [
+    {
+      "name": "Bruce Burish"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:33:16.139-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:33:16.139Z"
+  },
+  "thread_path": "inbox/bruceburish_557593328970813",
+  "title": "Bruce Burish"
+}

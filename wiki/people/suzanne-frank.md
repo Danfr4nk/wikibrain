@@ -156,6 +156,9 @@ connections:
   - page: wiki/mind/synthesis/high-provision-low-condolence
     type: instantiates
     claim: "The give-and-invoice pattern — permanently available, and the availability gets itemized — is the rule running in the maternal register: provision extended, then entered into the ledger, the same architecture the synthesis finds across every major bond."
+  - { target: "[[wiki/mind/synthesis/kristin-channel]]", type: references, claim: "That entry reads her as a contextualizing pressure on the Kristin channel: the always-available maternal line is the bond the Kristin relationship had to be measured against." }
+  - { target: "[[wiki/mind/synthesis/annie-ally-contrast]]", type: references, claim: "That entry places her as a contextualizing figure in the Annie/Ally comparison: the maternal register of permanent availability that the annie-channel absorbs and the Ally channel never supplies." }
+  - { target: "[[wiki/mind/synthesis/four-financial-inversions]]", type: references, claim: "That entry's inversion 1 is the Suz-backed years (~2015-2020): Dan funded the household and she funded Dan, the standing liquidity facility behind the relationship's early capital." }
 ---
 
 
@@ -164,8 +167,8 @@ connections:
 > **RE-CHECKED [2026-08-26]:** flagged stale against
 > [[wiki/timeline/events/fran-death-vigil]] (2026-08-26), which added the
 > closure-cluster finding (four dated good-outcome statements in six days)
-> and new typed edges to closing-the-set and attachment-model. **No claim on
-> this page is affected** — nothing here reasons from Dan's happiness
+> and new typed edges to closing-the-set and attachment-model. **No claim on**
+> **this page is affected** — nothing here reasons from Dan's happiness
 > statements or the closure mechanism, only from the caregiving rotation and
 > the estate timeline, both untouched.
 
@@ -291,18 +294,18 @@ minute, try to put yourself in my position if you can,"* and then, at 19:54,
 *"Was that an accident or do you need to talk?"*
 
 > **CORRECTED [2026-08-18]:** This page previously recorded, under the 2017–18
-> poverty floor, *"$750/week borrowing during the worst stretch; recurring
-> rescue-and-repayment cycles."* [[wiki/legal/463-morgantown]] carries the same
+> poverty floor, *"$750/week borrowing during the worst stretch; recurring*
+> *rescue-and-repayment cycles."* [[wiki/legal/463-morgantown]] carries the same
 > figure as a standing pattern ("the operating manual documents $750/week
 > borrowing patterns"). The primary record contains **one** such statement, on
-> 13 December 2018: *"You borrowed $750 last week alone! It's not like you are
-> doing some big fucking favor for me!"* It is an accusation about a single
+> 13 December 2018: *"You borrowed $750 last week alone! It's not like you are*
+> *doing some big fucking favor for me!"* It is an accusation about a single
 > week, made in an argument, on a day when she had that morning asked him for
 > $450 and he had already sent money back. `operating_manual.md` — an
 > AI-secondary profile document — generalised the one line into a rate
 > ("Mom Suz borrowing $750/week," which also inverts the direction), and the
-> wiki inherited the rate. **There is no evidence of a recurring $750/week
-> arrangement in either direction.** The underlying pattern is real and better
+> wiki inherited the rate. **There is no evidence of a recurring $750/week**
+> **arrangement in either direction.** The underlying pattern is real and better
 > described by the ledger above: irregular transfers of $20 to $3,000 running
 > both ways, entered as debts, never reconciled.
 
@@ -411,9 +414,9 @@ $615k to $465k over thirteen months is that the house needed work she had no
 money to do while the IRS claims accrued interest daily.
 
 > **CORRECTED [2026-08-18]:** The previous version of this page described the
-> sale as *"She is selling it to buyers Jennifer J. and Scott P. Delverm for
-> $465k, contingent on their sale of 19 Jeffries at ≤$229.9k, a bankruptcy
-> approval, and a 7-day vacate,"* treating the bankruptcy as one contingency
+> sale as *"She is selling it to buyers Jennifer J. and Scott P. Delverm for*
+> *$465k, contingent on their sale of 19 Jeffries at ≤$229.9k, a bankruptcy*
+> *approval, and a 7-day vacate,"* treating the bankruptcy as one contingency
 > among three. It is the cause of the transaction, not a condition on it. The
 > childhood home was liquidated to satisfy roughly $157,000 of mostly tax debt,
 > under a court deadline, and the loss of Dan's housing is a second-order
@@ -429,7 +432,7 @@ sharpest drop in eleven years of the thread and it is not an export artifact.
 
 ## Identity, lineage and the generation she was pushed out of
 
-The personality read that sits under this section — ISTJ 6w7, so/sp, 6-2-9 trifix — is at [[wiki/people/suzanne-frank-personality-assessment]], kept separate for the same reason Annie's is: a typology claim should be falsifiable on its own terms rather than folded into a biography.
+The personality read that sits under this section — ISTJ 6w7, so/sp, 6-2-9 trifix — is at [[wiki/people/suzanne-frank-personality-assessment]], kept separate for the same reason [[wiki/people/annie-ulmer|Annie]]'s is: a typology claim should be falsifiable on its own terms rather than folded into a biography.
 
 Identity is settled across two independent exports. `contacts.csv` and the
 Facebook address book agree on the same person: **Suzanne Frank, one mobile
@@ -444,7 +447,7 @@ The 23andMe GEDCOM ([[wiki/self/ancestry]]) supplies the rest:
 |---|---|
 | Born | 15 September 1962, Pittsburgh, Allegheny County, PA |
 | Name at birth | Suzanne Whyel Shrum — the middle name carries [[wiki/people/fran-coldren|Fran]]'s line |
-| Parents | George Dixon Shrum Jr. (b. 14 Jun 1937, Pittsburgh) and Rebecca Diane Van Voorhis (b. 30 Jan 1939, West Virginia) |
+| Parents | George Dixon Shrum Jr. (b. 14 Jun 1937, Pittsburgh) and [[wiki/people/diane-moore|Rebecca Diane Van Voorhis]] (b. 30 Jan 1939, West Virginia) |
 | Parents married | 8 February 1961, **Belmont Circle, Uniontown** ([[wiki/places/117-belmont-circle]]); announced in the *Pittsburgh Post-Gazette*, 3 September 1961 |
 | Married | [[wiki/people/rick-frank|Richard Harrison Frank]] (b. 22 May 1959), **31 August 1985** |
 | Children | Dan (b. 1 Nov 1988, Uniontown); [[wiki/people/vanessa-frank|Vanessa]] (b. 16 Jan 1994, Greensburg) |
@@ -504,11 +507,11 @@ unconditional guarantee and an itemised bill, in the same paragraph, from the
 same person, meant equally.
 
 > **GAP CLOSED [2026-08-18]:** The previous version of this page listed as its
-> first gap: *"Her own perspective on the 2005 rupture is undocumented — the
-> corpus view is entirely Dan-side."* The 2005 rupture specifically remains
+> first gap: *"Her own perspective on the 2005 rupture is undocumented — the*
+> *corpus view is entirely Dan-side."* The 2005 rupture specifically remains
 > undocumented from her side. But the broader claim that the wiki holds no
-> first-person account of her own position was **wrong, and wrong by a wide
-> margin** — the July 2019 letter, the May 2018 letter about Fran below, and
+> first-person account of her own position was **wrong, and wrong by a wide**
+> **margin** — the July 2019 letter, the May 2018 letter about Fran below, and
 > several thousand other messages in her voice were in `raw/` the whole time.
 > The page was reasoning from summaries of her rather than from her.
 
@@ -526,9 +529,9 @@ reason the corpus has it:
 > be sold. I had to plan her memorial service by myself and basically handled
 > everything alone. One thing I can say is that anytime I had a decision to
 > make, I thought, what would Gram do? That made it easy because I probably
-> knew her better than anyone and I usually knew what she wanted. **She was the
-> one and only guiding force in my life. The one person who loved me
-> unconditionally** and I will live the rest of my life honoring her by doing
+> knew her better than anyone and I usually knew what she wanted. **She was the**
+> **one and only guiding force in my life. The one person who loved me**
+> **unconditionally** and I will live the rest of my life honoring her by doing
 > the things I know she would want me to do.
 
 That is the same generation-skipping attachment Dan describes, in the same
@@ -581,7 +584,7 @@ relationship in a clause.
 
 The rest are administrative and cumulatively establish the same thing — an
 appointment (*"I'm supposed to see Fred Adams at 2:00. Should I pick you up
-after?"*, 2018-09-04), unpaid utilities at Virginia Avenue to be recovered from
+after?"*, 2018-09-04), unpaid utilities at [[wiki/places/155-virginia-ave|Virginia Avenue]] to be recovered from
 him (2019-04-08), a party at his new place (2019-04-12), and his legal advice
 on a statute of limitations relayed to Dan two years earlier (2016-06-03). She
 is not adjacent to the estate machinery. She is inside it, without authority in
@@ -598,9 +601,9 @@ do and do not happen.
 > **CORRECTED [2026-08-18]:** This page dated her move from Coldwell Banker to
 > **Park Place Realty Group** to **2020**, and paired it with "her best sales
 > month on record." The move is documented a year earlier. On 28 September
-> 2019: *"Park Place Realty. It's a boutique agency that my buddy Barry
-> Crumrine started. He left Remax."* On 2 October 2019: *"Park place realty…
-> here I come!"* By 13 November 2019 Coldwell Banker had cut her access —
+> 2019: *"Park Place Realty. It's a boutique agency that my buddy Barry*
+> *Crumrine started. He left Remax."* On 2 October 2019: *"Park place realty…*
+> *here I come!"* By 13 November 2019 Coldwell Banker had cut her access —
 > *"Looks like he shut me down. Nice."* The strong month was **August 2020**,
 > ten months after the move and in the middle of the pandemic housing surge;
 > the two events are separated by most of a year, which weakens the causal
@@ -662,9 +665,9 @@ documented play ending in a documented stop — was not on this page at all.
 
 **Alcohol.**
 
-> **GAP CLOSED [2026-08-18]:** The previous version listed as a gap: *"The
-> 'wine mom' / evening-rhythm characterization is Dan's; no independent account
-> of her relationship to alcohol is on file."* An extensive account is on file,
+> **GAP CLOSED [2026-08-18]:** The previous version listed as a gap: *"The*
+> *'wine mom' / evening-rhythm characterization is Dan's; no independent account*
+> *of her relationship to alcohol is on file."* An extensive account is on file,
 > in her own messages, across every year of the corpus.
 
 Wine is a logistics category in this thread the way gas and cigarettes are. She
@@ -696,8 +699,7 @@ The wider role is as an ordinary participant in the local market. She buys weed
 and vape product from [[wiki/people/jim-vrabel|Jim Vrabel]] for a decade
 (*"Does Jim still have both liquid and leaves?"*; *"I'm out of 🌲🌲. Should I ask
 Jim?"*), and in 2015–16 she is a routine cocaine source for Dan and
-[[wiki/people/annie-ulmer|Annie]] — the [[wiki/timeline/annie-record|two-sided
-December 2015 record]] has him going to her house for it several times a week,
+[[wiki/people/annie-ulmer|Annie]] — the [[wiki/timeline/annie-record|two-sided December 2015 record]] has him going to her house for it several times a week,
 including *"Suz said she's getting her NYE zgurd at 1pm."* Her own comment on
 the world she had ended up inside, sent at 01:18 on 12 December 2015, is worth
 keeping whole:
@@ -709,8 +711,8 @@ keeping whole:
 > four-month 2016 contact who was *"speculative, not confirmed"* a partner of
 > Suz's. In this thread Felix appears continuously from January 2016 to June
 > 2026 — over a decade — in a role consistent with the bar-and-supply circuit
-> rather than a domestic one (*"Felix is here. He has some"*; *"Felix is looking
-> for $200"*; picked up from KJ's; owed $10). The partner reading is not
+> rather than a domestic one (*"Felix is here. He has some"*; *"Felix is looking*
+> *for $200"*; picked up from KJ's; owed $10). The partner reading is not
 > supported here. Recorded on that page as a revision.
 
 ## Brokering the switch, November–December 2015
@@ -725,8 +727,8 @@ reason she gives is that the name fits the family — *"I.e. Anne Dan Suzanne
 Fran Diane Van"* (13:48–13:49). Dan confirms in the same window that *"She
 srsly offered me a car last night."* At 05:02 the following morning:
 
-> **"Suz just came to check on me, brought me a line, and told me she'd get me
-> a car this week if I get Alexis out."**
+> **"Suz just came to check on me, brought me a line, and told me she'd get me**
+> **a car this week if I get Alexis out."**
 
 Read at face value, that is a mother arriving before dawn with cocaine and a
 vehicle conditional on completing an eviction. It is the earliest instance in
@@ -791,8 +793,8 @@ the wrong complex in the right corridor and is retired.)
 > **CORROBORATED [2026-08-18]:** This episode rested entirely on a single 2026
 > operator capture with no corroborating record. It now has one, from her, in
 > 2024, unprompted and in a different context — on 14 November 2024, listing her
-> losses: **"You have no idea how much money I lost between antique oaks and
-> Virginia Ave. I try not to think about it."** The name of the complex in her
+> losses: **"You have no idea how much money I lost between antique oaks and**
+> **Virginia Ave. I try not to think about it."** The name of the complex in her
 > own words, sixteen years after the purchase, is independent confirmation that
 > the property existed, that it was hers, and that it lost money. The
 > trafficking arrest remains uncorroborated.
@@ -826,8 +828,8 @@ was **overridden**, for five months, by her own son inside her own house.
 Whether she remained unaware the whole time or simply let it stand
 unaddressed is not established by the capture and is not resolved here.
 
-> **This sits alongside, and does not resolve, a second, differently-dated
-> account of a similarly-shaped episode.** [[wiki/legal/2015-possession-arrest]]
+> **This sits alongside, and does not resolve, a second, differently-dated**
+> **account of a similarly-shaped episode.** [[wiki/legal/2015-possession-arrest]]
 > and [[wiki/places/155-virginia-ave]] already carry an operator account of
 > Alexis "secretly living at 337 Saratoga... hidden for roughly four months
 > after being thrown out," placed immediately before the January 2015 lease
@@ -841,8 +843,7 @@ unaddressed is not established by the capture and is not resolved here.
 
 Dan returned to 337 Saratoga on 22 February 2025 after six years in Manhattan,
 into a house that had already been listed once. The
-[[wiki/timeline/periods/feb-apr-2025-return-and-rupture|spring 2025 listing
-attempt]] and the $615,000 May 2025 ask both precede the eventual 2026 sale by
+[[wiki/timeline/periods/feb-apr-2025-return-and-rupture|spring 2025 listing attempt]] and the $615,000 May 2025 ask both precede the eventual 2026 sale by
 a full year; the house went through at least two listing attempts and one
 failed contract before the Delverm agreement.
 
@@ -987,8 +988,8 @@ product of the 2020 turn, not a precondition of it.
 
 ## Message corpus
 
-> **CORRECTED [2026-08-18]:** This page previously reported *"Messages (master
-> dump) | 2,391 — rank ~8–10."* The true figure is **33,698 — rank 2**, an
+> **CORRECTED [2026-08-18]:** This page previously reported *"Messages (master*
+> *dump) | 2,391 — rank ~8–10."* The true figure is **33,698 — rank 2**, an
 > undercount by a factor of fourteen. The old number came from
 > `MASTER_MESSAGES_DB_DUMP.csv`, which `EXTRACTION_SPEC.md` flags as
 > direction-unreliable and which is also badly incomplete for this thread. The
@@ -1002,7 +1003,7 @@ product of the 2020 turn, not a precondition of it.
 | Total messages | **33,698** |
 | Direction | 18,871 from Suz · 14,827 from Dan |
 | Span | 2015-11-17 → 2026-08-11 (10 yr 9 mo) |
-| Rank among all contacts | **2nd**, behind Annie (119,405 across four handles); ahead of Kristin (20,009), and 3.7× the next non-Annie handle inside the dump |
+| Rank among all contacts | **2nd**, behind [[wiki/people/annie-ulmer|Annie]] (119,405 across four handles); ahead of [[wiki/people/kristin|Kristin]] (20,009), and 3.7× the next non-Annie handle inside the dump |
 | Handles | +172\*\*\*\*8715 · suzfrank@\*\*\*.net · suzfrank915@\*\*\*.com |
 | Mean message length | Suz 49.4 chars · Dan 46.8 |
 | Peak day | 2024-06-27 (224 messages — the first Biden–Trump debate) |
@@ -1031,7 +1032,7 @@ every year but two** — the exceptions are 2015 and 2016, the relationship's
 first fourteen months — and the gap widens steadily after 2018 until she is
 writing two messages for each of his; [[wiki/mind/synthesis/annual-volume-suz]]
 charts the reversal and the widening as a single series. And
-**2018 is the peak on both sides**: the year Fran died, the year of the
+**2018 is the peak on both sides**: the year [[wiki/people/fran-coldren|Fran]] died, the year of the
 $14,000, the year the estate was pending and neither of them had any money.
 
 ## Timeline
@@ -1043,14 +1044,14 @@ $14,000, the year the estate was pending and neither of them had any money.
 | 1985-08-31 | Marries Richard Harrison Frank |
 | 1988-11-01 | Dan born, Uniontown |
 | 1994-01-16 | Vanessa born, Greensburg |
-| 1996 | Family builds 337 Saratoga Drive |
-| ~2004–2005 | Affair surfaces during Rick's treatment; separation — the parental rupture (Dan-side account) |
-| late 1970s/early 1980s | Dated Annie Ulmer's father in high school (per DANSYNTH, operator-sourced) |
+| 1996 | Family builds [[wiki/places/337-saratoga-drive|337 Saratoga Drive]] |
+| ~2004–2005 | Affair surfaces during [[wiki/people/rick-frank|Rick]]'s treatment; separation — the parental rupture (Dan-side account) |
+| late 1970s/early 1980s | Dated [[wiki/people/annie-ulmer|Annie]] Ulmer's father in high school (per DANSYNTH, operator-sourced) |
 | 2008-09 | Buys the Winter Park FL condo (2924 Antique Oaks Circle) as Dan starts Full Sail |
 | 2015-11-17 | First message in the corpus |
 | 2015-11-29/30 | Promotes the Annie match; the car-for-eviction conditional |
 | 2017 | Poverty floor on both sides; the "Jackson Pollock painting" message |
-| 2018-04 | Fran dies; handles the estate, memorial and house clearance alone |
+| 2018-04 | [[wiki/people/fran-coldren|Fran]] dies; handles the estate, memorial and house clearance alone |
 | 2018-08/10 | The ~$14,000 from Dan; the itemised-ledger message |
 | 2019-06/07 | *"I'm begging you to please help me out"*; the 3 July ledger fight |
 | 2019-10 | Leaves Coldwell Banker for Park Place Realty Group |
@@ -1073,7 +1074,7 @@ $14,000, the year the estate was pending and neither of them had any money.
 
 ## August 2026 — targeted again, and shielded
 
-Fifteen days after Annie walked to the house and apologised to her in person
+Fifteen days after [[wiki/people/annie-ulmer|Annie]] walked to the house and apologised to her in person
 for the first harassment campaign, [[wiki/people/jerel-coles|Coles]] resumed:
 on the night of 2026-08-16 he called and texted her repeatedly from Annie's
 phone, and on 2026-08-17 at 12:48 he wrote to Dan directly, *"I have stuff to
@@ -1084,9 +1085,9 @@ with."*
 
 She received none of it. Dan reveals why on August 17 at 16:15:
 
-> *"you got lucky. I was so worried that you were going to betray me again
-> after Saturday's night that I blocked your number from my moms phone just in
-> case that happened. So she never actually got the calls or texts."*
+> *"you got lucky. I was so worried that you were going to betray me again*
+> *after Saturday's night that I blocked your number from my moms phone just in*
+> *case that happened. So she never actually got the calls or texts."*
 
 This is worth recording precisely because the wiki's account of that
 relationship is so heavily weighted toward extraction and friction. Dan

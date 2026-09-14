@@ -1,0 +1,90 @@
+{
+ "thread": {
+  "name": "Kristin Shaelene",
+  "folder": "PENDING",
+  "type": "ONE_TO_ONE",
+  "other_id": "61570728572359"
+ },
+ "messages": [
+  {
+   "attachments": null,
+   "body": "What’s up you piece of shit?",
+   "is_e2ee": false,
+   "message_id": "mid.$cAAA3_6_G_XOmcHbh-GgPzF0vWnVg",
+   "message_sent_at": {
+    "user_local": "2026-08-26T13:50:10.424-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-08-26T17:50:10.424Z"
+   },
+   "reactions": [],
+   "sender_id": "61570728572359",
+   "sender_name": "Kristin Shaelene",
+   "sender_nickname": null,
+   "timestamp": 1787766610424
+  },
+  {
+   "attachments": null,
+   "body": "Long time no talk my fellow neuro fuck",
+   "is_e2ee": false,
+   "message_id": "mid.$cAAA3_6_G_XOmcHdBY2gPzH2i80eE",
+   "message_sent_at": {
+    "user_local": "2026-08-26T13:50:34.851-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-08-26T17:50:34.851Z"
+   },
+   "reactions": [],
+   "sender_id": "61570728572359",
+   "sender_name": "Kristin Shaelene",
+   "sender_nickname": null,
+   "timestamp": 1787766634851
+  },
+  {
+   "attachments": null,
+   "body": "You missed a call from Kristin.",
+   "is_e2ee": false,
+   "message_id": "mid.$cAAA3_6_G_XOmcSnXUmgP-SL7BV8s",
+   "message_sent_at": {
+    "user_local": "2026-08-26T17:05:38.642-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-08-26T21:05:38.642Z"
+   },
+   "reactions": [],
+   "sender_id": "61570728572359",
+   "sender_name": "Kristin Shaelene",
+   "sender_nickname": null,
+   "timestamp": 1787778338642
+  },
+  {
+   "attachments": null,
+   "body": "Fag",
+   "is_e2ee": false,
+   "message_id": "mid.$cAAA3_6_G_XOmcSn4WmgP-SrGSkCm",
+   "message_sent_at": {
+    "user_local": "2026-08-26T17:05:47.098-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-08-26T21:05:47.098Z"
+   },
+   "reactions": [],
+   "sender_id": "61570728572359",
+   "sender_name": "Kristin Shaelene",
+   "sender_nickname": null,
+   "timestamp": 1787778347098
+  },
+  {
+   "attachments": null,
+   "body": "Ew lol",
+   "is_e2ee": false,
+   "message_id": "mid.$cAAA3_6_G_XOmcXFUW2gQCwIAIpvN",
+   "message_sent_at": {
+    "user_local": "2026-08-26T18:23:43.707-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-08-26T22:23:43.707Z"
+   },
+   "reactions": [],
+   "sender_id": "61570728572359",
+   "sender_name": "Kristin Shaelene",
+   "sender_nickname": null,
+   "timestamp": 1787783023707
+  }
+ ]
+}

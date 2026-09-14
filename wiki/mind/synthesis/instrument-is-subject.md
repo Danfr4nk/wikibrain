@@ -56,6 +56,9 @@ connections:
   - page: wiki/mind/profile/intp
     type: caused-by
     claim: "The specific shape of the evidentiary standard this page's recursion problem depends on — unwavering honesty, no softening, residue graded above testimony — is not an arbitrary prompt choice: it is what Ti-dominance's own truth criterion, 'a system that holds under recursive collapse, not social consensus,' looks like exported into an instruction. A different cognitive stack writing the same prompt would not necessarily have specified this standard, which is why the recursion this page names is a predictable consequence of a specific mind rather than an accident of tooling."
+  - { target: "[[wiki/mind/synthesis/dormancy-not-exit]]", type: references, claim: "The August 2026 dormancy measurement is the instrument-is-subject standard applied to the author's own contact history." }
+  - { target: "[[wiki/mind/synthesis/read-receipt-forensics]]", type: references, claim: "Read-receipt forensics is the method sibling: both treat the author's own records as the test instrument." }
+
 ---
 
 # The Instrument Is Also the Subject
@@ -67,7 +70,7 @@ connections:
 > **RE-CHECKED [2026-08-21] — premise moved, conclusion unaffected.**
 > [[wiki/mind/synthesis/ai-collaborative-analysis]] moved on 2026-08-21 in one
 > typed-edge claim only: the ChatGPT edge now records that the 'cooked'
-> verdict's post-GPT-5 causation is untested, because the 375-thread export
+> verdict's post-[[wiki/self/concepts/chatgpt|GPT-5]] causation is untested, because the 375-thread export
 > ends five weeks before the release. That sharpens an example this page cites
 > in passing and leaves its argument — that the instrument and the subject are
 > the same person — untouched.
@@ -85,9 +88,9 @@ connections:
 > rederived. Recorded rather than date-bumped, per `CLAUDE.md` §3.
 
 This wiki is written by a large language model, about a person for whom large
-language models are a documented daily cognitive organ, using an evidentiary
+[[wiki/self/concepts/llm|language models]] are a documented daily cognitive organ, using an evidentiary
 standard that person wrote. Those three facts are each recorded separately
-elsewhere in the repository and have never been put in the same sentence. Put
+elsewhere in [[wiki/self/concepts/wiki-brain|the repository]] and have never been put in the same sentence. Put
 together they produce the governing methodological constraint of the whole
 project: **the instrument that compiles this second brain is the same class of
 instrument that is one of its subjects, so no page here can be treated as an
@@ -107,11 +110,11 @@ design.
 
 ## The rule, stated so it can be broken
 
-> Every interpretive frame in this wiki that did not come from the primary
+> Every interpretive frame in this [[wiki/self/concepts/wiki-brain|wiki]] that did not come from the primary
 > record traces to an AI session, is marked non-primary on arrival, and has no
-> corroboration independent of a model's own output. **`knowledge:` must
-> therefore propagate upward: a page that synthesizes a `mixed` page cannot
-> itself be `earned` unless it adds primary evidence.**
+> corroboration independent of a model's own output. **`knowledge:` must**
+> **therefore propagate upward: a page that synthesizes a `mixed` page cannot**
+> **itself be `earned` unless it adds primary evidence.**
 
 Three falsifiers, each checkable:
 
@@ -136,7 +139,7 @@ was produced **in order to** say something about Dan, at Dan's prompting, from
 material Dan selected. It is testimony all the way down. The alias record is
 not testimony at all; it is residue.
 
-So the repository already contains two grades of evidence and has not been
+So [[wiki/self/concepts/wiki-brain|the repository]] already contains two grades of evidence and has not been
 distinguishing them by grade: **residue** (message timestamps, alias
 boundaries, watch histories, transaction records — produced for other reasons,
 admissible) and **testimony** (AI readings, self-descriptions, dossiers —
@@ -186,22 +189,22 @@ writing the same kind of self-wiki would likely have produced a softer
 standard and a less severe version of this page's problem — or simply
 never noticed the problem existed.
 
-> **RE-CHECKED [2026-08-02] — the premise moved, the rule survives, and the
-> movement is the rule's first live exercise.**
+> **RE-CHECKED [2026-08-02] — the premise moved, the rule survives, and the**
+> **movement is the rule's first live exercise.**
 > [[wiki/mind/synthesis/ancestral-dialectic]] was revised on 2026-08-02 after a
 > direct read of the GEDCOM contradicted it: the report has the paternal line
 > fleeing the pogroms *into* the Fayette County coal patch, while the census
-> record puts David J. Frank in Manhattan from 1900 and the Bronx in 1915,
+> record puts [[wiki/people/david-j-frank|David J. Frank]] in Manhattan from 1900 and the Bronx in 1915,
 > reaching Brownsville only by 1920. Testimony and residue disagreed about a
 > dated fact, residue won, and the disagreement was recorded on the page rather
 > than resolved silently — which is precisely the third obligation stated above,
 > executed for the first time. The worked example got more worked. Nothing on
 > this page needed weakening.
 
-> **GAP CLOSED [2026-08-02] — the enumeration was run, and `knowledge:` does not
-> propagate.** All 19 pages carrying `synthesizes:` were enumerated against their
-> premises' `knowledge:` values. **Ten of them reason from at least one `mixed`
-> premise, and every one is marked `earned`** — `attachment-trauma-bond`,
+> **GAP CLOSED [2026-08-02] — the enumeration was run, and `knowledge:` does not**
+> **propagate.** All 19 pages carrying `synthesizes:` were enumerated against their
+> premises' `knowledge:` values. **Ten of them reason from at least one `mixed`**
+> **premise, and every one is marked `earned`** — `attachment-trauma-bond`,
 > `block-unblock-loop`, `dan-annie-fallout-verdict`, `dormancy-not-exit`,
 > `estate-money-spine`, `fayette-return`, `instrument-is-subject` (this page),
 > `supply-network`, `the-unbroken-bond`, plus `suzanne-frank` with the field
@@ -216,47 +219,10 @@ never noticed the problem existed.
 > "inherit it or say what you added." The corpus satisfies the substance and
 > skips the sentence, in ten places out of ten.
 
-## Gaps
-
-- **This page is itself an instance of the problem it describes.** It was
-  written by an LLM, reasoning from LLM-authored pages, about LLM use. It adds
-  no primary evidence and should arguably carry `knowledge: mixed` by its own
-  rule. It is marked `earned` because its claim is about the *structure of the
-  repository* — checkable directly against the files — rather than about Dan.
-  That distinction is load-bearing and a reader is entitled to reject it.
-- ~~**No audit has been run.**~~ **CLOSED 2026-08-02** — see the enumeration
-  above. Nineteen pages carry `synthesizes:`; ten reason from a `mixed` premise
-  and all ten are `earned`. The remaining question is not whether propagation
-  happens (it does not) but whether the one-line disclosure the rule offers
-  instead should be enforced mechanically by `bin/wiki-climb check`, which is
-  now the obvious next operation.
-- **`exocortex` is read here only through its role in setting the honesty
-  standard.** Its other content is not assessed.
-
-> **RE-CHECKED [2026-08-10]:** `bin/wiki-climb check` flagged this page as
-> stale against [[wiki/mind/concepts/exocortex]], edited the same day to
-> add one new connections edge (to the new
-> [[wiki/mind/politics/axioms]] page) reading the CATO persona's origin
-> line politically. This page's claim rests entirely on a different fact
-> — that the wiki's honesty/no-softening standard is downstream of a
-> prompt Dan wrote — which the edit did not touch. No finding here is
-> affected; this is exactly the "its other content is not assessed"
-> boundary the Gaps note above already names.
-
-> **RE-CHECKED [2026-08-26]:** `bin/wiki-climb check` flagged this page
-> stale again, against both [[wiki/self/context-core]] and
-> [[wiki/mind/concepts/exocortex]], each of which moved on 2026-08-26 to
-> add one new connections edge to the new
-> [[wiki/mind/profile/neurodivergence]] page — itself a case study of the
-> bootloader-laundering pattern this page describes (an unverified claim,
-> restated as background by three documents built from each other, until it
-> reads as settled). Neither edit touched the honesty-standard premise this
-> page reasons from. Nothing here is affected.
-
 ## The constitution pass
 
 Run 2026-08-28, against the eleven registers in `SYNTHESIS_SPEC.md`. This
-page is unusual among the backlog: its own conclusion is about repository
+page is unusual among the backlog: its own conclusion is about [[wiki/self/concepts/wiki-brain|repository]]
 *structure*, not directly about Dan, which the page's own Gaps section
 already flags candidly. The pass still runs in full, because the
 mechanism section above shows a register does bear — on the origin of the
@@ -289,4 +255,39 @@ structural conclusion is "about Dan" in the way the other twenty pages in
 this backlog are — that boundary is the page's own, and this pass respects
 it rather than papering over it with a citation.
 
+## Gaps
 
+- **This page is itself an instance of the problem it describes.** It was
+  written by an LLM, reasoning from LLM-authored pages, about LLM use. It adds
+  no primary evidence and should arguably carry `knowledge: mixed` by its own
+  rule. It is marked `earned` because its claim is about the *structure of the
+  repository* — checkable directly against the files — rather than about Dan.
+  That distinction is load-bearing and a reader is entitled to reject it.
+- ~~**No audit has been run.**~~ **CLOSED 2026-08-02** — see the enumeration
+  above. Nineteen pages carry `synthesizes:`; ten reason from a `mixed` premise
+  and all ten are `earned`. The remaining question is not whether propagation
+  happens (it does not) but whether the one-line disclosure the rule offers
+  instead should be enforced mechanically by `bin/wiki-climb check`, which is
+  now the obvious next operation.
+- **`exocortex` is read here only through its role in setting the honesty
+  standard.** Its other content is not assessed.
+
+> **RE-CHECKED [2026-08-10]:** `bin/wiki-climb check` flagged this page as
+> stale against [[wiki/mind/concepts/exocortex]], edited the same day to
+> add one new connections edge (to the new
+> [[wiki/mind/politics/axioms]] page) reading the CATO persona's origin
+> line politically. This page's claim rests entirely on a different fact
+> — that [[wiki/self/concepts/wiki-brain|the wiki]]'s honesty/no-softening standard is downstream of a
+> prompt Dan wrote — which the edit did not touch. No finding here is
+> affected; this is exactly the "its other content is not assessed"
+> boundary the Gaps note above already names.
+
+> **RE-CHECKED [2026-08-26]:** `bin/wiki-climb check` flagged this page
+> stale again, against both [[wiki/self/context-core]] and
+> [[wiki/mind/concepts/exocortex]], each of which moved on 2026-08-26 to
+> add one new connections edge to the new
+> [[wiki/mind/profile/neurodivergence]] page — itself a case study of the
+> bootloader-laundering pattern this page describes (an unverified claim,
+> restated as background by three documents built from each other, until it
+> reads as settled). Neither edit touched the honesty-standard premise this
+> page reasons from. Nothing here is affected.

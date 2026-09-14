@@ -136,26 +136,26 @@ Sixteen unbroken years followed on the maintenance dose itself: no relapse
 back to full opiate use, and no recovery-program participation anywhere in
 the record.
 
-> **The day-zero date changed footing on 2026-09-03, and the conclusion did
-> not move.** This page has cited 17 February 2010 as "day-zero pinned" since
+> **The day-zero date changed footing on 2026-09-03, and the conclusion did**
+> **not move.** This page has cited 17 February 2010 as "day-zero pinned" since
 > it was written. Its actual origin is `raw/self/dox-scan/Gemini-_58.txt`,
 > where a model told Dan that he and his father *"boarded an Amtrak train"* to
-> Penn Station on Thursday 18 February, and Dan replied: *"NO no - if the train
-> left on feb 18 that means that the first day i began my successful suboxone
-> streak was feb 17, 2010."* **The date was computed, not recalled** — the day
+> Penn Station on Thursday 18 February, and Dan replied: *"NO no - if the train*
+> *left on feb 18 that means that the first day i began my successful suboxone*
+> *streak was feb 17, 2010."* **The date was computed, not recalled** — the day
 > before a train — and the anchor came from a model reading email logs.
 >
 > **That anchor is wrong.** `wiki/self/twitter/2010` shows the 18 February
-> train running the other way: on the 17th he is already in New York (*"off to
-> Williamsburg"*) and on the 18th he is *"On the train back to PA."* The
+> train running the other way: on the 17th he is already in New York (*"off to*
+> *Williamsburg"*) and on the 18th he is *"On the train back to PA."* The
 > arithmetic behind the corpus's most-cited date does not hold.
 >
 > **The date survives on better evidence than the reasoning that produced it.**
 > 17 February 2010 carries a contemporaneous tweet at 15:07 New York time —
-> *"this is the most stressful day/decision of my life. nothing is making it
-> easier."* — followed within seventy-two hours by *"planning the next 3 years
-> of my life all day in muh head"* and *"put my life on a treadmill. shape up
-> or bust."* The obvious alternative referent is excluded: the Brooklyn move
+> *"this is the most stressful day/decision of my life. nothing is making it*
+> *easier."* — followed within seventy-two hours by *"planning the next 3 years*
+> *of my life all day in muh head"* and *"put my life on a treadmill. shape up*
+> *or bust."* The obvious alternative referent is excluded: the Brooklyn move
 > had been decided and celebrated on 26 January and is described as good news
 > either side of this day. He never names the decision, so this remains a dated
 > alignment rather than a proof — but it is first-party, same-day, and
@@ -166,8 +166,8 @@ the record.
 > otherwise re-derive the broken chain and reach the same answer for the wrong
 > reason.
 
-> **GAP CLOSED [2026-08-28] — the final pre-stabilization episode has a
-> name.** This page has always stated the February 17, 2010 day-zero without
+> **GAP CLOSED [2026-08-28] — the final pre-stabilization episode has a**
+> **name.** This page has always stated the February 17, 2010 day-zero without
 > naming what the last active-use episode before it was. A 2026-08-27
 > operator capture (`raw/people/captures/2026-08-27_222932_gap-alexis-armel.md`)
 > supplies it: [[wiki/people/alexis-armel|Alexis]] enters the record over
@@ -393,18 +393,18 @@ has no third-party data.
 > anywhere in 17 years of messages." A term census over the full dump finds
 > `dentist` 13 times outbound and `doctor` 36, and both matter.
 >
-> **Dental care exists.** 2017-10-09: *"went back to the dentist today and i've
-> got a lot of work to get done. all those years of being a delinquent junkie
-> catching up to me."* 2017-11-30, a post-surgical follow-up: *"When I went back
-> for a 1wk checkup on the second, they noticed a hole that hadn't yet begun to
-> develop tissue so they put in a membrane and restitched it."* Further
+> **Dental care exists.** 2017-10-09: *"went back to the dentist today and i've*
+> *got a lot of work to get done. all those years of being a delinquent junkie*
+> *catching up to me."* 2017-11-30, a post-surgical follow-up: *"When I went back*
+> *for a 1wk checkup on the second, they noticed a hole that hadn't yet begun to*
+> *develop tissue so they put in a membrane and restitched it."* Further
 > appointments in 2020 and 2024. The care is **episodic and reactive** rather
 > than absent, which also contradicts Dan's own 2025 account on
 > [[wiki/health/hyperreflexivity]] — *"terrified of dentist (aka haven't gone)."*
 >
-> **A prescriber exists.** 2025-03-06: *"I had my doctor move my prescription
-> here."* 2025-06-08: *"my doctor said the pharmacy won't fill an out of state
-> prescription."* 2019-05-31: *"try to go get subs from my old doctor."* The
+> **A prescriber exists.** 2025-03-06: *"I had my doctor move my prescription*
+> *here."* 2025-06-08: *"my doctor said the pharmacy won't fill an out of state*
+> *prescription."* 2019-05-31: *"try to go get subs from my old doctor."* The
 > regimen is prescribed, at least at these points. Every recorded exchange about
 > that doctor concerns moving a script between pharmacies and none concerns a
 > dose, a taper or a review — the one standing medical relationship in the

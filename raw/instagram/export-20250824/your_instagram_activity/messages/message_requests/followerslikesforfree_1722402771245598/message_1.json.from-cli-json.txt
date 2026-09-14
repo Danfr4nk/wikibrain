@@ -1,0 +1,50 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1115 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "joinable_mode": {
+    "link": "",
+    "mode": 1
+  },
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Instagram User sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "share": {
+        "link": "https://instapromoter.org/home/choosepack/?utm_campaign=khusbuzz&l_id=6",
+        "share_text": "InstaPromoter is your source for automatic Instagram followers. We instantly send real follows from real users!"
+      },
+      "timestamp_ms": 1591582292562
+    }
+  ],
+  "participants": [
+    {
+      "name": "Crossroads Homecare"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "G$"
+    },
+    {
+      "name": "Dan Frank"
+    },
+    {
+      "name": "shadymecca"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:28:17.696-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:28:17.696Z"
+  },
+  "thread_path": "message_requests/followerslikesforfree_1722402771245598",
+  "title": "FOLLOWERS & LIKES FOR FREEð¥ð¥ð¥"
+}

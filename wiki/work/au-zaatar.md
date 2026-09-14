@@ -284,8 +284,8 @@ Locating the originals is an open collection task.
 > Za'atar **Midtown, 58th & 1st** — not the East Village flagship), fixed
 > the start month (March 2021), and supplied the ending (August 2024 shed
 > shutdown). Second correction, refined same day by the Part 1 STORYTIME:
-> Annie worked as hostess at Au Za'atar's **original East Village
-> location** — Dan got her the job a month after he started (~April 2021).
+> Annie worked as hostess at Au Za'atar's **original East Village**
+> **location** — Dan got her the job a month after he started (~April 2021).
 > Her later zero-notice firing was from that separate location ("the
 > restaurants ran totally differently and with different people"), not
 > from the Midtown shed.

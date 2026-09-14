@@ -1,0 +1,67 @@
+{
+  "retrieved_at": {
+    "user_local": "2026-09-11T23:59:36.091-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-12T03:59:36.091Z"
+  },
+  "timelineObjects": [
+    {
+      "placeVisit": {
+        "centerLatE7": 398879475,
+        "centerLngE7": -797224525,
+        "duration": {
+          "endTimestamp": "2016-02-25T19:25:59Z",
+          "startTimestamp": "2016-02-25T04:32:02.662Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "155 Virginia Ave, Uniontown, Pennsylvania 15401-4716, United States",
+          "latitudeE7": 398872873,
+          "locationConfidence": 90.58082,
+          "longitudeE7": -797222361,
+          "placeId": "ChIJGXB6W8k_NYgRJlgyLmQUJU0",
+          "sourceInfo": {
+            "deviceTag": -804892115
+          }
+        },
+        "locationConfidence": 80,
+        "otherCandidateLocations": [
+          {
+            "address": "22 1st Leith St, Uniontown, PA 15401, USA",
+            "latitudeE7": 398893833,
+            "locationConfidence": 3.4863524,
+            "longitudeE7": -797206844,
+            "name": "Houck Dance Studio",
+            "placeId": "ChIJpf2ztss_NYgReAOX5GVX9n8"
+          },
+          {
+            "latitudeE7": 398901786,
+            "locationConfidence": 2.8138642,
+            "longitudeE7": -797233670,
+            "name": "Brower Engineering LLC",
+            "placeId": "ChIJeYp0ecw_NYgRR2SCfNbtsQ8"
+          },
+          {
+            "address": "61 Leith St, Uniontown, PA 15401, USA",
+            "latitudeE7": 398884331,
+            "locationConfidence": 1.789811,
+            "longitudeE7": -797209562,
+            "name": "Stephens Flagging LLC",
+            "placeId": "ChIJC4AU3ps-NYgRyXWMSQO1zxs"
+          },
+          {
+            "address": "Uniontown, PA 15401, USA",
+            "latitudeE7": 398875760,
+            "locationConfidence": 1.3291534,
+            "longitudeE7": -797203221,
+            "name": "Hope Chapel",
+            "placeId": "ChIJBdrSgck_NYgR0GPPGwZVy-0"
+          }
+        ],
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 47
+      }
+    }
+  ]
+}

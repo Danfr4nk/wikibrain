@@ -86,8 +86,8 @@ handles — `+17244346811` (2015-11 → 2018-12), `+17249204125` (2018-12 →
 | 2020-11 → 2024-12 | **empty — 5 messages in four years** |
 | 2025-03 → 2026-06-05 | **dense** — the collapse and closure |
 
-> **The 2020–2024 hole is a hole in the record, not a quiet period in the
-> relationship.** Four years of a ten-year relationship have no surviving
+> **The 2020–2024 hole is a hole in the record, not a quiet period in the**
+> **relationship.** Four years of a ten-year relationship have no surviving
 > two-sided message data in any export in `raw/`. Nothing on this page should be
 > read as evidence that little happened then, and no synthesis built on this
 > page may treat the gap as an observation. (Per `EXTRACTION_SPEC.md`: a zero is

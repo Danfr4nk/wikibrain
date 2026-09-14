@@ -1,0 +1,13 @@
++++
+id            = "dat:0891-deviance-audit-structure-and-boundary"
+layer         = 1
+type          = "datum"
+title         = "Deviance audit (Aug 2025): domain scores, top-10 outliers, and the two-claims-survive boundary"
+claim         = "wiki/mind/profile/deviance-mapping.md (created 2026-07-13) describes a self-commissioned \"Level 5 / Psycho-Structural Deviance Audit\" run in **August 2025**, measuring Dan's life against a normative baseline (35-year-old American male, some college, ISTJ/ESTJ-typical, values stability, social drinking, 2–3 lifetime relationships), delivered at 92% stated confidence with the verdict \"a living edge case.\" Domain scores: Substance use 99, Cognitive habits 98, Linguistic style 97, Personality traits 95, Values/motivations 92, Relationships 88, Emotional processing 85. Top outliers include engineered poly-substance dependence (99), recursive self-analysis as life project (98), hyper-specific linguistic style (97), the intellect/impulsivity paradox (95), and \"Mythology of Ruin\" (80). The audit's own caveats: the baseline is a sketch, not a normed population; scores are single-model judgments with no inter-rater check; it predates the June 2026 closure and the 2026 work/housing shocks. **The boundary** (from wiki/mind/synthesis/failure-to-launch, cited on the page): exactly two claims survive independent recomputation against a real comparison population — relational concentration at 0.9601 (replicated on the held corpus at [`dat:0528`](0528-contact-gini-inbound-replication-2026-09-09.md) as 0.9556 inbound) and graded numeric confidence in casual text (re-derived at [`dat:0663`](0663-0665) wave) — and one of the two is a liability, not a skill. The rest of \"a living edge case\" is an instrument reasoning about its own commissioner. The page's GAP CLOSED [2026-08-22] — 170 first-person happiness claims across 106,629 sent messages (1.59/1k), concentrated at 7.86/1k in the first five weeks of the Annie relationship — is carried at [`dat:0024`](0024-old-wiki-happiness-counter-measure.md), which covers the same measure across 2015–2020 with identical five-week window figures."
+cites         = ["src:old-wiki-export-2026-09-04"]
+attributed_to = "src:old-wiki-export-2026-09-04"
+confidence    = "moderate"
+extraction    = "Page body read from corpus__3.txt line 24919 (209 lines); matches raw/old-wiki-export-2026-09-04/whole.txt. The audit's source dossiers (raw/self/sage/, raw/self/dox-scan/ANALYSIS_ SOCIAL DEVIANCES.rtf, OMNI_FORENSIC_DOSSIER.md, BIBI_PERSONALITY_DECONSTRUCTION.md) are not held in raw/ on disk; the entire audit is AI-generated testimony about a self-supplied corpus."
+importance    = 4
+tags          = ["psychometrics", "deviance", "old-wiki", "testimony"]
++++

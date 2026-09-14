@@ -1,0 +1,143 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 3012 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "joinable_mode": {
+    "link": "",
+    "mode": 1
+  },
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "raph.wdg left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "raph.wdg",
+      "timestamp_ms": 1561457312948
+    },
+    {
+      "content": "Instagram User sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "share": {
+        "link": "http://xxshots.com/lieben2",
+        "share_text": "ââ§Finde mich auf der Seite, ich bin jetzt online. Dieses Video ist nach der Registrierung verfÃ¼gbar.â§â"
+      },
+      "timestamp_ms": 1561424987992
+    },
+    {
+      "content": "A contact added you and 25 others to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1561424976777
+    },
+    {
+      "content": "A contact named the group meine fotos und videos.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1561424974728
+    }
+  ],
+  "participants": [
+    {
+      "name": "Anninha malcher"
+    },
+    {
+      "name": "Laura von Atzingen"
+    },
+    {
+      "name": "Anita ð"
+    },
+    {
+      "name": "Elisa Himmelstein"
+    },
+    {
+      "name": "Kennie Fogtmann"
+    },
+    {
+      "name": "Evy de Bousser"
+    },
+    {
+      "name": "Once Janeiro"
+    },
+    {
+      "name": "Esther Cristina Ipda"
+    },
+    {
+      "name": "Heather"
+    },
+    {
+      "name": "James Syring"
+    },
+    {
+      "name": "kissel tell em"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Shaun van der Berg"
+    },
+    {
+      "name": "Timothy Kunkel"
+    },
+    {
+      "name": "Hannah Roko"
+    },
+    {
+      "name": "Alex Eichenmuller"
+    },
+    {
+      "name": "_Theworldoftuning"
+    },
+    {
+      "name": "David Lima"
+    },
+    {
+      "name": "CYCLING IN THE WORLD"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    },
+    {
+      "name": "Fart Dookie Master"
+    },
+    {
+      "name": "JÃºlia Oliveira ð¤"
+    },
+    {
+      "name": "Matt Walker"
+    },
+    {
+      "name": "Thomas Kleiner"
+    },
+    {
+      "name": "Ð¡Ð°ÑÐ° Ð¡Ð¾Ð±Ð¾Ð»"
+    },
+    {
+      "name": "Manning"
+    },
+    {
+      "name": "Jonathan Muller"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Jo Reising"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:25:13.474-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:25:13.474Z"
+  },
+  "thread_path": "message_requests/meinefotosundvideos_2729194763759622",
+  "title": "meine fotos und videos"
+}

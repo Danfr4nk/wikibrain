@@ -222,8 +222,8 @@ summer of 2018 he had somewhere else to be, one lot away, and he was using
 it.
 
 > **UPDATE [2026-08-22]:** The notice's outcome is now partly recorded, and it
-> points at a *different* house. A Fayette County summons filed **April 5,
-> 2018** — seven days after the notice — gives Dan's address as
+> points at a *different* house. A Fayette County summons filed **April 5,**
+> **2018** — seven days after the notice — gives Dan's address as
 > **337 Saratoga Drive** ([[wiki/timeline/events/uniontown-hospital-vape-alarm]]).
 > So there were two somewheres, not one: this house was where he *was* across
 > that spring, by his own texts, and [[wiki/places/337-saratoga-drive|337
@@ -254,9 +254,9 @@ It closed in **summer 2019** for **$250,000** — operator testimony, and the
 only account of the closing that exists. The pending status Danny reported on
 July 11 held; the "second time's a charm" listing was the one that completed.
 
-> **GAP CLOSED [2026-08-27]:** the page previously said *"whether the sale
-> actually closed, when, to whom and for how much is undocumented; the record
-> stops at 'pending.'"* Two of those four are now answered — **when** (summer
+> **GAP CLOSED [2026-08-27]:** the page previously said *"whether the sale*
+> *actually closed, when, to whom and for how much is undocumented; the record*
+> *stops at 'pending.'"* Two of those four are now answered — **when** (summer
 > 2019) and **for how much** ($250,000). **To whom** remains unknown, and so
 > does whether the closing was the same transaction Danny reported pending
 > sixteen days earlier or a later one. Source:

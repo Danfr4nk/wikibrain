@@ -1,41 +1,55 @@
-# portal/ — harness prototype (probe)
+# portal/ — the wiki-brain harness
 
-A single-file static prototype of the wiki-brain portal, rebuilt in the visual
-language of the old `caakehorn/home` harness: marquee tickers, nine-tab bar,
-chaos meter, vibe panel, THE NET input.
-
-## What this is
-
-A **design probe**, not a deliverable. Dan hasn't decided the portal's direction
-yet, so this exists to be reacted to: keep the aesthetic, change it, or kill it.
+The visual language of the old `caakehorn/home` harness, rebuilt without the
+assets that got the old account banned: marquee tickers, nine-tab bar, chaos
+meter, vibe panel, THE NET input. Neon on black, monospace, scanlines,
+generative canvas abstraction only. No external assets, no fonts, no images.
 
 ## What's real
 
-- The **WIKI-BRAIN tab** is functional. It fetches `graph.json` from the live
-  Pages deployment (CORS is open) and renders a layer-filtered node browser
-  (L0–L5) with node detail: cites, tags, confidence, body excerpt, link out.
-- **THE NET** input live-filters the node browser. "Words caught before they
-  are understood" — the hook is real, the LLM side is not.
-- Tickers, chaos meter, vibe panel, void canvas: chrome. All inline, zero
-  external assets.
+All nine tabs are functional static tabs. Each tab lives in `tabs/<name>.js`
+and registers as `PortalTab_<name> = { html, css, init(root, G, FEEDS) }`.
+`portal/index.html` mounts them and lazy-inits each on first visit.
 
-## What's stubbed
+- **WIKI-BRAIN** — layer-filtered node browser (L0–L5) over graph.json; THE NET
+  live-filters it. The hook is real, the LLM side is not.
+- **SAGE** — retrieval console: keyword query scored over titles/tags/ids/bodies,
+  answers composed from matched nodes with node-ID citations and their "rests on"
+  trails. Banner says it plainly: RETRIEVAL ONLY, no LLM backend.
+- **WORDS** — lexicon of the *written wiki* (token frequencies over kb/ node
+  text — the message corpus is gitignored and unavailable at build time, and the
+  tab says so). Tag cloud + top tags, from `feeds/words.json` (built by
+  `bin/wb-feeds`).
+- **LATTICE** — canvas typed-edge explorer: focus-node + 2-hop neighborhood over
+  the citation backbone plus the sparse typed `derived_edges` (family, rel,
+  strength, basis, asserted_by on selection).
+- **LEVIATHAN** — full-text trawler over node titles/tags/bodies, ranked
+  title > tags > body, with match highlighting and query timing.
+- **GALLERY** — catalog over `media/registry.json` (copied to `feeds/gallery.json`
+  at build). Descriptions + outbound share links only; **no originals stored, no
+  media bytes fetched or embedded** — policy footer on the tab.
+- **TRANSCRIPT** — build log from `raw/*/EXTRACT.md` (`feeds/transcript.json`),
+  newest first. Batch dates come from `YYYYMMDD-HHMM` dir names; slug-style dirs
+  honestly show "date unknown".
+- **ARCADE** — three generative canvas chaos engines (particle storm, flow field,
+  cellular automaton). Zero external assets.
+- **TRANSMISSIONS** — findings feed from the 40 most recent kb datums
+  (`feeds/transmissions.json`), newest first, each citing its node ID.
 
-The other eight tabs (SAGE, WORDS, LATTICE, LEVIATHAN, GALLERY, TRANSCRIPT,
-ARCADE, TRANSMISSIONS) are labeled panels describing intent. Each maps to
-existing roadmap or tooling work; none is built here.
+## The build contract
+
+The portal reads **only built artifacts**, same-origin relative fetches:
+`../graph.json`, `../feeds/words.json`, `../feeds/transcript.json`,
+`../feeds/transmissions.json`, `../feeds/gallery.json`.
+
+`bin/wb-build` wires it in: runs `bin/wb-feeds --out site/`, copies
+`media/registry.json` → `site/feeds/gallery.json`, and copies `portal/` →
+`site/portal/`. `GRAPH_URL` is the relative `../graph.json` — there is no
+cross-origin dependency anymore.
 
 ## What's deliberately excluded
 
 The old harness's anime imagery. That's the likeliest reason GitHub deleted the
 entire `caakehorn` account, and re-shipping it on a new account risks the same
-outcome. The void canvas is generative abstraction — same energy, nothing
-flaggable.
-
-## Not part of the build
-
-`bin/wb-build` does not know about this directory, and it shouldn't until the
-direction is approved. If approved, the wiring decision is one line: copy
-`portal/` → `site/portal/` in the build, and switch `GRAPH_URL` to a relative
-path. Until then this file can be opened directly from disk (graph fetch still
-works — it's cross-origin against the live deployment).
+outcome. The void canvas and ARCADE are generative abstraction — same energy,
+nothing flaggable.

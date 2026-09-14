@@ -120,9 +120,9 @@ fracture in the Alexis timeline, immediately following the
 defines by opposition what Dan sought in Alexis before her and Annie
 after: a partner synced to his intensity.
 
-> **CORRECTED [2026-09-04]:** this paragraph ended *"There is no message corpus
-> for her — everything known arrives through Dan's later AI-session
-> narration."* There is still no message corpus. But "everything known" was
+> **CORRECTED [2026-09-04]:** this paragraph ended *"There is no message corpus*
+> *for her — everything known arrives through Dan's later AI-session*
+> *narration."* There is still no message corpus. But "everything known" was
 > wrong: the public twitter archive holds six dated posts across 21-31 August
 > 2013, including one from inside the Oddball show, and they are primary
 > contemporaneous evidence rather than narration. See the section above. The

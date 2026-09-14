@@ -1,0 +1,48 @@
+{
+ "batch": "20260912-1540",
+ "pulled_at_utc": "2026-09-12T15:52:00Z",
+ "origin": "4h scheduled pull: chat transcripts (all chats) + light external checks",
+ "watermark_from": {
+  "chats": "2026-09-12T11:40:36.166+00:00"
+ },
+ "watermark_to": {
+  "chats": "2026-09-12T15:40:12.033+00:00"
+ },
+ "counts": {
+  "assistant_messages": 4,
+  "user_messages": 0,
+  "system_rows_hashpinned": 272,
+  "instagram_new": 0,
+  "threads_new": 0,
+  "facebook_new": 0,
+  "messenger_new": 0,
+  "spotify_playlists": 20
+ },
+ "files": [
+  {
+   "file": "chats.json",
+   "sha256": "6360b516c57e4464a8472755b14a7b53129fe9d7ef926bc9109fb48b1ce4e34a",
+   "bytes": 3354
+  },
+  {
+   "file": "external_checks.json",
+   "sha256": "c2d75f11eaea765343bf4fe0d8205b5932a1923d92c9e7b1daac3d92e26beeb9",
+   "bytes": 1210
+  },
+  {
+   "file": "spotify-nowplaying.json",
+   "sha256": "0c622465166c2c8cb9201b755059ba327aba4d4d7b697d49db165a5d177e293c",
+   "bytes": 552
+  },
+  {
+   "file": "spotify-playlists.json",
+   "sha256": "41af9654ab085622864062151b8c6e09afe3cca96184dd883683e17599444342",
+   "bytes": 5912
+  },
+  {
+   "file": "system_manifest.json",
+   "sha256": "d576759274954c1fddd2695661dda7562418b36dfb2c426e9df047c9a6d9ef2f",
+   "bytes": 101997
+  }
+ ]
+}

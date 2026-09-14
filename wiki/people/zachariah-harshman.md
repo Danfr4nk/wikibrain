@@ -165,11 +165,11 @@ switch that cost him his other friendship — which is the part neither side of
 the December 23 exchange says out loud.
 
 > **ATTRIBUTION [2026-08-17]:** An earlier synthesis pass credited this page
-> with a 2015-12-09 confrontation — *"have you lost your damn mind"*, *"keep my
-> eyes open"*, *"he had his ex move out and you were there the next day. That
-> makes you look like shit and he's going to treat you like it"*, texted to
-> Annie. **That is [[wiki/people/zach-clingan|Zach Clingan]], a different
-> person** — the same two-Zachs confusion this page's own `zach-clingan` edge
+> with a 2015-12-09 confrontation — *"have you lost your damn mind"*, *"keep my*
+> *eyes open"*, *"he had his ex move out and you were there the next day. That*
+> *makes you look like shit and he's going to treat you like it"*, texted to
+> Annie. **That is [[wiki/people/zach-clingan|Zach Clingan]], a different**
+> **person** — the same two-Zachs confusion this page's own `zach-clingan` edge
 > already documents as a phone-book merge, recurring in a new place and in the
 > opposite direction. Nothing in the Annie corpus has Zachariah Harshman
 > contacting Annie directly. In the record the two are separated only by first

@@ -1,0 +1,12 @@
+{
+  "error": {
+    "code": 400,
+    "message": "this response is a file download and needs an explicit --output path in this environment",
+    "reason": "validationError"
+  },
+  "retrieved_at": {
+    "user_local": "2026-09-11T23:58:06.556-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-12T03:58:06.556Z"
+  }
+}

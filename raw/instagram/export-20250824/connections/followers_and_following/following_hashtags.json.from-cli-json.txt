@@ -1,0 +1,32 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 572 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "relationships_following_hashtags": [
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/traditionaltattoo",
+          "timestamp": 1656336691,
+          "value": "traditionaltattoo"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/auzaatar",
+          "timestamp": 1629282659,
+          "value": "auzaatar"
+        }
+      ],
+      "title": ""
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:22:32.105-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:22:32.105Z"
+  }
+}

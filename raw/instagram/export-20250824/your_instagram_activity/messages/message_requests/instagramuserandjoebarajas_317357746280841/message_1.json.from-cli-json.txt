@@ -1,0 +1,54 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1166 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "joinable_mode": {
+    "link": "",
+    "mode": 1
+  },
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "_adiixx_ left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "_adiixx_",
+      "timestamp_ms": 1610657428206
+    },
+    {
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "_adiixx_",
+      "timestamp_ms": 1610657357683
+    },
+    {
+      "content": "http://gosxx.online/FGrqv3rt",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "share": {
+        "link": "http://gosxx.online/FGrqv3rt"
+      },
+      "timestamp_ms": 1610657333097
+    }
+  ],
+  "participants": [
+    {
+      "name": "Dan Frank"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Joe Barajas"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:25:56.197-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:25:56.197Z"
+  },
+  "thread_path": "message_requests/instagramuserandjoebarajas_317357746280841",
+  "title": "Instagram User and Joe Barajas"
+}

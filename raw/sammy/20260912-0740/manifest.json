@@ -1,0 +1,49 @@
+{
+ "batch": "20260912-0740",
+ "source_id": "src:sammy-chat-transcript-20260912-0740",
+ "window_start": "2026-09-12T07:01:13.548+00:00",
+ "window_end": "2026-09-12T07:43:31.816+00:00",
+ "first_message_at": "2026-09-12T07:05:02.048+00:00",
+ "last_message_at": "2026-09-12T07:43:31.816+00:00",
+ "counts": {
+  "user_assistant_rows": 89,
+  "user_rows": 41,
+  "assistant_rows": 48,
+  "system_rows": 141,
+  "total_rows": 230
+ },
+ "files": [
+  {
+   "file": "chats.json",
+   "bytes": 42989,
+   "sha256": "bd9d9b88a342d64edae934b665e524807a8a4dc22b1b4753376d441d906a9cd8"
+  },
+  {
+   "file": "system_manifest.json",
+   "bytes": 28448,
+   "sha256": "751aa9cb83a41c063e4cf77fd8dcb81e1c2058d6ca4afde488bd682d25e51ba8"
+  },
+  {
+   "file": "external_checks.json",
+   "bytes": 1154,
+   "sha256": "8adf35ea56ec105af6a36b64332e399c8b5d91c2c14e033ba347b07b4d2ed8d1"
+  },
+  {
+   "file": "spotify-nowplaying.json",
+   "bytes": 552,
+   "sha256": "0c622465166c2c8cb9201b755059ba327aba4d4d7b697d49db165a5d177e293c"
+  },
+  {
+   "file": "spotify-playlists.json",
+   "bytes": 5911,
+   "sha256": "02e8d0f8d8273bfc36be05b76a4d8449e7a5a89812070d24eeac3c1b07ffc211"
+  }
+ ],
+ "validation": {
+  "chat_rows_unique_ids": true,
+  "chat_rows_chronological": true,
+  "all_body_lengths_match": true,
+  "all_body_md5_match": true
+ },
+ "note": "chats.json rebuilt from exact muse.db results (runtime.messages JOIN runtime.events). Every body transcribed byte-exact; all 89 lengths and MD5s verified. The prior provisional 87-row chats.json was deleted, not patched."
+}

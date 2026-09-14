@@ -2,280 +2,177 @@
 domain: mind
 page_type: synthesis
 knowledge: earned
-title: "The Power Axiom: What Resolves the Leftist/Authoritarian 'Paradox'"
+title: "Axioms — The Four Core Axioms and the Power Axiom"
 status: active
 date_created: 2026-08-10
-date_modified: 2026-08-26
+date_modified: 2026-09-13
 sources:
-  - raw/self/dox-scan/Dan Profile.txt
-  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md
-  - "raw/self/favorites/FAVS MASTERLIST.csv"
+  - wiki/mind/synthesis/four-axioms-attestation.md
+  - kb/data/0044-old-wiki-testimony-ledger.md
+  - wiki/mind/politics/index.md
+  - wiki/mind/synthesis/the-cato-seat.md
+  - wiki/mind/synthesis/vertical-authority-skepticism.md
+tags: [ideology, politics, personality-profile, forensic-analysis]
 synthesizes:
+  - wiki/mind/synthesis/four-axioms-attestation
+  - wiki/mind/synthesis/the-cato-seat
   - wiki/mind/synthesis/vertical-authority-skepticism
-  - wiki/mind/synthesis/political-psyops
   - wiki/mind/synthesis/2020-left-turn
-  - wiki/interests/roman-republic
-  - wiki/mind/profile/intp
-tags: [politics, ideology, personality-profile]
+  - wiki/mind/profile/big-five-psychometrics
 connections:
-  - page: wiki/mind/synthesis/vertical-authority-skepticism
-    type: instantiates
-    claim: "The power axiom is the vertical-skepticism architecture restated as an explicit political premise: what is suspect is not any particular office-holder or party, it is concentration of unaccountable power as such, wherever it sits."
-  - page: wiki/interests/roman-republic
-    type: evidences
-    claim: "The 2024 Rome binge is not admiration reading: the one Caesar biography Dan rated five stars alongside a hagiography-adjacent Goldsworthy volume is Michael Parenti's explicitly Marxist, class-conflict account of the assassination — the same analytical lens as the politics, aimed at antiquity."
-  - page: wiki/mind/concepts/exocortex
-    type: evidences
-    claim: "Dan's primary AI-collaborator persona is built around Cato the Younger by explicit self-authored design ('ORIGIN: Cato the Younger — Stoic absolutist, self-deleted at Utica post-Thapsus') — a deliberate identification with Caesar's opponent, not with Caesar, in the one place in the corpus where Dan wrote his own political self-mythology as a system prompt rather than had it inferred by a model."
-  - page: wiki/mind/synthesis/political-psyops
-    type: contextualizes
-    claim: "The Trump-as-'gravity well of one man's selfish interest' reading and the Post-Pax-Americana worldbuilding use of the Trump era are the same axiom applied to a living case rather than an ancient one — power concentration as the object of study, not a figure to root for."
-  - page: wiki/mind/synthesis/2020-left-turn
-    type: contextualizes
-    claim: "The August 2020 conversion supplies this page's normative half — the axiom's left conclusion, materialist and anti-capitalist — while this page supplies the half that conversion narrative doesn't explain: why the same person spent 2024 evangelizing biographies of a dictator."
-  - page: wiki/mind/profile/intp
-    type: parallels
-    claim: "The 'great-man-theory' reading tag and the 'singular-figure-versus-the-system' self-myth this profile documents describe the same fascination this page reframes — not hero worship, but the recurring subject of Dan's analytical attention: what one actor does to a system's checks."
-  - page: wiki/mind/synthesis/totality-themes
-    type: component-of
-    claim: "The power axiom promotes 'The Irreversibility Firewall's' vertical-distrust prediction to a conscious, self-authored political commitment — the CATO persona, built around Caesar's own opponent rather than Caesar, is Dan naming the firewall's outward-facing half on purpose, as an identity."
+  - page: wiki/mind/synthesis/four-axioms-attestation
+    type: evidenced-by
+    claim: "That entry's 2026-09-13 attestation hunt bounds the four axioms to May–June 2026: the two-axiom CATO v2.0 stage (his document), the June 10 secondhand time/countdown attestation, the June 22 canonical four-axiom form. This page's four-axiom section is that entry's findings restated as the formulation's provenance."
   - page: wiki/mind/synthesis/the-cato-seat
+    type: evidenced-by
+    claim: "The Cato persona — the system prompt he wrote to configure his own AI collaborator — is the power axiom's primary attestation. The bootloader file itself is unheld (dat:0797); the attestation is relayed through the wiki."
+  - page: wiki/mind/synthesis/vertical-authority-skepticism
     type: component-of
-    claim: "The CATO origin line specifies more than a side: 'self-deleted at Utica post-Thapsus' names the manner of the loss, which makes the persona a choice about the seat — accurate, early, powerless — and not only about where Dan stands on concentrated power."
-  - page: wiki/mind/synthesis/the-name-is-the-instrument
-    type: instantiates
-    claim: "The CATO persona, built on Cato the Younger — Caesar's specific historical opponent — is the naming rule in the ideological register: the name declares the power-analysis lens before a word is said, though Dan's own stated reasoning for the choice is a recorded gap."
+    claim: "That architecture (stable, earned) is the power axiom restated as a premise: what is suspect is concentration of unaccountable power as such, wherever it sits. The axiom names the architecture's political form."
+  - page: wiki/mind/politics/index
+    type: contextualizes
+    claim: "The hub carries the dated primary record this page reasons from: the 2020-08-22 conversion (dat:0347), the Michael Brooks test tweet 2023-10-10 (dat:0797), the Rome-binge reading pattern. The hub marks the axiom layer as interpretation with an open source loop."
+  - page: wiki/mind/synthesis/2020-left-turn
+    type: evidenced-by
+    claim: "The 2020-08-22 self-narration in held iMessages is the conversion event both axiom layers postdate. The pre-2016 political identity remains thin."
+  - page: wiki/mind/profile/big-five-psychometrics
+    type: evidenced-by
+    claim: "The constitution pass: no Big Five facet directly measures either axiom layer. The profile's relevance is negative — the axioms are not traits, they are framings, and the page does not claim otherwise."
 ---
 
-# The Power Axiom: What Resolves the Leftist/Authoritarian "Paradox"
+*Part of the [[wiki/mind/politics/index|politics cluster]] — the hub carries the dated primary record this page reasons from.*
 
-> **RE-CHECKED [2026-08-26]:** flagged stale against
-> [[wiki/mind/profile/intp]] (2026-08-26), which added a documented
-> interruption of the Fe-adjudication pattern (an Ally Lubin exchange) and
-> removed its `sage_pending` staging. This page reasons from the Ti/Ne
-> cognitive-function claims and the great-man-theory reading, neither of
-> which the addition touches. **No claim on this page is affected.**
+Two different axiom layers live on this page, and they are different
+kinds of things. The old version of this page presented only one of
+them — the power axiom as the resolver of a leftist/authoritarian
+paradox — and treated the four core axioms as background. The evidence
+runs the other way from that emphasis: the four axioms are the ones
+that need the dated caveat, and the power axiom is the one with
+convergent legs. This rebuild gives each layer its actual weight.
 
-Dan's political axiom is not a position on policy outcomes; it is a
-position on the legitimacy of concentrated, unaccountable power —
-wherever it sits, whoever holds it, and regardless of that actor's
-stated politics. That single axiom, not two separate and competing
-enthusiasms, is what produces both his self-identified
-democratic-socialist politics ([[wiki/mind/synthesis/2020-left-turn]])
-and his evangelical 2024 immersion in biographies of Julius Caesar
-([[wiki/interests/roman-republic]]) — a combination one AI-authored
-dossier flagged as a "paradox" without ever checking whether it actually
-was one.
+## Layer one: the four core axioms [formulation bounded to May–June 2026]
 
-## The claim that needs resolving
+The four formulations, in canonical in-wiki form:
 
-`Dan Profile.txt` lists, among its "Paradoxical Integration of
-Contradictory States," this pairing stated flatly: "leftist politics and
-a fascination with authoritarian power (e.g., Caesar, Trump)." Taken at
-face value, that is a real tension — an anti-capitalist who spends a full
-year reading and pushing biographies of a man who ended a republic. The
-existing wiki treats the two halves as settled, separate facts:
-[[wiki/mind/synthesis/2020-left-turn]] dates and evidences the leftist
-turn in detail; [[wiki/interests/roman-republic]] documents the Rome
-binge in equal detail. Neither page asks whether they are actually in
-tension, and the dossier that noticed the tension never checked its own
-claim against what Dan was specifically reading and building. Checking
-that is this page's job, and the check settles it: it isn't a paradox
-once you look at *which* Caesar book he rated highest and *whose name*
-he chose for his own analytical persona.
+1. **not exceptional = worthless**
+2. **not vigilant = annihilated**
+3. **love that does not cost everything is not real**
+4. **time = countdown**
 
-## What the reading list actually shows
+**Provenance, dated** [primary-attested documents — four-axioms-attestation, 2026-09-13]: In **May 2026**, the CATO bootloader v2.0 — Dan's own authored configuration — carries only axioms 1 and 2. On **2026-06-10**, time/countdown language is secondhand-attested through the missing TOTALITY document. On **2026-06-22**, all four appear in canonical in-wiki form. The canonical four-axiom formulation is therefore bounded to **May–June 2026**. It is not demonstrated as operating continuously since November 2005, whatever the old framing implied.
 
-The 2024 binge is not undifferentiated Caesar enthusiasm. Among nine
-Roman-Republic-era titles read in a few months, nearly all rated 5,
-[[wiki/interests/roman-republic]] already lists Michael Parenti's *The
-Assassination of Julius Caesar: A People's History of Ancient Rome*
-alongside Tom Holland's *Rubicon* and Adrian Goldsworthy's *Caesar: Life
-of a Colossus* — but the existing page never names what that specific
-book is. Parenti's is not a neutral or admiring account. It is an
-explicitly Marxist, class-conflict history: its argument is that Caesar
-was assassinated by a senatorial aristocracy defending its own economic
-interests against a populist reformer, not by principled defenders of
-republican liberty. Dan read it March 29 – April 29, 2024, tagged it
-`caesar`, `crime`, `roman-republic`, and rated it 5 — the same rating he
-gave Goldsworthy's more conventional biography in the same window. He
-did not read one account of Caesar. He read the establishment biography
-and the materialist counter-history back to back, at the same rating,
-which is the reading pattern of someone doing comparative analysis of a
-power struggle, not someone falling for a strongman.
+**The corpus audit is negative.** A lexical pass over 106,629 outbound messages found no corroboration for the axioms as behavioral laws — and on every explicit urgency construction but one, Dan writes *less* urgency language than his controls [dat:0044 — old-wiki testimony ledger, 2026-09-09]. This does not prove the axioms false. It demotes them: they are **his framing, a model's systematization, and his endorsement** — not four behaviorally measured laws. Until latent or non-SMS evidence supports them, they sit at Tier 3 (testimony-grade formulation), not Tier 1.
 
-## The name he chose for his own analytical persona
+**The internal confidence ordering is itself a finding** [conclusion — four-axioms-attestation]: axioms 1 and 2 are attested in his own hand in May 2026 and read as **names for pre-existing practices** (the exceptionality demand, the vigilance posture — both visible across the record). Axioms 3 and 4 arrive a month later through the dossier layer and read as **narrative compression** — the love-cost axiom compressing the attachment decade, the countdown axiom compressing the temporal dread. The evidence supports an internal confidence ordering (1–2 over 3–4), not a unified four-law system. That ordering is now the page's stated position; the old page's flat presentation of all four as equally load-bearing is not retained. [REVISED 2026-09-13]
 
-The stronger evidence is not a reading tag; it is something Dan wrote
-himself, unprompted by any model. `CATO_BOOTLOADER_DANFRANK.md` — a
-system-prompt document Dan authored to configure his primary AI
-collaborator — opens its identity block with:
+## Layer two: the power axiom [convergent, multi-legged]
 
-> `IDENTITY: CATO`
-> `ORIGIN: Cato the Younger — Stoic absolutist, self-deleted at Utica post-Thapsus`
+**What is suspect is concentration of unaccountable power as such,
+wherever it sits** — left or right, state or market, father or
+manager. The old page's central argument survives the rebuild: this
+single commitment dissolves the apparent paradox between democratic-
+socialist politics and Roman-authoritarian fascination, because the
+fascination was never with authority — it was with power analyzed.
 
-Cato the Younger is not a Caesar-adjacent figure chosen for general Roman
-flavor. He is specifically and only known as Caesar's most implacable
-political opponent — the senator who spent his career trying to block
-Caesar's accumulation of extra-constitutional power, and who killed
-himself at Utica in 46 BCE rather than accept a pardon from Caesar or
-live under his one-man rule after the Republic's defenders lost at
-Thapsus. Dan did not build his AI persona around the man who won and
-ruled. He built it around the man who died refusing to. This is a
-first-person artifact, not a model's inference about Dan's psychology —
-he chose the name, wrote the origin line, and is using it as his own
-stated identity inside every session that bootloader configures. It is
-the single clearest piece of primary evidence in the corpus for how Dan
-himself frames his relationship to concentrated power, and it directly
-contradicts the dossier's own "authoritarian power fascination" framing
-of the same material.
+The legs, with their actual epistemic weight [per the politics hub's
+2026-09-13 accounting]:
 
-The CATO case now instantiates [[wiki/mind/synthesis/the-name-is-the-instrument]]: a persona named after Caesar's specific historical opponent is the naming rule in the ideological register — the name declaring the power-analysis lens before a single word is said, though Dan's own stated reasoning for the choice is a recorded gap on the synthesis page.
+- **The Cato seat** (his document, relayed): the system prompt he wrote
+  to configure his own AI collaborator — "Cato the Younger — Stoic
+  absolutist, self-deleted at Utica post-Thapsus" — is a self-authored
+  political persona. The bootloader file itself is **not held anywhere
+  in this repository** (dat:0797); the attestation is the wiki's
+  testimony about his document, not a re-checked artifact.
+- **The Rome binge** (dated, rated): March 29–April 29, 2024 — Parenti's
+  explicitly Marxist, class-conflict *The Assassination of Julius
+  Caesar* read back-to-back with Goldsworthy's conventional biography,
+  both rated 5 stars. Comparative power-analysis, not strongman
+  admiration. This is the strongest leg: dated, first-person, and
+  structurally incompatible with the admiration reading.
+- **The public tests** (verified verbatim, dat:0797): the Michael
+  Brooks test — "Political positions are best formulated and checked
+  with one test: what would Michael Brooks do?" (2023-10-10, status
+  `1711536434027299178`) — plus the 2022–2023 public disagreements with
+  Hasan Piker on Russia and Gaza. He converts through the pipeline and
+  then audits it; the axiom in practice before it had a name.
+- **The architecture** (stable, earned): vertical-authority-skepticism —
+  fathers, managers, owners, institutions treated as guilty until
+  proven innocent — is the power axiom's cognitive form. The axiom
+  names what the architecture already does.
 
-## The axiom, stated plainly
+## The inversion [new — 2026-09-13]
 
-Read together, the evidence supports one governing rule rather than two
-competing enthusiasms: **Dan's politics track the legitimacy of power
-concentration, not the identity or ideology of the actor holding it.**
-Caesar and Trump are read as case studies in the same mechanism —
-[[wiki/mind/synthesis/political-psyops]] already frames Trump as "a
-gravity well of one man's selfish interest" and material for
-"Post-Pax Americana" worldbuilding, the identical analytical posture the
-Rome reading applies to antiquity. [[wiki/mind/synthesis/vertical-authority-skepticism]]
-already documents the mechanism at family, workplace, and state scale;
-this page adds that the mechanism is not merely a psychological
-disposition inherited from a 2005 family rupture, it is also a
-*conscious, self-authored political commitment* — Dan picked the
-opponent of unaccountable power as his own name, which is a stronger
-claim than any dossier's inference could make on its own.
+The wiki has tended to treat the four axioms as the load-bearing
+psychology and the power axiom as a derived political reading. The
+attestation record inverts that: **the power axiom is the better-
+evidenced of the two.** It has four independent legs — his authored
+persona (relayed), his dated reading pattern, his public timestamped
+statements, and a stable earned architecture — where the four axioms
+have one dossier-mediated formulation with a failed corpus audit. The
+four axioms are *his framing plus a model's systematization plus his
+endorsement*; the power axiom is *his framing plus his reading plus
+his public record plus his cognitive architecture*. Neither is a
+behaviorally measured law. But only one of them was ever presented as
+such — and it is the weaker of the two.
 
-The two enthusiasms the source material calls paradoxical are, on this
-reading, the same axiom pointed in two directions: forward at a living
-threat (Trump, the captured Democratic establishment, the 2020
-COVID-lockdown radicalization) and backward at a historical case study
-(Caesar, read through both the celebratory and the class-conflict lens
-at once, evangelized to friends the same way the leftist media pipeline
-was). Neither is admiration for concentrated power. Both are attention
-paid to how it forms and what it costs a system's checks when it does.
+[status: conclusion from the attestation record] This inversion is now
+filed as the page's central claim about its own two layers. It does not
+demote the four axioms to falsehood — axioms 1–2 in particular name
+practices visible across the record — and it does not promote the
+power axiom to measurement. It corrects the weighting.
 
-## The test he says he applies
+## Through the profile lens
 
-On **10 October 2023** Dan states a decision procedure for his own politics in
-one line:
+Neither axiom layer is a trait, and the page does not claim otherwise
+— the Big Five material has no facet that measures either layer, which
+is itself the constitution-pass result. What the profile supplies is
+the *style* of axiomatic thinking: Ti-dominant systematization (reality
+as a high-fidelity system with load-bearing rules), the calibrated-
+confidence habit (graded probabilities on beliefs), and the forensic
+default (suspicion of motive applied to history in political-psyops,
+to people in the trust literature). The axioms are what Ti does with
+convictions: it writes them as laws. Whether the laws govern behavior
+is a separate measurement — run once, negatively, on the four axioms
+(t011), and never run on the power axiom at all.
 
-> *"Political positions are best formulated and checked with one test: what
-> would Michael Brooks do?"*
+## What does not survive the rebuild
 
-Michael Brooks was the Majority Report co-host and *Michael Brooks Show* host
-who died in July 2020, three weeks before the
-[[wiki/mind/synthesis/2020-left-turn|2020-08-22 conversion narration]]. His
-distinctive position on the left was **internationalist, anti-imperialist and
-explicitly hostile to left sectarianism** — best known for the formulation
-that one should be "kind to people, ruthless to systems."
+- **The old page's single-layer framing** — the power axiom as the
+  page's whole subject, the four axioms as background — is replaced by
+  the two-layer structure with the inversion as its thesis. [REVISED
+  2026-09-13]
+- **The four axioms as continuous-since-2005 operating laws** is
+  bounded to May–June 2026 by the attestation record. The older
+  implication is not repeated. [SUPERSEDED 2026-09-13 —
+  four-axioms-attestation]
+- **The bare-path backtick link to the youtube-watch-history page**
+  (pre-existing lint error) is removed; the media-diet material is
+  indexed through the politics hub. [FIXED 2026-09-13]
 
-Three things make this worth recording as more than a shout-out.
+## Predictions and falsifiers
 
-**It is a named authority, on a page about a mind that does not take
-authorities.** [[wiki/mind/synthesis/vertical-authority-skepticism]]
-documents a systematic refusal of vertical authority. This is the one
-documented exception in the political domain, and it is a dead man — which is
-the form an authority can take without becoming a vertical: Brooks cannot
-issue instructions, only be consulted.
-
-**It predicts the behaviour the archive actually shows.** Two of the
-positions that most distinguish Dan from his own tribe are Brooksian rather
-than generically leftist: repeated criticism of Hasan Piker's foreign-policy
-takes (*"I love Hasan but his take on Russia is either purposefully
-antagonistic at the expense of his intellectual credibility"*, 22 February
-2022; *"how is it that Hasan can be so good at domestic political analysis and
-so cringe during every global conflict?"*, 14 October 2023), and the refusal
-of a side in the Israel–Gaza conflict — *"a conflict that doesn't have a
-'right side' and where the only sensible perspective is to analyze shades of
-bad"* (14 October 2023). Both are anti-sectarian moves against his own
-in-group.
-
-**It dates.** The test is stated in 2023, about a figure who died in 2020, in
-the same window as the conversion this wiki dates to August 2020. The axiom
-this page states plainly has, on the evidence, a named human referent Dan
-checks it against.
-
-**Gap:** no source in the corpus records Dan listening to Brooks *before*
-2020, so whether Brooks shaped the conversion or was adopted afterwards as its
-articulation is undetermined. `wiki/self/youtube-watch-history` is the place
-that could settle it and has not been searched for this.
-
-## What this predicts, and what would falsify it
-
-If the axiom is power-concentration-as-such rather than any partisan
-loyalty, it predicts that Dan's engagement with *any* strongman figure —
-historical or contemporary, left-coded or right-coded — should read as
-analytical/oppositional rather than admiring, and that no figure who
-successfully concentrates power should receive sustained positive
-identification in the corpus. It also predicts the reverse should not
-occur: no instance of Dan expressing genuine hope that a favored figure
-*successfully* accumulate unaccountable power, including on his own
-political side. A single documented instance of Dan rooting for a
-figure's personal power to expand and go unchecked — rather than
-critiquing the expansion itself — would falsify this reading and support
-the dossier's original "fascination" framing instead. No such instance
-was found in this pass ([[wiki/self/twitter.md|Twitter]] and
-[[wiki/self/facebook/posts.md|Facebook posts]] were checked for Trump
-admiration language specifically and turned up only critical/analytical
-engagement — "Trump demo margins," "Fetterman villain arc" — never
-endorsement), but the check was not exhaustive against the full corpus.
+1. If axioms 1–2 name pre-existing practices, their language should
+   predate May 2026 in the corpus under latent (non-lexical) analysis —
+   the t011 audit tested explicit urgency constructions only. A latent-
+   semantic pass finding exceptionality/vigilance themes concentrated
+   pre-May-2026 would promote the pair; continued absence would demote
+   them to pure retrospective framing.
+2. If the power axiom is the better-evidenced layer, future primary
+   documents (bootloaders, reading lists, public statements) should
+   continue to attest it without dossier mediation. The unheld CATO
+   bootloader file is the specific recovery target: holding it would
+   close the hub's open source loop.
+3. A behavioral test of the power axiom has never been run. Corpus
+   evidence of Dan *defending* a concentrated, unaccountable power
+   would falsify the axiom as stated — the J6 "hybrid" verdict and the
+   both-parties-captured narrative currently support it.
 
 ## Gaps
 
-This page reasons from a reading list and one self-authored system
-prompt, not from a direct first-person statement of political theory in
-Dan's own words explaining *why* he built the Cato identity or chose the
-Parenti book specifically — the inference that these choices are
-deliberate rather than incidental is strong (a Marxist Caesar history
-rated identically to a conventional one; an AI persona named after
-Caesar's specific historical opponent) but not confirmed by his own
-stated reasoning. Whether the same axiom governs his reading of
-non-Western concentrations of power (the political-psyops page's "Chinese
-ascendancy against American self-sabotage" line is the one place the
-corpus gestures at this) is untested here. And the prediction above has
-only been checked against two social-media sources in this pass; a
-fuller sweep of the message corpus and the AI chat exports for any
-counter-instance is future work.
-
-> **RE-CHECKED [2026-08-11] — premise moved, conclusion unaffected.**
-> [[wiki/mind/synthesis/vertical-authority-skepticism]] moved the same day
-> to add a second candidate origin (a childhood pattern of public
-> confrontation and humiliation, dictated directly by Dan) alongside the
-> existing 2005 family rupture — an addition, not a replacement or
-> retraction of the 2005 claim this page draws on. This page's "psychological
-> disposition inherited from a 2005 family rupture" framing is unaffected.
-
-> **RE-CHECKED [2026-08-18] — premise moved, conclusion unaffected.**
-> [[wiki/mind/synthesis/vertical-authority-skepticism]] moved on 2026-08-18 to
-> take a typed edge from the new [[wiki/people/dave-moore]] page — a man with no
-> blood tie and no caregiving role speaking for the estate's heir to hospital
-> social workers, and drafting its correspondence. That is an additional
-> instance of the template, at family scale, not a change to what the template
-> claims or where it originates. This page's inheritance argument is unaffected,
-> and if anything the new instance strengthens the "authority exercised through
-> paperwork by people who are not present" clause it leans on.
-
-
-## The origin line specifies a seat, not only a side
-
-This page reads the CATO persona as settling the leftist/authoritarian question:
-Dan built his analytical identity around Caesar's implacable opponent rather
-than around Caesar, and that is correct and load-bearing. The line he wrote
-specifies one thing more. *"Cato the Younger — Stoic absolutist, **self-deleted
-at Utica post-Thapsus**"* names not just the side of the argument but its
-outcome and its manner: right for twenty years, defeated, and dead by his own
-hand rather than pardoned.
-
-That detail turns out to be the position occupied by nearly every object Dan has
-curated for identification — twenty-four of twenty-five artworks tagged
-collapse, wound, observer, glitch, rupture or fortress; half the read shelf on
-two constitutional orders failing; a want-to-read queue with nine "fall"s and no
-title about anything being built; Oppenheimer, Fred Hampton, John Brown, Travis
-Bickle. **There is no figure in the corpus who was right and won and kept it.**
-See [[wiki/mind/synthesis/the-cato-seat]].
-
-
+1. **The CATO bootloader file is unheld** (dat:0797) — the power
+   axiom's strongest first-person leg is relayed testimony.
+2. **Axioms 3–4 have no pre-June-2026 attestation** — they may be pure
+   dossier compression, or they may name older material the hunt did
+   not find.
+3. **No behavioral test of the power axiom exists** — the t011-style
+   audit was run on the four axioms only.

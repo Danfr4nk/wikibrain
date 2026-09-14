@@ -1,0 +1,10 @@
+{
+  "source": "instagram",
+  "status": "connected",
+  "account": "ihatedanfrank",
+  "watermark_from": "2026-08-26T23:04:49-04:00",
+  "pulled_at": "2026-09-13T07:42:59Z",
+  "count": 0,
+  "new_items": [],
+  "note": "Latest own post is exactly the watermark (2026-08-26 23:04:49, post DciGEySiGSs, 7 likes, 0 comments); no current stories (own-stories returned null). Zero new items."
+}

@@ -6,9 +6,9 @@ aliases: ["Zach", "Clingan"]
 status: stable
 knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-08-28
+date_modified: 2026-09-12
 date_range_start: 2009-10-06
-date_range_end: 2018-04-13
+date_range_end: 2018-12-09
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt
   - raw/self/dox-scan/dan tom 2010 2022.txt
@@ -25,7 +25,7 @@ infobox:
   relationship_to_dan: acquaintance
   role: "caddie, Nemacolin Woodlands"
   first_contact: 2009-10-06
-  handles: ["+1843***3264", "+1413***0339", "+1724***0771"]
+  handles: ["+1413***0339", "+1724***0771"]
   known_for: "a Christmas 2009 driveway accusation that ended the friendship on the spot, and the nine-year Uniontown acquaintance that followed it — an earlier pass filed under the wrong surname"
 connections:
   - page: wiki/people/alexis-armel
@@ -33,16 +33,16 @@ connections:
     claim: "A Christmas 2009 party at Suz's house is the dated origin of the rupture every later appearance of Clingan assumes: an accusation that Alexis had been sexually involved with him in his car outside the party, which Dan says he can never resolve either way."
   - page: wiki/timeline/annie-record
     type: evidenced-by
-    claim: "Dan names Clingan in real time as the origin of his drug use — \"THAT is who introduced me to drugs\" (2015-12-09) — which places him earlier on the supply chain than any node the network page tracks, and his warning to Annie the same day is the first documented use of the switch against her by a third party."
+    claim: "Dan names Clingan in real time as the origin of his drug use — \"THAT is who introduced me to drugs\" (2015-12-09) — which places him earlier on the supply chain than any node the network page tracks, and his warning to Annie the same day is the first documented use of the switch against her by a third party. [CORRECTED 2026-09-12: the 'first documented use' clause is withdrawn — Zac Shumar used the switch against Annie on 2015-12-06, three days earlier; see wiki/people/zac-shumar.md. Clingan's is the second documented instance, and the first delivered as a direct warning to Annie.]"
   - page: wiki/people/zachariah-harshman
     type: mirrors
     claim: "Two contemporaneous Uniontown Zachs whose contact records a phone-book merge fused: Harshman supplied Dan in 2014–15 out of the Virginia Avenue house, Clingan bought from him in the 2017 caddie yard, and the supply direction inverts between them."
   - page: wiki/work/nemacolin-caddying
     type: component-of
-    claim: "The entire iMessage thread runs on the caddie yard's clock — report times, getting cut, two-bag rounds, the end-of-season bonfire, and the next April's opening-day ping — which makes Clingan a previously undocumented member of the yard cohort."
+    claim: "The entire iMessage thread runs on the caddie yard's clock — report times, getting cut, two-bag rounds, the end-of-season bonfire, and the next April's opening-day ping — which makes Clingan a previously undocumented member of the yard cohort. [CORRECTED 2026-09-12: the thread is not Clingan's; attribution withdrawn, analysis moved to wiki/people/zach-unidentified-843.]"
   - page: wiki/mind/synthesis/supply-network
     type: evidences
-    claim: "The 2017 exchanges run the other way from every other node on the network page: Dan holds the edibles, the chocolate kush and the leaf, and Clingan is the one asking, which is the corpus's clearest evidence that within the caddie yard Dan was the seller."
+    claim: "The 2017 exchanges run the other way from every other node on the network page: Dan holds the edibles, the chocolate kush and the leaf, and Clingan is the one asking, which is the corpus's clearest evidence that within the caddie yard Dan was the seller. [CORRECTED 2026-09-12: the counterpart asking is not Clingan; see wiki/people/zach-unidentified-843.]"
   - page: wiki/people/tom
     type: evidenced-by
     claim: "Tom's April 2014 thread supplies the only third-party characterisation Clingan has — jointly classed with Steve Kezmarsky as 'drug people' who are 'assholes,' against Dan and Tom's own self-exemption from the second half of that pairing."
@@ -63,6 +63,8 @@ across nine years and three unconnected registers: as the punchline of a
 than themselves, and as a fellow caddie at Nemacolin in the autumn of 2017,
 trading weed and report times in the tail of a season. He was never close.
 He was, for that autumn, around every day.
+
+> **CORRECTED [2026-09-12]:** The third register named above — "a fellow caddie at Nemacolin in the autumn of 2017, trading weed and report times" — is withdrawn. On 2026-09-12 Dan testified that his Clingan ended on December 9, 2015 ("never heard from him again") and that the friendly 2017–18 caddie-season thread cannot be his Clingan; the +1843…3264 attribution was contact-export inference and is withdrawn. The thread analysis is preserved at [[wiki/people/zach-unidentified-843]], re-anchored to the unattributed bare "Zach." What remains on this page is name-grounded: the 2009 joke, the 2014 taxonomy, and the December 2015 intervention, plus about-references through 2018.
 
 This page previously existed under the name **Zach Harshman**, built on
 twenty-two received messages and a surname it did not have evidence for. The
@@ -92,6 +94,8 @@ earlier page's own Gaps section had flagged the surname as "an earlier
 analyst's resolution, not a confirmed fact." It was right to, and the
 resolution it doubted was wrong. Zachariah Harshman's real record is at
 [[wiki/people/zachariah-harshman]] and is untouched by this.
+
+> **CORRECTED [2026-09-12]:** The "no contrary evidence" defense above is superseded. Dan's 2026-09-12 testimony ("never heard from him again" after 2015-12-09, and the thread's friendly tone rules out his Clingan) is contrary evidence, and the "third unnamed Zach" the paragraph dismisses is exactly what the address books contain — Google's bare-"Zach" 413+843 record and the IG synced contacts' bare "Zach" = 8439903264. The 843 number is withdrawn from Clingan; see [[wiki/people/zach-unidentified-843]].
 
 ## 2009: the faun
 
@@ -184,8 +188,8 @@ Clingan then calls Annie directly: *"have you lost your damn mind / And to keep
 my eyes open"* (15:38–15:39), followed by the warning that makes it an
 intervention rather than jealousy:
 
-> *"he had his ex move out and you were there the next day. That makes you look
-> like shit and he's going to treat you like it"* (15:39)
+> *"he had his ex move out and you were there the next day. That makes you look*
+> *like shit and he's going to treat you like it"* (15:39)
 
 This is **the first documented instance of the switch being used against Annie
 by a third party**, and an outsider independently reading the same
@@ -195,6 +199,8 @@ a chronology. Dan confronts him within the hour: *"I just talked to him / Told
 him he doesn't know me and to stay the fuck out of my life / And to not threaten
 you"* (15:37–15:38), and sends him a photograph understood to be an obscene
 gesture. The content of Clingan's side of that call is not in the corpus.
+
+> **CORRECTED [2026-09-12]:** The "first documented instance" claim above is wrong. [[wiki/people/zac-shumar|Zac Shumar]] used the switch against Annie three days earlier, on **2015-12-06** — *"you bail on lex and jump on Annie"* — in an argument with Dan; see [[wiki/mind/synthesis/bond-switch-2015]] ("A third party names the switch, December 6") and [[wiki/people/zac-shumar]]. Clingan's December 9 intervention is the second documented instance, and the first delivered as a direct warning to Annie.
 
 > **DISAMBIGUATION [2026-08-17]:** A synthesis pass attributed these messages
 > to [[wiki/people/zachariah-harshman|Zachariah Harshman]] — the same two-Zachs
@@ -206,77 +212,11 @@ gesture. The content of Clingan's side of that call is not in the corpus.
 
 ## 2017–18: one caddie season
 
-The iMessage thread — **41 messages, both directions, September 27, 2017 to
-April 13, 2018** — reads at first like a six-month acquaintance. It is not.
-It is one caddie season's tail, a winter of silence, and the first ping of
-the next.
-
-The vocabulary is entirely occupational and entirely [[wiki/work/nemacolin-caddying|Nemacolin]]:
-*looping* (carrying a bag), being *cut* from the day's roster, a *2 ball*
-(the two-bag round that pays double), an *11 report*. Dan opens on October 1
-with *"u wanna blaze it after loop"*; Clingan has already been sent home —
-*"Just left bro… Cut"* — and Dan's answer is a caddie's answer: *"sheeeeeeeit
-were u trying to get cut? i would have given u my 2 ball… come on man that's
-a cool $40."* Offering away a double bag is not a small courtesy in a yard
-where the ladder documented on the caddying page is the whole reward
-structure.
-
-The traffic in the thread runs the opposite direction from almost every
-other supply-adjacent relationship in this wiki. Clingan asks — *"Bro can I
-grab some smoke?? You work today??"* — and Dan holds the inventory:
-chocolate kush, a gram he's about to pick up, watermelon gummies, cereal
-bars *"they might be gone already,"* a little leaf before an 11 o'clock
-report. On [[wiki/mind/synthesis/supply-network]] Dan is nearly always the
-buyer. Inside the caddie yard, in the autumn of 2017, he is the seller, and
-this thread is the clearest evidence of it.
-
-The season closes on **October 18** with an invitation. Dan sends an image,
-then *"Need to end the year on good vibes"* and *"Just a bonfire and hangs,
-I'm sure there will be plenty of getting fucked up going on."* The image is
-the flyer for the Halloween party thrown at
-[[wiki/places/155-virginia-ave|155 Virginia Avenue]] on October 31 and
-opened to the whole caddie yard: the attachment Clingan receives is
-`IMG_0103-1.JPG`, and the following evening Dan sends `IMG_0103-2.JPG` to
-another Nemacolin coworker with the words *"Wanted to send u an invite."*
-Clingan was on the yard's invitation list, thirteen days out. Then nothing
-for almost six months.
-
-The last message in the thread, and the reason it is a season rather than a
-window, arrives on **April 13, 2018**: *"Hey Dan, have you started looping
-yet??"* Nemacolin's 2018 caddie season had opened on April 1 — the day Dan
-worked two loops in the cold and then got the call that
-[[wiki/people/fran-coldren|Fran]] was going to the hospital. Nine days after
-she died, a man Dan sold weed to on the yard the previous autumn wrote to
-ask whether he was back at work yet. It goes unanswered in the record. The
-thread ends there.
+> **CORRECTED [2026-09-12] — attribution withdrawn.** The 41-message iMessage thread this section described (September 27, 2017 – April 13, 2018, +1843…3264) is **not** Zach Clingan. On 2026-09-12 Dan testified that his Clingan ended on December 9, 2015 — "never heard from him again" — and that the thread's friendly, yard-casual tone cannot be the man of the 2009 driveway accusation and the 2015 intervention. The attribution rested on a contact-export inference (Google's bare-"Zach" 413+843 record joined to its "Zach Clingan" 413+724+843 record via the shared 413 number); no message in the thread names the counterpart. The thread analysis is preserved in full at [[wiki/people/zach-unidentified-843]], re-anchored to the unattributed bare "Zach" the IG synced contacts and Google bare-"Zach" record support. The +1843…3264 handle has been removed from this page's infobox.
 
 ## Corpus record
 
-| Metric | Value |
-|---|---|
-| iMessage messages | 41 — **22 received, 19 sent** |
-| Date range (iMessage) | 2017-09-27 – 2018-04-13 |
-| Messages inside 2017-10-01 alone | 28 |
-| Silent interval | 2017-10-18 → 2018-04-13 (177 days) |
-| Full documented span | 2009-10-06 – 2018-04-13, across three sources |
-| Handle | `+1843…3264` (843 = South Carolina) |
-
-The direction split localises the old page's error precisely. It reported
-"22 messages… Direction: all received (export artifact)" — and 22 is exactly
-the **received** count. It was not an export artifact and nothing was
-missing from the export: the page had been built off
-`MASTER_MESSAGES_DB_DUMP.csv`, which marks nearly everything `Received`, so
-Dan's own 19 messages were invisible to it. Recounted against
-`all_imessages_complete_dump.txt` with `bin/mine-messages`, which reassembles
-multi-line records, the thread is 41 and two-sided.
-
-The concentration is the other notable figure. **Twenty-eight of the 41
-messages fall on a single day**, October 1, 2017, and the remainder spreads
-across four. A page built from the message record alone — as the previous
-version of this page was — reads him as a six-month contact of 2017. The Facebook and Tom threads make him a
-nine-year one, and neither is in the message corpus at all. That is the
-generalisable lesson here: for the long tail, the iMessage export is the
-worst of the three available sources and the only one earlier passes used.
+> **CORRECTED [2026-09-12]:** The iMessage metrics previously in this section (41 messages, September 27, 2017 – April 13, 2018, +1843…3264) described the detached caddie-season thread and have moved with it to [[wiki/people/zach-unidentified-843]]. Clingan's remaining corpus record is name-grounded: the October 6, 2009 message about him, the April 2014 Tom thread, the December 2015 intervention, Dan's 2016-01-07 "never looked back," Annie's 2018-10-23 "Call Zach clingan," and Dan's 2018-12-09 Thanksgiving sighting — about-references only, no contact after December 9, 2015.
 
 ## Gaps
 
@@ -292,5 +232,7 @@ relationship are connected — whether Dan was still holding the 2009 and 2014
 opinions while fronting him gummies on the yard — is exactly the question
 the record cannot answer, because the two registers never touch each other
 in a single message.
+
+> **CORRECTED [2026-09-12]:** The gap statements above from "What he did outside the caddie yard" onward described the detached 843 thread, not Clingan; they now live at [[wiki/people/zach-unidentified-843]]. For Clingan himself the remaining gap is simpler: everything after December 9, 2015 is about-references (2016-01-07, 2018-10-23, 2018-12-09), and his own side of every event — 2009, 2014, 2015 — is unrecorded.
 
 

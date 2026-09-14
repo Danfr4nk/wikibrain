@@ -18,11 +18,13 @@ infobox:
 ---
 
 # Annie Ulmer — 2026-08-26 Current-State Update
+> **SUPERSEDED [2026-09-11] — the block this page reports never happened.** Dan reported on August 26 that he had kept Annie blocked for several days — "the first held boundary in the entire record." September 11, 2026 CSV forensics found roughly 25 block/severance declarations across August 15–19, none executed, and daily two-way texting continuing August 27–September 7 (765 messages in the last 72 hours of the export — counted in a forensic pass that post-dates the Agent Edition snapshot — including "good night pretty girl" rituals). Dan confirmed verbatim: *"there was never a block."* This page is preserved as the historical record of what was believed on August 26; the full retraction is [[wiki/mind/synthesis/august-26-block-retraction]]. What stands: the conversation with Ally happened as reported; only the block it described did not. The 120-day severance-horizon test to December 19, 2026 is void — there was no severance to measure.
+
 
 > **VISIBLE UPDATE — 2026-08-26**
 >
-> The notable fact is not merely that Annie is blocked. It is that **the block
-> is still being honored**.
+> The notable fact is not merely that Annie is blocked. It is that **the block**
+> **is still being honored**.
 
 The current operator report is that Dan continues to keep Annie blocked, with
 no reported workaround, alternate channel, or "one last message" exception.
@@ -50,8 +52,8 @@ relief.
 If the present block remains intact while Dan continues functioning elsewhere,
 then the experiment is testing something much more specific:
 
-> **Can Dan experience the end of an attachment without turning the attachment's
-> pain into a command to act?**
+> **Can Dan experience the end of an attachment without turning the attachment's**
+> **pain into a command to act?**
 
 So far, the reported answer is yes.
 

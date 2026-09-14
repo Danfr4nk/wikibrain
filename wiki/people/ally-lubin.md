@@ -90,6 +90,10 @@ connections:
   - page: wiki/mind/synthesis/high-provision-low-condolence
     type: instantiates
     claim: "The contested $2,100 claimed across the August–October 2019 crisis window — denied by Ally in 2019 and 2026, with no 2019 Cash App export in raw/ to settle it — is the rule's edge case: provision documented as an offer, the figure disputed, the provision-first pattern under stress."
+  - { target: "[[wiki/mind/synthesis/the-romantic]]", type: documents, claim: "Type specimen II — the named thing and the August 21, 2026 letter." }
+  - { target: "[[wiki/mind/synthesis/vacancy-rule]]", type: references, claim: "Transition 5's failed transferee — the eighteen-year secondary bond the rule's primary/secondary split was written to hold." }
+  - { target: "[[wiki/mind/synthesis/the-curse]]", type: documents, claim: "Case 4 — eighteen years, never met." }
+  - { target: "[[wiki/mind/synthesis/self-deprecation-shield]]", type: references, claim: "The Ally channel is the shield's trust-credential case — the self-own as epistemic warrant." }
 ---
 
 # Ally Lubin (Alexandra Lubin)
@@ -112,11 +116,11 @@ state on its own.
 
 Its governing fact used to be stated here as *the channel activates when
 Dan's primary bond fails*. The August 2026 record complicates that: in the
-termination window the Ally thread was active at the same time the Annie
+termination window the Ally thread was active at the same time the [[wiki/people/annie-ulmer|Annie]]
 thread was ending, not only after it. On August 18 and 19, 2026 Dan exchanged
 messages with both women in overlapping hours, and what he said to each about
 the other is contradicted by the timestamps in the other's thread. Whether
-that overlap constitutes a single concurrent attachment system running
+that overlap constitutes a single [[wiki/mind/synthesis/concurrent-attachment-hypothesis|concurrent attachment]] system running
 alongside the Annie bond is treated as a hypothesis on the synthesis pages,
 not asserted here.
 
@@ -160,8 +164,8 @@ diagnoses what came out the other end:
 > **DAN:** I need tk mention that I ran out of Claude quota for the week
 > already so I'm using a free model and it's kinda bad but Claude will clean
 > it all up on Thursday when I can use it again
-> **DAN:** **Hence it thinking you were the one accepting my very attractive
-> offer there**
+> **DAN:** **Hence it thinking you were the one accepting my very attractive**
+> **offer there**
 
 So the subject of the page joked an instruction into the ingest path, the
 operator did the same by accident, the model fused the two into a consented
@@ -182,8 +186,8 @@ wiki, and any pass that mines the corpus is partly reading itself.
 Three older corrections, retained because the evidence that killed them still
 matters:
 
-> **CORRECTED [2026-08-18]:** The page said the iMessage record was *"452
-> messages at handle +15619061550, spanning 2019-06-28 to 2023-11-14."* `452`
+> **CORRECTED [2026-08-18]:** The page said the iMessage record was *"452*
+> *messages at handle +15619061550, spanning 2019-06-28 to 2023-11-14."* `452`
 > was the row count for that handle in a partial CSV export and sat within
 > five of the received-only count (457) — the standard failure mode for
 > CSV-derived people pages. The true figure is **1,080** (623 sent, 457
@@ -195,8 +199,8 @@ matters:
 
 > **CORRECTED [2026-08-18]:** The typed edge to
 > [[wiki/people/dan-polyak|Dan Polyak]] asserted that Polyak's April 18, 2019
-> message was *"the only documented account of how direct contact with Ally
-> began."* Direct contact began **July 5, 2013**; the modern conversation began
+> message was *"the only documented account of how direct contact with Ally*
+> *began."* Direct contact began **July 5, 2013**; the modern conversation began
 > **December 6, 2018**. The impersonation falls four months *into* the
 > relationship, not two months before it.
 
@@ -208,21 +212,20 @@ exchange: *"i've spent 10 years idolizing this girl i've never met as the
 epitome of whatever 'cool' is, which i will include funny and pretty under
 that umbrella as well."* Ten years back puts the start at 2008 — the year
 Ally independently nominates as her own peak (*"I peaked in 2008"*), and the
-period the wiki files as [[wiki/timeline/periods/dark-era-2007-2008|the dark
-era]]. This is the concrete instance of what
+period the wiki files as [[wiki/timeline/periods/dark-era-2007-2008|the dark era]]. This is the concrete instance of what
 [[wiki/mind/concepts/the-cool-metric|the cool metric]] describes: weaponized
 subcultural literacy, personified in one woman, at seventeen.
 
-> **CORRECTED [2026-08-20]:** This page said *"The venue was the
-> AbsolutePunk.net / emo-scene internet."* Dan retracts the specific venue in
-> the thread on August 18, 2026 at 23:08: *"The wiki says absolutepunk but
-> that is wrong."* He offers Twitter as more likely (*"Maybe it was actually
-> twitter?"*) and is certain only of the intermediary — *"I know for sure it
-> was via clandan"* — and of the adjacent names, the AbsolutePunk photographer
+> **CORRECTED [2026-08-20]:** This page said *"The venue was the*
+> *AbsolutePunk.net / emo-scene internet."* Dan retracts the specific venue in
+> the thread on August 18, 2026 at 23:08: *"The wiki says absolutepunk but*
+> *that is wrong."* He offers Twitter as more likely (*"Maybe it was actually*
+> *twitter?"*) and is certain only of the intermediary — *"I know for sure it*
+> *was via clandan"* — and of the adjacent names, the AbsolutePunk photographer
 > Chris Miller and the Overcast Kids message boards. The scene is right; the
 > site is not established. He later characterises her category precisely:
-> *"You're an early adopter twitter girl / That's infinitely higher up the
-> food chain."*
+> *"You're an early adopter twitter girl / That's infinitely higher up the*
+> *food chain."*
 
 The Facebook takeout shows the approach as a slow, one-directional accretion:
 nine documented interactions from Dan to her content between **May 20, 2011**
@@ -263,8 +266,8 @@ surprise her later today with $250 in her cash app."* A finder's fee of
 twenty-five dollars and a gift of two hundred and fifty, inside the same week,
 inside [[wiki/timeline/periods/2018-deep-cycle|the deep cycle]].
 
-> **CORRECTED [2026-08-20]:** the clause above previously read *"and $750/week
-> borrowed from his mother."* That rate was retracted on 2026-08-18 — a single
+> **CORRECTED [2026-08-20]:** the clause above previously read *"and $750/week*
+> *borrowed from his mother."* That rate was retracted on 2026-08-18 — a single
 > December 13, 2018 accusation about a single week generalised into a standing
 > rate by `operating_manual.md`, with the direction inverted: the large 2018
 > movement is roughly **$14,000 from Dan to Suz**, Aug–Oct. See
@@ -286,8 +289,8 @@ also contains, on day one, her stating the problem:
 > Intuitive 84%, Thinking 54%, Prospecting 61%, Turbulent 92%
 > (`raw/people/captures/2026-08-22_ally-lubin-16personalities-entp-t.md`). The
 > infobox is corrected, with the caveat that the instrument is self-administered
-> and the screenshot carries nothing tying it to her. **On the substance of the
-> December 2018 argument, Dan was right** — the auxiliary is Ti, not Fi, and her
+> and the screenshot carries nothing tying it to her. **On the substance of the**
+> **December 2018 argument, Dan was right** — the auxiliary is Ti, not Fi, and her
 > contest-and-audit moves throughout this page are its signature. The full
 > function-stack read, its contrastive test against ENFP, and what the record
 > says follows from it are at
@@ -295,8 +298,8 @@ also contains, on day one, her stating the problem:
 
 > **DAN:** Send me your address. I'm buying your Christmas gift <3
 > (I promise not to show up in North Carolina)
-> **ALLY:** Lies!!!!!1!1! … I'm scared to hahah … **You've literally said
-> you'd show up to my house!!!**
+> **ALLY:** Lies!!!!!1!1! … I'm scared to hahah … **You've literally said**
+> **you'd show up to my house!!!**
 
 He answers *"I'm kind of insulted that you think I'd be such an incompetent
 murderer,"* then, seriously: *"I seem to have a hard time getting across the
@@ -334,7 +337,7 @@ care routine so I can be ur future ex wife"*, then *"When you want to be a
 power couple LMK"*, and — after Dan says he sent her a love letter after
 knowing her zero days — *"I know it ur gf doesn't appreciate your emo
 tendencies but I do / Finally someone that ~understands me~."* Dan's reply is
-the sharpest thing he says about Annie in the whole 2018–2019 record: *"She's
+the sharpest thing he says about [[wiki/people/annie-ulmer|Annie]] in the whole 2018–2019 record: *"She's
 no ally lubin / She aight / But she no you."*
 
 **The payments predate the crisis.** The page has framed the conversion into a
@@ -359,14 +362,14 @@ in so that she can keep an eye on them."*
 Four months into daily contact, Polyak confronts Dan in Facebook Messenger:
 
 > Hey man, I woke up to a text from Ally about a missed phone call which was
-> super confusing since I was asleep. I hit her up and heard that **you fake
-> used my number for some online shit.** In the future, please don't. That is
+> super confusing since I was asleep. I hit her up and heard that **you fake**
+> **used my number for some online shit.** In the future, please don't. That is
 > a MAJOR invasion of both of mine and her's privacy and regardless of both of
 > you having my numbers, it's jarring and extremely creepy. Your message to
 > her about me being "collateral damage" is arrogant and truly shows me
 > intentions of why you're kept in contact. Very slimy move. I have all the
-> screenshots of your messages with Ally, this isn't a joke, **I will pursue
-> legal action if this happens again**…
+> screenshots of your messages with Ally, this isn't a joke, **I will pursue**
+> **legal action if this happens again**…
 
 No reply from Dan appears in the thread. Two days later Facebook's
 `people_and_friends.html` records an activity stamp naming Alexandra Lubin,
@@ -536,7 +539,7 @@ it's anything specific to you that is the cause of my bad response record."*
 Her answer is the sharpest sentence anyone directs at him in this thread:
 *"Well I do / It's personal lol."*
 
-Ally knows about Annie — *"What about Anne lol"* — and when Dan calls her
+Ally knows about [[wiki/people/annie-ulmer|Annie]] — *"What about Anne lol"* — and when Dan calls her
 *"young lady,"* she answers: *"Ok your opinion doesn't matter much because you
 lost your mind over like a cheap stripper."* Dan's self-assessment in response
 is the most precise diagnostic anyone in the corpus makes of him: *"My only
@@ -560,9 +563,8 @@ $100"*; and a single *"Lololol"* with an attachment on November 17, 2025.
 ## June 1, 2026 — the burst that was never delivered
 
 At `2026-06-01 00:27:49` Dan signs off on the eleven-year relationship with
-Annie — *"Goodbye forever. This was not how it should have ended"* — the event
-the wiki files as [[wiki/timeline/events/group-chat-closure|the group chat
-closure]].
+[[wiki/people/annie-ulmer|Annie]] — *"Goodbye forever. This was not how it should have ended"* — the event
+the wiki files as [[wiki/timeline/events/group-chat-closure|the group chat closure]].
 
 At **20:06:05 the same day**, nineteen hours and thirty-eight minutes later,
 he opens the Ally channel for the first time in fourteen months:
@@ -574,9 +576,9 @@ he opens the Ally channel for the first time in fourteen months:
 > convinced him she was lying about everything she said about me….and I was
 > being super bizarre. I asked him if he was a zionist in the middle of the
 > whole thing and his brain had to reboot from the weirdness
-> **more importantly when am I allowed to come try to marry on you because I
-> need to go so far away this girl broke my entire brain and I am no longer a
-> piece of shit scumbag who would cheat now so lets make haste**
+> **more importantly when am I allowed to come try to marry on you because I**
+> **need to go so far away this girl broke my entire brain and I am no longer a**
+> **piece of shit scumbag who would cheat now so lets make haste**
 > You should have told me a long time ago that cheating on people will make
 > that other person feel like you're falling into a collapsing supernova I
 > hated it so much
@@ -595,8 +597,8 @@ outbound, no reply in any export.
 > wrong: there are **nine** messages, not ten.
 >
 > This is corroborated rather than resting on testimony alone. Ally's first
-> line on August 18, 2026 — before any of this is discussed — is *"Why do I
-> have 2 numbers for you and an iCloud"*, which is the mechanism stated from
+> line on August 18, 2026 — before any of this is discussed — is *"Why do I*
+> *have 2 numbers for you and an iCloud"*, which is the mechanism stated from
 > her side. **The correction propagates:** at least one of this channel's
 > celebrated long silences is a routing artifact, and the fourteen-month and
 > thirty-eight-month gaps should not be read as pure dormancy without checking
@@ -604,9 +606,9 @@ outbound, no reply in any export.
 > [[wiki/mind/synthesis/dormancy-not-exit]].
 
 > **PREDICTION RESOLVED [2026-08-20] — half right.** This page predicted that
-> *"the next contact with Ally will follow a rupture in Dan's primary
-> attachment within days, not precede one, and it will originate from Dan and
-> go unanswered."* The August 18 contact **did** originate from Dan and **did**
+> *"the next contact with Ally will follow a rupture in Dan's primary*
+> *attachment within days, not precede one, and it will originate from Dan and*
+> *go unanswered."* The August 18 contact **did** originate from Dan and **did**
 > sit inside a rupture — but it was answered, at length, by her: 154 inbound
 > messages in eight hours. The falsifier the page named ("a sustained
 > Ally-initiated exchange during a period of relational stability") did not
@@ -646,7 +648,7 @@ and three of her objections are load-bearing:
 - On the count of images: *"I def sent you more pics they just prob weren't
   graphic nudes / TASTEFUL nudes."* Dan's *"2 pictures"* is his own figure and
   she has always disputed it.
-- On the whole pattern, having read the Annie material: *"Men are so
+- On the whole pattern, having read the [[wiki/people/annie-ulmer|Annie]] material: *"Men are so
   predictable"* / *"You just love bomb"* / *"And you're intense."* Dan's
   defence — *"love bomb is like a malicious tactic and there very little
   malice"* — is met with *"I didn't say malicious,"* at which he concedes:
@@ -699,7 +701,7 @@ the boy smashing factory."*
 > possibly a laundered AI paraphrase, because the only corpus occurrence was
 > inside `Gemini Activity.html`. **It is hers**, verbatim, August 18, 2026 at
 > 21:31:49. Three other phrases flagged in the same gap — "boy smashing
-> factory," "coke just zaps your money," "opiates literally kill you" — are
+> factory," "[[wiki/health/cocaine|coke]] just zaps your money," "opiates literally kill you" — are
 > also confirmed genuine. The fourth, "Okay deal. Sounds good 1-2-3 break," is
 > confirmed **fabricated**; see the correction at the top of this page.
 
@@ -727,11 +729,11 @@ the supply to try to gain more access"* (13:43).
 
 > **CAVEAT — the August 19 inbound is missing, not absent.** The export
 > contains 331 outbound messages on August 19 and zero inbound, but Dan's own
-> messages that day are unambiguously responsive: *"Sorry is this your coffee
-> order or your answer,"* *"Bob was born in what year,"* *"Okay okay i get it
-> so you have a legitimate grievance here,"* *"Are you SERIOUS??? / I would
-> never do that."* Ally was replying. **The capture, not the conversation,
-> stops at 21:42 on August 18.** Every claim on this page about what Ally said
+> messages that day are unambiguously responsive: *"Sorry is this your coffee*
+> *order or your answer,"* *"Bob was born in what year,"* *"Okay okay i get it*
+> *so you have a legitimate grievance here,"* *"Are you SERIOUS??? / I would*
+> *never do that."* Ally was replying. **The capture, not the conversation,**
+> **stops at 21:42 on August 18.** Every claim on this page about what Ally said
 > or did after that time is therefore withheld, including the previous
 > version's account of her cat dying, her answering the question about her
 > brother, and her asking whether the wiki's model of her was accurate — that
@@ -741,7 +743,7 @@ the supply to try to gain more access"* (13:43).
 ## The August 18–19 overlap
 
 This is the finding that revises the page's old thesis, and it is only visible by
-laying the Ally export beside the Annie export for the same forty-eight hours.
+laying the Ally export beside the [[wiki/people/annie-ulmer|Annie]] export for the same forty-eight hours.
 The two threads are not sequential in the termination window — they interleave.
 
 | Hour (2026) | → Annie | ← Annie | → Ally | ← Ally |
@@ -801,29 +803,29 @@ Three days after the largest burst on record and unanswered on the elopement
 pitch, Dan sends a single long unbroken message — not a joke, not priced,
 not addressed to a crisis. It is filed here in full because a page that
 elsewhere argues the attachment is real, mutual in flashes and structurally
-unlike the Annie channel should let the primary source make that case rather
+unlike the [[wiki/people/annie-ulmer|Annie]] channel should let the primary source make that case rather
 than paraphrase it:
 
-> **DAN (2026-08-21):** *"You really are unlike anyone else that I've ever
-> experienced. I've been thinking a lot about what it was about you that made
-> me so comically attracted to you that I spent more than a decade flailing
-> around like an idiot on social media, desperately trying to get your
-> attention so that I could meet you. There was never any reason whatsoever
-> to think that this was a good idea… the chances of you being curious enough
-> to waste your time getting to know a mediocre looking, drug-addled, autistic
-> tryhard were lower than 0. And yet…. I just never got over it. […] Listen;
-> you could scrape through everything I've ever done online and I promise you
-> that there's no precedent for the role you've been unwillingly cast in for
-> me. […] The real reason that I noticed you and couldn't get you out of my
-> head was that I have never come across a girl who is so quick and funny
-> that it made me feel like they were on an entirely different level. Its the
-> way you dress and your ability to spot trends… It's your personal brand.
-> It's your aesthetic. It's.. just…you. […] I do hope that I can show you that
-> I'm really not interested in being the person who would message you only to
-> tell you about the bizarre sex shit going on or a personal crisis anymore.
-> […] I still haven't lost interest in the same things about you that made me
-> your #1 simp for 17 years and counting."* — signed **"Your future soulmate,
-> Beto o'rourke."**
+> **DAN (2026-08-21):** *"You really are unlike anyone else that I've ever*
+> *experienced. I've been thinking a lot about what it was about you that made*
+> *me so comically attracted to you that I spent more than a decade flailing*
+> *around like an idiot on social media, desperately trying to get your*
+> *attention so that I could meet you. There was never any reason whatsoever*
+> *to think that this was a good idea… the chances of you being curious enough*
+> *to waste your time getting to know a mediocre looking, drug-addled, autistic*
+> *tryhard were lower than 0. And yet…. I just never got over it. […] Listen;*
+> *you could scrape through everything I've ever done online and I promise you*
+> *that there's no precedent for the role you've been unwillingly cast in for*
+> *me. […] The real reason that I noticed you and couldn't get you out of my*
+> *head was that I have never come across a girl who is so quick and funny*
+> *that it made me feel like they were on an entirely different level. Its the*
+> *way you dress and your ability to spot trends… It's your personal brand.*
+> *It's your aesthetic. It's.. just…you. […] I do hope that I can show you that*
+> *I'm really not interested in being the person who would message you only to*
+> *tell you about the bizarre sex shit going on or a personal crisis anymore.*
+> *[…] I still haven't lost interest in the same things about you that made me*
+> *your #1 simp for 17 years and counting."* — signed **"Your future soulmate,**
+> **Beto o'rourke."**
 
 Full text: `raw/self/sage/` capture of `raw/people/captures/2026-08-21_175309_gap-ally-lubin.md`.
 
@@ -832,8 +834,7 @@ names its own genre and pre-apologizes for it — *"this is where your
 observation about me saying the same trite shit to girls would usually
 invalidate all of the aww factor"* — which is the same self-aware,
 disarm-the-critique-in-advance move he runs everywhere else in this
-relationship and in [[wiki/mind/concepts/conflict-architecture|conflict
-architecture]] generally. Second, "17 years and counting" revises the
+relationship and in [[wiki/mind/concepts/conflict-architecture|conflict architecture]] generally. Second, "17 years and counting" revises the
 "decade" framing this page uses for the origin (2008, per Dan's own
 December 2018 accounting): counted from 2026, seventeen years back lands in
 2009, a one-year discrepancy inside a letter otherwise built on precision
@@ -888,8 +889,8 @@ they agree exactly.
 > The chat.db file has 1,376 lines and **1,285 records**; August 18 has 143
 > lines and **375 records**. The 74% share previously claimed for the 2019
 > peak was computed against the smaller total and is now **51%**, because the
-> August 2026 burst is nearly as large as the 2019 crisis. **The phone
-> handle's 1,080/623/457 is also corrected** — the true figure is
+> August 2026 burst is nearly as large as the 2019 crisis. **The phone**
+> **handle's 1,080/623/457 is also corrected** — the true figure is
 > **1,064/612/452** from the desktop export `imessage_export_5619061550`,
 > which is the only source containing both sent and received for that
 > handle.
@@ -959,7 +960,7 @@ directionally right and factually loose:
 
 The same eighteen years are read a second way, and the two readings cannot
 both be right. This page documents the Ally thread; it does not adjudicate
-whether that thread and the Annie thread formed a single concurrent attachment
+whether that thread and the [[wiki/people/annie-ulmer|Annie]] thread formed a single [[wiki/mind/synthesis/concurrent-attachment-hypothesis|concurrent attachment]]
 system. [[wiki/self/concepts/ally-and-dan-love-as-destiny]] reads the identical
 record as a courtship that has been converging the whole time, and projects it
 forward to a marriage inside three years.

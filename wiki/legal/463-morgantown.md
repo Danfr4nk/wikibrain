@@ -112,17 +112,17 @@ difference is exposure — at BFS the worst case was a lost job; here it is
 housing. As of the last ingest there is no documented post-close plan for
 where Dan lives if 463 becomes untenable.
 
-> **CORRECTED [2026-08-18]:** The sentence above previously read *"Suz's
-> finances are themselves cyclical — the operating manual documents $750/week
-> borrowing patterns — so a lien-sized shock has no obvious absorber."* The
+> **CORRECTED [2026-08-18]:** The sentence above previously read *"Suz's*
+> *finances are themselves cyclical — the operating manual documents $750/week*
+> *borrowing patterns — so a lien-sized shock has no obvious absorber."* The
 > $750/week figure does not survive contact with the primary record: it derives
-> from a single accusation on 13 December 2018 (*"You borrowed $750 last week
-> alone!"*), which `operating_manual.md` — AI-secondary — generalised into a
+> from a single accusation on 13 December 2018 (*"You borrowed $750 last week*
+> *alone!"*), which `operating_manual.md` — AI-secondary — generalised into a
 > rate and also inverted the direction of. See
 > [[wiki/people/suzanne-frank]]. The conclusion the sentence supported is
-> unchanged and in fact strengthened by what replaced it: she filed **Chapter
-> 13 in October 2024 (case 24-22285-GLT, ~$157,000 scheduled, IRS priority
-> claims for 2018-2021)** and has stated her income as $11,000-$14,000 a year.
+> unchanged and in fact strengthened by what replaced it: she filed **Chapter**
+> **13 in October 2024 (case 24-22285-GLT, ~$157,000 scheduled, IRS priority**
+> **claims for 2018-2021)** and has stated her income as $11,000-$14,000 a year.
 > There is no absorber because there are no assets left — 337 Saratoga, the
 > only unencumbered one, was liquidated in June 2026 to satisfy that filing.
 
@@ -183,11 +183,11 @@ unprompted, ***"463 Morgantown st ?"*** followed by four laughing emoji.
 Dan's reply is the correct one and worth preserving verbatim as a record of how
 he handled it:
 
-> *"So why are you sending me my address? Its an implied threat and any court
-> would read it as such"* · *"let me repeat that you are not welcome on the
-> property I live on. There are cameras everywhere and I will protect myself if
-> you decide to show up here"* · *"I have all of your threats documented and
-> they aren't very ambiguous"* · *"Okay enjoy the TRO"*
+> *"So why are you sending me my address? Its an implied threat and any court*
+> *would read it as such"* · *"let me repeat that you are not welcome on the*
+> *property I live on. There are cameras everywhere and I will protect myself if*
+> *you decide to show up here"* · *"I have all of your threats documented and*
+> *they aren't very ambiguous"* · *"Okay enjoy the TRO"*
 
 Coles walked it back sixteen minutes later — *"No one's going on your property
 😂😂"*, *"Nah not a threat I gain nothing doing anything to you"* — and then,

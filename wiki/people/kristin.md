@@ -1,18 +1,19 @@
 ---
 domain: people
 page_type: entity
+title: "Kristin Prentiss"
 status: closed
 knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-08-26
+date_modified: 2026-09-12
 date_range_start: 2025-08-29
-date_range_end: 2025-12-10
+date_range_end: 2026-09-12
 sources: ["raw/self/message-csv/imessage_3307038747_both_all_now.csv", "raw/self/message-csv/imessage_export_3307038747_20260624.csv", "raw/self/dox-scan/messenger_Kristin Shaelene_2025-09-01-07-53-22.txt", "raw/people/kristin/chimera-genesis-addendum.md", "raw/self/dox-md/tom_kristin_master_dossier.md", "raw/self/dox-md/operating_manual.md", "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv", "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md"]
 related: ["wiki/people/tom", "wiki/people/annie-ulmer", "wiki/mind/concepts/contact-gini", "wiki/mind/synthesis/dormancy-not-exit", "wiki/timeline/periods/2025-collapse", "wiki/timeline/periods/dec-2025-spike", "wiki/self/message-corpora/master-message-dump", "wiki/self/message-corpora/source-coverage-index", "wiki/mind/synthesis/attachment-trauma-bond", "wiki/mind/psychosexual/arrangement-history", "wiki/mind/synthesis/ai-collaborative-analysis", "wiki/mind/concepts/conflict-architecture"]
 tags: [relationships, trauma-bond, digital-footprint, legal, ai-collaboration]
 infobox:
   name: "Kristin Prentiss"
-  relationship_to_dan: "girlfriend (Aug-Nov 2025), closed hostile"
+  relationship_to_dan: "girlfriend (Aug-Nov 2025); block held Dec 2025–Sep 2026, broken by Dan 2026-09-12"
   sex: female
   location: "Akron / Barberton, Ohio"
   first_contact: 2025-08-29
@@ -23,7 +24,7 @@ connections:
     claim: "The 2025 relationship is the arrangement's documented inversion — total-exclusivity demands and purity tests where the Annie structure practiced authored openness."
   - page: wiki/mind/synthesis/block-unblock-loop
     type: component-of
-    claim: "Kristin's Dec 9 2025 block of Dan held permanently — the loop's inbound control case: her severance was structural because she needed nothing from the channel."
+    claim: "SUPERSEDED [2026-09-12]: Kristin's Dec 9 2025 block of Dan held eight months as observed contact, but the 'cleanest inbound control case' framing no longer holds as written — Kristin attempted contact via Messenger message-requests on 2026-08-26 (dat:1452), and Dan broke the block himself with four outbound iMessages on 2026-09-12 (dat:1453). The December episode remains the loop's inbound-block instance; the control-case claim is annotated pending resolution of the September re-entry."
   - page: wiki/people/tom
     type: component-of
     claim: "The Kristin thread enters the corpus through Tom's social circle; he is the introduction vector, and the AI dossier the wiki drew her biography from is about her relationship with him rather than with Dan."
@@ -39,27 +40,32 @@ connections:
   - page: wiki/people/ally-lubin
     type: contradicts
     claim: "The corpus's two poles on conflict disposition: a challenge here is met with escalation to federal complaint portals and a permanent block, where the Ally channel narrows a challenge and concedes it in ninety seconds."
+  - { target: "[[wiki/mind/synthesis/the-romantic]]", type: documents, claim: "Type specimen I — the fastest inflation on record: the day-3 'i love you,' the September 5 love letter, the October 15 manifesto." }
+  - { target: "[[wiki/mind/synthesis/vacancy-rule]]", type: documents, claim: "Transition 3 — the 2025 contest." }
+  - { target: "[[wiki/mind/synthesis/kristin-channel]]", type: documents, claim: "The channel entry's audition-then-exit reading versus this page's biography — same primary record, non-overlapping thesis." }
+  - { target: "[[wiki/mind/synthesis/the-curse]]", type: references, claim: "The forty dollars is one of the curse's co-held inventory items — the thing the refusal keeps performing around." }
 ---
 
 # Kristin Prentiss
 
 Kristin Prentiss is the only other person Dan had a relationship with during the
-Annie decade, and it lasted ten weeks. It ran from the end of August 2025 to
+[[wiki/people/annie-ulmer|Annie]] decade, and it lasted ten weeks. It ran from the end of August 2025 to
 early November, produced about **22,000 messages across two platforms**, and
-ended in an argument about **forty dollars** that neither of them got past. A
+ended in an argument about **[[wiki/mind/synthesis/kristin-channel|forty dollars]]** that neither of them got past. A
 month of near-silence followed, then a four-day attempt to restart it in December
 that ended with her blocking him and sending links to two federal complaint
-portals. She has not appeared in the corpus since.
+portals. She had not appeared in the corpus since — until September 2026 (see
+"September 2026" below).
 
 She is from **Barberton, Ohio**, born 21 July 1990, and was living in the Akron
 area — about two hours from Uniontown — throughout. The distance is not
 incidental: *you wouldn't drive to see me* is the grievance underneath the
 grievance, and the $40 is the form it finally took.
 
-> **CORRECTED [2026-08-16] — her surname is Prentiss, not Shaelene, and she says
-> so herself.** The previous version of this page stated: *"Last name confirmed as
-> Shaelene from the dox-scan messenger export (the operating manual had listed
-> 'Shalene or Prentiss' as unknown)."* That confirmation was taken from a
+> **CORRECTED [2026-08-16] — her surname is Prentiss, not Shaelene, and she says**
+> **so herself.** The previous version of this page stated: *"Last name confirmed as*
+> *Shaelene from the dox-scan messenger export (the [[wiki/mind/concepts/exocortex|operating manual]] had listed*
+> *'Shalene or Prentiss' as unknown)."* That confirmation was taken from a
 > **filename** — `messenger_Kristin Shaelene_2025-09-01-07-53-22.txt` — which
 > records a Facebook *display name*, conventionally first + middle. Her own
 > messages settle it twice in the first person:
@@ -67,8 +73,8 @@ grievance, and the $40 is the form it finally took.
 > > `2025-09-11` — *"I just don't know how you expect me, **Kristin Prentiss** - to believe that you, Dan Frank are sufficiently healed…"*
 > > `2025-09-13` — *"The thing about **Kristin Prentiss** is I am extremely good at hiding my emotions"*
 >
-> Dan uses it too — *"I love you so much kristin prentiss"*, *"Empress Kristin
-> Prentiss"*. `operating_manual.md` had offered "Shalene or Prentiss" and marked it
+> Dan uses it too — *"I love you so much kristin prentiss"*, *"Empress Kristin*
+> *Prentiss"*. `operating_manual.md` had offered "Shalene or Prentiss" and marked it
 > unknown; the wiki resolved that uncertainty in the wrong direction, and resolved
 > it from the weaker of the two available kinds of evidence.
 
@@ -104,12 +110,12 @@ Twitter account together.
 > December it is a five-week-old grievance being recited, not a fresh fight.
 
 > **SHARPENED [2026-08-17] — and the evidence was already quoted below.** The
-> operator: *"on November 2 2025 Dan references the $40 debt as being a week old
-> already which would place it in October"*
+> operator: *"on November 2 2025 Dan references the $40 debt as being a week old*
+> *already which would place it in October"*
 > (`raw/people/captures/2026-08-16_172243_gap-kristin.md`). The 14:33 message
-> quoted just below says it in Dan's own words — *"I've been answering for where
-> it is gone for **the last week**"* — so **the money went missing in late
-> October**, not November. This page carried the line and did not draw the
+> quoted just below says it in Dan's own words — *"I've been answering for where*
+> *it is gone for **the last week**"* — so **the money went missing in late**
+> **October**, not November. This page carried the line and did not draw the
 > inference from it.
 >
 > That lengthens the grievance without changing its shape, and the shape is what
@@ -161,7 +167,7 @@ recites the accumulated list —
 | 18:52–53 | Dan | *"'I'm CALLING THE POLICE ON YOU!'"* · *"lawyer first question : so did you block him and he used other numbers?"* |
 | 18:54 | Kristin | *"I didn't give you my IP address. And trust me I already know the entire process"* |
 | 18:55 | Kristin | *"All this is screenshotted. Blocking you now. Don't contact me again or an officer will be reaching out."* |
-| 18:56 | Dan | *"mr. officer i live at 337 saratoga drive"* |
+| 18:56 | Dan | *"mr. officer i live at [[wiki/places/337-saratoga-drive|337 saratoga drive]]"* |
 
 Dan's escalation is a **response to being told to get lost**, not an unprompted
 pivot to technical threats — the old ordering implied the latter. The final
@@ -170,7 +176,7 @@ documented on either side; the threat surface is real and uncharged, recorded
 here for completeness alongside the [[wiki/work/bfs-foods]] material from the same
 window.
 
-## Facebook came first, and the page never knew it
+## [[wiki/self/facebook|Facebook]] came first, and the page never knew it
 
 > **CORRECTED [2026-08-16]:** the relationship did not begin on 1 September. The
 > old page set `date_range_start: 2025-09-01` and described the Messenger material
@@ -218,10 +224,10 @@ Marcus, Aziz, Ahmed"*. **Danny is dead**, and is the relationship's founding myt
 supposed to be 'on and off' with Danny"* (6 Sep). **Jeff** is a covered-up tattoo,
 raised on 19 September as an argument about Dan's refusal to cover his own.
 
-> **CORRECTED [2026-08-16] — she is not a mother, and "Kayden" appears nowhere in
-> 20,009 messages.** The old page stated *"She is a mother, and custody and court
-> recur as live stressors in the thread"*, and attributed to the dossier *"maternal
-> agony over Kayden."* Searching the entire iMessage thread returns **zero** hits
+> **CORRECTED [2026-08-16] — she is not a mother, and "Kayden" appears nowhere in**
+> **20,009 messages.** The old page stated *"She is a mother, and custody and court*
+> *recur as live stressors in the thread"*, and attributed to the dossier *"maternal*
+> *agony over Kayden."* Searching the entire iMessage thread returns **zero** hits
 > for Kayden in any spelling and **zero** for custody. What she says on
 > 22 September is the opposite:
 >
@@ -230,11 +236,11 @@ raised on 19 September as an argument about Dan's refusal to cover his own.
 > The child is **Ryder**, her half-sister's stepson.
 >
 > The claim's source is `tom_kristin_master_dossier.md`, which is **AI-secondary**
-> and — by its own opening — analyses *"the intimate interpersonal dynamic between
-> 'Tom' and 'Kristin'"* at a time when *"Dan is entirely separate from Kristin."*
-> It asserts *"her son, Kayden, who suffers from severe, violent behavioral issues
-> requiring institutional care"* and quotes *"I'm literally sad every day because I
-> think I'm a bad mom."* None of that is corroborated anywhere in Dan's own corpus.
+> and — by its own opening — analyses *"the intimate interpersonal dynamic between*
+> *'Tom' and 'Kristin'"* at a time when *"Dan is entirely separate from Kristin."*
+> It asserts *"her son, Kayden, who suffers from severe, violent behavioral issues*
+> *requiring institutional care"* and quotes *"I'm literally sad every day because I*
+> *think I'm a bad mom."* None of that is corroborated anywhere in Dan's own corpus.
 > **This is left as an open contradiction rather than resolved** — the honest
 > possibilities are that the dossier fabricated it, that it describes a different
 > person, or that she withheld a child across 20,009 messages, and the third is
@@ -244,13 +250,13 @@ raised on 19 September as an argument about Dan's refusal to cover his own.
 > **CONTRADICTION [carried forward from 2026-07-19, still open]:** an earlier
 > version described her as "an ex-Brooklyn librarian living in Pittsburgh." The
 > corpus supports neither. It supports pharmacy / DoorDash / courthouse work and an
-> Akron, Ohio residence. She does say *"okay this is one of the things i miss most
-> about living in new york"* on Facebook — so a New York period is plausible and
+> Akron, Ohio residence. She does say *"okay this is one of the things i miss most*
+> *about living in new york"* on Facebook — so a New York period is plausible and
 > unverified; "Brooklyn librarian" is not.
 
 > **REVISED [2026-02-17, carried forward]:** per [[wiki/people/tom]] — not the
-> direct thread, which had been dark for two months by then — *"Kristin got kicked
-> out of her pharmacy over benzos."* One leg of the three-job stack no longer holds
+> direct thread, which had been dark for two months by then — *"Kristin got kicked*
+> *out of her pharmacy over benzos."* One leg of the three-job stack no longer holds
 > as of that date.
 
 ## What the September thread is actually about
@@ -275,11 +281,11 @@ disclosure in the thread, and it arrives inside a shared project rather than as 
 confession.
 
 > **CORRECTED [2026-08-16]:** the old page reported that during this session she
-> raised *"a possibly-related old handle or nickname — 'Krazy Krez' — and a name,
-> 'Daniel Kresowaty,' that she isn't sure is even connected to her."* Read in full,
-> the message is about **a man**, not herself: *"He has a few maybe and his FB's lol
-> they're all aliens and shit really. Weird mf. Uhh Daniel Kresowaty but never this
-> name I doubt it's always Krazy Krez or some shi[t]."* Her own former handle is
+> raised *"a possibly-related old handle or nickname — 'Krazy Krez' — and a name,*
+> *'Daniel Kresowaty,' that she isn't sure is even connected to her."* Read in full,
+> the message is about **a man**, not herself: *"He has a few maybe and his FB's lol*
+> *they're all aliens and shit really. Weird mf. Uhh Daniel Kresowaty but never this*
+> *name I doubt it's always Krazy Krez or some shi[t]."* Her own former handle is
 > `@kpdope` and only that. A third party's aliases had been attached to her.
 
 **Leave-versus-stay, stated as doctrine.** She describes her own architecture
@@ -294,14 +300,14 @@ read anything I said… You are amazing. But you are damaged"*). Instant retreat
 named pattern, walk-back, love restated — the whole loop in one evening, ten weeks
 before she executed it for real.
 
-**Tom is inside the thread, not behind it.** During a 20 September crisis over
+**[[wiki/people/tom|Tom]] is inside the thread, not behind it.** During a 20 September crisis over
 where she would sleep she refuses another man's house out of loyalty to Dan while
 he rages about hiding *"from Tom fucking faggot Maison"* — jealousy, supply
 logistics and a plan to stash drugs *"at his fucking grandparents in their
 backyard"* braided into one evening. Her own summary: *"WHAT IS MY LIFE."*
 
 **The redundancy dynamic, named by its subject.** In late October Dan asks her
-what she would think if he *"notably started talking to annie regularly and then
+what she would think if he *"notably started talking to [[wiki/people/annie-ulmer|annie]] regularly and then
 backed out of a relationship immediately and then put you on pause"* — the exact
 sequence she later accuses him of, described in advance by the person who went on
 to perform it.
@@ -351,21 +357,21 @@ nothing about how she handled conflict left room for it not to.
 | iMessage total | **20,009** (sent 10,102 / received 9,907) | `imessage_3307038747_both_all_now.csv` |
 | Facebook Messenger | **2,009 distinct** (Dan 1,439 / Kristin 570) | UI capture, 2025-09-01 |
 | Combined | **~22,018** | — |
-| Span | 2025-08-29 → 2025-12-10 | 67 active iMessage days |
+| Span | 2025-08-29 → 2025-12-10 (relationship); contact attempts/resumption 2026-08-26 → 2026-09-12 | 67 active iMessage days |
 | Dan's share, iMessage | 50.5% | near-parity overall |
 | Heaviest day | 2025-09-09 — 1,324 | the Twitter excavation |
 | Handle | `+13307038747` (Ohio, 330) | — |
 
-> **CORRECTED [2026-08-16] — the message count was wrong, and the file it came
-> from is the one the repo documents as unreliable.** The old page reported *"Total
-> messages (master dump) | 16,563"* and *"Volume rank | #3 overall."* The dedicated
+> **CORRECTED [2026-08-16] — the message count was wrong, and the file it came**
+> **from is the one the repo documents as unreliable.** The old page reported *"Total*
+> *messages (master dump) | 16,563"* and *"Volume rank | #3 overall."* The dedicated
 > both-direction export holds **20,009** — an undercount of 3,446, or 17%. 16,563
 > is the figure from `MASTER_MESSAGES_DB_DUMP.csv`, which `EXTRACTION_SPEC.md`
 > records as marking nearly everything `Received`. Every directional claim on the
 > old page therefore rested on the file the repository already knew not to trust
 > for direction.
 >
-> The same 16,563 was, until 2026-08-16, also credited to **Tom** on
+> The same 16,563 was, until 2026-08-16, also credited to **[[wiki/people/tom|Tom]]** on
 > [[wiki/self/context-core]] — see the audit there. One wrong number was doing
 > damage on two pages.
 
@@ -395,13 +401,14 @@ material, and every per-year message count that treats the dump as complete for
 
 | Date | Event |
 |---|---|
+| 2025-08-01→02 | The Wall built — dozens of printed B&W women's portraits on his basement wall, "my wall of despair." Built, by his own 08-03 account, to get *her* take ("we need to show kristin my wall of despair"), nearly four weeks before first direct contact. See [Attraction Guide](wiki/work/tech/attraction-guide.md) |
 | 2025-08-29 | First contact in evidence — Facebook Messenger |
 | 2025-08-30 | Bulk of the Facebook thread; link-trading, politics and music |
 | 2025-09-01 | Messenger UI captured 07:04–07:53; iMessage thread opens (933 messages) |
 | 2025-09-01→09 | Astrology sessions, her as expert; birth data given |
 | 2025-09-09 | Heaviest day of the relationship (1,324) — `@kpdope` excavation, meth/homelessness disclosure |
 | 2025-09-19 | The disorder-test withdrawal sequence; Jeff tattoo |
-| 2025-09-20 | Sleeping-arrangements crisis; Tom as active irritant |
+| 2025-09-20 | Sleeping-arrangements crisis; [[wiki/people/tom|Tom]] as active irritant |
 | 2025-09-22 | Ryder named — *"the only kid I've ever been around"* |
 | 2025-10-02 | Dan tells Tom they are "officially dating" (1,206 messages that day) |
 | 2025-10 (late) | Dan names the redundancy sequence to her in advance |
@@ -412,6 +419,46 @@ material, and every per-year message count that treats the dump as complete for
 | 2025-12-07→09 | Failed reactivation, 371 messages |
 | 2025-12-09 18:40–18:56 | Block, IC3 and IPR Center links, the sixteen minutes |
 | 2025-12-10 | One outbound message into a block |
+
+## September 2026: the block breaks — from both sides
+
+On 2026-08-26 Kristin tried to reach Dan on Messenger — five messages and a
+missed call into his message requests, where they sat unopened (dat:1452).
+On 2026-09-12, seventeen days later, the assistant's Messenger pull surfaced
+the thread live in conversation — Dan learned at 06:39:57Z that she had tried
+to reach him, and within the hour he had texted her on iMessage himself
+(dat:1453; screenshot thumbnailed in Sources, below). Per Dan (2026-09-13,
+dat:1454), the outbound was purely reactive: he messaged her *only* because he
+found out she had tried to get in touch — no spontaneous reinitiation, no
+pining check-in. The trigger was learning about her August attempt, full stop.
+
+Four texts, a dispensary photo, all marked Delivered, no reply in frame. The
+screenshot is Dan's own — "Look wgat you did", sent to the assistant at
+06:53:31 UTC. The in-chat joke that followed ("Eight-month block, dead in four
+texts and a dispensary photo") is not evidence and is not cited as any; the
+screenshot is the evidence, parsed above.
+
+None of the four texts is an apology, and they should not be read as one.
+The grievance ledger at the split ran her direction — in her own December
+words, quoted above: reneging on dating, back talking to her ex, the $40
+taken from his mother, never hanging out (2025-12-09). Dan adds (2026-09-13,
+dat:1454) that she also failed to come through on Suboxone she was supposed
+to get him — operator testimony, uncorroborated in the message record. The
+September texts are an invitation ("Come see me tomorrow") and an offer ("I
+give you dispo trees"), not contrition.
+
+A gloss on the opening text — "It's weird I thought about you you yesterday
+on the kirkaversary": *kirkaversary* is Dan's term, picked up from Twitter,
+for the one-year anniversary of Charlie Kirk being shot. His feed that day
+was AI-generated videos of Charlie Kirk and Jeff Epstein in rap videos; the
+text is a joke built on that — she crossed his mind on the day his timeline
+filled with Kirk/Epstein AI rap (dat:1454).
+
+What this changes: every "held permanently / eight months / no contact"
+sentence on this page now describes the period 2025-12-10 → 2026-08-26, not
+the present. The [[wiki/mind/synthesis/block-unblock-loop|block-unblock-loop]] synthesis keeps the December 2025 episode
+as its inbound-block instance, but the control-case claim is annotated, not
+asserted, until the September re-entry resolves.
 
 ## Gaps
 
@@ -436,9 +483,9 @@ material, and every per-year message count that treats the dump as complete for
   than the 2.41 MB canonical), has not been diffed against the primary. It may
   carry messages this analysis missed.
 
-> **GAP CLOSED [2026-08-17]:** this page previously said *"Nothing after
-> 2025-12-10. The block appears to have held; whether contact resumed
-> off-corpus is unknown."* The operator: **"No contact after 10 Dec 2025"**
+> **GAP CLOSED [2026-08-17]:** this page previously said *"Nothing after*
+> *2025-12-10. The block appears to have held; whether contact resumed*
+> *off-corpus is unknown."* The operator: **"No contact after 10 Dec 2025"**
 > (`raw/people/captures/2026-08-16_195122_gap-kristin.md`). The block held, and
 > has now held for **eight months** — which is what makes Kristin the cleanest
 > inbound control case on [[wiki/mind/synthesis/block-unblock-loop]]. Her
@@ -447,6 +494,38 @@ material, and every per-year message count that treats the dump as complete for
 > the silence is corroborated off-corpus, rather than merely unobserved, is the
 > difference between a control and an absence of data — a distinction this
 > corpus is otherwise bad at making.
+
+> **SUPERSEDED [2026-09-12] — the "no contact after 10 Dec 2025" claim is
+> superseded on both sides.** The old annotation above is preserved as the
+> record of what the wiki believed through 2026-09-11; what follows is what
+> the next morning's evidence showed.
+>
+> *Inbound, 2026-08-26:* Kristin sent Dan five Messenger messages — "What's up
+> you piece of shit?", "Long time no talk my fellow neuro fuck", "You missed a
+> call from Kristin.", "Fag", "Ew lol" — all into the **message-request**
+> (PENDING) folder, unseen by Dan until the 2026-09-12 Messenger pull surfaced
+> the thread. Verified verbatim against
+> `raw/messenger-2026-09-12/messenger-all.jsonl` (dat:1452). A contact
+> *attempt*, not a contact: different channel from the December block, unopened
+> for seventeen days. Dan believes she may have re-blocked him there (he could
+> not approve the request) — his inference, unverified.
+>
+> *Outbound, 2026-09-12 ~06:50 UTC:* Dan texted Kristin himself — four iMessages,
+> all delivered, no reply visible: "It's weird I thought about you you yesterday
+> on the kirkaversary" (edited), "I moved. Come see me tomorrow", a dispensary
+> photo (Maitri Medical Uniontown, Flower Foundry, insa KUSH MNZ), "I give you
+> dispo trees" (upload-027, dat:1453). Sent at 2:50 AM, minutes after the
+> assistant told him about her August messages. **The eight-month block was
+> broken by Dan, not by her** — opened from the inside, the loop's classic
+> shape with the polarity reversed from the 2026-08-16 reading.
+>
+> Net: the "cleanest inbound control case" framing on
+> [[wiki/mind/synthesis/block-unblock-loop]] no longer holds as written. The
+> severance held for eight months *as observed contact*; it did not hold as
+> *no attempts* (August) and it did not survive September — because Dan
+> re-entered. Whether her silence continues makes this a second failed
+> reactivation (cf. [[wiki/mind/synthesis/dormancy-not-exit]]) rather than a
+> reunion; the channel is open on his side and unanswered on hers.
 
 ## Notes
 
@@ -465,3 +544,9 @@ stores some text in **mathematical-monospace Unicode**, so a plain grep for
 curly-apostrophe trap in `EXTRACTION_SPEC.md` and belongs beside it.
 
 
+
+## Sources
+
+[![Dan's 2026-09-12 outbound iMessages to Kristin: four texts and a dispensary photo, all delivered](../media/upload-027.jpg)](../media/upload-027.jpg)
+
+*Dan's 2026-09-12 outbound iMessages to Kristin: four texts and a dispensary photo, all delivered. Evidence for the September 2026 block-break (dat:1453).*

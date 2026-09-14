@@ -1,0 +1,1130 @@
+{
+ "inventory_at_utc": "2026-09-12T20:38:25Z",
+ "count": 125,
+ "completeness": "complete: walked unfiltered library next-pages until next absent (10 pages, 188 items); 124 unique playlists + Liked Songs collection. The PLAYLISTS-filtered endpoint only exposes 20 and its offset=20 next-page returns 0 items, so it is not complete.",
+ "playlists": [
+  {
+   "title": " 𝙴Ņ̴̨̢̘̜̭̱̰̽̾̂̚̕Ö̸̡̨̧̭̱̘̜̰́̾̽̂̚̕R̶̢̨̡̜̰̭̘̱̔̂̾̈́̚̚𝙼O̸̧̨̢̘̭̜̱̰̾̽̂̚̕͝U̴̧̨̢̘̜̭̱̰̽̾̂̚̕ 𝚅Ḯ̸̡̨̧̭̱̘̜̰̾̽̂̚̕B̶̢̨̡̜̰̭̘̱̔̂̾̈́̚̚𝙴Ş̸̨̢̘̭̜̱̰̾̽̂̚̕͝ 𝙳Ą̶̡̢̜̰̭̱̘̂̾̈́̽̚̕͝𝙽 𝙵R̸̡̨̧̭̱̘̜̰̈́̾̽̂̚̕A̶̢̨̡̜̰̭̘̱̔̂̾̈́̚̚𝙽Ķ̸̨̢̘̭̜̱̰̾̽̂̚̕͝𝚅I̴̧̨̢̘̜̭̱̰̽̾̂̚̕ 𝙲R̸̡̨̧̭̱̘̜̰̈́̾̽̂̚̕A̶̢̨̡̜̰̭̘̱̔̂̾̈́̚̚𝚃Ȩ̸̨̢̘̭̜̱̰̾̽̂̚̕͝",
+   "subtitle": "D̵̦̬̮͌À̶̫̤̫̼̅͌N̶̜̼͎̬̅͆̐́͝ ̸̙̓͝F̸̛̯̞̟̓̔͂̏R̷̪̖͉̈́͌̈́A̸͎̘̱̲͌͛̈́͘N̸̜͖̓͌̚K̶̢̞̬͌ ̴͓̈́̈́E̷̛̠̗̘N̶̛̟̺̱̹̓̀͊O̸͓͇͛̾͘͝R̶̟͕̱̜̔̏͒͆M̸͈͇̿͒̒͠O̸̯͎͌̅̍U̶̜̮̐̍̚S̵̲̬̯͗́͘͝ ̷̟̟̚V̴̛̯͔̘͚̈́͆̅I̷̖̔̀B̵̤̞̰͍̋̈́̄E̶͙̳̘͗̓̇͑S̶͉̼̐ ̴̜̥̤̓̏̒V̶̨̤̓Ĩ̸̠̱̪̄P̷̯͒͌͗ ̸̼̟̦͓̿̋̕̚C̶̦̺̅R̶͖̼͒̈́A̵̖̰̾̈́̇̈́T̷̘͌̈́̇E̵̼͖̤͑",
+   "uri": "spotify:playlist:2a9XvopcGyBIAh411xkIOT",
+   "url": "https://open.spotify.com/playlist/2a9XvopcGyBIAh411xkIOT?si=zkKI20UYTUGxfjebCd1lSw",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "2025 LIKES",
+   "subtitle": "",
+   "uri": "spotify:playlist:4vXxmnkex1f9GCnryJ2KvK",
+   "url": "https://open.spotify.com/playlist/4vXxmnkex1f9GCnryJ2KvK?si=KqBXddbtRAKs7GoqJmBQhA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "2025 MASTER CRATE",
+   "subtitle": "",
+   "uri": "spotify:playlist:3UU89mzGvMjWpeWrk4aFFD",
+   "url": "https://open.spotify.com/playlist/3UU89mzGvMjWpeWrk4aFFD?si=GimQytebRe-wdo7rhQQf5w",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "2025 YEARLIST",
+   "subtitle": "",
+   "uri": "spotify:playlist:4J9YdEeSRHbfXVkskissqE",
+   "url": "https://open.spotify.com/playlist/4J9YdEeSRHbfXVkskissqE?si=-fnRdlhbToWqQdYhgks1zw",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "AGGRESSIVE DRUM N BASS ",
+   "subtitle": "all things Aggressive Drum & Bass created by YouTube gaming content creator \"Khonviction\" for all heavy drum n bass enthusiasts.",
+   "uri": "spotify:playlist:6T69sysJ1lmXWPoB1xjuiJ",
+   "url": "https://open.spotify.com/playlist/6T69sysJ1lmXWPoB1xjuiJ?si=eqzhlub1SLWQtToOLODYGA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "ALPHABET BOYS  (JAN26) (2)",
+   "subtitle": "",
+   "uri": "spotify:playlist:5PPwwAhIzHxSK12E1g3meY",
+   "url": "https://open.spotify.com/playlist/5PPwwAhIzHxSK12E1g3meY?si=R9xiHF_CTRWn_IG2t4NNvQ",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "April 2012☑️",
+   "subtitle": "",
+   "uri": "spotify:playlist:4izlRoKrY2bv7V6crtJBUZ",
+   "url": "https://open.spotify.com/playlist/4izlRoKrY2bv7V6crtJBUZ?si=BMPzunx7Sg2oybAfuhk7Rw",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "August 2012☑️",
+   "subtitle": "",
+   "uri": "spotify:playlist:7bwkoA18FhEAaVuOquUmlL",
+   "url": "https://open.spotify.com/playlist/7bwkoA18FhEAaVuOquUmlL?si=2laGHrcaRZiMkRpVpInxaQ",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "AUGUST 2017☑️",
+   "subtitle": "",
+   "uri": "spotify:playlist:6czyJdw6kp8ywUtjX0x0ZH",
+   "url": "https://open.spotify.com/playlist/6czyJdw6kp8ywUtjX0x0ZH?si=2uYh8GjUTXaEigMLQvPJEg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Baby’s First Stalker",
+   "subtitle": "",
+   "uri": "spotify:playlist:33fJZQdoD9hnC18XqDHXS7",
+   "url": "https://open.spotify.com/playlist/33fJZQdoD9hnC18XqDHXS7?si=TdsFxIGPQDiamuo5Iqkwpw",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Bass Music 2026 🔊",
+   "subtitle": "Hype bangers all day and night... For submissions email clubeditionplaylists@gmail.com",
+   "uri": "spotify:playlist:4TGvJKbe0gEgYZNHrsoAnc",
+   "url": "https://open.spotify.com/playlist/4TGvJKbe0gEgYZNHrsoAnc?si=j4-xDcR1SrG5U5YivvuCqg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "BDA",
+   "subtitle": "",
+   "uri": "spotify:playlist:3LaB7hZUXRLk2LZ9xBpUEZ",
+   "url": "https://open.spotify.com/playlist/3LaB7hZUXRLk2LZ9xBpUEZ?si=lfN0rDL2SoWroqo1FAOzpw",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Best Drum & Bass 2022",
+   "subtitle": "All kinds of drums and basses were considered. Sorted by genre, in this order: Liquid, Uplifting Dancefloor, Dancefloor Bangers, Neurofunk, Deep/Dark/Techy",
+   "uri": "spotify:playlist:5rNlMx85z80ziJoXZSqun6",
+   "url": "https://open.spotify.com/playlist/5rNlMx85z80ziJoXZSqun6?si=b3K-fmhaRMqg5Vk4j1v6JA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Best Drum & Bass 2023 ",
+   "subtitle": "All kinds of drums and basses were considered. Sorted by genre, in this order: Liquid, Uplifting Dancefloor, Dancefloor Bangers, Neurofunk, Deep/Dark/Techy",
+   "uri": "spotify:playlist:46WBhp46o0Ym6lBUi8a503",
+   "url": "https://open.spotify.com/playlist/46WBhp46o0Ym6lBUi8a503?si=fcNL12AwRbS60arBmwHeVw",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Best Drum & Bass 2024",
+   "subtitle": "All kinds of drums and basses were considered. Sorted by genre, in this order: Liquid, Uplifting Dancefloor, Dancefloor Bangers, Neurofunk, Deep/Dark/Techy",
+   "uri": "spotify:playlist:1kbK2JZHBHk0MDbj5pdi7O",
+   "url": "https://open.spotify.com/playlist/1kbK2JZHBHk0MDbj5pdi7O?si=Ps6KMBxoSR2rd8Ll3GxqaQ",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "birthday mix for jesus - by snarkotics",
+   "subtitle": "",
+   "uri": "spotify:playlist:1e3TistQOeBBqQKvmzoWXd",
+   "url": "https://open.spotify.com/playlist/1e3TistQOeBBqQKvmzoWXd?si=7S-OdpFZRF6odFTQojhTBw",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Bis Hinten gegen ! ",
+   "subtitle": "",
+   "uri": "spotify:playlist:6HCHccxi4NsXiiD6KRyZud",
+   "url": "https://open.spotify.com/playlist/6HCHccxi4NsXiiD6KRyZud?si=W08qPjH-SyqPVnlwDlPqlg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Brand New Drum And Bass 🦀",
+   "subtitle": "The latest and greatest from all corners of DnB, updated every friday! Instagram: @lelelelelennart",
+   "uri": "spotify:playlist:4yfYTwDYPXn9GuhZxeEg53",
+   "url": "https://open.spotify.com/playlist/4yfYTwDYPXn9GuhZxeEg53?si=FZ9X6FJuRH2Gcf7-j33cfA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "BROSTEP",
+   "subtitle": "Playlist dedicated to the sounds of BROSTEP, classic and new. Curated and updated weekly by Jarvis.",
+   "uri": "spotify:playlist:4e1TfVuPeumCSZoA8KRq48",
+   "url": "https://open.spotify.com/playlist/4e1TfVuPeumCSZoA8KRq48?si=vvj5bRoTS0iqCigz2GbAMw",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "B̴͎̠̜͋͋A̶͖̤̱͘S̸̛͕͕̺̎̎S̴̛͎̅͊ ̴͎̎̔͐Ḧ̴͇̼́Ơ̴̲̻̱̈́U̶̠̟̼͛S̵̨͙̍Ë̷͚̻̫́͘͝ ̶̦̑͗͘D̷̰͎̖̿̑Ḁ̶̗̖̔̊͝N̶͇̩̒̑͜ ̷̛͎̈́F̷̞̥͋̿͝R̴̡͔̰̾A̷̳̯͐̄͝N̸̛͙̺̺͆́K̶̪̹̻͋͗ ̶̨̿̏V̷̦͓͉͋̓I̶̗͇͐̅̍P̷̪̤̰̽ ̵̲̀̿̈́͜C̵͍̜̀̚R̶̥̼̰͌̒A̴̦̤̾̚T̴̛̥̳̐̚E̶̬̳͚̎̔͂",
+   "subtitle": "",
+   "uri": "spotify:playlist:7CcyyRrPRpafLX53EOn2d3",
+   "url": "https://open.spotify.com/playlist/7CcyyRrPRpafLX53EOn2d3?si=KKPK8BiVRlaTDHtTv0z0lg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Country",
+   "subtitle": "",
+   "uri": "spotify:playlist:0KfTFhAgdo7gGyIhsFRf4T",
+   "url": "https://open.spotify.com/playlist/0KfTFhAgdo7gGyIhsFRf4T?si=rA1QSEB6RrGAtzHebBYY0Q",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "crying in the shower",
+   "subtitle": "",
+   "uri": "spotify:playlist:0oC7904EM3bHeGMIpIC0Mb",
+   "url": "https://open.spotify.com/playlist/0oC7904EM3bHeGMIpIC0Mb?si=mrV-yLvgT02l5hO7qhxmDg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "DAILY BITES",
+   "subtitle": "Check this playlist every week to get a new taste of what's going on in the world of Bite This, from new releases on the label, takeovers from Bite This artists, and music form around the world that Jauz and his label mates are into at the moment!",
+   "uri": "spotify:playlist:4k6QS5MmZN4jkMoKRsvxSU",
+   "url": "https://open.spotify.com/playlist/4k6QS5MmZN4jkMoKRsvxSU?si=oJnb8l2OQ5mge7DejS7Nlg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Dan & Dan: Attorney at Law",
+   "subtitle": "",
+   "uri": "spotify:playlist:2RDlxAkLobJoySN0BYMB0R",
+   "url": "https://open.spotify.com/playlist/2RDlxAkLobJoySN0BYMB0R?si=otJl6SB-T7mlkNVFzTZGgA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Dan private",
+   "subtitle": "",
+   "uri": "spotify:playlist:0emAnqY4RjLjcB85qn2ytM",
+   "url": "https://open.spotify.com/playlist/0emAnqY4RjLjcB85qn2ytM?si=y4URoqsPTB2v8hG01uGvog",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "DEC 2017",
+   "subtitle": "",
+   "uri": "spotify:playlist:6pa96Fbvgejwqea4Us9iRo",
+   "url": "https://open.spotify.com/playlist/6pa96Fbvgejwqea4Us9iRo?si=kowCgQlYSO6zKLJ9Y_ynsw",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Deep / Dark Drum & Bass",
+   "subtitle": "A mix of deep, dark, heavy & grity tracks",
+   "uri": "spotify:playlist:04QTCZ0oZZfGlPEMhqCLVJ",
+   "url": "https://open.spotify.com/playlist/04QTCZ0oZZfGlPEMhqCLVJ?si=qODFoJ7uRg-5rG2U3Zr6wA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Diplo - Diplo's Revolution Top 30 Of 2025 Countdown 2025-12-22",
+   "subtitle": "by 1001Tracklists.com",
+   "uri": "spotify:playlist:47aVC9pPryEGGy18HRuPs4",
+   "url": "https://open.spotify.com/playlist/47aVC9pPryEGGy18HRuPs4?si=ZQ4WsrK_STeFtQFCr8wlZQ",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Diplo @ Antarctica 2023-12-13",
+   "subtitle": "by 1001Tracklists.com",
+   "uri": "spotify:playlist:73Bl2HzSqukY2TN9qjliZZ",
+   "url": "https://open.spotify.com/playlist/73Bl2HzSqukY2TN9qjliZZ?si=FlcGzUWkTWetFmy3A8xg8A",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Diplo @ Club Space Miami 2023-05-13",
+   "subtitle": "by 1001Tracklists.com",
+   "uri": "spotify:playlist:4Xb3aHrMBeL6ukpDpbus8A",
+   "url": "https://open.spotify.com/playlist/4Xb3aHrMBeL6ukpDpbus8A?si=MRjNh5JsTSyrsK8nvajqjA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Diplo @ ForestHouse Art Car, Fremont Street Las Vegas 2025-10-27",
+   "subtitle": "by 1001Tracklists.com",
+   "uri": "spotify:playlist:3cwAm2Rn521CGbfTW70VUg",
+   "url": "https://open.spotify.com/playlist/3cwAm2Rn521CGbfTW70VUg?si=57Z94tuFSsmBzB-EqW_s-A",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Diplo and Friends Radio",
+   "subtitle": "check out diplo & friends for some of my favorite selects - updated weekly",
+   "uri": "spotify:playlist:6AvLNaeJ7qeF1Ur1kNoiXT",
+   "url": "https://open.spotify.com/playlist/6AvLNaeJ7qeF1Ur1kNoiXT?si=-Wbdd23UT_-CJzGCVffZwQ",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Diplo Trap/Strip Club",
+   "subtitle": "",
+   "uri": "spotify:playlist:311Fco7b2a9dtl2DFyVVND",
+   "url": "https://open.spotify.com/playlist/311Fco7b2a9dtl2DFyVVND?si=FjIHBb8UTZ281M3t_xeovQ",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Discover Weekly",
+   "subtitle": "Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.",
+   "uri": "spotify:playlist:37i9dQZEVXcDb5TdBvtaMV",
+   "url": "https://open.spotify.com/playlist/37i9dQZEVXcDb5TdBvtaMV?si=50NZxkjeQ46Hh6oSTP5hdg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "DnB 2026 - Hidden Gems",
+   "subtitle": "DnB that deserves way more attention. Updated Weekly! Tracks from before 2026 are archived into separate yearly playlists found on this very same profile.",
+   "uri": "spotify:playlist:2GE3PW3O66jmfxTajaVtb1",
+   "url": "https://open.spotify.com/playlist/2GE3PW3O66jmfxTajaVtb1?si=E-l9r98fQ2yNZStCyfTHrQ",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "DnB 2026 - Highlights",
+   "subtitle": "A list of my favorite DnB tracks from 2026. Updated weekly! Tracks from before 2026 are archived into separate yearly playlists found on this very same profile.",
+   "uri": "spotify:playlist:1oOgSKIhzsQyxTJgwReFqL",
+   "url": "https://open.spotify.com/playlist/1oOgSKIhzsQyxTJgwReFqL?si=WVRTyOWzRlqJygWY-4zONg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "DnB 2026 - Unique Stuff",
+   "subtitle": "The most unique drum and bass tracks of 2026. Updated weekly! Tracks from before 2026 are archived into separate yearly playlists found on this very same profile.",
+   "uri": "spotify:playlist:2CwpakpAVODoPqyXLQjlYA",
+   "url": "https://open.spotify.com/playlist/2CwpakpAVODoPqyXLQjlYA?si=_7IjYzhKQ3K3XWppqDctPQ",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "DnB 2026 | Best Drum & Bass Bangers",
+   "subtitle": "My favorite dnb bangerzzz rn! managed by JompaMusic @ insta G if a song is missing :)",
+   "uri": "spotify:playlist:3gqEaRQUN0xYi9kHexWQpY",
+   "url": "https://open.spotify.com/playlist/3gqEaRQUN0xYi9kHexWQpY?si=Lf0gVDLDRiiIUzNk5Eo42A",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "DNB ALLSTARS 2026",
+   "subtitle": "",
+   "uri": "spotify:playlist:2AC5sLbtls48GKpbXONMFD",
+   "url": "https://open.spotify.com/playlist/2AC5sLbtls48GKpbXONMFD?si=cnTMwC5cQjm0KSJd0f7Wbg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Dnb/House Bangers 😮‍💨",
+   "subtitle": "",
+   "uri": "spotify:playlist:1htP7XVskNcYn8iE44sz3S",
+   "url": "https://open.spotify.com/playlist/1htP7XVskNcYn8iE44sz3S?si=7SBqyjIhTtuScWqok2_V0w",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Drum & Bass Rampage 2026",
+   "subtitle": "A playlist focused on strong and energetic drum and bass. Featured in this list: Spor, Friction, Chase & Status, Modestep, Noisia, SHY FX,...",
+   "uri": "spotify:playlist:41OxmFDb5v6e02Ks5lBpIc",
+   "url": "https://open.spotify.com/playlist/41OxmFDb5v6e02Ks5lBpIc?si=vLUpGGGSQFmOU34xNwTyLQ",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "DRUM AND BASS - CAKEHORN VIP CRATE",
+   "subtitle": "AMEN BREAK + 160ish BPM + TEMPO MODULATED SQUARE WAVE",
+   "uri": "spotify:playlist:0IZP7gcKkFJhsqX2D12Bgp",
+   "url": "https://open.spotify.com/playlist/0IZP7gcKkFJhsqX2D12Bgp?si=hUe1psF-SJWSa2Ik8H6JwA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Drum and Bass 2026",
+   "subtitle": "Its been a long quest, from classics, to stinkers to new comers, the complete Drum and Bass list 2025. Atleast according to me ;) managed by JompaMusic @ insta G",
+   "uri": "spotify:playlist:068WHS0zOWsqvn2uIBYb5D",
+   "url": "https://open.spotify.com/playlist/068WHS0zOWsqvn2uIBYb5D?si=rLo5hShuQXW3Dzgnp6vNZw",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Drum and Bass Anthems",
+   "subtitle": "All killer no filler: This is UKF's Drum & Bass Anthems. Follow UKF on Spotify for more.",
+   "uri": "spotify:playlist:30sfJJYyp9raHP4HEYbACe",
+   "url": "https://open.spotify.com/playlist/30sfJJYyp9raHP4HEYbACe?si=RHULJE9QTK6Sb9dB0Rm8ng",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Drum and Bass Bangers 💥",
+   "subtitle": "A gargantuan collection of DnB for all tastes, old & new. Sort by date added for latest releases & discoveries.",
+   "uri": "spotify:playlist:457gbBgMiP1YfCijtux4Te",
+   "url": "https://open.spotify.com/playlist/457gbBgMiP1YfCijtux4Te?si=GRlqc7ZwSHC6fASYy7AwYA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Drum and Bass Top 100",
+   "subtitle": "A selection of our current favourite drum & bass tracks, perfect for running, gaming and raving. Featuring Kanine, Sub Focus, Wilkinson, [IVY] and many more.",
+   "uri": "spotify:playlist:0Zarq4BVkFkZOWkmqsfrjA",
+   "url": "https://open.spotify.com/playlist/0Zarq4BVkFkZOWkmqsfrjA?si=BwJbgC_5TtqjSqjYve4-xw",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Dubstep Bangers 2026 🔥",
+   "subtitle": "Pull out your wangers for these bangers, tried to mix old and new as good as possible :) managed by JompaMusic @ IG",
+   "uri": "spotify:playlist:3ObJ6Qra3CkV0gNCRTtK0c",
+   "url": "https://open.spotify.com/playlist/3ObJ6Qra3CkV0gNCRTtK0c?si=hjSvw_YlTnOFR6Aim_kbHg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "D̴̙̤̩͑̕͝Ä̸̘͍͎́͌N̸̢̝͕̍̐ ̴̛̤͈̻̿͌F̷̰̍R̵͇͉͓͂̎Ä̶̮̼́͂͊͠N̸̲͉̖̑̿̚͝K̷̡̜̼̈́ ̸̝́͋̋̿M̷͎͎̅̓̍̍A̴̛͓̓̾̚S̶͎̤̗̅Ṯ̶̔́ͅE̷̠͐́R̷̦̃L̷͇͒Ḯ̴͕̤̈́̿S̶̬̾̐͌T̴̡̻͑̍̿ ̶̛̱̙͐̈́͊V̴̳̔́͘I̸̩̖̖̎͌͒P̸͎͍̤͐̐̾͝ ̵̨̠̓C̷̦̅͑͆͘R̶̍̋͛ͅĀ̶͎̫̯̈́͗͘T̶̞͉̟́̓E̵̼͎̰͛",
+   "subtitle": "GOOD TRACK CRATE",
+   "uri": "spotify:playlist:6Fc1FRckZqBe7kduUSeBV3",
+   "url": "https://open.spotify.com/playlist/6Fc1FRckZqBe7kduUSeBV3?si=l2EeLaMgSb2dNWxEJjeG5w",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "D̷͇̯̦̓͝𝙰𝙽 F̷͎̲̽̏̓R̸͓͖͍̄͛͛𝙰𝙽K̷͈̈́͆̅ ̶̰̈́ 𝙳I̶̢̨̡̜̰̭̘̱̔̂̾̈́̚̚𝚂Ç̸̨̢̘̭̜̱̰̇̾̽̂̚̕͝O̴̧̨̢̘̜̭̱̰̽̾̂̚̕V̸̡̨̧̭̱̘̜̰̈́̾̽̂̚̕𝙴𝚁 𝚆Ę̶̢̨̡̜̰̭̘̱̔̂̾̈́̚̚Ȩ̸̨̢̘̭̜̱̰̾̽̂̚̕͝Ķ̴̨̢̘̜̭̱̰̽̾̂̚̕Ḽ̸̡̨̧̱̘̜̰̈́̾̽̂̚̕Y̶̢̨̡̜̰̭̘̱̔̂̾̈́̚̚ 𝙰𝚁𝙲Ḩ̸̨̢̘̭̜̱̰̾̽̂̚̕͝I̴̧̨̢̘̜̭̱̰̽̾̂̚̕𝚅Ę̸̡̨̧̭̱̘̜̰̈́̾̽̂̚̕",
+   "subtitle": "**Ḋ̵̢̲̰̥̦̟̙̐ͅĀ̶̗̞̹̖̮̇͆̀̏̓̕͠͝N̴̢̛̘̫̬̱̳͖͂͘͘͜͝͠͠ ̶̢̦͍̰̘͔͍̏͗̋̈́͑̚͠F̶̹̤̮͇̈̇̾́͂̅͊̐͒̚R̸͕̓̿̎̀̒̇͗͐̀A̷̯͉̰̩͚̘̋̅̎̀͆́͘̕͘N̶̢͈͉̖̺̾̈́̅̆͐͂͐K̶̢̤̹͓̟͍̀̈́̀̇́ ̴̡̬̮̝̞̟̄͌͌̎̀̔͆̚͠ͅD̷͉̝̜̘͇̜̠͍̈͐̀̋͂̍̾͂̐͝Ī̷̬͈̲̹͙̺̙͚̲͒̎̎́͊͌̓͘̚S̷̛̞̥̮͓̍͂͛̍Ć̶̡̡̛̛̛̰̟͚͍̀̅̒̈́̍Ơ̷̙̦̼̩͉̯̜̯̦͒̈́͆͐͋͆̿͝͝V̶̡̡͈͕͕͕͎͗̆͐̇̌̈́̍̾̎͝Ẽ̷̢̛̲̱̯͉̞̮̦̈́͌̔̐̿͝͝R̴̖̬͐̃͋͒͌͋̋̿͂ ̸̡̢̯̹̤̠͓̞͙͒͒̌̐̏̅͒͝W̷̯̜̥͚͈͉̝͙̏͒͌̐̿͒͘͠͠Ę̴͚̖̯̐̃̄̌̇̕Ē̴̢̛̠̳̞͈̝͒̄͝͝K̶̯̄̐̑͆̀̌̈́̽͝L̵̡̟͕͎̈́͌́̿̔͋̄͛͝Y̵̪̪͓͉͓͖̤̾͒́̇͝ ̶̤̲͒̈́̐͘A̴̰̬͈̗̜̦͚̽̐̀̈́̏Ř̵̠͓̥̫̟͖͓̎͐̅̀̚̚̕͜͠C̷̪̹̝̺̍͗͂̏̓͐͛̄̚͝H̵̺̙͈̖̼̯̓͋̾̏̆̅̐I̶̲̬̺̩̐͗̓̓͆̍͝V̷̲͎̤̖͙͕͖͍̓̈́͒͗̕͝E̶̛̦̎̃̚",
+   "uri": "spotify:playlist:0ZlmSEP95D3j4H9bL63u6E",
+   "url": "https://open.spotify.com/playlist/0ZlmSEP95D3j4H9bL63u6E?si=cNQKrOFdQbmf8U-sG_GZOg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "EDM VIP",
+   "subtitle": "",
+   "uri": "spotify:playlist:7tgTwtJRwM0PUWO4H36GeF",
+   "url": "https://open.spotify.com/playlist/7tgTwtJRwM0PUWO4H36GeF?si=cpc6r2jbSPikX0jfx0aZwA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "EFFY'S K-HOLE DRUM & BASS  MIX",
+   "subtitle": "DO YOU REMEMBER WHEN YOU RODE WITH ME IN THE AMBULANCE AFTER I TRIED TO KILL MYSELF? THAT'S WHAT LOVE FEELS LIKE",
+   "uri": "spotify:playlist:2GwGHAE3epRG4hTZ6Aznbq",
+   "url": "https://open.spotify.com/playlist/2GwGHAE3epRG4hTZ6Aznbq?si=wT-xiFJGTViFGDZacwsV9Q",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "FALL 18",
+   "subtitle": "",
+   "uri": "spotify:playlist:5U0hEEciZ1ukbu1fXXWxaO",
+   "url": "https://open.spotify.com/playlist/5U0hEEciZ1ukbu1fXXWxaO?si=U_AoSRWvQge8xDHo-YKsSw",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "FALL 18 (2)",
+   "subtitle": "",
+   "uri": "spotify:playlist:1pygkJmDbs7TcdKgHNJRpy",
+   "url": "https://open.spotify.com/playlist/1pygkJmDbs7TcdKgHNJRpy?si=FghkzL_mQRecEfrgux639A",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "FALL 19☑️",
+   "subtitle": "",
+   "uri": "spotify:playlist:2pP9Q41q5GMx92RMLb8V8m",
+   "url": "https://open.spotify.com/playlist/2pP9Q41q5GMx92RMLb8V8m?si=IGnHEAFES-S65VH6M4uxgA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "FEB 18",
+   "subtitle": "",
+   "uri": "spotify:playlist:1OA9dlhEaMhk9B82p9q2JN",
+   "url": "https://open.spotify.com/playlist/1OA9dlhEaMhk9B82p9q2JN?si=DrpNSCzNS66I0nCJBvLtEg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Feb 2012☑️",
+   "subtitle": "",
+   "uri": "spotify:playlist:2GFtDY0c1xCYoRxKydivjw",
+   "url": "https://open.spotify.com/playlist/2GFtDY0c1xCYoRxKydivjw?si=3N5aL0wCTSOCH23r-l6pWg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Feb 2013☑️",
+   "subtitle": "",
+   "uri": "spotify:playlist:0GGQrwLlqGHVsixPPUp4QA",
+   "url": "https://open.spotify.com/playlist/0GGQrwLlqGHVsixPPUp4QA?si=3vk_2Il_S0-xlB49uTyUuA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "FEB 2017",
+   "subtitle": "",
+   "uri": "spotify:playlist:22DSC117eYgdHNqOMFzBgu",
+   "url": "https://open.spotify.com/playlist/22DSC117eYgdHNqOMFzBgu?si=yKIBBcK7Skq_gn7rL_l9Mg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "FINDERS FEE VIP CRATE",
+   "subtitle": "",
+   "uri": "spotify:playlist:239ffbpjFXc88YDJ3UmCKY",
+   "url": "https://open.spotify.com/playlist/239ffbpjFXc88YDJ3UmCKY?si=LjB-EV2GSR20wayU2kE3VA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "flat circle mix",
+   "subtitle": "1 NOV 2025",
+   "uri": "spotify:playlist:1o0ZrOELGaDNxKQPtyat8y",
+   "url": "https://open.spotify.com/playlist/1o0ZrOELGaDNxKQPtyat8y?si=vxJNJl68TnqgJ_1A2k7rsA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "FUNDAMENTAL FLAW (AUG / SEP)",
+   "subtitle": "",
+   "uri": "spotify:playlist:54La6mTnhDzyz94yIhppnO",
+   "url": "https://open.spotify.com/playlist/54La6mTnhDzyz94yIhppnO?si=cV5Yrxh8RWS9pZvFOsbkEQ",
+   "traits": [
+    "SAVED",
+    "PINNED"
+   ]
+  },
+  {
+   "title": "FUXWITHITFRIDAYS",
+   "subtitle": "The best new Trap, Bass, Rap and Electronic music. Updated every Friday!",
+   "uri": "spotify:playlist:5Wk1FXIi9zro98fTbGPTv3",
+   "url": "https://open.spotify.com/playlist/5Wk1FXIi9zro98fTbGPTv3?si=EFHzh8k6QnqNfQX37wqYmw",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "GOODBYE BPD GIRLZ.  HELLO GOTH GIRLS. ",
+   "subtitle": "it's been a nice run but i think i'm too old for this",
+   "uri": "spotify:playlist:1mLYEDPTBLOncmtJIYHwsw",
+   "url": "https://open.spotify.com/playlist/1mLYEDPTBLOncmtJIYHwsw?si=0dEEE3p8Rs-PojPzl5rBeg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Halftime DnB / Half-Step",
+   "subtitle": "",
+   "uri": "spotify:playlist:2liP7eQRCqiEq4rb5vipz3",
+   "url": "https://open.spotify.com/playlist/2liP7eQRCqiEq4rb5vipz3?si=OAZrW2pGTDW6PTzgPHxWEg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Heavy Drum & Bass Slappers",
+   "subtitle": "Neuro, Jump-Up & anything in-between. You’ll only find naughty stuff here",
+   "uri": "spotify:playlist:4mAa7j9MtVZJIKoW6mAnvh",
+   "url": "https://open.spotify.com/playlist/4mAa7j9MtVZJIKoW6mAnvh?si=xcc7i7f7REuuNdKyr6we8Q",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "High Energy Dubstep / Drumstep",
+   "subtitle": "Khosumi's Finely curated playlist.",
+   "uri": "spotify:playlist:5rbKexrQ0zl6Zd3Y4oZ9qp",
+   "url": "https://open.spotify.com/playlist/5rbKexrQ0zl6Zd3Y4oZ9qp?si=zNHXF5BFQPG9WbOVmAsKIA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "HOLIDAY 2020☑️",
+   "subtitle": "",
+   "uri": "spotify:playlist:3sr922QEovT93s6pWjSQxS",
+   "url": "https://open.spotify.com/playlist/3sr922QEovT93s6pWjSQxS?si=XEbn6QoBS7evo7hOW7BAeQ",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "HOUSE MUSIC 2026 (Top 100)",
+   "subtitle": "Discover the best House Music to vibe or dance to.│Instagram Don't get scammed, we don't take, and won't ask money for playlisting",
+   "uri": "spotify:playlist:7bu7BZEusLNJSaAuUUZBKn",
+   "url": "https://open.spotify.com/playlist/7bu7BZEusLNJSaAuUUZBKn?si=Sv9otvcTQMKY8qwli4UEnQ",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "hype/high energy dnb",
+   "subtitle": "hand-selected bangers",
+   "uri": "spotify:playlist:4TpwaDSnY5L5cQ3VQpaXWd",
+   "url": "https://open.spotify.com/playlist/4TpwaDSnY5L5cQ3VQpaXWd?si=41MD3mN5Rd6oDhLrsOSdcw",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "JAN 18",
+   "subtitle": "",
+   "uri": "spotify:playlist:7MoZn1Il2q2WSOC2d76OUa",
+   "url": "https://open.spotify.com/playlist/7MoZn1Il2q2WSOC2d76OUa?si=k4DZKe_tTu28GyxRKivViA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Jan 2012☑️",
+   "subtitle": "",
+   "uri": "spotify:playlist:3YrF3cgnGEad8BL4vDjbfJ",
+   "url": "https://open.spotify.com/playlist/3YrF3cgnGEad8BL4vDjbfJ?si=sKaKH9fBTK6rfIY2AEuPVg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Jan 2013☑️",
+   "subtitle": "",
+   "uri": "spotify:playlist:15piVxnVb5wlcYL4CzX2fs",
+   "url": "https://open.spotify.com/playlist/15piVxnVb5wlcYL4CzX2fs?si=nD48wc0ZRt2eBZS-p7N_zw",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "JAN 2017☑️",
+   "subtitle": "",
+   "uri": "spotify:playlist:64KXytK7c5vtNnchEShOp0",
+   "url": "https://open.spotify.com/playlist/64KXytK7c5vtNnchEShOp0?si=JWptcwqbRVCo0P8ZaEbLnA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "July 2012",
+   "subtitle": "",
+   "uri": "spotify:playlist:2iVMp2EZwA1OipvlTwEWm2",
+   "url": "https://open.spotify.com/playlist/2iVMp2EZwA1OipvlTwEWm2?si=dfCt18_3TECQElRZJaU26A",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "JULY 2013☑️",
+   "subtitle": "",
+   "uri": "spotify:playlist:7pUWlsQONYk4l00d3og89W",
+   "url": "https://open.spotify.com/playlist/7pUWlsQONYk4l00d3og89W?si=fasxTwnaQu-E3GqksiT2mw",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "JULY 2017☑️",
+   "subtitle": "",
+   "uri": "spotify:playlist:2pG41Y5a9JEFsHwu0ntJdV",
+   "url": "https://open.spotify.com/playlist/2pG41Y5a9JEFsHwu0ntJdV?si=pTW82tABTKSVJYoVRZyLwg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "JUNE 17☑️",
+   "subtitle": "",
+   "uri": "spotify:playlist:4WHZqlm9qQKUwzmmHf7iEQ",
+   "url": "https://open.spotify.com/playlist/4WHZqlm9qQKUwzmmHf7iEQ?si=Yoqub5ydRQKb_bx7djycrg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Liked Songs",
+   "subtitle": "1648 items",
+   "uri": "spotify:user:dfrank88:collection",
+   "url": null,
+   "traits": []
+  },
+  {
+   "title": "LIKED SONGS 29SEP25",
+   "subtitle": "",
+   "uri": "spotify:playlist:7w9AtZsXS4tuWlBmOh1K8a",
+   "url": "https://open.spotify.com/playlist/7w9AtZsXS4tuWlBmOh1K8a?si=U5CFxuKgRLiFu63gx5JfHQ",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Mad Decent Weekly",
+   "subtitle": "The latest tracks from Mad Decent and friends. Featuring new cuts from Major Lazer, the sound that chalk makes, Jam City, Sofii, & more.",
+   "uri": "spotify:playlist:5IRdCjOHb6RwaIl1PaomPV",
+   "url": "https://open.spotify.com/playlist/5IRdCjOHb6RwaIl1PaomPV?si=JXdH1t7MSJ-gesFo8jrLkg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "MAR 18",
+   "subtitle": "",
+   "uri": "spotify:playlist:0KTcXMslCNdxn7VkEpTN53",
+   "url": "https://open.spotify.com/playlist/0KTcXMslCNdxn7VkEpTN53?si=tE8e09BITYunESiG3rM4XA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "March 2012☑️",
+   "subtitle": "",
+   "uri": "spotify:playlist:6d6Cmy9089GsCbzIBoF9wE",
+   "url": "https://open.spotify.com/playlist/6d6Cmy9089GsCbzIBoF9wE?si=M6QrLIbvS7GxMXv9RAw4eg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Massive Drum & Bass",
+   "subtitle": "The world's biggest Drum 'n' Bass playlist! Cover: Danny Byrd, Shapes & Doktor",
+   "uri": "spotify:playlist:37i9dQZF1DX5wDmLW735Yd",
+   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5wDmLW735Yd?si=upEemaVyQ1ONlDIzddOzEQ",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "MaxOut",
+   "subtitle": "",
+   "uri": "spotify:playlist:44KV5XKVVW7JkFpMhujIFS",
+   "url": "https://open.spotify.com/playlist/44KV5XKVVW7JkFpMhujIFS?si=xiVooOo-QdaVbQvbk2JAeQ",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "MAY 18",
+   "subtitle": "",
+   "uri": "spotify:playlist:1CJs49xVv5YoTbTYKX0dpT",
+   "url": "https://open.spotify.com/playlist/1CJs49xVv5YoTbTYKX0dpT?si=N6Yw6JN6Q_KGjAcMu2I2dQ",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "May/June 2012☑️",
+   "subtitle": "",
+   "uri": "spotify:playlist:3EUzmtYLH7RS9UJKwMqSmm",
+   "url": "https://open.spotify.com/playlist/3EUzmtYLH7RS9UJKwMqSmm?si=FpTwNsSmQMuNKHPWMw3TeQ",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Nasty Bits",
+   "subtitle": "Real nasty house 🔥🔥 featuring Matroda + San Pacho",
+   "uri": "spotify:playlist:37i9dQZF1DX2VvACCrgjrt",
+   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2VvACCrgjrt?si=jMu3ewpyR1an2irc-u5NQg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Nov 2012☑️",
+   "subtitle": "",
+   "uri": "spotify:playlist:50tlhDEYaArBvAcMxD0ABk",
+   "url": "https://open.spotify.com/playlist/50tlhDEYaArBvAcMxD0ABk?si=bbeU56XkT4KnRcy46S8HpQ",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "NOV 2017",
+   "subtitle": "",
+   "uri": "spotify:playlist:04cPJGCTKNLvQJptA3PD5x",
+   "url": "https://open.spotify.com/playlist/04cPJGCTKNLvQJptA3PD5x?si=dxcTjmnOS8Wjt3pTy3HBXQ",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Nov/Dec 2011",
+   "subtitle": "",
+   "uri": "spotify:playlist:7kMk2giOqBhuToA4CZAmLw",
+   "url": "https://open.spotify.com/playlist/7kMk2giOqBhuToA4CZAmLw?si=b0VguWjcTkSDhxOcwfknJw",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Oct 2011☑️",
+   "subtitle": "",
+   "uri": "spotify:playlist:5x7yzyzmf7plQqNP0UZ0mS",
+   "url": "https://open.spotify.com/playlist/5x7yzyzmf7plQqNP0UZ0mS?si=u9TpoM3dQ7uUM27cmANi9A",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Oct 2012",
+   "subtitle": "",
+   "uri": "spotify:playlist:1P3wi5hEqRvaKuZiVyc2hi",
+   "url": "https://open.spotify.com/playlist/1P3wi5hEqRvaKuZiVyc2hi?si=KqIp2Bu2RGWenNhEtuKllA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "OCT 2017☑️",
+   "subtitle": "",
+   "uri": "spotify:playlist:4FHm2c3l2hE50iq1t3k9bv",
+   "url": "https://open.spotify.com/playlist/4FHm2c3l2hE50iq1t3k9bv?si=Bwf91O8cR2qZ0vKH-w3KdA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "PODCAST PLAYLIST",
+   "subtitle": "",
+   "uri": "spotify:playlist:6JiJQHFfgJi54LW9yFqayW",
+   "url": "https://open.spotify.com/playlist/6JiJQHFfgJi54LW9yFqayW?si=24pUtLQ0TCiCG6clupO36w",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "POP VIP",
+   "subtitle": "",
+   "uri": "spotify:playlist:21gmU1TrkYy3874eTiQzmL",
+   "url": "https://open.spotify.com/playlist/21gmU1TrkYy3874eTiQzmL?si=F18-NtMUR6qfmjIIAJOYiw",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "PUNK VIP",
+   "subtitle": "D̴̛̤͓̳͂̿̑A̵̟̲̩͋̒͂̿Ǹ̷̪͍͍ ̵̙͗̑F̷͓͍̱̒͂̿R̸͇̤͎͂Ã̴̙̖N̷͓͌͂ͅK̶̺̲̾͝ ̶̟̓T̴̡̻̓͆̚R̸͚̞͙͒͌̈́A̸̡̮̻̽S̵͚̰͓̾͒̕H̶͖͇͎̍̚͝E̶͇̠̘͑̄͌Ď̸̰̰̤̅̓ ̷̠̅͋&̵͈̠̪͌̈́͝ ̵̩͉̈́T̸̼̳̕H̵͓̝͐̑̇R̵̞̈́͑͑A̷̳̪̜̋̚S̸̬̤̮̍̈́͛H̸̬͛̀͗Ë̴̞̤́Ď̷̜̻̓̈́ ̷͙͙̓V̷͖̺́́͂Í̷͎͖̳̓P̸̜͍̍̓ ̸̙͉̤̀̓C̷͍͒̚R̴̞͂̿̕Ả̴͇͎̈́͝T̸̹̈́E̸̤͐",
+   "uri": "spotify:playlist:6TueXfUqFtgbDN6Txi4pRx",
+   "url": "https://open.spotify.com/playlist/6TueXfUqFtgbDN6Txi4pRx?si=-NvpI11FQBOeZQsmnFodUg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "RAP VIP",
+   "subtitle": "",
+   "uri": "spotify:playlist:4K4TIDiyZWawjKKYwit849",
+   "url": "https://open.spotify.com/playlist/4K4TIDiyZWawjKKYwit849?si=6QvBZWlGQdOfN-axKE5Psw",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "RELEASE RADAR",
+   "subtitle": "",
+   "uri": "spotify:playlist:1DNsLhkm2iDai7GcJvykt9",
+   "url": "https://open.spotify.com/playlist/1DNsLhkm2iDai7GcJvykt9?si=9G0QUoIRTq6ObzZ991Zkiw",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Release Radar",
+   "subtitle": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
+   "uri": "spotify:playlist:37i9dQZEVXbeHIZa5cIUit",
+   "url": "https://open.spotify.com/playlist/37i9dQZEVXbeHIZa5cIUit?si=VNowh3-XQpCBe03B6qvu6Q",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "RNDM SAVE",
+   "subtitle": "",
+   "uri": "spotify:playlist:4zmXhBcq5KHg64vBLhTVjO",
+   "url": "https://open.spotify.com/playlist/4zmXhBcq5KHg64vBLhTVjO?si=TB7UDP-iSqGG7jFTSMNw4g",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Sep 2011",
+   "subtitle": "",
+   "uri": "spotify:playlist:3jA3kDXflLfVx04u6W3iyv",
+   "url": "https://open.spotify.com/playlist/3jA3kDXflLfVx04u6W3iyv?si=nQlYOqPCQMCCvawtUbrB3w",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Sept 2012☑️",
+   "subtitle": "",
+   "uri": "spotify:playlist:6IjEh4i5xMalSr5QW4al5K",
+   "url": "https://open.spotify.com/playlist/6IjEh4i5xMalSr5QW4al5K?si=rKK0japgS1-yMNdgiJpE8Q",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "SOUNDCLOUD LIKE",
+   "subtitle": "",
+   "uri": "spotify:playlist:1JiAepJqVsdfJ4V7JeNGfo",
+   "url": "https://open.spotify.com/playlist/1JiAepJqVsdfJ4V7JeNGfo?si=ZLZrELAPTrq-5G1aVD0RFA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "SPRING 2019 - RETURN TO NEW YORK CITY",
+   "subtitle": "",
+   "uri": "spotify:playlist:17AgwFznVP9R7fyFoXY381",
+   "url": "https://open.spotify.com/playlist/17AgwFznVP9R7fyFoXY381?si=haNu8VmhQ4aVCRBr6D3Yhw",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Starred",
+   "subtitle": "",
+   "uri": "spotify:playlist:7rcNlADv9FQeR95g9PWOBF",
+   "url": "https://open.spotify.com/playlist/7rcNlADv9FQeR95g9PWOBF?si=Dq6OGfapSKemM4XhrwnUhA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "SUMMER 18",
+   "subtitle": "",
+   "uri": "spotify:playlist:4gMId7HbDv1IasBCrHuCLP",
+   "url": "https://open.spotify.com/playlist/4gMId7HbDv1IasBCrHuCLP?si=TGg7jqN-QNWtOGGpnhHjEg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "SUMMER IN NEW YORK",
+   "subtitle": "",
+   "uri": "spotify:playlist:6QKFF4GL3lUazeKy1LMFdy",
+   "url": "https://open.spotify.com/playlist/6QKFF4GL3lUazeKy1LMFdy?si=5DIOO24FRFGYZ3LapO41IQ",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Sunset Syrup | House Music 26'",
+   "subtitle": "A deep appreciation for house music that keep you in the sun all day ☀️ Curated with melodic, deep, and indie dance",
+   "uri": "spotify:playlist:5kXQ6vhvL7FXfJ6ivT0Sjb",
+   "url": "https://open.spotify.com/playlist/5kXQ6vhvL7FXfJ6ivT0Sjb?si=NAEm4KfKSFamIkokPkmulg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Suzanne + 𝔻𝔸ℕ",
+   "subtitle": "A Blend of music for 𝔻𝔸ℕ and Suzanne.",
+   "uri": "spotify:playlist:37i9dQZF1EJzECQFEMyyLN",
+   "url": "https://open.spotify.com/playlist/37i9dQZF1EJzECQFEMyyLN?si=UU4hGXHfSlK9mZCJOos5XA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "S̴̡̱̈́̇H̷̭̤̑̚𝙴𝙻𝙻S̴̨̱͌̾H̶̰̹͗̈́𝙾𝙲K̸̨̘̇̈́ D̶̜̂̚R̸̢̈́͝𝚄𝙼 & ̴̘̽̾B̸̡̭̾̚𝙰𝚂𝚂 D̷͇̯̦̓͝𝙰𝙽 F̷͎̲̽̏̓R̸͓͖͍̄͛͛𝙰𝙽K̷͈̈́͆̅ ̶̰̈́V̷̰̌̈́Ì̴̤̈́Ṗ̴̨͝ ̸̨̈́C̵̰̽̾𝚁𝙰𝚃𝙴",
+   "subtitle": "D̷͇̯̦̓͝A̴͓̳͓̓N̴͎̓̚ ̴͚̼͛̇͆͜F̷͎̲̽̏̓R̸͓͖͍̄͛͛A̶̜̳͗̇͊N̴͚͂̐̚K̷͈̈́͆̅ ̵̟͉̱̚U̷̻̇̅L̶̡̥̋̀̈́͜T̸̺͑͂ͅR̸̩̰̫͌A̶̖̍ͅ ̷̪͎̿̓Ḏ̵͎̪̄̈́͘N̵̖̚B̴̢̜͎̿̈́͘ ̵̟̎̄S̸̨̓͒͗Ḧ̸͙́͘E̸̢̗͗̈́̐L̷̢̩̾͛L̵̪̺̓͋͂ͅS̴̰̬̋̅̓H̸͎͉͝O̶̺̰̖͋̄͝C̸̳̍̇ͅK̶̗̘̘͌̚͝ ̷̻̘̓̈́͘V̶̛̳̱͂̈́ͅI̸̱͂̚͘P̶̺̩̪͋ ̵̪̯͗͋C̶̠̗̞͌̈́̽R̶̻͕͔̓͊Ȁ̷̲͙͇͋͝T̴̘̚͝E̴͓̋",
+   "uri": "spotify:playlist:3Taqo8uDHKmX3x1aZ7T6bg",
+   "url": "https://open.spotify.com/playlist/3Taqo8uDHKmX3x1aZ7T6bg?si=FSheH-i0RRW6wqkmWCVCUA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "The Mad House",
+   "subtitle": "shit i like",
+   "uri": "spotify:playlist:1zBjytGTlgAgRqJ5qAXcRN",
+   "url": "https://open.spotify.com/playlist/1zBjytGTlgAgRqJ5qAXcRN?si=AnWSO8sCQFuDkZ88z_Xg2g",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "TheNeedleDrop // 2026 Best Tracks ",
+   "subtitle": "Best tracks of the week from Anthony Fantano's weekly track round-up.",
+   "uri": "spotify:playlist:0Qqso63VsqaaRiYRN09wxV",
+   "url": "https://open.spotify.com/playlist/0Qqso63VsqaaRiYRN09wxV?si=kqH4pFK3SB6MEGhMbPMWvA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "this is different: the FALL 2025 MEGAMIX |  a @danfrank VIP CRATE ",
+   "subtitle": "1 OCT 2025",
+   "uri": "spotify:playlist:0oDdhxaCxVDVInXn1JMcMD",
+   "url": "https://open.spotify.com/playlist/0oDdhxaCxVDVInXn1JMcMD?si=1bbAQMnBS9-dYzKujXvsCw",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Thomas Jefferson's Saxophone",
+   "subtitle": "Do not ever trust a straight white man without a current W2 to provide interior design advice in the form of AI slop. Also, fuck the founding fathers.",
+   "uri": "spotify:playlist:1JBZAoJZBj9mbGN4vHEXis",
+   "url": "https://open.spotify.com/playlist/1JBZAoJZBj9mbGN4vHEXis?si=lOulLV22Ssy5Ij-2nQpEow",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Tomorrowland 2026 Playlist 💙 EDM HITS",
+   "subtitle": "Electrónica 2026 - Best Tracks of Tomorrowland - Tomorrowland Soundtrack - Mainstage Anthems - EDM Bangers 2026 - Techno Mix - Dance Hits - Party Mix - Festival Music - Tomorrowland Winter - Tomorrowland Brasil - Best EDM Playlist - Eletrônicas As Melhores 🎪",
+   "uri": "spotify:playlist:33PyRULhtc4SRrUE1wbbmp",
+   "url": "https://open.spotify.com/playlist/33PyRULhtc4SRrUE1wbbmp?si=PJSpwpSCRiOra82f24yeXw",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "ULTRA_DEMi",
+   "subtitle": "",
+   "uri": "spotify:playlist:53WqpFN2xfx3NadYAqjLDy",
+   "url": "https://open.spotify.com/playlist/53WqpFN2xfx3NadYAqjLDy?si=FtpQk6DrTfmbuol1XFqvgA",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "unn tiss unn tiss",
+   "subtitle": "",
+   "uri": "spotify:playlist:2e9GKo9Dexvo91BzQEWosT",
+   "url": "https://open.spotify.com/playlist/2e9GKo9Dexvo91BzQEWosT?si=CygiFJKgSQuwkd4m4zgWqg",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "what huh?",
+   "subtitle": "",
+   "uri": "spotify:playlist:52nAQwuogvYVmdJ9rS8nJv",
+   "url": "https://open.spotify.com/playlist/52nAQwuogvYVmdJ9rS8nJv?si=GtFOh_NaRT2jctOsr5nCwQ",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "WINTER 18/19",
+   "subtitle": "",
+   "uri": "spotify:playlist:0KIwrCr5OT9uCTnVNGQRFH",
+   "url": "https://open.spotify.com/playlist/0KIwrCr5OT9uCTnVNGQRFH?si=G2_o-xcvR2auwToOz53v5A",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Your Episodes",
+   "subtitle": "",
+   "uri": "spotify:playlist:37i9dQZF1FgnTBfUlzkeKt",
+   "url": "https://open.spotify.com/playlist/37i9dQZF1FgnTBfUlzkeKt?si=NA8Ao3I6QxGgcp_Wg3nFMA",
+   "traits": []
+  },
+  {
+   "title": "Your Top Songs 2017",
+   "subtitle": "The songs you loved most this year, all wrapped up.",
+   "uri": "spotify:playlist:37i9dQZF1E9J1SR2qbEU1P",
+   "url": "https://open.spotify.com/playlist/37i9dQZF1E9J1SR2qbEU1P?si=YtF07ZiASTmQ9AcrrRB-dQ",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "Your Top Songs 2025",
+   "subtitle": "Spotify Wrapped presents the songs you loved this year",
+   "uri": "spotify:playlist:37i9dQZEVXcXHWVVT0lfDq",
+   "url": "https://open.spotify.com/playlist/37i9dQZEVXcXHWVVT0lfDq?si=yPAewHKGTb2jaiLrkzdE9w",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "𝙳Ą̶̢̨̡̜̰̭̘̱̔̂̾̈́̚̚𝙽 𝙵𝚁A̸̧̨̢̘̭̜̱̰̾̽̂̚̕͝𝙽𝙺 𝙳Ŗ̴̨̢̘̜̭̱̰̽̾̂̚̕Ṷ̸̡̨̧̱̘̜̰̈́̾̽̂̚̕𝙼 & 𝙱𝙰𝚂S̶̢̨̡̜̰̭̘̱̔̂̾̈́̚̚ 𝚅Ī̸̧̨̢̘̭̜̱̰̾̽̂̚̕͝𝙿 𝙲𝚁𝙰Ţ̴̨̢̘̜̭̱̰̽̾̂̚̕Ę̸̡̨̧̭̱̘̜̰̈́̾̽̂̚̕",
+   "subtitle": "D̶̠͓̪̑̈́͑̚A̴̛̟͖͑͘N̸̹̝̽̆̈́ ̷͎͗F̷̩͎̤̏̏͘R̵̯̐̐͘͝A̶̛̤͒N̴̺̳̱͑K̶͕̱͐̓͜ ̶̳̾D̵̛͉̦̹͆R̸̛͇̒̏̈́Ǘ̸̞̯̱̚M̵̢̛̰ ̶̙̽̈́&̵̩̬̅͐ ̵̦͐̍̏̾B̷̜̰̼̏̓A̴̻̒͊S̷̲̺̼̓̈́̎S̷̥̳͌̏͝ ̴̘̠̐̐̈́V̷̟̺̎͂Į̷̙̪̈́P̶͙̞̟̅͋̕ ̶͓̬̫̚͘C̴̺͛͘R̷͖̤͂͋̚A̵͎̦͐͌T̷̢͕͇͛E̷̺͍̋̎͜͝",
+   "uri": "spotify:playlist:3nXGu90Dma60FzU5xQXjaO",
+   "url": "https://open.spotify.com/playlist/3nXGu90Dma60FzU5xQXjaO?si=u8juOh6mQcOITZoFrspaNQ",
+   "traits": [
+    "SAVED"
+   ]
+  },
+  {
+   "title": "𝙳𝙰Ņ̶̧̨̢̘̭̜̱̰̾̽̂̚̕͝ 𝙵R̸̡̨̧̭̱̘̜̰̈́̾̽̂̚̕A̴̢̨̡̜̰̭̘̱̔̂̾̈́̚̚𝙽Ķ̸̨̢̘̭̜̱̰̾̽̂̚̕͝ 𝙰𝙻Ł̴̧̨̢̘̜̭̱̰̽̾̂̚̕ 𝚃Ḯ̸̡̨̧̭̱̘̜̰̾̽̂̚̕M̶̢̨̡̜̰̭̘̱̔̂̾̈́̚̚Ȩ̸̨̢̘̭̜̱̰̾̽̂̚̕͝ 𝚃O̴̧̨̢̘̜̭̱̰̽̾̂̚̕P̸̡̨̧̭̱̘̜̰̈́̾̽̂̚̕ 𝟷𝟶O̶̢̨̡̜̰̭̘̱̔̂̾̈́̚̚ 𝚅I̸̧̨̢̘̭̜̱̰̾̽̂̚̕͝P̴̧̨̢̘̜̭̱̰̽̾̂̚̕ 𝙲R̸̡̨̧̭̱̘̜̰̈́̾̽̂̚̕Ą̶̢̨̡̜̰̭̘̱̔̂̾̈́̚̚𝚃E̷̞̦̖̓͆͑",
+   "subtitle": "",
+   "uri": "spotify:playlist:2fdtijz0281QiJWr0CBwD5",
+   "url": "https://open.spotify.com/playlist/2fdtijz0281QiJWr0CBwD5?si=leasQbi5QMq2uoWSvDxX7w",
+   "traits": [
+    "SAVED",
+    "PINNED"
+   ]
+  },
+  {
+   "title": "🅾🅻🅳 🅵🅰🆅🆂",
+   "subtitle": "",
+   "uri": "spotify:playlist:6w4cZldCma9512JXcTPNZZ",
+   "url": "https://open.spotify.com/playlist/6w4cZldCma9512JXcTPNZZ?si=N0RxbCkwSr-ANoY6SESH_g",
+   "traits": [
+    "SAVED"
+   ]
+  }
+ ]
+}

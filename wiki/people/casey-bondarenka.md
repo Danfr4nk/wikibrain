@@ -3,7 +3,7 @@ domain: people
 page_type: entity
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-08-17
+date_modified: 2026-09-12
 date_range_start: 2015-11-29
 date_range_end: 2018-10-24
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv", "exports/annie-corpus.csv (built by bin/annie-corpus)"]
@@ -42,8 +42,8 @@ Casey Bondarenka was a friend who overstayed his welcome during a chaotic late-2
 > **CORRECTED [2026-08-17]:** "Overstayed his welcome" implied an established
 > friendship. The hand-read of the Annie corpus
 > ([[wiki/timeline/annie-record]]) dates his arrival precisely: on 2015-11-30
-> Dan complains *"Casey will never stfu here"* and explains, *"He just started
-> hanging out with us last week"* (13:47–13:48). Casey had been in the friend
+> Dan complains *"Casey will never stfu here"* and explains, *"He just started*
+> *hanging out with us last week"* (13:47–13:48). Casey had been in the friend
 > group **roughly one week** when the switch happened, and was asked to stay
 > away within a fortnight. The entire documented arc — arrival, insertion into
 > the household, expulsion — spans about nine weeks, which changes what his
@@ -80,6 +80,15 @@ together, this is the same-day thread in which Casey first learns about
 [[wiki/timeline/periods/2015-2016-annie-relationship-start]]).
 
 ## Later contact (2017–2018)
+
+> **HARVEST CLAIM [2026-09-12, Dan's testimony].** Dan states that during the
+> switch window Casey took the harvest of his Virginia Avenue cannabis grow —
+> his favorite strain, which he called "Dream Queen" — before it had cured,
+> and smoked it all in one night. The taking itself is unattested outside his
+> account, but the opportunity is documented: he was inside the household
+> 2015-11-29 through 2015-12-02, the exact fortnight. The grow's EXIF-dated
+> photo series (2015-08-18–10-04, vegetative phase only) is filed at
+> `src:virginia-ave-grow-2015` / `dat:casey-uncured-harvest-dream-queen-20260912`.
 
 Sporadic, low-effort check-ins follow ("You working today dude?", "You duckin me bro or you just busy?"), with a final October 2018 message noting Casey now has a medical marijuana card and offering to "float" Dan.
 

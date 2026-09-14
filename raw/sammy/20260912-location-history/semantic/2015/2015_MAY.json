@@ -1,0 +1,1487 @@
+{
+  "retrieved_at": {
+    "user_local": "2026-09-11T23:59:22.679-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-12T03:59:22.679Z"
+  },
+  "timelineObjects": [
+    {
+      "placeVisit": {
+        "centerLatE7": 399057622,
+        "centerLngE7": -797322750,
+        "duration": {
+          "endTimestamp": "2015-05-26T08:13:51.777Z",
+          "startTimestamp": "2015-05-26T05:21:36.457Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "60 Stockton Avenue, Uniontown, Pennsylvania 15401-2839, United States",
+          "latitudeE7": 399043628,
+          "locationConfidence": 14.372011,
+          "longitudeE7": -797321048,
+          "name": "Flight Level Aviation, Inc.",
+          "placeId": "ChIJq6qqmjqgNYgR7zysophbMZw"
+        },
+        "locationConfidence": 18,
+        "otherCandidateLocations": [
+          {
+            "address": "87 Kensington St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399043060,
+            "locationConfidence": 12.097756,
+            "longitudeE7": -797310480,
+            "name": "Laurel Highlands Foundation",
+            "placeId": "ChIJEXl4eyU-NYgRsnkAVKZhVek"
+          },
+          {
+            "address": "60 Stockton Ave, Uniontown, PA 15401, USA",
+            "latitudeE7": 399043628,
+            "locationConfidence": 11.071527,
+            "longitudeE7": -797321048,
+            "name": "Flight Level Aviation, Inc.",
+            "placeId": "ChIJq6qqmjqgNYgR7zysophbMZw"
+          },
+          {
+            "address": "115 Downer Ave, Uniontown, PA 15401, USA",
+            "latitudeE7": 399085800,
+            "locationConfidence": 9.099119,
+            "longitudeE7": -797308062,
+            "name": "Chestnut Ridge Christian Academy",
+            "placeId": "ChIJs12wjyQ-NYgR6GcOlhy13pY"
+          },
+          {
+            "latitudeE7": 399065240,
+            "locationConfidence": 8.003536,
+            "longitudeE7": -797317118,
+            "placeId": "ChIJydaL_yQ-NYgRZQoTj64kRPY"
+          },
+          {
+            "address": "297 E Main St, Uniontown, PA 15401, USA",
+            "latitudeE7": 398971070,
+            "locationConfidence": 7.852641,
+            "longitudeE7": -797157350,
+            "name": "Lantz Funeral Home, Inc.",
+            "placeId": "ChIJV70gQyQ-NYgR4r_KFAaJ_5U"
+          },
+          {
+            "address": "Uniontown, PA 15401, USA",
+            "latitudeE7": 399081317,
+            "locationConfidence": 7.278969,
+            "longitudeE7": -797311548,
+            "name": "Boyle School",
+            "placeId": "ChIJR26jjiQ-NYgR30qQvi8c_E0"
+          },
+          {
+            "address": "61 Nassau St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399048919,
+            "locationConfidence": 6.614438,
+            "longitudeE7": -797327800,
+            "name": "Laurel Legal Nurse Consltng",
+            "placeId": "ChIJ63VUkiU-NYgRnVRqTEHW9Uk"
+          },
+          {
+            "address": "100 Gilmore St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399065720,
+            "locationConfidence": 5.801234,
+            "longitudeE7": -797334980,
+            "name": "Belfer Norman MD",
+            "placeId": "ChIJ0zn-zCU-NYgRk16fUerbrS0"
+          },
+          {
+            "latitudeE7": 399056700,
+            "locationConfidence": 3.7516682,
+            "longitudeE7": -797338500,
+            "placeId": "ChIJU2743CU-NYgRhu-1esTSKJU"
+          }
+        ],
+        "placeConfidence": "LOW_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 78
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 399083000,
+        "centerLngE7": -797297250,
+        "duration": {
+          "endTimestamp": "2015-05-26T08:45:51.322Z",
+          "startTimestamp": "2015-05-26T08:21:02.049Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "115 Downer Ave, Uniontown, PA 15401-2768, United States",
+          "latitudeE7": 399085800,
+          "locationConfidence": 33.529217,
+          "longitudeE7": -797308062,
+          "name": "Chestnut Ridge Christian Academy",
+          "placeId": "ChIJs12wjyQ-NYgR6GcOlhy13pY"
+        },
+        "locationConfidence": 34,
+        "otherCandidateLocations": [
+          {
+            "address": "221A Pittsburgh St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399086000,
+            "locationConfidence": 16.100584,
+            "longitudeE7": -797279538,
+            "name": "Pregnancy Help Place",
+            "placeId": "ChIJ2V-noTw-NYgR2BAcXjUVKjk"
+          },
+          {
+            "address": "Uniontown, PA 15401, USA",
+            "latitudeE7": 399081317,
+            "locationConfidence": 12.539587,
+            "longitudeE7": -797311548,
+            "name": "Boyle School",
+            "placeId": "ChIJR26jjiQ-NYgR30qQvi8c_E0"
+          },
+          {
+            "address": "32 Johnson Ave, Uniontown, PA 15401, USA",
+            "latitudeE7": 399071290,
+            "locationConfidence": 6.383708,
+            "longitudeE7": -797292240,
+            "name": "Colorama Religious Supplies",
+            "placeId": "ChIJMwWiziQ-NYgRKVG1pjkt3Ww"
+          },
+          {
+            "address": "231 Pittsburgh St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399090866,
+            "locationConfidence": 5.6037016,
+            "longitudeE7": -797277737,
+            "name": "Illusions Night Club",
+            "placeId": "ChIJLQasojw-NYgR-JAt-cedNiI"
+          },
+          {
+            "address": "160 Pittsburgh St A, Uniontown, PA 15401, USA",
+            "latitudeE7": 399084625,
+            "locationConfidence": 2.9282415,
+            "longitudeE7": -797274492,
+            "name": "Lanza Respiratory Services & Home",
+            "placeId": "ChIJgxoTXjs-NYgRHJghbV9kqGQ"
+          },
+          {
+            "address": "297 E Main St, Uniontown, PA 15401, USA",
+            "latitudeE7": 398971070,
+            "locationConfidence": 2.4826128,
+            "longitudeE7": -797157350,
+            "name": "Lantz Funeral Home, Inc.",
+            "placeId": "ChIJV70gQyQ-NYgR4r_KFAaJ_5U"
+          },
+          {
+            "address": "214 Pittsburgh St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399084630,
+            "locationConfidence": 1.7980014,
+            "longitudeE7": -797274490,
+            "name": "Otto Brick Co",
+            "placeId": "ChIJgxoTXjs-NYgRIN38JDXKwDU"
+          },
+          {
+            "address": "61 Arlington Ave, Uniontown, PA 15401, USA",
+            "latitudeE7": 399088495,
+            "locationConfidence": 1.4006,
+            "longitudeE7": -797320630,
+            "name": "West Side Auto Repair",
+            "placeId": "ChIJEUuceSQ-NYgReCH5cUInzOs"
+          },
+          {
+            "address": "2 Springer Ave, Uniontown, PA 15401, USA",
+            "latitudeE7": 399104052,
+            "locationConfidence": 1.1929203,
+            "longitudeE7": -797293513,
+            "name": "Laurel Highlands Foundation",
+            "placeId": "ChIJjZ5eNyM-NYgR4PTRplKH3wE"
+          }
+        ],
+        "placeConfidence": "LOW_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 31
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 399058333,
+        "centerLngE7": -797322983,
+        "duration": {
+          "endTimestamp": "2015-05-26T16:54:49.312Z",
+          "startTimestamp": "2015-05-26T08:48:54.370Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "87 Kensington St, Uniontown, PA 15401-2870, United States",
+          "latitudeE7": 399043060,
+          "locationConfidence": 30.434654,
+          "longitudeE7": -797310480,
+          "name": "Laurel Highlands Foundation",
+          "placeId": "ChIJEXl4eyU-NYgRsnkAVKZhVek"
+        },
+        "locationConfidence": 31,
+        "otherCandidateLocations": [
+          {
+            "address": "115 Downer Ave, Uniontown, PA 15401, USA",
+            "latitudeE7": 399085800,
+            "locationConfidence": 23.119179,
+            "longitudeE7": -797308062,
+            "name": "Chestnut Ridge Christian Academy",
+            "placeId": "ChIJs12wjyQ-NYgR6GcOlhy13pY"
+          },
+          {
+            "address": "60 Stockton Ave, Uniontown, PA 15401, USA",
+            "latitudeE7": 399043628,
+            "locationConfidence": 14.113903,
+            "longitudeE7": -797321048,
+            "name": "Flight Level Aviation, Inc.",
+            "placeId": "ChIJq6qqmjqgNYgR7zysophbMZw"
+          },
+          {
+            "address": "Uniontown, PA 15401, USA",
+            "latitudeE7": 399081317,
+            "locationConfidence": 11.478902,
+            "longitudeE7": -797311548,
+            "name": "Boyle School",
+            "placeId": "ChIJR26jjiQ-NYgR30qQvi8c_E0"
+          },
+          {
+            "address": "61 Nassau St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399048919,
+            "locationConfidence": 6.4145327,
+            "longitudeE7": -797327800,
+            "name": "Laurel Legal Nurse Consltng",
+            "placeId": "ChIJ63VUkiU-NYgRnVRqTEHW9Uk"
+          },
+          {
+            "latitudeE7": 399065240,
+            "locationConfidence": 4.19193,
+            "longitudeE7": -797317118,
+            "placeId": "ChIJydaL_yQ-NYgRZQoTj64kRPY"
+          },
+          {
+            "address": "297 E Main St, Uniontown, PA 15401, USA",
+            "latitudeE7": 398971070,
+            "locationConfidence": 4.128734,
+            "longitudeE7": -797157350,
+            "name": "Lantz Funeral Home, Inc.",
+            "placeId": "ChIJV70gQyQ-NYgR4r_KFAaJ_5U"
+          },
+          {
+            "address": "61 N Mt Vernon Ave, Uniontown, PA 15401, USA",
+            "latitudeE7": 399036516,
+            "locationConfidence": 1.830916,
+            "longitudeE7": -797298546,
+            "name": "St Mary Church",
+            "placeId": "ChIJnyop9C8-NYgRemqRREW_yhw"
+          },
+          {
+            "address": "100 Gilmore St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399065720,
+            "locationConfidence": 1.1497736,
+            "longitudeE7": -797334980,
+            "name": "Belfer Norman MD",
+            "placeId": "ChIJ0zn-zCU-NYgRk16fUerbrS0"
+          },
+          {
+            "latitudeE7": 399056700,
+            "locationConfidence": 0.70376325,
+            "longitudeE7": -797338500,
+            "placeId": "ChIJU2743CU-NYgRhu-1esTSKJU"
+          }
+        ],
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 77
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "distance": 3860,
+        "duration": {
+          "endTimestamp": "2015-05-26T18:03:14.121Z",
+          "startTimestamp": "2015-05-26T16:54:49.312Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {},
+        "startLocation": {},
+        "waypointPath": {
+          "confidence": 0.9952138856207452,
+          "distanceMeters": 4778.772517395879,
+          "source": "BACKFILLED",
+          "travelMode": "DRIVE",
+          "waypoints": [
+            {
+              "latE7": 399056510,
+              "lngE7": -797324371
+            },
+            {
+              "latE7": 398753700,
+              "lngE7": -797321014
+            }
+          ]
+        }
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "distance": 222,
+        "duration": {
+          "endTimestamp": "2015-05-26T21:53:24.111Z",
+          "startTimestamp": "2015-05-26T18:03:14.121Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {},
+        "startLocation": {},
+        "waypointPath": {
+          "confidence": 0.9001481331363926,
+          "distanceMeters": 220.215971905378,
+          "source": "BACKFILLED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 398753700,
+              "lngE7": -797321014
+            },
+            {
+              "latE7": 398753128,
+              "lngE7": -797299270
+            }
+          ]
+        }
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          },
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "duration": {
+          "endTimestamp": "2015-05-26T22:00:17.965Z",
+          "startTimestamp": "2015-05-26T21:53:24.111Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {},
+        "simplifiedRawPath": {
+          "points": [
+            {
+              "accuracyMeters": 10,
+              "latE7": 398766975,
+              "lngE7": -797299576,
+              "timestamp": "2015-05-26T21:54:47.124Z"
+            }
+          ]
+        },
+        "startLocation": {},
+        "waypointPath": {
+          "confidence": 0.9928943798247042,
+          "distanceMeters": 2313.828859834787,
+          "source": "BACKFILLED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 398753128,
+              "lngE7": -797299270
+            },
+            {
+              "latE7": 398769073,
+              "lngE7": -797300415
+            },
+            {
+              "latE7": 398881683,
+              "lngE7": -797226791
+            }
+          ]
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 398880100,
+        "centerLngE7": -797233967,
+        "duration": {
+          "endTimestamp": "2015-05-26T22:26:08.624Z",
+          "startTimestamp": "2015-05-26T22:00:17.965Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "22 Leith St, Uniontown, PA 15401-4918, United States",
+          "latitudeE7": 398892828,
+          "locationConfidence": 55.06788,
+          "longitudeE7": -797206845,
+          "name": "HDS by Ariel",
+          "placeId": "ChIJpf2ztss_NYgReAOX5GVX9n8"
+        },
+        "locationConfidence": 52,
+        "otherCandidateLocations": [
+          {
+            "address": "Uniontown, PA 15401, USA",
+            "latitudeE7": 398875787,
+            "locationConfidence": 25.076694,
+            "longitudeE7": -797203195,
+            "name": "Hope Chapel",
+            "placeId": "ChIJBdrSgck_NYgR0GPPGwZVy-0"
+          },
+          {
+            "latitudeE7": 398901786,
+            "locationConfidence": 13.620238,
+            "longitudeE7": -797233670,
+            "name": "Brower Engineering LLC",
+            "placeId": "ChIJeYp0ecw_NYgRR2SCfNbtsQ8"
+          },
+          {
+            "address": "61 Leith St, Uniontown, PA 15401, USA",
+            "latitudeE7": 398884331,
+            "locationConfidence": 6.2351894,
+            "longitudeE7": -797209562,
+            "name": "Stephens Flagging LLC",
+            "placeId": "ChIJC4AU3ps-NYgRyXWMSQO1zxs"
+          }
+        ],
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 59
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          },
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "distance": 2162,
+        "duration": {
+          "endTimestamp": "2015-05-27T01:15:17.680Z",
+          "startTimestamp": "2015-05-26T22:26:08.624Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {
+          "address": "115 Downer Ave, Uniontown, PA 15401-2768, United States",
+          "latitudeE7": 399085800,
+          "locationConfidence": 13.596363,
+          "longitudeE7": -797308062,
+          "name": "Chestnut Ridge Christian Academy",
+          "placeId": "ChIJs12wjyQ-NYgR6GcOlhy13pY"
+        },
+        "startLocation": {
+          "address": "22 Leith St, Uniontown, PA 15401-4918, United States",
+          "latitudeE7": 398892828,
+          "locationConfidence": 55.06788,
+          "longitudeE7": -797206845,
+          "name": "HDS by Ariel",
+          "placeId": "ChIJpf2ztss_NYgReAOX5GVX9n8"
+        },
+        "waypointPath": {
+          "confidence": 0.9660598579476178,
+          "distanceMeters": 2887.874164606841,
+          "source": "BACKFILLED",
+          "travelMode": "DRIVE",
+          "waypoints": [
+            {
+              "latE7": 398882293,
+              "lngE7": -797228469
+            },
+            {
+              "latE7": 399056587,
+              "lngE7": -797324523
+            }
+          ]
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 399058020,
+        "centerLngE7": -797323900,
+        "duration": {
+          "endTimestamp": "2015-05-27T03:05:32.907Z",
+          "startTimestamp": "2015-05-27T01:15:17.680Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "115 Downer Ave, Uniontown, PA 15401-2768, United States",
+          "latitudeE7": 399085800,
+          "locationConfidence": 13.596363,
+          "longitudeE7": -797308062,
+          "name": "Chestnut Ridge Christian Academy",
+          "placeId": "ChIJs12wjyQ-NYgR6GcOlhy13pY"
+        },
+        "locationConfidence": 18,
+        "otherCandidateLocations": [
+          {
+            "address": "60 Stockton Ave, Uniontown, PA 15401, USA",
+            "latitudeE7": 399043628,
+            "locationConfidence": 13.156695,
+            "longitudeE7": -797321048,
+            "name": "Flight Level Aviation, Inc.",
+            "placeId": "ChIJq6qqmjqgNYgR7zysophbMZw"
+          },
+          {
+            "address": "87 Kensington St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399043060,
+            "locationConfidence": 10.465463,
+            "longitudeE7": -797310480,
+            "name": "Laurel Highlands Foundation",
+            "placeId": "ChIJEXl4eyU-NYgRsnkAVKZhVek"
+          },
+          {
+            "address": "60 Stockton Ave, Uniontown, PA 15401, USA",
+            "latitudeE7": 399043628,
+            "locationConfidence": 10.125183,
+            "longitudeE7": -797321048,
+            "name": "Flight Level Aviation, Inc.",
+            "placeId": "ChIJq6qqmjqgNYgR7zysophbMZw"
+          },
+          {
+            "address": "297 E Main St, Uniontown, PA 15401, USA",
+            "latitudeE7": 398971070,
+            "locationConfidence": 7.845291,
+            "longitudeE7": -797157350,
+            "name": "Lantz Funeral Home, Inc.",
+            "placeId": "ChIJV70gQyQ-NYgR4r_KFAaJ_5U"
+          },
+          {
+            "latitudeE7": 399065240,
+            "locationConfidence": 7.6640425,
+            "longitudeE7": -797317118,
+            "placeId": "ChIJydaL_yQ-NYgRZQoTj64kRPY"
+          },
+          {
+            "address": "Uniontown, PA 15401, USA",
+            "latitudeE7": 399081317,
+            "locationConfidence": 7.0006313,
+            "longitudeE7": -797311548,
+            "name": "Boyle School",
+            "placeId": "ChIJR26jjiQ-NYgR30qQvi8c_E0"
+          },
+          {
+            "address": "61 Nassau St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399048919,
+            "locationConfidence": 6.2715864,
+            "longitudeE7": -797327800,
+            "name": "Laurel Legal Nurse Consltng",
+            "placeId": "ChIJ63VUkiU-NYgRnVRqTEHW9Uk"
+          },
+          {
+            "address": "100 Gilmore St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399065720,
+            "locationConfidence": 6.1465254,
+            "longitudeE7": -797334980,
+            "name": "Belfer Norman MD",
+            "placeId": "ChIJ0zn-zCU-NYgRk16fUerbrS0"
+          },
+          {
+            "latitudeE7": 399056700,
+            "locationConfidence": 3.9367583,
+            "longitudeE7": -797338500,
+            "placeId": "ChIJU2743CU-NYgRhu-1esTSKJU"
+          }
+        ],
+        "placeConfidence": "LOW_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 77
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "distance": 233,
+        "duration": {
+          "endTimestamp": "2015-05-27T03:39:59.919Z",
+          "startTimestamp": "2015-05-27T03:05:32.907Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {},
+        "startLocation": {},
+        "waypointPath": {
+          "confidence": 0.9935122624287466,
+          "distanceMeters": 232.8494454777308,
+          "source": "BACKFILLED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 399057655,
+              "lngE7": -797325973
+            },
+            {
+              "latE7": 399043312,
+              "lngE7": -797306060
+            }
+          ]
+        }
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          },
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "duration": {
+          "endTimestamp": "2015-05-27T03:59:13.435Z",
+          "startTimestamp": "2015-05-27T03:39:59.919Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {},
+        "simplifiedRawPath": {
+          "points": [
+            {
+              "accuracyMeters": 10,
+              "latE7": 398969574,
+              "lngE7": -797317581,
+              "timestamp": "2015-05-27T03:42:19.572Z"
+            },
+            {
+              "accuracyMeters": 10,
+              "latE7": 398841476,
+              "lngE7": -797361221,
+              "timestamp": "2015-05-27T03:47:56.318Z"
+            },
+            {
+              "accuracyMeters": 10,
+              "latE7": 398965607,
+              "lngE7": -797324371,
+              "timestamp": "2015-05-27T03:56:06.917Z"
+            }
+          ]
+        },
+        "startLocation": {},
+        "waypointPath": {
+          "confidence": 0.9819838913154438,
+          "distanceMeters": 212.37019165176312,
+          "source": "BACKFILLED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 399043312,
+              "lngE7": -797306060
+            },
+            {
+              "latE7": 398970870,
+              "lngE7": -797315750
+            },
+            {
+              "latE7": 398844680,
+              "lngE7": -797362976
+            },
+            {
+              "latE7": 398965454,
+              "lngE7": -797324523
+            },
+            {
+              "latE7": 399056396,
+              "lngE7": -797324218
+            }
+          ]
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 399056712,
+        "centerLngE7": -797322387,
+        "duration": {
+          "endTimestamp": "2015-05-27T05:39:13.982Z",
+          "startTimestamp": "2015-05-27T03:59:13.435Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "60 Stockton Avenue, Uniontown, Pennsylvania 15401-2839, United States",
+          "latitudeE7": 399043628,
+          "locationConfidence": 15.705173,
+          "longitudeE7": -797321048,
+          "name": "Flight Level Aviation, Inc.",
+          "placeId": "ChIJq6qqmjqgNYgR7zysophbMZw"
+        },
+        "locationConfidence": 19,
+        "otherCandidateLocations": [
+          {
+            "address": "87 Kensington St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399043060,
+            "locationConfidence": 13.219356,
+            "longitudeE7": -797310480,
+            "name": "Laurel Highlands Foundation",
+            "placeId": "ChIJEXl4eyU-NYgRsnkAVKZhVek"
+          },
+          {
+            "address": "60 Stockton Ave, Uniontown, PA 15401, USA",
+            "latitudeE7": 399043628,
+            "locationConfidence": 12.097506,
+            "longitudeE7": -797321048,
+            "name": "Flight Level Aviation, Inc.",
+            "placeId": "ChIJq6qqmjqgNYgR7zysophbMZw"
+          },
+          {
+            "address": "115 Downer Ave, Uniontown, PA 15401, USA",
+            "latitudeE7": 399085800,
+            "locationConfidence": 8.950342,
+            "longitudeE7": -797308062,
+            "name": "Chestnut Ridge Christian Academy",
+            "placeId": "ChIJs12wjyQ-NYgR6GcOlhy13pY"
+          },
+          {
+            "latitudeE7": 399065240,
+            "locationConfidence": 7.2950635,
+            "longitudeE7": -797317118,
+            "placeId": "ChIJydaL_yQ-NYgRZQoTj64kRPY"
+          },
+          {
+            "address": "61 Nassau St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399048919,
+            "locationConfidence": 6.99509,
+            "longitudeE7": -797327800,
+            "name": "Laurel Legal Nurse Consltng",
+            "placeId": "ChIJ63VUkiU-NYgRnVRqTEHW9Uk"
+          },
+          {
+            "address": "297 E Main St, Uniontown, PA 15401, USA",
+            "latitudeE7": 398971070,
+            "locationConfidence": 6.884038,
+            "longitudeE7": -797157350,
+            "name": "Lantz Funeral Home, Inc.",
+            "placeId": "ChIJV70gQyQ-NYgR4r_KFAaJ_5U"
+          },
+          {
+            "address": "Uniontown, PA 15401, USA",
+            "latitudeE7": 399081317,
+            "locationConfidence": 6.4434986,
+            "longitudeE7": -797311548,
+            "name": "Boyle School",
+            "placeId": "ChIJR26jjiQ-NYgR30qQvi8c_E0"
+          },
+          {
+            "address": "100 Gilmore St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399065720,
+            "locationConfidence": 5.180028,
+            "longitudeE7": -797334980,
+            "name": "Belfer Norman MD",
+            "placeId": "ChIJ0zn-zCU-NYgRk16fUerbrS0"
+          },
+          {
+            "latitudeE7": 399056700,
+            "locationConfidence": 3.5757885,
+            "longitudeE7": -797338500,
+            "placeId": "ChIJU2743CU-NYgRhu-1esTSKJU"
+          }
+        ],
+        "placeConfidence": "LOW_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 73
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "distance": 594,
+        "duration": {
+          "endTimestamp": "2015-05-27T06:57:14.206Z",
+          "startTimestamp": "2015-05-27T05:39:13.982Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {},
+        "startLocation": {},
+        "waypointPath": {
+          "confidence": 0.961545329213636,
+          "distanceMeters": 779.7657967057415,
+          "source": "BACKFILLED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 399056167,
+              "lngE7": -797323913
+            },
+            {
+              "latE7": 399003829,
+              "lngE7": -797319259
+            }
+          ]
+        }
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          },
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "distance": 1830,
+        "duration": {
+          "endTimestamp": "2015-05-27T07:04:08.185Z",
+          "startTimestamp": "2015-05-27T06:57:14.206Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {},
+        "startLocation": {},
+        "waypointPath": {
+          "confidence": 1.0,
+          "distanceMeters": 2146.7905431540803,
+          "source": "BACKFILLED",
+          "travelMode": "DRIVE",
+          "waypoints": [
+            {
+              "latE7": 399003829,
+              "lngE7": -797319259
+            },
+            {
+              "latE7": 398844680,
+              "lngE7": -797362976
+            }
+          ]
+        }
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "distance": 197,
+        "duration": {
+          "endTimestamp": "2015-05-27T07:13:41.224Z",
+          "startTimestamp": "2015-05-27T07:04:08.185Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {},
+        "startLocation": {},
+        "waypointPath": {
+          "confidence": 0.967584197124138,
+          "distanceMeters": 341.1916311913237,
+          "source": "BACKFILLED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 398844680,
+              "lngE7": -797362976
+            },
+            {
+              "latE7": 398830451,
+              "lngE7": -797379302
+            }
+          ]
+        }
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "distance": 2392,
+        "duration": {
+          "endTimestamp": "2015-05-27T07:16:43.160Z",
+          "startTimestamp": "2015-05-27T07:13:41.224Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {},
+        "startLocation": {},
+        "waypointPath": {
+          "confidence": 1.0,
+          "distanceMeters": 3775.422390203312,
+          "source": "BACKFILLED",
+          "travelMode": "DRIVE",
+          "waypoints": [
+            {
+              "latE7": 398830451,
+              "lngE7": -797379302
+            },
+            {
+              "latE7": 399043540,
+              "lngE7": -797429351
+            }
+          ]
+        }
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "distance": 918,
+        "duration": {
+          "endTimestamp": "2015-05-27T07:28:20.694Z",
+          "startTimestamp": "2015-05-27T07:16:43.160Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {},
+        "startLocation": {},
+        "waypointPath": {
+          "confidence": 0.0,
+          "distanceMeters": 1278.739786533253,
+          "source": "BACKFILLED",
+          "travelMode": "WALK",
+          "waypoints": [
+            {
+              "latE7": 399022216,
+              "lngE7": -797429656
+            },
+            {
+              "latE7": 399056472,
+              "lngE7": -797324371
+            }
+          ]
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 399057780,
+        "centerLngE7": -797322780,
+        "duration": {
+          "endTimestamp": "2015-05-27T08:53:51.619Z",
+          "startTimestamp": "2015-05-27T07:28:20.694Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "115 Downer Ave, Uniontown, PA 15401-2768, United States",
+          "latitudeE7": 399085800,
+          "locationConfidence": 13.713529,
+          "longitudeE7": -797308062,
+          "name": "Chestnut Ridge Christian Academy",
+          "placeId": "ChIJs12wjyQ-NYgR6GcOlhy13pY"
+        },
+        "locationConfidence": 18,
+        "otherCandidateLocations": [
+          {
+            "address": "60 Stockton Ave, Uniontown, PA 15401, USA",
+            "latitudeE7": 399043628,
+            "locationConfidence": 13.655148,
+            "longitudeE7": -797321048,
+            "name": "Flight Level Aviation, Inc.",
+            "placeId": "ChIJq6qqmjqgNYgR7zysophbMZw"
+          },
+          {
+            "address": "87 Kensington St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399043060,
+            "locationConfidence": 11.29314,
+            "longitudeE7": -797310480,
+            "name": "Laurel Highlands Foundation",
+            "placeId": "ChIJEXl4eyU-NYgRsnkAVKZhVek"
+          },
+          {
+            "address": "60 Stockton Ave, Uniontown, PA 15401, USA",
+            "latitudeE7": 399043628,
+            "locationConfidence": 10.508838,
+            "longitudeE7": -797321048,
+            "name": "Flight Level Aviation, Inc.",
+            "placeId": "ChIJq6qqmjqgNYgR7zysophbMZw"
+          },
+          {
+            "latitudeE7": 399065240,
+            "locationConfidence": 7.843975,
+            "longitudeE7": -797317118,
+            "placeId": "ChIJydaL_yQ-NYgRZQoTj64kRPY"
+          },
+          {
+            "address": "297 E Main St, Uniontown, PA 15401, USA",
+            "latitudeE7": 398971070,
+            "locationConfidence": 7.6196337,
+            "longitudeE7": -797157350,
+            "name": "Lantz Funeral Home, Inc.",
+            "placeId": "ChIJV70gQyQ-NYgR4r_KFAaJ_5U"
+          },
+          {
+            "address": "Uniontown, PA 15401, USA",
+            "latitudeE7": 399081317,
+            "locationConfidence": 7.0404115,
+            "longitudeE7": -797311548,
+            "name": "Boyle School",
+            "placeId": "ChIJR26jjiQ-NYgR30qQvi8c_E0"
+          },
+          {
+            "address": "61 Nassau St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399048919,
+            "locationConfidence": 6.1887813,
+            "longitudeE7": -797327800,
+            "name": "Laurel Legal Nurse Consltng",
+            "placeId": "ChIJ63VUkiU-NYgRnVRqTEHW9Uk"
+          },
+          {
+            "address": "100 Gilmore St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399065720,
+            "locationConfidence": 5.583784,
+            "longitudeE7": -797334980,
+            "name": "Belfer Norman MD",
+            "placeId": "ChIJ0zn-zCU-NYgRk16fUerbrS0"
+          },
+          {
+            "latitudeE7": 399056700,
+            "locationConfidence": 3.5668283,
+            "longitudeE7": -797338500,
+            "placeId": "ChIJU2743CU-NYgRhu-1esTSKJU"
+          }
+        ],
+        "placeConfidence": "LOW_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 77
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 399057450,
+        "centerLngE7": -797322400,
+        "duration": {
+          "endTimestamp": "2015-05-27T14:10:20.132Z",
+          "startTimestamp": "2015-05-27T13:53:27.839Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "60 Stockton Avenue, Uniontown, Pennsylvania 15401-2839, United States",
+          "latitudeE7": 399043628,
+          "locationConfidence": 15.379021,
+          "longitudeE7": -797321048,
+          "name": "Flight Level Aviation, Inc.",
+          "placeId": "ChIJq6qqmjqgNYgR7zysophbMZw"
+        },
+        "locationConfidence": 19,
+        "otherCandidateLocations": [
+          {
+            "address": "264 W Main St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399033570,
+            "locationConfidence": 10.309737,
+            "longitudeE7": -797347039,
+            "name": "Byers Main Street Market",
+            "placeId": "ChIJfedltig-NYgRus6T_KggOxk"
+          },
+          {
+            "address": "87 Kensington St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399043060,
+            "locationConfidence": 9.704452,
+            "longitudeE7": -797310480,
+            "name": "Laurel Highlands Foundation",
+            "placeId": "ChIJEXl4eyU-NYgRsnkAVKZhVek"
+          },
+          {
+            "latitudeE7": 399065240,
+            "locationConfidence": 9.002615,
+            "longitudeE7": -797317118,
+            "placeId": "ChIJydaL_yQ-NYgRZQoTj64kRPY"
+          },
+          {
+            "address": "297 E Main St, Uniontown, PA 15401, USA",
+            "latitudeE7": 398971070,
+            "locationConfidence": 8.66452,
+            "longitudeE7": -797157350,
+            "name": "Lantz Funeral Home, Inc.",
+            "placeId": "ChIJV70gQyQ-NYgR4r_KFAaJ_5U"
+          },
+          {
+            "address": "61 Nassau St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399048919,
+            "locationConfidence": 6.9387107,
+            "longitudeE7": -797327800,
+            "name": "Laurel Legal Nurse Consltng",
+            "placeId": "ChIJ63VUkiU-NYgRnVRqTEHW9Uk"
+          },
+          {
+            "address": "115 Downer Ave, Uniontown, PA 15401, USA",
+            "latitudeE7": 399085800,
+            "locationConfidence": 6.5108175,
+            "longitudeE7": -797308062,
+            "name": "Chestnut Ridge Christian Academy",
+            "placeId": "ChIJs12wjyQ-NYgR6GcOlhy13pY"
+          },
+          {
+            "address": "60 Stockton Ave, Uniontown, PA 15401, USA",
+            "latitudeE7": 399043628,
+            "locationConfidence": 6.319509,
+            "longitudeE7": -797321048,
+            "name": "Flight Level Aviation, Inc.",
+            "placeId": "ChIJq6qqmjqgNYgR7zysophbMZw"
+          },
+          {
+            "address": "Uniontown, PA 15401, USA",
+            "latitudeE7": 399081317,
+            "locationConfidence": 5.1379666,
+            "longitudeE7": -797311548,
+            "name": "Boyle School",
+            "placeId": "ChIJR26jjiQ-NYgR30qQvi8c_E0"
+          },
+          {
+            "address": "100 Gilmore St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399065720,
+            "locationConfidence": 4.6514425,
+            "longitudeE7": -797334980,
+            "name": "Belfer Norman MD",
+            "placeId": "ChIJ0zn-zCU-NYgRk16fUerbrS0"
+          }
+        ],
+        "placeConfidence": "LOW_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 77
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          },
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "distance": 3383,
+        "duration": {
+          "endTimestamp": "2015-05-27T16:02:29.883Z",
+          "startTimestamp": "2015-05-27T14:10:20.132Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {
+          "address": "337 Saratoga Dr, Uniontown, Fayette, Pennsylvania 15401, United States",
+          "latitudeE7": 398753168,
+          "locationConfidence": 100.0,
+          "longitudeE7": -797327216,
+          "placeId": "ChIJb99dud0_NYgR0U6Ut5A9-uk",
+          "semanticType": "TYPE_HOME"
+        },
+        "startLocation": {
+          "address": "60 Stockton Avenue, Uniontown, Pennsylvania 15401-2839, United States",
+          "latitudeE7": 399043628,
+          "locationConfidence": 15.379021,
+          "longitudeE7": -797321048,
+          "name": "Flight Level Aviation, Inc.",
+          "placeId": "ChIJq6qqmjqgNYgR7zysophbMZw"
+        },
+        "waypointPath": {
+          "confidence": 0.9988844830825822,
+          "distanceMeters": 4781.24213334362,
+          "source": "BACKFILLED",
+          "travelMode": "DRIVE",
+          "waypoints": [
+            {
+              "latE7": 399056396,
+              "lngE7": -797324218
+            },
+            {
+              "latE7": 398754081,
+              "lngE7": -797321090
+            }
+          ]
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 398752700,
+        "centerLngE7": -797327400,
+        "duration": {
+          "endTimestamp": "2015-05-27T16:29:45.001Z",
+          "startTimestamp": "2015-05-27T16:02:29.883Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "337 Saratoga Dr, Uniontown, Fayette, Pennsylvania 15401, United States",
+          "latitudeE7": 398753168,
+          "locationConfidence": 100.0,
+          "longitudeE7": -797327216,
+          "placeId": "ChIJb99dud0_NYgR0U6Ut5A9-uk",
+          "semanticType": "TYPE_HOME"
+        },
+        "locationConfidence": 92,
+        "placeConfidence": "HIGH_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 77
+      }
+    },
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          },
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "distance": 3390,
+        "duration": {
+          "endTimestamp": "2015-05-28T07:37:03.274Z",
+          "startTimestamp": "2015-05-27T16:29:45.001Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {
+          "address": "60 Stockton Avenue, Uniontown, Pennsylvania 15401-2839, United States",
+          "latitudeE7": 399043628,
+          "locationConfidence": 15.077749,
+          "longitudeE7": -797321048,
+          "name": "Flight Level Aviation, Inc.",
+          "placeId": "ChIJq6qqmjqgNYgR7zysophbMZw"
+        },
+        "startLocation": {
+          "address": "337 Saratoga Dr, Uniontown, Fayette, Pennsylvania 15401, United States",
+          "latitudeE7": 398753168,
+          "locationConfidence": 100.0,
+          "longitudeE7": -797327216,
+          "placeId": "ChIJb99dud0_NYgR0U6Ut5A9-uk",
+          "semanticType": "TYPE_HOME"
+        },
+        "waypointPath": {
+          "confidence": 0.8599164994931009,
+          "distanceMeters": 4782.225639604931,
+          "source": "BACKFILLED",
+          "travelMode": "DRIVE",
+          "waypoints": [
+            {
+              "latE7": 398754005,
+              "lngE7": -797321090
+            },
+            {
+              "latE7": 399056510,
+              "lngE7": -797324371
+            }
+          ]
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "centerLatE7": 399057162,
+        "centerLngE7": -797322400,
+        "duration": {
+          "endTimestamp": "2015-05-28T09:08:36.787Z",
+          "startTimestamp": "2015-05-28T07:37:03.274Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "location": {
+          "address": "60 Stockton Avenue, Uniontown, Pennsylvania 15401-2839, United States",
+          "latitudeE7": 399043628,
+          "locationConfidence": 15.077749,
+          "longitudeE7": -797321048,
+          "name": "Flight Level Aviation, Inc.",
+          "placeId": "ChIJq6qqmjqgNYgR7zysophbMZw"
+        },
+        "locationConfidence": 19,
+        "otherCandidateLocations": [
+          {
+            "address": "87 Kensington St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399043060,
+            "locationConfidence": 12.766838,
+            "longitudeE7": -797310480,
+            "name": "Laurel Highlands Foundation",
+            "placeId": "ChIJEXl4eyU-NYgRsnkAVKZhVek"
+          },
+          {
+            "address": "60 Stockton Ave, Uniontown, PA 15401, USA",
+            "latitudeE7": 399043628,
+            "locationConfidence": 11.614211,
+            "longitudeE7": -797321048,
+            "name": "Flight Level Aviation, Inc.",
+            "placeId": "ChIJq6qqmjqgNYgR7zysophbMZw"
+          },
+          {
+            "address": "115 Downer Ave, Uniontown, PA 15401, USA",
+            "latitudeE7": 399085800,
+            "locationConfidence": 9.045838,
+            "longitudeE7": -797308062,
+            "name": "Chestnut Ridge Christian Academy",
+            "placeId": "ChIJs12wjyQ-NYgR6GcOlhy13pY"
+          },
+          {
+            "latitudeE7": 399065240,
+            "locationConfidence": 7.7005496,
+            "longitudeE7": -797317118,
+            "placeId": "ChIJydaL_yQ-NYgRZQoTj64kRPY"
+          },
+          {
+            "address": "297 E Main St, Uniontown, PA 15401, USA",
+            "latitudeE7": 398971070,
+            "locationConfidence": 7.3548574,
+            "longitudeE7": -797157350,
+            "name": "Lantz Funeral Home, Inc.",
+            "placeId": "ChIJV70gQyQ-NYgR4r_KFAaJ_5U"
+          },
+          {
+            "address": "Uniontown, PA 15401, USA",
+            "latitudeE7": 399081317,
+            "locationConfidence": 6.8872075,
+            "longitudeE7": -797311548,
+            "name": "Boyle School",
+            "placeId": "ChIJR26jjiQ-NYgR30qQvi8c_E0"
+          },
+          {
+            "address": "61 Nassau St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399048919,
+            "locationConfidence": 6.77109,
+            "longitudeE7": -797327800,
+            "name": "Laurel Legal Nurse Consltng",
+            "placeId": "ChIJ63VUkiU-NYgRnVRqTEHW9Uk"
+          },
+          {
+            "address": "100 Gilmore St, Uniontown, PA 15401, USA",
+            "latitudeE7": 399065720,
+            "locationConfidence": 5.4237423,
+            "longitudeE7": -797334980,
+            "name": "Belfer Norman MD",
+            "placeId": "ChIJ0zn-zCU-NYgRk16fUerbrS0"
+          },
+          {
+            "latitudeE7": 399056700,
+            "locationConfidence": 3.614326,
+            "longitudeE7": -797338500,
+            "placeId": "ChIJU2743CU-NYgRhu-1esTSKJU"
+          }
+        ],
+        "placeConfidence": "LOW_CONFIDENCE",
+        "placeVisitImportance": "MAIN",
+        "placeVisitType": "SINGLE_PLACE",
+        "visitConfidence": 76
+      }
+    }
+  ]
+}

@@ -46,13 +46,15 @@ connections:
   - page: wiki/people/suzanne-frank
     type: evidenced-by
     claim: "The per-year volume table on that page is this chart's entire dataset: a fourteen-month reversal at the relationship's 2015-16 opening, then Suz permanently ahead from 2017, widening to roughly two-to-one by the record's end."
+  - { target: "[[wiki/mind/synthesis/estate-money-spine]]", type: contextualizes, claim: "The volume asymmetry — Suz permanently ahead from 2017, widening toward ~2:1 — is the communication register of the switchboard concentration the money spine traces in capital: one node carrying flows a diversified system would spread." }
+  - { target: "[[wiki/mind/synthesis/attachment-trauma-bond]]", type: contextualizes, claim: "The 2017 hinge and the widening asymmetry are dated residue for the bond page's leverage see-saw — who writes more, when, tracks who holds the exit." }
 ---
 
 # Annual Message Volume: Dan vs. Suz
 
-> **RE-CHECKED [2026-09-04] — the premise gained material and the arithmetic is
-> untouched.** [[wiki/people/suzanne-frank]] gained a section on six dated
-> messages naming Judge Fred Adams, including her report of his death
+> **RE-CHECKED [2026-09-04] — the premise gained material and the arithmetic is**
+> **untouched.** [[wiki/people/suzanne-frank]] gained a section on six dated
+> messages naming [[wiki/people/fred-adams|Judge Fred Adams]], including her report of his death
 > (2020-05-24). **No volume figure on this page is affected** — the messages
 > were always in the corpus and always counted; what changed is that somebody
 > read six of them. Nothing withdrawn.
@@ -61,8 +63,8 @@ connections:
 > **RE-CHECKED [2026-08-28]:** flagged stale against
 > [[wiki/people/suzanne-frank]] (2026-08-28), which added a new
 > 2013–2014 eviction/concealment episode (Alexis Armel, the washing
-> machine). No message-volume figure this page draws on is touched. **No
-> claim on this page is affected.**
+> machine). No message-volume figure this page draws on is touched. **No**
+> **claim on this page is affected.**
 
 [[wiki/people/suzanne-frank|Suz]]'s page already states the finding in
 prose — she outwrites Dan in every year but two, and the gap widens after

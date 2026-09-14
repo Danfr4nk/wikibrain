@@ -82,18 +82,21 @@ connections:
   - page: wiki/timeline/events/robotussin-s-last-dance
     type: co-occurs
     claim: "Frank's Auto Supply is the daytime setting of the same day — the delivery-driver job held that afternoon, at 17, on a day whose evening ended with 90 minutes of full intoxication at Ruby Tuesday's near Pittsburgh airport and a 95 mph drive back toward Uniontown."
+  - { target: "[[wiki/mind/synthesis/november-2005-hinge]]", type: contextualizes, claim: "That entry audits the November 2005 rupture as testimony rather than fact: his 6 AM rehab admission, disclosed on the learner's-permit drive, is the hinge's load-bearing event and its least documented one." }
+  - { target: "[[wiki/people/bill-ulmer]]", type: references, claim: "Dan's December 2016 report of making (more gradual) progress with Bill and Ellen places Rick adjacent to the Annie-parents repair he was kept outside of." }
+  - { target: "[[wiki/people/ellen-ulmer]]", type: references, claim: "Same December 2016 report: Ellen, alongside Bill, is the Annie-side parent the repair was moving toward while Rick's own repair stayed stalled." }
 ---
 
 
 # Richard Harrison "Rick" Frank
 
-> **ADDED [2026-08-23] — "Ricky" is a further 66 mentions this page was not
-> counting.** The corpus carries *Ricky* **66 times** between 2015 and 2020,
+> **ADDED [2026-08-23] — "Ricky" is a further 66 mentions this page was not**
+> **counting.** The corpus carries *Ricky* **66 times** between 2015 and 2020,
 > overwhelmingly from Suz's handle and Annie's, in a register that is
 > unmistakably domestic: *"Come over and introduce Annie to Ricky"* (2015-12-11),
 > *"I think Ricky and I are coming over to fix the toilet first"* (2016-01-13),
-> *"Supposed to go to dinner soon w Ricky"* (2016-04-20), *"I forgot to drop off
-> money at Ricky's"* (2017-10-24), *"Ask your mom if she can see Ricky"*
+> *"Supposed to go to dinner soon w Ricky"* (2016-04-20), *"I forgot to drop off*
+> *money at Ricky's"* (2017-10-24), *"Ask your mom if she can see Ricky"*
 > (2017-10-09).
 >
 > **This corroborates the 2026-08-11 correction rather than complicating it.**
@@ -105,8 +108,7 @@ connections:
 > is not low-intensity contact.
 >
 > **Held open:** a small number of the Annie-side uses sit in money-request
-> contexts during the [[wiki/timeline/periods/2017-poverty-floor|2017 poverty
-> floor]] (*"Can you get a 50 from Ricky for us?"*, 2017-10-17) which could in
+> contexts during the [[wiki/timeline/periods/2017-poverty-floor|2017 poverty > floor]] (*"Can you get a 50 from Ricky for us?"*, 2017-10-17) which could in
 > principle name a different Ricky. Nothing in the corpus supports a second one,
 > and the domestic uses are unambiguous, so all 66 are read as this person — but
 > the ambiguity is recorded rather than resolved by assertion.
@@ -138,8 +140,7 @@ Dan's own framing: "he was idiosyncratic in his control, which he used to
 facilitate a strictness in both the psychic and moral sense, as well as the
 legal and tangible sense."
 
-**The Tan Calabrese / Angelfire incident.** [[wiki/people/tan-calabrese|Tan
-Calabrese]] — a childhood friend, later a corpus contact from 2016–2020 —
+**The Tan Calabrese / Angelfire incident.** [[wiki/people/tan-calabrese|Tan Calabrese]] — a childhood friend, later a corpus contact from 2016–2020 —
 once made an Angelfire website mocking his older brother's girlfriend. Rick
 found "this stupid harmless site" in the family browser history and took it
 as his own duty to act on it: he confronted Tan directly and humiliated Dan
@@ -171,7 +172,7 @@ recorded here because it is exactly the kind of primary, dated, named-source
 testimony this page is supposed to hold, whether or not it turns out to be
 the load-bearing explanation.
 
-Dan explicitly asked that his mother Suz's version of events **not** be
+Dan explicitly asked that his mother [[wiki/people/suzanne-frank|Suz]]'s version of events **not** be
 solicited or inferred alongside this — noted so a future pass does not
 assume the omission is an oversight.
 
@@ -215,7 +216,7 @@ before Dan's 22nd birthday — Rick met his son in Pittsburgh and the two
 boarded an Amtrak train together bound for New York, then spent the
 following months apartment-hunting; by June, Dan had a lease at
 [[wiki/places/424-bedford-ave|424 Bedford Ave]] in Williamsburg. The
-Gemini-58 reconstruction dates the offer that made this possible to the same
+[[wiki/self/chats/gemini-58|Gemini-58]] reconstruction dates the offer that made this possible to the same
 window: Rick proposed **$2,000 a month "while you intern," plus help finding
 an apartment**, as the alternative to Dan's stated preference — an
 Entourage-style move to West Hollywood chasing the "Ari Gold" version of the
@@ -256,8 +257,8 @@ who has been present the entire time this page previously described as
 
 ## The relationship, corrected: warm, high-volume, and asymmetric rather than silent
 
-> **CORRECTED 2026-08-11 — the prior version of this section was wrong, not
-> just incomplete, and the error is recorded rather than quietly fixed.** An
+> **CORRECTED 2026-08-11 — the prior version of this section was wrong, not**
+> **just incomplete, and the error is recorded rather than quietly fixed.** An
 > earlier pass this same day built an entire narrative — "the loudest
 > silence," a "held-block control case," "that is the last message Dan ever
 > sent to this number" — on `imessage_7243667777_both_all_now.csv`, a file
@@ -273,8 +274,8 @@ who has been present the entire time this page previously described as
 > itself: a per-contact export claiming "all time" is a claim to verify,
 > not a claim to trust, and the fix is the same discipline that was already
 > written down for the general dumps — cross-check against the largest
-> available source before asserting completeness. **Independent
-> corroboration, found the same day by coincidence:** a 73-page print-to-PDF
+> available source before asserting completeness. **Independent**
+> **corroboration, found the same day by coincidence:** a 73-page print-to-PDF
 > export of this exact thread, made by Dan himself in 2018 (`raw/self/message-exports/rick-frank-imessage-pdf-export-2018-thru-2018-04.txt`,
 > covering Dec 2015–Apr 2018, Messages.app's own render rather than a
 > reconstructed export), matches `all_imessages_complete_dump.txt`
@@ -294,8 +295,8 @@ kicked to the curb." But the full record shows **Dan replied the same
 day** ("Not sure what that means or how I've kicked you to the curb," Dec
 16, 12:06pm — not documented in the prior version at all), the exchange
 continued through Dec 17 and Dec 19 (Dan reporting real progress with
-Annie's family: "I've hung out with both Claire and Will and they both
-approve. Also making (more gradual) progress with Bill and Ellen"), and by
+Annie's family: "I've hung out with both [[wiki/people/claire-ulmer|Claire]] and Will and they both
+approve. Also making (more gradual) progress with [[wiki/people/bill-ulmer|Bill]] and [[wiki/people/ellen-ulmer|Ellen]]"), and by
 **December 25 and 27** Rick is inviting Dan to Christmas dinner and to
 watch a game at Lisa's, and Dan is actively participating ("Oh cool! What
 time is the game"). The friction was real and the "kicked to the curb"
@@ -475,10 +476,28 @@ precise, better-evidenced account of "the loudest silence... all fun must
 be approved by management" than either "he's just a football-and-golf guy"
 or "we have nothing in common" would be on their own.
 
+**Peak Rick, January 11, 2016** (`dat:rick-denver-trip-yank-2016-01-11`).
+A screenshot Dan sent over on 2026-09-12 carrying his own label — "peak
+Rick" — and it earns it. The morning of January 11, six days before the
+Steelers' divisional playoff game in Denver, Rick texted: *"Do u want to go
+to the Steeler game in Denver?"* Dan lit up across three messages —
+*"Wow!"*, *"How long of a trip would it be? What days"*, *"I would love to
+go just want to make sure of the dates first"* — and Rick pulled it back
+in the same exchange: *"I was kidding. I want to also but can't swing
+it."* Dan: *"LOL I was going to say."* The exchange appears in no message
+export in the corpus; it survives only because Dan screenshotted it that
+morning. As a beat it is the register in miniature — the Steelers channel
+as the medium of father-son contact, a big offer floated and withdrawn
+within minutes, the son left holding the deflated version and laughing it
+off. The timing does its own work: eleven days after the "kicked to the
+curb" friction of mid-December, weeks after that friction resolved — the
+father who got the confessional version of the [[wiki/people/annie-ulmer|Annie]]-parents crisis in
+December is, in January, doing the Denver-trip yank.
+
 ## Family position
 
 Rick sits at the exact seam of the [[wiki/mind/synthesis/ancestral-dialectic|Ashkenazi/Appalachian ancestral binary]]: the paternal Jewish line running through him is the "hypervigilance" side of that framework, while his own 2005 collapse — the cocaine, the rehab, the marriage's end — is itself the load-bearing evidence the "numbness" side of the same dialectic points back to on the maternal side. Paternal Jewish line: grandson of [[wiki/people/david-j-frank|David J. Frank]] (b. 1892, Russia) and
-[[wiki/people/sadie-harris|Sadie Harris]] (b. 1900, Austria), son of Morley Jay Frank (1927–1998);
+[[wiki/people/sadie-harris|Sadie Harris]] (b. 1900, Austria), son of [[wiki/people/morley-frank|Morley Jay Frank]] (1927–1998);
 Episcopalian himself ([[wiki/self/ancestry]]). One of the four documented
 generations of functional alcoholism. Multiple Uniontown residences on
 record through 1989–2002; current address unconfirmed.
@@ -498,3 +517,7 @@ claim that he never will** — the record simply ends there, and a future
 pass should re-pull both sources before restating this finding.
 
 
+
+## Sources
+
+[![iMessage screenshot, 2016-01-11: Rick offers then retracts a Steelers-in-Denver trip](../media/upload-071.jpg)](../media/upload-071.jpg)

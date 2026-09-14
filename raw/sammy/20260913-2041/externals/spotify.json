@@ -1,0 +1,9 @@
+{
+ "source": "spotify",
+ "status": "connected",
+ "count": 0,
+ "new_items": [],
+ "note": "now-playing UNCHANGED: \"don't need u (i do)\" by blunn, context playlist \"Baby's First Stalker\" (spotify:playlist:33fJZQdoD9hnC18XqDHXS7), progress_ms 1494, PAUSED. No recently-played endpoint in CLI; snapshot only.",
+ "pulled_at": "2026-09-13T20:55:00Z",
+ "watermark_from": "snapshot-2026-09-12T23:35:50Z"
+}

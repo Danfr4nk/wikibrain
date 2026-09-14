@@ -87,8 +87,8 @@ that radius sounds like in his own words.
 The street's one moment of self-awareness is Dan's, writing to a third party on
 **2024-07-13**:
 
-> *"The whole ulmer/mechling crew was in Hilton head for the last week. Although,
-> that might not be news to you given your proximity to the derrick ave gang."*
+> *"The whole ulmer/mechling crew was in Hilton head for the last week. Although,*
+> *that might not be news to you given your proximity to the derrick ave gang."*
 
 That sentence does two things this wiki has nowhere else. It treats the Ulmers
 and the [[wiki/people/betherin-mechling|Mechlings]] as **one social unit**, and it

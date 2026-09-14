@@ -60,6 +60,7 @@ connections:
   - page: wiki/mind/profile/intp
     type: caused-by
     claim: "Core Axiom 1's binary self-worth verdict, per the-binary-verdict's account of Ti-dominance with no Fe-mediated grading function, is why a return misfiled as 'personal failure' would otherwise resolve to worthless rather than to a graded 'a setback, not a verdict' — which is what makes this page's reframing substantive rather than merely comforting: it changes the category the event is judged in, not its position on a scale that was never available."
+  - { target: "[[wiki/mind/synthesis/estate-money-spine]]", type: contextualizes, claim: "The Fran-estate capital the spine traces — Whyel coal money administered through the Coldren legal line — is the material counterpart of this page's Fayette anchoring: the same maternal line that never left is the line the capital came down." }
 ---
 
 # The Fayette Return
@@ -68,8 +69,8 @@ connections:
 > (2026-08-23), which gained an alias finding — *Ricky*, 66 further mentions
 > across 2015–2020 — corroborating the 2026-08-11 retraction of that page's
 > held-block reading by showing ordinary domestic contact (dinners, plumbing,
-> money both ways) through the Uniontown years. **This page's argument is
-> unaffected and mildly supported**: a return to Fayette County into a family
+> money both ways) through the Uniontown years. **This page's argument is**
+> **unaffected and mildly supported**: a return to Fayette County into a family
 > network that was actually functioning is more consistent with the pull this page
 > describes than a return into estrangement would be. No date, move or claim here
 > changes, and nothing is withdrawn.
@@ -101,11 +102,11 @@ it can be broken.**
 | G1 | [[wiki/people/sadie-harris]] | 1900, **Austria** | emigration (arrival, not return) | d. 1997, place unrecorded | **Hopwood** |
 | G2 | [[wiki/people/morley-frank]] | 1927, Brownsville | **Seattle, 1957** → Uniontown by **1959** | d. 1998 **Hopwood, PA** | **Hopwood** |
 | G3 | [[wiki/people/rick-frank]] | 1959, Uniontown | *none attested* | Fayette Co. (auto-parts chain) | — |
-| G4 | Dan | 1988, Uniontown | Florida, New York (twice) | **337 Saratoga Drive, Uniontown** | — |
+| G4 | Dan | 1988, Uniontown | Florida, New York (twice) | **[[wiki/places/337-saratoga-drive|337 Saratoga Drive]], Uniontown** | — |
 
-> **REVISED [2026-08-02] — the rule survives and gets two corrections and one
-> sharpening, all from a direct read of the GEDCOM that this page was written
-> above rather than from.**
+> **REVISED [2026-08-02] — the rule survives and gets two corrections and one**
+> **sharpening, all from a direct read of the GEDCOM that this page was written**
+> **above rather than from.**
 >
 > 1. **Sadie did not die in Hopwood.** The export records only a death *date*
 >    (27 Nov 1997) and gives Hopwood as her **burial** place; her last attested
@@ -113,8 +114,8 @@ it can be broken.**
 >    the record does not contain.
 > 2. **G1 is not a bare arrival.** David J. Frank is documented in Manhattan in
 >    1900, 1905 and 1910 and in the Bronx on 1 June 1915, reaching Brownsville
->    only by the 1920 census. The line's founding move was **New York City to
->    Fayette County** — which is the identical vector Dan runs in
+>    only by the 1920 census. The line's founding move was **New York City to**
+>    **Fayette County** — which is the identical vector Dan runs in
 >    [[wiki/timeline/periods/feb-apr-2025-return-and-rupture]]. It remains true
 >    that David had no Fayette County to return *to*, so he is not an instance of
 >    the rule; but "arrival, not return" understated him. He chose the county
@@ -165,7 +166,7 @@ Three falsifiers, each checkable against the GEDCOM and the census record:
 
 ## The generation that never left
 
-G3 is the case a lazy version of this page would drop. Rick has no attested
+G3 is the case a lazy version of this page would drop. [[wiki/people/rick-frank|Rick]] has no attested
 departure at all: born Uniontown 1959, builds an auto-parts chain in the same
 county, stays. He is not an instance of leaving-and-returning.
 
@@ -265,21 +266,21 @@ solid.
   regional base rate, and until it does, "elastic tether" is a description and
   not yet an explanation.
 
-> **RE-CHECKED [2026-08-18] — the page's most important gap is now half-closed,
-> the geographic rule survives and widens, and the parsimony argument it uses
-> against the dialectic does not survive intact.**
+> **RE-CHECKED [2026-08-18] — the page's most important gap is now half-closed,**
+> **the geographic rule survives and widens, and the parsimony argument it uses**
+> **against the dialectic does not survive intact.**
 >
 > **The premise that moved.** [[wiki/self/ancestry]] was rewritten on 2026-08-14
 > from a direct GEDCOM extraction — 515 individuals, **90 direct ancestors**,
 > four grandparental lines, geographic concentration tables and six migration
-> corridors. This page's top gap read: *"The maternal line is not assessed… If
-> they are [Fayette-anchored], the pull may be regional rather than lineal and
-> the 'paternal line' framing is too narrow."* The rewrite assesses it. The
+> corridors. This page's top gap read: *"The maternal line is not assessed… If*
+> *they are [Fayette-anchored], the pull may be regional rather than lineal and*
+> *the 'paternal line' framing is too narrow."* The rewrite assesses it. The
 > answer is **yes, partly** — and it cuts both ways.
 >
-> **The rule widens and holds.** Of the 90 direct ancestors traced, *"the
-> majority were born, lived, and died within a twenty-mile radius of
-> Uniontown"* — across **both** sides of the tree, not the Frank line only. The
+> **The rule widens and holds.** Of the 90 direct ancestors traced, *"the*
+> *majority were born, lived, and died within a twenty-mile radius of*
+> *Uniontown"* — across **both** sides of the tree, not the Frank line only. The
 > rule stated on this page as *the terminus is always Fayette* is not merely
 > unbroken; it is now the family-wide default rather than a paternal
 > peculiarity. The maternal line also supplies a clean confirming instance this
@@ -305,11 +306,10 @@ solid.
 > attached: its second point (the fifteen-year New York layover) is untouched
 > and still stands.
 >
-> **And the rule gets its first real counterexample candidate — from the side
-> this page does not cover.** [[wiki/people/diane-moore|Rebecca Diane Van
-> Voorhis]], Dan's maternal grandmother, is described in the rewrite as *"the
-> line's one documented departure from the Pennsylvania/West Virginia
-> region"*: Farmington Hills, Michigan **1985–2010**, then Stanwood, Michigan
+> **And the rule gets its first real counterexample candidate — from the side**
+> **this page does not cover.** [[wiki/people/diane-moore|Rebecca Diane Van > Voorhis]], Dan's maternal grandmother, is described in the rewrite as *"the*
+> *line's one documented departure from the Pennsylvania/West Virginia*
+> *region"*: Farmington Hills, Michigan **1985–2010**, then Stanwood, Michigan
 > **2013–2020**. Thirty-five years out of region, no attested return, and she is
 > still living, so no terminus is on the record at all.
 >
@@ -320,14 +320,14 @@ solid.
 > identical predictions. If the pull is regional, she is an anomaly the account
 > owes an explanation for; if it is lineal, she is simply outside the claim and
 > the concentration statistic above is doing less work than it appears to.
-> **The page cannot currently tell these apart, and should stop implying it
-> can.** Falsifier 1 is hereby widened: it asks for a line member who left and
+> **The page cannot currently tell these apart, and should stop implying it**
+> **can.** Falsifier 1 is hereby widened: it asks for a line member who left and
 > died elsewhere, and the cheapest place to run it is no longer the unchecked
 > collaterals but Diane's own terminus, when there is one.
 >
 > **A cascade, found and run.** [[wiki/people/diane-moore]] still recorded
-> Farmington Hills 1985–2010 as *"the only geographic fact the corpus supplies
-> about her adult life."* The 2026-08-14 ancestry rewrite added the Stanwood
+> Farmington Hills 1985–2010 as *"the only geographic fact the corpus supplies*
+> *about her adult life."* The 2026-08-14 ancestry rewrite added the Stanwood
 > 2013–2020 residence four days before that page was last touched, and it never
 > reached it — so the page was declaring a scarcity the corpus had already
 > relieved. Corrected there on 2026-08-18.
@@ -337,11 +337,11 @@ solid.
 > December 2015 rupture (Dan's decade-long silence toward Rick, verified
 > against the per-number export) and a 2010 NYC-funding narrative from an
 > earlier pass. Neither touches Rick's residence record — no departure from
-> Fayette County is attested by either finding, so his G3 row ("*none
-> attested*") is unchanged. Nothing here needed revising.
+> Fayette County is attested by either finding, so his G3 row ("*none*
+> *attested*") is unchanged. Nothing here needed revising.
 
-> **RE-CHECKED [2026-08-26] — the collaterals-unchecked gap gains its first
-> data point, and it is not the falsifier.** [[wiki/self/ancestry]] added one
+> **RE-CHECKED [2026-08-26] — the collaterals-unchecked gap gains its first**
+> **data point, and it is not the falsifier.** [[wiki/self/ancestry]] added one
 > verified collateral from the maternal Shrum line: **Daniel Shrum** (b. 11
 > Apr 1884, Pennsylvania; d. 11 Dec 1918, Greensburg, Westmoreland County) —
 > an older brother of the direct-line G. Dixon Shrum, single and living at

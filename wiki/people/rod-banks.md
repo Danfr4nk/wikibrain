@@ -52,11 +52,11 @@ The message range (2017–2020) brackets Fran's death on April 4, 2018, and exte
 
 ## The other half of the thread, and what it makes him
 
-> **CORRECTED [2026-09-04] — "Direction: All received (export artifact)" was
-> wrong, and the whole reading above was built on one side of a conversation.**
+> **CORRECTED [2026-09-04] — "Direction: All received (export artifact)" was**
+> **wrong, and the whole reading above was built on one side of a conversation.**
 > This page was written from 41 messages in the CSV export and attributed their
-> one-sidedness to the export. The dox-scan dump holds the same thread at **92
-> messages — 51 Sent, 41 Received.** Dan's half exists. It was never missing;
+> one-sidedness to the export. The dox-scan dump holds the same thread at **92**
+> **messages — 51 Sent, 41 Received.** Dan's half exists. It was never missing;
 > it was in a corpus this page did not cite.
 
 The Sent half changes what he is. On the received-only reading he is a man
@@ -106,8 +106,8 @@ decision. On 2020-01-10 he says it outright: *"I've been getting my information
 from Jason. He says things should be wrapping up this month or next month. He
 is waiting on approval of so[mething]."*
 
-> **CONTRADICTION with [[wiki/mind/synthesis/estate-money-spine]], and it is
-> not small.** That page's timeline carries one line for this period —
+> **CONTRADICTION with [[wiki/mind/synthesis/estate-money-spine]], and it is**
+> **not small.** That page's timeline carries one line for this period —
 > *"2020-06-23 · Estate advance issued · $10,000"*. The thread here holds
 > **five** advances totalling **$32,500**, none of them dated 2020-06-23, and
 > the $10,000 in it is dated **2020-02-04**. Either there were two $10,000
@@ -142,8 +142,8 @@ also inside of, which is the same double position
 ## Gaps
 
 > **GAP CLOSED [2026-09-04] — he is the estate's disbursing agent.** This
-> section read: *"Exact relationship to Fran (family member, estate
-> representative, or property caretaker) is unresolved."* The Sent half of the
+> section read: *"Exact relationship to Fran (family member, estate*
+> *representative, or property caretaker) is unresolved."* The Sent half of the
 > thread settles it. He authorises a title transfer, cancels Fran's insurance,
 > pays Timeslips, audits a utility notice, routes reimbursements against prior
 > payments, and writes five estate checks totalling $32,500 on another man's

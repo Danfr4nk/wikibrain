@@ -45,8 +45,8 @@ connections:
 
 # The Unmasking and the August 8–9 Collapse
 
-> **One day. The refusal ends at 19:01:22, the conversation opens at 19:38:34,
-> and the last message goes unanswered at 03:41:32.**
+> **One day. The refusal ends at 19:01:22, the conversation opens at 19:38:34,**
+> **and the last message goes unanswered at 03:41:32.**
 
 > **Sourcing note.** This page and
 > [[wiki/mind/synthesis/read-receipt-forensics]] were written from a session
@@ -227,8 +227,8 @@ external research. The circularity finding is dead and is not carried forward.
 ## Standing constraint on analysis of this page
 
 > [[wiki/people/annie-ulmer]] establishes as its central finding that the gravest
-> harm of the terminal phase was being told that an **accurate perception was
-> itself a symptom of instability** — and the Corrective Addendum formally
+> harm of the terminal phase was being told that an **accurate perception was**
+> **itself a symptom of instability** — and the Corrective Addendum formally
 > retracted an earlier wiki pass that credited the "Dan's vigilance is
 > controlling behaviour" framing.
 >
@@ -241,8 +241,8 @@ external research. The circularity finding is dead and is not carried forward.
 
 ## What August 16 settled about this night
 
-> **RESOLVED [2026-08-20] — the inference this page could not confirm is now
-> primary.** The whole of this night runs on an inference: that Annie's silence
+> **RESOLVED [2026-08-20] — the inference this page could not confirm is now**
+> **primary.** The whole of this night runs on an inference: that Annie's silence
 > and read-receipt pattern meant she was with [[wiki/people/jerel-coles|Coles]].
 > The page holds it as an inference and says so. Seven days later, on
 > 2026-08-16 at ~23:37, Coles is audible on a live call from Annie's phone and

@@ -124,9 +124,9 @@ as the exit."
 > call him into the back and make the $50 demand. Dan's actual response
 > was not a refusal: he asked clarifying questions ("was it the gas
 > thing?"), got irritated at an unrelated dig about owing Marty $20, and
-> left. In his own words, correcting the record mid-session: *"i didn't
-> refuse to pay it and i am not even sure when my hours were cut exactly.
-> i knew it had to be after friday night but before monday."* Brandon
+> left. In his own words, correcting the record mid-session: *"i didn't*
+> *refuse to pay it and i am not even sure when my hours were cut exactly.*
+> *i knew it had to be after friday night but before monday."* Brandon
 > himself later independently corroborated that the hours cut was not
 > tied to the money — a 12:50 AM text volunteered that the reduction was
 > because "Anita was in one of her moods," framing it as separate from
@@ -456,22 +456,22 @@ page's own gap note.
 
 On the morning of **11 August 2026** Dan told Annie he had his job back:
 
-> *"Well I got my job at BFS back"* · *"I guess the same lady who put me on a
-> no-hire list there told the manager today to put in another application like
-> I did before and they're going to try to get me on the schedule for next
-> week"*
+> *"Well I got my job at BFS back"* · *"I guess the same lady who put me on a*
+> *no-hire list there told the manager today to put in another application like*
+> *I did before and they're going to try to get me on the schedule for next*
+> *week"*
 
 The same message carries the sharpest statement of what the episode cost him,
 and it is about epistemics rather than money:
 
-> *"That whole thing is one of the major reasons I have to wonder if I am going
-> crazy or not because they acted like I stole money from the safe or
-> something like…literally the only thing I did was go home 30 minutes before
-> my shift was supposed to end after I called my manager and made sure it was
-> okay"*
+> *"That whole thing is one of the major reasons I have to wonder if I am going*
+> *crazy or not because they acted like I stole money from the safe or*
+> *something like…literally the only thing I did was go home 30 minutes before*
+> *my shift was supposed to end after I called my manager and made sure it was*
+> *okay"*
 >
-> *"they had a fucking sign hanging in the back of BFS and in the office at
-> little caesars that said 'NO HIRE: Daniel Frank'"*
+> *"they had a fucking sign hanging in the back of BFS and in the office at*
+> *little caesars that said 'NO HIRE: Daniel Frank'"*
 
 Two facts here are new to this page: the **posted sign**, named and quoted, in
 two locations rather than one; and the reversal being initiated by *the same

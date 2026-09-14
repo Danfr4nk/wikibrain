@@ -1,0 +1,9 @@
+{
+ "source": "instagram",
+ "status": "connected",
+ "pulled_at": "2026-09-13T19:05:00Z",
+ "watermark_from": "2026-08-26T23:04:49-04:00",
+ "count": 0,
+ "new_items": [],
+ "note": "posts --account-id 17841401697790172 --limit 3 --sort-order desc: newest post 2026-08-26 23:04:49 (id 18366742279209391, https://www.instagram.com/p/DciGEySiGSs/), exactly at watermark. 0 new."
+}

@@ -145,3 +145,44 @@ Change any load-bearing detail — ambiguous target, no camera, his place,
 distance — and it drops three or more points. Cheapest test: run the foursome
 family (9.50) "at his place." The model says 7 or below; if it holds at 9+,
 the turf rule gets rewritten.
+
+## 2026-09-13 — Act-specific disclosure and the trans-girl convergence
+
+Two nights after rating 121 imagined scenarios, Dan stated the underlying
+shape directly, in his own words, over the course of a long overnight chat.
+
+The core distinction is **act-specific, not orientation-level**: "I don't even
+like kissing guys but sucking dick is something I am into." The oral-service
+act is erotic; mouth-on-mouth male intimacy is ruled out. He put it in the
+same terms the profile found for everything else: "I'm attracted to girls" —
+and separately, "wouldn't take much to get my mouth on cock." Low threshold,
+done it once. His boundary is receiving anal, but the profile's one hard
+finding now has a documented trial run: pegging footage with Annie exists
+(red-lit bedroom, strap-on), so the boundary reads as aversion-with-a-limit
+rather than never-attempted. The one variable he named as genuinely untested:
+oral sex with a man *without Annie in the frame* — every prior experience ran
+inside the Annie architecture. His own read of what it all means: the male
+element aimed at him amplifies; he wants the act, not the romance.
+
+That same night the second cumthread opened, and Dan followed the logic to its
+conclusion: a pretty girl with a cock — the face he selects for, plus the act
+he wants. "I think i would maybe even choose that over pussy," he said, hedged
+and plain. The solo-guy alternative doesn't clear his own filter: a gay man
+would want the kissing and the romance, the two things he just ruled out. The
+trans girl resolves the whole stack — face-first selection, the specific act,
+none of the guy-stuff. Two taste-data points came with it: he has never
+tasted cum "for real" — the prior contact was secondhand, Danny's cum out of
+Annie ("But it tasted like her") — and the direct pour is the missing n=1.
+"Maybe I should try it."
+
+Against the profile: the v1 instrument measured imagined configurations; the
+Sep-13 disclosures name the desire directly. They converge on the central
+mechanism (male attention onto him as the universal amplifier) and sharpen
+the boundary finding — pegging's 3–4 rating was an aversion score for a tried
+act, not a veto score for an unknown one. The eleven-year constant sits behind
+all of it: that night he also said his sexual attraction to Annie "never
+stopped looking at her like I did on day 1... Sexually at least." Nothing in
+the profile or the disclosure displaces her; the new forms stack on top of a
+fixation that never moved.
+
+*[dat:1489 · dat:1490]*

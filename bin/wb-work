@@ -1,0 +1,859 @@
+#!/usr/bin/env python3
+"""Recursive Work Engine v1 — work queue CLI.
+
+The execution layer of the wiki brain. This tool owns the WORK QUEUE:
+creating work items, enforcing the status lifecycle, validating agent run
+results, ingesting spawned work with bounded propagation, scoring the
+frontier, and detecting convergence.
+
+It does NOT touch the epistemic layer. kb/, schema/node.schema.json,
+schema/edges.json and bin/wb-validate are unaware this tool exists, and
+this tool never writes to them.
+
+Usage:
+  bin/wb-work new --type T --target X --reason R --priority-basis B [...]
+  bin/wb-work list [--status S] [--json]
+  bin/wb-work show <id>
+  bin/wb-work claim <id>
+  bin/wb-work complete <id> --result <json-file>
+  bin/wb-work next [--json]
+  bin/wb-work rescore
+  bin/wb-work trail <id> [--json]
+  bin/wb-work validate-result <json-file>
+
+Exit status is 0 on success, 1 on any error (illegal transition, schema
+violation, dedup refusal, empty queue). Standard library only.
+"""
+
+from __future__ import annotations
+
+import argparse
+import copy
+import datetime
+import json
+import os
+import pathlib
+import re
+import sys
+
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+SCHEMA_PATH = ROOT / "schema" / "work.schema.json"
+DEFAULT_QUEUE_DIR = ROOT / "queue"
+
+WORK_TYPES = [
+    "article_reconstruction", "evidence_recruitment", "cross_reference",
+    "contradiction_audit", "sparse_node_expansion", "chronology_audit",
+    "inference_audit", "corpus_discovery",
+]
+PRIORITY_BASES = [
+    "epistemic_delta", "affected_claims", "contradiction_severity",
+    "dependency_impact", "evidence_novelty", "staleness",
+    "downstream_unresolved", "manual",
+]
+STATUSES = ["queued", "active", "completed", "blocked", "converged"]
+TRANSITIONS = {
+    "queued": ["active"],
+    "active": ["completed", "blocked", "converged"],
+    "completed": [],
+    "blocked": [],
+    "converged": [],
+}
+DELTA_FIELDS = [
+    "new_evidence", "changed_claims", "new_relationships",
+    "contradictions_found", "questions_resolved", "questions_created",
+    "affected_articles",
+]
+EPSILON = 2          # total delta magnitude <= 2 counts as low-delta
+CONVERGE_RUNS = 3    # consecutive low-delta runs before a branch converges
+
+
+# ---------------------------------------------------------------------------
+# Minimal JSON Schema checker (subset used by schema/work.schema.json)
+# ---------------------------------------------------------------------------
+
+class SchemaError(Exception):
+    pass
+
+
+class MiniValidator:
+    """Validates against the subset of draft 2020-12 used by work.schema.json:
+    type, enum, required, properties, additionalProperties, pattern, minimum,
+    minLength, items, anyOf, and local $ref. Anything outside the subset is a
+    schema-authoring error, raised loudly rather than silently passed."""
+
+    def __init__(self, schema: dict):
+        self.root = schema
+        self.defs = schema.get("$defs", {})
+
+    def resolve(self, ref: str) -> dict:
+        if not ref.startswith("#/$defs/"):
+            raise SchemaError(f"unsupported $ref (only local #/$defs/* allowed): {ref}")
+        name = ref[len("#/$defs/"):]
+        if name not in self.defs:
+            raise SchemaError(f"unknown $defs name: {name}")
+        return self.defs[name]
+
+    def validate(self, name: str, instance) -> list[str]:
+        return self._check(self.resolve(f"#/$defs/{name}"), instance, "$")
+
+    def _check(self, sch: dict, inst, path: str) -> list[str]:
+        if not isinstance(sch, dict):
+            raise SchemaError(f"schema at {path} is not an object")
+        if "$ref" in sch:
+            sch = self.resolve(sch["$ref"])
+        if "anyOf" in sch:
+            results = [self._check(s, inst, path) for s in sch["anyOf"]]
+            if any(not r for r in results):
+                return []
+            detail = " | ".join(r[0] for r in results if r)
+            return [f"{path}: matches no anyOf branch ({detail})"]
+        errs: list[str] = []
+        if "enum" in sch and inst not in sch["enum"]:
+            errs.append(f"{path}: {inst!r} not in enum {sch['enum']}")
+        t = sch.get("type")
+        if t is not None and not self._type_ok(t, inst):
+            return errs + [f"{path}: expected type {t}, got {type(inst).__name__}"]
+        if t == "object" and isinstance(inst, dict):
+            for req in sch.get("required", []):
+                if req not in inst:
+                    errs.append(f"{path}: required field missing: {req!r}")
+            props = sch.get("properties", {})
+            for k, v in inst.items():
+                if k in props:
+                    errs += self._check(props[k], v, f"{path}.{k}")
+                elif sch.get("additionalProperties") is False:
+                    errs.append(f"{path}: unexpected property {k!r}")
+        if t == "array" and isinstance(inst, list) and "items" in sch:
+            for i, v in enumerate(inst):
+                errs += self._check(sch["items"], v, f"{path}[{i}]")
+        if isinstance(inst, str):
+            if "minLength" in sch and len(inst) < sch["minLength"]:
+                errs.append(f"{path}: shorter than minLength {sch['minLength']}")
+            if "pattern" in sch and not re.search(sch["pattern"], inst):
+                errs.append(f"{path}: does not match pattern {sch['pattern']!r}")
+        if isinstance(inst, (int, float)) and not isinstance(inst, bool):
+            if "minimum" in sch and inst < sch["minimum"]:
+                errs.append(f"{path}: {inst} below minimum {sch['minimum']}")
+        return errs
+
+    @staticmethod
+    def _type_ok(t: str, inst) -> bool:
+        if t == "object":
+            return isinstance(inst, dict)
+        if t == "array":
+            return isinstance(inst, list)
+        if t == "string":
+            return isinstance(inst, str)
+        if t == "integer":
+            return isinstance(inst, int) and not isinstance(inst, bool)
+        if t == "number":
+            return isinstance(inst, (int, float)) and not isinstance(inst, bool)
+        if t == "null":
+            return inst is None
+        raise SchemaError(f"unsupported type in schema: {t}")
+
+
+# ---------------------------------------------------------------------------
+# Store
+# ---------------------------------------------------------------------------
+
+def queue_dir(args) -> pathlib.Path:
+    d = getattr(args, "queue_dir", None) or os.environ.get("WB_QUEUE_DIR")
+    p = pathlib.Path(d) if d else DEFAULT_QUEUE_DIR
+    if not (p / "work.queue.jsonl").exists():
+        sys.stderr.write(f"error: queue not found at {p} (expected work.queue.jsonl)\n")
+        sys.exit(1)
+    return p
+
+
+class Store:
+    def __init__(self, qdir: pathlib.Path, validator: MiniValidator):
+        self.qdir = qdir
+        self.v = validator
+        self.items: list[dict] = []
+        self.by_id: dict[str, dict] = {}
+        self.runs: list[dict] = []
+        self.branches: dict = {}
+        self.load()
+
+    def load(self):
+        qf = self.qdir / "work.queue.jsonl"
+        for ln, line in enumerate(qf.read_text().splitlines(), 1):
+            if not line.strip():
+                continue
+            try:
+                item = json.loads(line)
+            except json.JSONDecodeError as e:
+                sys.stderr.write(f"error: {qf}:{ln}: invalid JSON: {e}\n")
+                sys.exit(1)
+            errs = self.v.validate("work_item", item)
+            if errs:
+                sys.stderr.write(f"error: {qf}:{ln} ({item.get('id', '?')}):\n")
+                for e in errs:
+                    sys.stderr.write(f"  {e}\n")
+                sys.exit(1)
+            self.items.append(item)
+            self.by_id[item["id"]] = item
+        rf = self.qdir / "runs.jsonl"
+        if rf.exists():
+            for ln, line in enumerate(rf.read_text().splitlines(), 1):
+                if line.strip():
+                    self.runs.append(json.loads(line))
+        bf = self.qdir / "branches.json"
+        if bf.exists() and bf.read_text().strip():
+            self.branches = json.loads(bf.read_text())
+
+    def save_queue(self):
+        qf = self.qdir / "work.queue.jsonl"
+        with qf.open("w") as f:
+            for item in self.items:
+                f.write(json.dumps(item, ensure_ascii=False) + "\n")
+
+    def save_branches(self):
+        with (self.qdir / "branches.json").open("w") as f:
+            json.dump(self.branches, f, indent=2, ensure_ascii=False)
+            f.write("\n")
+
+    def append_run(self, record: dict):
+        with (self.qdir / "runs.jsonl").open("a") as f:
+            f.write(json.dumps(record, ensure_ascii=False) + "\n")
+        self.runs.append(record)
+
+    def next_id(self) -> str:
+        nums = [int(m.group(1)) for it in self.items
+                for m in [re.match(r"^work-(\d+)$", it["id"])] if m]
+        return f"work-{(max(nums) + 1) if nums else 1:04d}"
+
+    # -- graph helpers ----------------------------------------------------
+    def children_map(self) -> dict[str, list[str]]:
+        m: dict[str, list[str]] = {}
+        for it in self.items:
+            p = it["provenance"]["parent_work_id"]
+            if p:
+                m.setdefault(p, []).append(it["id"])
+        return m
+
+    def root_of(self, wid: str) -> str:
+        seen = set()
+        cur = wid
+        while True:
+            if cur in seen:
+                sys.stderr.write(f"error: provenance cycle at {cur}\n")
+                sys.exit(1)
+            seen.add(cur)
+            item = self.by_id.get(cur)
+            if item is None:
+                sys.stderr.write(f"error: unknown work id in chain: {cur}\n")
+                sys.exit(1)
+            p = item["provenance"]["parent_work_id"]
+            if not p:
+                return cur
+            cur = p
+
+    def depth_of(self, wid: str) -> int:
+        d, cur = 0, wid
+        while True:
+            p = self.by_id[cur]["provenance"]["parent_work_id"]
+            if not p:
+                return d
+            cur, d = p, d + 1
+
+    def branch_members(self, root: str) -> list[str]:
+        ch = self.children_map()
+        out, stack = [], [root]
+        while stack:
+            cur = stack.pop()
+            out.append(cur)
+            stack.extend(ch.get(cur, []))
+        return out
+
+    def descendants(self, wid: str) -> list[str]:
+        return [m for m in self.branch_members(wid) if m != wid]
+
+    def transition(self, wid: str, to: str, blocked_reason: str | None = None):
+        item = self.by_id.get(wid)
+        if item is None:
+            sys.stderr.write(f"error: unknown work id: {wid}\n")
+            sys.exit(1)
+        frm = item["status"]
+        if to not in TRANSITIONS.get(frm, []):
+            sys.stderr.write(
+                f"error: illegal transition {frm} -> {to} for {wid} "
+                f"(allowed: {TRANSITIONS.get(frm, []) or 'none — terminal'})\n")
+            sys.exit(1)
+        item["status"] = to
+        if to == "blocked":
+            item["blocked_reason"] = blocked_reason or "no reason given"
+
+
+def now_iso() -> str:
+    return datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
+
+
+def delta_magnitude(delta: dict) -> int:
+    return sum(int(delta.get(f, 0)) for f in DELTA_FIELDS)
+
+
+# ---------------------------------------------------------------------------
+# Scoring — orchestrator-owned. The worker never supplies a score.
+# ---------------------------------------------------------------------------
+#
+# score = 2.0 * branch_delta
+#       + 1.5 * affected_claims
+#       + 3.0 * contradiction_severity
+#       + 1.0 * dependency_impact
+#       + 2.0 * evidence_novelty
+#       + 0.5 * staleness_days
+#       + 1.0 * downstream_unresolved
+#
+# Every term is an observable: past run deltas, declared dependencies,
+# provenance edges, timestamps. priority_basis is a categorization hint and
+# does NOT enter the formula. See RESEARCH-ENGINE-SPEC.md.
+
+W_BRANCH_DELTA = 2.0
+W_AFFECTED_CLAIMS = 1.5
+W_CONTRADICTION = 3.0
+W_DEPENDENCY_IMPACT = 1.0
+W_EVIDENCE_NOVELTY = 2.0
+W_STALENESS = 0.5
+W_DOWNSTREAM = 1.0
+
+
+def compute_score(store: Store, item: dict) -> tuple[float, dict]:
+    root = store.root_of(item["id"])
+    branch_ids = set(store.branch_members(root))
+    runs_by_work: dict[str, list[dict]] = {}
+    for r in store.runs:
+        runs_by_work.setdefault(r["work_id"], []).append(r)
+
+    # branch_delta: total epistemic magnitude ever recorded in this branch
+    branch_delta = sum(
+        delta_magnitude(r["delta"]) for r in store.runs
+        if r["work_id"] in branch_ids)
+
+    # target-scoped observables: runs against the same target anywhere
+    target_runs = [r for r in store.runs
+                   if store.by_id.get(r["work_id"], {}).get("target") == item["target"]]
+    affected_claims = sum(r["delta"].get("changed_claims", 0)
+                          + r["delta"].get("contradictions_found", 0)
+                          for r in target_runs)
+    contradiction_severity = sum(r["delta"].get("contradictions_found", 0)
+                                 for r in target_runs)
+    dependency_impact = len(item.get("dependencies", [])) + sum(
+        r["delta"].get("affected_articles", 0) for r in target_runs)
+    evidence_novelty = sum(r["delta"].get("new_evidence", 0) for r in target_runs)
+
+    # staleness: days since creation, only while the item has never run
+    staleness = 0.0
+    if not runs_by_work.get(item["id"]):
+        try:
+            created = datetime.datetime.strptime(
+                item["created_at"], "%Y-%m-%dT%H:%M:%S")
+            staleness = max(0.0, (datetime.datetime.now() - created).total_seconds() / 86400.0)
+        except ValueError:
+            staleness = 0.0
+
+    # downstream_unresolved: queued/active descendants of this item
+    downstream = sum(1 for d in store.descendants(item["id"])
+                     if store.by_id[d]["status"] in ("queued", "active"))
+
+    terms = {
+        "branch_delta": float(branch_delta),
+        "affected_claims": float(affected_claims),
+        "contradiction_severity": float(contradiction_severity),
+        "dependency_impact": float(dependency_impact),
+        "evidence_novelty": float(evidence_novelty),
+        "staleness_days": round(staleness, 2),
+        "downstream_unresolved": float(downstream),
+    }
+    score = (W_BRANCH_DELTA * terms["branch_delta"]
+             + W_AFFECTED_CLAIMS * terms["affected_claims"]
+             + W_CONTRADICTION * terms["contradiction_severity"]
+             + W_DEPENDENCY_IMPACT * terms["dependency_impact"]
+             + W_EVIDENCE_NOVELTY * terms["evidence_novelty"]
+             + W_STALENESS * terms["staleness_days"]
+             + W_DOWNSTREAM * terms["downstream_unresolved"])
+    return round(score, 2), terms
+
+
+# ---------------------------------------------------------------------------
+# Commands
+# ---------------------------------------------------------------------------
+
+def cmd_new(store: Store, a: argparse.Namespace):
+    dup = next((it for it in store.items
+                if it["type"] == a.type and it["target"] == a.target
+                and it["status"] in ("queued", "active")), None)
+    if dup and not a.allow_duplicate:
+        sys.stderr.write(
+            f"error: dedup refusal — {dup['id']} already {dup['status']} "
+            f"with (type={a.type}, target={a.target!r}). "
+            f"Re-run with --allow-duplicate --duplicate-reason ... to override.\n")
+        sys.exit(1)
+    depends = [d.strip() for d in (a.depends_on or "").split(",") if d.strip()]
+    for d in depends:
+        if d not in store.by_id:
+            sys.stderr.write(f"error: unknown dependency work id: {d}\n")
+            sys.exit(1)
+    wid = store.next_id()
+    item = {
+        "id": wid,
+        "type": a.type,
+        "target": a.target,
+        "reason": a.reason,
+        "priority_basis": a.priority_basis,
+        "created_by": a.created_by,
+        "created_at": now_iso(),
+        "dependencies": depends,
+        "budget": {"max_runs": a.budget_runs, "max_depth": a.budget_depth},
+        "provenance": {"origin": a.origin, "parent_work_id": None, "run_id": None},
+        "status": "queued",
+    }
+    if a.allow_duplicate:
+        item["provenance"]["duplicate_of"] = dup["id"] if dup else None
+        item["provenance"]["duplicate_reason"] = a.duplicate_reason or ""
+    errs = store.v.validate("work_item", item)
+    if errs:
+        sys.stderr.write("error: constructed item fails schema:\n")
+        for e in errs:
+            sys.stderr.write(f"  {e}\n")
+        sys.exit(1)
+    store.items.append(item)
+    store.by_id[wid] = item
+    store.save_queue()
+    score, _ = compute_score(store, item)
+    print(json.dumps({"id": wid, "status": "queued", "score": score}, indent=2))
+
+
+def cmd_list(store: Store, a: argparse.Namespace):
+    items = [it for it in store.items if not a.status or it["status"] == a.status]
+    if a.json:
+        print(json.dumps(items, indent=2, ensure_ascii=False))
+        return
+    for it in items:
+        score, _ = compute_score(store, it)
+        print(f"{it['id']}  [{it['status']:9s}] score={score:7.2f} "
+              f"{it['type']:22s} {it['target']}")
+
+
+def cmd_show(store: Store, a: argparse.Namespace):
+    item = store.by_id.get(a.id)
+    if item is None:
+        sys.stderr.write(f"error: unknown work id: {a.id}\n")
+        sys.exit(1)
+    out = copy.deepcopy(item)
+    score, terms = compute_score(store, out)
+    out["score"] = score
+    out["score_terms"] = terms
+    out["depth"] = store.depth_of(a.id)
+    out["branch_root"] = store.root_of(a.id)
+    print(json.dumps(out, indent=2, ensure_ascii=False))
+
+
+def cmd_claim(store: Store, a: argparse.Namespace):
+    store.transition(a.id, "active")
+    store.save_queue()
+    print(json.dumps({"id": a.id, "status": "active"}))
+
+
+def cmd_next(store: Store, a: argparse.Namespace):
+    queued = [it for it in store.items if it["status"] == "queued"]
+    if not queued:
+        sys.stderr.write("empty: no queued work\n")
+        if a.json:
+            print(json.dumps({"selected": None}))
+        sys.exit(1)
+    scored = [(compute_score(store, it)[0], it) for it in queued]
+    scored.sort(key=lambda t: (-t[0], t[1]["id"]))
+    best_score, best = scored[0]
+    pkg = copy.deepcopy(best)
+    pkg["score"] = best_score
+    if a.json or True:
+        print(json.dumps(pkg, indent=2, ensure_ascii=False))
+
+
+def cmd_rescore(store: Store, a: argparse.Namespace):
+    for it in store.items:
+        if it["status"] == "queued":
+            score, _ = compute_score(store, it)
+            it["score"] = score
+    store.save_queue()
+    rows = []
+    for it in store.items:
+        if it["status"] == "queued":
+            rows.append((it["score"], it["id"], it["type"], it["target"]))
+    rows.sort(reverse=True)
+    for score, wid, typ, target in rows:
+        print(f"{wid}  score={score:7.2f}  {typ:22s} {target}")
+
+
+def trail_data(store: Store, wid: str) -> dict:
+    if wid not in store.by_id:
+        sys.stderr.write(f"error: unknown work id: {wid}\n")
+        sys.exit(1)
+    ancestors, cur = [], wid
+    while True:
+        p = store.by_id[cur]["provenance"]["parent_work_id"]
+        if not p:
+            break
+        ancestors.append(p)
+        cur = p
+    ancestors.reverse()
+    ch = store.children_map()
+    descendants: list[str] = []
+    stack = list(ch.get(wid, []))
+    while stack:
+        cur = stack.pop(0)
+        descendants.append(cur)
+        stack.extend(ch.get(cur, []))
+    causes: dict[str, list[dict]] = {}
+    for r in store.runs:
+        if r["work_id"] in ([wid] + ancestors + descendants) and r.get("causes"):
+            causes[r["work_id"]] = r["causes"]
+    runs = [r for r in store.runs if r["work_id"] in ([wid] + ancestors + descendants)]
+    return {"id": wid, "ancestors": ancestors, "descendants": descendants,
+            "causes": causes, "runs": runs,
+            "items": {i: store.by_id[i] for i in [wid] + ancestors + descendants}}
+
+
+def cmd_trail(store: Store, a: argparse.Namespace):
+    t = trail_data(store, a.id)
+    if a.json:
+        print(json.dumps(t, indent=2, ensure_ascii=False))
+        return
+    items = t["items"]
+
+    def label(wid: str) -> str:
+        it = items[wid]
+        return f"{wid} [{it['status']}] {it['type']} -> {it['target']}"
+
+    print(f"trail for {a.id}  (branch root: {store.root_of(a.id)})")
+    for anc in t["ancestors"]:
+        print(f"  ancestor: {label(anc)}")
+    # cause edges: run -> child
+    edge_cause: dict[tuple[str, str], str] = {}
+    for r in t["runs"]:
+        for c in r.get("causes", []):
+            edge_cause[(r["work_id"], c["to"])] = c["cause"]
+    print(f"  self:     {label(a.id)}")
+    for d in t["descendants"]:
+        p = items[d]["provenance"]["parent_work_id"]
+        cause = edge_cause.get((p, d), "?")
+        print(f"  child [{cause:12s}]: {label(d)}  (parent {p})")
+
+
+def cmd_validate_result(store: Store, a: argparse.Namespace):
+    try:
+        with open(a.file) as f:
+            result = json.load(f)
+    except (OSError, json.JSONDecodeError) as e:
+        sys.stderr.write(f"error: cannot read result file: {e}\n")
+        sys.exit(1)
+    errs = store.v.validate("run_result", result)
+    if errs:
+        sys.stderr.write(f"result INVALID ({len(errs)} errors):\n")
+        for e in errs:
+            sys.stderr.write(f"  {e}\n")
+        sys.stderr.write("note: prose-only reflection is not a completion — "
+                         "every required structured field must be present.\n")
+        sys.exit(1)
+    print("result OK: all required structured fields present")
+
+
+# ---------------------------------------------------------------------------
+# Ingest: complete <id> --result <file>
+# ---------------------------------------------------------------------------
+
+def cause_label(spawn_type: str, delta: dict) -> str:
+    if spawn_type == "contradiction_audit":
+        return "contradiction"
+    if int(delta.get("changed_claims", 0)) > 0:
+        return "changed"
+    if int(delta.get("new_evidence", 0)) > 0:
+        return "discovered"
+    return "propagated"
+
+
+def ingest_spawns(store: Store, parent: dict, result: dict) -> dict:
+    """Turn result['spawned_work'] into queued work items, bounded.
+
+    Bounds enforced per spawn:
+      - branch budget: branch item count >= max_runs  -> blocked with reason
+      - depth:        parent depth + 1 > max_depth     -> blocked with reason
+      - branch dedup: (type,target) already in branch -> skipped, reported
+    Returns an ingest report dict."""
+    report = {"created": [], "blocked": [], "skipped_dedup": [], "warnings": []}
+    pid = parent["id"]
+    root = store.root_of(pid)
+    parent_depth = store.depth_of(pid)
+    branch_ids = set(store.branch_members(root))
+    branch_pairs = {(store.by_id[m]["type"], store.by_id[m]["target"])
+                    for m in branch_ids}
+
+    for sp in result.get("spawned_work", []):
+        errs = store.v.validate("spawned_work", sp)
+        if errs:
+            report["warnings"].append(
+                f"spawn for target {sp.get('target', '?')!r} failed schema, dropped: "
+                + "; ".join(errs))
+            continue
+        budget = dict(parent["budget"])
+        if sp.get("budget"):
+            budget.update(sp["budget"])
+        new_depth = parent_depth + 1
+
+        def blocked_item(reason: str) -> dict:
+            wid = store.next_id()
+            item = {
+                "id": wid,
+                "type": sp["type"],
+                "target": sp["target"],
+                "reason": sp["reason"],
+                "priority_basis": sp["priority_basis"],
+                "created_by": f"agent-run:{result['run_id']}",
+                "created_at": now_iso(),
+                "dependencies": sp.get("dependencies", []),
+                "budget": budget,
+                "provenance": {"origin": "spawn", "parent_work_id": pid,
+                               "run_id": result["run_id"]},
+                "status": "blocked",
+                "blocked_reason": reason,
+            }
+            store.items.append(item)
+            store.by_id[wid] = item
+            report["blocked"].append({"id": wid, "reason": reason})
+            return item
+
+        # bound: branch budget (count BEFORE adding)
+        if len(branch_ids) >= int(budget.get("max_runs", 10)):
+            blocked_item(
+                f"branch budget exhausted: {len(branch_ids)} items >= "
+                f"max_runs {budget.get('max_runs', 10)} (branch root {root})")
+            continue
+        # bound: depth
+        if new_depth > int(budget.get("max_depth", 3)):
+            blocked_item(
+                f"propagation depth {new_depth} exceeds max_depth "
+                f"{budget.get('max_depth', 3)} (branch root {root})")
+            continue
+        # bound: branch dedup on (type, target)
+        if (sp["type"], sp["target"]) in branch_pairs:
+            report["skipped_dedup"].append(
+                {"type": sp["type"], "target": sp["target"],
+                 "reason": f"(type,target) already present in branch {root}"})
+            continue
+
+        wid = store.next_id()
+        item = {
+            "id": wid,
+            "type": sp["type"],
+            "target": sp["target"],
+            "reason": sp["reason"],
+            "priority_basis": sp["priority_basis"],
+            "created_by": f"agent-run:{result['run_id']}",
+            "created_at": now_iso(),
+            "dependencies": sp.get("dependencies", []),
+            "budget": budget,
+            "provenance": {"origin": "spawn", "parent_work_id": pid,
+                           "run_id": result["run_id"]},
+            "status": "queued",
+        }
+        errs = store.v.validate("work_item", item)
+        if errs:  # cannot happen if the pieces validated; fail loudly if so
+            sys.stderr.write(f"error: internal spawn failed schema for {wid}\n")
+            for e in errs:
+                sys.stderr.write(f"  {e}\n")
+            sys.exit(1)
+        store.items.append(item)
+        store.by_id[wid] = item
+        branch_ids.add(wid)
+        branch_pairs.add((sp["type"], sp["target"]))
+        report["created"].append({
+            "id": wid,
+            "cause": cause_label(sp["type"], result["delta"]),
+            "type": sp["type"],
+            "target": sp["target"],
+        })
+
+    # impact propagation engages ONLY on real knowledge change
+    d = result["delta"]
+    if (int(d.get("changed_claims", 0)) > 0
+            or int(d.get("contradictions_found", 0)) > 0
+            or int(d.get("new_evidence", 0)) > 0):
+        report["impact_propagated"] = True
+    else:
+        report["impact_propagated"] = False
+        report["warnings"].append(
+            "delta is empty (no changed claims, contradictions, or new "
+            "evidence) — impact propagation not engaged; spawns above were "
+            "still ingested as explicit worker judgment.")
+    return report
+
+
+def update_convergence(store: Store, root: str, delta: dict) -> dict:
+    """Per-branch convergence state. Returns the branch record after update."""
+    br = store.branches.get(root, {"consecutive_low_delta": 0,
+                                   "status": "active", "last_run_at": None})
+    mag = delta_magnitude(delta)
+    if (int(delta.get("contradictions_found", 0)) > 0
+            or int(delta.get("new_evidence", 0)) > 0
+            or int(delta.get("changed_claims", 0)) > 0):
+        br["consecutive_low_delta"] = 0  # productive run resets the counter
+    elif mag <= EPSILON:
+        br["consecutive_low_delta"] += 1
+    else:
+        br["consecutive_low_delta"] = 0  # active: delta above epsilon
+    br["last_run_at"] = now_iso()
+    if br["consecutive_low_delta"] >= CONVERGE_RUNS and br["status"] != "converged":
+        br["status"] = "converged"
+    store.branches[root] = br
+    return br
+
+
+def cmd_complete(store: Store, a: argparse.Namespace):
+    item = store.by_id.get(a.id)
+    if item is None:
+        sys.stderr.write(f"error: unknown work id: {a.id}\n")
+        sys.exit(1)
+    if item["status"] != "active":
+        sys.stderr.write(
+            f"error: complete requires status active, {a.id} is {item['status']}\n")
+        sys.exit(1)
+    try:
+        with open(a.result) as f:
+            result = json.load(f)
+    except (OSError, json.JSONDecodeError) as e:
+        sys.stderr.write(f"error: cannot read result file: {e}\n")
+        sys.exit(1)
+    errs = store.v.validate("run_result", result)
+    if errs:
+        sys.stderr.write(f"error: result INVALID ({len(errs)} errors) — "
+                         f"not ingested:\n")
+        for e in errs:
+            sys.stderr.write(f"  {e}\n")
+        sys.stderr.write("note: prose-only reflection is not a completion.\n")
+        sys.exit(1)
+    if result["work_id"] != a.id:
+        sys.stderr.write(
+            f"error: result work_id {result['work_id']!r} != {a.id!r}\n")
+        sys.exit(1)
+    if any(r["run_id"] == result["run_id"] for r in store.runs):
+        sys.stderr.write(f"error: duplicate run_id {result['run_id']!r}\n")
+        sys.exit(1)
+
+    delta = result["delta"]
+    report = ingest_spawns(store, item, result)
+
+    record = {
+        "work_id": a.id,
+        "parent_work_id": item["provenance"]["parent_work_id"],
+        "run_id": result["run_id"],
+        "at": now_iso(),
+        "delta": {f: int(delta.get(f, 0)) for f in DELTA_FIELDS},
+        "changed_claims": result.get("changed_claims", []),
+        "contradictions_found": result.get("contradictions_found", []),
+        "causes": [{"to": c["id"], "cause": c["cause"]}
+                   for c in report["created"]],
+        "impact": {
+            "changed_claims": result.get("changed_claims", []),
+            "affected_article_count": int(delta.get("affected_articles", 0)),
+            "propagated": report["impact_propagated"],
+        },
+    }
+    store.append_run(record)
+
+    root = store.root_of(a.id)
+    br = update_convergence(store, root, delta)
+    final_status = "converged" if br["status"] == "converged" else "completed"
+    store.transition(a.id, final_status)
+    store.save_queue()
+    store.save_branches()
+
+    out = {
+        "id": a.id,
+        "status": final_status,
+        "run_id": result["run_id"],
+        "delta_magnitude": delta_magnitude(delta),
+        "branch": root,
+        "branch_consecutive_low_delta": br["consecutive_low_delta"],
+        "branch_status": br["status"],
+        "ingest": report,
+    }
+    print(json.dumps(out, indent=2, ensure_ascii=False))
+
+
+# ---------------------------------------------------------------------------
+# main
+# ---------------------------------------------------------------------------
+
+def build_parser() -> argparse.ArgumentParser:
+    p = argparse.ArgumentParser(prog="wb-work",
+                                description="Recursive Work Engine v1 — queue CLI")
+    p.add_argument("--queue-dir",
+                   help="queue directory (default: <repo>/queue; or WB_QUEUE_DIR)")
+    sub = p.add_subparsers(dest="cmd", required=True)
+
+    n = sub.add_parser("new", help="create a work item")
+    n.add_argument("--type", required=True, choices=WORK_TYPES)
+    n.add_argument("--target", required=True)
+    n.add_argument("--reason", required=True)
+    n.add_argument("--priority-basis", required=True, choices=PRIORITY_BASES)
+    n.add_argument("--created-by", default="operator")
+    n.add_argument("--budget-runs", type=int, default=10)
+    n.add_argument("--budget-depth", type=int, default=3)
+    n.add_argument("--depends-on", default="",
+                   help="comma-separated work ids")
+    n.add_argument("--origin", default="manual",
+                   choices=["chat", "cron", "spawn", "manual"])
+    n.add_argument("--allow-duplicate", action="store_true")
+    n.add_argument("--duplicate-reason", default="")
+
+    l = sub.add_parser("list", help="list work items")
+    l.add_argument("--status", choices=STATUSES)
+    l.add_argument("--json", action="store_true")
+
+    s = sub.add_parser("show", help="show one work item with score breakdown")
+    s.add_argument("id")
+
+    c = sub.add_parser("claim", help="queued -> active")
+    c.add_argument("id")
+
+    done = sub.add_parser("complete",
+                          help="validate + ingest a run result (active -> completed|converged)")
+    done.add_argument("id")
+    done.add_argument("--result", required=True, help="run_result JSON file")
+
+    nx = sub.add_parser("next", help="highest-score queued item as JSON")
+    nx.add_argument("--json", action="store_true")
+
+    sub.add_parser("rescore", help="recompute and store scores for queued items")
+
+    t = sub.add_parser("trail", help="causal execution trail for an item")
+    t.add_argument("id")
+    t.add_argument("--json", action="store_true")
+
+    vr = sub.add_parser("validate-result", help="validate a run_result file")
+    vr.add_argument("file")
+
+    return p
+
+
+def main() -> None:
+    args = build_parser().parse_args()
+    try:
+        schema = json.loads(SCHEMA_PATH.read_text())
+    except (OSError, json.JSONDecodeError) as e:
+        sys.stderr.write(f"error: cannot load {SCHEMA_PATH}: {e}\n")
+        sys.exit(1)
+    validator = MiniValidator(schema)
+    for name in ("work_item", "spawned_work", "next_frontier", "run_result"):
+        if name not in validator.defs:
+            sys.stderr.write(f"error: schema missing $defs/{name}\n")
+            sys.exit(1)
+    store = Store(queue_dir(args), validator)
+    cmd = args.cmd.replace("-", "_")
+    globals()[f"cmd_{cmd}"](store, args)
+
+
+if __name__ == "__main__":
+    main()

@@ -111,8 +111,8 @@ partner who has been displaced from the primary residence. The lair predates the
 tenancy.
 
 > **RESOLVED [2026-08-28].** A second, independent operator capture
-> (2026-08-27) confirms this five-day figure again, unprompted: *"She spent 5
-> days at Virginia ave and then went to her moms."* [[wiki/people/franki-faris]]
+> (2026-08-27) confirms this five-day figure again, unprompted: *"She spent 5*
+> *days at Virginia ave and then went to her moms."* [[wiki/people/franki-faris]]
 > is corrected accordingly — the five days were never hers. Full account on
 > [[wiki/people/franki-faris]] and [[wiki/people/alexis-armel]], including
 > the fuller sequence this second capture adds (her mother's house, a new

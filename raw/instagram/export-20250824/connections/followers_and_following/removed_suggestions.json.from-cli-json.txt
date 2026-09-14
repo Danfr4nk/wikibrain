@@ -1,0 +1,76 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1623 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "relationships_dismissed_suggested_users": [
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/mcmedvitz520",
+          "timestamp": 1540513051,
+          "value": "mcmedvitz520"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/garrettkopich",
+          "timestamp": 1540513050,
+          "value": "garrettkopich"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/unioncityhxc",
+          "timestamp": 1540513047,
+          "value": "unioncityhxc"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/sirramsey_",
+          "timestamp": 1540513046,
+          "value": "sirramsey_"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/torinewhouse",
+          "timestamp": 1540513044,
+          "value": "torinewhouse"
+        }
+      ],
+      "title": ""
+    },
+    {
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/lukespinuzza",
+          "timestamp": 1540513042,
+          "value": "lukespinuzza"
+        }
+      ],
+      "title": ""
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:22:42.060-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:22:42.060Z"
+  }
+}

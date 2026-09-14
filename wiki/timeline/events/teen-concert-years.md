@@ -141,14 +141,14 @@ open rather than guessed at. The Mayer row is the useful one: three dates are
 individually plausible and the capture notes none of them sits on a Coldplay
 bill, which is how the memory had filed it.
 
-> **CONTRADICTION [2026-08-02] — the self-kept note and the researched list
-> disagree on two shows.** The Facebook "Concerts I've gone to" note dates HIM to
+> **CONTRADICTION [2026-08-02] — the self-kept note and the researched list**
+> **disagree on two shows.** The Facebook "Concerts I've gone to" note dates HIM to
 > **2005-11-09 at Mr. Small's**; the researched list places the Love Metal Tour
 > at **2004-04-21, The Rock Club at Station Square**, with a separate November
 > 2004 return. The note dates Taking Back Sunday / Angels & Airwaves to
-> **2006-07-04 in Columbus**; the researched list gives **2006-06-27 at the
-> Chevrolet Amphitheatre in Pittsburgh** and explicitly flags it as *"corrected
-> from 2007."* Neither source is discarded. The note is contemporaneous
+> **2006-07-04 in Columbus**; the researched list gives **2006-06-27 at the**
+> **Chevrolet Amphitheatre in Pittsburgh** and explicitly flags it as *"corrected*
+> *from 2007."* Neither source is discarded. The note is contemporaneous
 > self-reporting and is residue; the researched list is a later reconstruction
 > with routing evidence behind it and is stronger on dates but is not primary.
 > Both readings are held.

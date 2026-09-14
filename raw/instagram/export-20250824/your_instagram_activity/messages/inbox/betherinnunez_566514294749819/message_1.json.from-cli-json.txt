@@ -1,0 +1,52 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1474 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "m  ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1596312391129
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "original_content_owner": "notsick3"
+      },
+      "timestamp_ms": 1596312390778
+    },
+    {
+      "content": "hope it all went well and iâm super happy for you guys",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1564918943777
+    },
+    {
+      "content": "Hey congratulations! sorry i couldnât make it down, weâre way tight on money and iâm a non drinking buzzkill so iâm glad she got to go and not have to worry about my boringness ð¥³",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1564918914029
+    }
+  ],
+  "participants": [
+    {
+      "name": "BethErin Nunez"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:33:18.113-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:33:18.113Z"
+  },
+  "thread_path": "inbox/betherinnunez_566514294749819",
+  "title": "BethErin Nunez"
+}

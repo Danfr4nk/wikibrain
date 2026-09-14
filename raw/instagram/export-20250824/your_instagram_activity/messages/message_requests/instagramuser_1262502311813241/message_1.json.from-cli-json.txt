@@ -1,0 +1,35 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 751 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Instagram User sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "share": {
+        "link": "https://www.instagram.com/_u/avianoagency.xa",
+        "profile_share_name": "Aviano | IG Growth Experts",
+        "profile_share_username": "avianoagency.xa"
+      },
+      "timestamp_ms": 1692803961365
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:26:57.784-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:26:57.784Z"
+  },
+  "thread_path": "message_requests/instagramuser_1262502311813241",
+  "title": "Instagram User"
+}

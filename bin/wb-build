@@ -625,6 +625,25 @@ rule and a <code>=== NODE:</code> or <code>=== PAGE:</code> line.</p>
         lines.append("")
     (out / "llms.txt").write_text("\n".join(lines))
 
+    # The portal: static tab harness. It reads ONLY built artifacts
+    # (../graph.json, ../feeds/*.json), so it is generated after them.
+    import subprocess as _sp
+    _r = _sp.run([sys.executable, str(ROOT / "bin" / "wb-feeds"),
+                  "--out", str(out)], capture_output=True, text=True)
+    if _r.returncode != 0:
+        print(f"  warn  wb-feeds failed:\n{_r.stderr}", file=sys.stderr)
+    else:
+        for _line in _r.stdout.splitlines():
+            if _line.strip():
+                print(f"  feeds {_line.strip()}")
+    _gallery_src = ROOT / "media" / "registry.json"
+    if _gallery_src.exists():
+        (out / "feeds").mkdir(parents=True, exist_ok=True)
+        shutil.copy2(_gallery_src, out / "feeds" / "gallery.json")
+        print("  feeds gallery.json      (media/registry.json)")
+    shutil.copytree(ROOT / "portal", out / "portal", dirs_exist_ok=True)
+    print(f"  portal -> {out / 'portal'}")
+
     print(f"built {len(public)} pages into {out}"
           + (f" ({withheld} sensitive node(s) withheld)" if withheld else ""))
     return 0

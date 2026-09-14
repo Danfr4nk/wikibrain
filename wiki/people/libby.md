@@ -75,9 +75,9 @@ Annie's documented collapse begins.
 > **GAP CLOSED [2026-08-23].** The first version of this page carried the
 > identification as **inferred**, on two supports: Dan's own contemporaneous
 > Tumblr link (`girlfriend-muse-libby-titus-elizabeth-jurist`, sent 2024-03-17,
-> six hours after Annie's *"Did you know Libby was in a movie with Jack
-> Nicholson"*), and a household **Donald** who claimed to be *"the first person to
-> ever use the term 'gaslighting' in a song"* — Steely Dan's *Gaslighting Abbie* —
+> six hours after Annie's *"Did you know Libby was in a movie with Jack*
+> *Nicholson"*), and a household **Donald** who claimed to be *"the first person to*
+> *ever use the term 'gaslighting' in a song"* — Steely Dan's *Gaslighting Abbie* —
 > at which *"Libby screamed 'YEAH ABOUT ME YOU ASSHOLE!'"* (2024-05-28).
 >
 > **Operator testimony of 2026-08-23 confirms it**, and adds the outcome: she is
@@ -92,8 +92,8 @@ Annie's documented collapse begins.
 > in the corpus in plain text.
 >
 > The failure mode is the one `LLM_HANDOFF.md` already documents from the ENTP-T
-> pass, and it has now happened twice: **a check scoped by the claim it is testing
-> cannot disconfirm it.** The search was for `Titus`, because `Titus` was the
+> pass, and it has now happened twice: **a check scoped by the claim it is testing**
+> **cannot disconfirm it.** The search was for `Titus`, because `Titus` was the
 > hypothesis. The corpus says `Fagen`.
 
 **The corpus also holds the death independently.** Dan writes ***"Libby died"***
@@ -144,18 +144,18 @@ Through August 2024 Annie was owed money, was **asked to sign an NDA**, and hear
 nothing. **Dan drafted three escalating demand letters for her**, all of them
 sent from his handle into the thread for her to use:
 
-> **2024-08-01** — *"Dear x I'm reaching out to inform you of the unpaid wages
-> which I have been unable to receive and request a date that I can be
-> compensated. The total amount is x (y hours at **$75/hour**)…"*
+> **2024-08-01** — *"Dear x I'm reaching out to inform you of the unpaid wages*
+> *which I have been unable to receive and request a date that I can be*
+> *compensated. The total amount is x (y hours at **$75/hour**)…"*
 >
-> **2024-08-13, 00:18** — *"…I wanted to follow up with you about the unpaid wages
-> that I had previously reached out to you about on (date of last email) as I had
-> not received any response."*
+> **2024-08-13, 00:18** — *"…I wanted to follow up with you about the unpaid wages*
+> *that I had previously reached out to you about on (date of last email) as I had*
+> *not received any response."*
 >
 > **2024-08-13, 01:00** — ***"Final Request for Payment of Unpaid Wages"***, with
-> *"I would like to resolve this issue without any additional complications and am
-> not interested in seeking further remedy from **Mr or Mrs Fagen**. Subsequently
-> I have even agreed to sign…"*
+> *"I would like to resolve this issue without any additional complications and am*
+> *not interested in seeking further remedy from **Mr or Mrs Fagen**. Subsequently*
+> *I have even agreed to sign…"*
 
 Annie's own position on the NDA is stated once and it is a trade: *"As you know I
 was asked to sign an NDA. which I have not heard anything about. And also put at
@@ -173,8 +173,8 @@ Libby"* (2024-08-01) — [[wiki/people/john-paci|John]] being the landlord at
 died on 13 October. On the evidence available the dispute was open when she died,
 and this page will not assume otherwise in either direction.
 
-> **This is the corpus's clearest instance of the forensic register turned
-> outward on somebody else's behalf.** Dated correspondence, an itemised
+> **This is the corpus's clearest instance of the forensic register turned**
+> **outward on somebody else's behalf.** Dated correspondence, an itemised
 > hours-times-rate total, an explicit statement of what remedy is *not* being
 > sought, a final-notice escalation on a fixed interval — it is the same
 > instrument [[wiki/mind/concepts/forensic-method]] describes him turning on his
@@ -183,8 +183,8 @@ and this page will not assume otherwise in either direction.
 > Whether it worked is unknown. That he wrote it is not.
 
 > **CONTRADICTION: the rate does not reconcile.** The demand letters state
-> **$75/hour**, set by Libby. But on 2024-05-17 Annie writes *"I was literally
-> with Libby for just over 3 hours today.. she paid me 500"* — roughly $167/hour —
+> **$75/hour**, set by Libby. But on 2024-05-17 Annie writes *"I was literally*
+> *with Libby for just over 3 hours today.. she paid me 500"* — roughly $167/hour —
 > and a week later invites Dan to guess the figure for four hours. Both are
 > first-hand and neither is retracted. Possible readings: the rate was raised or
 > lowered between May and August; the $500 included back pay or a gift; or the

@@ -74,14 +74,14 @@ connections:
 > **RE-CHECKED [2026-08-28]:** flagged stale against
 > [[wiki/mind/synthesis/dormancy-not-exit]] (2026-08-28), which resolved a
 > standing contradiction over whether a five-day tenure figure belonged to
-> Franki Faris or to Alexis Armel's 2013 displacement — a Uniontown-era,
+> [[wiki/people/franki-faris|Franki Faris]] or to Alexis Armel's 2013 displacement — a Uniontown-era,
 > pre-Annie correction touching neither the June 1 severance, the July–August
-> reentanglement, nor the August 2026 rupture this page reasons about. **No
-> claim on this page is affected.**
+> reentanglement, nor the August 2026 rupture this page reasons about. **No**
+> **claim on this page is affected.**
 
 > **RE-CHECKED [2026-08-27]:** flagged stale against
 > [[wiki/people/ally-lubin-cognitive-profile]] (2026-08-27), which closed its
-> attribution gap: the operator confirms the 16Personalities result is Ally
+> attribution gap: the operator confirms the 16Personalities result is [[wiki/people/ally-lubin|Ally]]
 > Lubin's and that it is recent. **No claim on this page changes**, and it is
 > worth being precise about why the confirmation does not strengthen the
 > argument either. This page reasons from that page's *parity finding* — that
@@ -94,8 +94,8 @@ connections:
 
 > **RE-CHECKED [2026-08-26]:** flagged stale against
 > [[wiki/people/ally-lubin-cognitive-profile]] (2026-08-26), which added only a
-> re-check note confirming its own parity finding unchanged. **No claim on this
-> page is affected** — the money/volume/superlatives/surveillance failure
+> re-check note confirming its own parity finding unchanged. **No claim on this**
+> **page is affected** — the money/volume/superlatives/surveillance failure
 > pattern this page cites is untouched.
 
 Two separate claims sit inside the question this page was asked to answer, and
@@ -112,7 +112,7 @@ remaining option.
 
 The two findings are not in tension. What makes this rupture different is
 **endogenous** — it consists of things Dan did, things the structure did, and
-one thing Annie put in writing. The differential is real precisely because
+one thing [[wiki/people/annie-ulmer|Annie]] put in writing. The differential is real precisely because
 nobody outside supplied it. That is the finding, and it is more useful than
 either of the two claims taken alone.
 
@@ -297,7 +297,7 @@ judgement call.
 
 Searching Dan-sent severance language — blocking declarations, *goodbye*, *I'm
 done / we're done / it's over*, *never contact me again*, *lose my number* —
-across the **95,067-row merged Annie corpus** (2015-11-28 → 2026-05-28) returns
+across the **95,067-row merged [[wiki/people/annie-ulmer|Annie]] corpus** (2015-11-28 → 2026-05-28) returns
 **258 messages, collapsing to 129 distinct episodes** when hits within 24 hours
 are treated as one declaration.
 
@@ -343,7 +343,7 @@ unprecedented too, by more than an order of magnitude, and an email about a dog
 ended it.
 
 **And it is simultaneously the strongest argument for taking August 19
-seriously.** The August severance has already outlasted 128 of 129 historical
+seriously.** [[wiki/timeline/events/august-2026-morgantown-call|The August severance]] has already outlasted 128 of 129 historical
 episodes. It passed the all-time pre-2026 maximum of 46 hours at roughly
 13:00 on August 21. Whatever else is true, it is no longer drawn from the same
 distribution as the behaviour that produced it.
@@ -351,8 +351,8 @@ distribution as the behaviour that produced it.
 > **The blind spot, stated precisely because Part I depends on it.** The export
 > this page reasons from (`imessage_export_2124702449_20260820.csv`, 6,495 rows)
 > was taken on **2026-08-20** and its last row is **2026-08-19 15:15:33** — the
-> final message of the severance. **There is therefore no data at all for
-> August 20, 21 or 22.** This page's claim that the silence holds is an
+> final message of the severance. **There is therefore no data at all for**
+> **August 20, 21 or 22.** This page's claim that the silence holds is an
 > inference from the absence of a newer export, not an observation. One fresh
 > export settles it, and until one exists every forward statement here should be
 > read with that gap in it.
@@ -465,7 +465,7 @@ page.
 So "somebody comes and gets me out of this" is not an untried intervention. It
 is the single most instantiated move in Dan's romantic record, it has a sample
 size of one completed instance, and that instance's cost is the entire
-biography of the last decade. A system with a Gini of 0.9601 and no failover
+biography of the last decade. A system with a Gini of 0.9601 and [[wiki/mind/synthesis/single-channel|no failover]]
 does not distribute its load when the primary node fails. It **relocates the
 whole of it onto whichever node is nearest**, which is exactly what the
 August 18–19 concurrency shows already beginning.
@@ -515,7 +515,7 @@ the severance is three days old.
 
 | # | Prediction | Settles by | Falsifier |
 |---|---|---|---|
-| P1 | If contact resumes, it resumes through a channel **other than** pet news or "something made me think of you" — the two Dan explicitly pre-closed on August 19 | first resumption | resumption through Milo or a thinking-of-you message |
+| P1 | If contact resumes, it resumes through a channel **other than** pet news or "something made me think of you" — the two Dan explicitly pre-closed on August 19 | first resumption | resumption through [[wiki/people/milo|Milo]] or a thinking-of-you message |
 | P2 | If contact resumes, **procurement is the vector or the pretext** inside the first ten messages | first resumption | a resumption with no supply content in the opening exchange |
 | P3 | The Ally channel and the Annie channel are **substitutes, not independents**: Ally volume falls as Annie volume rises and vice versa | 60 days of both exports | a period of sustained simultaneous growth or decline in both |
 | P4 | **No third party ends this relationship.** Any severance that holds past 120 days will be traceable to a self-generated move, not an intervention | 2026-12-19 | a documented outside intervention followed by a severance holding >120 days |
@@ -547,7 +547,7 @@ place, with the prediction left visible, per STYLE_GUIDE rule 9.
 5. **Housing.** 337 Saratoga has sold and the 463 Morgantown landing is
    unresolved ([[wiki/legal/463-morgantown]]).
    [[wiki/mind/concepts/attachment-model]] records an AI session's read that
-   the anxiety loop has little independent existence and is almost entirely
+   [[wiki/mind/concepts/social-anxiety|the anxiety loop]] has little independent existence and is almost entirely
    parasitized by two situations — Annie and the post-closure housing void. One
    of those two is now moving. The other is not, and no page models what
    happens when the remaining one carries the whole load.

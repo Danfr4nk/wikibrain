@@ -1,0 +1,235 @@
+#!/usr/bin/env python3
+"""Build the portal's JSON feeds from the repo's own sources.
+
+Produces, under OUT/feeds/ (default site/feeds/):
+
+  words.json          token frequencies over kb/ node titles, bodies and tags —
+                      NOT the message corpus (the corpus is gitignored and
+                      unavailable at build time)
+  transcript.json     build-log entries parsed from raw/*/EXTRACT.md
+  transmissions.json  the 40 most recent kb/data findings, newest first
+
+Missing raw/ dirs or an empty kb/ degrade gracefully — they must never crash
+the run. Standard library only.
+
+Usage:
+  bin/wb-feeds              write feeds into site/feeds/
+  bin/wb-feeds --out DIR    write feeds into DIR/feeds/
+"""
+
+from __future__ import annotations
+
+import argparse
+import datetime as dt
+import json
+import math
+import pathlib
+import re
+import sys
+import tomllib
+
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+KB = ROOT / "kb"
+RAW = ROOT / "raw"
+
+FRONTMATTER = re.compile(r"\A\+\+\+\s*\n(.*?)\n\+\+\+\s*\n?(.*)\Z", re.S)
+
+SOURCE_NOTE = (
+    "token frequencies over kb/ node titles, bodies and tags — "
+    "NOT the message corpus (corpus is gitignored and unavailable at build time)"
+)
+
+# Small, plain stopword list. Corpus-independent; the honest thing here is
+# that this is a build-time vocabulary census, not a stylistic fingerprint.
+STOPWORDS = frozenset("""
+a about above after again against all am an and any are as at be because been
+before being below between both but by can cannot could did do does doing down
+during each few for from further had has have having he her here hers herself
+him himself his how i if in into is it its itself me more most my myself no nor
+not of off on once only or other ought our ours ourselves out over own same she
+should so some such than that the their theirs them themselves then there these
+they this those through to too under until up very was we were what when where
+which while who whom why with would you your yours yourself yourselves
+""".split())
+
+TOKEN = re.compile(r"[a-z0-9]+(?:'[a-z]+)?")
+DATE_RE = re.compile(r"(\d{4})(\d{2})(\d{2})[-_.]?(\d{2})(\d{2})")
+
+
+def now_utc() -> str:
+    return dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat()
+
+
+def load_node(path: pathlib.Path) -> dict | None:
+    """Parse a kb node: returns dict with fm (frontmatter) and body, or None."""
+    try:
+        text = path.read_text(encoding="utf-8", errors="replace")
+    except OSError:
+        return None
+    m = FRONTMATTER.match(text)
+    if not m:
+        return None
+    try:
+        fm = tomllib.loads(m.group(1))
+    except tomllib.TOMLDecodeError:
+        return None
+    if not isinstance(fm, dict):
+        return None
+    return {"fm": fm, "body": m.group(2).strip()}
+
+
+def all_nodes() -> list[dict]:
+    nodes = []
+    if not KB.is_dir():
+        return nodes
+    for path in sorted(KB.rglob("*.md")):
+        if path.name == "README.md":
+            continue
+        node = load_node(path)
+        if node is not None:
+            node["path"] = path
+            nodes.append(node)
+    return nodes
+
+
+def build_words(out_dir: pathlib.Path, nodes: list[dict]) -> None:
+    counts: dict[str, int] = {}
+    tag_counts: dict[str, int] = {}
+    total = 0
+    for node in nodes:
+        fm = node["fm"]
+        text = " ".join([
+            str(fm.get("title", "")),
+            str(fm.get("claim", "")),
+            node["body"],
+        ]).lower()
+        for tok in TOKEN.findall(text):
+            tok = tok.strip("'")
+            if not tok or tok in STOPWORDS or tok.isdigit():
+                continue
+            counts[tok] = counts.get(tok, 0) + 1
+            total += 1
+        tags = fm.get("tags", [])
+        if isinstance(tags, str):
+            tags = [tags]
+        for t in tags:
+            t = str(t).strip().lower()
+            if t:
+                tag_counts[t] = tag_counts.get(t, 0) + 1
+    top = sorted(counts.items(), key=lambda kv: (-kv[1], kv[0]))[:200]
+    top_tags = sorted(tag_counts.items(), key=lambda kv: (-kv[1], kv[0]))[:60]
+    feed = {
+        "generated": now_utc(),
+        "source_note": SOURCE_NOTE,
+        "total_tokens": total,
+        "unique_tokens": len(counts),
+        "top": [{"w": w, "n": n} for w, n in top],
+        "top_tags": [{"t": t, "n": n} for t, n in top_tags],
+    }
+    (out_dir / "words.json").write_text(json.dumps(feed, indent=2), encoding="utf-8")
+
+
+def extract_summary(text: str) -> str:
+    """First substantive non-heading line, capped at 220 chars."""
+    for line in text.splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        if line.startswith("#"):
+            continue
+        if re.match(r"^\|", line) and line.count("|") >= 2:
+            continue  # markdown table row
+        # strip bold markers for readability; keep it honest, not pretty
+        line = re.sub(r"\*\*(.*?)\*\*", r"\1", line)
+        return line[:220]
+    return ""
+
+
+def build_transcript(out_dir: pathlib.Path) -> list[dict]:
+    batches = []
+    if RAW.is_dir():
+        for extract in sorted(RAW.glob("*/EXTRACT.md")):
+            batch = extract.parent.name
+            text = extract.read_text(encoding="utf-8", errors="replace")
+            m = DATE_RE.search(batch)
+            date = None
+            if m:
+                try:
+                    date = dt.datetime(
+                        int(m.group(1)), int(m.group(2)), int(m.group(3)),
+                        int(m.group(4)), int(m.group(5)),
+                        tzinfo=dt.timezone.utc,
+                    ).isoformat()
+                except ValueError:
+                    date = None
+            batches.append({
+                "batch": batch,
+                "date": date,
+                "summary": extract_summary(text),
+            })
+    # newest-first by date; undated entries trail in name order
+    dated = sorted([b for b in batches if b["date"]], key=lambda b: b["date"], reverse=True)
+    undated = sorted([b for b in batches if not b["date"]], key=lambda b: b["batch"])
+    batches = dated + undated
+    feed = {"generated": now_utc(), "batches": batches}
+    (out_dir / "transcript.json").write_text(json.dumps(feed, indent=2), encoding="utf-8")
+    return batches
+
+
+def build_transmissions(out_dir: pathlib.Path, nodes: list[dict]) -> int:
+    data_dir = KB / "data"
+    items = []
+    for path in sorted(data_dir.glob("*.md")) if data_dir.is_dir() else []:
+        node = load_node(path)
+        if node is None:
+            continue
+        fm = node["fm"]
+        node_id = str(fm.get("id", path.stem))
+        created = fm.get("created")
+        if not isinstance(created, str):
+            try:
+                created = dt.datetime.fromtimestamp(
+                    path.stat().st_mtime, tz=dt.timezone.utc
+                ).strftime("%Y-%m-%d")
+            except OSError:
+                created = ""
+        excerpt = re.sub(r"\s+", " ", node["body"])[:300]
+        items.append({
+            "id": node_id,
+            "title": str(fm.get("title", path.stem)),
+            "confidence": str(fm.get("confidence", "?")),
+            "importance": fm.get("importance"),
+            "created": created,
+            "excerpt": excerpt,
+            "node_path": "../node/" + node_id.replace(":", "-") + ".html",
+        })
+    items.sort(key=lambda i: (i["created"] or "", i["id"]), reverse=True)
+    items = items[:40]
+    feed = {"generated": now_utc(), "items": items}
+    (out_dir / "transmissions.json").write_text(json.dumps(feed, indent=2), encoding="utf-8")
+    return len(items)
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser(description="Build portal JSON feeds.")
+    ap.add_argument("--out", default="site",
+                    help="output root; feeds go in <DIR>/feeds/ (default: site/)")
+    args = ap.parse_args()
+
+    out_dir = pathlib.Path(args.out) / "feeds"
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    nodes = all_nodes()
+    build_words(out_dir, nodes)
+    n_batches = len(build_transcript(out_dir))
+    n_items = build_transmissions(out_dir, nodes)
+
+    print(f"wb-feeds: {len(nodes)} nodes -> {out_dir}")
+    print(f"  words.json         (nodes: {len(nodes)})")
+    print(f"  transcript.json    ({n_batches} batches)")
+    print(f"  transmissions.json ({n_items} items)")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

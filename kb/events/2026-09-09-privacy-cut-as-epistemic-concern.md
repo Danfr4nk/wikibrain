@@ -3,7 +3,7 @@ id         = "evt:2026-09-09-privacy-cut-as-epistemic-concern"
 layer      = 2
 type       = "event"
 title      = "Privacy is cut as an epistemic concern; retrieval stops filtering"
-cites      = ["src:conceptual-spec-2026-content-layer"]
+cites      = ["src:conceptual-spec-2026-content-layer", "dat:0251-bill-ulmer-thread", "dat:0412-jerel-coles-page-patch-state"]
 confidence = "high"
 importance = 4
 created    = "2026-09-09"
@@ -68,3 +68,31 @@ and would not make the system aware of a single additional fact.
 That is the category the instruction preserved — an accidental-publication
 control, not an ingestion filter. It is flagged here rather than assumed, so
 overruling it is a decision someone makes on purpose.
+
+## The ingest tested the machinery
+
+The September ingest is where the retrieval/output distinction met real
+third-party data, and the machinery held — with one live finding:
+
+- **The export redacts less than the corpus.** `raw/old-wiki-export-2026-09-04/whole.txt`
+  carries third-party phone handles **unredacted** — verified for Bill
+  Ulmer, Brad Hubeaut, Brennan Meadows, Bruce Burish and the
+  Morgantown-call page — where the corpus snapshot redacts them as
+  `[phone redacted]`. Workers followed the corpus convention: no numbers
+  were reproduced, and anything built directly from `whole.txt` must be
+  redacted before publish
+  ([`dat:0251`](../data/0251-bill-ulmer-thread.md)). The reverse leak
+  also exists: the corpus snapshot prints katherine-palakovich's phone
+  handle unmasked in an infobox; the node treats it as `[phone
+  redacted]`. The convention is held on both sides.
+- **The split is deliberate and stays.** The operator's own material is
+  public per his standing instruction; the 498 other people's private
+  data stays gated. `wb-check-publish` is the gate, and it must pass with
+  zero new exposures — the ingest's redaction discipline is what makes
+  that check meaningful rather than ceremonial.
+- **The Coles patch inherits the rule.** The validation report's §441
+  patch order explicitly requires that the Jerel Coles page patch must
+  not reproduce his home address, phone numbers, or email
+  ([`dat:0412`](../data/0412-jerel-coles-page-patch-state.md)).
+  The epistemic concern and the output control coincide here: the patch
+  has to be accurate *and* gated.

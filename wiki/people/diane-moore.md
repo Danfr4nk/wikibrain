@@ -6,7 +6,7 @@ aliases: ["Diane", "Dian", "Dian V. Moore", "Diane Moore", "Rebecca Diane Van Vo
 status: stable
 knowledge: mixed
 date_created: 2026-08-02
-date_modified: 2026-08-18
+date_modified: 2026-09-13
 sources:
   - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md
   - raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md
@@ -47,14 +47,14 @@ connections:
   - page: wiki/mind/synthesis/vertical-authority-skepticism
     type: evidences
     claim: "The exclusion instrument is the family-scale instance of the template: authority exercised through paperwork and a trespassing clause by people who — on Dan's account and Vicki's — did not visit Fran once."
+  - { target: "[[wiki/people/vanessa-frank]]", type: references, claim: "Vanessa is Dan's sister — Diane's granddaughter through Suzanne; the two pages hold opposite generational poles of the same maternal line." }
 ---
 
 # Diane Moore (Rebecca Diane Van Voorhis)
 
 Diane is Dan's maternal grandmother, [[wiki/people/suzanne-frank|Suz's]]
-mother, and the only documented child of [[wiki/people/fran-coldren|Fran
-Coldren]]. She appears in the corpus almost entirely as an antagonist and
-almost entirely at one moment: the spring of 2018, while Fran was dying, when
+mother, and the only documented child of [[wiki/people/fran-coldren|Fran Coldren]]. She appears in the corpus almost entirely as an antagonist and
+almost entirely at one moment: the spring of 2018, while [[wiki/people/fran-coldren|Fran]] was dying, when
 a letter reached Dan setting rules for his presence in Fran's house, demanding
 the keys, and closing with the sentence *"any violation of the rules will be
 considered trespassing."* Dan's objection to it was never that it
@@ -67,21 +67,21 @@ she is not called anywhere in the corpus, while the message dump named her
 plainly and three other pages carried her second identity as an unexplained
 actor.
 
-> **CORRECTED [2026-08-18] — her married name is Moore, and the wiki already
-> had it.** This page previously titled her *"Diane (Rebecca Diane Van Voorhis
-> Shrum)"* and stated outright that the surname was *"given here as Shrum on
-> the strength of the documented marriage rather than a record naming her that
-> way."* The message corpus names her twice, on 2018-04-01: **"diane moore
-> hasn't been able to be reached by anyone. dave is 'speaking on her
-> behalf'"** and **"the social workers are talking to dave moore about the
-> day-to-day stuff."** George Dixon Shrum Jr. is Suz's father and Diane's
+> **CORRECTED [2026-08-18] — her married name is Moore, and the wiki already**
+> **had it.** This page previously titled her *"Diane (Rebecca Diane Van Voorhis*
+> *Shrum)"* and stated outright that the surname was *"given here as Shrum on*
+> *the strength of the documented marriage rather than a record naming her that*
+> *way."* The message corpus names her twice, on 2018-04-01: **"diane moore**
+> **hasn't been able to be reached by anyone. [[wiki/people/dave-moore|dave]] is 'speaking on her**
+> **behalf'"** and **"the social workers are talking to dave moore about the**
+> **day-to-day stuff."** George Dixon Shrum Jr. is [[wiki/people/suzanne-frank|Suz]]'s father and Diane's
 > *first* husband; she remarried [[wiki/people/dave-moore|Dave Moore]].
 >
 > The same correction merges a second entity. `wiki/places/155-virginia-ave`,
 > `wiki/timeline/events/fran-death-vigil` and `wiki/timeline/master-timeline`
 > all record that on 2018-03-29 Dan was served an eviction notice for 155
-> Virginia Avenue **"by Dian V. Moore,"** and the vigil page listed *"Dian V.
-> Moore's role/relation to the estate"* as an open gap. That is this
+> Virginia Avenue **"by Dian V. Moore,"** and the vigil page listed *"Dian V.*
+> *Moore's role/relation to the estate"* as an open gap. That is this
 > grandmother. The wiki held the antagonist under one name and the instrument
 > under another, three pages apart, and asked itself who the second one was.
 
@@ -89,16 +89,16 @@ actor.
 
 The page's standing gap asked, among other things, who the "grandparents who
 already hated you" were in Dan's account of the earlier keno-morning fall —
-the fear that stopped him overriding Suz and calling an ambulance for eight
+the fear that stopped him overriding [[wiki/people/suzanne-frank|Suz]] and calling an ambulance for eight
 hours. The wiki guessed **Diane and George**. The operator's answer, filed
 2026-08-17, is two words:
 
-> **"Dian and Dave"**
+> **"Dian and [[wiki/people/dave-moore|Dave]]"**
 
-> **GAP CLOSED [2026-08-18].** The gap, as this page stated it: *"The
-> 'grandparents who already hated you' that Dan feared during the earlier
-> keno-morning fall are presumably Diane and George, but he never names them in
-> that passage."* They are **Dian and Dave** — his grandmother and her second
+> **GAP CLOSED [2026-08-18].** The gap, as this page stated it: *"The*
+> *'grandparents who already hated you' that Dan feared during the earlier*
+> *keno-morning fall are presumably Diane and George, but he never names them in*
+> *that passage."* They are **Dian and Dave** — his grandmother and her second
 > husband, not his biological grandfather. The correction matters more than a
 > name swap: the couple Dan feared was the couple that then issued the
 > exclusion instrument, sold the Florida condo, and communicated with the
@@ -118,7 +118,7 @@ hours. The wiki guessed **Diane and George**. The operator's answer, filed
 ## Who she is in the line
 
 The 23andMe genealogy export settles a descent the wiki previously had wrong.
-Fran married three times; her only recorded child came from the first
+[[wiki/people/fran-coldren|Fran]] married three times; her only recorded child came from the first
 marriage.
 
 | | Person | Born |
@@ -126,7 +126,7 @@ marriage.
 | Fran's first husband | Emmet Graden Van Voorhis | 1917-08-01, Dilliner, PA |
 | Their daughter | **Rebecca Diane Van Voorhis** | 1939-01-30, West Virginia |
 | Diane's first husband | George Dixon Shrum Jr. | 1937-06-14, Pittsburgh |
-| Their daughter | Suzanne Whyel Shrum | 1962-09-15, Pittsburgh |
+| Their daughter | [[wiki/people/suzanne-frank|Suzanne Whyel Shrum]] | 1962-09-15, Pittsburgh |
 | Diane's second husband | [[wiki/people/dave-moore]] | not in the record |
 
 The April 1940 census places Emmet, Fran and the fourteen-month-old Diane
@@ -139,17 +139,17 @@ state for most of Dan's childhood. Nothing in the message corpus contradicts or
 confirms either span, and by 2016 she is close enough to be a live threat to
 *"come to town and start accusing everyone of 'abusing' gram."*
 
-> **CORRECTED [2026-08-18]:** this paragraph called Farmington Hills *"the only
-> geographic fact the corpus supplies about her adult life."* It had not been
+> **CORRECTED [2026-08-18]:** this paragraph called Farmington Hills *"the only*
+> *geographic fact the corpus supplies about her adult life."* It had not been
 > the only one since 2026-08-14, when the ancestry rewrite added Stanwood
 > 2013–2020 from the same GEDCOM. The page went four days declaring a scarcity
 > the corpus had already relieved.
 >
 > The addition is load-bearing outside this page.
 > [[wiki/mind/synthesis/fayette-return]] argues that everyone in this family
-> ends up within twenty miles of Uniontown; **Diane is the tree's one documented
-> departure from the Pennsylvania/West Virginia region with no attested
-> return**, and she is still living, so no terminus exists for her at all. She
+> ends up within twenty miles of Uniontown; **Diane is the tree's one documented**
+> **departure from the Pennsylvania/West Virginia region with no attested**
+> **return**, and she is still living, so no terminus exists for her at all. She
 > does not falsify that page's rule, which is stated over the paternal Frank
 > line — but she is the sharpest available test of whether the rule describes a
 > lineage or a county, and the two readings have so far made identical
@@ -172,15 +172,15 @@ contemporaneous record.
 | Date (2018) | Record | Speaker |
 |---|---|---|
 | 03-29 | Eviction notice served terminating Dan's residency at 155 Virginia and demanding the keys, attributed to **"Dian V. Moore"** (`IMG_4647.jpg`) | vigil sources |
-| 03-29 12:38 | *"Delivery of email to Dian failed"* | Suz |
-| 04-01 21:32 | *"meanwhile diane moore hasn't been able to be reached by anyone. dave is 'speaking on her behalf' and it's very unusual stuff"* | Dan |
+| 03-29 12:38 | *"Delivery of email to Dian failed"* | [[wiki/people/suzanne-frank|Suz]] |
+| 04-01 21:32 | *"meanwhile diane moore hasn't been able to be reached by anyone. [[wiki/people/dave-moore|dave]] is 'speaking on her behalf' and it's very unusual stuff"* | Dan |
 | 04-01 21:50 | *"the social workers are talking to dave moore about the day-to-day stuff lol"* | Dan |
 | 04-03 17:49 | *"I'm going to need that letter"* | Suz |
-| 04-03 18:01 | *"Annie is really upset about that letter"* | Dan |
+| 04-03 18:01 | *"[[wiki/people/annie-ulmer|Annie]] is really upset about that letter"* | Dan |
 | 04-03 18:53 | *"We will need a lawyer for Dian too"* | Annie |
 | 04-03 21:32 | *"i think dave wrote it — read the last paragraph. 'any violation of the rules will be considered trespassing' ....so if i violated the rules by not leaving the key i would be trespassing?"* | Dan |
 | 04-03 21:32 | *"lol also if they are writing such professional correspondence why wouldn't Annie get her own letter"* | Dan |
-| 04-04 | Fran dies | — |
+| 04-04 | [[wiki/people/fran-coldren|Fran]] dies | — |
 
 **Annie never received a letter.** The previous version of this page, and
 [[wiki/timeline/events/fran-death-vigil]], both stated that Dan and Annie
@@ -208,8 +208,8 @@ visitation instrument that the corpus does not capture — but the document the
 messages describe, with the key demand and the trespassing clause, is a
 terminal-week document. Where they disagree, the messages govern.
 
-> **CONTRADICTION:** Dan's 2026 recollection dates the exclusion to *"well
-> before"* the final admission; his own 2018 messages date the operative
+> **CONTRADICTION:** Dan's 2026 recollection dates the exclusion to *"well*
+> *before"* the final admission; his own 2018 messages date the operative
 > instrument to the last week of Fran's life. Held rather than resolved: the
 > capture may be describing a separate, earlier letter about supervised
 > visits, and the March 29 / April 3 documents may be the escalation of it.
@@ -218,9 +218,8 @@ terminal-week document. Where they disagree, the messages govern.
 
 ## What it cost, and who was in the room
 
-The consequence was concrete. When Judge [[wiki/people/fred-adams|Fred
-Adams]] mandated that someone be with Fran twenty-four hours a day in the
-pediatric wing, shifts were assigned — and Dan and Annie were not given any.
+The consequence was concrete. When Judge [[wiki/people/fred-adams|Fred Adams]] mandated that someone be with [[wiki/people/fran-coldren|Fran]] twenty-four hours a day in the
+pediatric wing, shifts were assigned — and Dan and [[wiki/people/annie-ulmer|Annie]] were not given any.
 Dan's own note on this is characteristically flat: "I wasn't really
 complaining." They went anyway, on their own, and were the two people in the
 room when she died ([[wiki/timeline/events/fran-death-vigil]]).
@@ -233,7 +232,7 @@ her in the corpus and the one with the most in it:
 > herself"
 
 The Florida property runs through the record for two years before that. In
-January 2017 Suz reports *"Dian is putting the brakes on the trip to
+January 2017 [[wiki/people/suzanne-frank|Suz]] reports *"Dian is putting the brakes on the trip to
 Florida"* — Fran's own trip, to her own condo. In March 2018, mid-collapse,
 Dan's line to Suz is *"diane deserves the house in florida for sure"* and
 Suz's entire reply is *"Fuck Dian."* And in April 2019, a year after the
@@ -247,15 +246,15 @@ the one heir who did not attend.
 
 The picture of her from inside the family is not simply hostile-and-absent; it
 is hostile, absent, and demanding. During the final admission she was calling
-Suz, and Suz's account on 2018-03-14 is the fullest description of her the
+[[wiki/people/suzanne-frank|Suz]], and Suz's account on 2018-03-14 is the fullest description of her the
 corpus contains:
 
 > "Dian...no 'e' is irate and irrational and thinks she's going to demand that
 > her mother be released and sent home with 24 hr care and that's that. The
 > problem is, it isn't that simple. Even if she could go home right now,
 > someone, not Vicki, has to be taking care of all of the things it takes to
-> have her at home. **My mother doesn't know what she's talking about and she
-> needs to shut the fuck up.**"
+> have her at home. **My mother doesn't know what she's talking about and she**
+> **needs to shut the fuck up.**"
 
 Six days later Suz reports having *"put a muzzle on Dian,"* and Dan's reply is
 the most politically alert thing anyone says during the vigil — a warning to
@@ -265,11 +264,11 @@ that there's a new 'diane and suzanne' faction."* He had already logged the
 same person as *"a useful idiot right now"* and noted, with visible relief,
 *"at least diane isn't trying to take charge."* The demand Diane was making —
 send the 97-year-old home with round-the-clock care — is, read cold, the same
-outcome Dan and Annie had spent three years producing. The disagreement was
+outcome Dan and [[wiki/people/annie-ulmer|Annie]] had spent three years producing. The disagreement was
 never about the goal. It was about who would do it and who would be permitted
 near the house while they did.
 
-Fran's own view is recorded once, at one remove. On 2017-12-30 Dan tells
+[[wiki/people/fran-coldren|Fran]]'s own view is recorded once, at one remove. On 2017-12-30 Dan tells
 Vicki: *"She's the best I've seen her in years today so I got her talking and
 she said something interesting referring to Diane. At the end mostly."* What
 Fran actually said is not in the corpus. It is the single most valuable
@@ -288,7 +287,7 @@ earlier. The question was not paranoid.
 
 The outcome is on the record two months before he asked. On 2020-06-22, told
 that the estate had an **August 17 court date**, Dan's first reaction was
-exactly this fear — *"does a court case mean diane challenged it"* — and Suz
+exactly this fear — *"does a court case mean diane challenged it"* — and [[wiki/people/suzanne-frank|Suz]]
 answered in three messages:
 
 > "No" · "This is when that would happen. She isn't going to do that. Rod
@@ -301,7 +300,7 @@ Dan asked the attorney a question his mother had already answered, which is
 its own small datum about whose assurances he treats as load-bearing.
 
 The last trace of her is a 2020-03-28 message from Dan to a friend, at the
-opening of the pandemic: *"i hope diane and dave both drown in their own vomit
+opening of the pandemic: *"i hope diane and [[wiki/people/dave-moore|dave]] both drown in their own vomit
 after simultaneously contracting coronavirus."* Twenty-three months after the
 funeral, still a pair, still present tense.
 
@@ -311,17 +310,17 @@ funeral, still a pair, still present tense.
   an April 3 letter with a trespassing clause; the 2026 capture describes
   visiting rules sent "well before." Are these one instrument, two, or three?
   The operator held all of them.
-- **What Fran said about Diane** on 2017-12-30, in the one lucid conversation
+- **What [[wiki/people/fran-coldren|Fran]] said about Diane** on 2017-12-30, in the one lucid conversation
   Dan managed to get out of her. He recorded that it happened and not what it
   was.
-- **The Florida condo's actual disposition.** Dan and Suz both assert Diane
+- **The Florida condo's actual disposition.** Dan and [[wiki/people/suzanne-frank|Suz]] both assert Diane
   sold it and kept the proceeds; no document, price or date is in the corpus,
   and whether it was hers to sell — Fran's, or already transferred — is
   unknown.
 - **The memorial.** Whether she attended the May 6, 2018 service at the
   Uniontown Country Club is still unrecorded. Dan's April 1 line — that he
   would love to speak but *"i don't know if anyone wants a 45 minute roasting
-  of diane and dave"* — implies he expected them there.
+  of diane and [[wiki/people/dave-moore|dave]]"* — implies he expected them there.
 - **Whether she is alive.** Born 1939-01-30; she would be 87. The corpus's last
   mention of her is 2020, and nothing since records a death, an illness, or
   contact of any kind.

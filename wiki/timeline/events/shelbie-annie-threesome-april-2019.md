@@ -78,8 +78,8 @@ The threesome that follows is Annie's, executed with a number Dan gave her.
 watch me fuck her better than you."* Within four hours the encounter he paid for
 has become a competition with his own partner over the woman he paid.
 
-> **CONTRADICTION:** the operator's account says Annie *"contacted her
-> independently without me knowing and invited her back over."* The 22:56
+> **CONTRADICTION:** the operator's account says Annie *"contacted her*
+> *independently without me knowing and invited her back over."* The 22:56
 > `Shelbie Breakiron.vcf` attachment, sent by Dan to Annie, is hard to reconcile
 > with that. The likeliest reading is that the memory compresses a night in
 > which he supplied the means and did not expect or authorise the use — which is

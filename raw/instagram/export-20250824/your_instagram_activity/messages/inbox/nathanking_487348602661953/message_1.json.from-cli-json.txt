@@ -1,0 +1,378 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 13648 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664426714270,
+      "videos": [
+        {
+          "creation_timestamp": 1664426707,
+          "uri": "your_instagram_activity/messages/inbox/nathanking_487348602661953/videos/AQNIDHZHvrJXe43bN0HFBUcm7Lh9HTiTUj7OgC7qfps6BfHZvQoJ54pA4Lm66EfdvcQxTndJsHvsiTKq7xn0KpItLtbHcNjHHsKtXXb6Ra6vnX_511549590772779.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Also do not try to use this thing on any early Mars Volta stuff because Iâm pretty sure thatâs how you create a black hole. The processing power used to analyze âCicatriz ESPâ would use more energy than exists in the universe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664079246264
+    },
+    {
+      "content": "Check your FB messages I sent you the isolated vocal track for âentombment of a machineâ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664079101280
+    },
+    {
+      "content": "2003 was a simpler time",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664079006840
+    },
+    {
+      "content": "LMAO even the name",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664078991091
+    },
+    {
+      "content": "Razorblade romance was the album",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664078987125
+    },
+    {
+      "content": "I was super douched out by most of the âgoodâ album that I canât remember the name of now but I did notice how much I still liked that piano riff in the sacrament",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664078956522
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nathan King",
+      "timestamp_ms": 1664078850825
+    },
+    {
+      "content": "Yeah some of those him songs still slap. Iâll revisit them like once a year or so",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nathan King",
+      "timestamp_ms": 1664078841528
+    },
+    {
+      "content": "The MAXX",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nathan King",
+      "timestamp_ms": 1664078818321
+    },
+    {
+      "content": "Hhahahahahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nathan King",
+      "timestamp_ms": 1664078814212
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nathan King",
+      "timestamp_ms": 1664078811218
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nathan King",
+      "timestamp_ms": 1664078810358
+    },
+    {
+      "content": "By the way, even though most HIM doesnât hold upâ¦the sacrament is still just a jam",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Nathan King",
+          "reaction": "â¤ï¸",
+          "timestamp": 1664078811
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664078772895
+    },
+    {
+      "content": "I had a flashback to being at the maxx and you hand drumming on the fucking tables and how badly we would have wanted to rip drums out of like âThe Sacramentâ and play around",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Nathan King",
+          "reaction": "â¤ï¸",
+          "timestamp": 1664078810
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664078746100
+    },
+    {
+      "content": "Itâs incredible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664078681948
+    },
+    {
+      "content": "It could be cool to just get drum samples and shit from too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nathan King",
+      "timestamp_ms": 1664078663933
+    },
+    {
+      "content": "https://apps.apple.com/us/app/moises-the-musicians-app/id1515796612",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Nathan King",
+          "reaction": "â¤ï¸",
+          "timestamp": 1664078850
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://apps.apple.com/us/app/moises-the-musicians-app/id1515796612",
+        "share_text": "https://apps.apple.com/us/app/moises-the-musicians-app/id1515796612"
+      },
+      "timestamp_ms": 1664078661878
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664078659291,
+      "videos": [
+        {
+          "creation_timestamp": 1664078651,
+          "uri": "your_instagram_activity/messages/inbox/nathanking_487348602661953/videos/AQM3Oz7ybhW4YDQDkC9dhHbfRdtMihtwQBfTZuYa3GH0JAVH_p2Vec19WjINUi6ZGkLtJIlg9CjhX_0Pts7pOltuQBOhEgPee9rLLWLgf3uuV5_494206685568876.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Whatâs the app called?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nathan King",
+      "timestamp_ms": 1664078644208
+    },
+    {
+      "content": "Mann I donât know that thing must be doing like 50k eq adjustments every .001 second to achieve that kind of quality",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nathan King",
+      "timestamp_ms": 1664078636399
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nathan King",
+      "timestamp_ms": 1664078592275
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nathan King",
+      "timestamp_ms": 1664078590867
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nathan King",
+      "timestamp_ms": 1664078587042
+    },
+    {
+      "content": "But you know audioâ¦how the FUCK does it EQ so precisely like that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Nathan King",
+          "reaction": "â¤ï¸",
+          "timestamp": 1664078592
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664078555067
+    },
+    {
+      "content": "Idk Iâve been running songs through this for like 4 days straight and thereâs still so many I want stems for",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Nathan King",
+          "reaction": "â¤ï¸",
+          "timestamp": 1664078590
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664078517522
+    },
+    {
+      "content": "But even just being able to hear the instrumental or acapella versions of stuff for fun",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Nathan King",
+          "reaction": "â¤ï¸",
+          "timestamp": 1664078587
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664078484889
+    },
+    {
+      "content": "Like remember girl talk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664078422905
+    },
+    {
+      "content": "iPhone app. I mean think of the sampling possibilities",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664078418260
+    },
+    {
+      "content": "Unbelievable we can do that now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nathan King",
+      "timestamp_ms": 1664078363276
+    },
+    {
+      "content": "Damn thatâs fucking crazy. And itâs just a phone app?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nathan King",
+      "timestamp_ms": 1664078349945
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664078209939,
+      "videos": [
+        {
+          "creation_timestamp": 1664078199,
+          "uri": "your_instagram_activity/messages/inbox/nathanking_487348602661953/videos/AQNS7dgMa6ByLTYzIvxGQGttkk747Uwz9Sncblo7_nUaLqjVczUFXk89tzI5bzQ1Y5bUx17hgjBzCECkFxM4myN4rhTRrxdFb_tL8vXiVhPecR_826518505041954.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Any song it makes PERFEXT stems of",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664078172746
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664078166083,
+      "videos": [
+        {
+          "creation_timestamp": 1664078160,
+          "uri": "your_instagram_activity/messages/inbox/nathanking_487348602661953/videos/AQNXeXEngq_D3liYOio91lJwawBZddCfPA21LqXhmhMi0zYAuBHtTxyfFntUvsIFFh25FrJuzbD0oB8fsClXGzPYbpoZYL1Zun_2CNyBfAZFR1_417104080566272.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Moises is the app",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664078164306
+    },
+    {
+      "content": "Oh fuckâ¦.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nathan King",
+      "timestamp_ms": 1664078153828
+    },
+    {
+      "content": "Youâve waited for years and itâs finally here",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664078150492
+    },
+    {
+      "content": "To show you this",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664078140961
+    },
+    {
+      "content": "Iâm so excited",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664078137820
+    },
+    {
+      "content": "Fired cheese... with CLUB SAUCE",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Dan Frank",
+          "reaction": "ð",
+          "timestamp": 1610688578
+        }
+      ],
+      "sender_name": "Nathan King",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2486601443194471899"
+      },
+      "timestamp_ms": 1610646080119
+    }
+  ],
+  "participants": [
+    {
+      "name": "Nathan King"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:34:02.454-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:34:02.454Z"
+  },
+  "thread_path": "inbox/nathanking_487348602661953",
+  "title": "Nathan King"
+}

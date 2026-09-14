@@ -5,7 +5,7 @@ title: "The Reader's Digest"
 status: active
 knowledge: derived
 date_created: 2026-09-02
-date_modified: 2026-09-04
+date_modified: 2026-09-02
 chart:
   kind: bar
   title: "Entries by plain-edition state"
@@ -14,12 +14,11 @@ chart:
   series:
     - name: "Entries"
       points:
-        "Translated": 28
-        "Major lane": 42
-        "Free lane": 40
-        "Held (people)": 94
+        "Major lane": 73
+        "Free lane": 47
+        "Held (people)": 97
         "Too thin": 47
-        "Withheld": 217
+        "Withheld": 256
 sources: []
 ---
 
@@ -43,10 +42,10 @@ This page is the campaign to write one for every entry.
 
 | | |
 |---|---|
-| Entries with a plain-English edition | **28** |
-| Entries eligible for one | 278 |
-| Withheld under the standing directive | 217 |
-| Coverage | 10.1% |
+| Entries with a plain-English edition | **0** |
+| Entries eligible for one | 294 |
+| Withheld under the standing directive | 256 |
+| Coverage | 0.0% |
 
 ## The two lanes
 
@@ -56,10 +55,10 @@ is arithmetic in `bin/wiki-plain`: 900 words is the boundary.
 
 | Lane | What is in it | Outstanding |
 |---|---|---|
-| `major` | entries of 900 words or more — the dense findings | 42 |
-| `free` | entries under 900 words, worked smallest first | 40 |
+| `major` | entries of 900 words or more — the dense findings | 73 |
+| `free` | entries under 900 words, worked smallest first | 47 |
 
-A further **94** eligible entries about other people are in
+A further **97** eligible entries about other people are in
 neither lane. They are held back deliberately, pending a decision about
 who writes plain-English prose about living people for a public site.
 
@@ -70,45 +69,13 @@ no plain edition until the entry itself has an argument in it. They are
 counted here rather than dropped, because an entry nobody will translate
 and an entry nobody has got to should not look the same from outside.
 
-## Who wrote them
-
-_Not available: this is a shallow clone, so the log does not reach the
-commits that wrote these files. `git fetch --unshallow` for an answer._
-
 ## What has an edition
 
-- [[wiki/health/the-configured-body|The Configured Body]]
-- [[wiki/interests/concert-record/index|Concert Record (2001-2019)]]
-- [[wiki/interests/extreme-sports|Extreme Sports]]
-- [[wiki/interests/favorites/books|Book Favorites]]
-- [[wiki/interests/favorites/eclecticism|Eclecticism in Favorites]]
-- [[wiki/interests/favorites/music/artists/fall-out-boy|Fall Out Boy]]
-- [[wiki/interests/food-and-diet|Food and Diet]]
-- [[wiki/interests/music/concepts/lyrics-as-timbre|Lyrics as Timbre]]
-- [[wiki/interests/music/concepts/sub-bass-signature|Sub-Bass Signature]]
-- [[wiki/mind/concepts/acquisition-drive|The Acquisition Drive]]
-- [[wiki/mind/concepts/bunker-core|Bunker Core]]
-- [[wiki/mind/concepts/chaos-preference|The Chaos Preference]]
-- [[wiki/mind/concepts/dans-law|Dan's Law]]
-- [[wiki/mind/concepts/institutional-out|The Institutional Out]]
-- [[wiki/mind/concepts/the-cool-metric|The Cool Metric]]
-- [[wiki/mind/politics/axioms|The Power Axiom: What Resolves the Leftist/Authoritarian 'Paradox]]
-- [[wiki/mind/synthesis/2020-left-turn|The 2020 Left Turn]]
-- [[wiki/mind/synthesis/fayette-return|The Fayette Return]]
-- [[wiki/mind/synthesis/millennial-digital-witness|Millennial Digital Witness]]
-- [[wiki/mind/synthesis/political-psyops|Political Psyops & Hybrid Events]]
-- [[wiki/mind/synthesis/the-cato-seat|The Cato Seat]]
-- [[wiki/mind/synthesis/the-embedded-objective|The Embedded Objective]]
-- [[wiki/mind/synthesis/vertical-authority-skepticism|Vertical Authority Skepticism]]
-- [[wiki/self/youtube-watch-history|YouTube Watch History (2007–2026)]]
-- [[wiki/timeline/events/franki-fireworks-day-2013|The Franki Fireworks Day (early July 2013)]]
-- [[wiki/timeline/events/teen-concert-years|Concert Record (2001–2019)]]
-- [[wiki/work/creative-license|Creative License (NYC, 2011–2012)]]
-- [[wiki/work/fastly-fsly|Fastly (FSLY)]]
+_Nothing yet._
 
 ## Next up
 
-**major** — 42 outstanding
+**major** — 73 outstanding
 
 - [[wiki/self/twitter/2024]] (11186 words)
 - [[wiki/self/twitter/2010]] (11106 words)
@@ -116,16 +83,14 @@ commits that wrote these files. `git fetch --unshallow` for an answer._
 - [[wiki/self/twitter/2009]] (9061 words)
 - [[wiki/self/twitter/2022]] (8060 words)
 
-**free** — 40 outstanding
+**free** — 47 outstanding
 
+- [[wiki/self/concepts/media-ingest]] (301 words)
 - [[wiki/work/caviar-courier]] (301 words)
 - [[wiki/interests/favorites/books/authors/adrian-goldsworthy]] (315 words)
 - [[wiki/interests/favorites/music/artists/lil-wayne]] (320 words)
 - [[wiki/interests/rock-irrelevance-thesis]] (320 words)
-- [[wiki/interests/favorites/books/authors/jonathan-karl]] (328 words)
 
 Entries considered and deliberately given no plain edition are recorded
 in `plain/DECLINED.md`, with the reasoning, rather than left looking
 like work nobody got to.
-
-

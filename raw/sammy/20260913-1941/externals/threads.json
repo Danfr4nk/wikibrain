@@ -1,0 +1,9 @@
+{
+ "source": "threads",
+ "status": "connected",
+ "pulled_at": "2026-09-13T20:15:00Z",
+ "watermark_from": "2026-08-26T23:04:55Z",
+ "count": 0,
+ "new_items": [],
+ "note": "profile-threads --account-id 17841463596404400 --user-id 17841463596404400 --first 3: newest 2026-08-26 23:04:55, then 2026-06-01, 2023-10-03. Exactly at watermark. 0 new."
+}

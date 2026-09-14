@@ -1,6 +1,7 @@
 ---
 domain: people
 page_type: entity
+title: "Eric Jester"
 status: active
 date_created: 2026-06-23
 date_modified: 2026-09-02
@@ -49,6 +50,8 @@ connections:
   - page: wiki/self/twitter/2010
     type: evidenced-by
     claim: "The banter is running at full volume in 2010, seven years before the message thread opens — '@EricJester 8 year old Eric Jester loves drinking in church....' (19 August) and, in March, 'remember when he stole shut up Oscar! from us in s5 of the office?' — a shared private idiom neither of them explains."
+  - { target: "[[wiki/people/dan-polyak]]", type: references, claim: "RECIPROCAL — both pages document the same 2012-02-23 core-friend cohort list; the two names sit adjacent in Dan's only self-enumerated friend group." }
+  - { target: "[[wiki/people/josh-brannan]]", type: references, claim: "RECIPROCAL — both appear in Dan's only self-enumerated core friend group (the 2012-02-23 cohort list); the prose already names Josh in the cohort passage." }
 ---
 
 # Eric Jester
@@ -58,8 +61,8 @@ Eric Jester is a Full Sail film-school friend (contacts notes: "sandwich eater. 
 ## The dense years the message record cannot see
 
 > **CORRECTED [2026-09-02]:** this page described the friendship itself as
-> "sparse but genuinely warm." That is an accurate reading of the *message
-> thread*, which begins **May 2017**. It is not an accurate description of
+> "sparse but genuinely warm." That is an accurate reading of the *message*
+> *thread*, which begins **May 2017**. It is not an accurate description of
 > the friendship, because the eight years before that are not in any message
 > export — and the [[wiki/self/twitter|@danfrank archive]] holds them.
 

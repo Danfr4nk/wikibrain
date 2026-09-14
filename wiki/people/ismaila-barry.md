@@ -24,6 +24,8 @@ connections:
   - page: wiki/people/tarik-fallous
     type: co-occurs
     claim: "Dan's Aug 21 2024 'CIA agent' tip to Tarik was specifically about DJ (Ismaila Barry) possibly not returning from vacation — informal post-employment intel-sharing about a close friend's own uncertain exit, source of the unconfirmed 'DJ did what MD did' lead."
+  - { target: "[[wiki/people/tarik-fallous]]", type: contextualizes, claim: "Tarik is the hiring authority behind the whole 41-month tenure — the August 2024 'CIA agent' tip Dan sent Tarik about DJ's uncertain return is documented on Tarik's side of the record." }
+  - { target: "[[wiki/people/valeria-iglesias-cid]]", type: contextualizes, claim: "Both were Au Za'atar front-of-house through the 2021-2024 tenure — DJ as busser-turned-server, Valeria as hostess — in the same crew under Tarik." }
 ---
 
 # Ismaila Barry ("DJ")

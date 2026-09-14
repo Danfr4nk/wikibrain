@@ -60,18 +60,18 @@ infobox:
 
 # Milo
 
-> **ADDED [2026-08-23] — "Mimi" is Annie's name for him, and it is used more often
-> than "Milo" in her own messages.** The corpus carries **67** uses of *mimi*
+> **ADDED [2026-08-23] — "Mimi" is Annie's name for him, and it is used more often**
+> **than "Milo" in her own messages.** The corpus carries **67** uses of *mimi*
 > between 2018 and 2025, and they resolve to this dog on four independent
 > grounds: he is male (*"I miss my mimi boy"*, *"Did Mimi choose his own bite"*);
 > the range matches his; one message addresses him by both names at once
-> (*"Awe mimi Milo"*, 2021-04-06); and **Mimi and Betty are named as two separate
-> animals** — *"I wonder if mimi and Betty kissed at midnight"* (2020-01-01) and,
+> (*"Awe mimi Milo"*, 2021-04-06); and **Mimi and Betty are named as two separate**
+> **animals** — *"I wonder if mimi and Betty kissed at midnight"* (2020-01-01) and,
 > written to Betty, *"I'll get meatballs tonight for you and mimi"* (2024-11-02).
 >
 > **This bears directly on the severance.** The channel Dan named and pre-closed
-> on 2026-08-19 — *"Do NOT ever think... you can tell me about something that made
-> you think of me **or when something happens to Milo**"*
+> on 2026-08-19 — *"Do NOT ever think... you can tell me about something that made*
+> *you think of me **or when something happens to Milo**"*
 > ([[wiki/mind/synthesis/the-rescue-premise]]) — is the same channel Annie's own
 > register calls *Mimi*. After the separation her recurring approach is the bare
 > welfare question, *"Is Mimi ok"* and *"How is Mimi"*, which is what the July 4
@@ -233,9 +233,9 @@ only to Dan, delivered as an attack at 02:59 on July 28, and uncorroborated.
 > > morning. i called annie urgently and we took her to the vet where **annie
 > > made the decision to euthanize her**."*
 >
-> Annie was there, and it was her decision. That is not compatible with *"you
-> couldn't even stay with her when they put her down so she had to go through it
-> alone."* The narrower question — whether Annie stayed in the room at the final
+> Annie was there, and it was her decision. That is not compatible with *"you*
+> *couldn't even stay with her when they put her down so she had to go through it*
+> *alone."* The narrower question — whether Annie stayed in the room at the final
 > moment — is not addressed either way, and is left open rather than settled by
 > preferring the calmer account.
 >
@@ -244,8 +244,8 @@ only to Dan, delivered as an attack at 02:59 on July 28, and uncorroborated.
 > declined to treat it as fact. Ten months later the same person, not under
 > pressure, gave an account that contradicts it. This is Dan against Dan, and it
 > is the corpus's cleanest validation of a heuristic the wiki applies constantly
-> but had never actually tested: **a claim made inside an attack is weak evidence
-> even when the attacker is the only witness.** Weight it wherever the
+> but had never actually tested: **a claim made inside an attack is weak evidence**
+> **even when the attacker is the only witness.** Weight it wherever the
 > July–August 2026 material rests on in-fight assertions.
 
 **Betty's custody, and the dog as a channel.** The same answer records how she
@@ -254,8 +254,8 @@ the separation — *"Betty, being her dog (and Milo being mine), had gone with h
 to stay t her parents house"* — until **Annie asked Dan to start keeping her**.
 Dan's stated reason for agreeing is unguarded and worth quoting:
 
-> *"As i saw it as an 'in' to more time with annie, i enthusiastically
-> accepted."*
+> *"As i saw it as an 'in' to more time with annie, i enthusiastically*
+> *accepted."*
 
 That is the mechanism this page documents a year later, stated in advance and
 about the other dog. In June 2026 the closure held fifty-two days and then

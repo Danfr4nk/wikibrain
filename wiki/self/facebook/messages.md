@@ -21,7 +21,7 @@ FB message export format: per-thread HTML with participants, timestamps, content
 - Real signal: Concentrated in key nodes (Annie primary documented; golf, music, early NYC acquaintances)
 
 **Cross to iMessage corpora:** Annie FB thread parallels iMessage Annie handles (+1724 early / +2124 later) for attachment sequences. See [[wiki/self/message-corpora/master-message-dump]] (Annie 48k+ volume, contact gini). Ties periods genesis 2015-16 + collapse. FB as breadth (650 friends) vs depth. Forensic lens applies (see [[wiki/mind/concepts/forensic-method]]).
-- Noise floor: Spam/phishing (iPhone scams 2011, driver license/attachment phishing 2018-21), generic facebookuser_*, filtered heavy
+- Noise floor: *Spam/phishing (iPhone scams 2011, driver license/attachment phishing 2018-21), generic facebookuser_*, filtered heavy
 - Date range: 2011 (legacy sample) through 2021-22 (Annie/RJ samples); earlier likely truncated or low volume
 - Categories in export: inbox (core), filtered_threads, message_requests, legacy_threads (1), messenger_contacts_blocked, secret_conversations, your_messages.html
 

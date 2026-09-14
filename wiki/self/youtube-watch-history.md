@@ -3,7 +3,7 @@ domain: self
 page_type: synthesis
 status: active
 date_created: 2026-06-22
-date_modified: 2026-08-19
+date_modified: 2026-09-12
 date_range_start: 2007-01-01
 date_range_end: 2026-07-20
 sources: ["raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2025).html", "raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2026-07-20).html", "raw/self/facebook/facebook-ihatedanfrank/pages_and_profiles/pages_you_ve_liked.html"]
@@ -273,6 +273,8 @@ O&A / Opie Radio + O&A archives (hundreds), INTO THE FRAY (71 in 2012). Shock ra
 **Era 2: 2014–2021 Lull + Spikes**  
 Low baseline (100s/yr); LastWeekTonight entry (2017/2020), small 2020 election bump. Music consumption via main YT + FB likes for comedy (Comedy Bang Bang, Nathan For You) and some politics (AOC, Chris Cuomo, VICE TV).
 
+> **CORRECTION 2026-09-12 — the "lull" is a coverage artifact.** Dan corrected this reading in conversation: the 2014–2021 crater is where he was logged into a **second YouTube account**, not a period of reduced watching — "I have watched exactly as much YouTube every day since 2013" (dat:1441). All counts in this era are single-account ("Dan Frank" channel) lower bounds, not total engagement. The second account's history is not held in any export on record. Do not treat the low baseline as behavioral.
+
 **Era 3: 2022–2025 Resurgence + Focused Diet (2k+/yr + YT Music)**  
 Modern left tube dominant: Vaush (177 in 2023), Majority Report (Sam Seder), David Pakman, Breaking Points (38 in 2025), HasanAbi, Some More News. History ed: Mr. Beat 98 in 2023. Satire sustained. YT Music 691 (2022) + 987 (2025). 2023 May peak month 396. Ties to post-employment block processing, skepticism themes.
 
@@ -287,7 +289,7 @@ Modern left tube dominant: Vaush (177 in 2023), Majority Report (Sam Seder), Dav
 
 - **High volume periods (2012–2013, 2022–2023, 2025)** align with or contrast existing self periods.
   - Early 2010s peak coincides with pre-employment stability and high digital engagement.
-  - 2021 low activity during [[wiki/timeline/periods/2021-2023-employment-block]].
+  - 2021 low activity during [[wiki/timeline/periods/2021-2023-employment-block]]. **CORRECTION 2026-09-12:** per dat:1441, the 2014–2021 low counts are a single-account coverage artifact (second YouTube account, comparable daily watching) — do not read them as reduced activity in this or any period.
   - 2022–2023 resurgence during later employment block.
   - 2025 activity (1,871 through July) is substantial and may relate to post-closure processing.
 - Complements [[wiki/self/twitter]] (public political expression mirroring "sicko" diet) and [[wiki/self/favorites]] / [[wiki/interests/favorites/music]] (music consumption overlap; electronic/bass via 2014 likes + YT Music).
@@ -306,7 +308,7 @@ YT history functions as objective "millennial digital witness" channel (see [[wi
 |--------|-------------|
 | 2007–2010 | Earliest likes/dislikes (sparse). Includes music and early internet content. FB account 2007. |
 | 2011–2013 | Highest sustained volume (peak 2012). Heavy O&A radio archives + INTO THE FRAY. Early politics signals. |
-| 2014–2021 | Lower baseline with small spikes (2020 election). LastWeekTonight entry. FB ODESZA + electronic/comedy likes (2012-14 window). 2019-21 NYC loc high but YT low. |
+| 2014–2021 | Lower baseline with small spikes (2020 election). LastWeekTonight entry. FB ODESZA + electronic/comedy likes (2012-14 window). 2019-21 NYC loc high but YT low. **CORRECTION 2026-09-12:** the low YT counts are single-account coverage (second account per dat:1441), not reduced watching. |
 | 2022–2023 | Major resurgence (2k+ each year). Vaush/Majority Report/Pakman dominant + Mr. Beat history. YT Music ramp. Aligns employment block later phase + loc resurgence. |
 | 2024–2025 | Continued high engagement (2025 1.8k to July). Breaking Points, sustained politics/satire + YT Music peak (987). Post-closure + PA return. |
 

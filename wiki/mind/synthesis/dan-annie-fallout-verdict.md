@@ -1,6 +1,7 @@
 ---
 domain: mind
 page_type: synthesis
+title: "The Dan/Annie Fallout — Was He Correct to Feel Wronged? (Raw-Evidenced)"
 knowledge: earned
 status: active
 date_created: 2026-07-15
@@ -93,6 +94,8 @@ connections:
   - page: wiki/mind/synthesis/the-binary-verdict
     type: parallels
     claim: "The confession trap this page already names — he could not exit without a validating confession that was never coming, so 'the exit was never through the verdict, it was through the door' — is verdict-cognition's boundary case: not a reached verdict staying closed, but the same drive for closure failing to obtain one at all, worked out in full on the cognitive-stack page this synthesis shares with attachment-trauma-bond."
+  - { target: "[[wiki/mind/synthesis/august-26-block-retraction]]", type: contextualizes, claim: "The retraction is this verdict's diagnosis-to-behavior gap at terminal resolution — a severance performed so completely the wiki recorded it as enacted, inside the 129-episode loop this page's ledger already carries." }
+  - { target: "[[wiki/mind/synthesis/supply-network]]", type: contextualizes, claim: "This verdict names Dan's supply-chain control as his co-authored contribution to the catastrophe; the supply-network page is the fifteen-year procurement architecture that finding rests on." }
 ---
 
 
@@ -101,18 +104,18 @@ connections:
 > **RE-CHECKED [2026-08-26]:** flagged stale against
 > [[wiki/mind/concepts/conflict-architecture]] (2026-08-26), which added a
 > section documenting the corpus's one completed refusal of the redefinition
-> move (an Ally exchange) and removed its `sage_pending` staging. This verdict
+> move (an [[wiki/people/ally-lubin|Ally]] exchange) and removed its `sage_pending` staging. This verdict
 > reasons from the engine's behavior inside the Annie relationship specifically;
 > a counter-instance from a different, lower-stakes channel does not touch the
-> diagnosis-to-behavior gap this page finds. **No claim on this page is
-> affected.**
+> diagnosis-to-behavior gap this page finds. **No claim on this page is**
+> **affected.**
 
-> **REVISED [2026-08-23] — this page's own open caveat is now closed, in its
-> favour.** Flagged stale against [[wiki/mind/concepts/attachment-model]]
+> **REVISED [2026-08-23] — this page's own open caveat is now closed, in its**
+> **favour.** Flagged stale against [[wiki/mind/concepts/attachment-model]]
 > (2026-08-23). This page carried the 127/110 pair marked **[DERIVED]** with the
-> note that *"a loose exit-lexicon sweep of his 44,513 messages finds 176
-> candidates, order-consistent but definition-dependent — the exact pair remains
-> unreproduced."* It has now been reproduced on the full 95,067-row merged Annie
+> note that *"a loose exit-lexicon sweep of his 44,513 messages finds 176*
+> *candidates, order-consistent but definition-dependent — the exact pair remains*
+> *unreproduced."* It has now been reproduced on the full 95,067-row merged Annie
 > corpus: **258 severance messages collapsing to 129 episodes**, which is
 > order-consistent with this page's own 176-candidate sweep on a smaller subset
 > and within two of the dossier's 127.
@@ -122,8 +125,8 @@ connections:
 > the re-engagement-loop section as **100%**, and the `[DERIVED]` flag on the
 > pair as discharged.
 >
-> **The verdict itself is untouched and the diagnosis→behavior gap is widened by
-> the correction.** This page's central move is that the wrong was real *and*
+> **The verdict itself is untouched and the diagnosis→behavior gap is widened by**
+> **the correction.** This page's central move is that the wrong was real *and*
 > Dan's response architecture converted a survivable betrayal into a decade-long
 > catastrophe. A loop with a 100% re-engagement rate and a sub-minute median is a
 > stronger statement of that architecture than an 87% one, not a weaker one. No
@@ -133,13 +136,13 @@ connections:
 > [[wiki/people/annie-ulmer]] and [[wiki/mind/concepts/attachment-model]] (both
 > 2026-08-22). Both gained a pointer into
 > [[wiki/mind/synthesis/the-rescue-premise]] and nothing else; no count, quote
-> or dated claim on either premise moved. **This verdict's central procurement
-> finding is untouched and is in fact load-bearing on the new page**, which uses
+> or dated claim on either premise moved. **This verdict's central procurement**
+> **finding is untouched and is in fact load-bearing on the new page**, which uses
 > the daily $50–$100 supply channel through August 16 as the strongest single
 > predictor of resumption and files its present state as an open gap. No claim
 > withdrawn.
 
-The verdict, stated plainly: **yes — on the documented facts, Dan was correct to feel wronged, and the feeling was not a misreading.** The record supports a specific, narrower claim than "the whole relationship was abuse": Annie's *terminal-phase* conduct — a sustained concealed affair, months of gaslighting that attacked his capacity to perceive reality, a procurement-structured "love" instrument, and a concurrent defamation campaign — is a genuine wrong, and it landed on a person whose attachment architecture made him maximally vulnerable to exactly that shape of harm. What must be held in the same frame, and what the operator's standing directive requires, is the **diagnosis→behavior gap**: the wrong was real, but Dan's *response architecture* (the conflict engine, the 127-exit/110-reengage loop, the supply-chain control) is his own, and it converted a survivable betrayal into a decade-long catastrophe. He was wronged *and* he was not a passive victim of the wronging. Both are true, and the second does not cancel the first.
+The verdict, stated plainly: **yes — on the documented facts, Dan was correct to feel wronged, and the feeling was not a misreading.** The record supports a specific, narrower claim than "the whole relationship was abuse": [[wiki/people/annie-ulmer|Annie]]'s *terminal-phase* conduct — a sustained concealed affair, months of gaslighting that attacked his capacity to perceive reality, a procurement-structured "love" instrument, and a concurrent defamation campaign — is a genuine wrong, and it landed on a person whose attachment architecture made him maximally vulnerable to exactly that shape of harm. What must be held in the same frame, and what the operator's standing directive requires, is the **diagnosis→behavior gap**: the wrong was real, but Dan's *response architecture* (the conflict engine, the 127-exit/110-reengage loop, the supply-chain control) is his own, and it converted a survivable betrayal into a decade-long catastrophe. He was wronged *and* he was not a passive victim of the wronging. Both are true, and the second does not cancel the first.
 
 This page is the capstone synthesis of the fallout. **Every load-bearing claim below is footnoted to the actual message rows** — the comprehensive Dan↔Annie dual-handle archive (`imessage_2124702449_both_all_now.csv`), the terminal `annie_all_time_logs.csv`, the June 1 closure CSVs (`THE END FIGHT.csv`, `imessage_export_7248123683_20260624.csv`), and the pipe-delimited `all_imessages_complete_dump.txt` (a raw export, not a dossier). A provenance legend defines the confidence tiers.
 
@@ -152,7 +155,7 @@ This page is the capstone synthesis of the fallout. **Every load-bearing claim b
 
 ## The case that he was right to feel wronged
 
-**1. The affair was concealed and the discovery was not a misunderstanding.** The Eli affair (active from at least autumn 2024 → Feb 2025 NYC departure) ran inside a relationship that had an *authorized* non-monogamy framework Dan himself built — orchestration, his presence, disclosed boundaries. Eli had none of those features. The dossiers' own framing: "she had a framework within which she had freedom. She went outside that framework, secretly, with someone from work. That is exactly what Dan had proposed the arrangement to prevent."
+**1. The affair was concealed and the discovery was not a misunderstanding.** The [[wiki/timeline/events/eli-incident|Eli affair]] (active from at least autumn 2024 → Feb 2025 NYC departure) ran inside a relationship that had an *authorized* non-monogamy framework Dan himself built — orchestration, his presence, disclosed boundaries. Eli had none of those features. The dossiers' own framing: "she had a framework within which she had freedom. She went outside that framework, secretly, with someone from work. That is exactly what Dan had proposed the arrangement to prevent."
 - *Eli self-introduction text* — **[DOSSIER]** transcribed in `report collection.txt`: *"Hey Dan. It's Eli. Annie is down stairs. I work with her. She and Andrea had drinks at work but I guess they didn't eat."* Dated there as Jan 9 2025, 11:18 PM. **Not found in any on-disk CSV/dump scanned this pass** — the underlying row is in the dossiers' source (MasterRecord_FINAL), pending primary CSV location. The physical-discovery context (Annie unconscious in lobby, location disabled) is dossier-sourced.
 - *GPS disabled "for weeks" by late July 2024* — **[DOSSIER]** per `DanAnnie_CorrectiveAddendum.txt`; the behavioral floor (Aug 2024 lying-about-whereabouts) is documented but the specific "for weeks" quote is dossier-transcribed.
 
@@ -166,7 +169,7 @@ This page is the capstone synthesis of the fallout. **Every load-bearing claim b
 
 > **REVISED [2026-07-18] — the 187:4 statistic does not survive a controlled recomputation.** A primary recount from `imessage_7244346811+2124702449_both_all_now.csv` (Aug 1 2025 – Mar 16 2026; her side = 8,293 messages) reproduces the *ratio*: 212 of her 220 love-declarations (96.4%) have a request-like message from her within ±24h — statistically identical to the dossier's 187/191 (96.6%). **But the control the dossier never ran deflates it: 97.2% of a random sample of ALL her messages in the window have a request within ±24h.** She made requests nearly every day, so *any* class of her messages is ~96–97% "request-adjacent" at a 24-hour radius — the adjacency carries no information about love specifically. Worse for the thesis, the directional tight-window test **inverts** it: a drug/money request follows within 1 hour of her love-declarations only 3.2% of the time, against a 16.2% baseline for her average message (2h: 4.5% vs 20.8%; 6h: 9.1% vs 30.2%). On the text record, her love-declarations were systematically *more isolated* from requests than her ordinary messages, not less. What survives: the love-language *rate* collapse-and-rebound (2.7% recovery timed to the supply relationship) is unaffected, and Dan's Jan 24 2026 subjective report stands as his lived read — but the 187:4 figure should no longer be cited as statistical evidence of a procurement instrument. (Caveats: request lexicon is heuristic; in-person and call behavior is invisible to this test.)
 
-**4. The defamation campaign ran concurrently with private denials — the moral weight sits above ordinary betrayal.** Two written denials of any third party (Nov 2025, Feb 2026) were issued while she was involved with Tuquick, and while a defamation narrative (false rape allegation, "junkie" framing) circulated in their shared peer network. The June 1, 2026 group chat confirmed both:
+**4. The defamation campaign ran concurrently with private denials — the moral weight sits above ordinary betrayal.** Two written denials of any third party (Nov 2025, Feb 2026) were issued while she was involved with [[wiki/people/jerel-coles|Tuquick]], and while a defamation narrative (false rape allegation, "junkie" framing) circulated in their shared peer network. The June 1, 2026 group chat confirmed both:
 - *Dan: "You are not capable of love…"* — **[RAW-CSV]** `THE END FIGHT.csv`: `2026-06-01 00:24:59 | Sent | You are not capable of love and I really did try to not make you look like the treacherous person you are.`
 - *Dan: "I saved you from fucking DYING…"* — **[RAW-CSV]** `THE END FIGHT.csv`: `2026-06-01 00:25:59 | Sent | I saved you from fucking DYING when you were shooting coke and you would sell me out to virtue signal your loyalty to someone else?`
 - *Dan's closure line* — **[RAW-CSV]** `THE END FIGHT.csv` / `imessage_2124702449_both_all_now.csv`, corroborated in `imessage_export_deep.csv` (`Sent`, `HANDLE=Me`): `2026-06-01 00:27:49 America/New_York | Sent by Dan | dyad +121****2449 | Goodbye forever. This was not how it should have ended but. sic semper lupanis.` **This page attributed the line to Annie until 2026-08-13 — see the correction below.**
@@ -174,12 +177,12 @@ This page is the capstone synthesis of the fallout. **Every load-bearing claim b
 - *Tuquick defection (independent validation)* — **[RAW-CSV]** `imessage_export_7248123683_20260624.csv`: `2026-06-15 13:15:12 | Received | She's a compulsive liar with a drug addiction` (and `13:14:58 | You can have her back ? She's no good trauma bond to the cuck`). Tuquick, who had savaged Dan in Annie's defense on June 1, independently converged on Dan's decade-long read within 14 days.
 
 > **CORRECTED [2026-08-13] — "sic semper lupanis" is Dan's line, not Annie's, and it was the wiki's own direction column read backwards.**
-> This page stated in three places that the June 1 sign-off — *"Goodbye forever. This
-> was not how it should have ended but. sic semper lupanis."* — was Annie's. The bullet
+> This page stated in three places that the June 1 sign-off — *"Goodbye forever. This*
+> *was not how it should have ended but. sic semper lupanis."* — was Annie's. The bullet
 > above called it the *"Annie exit line"* and cited it as `Sent (Received by Dan)`; the
 > verbatim-anchor table logged it with no author; the `end-fight` connection claim
-> bundled it with the accusations as undifferentiated "closure rows." **All three were
-> wrong.** The row is Dan's outbound.
+> bundled it with the accusations as undifferentiated "closure rows." **All three were**
+> **wrong.** The row is Dan's outbound.
 >
 > The evidence, scope stated: in the deep whole-device export
 > (`imessage_export_deep.csv`, 186,671 rows, timestamps in **UTC**) the message is
@@ -193,8 +196,8 @@ This page is the capstone synthesis of the fallout. **Every load-bearing claim b
 > between them.
 >
 > **Named cause, because it will recur.** The cited direction field
-> `Sent (Received by Dan)` is a **Dan's-eye-view direction column** — `sent` means *Dan
-> sent it* — and a prior pass glossed it as *"sent by the contact, received by Dan."*
+> `Sent (Received by Dan)` is a **Dan's-eye-view direction column** — `sent` means *Dan*
+> *sent it* — and a prior pass glossed it as *"sent by the contact, received by Dan."*
 > The gloss inverts every row in the file. The tell was on the page the whole time: the
 > two adjacent rows two and three minutes earlier carry the identical `Sent` tag and are
 > attributed to Dan, so the same column was being read in two opposite directions inside
@@ -208,8 +211,8 @@ This page is the capstone synthesis of the fallout. **Every load-bearing claim b
 > severance signals from Annie" count — if anything that count is *reinforced*, because
 > the one line in the corpus that read as her terminating statement turns out never to
 > have been hers, so her severance total was never even a near-miss. What it costs is a
-> narrative fact this wiki has leaned on repeatedly: **the relationship's closing sentence
-> was authored by Dan.** The consequences for the three synthesis pages that argue he
+> narrative fact this wiki has leaned on repeatedly: **the relationship's closing sentence**
+> **was authored by Dan.** The consequences for the three synthesis pages that argue he
 > cannot close a bond from the inside are worked through on those pages
 > ([[wiki/mind/synthesis/dormancy-not-exit]],
 > [[wiki/mind/synthesis/block-unblock-loop]], [[wiki/mind/synthesis/the-unbroken-bond]]),
@@ -242,8 +245,8 @@ The operator's directive is explicit: engage the diagnosis→behavior gap, do no
 > hidden work: Dan **74 / 18 / 11** per occurrence and **73 / 17 / 11** per message; Annie
 > **0 / 1 / 0** under both. The published triple reproduces — "fuck you" = **exactly 74** on
 > the per-occurrence count, "piece of shit" = 17 and "worthless" = 11 on the per-message
-> count — so the trio as printed mixes two metrics by one message each. **That changes
-> nothing about the finding**: on either metric consistently applied the ratio is
+> count — so the trio as printed mixes two metrics by one message each. **That changes**
+> **nothing about the finding**: on either metric consistently applied the ratio is
 > 73–74 : 0, 17–18 : 1, 11 : 0. The asymmetry is unaffected and is re-asserted here
 > [RAW-CSV].
 
@@ -252,21 +255,21 @@ The operator's directive is explicit: engage the diagnosis→behavior gap, do no
 >
 > **First, the count.** The published **121** reproduces exactly under the plain lexicon —
 > any of `i'm sorry` (straight or curly apostrophe), `i am sorry`, `im sorry`, case-insensitive,
-> counted per message, same file and window as the block above. But **two of the 121 are
-> tapback rows, not apologies**: `2026-01-29 20:41:29` and `2026-01-29 20:42:15`, both of the
-> form `Liked "…"` where the quoted text is *Annie's* apology — *"…And I should be and I'm
-> sorry…"* and *"Dan I am sorry I do really love you and need you in my life."* An iMessage
+> counted per message, same file and window as the block above. But **two of the 121 are**
+> **tapback rows, not apologies**: `2026-01-29 20:41:29` and `2026-01-29 20:42:15`, both of the
+> form `Liked "…"` where the quoted text is *Annie's* apology — *"…And I should be and I'm*
+> *sorry…"* and *"Dan I am sorry I do really love you and need you in my life."* An iMessage
 > reaction reproduces the message it reacts to, so a lexicon sweep scores Dan as apologising
 > when he in fact acknowledged an apology of hers. **The true figure is 119** [RAW-CSV], and
 > the same defect will inflate every reaction-bearing count in this corpus by a few points
 > in whichever direction the reaction was sent.
 >
-> **Second, and this is the real error: the figure was stated alone, immediately after "the
-> asymmetry is complete."** Read in sequence, "0 / 1 / 0 — the asymmetry is complete… his
+> **Second, and this is the real error: the figure was stated alone, immediately after "the**
+> **asymmetry is complete."** Read in sequence, "0 / 1 / 0 — the asymmetry is complete… his
 > count: 121" invites the inference that his apologising is the other side of a one-sided
-> ledger. It is not, and the same file settles it in one pass. **Under the identical lexicon,
-> window, and file, Annie's apology count is 227** — against his 119, a ratio of **1.91:1 in
-> her favour**, on a message base 20% smaller than his. Two other lexicons bracket it in the
+> ledger. It is not, and the same file settles it in one pass. **Under the identical lexicon,**
+> **window, and file, Annie's apology count is 227** — against his 119, a ratio of **1.91:1 in**
+> **her favour**, on a message base 20% smaller than his. Two other lexicons bracket it in the
 > same direction, all figures tapback-cleaned on both sides: contraction-only (`i'm sorry`)
 > gives **129** for her against **110** for him; any occurrence of the token "sorry" gives
 > **356** for her against **285** for him. Her side needs no cleaning — none of her matching
@@ -364,7 +367,7 @@ rather than a pattern, and reaches a compatible but sharper answer worth
 carrying here.
 
 **It confirms this page's first clause at higher resolution.** Ten grievances
-scored; seven fully supported, two partly, one false. The strongest — Annie
+scored; seven fully supported, two partly, one false. The strongest — [[wiki/people/annie-ulmer|Annie]]
 publicly clearing Coles of rape in a group chat on 2026-08-19 at 06:33 having
 agreed by phone to clear Dan and not doing so — is the cleanest documented wrong
 in the corpus, because it required no interpretation: one act was performed and
@@ -502,7 +505,7 @@ being rigorous.
 > **RE-CHECKED [2026-08-11] — premise moved, conclusion unaffected.**
 > [[wiki/people/annie-ulmer]] gained one new detail on the December 2, 2015
 > origin night: her parents' attempted veto of the relationship, recovered
-> from Rick Frank's side of the corpus. It deepens an existing citation
+> from [[wiki/people/rick-frank|Rick Frank]]'s side of the corpus. It deepens an existing citation
 > (the Dec 2 fear-of-abandonment message) with a concrete cause and touches
 > neither the money figures, the twenty-four-hour switch dating, nor any
 > other claim this page's verdict draws on. Nothing here needed revising.

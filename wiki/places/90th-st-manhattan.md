@@ -67,8 +67,8 @@ than a one-off employment change.
 > found the date is contradicted between sources: Dan's own résumé gives
 > "Jan 2011 – Feb 2013," a full year later than the AI-dossier chronology
 > this page had adopted as settled. It also found the specific fraud
-> allegation itself has **no primary-source corroboration anywhere in
-> the corpus** — it exists only in two AI dossiers restating each
+> allegation itself has **no primary-source corroboration anywhere in**
+> **the corpus** — it exists only in two AI dossiers restating each
 > other's language, not two independent accounts. Neither correction
 > changes the "founding case" framing, since the job did end and the
 > vertical-authority pattern this page cites is independently documented

@@ -1,0 +1,20 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 286 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "fbid": "17951770345056594",
+  "label_values": [
+    {
+      "label": "Consent for the processing of user's data by ad partners on Instagram"
+    },
+    {
+      "label": "Update time",
+      "timestamp_value": 1731816341
+    }
+  ],
+  "media": [],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:22:07.476-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:22:07.476Z"
+  },
+  "timestamp": 1528598554
+}

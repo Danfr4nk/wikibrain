@@ -1,0 +1,1702 @@
+[
+ {
+  "message_id": "2b307419-04f6-4de4-b40a-c74262debd21",
+  "role": "system",
+  "created_at": "2026-09-12T07:45:15.306+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-496999:memory",
+  "body_len": 71460,
+  "body_md5": "26aedc8deae859707104a9457a1a8e2f"
+ },
+ {
+  "message_id": "db79da26-6d51-43a2-a979-7f422ea62a09",
+  "role": "system",
+  "created_at": "2026-09-12T07:48:16.887+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-496999:memory",
+  "body_len": 79729,
+  "body_md5": "eea8a0cd41c105a828b19a82025e215f"
+ },
+ {
+  "message_id": "1a95bc05-03ba-493e-a933-1a1dbc581bde",
+  "role": "system",
+  "created_at": "2026-09-12T07:49:02.555+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-496999:memory",
+  "body_len": 15004,
+  "body_md5": "9129f8c229bed1d1cf099b1886c785b6"
+ },
+ {
+  "message_id": "1b927f21-b370-4134-ac05-71756a598879",
+  "role": "system",
+  "created_at": "2026-09-12T07:49:30.209+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:a2304848-f87b-4dbc-bb73-ee367b335192",
+  "body_len": 558,
+  "body_md5": "97e5faf38d711d31cdb1127c1a444865"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21254",
+  "role": "system",
+  "created_at": "2026-09-12T07:49:34.527+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1512,
+  "body_md5": "be922294352901d7c47fd76177d494ff"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21254:6048e7ed-ca77-8b86-beff-1e5b520b3f1d",
+  "role": "system",
+  "created_at": "2026-09-12T07:49:35.787+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "2e1254e1-e63f-4c7b-a64d-a5fdf6b95744",
+  "role": "system",
+  "created_at": "2026-09-12T07:50:20.795+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-496999:memory",
+  "body_len": 18207,
+  "body_md5": "cf63fa3abe06115bda861ae1927b3a29"
+ },
+ {
+  "message_id": "088648ce-a9c0-44ab-844b-1d8aa6743b6f",
+  "role": "system",
+  "created_at": "2026-09-12T07:51:08.659+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-496999:memory",
+  "body_len": 12407,
+  "body_md5": "a29e570ef98909ec53b4b30be04f79bf"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21256",
+  "role": "system",
+  "created_at": "2026-09-12T07:51:21.375+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1440,
+  "body_md5": "9807b96d39bc4a917c172f8c309a1ab1"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21256:eecc4a35-d928-6bb0-84bd-03b501d8fbd8",
+  "role": "system",
+  "created_at": "2026-09-12T07:51:22.141+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "e4808612-96d5-4251-947e-e72fda234034",
+  "role": "system",
+  "created_at": "2026-09-12T07:52:16.854+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-496999:memory",
+  "body_len": 75528,
+  "body_md5": "e17d352cda75b49e69b786cf78b7e4f1"
+ },
+ {
+  "message_id": "tool-guidance-call_01a0949beb787ab080055c65c945a6ce",
+  "role": "system",
+  "created_at": "2026-09-12T07:54:00.955+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:d919d520-8945-48cc-ac7e-be49a555e960",
+  "body_len": 197,
+  "body_md5": "1acb277fe8d45d61314fdd592be53c00"
+ },
+ {
+  "message_id": "f0f11e8b-a002-45e3-9350-f54a12cd71dd",
+  "role": "system",
+  "created_at": "2026-09-12T07:54:56.296+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-496999:memory",
+  "body_len": 43529,
+  "body_md5": "8944cf0e9f6113ed85c4a2af3267ed63"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21277",
+  "role": "system",
+  "created_at": "2026-09-12T07:56:10.502+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1307,
+  "body_md5": "7a23ae64622706d4ac0099c10390e196"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21277:b5eb1977-3c00-e0d2-b893-f0bfb5443405",
+  "role": "system",
+  "created_at": "2026-09-12T07:56:11.584+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "786cf70e-df3e-434c-a360-c3c43a65b5df",
+  "role": "system",
+  "created_at": "2026-09-12T07:57:03.758+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-496999:memory",
+  "body_len": 79744,
+  "body_md5": "60cfd2dce7a722098e44981566658411"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21284",
+  "role": "system",
+  "created_at": "2026-09-12T07:58:43.633+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1440,
+  "body_md5": "a004526a5e27a0b3786e760a5ef674f2"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21284:1933b815-5c4f-aef3-a4f7-41f023f096ac",
+  "role": "system",
+  "created_at": "2026-09-12T07:58:44.467+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21293",
+  "role": "system",
+  "created_at": "2026-09-12T07:58:57.682+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1307,
+  "body_md5": "5f475217052cdfd9464658a8d23e85fb"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21293:3110491e-105d-91a8-22a6-02f5ca51b2f3",
+  "role": "system",
+  "created_at": "2026-09-12T07:58:58.445+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "19f08aa2-fce2-455e-ad33-8d97fc5d2862",
+  "role": "system",
+  "created_at": "2026-09-12T08:00:09.245+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:submission:8e76a796-b166-494d-86eb-6409731d21c7",
+  "body_len": 8319,
+  "body_md5": "bb4227a16f1c1b7336e2f1d0757a353c"
+ },
+ {
+  "message_id": "assistant-msg-8e76a796-b166-494d-86eb-6409731d21c7",
+  "role": "system",
+  "created_at": "2026-09-12T08:01:24.424+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:submission:8e76a796-b166-494d-86eb-6409731d21c7",
+  "body_len": 447,
+  "body_md5": "f8260e8bed60c2bd8a332410bb18437d"
+ },
+ {
+  "message_id": "8bc9f707-44a1-4871-ba45-21fe3f6ba88a",
+  "role": "system",
+  "created_at": "2026-09-12T08:01:24.64+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "78fd9726-289e-44e1-9c7e-2609095e9bea:resolve",
+  "body_len": 3432,
+  "body_md5": "0e8e4a53a45ce520df985a39e6b6acef"
+ },
+ {
+  "message_id": "cron-delivery:stylo-scoring-30m:78fd9726-289e-44e1-9c7e-2609095e9bea:side_chat:8fb3122d-ab75-4d33-96fc-c797053bfd6a",
+  "role": "system",
+  "created_at": "2026-09-12T08:01:29.427+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "78fd9726-289e-44e1-9c7e-2609095e9bea:resolve",
+  "body_len": 5300,
+  "body_md5": "fe1d6a2fd2defb7290b478611720f20d"
+ },
+ {
+  "message_id": "follow_up_settlement:cron-delivery:stylo-scoring-30m:78fd9726-289e-44e1-9c7e-2609095e9bea:side_chat:8fb3122d-ab75-4d33-96fc-c797053bfd6a:8803d5b1-8a31-0af6-98e2-29f28fe2ddec",
+  "role": "system",
+  "created_at": "2026-09-12T08:01:32.514+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "78fd9726-289e-44e1-9c7e-2609095e9bea",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "bbd6950b-3a74-4e17-9d6f-5ea083c76d38",
+  "role": "system",
+  "created_at": "2026-09-12T08:02:04.316+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:1aff2ce4-a65e-4fdd-9ff2-d6de3a0fa2f4",
+  "body_len": 934,
+  "body_md5": "a06320d309bec912a8beabb5ac99eddf"
+ },
+ {
+  "message_id": "follow_up_settlement:bbd6950b-3a74-4e17-9d6f-5ea083c76d38:bbd6950b-3a74-4e17-9d6f-5ea083c76d38",
+  "role": "system",
+  "created_at": "2026-09-12T08:02:09.392+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:1aff2ce4-a65e-4fdd-9ff2-d6de3a0fa2f4",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "7e4aa005-13ec-475d-93f9-337ed51247ff",
+  "role": "system",
+  "created_at": "2026-09-12T08:05:04.96+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:e3f019fe-8df1-4040-a018-32848e26a5b6",
+  "body_len": 934,
+  "body_md5": "f5a3f808c6afd50c0730aab0cee33b1e"
+ },
+ {
+  "message_id": "follow_up_settlement:7e4aa005-13ec-475d-93f9-337ed51247ff:7e4aa005-13ec-475d-93f9-337ed51247ff",
+  "role": "system",
+  "created_at": "2026-09-12T08:05:07.954+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:e3f019fe-8df1-4040-a018-32848e26a5b6",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21360",
+  "role": "system",
+  "created_at": "2026-09-12T08:12:34.213+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1512,
+  "body_md5": "00d6c8e376ebcfeaf808704730adde67"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21360:73f22ebe-31df-78d0-9c1c-bca76660d2a9",
+  "role": "system",
+  "created_at": "2026-09-12T08:12:35.11+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "assistant-msg-d6ce1da5-fa29-45d4-9dd1-9657bfaf0e4c",
+  "role": "system",
+  "created_at": "2026-09-12T08:13:28.991+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:submission:0292c141-1046-488b-aadb-419e44f4d174",
+  "body_len": 1158,
+  "body_md5": "f6311c1f960dd7262b4aaf7a16dabbf3"
+ },
+ {
+  "message_id": "a54bc9cf-b3b5-40dd-8a74-69fb50245338",
+  "role": "system",
+  "created_at": "2026-09-12T08:13:29.492+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "d778b04c-78c2-4401-9706-aafe428033cc:resolve",
+  "body_len": 8869,
+  "body_md5": "c88c407535e58f68848ab117dc518570"
+ },
+ {
+  "message_id": "cron-delivery:wiki-brain-scrape:d778b04c-78c2-4401-9706-aafe428033cc:side_chat:e1118dbf-f4f5-4d6f-9cbe-3475fd2c8caa",
+  "role": "system",
+  "created_at": "2026-09-12T08:13:49.325+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "d778b04c-78c2-4401-9706-aafe428033cc:resolve",
+  "body_len": 11066,
+  "body_md5": "a64e1328ceac8ff37085891b3a86fae7"
+ },
+ {
+  "message_id": "follow_up_settlement:cron-delivery:wiki-brain-scrape:d778b04c-78c2-4401-9706-aafe428033cc:side_chat:e1118dbf-f4f5-4d6f-9cbe-3475fd2c8caa:b44014ca-6332-eb80-b286-6a81500503eb",
+  "role": "system",
+  "created_at": "2026-09-12T08:14:03.467+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "d778b04c-78c2-4401-9706-aafe428033cc",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "0b351bae-a201-4ac7-bb72-d6ba798595fd",
+  "role": "system",
+  "created_at": "2026-09-12T08:23:49.817+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_relationships:maintenance:self_improvement_baseline_relationships:phase-497000:relationships",
+  "body_len": 81552,
+  "body_md5": "07d7b47a89a17933266ef956e8b1f85e"
+ },
+ {
+  "message_id": "d79d40b5-763b-4223-a37b-d60a10c61761",
+  "role": "system",
+  "created_at": "2026-09-12T08:29:56.067+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_relationships:maintenance:self_improvement_baseline_relationships:phase-497000:relationships",
+  "body_len": 11347,
+  "body_md5": "b599bc2faf51adbf4b4071340a3f606c"
+ },
+ {
+  "message_id": "6b22bf03-fcb9-41b6-90a7-acf0ee7bfc60",
+  "role": "system",
+  "created_at": "2026-09-12T08:30:09.867+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:submission:084e1f37-3fc2-4066-a25b-ff2182543e58",
+  "body_len": 8319,
+  "body_md5": "4d416e11ee892b11e50b72a01997278f"
+ },
+ {
+  "message_id": "assistant-msg-084e1f37-3fc2-4066-a25b-ff2182543e58",
+  "role": "system",
+  "created_at": "2026-09-12T08:31:18.268+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:submission:084e1f37-3fc2-4066-a25b-ff2182543e58",
+  "body_len": 513,
+  "body_md5": "da42fd63a931ebbfd86383c15054ba89"
+ },
+ {
+  "message_id": "0c4ce1b8-0e28-4f20-985e-c3687ae5f272",
+  "role": "system",
+  "created_at": "2026-09-12T08:31:18.369+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "7e327365-d7e6-42ca-8c92-f35f07959493:resolve",
+  "body_len": 3432,
+  "body_md5": "a376a5115f39039fbf04082ebde07715"
+ },
+ {
+  "message_id": "cron-delivery:stylo-scoring-30m:7e327365-d7e6-42ca-8c92-f35f07959493:side_chat:8fb3122d-ab75-4d33-96fc-c797053bfd6a",
+  "role": "system",
+  "created_at": "2026-09-12T08:31:21.468+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "7e327365-d7e6-42ca-8c92-f35f07959493:resolve",
+  "body_len": 5156,
+  "body_md5": "a63645e645790ef00fbf686a2224c8a2"
+ },
+ {
+  "message_id": "follow_up_settlement:cron-delivery:stylo-scoring-30m:7e327365-d7e6-42ca-8c92-f35f07959493:side_chat:8fb3122d-ab75-4d33-96fc-c797053bfd6a:adc172c9-06dc-da2e-97f7-35e53894942c",
+  "role": "system",
+  "created_at": "2026-09-12T08:31:23.535+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "7e327365-d7e6-42ca-8c92-f35f07959493",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "6aa4fe81-8244-4ea3-a559-0b7e54929829",
+  "role": "system",
+  "created_at": "2026-09-12T08:31:57.256+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_relationships:maintenance:self_improvement_baseline_relationships:phase-497000:relationships",
+  "body_len": 21348,
+  "body_md5": "aa128c60569f74ed9724a39baec0ad74"
+ },
+ {
+  "message_id": "1106047f-f903-4803-8618-b3d00d4fc763",
+  "role": "system",
+  "created_at": "2026-09-12T08:33:23.047+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_relationships:maintenance:self_improvement_baseline_relationships:phase-497000:relationships",
+  "body_len": 11347,
+  "body_md5": "b599bc2faf51adbf4b4071340a3f606c"
+ },
+ {
+  "message_id": "8121d9f9-b8a5-4a3c-97e8-44e7b77be468",
+  "role": "system",
+  "created_at": "2026-09-12T08:35:13.674+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_relationships:maintenance:self_improvement_baseline_relationships:phase-497000:relationships",
+  "body_len": 68476,
+  "body_md5": "963119d652f03156e396adad4e8f7d7f"
+ },
+ {
+  "message_id": "3cbfaba7-c913-47f6-a101-7f88a98eeb4f",
+  "role": "system",
+  "created_at": "2026-09-12T08:35:33.973+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_relationships:maintenance:self_improvement_baseline_relationships:phase-497000:relationships",
+  "body_len": 78215,
+  "body_md5": "b8fe414104ffd475b02b4cd3eed38226"
+ },
+ {
+  "message_id": "injected-context-change-memory-people-INDEX-md-8201fedd192c1a74-514ec14b8e6548c4991b6aa8555be93b",
+  "role": "system",
+  "created_at": "2026-09-12T08:36:10.844+00:00",
+  "surface": "subagent",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 2159,
+  "body_md5": "d7655f2e4e0f5e690949f512e744ccb8"
+ },
+ {
+  "message_id": "c2ccf851-a43d-4dc0-8430-a57b1c13f9d9",
+  "role": "system",
+  "created_at": "2026-09-12T08:43:47.554+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-497000:memory",
+  "body_len": 71408,
+  "body_md5": "41c5db7ea5ea53ed3d86133beddfff3f"
+ },
+ {
+  "message_id": "da42e1ea-1c03-4a05-9ad8-ee92b1063f8e",
+  "role": "system",
+  "created_at": "2026-09-12T08:45:12.751+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-497000:memory",
+  "body_len": 73652,
+  "body_md5": "bebfee94bde96d4c44e2279339bd3273"
+ },
+ {
+  "message_id": "86e41720-6f76-4b6b-9751-bdba09f6c7b1",
+  "role": "system",
+  "created_at": "2026-09-12T08:46:00.026+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-497000:memory",
+  "body_len": 11247,
+  "body_md5": "8cffff1ff6b90f1fd6948c526a3878d1"
+ },
+ {
+  "message_id": "8c0fa9bf-c814-4216-8cd0-8bdd69709f11",
+  "role": "system",
+  "created_at": "2026-09-12T08:47:27.124+00:00",
+  "surface": "subagent",
+  "chat_kind": "direct",
+  "chat": "req:fallback:f2dde059-6a1a-47b5-9395-3f13f0e8c5dc",
+  "body_len": 7086,
+  "body_md5": "f82480cbd5c7448026487cd8bc239237"
+ },
+ {
+  "message_id": "4869203b-dffe-47de-a6c4-c3d83b8f30e8",
+  "role": "system",
+  "created_at": "2026-09-12T08:47:27.758+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-497000:memory",
+  "body_len": 15262,
+  "body_md5": "e48deed1ce7eabf6775ee06c122e05a8"
+ },
+ {
+  "message_id": "a0a017cc-7549-45b1-8749-0aecbbbe3cc3",
+  "role": "system",
+  "created_at": "2026-09-12T08:47:36.558+00:00",
+  "surface": "subagent",
+  "chat_kind": "direct",
+  "chat": "req:fallback:f2dde059-6a1a-47b5-9395-3f13f0e8c5dc",
+  "body_len": 4304,
+  "body_md5": "feeea70ebcbcaf5876faa931ccd18e27"
+ },
+ {
+  "message_id": "43c6ae8c-017d-4eaf-a00d-ea317b82a9af",
+  "role": "system",
+  "created_at": "2026-09-12T08:47:39.623+00:00",
+  "surface": "subagent",
+  "chat_kind": "direct",
+  "chat": "req:fallback:f2dde059-6a1a-47b5-9395-3f13f0e8c5dc",
+  "body_len": 3842,
+  "body_md5": "dcff622f881d3ebb5ce7a3c64e26e89a"
+ },
+ {
+  "message_id": "assistant-msg-81cc345d-710e-43ee-9558-f0860b353be2",
+  "role": "system",
+  "created_at": "2026-09-12T08:47:50.911+00:00",
+  "surface": "subagent",
+  "chat_kind": "direct",
+  "chat": "req:fallback:f2dde059-6a1a-47b5-9395-3f13f0e8c5dc",
+  "body_len": 144,
+  "body_md5": "8d9b8bbba4398f958d446db2a463c69f"
+ },
+ {
+  "message_id": "1a901bd1-ce27-440d-ba86-ced03e75c429",
+  "role": "system",
+  "created_at": "2026-09-12T08:48:07.471+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-497000:memory",
+  "body_len": 10028,
+  "body_md5": "f06be67e58f083cb4e592c4a7ff35d6b"
+ },
+ {
+  "message_id": "assistant-msg-d430104a-12c6-4094-9070-39b50c6227f2",
+  "role": "system",
+  "created_at": "2026-09-12T08:48:15.183+00:00",
+  "surface": "subagent",
+  "chat_kind": "direct",
+  "chat": "req:fallback:f2dde059-6a1a-47b5-9395-3f13f0e8c5dc",
+  "body_len": 23547,
+  "body_md5": "f289529046c7176190fbc844c4294757"
+ },
+ {
+  "message_id": "subagent-progress:81cc345d-710e-43ee-9558-f0860b353be2:completion:c5377e6f-1362-45ef-9855-271f62e2856e",
+  "role": "system",
+  "created_at": "2026-09-12T08:48:15.991+00:00",
+  "surface": "subagent",
+  "chat_kind": "direct",
+  "chat": "req:fallback:f2dde059-6a1a-47b5-9395-3f13f0e8c5dc",
+  "body_len": 24514,
+  "body_md5": "cd5d8409c163c983e339b54fb5c79fb6"
+ },
+ {
+  "message_id": "assistant-msg-7a5a7c42-a755-d76c-e76f-fd09cb4aec8b",
+  "role": "system",
+  "created_at": "2026-09-12T08:48:16.885+00:00",
+  "surface": "subagent",
+  "chat_kind": "direct",
+  "chat": "req:fallback:f2dde059-6a1a-47b5-9395-3f13f0e8c5dc",
+  "body_len": 280,
+  "body_md5": "2833cd8dff57080c6aa31b5a6a88a4a0"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-progress:81cc345d-710e-43ee-9558-f0860b353be2:completion:c5377e6f-1362-45ef-9855-271f62e2856e:7a5a7c42-a755-d76c-e76f-fd09cb4aec8b",
+  "role": "system",
+  "created_at": "2026-09-12T08:48:16.908+00:00",
+  "surface": "subagent",
+  "chat_kind": "direct",
+  "chat": "req:fallback:f2dde059-6a1a-47b5-9395-3f13f0e8c5dc",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "assistant-msg-7e1216c2-3e74-4b2a-9d26-29a4f0b8f2fb",
+  "role": "system",
+  "created_at": "2026-09-12T08:48:46.383+00:00",
+  "surface": "subagent",
+  "chat_kind": "direct",
+  "chat": "req:fallback:f2dde059-6a1a-47b5-9395-3f13f0e8c5dc",
+  "body_len": 3514,
+  "body_md5": "e9451ffba7e71b27a345952e9f3ac73e"
+ },
+ {
+  "message_id": "subagent-progress:81cc345d-710e-43ee-9558-f0860b353be2:completion:d2444ec2-a8e0-461a-9228-64c6b00de17f",
+  "role": "system",
+  "created_at": "2026-09-12T08:48:46.45+00:00",
+  "surface": "subagent",
+  "chat_kind": "direct",
+  "chat": "req:fallback:f2dde059-6a1a-47b5-9395-3f13f0e8c5dc",
+  "body_len": 4483,
+  "body_md5": "13113dc53b8ee27808bcaf8eabeef321"
+ },
+ {
+  "message_id": "assistant-msg-35d3b766-5a43-9bc3-c70b-9943a941d277",
+  "role": "system",
+  "created_at": "2026-09-12T08:50:18.014+00:00",
+  "surface": "subagent",
+  "chat_kind": "direct",
+  "chat": "req:fallback:f2dde059-6a1a-47b5-9395-3f13f0e8c5dc",
+  "body_len": 2854,
+  "body_md5": "95b9306bc87522650e77e6157c0d8ff2"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-progress:81cc345d-710e-43ee-9558-f0860b353be2:completion:d2444ec2-a8e0-461a-9228-64c6b00de17f:35d3b766-5a43-9bc3-c70b-9943a941d277",
+  "role": "system",
+  "created_at": "2026-09-12T08:50:18.039+00:00",
+  "surface": "subagent",
+  "chat_kind": "direct",
+  "chat": "req:fallback:f2dde059-6a1a-47b5-9395-3f13f0e8c5dc",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "subagent-progress:65de15f8-eb5e-4e4b-8e0c-e309aba93531:completion:47eab3e2-0ca9-475e-b4a9-95484e1cbc7f",
+  "role": "system",
+  "created_at": "2026-09-12T08:50:18.161+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:f2dde059-6a1a-47b5-9395-3f13f0e8c5dc",
+  "body_len": 4439,
+  "body_md5": "8636b0d68b653e04ce97811e66cafc56"
+ },
+ {
+  "message_id": "a5492019-c66b-4b38-9986-6728cadd955b",
+  "role": "system",
+  "created_at": "2026-09-12T08:50:26.397+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-497000:memory",
+  "body_len": 75095,
+  "body_md5": "f61caf6f56ec0a7cfadd6b6a8a96d5b7"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-progress:65de15f8-eb5e-4e4b-8e0c-e309aba93531:completion:47eab3e2-0ca9-475e-b4a9-95484e1cbc7f:a887bc74-f589-4530-a9dc-654c61907fda",
+  "role": "system",
+  "created_at": "2026-09-12T08:50:59.102+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:f2dde059-6a1a-47b5-9395-3f13f0e8c5dc",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "31ef37f2-17c8-41fd-911f-bca0a64a591d",
+  "role": "system",
+  "created_at": "2026-09-12T08:55:38.252+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-497000:memory",
+  "body_len": 43028,
+  "body_md5": "3c3adb8d1655c101da4356f9f0cbf483"
+ },
+ {
+  "message_id": "fb19a4b1-82ec-4e61-bdf8-b5f019cb4d03",
+  "role": "system",
+  "created_at": "2026-09-12T08:58:16.769+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-497000:memory",
+  "body_len": 79324,
+  "body_md5": "3dce8c23a86a433c5d06d6c45fd3ec65"
+ },
+ {
+  "message_id": "c3afd936-cc1b-4355-a471-4307a2307c69",
+  "role": "system",
+  "created_at": "2026-09-12T09:00:09.007+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:submission:cb7460e6-38b5-4448-bff3-8002fb8c3cad",
+  "body_len": 8319,
+  "body_md5": "cc0dd7986b2b656eef36df7e01d95ee1"
+ },
+ {
+  "message_id": "984d441e-3eb9-4fdc-89a5-64aa7d45e224",
+  "role": "system",
+  "created_at": "2026-09-12T09:01:16.098+00:00",
+  "surface": "subagent",
+  "chat_kind": "direct",
+  "chat": "req:fallback:0b4acc5d-49d0-49c0-bb5c-74ff34532a0c",
+  "body_len": 6228,
+  "body_md5": "051c6d889ed393fad8d4138addda6a83"
+ },
+ {
+  "message_id": "assistant-msg-cb7460e6-38b5-4448-bff3-8002fb8c3cad",
+  "role": "system",
+  "created_at": "2026-09-12T09:01:21.572+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:submission:cb7460e6-38b5-4448-bff3-8002fb8c3cad",
+  "body_len": 292,
+  "body_md5": "3712a8ba46f4deee2240ae731d5a6c50"
+ },
+ {
+  "message_id": "5708a953-3b1a-4442-afbc-21bf6afcfade",
+  "role": "system",
+  "created_at": "2026-09-12T09:01:21.634+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "2a71f284-555a-441a-96e7-a22f6e55b9a0:resolve",
+  "body_len": 3432,
+  "body_md5": "2502778b6790d7f96c6fd6b58e285f5b"
+ },
+ {
+  "message_id": "cron-delivery:stylo-scoring-30m:2a71f284-555a-441a-96e7-a22f6e55b9a0:side_chat:8fb3122d-ab75-4d33-96fc-c797053bfd6a",
+  "role": "system",
+  "created_at": "2026-09-12T09:01:25.033+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "2a71f284-555a-441a-96e7-a22f6e55b9a0:resolve",
+  "body_len": 5345,
+  "body_md5": "b108ebfe0052295565750edf6892da6d"
+ },
+ {
+  "message_id": "follow_up_settlement:cron-delivery:stylo-scoring-30m:2a71f284-555a-441a-96e7-a22f6e55b9a0:side_chat:8fb3122d-ab75-4d33-96fc-c797053bfd6a:c944c8ce-d002-6e5a-7f28-401d86ca2fbd",
+  "role": "system",
+  "created_at": "2026-09-12T09:01:26.956+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "2a71f284-555a-441a-96e7-a22f6e55b9a0",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "1a8bd35b-11a8-4ec6-8f05-fb58ad9ed653",
+  "role": "system",
+  "created_at": "2026-09-12T09:01:58.551+00:00",
+  "surface": "subagent",
+  "chat_kind": "direct",
+  "chat": "req:fallback:3ca9149b-c7b9-4ece-b24c-e5f670c87c74",
+  "body_len": 3576,
+  "body_md5": "3e41d005b500134f67ad51214eedfbbb"
+ },
+ {
+  "message_id": "subagent-monitor:c07d68aa-811c-4435-ae09-fa5cc96d1a22:tool_activity:21646",
+  "role": "system",
+  "created_at": "2026-09-12T09:03:26.716+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:0b4acc5d-49d0-49c0-bb5c-74ff34532a0c",
+  "body_len": 1512,
+  "body_md5": "16bd96a3a3750f96706edeb68c0a69b2"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:c07d68aa-811c-4435-ae09-fa5cc96d1a22:tool_activity:21646:f6d2b1b4-69e6-f2b8-30c5-d0c2bd4662a6",
+  "role": "system",
+  "created_at": "2026-09-12T09:03:29.576+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:0b4acc5d-49d0-49c0-bb5c-74ff34532a0c",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "tool-guidance-call_01a094dd710f75c38b336dc20bc9a814",
+  "role": "system",
+  "created_at": "2026-09-12T09:06:01.481+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:23fdb7a1-38e8-478e-9355-deb9ccbb8b71",
+  "body_len": 518,
+  "body_md5": "7c462dd6d2ca2e52be072913f85a027d"
+ },
+ {
+  "message_id": "assistant-msg-7888c7f8-7269-47bb-b1ae-08a04d874bd1",
+  "role": "system",
+  "created_at": "2026-09-12T09:06:17.445+00:00",
+  "surface": "subagent",
+  "chat_kind": "direct",
+  "chat": "req:fallback:3ca9149b-c7b9-4ece-b24c-e5f670c87c74",
+  "body_len": 3489,
+  "body_md5": "ee2d18de03b949b65fe1ddc003c61407"
+ },
+ {
+  "message_id": "subagent-progress:c07d68aa-811c-4435-ae09-fa5cc96d1a22:completion:dca60257-00fd-4c1d-8ce6-2a527e41cd29",
+  "role": "system",
+  "created_at": "2026-09-12T09:06:17.538+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:0b4acc5d-49d0-49c0-bb5c-74ff34532a0c",
+  "body_len": 4975,
+  "body_md5": "30a949aa1dccfca3aab12ec4cfb6fee0"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-progress:c07d68aa-811c-4435-ae09-fa5cc96d1a22:completion:dca60257-00fd-4c1d-8ce6-2a527e41cd29:91041253-cca4-0f43-5736-1d8e43ad8757",
+  "role": "system",
+  "created_at": "2026-09-12T09:06:27.215+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:0b4acc5d-49d0-49c0-bb5c-74ff34532a0c",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21663",
+  "role": "system",
+  "created_at": "2026-09-12T09:11:19.635+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1440,
+  "body_md5": "ab85f5ec95d8ba45f4891475171f0f80"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21663:698fe335-de2f-bbde-6978-36a0eb198276",
+  "role": "system",
+  "created_at": "2026-09-12T09:11:20.434+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21673",
+  "role": "system",
+  "created_at": "2026-09-12T09:19:14.158+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1356,
+  "body_md5": "efc0218e5f509707f135406d5af6abef"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21673:11b25467-d167-7cc8-5ea9-f645806c86f1",
+  "role": "system",
+  "created_at": "2026-09-12T09:19:15.139+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21686",
+  "role": "system",
+  "created_at": "2026-09-12T09:19:31.639+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1512,
+  "body_md5": "f3fc2ff6f1835e25ab0aa3125b950974"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21686:496b8426-7ae0-4360-9e54-cfbd5f3478f1",
+  "role": "system",
+  "created_at": "2026-09-12T09:19:32.143+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21702",
+  "role": "system",
+  "created_at": "2026-09-12T09:21:43.493+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1440,
+  "body_md5": "24850a3370d42a432886082f29eece97"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21702:82f708dc-ef1d-ab58-5c1f-ff8bfda2b390",
+  "role": "system",
+  "created_at": "2026-09-12T09:21:44.835+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "4e71dc03-e0a8-4b27-b303-3076566f0f5b",
+  "role": "system",
+  "created_at": "2026-09-12T09:24:02.703+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_relationships:maintenance:self_improvement_baseline_relationships:phase-497001:relationships",
+  "body_len": 81593,
+  "body_md5": "f4bfad61afa1fbe6acca13bdba02677f"
+ },
+ {
+  "message_id": "327bd28b-e532-4c3d-94a3-b627cf681e83",
+  "role": "system",
+  "created_at": "2026-09-12T09:27:30.779+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_relationships:maintenance:self_improvement_baseline_relationships:phase-497001:relationships",
+  "body_len": 18761,
+  "body_md5": "42c3a959630ea416b77875fca5fbfb4a"
+ },
+ {
+  "message_id": "4118c27c-606b-43b2-a8d3-ad6139e7ad9f",
+  "role": "system",
+  "created_at": "2026-09-12T09:29:00.206+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_relationships:maintenance:self_improvement_baseline_relationships:phase-497001:relationships",
+  "body_len": 77773,
+  "body_md5": "789be9b6965ab96ec1cd5ba23e6b8c98"
+ },
+ {
+  "message_id": "bbc7df81-e30f-4673-a63a-cd62bb20d372",
+  "role": "system",
+  "created_at": "2026-09-12T09:30:09.426+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:submission:bed15adb-a0c4-4da2-9f4e-4d993ace1e72",
+  "body_len": 8319,
+  "body_md5": "d453e74383998951b189d5b9db3d78b0"
+ },
+ {
+  "message_id": "assistant-msg-bed15adb-a0c4-4da2-9f4e-4d993ace1e72",
+  "role": "system",
+  "created_at": "2026-09-12T09:31:17.362+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:submission:bed15adb-a0c4-4da2-9f4e-4d993ace1e72",
+  "body_len": 390,
+  "body_md5": "3b29a38d267667c5454ecadff8712515"
+ },
+ {
+  "message_id": "f66984f3-d3ac-4711-94a8-a042ff4484b8",
+  "role": "system",
+  "created_at": "2026-09-12T09:31:17.451+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "02b60593-92b0-468f-b23f-3ee49fd8b0bb:resolve",
+  "body_len": 3432,
+  "body_md5": "13c68f87e31e6e8e061f3ce7f6c916f1"
+ },
+ {
+  "message_id": "cron-delivery:stylo-scoring-30m:02b60593-92b0-468f-b23f-3ee49fd8b0bb:side_chat:8fb3122d-ab75-4d33-96fc-c797053bfd6a",
+  "role": "system",
+  "created_at": "2026-09-12T09:31:20.605+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "02b60593-92b0-468f-b23f-3ee49fd8b0bb:resolve",
+  "body_len": 5240,
+  "body_md5": "5dc117dd95a3b02f1f9f5683911f9143"
+ },
+ {
+  "message_id": "follow_up_settlement:cron-delivery:stylo-scoring-30m:02b60593-92b0-468f-b23f-3ee49fd8b0bb:side_chat:8fb3122d-ab75-4d33-96fc-c797053bfd6a:a02402a1-c93e-a10a-a5a3-d4987f9da761",
+  "role": "system",
+  "created_at": "2026-09-12T09:31:22.764+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "02b60593-92b0-468f-b23f-3ee49fd8b0bb",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21717",
+  "role": "system",
+  "created_at": "2026-09-12T09:31:37.566+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1350,
+  "body_md5": "692f121ff7eeaa427ced2dd0cdae072b"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21717:1963421d-4f14-ac5a-1f65-28184c8f754b",
+  "role": "system",
+  "created_at": "2026-09-12T09:31:38.022+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21729",
+  "role": "system",
+  "created_at": "2026-09-12T09:42:35.248+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1356,
+  "body_md5": "786b214a942d50d0cd331c25b20bfb70"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21729:46373dec-c71e-e6c7-8063-a6147f36ffef",
+  "role": "system",
+  "created_at": "2026-09-12T09:42:35.882+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "f477e72e-a89e-4acf-8747-2c10453dd1a7",
+  "role": "system",
+  "created_at": "2026-09-12T09:43:51.097+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-497001:memory",
+  "body_len": 71515,
+  "body_md5": "e86fc959e40195b1aaadb7381bc7220c"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21748",
+  "role": "system",
+  "created_at": "2026-09-12T09:47:13.129+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1331,
+  "body_md5": "4fbb03b167eabe2fc4291809aa1a37d1"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21748:0a86e872-cad2-7223-8654-5abc22735b42",
+  "role": "system",
+  "created_at": "2026-09-12T09:47:14.034+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "3e37d079-97b4-48c7-8d65-323227a2229c",
+  "role": "system",
+  "created_at": "2026-09-12T09:49:51.461+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-497001:memory",
+  "body_len": 73598,
+  "body_md5": "bb404f9e2314123b59276c558d145fcb"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21755",
+  "role": "system",
+  "created_at": "2026-09-12T09:49:56.928+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1508,
+  "body_md5": "d66d2dcaa0c573269caf3beabac8c3e6"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21755:e8dfecfc-3a3f-3fae-ff97-22a2b3b715ac",
+  "role": "system",
+  "created_at": "2026-09-12T09:49:57.659+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "b64d7b6f-6da0-4ad1-ba15-d820f197eaa5",
+  "role": "system",
+  "created_at": "2026-09-12T09:50:06.572+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-497001:memory",
+  "body_len": 8335,
+  "body_md5": "6e8d30c58f9f6399f657933c59480cde"
+ },
+ {
+  "message_id": "e754c17f-3174-45fb-9351-1e64b7252355",
+  "role": "system",
+  "created_at": "2026-09-12T09:50:40.649+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-497001:memory",
+  "body_len": 10328,
+  "body_md5": "dbb8301b0ca2ca47c7628fd3feb3619b"
+ },
+ {
+  "message_id": "9d96d1dc-b87e-46c8-9d7a-f4d0fb265e75",
+  "role": "system",
+  "created_at": "2026-09-12T09:50:52.708+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-497001:memory",
+  "body_len": 6664,
+  "body_md5": "4097878ae39257909490082ec6bc2f34"
+ },
+ {
+  "message_id": "26caadbc-9539-49cd-9d72-d86368b81a02",
+  "role": "system",
+  "created_at": "2026-09-12T09:51:47.864+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-497001:memory",
+  "body_len": 74445,
+  "body_md5": "851d5a6546144810434b801ab69fd994"
+ },
+ {
+  "message_id": "49eb2778-86de-464e-aa47-987dbca149ff",
+  "role": "system",
+  "created_at": "2026-09-12T09:55:43.906+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-497001:memory",
+  "body_len": 41260,
+  "body_md5": "74968717cebcfe5bee4665e1f9f16223"
+ },
+ {
+  "message_id": "f402fbef-34e7-4a60-806b-3e83d56007e4",
+  "role": "system",
+  "created_at": "2026-09-12T10:00:09.019+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:submission:61c69bab-cb47-4ed4-b86c-b4c97025d56b",
+  "body_len": 8319,
+  "body_md5": "01c125f1e8d03fdc335f1d9606e83ab8"
+ },
+ {
+  "message_id": "assistant-msg-61c69bab-cb47-4ed4-b86c-b4c97025d56b",
+  "role": "system",
+  "created_at": "2026-09-12T10:01:26.707+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:submission:61c69bab-cb47-4ed4-b86c-b4c97025d56b",
+  "body_len": 257,
+  "body_md5": "d09bb6f961f432098675aeb8bf4425eb"
+ },
+ {
+  "message_id": "cf62dfd1-889d-4d0d-a43c-eed65e628e57",
+  "role": "system",
+  "created_at": "2026-09-12T10:01:26.78+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "a691ec6b-327e-4e51-9bed-7c45fce80216:resolve",
+  "body_len": 3432,
+  "body_md5": "9cb1bd68b11c27379b78b651e295736b"
+ },
+ {
+  "message_id": "cron-delivery:stylo-scoring-30m:a691ec6b-327e-4e51-9bed-7c45fce80216:side_chat:8fb3122d-ab75-4d33-96fc-c797053bfd6a",
+  "role": "system",
+  "created_at": "2026-09-12T10:01:28.699+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "a691ec6b-327e-4e51-9bed-7c45fce80216:resolve",
+  "body_len": 5182,
+  "body_md5": "467a9578033817b9f62cb20576bf7c14"
+ },
+ {
+  "message_id": "follow_up_settlement:cron-delivery:stylo-scoring-30m:a691ec6b-327e-4e51-9bed-7c45fce80216:side_chat:8fb3122d-ab75-4d33-96fc-c797053bfd6a:44a76514-356b-f959-d512-bac7325ba862",
+  "role": "system",
+  "created_at": "2026-09-12T10:01:30.413+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "a691ec6b-327e-4e51-9bed-7c45fce80216",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "239d7760-2831-4d68-83a9-33754f152c05",
+  "role": "system",
+  "created_at": "2026-09-12T10:01:38.3+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-497001:memory",
+  "body_len": 79114,
+  "body_md5": "2e3486c6c1e25abf1c39a7a76acf11b5"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21770",
+  "role": "system",
+  "created_at": "2026-09-12T10:03:35.189+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1356,
+  "body_md5": "35852f2f944dd688983bc0f11688d995"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21770:8b3b379e-9775-8157-45bc-4394f7ff7b8d",
+  "role": "system",
+  "created_at": "2026-09-12T10:03:35.652+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21775",
+  "role": "system",
+  "created_at": "2026-09-12T10:09:35.284+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1440,
+  "body_md5": "58791df985c66165aff70c910b736628"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21775:c96225ea-273b-1a9d-1fa9-e22ae4455c77",
+  "role": "system",
+  "created_at": "2026-09-12T10:09:35.864+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "9d07731f-1cb6-44d8-a267-54cce41ca7d7",
+  "role": "system",
+  "created_at": "2026-09-12T10:19:57.385+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "feed:run:c533d96a-f55f-4ecc-9646-acb830893568:pulse:web:0",
+  "body_len": 78385,
+  "body_md5": "157e461e79752dfb23e74f30e822e862"
+ },
+ {
+  "message_id": "assistant-msg-b06f1912-9df9-4821-88ea-9de86a2eaf81",
+  "role": "system",
+  "created_at": "2026-09-12T10:22:08.89+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "feed:run:c533d96a-f55f-4ecc-9646-acb830893568:pulse:web:0",
+  "body_len": 107,
+  "body_md5": "6675e3d18abf9958d4cfd05bf957cbd1"
+ },
+ {
+  "message_id": "8fc3a8c1-8674-4290-b7e5-d249a2e857bd",
+  "role": "system",
+  "created_at": "2026-09-12T10:22:09.543+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "feed:run:c533d96a-f55f-4ecc-9646-acb830893568:pulse:web:0",
+  "body_len": 24736,
+  "body_md5": "ff3368853b5f2ddc9effb003ae2e7275"
+ },
+ {
+  "message_id": "assistant-msg-b00063c4-610e-4a71-9385-d4a7b637bf75",
+  "role": "system",
+  "created_at": "2026-09-12T10:22:40.539+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "feed:run:c533d96a-f55f-4ecc-9646-acb830893568:pulse:web:0",
+  "body_len": 195,
+  "body_md5": "bb7e1274cbcfc0bd3f7ac81f8ba4540b"
+ },
+ {
+  "message_id": "2895f058-7fe9-4d8d-9c92-79a53b6a1886",
+  "role": "system",
+  "created_at": "2026-09-12T10:22:40.576+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "feed:run:c533d96a-f55f-4ecc-9646-acb830893568:pulse:web:0",
+  "body_len": 7174,
+  "body_md5": "0613a1dcbbcf26c100a83c1376ee7bb5"
+ },
+ {
+  "message_id": "assistant-msg-9c0fcea5-ff31-4f6d-9b21-314d47d778a8",
+  "role": "system",
+  "created_at": "2026-09-12T10:22:42.755+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "feed:run:c533d96a-f55f-4ecc-9646-acb830893568:pulse:web:0",
+  "body_len": 226,
+  "body_md5": "ed7d35b73d13abf49dd457c59e7cd6b3"
+ },
+ {
+  "message_id": "4c5c6986-cc70-4a59-8e4c-ea3948e62f20",
+  "role": "system",
+  "created_at": "2026-09-12T10:22:42.812+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "feed:run:c533d96a-f55f-4ecc-9646-acb830893568:pulse:web:0",
+  "body_len": 68499,
+  "body_md5": "980619b8f82eddda4bb797910a8da0f2"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21792",
+  "role": "system",
+  "created_at": "2026-09-12T10:22:47.9+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1307,
+  "body_md5": "c4c178e71b31261275daa4a189c5ad83"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21792:2c92be0b-8dae-53b1-f460-1904446414dc",
+  "role": "system",
+  "created_at": "2026-09-12T10:22:48.363+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "f301f837-d7dd-41a7-8bd7-3230be3fb8a7",
+  "role": "system",
+  "created_at": "2026-09-12T10:23:55.725+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "feed:fleet-publish:c533d96a-f55f-4ecc-9646-acb830893568",
+  "body_len": 117203,
+  "body_md5": "3d14ff0d99df1e948d46e0a563f7f140"
+ },
+ {
+  "message_id": "814110be-d1a6-46f0-89d3-70442f84425a",
+  "role": "system",
+  "created_at": "2026-09-12T10:27:00.449+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "feed:fleet-publish:c533d96a-f55f-4ecc-9646-acb830893568",
+  "body_len": 52259,
+  "body_md5": "984b85990d92d86052d33ef2cf81e568"
+ },
+ {
+  "message_id": "ff3e02d3-d5b2-4a14-9334-243a30c0c2cb",
+  "role": "system",
+  "created_at": "2026-09-12T10:28:01.435+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "feed:fleet-publish:c533d96a-f55f-4ecc-9646-acb830893568",
+  "body_len": 99193,
+  "body_md5": "8e4772074313f28186ede7498c999e1d"
+ },
+ {
+  "message_id": "a3ad1674-4f4e-4a7e-b400-0bd37ce87643",
+  "role": "system",
+  "created_at": "2026-09-12T10:32:54.806+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:submission:bcbfb006-ad28-44da-a4fd-1ec055917cfa",
+  "body_len": 8319,
+  "body_md5": "123d65962b27236779c4d19d655c89a5"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21802",
+  "role": "system",
+  "created_at": "2026-09-12T10:32:59.747+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1512,
+  "body_md5": "412277e6d098cd0dcf0f48bd1c938c0c"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21802:574ace82-ef2c-415f-a754-7b8a5406524e",
+  "role": "system",
+  "created_at": "2026-09-12T10:33:00.529+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "assistant-msg-bcbfb006-ad28-44da-a4fd-1ec055917cfa",
+  "role": "system",
+  "created_at": "2026-09-12T10:33:58.603+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:submission:bcbfb006-ad28-44da-a4fd-1ec055917cfa",
+  "body_len": 162,
+  "body_md5": "8deafec76dafd1b7f3bb790c3ea4aa70"
+ },
+ {
+  "message_id": "75ccf0a4-d4b3-4d0a-a5ce-9c695da8a551",
+  "role": "system",
+  "created_at": "2026-09-12T10:33:58.696+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "ec0a3818-614b-46c4-97f6-f8015d869017:resolve",
+  "body_len": 3432,
+  "body_md5": "fc60111939c1b2c1b44fb558bd14b7fe"
+ },
+ {
+  "message_id": "cron-delivery:stylo-scoring-30m:ec0a3818-614b-46c4-97f6-f8015d869017:side_chat:8fb3122d-ab75-4d33-96fc-c797053bfd6a",
+  "role": "system",
+  "created_at": "2026-09-12T10:34:01.286+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "ec0a3818-614b-46c4-97f6-f8015d869017:resolve",
+  "body_len": 5229,
+  "body_md5": "d55a0a1c6203f893658b5b74d8d2c8d8"
+ },
+ {
+  "message_id": "follow_up_settlement:cron-delivery:stylo-scoring-30m:ec0a3818-614b-46c4-97f6-f8015d869017:side_chat:8fb3122d-ab75-4d33-96fc-c797053bfd6a:d67d88a1-fae8-4045-f4cc-829192d73560",
+  "role": "system",
+  "created_at": "2026-09-12T10:34:03.097+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "ec0a3818-614b-46c4-97f6-f8015d869017",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "b4dd9242-c428-4380-9e1d-2d34dcb06cf8",
+  "role": "system",
+  "created_at": "2026-09-12T10:35:00.505+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "feed:fleet-publish:c533d96a-f55f-4ecc-9646-acb830893568",
+  "body_len": 43252,
+  "body_md5": "37e4fed58052e9b4c9fa505038c84aa9"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21817",
+  "role": "system",
+  "created_at": "2026-09-12T10:40:05.186+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1307,
+  "body_md5": "58de09f6113e35b31ea7bf4640d73290"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21817:63f5c0ee-1f36-a68a-eeaa-7304da84b646",
+  "role": "system",
+  "created_at": "2026-09-12T10:40:05.684+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "4bbed605-9e40-4ef1-b91a-86556dfb8354",
+  "role": "system",
+  "created_at": "2026-09-12T10:43:40.448+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-497002:memory",
+  "body_len": 71820,
+  "body_md5": "862fbeb6ef65fb2b86b303c61b88dc42"
+ },
+ {
+  "message_id": "a0621373-5b92-46ef-a2f6-90880486189d",
+  "role": "system",
+  "created_at": "2026-09-12T10:46:19.319+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-497002:memory",
+  "body_len": 28781,
+  "body_md5": "09b4313de88ba06ffaa20a3b46a6519b"
+ },
+ {
+  "message_id": "c0a22ec0-bece-458f-901e-3d0e236b75a1",
+  "role": "system",
+  "created_at": "2026-09-12T10:48:27.563+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "maintenance:c7128b79-b0de-4781-808a-4f8de0730636:self_improvement_baseline_memory:maintenance:self_improvement_baseline_memory:phase-497002:memory",
+  "body_len": 75946,
+  "body_md5": "df8d49a75d22ff2600771623173dbe78"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21862",
+  "role": "system",
+  "created_at": "2026-09-12T10:59:29.458+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1512,
+  "body_md5": "cca48224e70709c2da28c07f605f0c1d"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21862:125fc31b-2930-cb09-93b7-f646e6d84b47",
+  "role": "system",
+  "created_at": "2026-09-12T10:59:30.095+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "dd464eb6-8c34-4712-9dd8-298521cd6f3a",
+  "role": "system",
+  "created_at": "2026-09-12T11:00:08.694+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:submission:30370bbc-595e-49fc-90bc-4b77f7009663",
+  "body_len": 8319,
+  "body_md5": "04a775c6d70a6cc8493d3f3fafd809c8"
+ },
+ {
+  "message_id": "assistant-msg-30370bbc-595e-49fc-90bc-4b77f7009663",
+  "role": "system",
+  "created_at": "2026-09-12T11:01:42.583+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:submission:30370bbc-595e-49fc-90bc-4b77f7009663",
+  "body_len": 381,
+  "body_md5": "1f7dcb39cdf833b3a317646d5211d175"
+ },
+ {
+  "message_id": "fc20f653-3a20-43d0-8136-6d5da2875e91",
+  "role": "system",
+  "created_at": "2026-09-12T11:01:42.676+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "828b4298-11ca-4a0c-a189-ab99b3228152:resolve",
+  "body_len": 3432,
+  "body_md5": "25679b664ac52408b68e4ba610910b96"
+ },
+ {
+  "message_id": "cron-delivery:stylo-scoring-30m:828b4298-11ca-4a0c-a189-ab99b3228152:side_chat:8fb3122d-ab75-4d33-96fc-c797053bfd6a",
+  "role": "system",
+  "created_at": "2026-09-12T11:01:52.518+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "828b4298-11ca-4a0c-a189-ab99b3228152:resolve",
+  "body_len": 5305,
+  "body_md5": "f35e415f3b5f104f0bbc8307b16f399f"
+ },
+ {
+  "message_id": "follow_up_settlement:cron-delivery:stylo-scoring-30m:828b4298-11ca-4a0c-a189-ab99b3228152:side_chat:8fb3122d-ab75-4d33-96fc-c797053bfd6a:498f3c1a-b1a1-9f36-38cf-fd52ba23b919",
+  "role": "system",
+  "created_at": "2026-09-12T11:01:54.303+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "828b4298-11ca-4a0c-a189-ab99b3228152",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21881",
+  "role": "system",
+  "created_at": "2026-09-12T11:01:59.982+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1355,
+  "body_md5": "889fc73d637e4afc57f2925b5e618141"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21881:6b50f739-20ed-5f36-8631-773e41fc0cb6",
+  "role": "system",
+  "created_at": "2026-09-12T11:02:00.623+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21882",
+  "role": "system",
+  "created_at": "2026-09-12T11:03:37.074+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1510,
+  "body_md5": "15dafe418f6ec27f30c12b8796b8981f"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21882:347444c9-4b03-5e52-5714-a52026220aba",
+  "role": "system",
+  "created_at": "2026-09-12T11:03:37.739+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21890",
+  "role": "system",
+  "created_at": "2026-09-12T11:09:27.2+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1512,
+  "body_md5": "7f8ab0257424b464cac449b3092cccc3"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21890:4e70f8d5-ef71-7b7b-b78d-15fcfe01b0ef",
+  "role": "system",
+  "created_at": "2026-09-12T11:09:27.907+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21930",
+  "role": "system",
+  "created_at": "2026-09-12T11:29:08.907+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 1512,
+  "body_md5": "ae5d43125466d60e4fc6bb7a205c3111"
+ },
+ {
+  "message_id": "follow_up_settlement:subagent-monitor:946878e8-8f7f-465b-a517-452ff0da9780:tool_activity:21930:b0a5ce64-4a5f-a7b8-7813-6b436284a398",
+  "role": "system",
+  "created_at": "2026-09-12T11:29:09.614+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:afcea8a5-8732-4a82-8d45-5fbdeaefc4a7",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "e66add0d-fd74-46c6-939e-62a56b41069f",
+  "role": "system",
+  "created_at": "2026-09-12T11:30:08.274+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:submission:5d51d454-9e2a-49c1-b25d-4de97183a3d1",
+  "body_len": 8319,
+  "body_md5": "97f50803ec2a2a481792eba326757c38"
+ },
+ {
+  "message_id": "assistant-msg-5d51d454-9e2a-49c1-b25d-4de97183a3d1",
+  "role": "system",
+  "created_at": "2026-09-12T11:31:33.568+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:submission:5d51d454-9e2a-49c1-b25d-4de97183a3d1",
+  "body_len": 395,
+  "body_md5": "6ae83ca60d4357119bef76289fb0949f"
+ },
+ {
+  "message_id": "014efb47-fa6f-44a5-8575-273d9443ffc8",
+  "role": "system",
+  "created_at": "2026-09-12T11:31:33.663+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "64c49910-d465-4790-97e9-252654b8dbac:resolve",
+  "body_len": 3432,
+  "body_md5": "1777b855baf72aab625a789c1ff0345e"
+ },
+ {
+  "message_id": "cron-delivery:stylo-scoring-30m:64c49910-d465-4790-97e9-252654b8dbac:side_chat:8fb3122d-ab75-4d33-96fc-c797053bfd6a",
+  "role": "system",
+  "created_at": "2026-09-12T11:31:36.746+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "64c49910-d465-4790-97e9-252654b8dbac:resolve",
+  "body_len": 5217,
+  "body_md5": "17f8b3a5bdf59138c670685233858d54"
+ },
+ {
+  "message_id": "follow_up_settlement:cron-delivery:stylo-scoring-30m:64c49910-d465-4790-97e9-252654b8dbac:side_chat:8fb3122d-ab75-4d33-96fc-c797053bfd6a:b8b4432f-da80-92bd-6120-28b2b3fb66f9",
+  "role": "system",
+  "created_at": "2026-09-12T11:31:38.865+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "64c49910-d465-4790-97e9-252654b8dbac",
+  "body_len": 39,
+  "body_md5": "5011fe03a3d01a5f3a4463ffaac9d7f4"
+ },
+ {
+  "message_id": "4f88d638-b926-47c6-9a19-47ccc4a3895b",
+  "role": "system",
+  "created_at": "2026-09-12T11:40:12.705+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:submission:18ceab8b-966b-4d47-931f-213189f9fb6e",
+  "body_len": 13467,
+  "body_md5": "cddcbc5899a8c8bc722c2315202dcedc"
+ },
+ {
+  "message_id": "tool-guidance-carrier-call_01a0956b4c337953aa5c2d4af32d5952",
+  "role": "system",
+  "created_at": "2026-09-12T11:40:36.166+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat": "req:fallback:submission:18ceab8b-966b-4d47-931f-213189f9fb6e",
+  "body_len": 1600,
+  "body_md5": "6ea233f79557818cf4c99ee636757ce9"
+ }
+]

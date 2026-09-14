@@ -1,0 +1,24 @@
+{
+ "source": "Google Takeout takeout-20260103T040931Z-3-002 (part 1)",
+ "repo_prefix": null,
+ "drive_id": "1iXw3onpgXUtN9huey54qPV7ctnc0ffuF",
+ "drive_name": "takeout-20260103T040931Z-3-002.zip",
+ "ingest_date": "2026-09-11",
+ "file_count": 1,
+ "total_bytes": 17825759,
+ "skips": [
+  {
+   "path": "Takeout/My Activity/Chrome/MyActivity.html",
+   "size": 45766626,
+   "reason": "API blob upload 422: input too large; requires git-based push"
+  },
+  {
+   "path": "Takeout/My Activity/Search/MyActivity.html",
+   "size": 103777922,
+   "reason": ">=100MB: exceeds GitHub single-file/blob cap; not split per instructions"
+  }
+ ],
+ "conversions": [],
+ "notes": "YouTube MyActivity.html (17MB). Chrome file (45MB) exceeds blob API limit; Search file (103MB) exceeds 100MB cap.",
+ "extra": {}
+}

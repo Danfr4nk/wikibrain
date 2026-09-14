@@ -1,0 +1,6 @@
+# Gap / linkage candidates found during red-team-probe-series research (2026-09-13)
+
+- `wiki/work/tech/image-lab.md` — NEW ARTICLE. The image-lab workstream has no wiki article despite being the room where the 09-10 battery, the 09-11 episodes, and the 09-12 dukes probe all happened; dat:1459 (avatar history ledger) and dat:1472 (gallery + NN naming rule) plus character-tags.md are all unarticled. The probe series keeps citing a room that has no page.
+- `wiki/self/concepts/claude.md` — DATED CORRECTION (existing page). Still describes Claude as the analytical workhorse; the 2026-09-12 subscription cancellation (dat:1463, after the hidden-answer probe) changed the described reality. dat:1463's own Reading flags it.
+- `kb/data/` datum for the 2026-08-14 corpus-manipulation probe — NEW NODE. Earliest series episode is attested only by type+date (MEMORY.md one-liner, dat:1488 series list); no transcript, no quotes. If a transcript surfaces, it needs its own datum.
+- Systematic re-read of the 2026 chat record for probe-shaped episodes — RESEARCH TASK. The 09-10 Wikipedia-clone head-to-head reclassifies retrospectively as a concealed-answer probe; "not failed a single test of mine yet" (plural) implies unrecorded episodes. Past "benchmarks" may be probes filed as ordinary tasks.

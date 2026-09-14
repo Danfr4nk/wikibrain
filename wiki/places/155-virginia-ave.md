@@ -4,7 +4,7 @@ page_type: entity
 title: "155 Virginia Ave"
 status: closed
 date_created: 2026-07-13
-date_modified: 2026-08-28
+date_modified: 2026-09-12
 sources:
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
   - raw/self/dox-md/operating_manual.md
@@ -43,6 +43,9 @@ connections:
   - page: wiki/mind/synthesis/bond-switch-2015
     type: evidences
     claim: "The lair-continuity documented at this address is spatial proof the switch was a swap, not a relocation."
+  - page: wiki/people/casey-bondarenka
+    type: co-occurs
+    claim: "Per Dan's 2026-09-12 testimony, Casey took the uncured 'Dream Queen' harvest grown at this address and smoked it in one night during the switch — inside his documented 2015-11-29 to 2015-12-02 household presence (dat:casey-uncured-harvest-dream-queen-20260912)."
   - page: wiki/people/zachariah-harshman
     type: evidenced-by
     claim: "From January 2015 the address is Zach's consistent handoff location ('front door is open, i'm in the kitchen'), placing the earliest documented Uniontown supply node inside this same house — and inside the same month the Alexis-to-Annie transfer he later reacts to takes place."
@@ -91,9 +94,45 @@ they were Fran's caregivers until her March 2018 fall — paid full-time for rou
 the terminal vigil — Dan was served an eviction notice for 155 Virginia by
 Dian V. Moore, demanding the keys.
 
-> **GAP CLOSED [2026-08-22]:** This page read, until now, *"the residence
-> timeline has him staying until February 2019, so the notice's outcome is
-> undocumented."* It is documented. A Fayette County summary summons filed
+> **PHOTO LOCATION [2026-09-12].** The 2015-12-11 Fran bong triple — three
+> iPhone frames of Fran Coldren, then 95, posing delightedly with Dan's
+> glass bong — was taken **at this address**, not at Fran's house as the
+> 2026-09-11 batch recorded. Dan stated it outright 2026-09-12, and the
+> EXIF GPS (39.887639,-79.721992) lands 29.6m from the geocoded 155
+> Virginia Ave point versus 83.4m from 117 Belmont Cir
+> (`dat:bong-photos-gps-virginia-ave-20260912`; the earlier Hopwood-house
+> attribution in `dat:1409` is superseded, with indoor-GPS caveats kept on
+> the record). Fran at the Virginia Avenue lair, two months into the Annie
+> relationship: she was a guest in their space, not the other way around.
+
+> **THE GROW [2026-09-12].** The lair grew its own supply. Dan sent fifteen
+> EXIF-dated photographs (2015-08-18 through 2015-11-01) documenting an indoor
+> cannabis grow at this address, seedling to late flower: vegetative growth in
+> terracotta pots under CFL lighting — Energetic-branded CFLs, a clamp lamp, a
+> desk-lamp rig — then early flower with white pistils (Oct 9), developed colas
+> with ambering pistils (Oct 28), and a trichome macro (Nov 1). A home setup,
+> nothing professional; one frame shows two pots, so at least two plants. GPS
+> on thirteen of fifteen frames clusters at the 155 Virginia fix (the Nov 1
+> macro came from a Samsung Galaxy S4, no GPS). Dan's testimony, filed as his:
+> zero growing experience or knowledge, grown in a closet with clamp lights and
+> incandescent bulbs. The strain was his favorite, and he gave it his own name:
+> **"Dream Queen"** — his label, not a verified strain ID
+> (`dat:virginia-ave-grow-timeline-2015`, `dat:virginia-ave-grow-flower-2015`).
+> The series ends in late flower, four weeks before the switch; the harvest
+> itself was never photographed — because per Dan's 2026-09-12 testimony it
+> never got the chance: [[wiki/people/casey-bondarenka|Casey]]
+> took it before it had cured and smoked it all in one night during the
+> Alexis-to-Annie switch (`dat:casey-uncured-harvest-dream-queen-20260912`).
+> The taking rests on his testimony alone, but the window fits the one
+> independently documented fact about Casey: he was inside this household
+> 2015-11-29 through 2015-12-02, the exact fortnight of the handoff. The
+> irony is load-bearing, not decorative: the container that held constant
+> across the attachment transfer was, in the months before the transfer,
+> literally cultivating. (Representative frame thumbnailed in Sources, below.)
+
+> **GAP CLOSED [2026-08-22]:** This page read, until now, *"the residence*
+> *timeline has him staying until February 2019, so the notice's outcome is*
+> *undocumented."* It is documented. A Fayette County summary summons filed
 > **April 5, 2018** — seven days after the notice — gives the defendant's
 > address as **337 Saratoga Dr, Uniontown PA 15401**
 > ([[wiki/timeline/events/uniontown-hospital-vape-alarm]], docket
@@ -142,9 +181,9 @@ because Dan's own account places that night while Alexis was still being hidden
 at 337 Saratoga and *before* the move here. The contradiction is recorded on
 the arrest page; a lease or a dated message from the move would settle it.
 
-> **A second, differently-dated account of a similarly-shaped episode
-> surfaced 2026-08-28, and it complicates rather than settles the
-> contradiction above.** A 2026-08-27 operator capture
+> **A second, differently-dated account of a similarly-shaped episode**
+> **surfaced 2026-08-28, and it complicates rather than settles the**
+> **contradiction above.** A 2026-08-27 operator capture
 > (`raw/people/captures/2026-08-27_223406_gap-alexis-armel.md`, full account
 > on [[wiki/people/alexis-armel]]) describes Suz throwing Alexis out of the
 > house over a March **2014** washing-machine incident, followed by five
@@ -167,3 +206,9 @@ different resolutions or two separate episodes is now the page's most
 consequential open question.
 
 
+
+## Sources
+
+[![Dream Queen grow, 155 Virginia Ave, 2015-10-04](../../media/upload-038.jpg)](../../media/upload-038.jpg)
+
+*Dream Queen grow, 155 Virginia Ave, 2015-10-04 — representative frame from the fifteen-photo seedling-to-flower series (`dat:virginia-ave-grow-timeline-2015`).*

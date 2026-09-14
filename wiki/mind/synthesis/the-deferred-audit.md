@@ -91,23 +91,23 @@ connections:
 > **RE-CHECKED [2026-08-26]:** flagged stale against
 > [[wiki/mind/synthesis/single-channel]] (2026-08-26), which added a section
 > reading the no-failover architecture's intensity as an entry condition for
-> one relational object (Ally) rather than only a cost. **No claim on this
-> page is affected** — this page cites single-channel's provenance-rule
+> one relational object (Ally) rather than only a cost. **No claim on this**
+> **page is affected** — this page cites single-channel's provenance-rule
 > framing, not its relational-substitution material.
 
-> **RE-CHECKED [2026-09-04] — the premise gained real material, and the
-> deferral argument survives it unchanged.**
+> **RE-CHECKED [2026-09-04] — the premise gained real material, and the**
+> **deferral argument survives it unchanged.**
 > [[wiki/mind/concepts/the-cool-metric]] moved on 2026-09-04 by gaining a
-> substantive section, not a re-check note: the twitter archive shows *splitting
-> via irony* aimed at a six-year live-in partner rather than at strangers, with
+> substantive section, not a re-check note: the twitter archive shows *splitting*
+> *via irony* aimed at a six-year live-in partner rather than at strangers, with
 > affection in the public register falling from 12 of 32 mentions in 2010 to 3
 > of 47 across 2011–2014 and stopping entirely twenty-four months before the
-> relationship ended. **This page reasons from that page's received-versus-sought
-> axis and from its inward sub-bass case, and neither moved.** No claim here is
+> relationship ended. **This page reasons from that page's received-versus-sought**
+> **axis and from its inward sub-bass case, and neither moved.** No claim here is
 > withdrawn or narrowed.
 >
-> **What the new material does raise, and this page is deliberately not
-> answering yet.** A partner is a chosen object, and this page's rule is that
+> **What the new material does raise, and this page is deliberately not**
+> **answering yet.** A partner is a chosen object, and this page's rule is that
 > chosen objects are audited *late*, not never. A public register that runs warm
 > for one year, ironic for four, and then to zero is the shape a deferred audit
 > would leave if one landed there — but "shape consistent with" is not evidence,
@@ -129,8 +129,8 @@ connections:
 > both had been sitting behind a query nobody had executed rather than behind
 > missing data.
 
-> **RE-CHECKED [2026-08-22] — premise moved by a re-check block only, at the
-> end of a four-link chain.** [[wiki/mind/synthesis/single-channel]] moved on 2026-08-22
+> **RE-CHECKED [2026-08-22] — premise moved by a re-check block only, at the**
+> **end of a four-link chain.** [[wiki/mind/synthesis/single-channel]] moved on 2026-08-22
 > solely by gaining a `RE-CHECKED` blockquote. Walking the chain back: it leads
 > to the April 2018 hospital summons
 > ([[wiki/timeline/events/uniontown-hospital-vape-alarm]]), a court document that
@@ -144,8 +144,8 @@ connections:
 > the change; **no claim on this page is affected** and nothing here is
 > withdrawn. One of those edges is worth this page's attention later: [[wiki/mind/concepts/document-fabrication]] records the forensic faculty run in reverse, producing a document calibrated to survive inspection. That is the audit engine pointed at manufacture rather than detection, and it is the same not-taking-itself-as-object property this page names. Flagged, not annexed.
 
-> **RE-CHECKED [2026-08-21] — three premises moved, all by re-check blocks
-> only.** [[wiki/mind/concepts/the-cool-metric]],
+> **RE-CHECKED [2026-08-21] — three premises moved, all by re-check blocks**
+> **only.** [[wiki/mind/concepts/the-cool-metric]],
 > [[wiki/mind/synthesis/single-channel]] and
 > [[wiki/interests/food-and-diet]] all moved on 2026-08-21, and in each case
 > the whole change is a `RE-CHECKED` blockquote recording that the page's own
@@ -194,8 +194,8 @@ biography.
 > obligation on climbs from non-primary premises. One member,
 > [[wiki/mind/concepts/forensic-method]], is `knowledge: mixed` — its account of
 > the anomaly-detection engine draws substantially on Gemini dossier material.
-> **The primary evidence this page adds that its premise lacked is the timing
-> column**: every row of the two-clocks table below is anchored to a dated event
+> **The primary evidence this page adds that its premise lacked is the timing**
+> **column**: every row of the two-clocks table below is anchored to a dated event
 > in the message record, the workplace record or a residence/transaction record,
 > and the rule survives even if the interpretive account of *how* the engine
 > works is wrong — because the finding is about **when** it fires, and firing
@@ -211,8 +211,8 @@ biography.
 > load-bearing the selection was.~~
 >
 > **Narrowed the same day, by prediction 1 (see below):** every object in this
-> life is audited by the same forensic engine, and provenance determines **when
-> the first audit fires**. Imposed objects are audited on contact or before.
+> life is audited by the same forensic engine, and provenance determines **when**
+> **the first audit fires**. Imposed objects are audited on contact or before.
 > Selected objects are audited only after they fail, with the delay scaling to
 > how load-bearing the selection was — **and once audited, they stay audited**,
 > so real-time assessment is available on every subsequent engagement. The lag
@@ -436,14 +436,14 @@ That is an interpretation. The two clocks are not.
    other direction, and which the 2026-08-02 write-back audit is the first
    counter-instance of.
 
-> **CORRECTED [2026-08-02] — the food row was wrong, and the correction
-> strengthens the rule.** This page listed food alongside the pets as a
+> **CORRECTED [2026-08-02] — the food row was wrong, and the correction**
+> **strengthens the rule.** This page listed food alongside the pets as a
 > "protected class" whose audit is scheduled for never. A capture filed the same
 > day documents an **absolute composition regime**: every permitted item is a
 > named food with its additions stripped (cheeseburger = meat, cheese, bread),
 > only corn and lettuce are accepted among vegetables, and anything containing
-> onion, tomato or pickle is refused outright as *"an absolute, dealbreaking,
-> no-questions-asked policy."*
+> onion, tomato or pickle is refused outright as *"an absolute, dealbreaking,*
+> *no-questions-asked policy."*
 >
 > That is not an absent audit. It is a **preemptive** one, running at maximum
 > stringency on every object, and the criterion is exactly this page's: a plate
@@ -599,8 +599,8 @@ comparison, or the Arnu prediction above — and are noted here only because
   against `supply-network`'s own account of the same relationship — a real
   next step, not a finding claimed here.
 
-> **RE-CHECKED [2026-08-08] — the mechanism survives and gains a second
-> instance.** [[wiki/mind/synthesis/the-unbroken-bond]] moved on 2026-08-08
+> **RE-CHECKED [2026-08-08] — the mechanism survives and gains a second**
+> **instance.** [[wiki/mind/synthesis/the-unbroken-bond]] moved on 2026-08-08
 > without altering the premise this page rests on: a slot that must stay
 > occupied is a slot whose occupant cannot be audited on arrival. The Alexis
 > rewrite behind that movement supplies the same shape one relationship
@@ -619,14 +619,14 @@ comparison, or the Arnu prediction above — and are noted here only because
 > argument. No new claim, date, or figure entered either page. This page's
 > dependency on both is untouched.
 
-> **RE-CHECKED [2026-08-15] — both open premises closed; one of them confirms
-> this page rather than merely sparing it.**
+> **RE-CHECKED [2026-08-15] — both open premises closed; one of them confirms**
+> **this page rather than merely sparing it.**
 > [[wiki/mind/synthesis/the-unbroken-bond]] (2026-08-15) retracted the "Alexis
 > cheating revelation" from the November 2015 sequence: the message it rested
 > on describes a **2009** episode, and the corpus places Alexis in Dan's house
 > until December 1 and in Pennsylvania until January 2016
-> ([[wiki/mind/synthesis/bond-switch-2015]]). **This is a direct confirmation of
-> the 2026-08-08 block above**, which already read the Alexis occupancy as "an
+> ([[wiki/mind/synthesis/bond-switch-2015]]). **This is a direct confirmation of**
+> **the 2026-08-08 block above**, which already read the Alexis occupancy as "an
 > entry with no audit, a tenure with no audit, and an exit that was a
 > substitution rather than a finding." That last clause was the weakest of the
 > three while a betrayal sat in the week — a betrayal *is* a finding, and an

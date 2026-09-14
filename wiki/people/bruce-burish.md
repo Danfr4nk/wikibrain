@@ -78,9 +78,9 @@ October 27 with no indication the November visit happened.
 | Source of direction | `all_imessages_complete_dump.txt` |
 
 > **CORRECTED [2026-08-20]:** both versions of this page reported the thread as
-> **181 messages**, and the stub added that they were *"all received (export
-> artifact — Dan's outbound not captured)."* **181 is exactly the received
-> count.** `MASTER_MESSAGES_DB_DUMP.csv` marks everything `Received`, so a page
+> **181 messages**, and the stub added that they were *"all received (export*
+> *artifact — Dan's outbound not captured)."* **181 is exactly the received**
+> **count.** `MASTER_MESSAGES_DB_DUMP.csv` marks everything `Received`, so a page
 > built from it reports one-sided threads; the complete dump returns **348**
 > records on this handle — 167 of them Dan's. There was no export artifact
 > swallowing his side, only the wrong file. This is the same failure documented

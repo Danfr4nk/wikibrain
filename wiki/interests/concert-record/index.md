@@ -99,22 +99,22 @@ and dismissed it at 23:07, and it left no trace in the record he later
 compiled. A concert log is a record of intentions; a contemporaneous feed is a
 record of evenings.
 
-> **GAP NARROWED [2026-09-04]:** row 36 read *"Hey Monday · 2008 · Unknown ·
-> Orlando, FL · Still open — band formed 2008 in West Palm Beach; exact Orlando
-> show unresolved."* Two tweets date it without touching the billing question:
-> **2008-12-19** *"I don't want to go to cold, lame PA. Be back on the 28th for
-> hey Monday :)"* — posted from Orlando the day he flew home for Christmas —
-> and **2008-12-27 19:40 EST** *"Flying to Orlando for hey monday tomorrow.
-> Wooo"*, followed by *"Hate airport days."* at 10:38 on the 28th. He flew back
-> to Florida early, mid-holiday, for this one show. **The date is 28 December
-> 2008.**
+> **GAP NARROWED [2026-09-04]:** row 36 read *"Hey Monday · 2008 · Unknown ·*
+> *Orlando, FL · Still open — band formed 2008 in West Palm Beach; exact Orlando*
+> *show unresolved."* Two tweets date it without touching the billing question:
+> **2008-12-19** *"I don't want to go to cold, lame PA. Be back on the 28th for*
+> *hey Monday :)"* — posted from Orlando the day he flew home for Christmas —
+> and **2008-12-27 19:40 EST** *"Flying to Orlando for hey monday tomorrow.*
+> *Wooo"*, followed by *"Hate airport days."* at 10:38 on the 28th. He flew back
+> to Florida early, mid-holiday, for this one show. **The date is 28 December**
+> **2008.**
 >
-> **And the table already held the ticket, ten rows later, under a different
-> band.** Row 40 is *"There for Tomorrow · Dec 28, 2008 · BACKBOOTH · Orlando,
-> FL · 1 General Admission ticket; Order #M7WKYAHQW"* — same city, same night,
+> **And the table already held the ticket, ten rows later, under a different**
+> **band.** Row 40 is *"There for Tomorrow · Dec 28, 2008 · BACKBOOTH · Orlando,*
+> *FL · 1 General Admission ticket; Order #M7WKYAHQW"* — same city, same night,
 > a 250-capacity room, and There For Tomorrow were an Orlando act sharing the
-> Florida pop-punk circuit Hey Monday had just formed on. **The most economical
-> reading is that rows 36 and 40 are one night**, filed twice: once under the
+> Florida pop-punk circuit Hey Monday had just formed on. **The most economical**
+> **reading is that rows 36 and 40 are one night**, filed twice: once under the
 > band on the ticket and once under the band he went for.
 >
 > The date is settled by the tweets alone and does not depend on that join. The

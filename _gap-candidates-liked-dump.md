@@ -1,0 +1,3 @@
+wiki/mind/synthesis/purge-session-intent — the two bulk-like sessions' intent (nostalgia haul vs 2016-library reconstruction) is the residue entry's largest UNKNOWN; an operator answer would settle it and deserves its own dated page.
+wiki/interests/music/library/deliberate-readmissions — the only two archive→library re-admissions of 2025 (Atmosphere "Kanye West", Sam Gellaitry "LONG DISTANCE"); why these two tracks is unexplained and operator-answerable.
+wiki/mind/synthesis/unexamined-purge-tail — the ~21 purged URIs outside the two bulk sessions were never rostered; if any are dump-overlapping the residue grows — a bounded forensics follow-up.

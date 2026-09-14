@@ -1,0 +1,99 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 4439 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "And this has so much to do with covid too and low work demand",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "ð·ððð",
+      "timestamp_ms": 1629101492814
+    },
+    {
+      "content": "Can't imagine what 2pm till close feels like some days",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "ð·ððð",
+      "timestamp_ms": 1629101472728
+    },
+    {
+      "content": "I even got stressed out starting at 4pm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "ð·ððð",
+      "timestamp_ms": 1629101460199
+    },
+    {
+      "content": "Holy shit do I feel bad for Tarik and stuff but that doesn't surprise me... that restaurant is literally not a healthy lifestyle... I mean even though it's good money it's so many hours and days especially for you guys",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "ð·ððð",
+      "timestamp_ms": 1629101445681
+    },
+    {
+      "content": "The entire staff of the restaurant quit en masse over last 48 hours. I thought you would get a good laugh knowing that things are unraveling to the point that itâs barely a functional business now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1629082769657
+    },
+    {
+      "content": "Anyways - hope youâre well and enjoying the peace and solitude of life after au zaatar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1625631866636
+    },
+    {
+      "content": "Kinda fucked tho...everyone who isnât white gets thrashed for the smallest error, but you could fill an entire legal pad with all of the protocol I disregard and I donât even get a slightly stern âtalking toâ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1625631748560
+    },
+    {
+      "content": "Iâll stay until someone informs me that itâs no longer acceptable to leave for 15 minutes every day to meet the cocaine delivery service",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1625631445139
+    },
+    {
+      "content": "Fucking brutal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "ð·ððð",
+      "timestamp_ms": 1625631281230
+    },
+    {
+      "content": "No fucking wayyy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "ð·ððð",
+      "timestamp_ms": 1625631277033
+    },
+    {
+      "content": "Since you left...George, Alex, Jessy, Min, Diego and Antonio have all quit \n\nAnd Andres is quitting this week",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1625630980929
+    }
+  ],
+  "participants": [
+    {
+      "name": "ð·ððð"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:28:31.577-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:28:31.577Z"
+  },
+  "thread_path": "inbox/luke_1072420903288605",
+  "title": "ð·ððð"
+}

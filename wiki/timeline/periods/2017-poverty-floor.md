@@ -13,7 +13,7 @@ sources:
   - "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md"
   - "raw/self/context-core/CONTEXT_CORE_EXPANDED.md"
   - "raw/self/dox-md/operating_manual.md"
-  - "raw/self/message-csv/*"
+  - *"raw/self/message-csv/*"
   - "raw/self/facebook/facebook-ihatedanfrank/"
   - "raw/self/dox-md/LIFE REPORT.md"
   - "raw/self/dox-md/Gemini-_18.md"

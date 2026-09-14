@@ -1,0 +1,80 @@
+{
+ "batch": "20260912-1940",
+ "pulled_at_utc": "2026-09-12T20:43:23Z",
+ "window_from": "2026-09-12T15:40:12.033+00:00",
+ "window_to": "2026-09-12T19:48:18.390+00:00",
+ "counts": {
+  "user": 45,
+  "assistant": 69,
+  "system_pinned": 265,
+  "externals": 8,
+  "spotify_playlists": 125
+ },
+ "watermarks": {
+  "chats_from": "2026-09-12T15:40:12.033+00:00",
+  "chats_to": "2026-09-12T19:48:18.390+00:00",
+  "instagram": "2026-08-26T23:04:49-04:00",
+  "threads": "2026-08-26T23:04:55Z",
+  "facebook": "2026-07-04T15:51:25-04:00",
+  "messenger": "2026-08-26T22:23:43Z",
+  "spotify": "snapshot-2026-09-12T20:38:00Z",
+  "device": null
+ },
+ "files": [
+  {
+   "path": "chats.json",
+   "sha256": "f9ca51478326037f11869608bc1574982bbd25388a481667708ffbe14b988c33",
+   "bytes": 51097
+  },
+  {
+   "path": "system-manifest.json",
+   "sha256": "c9ecddf1a9042ef1b8c33a03c4e3678f574c88401fdb8acfc06689d47bec6309",
+   "bytes": 63384
+  },
+  {
+   "path": "EXTRACT.md",
+   "sha256": "8dfd70f973a37300fa428f33b7696fdbf320896545758dc1ca0833ec8557e120",
+   "bytes": 9104
+  },
+  {
+   "path": "externals/device.json",
+   "sha256": "05012fa4f252b82843ced2a7162ec3d6cab2b9bbbd573bcc3855c9c1b9554260",
+   "bytes": 153
+  },
+  {
+   "path": "externals/facebook.json",
+   "sha256": "1257fd3727803e6747f34d320d40cd47a96504ae5035a9bf2021a28ae48ec718",
+   "bytes": 323
+  },
+  {
+   "path": "externals/gmail.json",
+   "sha256": "0f30c456c4c522c9214575d8fbc1edae88268a7ef0c4352f2a59046341db83a5",
+   "bytes": 208
+  },
+  {
+   "path": "externals/instagram.json",
+   "sha256": "9d27e4ae061bc3a257ea2a98ff66b6a51de7cb0990bc53f4d01a44c75b292f87",
+   "bytes": 219
+  },
+  {
+   "path": "externals/messenger.json",
+   "sha256": "7f5287478d1724b846c981b2403f3fb5b09d84e0727a741c30a0ee912c189892",
+   "bytes": 242
+  },
+  {
+   "path": "externals/spotify.json",
+   "sha256": "f711afe5eb3797aae2da7bca6b62fd345605f31b51fd2c90e9b038185b16fa67",
+   "bytes": 325
+  },
+  {
+   "path": "externals/spotify-playlists.json",
+   "sha256": "30ac85ce5732da0be42ad98a58b7019b8512ad01f667257ade0b9615e0028653",
+   "bytes": 40827
+  },
+  {
+   "path": "externals/threads.json",
+   "sha256": "52295e21ea45236025588ffff27591fac3c836aeee8a2ecb21ac0348fc5e2cf2",
+   "bytes": 303
+  }
+ ]
+}

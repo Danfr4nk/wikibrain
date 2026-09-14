@@ -60,11 +60,11 @@ connections:
 > [[wiki/mind/synthesis/the-deferred-audit]] (2026-08-28), which gained a
 > RE-CHECKED note tracing back to a `dormancy-not-exit` correction (a
 > five-day tenure figure reattributed from Franki Faris to Alexis Armel, a
-> 2013 Uniontown-era detail unrelated to chemical history). **No claim on
-> this page is affected.**
+> 2013 Uniontown-era detail unrelated to chemical history). **No claim on**
+> **this page is affected.**
 
-> **RE-CHECKED [2026-08-31] — both chemical premises moved, and the movement
-> is on this page's side.** [[wiki/health/cocaine]] and
+> **RE-CHECKED [2026-08-31] — both chemical premises moved, and the movement**
+> **is on this page's side.** [[wiki/health/cocaine]] and
 > [[wiki/health/chemical-architecture]] both gained the intake ledger's first
 > measured night (2026-08-30/31: one 0.75 g cocaine unit over 9h 31m in six
 > doses, three 0.05 g cannabis units; the unit reconciled with nothing
@@ -78,8 +78,8 @@ connections:
 > is unaccounted for. That is the specification mode and the monitoring mode
 > both, running at a new level of rigour. It produces no repair. A record this
 > precise about what goes in, kept by somebody with no primary care, no labs and
-> no dental in seventeen years, is the **missing middle mode stated in a new
-> register** — the body measured at the input and read at the output, and still
+> no dental in seventeen years, is the **missing middle mode stated in a new**
+> **register** — the body measured at the input and read at the output, and still
 > never serviced. Falsifier 2 is untouched: the ledger shows no dose changed for
 > a health reason, because it shows no dose changed for any stated reason at all.
 >
@@ -96,8 +96,8 @@ connections:
 > **RE-CHECKED [2026-08-26]:** flagged stale against [[wiki/health/cocaine]]
 > (2026-08-26), which added a happiness-rate counter-measure to the same
 > dosage arc this page already cites (1g/day → 3.5–7g/day → 0.5–1g/day
-> tracking the inheritance). **The addition strengthens this page's claim
-> rather than complicating it** — the new finding shows the arc's peak
+> tracking the inheritance). **The addition strengthens this page's claim**
+> **rather than complicating it** — the new finding shows the arc's peak
 > coincides with the corpus's lowest first-person happiness-claim rate, which
 > is a second variable absent from the curve alongside the health variable
 > this page already names. No claim withdrawn.
@@ -130,15 +130,15 @@ intensively managed objects in the whole archive. It is managed the way an
 instrument is managed: configured at the input, read at the output, and never
 serviced.
 
-> **RE-CHECKED [2026-08-21] — three premises moved, none of them where this
-> page leans.** [[wiki/health/cocaine]] and [[wiki/mind/synthesis/supply-network]]
+> **RE-CHECKED [2026-08-21] — three premises moved, none of them where this**
+> **page leans.** [[wiki/health/cocaine]] and [[wiki/mind/synthesis/supply-network]]
 > moved on 2026-08-21, [[wiki/mind/synthesis/the-deferred-audit]] on 2026-08-20.
 > All three movements are about the **Menore node** — that his service ran
 > continuously rather than in two eras, that his product is bagged and not
 > cannabis, that he is still operating — plus `RE-CHECKED` blocks. This page's
 > argument is maintenance versus surveillance, and the one place it touches
-> supply topology is the Tom/Suboxone reversal at *"It reverses the supply
-> architecture,"* which concerns the prescription-versus-dealer ordering and
+> supply topology is the Tom/Suboxone reversal at *"It reverses the supply*
+> *architecture,"* which concerns the prescription-versus-dealer ordering and
 > not the NYC delivery node at all. Nothing withdrawn, nothing narrowed.
 
 The two teeth are what that costs. By 2025 a visible canine is gone, and Dan
@@ -162,9 +162,9 @@ that are running.
 > **Provenance disclosure**, per [[wiki/mind/synthesis/instrument-is-subject]].
 > Two members are `knowledge: mixed` — [[wiki/health/hyperreflexivity]] rests
 > on AI-chat exports and [[wiki/mind/profile/big-five-psychometrics]] on
-> self-administered instruments. **The primary evidence this page adds that its
-> premises lacked is a first-pass census of medical vocabulary across the full
-> message dump**, run 2026-08-19, which closes one declared gap, corrects one
+> self-administered instruments. **The primary evidence this page adds that its**
+> **premises lacked is a first-pass census of medical vocabulary across the full**
+> **message dump**, run 2026-08-19, which closes one declared gap, corrects one
 > claim on a member page, and contradicts one piece of Dan's own retrospective
 > testimony. The counts and the quoted lines are residue; the two-mode rule
 > built on them is a reading.
@@ -242,24 +242,24 @@ than the original.**
 | `primary care` | **0** | 1 |
 | `prescribed` | **0** | 4 |
 
-> **CORRECTED [2026-08-19] — dental care exists in the record, and Dan's own
-> account of it is wrong.** [[wiki/health/hyperreflexivity]] quotes his 2025
-> causal chain for the lost teeth as *"terrified of dentist (aka haven't
-> gone)."* The message dump contradicts the parenthesis directly. **2017-10-09:**
-> *"went back to the dentist today and i've got a lot of work to get done. all
-> those years of being a delinquent junkie catching up to me."* **2017-10-26:**
+> **CORRECTED [2026-08-19] — dental care exists in the record, and Dan's own**
+> **account of it is wrong.** [[wiki/health/hyperreflexivity]] quotes his 2025
+> causal chain for the lost teeth as *"terrified of dentist (aka haven't*
+> *gone)."* The message dump contradicts the parenthesis directly. **2017-10-09:**
+> *"went back to the dentist today and i've got a lot of work to get done. all*
+> *those years of being a delinquent junkie catching up to me."* **2017-10-26:**
 > *"I've got a dentist appt at 830."* **2017-11-09:** asking Suz for a ride to
-> the dentist at 3:30. **2017-11-30:** *"When I went back for a 1wk checkup on
-> the second, they noticed a hole that hadn't yet begun to develop tissue so
-> they put in a membrane and restitched it"* — a post-surgical follow-up, which
+> the dentist at 3:30. **2017-11-30:** *"When I went back for a 1wk checkup on*
+> *the second, they noticed a hole that hadn't yet begun to develop tissue so*
+> *they put in a membrane and restitched it"* — a post-surgical follow-up, which
 > means a graft. **2020-09-05:** *"setting up a dentist appointment asap."*
 > **2024-07-13:** *"I have a dentist appointment and work on the same day."*
 >
 > There was a full dental episode in autumn 2017 including surgery and a kept
 > one-week follow-up. Per [[wiki/mind/synthesis/instrument-is-subject]], residue
 > beats testimony and the disagreement is recorded rather than resolved
-> silently. **What survives, and is the better claim: the maintenance is
-> episodic and reactive, not absent.** He goes when something has already
+> silently. **What survives, and is the better claim: the maintenance is**
+> **episodic and reactive, not absent.** He goes when something has already
 > broken, which is the same clock [[wiki/mind/synthesis/the-deferred-audit]]
 > documents everywhere else, and it is the reason the 2017 visit opens with
 > *"a lot of work to get done"* rather than with a cleaning.

@@ -57,10 +57,10 @@ The red flag the capture flags for the reader is geography: the closest CVS to B
 The capture's most vivid memory is the Rt 51 stretch: 17-year-old boys, 95 miles per hour, passing cars and smacking into orange traffic cones. The capsule count, the distance from home, the highway speed and the cone impacts are all presented as a single motion — not a decision followed by an outcome, but a single continuous event whose internal logic was the drug and the friendship and the summer. Nothing in the record suggests any of the three were pulled over, injured, or otherwise interrupted. The drive's terminus is Uniontown, not a house or a bed, which is what makes it a story rather than a cautionary footnote: the destination was the place he would sober up in, and the place that had already, by that June, been partially emptied of the family that used to live in it.
 
 > **GAP CLOSED [2026-08-17] — they were peaking, not coming down.** This page
-> asked *"whether any of the three were sober enough to make decisions by the
-> time they left Ruby Tuesday's."* The operator:
-> **"on the contrary, we were all MUCH less sober and subsequently even more
-> intoxicated before a 90 minute drive"**
+> asked *"whether any of the three were sober enough to make decisions by the*
+> *time they left Ruby Tuesday's."* The operator:
+> **"on the contrary, we were all MUCH less sober and subsequently even more**
+> **intoxicated before a 90 minute drive"**
 > (`raw/timeline/captures/2026-08-16_185413_gap-robotussin-s-last-dance.md`).
 >
 > That inverts the assumption the section above rests on. The implicit reading

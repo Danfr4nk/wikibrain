@@ -84,6 +84,9 @@ connections:
   - page: wiki/mind/synthesis/closing-the-set
     type: instance-of
     claim: "The vigil is a set-closure object like the cultural record — self-set, bounded by a death, finished — and the four dated statements of good outcome inside six days are the only cluster of its kind anywhere in 106,629 sent messages."
+  - target: "[[wiki/mind/synthesis/closing-the-set]]"
+    type: corroborates
+    claim: "The vigil is the positive case of that page's closing condition: presence at the death produced the satisfaction the rule predicts, stated four times unprompted within 48 hours."
   - page: wiki/mind/concepts/attachment-model
     type: contradicts
     claim: "The one death Dan attended produced closure within 48 hours, stated four times unprompted; the one long relationship's ending in the same corpus produced none and required an external severance signal after ten years — closure and no-closure sitting side by side as the corpus's cleanest contrast."
@@ -124,7 +127,7 @@ screamed. Dan's response was the correct one and he was overruled in five
 words: he told his mother "we have to just call an ambulance, this is
 crazy," and Suz said **"nope. i'll be back in a little bit"** — and left.
 At 2:00 PM Fran was still down, "barely making any sense and screaming
-whenever she tries to stand" while Annie worked a full shift. Suz got back
+whenever she tries to stand" while [[wiki/people/annie-ulmer|Annie]] worked a full shift. Suz got back
 at 4:00 PM and performed the manual lift, captured in `IMG_0569.MOV`. Dan
 sustained himself through the hours of solo triage, by his own later
 account, with cocaine bumps.
@@ -153,7 +156,7 @@ once while Danny was en route, the encounter went ahead on the strength of
 her keep-me-home directive, and the second, worse fall came in the minutes
 after Danny left.
 The one that ended everything, dated precisely by the caregiver threads:
-Dan and Annie had taken the overnight ("we can stay tonight, annie
+Dan and [[wiki/people/annie-ulmer|Annie]] had taken the overnight ("we can stay tonight, annie
 didn't have to work"), and the next morning's messages document the
 ambulance — Dan to Vicki: "she was screaming so loud when they were
 putting her on the gurney it was just awful"; Marla asking "What time
@@ -182,7 +185,7 @@ even gone.
 day of caddie season — Dan worked two loops at Nemacolin in the freezing
 cold, then got the call. Fran was moved to a wing of the Uniontown
 Hospital pediatric section to die; she and her husband Ira had been
-major donors, and Judge Fred Adams — **Ira's old law partner**, trustee
+major donors, and [[wiki/people/fred-adams|Judge Fred Adams]] — **Ira's old law partner**, trustee
 of the estate accounts — mandated that someone be with her 24 hours a
 day. The rotation held it in shifts: Vicki arriving at 7:00 AM
 ("I wouldn't want to be anywhere else, this lady is like my grandmother
@@ -248,8 +251,7 @@ complaining."
 >
 > The same pass identified the letter's probable author and closed a gap
 > this page was carrying separately. Dan's read on the night of April 3
-> was *"i think **dave** wrote it"* — [[wiki/people/dave-moore|Dave
-> Moore]], Diane's second husband, who two days earlier had been
+> was *"i think **dave** wrote it"* — [[wiki/people/dave-moore|Dave > Moore]], Diane's second husband, who two days earlier had been
 > "speaking on her behalf" to the hospital's social workers while she
 > could not be reached. And the "Dian V. Moore" who served the March 29
 > eviction notice, listed in this page's own Gaps as an unidentified
@@ -267,8 +269,7 @@ easy of a death as one could wish for. if anyone deserved it, it was
 her. she grew up DIRT fucking poor and went on to live an absolute
 batshit crazy life."
 
-A same-night Facebook message to [[wiki/people/lucie-dobbin|Lucie
-Dobbin]], a longtime friend of Fran's from her Florida winters, gives
+A same-night Facebook message to [[wiki/people/lucie-dobbin|Lucie Dobbin]], a longtime friend of Fran's from her Florida winters, gives
 the fullest first-person account of the moment on record. Annie had
 fallen asleep at the bedside; Dan, alone and awake, silently tried
 "communicating with gram" using only his mind — "it was a silly idea,
@@ -312,16 +313,16 @@ anywhere in the corpus outside the November–December 2015 onset flood.**
 Four dated statements inside six days, three of them to people outside the
 household:
 
-> **2018-04-01 19:28** — *"i've grown from seeing this from such a close
-> perspective and i got to make sure she had fun during her last days."*
-> **2018-04-02 09:15** — *"she spent the last year of her life with people who
-> cared about her and legitimately had fun."*
-> **2018-04-02 22:58** — *"i have said my goodbyes to her like 3 or 4 times now…
-> i've got all the closure i need with her."*
-> **2018-04-06 17:55** — *"i spent the past 6 months looking after her full time
-> ($15 an hour to play video games with gram is a good deal) and we had a lot of
-> fun. got good closure and finally did something in my life that wasn't
-> completely selfish haha"*
+> **2018-04-01 19:28** — *"i've grown from seeing this from such a close*
+> *perspective and i got to make sure she had fun during her last days."*
+> **2018-04-02 09:15** — *"she spent the last year of her life with people who*
+> *cared about her and legitimately had fun."*
+> **2018-04-02 22:58** — *"i have said my goodbyes to her like 3 or 4 times now…*
+> *i've got all the closure i need with her."*
+> **2018-04-06 17:55** — *"i spent the past 6 months looking after her full time*
+> *($15 an hour to play video games with gram is a good deal) and we had a lot of*
+> *fun. got good closure and finally did something in my life that wasn't*
+> *completely selfish haha"*
 
 A `bin/mine-messages` sweep of all 106,629 sent messages finds no second
 instance of Dan reporting a good outcome from something he *did* rather than
@@ -338,8 +339,8 @@ in the same corpus produced none, and required an external severance signal
 after ten years ([[wiki/mind/concepts/attachment-model]]) rather than
 anything resembling this page's April 2 and April 6 statements.
 
-> **REVISED [2026-07-18] (two corrections from the primary Photo Thread
-> PT II session + caregiver threads):** (1) Earlier versions of this page
+> **REVISED [2026-07-18] (two corrections from the primary Photo Thread**
+> **PT II session + caregiver threads):** (1) Earlier versions of this page
 > fused **two separate falls** into one — the filmed 8:00 AM
 > discovery/keno episode was an earlier spill Fran survived by months;
 > the fall that triggered the hospital sequence was the night of
@@ -362,7 +363,7 @@ anything resembling this page's April 2 and April 6 statements.
 **Gaps:** exact date of the first spill (~late 2017?, inferred from
 "a few more months" plus the rotation's December 2017 start); the
 nursing home's name; whether the eviction was executed (Dan remained at
-155 Virginia until Feb 2019 per the residence timeline); whether the March
+[[wiki/places/155-virginia-ave|155 Virginia]] until Feb 2019 per the residence timeline); whether the March
 29 eviction notice, the April 3 letter and the visiting-rules letter Dan
 recalls in 2026 are one document, two or three. **Closed 2026-08-18:**
 "Dian V. Moore" is [[wiki/people/diane-moore|Diane]] herself, and the

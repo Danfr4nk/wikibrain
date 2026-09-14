@@ -1,0 +1,3978 @@
+[
+ {
+  "slug": "wiki/health/chemical-architecture.md",
+  "corpus_line": 6267,
+  "status": "done",
+  "worker": "w1",
+  "dat_range": "0059-0103",
+  "span": 422
+ },
+ {
+  "slug": "wiki/health/cocaine.md",
+  "corpus_line": 6689,
+  "status": "done",
+  "worker": "w1",
+  "dat_range": "0059-0103",
+  "span": 510
+ },
+ {
+  "slug": "wiki/health/hyperreflexivity.md",
+  "corpus_line": 7199,
+  "status": "done",
+  "worker": "w1",
+  "dat_range": "0059-0103",
+  "span": 197
+ },
+ {
+  "slug": "wiki/health/index.md",
+  "corpus_line": 7396,
+  "status": "done",
+  "worker": "w1",
+  "dat_range": "0059-0103",
+  "span": 28
+ },
+ {
+  "slug": "wiki/health/intake-ledger.md",
+  "corpus_line": 7424,
+  "status": "done",
+  "worker": "w1",
+  "dat_range": "0059-0103",
+  "span": 171
+ },
+ {
+  "slug": "wiki/health/the-configured-body.md",
+  "corpus_line": 7595,
+  "status": "done",
+  "worker": "w1",
+  "dat_range": "0059-0103",
+  "span": 437
+ },
+ {
+  "slug": "wiki/interests/concert-record/festivals/face2face-tour.md",
+  "corpus_line": 8032,
+  "status": "done",
+  "worker": "w4",
+  "dat_range": "0194-0238",
+  "span": 32
+ },
+ {
+  "slug": "wiki/interests/concert-record/festivals/final-show-2011.md",
+  "corpus_line": 8064,
+  "status": "done",
+  "worker": "w5",
+  "dat_range": "0239-0283",
+  "span": 32
+ },
+ {
+  "slug": "wiki/interests/concert-record/festivals/high-tide-4.md",
+  "corpus_line": 8096,
+  "status": "done",
+  "worker": "w3",
+  "dat_range": "0149-0193",
+  "span": 36
+ },
+ {
+  "slug": "wiki/interests/concert-record/festivals/nintendo-fusion-tour.md",
+  "corpus_line": 8132,
+  "status": "done",
+  "worker": "w3",
+  "dat_range": "0149-0193",
+  "span": 49
+ },
+ {
+  "slug": "wiki/interests/concert-record/festivals/oddball-comedy-curiosity-festival.md",
+  "corpus_line": 8181,
+  "status": "done",
+  "worker": "w4",
+  "dat_range": "0194-0238",
+  "span": 48
+ },
+ {
+  "slug": "wiki/interests/concert-record/festivals/rolling-rock-town-fair.md",
+  "corpus_line": 8229,
+  "status": "done",
+  "worker": "w3",
+  "dat_range": "0149-0193",
+  "span": 50
+ },
+ {
+  "slug": "wiki/interests/concert-record/festivals/the-bamboozle-2011.md",
+  "corpus_line": 8279,
+  "status": "done",
+  "worker": "w5",
+  "dat_range": "0239-0283",
+  "span": 42
+ },
+ {
+  "slug": "wiki/interests/concert-record/festivals/vans-warped-tour.md",
+  "corpus_line": 8321,
+  "status": "done",
+  "worker": "w5",
+  "dat_range": "0239-0283",
+  "span": 75
+ },
+ {
+  "slug": "wiki/interests/concert-record/index.md",
+  "corpus_line": 8396,
+  "status": "done",
+  "worker": "w5",
+  "dat_range": "0239-0283",
+  "span": 198
+ },
+ {
+  "slug": "wiki/interests/concert-record/performers/dave-chappelle.md",
+  "corpus_line": 8594,
+  "status": "done",
+  "worker": "w3",
+  "dat_range": "0149-0193",
+  "span": 40
+ },
+ {
+  "slug": "wiki/interests/concert-record/performers/hannibal-buress.md",
+  "corpus_line": 8634,
+  "status": "done",
+  "worker": "w2",
+  "dat_range": "0104-0148",
+  "span": 37
+ },
+ {
+  "slug": "wiki/interests/concert-record/performers/john-mulaney.md",
+  "corpus_line": 8671,
+  "status": "done",
+  "worker": "w2",
+  "dat_range": "0104-0148",
+  "span": 37
+ },
+ {
+  "slug": "wiki/interests/extreme-sports.md",
+  "corpus_line": 8708,
+  "status": "done",
+  "worker": "w2",
+  "dat_range": "0104-0148",
+  "span": 84
+ },
+ {
+  "slug": "wiki/interests/favorites/art-and-movies.md",
+  "corpus_line": 8792,
+  "status": "done",
+  "worker": "w4",
+  "dat_range": "0194-0238",
+  "span": 75
+ },
+ {
+  "slug": "wiki/interests/favorites/books/authors/adrian-goldsworthy.md",
+  "corpus_line": 8867,
+  "status": "done",
+  "worker": "w4",
+  "dat_range": "0194-0238",
+  "span": 42
+ },
+ {
+  "slug": "wiki/interests/favorites/books/authors/bob-woodward.md",
+  "corpus_line": 8909,
+  "status": "done",
+  "worker": "w10",
+  "dat_range": "0479-0523",
+  "span": 44
+ },
+ {
+  "slug": "wiki/interests/favorites/books/authors/dan-carlin.md",
+  "corpus_line": 8953,
+  "status": "done",
+  "worker": "w8",
+  "dat_range": "0389-0433",
+  "span": 43
+ },
+ {
+  "slug": "wiki/interests/favorites/books/authors/jonathan-karl.md",
+  "corpus_line": 8996,
+  "status": "done",
+  "worker": "w8",
+  "dat_range": "0389-0433",
+  "span": 41
+ },
+ {
+  "slug": "wiki/interests/favorites/books/authors/michael-wolff.md",
+  "corpus_line": 9037,
+  "status": "done",
+  "worker": "w7",
+  "dat_range": "0344-0388",
+  "span": 42
+ },
+ {
+  "slug": "wiki/interests/favorites/books/topics/ancient-history.md",
+  "corpus_line": 9079,
+  "status": "done",
+  "worker": "w7",
+  "dat_range": "0344-0388",
+  "span": 23
+ },
+ {
+  "slug": "wiki/interests/favorites/books/topics/history.md",
+  "corpus_line": 9102,
+  "status": "done",
+  "worker": "w9",
+  "dat_range": "0434-0478",
+  "span": 29
+ },
+ {
+  "slug": "wiki/interests/favorites/books/topics/journalism.md",
+  "corpus_line": 9131,
+  "status": "done",
+  "worker": "w7",
+  "dat_range": "0344-0388",
+  "span": 26
+ },
+ {
+  "slug": "wiki/interests/favorites/books/topics/politics.md",
+  "corpus_line": 9157,
+  "status": "done",
+  "worker": "w7",
+  "dat_range": "0344-0388",
+  "span": 41
+ },
+ {
+  "slug": "wiki/interests/favorites/books/topics/trump.md",
+  "corpus_line": 9198,
+  "status": "done",
+  "worker": "w8",
+  "dat_range": "0389-0433",
+  "span": 27
+ },
+ {
+  "slug": "wiki/interests/favorites/books/topics/war.md",
+  "corpus_line": 9225,
+  "status": "done",
+  "worker": "w8",
+  "dat_range": "0389-0433",
+  "span": 23
+ },
+ {
+  "slug": "wiki/interests/favorites/books/want-to-read.md",
+  "corpus_line": 9248,
+  "status": "done",
+  "worker": "w9",
+  "dat_range": "0434-0478",
+  "span": 229
+ },
+ {
+  "slug": "wiki/interests/favorites/books.md",
+  "corpus_line": 9477,
+  "status": "done",
+  "worker": "w9",
+  "dat_range": "0434-0478",
+  "span": 200
+ },
+ {
+  "slug": "wiki/interests/favorites/eclecticism.md",
+  "corpus_line": 9677,
+  "status": "done",
+  "worker": "w10",
+  "dat_range": "0479-0523",
+  "span": 513
+ },
+ {
+  "slug": "wiki/interests/favorites/index.md",
+  "corpus_line": 10190,
+  "status": "done",
+  "worker": "w9",
+  "dat_range": "0434-0478",
+  "span": 50
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/a-day-to-remember.md",
+  "corpus_line": 10240,
+  "status": "done",
+  "worker": "w12",
+  "dat_range": "0569-0613",
+  "span": 37
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/afi.md",
+  "corpus_line": 10277,
+  "status": "done",
+  "worker": "w11",
+  "dat_range": "0524-0568",
+  "span": 37
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/all-time-low.md",
+  "corpus_line": 10314,
+  "status": "done",
+  "worker": "w13",
+  "dat_range": "0614-0658",
+  "span": 45
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/anberlin.md",
+  "corpus_line": 10359,
+  "status": "done",
+  "worker": "w11",
+  "dat_range": "0524-0568",
+  "span": 43
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/barenaked-ladies.md",
+  "corpus_line": 10402,
+  "status": "done",
+  "worker": "w15",
+  "dat_range": "0704-0748",
+  "span": 41
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/bloc-party.md",
+  "corpus_line": 10443,
+  "status": "done",
+  "worker": "w13",
+  "dat_range": "0614-0658",
+  "span": 33
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/cobra-starship.md",
+  "corpus_line": 10476,
+  "status": "done",
+  "worker": "w14",
+  "dat_range": "0659-0703",
+  "span": 38
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/coheed-and-cambria.md",
+  "corpus_line": 10514,
+  "status": "done",
+  "worker": "w11",
+  "dat_range": "0524-0568",
+  "span": 43
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/coldplay.md",
+  "corpus_line": 10557,
+  "status": "done",
+  "worker": "w12",
+  "dat_range": "0569-0613",
+  "span": 35
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/default.md",
+  "corpus_line": 10592,
+  "status": "done",
+  "worker": "w11",
+  "dat_range": "0524-0568",
+  "span": 37
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/elliott-smith.md",
+  "corpus_line": 10629,
+  "status": "done",
+  "worker": "w12",
+  "dat_range": "0569-0613",
+  "span": 112
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/fall-out-boy.md",
+  "corpus_line": 10741,
+  "status": "done",
+  "worker": "w13",
+  "dat_range": "0614-0658",
+  "span": 219
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/flight-of-the-conchords.md",
+  "corpus_line": 10960,
+  "status": "done",
+  "worker": "w14",
+  "dat_range": "0659-0703",
+  "span": 49
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/guster.md",
+  "corpus_line": 11009,
+  "status": "done",
+  "worker": "w13",
+  "dat_range": "0614-0658",
+  "span": 38
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/gym-class-heroes.md",
+  "corpus_line": 11047,
+  "status": "done",
+  "worker": "w15",
+  "dat_range": "0704-0748",
+  "span": 40
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/hawthorne-heights.md",
+  "corpus_line": 11087,
+  "status": "done",
+  "worker": "w17",
+  "dat_range": "0794-0838",
+  "span": 37
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/hey-monday.md",
+  "corpus_line": 11124,
+  "status": "done",
+  "worker": "w19",
+  "dat_range": "0884-0928",
+  "span": 72
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/him.md",
+  "corpus_line": 11196,
+  "status": "done",
+  "worker": "w18",
+  "dat_range": "0839-0883",
+  "span": 33
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/incubus.md",
+  "corpus_line": 11229,
+  "status": "done",
+  "worker": "w16",
+  "dat_range": "0749-0793",
+  "span": 40
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/jacks-mannequin.md",
+  "corpus_line": 11269,
+  "status": "done",
+  "worker": "w19",
+  "dat_range": "0884-0928",
+  "span": 33
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/jedi-mind-tricks.md",
+  "corpus_line": 11302,
+  "status": "done",
+  "worker": "w20",
+  "dat_range": "0929-0973",
+  "span": 54
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/john-mayer.md",
+  "corpus_line": 11356,
+  "status": "done",
+  "worker": "w19",
+  "dat_range": "0884-0928",
+  "span": 54
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/jpegmafia.md",
+  "corpus_line": 11410,
+  "status": "done",
+  "worker": "w20",
+  "dat_range": "0929-0973",
+  "span": 42
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/kanye-west.md",
+  "corpus_line": 11452,
+  "status": "done",
+  "worker": "w17",
+  "dat_range": "0794-0838",
+  "span": 46
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/lil-wayne.md",
+  "corpus_line": 11498,
+  "status": "done",
+  "worker": "w16",
+  "dat_range": "0749-0793",
+  "span": 60
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/lyny.md",
+  "corpus_line": 11558,
+  "status": "done",
+  "worker": "w17",
+  "dat_range": "0794-0838",
+  "span": 75
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/mayday-parade.md",
+  "corpus_line": 11633,
+  "status": "done",
+  "worker": "w16",
+  "dat_range": "0749-0793",
+  "span": 38
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/motion-city-soundtrack.md",
+  "corpus_line": 11671,
+  "status": "done",
+  "worker": "w20",
+  "dat_range": "0929-0973",
+  "span": 42
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/my-chemical-romance.md",
+  "corpus_line": 11713,
+  "status": "done",
+  "worker": "w16",
+  "dat_range": "0749-0793",
+  "span": 101
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/new-found-glory.md",
+  "corpus_line": 11814,
+  "status": "done",
+  "worker": "w16",
+  "dat_range": "0749-0793",
+  "span": 79
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/nofx.md",
+  "corpus_line": 11893,
+  "status": "done",
+  "worker": "w22",
+  "dat_range": "1019-1063",
+  "span": 37
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/outkast.md",
+  "corpus_line": 11930,
+  "status": "done",
+  "worker": "w23",
+  "dat_range": "1064-1108",
+  "span": 37
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/panic-at-the-disco.md",
+  "corpus_line": 11967,
+  "status": "done",
+  "worker": "w25",
+  "dat_range": "1154-1198",
+  "span": 58
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/paramore.md",
+  "corpus_line": 12025,
+  "status": "done",
+  "worker": "w25",
+  "dat_range": "1154-1198",
+  "span": 43
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/saosin.md",
+  "corpus_line": 12068,
+  "status": "done",
+  "worker": "w23",
+  "dat_range": "1064-1108",
+  "span": 38
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/say-anything.md",
+  "corpus_line": 12106,
+  "status": "done",
+  "worker": "w23",
+  "dat_range": "1064-1108",
+  "span": 96
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/taking-back-sunday.md",
+  "corpus_line": 12202,
+  "status": "done",
+  "worker": "w24",
+  "dat_range": "1109-1153",
+  "span": 95
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/the-academy-is.md",
+  "corpus_line": 12297,
+  "status": "done",
+  "worker": "w24",
+  "dat_range": "1109-1153",
+  "span": 44
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/the-early-november.md",
+  "corpus_line": 12341,
+  "status": "done",
+  "worker": "w25",
+  "dat_range": "1154-1198",
+  "span": 35
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/the-starting-line.md",
+  "corpus_line": 12376,
+  "status": "done",
+  "worker": "w25",
+  "dat_range": "1154-1198",
+  "span": 57
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/vertical-horizon.md",
+  "corpus_line": 12433,
+  "status": "done",
+  "worker": "w22",
+  "dat_range": "1019-1063",
+  "span": 38
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/we-the-kings.md",
+  "corpus_line": 12471,
+  "status": "done",
+  "worker": "w21",
+  "dat_range": "0974-1018",
+  "span": 38
+ },
+ {
+  "slug": "wiki/interests/favorites/music/artists/wiki.md",
+  "corpus_line": 12509,
+  "status": "done",
+  "worker": "w24",
+  "dat_range": "1109-1153",
+  "span": 37
+ },
+ {
+  "slug": "wiki/interests/favorites/music/electronic-bass.md",
+  "corpus_line": 12546,
+  "status": "done",
+  "worker": "w25",
+  "dat_range": "1154-1198",
+  "span": 92
+ },
+ {
+  "slug": "wiki/interests/favorites/music.md",
+  "corpus_line": 12638,
+  "status": "done",
+  "worker": "w22",
+  "dat_range": "1019-1063",
+  "span": 183
+ },
+ {
+  "slug": "wiki/interests/favorites/taste-profile.md",
+  "corpus_line": 12821,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 40
+ },
+ {
+  "slug": "wiki/interests/film-canon.md",
+  "corpus_line": 12861,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 128
+ },
+ {
+  "slug": "wiki/interests/food-and-diet.md",
+  "corpus_line": 12989,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 413
+ },
+ {
+  "slug": "wiki/interests/golf.md",
+  "corpus_line": 13402,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 77
+ },
+ {
+  "slug": "wiki/interests/gore-vidal.md",
+  "corpus_line": 13479,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 79
+ },
+ {
+  "slug": "wiki/interests/index.md",
+  "corpus_line": 13558,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 90
+ },
+ {
+  "slug": "wiki/interests/language/vocabulary-lexicon.md",
+  "corpus_line": 13648,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 486
+ },
+ {
+  "slug": "wiki/interests/music/aliases/gripnotic.md",
+  "corpus_line": 14134,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 120
+ },
+ {
+  "slug": "wiki/interests/music/aliases/mogged-up.md",
+  "corpus_line": 14254,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 51
+ },
+ {
+  "slug": "wiki/interests/music/aliases/mogzart.md",
+  "corpus_line": 14305,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 82
+ },
+ {
+  "slug": "wiki/interests/music/aliases/sloppp.md",
+  "corpus_line": 14387,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 368
+ },
+ {
+  "slug": "wiki/interests/music/bands/batteries-not-included.md",
+  "corpus_line": 14755,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 109
+ },
+ {
+  "slug": "wiki/interests/music/concepts/lyrics-as-timbre.md",
+  "corpus_line": 14864,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 153
+ },
+ {
+  "slug": "wiki/interests/music/concepts/sub-bass-signature.md",
+  "corpus_line": 15017,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 71
+ },
+ {
+  "slug": "wiki/interests/music/index.md",
+  "corpus_line": 15088,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 48
+ },
+ {
+  "slug": "wiki/interests/music/overview.md",
+  "corpus_line": 15136,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 277
+ },
+ {
+  "slug": "wiki/interests/opie-and-anthony.md",
+  "corpus_line": 15413,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 224
+ },
+ {
+  "slug": "wiki/interests/rock-irrelevance-thesis.md",
+  "corpus_line": 15637,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 76
+ },
+ {
+  "slug": "wiki/interests/roman-republic.md",
+  "corpus_line": 15713,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 183
+ },
+ {
+  "slug": "wiki/interests/stand-up-comedy.md",
+  "corpus_line": 15896,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 135
+ },
+ {
+  "slug": "wiki/interests/the-office.md",
+  "corpus_line": 16031,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 128
+ },
+ {
+  "slug": "wiki/interests/video-games.md",
+  "corpus_line": 16159,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 174
+ },
+ {
+  "slug": "wiki/legal/2015-possession-arrest.md",
+  "corpus_line": 16333,
+  "status": "done",
+  "worker": "w1",
+  "dat_range": "0059-0103",
+  "span": 324
+ },
+ {
+  "slug": "wiki/legal/2015-retail-theft-arrest.md",
+  "corpus_line": 16657,
+  "status": "done",
+  "worker": "w1",
+  "dat_range": "0059-0103",
+  "span": 113
+ },
+ {
+  "slug": "wiki/legal/463-morgantown.md",
+  "corpus_line": 16770,
+  "status": "done",
+  "worker": "w1",
+  "dat_range": "0059-0103",
+  "span": 217
+ },
+ {
+  "slug": "wiki/legal/index.md",
+  "corpus_line": 16987,
+  "status": "done",
+  "worker": "w1",
+  "dat_range": "0059-0103",
+  "span": 27
+ },
+ {
+  "slug": "wiki/meta/digest.md",
+  "corpus_line": 17014,
+  "status": "done",
+  "worker": "w1",
+  "dat_range": "0059-0103",
+  "span": 200
+ },
+ {
+  "slug": "wiki/meta/index.md",
+  "corpus_line": 17214,
+  "status": "done",
+  "worker": "w1",
+  "dat_range": "0059-0103",
+  "span": 76
+ },
+ {
+  "slug": "wiki/meta/instruments/index.md",
+  "corpus_line": 17290,
+  "status": "done",
+  "worker": "w1",
+  "dat_range": "0059-0103",
+  "span": 148
+ },
+ {
+  "slug": "wiki/meta/journeys/index.md",
+  "corpus_line": 17438,
+  "status": "done",
+  "worker": "w1",
+  "dat_range": "0059-0103",
+  "span": 32
+ },
+ {
+  "slug": "wiki/meta/journeys/the-instrumented-channel.md",
+  "corpus_line": 17470,
+  "status": "done",
+  "worker": "w1",
+  "dat_range": "0059-0103",
+  "span": 121
+ },
+ {
+  "slug": "wiki/meta/journeys/the-supply-line.md",
+  "corpus_line": 17591,
+  "status": "done",
+  "worker": "w10",
+  "dat_range": "0479-0523",
+  "span": 118
+ },
+ {
+  "slug": "wiki/meta/journeys/the-type-machine.md",
+  "corpus_line": 17709,
+  "status": "done",
+  "worker": "w9",
+  "dat_range": "0434-0478",
+  "span": 114
+ },
+ {
+  "slug": "wiki/meta/open-questions.md",
+  "corpus_line": 17823,
+  "status": "done",
+  "worker": "w7",
+  "dat_range": "0344-0388",
+  "span": 807
+ },
+ {
+  "slug": "wiki/meta/readers-digest.md",
+  "corpus_line": 18630,
+  "status": "done",
+  "worker": "w8",
+  "dat_range": "0389-0433",
+  "span": 136
+ },
+ {
+  "slug": "wiki/meta/recent-activity.md",
+  "corpus_line": 18766,
+  "status": "done",
+  "worker": "w7",
+  "dat_range": "0344-0388",
+  "span": 378
+ },
+ {
+  "slug": "wiki/meta/skills.md",
+  "corpus_line": 19144,
+  "status": "done",
+  "worker": "w7",
+  "dat_range": "0344-0388",
+  "span": 240
+ },
+ {
+  "slug": "wiki/meta/testimony-veracity.md",
+  "corpus_line": 19384,
+  "status": "done",
+  "worker": "w7",
+  "dat_range": "0344-0388",
+  "span": 135
+ },
+ {
+  "slug": "wiki/mind/concepts/acquisition-drive.md",
+  "corpus_line": 19519,
+  "status": "done",
+  "worker": "w15",
+  "dat_range": "0704-0748",
+  "span": 315
+ },
+ {
+  "slug": "wiki/mind/concepts/attachment-model.md",
+  "corpus_line": 19834,
+  "status": "done",
+  "worker": "w13",
+  "dat_range": "0614-0658",
+  "span": 341
+ },
+ {
+  "slug": "wiki/mind/concepts/bunker-core.md",
+  "corpus_line": 20175,
+  "status": "done",
+  "worker": "w15",
+  "dat_range": "0704-0748",
+  "span": 142
+ },
+ {
+  "slug": "wiki/mind/concepts/calibrated-confidence.md",
+  "corpus_line": 20317,
+  "status": "done",
+  "worker": "w14",
+  "dat_range": "0659-0703",
+  "span": 316
+ },
+ {
+  "slug": "wiki/mind/concepts/chaos-preference.md",
+  "corpus_line": 20633,
+  "status": "done",
+  "worker": "w13",
+  "dat_range": "0614-0658",
+  "span": 271
+ },
+ {
+  "slug": "wiki/mind/concepts/conflict-architecture.md",
+  "corpus_line": 20904,
+  "status": "done",
+  "worker": "w13",
+  "dat_range": "0614-0658",
+  "span": 179
+ },
+ {
+  "slug": "wiki/mind/concepts/contact-gini.md",
+  "corpus_line": 21083,
+  "status": "done",
+  "worker": "w11",
+  "dat_range": "0524-0568",
+  "span": 495
+ },
+ {
+  "slug": "wiki/mind/concepts/dans-law.md",
+  "corpus_line": 21578,
+  "status": "done",
+  "worker": "w15",
+  "dat_range": "0704-0748",
+  "span": 83
+ },
+ {
+  "slug": "wiki/mind/concepts/document-fabrication.md",
+  "corpus_line": 21661,
+  "status": "done",
+  "worker": "w15",
+  "dat_range": "0704-0748",
+  "span": 180
+ },
+ {
+  "slug": "wiki/mind/concepts/erotic-architecture.md",
+  "corpus_line": 21841,
+  "status": "done",
+  "worker": "w12",
+  "dat_range": "0569-0613",
+  "span": 238
+ },
+ {
+  "slug": "wiki/mind/concepts/exocortex.md",
+  "corpus_line": 22079,
+  "status": "done",
+  "worker": "w11",
+  "dat_range": "0524-0568",
+  "span": 175
+ },
+ {
+  "slug": "wiki/mind/concepts/forensic-method.md",
+  "corpus_line": 22254,
+  "status": "done",
+  "worker": "w12",
+  "dat_range": "0569-0613",
+  "span": 361
+ },
+ {
+  "slug": "wiki/mind/concepts/institutional-out.md",
+  "corpus_line": 22615,
+  "status": "done",
+  "worker": "w13",
+  "dat_range": "0614-0658",
+  "span": 102
+ },
+ {
+  "slug": "wiki/mind/concepts/node-locking.md",
+  "corpus_line": 22717,
+  "status": "done",
+  "worker": "w13",
+  "dat_range": "0614-0658",
+  "span": 131
+ },
+ {
+  "slug": "wiki/mind/concepts/phenomenology-lens.md",
+  "corpus_line": 22848,
+  "status": "done",
+  "worker": "w12",
+  "dat_range": "0569-0613",
+  "span": 91
+ },
+ {
+  "slug": "wiki/mind/concepts/reassurance-architecture.md",
+  "corpus_line": 22939,
+  "status": "done",
+  "worker": "w16",
+  "dat_range": "0749-0793",
+  "span": 541
+ },
+ {
+  "slug": "wiki/mind/concepts/the-cool-metric.md",
+  "corpus_line": 23480,
+  "status": "done",
+  "worker": "w20",
+  "dat_range": "0929-0973",
+  "span": 354
+ },
+ {
+  "slug": "wiki/mind/concepts/the-handed-mirror.md",
+  "corpus_line": 23834,
+  "status": "done",
+  "worker": "w18",
+  "dat_range": "0839-0883",
+  "span": 221
+ },
+ {
+  "slug": "wiki/mind/index.md",
+  "corpus_line": 24055,
+  "status": "done",
+  "worker": "w19",
+  "dat_range": "0884-0928",
+  "span": 121
+ },
+ {
+  "slug": "wiki/mind/politics/axioms.md",
+  "corpus_line": 24176,
+  "status": "done",
+  "worker": "w17",
+  "dat_range": "0794-0838",
+  "span": 281
+ },
+ {
+  "slug": "wiki/mind/politics/index.md",
+  "corpus_line": 24457,
+  "status": "done",
+  "worker": "w19",
+  "dat_range": "0884-0928",
+  "span": 90
+ },
+ {
+  "slug": "wiki/mind/profile/big-five-psychometrics.md",
+  "corpus_line": 24547,
+  "status": "done",
+  "worker": "w19",
+  "dat_range": "0884-0928",
+  "span": 372
+ },
+ {
+  "slug": "wiki/mind/profile/deviance-mapping.md",
+  "corpus_line": 24919,
+  "status": "done",
+  "worker": "w19",
+  "dat_range": "0884-0928",
+  "span": 209
+ },
+ {
+  "slug": "wiki/mind/profile/enneagram-5w4.md",
+  "corpus_line": 25128,
+  "status": "done",
+  "worker": "w20",
+  "dat_range": "0929-0973",
+  "span": 209
+ },
+ {
+  "slug": "wiki/mind/profile/index.md",
+  "corpus_line": 25337,
+  "status": "done",
+  "worker": "w17",
+  "dat_range": "0794-0838",
+  "span": 128
+ },
+ {
+  "slug": "wiki/mind/profile/intp.md",
+  "corpus_line": 25465,
+  "status": "done",
+  "worker": "w16",
+  "dat_range": "0749-0793",
+  "span": 252
+ },
+ {
+  "slug": "wiki/mind/profile/lexicon.md",
+  "corpus_line": 25717,
+  "status": "done",
+  "worker": "w17",
+  "dat_range": "0794-0838",
+  "span": 142
+ },
+ {
+  "slug": "wiki/mind/profile/linguistic-profile.md",
+  "corpus_line": 25859,
+  "status": "done",
+  "worker": "w16",
+  "dat_range": "0749-0793",
+  "span": 251
+ },
+ {
+  "slug": "wiki/mind/profile/neurodivergence.md",
+  "corpus_line": 26110,
+  "status": "done",
+  "worker": "w20",
+  "dat_range": "0929-0973",
+  "span": 185
+ },
+ {
+  "slug": "wiki/mind/profile/socionics-and-attitudinal.md",
+  "corpus_line": 26295,
+  "status": "done",
+  "worker": "w16",
+  "dat_range": "0749-0793",
+  "span": 136
+ },
+ {
+  "slug": "wiki/mind/profile/texting-deviance-audit.md",
+  "corpus_line": 26431,
+  "status": "done",
+  "worker": "w24",
+  "dat_range": "1109-1153",
+  "span": 353
+ },
+ {
+  "slug": "wiki/mind/profile/voice-modes.md",
+  "corpus_line": 26784,
+  "status": "done",
+  "worker": "w23",
+  "dat_range": "1064-1108",
+  "span": 159
+ },
+ {
+  "slug": "wiki/mind/psychosexual/arrangement-history.md",
+  "corpus_line": 26943,
+  "status": "done",
+  "worker": "w23",
+  "dat_range": "1064-1108",
+  "span": 350
+ },
+ {
+  "slug": "wiki/mind/psychosexual/developmental-origins.md",
+  "corpus_line": 27293,
+  "status": "done",
+  "worker": "w22",
+  "dat_range": "1019-1063",
+  "span": 130
+ },
+ {
+  "slug": "wiki/mind/psychosexual/emotional-imprinting.md",
+  "corpus_line": 27423,
+  "status": "done",
+  "worker": "w24",
+  "dat_range": "1109-1153",
+  "span": 122
+ },
+ {
+  "slug": "wiki/mind/psychosexual/index.md",
+  "corpus_line": 27545,
+  "status": "done",
+  "worker": "w25",
+  "dat_range": "1154-1198",
+  "span": 117
+ },
+ {
+  "slug": "wiki/mind/psychosexual/orchestration-and-voyeurism.md",
+  "corpus_line": 27662,
+  "status": "done",
+  "worker": "w23",
+  "dat_range": "1064-1108",
+  "span": 184
+ },
+ {
+  "slug": "wiki/mind/psychosexual/taboo-and-boundary-testing.md",
+  "corpus_line": 27846,
+  "status": "done",
+  "worker": "w22",
+  "dat_range": "1019-1063",
+  "span": 163
+ },
+ {
+  "slug": "wiki/mind/synthesis/2020-left-turn.md",
+  "corpus_line": 28009,
+  "status": "done",
+  "worker": "w23",
+  "dat_range": "1064-1108",
+  "span": 472
+ },
+ {
+  "slug": "wiki/mind/synthesis/ai-collaborative-analysis.md",
+  "corpus_line": 28481,
+  "status": "done",
+  "worker": "w25",
+  "dat_range": "1154-1198",
+  "span": 400
+ },
+ {
+  "slug": "wiki/mind/synthesis/alias-as-periodization.md",
+  "corpus_line": 28881,
+  "status": "done",
+  "worker": "w22",
+  "dat_range": "1019-1063",
+  "span": 272
+ },
+ {
+  "slug": "wiki/mind/synthesis/ancestral-dialectic.md",
+  "corpus_line": 29153,
+  "status": "done",
+  "worker": "w25",
+  "dat_range": "1154-1198",
+  "span": 250
+ },
+ {
+  "slug": "wiki/mind/synthesis/annual-volume-suz.md",
+  "corpus_line": 29403,
+  "status": "done",
+  "worker": "w25",
+  "dat_range": "1154-1198",
+  "span": 140
+ },
+ {
+  "slug": "wiki/mind/synthesis/attachment-trauma-bond.md",
+  "corpus_line": 29543,
+  "status": "done",
+  "worker": "w24",
+  "dat_range": "1109-1153",
+  "span": 443
+ },
+ {
+  "slug": "wiki/mind/synthesis/august-grievance-verdict.md",
+  "corpus_line": 29986,
+  "status": "done",
+  "worker": "w21",
+  "dat_range": "0974-1018",
+  "span": 594
+ },
+ {
+  "slug": "wiki/mind/synthesis/block-unblock-loop.md",
+  "corpus_line": 30580,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 799
+ },
+ {
+  "slug": "wiki/mind/synthesis/bond-switch-2015.md",
+  "corpus_line": 31379,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 362
+ },
+ {
+  "slug": "wiki/mind/synthesis/closing-the-set.md",
+  "corpus_line": 31741,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 442
+ },
+ {
+  "slug": "wiki/mind/synthesis/dan-annie-fallout-verdict.md",
+  "corpus_line": 32183,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 556
+ },
+ {
+  "slug": "wiki/mind/synthesis/dormancy-not-exit.md",
+  "corpus_line": 32739,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 767
+ },
+ {
+  "slug": "wiki/mind/synthesis/estate-money-spine.md",
+  "corpus_line": 33506,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 544
+ },
+ {
+  "slug": "wiki/mind/synthesis/failure-to-launch.md",
+  "corpus_line": 34050,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 683
+ },
+ {
+  "slug": "wiki/mind/synthesis/fayette-return.md",
+  "corpus_line": 34733,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 400
+ },
+ {
+  "slug": "wiki/mind/synthesis/instrument-is-subject.md",
+  "corpus_line": 35133,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 297
+ },
+ {
+  "slug": "wiki/mind/synthesis/intake-constancy.md",
+  "corpus_line": 35430,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 264
+ },
+ {
+  "slug": "wiki/mind/synthesis/intensity-is-no-longer-the-only-mode.md",
+  "corpus_line": 35694,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 112
+ },
+ {
+  "slug": "wiki/mind/synthesis/interests-as-era-markers.md",
+  "corpus_line": 35806,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 176
+ },
+ {
+  "slug": "wiki/mind/synthesis/message-circadian-latency.md",
+  "corpus_line": 35982,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 270
+ },
+ {
+  "slug": "wiki/mind/synthesis/millennial-digital-witness.md",
+  "corpus_line": 36252,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 240
+ },
+ {
+  "slug": "wiki/mind/synthesis/morgantown-call-three-participant-ethical-analysis.md",
+  "corpus_line": 36492,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 709
+ },
+ {
+  "slug": "wiki/mind/synthesis/music-as-identity.md",
+  "corpus_line": 37201,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 214
+ },
+ {
+  "slug": "wiki/mind/synthesis/no-platonic-channel.md",
+  "corpus_line": 37415,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 269
+ },
+ {
+  "slug": "wiki/mind/synthesis/political-psyops.md",
+  "corpus_line": 37684,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 272
+ },
+ {
+  "slug": "wiki/mind/synthesis/read-receipt-forensics.md",
+  "corpus_line": 37956,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 290
+ },
+ {
+  "slug": "wiki/mind/synthesis/single-channel.md",
+  "corpus_line": 38246,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 601
+ },
+ {
+  "slug": "wiki/mind/synthesis/spatial-behavior.md",
+  "corpus_line": 38847,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 128
+ },
+ {
+  "slug": "wiki/mind/synthesis/supply-network.md",
+  "corpus_line": 38975,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 611
+ },
+ {
+  "slug": "wiki/mind/synthesis/the-binary-verdict.md",
+  "corpus_line": 39586,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 520
+ },
+ {
+  "slug": "wiki/mind/synthesis/the-cato-seat.md",
+  "corpus_line": 40106,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 334
+ },
+ {
+  "slug": "wiki/mind/synthesis/the-commissioned-self.md",
+  "corpus_line": 40440,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 488
+ },
+ {
+  "slug": "wiki/mind/synthesis/the-deferred-audit.md",
+  "corpus_line": 40928,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 697
+ },
+ {
+  "slug": "wiki/mind/synthesis/the-embedded-objective.md",
+  "corpus_line": 41625,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 463
+ },
+ {
+  "slug": "wiki/mind/synthesis/the-rescue-premise.md",
+  "corpus_line": 42088,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 608
+ },
+ {
+  "slug": "wiki/mind/synthesis/the-serial-monogamist.md",
+  "corpus_line": 42696,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 261
+ },
+ {
+  "slug": "wiki/mind/synthesis/the-unbroken-bond.md",
+  "corpus_line": 42957,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 619
+ },
+ {
+  "slug": "wiki/mind/synthesis/totality-themes.md",
+  "corpus_line": 43576,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 1111
+ },
+ {
+  "slug": "wiki/mind/synthesis/twitter-2024-cognitive-state.md",
+  "corpus_line": 44687,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 491
+ },
+ {
+  "slug": "wiki/mind/synthesis/vertical-authority-skepticism.md",
+  "corpus_line": 45178,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 431
+ },
+ {
+  "slug": "wiki/people/aaron.md",
+  "corpus_line": 45609,
+  "status": "done",
+  "worker": "w4",
+  "dat_range": "0194-0238",
+  "span": 80
+ },
+ {
+  "slug": "wiki/people/al.md",
+  "corpus_line": 45689,
+  "status": "done",
+  "worker": "w3",
+  "dat_range": "0149-0193",
+  "span": 55
+ },
+ {
+  "slug": "wiki/people/alex-frank.md",
+  "corpus_line": 45744,
+  "status": "done",
+  "worker": "w4",
+  "dat_range": "0194-0238",
+  "span": 102
+ },
+ {
+  "slug": "wiki/people/alexander-jackson.md",
+  "corpus_line": 45846,
+  "status": "done",
+  "worker": "w5",
+  "dat_range": "0239-0283",
+  "span": 95
+ },
+ {
+  "slug": "wiki/people/alexis-armel.md",
+  "corpus_line": 45941,
+  "status": "done",
+  "worker": "w5",
+  "dat_range": "0239-0283",
+  "span": 965
+ },
+ {
+  "slug": "wiki/people/alice.md",
+  "corpus_line": 46906,
+  "status": "done",
+  "worker": "w2",
+  "dat_range": "0104-0148",
+  "span": 135
+ },
+ {
+  "slug": "wiki/people/ally-lubin-2026-08-26-update.md",
+  "corpus_line": 47041,
+  "status": "done",
+  "worker": "w3",
+  "dat_range": "0149-0193",
+  "span": 104
+ },
+ {
+  "slug": "wiki/people/ally-lubin-2026-08-26-visible-update.md",
+  "corpus_line": 47145,
+  "status": "done",
+  "worker": "w2",
+  "dat_range": "0104-0148",
+  "span": 85
+ },
+ {
+  "slug": "wiki/people/ally-lubin-cognitive-profile.md",
+  "corpus_line": 47230,
+  "status": "done",
+  "worker": "w4",
+  "dat_range": "0194-0238",
+  "span": 672
+ },
+ {
+  "slug": "wiki/people/ally-lubin.md",
+  "corpus_line": 47902,
+  "status": "done",
+  "worker": "w4",
+  "dat_range": "0194-0238",
+  "span": 1026
+ },
+ {
+  "slug": "wiki/people/anita.md",
+  "corpus_line": 48928,
+  "status": "done",
+  "worker": "w5",
+  "dat_range": "0239-0283",
+  "span": 117
+ },
+ {
+  "slug": "wiki/people/annie-ulmer-2026-08-26-update.md",
+  "corpus_line": 49045,
+  "status": "done",
+  "worker": "w5",
+  "dat_range": "0239-0283",
+  "span": 102
+ },
+ {
+  "slug": "wiki/people/annie-ulmer-2026-08-26-visible-update.md",
+  "corpus_line": 49147,
+  "status": "done",
+  "worker": "w2",
+  "dat_range": "0104-0148",
+  "span": 74
+ },
+ {
+  "slug": "wiki/people/annie-ulmer-personality-assessment.md",
+  "corpus_line": 49221,
+  "status": "done",
+  "worker": "w2",
+  "dat_range": "0104-0148",
+  "span": 407
+ },
+ {
+  "slug": "wiki/people/annie-ulmer.md",
+  "corpus_line": 49628,
+  "status": "done",
+  "worker": "w2",
+  "dat_range": "0104-0148",
+  "span": 2293
+ },
+ {
+  "slug": "wiki/people/annoying.md",
+  "corpus_line": 51921,
+  "status": "done",
+  "worker": "w4",
+  "dat_range": "0194-0238",
+  "span": 53
+ },
+ {
+  "slug": "wiki/people/arnu.md",
+  "corpus_line": 51974,
+  "status": "done",
+  "worker": "w3",
+  "dat_range": "0149-0193",
+  "span": 86
+ },
+ {
+  "slug": "wiki/people/bekah-fullem.md",
+  "corpus_line": 52060,
+  "status": "done",
+  "worker": "w3",
+  "dat_range": "0149-0193",
+  "span": 123
+ },
+ {
+  "slug": "wiki/people/betherin-mechling.md",
+  "corpus_line": 52183,
+  "status": "done",
+  "worker": "w4",
+  "dat_range": "0194-0238",
+  "span": 115
+ },
+ {
+  "slug": "wiki/people/bill-ulmer.md",
+  "corpus_line": 52298,
+  "status": "done",
+  "worker": "w5",
+  "dat_range": "0239-0283",
+  "span": 52
+ },
+ {
+  "slug": "wiki/people/bill.md",
+  "corpus_line": 52350,
+  "status": "done",
+  "worker": "w2",
+  "dat_range": "0104-0148",
+  "span": 49
+ },
+ {
+  "slug": "wiki/people/bobby-cole.md",
+  "corpus_line": 52399,
+  "status": "done",
+  "worker": "w3",
+  "dat_range": "0149-0193",
+  "span": 111
+ },
+ {
+  "slug": "wiki/people/brad-hubeaut.md",
+  "corpus_line": 52510,
+  "status": "done",
+  "worker": "w5",
+  "dat_range": "0239-0283",
+  "span": 50
+ },
+ {
+  "slug": "wiki/people/brandon-hill.md",
+  "corpus_line": 52560,
+  "status": "done",
+  "worker": "w4",
+  "dat_range": "0194-0238",
+  "span": 95
+ },
+ {
+  "slug": "wiki/people/brennan-meadows.md",
+  "corpus_line": 52655,
+  "status": "done",
+  "worker": "w5",
+  "dat_range": "0239-0283",
+  "span": 45
+ },
+ {
+  "slug": "wiki/people/brian.md",
+  "corpus_line": 52700,
+  "status": "done",
+  "worker": "w4",
+  "dat_range": "0194-0238",
+  "span": 50
+ },
+ {
+  "slug": "wiki/people/bruce-burish.md",
+  "corpus_line": 52750,
+  "status": "done",
+  "worker": "w5",
+  "dat_range": "0239-0283",
+  "span": 117
+ },
+ {
+  "slug": "wiki/people/bryan-5088682461.md",
+  "corpus_line": 52867,
+  "status": "done",
+  "worker": "w2",
+  "dat_range": "0104-0148",
+  "span": 109
+ },
+ {
+  "slug": "wiki/people/bub.md",
+  "corpus_line": 52976,
+  "status": "done",
+  "worker": "w2",
+  "dat_range": "0104-0148",
+  "span": 49
+ },
+ {
+  "slug": "wiki/people/casey-bondarenka.md",
+  "corpus_line": 53025,
+  "status": "done",
+  "worker": "w2",
+  "dat_range": "0104-0148",
+  "span": 107
+ },
+ {
+  "slug": "wiki/people/chad-johnson.md",
+  "corpus_line": 53132,
+  "status": "done",
+  "worker": "w10",
+  "dat_range": "0479-0523",
+  "span": 45
+ },
+ {
+  "slug": "wiki/people/charles-davenport.md",
+  "corpus_line": 53177,
+  "status": "done",
+  "worker": "w9",
+  "dat_range": "0434-0478",
+  "span": 62
+ },
+ {
+  "slug": "wiki/people/christian-hanson.md",
+  "corpus_line": 53239,
+  "status": "done",
+  "worker": "w7",
+  "dat_range": "0344-0388",
+  "span": 49
+ },
+ {
+  "slug": "wiki/people/christo-coan.md",
+  "corpus_line": 53288,
+  "status": "done",
+  "worker": "w10",
+  "dat_range": "0479-0523",
+  "span": 96
+ },
+ {
+  "slug": "wiki/people/claire-ulmer.md",
+  "corpus_line": 53384,
+  "status": "done",
+  "worker": "w8",
+  "dat_range": "0389-0433",
+  "span": 88
+ },
+ {
+  "slug": "wiki/people/clyde.md",
+  "corpus_line": 53472,
+  "status": "done",
+  "worker": "w9",
+  "dat_range": "0434-0478",
+  "span": 46
+ },
+ {
+  "slug": "wiki/people/dakota.md",
+  "corpus_line": 53518,
+  "status": "done",
+  "worker": "w7",
+  "dat_range": "0344-0388",
+  "span": 49
+ },
+ {
+  "slug": "wiki/people/dan-polyak.md",
+  "corpus_line": 53567,
+  "status": "done",
+  "worker": "w10",
+  "dat_range": "0479-0523",
+  "span": 152
+ },
+ {
+  "slug": "wiki/people/danielle-onesi.md",
+  "corpus_line": 53719,
+  "status": "done",
+  "worker": "w10",
+  "dat_range": "0479-0523",
+  "span": 145
+ },
+ {
+  "slug": "wiki/people/danny-matthews.md",
+  "corpus_line": 53864,
+  "status": "done",
+  "worker": "w8",
+  "dat_range": "0389-0433",
+  "span": 106
+ },
+ {
+  "slug": "wiki/people/dave-moore.md",
+  "corpus_line": 53970,
+  "status": "done",
+  "worker": "w7",
+  "dat_range": "0344-0388",
+  "span": 135
+ },
+ {
+  "slug": "wiki/people/davey-fitzpatrick.md",
+  "corpus_line": 54105,
+  "status": "done",
+  "worker": "w9",
+  "dat_range": "0434-0478",
+  "span": 139
+ },
+ {
+  "slug": "wiki/people/david-beard.md",
+  "corpus_line": 54244,
+  "status": "done",
+  "worker": "w8",
+  "dat_range": "0389-0433",
+  "span": 73
+ },
+ {
+  "slug": "wiki/people/david-j-frank.md",
+  "corpus_line": 54317,
+  "status": "done",
+  "worker": "w7",
+  "dat_range": "0344-0388",
+  "span": 107
+ },
+ {
+  "slug": "wiki/people/del.md",
+  "corpus_line": 54424,
+  "status": "done",
+  "worker": "w8",
+  "dat_range": "0389-0433",
+  "span": 50
+ },
+ {
+  "slug": "wiki/people/diane-moore.md",
+  "corpus_line": 54474,
+  "status": "done",
+  "worker": "w8",
+  "dat_range": "0389-0433",
+  "span": 337
+ },
+ {
+  "slug": "wiki/people/dimitri.md",
+  "corpus_line": 54811,
+  "status": "done",
+  "worker": "w9",
+  "dat_range": "0434-0478",
+  "span": 97
+ },
+ {
+  "slug": "wiki/people/drew-mcgettigan.md",
+  "corpus_line": 54908,
+  "status": "done",
+  "worker": "w10",
+  "dat_range": "0479-0523",
+  "span": 59
+ },
+ {
+  "slug": "wiki/people/drew.md",
+  "corpus_line": 54967,
+  "status": "done",
+  "worker": "w10",
+  "dat_range": "0479-0523",
+  "span": 41
+ },
+ {
+  "slug": "wiki/people/ej-rags.md",
+  "corpus_line": 55008,
+  "status": "done",
+  "worker": "w7",
+  "dat_range": "0344-0388",
+  "span": 78
+ },
+ {
+  "slug": "wiki/people/eli.md",
+  "corpus_line": 55086,
+  "status": "done",
+  "worker": "w10",
+  "dat_range": "0479-0523",
+  "span": 119
+ },
+ {
+  "slug": "wiki/people/elizabeth-eleanor.md",
+  "corpus_line": 55205,
+  "status": "done",
+  "worker": "w10",
+  "dat_range": "0479-0523",
+  "span": 93
+ },
+ {
+  "slug": "wiki/people/ellen-ulmer.md",
+  "corpus_line": 55298,
+  "status": "done",
+  "worker": "w8",
+  "dat_range": "0389-0433",
+  "span": 195
+ },
+ {
+  "slug": "wiki/people/emaly-minerd.md",
+  "corpus_line": 55493,
+  "status": "done",
+  "worker": "w8",
+  "dat_range": "0389-0433",
+  "span": 410
+ },
+ {
+  "slug": "wiki/people/emilio.md",
+  "corpus_line": 55903,
+  "status": "done",
+  "worker": "w8",
+  "dat_range": "0389-0433",
+  "span": 111
+ },
+ {
+  "slug": "wiki/people/eric-jester.md",
+  "corpus_line": 56014,
+  "status": "done",
+  "worker": "w8",
+  "dat_range": "0389-0433",
+  "span": 132
+ },
+ {
+  "slug": "wiki/people/eric-springer.md",
+  "corpus_line": 56146,
+  "status": "done",
+  "worker": "w9",
+  "dat_range": "0434-0478",
+  "span": 43
+ },
+ {
+  "slug": "wiki/people/felipe.md",
+  "corpus_line": 56189,
+  "status": "done",
+  "worker": "w8",
+  "dat_range": "0389-0433",
+  "span": 47
+ },
+ {
+  "slug": "wiki/people/felix.md",
+  "corpus_line": 56236,
+  "status": "done",
+  "worker": "w9",
+  "dat_range": "0434-0478",
+  "span": 41
+ },
+ {
+  "slug": "wiki/people/fran-coldren.md",
+  "corpus_line": 56277,
+  "status": "done",
+  "worker": "w9",
+  "dat_range": "0434-0478",
+  "span": 444
+ },
+ {
+  "slug": "wiki/people/franki-faris.md",
+  "corpus_line": 56721,
+  "status": "done",
+  "worker": "w7",
+  "dat_range": "0344-0388",
+  "span": 237
+ },
+ {
+  "slug": "wiki/people/fred-adams.md",
+  "corpus_line": 56958,
+  "status": "done",
+  "worker": "w9",
+  "dat_range": "0434-0478",
+  "span": 253
+ },
+ {
+  "slug": "wiki/people/gabe.md",
+  "corpus_line": 57211,
+  "status": "done",
+  "worker": "w11",
+  "dat_range": "0524-0568",
+  "span": 94
+ },
+ {
+  "slug": "wiki/people/garrett.md",
+  "corpus_line": 57305,
+  "status": "done",
+  "worker": "w13",
+  "dat_range": "0614-0658",
+  "span": 90
+ },
+ {
+  "slug": "wiki/people/index.md",
+  "corpus_line": 57395,
+  "status": "done",
+  "worker": "w15",
+  "dat_range": "0704-0748",
+  "span": 190
+ },
+ {
+  "slug": "wiki/people/ismaila-barry.md",
+  "corpus_line": 57585,
+  "status": "done",
+  "worker": "w13",
+  "dat_range": "0614-0658",
+  "span": 72
+ },
+ {
+  "slug": "wiki/people/jack-connor.md",
+  "corpus_line": 57657,
+  "status": "done",
+  "worker": "w11",
+  "dat_range": "0524-0568",
+  "span": 61
+ },
+ {
+  "slug": "wiki/people/jack-rusko.md",
+  "corpus_line": 57718,
+  "status": "done",
+  "worker": "w13",
+  "dat_range": "0614-0658",
+  "span": 49
+ },
+ {
+  "slug": "wiki/people/jacob-bacharach.md",
+  "corpus_line": 57767,
+  "status": "done",
+  "worker": "w14",
+  "dat_range": "0659-0703",
+  "span": 282
+ },
+ {
+  "slug": "wiki/people/jajuan-davis.md",
+  "corpus_line": 58049,
+  "status": "done",
+  "worker": "w15",
+  "dat_range": "0704-0748",
+  "span": 45
+ },
+ {
+  "slug": "wiki/people/james-dee.md",
+  "corpus_line": 58094,
+  "status": "done",
+  "worker": "w14",
+  "dat_range": "0659-0703",
+  "span": 150
+ },
+ {
+  "slug": "wiki/people/james.md",
+  "corpus_line": 58244,
+  "status": "done",
+  "worker": "w13",
+  "dat_range": "0614-0658",
+  "span": 152
+ },
+ {
+  "slug": "wiki/people/jamie-mohler.md",
+  "corpus_line": 58396,
+  "status": "done",
+  "worker": "w11",
+  "dat_range": "0524-0568",
+  "span": 246
+ },
+ {
+  "slug": "wiki/people/jaredtricia.md",
+  "corpus_line": 58642,
+  "status": "done",
+  "worker": "w13",
+  "dat_range": "0614-0658",
+  "span": 111
+ },
+ {
+  "slug": "wiki/people/jason-bermejo.md",
+  "corpus_line": 58753,
+  "status": "done",
+  "worker": "w14",
+  "dat_range": "0659-0703",
+  "span": 204
+ },
+ {
+  "slug": "wiki/people/jason-cole.md",
+  "corpus_line": 58957,
+  "status": "done",
+  "worker": "w12",
+  "dat_range": "0569-0613",
+  "span": 53
+ },
+ {
+  "slug": "wiki/people/jay-lauer.md",
+  "corpus_line": 59010,
+  "status": "done",
+  "worker": "w14",
+  "dat_range": "0659-0703",
+  "span": 179
+ },
+ {
+  "slug": "wiki/people/jenn-lynn.md",
+  "corpus_line": 59189,
+  "status": "done",
+  "worker": "w12",
+  "dat_range": "0569-0613",
+  "span": 95
+ },
+ {
+  "slug": "wiki/people/jerad-friedline.md",
+  "corpus_line": 59284,
+  "status": "done",
+  "worker": "w12",
+  "dat_range": "0569-0613",
+  "span": 129
+ },
+ {
+  "slug": "wiki/people/jerel-coles.md",
+  "corpus_line": 59413,
+  "status": "done",
+  "worker": "w8",
+  "dat_range": "0389-0433",
+  "span": 564
+ },
+ {
+  "slug": "wiki/people/jess.md",
+  "corpus_line": 59977,
+  "status": "done",
+  "worker": "w15",
+  "dat_range": "0704-0748",
+  "span": 45
+ },
+ {
+  "slug": "wiki/people/jim-blanchard.md",
+  "corpus_line": 60022,
+  "status": "done",
+  "worker": "w11",
+  "dat_range": "0524-0568",
+  "span": 62
+ },
+ {
+  "slug": "wiki/people/jim-vrabel.md",
+  "corpus_line": 60084,
+  "status": "done",
+  "worker": "w14",
+  "dat_range": "0659-0703",
+  "span": 45
+ },
+ {
+  "slug": "wiki/people/jimmy.md",
+  "corpus_line": 60129,
+  "status": "done",
+  "worker": "w12",
+  "dat_range": "0569-0613",
+  "span": 43
+ },
+ {
+  "slug": "wiki/people/joe-croftcheck.md",
+  "corpus_line": 60172,
+  "status": "done",
+  "worker": "w15",
+  "dat_range": "0704-0748",
+  "span": 87
+ },
+ {
+  "slug": "wiki/people/joe-oshnack.md",
+  "corpus_line": 60259,
+  "status": "done",
+  "worker": "w11",
+  "dat_range": "0524-0568",
+  "span": 124
+ },
+ {
+  "slug": "wiki/people/joey-superick.md",
+  "corpus_line": 60383,
+  "status": "done",
+  "worker": "w13",
+  "dat_range": "0614-0658",
+  "span": 41
+ },
+ {
+  "slug": "wiki/people/john-anderson.md",
+  "corpus_line": 60424,
+  "status": "done",
+  "worker": "w14",
+  "dat_range": "0659-0703",
+  "span": 41
+ },
+ {
+  "slug": "wiki/people/john-carney.md",
+  "corpus_line": 60465,
+  "status": "done",
+  "worker": "w14",
+  "dat_range": "0659-0703",
+  "span": 89
+ },
+ {
+  "slug": "wiki/people/john-felix.md",
+  "corpus_line": 60554,
+  "status": "done",
+  "worker": "w12",
+  "dat_range": "0569-0613",
+  "span": 66
+ },
+ {
+  "slug": "wiki/people/john-paci.md",
+  "corpus_line": 60620,
+  "status": "done",
+  "worker": "w11",
+  "dat_range": "0524-0568",
+  "span": 245
+ },
+ {
+  "slug": "wiki/people/johnny-dealer.md",
+  "corpus_line": 60865,
+  "status": "done",
+  "worker": "w11",
+  "dat_range": "0524-0568",
+  "span": 168
+ },
+ {
+  "slug": "wiki/people/josh-brannan.md",
+  "corpus_line": 61033,
+  "status": "done",
+  "worker": "w14",
+  "dat_range": "0659-0703",
+  "span": 111
+ },
+ {
+  "slug": "wiki/people/josh-coccagna.md",
+  "corpus_line": 61144,
+  "status": "done",
+  "worker": "w18",
+  "dat_range": "0839-0883",
+  "span": 41
+ },
+ {
+  "slug": "wiki/people/katherine-palakovich.md",
+  "corpus_line": 61185,
+  "status": "done",
+  "worker": "w16",
+  "dat_range": "0749-0793",
+  "span": 77
+ },
+ {
+  "slug": "wiki/people/katie-fletcher.md",
+  "corpus_line": 61262,
+  "status": "done",
+  "worker": "w18",
+  "dat_range": "0839-0883",
+  "span": 155
+ },
+ {
+  "slug": "wiki/people/kelly-johansson.md",
+  "corpus_line": 61417,
+  "status": "done",
+  "worker": "w18",
+  "dat_range": "0839-0883",
+  "span": 57
+ },
+ {
+  "slug": "wiki/people/kevin-mckiernan.md",
+  "corpus_line": 61474,
+  "status": "done",
+  "worker": "w19",
+  "dat_range": "0884-0928",
+  "span": 161
+ },
+ {
+  "slug": "wiki/people/kim.md",
+  "corpus_line": 61635,
+  "status": "done",
+  "worker": "w19",
+  "dat_range": "0884-0928",
+  "span": 56
+ },
+ {
+  "slug": "wiki/people/kristin.md",
+  "corpus_line": 61691,
+  "status": "done",
+  "worker": "w17",
+  "dat_range": "0794-0838",
+  "span": 471
+ },
+ {
+  "slug": "wiki/people/kya-hansen.md",
+  "corpus_line": 62162,
+  "status": "done",
+  "worker": "w20",
+  "dat_range": "0929-0973",
+  "span": 89
+ },
+ {
+  "slug": "wiki/people/lauryn-ashly.md",
+  "corpus_line": 62251,
+  "status": "done",
+  "worker": "w18",
+  "dat_range": "0839-0883",
+  "span": 92
+ },
+ {
+  "slug": "wiki/people/lewis-strosnider.md",
+  "corpus_line": 62343,
+  "status": "done",
+  "worker": "w17",
+  "dat_range": "0794-0838",
+  "span": 102
+ },
+ {
+  "slug": "wiki/people/libby.md",
+  "corpus_line": 62445,
+  "status": "done",
+  "worker": "w17",
+  "dat_range": "0794-0838",
+  "span": 244
+ },
+ {
+  "slug": "wiki/people/lindsay-carolla.md",
+  "corpus_line": 62689,
+  "status": "done",
+  "worker": "w16",
+  "dat_range": "0749-0793",
+  "span": 47
+ },
+ {
+  "slug": "wiki/people/lisa-durbin.md",
+  "corpus_line": 62736,
+  "status": "done",
+  "worker": "w18",
+  "dat_range": "0839-0883",
+  "span": 45
+ },
+ {
+  "slug": "wiki/people/lisa-frank.md",
+  "corpus_line": 62781,
+  "status": "done",
+  "worker": "w18",
+  "dat_range": "0839-0883",
+  "span": 65
+ },
+ {
+  "slug": "wiki/people/lucas-thomas.md",
+  "corpus_line": 62846,
+  "status": "done",
+  "worker": "w18",
+  "dat_range": "0839-0883",
+  "span": 74
+ },
+ {
+  "slug": "wiki/people/lucie-dobbin.md",
+  "corpus_line": 62920,
+  "status": "done",
+  "worker": "w16",
+  "dat_range": "0749-0793",
+  "span": 102
+ },
+ {
+  "slug": "wiki/people/lucy.md",
+  "corpus_line": 63022,
+  "status": "done",
+  "worker": "w17",
+  "dat_range": "0794-0838",
+  "span": 62
+ },
+ {
+  "slug": "wiki/people/lukyan-mraz.md",
+  "corpus_line": 63084,
+  "status": "done",
+  "worker": "w18",
+  "dat_range": "0839-0883",
+  "span": 84
+ },
+ {
+  "slug": "wiki/people/maddox.md",
+  "corpus_line": 63168,
+  "status": "done",
+  "worker": "w17",
+  "dat_range": "0794-0838",
+  "span": 58
+ },
+ {
+  "slug": "wiki/people/manuel.md",
+  "corpus_line": 63226,
+  "status": "done",
+  "worker": "w17",
+  "dat_range": "0794-0838",
+  "span": 48
+ },
+ {
+  "slug": "wiki/people/marc-charles.md",
+  "corpus_line": 63274,
+  "status": "done",
+  "worker": "w19",
+  "dat_range": "0884-0928",
+  "span": 67
+ },
+ {
+  "slug": "wiki/people/marla.md",
+  "corpus_line": 63341,
+  "status": "done",
+  "worker": "w20",
+  "dat_range": "0929-0973",
+  "span": 68
+ },
+ {
+  "slug": "wiki/people/marty-jackson.md",
+  "corpus_line": 63409,
+  "status": "done",
+  "worker": "w20",
+  "dat_range": "0929-0973",
+  "span": 68
+ },
+ {
+  "slug": "wiki/people/marty-martin.md",
+  "corpus_line": 63477,
+  "status": "done",
+  "worker": "w20",
+  "dat_range": "0929-0973",
+  "span": 88
+ },
+ {
+  "slug": "wiki/people/mary-kate.md",
+  "corpus_line": 63565,
+  "status": "done",
+  "worker": "w17",
+  "dat_range": "0794-0838",
+  "span": 40
+ },
+ {
+  "slug": "wiki/people/matt-dunn.md",
+  "corpus_line": 63605,
+  "status": "done",
+  "worker": "w18",
+  "dat_range": "0839-0883",
+  "span": 125
+ },
+ {
+  "slug": "wiki/people/matt-kraus.md",
+  "corpus_line": 63730,
+  "status": "done",
+  "worker": "w20",
+  "dat_range": "0929-0973",
+  "span": 56
+ },
+ {
+  "slug": "wiki/people/matthew-palermo.md",
+  "corpus_line": 63786,
+  "status": "done",
+  "worker": "w19",
+  "dat_range": "0884-0928",
+  "span": 85
+ },
+ {
+  "slug": "wiki/people/max.md",
+  "corpus_line": 63871,
+  "status": "done",
+  "worker": "w17",
+  "dat_range": "0794-0838",
+  "span": 80
+ },
+ {
+  "slug": "wiki/people/md.md",
+  "corpus_line": 63951,
+  "status": "done",
+  "worker": "w19",
+  "dat_range": "0884-0928",
+  "span": 45
+ },
+ {
+  "slug": "wiki/people/menore.md",
+  "corpus_line": 63996,
+  "status": "done",
+  "worker": "w25",
+  "dat_range": "1154-1198",
+  "span": 418
+ },
+ {
+  "slug": "wiki/people/michael-hinkle.md",
+  "corpus_line": 64414,
+  "status": "done",
+  "worker": "w21",
+  "dat_range": "0974-1018",
+  "span": 37
+ },
+ {
+  "slug": "wiki/people/mike-cordaro.md",
+  "corpus_line": 64451,
+  "status": "done",
+  "worker": "w22",
+  "dat_range": "1019-1063",
+  "span": 48
+ },
+ {
+  "slug": "wiki/people/mike-hinkle.md",
+  "corpus_line": 64499,
+  "status": "done",
+  "worker": "w21",
+  "dat_range": "0974-1018",
+  "span": 49
+ },
+ {
+  "slug": "wiki/people/mike-zollinger.md",
+  "corpus_line": 64548,
+  "status": "done",
+  "worker": "w25",
+  "dat_range": "1154-1198",
+  "span": 41
+ },
+ {
+  "slug": "wiki/people/milo.md",
+  "corpus_line": 64589,
+  "status": "done",
+  "worker": "w21",
+  "dat_range": "0974-1018",
+  "span": 302
+ },
+ {
+  "slug": "wiki/people/mohammed-bin-salman.md",
+  "corpus_line": 64891,
+  "status": "done",
+  "worker": "w21",
+  "dat_range": "0974-1018",
+  "span": 49
+ },
+ {
+  "slug": "wiki/people/morley-frank.md",
+  "corpus_line": 64940,
+  "status": "done",
+  "worker": "w24",
+  "dat_range": "1109-1153",
+  "span": 137
+ },
+ {
+  "slug": "wiki/people/nathan-king.md",
+  "corpus_line": 65077,
+  "status": "done",
+  "worker": "w24",
+  "dat_range": "1109-1153",
+  "span": 41
+ },
+ {
+  "slug": "wiki/people/new-jim-shaffer.md",
+  "corpus_line": 65118,
+  "status": "done",
+  "worker": "w21",
+  "dat_range": "0974-1018",
+  "span": 75
+ },
+ {
+  "slug": "wiki/people/nick-mattie.md",
+  "corpus_line": 65193,
+  "status": "done",
+  "worker": "w23",
+  "dat_range": "1064-1108",
+  "span": 122
+ },
+ {
+  "slug": "wiki/people/oscar-lindquist.md",
+  "corpus_line": 65315,
+  "status": "done",
+  "worker": "w23",
+  "dat_range": "1064-1108",
+  "span": 85
+ },
+ {
+  "slug": "wiki/people/otto.md",
+  "corpus_line": 65400,
+  "status": "done",
+  "worker": "w22",
+  "dat_range": "1019-1063",
+  "span": 80
+ },
+ {
+  "slug": "wiki/people/renae-holland.md",
+  "corpus_line": 65480,
+  "status": "done",
+  "worker": "w21",
+  "dat_range": "0974-1018",
+  "span": 68
+ },
+ {
+  "slug": "wiki/people/rick-frank.md",
+  "corpus_line": 65548,
+  "status": "done",
+  "worker": "w22",
+  "dat_range": "1019-1063",
+  "span": 505
+ },
+ {
+  "slug": "wiki/people/rj-ritchey.md",
+  "corpus_line": 66053,
+  "status": "done",
+  "worker": "w21",
+  "dat_range": "0974-1018",
+  "span": 127
+ },
+ {
+  "slug": "wiki/people/rob-orange.md",
+  "corpus_line": 66180,
+  "status": "done",
+  "worker": "w21",
+  "dat_range": "0974-1018",
+  "span": 98
+ },
+ {
+  "slug": "wiki/people/rod-banks.md",
+  "corpus_line": 66278,
+  "status": "done",
+  "worker": "w21",
+  "dat_range": "0974-1018",
+  "span": 165
+ },
+ {
+  "slug": "wiki/people/ryan-lisac.md",
+  "corpus_line": 66443,
+  "status": "done",
+  "worker": "w23",
+  "dat_range": "1064-1108",
+  "span": 51
+ },
+ {
+  "slug": "wiki/people/ryan-scherich.md",
+  "corpus_line": 66494,
+  "status": "done",
+  "worker": "w22",
+  "dat_range": "1019-1063",
+  "span": 67
+ },
+ {
+  "slug": "wiki/people/sadie-harris.md",
+  "corpus_line": 66561,
+  "status": "done",
+  "worker": "w21",
+  "dat_range": "0974-1018",
+  "span": 129
+ },
+ {
+  "slug": "wiki/people/sam.md",
+  "corpus_line": 66690,
+  "status": "done",
+  "worker": "w25",
+  "dat_range": "1154-1198",
+  "span": 139
+ },
+ {
+  "slug": "wiki/people/sean-teets.md",
+  "corpus_line": 66829,
+  "status": "done",
+  "worker": "w22",
+  "dat_range": "1019-1063",
+  "span": 50
+ },
+ {
+  "slug": "wiki/people/seth-ledonne.md",
+  "corpus_line": 66879,
+  "status": "done",
+  "worker": "w25",
+  "dat_range": "1154-1198",
+  "span": 88
+ },
+ {
+  "slug": "wiki/people/shane-brannan.md",
+  "corpus_line": 66967,
+  "status": "done",
+  "worker": "w23",
+  "dat_range": "1064-1108",
+  "span": 101
+ },
+ {
+  "slug": "wiki/people/shannon.md",
+  "corpus_line": 67068,
+  "status": "done",
+  "worker": "w24",
+  "dat_range": "1109-1153",
+  "span": 55
+ },
+ {
+  "slug": "wiki/people/shelbie-breakiron.md",
+  "corpus_line": 67123,
+  "status": "done",
+  "worker": "w24",
+  "dat_range": "1109-1153",
+  "span": 150
+ },
+ {
+  "slug": "wiki/people/slim.md",
+  "corpus_line": 67273,
+  "status": "done",
+  "worker": "w23",
+  "dat_range": "1064-1108",
+  "span": 46
+ },
+ {
+  "slug": "wiki/people/stephanie-nalbone.md",
+  "corpus_line": 67319,
+  "status": "done",
+  "worker": "w21",
+  "dat_range": "0974-1018",
+  "span": 97
+ },
+ {
+  "slug": "wiki/people/steve-kezmarsky.md",
+  "corpus_line": 67416,
+  "status": "done",
+  "worker": "w23",
+  "dat_range": "1064-1108",
+  "span": 133
+ },
+ {
+  "slug": "wiki/people/suzanne-frank-personality-assessment.md",
+  "corpus_line": 67549,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 361
+ },
+ {
+  "slug": "wiki/people/suzanne-frank.md",
+  "corpus_line": 67910,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 1146
+ },
+ {
+  "slug": "wiki/people/tan-calabrese.md",
+  "corpus_line": 69056,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 66
+ },
+ {
+  "slug": "wiki/people/tarik-fallous.md",
+  "corpus_line": 69122,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 96
+ },
+ {
+  "slug": "wiki/people/teddy.md",
+  "corpus_line": 69218,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 130
+ },
+ {
+  "slug": "wiki/people/the-unnamed-man.md",
+  "corpus_line": 69348,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 226
+ },
+ {
+  "slug": "wiki/people/timmy.md",
+  "corpus_line": 69574,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 92
+ },
+ {
+  "slug": "wiki/people/tom-wallisch.md",
+  "corpus_line": 69666,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 49
+ },
+ {
+  "slug": "wiki/people/tom.md",
+  "corpus_line": 69715,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 328
+ },
+ {
+  "slug": "wiki/people/trevor.md",
+  "corpus_line": 70043,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 130
+ },
+ {
+  "slug": "wiki/people/trinity-st-clair.md",
+  "corpus_line": 70173,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 92
+ },
+ {
+  "slug": "wiki/people/tuquick-17248123683.md",
+  "corpus_line": 70265,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 214
+ },
+ {
+  "slug": "wiki/people/urpaaa-at-yahoo-com.md",
+  "corpus_line": 70479,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 115
+ },
+ {
+  "slug": "wiki/people/valeria-iglesias-cid.md",
+  "corpus_line": 70594,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 184
+ },
+ {
+  "slug": "wiki/people/vanessa-frank.md",
+  "corpus_line": 70778,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 184
+ },
+ {
+  "slug": "wiki/people/vaughn.md",
+  "corpus_line": 70962,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 123
+ },
+ {
+  "slug": "wiki/people/vicki.md",
+  "corpus_line": 71085,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 103
+ },
+ {
+  "slug": "wiki/people/zach-clabaugh.md",
+  "corpus_line": 71188,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 46
+ },
+ {
+  "slug": "wiki/people/zach-clingan.md",
+  "corpus_line": 71234,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 301
+ },
+ {
+  "slug": "wiki/people/zach-hendricks.md",
+  "corpus_line": 71535,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 47
+ },
+ {
+  "slug": "wiki/people/zachariah-harshman.md",
+  "corpus_line": 71582,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 221
+ },
+ {
+  "slug": "wiki/people/zaco.md",
+  "corpus_line": 71803,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 117
+ },
+ {
+  "slug": "wiki/places/117-belmont-circle.md",
+  "corpus_line": 71920,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 300
+ },
+ {
+  "slug": "wiki/places/155-virginia-ave.md",
+  "corpus_line": 72220,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 174
+ },
+ {
+  "slug": "wiki/places/307-e-76th-st.md",
+  "corpus_line": 72394,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 200
+ },
+ {
+  "slug": "wiki/places/337-saratoga-drive.md",
+  "corpus_line": 72594,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 145
+ },
+ {
+  "slug": "wiki/places/424-bedford-ave.md",
+  "corpus_line": 72739,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 132
+ },
+ {
+  "slug": "wiki/places/90th-st-manhattan.md",
+  "corpus_line": 72871,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 126
+ },
+ {
+  "slug": "wiki/places/derrick-avenue.md",
+  "corpus_line": 72997,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 129
+ },
+ {
+  "slug": "wiki/places/index.md",
+  "corpus_line": 73126,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 30
+ },
+ {
+  "slug": "wiki/places/seven-springs.md",
+  "corpus_line": 73156,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 120
+ },
+ {
+  "slug": "wiki/places/the-unpapered-address.md",
+  "corpus_line": 73276,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 563
+ },
+ {
+  "slug": "wiki/self/ancestry.md",
+  "corpus_line": 73839,
+  "status": "done",
+  "worker": "w19",
+  "dat_range": "0884-0928",
+  "span": 350
+ },
+ {
+  "slug": "wiki/self/chats/9-11-chat.md",
+  "corpus_line": 74189,
+  "status": "done",
+  "worker": "w16",
+  "dat_range": "0749-0793",
+  "span": 47
+ },
+ {
+  "slug": "wiki/self/chats/danfrank-isms-pinned.md",
+  "corpus_line": 74236,
+  "status": "done",
+  "worker": "w19",
+  "dat_range": "0884-0928",
+  "span": 108
+ },
+ {
+  "slug": "wiki/self/chats/extract-messages-pinned.md",
+  "corpus_line": 74344,
+  "status": "done",
+  "worker": "w20",
+  "dat_range": "0929-0973",
+  "span": 33
+ },
+ {
+  "slug": "wiki/self/chats/gemini-07.md",
+  "corpus_line": 74377,
+  "status": "done",
+  "worker": "w16",
+  "dat_range": "0749-0793",
+  "span": 132
+ },
+ {
+  "slug": "wiki/self/chats/gemini-13.md",
+  "corpus_line": 74509,
+  "status": "done",
+  "worker": "w18",
+  "dat_range": "0839-0883",
+  "span": 54
+ },
+ {
+  "slug": "wiki/self/chats/gemini-18.md",
+  "corpus_line": 74563,
+  "status": "done",
+  "worker": "w20",
+  "dat_range": "0929-0973",
+  "span": 109
+ },
+ {
+  "slug": "wiki/self/chats/gemini-21.md",
+  "corpus_line": 74672,
+  "status": "done",
+  "worker": "w18",
+  "dat_range": "0839-0883",
+  "span": 107
+ },
+ {
+  "slug": "wiki/self/chats/gemini-58.md",
+  "corpus_line": 74779,
+  "status": "done",
+  "worker": "w16",
+  "dat_range": "0749-0793",
+  "span": 62
+ },
+ {
+  "slug": "wiki/self/chats/j6-chat.md",
+  "corpus_line": 74841,
+  "status": "done",
+  "worker": "w17",
+  "dat_range": "0794-0838",
+  "span": 101
+ },
+ {
+  "slug": "wiki/self/chats/photo-ingest-pinned.md",
+  "corpus_line": 74942,
+  "status": "done",
+  "worker": "w19",
+  "dat_range": "0884-0928",
+  "span": 42
+ },
+ {
+  "slug": "wiki/self/concepts/ally-and-dan-love-as-destiny.md",
+  "corpus_line": 74984,
+  "status": "done",
+  "worker": "w20",
+  "dat_range": "0929-0973",
+  "span": 362
+ },
+ {
+  "slug": "wiki/self/concepts/astrology-star-signs.md",
+  "corpus_line": 75346,
+  "status": "done",
+  "worker": "w20",
+  "dat_range": "0929-0973",
+  "span": 116
+ },
+ {
+  "slug": "wiki/self/concepts/chatgpt.md",
+  "corpus_line": 75462,
+  "status": "done",
+  "worker": "w18",
+  "dat_range": "0839-0883",
+  "span": 403
+ },
+ {
+  "slug": "wiki/self/concepts/claude-code.md",
+  "corpus_line": 75865,
+  "status": "done",
+  "worker": "w18",
+  "dat_range": "0839-0883",
+  "span": 304
+ },
+ {
+  "slug": "wiki/self/concepts/claude.md",
+  "corpus_line": 76169,
+  "status": "done",
+  "worker": "w21",
+  "dat_range": "0974-1018",
+  "span": 287
+ },
+ {
+  "slug": "wiki/self/concepts/gemini.md",
+  "corpus_line": 76456,
+  "status": "done",
+  "worker": "w25",
+  "dat_range": "1154-1198",
+  "span": 214
+ },
+ {
+  "slug": "wiki/self/concepts/llm.md",
+  "corpus_line": 76670,
+  "status": "done",
+  "worker": "w24",
+  "dat_range": "1109-1153",
+  "span": 261
+ },
+ {
+  "slug": "wiki/self/concepts/wiki-brain.md",
+  "corpus_line": 76931,
+  "status": "done",
+  "worker": "w24",
+  "dat_range": "1109-1153",
+  "span": 185
+ },
+ {
+  "slug": "wiki/self/context-core.md",
+  "corpus_line": 77116,
+  "status": "done",
+  "worker": "w22",
+  "dat_range": "1019-1063",
+  "span": 317
+ },
+ {
+  "slug": "wiki/self/facebook/friends.md",
+  "corpus_line": 77433,
+  "status": "done",
+  "worker": "w23",
+  "dat_range": "1064-1108",
+  "span": 67
+ },
+ {
+  "slug": "wiki/self/facebook/interests.md",
+  "corpus_line": 77500,
+  "status": "done",
+  "worker": "w24",
+  "dat_range": "1109-1153",
+  "span": 65
+ },
+ {
+  "slug": "wiki/self/facebook/messages.md",
+  "corpus_line": 77565,
+  "status": "done",
+  "worker": "w22",
+  "dat_range": "1019-1063",
+  "span": 99
+ },
+ {
+  "slug": "wiki/self/facebook/posts.md",
+  "corpus_line": 77664,
+  "status": "done",
+  "worker": "w22",
+  "dat_range": "1019-1063",
+  "span": 97
+ },
+ {
+  "slug": "wiki/self/facebook.md",
+  "corpus_line": 77761,
+  "status": "done",
+  "worker": "w25",
+  "dat_range": "1154-1198",
+  "span": 115
+ },
+ {
+  "slug": "wiki/self/favorites.md",
+  "corpus_line": 77876,
+  "status": "done",
+  "worker": "w21",
+  "dat_range": "0974-1018",
+  "span": 168
+ },
+ {
+  "slug": "wiki/self/gemini-activity/archive/v1-extract.md",
+  "corpus_line": 78044,
+  "status": "done",
+  "worker": "w22",
+  "dat_range": "1019-1063",
+  "span": 123
+ },
+ {
+  "slug": "wiki/self/gemini-activity/gemini-activity.md",
+  "corpus_line": 78167,
+  "status": "done",
+  "worker": "w24",
+  "dat_range": "1109-1153",
+  "span": 87
+ },
+ {
+  "slug": "wiki/self/index.md",
+  "corpus_line": 78254,
+  "status": "done",
+  "worker": "w24",
+  "dat_range": "1109-1153",
+  "span": 109
+ },
+ {
+  "slug": "wiki/self/lineage/23andme-genomics.md",
+  "corpus_line": 78363,
+  "status": "done",
+  "worker": "w23",
+  "dat_range": "1064-1108",
+  "span": 270
+ },
+ {
+  "slug": "wiki/self/lineage/family-tree.md",
+  "corpus_line": 78633,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 420
+ },
+ {
+  "slug": "wiki/self/lineage/hybrid-analysis.md",
+  "corpus_line": 79053,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 121
+ },
+ {
+  "slug": "wiki/self/lineage/index.md",
+  "corpus_line": 79174,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 29
+ },
+ {
+  "slug": "wiki/self/location-history.md",
+  "corpus_line": 79203,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 301
+ },
+ {
+  "slug": "wiki/self/message-corpora/master-message-dump.md",
+  "corpus_line": 79504,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 190
+ },
+ {
+  "slug": "wiki/self/message-corpora/source-coverage-index.md",
+  "corpus_line": 79694,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 206
+ },
+ {
+  "slug": "wiki/self/overview.md",
+  "corpus_line": 79900,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 181
+ },
+ {
+  "slug": "wiki/self/tattoos.md",
+  "corpus_line": 80081,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 306
+ },
+ {
+  "slug": "wiki/self/twitter/2008.md",
+  "corpus_line": 80387,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 789
+ },
+ {
+  "slug": "wiki/self/twitter/2009.md",
+  "corpus_line": 81176,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 2008
+ },
+ {
+  "slug": "wiki/self/twitter/2010.md",
+  "corpus_line": 83184,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 2413
+ },
+ {
+  "slug": "wiki/self/twitter/2011.md",
+  "corpus_line": 85597,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 1681
+ },
+ {
+  "slug": "wiki/self/twitter/2012.md",
+  "corpus_line": 87278,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 1543
+ },
+ {
+  "slug": "wiki/self/twitter/2013.md",
+  "corpus_line": 88821,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 2396
+ },
+ {
+  "slug": "wiki/self/twitter/2014.md",
+  "corpus_line": 91217,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 1301
+ },
+ {
+  "slug": "wiki/self/twitter/2015.md",
+  "corpus_line": 92518,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 521
+ },
+ {
+  "slug": "wiki/self/twitter/2016.md",
+  "corpus_line": 93039,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 665
+ },
+ {
+  "slug": "wiki/self/twitter/2017.md",
+  "corpus_line": 93704,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 873
+ },
+ {
+  "slug": "wiki/self/twitter/2018.md",
+  "corpus_line": 94577,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 724
+ },
+ {
+  "slug": "wiki/self/twitter/2019.md",
+  "corpus_line": 95301,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 557
+ },
+ {
+  "slug": "wiki/self/twitter/2020.md",
+  "corpus_line": 95858,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 312
+ },
+ {
+  "slug": "wiki/self/twitter/2021.md",
+  "corpus_line": 96170,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 360
+ },
+ {
+  "slug": "wiki/self/twitter/2022.md",
+  "corpus_line": 96530,
+  "status": "done",
+  "worker": "w27",
+  "dat_range": "1244-1288",
+  "span": 1175
+ },
+ {
+  "slug": "wiki/self/twitter/2023.md",
+  "corpus_line": 97705,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 1199
+ },
+ {
+  "slug": "wiki/self/twitter/2024.md",
+  "corpus_line": 98904,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 1727
+ },
+ {
+  "slug": "wiki/self/twitter/2025.md",
+  "corpus_line": 100631,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 190
+ },
+ {
+  "slug": "wiki/self/twitter/2026.md",
+  "corpus_line": 100821,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 341
+ },
+ {
+  "slug": "wiki/self/twitter.md",
+  "corpus_line": 101162,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 345
+ },
+ {
+  "slug": "wiki/self/youtube-watch-history.md",
+  "corpus_line": 101507,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 341
+ },
+ {
+  "slug": "wiki/timeline/2015-annie-read-wiki-impact-analysis.md",
+  "corpus_line": 101848,
+  "status": "done",
+  "worker": "w2",
+  "dat_range": "0104-0148",
+  "span": 435
+ },
+ {
+  "slug": "wiki/timeline/annie-read-notes.md",
+  "corpus_line": 102283,
+  "status": "done",
+  "worker": "w3",
+  "dat_range": "0149-0193",
+  "span": 509
+ },
+ {
+  "slug": "wiki/timeline/annie-record.md",
+  "corpus_line": 102792,
+  "status": "done",
+  "worker": "w3",
+  "dat_range": "0149-0193",
+  "span": 1278
+ },
+ {
+  "slug": "wiki/timeline/events/2026-08-26-dan-consistency-test.md",
+  "corpus_line": 104070,
+  "status": "done",
+  "worker": "w3",
+  "dat_range": "0149-0193",
+  "span": 138
+ },
+ {
+  "slug": "wiki/timeline/events/2026-08-26-visible-change-2.md",
+  "corpus_line": 104208,
+  "status": "done",
+  "worker": "w5",
+  "dat_range": "0239-0283",
+  "span": 178
+ },
+ {
+  "slug": "wiki/timeline/events/2026-08-26-visible-change.md",
+  "corpus_line": 104386,
+  "status": "done",
+  "worker": "w3",
+  "dat_range": "0149-0193",
+  "span": 75
+ },
+ {
+  "slug": "wiki/timeline/events/annie-alexis-reunion-november-2018.md",
+  "corpus_line": 104461,
+  "status": "done",
+  "worker": "w2",
+  "dat_range": "0104-0148",
+  "span": 126
+ },
+ {
+  "slug": "wiki/timeline/events/april-may-2026-final-weeks.md",
+  "corpus_line": 104587,
+  "status": "done",
+  "worker": "w5",
+  "dat_range": "0239-0283",
+  "span": 79
+ },
+ {
+  "slug": "wiki/timeline/events/august-2026-morgantown-call-source-amendment.md",
+  "corpus_line": 104666,
+  "status": "done",
+  "worker": "w3",
+  "dat_range": "0149-0193",
+  "span": 84
+ },
+ {
+  "slug": "wiki/timeline/events/august-2026-morgantown-call.md",
+  "corpus_line": 104750,
+  "status": "done",
+  "worker": "w5",
+  "dat_range": "0239-0283",
+  "span": 978
+ },
+ {
+  "slug": "wiki/timeline/events/august-2026-unmasking.md",
+  "corpus_line": 105728,
+  "status": "done",
+  "worker": "w4",
+  "dat_range": "0194-0238",
+  "span": 285
+ },
+ {
+  "slug": "wiki/timeline/events/bald-eagle-cummings.md",
+  "corpus_line": 106013,
+  "status": "done",
+  "worker": "w4",
+  "dat_range": "0194-0238",
+  "span": 163
+ },
+ {
+  "slug": "wiki/timeline/events/eli-incident.md",
+  "corpus_line": 106176,
+  "status": "done",
+  "worker": "w4",
+  "dat_range": "0194-0238",
+  "span": 123
+ },
+ {
+  "slug": "wiki/timeline/events/end-fight.md",
+  "corpus_line": 106299,
+  "status": "done",
+  "worker": "w2",
+  "dat_range": "0104-0148",
+  "span": 71
+ },
+ {
+  "slug": "wiki/timeline/events/fran-death-vigil.md",
+  "corpus_line": 106370,
+  "status": "done",
+  "worker": "w3",
+  "dat_range": "0149-0193",
+  "span": 382
+ },
+ {
+  "slug": "wiki/timeline/events/franki-fireworks-day-2013.md",
+  "corpus_line": 106752,
+  "status": "done",
+  "worker": "w10",
+  "dat_range": "0479-0523",
+  "span": 216
+ },
+ {
+  "slug": "wiki/timeline/events/group-chat-closure.md",
+  "corpus_line": 106968,
+  "status": "done",
+  "worker": "w9",
+  "dat_range": "0434-0478",
+  "span": 121
+ },
+ {
+  "slug": "wiki/timeline/events/james-analysis-pdf.md",
+  "corpus_line": 107089,
+  "status": "done",
+  "worker": "w8",
+  "dat_range": "0389-0433",
+  "span": 244
+ },
+ {
+  "slug": "wiki/timeline/events/july-2026-recontact.md",
+  "corpus_line": 107333,
+  "status": "done",
+  "worker": "w7",
+  "dat_range": "0344-0388",
+  "span": 353
+ },
+ {
+  "slug": "wiki/timeline/events/july-august-2026-reentanglement.md",
+  "corpus_line": 107686,
+  "status": "done",
+  "worker": "w9",
+  "dat_range": "0434-0478",
+  "span": 525
+ },
+ {
+  "slug": "wiki/timeline/events/march-2026-terminal-phase.md",
+  "corpus_line": 108211,
+  "status": "done",
+  "worker": "w7",
+  "dat_range": "0344-0388",
+  "span": 192
+ },
+ {
+  "slug": "wiki/timeline/events/robotussin-s-last-dance.md",
+  "corpus_line": 108403,
+  "status": "done",
+  "worker": "w7",
+  "dat_range": "0344-0388",
+  "span": 107
+ },
+ {
+  "slug": "wiki/timeline/events/shelbie-annie-threesome-april-2019.md",
+  "corpus_line": 108510,
+  "status": "done",
+  "worker": "w8",
+  "dat_range": "0389-0433",
+  "span": 231
+ },
+ {
+  "slug": "wiki/timeline/events/teen-concert-years.md",
+  "corpus_line": 108741,
+  "status": "done",
+  "worker": "w7",
+  "dat_range": "0344-0388",
+  "span": 187
+ },
+ {
+  "slug": "wiki/timeline/events/the-fall-of-fran.md",
+  "corpus_line": 108928,
+  "status": "done",
+  "worker": "w10",
+  "dat_range": "0479-0523",
+  "span": 204
+ },
+ {
+  "slug": "wiki/timeline/events/timeline.md",
+  "corpus_line": 109132,
+  "status": "done",
+  "worker": "w9",
+  "dat_range": "0434-0478",
+  "span": 88
+ },
+ {
+  "slug": "wiki/timeline/events/uniontown-hospital-vape-alarm.md",
+  "corpus_line": 109220,
+  "status": "done",
+  "worker": "w10",
+  "dat_range": "0479-0523",
+  "span": 275
+ },
+ {
+  "slug": "wiki/timeline/index.md",
+  "corpus_line": 109495,
+  "status": "done",
+  "worker": "w7",
+  "dat_range": "0344-0388",
+  "span": 75
+ },
+ {
+  "slug": "wiki/timeline/master-timeline.md",
+  "corpus_line": 109570,
+  "status": "done",
+  "worker": "w6",
+  "dat_range": "0284-0343",
+  "span": 7654
+ },
+ {
+  "slug": "wiki/timeline/periods/2010s.md",
+  "corpus_line": 117224,
+  "status": "done",
+  "worker": "w12",
+  "dat_range": "0569-0613",
+  "span": 251
+ },
+ {
+  "slug": "wiki/timeline/periods/2015-2016-annie-relationship-start.md",
+  "corpus_line": 117475,
+  "status": "done",
+  "worker": "w11",
+  "dat_range": "0524-0568",
+  "span": 117
+ },
+ {
+  "slug": "wiki/timeline/periods/2017-poverty-floor.md",
+  "corpus_line": 117592,
+  "status": "done",
+  "worker": "w15",
+  "dat_range": "0704-0748",
+  "span": 105
+ },
+ {
+  "slug": "wiki/timeline/periods/2018-deep-cycle.md",
+  "corpus_line": 117697,
+  "status": "done",
+  "worker": "w14",
+  "dat_range": "0659-0703",
+  "span": 82
+ },
+ {
+  "slug": "wiki/timeline/periods/2020-2021-market-era.md",
+  "corpus_line": 117779,
+  "status": "done",
+  "worker": "w14",
+  "dat_range": "0659-0703",
+  "span": 103
+ },
+ {
+  "slug": "wiki/timeline/periods/2021-2023-employment-block.md",
+  "corpus_line": 117882,
+  "status": "done",
+  "worker": "w12",
+  "dat_range": "0569-0613",
+  "span": 178
+ },
+ {
+  "slug": "wiki/timeline/periods/2025-collapse.md",
+  "corpus_line": 118060,
+  "status": "done",
+  "worker": "w11",
+  "dat_range": "0524-0568",
+  "span": 92
+ },
+ {
+  "slug": "wiki/timeline/periods/covid-era-2020.md",
+  "corpus_line": 118152,
+  "status": "done",
+  "worker": "w15",
+  "dat_range": "0704-0748",
+  "span": 104
+ },
+ {
+  "slug": "wiki/timeline/periods/dark-era-2007-2008.md",
+  "corpus_line": 118256,
+  "status": "done",
+  "worker": "w12",
+  "dat_range": "0569-0613",
+  "span": 156
+ },
+ {
+  "slug": "wiki/timeline/periods/dec-2025-spike.md",
+  "corpus_line": 118412,
+  "status": "done",
+  "worker": "w12",
+  "dat_range": "0569-0613",
+  "span": 43
+ },
+ {
+  "slug": "wiki/timeline/periods/feb-apr-2025-return-and-rupture.md",
+  "corpus_line": 118455,
+  "status": "done",
+  "worker": "w14",
+  "dat_range": "0659-0703",
+  "span": 133
+ },
+ {
+  "slug": "wiki/timeline/periods/full-sail-2008-2010.md",
+  "corpus_line": 118588,
+  "status": "done",
+  "worker": "w15",
+  "dat_range": "0704-0748",
+  "span": 313
+ },
+ {
+  "slug": "wiki/timeline/periods/uniontown-return-2013-2015.md",
+  "corpus_line": 118901,
+  "status": "done",
+  "worker": "w15",
+  "dat_range": "0704-0748",
+  "span": 138
+ },
+ {
+  "slug": "wiki/work/au-zaatar.md",
+  "corpus_line": 119039,
+  "status": "done",
+  "worker": "w9",
+  "dat_range": "0434-0478",
+  "span": 298
+ },
+ {
+  "slug": "wiki/work/bfs-foods.md",
+  "corpus_line": 119337,
+  "status": "done",
+  "worker": "w10",
+  "dat_range": "0479-0523",
+  "span": 493
+ },
+ {
+  "slug": "wiki/work/caviar-courier.md",
+  "corpus_line": 119830,
+  "status": "done",
+  "worker": "w10",
+  "dat_range": "0479-0523",
+  "span": 57
+ },
+ {
+  "slug": "wiki/work/creative-license.md",
+  "corpus_line": 119887,
+  "status": "done",
+  "worker": "w10",
+  "dat_range": "0479-0523",
+  "span": 298
+ },
+ {
+  "slug": "wiki/work/fastly-fsly.md",
+  "corpus_line": 120185,
+  "status": "done",
+  "worker": "w9",
+  "dat_range": "0434-0478",
+  "span": 170
+ },
+ {
+  "slug": "wiki/work/index.md",
+  "corpus_line": 120355,
+  "status": "done",
+  "worker": "w10",
+  "dat_range": "0479-0523",
+  "span": 37
+ },
+ {
+  "slug": "wiki/work/nemacolin-caddying.md",
+  "corpus_line": 120392,
+  "status": "done",
+  "worker": "w8",
+  "dat_range": "0389-0433",
+  "span": 183
+ },
+ {
+  "slug": "wiki/work/tech/ai-video-essays.md",
+  "corpus_line": 120575,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 138
+ },
+ {
+  "slug": "wiki/work/tech/danmodel.md",
+  "corpus_line": 120713,
+  "status": "done",
+  "worker": "w26",
+  "dat_range": "1199-1243",
+  "span": 168
+ },
+ {
+  "slug": "wiki/work/tech/grok-build/overview.md",
+  "corpus_line": 120881,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 74
+ },
+ {
+  "slug": "wiki/work/tech/imessage-tooling/overview.md",
+  "corpus_line": 120955,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 83
+ },
+ {
+  "slug": "wiki/work/tech/index.md",
+  "corpus_line": 121038,
+  "status": "done",
+  "worker": "w29",
+  "dat_range": "1334-1378",
+  "span": 88
+ },
+ {
+  "slug": "wiki/work/tech/max-framework/overview.md",
+  "corpus_line": 121126,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 181
+ },
+ {
+  "slug": "wiki/work/tech/mneme/overview.md",
+  "corpus_line": 121307,
+  "status": "done",
+  "worker": "w28",
+  "dat_range": "1289-1333",
+  "span": 94
+ },
+ {
+  "slug": "wiki/work/tech/vibe-coding-games.md",
+  "corpus_line": 121401,
+  "status": "done",
+  "worker": "w30",
+  "dat_range": "1379-1423",
+  "span": 56
+ }
+]

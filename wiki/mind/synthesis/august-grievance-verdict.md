@@ -10,8 +10,8 @@ date_created: 2026-08-20
 date_modified: 2026-08-28
 # operator answers from 2026-08-20 have been integrated below
 
-> **RE-CHECKED [2026-08-22] — premise moved by a re-check block only, at
-> third remove.** [[wiki/mind/synthesis/attachment-trauma-bond]] moved on 2026-08-22 solely by
+> **RE-CHECKED [2026-08-22] — premise moved by a re-check block only, at**
+> **third remove.** [[wiki/mind/synthesis/attachment-trauma-bond]] moved on 2026-08-22 solely by
 > gaining a `RE-CHECKED` blockquote, which itself recorded that *its* premises
 > had moved only by re-check blocks, all of them tracing back to the April 2018
 > hospital summons ([[wiki/timeline/events/uniontown-hospital-vape-alarm]]) and
@@ -107,8 +107,8 @@ connections:
 > **RE-CHECKED [2026-08-23]:** flagged stale against
 > [[wiki/mind/synthesis/block-unblock-loop]] (2026-08-23), which gained a
 > re-derivation of the exit-declaration base rate — 129 episodes, 100%
-> re-engagement, median gap thirty-six seconds. **This page carries none of
-> those figures and none of its ten grievance adjudications depends on them**;
+> re-engagement, median gap thirty-six seconds. **This page carries none of**
+> **those figures and none of its ten grievance adjudications depends on them**;
 > its evidence base is the Morgantown transcript and the August 16–19 message
 > record. Nothing withdrawn. Worth noting forward: the base rate makes this
 > page's severance the first in the record to outlast the historical maximum,
@@ -176,12 +176,12 @@ baseline the grievances are stated against.
 **15 August, 21:09 — the question, asked explicitly.** This is the hinge, and
 it is worth quoting exactly because grievance 1 stands or falls on it:
 
-> **Dan, 21:09:50** — *"So if you are going to have ANY kind of contact with
-> that person PLEASE for my sake just tell me you aren't going to be able to
-> have anything to do with me."*
+> **Dan, 21:09:50** — *"So if you are going to have ANY kind of contact with*
+> *that person PLEASE for my sake just tell me you aren't going to be able to*
+> *have anything to do with me."*
 >
-> **Annie, 21:13:08** — *"I UNDERSTAND THAT YHAT IF I AM GOING TO HAVE ANY SORT
-> OF CONTACT THEN TO TELL YOU"*
+> **Annie, 21:13:08** — *"I UNDERSTAND THAT YHAT IF I AM GOING TO HAVE ANY SORT*
+> *OF CONTACT THEN TO TELL YOU"*
 
 She restates the rule. She does not answer the question. Dan says so in real
 time — *"Actually that's kind of all I needed to know… The fact that it is even
@@ -293,8 +293,8 @@ made to his face, which he denies four times in the next breath.
 > *"I said I'm willing to leave!"* is actually ***"I'm willing to leave"***
 > (09:44) — no *"I said"*. And *"she says 'I want to leave' repeatedly"* was
 > dated from 11:04; it begins at **04:16**. Every correction moves in the same
-> direction: **her defence is better supported by the real transcript than by
-> the one this page was built on.**
+> direction: **her defence is better supported by the real transcript than by**
+> **the one this page was built on.**
 
 > **CONTRADICTION [2026-08-20] — she does say the word, once, under duress.**
 > The Morgantown event page previously asserted, and this page assumed, that
@@ -307,11 +307,11 @@ made to his face, which he denies four times in the next breath.
 > two words are ambiguous on their face — *"save it"* is a dismissal, and the
 > clause reads as plausibly as *stop, drop it* as it does as assent — and they
 > are produced by a woman whose phone is being withheld until she answers, by
-> a man threatening to call her mother if she does not. **Assent extracted that
-> way is worth nothing as evidence about 2019**, which is the year the
+> a man threatening to call her mother if she does not. **Assent extracted that**
+> **way is worth nothing as evidence about 2019**, which is the year the
 > allegation concerns. But the record cannot say she never said it. The
-> defensible claim is narrower: **she never freely affirmed it, and she is
-> never heard affirming it except under duress.**
+> defensible claim is narrower: **she never freely affirmed it, and she is**
+> **never heard affirming it except under duress.**
 
 **The narrow window where his reading survives.** She was not on that call for
 seventy hours. She was at her parents' house on the 17th, at Sugie's on the 18th
@@ -336,8 +336,8 @@ Nov 2025 and Feb 2026 written denials of any third party issued while she was
 involved with Coles ([[wiki/mind/synthesis/dan-annie-fallout-verdict]]), and the
 same shape as *"I'm at home Dan… i dont know why he's doing that."*
 
-> **This is a finding about behaviour under pressure, not a verdict on the
-> underlying claim.** A retraction made in front of the accused, hours before
+> **This is a finding about behaviour under pressure, not a verdict on the**
+> **underlying claim.** A retraction made in front of the accused, hours before
 > the accuser expects a record of her accusation to reach her family, is
 > evidence about audience before it is evidence about events — in either
 > direction. The corpus holds four positions on it and scores none.
@@ -525,10 +525,10 @@ those two things is the whole of what this page has to say.
 > The operator lists several unresolved explanations — that she may have been
 > luring him toward a confrontation with Coles, checking whether she was still
 > blocked so Coles could continue harassment, or remaining in damage control over
-> the email she believed had already been sent. **The motive is explicitly
-> unresolved; the note closes the narrower question of how the operator came to
-> regard the SOS sequence as fraudulent rather than establishing which motive,
-> if any, actually operated.**
+> the email she believed had already been sent. **The motive is explicitly**
+> **unresolved; the note closes the narrower question of how the operator came to**
+> **regard the SOS sequence as fraudulent rather than establishing which motive,**
+> **if any, actually operated.**
 >
 > The note also records that Dan understood responding to the apparent danger as
 > the ethical thing to do despite the suspicion, and that Ally Lubin told him in
@@ -538,8 +538,8 @@ those two things is the whole of what this page has to say.
 
 ### GAP CLOSED [2026-08-20] — "I just want to be alone" is a recurring exit formulation
 
-> The operator's manual note identifies *"I just want to be alone"* and *"by
-> myself"* as recurring formulations in Annie's behavior. His interpretation is
+> The operator's manual note identifies *"I just want to be alone"* and *"by*
+> *myself"* as recurring formulations in Annie's behavior. His interpretation is
 > that they function as a way to avoid accepting her own role in the outcome
 > while still accomplishing the desired relational result. He further points
 > to the mismatch between the stated desire for solitude and her subsequent

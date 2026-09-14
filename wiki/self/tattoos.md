@@ -136,8 +136,8 @@ that Dan framed to the artist as the first of "4 or 5 other pieces"
 before turning 30 — so the pre-30 tattoo campaign was already on his mind
 at the start of that year, and the Misfits work was not its opening move.
 
-> **DISCREPANCY:** on 7 December 2018 Dan wrote *"I'm 30 years old, got a
-> Misfits tattoo last week."* The Messenger thread with Chris Redmond
+> **DISCREPANCY:** on 7 December 2018 Dan wrote *"I'm 30 years old, got a*
+> *Misfits tattoo last week."* The Messenger thread with Chris Redmond
 > dates the pizza slice to 13 October and the logo lettering to 22
 > October 2018 — six and seven weeks earlier, and both **before** his
 > 1 November birthday rather than after it. Either "last week" is loose
@@ -146,10 +146,10 @@ at the start of that year, and the Misfits work was not its opening move.
 > records. The Messenger thread is the better-dated source and the list
 > above follows it; this is flagged rather than resolved.
 
-> **NOT A TATTOO.** On 26 January 2012: *"Finished the color on my Chris
-> Brown tattoo today. @chrisbrown UR DA BEZT"*, retracted two hours
-> later — *"I do NOT have a Chris Brown tattoo rofl. You can all calm
-> down now."* Recorded here so the first line cannot be found by a future
+> **NOT A TATTOO.** On 26 January 2012: *"Finished the color on my Chris*
+> *Brown tattoo today. @chrisbrown UR DA BEZT"*, retracted two hours
+> later — *"I do NOT have a Chris Brown tattoo rofl. You can all calm*
+> *down now."* Recorded here so the first line cannot be found by a future
 > grep and filed as a piece. It is the earliest evidence of Dan using his
 > own body art as a bit, seven years before the Morrissey line does the
 > same thing.

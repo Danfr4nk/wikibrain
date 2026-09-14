@@ -23,8 +23,8 @@ infobox:
 >
 > The striking development is not that Dan remains intensely interested in
 > Ally. That was already established. The striking development is that the
-> current interaction reportedly remains **consistent, polite, and comparatively
-> low-drama** while Annie remains behind a hard boundary.
+> current interaction reportedly remains **consistent, polite, and comparatively**
+> **low-drama** while Annie remains behind a hard boundary.
 
 This is worth recording because the August 18–20 Ally burst was so extreme that
 it could easily become another false dawn in the corpus: one magnificent spike,

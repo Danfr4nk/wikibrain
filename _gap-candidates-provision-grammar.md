@@ -1,0 +1,4 @@
+wiki/mind/synthesis/kristin-channel-ledger.md — The Aug–Nov 2025 Kristin's financial record is the grammar's obvious fourth-channel test; "ended over $40" is consistent with the denomination-follows-contract prediction but unexamined.
+wiki/mind/synthesis/pre-2015-provision.md — The provision register was already running in 2015, predating the Fran-caregiving candidacy for its origin; earlier attachments (Danielle Onesi, Alexis Armel) need a ledger pass.
+wiki/mind/synthesis/annie-yearly-provision-decomposition.md — The ~$139K decade net has no yearly decomposition; 2016–2017 (the facility's hardest years) and the Sep 2020–early 2021 estate-burn window need transaction-level dating.
+wiki/mind/synthesis/provision-failure-modes.md — The three failure modes (absence weaponized, evidence decayed, dispute-suspended) deserve their own entry: each is a channel's structure turned against itself.

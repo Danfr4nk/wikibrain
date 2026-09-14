@@ -1,0 +1,36 @@
+{
+  "retrieved_at": {
+    "user_local": "2026-09-12T00:00:10.164-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-12T04:00:10.164Z"
+  },
+  "timelineObjects": [
+    {
+      "activitySegment": {
+        "activities": [
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.0
+          },
+          {
+            "activityType": "WALKING",
+            "probability": 0.0
+          }
+        ],
+        "confidence": "LOW",
+        "distance": 255221,
+        "duration": {
+          "endTimestamp": "2014-07-11T01:39:17.451Z",
+          "startTimestamp": "2014-07-09T07:45:23.047Z"
+        },
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "endLocation": {},
+        "startLocation": {}
+      }
+    }
+  ]
+}

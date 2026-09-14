@@ -1,6 +1,7 @@
 ---
 domain: mind
 page_type: synthesis
+title: "The Register Never Closes"
 status: active
 knowledge: earned
 date_created: 2026-09-10
@@ -9,7 +10,7 @@ synthesizes:
   - wiki/health/chemical-architecture
   - wiki/health/cocaine
   - wiki/health/intake-ledger
-tags: [health, chemical-architecture, behavior-pattern]
+tags: [addiction-recovery, physical-health, behavioral-change]
 connections:
   - page: wiki/health/chemical-architecture
     type: instance-of
@@ -20,6 +21,9 @@ connections:
   - page: wiki/health/intake-ledger
     type: instance-of
     claim: "The test layer: the append-only log begun 2026-08-30 carries the first dated measurements behind the stack's 'daily' rows, and is what turns the next announced quit from testimony into a checkable event."
+  - target: "[[wiki/mind/synthesis/block-unblock-loop]]"
+    type: contextualizes
+    claim: "The block/unblock loop is the relational twin of the register's chemical never-exit: 129 severance declarations at 100% resumption against sixteen unbroken years of Suboxone."
 ---
 
 # The Register Never Closes
@@ -54,7 +58,7 @@ The next announced "quit" will resolve to a substitution (new delivery system, s
 
 - Dose arcs are self-reported with n=1 measurement; no prescriber records in raw/ for the Suboxone continuity claim.
 - The cannabis register has no quit-attempt history — no test of the rule there yet.
-- The ledger is young (begun 2026-08-30); the first real test is the next announced quit, whenever it comes.
+- [[wiki/health/intake-ledger|The ledger]] is young (begun 2026-08-30); the first real test is the next announced quit, whenever it comes.
 
 ## Constitution pass (2026-09-10)
 

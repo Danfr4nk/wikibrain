@@ -1,0 +1,45 @@
+{
+ "batch": "20260912-1140",
+ "source_id": "src:sammy-chat-transcript-20260912-1140",
+ "window_start": "2026-09-12T07:43:31.816+00:00",
+ "window_end": "2026-09-12T11:40:36.166+00:00",
+ "pulled_at": "2026-09-12T11:52:00+00:00",
+ "first_message_at": "2026-09-12T07:43:32.872+00:00",
+ "last_message_at": "2026-09-12T09:06:26.122+00:00",
+ "counts": {
+  "user_assistant_rows": 70,
+  "user_rows": 27,
+  "assistant_rows": 43,
+  "system_rows": 170,
+  "total_rows": 240
+ },
+ "validation": {
+  "chat_rows_unique_ids": true,
+  "chat_rows_chronological": true,
+  "all_body_lengths_match": true,
+  "all_body_md5_match": true
+ },
+ "note": "chats.json transcribed from muse.db results and verified per-row against database char_length and md5 (all 70 match). One message_id collision in the raw pull (two assistant rows shared a synthesized id prefix) resolved by direct re-query; lost row restored. System rows hash-pinned in system_manifest.json (bodies not stored). Newest archived row overall is a system row at 11:40:36.166Z; newest user/assistant row 09:06:26.122Z.",
+ "files": {
+  "chats.json": {
+   "sha256": "24fa24424fd81ad41b80299363820aee97bd72eefb5f6ac82fb90cdf597c5eeb",
+   "bytes": 26278
+  },
+  "external_checks.json": {
+   "sha256": "80c2dc3f2e485bbdc65b50aef43c4898773f3b91ef256dfa0aea517d106081de",
+   "bytes": 1251
+  },
+  "spotify-nowplaying.json": {
+   "sha256": "0c622465166c2c8cb9201b755059ba327aba4d4d7b697d49db165a5d177e293c",
+   "bytes": 552
+  },
+  "spotify-playlists.json": {
+   "sha256": "778a9997810f568af834e1277973ba541c27a8ef1f65d5f700ef706a5e6492a5",
+   "bytes": 5911
+  },
+  "system_manifest.json": {
+   "sha256": "3ffbce3463cbcd1b43c9ad0476bf333cb65c61d23320f2c1b9a39ea32d85b787",
+   "bytes": 63720
+  }
+ }
+}

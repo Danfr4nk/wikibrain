@@ -1,0 +1,64 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1742 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Sorry to heard about it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "J O S I E - L I F E",
+      "timestamp_ms": 1724857566200
+    },
+    {
+      "content": "Oh nice!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "J O S I E - L I F E",
+      "timestamp_ms": 1724857560418
+    },
+    {
+      "content": "Reacted ð¢ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "J O S I E - L I F E",
+      "timestamp_ms": 1724857550817
+    },
+    {
+      "content": "Give me a shout whenever you guys come to the stumble. I live right across the street",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1724714230734
+    },
+    {
+      "content": "They finally cut me loose from Au Zaatar. Iâm gonna miss you guys!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "J O S I E - L I F E",
+          "reaction": "ð¢",
+          "timestamp": 1724857550
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1724714137638
+    }
+  ],
+  "participants": [
+    {
+      "name": "J O S I E - L I F E"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:32:20.993-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:32:20.993Z"
+  },
+  "thread_path": "inbox/josielife_1533442104719259",
+  "title": "J O S I E - L I F E"
+}

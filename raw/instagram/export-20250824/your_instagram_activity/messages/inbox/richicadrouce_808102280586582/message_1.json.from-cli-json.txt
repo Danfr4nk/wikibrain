@@ -1,0 +1,92 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 2597 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Letâs do this shit",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "richi cadrouce",
+      "timestamp_ms": 1641709486810
+    },
+    {
+      "content": "Thank you so fucking much",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "richi cadrouce",
+      "timestamp_ms": 1641709482342
+    },
+    {
+      "content": "Yesssss brooooo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "richi cadrouce",
+      "timestamp_ms": 1641709474956
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "richi cadrouce",
+      "timestamp_ms": 1641709469179
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "richi cadrouce",
+      "timestamp_ms": 1641709468348
+    },
+    {
+      "content": "Iâm gonna put some stuff together and bring you some tracks that you might like.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "richi cadrouce",
+          "reaction": "â¤ï¸",
+          "timestamp": 1641709469
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1641702433119
+    },
+    {
+      "content": "I fucking LOVE your music",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "richi cadrouce",
+          "reaction": "â¤ï¸",
+          "timestamp": 1641709468
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1641702144837
+    },
+    {
+      "content": "Dude",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1641702137207
+    }
+  ],
+  "participants": [
+    {
+      "name": "richi cadrouce"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:28:40.977-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:28:40.977Z"
+  },
+  "thread_path": "inbox/richicadrouce_808102280586582",
+  "title": "richi cadrouce"
+}

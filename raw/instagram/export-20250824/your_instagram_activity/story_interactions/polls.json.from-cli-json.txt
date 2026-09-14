@@ -1,0 +1,46 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 704 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:24:04.376-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:24:04.376Z"
+  },
+  "story_activities_polls": [
+    {
+      "string_list_data": [
+        {
+          "timestamp": 1538957170,
+          "value": "NO BUT IN RED "
+        }
+      ],
+      "title": "freddiekrueger"
+    },
+    {
+      "string_list_data": [
+        {
+          "timestamp": 1519337857,
+          "value": "STRIKEOUT"
+        }
+      ],
+      "title": "pgatour"
+    },
+    {
+      "string_list_data": [
+        {
+          "timestamp": 1516647699,
+          "value": "COLLEGE DROPOUT"
+        }
+      ],
+      "title": "ihatedanfrank"
+    },
+    {
+      "string_list_data": [
+        {
+          "timestamp": 1516405223,
+          "value": "420"
+        }
+      ],
+      "title": "ihatedanfrank"
+    }
+  ]
+}

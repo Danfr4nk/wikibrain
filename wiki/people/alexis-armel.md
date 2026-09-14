@@ -7,7 +7,7 @@ status: closed
 knowledge: mixed
 importance: high
 date_created: 2026-06-23
-date_modified: 2026-09-04
+date_modified: 2026-09-12
 date_range_start: 2009-10-01
 date_range_end: 2025-02-19
 sources:
@@ -119,7 +119,7 @@ connections:
     claim: "A March 2014 washing-machine incident Dan says he still does not understand is Suz's stated reason for throwing Alexis out of the house — the second of at least two Suz-driven evictions this page now documents for Alexis, five months of concealment following this one."
   - page: wiki/self/twitter/2009
     type: evidenced-by
-    claim: 'The relationship\'s first six weeks are recorded in real time on the 2009 twitter page, and its surrounding weather is too: he is ill for most of December, shuttling between two states, and sitting Full Sail finals across the same days he is posting "dan in love." The speed is not the speed of a man with nothing else happening.'
+    claim: 'The relationship''s first six weeks are recorded in real time on the 2009 twitter page, and its surrounding weather is too: he is ill for most of December, shuttling between two states, and sitting Full Sail finals across the same days he is posting "dan in love." The speed is not the speed of a man with nothing else happening.'
   - page: wiki/self/twitter/2013
     type: evidenced-by
     claim: "The public record closes the only documented interval in six years when this relationship is off: 'Alexis Armel and a doppelgangar mosquito' (8 September 2013) is the first naming after eleven days of @katie_efff in late August, which bounds the break to roughly six to eight weeks with another person documented inside it."
@@ -129,6 +129,9 @@ connections:
   - page: wiki/mind/concepts/the-cool-metric
     type: instantiates
     claim: "'Splitting via irony' had only ever been documented pointed at strangers and at the audience. The public register on a six-year live-in partner runs the same mode: affection at 12 of 32 mentions in 2010 collapses to 3 of 47 across 2011-2014, and the last three tweets naming her are an OkCupid solicitation, a Hitler/Eva Braun joke and 'catch a slug to the fvcε'."
+  - { target: "[[wiki/mind/synthesis/vacancy-rule]]", type: references, claim: "Transitions 1–2 bracket the six-year run — the occupancy-without-activation control case." }
+  - { target: "[[wiki/mind/synthesis/the-scoreboard]]", type: extends, claim: "The zero-mentions-across-1,132-posts denominator is the scoreboard's method applied to the control case." }
+  - { target: "[[wiki/people/danielle-onesi]]", type: references, claim: "The Transition 1 predecessor — Danielle to Alexis, February to November 2009." }
 ---
 
 # Alexis Armel
@@ -161,7 +164,7 @@ and until this pass the largest part of it had never been read.
 | Twitter archive, primary (`archive.jsonl`) | **85 rows**, 2009-12-14 → 2014-06-17, inside 2,741 posts | the public-facing register end to end, and the only view of the Full Sail year — read directly for the first time on 2026-09-04, see [The public register, and where it stops](#the-public-register-and-where-it-stops) |
 | Twitter corpus analysis (`FULL TWITTER ANALYSIS.txt`) | an AI reading of the above | how this page reached the archive before 2026-09-04; superseded as a citation wherever the primary says the same thing |
 | Facebook (Lucas Thomas, others) | Feb 2017 | the contemporaneous arrest account |
-| Retellings to Jim Shaffer, Tom, Jamie Mohler | Dec 2017 – Aug 2018 | three independent narrations of the Zac Shumar years |
+| Retellings to Jim Shaffer, [[wiki/people/tom|Tom]], Jamie Mohler | Dec 2017 – Aug 2018 | three independent narrations of the Zac Shumar years |
 
 The Google Chat archive is the find. Four hundred and ninety-five
 conversation blocks under `lexieamb@gmail.com` sit inside a file the
@@ -182,10 +185,10 @@ the sequence flatly: Danielle ends, Dan having cheated, and Alexis begins.
 [[wiki/people/danielle-onesi|Danielle Onesi]] and Alexis are listed together
 on Dan's own Facebook profile under "Previous relationships," in that order.
 
-> **GAP CLOSED [2026-08-28] — the meeting is now dated and staged, narrowing
-> a gap [[wiki/timeline/periods/full-sail-2008-2010]] stated directly:** *"No
-> message corpus or dated record narrows the 'Danielle ends, Alexis begins'
-> sequence to specific weeks within the eighteen-month window."* An operator
+> **GAP CLOSED [2026-08-28] — the meeting is now dated and staged, narrowing**
+> **a gap [[wiki/timeline/periods/full-sail-2008-2010]] stated directly:** *"No*
+> *message corpus or dated record narrows the 'Danielle ends, Alexis begins'*
+> *sequence to specific weeks within the eighteen-month window."* An operator
 > capture volunteered 2026-08-27 supplies the missing sequence. Dan graduated
 > Full Sail in **August 2009** and was living in Orlando when he came home to
 > PA for **Thanksgiving**, a few months later — the trip on which he meets
@@ -198,9 +201,9 @@ on Dan's own Facebook profile under "Previous relationships," in that order.
 > [[wiki/health/chemical-architecture]] already dates Suboxone stabilization
 > to February 17, 2010, "at Full Sail's end," without naming what the final
 > active-use episode before it was. This capture names it: Alexis brings
-> **thirty Roxicet pills** with her over the Thanksgiving weekend, and *"the
-> opiate addiction that Dan had truly kicked while in college is back in
-> force."* A supply line forms almost immediately in Orlando — a friend
+> **thirty Roxicet pills** with her over the Thanksgiving weekend, and *"the*
+> *opiate addiction that Dan had truly kicked while in college is back in*
+> *force."* A supply line forms almost immediately in Orlando — a friend
 > called **Spetch**, described as a childhood friend and roommate of
 > [[wiki/people/jason-bermejo|Jason Bermejo]], drives from Winter Park to
 > Ocala daily to keep it running. The full causal chain — Thanksgiving
@@ -231,8 +234,8 @@ on Dan's own Facebook profile under "Previous relationships," in that order.
 > November precedes the first named tweet by a fortnight, which is exactly the
 > shape of *"a week or two after that he buys her a one-way ticket to Orlando"*
 > — and it means the account was carrying the relationship publicly before it
-> carried her name. The Christmas nervousness the capture describes — *"whether
-> she would return with him"* — is answered on 30 December by a tweet crediting
+> carried her name. The Christmas nervousness the capture describes — *"whether*
+> *she would return with him"* — is answered on 30 December by a tweet crediting
 > her with saving the drive.
 >
 > **What the tweets do not corroborate:** the Roxicet, Spetch, the one-way
@@ -240,26 +243,25 @@ on Dan's own Facebook profile under "Previous relationships," in that order.
 > archive confirms the relationship's shape and pace, not the drug chain, and
 > that half still rests on testimony alone.
 
-> **Christmas 2009: the trip home that ends a friendship and nearly extends
-> itself past Orlando.** Dan and Alexis drive back to Pennsylvania for
+> **Christmas 2009: the trip home that ends a friendship and nearly extends**
+> **itself past Orlando.** Dan and Alexis drive back to Pennsylvania for
 > Christmas, and Dan records being nervous about whether she would return
 > with him. The week produces two dated, load-bearing events, both written up
-> in full elsewhere: a party at Suz's house (337 Saratoga) that ends Dan's
+> in full elsewhere: a party at [[wiki/people/suzanne-frank|Suz]]'s house (337 Saratoga) that ends Dan's
 > friendship with [[wiki/people/zach-clingan|Zach Clingan]]
 > ([[wiki/people/zach-clingan|full account there]]), and an overnight ski
-> trip to Seven Springs the following night with a named group including
+> trip to [[wiki/places/seven-springs|Seven Springs]] the following night with a named group including
 > [[wiki/people/jerad-friedline|Jerad Friedline]] and
 > [[wiki/people/josh-brannan|Josh Brannan]]. What belongs on this page
 > specifically: the pills "become a determining factor of how and when we
 > leave," turning a planned visit into an **eight-day stay** — Dan draws the
 > parallel himself to a later trip extended the same way during the
-> [[wiki/timeline/events/shelbie-annie-threesome-april-2019|Annie/Shelbie
-> threesome]] years later, a repeated shape (a supply constraint at the point
+> [[wiki/timeline/events/shelbie-annie-threesome-april-2019|Annie/Shelbie > threesome]] years later, a repeated shape (a supply constraint at the point
 > of departure dictating the length of a trip) rather than a one-off. He
 > returns to Orlando with one of the worst flus of his life, which he later
 > connects — speculatively, his own theory, not a diagnosis — to the same
 > "new girl" adjustment reaction he reports again a few months into dating
-> Annie.
+> [[wiki/people/annie-ulmer|Annie]].
 
 **The relationship's first documented rupture happens roughly two weeks into
 it, in 2009, and it is the earliest event on this page.** Dan moved Alexis to
@@ -396,8 +398,8 @@ relationship's only pre-terminal rupture is therefore dated to its first
 hour, and it is dated by her — an act of detection, not a drift
 ([[wiki/timeline/events/franki-fireworks-day-2013]]).
 
-> **GAP CLOSED [2026-08-28] — the return took months, not weeks, and the
-> corpus now has the whole interval.** This page previously read "he went
+> **GAP CLOSED [2026-08-28] — the return took months, not weeks, and the**
+> **corpus now has the whole interval.** This page previously read "he went
 > back to her within weeks." An operator capture volunteered 2026-08-27
 > (`raw/people/captures/2026-08-27_223406_gap-alexis-armel.md`) supplies the
 > full sequence and it is longer and more specific than that: Alexis spent
@@ -454,8 +456,8 @@ time.*
 months before the relationship does.** The last two mentions of that year are
 nineteen minutes apart, both barbed, and they read as one side of an argument:
 
-> *"@alexisarmel lets scale back the 'making fun of boyfriends who say
-> "plurnt"' vibe that you've so generously cultivated"* — 22:12 EST
+> *"@alexisarmel lets scale back the 'making fun of boyfriends who say*
+> *"plurnt"' vibe that you've so generously cultivated"* — 22:12 EST
 >
 > *"@alexisarmel keep it up, catch a slug to the fvcε"* — 22:31 EST
 
@@ -474,7 +476,7 @@ April 2014) and *"so deep bro"* (17 June 2014) — and then never again, across
   more people than he ever had, and she was 3.1% of it against 24.2% the year
   before.
 - **The account went quiet around then.** It did not. Across December 2013 the
-  account posts steadily — the SLOPPP 2013 yearmix in two parts, thanks to four
+  account posts steadily — the [[wiki/interests/music/aliases/sloppp|SLOPPP]] 2013 yearmix in two parts, thanks to four
   named producers, `@JimNorton`, `@alexledonne`, jokes about Bigfoot and Susan
   Sarandon. The register is intact. She is the thing missing from it.
 - **The move home did it.** [[wiki/self/location-history]] puts him back in
@@ -532,10 +534,10 @@ her there while he was asleep, repeatedly enough to be a habit worth a joke.
   not a baseline — which is exactly the 2010 shape, twelve of thirty-two in one
   year and three in the four years after.
 - **Romantic and relational state** (`wiki/mind/synthesis/the-unbroken-bond`,
-  `wiki/mind/concepts/attachment-model`) — **moved it, and this is the load
+  `wiki/mind/concepts/[[wiki/mind/concepts/attachment-model|attachment-model]]`) — **moved it, and this is the load
   bearer.** That page's central claim about Alexis is *occupancy without
   activation*: the attachment slot continuously filled 2009–2015 with the deep
-  system never engaging, which is what makes her the control the Annie
+  system never engaging, which is what makes her the control the [[wiki/people/annie-ulmer|Annie]]
   activation is measured against. Until now that claim rested on retrospective
   narration and on the speed of the November 2015 switch. **This is its first
   contemporaneous, dated, non-testimonial evidence** — twenty-four months of
@@ -561,9 +563,9 @@ her there while he was asleep, repeatedly enough to be a habit worth a joke.
   appears in a tweet. The one that looked as though it might, the return to
   Fayette County, is falsified above by its own dates.
 
-> **A dating convention worth knowing before quoting any date in this
-> section.** `created_at` in the archive is UTC, and **687 of its 2,741 posts —
-> 25.1% — were posted between 00:00 and 04:59 UTC**, which is the *previous*
+> **A dating convention worth knowing before quoting any date in this**
+> **section.** `created_at` in the archive is UTC, and **687 of its 2,741 posts —**
+> **25.1% — were posted between 00:00 and 04:59 UTC**, which is the *previous*
 > evening in New York. The twitter year pages date by the raw UTC field, so
 > this section keeps that convention for the table and gives EST only where a
 > clock time is quoted. The two 29 November tweets above are `2013-11-30` in
@@ -575,7 +577,7 @@ her there while he was asleep, repeatedly enough to be a habit worth a joke.
 
 **A second eviction, not the one this page had been carrying.** The same
 2026-08-27 capture continues the timeline past the October 2013
-reconciliation into a second Suz-driven rupture that this page had not previously
+reconciliation into a second [[wiki/people/suzanne-frank|Suz]]-driven rupture that this page had not previously
 distinguished from the one already documented under
 [The end, in one day](#the-end-in-one-day). "A few months later, in March" —
 2014, on the sequence as given — Suz "had enough with Alexis" after Alexis
@@ -588,7 +590,7 @@ secret. In the following spring or summer they moved in with a woman named
 **Christmas 2014** the two of them had arrived at
 [[wiki/places/155-virginia-ave|155 Virginia Ave]] — the start of the
 [[wiki/people/zachariah-harshman|Zachariah Harshman]] supply era documented
-there. Alexis started working at CT's that summer (2015); Annie started at
+there. Alexis started working at CT's that summer (2015); [[wiki/people/annie-ulmer|Annie]] started at
 the same restaurant that October; Dan met Annie in November, and Alexis left
 within a day or two.
 
@@ -610,8 +612,7 @@ within a day or two.
 
 ## The end, in one day
 
-By January 2015 Dan had leased **[[wiki/places/155-virginia-ave|155 Virginia
-Avenue]]** — "the Alexis lair," known locally as Scerba's old place — during
+By January 2015 Dan had leased **[[wiki/places/155-virginia-ave|155 Virginia Avenue]]** — "the Alexis lair," known locally as Scerba's old place — during
 the relationship's endgame, having spent roughly four months before that
 secretly housing her at [[wiki/places/337-saratoga-drive|337 Saratoga]] after
 she was thrown out, the window that brackets the
@@ -627,34 +628,72 @@ every beat of it:
 
 | Date | Event |
 |---|---|
-| ~2015-11-24 | Annie enters the picture — *"HAPPY ONE WEEK SINCE LEX HANDED YOU TO ME"* (Annie, Dec 1), i.e. Alexis herself made the introduction |
+| ~2015-11-24 | [[wiki/people/annie-ulmer|Annie]] enters the picture — *"HAPPY ONE WEEK SINCE LEX HANDED YOU TO ME"* (Annie, Dec 1), i.e. Alexis herself made the introduction |
 | 2015-11-28 | Dan tells Annie the Alexis relationship's **origin** story (see the correction below) — Alexis is at this point still living with Dan in Uniontown |
-| 2015-11-29 ~2 AM | Meets Annie at the Uniontown Country Club, in the rain. *"I met someone that instantly changed my life"* is said **to Annie herself**, at 03:28, roughly an hour afterwards — not to a third party about her. Same evening, to Zachariah: *"Things are collapsing with lex"* |
+| 2015-11-29 ~2 AM | Meets Annie at the Uniontown Country Club, in the rain. *"I met someone that instantly changed my life"* is said **to Annie herself**, at 03:28, roughly an hour afterwards — not to a third party about her. Same evening, to Zachariah: *"Things are collapsing with lex"*. The same thread records a second golf-course meetup Nov 29, 6:40–7:30: *"meet you on the golf," "I'm on 3 tee," "I would sleep in the wet grass with you"* — distinct from the 2 AM sneak-out Dan places after the Nov 25 "danfranksgiving" party (see the testimony block below) |
 | 2015-11-29 14:54 | Dan names the tie holding her in the house: *"Ahhhh I know why she isn't leaving / Or like HASNT left / …she doesn't have another drug source"* |
-| 2015-11-30 | *"Alexis is sloshed"*; Suz offers Dan a car *"if I get Alexis out"* |
-| 2015-12-01 | Alexis moves out of 155 Virginia — *"Helping lex leave"* |
+| 2015-11-30 | *"Alexis is sloshed"*; [[wiki/people/suzanne-frank|Suz]] offers Dan a car *"if I get Alexis out"*; cover text to Alexis sent ~16:56 — *"she really isn't involved"* (active cover, `dat:alexis-cover-text-2015-11-30`); FB relationship field cleared 23:36, Dan's caption *"11/30/2015 official break up"* (`dat:official-breakup-2015-11-30`) |
+| 2015-12-01 | Alexis moves out of 155 Virginia — *"Helping lex leave"*; [[wiki/people/zach-clingan|Zach]] ferries her: *"Zach has to take lex to blue moon"* |
 | 2015-12-02 | *"Listen I broke up with lex, I'm in love with Annie Ulmer"*; *"Alexis only left yesterday"* |
+| 2015-12-03 | Annie to Dan, 22:05: *"She refuses to walk past the bar where I'm standing"* — Alexis avoiding Annie at a bar, a week on |
+| 2015-12-05 | The "stolen laptop night": Alexis texts from outside the house 7:42–8:54 PM asking to talk; Dan refuses twice, citing the withheld Suboxone; Dan's 2026 testimony says she assaulted him and he knocked her out twice defending himself (`dat:alexis-stolen-laptop-night-testimony-dan-20260912`) — see [below](#the-stolen-laptop-night--dec-5-2015) |
 | 2015-12-08 | *"That was the night before I broke up with lex"* |
 | Dec 2015 | 728 / 682 / 679 messages sent on three consecutive days to Annie |
 
-> **CORRECTED 2026-08-15 — the "cheating" that this page dated to November 28,
-> 2015 did not happen in 2015 at all, and the Florida move it was pinned to is
-> a fabrication.** The page previously opened this table with *"~mid-Nov 2015 |
-> Dan moves her to Florida"* and read the next day's message — *"Lex cheated on
-> me 2 weeks in after I moved her to fla"* — as a fresh betrayal that triggered
+> **Dan's 2026 account of the split minute [2026-09-12].** Sending the
+> Morgantown-trip photos eleven years later, Dan dated this relationship's true
+> end to a bar scene in the origin week: about a week before Thanksgiving,
+> Alexis sent him to meet Annie for a drug pickup; he and Annie went to
+> Morgantown together, had sex on return, and seven hours later he delivered
+> Alexis's drugs with Annie still beside him — they sat down at the bar
+> together, and "that was the true minute Alexis and I split up." Filed as his
+> testimony (`dat:annie-origin-narrative-dan-20260912`); the table above keeps
+> its corpus datings, and the two are not reconciled here.
+>
+> **The cover text and the official breakup [2026-09-12 intake].** The
+> formalization left two same-day artifacts, both screenshotted by Dan. Around
+> 4:56 PM on ~Nov 30 — no EXIF on the text screenshots, so the date is
+> inferred: Dan's same-night caption dates the breakup 11/30, and Annie quotes
+> the line back verbatim on Dec 3 — Dan sent Alexis the cover text, captured in
+> draft (4:55) and sent (4:56) states: *"Hey I remembered that you and Anne are
+> supposed to work together tonight. Please leave her out of all of our
+> problems, she really isn't involved. I won't say anything else about it or
+> her, but it's not fair to blame her for the decisions we've both made that
+> led us here."* This is the cover-story mechanics in primary form: Annie was
+> the entire reason, and the text asserts the opposite. It cross-refs Dan's Nov
+> 29 0:01 line to Annie — *"She thinks I'm just creeping you"* — the same cover
+> maintained across channels. Alexis's replies, in full: *"im not going to
+> involve myself in any of that any more. @"* and *"I couldn't care less about
+> anne."* Her documented tone at the split is cold disengagement, not explosion.
+> That night at 11:36 PM Dan cleared the Facebook relationship field and
+> screenshotted it, captioning the cropped frame *"11/30/2015 official break
+> up"* — the caption is his retrospective dating on a contemporaneous
+> screenshot (EXIF 23:36:50). The formalization therefore reads as a two-day
+> process (Nov 29 vows, Nov 30 text and field-clear) or as Dan's retrospective
+> compression; both datings are kept. Filed as
+> `dat:alexis-cover-text-2015-11-30` and `dat:official-breakup-2015-11-30`;
+> source `src:annie-cover-text-screenshots-2015`. The *"supposed to work
+> together tonight"* line is a new primary sourcing of the established
+> coworker fact, not a new claim.
+
+> **CORRECTED 2026-08-15 — the "cheating" that this page dated to November 28,**
+> **2015 did not happen in 2015 at all, and the Florida move it was pinned to is**
+> **a fabrication.** The page previously opened this table with *"~mid-Nov 2015 |*
+> *Dan moves her to Florida"* and read the next day's message — *"Lex cheated on*
+> *me 2 weeks in after I moved her to fla"* — as a fresh betrayal that triggered
 > the switch to Annie. Both halves are wrong, and the second was invented by
 > back-computing "2 weeks" from the date of the message.
 >
 > **What the message actually says, from the two lines immediately before it**
 > (`raw/self/dox-scan/all_imessages_complete_dump.txt`, 2015-11-28 19:07–19:08):
 > *"I love this it's the exact opposite way I started my last relationship"* →
-> *"Like I truly trust you"* → *"Lex cheated on me 2 weeks in after I moved her
-> to fla."* The named subject of the sentence is **how the last relationship
-> started**, not how it was ending. "Two weeks in" is two weeks into the
+> *"Like I truly trust you"* → *"Lex cheated on me 2 weeks in after I moved her*
+> *to fla."* The named subject of the sentence is **how the last relationship**
+> **started**, not how it was ending. "Two weeks in" is two weeks into the
 > **Alexis** relationship, which began in **2009** while Dan was at
 > [[wiki/timeline/periods/full-sail-2008-2010|Full Sail in Winter Park]] — the
-> Florida he moved her to. Per the operator the episode was **online only, not
-> in person**, and has no connection to 2015 whatsoever.
+> Florida he moved her to. Per the operator the episode was **online only, not**
+> **in person**, and has no connection to 2015 whatsoever.
 >
 > **The residence record settles it on its own.** Alexis lived in Florida
 > **once, from 2009 to February 2010** — the Full Sail stretch in Winter Park,
@@ -666,9 +705,9 @@ every beat of it:
 >
 > **The message corpus agrees for the specific week.** Alexis was physically in
 > Uniontown, living with Dan, across the exact window the old table placed her
-> in Florida: *"Alexis is sloshed"* (Nov 30), *"I just heard lex on the phone
-> with her parents"* (Nov 30), *"Helping lex leave"* (Dec 1), *"Alexis only left
-> yesterday"* (Dec 2). She moved out of 155 Virginia on December 1 and stayed in
+> in Florida: *"Alexis is sloshed"* (Nov 30), *"I just heard lex on the phone*
+> *with her parents"* (Nov 30), *"Helping lex leave"* (Dec 1), *"Alexis only left*
+> *yesterday"* (Dec 2). She moved out of 155 Virginia on December 1 and stayed in
 > Pennsylvania.
 >
 > **This is a message-date-as-event-date failure**, the same class as the
@@ -703,11 +742,26 @@ reason the one that did could.
 
 ## The Shumar years
 
-Alexis began dating **Zac (Zachary) Shumar** after the breakup — a man who
-had previously dated Dan's sister [[wiki/people/vanessa-frank|Vanessa]], and
-who per the CATO bootloader's own compression of the corpus (an AI synthesis,
-not a primary quote) had also been Annie's first. All four were entangled
-before any of what follows.
+Alexis began dating **[[wiki/people/zac-shumar|Zac (Zachary) Shumar]]**
+after the breakup — a man who had previously dated Dan's sister
+[[wiki/people/vanessa-frank|Vanessa]], and who per the [[wiki/mind/concepts/exocortex|CATO]] bootloader's own
+compression of the corpus (an AI synthesis, not a primary quote) had also
+been [[wiki/people/annie-ulmer|Annie]]'s first. All four were entangled before any of what follows.
+
+> **GROUNDED [2026-09-12]:** Dan's own account now supplies the backstory
+> the bootloader only compressed. Shumar was **Vanessa's first boyfriend**
+> (Dan's 2026-08-19 phrasing to [[wiki/people/ally-lubin|Ally Lubin]]: "dated my sister for 3 years in
+> high school"), and he **lost his virginity to Annie** — stated twice by
+> Dan, 2026-08-19 (messages.csv row 231518, in the same breath as the bust:
+> "the guy whose weed it was … lost his virginity to Annie") and 2026-09-12.
+> Testimony-grade (same speaker both times), not independent — but the
+> quarantine in dat:0247 ("no primary source anywhere in the corpus") now
+> reads: no *contemporaneous* source; the Dan-sourced attestation exists, and
+> it runs in this direction (Annie was *his* first). He started hanging
+> around right as the December 2015 switch happened — the
+> [[wiki/people/zac-shumar|December 6 confrontation]] — then dated Alexis.
+> (dat:shumar-vanessa-first-boyfriend-dan-20260912,
+> dat:shumar-virginity-annie-dan-testimony)
 
 On **Valentine's Day 2017** Zac went to collect a mail-order marijuana
 shipment and walked into police staged for it. The contemporaneous account —
@@ -719,7 +773,11 @@ the same phone call from jail. The retellings Dan gave later put the shipment
 at ten pounds from California and add the legal aftermath: Zac hired paid
 counsel, the DA required all three defendants to accept the same plea, and
 Alexis — whose own exposure was minimal, "it legit wasn't her deal" — took
-it. Within about a month she failed a drug test, violated probation, and was
+it. **FRICTION [2026-09-12]:** Dan's 2026 testimony agrees on the date
+(Valentine's Day 2017), mechanism, arrests, bail, lawyer, plea, and SCI
+Muncy — but puts the shipment at **20 lbs**. Preserved as an unresolved
+contradiction between his 2018 retellings and his 2026 account, not smoothed.
+Within about a month she failed a drug test, violated probation, and was
 jailed around the end of October 2017; by April 2018 she was at **SCI
 Muncy**, Pennsylvania's women's state prison. Zac did no time.
 
@@ -735,7 +793,12 @@ Two details around the edges matter more than the case. Alexis, Zac and a
 third person had been **living with Dan and Annie** at the time — *"All in
 the same house… Me and my ex, Annie and her ex… Dude they were living with
 us"* — which is the arrangement's structural precondition sitting in plain
-view a year before anyone acted on it. And the friendship with Zac Shumar
+view a year before anyone acted on it. Dan's 2026-09-12 account frames the stay
+as a cause: Zac and Alexis's house burned down, and they moved in with Dan
+and Annie for about a month — consistent with the Lucas thread's Feb 11,
+2017 fire report, but held open against the bootloader's "roughly a month
+afterward" (post-Nov-2015) stay, which may be a second stay or the same one
+misdated. And the friendship with Zac Shumar
 outlasted all of it: Dan and Zac were collaborating on an apparel side
 project in October 2017 while Alexis was on probation, and in July 2022 Dan
 was still close enough to him to report *"a 5 hour argument with Zac
@@ -743,7 +806,7 @@ Shumar"* about politics.
 
 ## Paid back in
 
-Weeks after her release, in November 2018, Alexis and Annie became sexually
+Weeks after her release, in November 2018, Alexis and [[wiki/people/annie-ulmer|Annie]] became sexually
 involved in a recurring six-week arrangement that Dan opened by offering
 **$3,000** for her to be, in his words, "a plaything for Annie," and which ran
 from that transactional start through a birthday-night encounter and repeat
@@ -773,7 +836,7 @@ and his father — with shock and anger rather than gossip.
 
 The most consequential thing Alexis does in the 2020s, though, she does
 without being present for it. On **September 19, 2020**, mid-argument with
-Annie, Dan writes: *"its funny to me that my mom thinks alexis is 'the devil'
+[[wiki/people/annie-ulmer|Annie]], Dan writes: *"its funny to me that my mom thinks alexis is 'the devil'
 even though she never really did anything shitty to me....you, on the other
 hand, are an angel who has lied, cheated, manipulated, taken advantage of,
 etc."* Five years after leaving her inside a day for the woman he is writing
@@ -821,7 +884,7 @@ The chat archive does not support it. The archive is six years of a soft,
 broke, funny, mutually attentive household, and the volatility in the record
 belongs to the week it ended.
 
-## Scored against Annie, by an instrument that did not know the thesis
+## Scored against [[wiki/people/annie-ulmer|Annie]], by an instrument that did not know the thesis
 
 In spring 2026, at the end of the terminal phase, Dan asked Claude to rebuild
 its master record of the Annie relationship and — as an addition to the
@@ -884,14 +947,31 @@ already applies to the blind girlfriend-score model above.
 
 ## Post-eviction hostility (Dec 2015)
 
-After the eviction, Alexis remains hostile toward Annie and Dan:
+After the eviction, Alexis remains hostile toward [[wiki/people/annie-ulmer|Annie]] and Dan:
 
-- **Dec 3, 2015**: Alexis texts Annie: *"happy 7 years. enjoy your herpes. bye"* (16:29). Dan shows Annie. Dan drafts a text to Alexis asking her to lay off Annie. Annie edits it. Dan sends it (16:56). Alexis's phone goes off at the bar.
+- **Dec 3, 2015**: Alexis texts Annie: *"happy 7 years. enjoy your herpes. bye"* (16:29). Dan shows Annie. Dan drafts a text to Alexis asking her to lay off Annie. Annie edits it. Dan sends it (16:56). Alexis's phone goes off at the bar. The co-edit is now verbatim in the corpus: Annie — *"Just say instead of that 'i remembered that you and she are supposed to work together tonight'"* (quoting the Nov 30 cover line back as the template), *"'I don't want any problems between you two'"*, *"Instead of the first paragraph"*, *"Lemme read before you send"* — and after the send, *"She refuses to walk past the bar where I'm standing."* The cover was a joint Dan+Annie production, not Dan freelancing.
 - **Dec 9, 2015**: Alexis texts Annie: *"You don't need to come in"* (13:57). Annie quits CT's.
 - **Dec 14, 2015**: Alexis asks Dan for help. Dan refuses: *"I'm not actively trying to fuck her life up but I would neeeever do a single thing to HELP her"* (10:52).
 
 This is the earliest post-eviction statement of Dan's policy toward Alexis — non-intervention, non-assistance.
 
+### The stolen-laptop night — Dec 5, 2015
+
+Two days after the Dec 3 workplace incident, the breakup turned physical — and the record of the night survives only because Dan kept the screenshots.
+
+**The 72-minute lead-up, verbatim** (`dat:alexis-pre-incident-texts-2015-12-05`). Alexis texts from outside the house, 7:42–8:54 PM:
+
+> 7:42 PM — *"Can we talk really quick / No fights no nothing. / I'm outside it won't take 5 minutes"* … *"I know your mom is here so obviously I'm not here to cause problems. 5 minutes n we don't have to speak ever again."*
+
+Dan refuses at 7:45 — *"I can't right now. And after you wouldn't sell me the sub / I don't really feel like I need to feel bad about it"* — and again at 8:54, when Alexis asks what the refusal has to do with anything: *"Feel bad about what? This has nothing to do with any of that."* / *"What is it then?"* The exchange ends there.
+
+**The "sub" is the load-bearing detail.** Alexis had his Suboxone and declined to sell it to him. Dan had been on daily Suboxone since February 2010 — 16+ unbroken years, zero relapses — so what was being withheld was his maintenance medication, in the middle of the breakup week, and he named it as the reason he wouldn't open the door.
+
+**What happened next is Dan's testimony alone.** Sending these screenshots eleven years later he called it *"the stolen laptop night where I got attacked and accidentally knocked Alexis out TWICE defending myself as she assaulted me"* (`dat:alexis-stolen-laptop-night-testimony-dan-20260912`). The laptop theft, her assault, and the two knockouts appear nowhere in the files — `messages.csv` holds zero rows dated Dec 4–5, 2015, so the corpus is dark on the night itself. The texts are primary for the 72 minutes they cover; everything past *"What is it then?"* is his retrospective account, filed as testimony without adjudication.
+
+**The compression is the finding.** Two days earlier he and Annie were co-writing cover texts claiming she *"really isn't involved"*; that same week Alexis is outside his house texting to talk, his mother inside, his Suboxone in Alexis's hands. The breakup was not an event with a date — it was a fortnight of overlapping collisions, and the Dec 5 night is the most violent one on record.
+
+Also from that night: a 14-second bedroom video (dim, vertical blinds, string lights). One woman moves around the room — bends over the bed, stands, hands near her face. She is **unidentified**: the local face-tag run against the annie/alexis registry scored her 0.111 (runner-up: alexis) against the 0.45 threshold, so she is not named here. The audio carries one voice (whisper-tiny rough transcript): *"I didn't have to, I sent, I had the messages where I tried to resolve this before."* … *"Okay, so I'll get all the drug paraphernalia out so in case you need to call the cops."* Speaker not established; fidelity limited — treat as rough.
 
 ## Gaps
 
@@ -912,8 +992,8 @@ would tell the two apart.
 > The objection above is that absence in a thin record is not evidence of
 > absence in the world. The twitter archive answers it for the public channel
 > specifically, because it supplies a **denominator**: the last twenty-four
-> months of the relationship contain **zero** mentions of her across **1,132
-> posts**, in years when his distinct-handle count was at its all-time high of
+> months of the relationship contain **zero** mentions of her across **1,132**
+> **posts**, in years when his distinct-handle count was at its all-time high of
 > 57. That is not a thin record failing to record something; it is a
 > well-populated record of him naming other people. See [The public register,
 > and where it stops](#the-public-register-and-where-it-stops).
@@ -930,8 +1010,8 @@ November 2009 – November 2015, and Dan told Lucas Thomas in 2017 that he had
 "dated her for 7 years." The Twitter record favours a late-2009 start.
 
 > **GAP NARROWED [2026-08-28].** The 2026-08-27 capture dates the meeting
-> itself to a **Thanksgiving trip home, a few months after the August 2009
-> Full Sail graduation** — i.e., November 2009. That is consistent with the
+> itself to a **Thanksgiving trip home, a few months after the August 2009**
+> **Full Sail graduation** — i.e., November 2009. That is consistent with the
 > bootloader's "November 2009" start and the Twitter record's "late 2009"
 > lean, and against the Gemini profile's "2010." It does not settle the "7
 > years" Dan told Lucas Thomas in 2017 (six years from Nov 2009 to Nov 2015
@@ -939,10 +1019,10 @@ November 2009 – November 2015, and Dan told Lucas Thomas in 2017 that he had
 > loose retrospective rounding).
 
 Nothing in the corpus records how she
-learned about Annie, or whether the two women had any relationship as
+learned about [[wiki/people/annie-ulmer|Annie]], or whether the two women had any relationship as
 coworkers before the November 2018 arrangement. Her life after February 2025
 is entirely undocumented, as is whether she knows any of the rest of this
-exists. And the CATO bootloader's claim that Zac Shumar was also Annie's
+exists. And the [[wiki/mind/concepts/exocortex|CATO]] bootloader's claim that Zac Shumar was also Annie's
 first has no primary source anywhere — it is an AI compression of the corpus
 repeating itself, and it should not be cited as fact until a message says it.
 
@@ -951,9 +1031,19 @@ that triggered the March 2014 eviction is recorded by the operator himself as
 not understood ("a story i still don't understand") and is not explained
 further here. The Leah Tedesco cohabitation is named but explicitly deferred
 ("story later") and has no page or further detail yet. And the exact
-relationship between this page's now-two accounts of a Suz-driven eviction
+relationship between this page's now-two accounts of a [[wiki/people/suzanne-frank|Suz]]-driven eviction
 and months-long concealment (2014 here, late-2014/early-2015 on
 [[wiki/legal/2015-possession-arrest]] and [[wiki/places/155-virginia-ave]])
 is unresolved — see the note under [The hidden year
 (2014)](#the-hidden-year-2014).
 
+
+## Sources
+
+[![Unsent draft of the cover text to Alexis, 4:55 PM](../../media/upload-049.jpg)](../../media/upload-049.jpg)
+[![Sent cover text to Alexis with her replies, 4:56 PM](../../media/upload-050.jpg)](../../media/upload-050.jpg)
+[![Facebook relationship field cleared, captioned 11/30/2015 official break up](../../media/upload-051.jpg)](../../media/upload-051.jpg)
+[![Alexis texts from outside the house, 7:42 PM, Dec 5 2015](../../media/upload-060.jpg)](../../media/upload-060.jpg)
+[![Dan refuses, cites the withheld Suboxone, 7:45 PM](../../media/upload-061.jpg)](../../media/upload-061.jpg)
+[![Alexis asks what it has to do with anything, 8:54 PM](../../media/upload-062.jpg)](../../media/upload-062.jpg)
+[![Representative frame from the 14-second bedroom video that night; woman unidentified](../../media/upload-063.jpg)](../../media/upload-063.jpg)

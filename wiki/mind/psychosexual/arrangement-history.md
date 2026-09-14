@@ -114,19 +114,19 @@ from raw iMessage/SMS data that had not previously been mined.
 
 ## What the pattern shows
 
-> **REVISED [2026-08-16] — one row runs the other way, and it was the most
-> detailed one.** April 2019 was tabled here as an instance of the arrangement
+> **REVISED [2026-08-16] — one row runs the other way, and it was the most**
+> **detailed one.** April 2019 was tabled here as an instance of the arrangement
 > operating. Minute-level reconstruction from Annie's thread shows the opposite:
 > Dan paid for a one-on-one and Annie converted it into a threesome from outside
 > a locked door, against his live objection (*"just say fucking no next time"*).
 > That does not overturn the table — Feb 2018, Mar 2018 and Oct 2019 remain
 > Dan-arranged on their own evidence — but it does break the claim that every
 > instance shares one author, and it is the only row where the corpus captures
-> the arrangement being *initiated* rather than reported afterwards. **The
-> asymmetry to test against the other rows: the instances the wiki reads as
-> Dan-architected are mostly reconstructed from negotiation threads with the
-> third party, where Dan is by definition the correspondent. April 2019 is the
-> one reconstructed from the couple's own thread during the event.** That is a
+> the arrangement being *initiated* rather than reported afterwards. **The**
+> **asymmetry to test against the other rows: the instances the wiki reads as**
+> **Dan-architected are mostly reconstructed from negotiation threads with the**
+> **third party, where Dan is by definition the correspondent. April 2019 is the**
+> **one reconstructed from the couple's own thread during the event.** That is a
 > sampling artefact large enough to have manufactured the pattern, and it is now
 > the first thing to check on this page rather than a footnote to it. See
 > [[wiki/timeline/events/shelbie-annie-threesome-april-2019]].
@@ -244,8 +244,8 @@ On the recording of **2026-08-16** ([[wiki/timeline/events/august-2026-morgantow
 more than a dozen times across four minutes, and texts a compressed version of
 it to Dan from her phone at 23:45:10:
 
-> *"You made Annie fuck guys for money because you didn't have money for drugs.
-> Because you spent your dead grandma's money."*
+> *"You made Annie fuck guys for money because you didn't have money for drugs.*
+> *Because you spent your dead grandma's money."*
 > *"You made me fuck guys for money"*
 
 This page is the corpus's primary-source backbone for exactly that question, so
@@ -292,9 +292,9 @@ The nearest adjacent thing in the corpus is not about Annie at all. On
 **2019-01-27** a confidant who had earlier received the *"$3000 plaything"*
 disclosure writes to Dan:
 
-> *"no one cares about your money, or all the drugs in the world you can shove
-> down their throats in exchange for something of no real purpose. I hope you
-> have enough cash in your accounts to buy the people you need."*
+> *"no one cares about your money, or all the drugs in the world you can shove*
+> *down their throats in exchange for something of no real purpose. I hope you*
+> *have enough cash in your accounts to buy the people you need."*
 
 That is a third party, hostile, characterising Dan's dealings **with her**. It
 is the only independent statement in the corpus that money-and-drugs-for-access
@@ -328,13 +328,13 @@ rather than self-serving.
 
 ### The verdict, and what it concedes
 
-> **The accusation as stated is false, and it is a compression of something
-> real.** *Annie was sold for drug money* is contradicted by the direction of
+> **The accusation as stated is false, and it is a compression of something**
+> **real.** *Annie was sold for drug money* is contradicted by the direction of
 > payment in every documented instance, has no supporting instance for the
 > drugs limb anywhere in eleven years, is chronologically wrong about the
 > estate, and inverts the one case where initiation is directly observable.
-> What the record does show is **purchased access, with Dan as the buyer and
-> the architect** — repeatedly, expensively, and with a documented grievance
+> What the record does show is **purchased access, with Dan as the buyer and**
+> **the architect** — repeatedly, expensively, and with a documented grievance
 > when Annie did not follow through on one he had arranged. The accusation
 > keeps the transaction and reverses who was bought.
 
@@ -392,8 +392,7 @@ represents a genuine shift in preference, a reaction to the [[wiki/people/eli|El
 betrayal's timing, or simply what that particular partner required is not
 established anywhere in the corpus.
 
-## Media
-
-![Security-camera still, 2019-10-21 night footage](../../media/upload-014.jpg)
+## Sources
+[![Security-camera still, 2019-10-21 night footage](../../media/upload-014.jpg)](../../media/upload-014.jpg)
 
 *on-screen camera timestamps 2019-10-21 00:45:25 to 02:02:10 (Monday); container creation 2019-10-28T15:46:15Z — Poster frame from video. 87.17s, 1920x1080, H.264/AAC, 6,646,564 bytes; filename equals SHA-256. Screen recording of a security-camera phone app (playback UI: pause/volume/download buttons, timeline scrubber visible throughout). Night-vision footage of three people on a bed: a woman with long hair and two men; one man (glasses) largely reclines/observes while the woman is intimate with the other man (tattooed arm); configurations shift across ~77 minutes of camera time. Edited selects jumping between timestamps (00:45, 00:57, 01:10, 01:23, 01:37, 01:49, 01:50, 01:58, 02:01, 02:02), not continuous footage. Identities not independently established from night-vision faces; 'who' comes from Dan's framing ('the 2019 experiment'), not from identification. Corroborates the dossier's structural claim (partner with others while Dan present/observing) and the orchestrated-witnessing/camera architecture; does not by itself establish repetition across years. Consent dynamics not determinable from footage.*

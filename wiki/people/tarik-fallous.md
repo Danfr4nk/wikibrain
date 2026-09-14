@@ -1,6 +1,7 @@
 ---
 domain: people
 page_type: entity
+title: "Tarik Fallous"
 status: active
 date_created: 2026-06-23
 date_modified: 2026-07-20
@@ -28,6 +29,9 @@ connections:
   - page: wiki/timeline/periods/2021-2023-employment-block
     type: component-of
     claim: "The grocery-run, inventory, and hiring texts are ground-truth day-to-day texture for the period this page otherwise records only as 'employed at volume.'"
+  - { target: "[[wiki/people/ismaila-barry]]", type: contextualizes, claim: "Ismaila Barry's August 2024 exit uncertainty is the tenure's closing episode recorded through Tarik: Dan's 'CIA agent' tip to Tarik about DJ possibly not returning from vacation is post-employment intel-sharing between owner and longest-tenured staff." }
+  - { target: "[[wiki/people/valeria-iglesias-cid]]", type: contextualizes, claim: "Valeria's Au Za'atar hiring and tenure ran under Tarik's ownership — the affair's workplace infrastructure (hostess shifts, night-class alibi) existed inside his operation." }
+  - { target: "[[wiki/people/manuel]]", type: contextualizes, claim: "Manuel's survival through the post-Dan purge is the tenure's clearest continuity marker: of the crew Tarik built around Dan's 41 months, Manuel is the one who stayed into 2026 and kept the friendship alive." }
 ---
 
 # Tarik Fallous
@@ -44,7 +48,7 @@ The 80-message thread splits cleanly into an employment-logistics phase (Aug 202
 
 **Employment logistics.** The texts show Dan's actual day-to-day scope ran well past serving tables. He ran personal/restaurant grocery errands for Tarik (photographing substitute produce for approval — spinach, snow peas standing in for Romano beans, no Swiss chard at Morton Williams so a Whole Foods run instead) while holding Tarik's own Barclays card for the purpose. He tracked bar inventory directly: two liquor/wine stock counts survive verbatim (Aug 11 2023, all zero; Aug 12 2023, restocked — Whispering Angel, Chateau La Coste Rose, La Luca Prosecco, Fidora Prosecco, Charles de Ferre Blanc de Brut, ViNO CasaSmith, Langewalter Riesling, Valdemonxes, Chateau la Croix Lartigue, Fattoria Casa Sola, Barolo), a responsibility not documented anywhere else in the corpus and a concrete data point for the "de facto manager" role [[wiki/work/au-zaatar]] already ascribes to him. He coordinated hiring directly — "Just fyi I have 2 people outside for interviews. One of them is from the agency" (Sep 27 2023), "First Interview is here" / Tarik's "Speak to him and write his info plz" (Nov 3 2023) — and ran an AV-cable errand (low-voltage speaker wire, the wrong "AC" vs. "MC" gauge, Oct 2023) and a print-shop errand inspecting a proof copy before a full run (Dec 2023), suggesting some signage or menu project. A December 13, 2023 payroll dispute — a missing Dec 2 punch, tips already distributed, asking whether he could still claim the hourly — corroborates the tip-pool opacity already documented on au-zaatar.md. Five separate sick-day call-outs are logged between Nov 2023 and Apr 2024, with some opening "Hey it's dan" or similar. A previously unknown name, **"Modi,"** surfaces once (Apr 20 2024: "Modi came in to see you. He'll be around the neighborhood later tonight") — unidentified, no other reference in the corpus. On June 14, 2024, Dan sent an unprompted Arabic message, "مبروك للعرسان!" ("Congratulations to the newlyweds!"), for a wedding — Tarik's, a family member's, or a staff member's is unclear — answered with a simple "Thank you" the next day. The final logistics exchange, August 11, 2024, is the termination made concrete: Dan arranging to "grab my check," told by Tarik "I would have loved to see you. But I'm not there now. You can take from Patricia" — introducing **Patricia**, evidently the bookkeeper/cashier who handled payroll, otherwise undocumented.
 
-**Post-termination.** Thirteen days after filing for unemployment (per [[wiki/work/au-zaatar]]'s Aug 8, 2024 date), Dan texted Tarik unprompted, Aug 21 2024: "I know I'm not an *official* CIA agent anymore but I did hear some intel today that might interest you…don't get too excited though, it's not very important or surprising. You didn't hear it from me but, based on my conversation with him — I wouldn't be surprised if DJ does what MD did and doesn't 'return' when he gets back from his vacation." Tarik: "Thank you for the tip. I will send your regards to Ghassan." "DJ" is [[wiki/people/ismaila-barry|Ismaila Barry]], one of Dan's closest friends from the restaurant; "MD" is an unresolved initials-only reference to some earlier staff departure, not otherwise documented. The exchange is notable less for the content (Dan is explicit it isn't important) than for the frame: even after an involuntary termination, Dan positioned himself as a voluntary informal source for the owner, and Tarik received it exactly that way — gratitude, not suspicion. On Sep 28, 2024, during that autumn's escalation of the Israel–Lebanon conflict, Dan initiated: "Was thinking about you guys with everything going on in Lebanon. Hope your family over there is safe and well." Tarik: "Yes pretty bad." The relationship's most recent documented contact, April 12, 2026 — a year and eight months after termination — is the thread's longest and most substantive message: Dan telling Tarik that recent events had made him newly grateful for what his years at Au Za'atar had taught him about Lebanon — "how beautiful and unique the cultural tradition is, how nice and funny and diverse the people are" — and naming his disgust that "my country has enabled and facilitated" what he calls "evil, genocidal attacks," closing by asking after Ghassan and two names new to the corpus, **Khalid** and **Hani** (evidently Tarik's family or close friends in Lebanon, otherwise unidentified). Tarik's reply, same day: "everything is well here thank you for asking. Scary things happening all around. Hope you are well too."
+**Post-termination.** Thirteen days after filing for unemployment (per [[wiki/work/au-zaatar]]'s Aug 8, 2024 date), Dan texted Tarik unprompted, Aug 21 2024: "I know I'm not an *official* CIA agent anymore but I did hear some intel today that might interest you…don't get too excited though, it's not very important or surprising. You didn't hear it from me but, based on my conversation with him — I wouldn't be surprised if [[wiki/people/ismaila-barry|DJ]] does what MD did and doesn't 'return' when he gets back from his vacation." Tarik: "Thank you for the tip. I will send your regards to Ghassan." "DJ" is [[wiki/people/ismaila-barry|Ismaila Barry]], one of Dan's closest friends from the restaurant; "MD" is an unresolved initials-only reference to some earlier staff departure, not otherwise documented. The exchange is notable less for the content (Dan is explicit it isn't important) than for the frame: even after an involuntary termination, Dan positioned himself as a voluntary informal source for the owner, and Tarik received it exactly that way — gratitude, not suspicion. On Sep 28, 2024, during that autumn's escalation of the Israel–Lebanon conflict, Dan initiated: "Was thinking about you guys with everything going on in Lebanon. Hope your family over there is safe and well." Tarik: "Yes pretty bad." The relationship's most recent documented contact, April 12, 2026 — a year and eight months after termination — is the thread's longest and most substantive message: Dan telling Tarik that recent events had made him newly grateful for what his years at [[wiki/work/au-zaatar|Au Za'atar]] had taught him about Lebanon — "how beautiful and unique the cultural tradition is, how nice and funny and diverse the people are" — and naming his disgust that "my country has enabled and facilitated" what he calls "evil, genocidal attacks," closing by asking after Ghassan and two names new to the corpus, **Khalid** and **Hani** (evidently Tarik's family or close friends in Lebanon, otherwise unidentified). Tarik's reply, same day: "everything is well here thank you for asking. Scary things happening all around. Hope you are well too."
 
 ## Corpus Dimensions
 
@@ -55,7 +59,7 @@ The 80-message thread splits cleanly into an employment-logistics phase (Aug 202
 | Handle | +19178259183 |
 | Direction | Reliable — genuine two-way conversation, heavily Dan-initiated (consistent with an employee-to-owner logistics channel) |
 
-The full staff roster, the shed-build saga, the Valeria romance, and the "9 PM alibi" material live on [[wiki/work/au-zaatar]] (which has absorbed both STORYTIME volumes) and the period page [[wiki/timeline/periods/2021-2023-employment-block]]. This page keeps only what concerns Tarik directly.
+The full staff roster, the shed-build saga, the [[wiki/people/valeria-iglesias-cid|Valeria]] romance, and the "9 PM alibi" material live on [[wiki/work/au-zaatar]] (which has absorbed both STORYTIME volumes) and the period page [[wiki/timeline/periods/2021-2023-employment-block]]. This page keeps only what concerns Tarik directly.
 
 | Term | Gemini _02 | Gemini _00 |
 |------|-----------|-----------|
@@ -73,19 +77,19 @@ The recurring contrast Dan draws: [[wiki/people/annie-ulmer]], "the avatar of re
 | Date | Event |
 |------|-------|
 | Early 2021 | Hired on the spot as busser; equal tip split begins; 20 blocks from 307 E 76th |
-| Spring 2021 | Outdoor sheds built first; interior renovation delayed ~9 months; Annie hired as EV hostess |
+| Spring 2021 | Outdoor sheds built first; interior renovation delayed ~9 months; [[wiki/people/annie-ulmer|Annie]] hired as EV hostess |
 | Nov 2021 | First outdoor winter; tableside shawarma in the cold; [[wiki/people/dimitri|Dimitri]] joins and promotes Dan to server tasks |
 | 2022–2023 | Second and third outdoor winters ("there is no construction"); the Valeria episode ([[wiki/people/valeria-iglesias-cid]]) runs and collapses |
 | Aug 2023 – Aug 2024 | Direct texts document grocery runs, wine inventory, hiring coordination, a payroll dispute, and five sick-day call-outs |
 | 2023–2024 | Finale phase — Sergio, the Tunisian tip-siphon, the "9 PM alibi" post-mortem; ~41 months total |
 | Aug 11, 2024 | Termination; final paycheck collected via "Patricia" |
-| Aug 21, 2024 | Post-termination "CIA agent" intel tip about DJ's uncertain return |
+| Aug 21, 2024 | Post-termination "CIA agent" intel tip about [[wiki/people/ismaila-barry|DJ]]'s uncertain return |
 | Sep 28, 2024 | Lebanon-conflict check-in |
 | Apr 12, 2026 | Most recent contact — extended Lebanon solidarity message; Ghassan, Khalid, and Hani asked after |
 
 ## Notes
 
-Tarik is not to be confused with the other Au Za'atar staff (DJ/Ismaila Barry, Dimitri, Sergio, Felipe), who have their own stubs or roster entries on the chat pages. Ghassan appears throughout as co-owner. The phantom-tender and alibi-construction patterns from this era rhyme with the later BFS material — see [[wiki/work/bfs-foods]].
+Tarik is not to be confused with the other Au Za'atar staff ([[wiki/people/ismaila-barry|DJ]]/[[wiki/people/ismaila-barry|Ismaila Barry]], [[wiki/people/dimitri|Dimitri]], Sergio, [[wiki/people/felipe|Felipe]]), who have their own stubs or roster entries on the chat pages. Ghassan appears throughout as co-owner. The phantom-tender and alibi-construction patterns from this era rhyme with the later BFS material — see [[wiki/work/bfs-foods]].
 
 **Gaps:** "Modi," "MD," "Patricia," "Khalid," and "Hani" are all new, unresolved names surfaced by the direct thread — none has any other reference elsewhere in the corpus. The occasion for the June 2024 Arabic wedding congratulations is unidentified.
 

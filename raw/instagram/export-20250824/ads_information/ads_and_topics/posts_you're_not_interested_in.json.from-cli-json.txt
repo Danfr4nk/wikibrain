@@ -1,0 +1,21 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 286 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "impressions_history_posts_not_interested": [
+    {
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/p/CsoWtR2sjXE/",
+          "value": "ð"
+        },
+        {
+          "timestamp": 1694139852
+        }
+      ]
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:21:49.327-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:21:49.327Z"
+  }
+}

@@ -1,0 +1,36 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1628 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "ilhami OÌzz",
+      "timestamp_ms": 1633505266361
+    },
+    {
+      "content": "Are Ñou intÐµrÐµsted to growing yÐ¾ur InstÐ°grÐ°m aÑÑÐ¾unt\n100% guÐ°ranteed\n1k fÐ¾llowers : $10 Usd\n2k followers : $20 \n3k follÐ¾wers : $30 \n5k fÐ¾llÐ¾wÐµrs : $45 \n10k follÐ¾wers: $80\n20k followers :$150\n___\n*Pack viÐµws :100k viÐµws for 60$\n*Ð Ð°Ñk LikÐµs :10k Likes for 60$\n------------------------------\nÐ¢ÐµÑt me in my offiÑiÐ°l aÑcount @us.ig.boosterr itâs neÑÐµssÐ°rÑ tÐ¾ Ð°nswÐµr quiÑkly.\n------------------------------\nWÐµ HavÐµ FRÐÐ Ð¢rial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "ilhami OÌzz",
+      "timestamp_ms": 1633505264913
+    }
+  ],
+  "participants": [
+    {
+      "name": "ilhami OÌzz"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:25:16.742-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:25:16.742Z"
+  },
+  "thread_path": "message_requests/ilhamiozz_440863554315466",
+  "title": "ilhami OÌzz"
+}

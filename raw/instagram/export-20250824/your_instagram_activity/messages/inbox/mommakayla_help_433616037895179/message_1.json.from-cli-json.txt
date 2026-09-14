@@ -1,0 +1,69 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 2272 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Iâm gonna pay for it and give it to you as a gift but hit me on WhatsApp sometime tonight so I can get a few details from you about how much and when and stuff",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1631330434095
+    },
+    {
+      "content": "Or just add me on WhatsApp with my number if thatâs easier \n6467376955",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1631329497956
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1631329370,
+          "uri": "your_instagram_activity/messages/inbox/mommakayla_help_433616037895179/photos/241551954_1223788041441218_3244810917100187791_n_236591298475478.jpg"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1631329368789
+    },
+    {
+      "content": "My girlfriend has been going out with an Australian dude recently so I canât just find an American girl lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1631158199618
+    },
+    {
+      "content": "Iâll spoil them ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1631157374058
+    },
+    {
+      "content": "I need to find someone to go out with next week. Do you have any  troublemaker friends to introduce me to?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1631157287452
+    }
+  ],
+  "participants": [
+    {
+      "name": "mommakayla_help"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:35:46.659-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:35:46.659Z"
+  },
+  "thread_path": "inbox/mommakayla_help_433616037895179",
+  "title": "mommakayla_help"
+}

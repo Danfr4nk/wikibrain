@@ -1,0 +1,77 @@
+{
+  "batch": "20260913-1830",
+  "job": "wiki-brain-writeback-6h",
+  "pulled_at": "2026-09-13T19:10:00Z",
+  "window": {
+    "from": "2026-09-13T15:46:00.595+00:00",
+    "to": "2026-09-13T18:30:00+00:00"
+  },
+  "sources": {
+    "chats": {
+      "rows": 103,
+      "user": 37,
+      "assistant": 66,
+      "integrity": "byte-exact bodies; aggregates match DB exactly (21823 bytes octet_length / 21614 chars length / 0-row seams)"
+    },
+    "system": {
+      "rows": 466,
+      "kind": "aggregate-pinned manifest (per-page counts/bytes/ts-ranges + first/last-row md5 anchors); per-row pins unavailable \u2014 runtime stopped persisting db tool output ~18:29Z (see EXTRACT.md)"
+    },
+    "externals": {
+      "instagram": 0,
+      "threads": 0,
+      "facebook": 0,
+      "messenger": 0,
+      "spotify": 0,
+      "device": "no read path"
+    }
+  },
+  "watermark_from": "2026-09-13T15:46:00.595+00:00",
+  "files": [
+    {
+      "path": "EXTRACT.md",
+      "md5": "edc1e3cbbb4c5cfbe9b0c6f9dcc35afb",
+      "bytes": 6185
+    },
+    {
+      "path": "chats.json",
+      "md5": "e6f18b9bf79b27d77323dd14ffc5b065",
+      "bytes": 47396
+    },
+    {
+      "path": "externals/device.json",
+      "md5": "eba208066e05ab34c6643eec90fd8561",
+      "bytes": 241
+    },
+    {
+      "path": "externals/facebook.json",
+      "md5": "46dfeefe9244654b76cb55f80a602d6c",
+      "bytes": 336
+    },
+    {
+      "path": "externals/instagram.json",
+      "md5": "53b54981f08dcc4af9eb7d90ed8a4652",
+      "bytes": 372
+    },
+    {
+      "path": "externals/messenger.json",
+      "md5": "ea8e31c96c46dd907130f299cdda6401",
+      "bytes": 339
+    },
+    {
+      "path": "externals/spotify.json",
+      "md5": "5f51666463c5e1bf01ded8c7f48df027",
+      "bytes": 437
+    },
+    {
+      "path": "externals/threads.json",
+      "md5": "e05ff421bd6bf978a3bf19818fbd5eb7",
+      "bytes": 313
+    },
+    {
+      "path": "system-manifest.json",
+      "md5": "06670c25eb35b6bd78696e0536f15c80",
+      "bytes": 2779
+    }
+  ]
+}

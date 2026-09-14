@@ -100,8 +100,8 @@ The favorites domain ([[wiki/interests/favorites/index]]) documents consumption 
 > one that *"requires active build-out"* — framing the absence of release data as
 > a documentation gap this wiki had not got to yet.
 > [[wiki/mind/synthesis/failure-to-launch]] searched the full 196,399-message
-> corpus for it, and **the absence is in the record, not in the wiki's coverage
-> of it.**
+> corpus for it, and **the absence is in the record, not in the wiki's coverage**
+> **of it.**
 
 Across fifteen years and 98,056 of Dan's own messages: **one** message about
 making a beat, track, tune or remix; **zero** about being in a studio; **three**
@@ -156,12 +156,12 @@ extra annoying"* (25 April 2014).
 > about making music in his texts, at any point, including 2014. The
 > **inference** drawn from it is what needs narrowing. Silence in one channel
 > is evidence about that channel. What 2014 shows is that the activity was
-> real, sustained, outward-facing and competitive *while he was not
-> mentioning it to anyone privately* — which makes the private silence a
+> real, sustained, outward-facing and competitive *while he was not*
+> *mentioning it to anyone privately* — which makes the private silence a
 > more interesting fact, not a less interesting one.
 >
-> The corrected reading is harder rather than softer: **he did run it as an
-> enterprise, for about a year, and then stopped.** "He never really did it"
+> The corrected reading is harder rather than softer: **he did run it as an**
+> **enterprise, for about a year, and then stopped.** "He never really did it"
 > is the comfortable version. `failure-to-launch` should carry the sharper
 > one.
 
@@ -228,8 +228,8 @@ reconstructions whose counts are floors — but the 2017–2025 window is
 spreadsheet-complete, so the zero in it is a real zero and not a gap in
 retrieval.
 
-> **RESOLVED [2026-09-02] — the disputed tweet is real, and the archive was
-> the unreliable source.** This block previously said the corpus could not
+> **RESOLVED [2026-09-02] — the disputed tweet is real, and the archive was**
+> **the unreliable source.** This block previously said the corpus could not
 > tell whether `raw/self/dox-scan/FULL TWITTER ANALYSIS.txt` had invented the
 > line *"Had lit times playing @ulmdub birthday party last night at OSU"*, or
 > whether the archive's 2016 was incomplete — and it leaned toward the first,

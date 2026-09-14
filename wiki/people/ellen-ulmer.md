@@ -1,4 +1,5 @@
 ---
+title: "Ellen Ulmer"
 domain: people
 page_type: entity
 status: active
@@ -38,6 +39,9 @@ connections:
   - page: wiki/people/annie-ulmer
     type: component-of
     claim: "Annie's mother routed her worry about her own daughter through Dan twice — January 2019 and February 2020 — treating him as the more reliable channel to Annie than Annie."
+  - { target: "[[wiki/people/rick-frank]]", type: references, claim: "Dan's December 2016 report of making (more gradual) progress with Bill and Ellen is the one documented repair vector on the Annie-parents side during the years Rick's own repair stayed stalled." }
+  - { target: "[[wiki/people/bill-ulmer]]", type: contextualizes, claim: "Her husband; the pair appear jointly in the December 2016 progress report and in the August 2026 call record as the two addresses the conflict reached for." }
+  - { target: "[[wiki/people/fran-coldren]]", type: references, claim: "In March 2018, during Fran's final decline, Ellen coordinated delivering a church flower arrangement to cheer her \u2014 a small documented overlap between the Ulmer and Coldren households' caregiving arrangements." }
 ---
 
 # Ellen Ulmer
@@ -62,7 +66,7 @@ person she was carrying it for: "I appreciate the offer and will keep it in
 mind as things progress — especially with B. E."
 
 That is worth stating plainly because of what came after. The single most
-durable tie Dan has to Annie's family — the one still running unprompted in
+durable tie Dan has to [[wiki/people/annie-ulmer|Annie]]'s family — the one still running unprompted in
 2025, through every severance in the relationship that occasioned it — opened
 because a mutual acquaintance died and Dan wrote a note as the person in the
 room who had "gone through this a lot." He offered, in his own framing, the
@@ -70,9 +74,9 @@ one form of expertise he had. It was accepted, and the channel never closed.
 
 ## The relationship
 
-Ellen's messages read as genuinely maternal: an unfailing annual "Happy birthday!!" every November from 2017 through 2025, Christmas notes ("So happy to send something you could really use!"), and practical check-ins that treat Dan as part of the family rather than as an outside boyfriend. In March 2018, during Fran's final decline, Ellen coordinates delivering a church flower arrangement to cheer her and mentions being "at Jim and Sugie's" — confirming that **Jim and Sugie are the names of Annie's grandparents**, resolving an open identification gap on [[wiki/places/117-belmont-circle]]. The same message relays that Sugie was looking for help from a caregiver named Vickey with light housekeeping, suggesting some overlap or coordination with the Coldren household's own caregiving arrangements during that period.
+Ellen's messages read as genuinely maternal: an unfailing annual "Happy birthday!!" every November from 2017 through 2025, Christmas notes ("So happy to send something you could really use!"), and practical check-ins that treat Dan as part of the family rather than as an outside boyfriend. In March 2018, during [[wiki/people/fran-coldren|Fran]]'s final decline, Ellen coordinates delivering a church flower arrangement to cheer her and mentions being "at Jim and Sugie's" — confirming that **Jim and Sugie are the names of [[wiki/people/annie-ulmer|Annie]]'s grandparents**, resolving an open identification gap on [[wiki/places/117-belmont-circle]]. The same message relays that Sugie was looking for help from a caregiver named Vickey with light housekeeping, suggesting some overlap or coordination with the Coldren household's own caregiving arrangements during that period.
 
-**Jim's death is now dated.** A 2026-08-10 pass found the specific date: **October 2, 2019**, per a Dan message to a client explaining a possible booking conflict. From that point Sugie was the sole surviving grandparent, which is the structural origin of the recurring "Sugie needs care" alibi documented at length on [[wiki/people/annie-ulmer|Annie's own page]] — not a fabricated excuse, even in the years it was also a convenient one.
+**Jim's death is now dated.** A 2026-08-10 pass found the specific date: **October 2, 2019**, per a Dan message to a client explaining a possible booking conflict. From that point Sugie was the sole surviving grandparent, which is the structural origin of the recurring "Sugie needs care" alibi documented at length on Annie's own page — not a fabricated excuse, even in the years it was also a convenient one.
 
 Ellen sends her own condolence after Fran's death in April 2018 ("Fran was truly an incredible lady... there's going to be a whole in your lives" — corrected in her own next message to "Hole..."). She surfaces twice as a worried mother unable to reach her daughter directly — January 8, 2019 ("Can't get Annie to answer") and February 16, 2020 ("Haven't heard from Annie. All ok there?") — both instances routed through Dan rather than Annie's father or siblings, suggesting Dan was treated as a reliable go-between during the relationship's active years.
 
@@ -85,10 +89,10 @@ messaged her at **06:22 on July 26, 2026**, during the crisis recorded at
 
 The operator's account of why (2026-08-17, T0):
 
-> *"Dan was forced to contact her during the conflict that Annie created in
-> late July where she claimed to be raped and held hostage by Jerel Coles. She
-> made these claims minutes before Coles began texting Dan threats from Annie's
-> phone, leading Dan to believe Annie was in danger."*
+> *"Dan was forced to contact her during the conflict that Annie created in*
+> *late July where she claimed to be raped and held hostage by Jerel Coles. She*
+> *made these claims minutes before Coles began texting Dan threats from Annie's*
+> *phone, leading Dan to believe Annie was in danger."*
 
 **Corroborated, not merely asserted.** The contact itself is independently on
 file: `july-august-2026-reentanglement` records *"Alright I'm contacting
@@ -106,20 +110,20 @@ he initiated on it, he did so believing her daughter's life was at risk. Read
 against the six unexecuted threats, the channel's function holds even at the
 moment it looks most like it broke.
 
-> **GAP CLOSED [2026-08-17]:** This page previously said *"Nothing records
-> whether she and Dan have had any contact since the June 2026 severance or the
-> July 2026 re-contact; the last message on file is the November 2025 birthday
-> note, which predates both."* There was contact, on 2026-07-26 — **and the
-> wiki already knew.** The 06:22 disclosure has been on
+> **GAP CLOSED [2026-08-17]:** This page previously said *"Nothing records*
+> *whether she and Dan have had any contact since the June 2026 severance or the*
+> *July 2026 re-contact; the last message on file is the November 2025 birthday*
+> *note, which predates both."* There was contact, on 2026-07-26 — **and the**
+> **wiki already knew.** The 06:22 disclosure has been on
 > `july-august-2026-reentanglement` since that page was written; it was never
 > written back here, so this page went on declaring a gap the corpus had
 > already filled. A cascade failure, not a missing fact.
 
-> **DISCREPANCY [2026-08-17]:** The operator places the message *"in the text
-> logs on 26 July 2026 at around 7am"*;
+> **DISCREPANCY [2026-08-17]:** The operator places the message *"in the text*
+> *logs on 26 July 2026 at around 7am"*;
 > `july-august-2026-reentanglement` times the disclosure to **06:22** and its
-> own Gaps section calls it *"the email to Ellen"*, recorded as **not in
-> `raw/`**. Text versus email, and 06:22 versus ~07:00, are not settled here.
+> own Gaps section calls it *"the email to Ellen"*, recorded as **not in**
+> **`raw/`**. Text versus email, and 06:22 versus ~07:00, are not settled here.
 > The operator's pointer is the more chaseable of the two — if the message is in
 > the iMessage logs it is recoverable, and that page's gap should be re-checked
 > against them rather than left as "not in `raw/`".
@@ -131,7 +135,7 @@ as **the instrument**, and she is the only thing in it that both Dan and
 [[wiki/people/jerel-coles|Coles]] reach for.
 
 On the night of the call, Coles: *"I'm FaceTiming Dan, you, and the mom"* /
-*"I'm going to call your dad. Fuck your mom."* Annie, on tape, twice: *"My mom
+*"I'm going to call your dad. Fuck your mom."* [[wiki/people/annie-ulmer|Annie]], on tape, twice: *"My mom
 doesn't need this in her life."* And Dan, thirteen minutes in: *"I'm going to
 send this whole thing to Ellen because it sounds really fucking bad and I
 haven't said a word this entire time."*
@@ -139,13 +143,13 @@ haven't said a word this entire time."*
 Over the next three days Dan names her email six times and narrates his own
 reluctance about the address:
 
-> *"If I don't hear from you by noon, im sending to your moms work email…
-> that's the only one I could find"* (Aug 17 04:21)
+> *"If I don't hear from you by noon, im sending to your moms work email…*
+> *that's the only one I could find"* (Aug 17 04:21)
 >
 > *"should I send to your moms HHS.net email or the Verizon.net email"* /
-> *"i'm really really really trying to avoid sending to mcmillen because as
-> much as I want to make you face up to the truth that would not be good to do
-> on a work email"* (Aug 18 19:43)
+> *"i'm really really really trying to avoid sending to mcmillen because as*
+> *much as I want to make you face up to the truth that would not be good to do*
+> *on a work email"* (Aug 18 19:43)
 
 Annie's stated reason for begging him not to, repeatedly, is Ellen's state
 rather than her own exposure: *"This will literally kill my mom"* (Aug 19

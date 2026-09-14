@@ -76,8 +76,8 @@ peaks in exactly 2014 (113 hits), the SLOPPP high-water mark.
 > correspondent, and on **16 March 2015** "SLOPPP SUMMER TRAP MICROMIX #3".
 > The March 2016 link points at existing catalogue rather than new output,
 > so it does not extend the discography — but it is the last time the name
-> appears in public under Dan's own hand, and it is the **last public post
-> of his own music of any kind until the MOGZART revival of 4 March 2026**,
+> appears in public under Dan's own hand, and it is the **last public post**
+> **of his own music of any kind until the MOGZART revival of 4 March 2026**,
 > ten years later. See [[wiki/interests/music/overview]] for that gap
 > measured across the whole archive.
 
@@ -138,8 +138,8 @@ deliberate act of making a title harder to read and search.
 
 On **23 September 2013**, announcing a mix and an original in the same post:
 
-> *"New mix is a go, another original going up tonight. #overcompensating
-> #poseur #fakefuture"*
+> *"New mix is a go, another original going up tonight. #overcompensating*
+> *#poseur #fakefuture"*
 
 Three hashtags, all self-accusations, attached to the announcement rather than
 to anything else — at the exact centre of the most productive month in the
@@ -208,11 +208,11 @@ Gaps section listed as unaccounted for.
 | Sep 26, 2014 | $øΩR DRøP$ ∆N∂ LøLLIPøPZ (Sour Drops and Lollipops) | Original |
 | Nov 15, 2014 | TRAP TV 1 — live mix, streamed on Ustream, posted to YouTube | Live video |
 
-> **GAP CLOSED [2026-09-02]:** the gap, as this page stated it — *"episodes
-> 1–7 of 'Week in Trap' and any 'Heatwave Vol. 1' are unaccounted for."*
-> **Heatwave Vol. 1** is dated: announced 13 May 2014 (*"First hour of my
-> summer mix series will release tonight"*) and live the next day (*"Heatwave
-> Vol 1 is live streaming and downloadable on my #soundcloud now! 1 hour"*).
+> **GAP CLOSED [2026-09-02]:** the gap, as this page stated it — *"episodes*
+> *1–7 of 'Week in Trap' and any 'Heatwave Vol. 1' are unaccounted for."*
+> **Heatwave Vol. 1** is dated: announced 13 May 2014 (*"First hour of my*
+> *summer mix series will release tonight"*) and live the next day (*"Heatwave*
+> *Vol 1 is live streaming and downloadable on my #soundcloud now! 1 hour"*).
 > **Week in Trap Episode 3** is 21 February 2014. Episodes 1, 2 and 4–7
 > remain unaccounted for, so the gap narrows rather than closes entirely.
 

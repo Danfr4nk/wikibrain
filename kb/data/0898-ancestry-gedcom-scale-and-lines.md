@@ -1,0 +1,13 @@
++++
+id            = "dat:0898-ancestry-gedcom-scale-and-lines"
+layer         = 1
+type          = "datum"
+title         = "GEDCOM scale (515 individuals, 90 direct ancestors, 16 corrected to 14 European-born) and the four grandparental lines"
+claim         = "wiki/self/ancestry.md's documentary stream is an Ancestry.com GEDCOM containing **515 individuals and 218 families**, parsed across 7 generations to identify **90 direct ancestors** and 16 European-born forebears — with a page-level self-correction: Susannah Elizabeth Emerick (Allegheny Co, PA) and William Preston Gillingham (Buckingham, Bucks, PA) were parsed as European-born only because their place strings lacked \"USA,\" so the true European-born count is **14**, of whom only 3 sit on direct parental lines (David J. Frank from Russia, Sadie Harris from Austria, and \"Harris\" from Czechoslovakia — Sadie's father, the biggest data gap: ~12.5% of Dan's DNA, undocumented beyond one datum). The four grandparental lines: **paternal grandfather Morley Jay Frank** (1927–1998, Brownsville; enlisted 24 October 1945 in Pittsburgh; brief 1957 Seattle period, then permanent Fayette County return — \"the template\" of Dan's own 2013 and 2025 returns); **paternal grandmother Gay Gillingham** (b. 1939; daughter of Dr. George Dale Gillingham, DDS); **maternal grandfather George Dixon Shrum Jr.** (b. abt 1937, Pittsburgh/Fox Chapel industrial line); **maternal grandmother Rebecca Diane Van Voorhis Jr.** (b. 1939, \"Diane\"; the mobile/chaotic quadrant, Michigan 1985–2010 and 2013–2020) — whose mother **Jesse Frances Thomas Whyel Coldren** (1920–2018) is the Fran Coldren of the main record, the page documenting three marriages and the WV→PA→FL→PA trajectory. The Jewish line: 4 direct ancestors (David J. Frank, Sadie Harris, Morley Jay Frank, Richard Harrison Frank) with David's second migration — Manhattan 1900–1910, Bronx 1915, Brownsville by 1920 — as the founder's hub record. The GEDCOM zip and extracted trees (raw/self/ancestry/*) are not held in raw/ on disk; all of this is page testimony."
+cites         = ["src:old-wiki-export-2026-09-04"]
+attributed_to = "src:old-wiki-export-2026-09-04"
+confidence    = "moderate"
+extraction    = "Page body read from corpus__3.txt line 73839 (350 lines); the GEDCOM scale figures, the Morley Jay Frank dates, the David J. Frank Manhattan/Bronx/Brownsville sequence, and 'enlisted 24 October 1945' match raw/old-wiki-export-2026-09-04/whole.txt. The 16→14 European-born correction is the page's own, preserved here. Overlap note: [`dat:0355`](0355-david-j-frank-great-grandfather-nyc-chapter.md) covers David J. Frank's NYC chapter — cited, not duplicated."
+importance    = 4
+tags          = ["ancestry", "genealogy", "old-wiki", "testimony"]
++++

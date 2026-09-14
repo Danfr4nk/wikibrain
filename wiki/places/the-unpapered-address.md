@@ -93,8 +93,8 @@ connections:
 > from the already-cited claim, not from the new section. Nothing here is
 > affected.
 
-> **RE-CHECKED [2026-08-28] — premise moved, and it stays an open question
-> rather than a settled one.** [[wiki/places/155-virginia-ave]] gained a
+> **RE-CHECKED [2026-08-28] — premise moved, and it stays an open question**
+> **rather than a settled one.** [[wiki/places/155-virginia-ave]] gained a
 > note recording that a newly surfaced operator account dates Alexis's
 > eviction from the house and Dan's concealment of her to March 2014, with
 > arrival at 155 Virginia Ave "by Christmas 2014" — a few weeks earlier than
@@ -140,8 +140,8 @@ connections:
 > inference from silence — the residence timeline running to February 2019 —
 > and the summons is the first evidence against it: something moved within the
 > week, at least on paper. The edge claim is amended above to say so. The
-> distinction the page now has to hold is **address of record versus address of
-> occupancy**, which are different things in a life where the second is never
+> distinction the page now has to hold is **address of record versus address of**
+> **occupancy**, which are different things in a life where the second is never
 > documented; the notice may well have moved only the first.
 >
 > **And it supplies a sharper instance of the page's own thesis.** In sixteen
@@ -197,8 +197,8 @@ signature continuously since 2010.
 > paper changed nothing about who lived where.
 
 > **Provenance disclosure**, per [[wiki/mind/synthesis/instrument-is-subject]].
-> Every member is a T1 page read out of primary records. **The primary evidence
-> this page adds is a lease-and-tenancy pass over the full message dump**, run
+> Every member is a T1 page read out of primary records. **The primary evidence**
+> **this page adds is a lease-and-tenancy pass over the full message dump**, run
 > 2026-08-19, which closes a declared gap on [[wiki/places/307-e-76th-st]] (the
 > rent), supplies a new dated event four months earlier than the corpus's
 > current NYC-2 end date, and establishes that the documentary void is uniform
@@ -216,8 +216,8 @@ signature continuously since 2010.
 | [[wiki/places/307-e-76th-st]] | 2019–2025 | Annie, jointly; landlord [[wiki/people/john-paci\|John Paci]] personally | A real lease exists; **signatory never recovered**; ~$10,000 arrears at move-out | Annie ended the cohabitation, Feb 2025 |
 | [[wiki/legal/463-morgantown]] | 2026– | Suz, in a blended agent/tenant/caretaker role | **No signed lease, no confirmed POA** | Unresolved; *"It's time for you to go"* (2026-08-11) |
 
-> **RE-CHECKED [2026-08-27] — premise moved, and it closes the one row whose
-> ending the corpus could not follow all the way down.**
+> **RE-CHECKED [2026-08-27] — premise moved, and it closes the one row whose**
+> **ending the corpus could not follow all the way down.**
 > [[wiki/places/117-belmont-circle]] gained the sale's disposition on
 > 2026-08-27: it **closed in summer 2019 for $250,000** (operator testimony,
 > uncorroborated in the message record, buyer still unknown). The row above is
@@ -225,8 +225,8 @@ signature continuously since 2010.
 > which is what that column reports. But the table's argument gets sharper, not
 > merely more complete. Every other row ends with the tenancy and leaves the
 > asset's fate outside the frame; this one now runs to the end, and the end is
-> that the house was sold out of the family sixteen months later. **There was
-> never anything to inherit.** The "None" in the paper column was not an
+> that the house was sold out of the family sixteen months later. **There was**
+> **never anything to inherit.** The "None" in the paper column was not an
 > oversight that a will or a deed might later have cured — the arrangement was
 > access granted by a living person, it ended when she died, and the property
 > itself was converted to cash and left. No claim on this page changes; the
@@ -329,11 +329,11 @@ describing it accurately.
 
 Set against that, his mother's instructions in the same February:
 
-> **2019-02-23:** *"Don't do anything without a lease and have me look at it
-> first. You aren't represented by a realtor so up there, your legal rights
-> could be more limited."*
-> **2019-02-24:** *"DO NOT FORGET TO LET ME LOOK AT THE LEASE BEFORE YOU SIGN
-> IT."*
+> **2019-02-23:** *"Don't do anything without a lease and have me look at it*
+> *first. You aren't represented by a realtor so up there, your legal rights*
+> *could be more limited."*
+> **2019-02-24:** *"DO NOT FORGET TO LET ME LOOK AT THE LEASE BEFORE YOU SIGN*
+> *IT."*
 
 She says it twice in six days, the second time in capitals. That is a person who
 has watched this happen before. And seven years later at

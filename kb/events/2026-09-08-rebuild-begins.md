@@ -37,3 +37,26 @@ The generalisation worth noting: the corpus work had already established, for
 message evidence specifically, that partial data produces confident error. The
 architecture turns that from a policy about one source into a property of the
 whole graph.
+
+## What came after, on this foundation
+
+Everything in the 2026-09-09 meta record stands on this rebuild:
+
+- [`evt:2026-09-09-edge-rework`](2026-09-09-edge-rework.md) repaired the one
+  part the rebuild left unenforced — the edges — after `dat:0011` showed
+  what the asymmetry produced in practice within two days.
+- [`evt:2026-09-09-privacy-cut-as-epistemic-concern`](2026-09-09-privacy-cut-as-epistemic-concern.md)
+  changed retrieval, not ingestion; the layer law survived intact.
+- [`evt:2026-09-09-wikitest-rebuild`](2026-09-09-wikitest-rebuild.md)
+  ported the whole apparatus into the cloud container.
+- [`evt:2026-09-09-ingest-complete`](2026-09-09-ingest-complete.md) is the
+  largest-scale test the citation regime has ever survived: ~1,345 datums
+  against the invariant, each validated before commit, and the schema
+  learned from the rejections.
+
+The rebuild is the reason the ingest's contradictions are *usable*:
+contradictions filed under a machine-enforced citation rule are repair
+orders with addresses, not opinions. Without the six layers, the
+correction-propagation failures the ingest mapped (June 1 attribution,
+August graduation, Coles "never says yes") would be scattered notes
+rather than a standing map of what is stale and where.

@@ -1,0 +1,99 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 2255 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:24:16.590-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:24:16.590Z"
+  },
+  "text_post_app_text_post_app_profile": [
+    {
+      "media_map_data": {
+        "Profile Photo": {
+          "creation_timestamp": 1689310288,
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "text_app_post": {
+            "geo_gated_country_list": "",
+            "reply_control": "everyone"
+          },
+          "title": "",
+          "uri": "media/other/359813181_3573975919595658_6455582385907482723_n_18009476137751315.jpg"
+        }
+      },
+      "string_map_data": {
+        "Bio": {
+          "href": "",
+          "timestamp": 0,
+          "value": "I write dumb and bad essays on politics and culture from my cramped NYC studio apartment."
+        },
+        "Birthday": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        },
+        "Email": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        },
+        "Is Eligible for Profile Activation Badge": {
+          "href": "",
+          "timestamp": 0,
+          "value": "False"
+        },
+        "Links": {
+          "href": "",
+          "timestamp": 0,
+          "value": "http://www.tiktok.com/@caakehorn"
+        },
+        "Name": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        },
+        "Onboarding Time": {
+          "href": "",
+          "timestamp": 1688606577,
+          "value": ""
+        },
+        "Phone Confirmation Method": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        },
+        "Phone Confirmed": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        },
+        "Phone Number": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        },
+        "Private Account": {
+          "href": "",
+          "timestamp": 0,
+          "value": "False"
+        },
+        "Profile Shows Activation Badge": {
+          "href": "",
+          "timestamp": 0,
+          "value": "False"
+        },
+        "Username": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": ""
+    }
+  ]
+}

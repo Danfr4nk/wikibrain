@@ -1,0 +1,246 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 8517 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "If my nihilism is on-brand and you want to send me free shit Iâm glad to provide an address, otherwise itâs a bust",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660036679413
+    },
+    {
+      "content": "But I could not care any less about instagram clout lmao",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660036627092
+    },
+    {
+      "content": "I donât begrudge the effort",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660036600432
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1660036589057
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1660036587253
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1660036585681
+    },
+    {
+      "content": "I do enjoy that but",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Instagram User",
+          "reaction": "â¤ï¸",
+          "timestamp": 1660036587
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660036583511
+    },
+    {
+      "content": "Theyâre like partners",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Instagram User",
+          "reaction": "â¤ï¸",
+          "timestamp": 1660036589
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660036578728
+    },
+    {
+      "content": "Because they got tricked by a small brand into thinking that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Instagram User",
+          "reaction": "â¤ï¸",
+          "timestamp": 1660036585
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660036573572
+    },
+    {
+      "content": "Thats nice bro, thanks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1660036560626
+    },
+    {
+      "content": "About to move to Hollywood",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660036559369
+    },
+    {
+      "content": "Think theyâre like",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660036548808
+    },
+    {
+      "content": "When my stupid friends",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660036545958
+    },
+    {
+      "content": "I do love though",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660036541771
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1660036527043
+    },
+    {
+      "content": "Iâm interested in buying some weed and reading politics on Twitter",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Instagram User",
+          "reaction": "â¤ï¸",
+          "timestamp": 1660036527
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660036514857
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1660036493845
+    },
+    {
+      "content": "Yes, exactly but its on you brother if you are interested, but if not thanks for your time",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1660036479352
+    },
+    {
+      "content": "I have like 5 likes on my post so Iâm pretttttyyyy sure no consultant is going to see a potential return on that enough to warrant any kind of âcollabâ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Instagram User",
+          "reaction": "â¤ï¸",
+          "timestamp": 1660036493
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660036443067
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1660036411080
+    },
+    {
+      "content": "Lmao okay i guess itâs technically not a scam if youâre just buying stuff and then getting a promo post",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Instagram User",
+          "reaction": "â¤ï¸",
+          "timestamp": 1660036411
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660036393746
+    },
+    {
+      "content": "It is not scam, you can see our main account @shopluxoden its free to message them",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1660036309758
+    },
+    {
+      "content": "Hi! We've seen a potential in you that's why we want to collab. Please redirect yourself to our main account @shopluxoden and message them to know more on how to become our brand ambassador. We have great deals waiting for you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1660036278315
+    },
+    {
+      "content": "Reacted â¤ï¸ to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1660036264130
+    },
+    {
+      "content": "Possibly! Iâm still deciding if I would rather do whatever scam youâre talking about or get hit by a drunk driver",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Instagram User",
+          "reaction": "â¤ï¸",
+          "timestamp": 1660036264
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1660036225558
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:32:22.774-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:32:22.774Z"
+  },
+  "thread_path": "inbox/instagramuser_969004497829692",
+  "title": "Instagram User"
+}

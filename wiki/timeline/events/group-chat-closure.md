@@ -99,7 +99,7 @@ See [[wiki/mind/concepts/attachment-model]] (no closure without explicit severan
 | Closure date | 2026-06-01 |
 | Confirmation vehicle | Group chat |
 | Messages in annie_all_time_logs extract on date | ~40 (clustered ~00:00 hour) |
-| Key verbatim (from logs + end fight CSV) | "Goodbye forever. This was not how it should have ended but. sic semper lupanis." (Annie); Dan: "I saved you from fucking DYING when you were shooting coke...", "Shame on you. Seriously...", "You are not capable of love...", "and you will never unring this bell." |
+| Key verbatim (from logs + end fight CSV) | "Goodbye forever. This was not how it should have ended but. sic semper lupanis." (Dan — misattributed to Annie until the 2026-08-13 correction; see dat:0125); Dan: "I saved you from fucking DYING when you were shooting coke...", "Shame on you. Seriously...", "You are not capable of love...", "and you will never unring this bell." |
 | Context from annie logs | "eli" mentions: 388 across extract; "goodbye": 110; "lying": 150. Dec 2025 peak 4,657 msgs preceded the asymmetry. |
 
 **Sources added:** raw/self/message-csv/annie_all_time_logs.csv , raw/self/message-csv/THE END FIGHT.csv , raw/self/message-csv/END_FIGHT_full.csv (sequence details).

@@ -1,0 +1,34 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 925 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://www.instagram.com/reel/ClAwi4sg0SQ/?id=2972589257635611792_11064593",
+        "original_content_owner": "ihatedanfrank",
+        "share_text": "If youâre a real fan of conservative weirdos like me youâll love this stuff about Louie Gohmert from Michael Wolffâs book âLandslideâ"
+      },
+      "timestamp_ms": 1668580363633
+    }
+  ],
+  "participants": [
+    {
+      "name": "Rep. Louie Gohmert"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:29:56.474-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:29:56.474Z"
+  },
+  "thread_path": "inbox/replouiegohmert_1054666392596835",
+  "title": "Rep. Louie Gohmert"
+}

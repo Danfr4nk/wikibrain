@@ -1,0 +1,16 @@
++++
+id         = "dat:annie-origin-narrative-dan-20260912"
+layer      = 1
+type       = "datum"
+title      = "Dan's 2026 account of the Annie origin week (mechanism)"
+claim      = "Per Dan's 2026-09-12 testimony: ~Nov 19, 2015 (a week before Thanksgiving), Alexis told Dan to go meet Annie to get drugs for them while Alexis worked. Dan and Annie clicked immediately; she asked him to go with her to Morgantown to pick up. They went together; on return they had sex. SEVEN HOURS LATER Dan brought Alexis her drugs, Annie still with him; they sat at the bar together — 'that was the true minute Alexis and I split up.' Alexis 'knew what was going on just not HOW MUCH.' 'No one thought I could get Annie.'"
+cites      = ["src:annie-morgantown-trip-2015-11-30"]
+confidence = "moderate"
+reliability = "retrospective"
+extraction = "Oral history given in chat 2026-09-12 while sending the second Annie photo drop. Mechanism-specific (drug errand, Morgantown run, 7-hour gap, bar scene) — not a vague reminiscence, which raises its weight; still 11-year retrospective testimony, so EXIF/corpus outrank it on dates. CORPUS CROSS-CHECK (raw logs, messages.csv 2026-09 snapshot, 2026-09-12): the origin week Nov 19-27 is TEXTUALLY DARK — four iMessages total in that window (2 from Dan with no chat name, 1 group, 1 unknown number). The meeting, both Morgantown runs, first sex, the bar scene, danfranksgiving, the 2am golf meetup have zero textual trace: Dan's testimony is the ONLY record of that week, an absence consistent with 'lived in person,' not with contradiction. The Annie thread itself starts 2015-11-28 23:47:54 ('Fuck my friends. Fuck birthday dinner. Fucking going drinking. I wanna be with you') — the first hours are a real-time record of the switch's finalization. Load-bearing lines: Nov 29 0:01 DAN 'Alexis doesn't know that you have any part in this. She thinks I'm just creeping you' — CONSISTENT with Dan's 'knew what was going on just not HOW MUCH' (she knew he was into Annie, not the extent). Nov 29 6:33 DAN 'Here's what ima do. Harshman leaving soon, so I'll have him drop me and say I'm going to his house' — Harshman as cover/alibi. Nov 29 6:40-7:30 the SECOND golf-course meetup ('meet you on the golf', 'I'm on 3 tee', grass in her phone screen, 'I would sleep in the wet grass with you'). Nov 29 8:33+ the 'It's done I'm yours' vows — the split is FINALIZED Nov 29, so Dan's 'true minute' bar scene was the rupture and Nov 29 the formalization. RESOLVED TENSION: the 2am golf-course meetup — Dan's sneak-out after danfranksgiving (early Nov 26) and the Nov 29 6:40-7:30 golf meetup are TWO DISTINCT events, one testified, one corpus-anchored. OPEN TENSIONS: (1) introduction date ~Nov 19 (Dan) vs ~Nov 24 (back-computed from Annie's Dec 1 'HAPPY ONE WEEK SINCE LEX HANDED YOU TO ME'); (2) the wiki's 'left Alexis within 24 hours' framing vs this account's slower mechanism (sex day one, 'true minute' at the bar scene, formal end Dec 1-2). GAP: no chat named for Alexis exists in the corpus (display-name search empty) — her side of the breakup week is unrecoverable from these logs."
+perspective = "self"
+tags       = ["annie", "alexis", "relationship-start", "origin-narrative"]
+created    = "2026-09-12"
++++
+
+<!-- prose for humans; the frontmatter is for machines -->

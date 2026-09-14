@@ -1,0 +1,36 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1098 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "I have checked your page, great content but not getting enough followers and engagements. I think you deserve more !\nð We helped 458 influencer and business to get better result on instagram and you can be the next !\nð© Please send a DM \" GROWTH\" to @instadevelop1 account for growth and engagement.\nWhatsApp: +212702-677039\nBest,Team instadevelop.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1631314468932
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1631314466360
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:28:11.220-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:28:11.220Z"
+  },
+  "thread_path": "message_requests/instagramuser_279265980676210",
+  "title": "Instagram User"
+}

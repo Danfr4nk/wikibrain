@@ -1,0 +1,63 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1719 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Lmaoo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2964620836498751903"
+      },
+      "timestamp_ms": 1667662192566
+    },
+    {
+      "content": "Wtf",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2879466174187872672"
+      },
+      "timestamp_ms": 1657481286648
+    },
+    {
+      "content": "Fingers crossed that you are in the Hasanabi twitch chat",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1655862442222
+    },
+    {
+      "content": "I get worried that gen z is just a bunch of fucking nazi groypers",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1655862316571
+    },
+    {
+      "content": "Iâm very proud to see that youâre a based wokehead",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1655862280807
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:32:25.207-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:32:25.207Z"
+  },
+  "thread_path": "inbox/instagramuser_929850788411730",
+  "title": "Instagram User"
+}

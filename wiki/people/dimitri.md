@@ -3,6 +3,7 @@ domain: people
 page_type: entity
 title: "Dimitri"
 status: stable
+tags: [career, nyc-era, relationships]
 date_created: 2026-06-23
 date_modified: 2026-07-20
 date_range_start: 2023-09-04

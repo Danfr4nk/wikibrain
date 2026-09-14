@@ -17,8 +17,8 @@ connections:
 > understanding, and `wiki/` is defined as the compiled product. Filed here it
 > gets indexed, mapped, word-counted and rendered as though it were biography.
 > Its home is `synthesis-queue.md` / `BACKLOG.md`, which exist for exactly this.
-> Frontmatter added so it stops failing `bin/wiki-lint`; **moving it is an
-> operator call** and has deliberately not been done unilaterally. Items it
+> Frontmatter added so it stops failing `bin/wiki-lint`; **moving it is an**
+> **operator call** and has deliberately not been done unilaterally. Items it
 > lists that have since been applied are recorded on
 > [[wiki/timeline/annie-read-notes]] under "Synthesis pass — 2026-08-17."
 

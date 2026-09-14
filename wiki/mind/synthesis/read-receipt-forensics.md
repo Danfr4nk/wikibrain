@@ -29,13 +29,16 @@ connections:
   - page: wiki/mind/profile/big-five-psychometrics
     type: caused-by
     claim: "This page's own reassurance-architecture citation — read-receipt analysis as 'measurement substituting for reassurance' — is one hop from its actual source: Trust at the 9th percentile, corpus-confirmed at 1.96x raised suspicion, is why a confirmation does not carry forward and a device-level metadata query gets run in the first place. Named directly here rather than left implicit."
+  - { target: "[[wiki/mind/synthesis/instrument-is-subject]]", type: contextualizes, claim: "The instrument-is-subject page sets the evidentiary standard this forensic method has to meet." }
+  - { target: "[[wiki/mind/synthesis/the-unbroken-bond]]", type: references, claim: "The unmasking case at the heart of M4 unfolded inside the bond the unbroken-bond page describes." }
+
 ---
 
 # Read-Receipt Forensics — chat.db Metadata and Its Traps
 
 Derived from a single extraction session, 2026-08-09. Three defects, each of
 which **silently produces a confident wrong answer rather than an error.** That
-is the failure mode the forensic method is least protected against, which is why
+is the failure mode [[wiki/mind/concepts/forensic-method|the forensic method]] is least protected against, which is why
 this is a page and not a footnote.
 
 > **Sourcing note.** The session this page documents ran directly against the
@@ -175,7 +178,7 @@ metadata; pull text separately and join on timestamp.
 Three of the four defects above produced, at some point in one session, a
 **confident and wrong** intermediate conclusion: a zero-row result read as a
 finding, a directional column read as undirectional, and an auto-populated field
-read as intentional. None raised an error. The forensic method's exposure is not
+read as intentional. None raised an error. [[wiki/mind/concepts/forensic-method|The forensic method]]'s exposure is not
 to hard failures — it is to instruments that lie quietly and in the direction of
 whatever is already suspected.
 
@@ -215,41 +218,6 @@ detector available is register.
 **No method-level finding on this page is withdrawn.** M1–M3 are properties of
 `chat.db` and are untouched.
 
-## Gaps
-
-The underlying `annie_metadata_24h.csv` this page's counts are drawn from has
-not been filed to `raw/self/message-csv/` — see the sourcing note above. Prior
-corpus analyses that used `reply_to_guid` as a threading signal (M2) have not
-yet been audited; that audit is owed and is listed in `BACKLOG.md`.
-
-> **RE-CHECKED [2026-08-18] — premise moved, conclusion unaffected and slightly
-> strengthened.** [[wiki/mind/concepts/forensic-method]] moved on 2026-08-18: its
-> claim that the July 2026 Leviathan dashboards were the method's first outward
-> deployment was corrected to 2025-07-11
-> ([[wiki/timeline/events/james-analysis-pdf]]), and it gained a terminal step,
-> [[wiki/mind/concepts/the-handed-mirror]]. Neither touches this page, which is
-> about four defects in `chat.db` metadata extraction and the class of error they
-> produce. The correction is in fact the same species of finding at a different
-> level: a confident wrong answer that raised no error, held for two months
-> because a cited source had been read to eleven percent of its length. The
-> instrument that lied quietly there was a reading pass rather than a query.
-
-> **RE-CHECKED [2026-08-23] — premise moved by one typed edge, conclusion
-> unaffected.** [[wiki/mind/concepts/forensic-method]] gained an `instance-of` edge on
-> 2026-08-23 into [[wiki/mind/profile/texting-deviance-audit]]. No content this page
-> depends on changed. The new instance does rhyme with this page's subject: the audit's
-> decisive move was a control that disconfirmed the hypothesis being tested — Dan's
-> *first* messages in a turn start lowercase at the same rate as his continuations, so
-> the lowercase opener is habit, not sentence-fragmentation. That is the same class of
-> check whose absence produced the four `chat.db` defects catalogued here.
-
-> **RE-CHECKED [2026-08-26] — premise moved by one typed edge, conclusion
-> unaffected.** [[wiki/mind/concepts/forensic-method]] gained an `instance-of` edge
-> into the new [[wiki/mind/profile/lexicon]] page — the same evidence-cite/
-> authority-invoke/render-a-finding machinery documented there for crisis analysis,
-> observed running on a compliment instead. Nothing about `chat.db` metadata
-> extraction is downstream of that finding.
-
 ## The constitution pass
 
 Run 2026-08-28, against the eleven registers in `SYNTHESIS_SPEC.md`. This
@@ -282,4 +250,37 @@ gestured at without stating. **What it did not do:** manufacture a
 cognitive-stack connection to a page whose actual content is a SQL
 type-coercion bug.
 
+## Gaps
 
+The underlying `annie_metadata_24h.csv` this page's counts are drawn from has
+not been filed to `raw/self/message-csv/` — see the sourcing note above. Prior
+corpus analyses that used `reply_to_guid` as a threading signal (M2) have not
+yet been audited; that audit is owed and is listed in `BACKLOG.md`.
+
+> **RE-CHECKED [2026-08-18] — premise moved, conclusion unaffected and slightly**
+> **strengthened.** [[wiki/mind/concepts/forensic-method]] moved on 2026-08-18: its
+> claim that the July 2026 Leviathan dashboards were the method's first outward
+> deployment was corrected to 2025-07-11
+> ([[wiki/timeline/events/james-analysis-pdf]]), and it gained a terminal step,
+> [[wiki/mind/concepts/the-handed-mirror]]. Neither touches this page, which is
+> about four defects in `chat.db` metadata extraction and the class of error they
+> produce. The correction is in fact the same species of finding at a different
+> level: a confident wrong answer that raised no error, held for two months
+> because a cited source had been read to eleven percent of its length. The
+> instrument that lied quietly there was a reading pass rather than a query.
+
+> **RE-CHECKED [2026-08-23] — premise moved by one typed edge, conclusion**
+> **unaffected.** [[wiki/mind/concepts/forensic-method]] gained an `instance-of` edge on
+> 2026-08-23 into [[wiki/mind/profile/texting-deviance-audit]]. No content this page
+> depends on changed. The new instance does rhyme with this page's subject: the audit's
+> decisive move was a control that disconfirmed the hypothesis being tested — Dan's
+> *first* messages in a turn start lowercase at the same rate as his continuations, so
+> the lowercase opener is habit, not sentence-fragmentation. That is the same class of
+> check whose absence produced the four `chat.db` defects catalogued here.
+
+> **RE-CHECKED [2026-08-26] — premise moved by one typed edge, conclusion**
+> **unaffected.** [[wiki/mind/concepts/forensic-method]] gained an `instance-of` edge
+> into the new [[wiki/mind/profile/lexicon]] page — the same evidence-cite/
+> authority-invoke/render-a-finding machinery documented there for crisis analysis,
+> observed running on a compliment instead. Nothing about `chat.db` metadata
+> extraction is downstream of that finding.

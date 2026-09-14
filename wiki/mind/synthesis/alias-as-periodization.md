@@ -54,8 +54,8 @@ connections:
 
 # The Alias Is a Clock, Not a Style
 
-> **RE-CHECKED [2026-08-28] — premise moved, and a constitution pass adds
-> the mechanism this page was missing on the invariant side.**
+> **RE-CHECKED [2026-08-28] — premise moved, and a constitution pass adds**
+> **the mechanism this page was missing on the invariant side.**
 > [[wiki/mind/synthesis/totality-themes]] gained two RE-CHECKED notes
 > (2026-08-28) confirming a `dormancy-not-exit` correction (a five-day
 > tenure figure reattributed from Franki Faris to Alexis Armel) touches
@@ -67,15 +67,15 @@ connections:
 > **RE-CHECKED [2026-08-26]:** flagged stale against
 > [[wiki/mind/synthesis/totality-themes]] (2026-08-26), which gained two
 > RE-CHECKED notes confirming its own cited premises unaffected by the same
-> day's acquisition-drive/embedded-objective additions. **No claim on this
-> page is affected** — nothing here reasons from the tenure or satisfaction
+> day's acquisition-drive/embedded-objective additions. **No claim on this**
+> **page is affected** — nothing here reasons from the tenure or satisfaction
 > material either page added.
 
 > **RE-CHECKED [2026-08-23]:** flagged stale against
 > [[wiki/interests/music/overview]] (2026-08-23), which gained a corpus search
-> for the production identity's social trace: **one Dan-sent message in fifteen
-> years about making a track, zero about a studio, three lifetime mentions of
-> GRIPNOTIC, no play count anywhere.** This page's thesis — that the alias is a
+> for the production identity's social trace: **one Dan-sent message in fifteen**
+> **years about making a track, zero about a studio, three lifetime mentions of**
+> **GRIPNOTIC, no play count anywhere.** This page's thesis — that the alias is a
 > clock rather than a style, because the aesthetics do not turn over at the
 > renames — is **untouched and quietly corroborated.** An alias that marks
 > periods rather than sounds is exactly what you would expect to find behind a
@@ -84,8 +84,8 @@ connections:
 > work. No claim withdrawn, and the new evidence is an independent line to the
 > same conclusion.
 
-> **RE-CHECKED [2026-08-22] — premise moved by a re-check block only, at
-> third remove.** [[wiki/mind/synthesis/totality-themes]] moved on 2026-08-22 solely by
+> **RE-CHECKED [2026-08-22] — premise moved by a re-check block only, at**
+> **third remove.** [[wiki/mind/synthesis/totality-themes]] moved on 2026-08-22 solely by
 > gaining a `RE-CHECKED` blockquote, which itself recorded that *its* premises
 > had moved only by re-check blocks, all of them tracing back to the April 2018
 > hospital summons ([[wiki/timeline/events/uniontown-hospital-vape-alarm]]) and
@@ -241,8 +241,8 @@ none added a genuinely new argument.
 > supporting clause (the Annie bond did not "only ever close when an outside
 > party forced it" — Dan issued the June 1 2026 severance himself and held it
 > 52 days) and to restate the firewall as governing *irreversibility* rather
-> than the act of ending. This page instantiates the firewall's **identity
-> layer**: rename the exposed handle, never the involuntary sub-bass
+> than the act of ending. This page instantiates the firewall's **identity**
+> **layer**: rename the exposed handle, never the involuntary sub-bass
 > signature. That prediction is untouched by the restatement, and if anything
 > reads more cleanly under it — an alias rotation is precisely a closure that
 > stays reversible, since every prior name remains reachable and nothing is

@@ -68,16 +68,16 @@ counts in the table above are estimates carried forward, and the index measures.
 > **CORRECTED [2026-08-14] — three of the files in the group-drama row are empty.**
 > The row `THE END FIGHT.csv / END_FIGHT_full.csv + annie_group_*` is credited above
 > with "~1k+" events. Measured by `bin/source-index`: `THE END FIGHT.csv` holds 589
-> rows, and **`END_FIGHT_full.csv` (68 bytes), `annie_group_chat_may31-june1_2026.csv`
-> (68 bytes) and `annie_group_chat_relaxed.csv` (57 bytes) are header-only with zero
-> data rows.** The group's real contribution is 589 rows from one file, not ~1k from
+> rows, and **`END_FIGHT_full.csv` (68 bytes), `annie_group_chat_may31-june1_2026.csv`**
+> **(68 bytes) and `annie_group_chat_relaxed.csv` (57 bytes) are header-only with zero**
+> **data rows.** The group's real contribution is 589 rows from one file, not ~1k from
 > four. `END_FIGHT_full.csv` is nonetheless cited as a source on this page and on
 > [[wiki/timeline/events/end-fight]], [[wiki/timeline/events/group-chat-closure]]
 > (specifically for "sequence details") and
 > [[wiki/mind/synthesis/dan-annie-fallout-verdict]]; `annie_group_chat_may31-june1_2026.csv`
 > is cited on [[wiki/mind/synthesis/bond-switch-2015]]. Those citations are phantom —
-> they resolve to a real path holding nothing. **The claims they support are not
-> thereby wrong**, because each of those pages cites other, non-empty sources
+> they resolve to a real path holding nothing. **The claims they support are not**
+> **thereby wrong**, because each of those pages cites other, non-empty sources
 > alongside; what is unknown is whether any claim rests on the empty file *alone*.
 > That audit is queued in `BACKLOG.md` and has not been done.
 
@@ -138,7 +138,7 @@ These dumps enable the stylometric analysis referenced in core sources (CATO_BOO
 
 ## Forensic Value
 - Enables attachment sequences, love-to-request counts (prior 145 mentioned), burst events (94 prior), contact Gini calculations. Dual Annie handles + Tom/Suz concentration support high-inequality social graph.
-- Date granularity supports period pages (e.g. 2017 poverty floor, Dec 2025 spike, 2021-2023 employment block, 2015-2016 genesis, 2025 collapse). 2025-2026 slices (imessage_ALL_both_*, last6months) map directly to collapse/spike.
+- *Date granularity supports period pages (e.g. 2017 poverty floor, Dec 2025 spike, 2021-2023 employment block, 2015-2016 genesis, 2025 collapse). 2025-2026 slices (imessage_ALL_both_*, last6months) map directly to collapse/spike.
 - Overlaps with location history, YouTube political consumption, Twitter output for full behavioral picture. FB Annie thread cross provides pre-2015 digital footprint + group interactions.
 - From LIFE_EVENTS_CALENDAR (1,104 events): Relationship 266, Financial 105, Health 108 heavily represented in message volume spikes.
 
@@ -151,9 +151,9 @@ Named contacts extracted from the master dump that have their own page but do no
 
 [[wiki/people/aaron]] · [[wiki/people/brian]] · [[wiki/people/bruce-burish]] · [[wiki/people/james]] · [[wiki/people/jess]] · [[wiki/people/josh-brannan]] · [[wiki/people/marla]] · [[wiki/people/michael-hinkle]] · [[wiki/people/ryan-lisac]] · [[wiki/people/shannon]] · [[wiki/people/trinity-st-clair]] · [[wiki/people/urpaaa-at-yahoo-com]] · [[wiki/people/zaco]]
 
-> **CORRECTED [2026-08-20]:** this paragraph read *"The 97 auto-generated hash
-> stubs (contacts ≥20 msgs, non-spam) are quarantined in
-> `[[wiki/people/contacts/]]`."* **That directory does not exist** and has not
+> **CORRECTED [2026-08-20]:** this paragraph read *"The 97 auto-generated hash*
+> *stubs (contacts ≥20 msgs, non-spam) are quarantined in*
+> *`[[wiki/people/contacts/]]`."* **That directory does not exist** and has not
 > since the quarantine was dissolved — `BACKLOG.md` already records
 > `contact-review.md` as "a worksheet for a quarantine that no longer exists."
 > The link had been rendering broken on the site ever since.

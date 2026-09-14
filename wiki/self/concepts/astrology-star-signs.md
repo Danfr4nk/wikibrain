@@ -25,8 +25,8 @@ connections:
 
 > **RE-CHECKED [2026-08-22]:** flagged stale against [[wiki/people/ally-lubin]]
 > (2026-08-22), which gained a tested MBTI result and a corrected infobox field.
-> Re-read against the change; **no claim on this page is affected and nothing
-> is withdrawn.** This page's dependency on that one is her **birth date**
+> Re-read against the change; **no claim on this page is affected and nothing**
+> **is withdrawn.** This page's dependency on that one is her **birth date**
 > (June 26, 1990 → Cancer), which the correction did not touch and which
 > remains corroborated twice in her own words. One note for a later pass: a
 > psychometric instrument now exists for one of the people in the table

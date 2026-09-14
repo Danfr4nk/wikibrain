@@ -54,8 +54,8 @@ instance, not just a theoretical description.
 > corpus searched for this page" and called it "the thinnest-supported
 > claim in this entire cluster." That was already false at the time of this
 > rewrite — it had been false since at least 2026-08-02.
-> [[wiki/mind/concepts/erotic-architecture]] documents the **October 20,
-> 2019 filmed MMF** with [[wiki/people/bryan-5088682461|Bryan]] as exactly
+> [[wiki/mind/concepts/erotic-architecture]] documents the **October 20,**
+> **2019 filmed MMF** with [[wiki/people/bryan-5088682461|Bryan]] as exactly
 > this mechanism's primary-source instance: a gay man's first sexual
 > contact with a woman and Dan's own sole bisexual act (oral only),
 > authored into a single scene. The operator confirmed the encounter

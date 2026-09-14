@@ -27,10 +27,10 @@ infobox:
 
 > **The ceiling matters more than the row counts [2026-08-16].**
 > `all_imessages_complete_dump.txt` — the one dump whose `direction` field is
-> trustworthy, and the default for `bin/mine-messages` — runs **2011-03-18 →
-> 2025-08-10**. Everything after that date is invisible to the wiki's designated
-> instrument, and the instrument reports the absence as **zero matches rather than
-> an error**, so a query about a post-August-2025 thread is indistinguishable from
+> trustworthy, and the default for `bin/mine-messages` — runs **2011-03-18 →**
+> **2025-08-10**. Everything after that date is invisible to the wiki's designated
+> instrument, and the instrument reports the absence as **zero matches rather than**
+> **an error**, so a query about a post-August-2025 thread is indistinguishable from
 > a query about someone who never existed. [[wiki/people/kristin]] is the worked
 > case: a 22,018-message relationship, none of it in the dump, with a page built
 > from the fallback file that nothing could contradict. Any claim in this wiki

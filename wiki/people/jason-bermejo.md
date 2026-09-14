@@ -1,4 +1,5 @@
 ---
+title: "Jason Bermejo"
 image_caption: Jason Bermejo
 image: assets/people/jason-bermejo/people-jason-bermejo-msw6nyoh.jpg
 domain: people
@@ -36,6 +37,7 @@ connections:
   - page: wiki/people/jamie-mohler
     type: evidences
     claim: "Jason's Oct 6, 2025 exchange ('Mohler = a literal woman' / 'Haha she badass') is the primary corpus corroboration of the transition, delivered as a casual, unremarkable update inside the Full Sail friend group."
+  - { target: "[[wiki/people/alexis-armel]]", type: references, claim: "The Orlando-era failed heroin-buy story names Dan's ex Alexis — the same Thanksgiving-break figure whose episode sits in the era's supply record." }
 knowledge: earned
 infobox:
   name: "Jason Bermejo"
@@ -76,7 +78,7 @@ Dan describes him as a gateway to "a different style of music that still resonat
 
 **Phase 2: Sustained contact (2017–2026)**
 - Renewed engagement in early 2026 after messaging gap
-- Sustained music conversation: song recommendations (JPEGMAFIA, $uicideboys, Bring Me The Horizon, Deftones, Thundercat, SiR, Molchat Doma, X-Ecutioners)
+- Sustained music conversation: song recommendations ([[wiki/interests/favorites/music/artists/jpegmafia|JPEGMAFIA]], $uicideboys, Bring Me The Horizon, Deftones, Thundercat, SiR, Molchat Doma, X-Ecutioners)
 - Producer talk: Serum synth, Bitwig DAW, wavetables, drum kit composition, sample flipping
 - Shared substance use context: weed, cocaine, ketamine mentioned in matter-of-fact ways
 - Romantic life updates (girlfriend references, relationship status shifts)
@@ -104,7 +106,7 @@ Dan describes him as a gateway to "a different style of music that still resonat
 - Vaping long-term, recently (Feb 2026) switched back to cigarettes after 10-year vape streak
 - Black and Milds mentioned — Dan finds it amusing, considers it characteristic
 
-**Cocaine**
+**[[wiki/health/cocaine|Cocaine]]**
 - Regular, normalized in conversation ("I'm still running her for like 2 grams of blow a day and she has no idea")
 - Light references to cocaine being the substrate of night-long conversations and music discovery sessions
 - Matter-of-fact tone; no judgment from Dan
@@ -131,8 +133,8 @@ Dan describes him as a gateway to "a different style of music that still resonat
 > mother still remembers — "Jester = forgettable / Dunn = gross and
 > forgettable / Mohler = a literal woman" — to which Jason answers
 > "Haha she badass." Mohler (now Jamie, per the operator; pre-2023
-> known as Jim) is a **fourth member of the same Full Sail friend
-> group**, not Jason's partner. See [[wiki/people/jamie-mohler]] for
+> known as Jim) is a **fourth member of the same Full Sail friend**
+> **group**, not Jason's partner. See [[wiki/people/jamie-mohler]] for
 > the full page.
 
 **Shared circle (2009–2015 Full Sail / Orlando era)**:
@@ -142,9 +144,9 @@ Dan describes him as a gateway to "a different style of music that still resonat
 - **Ross Lara** — "the world's first fuccboi," EDM kid at Full Sail, source of derision
 - **[[wiki/people/matt-dunn|Matt Dunn]]** — "world's most annoying man woman or child," Full Sail era
 - **Oscar** — Ran into Oscar years later in NYC (impossible coincidence in 9M person city); was waiting tables, Oscar showed up at Dan's table
-- **Alexis** — Dan's ex, met Thanksgiving break (3 days in hometown), moved in with Dan. Dan is genuinely proud of the "Alexis situation" (left her for another girl, got both to hook up). Described as hot but transactional/unreliable. Nearly killed with Jason when attempted heroin buy went bad.
+- **[[wiki/people/alexis-armel|Alexis]]** — Dan's ex, met Thanksgiving break (3 days in hometown), moved in with Dan. Dan is genuinely proud of the "Alexis situation" (left her for another girl, got both to hook up). Described as hot but transactional/unreliable. Nearly killed with Jason when attempted heroin buy went bad.
 - **Donato "Steez McQueen"** — Died 2022 (fentanyl-laced xanax, implied); wore Steve McQueen Alexander McQueen jackets; made beats like J Dilla and Nujabes
-- **Gabe** — A cat, not a person: died 2023-10-30 ("I had to put gabe down today"), confirmed by [[wiki/people/eric-jester|Eric Jester]]'s independent same-date message ("I'm so sorry man. He was the cat that made me love cats!")
+- **[[wiki/people/gabe|Gabe]]** — A cat, not a person: died 2023-10-30 ("I had to put gabe down today"), confirmed by [[wiki/people/eric-jester|Eric Jester]]'s independent same-date message ("I'm so sorry man. He was the cat that made me love cats!")
 - **[[wiki/people/jamie-mohler|Jamie Mohler]]** — fellow Full Sail
   friend, not a girlfriend (see REVISED note above); part of the same
   named cohort as Dunn and Jester in Dan's own 2025 messages

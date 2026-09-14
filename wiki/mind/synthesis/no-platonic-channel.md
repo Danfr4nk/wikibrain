@@ -47,6 +47,8 @@ connections:
   - page: wiki/people/jamie-mohler
     type: instance-of
     claim: "The corpus's one lastingly platonic close female friendship is an edge case rather than a counter-instance: every documented year of the relationship's active NYC-1 closeness (2010-2011) predates Jamie's 2023 transition, so the friendship was formed and sustained between two men, and this page's rule was never actually tested against her as a woman."
+  - { target: "[[wiki/mind/synthesis/attachment-trauma-bond]]", type: extends, claim: "The Ally channel this page reads as the conversion-default's cleanest case is the attachment-bond page's pathological control — symmetric self-indictment on both sides in 2019 — so the two pages read the same 18-year record at mechanism level rather than disputing it." }
+  - { target: "[[wiki/mind/synthesis/block-unblock-loop]]", type: references, claim: "The 129-episode severance-declaration analysis is this page's Dan-Annie counterpoint: inside chosen bonds the declarations perform and the re-engagement is the fact — the overture default documented here and the non-exit default documented there are two faces of one non-deleting architecture." }
 ---
 
 # No Platonic Channel
@@ -56,8 +58,7 @@ woman — someone he messages for years, discloses real material to, and
 trusts with something other people do not get — the tie carries a
 documented romantic or sexual overture inside its own history, and in the
 best-evidenced case Dan engineered the friendship specifically in order to
-make that overture: he paid a mutual friend $25 to introduce him to Ally
-Lubin in December 2018 and, within a year, had turned the resulting
+make that overture: he paid a mutual friend $25 to introduce him to [[wiki/people/ally-lubin|Ally Lubin]] in December 2018 and, within a year, had turned the resulting
 friendship into roughly two thousand dollars sent against photographs
 ([[wiki/people/ally-lubin]]). Genuine platonic closeness with a woman does
 not appear anywhere in the record as a stable, multi-year end state. It
@@ -81,10 +82,10 @@ friendship between two men.
 
 | Person | Trusted-circle evidence | Documented overture | Outcome |
 | :--- | :--- | :--- | :--- |
-| [[wiki/people/ally-lubin\|Ally Lubin]] | 18 years of contact, $2,000+ sent, a bespoke lexicon built around her, the wiki itself shown to her first | Paid $25 to engineer the introduction; the 2019 photograph payments; the 2026 elopement pitch and love letter | Sustained, unresolved; her stated entry condition is parity, not pursuit |
-| [[wiki/people/jenn-lynn\|Jenn Lynn]] | 3-year reciprocal drug-sourcing friendship | Three separate paid/swap solicitations (2019 ×2, 2020) | Friendship outlasts all three; none confirmed as completed |
-| [[wiki/people/lauryn-ashly\|Lauryn Ashly]] | Multi-year Uniontown friendship, real-time grief shared | One 2020 solicitation ("sexually adventurous friends") | **Declined**, warmly, no strain — the friendship holds on her refusal |
-| [[wiki/people/jamie-mohler\|Jamie Mohler]] | NYC-1 household closeness, 2010–2011; a 422-message decade-spanning thread | None documented | Platonic — but the active friendship years predate her 2023 transition |
+| [[wiki/people/ally-lubin|Ally Lubin]] | 18 years of contact, $2,000+ sent, a bespoke lexicon built around her, the wiki itself shown to her first | Paid $25 to engineer the introduction; the 2019 photograph payments; the 2026 elopement pitch and love letter | Sustained, unresolved; her stated entry condition is parity, not pursuit |
+| [[wiki/people/jenn-lynn|Jenn Lynn]] | 3-year reciprocal drug-sourcing friendship | Three separate paid/swap solicitations (2019 ×2, 2020) | Friendship outlasts all three; none confirmed as completed |
+| [[wiki/people/lauryn-ashly|Lauryn Ashly]] | Multi-year Uniontown friendship, real-time grief shared | One 2020 solicitation ("sexually adventurous friends") | **Declined**, warmly, no strain — the friendship holds on her refusal |
+| [[wiki/people/jamie-mohler|Jamie Mohler]] | NYC-1 household closeness, 2010–2011; a 422-message decade-spanning thread | None documented | Platonic — but the active friendship years predate her 2023 transition |
 
 ## The engineered case
 
@@ -160,7 +161,7 @@ system has for closeness at all.
 
 The corpus's own vocabulary is quietly corroborating here.
 [[wiki/mind/synthesis/vertical-authority-skepticism]] names exactly one
-enduring lateral peer bond in the entire wiki — Tom, called *"primary male
+enduring lateral peer bond in the entire wiki — [[wiki/people/tom|Tom]], called *"primary male
 ally"* in that page's own words — and no comparable female lateral tie is
 named anywhere in the psychological layer. That is not proof by itself;
 it is an absence, and absences are weaker evidence than instances. But it
@@ -193,7 +194,7 @@ else on this page, with a different final row in the outcome column.
 its face, like a woman inside Dan's trusted circle with no romantic or
 sexual overture anywhere in the record — a genuine NYC-1 household
 closeness in 2010–2011, sustained correspondence into a 422-message thread
-spanning 2010–2021, private disclosures (Fran's deathbed footage, sent to
+spanning 2010–2021, private disclosures ([[wiki/people/fran-coldren|Fran]]'s deathbed footage, sent to
 her before anyone else knew). But every one of those documented years of
 active closeness happened while the friendship was, on all available
 evidence, a friendship between two men: Jamie transitioned around 2023,
@@ -231,7 +232,7 @@ confirming or disconfirming instance either way.
    record will show either (a) the closeness never actually crossed the
    trusted-circle threshold this page uses, or (b) an overture was made and
    declined, per the Lauryn Ashly shape — not an absence of any attempt.
-3. If Dan and Jamie Mohler are ever shown back in contact post-2023, this
+3. If Dan and [[wiki/people/jamie-mohler|Jamie Mohler]] are ever shown back in contact post-2023, this
    page's rule makes a direct, checkable prediction about what that contact
    will contain.
 

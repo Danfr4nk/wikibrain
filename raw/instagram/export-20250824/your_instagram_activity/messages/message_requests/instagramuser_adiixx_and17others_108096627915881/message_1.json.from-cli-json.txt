@@ -1,0 +1,94 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 2098 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "joinable_mode": {
+    "link": "",
+    "mode": 1
+  },
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "https://www.telegra.ph/1417rd0t-10-13",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "share": {
+        "link": "https://www.telegra.ph/1417rd0t-10-13"
+      },
+      "timestamp_ms": 1610663542551
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "áááºá áááá¸"
+    },
+    {
+      "name": "_adiixx_"
+    },
+    {
+      "name": "à¸à¸£à¸µà¸¡à¹à¸à¸à¸¥à¹à¸­à¸à¸·à¹à¸­à¹à¸¡à¹"
+    },
+    {
+      "name": "kuntalkintil16"
+    },
+    {
+      "name": "Emma Wade"
+    },
+    {
+      "name": "rugu.marian9"
+    },
+    {
+      "name": "Dan Frank"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Tomas Burns"
+    },
+    {
+      "name": "Jordanð§¿"
+    },
+    {
+      "name": "Coming Zoon"
+    },
+    {
+      "name": "Crush"
+    },
+    {
+      "name": "Andy"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Bill Downs"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "TYLER MORIO"
+    },
+    {
+      "name": "Cup Bra"
+    },
+    {
+      "name": "Phanuk Uso"
+    },
+    {
+      "name": "Instagram User"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:25:51.669-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:25:51.669Z"
+  },
+  "thread_path": "message_requests/instagramuser_adiixx_and17others_108096627915881",
+  "title": "Instagram User, áááºá áááá¸, _adiixx_ and 17 others"
+}

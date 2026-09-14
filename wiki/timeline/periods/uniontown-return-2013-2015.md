@@ -101,17 +101,17 @@ period ("I really didn't have the romantic feelings for franki that i
 said i did at the time," then a return to Alexis) had already rehearsed
 the same slot mechanics.
 
-> **CORRECTED 2026-08-15 — this section used to date an Alexis infidelity to
-> November 28, 2015 and read it as the trigger.** The message behind it (*"Lex
-> cheated on me 2 weeks in after I moved her to fla"*) is Dan telling Annie how
+> **CORRECTED 2026-08-15 — this section used to date an Alexis infidelity to**
+> **November 28, 2015 and read it as the trigger.** The message behind it (*"Lex*
+> *cheated on me 2 weeks in after I moved her to fla"*) is Dan telling Annie how
 > the Alexis relationship **began, in 2009**, at Full Sail — the line before it
 > is *"the exact opposite way I started my last relationship."* Per the operator
 > the episode was online-only and has no connection to 2015. Alexis lived in
 > Florida exactly once — 2009 to April 2010, the Full Sail stretch — and was
 > living in the Uniontown house all through the week in question. Full evidence
 > and the consequences for the switch thesis:
-> [[wiki/mind/synthesis/bond-switch-2015]]. **The period-level fact is
-> unchanged** — the era still ends at this exact seam — but it ends without a
+> [[wiki/mind/synthesis/bond-switch-2015]]. **The period-level fact is**
+> **unchanged** — the era still ends at this exact seam — but it ends without a
 > cause on Alexis's side.
 
 ## Transition

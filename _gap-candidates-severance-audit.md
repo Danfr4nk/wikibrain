@@ -1,0 +1,4 @@
+wiki/mind/synthesis/her-side-severance-recount.md — The audit re-ran his 129 declarations but not her 0-in-41,073; the attachment model's load-bearing asymmetry is still one-sided instrumentally.
+wiki/mind/synthesis/june-july-2026-coverage-gap.md — No filed export covers 2026-06-05 → 2026-08-11, so the 52-day endpoint (and the 27.1x ratio's numerator) rests on testimony; filing that window would fix both ends as primary.
+wiki/mind/synthesis/recount-merge-recipe.md — The 2026-08-23 recount's 95,067-row merged corpus (dedup logic, chat attribution for blank-handle rows) is not on disk; re-filing the recipe would make the 129 exactly reproducible instead of approximately convergent.
+wiki/mind/synthesis/dossier-source-recovery.md — MasterRecord_March16 and CompleteAnalysis (the 127's sources) are absent from raw/; locating them would close the reconciliation's last open end — the dossier's actual collapse rule.

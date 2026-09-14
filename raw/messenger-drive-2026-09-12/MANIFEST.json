@@ -1,0 +1,105 @@
+{
+  "batch": "messenger-drive-2026-09-12",
+  "created": "2026-09-12",
+  "drive_sources": [
+    {
+      "drive_id": "1TNc8NARvk2KPHzel4fYvG5cO-9tbnl_m",
+      "drive_modified": "2026-09-08",
+      "content": "Facebook Messenger DYI export, generated 2022-09-05 (403 Google-Doc thread conversions)",
+      "platform": "facebook_messenger",
+      "records": 15741,
+      "range": "2007-01-16T11:49:07Z to 2022-09-04T22:58:20Z",
+      "threads": 282,
+      "src_tag": "gdrive-fb-20220905"
+    },
+    {
+      "drive_id": "16IGTBPDMbh9z64owrg-9KcLTiK_IZZng",
+      "drive_modified": "2026-09-08",
+      "content": "duplicate of 1TNc8NARvk2KPHzel4fYvG5cO-9tbnl_m (same 403 thread names); not separately parsed",
+      "platform": "facebook_messenger",
+      "records": 0,
+      "note": "deduped as duplicate generation"
+    },
+    {
+      "drive_id": "1CPKkyaaq_97-1VzUECtq3pJrzcKpKUy-",
+      "drive_modified": "2026-06-25",
+      "content": "duplicate of 1TNc8NARvk2KPHzel4fYvG5cO-9tbnl_m (same 403 thread names); not separately parsed",
+      "platform": "facebook_messenger",
+      "records": 0,
+      "note": "deduped as duplicate generation"
+    },
+    {
+      "drive_id": "1p8bUaaeEEHZ6EmPgGOhZpJi2mtJy5b3b",
+      "drive_modified": "2026-06-25",
+      "content": "duplicate of 1TNc8NARvk2KPHzel4fYvG5cO-9tbnl_m (same 403 thread names); not separately parsed",
+      "platform": "facebook_messenger",
+      "records": 0,
+      "note": "deduped as duplicate generation"
+    },
+    {
+      "drive_id": "1P4vJAyajvJPs-sEGO6x2e4UUI5Ex9OD2",
+      "drive_modified": "2022-09-05",
+      "content": "duplicate of 1TNc8NARvk2KPHzel4fYvG5cO-9tbnl_m (same 403 thread names); not separately parsed",
+      "platform": "facebook_messenger",
+      "records": 0,
+      "note": "deduped as duplicate generation"
+    },
+    {
+      "drive_id": "1NcOaRFOW3teWjUgYidhrwkjCuvDP8Oye",
+      "drive_modified": "2025-08-24",
+      "content": "Instagram DMs DYI export, native message_1.json (107 inbox + 67 message requests)",
+      "platform": "instagram_dm",
+      "records": 11678,
+      "range": "2016-05-30T15:57:48Z to 2025-08-09T12:48:14Z",
+      "threads": 127,
+      "src_tag": "gdrive-fb-20250824"
+    },
+    {
+      "drive_path": "Direct Messages (modified 2022-11-27)",
+      "content": "TikTok DM text archive, 6 threads",
+      "platform": "tiktok_dm",
+      "records": 143,
+      "range": "2021-08-19 to 2022-11-24",
+      "threads": 6,
+      "src_tag": "gdrive-tiktok-dm-20221127"
+    }
+  ],
+  "non_drive_sources": [
+    {
+      "source": "hatch_messenger_cli pull 2026-09-12",
+      "platform": "facebook_messenger",
+      "records": 11,
+      "range": "2026-08-14 to 2026-08-26",
+      "threads": 2,
+      "src_tag": "companion-cli-2026-09-12",
+      "note": "Ryan Lisac (6, INBOX) + Kristin Shaelene (5, PENDING). No timestamp overlap with Drive data; appended as extension."
+    }
+  ],
+  "totals": {
+    "unique_records": 27573,
+    "unique_threads": 331,
+    "range": "2007-01-16T11:49:07Z to 2026-08-26T22:23:43Z"
+  },
+  "dedupe_rules": [
+    "Duplicate Drive generations of the same Facebook export (4 folder IDs with identical 403 thread names) parsed once.",
+    "Within/between FB and IG exports: records deduped on (canonical participant-set key, timestamp-to-second, normalized sender, text). 13 cross-export dupes removed.",
+    "Canonical thread key = frozenset of normalized participant names, so the same conversation matches across FB and IG exports despite different folder naming schemes.",
+    "Facebook system thread (messenger_wztjyja3ka, 2 promo records, 2019-01-15) retained, flagged non-personal."
+  ],
+  "exclusions": [
+    "Confrontation Over Phone Messages (~17.6MB): Gemini/AI-Studio prompt artifact (video transcription analysis), not a message archive.",
+    "messages_export / messages / MASTER_MESSAGES_DB_DUMP / interspersed_messages spreadsheets: phone/iMessage datasets, not Messenger/IG/TikTok.",
+    "12 of 403 Facebook Google Docs parsed to zero messages (attachment/call-only threads)."
+  ],
+  "coverage_gaps": [
+    "Facebook Messenger 2022-09-05 to 2026-08-13: no export covers this window; Dan's 2026-09-12 screen recording shows ~38 active threads Oct 2022-present (Danielle Onesi Mar 2025, Ally Lubin request Mar 2024, Josh Brannan Jul 2024, Suzanne Frank Aug 2026, TOM Jul 2026, etc.).",
+    "Instagram DMs 2025-08-10 to present: not covered.",
+    "E2EE-default threads (post-late-2023) are invisible to the companion CLI sync path; a fresh Facebook DYI export with messages checked is still the authoritative route for the gap."
+  ],
+  "earliest_record_per_source": {
+    "gdrive-fb-20220905": "2007-01-16T11:49:07Z (Anna Cameron)",
+    "gdrive-fb-20250824": "2016-05-30T15:57:48Z",
+    "gdrive-tiktok-dm-20221127": "2021-08-19",
+    "companion-cli-2026-09-12": "2026-08-14T02:50:52Z"
+  }
+}

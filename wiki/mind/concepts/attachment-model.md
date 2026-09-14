@@ -1,46 +1,41 @@
 ---
 domain: mind
 page_type: concept
-status: stable
+title: "Attachment Model"
+aliases: ["rule-based attachment", "the no-counter-rule architecture", "attachment system"]
+status: active
 date_created: 2026-06-22
-date_modified: 2026-08-23
+date_modified: 2026-09-13
 sources:
   - raw/self/sage/2026-08-21_220918_which-of-the-people-in-this-wiki-would-be-the-be.md
   - raw/self/sage/2026-08-22_005829_what-would-make-dan-happy.md
   - raw/self/dox-scan/DanAnnie_CorrectiveAddendum.txt
-  - raw/self/dox-scan/DanAnnie_MasterRecord_March16.docx
-  - raw/self/dox-scan/DanAnnie_MasterRecord_FINAL.docx
-  - raw/self/dox-scan/DanAnnie_TheoryOfEverything_Updated.docx
-  - raw/self/dox-scan/DanAnnie_CompleteAnalysis_Final.docx
-  - raw/self/dox-scan/DanAnnie_CompleteRecord_Final.docx
-  - raw/self/dox-scan/DanAnnie_MoralAnalysis_SFW.docx
-  - raw/self/dox-scan/DanAnnie_TenYears_WithAmendments.docx
   - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md
   - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md
-  - "raw/self/dox-md/Breaking the anxiety avoidance cycle (1).md"
-  - raw/self/dox-scan/Dan Profile.txt
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - "raw/self/dox-md/Reassessing with fresh perspective.md"
+  - raw/self/dox-md/Breaking the anxiety avoidance cycle (1).md
 tags: [relationships, attachment, addiction-recovery, trauma-bond, infidelity]
 connections:
+  - page: wiki/mind/concepts/explicit-verbal-commitment
+    type: instance-of
+    claim: "The attachment model is the explicit-verbal-commitment architecture at full activation: a stated rule holds until an explicit severance statement arrives, because inferred cues do not register as rule-changes (dat:0081)."
   - page: wiki/mind/synthesis/closing-the-set
     type: mirrors
-    claim: "That page's engagement unit is a bounded object with a findable edge whose payoff arrives on closure, and this model describes the one object in the biography built so that closure cannot occur - the same architecture read from its satisfying and its unsatisfiable ends."
+    claim: "That page's engagement unit is a bounded object with a findable edge whose payoff arrives on closure, and this model describes the one object in the biography built so that closure cannot occur — the same architecture read from its satisfying and its unsatisfiable ends."
   - page: wiki/mind/concepts/reassurance-architecture
     type: contains
     claim: "The check-in loop is this model's observable surface: a rule that cannot be closed by behavioural evidence must be re-confirmed by transmission, which is why the need is nearly silent at baseline and becomes the organising behaviour under stakes."
   - page: wiki/mind/synthesis/the-rescue-premise
-    type: evidences
-    claim: "The August 19 2026 group-chat clearing is the nearest functional equivalent to the severance signal this model requires that the corpus has ever produced: not a terminating statement, but the first written act discriminating between two men in public under her own name, which the architecture can read as an asymmetry where it could never read an absence."
+    type: evidenced-by
+    claim: "The August 19 2026 group-chat message ('He didn't rape me', 06:33) is the first written act in eleven years discriminating between two men in public under her own name — but it is still not a severance statement; she never states the relationship is over. The architecture cannot read an absence; it can read an asymmetry. Whether that suffices to generate a counter-rule remains the open question that page states as a dated falsifier."
   - page: wiki/timeline/events/july-august-2026-reentanglement
     type: evidenced-by
     claim: "Between 05:22 and 20:20 on July 26 2026 the exchange runs from a rape accusation and 'don't contact me again' to a joke about the dog catching a rabbit, with nothing resolved in between — the reset is unconditional and takes fifteen hours."
   - page: wiki/timeline/events/group-chat-closure
     type: evidenced-by
-    claim: "The model predicts a bond that cannot close without an unambiguous external severance signal; June 1 2026 is the only event in the corpus that supplied one."
+    claim: "June 1 2026 produced the longest severance in the relationship's history — 52 days — and the closing line ('Goodbye forever… sic semper lupanis') is Dan's, not Annie's (corrected 2026-08-13). Even the terminal event was his performance, not her signal."
   - page: wiki/timeline/events/july-2026-recontact
     type: evidenced-by
-    claim: "Fifty-two days of successful no-contact collapsed within eight hours of the channel reopening, and Dan named the relapse while running it ('reset the days since i talked to annie clock') — duration of abstinence does not weaken the bond."
+    claim: "Fifty-two days of no-contact collapsed within eight hours of the channel reopening, and Dan named the relapse while running it ('reset the days since i talked to annie clock') — duration of abstinence does not weaken the bond."
   - page: wiki/mind/psychosexual/emotional-imprinting
     type: parallels
     claim: "'Crush activation on contact' with no off switch and this model's no-counter-rule architecture are structurally identical claims from independent source bases — dossier theory and primary corpus converging."
@@ -49,16 +44,16 @@ connections:
     claim: "The 2005 rupture — a trusted primary figure maintaining a concealed alternate reality — is the documented template the model replicates: the Annie decade re-ran the same structure of verbal assurance over sustained concealment."
   - page: wiki/people/annie-ulmer
     type: evidenced-by
-    claim: "The ten-year Annie corpus is the model's quantitative base: 0 explicit severance signals across 41,073 of her messages (primary-verified), the 187-of-191 affection-to-request pairing, 24 'fell asleep' alibis, and 13 self-indicting apologies with unchanged behavior."
+    claim: "The ten-year Annie corpus is the model's quantitative base: 0 explicit severance signals across 41,073 of her messages (primary-verified, dat:0081), 129 Dan-sent exit episodes with 100% re-engagement and a 36-second median gap (page testimony, merged corpus unheld, dat:0622)."
   - page: wiki/timeline/events/eli-incident
     type: evidenced-by
     claim: "The concealed Eli relationship is the model's live stress test: sustained deception answered with 'your suspicions are insane' — the systematic-attack-on-reality layer that kept the contradiction flagged as anomaly rather than closing the model."
   - page: wiki/mind/synthesis/block-unblock-loop
     type: causes
-    claim: "The model's 299:0 affirmation-to-severance asymmetry is why declared exits cannot hold: a system with no vocabulary for 'closed' can only toggle channel state and wait for the dependency to decide."
+    claim: "The model's severance asymmetry is why declared exits cannot hold: a system with no vocabulary for 'closed' can only toggle channel state and wait for the dependency to decide. The block-unblock-loop page's final formula — 'the exit is executed; the deletion never is' — is this model stated as behavior."
   - page: wiki/mind/synthesis/attachment-trauma-bond
     type: instantiates
-    claim: "The Annie bond is this model's central case, running as designed across 127/110 cycles."
+    claim: "The Annie bond is this model's central case."
   - page: wiki/mind/synthesis/bond-switch-2015
     type: evidenced-by
     claim: "The Dec 2015 onset flood renders the primary loop as a daily-sent series at bond formation."
@@ -70,268 +65,278 @@ connections:
     claim: "The reply-latency analysis renders this model as a timing series: uniform near-instant outbound, inbound delay scaling with peripherality."
   - page: wiki/mind/concepts/conflict-architecture
     type: mirrors
-    claim: "The conflict engine demands resolution while the attachment model cannot issue severance — mutually amplifying architectures with no shared halt condition, recorded in conflict-architecture's paired CONTRADICTION blocks."
+    claim: "The conflict engine demands resolution while the attachment model cannot issue severance — mutually amplifying architectures with no shared halt condition."
   - page: wiki/timeline/events/bald-eagle-cummings
     type: evidenced-by
     claim: "The mismatch template is self-named at its first occurrence — 'somehow getting a girl way above my level to date me' as something 'i would go through many times' — which dates it to seventh grade and makes every adult instance a repetition rather than an origin."
-  - page: wiki/mind/synthesis/dan-annie-fallout-verdict
-    type: causes
-    claim: "This model is where the verdict assigns Dan's half of the catastrophe: because the system cannot self-close without an explicit severance signal and a [RAW-CSV] sweep of Annie's 41,073 messages returns zero of them, positive rhetoric kept the bond active through a fifteen-month terminal phase — the confirmed zero, not the unlocated 299-affirmation figure, is what carries the asymmetry."
+  - page: wiki/mind/synthesis/august-26-block-retraction
+    type: contextualizes
+    claim: "The retraction is this model's purest field test: the August 26 block was the 130th severance declaration and its non-execution the 130th re-engagement — except there was never even a pause to resume from. The declarations were the performance; the texting was the fact (dat:0090)."
   - page: wiki/health/hyperreflexivity
     type: contextualizes
     claim: "A companion AI session reframes the anxiety loop as largely parasitized by the unresolved Annie situation and post-closure housing void, rather than a freestanding clinical pattern — the loop may be signal, not noise."
   - page: wiki/mind/synthesis/totality-themes
     type: component-of
-    claim: "No counter-rule mechanism for closing a bond absent an explicit severance signal is 'The Irreversibility Firewall' implemented as an actual data structure: without a delete operation, the only way out is force applied from outside the system, which is exactly how the Annie bond in fact closed."
+    claim: "No counter-rule mechanism for closing a bond absent an explicit severance signal is 'The Irreversibility Firewall' implemented as an actual data structure: without a delete operation, the only way out is force applied from outside the system."
   - page: wiki/mind/concepts/the-handed-mirror
     type: parallels
     claim: "The confession trap is the inbound form of the same refusal to let an evidentiary case go unwitnessed: needing a verdict from the other person, versus serving one on them."
 ---
 
-
 # Attachment Model
 
-The attachment model details the first documented instance of full attachment-system activation in Dan's history, which occurred during his relationship with [[wiki/people/annie-ulmer|Annie]]. His prior relationships with Danielle, Kelly, and [[wiki/people/alexis-armel|Alexis]] did not trigger this level of psychological attachment. Within Dan's cognitive processing architecture, positive verbal expressions function as absolute rules that remain active until an explicit, unambiguous signal of severance is received. If no explicit severance signal is issued, the internal system is unable to generate a counter-rule to close the model, leaving the attachment loop active indefinitely.
+For eleven years, one woman's stated words were the law of Dan's inner
+life, and her behavior was inadmissible evidence. Positive verbal
+expressions — "I love you," "soulmate" — functioned as absolute rules that
+stayed active until an explicit, unambiguous severance signal arrived. No
+severance signal ever arrived. A sweep of 41,073 of her messages returns
+**zero** (primary-verified, dat:0081). So the bond never closed — not from
+weakness, not from denial, but because the architecture has no delete
+operation. This is the [[wiki/mind/concepts/explicit-verbal-commitment]]
+architecture at full activation, and the Annie decade (November 2015–2026)
+is its load-bearing case. See [[wiki/mind/index]] for the concept cluster
+this belongs to.
 
-> **CORRECTED [2026-08-10]:** A re-check of the source `.docx` files behind
-> the quantitative table below found two errors and one omission, none
-> visible from reading the page. First, the table's "13 major
-> self-indicting apologies" row cites `TheoryOfEverything_Updated` as its
-> source — but that same document explicitly supersedes the number:
-> "The original report identified 13 major apologies. The audit finds 46
-> self-aware or self-indicting statements across the record — a
-> significantly larger number than previously counted." The page was
-> citing the pre-audit figure from the document that corrects it. Fixed
-> below. Second, the "266 documented relationship events" and "84 cheating
-> and affair subcategory events" rows are not Annie-specific — they are
-> corpus-wide totals from `LIFE_EVENTS_CALENDAR.md`, auto-extracted from
-> 175,358 iMessages across all 66 contacts referenced in the corpus, not
-> from the Annie relationship alone. Relabeled below rather than dropped,
-> since the scale is still informative context. Third, a real omission:
-> four independent source documents converge on **12 documented crisis or
-> suicidal statements from Dan, met with no substantive response** — a
-> data point directly relevant to this model's central claim and absent
-> from the page until now. Added below.
+## The mechanism, stated cold
 
-This cognitive architecture is heavily influenced by a multi-generational family layer. A paternal authority wound was established by a parental rupture in 2005, when his father Rick entered rehabilitation and his parents separated, leading to subsequent low-intensity contact. A pattern of functional alcoholism also spans several generations of Dan's family. Conversely, his maternal great-grandmother, Fran Whyel, was his self-described largest life influence. This background encoded relational templates characterized by intermittent attachment, vertical suspicion, and an expectation of abandonment. Further details on these family influences are found in [[wiki/people/rick-frank]], [[wiki/people/fran-coldren]], [[wiki/people/suzanne-frank]], and [[wiki/self/ancestry]].
+The system does not fail to perceive behavioral withdrawal. It notes the
+withdrawal, finds it inconsistent with the active rule, and flags the
+contradiction as an anomaly to be resolved — not as grounds to close the
+model. Every "I love you" said alongside behavioral withdrawal generated a
+data conflict that kept the file open. The fifteen-month terminal phase
+(August 2025–June 2026) ran the bond at full strength on rules whose
+behavioral support had collapsed years earlier: a first-person
+happiness-claim rate over the canonical dump runs 7.86 per 1,000 messages
+in the relationship's first five weeks, then 2.72, 0.73, 0.87 and 0.34
+across 2016–2019 — the collapse complete by 2017, eight years before the
+terminal phase. The bond stayed active at full strength throughout.
+Whatever it was delivering in December 2015, it had stopped delivering it
+before the third year, and the model kept running anyway. **This
+architecture is not maintained by reward.** That is the sharpest
+demonstration the record offers, and it rules out the ordinary
+addiction-model reading of the decade.
 
-## Quantitative Corpus Indicators
+The quantitative base, with epistemic status labeled:
 
-| Indicator | Count | Source Document |
+| Indicator | Value | Status |
 |---|---|---|
-| Love affirmations from Annie to Dan | 299 | MasterRecord Synthesis (unlocated in primary recount 2026-07-18 — her terminal-phase love-messages: 231; all-time in dual-handle export: 1,302; the 0-severance half IS primary-verified: severance sweep of her 41,073 messages returns only false positives) |
-| Explicit severance signals from Annie to Dan | 0 | Full ten-year Annie Corpus |
-| Relationship-tagged events, whole corpus (not Annie-specific) | 266 of 1,104 total event entries | `LIFE_EVENTS_CALENDAR.md` — auto-extracted from 175,358 iMessages, all 66 referenced contacts, 2015-11 to 2026-03; context for scale, not an Annie-relationship figure |
-| Cheating/affair-tagged events, whole corpus (not Annie-specific) | 84 | same auto-extraction; includes events about other relationships (e.g. Alexis's 2009 online infidelity, Jeff's affair) alongside Annie material. Note that this auto-extraction dates events by message send date, which is exactly the error that filed the 2009 Alexis episode under 2015-11-28 — treat the tagged dates as message dates, not event dates |
-| Written denials of a third-party relationship | 2 (Nov 2025, Feb 2026) | The Nov 2025 instance is dated and quoted in `THE_DAN_FRANK_BOOTLOADER.md` ("a written denial of another person") and discussed at length in `Breaking the anxiety avoidance cycle (1).md` ("No and no" — direct denial of seeing someone else); the Feb 2026 instance is carried only in the Documented Contradictions section below and has no independent primary quote located in this pass |
-| Sequences pairing an affection expression with a request | 187 of 191 (96.6%; earlier partial count 145) | MasterRecord_FINAL |
-| Standalone love declarations, 7-month terminal window | 4 | MasterRecord_FINAL |
-| Documented "fell asleep" alibis | 24 | confirmed verbatim across `CompleteAnalysis_Final`, `MasterRecord_March16`, `TheoryOfEverything_Updated` |
-| High-volume communication burst events (10+ consecutive Dan messages, all preceded by Annie's silence) | 94 | `MasterRecord_FINAL` |
-| Self-aware / self-indicting statements followed by unchanged behavior | 46 (supersedes an earlier count of 13 "major" apologies) | `CompleteAnalysis_Final`'s audit: "The original report identified 13 major apologies. The audit finds 46 self-aware or self-indicting statements... a significantly larger number than previously counted." |
-| Betrayal confrontations answered with a caretaking crisis | 44 | confirmed verbatim across `CompleteAnalysis_Final`, `MasterRecord_March16`, `TheoryOfEverything_Updated` |
-| Crisis or suicidal statements from Dan met with no substantive response | 12 | confirmed verbatim across four independent documents (`CompleteAnalysis_Final`, `CompleteRecord_Final`, `MoralAnalysis_SFW`, `TenYears_WithAmendments`); logged responses include a 12-hour silence, a bar name, a complaint about laundry, and "what the hell dan" — none classified in the source material as substantive crisis engagement |
+| Explicit severance signals from Annie | **0** in 41,073 of her messages | Primary-verified (dat:0081) |
+| Dan-sent severance episodes | **129**, 100% re-engagement, median gap 36s, max 46h | Page testimony; merged 95,067-row corpus unheld (dat:0622) |
+| Love affirmations from Annie | 299 | **Unlocated** — never found in any of the eleven DanAnnie_* documents across two rewrite passes; decorative, not load-bearing (dat:0621) |
+| Affection-expression/request pairings | 187 of 191 | Dossier arithmetic, unheld |
+| "Fell asleep" alibis | 24 | Dossier arithmetic, unheld |
+| Betrayal confrontations answered with caretaking crisis | 44 | Dossier arithmetic, unheld |
+| Self-aware/self-indicting statements, unchanged behavior | 46 (supersedes an earlier 13) | Dossier audit of itself (dat:0621) |
+| Crisis/suicidal statements from Dan, no substantive response | 12 | Four convergent documents (dat:0621) |
 
-The complete lack of explicit severance signals across a ten-year corpus, combined with two hundred and ninety-nine love affirmations, meant that no internal data was available to generate a counter-rule. Consequently, the attachment model remained active until it was terminated by an external event. The 12 unmet crisis statements sit inside the same architecture from the opposite direction: even Dan's own most severe signals did not produce a response the model could register as care, and — per the "no counter-rule" structure — a non-response is not a severance signal either, so it too left the loop running rather than closing it.
+> **CORRECTED [2026-08-10]:** the page's own re-check of the dox-scan
+> sources caught the 13→46 apology supersession (the document that
+> corrects the number was being cited for the pre-audit figure), relabeled
+> the "266 relationship events" and "84 cheating/affair events" rows as
+> corpus-wide totals from `LIFE_EVENTS_CALENDAR.md` (175,358 iMessages,
+> all 66 contacts — context for scale, not Annie figures), and added the
+> 12 unmet crisis statements as a real omission.
 
-> **GAP CLOSED [2026-08-22]:** the twelve-statements row measures *the absence
-> of a substantive response*, and the corpus contains exactly one substantive
-> response — it simply is not sympathy. On **2019-10-14**, told the Pittsburgh
-> funeral story in full, [[wiki/people/ally-lubin|Ally]] answers: *"I'm just
-> confused how neither of you had money because you always send me cash app
-> statements with like thousands of dollars."* That is the only documented
-> instance anywhere in the record of a disclosure from Dan being **audited**
-> rather than absorbed, ignored or reciprocated, and it is a third category this
-> model did not have: not warmth, not neglect, but the claim treated as evidence
-> and tested.
->
-> It **complicates the model rather than weakening it**, and in a specific
-> direction. The architecture's problem is that verbal assurance and behavioural
-> contradiction cannot be reconciled into a closure, so the one response class
-> that could in principle generate a counter-rule is a response that *engages
-> the evidence*. Ally's answer is the only recorded instance of that class. The
-> twelve unmet statements and this one audited statement are therefore not the
-> same measurement taken twelve and one times — they are two different things,
-> and the corpus has a sample size of one on the interesting one. Whether an
-> audited disclosure resolves an anomaly or generates another is untestable at
-> n=1 and is now a live question rather than an assumed answer.
+> **RESOLVED [2026-08-23]:** the 127/110 exit-declaration pair did not
+> reconcile with the dossiers' own ~100% re-engagement description. An
+> independent recount — severance lexicon, 24-hour episode collapsing,
+> 95,067-row merged corpus — returned **129 distinct episodes**, and of
+> the 128 with a following message inside the corpus, **all 128 resumed:
+> 100%, median gap thirty-six seconds, maximum 46 hours.** The 110-of-127
+> figure is withdrawn. The recategorization this forces: severance
+> language is not severance language at all — it is a rung on the
+> escalation ladder ([[wiki/mind/concepts/reassurance-architecture]]), and
+> thirty-six seconds is what a check-in looks like when it gets answered.
 
-## Model Narrative
+## The asymmetry that carries the whole model
 
-The attachment model describes the catastrophic interaction between Dan's rule-based processing architecture and a relationship that lacked a definitive conclusion. This mechanism is structural rather than pathological. Because the cognitive engine weights positive rhetoric heavily and requires a formal, explicit signal to terminate an active rule, the model stayed active throughout a fifteen-month terminal phase from August 2025 to June 2026. The system did not fail to perceive Annie's behavioral withdrawal; rather, it noted the behavioral withdrawal, found it inconsistent with the active attachment rule, and flagged the contradiction as an anomaly to be resolved rather than closing the model. Every instance where Annie said "I love you" while withdrawing behaviorally generated a data conflict that prevented closure.
+The evidentiary weight of the two headline numbers is deliberately
+unequal, and the old page buried that fact in its Gaps: the **0 is
+primary-verified** (a direct sweep of her messages), while the 299 has
+never been located in any source document. The zero is load-bearing; the
+299 is decorative. What the model actually needs is only the zero — the
+absence of a single explicit severance statement across eleven years —
+plus the 129/100%/36s pattern showing that *his* declarations terminate
+nothing. The totality as of September 2026 makes the asymmetry total:
+**in eleven years, Annie never once issued an explicit severance
+statement, and every event the wiki ever read as her severing the bond
+was his line.** June 1's closing words ("Goodbye forever… sic semper
+lupanis") are Dan's, corrected 2026-08-13 against the deep export
+([[wiki/people/annie-ulmer]]). The August 19 group-chat message ("He
+didn't rape me," 06:33) discriminates between two men in public under her
+own name — the first written act of its kind in eleven years — but she
+never states the relationship is over, so it is still not a severance
+signal. The August 26 block was never enacted at all (dat:0090).
 
-This dynamic was further complicated by historical family patterns. The parental rupture of 2005 established a template where a trusted primary figure maintained a concealed alternate reality. Dan's relationship with Annie replicated this template, involving a trusted partner, sustained deception, and Dan choosing to accept verbal denials to preserve relational stability.
+## NEW — the model passed its field test [CONCLUSION, primary-verified]
 
-**The structural reframe, from an evidence base with nothing to do with
-relationships.** [[wiki/mind/synthesis/closing-the-set]] establishes from 2,016
-curated cultural entries — 86.6% of 1,477 musical artists appearing exactly once
-— that Dan's unit of engagement is a **bounded object with a findable edge**, and
-that the payoff arrives on closing it. This model states the inverse condition
-about the Annie bond: it cannot close, because closure requires an external
-signal that was never issued across 41,073 messages. Read together, **the Annie
-bond is an unclosable set, and it is the largest object the engine was ever
-attached to.** That reframes the decade not as a relationship that failed to end
-but as a structural mismatch between a completion engine that pays out on closure
-and an object built so that closure cannot occur — which also predicts, correctly,
-that the June 1 2026 closure had to arrive from outside.
+The 2026 sequence is the cleanest test the architecture has ever gotten,
+and it is this pass's new finding for this concept. The model's core
+prediction has always been directional: **his declarations are noise;
+only her explicit statement counts.** August 2026 ran the experiment:
 
-**And the payout stopped long before the model did.** A first-person
-happiness-claim rate over the canonical dump runs **7.86 per 1,000 messages in
-the first five weeks of the relationship** and then 2.72, 0.73, 0.87 and 0.34
-across 2016–2019 — the collapse is complete by 2017, **eight years before** the
-terminal phase this page dates to August 2025. The bond stayed active at full
-strength throughout. Whatever it was delivering in December 2015, it had stopped
-delivering it before the third year, and the model kept running anyway. That is
-the sharpest available demonstration that this architecture is not maintained by
-reward.
+- ~25 block/severance declarations across August 15–19 — none executed.
+- August 26: Dan reports a held block. The wiki records it as the first
+  held boundary in the eleven-year record.
+- September 11: retracted. CSV forensics find zero executed blocks and
+  **daily two-way texting August 27–September 7 — 765 messages in the
+  final 72 hours of the export**, including "good night pretty girl"
+  rituals. Dan confirms verbatim: *"there was never a block."*
+- September 10: Annie tells him she works as a waitress at Mom Maruca's
+  and got a bad review there — she reinitiates ordinary contact herself.
 
-The core moral event of the relationship's terminal phase was the systematic erosion of Dan's perception, often described as gaslighting. Convincing a partner that their accurate observations are signs of paranoia or mental illness attacks their core capacity to understand reality. The closure event on June 1, 2026, provided the first explicit, verified data that allowed the cognitive system to generate a counter-rule and close the model.
+The model predicted every step of this: declarations terminate nothing
+(36-second median, now with a zero-second case), the bond stays live on
+the last stated rule, and contact resumes because no severance signal was
+ever issued. The retraction page's own reading agrees — "the 130th
+declaration and its non-execution the 130th re-engagement, except there
+was never even a pause to resume from."
 
-## Gaslighting Architecture
+**The conclusion the totality forces:** the bond's closure condition —
+an explicit severance statement from Annie — has a base rate of **zero
+in eleven years**. The model's honest prediction is therefore not that
+the bond closes when he declares it closed. It is that the bond does not
+close from inside the relationship at all. September 2026's ongoing
+contact is the model working as designed, not a relapse from a design
+that was working.
 
-The communication corpus demonstrates a systematic gaslighting architecture used to maintain relational stasis during active deception:
-- **Verbal Anchoring:** Annie maintained explicit verbal commitments, such as calling Dan her "soulmate" or telling him she loved him, while concurrently withdrawing physical presence, shared time, and fidelity.
-- **Semantic Drift:** The ten-year norm of mutual location sharing was unilaterally removed by Annie in August 2025, following a night spent at her former partner's residence. This removal was subsequently refed and reframed as Dan making a controlling demand.
-- **Cause-and-Effect Inversion:** Annie systematically responded to the distress caused by her withdrawal rather than the withdrawal itself, using phrases such as "I cannot talk to you when you are like this" to avoid addressing the underlying issues.
-- **Systematic Attacks on Reality:** While maintaining the concealed NYC relationship with [[wiki/people/eli|Eli]] through 2024, Annie repeatedly told Dan that his suspicions were insane, paranoid, or symptoms of mental illness. Dan explicitly documented that he chose to believe these assertions in order to return to a perceived normal life.
+## The gaslighting architecture (compact)
 
-The central impact of this architecture was the subversion of Dan's cognitive stability. By targeting his capacity to verify reality, the deception inflicted a distinct category of psychological harm that went beyond simple infidelity.
+The corpus documents a systematic pattern during the active deception —
+written denials of a third party (November 2025 "No and no," dated in the
+bootloader timeline; a February 2026 instance carried only in the
+dossier's contradictions section, primary quote unlocated), semantic drift
+(the ten-year location-sharing norm removed August 2025 and reframed as
+his controlling demand), cause-and-effect inversion ("I cannot talk to you
+when you are like this"), and sustained attacks on his reality-testing
+while the Eli concealment ran through 2024 ("your suspicions are insane").
+For a system that admits no counter-rule from behavior, maintained verbal
+statements *are* the bond, however far the behavior drifts — which is why
+the deception's harm here is architectural rather than merely emotional.
+The full forensic detail belongs in the kb/ evidence nodes and
+[[wiki/timeline/events/eli-incident]]; this page holds the mechanism.
 
-The final dossiers add the closure-side mechanism — the **confession trap**. Dan could not exit without the validation of a confession: he had assembled an overwhelming evidentiary case, and leaving without the verdict would have meant abandoning the identity of the person who was right. Annie was never going to supply the confession, because supplying it would have ended the arrangement she was maintaining. The dossiers' formulation: "the exit was never through the verdict. It was through the door." This is the same no-counter-rule architecture stated from the other side — where the model above describes the missing severance *signal*, the confession trap describes the missing severance *permission*.
+The final dossiers add the confession trap: Dan could not exit without
+the validation of a confession — leaving without the verdict would mean
+abandoning the identity of the person who was right. Where this model
+describes the missing severance *signal*, the trap describes the missing
+severance *permission*. Same architecture, stated from the other side.
+
+## The third category: the one audited disclosure
+
+The 12 unmet crisis statements measure the absence of a substantive
+response — and the corpus contains exactly one substantive response, and
+it is not sympathy. On **2019-10-14**, told the Pittsburgh funeral story
+in full, [[wiki/people/ally-lubin|Ally]] answers: *"I'm just confused how
+neither of you had money because you always send me cash app statements
+with like thousands of dollars."* The only documented instance anywhere of
+a disclosure from Dan being **audited** rather than absorbed, ignored or
+reciprocated. It complicates rather than weakens the model: the one
+response class that could in principle generate a counter-rule is a
+response that *engages the evidence*, and the corpus has a sample size of
+one on it. Whether an audited disclosure resolves an anomaly or
+generates another is untestable at n=1 — a live question, not an assumed
+answer.
 
 ## "The mojo is locked in a room with no door"
 
-An undated 2026 AI-chat session (post-June-1-closure, per internal
-reference to "the post-June housing void") surfaces a self-described
-concept Dan names but doesn't have clinical language for: an
-"attraction outcome thing" — a felt sense, across his adult life, that
-holding a low-probability desired outcome as a primary variable and
-letting everything else run downstream of it "has always been able to
-kind of materialize." He reports this capacity as functionally absent
-since Annie — "annie stole my mojo and magic." The session's own
-reframe, which Dan does not contest: the mechanism wasn't lost, it was
-*captured* — locked onto the one target (Annie) where the feedback loop
-is structurally broken and can't close, rather than deactivated
-generally.
+An undated 2026 AI-chat session (post-June-1, per its internal reference
+to the post-June housing void) surfaces Dan's own name for the capture:
+an "attraction outcome thing" — holding a low-probability desired outcome
+as a primary variable "has always been able to kind of materialize" — now
+functionally absent since Annie: "annie stole my mojo and magic." The
+session's reframe, uncontested: the mechanism wasn't lost, it was
+*captured* — locked onto the one target where the feedback loop is
+structurally broken and can't close. The session's comparative data point
+is load-bearing: across seven years living with
+[[wiki/people/alexis-armel|Alexis]], Dan says he "never even thought
+about a real future with [her]" — functional companionship without the
+attachment system ever fully activating. Annie is the first (and per the
+session, only) person to fully engage the attachment system rather than
+the companionship system, which makes the disorientation proportionate to
+a first-time full activation, not an overreaction to an ordinary breakup.
+The session leaves one challenge unanswered in the retained transcript:
+whether the "it always materializes" track record has any evidence
+outside the Annie relationship, or the reference class is circular.
 
-The same conversation supplies a sharp comparative data point: across
-seven years living with [[wiki/people/alexis-armel|Alexis]], Dan says
-he "never even thought about a real future with [her]," despite
-cohabitation — functional companionship without the deeper
-identity-fusion architecture ever activating. Annie is named as the
-first (and, per the session, only) person to fully engage the
-attachment system rather than the companionship system — which the
-session uses to argue the disorientation of the loss is proportionate
-to a first-time full activation, not an overreaction to an ordinary
-breakup. The session pushes back on one point Dan doesn't resolve in
-the retained transcript: whether the "it always materializes" track
-record has any evidence outside the Annie relationship itself, or
-whether the reference class is circular.
+## The profile lens
 
-The same session also offers a structural reframe of the
-[[wiki/health/hyperreflexivity|hyperreflexivity]] material from a
-companion source: the anxiety loop, considered independently, "doesn't
-have much independent existence right now" — it reads as almost
-entirely parasitized by two concrete, unresolved situations (Annie, and
-the post-closure housing void) rather than a freestanding clinical
-pattern, which reframes "treat the anxiety" as possibly the wrong
-target — the loop may be signal, not noise.
+Through the Ti-dominant lens ([[wiki/mind/profile/intp]]), this model is
+what happens when introverted thinking's demand for **stated premises**
+runs a bond: only explicit statements are premises; everything inferred
+is inadmissible. Fe-inferior is the wound the model protects — a system
+that cannot read the room builds a room out of sentences instead. The 2005
+template ([[wiki/people/rick-frank]]: verbal assurance over a concealed
+alternate reality) is the same structure with different occupants; the
+model replicates what it learned first. Through the axiom lens, "love
+that doesn't cost everything isn't real" is this architecture stated as a
+value — the fifteen-month terminal phase, held at full strength on dead
+rules, is the axiom's costliest demonstration. And the threat model —
+"competence correctly deployed, outcome still catastrophic" — is the
+decade in one line: the system ran correctly on inputs designed to
+exploit it, and the catastrophe was the correct output.
+
+## Cross-data-type check
+
+The model was built from message text; the 2026-09-13 pass checked three
+non-obvious data types.
+
+- **Timing.** The 36-second median gap and 46-hour maximum are the model's
+  timing signature: declared exits are check-ins with the volume turned
+  up. The June 52-day silence was already out-of-distribution and still
+  resolved as a pause; the August "block" produced zero seconds of
+  non-contact. The circadian-latency finding (uniform near-instant
+  outbound, inbound delay scaling with peripherality) is the same
+  architecture rendered as latency: the channel is the bond's vital sign,
+  and "call me" 170x against "do you love me" 0x shows the system asks
+  for a response packet, never for affirmation.
+- **Financial.** The money record is the bond's operating register:
+  ~$139K sent against ~$16–20K received back across Cash App and Venmo —
+  a six-to-one provision asymmetry ([[wiki/people/annie-ulmer]]). The
+  120-day severance horizon that once tested the money pattern is void
+  (SUPERSEDED 2026-09-11, dat:0090), but the asymmetry finding stands:
+  provision was how the bond *did* attachment, in the one channel that
+  leaves receipts.
+- **Location and channel.** The August 16–19 terminal events ran through
+  the Morgantown St call; the September recontact runs through her
+  workplace disclosure (Mom Maruca's, September 10). The model predicts
+  both directions of this: he cannot close the channel, and she can
+  reopen it at will by transmitting. Every recontact in the record is a
+  channel event first and a content event second.
 
 ## Gaps
 
-**The 127/110 exit-declaration figure used elsewhere in the wiki
-(`wiki/mind/synthesis/block-unblock-loop`, `wiki/mind/synthesis/attachment-trauma-bond`)
-does not fully reconcile with this page's own source material.**
-`MasterRecord_March16` and `CompleteAnalysis_Final` both describe "127
-false exits" but characterize the re-engagement rate as effectively
-**100%** ("127 false exits with 100% re-engagement is a coercive
-behavioral pattern in its own right"), not the 110-of-127 (87%) figure
-carried on the synthesis pages. `block-unblock-loop.md` already flags its
-own 127/110 pair as `[DERIVED] from the dossier passes`, so this is not a
-new problem this page introduces — but it is worth naming here explicitly,
-since this page's connections claim (below) cites "127/110 cycles" as
-settled. Neither figure has been re-derived directly from
-`all_imessages_complete_dump.txt`; both are dossier arithmetic. A future
-pass with `bin/mine-messages` against the raw dump would settle which
-count (if either) is correct.
+The 299-affirmation figure remains unlocated and should not be quoted as
+settled. The 129/36s recount rests on the page's own episode definition
+and the unheld 95,067-row merged corpus — testimony, well-constructed
+and independently methoded, but testimony (dat:0622). The two "written
+denial" instances are unevenly sourced (November 2025 confirmed;
+February 2026 unlocated). The 12 crisis statements' logged non-responses
+(a 12-hour silence, a bar name, a laundry complaint, "what the hell dan")
+are dossier relays, not held primaries.
 
-> **RESOLVED [2026-08-23], and both halves favour the dossiers' corrected
-> reading.** Dan-sent severance language — blocking declarations, *goodbye*,
-> *I'm done / we're done / it's over*, *never contact me again* — across the
-> **95,067-row merged Annie corpus** (2015-11-28 → 2026-05-28) returns 258
-> messages collapsing to **129 distinct episodes** once hits within 24 hours are
-> treated as one declaration. **129 against the dossiers' 127, by an independent
-> method**, which corroborates the count this page had doubted rather than
-> undermining it. And of the 128 episodes with a following message inside the
-> corpus, **all 128 resumed — 100%, median gap thirty-six seconds, all-time
-> maximum 46 hours.** The 110-of-127 (87%) figure carried on
-> [[wiki/mind/synthesis/block-unblock-loop]] and
-> [[wiki/mind/synthesis/attachment-trauma-bond]] is withdrawn.
->
-> **This is the strongest quantitative support the no-counter-rule architecture
-> has ever had, and it recategorises the behaviour it measures.** A system that
-> cannot generate a terminating signal predicts that declared exits terminate
-> nothing — and the primary record shows 129 declarations producing a median
-> silence of under a minute. That is not weak resolve repeatedly overcome. On
-> this evidence the severance language is not severance language at all: it is a
-> rung on the escalation ladder ([[wiki/mind/concepts/reassurance-architecture]]),
-> and thirty-six seconds is what a check-in looks like when it gets answered.
+## Limits of record
 
-**The 299-affirmation / 0-severance-signal pairing remains internally
-asymmetric in its evidentiary weight**, and that asymmetry is worth
-stating plainly rather than letting the two numbers sit side by side as if
-equally solid: the 0 is primary-verified (a direct sweep of Annie's
-41,073 messages), while the 299 has never been located in any of the
-eleven `DanAnnie_*` documents now checked against it, across two separate
-rewrite passes eighteen days apart. The zero is load-bearing; the 299 is
-decorative and should be read that way until a source turns up.
+The dossier `.docx` sources and the merged Annie corpus are not held in
+this repository; the quantitative table's dossier-arithmetic rows cannot
+be re-derived here. The August 11–September 7, 2026 export establishing
+the retraction had not been filed in raw/ as of this pass. The corpus
+snapshot underlying the older sweeps is 2026-09-04.
 
-**The two "written denial" instances are unevenly sourced.** The November
-2025 instance ("No and no") has a real primary-adjacent trail — dated in
-`THE_DAN_FRANK_BOOTLOADER.md`'s timeline and discussed at length,
-message-by-message, in `Breaking the anxiety avoidance cycle (1).md`. The
-February 2026 instance has no equivalent trail located in this pass; it
-rests only on the Documented Contradictions section below, itself
-undated to a specific message. If a primary quote for the February
-instance surfaces, it should be added here; if none exists, the "2" in
-the table above should become "1 confirmed, 1 unlocated."
+## Epistemic ledger for this page
 
-## Documented Contradictions
-
-> **CONTRADICTION:** Annie issued written denials of third-party involvement in November 2025 and February 2026. These denials were issued while she was involved with the third party she ultimately left for (Tuquick — [[wiki/people/tuquick-17248123683]]) and a defamation campaign was running within their shared peer network, creating a direct contradiction between her private assurances and her public actions.
-
-> **REVISED 2026-06-22:** Previous analyses characterized the relationship with Eli as an isolated incident discovered in January 2025. Corrective sources confirm that the relationship was a sustained concealment that began in at least autumn 2024. This timeline has been updated in [[wiki/timeline/events/eli-incident]] and the main entry for Annie.
-
-## The observable surface, and the event that tested the model
-
-Two pages built on this one in August 2026 and both bear on claims made above.
-
-[[wiki/mind/concepts/reassurance-architecture]] takes the no-counter-rule
-structure and asks what it looks like from outside. The answer is a
-**verification loop** — a rule that cannot be closed by behavioural evidence
-has to be re-confirmed by transmission, so it runs nearly silent at baseline
-and becomes the organising behaviour under stakes, because stakes multiply
-anomalies and each anomaly is an open request. The measurement that page adds
-is a negative one worth recording here: across 106,629 sent messages the
-phrases *"do you love me"*, *"are we ok"* and *"am i crazy"* appear **zero
-times**, while *"call me"* appears **170** and *"you up"* **119**. The
-architecture does not ask for affirmation. It asks for a response packet, and
-when it cannot get one it substitutes measurement — which is why 44 refused
-GPS requests and the read-receipt work sit inside this model rather than
-beside it.
-
-[[wiki/mind/synthesis/the-rescue-premise]] tests the model's central claim
-against the August 19, 2026 severance. This page holds that the loop cannot
-close without an explicit, unambiguous severance signal, and that a sweep of
-41,073 of Annie's messages returns zero. The group-chat message ***"He didn't
-rape me"*** at 06:33 that morning is **still not one** — she never states that
-the relationship is over. What it is instead is the first written act in
-eleven years that discriminates between two men in public under her own name,
-issued for Coles and, per the operator, promised to Dan and withheld. The
-architecture cannot read an absence. It can read an **asymmetry between two
-issued statements**, which is what Dan's last coherent messages of the
-relationship do at 15:13:45. Whether that is sufficient to generate a
-counter-rule is the open question that page states as a dated falsifier rather
-than settling.
-
-
+- **Primary-verified:** 0 severance signals in 41,073 of her messages
+  (dat:0081); the August 26 block's non-execution and the daily
+  Aug 27–Sep 7 texting (dat:0090); June 1's closing line as Dan's
+  ([[wiki/people/annie-ulmer]], corrected 2026-08-13).
+- **Page testimony (unheld corpus):** 129 episodes, 100% re-engagement,
+  36s median, 46h max (dat:0622); the quantitative table's dossier rows
+  (dat:0621).
+- **Conclusion (new):** the bond's closure condition has a base rate of
+  zero in eleven years — the model predicts non-closure from inside the
+  relationship; September 2026's ongoing contact is the model working,
+  not relapsing.
+- **Contested:** the 299-affirmation figure — carried as decorative until
+  a source turns up.
+- **Open:** whether an audited disclosure (n=1) can generate a
+  counter-rule; whether the August 19 group-chat asymmetry suffices.

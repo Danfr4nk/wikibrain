@@ -1,0 +1,33 @@
+{
+ "batch": "20260912-0701",
+ "pulled_at_utc": "2026-09-12T07:03:33Z",
+ "source": "runtime.messages (Muse system database) via muse.db",
+ "watermark_from": {
+  "chats": "2026-09-12T03:37:38.556+00:00"
+ },
+ "watermark_to": {
+  "chats": "2026-09-12T07:01:13.548+00:00"
+ },
+ "counts": {
+  "chat_rows": 237,
+  "user_rows": 96,
+  "assistant_rows": 141,
+  "system_manifest_rows": 529,
+  "truncated_rows": 0,
+  "overlap_with_batch_20260912-0340": 1
+ },
+ "files": {
+  "chats.json": {
+   "sha256": "fc893907a03e5634c56e70483a53275bfdf5849d715b01e8cab0dbaa64540df8",
+   "bytes": 92367
+  },
+  "system_manifest.json": {
+   "sha256": "836045765385e2356fea03794e227fbabc7a3fe6b77fdea38e459d6c5570955e",
+   "bytes": 110177
+  },
+  "EXTRACT.md": {
+   "sha256": "5838f02be1b8ea3388a39db05a4834297d60a706b7e0b0051c809b16d1b23bce",
+   "bytes": 3289
+  }
+ }
+}

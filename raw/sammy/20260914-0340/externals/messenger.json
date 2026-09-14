@@ -1,0 +1,8 @@
+{
+ "checked_at": "2026-09-14T03:49:27Z",
+ "connected": true,
+ "count": 0,
+ "newest_item_ts": null,
+ "watermark": "2026-08-26T22:23:43.707Z",
+ "notes": "hatch_messenger_cli sync both --since-days 20: messages_new 0, newest_cached_ts 1787783023707 exactly equals watermark ms. Threads cached: Kristin Shaelene, Ryan Lisac; nothing newer."
+}

@@ -73,8 +73,8 @@ Old rule:
 
 Emerging rule:
 
-> *I feel something enormous → I can decide what behavior actually serves the
-> situation.*
+> *I feel something enormous → I can decide what behavior actually serves the*
+> *situation.*
 
 That is a much more consequential change than becoming calmer by becoming
 numb.

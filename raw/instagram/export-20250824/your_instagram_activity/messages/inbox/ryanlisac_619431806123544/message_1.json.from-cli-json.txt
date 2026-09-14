@@ -1,0 +1,126 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 5231 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1664158224515,
+      "videos": [
+        {
+          "creation_timestamp": 1664158217,
+          "uri": "your_instagram_activity/messages/inbox/ryanlisac_619431806123544/videos/AQO4UTCDMFKgHe1DO_7F2vp0FUW8Ru0Im3qbq8rhZWKUvEhzuBS2aBq4pn11eDdvqfBbtHnaUXGURkj5b7M0RuMUAFoGhyGTS2TeuEKmCZoEPv_2692488484219369.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Im pretty sure if I try âone armed scissorâ itâs going to create a black hole",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663930221101
+    },
+    {
+      "content": "Omg dude Iâve been waiting for this for years. There are SO many songs that Iâve wanted to do this to but until now this would require either literal magic or access to studio stems or the protools file",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663929697439
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663929450467,
+      "videos": [
+        {
+          "creation_timestamp": 1663929443,
+          "uri": "your_instagram_activity/messages/inbox/ryanlisac_619431806123544/videos/AQOIp9hDeFSOlzWRWYCWNccACuUGZjKVf1WvfymHN42dHSMWeWduBkNocbRfcmglKZEpwzZYFMKOnhkFzzge1RFJmF_anGwZiMBVpQrjHeidWx_510559727553893.mp4"
+        }
+      ]
+    },
+    {
+      "content": "I ran it through the capcut auto lyric algorithm just for funsies because I had to change it to a video file to send it anyways lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663929279169
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663929241065,
+      "videos": [
+        {
+          "creation_timestamp": 1663929232,
+          "uri": "your_instagram_activity/messages/inbox/ryanlisac_619431806123544/videos/AQNPuoCbKgUWDOYFNaxdDBIvh70yaBJPRWmDFyJoh6TPz7md1iEyN1CGMfwnz99Fn85EO7JVpUmx_hfrVgBlauTwRmW3kBV_7idikBPBuWUvYS_478507670853000.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Yeah thatâs pretty crazy it could pull those drums specifically from that part of the song considering how much shit is going on in that moment. For the vocals, Iâd assume it caught the girl screaming perfectly fine?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ryan Lisac",
+      "timestamp_ms": 1663923489273
+    },
+    {
+      "content": "Come ON dude how nuts is that. How did it take that waveform and make it completely perfect like it was the original multitrack",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663910287812
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663910179720,
+      "videos": [
+        {
+          "creation_timestamp": 1663910171,
+          "uri": "your_instagram_activity/messages/inbox/ryanlisac_619431806123544/videos/AQPs23DTH2EXQIpgKjC9xJciE2taGBoQxoEvPY6npH6tEpQ3mPIb9EOoLxI3OBKSkgXQ3ncJ3FljJwIkwuq495swLfnwkTJt6xRqDRBJSLbvsJ_5966104523422846.mp4"
+        }
+      ]
+    },
+    {
+      "content": "And thereâs only one song you choose when you are looking to freak a machine out. One song that is so intense that you literally ordered a new Toshiba laptop so you could have a video wallpaper of the double bass close up from the music video",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663910156538
+    },
+    {
+      "content": "But theyâre fucking amazing and I wanted to try to trick it and see how good it actually was",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663910080410
+    },
+    {
+      "content": "Okay so idk if youâve heard about these new AI tools that take a song and filter it to give you the instrumental and vocal stems",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1663910062407
+    }
+  ],
+  "participants": [
+    {
+      "name": "Ryan Lisac"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:34:08.192-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:34:08.192Z"
+  },
+  "thread_path": "inbox/ryanlisac_619431806123544",
+  "title": "Ryan Lisac"
+}

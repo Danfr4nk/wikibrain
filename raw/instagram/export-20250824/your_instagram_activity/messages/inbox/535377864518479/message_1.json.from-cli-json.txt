@@ -1,0 +1,121 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 8248 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "ÊÊá´á´á´ sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "ÊÊá´á´á´ Éªá´á´á´á´á´",
+      "share": {
+        "link": "https://www.bruteimpact.com/pages/about-us",
+        "share_text": "The Why... My brother and I have always wanted to do something great. Something that moves people and helps them reach that next level. For years we have been searching for that...one thing... Brute Impact became that one thing. We saw an industry full of potential but lacking a lot of what makes so..."
+      },
+      "timestamp_ms": 1563430409805
+    },
+    {
+      "content": "Here atÂ Brute Impact, we take pride in the quality of our products and the service we provide! We offer 1 excellent location for our customers to find all of the latest fashion forward & trending clothing. You are welcome to try and find similar knockoffs elsewhere, but you wonât find anything like authenticÂ Brute ImpactÂ threads.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "ÊÊá´á´á´ Éªá´á´á´á´á´",
+      "timestamp_ms": 1563430389580
+    },
+    {
+      "content": "nor would adidas approve of slapping their logo on that windbreaker. \n\nthis is the kind of intellectual property theft that only happens in asia. a US based company would be held liable for trademark infringement",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563430161020
+    },
+    {
+      "content": "i bet mca records wouldnât be too happy youâre using the blink 182 logo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563430055667
+    },
+    {
+      "content": "go scam some more 16 year olds into believing theyâre âbrand ambassadorsâ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563430011569
+    },
+    {
+      "content": "theyâre both rip offs. but at least that one isnât $140 lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563429913937
+    },
+    {
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://www.amazon.com/dp/B07C6GZM3H/ref=cm_sw_r_cp_api_i_hVamDbR6RDC23",
+        "share_text": "SPECIFICS: 100% Brand New. Material: Polyester 2 Colors: White, Black Collar: Hoodie with Drawstring Sleeve: Long Sleeve Length: Regular Pattern: Letter Printed Closure Type: Front Zipper Season: Spring, Summer Occasion: Casual, Sport Garment Care: Washing max 30â, Press sheet, Do not tumb..."
+      },
+      "timestamp_ms": 1563429874715
+    },
+    {
+      "content": ". We have a goal at Brute Impact not only provide a great platform for our ambassadors to launch their brands, but also provide great jobs and excellent relationships for all of those involved with our company. You can have confidence that every dollar you invest in Brute Impact is used to better the lives of all parties involved!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "ÊÊá´á´á´ Éªá´á´á´á´á´",
+      "timestamp_ms": 1563429649804
+    },
+    {
+      "content": "I appreciate the information, but we are a legitimate company. Every business is going to have people that don't like them for 1 reason or another. Give us a chance to prove it to you. you won't be disappointed!1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "ÊÊá´á´á´ Éªá´á´á´á´á´",
+      "timestamp_ms": 1563429628783
+    },
+    {
+      "content": "youâre actually based in the Philippines...not los angeles. and you donât have 20,000 customers.\n\ni was SUPER curious why i was offered this and with a few minutes of googling, i was able to figure out why",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563429300876
+    },
+    {
+      "content": "gotta hand it to you...this is a pretty smart business plan. most people are probably so flattered by the fact that youâre approaching them to be a âbrand ambassadorâ that they blindly agree and make at least one purchase (that they would have otherwise made) just to get the attention and so they can claim âsponsorshipâ\n\nnow i donât know much about fashion...but i DO know that the markup on your stuff is astronomical, at least for a company created a few months ago with no legitimate press whatsoever. \n\nif i had to guess, your whole model revolves around selling to your ambassadors at such a high markup that youâre still generating a profit",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563429215149
+    },
+    {
+      "content": "Hey Dan!\n\nWe have been reaching out to a few guys like you, who fit our style, to potentially collab.\n\nIf we decide to work together, we would be happy to offer you 50% off everything in our store, so that you can try out our dope new threads and come onboard as an official ambassador!\n\nWe also offer commission to you for any of your followers purchases and other great perks!\n\nAll we ask is thatÂ whenÂ we move ahead together, you tag us in a pic of you wearingÂ what you gotÂ and we will feature you on our page.\n\nSo, in a few sentences, tell us why you think you would be a great ambassador?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "ÊÊá´á´á´ Éªá´á´á´á´á´",
+      "timestamp_ms": 1563426121412
+    },
+    {
+      "content": "yo thanks for the look. iâd love to work with you guys!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1563425756800
+    }
+  ],
+  "participants": [
+    {
+      "name": "ÊÊá´á´á´ Éªá´á´á´á´á´"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:28:33.575-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:28:33.575Z"
+  },
+  "thread_path": "inbox/535377864518479",
+  "title": "ÊÊá´á´á´ Éªá´á´á´á´á´"
+}

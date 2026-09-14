@@ -96,7 +96,7 @@ Annie has mentally exited boyfriend-frame. Treats Dan's mom as neutral backgroun
 
 > "Stupidly complex story? Only because we tried to dignify it with layers it never had. Strip the baroque scaffolding and you’re left with the banal physics of people who stopped caring enough to be careful—until the moment care became existential for one of them."
 
-> "If the TM were an innocent family friend, a 'wife-warning' would be met with confusion or a defensive 'What the hell is this?' * A **10-day radio silence** following a specific threat to a primary domestic partner is a **non-verbal confession**."
+> "If the TM were an innocent family friend, a 'wife-warning' would be met with confusion or a defensive 'What the hell is this?' * A **10-day radio silence** following a specific threat to a primary domestic partner is a **non-verbal confession**."*
 
 **Suspect Matrix (from Gemini response):**
 | Candidate | Identifier: "Suzy" | Social Protocol (The Hang-up) | Reaction to "Wife" Threat | Probability |

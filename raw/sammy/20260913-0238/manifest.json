@@ -1,0 +1,27 @@
+{
+ "batch": "20260913-0238",
+ "pulled_at_utc": "2026-09-13T07:10:00Z",
+ "pulled_by": "wiki-brain-writeback-6h",
+ "window": {
+  "chats": {
+   "from": "2026-09-13T06:22:22.196+00:00",
+   "to": "2026-09-13T06:51:31.256+00:00"
+  }
+ },
+ "dedup": {
+  "against": "raw/sammy/20260913-0230/chats.json",
+  "overlap_excluded": 1
+ },
+ "counts": {
+  "chat_rows": 2,
+  "user": 0,
+  "assistant": 2
+ },
+ "note": "gap-fill: the two assistant run-reports after the 0230 batch cutoff; rows 10547 (boundary) already archived",
+ "files": {
+  "chats.json": {
+   "sha256": "45b696ebfe2fcdafa32ff9232393b84a45b2be27208e647ea6831865eb8b330b",
+   "bytes": 889
+  }
+ }
+}

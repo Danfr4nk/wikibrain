@@ -60,8 +60,8 @@ Location history cross suggests possible auto-repair overlap or coincidence in U
 
 **Premise re-check (2026-07-26):** [[wiki/legal/463-morgantown]] moved on 2026-07-18 in a typed-connections pass; the incomplete-work and unreachability facts this page reasons from are unchanged, and the 'John carney thing' document is still absent from raw/.
 
-> **RE-CHECKED [2026-08-02] — premise moved, nothing here depends on the part
-> that moved.** [[wiki/legal/463-morgantown]] was updated to record that the Arnu
+> **RE-CHECKED [2026-08-02] — premise moved, nothing here depends on the part**
+> **that moved.** [[wiki/legal/463-morgantown]] was updated to record that the Arnu
 > mechanics-lien deadline elapsed on ~27 July 2026 with no documented outcome.
 > The Carney exposure documented on this page is a separate claim on the same
 > property — incomplete work and an unreachable contractor — and is unaffected by

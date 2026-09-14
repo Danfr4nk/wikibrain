@@ -1,0 +1,43 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1128 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Go call someone else. Seriously so lame of you to do that. We are legit done because of it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1529510569825
+    },
+    {
+      "content": "Hey next time you want to take Annie to go hang out at Jay the bartender (whoever the FUCK that is) house all night",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1529510547257
+    },
+    {
+      "content": "Good work ruining a relationship in one night",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1529510521092
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:32:30.949-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:32:30.949Z"
+  },
+  "thread_path": "inbox/instagramuser_567064831356996",
+  "title": "Instagram User"
+}

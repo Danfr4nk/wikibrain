@@ -1,0 +1,36 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1703 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1612127110305
+    },
+    {
+      "content": "ÐrÐµ ÑÐ¾u intÐµrÐµstÐµd to grÐ¾wing yÐ¾ur InstagrÐ°m, FÐ°cebÐ¾Ð¾k, Ð¢ikTÐ¾k aÑÑounts\n100% guÐ°rantÐµed\n1k followers : 10 $\n2k fÐ¾llowers : 20 $\n3k follÐ¾wÐµrs : 30 $\n5k fÐ¾llowÐµrs : 45 $\n10k fÐ¾llowers: 80$\n20k followers :150$\n___\n*PaÑk views :100k views fÐ¾r 50$\n*PÐ°Ñk Likes :10k LikÐµs fÐ¾r 40$\n------------------------------\nTÐµxt me in my Ð¾ffiÑial Ð°ccount @managerpages1   itâs necessÐ°rÑ tÐ¾ Ð°nswer quickly.\n------------------------------\nWÐµ Have FREÐ Ð¢rial\nPÐ°Ñment viÐ° Ð aÑPal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1612127102725
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:26:24.847-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:26:24.847Z"
+  },
+  "thread_path": "message_requests/instagramuser_590149925715153",
+  "title": "Instagram User"
+}

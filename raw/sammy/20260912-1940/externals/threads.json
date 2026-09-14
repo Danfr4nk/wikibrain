@@ -1,0 +1,9 @@
+{
+ "status": "checked",
+ "source": "threads",
+ "account_user_id": "17841463596404400",
+ "newest_post": "2026-08-26 23:04:55",
+ "new_items": 0,
+ "note": "newest equals watermark 2026-08-26T23:04:55Z (raw post_creation_time has no tz; stored as UTC); zero new",
+ "checked_at_utc": "2026-09-12T20:38:00Z"
+}
