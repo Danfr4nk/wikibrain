@@ -41,14 +41,19 @@ Three recordings from that day exist in Dan's Google Drive, in chronological
 order (confirmed by Dan 2026-09-13):
 
 - "Movie on 9-27-20 at 12.45 PM.mov" — ~7 min (not pulled; skipped per Dan)
-- "Movie on 9-27-20 at 12.52 PM.mov" — 19 min (1134s), 720x480, analyzed
-  frame-by-frame 2026-09-13: long clothed foreplay/tease, then an unbroken
-  ~12-minute 69 on the living-room couch. File ends mid-act; no finish visible.
+- "Movie on 9-27-20 at 12.52 PM.mov" — the Drive copy is a 19-minute segment
+  (1134s), 720x480, analyzed frame-by-frame 2026-09-13: long clothed
+  foreplay/tease, then an unbroken ~12-minute 69 on the living-room couch.
+  Correction 2026-09-13: Dan's phone shows the full recording at 1:33:10 —
+  the analyzed segment is its opening; the segment cuts out mid-act at
+  18:54 and the recording continues ~74 minutes further.
 - "Movie on 9-27-20 at 1.11 PM.mov" — 67 min, not yet analyzed; presumably
   continues the session.
 
 Dan's recalled runtime for the session ("2.5 hours," 2026-09-13) vs measured
-reality: the three files total ~93 minutes.
+reality: with the full 12:52 recording at 93 minutes, the three recordings
+total ~167 minutes (~2.8 hours) — his memory was right; the earlier
+93-minute total came from the truncated Drive copy of the 12:52 file.
 
 ## Recording circumstances
 
