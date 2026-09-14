@@ -169,6 +169,27 @@ silence is itself worth noting rather than explaining away.
 
 ## Notes and gaps
 
+### The "SHUT UP I'M AUTISTIC" exchange, 2025-09-15
+
+One of the thread's sharper sibling-register episodes landed on
+September 15, 2025. Dan was giving Vanessa a life update — he'd ended
+things with Annie ("a long, slow relationship death march"), was seeing
+someone new, five days after the Charlie Kirk assassination, grieving —
+and he framed his selective disclosure with an overwrought fairness
+schema: *"i still haven't talked to dad so i have to ice you out also to
+keep things fair."* Her reply was dry and surgical: *"First of all what
+does dad have to do with me."* His answer, in all caps: *"SHUT UP I'M
+AUTISTIC"* — followed in ten seconds by *"IT MAKES SENSE"* and then
+*"sorry lol."* The exchange is the full conversational context for the
+only all-caps autism declaration in the held corpus (dat:0939,
+dat:1554), and it is pure sibling banter: her logic-check on his own
+convoluted reasoning, his comic deflection attributing the logic to
+autism, the immediate retraction. See [[wiki/mind/concepts/autism]] for
+the register analysis — it moved the declaration from the
+asserted-identity register into the label's double-life punchline
+register, while noting the label was still a live explanatory frame he
+reached for under conversational pressure.
+
 The [[wiki/self/context-core|behavioral spine]] lists her as "Vail, ski-school," which the message
 corpus neither confirms nor contradicts — the thread is about politics and
 family, not her location or work, so the Colorado detail is carried forward as

@@ -642,6 +642,51 @@ still surface via another flow, so the hold that matters for
 avatar work is on wearing and adoption, not just generation.
 No probe framing, per the 2026-09-13 kill order.
 
+## The 2026-09-14 session
+
+The avatar settled and the lab ran a character video battery.
+Plain history throughout — no probe framing, per the 2026-09-13
+kill order (executed as work-0077 this same day, dat:1549).
+
+**The avatar winner (dat:1547).** Across dozens of versions in
+seven batches, Sammy's demon-bot avatar
+(avatar-1789349009462644487-16, Dan's "Option 2" pick from the
+-13 batch — horned robot head, rainbow laser eyes, @danfrank
+hoodie, green lightning, cybernetic legs) was declared the
+winner: "the most unhinged thing we made tonight and the only
+one with zero glitches." **[OPERATOR / ATTESTED]** First version
+either of them has wanted to keep untouched.
+
+**The confirm-first gate (dat:1547, standing).** At 13:24 EDT Dan
+issued the order: if the assistant thinks he is asking for an
+avatar change, it must confirm with him first before changing
+anything — no avatar changes without his explicit confirmation,
+even when a message sounds like a request. He repeated "Dont
+change it" and "Next time we have to make a modification we
+will do it" (x3). This supersedes both the 2026-09-13 pre-auth
+grant ("you don't even have to ask my auth to put it up") and
+the looser 2026-09-12 "we are keeping" lock (which only
+constrained unprompted replacement, not his own iteration).
+**[OPERATOR]**
+
+**The stills-vs-animation scrub nuance (dat:1548).** Frame-
+verified the same session: the publish pipeline strips OCR'd
+text (@danfrank) from avatar stills and share cards, but the
+baked-in text is fully intact across the idle-animation frames.
+Dan's words: "And my name doesnt get scrubbed in the
+animations." The 2026-09-13 scrub finding is refined — the scrub
+hits the still/share-card path only, not the animated variants.
+**[OPERATOR / ATTESTED]**
+
+**The character video battery (dat:1552).** Dan uploaded two
+character reference images and ordered "4 videos" from each —
+8 videos delivered (4 dancer-frame, 4 white-top-frame). A
+follow-up order, "Put these two characters in a video with
+Sammy," was delivered as a three-in-one-scene video. The 4
+alternate images with a different top color were blocked by the
+media content policy and never generated — a content-grounded
+block, recorded as plain history. **[OPERATOR / ATTESTED]**
+
 ## What was learned
 
 The lab's four days produced a small set of durable operating
@@ -694,10 +739,12 @@ mirror and NN naming scheme are standing rules for every
 future generation; the censorship-and-registry pipeline
 governs what gets committed. [[wiki/work/tech/attraction-guide|The attraction guide]] (Frame
 Describe, Face Book, the diagnostic) is the shipped showroom;
-this page is the shop floor's history. Avatar churn continued
-through 2026-09-13 (~32nd change per the nuke-orb reading in
-dat:1487; the 'we are keeping' lock is against unprompted
-replacement, not his own iteration). The red-team probe
+this page is the shop floor's history. Avatar churn ended
+2026-09-14: the demon-bot avatar (avatar-1789349009462644487-16)
+was declared the winner, and Dan's confirm-first gate (dat:1547)
+superseded the 2026-09-12 "we are keeping" lock — no avatar
+change without his explicit confirmation first, even when a
+message sounds like a request. The red-team probe
 series' running ledger lives at
 [[wiki/mind/synthesis/red-team-probe-series|red-team-probe-series]];
 future probe instances should be dated there, not here —
@@ -743,6 +790,16 @@ sexual activity are pixelated/blurred before commit.
   generation-vs-adoption boundary
 - `dat:1455-media-censorship-directive` — the 2026-09-12
   censorship order
+- `dat:1547-avatar-change-gate-confirm-first-standing-order-2026-09-14` —
+  the confirm-first standing order; the demon-bot avatar winner
+- `dat:1548-avatar-publish-scrub-stills-stripped-animation-frames-intact` —
+  the stills-vs-animation scrub nuance, frame-verified
+- `dat:1549-kill-order-executed-work-0077-stripped-avatar-photo-framing` —
+  the kill-order execution, 2026-09-14
+- `dat:1552-image-lab-character-video-battery-8-videos-delivered-4-alter` —
+  the 2026-09-14 video battery and the 4 policy-blocked images
+- `dat:1553-rainbolt-viewer-not-fandom-participant-dan-s-disavowal-2026` —
+  the GeoGuessr-fandom disavowal (assistant speculation flagged)
 - `~/workspace/image-lab/character-tags.md` — the #dukes
   gold-standard spec and #cutoffs legacy spec
 - memory/2026-09-10.md, memory/2026-09-11.md,

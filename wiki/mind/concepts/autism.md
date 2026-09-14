@@ -244,7 +244,8 @@ is now dated: on **2025-09-15 at 21:49:05 UTC**, Dan wrote, standalone and
 in all caps, *"SHUT UP I'M AUTISTIC"* (dat:0939). Full-text search over the
 held corpus finds 27 rows containing "autistic" — most of them slang,
 insult, or banter, which establish nothing — but the September 2025
-message reads as an asserted identity statement, not banter. It is the
+message reads as an asserted identity statement, not banter [register
+reading revised 2026-09-14, work-0078 — see below]. It is the
 latest-dated autism self-reference in the held corpus and the only one
 framed as a declaration. It retires the "no date of self-identification"
 gap: the identification was live and self-asserted no later than September
@@ -252,6 +253,27 @@ gap: the identification was live and self-asserted no later than September
 wholesale inside the AI-collaborative sessions — though the sessions remain
 the mechanism by which it was carried forward and repeated as settled
 fact.
+
+> **Register correction, 2026-09-14 (work-0078):** the full-thread review
+> (dat:1554) moves the 2025-09-15 message toward the banter end of the
+> register split. The recipient was his sister
+> [[wiki/people/vanessa-frank|Vanessa]]; the trigger was
+> her pushback — *"First of all what does dad have to do with me"* — on
+> Dan's own convoluted framing (*"i still haven't talked to dad so i have
+> to ice you out also to keep things fair"*). "SHUT UP I'M AUTISTIC" was
+> the comic deflection of her logic-check, followed in ten seconds by "IT
+> MAKES SENSE" and then "sorry lol". So the declaration's delivery was
+> banter-deflection, not asserted identity — which makes this message an
+> instance of the label's double life (see below), not a counterexample to
+> it. What survives: the label was a live explanatory frame he reached
+> for under conversational pressure ("IT MAKES SENSE"), the message is
+> still the latest-dated self-reference and the only all-caps
+> declaration, and the liveness dating (live by September 2025) stands.
+> The human scene, briefly: a life-update thread — he'd just told Vanessa
+> he'd ended things with Annie and was seeing someone new, five days
+> after the Charlie Kirk assassination, grieving — and his sister's dry
+> logic-check turned into the one joke in the corpus where he names his
+> own operating system out loud and then apologizes for saying it.
 
 ## The label's double life
 
@@ -339,7 +361,11 @@ are what this architecture keeps.
 
 - **Message text and register.** The 27 held "autistic" rows split into
   banter/slang (the majority, establishing nothing) and the single
-  all-caps declaration of 2025-09-15 (dat:0939). The register split *is*
+  all-caps declaration of 2025-09-15 (dat:0939) [2026-09-14, work-0078:
+  full-thread review moves the declaration's delivery into the banter
+  register — comic deflection of Vanessa's pushback, "sorry lol" ten
+  seconds later (dat:1554); it is an instance of the double life, not an
+  exception to it]. The register split *is*
   the data: the label lives in two incompatible registers — asserted
   identity and punchline — and the corpus never shows it doing a third
   thing, deciding something.
@@ -359,7 +385,12 @@ the discriminating test between the autism and extreme-INTP vocabularies
 is unrun. No comorbidity discussion (ADHD is not raised anywhere).
 Whether the label carries any practical consequence — disclosure,
 accommodation, treatment-seeking — is undocumented. What prompted the
-self-identification remains unknown; the 2025-09-15 message dates the
+self-identification remains unknown [2026-09-14, work-0078: the
+*immediate* prompt for the dated 2025-09-15 declaration is now
+documented — Vanessa's pushback "First of all what does dad have to do
+with me" on his fairness-schema framing, answered with comic-deflection
+"SHUT UP I'M AUTISTIC" (dat:1554); the *origin* of the label's adoption
+remains unknown]; the 2025-09-15 message dates the
 label's liveness, not its origin. The override test above is now the
 highest-value open experiment on this page.
 
@@ -387,4 +418,6 @@ sources are unheld.
   falsifiable claim, and August 2026 is a negative observation against
   it — no override installed; two readings held open.
 - **Unassessed:** whether "autism" is the correct name; what prompted the
-  self-identification; everything clinical.
+  self-identification [the *origin*; the dated declaration's immediate
+  prompt is documented — Vanessa's 2025-09-15 pushback, dat:1554];
+  everything clinical.
