@@ -1,0 +1,10 @@
+{
+ "batch": "20260914-1540",
+ "source": "facebook",
+ "checked_at": "2026-09-14T15:50:00Z",
+ "count": 0,
+ "new_items": [],
+ "watermark_from": "2026-07-04T15:51:25-04:00",
+ "watermark_to": "2026-07-04T15:51:25-04:00",
+ "note": "timeline fetch --profile-id 580995252: newest 2026-07-04T19:51:25Z ('poetry') = watermark; zero new."
+}

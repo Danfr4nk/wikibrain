@@ -1,0 +1,25 @@
+{
+ "batch": "20260914-1540",
+ "source": "spotify",
+ "checked_at": "2026-09-14T15:50:00Z",
+ "count": 1,
+ "new_items": [
+  "now-playing snapshot"
+ ],
+ "watermark_from": "snapshot-2026-09-14T11:47:45Z",
+ "watermark_to": "snapshot-2026-09-14T15:43:00Z",
+ "note": "No recently-played endpoint in spotify-api CLI; inventory not re-pulled (baseline 125 items per 1140 batch). Snapshot: blunn \"don't need u (i do)\", paused at 1.5s, context playlist \"Baby's First Stalker\" \u2014 identical to 1140; zero new.",
+ "snapshot": {
+  "artist": "blunn",
+  "track": "don't need u (i do)",
+  "track_uri": "spotify:track:1cPDRuKq2ghZrBu1VoktKD",
+  "playback_status": "PAUSED",
+  "progress_ms": 1494,
+  "duration_ms": 171000,
+  "explicit": false,
+  "context_name": "Baby's First Stalker",
+  "context_type": "playlist",
+  "state_timestamp": "2026-09-14T04:56:29Z",
+  "retrieved_at": "2026-09-14T15:43:00Z"
+ }
+}

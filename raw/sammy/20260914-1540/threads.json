@@ -1,0 +1,10 @@
+{
+ "batch": "20260914-1540",
+ "source": "threads",
+ "checked_at": "2026-09-14T15:50:00Z",
+ "count": 0,
+ "new_items": [],
+ "watermark_from": "2026-08-26T23:04:55Z",
+ "watermark_to": "2026-08-26T23:04:55Z",
+ "note": "profile-threads (--user-id + --account-id both required, arg order matters): newest 2026-08-26 23:04:55 = watermark; zero new."
+}
