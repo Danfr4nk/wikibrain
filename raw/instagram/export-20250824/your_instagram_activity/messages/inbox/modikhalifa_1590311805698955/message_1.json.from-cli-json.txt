@@ -1,0 +1,32 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 587 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Trump",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Modi Khalifa",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/3493662325862852993"
+      },
+      "timestamp_ms": 1730703974999
+    }
+  ],
+  "participants": [
+    {
+      "name": "Modi Khalifa"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:31:04.323-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:31:04.323Z"
+  },
+  "thread_path": "inbox/modikhalifa_1590311805698955",
+  "title": "Modi Khalifa"
+}

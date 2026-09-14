@@ -8,7 +8,7 @@ importance: critical
 relation_type: family
 knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-09-11
+date_modified: 2026-09-12
 date_range: ["1920-08-15", "2018-04-04"]
 tags: [family, uniontown-era, grief, music-production, financial-stress]
 sources:
@@ -105,6 +105,10 @@ connections:
   - page: wiki/mind/synthesis/closing-the-set
     type: evidences
     claim: "A corpus-wide search finds no second instance of Dan reporting a good outcome from an action he took, which makes the caregiving vigil the corpus's only documented case of the completion drive working end to end."
+  - { target: "[[wiki/mind/synthesis/annie-ally-contrast]]", type: references, claim: "That entry places her as a contextualizing figure in the Annie/Ally comparison: the axiom-proof bond against which both channels are measured." }
+  - { target: "[[wiki/mind/synthesis/chemical-architecture]]", type: contextualizes, claim: "That entry names her home as the unbroken setting of Dan's chemically maintained life: sixteen years of Suboxone taken inside the house she anchored, and the caregiving year lived under the same roof." }
+  - { target: "[[wiki/mind/synthesis/four-financial-inversions]]", type: references, claim: "That entry's inversion 1 runs on the 2020-08-21 distribution of her estate ($144,069.31 to Dan): the largest documented single capital event of the biography, and the funding floor of the Suz-backed years." }
+  - { target: "[[wiki/mind/synthesis/november-2005-hinge]]", type: contextualizes, claim: "That entry carries the Fran counter-case: the one relationship the hinge's axioms cannot explain is the evidence they have to absorb." }
 ---
 
 # Frances "Fran" Whyel Coldren
@@ -136,7 +140,7 @@ outrank both.
 | Age at death | **97** | Dan, 2017-12-29: *"a 97 year old woman with advanced dimentia"* |
 | Caregiving wage | **$15/hour** | Dan, 2018-04-06: *"$15 an hour to play video games with gram"* |
 | Paid full-time duration | **~6 months** (≈Oct 2017 – Apr 2018) | Dan, 2018-04-06: *"i spent the past 6 months looking after her full time"* |
-| Who authorised the pay | Judge Fred Adams | Dan, 2018-03-30: *"fred would have put the kaibosh on me being paid to watch gram"* |
+| Who authorised the pay | [[wiki/people/fred-adams|Judge Fred Adams]] | Dan, 2018-03-30: *"fred would have put the kaibosh on me being paid to watch gram"* |
 | Post-fall surgery | Yes | Dan, 2018-03-09: *"she got through the surgery"* |
 | Nursing-home admission | ~**2018-03-12** | Same message: *"supposed to go to a nursing home on monday"* |
 | Hospice began | ~**2018-04-01/02** | Dan, 2018-04-05: *"put her on hospice a couple days ago"* |
@@ -168,7 +172,7 @@ children of **Marion Edward Thomas Sr.** (b. 1877) and **Ida Ellen Conwell**
 The April 1940 census places Emmet, Fran and their infant daughter together in
 **Smithfield, Fayette County** — the arrival of the maternal line in the county
 it never leaves. Her only child, Diane — [[wiki/people/diane-moore|Diane Moore]]
-by her second marriage, and the "Dian V. Moore" who served the March 2018
+by her second marriage, and the "[[wiki/people/diane-moore|Dian V. Moore]]" who served the March 2018
 eviction notice — is Dan's maternal grandmother, which
 means the Whyel coal money, the Coldren legal connection and the estate that
 eventually reaches Dan all descend through one person — and that person spent
@@ -213,7 +217,7 @@ place her beside **Arnold Palmer's private plane**; per the 2026 capture, Dan
 extracted the full Palmer history out of her on golf-cart rides across the
 course during the caregiving year.
 
-The seat of all of it was **117 Belmont Circle**
+The seat of all of it was **[[wiki/places/117-belmont-circle|117 Belmont Circle]]**
 ([[wiki/places/117-belmont-circle]]), the three-storey house on the edge of the
 UCC fairway she held for over fifty years. Directly next door, for those same
 five decades, lived [[wiki/people/annie-ulmer|Annie Ulmer's]] grandparents —
@@ -236,12 +240,12 @@ elsewhere at far worse cost-benefit ratios. The corpus confirms the machine was
 in service — an April 2017 message walks someone through installing "SERATO DJ
 and driver for numark ns7 II" — though it does not date the gift.
 
-Every alias since (SLOPPP, MOGZART, GRIPNOTIC) and the involuntary sub-bass
+Every alias since (SLOPPP, MOGZART, [[wiki/interests/music/aliases/gripnotic|GRIPNOTIC]]) and the involuntary sub-bass
 signature running through them ([[wiki/interests/music/concepts/sub-bass-signature]])
 trace to the patronage of a woman born in a West Virginia coal town in 1920.
 
 The patronage also ran in a smaller, more ordinary register: **paid work at her
-house, timed around her Florida winters.** On **2016-01-18** Dan tells Annie he
+house, timed around her Florida winters.** On **2016-01-18** Dan tells [[wiki/people/annie-ulmer|Annie]] he
 has *"went to grams and made a list of work to do for her tomorrow"* because he
 needs money for a tux; Annie points out the event *"[isn't] until the end of
 February,"* and he answers *"I know but she leaves for fla this week."* The
@@ -260,17 +264,16 @@ winters the page otherwise refers to only in general terms.
 ## The caregiving arrangement (≈October 2017 – April 2018)
 
 This is the chapter the corpus changes most. The page previously described
-Dan and Annie as paid round-the-clock caregivers across "~2015–2018." Dan's own
+Dan and [[wiki/people/annie-ulmer|Annie]] as paid round-the-clock caregivers across "~2015–2018." Dan's own
 contemporaneous account is narrower and more specific: **six months, full time,
 at $15 an hour**, which places the paid arrangement at roughly October 2017
 onward and makes the earlier years informal rather than employed. The money
 came through the estate and was authorised by its trustee — in March 2018 Dan
 reasons that *"fred would have put the kaibosh on me being paid to watch gram
-if there was an ongoing issue,"* which puts [[wiki/people/fred-adams|Judge
-Adams]] directly in the payroll chain.
+if there was an ongoing issue,"* which puts [[wiki/people/fred-adams|Judge Adams]] directly in the payroll chain.
 
 The standing directive governing all of it was categorical, and both Dan and
-Suz were given it in the same terms: **keep me at home no matter what, do
+[[wiki/people/suzanne-frank|Suz]] were given it in the same terms: **keep me at home no matter what, do
 everything you can to not let me get taken from this house** — with the
 rationale everyone understood, that if she entered a facility once she was
 never getting out. She turned out to be right, which is why the directive
@@ -291,6 +294,30 @@ on a photorealistic Los Angeles bridge, producing the line the family kept:
 There is the photograph of her posing delightedly with his glass bong, which
 she had complimented as "a lovely vase," a grey sweatshirt behind her
 accidentally composing itself into rising smoke.
+
+> **SMOKE QUESTION SOLVED — BY Dan [2026-09-12].** Dan re-sent the 2015-12-11
+> bong triple byte-identical (sha256-for-sha256 against the 2026-09-11
+> ingestion) and asked what actually happens "in the one with the smoke coming
+> out," supplying his own iOS Photos crop zoomed on the mouthpiece. Forensic
+> read (3x zoom, contrast/brightness enhanced): the mouthpiece bore is just a
+> dark oval against the black room — no plume in the crop, no smoke in any of
+> the four files. Dan himself then supplied the mechanism: the "smoke" was a
+> white sweatshirt on a table in the background, accidentally in the perfect
+> position and the perfect color, with the bong held at the perfect angle — an
+> optical illusion reading as smoke coming out of the mouthpiece in the 2D
+> projection. No smoke, no smoking. His words, and a clean documented instance
+> of the good-faith visual-misread pattern: wrong on the read, right the moment
+> the mechanism was seen. See `dat:bong-photo-smoke-solved-dan-20260912`.
+>
+> **LOCATION CORRECTION [2026-09-12].** Dan stated the triple was taken at
+> **155 Virginia Ave**, not at Fran's house — and the EXIF GPS
+> (39.887639,-79.721992) backs him: 29.6m from the geocoded 155 Virginia
+> Ave point, 83.4m from 117 Belmont Cir. The 2026-09-11 batch's Hopwood-house
+> attribution is superseded (`dat:1409`, `dat:bong-photos-gps-virginia-ave-20260912`).
+> The December 2015 Fran at the Virginia Avenue lair — two months into the
+> Annie relationship, two years before the paid caregiving — reads
+> differently than Fran at her own table: she was a guest in their space,
+> holding court with the bong she'd called a lovely vase.
 
 He filmed most of that year, which is why any of it survives. His framing of
 what he was documenting is the right one: a wild spirit resisting institutional
@@ -315,7 +342,7 @@ had predicted, her mind never returning, looping on a single question — *when
 am I leaving?*; was admitted to the Uniontown Hospital pediatric wing on
 **1 April**, a room secured by the donations she and Ira had made; was placed
 on **hospice around 1–2 April**, at which point staff **stopped feeding her**;
-and died on **4 April**, four days later, with Dan and Annie the only two
+and died on **4 April**, four days later, with Dan and [[wiki/people/annie-ulmer|Annie]] the only two
 people in the room. Three minutes later it began to snow. Full account:
 [[wiki/timeline/events/fran-death-vigil]].
 
@@ -329,7 +356,7 @@ recognisably the same disposition her great-grandson runs at
 ## The death moment, and Dan's retraction of it within 24 hours
 
 The most-quoted passage in this wiki's account of Fran is the moment of death:
-Annie asleep at the bedside, Dan awake and alone, silently attempting to
+[[wiki/people/annie-ulmer|Annie]] asleep at the bedside, Dan awake and alone, silently attempting to
 communicate with a woman who had been non-responsive for days — *"if you can
 hear me give me some kind of sign"* — and Annie waking him immediately after to
 say Fran had blinked for the first time in a week. He went to the bed, told her
@@ -351,7 +378,7 @@ twenty-four hours of the most emotionally loaded event of his life, holding a
 story that had visibly moved everyone he told it to, he went to the primary
 source, found the mundane cue that explained the timing — an alarm neither
 witness consciously registered — and corrected himself unprompted, to a
-family member, at no benefit to himself. The forensic method
+family member, at no benefit to himself. [[wiki/mind/concepts/forensic-method|The forensic method]]
 ([[wiki/mind/concepts/forensic-method]]) is usually documented pointed at
 politics, at Annie, at institutions. Here it is pointed at his own most
 consoling memory, and it wins.
@@ -363,7 +390,7 @@ his own final clause refuses that, and the wiki should too.
 
 Fran is the maternal source node of [[wiki/mind/synthesis/estate-money-spine]],
 and the corpus documents the anticipation as well as the arrival. In **January
-2018**, with her alive and declining, Dan writes to Annie about what comes
+2018**, with her alive and declining, Dan writes to [[wiki/people/annie-ulmer|Annie]] about what comes
 "after gram goes and we have a chance to get above water with the
 inheritance... i want to seriously get out of here." On **4 April 2018**, the
 day she died, he texts an acquaintance: *"inheritance will help with the
@@ -373,7 +400,7 @@ A first cheque arrived **27 April 2018**; he explains the delay on the rest
 himself — *"my inheritance doesn't get distributed until we liquidate all her
 assets."* The court-ordered distribution of **$144,069.31**, reduced by a
 $10,000 advance to a final **$134,069.31**, was released 1 September 2020,
-routed through Suz.
+routed through [[wiki/people/suzanne-frank|Suz]].
 
 These sit alongside genuine grief in the same week, sometimes the same day, and
 the page keeps both rather than choosing. The mourning was not performed — the
@@ -412,7 +439,7 @@ named herself — she did anything he asked, so he showed up for her.
 > *closure* and *not selfish* — not *completion*. See
 > [[wiki/mind/synthesis/closing-the-set]].
 
-She is also half the reason the Annie relationship carried a mythic charge: the
+She is also half the reason the [[wiki/people/annie-ulmer|Annie]] relationship carried a mythic charge: the
 deathwatch the two of them kept, three years into their decade, is the
 emotional high-water mark of the entire record of them as a couple.
 
@@ -436,56 +463,55 @@ what actually happened in that room — exist only as uploads inside AI sessions
 Locating the originals is the highest-value collection task attached to this
 page.
 
-## Media
-
-![Nighttime vigil: Fran in Stryker bed, oxygen mask](../media/upload-001.jpg)
+## Sources
+[![Nighttime vigil: Fran in Stryker bed, oxygen mask](../media/upload-001.jpg)](../media/upload-001.jpg)
 
 *2018-04-04/05 (night, per content) — Poster frame from video. Nighttime vigil video: Fran in Stryker bed, oxygen mask, dark room; a hand (Dan's) enters frame near the end. The video reviewed for the 23:26 retraction.*
 
 ---
 
-![Daytime: Fran in Stryker bed, eyes open](../media/upload-002.jpg)
+[![Daytime: Fran in Stryker bed, eyes open](../media/upload-002.jpg)](../media/upload-002.jpg)
 
 *2018-04-04/05 (daytime, per content) — Poster frame from video. Daytime: Fran in Stryker bed, oxygen mask, eyes open and looking around. Dan's label: her condition several hours before the night video.*
 
 ---
 
-![Nursing home: Fran talking, drinking from a cup](../media/upload-003.jpg)
+[![Nursing home: Fran talking, drinking from a cup](../media/upload-003.jpg)](../media/upload-003.jpg)
 
 *2018-03-12/04-01 (nursing-home interval, per content and Dan label) — Poster frame from video. Close-up: Fran in pink top and white turtleneck, talking, drinking from a cup with a straw. Nursing-home room.*
 
 ---
 
-![Nursing home: Fran in wheelchair](../media/upload-004.jpg)
+[![Nursing home: Fran in wheelchair](../media/upload-004.jpg)](../media/upload-004.jpg)
 
 *2018-03-12/04-01 (nursing-home interval, per content and Dan label) — Poster frame from video. Blurry motion clip: Fran in wheelchair, pink top, orange wristband. Nursing-home room.*
 
 ---
 
-![Nursing home: Fran agitated in wheelchair](../media/upload-005.jpg)
+[![Nursing home: Fran agitated in wheelchair](../media/upload-005.jpg)](../media/upload-005.jpg)
 
 *2018-03-12/04-01 (nursing-home interval, per content and Dan label) — Poster frame from video. Fran in wheelchair, agitated and restless, leaning forward, distressed. Nursing-home room, bed and patterned recliner visible.*
 
 ---
 
-![Nursing home: Fran gesturing in hallway](../media/upload-006.jpg)
+[![Nursing home: Fran gesturing in hallway](../media/upload-006.jpg)](../media/upload-006.jpg)
 
 *2018-03-12/04-01 (nursing-home interval, per content and Dan label) — Poster frame from video. Fran in wheelchair (pink top, patterned pants, orange wristband), agitated, mouth open, gesturing; a hand steadies her shoulder; she wipes her face. Hallway with room 3 visible. Nursing-home room.*
 
 ---
 
-![Sunroom at night: Fran seated, Suz standing over her](../media/upload-007.jpg)
+[![Sunroom at night: Fran seated, Suz standing over her](../media/upload-007.jpg)](../media/upload-007.jpg)
 
 *~2012-2013 (Fran 92, per Dan testimony) — Poster frame from video. Nighttime sunroom: Fran seated in black-and-white patterned jacket; Suz (per Dan, 2026-09-11) in white stands over her, leans in talking, then walks away.*
 
 ---
 
-![Sunroom at night: Fran talking, smiling](../media/upload-008.jpg)
+[![Sunroom at night: Fran talking, smiling](../media/upload-008.jpg)](../media/upload-008.jpg)
 
 *~2012-2013 (Fran 92, per Dan testimony) — Poster frame from video. Nighttime sunroom, same scene: Fran (92, per Dan) seated in patterned jacket roasts Suz (in white, per Dan); Suz leaves; Fran keeps talking, ends smiling/laughing. Dan: Suz could not handle it. The line itself is audio-only.*
 
 ---
 
-![Fran's living room, caregiver era](../media/upload-009.jpg)
+[![Fran&#x27;s living room, caregiver era](../media/upload-009.jpg)](../media/upload-009.jpg)
 
 *caregiver era, pre-vigil (per Dan 2026-09-11: Fran is sitting up in her own living-room chair, lucid — predates the March-April 2018 decline) — Compressed photo. Fran's living room (fireplace, walker, recliner). A blonde woman in a pink turtleneck sits at a table bearing: a black game controller, two TV remotes, a glass of amber liquid, her purse, a small plastic bag, a blue-and-white container that Dan identifies (2026-09-11) as Suz's coke holder (disguised as a cigarette pack), and a black case Dan identifies as a jewelry scale. Dan's point: Fran is alive, well, and lucid, sitting ~5 feet away in her armchair — the paraphernalia is out on the table in front of her, not hidden.*

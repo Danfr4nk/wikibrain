@@ -116,7 +116,9 @@ contemporaneous.
 
 Day-to-day, the recovered emails show a normal office job: covering for
 migraines and doctor's appointments (a recurring pattern — July, September,
-October, November 2011, January 2012), coordinating client relationships
+October, November 2011, January 2012; the emails do not settle whether these
+were his own absences or colleagues' — [[wiki/mind/concepts/institutional-out]]
+treats this as direction-ambiguous evidence), coordinating client relationships
 with **Walmart** (Simona Rabsatt) and **Molson Coors** (Lori Estabrooks),
 helping prep a colleague ("Aatish") for speaking appearances, and once
 helping the company track down a departed employee, "Lisa," to arrange the

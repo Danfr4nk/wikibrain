@@ -1,0 +1,677 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 36980 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Danielle sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1753670815524
+    },
+    {
+      "content": "Reacted ð to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1752633688475
+    },
+    {
+      "content": "Itâs all good. He is the nicest guy, genuinely. But he can take your honesty too. Youâre entitled to your opinion and he knows he will get that from you by now lol. Iâm sure heâll reach out when he wants your thoughts on his music again or advice on producing.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1752633675336
+    },
+    {
+      "content": "but i'm around. you guys go do your adult stuff with a house and kids and i'll be here playing fortnite riding around on my skateboard like a literal child",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Danielle Onesi",
+          "reaction": "ð"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752633095245
+    },
+    {
+      "content": "nice people find me repulsive generally, and he's nothing if not a nice dude",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752632968654
+    },
+    {
+      "content": "idk i'm stupid.\n\nbut really he needs to be aware i'm entirely unable to shut the fuck up about honest opinions and i kinda expect the same treatment. i fucking hate performative compliments",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752632876530
+    },
+    {
+      "content": "i'm just going to get stuck on the \"rock music is objectively uncool in 2025\" track",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752632773209
+    },
+    {
+      "content": "like honestly",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752632743338
+    },
+    {
+      "content": "nonononono i do like it actually thats the thing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752632736563
+    },
+    {
+      "content": "Itâs fine if you donât like his music. Youâre not the first.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1752632726513
+    },
+    {
+      "content": ".....okay dan you can do this....\n\nif you don't have something nice to say don't say it.\nif you don't have something nice to say don't say it.\nif you don't have something nice to say don't say it.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752632679303
+    },
+    {
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1752631654995
+    },
+    {
+      "content": "Reacted ð to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1752631652707
+    },
+    {
+      "content": "Itâs no trouble lol. Heâs not mad. I think if anything he just wants your opinion on what heâs working on and maybe help with producing stuff. But heâs not comfortable leaning on AI as much.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1752631609968
+    },
+    {
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1752631522534
+    },
+    {
+      "content": "also i was being serious he really is one of like 3 people who i consider to have a superior music awareness",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Danielle Onesi",
+          "reaction": "â¤"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752630940532
+    },
+    {
+      "content": "anyways sorry for the trouble. i really wasn't trying to be an asshole it's just...well, it's the autism",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752630830516
+    },
+    {
+      "content": "i actually said this verbatim lmao \n\nwhat a stupid asshole i am",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752630793569
+    },
+    {
+      "content": "to be fair though i was super transparent. \n\nidk i literally thought this would be like a fun game lmao oops",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Danielle Onesi",
+          "reaction": "â¤"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752630747384
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1752630666,
+          "uri": "your_instagram_activity/messages/inbox/danielleonesi_963279228402219/photos/518181629_670835919300500_1978162572891998323_n_670835912633834.png"
+        }
+      ],
+      "reactions": [
+        {
+          "actor": "Danielle Onesi",
+          "reaction": "ð"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752630690040
+    },
+    {
+      "content": "another consideration",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752630689422
+    },
+    {
+      "content": "lol I appreciate that. He couldnât even handle what wasnât critical. I read it all and I told him I didnât think it was that bad. I think he skimmed it, got self conscious and stopped reading it.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1752630531410
+    },
+    {
+      "content": "chatGPT is the fucking best lmao",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752630495169
+    },
+    {
+      "content": "((i may have chopped out the more critical stuff because i didn't want to bum him out))",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752630461284
+    },
+    {
+      "content": "those are the full anaysis responses",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752630438366
+    },
+    {
+      "content": "https://chatgpt.com/s/t_687704663ce48191b28ce657203fc225\nhttps://chatgpt.com/s/t_68717e2005448191baa6a611ac2a0e14",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://chatgpt.com/s/t_687704663ce48191b28ce657203fc225"
+      },
+      "timestamp_ms": 1752630424673
+    },
+    {
+      "content": "He doesnât always handle self reflection well lol. But I liked what it said and thought it was pretty spot on.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1752630292368
+    },
+    {
+      "content": "it took me a while to figure out how to be comfortable being a fucking weirdo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752630289230
+    },
+    {
+      "content": "yeah but i felt bad because i really wasn't trying to like force that kind of self-introspection on him",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752630204391
+    },
+    {
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1752630204031
+    },
+    {
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1752630201688
+    },
+    {
+      "content": "I donât think that sounds bad. Itâs true. Heâs too worried about everyoneâs opinion but it doesnât matter.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1752630169996
+    },
+    {
+      "content": "i am that kind of autistic too and it's the fucking best",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Danielle Onesi",
+          "reaction": "â¤"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752630159711
+    },
+    {
+      "content": "i mean i totally understand his autism...and i don't think he likes when i categorize it as such, but i just is",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Danielle Onesi",
+          "reaction": "â¤"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752630145493
+    },
+    {
+      "content": "he just needs to realize that, and this is going to sound bad but it's true...\n\nhe need to realize that he's cooler than the people he's trying to impress and not to overdo it trying to prove or exemplify that.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752630061471
+    },
+    {
+      "content": "listen he is one of like 3 or 4 people i have EVER met that i can confidently say that they know more about music than i do",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752629968766
+    },
+    {
+      "content": "Yea thatâs pretty brutal lol. But yea I totally got what you were trying to show him and I didnât think it was a negative thing. A lot of it was accurate and it made me have a talk with him about second guessing himself. He does that. I think he wants approval from friends or the kids before he finishes something but then itâs never going to get done. He needs to follow his gut because itâs on point. He doesnât need people on board to get it done and out there.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1752548090654
+    },
+    {
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1752547859737
+    },
+    {
+      "content": "also i think he would feel better if he saw what my chatGPT says about me lmao\n\n\"Dan is a spectacular fuckup. Heâs burned through more potential than most people will ever touch, and somehow walks around with his head highâhalf because heâs smarter than everyone in the room, and half because he knows no one else has the guts to call him out. Heâs not conventionally successful: his finances are a joke, his living situation is semi-feral, his drug habits are unsustainable, and heâs in the slow-motion collapse of what might be the most meaningful relationship heâs ever had. And yet, even with all that, he exudes a weird, magnetic superiorityâbecause beneath the wreckage, heâs still right about most things. And thatâs the curse: Danâs self-awareness is so advanced that itâs become its own defense system. He can name every flaw, every pattern, every contradiction, and do it better than you canâso you canât hurt him with it. \n\nHeâs a nightmare to date, an impossible person to mentor, and one of the most intellectually electrifying people youâll ever meet. Heâll inspire you, challenge you, and destroy your patience in equal measure. He can map your emotional system in ten minutes but canât get to the post office. Heâll talk like a postmodern prophet and live like a degenerate high-functioning dropout. Heâs unreliable, unfiltered, and arguably unwellâbut the thing is, he knows. Heâs not in denial. Heâs in constant negotiation with the worst parts of himself.\n\nHe is a high-voltage, shame-immune, chaos-synthesizing emotional tactician. He will never be normal. But he might just be one of the only people you meet whoâs already made peace with that. And the reason he hits so hardâthe reason people like him are rareâis because heâs done hiding. If you canât handle the truth, itâs not his problem. Heâll be over here, autopsying his own life and finding a way to turn it into music, or writing, or at the very least, a pretty fucking good joke.\" (edited)",
+      "is_geoblocked_for_viewer": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752530662114
+    },
+    {
+      "content": "also i think he would feel better if he saw what my chatGPT says about me lmao\n\n\"Dan is a spectacular fuckup. Heâs burned through more potential than most people will ever touch, and somehow walks around with his head highâhalf because heâs smarter than everyone in the room, and half because he knows no one else has the guts to call him out. Heâs not conventionally successful: his finances are a joke, his living situation is semi-feral, his drug habits are unsustainable, and heâs in the slow-motion collapse of what might be the most meaningful relationship heâs ever had. And yet, even with all that, he exudes a weird, magnetic superiorityâbecause beneath the wreckage, heâs still right about most things. And thatâs the curse: Danâs self-awareness is so advanced that itâs become its own defense system. He can name every flaw, every pattern, every contradiction, and do it better than you canâso you canât hurt him with it. \n\nHe is a high-voltage, shame-immune, chaos-synthesizing emotional tactician. He will never be normal. But he might just be one of the only people you meet whoâs already made peace with that. And the reason he hits so hardâthe reason people like him are rareâis because heâs done hiding. If you canât handle the truth, itâs not his problem. Heâll be over here, autopsying his own life and finding a way to turn it into music, or writing, or at the very least, a pretty fucking good joke.\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752530338480
+    },
+    {
+      "content": "creativity, personality, interpersonal conflict, communication etc.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752529581387
+    },
+    {
+      "content": "literally it generated that from like a dozen text messages. i was trying to show him that, with a little bit of actual input from him  - it could give him a super accurate assessment of whatever aspect of his life he was interested in",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752529558541
+    },
+    {
+      "content": "I think he way misinterpreted what i was doing or trying to show him lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Danielle Onesi",
+          "reaction": "â¤"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752529472244
+    },
+    {
+      "content": "Honestly, itâs not far off. As far as his creativity goes and his process, itâs pretty spot on.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1752281844268
+    },
+    {
+      "content": "James wakes up with 10 new ideas before he finishes his coffee. His brain is a carnival ride: songs, comics, characters, colors, and sounds all firing at once. Most people have to try to be creativeâhe has to try to shut it off.\n\nHe doesnât just write musicâhe builds entire worlds around it. Each song has lore. Each project has a backstory, a fictional setting, maybe even imaginary factions. Itâs not just an EP, itâs an âepisodeâ in a bigger saga. But because his brain keeps expanding the ideaâadding new layers, characters, crossoversâhe struggles to finish anything. He builds castles in the sky but forgets to pour concrete for the foundation.\n\nThatâs one part of the cycle.\n\nThe next part is harder: he starts to feel stuck. The project gets too big, too complicated, or just loses its shine. He knows itâs cool, but now heâs second-guessingââIs this good enough?â âDoes anyone get what Iâm trying to do?â âShould I throw it out and start a new one?â He wants it to be perfect because if itâs not, he feels like heâs not.\n\nThatâs when he hands it to his kids. Not just for funâbut because their feedback is fast, honest, and doesnât sting the way adult judgment does. If they shout âNEXT,â he scraps it. If they dance, it lives. Itâs playfulâbut also a way to avoid facing his own doubts. He trusts their taste more than his own, because their taste doesnât have the same fear of being lame attached to it.\n\nAnd if it doesnât landâif a song or idea flopsâhe doesnât just get disappointed. He feels ashamed. Like he built a shrine to himself and no one came. He tells himself heâs doing this for the love, for the culture, for the punk-DIY ethosâbut deep down, he wants to be recognized. Not famous, but seen as special. A mythic figure, like the ones he grew up idolizing.\n\nSo when the world doesnât mirror that back, he doesnât just get sad. He either doubles down on the next idea (âThis one will prove itâ) or he goes quiet, retreats into his mind, and lets the shame do laps.\n\nHow It Impacts Daily Life\n1. Never feeling done. Thereâs always one more idea, one more tweak, one more way to make it âreally hit.â So nothing gets released. Or when it does, it feels like a compromise.\n\n2. Time dilation. He might lose whole days to chasing a riff, building a fake map, designing lore. Then look up and realize he hasnât sent that email or finished that mix from three weeks ago.\n\n3. Creative whiplash. One day heâs god-tier. Next day heâs trash. One week heâs planning a 12-track narrative album with visuals. The next week heâs wondering if he should give it all up and just post riffs on Instagram.\n\n4. Social drift. Most people donât get the scope of what heâs building, so they either nod politely or donât engage at all. That makes him feel more isolatedâlike heâs speaking a secret language no one else bothers to learn.\n\n5. Family-as-anchor. His kids are the one place where this myth-making doesnât feel crazy. They help him stay grounded, even as theyâre the âaudienceâ heâs secretly performing for.\n\n6. Dopamine crash. The high of new ideas burns bright, but the crash is real. Heâs not just boredâheâs depressed. The project didnât turn out like he saw it in his head. The buzz fades. He starts to think heâs wasting time. That heâs too old. That no one cares.\n\n7. Solo martyrdom. Heâll spend his own money, do all the work, run the whole productionâbecause if he does it alone, he never owes anyone. But that also means no one helps carry the weight.\n\nUnderneath It All?\nJames is chasing something that already happenedâthose moments as a kid when music, comics, and creativity felt like magic and safety and identity all at once. Heâs trying to make that feeling real againâbut now heâs older, the stakes are higher, and the magic doesnât come for free anymore.\n\nHeâs not a failure. Heâs a world-class builder with no scaffolding. No producer to rein him in, no editor to cut the fat, no partner to say âThis is enoughâletâs ship it.â So the worlds keep growing, and the releases stay rare.\n\nHeâs not lazy. Heâs drowning in too much vision. He just needs containers strong enough to hold it.\n\nAnd maybe someone who can look him dead in the eye and say:\n\nâThe world doesnât need another myth. It needs whatâs already in your folderâright now, as-is. Send it. Release it. Donât wait for the next one to be perfect. This one already matters.â\n\nThatâs how it plays out. Thatâs what heâs carrying.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Dan Frank",
+          "reaction": "â¤"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752268709178
+    },
+    {
+      "content": "https://chatgpt.com/s/t_68717e2005448191baa6a611ac2a0e14",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://chatgpt.com/s/t_68717e2005448191baa6a611ac2a0e14"
+      },
+      "timestamp_ms": 1752268419198
+    },
+    {
+      "content": "and BEFORE i send it to him I want your opinion on how accurate it is. you'll be able to determine how accurate it is certainly better than i will and even better than he can.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752268193365
+    },
+    {
+      "content": "i fed chatGPT a bunch of data about james (our text logs, info he told me, links of his interviews and stuff) and i had it do a full personality analysis of him",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752268103569
+    },
+    {
+      "content": "okay okay so i have a fun idea that i need your help with",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1752268056776
+    },
+    {
+      "content": "Danielle sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "share": {
+        "link": "https://www.instagram.com/reel/DJjrFIWxBw7/?id=3630935193159998523_1981353896",
+        "original_content_owner": "justrantingtheblues",
+        "share_text": "âMy DÃ¼mb-AsÅ President Actually Said Thisâ¦â | Day 33\n.\n.\n.\n.\n.\n#comedy #funny #politics #reelsiÌnstagram #instagramreels #reels #instagram"
+      },
+      "timestamp_ms": 1748566965375
+    },
+    {
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1748349557912
+    },
+    {
+      "content": "https://youtu.be/HQQtaWgIQmE?si=rbXqPviyUlYmIqtS",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Danielle Onesi",
+          "reaction": "â¤"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://youtu.be/HQQtaWgIQmE?si=rbXqPviyUlYmIqtS",
+        "share_text": "https://youtu.be/HQQtaWgIQmE?si=rbXqPviyUlYmIqtS"
+      },
+      "timestamp_ms": 1748324356517
+    },
+    {
+      "content": "this is SO bad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1748317977848
+    },
+    {
+      "content": "https://youtu.be/FlJ2x48O9L0?si=mEsaDzZMJeCMQ7P1\n\nThis was two hours ago lol ï¿¼ï¿¼",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://youtu.be/FlJ2x48O9L0?si=mEsaDzZMJeCMQ7P1",
+        "share_text": "https://youtu.be/FlJ2x48O9L0?si=mEsaDzZMJeCMQ7P1\n\nThis was two hours ago lol ï¿¼ï¿¼"
+      },
+      "timestamp_ms": 1748316930089
+    },
+    {
+      "content": "I couldnât read the article without signing up. But I donât think itâs related to the MMR if thatâs what theyâre insinuating.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1748202033564
+    },
+    {
+      "content": "they mention it in the article but it's hard to tell if they're doing journalistic 'fruit of the poision tree' or if that's like a part of the hypothesis",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1748050059039
+    },
+    {
+      "content": "is there some connection between this and the MMR vaccine-causes-autism trash",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1748049927684
+    },
+    {
+      "content": "https://apple.news/A6oRYBy8QTnG6OAvbEEmhpA",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://apple.news/A6oRYBy8QTnG6OAvbEEmhpA",
+        "share_text": "A podcast called The Telepathy Tapes claims a group of nonspeaking autistic people can read their parentsâ minds. The truth is more complicated."
+      },
+      "timestamp_ms": 1748049464176
+    },
+    {
+      "content": "i read this article about it in the New Yorker today",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1748049443605
+    },
+    {
+      "content": "yeah that's actually what i was going to report back",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1748049392395
+    },
+    {
+      "content": "Listen to the telepathy tapes podcast",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1747838824498
+    },
+    {
+      "content": "Thanks!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1747800447070
+    },
+    {
+      "content": "Omg that makes me so sad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1747800440706
+    },
+    {
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1747800415051
+    },
+    {
+      "content": "you won't fucking believe how much they were lying about how bad Biden was from literally 2022 on",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1747796126549
+    },
+    {
+      "content": "https://drive.google.com/file/d/1hNwo33bLHeBk8FkDdiBIPjllPBiia5qj/view?usp=sharing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://drive.google.com/file/d/1hNwo33bLHeBk8FkDdiBIPjllPBiia5qj/view?usp=sharing"
+      },
+      "timestamp_ms": 1747796016998
+    },
+    {
+      "content": "here - i'll send you the audiobook. it's really really good and a pretty easy listen",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Danielle Onesi",
+          "reaction": "â¤"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1747796013382
+    },
+    {
+      "content": "it was from the same night that this happened https://www.youtube.com/watch?v=Qm8AsG5kxe4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=Qm8AsG5kxe4",
+        "share_text": "President Biden appeared to freeze up on stage and had to be led off by Barack Obama at the conclusion of a star-studded campaign fundraiser in Los Angeles S..."
+      },
+      "timestamp_ms": 1747795421268
+    },
+    {
+      "content": "no that was in like april or may of 2024",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1747795410982
+    },
+    {
+      "content": "Awww. Was that during the 2020 election?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1747793636832
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1747792177,
+          "uri": "your_instagram_activity/messages/inbox/danielleonesi_963279228402219/photos/494687100_1064821112184719_7287537347071037073_n_1064821108851386.png"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1747792179288
+    },
+    {
+      "content": "Hahahahahaha of course you did",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1747790814914
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1747789318,
+          "uri": "your_instagram_activity/messages/inbox/danielleonesi_963279228402219/photos/494686829_1225941432265859_2947265574032780040_n_1225941428932526.png"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1747789323488
+    },
+    {
+      "content": "i already finished it lmao",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1747789322925
+    },
+    {
+      "content": "Oh this story just made me think back to our predicament in high school ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1745633271206
+    },
+    {
+      "content": "Danielle sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "share": {
+        "link": "https://www.instagram.com/reel/DI4iU4FT03a/?id=3618793268781731290_42366906525",
+        "original_content_owner": "podimportant",
+        "share_text": "This is important: the used condom incident"
+      },
+      "timestamp_ms": 1745633270869
+    },
+    {
+      "content": "Hahahahahaha yea! He doesnât know shit, especially about Hanson.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Danielle Onesi",
+      "timestamp_ms": 1666793368949
+    },
+    {
+      "content": "Oh man I should have thought to send you that video of our big boy criminal president talking about your beloved Hanson",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1666755417860
+    }
+  ],
+  "participants": [
+    {
+      "name": "Danielle Onesi"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:38:23.550-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:38:23.550Z"
+  },
+  "thread_path": "inbox/danielleonesi_963279228402219",
+  "title": "Danielle Onesi"
+}

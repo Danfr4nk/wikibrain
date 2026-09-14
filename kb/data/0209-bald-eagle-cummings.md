@@ -41,3 +41,57 @@ girlfriend ordering, and the named ski crew. If the capture is accurate,
 three other pages gain grounding; if it is misremembered, they inherit the
 error. That leverage is what makes the low-confidence filing important
 rather than ignorable.
+
+## Addendum 2026-09-12: Facebook channel exhausted, not just unexamined
+
+Work item wb-0027 (evidence_recruitment, run 2026-09-12) executed the search
+this node said nobody had done: the full text of the June-2026 Facebook export
+(407 message files / 15,923 messages spanning 2007–2022, own posts, photo
+metadata, albums, notifications, search history) was searched for "bald eagle"
+and variants ("baldeagle", "bald-eagle"). Zero hits — recorded as
+`dat:1474-bald-eagle-cummings-nickname-exhaustive-negative-search-of-t`. The same
+pass confirmed corpus-wide that "Britney Bolen" and "Victor Fiano" appear
+nowhere in ~/workspace/user/files outside the wiki page itself.
+
+Epistemic effect: this is a **narrowing, not a falsification**. A nickname used
+in 2000–01 among middle-schoolers was never likely to surface in Facebook text
+from 2007 onward, so the negative result moves confidence in neither direction.
+What changes is the status of the gap: "a year of school-wide use should have
+left traces in the 2007-era Facebook archive; nobody has looked" is now
+"someone looked; the Facebook channel is exhausted." The nickname remains
+single-source. The low-confidence filing stands.
+
+## Addendum 2026-09-13: message-corpus test of the ski-crew anchor (1 of 3 corroborated)
+
+Work item work-0042 (cross_reference, run 2026-09-13) executed the second
+checkable anchor this node named: the full message corpus
+(raw/imessage/messages-part1-2011-2019.csv + messages-part2-2019-2026.csv)
+was searched for friedline/brannan/"jon allen" against
+ski|7springs|seven springs|snowboard. Recorded as
+`dat:1500-jerad-friedline-ski-crew-corpus-corroboration-20260913`.
+
+**HIT — Jerad Friedline.** Dan's own message, 2026-04-22 (message_id
+220140): "this is my friend jerad friedline. he is one of my best friends
+who i've known since high school when i would go to my family's ski condo
+every weekend at 7springs and he is one of my Latrobe friends..." This
+corroborates the named anchor directly (Friedline met through skiing) and
+the capture's wider claim alongside it ("most of my best friends were not
+from Laurel Highlands where i went to school, but from skiing at 7Springs"
+— Friedline is framed as a Latrobe friend, not a Laurel Highlands
+schoolmate). The capture's "met through skiing" is now two-source:
+retrospective capture + contemporaneous self-testimony.
+
+**MISS — Josh Brannan.** 8–10 corpus mentions, zero ski-linked. Contexts
+are the Brannan-family joke thread, an 8th-grade couch anecdote, and a
+2005 Honda wreck. None falsify "met through skiing"; none attest it.
+
+**MISS — Jon Allen.** 2 mentions ("is jon allen #MAGA", 2020-02-04; "Jon
+Allen who spent tens of thousands of dollars and 4 years of college",
+2021-01-28), neither ski-linked, and the corpus cannot establish this is
+the same Jon Allen the capture names.
+
+Epistemic effect: the ski-crew anchor moves from fully single-source to
+**partially corroborated (1 of 3)**. The Friedline leg is now the
+best-evidenced name in the capture's anchor set; Brannan and Jon Allen
+remain unattested, not falsified. The low-confidence filing on the
+incident itself stands — this test touched the anchor, not the event.

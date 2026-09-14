@@ -1,0 +1,26 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 366 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "profile_friend_map": [
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Incoming requests": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        },
+        "Outgoing requests": {
+          "href": "",
+          "timestamp": 0,
+          "value": ""
+        }
+      },
+      "title": ""
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:22:58.378-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:22:58.378Z"
+  }
+}

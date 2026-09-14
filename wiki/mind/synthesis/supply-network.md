@@ -1,6 +1,7 @@
 ---
 domain: mind
 page_type: synthesis
+title: "The Supply Network"
 status: active
 knowledge: earned
 date_created: 2026-07-18
@@ -122,6 +123,9 @@ connections:
   - page: wiki/mind/synthesis/the-deferred-audit
     type: parallels
     claim: "This page's reliability inversion is the domain-general audit-timing rule that page states, run on suppliers specifically: Tom already appears on that page's own two-clocks table as a chosen object whose model was revised only after an eighteen-year lag, and Menore's professional distance is the imposed-object case run on the same market."
+  - { target: "[[wiki/mind/synthesis/attachment-trauma-bond]]", type: corroborates, claim: "The terminal-phase supplier-seat finding — Dan controlling supply as the relationship's last structure — is the trauma-bond page's logistical-tether section at ledger resolution." }
+  - { target: "[[wiki/mind/synthesis/dan-annie-fallout-verdict]]", type: contextualizes, claim: "The fallout verdict names Dan's supply-chain control as his co-authored contribution to the catastrophe; this page is the fifteen-year procurement architecture that finding rests on." }
+  - { target: "[[wiki/mind/synthesis/august-26-block-retraction]]", type: references, claim: "The Aug-27–Sep-7 daily texting the retraction forensically establishes ran on this network's final configuration — five handoffs in six days after the June 1 closure — so the severance-that-wasn't left no operational gap in the procurement channel either." }
 ---
 
 # The Supply Network
@@ -174,7 +178,7 @@ the substance was for.
 The network has never had more than a few active nodes, and its history
 is a chain of successions rather than an open market. The primary
 sources name the spine directly: Johnny (2018-era dealer), then Tim,
-then Tom as primary strip source by 2025, with Suz facilitating Cash App
+then Tom as primary strip source by 2025, with [[wiki/people/suzanne-frank|Suz]] facilitating Cash App
 transfers along the way.
 
 | Node | Era | Territory | Role |
@@ -223,8 +227,7 @@ be really happy"* (23:45). Whether that $200 was Dan's own money is disputed
 [[wiki/people/suzanne-frank]] rather than settled here.
 
 Extending the succession earlier than previously documented, a 2015
-Facebook Messenger export dates [[wiki/people/zachariah-harshman|Zach
-Harshman]]'s supply role to 2014, three years before the
+Facebook Messenger export dates [[wiki/people/zachariah-harshman|Zach Harshman]]'s supply role to 2014, three years before the
 Johnny/Teddy era — the earliest dated Uniontown node on record, and
 one that ends in the same friction the later nodes would repeat: not
 a supply failure, but a friendship rupture (Dec 23, 2015) that happens
@@ -396,7 +399,7 @@ a heroin overdose on or about **April 11, 2017**, eight weeks after the
 thread's last message. He is the network's only documented fatality.
 
 What makes it load-bearing for this page rather than merely sad is Dan's
-account of what the trading had been *for*. Written to his father the evening
+account of what the trading had been *for*. Written to [[wiki/people/rick-frank|his father]] the evening
 Jay died: "I tried to help him. I talked to him about Suboxone, and told him
 how it helped me finally get out of that world. He went to the doctor and
 sold his prescription for heroin. At that point, there's nothing anyone else

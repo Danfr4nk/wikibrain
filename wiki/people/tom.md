@@ -1,6 +1,7 @@
 ---
 domain: people
 page_type: entity
+title: "Tom Maison"
 status: active
 date_created: 2026-06-22
 date_modified: 2026-08-26
@@ -64,13 +65,14 @@ connections:
   - page: wiki/work/tech/max-framework/overview
     type: evidences
     claim: "This page is the resolution to a question MAX_PRIME.md (April 2026) flagged as [UNRESOLVED]: whether the drug-supply contact at +17249987341 and the platonic anchor 'Tom Maison' named in session memory were the same person. One page, one number, one role — they are."
+  - { target: "[[wiki/mind/synthesis/the-curse]]", type: documents, claim: "The May 2026 no-show is the curse's Case 3 structure-3 failure — the friendship/supply collapse." }
 ---
 
 # Tom
 
 ## Identity
 
-Tom Maison — Dan's primary male ally and, for most of the corpus, the clearest instance of safe, lateral (peer, non-paternal) attachment in the record — the positive-case exhibit for [[wiki/mind/synthesis/vertical-authority-skepticism|the lateral-trusted, vertical-suspect split]] that structures Dan's relationship to authority generally. He is also the "Tom" of the October 2024 incident referenced on [[wiki/people/annie-ulmer]]: a participant, alongside Dan and Annie, in the couple's established quasi-non-monogamous arrangement (2018–2024) — the dossiers' final assessment revises that encounter from apparent coercion to exhaustion-within-an-established-consensual-framework, with Tom as one of the recurring participants Dan selected specifically because he was a friend he could manage the aftermath with; full arrangement context at [[wiki/mind/psychosexual/arrangement-history]]. About three weeks older than Dan, based in the Pittsburgh area, with Ohiopyle excursions a recurring shared setting. He functions simultaneously as anchor and supply line (Suboxone, mushrooms, cocaine, klonopin), and was described, through most of the record, as "the one place Dan is not performing." The friendship dates to roughly 2010. Handle +17249987341 (~4,160 messages in the master dump; a further ~1,600 under phloxenheim@gmail.com). Tom is also the connective tissue to [[wiki/people/kristin]], whose intense late-2025 thread runs through his social circle.
+Tom Maison — Dan's primary male ally and, for most of the corpus, the clearest instance of safe, lateral (peer, non-paternal) attachment in the record — the positive-case exhibit for [[wiki/mind/synthesis/vertical-authority-skepticism|the lateral-trusted, vertical-suspect split]] that structures Dan's relationship to authority generally. He is also the "Tom" of the October 2024 incident referenced on [[wiki/people/annie-ulmer]]: a participant, alongside Dan and Annie, in the couple's established quasi-non-monogamous arrangement (2018–2024) — the dossiers' final assessment revises that encounter from apparent coercion to exhaustion-within-an-established-consensual-framework, with Tom as one of the recurring participants Dan selected specifically because he was a friend he could manage the aftermath with; full arrangement context at [[wiki/mind/psychosexual/arrangement-history]]. About three weeks older than Dan, based in the Pittsburgh area, with Ohiopyle excursions a recurring shared setting. He functions simultaneously as anchor and supply line (Suboxone, mushrooms, [[wiki/health/cocaine|cocaine]], klonopin), and was described, through most of the record, as "the one place Dan is not performing." The friendship dates to roughly 2010. Handle +17249987341 (~4,160 messages in the master dump; a further ~1,600 under phloxenheim@gmail.com). Tom is also the connective tissue to [[wiki/people/kristin]], whose intense late-2025 thread runs through his social circle.
 
 **The characterization above no longer holds without qualification.** The final months of the message record (March–May 2026) document the friendship's collapse under exactly the supply-line strain the "anchor" framing depended on. See "The Collapse (Spring 2026)" below.
 
@@ -81,7 +83,7 @@ The Tom/Kristin dossier characterizes Tom as an irony-poisoned stoic — a pragm
 | Metric | Value |
 |--------|-------|
 | Total messages (master) | 4,160 (handle +17249987341); ~1,603 more under phloxenheim@gmail.com |
-| Volume rank | #5 in the master top handles (after the Annie threads and Kristin) |
+| Volume rank | #5 in the master top handles (after the [[wiki/people/annie-ulmer|Annie]] threads and [[wiki/people/kristin|Kristin]]) |
 | Date range | Documented friendship 2010–May 30 2026 (last dated message) |
 | Peak periods | 2017–2018 (supply during the poverty floor), 2025 Annie collapse, spring 2026 (own collapse — see below) |
 
@@ -89,8 +91,8 @@ The Tom/Kristin dossier characterizes Tom as an irony-poisoned stoic — a pragm
 
 | Pattern | Evidence |
 |---------|----------|
-| Supply events | Repeatedly "shows up with cocaine and mushrooms"; Suboxone strips during withdrawal |
-| First-call for major events | Trump shooting, Biden dropout, GameStop, the FSLY tip (Sep 2020) |
+| Supply events | Repeatedly "shows up with [[wiki/health/cocaine|cocaine]] and mushrooms"; Suboxone strips during withdrawal |
+| First-call for major events | Trump shooting, Biden dropout, GameStop, the [[wiki/work/fastly-fsly|FSLY]] tip (Sep 2020) |
 | Parallel silences | Goes radio-silent when he owes a delivery (e.g. May 2016 during Dan's withdrawal) |
 
 ## Behavioral Counts (Dan, Calibrated)
@@ -131,7 +133,7 @@ crisis and the loyalty gesture that resolved it: someone "jumped
 needed to restock, and Tom — described in the same conversation as "my
 main guy for, well... everything" — came through anyway, apparently at
 his own financial loss ("he probably literally lost money on it too").
-The same exchange carries the fullest documented texture of Suz's own
+The same exchange carries the fullest documented texture of [[wiki/people/suzanne-frank|Suz]]'s own
 relationship with Tom: she is the only one who can call him directly
 (despite Tom being younger than Dan), he "LOVES" her, and he'd bought
 her a replacement car battery the week before when hers died and she
@@ -294,7 +296,7 @@ verse-chorus songwriting he grew up on, adding "dance music is literally
 not the same as the music i have encoded in my brain. it is literally 98%
 about evoking emotional response rather than crafting something catchy."
 This lines up with [[wiki/interests/music/overview]]'s own account of a
-2026 production "reactivation" under the GRIPNOTIC alias — this Oct 2025
+2026 production "reactivation" under the [[wiki/interests/music/aliases/gripnotic|GRIPNOTIC]] alias — this Oct 2025
 exchange is an early, dated data point for that reactivation, not a Tom
 biography detail. Tom's own music history surfaces separately in the same
 session, as a listener rather than producer: "I got my fill of house music
@@ -306,9 +308,9 @@ living with Jake Thwaite doing poppers."
 |------|-------|
 | 2010+ | Friendship forms post-dropout |
 | 2017–2018 | Supply and anchor during the poverty floor |
-| 2020-09 | FSLY stock tip |
+| 2020-09 | [[wiki/work/fastly-fsly|FSLY]] stock tip |
 | 2024 | Political-burst exchanges |
-| 2025 | Supply during the Annie collapse; recurring silence patterns |
+| 2025 | Supply during the [[wiki/people/annie-ulmer|Annie]] collapse; recurring silence patterns |
 | 2026-03-31 | Dan talks Tom through crisis/suicidal ideation ("I'm gonna make it your problem") |
 | 2026-04 | Sub-supply delays compound; Tom's "Brandy" relationship displaces call availability |
 | 2026-05-15/16 | No-show breaking point: Dan risks his job over an unfulfilled sub promise |

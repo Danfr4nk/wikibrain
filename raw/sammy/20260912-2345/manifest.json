@@ -1,0 +1,66 @@
+{
+ "batch": "20260912-2345",
+ "pulled_at_utc": "2026-09-13T00:06:00Z",
+ "window": {
+  "chats": {
+   "from": "2026-09-12T19:48:18.390+00:00",
+   "to": "2026-09-12T23:45:51.545+00:00"
+  },
+  "system_pins": {
+   "from": "2026-09-12T19:48:18.390+00:00",
+   "to": "2026-09-12T23:45:51.545+00:00"
+  }
+ },
+ "counts": {
+  "chat_rows": 265,
+  "user": 121,
+  "assistant": 144,
+  "system_pins": 356,
+  "externals": {
+   "instagram": 0,
+   "threads": 0,
+   "facebook": 0,
+   "messenger": 0,
+   "spotify_now_playing": 1,
+   "device": "no_read_path"
+  }
+ },
+ "files": {
+  "EXTRACT.md": {
+   "sha256": "e182a671937f07ab76e8b597efcc804d69b2baa00de878a9d921316eb9baaea6",
+   "bytes": 6345
+  },
+  "chats.json": {
+   "sha256": "d0ac0c44de6626a5d5667f9d0b944d866ecd518996ff9c76c3c01240188ef018",
+   "bytes": 119755
+  },
+  "system-manifest.json": {
+   "sha256": "050ea70edc03a84f748516ea5fa430b1504e4a056c5254cf3e3e1f18c1290c87",
+   "bytes": 84158
+  },
+  "externals/device.json": {
+   "sha256": "8fe98ed022d100fd6d40c6817d8aaf063a70f5b6455618cf398d913d5115e59f",
+   "bytes": 153
+  },
+  "externals/facebook.json": {
+   "sha256": "c37dbc80b19f7ee8021b3b4d59d1b96d1f9b154bcb069a6e4275690b739f364a",
+   "bytes": 323
+  },
+  "externals/instagram.json": {
+   "sha256": "1d99e1ac4e70cd3f3b3a57d2a4b43de5b80726ac665427053f38d75f4f60396d",
+   "bytes": 286
+  },
+  "externals/messenger.json": {
+   "sha256": "35cfebad494efc026bf35b299437985daa6df6a314c05a5ba70d1cbcddfafb10",
+   "bytes": 338
+  },
+  "externals/spotify.json": {
+   "sha256": "1890c22ba1b9159632268bb1a71881f7218e749743f1345e258fd72bab35c05e",
+   "bytes": 646
+  },
+  "externals/threads.json": {
+   "sha256": "4161f632931cee4bc9d728f040052b57f08839901c2da00be0c8e69385f24807",
+   "bytes": 303
+  }
+ }
+}

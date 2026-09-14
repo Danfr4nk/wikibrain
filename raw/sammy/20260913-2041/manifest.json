@@ -1,0 +1,78 @@
+{
+ "batch": "20260913-2041",
+ "job": "wiki-brain-scrape",
+ "pulled_at": "2026-09-13T20:55:00Z",
+ "window": {
+  "from": "2026-09-13T19:56:50.395+00:00",
+  "to": "2026-09-13T20:42:06.99+00:00"
+ },
+ "sources": {
+  "chats": {
+   "rows": 59,
+   "user": 17,
+   "assistant": 42,
+   "integrity": "full bodies byte-exact (all <= 6000 chars, taken directly from muse.db excerpts, body_len cross-checked; zero truncation)"
+  },
+  "system": {
+   "rows": 73,
+   "kind": "per-row pins (message_id, created_at, surface, body_len); bodies not stored"
+  },
+  "externals": {
+   "instagram": 0,
+   "threads": 0,
+   "facebook": 0,
+   "messenger": 0,
+   "spotify": 0,
+   "device": "no read path"
+  }
+ },
+ "watermark_from": "2026-09-13T19:56:50.395+00:00",
+ "watermark_to": "2026-09-13T20:42:06.99+00:00",
+ "files": [
+  {
+   "path": "chats.json",
+   "sha256": "1153015a0ae1425749bea80cea57f11362bf85b6b9d3689229a8cae875e9c4d9",
+   "bytes": 27387
+  },
+  {
+   "path": "system-manifest.json",
+   "sha256": "a9528a2d486c178bfa803b340460e89401541b1a4df60c53d023b56361b82a79",
+   "bytes": 29128
+  },
+  {
+   "path": "externals/device.json",
+   "sha256": "5679862edd204f1285494ce2fdd7641aafcbada892ecbcc912ffcd80ac14c20a",
+   "bytes": 180
+  },
+  {
+   "path": "externals/facebook.json",
+   "sha256": "a06d959b137e664134fb5afb76b719f7c4d4bf3961b36c8f83617a8dc5d9bbbc",
+   "bytes": 293
+  },
+  {
+   "path": "externals/instagram.json",
+   "sha256": "ad70626fff70469947926a5910062e9c3ed150676005ffbdb0293e0e1549c8a4",
+   "bytes": 274
+  },
+  {
+   "path": "externals/messenger.json",
+   "sha256": "aa03103fdba27bd93dd3f8cc4bea8cf28ce19b35eaf203ce3af75ffc07c346ed",
+   "bytes": 303
+  },
+  {
+   "path": "externals/spotify.json",
+   "sha256": "a6f9cca8257d3a050ce197e47ac45094be36a3066c9eb3537c1f2653c5604f89",
+   "bytes": 400
+  },
+  {
+   "path": "externals/threads.json",
+   "sha256": "cfe7cee3588d6fe9a6920df1bc53003de9c697397f879a71ec8e90a928787343",
+   "bytes": 276
+  },
+  {
+   "path": "EXTRACT.md",
+   "sha256": "85ea99386d4fd730a3d443260e31eb3d92f550d0b6ef25b13989b04df868ea78",
+   "bytes": 2783
+  }
+ ]
+}

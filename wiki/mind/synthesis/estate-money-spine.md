@@ -1,6 +1,7 @@
 ---
 domain: mind
 page_type: synthesis
+title: "The Estate / Money Spine"
 status: active
 knowledge: earned
 date_created: 2026-07-18
@@ -82,6 +83,9 @@ connections:
   - page: wiki/mind/synthesis/high-provision-low-condolence
     type: instantiates
     claim: "The spine's money trail is the provision rule at ledger scale: $14,000 to Suz within weeks of an undistributed bridging advance with nothing in writing, and the $119K–$123K net outflow to Annie — roughly the size of the entire $144,069.31 estate distribution — care arriving as something countable."
+  - { target: "[[wiki/mind/synthesis/annual-volume-suz]]", type: contextualizes, claim: "The Dan-vs-Suz message-volume asymmetry — Suz permanently ahead from 2017, widening toward ~2:1 — is the communication register of the same switchboard concentration traced here in capital: one node carrying flows a diversified system would spread." }
+  - { target: "[[wiki/mind/synthesis/attachment-trauma-bond]]", type: corroborates, claim: "The three-rotation earner see-saw quantified here ($119K–$123K net outflow) is the trauma-bond page's leverage see-saw measured in capital — the material substrate of the same bond." }
+  - { target: "[[wiki/mind/synthesis/fayette-return]]", type: contextualizes, claim: "The Fran-estate capital traced here — Whyel coal money administered through the Coldren legal line — is the material counterpart of the return page's Fayette anchoring: the same maternal line that never left is the line the capital came down." }
 ---
 
 # The Estate / Money Spine
@@ -157,8 +161,7 @@ on a timescale of months.
 The family capital has two lines, and Dan holds neither. The **maternal
 line** runs through [[wiki/people/fran-coldren|Fran Coldren]]: her third
 husband Ira's money (Dan traces it further back to a "coal baron"
-marriage in Fran's sequence), held in accounts managed by **Judge Fred
-Adams — Ira's old law partner and "basically the trustee of her
+marriage in Fran's sequence), held in accounts managed by **[[wiki/people/fred-adams|Judge Fred Adams]] — Ira's old law partner and "basically the trustee of her
 accounts"** — the named institutional node of the family's capital. The
 **paternal line** is [[wiki/people/rick-frank|Rick Frank]]'s Frank's
 Auto Supermarket, the anti-union auto-parts chain that funded the
@@ -254,7 +257,7 @@ attend, and it moved first.
 | 2024-08 | Involuntary job loss; Annie sole earner through 2024 | −income |
 | 2025-02 | Return to PA: "escaping systemic metropolitan financial drains" | — |
 | 2026 | Broke (primary-source status); BFS job gained and lost | ~$0 |
-| ~2026-06 | 337 Saratoga sale ($465k, Suz's transaction); land at 463 Morgantown | bystander |
+| ~2026-06 | [[wiki/places/337-saratoga-drive|337 Saratoga]] sale ($465k, Suz's transaction); land at [[wiki/legal/463-morgantown|463 Morgantown]] | bystander |
 
 One row of the table above now carries the synthesis finding: the ~$14,000 moved to Suz in 2018-08 → 2018-10, drawn against an estate that had not yet distributed and with nothing in writing, is the ledger-scale case of [[wiki/mind/synthesis/high-provision-low-condolence]] — care arriving as something countable.
 
@@ -263,8 +266,7 @@ the estate**: $134,069.31 lands September 1, 2020, and by early 2021 —
 roughly six months — the Au Za'atar storytime opens with "the money just
 ran out." The market account peaked at ~$25k, so the market cannot have
 absorbed most of it; the balance went out through the standing drains
-(Manhattan rent, the daily [[wiki/mind/synthesis/supply-network|supply
-line]], and the Annie outflow, below). No exit accounting exists for the
+(Manhattan rent, the daily [[wiki/mind/synthesis/supply-network|supply line]], and the Annie outflow, below). No exit accounting exists for the
 market positions, and no ledger reconstructs the six months — but the
 endpoints are both documented, and the interval is the spine's
 characteristic timescale: **a lump arrival survives about two quarters.**
@@ -371,7 +373,7 @@ evidenced mechanism.
 
 The pattern — lump arrivals, metered drains, six-month survival, no
 holder position — is stable across twenty years, which licenses one
-forward claim: the **337 Saratoga proceeds ($465k)** will behave like
+forward claim: the **[[wiki/places/337-saratoga-drive|337 Saratoga]] proceeds ($465k)** will behave like
 every prior lump unless the structure changes, with two added
 differences — this lump is not Dan's, and **most of it is not hers either.**
 The sale was the remedy in her Chapter 13, so the proceeds discharge roughly
@@ -478,8 +480,7 @@ implicit premise that one node in this system had reserves. None did.
   baron who died in the 1970s; Ira B. Coldren Jr. was the third, married within
   months of that death. The spine's maternal source therefore has two stages
   rather than one — capital originating in the **Whyel** coal-and-coke fortune
-  and subsequently administered through the **Coldren** legal one, with Judge
-  Fred Adams (Ira's former law partner) as trustee. What remains open is the
+  and subsequently administered through the **Coldren** legal one, with [[wiki/people/fred-adams|Judge Fred Adams]] (Ira's former law partner) as trustee. What remains open is the
   first husband's identity and whether any of the money predates Whyel.
 
 > **RE-CHECKED [2026-08-02] — premise moved, spine intact, one terminal**

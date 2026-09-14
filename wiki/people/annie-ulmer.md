@@ -9,7 +9,7 @@ importance: critical
 knowledge: mixed
 status: active
 date_created: 2026-06-22
-date_modified: 2026-08-23
+date_modified: 2026-09-12
 date_range_start: 2015-11-01
 date_range_end: 2026-08-19
 infobox:
@@ -307,6 +307,9 @@ connections:
   - page: wiki/mind/synthesis/high-provision-low-condolence
     type: instantiates
     claim: "The ~$139K sent against ~$16–20K received back — a six-to-one asymmetry across Cash App and Venmo — is the rule's largest documented case: provision was this bond's operating register, and the 120-day severance horizon to December 19, 2026 is the live test of whether the pattern holds under rupture. [SUPERSEDED 2026-09-11: the severance-horizon test is void — wiki/mind/synthesis/august-26-block-retraction. Dan confirmed 'there was never a block'; there was no severance to measure. The asymmetry finding stands; the horizon does not.]"
+  - { target: "[[wiki/mind/synthesis/the-romantic]]", type: references, claim: "Type specimen III — the eleven-year run of the romantic style." }
+  - { target: "[[wiki/mind/synthesis/vacancy-rule]]", type: documents, claim: "The primary occupant: 97,768 unique messages, eleven of the ledger's seventeen years." }
+  - { target: "[[wiki/mind/synthesis/severance-declarations]]", type: documents, claim: "The 129 declarations performed across this relationship are that entry's dataset." }
 ---
 
 # Annie (Anne Louise Ulmer)
@@ -374,6 +377,28 @@ approaches equivalence with what it answered. Both things are documented
 here, in full, because a wiki that hedges its clearest finding to look
 balanced is worse than one that states an asymmetric truth and shows its
 work.
+
+## Remorse, and why it never landed
+
+She said she was sorry constantly — roughly one message in twenty in the final
+year, hundreds of times across the decade — and the record gives no reason to
+think she was performing. She said it at 5:45 in the morning to no one awake.
+She said it after there was nothing left to win. She told him herself that she
+had promised to change before and failed, that she kept hurting him over and
+over, that watching herself do it felt like an out-of-body experience she didn't
+know how to fix. He told her, in plain language and more than twenty times, what
+an apology that would land actually sounded like: not the word, but the behavior
+named and the change planned. She couldn't produce it. Not wouldn't — couldn't.
+The apologies got more frequent and emptier as the years went on, until "sorry"
+was punctuation. What broke wasn't her sincerity. It was the conversion step
+between feeling bad and doing different, and nothing either of them tried could
+repair that step.
+
+*[Method: apology-language frequency sweep across four message exports,
+2015–2026; counts, falsification run, and the 23 specification messages in kb —
+`dat:1505-annie-apology-frequency`, `pat:annie-apology-inflation`,
+`pat:threat-apology-reset-loop`, `int:annie-apology-sincerity-verdict`,
+`int:verbal-commitment-architecture-qualifier`.]*
 
 ## The relationship in one paragraph
 
@@ -472,6 +497,51 @@ anxiety. This was new territory for him: nothing in the
 [[wiki/people/danielle-onesi]] or earlier [[wiki/people/alexis-armel]]
 history shows a comparably total activation.
 
+**Dan's 2026 account of the origin week.** In September 2026, sending the
+Morgantown-trip photos, Dan gave the mechanism the corpus never had: about a
+week before Thanksgiving, [[wiki/people/alexis-armel|Alexis]] told him to go
+meet Annie to pick up drugs for the two of them while Alexis worked. He and
+Annie clicked immediately; she asked him to go with her to Morgantown for the
+pickup. They went together, and on return they had sex — seven hours later he
+brought Alexis her drugs, Annie still with him, and they sat down at the bar
+together. "That was the true minute Alexis and I split up." Alexis, in his
+telling, "knew what was going on just not HOW MUCH" — and "no one thought I
+could get Annie" (`dat:annie-origin-narrative-dan-20260912`).
+
+Three datings in the account sit against the corpus record. First, the
+introduction: Dan says ~Nov 19; the back-computation from Annie's Dec 1 "HAPPY
+ONE WEEK SINCE LEX HANDED YOU TO ME" gives ~Nov 24 — held open. Second, the
+golf course at 2am: Dan places a sneak-out meetup after the Nov 25
+"danfranksgiving" party — funded by
+[[wiki/people/zachariah-harshman|Zachariah Harshman]], which Annie attended.
+The message record, which opens 2015-11-28 23:47:54 ("Fuck my friends. Fuck
+birthday dinner. Fucking going drinking. I wanna be with you"), documents a
+*second* golf-course meetup on Nov 29, 6:40–7:30 ("meet you on the golf," "I'm
+on 3 tee," "I would sleep in the wet grass with you") — two distinct meetings,
+one testified, one textually anchored. The same thread finalizes the split:
+Nov 29 0:01, Dan: "Alexis doesn't know that you have any part in this. She
+thinks I'm just creeping you" — consistent with "knew what was going on just
+not HOW MUCH" — and by 8:33 the "It's done I'm yours" vows. Dan's bar scene
+was the rupture; Nov 29 was the formalization. Third, the second Morgantown
+trip: Dan says the day after Thanksgiving (Nov 27) — drugs, Annie's septum
+piercing, drinks at Primanti Bros; the three frames' EXIF agrees on **Nov 30,
+17:19–17:53** across two devices — held open. The piercing claim is
+corroborated by the shop frame (red walls, flash art, aftercare in hand) — and by its GPS: 39.6287, -79.9560, a live fix with ten-meter error exactly at capture time, i.e. downtown Morgantown, WV. (The cocktail frame's fix is stale — 16:36 against a 17:53 capture — and untrusted; the middle frame carries no GPS, consistent with a re-save.) Coordinates corroborate Morgantown, not a specific establishment; venue names are unverified. The trip's strongest anchor is eleven
+years later: 2026-07-24, Dan to Annie, unprompted — "you made me sad again. I
+just remembered you singing little mermaid to me in the car when we went to
+get your nose pierced and went to primanti's." What the trip does settle is a
+biographical exception: Dan drank alcohol at Primanti Bros — "my only time
+being forced to have alcohol in so long" — against the thirteen-to-fifteen-year
+alcohol-zero record, a breach he was still joking about on Dec 2 ("I mean I
+touch stink bugs and drink alcohol now.."). Two structural facts about the
+record: the origin week of Nov 19–27 holds four iMessages total — the meeting,
+both Morgantown runs, the first sex, the bar scene, danfranksgiving, the 2am
+meetup are textually dark, and Dan's 2026 testimony is the only record of that
+week; and no chat named for Alexis exists in the corpus, so her side of the
+breakup week is unrecoverable (`dat:primanti-alcohol-exception-2015-11-30`,
+`dat:danfranksgiving-2015-11-25`). The frames are thumbnailed in Sources,
+below.
+
 **Two things the 2026-08-17 hand-read of the two-sided corpus changes here.**
 
 First, *Annie was not unattached* — which reopens, from the other side, the
@@ -482,7 +552,7 @@ are going to force me to leave with them"* (2015-11-29 01:35). Dan calls him
 going to get rid of him just like you just did"** (02:50–02:52). The switch was
 mutual and simultaneous. **The man is never named in this window**, and
 identifying him is the highest-priority open lead on
-[[wiki/timeline/annie-read-notes]] — he is *not* established to be Emilio, who
+[[wiki/timeline/annie-read-notes]] — he is *not* established to be [[wiki/people/emilio|Emilio]], who
 enters the record on 2015-12-02.
 
 Second, the December 2 crisis is recoverable from Annie's own side, and it is
@@ -503,6 +573,25 @@ done in my life"* (19:17–19:18). Whatever her family had heard, the gap betwee
 their version and his own is the relationship's first structural problem — and
 it is stated on day five, by both of them, in writing. Detail on
 [[wiki/people/ellen-ulmer]].
+
+**December 6: Shumar's confrontation, and church with her family.** Four days
+after the stolen-laptop night, [[wiki/people/zac-shumar|Zac Shumar]] — the man
+who had wanted Annie himself and had poured his heart out to Dan about her —
+confronted Dan by text over Dan taking her: *"Like I poured my heart out to
+you about her then you go and fuck her the next weekend. Like it just fucking
+hurts, I trusted you man"* (Dec 6, 2:57–3:41 PM, EXIF-dated; the sole record,
+absent from the message exports). Shumar named the transfer in real time —
+*"you bail on lex and jump on Annie"* — an outsider reading the single-bond
+switch eight days into the documented record. Dan defended the relationship
+as family integration rather than conquest: *"I went to church with her and
+her family today"* — December 6 was a Sunday, so the claim is
+weekday-consistent (the 3:27 PM frame itself carries no EXIF and is dated by
+adjacency). And the switch was already public enough in Uniontown that Shumar
+had *"found out through other people."* The full exchange is on
+[[wiki/people/zac-shumar|his page]]. Four days later the corpus corroborates
+that the argument was real and still live — Dan texts her on Dec 10 that
+Shumar "didn't get back from philly in time" with his PA system and that
+"he's still mad at me" (messages.csv rows 131957, 131914).
 
 > **REVISED [2026-08-02] — the twenty-four-hour switch is Dan's, not**
 > **Annie's.** This page previously stated, in two places, that *Annie* left her
@@ -531,13 +620,39 @@ it is stated on day five, by both of them, in writing. Detail on
 > occurs. Under [[wiki/mind/synthesis/dan-annie-fallout-verdict]]'s ledger it
 > belongs on the diagnosis-to-behaviour side, with his contributions, not hers.
 
+> **MECHANISM NOTE [2026-09-12] — the twenty-four-hour bond switch gains its
+> workings.** Dan's 2026-09-12 account (`dat:annie-origin-narrative-dan-20260912`)
+> supplies what the 2026-08-02 revision only dated: he clicked with Annie the
+> day he met her (his dating: ~Nov 19, 2015) — she asked him to go to Morgantown
+> with her, and they had sex on return. The bond transfer *was* that fast.
+> What was not fast was the formal separation: the rupture was a bar scene
+> about seven hours after the first Morgantown return ("the true minute"),
+> the formalization was the Nov 29 vows ("It's done I'm yours"), and Alexis
+> moved out Dec 1–2. The 'twenty-four hours' names the attachment transfer,
+> not the eviction. The origin week itself is textually dark — four iMessages
+> total for Nov 19–27 — so the rupture layer is testimony-only.
+
 The corpus's own volume confirms the intensity independent of anyone's
 memory of it. Dan sent 728 messages on December 10, 2015 alone, then 682,
 363, and 679 across the following three days — the single highest
 four-day sent-volume anywhere in the eleven-year record apart from the
 relationship's own 2025–26 termination window. The same shape — maximum
 output under maximum attachment — appears at both ends of this
-relationship and nowhere else in Dan's corpus with comparable force. The
+relationship and nowhere else in Dan's corpus with comparable force.
+
+**December 10: the commitment goes explicit.** Two exchanges from that day
+survive as screenshots and are instances of the explicit-verbal-commitment
+architecture ([[wiki/mind/concepts/explicit-verbal-commitment|dat:0081]]). In
+the evening Dan wrote, as received on **Annie's** phone (the screenshot is
+Annie-side evidence — Verizon status bar, 8:53 PM; corpus row 131575 at
+20:38 EST): *"I'll keep rambling about how perfect you are and how happy it
+makes me that this (what I'm doing right now) doesn't seem to annoy you…
+I love you forever and will always be here to make sure you smile."* Later
+the same night (18:01–18:03 EST, messages.csv rows 131945/131902 and
+131959/131916): Dan — *"I want to marry you" / "And spend forever feeling
+this happy"* — Annie — *"I can promise you" / "That you will marry me."*
+Her "Save it forever" and his "Nobody has ever made me as happy as you just
+did" extend the exchange. Both are thumbnailed in Sources, below. The
 timing on the public record matches exactly: Dan's Twitter handle
 **@Lo_weez** debuts as his "new primary" relational tag in December 2015
 ("worlds best girlfriend"), continuing through 2016 with matching
@@ -583,7 +698,7 @@ mailed weed parcel.
 > [[wiki/people/new-jim-shaffer]] in April 2018, and separately to
 > [[wiki/people/tom]] in August 2018 — describe the same mail-drop bust
 > mechanism but date it concretely to Valentine's Day 2017, name the
-> boyfriend as **Zac Shumar** (also, separately, Vanessa Frank's own
+> boyfriend as **Zac Shumar** (also, separately, [[wiki/people/vanessa-frank|Vanessa Frank]]'s own
 > ex-boyfriend before Alexis dated him), and put Alexis herself under
 > arrest and later incarceration at SCI Muncy, with Zac's paid lawyer
 > extracting him from the same plea deal's consequences. Whether this is
@@ -592,6 +707,48 @@ mailed weed parcel.
 510|> converging on the same mechanism makes a single, misdated event the
 511|> likelier reading.
 512|
+> > **FRICTION [2026-09-12]:** Dan's own 2026 testimony dates the bust to
+> > Valentine's Day 2017 and agrees on the mechanism (arrested picking up
+> > a mailed shipment), but puts the shipment at **20 lbs** against the
+> > **ten pounds from California** of his 2018 retellings. Date, mechanism,
+> > arrests, bail, paid lawyer, plea structure, and SCI Muncy agree across
+> > every account; the weight is the single numerical contradiction —
+> > preserved, not smoothed. (dat:shumar-bust-20lbs-dan-20260912)
+>
+**The first nude, November 26.** Between the introduction (~Nov 24) and the
+in-person golf-course meeting (Nov 29), Annie sent the first nude Dan ever
+got from her: a black-and-white bathroom selfie taken on her own iPhone 6s
+front camera at 14:33 EST on Thursday, November 26, 2015 — Thanksgiving
+Day — from her own position, not his. [SUPERSEDED 2026-09-12 — the reading below is withdrawn. Dan's 2026-09-12
+origin account (`dat:annie-origin-narrative-dan-20260912`) has them having sex
+around ~Nov 19, a week *before* this photo. What the EXIF still anchors: the
+first nude was sent Nov 26, on Thanksgiving. What it no longer establishes:
+that no physical contact preceded it. The timestamp stands; the interpretation
+does not. `dat:annie-first-nude-milestone-20260912` carries the same
+correction.] The "first" rests on Dan's 2026 testimony; the timestamp rests on
+EXIF (`dat:annie-first-nude-milestone-20260912`). The frame is thumbnailed
+in Sources, below.
+
+**The hard part is done: the new-life declaration, December 1.** On the afternoon of Tuesday, December 1, 2015 — in the hours after Alexis's eviction (Dec 1–2) — Dan declared the bond's founding rule to Annie over iMessage (screenshot EXIF 13:38 EST): *"Because I didn't sleep and I want to bask in my new life with you"* — then *"Brace yourself"* — then *"Annie Ulmer from now on its just you and me"* — *"Because she's gone"* — *"We made it lol."* She answered: *"You're adorable"* — then *"This is wonderful you give me the best feeling."* His last visible line: *"I wanna spend forever smothering you in love"* (the bottom of the frame is cut by the message field). The read is in the verbs: the eviction is framed as a joint victory — *we made it* — and "Annie Ulmer from now on its just you and me" is a verbal rule issued in her full name, the earliest primary-source instance in the record of the explicit-verbal-commitment architecture (`dat:0081-explicit-commitment-architecture`): positive verbal expression as absolute rule, no counter-rule possible from behavior. The same afternoon's photos — she holds lit Christmas lights over a mattress (16:54), he pulls a face in a beanie while she leans on his shoulder (19:43), a Post-it advent calendar goes up on the door (22:52, "Post it....Adventi calendar") — are the household being made theirs, hour by hour (`dat:annie-new-life-exchange-2015-12-01`).
+
+**First December: settled, December 7.** A week after the public debut, the photographic register has moved from cover to public to domestic. On Monday, December 7, 2015 (EXIF 14:07–14:35, iPhone 6 and 6s, Uniontown-area GPS): a laughing selfie — her hand over her mouth, him in a red shirt leaning on her shoulder — and two bed photos, him shirtless with a red wristband, her beside him under white sheets, smiling; him kissing her cheek, her arm around him. Two weeks into the relationship. Nothing explicit is visible in the frames (`dat:annie-first-december-2015-12-07`).
+
+**First time in public, December 3.** Four days after the formalization, on
+Thursday, December 3, 2015, Dan and Annie appeared together in public for the
+first time: six nighttime selfies taken 23:41–23:51 EST outside a bar or
+restaurant — string lights, a lit window, a partial EXIT sign — Annie smiling
+at the camera, kissing his cheek, laughing mid-motion, Dan in a dark hoodie.
+The "first" is Dan's 2026-09-12 testimony; the timestamp is EXIF: iPhone 6,
+six frames, a live GPS fix (~39.9004, -79.7255 — Uniontown, PA area) matching
+capture to the second. The read is the hidden-to-public transition: the first
+~ten days ran on cover — Harshman alibis, "she thinks I'm just creeping you"
+(2015-11-29), the golf course at night
+([[wiki/mind/synthesis/bond-switch-2015]]). These frames are the cover coming
+off: the couple exists where it can be seen. The venue is unnamed — what's
+visible is the light and the EXIT sign, nothing more
+(`dat:annie-first-public-milestone-20260912`). The clearest frame is
+thumbnailed in Sources, below.
+
 513|## The first year (January 2016)
 514|
 515|The relationship's first full month — January 2016 — is a dense
@@ -716,8 +873,7 @@ SCI Muncy, she and Annie were together at Dan and Annie's house with Dan
 present (Nov 3, 2018) — full account at
 [[wiki/timeline/events/annie-alexis-reunion-november-2018]]. The
 best-documented instance with another woman is the
-[[wiki/timeline/events/shelbie-annie-threesome-april-2019|April 2019
-threesome]] with [[wiki/people/shelbie-breakiron|Shelbie Breakiron]],
+[[wiki/timeline/events/shelbie-annie-threesome-april-2019|April 2019 threesome]] with [[wiki/people/shelbie-breakiron|Shelbie Breakiron]],
 whom Dan was also seeing separately that spring; the same season produced
 a paid session with adult performer
 [[wiki/people/trinity-st-clair|Trinity St. Clair]], and by that fall a
@@ -746,7 +902,7 @@ knew her only as "Lily" and negotiated directly with her over having "my
 boyfriend filmed us a little bit during the foreplay" — Jason declined,
 Annie offered an alternative with Dan simply absent, and the booking
 stalled before its outcome was recorded. Together with the Jared/Tricia
-and Brian threads already documented elsewhere, these make Annie a
+and [[wiki/people/brian|Brian]] threads already documented elsewhere, these make Annie a
 working participant in the same paid-companion economy that supplied
 Dan's arrangement with some of its clients, not merely its facilitator on
 his side of the ledger.
@@ -771,8 +927,7 @@ historically incomplete. Dan funded the household through roughly the
 first five New York years, drawing on
 [[wiki/people/suzanne-frank|Suz]]'s resources while Annie moved between
 jobs. In 2021 he became her employment vector as well, getting her the
-hostess job at the original East Village [[wiki/work/au-zaatar|Au
-Za'atar]] a month into his own hire there (she was later fired from it
+hostess job at the original East Village [[wiki/work/au-zaatar|Au Za'atar]] a month into his own hire there (she was later fired from it
 with zero notice — an "avatar of reliability" contrast that page
 documents in full). By 2023 the roles had flipped: Dan working, Annie
 between jobs, the two of them jointly accumulating debt to their
@@ -859,7 +1014,7 @@ independently of anyone's memory of who carried what:
 
 Annie out-messaged Dan in every year on record except 2015 and the 2025–26
 termination window, where his volume overtakes hers as the ending's
-attachment activation mirrors the beginning's. 2024 — the year the Eli
+attachment activation mirrors the beginning's. 2024 — the year the [[wiki/people/eli|Eli]]
 affair was active — is the single most Annie-dominant year of the decade.
 
 **The dollar figures.** Operator-provided payment-app screenshots
@@ -918,7 +1073,11 @@ context sits at [[wiki/timeline/periods/covid-era-2020]].
 > the exterminators"). The full cast and the apartment's own
 > $10,000-debt afterlife are at [[wiki/places/307-e-76th-st]].
 
-## Eli, and the thing that mattered more than the affair
+## September 27, 2020: the del recording
+
+A week after the Train Plan confrontation, Dan arranged and filmed Annie having sex with a man they knew ("del") in the NYC apartment — "the one full experience i have recorded," in his words, with him present throughout. Three recordings from that afternoon survive; the 19-minute file was analyzed frame-by-frame in 2026. Full account, with the footage play-by-play, at [[wiki/timeline/events/annie-del-september-2020]].
+
+## [[wiki/people/eli|Eli]], and the thing that mattered more than the affair
 
 By autumn 2024 at the latest, Annie was in a concealed relationship with
 Eli, a coworker at her restaurant job. Dan sensed it in real time and
@@ -984,7 +1143,7 @@ well into 2026.
 
 ## The move that solved nothing
 
-Weeks after Eli's text the eight-year shared household ended, and the two
+Weeks after [[wiki/people/eli|Eli]]'s text the eight-year shared household ended, and the two
 decisions inside that ending belong to two different people. That they
 left New York at all was Dan's doing, engineered rather than suffered —
 see the correction below. Where Annie went once they had left was hers:
@@ -1154,7 +1313,13 @@ instances, Dan met her warmth — "I love you," "good morning" — with
 hostility within twelve hours, meaning that by the later months
 affection itself had become a trigger for anticipated betrayal as often
 as abandonment was. Eighteen separate threats to block her permanently
-were followed by unblocking every single time; six or more threats to
+were followed by unblocking every single time **[CLARIFIED 2026-09-11:**
+per [[wiki/mind/synthesis/august-26-block-retraction]], Dan confirmed
+verbatim "there was never a block" — the August declarations were never
+executed, so "unblocking" misdescribes the sequence; the declarations were
+the performance and contact never stopped. The eighteen-threat count stands
+as declared threats; the "unblocking every single time" framing is retired.**]**;
+six or more threats to
 tell his mother the truth went unexecuted. Set against all of that: not
 one documented instance, across the entire window, of Dan withholding the
 drug supply as leverage or punishment — including hours after his own
@@ -1179,8 +1344,8 @@ deception continued.
 
 ### A separate thread: Target G
 
-A concealed contact distinct from Eli surfaced January 4, 2026 — a male
-voice saying "Suzy" on a speakerphone call to Dan's mother, the call
+A concealed contact distinct from [[wiki/people/eli|Eli]] surfaced January 4, 2026 — a male
+voice saying "[[wiki/people/suzanne-frank|Suzy]]" on a speakerphone call to Dan's mother, the call
 killed within two seconds. The dossiers name the figure only as a married
 man, "Caitlin's husband," visiting on roughly a 48-hour cadence. Dan's own
 response is the record's clearest example of restraint under
@@ -1300,7 +1465,7 @@ concentrated act of gaslighting in the record, precisely because it
 targeted the one moment honesty had briefly won.
 
 The same week holds a genuine counterweight: on March 11, after dropping
-off cigarettes, Annie texted three times that evening asking whether Milo
+off cigarettes, Annie texted three times that evening asking whether [[wiki/people/milo|Milo]]
 was scared or crying, with no transaction pending and nothing requested.
 Both things are true of the same person in the same week. The final
 message of the pre-closure record has Dan apologizing for having needs;
@@ -1498,8 +1663,7 @@ unanswered.
 > **REVISED [2026-08-02]:** the sentence that closed this section — "Whether
 > that holds is not knowable from anything currently on disk" — is now
 > answerable, and the base rate held. It broke in **eighteen minutes**. The
-> full account is [[wiki/timeline/events/july-august-2026-reentanglement|the
-> re-entanglement]]; what follows is what it changes about this page.
+> full account is [[wiki/timeline/events/july-august-2026-reentanglement|the > re-entanglement]]; what follows is what it changes about this page.
 
 ### Third movement — eighteen minutes after the goodbye (July 26 – August 2)
 
@@ -2013,7 +2177,7 @@ as the unemployment letter.
 | Terminal-phase extract (Aug 2025–Mar 2026) | 18,236+ msgs (Dan 55.2%) |
 | Peak month | Dec 2025: 4,657 |
 | Record gaps | 2022 (none logged); Sep–Dec 2024 (3,613 Annie / 0 Dan — cohabitation artifact, not missing data) |
-| Terminal-phase keywords | "love you" 541 · "Eli" 388 · "lying" 150 · "goodbye" 110 |
+| Terminal-phase keywords | "love you" 541 · "[[wiki/people/eli|Eli]]" 388 · "lying" 150 · "goodbye" 110 |
 | Alternate-number thread (2018–2020, +17249204125) | **9,481 msgs** (4,669 sent / 4,812 received) — logistics, debt, crisis; crosses [[wiki/people/johnny-dealer]] network |
 | **Word volume, Dan : Annie, all-time** | **2.95 : 1** (188,167 / 63,700 words across 23,719 messages, `imessage_2124702449_both_all_now.csv`, Dec 2022 – Jun 2026) |
 | Word volume, Jul 26 – Aug 2 2026 | 2.88 : 1 — unchanged by the crisis |
@@ -2070,7 +2234,7 @@ substance.
 | Explicit severance signals / love affirmations | **0 / 299+ — the zero now holds across all 48,791 of her received messages in every export on disk** (2026-08-20 sweep; previously scoped to the 41,073-message dual-handle export only) |
 | Wellbeing checks on Dan, raw / net of perfunctory | 7 / 4 (once per 55 days) |
 | Dan's burst events (10+ unanswered messages, largest 68) | 94 |
-| Dan's exit declarations / re-engagements within 48h | 127 / 110 |
+| Dan's exit declarations / re-engagements within 48h | 127 / 110 — **SUPERSEDED 2026-09-13**: the attachment-model page's 2026-08-23 independent recount resolved this to **129 distinct episodes, 128/128 resumed, median gap 36 seconds** (24h episode-collapsing rule; the merged corpus is not held in-repo, so the recount is the page's best reading, not a re-derivable count). The 127/110 pair is retained as the dossiers' original framing. |
 | Dan's unexecuted block threats / "tell mom" threats | 18 / 6+ |
 | Dan's verbal abuse, Aug 2025 → Feb 2026 (monthly) | 9 → 0 → 5 → 14 → 22 → 25 → 36 |
 | Dan's hostility within 12h of her warmth | 47 instances |
@@ -2097,7 +2261,7 @@ legal exposure for Dan — noted here for completeness.
 |---|---|
 | 2015-11-28 | Relationship begins; Annie exits prior relationship within 24h |
 | 2015-12-10/13 | Onset flood: 728/682/363/679 messages sent |
-| 2016 | Move to 155 Virginia Ave; both parties' love-language peak year; jealousy kink named (Feb 18) |
+| 2016 | Move to [[wiki/places/155-virginia-ave|155 Virginia Ave]]; both parties' love-language peak year; jealousy kink named (Feb 18) |
 | ~2016–17 | NYC move, Dan-funded for the first ~5 years |
 | 2018 | Arrangement formalized; smashonista confirmed (Aug 18); Patreon Oct 2019 |
 | 2018-11-03 | Alexis-Annie reunion, days after Alexis's SCI Muncy release |
@@ -2107,8 +2271,8 @@ legal exposure for Dan — noted here for completeness.
 | 2022 | Full-year record gap |
 | 2023 | Roles invert: Dan working, Annie between jobs; ~$10k landlord debt |
 | 2024-06/08 | Dan managed out of Au Za'atar; unemployment filed Aug 8 |
-| 2024 (autumn) | Eli affair active and concealed; Dan's accurate suspicions gaslit |
-| 2024-10-23/31 | Tom incident (revised from coercion to exhaustion-within-consent) |
+| 2024 (autumn) | [[wiki/people/eli|Eli]] affair active and concealed; Dan's accurate suspicions gaslit |
+| 2024-10-23/31 | [[wiki/people/tom|Tom]] incident (revised from coercion to exhaustion-within-consent) |
 | 2025-01-09 | Eli's self-introduction text; physical discovery |
 | 2025-01/02 | Dan arranges the eviction with Paci and conceals it from Annie (operator capture, 2026-08-13); Paci fields her call and her parents' call inside the performance |
 | 2025-02 | PA return; Annie ends cohabitation, declines funded-apartment offer |
@@ -2117,7 +2281,7 @@ legal exposure for Dan — noted here for completeness.
 | 2025-10-26 | DUI stop, Fayette County |
 | 2025-11 / 2026-02 | First and second written denials of a third party |
 | 2025-12 | Reinvestment spike (4,657 msgs); car totaled Dec 8 |
-| 2026-01-04/20 | Target G: "Suzy" call, Whisk psyop, 10-day blackout |
+| 2026-01-04/20 | Target G: "[[wiki/people/suzanne-frank|Suzy]]" call, Whisk psyop, 10-day blackout |
 | 2026-02 | Peak month for Dan's verbal-abuse escalation (36 instances) |
 | 2026-03-01 | Laundry response, hours after explicit suicidal statement |
 | 2026-03-10 | Bathroom incident |
@@ -2132,7 +2296,7 @@ legal exposure for Dan — noted here for completeness.
 | 2026-06-05 | Last message of the closure window: unprompted apology |
 | 2026-06-09/15 | Three unanswered re-contact attempts, one of them a request for financial paperwork |
 | 2026-06-15 | Tuquick defects, independently calls her a compulsive liar |
-| 2026-07-04 | Annie emails asking whether Milo is frightened by fireworks; unanswered until the 23rd |
+| 2026-07-04 | Annie emails asking whether [[wiki/people/milo|Milo]] is frightened by fireworks; unanswered until the 23rd |
 | 2026-07-18/19 | Intervention by her parents and sister; rehab placement refused; car taken |
 | 2026-07-23 | Dan answers the email; 52-day severance ends; eight hours of restored intimacy |
 | 2026-07-25 | Leviathan dashboards sent as leverage; Annie states she told her parents everything |
@@ -2167,7 +2331,7 @@ The compiled full-record files the dossiers drew from
 data exists and the dual-handle export has been directly re-verified at 85,586
 records, but the exact 126,683-row cross-platform compilation can't
 currently be reproduced independently of the dossiers' own appendix. The
-Eli affair's true start is bounded but not pinned: GPS was disabled "for
+[[wiki/people/eli|Eli]] affair's true start is bounded but not pinned: GPS was disabled "for
 weeks" by late July 2024 per Annie's own account, and a
 lying-about-whereabouts breach is documented in August 2024 — five months
 before the formal discovery — so the behavioral floor sits earlier than
@@ -2280,7 +2444,7 @@ this one.
 The August 2026 rupture is the first event since that correction that gives
 the mechanism a name rather than a feeling.
 [[wiki/mind/synthesis/the-rescue-premise]] sets out six dated features that
-distinguish it from every prior severance on this page — the pre-closed Milo
+distinguish it from every prior severance on this page — the pre-closed [[wiki/people/milo|Milo]]
 channel, a rival who is present and audible rather than concealed, a written
 clearing issued for that rival and withheld from Dan, an archive declared
 retained and unused, a concurrent second channel carrying more volume than
@@ -2293,3 +2457,33 @@ completed exit from a long relationship anywhere in the corpus
 week, and it produced this page.
 
 
+
+## Sources
+
+[![Annie Ulmer, first nude, 2015-11-26 (pixelated)](../../media/upload-045.jpg)](../../media/upload-045.jpg) — Annie Ulmer's first nude to Dan, 2015-11-26 14:33 EST, black-and-white bathroom selfie (iPhone 6s front camera, her position). Embedded derivative pixelated per the censorship rule; the original is never committed. See `dat:annie-first-nude-milestone-20260912`.
+
+[![Annie in piercing shop, 2015-11-30](../../media/upload-046.jpg)](../../media/upload-046.jpg) — Annie in a piercing/tattoo shop (red walls, flash art, framed certificate), 2015-11-30 17:19 local, iPhone 6; aftercare in hand, septum piercing trip. See `dat:primanti-alcohol-exception-2015-11-30`.
+
+[![Dan with fishbowl cocktail, 2015-11-30](../../media/upload-047.jpg)](../../media/upload-047.jpg) — Dan drinking a blue fishbowl cocktail with a rubber duck, bar at night, 2015-11-30 17:52 local (no camera EXIF — possible re-save).
+
+[![Two fishbowl cocktails, 2015-11-30](../../media/upload-048.jpg)](../../media/upload-048.jpg) — Two blue fishbowl cocktails with rubber ducks on a branded table, 2015-11-30 17:53 local, iPhone 6. Dan attributes the bar stop to Primanti Bros, Morgantown; venue not verifiable from the frame.
+
+[![Dan and Annie, first public appearance, 2015-12-03](../../media/upload-056.jpg)](../../media/upload-056.jpg) — First time in public together, 2015-12-03 23:42 local, iPhone 6: Annie smiling at the camera, Dan beside her in a dark hoodie, string lights and a lit window behind. Six frames 23:41–23:51, live GPS fix (~39.9004, -79.7255, Uniontown PA) matching capture to the second. The "first" is Dan's 2026-09-12 testimony; the timestamp is EXIF. See `dat:annie-first-public-milestone-20260912`.
+
+[![iMessage exchange, new-life declaration, 2015-12-01](../../media/upload-067.jpg)](../../media/upload-067.jpg) — The new-life declaration, 2015-12-01 13:38 local: "Annie Ulmer from now on its just you and me" / "Because she's gone" / "We made it lol." Earliest primary instance of the [[wiki/mind/concepts/explicit-verbal-commitment|explicit-verbal-commitment architecture]]. See `dat:annie-new-life-exchange-2015-12-01`.
+
+[![Annie with Christmas lights, 2015-12-01](../../media/upload-066.jpg)](../../media/upload-066.jpg) — Annie holding lit Christmas lights over a mattress, laughing, 2015-12-01 16:54 local, iPhone 6 (weak GPS fix, Uniontown PA area). Deck visible through the glass door.
+
+[![Dan and Annie, beanie selfie, 2015-12-01](../../media/upload-065.jpg)](../../media/upload-065.jpg) — Dan in a beanie pulling a face, Annie leaning on his shoulder, 2015-12-01 19:43 local.
+
+[![Post-it advent calendar, 2015-12-01](../../media/upload-064.jpg)](../../media/upload-064.jpg) — Post-it-note advent calendar (1–25 + star) on a door, captioned "Post it....Adventi calendar," 2015-12-01 22:52 local.
+
+[![Dan and Annie laughing selfie, 2015-12-07](../../media/upload-068.jpg)](../../media/upload-068.jpg) — Laughing selfie, 2015-12-07 14:07 local: Annie's hand over her mouth, Dan in a red shirt leaning on her shoulder.
+
+[![Dan and Annie in bed, 2015-12-07](../../media/upload-069.jpg)](../../media/upload-069.jpg) — Bed photo, 2015-12-07 14:35 local, iPhone 6s: Dan shirtless with a red wristband, Annie beside him under white sheets, both smiling. No nudity or sexual activity visible. See `dat:annie-first-december-2015-12-07`.
+
+[![Dan kissing Annie's cheek in bed, 2015-12-07](../../media/upload-070.jpg)](../../media/upload-070.jpg) — Bed photo, 2015-12-07 14:35 local: Dan kissing Annie's cheek, her arm around him, under the sheets. No nudity or sexual activity visible.
+
+[![Dan's 'rambler' commitment message as received on Annie's phone, 2015-12-10](../../media/upload-079.jpg)](../../media/upload-079.jpg) — Dan's long commitment message ("I'll keep rambling about how perfect you are… I love you forever") as received on Annie's phone, screenshot 8:53 PM; corpus row 131575 at 2015-12-11 01:38:38 UTC (20:38 EST). Annie-side evidence of the commitment architecture. See `dat:dan-rambler-annie-phone-2015-12-10`.
+
+[![Marriage exchange, 2015-12-10](../../media/upload-080.jpg)](../../media/upload-080.jpg) — "I want to marry you" / "And spend forever feeling this happy" — "I can promise you" / "That you will marry me," 2015-12-10 18:01–18:03 EST (messages.csv rows 131945/131902, 131959/131916). See `dat:dan-annie-marriage-exchange-2015-12-10`.

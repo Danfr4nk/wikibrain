@@ -8,7 +8,7 @@ title: "Jerel Wayne Coles"
 aliases: ["Tuquick", "the unnamed man", "the interloper", "the third party", "Tuquick3@hotmail.com", "+17248123683"]
 tags: [relationships, trauma-bond, forensic-analysis, legal, uniontown-era]
 date_created: 2026-08-09
-date_modified: 2026-08-20
+date_modified: 2026-09-13
 date_range_start: 2008-10-31
 date_range_end: 2026-08-19
 infobox:
@@ -59,6 +59,7 @@ connections:
   - page: wiki/people/the-unnamed-man
     type: contains
     claim: "Confirmed by operator statement (2026-08-09) to be the same person as this page's subject — the corpus carried them as two separate people from 2026-08-02 until this correction. This page is the canonical entity for both."
+  - { target: "[[wiki/mind/synthesis/aura-illness-compound-collapse]]", type: references, claim: "The compound-collapse synthesis narrates the June 2026 closure sequence in which Coles appears as the terminal group-chat counterpart." }
   - page: wiki/people/tuquick-17248123683
     type: contains
     claim: "This page supersedes the Tuquick entity; the phone number in that page's own title is the identifier that closed the identification."
@@ -80,7 +81,7 @@ connections:
 ## How the identification was made, and what closed it
 
 On **2026-08-08 at 19:01:22 EDT** Dan ran a FOREWARN background lookup on the
-man Annie left him for. The capture is filed at
+man [[wiki/people/annie-ulmer|Annie]] left him for. The capture is filed at
 [[raw/people/captures/2026-08-08_190122_identity-of-the-interloper]].
 
 **The Tuquick identity closes on an exact identifier match:**
@@ -182,7 +183,7 @@ Collapsed by offense date:
   harassment/physical contact, **guilty**.
 - A willingness to fight in public — 2008 disorderly conduct, guilty plea.
 - **Property destruction, April 2025.** The most recent non-traffic matter, and
-  the closest behavioural and temporal neighbour to the conduct Annie describes
+  the closest behavioural and temporal neighbour to the conduct [[wiki/people/annie-ulmer|Annie]] describes
   in July 2026 (throwing her belongings around the room).
 - Escalating alcohol involvement across seventeen years: BAC .16+ at the first
   DUI, guilty pleas across the board at the second.
@@ -226,7 +227,7 @@ that identified Coles is itself ambiguous about which man it was aimed at —
 its own frontmatter reads `target: wiki/people/tuquick`, and the lookup used
 the Tuquick handle's phone number, not any number independently attributed to
 the July 2026 unnamed man, for whom no phone number is on record anywhere in
-the corpus. Both men occupy the "who Annie left/was with" role six weeks
+the corpus. Both men occupy the "who [[wiki/people/annie-ulmer|Annie]] left/was with" role six weeks
 apart in the same small town, and the same "cuck" framing (unemployment,
 sexual humiliation, escort history) appears in both the Tuquick End Fight
 material (June 1, 2026) and the unnamed man's July 26 messages sent from
@@ -258,7 +259,7 @@ now applies to: the rape allegation (2026-07-25); his July 26 accusation —
 "video proof how you fingered her for hours while she was unconscious" —
 against her own May 31 23:54 statement, "I have recorded videos of me
 obviously passed out still being touched" (possibly one accusation laundered
-through two mouths, and now answerable — see [[#Open questions]]); the Suz
+through two mouths, and now answerable — see [[#Open questions]]); the [[wiki/people/suzanne-frank|Suz]]
 telephone harassment (~2026-05-26) against the Suz call on the unnamed-man
 page; and the transcript exfiltration from Annie's phone. All of this material
 is folded into this page as the canonical entity for both prior identities.
@@ -267,7 +268,7 @@ is folded into this page as the canonical entity for both prior identities.
 
 This section is the substance of [[wiki/people/the-unnamed-man]], carried over
 now that the identity is confirmed. It was written from a single vantage —
-Annie's statements about him, and one direct exchange in which he wrote to Dan
+[[wiki/people/annie-ulmer|Annie]]'s statements about him, and one direct exchange in which he wrote to Dan
 from her phone — and nothing in it is independently corroborated beyond what
 is noted inline.
 
@@ -373,7 +374,7 @@ See [[wiki/people/annie-ulmer]] §Target G.
 > conduct findings held on checking. Four things it establishes that the
 > secondary did not carry, all of them about conduct rather than motive:
 >
-> - **Annie alleges he has hit her, to his face.** At 02:35, answering his own
+> - **[[wiki/people/annie-ulmer|Annie]] alleges he has hit her, to his face.** At 02:35, answering his own
 >   *"You're acting like someone's fucking hitting you and shit,"* she says
 >   ***"You are."*** He denies it four times immediately (*"No I didn't. No I*
 >   *fucking didn't. No I didn't. So I hit you? Where'd I hit you at then?"*).
@@ -440,7 +441,7 @@ promised about Coles the day before. In roughly one hour Coles produces:
 | 12:16 | *"Morgantown st by BFS"* |
 | **12:26** | ***"463 Morgantown st ?"*** + *"😂😂😂😂"* — Dan's home address, unprompted |
 | 12:27 | *"You're too frail and coked up"* / *"Wouldn't be fair"* |
-| 12:47 | *"Your life is nothing, I don't have to do anything you'll eventually snort some bad coke and be out of here"* |
+| 12:47 | *"Your life is nothing, I don't have to do anything you'll eventually snort some bad [[wiki/health/cocaine|coke]] and be out of here"* |
 | **12:48** | ***"I have stuff to ruin you and your mom, soon as you do something I don't like I'm gonna show you"*** |
 | 12:50 | *"No one raped her or held her hostage, no one hit her I may have yelled but that's it, she's a depressed compulsive liar"* |
 | 12:51 | *"I told her she can have you I'm not gonna ruin my life over either of you"* |

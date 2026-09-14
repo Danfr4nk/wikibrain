@@ -1,0 +1,74 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1946 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Otherwise the offer goes to you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1723427082060
+    },
+    {
+      "content": "Heâs got 30 mins to respond",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1723427073785
+    },
+    {
+      "content": "Tell maye",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1723427067392
+    },
+    {
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2897817007707861596"
+      },
+      "timestamp_ms": 1659666739388
+    },
+    {
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659662350445
+    },
+    {
+      "content": "Chilango",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Melchor Namikaze",
+      "timestamp_ms": 1656912129227
+    },
+    {
+      "content": "Santa fe klan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1656888544352
+    }
+  ],
+  "participants": [
+    {
+      "name": "Melchor Namikaze"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:31:07.272-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:31:07.272Z"
+  },
+  "thread_path": "inbox/melchornamikaze_939251704138305",
+  "title": "Melchor Namikaze"
+}

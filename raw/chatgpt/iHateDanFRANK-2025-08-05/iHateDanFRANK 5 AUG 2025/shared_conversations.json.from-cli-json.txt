@@ -1,0 +1,9 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 172 bytes not retrievable byte-identically. JSON semantics preserved.]
+[
+  {
+    "conversation_id": "680d2f35-3154-8011-8bd8-8f626346b475",
+    "id": "680d795b-22c0-8011-aa29-9f7a967ff3a7",
+    "is_anonymous": true,
+    "title": "Interpersonal Analysis Request"
+  }
+]

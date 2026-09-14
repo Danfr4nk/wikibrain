@@ -44,14 +44,16 @@ connections:
   - page: wiki/timeline/periods/2021-2023-employment-block
     type: component-of
     claim: "The Valeria affair — the decade's one unauthorized infidelity — runs inside this period, covered by the same night-class alibi infrastructure the job produced."
+  - { target: "[[wiki/people/tarik-fallous]]", type: contextualizes, claim: "Tarik hired Dan on the spot and owned the operation the affair ran inside: hostess shifts, the night-class alibi, the Instagram burst of May-June 2022 — all of it under his roof." }
+  - { target: "[[wiki/people/ismaila-barry]]", type: contextualizes, claim: "DJ and Valeria overlapped as Au Za'atar front-of-house through 2021-2024 — busser-turned-server and hostess in the same crew, both outlasting the job's end in the record." }
+  - { target: "[[wiki/people/manuel]]", type: contextualizes, claim: "Manuel and Valeria are the two Au Za'atar relationships that outlasted the job: his friendship and her 'Miss u' coda both run into 2025-2026, past the August 2024 exit." }
 ---
 
 # Valeria Iglesias Cid
 
-Valeria Iglesias Cid was the Au Za'atar hostess — daughter of Chilean
+Valeria Iglesias Cid was the [[wiki/work/au-zaatar|Au Za'atar]] hostess — daughter of Chilean
 laser-surgery figure Dra. Loreto Cid of Concepción — with whom Dan had the
-one affair of the [[wiki/people/annie-ulmer|Annie]] decade that Annie never knew about in
-advance: the record's "singular instance of unauthorized infidelity," its
+one affair of the [[wiki/people/annie-ulmer|Annie]] decade that [[wiki/people/annie-ulmer|Annie]] never knew about in advance: the record's "singular instance of unauthorized infidelity," its
 "total security breach." [OPERATOR] The primary record now fixes the
 entanglement's documented span at **August 2021 to July 2025**, opening
 with a confession Dan typed to his ex-girlfriend at 2:54 in the morning —
@@ -72,9 +74,9 @@ left the opening undated and implied a late-2021 beginning. The Drive
 re-parse surfaced a contemporaneous anchor that moves it four months
 earlier [RAW-CSV]:
 
-> 2021-08-31, TikTok DM, Dan (as "caakehorn") to Alexis Armel:
+> 2021-08-31, TikTok DM, Dan (as "caakehorn") to [[wiki/people/alexis-armel|Alexis Armel]]:
 > "I've got a new gf. She's 20 and an illegal immigrant"
-> "So that's exciting. I mean I'm still with Annie but the Mexican girl is making a fast ascent up the ranks"
+> "So that's exciting. I mean I'm still with [[wiki/people/annie-ulmer|Annie]] but the Mexican girl is making a fast ascent up the ranks"
 
 Four things matter about this message. First, the date: August 31, 2021 —
 the entanglement is already underway, already ranked ("fast ascent up the
@@ -88,7 +90,7 @@ in chile i was studying interior design" [RAW-CSV] — which puts her at 20
 in August 2021 (the age checks out) but Chilean, not Mexican, and there is
 no primary evidence for the immigration claim at all. The "Mexican" label
 is his August-2021 sloppiness or exoticizing shorthand; by August 2022,
-telling Tom Maison about her, he has corrected it to "Chilean girl
+telling [[wiki/people/tom|Tom Maison]] about her, he has corrected it to "Chilean girl
 (valeria…even the name omg)" [RAW-CSV]. The correction arc is itself
 evidence: a year of knowing her replaced the label. Fourth, the channel:
 TikTok DM, unprompted, at nearly 3 AM, to an ex who had sent him three
@@ -99,7 +101,7 @@ answering a question; he needed somewhere to put the sentence.
 
 The same night's earlier messages fix his employment frame: "So I'm
 waiting tables now / Actually I have been since like March" [RAW-CSV] —
-Au Za'atar from March 2021, consistent with the 41-month tenure the wiki
+[[wiki/work/au-zaatar|Au Za'atar]] from March 2021, consistent with the 41-month tenure the wiki
 records elsewhere. She entered through the restaurant, and through Annie
 herself: Annie trained her as a hostess and told Dan "hey i trained a new
 hostess who is started at your restaurant" [OPERATOR] — a hand-off Dan
@@ -107,7 +109,7 @@ calls "a kinda alexis-ish twist of events," and a fact he later restated
 to Annie's own handle in so many words ("that girl Valeria you trained at
 Au Zaatar," November 2024) [OPERATOR].
 
-## Why Alexis
+## Why [[wiki/people/alexis-armel|Alexis]]
 
 The confession's recipient is doing structural work, and the wiki's own
 "control case" framing names it: Alexis Armel (2009–2015) is the ex Dan
@@ -119,7 +121,7 @@ one-sided video drops, then at 01:51 on August 31 he surfaces with
 [RAW-CSV]. He is not continuing a conversation. He is using the only
 open channel to a person whose opinion of him already includes the worst
 version — the ex who watched him cheat, who knows the architecture —
-because the sentence "I'm still with Annie but the Mexican girl is
+because the sentence "I'm still with [[wiki/people/annie-ulmer|Annie]] but the Mexican girl is
 making a fast ascent up the ranks" needs a reader who won't flinch.
 [INFERENCE] The thread then closes the way it opened: fourteen months
 later, October 20, 2022, a single "Hiya" from him, no reply on the held
@@ -136,7 +138,7 @@ testimony, not from messages. The evidentiary status of this section is
 [OPERATOR] throughout, and the rewrite keeps it labeled as such rather
 than laundering it into fact.
 
-She worked the host stand at Au Za'atar Midtown while Dan ran the sidewalk
+She worked the host stand at [[wiki/work/au-zaatar|Au Za'atar]] Midtown while Dan ran the sidewalk
 Shed ([[wiki/work/au-zaatar]]); the "night class" alibi doubled as its
 cover. The documented peaks, all from his account: the Central Park kiss
 and the secret basement reunion hug, both preserved on video; a "digital
@@ -169,7 +171,7 @@ the nine-month message gap between August 2021 and May 2022 means the
 affair's actual beginning — first conversation, first kiss — is
 undocumented in any held channel. [DERIVED]
 
-<<<<<## The detonation: May 28 – June 13, 2022
+## The detonation: May 28 – June 13, 2022
 
 The Instagram thread opens on **May 28, 2022, at 02:37 UTC** with Dan
 already mid-pursuit [RAW-CSV]:
@@ -238,7 +240,7 @@ May–June 2022 in-person tail is not: the thread is the sound of two
 people working the same restaurant, texting between and after shifts,
 with sixteen days left on her visa-clock. [DERIVED]
 
-On June 9, Tarik confronts Dan at work — "You talk to
+On June 9, [[wiki/people/tarik-fallous|Tarik]] confronts Dan at work — "You talk to
 valeria a lot. You like her or something?" — three hours, by Dan's
 count, before the basement hug: "It made the whole thing SO much worse /
 Because I was extra cautious to have you follow me downstairs then"
@@ -254,7 +256,7 @@ in-thread, not just in testimony.
 The oath the wiki has always attached to this relationship is verbatim in
 the record. June 9, 17:17 UTC [RAW-CSV]:
 
-> "You are the most beautiful girl on the entire planet I swear / Like no joke no exaggeration 100% serious I swear on milo / You are THE prettiest girl I've ever seen and somehow also my favorite person I've ever met"
+> "You are the most beautiful girl on the entire planet I swear / Like no joke no exaggeration 100% serious I swear on [[wiki/people/milo|milo]] / You are THE prettiest girl I've ever seen and somehow also my favorite person I've ever met"
 
 "I swear on milo" — the dog as oath object, the statement he wants treated
 as unfalsifiable, deployed at peak intensity four days before her flight.
@@ -279,8 +281,7 @@ The IG thread is also a workplace document, and it preserves the Au
 Za'atar floor the way the employment-block articles describe it from
 above. The cast is all here: Camilo, the coworker she loves
 ("I love Camilo," "Camilo the best") and Dan competes with for her
-affection; Felipe, judged "a diva" by both of them; DJ, who "got in a
-yelling fight" with Camilo; Tarik, watching the cameras "constantly"
+affection; [[wiki/people/felipe|Felipe]], judged "a diva" by both of them; [[wiki/people/ismaila-barry|DJ]], who "got in a yelling fight" with Camilo; [[wiki/people/tarik-fallous|Tarik]], watching the cameras "constantly"
 [RAW-CSV]. The thread even preserves the origin story of Dan's
 assignment to her: "on the second day you weee there he told me to 'help
 the hostess' and I told him 'oh you're going to regret giving me that
@@ -290,8 +291,7 @@ lot" is the boss seeing it, and her "Do u think someone thinks that we
 talk a lot? And that we like each other?" is her seeing him see it.
 [DERIVED] The "night class" alibi the wiki describes as infrastructure
 appears here as lived texture — the 10 PM exits, the freed evenings, the
-36% of his messages sent in the 22:00–01:00 window. Nobody in the thread
-names Annie. Her name does not appear once in 4,882 records. [DERIVED]
+36% of his messages sent in the 22:00–01:00 window. Nobody in the thread names [[wiki/people/annie-ulmer|Annie]]. Her name does not appear once in 4,882 records. [DERIVED]
 
 The boyfriend in Chile is the thread's third point, present from the
 first week: "I discovered that my boyfriend in Chile had tinder and I
@@ -302,7 +302,7 @@ me, with a boyfriend, who is—" (June 4, his, trailing off mid-sentence)
 the arrangement he was violating at home, mirrored back at him.
 [INFERENCE]
 
-## Milo, the third party
+## [[wiki/people/milo|Milo]], the third party
 
 The dog is the relationship's third character, and the thread makes the
 wiki's "oath object" claim verbatim. "I swear on milo" (June 9) is the
@@ -331,7 +331,7 @@ The silence is not the whole story, but the rest of the story is where
 the evidentiary floor falls out — see the next section. What the primary
 record does hold after August 2022:
 
-- **2022-08-01**, Dan to Tom Maison (Facebook Messenger): "Chilean girl
+- **2022-08-01**, Dan to [[wiki/people/tom|Tom Maison]] (Facebook Messenger): "Chilean girl
   (valeria…even the name omg) is into pills" [RAW-CSV] — seven weeks after
   departure, still narrating her to his best friend, the label now
   corrected from "Mexican" to "Chilean."
@@ -383,8 +383,7 @@ corpus's last inbound message remains hers. [OPERATOR]
 ## Framing audit: what the primary record supports
 
 **"The decade's one unauthorized infidelity."** Sustained. The TikTok
-confession's own words — "I'm still with Annie but the Mexican girl is
-making a fast ascent up the ranks" — are the concealment stated plainly,
+confession's own words — "I'm still with [[wiki/people/annie-ulmer|Annie]] but the Mexican girl is making a fast ascent up the ranks" — are the concealment stated plainly,
 and no competing concealed affair of comparable duration appears anywhere
 in the 27,573-record social-DM parse. [DERIVED] The Shelbie arrangement
 ran openly alongside Annie; Emaly was pre-Annie-adjacent. Valeria stands
@@ -421,19 +420,19 @@ his own condition, delivered to her as a joke eleven days after she left.
 
 ## Structural significance
 
-Valeria is the "CORE ANOMALY" of the Au Za'atar chronicles and the
+Valeria is the "CORE ANOMALY" of the [[wiki/work/au-zaatar|Au Za'atar]] chronicles and the
 record's cleanest demonstration of the remote-intimacy architecture
 ([[wiki/mind/profile/enneagram-5w4]]): a connection that survived years
 almost entirely inside a JSON object, idealized in exact proportion to
 its distance — with the correction that the idealization's loudest
 expression coincided with proximity, not distance, and the distance only
 froze it. She is also the sharpest counter-datum in the Annie moral
-ledger: while the wiki documents Annie's concealments at length, the
+ledger: while the wiki documents [[wiki/people/annie-ulmer|Annie]]'s concealments at length, the
 Valeria thread is Dan's own sustained concealment, held secret by the
 same alibi infrastructure he later condemned in others, and running (as
 correspondence) even while he prosecuted Annie's affairs forensically.
 The record calls it a "True Betrayal" in his own cycle [OPERATOR]; this
-page keeps it queryable for the same reason the Eli page exists.
+page keeps it queryable for the same reason the [[wiki/people/eli|Eli]] page exists.
 
 One more attested fact sharpens the asymmetry: asked in the finale
 session how he "re-stabilized" the relationship with Annie after

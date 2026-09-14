@@ -1,0 +1,29 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 469 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Happy Birthday!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Wendy G",
+      "timestamp_ms": 1667330056831
+    }
+  ],
+  "participants": [
+    {
+      "name": "Wendy G"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:28:50.894-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:28:50.894Z"
+  },
+  "thread_path": "inbox/wendyg_563784128355227",
+  "title": "Wendy G"
+}

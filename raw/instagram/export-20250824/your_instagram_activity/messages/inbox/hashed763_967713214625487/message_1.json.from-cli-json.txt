@@ -1,0 +1,56 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1522 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "https://twitter.com/n0s3ns13/status/1588144425913487361?t=xsgnAWsbvtrNVeehMsP5lQ&s=19",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "hashed763",
+      "share": {
+        "link": "https://twitter.com/n0s3ns13/status/1588144425913487361?t=xsgnAWsbvtrNVeehMsP5lQ&s=19",
+        "share_text": "https://twitter.com/n0s3ns13/status/1588144425913487361?t=xsgnAWsbvtrNVeehMsP5lQ&s=19"
+      },
+      "timestamp_ms": 1668575054646
+    },
+    {
+      "content": "That's a quote from Star Wars",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "hashed763",
+      "timestamp_ms": 1668311052965
+    },
+    {
+      "content": "I am the Senate",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "hashed763",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2970307027869403824"
+      },
+      "timestamp_ms": 1668311034927
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "hashed763",
+      "timestamp_ms": 1659897271393
+    }
+  ],
+  "participants": [
+    {
+      "name": "hashed763"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:28:44.795-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:28:44.795Z"
+  },
+  "thread_path": "inbox/hashed763_967713214625487",
+  "title": "hashed763"
+}

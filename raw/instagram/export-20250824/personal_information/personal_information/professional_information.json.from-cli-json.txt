@@ -1,0 +1,15 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 170 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "profile_business": [
+    {
+      "media_map_data": {},
+      "string_map_data": {},
+      "title": "Business Information"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:23:12.476-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:23:12.476Z"
+  }
+}

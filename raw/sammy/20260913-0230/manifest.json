@@ -1,0 +1,26 @@
+{
+ "batch": "20260913-0230",
+ "pulled_at_utc": "2026-09-13T06:36:00Z",
+ "pulled_by": "wiki-brain-writeback-6h",
+ "window": {
+  "chats": {
+   "from": "2026-09-12T23:52:02.888+00:00",
+   "to": "2026-09-13T06:22:22.196+00:00"
+  }
+ },
+ "dedup": {
+  "against": "raw/sammy/20260912-2345/chats.json",
+  "overlap_excluded": 1
+ },
+ "counts": {
+  "chat_rows": 464,
+  "user": 171,
+  "assistant": 293
+ },
+ "files": {
+  "chats.json": {
+   "sha256": "438d8c2011aa1f7a8579313cc4d65d2b1152333baa80863e030fdd4e1704b9fc",
+   "bytes": 225216
+  }
+ }
+}

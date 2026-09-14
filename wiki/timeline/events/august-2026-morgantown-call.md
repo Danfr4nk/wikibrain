@@ -68,6 +68,9 @@ connections:
   - page: wiki/people/tuquick-17248123683
     type: evidenced-by
     claim: "This page declared the thread CLOSED on 2026-06-16. It reopened on 2026-08-17 with 97 further messages from the same handle, which makes the closure a dormancy rather than an exit and puts this number back in the live record."
+  - target: "[[wiki/timeline/events/july-august-2026-reentanglement]]"
+    type: extends
+    claim: "The Aug 16-19 window extends the re-entanglement that page documents into its terminal chapter: the July 26 phone seizure, the Aug 9 sleepover, and the Aug 13 group-chat seam are its direct antecedents."
   - page: wiki/people/milo
     type: evidenced-by
     claim: "The dog's name is used as a duress code. At 22:54 on 2026-08-18, after Coles had been typing on her handle two hours earlier, Annie sends 'Betty. Milo. Whatever sos words' — reaching for the two dogs as the one thing that could prove to Dan it was really her. The channel that reopened the relationship in July is the channel she tries to authenticate herself through in its last emergency."
@@ -88,7 +91,7 @@ twenty-seven seconds there is a primary artifact of the third party's
 conduct that is not anybody's testimony about it.** Every prior account of
 [[wiki/people/jerel-coles|Coles]] in this wiki is mediated — Annie's claims,
 Dan's inferences, a group chat, a background check. On the night of August 16
-he is audible.
+[[wiki/people/jerel-coles|he]] is audible.
 
 ## LLM Quick Brief
 
@@ -186,7 +189,7 @@ had to establish against a source that said the opposite.
 ## The night — August 16
 
 The five hours before the call are the ordinary failure mode of this
-relationship, not a prelude to anything. Annie asked at 16:38 to see Dan
+relationship, not a prelude to anything. [[wiki/people/annie-ulmer|Annie]] asked at 16:38 to see Dan
 (*"I will see you when I get home… So try to see bop"*), Dan read it as a
 procurement request dressed as a visit, and she then went silent for six
 hours while he escalated alone: 64 messages that day against 12 inbound. At
@@ -226,7 +229,7 @@ longer attributed; it is checked. Where a claim moved, the old version is kept
 visible.
 
 **The shape of the call, before any quotation.** 204 speaker turns in fifteen
-minutes: **Coles 99, Annie 55, Dan 50.** Coles takes nearly as many turns as
+minutes: **[[wiki/people/jerel-coles|Coles]] 99, [[wiki/people/annie-ulmer|Annie]] 55, Dan 50.** Coles takes nearly as many turns as
 the other two combined, and the call is his throughout — he sets every topic,
 and both of the others are responding to him.
 
@@ -397,7 +400,7 @@ shape of her side of this record is a single repeated word.
 Against that, Dan says *goodbye* **37 times** and threatens to block **15
 times** inside the same 67 hours, and neither happens until the very end.
 
-**The named target is Ellen's work email.** *"If I don't hear from you by
+**The named target is [[wiki/people/ellen-ulmer|Ellen]]'s work email.** *"If I don't hear from you by
 noon, im sending to your moms work email…that's the only one I could find"*
 (Aug 17 04:21). Later: *"should I send to your moms HHS.net email or the
 Verizon.net email"*, and *"i'm really really really trying to avoid sending to
@@ -480,13 +483,13 @@ changes at 11:25 and never changes back:
 
 The strongest datum in the window is the one the AI analysis could not have
 had, because its export stopped a day early. Two nights after the call,
-mid-argument, Annie's handle produces this:
+mid-argument, [[wiki/people/annie-ulmer|Annie]]'s handle produces this:
 
 > **21:46** *"She's with me man chill lmfao"* · *"Still moaning"* ·
 > *"No body cares junkie"*
 > **21:50** *"Do you wanna talk to her answer 😂😂😂"*
 
-Coles has her phone a second time. Dan, who three minutes earlier had been
+[[wiki/people/jerel-coles|Coles]] has her phone a second time. Dan, who three minutes earlier had been
 writing *"this is your last fucking chance,"* answers *"Okay sending now /
 Tell her thanks for 10 years / I'm blocking now"* — he reads the seized
 handle as Annie's voice in real time, which is precisely the error this page
@@ -520,7 +523,7 @@ later to change *cock* to *Coke*, which is itself in the record as an edit.
 > be checked against the message record are checked, and it is said which are
 > which.
 
-There is a **group chat** containing Dan, Annie and Coles. Two messages from it
+There is a **group chat** containing Dan, [[wiki/people/annie-ulmer|Annie]] and [[wiki/people/jerel-coles|Coles]]. Two messages from it
 are legible in the screenshot the operator supplied — it is the only copy in
 the corpus, the image itself is not on disk, and the group chat has **never
 been exported**:
@@ -669,7 +672,7 @@ the evidence available, it was not.
 > pages and is corrected on each. What actually distinguishes this severance is
 > a different thing entirely, and it is set out below.
 
-Dan writes 141 messages on August 19; Annie writes 53, and forty of those come
+Dan writes 141 messages on August 19; [[wiki/people/annie-ulmer|Annie]] writes 53, and forty of those come
 before 02:05. After the small hours she sends **fourteen messages in thirteen
 hours** against roughly ninety of his.
 
@@ -901,7 +904,7 @@ seventy hours, on the two most consequential nights in the record**, and one
 of the six is a rape-adjacent accusation against Dan that the wiki would
 otherwise file as Annie's testimony.
 
-`wiki/self/context-core` counts **97,768 unique messages across Annie's four
+[[wiki/self/context-core|`wiki/self/context-core`]] counts **97,768 unique messages across Annie's four
 handles**. The rule that count rests on — one handle, one person — is now
 known to fail, and it fails hardest exactly where the stakes are highest,
 because the seizures happen during crises. Any claim of the form *"Annie

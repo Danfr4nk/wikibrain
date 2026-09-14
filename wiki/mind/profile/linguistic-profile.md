@@ -229,6 +229,37 @@ apology and reassurance ("I'm sorry," "I love you," "I promise") that
 doesn't have a platonic equivalent — his friend-conflicts are rare and
 brief enough that this repair cycle never gets exercised the same way.
 
+## Live state instrumentation (2026-09)
+
+On 2026-09-11 Dan commissioned the thing this page had always lacked: a
+*prospective* instrument. The retrospective analyses describe the voice;
+the state tracker watches it live. A 29-feature extractor against a
+baseline of 94,503 outbound iMessages (2011–2026), scored every 30
+minutes in a quiet cron, with a 09:00 ET daily digest — a divergence index
+per window, top driver features, flags when the index spikes. His own
+same-night label on the 00:47–05:35 ET music chat ("cannabis-high") is the
+first calibration ground truth: his self-labels are treated as calibration,
+never as inference fodder. The earliest scored windows ran clean (divergence
+index 0.5, no flags). Code: `~/workspace/stylometry/`.
+
+On 2026-09-12 he asked for the writing-specific version of the instrument —
+"a small writing prompt or instruction custom built and optimized to
+identify markers" — and got the **6-minute sample**: the same three fixed
+prompts every run (W1 STREAM, 3 min nonstop about the last 2 hours; W2 ROOM,
+90 s room description as topic-fixed control; W3 ARGUE, 90 s on hot dog —
+sandwich or not?, 5+ sentences), one sitting, no editing, no backspacing.
+Fixed prompts mean topic cannot confound the signal — all variance is the
+writer; W1 hunts length markers, W2 is the control, W3 stresses reasoning
+structure, and the no-edit rule makes typo density measurable for the first
+time. A timer page enforcing the clock and the no-backspace rule was
+offered, not yet built; no sample had been run as of the window. Notably he
+admitted in the same exchange that he already had the answer and was testing
+whether the model would spot the writing-specific instrument — the standing
+adversarial-evaluation pattern applied to the instrumentation itself.
+
+Evidence: `dat:1456-baseline-testing-battery`, `dat:1457-writing-sample-instrument`,
+`dat:1458-suboxone-and-onset-label-20260912`.
+
 **Gaps:** the stylometric layers analyze the texting/AI corpus; no formal
 analysis exists of the lyric/production-adjacent writing or of speech
 (voice memos, calls); temporal drift analysis is anecdotal ("earlier AI

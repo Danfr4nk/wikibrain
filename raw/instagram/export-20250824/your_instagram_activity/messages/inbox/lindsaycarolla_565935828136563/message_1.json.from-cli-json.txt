@@ -1,0 +1,243 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 8504 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "i'm not dunking on him, he's just very 'surface' and didn't quite understand the nuances of a successful non-monogomous relationship",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601184304855
+    },
+    {
+      "content": "it was one of the top 5 laughs i've ever had. if he were even a little bit threatening it wouldn;t have been as funny but it was awk squared",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601184234205
+    },
+    {
+      "content": "just trust me you've never had a better laugh in your life when he like tried to put his arm around her in front of me on like 5th and 74th",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601184175965
+    },
+    {
+      "content": "I didnât even know he was still alive to be honest",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Lindsay Carolla",
+      "timestamp_ms": 1601136301412
+    },
+    {
+      "content": "like do you see how pretty this girl is? how on earth would that be any reasonable expectation.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601131231032
+    },
+    {
+      "content": "the tom shit was weird tho and i thought youd get a kick out of it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601131174922
+    },
+    {
+      "content": "and just like try new stuff she hasn't done. like...anything - start a makeup channel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601131128488
+    },
+    {
+      "content": "so i'm trying to get her to stream stuff without feeling shitty about it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601130889658
+    },
+    {
+      "content": "*which she was doing before she knew me*",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601130850878
+    },
+    {
+      "content": "it's the skillset she had for camming",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601130839517
+    },
+    {
+      "content": "i am getting here to just stream video games",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601130826291
+    },
+    {
+      "content": "Good for you though thatâs awesome",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Lindsay Carolla",
+      "timestamp_ms": 1601124021121
+    },
+    {
+      "content": "Do you just stream live? I went to check out vids and didnât see anything!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Lindsay Carolla",
+      "timestamp_ms": 1601124003757
+    },
+    {
+      "content": "come be friends too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601091167060
+    },
+    {
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "share": {
+        "link": "https://www.twitch.tv/THANKSIHATEIT",
+        "share_text": "thanksihateit streams live on Twitch! Check out their videos, sign up to chat, and join their community."
+      },
+      "timestamp_ms": 1601091160969
+    },
+    {
+      "content": "assuming anything is open by then",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601091085033
+    },
+    {
+      "content": "ps come see me do comedy in nyc when you come in next time",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601091077631
+    },
+    {
+      "content": "but i jsut thought you;d think it was funny how shallow his interpretations still are",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601091058661
+    },
+    {
+      "content": "in all honesty it hasn't been THAT bad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601091038277
+    },
+    {
+      "content": "and i had to be all nawwww",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601091003615
+    },
+    {
+      "content": "which is a green light for him lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601090992304
+    },
+    {
+      "content": "he finds out we're in a semi-open relationship",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601090982460
+    },
+    {
+      "content": "just between you and i",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601090971462
+    },
+    {
+      "content": "Whatâs the problem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Lindsay Carolla",
+      "timestamp_ms": 1601090956423
+    },
+    {
+      "content": "i'm sorry",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601090946275
+    },
+    {
+      "content": "Havenât heard that name in ages",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Lindsay Carolla",
+      "timestamp_ms": 1601090941073
+    },
+    {
+      "content": "and imagine the worst possible scenarios....that's reality",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601090934293
+    },
+    {
+      "content": "and he's been here for like 3-4 days",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601090916463
+    },
+    {
+      "content": "so tom maison drove Annie and i back to nyc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601090902085
+    },
+    {
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Lindsay Carolla",
+      "timestamp_ms": 1601058354654
+    },
+    {
+      "content": "can i tell you a super nuclear apocalypse story that is just a little funny",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1601056306533
+    }
+  ],
+  "participants": [
+    {
+      "name": "Lindsay Carolla"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:31:54.454-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:31:54.454Z"
+  },
+  "thread_path": "inbox/lindsaycarolla_565935828136563",
+  "title": "Lindsay Carolla"
+}

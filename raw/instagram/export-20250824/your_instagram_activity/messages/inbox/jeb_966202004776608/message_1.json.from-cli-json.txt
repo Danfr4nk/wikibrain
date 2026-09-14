@@ -1,0 +1,329 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 12552 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Bruh gimme some positivity",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Jeb",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/3495083594051312528"
+      },
+      "timestamp_ms": 1730867188223
+    },
+    {
+      "content": "It is constant",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Jeb",
+      "timestamp_ms": 1659751937628
+    },
+    {
+      "content": "Yep",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Jeb",
+      "timestamp_ms": 1659751933418
+    },
+    {
+      "content": "I would be miserable if I had a mortgage or a job that required email",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659751929704
+    },
+    {
+      "content": "As long as you are happy that is all that matters",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Jeb",
+      "timestamp_ms": 1659751929631
+    },
+    {
+      "content": "While it may seem unfulfilled to some",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659751907039
+    },
+    {
+      "content": "I have a whole lot of fun so",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659751897232
+    },
+    {
+      "content": "Thatâs awesome though dude. You will (probably) be glad to know that not much has changed in the sense that Iâm skateboarding around nyc getting tattoos and doing drugs and waiting tables. \n\nIm still not QUITE ready to be a big boy yet lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659751876895
+    },
+    {
+      "content": "Hah! That's why I moved to California. It happens",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Jeb",
+      "timestamp_ms": 1659751709012
+    },
+    {
+      "content": "I wonder how often you get bothered by friend and family \n\nâMy external crashed can you please recover my data?â",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659751678758
+    },
+    {
+      "content": "But if it's like Teams it's possibly kn a sever somewhere",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Jeb",
+      "timestamp_ms": 1659751588150
+    },
+    {
+      "content": "Haha feds and law enforcement have access to slightly better tools. Deleted text messages totally depends on the service. SMS could prob be provided by the carrier. iMessage whatsapp or other stuff is basically on the phone. Any more once it's off the phone it's gone",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Jeb",
+      "timestamp_ms": 1659751575384
+    },
+    {
+      "content": "Hahah dude beware I will bombard you with questions for literally days about this stuff. Itâs just fascinating to sit at the intersection between government and LEO and tech as you do",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659751468823
+    },
+    {
+      "content": "And these recent stories about the secret service and dod missing texts etcâ¦\n\nThereâs really no way even through a carrier subpoena to get that stuff back?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659751406097
+    },
+    {
+      "content": "You and my wife would get along",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Jeb",
+      "timestamp_ms": 1659751355491
+    },
+    {
+      "content": "Digital forensics",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Jeb",
+      "timestamp_ms": 1659751327533
+    },
+    {
+      "content": "But the Moore case thatâs on next years Supreme Court docket will really determine if there is even any hope to try to fix",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659751324773
+    },
+    {
+      "content": "Im Just a consultant. I help with investigations and help  companies respond to regulators or deal with lawyers or investigate what someone was doing on their laptop or phone",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Jeb",
+      "timestamp_ms": 1659751323426
+    },
+    {
+      "content": "Hahahaha oh man",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Jeb",
+      "timestamp_ms": 1659751279303
+    },
+    {
+      "content": "Motherfucker it will BE constitutional",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659751249843
+    },
+    {
+      "content": "People say âI wouldnât follow an unconstitutional lawâ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659751240976
+    },
+    {
+      "content": "There is no electoral answer to fix a duopoly where one party has become antidemocratic and holds such a clear and ideologically bent judicial majority",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659751224142
+    },
+    {
+      "content": "Oh we are fucked.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Jeb",
+      "timestamp_ms": 1659751192511
+    },
+    {
+      "content": "Dude I watch politics VERY closely and I have for a long time. I have a pretty good and balanced media diet and I know my biasesâ¦\n\nI am VERY worried about almost every possible scenario that might play out.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659751180942
+    },
+    {
+      "content": "Lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659751053755
+    },
+    {
+      "content": "(Broadly)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659751050577
+    },
+    {
+      "content": "What are you doing?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659751043612
+    },
+    {
+      "content": "We do have an office there - I haven't been out since the pandemic but will let you know if I'm ever out there. Gonna be a weird election so hopefully we all survive the next few years",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Jeb",
+      "timestamp_ms": 1659751028625
+    },
+    {
+      "content": "Do you ever find yourself in the New York area?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659750869377
+    },
+    {
+      "content": "If I use the word  âsheepdippedâ in conversation the joke NEVER lands",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659750830452
+    },
+    {
+      "content": "Iâm joking I donât have a lot of opportunities to use the amount of worthless intelligence vocabulary Iâve acquired very often",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659750784293
+    },
+    {
+      "content": "Listen I donât want deep 6âd so Iâm going to accept whatever you say as factually accurate",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659750751232
+    },
+    {
+      "content": "Hahaha I'm just a private consultant. No gov..  just Clicking buttons.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Jeb",
+      "timestamp_ms": 1659750703246
+    },
+    {
+      "content": "ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659750668375
+    },
+    {
+      "content": "I read the Comey book and there was not a single South American dark ops coup to be found",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659750665977
+    },
+    {
+      "content": "I mean the adventures that those dudes get up to",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659750633100
+    },
+    {
+      "content": "Dude how do you go down that road and not go Langley instead of quantico",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659750621584
+    },
+    {
+      "content": "Hahahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Jeb",
+      "timestamp_ms": 1659750586312
+    },
+    {
+      "content": "Miss you too!  Hope all is well. I'll see that knuckle head in a couple days probably",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Jeb",
+      "timestamp_ms": 1659750581637
+    },
+    {
+      "content": "That you done miss me because you have access to all of my digital history",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659750575804
+    },
+    {
+      "content": "And I make the joke tonjerad all the time",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659750553073
+    },
+    {
+      "content": "I miss you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1659750546204
+    },
+    {
+      "content": "ð¤",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Jeb",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/2898515020356826679"
+      },
+      "timestamp_ms": 1659750496940
+    }
+  ],
+  "participants": [
+    {
+      "name": "Jeb"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:32:19.067-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:32:19.067Z"
+  },
+  "thread_path": "inbox/jeb_966202004776608",
+  "title": "Jeb"
+}

@@ -1,0 +1,50 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 989 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "joinable_mode": {
+    "link": "",
+    "mode": 1
+  },
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Instagram User sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "share": {
+        "link": "http://wowclck.site/JHnF8dqH",
+        "share_text": "Visit the page to see this album : CLICK NOW TO SEE PIVATE VIDEO"
+      },
+      "timestamp_ms": 1581603912500
+    }
+  ],
+  "participants": [
+    {
+      "name": "Damon Laukala"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    },
+    {
+      "name": "MFTW"
+    },
+    {
+      "name": "Chris Smith"
+    },
+    {
+      "name": "Instagram User"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:28:19.825-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:28:19.825Z"
+  },
+  "thread_path": "message_requests/damonlaukalainstagramusermftwand2others_126709805542308",
+  "title": "Damon Laukala, Instagram User, MFTW and 2 others"
+}

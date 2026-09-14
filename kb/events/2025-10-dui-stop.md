@@ -74,6 +74,15 @@ hearing before the local MDJ; no further disposition on record
   line as Annie's proceedings. A PA UJS lookup of MJ-14101-CR-0000631-2025
   would settle it definitively; meanwhile the docket names Annie, and the
   event is filed as hers.
+- **Attribution wrinkle CLOSED (2026-09-12):** Dan confirmed directly that the
+  Oct 26, 2025 stop was Annie's DUI — she got it. His long-standing account
+  that it was his stop, with proceedings into January 2026, was
+  misremembered; he does not drink (alcohol-zero 13–15 years). Classification:
+  good-faith date/identity displacement, consistent with the standing
+  veracity-ledger read of his testimony (hedged-claim accuracy ~0.75,
+  misremembering over dishonesty). The Jan-2026 proceedings line attaches to
+  her matter. No further UJS lookup needed on the whose-stop question; the
+  disposition question (open above) stands.
 - Fifteen days earlier (2025-10-11), Tom was pulled over in Fayette County on
   suspicion of DUI — old-wiki testimony with zero held-corpus hits
   ([`dat:0300`](../data/0300-tom-2025-10-11-traffic-stop-unverifiable-in-held-corpus.md));

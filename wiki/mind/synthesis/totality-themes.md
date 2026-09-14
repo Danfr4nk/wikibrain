@@ -1,6 +1,7 @@
 ---
 domain: mind
 page_type: synthesis
+title: "Totality Themes"
 knowledge: earned
 status: active
 date_created: 2026-06-22
@@ -54,6 +55,9 @@ synthesizes:
   - wiki/mind/profile/intp
 tags: [ai-collaboration, trauma-bond, politics, personality-profile, forensic-analysis]
 connections:
+  - page: wiki/mind/concepts/no-delete-operation
+    type: instantiates
+    claim: "The Irreversibility Firewall is the no-delete rule at the strategic level — write is cheap, revocation is impossible, control moves to the write gate — alongside the commitment architecture (cognition), node locking (protocol), and Si-tertiary's non-pruning archive. Added 2026-09-13."
   - page: wiki/mind/synthesis/dan-annie-fallout-verdict
     type: contains
     claim: "Not a counter-instance but the firewall's cost, stated plainly: the response architecture that converted a survivable betrayal into a decade-long catastrophe is the same no-close, no-audit-on-the-chosen machinery this page derives, and this verdict is the check against ever offering the mechanism as a defense."
@@ -150,6 +154,9 @@ connections:
   - page: wiki/mind/profile/intp
     type: evidenced-by
     claim: "'Dan's own audit apparatus, turned on himself' is this page's own phrase for a specific measured function, not a metaphor: Ti-dominance defines truth as 'a system that holds under recursive collapse,' and the firewall's whole logic — that finishing, shipping and admitting are one category of dangerous act — follows from the fact that any of them lets that same coherence-testing engine render a verdict on the system as a whole."
+  - target: "[[wiki/mind/synthesis/closing-the-set]]"
+    type: extends
+    claim: "The 2026-08-19 re-check on this page adopts the target as the alternative account of the taste-record distribution: coverage-not-taste replacing the four-domain concentration framing."
   - page: wiki/self/context-core
     type: evidenced-by
     claim: "The Cross-Corpus Extensions section (2026-07-15) cites 'the spine' by name as primary evidence at least eight times — the alias chronology, the money-flow direction, the vertical/romantic-axis starvation reading — while the core Irreversibility Firewall section above it deliberately downgraded the same raw material to corroboration only (note_on_sources, 2026-08-11); one page therefore carries two different evidentiary standards for the same source depending on which of its two halves is doing the reasoning, and until this edge neither half linked the wiki page that actually synthesizes that source."
@@ -349,7 +356,7 @@ engine.
 **1. Nothing gets deleted; everything is retained with reactivation
 bandwidth.** [[wiki/mind/synthesis/dormancy-not-exit]] states this as its
 own rule — every relationship the corpus calls "over" has in fact changed
-role and stayed reachable, Danielle Onesi seventeen years on, the Menore
+role and stayed reachable, [[wiki/people/danielle-onesi|Danielle Onesi]] seventeen years on, the [[wiki/people/menore|Menore]]
 supply line surviving a 2,044-day silence. [[wiki/mind/synthesis/the-unbroken-bond]]
 shows the same rule one level up: the primary romantic slot has been
 occupied without a gap longer than weeks for seventeen years, because
@@ -711,7 +718,7 @@ a parallel between the May 2014 account migration and a claimed "12-day
 outbound window [with Rick], then dark; a decade of unanswered inbound." The
 Rick side of that parallel is false — built on an incomplete per-contact
 export that captured 43 of the channel's actual 1,600+ messages. The
-complete primary record (see `rick-frank.md`'s corrected account) shows
+complete primary record (see [[wiki/people/rick-frank|rick-frank.md]]'s corrected account) shows
 real repair within three weeks of the December 2015 friction and a warm,
 high-volume correspondence through 2020 and again in 2023–24. **Dan did not
 execute an unannounced boundary act against Rick and leave it running dark
@@ -817,7 +824,7 @@ has been pointing at the same door from four directions.
 > re-derived; this section is the evidentiary base a future pass would climb
 > from to actually re-derive it, not a citation for it yet.
 
-The search corpus dates the "Suzanne Frank realtor 15401" cluster to **2023.**
+The search corpus dates the "[[wiki/people/suzanne-frank|Suzanne Frank]] realtor 15401" cluster to **2023.**
 The sale of 337 Saratoga closes **June 2026** — with, per standing context, no
 confirmed post-close plan. Put those two facts together and the "acute housing
 emergency" reframes: this is not an emergency that arrived; it is an emergency
@@ -915,7 +922,7 @@ from the joins:
   every era, load-tested for twelve years. But compartmentalization solved
   exposure by making activity *invisible* — and shipping under an alias inherits
   that property unless actively counteracted. A release into a compartment nobody
-  is told about is shipping-shaped non-exposure. The Snob Squad work is the first
+  is told about is shipping-shaped non-exposure. The [[wiki/interests/music/aliases/gripnotic|Snob Squad]] work is the first
   alias in the record being built *publicly* from day one — logo, brand
   aesthetic, a name road-tested against native vocabulary, designed to be seen.
   That is the difference between a compartment and a vessel, and it is why the
@@ -1032,36 +1039,6 @@ this page and the spine treat as the poverty floor. Both parties were at the
 floor simultaneously and lending to each other, which is a different system than
 one precarious person drawing on a stable one.
 
-## Gaps and open questions carried from the third pass
-
-The synthesis leaves specific falsifiable residue, in rough order of resolution
-cost:
-
-- **Cheap (existing data, one session each):** the per-active-day search
-  recomputation by year (settles the "New York activates you" city-effect claim,
-  §1); the monthly 2024 search distribution against the 177-day YouTube gap
-  (fully closes prediction four); the Suboxone day-zero pin via first-strips
-  message reference plus the 2010 monthly transition signature (the spine carries
-  ~Jan 2010 as UNPINNED — one session of corpus work closes a sixteen-year-old
-  date); the Gemini code-category decomposition into music-tooling versus other
-  (repairs or confirms the 4:1 ratio).
-- **Waiting on the sibling exports:** the six remaining YouTube predictions,
-  unchanged — with the note that the May-2014 account-ignition prediction now
-  carries the alias-boundary join as an additional expected correlate (the sibling
-  account's early content should skew MOGZART-era production if the layers rotate
-  together).
-- **Waiting on Dan:** the August–September 2022 question — the most precisely
-  timestamped unexplained event in the record, and the only one on the list no
-  export can answer, because the corpus has the *what* to the day and only Dan
-  has the *why*. The 2021–22 near-silence characterization, which the spine
-  correctly embargoes from speculation, probably unlocks with the same key.
-- **Waiting on behavior, not data:** whether the freed Annie-bandwidth reroutes
-  to output or recursion (the allocation table will answer within months); whether
-  the 2025–26 mega-audit terminates in a migration or becomes self-sustaining;
-  whose names enter the ambient search layer (the redundancy gauge); and the
-  housing variable, which stopped being a question and became a deadline while
-  the source document was being compiled.
-
 > **RE-CHECKED [2026-08-15] — the three remaining moved premises, closed.**
 > [[wiki/mind/synthesis/the-unbroken-bond]] (2026-08-15) moved only to retract
 > an "Alexis cheating revelation" bullet from its 2015 sequence; the quantity
@@ -1105,3 +1082,33 @@ cost:
 > to leave them is that they are cheap, not that they are done.
 
 
+
+## Gaps and open questions carried from the third pass
+
+The synthesis leaves specific falsifiable residue, in rough order of resolution
+cost:
+
+- **Cheap (existing data, one session each):** the per-active-day search
+  recomputation by year (settles the "New York activates you" city-effect claim,
+  §1); the monthly 2024 search distribution against the 177-day YouTube gap
+  (fully closes prediction four); the Suboxone day-zero pin via first-strips
+  message reference plus the 2010 monthly transition signature (the spine carries
+  ~Jan 2010 as UNPINNED — one session of corpus work closes a sixteen-year-old
+  date); the Gemini code-category decomposition into music-tooling versus other
+  (repairs or confirms the 4:1 ratio).
+- **Waiting on the sibling exports:** the six remaining YouTube predictions,
+  unchanged — with the note that the May-2014 account-ignition prediction now
+  carries the alias-boundary join as an additional expected correlate (the sibling
+  account's early content should skew MOGZART-era production if the layers rotate
+  together).
+- **Waiting on Dan:** the August–September 2022 question — the most precisely
+  timestamped unexplained event in the record, and the only one on the list no
+  export can answer, because the corpus has the *what* to the day and only Dan
+  has the *why*. The 2021–22 near-silence characterization, which the spine
+  correctly embargoes from speculation, probably unlocks with the same key.
+- **Waiting on behavior, not data:** whether the freed Annie-bandwidth reroutes
+  to output or recursion (the allocation table will answer within months); whether
+  the 2025–26 mega-audit terminates in a migration or becomes self-sustaining;
+  whose names enter the ambient search layer (the redundancy gauge); and the
+  housing variable, which stopped being a question and became a deadline while
+  the source document was being compiled.

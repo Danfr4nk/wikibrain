@@ -1,0 +1,66 @@
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Pro
+      Model Identifier: MacBookPro12,1
+      Processor Name: Dual-Core Intel Core i5
+      Processor Speed: 2.7 GHz
+      Number of Processors: 1
+      Total Number of Cores: 2
+      L2 Cache (per Core): 256 KB
+      L3 Cache: 3 MB
+      Hyper-Threading Technology: Enabled
+      Memory: 8 GB
+      System Firmware Version: 489.0.0.0.0
+      OS Loader Version: 540.120.3~37
+      SMC Version (system): 2.28f7
+
+Software:
+
+    System Software Overview:
+
+      System Version: macOS 12.7.6 (21H1320)
+      Kernel Version: Darwin 21.6.0
+      Time since boot: 1 day 22:00
+
+Storage:
+
+    Macintosh HD - Data:
+
+      Free: 681.4 MB (681,373,696 bytes)
+      Capacity: 250.79 GB (250,790,436,864 bytes)
+      Mount Point: /System/Volumes/Data
+      File System: APFS
+      Writable: Yes
+      Ignore Ownership: No
+      BSD Name: disk1s1
+      Volume UUID: 04DB92A7-D3B1-3F6E-A044-533B88306F2E
+      Physical Drive:
+          Device Name: APPLE SSD SM0256G
+          Media Name: AppleAPFSMedia
+          Medium Type: SSD
+          Protocol: PCI
+          Internal: Yes
+          Partition Map Type: Unknown
+          S.M.A.R.T. Status: Verified
+
+    Macintosh HD:
+
+      Free: 681.4 MB (681,377,792 bytes)
+      Capacity: 250.79 GB (250,790,436,864 bytes)
+      Mount Point: /
+      File System: APFS
+      Writable: No
+      Ignore Ownership: No
+      BSD Name: disk1s5s1
+      Volume UUID: C6F19C85-19EA-410D-863A-7CC65E32CB0D
+      Physical Drive:
+          Device Name: APPLE SSD SM0256G
+          Media Name: AppleAPFSMedia
+          Medium Type: SSD
+          Protocol: PCI
+          Internal: Yes
+          Partition Map Type: Unknown
+          S.M.A.R.T. Status: Verified
+

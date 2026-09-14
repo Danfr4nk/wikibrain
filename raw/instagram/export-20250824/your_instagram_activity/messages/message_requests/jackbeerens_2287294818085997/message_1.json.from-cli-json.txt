@@ -1,0 +1,41 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1625 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "jack beerens",
+      "share": {
+        "link": "https://www.instagram.com/_u/felicityfunevo",
+        "profile_share_name": "Felicity Fun",
+        "profile_share_username": "felicityfunevo"
+      },
+      "timestamp_ms": 1659277854189
+    },
+    {
+      "content": "â¡ï¸ Ðre you interested tÐ¾ growing your InstÐ°gram Ð°cÑÐ¾unts\n100% guarantÐµÐµd\n\n1k follÐ¾wers $10\n2k fÐ¾llowers $20\n3k follÐ¾wers $30\n5k fÐ¾llÐ¾wÐµrs $45\n10k followÐµrs $80\n20k fÐ¾llowers $150\n\nText me in mÑ Ð¾ffiÑiÐ°l Ð°Ñcount \nð@felicity.fun itâs nÐµcÐµssÐ°rÑ tÐ¾ answer quicklÑ.\n------------------------------\nWe HÐ°vÐµ FREE Ð¢riÐ°l",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "jack beerens",
+      "timestamp_ms": 1659277854189
+    }
+  ],
+  "participants": [
+    {
+      "name": "jack beerens"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:25:15.094-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:25:15.094Z"
+  },
+  "thread_path": "message_requests/jackbeerens_2287294818085997",
+  "title": "jack beerens"
+}

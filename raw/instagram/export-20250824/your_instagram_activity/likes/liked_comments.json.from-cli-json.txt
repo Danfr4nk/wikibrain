@@ -1,0 +1,180 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 4161 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "likes_comment_likes": [
+    {
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/p/CZDdht9JvQ0/",
+          "timestamp": 1725299396,
+          "value": "ð"
+        }
+      ],
+      "title": "beefdreams"
+    },
+    {
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/reel/CiS6L_YssiN/",
+          "timestamp": 1662985000,
+          "value": "ð"
+        }
+      ],
+      "title": "reeko_htown"
+    },
+    {
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/reel/CgKYFgngx3k/",
+          "timestamp": 1661599387,
+          "value": "ð"
+        }
+      ],
+      "title": "akatelyn3"
+    },
+    {
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/p/Ce_ayEdOnzH/",
+          "timestamp": 1655654297,
+          "value": "ð"
+        }
+      ],
+      "title": "joelistcomedy"
+    },
+    {
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/reel/CewKIt1gM9p/",
+          "timestamp": 1655146253,
+          "value": "ð"
+        }
+      ],
+      "title": "opieradio"
+    },
+    {
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/p/CeY_hkps-zs/",
+          "timestamp": 1654365266,
+          "value": "ð"
+        }
+      ],
+      "title": "tonyhtattoos"
+    },
+    {
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/reel/CeQP3SWAGuu/",
+          "timestamp": 1654265096,
+          "value": "ð"
+        }
+      ],
+      "title": "dragonballsteez"
+    },
+    {
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/tv/CL8X5rlnkXY/",
+          "timestamp": 1619356430,
+          "value": "ð"
+        }
+      ],
+      "title": "cjradiodj"
+    },
+    {
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/tv/CL8X5rlnkXY/",
+          "timestamp": 1619356327,
+          "value": "ð"
+        }
+      ],
+      "title": "eqw2013"
+    },
+    {
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/p/BstFYARAO6_/",
+          "timestamp": 1547698008,
+          "value": "ð"
+        }
+      ],
+      "title": "cokelogic"
+    },
+    {
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/p/BsYuF7kHwfD/",
+          "timestamp": 1547141073,
+          "value": "ð"
+        }
+      ],
+      "title": "zac_shumar"
+    },
+    {
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/p/BrL1wPFgpsW/",
+          "timestamp": 1544530681,
+          "value": "ð"
+        }
+      ],
+      "title": "itseriknagel"
+    },
+    {
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/p/BrJYKWllOYN/",
+          "timestamp": 1544391258,
+          "value": "ð"
+        }
+      ],
+      "title": "itseriknagel"
+    },
+    {
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/p/Bq3HjjilNEK/",
+          "timestamp": 1543742908,
+          "value": "ð"
+        }
+      ],
+      "title": "joehappyporkchopwood"
+    },
+    {
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/p/BhE3kFnlG-j/",
+          "timestamp": 1522751487,
+          "value": "ð"
+        }
+      ],
+      "title": "dee_onesi"
+    },
+    {
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/p/BhE3kFnlG-j/",
+          "timestamp": 1522751486,
+          "value": "ð"
+        }
+      ],
+      "title": "mal120484"
+    },
+    {
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/p/BhE3kFnlG-j/",
+          "timestamp": 1522751464,
+          "value": "ð"
+        }
+      ],
+      "title": "jengeorge03"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:24:39.905-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:24:39.905Z"
+  }
+}

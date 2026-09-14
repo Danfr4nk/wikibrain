@@ -1,0 +1,129 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 4127 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ã¼mit Ã¶ztÃ¼rk",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/3495144329787788567"
+      },
+      "timestamp_ms": 1730874744100
+    },
+    {
+      "content": "OÅt oÅt oÅt ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ã¼mit Ã¶ztÃ¼rk",
+      "share": {
+        "link": "https://instagram.com/stories/ihatedanfrank/3439896351380963269"
+      },
+      "timestamp_ms": 1724288066712
+    },
+    {
+      "content": "ðªð¼",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ã¼mit Ã¶ztÃ¼rk",
+      "timestamp_ms": 1723083669706
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1723083632,
+          "uri": "your_instagram_activity/messages/inbox/umitozturk_1398513338214372/photos/451473086_855212766065673_8653798821454974818_n_8269347083155665.png"
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1723083633545
+    },
+    {
+      "content": "Yavsak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ã¼mit Ã¶ztÃ¼rk",
+      "timestamp_ms": 1713669645827
+    },
+    {
+      "content": "Yasak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ã¼mit Ã¶ztÃ¼rk",
+      "timestamp_ms": 1713669633874
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1713669603525,
+      "videos": [
+        {
+          "creation_timestamp": 1713669589,
+          "uri": "your_instagram_activity/messages/inbox/umitozturk_1398513338214372/videos/438931352_7759159154127373_1388495999065214160_n_3637486819899262.mp4"
+        }
+      ]
+    },
+    {
+      "content": "Osht osht",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1713669486395
+    },
+    {
+      "content": "Okay ðð»",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ã¼mit Ã¶ztÃ¼rk",
+      "timestamp_ms": 1713669472523
+    },
+    {
+      "content": "No more TV at work",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1713669460670
+    },
+    {
+      "content": "Yavsak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Ã¼mit Ã¶ztÃ¼rk",
+      "timestamp_ms": 1713669409694
+    },
+    {
+      "content": "Sik terget",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1713669380744
+    },
+    {
+      "content": "Yao sha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1713669328878
+    }
+  ],
+  "participants": [
+    {
+      "name": "Ã¼mit Ã¶ztÃ¼rk"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:33:34.328-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:33:34.328Z"
+  },
+  "thread_path": "inbox/umitozturk_1398513338214372",
+  "title": "Ã¼mit Ã¶ztÃ¼rk"
+}

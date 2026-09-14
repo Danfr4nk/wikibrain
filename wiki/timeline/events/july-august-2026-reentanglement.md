@@ -35,6 +35,9 @@ connections:
   - page: wiki/mind/concepts/forensic-method
     type: instantiates
     claim: "In six days the Leviathan apparatus is published as an exhibit, retracted inside five minutes on a single request from its subject, rebuilt as an access-controlled honeypot, and then shown to that same subject as a gift — the full range of what the method is for, compressed."
+  - target: "[[wiki/timeline/events/august-2026-morgantown-call]]"
+    type: contextualizes
+    claim: "Supplies the antecedents that contextualize the Aug 16-19 terminal window: the July 26 phone seizure, the Aug 9 sleepover, and the Aug 13 group-chat seam documented here."
   - page: wiki/mind/synthesis/dormancy-not-exit
     type: evidences
     claim: "Dan states the mechanism behind no-exit in his own voice and attributes it to autism: 'My brain can't cross out that part of my life that I love unless I know that you don't feel that way' — the tie persists because the terminating statement is never made."
@@ -75,7 +78,7 @@ schedule.
 ## LLM Quick Brief
 
 **For context injection:** July 26 – August 2, 2026. 1,880 messages, 969
-from Dan, 911 from Annie. Opens at 05:22 on July 26 with Dan concluding
+from Dan, 911 from [[wiki/people/annie-ulmer|Annie]]. Opens at 05:22 on July 26 with Dan concluding
 that the previous night's invitation to Hopwood was an ambush, publishing
 the full text log at `caakehorn.github.io/leviathan/transcript.html`, and
 messaging Annie's mother [[wiki/people/ellen-ulmer|Ellen]] at 06:22 in the
@@ -103,7 +106,7 @@ you. you were with him…again." Within fourteen minutes he has published the
 message log and written "I'm not afraid of the truth."
 
 **05:39–05:57 — the accusation.** The replies that come back are not
-Annie's. They are the man's, from her phone: "The cuck never gives up," "Had
+[[wiki/people/annie-ulmer|Annie]]'s. They are the man's, from her phone: "The cuck never gives up," "Had
 her fuck old men for drugs," and then the charge that organises the next
 week — "I have video proof how you fingered her for hours while she was
 unconscious." Dan's response is forensic rather than defensive, and it is a
@@ -171,7 +174,7 @@ This is the finding the window exists to establish.
 
 | Date | Place | Amount | Notes |
 |---|---|---|---|
-| Jul 27, ~13:00 | Her parents' bottom driveway | $40 (of $50 offered) | Milo brought; traded for a hug. "My heart omg 💔" |
+| Jul 27, ~13:00 | Her parents' bottom driveway | $40 (of $50 offered) | [[wiki/people/milo|Milo]] brought; traded for a hug. "My heart omg 💔" |
 | Jul 28, ~22:20 | 115 Acorn Lane, Hopwood | $100 via ATM access code | Thrown from a moving car; Dan carried no phone, left his wallet behind, did not stop |
 | Jul 31, ~15:10 | On foot, United Dairy / Craig St | undisclosed ("a little chunk") | Neither party had a car; both walked |
 | Jul 31, ~21:10 | Her parents' front kerb | $50 cash collected | Dan drove [[wiki/people/suzanne-frank|Suz]]'s car and carried her phone |
@@ -193,8 +196,7 @@ Dan names the arrangement's real function himself, unprompted, at 23:04 on
 July 28, in the middle of an argument about something else: **"even the
 worst thing I've done — getting you drugs — didn't really benefit me nearly
 as much as it was about that being the only way you would see me."** This is
-the thesis of [[wiki/mind/synthesis/dan-annie-fallout-verdict|the fallout
-verdict]] and of [[wiki/mind/synthesis/supply-network|the supply network]]
+the thesis of [[wiki/mind/synthesis/dan-annie-fallout-verdict|the fallout verdict]] and of [[wiki/mind/synthesis/supply-network|the supply network]]
 stated in the operator's own voice, against his own interest, while the
 behaviour it describes is still running.
 
@@ -202,7 +204,7 @@ behaviour it describes is still running.
 
 Seven hundred and twenty-one messages between 11:48 and 23:59 — the largest
 single-day volume in the window and the most sustained argument in it. Dan
-announces at 11:48 that he will email Annie's parents; the stated purpose is
+announces at 11:48 that he will email [[wiki/people/annie-ulmer|Annie]]'s parents; the stated purpose is
 not her safety but his reputation: "all I want is to clear MY name."
 
 Annie's resistance escalates through every register she has. Petition
@@ -237,7 +239,7 @@ forty-eight hours apart:
 > **mechanism of non-execution.** Both halves are withdrawn, by this page's own
 > later evidence. The WRITTEN BACK block above — added 2026-08-17 from the
 > operator's account — establishes that July 26 was **not the threat executed as**
-> **leverage** but a response to a belief that Coles had Annie in danger. It is
+> **leverage** but a response to a belief that [[wiki/people/jerel-coles|Coles]] had [[wiki/people/annie-ulmer|Annie]] in danger. It is
 > therefore not a member of the threat class, and the window does not contain
 > one executed threat and one abandoned one. It contains **one** threat, the
 > July 28 one, abandoned — which leaves the maternal-disclosure execution rate
@@ -262,7 +264,7 @@ Recorded as her claims, not as findings. Several are unverifiable from
 inside the corpus and one is contradicted by conduct in the same thread.
 
 She has come clean to her parents about "EVERYTHING," including telling them
-herself that it was the man and not Dan who had been harassing Dan and Suz.
+herself that it was the man and not Dan who had been harassing Dan and [[wiki/people/suzanne-frank|Suz]].
 She has had a first counselling appointment and has agreed to therapy three
 times a week **as an alternative to being sent away** for months without
 outside contact. She has taken a drug test administered by her father. She
@@ -291,8 +293,7 @@ HATRED that I would feel towards one person."
 
 This is a documented act of **chosen ignorance by a person whose defining
 method is exhaustive documentation**, and it is the sharpest counter-example
-the corpus holds to [[wiki/mind/concepts/forensic-method|the forensic
-method]]'s claim to generality. Everything else in Dan's life is
+the corpus holds to [[wiki/mind/concepts/forensic-method|the forensic method]]'s claim to generality. Everything else in Dan's life is
 instrumented. This one node is left dark on purpose, and the stated reason
 is emotional load-bearing rather than epistemic. Full page:
 [[wiki/people/the-unnamed-man]].
@@ -315,7 +316,7 @@ Six days is enough to see the whole range of what
    (`caakehorn.github.io/leviathan/void.html`). Dan's stated motive is not
    security: "sometimes i need a win to feel better too. this just feels like
    outsmarting someone with the intelligence of an actual child."
-4. **Gift** (Jul 31, 21:53). Dan shows Annie the wiki itself — the knowledge
+4. **Gift** (Jul 31, 21:53). Dan shows [[wiki/people/annie-ulmer|Annie]] the wiki itself — the knowledge
    graph, with her as "the big pink dot" — and sends her the page describing
    how they met. "I've spent a lot of time writing out as much of my life
    into story form as I possibly could… it organized it into basically my own
@@ -326,12 +327,11 @@ The fourth state is the one that matters to this repository, because it is
 documented subject, who replies "That is pretty interesting." It also
 produced a correction delivered by text message: "i need to fix the thing at
 the top, it should say that I left my relationship within 24 hours…not you"
-— a factual amendment to [[wiki/mind/synthesis/bond-switch-2015|the 2015
-bond switch]] arriving over iMessage from the person the page is about.
+— a factual amendment to [[wiki/mind/synthesis/bond-switch-2015|the 2015 bond switch]] arriving over iMessage from the person the page is about.
 
 ## The scratch-off
 
-On July 26 Dan buys a crossword scratch-off for Annie and refuses to scratch
+On July 26 Dan buys a crossword scratch-off for [[wiki/people/annie-ulmer|Annie]] and refuses to scratch
 it, holding it as a token contingent on seeing her again — "in case eggie
 bagels ever finds her way back." When the driveway handoff happens the next
 day he rules it insufficient: "your scratch off stays locked up and
@@ -349,7 +349,7 @@ one of those, on August 2, one day after he declared the bet lost.
 
 The window's last day is the only event in it that neither party's prior
 behaviour predicted, and Dan had predicted it in the abstract the day
-before. On August 1 Annie says Suz will never forgive her and that this is
+before. On August 1 [[wiki/people/annie-ulmer|Annie]] says [[wiki/people/suzanne-frank|Suz]] will never forgive her and that this is
 right; Dan replies that Suz would forgive her in thirty seconds and that
 Annie "just want[s] the easy way out all the time." Annie: "You are right."
 
@@ -380,7 +380,7 @@ the eight days as a reconciliation.
 | Metric | Value |
 |---|---|
 | Messages, Jul 26 05:22 – Aug 2 18:10 | 1,880 |
-| Dan / Annie, by message | 969 / 911 — **1.06:1** |
+| Dan / [[wiki/people/annie-ulmer|Annie]], by message | 969 / 911 — **1.06:1** |
 | Dan / Annie, by word | 15,633 / 5,437 — **2.88:1** |
 | Annie's median message length | **4 words** (unchanged from the preceding year) |
 | Dan's median message length | 11 words (8 in the preceding year) |
@@ -425,7 +425,7 @@ why he cannot close the loop: "You won't just fucking say you don't want to
 be with me anymore. You've never once said it… And I'm fucking autistic. My
 brain can't cross out that part of my life that I love unless I know that
 you don't feel that way." Across 1,880 messages under repeated direct
-demand, **Annie never makes the statement.** Her nearest approach is its
+demand, **[[wiki/people/annie-ulmer|Annie]] never makes the statement.** Her nearest approach is its
 opposite — "Always have. Always fucking will," at 00:02 on July 29. This is
 [[wiki/mind/synthesis/dormancy-not-exit|dormancy-not-exit]] with the
 mechanism supplied by the subject: the tie survives because the terminating
@@ -445,7 +445,7 @@ morning all i could think is how glad i was that i chose to go through all of
 this."* The supply never stopped, but for one week it was not the only
 structure.
 
-Then on **August 13** Coles messaged a group chat containing Dan, and Annie
+Then on **August 13** [[wiki/people/jerel-coles|Coles]] messaged a group chat containing Dan, and [[wiki/people/annie-ulmer|Annie]]
 asked Dan not to reply — *"I'm just asking you to please. Do not engage."* He
 agreed. Three nights later Coles called Dan from Annie's phone, and Dan read
 that request retroactively as a concealment rather than a de-escalation. The
@@ -471,7 +471,7 @@ Annie's handle during a Coles-present episode needs the episode checked first.
 - **The Ellen message of July 26 may be recoverable after all, and may not be
   an email.** This page recorded it as an email not in `raw/`. The operator
   (2026-08-17) places it *"in the text logs on 26 July 2026 at around 7am"*,
-  along with the threatening messages sent from Annie's number in the hours
+  along with the threatening messages sent from [[wiki/people/annie-ulmer|Annie]]'s number in the hours
   before. If that is right the contents are retrievable and this gap is a
   search, not an absence — but the two accounts disagree on both **medium**
   (email vs text) and **time** (06:22 here vs ~07:00), so pull the window

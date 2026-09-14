@@ -1,0 +1,30 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 549 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Yooooo do you still live in NY?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Steve Kezmarsky",
+      "timestamp_ms": 1642633459820
+    }
+  ],
+  "participants": [
+    {
+      "name": "Steve Kezmarsky"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:25:24.715-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:25:24.715Z"
+  },
+  "thread_path": "message_requests/stevekezmarsky_761211931949464",
+  "title": "Steve Kezmarsky"
+}

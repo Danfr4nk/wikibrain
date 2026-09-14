@@ -1,0 +1,176 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 7294 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "you would think but i usually cry every time someone yells at me lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nicole Gamiz",
+      "timestamp_ms": 1668200696394
+    },
+    {
+      "content": "Reacted ð to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nicole Gamiz",
+      "timestamp_ms": 1668200688797
+    },
+    {
+      "content": "Basically if you have thick enough skin (and I canât imagine a Floridian Cuban being too too sensitive lmao) and donât mind the neverending supernova of pointless stupid expectationsâ¦itâs a pretty easy $60,000/yr job",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Nicole Gamiz",
+          "reaction": "ð",
+          "timestamp": 1668200688
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668061379929
+    },
+    {
+      "content": "thank you though for informing me about the tip situation though itâs very different from the other bar i use to work at",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nicole Gamiz",
+      "timestamp_ms": 1668053596866
+    },
+    {
+      "content": "lmao yeah itâs definitely chaotic i feel better now that iâm not just running around serving water",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nicole Gamiz",
+      "timestamp_ms": 1668053556876
+    },
+    {
+      "content": "Itâs always going to be weirdly intense . I like that environment but most people are freaked out by it after a while",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668052166781
+    },
+    {
+      "content": "But the real coup de grÃ¢ce fact about that place is that.,.even though it seems like temporary chaos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668052138265
+    },
+    {
+      "content": "Also Iâm killing it right now on the âcoming up with stuff to cover for the obvious transparent  âget an Instagram account nameâ schemeâ thing Iâm trying ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668051315539
+    },
+    {
+      "content": "Literally every paycheck Iâve gotten in almost 2 years has been between 28 and 32 dollars (after tax) per hour",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668051169877
+    },
+    {
+      "content": "And sucks in the summer when, at another restaurant you might be able to catch some busy weeks and go home with a big bag",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668051139729
+    },
+    {
+      "content": "Which is like pretty appealing in the winter",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668051099677
+    },
+    {
+      "content": "Hereâs the cost benefit analysis: youâre gonna make $30 an hour every week regardless of how many tips come in or employees are on staff",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668051078792
+    },
+    {
+      "content": "Look itâs so fucking rare that anyone other than complete psychopaths work there because of the weird tip situation",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668051043293
+    },
+    {
+      "content": "the menu is just crazy to me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nicole Gamiz",
+      "timestamp_ms": 1668051007984
+    },
+    {
+      "content": "lol yeah i understand he did good tonight too with like no help",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nicole Gamiz",
+      "timestamp_ms": 1668050999266
+    },
+    {
+      "content": "Reacted ð to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nicole Gamiz",
+      "timestamp_ms": 1668050887342
+    },
+    {
+      "content": "And heâs super good too. But like, unambiguously you are more well acquainted with the procedures and menu and stuff just from being there longer lmao",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668050633251
+    },
+    {
+      "content": "Itâs wild though, and Iâm not being hyperbolic, how many people have said to me âthe new girl is like really really goodâ\n\nItâs just funny because the sexist culture that  surrounds that place decided that someone needed to further âtrainâ you and not fritz who like just started",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668050581366
+    },
+    {
+      "content": "Fuck dude I thought youâd give me enough time to make up something important sounding to tell you ð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "reactions": [
+        {
+          "actor": "Nicole Gamiz",
+          "reaction": "ð",
+          "timestamp": 1668050887
+        }
+      ],
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1668050414532
+    },
+    {
+      "content": "hii dan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Nicole Gamiz",
+      "timestamp_ms": 1668047816712
+    }
+  ],
+  "participants": [
+    {
+      "name": "Nicole Gamiz"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:30:19.616-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:30:19.616Z"
+  },
+  "thread_path": "inbox/nicolegamiz_1049486213114853",
+  "title": "Nicole Gamiz"
+}

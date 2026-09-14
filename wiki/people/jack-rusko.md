@@ -1,4 +1,5 @@
 ---
+title: "Jack Rusko"
 domain: people
 page_type: entity
 status: closed
@@ -14,6 +15,7 @@ connections:
   - page: wiki/people/davey-fitzpatrick
     type: co-occurs
     claim: "Jack is the two threads' shared running character — the 6:10am rides because he 'doesn't like rushing,' the 'neurotic, whiny, incredible calamity' — placing Davey and Jack in one caddie-yard social graph with Dan."
+  - { target: "[[wiki/people/fran-coldren]]", type: references, claim: "Jack's condolence message after Fran's death is quoted in the body — the thread's warmest documented exchange." }
 infobox:
   name: "Jack Rusko"
   relationship_to_dan: unknown
@@ -27,7 +29,7 @@ Jack Rusko was a fellow [[wiki/work/nemacolin-caddying|Nemacolin]] caddy and gen
 
 ## Texture
 
-The laptop loan is the thread's most persistent bit: Jack asks for it back repeatedly from December 6–29, 2017 with growing (good-natured) exasperation — "Dan would u please get me my laptop," "it's been a month friend what up with U?" — before the thread goes quiet until April 2018. It resumes with genuine warmth after Fran's death: "Sorry to hear it Dan I'm glad you got to see her smile with her eyes open an at peace... she lived a hell of a life." Through spring and summer 2018 the two trade caddy-shift logistics (report times, whether Brad had texted, a mention of another caddy, Kenny, who "lost all of it" gambling/skiing money, which Jack cites as a cautionary example when Dan comes into some cash). A recurring party thread references "Brian Hudock" and general caddy-crew social life.
+The laptop loan is the thread's most persistent bit: Jack asks for it back repeatedly from December 6–29, 2017 with growing (good-natured) exasperation — "Dan would u please get me my laptop," "it's been a month friend what up with U?" — before the thread goes quiet until April 2018. It resumes with genuine warmth after [[wiki/people/fran-coldren|Fran]]'s death: "Sorry to hear it Dan I'm glad you got to see her smile with her eyes open an at peace... she lived a hell of a life." Through spring and summer 2018 the two trade caddy-shift logistics (report times, whether Brad had texted, a mention of another caddy, Kenny, who "lost all of it" gambling/skiing money, which Jack cites as a cautionary example when Dan comes into some cash). A recurring party thread references "Brian Hudock" and general caddy-crew social life.
 
 ## Corpus Dimensions
 

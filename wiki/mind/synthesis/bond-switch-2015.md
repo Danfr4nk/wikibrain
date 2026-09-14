@@ -1,10 +1,11 @@
 ---
 domain: mind
 page_type: synthesis
+title: "The 2015 Single-Bond Switch"
 knowledge: earned
 status: active
 date_created: 2026-07-15
-date_modified: 2026-09-04
+date_modified: 2026-09-12
 sources:
   - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
@@ -64,6 +65,9 @@ connections:
   - page: wiki/mind/synthesis/the-serial-monogamist
     type: component-of
     claim: "The replacement sourced before the vacancy occurred is the clearest demonstration that 'single' is never actually entered — the slot went from occupied to occupied inside roughly a week, with no interval that functions as single life in any ordinary sense of the phrase."
+  - target: "[[wiki/mind/synthesis/the-serial-monogamist]]"
+    type: corroborates
+    claim: "The mutual, simultaneous November 2015 switch — both slots vacated and reoccupied inside seventy-two hours — is the serial-monogamist pattern's earliest fully-dated member."
 ---
 
 
@@ -110,7 +114,7 @@ The switch is a direct behavioral expression of the sx/sp instinctual stack docu
 > which the thesis above does not merely survive but is sharpened by: the
 > singular slot was vacated and reoccupied on *both* sides inside the same
 > seventy-two hours. **The man is unnamed in the corpus and is identified by**
-> **the operator (2026-08-17) as Emilio** — testimony rather than a corpus
+> **the operator (2026-08-17) as [[wiki/people/emilio|Emilio]]** — testimony rather than a corpus
 > derivation, and load-bearing enough that anything built on it should say so.
 > That identification is what turns the December 2 crisis from bad luck into
 > retaliation: see below.
@@ -118,7 +122,7 @@ The switch is a direct behavioral expression of the sx/sp instinctual stack docu
 ## The switch was brokered, and paid for
 
 The account below treats the switch as a private reallocation between Dan,
-Alexis and Annie. The read shows a fourth party operating it. On 2015-11-29
+Alexis and [[wiki/people/annie-ulmer|Annie]]. The read shows a fourth party operating it. On 2015-11-29
 [[wiki/people/suzanne-frank|Suz]] phones to say Dan *should* date Annie, and
 the reason she gives is that the name fits the family — *"I.e. Anne Dan
 Suzanne Fran Diane Van"* (13:48–13:49). Roughly fifteen hours later, at 05:02
@@ -276,7 +280,17 @@ The bootloader's headline onset figure — 728 / 682 / 679 messages sent on Dece
 
 The physical detail that makes the switch concrete: [[wiki/places/155-virginia-ave|155 Virginia Avenue]] — which context-core calls "the Alexis lair" — was leased during the end of the Alexis relationship, and Annie moved into that *same apartment* when the new relationship began after Thanksgiving 2015. Dan did not leave the shared space and bring Annie into a new one; the new bond occupied the physical shell of the old one. This is what the record flags as **self-preservation lair-continuity**: the sp (self-preservation) instinct's "lair" — resources, safety, the dwelling — was held constant across the attachment transfer. Only the occupant of the singular bond slot changed; the fortress did not move.
 
-The lair-continuity is why 155 Virginia is the address where "the two defining relationships of his adult life handed off." It is the spatial proof that the single-bond switch was a swap, not a relocation. The MOGZART era, the smashonista couples-camming period, the 2017 poverty floor, and the 2018 deep cycle all then played out *inside the Alexis lair*, with Annie now its co-occupant — the old furniture of the prior bond hosting the entire genesis of the next.
+The lair-continuity is why 155 Virginia is the address where "the two defining relationships of his adult life handed off." It is the spatial proof that the single-bond switch was a swap, not a relocation. The [[wiki/interests/music/aliases/mogzart|MOGZART]] era, the smashonista couples-camming period, the 2017 poverty floor, and the 2018 deep cycle all then played out *inside the Alexis lair*, with Annie now its co-occupant — the old furniture of the prior bond hosting the entire genesis of the next.
+
+The lair was also, in the months before the handoff, literally cultivating:
+Dan's EXIF-dated photo series (2015-08-18–10-04) documents an indoor cannabis
+grow at the address — "Dream Queen," his name for his favorite strain — and
+his 2026-09-12 testimony is that [[wiki/people/casey-bondarenka|Casey]] took
+the harvest before it cured and smoked it in one night during the switch
+window (`dat:casey-uncured-harvest-dream-queen-20260912`). The claim is his
+alone, but the window is corroborated: Casey is independently documented
+inside the household 2015-11-29–12-02. Full account at
+[[wiki/places/155-virginia-ave|155 Virginia Avenue]].
 
 ## A provenance gap in the bootloader's termination figure
 
@@ -338,7 +352,7 @@ is *"Honestly I just miss having fun with you!"*
 
 This is the symmetry the thesis was missing. Both partners were displaced in the
 same seventy-two hours, and **both displacements produced fallout that
-detonated a relationship in the following month** — Emilio through Annie's
+detonated a relationship in the following month** — [[wiki/people/emilio|Emilio]] through Annie's
 family on December 2, and [[wiki/people/zachariah-harshman|Zach Harshman]]
 through Dan's friendship on December 23. The singular-slot mechanism this page
 documents has a cost, and it is paid by the people vacated, who then act.
@@ -348,12 +362,74 @@ Dan's house that morning is **never named**, and both Dan and Annie blame
 [[wiki/people/casey-bondarenka|Casey]]. Emilio's documented vector is Claire,
 not Ellen. Do not collapse the two.
 
+## A third party names the switch, December 6
+
+Eight days into the documented record, an outsider describes the mechanism to
+Dan's face. On December 6, 2015, [[wiki/people/zac-shumar|Zac Shumar]] — the
+man who had wanted Annie himself, had poured his heart out to Dan about her,
+and was watching Dan take her the next weekend — texts Dan: *"Like we even
+talked about how lex and annie are similar so you bail on lex and jump on
+Annie like that's just dumb."*
+
+It is worth being precise about what Shumar is and isn't. He is not a
+neutral witness: *"Yeah well I wish you and lex would have stayed together
+instead of getting with the girl I wanted."* But the motive makes the
+observation *more* load-bearing, not less — the displaced rival on Annie's
+side of the ledger reads the transfer as a single-slot move ("bail on" /
+"jump on") independently, in real time, and before the switch's December 10
+escalation into the marriage declarations and the message flood. Two more
+facts from the same argument: Dan is already defending the relationship as
+family integration rather than sex (*"I went to church with her and her
+family today"* — Dec 6 was a Sunday), and the relationship is already public
+enough in Uniontown that Shumar *"found out through other people."*
+(dat:shumar-switch-naming-2015-12-06, dat:shumar-dan-argument-2015-12-06)
+
+The Shumar argument is EXIF-dated December 6; [[wiki/people/zach-clingan|Zach Clingan]]'s separately documented intervention ("I have to talk to you") is
+December 9. The earlier intake framing that these were the same afternoon is
+superseded — the sequence is Shumar on the 6th, Clingan on the 9th.
+
+## Rupture vs formalization (2026-09-12)
+
+The switch's timestamp resolves into two events, not one. Dan's 2026 account
+dates the *rupture* to a bar scene in the origin week: about a week before
+Thanksgiving, Alexis sent him to meet Annie for a drug pickup; he and Annie
+went to Morgantown together, had sex on return, and seven hours later he
+delivered Alexis's drugs with Annie still beside him — all three sat at the
+bar, and "that was the true minute Alexis and I split up"
+(`dat:annie-origin-narrative-dan-20260912`). The *formalization* is
+corpus-anchored: the Annie thread opens 2015-11-28 23:47:54, and on Nov 29 the
+vows land — "It's done I'm yours" (8:33+), after a night that also carries two
+golf-course meetups (the 2am sneak-out after danfranksgiving and the 6:40–7:30
+"I'm on 3 tee" round) and Dan's line "Alexis doesn't know that you have any
+part in this. She thinks I'm just creeping you" (0:01) — consistent with his
+"knew what was going on just not HOW MUCH." Mechanism, revised: the origin
+week of Nov 19–27 is textually dark (four iMessages total), so the rupture is
+testimony-only; the formalization is real-time text. The synthesis's "one day
+apart" dating (Alexis end Nov 28, Annie start Nov 29) now reads as the
+formalization layer; the rupture layer ran in person, days earlier, unwritten.
+
+The formalization has same-day artifacts beyond the vows. Around 4:56 PM on
+~Nov 30 Dan sent Alexis the cover text — *"Hey I remembered that you and Anne
+are supposed to work together tonight. Please leave her out of all of our
+problems, she really isn't involved"* — asserting the opposite of the truth
+while Annie was the entire cause (`dat:alexis-cover-text-2015-11-30`); Alexis
+answered with cold disengagement (*"I couldn't care less about anne"*). That
+night at 11:36 PM Dan cleared the Facebook relationship field and captioned
+the screenshot *"11/30/2015 official break up"*
+(`dat:official-breakup-2015-11-30`) — his retrospective dating on a
+contemporaneous screenshot. On Dec 3 Annie co-authored the follow-up text live
+at her workplace, quoting the Nov 30 line back as the template. Formalization
+is therefore a Nov 29–30 two-day process in the record, not a single timestamp.
+
 ## Gaps
 
-- **Emilio's surname, and his own channel.** The partner Annie left is named by the operator but appears in no export of his own; everything known about him is relayed through Annie. Whether he is also the unnamed person who told Ellen about the car on Dec 2 is **not** established — Casey is the one both parties blame.
+- **[[wiki/people/emilio|Emilio]]'s surname, and his own channel.** The partner [[wiki/people/annie-ulmer|Annie]] left is named by the operator but appears in no export of his own; everything known about him is relayed through Annie. Whether he is also the unnamed person who told Ellen about the car on Dec 2 is **not** established — Casey is the one both parties blame.
 - Whether the Alexis→Annie transfer at 155 Virginia was a clean same-month swap or had a brief overlap is not dated to the day in the on-disk record; the calendar gives Nov 28 (Alexis end) and Nov 29 (Annie start), one day apart.
 - Lease holder and physical layout of 155 Virginia across the transition are undocumented (see [[wiki/places/155-virginia-ave]]).
 - The 768/day termination figure's source export is not on disk; the closure-day volume is therefore a known provenance gap, not a settled number.
 
 
 
+## Sources
+
+[![Facebook relationship field cleared, captioned 11/30/2015 official break up](../../media/upload-051.jpg)](../../media/upload-051.jpg)

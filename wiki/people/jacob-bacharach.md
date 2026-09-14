@@ -260,6 +260,19 @@ about Uniontown. They are the same three hundred feet of ground along the
 same fairway, and no telling of the Bacharach story before this one had put
 them on the same map.
 
+## 2026-09-13 — Dan re-centers the series on 155 Virginia Ave
+
+In the September 13 photo-intake chat, asked which address holds "a bunch of
+really weird and odd coincidences," Dan answered 155 Virginia Avenue and
+clarified: "I was referring to the series of Jacob Bacharach coincidences that
+center around the house" (`dat:1478-bacharach-virginia-ave-centering-20260913`).
+This matches the chain's third link — the novel's fictional rental is that
+house, picked for the glazed brick — not the Saratoga thread this page marks as
+the relationship's mundane basis. Worth noting as narration, not correction: in
+Dan's current telling the Virginia house is the center of gravity of the whole
+series, while the Saratoga decoupling the forensic pass insisted on doesn't
+figure. The chain itself is unchanged.
+
 ## Gaps
 
 Whether the two men remained in contact after February 11, 2021 is

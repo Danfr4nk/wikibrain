@@ -1,6 +1,7 @@
 ---
 domain: people
 page_type: entity
+title: "Dan Polyak"
 status: active
 knowledge: mixed
 date_created: 2026-07-19
@@ -33,6 +34,8 @@ connections:
   - page: wiki/self/twitter/2012
     type: evidenced-by
     claim: 'The 2012-02-23 tweet "People who need to come visit me: @danpolyak @EricJester @JoshBrannan @Woodguts" is the only place in the corpus Dan enumerates his own core friend group unprompted — four handles, three years into New York, named as the people who ought to be visiting and are not.'
+  - { target: "[[wiki/mind/synthesis/provision-grammar]]", type: references, claim: "RECIPROCAL — the provision grammar's rung 1 ($25, memo 'For introducing me to Ally Lubin') is the priced trace of the December 2018 reintroduction this page documents: access purchased from him." }
+  - { target: "[[wiki/people/eric-jester]]", type: references, claim: "RECIPROCAL — both pages document the same 2012-02-23 core-friend cohort list; the two names sit adjacent in Dan's only self-enumerated friend group." }
 ---
 
 # Dan Polyak

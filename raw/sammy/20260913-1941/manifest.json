@@ -1,0 +1,78 @@
+{
+ "batch": "20260913-1941",
+ "job": "wiki-brain-scrape",
+ "pulled_at": "2026-09-13T20:15:00Z",
+ "window": {
+  "from": "2026-09-13T18:30:00.000+00:00",
+  "to": "2026-09-13T19:56:50.395+00:00"
+ },
+ "sources": {
+  "chats": {
+   "rows": 18,
+   "user": 10,
+   "assistant": 8,
+   "integrity": "byte-exact bodies; per-row md5-verified 18/18 against DB pins before writing"
+  },
+  "system": {
+   "rows": 153,
+   "kind": "per-row hash pins (message_id, created_at, event_name, surface, body_len, body_md5); bodies not stored"
+  },
+  "externals": {
+   "instagram": 0,
+   "threads": 0,
+   "facebook": 0,
+   "messenger": 0,
+   "spotify": 0,
+   "device": "no read path"
+  }
+ },
+ "watermark_from": "2026-09-13T18:30:00.000+00:00",
+ "watermark_to": "2026-09-13T19:56:50.395+00:00",
+ "files": [
+  {
+   "path": "EXTRACT.md",
+   "md5": "0d3c85fec86fdf35cffc88e051313d5a",
+   "bytes": 4785
+  },
+  {
+   "path": "chats.json",
+   "md5": "78ee1531325d7353d5aae3de4d57de09",
+   "bytes": 9284
+  },
+  {
+   "path": "system-manifest.json",
+   "md5": "5bf92c468cb162bcf04baf091a62e023",
+   "bytes": 41112
+  },
+  {
+   "path": "externals/device.json",
+   "md5": "a28e5d68477123a16fd2804a6707f9d6",
+   "bytes": 215
+  },
+  {
+   "path": "externals/facebook.json",
+   "md5": "6955ad07c9d6a28c2949e8da264b5e6c",
+   "bytes": 335
+  },
+  {
+   "path": "externals/instagram.json",
+   "md5": "8629697a4e7c48fb4680c530750608bd",
+   "bytes": 372
+  },
+  {
+   "path": "externals/messenger.json",
+   "md5": "6ce7a725a76e2c19722fff89059739e5",
+   "bytes": 339
+  },
+  {
+   "path": "externals/spotify.json",
+   "md5": "9c99598563fed33b39acfc0091630da4",
+   "bytes": 437
+  },
+  {
+   "path": "externals/threads.json",
+   "md5": "59ecb3d4315549c1aaaaba4019271b9f",
+   "bytes": 344
+  }
+ ]
+}

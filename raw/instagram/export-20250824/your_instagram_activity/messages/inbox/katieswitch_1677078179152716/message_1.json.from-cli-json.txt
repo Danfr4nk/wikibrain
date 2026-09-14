@@ -1,0 +1,76 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 3098 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "But if you have more screenshots I would still want to see them just to gauge the whole thing to see if any of the (slightly unusual) parameters of our relationship that we do have were broken",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1631069149048
+    },
+    {
+      "content": "Weâre kind of non monogamous so the whole thing is a bit less challenging for me than I assume it is for you but I appreciate you letting me know and hope that she didnât send you too deep into the âpit in your stomachâ territory.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1631069046364
+    },
+    {
+      "content": "Well if it makes you feel any better (Iâm sure it wonât) we live like 400 miles away in nyc so thereâs no real-life physical threat to worry about. Thatâs not to say itâs any less of a breach of trust or less fucked up...but hopefully it will prevent you from having to worry about the possibility that thereâs more you donât know about",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1631068793088
+    },
+    {
+      "content": "Maybe keep my name out of it though. She has already destroyed my life enough and she has never even met me.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Katie Switch",
+      "timestamp_ms": 1631048376917
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "photos": [
+        {
+          "creation_timestamp": 1631048284,
+          "uri": "your_instagram_activity/messages/inbox/katieswitch_1677078179152716/photos/241529005_234565878613566_6777671924138215187_n_234565875280233.jpg"
+        }
+      ],
+      "sender_name": "Katie Switch",
+      "timestamp_ms": 1631048284752
+    },
+    {
+      "content": "I think that you should ask her who she sent this picture to?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Katie Switch",
+      "timestamp_ms": 1631048273065
+    },
+    {
+      "content": "I just saw your message from last week. Send me what else you have",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Dan Frank",
+      "timestamp_ms": 1630988918662
+    }
+  ],
+  "participants": [
+    {
+      "name": "Katie Switch"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:37:42.287-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:37:42.287Z"
+  },
+  "thread_path": "inbox/katieswitch_1677078179152716",
+  "title": "Katie Switch"
+}

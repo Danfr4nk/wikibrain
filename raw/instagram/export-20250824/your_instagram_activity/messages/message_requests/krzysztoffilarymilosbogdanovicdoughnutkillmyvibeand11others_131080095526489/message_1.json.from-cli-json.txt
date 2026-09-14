@@ -1,0 +1,76 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 1385 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "joinable_mode": {
+    "link": "",
+    "mode": 1
+  },
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "https://bnc.lt/uBHgbRi5ieb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "share": {
+        "link": "https://bnc.lt/uBHgbRi5ieb"
+      },
+      "timestamp_ms": 1615147852422
+    }
+  ],
+  "participants": [
+    {
+      "name": "Krzysztof Filary ð¦¾"
+    },
+    {
+      "name": "milos bogdanovic"
+    },
+    {
+      "name": "doughnutkillmyvibe"
+    },
+    {
+      "name": "suicidefiesta"
+    },
+    {
+      "name": "Sergio tacchini"
+    },
+    {
+      "name": "Dan Frank"
+    },
+    {
+      "name": "Jason Smith"
+    },
+    {
+      "name": "David Knapp"
+    },
+    {
+      "name": "Josh Day"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Jayden Evans"
+    },
+    {
+      "name": "Jeff Pay"
+    },
+    {
+      "name": "ich.will.nackt.bilder_"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Kenneth Oliver"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:25:45.734-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:25:45.734Z"
+  },
+  "thread_path": "message_requests/krzysztoffilarymilosbogdanovicdoughnutkillmyvibeand11others_131080095526489",
+  "title": "Krzysztof Filary ð¦¾, milos bogdanovic, doughnutkillmyvibe and 11 others"
+}

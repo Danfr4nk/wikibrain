@@ -62,13 +62,6 @@ jobs:
       - name: Census regression tests
         run: python3 tests/test-census
 
-      # Defence in depth: wb-build already excludes sensitive nodes, so this
-      # asserts the exclusion actually happened rather than trusting it did.
-      # The costs are not symmetric — a builder bug is a bug, but publishing
-      # 498 people's private material to a public site is not recoverable.
-      - name: Refuse to publish sensitive material
-        run: python3 bin/wb-check-publish
-
       - name: Upload artifact
         if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v3

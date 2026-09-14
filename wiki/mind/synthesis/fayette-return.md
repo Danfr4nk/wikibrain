@@ -60,6 +60,7 @@ connections:
   - page: wiki/mind/profile/intp
     type: caused-by
     claim: "Core Axiom 1's binary self-worth verdict, per the-binary-verdict's account of Ti-dominance with no Fe-mediated grading function, is why a return misfiled as 'personal failure' would otherwise resolve to worthless rather than to a graded 'a setback, not a verdict' — which is what makes this page's reframing substantive rather than merely comforting: it changes the category the event is judged in, not its position on a scale that was never available."
+  - { target: "[[wiki/mind/synthesis/estate-money-spine]]", type: contextualizes, claim: "The Fran-estate capital the spine traces — Whyel coal money administered through the Coldren legal line — is the material counterpart of this page's Fayette anchoring: the same maternal line that never left is the line the capital came down." }
 ---
 
 # The Fayette Return
@@ -101,7 +102,7 @@ it can be broken.**
 | G1 | [[wiki/people/sadie-harris]] | 1900, **Austria** | emigration (arrival, not return) | d. 1997, place unrecorded | **Hopwood** |
 | G2 | [[wiki/people/morley-frank]] | 1927, Brownsville | **Seattle, 1957** → Uniontown by **1959** | d. 1998 **Hopwood, PA** | **Hopwood** |
 | G3 | [[wiki/people/rick-frank]] | 1959, Uniontown | *none attested* | Fayette Co. (auto-parts chain) | — |
-| G4 | Dan | 1988, Uniontown | Florida, New York (twice) | **337 Saratoga Drive, Uniontown** | — |
+| G4 | Dan | 1988, Uniontown | Florida, New York (twice) | **[[wiki/places/337-saratoga-drive|337 Saratoga Drive]], Uniontown** | — |
 
 > **REVISED [2026-08-02] — the rule survives and gets two corrections and one**
 > **sharpening, all from a direct read of the GEDCOM that this page was written**
@@ -165,7 +166,7 @@ Three falsifiers, each checkable against the GEDCOM and the census record:
 
 ## The generation that never left
 
-G3 is the case a lazy version of this page would drop. Rick has no attested
+G3 is the case a lazy version of this page would drop. [[wiki/people/rick-frank|Rick]] has no attested
 departure at all: born Uniontown 1959, builds an auto-parts chain in the same
 county, stays. He is not an instance of leaving-and-returning.
 
@@ -306,8 +307,7 @@ solid.
 > and still stands.
 >
 > **And the rule gets its first real counterexample candidate — from the side**
-> **this page does not cover.** [[wiki/people/diane-moore|Rebecca Diane Van
-> Voorhis]], Dan's maternal grandmother, is described in the rewrite as *"the*
+> **this page does not cover.** [[wiki/people/diane-moore|Rebecca Diane Van > Voorhis]], Dan's maternal grandmother, is described in the rewrite as *"the*
 > *line's one documented departure from the Pennsylvania/West Virginia*
 > *region"*: Farmington Hills, Michigan **1985–2010**, then Stanwood, Michigan
 > **2013–2020**. Thirty-five years out of region, no attested return, and she is

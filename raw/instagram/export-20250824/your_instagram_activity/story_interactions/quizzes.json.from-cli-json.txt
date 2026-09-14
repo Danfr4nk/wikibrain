@@ -1,0 +1,19 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 204 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:23:38.686-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:23:38.686Z"
+  },
+  "story_activities_quizzes": [
+    {
+      "string_list_data": [
+        {
+          "timestamp": 1657003395,
+          "value": "Option 1"
+        }
+      ],
+      "title": "ihatedanfrank"
+    }
+  ]
+}

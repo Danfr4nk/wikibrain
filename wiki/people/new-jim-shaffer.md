@@ -1,6 +1,7 @@
 ---
 domain: people
 page_type: entity
+title: "New Jim Shaffer"
 status: closed
 date_created: 2026-06-23
 date_modified: 2026-07-19
@@ -45,7 +46,7 @@ A huge share of the thread is granular, expert-level golf-equipment talk — sha
 
 ## The non-monogamy proposition
 
-On learning about the Dan/Annie arrangement (April 22, 2018), Jim reacts with detailed, enthusiastic curiosity rather than judgment, disclosing his own interest in swinging (a dedicated "red room" at his townhouse, a wife he hasn't been able to persuade) and negotiating in explicit detail toward joining an encounter with Annie — discretion terms, logistics, a proposed low-key first meeting over a shared bowl before anything further. The specific proposition's outcome isn't confirmed in the surviving thread, though by February 2019 the two are still discussing similar territory in a joking register, and Jim needles Dan for what reads as a parallel arrangement Dan was running with someone else that spring ("so then you have veto rights over who she fucks?").
+On learning about the Dan/[[wiki/people/annie-ulmer|Annie]] arrangement (April 22, 2018), Jim reacts with detailed, enthusiastic curiosity rather than judgment, disclosing his own interest in swinging (a dedicated "red room" at his townhouse, a wife he hasn't been able to persuade) and negotiating in explicit detail toward joining an encounter with Annie — discretion terms, logistics, a proposed low-key first meeting over a shared bowl before anything further. The specific proposition's outcome isn't confirmed in the surviving thread, though by February 2019 the two are still discussing similar territory in a joking register, and Jim needles Dan for what reads as a parallel arrangement Dan was running with someone else that spring ("so then you have veto rights over who she fucks?").
 
 Jim is also aware of, and treats as funny running gossip, Dan's 2019 NYC "hooker thing" — an October 2019 message ("bro. the hooker thing. I'm fucking DYING") that fits the same paid-companion economy documented on [[wiki/people/brian]] and [[wiki/people/jaredtricia]].
 

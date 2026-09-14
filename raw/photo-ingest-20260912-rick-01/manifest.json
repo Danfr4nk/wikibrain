@@ -1,0 +1,31 @@
+{
+  "batch": "photo-ingest-20260912-rick-01",
+  "intake_source": "direct send from Dan in chat 2026-09-12 (Rick drop)",
+  "album_url": null,
+  "photo_count": 1,
+  "pull_timestamp_utc": "2026-09-13T01:25:04Z",
+  "pull_method": "direct file copy from workspace/user/media_library (Dan's send, local-only original)",
+  "files": [
+    {
+      "filename": "f736bf78317ba98a6575baa8f9cb9c2626cac545d34864e3b5cf3ff8bb514562.jpg",
+      "sha256": "f736bf78317ba98a6575baa8f9cb9c2626cac545d34864e3b5cf3ff8bb514562",
+      "bytes": 211598,
+      "gphotos_media_id": null,
+      "platform_timestamp": null,
+      "exif_datetime": "2016:01:11 10:00:29",
+      "exif_software": "Photos 1.0.1",
+      "dimensions": {
+        "width": 828,
+        "height": 1470
+      },
+      "gps": null,
+      "content": "iMessage screenshot, thread with Rick, status bar 10:00 AM AT&T LTE 71%. Rick: 'I'm sure that u can use it' / 'Do u want to go to the Steeler game in Denver?' (9:46 AM). Dan: 'Wow!' / 'How long of a trip would it be? What days' / 'I would love to go just want to make sure of the dates first'. Rick: 'I was kidding. I want to also but can't swing it'. Dan: 'LOL I was going to say'. Read 10:00 AM.",
+      "people": [
+        "Rick Frank",
+        "Dan Frank"
+      ],
+      "registry_id": "upload-071",
+      "derivative": "wiki/media/upload-071.jpg"
+    }
+  ]
+}

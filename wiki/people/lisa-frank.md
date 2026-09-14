@@ -1,7 +1,9 @@
 ---
+title: "Lisa Frank"
 domain: people
 page_type: entity
 status: stub
+tags: [relationships, family]
 date_created: 2026-08-11
 date_modified: 2026-08-11
 date_range_start: 2015-12-27
@@ -55,7 +57,7 @@ wedding that weekend. Flagged, not asserted.
 **Gaps:** last name unconfirmed; marital status to Rick unconfirmed; Syd's
 identity and relationship to the household unconfirmed; no direct message
 from Lisa herself appears anywhere in the corpus — everything here is
-mediated through Rick's messages about her. No independent contact record
+mediated through Rick's messages about [[wiki/people/lisa-frank|her]]. No independent contact record
 (Facebook, Google Contacts) has been checked for her yet.
 
 

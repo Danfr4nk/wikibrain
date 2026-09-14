@@ -1,0 +1,41 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 2037 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Srinivasreddy Kota",
+      "share": {
+        "link": "https://www.instagram.com/_u/christiheither",
+        "profile_share_name": "Digital Marketing Agency",
+        "profile_share_username": "christiheither"
+      },
+      "timestamp_ms": 1637072082263
+    },
+    {
+      "content": "ðArÐµ yÐ¾u intÐµrÐµsted to growing ÑÐ¾ur InstÐ°grÐ°m Ð°cÑÐ¾unts\n100% guÐ°rantÐµed\n\n1k fÐ¾llÐ¾wers $10 ðºð¸\n2k followÐµrs $20 ðºð¸\n3k fÐ¾llÐ¾wÐµrs $30 ðºð¸\n5k fÐ¾llowÐµrs $45 ðºð¸\n10k follÐ¾wers $80 ðºð¸\n20k fÐ¾llowers $150 ðºð¸\n\nText me in my Ð¾ffiÑial aÑcount \nð@christiheither itâs necessÐ°rÑ tÐ¾ Ð°nswÐµr quiÑklÑ.\n------------------------------\nWe ÐÐ°vÐµ FRÐÐ Ð¢riÐ°l",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Srinivasreddy Kota",
+      "timestamp_ms": 1637072080076
+    }
+  ],
+  "participants": [
+    {
+      "name": "Srinivasreddy Kota"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:25:26.468-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:25:26.468Z"
+  },
+  "thread_path": "message_requests/srinivasreddykota_770865567643587",
+  "title": "Srinivasreddy Kota"
+}

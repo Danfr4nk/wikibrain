@@ -25,6 +25,9 @@ synthesizes:
   - wiki/self/youtube-watch-history
 tags: [personality-profile, forensic-analysis, digital-footprint]
 connections:
+  - page: wiki/mind/concepts/the-endpoint-requirement
+    type: complements
+    claim: "[2026-09-13] This page describes the closing of bounded sets; the endpoint-requirement page proposes the discriminator for which wants the engine even pursues — defined terminal states. The two pages together state the drive's full rule: a pursuit fires toward a defined endpoint, and an era ends when its set closes."
   - page: wiki/mind/concepts/attachment-model
     type: mirrors
     claim: "The Annie bond is the unclosable set: the largest object the completion engine was ever attached to, and the only one whose terminating signal had to arrive from outside because 41,073 of her messages contain none."
@@ -70,6 +73,12 @@ connections:
   - page: wiki/interests/favorites/eclecticism
     type: evidences
     claim: "The music exception this page left unresolved is now a named second architecture: three functional clusters maintained in parallel because they are used, not closed, which is why 47% of tracks have no findable edge and why this page was right not to claim the category."
+  - target: "[[wiki/mind/synthesis/totality-themes]]"
+    type: extends
+    claim: "Totality Themes takes this page's coverage-not-taste mechanism as the explanation for the low creator-level taste concentration its own re-check measured."
+  - target: "[[wiki/self/concepts/wiki-brain]]"
+    type: contextualizes
+    claim: "The wiki is this page's negative control for the satisfaction condition: a self-set corpus with no findable edge, so the rule predicts surface without closure."
 ---
 
 # Closing the Set
@@ -324,7 +333,7 @@ success condition, closure is — which is two pages reasoning from the same
 quote toward the same correction from opposite starting premises.
 
 **The negative control is the largest object in the corpus.**
-[[wiki/mind/concepts/attachment-model]]'s central claim is that the Annie bond
+[[wiki/mind/concepts/attachment-model]]'s central claim is that the [[wiki/people/annie-ulmer|Annie]] bond
 cannot close without an explicit external severance signal, and a primary
 sweep of 41,073 of her messages returns zero of them. In this page's
 vocabulary, the eleven-year relationship was **an unclosable set** — the one
@@ -340,14 +349,14 @@ does produce that verdict from Dan, the edge condition is wrong and the rule
 collapses to "self-set is enough," which
 [[wiki/mind/concepts/acquisition-drive]] has already falsified once on the
 MNEME/DANMODEL/video-essay record. Nothing in the corpus currently shows the
-wiki producing that response.
+[[wiki/self/concepts/wiki-brain|wiki]] producing that response.
 
 ## Falsifiers
 
 1. **A named favourite with sustained return traffic and no set behind it.** An
    artist, author or show that Dan comes back to repeatedly over years, where
    the repetition is not exhaustion of a discography or an archive. The
-   strongest candidate the corpus already contains is Elliott Smith (7 entries,
+   strongest candidate the corpus already contains is [[wiki/interests/favorites/music/artists/elliott-smith|Elliott Smith]] (7 entries,
    named on [[wiki/interests/music/overview]] as a private emotional
    regulator); if the listening record shows return rather than collection,
    that is one clean counterexample and the rule narrows to non-musical
@@ -383,7 +392,7 @@ wiki producing that response.
    within its first three months**, and will not show a second work by the
    first source until the others are used up. This is scoreable against the
    next favourites or Goodreads export with no interpretation required.
-4. **The wiki itself will not produce a closure verdict from Dan.** It has no
+4. **[[wiki/self/concepts/wiki-brain|The wiki]] itself will not produce a closure verdict from Dan.** It has no
    findable edge, so this page's own rule predicts it can generate surface
    indefinitely but not the satisfaction the Fran vigil produced. *Falsified
    by:* a dated, unprompted statement from Dan that working on or reading this
@@ -395,6 +404,15 @@ wiki producing that response.
    rather than from depth on the richest single source, and that it will
    terminate when the channels are exhausted rather than when a conclusion is
    reached.
+
+> **RE-CHECKED [2026-08-23] — premise moved by one typed edge, conclusion**
+> **unaffected.** [[wiki/mind/concepts/forensic-method]] moved on 2026-08-23 to carry an
+> `instance-of` edge into [[wiki/mind/profile/texting-deviance-audit]] — the method
+> turned on Dan's own self-report about how he texts, where two of his three stated
+> claims were falsified by counting. No factual content on the premise page changed and
+> nothing this page reasons from is touched. Worth noting only because the new instance
+> is the method pointed at its own operator rather than at a third party, which is a
+> shape this page tracks.
 
 ## Gaps
 
@@ -424,14 +442,3 @@ wiki producing that response.
   which [[wiki/interests/extreme-sports]] describes as total-obsession and
   scene-complete — is exactly the shape this rule predicts and is attested only
   by one retrospective capture.
-
-> **RE-CHECKED [2026-08-23] — premise moved by one typed edge, conclusion**
-> **unaffected.** [[wiki/mind/concepts/forensic-method]] moved on 2026-08-23 to carry an
-> `instance-of` edge into [[wiki/mind/profile/texting-deviance-audit]] — the method
-> turned on Dan's own self-report about how he texts, where two of his three stated
-> claims were falsified by counting. No factual content on the premise page changed and
-> nothing this page reasons from is touched. Worth noting only because the new instance
-> is the method pointed at its own operator rather than at a third party, which is a
-> shape this page tracks.
-
-

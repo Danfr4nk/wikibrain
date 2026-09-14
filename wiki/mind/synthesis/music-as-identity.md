@@ -1,6 +1,7 @@
 ---
 domain: mind
 page_type: synthesis
+title: "Music as Identity"
 status: active
 knowledge: earned
 date_created: 2026-07-16
@@ -50,6 +51,8 @@ connections:
   - page: wiki/interests/favorites/eclecticism
     type: parallels
     claim: "Four modes of music-as-self are why the favorites CSV's music half has no completion condition: the clusters are being used as identity and practice, not covered as a set, which is Architecture B of the dual-architecture finding."
+  - { target: "[[wiki/mind/synthesis/dance-music-only-phases]]", type: references, claim: "The two-phase dance-only page is the strongest empirical case for the music-as-identity construction thesis." }
+
 ---
 
 
@@ -60,7 +63,7 @@ one of the few stable structures of self that has run the entire length of
 the documented life — as a teenage identity performed in public (the 2007
 Facebook layer), as a literal itinerary (the tour-following years), as a
 private emotional regulator (the Elliott Smith pole), and as a professional
-identity (the producer-alias lineage). The wiki's old habit of filing each
+identity (the producer-alias lineage). [[wiki/self/concepts/wiki-brain|The wiki]]'s old habit of filing each
 artist as a one-line favorites entry systematically under-reported this,
 because the meaning was in the *through-line*, not the tracks.
 
@@ -88,7 +91,7 @@ because the meaning was in the *through-line*, not the tracks.
    the regulation is still live and still enforced.
 
 4. **Professional identity.** Since ~2013 he has been a producer under
-   four aliases (SLOPPP → MOGZART → MOGGED-UP → GRIPNOTIC), all
+   four aliases ([[wiki/interests/music/aliases/sloppp|SLOPPP]] → [[wiki/interests/music/aliases/mogzart|MOGZART]] → [[wiki/interests/music/aliases/mogged-up|MOGGED-UP]] → [[wiki/interests/music/aliases/gripnotic|GRIPNOTIC]]), all
    sub-bass-dominant, all unified by an involuntary low-frequency signature
    ([[wiki/interests/music/overview]]). The move to electronic was, per the
    profile, a correct read of where authentic expression lived after rock's
@@ -162,20 +165,6 @@ the production overview into one claim — that music is a primary,
 century-spanning structure of self, not a list. Each linked page carries
 one facet; this one states the whole.
 
-## Gaps
-
-- The 2019–2024 message gap means the live concert habit after 2008 is
-  under-documented; only the 2005–2008 record survives in his own hand.
-- Whether the producer identity and the favorites pole ever consciously
-  cross (does he hear his own sub-bass signature in what he consumes?) is
-  not settled by the corpus.
-- **A new question the mechanism section opens rather than closes.** If
-  closure, not betrayal-risk, is the real driver of the Fall Out Boy
-  freeze, the same rule predicts a canonized verdict should hold even
-  against strong external pressure to revise it (a critically acclaimed
-  reunion album, a friend's insistence the new material is as good). No
-  such test case has been checked against the corpus.
-
 ## The constitution pass
 
 Run 2026-08-28, against the eleven registers in `SYNTHESIS_SPEC.md`. This
@@ -207,4 +196,16 @@ which is a stronger claim because it predicts the freeze even where
 betrayal was never possible. **What it did not do:** manufacture
 connections to registers that genuinely don't bear on music preference.
 
+## Gaps
 
+- The 2019–2024 message gap means the live concert habit after 2008 is
+  under-documented; only the 2005–2008 record survives in his own hand.
+- Whether the producer identity and the favorites pole ever consciously
+  cross (does he hear his own sub-bass signature in what he consumes?) is
+  not settled by the corpus.
+- **A new question the mechanism section opens rather than closes.** If
+  closure, not betrayal-risk, is the real driver of the Fall Out Boy
+  freeze, the same rule predicts a canonized verdict should hold even
+  against strong external pressure to revise it (a critically acclaimed
+  reunion album, a friend's insistence the new material is as good). No
+  such test case has been checked against the corpus.

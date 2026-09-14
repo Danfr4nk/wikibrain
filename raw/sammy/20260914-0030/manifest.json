@@ -1,0 +1,55 @@
+{
+  "batch": "20260914-0030",
+  "pulled_at": "2026-09-14T00:34:04Z",
+  "watermark_from": "2026-09-13T23:42:06.446+00:00",
+  "watermark_to": "2026-09-14T00:29:04.453+00:00",
+  "counts": {
+    "chat_rows": 36,
+    "user": 16,
+    "assistant": 20,
+    "system_pins": 32
+  },
+  "md5_mismatches": 0,
+  "files": {
+    "EXTRACT.md": {
+      "sha256": "acd9e6e70a8db352b583e100ce2085dbf1370b5e6aa51ee1d0a5b59cc909a506",
+      "bytes": 2935
+    },
+    "chats.json": {
+      "sha256": "b2f3bcb3b21edaf4b5a845a32a0748dc8a90d797b4bf481c3b8148fcf42c11c1",
+      "bytes": 22693
+    },
+    "manifest.json": {
+      "sha256": "61cedc06c92a761d09f6e9ebeb93b55c8c51cae38dcc970c1301ac381961e28e",
+      "bytes": 1575
+    },
+    "system-manifest.json": {
+      "sha256": "799ffc6642498154f6006e237a21b13972868f9d73edd66656d6cf3d73d25566",
+      "bytes": 5556
+    },
+    "externals/device.json": {
+      "sha256": "28e6f82567d782d9d390e4a054a6a58328fe678f0829651870974ad73cb31d58",
+      "bytes": 209
+    },
+    "externals/facebook.json": {
+      "sha256": "28e6f82567d782d9d390e4a054a6a58328fe678f0829651870974ad73cb31d58",
+      "bytes": 209
+    },
+    "externals/instagram.json": {
+      "sha256": "28e6f82567d782d9d390e4a054a6a58328fe678f0829651870974ad73cb31d58",
+      "bytes": 209
+    },
+    "externals/messenger.json": {
+      "sha256": "28e6f82567d782d9d390e4a054a6a58328fe678f0829651870974ad73cb31d58",
+      "bytes": 209
+    },
+    "externals/spotify.json": {
+      "sha256": "28e6f82567d782d9d390e4a054a6a58328fe678f0829651870974ad73cb31d58",
+      "bytes": 209
+    },
+    "externals/threads.json": {
+      "sha256": "28e6f82567d782d9d390e4a054a6a58328fe678f0829651870974ad73cb31d58",
+      "bytes": 209
+    }
+  }
+}

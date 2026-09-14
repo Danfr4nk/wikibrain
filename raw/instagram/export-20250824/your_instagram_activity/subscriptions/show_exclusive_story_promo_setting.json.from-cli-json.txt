@@ -1,0 +1,21 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 292 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:24:46.793-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:24:46.793Z"
+  },
+  "subscriptions_show_story_teaser_setting": [
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Exclusive Story Promo Setting": {
+          "href": "",
+          "timestamp": 0,
+          "value": "False"
+        }
+      },
+      "title": ""
+    }
+  ]
+}

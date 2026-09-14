@@ -1,0 +1,9 @@
+{
+  "source": "messenger",
+  "status": "connected",
+  "watermark_from": "2026-08-26T22:23:43Z",
+  "pulled_at": "2026-09-13T07:42:59Z",
+  "count": 0,
+  "new_items": [],
+  "note": "sync both --since-days 21: 0 new messages, 0 threads failed. 2 cached threads (Kristin Shaelene: PENDING, unread, updated 2026-08-27; Ryan Lisac: INBOX, unread). Zero new items."
+}

@@ -1325,6 +1325,2912 @@
      "sha256": "d8bf3f17f4589e256bd3ff63fb4716b64203f52501eb935ee4b29e5a1983d2b7"
     }
    ]
+  },
+  {
+   "id": "upload-029",
+   "type": "image",
+   "count": 1,
+   "date": "2025-09-03T04:42:46 local (EXIF, iPhone 14 iOS 18.5); sent by Dan in chat 2026-09-12 captioned \"The famous 'wall' from the pre Kristin summer 2025 era.\"",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/18/1846b7b425ac98cba071cebab56386ea2bec1ddbfa229419138b453972c78d99.jpg",
+   "description": "The Wall: basement wood-paneled wall under drop ceiling, densely covered with dozens of printed B&W women's portraits plus text/graphic prints (GPT banner, BLACK FLAG-style logo, MAKE AMERICA, tarot pentagram poster, I'M OK, OAKLAND RAIDERS, BORN TO RAID/EST.1960, hand-drawn ARE YOU...?, red poster, roast-joke pic, deja reference). Armchair + mic stand below. All portrait subjects UNIDENTIFIED; no nudity/sexual activity visible. Built Aug 1-2 2025 as an evaluation device for Kristin's take; photographed a month later.",
+   "linked_nodes": [
+    "src:wall-photo-2025-09-03",
+    "dat:wall-built-20250801-02",
+    "dat:wall-purpose-kristin-take",
+    "dat:wall-contents-per-texts-20250803",
+    "dat:wall-cumslut-photo-20250826",
+    "dat:wall-milo-joke-false-lead-20250805",
+    "dat:wall-tom-kristin-picture-suggestion",
+    "dat:wall-photo-exif-20250903",
+    "dat:wall-photo-visual-read",
+    "pat:wall-as-analog-face-library"
+   ],
+   "analysis_status": "analyzed-full-res",
+   "compressed_path": "wiki/media/upload-029.jpg",
+   "manifest": [
+    {
+     "file": "1846b7b425ac98cba071cebab56386ea2bec1ddbfa229419138b453972c78d99.jpg",
+     "sha256": "1846b7b425ac98cba071cebab56386ea2bec1ddbfa229419138b453972c78d99"
+    }
+   ]
+  },
+  {
+   "id": "upload-030",
+   "type": "image",
+   "count": 1,
+   "date": "2015-08-18 20:48:23 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/53/53e3e91054e089a95e44e6dde4eed9bd757b85815489383cf435641ecf1e1a9f.jpg",
+   "sha256": "53e3e91054e089a95e44e6dde4eed9bd757b85815489383cf435641ecf1e1a9f",
+   "dimensions": "828x828",
+   "gps": null,
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan): seedling, first true leaves, soil close-up; no GPS. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-timeline-2015",
+    "dat:casey-uncured-harvest-dream-queen-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-031",
+   "type": "image",
+   "count": 1,
+   "date": "2015-08-27 16:46:25 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/aa/aa329dfeecad1975f76fa19aefb7c659d69fa37d39341a58287739eaba0fc91e.jpg",
+   "sha256": "aa329dfeecad1975f76fa19aefb7c659d69fa37d39341a58287739eaba0fc91e",
+   "dimensions": "828x1109",
+   "gps": "39.887372,-79.721845",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan): young plant, 5-finger leaves developing. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-timeline-2015",
+    "dat:casey-uncured-harvest-dream-queen-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-032",
+   "type": "image",
+   "count": 1,
+   "date": "2015-09-04 15:05:20 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/41/41c12a3c75156aa47da3e76deff4bf7ee14a9fdf03f8a59e6c438cf602dde087.jpg",
+   "sha256": "41c12a3c75156aa47da3e76deff4bf7ee14a9fdf03f8a59e6c438cf602dde087",
+   "dimensions": "828x1109",
+   "gps": "39.887398,-79.721859",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan): under CFLs (Energetic brand visible), terracotta pot rim. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-timeline-2015",
+    "dat:casey-uncured-harvest-dream-queen-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-033",
+   "type": "image",
+   "count": 1,
+   "date": "2015-09-07 18:54:49 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/83/8399e72bbf2d48159071da4896154c5100aad757886793d41e90185e5bd70bff.jpg",
+   "sha256": "8399e72bbf2d48159071da4896154c5100aad757886793d41e90185e5bd70bff",
+   "dimensions": "828x828",
+   "gps": "39.887352,-79.721847",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan): bushier, terracotta pot, CFL glow. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-timeline-2015",
+    "dat:casey-uncured-harvest-dream-queen-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-034",
+   "type": "image",
+   "count": 1,
+   "date": "2015-09-10 22:35:00 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/03/036b4fa5cb686ea11b8fb6ebfcde20a44bcb2d18d455a2e036ba9ac9caa90ba6.jpg",
+   "sha256": "036b4fa5cb686ea11b8fb6ebfcde20a44bcb2d18d455a2e036ba9ac9caa90ba6",
+   "dimensions": "828x1109",
+   "gps": "39.887375,-79.721878",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan): top-down full canopy, terracotta pot. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-timeline-2015",
+    "dat:casey-uncured-harvest-dream-queen-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-035",
+   "type": "image",
+   "count": 1,
+   "date": "2015-09-20 01:38:34 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/5e/5e337de6ba73ecf056dfca92e56d3112a0b46e0f89072bdace8b382b90dd59f4.jpg",
+   "sha256": "5e337de6ba73ecf056dfca92e56d3112a0b46e0f89072bdace8b382b90dd59f4",
+   "dimensions": "828x1109",
+   "gps": "39.887408,-79.721833",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan): two pots visible \u2014 at least two plants; clamp lamp overhead. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-timeline-2015",
+    "dat:casey-uncured-harvest-dream-queen-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-036",
+   "type": "image",
+   "count": 1,
+   "date": "2015-09-25 11:07:49 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/57/57b5f24fc5d4959f9d0dc2304db3bbc938f3073b07cd82230d5dde7abd31e4b4.jpg",
+   "sha256": "57b5f24fc5d4959f9d0dc2304db3bbc938f3073b07cd82230d5dde7abd31e4b4",
+   "dimensions": "828x1109",
+   "gps": "39.887423,-79.721842",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan): tall vegetative plant, desk-lamp CFL rig, second pot behind. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-timeline-2015",
+    "dat:casey-uncured-harvest-dream-queen-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-037",
+   "type": "image",
+   "count": 1,
+   "date": "2015-09-30 23:32:36 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/13/131e36c2d1317b21c2e57a96002975d4fdae37bfdcf077ea07c791ee55afa701.jpg",
+   "sha256": "131e36c2d1317b21c2e57a96002975d4fdae37bfdcf077ea07c791ee55afa701",
+   "dimensions": "828x1109",
+   "gps": "39.887352,-79.721867",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan): vegetative plant, CFL + reflector shade overhead. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-timeline-2015",
+    "dat:casey-uncured-harvest-dream-queen-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-038",
+   "type": "image",
+   "count": 1,
+   "date": "2015-10-04 16:44:26 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/c2/c2a4908df6ca6fc18afafffca2dde979743f0be1900963e80d5c891415503478.jpg",
+   "sha256": "c2a4908df6ca6fc18afafffca2dde979743f0be1900963e80d5c891415503478",
+   "dimensions": "828x1109",
+   "gps": "39.887380,-79.721861",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan): tallest plant, clamp-lamp + desk-lamp rig visible; derivative embedded as upload-030. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-timeline-2015",
+    "dat:casey-uncured-harvest-dream-queen-20260912"
+   ],
+   "embed": true,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-039",
+   "type": "image",
+   "count": 1,
+   "date": "2015-10-09 01:21:03 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow, second drop",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/2f/2f6c15ddaad228ee1ce3cd14a9ce7e1277af3c55759fb10b3a8cb967562ef781.jpg",
+   "sha256": "2f6c15ddaad228ee1ce3cd14a9ce7e1277af3c55759fb10b3a8cb967562ef781",
+   "dimensions": "828x1109",
+   "gps": "39.887383,-79.722167",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan), flowering stage: early flower, white pistils, dark lights-out frame. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-flower-2015"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-040",
+   "type": "image",
+   "count": 1,
+   "date": "2015-10-09 01:31:29 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow, second drop",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/7e/7e6dc7c70b46b368642631a2982242c6bdf304fb0637f241f55ce58c02aeb854.jpg",
+   "sha256": "7e6dc7c70b46b368642631a2982242c6bdf304fb0637f241f55ce58c02aeb854",
+   "dimensions": "828x1109",
+   "gps": "39.887394,-79.722183",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan), flowering stage: early flower, white pistil clusters, desk lamp at frame edge. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-flower-2015"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-041",
+   "type": "image",
+   "count": 1,
+   "date": "2015-10-12 01:31:55 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow, second drop",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/46/46d55805f14d76278197fec64d15257fecf975d06770613b90d3578778fc6fc3.jpg",
+   "sha256": "46d55805f14d76278197fec64d15257fecf975d06770613b90d3578778fc6fc3",
+   "dimensions": "828x1109",
+   "gps": "39.887389,-79.722167",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan), flowering stage: early flower in terracotta pot, desk-lamp CFL rig visible, yellowing lower leaves. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-flower-2015"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-042",
+   "type": "image",
+   "count": 1,
+   "date": "2015-10-15 03:14:22 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow, second drop",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/90/90336a6f7c7ce22968e44399d717c60db85b8666f582eb951f850ae0b7f803e8.jpg",
+   "sha256": "90336a6f7c7ce22968e44399d717c60db85b8666f582eb951f850ae0b7f803e8",
+   "dimensions": "828x828",
+   "gps": "39.887378,-79.722092",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan), flowering stage: early-mid flower, white pistils, terracotta pot. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-flower-2015"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-043",
+   "type": "image",
+   "count": 1,
+   "date": "2015-10-28 07:26:34 local (EXIF, iPad mini iOS 8.3); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow, second drop",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/c0/c0cff5064756415046652aa763e8387d5798d1f33c3e9eb8be386870df0e0ad4.jpg",
+   "sha256": "c0cff5064756415046652aa763e8387d5798d1f33c3e9eb8be386870df0e0ad4",
+   "dimensions": "828x1109",
+   "gps": "39.887383,-79.722153",
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan), flowering stage: developed colas, pistils ambering. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-flower-2015"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-044",
+   "type": "image",
+   "count": 1,
+   "date": "2015-11-01 22:17:44 local (EXIF, Samsung SCH-I545); sent by Dan in chat 2026-09-12 as the Virginia Ave weed grow, second drop",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/fb/fb65330a1a7b1d31f0c52aad48abe33eb06b35881fe2bc7393387c213796335f.jpg",
+   "sha256": "fb65330a1a7b1d31f0c52aad48abe33eb06b35881fe2bc7393387c213796335f",
+   "dimensions": "828x1472",
+   "gps": null,
+   "description": "Virginia Ave cannabis grow ('Dream Queen' per Dan), flowering stage: trichome/pistil macro, amber pistils, frosty; Samsung Galaxy S4 (SCH-I545), no GPS \u2014 only non-iPad frame. No people; no nudity; no legible PII.",
+   "linked_nodes": [
+    "src:virginia-ave-grow-2015",
+    "dat:virginia-ave-grow-flower-2015"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-045",
+   "type": "image",
+   "count": 1,
+   "date": "2015-11-26 14:33:20 local (EXIF, iPhone 6s front camera); sent by Dan in chat 2026-09-12 as the first of an Annie photo series",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/c8/c8b92c4c600b838dffc954d8fee68582b01b57ee266e5eef4664429911000bca.jpg",
+   "sha256": "c8b92c4c600b838dffc954d8fee68582b01b57ee266e5eef4664429911000bca",
+   "dimensions": "828x778",
+   "gps": "39.8845,-79.7262 (EXIF; Annie's position \u2014 she took the selfie on the front camera; ~470m from 155 Virginia Ave; HPE 65m)",
+   "description": "Black-and-white bathroom selfie: Annie Ulmer topless, tongue out, nipple piercing visible; iPhone 6s front camera. Dan (2026-09-12): 'the first nude I ever got from her.' Nudity \u2014 embedded derivative pixelated per censorship rule; original never committed.",
+   "linked_nodes": [
+    "src:annie-first-nude-2015-11-26",
+    "dat:annie-first-nude-milestone-20260912"
+   ],
+   "embed": true,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-046",
+   "type": "image",
+   "count": 1,
+   "date": "2015-11-30 17:19:59 local (EXIF, iPhone 6); sent by Dan in chat 2026-09-12 as the second of an Annie photo series",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/c5/c54ab1f570fc4ac6e596f1d3bcdcb2fb45eebbc32bb83d2d9be83053c8576917.jpg",
+   "sha256": "c54ab1f570fc4ac6e596f1d3bcdcb2fb45eebbc32bb83d2d9be83053c8576917",
+   "dimensions": "828x1104",
+   "gps": "39.6286778,-79.9559861 (EXIF, live fix at capture time \u2014 2015-11-30 22:19:59 UTC = 17:19:59 EST; HPE 10m, alt 291m; downtown Morgantown WV \u2014 the piercing shop)",
+   "description": "Annie Ulmer in a piercing/tattoo shop (red walls, flash-art frame, framed certificate), holding a small aftercare item \u2014 about to get or just got her septum pierced. Dan (2026-09-12) attaches this to the second Morgantown trip (drugs, septum piercing, Primanti Bros). Coordinates corroborate Morgantown, not a specific establishment.",
+   "linked_nodes": [
+    "src:annie-morgantown-trip-2015-11-30",
+    "dat:primanti-alcohol-exception-2015-11-30"
+   ],
+   "embed": true,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-047",
+   "type": "image",
+   "count": 1,
+   "date": "2015-11-30 17:52:48 local (EXIF); sent by Dan in chat 2026-09-12 as the second of an Annie photo series",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/d5/d5496a7ebf17f8d1d1856cf39b5834b4f5609b89c76bddbe01117229e7a1a36d.jpg",
+   "sha256": "d5496a7ebf17f8d1d1856cf39b5834b4f5609b89c76bddbe01117229e7a1a36d",
+   "dimensions": "828x1473",
+   "gps": "none (consistent with re-save; no camera make/model in EXIF)",
+   "description": "Dan drinking a blue fishbowl cocktail with a rubber duck, bar at night \u2014 the bar stop on the second Morgantown trip. The drinking is a documented exception to his 13-15-year alcohol-zero record ('my only time being forced to have alcohol in so long').",
+   "linked_nodes": [
+    "src:annie-morgantown-trip-2015-11-30",
+    "dat:primanti-alcohol-exception-2015-11-30"
+   ],
+   "embed": true,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-048",
+   "type": "image",
+   "count": 1,
+   "date": "2015-11-30 17:53:11 local (EXIF, iPhone 6); sent by Dan in chat 2026-09-12 as the second of an Annie photo series",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/db/db21f0ddfdbab8db958b0050ea8a2ec7764b9ab8dafbcdbe199f980d21a3ec.jpg",
+   "sha256": "db21f0ddfdbab8db958b0050ea8a2ec7764b9ab8dafbcdbe199f980d21a3ec",
+   "dimensions": "828x1035",
+   "gps": "39.6531667,-79.9410389 (EXIF \u2014 STALE FIX: timestamp 16:36:36 vs capture 17:53:11, DOP 0.0, alt 0.0; plausible Morgantown-area bar, low trust)",
+   "description": "Two blue fishbowl cocktails with rubber ducks on a branded table ('CRAFTED BY CUSTOM...'), 23 seconds after upload-047 \u2014 the two-drink stop on the second Morgantown trip.",
+   "linked_nodes": [
+    "src:annie-morgantown-trip-2015-11-30",
+    "dat:primanti-alcohol-exception-2015-11-30"
+   ],
+   "embed": true,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-049",
+   "type": "image",
+   "count": 1,
+   "date": "2015-11-30 ~16:55 local (INFERRED: no EXIF; status bar 4:55 PM; dated by Dan's same-night '11/30/2015 official break up' caption + Annie's verbatim quote-back 2015-12-03 21:50 UTC; confidence moderate); sent by Dan in chat 2026-09-12 as the third Annie drop",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/49/493411a5751da4f60919e0fc9ed07a43d3075f1fd9b6e3af607dfdfdf990d539.jpg",
+   "sha256": "493411a5751da4f60919e0fc9ed07a43d3075f1fd9b6e3af607dfdfdf990d539",
+   "dimensions": "828x1470",
+   "gps": null,
+   "description": "Unsent draft of the Alexis cover text ('Messages (2)' header, keyboard visible): 'Hey I remembered that you and Anne are supposed to work together tonight. Please leave her out of all of our problems, she really isn't involved. I won't say anything else about it or her, but it's not fair to blame her for the decisions we've both made that led us here.'",
+   "linked_nodes": [
+    "src:annie-cover-text-screenshots-2015",
+    "dat:alexis-cover-text-2015-11-30"
+   ],
+   "embed": true,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-050",
+   "type": "image",
+   "count": 1,
+   "date": "2015-11-30 ~16:56 local (INFERRED, same as upload-049; 'Today 4:56 PM' marker; no EXIF); sent by Dan in chat 2026-09-12 as the third Annie drop",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/06/060b30a6ef999974799b4f5d5768d0dee893e5070421ed7dd1d2d2bd15f39bc4.jpg",
+   "sha256": "060b30a6ef999974799b4f5d5768d0dee893e5070421ed7dd1d2d2bd15f39bc4",
+   "dimensions": "828x1470",
+   "gps": null,
+   "description": "Sent version of the cover text (green bubble) with Alexis's replies: 'im not going to involve myself in any of that any more. @' and 'I couldn't care less about anne' \u2014 cold disengagement, not explosion.",
+   "linked_nodes": [
+    "src:annie-cover-text-screenshots-2015",
+    "dat:alexis-cover-text-2015-11-30"
+   ],
+   "embed": true,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-051",
+   "type": "image",
+   "count": 1,
+   "date": "2015-11-30 23:36:50 local (EXIF DateTime, status bar 11:36 PM); Dan's caption below frame: '11/30/2015 official break up' (retrospective dating); sent by Dan in chat 2026-09-12 as the third Annie drop",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/ad/adf3fc6e30df60b660811939abcc87df37c9b790379724dbf26acbf3e0b2aebf.jpg",
+   "sha256": "adf3fc6e30df60b660811939abcc87df37c9b790379724dbf26acbf3e0b2aebf",
+   "dimensions": "828x638",
+   "gps": null,
+   "description": "Cropped Facebook iOS 'Edit Profile' screenshot: RELATIONSHIP field cleared to '---', partner picker empty; Dan's caption '11/30/2015 official break up' below the frame.",
+   "linked_nodes": [
+    "src:annie-cover-text-screenshots-2015",
+    "dat:official-breakup-2015-11-30"
+   ],
+   "embed": true,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-052",
+   "type": "image",
+   "count": 1,
+   "date": "2015-11-30 23:36 (no EXIF; same screen as upload-051/053, uncropped, status bar 11:36 PM); sent by Dan in chat 2026-09-12 as the third Annie drop",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/8b/8bf4d2c628e026eb297d594d3dfbdd1a939f690c3fe53c0ec3fd0276467aee3b.jpg",
+   "sha256": "8bf4d2c628e026eb297d594d3dfbdd1a939f690c3fe53c0ec3fd0276467aee3b",
+   "dimensions": "828x1470",
+   "gps": null,
+   "description": "Uncropped variant of the FB relationship-clear screenshot (same screen as upload-051/053, no caption) \u2014 same-screen variant, thumbnailed via upload-051 only.",
+   "linked_nodes": [
+    "src:annie-cover-text-screenshots-2015",
+    "dat:official-breakup-2015-11-30"
+   ],
+   "embed": true,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-053",
+   "type": "image",
+   "count": 1,
+   "date": "2015-11-30 23:36:50 local (EXIF DateTime, status bar 11:36 PM); sent by Dan in chat 2026-09-12 as the third Annie drop",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/00/002d2bcd15819a38c5b050fd74e44fc13992a3993b0d04d0c49fd349344e583b.jpg",
+   "sha256": "002d2bcd15819a38c5b050fd74e44fc13992a3993b0d04d0c49fd349344e583b",
+   "dimensions": "828x1470",
+   "gps": null,
+   "description": "Uncropped variant of the FB relationship-clear screenshot (same screen as upload-051/052, no caption) \u2014 same-screen variant, thumbnailed via upload-051 only.",
+   "linked_nodes": [
+    "src:annie-cover-text-screenshots-2015",
+    "dat:official-breakup-2015-11-30"
+   ],
+   "embed": true,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-054",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-03 23:41:53 local (EXIF, iPhone 6)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/c9/c918bf78736ed1b8b0d92c1fd09154d432ea3bfb01be9d76c1364485b1dd7fe9.jpg",
+   "sha256": "c918bf78736ed1b8b0d92c1fd09154d432ea3bfb01be9d76c1364485b1dd7fe9",
+   "dimensions": "828x1104",
+   "gps": "39.9003556,-79.7255333 (EXIF - LIVE FIX: GPS timestamp 04:41:50 UTC 2015-12-04 = 23:41:50 EST capture, within seconds; Uniontown PA area)",
+   "description": "Annie looking left, profile, hand at chin; Dan in dark hoodie at frame right. First of six public-debut selfies.",
+   "linked_nodes": [
+    "src:annie-first-public-2015-12-03",
+    "dat:annie-first-public-milestone-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-055",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-03 23:41:55 local (EXIF, iPhone 6)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/d1/d1a5cf37e3f45bd22469ecd02a88863ce023bee3a780e9edf65eb9abf665556a.jpg",
+   "sha256": "d1a5cf37e3f45bd22469ecd02a88863ce023bee3a780e9edf65eb9abf665556a",
+   "dimensions": "828x1104",
+   "gps": "39.9003556,-79.7255333 (EXIF - LIVE FIX: GPS timestamp matches capture; Uniontown PA area)",
+   "description": "Annie mid-laugh, motion blur, hand at her throat; string lights and lit window behind. Second public-debut frame.",
+   "linked_nodes": [
+    "src:annie-first-public-2015-12-03",
+    "dat:annie-first-public-milestone-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-056",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-03 23:42:05 local (EXIF, iPhone 6)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/6d/6d85205a619ab970a163c6069f5816936a85991bc5366d376f0b4754552cf63f.jpg",
+   "sha256": "6d85205a619ab970a163c6069f5816936a85991bc5366d376f0b4754552cf63f",
+   "dimensions": "828x1104",
+   "gps": "39.9006778,-79.7259528 (EXIF - LIVE FIX: GPS timestamp matches capture; Uniontown PA area)",
+   "description": "REPRESENTATIVE - clearest two-shot: Annie smiling directly at the camera, Dan beside her in dark hoodie, string lights and lit window behind.",
+   "linked_nodes": [
+    "src:annie-first-public-2015-12-03",
+    "dat:annie-first-public-milestone-20260912"
+   ],
+   "embed": true,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-057",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-03 23:42:13 local (EXIF, iPhone 6)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/bc/bc87a7e5ce4aa0070b207ae52e9fec29e4b71f3bb0c7c70aa4640030687cdb1e.jpg",
+   "sha256": "bc87a7e5ce4aa0070b207ae52e9fec29e4b71f3bb0c7c70aa4640030687cdb1e",
+   "dimensions": "828x1104",
+   "gps": "39.9007222,-79.7259222 (EXIF - LIVE FIX: GPS timestamp matches capture; Uniontown PA area)",
+   "description": "Annie laughing, head down, motion blur; Dan at frame right. Fourth public-debut frame.",
+   "linked_nodes": [
+    "src:annie-first-public-2015-12-03",
+    "dat:annie-first-public-milestone-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-058",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-03 23:42:32 local (EXIF, iPhone 6)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/9c/9cc236a273f20b6c218ae3effbcf1e97c30077854501f62e15c827148e7596b6.jpg",
+   "sha256": "9cc236a273f20b6c218ae3effbcf1e97c30077854501f62e15c827148e7596b6",
+   "dimensions": "828x1104",
+   "gps": "39.9007694,-79.7257306 (EXIF - LIVE FIX: GPS timestamp matches capture; Uniontown PA area)",
+   "description": "Annie kissing Dan\u2019s cheek; his hand holding hers. Fifth public-debut frame.",
+   "linked_nodes": [
+    "src:annie-first-public-2015-12-03",
+    "dat:annie-first-public-milestone-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-059",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-03 23:51:34 local (EXIF, iPhone 6)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/f4/f4b390bbd8387e31298caf4f3cb59c9424b637434cb823944f5f38cbe78dabc9.jpg",
+   "sha256": "f4b390bbd8387e31298caf4f3cb59c9424b637434cb823944f5f38cbe78dabc9",
+   "dimensions": "828x1104",
+   "gps": "39.9009944,-79.7258306 (EXIF - LIVE FIX: GPS timestamp matches capture; Uniontown PA area)",
+   "description": "Dark close two-shot, Annie grinning at camera, Dan beside her; string lights above. Sixth and last public-debut frame, ~9 min after the first.",
+   "linked_nodes": [
+    "src:annie-first-public-2015-12-03",
+    "dat:annie-first-public-milestone-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-060",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-05 19:42 (status bar 7:42 PM, 2% battery - NO EXIF; date by adjacency, confidence moderate)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/4e/4e3f2a6b0fcb075ffc6adeca4687a2e4633abe537ae602c1a2ec14e428c39d58.jpg",
+   "dimensions": "828x1470",
+   "gps": null,
+   "description": "iMessage screenshot, Messages (3) Alexis, 7:42 PM: 'Can we talk really quick / No fights no nothing. / I'm outside it won't take 5 minutes / I know your mom is here so obviously I'm not here to cause problems. 5 minutes n we don't have to speak ever again.' First of three Dec 5 lead-up frames.",
+   "linked_nodes": [
+    "src:annie-stolen-laptop-night-2015-12-05",
+    "dat:alexis-pre-incident-texts-2015-12-05"
+   ],
+   "embed": false,
+   "embed_excluded": false,
+   "sha256": "4e3f2a6b0fcb075ffc6adeca4687a2e4633abe537ae602c1a2ec14e428c39d58",
+   "bytes": 215364
+  },
+  {
+   "id": "upload-061",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-05 19:45:45 (EXIF, matches status bar 7:45 PM, 3% battery)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/59/59d01b0334223e8fdf30812792058af9e896372b1d21a1dffaf87cf1e9363ccd.jpg",
+   "dimensions": "828x1470",
+   "gps": null,
+   "description": "iMessage screenshot, Messages (2) Alexis, 7:45 PM: her 'need 2 mins to speak to you face to face n that'll be it' vs Dan's 'I can't right now. And after you wouldn't sell me the sub / I don't really feel like I need to feel bad about it' - the Suboxone-withholding refusal, primary.",
+   "linked_nodes": [
+    "src:annie-stolen-laptop-night-2015-12-05",
+    "dat:alexis-pre-incident-texts-2015-12-05",
+    "dat:alexis-suboxone-withholding-2015-12-05"
+   ],
+   "embed": false,
+   "embed_excluded": false,
+   "sha256": "59d01b0334223e8fdf30812792058af9e896372b1d21a1dffaf87cf1e9363ccd",
+   "bytes": 237634
+  },
+  {
+   "id": "upload-062",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-05 20:54:46 (EXIF, matches status bar 8:54 PM, 3% battery)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/a7/a718ba6f2f52e469fbc0200528d3237b7332cbd17593f94845bd69803186e440.jpg",
+   "dimensions": "828x1470",
+   "gps": null,
+   "description": "iMessage screenshot, Messages (2) Alexis, 8:54 PM: same opener, same two Dan replies, then Alexis 'Feel bad about what? This has nothing to do with any of that.' Dan: 'What is it then?' - the exchange ends here. Last lead-up frame before the incident.",
+   "linked_nodes": [
+    "src:annie-stolen-laptop-night-2015-12-05",
+    "dat:alexis-pre-incident-texts-2015-12-05"
+   ],
+   "embed": false,
+   "embed_excluded": false,
+   "sha256": "a718ba6f2f52e469fbc0200528d3237b7332cbd17593f94845bd69803186e440",
+   "bytes": 210536
+  },
+  {
+   "id": "upload-063",
+   "type": "video",
+   "count": 1,
+   "date": "2015-12-05 (night, no container timestamp evidence; by batch adjacency)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/video/90/90385b4b029538e1594bb629906512dd4ea91ecc9e1c970e0510c578baef7847.mp4",
+   "dimensions": "720x1280",
+   "gps": null,
+   "description": "14.14s vertical bedroom video: dim, vertical blinds, string lights, bed with clothes. One woman (black tank, dark pants with white side stripes, hair in bun) moves around the room - bends over bed, stands, hands near face. UNIDENTIFIED: face-tag 0.111 (runner-up alexis) vs 0.45 threshold. Audio (whisper-tiny, rough): 'I didn't have to, I sent, I had the messages where I tried to resolve this before.' / 'Okay, so I'll get all the drug paraphernalia out so in case you need to call the cops.' Representative frame = upload-063.jpg.",
+   "linked_nodes": [
+    "src:annie-stolen-laptop-night-2015-12-05",
+    "dat:alexis-stolen-laptop-night-testimony-dan-20260912"
+   ],
+   "embed": false,
+   "embed_excluded": false,
+   "sha256": "90385b4b029538e1594bb629906512dd4ea91ecc9e1c970e0510c578baef7847",
+   "bytes": 3601852
+  },
+  {
+   "id": "upload-064",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-01 22:52:48 local (EXIF, no camera tag)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/8f/8ff5e48d46bda42a3408ad02b194c3cf35e0aeb156f508fe4b88d183856090d5.jpg",
+   "dimensions": "828x1473",
+   "gps": null,
+   "description": "Post-it-note advent calendar (numbers 1-25 + star) arranged as a tree on a dark door, captioned 'Post it....Adventi calendar'. Dates the batch to December independently of testimony.",
+   "linked_nodes": [
+    "src:annie-new-life-2015-12",
+    "dat:annie-new-life-exchange-2015-12-01"
+   ],
+   "embed": false,
+   "embed_excluded": false,
+   "sha256": "8ff5e48d46bda42a3408ad02b194c3cf35e0aeb156f508fe4b88d183856090d5",
+   "bytes": 331539
+  },
+  {
+   "id": "upload-065",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-01 19:43:36 local (EXIF, no camera tag)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/d2/d21ef5b76c2e85baee5926481e88c823485d39917d7856da0a1bbb0f5bf96a30.jpg",
+   "dimensions": "828x1470",
+   "gps": null,
+   "description": "Indoor selfie: Dan in a black beanie pulling a face, Annie leaning her head on his shoulder, ceiling light above. Evening of Dec 1, after the new-life exchange.",
+   "linked_nodes": [
+    "src:annie-new-life-2015-12",
+    "dat:annie-new-life-exchange-2015-12-01"
+   ],
+   "embed": false,
+   "embed_excluded": false,
+   "sha256": "d21ef5b76c2e85baee5926481e88c823485d39917d7856da0a1bbb0f5bf96a30",
+   "bytes": 296871
+  },
+  {
+   "id": "upload-066",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-01 16:54:06 local (EXIF, iPhone 6)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/0f/0f2ad7836dffb34656a53fee630f89ed897810dc220a58ec12e1823e8b550fca.jpg",
+   "dimensions": "828x1104",
+   "gps": "39.885292,-79.712425 (EXIF - weak fix, HPE 320m; approximate, Uniontown PA area)",
+   "description": "Annie lying on a mattress holding a string of lit Christmas lights above her, laughing; black tank top, jeans; deck and yard visible through a glass door. Afternoon of Dec 1 - decorating the household as theirs.",
+   "linked_nodes": [
+    "src:annie-new-life-2015-12",
+    "dat:annie-new-life-exchange-2015-12-01"
+   ],
+   "embed": false,
+   "embed_excluded": false,
+   "sha256": "0f2ad7836dffb34656a53fee630f89ed897810dc220a58ec12e1823e8b550fca",
+   "bytes": 264568
+  },
+  {
+   "id": "upload-067",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-01 13:38:51 local (EXIF, no camera tag)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/22/229a927dcb74bed9aabbbae048bf9d80776d540e8eaa6939a9d993d98234e9cb.jpg",
+   "dimensions": "828x1470",
+   "gps": null,
+   "description": "iMessage screenshot (AT&T LTE, 1:38 PM, 17% battery) with Annie: Dan's 'new life' declaration - 'Because I didn't sleep and I want to bask in my new life with you' / 'Annie Ulmer from now on its just you and me' / 'Because she's gone' / 'We made it lol' / 'I wanna spend forever smothering you in love' (bottom line partially cut); Annie: 'You're adorable' / smiley / 'This is wonderful you give me the best feeling'. Earliest primary instance of the explicit-verbal-commitment architecture.",
+   "linked_nodes": [
+    "src:annie-new-life-2015-12",
+    "dat:annie-new-life-exchange-2015-12-01"
+   ],
+   "embed": false,
+   "embed_excluded": false,
+   "sha256": "229a927dcb74bed9aabbbae048bf9d80776d540e8eaa6939a9d993d98234e9cb",
+   "bytes": 217966
+  },
+  {
+   "id": "upload-068",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-07 14:07:33 local (EXIF, iPhone 6)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/ff/ff1077dfe7fedba898f49cf36130732d256735ca312c1b0033abffd56d9308b3.jpg",
+   "dimensions": "828x1104",
+   "gps": "39.88765,-79.722167 (EXIF - HPE ~324m; approximate, Uniontown PA area)",
+   "description": "Laughing selfie: Annie with hand over her mouth, Dan in a red shirt leaning his head on her shoulder. Midday Dec 7 - settled-couple register.",
+   "linked_nodes": [
+    "src:annie-new-life-2015-12",
+    "dat:annie-first-december-2015-12-07"
+   ],
+   "embed": false,
+   "embed_excluded": false,
+   "sha256": "ff1077dfe7fedba898f49cf36130732d256735ca312c1b0033abffd56d9308b3",
+   "bytes": 250340
+  },
+  {
+   "id": "upload-069",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-07 14:35:18 local (EXIF, iPhone 6s)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/e1/e19c454605a5fd42f9ddbf28be1330bca12d342e1fa7b53afceea4f801ce8809.jpg",
+   "dimensions": "828x621",
+   "gps": "39.887428,-79.722106 (EXIF - HPE ~313m; approximate, Uniontown PA area)",
+   "description": "Bed photo: Dan shirtless (red wristband visible) and Annie beside him under white sheets, both smiling at the camera. No nudity or sexual activity visible; no pixelation. Representative frame.",
+   "linked_nodes": [
+    "src:annie-new-life-2015-12",
+    "dat:annie-first-december-2015-12-07"
+   ],
+   "embed": false,
+   "embed_excluded": false,
+   "sha256": "e19c454605a5fd42f9ddbf28be1330bca12d342e1fa7b53afceea4f801ce8809",
+   "bytes": 114852
+  },
+  {
+   "id": "upload-070",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-07 14:35:39 local (EXIF, iPhone 6s)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/bd/bd456b879a16b73174171427f50f9e738f14d6545c8e97035b8954e61d37f54f.jpg",
+   "dimensions": "828x621",
+   "gps": "39.887428,-79.722106 (EXIF - HPE ~313m; approximate, Uniontown PA area)",
+   "description": "Bed photo: Dan kissing Annie's cheek, her arm around him, under white sheets. No nudity or sexual activity visible; no pixelation.",
+   "linked_nodes": [
+    "src:annie-new-life-2015-12",
+    "dat:annie-first-december-2015-12-07"
+   ],
+   "embed": false,
+   "embed_excluded": false,
+   "sha256": "bd456b879a16b73174171427f50f9e738f14d6545c8e97035b8954e61d37f54f",
+   "bytes": 114348
+  },
+  {
+   "id": "upload-071",
+   "type": "image",
+   "count": 1,
+   "date": "2016-01-11 10:00:29 local (EXIF, Photos 1.0.1 export; status-bar 10:00 AM matches file time)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/f7/f736bf78317ba98a6575baa8f9cb9c2626cac545d34864e3b5cf3ff8bb514562.jpg",
+   "dimensions": "828x1470",
+   "gps": null,
+   "description": "iMessage screenshot, thread with Rick: 'Do u want to go to the Steeler game in Denver?' (9:46 AM); Dan excited across three messages; Rick: 'I was kidding. I want to also but can't swing it'; Dan: 'LOL I was going to say'. Dan's 2026-09-12 label: 'peak Rick'. Steelers at Broncos divisional playoff was 2016-01-17, fixture-consistent. Zero hits in message exports - new to the corpus.",
+   "linked_nodes": [
+    "src:rick-denver-trip-screenshot-2016-01-11",
+    "dat:rick-denver-trip-yank-2016-01-11"
+   ],
+   "embed": false,
+   "embed_excluded": false,
+   "sha256": "f736bf78317ba98a6575baa8f9cb9c2626cac545d34864e3b5cf3ff8bb514562",
+   "bytes": 211598
+  },
+  {
+   "id": "upload-072",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-06 14:57:51 local (EXIF, Photos 1.0.1 export; status-bar 2:57 PM)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/49/49674a776a0e6e60f79d575cb94fec5a18142bab6770607edb486421f867508d.jpg",
+   "dimensions": "800x1420",
+   "gps": null,
+   "description": "iMessage screenshot, Dan<->Zac Shumar: Shumar sends Instagram kissing-couple screenshot, \"Come on man.\" First frame of the Dec 6 confrontation.",
+   "sha256": "7c435404d958aba60e66bf7798307f565a1140728d400625b1c7f078495932ad",
+   "linked_nodes": [
+    "dat:shumar-dan-argument-2015-12-06"
+   ],
+   "batch": "photo-ingest-20260912-zac-01",
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-073",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-06 15:11:14 local (EXIF, Photos 1.0.1 export; status-bar 3:08 PM)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/20/2045055f3ef58066dcb6a93733548f107bdcb86fc1738f31b6a38258e40070e8.jpg",
+   "dimensions": "800x1420",
+   "gps": null,
+   "description": "iMessage screenshot, Dan<->Shumar: \"I'm just mad that it's you. After everything I told you\" / \"I think she is going to treat you badly.\"",
+   "sha256": "bcd66203bd5a508d99fe187a5d507aaf65b319be194be9625565be20f8fca3c9",
+   "linked_nodes": [
+    "dat:shumar-dan-argument-2015-12-06"
+   ],
+   "batch": "photo-ingest-20260912-zac-01",
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-074",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-06 15:22:10 local (EXIF, Photos 1.0.1 export; status-bar 3:11 PM)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/3e/3e5dd2ef9ddc7ec94aba72651de5181062d185d20970849a878bcbad4fe42e16.jpg",
+   "dimensions": "800x1420",
+   "gps": null,
+   "description": "iMessage screenshot, Dan<->Shumar: \"you bail on lex and jump on Annie like that's just dumb\" - third-party naming of the bond switch.",
+   "sha256": "8484a22e6bffe7df29980935ccfa36b97eb7280122d3a49f0d6d6f253c2850fd",
+   "linked_nodes": [
+    "dat:shumar-switch-naming-2015-12-06"
+   ],
+   "batch": "photo-ingest-20260912-zac-01",
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-075",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-06 ~15:22 local (no EXIF; adjacent-dated; status-bar 3:22 PM)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/02/020eddb288d94a152a6554edb2c0dd226825a2e62f0c720803e3d0a12111b202.jpg",
+   "dimensions": "800x1420",
+   "gps": null,
+   "description": "iMessage screenshot, Dan<->Shumar: \"I poured my heart out to you about her then you go and fuck her the next weekend. Like it just fucking hurts, I trusted you man.\"",
+   "sha256": "4b8c6c3faee19416a702b5391363bb44bbca85a586eae09e30b567fbeb07414d",
+   "linked_nodes": [
+    "dat:shumar-dan-argument-2015-12-06"
+   ],
+   "batch": "photo-ingest-20260912-zac-01",
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-076",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-06 ~15:22 local (no EXIF; adjacent-dated; status-bar 3:22 PM)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/a6/a6621f05a770829cfc041717e2fb9d9b1ebe.jpg",
+   "dimensions": "800x1420",
+   "gps": null,
+   "description": "iMessage screenshot, Dan<->Shumar: \"So you knew that you were trying to fuck her and just didn't mention that? That the issue.\"",
+   "sha256": "008d135dfa8d56914463f6de68a6b07e5787073edad221b5a5cc3938b46662ac",
+   "linked_nodes": [
+    "dat:shumar-dan-argument-2015-12-06"
+   ],
+   "batch": "photo-ingest-20260912-zac-01",
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-077",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-06 ~15:27 local (no EXIF; adjacent-dated; status-bar 3:27 PM)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/28/28dbee912e1872c365368a5f3d01116ac484b68621aeac956fccfe80e3ad8f19.jpg",
+   "dimensions": "800x1420",
+   "gps": null,
+   "description": "iMessage screenshot, Dan<->Shumar: \"I went to church with her and her family today. This isn't me trying to sling web on some girl you once liked.\" Dec 6 was a Sunday.",
+   "sha256": "37c8e47f01cb5118538397c6b23119cb8661d3c639331b4f823ce05a1b2141e6",
+   "linked_nodes": [
+    "dat:shumar-church-annie-family-2015-12-06"
+   ],
+   "batch": "photo-ingest-20260912-zac-01",
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-078",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-06 15:41:35 local (EXIF, Photos 1.0.1 export; status-bar 3:41 PM)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/41/41bc368b75f132d1af74a49713c63a66fe26d44dbe27087f07a351698fe8c089.jpg",
+   "dimensions": "800x1420",
+   "gps": null,
+   "description": "iMessage screenshot, Dan<->Shumar closing exchange: \"I wish you and lex would have stayed together instead of getting with the girl I wanted.\" A second encode (33/33af...) of the same screenshot was received but not separately registered (semantic duplicate).",
+   "sha256": "4a1f69d589430486ede8ffd901f7db8f198d7d72f97f33a6a63e41fddc31b028",
+   "linked_nodes": [
+    "dat:shumar-dan-argument-2015-12-06"
+   ],
+   "batch": "photo-ingest-20260912-zac-01",
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-079",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-10 20:38 local (corpus row 131575, 2015-12-11 01:38:38 UTC; status-bar 8:53 PM)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/1f/1f98d59a7dbbc1338e82742e63e7f9ea89d1e9cef206f98771fadce27e9ebcaf.jpg (source filename contains a homoglyph variant; staged via glob)",
+   "dimensions": "800x1423",
+   "gps": null,
+   "description": "Screenshot from Annie's phone (Verizon): Dan's long commitment message (\"I'll keep rambling about how perfect you are\u2026 I love you forever\") as received text. Annie-side evidence.",
+   "sha256": "3622ea9853789f6b7ca02c21c61eb171189b4f6734f629045be2da0e775df007",
+   "linked_nodes": [
+    "dat:dan-rambler-annie-phone-2015-12-10"
+   ],
+   "batch": "photo-ingest-20260912-zac-01",
+   "embed_excluded": false
+  },
+  {
+   "id": "upload-080",
+   "type": "image",
+   "count": 1,
+   "date": "2015-12-10 18:01 local (messages.csv rows 131945/131902, 23:01:46/23:01:58 UTC; status-bar 6:04 PM)",
+   "share_url": null,
+   "local_path": "workspace/user/media_library/image/82/82e833761c8e5048d157da2b74980aae932c57ef167b1b47c2933c78dc8262be.jpg",
+   "dimensions": "800x1420",
+   "gps": null,
+   "description": "iMessage screenshot, Dan<->Annie: \"I want to marry you\" / \"And spend forever feeling this happy\" \u2014 \"I can promise you\" / \"That you will marry me.\" Full exchange extends to \"Save it forever\" / \"Nobody has ever made me as happy as you just did\" (rows 131959/131916/131944/131901).",
+   "sha256": "1a45e0f67e33ba0d2c45e88277fea2126f9c32f75f48d41015fe3aa32c089da9",
+   "linked_nodes": [
+    "dat:dan-annie-marriage-exchange-2015-12-10"
+   ],
+   "batch": "photo-ingest-20260912-zac-01",
+   "embed_excluded": false
+  },
+  {
+   "id": "frame-001",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:19:53) from upload-021: 10:19:53 \u2014 Annie sits on the bed in the white tank top, hair in a bun, facing Alexis \u2014 half-buried in a blanket up by the pillows. Just talking, but the air's already thick \u2014 both of them dressed, both of them knowing ex Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_001.jpg, never committed.",
+   "original_filename": "p1_001.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-001.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:19:53"
+  },
+  {
+   "id": "frame-002",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:20:09) from upload-021: 10:20:09 \u2014 Alexis stretches a lazy arm up and swipes at Annie's face, playful, and Annie leans into it like she wants more contact. Still just talking. Nothing naked yet \u2014 but they're already leaning in like they want to Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_002.jpg, never committed.",
+   "original_filename": "p1_002.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-002.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:20:09"
+  },
+  {
+   "id": "frame-003",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:20:26) from upload-021: 10:20:26 \u2014 They settle back into talking positions \u2014 Annie sitting mid-bed, Alexis half-reclined with the blanket over her lap. Morning chatter, bodies apart. Nothing happening \u2014 yet, and the yet is the whole thing. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_003.jpg, never committed.",
+   "original_filename": "p1_003.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-003.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:20:26"
+  },
+  {
+   "id": "frame-004",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:20:42) from upload-021: 10:20:42 \u2014 Alexis sits up and closes the gap, reaching an arm out toward Annie. They're angling toward each other now, bodies pulling like magnets. The talking's about to turn into touching. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_004.jpg, never committed.",
+   "original_filename": "p1_004.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-004.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:20:42"
+  },
+  {
+   "id": "frame-005",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:20:59) from upload-021: 10:20:59 \u2014 Annie leans back on her hands, legs stretched out along the bed, while Alexis watches her from the pillows \u2014 eyes all over her. Just a breather. Talking, no contact \u2014 but Alexis is looking at her like she's un Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_005.jpg, never committed.",
+   "original_filename": "p1_005.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-005.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:20:59"
+  },
+  {
+   "id": "frame-006",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:21:15) from upload-021: 10:21:15 \u2014 Annie crawls across the bed and leans over Alexis at the pillows, faces inches apart \u2014 and they kiss. The first real one of the morning, and it lands hard. Alexis's legs kick up behind her as Annie presses in, Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_006.jpg, never committed.",
+   "original_filename": "p1_006.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-006.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:21:15"
+  },
+  {
+   "id": "frame-007",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:21:32) from upload-021: 10:21:32 \u2014 Annie sits back up after the kiss, both of them a little breathless. Alexis is half-reclined and smiling, blanket bunched at her waist. The kiss landed and now they're regrouping, talking again \u2014 but nobody's  Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_007.jpg, never committed.",
+   "original_filename": "p1_007.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-007.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:21:32"
+  },
+  {
+   "id": "frame-008",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:21:48) from upload-021: 10:21:48 \u2014 Same beat \u2014 Annie sitting, Alexis reclined under the blanket, talking. No hands on each other in this one \u2014 just the afterglow of that first kiss hanging in the room. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_008.jpg, never committed.",
+   "original_filename": "p1_008.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-008.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:21:48"
+  },
+  {
+   "id": "frame-009",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:22:05) from upload-021: 10:22:05 \u2014 Annie's sitting mid-bed, Alexis propped on the pillows, mid-conversation. Bodies apart. Nothing physical happening \u2014 but the charge from that kiss hasn't gone anywhere. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_009.jpg, never committed.",
+   "original_filename": "p1_009.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-009.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:22:05"
+  },
+  {
+   "id": "frame-010",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:22:21) from upload-021: 10:22:21 \u2014 Alexis sits all the way up, facing Annie knee to knee. They lean in toward each other, close enough to feel each other's breath. The second kiss is about to happen. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_010.jpg, never committed.",
+   "original_filename": "p1_010.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-010.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:22:21"
+  },
+  {
+   "id": "frame-011",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:22:38) from upload-021: 10:22:38 \u2014 Mouths on mouths. Heads tilted together, Annie's bun up against Alexis's dark hair. Arms finding each other, hands grabbing. The making out is officially underway. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_011.jpg, never committed.",
+   "original_filename": "p1_011.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-011.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:22:38"
+  },
+  {
+   "id": "frame-012",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:22:54) from upload-021: 10:22:54 \u2014 Still locked in, and deeper \u2014 Alexis's hand wraps around Annie's shoulder and neck and pulls her in, holding her mouth where she wants it. Both sitting up, torsos pressed together, breathing into each other. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_012.jpg, never committed.",
+   "original_filename": "p1_012.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-012.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:22:54"
+  },
+  {
+   "id": "frame-013",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:23:11) from upload-021: 10:23:11 \u2014 Annie climbs up onto Alexis's lap and straddles her thighs, kissing the whole way \u2014 she can't stop kissing her. Alexis tips back under her with one leg stretched out along the bed. Annie's tank rides up in the Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_013.jpg, never committed.",
+   "original_filename": "p1_013.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-013.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:23:11"
+  },
+  {
+   "id": "frame-014",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:23:27) from upload-021: 10:23:27 \u2014 Annie sits up on Alexis's lap facing her, one bare leg hooked over Alexis's thigh, pressing down into her lap. Alexis sits up to meet her. Kissing, hands moving all over each other. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_014.jpg, never committed.",
+   "original_filename": "p1_014.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-014.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:23:27"
+  },
+  {
+   "id": "frame-015",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:23:44) from upload-021: 10:23:44 \u2014 Deep in the makeout now \u2014 Annie straddling Alexis's lap, Alexis's hand gripping the back of Annie's neck, faces buried in each other. Clothes still on, but every inch of them is touching. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_015.jpg, never committed.",
+   "original_filename": "p1_015.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-015.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:23:44"
+  },
+  {
+   "id": "frame-016",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:24:00) from upload-021: 10:24:00 \u2014 The kiss holds. Alexis's hand cradles the back of Annie's head and pulls her mouth in harder. Annie rocks on her lap a little, right against her. Still dressed \u2014 but nobody's thinking about clothes. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_016.jpg, never committed.",
+   "original_filename": "p1_016.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-016.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:24:00"
+  },
+  {
+   "id": "frame-017",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:24:17) from upload-021: 10:24:17 \u2014 They break the kiss to talk, Alexis holding Annie's arm and smiling, not letting her go. Annie stays right where she is, straddling her lap. Breather between rounds \u2014 nobody's getting up. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_017.jpg, never committed.",
+   "original_filename": "p1_017.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-017.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:24:17"
+  },
+  {
+   "id": "frame-018",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:24:33) from upload-021: 10:24:33 \u2014 Alexis fixes her hair with both hands, laughing, flushed. Annie sits on her lap watching her, not moving off. Playful little pause. Nothing sexual in this one \u2014 just two girls catching their breath. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_018.jpg, never committed.",
+   "original_filename": "p1_018.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-018.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:24:33"
+  },
+  {
+   "id": "frame-019",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:24:50) from upload-021: 10:24:50 \u2014 Annie bends forward and buries her face between Alexis's legs, mouth pressed right onto Alexis's pussy through her pants \u2014 eating her out clothed, tongue working her through the fabric. Alexis sits back and le Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_019.jpg, never committed.",
+   "original_filename": "p1_019.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-019.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:24:50"
+  },
+  {
+   "id": "frame-020",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:25:06) from upload-021: 10:25:06 \u2014 Annie comes back up with her mouth still hot from between Alexis's legs and they're kissing again, her straddling Alexis's lap, faces pressed together. The oral beat's over. Mouths on mouths. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_020.jpg, never committed.",
+   "original_filename": "p1_020.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-020.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:25:06"
+  },
+  {
+   "id": "frame-021",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:25:23) from upload-021: 10:25:23 \u2014 Still kissing hard, Annie on Alexis's lap, Alexis's hand on Annie's cheek guiding her mouth, pulling her in deeper. Clothes stay on \u2014 barely the point anymore. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_021.jpg, never committed.",
+   "original_filename": "p1_021.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-021.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:25:23"
+  },
+  {
+   "id": "frame-022",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:25:39) from upload-021: 10:25:39 \u2014 Full clinch now \u2014 Alexis wraps both arms around Annie's shoulders and hauls her in chest to chest, kissing her hard. Annie's bare thigh is over Alexis's lap, skin on skin. Still covered \u2014 and nobody's pulling  Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_022.jpg, never committed.",
+   "original_filename": "p1_022.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-022.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:25:39"
+  },
+  {
+   "id": "frame-023",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:25:56) from upload-021: 10:25:56 \u2014 Alexis is up on her knees behind Annie, blue top off, black sports bra on. Annie's bent forward on her knees in front of her, ass up toward Alexis. Alexis's hands are at Annie's waistband \u2014 about to pull her c Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_023.jpg, never committed.",
+   "original_filename": "p1_023.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-023.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:25:56"
+  },
+  {
+   "id": "frame-024",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:26:12) from upload-021: 10:26:12 \u2014 Alexis is out of the frame. Annie sits alone on the bed in her tank and underwear, knees drawn up, looking toward wherever Alexis went \u2014 waiting for her to come back. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_024.jpg, never committed.",
+   "original_filename": "p1_024.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-024.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:26:12"
+  },
+  {
+   "id": "frame-025",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:26:29) from upload-021: 10:26:29 \u2014 Annie alone on the bed, knees up, checking her phone. The session's paused, her body still warm from Alexis. Alexis is out of frame. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_025.jpg, never committed.",
+   "original_filename": "p1_025.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-025.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:26:29"
+  },
+  {
+   "id": "frame-026",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (10:26) from upload-021: 10:26 \u2014 Rotated phone-app view \u2014 Annie alone on the bed, one knee up, hand by her phone on the blanket. Still in the tank and underwear, waiting out the pause. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p1_026.jpg, never committed.",
+   "original_filename": "p1_026.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-026.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-021",
+   "camera_time": "10:26"
+  },
+  {
+   "id": "frame-027",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=0.0s) from upload-026: t=00:00 \u2014 the woman in the white tank top is already crushed deep into a hard kiss with the dark-haired second woman, her back to the camera while the second woman cradles her neck and face, holding her mouth where she w Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_001.jpg, never committed.",
+   "original_filename": "cut_001.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-027.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-028",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=16.0s) from upload-026: t=00:16 \u2014 still fused at the mouth, the woman in white on her knees between the second woman's legs now, the second woman cupping her cheek, thumbs brushing her jaw. Clothes still on, the making out getting hungrier, her Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_002.jpg, never committed.",
+   "original_filename": "cut_002.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-028.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-029",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=32.0s) from upload-026: t=00:32 \u2014 the woman in white climbs into the second woman's lap, thighs spread around her hips, mouths never breaking, hands roaming everywhere \u2014 up backs, into hair, down sides. Still dressed and the friction between th Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_003.jpg, never committed.",
+   "original_filename": "cut_003.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-029.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-030",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=48.0s) from upload-026: t=00:48 \u2014 the woman in white has her hand up at the second woman's throat and jaw, holding her in close, mouths still fused, the second woman arching up into her grip. Wrapped around each other, still dressed, escalating Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_004.jpg, never committed.",
+   "original_filename": "cut_004.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-030.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-031",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=64.0s) from upload-026: t=01:04 \u2014 the dark-haired second woman drapes an arm over the woman in white's shoulder and drags her in tight, kissing her harder, bodies pressed chest to chest. Still dressed, the make-out going deeper, her other hand  Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_005.jpg, never committed.",
+   "original_filename": "cut_005.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-031.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-032",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=80.0s) from upload-026: t=01:20 \u2014 a giggly beat: the woman in white throws her arms up in the air laughing while the second woman gets her hands up too, mid-wrestle, bodies rolling over each other. The charge between them doesn't drop for a sec Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_006.jpg, never committed.",
+   "original_filename": "cut_006.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-032.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-033",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=96.0s) from upload-026: t=01:36 \u2014 the woman in the red plaid top is on her back on the pillows while the dark-haired second woman leans over her, tangled in the blankets, still kissing her, her body sliding down over the woman in white. The bla Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_007.jpg, never committed.",
+   "original_filename": "cut_007.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-033.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-034",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=112.0s) from upload-026: t=01:52 \u2014 the dark-haired second woman reclines against the pillows in the red plaid top with the woman in white sprawled across her lap, face buried in her chest, mouth at her tits through the fabric. Legs tangled, blan Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_008.jpg, never committed.",
+   "original_filename": "cut_008.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-034.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-035",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=128.0s) from upload-026: t=02:08 \u2014 the woman in white is bare-backed in red underwear now, face-down across the second woman's torso with her mouth working the second woman's tits. The second woman just lies back, arms folded behind her head, le Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_009.jpg, never committed.",
+   "original_filename": "cut_009.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-035.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-036",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=144.0s) from upload-026: t=02:24 \u2014 the woman in white stays draped over her, mouth working the second woman's tits; the second woman's got a hand on her head, guiding her mouth where she wants it. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_010.jpg, never committed.",
+   "original_filename": "cut_010.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-036.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-037",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=160.0s) from upload-026: t=02:40 \u2014 slow and unhurried: the second woman reclined, arms behind her head, while the woman in white stays draped across her with her mouth on her tits, tongue working slow. Legs and blankets tangled \u2014 nobody in any r Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_011.jpg, never committed.",
+   "original_filename": "cut_011.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-037.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-038",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=176.0s) from upload-026: t=02:56 \u2014 the woman in white climbs back up and plants her mouth on the second woman's, straddling her hips under the bunched blanket, grinding down on her as they kiss. Bare back to the camera, the second woman's legs s Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_012.jpg, never committed.",
+   "original_filename": "cut_012.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-038.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-039",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=192.0s) from upload-026: t=03:12 \u2014 the woman in white is fully on top now, kissing her deep, bare back arched over the second woman's body, rocking her hips against her. The blanket's kicked down around their hips, legs entwined, the two of them Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_013.jpg, never committed.",
+   "original_filename": "cut_013.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-039.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-040",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=208.0s) from upload-026: t=03:28 \u2014 the woman in white rides on top, kissing her hard, bare ass peeking above the blanket as she grinds her pussy down on her. The second woman's legs are spread wide underneath her, taking the full weight of it, h Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_014.jpg, never committed.",
+   "original_filename": "cut_014.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-040.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-041",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=224.0s) from upload-026: t=03:44 \u2014 she keeps riding, mouths locked, her bare back and ass fully out of the blanket now, grinding her pussy against her harder and harder. The second woman wraps her legs around her hips and holds on tight, pulling Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_015.jpg, never committed.",
+   "original_filename": "cut_015.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-041.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-042",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=240.0s) from upload-026: t=04:00 \u2014 the woman in white grinds on top with her bare ass square to the camera, kissing down at her, her pussy pressed down onto the second woman. The second woman's legs are spread open under the blanket beneath her, Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_016.jpg, never committed.",
+   "original_filename": "cut_016.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-042.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-043",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=256.0s) from upload-026: t=04:16 \u2014 the woman in white is fully naked now, standing over the bed looking down at the second woman, who's still reclined on the pillows in the red top, staring up at her body. Her hand trails down her own thigh \u2014 fl Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_017.jpg, never committed.",
+   "original_filename": "cut_017.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-043.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-044",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=272.0s) from upload-026: t=04:32 \u2014 the naked woman in white is back on top, straddling the second woman's hips, bare ass to the camera, kissing and grinding her pussy down on her. The second woman's legs splayed open under her, hands clutching a Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_018.jpg, never committed.",
+   "original_filename": "cut_018.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-044.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-045",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=288.0s) from upload-026: t=04:48 \u2014 she stays mounted, grinding her bare pussy down on the second woman while they kiss, hips rolling slow and deep; the second woman's bent leg kicks up beside them, her whole body tightening under the pressure. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_019.jpg, never committed.",
+   "original_filename": "cut_019.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-045.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-046",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=304.0s) from upload-026: t=05:04 \u2014 the naked woman in white stands astride the second woman's hips, hand on her shoulder, looking down at her \u2014 lowering her pussy toward the second woman's waiting mouth. The second woman lies back, hand at her o Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_020.jpg, never committed.",
+   "original_filename": "cut_020.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-046.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-047",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=320.0s) from upload-026: t=05:20 \u2014 both naked now. The second woman's on her back with her knees up while the woman in white spoons in behind her, hand buried between her legs, fingers deep inside her pussy, working her hard; the second woman's  Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_021.jpg, never committed.",
+   "original_filename": "cut_021.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-047.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-048",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=336.0s) from upload-026: t=05:36 \u2014 scissoring: both naked, legs interlocked, the woman in white on her back with her legs hooked up while the second woman presses between them \u2014 pussies grinding together, wet and sliding, mouths meeting over the Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_022.jpg, never committed.",
+   "original_filename": "cut_022.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-048.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-049",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=352.0s) from upload-026: t=05:52 \u2014 the woman in white sprawls on her back, one leg kicked straight up in the air, while the second woman buries her face between her spread thighs, mouth on her pussy, eating her out deep. Her other leg hooks arou Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_023.jpg, never committed.",
+   "original_filename": "cut_023.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-049.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-050",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=368.0s) from upload-026: t=06:08 \u2014 full 69: the woman in white on all fours over the second woman, mouth on her pussy, tongue working her, while the second woman's head is tucked under her ass, eating her out right back. Both moaning into each o Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_024.jpg, never committed.",
+   "original_filename": "cut_024.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-050.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-051",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=384.0s) from upload-026: t=06:24 \u2014 the 69 rotates: the dark-haired second woman's on top now, bare ass to the camera, head buried between the woman in white's legs with her tongue deep on her pussy, while the woman in white returns the favor fro Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_025.jpg, never committed.",
+   "original_filename": "cut_025.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-051.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-052",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=400.0s) from upload-026: t=06:40 \u2014 the 69 rolls on, the second woman on top, bare ass to the camera, face planted between the woman in white's thighs, tongue working her pussy relentless. The woman in white lies back with her hands on the second Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_026.jpg, never committed.",
+   "original_filename": "cut_026.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-052.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-053",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=416.0s) from upload-026: t=06:56 \u2014 the second woman's parked between the woman in white's spread legs, tongue on her pussy, licking her slow and deep; the woman in white lies back on the pillows, mouth open, moaning, one hand pressed on the seco Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_027.jpg, never committed.",
+   "original_filename": "cut_027.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-053.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-054",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=432.0s) from upload-026: t=07:12 \u2014 the 69 rolls on: the second woman's bare ass toward the camera, her head working between the woman in white's legs, tongue deep in her pussy; the woman in white lies back, hand on her head, mouth open, lost in  Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_028.jpg, never committed.",
+   "original_filename": "cut_028.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-054.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-055",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=448.0s) from upload-026: t=07:28 \u2014 still locked in the 69, the second woman's head buried between the woman in white's thighs, licking her pussy, while the woman in white's mouth works her pussy from below. The second woman's bare ass to the cam Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_029.jpg, never committed.",
+   "original_filename": "cut_029.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-055.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-056",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=464.0s) from upload-026: t=07:44 \u2014 the 69 breaks apart; the dark-haired second woman kneels up, running a hand through her hair, flushed and breathing hard, while the woman in white lies back on the pillows laughing, legs bent, catching her brea Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_030.jpg, never committed.",
+   "original_filename": "cut_030.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-056.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-057",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=480.0s) from upload-026: t=08:00 \u2014 a breather: the second woman kneels upright, gathering her hair up with both hands, skin flushed all over, while the woman in white lies back on the pillows, legs splayed, hand trailing over her own tits and st Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_031.jpg, never committed.",
+   "original_filename": "cut_031.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-057.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-058",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=496.0s) from upload-026: t=08:16 \u2014 the second woman crawls on all fours over the woman in white, bare ass to the camera, moving in to straddle her. The woman in white lies back, legs open, hands on her own chest, waiting \u2014 the next round already Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_032.jpg, never committed.",
+   "original_filename": "cut_032.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-058.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-059",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=512.0s) from upload-026: t=08:32 \u2014 the second woman stands crouched over the bed, reaching for the nightstand \u2014 a pause in the action \u2014 while the woman in white lies on her side, knees drawn up, hand on her chest, watching her, eyes hungry, wait Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_033.jpg, never committed.",
+   "original_filename": "cut_033.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-059.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-060",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=528.0s) from upload-026: t=08:48 \u2014 the second woman stands naked at the side of the bed, hand at her chest, looking down at the woman in white, who's sprawled with her knees up, hands folded on her chest, smiling up at her \u2014 the two of them spen Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_034.jpg, never committed.",
+   "original_filename": "cut_034.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-060.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-061",
+   "type": "frame",
+   "date": "2018-11-06",
+   "description": "Selectively censored still (t=544.0s) from upload-026: t=09:04 \u2014 the second woman stands naked at the foot of the bed holding a phone, filming or checking it, while the woman in white lies back, legs spread open, one arm draped over her head. Spent, flushed, smiling \u2014 the mo Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/cut_035.jpg, never committed.",
+   "original_filename": "cut_035.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-061.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-026"
+  },
+  {
+   "id": "frame-062",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=0.0s) from upload-020: t=00:00 \u2014 Annie's sprawled flat on the pillows, topless, one arm flung over her forehead, sheet down at her waist so her tits are fully out to the camera. Alexis is still up by the dresser in the red robe, hands up by he Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_001.jpg, never committed.",
+   "original_filename": "p3_001.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-062.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-063",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=16.1s) from upload-020: t=00:16 \u2014 Alexis is on the edge of the bed, bare back to the camera, red robe pooled at her hips, her tits out in front. Annie's still flat on the pillows with her arm over her eyes, tits bare too. Two naked girls in the Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_002.jpg, never committed.",
+   "original_filename": "p3_002.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-063.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-064",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=32.2s) from upload-020: t=00:32 \u2014 Alexis sits up facing the closet, topless, red robe bunched at her waist, tits out. Annie's flat on her back with a hand over her face, tits bare on the pillows. Morning-after sprawl \u2014 nobody touching anybody,  Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_003.jpg, never committed.",
+   "original_filename": "p3_003.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-064.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-065",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=48.3s) from upload-020: t=00:48 \u2014 Same beat \u2014 Alexis perched on the bed, bare back in the red robe, Annie reclined with her forearm across her face, tits out. The waiting is the point. Nobody's touched anybody yet. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_004.jpg, never committed.",
+   "original_filename": "p3_004.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-065.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-066",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=64.4s) from upload-020: t=01:04 \u2014 Alexis stretches out full-length next to Annie, red robe still on, legs extended toward the dresser, tits bare. Annie's half-buried in the sheets beside her. Two bodies inches apart, both awake, just lying ther Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_005.jpg, never committed.",
+   "original_filename": "p3_005.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-066.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-067",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=80.5s) from upload-020: t=01:21 \u2014 Alexis flops back onto the pillows beside Annie, knees bent, red robe rucked up around her waist, laughing with her hand at her mouth, tits out. Annie's still sprawled with her arm over her forehead, tits bare. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_006.jpg, never committed.",
+   "original_filename": "p3_006.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-067.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-068",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=96.6s) from upload-020: t=01:37 \u2014 Alexis lounges with her knees up, holding something small up by her face, laughing, robe bunched at her waist, tits out. Annie's got her forearm over her eyes beside her, topless. Lazy naked morning \u2014 nobody to Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_007.jpg, never committed.",
+   "original_filename": "p3_007.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-068.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-069",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=112.7s) from upload-020: t=01:53 \u2014 Alexis kicks her legs straight up in the air, ankles crossed, laughing hard, red robe bunched at her waist, tits bouncing with the laugh. Annie watches from the pillows. The robe keeps Alexis's pussy covered \u2014  Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_008.jpg, never committed.",
+   "original_filename": "p3_008.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-069.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-070",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=128.8s) from upload-020: t=02:09 \u2014 Same beat \u2014 Alexis's legs still up, crossed at the ankles, robe bunched at her hips, laughing, tits bare. Annie's half under the sheet next to her, topless. Playful, legs in the air, everything on show except w Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_009.jpg, never committed.",
+   "original_filename": "p3_009.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-070.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-071",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=144.9s) from upload-020: t=02:25 \u2014 Alexis keeps her legs kicked up, feet flexed, grinning, tits out. Annie's rolled a little toward her. The robe still covers Alexis's pussy. Just the two of them laughing in bed, naked and easy. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_010.jpg, never committed.",
+   "original_filename": "p3_010.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-071.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-072",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=161.0s) from upload-020: t=02:41 \u2014 Alexis reclines with her feet kicked up toward the closet, red robe rucked around her waist, hand near her mouth, tits bare. Annie sprawls half under the sheet, topless. The robe keeps her pussy covered \u2014 every Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_011.jpg, never committed.",
+   "original_filename": "p3_011.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-072.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-073",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=177.1s) from upload-020: t=02:57 \u2014 Alexis stretches her legs out toward the dresser, feet crossed, robe bunched at her hips, tits out. Annie's got her forearm over her forehead, topless beside her. Both naked-ish and laughing, still no contact \u2014 Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_012.jpg, never committed.",
+   "original_filename": "p3_012.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-073.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-074",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=193.2s) from upload-020: t=03:13 \u2014 Alexis lounges back, legs extended, red robe pooled at her waist, tits bare. Annie's buried in the sheets beside her with an arm flung over her head, topless. Lazy and loose, bodies out in the open, nothing sex Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_013.jpg, never committed.",
+   "original_filename": "p3_013.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-074.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-075",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=209.3s) from upload-020: t=03:29 \u2014 Alexis pulls her knees up, feet braced, thighs parted, robe bunched at her hips, tits out. Annie watches from the pillows, topless. Alexis's pussy stays hidden behind the robe \u2014 but the spread thighs aren't hid Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_014.jpg, never committed.",
+   "original_filename": "p3_014.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-075.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-076",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=225.4s) from upload-020: t=03:45 \u2014 Alexis kicks her legs back up in the air, ankles crossed, laughing with her arm behind her head, tits out. Annie's got an arm over her face beside her, topless. The robe still covers her pussy \u2014 the one secret  Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_015.jpg, never committed.",
+   "original_filename": "p3_015.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-076.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-077",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=241.5s) from upload-020: t=04:02 \u2014 Alexis kicks her legs up and crosses them in the air, laughing, robe bunched at her waist, tits out. Annie stretches an arm out toward her. Her pussy stays hidden \u2014 everything above it doesn't. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_016.jpg, never committed.",
+   "original_filename": "p3_016.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-077.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-078",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=257.6s) from upload-020: t=04:18 \u2014 Both stretched out now \u2014 Alexis's legs extended toward the dresser, Annie rolled in close with her head near Alexis's chest, half under the sheet, topless against her. Intimate body contact, skin on skin, but n Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_017.jpg, never committed.",
+   "original_filename": "p3_017.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-078.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-079",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=273.7s) from upload-020: t=04:34 \u2014 Alexis throws her legs wide, one foot braced high, thighs spread, robe rucked at her waist, tits out. Annie's tucked against her side, topless. At this angle the bunched robe still keeps Alexis's pussy covered  Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_018.jpg, never committed.",
+   "original_filename": "p3_018.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-079.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-080",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=289.8s) from upload-020: t=04:50 \u2014 Alexis settles with her legs stretched out along the bed, bare feet on the sheets, robe pooled at her hips, tits bare. Annie lies pressed close beside her, topless. Relaxed cuddle sprawl \u2014 naked bodies touching Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_019.jpg, never committed.",
+   "original_filename": "p3_019.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-080.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-081",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=305.9s) from upload-020: t=05:06 \u2014 Alexis kicks a leg up again, foot flexed in the air, laughing with her hand at her mouth, tits out. Annie watches from the pillows, topless. The robe bunched at her waist covers her pussy \u2014 the tease holds. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_020.jpg, never committed.",
+   "original_filename": "p3_020.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-081.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-082",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=322.0s) from upload-020: t=05:22 \u2014 Alexis flops back, feet kicked up and crossed in the air, laughing with her hand at her mouth, tits bare. Annie lies beside her with a hand on her own throat, topless. The robe at Alexis's waist keeps her pussy Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_021.jpg, never committed.",
+   "original_filename": "p3_021.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-082.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-083",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=338.1s) from upload-020: t=05:38 \u2014 Alexis sits up halfway and drinks from a water bottle, red robe wrapped around her waist, legs stretched out, tits out. Annie lounges with an arm behind her head, topless. Water break \u2014 naked, thirsty, still no Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_022.jpg, never committed.",
+   "original_filename": "p3_022.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-083.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-084",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=354.2s) from upload-020: t=05:54 \u2014 Alexis sits up more, bare back half to the camera, fiddling with the robe at her shoulder, tits out front. Annie stays sprawled with her arm over her head, topless. Alexis's bare back and ass are out, but her p Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_023.jpg, never committed.",
+   "original_filename": "p3_023.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-084.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-085",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=370.3s) from upload-020: t=06:10 \u2014 Alexis drops back down and kicks her legs up again, one hand resting on her own thigh, tits out. Annie watches with an arm over her forehead, topless. The bunched robe still covers her pussy \u2014 her hand on her o Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_024.jpg, never committed.",
+   "original_filename": "p3_024.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-085.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-086",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=386.4s) from upload-020: t=06:26 \u2014 Alexis's legs stay up, ankles crossed, hand on her leg, grinning, tits bare. Annie's got her arm over her head next to her, topless. Playful leg-waving, pussy still covered \u2014 the grin says she knows exactly wha Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_025.jpg, never committed.",
+   "original_filename": "p3_025.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-086.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-087",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=402.5s) from upload-020: t=06:43 \u2014 Alexis reclines with her knees bent up and slightly apart, red robe bunched around her waist, tits out. Annie's arm is flung over her head, topless beside her. The robe keeps her pussy covered \u2014 knees apart, ev Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_026.jpg, never committed.",
+   "original_filename": "p3_026.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-087.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-088",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=418.6s) from upload-020: t=06:59 \u2014 Alexis's knees stay up, legs crossed at the ankles, robe rucked at her hips, tits bare. Annie sprawls beside her with an arm over her forehead, topless. Still just lounging and laughing \u2014 the tease won't quit. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_027.jpg, never committed.",
+   "original_filename": "p3_027.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-088.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-089",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=434.7s) from upload-020: t=07:15 \u2014 Alexis pulls her knees up, feet flat on the bed, robe bunched at her waist, tits out. Annie lies next to her, half under the sheet, topless. No contact \u2014 knees up, bodies bare, waiting. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_028.jpg, never committed.",
+   "original_filename": "p3_028.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-089.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-090",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=450.8s) from upload-020: t=07:31 \u2014 Same pose \u2014 Alexis with knees up together, feet planted, red robe pooled at her hips, tits bare. Annie with her arm over her head, topless. Lazy naked sprawl, Alexis's pussy hidden by the robe \u2014 the last covere Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_029.jpg, never committed.",
+   "original_filename": "p3_029.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-090.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-091",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=466.9s) from upload-020: t=07:47 \u2014 Alexis keeps her knees up, one hand resting near her own thigh, grinning, tits out. Annie stays sprawled beside her, topless. The robe bunched at her waist covers her pussy \u2014 hand on her own thigh, grinning lik Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_030.jpg, never committed.",
+   "original_filename": "p3_030.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-091.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-092",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=483.0s) from upload-020: t=08:03 \u2014 Alexis reclines with her knees up, crossed at the ankles, waving a hand as she talks, robe bunched at her waist, tits bare. Annie's got her arm over her head, topless. Chatty, no contact \u2014 the tease at full str Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_031.jpg, never committed.",
+   "original_filename": "p3_031.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-092.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-093",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=499.1s) from upload-020: t=08:19 \u2014 Alexis sits up, bare back to the camera, leaning toward the nightstand reaching for something, red robe around her waist, tits out front. Annie stays sprawled on the pillows, topless, watching her move. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_032.jpg, never committed.",
+   "original_filename": "p3_032.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-093.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-094",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=515.2s) from upload-020: t=08:35 \u2014 Alexis sits with her back to the camera, robe wrapped around her waist, looking toward the closet. Annie's got an arm flung over her forehead, topless. Alexis's bare back and ass are out, but her pussy and tits Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_033.jpg, never committed.",
+   "original_filename": "p3_033.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-094.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-095",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=531.3s) from upload-020: t=08:51 \u2014 The energy shifts. Annie pushes up onto her knees and leans over Alexis, faces close, their mouths pressed together \u2014 and Alexis's legs kick up in the air. First real contact: mouths locked, making out. Annie's Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_034.jpg, never committed.",
+   "original_filename": "p3_034.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-095.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-096",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=547.4s) from upload-020: t=09:07 \u2014 Annie leans in over Alexis, mouths locked, kissing her deep, Annie's bare back to the camera with the sheet sliding off her. Alexis lies back with her legs stretched out under her. Full makeout underway \u2014 the t Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_035.jpg, never committed.",
+   "original_filename": "p3_035.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-096.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-097",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=563.5s) from upload-020: t=09:24 \u2014 Annie's on top now, leaning over Alexis, kissing her, Alexis on her back with her legs spread wide beneath her. The red robe is bunched at Alexis's hips and keeps her pussy covered \u2014 still just mouths on mouths Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_036.jpg, never committed.",
+   "original_filename": "p3_036.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-097.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-098",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=579.6s) from upload-020: t=09:40 \u2014 Annie props herself up on one elbow facing Alexis, faces close, still kissing, bare back to the camera. Alexis lies back with her legs stretched out toward the dresser. Slow and deep \u2014 they're not rushing this. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_037.jpg, never committed.",
+   "original_filename": "p3_037.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-098.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-099",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=595.7s) from upload-020: t=09:56 \u2014 Annie leans in over Alexis, mouth on hers, Annie's bare back and shoulders to the camera. Alexis reclines with her legs extended, red robe around her waist. Deep makeout \u2014 mouths working, bodies pressed close. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_038.jpg, never committed.",
+   "original_filename": "p3_038.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-099.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-100",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=611.8s) from upload-020: t=10:12 \u2014 Annie drapes herself over Alexis, kissing her hard, Alexis's legs spread beneath her with the robe bunched between them at her hips. The robe covers Alexis's pussy; still mouths only, no genital contact \u2014 but A Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_039.jpg, never committed.",
+   "original_filename": "p3_039.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-100.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-101",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=627.9s) from upload-020: t=10:28 \u2014 Annie lies sprawled across Alexis's torso, head at her shoulder, kissing her, tits pressed into her. Alexis reclines with her legs stretched out. Annie's bare back fills the frame \u2014 mouths on mouths, bodies mel Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_040.jpg, never committed.",
+   "original_filename": "p3_040.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-101.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-102",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=644.0s) from upload-020: t=10:44 \u2014 Annie's back on the pillows with Alexis leaning over her, kissing her, Alexis's legs stretched out along the bed. Annie's arm is behind her head, relaxed into it, taking it. Mouths locked, nothing below the wai Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_041.jpg, never committed.",
+   "original_filename": "p3_041.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-102.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-103",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=660.1s) from upload-020: t=11:00 \u2014 Alexis drapes herself over Annie, mouths locked, Alexis's bare back to the camera, legs extended. Heavy makeout, the sheet tangled between them \u2014 bodies grinding slow through the sheet. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_042.jpg, never committed.",
+   "original_filename": "p3_042.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-103.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-104",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=676.2s) from upload-020: t=11:16 \u2014 Still locked together \u2014 Alexis on top kissing Annie, bare back to the camera, lower body under the sheet. Annie's arm stays behind her head. The sheet's the only thing between them now. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_043.jpg, never committed.",
+   "original_filename": "p3_043.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-104.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-105",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=692.3s) from upload-020: t=11:32 \u2014 Annie climbs on top of Alexis now, kissing her hard, Annie's bare back and ass to the camera with the sheet slipping off. She's taking the top and she means it. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_044.jpg, never committed.",
+   "original_filename": "p3_044.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-105.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-106",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=708.4s) from upload-020: t=11:48 \u2014 Annie rides up over Alexis, kissing her, back arched, fully bare back to the camera. Alexis lies beneath her. Intense \u2014 still just mouths, no genital contact yet, but Annie's arched over her like she owns her. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_045.jpg, never committed.",
+   "original_filename": "p3_045.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-106.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-107",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=724.5s) from upload-020: t=12:05 \u2014 Annie stays on top of Alexis kissing her, Annie's bare back to the camera, Alexis's legs stretched out beneath her. The makeout keeps going \u2014 slow, hungry, unbroken. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_046.jpg, never committed.",
+   "original_filename": "p3_046.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-107.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-108",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=740.6s) from upload-020: t=12:21 \u2014 Annie arches over Alexis, kissing her hard, bare back and ass to the camera. Alexis lies under her with her legs extended. Still mouths only \u2014 the tease holding to the very end. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_047.jpg, never committed.",
+   "original_filename": "p3_047.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-108.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-109",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=756.7s) from upload-020: t=12:37 \u2014 Annie sits up straddling over Alexis, facing away toward the closet, fully nude with her back and ass to the camera. Alexis reaches up at her \u2014 hands on her, pulling her back down. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_048.jpg, never committed.",
+   "original_filename": "p3_048.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-109.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-110",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=772.8s) from upload-020: t=12:53 \u2014 Annie leans back down over Alexis, kissing her, her bare back and ass filling the frame. Alexis lies beneath with her legs out \u2014 Annie draped over her, mouths locked, bodies bare. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_049.jpg, never committed.",
+   "original_filename": "p3_049.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-110.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-111",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=788.9s) from upload-020: t=13:09 \u2014 Annie's on all fours over Alexis with her head down low against her body, ass up toward the camera, legs spread. Alexis lies under her \u2014 Annie's mouth off her mouth and on her body now, working down her. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_050.jpg, never committed.",
+   "original_filename": "p3_050.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-111.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-112",
+   "type": "frame",
+   "date": "2018-12-06",
+   "description": "Selectively censored still (t=805.0s) from upload-020: t=13:25 \u2014 Final frame: Annie still on all fours over Alexis, head buried at Alexis's chest, mouth working her tits, her bare ass up toward the camera with her legs spread. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p3_051.jpg, never committed.",
+   "original_filename": "p3_051.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-112.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-020"
+  },
+  {
+   "id": "frame-113",
+   "type": "frame",
+   "date": "2018-06-14",
+   "description": "Selectively censored still (t=0.0s) from upload-025: t=00:00 \u2014 Annie climbs on top of Lex on the bed, her bare ass high in the air, grinding her whole naked body down onto her \u2014 mouths locked, bodies crushed together, Lex flat on the pillows in her red top, taking Annie's  Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p4_001.jpg, never committed.",
+   "original_filename": "p4_001.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-113.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-025"
+  },
+  {
+   "id": "frame-114",
+   "type": "frame",
+   "date": "2018-06-14",
+   "description": "Selectively censored still (t=16.3s) from upload-025: t=00:16 \u2014 Annie stands naked on the bed over Lex, looking down at her while Lex sprawls back on the pillows with her legs bent and spread wide, pussy open and on display, still in that red top \u2014 and Annie reaches down fo Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p4_002.jpg, never committed.",
+   "original_filename": "p4_002.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-114.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-025"
+  },
+  {
+   "id": "frame-115",
+   "type": "frame",
+   "date": "2018-06-14",
+   "description": "Selectively censored still (t=32.6s) from upload-025: t=00:33 \u2014 Annie plants one hand on the wall and bends over Lex, grinding her naked pussy up and down Lex's spread legs, hips rocking hard; Lex lies back watching her, legs wide open, taking it. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p4_003.jpg, never committed.",
+   "original_filename": "p4_003.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-115.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-025"
+  },
+  {
+   "id": "frame-116",
+   "type": "frame",
+   "date": "2018-06-14",
+   "description": "Selectively censored still (t=48.9s) from upload-025: t=00:49 \u2014 Annie stays bent over, hand braced on the wall, pressing her pussy hard into Lex's legs and rocking her hips back and forth \u2014 riding her; Lex reclines on the pillows, legs spread to take the weight. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p4_004.jpg, never committed.",
+   "original_filename": "p4_004.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-116.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-025"
+  },
+  {
+   "id": "frame-117",
+   "type": "frame",
+   "date": "2018-06-14",
+   "description": "Selectively censored still (t=65.2s) from upload-025: t=01:05 \u2014 Lex takes the top now, straddling over Annie with her legs spread wide, grinding her pussy down against Annie's body as she leans in to kiss her mouth; Annie lies back on the pillows underneath her, pinned. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p4_005.jpg, never committed.",
+   "original_filename": "p4_005.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-117.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-025"
+  },
+  {
+   "id": "frame-118",
+   "type": "frame",
+   "date": "2018-06-14",
+   "description": "Selectively censored still (t=81.5s) from upload-025: t=01:22 \u2014 Annie's on her back, knees up and spread wide, pussy exposed and open to the air, and Lex presses herself right in between Annie's legs, bodies tangled, mouths locked. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p4_006.jpg, never committed.",
+   "original_filename": "p4_006.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-118.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-025"
+  },
+  {
+   "id": "frame-119",
+   "type": "frame",
+   "date": "2018-06-14",
+   "description": "Selectively censored still (t=97.8s) from upload-025: t=01:38 \u2014 they tangle into a pile on the bed, legs up in the air, grinding their pussies together, clit on clit, bodies tangled and slick; Annie's face is up near the pillows, laughing, breathless. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p4_007.jpg, never committed.",
+   "original_filename": "p4_007.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-119.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-025"
+  },
+  {
+   "id": "frame-120",
+   "type": "frame",
+   "date": "2018-06-14",
+   "description": "Selectively censored still (t=114.1s) from upload-025: t=01:54 \u2014 Lex drops to all fours and buries her face in Annie's spread pussy, mouth working her, eating her out deep; Annie lies back on the pillows, legs wide open, laughing. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p4_008.jpg, never committed.",
+   "original_filename": "p4_008.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-120.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-025"
+  },
+  {
+   "id": "frame-121",
+   "type": "frame",
+   "date": "2018-06-14",
+   "description": "Selectively censored still (t=130.4s) from upload-025: t=02:10 \u2014 Lex stays on all fours, ass up in the air, face buried in Annie's pussy, tongue working her; Annie reclines on the pillows, legs spread, laughing, loving it. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p4_009.jpg, never committed.",
+   "original_filename": "p4_009.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-121.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-025"
+  },
+  {
+   "id": "frame-122",
+   "type": "frame",
+   "date": "2018-06-14",
+   "description": "Selectively censored still (t=146.7s) from upload-025: t=02:27 \u2014 Lex kneels with her mouth on Annie's pussy, licking her, and Annie's hand is pressing down on Lex's head, holding her there \u2014 keeping her mouth exactly where she wants it; Annie lies back with her legs drawn up Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p4_010.jpg, never committed.",
+   "original_filename": "p4_010.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-122.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-025"
+  },
+  {
+   "id": "frame-123",
+   "type": "frame",
+   "date": "2018-06-14",
+   "description": "Selectively censored still (t=163.0s) from upload-025: t=02:43 \u2014 Lex's face stays buried between Annie's legs, tongue on her pussy, eating her out; Annie lies back on the pillows, mouth open, moaning. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p4_011.jpg, never committed.",
+   "original_filename": "p4_011.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-123.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-025"
+  },
+  {
+   "id": "frame-124",
+   "type": "frame",
+   "date": "2018-06-14",
+   "description": "Selectively censored still (t=179.3s) from upload-025: t=02:59 \u2014 Lex stretches out along the bed, face buried in Annie's spread pussy, eating her out slow and deep; Annie lies back with one knee hiked high, moaning into the pillows, hips lifting into Lex's mouth. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p4_012.jpg, never committed.",
+   "original_filename": "p4_012.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-124.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-025"
+  },
+  {
+   "id": "frame-125",
+   "type": "frame",
+   "date": "2018-06-14",
+   "description": "Selectively censored still (t=195.6s) from upload-025: t=03:16 \u2014 Lex keeps eating Annie out, head buried between her thighs, tongue on her pussy; Annie lies back laughing, legs wrapped around Lex's head, holding her in \u2014 not letting her go anywhere. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p4_013.jpg, never committed.",
+   "original_filename": "p4_013.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-125.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-025"
+  },
+  {
+   "id": "frame-126",
+   "type": "frame",
+   "date": "2018-06-14",
+   "description": "Selectively censored still (t=211.9s) from upload-025: t=03:32 \u2014 Lex sits up on her knees, pulling her hair back off her face; Annie sprawls on the pillows, legs still spread, both of them laughing and catching their breath, glowing. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p4_014.jpg, never committed.",
+   "original_filename": "p4_014.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-126.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-025"
+  },
+  {
+   "id": "frame-127",
+   "type": "frame",
+   "date": "2018-06-14",
+   "description": "Selectively censored still (t=228.2s) from upload-025: t=03:48 \u2014 Lex rises higher on her knees, both hands gathering her hair up; Annie lies back on the pillows, legs still spread wide, recovering, spent. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p4_015.jpg, never committed.",
+   "original_filename": "p4_015.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-127.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-025"
+  },
+  {
+   "id": "frame-128",
+   "type": "frame",
+   "date": "2018-06-14",
+   "description": "Selectively censored still (t=244.5s) from upload-025: t=04:05 \u2014 Lex bends over at the foot of the bed, bare ass to the camera; Annie lies back on the bed laughing, legs bent and spread, wrung out. Censored derivative per 2026-09-13 directive (exposed nipples/genitalia only); uncensored original at ~/workspace/annie-alexis-frames/v3/final/p4_016.jpg, never committed.",
+   "original_filename": "p4_016.jpg",
+   "share_url": null,
+   "compressed_path": "wiki/media/annie-alexis-frames/frame-128.jpg",
+   "poster_sha256": null,
+   "analysis_status": "embedded",
+   "linked_nodes": [
+    "wiki/timeline/events/annie-alexis-reunion-november-2018"
+   ],
+   "source_upload": "upload-025"
   }
  ],
  "policy": "Originals are never committed to wikitest or RAWLOGS. This registry maps each item to its canonical location (Google Photos share URL or Drive path). Compressed derivatives for wiki entries live under media/<batch-slug>/ and are referenced from the src:/dat: nodes. Censorship rule (2026-09-12, Dan's directive): embedded derivatives showing nudity or sexual activity are pixelated/blurred before commit. The uncensored original stays at its canonical location and is never committed.",

@@ -1,0 +1,106 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 2433 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "organic_insights_interactions": [
+    {
+      "media_map_data": {},
+      "string_map_data": {
+        "Accounts Engaged Delta": {
+          "href": "",
+          "timestamp": 0,
+          "value": "-- vs Feb 25 - May 25"
+        },
+        "Accounts engaged": {
+          "href": "",
+          "timestamp": 0,
+          "value": "1"
+        },
+        "Content Interactions": {
+          "href": "",
+          "timestamp": 0,
+          "value": "4"
+        },
+        "Content Interactions Delta": {
+          "href": "",
+          "timestamp": 0,
+          "value": "-- vs Feb 25 - May 25"
+        },
+        "Date Range": {
+          "href": "",
+          "timestamp": 0,
+          "value": "May 26 - Aug 23"
+        },
+        "Engaged Account By Follow Type": {
+          "href": "",
+          "timestamp": 0,
+          "value": "Followers: 100%, Non-followers: 0%"
+        },
+        "Live Video Interactions": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Live Video Interactions Delta": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0% vs Feb 25 - May 25"
+        },
+        "Post Interactions": {
+          "href": "",
+          "timestamp": 0,
+          "value": "2"
+        },
+        "Post Interactions Delta": {
+          "href": "",
+          "timestamp": 0,
+          "value": "-- vs Feb 25 - May 25"
+        },
+        "Post Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "1"
+        },
+        "Reels Interactions": {
+          "href": "",
+          "timestamp": 0,
+          "value": "2"
+        },
+        "Reels Interactions Delta": {
+          "href": "",
+          "timestamp": 0,
+          "value": "-- vs Feb 25 - May 25"
+        },
+        "Reels Shares": {
+          "href": "",
+          "timestamp": 0,
+          "value": "1"
+        },
+        "Story Interactions": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Story Interactions Delta": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0% vs Feb 25 - May 25"
+        },
+        "Video Interactions": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0"
+        },
+        "Video Interactions Delta": {
+          "href": "",
+          "timestamp": 0,
+          "value": "0% vs Feb 25 - May 25"
+        }
+      },
+      "title": ""
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:22:18.829-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:22:18.829Z"
+  }
+}

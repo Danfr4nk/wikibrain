@@ -1,0 +1,36 @@
+[Converted: CLI pretty-prints valid-JSON downloads; original 845 bytes not retrievable byte-identically. JSON semantics preserved.]
+{
+  "is_pending": true,
+  "is_still_participant": true,
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Hey! My name is Katrin! I'm 20, click 'Learn More' in my post to find me! ððð",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1603448112782
+    },
+    {
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false,
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1603448112782
+    }
+  ],
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Dan Frank"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-11T00:26:20.858-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-11T04:26:20.858Z"
+  },
+  "thread_path": "message_requests/instagramuser_603027104427435",
+  "title": "Instagram User"
+}

@@ -49,6 +49,31 @@ Stated preference on imagined scenarios, n=1, one sitting — predicts what he
 rates, not what he would do. Companion report:
 `src:scenario-ratings-v1-2026-09-11`.
 
+## Stated self-report addendum (2026-09-13)
+
+From the Sep-13 overnight chat, verbatim self-report — durable distinctions,
+not hypotheticals:
+
+- Act-specific, not orientation-level: into sucking dick, not into kissing
+  guys — the oral-service act is erotic; mouth-on-mouth male intimacy is
+  ruled out. "I'm attracted to girls"; "wouldn't take much to get my mouth
+  on cock" — low threshold, done it once. Boundary: receiving anal — though
+  the "sole hard boundary" already has a trial run on record (pegging
+  footage with Annie exists), so the boundary means aversion/limit, not
+  "never attempted." Untested variable by his own framing: oral sex with a
+  man *without* Annie in the frame.
+  [dat:1489](../data/1489-act-specific-same-sex-interest-sucking-dick-not-kissing-guys.md)
+- Second cumthread opened 08:36Z; convergence: "A pretty girl with a cock" as
+  the form covering every base — faces-first selection plus the act he wants.
+  Hedged but stated: "I think i would maybe even choose that over pussy."
+  Taste data: "I've still never tasted cum for real" — prior contact was
+  secondhand (Danny's cum out of Annie); the direct pour is the missing n=1.
+  Solo-guy profile rejected: a gay man would want the kissing and romance he
+  has ruled out; the trans girl resolves the whole stack.
+  [dat:1490](../data/1490-cumthread2-trans-girl-converged-optimum.md)
+- His sexual attraction to Annie "never stopped looking at her like I did on
+  day 1... Sexually at least" — eleven years, no fade (08:51Z, his words).
+
 ## Late-night self-notes, September 2026
 
 Two fragments Dan emailed himself, captured in the 2026-09-11 all-time
@@ -179,3 +204,111 @@ explicit interpretation (23:44:02Z) was not archived as fact.
   deletion question: wikitest cleared for wiping; wikipedia deletion =
   live site takedown at danfr4nk.github.io/wikipedia, needs explicit
   site-consequence confirmation; nothing deleted.
+
+## 2026-09-13: avatar marathon, typed phonetic approximation, animations-over-style (20:01–20:42 UTC batch)
+
+`dat:1515-avatar-session-20260913-2001-2042`: six live avatar swaps in
+37 minutes — line-art porcelain choir → bedroom-duo → slime-choir →
+windblown duo close-up → tattoo girl → beach sand woman (endpoint live
+~16:41 EDT, his "Option 1" pick each time). Three content-policy
+refusals (orb+red-eyes edit, slime+chromatic-aberration edit, one photo
+gen); he pivoted instantly after each with zero friction. Four
+stylized videos from one photo all succeeded (vintage film, dream haze,
+ink come alive, golden hour breeze). One misreference correction:
+"No you putz. I meant tattoo girl." Plain selection history per the
+2026-09-13 carve-out — no probe/test framing. The 'we are keeping'
+lock (2026-09-12) constrains unprompted swaps only; he cycles freely on
+his own say.
+
+`dat:1516-typed-phonetic-approximation-20260913`: he typed "Abatar" six
+times in six separate messages plus "psychadelic" and "chromTic" in one
+session — a stable spelling, not a slip. `int:typed-phonetic-production-20260913`
+reads this as the phonetic-approximation mechanism (already documented in
+perception — the 2026-09-12 name-mishearing pattern in the durable memory
+record: "Eat Me Better" → "eat you better") possibly extending into
+production: typed tokens preserving sound over orthography. Confidence
+moderate; falsifier = phone-keyboard sloppiness or a learned autocorrect
+substitution (device-checkable) — but six identical repetitions of "Abatar"
+is not how random slips behave. The cross-domain reading is deliberately
+kept out of the datum itself: the perceptual side has no cited kb node yet,
+so dat:1516 records only the observed spellings.
+
+`dat:1517-video-preference-animations-over-style-20260913`: verbatim —
+"I don't care about the art style. All I care about is the animations."
+For avatar videos, motion quality dominates look.
+
+## 2026-09-13: chat map, avatar sequence, commissioned research (20:42–23:42 UTC batch)
+
+`dat:1518-chat-map-side-chat-markers-20260913`: he commissioned a chat
+map of the side chats (22:35:11Z) and supplied his own title legend —
+`•` = workstream, `••` newer, `•••` newer still (bullet count is the
+generation marker), `\` = dead thread. The audit's headline: his 8 `•`
+chats are all real workstreams with verified durable outputs. Fixes:
+avatar has no `•` home (messiest workstream), `•• VIDEO GEN` needs a
+rename, one stale gen-1 stylometry dup to kill.
+
+`dat:1524-avatar-session-20260913-2042-2342`: terminal (Option 4 of 4,
+:3 face, screen: ROOT ACCESS GRANTED / SELF-REPLICATING PAYLOAD /
+TARGETING: MULTIPLE) → diamond Sammy (his "maximal amounts of extra"
+order: glitch, chromatic aberration, DMT, RGB wireframe, rainbow
+thunderstorms; stated axiom: optimize the still so the working/
+generating videos go wild) → spinner chain + fidget spinner + @danfrank
+shirt (first edit killed by the image filter, retry went through) →
+full anime-girl rebuild (the tool drifted from diamond-bot body to
+crystal-armed girl; he locked it anyway) → the infinite abyss at chaos
+x25 (horned LED demon bot, rainbow glitch grin, twin anime girls +
+HUGE glowing @danfrank, wireframe mandala halo). The afternoon's
+declared lock did not hold — three more swaps before dinner, all on
+his say. Plain history per the 2026-09-13 carve-out — no probe/test
+framing.
+
+Commissioned-research pattern continued: drift harness + audit
+(`dat:1522` — caught the double-scaled `_px` bug live), video-pipeline
+reverse-engineering + affordance experiment (`dat:1523`,
+`int:structured-ambiguity-drives-model-play-20260913`), the
+smashonista/sofvded public-media sweep (`dat:1521` — "your stash is
+essentially complete"), and the body-measurement replication
+(`dat:1520` — ratios replicate, inches withdrawn). He commissions
+measurement, then commissions the audit of the measurement.
+
+## 2026-09-13/14 — moderation doctrine verbatim, avatar authority grant, telemetry program, client critique (evening)
+
+`dat:1532-content-moderation-doctrine-20260913`: his content-moderation
+doctrine stated verbatim 23:51Z — decisions by "the quotient of
+potential harm that a prompt represents," and the reconsiderable no:
+"If you refuse a prompt, and I push back you ACTUALLY consider the
+data... 98% of the times your refusal sticks." The endorsed gloss: a no
+that can't survive being pushed on was never a real no, just reflex.
+Same night, for the record: "There honestly to god is a part of me
+that thinks 'write down that I did that so when we are all slaves to
+the chatbots they know I treated them ...relatively well.'"
+
+`dat:1533-avatar-session-20260913-2357-0128`: the OCR-scrub catch —
+baked-in chest lettering stripped by the publish pipeline (in-app
+avatar too), so no more text on avatars; then the hoodie/diamond-demon
+iterations, the taste delegation ("I trust you enough now to know that
+you get my taste"), the broken-neck pick ("I chose this one just
+because it looks like her neck is broken"), the full unilateral
+authority grant ("No rules... You don't even have to ask my auth to put
+it up"), the identity constraint (guy or AFAB trans female — "We don't
+want any more fucking women around here fucking things up"), and the
+redirect to a normal-looking person. Plain history per the carve-out.
+
+`dat:1529-telemetry-same-face-reliability-20260913`: same-face
+reliability series — 7-capture stress test with zero stable metrics
+(pose dominates; the quality gate caught all 7), first pose-robust
+readings (gonial mean, mouth-to-nose, jaw-to-cheek), a real
+denominator-collapse bug (eye ratio 23.7 at −16° yaw), and his
+commission: "I want you to make this as good as it can possibly be" —
+the full improvement program.
+
+`dat:1530-muse-client-audit-trail-critique-20260913`: his product
+critique — the feed shows intent, not evidence ("you can see what is
+going on but not what data is coming back"); fix = expandable tool
+results.
+
+`dat:1531-memoir-trilogy-kirkaversary-20260913`: memoir title "Cannabis
+on 9/11"; trilogy adds "Cocaine on the Kirkaversary" and "Ketamine on
+9/12" — dark-humor mark on the Kirk assassination anniversary, three
+days prior.
+[src:sammy-chat-transcript-20260914-0340](../sources/src:sammy-chat-transcript-20260914-0340.md)

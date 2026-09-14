@@ -156,6 +156,9 @@ connections:
   - page: wiki/mind/synthesis/high-provision-low-condolence
     type: instantiates
     claim: "The give-and-invoice pattern — permanently available, and the availability gets itemized — is the rule running in the maternal register: provision extended, then entered into the ledger, the same architecture the synthesis finds across every major bond."
+  - { target: "[[wiki/mind/synthesis/kristin-channel]]", type: references, claim: "That entry reads her as a contextualizing pressure on the Kristin channel: the always-available maternal line is the bond the Kristin relationship had to be measured against." }
+  - { target: "[[wiki/mind/synthesis/annie-ally-contrast]]", type: references, claim: "That entry places her as a contextualizing figure in the Annie/Ally comparison: the maternal register of permanent availability that the annie-channel absorbs and the Ally channel never supplies." }
+  - { target: "[[wiki/mind/synthesis/four-financial-inversions]]", type: references, claim: "That entry's inversion 1 is the Suz-backed years (~2015-2020): Dan funded the household and she funded Dan, the standing liquidity facility behind the relationship's early capital." }
 ---
 
 
@@ -429,7 +432,7 @@ sharpest drop in eleven years of the thread and it is not an export artifact.
 
 ## Identity, lineage and the generation she was pushed out of
 
-The personality read that sits under this section — ISTJ 6w7, so/sp, 6-2-9 trifix — is at [[wiki/people/suzanne-frank-personality-assessment]], kept separate for the same reason Annie's is: a typology claim should be falsifiable on its own terms rather than folded into a biography.
+The personality read that sits under this section — ISTJ 6w7, so/sp, 6-2-9 trifix — is at [[wiki/people/suzanne-frank-personality-assessment]], kept separate for the same reason [[wiki/people/annie-ulmer|Annie]]'s is: a typology claim should be falsifiable on its own terms rather than folded into a biography.
 
 Identity is settled across two independent exports. `contacts.csv` and the
 Facebook address book agree on the same person: **Suzanne Frank, one mobile
@@ -444,7 +447,7 @@ The 23andMe GEDCOM ([[wiki/self/ancestry]]) supplies the rest:
 |---|---|
 | Born | 15 September 1962, Pittsburgh, Allegheny County, PA |
 | Name at birth | Suzanne Whyel Shrum — the middle name carries [[wiki/people/fran-coldren|Fran]]'s line |
-| Parents | George Dixon Shrum Jr. (b. 14 Jun 1937, Pittsburgh) and Rebecca Diane Van Voorhis (b. 30 Jan 1939, West Virginia) |
+| Parents | George Dixon Shrum Jr. (b. 14 Jun 1937, Pittsburgh) and [[wiki/people/diane-moore|Rebecca Diane Van Voorhis]] (b. 30 Jan 1939, West Virginia) |
 | Parents married | 8 February 1961, **Belmont Circle, Uniontown** ([[wiki/places/117-belmont-circle]]); announced in the *Pittsburgh Post-Gazette*, 3 September 1961 |
 | Married | [[wiki/people/rick-frank|Richard Harrison Frank]] (b. 22 May 1959), **31 August 1985** |
 | Children | Dan (b. 1 Nov 1988, Uniontown); [[wiki/people/vanessa-frank|Vanessa]] (b. 16 Jan 1994, Greensburg) |
@@ -581,7 +584,7 @@ relationship in a clause.
 
 The rest are administrative and cumulatively establish the same thing — an
 appointment (*"I'm supposed to see Fred Adams at 2:00. Should I pick you up
-after?"*, 2018-09-04), unpaid utilities at Virginia Avenue to be recovered from
+after?"*, 2018-09-04), unpaid utilities at [[wiki/places/155-virginia-ave|Virginia Avenue]] to be recovered from
 him (2019-04-08), a party at his new place (2019-04-12), and his legal advice
 on a statute of limitations relayed to Dan two years earlier (2016-06-03). She
 is not adjacent to the estate machinery. She is inside it, without authority in
@@ -696,8 +699,7 @@ The wider role is as an ordinary participant in the local market. She buys weed
 and vape product from [[wiki/people/jim-vrabel|Jim Vrabel]] for a decade
 (*"Does Jim still have both liquid and leaves?"*; *"I'm out of 🌲🌲. Should I ask
 Jim?"*), and in 2015–16 she is a routine cocaine source for Dan and
-[[wiki/people/annie-ulmer|Annie]] — the [[wiki/timeline/annie-record|two-sided
-December 2015 record]] has him going to her house for it several times a week,
+[[wiki/people/annie-ulmer|Annie]] — the [[wiki/timeline/annie-record|two-sided December 2015 record]] has him going to her house for it several times a week,
 including *"Suz said she's getting her NYE zgurd at 1pm."* Her own comment on
 the world she had ended up inside, sent at 01:18 on 12 December 2015, is worth
 keeping whole:
@@ -841,8 +843,7 @@ unaddressed is not established by the capture and is not resolved here.
 
 Dan returned to 337 Saratoga on 22 February 2025 after six years in Manhattan,
 into a house that had already been listed once. The
-[[wiki/timeline/periods/feb-apr-2025-return-and-rupture|spring 2025 listing
-attempt]] and the $615,000 May 2025 ask both precede the eventual 2026 sale by
+[[wiki/timeline/periods/feb-apr-2025-return-and-rupture|spring 2025 listing attempt]] and the $615,000 May 2025 ask both precede the eventual 2026 sale by
 a full year; the house went through at least two listing attempts and one
 failed contract before the Delverm agreement.
 
@@ -1002,7 +1003,7 @@ product of the 2020 turn, not a precondition of it.
 | Total messages | **33,698** |
 | Direction | 18,871 from Suz · 14,827 from Dan |
 | Span | 2015-11-17 → 2026-08-11 (10 yr 9 mo) |
-| Rank among all contacts | **2nd**, behind Annie (119,405 across four handles); ahead of Kristin (20,009), and 3.7× the next non-Annie handle inside the dump |
+| Rank among all contacts | **2nd**, behind [[wiki/people/annie-ulmer|Annie]] (119,405 across four handles); ahead of [[wiki/people/kristin|Kristin]] (20,009), and 3.7× the next non-Annie handle inside the dump |
 | Handles | +172\*\*\*\*8715 · suzfrank@\*\*\*.net · suzfrank915@\*\*\*.com |
 | Mean message length | Suz 49.4 chars · Dan 46.8 |
 | Peak day | 2024-06-27 (224 messages — the first Biden–Trump debate) |
@@ -1031,7 +1032,7 @@ every year but two** — the exceptions are 2015 and 2016, the relationship's
 first fourteen months — and the gap widens steadily after 2018 until she is
 writing two messages for each of his; [[wiki/mind/synthesis/annual-volume-suz]]
 charts the reversal and the widening as a single series. And
-**2018 is the peak on both sides**: the year Fran died, the year of the
+**2018 is the peak on both sides**: the year [[wiki/people/fran-coldren|Fran]] died, the year of the
 $14,000, the year the estate was pending and neither of them had any money.
 
 ## Timeline
@@ -1043,14 +1044,14 @@ $14,000, the year the estate was pending and neither of them had any money.
 | 1985-08-31 | Marries Richard Harrison Frank |
 | 1988-11-01 | Dan born, Uniontown |
 | 1994-01-16 | Vanessa born, Greensburg |
-| 1996 | Family builds 337 Saratoga Drive |
-| ~2004–2005 | Affair surfaces during Rick's treatment; separation — the parental rupture (Dan-side account) |
-| late 1970s/early 1980s | Dated Annie Ulmer's father in high school (per DANSYNTH, operator-sourced) |
+| 1996 | Family builds [[wiki/places/337-saratoga-drive|337 Saratoga Drive]] |
+| ~2004–2005 | Affair surfaces during [[wiki/people/rick-frank|Rick]]'s treatment; separation — the parental rupture (Dan-side account) |
+| late 1970s/early 1980s | Dated [[wiki/people/annie-ulmer|Annie]] Ulmer's father in high school (per DANSYNTH, operator-sourced) |
 | 2008-09 | Buys the Winter Park FL condo (2924 Antique Oaks Circle) as Dan starts Full Sail |
 | 2015-11-17 | First message in the corpus |
 | 2015-11-29/30 | Promotes the Annie match; the car-for-eviction conditional |
 | 2017 | Poverty floor on both sides; the "Jackson Pollock painting" message |
-| 2018-04 | Fran dies; handles the estate, memorial and house clearance alone |
+| 2018-04 | [[wiki/people/fran-coldren|Fran]] dies; handles the estate, memorial and house clearance alone |
 | 2018-08/10 | The ~$14,000 from Dan; the itemised-ledger message |
 | 2019-06/07 | *"I'm begging you to please help me out"*; the 3 July ledger fight |
 | 2019-10 | Leaves Coldwell Banker for Park Place Realty Group |
@@ -1073,7 +1074,7 @@ $14,000, the year the estate was pending and neither of them had any money.
 
 ## August 2026 — targeted again, and shielded
 
-Fifteen days after Annie walked to the house and apologised to her in person
+Fifteen days after [[wiki/people/annie-ulmer|Annie]] walked to the house and apologised to her in person
 for the first harassment campaign, [[wiki/people/jerel-coles|Coles]] resumed:
 on the night of 2026-08-16 he called and texted her repeatedly from Annie's
 phone, and on 2026-08-17 at 12:48 he wrote to Dan directly, *"I have stuff to
