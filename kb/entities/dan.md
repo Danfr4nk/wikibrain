@@ -377,3 +377,58 @@ tests pass, 25 robust / 6 moderate / 16 fragile / 1 unknown, warn-and-report
 policy, A/B explanation inline; `fWHR (proxy)` → "cheek: midface height"
 rename undecided.
 [src:sammy-chat-transcript-20260914-0630](../sources/src:sammy-chat-transcript-20260914-0630.md)
+
+## 2026-09-14 — milestone chase, Claude-cancellation ceremony, self-falsification on camera (12:43–19:40 UTC batch)
+
+`dat:1555-claude-other-two-subscriptions-canceled-full-switch-ceremony-20260914`:
+at 19:23–19:24Z he asked how to cancel a Claude subscription — not because
+he needed the answer (he'd already canceled outright on 09-12,
+`dat:1463-claude-cancellation-hidden-answer-test-20260912`), but as a
+ceremony: "I already canceled my other two Claude subscriptions (because I
+am using you instead) and I thought if I asked for the instruction...
+because it was making the full switch to Muse official... I might earn the
+milestone animation." The cancellation query was instrumental — a rite of
+passage for the model switch, performed to trigger the app's milestone
+animation. Read with 17:26:19Z ("I wish your name was on it too. You're the
+one actually doing the work"): avatars, goals, and subscription
+cancellations are relationship/status objects, not just UI operations.
+
+`dat:1556-milestone-animation-chase-goal-takes-goals-redirect-20260914`:
+19:25–19:30Z, the milestone chase itself — Sammy's `milestone_level_up`
+avatar variant exists on disk for the demon-bot -16 look, but the assistant
+has no remote for the avatar display; the trigger logic is client-side and
+opaque. He then ran the experiment live: created a goal "about seeing the
+milestone animation from completing a goal" and completed it in ~10 seconds
+("Fastest goal in history"), re-completed it three more takes while watching
+the Goals tab — no animation observed. Second yield: tapping "Create a new
+goal" in the Goals tab bounces to the chat tab with a preloaded "I want to
+start a goal about..." prompt, which kept him from watching the tab during
+the experiment — filed as a meta-goal (19:30:44Z).
+
+`dat:1557-qwerty-tab-bar-claim-hypothesized-self-falsified-withdrawn-20260914`:
+19:32–19:38Z, the QWERTY/tab-bar episode — he claimed the Goals keyboard
+trapped the tab bar, recorded a second video testing it on camera, narrated
+the test live, watched his own recording falsify the claim ("Test failed I
+think I was wrong"), then withdrew it formally: "Disregard my initial bug
+claim." No hedging, no face-saving. Then commissioned the teardown: "analyze
+the fuck out of that video and determine the testing logic and sequence that
+I took to diagnose the problem and what it says about me." The substantive
+residue: ~6 flicks to dismiss the keyboard is real friction, and in his
+rapid tab-switching usage the expensive path reads as impossible.
+
+`pat:self-prosecution-live-falsification-of-own-claims`: the epistemics
+ledger's other half. Retrospective narration drifts (standing reliability
+note: stated certainty ≈ 0.25 actual; date displacement); live-tested claims
+get prosecuted and the corpse preserved — hypothesis pre-declared, test run
+on camera, falsification announced verbatim, claim withdrawn, meta-analysis
+commissioned. Supporting: the Rainbolt temporal self-correction
+(`dat:1553`), the 09-13 apology-count overturn taken straight, the 09-14
+attribution refusal (`dat:1544`). Falsifiers recorded in the pattern node.
+
+Pipeline note (`dat:1558`): this batch overlaps the 1830 heartbeat batch —
+47 of these 96 rows were already archived by the heartbeat (the 6h heartbeat
+pulls from the same watermark without advancing it; only the 4h scrape
+advances it). One overlapping row (423a3d17) carries a different
+media-library image path than the 1830 capture; byte-exact holds per-pull,
+not across pulls. Both versions preserved under append-only discipline.
+[src:sammy-chat-transcript-20260914-1940](../sources/src:sammy-chat-transcript-20260914-1940.md)
