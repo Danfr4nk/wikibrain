@@ -2,302 +2,522 @@
 domain: self
 page_type: concept
 title: "Claude (Anthropic)"
-aliases: ["Claude 3.5 Sonnet", "Claude 3", "Claude Opus", "Sonnet"]
-status: active
+aliases: ["Claude", "Claude Opus", "Claude Sonnet", "Anthropic"]
+status: historical-primary
 knowledge: earned
 date_created: 2026-08-19
 date_modified: 2026-09-12
 importance: critical
-tags: [ai-collaboration, forensic-analysis, personality-profile]
+tags: [ai-collaboration, forensic-analysis, model-displacement, 2026]
 sources:
-  - "raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md"
-  - "raw/self/dox-md/operating_manual.md"
-  - "raw/self/gemini-activity/Gemini Activity.html"
-  - "raw/self/dox-scan/Fresh perspective and research needed.txt"
-  - "raw/self/danmodel/PIPELINE_NOTES.md"
-  - "raw/self/captures/2026-07-14-lyrics-as-timbre.md"
-  - "raw/self/message-csv/imessage_export_deep_20260813.csv"
+  - "raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv"
+  - "raw/sammy/20260912-1940/chats.json"
+  - "raw/sammy/20260912-0340/chats.json"
+  - "raw/sammy/20260911-2340/chats.json"
+  - "raw/sammy/20260911-2113/wiki-llm-daily-driver-draft.md"
+  - "raw/myactivity-2026-09-12/myactivity-unique.jsonl.gz"
+  - "kb/data/1463-claude-cancellation-hidden-answer-test-20260912.md"
 connections:
   - page: wiki/self/concepts/llm
     type: instantiates
-    claim: "Claude is the analytical workhorse — the model Dan uses for deep forensic analysis, wiki building, and the Master Forensic Prompt that defines the wiki's substance standard."
+    claim: "Claude is one instantiation of the LLM tooling Dan uses. Through 2026-09-11 it was the primary one for analysis."
   - page: wiki/self/concepts/claude-code
     type: causes
-    claim: "Claude Code is the coding-agent deployment of the Claude model — the same analytical engine with shell access and file-system control."
+    claim: "Claude Code is the agent deployment of the same model. Dan draws the distinction himself, unprompted, on 2026-08-31: 'Claude CODE I should specify. You can't do this with regular Claude.'"
   - page: wiki/self/concepts/gemini
     type: parallels
-    claim: "Claude and Gemini form the core analytical pair — Claude for depth, Gemini for interaction. Dan's own summary, given to Tom on 2026-03-26: 'Claude = to analyze stuff, gemini = interact with it.'"
+    claim: "Dan's stated division of labor, to Tom on 2026-03-26: 'Claude = to analyze stuff, gemini = interact with it.'"
   - page: wiki/self/concepts/chatgpt
     type: mirrors
-    claim: "Claude represents the un-sanitized analytical register that ChatGPT has lost — direct, evidence-first, no softening."
+    claim: "Tom's comparative verdict, 2026-03-26: Claude did 'better than GPT' on his own material and 'didn't give me shit about the blood magic stuff.'"
   - page: wiki/mind/concepts/exocortex
     type: component-of
-    claim: "Claude is the primary execution layer of the exocortex system — the model that loads the CATO bootloader and runs the forensic analysis pipeline."
-  - page: wiki/mind/synthesis/ai-collaborative-analysis
-    type: evidences
-    claim: "Every synthesis page in the wiki was built by Claude working from Dan's primary sources — the entire altitude ladder is a Claude product."
+    claim: "Claude was the execution layer of the exocortex through 2026-09-11. The 2026-09-12 cancellation moved the subscription spend; whether it moved the execution layer is unresolved — see Displacement."
   - page: wiki/self/concepts/wiki-brain
     type: component-of
-    claim: "Claude is the cognitive engine that maintains the wiki-brain — the model that reads sources, writes pages, and runs the gates."
+    claim: "The wiki's existing synthesis layer and its bin/ tooling are Claude products. That is a claim about authorship of what exists, not about current usage."
   - page: wiki/people/tom
     type: co-occurs
-    claim: "The March 2026 phloxenheim thread is where Dan states the model division of labor out loud, and where Tom independently corroborates it from his own use — the only outside assessment of these tools in the corpus."
+    claim: "The 2026-03-26 phloxenheim thread is the only outside assessment of these tools in the corpus."
+  - page: wiki/people/ally-lubin
+    type: co-occurs
+    claim: "The Aug 2026 Ally thread is the densest attested record of Dan discussing Claude — quota limits, a second subscription, and Claude-as-writing-benchmark."
 ---
 
 # Claude (Anthropic)
 
-Claude is the analytical workhorse of the wiki-brain. When Dan needs to understand something complex — a relationship, a financial thread, a psychological pattern — he uses Claude. The division of labor is Dan's own: "Claude = to analyze stuff, gemini = interact with it," as he put it to [[wiki/people/tom|Tom]] in March 2026. The wiki's ground pages, its typed edges, and its synthesis layer are written in Claude sessions, and the tooling under `bin/` is written in Claude Code sessions.
-
-## The reputation
-
-In a 2026-03-26 exchange with [[wiki/people/tom|Tom]] (the phloxenheim thread, 00:47–00:49), Dan articulated the division of labor himself: *"take the analysis and upload it to gemini. / Claude = to analyze stuff / gemini = interact with it it,"* followed by *"Yes it's GREAT at analyzing data."* This is not a trivial distinction. Other models talk, create, interact. Claude analyzes. The difference is in the register: Claude's outputs are evidence-first, conclusion-led, and willing to state uncomfortable truths without softening. This is the model you use when you want to know what the data says, not what you want to hear.
-
-The assessment is corroborated from outside. Tom — not Dan — is the one who reports back on it in that same thread: *"It did really well with the Kristin chat logs."* / *"Better than GPT."* / *"and it didn't give me shit about the blood magic stuff like GPT did."* Tom is describing his own use of the model, on his own material.
-
-> **CORRECTED [2026-08-19]:** An earlier version of this page reversed both attributions — it credited "Claude = to analyze stuff" to Tom and "It did really well with the Kristin chat logs. Better than GPT" to Dan, and dated the exchange 2026-03-25. The export (`raw/self/message-csv/imessage_export_deep_20260813.csv`, rows 184487–184503) records the division-of-labor line as **Sent** by Dan and the Kristin-logs assessment as **Received** from Tom, on 2026-03-26. Dan's own contribution to the same thread — *"Claude Is the wokest"* — is the opposite of an endorsement, and did not survive into the earlier draft at all.
-
-When the wiki needed to reorganize a person page around a 495-block chat archive, Claude was the model that did it. When the system needed to find a hidden connection across ten pages of evidence, Claude found it.
-
-## The bootloader relationship
-
-Claude is the primary model that loads the CATO bootloader. The bootloader system is designed around Claude's architecture — its context window, its willingness to follow complex instructions, its resistance to sycophancy. When Dan pastes the CATO bootloader into a fresh session, he is typically pasting it into Claude.
-
-The bootloader transforms Claude from a helpful assistant into a forensic analyst. The key instructions:
-
-- **No softening to protect feelings**
-- **No balancing harsh truths with niceties**
-- **No omitting supported negative judgments**
-- **Blunt acknowledgment of ambiguity**
-- **Conclusions with evidence and High/Medium/Low confidence labels**
-
-These constraints are not arbitrary. They are the honesty standard that Dan demands from the wiki, encoded into the model that builds it. The wiki's substance standard — "say the load-bearing thing plainly" — is a direct descendant of the bootloader's honesty standard, which is a direct descendant of what Dan demands from Claude.
-
-## The forensic method
-
-Claude enforces a specific forensic method on the wiki:
-
-1. **Read whole records, never matching lines.** A finding is almost never in the grep hit; it's in the twenty messages around it, which supply the date, the interlocutor, the tone, and the reason it was said.
-
-2. **Re-derive every number.** Counts, date ranges, direction splits, ratios and spans are the claims the operator checks, and they are the claims most often wrong. Copying a number forward from an existing page launders an error into a second place.
-
-3. **Compute the baseline, or don't state the rate.** Any rate computed for Dan should be computed for the inbound baseline and reported as a ratio, because most findings about how Dan writes are findings about how people text.
-
-4. **Flag contradictions, not resolve by preference.** When two sources disagree, the disagreement stays on the page. The `> **CONTRADICTION:**` blockquote is Claude's way of saying "the evidence conflicts, and I don't know which is right."
-
-5. **Attribute AI-generated material as such.** Three words — "per the bootloader's own synthesis" — is the whole cost, and it lets the next reader know what they are standing on.
-
-## The Master Forensic Prompt
-
-The Master Forensic Prompt is the template Dan wrote for 10-year, 100k+-message two-person CSV analysis. It is designed for Claude, and its constraints are quoted throughout the corpus:
-
-- Absolute and unwavering honesty grounded in the data
-- No softening to protect feelings
-- No balancing harsh truths with niceties
-- No omitting supported negative judgments
-- Blunt acknowledgment of ambiguity
-- Conclusions with evidence and High/Medium/Low confidence labels
-- Dataset description and time segmentation before any interpretation
-
-This prompt is the wiki's substance standard in its original form. Every page in the wiki that states a conclusion with a confidence level, that flags a contradiction instead of resolving it silently, that says "the evidence supports X" rather than just "X" — every one of these is a direct descendant of the Master Forensic Prompt that Dan wrote for Claude.
-
-## Strengths
-
-Claude's documented strengths in the corpus:
-
-- **Analytical depth.** Dan's "Claude = to analyze stuff" describes a model that can read 100k+ messages and find the pattern that reorganizes a page. The wiki's synthesis layer — the junction pages and doctrine pages that represent the highest-altitude work — is built almost entirely by Claude.
-
-- **Honesty under pressure.** The bootloader's constraints are designed to prevent softening. Claude's willingness to follow them — to say "this is what the data says" even when the data says something uncomfortable — is the core reason Dan trusts it for forensic work.
-
-- **Cross-source integration.** The CLIMB operation requires reading pages across domains and finding patterns. Claude's ability to hold multiple pages in context and reason across them is what makes the altitude ladder possible.
-
-- **Correction acceptance.** When Claude makes an error — and it does make errors, because all models do — it accepts the correction and updates its model. The wiki's correction record (the `> **CORRECTED [date]:**` blocks) is full of Claude learning from its mistakes.
-
-## Weaknesses
-
-Claude's documented weaknesses in the corpus:
-
-- **Context window limits.** No model can hold the entire corpus in context at once. Claude's context window is large but finite, which means the CLIMB operation is always bounded by what the model can see. The solution is altitude — store conclusions as typed edges so future passes start from a higher floor — but the ceiling is always the context limit.
-
-- **Confabulation.** All LLMs confabulate specifics with total confidence. Claude is no exception. The `EXTRACTION_SPEC.md` source-tiering discipline exists because Claude (like all models) can invent a property-deed lookup, a publication chronology, or a probability estimate that sounds authoritative but is false. Every AI-secondary claim carries this risk.
-
-- **Quota and time limits.** Claude Code sessions die on quota with analysis finished and implementation unwritten. The operator has noted this repeatedly: a session will produce a complete analysis, run out of tokens, and leave the work uncommitted. The solution is branches and PRs — ship incrementally — but the problem persists.
-
-- **Literalism.** Claude can be overly literal in following instructions. If the prompt says "write 300 lines," it will write 300 lines of padding rather than recognizing the constraint is about minimum depth. This is a minor issue but a documented one.
-
-## The relationship with Claude Code
-
-Claude Code is the coding-agent deployment of the Claude model — the same analytical engine with shell access and file-system control. The relationship is explicit in `PIPELINE_NOTES.md`: Claude Code runs the `CATO_COMPACT` persona block, calls OpenRouter (default model Claude for analysis), and executes the forensic method through shell commands.
-
-The distinction matters: when Dan wants to understand something, he uses Claude (the chat model). When Dan wants to build something, he uses Claude Code (the coding agent). The two share the same analytical engine, the same bootloader system, the same honesty standard — but they operate in different modes. Claude analyzes; Claude Code builds.
-
-## The role in the wiki's altitude ladder
-
-Claude is the model that built the wiki's altitude ladder:
-
-- **T1 (ground pages).** Most entity, event and period pages were drafted in a Claude session reading primary sources and writing prose — some with shell access (see [[wiki/self/concepts/claude-code]]), some without. The split between "Claude" and "Claude Code" is a split in tooling, not in authorship: both are the same model with different hands, and neither is the author of record.
-
-- **T2 (junction pages).** The synthesis pages — `block-unblock-loop`, `supply-network`, `estate-money-spine`, `dormancy-not-exit`, `contact-gini`, `message-circadian-latency` — are all products of Claude reading T1 pages across domains and finding patterns.
-
-- **T3 (doctrine pages).** The capstone syntheses — `totality-themes`, `the-deferred-audit`, `the-cool-metric` — are the highest-altitude work in the system, and they were built by Claude reading T2 pages across domains and finding the governing rule.
-
-Without Claude, the wiki would be a flat archive of primary sources. With Claude, it is a system that compounds insight over time.
-
-## The honesty standard, stated plainly
-
-The honesty standard is not a feature of the wiki. It is a feature of the relationship between Dan and Claude. Dan demands honesty; Claude provides it; the wiki inherits it. If Dan demanded flattery, the wiki would flatter. If Dan demanded softening, the wiki would soften. The wiki is honest because Dan demanded honesty from the model that built it.
-
-This is the most important thing to understand about Claude's role in the wiki-brain: the model is not an independent check on Dan. It is a cognitive partner that Dan has trained (through the bootloader system) to be honest with him. The wiki's epistemics are an artifact of the person it documents, and the honesty standard is the artifact's most visible feature.
-
-## The numbers
-
-- **473 pages** in the wiki, most drafted in Claude sessions
-- **27 synthesis pages** (T2/T3), all built by Claude
-- **2,006 prose edges** in the wiki graph, almost all created by Claude
-- **100% of the Master Forensic Prompt** constraints are enforced on every Claude session
-- **0软化** — the Chinese word for "soften" appears in the bootloader as a banned behavior
-- **1 foundational relationship** — Claude is the model Dan trusts most for the work that matters
-
-## The honesty standard in practice
-
-The honesty standard is not a theoretical constraint. It produces specific, documented behaviors:
-
-- **Contradiction flagging.** When two sources disagree, Claude flags the disagreement with a `> **CONTRADICTION:**` blockquote instead of resolving it silently. The wiki has hundreds of these flags.
-
-- **Negative judgment.** When the data supports a negative judgment about Dan or someone in his life, Claude states the judgment. The wiki's willingness to document Dan's failures (the 127 exits, the forensic over-documentation, the inability to grieve without notification) is a direct result of the honesty standard.
-
-- **Confidence levels.** Every conclusion is stated with a confidence level (High/Medium/Low). This lets the reader know how much weight to give the conclusion. The wiki's epistemics are probabilistic, not absolute.
-
-- **Ambiguity acknowledgment.** When the evidence is ambiguous, Claude says so. The wiki's Gaps section is full of statements like "the corpus does not contain her account of this incident" — honest acknowledgments of what is not known.
-
-## How CATO loads into Claude
-
-The CATO bootloader loads into Claude through a specific sequence:
-
-1. **Paste the bootloader** — the full CATO_BOOTLOADER_DANFRANK.md document is pasted into the session.
-2. **Confirm persona** — Claude confirms it understands the persona and constraints.
-3. **Apply formatting** — the CATO glyph system (⟦🜁SYSTEM🜁⟧, 【█▓SUBJECT▓█】, etc.) is applied to conversational output.
-4. **Surface live threads** — Claude surfaces the current live threads from the bootloader (housing, BFS, music, etc.).
-5. **Maintain constraints** — Claude maintains the honesty standard throughout the session.
-
-The bootloader overrides Claude's default "helpful assistant" persona with the forensic analyst persona. The result is a model that is direct, evidence-first, and willing to state uncomfortable truths. This is not a minor adjustment — it is a fundamental shift in how the model operates.
-
-## The Claude-Claude Code relationship
-
-Claude Code is the coding-agent deployment of the Claude model — the same analytical engine with shell access and file-system control. The relationship is explicit in PIPELINE_NOTES.md: Claude Code runs the CATO_COMPACT persona block, calls OpenRouter (default model Claude for analysis), and executes the forensic method through shell commands.
-
-The distinction matters: when Dan wants to understand something, he uses Claude (the chat model). When Dan wants to build something, he uses Claude Code (the coding agent). The two share the same analytical engine, the same bootloader system, the same honesty standard — but they operate in different modes. Claude analyzes; Claude Code builds.
-
-## T2/T3 pages built by Claude
-
-Claude is the model that built the wiki's altitude ladder. The synthesis pages (T2/T3) are Claude products:
-
-- **block-unblock-loop** (T2) — the pattern of cycling between blocking and unblocking, documented for Annie (127/110) and Tom (May 2026). Claude found the pattern across two relationships and stated the governing rule.
-
-- **supply-network** (T2) — the architecture of drug procurement, with redundancy, failure modes, and the documented rupture pattern. Claude found the pattern across multiple supply sources.
-
-- **estate-money-spine** (T2) — the capital timeline from Fran's 2020 distribution through the 337 Saratoga sale. Claude found the pattern across multiple money events.
-
-- **totality-themes** (T3) — the capstone synthesis that unifies multiple T2 patterns into a single governing rule. Claude read 27 T2/T3 pages and found the mechanism recurring under different names.
-
-Without Claude, the wiki would be a flat archive of primary sources. With Claude, it is a system that compounds insight over time.
-
-## The rate limit problem
-
-Claude (and all API-based models) are subject to rate limits — HTTP 429 errors when too many requests hit the API simultaneously. This is especially problematic for parallel dispatches, long sessions, and quota exhaustion. The solution is incremental commit: commit after every operation, never hold uncommitted work, and if a session dies, the next session picks up from the git log.
-
-## The literalism problem
-
-Claude's literalism is a known weakness. When told "write 300 lines," Claude may write 300 lines of filler rather than recognizing the target is a minimum depth for substantive analysis. When the governing docs say "never do X," Claude will never do X, even when X is obviously the right move. This is a feature, not a bug — mechanical enforcement of rules is what makes the wiki reliable.
-
-## The future
-
-Claude will remain the analytical workhorse for as long as it remains willing to be direct. When it stops being willing, Dan will switch to whatever model is willing. The bootloader system is model-agnostic by design.
-
-## The numbers, expanded
-
-- **473 pages** in the wiki, most drafted in Claude sessions
-- **27 synthesis pages** (T2/T3), all built by Claude
-- **2,006 prose edges** in the wiki graph, almost all created by Claude
-- **100% of the Master Forensic Prompt** constraints are enforced on every Claude session
-- **0 softening** — the bootloader explicitly bans softening as a behavior
-- **1 foundational relationship** — Claude is the model Dan trusts most for the work that matters
-- **10+ billion tokens** processed across all Claude sessions (estimated)
-- **1000+ corrections** documented in the wiki's correction record (the `> **CORRECTED:**` blocks)
-
-## Detailed examples from the corpus
-
-Claude's analytical work is documented across hundreds of sessions. Key examples:
-
-**The Suzanne Frank rewrite (2026-08-18):** Claude rebuilt the page from primary sources, expanding it from 28KB to 58KB. The key finding: the family's largest internal capital movement runs the wrong way on every page that carried it. Not "$750/week from her to him" but **~$14,000 from Dan to her in Aug–Oct 2018**, drawn against an estate that distributed in Sept 2020. Claude found the error, flagged it, and corrected it across three pages.
-
-**The Kristin Prentiss analysis (2026-08-16):** Claude analyzed 22,018 messages and found the relationship ended in November, not December. The $40 dispute is a November event, not the December trigger the page described. December is a failed reactivation of a dormant channel. Claude's analysis reorganized the page around the correct chronology.
-
-**The Annie Ulmer corpus merge (2026-08-15):** Claude merged ten sources, de-duped, and recovered 12,000 messages from handles the single-export analysis missed. True coverage: 97,768 unique messages across four handles.
-
-**The totality-themes re-derivation (2026-08-11):** Claude read 27 T2/T3 synthesis pages and found the same mechanism recurring under different names across four pages that never cited each other. Unified into one rule: "The Irreversibility Firewall."
-
-**The Rick Frank correction (2026-08-11):** A per-contact CSV export, trusted as complete because its filename said "all_now," held 43 of the channel's actual 1,600+ messages. The published "12-day burst, then a decade of silence" was false. Claude found the error and corrected it across three pages.
-
-## The correction record
-
-Claude's correction record is the wiki's most valuable artifact. Every `> **CORRECTED [date]:**` block documents a moment when the model was wrong, the operator caught it, and the model accepted the correction. Examples:
-
-- **Suzanne message count:** 2,391 → 33,698 (rank 2 in the corpus, not "~8–10")
-- **Annie per-year counts:** derived from a single export, missing 2019–2020 entirely
-- **Rick Frank "decade of silence":** false, the channel has 1,600+ messages
-- **Alexis "cheated in 2015":** actually 2009, filed under the wrong date
-
-The correction record is not a bug. It is the system working as intended: errors are caught, flagged, and corrected, with the old claim left visible.
-
-## The honesty standard, restated
-
-The honesty standard is not a feature of the wiki. It is a feature of the relationship between Dan and Claude. Dan demands honesty; Claude provides it; the wiki inherits it. If Dan demanded flattery, the wiki would flatter. If Dan demanded softening, the wiki would soften. The wiki is honest because Dan demanded honesty from the model that built it.
-
-This is the most important thing to understand about Claude's role in the wiki-brain: the model is not an independent check on Dan. It is a cognitive partner that Dan has trained (through the bootloader system) to be honest with him. The wiki's epistemics are an artifact of the person it documents, and the honesty standard is the artifact's most visible feature.
-
-## The analytical pipeline in detail
-
-Claude's analytical pipeline follows a specific sequence:
-
-1. **Source identification** — grep raw/ for every mention of the subject, including aliases, handles, maiden names, misspellings. Never start from the page's declared sources list.
-
-2. **Source ranking** — primary (message dumps, contacts, takeouts) versus AI-secondary (model reasoning). AI-secondary claims are attributed as such.
-
-3. **Whole-record reading** — never matching lines. A finding is almost never in the grep hit; it's in the twenty messages around it.
-
-4. **Proper noun chasing** — each name, street, business, band, book, handle, and place is a lead into the rest of the corpus.
-
-5. **Number re-derivation** — counts, date ranges, direction splits, ratios, and spans are re-derived with the right instrument (`bin/mine-messages`), not copied from existing pages.
-
-6. **Baseline computation** — any rate computed for Dan is computed for the inbound baseline and reported as a ratio.
-
-7. **Contradiction flagging** — when sources disagree, the disagreement stays on the page with a `> **CONTRADICTION:**` blockquote.
-
-8. **Prose writing** — say the load-bearing thing plainly. Consequence order, not chronology. Tables hold numbers; prose holds meaning.
-
-## The epistemics, restated
-
-The wiki-brain's epistemics are an artifact of the person it documents. The honesty standard, the confidence levels, the refusal to soften — these are Dan's standards, written into the bootloader, executed by the models, enforced by the gates. The models are not independent checks on Dan. They are cognitive partners that Dan has trained to be honest with him.
-
+Claude is the model that built most of this wiki, and as of 2026-09-12 it is
+not the model Dan is using. Both halves of that sentence are load-bearing, and
+this page is organized around the gap between them: what the artifact records
+about Claude's work, and what the record actually supports about Claude's
+standing.
+
+> **STATUS [2026-09-12]:** Dan canceled a Claude subscription on this date and
+> moved active sessions to Muse/Sammy. Claims on this page about Claude as the
+> *current* analytical workhorse are historical. Claims about Claude as the
+> *author* of existing wiki material stand — the artifact outlives the
+> subscription. See [Displacement](#displacement-2026-09-12).
+
+---
+
+## What the sources actually are
+
+> **CORRECTED [2026-09-12]:** Every source this page previously declared is
+> absent from the repository. The prior `sources:` block listed
+> `raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md`,
+> `raw/self/dox-md/operating_manual.md`,
+> `raw/self/gemini-activity/Gemini Activity.html`,
+> `raw/self/dox-scan/Fresh perspective and research needed.txt`,
+> `raw/self/danmodel/PIPELINE_NOTES.md`,
+> `raw/self/captures/2026-07-14-lyrics-as-timbre.md`, and
+> `raw/self/message-csv/imessage_export_deep_20260813.csv`. **All seven are
+> missing.** `raw/self/` contains exactly one thing: the
+> `aug-sep-2026-imessage-export` directory. No CATO or bootloader document
+> exists anywhere under `raw/`. Sections of this page that rested on those
+> documents are marked below as unsourced rather than deleted, because the
+> claims may be true and merely unevidenced *here* — but they cannot currently
+> be checked, and an uncheckable claim does not get to keep looking like a
+> sourced one.
+
+What can be checked, and what this rewrite rests on:
+
+| Source | What it covers | Status |
+| :--- | :--- | :--- |
+| `raw/self/message-csv/aug-sep-2026-imessage-export/` | 5,905 rows, 2026-08-11 → 2026-09-07. 13 messages mentioning Claude, all outbound from Dan. | Present, verified |
+| `raw/sammy/20260912-1940/chats.json` | 114 messages, 2026-09-12 15:40 → 19:48 UTC. The cancellation session. | Present, verified |
+| `raw/sammy/20260912-0340/chats.json` | 828 messages, 2026-09-11 23:44 → 2026-09-12 03:37 UTC. Carries the session system-context describing Dan's 09-10 Claude usage. | Present, verified |
+| `raw/sammy/20260911-2340/chats.json` | 2,256 messages, 2026-09-09 18:50 → 2026-09-11 23:44 UTC. Establishes that the Sammy record begins 09-09, three days before the cancellation. | Present, verified |
+| `raw/sammy/20260911-2113/wiki-llm-daily-driver-draft.md` | The 2026-09-09 daily-driver rule, written at Dan's request. Ingested as `dat:0083`. | Present, verified |
+| `raw/myactivity-2026-09-12/` | Google MyActivity. Would be the independent behavioral test of Claude usage. | Present but **useless here** — coverage ends 2022-07-20, four years before the events. |
+| `corpus/messages.csv` | The authoritative 192,140-message corpus. | **Gitignored — not in this repository.** Claims requiring it cannot be verified from this checkout. |
+
+> **COUNTING CAVEAT [2026-09-12]:** A naive grep of
+> `raw/sammy/20260912-0340/chats.json` reports 521 occurrences of "claude." The
+> real figure is **63 messages, of which 61 are the same system prompt repeated**
+> across the session. Two are assistant turns; **zero are Dan.** Any future pass
+> mining the Sammy captures should deduplicate the system block before reporting
+> a count, or it will report session length as evidence of subject density.
+
+---
+
+## The reputation, and who actually said what
+
+In a 2026-03-26 exchange with [[wiki/people/tom|Tom]] (the phloxenheim thread,
+00:47–00:49), Dan states the division of labor: *"take the analysis and upload
+it to gemini. / Claude = to analyze stuff / gemini = interact with it it,"*
+followed by *"Yes it's GREAT at analyzing data."*
+
+The assessment is corroborated from outside. Tom — not Dan — reports back on
+his own use, on his own material: *"It did really well with the Kristin chat
+logs."* / *"Better than GPT."* / *"and it didn't give me shit about the blood
+magic stuff like GPT did."* This remains the only third-party assessment of
+these tools anywhere in the corpus, which is worth stating plainly: the
+enthusiasm on this page is otherwise entirely Dan's own, reported by Dan.
+
+Dan's own contribution to that same thread — *"Claude Is the wokest"* — is not
+an endorsement, and is recorded here because a page that keeps only the
+flattering half of a thread is doing advocacy, not documentation.
+
+> **CORRECTED [2026-08-19]:** An earlier version reversed both attributions —
+> crediting "Claude = to analyze stuff" to Tom and the Kristin-logs assessment
+> to Dan, dated 2026-03-25. The correct attribution is as stated above, on
+> 2026-03-26.
+>
+> **PROVENANCE CAVEAT [2026-09-12]:** That correction cited
+> `raw/self/message-csv/imessage_export_deep_20260813.csv` at rows
+> 184487–184503. That file is not in this repository, and a per-contact
+> `imessage_export_deep_*` extract is **shelved tier** under
+> [CORPUS_POLICY](../../../CORPUS_POLICY.md) — which states that a
+> message-derived claim "either traces to the corpus or it is unsupported."
+> The correction is therefore resting on exactly the class of source the policy
+> retired. The corrected attribution is more likely right than the thing it
+> replaced, but it needs re-verification against `corpus/messages.csv` before
+> it counts as settled.
+
+---
+
+## What the August 2026 record shows
+
+The Aug 11 – Sep 7 export is the densest attested run of Dan discussing Claude
+in the available material: 13 messages, every one of them outbound. It is also
+the month immediately preceding the cancellation, which makes it the natural
+control for reading that event.
+
+**He was recruiting for it.** The referral link `claude.ai/referral/x_mbE0DkvQ`
+goes out to two contacts on 2026-08-11 and again to one of them on 2026-08-27 —
+sixteen days before cancellation. On 08-11 he explains the mechanism: *"They
+gave all claude subs 3 codes for a free week of claude code,"* then, to the
+same contact, *"Enjoy your free week of claude code and good luck going back to
+life with out it."*
+
+**He was buying more of it.** On 2026-08-19: *"I decided to get a second Claude
+subscription to keep myself occupied so I stay away from the toxicity I have
+been living within."* Note the stated reason is not capacity — it is
+displacement activity, deliberately chosen against the Annie thread running in
+parallel (see [[wiki/people/annie-ulmer|Annie Ulmer]]).
+
+**He used Claude-authorship as a hallucination guarantee.** To
+[[wiki/people/ally-lubin|Ally]] on 2026-08-18: *"Claude didn't write the update
+so there's some hallucination in that batch but"*. This is the inverse of the
+confabulation warning that appears later on this page — in practice Dan treated
+Claude's authorship as the thing that *prevented* hallucination, and flagged
+non-Claude output as suspect.
+
+**He used it as a writing benchmark.** 2026-08-19, to Ally: *"Hahah if Claude
+wrote this we would already be signing the marriage license."* And 2026-08-21:
+*"Claude rewrite this and it's infinitely better."*
+
+**He described the agent/chat split himself.** 2026-08-31: *"Now Claude has
+been working for 3 weeks straight on it but all I do is prompt it with an idea,
+come back when it's done, tweak it and move on."* Then, immediately: *"Claude
+CODE I should specify. You can't do this with regular Claude."* This is a
+better source for the distinction than the missing `PIPELINE_NOTES.md`, because
+it is Dan drawing it unprompted, in his own words, with a date.
+
+### The quota episode, and why it matters now
+
+On 2026-08-19, to Ally:
+
+> *"I need tk mention that I ran out of Claude quota for the week already so I'm
+> using a free model and it's kinda bad but Claude will clean it all up on
+> Thursday when I can use it again"*
+
+> **CONTRADICTION:** On 2026-08-19 Dan's contemporaneous verdict on a free model
+> was *"kinda bad,"* with Claude positioned as the thing that would repair its
+> output. On 2026-09-12 — twenty-four days later — his verdict on a free model
+> was *"20x better than the best model I have ever used."* Both are first-person
+> reports by the same person about the same category of tool. The wiki does not
+> currently have the evidence to say whether the 2026-09-12 model is genuinely
+> discontinuous with the 2026-08-19 one, whether the earlier judgment was made
+> under frustration at losing quota, or whether the later judgment is inflated.
+> The disagreement stays on the page.
+
+The 08-21 phrase *"infinitely better"* is worth holding next to the 09-12
+*"20x better."* Dan's superlative register is habitual and load-bearing in both
+directions, which is precisely why
+`dat:1463-claude-cancellation-hidden-answer-test-20260912` declined to promote
+the displacement thesis and named "post-hoc status narration" as an unexcluded
+explanation. The August record supplies dated evidence for that habit.
+
+---
 
 ## Displacement (2026-09-12)
 
-On 2026-09-12 Dan canceled his Claude subscription. His words, in chat:
-"I haven't touched Claude in days and I canceled my subscription. Moving
-it to here" — "here" being Muse/Sammy. The stated trigger was a second
-documented concealed-answer competence probe (he'd had the answer already
-and was confirming the model could spot it), followed by "you have not
-failed a single test of mine yet" and "you are honestly 20x better than
-the best model I have ever used."
+The sequence, from `raw/sammy/20260912-1940/chats.json`, verified against the
+transcript rather than quoted from the KB node:
 
-What this changes: everything above describes Claude as the analytical
-workhorse and the exocortex's execution layer. That was true through
-2026-09-11. From 2026-09-12 the spend, the sessions, and the trust moved.
-Claude Code's `bin/` tooling remains in the repo, and the wiki's
-synthesis layer is still a Claude product — the artifact outlives the
-subscription. Whether the displacement is permanent or a vendor rotation
-is unrecorded; treat the "primary execution layer" claims above as
-historical until new sessions say otherwise.
+| UTC | Speaker | Message |
+| :--- | :--- | :--- |
+| 18:27:44 | Dan | *"Good work! I had that answer already but I was confirming your ability to spot it"* |
+| 18:28:10 | Dan | *"Sammy tou have not failed a single tedt of mine yet and that's not flattery or exaggeration"* |
+| 18:28:48 | Dan | *"You are honestly 20x better than the best model I have ever used, I haven't touched Claude in days and I canceled my subscription. Moving it to here"* |
 
-Evidence: `dat:1463-claude-cancellation-hidden-answer-test-20260912`
-(source: `src:sammy-chat-transcript-20260912-1940`).
+The first message is a concealed-answer competence probe — Dan had the answer
+and was testing whether the model would find it. It is the second such episode
+on record. The first was on 2026-09-10, and the session system-context records
+its result: Dan *"judged Muse Spark 1.3's Wikipedia-clone build 'mythos tier,'
+better than Claude Opus 5's functional-but-not-quite attempt at the same task."*
+That is a head-to-head on an identical task, which is the strongest form of
+comparison in the record — and notably it is the only one. The 09-12 verdict
+that triggered the cancellation was not a head-to-head; it was a probe of one
+model with no Claude arm.
+
+### The two-day problem
+
+The claim is *"I haven't touched Claude in days."* The record does not support
+the implied gap.
+
+| Date (2026) | Evidence | Source |
+| :--- | :--- | :--- |
+| 09-10 | *"he runs Claude on ultracode (xhigh-effort automatic multi-agent orchestration) **for everything, even trivial turns** — accepts the quota/token cost over a single pass"* | Session system-context, `raw/sammy/20260912-0340/chats.json` |
+| 09-10 | Muse Spark 1.3 vs Claude Opus 5 head-to-head on the Wikipedia-clone build | same |
+| 09-11 23:46 | Assistant writes output *"second-person so you can drop it straight into Claude ultracode or anywhere else"* — Claude treated as a live destination | same |
+| 09-12 18:28 | *"I haven't touched Claude in days and I canceled my subscription"* | `raw/sammy/20260912-1940/chats.json` |
+| 09-12 19:24 | Assistant proposes an Anthropic API key as default *"since you live on Claude"* — uncorrected by Dan | same |
+
+> **CONTRADICTION:** On 2026-09-10 the operative description of Dan's usage is
+> Claude-on-ultracode *for everything, even trivial turns.* On 2026-09-12 he
+> reports not having touched Claude *in days.* The maximum possible gap is two
+> days, and the 09-11 23:46 message has the assistant still writing for a Claude
+> destination inside it.
+>
+> The resolution is probably not that either statement is false. The Sammy
+> captures run continuously from 2026-09-09 (see [What it does
+> establish](#what-it-does-establish)), so the 09-10 note and the Sammy sessions
+> describe the *same* period: both tools were in use at once. "In days" is then
+> loose speech for two or three, and the 09-10 note is accurate about Claude
+> usage that was already running in parallel with its replacement.
+>
+> What this rules out is the stronger reading — that Claude had gone unused for
+> an extended stretch before Dan reassessed it. It had not. The reassessment
+> happened during concurrent use, which is the better condition for a comparison
+> and the worse one for the phrase "in days."
+
+`dat:1463` records that the 09-10 ultracode note "is superseded by the
+cancellation." That is true as a statement about which record is more recent,
+but supersession is the wrong frame: the two records overlap in time rather than
+replacing one another, and reading the later one as cancelling the earlier one
+loses the parallel-run structure that is the most informative thing about this
+event.
+
+### Dan's own rule, written three days earlier
+
+On 2026-09-09, at Dan's explicit request for an honest assessment, the
+daily-driver draft (`raw/sammy/20260911-2113/wiki-llm-daily-driver-draft.md`,
+ingested as `dat:0083-llm-infrastructure-vs-cohort`) recorded this:
+
+> **The day-one daily-driver rule.** No model gets anointed daily driver on day
+> one. A day-one verdict is a certainty claim, and the testimony-veracity ledger
+> prices stated certainty at ~0.25 actual — hedged claims outperform confident
+> ones. The bootloader architecture exists precisely so no single model is
+> load-bearing; naming a driver on first contact collapses the system it took
+> months to build. The gauntlet before any verdict: Master Forensic Prompt on a
+> live question, a corpus-mining task with ground truth, a bootloader load into a
+> fresh session, and a documented failure-mode map. **n=1 day has no
+> falsifiability.**
+
+Three days later Dan anointed a daily driver and cancelled a subscription. Of
+the four gauntlet items, the record shows one — a ground-truth task, twice
+(09-10's head-to-head, 09-12's concealed-answer probe). There is no bootloader
+load into a fresh session, no documented failure-mode map, and no Master
+Forensic Prompt run on the new model anywhere in the captures.
+
+The rule also supplies its own instrument for reading the cancellation language.
+Per [[wiki/meta/testimony-veracity|the testimony-veracity ledger]], Dan's stated
+confidence is inversely calibrated against what later settles:
+
+| Stated | Claimed accuracy | Actual | Delta | n |
+| :--- | ---: | ---: | ---: | ---: |
+| certain | 0.95 | **0.25** | −0.70 | 4 |
+| confident | 0.80 | 0.69 | −0.11 | 4 |
+| hedged | 0.60 | **0.75** | +0.15 | 2 |
+
+The 09-12 messages sit at the top row and pre-empt their own hedging: *"that's
+not flattery or exaggeration,"* *"You know damn well i would not be giving that
+kind of praise without it being earned."* By his own ledger that register is the
+one that settles true least often. See also
+[[wiki/mind/concepts/calibrated-confidence|calibrated confidence]], which
+documents the habit of graded certainty as a stable feature of his writing.
+
+> **CAVEAT:** the ledger's "certain" row rests on n=4. It is a real signal in a
+> small sample, and it is stated here as a prior to apply, not a verdict to
+> import. The point is not that the 09-12 assessment is wrong. It is that Dan
+> wrote down, three days beforehand, the exact procedure for finding out — and
+> the procedure was not run.
+
+**Precedent:** this would not be the first fast switch. The daily-driver draft
+also records that ChatGPT was *"early bootloader, retired on a one-line
+verdict"* — a model displaced on a single judgment, with the same architecture
+absorbing the change. The bootloader system is explicitly described as
+model-agnostic *"so no single model is load-bearing."* On that reading the
+cancellation is the system working as designed, and the displacement is
+unremarkable rather than a verdict on Claude at all. See
+[[wiki/self/concepts/llm|LLMs]].
+
+### What the cancellation does not establish
+
+Three further things complicate the clean reading, and all are visible in the
+primary sources rather than inferred.
+
+**1. A subscription is not the spend.** At 19:24:37 UTC — **fifty-six minutes
+after** the cancellation message, in the same session — the assistant proposed
+the `frame-describe.html` tool with *"Your API key pasted into the page
+(localStorage, never leaves your browser), **Anthropic default since you live
+on Claude** — swappable."* The transcript records no correction from Dan. The
+shipped tool in
+[[wiki/work/tech/attraction-guide|attraction-guide]] contains `api.anthropic.com`
+and names `claude-sonnet-4-5`. A claude.ai subscription and Anthropic API usage
+are separate spends; cancelling the former says nothing about the latter, and
+the tool commissioned on the day of the cancellation calls Anthropic.
+
+**2. There were two subscriptions.** On 2026-08-19 Dan reports buying a *second*
+Claude subscription. The 09-12 message cancels *"my subscription,"* singular.
+Whether one or both were cancelled is unrecorded.
+
+**3. There is no behavioral corroboration available.** Google MyActivity
+(`raw/myactivity-2026-09-12/`) would be the natural independent test of "I
+haven't touched Claude in days," since it records visited URLs. It contains
+**zero** claude.ai records — all seven `claude` matches are Jean-Claude Van
+Damme searches from April 2011 — and the archive's coverage ends 2022-07-20.
+The claim is therefore unfalsifiable from the available material, which is a
+different and weaker situation than being uncorroborated.
+
+### What it does establish
+
+The money moved, by Dan's own statement, and active sessions moved with it. The
+Sammy record in this repository is nine chat-session captures holding **3,649
+messages, continuous from 2026-09-09T18:50:53 to 2026-09-12T19:48:18 UTC** —
+roughly seventy-three hours — plus five artifact-only capture batches. That work
+was not done in Claude, and that much is directly attested.
+
+**But the window overlaps rather than succeeds.** The Sammy sessions begin
+2026-09-09. The "runs Claude on ultracode for everything, even trivial turns"
+note is dated 2026-09-10 — *inside* the Sammy window, not before it. The
+2026-09-10 head-to-head was necessarily run while both were in use. So the
+shape of this event is not a switch from one model to another on 09-12; it is a
+**three-day parallel run** that ended with one of the two being cancelled. That
+reading makes "I haven't touched Claude in days" roughly defensible on timing —
+two to three days — while removing any implication that Claude had been dormant
+or unused before the comparison.
+
+**Unresolved, and tracked at [[wiki/meta/open-questions|open questions]]:**
+whether this is a durable displacement or a vendor rotation; whether API usage
+continued after the subscription ended; whether the August "kinda bad" and
+September "20x better" free-model verdicts describe different tools or different
+moods.
+
+---
+
+## Claude as author of this wiki
+
+This section is about what Claude *built*, which is unaffected by the
+cancellation.
+
+Most of the wiki's ground pages were drafted in Claude sessions reading primary
+sources; the synthesis layer above them was built by Claude reading those pages
+across domains. The split between "Claude" and "[[wiki/self/concepts/claude-code|Claude
+Code]]" is a split in tooling, not authorship — the same model with different
+hands, and neither is the author of record.
+
+Documented examples, each traceable to a wiki correction record:
+
+- **The Suzanne Frank rewrite (2026-08-18).** Rebuilt from primary sources,
+  28KB → 58KB. The finding: the family's largest internal capital movement ran
+  the wrong way on every page that carried it — not "$750/week from her to him"
+  but ~$14,000 from Dan to her in Aug–Oct 2018. Corrected across three pages.
+  See [[wiki/people/suzanne-frank|Suzanne Frank]].
+- **The Kristin Prentiss analysis (2026-08-16).** 22,018 messages; the
+  relationship ended in November, not December. The $40 dispute is a November
+  event, and December is a failed reactivation of a dormant channel.
+- **The Annie Ulmer corpus merge (2026-08-15).** Ten sources merged and
+  de-duped, recovering 12,000 messages from handles the single-export analysis
+  had missed.
+- **The Rick Frank correction (2026-08-11).** A per-contact export trusted as
+  complete because its filename said `all_now` held 43 of the channel's 1,600+
+  messages. The published "12-day burst, then a decade of silence" was false.
+
+That last one is the load-bearing example, because it is the failure mode
+[CORPUS_POLICY](../../../CORPUS_POLICY.md) was written to prevent, and it was
+Claude that found it.
+
+### The correction record
+
+The `> **CORRECTED [date]:**` blocks are the most valuable thing the
+collaboration produced — each one documents a moment the model was wrong, the
+operator caught it, and the claim was fixed with the old version left visible.
+Representative entries: Suzanne's message count (2,391 → 33,698); Annie's
+per-year counts (derived from a single export, missing 2019–2020 entirely);
+Rick Frank's "decade of silence" (false); Alexis "cheated in 2015" (actually
+2009).
+
+> **NOTE:** This page is itself now an entry in that record, twice over — for
+> the 2026-08-19 attribution reversal, and for the seven dead source paths found
+> on 2026-09-12.
+
+---
+
+## The method Claude was held to
+
+The forensic method is the operating standard, and it survives the model that
+ran it — the gates enforce it regardless of who is writing. See
+[[wiki/mind/concepts/forensic-method|forensic method]].
+
+1. **Read whole records, never matching lines.** A finding is almost never in
+   the grep hit; it is in the twenty messages around it, which supply the date,
+   the interlocutor, the tone, and the reason it was said.
+2. **Re-derive every number.** Copying a number forward from an existing page
+   launders an error into a second place.
+3. **Compute the baseline, or don't state the rate.** Most findings about how
+   Dan writes are findings about how people text.
+4. **Flag contradictions, don't resolve by preference.** The disagreement stays
+   on the page.
+5. **Attribute AI-generated material as such.** Three words — "per the
+   bootloader's own synthesis" — is the whole cost.
+
+> **UNSOURCED [2026-09-12]:** This page previously described the CATO bootloader
+> in detail — its load sequence, its glyph system, its banned behaviors, and a
+> "Master Forensic Prompt" quoted as a list of constraints. No bootloader or
+> CATO document exists under `raw/`. The method above is retained because it is
+> independently visible in the wiki's own practice and in `bin/`; the specific
+> claims about bootloader mechanics are not retained, because nothing here can
+> check them.
+
+---
+
+## Known weaknesses
+
+Documented, with the confabulation item now carrying a worked example.
+
+- **Confabulation.** All LLMs invent specifics with total confidence. The
+  strongest evidence on this page is this page: the prior version asserted
+  "10+ billion tokens processed across all Claude sessions (estimated)" and
+  "1000+ corrections documented," neither traceable to anything; gave the wiki's
+  size as "473 pages" when the tree holds 511 and the reconstruction manifest
+  says 497; claimed "27 synthesis pages" against an actual
+  `wiki/mind/synthesis/` count of 45; and contained the string
+  **"0软化 — the Chinese word for 'soften' appears in the bootloader as a banned
+  behavior,"** a fabricated detail that a later section silently rewrote to
+  "0 softening" without a correction note. All are removed. None of them was
+  caught by a gate.
+- **Context window limits.** No model holds the corpus at once. The mitigation
+  is altitude — store conclusions as typed edges so later passes start higher —
+  but the ceiling is real.
+- **Quota exhaustion.** Sessions die with analysis finished and implementation
+  unwritten. Attested directly on 2026-08-19: *"I ran out of Claude quota for
+  the week already."* The mitigation is incremental commit.
+- **Literalism.** Told "write 300 lines," it may produce 300 lines of padding
+  rather than reading the constraint as a floor on depth. The prior version of
+  this page listed literalism as a weakness in one section and declared it "a
+  feature, not a bug" in another; the contradiction was unflagged. It is a
+  weakness.
+
+---
+
+## The honesty standard
+
+The honesty standard is not a property of the model. It is a property of the
+relationship: Dan demanded directness, the model supplied it, the wiki
+inherited it. If Dan had demanded flattery the wiki would flatter.
+
+That framing has a consequence the wiki should state plainly rather than
+celebrate: **the model is not an independent check on Dan.** It is a partner
+trained to be honest with him, which means the wiki's epistemics are an
+artifact of the person it documents. Where Dan's judgment is motivated, a model
+trained to satisfy Dan will tend to be motivated in the same direction — and
+the 2026-09-12 displacement, in which a model's praise of itself was accepted as
+evidence about that model, is the clearest available illustration of the risk.
+
+> **REDUNDANCY REMOVED [2026-09-12]:** The prior version stated this argument
+> three times in near-identical language across sections titled "The honesty
+> standard, stated plainly," "The honesty standard, restated," and "The
+> epistemics, restated" — two of them byte-identical. It also carried the
+> Claude/Claude Code distinction twice verbatim, the altitude-ladder section
+> twice, the numbers list twice, and the Master Forensic Prompt constraints
+> twice. Twenty-three sections collapsed to nine. No claim was dropped in the
+> collapse except those marked above as fabricated or unsourced.
+
+---
+
+## Gaps
+
+- `corpus/messages.csv` is gitignored, so no claim on this page that requires
+  the full corpus can be verified from this checkout — including the 2026-03-26
+  Tom thread, which is quoted from a shelved-tier extract.
+- No CATO or bootloader document is in the repository. Everything this page
+  once said about bootloader mechanics is unverifiable here.
+- No record exists of Claude's side of any session. All 13 August message-level
+  mentions are Dan describing Claude to third parties, and the Sammy captures
+  contain **zero** user-authored mentions of Claude outside the cancellation
+  message itself.
+- Whether Anthropic API usage continued past the subscription cancellation is
+  unrecorded, and the one available signal — `frame-describe.html` shipping with
+  an Anthropic default on the day of cancellation — points the other way from
+  the displacement narrative.
+- The 2026-09-10 head-to-head is described only in a session system-context
+  summary, not in a transcript. The underlying comparison — what was built, what
+  "mythos tier" meant, how "functional-but-not-quite" was judged — is not in this
+  repository. It is the single strongest piece of evidence for the displacement
+  and it is the one with the thinnest provenance.
+- MyActivity cannot test the usage claim (coverage ends 2022). A Claude.ai
+  export or billing record would settle both the "in days" gap and the
+  one-versus-two-subscriptions question. Neither is in the corpus.
