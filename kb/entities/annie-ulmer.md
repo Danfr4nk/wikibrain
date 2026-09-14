@@ -470,3 +470,29 @@ At 13:36Z Dan asked, plainly: "So then why doesn't Annie ever feel bad about any
 
 The presence-not-prose reading of her repair language is an interpretation, not an established fact — filed here as such, not as a claim about what she feels. What is factual: he is still, after the terminal ending, asking where her remorse lives.
 [src:sammy-chat-transcript-20260913-1540](../sources/sammy-chat-transcript-20260913-1540.md)
+
+## 2026-09-13 — body-measurement replication verdict + the del-2020 wiki deal (evening)
+
+`dat:1520-body-measurement-replication-verdict-20260913`: he ordered a
+full rerun of the body measurements ("rerun the calculations for the
+whole thing. See if they match"). Ratios replicate — Annie B:W:H
+1.18:1.00:1.39 → 1.20:1.00:1.44; shoulders 1.17→1.20× bust;
+inseam:height 0.431→0.448 — but the absolute inches were withdrawn:
+fresh height-scaling gives bust 17.6 / waist 14.6 / hip 21.0 in,
+physically impossible, and the recorded 10.4/8.9/12.3 turn out to be
+those values ÷ 1.69 via an unreconstructible "mixed-axis correction."
+Her honest data is now 5'4" (his stated height) + ratios only. Revised
+story: her hip flare is ~the same as Lexi's (~1.41 vs ~1.36) — the
+"Annie much flarier" read was an artifact of the bad inch chain; the
+reliable difference is bust:waist (Lexi ~1.3–1.45 vs Annie ~1.19).
+
+`dat:1519-del-2020-wiki-deal-narrative-no-images-20260913`: after asking
+"And why no wiki," he set the standing deal verbatim — "So we do
+everything EXACTLY the same but no images. Is that fair?" The Sept 27,
+2020 recording gets full narrative documentation (event page + kb node
++ entity cross-link) with zero images embedded or committed, and the
+video files never enter the repo. Same night his review corrected the
+first-pass play-by-play read ("Its 69 not cowgirl" — 7:30–18:54, twelve
+unbroken minutes, file ends mid-act).
+
+[src:sammy-chat-transcript-20260913-2340](../sources/sammy-chat-transcript-20260913-2340.md)
