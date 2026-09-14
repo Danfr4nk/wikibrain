@@ -5,7 +5,7 @@ title: "The 2020 Left Turn"
 status: stable
 knowledge: earned
 date_created: 2026-07-16
-date_modified: 2026-09-03
+date_modified: 2026-09-14
 sources:
   - "raw/self/dox-scan/all_imessages_complete_dump.txt"
   - "raw/self/dox-scan/Dan Profile.txt"
@@ -31,7 +31,7 @@ connections:
     claim: "The share of original tweets touching politics roughly doubles into 2020 and again into 2021 under every pattern tried, bracketing the August 2020 self-narration from an independent record — while finer per-year claims proved unmeasurable by keyword matching and were withdrawn the day they were published."
   - page: wiki/timeline/periods/covid-era-2020
     type: caused-by
-    claim: "The lockdown is the documented condition of the conversion — the 2020-08-22 self-narration dates the Marx/Kropotkin reading and the Chapo/Hasan/ContraPoints binge to 'since i've been stuck inside'."
+    claim: "The lockdown is the documented condition of the conversion — the 2020-08-22 self-narration dates the Marx/Kropotkin reading and the Hasan Piker / Chapo Trap House / Thoughtslime binge [pipeline list corrected 2026-09-14, work-0033 — ContraPoints appears in no Dan-authored primary record alongside Chapo and is not in the self-narration's credit line] to 'since i've been stuck inside'."
   - page: wiki/mind/synthesis/political-psyops
     type: contextualizes
     claim: "Supplies the origin event for the settled anti-capitalist ideology that page analyzes: the democratic-socialist label has a birthday, 2020-08-22."
@@ -245,9 +245,11 @@ the media-pipeline story below never had to account for and now does.
 
 ## A second causal account, in his own words, from 2022
 
-This page's mechanism is media plus reading under lockdown: Chapo, Hasan,
-ContraPoints, then Marx and Kropotkin. That is what the 2020-08-22
-self-narration says, and it is well evidenced.
+This page's mechanism is media plus reading under lockdown: Hasan Piker,
+Chapo Trap House, Thoughtslime, then Marx and Kropotkin — in the order the
+2020-08-22 self-narration itself names them, and ContraPoints is not on the
+birth certificate (see the media-pipeline correction, 2026-09-14, work-0033).
+That is what the 2020-08-22 self-narration says, and it is well evidenced.
 
 Two years later he gave a **different** account of the same conversion, and it
 is not in this page. On **18 July 2022**, addressing Opie of
@@ -271,14 +273,29 @@ prior tribe** rather than only an arrival at a new one — which is a different
 psychological event, with different predictions about how stable it is.
 
 It is also addressed to the host of the show himself, which makes it a
-considered statement rather than an aside.
+considered statement rather than an aside — and it is not the only one. The
+2022 Opie address is one of four host-level data points across 2022–2024: the
+same hand praised @cushbomb (Matt Christman) by name on 2022-11-01, cc'd
+@willmenaker and @ByYourLogic (Felix Biederman) directly on 2024-08-02, and
+named "Felix and Adam" on election eve 2024 — all documented in the
+*Named-host engagement* section of [[wiki/interests/chapo-trap-house]]. He
+addresses hosts repeatedly, not once, which is the mark of sustained engagement
+with the ecosystem rather than a single tweet fired into the void.
 
-**The gap, and it is annoying.** The tweet is marked **(1/3)** and parts 2 and
-3 are **not in the archive** — no matching tweet exists anywhere in the 2,525
-originals. The most causally explicit thing Dan ever said in public about his
-own radicalization survives as its first third. The official X export would
-recover the rest; see [[wiki/self/twitter]] for the two other reasons that
-export is now wanted.
+**The gap is closed [2026-09-14, work-0033].** The claim that the tweet's
+parts 2 and 3 were missing from the archive is withdrawn: the corpus holds all
+three parts, posted 2022-07-18 within the same minute (00:46:53–54 UTC), and
+the earlier "no matching tweet exists anywhere in the 2,525 originals" was a
+search artifact, not a loss. What the complete thread adds is part 3, and it
+changes the reading: Dan turns to Opie and pitches him an audience-development
+strategy — Opie is *"missing a huge opportunity to be embraced among the
+'dirtbag left' class of shows like chapo trap house, cumtown (RIP) and
+streetfight radio by going full progressive."* He is not only describing what
+the O&A exodus did; he is recruiting the departed host into the dirtbag-left
+category, naming its shows the way a programmer names a slot. The
+radicalization account is thus also a sales pitch — he believes the category
+enough to market it. [[wiki/interests/chapo-trap-house]] dates the full thread
+and carries the earlier August-4 correction.
 
 ## 2011: eleven years of anti-authority with no economics in it
 
@@ -397,7 +414,7 @@ each with independent activity:
 |--------|----------------------|
 | Chapo Trap House | 2020-02: "do you listen to chapo?", "there's a podcast called 'chapo trap house'", "i just spent 7 hours listening to the chapo trap house audiobook" (*The Chapo Guide to Revolution*); shares r/ChapoTrapHouse and their SoundCloud |
 | Hasan Piker | 2019 Twitch account activity (2FA/security-code SMS through 2019); Twitch is Hasan's platform |
-| ContraPoints | 2020-08 "that video and contrapoints explained a lot to me"; 2020-10 "new contrapoints" |
+| ~~ContraPoints~~ | **Correction [2026-09-14, work-0033]: pipeline membership withdrawn.** The 2020-08 *"that video and contrapoints explained a lot to me"* and 2020-10 *"new contrapoints"* evidence stands, but ContraPoints appears in no Dan-authored primary record alongside Chapo — she was never in the 2020-08-22 self-narration's credit line (Hasan Piker, Chapo Trap House, Thoughtslime, in that order), so the pipeline this page documents is Hasan/Chapo/Thoughtslime, and she sits adjacent to it, not inside it. |
 | Thoughtslime | named directly in the 2020-08-22 conversion message |
 | The Majority Report / Sam Seder | listed as a core channel in Dan Profile.txt; heavy in YouTube history 2022+ |
 
@@ -435,7 +452,10 @@ book-length continuation of the same 2020 turn.
 
 His profile files him flatly as "democratic socialist / anti-capitalist."
 That label has a birthday. The 2020 left turn is a discrete, self-aware,
-COVID-era radicalization event — media-driven (Chapo/Hasan/ContraPoints),
+COVID-era radicalization event — media-driven (Hasan Piker, Chapo Trap House,
+Thoughtslime [ContraPoints removed from the pipeline list, 2026-09-14,
+work-0033 — she appears in the viewing evidence but never in the 2020-08-22
+self-narration's credit line]),
 text-reinforced (Marx/Kropotkin), electorally seeded (Bernie), and
 emotionally clinched by turning the new lens on his own family's
 union-busting money. It belongs in the timeline as an event, not just as
