@@ -149,6 +149,15 @@ A second dated vet visit confirms Milo was with Dan through the fall-2025
 Annie collapse: on 2025-10-15 Dan texted [[wiki/people/kristin|Kristin]],
 "Sorry I'm at the vet with milo I'll message you when I get home."
 
+The visual record matches the textual one. A curated Dan-album selfie shows
+exactly the attachment the messages describe: Milo's head fills half the
+frame, nuzzling into Dan's face, Dan in a black hoodie looking past the dog
+into the camera — the exclusivity ("trusts no one else the way he trusts
+him") made literal in the composition. It is the one photograph on this page
+of the two of them together, and it earns the placement: everything else here
+is about what the dog *does* in the record, this is what he looks like doing
+nothing at all.
+
 ## The dog as the last open channel
 
 Everything above treats Milo as the thing analysis is kept away from. The
@@ -301,3 +310,9 @@ happened next. See [[wiki/timeline/events/august-2026-morgantown-call]].
 
 
 
+
+## Sources
+
+[![Dan and Milo](../media/gphotos-010.jpg)](../media/gphotos-010.jpg)
+
+*Google Photos Dan album, curated 2026-09-14 — Dan selfie with Milo the Chihuahua nuzzling his face.*

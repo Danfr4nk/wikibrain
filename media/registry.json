@@ -1,36 +1,36 @@
 {
   "items": [
     {
-      "analysis_status": "poster-frame-only",
-      "compressed_path": null,
+      "analysis_status": "embedded-2026-09-14",
+      "compressed_path": "wiki/media/gphotos-001.jpg",
       "date": "2018-02-20",
       "description": "Fran Coldren (97) in white turtleneck and dark purple zip fleece, holding a tissue, being offered a hit off a lime-green box-mod vape. Interior, wood-paneled door.",
       "id": "gphotos-001",
-      "linked_nodes": [],
+      "linked_nodes": ["wiki/people/fran-coldren.md"],
       "original_filename": null,
       "poster_sha256": "42411a4206e0376c98ba83f9c19d96d2c7a59352df00274d3d5646189646608b",
       "share_url": "https://photos.app.goo.gl/zBz5oaHZaa4E7maN6",
       "type": "video"
     },
     {
-      "analysis_status": "poster-frame-only",
-      "compressed_path": null,
+      "analysis_status": "embedded-2026-09-14",
+      "compressed_path": "wiki/media/gphotos-002.jpg",
       "date": "2017-11-06",
       "description": "Fran Coldren (97) seated in a striped chair, teal polka-dot pajamas and dark purple chenille zip jacket, holding a PlayStation DualShock 4 controller (light bar lit). Sunroom, white blinds, green carpet.",
       "id": "gphotos-002",
-      "linked_nodes": [],
+      "linked_nodes": ["wiki/people/fran-coldren.md"],
       "original_filename": null,
       "poster_sha256": "b3269a4367d98b733bce31b3c0693201daf2d61eeb303b357fc00488c63c70f7",
       "share_url": "https://photos.app.goo.gl/6SP4RkGeDkQRcZuK9",
       "type": "video"
     },
     {
-      "analysis_status": "poster-frame-only",
-      "compressed_path": null,
+      "analysis_status": "embedded-2026-09-14",
+      "compressed_path": "wiki/media/gphotos-003.jpg",
       "date": "2017-11-11",
       "description": "Blurry motion frame: figure in dark purple zip jacket over pink top, gold oval locket/pendant visible, standing. Dim interior, beige carpet.",
       "id": "gphotos-003",
-      "linked_nodes": [],
+      "linked_nodes": ["wiki/people/fran-coldren.md"],
       "original_filename": null,
       "poster_sha256": "831ae391d813a4364a9273ce028525a13538a9ee3ed7a551591d9391463c27eb",
       "share_url": "https://photos.app.goo.gl/fhDLMBs84t3kH6XC7",
@@ -44,9 +44,9 @@
       "original_filename": null,
       "poster_sha256": "8e91244d0168c31fed7ca05ee9398ef3b8dfc26fb6e2fc055f2b06a3dee186e3",
       "description": "Daytime poster frame: Fran Coldren in Stryker hospital bed, oxygen mask, Uniontown Hospital pediatric wing. Same room as upload-002.",
-      "analysis_status": "poster-frame-only",
-      "compressed_path": null,
-      "linked_nodes": []
+      "analysis_status": "embedded-2026-09-14",
+      "compressed_path": "wiki/media/gphotos-004.jpg",
+      "linked_nodes": ["wiki/people/fran-coldren.md"]
     },
     {
       "id": "upload-001",
@@ -60,8 +60,8 @@
       "duration_s": 39.27,
       "description": "Nighttime vigil video: Fran in Stryker bed, oxygen mask, dark room; a hand (Dan's) enters frame near the end. The video reviewed for the 23:26 retraction.",
       "analysis_status": "analyzed-frames-only",
-      "compressed_path": null,
-      "linked_nodes": []
+      "compressed_path": "wiki/media/upload-001.jpg",
+      "linked_nodes": ["wiki/people/fran-coldren.md"]
     },
     {
       "id": "upload-002",
@@ -75,8 +75,8 @@
       "duration_s": 9.6,
       "description": "Daytime: Fran in Stryker bed, oxygen mask, eyes open and looking around. Dan's label: her condition several hours before the night video.",
       "analysis_status": "analyzed-frames-only",
-      "compressed_path": null,
-      "linked_nodes": []
+      "compressed_path": "wiki/media/upload-002.jpg",
+      "linked_nodes": ["wiki/people/fran-coldren.md"]
     },
     {
       "id": "upload-003",
@@ -90,8 +90,8 @@
       "duration_s": 32.57,
       "description": "Close-up: Fran in pink top and white turtleneck, talking, drinking from a cup with a straw. Nursing-home room.",
       "analysis_status": "analyzed-frames-only",
-      "compressed_path": null,
-      "linked_nodes": []
+      "compressed_path": "wiki/media/upload-003.jpg",
+      "linked_nodes": ["wiki/people/fran-coldren.md"]
     },
     {
       "id": "upload-004",
@@ -105,8 +105,8 @@
       "duration_s": 4.73,
       "description": "Blurry motion clip: Fran in wheelchair, pink top, orange wristband. Nursing-home room.",
       "analysis_status": "analyzed-frames-only",
-      "compressed_path": null,
-      "linked_nodes": []
+      "compressed_path": "wiki/media/upload-004.jpg",
+      "linked_nodes": ["wiki/people/fran-coldren.md"]
     },
     {
       "id": "upload-005",
@@ -120,8 +120,8 @@
       "duration_s": 49.77,
       "description": "Fran in wheelchair, agitated and restless, leaning forward, distressed. Nursing-home room, bed and patterned recliner visible.",
       "analysis_status": "analyzed-frames-only",
-      "compressed_path": null,
-      "linked_nodes": []
+      "compressed_path": "wiki/media/upload-005.jpg",
+      "linked_nodes": ["wiki/people/fran-coldren.md"]
     },
     {
       "id": "upload-006",
@@ -135,8 +135,8 @@
       "duration_s": 43.37,
       "description": "Fran in wheelchair (pink top, patterned pants, orange wristband), agitated, mouth open, gesturing; a hand steadies her shoulder; she wipes her face. Hallway with room 3 visible. Nursing-home room.",
       "analysis_status": "analyzed-frames-only",
-      "compressed_path": null,
-      "linked_nodes": []
+      "compressed_path": "wiki/media/upload-006.jpg",
+      "linked_nodes": ["wiki/people/fran-coldren.md"]
     },
     {
       "id": "upload-007",
@@ -150,8 +150,8 @@
       "duration_s": 12.53,
       "description": "Nighttime sunroom: Fran seated in black-and-white patterned jacket; Suz (per Dan, 2026-09-11) in white stands over her, leans in talking, then walks away.",
       "analysis_status": "analyzed-frames-only",
-      "compressed_path": null,
-      "linked_nodes": [],
+      "compressed_path": "wiki/media/upload-007.jpg",
+      "linked_nodes": ["wiki/people/fran-coldren.md"],
       "participants": [
         "fran-coldren",
         "suzanne-frank (per Dan testimony)"
@@ -169,8 +169,8 @@
       "duration_s": 18.02,
       "description": "Nighttime sunroom, same scene: Fran (92, per Dan) seated in patterned jacket roasts Suz (in white, per Dan); Suz leaves; Fran keeps talking, ends smiling/laughing. Dan: Suz could not handle it. The line itself is audio-only.",
       "analysis_status": "analyzed-frames-only",
-      "compressed_path": null,
-      "linked_nodes": [],
+      "compressed_path": "wiki/media/upload-008.jpg",
+      "linked_nodes": ["wiki/people/fran-coldren.md"],
       "participants": [
         "fran-coldren",
         "suzanne-frank (per Dan testimony)"
@@ -217,9 +217,9 @@
       "original_filename": null,
       "poster_sha256": "d34f8acf645ac3dcd6faec4ccf8b5d2666102956cfd16c3cca28e093c6788c12",
       "description": "Photo of an album page: young Fran (blonde bouffant, navy turtleneck, mint shorts, red golf glove) holding a leather golf bag on a Florida golf course, palm trees.",
-      "analysis_status": "analyzed-full-res",
-      "compressed_path": null,
-      "linked_nodes": []
+      "analysis_status": "embedded-2026-09-14",
+      "compressed_path": "wiki/media/gphotos-005.jpg",
+      "linked_nodes": ["wiki/people/fran-coldren.md"]
     },
     {
       "id": "gphotos-006",
@@ -229,9 +229,9 @@
       "original_filename": null,
       "poster_sha256": "6af3ad3d52ef6cc5fb3b18a396ffb16058d2ab8d9bddd461d178a96f794a0c03",
       "description": "Fran and her husband Thomas M. Whyel posing in front of a private plane with Arnold Palmer livery. Winter coats.",
-      "analysis_status": "analyzed-full-res",
-      "compressed_path": null,
-      "linked_nodes": []
+      "analysis_status": "embedded-2026-09-14",
+      "compressed_path": "wiki/media/gphotos-006.jpg",
+      "linked_nodes": ["wiki/people/fran-coldren.md"]
     },
     {
       "id": "gphotos-007",
@@ -241,9 +241,9 @@
       "original_filename": null,
       "poster_sha256": "c00264cd9c9529f0837007006fd08395191d79edfb26b4a13900cf36ca622e43",
       "description": "Fran at an indoor party with two men; one kisses her cheek.",
-      "analysis_status": "analyzed-full-res",
-      "compressed_path": null,
-      "linked_nodes": []
+      "analysis_status": "embedded-2026-09-14",
+      "compressed_path": "wiki/media/gphotos-007.jpg",
+      "linked_nodes": ["wiki/people/fran-coldren.md"]
     },
     {
       "id": "gphotos-008",
@@ -253,9 +253,9 @@
       "original_filename": null,
       "poster_sha256": "c2113aa6f7e4fe755753f4ea42d183bf4ae59458b8a8459b0cf7283f6e740b0b",
       "description": "Scrapbook page: newspaper clippings — 1969-06-22 hole-in-one (No.5 wood, 153 yds, No.11, Uniontown CC); UCC Women's Golf Assn championship (Mrs. Thomas M. Whyel, 342/72 holes, won by 7); 1959-04-27 Miami Herald first ace (8-iron, 113 yds, 13th hole, LaGorce CC); plus trophy photo of Fran in striped turtleneck.",
-      "analysis_status": "analyzed-full-res",
-      "compressed_path": null,
-      "linked_nodes": []
+      "analysis_status": "embedded-2026-09-14",
+      "compressed_path": "wiki/media/gphotos-008.jpg",
+      "linked_nodes": ["wiki/people/fran-coldren.md"]
     },
     {
       "id": "gphotos-009",
@@ -265,9 +265,9 @@
       "original_filename": null,
       "poster_sha256": "b493c947d4afdc7d7e4ef5d0574135f04f4f6234d14db57ae48423f9b5636e56",
       "description": "Scrapbook page: Arnie's Army in Uniontown clipping (Arnold Palmer shot 64 as guest of Mr. and Mrs. Thomas Whyel); photos of Fran with Palmer at dinner, dancing with a man in gray suit, and a man holding a toddler.",
-      "analysis_status": "analyzed-full-res",
-      "compressed_path": null,
-      "linked_nodes": []
+      "analysis_status": "embedded-2026-09-14",
+      "compressed_path": "wiki/media/gphotos-009.jpg",
+      "linked_nodes": ["wiki/people/fran-coldren.md"]
     },
     {
       "id": "upload-009",
@@ -279,8 +279,8 @@
       "sha256": "0eca317eeb5f95fd89d849f39f05eb97fb995dfeea1ca5b1728d13ba9e5e7d4d",
       "description": "Fran's living room (fireplace, walker, recliner). A blonde woman in a pink turtleneck sits at a table bearing: a black game controller, two TV remotes, a glass of amber liquid, her purse, a small plastic bag, a blue-and-white container that Dan identifies (2026-09-11) as Suz's coke holder (disguised as a cigarette pack), and a black case Dan identifies as a jewelry scale. Dan's point: Fran is alive, well, and lucid, sitting ~5 feet away in her armchair — the paraphernalia is out on the table in front of her, not hidden.",
       "analysis_status": "analyzed-full-res",
-      "compressed_path": null,
-      "linked_nodes": []
+      "compressed_path": "wiki/media/upload-009.jpg",
+      "linked_nodes": ["wiki/people/fran-coldren.md"]
     },
     {
       "id": "upload-010",
@@ -4244,6 +4244,81 @@
       "compressed_path": "media/derivatives/chat-uploads/geoguessr-arena-20260914-poster.jpg",
       "share_url": null,
       "linked_nodes": []
+    },
+    {
+      "id": "gphotos-010",
+      "type": "photo",
+      "date": "Google Photos Dan album (sampled 2026-09-11, curated 2026-09-14)",
+      "share_url": null,
+      "original_filename": "d1.jpg",
+      "original_location": "Google Photos Dan album (canonical; local copy at workspace/danalbum/d1.jpg, never committed)",
+      "sha256": "725f7e4984c27d418d6bf844b4a16e22f450cd6857911aebb87c55bbdedf3564",
+      "description": "Dan selfie: Milo the Chihuahua's head fills the left of the frame, nuzzling Dan's face; Dan in black hoodie looks into the camera. Curated pick from the Dan album thumbnail sampling (30 thumbnails).",
+      "analysis_status": "embedded-2026-09-14",
+      "compressed_path": "wiki/media/gphotos-010.jpg",
+      "linked_nodes": [
+        "wiki/people/milo.md"
+      ]
+    },
+    {
+      "id": "gphotos-011",
+      "type": "photo",
+      "date": "Google Photos FRAN library (sampled 2026-09-11, curated 2026-09-14)",
+      "share_url": null,
+      "original_filename": "f9.jpg",
+      "original_location": "Google Photos FRAN library album (canonical; local copy at workspace/fran-album/f9.jpg, never committed)",
+      "sha256": "a342ddcde0f70419391116e5001b2337b94f9f6c16f82518d0609de21b1a7e06",
+      "description": "Fran in a pink top on a couch, smiling broadly, holding a small white dog. Curated pick from the FRAN library thumbnail sampling (30 thumbnails).",
+      "analysis_status": "embedded-2026-09-14",
+      "compressed_path": "wiki/media/gphotos-011.jpg",
+      "linked_nodes": [
+        "wiki/people/fran-coldren.md"
+      ]
+    },
+    {
+      "id": "gphotos-012",
+      "type": "photo",
+      "date": "Google Photos DANNIE HISTORY album (sampled 2026-09-11, curated 2026-09-14)",
+      "share_url": null,
+      "original_filename": "a8.jpg",
+      "original_location": "Google Photos DANNIE HISTORY album (canonical; local copy at workspace/danannie-album/a8.jpg, never committed)",
+      "sha256": "fd744581da22a3eb0976e5129a9269074b5a31a33187eae2347f831cd6a464ea",
+      "description": "Polaroid-style print (photographed on a granite counter): Dan and Annie cheek-to-cheek, both smiling. Curated pick from the DANNIE HISTORY thumbnail sampling (16 thumbnails); the album also holds sensitive medical documents (pregnancy test, ultrasound) which were deliberately not selected.",
+      "analysis_status": "embedded-2026-09-14",
+      "compressed_path": "wiki/media/gphotos-012.jpg",
+      "linked_nodes": [
+        "wiki/people/annie-ulmer.md"
+      ]
+    },
+    {
+      "id": "gphotos-013",
+      "type": "photo",
+      "date": "Google Photos IG stories album (sampled 2026-09-11, curated 2026-09-14)",
+      "share_url": null,
+      "original_filename": "s29.jpg",
+      "original_location": "Google Photos IG stories album (canonical; local copy at workspace/igstories-album/s29.jpg, never committed)",
+      "sha256": "a48b01e5b796a16e43eceafb32034de5397dde2c4fad7bd6872b397c11ebd1da",
+      "description": "IG story graphic: 'SMALL VICTORY — I CORRECTLY PREDICTED THE EV TOTALS ON MY POST LAST WEEK' over a 306-232 electoral map. Dan's election-prediction victory lap. Curated pick from the IG stories thumbnail sampling (30 thumbnails, predominantly political memes).",
+      "analysis_status": "embedded-2026-09-14",
+      "compressed_path": "wiki/media/gphotos-013.jpg",
+      "linked_nodes": [
+        "wiki/mind/politics/index.md"
+      ]
+    },
+    {
+      "id": "gphotos-014",
+      "type": "photo",
+      "date": "Google Photos school-docs album (sampled 2026-09-11, curated 2026-09-14)",
+      "share_url": null,
+      "original_filename": "d4.jpg",
+      "original_location": "Google Photos school-docs album (canonical; local copy at workspace/schooldocs-album/d4.jpg, never committed)",
+      "sha256": "b169d507cb4e52eaf31f433dc01ea536ef8419dde2a34ebc96fe0cb31a99afc0",
+      "description": "Childhood notebook page in thick marker: 'Are you araid of the derk.' above a spiky-headed monster doodle. Curated pick from the school-docs thumbnail sampling (30 thumbnails of childhood drawings and writings).",
+      "analysis_status": "embedded-2026-09-14",
+      "compressed_path": "wiki/media/gphotos-014.jpg",
+      "linked_nodes": [
+        "wiki/self/overview.md"
+      ]
     }
   ],
   "policy": "Originals are never committed to wikitest or RAWLOGS. This registry maps each item to its canonical location (Google Photos share URL or Drive path). Compressed derivatives for wiki entries live under media/<batch-slug>/ and are referenced from the src:/dat: nodes. Censorship rule (2026-09-12, Dan's directive): embedded derivatives showing nudity or sexual activity are pixelated/blurred before commit. The uncensored original stays at its canonical location and is never committed.",

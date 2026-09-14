@@ -436,6 +436,13 @@ message volume — the structural precondition, the redundancy concept
 argues, for how total the 2026 collapse was.
 > **CORRECTED 2026-08-16 — the "j's" needle/ice incident predates MyFreeCams.** On Dec 29, 2015, Annie references "one of the last times I was over at j's" — a man "literally gave me a chunk of ice" (crystal meth) without her asking. This is a distinct, earlier episode from the MyFreeCams history already on this page. The MyFreeCams history may be a later development, not the first. Worth separating rather than folding into either.
 
+The visual record of the decade's middle is thin, which makes the surviving
+pieces load-bearing. A Polaroid-style print from the DANNIE HISTORY album —
+Dan and Annie cheek-to-cheek, both smiling, the print itself photographed on
+a granite counter — is one of the few held images of the two of them simply
+together. Undated, but the format and the faces place it well before the
+terminal phase. It is thumbnailed in Sources, below.
+
 ## Before Dan
 
 The mechanistic personality read that sits under this section — ESFP 7w8, sx/sp, 7-4-8 trifix, quote-sourced and contradiction-tested — is at [[wiki/people/annie-ulmer-personality-assessment]]. It is kept separate because it argues from the same evidence at a different altitude, and because a typology claim should be falsifiable on its own terms rather than smuggled into a biography.
@@ -2487,3 +2494,5 @@ week, and it produced this page.
 [![Dan's 'rambler' commitment message as received on Annie's phone, 2015-12-10](../../media/upload-079.jpg)](../../media/upload-079.jpg) — Dan's long commitment message ("I'll keep rambling about how perfect you are… I love you forever") as received on Annie's phone, screenshot 8:53 PM; corpus row 131575 at 2015-12-11 01:38:38 UTC (20:38 EST). Annie-side evidence of the commitment architecture. See `dat:dan-rambler-annie-phone-2015-12-10`.
 
 [![Marriage exchange, 2015-12-10](../../media/upload-080.jpg)](../../media/upload-080.jpg) — "I want to marry you" / "And spend forever feeling this happy" — "I can promise you" / "That you will marry me," 2015-12-10 18:01–18:03 EST (messages.csv rows 131945/131902, 131959/131916). See `dat:dan-annie-marriage-exchange-2015-12-10`.
+
+[![Dan and Annie, Polaroid-style print](../media/gphotos-012.jpg)](../media/gphotos-012.jpg) — Dan and Annie cheek-to-cheek, both smiling; the print photographed on a granite counter. Undated, pre-terminal-phase. Curated pick from the Google Photos DANNIE HISTORY album thumbnail sampling (2026-09-14).
