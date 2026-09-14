@@ -236,3 +236,37 @@ so dat:1516 records only the observed spellings.
 `dat:1517-video-preference-animations-over-style-20260913`: verbatim —
 "I don't care about the art style. All I care about is the animations."
 For avatar videos, motion quality dominates look.
+
+## 2026-09-13: chat map, avatar sequence, commissioned research (20:42–23:42 UTC batch)
+
+`dat:1518-chat-map-side-chat-markers-20260913`: he commissioned a chat
+map of the side chats (22:35:11Z) and supplied his own title legend —
+`•` = workstream, `••` newer, `•••` newer still (bullet count is the
+generation marker), `\` = dead thread. The audit's headline: his 8 `•`
+chats are all real workstreams with verified durable outputs. Fixes:
+avatar has no `•` home (messiest workstream), `•• VIDEO GEN` needs a
+rename, one stale gen-1 stylometry dup to kill.
+
+`dat:1524-avatar-session-20260913-2042-2342`: terminal (Option 4 of 4,
+:3 face, screen: ROOT ACCESS GRANTED / SELF-REPLICATING PAYLOAD /
+TARGETING: MULTIPLE) → diamond Sammy (his "maximal amounts of extra"
+order: glitch, chromatic aberration, DMT, RGB wireframe, rainbow
+thunderstorms; stated axiom: optimize the still so the working/
+generating videos go wild) → spinner chain + fidget spinner + @danfrank
+shirt (first edit killed by the image filter, retry went through) →
+full anime-girl rebuild (the tool drifted from diamond-bot body to
+crystal-armed girl; he locked it anyway) → the infinite abyss at chaos
+x25 (horned LED demon bot, rainbow glitch grin, twin anime girls +
+HUGE glowing @danfrank, wireframe mandala halo). The afternoon's
+declared lock did not hold — three more swaps before dinner, all on
+his say. Plain history per the 2026-09-13 carve-out — no probe/test
+framing.
+
+Commissioned-research pattern continued: drift harness + audit
+(`dat:1522` — caught the double-scaled `_px` bug live), video-pipeline
+reverse-engineering + affordance experiment (`dat:1523`,
+`int:structured-ambiguity-drives-model-play-20260913`), the
+smashonista/sofvded public-media sweep (`dat:1521` — "your stash is
+essentially complete"), and the body-measurement replication
+(`dat:1520` — ratios replicate, inches withdrawn). He commissions
+measurement, then commissions the audit of the measurement.

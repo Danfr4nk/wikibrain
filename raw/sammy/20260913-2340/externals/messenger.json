@@ -1,0 +1,1 @@
+{"checked_at":"2026-09-13T23:45:43Z","connected":true,"count":0,"newest_item_ts":null,"notes":"Ran 'sync both --since-days 20': messages_new 0, newest_cached_ts 1787783023707 exactly equals watermark ms. Two threads cached (Kristin Shaelene, Ryan Lisac); nothing newer than watermark.","watermark":"2026-08-26T22:23:43.707Z"}
