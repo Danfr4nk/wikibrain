@@ -232,4 +232,22 @@ scale ([[wiki/mind/synthesis/totality-themes]]).
 earlier statement of it exists in the record, so whether it is a long-held
 frame or a recent LLM-era construction is undetermined.
 
+## The monoculture thesis (2026-09-14)
+
+A corollary stated outright on 2026-09-14: Dan found the enormous GeoGuessr
+fandom's invisibility *despite his own heavy internet use* alarming — not a
+failure of his feed but evidence that society is "too disconnected" and
+needs "some kind of common thread among everybody." He compared its
+seriousness to Flash playing Brood War — the fandom takes it as seriously
+as the most serious esports ever took itself — and he treated the
+provocation as a serious thesis, not a throwaway. The observation is the
+witness theory's blind spot made explicit: if the archiving generation can
+miss entire arenas while standing in the waiting room, fragmentation has
+outrun the witness function, and no amount of individual noticing closes
+the gap. What the "common thread" would be is unspecified.
+
+## Sources
+
+[![The GeoGuessr WC grand-final clip Dan filmed off his laptop screen (2026-09-14)](media/derivatives/chat-uploads/geoguessr-arena-20260914-poster.jpg)](#the-monoculture-thesis-2026-09-14)
+
 

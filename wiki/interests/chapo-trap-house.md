@@ -78,11 +78,18 @@ evidence, and the show is still in the rotation.
   the lockdown gave him the reading list to go with it. The wiki holds
   both.
 - **February 2020.** iMessages show him evangelizing it unprompted:
-  *"do you listen to chapo?"*, *"there's a podcast called 'chapo trap
-  house'"*, and *"i just spent 7 hours listening to the chapo trap house
-  audiobook"* — the audiobook being *The Chapo Guide to Revolution*. He
-  shares r/ChapoTrapHouse and the show's SoundCloud in the same
-  exchange. This is a man recruiting, not just listening. Note the
+  *"do you listen to chapo?"* (2020-02-05 14:38, iMessage), *"there's a
+  podcast called 'chapo trap house'"* (2020-02-07 21:55, SMS), and *"i just
+  spent 7 hours listening to the chapo trap house
+  audiobook"* (2020-02-08 10:17, SMS) — the audiobook being *The Chapo Guide to
+  Revolution*. He shares r/ChapoTrapHouse in the Feb 7–8 thread (*"that will
+  keep you up to speed"*), and a month later sends the show's SoundCloud to a
+  third person (2020-03-09 11:31, iMessage: *"^ if you haven't already"* —
+  answered *"Haven't, I'll give that a listen this afternoon!"*). Three
+  distinct targets across the two pitches — this is a man recruiting, not just
+  listening. (Grounded 2026-09-14 from raw rows; dat:1542. Earlier drafts
+  compressed the subreddit and SoundCloud shares into one exchange — the
+  SoundCloud share is a month later, to a different person.) Note the
   date: February 2020, six months *before* the August self-narration
   that names Chapo as a cause of the turn. The evangelism predates the
   conversion narrative — he was already far enough inside to recruit

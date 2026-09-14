@@ -312,3 +312,45 @@ on 9/11"; trilogy adds "Cocaine on the Kirkaversary" and "Ketamine on
 9/12" — dark-humor mark on the Kirk assassination anniversary, three
 days prior.
 [src:sammy-chat-transcript-20260914-0340](../sources/src:sammy-chat-transcript-20260914-0340.md)
+
+## 2026-09-14 — location-teardown + Mercer phantom + monoculture thesis + stuck-PR triage
+
+`dat:1534-location-teardown-20260914`: the raw-layer GPS analysis — 121,733
+pings (Apr 2014–May 2024), hard boundary 2024-05-14, the 299-day blackout as
+device change, his hand-edits stop the day before he deleted his entire
+Timeline (2023-10-20), and the record-curation warning: timeline hand-labels
+are assertions, the pings are ground truth. Cross-references
+`raw/location/Records.json` and `Timeline-Edits.json`.
+
+`dat:1535-mercer-st-phantom-20260914`: the phantom SoHo workplace — 32
+self-written WORK labels at 112 Mercer St dedupe to 16 relabeled Au Za'atar
+shifts, resolved by sensor data (400+ pings at 1st Ave, zero at Mercer;
+millisecond-identical timestamps; Frankies Bikinis as the address's real
+occupant; zero corpus mentions of Mercer/SoHo). He never hand-labeled the
+true Au Za'atar place as WORK; the Mercer labels are his entire WORK-label
+set. Motive hypothesis (data-integrity stress test + delete-path test)
+remains unconfirmed assistant speculation.
+
+`dat:1536-stuck-pr-triage-20260914`: "Fix all three" — #63 merged, #11
+merged after resolving the date_modified conflict to 2026-09-13, #25's
+stale-workflow failure fixed by branch update (green, still draft).
+
+`dat:1537-monoculture-thesis-20260914`: the GeoGuessr-fandom-invisibility
+provocation — society "too disconnected," needs "some kind of common thread
+among everybody"; rated by him as serious as Flash on Brood War.
+[src:sammy-chat-transcript-20260914-0630](../sources/src:sammy-chat-transcript-20260914-0630.md)
+
+`dat:1540-del-2020-second-by-second-20260914`: the play-by-play request —
+a second-by-second facesit segment plus the full 67-minute act map was
+delivered live (2026-09-14 ~04:57–04:58Z); the merged article keeps only
+the earlier five-second 69 pass, and his explicit instruction to write
+the later breakdown into the wiki stays unresolved against the standing
+narrative-identical/zero-images rule.
+
+`dat:1541-telemetry-hardening-20260914`: the Telemetry Lab hardening
+program completed — canthal roll correction fixed, tilt drift 0.012° vs
+baseline, denominator guards replace fabricated `|| 1` values, 35/35 guard
+tests pass, 25 robust / 6 moderate / 16 fragile / 1 unknown, warn-and-report
+policy, A/B explanation inline; `fWHR (proxy)` → "cheek: midface height"
+rename undecided.
+[src:sammy-chat-transcript-20260914-0630](../sources/src:sammy-chat-transcript-20260914-0630.md)

@@ -3,7 +3,7 @@ domain: self
 page_type: synthesis
 status: archived
 date_created: 2026-06-22
-date_modified: 2026-09-03
+date_modified: 2026-09-14
 sources: ["raw/self/twitter/archive.jsonl", "raw/self/location/2026-06-22-ingest/Location History (Timeline)-20260622T225253Z-3-001.zip", "raw/self/location/2026-06-22-ingest/Location History (Timeline)/semantic_location.db", "raw/self/location/2026-06-22-ingest/Location History (Timeline)/Records.json", "raw/self/facebook/facebook-ihatedanfrank/", "raw/self/archives/google-data-export-index-20260623.html"]
 synthesizes:
   - wiki/self/context-core
@@ -79,13 +79,13 @@ connections:
 | 2017 | 1,111       | Peak activity |
 | 2018 | 1,716       | Highest (258 in Aug alone) |
 | 2019 | 809         | NYC transition |
-| 2020 | 121         | Sharp drop (pandemic) |
+| 2020 | 121         | Sharp drop (device-change blackout 2020-09-24 → 2021-07-20, not low mobility) |
 | 2021 | 257         | Low |
 | 2022 | 806         | Resurgence |
 | 2023 | 728         | Sustained |
 | 2024 | 17          | Very low / incomplete in export |
 
-Peak mobility 2017-2018 (2,827 visits). NYC chapter 2019 onward accounts for majority of non-PA. 2020-21 low mobility aligns employment + pandemic — see [[wiki/timeline/periods/covid-era-2020]] for the narrative behind this year's numbers. Resurgence 2022-23 matches YT/Twitter/other. 
+Peak mobility 2017-2018 (2,827 visits). NYC chapter 2019 onward accounts for majority of non-PA. 2020-21 low visit counts are the device-change blackout (2020-09-24 → 2021-07-20), not behavior — see the raw-layer teardown above; [[wiki/timeline/periods/covid-era-2020]] keeps the narrative for this year's numbers. Resurgence 2022-23 matches YT/Twitter/other. 
 
 ## Google Takeout Archive Index
 The source `raw/self/archives/google-data-export-index-20260623.html` is the browser-rendered index for the Google Takeout (May 14, 2024, 2:06 AM PDT) for dfrank88@gmail.com. 
@@ -158,7 +158,7 @@ Grimaldi's are worth posting, the walk home is not.
 | Pre / Origin (Twitter + FB) | ~2010-2013 | **15 check-ins** (Google loc starts 2014) | **Not N/A since 2026-09-02.** 15 Foursquare check-ins with street addresses, Mar 2010–Jan 2011, clustered in south Williamsburg — the only address-level location data before 2014. See [Before the export begins](#before-the-export-begins-2010-2012) below. FB events 2012-2014; FB security logins sparse ~2022. |
 | 2014-2016 ramp | 2014-16 | 662 | Early PA cluster; FB events align data start. |
 | 2017-poverty-floor + 2018-deep-cycle | 2017-18 | 2,827 | Highest volume; local Uniontown/Farmington heavy (e.g. 73 Smith School House Rd 206, 117 Belmont 246). High mobility pre-NYC move. |
-| NYC chapter (2019-Feb 2025) | 2019-23 | ~2,593 (2019-23) | 307 E 76th 1,082; [[wiki/work/au-zaatar|Au Za'atar]] 445; 1063 1st Ave. FB profile "current city New York". Low 2020-21 (85+257). 2022-23 high (806+728). |
+| NYC chapter (2019-Feb 2025) | 2019-23 | ~2,593 (2019-23) | 307 E 76th 1,082; [[wiki/work/au-zaatar|Au Za'atar]] 712 (full-dump recount 2026-09-14; 445 was a thinner parse); 1063 1st Ave. FB profile "current city New York". Low 2020-21 (device-change blackout, not behavior). 2022-23 high (806+728). |
 | 2021-2023-employment-block | 2021-23 | ~1,791 | Lower than 17-18 peaks; concentrated home/work pins. Resurgence despite block. |
 | 2025-collapse / post | 2024- | Low | 2024 17; return to 337 Saratoga noted in core; loc export cutoff post-Feb 2025 PA return + [[wiki/people/annie-ulmer|Annie]] events. |
 | Ancestry roots overlay | 1988+ | Generational | See below. |
@@ -188,7 +188,7 @@ Data is privacy-redacted (many "Unnamed" or generic). High volume of precise hom
 | 2017 | 1,111       | Peak activity |
 | 2018 | 1,716       | Highest |
 | 2019 | 809         | NYC transition |
-| 2020 | 121         | Sharp drop (pandemic) |
+| 2020 | 121         | Sharp drop (device-change blackout 2020-09-24 → 2021-07-20, not low mobility) |
 | 2021 | 257         | Low |
 | 2022 | 806         | Resurgence |
 | 2023 | 728         | Sustained |
@@ -272,6 +272,66 @@ The data shows a life with clear "home bases" (Uniontown family properties + one
 - Events: 2012-2014 responses documented; pre-dates full loc but grounds 2014 start of 108 visits.
 - Security: account_activity / logins / ip (39 unique) show 2022+ activity (earliest Aug 2022 in parses); "pa" mentions frequent in loc fields. Limited older export data but consistent with FB profile timeline.
 - Cross: FB likes ODESZA Oct 2014 + electronic (JAUZ, DIM MAK etc) during loc PA base + early YT radio era. Comedy club likes align entertainment patterns.
+
+## Raw-layer teardown (2026-09-14)
+
+The full raw layer (Records.json: **121,733 pings**, 2014-04-02 → 2024-05-14;
+Timeline-Edits.json: 71 userEditedSemanticSegment; 19 deviceTags) was
+analyzed 2026-09-14. The semantic db described above is only one layer;
+below is what the pings themselves say.
+
+**Hard boundary: nothing exists after 2024-05-14.** This data cannot speak
+to the Feb–Apr 2025 NYC exit, the 2025 collapse, the Oct 2025 DUI stop, or
+463 Morgantown St (2026). Rows above that imply coverage into 2025 are
+wrong — read them as ending at the boundary.
+
+**The gaps are gaps, not behavior.** The 298.9-day blackout (2020-09-24 →
+2021-07-20) is a **device change**, not pandemic low mobility — which
+revises the "2020 low" and "2021 low" readings above. Same for the
+164.5/113.5/110.4/93-day gaps: missingness in the instrument, not quiet
+lives. The blackout covers his claimed March 2021 Au Za'atar start, so the
+first *recorded* shift is 2021-07-20 (see [[wiki/work/au-zaatar|Au Za'atar]]
+for the GPS-hardened shift table: 712 visits, 2–3pm arrivals, 9–10pm
+departures, median 6.2h, Mondays dark).
+
+**He hand-edited his own record, then deleted it (2023-10-20).**
+13,074 of his 17,948 MANUAL pings are from 2023 alone; the 71 hand-edits
+span May–Oct 2023 and stop the day he wiped his entire Google Timeline
+(Settings.json `timelineDeletionTime: 2023-10-20T04:01:27Z` — the deletion
+was partial; Records.json survived). Most consequentially, he relabeled 16
+of his own Au Za'atar dinner shifts as WORK at **112 Mercer St, SoHo**
+(resolved as a phantom against the pings; see the Au Za'atar page). Standing
+rule from this: **Timeline hand-labels are user assertions, Records.json is
+sensor ground truth — when they conflict, the pings win.** The pings are
+clean; only the hand labels are compromised.
+
+**Pin the 2019 NYC move to the day.** Overnight pings (00–06 ET):
+Jan 2019 = 442 PA / 0 NYC; Feb = 333 PA / 52 NYC; **Mar = 5 PA / 113 NYC**.
+Last PA overnight 2019-03-02, first NYC overnight 2019-03-06 → physical
+move **Mar 3–5, 2019**; the "Au revoir Pennsylvania. Adiós Trump country."
+tweet (2019-03-03) lands on departure day. Movement record beats testimony,
+this time confirming it.
+
+**The 2016–2019 home was 155 Virginia Ave.** Overnight pings within 250m of
+each address centroid: 155 Virginia dominates every month 2018 (84–487/mo)
+as primary residence; 117 Belmont strong Jan–May (95–322) then fades as
+secondary; 337 Saratoga marginal (family-home visits). Caveat: the two lots
+are ~80m apart, so assignment bleeds — but the primary/secondary pattern
+survives it.
+
+**Devices.** The two named deviceTags in Settings.json are "-2081738332
+Socialist iPhone" (2021-12-26 → 2024-01-07, 38,082 pings, the densest
+period) and "1639724752 iPhone" (2024-01-29 → 2024-05-14, 43 pings —
+reporting effectively dead). The semantic db holds 6,227 visits
+(2014-06-05 → 2024-04-14; 1,921 named; 4,306 unnamed) and 6,700 activity
+segments (3,170 in-passenger-vehicle, 2,128 walking, 257 cycling, 55 subway,
+57 skateboarding, 3 CATCHING_POKEMON, 1 BOATING).
+
+**Unexploited, queued for follow-up:** 2,399 `rawSignal` entries and 37
+`placeAggregates` home/work inferences (untouched by this pass); 8,994
+VISIT_ARRIVAL / 7,368 VISIT_DEPARTURE pairs as visits the semantic layer
+dropped; velocity/heading tracks for drive reconstruction (the 2019-02-26
+Uniontown→NYC drive is dated this way).
 
 ## Data Notes & Limitations
 - Large "Unnamed" / "Unknown" category (4,306 in db) due to Google's labeling.
