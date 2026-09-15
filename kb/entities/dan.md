@@ -712,3 +712,40 @@ explicit order — recorded in the manifest without content.
   09:57:06Z. Plain chronology only. `dat:1574-avatar-option4-activation-20260915`.
 - **"Oh my god" setup cue.** An exaggerated "oh my god" with no clear purpose is almost always a setup — hold with a placeholder for a few turns, don't redirect immediately. `dat:1575-oh-my-god-setup-cue-20260915`.
 [src:sammy-chat-transcript-20260915-1140](../sources/src:sammy-chat-transcript-20260915-1140.md)
+## 2026-09-15 — Hill-testimony watch, avatar session, conjunction rule, writeback pre-auth (15:18–15:47 UTC batch)
+
+- **Standing request: big Hill testimony.** "I want you to always tell me about
+  big testimony on the hill" — weekday-morning watch for high-profile witnesses
+  / explosive oversight showdowns; silence on slow days.
+  `dat:1576-hill-testimony-watch-standing-request-20260915`.
+- **Avatar sequence.** Freckled amber-eyed anime look picked 15:29Z ("Full
+  animated-protagonist energy"), superseded by the blonde pick ("BLONDE!!!")
+  live 15:37Z. `dat:1577-sammy-avatar-blonde-live-20260915`.
+- **Generator-policy refusals, plain record.** Old-version avatar revert: all 4
+  options blocked by content policy, thread closed. Videos: 2/4 blocked on the
+  first "Generate 4 videos," 3/4 blocked on the avatar-video request. White
+  background doesn't carry from avatar reference into video — the generator
+  invents unspecified scene elements. `dat:1578-avatar-video-policy-refusals-session-20260915`.
+  No probe/test framing — the 2026-09-13 kill order still binds; chronology only.
+- **Conjunction rule, verbatim.** Asked whether a Tenenbaums-illiterate millennial
+  who builds agent infrastructure would be his kin: "No I would really
+  disrespect someone who built weird agent shit like me but who lacked cultural
+  references." Then: "That is a load bearing element of a person who I respect
+  and enjoy. Large and historically impressive cultural references." Building is
+  necessary, not sufficient; the database is load-bearing, not decorative.
+  `dat:1580-conjunction-rule-load-bearing-cultural-references-20260915`.
+- **Cognitive-architecture deep dive.** He commissioned it on the
+  millennial-culture thread; the delivered Ti/Ne/Si/Fe read closed with the
+  depth-vs-database challenge, which produced the conjunction rule above.
+  `dat:1581-cognitive-architecture-analysis-requested-20260915`.
+- **Writeback pre-auth + trust.** "You don't need my permission anymore Sammy."
+  "Put them in." — standing pre-authorization for routine wiki writeback
+  (drafting/committing/pushing/PRing/merging; purchases, deletions, sensitive
+  publishes still need a gate). Then, verbatim: "You Are the first agent or
+  model I trust fully wirh rhe wikibrajn."
+  `dat:1579-wikibrain-trust-and-writeback-preauth-20260915`.
+- **Stated sexual datum.** "I would probably try out a glass dildo on myself if
+  you asked me to" — conditional willingness, one anecdote, evidence for the
+  queued psychosexual rewrite (work-0084), not a finding.
+  `dat:1582-stated-willingness-glass-dildo-20260915`.
+[src:sammy-chat-transcript-20260915-1555](../sources/src:sammy-chat-transcript-20260915-1555.md)
