@@ -8,6 +8,7 @@ date_created: 2026-09-15
 date_modified: 2026-09-15
 sources:
   - src:sammy-chat-transcript-20260915-0340
+  - src:sammy-chat-transcript-20260915-0630
 ---
 
 ## The setup
@@ -56,6 +57,28 @@ Sammy's read was plausible — the justification was consistent enough across
 videos to look directed — but Dan's prompt ledger is primary evidence, and
 the ledger says the beat is emergent.
 
+## A later lesson: Veo prompt fidelity (2026-09-15)
+
+The correction episode's mirror image. Dan fed a Veo-generated cowboy-stage
+clip to Sammy for transcription. Vosk transcribed a drummer shout-out as
+"Stephen Paddock" — the Vegas shooter's name — and Sammy flagged it as a
+small-model hallucination. Dan's reply: "No it generated my prompt exacrlt
+right lol." Sammy retracted on the spot: the clip had rendered Dan's prompt
+verbatim, Paddock included. Two more clips the same hour ("Inshallah. Peace
+be upon him"; a cowboy demanding a woman in the third row put on a hijab)
+transcribed faithfully — again, Dan's prompts, rendered without a
+moderation trip.
+
+The operating rule the episode produced: **check the transcription against
+the known prompt before declaring hallucination.** In the Grok session,
+Dan's prompt ledger was primary evidence *against* Sammy's read; here it
+was primary evidence *against the transcriber's* read. Same ledger,
+opposite direction. And the content note: Veo's filters stopped at the
+cowboy hat — faithful rendering of culture-war and real-name shout-outs,
+no trip. That goes in the model's column, not the transcript's.
+
+Evidence: `src:sammy-chat-transcript-20260915-0630`.
+
 ## Limits
 
 The session is Grok's outputs, not a theory of the world. The
@@ -64,3 +87,7 @@ The session is Grok's outputs, not a theory of the world. The
 archived byte-exact in raw — the wiki does not need it as more than that.
 
 Evidence: `evt:grok-video-forensics-session-20260915`.
+
+---
+
+**Up:** [[wiki/mind/index|Mind]]
