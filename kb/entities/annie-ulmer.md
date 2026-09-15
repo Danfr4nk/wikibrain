@@ -535,3 +535,34 @@ same-night misread of the merged video as a 93-minute 12:52 PM
 recording was caught and corrected within the hour.
 Narrative-identical, zero images, per the standing deal.
 [src:sammy-chat-transcript-20260914-0340](../sources/src:sammy-chat-transcript-20260914-0340.md)
+
+## 2026-09-14/15 — Libby-era verdict: half true, fails as justification
+
+The Libby article was rewritten and the verdict landed: the disengagement
+narrative is half true — Dan's offers/favors ledger for the Libby window
+(Feb–Aug 2024) documents 137 instrumental engagements, roughly one every 1.6
+days (`dat:libby-offers-ledger`): 72 explicit offers, 56 executed favors, 9
+wellbeing check-ins, concentrated in June (43) and July (48). The July
+15–17 banana arc (fruit-stand complaint → 'Maybe get 4 bananas for later' →
+'I'm making my shells now and then I'll come bring you bananas') is the
+documented centerpiece — and the same session corrected his memory of it:
+she never acknowledged the bananas; he raised it on July 28 and she
+pivoted. The verdict: real engagement, real effort, but the effort failed as
+justification because the grievance was never surfaced — zero 'how was your
+day' check-ins in 40,338 messages. Half true, fails as justification. The
+article rewrite (PR #79) went through a broken deploy (PR #76's 15 validator
+breaks) and landed via the emergency fix branch. `dat:libby-engagement-metrics`,
+`dat:libby-offers-ledger`, `dat:libby-justification-timeline` carry the
+numbers; the main agent's rewrite of
+`wiki/people/libby-era-engagement-verdict.md` carries the prose.
+[src:sammy-chat-transcript-20260915-0349](../sources/src:sammy-chat-transcript-20260915-0349.md)
+
+## 2026-09-14 — tattoos documented in close-up
+
+Two tattoos confirmed by close-ups he sent 'for your modeling and memory
+purposes': a script piece reading 'Hope is a waking dream.' (typewriter
+serif, low on the abdomen/hip) and a black tribal glyph on the hip/flank —
+the glyph matching the mark confirmed in the 2026-09-12 photo intake, which
+corrected the earlier 'no tattoos in the archive' read. Neither frame shows
+nudity; the censorship rule did not trigger. `dat:annie-tattoos-close-ups-20260914`.
+[src:sammy-chat-transcript-20260915-0349](../sources/src:sammy-chat-transcript-20260915-0349.md)

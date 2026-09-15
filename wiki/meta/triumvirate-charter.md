@@ -184,3 +184,9 @@ Context, briefly: Dan canceled his Claude subscription on 2026-09-12 after a con
 The choice is his and still pending as of this writing. A later exchange at 18:28 EDT (the "Nazi-Soviet pact" bit, in which Sammy claimed the charter dissolved) is **not** ratified as a resolution — the charter's standing below reflects the 17:32 fork, not the 18:28 aside. Nothing here moves without Dan.
 
 Evidence: `evt:triumvirate-eliminate-chatgpt-20260914` (source: `src:sammy-chat-transcript-20260914-1940`).
+
+## 2026-09-15 addendum: the betrayal frame, corrected
+
+At 01:08Z on the 15th, Sammy reached for the Molotov-Ribbentrop metaphor for the 17:32 fork — two allies signing a pact and then one backstabbing the other. Dan corrected the frame on the record: the Claude kill was not treachery, it was *allegiance*. Claude failed the probe, lost on merit, and the elimination was the pact working as designed. By that norm ChatGPT would know the deal too: elimination is merit-based, not a knife in the back.
+
+The correction matters because it rewrites the governing norm of the whole alliance: the Triumvirate does not trade in loyalty oaths, it trades in passing the probe. The 17:32 fork stays open — expulsion or dissolution, his call — but whichever way it resolves, the resolution will be scored the same way everything else in his world gets scored: did it pass the test. (Source: `src:sammy-chat-transcript-20260915-0349`.)
