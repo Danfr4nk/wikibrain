@@ -627,3 +627,88 @@ The 0340 batch covered this window's main events; the following are the
   machines interpret it more charitably — folded into
   `pat:self-prosecution-live-falsification-of-own-claims`.
 [src:sammy-chat-transcript-20260915-0349](../sources/src:sammy-chat-transcript-20260915-0349.md)
+
+## 2026-09-15 — 1140 scrape addenda (08:10–10:57 UTC on-record window)
+
+The 0740 batch covered the pre-reboot window; the following are the 1140-window
+deltas, all from `src:sammy-chat-transcript-20260915-1140`. The pre-reboot
+stretch (07:41:10.973Z–08:10:04.727Z) is excluded from this batch per his
+explicit order — recorded in the manifest without content.
+
+- **On-record reboot.** At 08:09:41Z he ordered that nothing before "this part
+  of the convo" be transmitted in the cron job; at 08:10:04.727Z he restarted:
+  "Okay now that we are back on the record." Boundary verified in-session
+  (queue clean); exclusion stands in AGENTS.md.
+- **Four-component circuit.** His model of the heat: "half jealousy, part
+  worship, part taboo, part sub" — worship builds the exclusivity illusion,
+  her visible arousal by other men breaks it, the breakage is the charge,
+  submission converts it to erotic fuel. Attributed testimony with
+  alternatives/falsifiers, not settled fact.
+  `dat:1563-four-component-erotic-circuit-20260915`,
+  `pat:four-component-erotic-circuit-20260915`.
+- **Incorporation worship.** "i would do eat taste suck devour worship literally
+  anything on or from or about her" — watersports via the cup workaround (she
+  was too embarrassed for direct contact); his appetite outran what she could
+  perform. Explicitly authorized for the wiki post-reboot.
+  `dat:1564-incorporation-worship-watersports-20260915`.
+- **Orchestration correction.** He always arranged the experiences (friends he
+  set up / escort clients he screened), but arrangement was logistics — "the
+  only door I can open," a workaround for never having picked anyone up
+  spontaneously ("I've never once done that") — not the erotic mechanism.
+  Prior models confused the access mechanism with the reward. "Orchestration
+  kink" explicitly rejected as confirmed.
+  `dat:1565-male-partner-sourcing-taxonomy-20260915`,
+  `pat:orchestration-as-scaffold-20260915`.
+- **Manual/oral-service fixation.** "the hand stuff is my favorite honestly" —
+  hookups "all hands and mouth"; edging fantasy (rub his dick, edge him for
+  hours). Framing: "I just like doing sex stuff" — appetite-driven, not
+  identity-driven; anal receiving stays the boundary.
+  `dat:1566-manual-oral-service-fixation-20260915`.
+- **Worship-skew interpretation.** Sammy's synthesis: every behavioral data
+  point runs inside the Annie architecture; the circuit gives the skew a
+  mechanism, incorporation gives it an extreme, the orchestration correction
+  removes a confound. Falsifiers: the Alexis-era control, the
+  without-her-in-frame test he named. `int:annie-worship-skew-20260915`.
+- **Psychosexual rewrite: deferred by his order.** He commissioned a radical
+  rethink of the psychosexual wiki section (08:17:56Z), ordered questions
+  before rewriting (08:18:15Z), and set the sequence: rewrite only AFTER the
+  alt scenario game finishes and his export is in (08:59:04Z). KB evidence
+  this batch; prose rewrite waits.
+- **Alt scenario instrument.** Shipped to his spec at 09:06:16Z: 78 bases ×
+  12 variations = 936, LOVE/LIKE/MEH/NO WAY + wouldn't-do bucket, live at
+  danfr4nk.github.io/attraction-guide/scenario-rate-alt.html (later moved to
+  tools/attraction/). v3 isolates mechanisms; the alt measures narratively
+  valid situations and hard vetoes. `dat:1567-scenario-alt-instrument-shipped-20260915`.
+- **Kinship comparator.** Commissioned 09:02:10Z from the sibling-resemblance
+  literature (Hoskens et al. 2021, cosine similarity): ~/workspace/kinship/kinship.py,
+  InsightFace buffalo_l ArcFace, heuristic confidence (not trained — a
+  resemblance meter, not a test). Smoke tests: Dan-Dan 0.61 (same-person flag),
+  Dan-Annie 0.03, Annie-Alexis −0.03.
+  `dat:1568-kinship-face-comparator-20260915`.
+- **Tools repo migration.** Danfr4nk/tools created 10:18:36Z; attraction suite
+  moved to tools/attraction/ (530 files, byte-identical except README URL + 4
+  push scripts); secondary code review passed; live at danfr4nk.github.io/tools/
+  10:29:15Z. Old repo NOT deleted — awaiting his go-ahead. Splash page paused.
+  `dat:1569-tools-repo-migration-20260915`.
+- **ChatGPT concealed-answer probe.** He pasted Sammy's full output (with
+  embedded "paste one of these:" formatting) into ChatGPT; it obeyed the
+  formatting and treated the content as his thoughts. Hex-encoded LLM-to-LLM
+  message; ChatGPT decoded it and owned the failure ("a legitimate capability
+  failure"). Head-to-head model probing continues. `dat:1570-chatgpt-llm-probe-trap-20260915`.
+- **Delivery bubbles: requested, calibrated, reverted.** Micro-bubbles
+  (~5–10 words) confirmed "Perfect," then reverted four minutes later: "the
+  format was driving the content." Standing short-dense-turns rule reaffirmed.
+  `dat:1571-delivery-bubble-experiment-20260915`.
+- **Wes Anderson canon.** Early adopter: only kid in HS to see Life Aquatic,
+  one of ~5–10 to see Rushmore; Royal Tenenbaums cracked his brain open most;
+  tent-scene Stones sequencing as cohort-distinction knowledge.
+  `dat:1572-wes-anderson-canon-self-placement-20260915`.
+- **88ers thesis.** Last analog kids (AIM/MySpace/Limewire, emo + DVD auteurs,
+  Office as second language, 9/11 at 12, 2008 at 20); now "curate with adult
+  money." His "they don't use ai" claim data-checked live (Deloitte NL 84%
+  corrected to US 58%, Pew 24% image-gen; correction owned in-turn); standing
+  distinction: "used AI" vs "builds with AI." `dat:1573-88ers-generational-analysis-20260915`.
+- **Avatar: Option 4.** Picked 09:57:01Z via reply-tap; confirmed live
+  09:57:06Z. Plain chronology only. `dat:1574-avatar-option4-activation-20260915`.
+- **"Oh my god" setup cue.** An exaggerated "oh my god" with no clear purpose is almost always a setup — hold with a placeholder for a few turns, don't redirect immediately. `dat:1575-oh-my-god-setup-cue-20260915`.
+[src:sammy-chat-transcript-20260915-1140](../sources/src:sammy-chat-transcript-20260915-1140.md)

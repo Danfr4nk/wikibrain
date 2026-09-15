@@ -566,3 +566,13 @@ the glyph matching the mark confirmed in the 2026-09-12 photo intake, which
 corrected the earlier 'no tattoos in the archive' read. Neither frame shows
 nudity; the censorship rule did not trigger. `dat:annie-tattoos-close-ups-20260914`.
 [src:sammy-chat-transcript-20260915-0349](../sources/src:sammy-chat-transcript-20260915-0349.md)
+
+## 2026-09-15 — worship, incorporation, and the arrangement-era sourcing taxonomy (on-record)
+
+Dan's on-record testimony this session (all post-reboot, explicitly authorized for the wiki at 08:19:25Z) reframes her structural role in his psychosexual profile:
+
+- **Incorporation worship.** "i would do eat taste suck devour worship literally anything on or from or about her" — watersports: he had her piss into a cup, drank it, had it poured on him; the cup was a workaround because she was too embarrassed to piss on him directly. His appetite outran what she could perform. The mouth as worship organ — the same mouth he wants on cock; kneel, serve, take in. `dat:1564-incorporation-worship-watersports-20260915`.
+- **Her desire as the illusion-breaker.** In his four-component model (jealousy/worship/taboo/sub), worship builds the exclusivity illusion and *her visible, unambiguous arousal by other men* breaks it — the breakage is the charge. She must author the violation; he takes the sub position and converts it to fuel. `dat:1563-four-component-erotic-circuit-20260915`, `pat:four-component-erotic-circuit-20260915`.
+- **Arrangement-era male-partner sourcing.** Every male partner she had in that era came through Dan-gated channels: a friend of his whose hookup he arranged, or an escort client he screened. Scoped to male partners; April 2019 (female third party) stands as the documented exception. `dat:1565-male-partner-sourcing-taxonomy-20260915`.
+- **Kinship-meter smoke test.** The commissioned face-comparison tool scored Dan-vs-Annie 0.03 and Annie-vs-Alexis −0.03 — resemblance-meter readings from a heuristic instrument, not kinship evidence; do not cite as relatedness data. `dat:1568-kinship-face-comparator-20260915`.
+[src:sammy-chat-transcript-20260915-1140](../sources/src:sammy-chat-transcript-20260915-1140.md)
