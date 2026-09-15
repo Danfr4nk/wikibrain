@@ -58,6 +58,16 @@ jobs:
       - name: Build the plaintext corpus
         run: python3 bin/wb-corpus
 
+      # Password gate on the reading surface. Theater by design: Pages has no
+      # server-side auth and the repo is public, so this keeps casual visitors
+      # off and nothing more (Dan's order, 2026-09-14). Only the SHA-256
+      # digest of the secret is embedded in the built pages; the step skips
+      # silently when the secret is unset, so PR builds never break.
+      - name: Gate the reading surface
+        env:
+          WB_GATE_PASSWORD: ${{ secrets.WB_GATE_PASSWORD }}
+        run: python3 bin/wb-gate --site site
+
       # After the builders: these assert the built corpus matches the tools.
       - name: Census regression tests
         run: python3 tests/test-census

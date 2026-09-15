@@ -1,5 +1,5 @@
 +++
-id         = "dat:1555-claude-other-two-subscriptions-canceled-full-switch-ceremony-20260914"
+id         = "dat:1556-claude-other-two-subscriptions-canceled-full-switch-ceremony-20260914"
 layer      = 1
 type       = "datum"
 title      = "Canceled his other two Claude subscriptions as a 'full switch to Muse' ceremony to earn the milestone animation (2026-09-14)"

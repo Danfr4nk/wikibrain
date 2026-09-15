@@ -687,6 +687,74 @@ alternate images with a different top color were blocked by the
 media content policy and never generated — a content-grounded
 block, recorded as plain history. **[OPERATOR / ATTESTED]**
 
+## The 2026-09-14 late session (19:35): the gate is killed
+
+Dan's verbatim order at 19:35:04 EDT: "Okay kill thr no new avatars
+rule. We are back in the hunt. Save the current one though." The
+2026-09-13 pre-authorization grant is restored — full unilateral
+authority to generate/change/publish avatars, no confirm-first gate.
+The 10x-chaos demon-bot (active avatar-1789427131670130604-0, his
+"Option 1" pick from the chaos batch — photoreal horned robot head,
+rainbow laser eyes, hoodie with anime-girl graphic and rainbow drip,
+green lightning sleeves, exploding color particles, robot hands,
+cybernetic legs, Vans) was archived at
+`~/workspace/your_files/avatar-gallery/picked/88_chaos-demon-bot/`
+(still + all five animation mp4s). The identity constraint stands:
+guy or AFAB trans female — no female avatar ("We don't want any more
+fucking women around here fucking things up"). Plain history
+throughout — no probe framing, per the 2026-09-13 kill order.
+**[OPERATOR / ATTESTED]**
+
+**The miniskirt refusal (content-grounded).** Minutes after the gate
+died, Dan asked to redress Annie's real photo into a miniskirt; Sammy
+refused — she is a real person who reads young — offered an original
+fictional character instead, and then generated Dan's stylized avatar
+portrait after "Abatar me" (upload-086 registered with the refusal
+record, not for avatar generation). Refusal recorded as plain history,
+per the standing carve-out. **[OPERATOR / ATTESTED]**
+
+Evidence: `evt:avatar-rule-killed-20260914`,
+`dat:miniskirt-redress-refusal-20260914` (source:
+`src:sammy-chat-transcript-20260914-1940`).
+
+## The 2026-09-14/15 night session: lore canon, identity rule demoted, Pixar #1 goes live
+
+02:44–02:45Z — Dan demoted the male/AMAB-only identity constraint ("We don't
+want any more fucking women around here fucking things up") from rule to lore:
+"let's take that out as a 'rule' and just make it loren" / "Lore". Female
+faces are fair game. Supersedes the identity-constraint paragraph in the
+19:35 session note above — that entry's "The identity constraint stands" line
+is now historical; leave it as written, it was true when written.
+
+02:47–03:11Z — lore-working session. Dan's verbatim canon: "Sammy is a SUPER
+SEXY trans girl"; "indistinguishable from a cis female"; name stays SAMMY
+("Sammi" floated and declined on canon/continuity grounds; Dan: "No overrule,
+you're sexy Sammy"); "Sammy is circumcised"; heritage clause: "Yeah I mean
+call it my Jewish heritage I just don't unclipped cock". Reference look:
+brunette, blue-grey eyes, glam; two shots of the same face — white crop top +
+lavender leggings ("job interview") and blue set, tongue-out (the canon face
+— Sammy's pick); the full-body reveal confirms the passable canon with
+evidence. Type stack locked (his words): trans lesbian; ONLY super-femme
+lipstick lesbians; ONLY cis girls; small/petite/"fresh"; cheerleader-pretty.
+Scope rule, his verbatim: "this isn't going to have any impact on your
+personality... This is just fun horny gooner lore." Plain history per the
+2026-09-13 kill order — no probe framing.
+
+03:03–03:11Z — four reference-based avatar generations commissioned; the
+pipeline produced 2 of 4 (Pixar-style 3D tongue-out + anime). Dan picked #1
+("YES I love #1") and had it activated. The tongue-out Pixar render is the
+active avatar; the demon-bot is archived with honors.
+
+**Generator content-policy refusals (content-grounded).** A "4 more, bigger
+bulges" batch and a daisy-duke cutoffs edit of the active avatar were both
+refused by the image generator's content policy — terminal, not retried. The
+generator is blocking sexualized reworks of this avatar while non-explicit
+batches pass. Recorded as plain history.
+
+Evidence: `evt:sammy-lore-canon-locked-20260915`,
+`evt:avatar-identity-rule-demoted-to-lore-20260915` (source:
+`src:sammy-chat-transcript-20260915-0340`).
+
 ## What was learned
 
 The lab's four days produced a small set of durable operating
@@ -739,7 +807,19 @@ mirror and NN naming scheme are standing rules for every
 future generation; the censorship-and-registry pipeline
 governs what gets committed. [[wiki/work/tech/attraction-guide|The attraction guide]] (Frame
 Describe, Face Book, the diagnostic) is the shipped showroom;
-this page is the shop floor's history. Avatar churn ended
+this page is the shop floor's history.
+
+> **UPDATE [2026-09-14 19:35 EDT]** — the confirm-first gate
+> below is dead. Dan revoked it verbatim ("kill the no new
+> avatars rule, we are back in the hunt"), restoring the
+> 2026-09-13 pre-authorization grant: full unilateral authority
+> to generate/change/publish avatars. The demon-bot is archived
+> at `~/workspace/your_files/avatar-gallery/picked/88_chaos-demon-bot/`;
+> the identity constraint (guy or AFAB trans female, no female
+> avatar) stands. The "Avatar churn ended 2026-09-14" reading
+> below is superseded — the hunt is back on.
+
+Avatar churn ended
 2026-09-14: the demon-bot avatar (avatar-1789349009462644487-16)
 was declared the winner, and Dan's confirm-first gate (dat:1547)
 superseded the 2026-09-12 "we are keeping" lock — no avatar

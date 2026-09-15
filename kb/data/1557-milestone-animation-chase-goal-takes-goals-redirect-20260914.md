@@ -1,5 +1,5 @@
 +++
-id         = "dat:1556-milestone-animation-chase-goal-takes-goals-redirect-20260914"
+id         = "dat:1557-milestone-animation-chase-goal-takes-goals-redirect-20260914"
 layer      = 1
 type       = "datum"
 title      = "Milestone-animation chase: four goal completions, no remote for the avatar display, 'Create a new goal' redirects to chat (2026-09-14)"

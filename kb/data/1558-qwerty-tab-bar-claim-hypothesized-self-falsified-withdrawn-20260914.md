@@ -1,5 +1,5 @@
 +++
-id         = "dat:1557-qwerty-tab-bar-claim-hypothesized-self-falsified-withdrawn-20260914"
+id         = "dat:1558-qwerty-tab-bar-claim-hypothesized-self-falsified-withdrawn-20260914"
 layer      = 1
 type       = "datum"
 title      = "QWERTY/tab-bar bug claim: hypothesized, tested on camera, falsified by his own recording, formally withdrawn (2026-09-14)"

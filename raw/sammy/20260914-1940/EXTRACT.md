@@ -27,7 +27,7 @@
 
 Overlap with heartbeat batch 20260914-1830 resolved: the 1830 batch's 48 rows
 (12:43:57Z–18:26:11Z) are a subset of this batch's 96 — 47 byte-identical,
-1 media-path mutation (message 423a3d17, see dat:1558). The 49 new rows are
+1 media-path mutation (message 423a3d17, see dat:1559). The 49 new rows are
 18:26:11Z–19:40:34Z. Heartbeat-committed datums 1547–1554 + dat:0939
 SUPERSEDED were NOT duplicated; cross-referenced where extended. work-0077,
 Q2, Q3, Q4, rewrite-q2-poison, image-gen session, Rainbolt/GeoGuessr
@@ -36,10 +36,10 @@ covered by the heartbeat — no new nodes for them.
 
 New KB nodes created (src + 4 datums + 1 pattern):
 - src:sammy-chat-transcript-20260914-1940 (source, provenance points at raw/sammy/20260914-1940/chats.json)
-- dat:1555-claude-other-two-subscriptions-canceled-full-switch-ceremony-20260914 (extends dat:1463)
-- dat:1556-milestone-animation-chase-goal-takes-goals-redirect-20260914 (extends dat:1548, dat:1539)
-- dat:1557-qwerty-tab-bar-claim-hypothesized-self-falsified-withdrawn-20260914
-- dat:1558-media-path-mutation-same-message-id-across-pulls-20260914
+- dat:1559-claude-other-two-subscriptions-canceled-full-switch-ceremony-20260914 (extends dat:1463)
+- dat:1559-milestone-animation-chase-goal-takes-goals-redirect-20260914 (extends dat:1548, dat:1539)
+- dat:1559-qwerty-tab-bar-claim-hypothesized-self-falsified-withdrawn-20260914
+- dat:1559-media-path-mutation-same-message-id-across-pulls-20260914
 - pat:self-prosecution-live-falsification-of-own-claims (confidence moderate, falsifiers + alternatives recorded)
 
 Entity extended: kb/entities/dan.md — new dated section "2026-09-14 —
@@ -57,3 +57,9 @@ the overlap and means the 1940 analysis had to deduplicate at the KB layer.
 Suggested: heartbeat either advances the shared watermark after its own
 push, or pulls from its own last-batch watermark (it already tracks
 watermark_from/watermark_to per batch in chats.json).
+
+RENUMBER NOTE (appended 2026-09-15, merge of 20260915-0340): the original
+dat ids 1555-1558 collided with origin/main's dat:1555 (third-party
+severance claim, Libby rewrite); shifted +1 to dat:1556-1559 everywhere
+(kb/data filenames + ids, kb/patterns/self-prosecution, kb/entities/dan.md,
+this file). kb/data/1555 on main now refers to the severance claim.

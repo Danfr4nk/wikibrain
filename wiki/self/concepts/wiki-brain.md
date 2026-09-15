@@ -6,7 +6,7 @@ aliases: ["wiki-brain", "the wiki", "second brain", "the repository"]
 status: active
 knowledge: earned
 date_created: 2026-08-19
-date_modified: 2026-09-11
+date_modified: 2026-09-14
 importance: critical
 tags: [ai-collaboration, digital-footprint, personality-profile, system-architecture]
 sources: []
@@ -186,6 +186,23 @@ The wiki draws from a finite, immutable archive of primary and AI-secondary sour
 > the canonical repo, and it is read to exhaustion the same way.
 
 The corpus is 217,573 messages across 503 handles, 106,629 sent / 110,944 received. It is 9.6x duplicated — a feature, not a bug: the Rick correction and the `sic semper` inversion were each found by one export contradicting another. Consolidating would destroy the only error-detection the corpus has.
+
+### Coverage findings (2026-09-14)
+
+Two holes in the corpus map closed the same day:
+
+- **Chrome history is zero.** The July 2026 Chrome/Search Takeout held only
+  `Bookmarks.html` (January 2026) — no browsing history exists anywhere in
+  the corpus. Dan's standing plan to start the source-by-source wiki-brain
+  review with Chrome history/bookmarks is closed; the review must begin
+  elsewhere. Evidence: `dat:chrome-history-zero-20260914`.
+- **Valeria's Instagram thread landed with content.** 4,884 messages, May
+  2022 → July 2025 — the entire affair era, the burst, and the coda — with
+  actual message bodies, not metadata. The export the 2026-09-12 Valeria
+  correction was waiting on. Evidence: `dat:valeria-ig-thread-export-20260914`.
+
+Both from the corpus-coverage check in the 2026-09-14 16:01–16:03 EDT
+Sammy–Dan session (source: `src:sammy-chat-transcript-20260914-1940`).
 
 ## Dan's role
 
