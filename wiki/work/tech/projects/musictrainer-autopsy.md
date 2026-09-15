@@ -77,6 +77,39 @@ Discover Weekly read-back ("the 33% gauntlet awaits") showed the
 instrumentation answering a live question in his ladder's vocabulary the
 same night it shipped.
 
+## Week-1 scoring-flow fixes (2026-09-14, 0340 scrape window)
+
+Dan's week-1 pass on the 30 Discover Weekly tracks surfaced friction in the
+scorecard:
+
+- **The score slider request (20:30 EDT).** Dan wanted a manual score slider
+  (1–10) per track rather than deriving the score — implemented in the next
+  push. Score was previously button/slider-locked; now user-entered.
+- **ADDED? yes/no (20:31 EDT).** Per his ladder taxonomy, the determining
+  factor is keep = liked + into current playlist; the ADDED? column records
+  whether the track actually cleared that bar. This is the instrument's
+  ground-truth target for the 90% prediction game.
+- **Lock semantics (20:38 EDT).** Dan asked whether his 8 baseline
+  predictions were locked; the week-lock model is per-track status
+  (scored vs pending), not a global lock — 12 of 30 scored by 20:36, 18
+  remaining. 'Lose' condition per his ladder: anything that does not make
+  the current playlist lost the triage.
+- **Blank-page bug (22:30–22:48Z = 18:30–18:48 EDT; corrected 2026-09-15 —
+  the 0340 writeback's "20:46–20:48 EDT" timing was wrong).** Dan reported
+  "Now it's a blank page" at 22:30:46Z after the lock-banner deploy; the
+  banner had called a date helper that didn't exist, crashing the whole
+  page render — not the re-render-on-click mechanism the 0340 writeback
+  named. Sammy shipped the fix in-thread ("I verified every screen renders
+  this time before pushing"), and Dan confirmed in-window at 22:48:23Z:
+  "Now we're working. Great work."
+  (Parallel failure note: the Wiki Brain gate deploy hit the same class of
+  blank-screen failure the same night —
+  `evt:gate-password-deploy-white-screen-20260915`.)
+
+Evidence: `src:sammy-chat-transcript-20260915-0340`,
+`src:sammy-chat-transcript-20260915-0349` (transcript-verbatim correction).
+Live: https://danfr4nk.github.io/MusicTrainer/.
+
 ## Active-learning implications
 
 Two futures are already visible in the design:

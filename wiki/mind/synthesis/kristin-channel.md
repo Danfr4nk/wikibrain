@@ -297,7 +297,7 @@ On **2025-09-15 at 21:41**, at the absolute peak of the September flood, Dan
 told his sister Vanessa he had *"finally ended things with annie after a
 long, slow relationship death march"* and was seeing a new girl — *"smart,
 and she's into politics and is sober, vegan and responsible enough to work
-in a pharmacy as a technician"* **[ATTESTED]** (dat:1571-2025-09-15-third-party-severance-claim-falsified-by-in-chann). The description
+in a pharmacy as a technician"* **[ATTESTED]** (dat:1555). The description
 is Kristin, unmistakably. Nineteen hours earlier the same day he had told
 Annie she was *"the only person in my world that really matters… I will
 choose you over my own family."* September 13–18 carries **2,480 messages**

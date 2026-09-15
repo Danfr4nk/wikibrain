@@ -1,5 +1,5 @@
 +++
-id         = "dat:1558-media-path-mutation-same-message-id-across-pulls-20260914"
+id         = "dat:1559-media-path-mutation-same-message-id-across-pulls-20260914"
 layer      = 1
 type       = "datum"
 title      = "Same message_id, different media-library image path across two pulls (1830 vs 1940 batches)"
@@ -9,6 +9,7 @@ confidence = "high"
 provenance = "diff of raw/sammy/20260914-1830/chats.json vs staging/20260914-1940/chats.json; live re-query 2026-09-14T19:55Z"
 reliability = "primary"
 extraction = "python diff over the two batch files; 47/48 overlap byte-identical"
+rechecked    = "2026-09-15"
 importance = 2
 tags       = ["archive-fidelity", "pipeline", "2026"]
 created    = "2026-09-14"

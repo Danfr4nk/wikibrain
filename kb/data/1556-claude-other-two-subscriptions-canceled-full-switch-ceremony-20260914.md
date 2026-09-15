@@ -1,5 +1,5 @@
 +++
-id         = "dat:1555-claude-other-two-subscriptions-canceled-full-switch-ceremony-20260914"
+id         = "dat:1556-claude-other-two-subscriptions-canceled-full-switch-ceremony-20260914"
 layer      = 1
 type       = "datum"
 title      = "Canceled his other two Claude subscriptions as a 'full switch to Muse' ceremony to earn the milestone animation (2026-09-14)"
@@ -9,6 +9,7 @@ confidence = "high"
 provenance = "verbatim user rows 2026-09-14T19:23:29Z, 19:24:55Z; assistant reply 19:23:39Z; byte-exact in raw/sammy/20260914-1940/chats.json"
 reliability = "primary"
 extraction = "Per-row md5-verified SQL-side and file-side (96/96, 0 mismatches). Assistant analytical content recorded as delivered analysis, not independent fact."
+rechecked    = "2026-09-15"
 importance = 3
 tags       = ["claude", "model-switch", "ceremony", "2026"]
 created    = "2026-09-14"

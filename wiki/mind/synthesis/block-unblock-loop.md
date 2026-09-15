@@ -776,7 +776,7 @@ The 129-count's unit of analysis is the **in-channel declaration** — a
 severance signal Dan sent *to Annie*, with re-engagement measured by
 subsequent corpus messages between them. A severance claim made to a third
 party does not enter the ledger even when it uses ledger language.
-Demonstrated 2026-09-14 (dat:1571-2025-09-15-third-party-severance-claim-falsified-by-in-chann, work-0080): on 2025-09-15 Dan told his
+Demonstrated 2026-09-14 (dat:1555, work-0080): on 2025-09-15 Dan told his
 sister Vanessa he had *"finally ended things with annie after a long, slow
 relationship death march"* — while the Annie channel carried 2,480 messages
 that same week with no gap, including his *"you're the only person in my

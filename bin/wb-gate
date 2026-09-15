@@ -11,10 +11,13 @@ How it works:
   - Reads the password from WB_GATE_PASSWORD at build time and embeds only its
     SHA-256 hex digest into the injected script. The password itself never
     lands in the built site.
-  - The injected script hides the page immediately, shows a full-screen
-    password prompt, and on a correct entry stores the digest in
-    sessionStorage (per-tab) and reveals the page. With JS disabled the page
-    stays hidden via a <noscript> style block.
+  - The injected script hides the page immediately (display:none on <html>),
+    then on DOMContentLoaded mounts a full-screen password prompt directly on
+    <html>, reveals <html>, and keeps <body> hidden — the prompt must live
+    outside <body> or the page-wide hide swallows it too. On a correct entry
+    the digest is stored in sessionStorage (per-tab), <body> is revealed and
+    the prompt removed. With JS disabled the page stays hidden via a
+    <noscript> style block.
   - If WB_GATE_PASSWORD is unset or empty, injection is skipped silently, so
     local builds and secret-less PR runs stay open and never break.
 
@@ -52,7 +55,7 @@ function go(input,ov){
   crypto.subtle.digest("SHA-256",new TextEncoder().encode(v)).then(function(buf){
     if(hex(buf)===DIGEST){
       try{sessionStorage.setItem(KEY,DIGEST);}catch(e){}
-      document.documentElement.style.display="";ov.remove();
+      document.body.style.display="";ov.remove();
     }else{err("wrong password");input.value="";input.focus();}
   },function(){err("check failed");});
 }
@@ -66,7 +69,13 @@ function show(){
     +'<div id="wb-gate-err" style="display:none;color:#ff5555;font-size:12px;margin-top:10px;"></div>'
     +'<button id="wb-gate-btn" style="margin-top:16px;padding:10px 32px;background:#e8e8e8;color:#0a0a0a;border:0;font-family:monospace;font-size:14px;cursor:pointer;">ENTER</button>'
     +'</div>';
-  document.body.appendChild(ov);
+  // Mount the overlay on <html>, not <body>: the page is hidden by keeping
+  // <body> display:none, so a prompt inside <body> would never paint
+  // (2026-09-15: the original version hid <html> itself, which swallowed the
+  // prompt too and left every fresh visitor on a blank white page).
+  document.documentElement.appendChild(ov);
+  document.documentElement.style.display="";
+  document.body.style.display="none";
   var input=document.getElementById("wb-gate-input"),btn=document.getElementById("wb-gate-btn");
   input.focus();
   btn.addEventListener("click",function(){go(input,ov);});

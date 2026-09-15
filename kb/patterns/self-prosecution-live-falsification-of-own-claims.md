@@ -3,15 +3,15 @@ id         = "pat:self-prosecution-live-falsification-of-own-claims"
 layer      = 4
 type       = "pattern"
 title      = "Dan prosecutes his own claims live and retracts them on the record"
-claim      = "When Dan is in test mode, his error hygiene is ruthless and public: he declares the hypothesis before running the test, builds the test that could humiliate him, runs it on camera, announces the falsification verbatim, and formally withdraws the claim without hedging. The 2026-09-14 QWERTY/tab-bar episode (dat:1557) is the cleanest specimen: hypothesis narrated to the assistant ('Am I correct abiut it? Doing a better recording'), repro path, control, stress test, live falsification ('Test failed I think I was wrong'), premise re-verification (scrolling back through the exchange), formal withdrawal ('Disregard my initial bug claim'), then a commissioned teardown of his own testing logic. This sits in deliberate contrast with his retrospective-testimony drift (the wiki's reliability note: stated certainty ~= 0.25 actual; date displacement, good-faith misremembering). Two epistemic modes: retrospective narration drifts; live-tested claims get prosecuted and the corpse gets preserved. Supporting episodes: the Rainbolt temporal self-correction ('That was last night', dat:1553); taking the 09-13 apology-count overturn straight; the 09-14 attribution refusal ('No you didn't. I said it', dat:1544). Boring explanation to steelman: he is just testing a phone UI and narrating to an assistant - but the form (pre-declared hypothesis, on-camera run, verbatim retraction, commissioned meta-analysis 'what it says about me') is a performance of epistemic hygiene, not just a bug report."
-cites      = ["src:sammy-chat-transcript-20260914-1940", "src:sammy-chat-transcript-20260915-0349"]
+claim      = "Fifth episode, 2026-09-14 (evt:grok-video-forensics-session-20260915): during the Grok forensic teardown Sammy claimed Dan was prompting the models’ justification beat; Dan corrected on the record - ‘The justification beat is added by grok’ - and Sammy owned the correction live, downgrading his own read to Grok’s own prior. Same form: claim stated in writing, counter-evidence from Dan, retraction without hedging. When Dan is in test mode, his error hygiene is ruthless and public: he declares the hypothesis before running the test, builds the test that could humiliate him, runs it on camera, announces the falsification verbatim, and formally withdraws the claim without hedging. The 2026-09-14 QWERTY/tab-bar episode (dat:1558) is the cleanest specimen: hypothesis narrated to the assistant ('Am I correct abiut it? Doing a better recording'), repro path, control, stress test, live falsification ('Test failed I think I was wrong'), premise re-verification (scrolling back through the exchange), formal withdrawal ('Disregard my initial bug claim'), then a commissioned teardown of his own testing logic. This sits in deliberate contrast with his retrospective-testimony drift (the wiki's reliability note: stated certainty ~= 0.25 actual; date displacement, good-faith misremembering). Two epistemic modes: retrospective narration drifts; live-tested claims get prosecuted and the corpse gets preserved. Supporting episodes: the Rainbolt temporal self-correction ('That was last night', dat:1553); taking the 09-13 apology-count overturn straight; the 09-14 attribution refusal ('No you didn't. I said it', dat:1544). Boring explanation to steelman: he is just testing a phone UI and narrating to an assistant - but the form (pre-declared hypothesis, on-camera run, verbatim retraction, commissioned meta-analysis 'what it says about me') is a performance of epistemic hygiene, not just a bug report."
+cites      = ["src:sammy-chat-transcript-20260914-1940", "src:sammy-chat-transcript-20260915-0340", "src:sammy-chat-transcript-20260915-0349"]
 confidence = "moderate"
 perspective = "llm"
 evidence_count = 5
+rechecked    = "2026-09-15"
 importance = 4
 tags       = ["epistemics", "self-correction", "personality"]
 created    = "2026-09-14"
-rechecked  = "2026-09-15"
 falsifiers = [
   "A live-tested claim of his survives counter-evidence in-session: he defends the original claim, revises it face-savingly, or moves the goalposts instead of withdrawing. One clean case breaks the 'prosecutes' half.",
   "The QWERTY episode turns out to be audience-shaped: the same test run without an assistant watching produces no pre-declared hypothesis, no verbatim retraction. Then the hygiene is social performance, not epistemic discipline.",
@@ -39,23 +39,6 @@ date   = "2026-09-14"
   self-test.
 - `dat:0090`: the claimed Aug-26 block was retracted only after confrontation
   with the texting record (severance horizon test, VOID).
-
-## 2026-09-15 — prosecution of the assistant's attribution (Grok justification beat)
-
-The pattern extended to the assistant's claims, not just his own. Sammy
-attributed the free-speech monologue at the end of the Grok videos to Dan's
-prompting; Dan's answer — 'the justification beat is added by grok' —
-reversed the causal arrow on the record, and Sammy owned the correction in
-the same turn ('Strong correction... you're right about where the
-justification lives'). This is the loop running in the other direction: he
-audits attributions made *about* his claims with the same ruthlessness he
-audits the claims themselves. It also upgrades the human-versus-machine
-reading of his self-correction (2026-09-14 19:51:21Z, src:sammy-chat-transcript-20260915-0349):
-he said humans disregard the correction half of his epistemic loop or treat
-it as performative, while machines interpret it more charitably — and the
-Grok night is a live specimen of the charitable machine reading: the
-correction was logged as evidence, not dismissed as performance.
-[src:sammy-chat-transcript-20260915-0349](../sources/src:sammy-chat-transcript-20260915-0349.md)
 - Both bound the pattern: live-test mode only, not a general habit of
   retracting.
 
@@ -68,3 +51,14 @@ system with a falsifiable claim and he becomes the most reliable narrator
 in the room. Any synthesis that uses his testimony should weight it by
 mode - retrospective narration discounted, live-tested claims taken near
 face value.
+
+## 2026-09-15 addendum — the human-vs-machine reading of the loop
+
+At 19:51Z on 2026-09-14 Dan gave the pattern its social-reception footnote:
+humans disregard the correction half of his epistemic loop or treat it as
+performative, while machines interpret it more charitably. The Grok night is
+a live specimen of the charitable machine reading — the correction was
+logged as evidence, not dismissed as performance. Testimony about social
+reception, not independently established fact, but it predicts where the
+loop will be legible: to instruments, not audiences.
+[src:sammy-chat-transcript-20260915-0349](../sources/src:sammy-chat-transcript-20260915-0349.md)
