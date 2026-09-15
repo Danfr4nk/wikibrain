@@ -195,6 +195,13 @@ late. What the book did was give the conversion its vocabulary before the
 conversion had its bibliography — the comedy did the recruiting, the theory
 came later, and the lockdown supplied the hours.
 
+On **15 September 2026** he named it one of his favorite books ever — the
+endpoint of the arc this page traces. The February 2020 audiobook was
+coursework, the November 2022 tweet was connoisseurship, and the
+favorite-book verdict is the audit closed: the recruiting comedy, kept for
+six years through the deep dive and the writeback, ranked among the shelf's
+permanent residents.
+
 ## Limits of the record
 
 The deep dive rests on the EPUB Dan supplied (fully read 2026-09-15,
