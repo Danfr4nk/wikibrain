@@ -31,7 +31,7 @@ connections:
     claim: "The August 18, 2026 'performing' self-description is relayed through the prior wiki and is absent from the held corpus — testimony-grade. It is kept because it names the phenomenology the counterevidence has to answer."
   - page: wiki/mind/concepts/autism
     type: co-occurs
-    claim: "The felt-side account of the same territory the autism page treats architecturally: explicit-over-inferred meaning, bottom-percentile sociability, extreme social aversion. Dan raised the intersection himself inside the anxiety session ('edge case autist weirdo', in Breaking the anxiety avoidance cycle.md). Whether they are two labels for one system or two systems sharing a channel remains open. No clinical diagnosis asserted on either page (dat:0940)."
+    claim: "The felt-side account of the same territory the autism page treats architecturally: explicit-over-inferred meaning, bottom-percentile sociability, extreme social aversion. Dan raised the intersection himself inside the anxiety session ('edge case autist weirdo', in Breaking the anxiety avoidance cycle.md) — and the session predates the dated self-identification (mid-2025 per dat:0065 vs 2025-09-15 21:49:05 UTC per dat:0939; resolved 2026-09-15, work-0085). Whether they are two labels for one system or two systems sharing a channel remains open. No clinical diagnosis asserted on either page (dat:0940)."
 ---
 
 *Part of the [[wiki/mind/index|mind domain]] — concept.*
@@ -154,6 +154,18 @@ rule-bound exposure), and this page treats the felt experience of moving
 through rooms anyway. Whether they are two labels for one system or two
 systems sharing a channel remains open; no clinical diagnosis exists on
 either page (dat:0940).
+
+> **Chronology resolved, 2026-09-15 (work-0085):** the anxiety-session
+> self-frame predates the dated self-identification. The *Breaking the
+> anxiety avoidance cycle.md* session is dated to mid-2025 (June–August)
+> via its internal employment reference (dat:0065); the standalone
+> "SHUT UP I'M AUTISTIC" declaration is 2025-09-15 21:49:05 UTC
+> (dat:0939). So the autism framing emerged first inside
+> anxiety-help-seeking — deployed to question whether standard anxiety
+> advice reaches an edge-case architecture — and only later appeared as
+> a standalone identity declaration. Note the register caveat on the
+> September message (work-0078, dat:1554: revised toward banter, recipient
+> his sister).
 
 ## What the totality does not yet answer
 

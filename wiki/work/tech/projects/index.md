@@ -32,6 +32,19 @@ All of these were built in 2026 by directing AI agents (Claude, Muse Spark, Grok
 - [[wiki/work/tech/projects/imessage-analysis-toolkit]] — Gumroad product: chat.db forensic extraction
 - [[wiki/work/tech/projects/wikibrain-tooling]] — the bin/ renderer, validators, and push pipeline
 - [[wiki/work/tech/projects/frame-reference-tool]] — the exact-frame referencing web app (2026-09-15): set fps, jump to the frame, click the spot, Copy Reference
+- [[wiki/work/tech/projects/kinship]] — face-similarity tool (InsightFace CLI + ONNX Runtime web app, live at danfr4nk.github.io/tools/kinship/); the session that produced Dan's standing "I always want them" web-version rule
+
+## Consolidation (2026-09-15)
+
+Dan ordered the full consolidation of his tool repos into
+`Danfr4nk/tools` ("ALL the tools"), reported complete 17:47:57Z:
+attraction (530 files, from Danfr4nk/attraction-guide),
+hook2piano, musictrainer (from Danfr4nk/MusicTrainer),
+track-autopsy, modbod (571/571 files, four new Pages URLs 200),
+kinship (local-only, moved in 17:48:44Z). Old repos left as redirect
+stubs (index.html + 404.html catch-all); deletion pending his
+go-ahead. Live at https://danfr4nk.github.io/tools/. Source:
+dat:1580-tools-repo-consolidation-20260915.
 
 ## Consolidated elsewhere (not duplicated)
 
