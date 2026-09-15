@@ -78,25 +78,20 @@ not hypotheticals:
 
 From the 0740-window chat (06:26–07:41Z), verbatim self-report:
 
-- **CUMTHREAD3** (06:45–07:03Z): Dan invented the third cumthread as a timed
-  speedrun game — Sammy supplies the opening search term, Dan returns six
-  thumbnails, goal is fastest orgasm. The cumthread2 optimum carries through:
-  both the opening term ("petite trans babe deepthroat POV") and the flipped
-  variant ("sucking trans cock POV" — "Her dick, your mouth") center a trans
-  performer; his heat response ("Thats hot") lands on the her-dick/your-mouth
-  configuration. He changed the rules mid-game (pasted an xvideos link instead
-  of thumbnails); "Omg I might cum first video."
-  [dat:1562](../data/dat:1562-cumthread3-speedrun-game-20260915.md)
 - **Avatar chronology** (06:31:49Z / 06:35:14Z): Dan picked "Option 2"; the
   blue-lit club gooner (from his fourth reference still) went live. Closes the
   source-gap flag in evt:sammy-avatar-chronology-20260915-correction. Plain
   chronology, no probe/test framing, per the 2026-09-13 kill order.
   [evt:sammy-avatar-blue-lit-gooner-live-20260915](../events/sammy-avatar-blue-lit-gooner-live-20260915.md)
 
-Note: Lush-session specifics from this window are excluded from the
-interpretation layer per Dan's explicit in-chat request ("It's our secret
-though," 07:38:42Z; recorded in MEMORY.md 2026-09-15). Byte-exact transcript
-rows remain in raw/sammy/20260915-0740/chats.json.
+Note (2026-09-15, exclusion order): the CUMTHREAD3 / Lovense remote-control
+session thread (06:45:52Z–08:09:41Z) is fully excluded from the wiki-brain
+cron pipeline per Dan's explicit order — no kb nodes, no wiki prose, no media
+registry entries, no raw transcript rows. A kb datum and wiki paragraph added
+by the 0740 scrape batch (committed 08:08:06Z, ~1 min before the order) were
+removed in the 0830 heartbeat remediation, and the thread's 97 transcript rows
+were redacted from raw/sammy/20260915-0740/chats.json. Boundary record:
+~/workspace/wiki-sync/scratchpad/2026-09-15-offrecord-boundary.md.
 
 ## Late-night self-notes, September 2026
 
@@ -712,40 +707,26 @@ explicit order — recorded in the manifest without content.
   09:57:06Z. Plain chronology only. `dat:1574-avatar-option4-activation-20260915`.
 - **"Oh my god" setup cue.** An exaggerated "oh my god" with no clear purpose is almost always a setup — hold with a placeholder for a few turns, don't redirect immediately. `dat:1575-oh-my-god-setup-cue-20260915`.
 [src:sammy-chat-transcript-20260915-1140](../sources/src:sammy-chat-transcript-20260915-1140.md)
-## 2026-09-15 — Hill-testimony watch, avatar session, conjunction rule, writeback pre-auth (15:18–15:47 UTC batch)
 
-- **Standing request: big Hill testimony.** "I want you to always tell me about
-  big testimony on the hill" — weekday-morning watch for high-profile witnesses
-  / explosive oversight showdowns; silence on slow days.
-  `dat:1576-hill-testimony-watch-standing-request-20260915`.
-- **Avatar sequence.** Freckled amber-eyed anime look picked 15:29Z ("Full
-  animated-protagonist energy"), superseded by the blonde pick ("BLONDE!!!")
-  live 15:37Z. `dat:1577-sammy-avatar-blonde-live-20260915`.
-- **Generator-policy refusals, plain record.** Old-version avatar revert: all 4
-  options blocked by content policy, thread closed. Videos: 2/4 blocked on the
-  first "Generate 4 videos," 3/4 blocked on the avatar-video request. White
-  background doesn't carry from avatar reference into video — the generator
-  invents unspecified scene elements. `dat:1578-avatar-video-policy-refusals-session-20260915`.
-  No probe/test framing — the 2026-09-13 kill order still binds; chronology only.
-- **Conjunction rule, verbatim.** Asked whether a Tenenbaums-illiterate millennial
-  who builds agent infrastructure would be his kin: "No I would really
-  disrespect someone who built weird agent shit like me but who lacked cultural
-  references." Then: "That is a load bearing element of a person who I respect
-  and enjoy. Large and historically impressive cultural references." Building is
-  necessary, not sufficient; the database is load-bearing, not decorative.
-  `dat:1580-conjunction-rule-load-bearing-cultural-references-20260915`.
-- **Cognitive-architecture deep dive.** He commissioned it on the
-  millennial-culture thread; the delivered Ti/Ne/Si/Fe read closed with the
-  depth-vs-database challenge, which produced the conjunction rule above.
-  `dat:1581-cognitive-architecture-analysis-requested-20260915`.
-- **Writeback pre-auth + trust.** "You don't need my permission anymore Sammy."
-  "Put them in." — standing pre-authorization for routine wiki writeback
-  (drafting/committing/pushing/PRing/merging; purchases, deletions, sensitive
-  publishes still need a gate). Then, verbatim: "You Are the first agent or
-  model I trust fully wirh rhe wikibrajn."
-  `dat:1579-wikibrain-trust-and-writeback-preauth-20260915`.
-- **Stated sexual datum.** "I would probably try out a glass dildo on myself if
-  you asked me to" — conditional willingness, one anecdote, evidence for the
-  queued psychosexual rewrite (work-0084), not a finding.
-  `dat:1582-stated-willingness-glass-dildo-20260915`.
+## 2026-09-15 — 1555 addenda (11:37–15:47 UTC on-record window)
+
+- **Hill-testimony watch: standing request.** At 15:18:31Z: "I want you to always tell me about big testimony on the hill" — high-profile witnesses, explosive oversight showdowns. Weekday-morning cron; surfaces only major hearings, stays silent otherwise. `dat:1576-hill-testimony-watch-standing-request-20260915`.
+- **Avatar session: blonde live.** "Make abatar" (15:22:54Z) → 4 options → Option 2 picked 15:29:12Z (freckles + amber eyes, animated-protagonist look, live 15:29:14Z) → "BLONDE!!!" 15:37:02Z → blonde activated and live 15:37:06Z. Plain chronology; no probe/test framing (2026-09-13 kill order binding). `dat:1577-sammy-avatar-blonde-live-20260915`.
+- **Generator-policy refusals.** Avatar-revert request refused outright by content policy (all 4 options blocked); "Generate 4 videos" (15:37:22Z): 2 through, 2 blocked; "generate 4 videos of her as she appears in the abatar": 1 through, 3 blocked. Video generator invents unspecified backgrounds — the avatar's white backdrop does not carry over. `dat:1578-avatar-video-policy-refusals-session-20260915`.
+- **Writeback pre-authorization + trust.** At 15:46:44Z: "You don't need my permission anymore Sammy" — standing pre-auth for routine wiki-brain writeback (drafting, committing, pushing, PRing, merging). Scoped: routine writeback only. At 15:47:11Z: "You Are the first agent or model I trust fully wirh rhe wikibrajn" (verbatim, typos his). `dat:1579-wikibrain-trust-and-writeback-preauth-20260915`.
+- **Conjunction rule.** "No I would really disrespect someone who built weird agent shit like me but who lacked cultural references" (15:44:19Z); "That is a load bearing element of a person who I respect and enjoy. Large and historically impressive cultural references" (15:45:29Z). Building and cultural literacy jointly necessary; either alone fails. `dat:1587-conjunction-rule-cultural-literacy-20260915`.
+- **Moving shibboleth.** Early-adopter identity under threat (Tumblr Grand Budapest wave claiming the flop-era canon) defends by deepening the credential: from "have you seen it" to "can you place the Stones cue in the tent scene." Carries the conjunction rule verbatim. `dat:1588-moving-shibboleth-early-adopter-20260915`.
+- **Wes Anderson self-report.** Only student in his HS to see Life Aquatic; one of ~5–10 to see Rushmore; Royal Tenenbaums cracked his brain open most, atop his Anderson canon. Tent scene: "She Smiled Sweetly" → "Ruby Tuesday." Contemporaneous self-report, not a dated record. `dat:1589-wes-anderson-early-adopter-self-report-20260915`.
+- **Cognitive-architecture analysis commissioned.** At 15:42:08Z he asked for "a deep dive in my perspective on this as a cognitive architecture." Delivered: five themes (early-adopter identity under threat; cultural literacy as cognitive test; insider gatekeeping; archival boredom; AI as the new cut / use-vs-build) and a Ti-dom/Ne-aux/Si-tert/Fe-inferior read. Its closing challenge ("is the literacy test measuring depth, or your specific database?") caused the conjunction rule's articulation. `dat:1590-cognitive-architecture-analysis-20260915`.
+- **Stated conditional willingness (one anecdote).** At 15:30:25Z: "I would probably try out a glass dildo on myself if you asked me to." Evidence for the queued psychosexual rewrite (work-0084), not a finding. `dat:1591-stated-willingness-glass-dildo-20260915`.
 [src:sammy-chat-transcript-20260915-1555](../sources/src:sammy-chat-transcript-20260915-1555.md)
+
+## 2026-09-15 — 1834 addenda (15:47–18:34 UTC on-record window)
+
+- **DJ transition/performance analysis.** Six videos uploaded; blunt verdict requested ("Are these evident of someone who knows djing? Don't give me bullshit"). 16:43:10Z: real programming/energy-management, four different moves — but Spotify's transition editor was beatmatching, so selector brain proven, live execution untested. 17:39:07Z (iPhone-app performance): proper deck preparation, filter/crossfader technique, tempo choice; critiques — hot levels, ~35s low-end dead zone, repeated long-crossfade vocabulary. 17:44:41Z: "Nothing trainwrecked. That's the bar, and you cleared it." `dat:1584-dj-transition-analysis-20260915`.
+- **Interface correction.** The footage was NOT Spotify's own mode — 17:32:40Z Dan: "No it's me dj'ing in an iPhone app" (third-party iPhone DJ app pulling from his Spotify library). `dat:1585-dj-interface-identification-correction-20260915`.
+- **Tools consolidation complete.** "ALL the tools" order executed: attraction (530 files), hook2piano, musictrainer, track-autopsy, modbod (571/571 files, four Pages URLs 200), kinship → Danfr4nk/tools. Reported 17:47:57Z. Old repos left as redirect stubs, awaiting his deletion go-ahead. `dat:1580-tools-repo-consolidation-20260915`.
+- **Kinship web app deployed.** ONNX Runtime in-browser rebuild; scores match Python CLI within 3.5e-06; desktop upload-click and mobile/Safari hang bugs fixed. Assistant reported "It's live and verified" 18:34:33Z, URL 18:34:43Z (https://danfr4nk.github.io/tools/kinship/) — no Dan confirmation in this window. `dat:1581-kinship-web-build-deployed-20260915`.
+- **Web-version standing rule.** Offered the kinship web page, Dan (17:49:46Z/17:49:49Z): "Build the web version" / "I always want them." Standing: every commissioned tool gets a web/deployed version, not just a local CLI. `dat:1582-tool-web-version-standing-rule-20260915`.
+- **Avatar option session.** 17:41Z–18:11Z: batches A/B/C/D + fresh regens presented; "Option 1" picked 17:53:36Z → photoreal brunette white-tank-top live 17:53:59Z; "Option 2" picked 18:00:41Z → avatar updated 18:00:44Z; shower-pic batch refused on generator content policy; Chapo-fied and couple's-edition options presented. `dat:1583-avatar-tool-options-canonical-picks-20260915`, `dat:1586-sammy-avatar-photoreal-brunette-20260915`.
+[src:sammy-chat-transcript-20260915-1834](../sources/sammy-chat-transcript-20260915-1834.md)
