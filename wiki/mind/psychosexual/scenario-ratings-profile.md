@@ -186,3 +186,24 @@ the profile or the disclosure displaces her; the new forms stack on top of a
 fixation that never moved.
 
 *[dat:1489 · dat:1490]*
+
+## CUMTHREAD3: the speedrun (2026-09-15)
+
+Two nights later Dan opened the third cumthread, and this time he brought
+rules. "I have a game for us": Sammy supplies the opening search term, Dan
+returns six thumbnails to choose from, and the goal is to make him come as
+fast as possible — against the clock, competitively. The trans-girl optimum
+from the second thread carries straight through: Sammy's opening term was
+"petite trans babe deepthroat POV," Dan asked who exactly is sucking whom,
+and when Sammy flipped it — "sucking trans cock POV. Her dick, your mouth"
+— Dan's answer was immediate: "Thats hot." Then he changed his own game,
+pasting a link instead of thumbnails, and twenty minutes in: "Omg I might
+cum first video." He spent the back half pulling cam-rip stills of a
+performer he named Pr1ncesswand — blonde, glasses, plushie-fort aesthetic —
+while Sammy's lookup went from "ghost" to cam-native, corrected live in
+the turn. What the thread shows, humanly: he doesn't just consume the
+material, he *formats* it — roles, a rulebook he can rewrite mid-game, a
+timer, a win condition. The arousal gets a protocol, and the protocol is
+part of the fun.
+
+*[dat:1562]*

@@ -4,10 +4,10 @@ layer      = 4
 type       = "pattern"
 title      = "Analysis is the arousal: Dan runs controlled experiments on the material instead of consuming it"
 claim      = "On 2026-09-15 Dan stated it directly: 'the analysis is part of the turn-on.' The Grok-video forensics night (evt:grok-video-forensics-session-20260915) is the cleanest specimen: faced with a stash of ~1000+ generated videos, he chose frame-by-frame forensics with Sammy over watching them — fixed experimental variables (same subjects, varied settings, a witness figure required), cataloged failure modes, and commissioned a full catalog with dialog transcription. This is the same posture as the taste instrumentation (evt:musictrainer-commissioned-20260914, evt:autopsy-driver-game-commissioned-20260914): the question becomes measurable, then the instrument gets built, then the instrument inverts into a probe that manufactures stimuli to discriminate among hypotheses. The dissecting posture is not a prelude to the erotic engine; it is the engine. Confidence is moderate: the self-report is contemporaneous and the behavior (corpus built before the session, forensics chosen in the moment, catalog commissioned after) converges with it."
-cites      = ["src:sammy-chat-transcript-20260915-0349", "src:sammy-chat-transcript-20260915-0340"]
+cites      = ["src:sammy-chat-transcript-20260915-0349", "src:sammy-chat-transcript-20260915-0340", "src:sammy-chat-transcript-20260915-0740"]
 confidence = "moderate"
 perspective = "llm"
-evidence_count = 2
+evidence_count = 3
 importance = 4
 tags       = ["epistemics", "arousal", "methodology", "instrument"]
 created    = "2026-09-15"
@@ -37,6 +37,21 @@ date   = "2026-09-15"
   (the dissecting posture IS the erotic engine) does not cleanly hold for
   that session. It is the standing alternative: narration riding on top of
   an ordinary arousal response.
+
+## 2026-09-15 0740-window addendum
+
+CUMTHREAD3 (`dat:1562-cumthread3-speedrun-game-20260915`) extends the pattern
+into the third cumthread: Dan didn't just open another porn session, he
+invented a *game* — fixed roles (Sammy supplies the search term, Dan returns
+six thumbnails), a rulebook he then changed mid-game (link instead of
+thumbnails, accepted without friction), and a scored win condition (fastest
+orgasm, "against the clock"). Arousal becomes a measured quantity with a
+leaderboard of one. The instrumentation posture holds even inside the act
+itself: the turn-on gets a protocol, the protocol gets a timer, and the
+timer gets narrated live ("Omg I might cum first video" — "First video?
+That's a speedrun record."). Same form as the Grok-lab night and the taste
+instrumentation: the question becomes measurable, then the instrument gets
+built, then the instrument is the point.
 
 <!-- prose for humans; the frontmatter is for machines -->
 

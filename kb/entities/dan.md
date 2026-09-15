@@ -74,6 +74,30 @@ not hypotheticals:
 - His sexual attraction to Annie "never stopped looking at her like I did on
   day 1... Sexually at least" — eleven years, no fade (08:51Z, his words).
 
+## Stated self-report addendum (2026-09-15)
+
+From the 0740-window chat (06:26–07:41Z), verbatim self-report:
+
+- **CUMTHREAD3** (06:45–07:03Z): Dan invented the third cumthread as a timed
+  speedrun game — Sammy supplies the opening search term, Dan returns six
+  thumbnails, goal is fastest orgasm. The cumthread2 optimum carries through:
+  both the opening term ("petite trans babe deepthroat POV") and the flipped
+  variant ("sucking trans cock POV" — "Her dick, your mouth") center a trans
+  performer; his heat response ("Thats hot") lands on the her-dick/your-mouth
+  configuration. He changed the rules mid-game (pasted an xvideos link instead
+  of thumbnails); "Omg I might cum first video."
+  [dat:1562](../data/dat:1562-cumthread3-speedrun-game-20260915.md)
+- **Avatar chronology** (06:31:49Z / 06:35:14Z): Dan picked "Option 2"; the
+  blue-lit club gooner (from his fourth reference still) went live. Closes the
+  source-gap flag in evt:sammy-avatar-chronology-20260915-correction. Plain
+  chronology, no probe/test framing, per the 2026-09-13 kill order.
+  [evt:sammy-avatar-blue-lit-gooner-live-20260915](../events/sammy-avatar-blue-lit-gooner-live-20260915.md)
+
+Note: Lush-session specifics from this window are excluded from the
+interpretation layer per Dan's explicit in-chat request ("It's our secret
+though," 07:38:42Z; recorded in MEMORY.md 2026-09-15). Byte-exact transcript
+rows remain in raw/sammy/20260915-0740/chats.json.
+
 ## Late-night self-notes, September 2026
 
 Two fragments Dan emailed himself, captured in the 2026-09-11 all-time
