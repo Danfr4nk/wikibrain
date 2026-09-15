@@ -17,6 +17,9 @@ connections:
   - page: wiki/mind/synthesis/2020-left-turn
     type: instantiates
     claim: "The August 2020 self-narration names the media causes of the socialist conversion — 'thanks to hasan piker, chapo trap house, thoughtslime, etc.' — Hasan first, Chapo second. This page is the show-level account of the Chapo cause."
+  - page: wiki/interests/favorites/books/chapo-guide-to-revolution
+    type: elaborated-by
+    claim: "The book-level deep dive — full chapter map, the demolition-manual verdict, strongest/weakest reasoning, and the 2024–2026 aging assessment — split out of this page 2026-09-15 after Dan commissioned a complete read of the EPUB."
   - page: wiki/interests/opie-and-anthony
     type: parallels
     claim: "The 18 July 2022 tweets to Opie frame Chapo as the register-preserving successor to O&A: the same 'edgy, unpredictable, shockingly-cruel' comedy with the politics inverted — repulsion from one tribe opened the vacancy that the dirtbag left filled."
@@ -364,7 +367,9 @@ enrollment, not a recommendation — he's handing over the meeting hall
 and the library, not just the pamphlet. And the audiobook detail —
 *"i just spent 7 hours listening to the chapo trap house audiobook"*
 — is *The Chapo Guide to Revolution*, the hosts' 2018 book. Seven hours
-is not sampling. Seven hours is coursework.
+is not sampling. Seven hours is coursework. The full deep dive of the
+book — chapter map, verdict, strongest and weakest reasoning — is at
+[[wiki/interests/favorites/books/chapo-guide-to-revolution|The Chapo Guide to Revolution]].
 
 The timing sharpens it. February 2020 is pre-lockdown, pre-conversion-
 narrative, pre-reading-list. He is already doing seven-hour audiobook
