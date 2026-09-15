@@ -770,6 +770,22 @@ this page.
   systematically mined; the loop's frequency outside intense bonds is
   unmeasured.
 
+### Ledger boundary, settled 2026-09-14: third-party severance claims are not episodes
+
+The 129-count's unit of analysis is the **in-channel declaration** — a
+severance signal Dan sent *to Annie*, with re-engagement measured by
+subsequent corpus messages between them. A severance claim made to a third
+party does not enter the ledger even when it uses ledger language.
+Demonstrated 2026-09-14 (dat:1555, work-0080): on 2025-09-15 Dan told his
+sister Vanessa he had *"finally ended things with annie after a long, slow
+relationship death march"* — while the Annie channel carried 2,480 messages
+that same week with no gap, including his *"you're the only person in my
+world"* nineteen hours before the Vanessa message. The claim is the
+corpus's sole third-party "ended things with Annie" statement (2011–2026
+sweep), and it is falsified as a breakup by the channel record. It belongs
+to the ledger's boundary conditions, not its rows: evidence of the gap
+between the story told outward and the channel never left.
+
 > **RE-CHECKED [2026-08-15] — premise moved, conclusion unaffected.**
 > [[wiki/people/annie-ulmer]] moved on 2026-08-15, but only inside its
 > 2026-08-02 REVISED block, and only to restate how the November 2015 sequence

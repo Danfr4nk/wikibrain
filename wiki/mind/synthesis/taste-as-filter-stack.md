@@ -247,6 +247,10 @@ Three facts about this rule do most of the analytical work:
 
 **Third, the test is loyalty-blind by construction.** At 33% into a first audition, the name on the track hasn't had time to matter — the verdict lands on the drop, not the discography. This is the mechanism behind Filter 6 (no loyalties): the pipeline *cannot* select by artist identity because the decision point precedes identity recognition. The 2.6% artist ceiling isn't an attitude; it's what a 33%-in triage produces.
 
+### The instruments (2026-09-14)
+
+On 2026-09-14 Dan commissioned the pipeline's instrumentation — two static web apps that operationalize this entry's measurements. [[wiki/work/tech/projects/musictrainer-autopsy|MusicTrainer]] scores every Discover Weekly and Release Radar track 1–10 with skip/like triage and an ADDED? verdict (keep = liked + into the current playlist), running timestamped prediction locks against the outcomes — the 33% test made legible, week by week. **AUTOPSY** dissects the keepers: 16 what-did-it drivers per track (drop, sound design, bass weight, vocal-as-texture, set utility…) plus a kill-one load-bearing-element pick, ranking attributes by lift over base keep rate. If the filter stack describes the ear's architecture, the instruments measure it live — MusicTrainer captures the verdicts, AUTOPSY captures what the verdicts were *for*.
+
 ### The liked timeline (the re-entry, dated)
 
 Monthly histogram of the 1,913 canonical likes [DERIVED — HIGH, direct from `Added At` timestamps]:
