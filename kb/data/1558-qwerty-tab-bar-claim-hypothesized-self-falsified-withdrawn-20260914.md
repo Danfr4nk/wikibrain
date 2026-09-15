@@ -9,6 +9,7 @@ confidence = "high"
 provenance = "verbatim user/assistant rows 2026-09-14T19:32:51Z-19:40:34Z; byte-exact in raw/sammy/20260914-1940/chats.json"
 reliability = "primary"
 extraction = "Per-row md5-verified SQL-side and file-side (96/96, 0 mismatches)."
+rechecked    = "2026-09-15"
 importance = 4
 tags       = ["epistemics", "self-correction", "ux", "2026"]
 created    = "2026-09-14"

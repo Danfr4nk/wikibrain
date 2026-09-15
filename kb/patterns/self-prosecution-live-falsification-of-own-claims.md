@@ -8,6 +8,7 @@ cites      = ["src:sammy-chat-transcript-20260914-1940", "src:sammy-chat-transcr
 confidence = "moderate"
 perspective = "llm"
 evidence_count = 5
+rechecked    = "2026-09-15"
 importance = 4
 tags       = ["epistemics", "self-correction", "personality"]
 created    = "2026-09-14"
