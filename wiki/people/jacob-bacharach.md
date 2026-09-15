@@ -193,22 +193,34 @@ street."*
 
 ## Which book is it
 
-> **CONTRADICTION [2026-08-08] — open.** Dan attributes the Virginia Avenue
-> passage to ***The Bend of the World*** (2014) and cites pages 227–228.
-> Bacharach's own February 2021 message names a different novel as the
-> Uniontown book: *"it figures prominently in my Doorposts of Your House*
-> *novel."* The reading record sides with Bacharach. Dan's Goodreads library
-> and the FAVS masterlist each contain exactly one Bacharach title —
-> ***The Doorposts of Your House and on Your Gates*** (Liveright, 2017),
-> rated **5**, shelved 2022-03-24 — and *The Bend of the World* appears in
-> neither, despite being the book the entire story is built on. It surfaces
-> only in the browsing log, alongside Doorposts, as something looked up. The
-> likeliest reading is that Dan read the book Bacharach told him to read and
-> has been calling it by the wrong title for five years, but the page number
-> he cites is specific enough that it should be checked against a physical
-> copy before the correction is made. This also retires an unsupported claim
-> the earlier version of this page carried: that Dan had read and five-starred
-> *both* novels. The record shows one.
+> **CONTRADICTION [2026-08-08] — RESOLVED 2026-09-15 (work-0030).** The
+> passage is from ***The Doorposts of Your House and on Your Gates***
+> (Liveright, 2017), not *The Bend of the World* (2014). Four legs, all
+> pointing the same way: (1) Bacharach's own February 2021 message names
+> *"my Doorposts of Your House novel"* as the Uniontown book; (2) the held
+> Goodreads library export (raw/drive-sweep/20260911/goodreads/goodreads_library_export.from-gdoc.txt)
+> contains exactly one Bacharach title — *Doorposts*, rated 5 — and zero
+> occurrences of *The Bend of the World* anywhere; the FAVS masterlist agrees;
+> (3) no held message anywhere in the corpus shows Dan naming *Doorposts*
+> correctly — all 11 corpus hits for "Bend of the World" are wiki-page text;
+> (4) the external bibliographic record (Kirkus, Jewish Book Council,
+> Pittsburgh Magazine) describes *Doorposts* as the western-Pennsylvania /
+> Fayette County novel — the rust-belt setting that matches Uniontown —
+> while *Bend of the World* is the earlier book. Dan read the book Bacharach
+> told him to read and called it by the wrong title for five years.
+>
+> The drift mechanism is identified, and it is held: the corpus's most-worked
+> retelling, the Gemini-_13 session (raw/drive-sweep/20260911/gdocs/dox-md/Gemini-_13.md.from-gdoc.txt),
+> labels the book in ENTRY 3 — "Reading his memoir/novel, 'The Bend of the
+> World'" — and puts the Virginia Avenue description at "Page 227-228" in
+> ENTRY 4. That same session text is demonstrably unreliable about the very
+> passage: it narrates the house as one "his family lived in circa 1991," a
+> claim Dan later rejected flatly (*"JACOB OR HIS FAMILY NEVER LIVED ON
+> VIRGINIA AVENUE"*). The model narrated a title label and every downstream
+> retelling inherited it — five years of testimony drift with a held
+> source. This also
+> retires the unsupported claim the earlier version of this page carried:
+> that Dan had read and five-starred *both* novels. The record shows one.
 
 ## Why it is the flagship
 
@@ -280,11 +292,13 @@ undocumented; Dan says "we keep in touch," and the corpus preserves exactly
 one exchange. Whether the HTML artifact was ever sent, and whether Bacharach
 ever learned that the house was in the family, are unrecorded — the session
 transcripts end with the model urging Dan to tell him and no evidence that he
-did. The book question above is open. Gemini asserted, from a deed lookup it
+did. The book question above is resolved (work-0030, 2026-09-15). Gemini asserted, from a deed lookup it
 was not asked to show its work on, that Suz held 155 Virginia for roughly
 twelve years and sold it in **May 2020**; that date appears nowhere else in
 the corpus and should be treated as unverified until a Fayette County
 recorder search settles it. And the two-day discrepancy on Nathan Bacharach's
 death date stands.
 
+---
 
+**Up:** [[wiki/people/index|People]]

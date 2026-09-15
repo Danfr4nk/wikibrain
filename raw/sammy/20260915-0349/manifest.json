@@ -1,0 +1,21 @@
+{
+  "batch": "20260915-0349",
+  "pulled_at": "2026-09-15T04:13:36Z",
+  "watermark_from": "2026-09-14T19:40:34.12+00:00",
+  "watermark_to": "2026-09-15T03:50:26.638+00:00",
+  "source": "muse.db runtime.messages x runtime.events, user/assistant roles, full bodies byte-exact",
+  "counts": {
+    "total": 563,
+    "user": 187,
+    "assistant": 376
+  },
+  "bytes": 272724,
+  "files": [
+    {
+      "path": "chats.json",
+      "bytes": 272724,
+      "sha256": "4181504e5548cf6236f97bbf1f06184bc8c61dd8dacbe0e55c88829f700f4c92"
+    }
+  ],
+  "notes": "563 rows: 187 user + 376 assistant. Some assistant bodies are empty strings (retained; only null bodies excluded). 1,049 non-null rows existed including system/subagent rows, excluded per standing convention. Window 19:40:34Z-19:46:55Z gap has zero rows. Partially overlaps 20260914-2030 heartbeat batch (19:46:55Z-20:30Z); overlapping rows byte-identical per prior precedent."
+}

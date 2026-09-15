@@ -31,6 +31,7 @@ All of these were built in 2026 by directing AI agents (Claude, Muse Spark, Grok
 - [[wiki/work/tech/projects/stylometry]] — 30-minute state tracker against a 94,503-message baseline
 - [[wiki/work/tech/projects/imessage-analysis-toolkit]] — Gumroad product: chat.db forensic extraction
 - [[wiki/work/tech/projects/wikibrain-tooling]] — the bin/ renderer, validators, and push pipeline
+- [[wiki/work/tech/projects/frame-reference-tool]] — the exact-frame referencing web app (2026-09-15): set fps, jump to the frame, click the spot, Copy Reference
 
 ## Consolidated elsewhere (not duplicated)
 

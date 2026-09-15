@@ -1,0 +1,23 @@
+{
+ "batch": "20260915-0630",
+ "base_commit": "8ce925b",
+ "window_from": "2026-09-15T03:50:26.638+00:00",
+ "cutoff": "2026-09-15T06:26:11Z",
+ "rows": 237,
+ "user": 104,
+ "assistant": 133,
+ "first_row": "2026-09-15T03:53:15.325+00:00",
+ "last_row": "2026-09-15T06:15:06.949+00:00",
+ "missing_bodies": 0,
+ "truncated": 0,
+ "duplicates": 0,
+ "files": {
+  "chats.json": {
+   "bytes": 118296,
+   "sha256": "f3be9b9819712954aea8f3283b4aaa5b3627f6272af5b31ad954ceadfcbef96d",
+   "byte_count_utf8_body_total": 49320
+  }
+ },
+ "extraction": "muse.db live query, 2 bounded SELECTs, no manual transcription",
+ "note_0349": "batch 20260915-0349 WAS extracted 2026-09-15T04:13:36Z (563 rows, window 2026-09-14T19:40:34Z -> 2026-09-15T03:50:26Z, sha256 4181504e...) and mirrored to RAWLOGS main, but never committed to wikibrain origin/main or the shared clone; the 2026-09-15T05:16:15Z claim that it landed in BOTH repos was false. Remediated in this run: the RAWLOGS batch was mirrored back into wikibrain raw/sammy/20260915-0349/ (files byte-identical, checksum matches). No transcript loss; this batch continues from the 0340 watermark."
+}
