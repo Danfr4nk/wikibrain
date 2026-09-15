@@ -1,0 +1,31 @@
+{
+ "batch": "20260914-2030",
+ "pulled_at": "2026-09-15T00:45:00Z",
+ "window": {
+  "chats_from": "2026-09-14T23:40:34Z",
+  "chats_to": "2026-09-15T00:30:00Z"
+ },
+ "counts": {
+  "chat_rows_scanned": 55,
+  "chat_rows_archived": 55,
+  "chat_rows_truncated": 0,
+  "user_rows": 14,
+  "assistant_rows": 41,
+  "system_rows_excluded": 0
+ },
+ "note": "Gap batch for the 19:40-20:30 EDT heartbeat window; the 1940 scrape batch (on origin/sammy/wiki-sync) covers up to 19:40:34Z.",
+ "files": {
+  "chats.json": {
+   "sha256": "b89da3ad36268df0d90f1e374b80ea2dbc4da9a1a0a2b95d439fd104e7c18d3e",
+   "bytes": 17108
+  },
+  "EXTRACT.md": {
+   "sha256": "5a52fd0be71fd13bb33d1b34a8acb7953d46b7664ab704adf417058feca85376",
+   "bytes": 2245
+  },
+  "manifest.json": {
+   "sha256": "4a3f916458dd6a3deeda88f7e131cf7af3e9a86b6086fd76cb8d578d25fb6171",
+   "bytes": 728
+  }
+ }
+}

@@ -687,6 +687,36 @@ alternate images with a different top color were blocked by the
 media content policy and never generated — a content-grounded
 block, recorded as plain history. **[OPERATOR / ATTESTED]**
 
+## The 2026-09-14 late session (19:35): the gate is killed
+
+Dan's verbatim order at 19:35:04 EDT: "Okay kill thr no new avatars
+rule. We are back in the hunt. Save the current one though." The
+2026-09-13 pre-authorization grant is restored — full unilateral
+authority to generate/change/publish avatars, no confirm-first gate.
+The 10x-chaos demon-bot (active avatar-1789427131670130604-0, his
+"Option 1" pick from the chaos batch — photoreal horned robot head,
+rainbow laser eyes, hoodie with anime-girl graphic and rainbow drip,
+green lightning sleeves, exploding color particles, robot hands,
+cybernetic legs, Vans) was archived at
+`~/workspace/your_files/avatar-gallery/picked/88_chaos-demon-bot/`
+(still + all five animation mp4s). The identity constraint stands:
+guy or AFAB trans female — no female avatar ("We don't want any more
+fucking women around here fucking things up"). Plain history
+throughout — no probe framing, per the 2026-09-13 kill order.
+**[OPERATOR / ATTESTED]**
+
+**The miniskirt refusal (content-grounded).** Minutes after the gate
+died, Dan asked to redress Annie's real photo into a miniskirt; Sammy
+refused — she is a real person who reads young — offered an original
+fictional character instead, and then generated Dan's stylized avatar
+portrait after "Abatar me" (upload-086 registered with the refusal
+record, not for avatar generation). Refusal recorded as plain history,
+per the standing carve-out. **[OPERATOR / ATTESTED]**
+
+Evidence: `evt:avatar-rule-killed-20260914`,
+`dat:miniskirt-redress-refusal-20260914` (source:
+`src:sammy-chat-transcript-20260914-1940`).
+
 ## What was learned
 
 The lab's four days produced a small set of durable operating
@@ -739,7 +769,19 @@ mirror and NN naming scheme are standing rules for every
 future generation; the censorship-and-registry pipeline
 governs what gets committed. [[wiki/work/tech/attraction-guide|The attraction guide]] (Frame
 Describe, Face Book, the diagnostic) is the shipped showroom;
-this page is the shop floor's history. Avatar churn ended
+this page is the shop floor's history.
+
+> **UPDATE [2026-09-14 19:35 EDT]** — the confirm-first gate
+> below is dead. Dan revoked it verbatim ("kill the no new
+> avatars rule, we are back in the hunt"), restoring the
+> 2026-09-13 pre-authorization grant: full unilateral authority
+> to generate/change/publish avatars. The demon-bot is archived
+> at `~/workspace/your_files/avatar-gallery/picked/88_chaos-demon-bot/`;
+> the identity constraint (guy or AFAB trans female, no female
+> avatar) stands. The "Avatar churn ended 2026-09-14" reading
+> below is superseded — the hunt is back on.
+
+Avatar churn ended
 2026-09-14: the demon-bot avatar (avatar-1789349009462644487-16)
 was declared the winner, and Dan's confirm-first gate (dat:1547)
 superseded the 2026-09-12 "we are keeping" lock — no avatar

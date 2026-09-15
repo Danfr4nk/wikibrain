@@ -291,6 +291,33 @@ predates Dan's by years. You can't block the infrastructure. The December
 portals would be filed, in a sense, against the wrong defendant: the
 person with the paperwork was never the person with the leverage.
 
+### September 15: the "ended things" he told Vanessa (2026-09-14 discovery)
+
+On **2025-09-15 at 21:41**, at the absolute peak of the September flood, Dan
+told his sister Vanessa he had *"finally ended things with annie after a
+long, slow relationship death march"* and was seeing a new girl — *"smart,
+and she's into politics and is sober, vegan and responsible enough to work
+in a pharmacy as a technician"* **[ATTESTED]** (dat:1555). The description
+is Kristin, unmistakably. Nineteen hours earlier the same day he had told
+Annie she was *"the only person in my world that really matters… I will
+choose you over my own family."* September 13–18 carries **2,480 messages**
+between Dan and Annie with no gap — 1,291 from him, 1,189 from her
+**[DERIVED]**. There was no breakup. There was not even a pause.
+
+This is the overlap's cleanest falsification of the clean-break story, and
+it matters for what this entry is: the Kristin era did not begin *after*
+Annie. It began *inside* her — inside a week of continuous high-volume
+Annie contact (2,480 messages September 13–18), with the new relationship's
+founding narrative ("I ended things") already false on the day it was first
+told. Vanessa's own
+read at the time: *"your pattern of relationship hopping."* A full-corpus
+sweep finds this is the **only** third-party "ended things with Annie" claim
+in the iMessage record, 2011–2026 — a singleton, not a habit of
+announcement. The severance ledger does not count it: the ledger's unit is
+the in-channel declaration, and this one never entered the channel. What it
+enters is the record of the gap between the story he told outward and the
+channel he never left.
+
 ### October: the cooling, named in advance
 
 October holds **4,896 messages, 24.5%** — still heavy, but the slope is

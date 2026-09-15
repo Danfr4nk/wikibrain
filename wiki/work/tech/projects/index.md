@@ -4,7 +4,7 @@ page_type: summary
 title: "Coding Projects"
 status: active
 date_created: 2026-09-11
-date_modified: 2026-09-11
+date_modified: 2026-09-14
 sources:
   - "Sammy working context, 2026-09-11"
 related:
@@ -23,6 +23,7 @@ All of these were built in 2026 by directing AI agents (Claude, Muse Spark, Grok
 ## Entries
 
 - [[wiki/work/tech/projects/hook2piano]] — TheoryTab→piano-score web harness (live on GitHub Pages)
+- [[wiki/work/tech/projects/musictrainer-autopsy]] — MusicTrainer + AUTOPSY: the 90%-prediction taste instruments (live on GitHub Pages)
 - [[wiki/work/tech/projects/attraction-guide]] — rerunnable A/B facial-attraction diagnostic game
   - [[wiki/work/tech/projects/attraction-guide-telemetry]] — the MediaPipe telemetry lab (telemetry.html)
   - [[wiki/work/tech/projects/attraction-guide-scenario]] — scenario telemetry v6 and scenario ratings v2
