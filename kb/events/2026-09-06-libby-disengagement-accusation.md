@@ -3,15 +3,15 @@ id         = "evt:2026-09-06-libby-disengagement-accusation"
 layer      = 2
 type       = "event"
 title      = "Annie's Libby-era disengagement accusation: single 1 AM outburst, retracted in two minutes"
-cites      = ["dat:libby-engagement-metrics", "dat:libby-claims-ledger", "dat:libby-justification-timeline"]
+cites      = ["dat:libby-claims-ledger", "dat:libby-justification-timeline"]
 confidence = "high"
 importance = 4
 tags       = ["annie", "libby-era", "engagement", "grievance", "2026"]
 created    = "2026-09-14"
 
 [when]
-start = "2026-09-06T01:12"
-end   = "2026-09-06T01:19"
+start = "2026-09-06"
+end   = "2026-09-06"
 approx = "just after 1 AM EDT, September 6, 2026 (export stores 05:12 UTC)"
 
 [[edges]]
@@ -27,10 +27,10 @@ strength    = "strong"
 asserted_by = "self"
 
 [[edges]]
-rel         = "contradicts"
+rel         = "contradicted"
 target      = "evt:2026-02-22-annie-self-blame-exoneration"
 strength    = "strong"
-asserted_by = "analysis"
+asserted_by = "llm"
 +++
 
 ## What happened

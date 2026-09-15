@@ -3,7 +3,7 @@ id         = "evt:2024-08-libby-wage-demand-letters"
 layer      = 2
 type       = "event"
 title      = "Dan drafts three escalating unpaid-wages demand letters for Annie's Libby work"
-cites      = ["wiki/people/libby-titus"]
+cites      = ["dat:libby-engagement-metrics"]
 confidence = "high"
 importance = 4
 tags       = ["annie", "libby-era", "advocacy", "2024", "forensic-register"]
@@ -27,16 +27,10 @@ strength    = "strong"
 asserted_by = "self"
 
 [[edges]]
-rel         = "about"
-target      = "ent:libby-titus"
-strength    = "moderate"
-asserted_by = "self"
-
-[[edges]]
-rel         = "counters"
+rel         = "challenges"
 target      = "evt:2026-09-06-libby-disengagement-accusation"
 strength    = "moderate"
-asserted_by = "analysis"
+asserted_by = "llm"
 +++
 
 ## What happened
