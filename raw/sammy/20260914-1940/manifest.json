@@ -1,0 +1,58 @@
+{
+ "batch": "20260914-1940",
+ "pulled_at": "2026-09-14T19:55:00Z",
+ "sources": {
+  "chats": {
+   "watermark_from": "2026-09-14T12:43:57.632+00:00",
+   "watermark_to": "2026-09-14T19:40:34.12+00:00",
+   "rows_scanned": 478,
+   "rows_archived": 96,
+   "user": 46,
+   "assistant": 50,
+   "system_excluded": 382,
+   "truncated": 0,
+   "note": "full bodies byte-exact; system rows excluded per standing convention"
+  },
+  "instagram": {
+   "watermark": "2026-09-14T01:05:11Z",
+   "checked": "2026-09-14T19:46-19:50Z",
+   "new_items": 0,
+   "note": "posts newest 2026-08-26; story 17976118472922462 still active, viewers 43->67->83, already archived 20260914-0340"
+  },
+  "threads": {
+   "watermark": "2026-08-26T23:04:55Z",
+   "checked": "2026-09-14T19:46-19:50Z",
+   "new_items": 0
+  },
+  "facebook": {
+   "watermark": "2026-07-04T15:51:25-04:00",
+   "checked": "2026-09-14T19:46-19:50Z",
+   "new_items": 0
+  },
+  "messenger": {
+   "watermark": "2026-08-26T22:23:43.707Z",
+   "checked": "2026-09-14T19:46-19:50Z",
+   "new_items": 0,
+   "note": "2 threads cached; Ryan Lisac thread unread, unchanged"
+  },
+  "spotify": {
+   "watermark": "snapshot-2026-09-14T19:50:00Z",
+   "checked": "2026-09-14T19:46-19:50Z",
+   "new_items": 0,
+   "note": "now-playing identical to 1540 snapshot: blunn 'don't need u (i do)' PAUSED, playlist \"Baby's First Stalker\"; inventory not re-pulled"
+  },
+  "device": {
+   "watermark": null,
+   "note": "no read path for iOS texts"
+  },
+  "gmail": {
+   "note": "excluded per Dan's 2026-09-11 order"
+  }
+ },
+ "files": {
+  "chats.json": {
+   "sha256": "dcc4346a374c8b6eb69d73d180136e78977375d27f090ad617962189b4b7e944",
+   "bytes": 44973
+  }
+ }
+}

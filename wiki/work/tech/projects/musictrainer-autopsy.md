@@ -77,6 +77,35 @@ Discover Weekly read-back ("the 33% gauntlet awaits") showed the
 instrumentation answering a live question in his ladder's vocabulary the
 same night it shipped.
 
+## Week-1 scoring-flow fixes (2026-09-14, 0340 scrape window)
+
+Dan's week-1 pass on the 30 Discover Weekly tracks surfaced friction in the
+scorecard:
+
+- **The score slider request (20:30 EDT).** Dan wanted a manual score slider
+  (1–10) per track rather than deriving the score — implemented in the next
+  push. Score was previously button/slider-locked; now user-entered.
+- **ADDED? yes/no (20:31 EDT).** Per his ladder taxonomy, the determining
+  factor is keep = liked + into current playlist; the ADDED? column records
+  whether the track actually cleared that bar. This is the instrument's
+  ground-truth target for the 90% prediction game.
+- **Lock semantics (20:38 EDT).** Dan asked whether his 8 baseline
+  predictions were locked; the week-lock model is per-track status
+  (scored vs pending), not a global lock — 12 of 30 scored by 20:36, 18
+  remaining. 'Lose' condition per his ladder: anything that does not make
+  the current playlist lost the triage.
+- **Blank-page bug (20:46–20:48 EDT).** Dan reported the Week 1 page went
+  blank after the slider deploy; Sammy investigated and shipped a fix in
+  the same thread — the app re-rendered on user clicks per the earlier
+  click-to-load embed spec. Unresolved-confirmation: Dan never confirmed
+  the fix rendered in-window; the bug sits with him until next session.
+  (Parallel failure note: the Wiki Brain gate deploy hit the same class of
+  blank-screen failure the same night —
+  `evt:gate-password-deploy-white-screen-20260915`.)
+
+Evidence: `src:sammy-chat-transcript-20260915-0340`. Live:
+https://danfr4nk.github.io/MusicTrainer/.
+
 ## Active-learning implications
 
 Two futures are already visible in the design:
