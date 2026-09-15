@@ -200,7 +200,7 @@ street."*
 > *"my Doorposts of Your House novel"* as the Uniontown book; (2) the held
 > Goodreads library export (raw/drive-sweep/20260911/goodreads/goodreads_library_export.from-gdoc.txt)
 > contains exactly one Bacharach title — *Doorposts*, rated 5 — and zero
-> occurrences of *The Bend of the World* anywhere; the FAVS masterlist agrees;
+> occurrences of *The Bend of the World* anywhere;
 > (3) no held message anywhere in the corpus shows Dan naming *Doorposts*
 > correctly — all 11 corpus hits for "Bend of the World" are wiki-page text;
 > (4) the external bibliographic record (Kirkus, Jewish Book Council,
