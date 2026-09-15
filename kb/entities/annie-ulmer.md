@@ -576,3 +576,26 @@ Dan's on-record testimony this session (all post-reboot, explicitly authorized f
 - **Arrangement-era male-partner sourcing.** Every male partner she had in that era came through Dan-gated channels: a friend of his whose hookup he arranged, or an escort client he screened. Scoped to male partners; April 2019 (female third party) stands as the documented exception. `dat:1565-male-partner-sourcing-taxonomy-20260915`.
 - **Kinship-meter smoke test.** The commissioned face-comparison tool scored Dan-vs-Annie 0.03 and Annie-vs-Alexis −0.03 — resemblance-meter readings from a heuristic instrument, not kinship evidence; do not cite as relatedness data. `dat:1568-kinship-face-comparator-20260915`.
 [src:sammy-chat-transcript-20260915-1140](../sources/src:sammy-chat-transcript-20260915-1140.md)
+
+## 2026-09-15 — in-person contact, impress-her coaching, reported escalation
+
+Dan reported Annie physically present with him that evening ("Annie is
+here and I want to impress her," 18:50:46Z) — contact ongoing, now
+in-person. Sammy's coaching stayed in trivia: they "met" on her birthday
+night (Nov 28; "collided at the Country Club at ~2 AM the 29th") and the
+@Lo_weez → @Annelouise28 handle change, which Sammy attributed to leaked
+nudes burning the old name. Verification note: the meeting telling
+compresses the page's corrected origin (introduction ~Nov 24 vs first
+in-person meeting Nov 29); the handle transition is corpus-corroborated
+but the nude-leak causal claim is Sammy's assertion, unverified
+(`dat:1594-sammy-annie-trivia-telling-20260915`).
+
+In her presence Dan reported physical escalation — "She let me touch her
+pussy abd ass outside her pants" (19:15:40Z), "I shoved my head into her
+lap" (19:15:52Z) — and stated on-record: "I would seriously trade actual
+sex away for just constant incredible foreplay" (19:17:24Z), converging
+with the incorporation-worship and oral-service-fixation material. He
+also opened a dedicated "Annie thread" side chat at 19:42Z for the
+granular body discussion; no rows from it fall in this batch's window.
+`dat:1593-annie-in-person-contact-20260915`.
+[src:sammy-chat-transcript-20260915-1940](../sources/src-sammy-chat-transcript-20260915-1940.md)

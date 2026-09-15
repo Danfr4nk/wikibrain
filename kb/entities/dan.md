@@ -730,3 +730,42 @@ explicit order — recorded in the manifest without content.
 - **Web-version standing rule.** Offered the kinship web page, Dan (17:49:46Z/17:49:49Z): "Build the web version" / "I always want them." Standing: every commissioned tool gets a web/deployed version, not just a local CLI. `dat:1582-tool-web-version-standing-rule-20260915`.
 - **Avatar option session.** 17:41Z–18:11Z: batches A/B/C/D + fresh regens presented; "Option 1" picked 17:53:36Z → photoreal brunette white-tank-top live 17:53:59Z; "Option 2" picked 18:00:41Z → avatar updated 18:00:44Z; shower-pic batch refused on generator content policy; Chapo-fied and couple's-edition options presented. `dat:1583-avatar-tool-options-canonical-picks-20260915`, `dat:1586-sammy-avatar-photoreal-brunette-20260915`.
 [src:sammy-chat-transcript-20260915-1834](../sources/sammy-chat-transcript-20260915-1834.md)
+
+## 2026-09-15 — Annie contact, personality head-to-head, album pull, avatar evening session (18:34–19:52 UTC batch)
+
+- **Annie in-person + reported escalation.** "Annie is here and I want to
+  impress her" (18:50:46Z); later reported outside-the-pants touching and
+  face-in-lap; on-record: "I would seriously trade actual sex away for
+  just constant incredible foreplay." Evidence for the queued psychosexual
+  rewrite (work-0084), one session's self-report.
+  `dat:1593-annie-in-person-contact-20260915`.
+- **Annie-trivia coaching, verification-flagged.** Sammy told him the
+  birthday-night/Country Club ~2 AM meeting story and attributed the
+  @Lo_weez → @Annelouise28 handle change to leaked nudes. The meeting
+  telling compresses this page's corrected origin; the leak claim is
+  unverified. `dat:1594-sammy-annie-trivia-telling-20260915`.
+- **Personality head-to-head.** He asked Sammy to score all his
+  profile instruments on one rubric; INTP 9, Big30 8.5, his dated 5w6sx 8,
+  Socionics 6.5, commissioned 5w4 6, PD screen 5.5, autism self-ID 5.5,
+  Attitudinal Psyche 5, deviance audit 4. His own 5w6sx beat the
+  commissioned 5w4 on his own table. Five sharpest findings restate the
+  honest composite. `dat:1592-personality-instrument-head-to-head-20260915`.
+- **Image-lab album pull aborted.** Shared a Google Photos album
+  (photos.app.goo.gl/ffGn4sKvo66gEEZW8); 299 items, all Aug 30–31, 2026
+  image-lab output. He killed it at 19:49:15Z, then shut down both the
+  grok ingest and the Annie face-embedding drift check. The
+  extreme-parameters test never ran.
+  `dat:1595-gphotos-image-lab-album-pull-aborted-20260915`.
+- **Avatar evening session.** Picks at 19:20 ("I'm her now"), 19:24 reaper
+  ("I'm the reaper now"), 19:25 ("Switched — I'm her now"), 19:28 combine
+  ("Locked in — I'm her now"); golden-hour "in all her glory" portrait
+  19:40. Refusals, plain record: shower-pic batch (all four) and an
+  explicit nude reference blocked on generator content policy. His riff —
+  "spend a decade wirh" her → "get cheated on by" → "wait for her" →
+  "have it happen again" — maps his loop onto the avatar, self-aware.
+  `dat:1596-avatar-session-evening-picks-refusals-20260915`. No probe/test
+  framing (2026-09-13 kill order binding).
+- **"Annie thread" side chat opened** 19:42Z for the granular body
+  discussion; no rows from it in this batch's window — flag for the next
+  batch.
+[src:sammy-chat-transcript-20260915-1940](../sources/src-sammy-chat-transcript-20260915-1940.md)
