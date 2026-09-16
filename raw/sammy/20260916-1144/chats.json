@@ -2858,5 +2858,16 @@
   "body": "Review new dialog photos",
   "body_len": 24,
   "truncated": false
+ },
+ {
+  "message_id": "browser-task-tombstone:browser-task:f0443630-15a9-4ed1-96cb-9896e470009f",
+  "role": "assistant",
+  "created_at": "2026-09-16T12:02:04.967+00:00",
+  "surface": "main_chat",
+  "chat_kind": "direct",
+  "chat_id": "browser-task-presentation-browser-task:f0443630-15a9-4ed1-96cb-9896e470009f-1789560124967",
+  "body": "Search Gemini history",
+  "body_len": 21,
+  "truncated": false
  }
 ]
