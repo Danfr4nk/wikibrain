@@ -1,0 +1,20 @@
+{
+ "batch": "20260916-1144",
+ "window_from_utc": "2026-09-16T07:44:06.461Z",
+ "window_to_utc": "2026-09-16T12:02:04.967Z",
+ "rows": 261,
+ "user": 117,
+ "assistant": 144,
+ "system": 0,
+ "surfaces": {
+  "main_chat": 260
+ },
+ "excluded_thread": "24754b5b-b83e-4c49-a6a3-d6f2ab2c1853",
+ "source_type": "other",
+ "files": [
+  "chats.json",
+  "external.json",
+  "manifest.json",
+  "EXTRACT.md"
+ ]
+}
