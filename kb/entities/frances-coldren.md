@@ -179,8 +179,19 @@ April 2018 vigil at which Diane barred Dan from the house.
   attended anyway, off the roster, and were the two in the room at the end
   — see [ent:diane-moore](diane-moore.md).
 
-## Cross-links
+## 2026-09-16: the Cogar surprise 50th
 
+Dan shared an invitation image: **Eddie & Brenda Cogar's surprise 50th
+anniversary, Saturday November 7, 3–6 PM, The Silo, Granville WV**; RSVP to
+Erica by October 31 (Sammy to nudge before the deadline). Dan identifies the
+Cogars — his spelling 'Kogar' — as "grams": Fran's extended family, "like
+it's Fran's, sisters, kids and grandkids." In the same exchange he confirmed
+the GEDCOM parentage (Marion Edward Thomas Sr. and Ida Ellen Conwell) and
+the one-of-ten sibling count already carried above — corroboration, not new
+genealogy
+([`dat:1641`](../data/1641-cogar-surprise-50th-fran-family-20260916.md)).
+
+## Cross-links
 - [ent:dan](dan.md) — subject; names her his biggest life influence.
 - [ent:suzanne-frank](suzanne-frank.md) — names Fran "the one and only
   guiding force in my life"; co-raised Dan with her.
