@@ -84,3 +84,11 @@ Total body: 44,015 chars. No truncation (max body 2,384 chars).
 - ANNIE RULE: dated subsection in **kb/entities/annie-ulmer.md** for the
   on-camera session.
 - Failure note: the 10:24 deep-dive failure.
+
+## Delta addendum (manual repair, 2026-09-16 ~12:05Z)
+
+The 4h heartbeat's window closed at 11:43:24.37Z but one further on-record
+row landed after the scrape: a browser-task tombstone at 12:02:04.967Z
+("Search Gemini history"). Appended as row 261 (117 user / 144 assistant);
+manifest window_to extended to 2026-09-16T12:02:04.967Z. No kb node — a
+tombstone alone carries no evidence content; raw archive only.
