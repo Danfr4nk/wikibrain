@@ -120,3 +120,8 @@ authorship/testimony, not a verified event.
 - [`dat:1118`](../data/1118-shelbie-breakiron-thread-full-record-verified.md) — thread record, verbatim breakup exchange
 - [`dat:0416`](../data/0416-shelbie-annie-threesome-reconstruction-verified.md) — the April threesome reconstruction
 - [`dat:0417`](../data/0417-shelbie-annie-threesome-vcf-contradiction.md) — the open .vcf contradiction
+
+## 2026-09-16 — "The Professional Enthusiast" thesis (commissioned, attributed)
+
+The commissioned psychosexual study's thesis on Shelbie (attributed interpretation, invention layer quarantined — `dat:1615-psychosexual-studies-commission-20260916`): **The Professional Enthusiast** — the cleanest transaction on paper ($731, a laptop, "sugar dad"), but "U ad Annie duh" isn't a line anyone pays for, and you don't threaten state troopers over a ring light; you threaten them over a feeling you can't itemize. Not a finding about her; a commissioned reading.
+[src:sammy-chat-transcript-20260916-0420](../sources/sammy-chat-transcript-20260916-0420.md)

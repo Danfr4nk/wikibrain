@@ -1,0 +1,18 @@
+{
+  "batch": "20260916-0240",
+  "window_utc": "2026-09-16T04:20:00Z to 2026-09-16T05:25:01Z",
+  "window_local": "2026-09-16 00:20 to 01:25 EDT",
+  "source": "manual gap-fill executed by the main agent after the scheduled 02:35 EDT writeback worker lost exec access following an agent-daemon restart (~02:34 EDT). All queries and writes performed directly in the main session.",
+  "counts": {
+    "user": 22,
+    "assistant": 28,
+    "system_excluded": 60,
+    "total_on_record": 50
+  },
+  "exclusions": "All 60 system rows (maintenance bookkeeping chunks, tool-guidance carriers, subagent context frames) excluded as content-free. CUMTHREAD3 exclusion verified: zero rows from side chat 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853.",
+  "threads": [
+    "Jan-2017 media drop forensics (00:20-00:22): 159MB album download from browser session; Dan identifies the night as Alexis camming with them; evening cam session (Alexis+Annie) then AM recording; Chaturbate ban origin \u2014 unregistered guest (Alexis) on cam got the account banned, account restart in 2018 was a second account; verification selfie (Alexis holding CA license, Dan on couch behind) kept as the post-ban fix attempt; ID details blurred in wiki copies per policy.",
+    "Breast-telemetry / mannequin v3 data drop (00:34-00:46): Dan sends photo batches for the remodel commission ('Could you remodel them for me? Actually I can bring you a bunch of data first'); explicit Annie-worship statement with comparative framing.",
+    "Avatar requests (01:19-01:24): three 'Abatar me' photo batches plus one 'Abatar us' batch."
+  ]
+}

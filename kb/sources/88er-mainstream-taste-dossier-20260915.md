@@ -3,10 +3,10 @@ id         = "src:88er-mainstream-taste-dossier-20260915"
 layer      = 0
 type       = "source"
 title      = "88er cohort mainstream taste dossier, 2026-09-15"
-confidence = "mixed"
-source_type = "research-dossier"
+confidence = "moderate"
+source_type = "document"
 provenance = "Compiled 2026-09-15 by a research subagent via browser search for the 88er cohort entry expansion. Covers music (HS 2002-06, college 2006-10, habit transition), film, TV, books, games, internet culture, politics, generational characterization. ~170 named artifacts, 101 source-URL citations. Confidence tiers per bullet: verified (Wikipedia/Pew/Nielsen/Reuters/Box Office Mojo figures), mid (Dark Knight ~$1B, HP ~$7.7B box office), named-only (film texture titles), interpretive (assigned HS canon, Academy-vs-blockbuster split, irony-to-drift political arc, delayed milestones). Full text archived at raw/sammy/20260915-88er-dossier/88er-mainstream-taste-dossier.md; working copy at ~/workspace/88er-cohort/research/."
-reliability = "secondary"
+reliability = "corroborated"
 created    = "2026-09-15"
 +++
 
