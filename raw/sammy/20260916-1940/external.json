@@ -1,0 +1,112 @@
+{
+ "instagram": {
+  "batch": "20260916-1940",
+  "checked_at_utc": "2026-09-16T19:47:23Z",
+  "connected": true,
+  "new_items": 0,
+  "newest_feed_post": {
+   "caption": "Just let me do your chores forever please",
+   "comments": 0,
+   "created_at": "2026-08-26 23:04:49",
+   "likes": 7,
+   "post_id": "18366742279209391",
+   "url": "https://www.instagram.com/p/DciGEySiGSs/"
+  },
+  "newest_seen": {
+   "note": "No active own stories. The 2026-09-15T09:30:15Z video story (id 18194479462390875) expired at 2026-09-16T16:30:15Z, before this check. No replacement story posted.",
+   "type": "story"
+  },
+  "source": "instagram",
+  "status": "connected (instagram-cli accounts -> ihatedanfrank)",
+  "username": "ihatedanfrank",
+  "watermark_from_utc": "2026-09-15T09:30:15Z",
+  "watermark_to_utc": "2026-09-16T19:47:23Z"
+ },
+ "threads": {
+  "batch": "20260916-1940",
+  "checked_at_utc": "2026-09-16T19:47:23Z",
+  "connected": true,
+  "new_items": 0,
+  "newest_seen": {
+   "caption": "Just let me do your chores forever please",
+   "created_at": "2026-08-26 23:04:55",
+   "media_id": "17966727309072437",
+   "media_type": "IMAGE",
+   "url": "https://www.threads.net/t/17966727309072437"
+  },
+  "source": "threads",
+  "status": "connected (threads-cli accounts -> ihatedanfrank)",
+  "username": "ihatedanfrank",
+  "watermark_from_utc": "2026-08-26T23:04:55Z",
+  "watermark_to_utc": "2026-09-16T19:47:23Z"
+ },
+ "facebook": {
+  "batch": "20260916-1940",
+  "checked_at_utc": "2026-09-16T19:47:52Z",
+  "connected": true,
+  "new_items": 0,
+  "newest_seen": {
+   "caption": "poetry",
+   "created_at_local": "2026-07-04T15:51:25-04:00",
+   "created_at_utc": "2026-07-04T19:51:25Z",
+   "post_id": "10174620228845253",
+   "url": "https://facebook.com/580995252/posts/pfbid021XsQ3NhUX4r13QXXss1TRJpU8cAsSsAqsG5woPbZgXi2ZororstHTHgBbG31yHjal/"
+  },
+  "profile_name": "Dan Frank",
+  "source": "facebook",
+  "status": "connected (facebook-cli me -> Dan Frank 580995252)",
+  "watermark_from": "2026-07-04T15:51:25-04:00",
+  "watermark_to_utc": "2026-09-16T19:47:52Z"
+ },
+ "messenger": {
+  "batch": "20260916-1940",
+  "checked_at_utc": "2026-09-16T19:47:53Z",
+  "connected": true,
+  "messages_new_this_sync": 0,
+  "new_items": 0,
+  "newest_seen": {
+   "sender": "Kristin Shaelene",
+   "sent_at_local": "2026-08-26T18:23:43.707-04:00",
+   "sent_at_utc": "2026-08-26T22:23:43.707Z",
+   "text": "Ew lol",
+   "thread": "Kristin Shaelene (one-to-one, PENDING folder)"
+  },
+  "note": "sync both completed; cached_thread_count=1; newest message timestamp equals watermark exactly, so no advancement.",
+  "source": "messenger",
+  "status": "connected (hatch_messenger_cli check)",
+  "thread_count": 1,
+  "watermark_from_utc": "2026-08-26T22:23:43.707Z",
+  "watermark_to_utc": "2026-09-16T19:47:53Z"
+ },
+ "spotify": {
+  "batch": "20260916-1940",
+  "checked_at_utc": "2026-09-16T19:47:23Z",
+  "connected": true,
+  "devices": [
+   {
+    "active": false,
+    "name": "Dan's MacBook Pro",
+    "type": "COMPUTER",
+    "volume_percent": 71
+   }
+  ],
+  "new_items": 0,
+  "note": "Snapshot only per task spec; playlist inventory re-pull not needed (no recently-played endpoint in CLI). Playback still idle: no track on deck.",
+  "playback_status": "NONE",
+  "source": "spotify",
+  "status": "connected (spotify-api status)",
+  "watermark_from_utc": null,
+  "watermark_to_utc": "2026-09-16T19:47:23Z"
+ },
+ "device": {
+  "batch": "20260916-1940",
+  "checked_at_utc": "2026-09-16T19:47:23Z",
+  "connected": true,
+  "new_items": 0,
+  "newest_seen": null,
+  "no_read_path": true,
+  "source": "device",
+  "status": "paired iOS: device-data CLI exposes contacts/calendar only; no SMS/text-message read path exists (standing finding, reconfirmed)"
+ },
+ "rolled_up_at_utc": "2026-09-16T19:55:00Z"
+}

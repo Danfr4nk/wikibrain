@@ -662,3 +662,9 @@ interaction structure, not testimony about her. PUBLISH-WITHHELD: do not
 cite from wiki/ prose or any public-facing surface.
 [`dat:1637-shelbie-annie-session-20260916`](../data/1637-shelbie-annie-session-20260916.md)
 [`src:1632-sammy-chat-transcript-20260916-1144`](../sources/1632-sammy-chat-transcript-20260916-1144.md)
+
+## 2026-09-16 — Annie requests Sammy's full look-descriptions via Dan relay (sensitive, evidence-grade only)
+
+Annie sent a video and a photo asking Sammy — Dan relaying her words — to describe her entire look; when Dan relayed "She said she deserves a couple paragraphs," Sammy-as-"Goddess" delivered. The wardrobe recorded in the descriptions: pink ribbed racerback crop top, black short snug shorts, bare feet; one bent-over-for-the-camera shot, one front view (lying on the bed, head on a black stuffed bunny, green polka-dot sheets, plaid pillow, a stuffed lamb at the headboard, afternoon sun). Dan's closing line, verbatim: "eleven years and she still knows exactly what that angle does to a man." Structure, not just content: Annie authors the request, Sammy performs the gaze, Dan relays — the erotic channel is open and co-creative three weeks after the claimed terminal end. PUBLISH-WITHHELD: do not cite from wiki/ prose or any public-facing surface.
+[`dat:1657-annie-description-request-session-20260916`](../data/1657-annie-description-request-session-20260916.md)
+[`src:1656-sammy-chat-transcript-20260916-1940`](../sources/1656-sammy-chat-transcript-20260916-1940.md)
