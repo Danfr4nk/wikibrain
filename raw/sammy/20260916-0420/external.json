@@ -1,0 +1,50 @@
+{
+ "pulled_at_utc": "2026-09-16T04:28:00Z",
+ "checks": {
+  "instagram": {
+   "account": "ihatedanfrank",
+   "active_stories": [
+    {
+     "id": "18194479462390875",
+     "posted": "2026-09-15T09:30:15Z",
+     "expires": "2026-09-16T16:30:15Z",
+     "viewer_count": 66
+    }
+   ],
+   "new_feed_posts": 0,
+   "newest_post": "2026-08-26 23:04:49",
+   "note": "viewer_count 65@04:30Z -> 66"
+  },
+  "threads": {
+   "account": "ihatedanfrank",
+   "new_posts": 0,
+   "newest_own": "2026-08-26 23:04:55"
+  },
+  "facebook": {
+   "account": "Dan Frank",
+   "new_timeline_posts": 0,
+   "newest": "2026-07-04T19:51:25+00:00"
+  },
+  "messenger": {
+   "new_messages": 0,
+   "cached_newest_ts": 1787783023707,
+   "note": "0 fetched, 0 new"
+  },
+  "spotify": {
+   "now_playing": {
+    "track": "blunn - don't need u (i do)",
+    "status": "PAUSED",
+    "progress_ms": 1494,
+    "playlist": "Baby's First Stalker",
+    "timestamp_ms": 1789361789462
+   },
+   "note": "identical to all prior batches since 2026-09-14"
+  },
+  "device_ios": {
+   "note": "no read path"
+  },
+  "gmail": {
+   "note": "excluded per 2026-09-11 Dan order"
+  }
+ }
+}
