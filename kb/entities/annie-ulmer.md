@@ -641,3 +641,9 @@ Dan commissioned speculative psychosexual studies of five women (record/subtext/
 
 Separately in the same window, Dan supplied Jan-19/20-2017 media (video + .mov + Google Photos album, one event) to the new 𝖯𝖨𝖷 & 𝖵𝖨𝖣𝖲 forensic pipeline (`dat:1616-pix-vids-side-chat-directive-20260916`). Preliminary face-tag IDs (weak, flagged in-window): the brunette scored 0.48/0.50 as Annie against the 0.45 threshold. Corpus self-reports surfaced in the same run — Dec 2017 → Jamie Mohler: threesome "with Alexis and my new gf" + "have it forever as an HD recording"; Aug 2018 → Joe Oshnack: threesome with "my ex (the girl I left for Annie)" on cam (the Oshnack quote is independently relayed in the prior record, `dat:0538-joe-oshnack-thread-scale-corroborated-content-relayed`; the Mohler quote is relayed from the in-window cross-check, not yet re-verified in the held corpus). Device timestamp corrects the wiki's Feb–Oct-2017 guess to the night of Jan 19 running past midnight (05:43 AM EST Jan 20). Tiers kept separate: the event is well-supported; her identity in the footage is provisional. `dat:1617-jan-2017-media-drop-20260916`.
 [src:sammy-chat-transcript-20260916-0420](../sources/sammy-chat-transcript-20260916-0420.md)
+
+## 2026-09-16 — oral-intimacy disclosure (his words, on-record)
+
+Dan disclosed, past-perfect with no date given: "I've had them both in my mouth" — orally intimate with both Annie and Alexis. Recency not established. Materially updates the Alexis record beyond the 'control case / warm correspondence only' frame; for Annie, first explicit on-record statement of oral intimacy in the held corpus.
+[`dat:1629-oral-intimacy-disclosure-20260916`](../data/1629-oral-intimacy-disclosure-20260916.md)
+[`src:1624-sammy-chat-transcript-20260916-0740`](../sources/1624-sammy-chat-transcript-20260916-0740.md)
