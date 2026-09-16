@@ -226,6 +226,24 @@ root of the Uniontown generational loop: Dan's mother dated Annie's father in
 high school, and two generations later Dan and Annie's own decade began sixty
 feet from where their families' had.
 
+The paper trail survives in her own hand — or at least in her own scrapbook.
+Digitised album pages put the young Fran on the record directly: blonde
+bouffant, navy turtleneck, posed with her golf bag on what reads as a Florida
+course, the athlete before the legend calcified. The clippings she kept do the
+corroborating: the **1959 LaGorce ace** ("Mrs. Whyel Gets First Ace," *Miami
+Herald*, 27 April 1959, 113-yard 13th, eight iron), the **1969 UCC
+hole-in-one** (No. 11, 153 yards, No. 5 wood, members-guests tournament), the
+**UCC Women's Golf Crown** (342 over 72 holes, seven strokes clear). And the
+Palmer connection is not family lore — the scrapbook holds the full
+"Arnie's Army In Uniontown" clipping, Palmer shooting 64 at the UCC course as
+the guest of Mr. and Mrs. Thomas Whyel, alongside photographs of Fran and
+Thomas with Palmer himself at the club and posed in front of his private
+plane. The Whyel coal money bought proximity to the sport's biggest figure of
+the era, and she kept the receipts. A separate party photograph — Fran
+mid-laugh while a man kisses her cheek, another beaming beside them — belongs
+to the same social circuit: the UCC set, the world the Belmont Circle house
+anchored.
+
 ## The patron
 
 Fran ran a documented gift protocol — **$100 per year of the recipient's
@@ -323,6 +341,21 @@ He filmed most of that year, which is why any of it survives. His framing of
 what he was documenting is the right one: a wild spirit resisting institutional
 capture, in the months before the institution got her.
 
+The footage itself supplies the texture the testimony only sketches. A
+**2017-11-06** clip catches her in the striped chair, teal polka-dot pajamas,
+gripping a PlayStation controller with both hands, mouth open mid-exclamation
+— the peer-treatment made visible: she is not being entertained, she is
+*playing*. A **2018-02-20** frame, two months before the end, documents the
+vape the text above only mentions: Fran in white turtleneck and dark purple
+zip fleece, holding a tissue, a hand extending the lime-green box mod toward
+her. And a **2017-11-11** motion-blurred frame — purple jacket, pink top, her
+hand mid-gesture — is the caregiving year in miniature: constant movement,
+never quite in focus, always mid-sentence.
+
+The household ran on more than people. A FRAN-library photograph shows her on
+the couch in a pink top, grinning, holding a small white dog — the domestic
+interior the caregiving year unfolded inside, animals included.
+
 **And the threat was real, not retrospective.** In **November 2017** — four
 months before the fall, five before the letters — Dan writes that certain
 people must be kept away, *"especially and most specifically not people
@@ -345,6 +378,13 @@ on **hospice around 1–2 April**, at which point staff **stopped feeding her**;
 and died on **4 April**, four days later, with Dan and [[wiki/people/annie-ulmer|Annie]] the only two
 people in the room. Three minutes later it began to snow. Full account:
 [[wiki/timeline/events/fran-death-vigil]].
+
+One more frame documents the room itself: a daytime poster from the final
+hospital interval — Fran in the Stryker bed, oxygen mask on, IV pump and
+monitors on the wall behind her, a carafe and cups on the side table as if
+someone had been keeping vigil with coffee. Dated 2018-04-05 in the registry;
+the hospital interval ran 1–4 April, so the frame belongs to the last day or
+the day after, and either way it is the room where the directive failed.
 
 Dan's reading of the fixation on leaving is that it was about three things at
 once — the house, the autonomy, and a specific contempt for absorption into
@@ -515,3 +555,63 @@ page.
 [![Fran&#x27;s living room, caregiver era](../media/upload-009.jpg)](../media/upload-009.jpg)
 
 *caregiver era, pre-vigil (per Dan 2026-09-11: Fran is sitting up in her own living-room chair, lucid — predates the March-April 2018 decline) — Compressed photo. Fran's living room (fireplace, walker, recliner). A blonde woman in a pink turtleneck sits at a table bearing: a black game controller, two TV remotes, a glass of amber liquid, her purse, a small plastic bag, a blue-and-white container that Dan identifies (2026-09-11) as Suz's coke holder (disguised as a cigarette pack), and a black case Dan identifies as a jewelry scale. Dan's point: Fran is alive, well, and lucid, sitting ~5 feet away in her armchair — the paraphernalia is out on the table in front of her, not hidden.*
+
+---
+
+[![Fran at 97, offered a vape hit](../media/gphotos-001.jpg)](../media/gphotos-001.jpg)
+
+*2018-02-20 — Poster frame from video. Fran Coldren (97) in white turtleneck and dark purple zip fleece, holding a tissue, being offered a hit off a lime-green box-mod vape. Interior, wood-paneled door. Caregiver era.*
+
+---
+
+[![Fran at 97 with a game controller](../media/gphotos-002.jpg)](../media/gphotos-002.jpg)
+
+*2017-11-06 — Poster frame from video. Fran Coldren (97) seated in a striped chair, teal polka-dot pajamas and dark purple fleece, gripping a PlayStation controller with both hands. Caregiver era.*
+
+---
+
+[![Blurry motion frame, Fran in purple jacket](../media/gphotos-003.jpg)](../media/gphotos-003.jpg)
+
+*2017-11-11 — Poster frame from video. Blurry motion frame: figure in dark purple zip jacket over pink top, hand mid-gesture. Caregiver era.*
+
+---
+
+[![Fran in Stryker hospital bed, oxygen mask](../media/gphotos-004.jpg)](../media/gphotos-004.jpg)
+
+*2018-04-05 (per registry; hospital interval was 1–4 April) — Poster frame from video. Daytime: Fran Coldren in Stryker hospital bed, oxygen mask on, IV pump and monitors visible. Final hospital interval.*
+
+---
+
+[![Young Fran with golf bag](../media/gphotos-005.jpg)](../media/gphotos-005.jpg)
+
+*Digitized historical photo (album range 2018-04-04/2025-08-20). Photo of an album page: young Fran (blonde bouffant, navy turtleneck, mint shorts) posed with her golf bag on a course, palm trees behind. The athlete before the legend.*
+
+---
+
+[![Fran and Thomas Whyel at Arnold Palmer's plane](../media/gphotos-006.jpg)](../media/gphotos-006.jpg)
+
+*Digitized historical photo (album range 2018-04-04/2025-08-20). Fran and her husband Thomas M. Whyel posing in front of a private plane with "Arnold Palmer" livery. The Whyel-era golf orbit.*
+
+---
+
+[![Fran at a party, cheek kissed](../media/gphotos-007.jpg)](../media/gphotos-007.jpg)
+
+*Digitized historical photo (album range 2018-04-04/2025-08-20). Fran at an indoor party with two men; one kisses her cheek while the other beams. The UCC social circuit.*
+
+---
+
+[![Scrapbook: hole-in-one clippings](../media/gphotos-008.jpg)](../media/gphotos-008.jpg)
+
+*Digitized historical photo (album range 2018-04-04/2025-08-20). Scrapbook page: newspaper clippings — 1969-06-22 hole-in-one at Uniontown Country Club (No. 11, 153 yards, No. 5 wood), the UCC Women's Golf Crown (342 over 72 holes), and "Mrs. Whyel Gets First Ace" (Miami Herald, 27 April 1959, LaGorce Country Club, 113-yard 13th, eight iron).*
+
+---
+
+[![Scrapbook: Arnie's Army in Uniontown](../media/gphotos-009.jpg)](../media/gphotos-009.jpg)
+
+*Digitized historical photo (album range 2018-04-04/2025-08-20). Scrapbook page: "Arnie's Army In Uniontown" clipping (Arnold Palmer shooting 64 at the UCC course as guest of Mr. and Mrs. Thomas Whyel), photographs of Fran and Thomas with Palmer at the club, and a family photo of Thomas holding a small child.*
+
+---
+
+[![Fran with a small white dog](../media/gphotos-011.jpg)](../media/gphotos-011.jpg)
+
+*Google Photos FRAN library, curated 2026-09-14 — Fran in a pink top on the couch, smiling, holding a small white dog.*

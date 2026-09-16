@@ -1,0 +1,17 @@
+{
+ "batch": "20260916-0352",
+ "checked_at_utc": "2026-09-16T04:30:00Z",
+ "instagram": {
+  "account": "ihatedanfrank",
+  "active_own_stories": 1,
+  "story": {"id": "18194479462390875", "media_type": "video", "posted_at_utc": "2026-09-15T09:30:15Z", "expires_at_utc": "2026-09-16T16:30:15Z", "viewer_count": 65, "note": "viewer_count up from 37 at the 2026-09-15T20:02Z check; the 37-viewer count is the carried prior watermark"},
+  "new_feed_posts": 0,
+  "note": "newest feed post 2026-08-26 23:04:49 UTC predates watermark; zero new"
+ },
+ "threads": {"new_own_posts": 0, "note": "newest own post 2026-08-26 23:04:55 UTC equals watermark; zero new"},
+ "facebook": {"account": "Dan Frank", "new_posts": 0, "note": "newest 2026-07-04T19:51:25Z equals watermark; zero new"},
+ "messenger": {"new_threads": 0, "note": "only cached thread Kristin Shaelene, newest_cached_ts 1787783023707 equals watermark; zero new"},
+ "spotify": {"new": 0, "note": "now-playing snapshot only: blunn - don't need u (i do), paused in 'Baby's First Stalker'; identical to all prior batches"},
+ "device_ios_texts": {"new": 0, "note": "no read path (standing)"},
+ "gmail": {"note": "EXCLUDED per Dan's 2026-09-11 order"}
+}

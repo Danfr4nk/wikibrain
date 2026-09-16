@@ -87,6 +87,7 @@ related: []
 - [[wiki/people/jerad-friedline]]
 - [[wiki/people/jerel-coles]] — Real identity of [[wiki/people/tuquick-17248123683|Tuquick]], confirmed 2026-08-08 via FOREWARN; documented 2008–2025 record (two DUIs, harassment, disorderly conduct, criminal mischief). Candidate but unconfirmed identity for [[wiki/people/the-unnamed-man]].
 - [[wiki/people/jess]] — Swinging-couple recruitment contact, spring 2017; fizzled after one dense day.
+- [[wiki/people/jesse-t-wallace]] — Superintendent of the Laurel Highlands district; the subject of Dan's 2026-09-15 local-history investigation — the golden 2024-25 eval, the demolition 2025-26 eval, the March 2026 teacher arrests, and the Aug 5 2026 6-3 contract rescission.
 - [[wiki/people/jim-blanchard]] — Named by the operator as 307 E 76th St's building super/real estate agent; the primary corpus confirms only that a real James Blanchard existed and was known to Dan, not the role. Status: stub.
 - [[wiki/people/jim-vrabel]] — Weed dealer and near-nightly hangout, 2018-2020; recurring coffee-creamer gift bit.
 - [[wiki/people/jimmy]] — Fellow Nemacolin caddy, 2018; a real blowup, then quit caddying over management.

@@ -91,7 +91,11 @@ Drive. The hinge is November 2005, age 17: his father entered rehab for
 cocaine, his mother's affair with the dealer surfaced, and the marriage
 ended — the template ("a trusted figure maintaining a concealed alternate
 reality") that the psychological record traces through everything after
-([[wiki/people/rick-frank]], [[wiki/people/suzanne-frank]]).
+([[wiki/people/rick-frank]], [[wiki/people/suzanne-frank]]). The surviving
+childhood artifacts are notebook pages in thick marker — crayon figures,
+handwritten stories, a spiky-headed monster captioned "Are you araid of the
+derk" — the misspelling preserved, the humor already intact. Thumbnailed in
+Sources, below.
 
 **Full Sail and the chemical pivot (2008–2010).** Recording Arts at Full
 Sail (Winter Park FL), top 5% of his class, Pro Tools HD certified. The same
@@ -174,3 +178,9 @@ he lives after the 337 sale closes is unresolved; no sustained non-crisis
 baseline register exists anywhere in the record.
 
 
+
+## Sources
+
+[!["Are you araid of the derk" — childhood monster drawing](../media/gphotos-014.jpg)](../media/gphotos-014.jpg)
+
+*Google Photos school-docs album, curated 2026-09-14 — childhood notebook page in thick marker: a spiky-headed monster captioned "Are you araid of the derk."*

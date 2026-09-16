@@ -147,3 +147,20 @@ recast him as failover, not default.
   break" verdict, the long-retrospective voice.
 - The supply network's friendship-embedded supplier is the unique structural
   node — cross-read with the configured-body reversal debate.
+
+## 2026-09-15 — Annie trysts: dual-role fact (friend + arranged partner)
+
+Dan stated on-record (~16:08 EDT) that Annie had two sexual encounters with
+Tom, both arranged by Dan: first Annie surprising Tom in the shower, second
+when Tom came to NYC ("I set it up. Both times"); details deferred ("Tell u
+later lol"). This makes Tom the first *named-friend* instance of the
+arranged-partner channel (friend set up by Dan vs escort client screened by
+Dan, `dat:1565`), and it puts him in a dual role: the page's "clearest safe
+lateral attachment" is simultaneously an arranged sexual partner of Annie's.
+That is consistent with the gatekeeper model — Dan arranges, Tom participates —
+not a contradiction of the friendship, but the two roles now share one person
+and the page's framing should carry both. Corroborates
+`pat:orchestration-as-scaffold-20260915` (arrangement as access mechanism; the
+friend-channel used behaviorally, not fantasized).
+`dat:1597-tom-maison-annie-trysts-testimony-20260915`.
+[src:sammy-chat-transcript-20260915-2340](../sources/sammy-chat-transcript-20260915-2340.md)

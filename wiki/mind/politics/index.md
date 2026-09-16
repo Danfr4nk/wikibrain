@@ -132,6 +132,14 @@ practice before the axiom had a name.
 - [[wiki/mind/concepts/exocortex]] — where the CATO AI-persona
   bootloader is documented as an artifact; note the source loop the
   axiom page's own evidence node flags.
+- The Google Photos IG-stories album — thirty sampled story frames,
+  predominantly political memes (election maps, Threads screenshots,
+  pundit clips): the forensic-spectator voice in its native habitat,
+  including a self-made "SMALL VICTORY — I CORRECTLY PREDICTED THE EV
+  TOTALS ON MY POST LAST WEEK" victory lap over a 306–232 electoral
+  map. The prediction-bragging is the audit habit turned on himself:
+  making the call checkable, then checking it. Thumbnailed in Sources,
+  below.
 
 ## A new reading the totality forces
 
@@ -181,3 +189,9 @@ conversion is self-narrated, the Rome reading is his own tags and
 ratings, the J6 chat export is unheld. The dated tweets and the
 2020-08-22 messages are the primary-verified floor; the rest is
 testimony of varying independence.
+
+## Sources
+
+[!["SMALL VICTORY — I correctly predicted the EV totals" IG story](../media/gphotos-013.jpg)](../media/gphotos-013.jpg)
+
+*Google Photos IG-stories album, curated 2026-09-14 — Dan's self-made election-prediction victory lap over a 306–232 electoral map.*

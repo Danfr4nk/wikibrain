@@ -1,0 +1,8 @@
+{
+  "source": "facebook",
+  "watermark_used": "2026-07-04T15:51:25-04:00",
+  "checked_at": "2026-09-14T08:10:00Z",
+  "new_items": 0,
+  "items": [],
+  "notes": "timeline fetch (limit 10): most recent post 2026-07-04T19:51:25Z ('poetry', post 10174620228845253) = watermark. Nothing newer."
+}

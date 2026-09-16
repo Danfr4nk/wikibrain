@@ -5,7 +5,7 @@ title: "Neurodivergence — Autism as Self-Identification"
 aliases: ["autism", "autistic", "neurodivergent"]
 status: active
 date_created: 2026-08-26
-date_modified: 2026-08-26
+date_modified: 2026-09-15
 sources:
   - raw/self/dox-md/operating_manual.md
   - raw/self/dox-md/THE_DAN_FRANK_MANUAL.md
@@ -39,7 +39,7 @@ connections:
     claim: "The autism claim itself was produced inside the same AI-collaborative sessions the exocortex page documents as Dan's primary self-knowledge mechanism — a label arrived at through, and repeated across, bootloader-style documents rather than through any process outside them."
   - page: wiki/mind/concepts/autism
     type: instantiates
-    claim: "[2026-09-13] Verifies the dated direct self-identification (2025-09-15 21:49:05 UTC, 'SHUT UP I'M AUTISTIC', dat:0939) and runs the manuals' explicit-override proposal as the label's one falsifiable behavioral claim — August 2026 supplies a negative observation."
+    claim: "[2026-09-13] Verifies the dated direct self-identification (2025-09-15 21:49:05 UTC, 'SHUT UP I'M AUTISTIC', dat:0939) and runs the manuals' explicit-override proposal as the label's one falsifiable behavioral claim — August 2026 supplies a negative observation. [2026-09-15, work-0020: verified complete — the autism page's full-thread register correction (dat:1554, banter-deflection delivery to Vanessa, 'IT MAKES SENSE' liveness preserved) is reflected on both sides; the label's double life, the dated liveness, and the open origin question stand. The reciprocal edges to social-anxiety, attachment-model, and intp were wired or strengthened this run.]"
 ---
 
 # Neurodivergence — Autism as Self-Identification
@@ -56,6 +56,11 @@ label, and the corpus's own typology cluster ([[wiki/mind/profile/index]])
 converges on the same measured profile from four unrelated instruments — but
 it is the honest shape of the evidence, and no page in this wiki should cite
 the label more confidently than that shape supports.
+
+For the concept-level treatment — what "autism" names and does inside his
+cognitive architecture, as distinct from where the identification comes from —
+see [[wiki/mind/concepts/autism]]. This page holds the sourcing, the
+behavioral texture, and the open questions; that page holds the mechanism.
 
 ## Where the claim comes from
 
@@ -181,8 +186,8 @@ capable of distinguishing between those two possibilities.
   observation — overwhelming behavioral evidence still did not produce
   closure. Two readings: the label is interpretive overhead that did no
   decisional work, or the architecture resists even explicit self-patching.
-  (dat:0940; see [[wiki/mind/concepts/autism]].) This is answerable by
-  Dan directly in one paragraph — when the self-identification happened and
+  (dat:0940; see [[wiki/mind/concepts/autism]].) [SUPERSEDED in part 2026-09-14 — Ed.: the "when" clause of this sub-question is retired by the dated self-identification (2025-09-15, dat:0939); the standing gap is *what prompted* it.] This is answerable by
+  Dan directly in one paragraph — ~~when the self-identification happened and~~
   what specifically prompted it — and would let this page distinguish a
   long-held self-understanding from something adopted more recently, inside
   the AI-collaborative sessions that now repeat it as fact.

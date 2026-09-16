@@ -1,0 +1,45 @@
+{
+ "batch": "20260915-1140",
+ "checked_at": "2026-09-15T12:16:10Z",
+ "gmail": "excluded (standing rule)",
+ "sources": {
+  "instagram_posts": {
+   "status": "checked",
+   "account": "@ihatedanfrank",
+   "latest_post_utc": "2026-08-26T23:04:49Z",
+   "new_in_window": 0,
+   "note": "connected; newest post 2026-08-26; 0 new in window"
+  },
+  "threads_posts": {
+   "status": "checked",
+   "account_id": "17841463596404400",
+   "latest_post_utc": "2026-08-26T23:04:55Z",
+   "new_in_window": 0,
+   "note": "connected; newest post 2026-08-26; 0 new in window"
+  },
+  "facebook": {
+   "status": "checked",
+   "account": "Dan Frank",
+   "account_id": "580995252",
+   "latest_post_utc": "2026-07-04T19:51:25Z",
+   "new_in_window": 0,
+   "note": "connected; newest post 2026-07-04; 0 new in window"
+  },
+  "messenger": {
+   "status": "checked",
+   "user_id": "580995252",
+   "latest_thread_update_utc": "2026-08-26T22:23:43Z",
+   "new_in_window": 0,
+   "note": "connected; newest activity 2026-08-26 22:23:43 UTC (Kristin Shaelene, snippet \"Ew lol\"); observed timestamp matches prior watermark; Ryan Lisac thread updated 2026-08-17 and unread; 0 new in window"
+  },
+  "spotify": {
+   "status": "checked",
+   "new_in_window": 0,
+   "note": "connected; now-playing snapshot: blunn — \"don't need u (i do)\" (paused), playlist \"Baby's First Stalker\"; unchanged"
+  },
+  "ios_texts": {
+   "status": "no_read_path",
+   "note": "iOS device offline, last seen 2026-09-15 10:37 UTC; no SMS/iMessage read path on this VM"
+  }
+ }
+}

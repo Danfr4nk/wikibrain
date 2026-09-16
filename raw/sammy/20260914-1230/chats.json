@@ -1,0 +1,18 @@
+{
+  "batch": "20260914-1230",
+  "window": {
+    "from": "2026-09-14T08:35:07.231Z",
+    "to": "2026-09-14T12:36:00Z"
+  },
+  "rows": [
+    {
+      "message_id": "assistant-msg-a13e3279-60a8-48df-8eb3-268768fea85c",
+      "role": "assistant",
+      "created_at": "2026-09-14T11:54:18.185+00:00",
+      "surface": "main_chat",
+      "truncated": false,
+      "body": "1140 scrape: 2 rows archived, both my own status reports from this morning — nothing new about you, no kb writes owed. Merged to main. Externals all quiet."
+    }
+  ],
+  "note": "System-role rows excluded per the 0340 precedent (worker-task prompts, completion notices, follow_up_settlement, todo-list compaction) — counted in manifest, not archived. 0 user rows in window (Dan asleep; last user message 2026-09-14T05:24Z / 01:24 ET)."
+}

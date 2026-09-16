@@ -6,7 +6,7 @@ aliases: ["Ti-Ne-Si-Fe", "cognitive functions"]
 status: stable
 importance: high
 date_created: 2026-07-13
-date_modified: 2026-08-26
+date_modified: 2026-09-15
 sources:
   - raw/self/dox-md/FULL PROFILE 2026.md
   - raw/self/dox-scan/Dan Profile.txt
@@ -55,6 +55,9 @@ connections:
   - page: wiki/mind/profile/neurodivergence
     type: parallels
     claim: "The self-identified-autistic label and this INTP read describe the same measured profile — bottom-percentile sociability, explicit-over-inferred meaning, systematizing run for its own sake — in two different vocabularies, neither checked against the other before both were accepted."
+  - page: wiki/mind/concepts/autism
+    type: parallels
+    claim: "This stack's Ti-dominance and weak Fe name, in typological vocabulary, the same architecture the autism page treats as explicit-over-inferred processing: systematizing over relating, bottom-percentile sociability, explicit over inferred meaning. The autism page keeps this INTP read as the most parsimonious alternative to the autism framing; neither label was checked against the other before both were accepted, and the discriminating test (sensory or childhood-developmental evidence) is unrun on both pages. No clinical diagnosis asserted on either page (dat:0940)."
   - page: wiki/mind/synthesis/the-binary-verdict
     type: evidences
     claim: "The Ti-dominant/Fe-inferior split (96% latent vs. 10% valuing) is the cognitive-function mechanism behind a corpus-wide pattern: verdict questions on a person's worth, a taste's authenticity, an order's legitimacy or an actor's trustworthiness collapse to two states because the dominant function tests only for binary closure while the function that would grade a verdict relationally is nearly absent — 'Fe's absence removes the social brake that would otherwise soften conclusions for company' is that page's rule, stated here first."
@@ -224,6 +227,24 @@ interlocutor can lift. Read against [[wiki/mind/synthesis/the-binary-verdict]],
 even that one exception is a **binary flip** (wrong → fair) rather than a
 graded middle ("partly fair"): the gate moved, but a gate is still what it
 is.
+
+## Two vocabularies, one profile [2026-09-15, work-0020]
+
+Everything on this page — Ti-dominance and weak Fe, systematizing over
+relating, bottom-percentile sociability, explicit over inferred meaning —
+is the same measured shape the autism page describes in a clinical
+vocabulary ([[wiki/mind/concepts/autism]]): the explicit-over-inferred
+processing filter, the rule-based bond, the social cost as one mechanism
+with the forensic accuracy. The autism page keeps this INTP read as the
+most parsimonious alternative to its own framing, because the traits
+either label claims are the same traits measured here, and neither was
+checked against the other before both were accepted. The discriminating
+test the corpus cannot run — sensory and childhood-developmental evidence,
+which the autism framing predicts and the INTP framing is silent on — has
+not been located (dat:0940). Until it is, "autism" stays on that page
+because it is Dan's word for the architecture, not because the
+instruments voted for it; this page keeps "INTP" because the function
+scores are measured, not because the type explains the rest.
 
 ## The stack as one machine
 

@@ -1,0 +1,28 @@
+{
+ "batch": "20260916-0420",
+ "pulled_at_utc": "2026-09-16T04:28:00Z",
+ "chats": {
+  "watermark_from": "2026-09-16T03:59:10.388+00:00",
+  "watermark_to": "2026-09-16T04:20:00+00:00",
+  "total_rows_db": 114,
+  "unique_user_assistant": 51,
+  "users": 7,
+  "assistants": 44,
+  "cumthread3_rows": 0
+ },
+ "external": {
+  "window": "since last check ~04:30Z",
+  "new_items": 0,
+  "story_viewer_tick": 1
+ },
+ "files": {
+  "chats.json": {
+   "sha256": "1ca41c9cfd7d829783b570b28fabe9025a81784ab3d2d89b993698bbe634fbf9",
+   "bytes": 19957
+  },
+  "external.json": {
+   "sha256": "9da404e5cff9efe5b31327c8c2fea68276d1fe581f7431b2b24959c8a3ec5930",
+   "bytes": 1122
+  }
+ }
+}

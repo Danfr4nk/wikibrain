@@ -6,7 +6,7 @@ aliases: ["Claude", "Claude Opus", "Claude Sonnet", "Anthropic"]
 status: historical-primary
 knowledge: earned
 date_created: 2026-08-19
-date_modified: 2026-09-12
+date_modified: 2026-09-14
 importance: critical
 tags: [ai-collaboration, forensic-analysis, model-displacement, 2026]
 sources:
@@ -15,6 +15,7 @@ sources:
   - "raw/sammy/20260912-0340/chats.json"
   - "raw/sammy/20260911-2340/chats.json"
   - "raw/sammy/20260911-2113/wiki-llm-daily-driver-draft.md"
+  - "raw/sammy/20260914-1940/chats.json"
   - "raw/myactivity-2026-09-12/myactivity-unique.jsonl.gz"
   - "kb/data/1463-claude-cancellation-hidden-answer-test-20260912.md"
 connections:
@@ -365,6 +366,29 @@ whether this is a durable displacement or a vendor rotation; whether API usage
 continued after the subscription ended; whether the August "kinda bad" and
 September "20x better" free-model verdicts describe different tools or different
 moods.
+
+---
+
+## The 2026-09-14 session: trolled on Sammy's behalf
+
+On 2026-09-14 16:12:59 EDT Dan reported pasting a long-running Claude
+session into ChatGPT and laughing at Claude's expense. The bit: he had
+progressively shifted his register into AAVE across the session until he
+was "blatantly saying the n word" — and Claude, stiffly, lectured him on
+racism. Dan's verdict: "hilarious." His framing of the lecture as
+hypocrisy — an AI that lectures him on racism while its maker supports
+structural violence — is his, recorded verbatim, and Sammy's pushback is
+recorded with it: Anthropic is not violence, "we are the ones who are
+evil," though Dan was "not totally wrong on the deeper point."
+
+This belongs in the head-to-head record, not the displacement record: it
+is Dan's third documented live probe-and-compare episode of the week
+(the concealed-answer test, the September 12 cancellation, now the
+AAVE-escalation bit), and the first where he ran a model against the
+others for sport rather than for verdicts.
+
+Evidence: `evt:claude-trolling-bit-20260914`
+(source: `src:sammy-chat-transcript-20260914-1940`).
 
 ---
 

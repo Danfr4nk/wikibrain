@@ -1,0 +1,12 @@
+{
+ "batch": "20260914-0808",
+ "checked_at": "2026-09-14T08:10:00Z",
+ "check_note": "Checks performed during attempt 1 of this run (20260914-0740, ~08:05-08:10Z) by a spawned connector-check subagent; report persisted as a contemporaneous DB row (assistant-msg-3bcf9942-7790-4a96-b96d-98958b2f932b). Zero new items everywhere; summaries recorded here by the retry worker.",
+ "source": "instagram",
+ "watermark_from": "2026-09-14T01:05:11Z",
+ "watermark_to": "2026-09-14T01:05:11Z",
+ "method": "own-stories + posts --since 2026-09-13",
+ "new_items": [],
+ "count": 0,
+ "note": "Only the same story still live (id 17976118472922462, published 2026-09-13 21:05:11 ET = watermark 2026-09-14T01:05:11Z). Viewer count rose 43 -> 57 since 03:50Z \u2014 engagement, not a new item."
+}

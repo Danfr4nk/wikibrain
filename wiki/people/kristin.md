@@ -525,9 +525,8 @@ material, and every per-year message count that treats the dump as complete for
 > superseded on both sides — she attempted contact on 2026-08-26 and Dan broke
 > the block himself on 2026-09-12. The annotation above is preserved as the
 > record of what the wiki believed through 2026-09-11. The evidence, parsed
-> from the primary files, is in
-> [August–September 2026](#augustseptember-2026-the-block-breaks-from-the-inside)
-> below rather than repeated here.
+> from the primary files, is in the section immediately below rather than
+> repeated here.
 
 ## September 2026: the block breaks — from both sides
 

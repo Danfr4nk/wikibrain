@@ -82,6 +82,23 @@ concentration** (Gini 0.961, home-anchoring, Sociability 3), and the
 **attention-not-interior boundary** (two instruments, one limit). The
 rest is the portrait.
 
+### 2026-09-15 — the head-to-head
+
+Dan asked for every instrument scored against the others on one rubric
+(provenance × corpus corroboration × coverage), after asking whether
+Enneagram or ChatGPT describes him better. The ranking: INTP 9, Big30
+8.5, his own dated 5w6sx 8, Socionics ILI-Ni 6.5, commissioned 5w4 6,
+PD screen 5.5, autism self-ID 5.5, Attitudinal Psyche 5, deviance audit
+4. The session's own verdict: his dated 5w6sx beats the commissioned
+5w4 on his own table — "if chatGPT's read was the 5w4 one, it lost to
+you." The five sharpest findings restate this hub's honest composite
+independently: the Altruism inversion as the most informative result,
+the attention–interior boundary, the wing dispute (6 owns the
+mechanism, 4 owns the affect), Ti-confidence 21/0 as the cleanest
+signature. Nothing in the ranking disturbs the two-layer structure;
+the meta-result is the convergence itself.
+([`dat:1592`](../../kb/data/1592-personality-instrument-head-to-head-20260915.md))
+
 ## LLM Quick Brief
 
 **For context injection:** Dan Frank's typology is contested, not

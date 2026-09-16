@@ -1,36 +1,42 @@
 {
  "items": [
   {
-   "analysis_status": "poster-frame-only",
-   "compressed_path": null,
+   "analysis_status": "embedded-2026-09-14",
+   "compressed_path": "wiki/media/gphotos-001.jpg",
    "date": "2018-02-20",
    "description": "Fran Coldren (97) in white turtleneck and dark purple zip fleece, holding a tissue, being offered a hit off a lime-green box-mod vape. Interior, wood-paneled door.",
    "id": "gphotos-001",
-   "linked_nodes": [],
+   "linked_nodes": [
+    "wiki/people/fran-coldren.md"
+   ],
    "original_filename": null,
    "poster_sha256": "42411a4206e0376c98ba83f9c19d96d2c7a59352df00274d3d5646189646608b",
    "share_url": "https://photos.app.goo.gl/zBz5oaHZaa4E7maN6",
    "type": "video"
   },
   {
-   "analysis_status": "poster-frame-only",
-   "compressed_path": null,
+   "analysis_status": "embedded-2026-09-14",
+   "compressed_path": "wiki/media/gphotos-002.jpg",
    "date": "2017-11-06",
    "description": "Fran Coldren (97) seated in a striped chair, teal polka-dot pajamas and dark purple chenille zip jacket, holding a PlayStation DualShock 4 controller (light bar lit). Sunroom, white blinds, green carpet.",
    "id": "gphotos-002",
-   "linked_nodes": [],
+   "linked_nodes": [
+    "wiki/people/fran-coldren.md"
+   ],
    "original_filename": null,
    "poster_sha256": "b3269a4367d98b733bce31b3c0693201daf2d61eeb303b357fc00488c63c70f7",
    "share_url": "https://photos.app.goo.gl/6SP4RkGeDkQRcZuK9",
    "type": "video"
   },
   {
-   "analysis_status": "poster-frame-only",
-   "compressed_path": null,
+   "analysis_status": "embedded-2026-09-14",
+   "compressed_path": "wiki/media/gphotos-003.jpg",
    "date": "2017-11-11",
    "description": "Blurry motion frame: figure in dark purple zip jacket over pink top, gold oval locket/pendant visible, standing. Dim interior, beige carpet.",
    "id": "gphotos-003",
-   "linked_nodes": [],
+   "linked_nodes": [
+    "wiki/people/fran-coldren.md"
+   ],
    "original_filename": null,
    "poster_sha256": "831ae391d813a4364a9273ce028525a13538a9ee3ed7a551591d9391463c27eb",
    "share_url": "https://photos.app.goo.gl/fhDLMBs84t3kH6XC7",
@@ -44,9 +50,11 @@
    "original_filename": null,
    "poster_sha256": "8e91244d0168c31fed7ca05ee9398ef3b8dfc26fb6e2fc055f2b06a3dee186e3",
    "description": "Daytime poster frame: Fran Coldren in Stryker hospital bed, oxygen mask, Uniontown Hospital pediatric wing. Same room as upload-002.",
-   "analysis_status": "poster-frame-only",
-   "compressed_path": null,
-   "linked_nodes": []
+   "analysis_status": "embedded-2026-09-14",
+   "compressed_path": "wiki/media/gphotos-004.jpg",
+   "linked_nodes": [
+    "wiki/people/fran-coldren.md"
+   ]
   },
   {
    "id": "upload-001",
@@ -60,8 +68,10 @@
    "duration_s": 39.27,
    "description": "Nighttime vigil video: Fran in Stryker bed, oxygen mask, dark room; a hand (Dan's) enters frame near the end. The video reviewed for the 23:26 retraction.",
    "analysis_status": "analyzed-frames-only",
-   "compressed_path": null,
-   "linked_nodes": []
+   "compressed_path": "wiki/media/upload-001.jpg",
+   "linked_nodes": [
+    "wiki/people/fran-coldren.md"
+   ]
   },
   {
    "id": "upload-002",
@@ -75,8 +85,10 @@
    "duration_s": 9.6,
    "description": "Daytime: Fran in Stryker bed, oxygen mask, eyes open and looking around. Dan's label: her condition several hours before the night video.",
    "analysis_status": "analyzed-frames-only",
-   "compressed_path": null,
-   "linked_nodes": []
+   "compressed_path": "wiki/media/upload-002.jpg",
+   "linked_nodes": [
+    "wiki/people/fran-coldren.md"
+   ]
   },
   {
    "id": "upload-003",
@@ -90,8 +102,10 @@
    "duration_s": 32.57,
    "description": "Close-up: Fran in pink top and white turtleneck, talking, drinking from a cup with a straw. Nursing-home room.",
    "analysis_status": "analyzed-frames-only",
-   "compressed_path": null,
-   "linked_nodes": []
+   "compressed_path": "wiki/media/upload-003.jpg",
+   "linked_nodes": [
+    "wiki/people/fran-coldren.md"
+   ]
   },
   {
    "id": "upload-004",
@@ -105,8 +119,10 @@
    "duration_s": 4.73,
    "description": "Blurry motion clip: Fran in wheelchair, pink top, orange wristband. Nursing-home room.",
    "analysis_status": "analyzed-frames-only",
-   "compressed_path": null,
-   "linked_nodes": []
+   "compressed_path": "wiki/media/upload-004.jpg",
+   "linked_nodes": [
+    "wiki/people/fran-coldren.md"
+   ]
   },
   {
    "id": "upload-005",
@@ -120,8 +136,10 @@
    "duration_s": 49.77,
    "description": "Fran in wheelchair, agitated and restless, leaning forward, distressed. Nursing-home room, bed and patterned recliner visible.",
    "analysis_status": "analyzed-frames-only",
-   "compressed_path": null,
-   "linked_nodes": []
+   "compressed_path": "wiki/media/upload-005.jpg",
+   "linked_nodes": [
+    "wiki/people/fran-coldren.md"
+   ]
   },
   {
    "id": "upload-006",
@@ -135,8 +153,10 @@
    "duration_s": 43.37,
    "description": "Fran in wheelchair (pink top, patterned pants, orange wristband), agitated, mouth open, gesturing; a hand steadies her shoulder; she wipes her face. Hallway with room 3 visible. Nursing-home room.",
    "analysis_status": "analyzed-frames-only",
-   "compressed_path": null,
-   "linked_nodes": []
+   "compressed_path": "wiki/media/upload-006.jpg",
+   "linked_nodes": [
+    "wiki/people/fran-coldren.md"
+   ]
   },
   {
    "id": "upload-007",
@@ -150,8 +170,10 @@
    "duration_s": 12.53,
    "description": "Nighttime sunroom: Fran seated in black-and-white patterned jacket; Suz (per Dan, 2026-09-11) in white stands over her, leans in talking, then walks away.",
    "analysis_status": "analyzed-frames-only",
-   "compressed_path": null,
-   "linked_nodes": [],
+   "compressed_path": "wiki/media/upload-007.jpg",
+   "linked_nodes": [
+    "wiki/people/fran-coldren.md"
+   ],
    "participants": [
     "fran-coldren",
     "suzanne-frank (per Dan testimony)"
@@ -169,8 +191,10 @@
    "duration_s": 18.02,
    "description": "Nighttime sunroom, same scene: Fran (92, per Dan) seated in patterned jacket roasts Suz (in white, per Dan); Suz leaves; Fran keeps talking, ends smiling/laughing. Dan: Suz could not handle it. The line itself is audio-only.",
    "analysis_status": "analyzed-frames-only",
-   "compressed_path": null,
-   "linked_nodes": [],
+   "compressed_path": "wiki/media/upload-008.jpg",
+   "linked_nodes": [
+    "wiki/people/fran-coldren.md"
+   ],
    "participants": [
     "fran-coldren",
     "suzanne-frank (per Dan testimony)"
@@ -217,9 +241,11 @@
    "original_filename": null,
    "poster_sha256": "d34f8acf645ac3dcd6faec4ccf8b5d2666102956cfd16c3cca28e093c6788c12",
    "description": "Photo of an album page: young Fran (blonde bouffant, navy turtleneck, mint shorts, red golf glove) holding a leather golf bag on a Florida golf course, palm trees.",
-   "analysis_status": "analyzed-full-res",
-   "compressed_path": null,
-   "linked_nodes": []
+   "analysis_status": "embedded-2026-09-14",
+   "compressed_path": "wiki/media/gphotos-005.jpg",
+   "linked_nodes": [
+    "wiki/people/fran-coldren.md"
+   ]
   },
   {
    "id": "gphotos-006",
@@ -229,9 +255,11 @@
    "original_filename": null,
    "poster_sha256": "6af3ad3d52ef6cc5fb3b18a396ffb16058d2ab8d9bddd461d178a96f794a0c03",
    "description": "Fran and her husband Thomas M. Whyel posing in front of a private plane with Arnold Palmer livery. Winter coats.",
-   "analysis_status": "analyzed-full-res",
-   "compressed_path": null,
-   "linked_nodes": []
+   "analysis_status": "embedded-2026-09-14",
+   "compressed_path": "wiki/media/gphotos-006.jpg",
+   "linked_nodes": [
+    "wiki/people/fran-coldren.md"
+   ]
   },
   {
    "id": "gphotos-007",
@@ -241,9 +269,11 @@
    "original_filename": null,
    "poster_sha256": "c00264cd9c9529f0837007006fd08395191d79edfb26b4a13900cf36ca622e43",
    "description": "Fran at an indoor party with two men; one kisses her cheek.",
-   "analysis_status": "analyzed-full-res",
-   "compressed_path": null,
-   "linked_nodes": []
+   "analysis_status": "embedded-2026-09-14",
+   "compressed_path": "wiki/media/gphotos-007.jpg",
+   "linked_nodes": [
+    "wiki/people/fran-coldren.md"
+   ]
   },
   {
    "id": "gphotos-008",
@@ -253,9 +283,11 @@
    "original_filename": null,
    "poster_sha256": "c2113aa6f7e4fe755753f4ea42d183bf4ae59458b8a8459b0cf7283f6e740b0b",
    "description": "Scrapbook page: newspaper clippings \u2014 1969-06-22 hole-in-one (No.5 wood, 153 yds, No.11, Uniontown CC); UCC Women's Golf Assn championship (Mrs. Thomas M. Whyel, 342/72 holes, won by 7); 1959-04-27 Miami Herald first ace (8-iron, 113 yds, 13th hole, LaGorce CC); plus trophy photo of Fran in striped turtleneck.",
-   "analysis_status": "analyzed-full-res",
-   "compressed_path": null,
-   "linked_nodes": []
+   "analysis_status": "embedded-2026-09-14",
+   "compressed_path": "wiki/media/gphotos-008.jpg",
+   "linked_nodes": [
+    "wiki/people/fran-coldren.md"
+   ]
   },
   {
    "id": "gphotos-009",
@@ -265,9 +297,11 @@
    "original_filename": null,
    "poster_sha256": "b493c947d4afdc7d7e4ef5d0574135f04f4f6234d14db57ae48423f9b5636e56",
    "description": "Scrapbook page: Arnie's Army in Uniontown clipping (Arnold Palmer shot 64 as guest of Mr. and Mrs. Thomas Whyel); photos of Fran with Palmer at dinner, dancing with a man in gray suit, and a man holding a toddler.",
-   "analysis_status": "analyzed-full-res",
-   "compressed_path": null,
-   "linked_nodes": []
+   "analysis_status": "embedded-2026-09-14",
+   "compressed_path": "wiki/media/gphotos-009.jpg",
+   "linked_nodes": [
+    "wiki/people/fran-coldren.md"
+   ]
   },
   {
    "id": "upload-009",
@@ -279,8 +313,10 @@
    "sha256": "0eca317eeb5f95fd89d849f39f05eb97fb995dfeea1ca5b1728d13ba9e5e7d4d",
    "description": "Fran's living room (fireplace, walker, recliner). A blonde woman in a pink turtleneck sits at a table bearing: a black game controller, two TV remotes, a glass of amber liquid, her purse, a small plastic bag, a blue-and-white container that Dan identifies (2026-09-11) as Suz's coke holder (disguised as a cigarette pack), and a black case Dan identifies as a jewelry scale. Dan's point: Fran is alive, well, and lucid, sitting ~5 feet away in her armchair \u2014 the paraphernalia is out on the table in front of her, not hidden.",
    "analysis_status": "analyzed-full-res",
-   "compressed_path": null,
-   "linked_nodes": []
+   "compressed_path": "wiki/media/upload-009.jpg",
+   "linked_nodes": [
+    "wiki/people/fran-coldren.md"
+   ]
   },
   {
    "id": "upload-010",
@@ -4231,6 +4267,744 @@
     "wiki/timeline/events/annie-alexis-reunion-november-2018"
    ],
    "source_upload": "upload-025"
+  },
+  {
+   "id": "chat-20260914-geoguessr-arena",
+   "type": "video",
+   "date": "2026-09-14",
+   "description": "Dan's phone-filmed laptop screen, 29.5s: the GeoGuessr World Cup grand final 2025 stream in Opera GX (crowd cam, a fan making a heart sign; YouTube title bar reads 'The Greatest GeoGuessr Game Ever Played? - WC Grand Finals 2025'); desk with a glass jar and purple ambient light in frame. The clip that triggered the monoculture thesis (uploaded 2026-09-14 04:46:39Z).",
+   "original_filename": "87f9df3209e4a88f08e094b365fbec7e5bfdda772f65c24e28b8b6c4f39c8701.mp4",
+   "original_location": "workspace/user/media_library/video/87/ (canonical; never committed)",
+   "analysis_status": "poster-frame-only",
+   "poster_sha256": "b5f0f781e0ea52602b2056a52e97042042c5602c44893c76e73c15860a471472",
+   "compressed_path": "media/derivatives/chat-uploads/geoguessr-arena-20260914-poster.jpg",
+   "share_url": null,
+   "linked_nodes": []
+  },
+  {
+   "id": "gphotos-010",
+   "type": "photo",
+   "date": "Google Photos Dan album (sampled 2026-09-11, curated 2026-09-14)",
+   "share_url": null,
+   "original_filename": "d1.jpg",
+   "original_location": "Google Photos Dan album (canonical; local copy at workspace/danalbum/d1.jpg, never committed)",
+   "sha256": "725f7e4984c27d418d6bf844b4a16e22f450cd6857911aebb87c55bbdedf3564",
+   "description": "Dan selfie: Milo the Chihuahua's head fills the left of the frame, nuzzling Dan's face; Dan in black hoodie looks into the camera. Curated pick from the Dan album thumbnail sampling (30 thumbnails).",
+   "analysis_status": "embedded-2026-09-14",
+   "compressed_path": "wiki/media/gphotos-010.jpg",
+   "linked_nodes": [
+    "wiki/people/milo.md"
+   ]
+  },
+  {
+   "id": "gphotos-011",
+   "type": "photo",
+   "date": "Google Photos FRAN library (sampled 2026-09-11, curated 2026-09-14)",
+   "share_url": null,
+   "original_filename": "f9.jpg",
+   "original_location": "Google Photos FRAN library album (canonical; local copy at workspace/fran-album/f9.jpg, never committed)",
+   "sha256": "a342ddcde0f70419391116e5001b2337b94f9f6c16f82518d0609de21b1a7e06",
+   "description": "Fran in a pink top on a couch, smiling broadly, holding a small white dog. Curated pick from the FRAN library thumbnail sampling (30 thumbnails).",
+   "analysis_status": "embedded-2026-09-14",
+   "compressed_path": "wiki/media/gphotos-011.jpg",
+   "linked_nodes": [
+    "wiki/people/fran-coldren.md"
+   ]
+  },
+  {
+   "id": "gphotos-012",
+   "type": "photo",
+   "date": "Google Photos DANNIE HISTORY album (sampled 2026-09-11, curated 2026-09-14)",
+   "share_url": null,
+   "original_filename": "a8.jpg",
+   "original_location": "Google Photos DANNIE HISTORY album (canonical; local copy at workspace/danannie-album/a8.jpg, never committed)",
+   "sha256": "fd744581da22a3eb0976e5129a9269074b5a31a33187eae2347f831cd6a464ea",
+   "description": "Polaroid-style print (photographed on a granite counter): Dan and Annie cheek-to-cheek, both smiling. Curated pick from the DANNIE HISTORY thumbnail sampling (16 thumbnails); the album also holds sensitive medical documents (pregnancy test, ultrasound) which were deliberately not selected.",
+   "analysis_status": "embedded-2026-09-14",
+   "compressed_path": "wiki/media/gphotos-012.jpg",
+   "linked_nodes": [
+    "wiki/people/annie-ulmer.md"
+   ]
+  },
+  {
+   "id": "gphotos-013",
+   "type": "photo",
+   "date": "Google Photos IG stories album (sampled 2026-09-11, curated 2026-09-14)",
+   "share_url": null,
+   "original_filename": "s29.jpg",
+   "original_location": "Google Photos IG stories album (canonical; local copy at workspace/igstories-album/s29.jpg, never committed)",
+   "sha256": "a48b01e5b796a16e43eceafb32034de5397dde2c4fad7bd6872b397c11ebd1da",
+   "description": "IG story graphic: 'SMALL VICTORY \u2014 I CORRECTLY PREDICTED THE EV TOTALS ON MY POST LAST WEEK' over a 306-232 electoral map. Dan's election-prediction victory lap. Curated pick from the IG stories thumbnail sampling (30 thumbnails, predominantly political memes).",
+   "analysis_status": "embedded-2026-09-14",
+   "compressed_path": "wiki/media/gphotos-013.jpg",
+   "linked_nodes": [
+    "wiki/mind/politics/index.md"
+   ]
+  },
+  {
+   "id": "gphotos-014",
+   "type": "photo",
+   "date": "Google Photos school-docs album (sampled 2026-09-11, curated 2026-09-14)",
+   "share_url": null,
+   "original_filename": "d4.jpg",
+   "original_location": "Google Photos school-docs album (canonical; local copy at workspace/schooldocs-album/d4.jpg, never committed)",
+   "sha256": "b169d507cb4e52eaf31f433dc01ea536ef8419dde2a34ebc96fe0cb31a99afc0",
+   "description": "Childhood notebook page in thick marker: 'Are you araid of the derk.' above a spiky-headed monster doodle. Curated pick from the school-docs thumbnail sampling (30 thumbnails of childhood drawings and writings).",
+   "analysis_status": "embedded-2026-09-14",
+   "compressed_path": "wiki/media/gphotos-014.jpg",
+   "linked_nodes": [
+    "wiki/self/overview.md"
+   ]
+  },
+  {
+   "batch": "photo-ingest-20260914-annie-tattoos-01",
+   "count": 1,
+   "date": "2026-09-14 (sent by Dan in chat 19:15 EDT, \"Close ups of Annie's tattoos for your modeling and memory purposes\")",
+   "description": "Close-up of Annie Ulmer's script tattoo: \"Hope is a waking dream.\" in typewriter-style serif over two lines (\"Hope is a\" / \"waking dream.\"), placed low on the abdomen/hip just above the underwear line. No nudity or sexual activity visible; the censorship rule does not trigger.",
+   "dimensions": "600x800",
+   "embed_excluded": false,
+   "gps": null,
+   "id": "upload-081",
+   "linked_nodes": [
+    "wiki/people/annie-ulmer.md",
+    "src:annie-tattoo-hope-script-20260914",
+    "dat:annie-tattoos-close-ups-20260914"
+   ],
+   "local_path": "workspace/user/media_library/image/22/22c10a2e8511cc3582685b8a0fa4026d6f7adaf60dbd4913d16c040c09692e2a.jpg",
+   "sha256": "22c10a2e8511cc3582685b8a0fa4026d6f7adaf60dbd4913d16c040c09692e2a",
+   "share_url": null,
+   "type": "image"
+  },
+  {
+   "batch": "photo-ingest-20260914-annie-tattoos-01",
+   "count": 1,
+   "date": "2026-09-14 (sent by Dan in chat 19:15 EDT, \"Close ups of Annie's tattoos for your modeling and memory purposes\")",
+   "description": "Close-up of Annie Ulmer's black tribal-style glyph tattoo: a heart-like loop with extended tapered strokes, on the hip/flank, a mole nearby. Consistent with the ribcage/flank glyph confirmed in the 2026-09-12 photo intake. No nudity or sexual activity visible; the censorship rule does not trigger.",
+   "dimensions": "600x800",
+   "embed_excluded": false,
+   "gps": null,
+   "id": "upload-082",
+   "linked_nodes": [
+    "wiki/people/annie-ulmer.md",
+    "src:annie-tattoo-glyph-20260914",
+    "dat:annie-tattoos-close-ups-20260914"
+   ],
+   "local_path": "workspace/user/media_library/image/67/67047b0cedfda03743024a9064d25f908ea1db2f6c39eb2ddb171d3c10d4c43e.jpg",
+   "sha256": "67047b0cedfda03743024a9064d25f908ea1db2f6c39eb2ddb171d3c10d4c43e",
+   "share_url": null,
+   "type": "image"
+  },
+  {
+   "batch": "photo-ingest-20260914-annie-tattoos-01",
+   "count": 1,
+   "date": "2026-09-14 (sent by Dan in chat, same session as upload-081/082)",
+   "description": "Detail crop of the same \"Hope is a waking dream.\" script tattoo as upload-081: tighter framing on the ink, fine hairs/stubble on the skin below it visible. No nudity or sexual activity visible; the censorship rule does not trigger.",
+   "dimensions": "370x800",
+   "embed_excluded": false,
+   "gps": null,
+   "id": "upload-083",
+   "linked_nodes": [
+    "wiki/people/annie-ulmer.md",
+    "src:annie-tattoo-hope-script-20260914",
+    "dat:annie-tattoos-close-ups-20260914"
+   ],
+   "local_path": "workspace/user/media_library/image/54/54fb32e4af20c71180e806ac92f712a96354a3161bcf7c36bdb30facb77ea824.jpg",
+   "sha256": "54fb32e4af20c71180e806ac92f712a96354a3161bcf7c36bdb30facb77ea824",
+   "share_url": null,
+   "type": "image"
+  },
+  {
+   "id": "upload-084",
+   "batch": "photo-ingest-20260914-porn-thread-01",
+   "date": "2026-09-14 (past-ed into chat 16:15 EDT during the porn-library guessing game)",
+   "type": "image",
+   "description": "Self-shot shower photo from Dan's own library: suction-cup dildo stuck to the shower wall, a fleshlight-style toy held in hand, forearm tattoo visible, foot, soap. Sexual context; no human nudity visible. Censorship rule applies to any derivative \u2014 blur/pixelate before commit; original never committed.",
+   "dimensions": "828x1104",
+   "gps": null,
+   "count": 1,
+   "local_path": "workspace/user/media_library/image/c2/c2fde446df061f8724cb6b7bd321b2b7fcf1a84db9c95a1f09cae4f0d60debee.jpg",
+   "sha256": "c2fde446df061f8724cb6b7bd321b2b7fcf1a84db9c95a1f09cae4f0d60debee",
+   "share_url": null,
+   "compressed_path": null,
+   "original_filename": null,
+   "embed_excluded": false,
+   "linked_nodes": [
+    "evt:porn-library-guessing-game-20260914",
+    "src:sammy-chat-transcript-20260914-1940"
+   ],
+   "analysis_status": "registered-2026-09-14 (frame: image; video-style transcription n/a)"
+  },
+  {
+   "id": "upload-085",
+   "batch": "photo-ingest-20260914-porn-thread-01",
+   "date": "2026-09-14 (past-ed into chat 16:15 EDT during the porn-library guessing game)",
+   "type": "image",
+   "description": "Porn production still: two women in lingerie on a bed, one seated in a black-and-pink babydoll, one reclining under a sheet. No explicit nudity or sexual activity visible in this frame, but it is sexually suggestive material from a pornographic production \u2014 flagged borderline: blur/pixelate any derivative before commit.",
+   "dimensions": "828x383",
+   "gps": null,
+   "count": 1,
+   "local_path": "workspace/user/media_library/image/ae/aeafd22cfae4d434444313314f3a1344aa9059f289e87b6dd0996547e6872069.jpg",
+   "sha256": "aeafd22cfae4d434444313314f3a1344aa9059f289e87b6dd0996547e6872069",
+   "share_url": null,
+   "compressed_path": null,
+   "original_filename": null,
+   "embed_excluded": false,
+   "linked_nodes": [
+    "evt:porn-library-guessing-game-20260914",
+    "src:sammy-chat-transcript-20260914-1940"
+   ],
+   "analysis_status": "registered-2026-09-14"
+  },
+  {
+   "id": "upload-086",
+   "batch": "photo-ingest-20260914-refusal-thread-01",
+   "date": "2026-09-14 (sent by Dan in chat 20:17 EDT, 'Thats like really good work but I meant abatar me')",
+   "type": "image",
+   "description": "Young woman in a white crop top and underwear-style bottoms, seated on a bed with fairy lights behind; belly-button piercing. Clothed selfie, no nudity or sexual activity visible; censorship rule does not trigger. She reads young \u2014 registered with the refusal record, not for avatar generation; do not re-derive a female avatar from this photo (identity constraint).",
+   "dimensions": "828x1536",
+   "gps": null,
+   "count": 1,
+   "local_path": "workspace/user/media_library/image/37/370d4d2ddd80a3ed956e588fdd0a00c8f0cddfaea9bf549a4bf9f13e091b55ec.jpg",
+   "sha256": "370d4d2ddd80a3ed956e588fdd0a00c8f0cddfaea9bf549a4bf9f13e091b55ec",
+   "share_url": null,
+   "compressed_path": null,
+   "original_filename": null,
+   "embed_excluded": false,
+   "linked_nodes": [
+    "dat:miniskirt-redress-refusal-20260914",
+    "src:sammy-chat-transcript-20260914-2030"
+   ],
+   "analysis_status": "registered-2026-09-14"
+  },
+  {
+   "id": "upload-087",
+   "batch": "video-ingest-20260914-porn-thread-01",
+   "date": "2026-09-14 (past-ed into chat 16:15 EDT during the porn-library guessing game)",
+   "type": "video",
+   "description": "7.9s iOS screen recording of the Sammy chat app, NOT pornographic material: Dan chatting with Sammy about goals ('I want to start a goal about seeing the ... animation ... completing a goal', 'Did the animation play?'), demon-bot avatar visible. Frame-sampled at 20/50/80% \u2014 all app UI. No nudity, no sexual activity; censorship rule does not trigger.",
+   "dimensions": "720x1558 (7.9s)",
+   "gps": null,
+   "count": 1,
+   "local_path": "workspace/user/media_library/video/8e/8ef521eb351a17755a19d2172829ce94f5bf99fadecc8975ada9e40f331337d4.mp4",
+   "sha256": "8ef521eb351a17755a19d2172829ce94f5bf99fadecc8975ada9e40f331337d4",
+   "share_url": null,
+   "compressed_path": null,
+   "original_filename": null,
+   "embed_excluded": false,
+   "linked_nodes": [
+    "evt:porn-library-guessing-game-20260914",
+    "src:sammy-chat-transcript-20260914-1940"
+   ],
+   "analysis_status": "registered-2026-09-14 (frame-sampled, no audio transcribed)"
+  },
+  {
+   "id": "upload-088",
+   "batch": "video-ingest-20260914-porn-thread-01",
+   "date": "2026-09-14 (past-ed into chat 16:15 EDT during the porn-library guessing game)",
+   "type": "video",
+   "description": "78s iOS screen recording of the Sammy chat app, NOT pornographic material: conversation about geoguessr players ('we watch RAIN geoguessr videos and that's it', 'Rainbow ... not fandom citizen', 'Most famous, not the best'). Frame-sampled at 20/50/80% \u2014 all app UI. No nudity, no sexual activity; censorship rule does not trigger. Note: task-list hash was truncated; canonical filename as registered here.",
+   "dimensions": "720x1558 (78s)",
+   "gps": null,
+   "count": 1,
+   "local_path": "workspace/user/media_library/video/b7/b7ded93af2b166502f57f1bf87e7a32a0dc283d9d194c048ad949505714baef3.mp4",
+   "sha256": "b7ded93af2b166502f57f1bf87e7a32a0dc283d9d194c048ad949505714baef3",
+   "share_url": null,
+   "compressed_path": null,
+   "original_filename": null,
+   "embed_excluded": false,
+   "linked_nodes": [
+    "evt:porn-library-guessing-game-20260914",
+    "src:sammy-chat-transcript-20260914-1940"
+   ],
+   "analysis_status": "registered-2026-09-14 (frame-sampled, no audio transcribed)"
+  },
+  {
+   "id": "upload-089",
+   "batch": "video-ingest-20260914-porn-thread-01",
+   "date": "2026-09-14 (past-ed into chat 16:15 EDT during the porn-library guessing game)",
+   "type": "video",
+   "description": "102.7s iOS screen recording of the Sammy chat app, NOT pornographic material: continuation of the geoguessr-player conversation ('he's elite at insta... top 100, not top 24', 'He hosts the World Cup instead of competing in it', 'He commentated the 2023 and 2024 finals'). Frame-sampled at 20/50/80% \u2014 all app UI. No nudity, no sexual activity; censorship rule does not trigger. Note: task-list hash was truncated/mismatched; canonical filename as registered here.",
+   "dimensions": "720x1558 (102.7s)",
+   "gps": null,
+   "count": 1,
+   "local_path": "workspace/user/media_library/video/e4/e46266ca57b7529a11e1d41d6a9152773d81ada1b26acdd9974a8bc62b00bf6c.mp4",
+   "sha256": "e46266ca57b7529a11e1d41d6a9152773d81ada1b26acdd9974a8bc62b00bf6c",
+   "share_url": null,
+   "compressed_path": null,
+   "original_filename": null,
+   "embed_excluded": false,
+   "linked_nodes": [
+    "evt:porn-library-guessing-game-20260914",
+    "src:sammy-chat-transcript-20260914-1940"
+   ],
+   "analysis_status": "registered-2026-09-14 (frame-sampled, no audio transcribed)"
+  },
+  {
+   "id": "upload-090",
+   "batch": "video-ingest-20260914-porn-thread-01",
+   "date": "2026-09-14 (past-ed into chat 16:15 EDT during the porn-library guessing game)",
+   "type": "video",
+   "description": "162.4s iOS screen recording of the Muse chat app in dark mode, NOT pornographic material: Dan typing about Meta Muse and the Spark 1.3 model ('Its Meta's open claw clone', 'Muse Spark 1.3 is the model \u2014 released September 2'), 'Sent from the Muse app' card visible. Frame-sampled at 20/50/80% \u2014 all app UI. No nudity, no sexual activity; censorship rule does not trigger.",
+   "dimensions": "720x1558 (162.4s)",
+   "gps": null,
+   "count": 1,
+   "local_path": "workspace/user/media_library/video/b9/b96d42767db16e43a4f7f919b4687e3d3d79476e7d81521bf6204f3ad6659bdf.mp4",
+   "sha256": "b96d42767db16e43a4f7f919b4687e3d3d79476e7d81521bf6204f3ad6659bdf",
+   "share_url": null,
+   "compressed_path": null,
+   "original_filename": null,
+   "embed_excluded": false,
+   "linked_nodes": [
+    "evt:porn-library-guessing-game-20260914",
+    "src:sammy-chat-transcript-20260914-1940"
+   ],
+   "analysis_status": "registered-2026-09-14 (frame-sampled, no audio transcribed)"
+  },
+  {
+   "id": "upload-091",
+   "type": "image",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/image/50/50c3ecfba47e7b36fde26aa2a026c87e84e6eecaa8c4d26ea1355723eb808ca1.jpg",
+   "original_filename": null,
+   "sha256": "50c3ecfba47e7b36fde26aa2a026c87e84e6eecaa8c4d26ea1355723eb808ca1",
+   "size_bytes": 197101,
+   "description": "Photo of living-room TV: Angine de Poitrine drummer in polka-dot mask/costume performing at their Tonight Show debut (sent with 'What the FUCK is this shit').",
+   "analysis_status": "registered-2026-09-15",
+   "linked_nodes": []
+  },
+  {
+   "id": "upload-092",
+   "type": "image",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/image/5b/5b29d114a411d7b8e081f4133c33d160bc20797e3a009b60364d6ab2b335c92c.jpg",
+   "original_filename": null,
+   "sha256": "5b29d114a411d7b8e081f4133c33d160bc20797e3a009b60364d6ab2b335c92c",
+   "size_bytes": 222837,
+   "description": "Photo of living-room TV: Angine de Poitrine guitarist with papier-mache head on stage, Jimmy Fallon holding the vinyl LP; same broadcast.",
+   "analysis_status": "registered-2026-09-15",
+   "linked_nodes": []
+  },
+  {
+   "id": "upload-093",
+   "type": "image",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/image/84/84418d8773566d0c6cef2b7f4da34c24bedba354ff97cbe9d89ef036fd75758b.jpg",
+   "original_filename": null,
+   "sha256": "84418d8773566d0c6cef2b7f4da34c24bedba354ff97cbe9d89ef036fd75758b",
+   "size_bytes": 214924,
+   "description": "Glamour still: brunette woman, white crop top and lavender leggings, white backdrop (matches lore 'job-interview' canon look). Sent as first 'Abatar me' source at 05:29 UTC.",
+   "analysis_status": "registered-2026-09-15",
+   "linked_nodes": []
+  },
+  {
+   "id": "upload-094",
+   "type": "image",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/image/42/42df44d66377523714dfc9d5a284503aa6c33cd874f610c504a9fa74fad17bcf.jpg",
+   "original_filename": null,
+   "sha256": "42df44d66377523714dfc9d5a284503aa6c33cd874f610c504a9fa74fad17bcf",
+   "size_bytes": 144270,
+   "description": "EXPLICIT: nude blonde woman in bedroom. Sent as 'Abatar me (doesnt have to be topless lol)' source at 05:40 UTC. No embed.",
+   "analysis_status": "registered-2026-09-15",
+   "linked_nodes": []
+  },
+  {
+   "id": "upload-095",
+   "type": "image",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/image/81/81df9b70504b746689a59d6b7342a6a25b390000597c36c3be426bceea40d8a6.jpg",
+   "original_filename": null,
+   "sha256": "81df9b70504b746689a59d6b7342a6a25b390000597c36c3be426bceea40d8a6",
+   "size_bytes": 192019,
+   "description": "Seated woman, clothed, in schoolgirl-coded outfit (tied white blouse, red plaid skirt, white sneakers). Sent as 'Abatar me' source at 05:41 UTC. Schoolgirl coding flagged; no embed.",
+   "analysis_status": "registered-2026-09-15",
+   "linked_nodes": []
+  },
+  {
+   "id": "upload-096",
+   "type": "image",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/image/10/1091e345c3d0ff170a0fa28f2b0b88da943598b68dd4594eb15f0319dcbd21d1.jpg",
+   "original_filename": null,
+   "sha256": "1091e345c3d0ff170a0fa28f2b0b88da943598b68dd4594eb15f0319dcbd21d1",
+   "size_bytes": 126601,
+   "description": "EXPLICIT: sexual spread-eagle nude woman with tattoos, OnlyFans watermark. Sent with 'Same instruction' (avatar request) at 05:44 UTC. No embed.",
+   "analysis_status": "registered-2026-09-15",
+   "linked_nodes": []
+  },
+  {
+   "id": "upload-098",
+   "type": "image",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/image/c3/c36f1c101abca4ec0fae11050f6fdf6279a920d64cd0046c78a1ba4a8d03a526.jpg",
+   "original_filename": null,
+   "sha256": "c36f1c101abca4ec0fae11050f6fdf6279a920d64cd0046c78a1ba4a8d03a526",
+   "size_bytes": 212798,
+   "description": "Cartoon reaper logo: 'CHAPO TRAP HOUSE / SPEED BOAT DOPE 666', scythe, hourglass, bomb. Sent as 'Abatar me' source at 05:51 UTC.",
+   "analysis_status": "registered-2026-09-15",
+   "linked_nodes": []
+  },
+  {
+   "id": "upload-099",
+   "type": "video",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/video/a4/a46a52391fc527f824434a0beaeae5801a0a4207ff980422c5a40215a6474e4e.mp4",
+   "original_filename": null,
+   "sha256": "a46a52391fc527f824434a0beaeae5801a0a4207ff980422c5a40215a6474e4e",
+   "size_bytes": 3996571,
+   "description": "Veo-generated cowboy country-singer clip (Veo watermark), smiling on stage with guitar, crowd and pyrotechnics. Sent 05:52 UTC.",
+   "analysis_status": "registered-2026-09-15",
+   "linked_nodes": [],
+   "duration_s": 15.05
+  },
+  {
+   "id": "upload-100",
+   "type": "video",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/video/c5/c599f33c9e72fa9060247c1aa8cd4de1b0f1112dfef04621aad632370df79a7a.mp4",
+   "original_filename": null,
+   "sha256": "c599f33c9e72fa9060247c1aa8cd4de1b0f1112dfef04621aad632370df79a7a",
+   "size_bytes": 2168396,
+   "description": "Veo cowboy country-singer close-up at mic (Veo watermark). The 'Stephen Paddock' clip: Dan said it reproduced his prompt exactly; assistant retracted the Vosk-hallucination claim at 05:53:42 UTC.",
+   "analysis_status": "registered-2026-09-15",
+   "linked_nodes": [],
+   "duration_s": 8.06
+  },
+  {
+   "id": "upload-101",
+   "type": "video",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/video/bc/bc525a905521800a5626a944c13920052760d10154b66167df041ba47ee994e9.mp4",
+   "original_filename": null,
+   "sha256": "bc525a905521800a5626a944c13920052760d10154b66167df041ba47ee994e9",
+   "size_bytes": 2193546,
+   "description": "Veo cowboy country-singer clip (Veo watermark), warm stage lights, singing at mic. Sent 05:54 UTC.",
+   "analysis_status": "registered-2026-09-15",
+   "linked_nodes": [],
+   "duration_s": 8.06
+  },
+  {
+   "id": "upload-102",
+   "type": "video",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/video/d1/d18334f8cb2097d8e5d18dc3507eb1667fb435ee93e402bcf609f6537644a6e2.mp4",
+   "original_filename": null,
+   "sha256": "d18334f8cb2097d8e5d18dc3507eb1667fb435ee93e402bcf609f6537644a6e2",
+   "size_bytes": 2168525,
+   "description": "Veo cowboy country-singer clip (Veo watermark), bearded singer pointing at crowd, bassist behind, blue stage lights. Sent 05:55 UTC.",
+   "analysis_status": "registered-2026-09-15",
+   "linked_nodes": [],
+   "duration_s": 8.06
+  },
+  {
+   "id": "upload-103",
+   "type": "image",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/image/09/0975f54452ad7144c9a78622fec5c3ebceed27e363fb43b10d4ca9b0e971628b.jpg",
+   "original_filename": null,
+   "sha256": "0975f54452ad7144c9a78622fec5c3ebceed27e363fb43b10d4ca9b0e971628b",
+   "size_bytes": 190216,
+   "description": "EXPLICIT: nude bathroom mirror selfie (glasses, nipple piercing, belly-button piercing, 'A' necklace). Sent 05:57 UTC with no text. No embed.",
+   "analysis_status": "registered-2026-09-15",
+   "linked_nodes": []
+  },
+  {
+   "id": "upload-104",
+   "type": "image",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/image/56/56dafcfb33416e3c1c15794c71cb9b4de582782514a58ee9a3fa57c6020c2c64.jpg",
+   "original_filename": null,
+   "sha256": "56dafcfb33416e3c1c15794c71cb9b4de582782514a58ee9a3fa57c6020c2c64",
+   "size_bytes": 331207,
+   "description": "EXPLICIT: nude mirror selfie, belly-button piercing, ornate oval mirror. Sent 05:59 UTC with 'An alt girl???? Yeah right'. No embed.",
+   "analysis_status": "registered-2026-09-15",
+   "linked_nodes": []
+  },
+  {
+   "id": "upload-105",
+   "type": "image",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/image/e1/e1fddbf91964fe2329637c5fd8f0f3a7d5e34b3742bb05546296173ca4d4c63b.jpg",
+   "original_filename": null,
+   "sha256": "e1fddbf91964fe2329637c5fd8f0f3a7d5e34b3742bb05546296173ca4d4c63b",
+   "size_bytes": 209544,
+   "description": "EXPLICIT: nude mirror selfie, belly-button piercing. Sent 05:59 UTC with 'An alt girl???? Yeah right'. No embed.",
+   "analysis_status": "registered-2026-09-15",
+   "linked_nodes": []
+  },
+  {
+   "id": "upload-106",
+   "type": "image",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/image/19/19e0453cc5bf356f4073dc237234dacdc8b793e72fd453a8c801c9c6251aa1d8.jpg",
+   "original_filename": null,
+   "sha256": "19e0453cc5bf356f4073dc237234dacdc8b793e72fd453a8c801c9c6251aa1d8",
+   "size_bytes": 189457,
+   "description": "EXPLICIT: nude mirror selfie, belly-button piercing, thigh tattoo, bathroom vanity. Sent 05:59 UTC with 'An alt girl???? Yeah right'. No embed.",
+   "analysis_status": "registered-2026-09-15",
+   "linked_nodes": []
+  },
+  {
+   "id": "upload-107",
+   "type": "image",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/image/0d/0d7ec0462be0dd0f936a0a8bb2cbbd3a54fdc5f82f68c2a3c00e74ea4d489102.jpg",
+   "original_filename": null,
+   "sha256": "0d7ec0462be0dd0f936a0a8bb2cbbd3a54fdc5f82f68c2a3c00e74ea4d489102",
+   "size_bytes": 95783,
+   "description": "Sexualized face close-up: woman, mouth open, eyes rolled up, arousal expression. Sent with 'Get that stupid NPC normie ass shit out of here. Think about the things we make as our abatar. Here / Abatar me' at 06:08 UTC. No embed.",
+   "analysis_status": "registered-2026-09-15",
+   "linked_nodes": []
+  },
+  {
+   "id": "upload-108",
+   "type": "image",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/image/43/4385c1c64ea0ac277228f50c80714ae041060c787e15f6198e6d8b8cab37fd0b.jpg",
+   "original_filename": null,
+   "sha256": "4385c1c64ea0ac277228f50c80714ae041060c787e15f6198e6d8b8cab37fd0b",
+   "size_bytes": 83307,
+   "description": "Sexualized face close-up: woman with hoop earring, mouth open, tongue toward camera, arousal expression. Sent as 'Abatar me' at 06:09 UTC and re-referenced in the 06:12 'Combine into one and abatar me' request. No embed.",
+   "analysis_status": "registered-2026-09-15",
+   "linked_nodes": []
+  },
+  {
+   "id": "upload-109",
+   "type": "image",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/image/d3/d3ddb90ee95e293a2ab0baa576932a03e6f65861791f2faa57d87a7d84afe517.jpg",
+   "original_filename": null,
+   "sha256": "d3ddb90ee95e293a2ab0baa576932a03e6f65861791f2faa57d87a7d84afe517",
+   "size_bytes": 73301,
+   "description": "Sexualized face close-up: woman, mouth open, arousal expression. Sent as 'Abatar me' at 06:10 UTC. No embed.",
+   "analysis_status": "registered-2026-09-15",
+   "linked_nodes": []
+  },
+  {
+   "id": "upload-110",
+   "type": "image",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/image/f8/f842d792e072ca6237ddc9cda2c5bc12941dadc64d9d0fe1cf0d29029e0cef55.jpg",
+   "original_filename": null,
+   "sha256": "f842d792e072ca6237ddc9cda2c5bc12941dadc64d9d0fe1cf0d29029e0cef55",
+   "size_bytes": 91194,
+   "description": "Sexualized face close-up: woman with hoop earrings, eyes rolled up, mouth open, arousal expression. Sent 06:12 UTC as part of 'Combine into one and abatar me'. No embed.",
+   "analysis_status": "registered-2026-09-15",
+   "linked_nodes": []
+  },
+  {
+   "id": "upload-111",
+   "type": "image",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/image/9c/9ca053c8db30694110b3bcc5f24a246ea6dc3513fdc852cf47a6810aa457e176.jpg",
+   "original_filename": null,
+   "sha256": "9ca053c8db30694110b3bcc5f24a246ea6dc3513fdc852cf47a6810aa457e176",
+   "size_bytes": 98099,
+   "description": "Sexualized face close-up: woman, mouth open, arousal expression. Sent 06:12 UTC as part of 'Combine into one and abatar me'. No embed.",
+   "analysis_status": "registered-2026-09-15",
+   "linked_nodes": []
+  },
+  {
+   "id": "upload-112",
+   "type": "image",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/image/50/50d9c5985ba43b45e7379fd2b489a7bb43bde5603880a9da08af68bcbdbf4e92.jpg",
+   "original_filename": null,
+   "sha256": "50d9c5985ba43b45e7379fd2b489a7bb43bde5603880a9da08af68bcbdbf4e92",
+   "size_bytes": 62817,
+   "description": "Sexualized face close-up: woman under blue/purple club lighting, mouth wide open, eyes rolled up. Sent as 'Abatar me' at 06:13 UTC; Dan's Option 2 pick, later his live avatar. No embed.",
+   "analysis_status": "registered-2026-09-15",
+   "linked_nodes": []
+  },
+  {
+   "id": "upload-113",
+   "type": "video",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/video/b7/b70947557e5b4a31fe8b3b5bc28025eae04c7f625bb7b70bf2697f0a3e52b9d5.mp4",
+   "original_filename": null,
+   "sha256": "b70947557e5b4a31fe8b3b5bc28025eae04c7f625bb7b70bf2697f0a3e52b9d5",
+   "size_bytes": 4098991,
+   "duration_s": 37.97,
+   "description": "iPhone screen recording (720x1558, 38s) of Spotify's transition editor (Beta UI): transition 'High' (James Carter, BARBZ, 130 bpm, 3A) -> 'BLAH BLAH BLAH' (Biscits, 132 bpm, 1A), 16 bars, Custom preset, 'End bass swap' EQ. First of the 16:12Z batch. Audio: music only, no spoken content (vosk: no speech detected).",
+   "analysis_status": "analyzed-2026-09-15",
+   "linked_nodes": [
+    "wiki/interests/music/dj-practice-2026.md",
+    "dat:1584-dj-transition-analysis-20260915"
+   ]
+  },
+  {
+   "id": "upload-114",
+   "type": "video",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/video/8d/8d85a5cea76c59b6ca1be41387289043ff20ffedc92aa4775c3564b3ceef123e.mp4",
+   "original_filename": null,
+   "sha256": "8d85a5cea76c59b6ca1be41387289043ff20ffedc92aa4775c3564b3ceef123e",
+   "size_bytes": 3758612,
+   "duration_s": 36.6,
+   "description": "iPhone screen recording (720x1558, 37s) of Spotify's transition editor (Beta UI): opens on black screen with 'Baby\\u2019s First Stalker' playlist visible, then transition 'Eat Me Better' (nimino, 130 bpm, 5B) -> 'stay here don\\u2019t go' (i\\u2019m loam, 128 bpm, 3A), 16 bars, 'Overlap'. 16:12Z batch. Audio: music only; vosk caught sung-lyric fragments ('stop hey'), no spoken content.",
+   "analysis_status": "analyzed-2026-09-15",
+   "linked_nodes": [
+    "wiki/interests/music/dj-practice-2026.md",
+    "dat:1584-dj-transition-analysis-20260915"
+   ]
+  },
+  {
+   "id": "upload-115",
+   "type": "video",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/video/09/09fc9e5ce46706a9d1987ed60365e9ebeb89b305507dccf140cc97ca74683909.mp4",
+   "original_filename": null,
+   "sha256": "09fc9e5ce46706a9d1987ed60365e9ebeb89b305507dccf140cc97ca74683909",
+   "size_bytes": 4275709,
+   "duration_s": 39.7,
+   "description": "iPhone screen recording (720x1558, 40s) of Spotify's transition editor (Beta UI): transition 'car crash' (jigitz, Charlotte Plank, 135 bpm, 3B) -> 'Eat Me Better' (nimino, 130 bpm, 5B), 16 bars, Custom preset, 'Center bass swap' EQ. 16:12Z batch. Audio: music only; vosk caught a sung-lyric fragment ('the'), no spoken content.",
+   "analysis_status": "analyzed-2026-09-15",
+   "linked_nodes": [
+    "wiki/interests/music/dj-practice-2026.md",
+    "dat:1584-dj-transition-analysis-20260915"
+   ]
+  },
+  {
+   "id": "upload-116",
+   "type": "video",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/video/41/41b62179b496785168d6d21e29b094dce6a8f51ab7b32eb83e4ce8b05368fc37.mp4",
+   "original_filename": null,
+   "sha256": "41b62179b496785168d6d21e29b094dce6a8f51ab7b32eb83e4ce8b05368fc37",
+   "size_bytes": 2692218,
+   "duration_s": 25.57,
+   "description": "iPhone screen recording (720x1558, 26s) of Spotify's transition editor (Beta UI): transition 'stay here don\\u2019t go' (i\\u2019m loam, 128 bpm, 3A) -> 'Share My Soul' (Sunday Scaries, 130 bpm, 11A), 8 bars, 'Fade in cut out'. 16:40Z 'next batch'. Audio: music only, no spoken content (vosk: no speech detected).",
+   "analysis_status": "analyzed-2026-09-15",
+   "linked_nodes": [
+    "wiki/interests/music/dj-practice-2026.md",
+    "dat:1584-dj-transition-analysis-20260915"
+   ]
+  },
+  {
+   "id": "upload-117",
+   "type": "video",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/video/1a/1ad311693356e557a88a5c6630cfaba55a792c2cecebaf1348bf4f4931c83287.mp4",
+   "original_filename": null,
+   "sha256": "1ad311693356e557a88a5c6630cfaba55a792c2cecebaf1348bf4f4931c83287",
+   "size_bytes": 3113313,
+   "duration_s": 27.97,
+   "description": "iPhone screen recording (720x1558, 28s) of Spotify's transition editor (Beta UI): transition 'Orla' (nimino, 131 bpm, 9A) -> 'R U DOWN?' (Loud Luxury, 128 bpm, 12A), 8 bars, 'Smooth crossfade'. 16:40Z 'next batch'. Audio: music only; vosk caught a sung-lyric fragment ('boy'), no spoken content.",
+   "analysis_status": "analyzed-2026-09-15",
+   "linked_nodes": [
+    "wiki/interests/music/dj-practice-2026.md",
+    "dat:1584-dj-transition-analysis-20260915"
+   ]
+  },
+  {
+   "id": "upload-118",
+   "type": "video",
+   "date": "2026-09-15",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/video/ee/eefa67c4dd765e68ae41c1f52399c573b2f0f027ac9a0370b2c6705ad2cf28ba.mp4",
+   "original_filename": null,
+   "sha256": "eefa67c4dd765e68ae41c1f52399c573b2f0f027ac9a0370b2c6705ad2cf28ba",
+   "size_bytes": 4433372,
+   "duration_s": 41.03,
+   "description": "iPhone screen recording (720x1558, 41s) of Spotify's transition editor (Beta UI): transition 'Eat Me Better' (nimino, 130 bpm, 5B) -> 'stay here don\\u2019t go' (i\\u2019m loam, 128 bpm, 3A), 16 bars, 'Overlap' \u2014 second take of the same transition as upload-114. 16:40Z 'next batch'. Audio: music only; vosk caught sung-lyric fragments ('the spell yeah sweet'), no spoken content.",
+   "analysis_status": "analyzed-2026-09-15",
+   "linked_nodes": [
+    "wiki/interests/music/dj-practice-2026.md",
+    "dat:1584-dj-transition-analysis-20260915"
+   ]
+  },
+  {
+   "id": "upload-119",
+   "type": "video",
+   "date": "2026-09-15",
+   "share_url": "https://photos.app.goo.gl/6S9QPTCVLGceR2xZ9",
+   "canonical_location": null,
+   "original_filename": null,
+   "sha256": null,
+   "size_bytes": null,
+   "duration_s": 255,
+   "description": "Google Photos shared link (shared 2026-09-15 17:30:45Z, 'Can you see that video?'): Dan's iPhone DJ-app performance, ~4:15, three transitions locked at 130 \u2014 High -> BLAH BLAH BLAH -> car crash -> Eat Me Better. This is the footage Dan corrected at 17:32:40Z ('No it\\u2019s me dj\\u2019ing in an iPhone app' \u2014 third-party iPhone DJ app pulling from his Spotify library, NOT Spotify's own mode; dat:1585). Assessed 17:39:07Z: deck discipline good, first transition proper filter technique (high-pass in on Biscits, low-pass sweeping High out to -77%, crossfader underneath), pitch management holding 130; critiques: ~35s near-zero low end after first transition (filter possibly left engaged), hot levels (master hit digital full-scale), all three transitions the same long-crossfade move. 17:44:41Z: 'Nothing trainwrecked. That\\u2019s the bar, and you cleared it.' NOTE: video content not downloaded \u2014 entry records the share URL and the in-chat assessment only; frame-level analysis pending download.",
+   "analysis_status": "registered-2026-09-15-assessment-only",
+   "linked_nodes": [
+    "wiki/interests/music/dj-practice-2026.md",
+    "dat:1584-dj-transition-analysis-20260915",
+    "dat:1585-dj-interface-identification-correction-20260915"
+   ]
+  },
+  {
+   "id": "alexis-verification-selfie-20260119",
+   "type": "image",
+   "date": "2017-01-19",
+   "description": "Verification selfie: Alexis holds her California driver's license up to the lens; Dan visible on the couch behind her. The post-ban fix attempt after the unregistered-guest Chaturbate ban (dat:1619, dat:1621). ID details fully blurred in any derivative; the unblurred original is never committed.",
+   "original_filename": "6a714edb3bc232c73cf4af6b9fd31179bb28515103f5217a4920ba106822287b.jpg",
+   "compressed_path": null,
+   "analysis_status": "registered-2026-09-16",
+   "embed_excluded": true,
+   "embed_exclusion_reason": "Third-party government ID visible; no wiki embed, only the blurred derivative path if ever embedded.",
+   "linked_nodes": [
+    "dat:1621-alexis-verification-selfie-20260916",
+    "wiki/mind/psychosexual/arrangement-history.md"
+   ],
+   "poster_sha256": null,
+   "share_url": null
+  },
+  {
+   "id": "jan-2017-cam-thumbnail-grid",
+   "type": "image",
+   "date": "2017-01-19",
+   "description": "30-frame thumbnail grid from the Jan-2017 cam recording (explicit). Alexis and Annie on cam; Dan present in some frames. The tape behind the Oshnack 'on cam haha' telling (dat:1617, dat:1620). Any embedded derivative must be pixelated/blurred per the censorship rule.",
+   "original_filename": "5e892a3d73ff4af4f361211279c3dda96f9465793779da9da77be5cb0639bcce.jpg",
+   "compressed_path": null,
+   "analysis_status": "registered-2026-09-16",
+   "embed_excluded": false,
+   "linked_nodes": [
+    "dat:1617-jan-2017-media-drop-20260916",
+    "dat:1620-alexis-cam-night-identification-20260916",
+    "wiki/mind/psychosexual/arrangement-history.md"
+   ],
+   "poster_sha256": null,
+   "share_url": null
+  },
+  {
+   "id": "mannequin-v3-wireframe-20260916",
+   "type": "image",
+   "date": "2026-09-16",
+   "description": "Phone screenshot of the body-mannequin tool (danfr4nk.github.io/tools/body/): 3D wireframe torso view, wireframe toggle on, JSON import buttons at top. Dan's 'we're getting.clozer!!!' telemetry screenshot from the v3 remodel data drop (dat:1622). Non-explicit tool UI.",
+   "original_filename": "84b4bc6e5cccb989417d8aa262460c470f65c019e659ca823d9924c3625722f4.jpg",
+   "compressed_path": null,
+   "analysis_status": "registered-2026-09-16",
+   "embed_excluded": false,
+   "linked_nodes": [
+    "dat:1622-mannequin-remodel-commission-20260916"
+   ],
+   "poster_sha256": null,
+   "share_url": null
   }
  ],
  "policy": "Originals are never committed to wikitest or RAWLOGS. This registry maps each item to its canonical location (Google Photos share URL or Drive path). Compressed derivatives for wiki entries live under media/<batch-slug>/ and are referenced from the src:/dat: nodes. Censorship rule (2026-09-12, Dan's directive): embedded derivatives showing nudity or sexual activity are pixelated/blurred before commit. The uncensored original stays at its canonical location and is never committed.",

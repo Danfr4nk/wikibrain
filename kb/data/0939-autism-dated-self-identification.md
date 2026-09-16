@@ -15,6 +15,7 @@ created       = "2026-09-10"
 ## Notes
 
 - The 2025-09-15 message is the latest-dated autism self-reference in the held corpus and the only standalone all-caps declaration — register matters here; it reads as an asserted identity statement, not banter.
+- [was: "reads as an asserted identity statement, not banter" — 2026-09-14, work-0078] **SUPERSEDED on register.** Full-thread review (dat:1554) places the message in a sibling-banter exchange: Vanessa's pushback ("First of all what does dad have to do with me") triggered "SHUT UP I'M AUTISTIC" as a comic deflection for his own convoluted fairness-schema logic ("i have to ice you out also to keep things fair"), followed in ten seconds by "IT MAKES SENSE" then "sorry lol". The delivery register is banter-deflection — closer to the label's "double life" punchline register than to asserted identity. What survives: the message is still the latest-dated self-reference and the only all-caps declaration, and "IT MAKES SENSE" shows the label was a live explanatory frame he could reach for. The honest read is mixed register — banter delivery over a live self-frame.
 - The page's deviance-mapping numbers (D-values 3.13–7.22, z+1.28) come from a separate wave-4 page outside this worker's set; they were not verified here.
 
 ## Cross-references

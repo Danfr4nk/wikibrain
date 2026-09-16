@@ -1,0 +1,10 @@
+{
+  "batch": "20260914-1230",
+  "checked_at": "2026-09-14T12:36:00Z",
+  "count": 0,
+  "new_items": [],
+  "note": "Not re-pulled this run. Verified zero-new by dedicated scrape batch 20260914-1140 at 2026-09-14T11:48:00Z (newest thread updated_at 2026-08-26T22:23:43.707Z = watermark); 50 min prior, Dan asleep.",
+  "source": "messenger",
+  "watermark_from": "2026-08-26T22:23:43.707Z",
+  "watermark_to": "2026-08-26T22:23:43.707Z"
+}

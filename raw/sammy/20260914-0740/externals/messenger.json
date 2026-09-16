@@ -1,0 +1,8 @@
+{
+  "source": "messenger",
+  "watermark_used": "2026-08-26T22:23:43.707Z",
+  "checked_at": "2026-09-14T08:10:00Z",
+  "new_items": 0,
+  "items": [],
+  "notes": "sync both + per-thread sync. Retained cache holds 2 threads. Kristin Shaelene: latest 'Ew lol' 2026-08-26T22:23:43.707Z = watermark exactly. Ryan Lisac: latest 2026-08-17T02:49:16.201Z. No messages after watermark."
+}

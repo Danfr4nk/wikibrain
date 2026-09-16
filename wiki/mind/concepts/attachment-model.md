@@ -5,7 +5,7 @@ title: "Attachment Model"
 aliases: ["rule-based attachment", "the no-counter-rule architecture", "attachment system"]
 status: active
 date_created: 2026-06-22
-date_modified: 2026-09-13
+date_modified: 2026-09-15
 sources:
   - raw/self/sage/2026-08-21_220918_which-of-the-people-in-this-wiki-would-be-the-be.md
   - raw/self/sage/2026-08-22_005829_what-would-make-dan-happy.md
@@ -81,6 +81,9 @@ connections:
   - page: wiki/mind/concepts/the-handed-mirror
     type: parallels
     claim: "The confession trap is the inbound form of the same refusal to let an evidentiary case go unwitnessed: needing a verdict from the other person, versus serving one on them."
+  - page: wiki/mind/concepts/autism
+    type: instance-of
+    claim: "This model's no-counter-rule architecture is the behavioral instance the autism page's explicit-statement-weighting mechanism is built to explain: stated rules hold until an explicit severance statement arrives, and no counter-rule is admitted from behavior (0 explicit severance signals in 41,073 of her messages, dat:0081). The autism page's one falsifiable claim — install the explicit override and behavior changes — draws its negative observation from August 2026 (dat:0090). No clinical diagnosis asserted on either page."
 ---
 
 # Attachment Model
@@ -275,6 +278,19 @@ rules, is the axiom's costliest demonstration. And the threat model —
 "competence correctly deployed, outcome still catastrophic" — is the
 decade in one line: the system ran correctly on inputs designed to
 exploit it, and the catastrophe was the correct output.
+
+Through the autism framing ([[wiki/mind/concepts/autism]]), this model
+is the explicit-statement-weighting mechanism stated as a bond: the
+system weights explicit symbolic statements far above ambient
+behavioral signal and requires an *explicit counter-rule* to revise an
+established rule — which is why 129 declarations of exit terminated
+nothing, and why the override the AI manuals propose ("behavioral
+evidence past a threshold constitutes severance even absent a verbal
+statement") is still the architecture's open experiment. The autism page
+records August 2026 as a negative observation against that one
+falsifiable claim; this page records the 2026 sequence as the model's
+passed field test. Both readings are live on this wiki, and neither
+page asserts a clinical diagnosis.
 
 ## Cross-data-type check
 

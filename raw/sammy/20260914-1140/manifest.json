@@ -1,0 +1,49 @@
+{
+  "batch": "20260914-1140",
+  "window": {
+    "chats_from": "2026-09-14T08:11:05.09Z",
+    "chats_to": "2026-09-14T08:35:07.231Z"
+  },
+  "counts": {
+    "chat_rows_archived": 2,
+    "chat_rows_truncated": 0,
+    "user_rows": 0,
+    "assistant_rows": 2,
+    "system_rows_excluded": 88
+  },
+  "files": {
+    "EXTRACT.md": {
+      "sha256": "5f5dea01207f14f3027bf25f370f462ae0e917c0037e5440f1c5e3e106e9ecdf",
+      "bytes": 3500
+    },
+    "chats.json": {
+      "sha256": "34068d5707cd49dc1652b4085a108642c89aa49ebc9feb14f3f8dd96adfc4efc",
+      "bytes": 1797
+    },
+    "device.json": {
+      "sha256": "41c7e025aacdb78ece663e7e3e9d38c1cc1dbf1b5579a60eb42fda2dd048ce4c",
+      "bytes": 280
+    },
+    "facebook.json": {
+      "sha256": "82b0b5b4bf87d514b8bec6eb70d3aa91fb84e1cbb5eb88a218311e86288732b2",
+      "bytes": 305
+    },
+    "instagram.json": {
+      "sha256": "f91413b42a961f87c8a6e8e61a9b018cfbf3b358393d5d84d840a263795e5aac",
+      "bytes": 480
+    },
+    "messenger.json": {
+      "sha256": "af6dedc6a9e6c65fb0c4ff66f84289bd7be6b701a2fc0b1b17cfa10620e5634c",
+      "bytes": 345
+    },
+    "spotify.json": {
+      "sha256": "e7d7a83240b793acaa3adffafe3bddd2ca7d224065502dbe86ec0678a6ca9c74",
+      "bytes": 834
+    },
+    "threads.json": {
+      "sha256": "6dc6273da461841b553bbd4c2a1827436679a42d6309a4a861ec6088f62f93e2",
+      "bytes": 296
+    }
+  },
+  "note": "manifest excludes itself; written before validation. Externals: zero new items everywhere; spotify now-playing snapshot only."
+}

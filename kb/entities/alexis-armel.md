@@ -170,6 +170,20 @@ contradictions and a drug-chain account that rests on testimony alone.
 - Does the uncorroborated Roxicet/Spechtsch chain have any independent anchor
   left to check — or is it testimony-only by design?
 
+## 2026-09-16 — GOONER CLUB #2 'Lexi' identification note (unconfirmed)
+
+In the 2026-09-16 GOONER CLUB in-chat dossier (Sammy-authored from wikibrain +
+sources, with his authorized extrapolation), the roster's #2 'Lexi' was
+identified as Alexis Armel ("LEXI (Alexis) — Nov 2009 → Nov 2015, six years, the
+control case"). Dan did not confirm or deny the identification on-record. His
+roster description of #2: "She's actually quite reliable. She'll let you touch
+her pussy." His umbrella statement "I've already fucked all of these girls"
+(02:01) would map to the documented history if the identification holds. Treat
+the identification as assistant-synthesized, not Dan-attested, until he confirms
+it.
+[`dat:1603-gooner-club-inaugural-20260916`](../data/1603-gooner-club-inaugural-20260916.md)
+[src:sammy-chat-transcript-20260916-0352](../sources/sammy-chat-transcript-20260916-0352.md)
+
 ## Cross-links
 
 - The 2018 arrangement is the earliest documented instance of the arrangement
@@ -181,3 +195,10 @@ contradictions and a drug-chain account that rests on testimony alone.
 - Related entities: `ent:tom-maison` (Dan's "she got a bad break / stayed loyal
   to Zac" verdict was said to him, Aug 2018); the terminal-era moral-yardstick
   quote runs against the Annie decade.
+
+## 2026-09-16 — "The Control Case" thesis; Jan-2017 media drop tension (provisional)
+
+The commissioned psychosexual study's thesis on Alexis (attributed interpretation, invention layer quarantined — `dat:1615-psychosexual-studies-commission-20260916`): **The Control Case** — Dan's function in her erotic life was logistical (2009: rescue, a plane ticket within weeks; 2018: $3,000 and a ride to a woman she actually wanted — "she said it too"); the 7.1 attraction score as ease, not passion — the relationship that cost least because the least was asked.
+
+The Jan-2017 media drop puts her identification in tension with the record: face-tag scored the dark-haired woman 0.50/0.53 as Alexis (weak clear, flagged in-window), while the wiki records Alexis closed Nov 2015. The corpus self-reports corroborate the EVENT independently of the face-tag ID — Dec 2017 (Mohler) and Aug 2018 (Oshnack, prior-record-relayed via `dat:0538-joe-oshnack-thread-scale-corroborated-content-relayed`) both name Alexis in the threesome. The identification question and the event question are separate; do not let a weak ID contaminate a well-supported event, or vice versa. `dat:1617-jan-2017-media-drop-20260916`.
+[src:sammy-chat-transcript-20260916-0420](../sources/sammy-chat-transcript-20260916-0420.md)

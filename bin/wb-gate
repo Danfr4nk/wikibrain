@@ -1,0 +1,135 @@
+#!/usr/bin/env python3
+"""Inject a client-side password gate into every HTML page of the built site.
+
+Theater, by deliberate design: GitHub Pages has no server-side auth, and this
+repository is public, so every file stays reachable directly on github.com no
+matter what the reading surface does. The gate keeps casual visitors off the
+site and nothing more. Dan ordered exactly this on 2026-09-14 ("I know it's
+theater").
+
+How it works:
+  - Reads the password from WB_GATE_PASSWORD at build time and embeds only its
+    SHA-256 hex digest into the injected script. The password itself never
+    lands in the built site.
+  - The injected script hides the page immediately (display:none on <html>),
+    then on DOMContentLoaded mounts a full-screen password prompt directly on
+    <html>, reveals <html>, and keeps <body> hidden — the prompt must live
+    outside <body> or the page-wide hide swallows it too. On a correct entry
+    the digest is stored in sessionStorage (per-tab), <body> is revealed and
+    the prompt removed. With JS disabled the page stays hidden via a
+    <noscript> style block.
+  - If WB_GATE_PASSWORD is unset or empty, injection is skipped silently, so
+    local builds and secret-less PR runs stay open and never break.
+
+Usage:
+  WB_GATE_PASSWORD=... python3 bin/wb-gate --site site
+
+Standard library only, matching the rest of the project.
+"""
+
+from __future__ import annotations
+
+import argparse
+import hashlib
+import os
+import pathlib
+import re
+import sys
+
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+
+MARKER = "/* wb-gate v1 */"
+
+SNIPPET_TEMPLATE = """<script>/* wb-gate v1 */
+(function(){
+"use strict";
+var DIGEST="__WB_GATE_DIGEST__",KEY="wb_gate_v1";
+function unlocked(){try{return sessionStorage.getItem(KEY)===DIGEST;}catch(e){return false;}}
+if(unlocked())return;
+document.documentElement.style.display="none";
+function hex(b){var u=new Uint8Array(b),s="";for(var i=0;i<u.length;i++){s+=("0"+u[i].toString(16)).slice(-2);}return s;}
+function err(m){var e=document.getElementById("wb-gate-err");if(e){e.textContent=m;e.style.display="block";}}
+function go(input,ov){
+  var v=input.value;if(!v){input.focus();return;}
+  if(!(window.crypto&&crypto.subtle)){err("password check unavailable on this connection");return;}
+  crypto.subtle.digest("SHA-256",new TextEncoder().encode(v)).then(function(buf){
+    if(hex(buf)===DIGEST){
+      try{sessionStorage.setItem(KEY,DIGEST);}catch(e){}
+      document.body.style.display="";ov.remove();
+    }else{err("wrong password");input.value="";input.focus();}
+  },function(){err("check failed");});
+}
+function show(){
+  var ov=document.createElement("div");ov.id="wb-gate";
+  ov.style.cssText="position:fixed;inset:0;z-index:2147483647;background:#0a0a0a;display:flex;align-items:center;justify-content:center;font-family:monospace;";
+  ov.innerHTML='<div style="text-align:center;color:#e8e8e8;max-width:320px;padding:24px;">'
+    +'<div style="font-size:22px;letter-spacing:8px;margin-bottom:8px;">WIKIBRAIN</div>'
+    +'<div style="font-size:12px;color:#888888;margin-bottom:20px;">password required</div>'
+    +'<input id="wb-gate-input" type="password" autocomplete="off" autocapitalize="off" spellcheck="false" style="width:100%;padding:10px;background:#111111;border:1px solid #333333;color:#e8e8e8;font-family:monospace;font-size:14px;box-sizing:border-box;"/>'
+    +'<div id="wb-gate-err" style="display:none;color:#ff5555;font-size:12px;margin-top:10px;"></div>'
+    +'<button id="wb-gate-btn" style="margin-top:16px;padding:10px 32px;background:#e8e8e8;color:#0a0a0a;border:0;font-family:monospace;font-size:14px;cursor:pointer;">ENTER</button>'
+    +'</div>';
+  // Mount the overlay on <html>, not <body>: the page is hidden by keeping
+  // <body> display:none, so a prompt inside <body> would never paint
+  // (2026-09-15: the original version hid <html> itself, which swallowed the
+  // prompt too and left every fresh visitor on a blank white page).
+  document.documentElement.appendChild(ov);
+  document.documentElement.style.display="";
+  document.body.style.display="none";
+  var input=document.getElementById("wb-gate-input"),btn=document.getElementById("wb-gate-btn");
+  input.focus();
+  btn.addEventListener("click",function(){go(input,ov);});
+  input.addEventListener("keydown",function(e){if(e.key==="Enter")go(input,ov);});
+}
+if(document.readyState==="loading"){document.addEventListener("DOMContentLoaded",show);}else{show();}
+})();
+</script>
+<noscript><style>html{display:none !important;}</style></noscript>"""
+
+
+def build_snippet(digest: str) -> str:
+    return SNIPPET_TEMPLATE.replace("__WB_GATE_DIGEST__", digest)
+
+
+def inject(text: str, snippet: str) -> tuple[str, bool]:
+    """Insert the snippet right after the opening <head> tag (or <html>, or top)."""
+    if MARKER in text:
+        return text, False  # already gated; idempotent
+    m = re.search(r"<head[^>]*>", text, re.IGNORECASE)
+    if m:
+        pos = m.end()
+    else:
+        m2 = re.search(r"<html[^>]*>", text, re.IGNORECASE)
+        pos = m2.end() if m2 else 0
+    return text[:pos] + snippet + text[pos:], True
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--site", default=str(ROOT / "site"),
+                    help="built site directory to gate")
+    args = ap.parse_args()
+
+    password = os.environ.get("WB_GATE_PASSWORD", "")
+    if not password:
+        print("wb-gate: WB_GATE_PASSWORD unset — skipping gate injection",
+              file=sys.stderr)
+        return 0
+
+    digest = hashlib.sha256(password.encode("utf-8")).hexdigest()
+    snippet = build_snippet(digest)
+
+    site = pathlib.Path(args.site)
+    gated = 0
+    for path in sorted(site.rglob("*.html")):
+        text = path.read_text(encoding="utf-8")
+        new, changed = inject(text, snippet)
+        if changed:
+            path.write_text(new, encoding="utf-8")
+            gated += 1
+    print(f"wb-gate: gated {gated} pages")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

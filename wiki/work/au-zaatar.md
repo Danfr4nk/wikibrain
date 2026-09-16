@@ -4,8 +4,11 @@ page_type: event
 title: "Au Za'atar (NYC, ~2021–2024)"
 status: closed
 date_created: 2026-07-13
-date_modified: 2026-08-21
+date_modified: 2026-09-14
 sources:
+  - raw/sammy/20260914-0630/chats.json
+  - raw/location/Records.json
+  - raw/location/Timeline-Edits.json
   - raw/self/message-csv/imessage_19178259183_both_all_now.csv
   - raw/self/dansynth/StorytimeAuZaatarAnalysis.md
   - raw/self/dansynth/TheWaitersVisibleHigh.md
@@ -71,8 +74,10 @@ Au Za'atar Midtown — the Lebanese restaurant at 58th & 1st owned by
 Dan's main employment through the second NYC period: **41 months, March
 2021 to August 2024**, hired as a busser with zero food-service experience
 and a bank account at zero, talking his way into the veterans' equal tip
-split from day one. It is the most-visited location in his entire GPS
-record (445 visits) and the longest job of his adult life. For most of his
+split from day one. It is his second-most-visited named location in his
+entire GPS record (**712 visits** — full-dump recount, 2026-09-14; the
+earlier 445 count came from a thinner semantic-db parse) after his 307 E
+76th St apartment (1,082), and the longest job of his adult life. For most of his
 tenure the restaurant operated out of a plywood COVID-era **"Shed"** on the
 58th Street sidewalk while the interior stood as a construction shell — a
 low-oversight sovereign territory where Dan ran his "9pm night class"
@@ -212,6 +217,37 @@ Class" alibi doubled as a shield during the
 [[wiki/people/valeria-iglesias-cid|Valeria]] breach — she was the Au
 Za'atar host-stand hostess — which the post-mortem
 tags as the period's "CORE ANOMALY."
+
+### REVISED (2026-09-14): GPS re-analysis raises the count to 712 visits
+
+The raw-layer teardown (121,733 pings, Records.json, 2014–2024) recounts
+**712 visits at 1063 1st Ave, July 2021 → March 2024** — the restaurant's
+shift pattern independently timestamped for 33 months:
+
+- Arrivals: 14:00 (340) / 15:00 (275) — the 2–3pm arrival he narrates is confirmed.
+- Departures: 21:00 (262) / 22:00 (131) — first cut at 9–10pm, dinner shift.
+- Median visit **6.2 hours**; **Mondays dark** (16 visits vs 99–127 every other day).
+- Bounds the record enforces: first *recorded* visit is **2021-07-20**, not March — the 298.9-day data blackout (2020-09-24 → 2021-07-20) covers his claimed March 2021 start and is a device change, not low mobility. Last recorded visit **2024-03-31**; the August 2024 end is outside the data's range (nothing exists after 2024-05-14).
+
+### The Mercer relabeling (2026-09-14)
+
+During his October 2023 timeline-curation spree, Dan took 16 of these
+dinner shifts and relabeled them himself as **WORK at 112 Mercer St,
+SoHo** — 32 labels (each appearing twice in Timeline-Edits.json), the
+entirety of his WORK-label set; he never hand-labeled the true Au Za'atar
+place as WORK at all. The relabel was caught and resolved against the
+sensor layer: **400+ GPS pings** across the 16 labeled windows all cluster
+at 1st Ave with zero near Mercer; each label's timestamps match the
+semantic-layer visit already labeled "Au Za'atar – Midtown East" down to
+the millisecond; and 112 Mercer was Frankies Bikinis (swimwear retail) in
+2022–23, with the corpus containing zero mentions of Mercer or SoHo,
+ever. Standing rule from this catch: **Timeline hand-labels are user
+assertions, Records.json is sensor ground truth — when they conflict, the
+pings win.** The raw pings underneath are clean; only his hand labels are
+compromised. The assistant's hypothesis (a data-integrity stress test of
+the label system, then testing the delete path when he wiped his entire
+Timeline on Oct 20, 2023 — the last Mercer edit is Oct 19) is unconfirmed;
+he has never claimed it.
 
 ## Why the page matters
 

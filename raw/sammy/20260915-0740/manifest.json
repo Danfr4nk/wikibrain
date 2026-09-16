@@ -1,0 +1,40 @@
+{
+ "batch_id": "20260915-0740",
+ "chat_rows": 108,
+ "created": "2026-09-15T08:15:00Z",
+ "cutoff": "2026-09-15T07:41:10.973+00:00",
+ "external_sources": "external-sources.json",
+ "extraction": {
+  "181_ordinary_bodies": "full bodies from window queries, UTF-8 byte count verified per row",
+  "24_oversized_system_messages": "reassembled from 60000-char chunks, joined byte count verified against mbytes per message",
+  "chunks_sha": "staging at ~/workspace/wiki-sync/staging/20260915-0740/chunks/ (23 files) + 4 agent tool-output files, all persistent"
+ },
+ "files": [
+  "chats.json",
+  "external-sources.json",
+  "manifest.json",
+  "EXTRACT.md"
+ ],
+ "kb_nodes_added": [
+  "evt:sammy-avatar-blue-lit-gooner-live-20260915"
+ ],
+ "kb_nodes_extended": [
+  "kb/entities/dan.md (2026-09-15 self-report addendum: avatar chronology)"
+ ],
+ "next_watermark": "2026-09-15T07:41:10.973+00:00",
+ "prior_watermark": "2026-09-15T06:26:11Z",
+ "role_counts": {
+  "assistant": 3,
+  "system": 101,
+  "user": 4
+ },
+ "surfaces": [
+  "main_chat"
+ ],
+ "wiki_prose_edited": [],
+ "window": {
+  "end": "2026-09-15T07:41:10.973+00:00",
+  "start": "2026-09-15T06:26:11.326+00:00"
+ },
+ "redaction_20260915_0830": "97 CUMTHREAD3/Lovense-thread user/assistant rows redacted from chats.json; dat:1562-cumthread3-speedrun-game-20260915 deleted; wiki CUMTHREAD3 paragraph removed; analysis-as-arousal 0740 addendum reverted; registry upload-097 removed. Per Dan's 2026-09-15 CUMTHREAD3 full writeback exclusion (AGENTS.md)."
+}

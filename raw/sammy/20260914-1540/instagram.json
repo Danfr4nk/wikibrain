@@ -1,0 +1,10 @@
+{
+ "batch": "20260914-1540",
+ "source": "instagram",
+ "checked_at": "2026-09-14T15:50:00Z",
+ "count": 0,
+ "new_items": [],
+ "watermark_from": "2026-09-14T01:05:11Z",
+ "watermark_to": "2026-09-14T01:05:11Z",
+ "note": "posts: newest still 2026-08-26 23:04:49 (post 18366742279209391); own-stories: the 2026-09-13 video story (17976118472922462, archived in batch 20260914-0340) still active, expires 2026-09-15T01:05:11Z; zero new items. Note: `instagram-cli stories` is not a command in this CLI version; own-stories used instead."
+}

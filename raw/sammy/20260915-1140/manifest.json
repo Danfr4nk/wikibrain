@@ -1,0 +1,68 @@
+{
+ "batch_id": "20260915-1140",
+ "chat_rows": 421,
+ "created": "2026-09-15T12:16:10Z",
+ "cutoff": "2026-09-15T11:40:00+00:00",
+ "external_sources": "external-sources.json",
+ "extraction": {
+  "78_oversized_system_messages": "reassembled from 60000-char chunks at offsets 1/60001/120001/180001, joined UTF-8 byte count verified against blen per message; zero mismatches, zero retries needed",
+  "chunks_sha": "staging at ~/workspace/wiki-sync/staging/20260915-1140/ (chunk_g{0..19}_off{1,60001,120001,180001}.json = 80 files), all persistent",
+  "342_ordinary_bodies": "210 user/assistant + 132 ordinary system full bodies from window queries, UTF-8 byte count verified per row",
+  "343_ordinary_bodies": "211 user/assistant + 132 ordinary system full bodies from window queries, UTF-8 byte count verified per row; includes on-record reboot marker row (39 bytes)"
+ },
+ "files": [
+  "chats.json",
+  "external-sources.json",
+  "manifest.json",
+  "EXTRACT.md"
+ ],
+ "kb_nodes_added": [
+  "src:sammy-chat-transcript-20260915-1140",
+  "dat:1563-four-component-erotic-circuit-20260915",
+  "dat:1564-incorporation-worship-watersports-20260915",
+  "dat:1565-male-partner-sourcing-taxonomy-20260915",
+  "dat:1566-manual-oral-service-fixation-20260915",
+  "dat:1567-scenario-alt-instrument-shipped-20260915",
+  "dat:1568-kinship-face-comparator-20260915",
+  "dat:1569-tools-repo-migration-20260915",
+  "dat:1570-chatgpt-llm-probe-trap-20260915",
+  "dat:1571-delivery-bubble-experiment-20260915",
+  "dat:1572-wes-anderson-canon-self-placement-20260915",
+  "dat:1573-88ers-generational-analysis-20260915",
+  "dat:1574-avatar-option4-activation-20260915",
+  "dat:1575-oh-my-god-setup-cue-20260915",
+  "pat:four-component-erotic-circuit-20260915",
+  "pat:orchestration-as-scaffold-20260915",
+  "int:annie-worship-skew-20260915"
+ ],
+ "kb_nodes_extended": [
+  "kb/entities/dan.md",
+  "kb/entities/annie-ulmer.md"
+ ],
+ "wiki_prose_edited": [],
+ "next_watermark": "2026-09-15T11:37:38.346+00:00",
+ "prior_watermark": "2026-09-15T07:41:10.973+00:00",
+ "excluded_interval": {
+  "start": "2026-09-15T07:41:10.973+00:00",
+  "end": "2026-09-15T08:10:04.727+00:00",
+  "rows": 42,
+  "role_counts": {
+   "system": 19,
+   "user": 11,
+   "assistant": 12
+  },
+  "reason": "user order 2026-09-15T08:09:41Z: nothing before the on-the-record reboot is transmitted in the cron job; interval recorded without content"
+ },
+ "role_counts": {
+  "assistant": 115,
+  "system": 210,
+  "user": 96
+ },
+ "surfaces": [
+  "main_chat"
+ ],
+ "window": {
+  "start": "2026-09-15T08:10:04.727Z",
+  "end": "2026-09-15T11:40:00+00:00"
+ }
+}
