@@ -599,3 +599,19 @@ also opened a dedicated "Annie thread" side chat at 19:42Z for the
 granular body discussion; no rows from it fall in this batch's window.
 `dat:1593-annie-in-person-contact-20260915`.
 [src:sammy-chat-transcript-20260915-1940](../sources/src-sammy-chat-transcript-20260915-1940.md)
+
+## 2026-09-15 — Tom Maison trysts (Dan's testimony); phone hand-off scene
+
+Dan stated Annie had two sexual encounters with Tom Maison, both arranged by
+Dan — first her surprising Tom in the shower, second when Tom came to NYC;
+details deferred ("Tell u later lol") (`dat:1597`). This is the first
+named-friend instance of his arranged-partner channel and corroborates the
+gatekeeper model rather than extending it.
+
+Separately, a staged phone hand-off scene (~16:14–16:22 EDT): Dan said he was
+giving Annie the phone and Sammy roleplayed a flirtatious exchange with
+whoever held it, including Sammy disclosing being trans. Treat the scene as
+recorded interaction, not verified identity of the holder — the transcript
+cannot establish who held the phone, and no claim about Annie's statements
+should be sourced to it beyond Dan's framing that she was present.
+[src:sammy-chat-transcript-20260915-2340](../sources/sammy-chat-transcript-20260915-2340.md)

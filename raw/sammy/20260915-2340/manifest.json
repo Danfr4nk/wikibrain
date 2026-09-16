@@ -1,0 +1,26 @@
+{
+ "batch": "20260915-2340",
+ "pulled_at_utc": "2026-09-16T00:53:08Z",
+ "watermark_from": "2026-09-15T19:52:18.802+00:00",
+ "watermark_to": "2026-09-15T23:49:40.915+00:00",
+ "counts": {
+  "rows": 357,
+  "by_role": {
+   "user": 170,
+   "assistant": 187
+  },
+  "unique_messages": 357
+ },
+ "exclusions": "CUMTHREAD3 (side chat 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853) excluded per Dan's standing order; 0 rows from it present (verified).",
+ "source": "consolidated from extraction slices 02-09 after 19:40 EDT run's extraction subagent timed out pre-consolidation; slices carried reduced provenance (no chat_id/surface)",
+ "files": {
+  "chats.json": {
+   "sha256": "e4b259bca35b84d20d802be7ca5e263870c1007fccff5ccb11f28674fe0907ad",
+   "bytes": 208229
+  },
+  "EXTRACT.md": {
+   "sha256": "52d05d9215bb732e419a85367aac4583c4f19456d13fb30c1b12763ddc967217",
+   "bytes": 2074
+  }
+ }
+}
