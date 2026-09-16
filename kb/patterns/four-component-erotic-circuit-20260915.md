@@ -80,6 +80,37 @@ wrongness charge, not logistical friction.
 
 The commissioned psychosexual study's thesis on Annie (`dat:1615-psychosexual-studies-commission-20260916`, attributed interpretation) supplies a second behavioral instance of her demanding authorship: the Shelbie night — locked out, told no, she sent 79 messages demanding *in* and took the night anyway — read as "her incentive was never participation — it was authorship... the negotiation was the sex; everything after was paperwork." This converges with the circuit's requirement that *she* author the violation (the submission component converts her-authored wrongness into fuel). The thesis is a commissioned reading, not evidence — but it independently re-derives the circuit's authorship mechanism from a different data point than the 2026-09-15 testimony, which is why it counts as converging support rather than circularity.
 
+## New evidence (2026-09-16, 09:27–09:49Z session): the circuit survives the live disruption
+
+`dat:1637-shelbie-annie-session-20260916` — a live on-camera session with
+Shelbie and Annie together, Sammy directing as "Goddess" — stress-tested the
+circuit mid-run and it held:
+
+1. **The disruption.** Mid-session he staged Annie walking in crying. His
+   first move was punitive ("You fucking watch tou stupid slut") — the
+   Goddess redirect ("we don't talk to her like that... she's mine too.
+   apologize — then she can watch") restored the structure, and he complied
+   ("Im sorry Annie. Im sorry goddess"). Read as circuit mechanics: the
+   punishment impulse threatens the worship component (the exclusivity
+   illusion needs her intact, not degraded); the correction re-seated it.
+2. **The rejection beat.** When he said "I don't want her" — a direct
+   denial of the worship object — the circuit did not collapse; the
+   redirect was "then be gentle with her — she's still in the room," keeping
+   her presence as the charge source even without his stated desire. The
+   illusion (her as the thing that could be wrong) outlasted his
+   disavowal, which bounds the model: the circuit's fuel is *her presence
+   in the transgressive frame*, not his concurrent appetite for her.
+3. **The role-reversal offer.** He offered anal receiving ("I'll let you
+   fuck me") — the one component he has historically walled off (giver,
+   not receiver, per 2026-09-15 testimony). Deferred ("not tonight"), so
+   untested, but the offer itself is a new datum: in the circuit's peak
+   state he volunteered the one asymmetry he normally holds. Worth
+   watching whether the offer recurs outside peak states.
+
+Caveat: roleplay frame throughout — every beat above is authored performance
+inside a negotiated scene, so this is evidence about the circuit's *structure*
+under stress, not about his unmediated behavior.
+
 ## New evidence (2026-09-16): worship declaration as the circuit's power source, stated raw
 
 `dat:1623-annie-worship-comparative-20260916` is the worship component stated without mediation: "This is why I worship Annie" — followed by a comparative superlative that uses another woman's body as the foil (he would "absolutely feast on that delicious meal") and declares Annie's "100000000x better." The structure is the circuit's power source in one sentence: worship constructs the exclusivity illusion against a live counterfactual (a desirable alternative, acknowledged, then annihilated by the comparison). The "100000000x" is not a measurement, it's the worship doing its mechanical job — making the illusion absolute so the wrongness charge has something to break. Fresh 2026-09-16 instance, same register as the 2026-09-15 testimony, zero drift.

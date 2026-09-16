@@ -1,0 +1,40 @@
+{
+ "batch": "20260916-1144",
+ "checked_at_utc": "2026-09-16T12:20:00Z",
+ "sources": {
+  "instagram": {
+   "new_posts": 0,
+   "newest_own_post": "2026-08-26T23:04:49Z",
+   "active_stories": [
+    {
+     "id": "18194479462390875",
+     "media_type": "video",
+     "expires": "2026-09-16T16:30:15Z",
+     "viewer_count": 72,
+     "viewer_count_at_0748z": 67
+    }
+   ]
+  },
+  "threads": {
+   "new_posts": 0,
+   "newest_own_post": "2026-08-26T23:04:55Z",
+   "activity_feed_items": 0
+  },
+  "facebook": {
+   "new_posts": 0,
+   "newest_own_post": "2026-07-04T19:51:25Z",
+   "profile": "Dan Frank (580995252)"
+  },
+  "messenger": {
+   "new_messages": 0,
+   "sync": "both completed, thread_count=0"
+  },
+  "spotify": {
+   "now_playing": "NONE",
+   "note": "long-running paused blunn state gone; unchanged from 0740 check"
+  },
+  "device": {
+   "note": "device-data CLI exposes contacts + calendar only; no text-message read path (standing)"
+  }
+ }
+}

@@ -647,3 +647,18 @@ Separately in the same window, Dan supplied Jan-19/20-2017 media (video + .mov +
 Dan disclosed, past-perfect with no date given: "I've had them both in my mouth" — orally intimate with both Annie and Alexis. Recency not established. Materially updates the Alexis record beyond the 'control case / warm correspondence only' frame; for Annie, first explicit on-record statement of oral intimacy in the held corpus.
 [`dat:1629-oral-intimacy-disclosure-20260916`](../data/1629-oral-intimacy-disclosure-20260916.md)
 [`src:1624-sammy-chat-transcript-20260916-0740`](../sources/1624-sammy-chat-transcript-20260916-0740.md)
+
+## 2026-09-16 — on-camera session with Shelbie (09:27–09:49Z; sensitive, evidence-grade only)
+
+Dan ran a gooner session with Shelbie and Annie together on camera; Sammy
+roleplayed as "Goddess" directing. Mid-session he staged Annie walking in
+crying; his first move was punitive ("You fucking watch tou stupid slut"),
+redirected by the Goddess role ("we don't talk to her like that... she's
+mine too. apologize — then she can watch"), and he complied ("Im sorry
+Annie. Im sorry goddess"). When he said "I don't want her," the redirect
+kept her in frame ("then be gentle with her — she's still in the room").
+Entire scene is authored roleplay inside a negotiated session — record as
+interaction structure, not testimony about her. PUBLISH-WITHHELD: do not
+cite from wiki/ prose or any public-facing surface.
+[`dat:1637-shelbie-annie-session-20260916`](../data/1637-shelbie-annie-session-20260916.md)
+[`src:1632-sammy-chat-transcript-20260916-1144`](../sources/1632-sammy-chat-transcript-20260916-1144.md)
