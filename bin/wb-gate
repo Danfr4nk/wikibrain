@@ -121,13 +121,20 @@ def main() -> int:
 
     site = pathlib.Path(args.site)
     gated = 0
+    skipped = 0
     for path in sorted(site.rglob("*.html")):
+        # Share copies (bin/wb-share) are public by design: pages under
+        # wiki/share/ are never gated.
+        rel = path.relative_to(site).as_posix()
+        if rel.startswith("wiki/share/"):
+            skipped += 1
+            continue
         text = path.read_text(encoding="utf-8")
         new, changed = inject(text, snippet)
         if changed:
             path.write_text(new, encoding="utf-8")
             gated += 1
-    print(f"wb-gate: gated {gated} pages")
+    print(f"wb-gate: gated {gated} pages, skipped {skipped} share pages")
     return 0
 
 
