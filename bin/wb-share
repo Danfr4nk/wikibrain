@@ -59,6 +59,7 @@ def parse_frontmatter(text: str) -> dict:
             v = v.strip()
             if len(v) >= 2 and v[0] == v[-1] and v[0] in ("'", '"'):
                 v = v[1:-1]
+            v = v.replace('\\"', '"').replace("\\'", "'")
             meta[k.strip()] = v
     return meta
 
@@ -135,7 +136,12 @@ def lede(body: str, maxlen: int = 600) -> str:
     text = re.sub(r"(?<!!)\[([^\]]+)\]\([^)\s]+\)", r"\1", text)
     text = text.replace("**", "").replace("*", "").replace("`", "")
     text = re.sub(r"\s+", " ", text).strip()
-    return text[:maxlen].rstrip() + ("…" if len(text) > maxlen else "")
+    if len(text) > maxlen:
+        cut = text[:maxlen]
+        # Prefer ending at a sentence boundary over mid-word.
+        m = max(cut.rfind(". "), cut.rfind("! "), cut.rfind("? "))
+        text = (cut[:m + 1] if m > maxlen * 0.6 else cut.rstrip()) + "…"
+    return text
 
 
 # --------------------------------------------------------------------------
