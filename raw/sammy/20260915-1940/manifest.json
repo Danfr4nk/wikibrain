@@ -1,0 +1,35 @@
+{
+  "batch": "20260915-1940",
+  "watermark_from": "2026-09-15T18:34:43.509+00:00",
+  "watermark_to": "2026-09-15T19:52:18.802+00:00",
+  "counts": {
+    "chat_rows": 124,
+    "kb_data_new": 5,
+    "kb_sources_new": 1,
+    "external_new_items": 1
+  },
+  "exclusions": "Side chat 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853 excluded entirely per Dan's 2026-09-15 total writeback exclusion; zero rows in window.",
+  "files": {
+    "chats.json": {
+      "sha256": "600a6b61b598987940ae0b12f82c645f3d26a24901020b7adf69ed909f06fba6",
+      "bytes": 51696
+    },
+    "external.json": {
+      "sha256": "48ca9affbef51741a173f1efa54e8ba395fd2418b953b6aaadd2da1120816228",
+      "bytes": 1159
+    },
+    "instagram.json": {
+      "sha256": "4d02f52390ff483cbf4588d5ce7d33389a20b0537c183ca9943c811abc0bd66d",
+      "bytes": 841
+    },
+    "spotify.json": {
+      "sha256": "b6e1cfe4886defed497142d16f9498b6695f82b502595ddb9d6ac59b3102b02c",
+      "bytes": 451
+    },
+    "EXTRACT.md": {
+      "sha256": "51265c0d6f9f6b18d338dd049e3a07e3a34e36b518587bf582bfca4ae6593b28",
+      "bytes": 2060
+    }
+  },
+  "commit": null
+}

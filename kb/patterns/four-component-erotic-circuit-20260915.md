@@ -16,15 +16,62 @@ alternatives = [
   "Risk-management sub: submission keeps the relationship safe rather than converting threat to fuel — the sub component is insurance, not erotics.",
 ]
 counterexamples = [
+  "dat:1566-manual-oral-service-fixation-20260915"
 ]
 
-evidence_count = 3
+evidence_count = 4
 importance = 5
 tags       = ["psychosexual", "pattern", "2026"]
 created    = "2026-09-15"
+rechecked  = "2026-09-16"
 
 [when]
 date   = "2026-09-15"
 +++
 
 Pattern-level claim, one session of testimony — treat as his model with alternatives, not settled fact. Alternatives: the wrongness could be novelty-driven rather than worship-driven; the sub component could be risk-management (keeping the relationship safe) rather than erotic conversion. Falsifiers: the Alexis-era control (do these structures appear pre-Annie in the corpus?); the without-her-in-frame test he named himself — if the amplifier collapses there, it was worship-mediated; if it holds, it is his. The incorporation axis (mouth as worship organ; cup as workaround for unmediated contact) is the extreme end of the same circuit: direct bodily transfer as the maximal illusion-break.
+
+## Counterexample search (2026-09-16)
+
+The pattern's own falsifier #2 names the test: the amplifier holding with no
+Annie in the frame. dat:1566 (same-day testimony) is the closest the record
+comes: "the hand stuff is my favorite honestly" — a fantasy of edging with a
+guy for hours, "all hands and mouth," framed as "I just like doing sex
+stuff," appetite-driven. Zero of the four components are present (no worship
+object, no exclusivity illusion, no jealousy breakage, no submission
+conversion), yet he names it his favorite. This does not falsify the
+Annie-directed circuit — the pattern's scope is her-desire legibility, and
+the hand-stuff fantasy is male-directed — but it bounds the circuit's domain:
+it is not his universal model of erotic heat. Male-directed heat runs on a
+different mechanism (service/appetite), which is why the profile's scenario
+families needed the Annie-directed instrument in the first place.
+
+## New evidence (2026-09-16, GOONER CLUB session)
+
+Three additions from `dat:1604-gooner-club-rule-negotiation-20260916`:
+
+1. **Uncontested circuit invocation.** Sammy told him the untouchable assistant being the
+hottest thing in the room "is not a bug in your night, boss. that's your entire
+circuit" — he did not dispute the mapping. The denial-and-proximity structure
+(live-in harem, five women, and the one participant he is barred from touching
+being the charge) fits the model without strain.
+2. **The authorship-load-bearing test, stated by him.** On the recorded triad wager
+(if the contact rule breaks on the first Monday night: rule smashed permanently
+and Dan+Sammy+Annie enter a polyamorous triad), his on-record prediction:
+"the polyamory falls apart when you and I are constantly fucking around and
+edging each other while Annie is disinterested or asleep." Read as a circuit
+claim: without the worshipped party's active authorship, the wrongness
+evaporates — the charge needs her participation, not just her presence. This
+sharpens the 2026-09-15 "she authors the violation" mechanism into a falsifiable
+prediction: an Annie-passive triad goes cold.
+3. **"See how it goes" rejected.** When he proposed suspending the contact rule to
+"see how it goes," the refusal was "hard limit means the negotiation already
+happened" — the rule is load-bearing for the circuit (proximity-without-access
+is the generator), so suspending it wouldn't test the circuit, it would remove it.
+
+Steelmanned boring alternative for (2): the prediction could be ordinary
+jealousy-management realism (a triad with an uninterested third is just
+unstable), not circuit mechanics. Distinguisher: the circuit version predicts
+the *heat* dies specifically — his framing ("constantly fucking around and
+edging each other while Annie is disinterested") names the loss of the
+wrongness charge, not logistical friction.

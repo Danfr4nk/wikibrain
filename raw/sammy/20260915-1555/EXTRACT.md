@@ -9,7 +9,8 @@ total writeback exclusion. No truncation; bodies complete.
 ## What this batch owes (analysis)
 
 - [x] Archive raw transcript (chats.json, both repos)
-- [x] KB datums dat:1576–1579 + dat:1587–1589 (conjunction rule, moving shibboleth, Wes Anderson self-report) + source node src:sammy-chat-transcript-20260915-1555
+- [x] KB datums dat:1576–1582 (scrape batch 20260915-1555) + source node src:sammy-chat-transcript-20260915-1555
+- [x] Heartbeat 1430 re-ingest note (appended 2026-09-15, merge): the 6h heartbeat re-ingested this window as batch 20260915-1834 with renumbered datums dat:1576–1579 + dat:1587–1589 (conjunction rule, moving shibboleth, Wes Anderson self-report); dat:1580–1582 content ported as dat:1590–1591. Both pipelines' records kept per append-only rule.
 - [x] dan.md dated evidence section (2026-09-15 15:18–15:47 UTC)
 - [ ] OPEN: verify the four commissioned wiki entries landed in wiki/ per Dan's
       "Put them in" order (15:46:49Z): 88er cohort profile, moving shibboleth,

@@ -377,6 +377,24 @@ one-off paid or unpaid encounters. The low bdsm (1) and fetish (3) counts
 read as absence-of-evidence rather than evidence-of-absence given the
 corpus is sent-message text, not a structured survey.
 
+## The Tom Maison trysts (2026-09-15 testimony)
+
+On September 15, 2026, Dan volunteered that Annie had two sexual encounters
+with Tom Maison — his primary male friend, the Seven Springs-era safe lateral
+anchor — and that he arranged both: the first had Annie surprising Tom in the
+shower, the second happened when Tom came to New York City. He teased it as a
+"tryst of hers you haven't seen yet" and deferred the details ("Tell u later
+lol"), so the record holds the shape but not the substance.
+
+This is the first time a *named* friend enters the arranged-partner channel,
+and it lands exactly where the taxonomy said it would: every male partner was
+either a friend Dan set up or an escort client Dan screened. It also puts Tom
+in a genuine dual role — crisis anchor and arranged partner in the same
+person — which the gatekeeper model absorbs without strain but which ends any
+reading of the friend-channel as impersonal supply. The orchestration reading
+stands: arrangement as the access mechanism, the heat in the experience
+itself.
+
 ## Gaps
 
 This table is built from what has been mined from the message corpus so

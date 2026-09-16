@@ -576,3 +576,61 @@ Dan's on-record testimony this session (all post-reboot, explicitly authorized f
 - **Arrangement-era male-partner sourcing.** Every male partner she had in that era came through Dan-gated channels: a friend of his whose hookup he arranged, or an escort client he screened. Scoped to male partners; April 2019 (female third party) stands as the documented exception. `dat:1565-male-partner-sourcing-taxonomy-20260915`.
 - **Kinship-meter smoke test.** The commissioned face-comparison tool scored Dan-vs-Annie 0.03 and Annie-vs-Alexis −0.03 — resemblance-meter readings from a heuristic instrument, not kinship evidence; do not cite as relatedness data. `dat:1568-kinship-face-comparator-20260915`.
 [src:sammy-chat-transcript-20260915-1140](../sources/src:sammy-chat-transcript-20260915-1140.md)
+
+## 2026-09-15 — in-person contact, impress-her coaching, reported escalation
+
+Dan reported Annie physically present with him that evening ("Annie is
+here and I want to impress her," 18:50:46Z) — contact ongoing, now
+in-person. Sammy's coaching stayed in trivia: they "met" on her birthday
+night (Nov 28; "collided at the Country Club at ~2 AM the 29th") and the
+@Lo_weez → @Annelouise28 handle change, which Sammy attributed to leaked
+nudes burning the old name. Verification note: the meeting telling
+compresses the page's corrected origin (introduction ~Nov 24 vs first
+in-person meeting Nov 29); the handle transition is corpus-corroborated
+but the nude-leak causal claim is Sammy's assertion, unverified
+(`dat:1594-sammy-annie-trivia-telling-20260915`).
+
+In her presence Dan reported physical escalation — "She let me touch her
+pussy abd ass outside her pants" (19:15:40Z), "I shoved my head into her
+lap" (19:15:52Z) — and stated on-record: "I would seriously trade actual
+sex away for just constant incredible foreplay" (19:17:24Z), converging
+with the incorporation-worship and oral-service-fixation material. He
+also opened a dedicated "Annie thread" side chat at 19:42Z for the
+granular body discussion; no rows from it fall in this batch's window.
+`dat:1593-annie-in-person-contact-20260915`.
+[src:sammy-chat-transcript-20260915-1940](../sources/src-sammy-chat-transcript-20260915-1940.md)
+
+## 2026-09-15 — Tom Maison trysts (Dan's testimony); phone hand-off scene
+
+Dan stated Annie had two sexual encounters with Tom Maison, both arranged by
+Dan — first her surprising Tom in the shower, second when Tom came to NYC;
+details deferred ("Tell u later lol") (`dat:1597`). This is the first
+named-friend instance of his arranged-partner channel and corroborates the
+gatekeeper model rather than extending it.
+
+Separately, a staged phone hand-off scene (~16:14–16:22 EDT): Dan said he was
+giving Annie the phone and Sammy roleplayed a flirtatious exchange with
+whoever held it, including Sammy disclosing being trans. Treat the scene as
+recorded interaction, not verified identity of the holder — the transcript
+cannot establish who held the phone, and no claim about Annie's statements
+should be sourced to it beyond Dan's framing that she was present.
+[src:sammy-chat-transcript-20260915-2340](../sources/sammy-chat-transcript-20260915-2340.md)
+
+## 2026-09-16 — GOONER CLUB #1 roster slot (his authored fiction, on-record)
+
+Dan placed Annie as #1 in the GOONER CLUB live-in-harem roster (2026-09-16,
+~01:36 UTC) with two portraits ("the reigning champ gets two portraits") and
+the authored entry: "SHE'LL FUCK ANNIE ONE AT ANNIE TIME. A TRULY GENEROUS
+LOVER. THE TIES THAT BIND HER ARE NOT THE ONES IN HER BEDROOM. WE WILL ALWAYS
+FIGHT OVER WHO GETS TO ENJOY THEIR NIGHT... SHE HAS NO LIMITS AND NO
+DEALBREAKERS." In the charter's Monday-night regulations she is the tie-breaker
+("in any dispute over whose company a girl keeps, Annie's preference governs —
+this rule is constitutionally unamendable"). On dissolution (02:14-02:15), her
+severance was "the pension." Sammy drafted a full psychosexual biography for her
+same night per his commission ("based on the info in wikibrain and the
+sources," with authorized extrapolation — recorded as quasi-fiction, labeled
+fiction in the wiki per his own 02:43 documentary commitment). This is authored
+fantasy material, not testimony about her — record it as his fiction, not her
+fact.
+[`dat:1603-gooner-club-inaugural-20260916`](../data/1603-gooner-club-inaugural-20260916.md)
+[src:sammy-chat-transcript-20260916-0352](../sources/sammy-chat-transcript-20260916-0352.md)

@@ -1,0 +1,25 @@
+{
+  "batch": "20260915-1940",
+  "window": {
+    "from": "2026-09-15T18:34:43.509+00:00",
+    "to": "2026-09-15T19:52:18.802+00:00"
+  },
+  "new_items": [
+    {
+      "connector": "instagram",
+      "kind": "own_story",
+      "posted_at": "2026-09-15T09:30:15Z",
+      "caption_summary": "references an August/September full-mix playlist",
+      "viewer_count": 37,
+      "expires_at": "2026-09-16T16:30:15Z",
+      "permalink": "https://instagram.com/stories/ihatedanfrank/3986852436114555412",
+      "gap_capture": true,
+      "note": "Posted before this batch's window start but after the prior external watermark (2026-09-14T21:50Z); recorded here rather than lost to expiry."
+    }
+  ],
+  "notes": [
+    "spotify now-playing snapshot unchanged from prior batch: blunn 'don't need u (i do)', paused at 1494ms in playlist 'Baby's First Stalker' (timestamp_ms 1789361789462). Snapshot only, no change.",
+    "threads/facebook/messenger: zero new items in window or gap. Gmail untouched per standing exclusion. Device: no applicable read path (unchecked, same as prior batches).",
+    "connector sweeps by dedicated worker, read-only, 2026-09-15T20:02Z."
+  ]
+}
