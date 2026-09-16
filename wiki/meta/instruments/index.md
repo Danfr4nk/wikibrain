@@ -27,7 +27,7 @@ which turned out to measure something wider than the channel it was built for.
 That is the pattern. This page is the standing catalogue of the ones that
 survived into tools.
 
-## The three rules every instrument obeys
+## The four rules every instrument obeys
 
 **1. Evidence, not claim.** An instrument page states no finding. It presents
 every record and the arithmetic over them, and stops. A finding *drawn* from an
@@ -45,6 +45,13 @@ prints a quantity statistic without the share of events it was computed from;
 `bin/wiki-testimony` never prints a rate without its `n` and refuses a class
 below `MIN_N` as a prior outright. An instrument that cannot state its own
 denominator will be believed as though it had one.
+
+**4. The complete log lives on the entry.** An instrument page that tracks an
+ongoing or temporal metric displays the metric's complete log — every run,
+every week, every export — translated for a human reader. A summary may sit
+above the log; it never replaces it. Dan's words: more is better than less,
+every time. A measurement you cannot see in full is not a measurement, it is
+a press release.
 
 ## The ledgers
 
