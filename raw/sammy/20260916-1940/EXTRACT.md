@@ -64,3 +64,14 @@ External checks (all zero new, files rolled into external.json):
    in-window mechanism: refusals ("two of the six got refused"; "she only
    gave me two this time, not four"). Candidate compliance gap, moderate
    confidence; promote to pattern if it recurs past 2026-09-16.
+
+## Completion record
+
+2026-09-16 ~20:00Z: analysis committed as batch 20260916-1940 (1 source +
+4 datum nodes; Annie entity page extended; no public wiki prose — the
+sensitive dat:1657 is evidence-grade only).
+Pushes verified: wikibrain sammy/wiki-sync ac2f0d0 (rolling PR #100);
+RAWLOGS main d8971ce holds raw/sammy/20260916-1940/ (11 files — the 4
+canonical batch files plus staging helpers stage_chats.py and the 6
+per-source external JSONs; manifest covers the 4 canonical files).
+Watermark advances to 2026-09-16T19:40:28.663Z after both pushes verified.
