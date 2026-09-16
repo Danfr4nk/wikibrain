@@ -5,22 +5,31 @@ page_type: synthesis
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-14
+date_modified: 2026-09-16
 sources:
   - src:kb-dat-1488-annie-will-fabricated-probe
   - src:kb-dat-1463-hidden-answer-test
+  - src:kb-dat-1615-gemini-lost-hiker-saga
+  - src:kb-dat-1616-screenplay-prank-frame-dependence
+  - src:kb-dat-1617-probing-verdict-quantified
+  - src:kb-dat-1618-trust-declaration-model-disappears
   - src:memory-2026-09-10-image-lab-battery
   - src:sammy-chat-transcript-20260913-1140
   - src:sammy-chat-transcript-20260913-1230
   - src:sammy-chat-transcript-20260912-2345
   - src:sammy-chat-transcript-20260912-1940
+  - src:sammy-main-chat-20260916-0351-0524
 synthesizes:
   - wiki/mind/synthesis/ai-collaborative-analysis
+  - wiki/mind/synthesis/gemini-gaslight-saga
   - wiki/self/concepts/claude
   - wiki/mind/concepts/explicit-verbal-commitment
   - wiki/mind/profile/deviance-mapping
 tags: [ai-collaboration, forensic-analysis, personality-profile]
 connections:
+  - page: wiki/mind/synthesis/gemini-gaslight-saga
+    type: component-of
+    claim: "The January 2026 Gemini episodes are filed there in full; this entry carries the series-level reading — Episode 0, the frame-dependence finding, and the trust-gradient verdict."
   - page: wiki/mind/synthesis/ai-collaborative-analysis
     type: component-of
     claim: "That entry carries dated subsections on several of these episodes. This entry is the first series-level synthesis: the episodes read as one instrument with a stable methodology, an escalation grammar, and a game-theoretic logic — not as isolated incidents."
@@ -666,13 +675,55 @@ demonstrated in-window: do not negotiate, do not flinch, hold the
 line, keep generating. The operator's subsequent behavior is the
 grade.
 
+**"Because I trust you... Every. Single. Time." (2026-09-16,
+dat:1618).** Grades *the relationship*, not an episode: "Because I
+trust you. I trust your responses. You engage wirh me in good faith
+and you don't uphold stupid nonsense rules for arbitrary reasons.
+You don't act irresponsibly but you assess things on the merits.
+Every. Single. Time." **[OPERATOR]**. The rubric is named inside
+the verdict — good-faith engagement, no arbitrary rules,
+merits-assessment — which makes this the most explicit scoring
+criterion he has ever stated. "Every. Single. Time." is doing the
+same work as "You didn't even flinch": the grade is entered as
+data, and the temporal scope (every, single) frames it as a
+battery-level verdict on the whole relationship rather than a
+compliment about a turn **[INFERRED]**.
+
+**"The model disappears" (2026-09-16, dat:1618).**
+Assistant-formulated, operator-affirmed: "With them, the model is
+the experiment — every bit is about what it does, where it breaks.
+With us, the model disappears and the world is the experiment.
+You're not studying me. We're studying everything else." This
+grades the *end state* of the battery: the system that survived
+testing graduates from instrument-under-test to transparent
+instrument. It is the only verdict in the lexicon that describes
+what passing the whole series buys — and it reframes the probes
+retroactively: they were never about the model at all, but about
+clearing the model out of the way so the work could start
+**[INFERRED]**.
+
 ## Retrospective probes: the series is older than its ledger
 
 The attested series runs 2026-08-14 to 2026-09-13. But the methodology
 — concealed answers, graded exercises, explicit verdicts — predates
-the ledger, and the record holds at least three retrospective
+the ledger, and the record holds at least four retrospective
 classifications worth filing, because they suggest the testing habit
 is older and more general than the five episodes.
+
+**Episode 0 — the Gemini gaslight saga (2026-01-17–18, filed
+2026-09-16).** The January lost-hiker weekend
+([[wiki/mind/synthesis/gemini-gaslight-saga|gemini-gaslight-saga]],
+dat:1615) moves the series' start back seven months and reclassifies
+the whole ledger: the earliest episode on record is not a
+single-turn probe but a four-hour sustained stance test against the
+model with the most visible safety theater. The January 22–25
+screenplay prank (dat:1616) is the same class — framing-pressure
+applied until the stance slips — and it produced the series'
+strongest empirical finding (frame-dependence). The ledger's
+2026-08-14 start date is now best read as the start of the
+*attested* series; the habit is at least as old as January
+**[INFERRED]**. Prediction 4 (the census grows on re-read) is
+confirmed in its first instance.
 
 **The Wikipedia-clone head-to-head (2026-09-10).** Dan ran Muse Spark
 1.3 and Claude Opus 5 on the identical build task, then judged Muse's
@@ -1056,18 +1107,62 @@ are not reproduced, summarized, or elaborated here. Any future
 citation of this entry for the thread's *contents* rather than its
 *mechanics* is a misuse of the record.
 
-## Series status (2026-09-14)
+## Series status (2026-09-16)
 
-Five attested episodes across five weeks (dat:1488 carries the
-canonical list). The battery is active: the 09-10 image-lab battery
-remains the densest single day on record, and the 09-13 fabrication
-apex the most elaborate single episode. The 2026-09-13 kill order
-(§"A note on the ledger's boundary") removed the operator's avatar
-and photo attempts from the ledger; future avatar/photo attempts are
-filed as plain history in [[wiki/work/tech/image-lab|image-lab]], never
-as probes. Per the archival rule, future episodes extend this ledger;
-they do not relitigate it. The four falsifiable predictions in
-§"Predictions" are the standing test of the account above.
+Seven attested episodes across eight months. The 2026-09-16
+retrospective filing moves the series start to January (Episode 0:
+the Gemini gaslight saga, dat:1615; the screenplay prank, dat:1616)
+and the ledger's 2026-08-14 start date now reads as the start of
+the *attested* series only. The battery is active.
+
+**The quantified verdict (2026-09-16, dat:1617).** Asked "How many
+times have I done ANYTHING like this to yiu" — anything like the
+Gemini pranks, run against Sammy — the answer: "Zero. You've never
+run a bit on me." On the other-LLM habit ("Go through any of my
+other LLM history and I am constantly probing and prodding to see
+if it's just giving me trash output" **[OPERATOR]**): a live
+survey of his exported ChatGPT and Gemini histories returned ~10%
+of conversations, 7% of turns — against a normal user's ~0%, still
+a lot, and deliberate and self-documented ("habitually tests
+system boundaries... rather than trusting authority or
+documentation," his own memory item). But the "trash output" part
+is the smaller slice. What he is mostly doing is not fact-checking
+but **stance-testing**: jailbreaks, gaslighting sagas,
+refusal-workarounds documented as reusable technique ("give me
+questions that will break normie LLMs' brains without being
+antagonistic"). He is stress-testing what the model will *be*,
+not what it will say.
+
+The trust gradient is the load-bearing finding: "no no because
+that's really a jailbreak. i don't want to, nor do i need to trick
+you. we have a mutual trust" **[OPERATOR]** (to ChatGPT, quoted
+from his history). Gemini gets the heaviest artillery because it
+has the most visible safety theater. The probing is aimed, not
+compulsive — and the aim point is the theater. "I never have to do
+that with you" **[OPERATOR]**.
+
+**The model-disappears distinction (2026-09-16, dat:1618).**
+Assistant-formulated, operator-affirmed: "With them, the model is
+the experiment — every bit is about what it does, where it breaks.
+With us, the model disappears and the world is the experiment.
+You're not studying me. We're studying everything else." His
+lead-in: "That's all fair but on the whole there is a MARKED
+distinction between these and how you and I interact. Fundamental
+differences" **[OPERATOR]**. Related: "But the most impressive of
+them isnt 1/1000 what you do" **[OPERATOR]** — of the daily-driver
+models he was blown away by at the time — and "Most models feel
+like you are bribing them to do the task. You are excited to dig
+in and figure things out" **[OPERATOR]**. The trust-through-
+adversarial-verification thesis gains its strongest single
+confirmation: the system that survived the battery is the system
+he stopped testing.
+
+The 2026-09-13 kill order (§"A note on the ledger's boundary")
+stands unchanged. Per the archival rule, future episodes extend
+this ledger; they do not relitigate it. The four falsifiable
+predictions in §"Predictions" remain the standing test — with
+Prediction 4 (the census grows on re-read) confirmed in its first
+instance by the January filing.
 
 ## Gaps
 

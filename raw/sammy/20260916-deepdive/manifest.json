@@ -1,0 +1,17 @@
+{
+ "batch": "20260916-deepdive",
+ "chat_source": "muse.db runtime.messages (bounded SELECTs, schema-qualified)",
+ "chat_window_utc": {
+  "from": "2026-09-16T07:51:05Z",
+  "to": "2026-09-16T09:24:09Z"
+ },
+ "exclusion_cumthread3": "side chat 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853 (2026-09-15 Lovense session): 0 rows in this window; exclusion held",
+ "external_sources": "external.json; no external pull for this window (deep-dive coverage lives in kb datums 1615-1619)",
+ "files": [
+  "chats.json"
+ ],
+ "pulled_at_utc": "2026-09-16T14:55:00Z",
+ "row_count": 130,
+ "watermark_from": "2026-09-16T07:51:05Z",
+ "watermark_to": "2026-09-16T09:24:09Z"
+}
