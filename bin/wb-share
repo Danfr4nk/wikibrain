@@ -1,0 +1,330 @@
+#!/usr/bin/env python3
+"""wb-share — share an individual wiki article outside the password gate.
+
+A share is a point-in-time COPY of a wiki article, placed at
+wiki/share/<slug>.md and rendered ungated to
+site/wiki/share/<slug>.html. The original entry is never touched or
+moved.
+
+Because the rest of the wiki stays gated, the copy flattens its
+outbound wikilinks to plain bold text, and a "Cliff notes" appendix is
+auto-drafted from each linked entry's lede so the reader gets the
+context they would have clicked through for. After `share` (or
+`sync`), a human (the model) does a quick review pass to sharpen the
+notes before the copy is published.
+
+The gate exclusion lives in bin/wb-gate: every page under
+site/wiki/share/ is skipped at injection time.
+
+Usage:
+  bin/wb-share share <source> [--slug NAME]   # source: wiki key, wiki rel path, or unique stem
+  bin/wb-share list
+  bin/wb-share sync <slug>                    # rebuild the copy from the current original
+  bin/wb-share unshare <slug>                 # remove the share copy
+
+Standard library only, matching the rest of the project.
+"""
+
+from __future__ import annotations
+
+import argparse
+import datetime
+import re
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+WIKI = ROOT / "wiki"
+SHARE_DIR = WIKI / "share"
+
+BASE_URL = "https://danfr4nk.github.io/wikibrain"
+
+WIKILINK_RE = re.compile(r"\[\[([^\]]+)\]\]")
+MDLINK_RE = re.compile(r"(?<!!)\[([^\]]+)\]\(([^)\s]+)\)")
+FM_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n", re.DOTALL)
+
+
+# --------------------------------------------------------------------------
+# page loading (mirrors bin/wb-wiki's key/url scheme)
+# --------------------------------------------------------------------------
+
+def parse_frontmatter(text: str) -> dict:
+    m = FM_RE.match(text)
+    if not m:
+        return {}
+    meta = {}
+    for line in m.group(1).split("\n"):
+        if ":" in line and not line.startswith((" ", "\t")):
+            k, _, v = line.partition(":")
+            v = v.strip()
+            if len(v) >= 2 and v[0] == v[-1] and v[0] in ("'", '"'):
+                v = v[1:-1]
+            meta[k.strip()] = v
+    return meta
+
+
+def strip_frontmatter(text: str) -> str:
+    return FM_RE.sub("", text, count=1)
+
+
+def load_pages() -> list[dict]:
+    pages = []
+    for path in sorted(WIKI.rglob("*.md")):
+        rel = path.relative_to(WIKI)
+        key = "wiki/" + str(rel.with_suffix(""))
+        text = path.read_text(encoding="utf-8")
+        meta = parse_frontmatter(text)
+        body = strip_frontmatter(text)
+        hm = re.search(r"^#\s+(.+)$", body, re.M)
+        title = str(meta.get("title") or "").strip()
+        if not title:
+            title = hm.group(1).strip() if hm else rel.stem.replace("-", " ").replace("_", " ").title()
+        pages.append({"key": key, "path": path, "meta": meta,
+                      "body": body, "title": title})
+    return pages
+
+
+def find_page(pages: list[dict], source: str) -> dict | None:
+    s = source.strip()
+    # full key
+    for p in pages:
+        if p["key"] == s or p["key"] == "wiki/" + s:
+            return p
+    # relative path with or without .md
+    s2 = s[:-3] if s.endswith(".md") else s
+    for p in pages:
+        rel = str(p["path"].relative_to(WIKI).with_suffix(""))
+        if rel == s2 or "wiki/" + rel == s2:
+            return p
+    # unique stem
+    hits = [p for p in pages if p["path"].stem == s2]
+    if len(hits) == 1:
+        return hits[0]
+    if len(hits) > 1:
+        print(f"wb-share: '{s}' matches multiple pages:", file=sys.stderr)
+        for p in hits:
+            print(f"  {p['key']}", file=sys.stderr)
+    return None
+
+
+def lede(body: str, maxlen: int = 600) -> str:
+    """First substantive paragraph, wikilinks flattened to their labels."""
+    in_fence = False
+    para = []
+    for line in body.split("\n"):
+        if line.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        if not line.strip():
+            if para:
+                break
+            continue
+        if line.lstrip().startswith("#") or line.lstrip().startswith((">", "|")):
+            continue
+        para.append(line.strip())
+    text = " ".join(para)
+    def wl(m: re.Match) -> str:
+        target, label = split_target(m.group(1))
+        if not label:
+            tgt = norm_key(target).split("/")[-1]
+            label = tgt.replace("-", " ").replace("_", " ").title() or tgt
+        return label
+    text = WIKILINK_RE.sub(wl, text)
+    text = re.sub(r"(?<!!)\[([^\]]+)\]\([^)\s]+\)", r"\1", text)
+    text = text.replace("**", "").replace("*", "").replace("`", "")
+    text = re.sub(r"\s+", " ", text).strip()
+    return text[:maxlen].rstrip() + ("…" if len(text) > maxlen else "")
+
+
+# --------------------------------------------------------------------------
+# link flattening + cliff notes
+# --------------------------------------------------------------------------
+
+def split_target(inner: str) -> tuple[str, str | None]:
+    tmp = inner.replace("\\|", "\x00PIPE\x00")
+    segs = tmp.split("|", 1)
+    if len(segs) == 2:
+        return segs[0].replace("\x00PIPE\x00", "|").strip(), segs[1].replace("\x00PIPE\x00", "|").strip()
+    segs = tmp.split("\x00PIPE\x00", 1)
+    if len(segs) == 2:
+        return segs[0].strip(), segs[1].strip()
+    return tmp.replace("\x00PIPE\x00", "|").strip(), None
+
+
+def norm_key(target: str) -> str:
+    t = target.strip().strip("/")
+    if t.endswith(".md"):
+        t = t[:-3]
+    if not t or t == "wiki":
+        return "wiki/"
+    return t if t.startswith("wiki/") else "wiki/" + t
+
+
+def flatten_links(body: str, pages_by_key: dict[str, dict]) -> tuple[str, list[dict]]:
+    """Flatten gated outbound links to bold text; return (body, linked_pages)."""
+    linked: list[dict] = []
+    seen: set[str] = set()
+
+    def record(target: str):
+        key = norm_key(target.partition("#")[0])
+        if key not in seen and key in pages_by_key and not key.startswith("wiki/share/"):
+            seen.add(key)
+            linked.append(pages_by_key[key])
+
+    def sub_wiki(m: re.Match) -> str:
+        inner = m.group(1).strip()
+        target, label = split_target(inner)
+        if target.startswith("#"):          # in-page anchor: keep working
+            frag = target[1:]
+            return f"[{label or frag}](#{frag})"
+        if target.startswith("raw/") or not target.startswith("wiki/"):
+            return f"`{label or target}`"
+        record(target)
+        return f"**{label or norm_key(target).split('/')[-1].replace('-', ' ')}**"
+
+    body = WIKILINK_RE.sub(sub_wiki, body)
+
+    def sub_md(m: re.Match) -> str:
+        label, target = m.group(1), m.group(2)
+        if target.startswith(("wiki/", "/wiki/")):
+            record(target)
+            return f"**{label}**"
+        return m.group(0)
+
+    body = MDLINK_RE.sub(sub_md, body)
+    return body, linked
+
+
+BANNER = (
+    "> **Shared snapshot** — a copy of `{src}` taken on {date}. "
+    "This page is public and ungated. Links to other wiki entries were "
+    "flattened because those entries stay behind the wiki's password gate; "
+    "the Cliff notes section at the bottom carries the context they would have provided."
+)
+
+
+def build_copy(source: dict, pages_by_key: dict[str, dict], date: str) -> tuple[str, list[dict]]:
+    flat_body, linked = flatten_links(source["body"], pages_by_key)
+    lines = [BANNER.format(src=source["key"], date=date), "", flat_body.rstrip(), ""]
+    if linked:
+        lines += ["", "## Cliff notes", ""]
+        for t in linked:
+            note = lede(t["body"]) or t["title"]
+            lines.append(f"- **{t['title']}** — {note}")
+        lines.append("")
+    return "\n".join(lines), linked
+
+
+def slugify(s: str) -> str:
+    s = s.lower().strip()
+    s = re.sub(r"[^\w\s-]", "", s)
+    s = re.sub(r"[\s_]+", "-", s)
+    return s.strip("-") or "page"
+
+
+def do_share(pages: list[dict], source_arg: str, slug_arg: str | None) -> int:
+    pages_by_key = {p["key"]: p for p in pages}
+    source = find_page(pages, source_arg)
+    if source is None:
+        print(f"wb-share: no page found for '{source_arg}'", file=sys.stderr)
+        return 1
+    if source["key"].startswith("wiki/share/"):
+        print("wb-share: cannot share a share copy", file=sys.stderr)
+        return 1
+    slug = slug_arg or slugify(source["path"].stem)
+    dest = SHARE_DIR / f"{slug}.md"
+    if dest.exists():
+        print(f"wb-share: share/{slug} already exists — use `sync` to rebuild", file=sys.stderr)
+        return 1
+    date = datetime.date.today().isoformat()
+    body, linked = build_copy(source, pages_by_key, date)
+    fm = [f"title: {source['title']}",
+          "shared: true",
+          f"shared_from: {source['key']}",
+          f"shared_at: {date}",
+          "domain: share"]
+    SHARE_DIR.mkdir(exist_ok=True)
+    dest.write_text("---\n" + "\n".join(fm) + "\n---\n\n" + body, encoding="utf-8")
+    print(f"wb-share: {source['key']} -> wiki/share/{slug}.md")
+    print(f"  flattened {len(linked)} gated links; cliff notes drafted — review pass before publishing")
+    print(f"  share URL (after next deploy): {BASE_URL}/wiki/share/{slug}.html")
+    return 0
+
+
+def do_list(pages: list[dict]) -> int:
+    shares = [p for p in pages if p["key"].startswith("wiki/share/")]
+    if not shares:
+        print("wb-share: no shared pages")
+        return 0
+    for p in shares:
+        slug = p["path"].stem
+        meta = p["meta"]
+        print(f"{slug}: from {meta.get('shared_from', '?')} on {meta.get('shared_at', '?')}")
+        print(f"  {BASE_URL}/wiki/share/{slug}.html")
+    return 0
+
+
+def do_sync(pages: list[dict], slug: str) -> int:
+    pages_by_key = {p["key"]: p for p in pages}
+    dest = SHARE_DIR / f"{slug}.md"
+    cur = pages_by_key.get(f"wiki/share/{slug}")
+    if cur is None or not dest.exists():
+        print(f"wb-share: no share copy '{slug}'", file=sys.stderr)
+        return 1
+    source_key = cur["meta"].get("shared_from")
+    source = pages_by_key.get(source_key) if source_key else None
+    if source is None:
+        print(f"wb-share: original '{source_key}' no longer resolves", file=sys.stderr)
+        return 1
+    date = datetime.date.today().isoformat()
+    body, linked = build_copy(source, pages_by_key, date)
+    fm = [f"title: {source['title']}",
+          "shared: true",
+          f"shared_from: {source['key']}",
+          f"shared_at: {date}",
+          "domain: share"]
+    dest.write_text("---\n" + "\n".join(fm) + "\n---\n\n" + body, encoding="utf-8")
+    print(f"wb-share: synced share/{slug} from {source['key']} ({date})")
+    print(f"  {len(linked)} cliff notes; review pass before publishing")
+    return 0
+
+
+def do_unshare(pages: list[dict], slug: str) -> int:
+    dest = SHARE_DIR / f"{slug}.md"
+    if not dest.exists():
+        print(f"wb-share: no share copy '{slug}'", file=sys.stderr)
+        return 1
+    dest.unlink()
+    print(f"wb-share: removed share/{slug}")
+    return 0
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser(prog="wb-share")
+    sub = ap.add_subparsers(dest="cmd", required=True)
+    s = sub.add_parser("share", help="copy an article into share mode")
+    s.add_argument("source", help="wiki key, wiki rel path, or unique stem")
+    s.add_argument("--slug", default=None, help="override the share slug")
+    sub.add_parser("list", help="list shared pages")
+    sy = sub.add_parser("sync", help="rebuild a share copy from its original")
+    sy.add_argument("slug")
+    un = sub.add_parser("unshare", help="remove a share copy")
+    un.add_argument("slug")
+    args = ap.parse_args()
+
+    pages = load_pages()
+    if args.cmd == "share":
+        return do_share(pages, args.source, args.slug)
+    if args.cmd == "list":
+        return do_list(pages)
+    if args.cmd == "sync":
+        return do_sync(pages, args.slug)
+    if args.cmd == "unshare":
+        return do_unshare(pages, args.slug)
+    return 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())
