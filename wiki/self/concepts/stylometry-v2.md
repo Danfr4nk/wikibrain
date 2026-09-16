@@ -44,7 +44,131 @@ It cannot prove: intoxication, pathology, or any label. A flag is a style shift,
 
 ### Burn-in week (started 2026-09-15 20:24 ET)
 
-v1 and v2 score side by side, quiet, for ~a week. First ~26 runs: v2 caught three aroused-state windows v1 missed; v1 flagged once (09:56 ET, jaccard_next on terse picks + attachment-path noise) where v2 correctly stayed clean. The daily plain-English digest runs 09:00 ET.
+v1 and v2 score side by side, quiet, for ~a week. The daily plain-English digest runs 09:41 ET.
+
+<!-- STYLO-RESULTS-START -->
+
+*Last updated 2026-09-16 16:18 ET — 37 runs logged, 1 blocked.*
+
+#### How to read this
+
+Every 30 minutes, both engines score the same thing: **Dan's own messages from the last 4 hours** — his words only, usually 40–170 of them. Then each engine answers one question:
+
+- **v1 (the old engine):** does the window's shape cross a fixed divergence index of 2.0? It watches all 29 features, including raw length — long pasted specs and duplicate sends can trip it.
+- **v2 (the new engine):** how unusual is this window compared to 19,911 reference draws from Dan's own baseline? A **flag** means the window sits at or above the **99.5th percentile** of his own reference — rarer than 99.5% of his usual shapes. An **alert** is a flag the cooldown lets through as notification-worthy.
+
+**Divergence (div)** = how far the window sits from his baseline; bigger = weirder. **Drivers** = which features pulled hardest, as z-scores (standard deviations off his norm). A **split** = the engines disagree — exactly the comparison data this week exists to collect.
+
+#### The tally so far
+
+- **37** scoring runs (1 blocked by a collection failure)
+- **v1 flags: 7** — every one of them on length/noise features
+- **v2 flags: 6** (6 alerts)
+- **Engine splits: 9** — v1-flag-vs-v2-clean: 5; v2-flag-vs-v1-clean: 4
+
+#### Notable windows
+
+**Sep 15, 8:04 PM ET — v1 flagged on noise, v2 stayed clean**
+
+v1 flag driven by length features (n_sents z=3.17); v2 clean at 92.7th pct — the length-confound fix working on live data
+
+*v1 div 2.20 (line 2.0) · v2 92.7th pct (line 99.5), div 0.00 · 40 messages*
+*Strongest signals: more sentences per message; longer messages; vocabulary narrowing (repeating the same words).*
+
+**Sep 15, 8:27 PM ET — v2 ALERT — a real style shift**
+
+both flagged; v1 on length features again (n_sents z=10.46 — avatar-iteration volley with pasted frame-telemetry and duplicate sends); v2 flagged at 100th null percentile on language-only axes expressivity/stance — first v2 alert of the week; measurement only, no user report
+
+*v1 div 6.07 (line 2.0) · v2 100.0th pct (line 99.5), div 3.44 · 101 messages*
+*Strongest signals: more sentences per message; longer messages; n_words.*
+
+**Sep 15, 8:57 PM ET — v1 flagged on noise, v2 stayed clean**
+
+v1 flag on length features (n_sents z=8.33) again — avatar-iteration volley with duplicate sends + long pasted frame-telemetry text; v2 at 99.25th pct, just under the 99.5 flag line — language-only divergence 3.04 on 80 routed msgs; measurement only, no user report
+
+*v1 div 5.13 (line 2.0) · v2 99.2th pct (line 99.5), div 3.04 · 102 messages*
+*Strongest signals: more sentences per message; longer messages; n_words.*
+
+**Sep 15, 9:24 PM ET — v2 ALERT — a real style shift**
+
+v1 flag on length features again (n_sents z=10.52, n_chars z=8.6) — avatar/unicode tag-action thread with duplicate sends + long pasted Gemini unicode-spec text; v2 alert at 99.535th pct (just over 99.5 line) driven by ttr_win drop, emoji/caps/hedge spikes, jaccard_next — rhythm/stance/expressivity axes on 83 routed msgs; measurement only, no user report
+
+*v1 div 5.84 (line 2.0) · v2 99.5th pct (line 99.5), div 3.13 · 83 messages*
+*Strongest signals: more sentences per message; longer messages; n_words.*
+
+**Sep 15, 9:56 PM ET — v1 flagged on noise, v2 stayed clean**
+
+v1 flag on length features (n_sents z=10.79, n_chars z=8.82) — tag-action/unicode + avatar-iteration volley with duplicate sends and long pasted specs; v2 clean at 97.76th pct (just under 99.5 line), language-only div 2.78 on 73 routed msgs; measurement only, no user report
+
+*v1 div 5.93 (line 2.0) · v2 97.8th pct (line 99.5), div 2.78 · 84 messages*
+
+**Sep 15, 10:26 PM ET — v1 flagged on noise, v2 stayed clean**
+
+v1 flag on length features (n_sents z=5.10, n_chars z=4.16) — chat-naming/tag-action volley (NOTIF'S/GOONER CLUB pins) with duplicate sends + long pasted unicode-spec text; v2 clean at 94.25th pct, language-only div 2.57 on 95 routed msgs — ttr_win drop, emoji/pivot/hedge/ellipsis spikes; measurement only, no user report
+
+*v1 div 3.18 (line 2.0) · v2 94.2th pct (line 99.5), div 2.57 · 104 messages*
+*Strongest signals: more sentences per message; longer messages; vocabulary narrowing (repeating the same words).*
+
+**Sep 16, 12:04 AM ET — v2 ALERT — a real style shift**
+
+v1 clean (div 1.22, only ttr_win significant at -2.48). v2 ALERT at 99.551st pct, just over the 99.5 operating line — drivers: ttr_win crater (z=-2.71), emoji (2.34), pivot (2.1), excl (1.98), hedge (1.92) spikes. Window covers the GOONER CLUB charter/negotiation thread (heavy explicit sexual-register + pivot/hedge negotiation language, repeated 'Abatar me'/Option cycles), the lottery scratch-off QR thread, $TYLE/tag-action volley, and the body-telemetry mannequin commission — a genuine stylistic divergence (aroused, negotiating, exclamation-heavy), which is what the alert exists to catch.
+
+*v1 div 1.22 (line 2.0) · v2 99.6th pct (line 99.5), div 3.14 · 121 messages*
+*Strongest signals: vocabulary narrowing (repeating the same words).*
+
+**Sep 16, 12:32 AM ET — v2 near-miss — loud, not a flag**
+
+Both clean. v2 at 99.496th pct — just under the 99.5 operating point (a hair below last run's 99.551 alert). Drivers same family as last run: ttr_win crater (z=-2.77), emoji (2.34), pivot (2.09), excl (1.98), hedge (1.91) — window covers the tail of the GOONER CLUB negotiation thread, avatar-video volley, body-telemetry mannequin commission, tag-action volley, and the Alexis/Chaturbate PIX&VIDS intake. v1 clean (div 1.25, only ttr_win significant at -2.60).
+
+*v1 div 1.25 (line 2.0) · v2 99.5th pct (line 99.5), div 3.12 · 128 messages*
+
+**Sep 16, 1:05 AM ET — v2 ALERT — a real style shift**
+
+v1 clean (div 1.35, only ttr_win significant at -2.52). v2 ALERT at 99.556th pct, just over the 99.5 operating line — drivers: ttr_win crater (z=-2.71), pivot (2.1), jaccard_next (2.0), excl (1.99), hedge (1.9) spikes. Window covers the GOONER CLUB negotiation thread tail, the body-telemetry mannequin commission, the PIX&VIDS side-chat intake (Alexis 2017 cam session), and the breast-measurement photo volley — a genuine stylistic divergence (aroused, negotiating, exclamation-heavy, image-attachment cadence), which is what the alert exists to catch.
+
+*v1 div 1.35 (line 2.0) · v2 99.6th pct (line 99.5), div 3.14 · 113 messages*
+*Strongest signals: vocabulary narrowing (repeating the same words); longer messages; longer words.*
+
+**Sep 16, 3:01 AM ET — v2 ALERT — a real style shift**
+
+v1 clean (div 1.45, only ttr_win significant at -2.69). v2 ALERT at 100.0th pct, past the 99.5 operating line - drivers: ttr_win crater (z=-2.85), jaccard_next spike (2.0), excl/has_excl (1.96), n_chars (1.85). Window covers the scratch-off QR-checking volley, the $TYLE/TAG SYSTEM tag-action volley, the long Abatar me/us + Option N volley, the body-telemetry mannequin commission, the PIX&VIDS Alexis-2017 intake and breast-measurement photo volley, and the goon-club tail into the sex-robots bit — a genuine stylistic divergence (aroused, terse, repetition-heavy, attachment cadence), which is what the alert exists to catch.
+
+*v1 div 1.45 (line 2.0) · v2 100.0th pct (line 99.5), div 3.55 · 68 messages*
+*Strongest signals: vocabulary narrowing (repeating the same words); longer words; message-to-message repetition up.*
+
+**Sep 16, 9:56 AM ET — v1 flagged on noise, v2 stayed clean**
+
+Engines disagree this window: v1 FLAG (div 2.45) vs v2 CLEAN (99.09th pct, no flag/alert). Both score the same short-burst + attachment-path shape; v2's null-matched percentile keeps it under the line. First v1-flag-vs-v2-clean split of the burn-in day — exactly the flag-rate comparison this week exists to collect.
+
+*v1 div 2.45 (line 2.0) · v2 99.1th pct (line 99.5), div 5.58 · 7 messages*
+*Strongest signals: message-to-message repetition up; longer messages; longer words.*
+
+**Sep 16, 12:31 PM ET — v2 ALERT — a real style shift**
+
+v2 FLAG+ALERT on trailing_n (last 20 msgs) vs v1 clean on the same window (div 1.94, just under the 2.0 line, 2 significant). Both engines see the same shape: mechanically repetitive terse picks ('Abatar me' xN, 'Option 2' x2, 'Generate 4 videos' x2, 'Annie' x2) tank TTR (v1 -2.75, v2 -2.59) while attachment-path tokens inflate n_chars/cpw (v1 2.23/1.31, v2 2.15/1.84); v2's null-matched percentile lands at 1.0 (100th pct, over the 99.5 line) on that structural shape while v1's index stays under. Axis signature (volume, rhythm), not suppressed — first v2 alert of the burn-in day on this mechanical-batch shape; second engine split of the day (13:56 was the mirror: v1-flag-vs-v2-clean). Structural, not behavioral.
+
+*v1 div 1.94 (line 2.0) · v2 1.0th pct (line 99.5), div 5.65 · 20 messages*
+*Strongest signals: vocabulary narrowing (repeating the same words); longer messages; excl_p100.*
+
+**Sep 16, 2:59 PM ET — v2 near-miss — loud, not a flag**
+
+Both clean on every gate, but v2 null_pct 99.232 is the highest of the burn-in week so far — 0.27pp under the 99.5 operating line, not a breakage signal. Drivers fit the window's content: the 16:41-16:50Z Annie gooner/worship bit (emoji/excl/profan lift), the Spanish Valeria flirt burst ('Estoy enamorado', 'Para una mujer con la carichimba'), and the repeated 'Abatar me / Option N' image-batch volleys (ttr_win crater -2.38). Loud window, not a real divergence.
+
+*v1 div 1.20 (line 2.0) · v2 99.2th pct (line 99.5), div 3.62 · 110 messages*
+*Strongest signals: vocabulary narrowing (repeating the same words); emoji density up; excl_p100.*
+
+#### Quiet stretches
+
+- **Sep 15:** 2 runs, both engines clean (10:55 PM–11:25 PM ET).
+- **Sep 16:** 22 runs, both engines clean (1:32 AM–4:00 PM ET).
+
+- **Sep 16, 6:30 AM ET:** run blocked — worker had no message-collection route (no chat tools, no DB ticket); /tmp/stylo_recent.jsonl deleted per stale-input guard.
+
+#### What a flag does NOT prove
+
+A flag is a **style shift**, not a diagnosis. It says the shape of the writing moved — vocabulary narrowed, exclamation marks spiked, repetition climbed — not *why* it moved. An alert is the engine saying "this is unusual enough to mention," not "this is what happened." Inference is not proof; the window's actual content is the only thing that can say what was going on.
+
+<!-- STYLO-RESULTS-END -->
 
 ### Dan's 2026-09-16 directive: daily reports in English, in main chat
 
