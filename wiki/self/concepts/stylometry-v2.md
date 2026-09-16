@@ -46,6 +46,18 @@ It cannot prove: intoxication, pathology, or any label. A flag is a style shift,
 
 v1 and v2 score side by side, quiet, for ~a week. First ~26 runs: v2 caught three aroused-state windows v1 missed; v1 flagged once (09:56 ET, jaccard_next on terse picks + attachment-path noise) where v2 correctly stayed clean. The daily plain-English digest runs 09:00 ET.
 
+### Dan's 2026-09-16 directive: daily reports in English, in main chat
+
+At 16:31:55Z on 2026-09-16, after receiving the burn-in read in plain
+English, Dan issued a standing directive: "make a wiki entry and do full
+daily reports in English like that." The wiki entry is this page (merged
+as PR #98). The reporting commitment: **full daily reports in English,
+starting 2026-09-17 ~09:41 ET, delivered in the main chat** — a quiet day
+gets two sentences, a flagged day gets the full rundown. This is distinct
+from the 09:00 ET digest, which runs in the pinned STYLOMETRY chat; the
+new directive puts the plain-English report where he actually reads it,
+every morning.
+
 ### Open problems
 
 The null's window construction is still suspect — adjacent rows in a sorted tier sequence are not necessarily one conversation, so some "windows" are spliced from unrelated chats. Until that's fixed or justified, v2's numbers are burn-in data, not an authoritative baseline. Live requests score against the long-tail fallback, not a true Muse tier.

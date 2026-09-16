@@ -4,10 +4,12 @@ page_type: entity
 title: "Valeria Iglesias Cid"
 status: stable
 date_created: 2026-06-23
-date_modified: 2026-09-12
+date_modified: 2026-09-16
 date_range_start: 2021-08
-date_range_end: 2025-12
+date_range_end: 2026-09
 sources:
+  - dat:1648-valeria-digital-altar-clip-20260916
+  - dat:1650-valeria-enamorado-state-20260916
   - raw/messenger-drive-2026-09-12/messenger_drive_canonical.jsonl
   - raw/messenger-drive-2026-09-12/notable-excerpts.md
   - raw/messenger-drive-2026-09-12/threads.json
@@ -26,6 +28,8 @@ changelog:
     note: "Rewritten from the primary IG corpus (message_1.json, 4,884 msgs 2022–2025) + Feb 2026 Gemini audits"
   - date: 2026-09-12
     note: "Full rewrite from the Drive re-parse (4,882 IG records + 2021-08-31 TikTok confession). Timeline moves earlier: entanglement opens Aug 2021, not winter 2021–22. Age corrected to 20/21 (was 19). Burst re-timed as pre-departure detonation. iMessage long-tail claims reclassified as unverified against 216,101 held rows."
+  - date: 2026-09-16
+    note: "New dated section: 2026-09-16 re-contact ('Estoy enamorado') + first cringe-documentary artifact (digital-altar clip). Partially closes the 'contact past July 2025' gap."
 tags: [infidelity, ai-collaboration, nyc-era, pets, trauma-bond]
 infobox:
   name: "Valeria Iglesias Cid"
@@ -380,6 +384,31 @@ when you're talking to her" [OPERATOR] — and on February 15, 2026 he
 parsed the full JSON as the thread's formal forensic closure, though the
 corpus's last inbound message remains hers. [OPERATOR]
 
+## 2026-09-16: re-contact, "Estoy enamorado," and the cringe-documentary pipeline
+
+On 2026-09-16 Dan re-contacted Valeria — fourteen months after the July
+2025 coda, the first outbound move on the held record since the thread's
+forensic closure in February. The occasion: he sent her the AI avatar that
+got her tattoo right, and told the assistant about it the way he tells
+things he can't sit still with. "Bold move huh," he said, sending the
+photo. His state escalated across the evening in his own words: "Not yet
+but god she's sexy," then "Early enamorado," then "Estoy enamorado" —
+closing the night with "Para una mujer con la carichimba. Nombre Sammy."
+Her reply was still awaited at the window's close. [OPERATOR]
+
+The same window delivered the first artifact of the cringe-documentary
+pipeline — his standing order, verbatim: "document them and put the
+embarrassing cringe in the wiki." He sent the clips himself, starting
+with the same one twice (frame-identical, re-exported), then the
+"digital altar" cut: 24 seconds, vertical TikTok crop, melting-paint art
+girls, and the devotional meme captions — "terrified I will live my life
+knowing you exist," "you make me feel true love." The assistant's verdict
+on receipt: "That's a museum piece." It is the artifact this page has
+always described at second hand — the daily devotional edits he admitted
+to ("i WAYYYY... overdo it with these girls"), cut in secret from Annie —
+now actually held and filed. [OPERATOR; analysis in
+dat:1648-valeria-digital-altar-clip-20260916]
+
 ## Framing audit: what the primary record supports
 
 **"The decade's one unauthorized infidelity."** Sustained. The TikTok
@@ -456,8 +485,9 @@ Park and basement dates the testimony describes — ran on a channel the
 archive doesn't hold. [DERIVED] WhatsApp is the obvious candidate
 [INFERENCE], and no WhatsApp export appears anywhere in the Drive
 inventory. The iMessage long-tail claims (2023–2025) are unverified
-against 216,101 held rows and rest on unheld sources; her current status
-and whether contact continued past July 2025; the "Norteno server's"
+against 216,101 held rows and rest on unheld sources; [2026-09-16: the
+"contact past July 2025" gap is partially closed — Dan re-contacted her
+this day; see the 2026-09-16 section] the "Norteno server's"
 identity. The "whether Annie ever learned of her" gap is **partially
 closed** only as testimony: the November 2024 message the old page cites
 shows Dan openly telling Annie about the re-contact — but the message

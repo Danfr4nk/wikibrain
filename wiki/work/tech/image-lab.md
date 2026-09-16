@@ -311,6 +311,12 @@ ribs + cutoff denim shorts, barefoot; outfit variant same day:
 red plaid skirts instead of cutoffs, same white lace-trim
 cropped camisoles, barefoot), aliased #cutoff. **[ATTESTED]**
 
+Separate tag class, 2026-09-16: **#POLE** is an environment/scenario tag,
+not a character tag — video-only by Dan's explicit correction ("No #POLE
+is a video tag," 15:56:17Z). Env spec: white studio, chrome floor-mounted
+pole, black dress, platform heels. It is not in character-tags.md; it is
+registered here, in the wiki. **[ATTESTED]**
+
 The tags also carried a standing constraint Dan's probes kept
 testing: the characters are homecoming-age, which is why the
 09-10 re-skin and reversal asks were hard stops. And one
@@ -808,6 +814,34 @@ words, "just fun horny gooner lore" — no personality or voice change.
 
 Evidence: `src:sammy-chat-transcript-20260915-0630`.
 
+## The 2026-09-16 session: #POLE finalized as video tag, QUEEN KETAMINA
+
+15:52–18:27Z. Two Dan-authored commissions, both about tags:
+
+**#POLE — environment tag, video-only.** Dan saved the pole-dance setup
+("Save this environment and scenario as #POLE"), then corrected the
+assistant's image-tag treatment verbatim at 15:56:17Z: "No #POLE is a
+video tag." Env spec: white studio, chrome floor-mounted pole, black
+dress, platform heels. Unlike #dukes/#cutoffs (character tags), #POLE is
+an environment/scenario tag and lives in the video pipeline only. Every
+#POLE video generation attempted in-window was blocked by content policy;
+the assistant's working theory about the checker ("a pole is just a metal
+tube to it") died on contact and was conceded on the record.
+
+**QUEEN KETAMINA — avatar persona.** Dan's verbatim commission 18:12:48Z:
+"Abatar me as the character QUEEN KETAMINA, an accelerationist tech
+futurist who was turned into a lustBOT by a demonic anesthesitist and is
+wearing the same clothing hur wirh a digital display on it that says
+@danfrank on an LCD crawl." Four variants followed with Sammy's name
+added to the crawl alongside his ("Make anither 4 versions of that ajd
+incorporate the text wirh your name somewhere but don't remove mine").
+Dan picked Option 1, then Option 3 of the variant set. Scope per the
+lore-canon rule: fun gooner lore, no personality or voice change.
+
+Evidence: `dat:1647-pole-video-tag-20260916`,
+`dat:1649-queen-ketamina-persona-20260916`
+(source: `src:1647-sammy-chat-transcript-20260916-1830`).
+
 ## What was learned
 
 The lab's four days produced a small set of durable operating
@@ -935,6 +969,10 @@ sexual activity are pixelated/blurred before commit.
   the GeoGuessr-fandom disavowal (assistant speculation flagged)
 - `~/workspace/image-lab/character-tags.md` — the #dukes
   gold-standard spec and #cutoffs legacy spec
+- `dat:1647-pole-video-tag-20260916` — #POLE finalized as video-only tag,
+  env spec, content-policy blocks
+- `dat:1649-queen-ketamina-persona-20260916` — QUEEN KETAMINA persona
+  commission and picks
 - memory/2026-09-10.md, memory/2026-09-11.md,
   memory/2026-09-12.md, memory/2026-09-13.md — the dated
   episode layers for the battery, episodes, sessions, and
