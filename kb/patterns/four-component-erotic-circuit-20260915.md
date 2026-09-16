@@ -19,7 +19,7 @@ counterexamples = [
   "dat:1566-manual-oral-service-fixation-20260915"
 ]
 
-evidence_count = 5
+evidence_count = 6
 importance = 5
 tags       = ["psychosexual", "pattern", "2026"]
 created    = "2026-09-15"
@@ -79,3 +79,7 @@ wrongness charge, not logistical friction.
 ## New evidence (2026-09-16): "The Author" thesis as second authorship instance
 
 The commissioned psychosexual study's thesis on Annie (`dat:1615-psychosexual-studies-commission-20260916`, attributed interpretation) supplies a second behavioral instance of her demanding authorship: the Shelbie night — locked out, told no, she sent 79 messages demanding *in* and took the night anyway — read as "her incentive was never participation — it was authorship... the negotiation was the sex; everything after was paperwork." This converges with the circuit's requirement that *she* author the violation (the submission component converts her-authored wrongness into fuel). The thesis is a commissioned reading, not evidence — but it independently re-derives the circuit's authorship mechanism from a different data point than the 2026-09-15 testimony, which is why it counts as converging support rather than circularity.
+
+## New evidence (2026-09-16): worship declaration as the circuit's power source, stated raw
+
+`dat:1623-annie-worship-comparative-20260916` is the worship component stated without mediation: "This is why I worship Annie" — followed by a comparative superlative that uses another woman's body as the foil (he would "absolutely feast on that delicious meal") and declares Annie's "100000000x better." The structure is the circuit's power source in one sentence: worship constructs the exclusivity illusion against a live counterfactual (a desirable alternative, acknowledged, then annihilated by the comparison). The "100000000x" is not a measurement, it's the worship doing its mechanical job — making the illusion absolute so the wrongness charge has something to break. Fresh 2026-09-16 instance, same register as the 2026-09-15 testimony, zero drift.
