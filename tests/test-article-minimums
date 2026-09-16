@@ -1,0 +1,94 @@
+#!/usr/bin/env python3
+"""Tests for bin/wiki-minimums, the new-article length gate.
+
+Hermetic: each case builds a throwaway git repo, runs the real
+bin/wiki-minimums against it with --repo, and asserts exit status and
+that the diagnostic names the right file. Standard library only.
+Exit 0 when every case passes.
+
+Usage:  tests/test-article-minimums [-v]
+"""
+
+from __future__ import annotations
+
+import argparse
+import pathlib
+import subprocess
+import sys
+import tempfile
+
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+GATE = ROOT / "bin" / "wiki-minimums"
+
+
+def sh(repo: pathlib.Path, *args: str) -> str:
+    p = subprocess.run(["git", *args], cwd=repo, capture_output=True,
+                       text=True)
+    assert p.returncode == 0, "git %s failed: %s" % (args, p.stderr)
+    return p.stdout.strip()
+
+
+def page(ptype: str, status: str, words: int) -> str:
+    return ("---\ntitle: \"Fixture\"\ndomain: meta\npage_type: %s\nstatus: %s\n"
+            "date_created: 2026-09-16\n---\n\n# Fixture\n\n%s\n"
+            % (ptype, status, "word " * words))
+
+
+def make_base(tmp: pathlib.Path) -> str:
+    (tmp / "wiki").mkdir()
+    (tmp / "wiki" / "old-short.md").write_text(page("concept", "active", 500))
+    sh(tmp, "init", "-q")
+    sh(tmp, "config", "user.email", "test@local")
+    sh(tmp, "config", "user.name", "test")
+    sh(tmp, "add", ".")
+    sh(tmp, "commit", "-qm", "base")
+    return sh(tmp, "rev-parse", "HEAD")
+
+
+def run_gate(repo: pathlib.Path, base: str) -> tuple[int, str]:
+    p = subprocess.run([sys.executable, str(GATE), "--base", base,
+                        "--repo", str(repo)], capture_output=True, text=True)
+    return p.returncode, p.stdout + p.stderr
+
+
+CASES = [
+    ("new 3500-word concept article passes",
+     {"wiki/new-long.md": page("concept", "active", 3500)}, 0, "pass"),
+    ("new 500-word concept article fails and is named",
+     {"wiki/new-short.md": page("concept", "active", 500)}, 1,
+     "wiki/new-short.md"),
+    ("modified pre-existing short article is ignored",
+     {"wiki/old-short.md": page("concept", "active", 400)}, 0, "pass"),
+    ("new index-type short page is ignored",
+     {"wiki/new-index.md": page("index", "active", 200)}, 0, "pass"),
+    ("new stub-status short article is ignored",
+     {"wiki/new-stub.md": page("concept", "stub", 200)}, 0, "pass"),
+]
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("-v", "--verbose", action="store_true")
+    args = ap.parse_args()
+    failures = 0
+    for name, files, expect_rc, expect_in in CASES:
+        with tempfile.TemporaryDirectory() as d:
+            tmp = pathlib.Path(d)
+            base = make_base(tmp)
+            for rel, text in files.items():
+                (tmp / rel).write_text(text)
+            rc, out = run_gate(tmp, base)
+            ok = (rc == expect_rc) and (expect_in in out)
+            if args.verbose or not ok:
+                print(("PASS " if ok else "FAIL ") + name)
+                if not ok:
+                    print("  expected rc=%d containing %r, got rc=%d:\n  %s"
+                          % (expect_rc, expect_in, rc, out))
+            if not ok:
+                failures += 1
+    print("%d/%d cases passed" % (len(CASES) - failures, len(CASES)))
+    return 1 if failures else 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

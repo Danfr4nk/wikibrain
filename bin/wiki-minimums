@@ -1,0 +1,119 @@
+#!/usr/bin/env python3
+"""New-article minimums gate. Exits 1 if any NEW wiki article is sub-floor.
+
+Changed-file-scoped: only files ADDED under wiki/ vs <base> (default
+origin/main) are checked — working tree vs base, so uncommitted batch work
+is caught. A new article (page_type entity/synthesis/concept/event/period/
+profile/journey, status not stub/archived/closed) must carry >= 3000 words
+of body text: a 15-minute read at 200wpm. Frontmatter is not body text.
+
+Deliberately new-files-only. The pre-existing sub-floor corpus is the
+measured expansion backlog (see the article-expansion goal), not a gate
+failure — the gate enforces the floor for what is being written now, the
+backlog is chewed through by expansion work. Length must come from totality
+analysis, evidence, and complete logs; padding fails review.
+
+Usage:  bin/wiki-minimums [--base <git-ref>] [--repo <path>]
+Standard library only. Exit 0 on pass, 1 on any sub-floor new article.
+"""
+
+import argparse
+import os
+import re
+import subprocess
+import sys
+
+DEFAULT_BASE = "origin/main"
+MIN_WORDS = 3000
+SUBSTANTIVE = {"entity", "synthesis", "concept", "event", "period",
+               "profile", "journey"}
+EXCLUDED_STATUS = {"stub", "archived", "closed"}
+
+REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+
+def git(*args, cwd):
+    return subprocess.run(["git"] + list(args), cwd=cwd,
+                          capture_output=True, text=True)
+
+
+def added_wiki_files(repo, base):
+    """Paths ADDED under wiki/ between <base> and the working tree.
+
+    Covers both committed-on-branch adds and uncommitted new files:
+    git diff sees the former, ls-files --others the latter (untracked
+    files are invisible to git diff).
+    """
+    added = set()
+    proc = git("diff", "--name-status", base, "--", "wiki/", cwd=repo)
+    if proc.returncode != 0:
+        raise SystemExit("git diff failed: %s" % proc.stderr.strip())
+    for line in proc.stdout.splitlines():
+        parts = line.split("\t")
+        if parts[0] == "A" and len(parts) >= 2 and parts[1].endswith(".md"):
+            added.add(parts[1])
+    untracked = git("ls-files", "--others", "--exclude-standard", "--",
+                    "wiki/", cwd=repo)
+    for line in untracked.stdout.splitlines():
+        if line.endswith(".md"):
+            added.add(line)
+    return sorted(added)
+
+
+def frontmatter_field(text, field):
+    """Minimal frontmatter reader: value of `field:` between the --- fences."""
+    m = re.match(r"^---\s*\n(.*?)\n---\s*(\n|$)", text, re.S)
+    if not m:
+        return ""
+    for line in m.group(1).splitlines():
+        mm = re.match(r"^%s:\s*[\"']?([^\"'\n]+?)[\"']?\s*$" % field, line)
+        if mm:
+            return mm.group(1).strip().lower()
+    return ""
+
+
+def body_words(text):
+    m = re.match(r"^---\s*\n.*?\n---\s*(\n|$)", text, re.S)
+    body = text[m.end():] if m else text
+    return len(body.split())
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    ap.add_argument("--base", default=DEFAULT_BASE,
+                    help="git ref to diff against (default: %(default)s)")
+    ap.add_argument("--repo", default=REPO, help="repo checkout to inspect")
+    args = ap.parse_args()
+
+    failures, checked, skipped = [], 0, 0
+    for rel in added_wiki_files(args.repo, args.base):
+        path = os.path.join(args.repo, rel)
+        try:
+            text = open(path, encoding="utf-8").read()
+        except OSError as e:
+            failures.append((rel, "unreadable: %s" % e))
+            continue
+        ptype = frontmatter_field(text, "page_type")
+        status = frontmatter_field(text, "status")
+        if ptype not in SUBSTANTIVE or status in EXCLUDED_STATUS:
+            skipped += 1
+            continue
+        words = body_words(text)
+        checked += 1
+        if words < MIN_WORDS:
+            failures.append((rel, "%d words (floor %d)" % (words, MIN_WORDS)))
+
+    if failures:
+        print("wiki-minimums: FAIL — %d new article(s) below the %d-word floor:"
+              % (len(failures), MIN_WORDS))
+        for rel, why in failures:
+            print("  %s  %s" % (rel, why))
+        return 1
+    print("wiki-minimums: pass — %d new substantive article(s) checked, "
+          "all >= %d words (%d non-substantive/excluded skipped)."
+          % (checked, MIN_WORDS, skipped))
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

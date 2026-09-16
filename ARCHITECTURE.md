@@ -353,6 +353,27 @@ Asserting an asymmetric relation in both directions (`A preceded B` *and*
   not equivalent, and the corpus policy exists because conflating them is what
   produced the conclusions this rebuild supersedes.
 
+## Article minimums
+
+Every wiki article is a 15-minute read or it is not finished. An article
+(page_type entity/synthesis/concept/event/period/profile/journey) carries
+six minimums — M1 LENGTH: >= 3,000 words of body text, a 15-minute read at
+200wpm; M2 TOTALITY: full totality analysis against the corpus; M3 COMPLETE
+LOG: temporal metrics carry the full log on the entry; M4 EVIDENCE: cites
+>= 1, layer discipline; M5 LIMITS: states its own coverage and limits;
+M6 PEOPLE PAGES: the human story leads, forensics stay in kb/ or the
+appendix.
+
+M1 is enforced mechanically by `bin/wiki-minimums`, which runs
+changed-file-scoped: only files ADDED under wiki/ vs origin/main are
+checked, so the gate fails new sub-floor articles without touching the
+pre-existing corpus. The pre-existing sub-floor pages are the measured
+expansion backlog (see the article-expansion goal), chewed through by
+expansion work and engine sparse_node_expansion items — never gate
+failures. As with PAGE_BUDGET in wiki-lint, depth is the standing
+directive: length comes from totality analysis, evidence, and complete
+logs, never from padding, and nothing is ever trimmed to clear a budget.
+
 ## Repository layout
 
 ```
