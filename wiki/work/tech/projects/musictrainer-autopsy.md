@@ -133,6 +133,20 @@ https://danfr4nk.github.io/MusicTrainer/,
 https://danfr4nk.github.io/track-autopsy/. Local code:
 ~/workspace/musictrainer/, ~/workspace/autopsy/.
 
+## Week logs (complete)
+
+Per the complete-log doctrine, every week's full scorecard lives here — every
+track with its 1–10 score, skip/like verdict, and the determining
+**ADDED?** call (liked + into the current playlist). Nothing summarized away:
+the weekly table is the measurement, and a week's readout is only as honest
+as the rows underneath it.
+
+### Week 1 — pending
+
+Week 1 is preloaded (all 30 Discover Weekly tracks + 8 locked baseline
+predictions) and the scoring reminder is armed for 2026-09-20. The full
+scorecard lands here when the week closes.
+
 ## Sources
 
 Small thumbnails only, per the placement rule. No images embedded for this

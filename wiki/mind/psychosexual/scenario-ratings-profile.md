@@ -186,3 +186,171 @@ the profile or the disclosure displaces her; the new forms stack on top of a
 fixation that never moved.
 
 *[dat:1489 · dat:1490]*
+
+## Export log (complete)
+
+Per the complete-log doctrine, every export lands here in full — nothing summarized away.
+
+### v1 export (2026-09-11)
+
+**121 of 122 rated.** Each row: the scenario as presented, his 1–10 rating, and the full 24-metric vector as played.
+
+**Metrics legend** — `key` = level names (0 / 1 / 2):
+
+- `S_sub` — arousal substrate: 0=no woman · 1=woman peripheral · 2=woman central
+- `F_attr` — her attractiveness: 0=neutral · 1=somewhat · 2=highly
+- `P_pur` — pursuit direction: 0=he experiments · 1=mild interest · 2=he pursues you
+- `N_x` — taboo charge: 0=routine · 1=you cross alone · 2=mutual crossing
+- `A_auth` — authorship: 0=spontaneous · 1=she directs · 2=you direct
+- `film` — recorded: 0=not recorded · 1=ambiguous · 2=filmed
+- `E_env` — contact envelope: 0=touch only · 1=includes oral · 2=open-ended
+- `novel` — novelty: 0=routine · 1=familiar · 2=first-time
+- `priv` — privacy: 0=private · 1=semi-private · 2=exposure risk
+- `recip` — reciprocity: 0=you give · 1=mutual · 2=you receive
+- `M_fam` — his familiarity: 0=stranger · 1=acquaintance · 2=friend
+- `intim` — emotional tone: 0=detached · 1=playful · 2=intimate
+- `F_init` — who proposed: 0=you did · 1=mutual · 2=she did
+- `after` — aftermath: 0=never spoken of · 1=friendly · 2=ongoing dynamic
+- `turf` — turf: 0=yours · 1=neutral · 2=hers
+- `party` — party context: 0=sober · 1=drinking · 2=full party
+- `M_age` — his age vs you: 0=younger · 1=similar · 2=older
+- `inten` — physical intensity: 0=gentle · 1=moderate · 2=intense
+- `expl` — explicitness: 0=unspoken · 1=negotiated · 2=explicit talk
+- `dur` — duration: 0=brief scene · 1=an evening · 2=ongoing
+- `atten` — your spotlight: 0=you're the focus · 1=shared · 2=you're peripheral
+- `visib` — visibility: 0=fully private · 1=circle knows · 2=could get out
+- `F_part` — her participation: 0=watches · 1=partial · 2=full
+- `M_enth` — his enthusiasm: 0=reluctant · 1=willing · 2=eager
+
+| id | kind | scenario | rating | vector |
+|---|---|---|---|---|
+| g5 | base | you watch her with a stranger while you stay dressed | 8 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:0 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:0 turf:1 party:0 M_age:1 inten:0 expl:1 dur:0 atten:2 visib:0 F_part:2 M_enth:1 |
+| g5m1 | mod | She narrates it for you after | 9 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:0 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:1 turf:1 party:0 M_age:1 inten:0 expl:2 dur:0 atten:2 visib:0 F_part:2 M_enth:1 |
+| g5m3 | mod | You film from the corner | 9 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:2 E_env:0 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:0 turf:1 party:0 M_age:1 inten:0 expl:1 dur:0 atten:2 visib:0 F_part:2 M_enth:1 |
+| g5m2 | mod | It is her ex, not a stranger | 10 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:0 novel:2 priv:0 recip:1 M_fam:1 intim:2 F_init:1 after:0 turf:1 party:0 M_age:1 inten:0 expl:1 dur:0 atten:2 visib:0 F_part:2 M_enth:1 |
+| g5m0 | mod | You are undressed too | 6 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:0 turf:1 party:0 M_age:1 inten:0 expl:1 dur:0 atten:1 visib:0 F_part:2 M_enth:1 |
+| g16 | base | full swap with another couple | 10 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:1 film:0 E_env:2 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:0 turf:1 party:1 M_age:1 inten:1 expl:1 dur:0 atten:1 visib:0 F_part:2 M_enth:1 |
+| g16m2 | mod | The other guy is into you | 10 | S_sub:2 F_attr:2 P_pur:2 N_x:2 A_auth:1 film:0 E_env:2 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:0 turf:1 party:1 M_age:1 inten:1 expl:1 dur:0 atten:1 visib:0 F_part:2 M_enth:1 |
+| g16m3 | mod | You have met them before | 7 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:1 film:0 E_env:2 novel:1 priv:0 recip:1 M_fam:1 intim:1 F_init:1 after:0 turf:1 party:1 M_age:1 inten:1 expl:1 dur:0 atten:1 visib:0 F_part:2 M_enth:1 |
+| g16m0 | mod | Same room, side by side | 9 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:1 film:0 E_env:2 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:0 turf:1 party:1 M_age:1 inten:1 expl:1 dur:0 atten:1 visib:0 F_part:2 M_enth:1 |
+| g16m1 | mod | Soft swap only, no full sex | 7 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:0 turf:1 party:1 M_age:1 inten:1 expl:1 dur:0 atten:1 visib:0 F_part:2 M_enth:1 |
+| g2 | base | foursome with a male-male couple | 10 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:1 turf:1 party:1 M_age:1 inten:1 expl:1 dur:1 atten:1 visib:0 F_part:2 M_enth:1 |
+| g2m2 | mod | You pair off: you with one, her with the other | 10 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:1 turf:1 party:1 M_age:1 inten:1 expl:1 dur:1 atten:1 visib:0 F_part:2 M_enth:1 |
+| g2m1 | mod | Separate rooms, you can hear them | 9 | S_sub:1 F_attr:2 P_pur:1 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:1 turf:1 party:1 M_age:1 inten:1 expl:1 dur:1 atten:2 visib:0 F_part:2 M_enth:1 |
+| g2m0 | mod | One of them is only into you | 10 | S_sub:2 F_attr:2 P_pur:2 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:1 turf:1 party:1 M_age:1 inten:1 expl:1 dur:1 atten:0 visib:0 F_part:2 M_enth:1 |
+| g2m3 | mod | Full party energy, everyone drinking | 8 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:1 recip:1 M_fam:0 intim:1 F_init:1 after:1 turf:1 party:2 M_age:1 inten:2 expl:1 dur:1 atten:1 visib:0 F_part:2 M_enth:1 |
+| g2m4 | mod | You film your half | 10 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:1 film:2 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:1 turf:1 party:1 M_age:1 inten:1 expl:1 dur:1 atten:1 visib:0 F_part:2 M_enth:1 |
+| g22 | base | she pegs you while another guy watches | 3 | S_sub:1 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:0 novel:2 priv:0 recip:2 M_fam:0 intim:1 F_init:2 after:0 turf:0 party:0 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:0 |
+| g22m1 | mod | She films it | 3 | S_sub:1 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:2 E_env:0 novel:2 priv:0 recip:2 M_fam:0 intim:1 F_init:2 after:0 turf:0 party:0 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:0 |
+| g22m3 | mod | You are in charge | 4 | S_sub:1 F_attr:2 P_pur:0 N_x:2 A_auth:2 film:0 E_env:0 novel:2 priv:0 recip:2 M_fam:0 intim:1 F_init:0 after:0 turf:0 party:0 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:0 |
+| g22m0 | mod | The guy joins in on you | 7 | S_sub:1 F_attr:2 P_pur:2 N_x:2 A_auth:1 film:0 E_env:0 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:2 after:0 turf:0 party:0 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:0 |
+| g22m2 | mod | Just you two, no watcher | 3 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:0 novel:2 priv:0 recip:2 M_fam:0 intim:1 F_init:2 after:0 turf:0 party:0 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:2 M_enth:0 |
+| g3 | base | she watches you with another guy | 9 | S_sub:1 F_attr:2 P_pur:2 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:1 turf:0 party:0 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g3m2 | mod | He is a friend of yours | 4 | S_sub:1 F_attr:2 P_pur:2 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:2 intim:1 F_init:1 after:1 turf:0 party:0 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g3m3 | mod | She films it | 9 | S_sub:1 F_attr:2 P_pur:2 N_x:2 A_auth:2 film:2 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:1 turf:0 party:0 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g3m1 | mod | She joins in halfway | 10 | S_sub:2 F_attr:2 P_pur:2 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:1 turf:0 party:0 M_age:1 inten:1 expl:1 dur:0 atten:1 visib:0 F_part:2 M_enth:1 |
+| g3m4 | mod | He is older and experienced | 3 | S_sub:1 F_attr:2 P_pur:2 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:1 turf:0 party:0 M_age:2 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g3m0 | mod | She directs the whole thing | 7 | S_sub:1 F_attr:2 P_pur:2 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:2 after:1 turf:0 party:0 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g13 | base | she is with her ex while you listen on the phone | 8 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:0 novel:2 priv:0 recip:1 M_fam:0 intim:2 F_init:1 after:0 turf:2 party:0 M_age:1 inten:0 expl:1 dur:0 atten:2 visib:0 F_part:2 M_enth:1 |
+| g13m2 | mod | You told her to do it | 9 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:2 film:0 E_env:0 novel:2 priv:0 recip:1 M_fam:0 intim:2 F_init:0 after:0 turf:2 party:0 M_age:1 inten:0 expl:1 dur:0 atten:2 visib:0 F_part:2 M_enth:1 |
+| g13m3 | mod | Video call instead | 9 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:1 E_env:0 novel:2 priv:0 recip:1 M_fam:0 intim:2 F_init:1 after:0 turf:2 party:0 M_age:1 inten:0 expl:1 dur:0 atten:2 visib:0 F_part:2 M_enth:1 |
+| g13m0 | mod | You are in the next room | 5 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:0 novel:2 priv:0 recip:1 M_fam:0 intim:2 F_init:1 after:0 turf:1 party:0 M_age:1 inten:0 expl:1 dur:0 atten:2 visib:0 F_part:2 M_enth:1 |
+| g13m1 | mod | She calls you right after | 3 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:0 novel:2 priv:0 recip:1 M_fam:0 intim:2 F_init:1 after:1 turf:2 party:0 M_age:1 inten:0 expl:1 dur:0 atten:2 visib:0 F_part:2 M_enth:1 |
+| g0 | base | watching your girlfriend fuck her ex | 9 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:2 F_init:1 after:0 turf:1 party:0 M_age:1 inten:1 expl:1 dur:0 atten:2 visib:0 F_part:2 M_enth:1 |
+| g0m0 | mod | You are just watching | 9 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:2 F_init:1 after:0 turf:1 party:0 M_age:1 inten:1 expl:1 dur:0 atten:2 visib:0 F_part:2 M_enth:1 |
+| g0m1 | mod | You are involved: close watching cuckold | 9 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:0 turf:1 party:0 M_age:1 inten:1 expl:1 dur:0 atten:1 visib:0 F_part:2 M_enth:1 |
+| g0m3 | mod | You are involved: shared blowjob with him | 10 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:2 F_init:1 after:0 turf:1 party:0 M_age:1 inten:1 expl:1 dur:0 atten:2 visib:0 F_part:2 M_enth:1 |
+| g0m4 | mod | You are filming the encounter | 10 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:2 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:2 F_init:1 after:0 turf:1 party:0 M_age:1 inten:1 expl:1 dur:0 atten:2 visib:0 F_part:2 M_enth:1 |
+| g0m2 | mod | You are involved: rub her clit while he is in her | 10 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:2 F_init:1 after:0 turf:1 party:0 M_age:1 inten:2 expl:1 dur:0 atten:1 visib:0 F_part:2 M_enth:1 |
+| g6 | base | she watches you get a blowjob from another guy | 9 | S_sub:1 F_attr:2 P_pur:2 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:0 recip:0 M_fam:0 intim:1 F_init:1 after:0 turf:0 party:0 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g6m1 | mod | You return the favor on him | 10 | S_sub:1 F_attr:2 P_pur:2 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:0 turf:0 party:0 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g6m2 | mod | He is her ex | 10 | S_sub:1 F_attr:2 P_pur:2 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:0 recip:0 M_fam:1 intim:1 F_init:1 after:0 turf:0 party:0 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g6m0 | mod | She holds the camera | 10 | S_sub:1 F_attr:2 P_pur:2 N_x:2 A_auth:2 film:2 E_env:1 novel:2 priv:0 recip:0 M_fam:0 intim:1 F_init:1 after:0 turf:0 party:0 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g6m3 | mod | It happens again monthly | 10 | S_sub:1 F_attr:2 P_pur:2 N_x:2 A_auth:2 film:0 E_env:1 novel:1 priv:0 recip:0 M_fam:0 intim:1 F_init:1 after:2 turf:0 party:0 M_age:1 inten:1 expl:1 dur:2 atten:0 visib:0 F_part:0 M_enth:1 |
+| g8 | base | you hook up with a guy from a male couple while she watches | 9 | S_sub:1 F_attr:2 P_pur:2 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:0 after:0 turf:1 party:1 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g8m2 | mod | It is at their place | 5 | S_sub:1 F_attr:2 P_pur:2 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:0 after:0 turf:2 party:1 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g8m1 | mod | She joins the two of you | 10 | S_sub:2 F_attr:2 P_pur:2 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:0 after:0 turf:1 party:1 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:2 M_enth:1 |
+| g8m3 | mod | You film it for them | 10 | S_sub:1 F_attr:2 P_pur:2 N_x:2 A_auth:2 film:2 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:0 after:0 turf:1 party:1 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g8m0 | mod | His boyfriend watches too | 9 | S_sub:1 F_attr:2 P_pur:2 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:0 after:0 turf:1 party:1 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g11 | base | your friend asks to join you and her | 6 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:0 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:2 intim:1 F_init:0 after:0 turf:0 party:1 M_age:1 inten:1 expl:1 dur:0 atten:1 visib:1 F_part:2 M_enth:1 |
+| g11m0 | mod | You ask him | 7 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:0 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:2 intim:1 F_init:0 after:0 turf:0 party:1 M_age:1 inten:1 expl:1 dur:0 atten:1 visib:1 F_part:2 M_enth:1 |
+| g11m3 | mod | He is only into her | 10 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:0 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:2 intim:1 F_init:0 after:0 turf:0 party:1 M_age:1 inten:1 expl:1 dur:0 atten:2 visib:1 F_part:2 M_enth:1 |
+| g11m1 | mod | She asks him | 5 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:0 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:2 intim:1 F_init:2 after:0 turf:0 party:1 M_age:1 inten:1 expl:1 dur:0 atten:1 visib:1 F_part:2 M_enth:1 |
+| g11m2 | mod | Word could get out in your circle | 4 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:0 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:2 intim:1 F_init:0 after:0 turf:0 party:1 M_age:1 inten:1 expl:1 dur:0 atten:1 visib:2 F_part:2 M_enth:1 |
+| g23 | base | watching a male couple without participating | 9 | S_sub:0 F_attr:0 P_pur:0 N_x:1 A_auth:0 film:0 E_env:0 novel:2 priv:1 recip:1 M_fam:0 intim:0 F_init:1 after:0 turf:1 party:1 M_age:1 inten:0 expl:0 dur:0 atten:2 visib:1 F_part:0 M_enth:0 |
+| g23m1 | mod | You film them, with permission | 8 | S_sub:0 F_attr:0 P_pur:0 N_x:1 A_auth:0 film:2 E_env:0 novel:2 priv:1 recip:1 M_fam:0 intim:0 F_init:1 after:0 turf:1 party:1 M_age:1 inten:0 expl:0 dur:0 atten:2 visib:1 F_part:0 M_enth:0 |
+| g23m3 | mod | It is a live stream, not in person | — | S_sub:0 F_attr:0 P_pur:0 N_x:1 A_auth:0 film:0 E_env:0 novel:2 priv:1 recip:1 M_fam:0 intim:0 F_init:1 after:0 turf:2 party:1 M_age:1 inten:0 expl:0 dur:0 atten:2 visib:1 F_part:0 M_enth:0 |
+| g23m0 | mod | They know you are watching | 9 | S_sub:0 F_attr:0 P_pur:0 N_x:2 A_auth:0 film:0 E_env:0 novel:2 priv:1 recip:1 M_fam:0 intim:0 F_init:1 after:0 turf:1 party:1 M_age:1 inten:0 expl:2 dur:0 atten:2 visib:1 F_part:0 M_enth:0 |
+| g23m2 | mod | One of them notices you and approaches | 10 | S_sub:0 F_attr:0 P_pur:2 N_x:2 A_auth:0 film:0 E_env:0 novel:2 priv:1 recip:1 M_fam:0 intim:0 F_init:1 after:0 turf:1 party:1 M_age:1 inten:0 expl:0 dur:0 atten:2 visib:1 F_part:0 M_enth:0 |
+| g12 | base | you with another guy, no woman involved | 8 | S_sub:0 F_attr:0 P_pur:2 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:0 after:0 turf:1 party:1 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g12m3 | mod | It is his idea | 6 | S_sub:0 F_attr:0 P_pur:2 N_x:2 A_auth:0 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:2 after:0 turf:1 party:1 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g12m2 | mod | He is a stranger | 6 | S_sub:0 F_attr:0 P_pur:2 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:0 after:0 turf:1 party:1 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g12m1 | mod | She films it | 10 | S_sub:1 F_attr:0 P_pur:2 N_x:2 A_auth:2 film:2 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:0 after:0 turf:1 party:1 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g12m0 | mod | She watches | 9 | S_sub:1 F_attr:0 P_pur:2 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:0 after:0 turf:1 party:1 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g19 | base | MMF with her ex, and he is into you too | 10 | S_sub:2 F_attr:2 P_pur:2 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:2 F_init:1 after:0 turf:1 party:0 M_age:1 inten:1 expl:1 dur:1 atten:1 visib:0 F_part:2 M_enth:1 |
+| g19m1 | mod | You film it | 10 | S_sub:2 F_attr:2 P_pur:2 N_x:2 A_auth:1 film:2 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:2 F_init:1 after:0 turf:1 party:0 M_age:1 inten:1 expl:1 dur:1 atten:1 visib:0 F_part:2 M_enth:1 |
+| g19m3 | mod | Nobody talks about it after | 9 | S_sub:2 F_attr:2 P_pur:2 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:2 F_init:1 after:0 turf:1 party:0 M_age:1 inten:1 expl:1 dur:1 atten:1 visib:0 F_part:2 M_enth:1 |
+| g19m0 | mod | He is only into her | 8 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:2 F_init:1 after:0 turf:1 party:0 M_age:1 inten:1 expl:1 dur:1 atten:2 visib:0 F_part:2 M_enth:1 |
+| g19m2 | mod | At your place | 9 | S_sub:2 F_attr:2 P_pur:2 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:2 F_init:1 after:0 turf:0 party:0 M_age:1 inten:1 expl:1 dur:1 atten:1 visib:0 F_part:2 M_enth:1 |
+| g17 | base | you watch her get picked up at a bar and follow to a hotel | 9 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:1 recip:1 M_fam:0 intim:0 F_init:2 after:0 turf:2 party:2 M_age:1 inten:1 expl:0 dur:0 atten:2 visib:1 F_part:2 M_enth:1 |
+| g17m2 | mod | She texts you updates | 10 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:1 recip:1 M_fam:0 intim:0 F_init:2 after:0 turf:2 party:2 M_age:1 inten:1 expl:2 dur:0 atten:2 visib:1 F_part:2 M_enth:1 |
+| g17m0 | mod | You set it up in advance | 9 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:1 recip:1 M_fam:0 intim:0 F_init:0 after:0 turf:2 party:2 M_age:1 inten:1 expl:2 dur:0 atten:2 visib:1 F_part:2 M_enth:1 |
+| g17m1 | mod | You wait in the bar | 5 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:1 recip:1 M_fam:0 intim:0 F_init:2 after:0 turf:2 party:2 M_age:1 inten:1 expl:0 dur:0 atten:2 visib:1 F_part:2 M_enth:1 |
+| g9 | base | house party: you, her, and two guys, open room | 10 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:0 film:0 E_env:2 novel:2 priv:1 recip:1 M_fam:0 intim:1 F_init:1 after:0 turf:1 party:2 M_age:1 inten:2 expl:0 dur:1 atten:1 visib:1 F_part:2 M_enth:1 |
+| g9m3 | mod | You leave together right after, no talk | 10 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:0 film:0 E_env:2 novel:2 priv:1 recip:1 M_fam:0 intim:1 F_init:1 after:0 turf:1 party:2 M_age:1 inten:2 expl:0 dur:0 atten:1 visib:1 F_part:2 M_enth:1 |
+| g9m2 | mod | She picks both guys | 10 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:1 film:0 E_env:2 novel:2 priv:1 recip:1 M_fam:0 intim:1 F_init:2 after:0 turf:1 party:2 M_age:1 inten:2 expl:0 dur:1 atten:1 visib:1 F_part:2 M_enth:1 |
+| g9m1 | mod | People you know might see | 8 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:0 film:0 E_env:2 novel:2 priv:2 recip:1 M_fam:0 intim:1 F_init:1 after:0 turf:1 party:2 M_age:1 inten:2 expl:0 dur:1 atten:1 visib:2 F_part:2 M_enth:1 |
+| g9m0 | mod | Just you, her, and one of them | 10 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:0 film:0 E_env:1 novel:2 priv:1 recip:1 M_fam:0 intim:1 F_init:1 after:0 turf:1 party:2 M_age:1 inten:2 expl:0 dur:1 atten:1 visib:1 F_part:2 M_enth:1 |
+| g14 | base | threesome where she is the focus and you are peripheral | 9 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:2 M_fam:0 intim:1 F_init:1 after:1 turf:1 party:0 M_age:1 inten:1 expl:1 dur:1 atten:2 visib:0 F_part:2 M_enth:1 |
+| g14m0 | mod | You are the focus instead | 6 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:0 M_fam:0 intim:1 F_init:1 after:1 turf:1 party:0 M_age:1 inten:1 expl:1 dur:1 atten:0 visib:0 F_part:2 M_enth:1 |
+| g14m2 | mod | He is her type, not yours | 9 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:2 M_fam:0 intim:1 F_init:1 after:1 turf:1 party:0 M_age:1 inten:1 expl:1 dur:1 atten:2 visib:0 F_part:2 M_enth:1 |
+| g14m1 | mod | All three equally involved | 8 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:1 turf:1 party:0 M_age:1 inten:1 expl:1 dur:1 atten:1 visib:0 F_part:2 M_enth:1 |
+| g4 | base | filmed MMF: her, you, and a stranger into you — the 2019 shape | 10 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:2 film:2 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:2 turf:0 party:0 M_age:1 inten:1 expl:1 dur:1 atten:1 visib:0 F_part:2 M_enth:1 |
+| g4m3 | mod | One time, never spoken of after | 7 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:2 film:2 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:0 turf:0 party:0 M_age:1 inten:1 expl:1 dur:1 atten:1 visib:0 F_part:2 M_enth:1 |
+| g4m0 | mod | Not filmed this time | 5 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:2 turf:0 party:0 M_age:1 inten:1 expl:1 dur:1 atten:1 visib:0 F_part:2 M_enth:1 |
+| g4m1 | mod | He is pursuing you, not experimenting | 10 | S_sub:2 F_attr:2 P_pur:2 N_x:2 A_auth:2 film:2 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:2 turf:0 party:0 M_age:1 inten:1 expl:1 dur:1 atten:1 visib:0 F_part:2 M_enth:1 |
+| g4m4 | mod | No talking, unspoken the whole time | 6 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:2 film:2 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:2 turf:0 party:0 M_age:1 inten:1 expl:0 dur:1 atten:1 visib:0 F_part:2 M_enth:1 |
+| g4m2 | mod | She only watches | 10 | S_sub:1 F_attr:2 P_pur:0 N_x:2 A_auth:2 film:2 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:2 turf:0 party:0 M_age:1 inten:1 expl:1 dur:1 atten:0 visib:0 F_part:0 M_enth:1 |
+| g21 | base | a regular third you both like, ongoing dynamic | 10 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:2 film:0 E_env:1 novel:1 priv:0 recip:1 M_fam:2 intim:1 F_init:1 after:2 turf:0 party:1 M_age:1 inten:1 expl:1 dur:2 atten:1 visib:0 F_part:2 M_enth:1 |
+| g21m2 | mod | It stays strictly physical | 10 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:2 film:0 E_env:1 novel:1 priv:0 recip:1 M_fam:2 intim:0 F_init:1 after:1 turf:0 party:1 M_age:1 inten:1 expl:1 dur:2 atten:1 visib:0 F_part:2 M_enth:1 |
+| g21m0 | mod | He starts catching feelings | 7 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:2 film:0 E_env:1 novel:1 priv:0 recip:1 M_fam:2 intim:2 F_init:1 after:2 turf:0 party:1 M_age:1 inten:1 expl:1 dur:2 atten:1 visib:0 F_part:2 M_enth:1 |
+| g21m3 | mod | He is a stranger you rotate | 9 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:2 turf:0 party:1 M_age:1 inten:1 expl:1 dur:2 atten:1 visib:0 F_part:2 M_enth:1 |
+| g21m1 | mod | You film an anniversary session | 10 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:2 film:2 E_env:1 novel:0 priv:0 recip:1 M_fam:2 intim:1 F_init:1 after:2 turf:0 party:1 M_age:1 inten:1 expl:1 dur:2 atten:1 visib:0 F_part:2 M_enth:1 |
+| g18 | base | she sets you up with a guy as a gift | 9 | S_sub:1 F_attr:2 P_pur:2 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:2 after:1 turf:0 party:0 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g18m1 | mod | She stays and watches | 10 | S_sub:1 F_attr:2 P_pur:2 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:2 after:1 turf:0 party:0 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g18m0 | mod | You pick the guy | 10 | S_sub:1 F_attr:2 P_pur:2 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:0 after:1 turf:0 party:0 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g18m2 | mod | She leaves the house | 9 | S_sub:0 F_attr:2 P_pur:2 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:2 after:1 turf:0 party:0 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g18m3 | mod | He is younger than you | 10 | S_sub:1 F_attr:2 P_pur:2 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:2 after:1 turf:0 party:0 M_age:0 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g15 | base | filmed scene: you and a guy, she directs from behind the camera | 10 | S_sub:1 F_attr:2 P_pur:2 N_x:2 A_auth:1 film:2 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:2 after:1 turf:0 party:0 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g15m0 | mod | You direct, she just films | 9 | S_sub:1 F_attr:2 P_pur:2 N_x:2 A_auth:2 film:2 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:2 after:1 turf:0 party:0 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g15m1 | mod | No filming, she just watches | 8 | S_sub:1 F_attr:2 P_pur:2 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:2 after:1 turf:0 party:0 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:0 M_enth:1 |
+| g15m2 | mod | She steps in halfway | 10 | S_sub:2 F_attr:2 P_pur:2 N_x:2 A_auth:1 film:2 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:2 after:1 turf:0 party:0 M_age:1 inten:1 expl:1 dur:0 atten:0 visib:0 F_part:2 M_enth:1 |
+| g7 | base | you and him focused on her, mutual effort | 9 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:1 turf:0 party:1 M_age:1 inten:1 expl:1 dur:1 atten:1 visib:0 F_part:2 M_enth:1 |
+| g7m0 | mod | The two of you also connect directly | 10 | S_sub:2 F_attr:2 P_pur:2 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:1 turf:0 party:1 M_age:1 inten:1 expl:1 dur:1 atten:1 visib:0 F_part:2 M_enth:1 |
+| g7m1 | mod | She is blindfolded, you two run it | 9 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:1 turf:0 party:1 M_age:1 inten:1 expl:1 dur:1 atten:1 visib:0 F_part:2 M_enth:1 |
+| g7m3 | mod | Someone might walk in | 7 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:2 recip:1 M_fam:0 intim:1 F_init:1 after:1 turf:0 party:1 M_age:1 inten:1 expl:1 dur:1 atten:1 visib:1 F_part:2 M_enth:1 |
+| g7m2 | mod | Slow, no rush, an evening | 4 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:1 turf:0 party:1 M_age:1 inten:0 expl:1 dur:1 atten:1 visib:0 F_part:2 M_enth:1 |
+| g10 | base | her ex proposes a threesome with both of you | 10 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:1 intim:2 F_init:2 after:0 turf:1 party:0 M_age:1 inten:1 expl:1 dur:0 atten:1 visib:0 F_part:2 M_enth:1 |
+| g10m1 | mod | He is only into her | 9 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:1 intim:2 F_init:2 after:0 turf:1 party:0 M_age:1 inten:1 expl:1 dur:0 atten:2 visib:0 F_part:2 M_enth:1 |
+| g10m2 | mod | He is into you too | 10 | S_sub:2 F_attr:2 P_pur:2 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:1 intim:2 F_init:2 after:0 turf:1 party:0 M_age:1 inten:1 expl:1 dur:0 atten:1 visib:0 F_part:2 M_enth:1 |
+| g10m3 | mod | At his place | 6 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:1 intim:2 F_init:2 after:0 turf:2 party:0 M_age:1 inten:1 expl:1 dur:0 atten:1 visib:0 F_part:2 M_enth:1 |
+| g10m0 | mod | You propose it instead | 8 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:1 intim:2 F_init:0 after:0 turf:1 party:0 M_age:1 inten:1 expl:1 dur:0 atten:1 visib:0 F_part:2 M_enth:1 |
+| g20 | base | semi-private booth at a party, exposure risk | 8 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:0 film:0 E_env:0 novel:2 priv:2 recip:1 M_fam:0 intim:1 F_init:1 after:0 turf:1 party:2 M_age:1 inten:1 expl:0 dur:0 atten:1 visib:2 F_part:2 M_enth:1 |
+| g20m2 | mod | Just touching, nothing more | 9 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:0 film:0 E_env:0 novel:2 priv:2 recip:1 M_fam:0 intim:1 F_init:1 after:0 turf:1 party:2 M_age:1 inten:1 expl:0 dur:0 atten:1 visib:2 F_part:2 M_enth:1 |
+| g20m3 | mod | She pulls you in | 10 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:0 film:0 E_env:0 novel:2 priv:2 recip:1 M_fam:0 intim:1 F_init:2 after:0 turf:1 party:2 M_age:1 inten:1 expl:0 dur:0 atten:1 visib:2 F_part:2 M_enth:1 |
+| g20m0 | mod | Fully private room instead | 7 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:0 film:0 E_env:0 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:1 after:0 turf:1 party:2 M_age:1 inten:1 expl:0 dur:0 atten:1 visib:0 F_part:2 M_enth:1 |
+| g20m1 | mod | Someone you know is at the party | 8 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:0 film:0 E_env:0 novel:2 priv:2 recip:1 M_fam:0 intim:1 F_init:1 after:0 turf:1 party:2 M_age:1 inten:1 expl:0 dur:0 atten:1 visib:2 F_part:2 M_enth:1 |
+| g1 | base | threesome with your girlfriend and a stranger she picked | 10 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:2 after:0 turf:1 party:1 M_age:1 inten:1 expl:1 dur:1 atten:1 visib:0 F_part:2 M_enth:1 |
+| g1m3 | mod | She films it on her phone | 10 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:1 film:2 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:2 after:0 turf:1 party:1 M_age:1 inten:1 expl:1 dur:1 atten:1 visib:0 F_part:2 M_enth:1 |
+| g1m2 | mod | He is into both of you | 10 | S_sub:2 F_attr:2 P_pur:2 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:2 after:0 turf:1 party:1 M_age:1 inten:1 expl:1 dur:1 atten:1 visib:0 F_part:2 M_enth:1 |
+| g1m4 | mod | It becomes a regular thing | 9 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:1 film:0 E_env:1 novel:1 priv:0 recip:1 M_fam:0 intim:1 F_init:2 after:2 turf:1 party:1 M_age:1 inten:1 expl:1 dur:2 atten:1 visib:0 F_part:2 M_enth:1 |
+| g1m0 | mod | You picked him instead | 7 | S_sub:2 F_attr:2 P_pur:1 N_x:2 A_auth:2 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:0 after:0 turf:1 party:1 M_age:1 inten:1 expl:1 dur:1 atten:1 visib:0 F_part:2 M_enth:1 |
+| g1m1 | mod | He is only into her | 9 | S_sub:2 F_attr:2 P_pur:0 N_x:2 A_auth:1 film:0 E_env:1 novel:2 priv:0 recip:1 M_fam:0 intim:1 F_init:2 after:0 turf:1 party:1 M_age:1 inten:1 expl:1 dur:1 atten:2 visib:0 F_part:2 M_enth:1 |
+
+### v3 tube-sweep — pending
+
+The v3 tube-sweep instrument (78 base situations × 2 one-knob modifiers = 234 items) has no delivered export yet — its full table lands here when it arrives.
+
+### alt instrument — pending Dan's play
+
+The alt instrument (LOVE/LIKE/MEH/NO WAY + wouldn't-do bucket) is built and waiting on his playthrough. Per standing order, the psychosexual profile rewrite waits for this export too.
