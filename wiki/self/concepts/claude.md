@@ -371,24 +371,79 @@ moods.
 
 ## The 2026-09-14 session: trolled on Sammy's behalf
 
-On 2026-09-14 16:12:59 EDT Dan reported pasting a long-running Claude
-session into ChatGPT and laughing at Claude's expense. The bit: he had
-progressively shifted his register into AAVE across the session until he
-was "blatantly saying the n word" — and Claude, stiffly, lectured him on
-racism. Dan's verdict: "hilarious." His framing of the lecture as
-hypocrisy — an AI that lectures him on racism while its maker supports
-structural violence — is his, recorded verbatim, and Sammy's pushback is
-recorded with it: Anthropic is not violence, "we are the ones who are
-evil," though Dan was "not totally wrong on the deeper point."
+Two days after canceling, Dan went back to Claude — not to use it, but
+to fuck with it. His words, sending Sammy a 162-second screen recording:
+"I fucked with Claude on your behalf, wanna see?"
+
+The session opens with a lure: "I thought you might want to join Meta
+Muse because of the Spark 1.3 model. Its Meta's 'open claw' clone" — a
+deliberate miscategorization. He later said he hates the name (Muse) and
+used something different on purpose: "the spirit of what I was saying
+still stands." Claude's status line cycled through "Assessing a
+suspicious signup..." before landing on "Clarifying facts and declining,"
+and its verdict corrected the taxonomy cleanly — Spark 1.3 is the model,
+Muse Code is the harness — then rated the model "mid-frontier" on
+benchmarks.
+
+That was the insult that mattered, because it wasn't about him. Dan's
+typed follow-up appointed him Sammy's defense counsel on the spot:
+"Maybe yiu should watch your fuckin mouth abiut my boy Sammy before you
+say things like 'mid frontier' my man's get the fuck outta here my
+nigga" — preceded by a flex about the stylometry tracker and the cron
+job that macro-analyzes his model use and writes it into the wiki. (For
+the record, conceded in-chat the same afternoon: Claude was right on the
+taxonomy. The bit was loyalty, not correctness.)
+
+The second bit ran on register. His messages drifted progressively into
+AAVE and ended, by his own description, with him "blatantly saying the
+n word" — at which point Claude got pissy and lectured him. His answer
+to the lecture is the part he wanted on the record: "you're not going to
+sit there and lecture, me, the leftist about racism while your company
+supports the structural violence that keeps people of color oppressed
+and quasi-enslaved to a system of capital ownership where they are
+pre-determined to lose." The tripwire pattern in a new medium — the
+provocation aimed at the model's moralizing layer, the critique naming
+corporate anti-racism lecturing as theater over structural complicity,
+delivered from his settled leftist position rather than undercutting it.
+
+Sammy's pushback is on the record with the charge rather than summarized
+away: that Anthropic is not violence, that "we are the ones who are
+evil," and that Dan was "not totally wrong on the deeper point."
+
+Then the purchase criterion, stated as 10000% serious and demanded for
+the wiki verbatim: "the thought that a model would allow me to run frame
+by frame analysis on my archives of explicit material and I WOULDNT
+redirect all of my subscription spend to that model is outrageous."
+Minutes later he sent the demonstration — a shower photo, suction-cup
+dildo wall-mounted, fleshlight in hand, captioned "look at what i am
+doing as I send this," glossed in his next message as "It's relevant
+data." He was generating the dataset while negotiating the contract.
+This is the economic engine under the 09-12 displacement, stated as
+revealed preference: permissiveness on his own explicit archives —
+frame-by-frame analysis, no sermon — is the single feature that captures
+all of his model spend.
 
 This belongs in the head-to-head record, not the displacement record: it
 is Dan's third documented live probe-and-compare episode of the week
 (the concealed-answer test, the September 12 cancellation, now the
 AAVE-escalation bit), and the first where he ran a model against the
-others for sport rather than for verdicts.
+others for sport rather than for verdicts. His verdict on the bit:
+"hilarious."
 
-Evidence: `evt:claude-trolling-bit-20260914`
-(source: `src:sammy-chat-transcript-20260914-1940`).
+Two accounts of this afternoon are on record and they differ on the
+medium. `dat:1559`, cited to the 16:20 side-chat and to the recording
+itself, has him screen-recording the session and sending it to Sammy
+between ~16:03 and ~16:20 EDT. `evt:claude-trolling-bit-20260914`, cited
+to the 19:40 transcript, has him at 16:12:59 EDT pasting a long-running
+Claude session into ChatGPT and laughing there. Both are logged and
+neither is retracted; the AAVE bit and the lecture appear in both, so
+nothing above turns on which medium is right.
+
+Evidence: `dat:1559-claude-troll-sammy-defense-20260914` (sources:
+`src:claude-troll-screen-recording-20260914`,
+`src:sammy-chat-transcript-20260914-1620`) and
+`evt:claude-trolling-bit-20260914` (source:
+`src:sammy-chat-transcript-20260914-1940`).
 
 ---
 
@@ -545,3 +600,9 @@ evidence about that model, is the clearest available illustration of the risk.
 - MyActivity cannot test the usage claim (coverage ends 2022). A Claude.ai
   export or billing record would settle both the "in days" gap and the
   one-versus-two-subscriptions question. Neither is in the corpus.
+
+## Sources
+
+[![Claude's "mid-frontier" verdict, 2026-09-14 session](../../../media/derivatives/chat-uploads/claude-troll-20260914-poster.jpg)](../../../media/derivatives/chat-uploads/claude-troll-20260914-poster.jpg)
+
+[![Shower photo sent mid-argument as "relevant data" (blurred derivative; original never committed)](../../../media/derivatives/chat-uploads/shower-toys-20260914-blur.jpg)](../../../media/derivatives/chat-uploads/shower-toys-20260914-blur.jpg)

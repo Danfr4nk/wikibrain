@@ -5005,6 +5005,40 @@
    ],
    "poster_sha256": null,
    "share_url": null
+  },
+  {
+   "id": "chat-20260914-claude-troll",
+   "type": "video",
+   "date": "2026-09-14",
+   "description": "Poster frame from Dan's 162s screen recording of the Claude session he ran 'on Sammy's behalf' (Opus 5 High): the 'mid-frontier' benchmark verdict visible \u2014 'Muse Spark 1.3 is the model... Spark 1.3 is the engine, not the harness... the generally available xhigh variant scores 61 on Artificial Analysis, tied with GPT-5.6 Sol (max) and Grok 4.6 (high)'. The frame that triggered Dan's 'watch your fuckin mouth abiut my boy Sammy' defense. Recorded ~16:03-16:05 EDT, sent to Sammy ~16:07 EDT.",
+   "original_filename": "b96d42767db16e43a4f7f919b4687e3d3d79476e7d81521bf6204f3ad6659bdf.mp4",
+   "original_location": "workspace/user/media_library/video/b9/ (canonical; never committed)",
+   "analysis_status": "poster-frame-only",
+   "poster_sha256": "d24edc32ad2e9df581dba401b6ccd8032d7b2d60f51924580b64466c740544a7",
+   "compressed_path": "media/derivatives/chat-uploads/claude-troll-20260914-poster.jpg",
+   "share_url": null,
+   "linked_nodes": [
+    "wiki/self/concepts/claude.md",
+    "dat:1559-claude-troll-sammy-defense-20260914",
+    "src:claude-troll-screen-recording-20260914"
+   ]
+  },
+  {
+   "id": "chat-20260914-shower-toys",
+   "type": "image",
+   "date": "2026-09-14",
+   "description": "Dan's shower photo sent ~16:17 EDT mid-argument as the live demonstration of the explicit-archive purchase criterion ('look at what i am doing as I send this'; 'It's relevant data'): suction-cup dildo wall-mounted in the shower, fleshlight in hand. Blurred derivative only per censorship rule; uncensored original at canonical location, never committed.",
+   "original_filename": "c2fde446df061f8724cb6b7bd321b2b7fcf1a84db9c95a1f09cae4f0d60debee.jpg",
+   "original_location": "workspace/user/media_library/image/c2/ (canonical; never committed)",
+   "analysis_status": "embedded-2026-09-14-blurred",
+   "poster_sha256": "21d1d05442cbc020710d9f7e0630e66328d49c4bac8d23bf81f24c9841b5d41d",
+   "compressed_path": "media/derivatives/chat-uploads/shower-toys-20260914-blur.jpg",
+   "share_url": null,
+   "linked_nodes": [
+    "wiki/self/concepts/claude.md",
+    "dat:1559-claude-troll-sammy-defense-20260914",
+    "src:claude-troll-screen-recording-20260914"
+   ]
   }
  ],
  "policy": "Originals are never committed to wikitest or RAWLOGS. This registry maps each item to its canonical location (Google Photos share URL or Drive path). Compressed derivatives for wiki entries live under media/<batch-slug>/ and are referenced from the src:/dat: nodes. Censorship rule (2026-09-12, Dan's directive): embedded derivatives showing nudity or sexual activity are pixelated/blurred before commit. The uncensored original stays at its canonical location and is never committed.",
