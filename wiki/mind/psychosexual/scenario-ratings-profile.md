@@ -4,7 +4,7 @@ page_type: concept
 title: "Scenario-Ratings Profile (2026-09-11)"
 status: new
 date_created: 2026-09-11
-date_modified: 2026-09-11
+date_modified: 2026-09-16
 knowledge: self-report
 sources:
   - scenario-rate.html session export, 2026-09-11 (v1 instrument, 121 of 122 rated)
