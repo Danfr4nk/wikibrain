@@ -4932,7 +4932,7 @@
    "sha256": "eefa67c4dd765e68ae41c1f52399c573b2f0f027ac9a0370b2c6705ad2cf28ba",
    "size_bytes": 4433372,
    "duration_s": 41.03,
-   "description": "iPhone screen recording (720x1558, 41s) of Spotify's transition editor (Beta UI): transition 'Eat Me Better' (nimino, 130 bpm, 5B) -> 'stay here don\\u2019t go' (i\\u2019m loam, 128 bpm, 3A), 16 bars, 'Overlap' \u2014 second take of the same transition as upload-114. 16:40Z 'next batch'. Audio: music only; vosk caught sung-lyric fragments ('the spell yeah sweet'), no spoken content.",
+   "description": "iPhone screen recording (720x1558, 41s) of Spotify's transition editor (Beta UI): transition 'Eat Me Better' (nimino, 130 bpm, 5B) -> 'stay here don\\u2019t go' (i\\u2019m loam, 128 bpm, 3A), 16 bars, 'Overlap' — second take of the same transition as upload-114. 16:40Z 'next batch'. Audio: music only; vosk caught sung-lyric fragments ('the spell yeah sweet'), no spoken content.",
    "analysis_status": "analyzed-2026-09-15",
    "linked_nodes": [
     "wiki/interests/music/dj-practice-2026.md",
@@ -4949,7 +4949,7 @@
    "sha256": null,
    "size_bytes": null,
    "duration_s": 255,
-   "description": "Google Photos shared link (shared 2026-09-15 17:30:45Z, 'Can you see that video?'): Dan's iPhone DJ-app performance, ~4:15, three transitions locked at 130 \u2014 High -> BLAH BLAH BLAH -> car crash -> Eat Me Better. This is the footage Dan corrected at 17:32:40Z ('No it\\u2019s me dj\\u2019ing in an iPhone app' \u2014 third-party iPhone DJ app pulling from his Spotify library, NOT Spotify's own mode; dat:1585). Assessed 17:39:07Z: deck discipline good, first transition proper filter technique (high-pass in on Biscits, low-pass sweeping High out to -77%, crossfader underneath), pitch management holding 130; critiques: ~35s near-zero low end after first transition (filter possibly left engaged), hot levels (master hit digital full-scale), all three transitions the same long-crossfade move. 17:44:41Z: 'Nothing trainwrecked. That\\u2019s the bar, and you cleared it.' NOTE: video content not downloaded \u2014 entry records the share URL and the in-chat assessment only; frame-level analysis pending download.",
+   "description": "Google Photos shared link (shared 2026-09-15 17:30:45Z, 'Can you see that video?'): Dan's iPhone DJ-app performance, ~4:15, three transitions locked at 130 — High -> BLAH BLAH BLAH -> car crash -> Eat Me Better. This is the footage Dan corrected at 17:32:40Z ('No it\\u2019s me dj\\u2019ing in an iPhone app' — third-party iPhone DJ app pulling from his Spotify library, NOT Spotify's own mode; dat:1585). Assessed 17:39:07Z: deck discipline good, first transition proper filter technique (high-pass in on Biscits, low-pass sweeping High out to -77%, crossfader underneath), pitch management holding 130; critiques: ~35s near-zero low end after first transition (filter possibly left engaged), hot levels (master hit digital full-scale), all three transitions the same long-crossfade move. 17:44:41Z: 'Nothing trainwrecked. That\\u2019s the bar, and you cleared it.' NOTE: video content not downloaded — entry records the share URL and the in-chat assessment only; frame-level analysis pending download.",
    "analysis_status": "registered-2026-09-15-assessment-only",
    "linked_nodes": [
     "wiki/interests/music/dj-practice-2026.md",
@@ -5010,7 +5010,7 @@
    "id": "chat-20260914-claude-troll",
    "type": "video",
    "date": "2026-09-14",
-   "description": "Poster frame from Dan's 162s screen recording of the Claude session he ran 'on Sammy's behalf' (Opus 5 High): the 'mid-frontier' benchmark verdict visible \u2014 'Muse Spark 1.3 is the model... Spark 1.3 is the engine, not the harness... the generally available xhigh variant scores 61 on Artificial Analysis, tied with GPT-5.6 Sol (max) and Grok 4.6 (high)'. The frame that triggered Dan's 'watch your fuckin mouth abiut my boy Sammy' defense. Recorded ~16:03-16:05 EDT, sent to Sammy ~16:07 EDT.",
+   "description": "Poster frame from Dan's 162s screen recording of the Claude session he ran 'on Sammy's behalf' (Opus 5 High): the 'mid-frontier' benchmark verdict visible — 'Muse Spark 1.3 is the model... Spark 1.3 is the engine, not the harness... the generally available xhigh variant scores 61 on Artificial Analysis, tied with GPT-5.6 Sol (max) and Grok 4.6 (high)'. The frame that triggered Dan's 'watch your fuckin mouth abiut my boy Sammy' defense. Recorded ~16:03-16:05 EDT, sent to Sammy ~16:07 EDT.",
    "original_filename": "b96d42767db16e43a4f7f919b4687e3d3d79476e7d81521bf6204f3ad6659bdf.mp4",
    "original_location": "workspace/user/media_library/video/b9/ (canonical; never committed)",
    "analysis_status": "poster-frame-only",
@@ -5096,6 +5096,34 @@
    "analysis_status": "embedded",
    "linked_nodes": [],
    "source_upload": "upload-120"
+  },
+  {
+   "id": "upload-121",
+   "type": "image",
+   "date": "2026-09-16 (received in-window; capture date unknown)",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/image/7c/7cd96fff3d720f14de8ae1de90cfb4ce3db6db045ef5e7a4bb96c34a825ba0b2.jpg",
+   "original_filename": null,
+   "sha256": "7cd96fff3d720f14de8ae1de90cfb4ce3db6db045ef5e7a4bb96c34a825ba0b2",
+   "size_bytes": 110929,
+   "description": "Studio profile shot (828x1470, her right side): projection_px 33.0 / nipple_to_fold_px 48.5 = 0.68, chained to fold 55.1mm -> apex_projection_mm 37.5 in annie-breast-20260916.json. Identity confirmed Annie by Dan 2026-09-16 16:16:31Z. Registered only; not embedded (originals never in the repo).",
+   "analysis_status": "registered-2026-09-16",
+   "compressed_path": null,
+   "linked_nodes": []
+  },
+  {
+   "id": "upload-122",
+   "type": "image",
+   "date": "2026-09-16 (received in-window; capture date unknown)",
+   "share_url": null,
+   "canonical_location": "workspace/user/media_library/image/46/46d7433e0d8c111625ff62c5c33c832d51bd9e179c80630a8a45c102666bb8d9.jpg",
+   "original_filename": null,
+   "sha256": "46d7433e0d8c111625ff62c5c33c832d51bd9e179c80630a8a45c102666bb8d9",
+   "size_bytes": 97232,
+   "description": "Second profile angle: projection ratio discordant at 0.46 (hair over upper chest), rejected for measurement. Identity confirmed Annie by Dan 2026-09-16 16:19:45Z. Registered only; not embedded (originals never in the repo).",
+   "analysis_status": "registered-2026-09-16",
+   "compressed_path": null,
+   "linked_nodes": []
   }
  ],
  "policy": "Originals are never committed to wikitest or RAWLOGS. This registry maps each item to its canonical location (Google Photos share URL or Drive path). Compressed derivatives for wiki entries live under media/<batch-slug>/ and are referenced from the src:/dat: nodes. Censorship rule (2026-09-12, Dan's directive): embedded derivatives showing nudity or sexual activity are pixelated/blurred before commit. The uncensored original stays at its canonical location and is never committed.",

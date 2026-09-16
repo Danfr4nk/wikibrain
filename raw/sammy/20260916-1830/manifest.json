@@ -1,0 +1,25 @@
+{
+ "batch": "20260916-1830",
+ "pulled_at_utc": "2026-09-16T18:50:00Z",
+ "watermark_from": "2026-09-16T15:51:38.892Z",
+ "watermark_to": "2026-09-16T18:27:06.013+00:00",
+ "counts": {
+  "user": 72,
+  "assistant": 142,
+  "total": 214
+ },
+ "sources": {
+  "chats": {
+   "watermark_from": "2026-09-16T15:51:38.892Z",
+   "watermark_to": "2026-09-16T18:27:06.013+00:00",
+   "rows": 214
+  }
+ },
+ "files": {
+  "chats.json": {
+   "sha256": "cf5f7439c694fa72a9e40521f8f9269b8a61b2990839aabbf10b3c04b6d319f2",
+   "bytes": 55755
+  }
+ },
+ "notes": "CUMTHREAD3 carve-out: 0 rows from side chat 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853. Bodies full-length (max 1017 chars), no truncation. Tail 14 rows verified byte-exact via body-equality JOIN."
+}
