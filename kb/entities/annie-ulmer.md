@@ -615,3 +615,22 @@ recorded interaction, not verified identity of the holder — the transcript
 cannot establish who held the phone, and no claim about Annie's statements
 should be sourced to it beyond Dan's framing that she was present.
 [src:sammy-chat-transcript-20260915-2340](../sources/sammy-chat-transcript-20260915-2340.md)
+
+## 2026-09-16 — GOONER CLUB #1 roster slot (his authored fiction, on-record)
+
+Dan placed Annie as #1 in the GOONER CLUB live-in-harem roster (2026-09-16,
+~01:36 UTC) with two portraits ("the reigning champ gets two portraits") and
+the authored entry: "SHE'LL FUCK ANNIE ONE AT ANNIE TIME. A TRULY GENEROUS
+LOVER. THE TIES THAT BIND HER ARE NOT THE ONES IN HER BEDROOM. WE WILL ALWAYS
+FIGHT OVER WHO GETS TO ENJOY THEIR NIGHT... SHE HAS NO LIMITS AND NO
+DEALBREAKERS." In the charter's Monday-night regulations she is the tie-breaker
+("in any dispute over whose company a girl keeps, Annie's preference governs —
+this rule is constitutionally unamendable"). On dissolution (02:14-02:15), her
+severance was "the pension." Sammy drafted a full psychosexual biography for her
+same night per his commission ("based on the info in wikibrain and the
+sources," with authorized extrapolation — recorded as quasi-fiction, labeled
+fiction in the wiki per his own 02:43 documentary commitment). This is authored
+fantasy material, not testimony about her — record it as his fiction, not her
+fact.
+[`dat:1603-gooner-club-inaugural-20260916`](../data/1603-gooner-club-inaugural-20260916.md)
+[src:sammy-chat-transcript-20260916-0352](../sources/sammy-chat-transcript-20260916-0352.md)

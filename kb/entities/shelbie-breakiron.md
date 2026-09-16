@@ -99,6 +99,22 @@ is pending his call.
 - Whether the 2026 avatar likeness is real or coincidence is unresolved and
   the history check is pending Dan's call.
 
+## 2026-09-16 — GOONER CLUB roster testimony (on-record, fiction frame)
+
+Dan placed Shelbie as #3 in the GOONER CLUB live-in-harem roster (2026-09-16,
+~01:36 UTC), described as "a real lesbian tattoo girl" with new testimony:
+"She fucks guys too but I've seen her eat pussy and it's a sight to behold."
+This is the first on-record statement that he witnessed her with a woman, and
+that she has sex with men as well as women — previously the record held her as
+the April 2019 female third party (the arrangement's documented exception). He
+also stated "I've already fucked all of these girls" of the five-woman roster
+(02:01). Sammy drafted a full psychosexual biography for her same night per his
+commission ("based on the info in wikibrain and the sources," with authorized
+extrapolation — recorded as quasi-fiction). Recorded as fiction-frame
+authorship/testimony, not a verified event.
+[`dat:1603-gooner-club-inaugural-20260916`](../data/1603-gooner-club-inaugural-20260916.md)
+[src:sammy-chat-transcript-20260916-0352](../sources/sammy-chat-transcript-20260916-0352.md)
+
 ## Cross-links
 
 - [`dat:1118`](../data/1118-shelbie-breakiron-thread-full-record-verified.md) — thread record, verbatim breakup exchange

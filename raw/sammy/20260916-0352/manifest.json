@@ -1,0 +1,30 @@
+{
+ "batch": "20260916-0352",
+ "pulled_at_utc": "2026-09-16T04:35:00Z",
+ "watermark_from": "2026-09-15T23:49:40.915+00:00",
+ "watermark_to": "2026-09-16T03:59:10.388+00:00",
+ "counts": {
+  "rows": 415,
+  "by_role": {
+   "user": 169,
+   "assistant": 246
+  },
+  "unique_messages": 415
+ },
+ "exclusions": "CUMTHREAD3 (side chat 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853) excluded per Dan's standing order; 0 rows from it present (verified at consolidation and at archive time).",
+ "source": "consolidated chats.json at ~/workspace/wiki-sync/staging/20260916-0352/ (415 unique user/assistant rows, deduped by message_id)",
+ "files": {
+  "chats.json": {
+   "sha256": "619d689dd87881528c3605a45f1d8f7ae7a9f0cd0bbdad68a21d747e9dc9e43a",
+   "bytes": 205862
+  },
+  "external.json": {
+   "sha256": "564c46fa928c29eb4506e7bc9ad155411e30078cfa0383916535634264cd0e5c",
+   "bytes": 1195
+  },
+  "EXTRACT.md": {
+   "sha256": "890bd10414577ef0c0c52d5ea1164591d6c1550ec5d1395ef99f67de4f82b101",
+   "bytes": 2994
+  }
+ }
+}

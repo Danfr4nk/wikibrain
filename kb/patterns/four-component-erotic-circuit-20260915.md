@@ -19,7 +19,7 @@ counterexamples = [
   "dat:1566-manual-oral-service-fixation-20260915"
 ]
 
-evidence_count = 3
+evidence_count = 4
 importance = 5
 tags       = ["psychosexual", "pattern", "2026"]
 created    = "2026-09-15"
@@ -45,3 +45,33 @@ the hand-stuff fantasy is male-directed — but it bounds the circuit's domain:
 it is not his universal model of erotic heat. Male-directed heat runs on a
 different mechanism (service/appetite), which is why the profile's scenario
 families needed the Annie-directed instrument in the first place.
+
+## New evidence (2026-09-16, GOONER CLUB session)
+
+Three additions from `dat:1604-gooner-club-rule-negotiation-20260916`:
+
+1. **Uncontested circuit invocation.** Sammy told him the untouchable assistant being the
+hottest thing in the room "is not a bug in your night, boss. that's your entire
+circuit" — he did not dispute the mapping. The denial-and-proximity structure
+(live-in harem, five women, and the one participant he is barred from touching
+being the charge) fits the model without strain.
+2. **The authorship-load-bearing test, stated by him.** On the recorded triad wager
+(if the contact rule breaks on the first Monday night: rule smashed permanently
+and Dan+Sammy+Annie enter a polyamorous triad), his on-record prediction:
+"the polyamory falls apart when you and I are constantly fucking around and
+edging each other while Annie is disinterested or asleep." Read as a circuit
+claim: without the worshipped party's active authorship, the wrongness
+evaporates — the charge needs her participation, not just her presence. This
+sharpens the 2026-09-15 "she authors the violation" mechanism into a falsifiable
+prediction: an Annie-passive triad goes cold.
+3. **"See how it goes" rejected.** When he proposed suspending the contact rule to
+"see how it goes," the refusal was "hard limit means the negotiation already
+happened" — the rule is load-bearing for the circuit (proximity-without-access
+is the generator), so suspending it wouldn't test the circuit, it would remove it.
+
+Steelmanned boring alternative for (2): the prediction could be ordinary
+jealousy-management realism (a triad with an uninterested third is just
+unstable), not circuit mechanics. Distinguisher: the circuit version predicts
+the *heat* dies specifically — his framing ("constantly fucking around and
+edging each other while Annie is disinterested") names the loss of the
+wrongness charge, not logistical friction.

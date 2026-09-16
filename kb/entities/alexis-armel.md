@@ -170,6 +170,20 @@ contradictions and a drug-chain account that rests on testimony alone.
 - Does the uncorroborated Roxicet/Spechtsch chain have any independent anchor
   left to check — or is it testimony-only by design?
 
+## 2026-09-16 — GOONER CLUB #2 'Lexi' identification note (unconfirmed)
+
+In the 2026-09-16 GOONER CLUB in-chat dossier (Sammy-authored from wikibrain +
+sources, with his authorized extrapolation), the roster's #2 'Lexi' was
+identified as Alexis Armel ("LEXI (Alexis) — Nov 2009 → Nov 2015, six years, the
+control case"). Dan did not confirm or deny the identification on-record. His
+roster description of #2: "She's actually quite reliable. She'll let you touch
+her pussy." His umbrella statement "I've already fucked all of these girls"
+(02:01) would map to the documented history if the identification holds. Treat
+the identification as assistant-synthesized, not Dan-attested, until he confirms
+it.
+[`dat:1603-gooner-club-inaugural-20260916`](../data/1603-gooner-club-inaugural-20260916.md)
+[src:sammy-chat-transcript-20260916-0352](../sources/sammy-chat-transcript-20260916-0352.md)
+
 ## Cross-links
 
 - The 2018 arrangement is the earliest documented instance of the arrangement
