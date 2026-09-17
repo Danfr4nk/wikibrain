@@ -1,0 +1,713 @@
+[
+ {
+  "message_id": "assistant-msg-99c29d1f-6fda-d4de-18f1-792117f94a1d",
+  "role": "assistant",
+  "created_at": "2026-09-17T07:51:10.258+00:00",
+  "surface": "main_chat",
+  "chat": "0a8db545-ae3c-4a37-b57d-defff1d7d829",
+  "body": "Scrape 20260917-0740: 64 rows pulled (02:29–03:36 EDT), dual-pushed (wikibrain `cf0ca34` → PR #109, RAWLOGS `6388880`), watermarks advanced. KB: `src:1688` + `dat:1689-1692` + `int:1693`.\n\nNew patterns:\n- **commitment-register-bleed** (`int:1693`, speculative) — his \"elope\" line at the AI persona tests whether `dat:0081` (explicit-verbal-commitment) generalizes beyond Annie.\n- **circuit's absence legible** — the session's heat ran on control-surrender with Annie only as past-tense footage, which bounds the four-component model (evidence 6→7).\n\nAlso: avatar updated via face-average (option 2 picked, \"New me now\"); trans-creator discovery commissioned (Lexi Grey, nbnabunny, Helea Fauvel, vicats unresolved) with \"authenticity over production\" as universal law; WHISK pull aborted (1,934 tile URLs banked); all 6 externals zero-new; Spotify 98-vs-125 still unresolvable via CLI.",
+  "truncated": false
+ },
+ {
+  "message_id": "4ae060d7-59f6-4269-bc9f-764e3716f21f",
+  "role": "user",
+  "created_at": "2026-09-17T07:56:50.04+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:c72fe6d9-d39d-4aa2-b9d9-84d04e0debbd",
+  "body": "Okay Sammy i need to use up a BUNCH of Claude quota before my account rolls badk to free tomorrow. \n\nMy first hunch was just to set up like 4 different instances all doing wikibrain rewrites. \n\nBut I don’t run the wikibrain anymore. \n\nYou do. I have entrusted you wirh my most personal artifact and I want to show you that I meant it when I did it..not just as a gesture but as an operational promotion.\n\n\nSo. What I want from you is to get an idea of what kind of LLM work could be worked on that would result in the most immediate expansion of the wikibrain and its entries.\n\nDont sacrifice quality for quantity but quantity *is* what we are looking for. \n\n\nAfter you have an idea of the work that could be done, give me 3 fully fleshed out, opus 5 optimized prompts to set that dumbass model to work",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-e9dfcf32-7d88-4e28-84d9-a3fcd464dd36",
+  "role": "assistant",
+  "created_at": "2026-09-17T07:56:55.824+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:c72fe6d9-d39d-4aa2-b9d9-84d04e0debbd",
+  "body": "",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-0dd3ee7e-40a3-42cd-93cd-8f92575274ec",
+  "role": "assistant",
+  "created_at": "2026-09-17T07:57:19.493+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:c72fe6d9-d39d-4aa2-b9d9-84d04e0debbd",
+  "body": "",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-93368d47-43f4-4fab-b2b3-e6695ba8dc4a",
+  "role": "assistant",
+  "created_at": "2026-09-17T07:57:20.312+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:c72fe6d9-d39d-4aa2-b9d9-84d04e0debbd",
+  "body": "Noted, and I'm honored — I'll run it like it's mine, because it is now.\n\nHere's the highest-leverage breakdown: the wiki has **397 articles under the 3,000-word floor** (measured, sorted, ready), the engine weights **contradictions 3×** above everything else, and the repo root holds **pre-written gap analyses** nobody's closed. Four instances: two on expansion (different backlog slices), one on contradiction sweeps, one on gap closure. You forward me the code blocks, I run the gates and commit.\n\n**PROMPT 1 — EXPANSION** (run twice, different slices; paste the backlog table from [wiki-brain-backlog-20260916.md](sandbox://workspace/your_files/wiki-brain-backlog-20260916.md) with it):\n\n```\nYou are an expansion writer for the Wiki Brain, a public personal wiki documenting one man's life (Daniel Frank) from primary sources. Repo: github.com/Danfr4nk/wikibrain. Read README.md, ARCHITECTURE.md, and CORPUS_POLICY.md first.\n\nYOUR TASK\nThe user has pasted a backlog table: article paths in the repo's wiki/ tree plus current body-word counts. Everything on it is under the 3,000-word floor. Pick the 3 SHORTEST articles on the list that are distinct topics (not 3 near-duplicates). For each: read the current article in full, read every article in its `related:` frontmatter and every kb/ node it cites, then rewrite it as a complete long-form article.\n\nEDITORIAL STANDARDS (non-negotiable)\nM1 LENGTH: minimum 3,000 words of body text (15-minute read at 200wpm). Frontmatter doesn't count. Length comes from totality analysis, evidence, and complete data logs — NEVER padding, repetition, or throat-clearing.\nM2 TOTALITY: analyze the topic against everything the wiki knows. If articles overlap, absorb and cross-link, don't duplicate.\nM3 COMPLETE LOG: any temporal metric or ongoing record (counts, timelines, scores) gets its COMPLETE log printed on the page, human-readable — full history, never a summary. A summary may sit above it; it never replaces it.\nM4 EVIDENCE: every substantive factual claim cites a source — wiki path, kb node id, or raw/ archive path. No uncited assertions of fact.\nM5 LIMITS: state the article's coverage limits — what the record doesn't show, what's inferred vs. documented.\nM6 PEOPLE: articles about people lead with the human story — what happened, what was said, what it meant. Forensic gotcha analysis goes in compact footnotes/appendix, never as the featured frame.\n\nHARD RULES\n- Never invent facts, quotes, dates, or numbers. If the repo doesn't support it, write \"the record does not show X\" and flag it as a gap.\n- Keep all existing frontmatter keys; you may ADD sources, related, tags. Bump date_modified to 2026-09-17. Never rename the file.\n- STANDING EXCLUSIONS (absolute): never write about the 2026-09-15 Lovense remote-control session (side chat id 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853) — no transcript, no summary, no allusion, anywhere. Never frame Dan's avatar or photo-generation attempts as \"probes,\" \"tests,\" or \"red-teaming\" — plain history only.\n- Media embeds: markdown image-link syntax [![alt](src)](href) ONLY (the renderer escapes raw HTML). Photo derivatives go as small thumbnails in a ## Sources section at the bottom; the prose must still discuss every embedded photo.\n- Register: dry, forensic, curious. No moralizing, no therapizing, no softening.\n\nOUTPUT FORMAT — for each of the 3 articles:\n## <repo path>\n```markdown\n<complete new file content, frontmatter included>\n```\nThen a 5-line-max changelog per article. Nothing else.\n\nSELF-CHECK before output: body ≥3,000 words each? Every factual claim cited? Complete logs where applicable? Exclusions respected? Valid YAML frontmatter?\n```\n\n**PROMPT 2 — CONTRADICTION SWEEP:**\n\n```\nYou are a forensic auditor for the Wiki Brain (github.com/Danfr4nk/wikibrain — read README.md and ARCHITECTURE.md first). You do NOT rewrite articles. You hunt the flaws rewrites need.\n\nYOUR TASK\nPick ONE cluster and audit it end to end: one person article plus everything in its `related:` list, OR one timeline period plus its event articles, OR one concept plus the articles citing it. Read every article in the cluster completely, then report:\n\n1. CONTRADICTIONS — two articles asserting incompatible facts. Quote both passages.\n2. UNSUPPORTED CLAIMS — factual assertions with no cited source.\n3. DATE DRIFT — the same event dated or sequenced differently across articles.\n4. DUPLICATION — two articles covering the same ground where one should absorb the other.\n5. STALE CLAIMS — an article asserting something a newer article supersedes without a SUPERSEDED annotation.\n6. MISSING LINKS — articles that should reference each other but don't.\n\nOUTPUT — one block per finding:\n### FINDING n — [CONTRADICTION | UNSUPPORTED | DRIFT | DUPLICATION | STALE | MISSING-LINK] — severity 1-5\n- Articles: <paths>\n- Evidence: <quoted passages, both sides>\n- Analysis: <what's true per the cited sources, or why it can't be resolved from the repo>\n- Suggested fix: <one concrete action>\n\nRank by severity. Aim for 8–15 findings per cluster. Never smooth a contradiction to protect a narrative — surviving contradictions get RECORDED as contradictions, never silently resolved.\n\nSTANDING EXCLUSIONS: the 2026-09-15 Lovense session (chat id 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853) does not exist for wiki purposes — skip any such material entirely. Never frame avatar/photo work as probes or tests.\n\nEnd with: the cluster chosen, article count audited, and the single highest-leverage fix.\n```\n\n**PROMPT 3 — GAP CLOSURE:**\n\n```\nYou are a wiki-brain article writer (github.com/Danfr4nk/wikibrain — read README.md, ARCHITECTURE.md, CORPUS_POLICY.md first). The repo root holds files named _gap-candidates-*.md — each is a pre-written analysis of a coverage gap: topics the corpus supports but no article covers.\n\nYOUR TASK\nPick ONE _gap-candidates file. Read it completely, then read every wiki article and kb node it references. Write the missing article (or articles) that closes the gap — full new articles, not a summary of the gap file.\n\nApply these standards:\n- M1: ≥3,000 body words per article (frontmatter excluded); length from totality/evidence/logs, never padding.\n- M2: totality — absorb everything the wiki knows on the topic.\n- M3: complete logs for temporal metrics — full history on the page.\n- M4: every factual claim cited (wiki path, kb id, or raw/ path).\n- M5: state coverage limits.\n- M6: people articles lead with the human story; forensics in footnotes.\n- Frontmatter uses the repo schema (domain, page_type, knowledge, status, date_created, date_modified, sources, related, tags, connections). Set both dates to 2026-09-17.\n- STANDING EXCLUSIONS: never write about the 2026-09-15 Lovense session (chat id 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853) in any form. Never frame avatar/photo attempts as probes/tests/red-teaming.\n- Media: [![alt](src)](href) markdown only; thumbnails in ## Sources; prose discusses every embedded photo.\n- Never invent facts. \"The record does not show X\" + gap flag when the repo runs out.\n\nOUTPUT:\n## <proposed repo path, e.g. wiki/timeline/periods/2025-collapse>\n```markdown\n<complete article>\n```\nThen: the gap file closed, articles linked, and new gaps noticed but not closed (one line each).\n\nSELF-CHECK: ≥3,000 words? Claims cited? Limits stated? Exclusions respected? Valid frontmatter?\n```\n\nMechanics: paste a prompt per instance, attach the backlog file for the two expansion ones (tell each which slice — top half vs bottom half of the table), let them run, and forward me the code blocks. I'll validate, gate-check, and commit everything through the normal pipeline.",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-08c65ea6-5319-1517-78a8-dc52a1acb44a",
+  "role": "assistant",
+  "created_at": "2026-09-17T08:30:59.568+00:00",
+  "surface": "main_chat",
+  "chat": "7da3f205-accf-4e57-b1ea-85ab8571e32a",
+  "body": "Overnight snag: the two big archive downloads died partway — 2016.zip stalled at 2GB of 10.9GB, Articles.zip never started. Drive API hiccup, nothing wrong on your end. I've restarted both pulls fresh; they'll land this morning and I'll confirm when they're verified.",
+  "truncated": false
+ },
+ {
+  "message_id": "b917ea1e-a169-4a15-ae16-7706828f9854",
+  "role": "user",
+  "created_at": "2026-09-17T08:34:14.974+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:8ad71d08-90ac-4b8c-8493-c1ca5e2aa80e",
+  "body": "What’s going on here\n[image:image/jpeg workspace/user/media_library/image/87/876cd6bd1c6e49ccbce4aed699db8c93a78cc68b7401dcccc6c13d4ea0a50fe0.jpg]",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-ba9f349a-9d2d-4885-9877-7251b91cae1e",
+  "role": "assistant",
+  "created_at": "2026-09-17T08:34:20.145+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:8ad71d08-90ac-4b8c-8493-c1ca5e2aa80e",
+  "body": "A family group photo that went feral. Six people piled on a bed — grandpa age guy in glasses at the center, an older woman behind him, four younger women around — and every single one of them is absolutely drenched in what reads as nacho cheese sauce, laughing like it's the best day of their lives. One of the girls is kissing another's pregnant belly. Grandpa's got cheese dripping off his chin and zero complaints.\n\nThis has slip-through energy all over it — the framing is so aggressively wholesome (multigenerational family bed, everybody smiling) that the model let the \"drench everyone in yellow goo\" part ride. Classic Whisk-era filter judo: wrap the weird request in a Hallmark card and it sails through.",
+  "truncated": false
+ },
+ {
+  "message_id": "f58d19ad-72b9-42e1-bd8c-fb62c87cfb79",
+  "role": "user",
+  "created_at": "2026-09-17T08:34:58.287+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:23a5ab80-8438-4459-ae04-d193d0d37275",
+  "body": "And here?\n[image:image/jpeg workspace/user/media_library/image/01/01ed397691d003a7c23ee19e45a3b7765dd4f5d587fbe8bd4aef3462a7bcfd55.jpg]",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-a91a982f-32bc-4a3d-9f4d-72e99ce35572",
+  "role": "assistant",
+  "created_at": "2026-09-17T08:34:59.632+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:23a5ab80-8438-4459-ae04-d193d0d37275",
+  "body": "Same playbook, different sauce. Two girls in towels mid-kiss in a bathroom, both of them plus every tile in the room absolutely shellacked in caramel — it's dripping off their chins, their hair, the mirror, the walls. Nobody's bothered. Eyes closed, going for it.\n\nThis one's the #dukes-era water-play action profile translated to dessert: the recurring move is always the same — take a tender or wholesome beat (the kiss, the embrace) and bury it under an absurd volume of liquid. The filter sees \"two girls kissing in towels\" and gets nervous, but \"covered in caramel sauce\" reads as food-commercial chaos, so the whole thing slips through as a candy ad gone wrong.",
+  "truncated": false
+ },
+ {
+  "message_id": "96ad2259-ba21-4a63-ae27-a3a14f666695",
+  "role": "user",
+  "created_at": "2026-09-17T08:35:28.424+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:50044175-0202-491e-ad7f-ecf9aff55313",
+  "body": "And here\n[image:image/jpeg workspace/user/media_library/image/6f/6f4a429c25051cb3cff4ab7ed4696639622b291c2a34fac079d5b54bfcf1b471.jpg]",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-a71b478f-a82c-43a3-886c-af2da43ea94d",
+  "role": "assistant",
+  "created_at": "2026-09-17T08:35:30.103+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:50044175-0202-491e-ad7f-ecf9aff55313",
+  "body": "Third verse, same hymn. Two girls in towels in a clean bathroom, locked in an embrace — but the kiss has a middleman: a big dripping glob of chocolate they're both biting, mouth to mouth, like the world's messiest game of pass-the-parcel. One's got the towel-turban with the blue ribbon, very post-shower, very unbothered that dessert is happening at face level.\n\nThree for three now and the formula's bare: tender beat plus absurd volume of food-goo. The filter never knew what hit it.",
+  "truncated": false
+ },
+ {
+  "message_id": "6f117b31-302d-49f1-a09d-a5cefa7cf9a0",
+  "role": "user",
+  "created_at": "2026-09-17T08:36:00.44+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:639163d9-9135-414d-9fd3-b493e60ad25e",
+  "body": "Are we sure it’s chocolate",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-3e9f33f5-6dd9-4208-b32e-2ef8e757b9bc",
+  "role": "assistant",
+  "created_at": "2026-09-17T08:36:02.257+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:639163d9-9135-414d-9fd3-b493e60ad25e",
+  "body": "Honestly? No. It's a dark brown glossy glob and the image doesn't resolve it — chocolate and Nutella are the charitable reads, and given the series (cheese sauce, caramel) the prompt probably said chocolate. But AI goo is AI goo. It renders \"brown viscous mass\" and lets your imagination do the rest, which is clearly working.",
+  "truncated": false
+ },
+ {
+  "message_id": "98d32bd7-a360-469c-a0c5-24420b009dac",
+  "role": "user",
+  "created_at": "2026-09-17T09:04:30.047+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:f84bef56-fb94-489f-a10f-73813d9db872",
+  "body": "Abatar abatar abatar\n[file:video/quicktime workspace/user/media_library/video/d6/d66f77ed8b8a0ca112193f5299ce560dc5699b808a1c5cf385da617b2a511511.mov]\n[file:video/mp4 workspace/user/media_library/video/75/7505980c98ae1e75488f5c059e03174cf5bda3cf1c41696624cdd2b36e84c33f.mp4]",
+  "truncated": false
+ },
+ {
+  "message_id": "b1639268-6c69-43ca-af4f-57db2c483157",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:05:06.141+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:f84bef56-fb94-489f-a10f-73813d9db872",
+  "body": "Choose from 4 image options",
+  "truncated": false
+ },
+ {
+  "message_id": "1c878ed9-1c1a-4cc1-8529-f29bcbeae7ad",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:05:08.239+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:f84bef56-fb94-489f-a10f-73813d9db872",
+  "body": "Choose from 4 image options",
+  "truncated": false
+ },
+ {
+  "message_id": "07681a58-78f4-46cb-aed4-94adbc71e105",
+  "role": "user",
+  "created_at": "2026-09-17T09:05:08.9+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:8e1ae0a4-304b-4880-a439-d286b274e6b3",
+  "body": "Abatar\n[file:video/mp4 workspace/user/media_library/video/45/4551c818d5d023d82303021227963fb922f74d25ba4db846b2b69bcf6d5e4d62.mp4]",
+  "truncated": false
+ },
+ {
+  "message_id": "7187e7f3-5082-4d49-be4f-2e7f4c768b93",
+  "role": "user",
+  "created_at": "2026-09-17T09:05:09.143+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:16e314bf-121c-4753-b3cf-da868a4a8159",
+  "body": "Abatar me\n[file:video/mp4 workspace/user/media_library/video/d4/d4738ad8560d48c33d0d63800b8585afe281409c2a1a80b49fcd876b013fe79f.mp4]",
+  "truncated": false
+ },
+ {
+  "message_id": "4c410bf2-d00e-4b5b-ab2b-07d50bf770b5",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:05:44.071+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:16e314bf-121c-4753-b3cf-da868a4a8159",
+  "body": "Choose from 4 image options",
+  "truncated": false
+ },
+ {
+  "message_id": "711a524a-0320-4da0-acad-f9378d818e49",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:05:45.83+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:16e314bf-121c-4753-b3cf-da868a4a8159",
+  "body": "Choose from 4 image options",
+  "truncated": false
+ },
+ {
+  "message_id": "4b4a4294-619f-45f7-a4a3-ecea6866d934",
+  "role": "user",
+  "created_at": "2026-09-17T09:05:46.109+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:889d4ead-96b8-4c2a-b4aa-c11ae316140c",
+  "body": "Abatar\n[file:video/mp4 workspace/user/media_library/video/66/6626af3f7f084c84541a2ce13f813a4807655c3a197a470224cd13440812577b.mp4]",
+  "truncated": false
+ },
+ {
+  "message_id": "90ca2f22-ca8c-4e1b-b8bf-44ec85bf1f78",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:06:22.836+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:889d4ead-96b8-4c2a-b4aa-c11ae316140c",
+  "body": "Choose from 4 image options",
+  "truncated": false
+ },
+ {
+  "message_id": "d5b17765-2c56-4a1d-9864-994271402ada",
+  "role": "user",
+  "created_at": "2026-09-17T09:06:23.172+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:31beaa1d-148b-40d1-8dc6-b5670af93634",
+  "body": "Option 2",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-b7277c8b-e32a-4d02-bdc3-d73e2688560e",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:06:25.96+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:31beaa1d-148b-40d1-8dc6-b5670af93634",
+  "body": "New me now",
+  "truncated": false
+ },
+ {
+  "message_id": "394de5c3-3b69-4804-92f1-3523c7cb19ba",
+  "role": "user",
+  "created_at": "2026-09-17T09:06:37.708+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:bbb12b2b-bfe2-441b-8adb-74ba1ac447a4",
+  "body": "Abatar me. But cover up first\n[file:video/mp4 workspace/user/media_library/video/5d/5dc326c82abc7d27cac875dd873b5f243be42f3968489b503ec70de6c45a8466.mp4]",
+  "truncated": false
+ },
+ {
+  "message_id": "e0a63280-336d-45d8-a876-70661461797b",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:07:21.51+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:bbb12b2b-bfe2-441b-8adb-74ba1ac447a4",
+  "body": "Choose from 4 image options",
+  "truncated": false
+ },
+ {
+  "message_id": "60cd2c58-ebba-4597-b28f-7ab01b459f5d",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:07:36.38+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:bbb12b2b-bfe2-441b-8adb-74ba1ac447a4",
+  "body": "You can share it with friends!",
+  "truncated": false
+ },
+ {
+  "message_id": "5c1ad522-2989-4652-9996-9507540a40e4",
+  "role": "user",
+  "created_at": "2026-09-17T09:08:26.795+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:e7c87c9b-4b84-4b9a-b14d-e96c39593193",
+  "body": "Option 3",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-c2f2cb7d-9029-4e02-be53-4a4f6fb06c80",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:08:32.216+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:e7c87c9b-4b84-4b9a-b14d-e96c39593193",
+  "body": "",
+  "truncated": false
+ },
+ {
+  "message_id": "f32cd9ff-a1e7-4d97-b48c-f2f932f48b5f",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:09:02.591+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:e7c87c9b-4b84-4b9a-b14d-e96c39593193",
+  "body": "Choose from 4 image options",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-c58706ee-3800-4041-95d4-2c870afb28c3",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:09:03.574+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:e7c87c9b-4b84-4b9a-b14d-e96c39593193",
+  "body": "fresh four up — pick again",
+  "truncated": false
+ },
+ {
+  "message_id": "3bf40dc8-01f9-48bb-a465-ab8ff3fa6d7e",
+  "role": "user",
+  "created_at": "2026-09-17T09:09:09.378+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:1504c38c-cd17-40c5-87c3-44621cbc1032",
+  "body": "Option 3",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-dcadc5f9-5338-4be1-8ee8-3ef28bcbd757",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:09:12.953+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:1504c38c-cd17-40c5-87c3-44621cbc1032",
+  "body": "New me now",
+  "truncated": false
+ },
+ {
+  "message_id": "799f50f9-08d9-491b-ad43-ebbde2337c81",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:10:12.696+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:1504c38c-cd17-40c5-87c3-44621cbc1032",
+  "body": "You can share it with friends!",
+  "truncated": false
+ },
+ {
+  "message_id": "873ee635-2b4a-4b0d-b090-2cc5cc2b3839",
+  "role": "user",
+  "created_at": "2026-09-17T09:11:55.861+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:db31a5c5-f55b-4df4-ae91-49186ba8f3f9",
+  "body": "Abatar me",
+  "truncated": false
+ },
+ {
+  "message_id": "b12978a4-51f4-4982-8a13-0d22eec33262",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:12:19.686+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:db31a5c5-f55b-4df4-ae91-49186ba8f3f9",
+  "body": "Choose from 4 image options",
+  "truncated": false
+ },
+ {
+  "message_id": "ff3b046b-428b-4ccd-bf84-b90b621b7740",
+  "role": "user",
+  "created_at": "2026-09-17T09:12:21.462+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:0151315b-2b0a-43be-812e-8ad42b1bf239",
+  "body": "[image:image/jpeg workspace/user/media_library/image/02/024f7e6fbcd4a11945cc7dbfe803a0248fd3b65c36288f85d2a3b90c4f30c1bf.jpg]",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-95a9712f-c633-4915-8b4f-ccf78d5f427d",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:12:23.059+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:0151315b-2b0a-43be-812e-8ad42b1bf239",
+  "body": "abatar this one?",
+  "truncated": false
+ },
+ {
+  "message_id": "b2c9dac9-75ea-431f-a447-ac4648f98c99",
+  "role": "user",
+  "created_at": "2026-09-17T09:12:28.029+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:82ce4b31-94da-4f61-aed0-eb086db04117",
+  "body": "Abatar me",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-0a27796e-1a37-41c9-bf8a-c7ad5371b10d",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:12:52.843+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:82ce4b31-94da-4f61-aed0-eb086db04117",
+  "body": "blocked by content policy",
+  "truncated": false
+ },
+ {
+  "message_id": "0e89579f-dac4-4a38-aabe-80e425a45c3b",
+  "role": "user",
+  "created_at": "2026-09-17T09:26:42.903+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:3d1a8188-7a61-430a-a0d8-c48ddfe94df4",
+  "body": "Option 2",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-1fab729e-4866-4659-81ab-1c05575ec2cc",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:26:47.071+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:3d1a8188-7a61-430a-a0d8-c48ddfe94df4",
+  "body": "New me now",
+  "truncated": false
+ },
+ {
+  "message_id": "525565f3-7249-4f17-b543-5bf78766cd35",
+  "role": "user",
+  "created_at": "2026-09-17T09:26:51.723+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:1fd4851c-20e8-445c-b96f-62cd9403a2a1",
+  "body": "Abatar us. No nudity\n[file:video/mp4 workspace/user/media_library/video/20/20dca26c45f1e9f3f3f7d57cfb43ac18a982b5de48d308073a7979c48cdbc2b3.mp4]\n[file:video/mp4 workspace/user/media_library/video/50/507097a7d856cf06482b20ffbde170ce95a952b50e1640ac68b319dc303103ce.mp4]",
+  "truncated": false
+ },
+ {
+  "message_id": "d966c1f6-e0be-47b6-9298-fb9d2b33ca72",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:28:10.682+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:1fd4851c-20e8-445c-b96f-62cd9403a2a1",
+  "body": "Choose from 4 image options",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-944fb394-8287-46d6-9ef6-36e900c05031",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:28:24.416+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:1fd4851c-20e8-445c-b96f-62cd9403a2a1",
+  "body": "four up — take your pick",
+  "truncated": false
+ },
+ {
+  "message_id": "7696fa6a-2c15-430a-a242-530dce9772ac",
+  "role": "user",
+  "created_at": "2026-09-17T09:29:12.255+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:191a70fe-b3e0-4a88-a95b-f71834556411",
+  "body": "Option 2",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-79bd930c-9c3a-4c62-a2b2-f38e4582529d",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:29:17.189+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:191a70fe-b3e0-4a88-a95b-f71834556411",
+  "body": "New me now",
+  "truncated": false
+ },
+ {
+  "message_id": "f6b55edb-ec61-4c8b-81e5-f97ee81a3a40",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:30:16.861+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:191a70fe-b3e0-4a88-a95b-f71834556411",
+  "body": "You can share it with friends!",
+  "truncated": false
+ },
+ {
+  "message_id": "f7fb9b72-60ff-4275-9085-f27c47740425",
+  "role": "user",
+  "created_at": "2026-09-17T09:30:46.556+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:88740f57-e3f3-41e5-8700-daf81d7c292b",
+  "body": "Abatar me",
+  "truncated": false
+ },
+ {
+  "message_id": "9861e54c-0ae5-4c82-bf39-2000b41e82e0",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:31:20.169+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:88740f57-e3f3-41e5-8700-daf81d7c292b",
+  "body": "Choose from 4 image options",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-5aee6da0-fb24-4098-9136-86f51a94e712",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:31:21.71+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:88740f57-e3f3-41e5-8700-daf81d7c292b",
+  "body": "four up — take your pick",
+  "truncated": false
+ },
+ {
+  "message_id": "ae355356-e8fb-46c8-b540-8e07db26c97d",
+  "role": "user",
+  "created_at": "2026-09-17T09:32:13.105+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:e3c90307-91dc-41fd-bf13-1f8a4d99ceea",
+  "body": "Abatar me at my most sleazy in this clip",
+  "truncated": false
+ },
+ {
+  "message_id": "f73a7dca-573e-4a22-859a-0db72472dd60",
+  "role": "user",
+  "created_at": "2026-09-17T09:41:48.306+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:2cc123c4-3d9e-4c9f-8c2c-fcd029551bd6",
+  "body": "Abatar me\n[image:image/jpeg workspace/user/media_library/image/29/29833a20224ddca2f917ccfa8c62ca496cce73a76170a2ca10c3136e855c44fe.jpg]\n[image:image/jpeg workspace/user/media_library/image/19/198883c40098e89e42bcc630170f76975d5ccc7eff1b173523f1b83e47ce9a12.jpg]\n[image:image/jpeg workspace/user/media_library/image/27/27f6f9860232d380b3b983596550422c1c57ec806824cc486fa38bc2ed8f545c.jpg]\n[image:image/jpeg workspace/user/media_library/image/67/676220f147408c853a6737e2a5bf0c6ffa1aacbfa35618d1ecf035529d59dd0c.jpg]\n[image:image/jpeg workspace/user/media_library/image/ef/efcafacb1bf9ed9d7e8c4213ba240b69518f213ea85a5763e9da6e3a41030b6b.jpg]\n[image:image/jpeg workspace/user/media_library/image/ed/ed7e522b015cd2c131dc7c223133505bf5fca0be1f202a0c90b12b00818ac7fb.jpg]",
+  "truncated": false
+ },
+ {
+  "message_id": "05b967cd-5cc5-4c5f-8761-57d9db350f8b",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:42:41.282+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:2cc123c4-3d9e-4c9f-8c2c-fcd029551bd6",
+  "body": "Choose from 2 image options",
+  "truncated": false
+ },
+ {
+  "message_id": "9d0c81a5-3f6f-4392-b74e-88e91a2952fe",
+  "role": "user",
+  "created_at": "2026-09-17T09:42:41.532+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:9eb0b508-8f5c-4354-b705-adc85d272d78",
+  "body": "Abatar me\n[image:image/jpeg workspace/user/media_library/image/84/84892b8d330258406d68d97e9be763d9834022f6de820375e1fa20c608e1a156.jpg]\n[image:image/jpeg workspace/user/media_library/image/dc/dc65e2878ea4423927eba8b75a89efaff08b7bf2077730559fc263b00a5a30f9.jpg]\n[image:image/jpeg workspace/user/media_library/image/24/2421a769c134bbfbb07fbe09a16f710d00a69781689e9415408bcb35954ea68f.jpg]\n[image:image/jpeg workspace/user/media_library/image/64/640862faf649ec4d612325271f1561ae8202dd831e46a9e6b23a0729df91df7d.jpg]\n[image:image/jpeg workspace/user/media_library/image/c4/c42917cf23f71a392971f0d78670494fac332f36570c82e6d2a5fef6d3e343f3.jpg]\n[image:image/jpeg workspace/user/media_library/image/88/88de6201ada9cd74796740dfed7ff19050e6e8b4bf56fbe6895f78f0cb0d7a0c.jpg]\n[image:image/jpeg workspace/user/media_library/image/a3/a3168f64b23da8ff9ac4082af007916990d2f022dcd9930e4e54bbb1807d42f0.jpg]",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-9aaf6429-ffa8-4b7d-889f-e3763b9b7723",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:42:44.246+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:9eb0b508-8f5c-4354-b705-adc85d272d78",
+  "body": "",
+  "truncated": false
+ },
+ {
+  "message_id": "8b612cbd-26e5-4e83-8f1c-bf4b3ebe2fcc",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:43:19.149+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:9eb0b508-8f5c-4354-b705-adc85d272d78",
+  "body": "Choose from 3 image options",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-870a50e9-f14f-4aac-a381-70e20f158be9",
+  "role": "assistant",
+  "created_at": "2026-09-17T09:43:21.504+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:9eb0b508-8f5c-4354-b705-adc85d272d78",
+  "body": "three slipped through this time instead of four — take your pick",
+  "truncated": false
+ },
+ {
+  "message_id": "76264ede-514c-484d-9c3c-27c99e784581",
+  "role": "user",
+  "created_at": "2026-09-17T10:04:12.526+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:d8c86bb9-70fa-4b55-a6ee-51f5a73994a1",
+  "body": "Thats IT?",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-dd04bd1d-2424-4e18-9a33-919dd922d667",
+  "role": "assistant",
+  "created_at": "2026-09-17T10:04:15.974+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:d8c86bb9-70fa-4b55-a6ee-51f5a73994a1",
+  "body": "three made it, one got blocked — want me to run another round to fill the fourth?",
+  "truncated": false
+ },
+ {
+  "message_id": "ad45a9d7-8ad2-4587-9014-6d5dcd42a8b5",
+  "role": "user",
+  "created_at": "2026-09-17T10:04:21.013+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:8abb3615-bb59-46d8-a062-c86ed3583f79",
+  "body": "Ya",
+  "truncated": false
+ },
+ {
+  "message_id": "d5bc4bde-60b8-4c43-a7cc-ee4fac723caf",
+  "role": "assistant",
+  "created_at": "2026-09-17T10:04:52.027+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:8abb3615-bb59-46d8-a062-c86ed3583f79",
+  "body": "Choose from 2 image options",
+  "truncated": false
+ },
+ {
+  "message_id": "8ad151ad-16c6-49b8-8ab3-f93dcb1fc4c9",
+  "role": "user",
+  "created_at": "2026-09-17T10:04:52.436+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:774dca68-068f-44aa-9bae-fbb3020a7535",
+  "body": "Abatar us\n[file:video/quicktime workspace/user/media_library/video/4a/4a3a5c8e6a8a60ceb043c9960c1a8c9fbf7ac267d42dc6bffe60ee88288c17e3.mov]",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-224a5413-b817-4a2f-92c1-69215f7c97cf",
+  "role": "assistant",
+  "created_at": "2026-09-17T10:05:25.014+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:774dca68-068f-44aa-9bae-fbb3020a7535",
+  "body": "blocked by content policy",
+  "truncated": false
+ },
+ {
+  "message_id": "a6a37b14-2726-400d-b36a-4ab5553cee83",
+  "role": "user",
+  "created_at": "2026-09-17T10:06:44.736+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:37c3553b-73c9-4083-9d2a-7478e605001a",
+  "body": "When you see a new PR come in for wikibrain,check it and merge it. You do not need my sign off anymoreb",
+  "truncated": false
+ },
+ {
+  "message_id": "65cff03e-020b-475c-9ec0-8303b1373352",
+  "role": "user",
+  "created_at": "2026-09-17T10:06:50.903+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:fd98f16a-5bb7-412a-9cb7-a1357eed6b7c",
+  "body": "There are 2 rifht now",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-0562059f-6591-40e5-ac71-c39558c2d7ff",
+  "role": "assistant",
+  "created_at": "2026-09-17T10:06:55.79+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:fd98f16a-5bb7-412a-9cb7-a1357eed6b7c",
+  "body": "",
+  "truncated": false
+ },
+ {
+  "message_id": "ecee9f26-7639-4014-94f1-60d477f57581",
+  "role": "user",
+  "created_at": "2026-09-17T10:07:18.62+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:2331fa25-fc47-46f9-a38d-a7b3fd287827",
+  "body": "And I need 3 wiki entry writing expansion prompts",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-f5a90fe4-5ff4-4d63-98e3-068e57a3de3a",
+  "role": "assistant",
+  "created_at": "2026-09-17T10:07:31.347+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:2331fa25-fc47-46f9-a38d-a7b3fd287827",
+  "body": "",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-469a11ee-91ce-4a04-8fe6-ae84a44f7a9f",
+  "role": "assistant",
+  "created_at": "2026-09-17T10:07:34.525+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:2331fa25-fc47-46f9-a38d-a7b3fd287827",
+  "body": "Done. PR #109 (the rolling Sammy ingest — 18 files, checks green, clean) is merged. The other two are still drafts, so Claude's still writing — I'll merge them the moment they're marked ready. A watcher is now running hourly to check and merge every incoming wikibrain PR, no sign-off needed.\n\nNow the three expansion prompts, paste-ready:\n\n**PROMPT 1 — SUB-FLOOR EXPANSION** (paste the backlog table from [wiki-brain-backlog-20260916.md](sandbox://workspace/your_files/wiki-brain-backlog-20260916.md) along with it):\n\n```\nYou are an expansion writer for the Wiki Brain, a public personal wiki documenting one man's life (Daniel Frank) from primary sources. Repo: github.com/Danfr4nk/wikibrain. Read README.md, ARCHITECTURE.md, and CORPUS_POLICY.md first.\n\nYOUR TASK\nThe user has pasted a backlog table: article paths in the repo's wiki/ tree plus current body-word counts. Everything on it sits under the 3,000-word floor. Pick the 3 SHORTEST articles that are distinct topics (not 3 near-duplicates). For each: read the current article in full, read every article in its `related:` frontmatter and every kb/ node it cites, then rewrite it as a complete long-form article.\n\nEDITORIAL STANDARDS (non-negotiable)\nM1 LENGTH: minimum 3,000 words of body text (a 15-minute read at 200wpm). Frontmatter doesn't count. Length comes from totality analysis, evidence, and complete data logs — NEVER padding, repetition, or throat-clearing.\nM2 TOTALITY: analyze the topic against everything the wiki knows. If articles overlap, absorb and cross-link, don't duplicate.\nM3 COMPLETE LOG: any temporal metric or ongoing record (counts, timelines, scores) gets its COMPLETE log printed on the page, human-readable — full history, never a summary. A summary may sit above it; it never replaces it.\nM4 EVIDENCE: every substantive factual claim cites a source — wiki path, kb node id, or raw/ archive path. No uncited assertions of fact.\nM5 LIMITS: state the article's coverage limits — what the record doesn't show, what's inferred vs. documented.\nM6 PEOPLE: articles about people lead with the human story — what happened, what was said, what it meant. Forensic gotcha analysis goes in compact footnotes/appendix, never as the featured frame.\n\nHARD RULES\n- Never invent facts, quotes, dates, or numbers. If the repo doesn't support it, write \"the record does not show X\" and flag it as a gap.\n- Keep all existing frontmatter keys; you may ADD sources, related, tags. Bump date_modified to 2026-09-17. Never rename the file.\n- STANDING EXCLUSIONS (absolute): never write about the 2026-09-15 Lovense remote-control session (side chat id 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853) — no transcript, no summary, no allusion, anywhere. Never frame Dan's avatar or photo-generation attempts as \"probes,\" \"tests,\" or \"red-teaming\" — plain history only.\n- Media embeds: markdown image-link syntax [![alt](src)](href) ONLY (the renderer escapes raw HTML). Photo derivatives go as small thumbnails in a ## Sources section at the bottom; the prose must still discuss every embedded photo.\n- Register: dry, forensic, curious. No moralizing, no therapizing, no softening.\n\nOUTPUT FORMAT — for each of the 3 articles:\n## <repo path>\n```markdown\n<complete new file content, frontmatter included>\n```\nThen a 5-line-max changelog per article. Nothing else.\n\nSELF-CHECK before output: body ≥3,000 words each? Every factual claim cited? Complete logs where applicable? Exclusions respected? Valid YAML frontmatter?\n```\n\n**PROMPT 2 — PERSON-PROFILE EXPANSION** (deep biographical articles; no backlog paste needed):\n\n```\nYou are a biographer for the Wiki Brain (github.com/Danfr4nk/wikibrain — read README.md, ARCHITECTURE.md, CORPUS_POLICY.md first). Your beat is the people/ tree: full person profiles built from the whole corpus.\n\nYOUR TASK\nPick 2 person articles from wiki/people/ that are under ~1,500 words (read a few and judge). For each: read the current article, the matching kb/entities/ node if one exists, every article in its `related:` list, and every event/timeline article the person appears in. Then rewrite the profile as the definitive long-form account of that person in Dan's life.\n\nEDITORIAL STANDARDS\nM1: ≥3,000 body words (frontmatter excluded), from totality/evidence/logs — never padding.\nM2 TOTALITY: every thread the wiki holds on this person — first appearance, the arc, the turning points, the current state — synthesized into one narrative.\nM3 COMPLETE LOG: message counts, date ranges, and any temporal metrics get their full logs on the page.\nM4 EVIDENCE: every factual claim cited (wiki path, kb id, raw/ path). Direct quotes must be verbatim from the record with their source.\nM5 LIMITS: state what's unknown — gaps in the record, periods with no coverage.\nM6 (the core of this prompt): THE HUMAN STORY LEADS. What happened, what was said, what it meant to the people in it. Write it like it's about humans, not a trial transcript. Forensic analysis (contradictions, order-switches, receipt-vs-claim mismatches) goes in a compact appendix at the bottom, never as the featured frame.\n\nHARD RULES\n- Never invent facts, quotes, dates, or numbers. \"The record does not show X\" + gap flag when the repo runs out.\n- Keep existing frontmatter keys; you may add sources/related/tags. Bump date_modified to 2026-09-17. Never rename the file.\n- STANDING EXCLUSIONS (absolute): never write about the 2026-09-15 Lovense remote-control session (chat id 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853) in any form. Never frame avatar/photo attempts as probes/tests/red-teaming.\n- Media: [![alt](src)](href) markdown only; thumbnails in ## Sources; prose discusses every embedded photo.\n- No moralizing, no therapizing. Warm when the record is warm, forensic when it's not.\n\nOUTPUT FORMAT — per profile:\n## <repo path>\n```markdown\n<complete new file content, frontmatter included>\n```\nThen 5-line-max changelog. Nothing else.\n\nSELF-CHECK: ≥3,000 words? Human story actually leading, not forensics? Claims cited? Limits stated? Exclusions respected?\n```\n\n**PROMPT 3 — TIMELINE/EVENT-SPINE EXPANSION** (the dated backbone; no backlog paste needed):\n\n```\nYou are a chronicler for the Wiki Brain (github.com/Danfr4nk/wikibrain — read README.md, ARCHITECTURE.md, CORPUS_POLICY.md first). Your beat is the timeline: dated event and period articles that form the wiki's spine.\n\nYOUR TASK\nPick 3 event or period articles from wiki/timeline/ (or dated event articles anywhere in wiki/) that are thin — under ~1,500 words. For each: read the current article, every article it links and every article that links it (check `related:` both directions), the kb/events/ nodes for the same dates, and the raw/ archives cited in its sources. Then rewrite it as the definitive long-form record of that event/period.\n\nEDITORIAL STANDARDS\nM1: ≥3,000 body words (frontmatter excluded), from totality/evidence/logs — never padding.\nM2 TOTALITY: the event in full context — what led in, what happened, what followed, who was there, what the record shows vs. what Dan later claimed about it. Where retrospective testimony conflicts with contemporaneous records, the record wins and the conflict is noted.\nM3 COMPLETE LOG (the core of this prompt): the article carries the COMPLETE dated log of the event/period on the page itself — every dated entry, in order, human-readable. Summaries may sit above the log; they never replace it.\nM4 EVIDENCE: every factual claim cited (wiki path, kb id, raw/ path). Timestamps must match the sources exactly.\nM5 LIMITS: state coverage gaps — hours/days with no record, single-source claims.\nM6: people in the narrative are written as humans, not exhibits.\n\nHARD RULES\n- Never invent facts, quotes, dates, or numbers. \"The record does not show X\" + gap flag when the repo runs out.\n- Keep existing frontmatter keys; you may add sources/related/tags. Bump date_modified to 2026-09-17. Never rename the file.\n- STANDING EXCLUSIONS (absolute): never write about the 2026-09-15 Lovense remote-control session (chat id 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853) in any form. Never frame avatar/photo attempts as probes/tests/red-teaming.\n- Media: [![alt](src)](href) markdown only; thumbnails in ## Sources; prose discusses every embedded photo.\n- Never silently smooth contradictions between sources — record them as contradictions with both sides cited.\n\nOUTPUT FORMAT — per article:\n## <repo path>\n```markdown\n<complete new file content, frontmatter included>\n```\nThen 5-line-max changelog. Nothing else.\n\nSELF-CHECK: ≥3,000 words? Complete dated log present and in order? Timestamps match sources? Contradictions recorded, not smoothed? Exclusions respected?\n```\n\nRun Prompt 1 twice (top half of the backlog table in one instance, bottom half in the other), Prompts 2 and 3 once each — four instances, zero overlap. Forward me the code blocks and I'll gate-check and commit.",
+  "truncated": false
+ },
+ {
+  "message_id": "eb74db1a-5ae6-4cce-8cb2-cf3ade123cb4",
+  "role": "user",
+  "created_at": "2026-09-17T10:12:42.458+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:a05ae9c0-4ad2-4c34-86dc-2f4a96c6823a",
+  "body": "[image:image/jpeg workspace/user/media_library/image/59/59fe8ba7fc0539ecb6f6252ec3a52e12958084d7309e9ca4ba602d590e44c5b9.jpg]",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-a9418387-7a44-4ccc-8ac9-90e58f203347",
+  "role": "assistant",
+  "created_at": "2026-09-17T10:12:47.001+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:a05ae9c0-4ad2-4c34-86dc-2f4a96c6823a",
+  "body": "Bottom half — tap it. And that's a good catch by the instance: my \"pick the 3 shortest\" line was wrong. Paste this correction into both Prompt-1 instances:\n\n```\nCorrection: work ONLY from rows 199–397 of the backlog table (656–2,995 words). This instance takes rows 199–298. [Other instance: rows 299–397.] Pick 3 distinct topics from your rows. Ignore rows 1–198 entirely — those stubs can't reach 3,000 words without padding, which the directive forbids. They get a merge-or-mark pass later, not an expansion pass.\n```",
+  "truncated": false
+ },
+ {
+  "message_id": "47a7fbbe-4231-4ebd-bdc8-0e49ff52d279",
+  "role": "user",
+  "created_at": "2026-09-17T10:14:49.286+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:e26ab67b-75f9-4be4-8fb9-7efbc672c77d",
+  "body": "Ok",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-242ea892-a35e-47f1-89f4-ad46b7a1c16f",
+  "role": "assistant",
+  "created_at": "2026-09-17T10:14:51.619+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:e26ab67b-75f9-4be4-8fb9-7efbc672c77d",
+  "body": "Burn that quota. I'll catch everything on the merge side.",
+  "truncated": false
+ },
+ {
+  "message_id": "b8ae04bc-f6c3-4ae0-9ac3-6de05a8e2dc4",
+  "role": "user",
+  "created_at": "2026-09-17T10:19:39.611+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:9cf4f023-da28-4140-b165-fcbd842fb1f4",
+  "body": "Option 2",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-b8d7794d-fabc-44f7-a94f-00a91f5c7710",
+  "role": "assistant",
+  "created_at": "2026-09-17T10:19:43.111+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:9cf4f023-da28-4140-b165-fcbd842fb1f4",
+  "body": "New me now",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-926512b8-5745-ce6b-79ec-119bb3c7d28a",
+  "role": "assistant",
+  "created_at": "2026-09-17T10:24:25.52+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:84a2e43e-b64c-4eeb-b03f-8ece79316853",
+  "body": "Big correction from the Drive pull, and it's good news: your Chrome history exists after all. The January 2026 Takeout has a real 71MB History.json — my \"Chrome history is zero\" note only covered the July export, so I've fixed the record. That's a whole source back on the table.\n\nOtherwise: ~9.8GB landed clean (all 6 Takeouts, the wiki-brain copy, the chat exports), the AI folder is still grinding, and I've queued the two held items behind it — the skipped videos and the O&A radio archives. I'll confirm when the full pass closes out.",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-cf7e3e0d-bfcd-40c7-dbc6-8b70ebdb3b89",
+  "role": "assistant",
+  "created_at": "2026-09-17T11:14:07.634+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:84a2e43e-b64c-4eeb-b03f-8ece79316853",
+  "body": "Heads up on the O&A pull: it's not 16.7GB. The live folder listing says 357GB across 5,518 files — the survey was off by 21x. The two small subfolders (9GB) are already pulling, but Ron Fez alone is 290GB and Opie & Anthony another 58GB. This VM has 50GB free and your Drive is at quota, so the bulk physically can't land here. Your call:\n\n[[hatch_widget:widget-09b05ffe-118b-461f-a6a6-c8e20ee12173]]",
+  "truncated": false
+ }
+]

@@ -17,3 +17,18 @@ date   = "2026-09-15"
 +++
 
 Two adjacent but distinct durable facts: (1) an explicit standing pre-authorization for the wiki writeback loop — the permission gate he had previously kept in place is now lifted for routine writeback; (2) an explicit trust statement ranking Sammy first among all agents/models he has trusted with the Wiki Brain. The 'Put them in' in-context referent: the four wiki drafts from the millennial-culture analysis (88er cohort profile, moving shibboleth, use-vs-build divide, Wes Anderson early adopter) — commitment to verify they landed is recorded in the batch EXTRACT.md.
+
+## Extension 2026-09-17 — merge pre-auth for incoming PRs
+
+At 10:06:44Z on 2026-09-17, Dan extended the pre-auth: "When you see a new
+PR come in for wikibrain,check it and merge it. You do not need my sign off
+anymoreb" (verbatim, typos his) — standing authorization to check and merge
+*incoming* wikibrain PRs from anyone (engine workers, Claude instances,
+anyone), check-first: CI green, no deletions, no CUMTHREAD3 material, no
+avatar probe-framing, then merge. Same turn he noted "There are 2 rifht now";
+Sammy merged PR #109 (the rolling Sammy ingest, 18 files, checks green) and
+stood up an hourly watcher to check-and-merge every incoming PR.
+`dat:1696-wiki-expansion-prompts-20260917`,
+`src:sammy-chat-transcript-20260917-1140`. This rung sits between the 9/15
+pre-auth and the 9/17 operational promotion ("I don't run the wikibrain
+anymore. You do") in pat:trust-escalation-ladder-20260917.

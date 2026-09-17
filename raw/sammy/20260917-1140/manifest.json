@@ -1,0 +1,84 @@
+{
+ "batch": "20260917-1140",
+ "pulled_at_utc": "2026-09-17T11:55:10Z",
+ "files": {
+  "chats.json": {
+   "sha256": "85ab9733f7fd466bd304e675bd8eca13f9662b6ee5402d4debf6ccf70727c808",
+   "bytes": 47971
+  },
+  "instagram.json": {
+   "sha256": "90831732e2dad3b438d5be778351766f65c989e624c70b0b3a68216fb98319f9",
+   "bytes": 404
+  },
+  "threads.json": {
+   "sha256": "1d86b32229132b4ae9050af08c4b92163e2e8bc3cdbe2d05d291b5ed8b54c5e5",
+   "bytes": 368
+  },
+  "facebook.json": {
+   "sha256": "661882dbf4a45f109401864c49c2a7d8167910771f241960bfcf6dc9b7322af4",
+   "bytes": 340
+  },
+  "messenger.json": {
+   "sha256": "9beda8e8d8dd44b4cd019bec2e0efd6b3d3dede2bab3028859c4213ef4b9391e",
+   "bytes": 412
+  },
+  "spotify.json": {
+   "sha256": "537c8152b56c08ee1d798305cc4b0d0640e1be1c819ebeeb4f79292636ac9122",
+   "bytes": 467
+  },
+  "device.json": {
+   "sha256": "9c88a7b17c867f666d43d43659a7fd42b5f8e5643abe3a4b3037b17fc40c045e",
+   "bytes": 410
+  },
+  "EXTRACT.md": {
+   "sha256": "86f8fdc4a1224304dfcecea0707b6ce8c80d8273bccbbe32f4dd0c5a229df674",
+   "bytes": 3877
+  }
+ },
+ "sources": {
+  "chats": {
+   "watermark_from": "2026-09-17T07:36:22.371Z",
+   "watermark_to": "2026-09-17T11:14:07.634Z",
+   "count": 79,
+   "user": 32,
+   "assistant": 47,
+   "surface": "main_chat",
+   "chat_kind": "direct",
+   "verification": "two independent count queries 79=79; full bodies; 0 truncated; 0 duplicates; CUMTHREAD3 0 rows"
+  },
+  "instagram": {
+   "watermark_from": "2026-09-14T01:05:11Z",
+   "watermark_to": "2026-09-14T01:05:11Z",
+   "new_items": 0,
+   "note": "0 active own stories (18194479462390875 expired 2026-09-16T16:30:15Z); newest feed post 2026-08-26"
+  },
+  "threads": {
+   "watermark_from": "2026-08-26T23:04:55Z",
+   "watermark_to": "2026-08-26T23:04:55Z",
+   "new_items": 0
+  },
+  "facebook": {
+   "watermark_from": "2026-07-04T15:51:25-04:00",
+   "watermark_to": "2026-07-04T15:51:25-04:00",
+   "new_items": 0
+  },
+  "messenger": {
+   "watermark_from": "2026-08-26T22:23:43.707Z",
+   "watermark_to": "2026-08-26T22:23:43.707Z",
+   "new_items": 0,
+   "note": "sync fresh; only thread Kristin Shaelene PENDING 2026-09-09 (known)"
+  },
+  "spotify": {
+   "watermark_from": "snapshot-2026-09-14T19:50:00Z",
+   "watermark_to": "snapshot-2026-09-14T19:50:00Z",
+   "new_items": 0,
+   "note": "snapshot only: playback NONE; inventory pagination still unresolvable (98-vs-125 flag open)"
+  },
+  "device": {
+   "watermark_from": null,
+   "watermark_to": null,
+   "new_items": 0,
+   "note": "no read path for iOS texts (standing); iPhone offline, imessage permission not granted"
+  }
+ }
+}

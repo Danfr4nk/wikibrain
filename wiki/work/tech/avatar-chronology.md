@@ -117,9 +117,54 @@ now") and noted the face-average batch of four was also ready; Dan picked
 **Current state:** Dan's live avatar as of 06:53Z is the face-average option 2,
 superseding the 05:52Z bathing-suit pick. (dat:1690)
 
+---
+
+## 2026-09-17 session — 09:04–10:19Z: five "Option 2" picks, three content-policy blocks
+
+Session window 09:04:30–10:19:43Z (05:04–06:19 EDT), all in the main chat —
+the longest single avatar session in the record.
+
+**Rounds:**
+- 09:04:30Z "Abatar abatar abatar" + 2 videos → 4 options (3 "Choose from 4
+  image options" rows 09:05:06/08/44/45).
+- 09:06:23Z "Option 2" → "New me now" (09:06:25Z).
+- 09:06:37Z "Abatar me. But cover up first" + video → 4 options; 09:07:36Z
+  "You can share it with friends!"
+- 09:08:26Z "Option 3" → "Choose from 4 image options" → "fresh four up —
+  pick again" → 09:09:09Z "Option 3" → "New me now" → "You can share it
+  with friends!"
+- 09:11:55Z "Abatar me" → 4 options; 09:12:21Z photo → "abatar this one?";
+  09:12:28Z "Abatar me" → "blocked by content policy" (09:12:52Z).
+- 09:26:42Z "Option 2" → "New me now"; 09:26:51Z "Abatar us. No nudity" + 2
+  videos → 4 options; 09:29:12Z "Option 2" → "New me now" → "You can share
+  it with friends!"
+- 09:30:46Z "Abatar me" → 4 options; 09:32:13Z "Abatar me at my most sleazy
+  in this clip" (no media attached to the row).
+- 09:41:48Z "Abatar me" + 6 photos → "Choose from 2 image options";
+  09:42:41Z "Abatar me" + 7 photos → "Choose from 3 image options" ("three
+  slipped through this time instead of four — take your pick").
+- 10:04:12Z "Thats IT?" → "three made it, one got blocked — want me to run
+  another round to fill the fourth?" → 10:04:21Z "Ya" → "Choose from 2
+  image options".
+- 10:04:52Z "Abatar us" + video → "blocked by content policy" (10:05:25Z).
+- 10:19:39Z "Option 2" → "New me now" (10:19:43Z); the referent batch is
+  ambiguous in the record.
+
+**Read:** the batch-size default is 4, but it degrades mid-run (4 → 3 → 2
+options) with explicit "blocked by content policy" fills — three policy
+blocks total in-session. "Option 2" was picked five times; the 10:19:43Z
+"New me now" confirms a pick whose source batch cannot be resolved from the
+record, so the end-of-window live avatar is *not* cleanly superseding the
+06:53Z face-average option 2 state — recorded as ambiguous, not assumed.
+(dat:1699)
+
+---
+
 ## Sources
 
 - dat:1685-avatar-rounds-20260917
 - dat:1690-face-average-avatar-20260917
+- dat:1699-avatar-session-20260917-0904
 - src:1681 (batch 20260917-0830 transcript)
 - src:1688 (batch 20260917-0740 transcript)
+- src:sammy-chat-transcript-20260917-1140 (batch 20260917-1140 transcript)
