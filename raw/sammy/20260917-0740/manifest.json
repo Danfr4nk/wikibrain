@@ -1,0 +1,92 @@
+{
+ "batch": "20260917-0740",
+ "pulled_at_utc": "2026-09-17T07:50:00Z",
+ "files": {
+  "chats.json": {
+   "sha256": "0d4c9268279cd28673f13f3a43d34f774146f9c5d96f7caa640a8bee1ff4427a",
+   "bytes": 21596
+  },
+  "device.json": {
+   "sha256": "3145633c2e46a988c20f167a7bfe07e6e6e240ad8cebb7aba0a8b8ea56b7b832",
+   "bytes": 308
+  },
+  "facebook.json": {
+   "sha256": "facc984518092a0d96c9b0edde97bf67aa27c326101b60942cf27246744824ff",
+   "bytes": 397
+  },
+  "instagram.json": {
+   "sha256": "fe9a1d4b5c5c38103d60a65fff4adf92180de6a9f0af681f1c2c4cabffbd3585",
+   "bytes": 572
+  },
+  "messenger.json": {
+   "sha256": "3bb9247650cf3bae4a87841403b5e04a34a2e253c060a06058b3145d20f0747f",
+   "bytes": 528
+  },
+  "spotify.json": {
+   "sha256": "f0e73cf0844ebc30980c04bda72ddd01117ffe7771b2d1556dbb31cfb5b0ee9a",
+   "bytes": 1341
+  },
+  "threads.json": {
+   "sha256": "e0b3e36b4b86c1bb07ec1618fd2aab7a0de02909adc9eaf59d750ff7abda97ec",
+   "bytes": 403
+  },
+  "EXTRACT.md": {
+   "sha256": "ba1763f7bad055ebbc72556a3c41b48cc256d2d6fb90cb30f19ef7c6a32e35b7",
+   "bytes": 4651
+  }
+ },
+ "counts": {
+  "total": 64,
+  "user": 25,
+  "assistant": 39
+ },
+ "sources": {
+  "chats": {
+   "watermark_from": "2026-09-17T06:29:12.639000Z",
+   "watermark_to": "2026-09-17T07:36:22.371+00:00",
+   "rows": 64,
+   "dedupe": "dropped 90 rows already archived in batch 20260917-0830 (message_id set match)",
+   "cumthread3_exclusion": "verified: 0 rows from side chat 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853 in window (main_chat only)",
+   "byte_exact": "double-pull message_id + body-length verification, 64/64 match"
+  },
+  "instagram": {
+   "watermark_from": "2026-09-14T01:05:11Z",
+   "watermark_to": "2026-09-14T01:05:11Z",
+   "new_items": 0,
+   "checked_at_utc": "2026-09-17T07:45:30Z"
+  },
+  "threads": {
+   "watermark_from": "2026-08-26T23:04:55Z",
+   "watermark_to": "2026-08-26T23:04:55Z",
+   "new_items": 0,
+   "checked_at_utc": "2026-09-17T07:45:40Z"
+  },
+  "facebook": {
+   "watermark_from": "2026-07-04T15:51:25-04:00",
+   "watermark_to": "2026-07-04T15:51:25-04:00",
+   "new_items": 0,
+   "checked_at_utc": "2026-09-17T07:45:55Z"
+  },
+  "messenger": {
+   "watermark_from": "2026-08-26T22:23:43.707Z",
+   "watermark_to": "2026-08-26T22:23:43.707Z",
+   "new_items": 0,
+   "checked_at_utc": "2026-09-17T07:46:05Z"
+  },
+  "spotify": {
+   "watermark_from": "snapshot-2026-09-14T19:50:00Z",
+   "watermark_to": "snapshot-2026-09-17T07:48:00Z",
+   "new_items": 0,
+   "checked_at_utc": "2026-09-17T07:48:00Z",
+   "note": "playback NONE (unchanged); playlist-inventory count unresolvable via CLI (page-1 = 20 items, pagination never terminates) - 98-vs-125 flag carried open"
+  },
+  "device": {
+   "watermark_from": null,
+   "watermark_to": null,
+   "new_items": 0,
+   "checked_at_utc": "2026-09-17T07:47:30Z",
+   "note": "no text-message read path (standing)"
+  }
+ },
+ "notes": "Scrape batch. 90 overlap rows already archived in heartbeat batch 20260917-0830 dropped by message_id set match. Gmail excluded per Dan 2026-09-11. Avatar probe-framing carve-out held (plain avatar history only)."
+}

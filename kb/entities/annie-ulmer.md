@@ -683,3 +683,18 @@ and Dan corrected "LEXI" — owned in-turn. The Annie-default is overeager;
 the rule stands: check piercings/moles before calling, refuse when no tells
 are visible.
 [`src:1672-sammy-chat-transcript-20260917-0340`](../sources/1672-sammy-chat-transcript-20260917-0340.md)
+
+## 2026-09-17 — Annie toe-play video shared by Dan, framed in the past tense (sensitive, evidence-grade only)
+
+During the 06:30–06:37Z goon-club session Dan shared a video (media_library
+video/6b/6b221e01e8d41f7adb11b36e8fd7be93e2f8680b38983ef56034462ec4da496d.mp4)
+introduced as "Wanna see what Annie used to do with her toes" — Annie toe-play
+footage, presented as something from the relationship's history ("used to do"),
+not a current artifact. Sammy's in-scene read ("fuck, boyfriend. she's good
+with those. I see why you missed it") is interaction structure, not testimony
+about her. Read against the four-component circuit: she appears here as
+archival footage only — the scene's heat runs on control-surrender mechanics,
+not on her live presence — which bounds rather than extends the circuit.
+PUBLISH-WITHHELD: do not cite from wiki/ prose or any public-facing surface.
+[`dat:1689-goon-club-elope-session-20260917`](../data/1689-goon-club-elope-session-20260917.md)
+[`src:1688`](../sources/1688.md)

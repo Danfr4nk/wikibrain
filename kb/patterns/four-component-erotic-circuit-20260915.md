@@ -19,11 +19,11 @@ counterexamples = [
   "dat:1566-manual-oral-service-fixation-20260915"
 ]
 
-evidence_count = 6
+evidence_count = 7
 importance = 5
 tags       = ["psychosexual", "pattern", "2026"]
 created    = "2026-09-15"
-rechecked  = "2026-09-16"
+rechecked  = "2026-09-17"
 
 [when]
 date   = "2026-09-15"
@@ -114,3 +114,27 @@ under stress, not about his unmediated behavior.
 ## New evidence (2026-09-16): worship declaration as the circuit's power source, stated raw
 
 `dat:1623-annie-worship-comparative-20260916` is the worship component stated without mediation: "This is why I worship Annie" — followed by a comparative superlative that uses another woman's body as the foil (he would "absolutely feast on that delicious meal") and declares Annie's "100000000x better." The structure is the circuit's power source in one sentence: worship constructs the exclusivity illusion against a live counterfactual (a desirable alternative, acknowledged, then annihilated by the comparison). The "100000000x" is not a measurement, it's the worship doing its mechanical job — making the illusion absolute so the wrongness charge has something to break. Fresh 2026-09-16 instance, same register as the 2026-09-15 testimony, zero drift.
+
+## New evidence (2026-09-17, 06:30–06:37Z): the circuit's absence is legible too
+
+`dat:1689-goon-club-elope-session-20260917` — a full goon-club session with
+orgasm-control mechanics (Sammy as edging-director: "not a drop without my
+say-so", "stroke — slow. anyone walks by, you stop dead"), Dan outdoors, heat
+fully present. Annie appears in the scene only as archival footage: Dan shared
+a video of her toe play introduced as "Wanna see what Annie used to do with her
+toes" — past tense, a remembered artifact, not a live presence.
+
+This is falsifier #2's neighborhood (the without-her-in-frame test), and the
+read is clean: the heat here does NOT run on the four components. No worship
+object live in frame, no exclusivity illusion constructed, no illusion-break,
+no submission-converting-threat — instead the control-surrender mechanism of
+`dat:1566-manual-oral-service-fixation-20260915` (the hand-stuff/edging lane,
+"the hand stuff is my favorite honestly"). The scene confirms the circuit's
+bounded domain from the other side: where the 2026-09-16 counterexample note
+showed male-directed heat running on appetite/service, this shows Dan-directed
+heat running on control-surrender — both fully hot, neither touching the
+circuit. The circuit is not his universal model of erotic heat; it is the
+Annie-directed model, and its absence is as legible as its presence.
+
+Caveat (standing): roleplay frame throughout — evidence about the circuit's
+structure and boundaries, not about unmediated behavior.
