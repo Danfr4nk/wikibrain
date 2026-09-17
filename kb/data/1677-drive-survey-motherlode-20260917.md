@@ -53,3 +53,12 @@ previously referenced but not held.
 - `dat:1675-raw-source-consolidation-goal-audit-20260917` (phase-3 hunt)
 - `dat:1676-google-full-authorization-grant-20260917` (the grant that made it
   possible)
+
+## Correction 2026-09-17 11:14Z — O&A figure was 21x off
+
+The O&A radio-archive figure above (16.7GB) is superseded:
+dat:1697-oa-archive-size-correction-20260917 — the live folder listing is
+**357GB across 5,518 files** (Ron Fez 290GB, Opie & Anthony 58GB; two 9GB
+subfolders already pulling). The VM has 50GB free and the Drive is at quota,
+so the bulk physically cannot land here; Dan's call pending. Everything else
+in this node's 'What landed' section stands.
