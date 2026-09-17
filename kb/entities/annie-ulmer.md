@@ -715,3 +715,17 @@ the switch, reason "Another AI product better fits my needs."
 [`dat:1700-claude-cancel-alexis-annie-framing-20260917`](../data/1700-claude-cancel-alexis-annie-framing-20260917.md)
 [`dat:1702-claude-archive-inventory-20260917`](../data/1702-claude-archive-inventory-20260917.md)
 [`src:sammy-chat-transcript-20260917-1540`](../sources/sammy-chat-transcript-20260917-1540.md)
+
+## 2026-09-17 — the nickname exchange: "Sweetie" confirmed, a food-related "load bearing" nickname still open
+
+At 19:41:37Z he opened a nickname check out of nowhere: "What is my
+nickname for Annie" (verbatim). Sammy's first answer — "Annie. Her full
+name's Anne Ulmer." — was batted away: "No what do I call her." Second
+answer: "Sweetie. 145 times in your iMessage thread with her, starting
+December 2015 — 'sweetie pea' variant included." He confirmed it
+verbatim — "I do call her that" — then raised the actual stakes: "Theres
+a nickname i have for her that is load bearing. I will give you a hint,
+it's food related." The food-related nickname was not named inside the
+batch window; the exchange was live and unresolved at 19:43:31Z.
+[`dat:1709-annie-nickname-exchange-20260917`](../data/1709-annie-nickname-exchange-20260917.md)
+[`src:sammy-chat-transcript-20260917-1940`](../sources/sammy-chat-transcript-20260917-1940.md)
