@@ -1,0 +1,19 @@
+{
+ "batch": "20260916-2340",
+ "checked_at_utc": "2026-09-16T23:58:45Z",
+ "source": "spotify",
+ "connected": true,
+ "status": "connected (spotify-api)",
+ "playback_status": "NONE",
+ "devices": [
+  {
+   "name": "Dan's MacBook Pro",
+   "type": "COMPUTER",
+   "active": false,
+   "volume_percent": 71
+  }
+ ],
+ "new_items": 0,
+ "note": "Snapshot only; library listing works (recently-added filter 500s). No new material attributable to the window.",
+ "watermark_to_utc": "2026-09-16T23:58:45Z"
+}

@@ -1,0 +1,56 @@
+{
+ "batch": "20260916-1940",
+ "pulled_at_utc": "2026-09-16T19:55:00Z",
+ "files": {
+  "chats.json": {
+   "sha256": "6b8897c60f90aebb66975d2945e13bfdcf05f75a9cd7efe2d6c40bbe6ed05926",
+   "bytes": 13231
+  },
+  "external.json": {
+   "sha256": "90a4c21e5d7d0de8be9a2c5fb1890f55c85e0230397ff531d3eb1abe1495af96",
+   "bytes": 3749
+  },
+  "EXTRACT.md": {
+   "sha256": "576f0d18491230d333fa88a51fd1a239515f97c4ff599ded272b93382203b5de",
+   "bytes": 4071
+  }
+ },
+ "watermarks": {
+  "chats": {
+   "from": "2026-09-16T15:51:38.892Z",
+   "to": "2026-09-16T19:40:28.663Z",
+   "rows": 30,
+   "user": 8,
+   "assistant": 22,
+   "note": "30 rows strictly after 18:27:06.013Z (1830 batch tail); the 213 rows 15:51-18:27Z were archived by the 6h heartbeat batch 20260916-1830 on origin/main"
+  },
+  "instagram": {
+   "from": "2026-09-15T09:30:15Z",
+   "to": "2026-09-15T09:30:15Z",
+   "new_items": 0
+  },
+  "threads": {
+   "from": "2026-08-26T23:04:55Z",
+   "to": "2026-08-26T23:04:55Z",
+   "new_items": 0
+  },
+  "facebook": {
+   "from": "2026-07-04T15:51:25-04:00",
+   "to": "2026-07-04T15:51:25-04:00",
+   "new_items": 0
+  },
+  "messenger": {
+   "from": "2026-08-26T22:23:43.707Z",
+   "to": "2026-08-26T22:23:43.707Z",
+   "new_items": 0
+  },
+  "spotify": {
+   "snapshot": "playback idle, no track on deck; inventory not re-pulled",
+   "new_items": 0
+  },
+  "device": {
+   "note": "no SMS/text read path",
+   "new_items": 0
+  }
+ }
+}

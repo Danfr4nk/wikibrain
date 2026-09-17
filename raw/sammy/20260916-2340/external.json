@@ -1,0 +1,98 @@
+{
+ "instagram": {
+  "batch": "20260916-2340",
+  "checked_at_utc": "2026-09-16T23:58:45Z",
+  "source": "instagram",
+  "connected": true,
+  "status": "connected (instagram-cli accounts -> ihatedanfrank); DM inbox read BLOCKED (HTTP 403: Facebook 2FA disabled gates all Meta-account reads — same blocker as in-chat attempt 21:33Z)",
+  "username": "ihatedanfrank",
+  "new_items": 0,
+  "newest_seen": {
+   "type": "post",
+   "created_at": "2026-08-26 23:04:49",
+   "note": "no new posts since batch 1940 watermark; story check not repeated"
+  },
+  "watermark_from_utc": "2026-09-16T19:47:23Z",
+  "watermark_to_utc": "2026-09-16T23:58:45Z"
+ },
+ "threads": {
+  "batch": "20260916-2340",
+  "checked_at_utc": "2026-09-16T23:58:45Z",
+  "source": "threads",
+  "connected": true,
+  "status": "connected (threads-cli accounts -> ihatedanfrank)",
+  "username": "ihatedanfrank",
+  "new_items": 0,
+  "newest_seen": {
+   "created_at": "2026-08-26 23:04:55",
+   "media_id": "17966727309072437",
+   "url": "https://www.threads.com/@ihatedanfrank/post/DciGhdflsFV"
+  },
+  "watermark_from_utc": "2026-08-26T23:04:55Z",
+  "watermark_to_utc": "2026-09-16T23:58:45Z"
+ },
+ "facebook": {
+  "batch": "20260916-2340",
+  "checked_at_utc": "2026-09-16T23:58:45Z",
+  "source": "facebook",
+  "connected": true,
+  "status": "connected (facebook-cli me -> Dan Frank 580995252)",
+  "profile_name": "Dan Frank",
+  "new_items": 0,
+  "newest_seen": {
+   "created_at_utc": "2026-07-04T19:51:25Z",
+   "caption": "poetry"
+  },
+  "watermark_from": "2026-07-04T19:51:25Z",
+  "watermark_to_utc": "2026-09-16T23:58:45Z"
+ },
+ "messenger": {
+  "batch": "20260916-2340",
+  "checked_at_utc": "2026-09-16T23:58:45Z",
+  "source": "messenger",
+  "connected": true,
+  "status": "connected (hatch_messenger_cli sync threads)",
+  "thread_count": 1,
+  "messages_new_this_sync": 0,
+  "new_items": 0,
+  "newest_seen": {
+   "sender": "Kristin Shaelene",
+   "sent_at_utc": "2026-08-26T22:23:43.707Z",
+   "thread": "Kristin Shaelene (one-to-one, PENDING folder)",
+   "text": "Ew lol"
+  },
+  "note": "sync threads completed fresh (threads_last_synced_ago_secs=0); cached_thread_count=1; no new messages.",
+  "watermark_from_utc": "2026-08-26T22:23:43.707Z",
+  "watermark_to_utc": "2026-09-16T23:58:45Z"
+ },
+ "spotify": {
+  "batch": "20260916-2340",
+  "checked_at_utc": "2026-09-16T23:58:45Z",
+  "source": "spotify",
+  "connected": true,
+  "status": "connected (spotify-api)",
+  "playback_status": "NONE",
+  "devices": [
+   {
+    "name": "Dan's MacBook Pro",
+    "type": "COMPUTER",
+    "active": false,
+    "volume_percent": 71
+   }
+  ],
+  "new_items": 0,
+  "note": "Snapshot only; library listing works (recently-added filter 500s). No new material attributable to the window.",
+  "watermark_to_utc": "2026-09-16T23:58:45Z"
+ },
+ "device": {
+  "batch": "20260916-2340",
+  "checked_at_utc": "2026-09-16T23:58:45Z",
+  "source": "device",
+  "connected": true,
+  "new_items": 0,
+  "newest_seen": null,
+  "no_read_path": true,
+  "status": "paired iOS: device-data CLI exposes contacts/calendar only; no SMS/text-message read path exists (standing finding, reconfirmed)"
+ },
+ "rolled_up_at_utc": "2026-09-16T23:58:45Z"
+}

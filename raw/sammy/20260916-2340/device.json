@@ -1,0 +1,10 @@
+{
+ "batch": "20260916-2340",
+ "checked_at_utc": "2026-09-16T23:58:45Z",
+ "source": "device",
+ "connected": true,
+ "new_items": 0,
+ "newest_seen": null,
+ "no_read_path": true,
+ "status": "paired iOS: device-data CLI exposes contacts/calendar only; no SMS/text-message read path exists (standing finding, reconfirmed)"
+}
