@@ -1,0 +1,86 @@
+{
+ "batch": "20260917-1540",
+ "pulled_at_utc": "2026-09-17T16:06:00Z",
+ "files": {
+  "EXTRACT.md": {
+   "sha256": "253dbe73358b12a29787687ba0f5ef1856e2ec51b63354b7eadad17fc21885ec",
+   "bytes": 5555
+  },
+  "chats.json": {
+   "sha256": "c3bd4331d0e43622ff5873ba6bb8e9493af855e9656db7d6af77533738f2c2de",
+   "bytes": 21438
+  },
+  "device.json": {
+   "sha256": "ffc30e05fc73721db0db298ca2debabbe15bbc150d9aa2c1b03506b7e0eaf8cb",
+   "bytes": 340
+  },
+  "facebook.json": {
+   "sha256": "aa2f987c3dc5e57824fb8011367cbf6c77772f7455abf77dd6acd91451f65ee4",
+   "bytes": 394
+  },
+  "instagram.json": {
+   "sha256": "22c5aaeffe73810e0ba31a79b7f93e15c7e7b022300aa3cdb4dec5b950cd885e",
+   "bytes": 279
+  },
+  "messenger.json": {
+   "sha256": "eb35928ad587b87c70daf7f5b1989a727b9769d5fa88fc44644a21e1b80d2879",
+   "bytes": 403
+  },
+  "spotify.json": {
+   "sha256": "f6811c4d87ca3d4cc144a4fdd964db5e4b87e5138dd9c4e8e512862ce58ad3c8",
+   "bytes": 289
+  },
+  "threads.json": {
+   "sha256": "b846d2eb9de4ae4450fcbdb91e266c8fc71a01630c67812479a3fc6932193c50",
+   "bytes": 296
+  }
+ },
+ "sources": {
+  "chats": {
+   "watermark_from": "2026-09-17T11:14:07.634Z",
+   "watermark_to": "2026-09-17T13:43:01.185Z",
+   "count": 44,
+   "user": 12,
+   "assistant": 32,
+   "surface": "main_chat",
+   "chat_kind": "direct",
+   "verification": "md5 double-count vs muse.db 44/44 match; full bodies; 0 truncated; 0 duplicates; CUMTHREAD3 0 rows"
+  },
+  "instagram": {
+   "watermark_from": "2026-09-15T09:30:15Z",
+   "watermark_to": "2026-09-15T09:30:15Z",
+   "new_items": 0,
+   "note": "ihatedanfrank connected; 0 active own stories; 0 posts since 2026-09-15"
+  },
+  "threads": {
+   "watermark_from": "2026-08-26T23:04:55Z",
+   "watermark_to": "2026-08-26T23:04:55Z",
+   "new_items": 0,
+   "note": "@ihatedanfrank (72 followers); newest own post = watermark exactly"
+  },
+  "facebook": {
+   "watermark_from": "2026-07-04T15:51:25-04:00",
+   "watermark_to": "2026-07-04T15:51:25-04:00",
+   "new_items": 0,
+   "note": "Dan Frank 580995252; newest timeline post 'poetry' = watermark"
+  },
+  "messenger": {
+   "watermark_from": "2026-08-26T22:23:43.707Z",
+   "watermark_to": "2026-08-26T22:23:43.707Z",
+   "new_items": 0,
+   "note": "sync both on 580995252: 0 threads, 0 messages; Kristin Shaelene PENDING 2026-09-09 known"
+  },
+  "spotify": {
+   "watermark_from": "snapshot-2026-09-14T19:50:00Z",
+   "watermark_to": "snapshot-2026-09-14T19:50:00Z",
+   "new_items": 0,
+   "note": "snapshot only: playback NONE; 98-vs-125 inventory pagination flag still open"
+  },
+  "device": {
+   "watermark_from": null,
+   "watermark_to": null,
+   "new_items": 0,
+   "note": "no read path for iOS texts (standing); iPhone offline last_seen 2026-09-17T14:55:42Z, imessage permission not granted"
+  }
+ }
+}

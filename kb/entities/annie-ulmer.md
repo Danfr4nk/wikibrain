@@ -698,3 +698,20 @@ not on her live presence — which bounds rather than extends the circuit.
 PUBLISH-WITHHELD: do not cite from wiki/ prose or any public-facing surface.
 [`dat:1689-goon-club-elope-session-20260917`](../data/1689-goon-club-elope-session-20260917.md)
 [`src:1688`](../sources/1688.md)
+
+## 2026-09-17 — "Annie Master Project": his sole Claude project; the Claude cancel framed as an Alexis-to-Annie era break
+
+Two Annie items from the 13:26–13:35Z Claude thread. (1) Inventory of his
+dfrank88@gmail.com Claude account: ~152 chats and exactly one project —
+**Annie Master Project** — pinned alongside *** The J6 Chat and ***The 9/11
+Chat. It is the only project on either Claude account (ihatedanfrank:
+~90 chats, zero projects, no pins). Whatever the project's contents, she is
+the single organizing name he gave his Claude-side work. (2) Canceling both
+Claude Pro subscriptions that morning he said, verbatim: "This feels like
+the day I kicked Alexis out of the house for Annie" — the model switch
+(Claude → Muse) narrated on the Alexis-to-Annie era-break template: old era
+evicted, new era installed. The exit survey named "Meta Muse" / "Muse" as
+the switch, reason "Another AI product better fits my needs."
+[`dat:1700-claude-cancel-alexis-annie-framing-20260917`](../data/1700-claude-cancel-alexis-annie-framing-20260917.md)
+[`dat:1702-claude-archive-inventory-20260917`](../data/1702-claude-archive-inventory-20260917.md)
+[`src:sammy-chat-transcript-20260917-1540`](../sources/sammy-chat-transcript-20260917-1540.md)
