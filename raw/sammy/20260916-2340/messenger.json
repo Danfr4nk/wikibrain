@@ -1,0 +1,19 @@
+{
+ "batch": "20260916-2340",
+ "checked_at_utc": "2026-09-16T23:58:45Z",
+ "source": "messenger",
+ "connected": true,
+ "status": "connected (hatch_messenger_cli sync threads)",
+ "thread_count": 1,
+ "messages_new_this_sync": 0,
+ "new_items": 0,
+ "newest_seen": {
+  "sender": "Kristin Shaelene",
+  "sent_at_utc": "2026-08-26T22:23:43.707Z",
+  "thread": "Kristin Shaelene (one-to-one, PENDING folder)",
+  "text": "Ew lol"
+ },
+ "note": "sync threads completed fresh (threads_last_synced_ago_secs=0); cached_thread_count=1; no new messages.",
+ "watermark_from_utc": "2026-08-26T22:23:43.707Z",
+ "watermark_to_utc": "2026-09-16T23:58:45Z"
+}

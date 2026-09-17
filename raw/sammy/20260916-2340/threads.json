@@ -1,0 +1,16 @@
+{
+ "batch": "20260916-2340",
+ "checked_at_utc": "2026-09-16T23:58:45Z",
+ "source": "threads",
+ "connected": true,
+ "status": "connected (threads-cli accounts -> ihatedanfrank)",
+ "username": "ihatedanfrank",
+ "new_items": 0,
+ "newest_seen": {
+  "created_at": "2026-08-26 23:04:55",
+  "media_id": "17966727309072437",
+  "url": "https://www.threads.com/@ihatedanfrank/post/DciGhdflsFV"
+ },
+ "watermark_from_utc": "2026-08-26T23:04:55Z",
+ "watermark_to_utc": "2026-09-16T23:58:45Z"
+}
