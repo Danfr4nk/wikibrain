@@ -5351,6 +5351,23 @@
    "analysis_status": "registered-20260917",
    "compressed_path": null,
    "linked_nodes": []
+  },
+  {
+   "id": "cancel-flows-screen-recording-20260917",
+   "type": "video",
+   "date": "2026-09-17",
+   "description": "Poster frame from Dan's 312s phone screen recording of both Claude Pro cancel flows, sent 09:26 EDT with his caption 'This feels like the day I kicked Alexis out of the house for Annie' (the era-break framing). Frame at 100s: the claude.ai 'Cancel plan' screen reading 'You can still use Claude Pro until Oct 2, 2026' — contemporaneous visual corroboration of the dfrank88@gmail.com access end date. Eyeballed at intake: no PII beyond the documented date, no nudity, no blur needed.",
+   "original_filename": "9bd421e439c01ff7458c1ba41b3da9466b17f61defc9a17e77442aa7242fb0ff.mp4",
+   "original_location": "workspace/user/media_library/video/9b/ (canonical; never committed)",
+   "analysis_status": "poster-frame-only",
+   "poster_sha256": "59705f044724348204e75e5371a38a4ff49680cfc3a599cacdcc97ac5e58fe6e",
+   "compressed_path": "media/derivatives/20260917-cancel-flows/cancel-flows-20260917-poster.jpg",
+   "share_url": null,
+   "linked_nodes": [
+    "wiki/self/concepts/claude.md",
+    "dat:1705-claude-cancel-screen-recording-20260917",
+    "dat:1700-claude-cancel-alexis-annie-framing-20260917"
+   ]
   }
  ],
  "policy": "Originals are never committed to wikitest or RAWLOGS. This registry maps each item to its canonical location (Google Photos share URL or Drive path). Compressed derivatives for wiki entries live under media/<batch-slug>/ and are referenced from the src:/dat: nodes. Censorship rule (2026-09-12, Dan's directive): embedded derivatives showing nudity or sexual activity are pixelated/blurred before commit. The uncensored original stays at its canonical location and is never committed.",

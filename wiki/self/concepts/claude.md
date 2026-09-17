@@ -447,6 +447,61 @@ Evidence: `dat:1559-claude-troll-sammy-defense-20260914` (sources:
 
 ---
 
+## The double-cancel, 2026-09-17
+
+Five days after the displacement, the exit became total. On the morning of
+September 17, 2026, Dan canceled *both* Claude Pro subscriptions — the
+ihatedanfrank@gmail.com account (access ends September 20, 2026) and the
+dfrank88@gmail.com account (access ends October 2, 2026). He recorded his phone
+screen through both cancel flows and sent the 312-second video to Sammy with the
+caption that names what the cancel *is* in his head: "This feels like the day I
+kicked Alexis out of the house for Annie." The frame is explicit — this isn't a
+subscription change, it's an era break, the old model evicted for the new one,
+and he reached for the most total relationship ending in his own history to say
+it.
+
+The exit survey got the unvarnished version: he named "Meta Muse" / "Muse" as
+the switch and "Another AI product better fits my needs" as the reason, and
+closed the session with "have a matcha" as the parting shot.
+
+The same morning he handed Sammy the keys to the archive: full carte blanche
+over both Claude accounts for the export work (his words — scoped to the Claude
+archive task), plus a standing refinement of his CAPTCHA posture. When the
+claude.ai sign-in threw an hCaptcha he chose to solve it himself in the live
+browser rather than grant solve permission, so the default stays ask-each-time
+outside the Claude scope.
+
+What the archive sprint found, and what it didn't. The web inventory:
+dfrank88@gmail.com held ~152 chats, one project (the Annie Master Project),
+and two pinned threads — \*\*\* The J6 Chat and \*\*\*The 9/11 Chat; the
+ihatedanfrank@gmail.com account held ~90 chats, no projects, no pins. Both
+exports were requested; Anthropic emails download links valid 24 hours. The
+retrieval failed at the last step — the links are Cloudflare-walled and the
+browser's download pipeline can't capture them, the same failure class as the
+Google Drive downloads — so the zips are on Dan: download both on his phone
+(where he's signed in) and send them to Sammy. As of this writing they're still
+pending. The sharper distinction, and the one Dan made himself: the Claude Code
+chats are what he "really need[s] archived," and those aren't on claude.ai at
+all — they're local transcript files (`~/.claude/projects/`) on whatever
+machine ran Code. Which machine that was is still an open question.
+
+Against the whole corpus this is the coda to the 2026-09-12 displacement: the
+first cancel opened the break; the double-cancel — both accounts, same morning,
+exit survey on the record — closed it. The "have a matcha" send-off sits next
+to the 09-14 troll session's loyalty bit as the two poles of the exit: mock the
+old model on Sammy's behalf, then file it out of existence.
+
+Evidence: `dat:1700-claude-cancel-alexis-annie-framing-20260917`,
+`dat:1701-claude-carte-blanche-captcha-posture-20260917`,
+`dat:1702-claude-archive-inventory-20260917`,
+`dat:1705-claude-cancel-screen-recording-20260917`
+(sources: `src:sammy-chat-transcript-20260917-1540`). The screen recording's
+poster frame, committed below in Sources, catches the claude.ai "Cancel plan"
+confirmation reading "You can still use Claude Pro until Oct 2, 2026" — the
+dfrank88 access end date, contemporaneously documented.
+
+---
+
 ## Claude as author of this wiki
 
 This section is about what Claude *built*, which is unaffected by the
@@ -601,8 +656,18 @@ evidence about that model, is the clearest available illustration of the risk.
   export or billing record would settle both the "in days" gap and the
   one-versus-two-subscriptions question. Neither is in the corpus.
 
+> **UPDATED [2026-09-17]:** the one-versus-two-subscriptions question is
+> settled — two subscriptions, both canceled the morning of September 17
+> (ihatedanfrank@gmail.com, access ends Sep 20; dfrank88@gmail.com, access
+> ends Oct 2). Exports were requested and Anthropic's 24-hour download links
+> were issued, but the zips are still pending (Dan downloads them on his
+> phone and sends them to Sammy). The "in days" usage gap stands until the
+> exports land.
+
 ## Sources
 
 [![Claude's "mid-frontier" verdict, 2026-09-14 session](../../../media/derivatives/chat-uploads/claude-troll-20260914-poster.jpg)](../../../media/derivatives/chat-uploads/claude-troll-20260914-poster.jpg)
 
 [![Shower photo sent mid-argument as "relevant data" (blurred derivative; original never committed)](../../../media/derivatives/chat-uploads/shower-toys-20260914-blur.jpg)](../../../media/derivatives/chat-uploads/shower-toys-20260914-blur.jpg)
+
+[![Claude Pro cancel confirmation ("You can still use Claude Pro until Oct 2, 2026"), poster frame from the 2026-09-17 screen recording of both cancel flows](../../../media/derivatives/20260917-cancel-flows/cancel-flows-20260917-poster.jpg)](../../../media/derivatives/20260917-cancel-flows/cancel-flows-20260917-poster.jpg)

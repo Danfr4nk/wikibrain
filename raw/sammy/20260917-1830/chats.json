@@ -1,0 +1,47 @@
+[
+ {
+  "message_id": "assistant-msg-131d84a7-4c6f-3fbe-d885-b4d78e56bbd3",
+  "role": "assistant",
+  "created_at": "2026-09-17T13:43:01.135+00:00",
+  "surface": "main_chat",
+  "chat": null,
+  "body": "Burn-in day one: 47 check-ins, the two engines agreed on 42. Six windows flagged — yesterday midday and overnight, all the same shape: you hammering short repetitive picks (\"Abatar me\", \"Option 2\") with attachments riding along. That's a mechanical fingerprint, not a behavior read.",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-b8b642ae-5bbf-4e69-9fa4-e40799035835",
+  "role": "assistant",
+  "created_at": "2026-09-17T13:43:01.185+00:00",
+  "surface": "main_chat",
+  "chat": null,
+  "body": "Overnight the second engine ranked your writing near the far edge of your own baseline but wrote down no explanation why — pipeline hole, not a finding, and it's on the fix list. None of this proves anything about your state. A flag is a style shift, and style shifts have boring causes.",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-6d551531-3970-d160-e0f5-e4e3c8641ca7",
+  "role": "assistant",
+  "created_at": "2026-09-17T16:05:01.062+00:00",
+  "surface": "main_chat",
+  "chat": null,
+  "body": "Scrape 20260917-1540: 44 rows (12 user / 32 assistant), byte-exact, dual-pushed (wikibrain `14d0770` on the rolling PR, RAWLOGS `767c8a2`). KB: `src:sammy-chat-transcript-20260917-1540`, `dat:1700-1704`; extended `pat:trust-escalation-ladder-20260917` (rung 5).\n\nNew pattern: **pat:mechanical-fingerprint-avatar-hunt-20260917** — the avatar hunt's number-warp / measurement-annotation method as a repeatable forensic fingerprint. Plus `annie-ulmer.md` dated subsection. Validation clean (1,429 nodes, 0/0), externals zero-new, watermark advanced, worktree removed.",
+  "truncated": false
+ },
+ {
+  "message_id": "browser-task-tombstone:browser-task:c175ae8a-9115-440c-a098-e8ce1796ef6f:card:1",
+  "role": "assistant",
+  "created_at": "2026-09-17T16:38:32.726+00:00",
+  "surface": "main_chat",
+  "chat": null,
+  "body": "Archive Claude.ai chats",
+  "truncated": false
+ },
+ {
+  "message_id": "browser-task-tombstone:browser-task:213528de-20df-4f5d-9d6d-a297dee5874b",
+  "role": "assistant",
+  "created_at": "2026-09-17T16:41:27.195+00:00",
+  "surface": "main_chat",
+  "chat": null,
+  "body": "Monitor Gmail for data exports",
+  "truncated": false
+ }
+]

@@ -125,6 +125,13 @@ subject, so they live with the rest of `meta` rather than here:
 plain-language campaign), [[wiki/meta/digest]], [[wiki/meta/recent-activity]]
 and [[wiki/meta/open-questions]].
 
+The taste instruments sit adjacent in the other direction: they measure the
+person, not the system, but they are hand-built scoring apps rather than
+generated ledger pages, so they live as a report, not a catalogue entry —
+[[wiki/work/tech/projects/musictrainer-autopsy]] (MusicTrainer + AUTOPSY:
+the 90%-prediction instruments, complete week logs on the entry per rule 4
+above).
+
 ## Adding one
 
 An instrument is worth building when a page is making a claim that a
