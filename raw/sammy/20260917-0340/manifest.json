@@ -1,0 +1,62 @@
+{
+ "batch": "20260917-0340",
+ "pulled_at_utc": "2026-09-17T03:52:00Z",
+ "watermark_from_utc": "2026-09-17T00:23:23.999Z",
+ "watermark_to_utc": "2026-09-17T03:39:56.967Z",
+ "counts": {
+  "messages_total": 272,
+  "user": 114,
+  "assistant": 158,
+  "external_sources_checked": 6,
+  "external_new_items": 0
+ },
+ "kb_nodes": [
+  "src:1672-sammy-chat-transcript-20260917-0340",
+  "dat:1673-whisk-full-album-audit-20260917",
+  "dat:1674-racking-swu-pa-feed-corn-tradition-20260917",
+  "dat:1675-raw-source-consolidation-goal-audit-20260917",
+  "dat:1676-google-full-authorization-grant-20260917",
+  "dat:1677-drive-survey-motherlode-20260917",
+  "dat:1678-ios-double-triple-text-mechanism-20260917",
+  "dat:1679-ig-971-file-push-retry-20260917",
+  "dat:1680-netanyahu-fame-hypothetical-stance-20260917"
+ ],
+ "exclusions": [
+  "CUMTHREAD3 (24754b5b-b83e-4c49-a6a3-d6f2ab2c1853): 0 rows in window, exclusion holds"
+ ],
+ "overlap": "2 rows (2026-09-17T00:06:01.22Z assistant message, 2026-09-17T00:23:23.999Z browser-task tombstone) dropped: already archived in heartbeat batch raw/sammy/20260917-0030/ on origin/main. This batch is strictly after that batch.",
+ "files": {
+  "EXTRACT.md": {
+   "bytes": 10106,
+   "sha256": "338acfc4c196a7b5d419086c22d7c6ad097647d6dff051e79084fceafb0c5aa9"
+  },
+  "chats.json": {
+   "bytes": 142115,
+   "sha256": "5bde89fb5d5039049b6512b136a404a4c0b3501189a0e750a441c655ebe38fdd"
+  },
+  "device.json": {
+   "bytes": 429,
+   "sha256": "7d1d58aa191f65fb10e2c819d1b824129c9b338d0ba42d1d1e2313e0fe3d276c"
+  },
+  "facebook.json": {
+   "bytes": 382,
+   "sha256": "e92015cb6c6c1d90478c45fb88f8caedf5930598d8f1ae8b9b97dd7cb032f8a1"
+  },
+  "instagram.json": {
+   "bytes": 491,
+   "sha256": "c85a20172e450b89fef80a72eed062970402b37c3da56e5f7888768bfe7c7de0"
+  },
+  "messenger.json": {
+   "bytes": 473,
+   "sha256": "682a0b8b45c56c4ef4992fb02832ec60ea9bee15187f9a2b7f4c8f3ce4b3b595"
+  },
+  "spotify.json": {
+   "bytes": 725,
+   "sha256": "e6b2692b1c0095708d26e0bdc032bf9fc081209cca21186f9679aa1b5abc50a7"
+  },
+  "threads.json": {
+   "bytes": 364,
+   "sha256": "958c7561fea057cba40e0a3f41b885d25a0de1776d0f39745ddbf77bffc85549"
+  }
+ }
+}

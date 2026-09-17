@@ -1,0 +1,1 @@
+{"account":"Dan Frank","checked_at_utc":"2026-09-17T03:50:00Z","checks":{"timeline_posts_fetched":20},"connected":true,"new_items":0,"notes":"Connected. Newest timeline post is 2026-07-04T15:51:25-04:00, exactly AT the watermark, so it is not newer than the watermark. Nothing new; watermark correctly not advanced.","source":"facebook","watermark_used":"2026-07-04T15:51:25-04:00"}

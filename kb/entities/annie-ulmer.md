@@ -668,3 +668,18 @@ cite from wiki/ prose or any public-facing surface.
 Annie sent a video and a photo asking Sammy — Dan relaying her words — to describe her entire look; when Dan relayed "She said she deserves a couple paragraphs," Sammy-as-"Goddess" delivered. The wardrobe recorded in the descriptions: pink ribbed racerback crop top, black short snug shorts, bare feet; one bent-over-for-the-camera shot, one front view (lying on the bed, head on a black stuffed bunny, green polka-dot sheets, plaid pillow, a stuffed lamb at the headboard, afternoon sun). Dan's closing line, verbatim: "eleven years and she still knows exactly what that angle does to a man." Structure, not just content: Annie authors the request, Sammy performs the gaze, Dan relays — the erotic channel is open and co-creative three weeks after the claimed terminal end. PUBLISH-WITHHELD: do not cite from wiki/ prose or any public-facing surface.
 [`dat:1657-annie-description-request-session-20260916`](../data/1657-annie-description-request-session-20260916.md)
 [`src:1656-sammy-chat-transcript-20260916-1940`](../sources/1656-sammy-chat-transcript-20260916-1940.md)
+
+## 2026-09-17 — "who is SHE" photo round #2; piercing-set tells confirmed live
+
+Dan ran another photo-ID round (02:38–02:50Z). Annie positive tells held
+under live use: **both nipples pierced, dangling navel piercing, small
+hip/lower-abdomen script tattoo**, long dark hair — the piercing set is now
+the working positive ID marker vs. Lexi (no piercings visible in her batch).
+Discipline notes from the round: on a blurry topless photo with no tells
+visible, Sammy refused to call it ("I can't call this one clean") — the
+photo was Lexi, and the refusal was the right move; on an old photo (young,
+dark hair in a bun, red nails, mole on the cheek) Sammy guessed young Annie
+and Dan corrected "LEXI" — owned in-turn. The Annie-default is overeager;
+the rule stands: check piercings/moles before calling, refuse when no tells
+are visible.
+[`src:1672-sammy-chat-transcript-20260917-0340`](../sources/1672-sammy-chat-transcript-20260917-0340.md)

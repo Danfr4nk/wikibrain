@@ -202,3 +202,25 @@ The commissioned psychosexual study's thesis on Alexis (attributed interpretatio
 
 The Jan-2017 media drop puts her identification in tension with the record: face-tag scored the dark-haired woman 0.50/0.53 as Alexis (weak clear, flagged in-window), while the wiki records Alexis closed Nov 2015. The corpus self-reports corroborate the EVENT independently of the face-tag ID — Dec 2017 (Mohler) and Aug 2018 (Oshnack, prior-record-relayed via `dat:0538-joe-oshnack-thread-scale-corroborated-content-relayed`) both name Alexis in the threesome. The identification question and the event question are separate; do not let a weak ID contaminate a well-supported event, or vice versa. `dat:1617-jan-2017-media-drop-20260916`.
 [src:sammy-chat-transcript-20260916-0420](../sources/sammy-chat-transcript-20260916-0420.md)
+
+## 2026-09-17 — "who is SHE" round #2: Lexi tells updated
+
+Dan ran another photo-ID round (02:38–02:50Z); several batches Sammy had
+been reading as possibly-Annie were Lexi. Tell updates:
+
+- **Nail color is NOT a reliable Lexi tell** — invalidated tonight. Red nails
+  on the bun/mole-on-cheek photo (Lexi, confirmed by Dan); dark grey nails on
+  the topless selfie (Lexi batch). It varies; stop using it.
+- **Ankle/foot tattoo: possible Lexi tell, unconfirmed solo** — pink-thong
+  mirror-floor pose, small tattoo on the ankle/foot. Flagged, not banked.
+- **Scene markers:** same bathroom + rainbow-Apple-sticker phone across the
+  Lexi batch — useful context, not ID-grade alone.
+- **Era anchor (2026-09-16 record, reused tonight):** mirror selfie with nude
+  Lexi standing on bed + young shirtless Dan lying behind her + "I ♥ U 4 Eva"
+  note on the mirror frame = Alexis years (2009–2015), iPhone 4/5 era.
+- **No-piercings-visible** holds as a Lexi indicator only when the chest is
+  actually visible.
+- Round discipline: Sammy guessed young Annie on the bun/mole photo — Dan:
+  "LEXI." Owned in-turn. The Annie-default keeps firing; the check order is
+  piercings → moles → era markers → refuse.
+[`src:1672-sammy-chat-transcript-20260917-0340`](../sources/1672-sammy-chat-transcript-20260917-0340.md)

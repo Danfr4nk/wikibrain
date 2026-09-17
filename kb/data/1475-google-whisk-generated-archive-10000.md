@@ -16,3 +16,15 @@ date   = "2026-09-13"
 +++
 
 <!-- prose for humans; the frontmatter is for machines -->
+
+## 2026-09-17 — estimate superseded by audit
+
+The "almost 10,000" estimate above is superseded: Dan shared the WHISK FULL
+album on 2026-09-17 (~00:54Z) and the album UI reports exactly **9,868
+items**, spanning May 24 → Nov 24, 2025 (184 days), under the misdirection
+title "Harry Potter."
+[`dat:1673-whisk-full-album-audit-20260917`](1673-whisk-full-album-audit-20260917.md)
+[`src:1672-sammy-chat-transcript-20260917-0340`](../sources/1672-sammy-chat-transcript-20260917-0340.md)
+
+The frontmatter claim is preserved as the historical record (what he said on
+2026-09-13); the audited count lives in dat:1670.
