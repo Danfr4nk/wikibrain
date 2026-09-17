@@ -4,7 +4,7 @@ page_type: summary
 title: "Coding Projects"
 status: active
 date_created: 2026-09-11
-date_modified: 2026-09-14
+date_modified: 2026-09-17
 sources:
   - "Sammy working context, 2026-09-11"
 related:
@@ -18,14 +18,14 @@ connections:
 
 # Coding Projects
 
-All of these were built in 2026 by directing AI agents (Claude, Muse Spark, Grok, Gemini) — not by learning to program, per the documented one-day Codecademy episode of February 2013 ([[wiki/work/tech/index]]). Each entry covers purpose, architecture, status as of 2026-09-11, and its place in the larger system.
+All of these were built in 2026 by directing AI agents (Claude, Muse Spark, Grok, Gemini) — not by learning to program, per the documented one-day Codecademy episode of February 2013 ([[wiki/work/tech/index]]). Each entry covers purpose, architecture, status, and its place in the larger system; statuses were refreshed 2026-09-17 against the dated kb record.
 
 ## Entries
 
-- [[wiki/work/tech/projects/hook2piano]] — TheoryTab→piano-score web harness (live on GitHub Pages)
+- [[wiki/work/tech/projects/hook2piano]] — TheoryTab→piano-score web harness (live on GitHub Pages); MELODY, the melody-to-piano-roll sibling instrument (2026-09-16), is covered in the same entry
 - [[wiki/work/tech/projects/musictrainer-autopsy]] — MusicTrainer + AUTOPSY: the 90%-prediction taste instruments (live on GitHub Pages)
 - [[wiki/work/tech/projects/attraction-guide]] — rerunnable A/B facial-attraction diagnostic game
-  - [[wiki/work/tech/projects/attraction-guide-telemetry]] — the MediaPipe telemetry lab (telemetry.html)
+  - [[wiki/work/tech/projects/attraction-guide-telemetry]] — the MediaPipe telemetry lab (telemetry.html); the 2026-09-16 One-Photo Workbench evolution and the age-estimation sibling instrument are covered here
   - [[wiki/work/tech/projects/attraction-guide-scenario]] — scenario telemetry v6 and scenario ratings v2
   - [[wiki/work/tech/projects/attraction-guide-face-library]] — the 155-face stimulus library
 - [[wiki/work/tech/projects/stylometry]] — 30-minute state tracker against a 94,503-message baseline
@@ -57,4 +57,4 @@ dat:1580-tools-repo-consolidation-20260915.
 
 ## Not documented
 
-No GRIPNOTIC-specific production tooling (DAW templates, plugins, sample management) is documented anywhere in the record as of 2026-09-11. The music archive (playlists, Exportify CSVs) is documented as *data*, not as *tooling*. If such tooling is described, it gets an entry here.
+No GRIPNOTIC-specific production tooling (DAW templates, plugins, sample management) is documented anywhere in the record as of 2026-09-11. Re-verified 2026-09-17: kb/ and wiki/ searches return no GRIPNOTIC production-tooling evidence — the music archive (playlists, Exportify CSVs) is documented as *data*, not as *tooling*. If such tooling is described, it gets an entry here.

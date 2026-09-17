@@ -4,7 +4,7 @@ page_type: concept
 title: "Wiki Brain tooling — renderer, validators, and the push pipeline"
 status: active
 date_created: 2026-09-11
-date_modified: 2026-09-15
+date_modified: 2026-09-17
 sources:
   - "Sammy working context, 2026-09-11"
 related:
@@ -61,6 +61,17 @@ Evidence: `evt:gate-password-deploy-white-screen-20260915`,
 ## Status (2026-09-11)
 
 Live and gating every batch. The cron `wiki-brain-writeback-6h` is the operational heartbeat; the work-queue document (`~/workspace/wiki-sync/WORK-QUEUE.md`) is the backlog it clears.
+
+## Recursive Work Engine v1 (2026-09-11/12)
+
+The wiki brain's orchestration kernel, built 2026-09-11 per Dan's redesign: the wiki is an autonomous research process, not a repo with an agent operating on it. Stdlib-only Python; the epistemic layer (kb/ schemas, validators) is untouched.
+
+- **`bin/wb-work`** — the work-queue CLI: `new/list/show/claim/complete/next/rescore/trail/validate-result`. Lifecycle queued→active→completed|blocked|converged enforced; dedup on (type, target); scoring from observables only (contradictions ×3.0 carry the highest weight); bounded propagation (max depth 3, max 10 runs per branch); convergence at 3 consecutive low-delta runs (ε=2), reset on contradiction, new evidence, or changed claims.
+- **`bin/wb-orchestrate`** — the heartbeat: `tick --emit` (WAKE→LOAD→SELECT→RUN→SLEEP, prints the work package, never executes), `tick --ingest-result` (VALIDATE→INGEST→SPAWN→PROPAGATE→RESCORE→CONVERGE→SLEEP). The 6-hour cron drives it: emit → agent executes under the run contract → result file → next cron ingests.
+- **Live state:** `~/workspace/wiki-sync/queue/` (local-only, never committed) — `work.queue.jsonl` is the execution source, `runs.jsonl` the causal trail, `results/` the run_result files. `WORK-QUEUE.md` is only the human view.
+- **Agent run contract:** mandatory discovery before modifying anything; the run must terminate with a machine-readable run_result (delta counters, changed_claims, contradictions_found, spawned_work, next_frontier). Prose-only reflection does not count as completion.
+
+Sources: `RESEARCH-ENGINE-SPEC.md` in Danfr4nk/wikibrain (the v1 spec); Sammy working context, 2026-09-17. This run itself executes under that contract.
 
 ## Place in the larger system
 

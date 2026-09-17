@@ -1,0 +1,34 @@
+{
+ "batch": "20260917-1230",
+ "pulled_at_utc": "2026-09-17T12:35:00Z",
+ "files": {
+  "chats.json": {
+   "sha256": "c6af1b0e20624b71e04dee89cedd54cda973f9f79b3596fad5869fa62c26a6cc"
+  },
+  "EXTRACT.md": {
+   "sha256": "dbd00cd66ac11d47af9f9f9120fff68d24c5c6e90259082a2c5539abb8384d02"
+  }
+ },
+ "counts": {
+  "total": 4,
+  "user": 0,
+  "assistant": 4
+ },
+ "sources": {
+  "chats": {
+   "watermark_from": "2026-09-17T11:14:07.634Z",
+   "watermark_to": "2026-09-17T12:30:00Z",
+   "rows": 4,
+   "surface": "main_chat",
+   "dedupe": "watermark row 2026-09-17T11:14:07.634Z excluded (message_id match in batch 20260917-1140)",
+   "cumthread3_exclusion": "verified: 0 rows from side chat 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853 in window (main_chat only)",
+   "byte_exact": "per-row char-length verification against runtime.messages, 4/4 match (735/149/260/86)"
+  },
+  "externals": {
+   "note": "carried from scrape 20260917-1140 zero-new sweep at 2026-09-17T11:46Z; next 4h scrape owns externals"
+  }
+ },
+ "watermark_from": "2026-09-17T11:14:07.634Z",
+ "watermark_to": "2026-09-17T12:30:00Z",
+ "notes": "Heartbeat batch. Thin window: 0 user rows, 4 assistant operational handoffs. No new kb nodes (durable content subsumed by dat:1682, dat:1696, dat:1695-1699, pat:trust-escalation-ladder-20260917). No wiki changes, no media."
+}
