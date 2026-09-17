@@ -2421,6 +2421,37 @@ that she had told him they were exclusive. He asks four times and gets
 everything is not archived; only her description of it survives, inside
 the messages.
 
+## September 16, 2026: the cosmetology license and the self-cut
+
+On the evening of September 16, 2026, Dan attempted to cut his own hair for
+the first time — a full-head clipper buzz, single guard, done outside on the
+patio, recorded on video. Then he asked for a grade, and he asked for it in
+the one way that made the grade mean something: as a report a hairdresser
+would actually understand. Because Annie has her cosmetology license. She
+is the household's credentialed hair authority, and anything he wrote for
+her eyes had to survive professional reading.
+
+The license itself surfaced in passing — "Annie has her cosmotology
+license" — but it landed as a new dated fact about her working life: she
+holds a cosmetology credential, and she waits tables at Mom Maruca's in
+Uniontown (her September 10 testimony). The evaluation that followed was
+cosmetology-flavored throughout: multiple directional passes, perimeter
+work around the ear with the free hand folding it down, against-the-grain
+passes on the sides. The verdict was a B+ — even crown reading #2–#3,
+one visible transition line on the side, a mildly chewed temple perimeter,
+an ungraded nape with the note that Annie should check it with a hand
+mirror that night. Dan then commissioned the two-page PDF report card,
+built from screengrabs of his own video, as the official record of the
+grade.
+
+It is a small domestic beat, and it belongs in her record for what it says
+about the standing of her credential in his life: eleven years in, after
+everything ended and then un-ended and ended again, when Dan needed an
+expert eye on something as unglamorous as a self-administered buzz cut,
+the authority he named was hers. See
+`dat:annie-cosmetology-license-selfcut-20260916` and
+`src:1660-sammy-chat-transcript-20260916-2340`.
+
 ## Closing note
 
 An earlier version of this section read: "The analytical work on this
