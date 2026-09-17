@@ -1,0 +1,27 @@
+{
+ "batch": "20260917-0830",
+ "counts": {
+  "assistant": 59,
+  "total": 90,
+  "user": 31
+ },
+ "files": {
+  "chats.json": {
+   "sha256": "600421e0ffde167d4e0cdcffa4e60565b7ac5aa7bf42c2f28c158efe0c34e482",
+   "note": "byte-exact: all 90 rows verified per-row char length + total bytes (14513) against the DB"
+  }
+ },
+ "notes": "Heartbeat batch. CUMTHREAD3 carve-out held: all 90 rows surface main_chat (verified against agent.session_metadata; 0 rows from side chat 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853). Full bodies, no truncation. Watermark row 2026-09-17T03:39:56.967Z dropped (archived in batch 20260917-0340). Window tail row: 2026-09-17T06:29:12.639Z. External checks carried from the scrape's 03:49Z zero-new sweep (next 4h scrape at 07:40 EDT owns externals). One message_id corrected to DB ground truth (assistant-msg-46ce36ba-6a76-4d20-b735-b013b1b59813); one U+2019 normalized to ASCII apostrophe per DB bytes.",
+ "pulled_at_utc": "2026-09-17T06:30:00Z",
+ "sources": {
+  "chats": {
+   "md5_byte_exact": "1b3d4ceeabe824a0ab39bf9092b2d1a9",
+   "rows": 90,
+   "surface": "main_chat",
+   "watermark_from": "2026-09-17T03:39:56.967Z",
+   "watermark_to": "2026-09-17T06:30:00Z"
+  }
+ },
+ "watermark_from": "2026-09-17T03:39:56.967Z",
+ "watermark_to": "2026-09-17T06:30:00Z"
+}

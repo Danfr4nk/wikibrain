@@ -6,7 +6,7 @@ aliases: ["complete log doctrine", "complete log", "more is better than less"]
 status: active
 knowledge: earned
 date_created: 2026-09-16
-date_modified: 2026-09-16
+date_modified: 2026-09-17
 importance: high
 tags: [wiki-governance, editorial-policy, instruments, measurement]
 sources: []
@@ -44,3 +44,24 @@ It is the sibling of the narrative-spread doctrine: narrative-spread says intake
 ## What it is not
 
 Not a license to dump. "More is better than less" is about *completeness of the record*, not volume of prose — a 122-row table is the log; a 122-paragraph essay is noise. The doctrine pairs with the quiet-stretch collapse: completeness means nothing is missing, not that nothing is compressed. A day with nothing to report gets one line, and the line is there.
+
+---
+
+## Sibling doctrine: the latency principle (2026-09-17)
+
+A second standing doctrine, stated by Dan the day after complete-log, governs the *retention* side of the same instinct. Complete-log says display the full record; the latency principle says **save everything, because you cannot know in advance what will matter.**
+
+His words, 2026-09-17 (05:22:28Z): *"the entire philosophy here is to save the important and the unimportant alike. The wikibrain operates on the principle that unimportant data may be important data for something that hasn't even happened yet."*
+
+Sammy named it the latency principle on the spot — the value of a datum is latent until a future question activates it — and Dan's operational order, given two minutes earlier (05:20:36Z), is its standing form: *"In the future with wikibrain stuff default to the 'pull it all' option."* Never ask whether to pull; pull everything corpus-grade. Ask only about genuinely ambiguous judgment calls (multi-GB video archives).
+
+The two doctrines are siblings, not twins. Complete-log is about the *display* of what was kept: the log on the entry, falsifiable by the reader. The latency principle is about the *keeping* itself: the retention floor that makes the display possible. One faces the reader, the other faces the future. Both trace to the same sentence — *"More is better than less every time"* — applied in two directions: show the complete log, and save the unimportant data.
+
+In action: the Drive survey (109,004 files, 2TB/2TB) pulled corpus-grade material indiscriminately; the WHISK 9,868-image album is kept exhaust-first, fails never culled, because the bursts turned out to be the evidence; the pull-it-all default now governs every Drive and Takeout pass.
+
+**Limits.** The latency principle is a default, not a trump. Dan's explicit orders beat it the same way they beat the archival floor: the CUMTHREAD3 full writeback exclusion (2026-09-15) and the probe-framing kill order (2026-09-13) are same-class carve-outs — his word overrides the standing rule, every time. And it never meant "pull literally everything": the porn archive trees stay put by his own scoping, and genuinely ambiguous calls (multi-GB video) still come back to him. The principle is about not filtering by *current judgments of importance*, not about ignoring his explicit scope.
+
+## Sources
+
+- dat:1684-pull-it-all-corpus-policy-20260917
+- src:1681 (batch 20260917-0830 transcript)

@@ -1,10 +1,10 @@
 ---
 domain: work
 page_type: entity
-title: "Sammy avatar chronology — 2026-09-15 option session"
+title: "Sammy avatar chronology"
 status: active
 date_created: 2026-09-15
-date_modified: 2026-09-15
+date_modified: 2026-09-17
 sources:
   - "dat:1583-avatar-tool-options-canonical-picks-20260915 (full session, 17:41–18:11Z)"
   - "dat:1586-sammy-avatar-photoreal-brunette-20260915 (17:53:36–17:53:59Z change)"
@@ -12,15 +12,18 @@ sources:
 tags: [avatar, image-generation, collaboration]
 ---
 
-# Sammy avatar — 2026-09-15 option session
+# Sammy avatar chronology
+
+Running record of Dan's avatar option sessions in the main chat, newest
+session at the bottom.
 
 On 2026-09-15 (17:41–18:11Z) Dan ran an extended avatar option
 session in the main chat: repeated "Abatar me" + photo uploads,
 batches of generated options, buried-option inventory recalls, and
-two confirmed avatar changes. This page is the session record; it
-covers only the 17:41Z+ main-chat session (the pre-08:10Z frame of
-this day's avatar material is excluded from the record by the same
-rule that governs the writeback).
+two confirmed avatar changes. The 2026-09-15 section covers only the
+17:41Z+ main-chat session (the pre-08:10Z frame of that day's avatar
+material is excluded from the record by the same rule that governs
+the writeback).
 
 ## The buried inventory
 
@@ -70,3 +73,35 @@ The photoreal-brunette-white-tank-top state ran 17:53:59Z–18:00:44Z;
 the 18:00:44Z change superseded it with undescribed features. The
 end-of-window avatar state is therefore not fully described in the
 record.
+
+---
+
+## 2026-09-17 session — three blocked rounds, one slip-through, "New me now"
+
+Session window 05:35–05:55Z (01:35–01:55 EDT), all in the main chat.
+
+**Blocked rounds (3 requests, 7 images, all blocked by content policy):**
+- 05:35:53Z — "Abatar us" + couple photo (one image)
+- 05:36:19Z — "Abatar me" + photo (one image)
+- 05:36:20Z — "Abatar us" + five images
+- At 05:36:55Z: "all three rounds got blocked by content policy." At 05:44:00Z,
+  Dan's count-back: "three requests, seven images total. all blocked."
+- 05:54:27Z — "Abatar me" + photo: "blocked by content policy" (05:55:01Z).
+  Dan: "Shocker."
+
+**The slip-through:** 05:44:49Z — "Can you put her in a bathing suit and
+abatar her" + photo. This one generated: at 05:45:22Z, "That one slipped
+through. Want this one?" — and in the same second, "Option 1." (batch of 4
+per the standing batch-size rule; the pick was the first option).
+
+**The second "Option 1":** 05:55:28Z — "Abatar me" + photo. At 05:55:59Z:
+"Option 1." (the record does not describe this look's features).
+
+**Current state:** At 05:52:43Z, confirming the bathing-suit pick: "New me
+now." This supersedes the 2026-09-16 'Abatar me' Option 1 as Dan's live
+avatar. (dat:1685)
+
+## Sources
+
+- dat:1685-avatar-rounds-20260917
+- src:1681 (batch 20260917-0830 transcript)

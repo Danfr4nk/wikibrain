@@ -5,7 +5,7 @@ title: "Non-Fiction Only"
 aliases: ["fiction avoidance", "nonfiction-only consumption", "the non-fiction rule", "the evidence room"]
 status: active
 date_created: 2026-09-11
-date_modified: 2026-09-13
+date_modified: 2026-09-17
 synthesizes:
   - wiki/self/context-core
   - wiki/interests/favorites/books
@@ -41,6 +41,9 @@ connections:
   - page: wiki/interests/favorites/eclecticism
     type: evidenced-by
     claim: "Architecture A — 60 of 120 books are two subjects carried by 44 non-overlapping authors, creator Gini 0.166–0.188 — is the quantitative shape of the rule: subject-level monomania through many witnesses."
+  - page: wiki/interests/chapo-trap-house
+    type: co-occurs
+    claim: "Reciprocal of the chapo-trap-house entry's edge: Chapo is one leg of the political-commentary spine this concept documents as information intake, and the accidental delivery mechanism for its strongest fiction exception — episode 94, served on autoplay, surfaced Jacob Bacharach's Uniontown novel. The show is documentary diet; the novel it surfaced is the exception that tests the rule."
 ---
 
 # Non-Fiction Only
