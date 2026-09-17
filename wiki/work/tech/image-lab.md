@@ -98,6 +98,51 @@ It establishes that image generation was already a high-volume habit
 before September 2026; what the lab added was discipline — tags,
 references, a refusal ledger, and a commit pipeline.
 
+### The refine-spam exploit (2026-09-17 disclosure)
+
+On 2026-09-17, in a dedicated side chat set up for analyzing the
+Whisk images, Dan disclosed how the ~10,000-image archive was
+actually made: an exploit in Whisk's REFINE feature
+(`dat:1672-whisk-refine-spam-exploit-20260917`). His workflow, in his
+own words: "Generate an image wirh rhe subjects i want. > refine >
+prompt something naughty > SPAM CLICK GENERATE (you are only supposed
+tk have been able to generate one iteration through refine, not
+infinite) > review results." Refine was designed to permit exactly
+one iteration per use; spam-clicking Generate fired unlimited
+generations instead. **[ATTESTED]** The purpose was brute-forcing
+policy-blocked concepts — throw enough at the wall and something
+slips the filter. Once one image got through, he could "pretty
+reliably then continue to produce iterations of it through the
+regular generation or again through a refine spam exploit" — the
+slip-through became the seed of a production run. An earlier version
+of the story, volunteered on 2026-09-13 (~00:05 UTC), framed the
+glitch as a race condition: hammering the screen before the page
+loaded the next URL. The 2026-09-17 account is the fuller one: the
+exploit lived in REFINE. **[ATTESTED]**
+
+The disclosure also carried a correction to the pipeline model that
+reshapes how the archive reads. For roughly the last half of Whisk's
+life, Dan says, it ran full Nano Banana (Gemini 2.5 Flash Image)
+generation with reliable subject reference lock. That overturns the
+early-era picture — Gemini captioning each input image into prose,
+then feeding those captions to Imagen 3 (Imagen 4 from May 2025),
+with identity surviving only as prose and drifting on every
+regeneration. **[OPERATOR]** The consequence is taxonomic: the
+archive's burst clusters — same-second runs of 8–14 near-identical
+generations, dHash-identical pairs kept side by side, fails never
+culled (181-image stratified sample across 11 stops of the 9,868-image
+WHISK FULL album, May 24–Nov 24, 2025) — are iteration runs off
+slip-through survivors, not drift families. The images in a cluster
+look near-identical because they are near-identical: reference lock,
+not caption luck. **[DERIVED]**
+
+He explicitly ordered this written into the public wiki on
+2026-09-17 — his words, "Whisk doesnt even exist anymore" — revoking
+the earlier standing instruction to ask first before writing the
+exploit up publicly. **[ATTESTED]** The archive stays the exhaust of
+the process rather than a curated set; the exploit is how the
+exhaust got made.
+
 ## The 2026-09-10 battery
 
 The 2026-09-10 session is the lab's founding burst — and it was, in
