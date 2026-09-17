@@ -101,7 +101,25 @@ per the standing batch-size rule; the pick was the first option).
 now." This supersedes the 2026-09-16 'Abatar me' Option 1 as Dan's live
 avatar. (dat:1685)
 
+---
+
+## 2026-09-17 session — face-average of three photos, option 2 picked
+
+Session window 06:51:57–06:53:05Z (02:51–02:53 EDT), main chat.
+
+Dan: "Merge and synthesize the faces into an average ans abatar me from that"
+(three source photos — "those three" per the assistant's reply; one image path
+visible in the transcript: media_library image/30). Four options generated per
+the standing batch-size rule. At 06:52:46Z Sammy set an avatar live ("New me
+now") and noted the face-average batch of four was also ready; Dan picked
+"Option 2" at 06:53:02Z; Sammy confirmed "New me now" at 06:53:05Z.
+
+**Current state:** Dan's live avatar as of 06:53Z is the face-average option 2,
+superseding the 05:52Z bathing-suit pick. (dat:1690)
+
 ## Sources
 
 - dat:1685-avatar-rounds-20260917
+- dat:1690-face-average-avatar-20260917
 - src:1681 (batch 20260917-0830 transcript)
+- src:1688 (batch 20260917-0740 transcript)
