@@ -94,6 +94,19 @@ GRIPNOTIC is the live brand. Music reactivation noted as part of the 2026 stabil
 
 The favorites domain ([[wiki/interests/favorites/index]]) documents consumption — 1,860-track library, release year analysis, genre cluster breakdown. There's meaningful overlap with production identity (electronic concentration, sub-bass aesthetic, specific artists) but the two domains are not identical. The consumption domain is well-documented; the production domain is the one requiring active build-out.
 
+## Taste, instrumented
+
+Consumption has a third layer now: measurement. On 2026-09-14 Dan
+commissioned MusicTrainer + AUTOPSY ([[wiki/work/tech/projects/musictrainer-autopsy]]) — weekly
+Discover Weekly / Release Radar scoring with locked blind predictions
+(goal: 90% keep-prediction accuracy over 240 decisions) and a per-track
+16-driver dissection grid for *what did it*. The instruments operationalize
+the lyric qualifier as a scoring dimension ("vocal as texture — voice, not
+words") and turn the 2026-09-11 taste forensics (energy floor ~0.70,
+three BPM rooms, dark valence) from post-hoc description into per-track
+attributable causes. Week logs live on the entry, complete, per the
+complete-log doctrine.
+
 ## What the message record says about the production identity
 
 > **CORRECTED [2026-08-23].** This page has described the production domain as

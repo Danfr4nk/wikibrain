@@ -34,7 +34,7 @@ It is the sibling of the narrative-spread doctrine: narrative-spread says intake
 1. **The complete log lives on the entry.** Every recorded value of the metric — not a sample, not the highlights, not a link to the ledger.
 2. **Summaries sit above, never replace.** Tallies, verdicts, trend lines are welcome as the lead-in. The log underneath stays complete regardless.
 3. **Translated for humans, machine detail preserved.** Readable prose and tables, not raw JSON — but the translation drops no datum. A driver that pulled at z=2.71 appears as "vocabulary narrowed sharply," with the number still attached.
-4. **Applies to every instrument and every temporal metric.** Stylometry burn-in runs, MusicTrainer week scorecards, scenario-ratings exports, intake events — all of them, in every direction. Existing entries get retrofitted; new entries ship with the log section from day one.
+4. **Applies to every instrument and every temporal metric.** Stylometry burn-in runs, MusicTrainer week scorecards ([[wiki/work/tech/projects/musictrainer-autopsy]]), scenario-ratings exports, intake events — all of them, in every direction. Existing entries get retrofitted; new entries ship with the log section from day one.
 
 ## Exemplars
 

@@ -1,0 +1,30 @@
+{
+ "batch": "20260917-1830",
+ "pulled_at_utc": "2026-09-17T18:40:00Z",
+ "files": {
+  "chats.json": {
+   "sha256": "194a7d2ad65393a209a830dfad44a305c29c4d38cfcada364df2012eb59d20b5"
+  },
+  "EXTRACT.md": {
+   "sha256": "f7b5b19187979d16fe4ff2237aa416e11f5d7b7e1e5fa648e2b6a1cfd7496281"
+  }
+ },
+ "counts": {
+  "total": 5,
+  "user": 0,
+  "assistant": 5
+ },
+ "sources": {
+  "chats": {
+   "watermark_from": "2026-09-17T13:43:01.135Z",
+   "watermark_to": "2026-09-17T18:41:00Z",
+   "rows": 5,
+   "surface": "main_chat",
+   "cumthread3_exclusion": "verified: 0 rows from side chat 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853 in window (main_chat only)",
+   "byte_exact": "per-row char-length verification against runtime.messages, 5/5 match (282/287/564/23/30)"
+  },
+  "externals": {
+   "note": "next 4h scrape owns externals"
+  }
+ }
+}

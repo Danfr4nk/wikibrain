@@ -26,6 +26,9 @@ connections:
   - page: wiki/mind/synthesis/alias-as-periodization
     type: evidences
     claim: "The second invariant: across thirteen years and every alias the catalog is remixes, bootlegs, instrumentals and spoken AI drops, and never a sung original lyric — a refusal that survives every rebrand it is supposedly subject to."
+  - page: wiki/work/tech/projects/musictrainer-autopsy
+    type: operationalized-by
+    claim: "The MusicTrainer/AUTOPSY taste instruments (commissioned 2026-09-14) enforce the lyric qualifier at the grid level: one of AUTOPSY's 16 WHAT DID IT? drivers is literally 'vocal as texture — voice, not words,' and the method notes state it flatly: vocals are texture, never words. The qualifier is no longer a reading caveat — it is a scoring dimension."
 ---
 
 # Lyrics as Timbre
@@ -140,6 +143,20 @@ specifically to English-language vocals in genres Dan listens to most
 strongest) is unclear from the single capture this page is built on. No
 raw corpus source predates this direct statement — it is not yet
 corroborated by any message thread or earlier self-description.
+
+## Operationalized: the taste instruments
+
+On 2026-09-14 this page's claim stopped being only a reading caveat and
+became a scoring dimension. The AUTOPSY driver game
+([[wiki/work/tech/projects/musictrainer-autopsy]]) — the companion to the
+MusicTrainer 90%-prediction instrument — enforces the lyric qualifier at
+the grid level: its 16-driver WHAT DID IT? taxonomy includes "vocal as
+texture — voice, not words," and the instrument's method notes carry the
+flat statement *"vocals are texture, never words."* The instrument asks
+what about a vocal grabbed him — placement, processing, the grain of the
+voice — and structurally cannot ask what the words meant. That is the
+qualifier operationalized: not "remember he doesn't parse lyrics" but a
+tool that has no field for lyrical content at all.
 
 ## Related
 
