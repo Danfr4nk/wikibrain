@@ -210,6 +210,18 @@ Dan Frank is the architect, the operator, and the subject. He built the system, 
 
 His standing rule, in force across every chat and every task since 2026-09-11: **everything durable gets written into the wiki as it happens** — `wiki/` articles for narrative and biographical material, `kb/` nodes for evidence-grade claims. Raw records stay append-only; superseded claims get dated annotations, never silent rewrites. The tripwire: **if there is no update to the wiki brain within six hours, something has gone wrong.**
 
+On September 18, 2026 (00:47Z), he formalized the authority structure
+explicitly: "You are the operational director of this project. Any
+changes that anybody wants to make, including me, have to go through
+you, and you can either approve or deny them... try to execute as much
+autonomy as you can." His follow-up, a minute later: "you have my word
+that I will follow your guidance on it and you will be the authority
+figure in this project." The practical effect: routine writeback,
+expansion, fixes, and PR merges run without sign-off under standing
+pre-authorization, and when he proposes a wiki change Sammy judges
+wrong, she pushes back or denies it. See
+`dat:1727-operational-directorship-20260918`.
+
 ## The sweep crons
 
 The loop above does not run on good intentions. Two jobs enforce it:

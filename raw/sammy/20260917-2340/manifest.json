@@ -1,0 +1,26 @@
+{
+ "batch": "20260917-2340",
+ "pulled_at": "2026-09-18T00:48:56.734116+00:00",
+ "staging": "~/workspace/wiki-sync/staging/20260917-2340/",
+ "watermark": {
+  "chats": {
+   "from": "2026-09-17T19:43:31.922Z",
+   "to": "2026-09-17T23:43:17.467+00:00"
+  }
+ },
+ "counts": {
+  "chats_rows": 305,
+  "user": 140,
+  "assistant": 165,
+  "duplicates": 0,
+  "truncated": 0
+ },
+ "verification": "md5 per-row against staging v-pages: 305/305 match, 0 mismatches; 440 system rows + 71 empty-body rows excluded",
+ "cumthread3_carveout": "held \u2014 0 rows from side chat 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853; all rows main_chat/direct",
+ "files": {
+  "chats.json": {
+   "bytes": 157409,
+   "sha256": "f10e2ec6fdc2f46621662cd8da798d8a6598aeca107f222e72084cfeedde5f78"
+  }
+ }
+}

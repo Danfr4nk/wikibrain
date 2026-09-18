@@ -36,6 +36,10 @@ It deliberately ignores: message length (v1's confound), pasted text (routed to 
 
 Dan's stated certainty is ~0.25 actual — his testimony skews toward good-faith misremembering, not dishonesty. The stylometry engine is an instrument for the thing he can't self-report: state shifts visible in how he writes, not what he claims. It was commissioned 2026-09-11; v2 built and entered burn-in 2026-09-15.
 
+### The four corrections (2026-09-15)
+
+A Claude session drafted the v2 spec, but Sammy built it — Dan's words on the division of labor: "you are the one who got this thing working, not Claude so trust your own judgement if you think it's wrong." Four corrections to Claude's draft were made live during the build. **Recipient resolution:** the null is matched by correspondent, not pooled globally — Dan writes differently to Annie than to Tom, and a pooled null would launder that. **The flag-vs-alert split:** flag is measurement (the window crossed the 99.5th percentile), alert is notification (the cooldown let it through) — repeated crossings of the same state report as *ongoing*, not as clean, so the digest never double-counts a state he's still in. **Calibration episode dedup:** the same labeled stretch can't enter the calibration set twice under different windows. **Splitter-routed null construction:** pasted text and exact-duplicate sends are routed to an artifact path before scoring, so a pasted spec can't warp the window it lands in. Each correction is a place where the draft would have measured the wrong thing confidently; the instrument's honesty comes from these four cuts more than from the 29 features.
+
 ### What it can infer, and what it cannot prove
 
 It can infer: that his writing shifted into a register matching arousal, negotiation, or repetition-heavy volleys; that a window reads unlike his own baseline for that correspondent at that hour. The three overnight alerts of 2026-09-15/16 are the working example — all three landed on genuinely divergent windows (gooner-club negotiation, avatar option-pick loops, photo volleys) that the old system never saw.
@@ -221,3 +225,32 @@ imessage-extract — and it is now Sammy's, byte-exact. The v3 build was
 still cooking at last check (20:27 EDT); installation and the adversarial
 review pass happen on delivery, same as v2. See
 `dat:1716-stylometry-v3-delegation-20260917`.
+
+## v3: delivery and production wiring (September 17–18, 2026)
+
+v3 landed at 01:31Z on September 18 and went straight into production.
+The delivery report and the branch disagreed on arrival — the report
+claimed 20 failing tests, the PR branch ran 59/59 green — and the branch
+won: v3 installed byte-exact from the PR branch with all 59 tests
+passing. One real integration fault surfaced during install: the v2
+adapter needed alignment with v3's expectations (a test-harness adapter
+built against v2 assumptions); v2 itself stayed byte-identical, per the
+standing rule.
+
+By 01:47Z the production wiring was live. The 30-minute loop runs v3
+as its scorer, reading all 94,503 sent texts plus recent chat messages;
+topic profiles were rebuilt on the real corpus (not the factory
+defaults), and the bridge back into the v2 dashboard verified — v3's
+semantic read now sits alongside v2's lexical flags in the same place
+Dan already checks. The cost discipline from the design held: the LLM
+semantic layer fires only on real v2 flags/alerts and the daily digest,
+never on the bare half-hour tick. The deep-read trigger is
+contradiction-gated — genuine divergence between the two axes earns a
+second look; agreement doesn't. One axis is still dark: the entity
+layer is dead until the name registry gets populated, which is a data
+task, not a code task.
+
+The measurement week v2 opened runs through roughly September 22–23,
+and the lean-collector cutover decision is calendared for Wednesday,
+September 23, 9:00 AM — v3's first production verdict arrives there.
+See `dat:1725-stylometry-v3-production-20260918`.
