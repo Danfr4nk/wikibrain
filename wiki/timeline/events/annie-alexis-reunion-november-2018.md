@@ -4,7 +4,7 @@ page_type: event
 status: stable
 importance: high
 date_created: 2026-08-09
-date_modified: 2026-09-15
+date_modified: 2026-09-18
 date_range_start: 2018-11-03
 date_range_end: 2018-12-11
 sources:
@@ -32,8 +32,11 @@ connections:
     type: evidences
     claim: "The November 2018 reunion is the first well-documented instance of Dan's 'consensual voyeurism' mechanism in full operation — he explicitly requests a camera for the birthday-night event, shows religious elation at watching, and frames it as 'the best thing that's ever happened to me.' This prefigures the later $3000 offer to Alexis and the 'Dan-architected' framework's formal description in the dossiers."
   - page: wiki/timeline/events/shelbie-annie-threesome-april-2019
-    type: follows
-    claim: "The November reunion is the precursor to the April 2019 Shelbie threesome — both involve Annie as the pivot, both are non-monogamous arrangements with explicit Dan participation, but the November event is uniquely marked by the transactional $3000 origin disclosed to Emaly Minerd."
+    type: precedes
+    claim: "Dan frames the reunion as step one of Annie's five-step girl history: Lex (Nov 2018) → Trinity St. Clair (Mar 2019, Annie's first time eating pussy) → Shelbie (Apr 2019) → Skirt Club (Jul 2019) → Kelly Johannson. The Shelbie event page carries step three."
+  - page: wiki/people/trinity-st-clair
+    type: precedes
+    claim: "Dan frames the reunion as step one of Annie's five-step girl history: Lex (Nov 2018) → Trinity St. Clair (Mar 2019, the $1,500 hour, Annie's first time eating pussy) → Shelbie (Apr 2019) → Skirt Club (Jul 2019) → Kelly Johannson (dat:annie-gg-sequence-20260918)."
   - page: wiki/people/annie-ulmer
     type: component-of
     claim: "The Annie personality is the facilitator node in both the 2018 reunion and the Shelbie threesome — she coaches Annie, she handles logistics (moving dogs, buying wine), she frames the events as gift-giving to Dan, and she maintains the 'everything's fine' surface while the arrangement operates underneath."
@@ -78,7 +81,27 @@ The household immediately moved to repeat it. At 1:04 PM the same day, Annie tex
 
 The pattern recurred through the rest of the month, not as a single anniversary event but as an ongoing thing the household organized around. On **November 14**, late at night, Alexis texted Annie asking if it was too late to come over; Annie asked Dan's permission ("She can gladly come over if you can clean up a little... If that's okay with you...."), and Dan's response shows the arrangement's emotional register at its most intense: "Oh god I hope you guys hook up again... It's literally the best thing that's ever happened to me... I don't know how it would even get better if I was involved... This is going to make me religious. God must exist if I can watch something so beautiful."
 
-By **November 23**, some friction had crept in: Alexis said she wanted to hang out with Annie that night, but Annie was skeptical ("why would I when she hasn't come in the past few times I've asked her"), and Dan agreed she was being unreliable ("that's all she ever does... Nothing surprising there"). They still floated buying wine in case she followed through. On **November 25**, three weeks after the first hookup, Dan sent Annie an unprompted message making the emotional stakes explicit: "You have no idea how happy I am that you hooked up with a girl for me. Honestly it's something that I stop and appreciate several times a day in my head."
+By **November 23**, some friction had crept in: Alexis said she wanted to hang out with Annie that night, but Annie was skeptical ("why would I when she hasn't come in the past few times I've asked her"), and Dan agreed she was being unreliable ("that's all she ever does... Nothing surprising there"). They still floated buying wine in case she followed through.
+
+The intervening messages show the recruitment arc in real time. On **November 6** Dan told Annie: "And I can't wait for you to hook up with Lex." On **November 15** Annie reported: "Lex texted me just now" / "Lex said "promise🙏🏼"" / "I told lex I'll be really hurt if she doesn't come." On **November 23**: "Lex said she wants to hang with you tonight." On **November 25**, three weeks after the first hookup, Dan sent Annie an unprompted message making the emotional stakes explicit: "You have no idea how happy I am that you hooked up with a girl for me. Honestly it's something that I stop and appreciate several times a day in my head."
+
+The late-month messages show the arrangement's mechanics in the open. On **November 27** Dan told Annie: "I still haven't given up on bringing her into a threesome with us so I was just doing some 'grooming'" — and Annie's reply reclaims the frame: "Cause I wanted to sext her. Alone." The next day (**November 28**, in a blank-identifier thread) Dan narrated the state of play: "Lex is coming over to "hang" with Annie" / "Lex and I are really good. We don't have sex now but as soon as she saw how good Annie and I are with and for each other there was no tension" / "And now that Annie and Lex have a thing and I am so hyped about that, Lex and I really get along well." On **November 30**: "were you psyched that lex sent you a picture." The tail runs into 2019 — **January 20**: "it doesn't make sense. see if lex wants to lick your box"; **February 1**: "It never gets any easier to put the offer out there either. I talked to Lex a little bit for you too."
+
+## The G/G sequence (Dan's framing, 2026-09-18)
+
+Asked to contextualize the Trinity St. Clair booking, Dan laid out Annie's girl history as a five-step sequence, with this reunion as step one (dat:annie-gg-sequence-20260918):
+
+1. **Lex (November 2018)** — arranged by Dan; Annie's first lesbian encounter. His testimony on the acts: kissing, fondling, fingered each other; Lex ate Annie out; Annie did *not* go down on Lex.
+2. **Trinity St. Clair (March 2019)** — the $1,500 hour with the porn performer; both went down on each other; Annie's first time eating pussy. (See [[wiki/people/trinity-st-clair]].)
+3. **Shelbie (April 2019)** — two threesomes on a trip home for another carload of stuff, extended into a 5-day thing because he didn't want to leave Shelbie; both did literally everything; per Annie's telling, "the best girl sex she ever had" because "she actually likes girls." (See [[wiki/timeline/events/shelbie-annie-threesome-april-2019]].)
+4. **Skirt Club (July 18–19, 2019)** — Dan signed her up, she went to one event: the Tribeca penthouse night with live texting ("I'm in!", "I found girls", "I had fun baby") and the "contracted lesbianism like some kind of contagious disease" exchange three days later.
+5. **Kelly Johannson** — the second escort threesome.
+
+The sequence is his framing; the Skirt Club night is corpus-verified in full, the rest rest on his testimony plus the dated message threads. Note the brand confusion: the "kitten club" in his memory traces to Killing Kittens links he sent Annie in February–March 2019, a different brand whose events she never attended.
+
+## Pre-November contact (unresolved)
+
+Against the "first lesbian encounter" framing stands Dan's own contemporaneous message of **April 23, 2018** (to +14125139408): "alexis asks if she and her new boyfriend can move back in with me and Annie. i allow this to happen because lex had a threesome with Annie and i...i wasn't going to do anything to prevent that happening again" — past tense, contact already in the rearview seven months before the reunion. The June-14-2018 footage cut (Part 4, upload-025), whose Annie/Alexis identifications are his own earlier testimony, also predates the reunion — though its camera-clock reliability is already questioned elsewhere on this page. When the April 2018 text was raised on 2026-09-18, he pointed to the confirmed Nov 7, 2018 footage — which settles the November identity, not the April claim. Per the governance rule (contemporaneous platform-timestamped records outrank retrospective testimony), the April 2018 text is the heavier datum; "first" in his framing may mean "first arranged hookup" rather than first contact. Logged as an open contradiction (con:lex-pre-november-contact-vs-first-framing).
 
 ## Footage play-by-play (analyzed 2026-09-11–13; expanded 4x on 2026-09-13)
 
@@ -86,7 +109,7 @@ The standing open question on this page — whether any footage from the birthda
 
 Censorship follows Dan's 2026-09-13 revision of the 2026-09-12 directive: only visibly exposed nipples and genitalia are pixelated — nothing else, never the whole image. On the re-pulled set, 19 of the 128 frames needed targeted redaction (30 regions total). Uncensored originals live at `~/workspace/annie-alexis-frames/v3/final/` and were never committed.
 
-Identities: part 4's and part 3's identifications are Dan's testimony (Annie / Alexis); the second woman in the shortened Nov-6 cut (upload-026) is **unidentified** and is not asserted to be Alexis.
+Identities: part 4's and part 3's identifications are Dan's testimony (Annie / Alexis); the second woman in the shortened Nov-6 cut (upload-026) is **unidentified** and is not asserted to be Alexis. On 2026-09-18 Dan confirmed explicitly — "YEA! Alexis was her first lesbian encounter. The one I set up in November 2018" — that every "Lex" in the November 2018 Annie thread is Alexis and that the hookup was his arrangement. The identity hedges on this event's Lex material are retired (dat:lex-identity-confirmed-dan-20260918).
 
 ### Part 1 — the morning after the birthday night (Nov 6, 2018, 10:19:45–10:26:51 AM)
 
@@ -677,7 +700,7 @@ Superseded by the play-by-play above. Earlier screenshot captures from the reuni
 
 ## When
 
-Skepticism and flirtation build from October 13-27, 2018. The first hookup is November 3, reported the next day; the birthday-night repeat is November 5; further documented visits recur November 14 and are attempted/discussed through November 23-26; the fullest retrospective account, including the $3,000 origin story, is dated November 28. Residual contact (non-romantic) continues into December 9-11.
+Skepticism and flirtation build from October 13-27, 2018. The first hookup is November 3, reported the next day; the birthday-night repeat is November 5; further documented visits recur November 14 and are attempted/discussed through November 23-26; the arrangement mechanics stay visible through November 27-30 (the "grooming"/threesome exchange, the "Annie and Lex have a thing" narration) with residual feelers into January–February 2019; the fullest retrospective account, including the $3,000 origin story, is dated November 28. Residual contact (non-romantic) continues into December 9-11. One unresolved wrinkle: Dan's April 23, 2018 text claims Alexis/Annie contact ("lex had a threesome with Annie and i") already in the rearview — see [Pre-November contact](#pre-november-contact-unresolved).
 
 ## Significance
 
@@ -695,6 +718,7 @@ The birthday-night camera request, the "God must exist" line, and the "several t
 - ~~Whether any footage from the "hidden camera" request was actually taken, and if so what became of it, is undocumented~~ — answered 2026-09-11: Dan uploaded parts 1 and 3 of the security-camera footage plus a fourth part dated June 14, 2018; footage passed through PicsArt, in his possession; full play-by-play above
 - How many total times Alexis and Annie were together beyond the specifically dated messages is unknown
 - Alexis's exact release date is not independently confirmed beyond "just got out of jail" on Nov 4
+- Whether any Alexis/Annie contact predated November 2018 (April 23, 2018 text vs "first lesbian encounter" framing) — open contradiction, con:lex-pre-november-contact-vs-first-framing
 - Nov 7, 2018 is now covered by an annotated clip (Part 5, upload-120); the overlay/testimony date conflict is logged in `kb/events/2018-11-07-annie-alexis-annotated-clip`
 
 ## Sources — annotated Nov-7 clip (upload-120)
