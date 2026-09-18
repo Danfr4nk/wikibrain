@@ -26,6 +26,12 @@ connections:
   - page: wiki/work/tech/projects/musictrainer-autopsy
     type: sibling-instrument
     claim: "MusicTrainer/AUTOPSY instrument the taste side of the music practice (scoring keeps, dissecting why tracks land); hook2piano/MELODY instrument the analysis side (reading and hearing harmonic structure). Both pairs were commissioned within two days of each other and both live in the music category of Danfr4nk/tools."
+  - page: wiki/mind/concepts/exocortex
+    type: instantiates
+    claim: "hook2piano/MELODY are exocortex instruments in the strict sense of the concept: cognitive prosthetics that do the part of the musical task his perception doesn't do natively (reading notation, parsing stems by ear) so his native strengths (melodic/harmonic hearing, structural pattern recognition) get the cleanest possible input."
+  - page: wiki/mind/synthesis/dance-music-only-phases
+    type: references
+    claim: "The GRIPNOTIC-era reading of this entry is built on the re-entry account in the two-phases synthesis: the 2025 re-entry is listening-led, and these tools are its reference pipeline — what is the harmony, exactly, in a form he can read."
 ---
 
 # hook2piano + MELODY
@@ -34,7 +40,7 @@ hook2piano is a phone-friendly web app that converts TheoryTab tabs into piano r
 MELODY is its audio-input sibling: feed it a finished song and it pulls the lead melody out
 of the mix onto a piano roll. Together they are the **harmonic-analysis wing of the 2026
 builder wave** — the same agent-directed workflow that produced the Wiki Brain tooling and
-the attraction-guide, applied to the GRIPNOTIC revival's harmonic analysis problem.
+the attraction-guide, applied to the [[wiki/mind/synthesis/dance-music-only-phases|GRIPNOTIC revival]]'s harmonic analysis problem.
 
 ## The listening model the tools are built for
 
@@ -50,7 +56,7 @@ TheoryTab is, structurally, Dan's listening model made into a website. Its tabs 
 down to exactly the two channels he reports perceiving — the melody line and the chord
 progression — and discard everything he reports *not* perceiving: the narrative, the topic,
 the words as propositions. A tool that turns a TheoryTab tab into a readable score is not a
-generic music app; it is a builder solving his own sensory bottleneck. The lyric qualifier is
+generic music app; it is a builder solving his own sensory bottleneck. The [[wiki/interests/music/concepts/lyrics-as-timbre|lyric qualifier]] is
 the mandatory first frame for all music analysis in his record, and hook2piano is the first
 tool in the record that treats it as an engineering constraint rather than a reading caveat:
 if the user cannot read staff notation and does not parse lyrics as language, the
@@ -208,7 +214,7 @@ note-name rows top and bottom, chord labels G/B/Bsus4/C/Csus4/Cm, tiny white pit
 inside the green bars, blue melody bars, bar numbers 1–9, keyboard strips per roll.
 (dat:1750-hook2piano-pianoroll-rewrite-20260916)
 
-The rewrite is the day's clearest instantiation of the lyric-qualifier principle at the
+The rewrite is the day's clearest instantiation of the [[wiki/interests/music/concepts/lyrics-as-timbre|lyric-qualifier principle]] at the
 engineering level. Dan does not read staff notation any more than he parses sung lyrics
 as language — both are display formats that assume a listener/reader model he does not
 inhabit. The rewrite replaces a borrowed convention with the representation he actually
@@ -357,13 +363,13 @@ gathered them under one roof.
 The deeper pattern is extraction. The Wiki Brain's core move is extracting once so
 nothing gets re-derived; hook2piano extracts the harmonic skeleton from a consumer tab
 site so Dan doesn't re-derive chord progressions by ear; MELODY extracts the melody from
-a finished mix so he doesn't re-derive it by looping. They are exocortex instruments in
+a finished mix so he doesn't re-derive it by looping. They are [[wiki/mind/concepts/exocortex|exocortex]] instruments in
 the strict sense of the concept — cognitive prosthetics that do the part of the musical
 task his perception doesn't do natively (reading notation, parsing stems by ear) so his
 native strengths (melodic/harmonic hearing, structural pattern recognition) get the
 cleanest possible input.
 
-There is also a GRIPNOTIC-era reading. The revival is his re-entry into exclusively dance
+There is also a [[wiki/mind/synthesis/dance-music-only-phases|GRIPNOTIC-era reading]]. The revival is his re-entry into exclusively dance
 music production; its study material is harmony and melody, not lyrics (the thirteen-year
 "never sung original lyrics" pattern across every alias, answered by the lyric
 qualifier). A builder producing instrumental dance music needs harmonic references as

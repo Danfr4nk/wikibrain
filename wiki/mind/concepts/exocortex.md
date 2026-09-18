@@ -5,7 +5,7 @@ title: "The Exocortex (Bootloaders & Master Prompts)"
 aliases: ["CATO", "operating manual", "master forensic prompt", "MAX"]
 status: active
 date_created: 2026-06-22
-date_modified: 2026-09-13
+date_modified: 2026-09-18
 knowledge: earned
 tags: [forensic-analysis, ai-collaboration, personality-profile]
 sources:
@@ -44,6 +44,9 @@ connections:
   - page: wiki/self/concepts/claude
     type: superseded-by
     claim: "Claude was the primary model that loaded the CATO bootloader until 2026-09-12, when Dan canceled his subscription outright after judging Muse Spark 1.3 superior — the displacement is documented on the Claude page; the bootloader mechanism is model-agnostic and survived the move."
+  - page: wiki/work/tech/projects/hook2piano
+    type: instantiates
+    claim: "hook2piano/MELODY are the music-production wing's exocortex instruments: cognitive prosthetics that do the part of the musical task his perception doesn't do natively (reading notation, parsing stems by ear) so his native strengths — melodic/harmonic hearing, structural pattern recognition — get the cleanest possible input."
 ---
 
 # The Exocortex
@@ -78,7 +81,7 @@ The bootloader solved the cold-start problem: how to make a fresh session compet
 - **The wiki-brain 6-hour engine heartbeat** — the recursive work engine (`bin/wb-work`, `bin/wb-orchestrate`): Archivist → Editor → self-check → queue-clearing, one full engine tick per run. The wiki now maintains itself on a schedule.
 - **The wiki-push-watch and release-radar** — quiet instrumentation for repo state and music intake.
 - **The continuous raw/ push pipeline** — every data batch lands in both repos (RAWLOGS raw files, Wiki Brain evidence nodes) without being asked.
-- **The instrument battery** — MNEME (memory platform spec), hook2piano (TheoryTab→piano web app, live), frame-describe (open-ended frame/body description tool, live), the scenario-rate instruments (v1/v2), face-tag (InsightFace enrollment, local-only registry).
+- **The instrument battery** — MNEME (memory platform spec), [[wiki/work/tech/projects/hook2piano|hook2piano]] (TheoryTab→piano web app, live), frame-describe (open-ended frame/body description tool, live), the scenario-rate instruments (v1/v2), face-tag (InsightFace enrollment, local-only registry).
 
 ## NEW [2026-09-13] — the recursion: the wiki is now part of the exocortex
 
