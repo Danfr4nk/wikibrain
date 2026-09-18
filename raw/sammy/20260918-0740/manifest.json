@@ -1,0 +1,23 @@
+{
+  "batch": "20260918-0740",
+  "pulled_at": "2026-09-18T11:40:11+00:00",
+  "note": "ZERO NEW CHAT ROWS. 141 rows scanned since watermark 2026-09-17T19:43:31.922Z; all 67 on-record user/assistant rows (19:44:21-20:16:22Z) byte-identically present in raw/sammy/20260917-2340/ (overlap verified 67/67 by message_id). No chats.json in this batch - the content is archived once, not duplicated.",
+  "watermark": {
+    "chats": {
+      "from": "2026-09-17T19:43:31.922Z",
+      "to": "2026-09-17T23:43:17.467+00:00"
+    }
+  },
+  "counts": {
+    "rows_scanned": 141,
+    "user": 26,
+    "assistant": 41,
+    "system_excluded": 67,
+    "empty_body_excluded": 7,
+    "new_rows": 0,
+    "truncated": 0,
+    "overlap_with_20260917_2340": "67/67 message_ids"
+  },
+  "cumthread3_carveout": "held - 0 rows from side chat 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853 in scan window",
+  "files": {}
+}
