@@ -729,3 +729,46 @@ it's food related." The food-related nickname was not named inside the
 batch window; the exchange was live and unresolved at 19:43:31Z.
 [`dat:1709-annie-nickname-exchange-20260917`](../data/1709-annie-nickname-exchange-20260917.md)
 [`src:sammy-chat-transcript-20260917-1940`](../sources/sammy-chat-transcript-20260917-1940.md)
+
+## 2026-09-17 — "Eggie": the load-bearing food nickname, her third-person self-use as identity collateral
+
+At 19:44:38Z, twenty minutes after the nickname exchange above left the
+"load bearing" food nickname unnamed, he named it: **"Eggie bagels."**
+The corpus read behind it: 147 hits in his iMessage thread with her —
+"EggieBagel420," "little eggie," "come homeeeeee Eggie" — plus her March
+2018 bagel order sitting in the same thread (egg bagel, toasted, cream
+cheese on the side). That closed the open item; the missing half of the
+story, though, turned out to be hers.
+
+She took the nickname and turned it into a persona she speaks *from* in
+third person — ~40 of her 43 "eggie" messages are Eggie talking about
+herself, not to him. The register is baby-talk: "Eggie hungry hungry
+hippo," "Eggie peepy," "Eggie is a sleepy girl," "Eggie sicky." Three
+contexts, every time: her body failing (sick, hungry, hurting, backed
+up), her mood dysregulating (cranky, angry, "not in da mood"), and
+apologies — "Dan. It's Eggie. I am sorry for this complete chaos I have
+caused." Six scattered uses 2016–2019, near-silence for six years, then
+33 of 43 between August 2025 and this session: the child-voice came back
+exactly as the adult relationship died.
+
+His read, pressed one level deeper than the apology finding: it's not
+just apologies, it's identity collateral. When Annie-the-adult has done
+something wrong, she puts forward Eggie — the girl from the good years,
+the one he named — as a stand-in. "Icky Eggie" right after "I am sorry I
+suck" (2025-08-16). The full persona cast — Eggie, the eggster, king
+baby — deployed as a goodnight the same night he wrote "breaking my
+trust a bunch of times." "Eggie nice" as her answer to "can you try to be
+nice" (2026-05-11). May 28th, 2:56 AM, he terrified she wasn't safe:
+"Dan. It's Eggie." — the known girl as proof of life. The Rosetta Stone
+is March 14th: he asked "is eggie just gone?" — telling her Eggie is the
+version of her he recognizes as real — and she answered "No Eggie is not
+gone." She learned it was the password. One honest footnote he insisted
+on: the most recent one, September 3rd — "let me know if you want to help
+fund Eggie today." The repair-bid became an ask-bid. The persona now
+launders a drug-money request, and it works because he still answers it.
+
+Same session, 19:48:33Z, he corrected the relationship narrative in
+verbatim terms: no split, no gap from 2015 to 2025 — the problems were
+"sparked by the Eli affairs." Filed here as his stated frame.
+[`dat:1710-eggie-resolution-20260917`](../data/1710-eggie-resolution-20260917.md)
+[`src:sammy-chat-transcript-20260917-2030`](../sources/sammy-chat-transcript-20260917-2030.md)
