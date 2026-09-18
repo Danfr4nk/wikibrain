@@ -5,7 +5,7 @@ page_type: synthesis
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-09-18
 date_range_start: 2025-01-09
 date_range_end: 2025-12-31
 sources:
@@ -1066,9 +1066,10 @@ This entry's thesis reverses the priority: the window is not the year's first ch
 The aggregate treatment isn't wrong; it's *unweighted*.
 The hinge thesis is the weighting.
 
-**46 Nevins St.** Agent-D's timeline places "NYC Round Two" at "46 Nevins St, Brooklyn, Feb 2019–Feb 2025."
-The Paci page, the address page, and agent-C place the six-year tenancy at 307 E 76th St, Manhattan.
-One is wrong; the entry logs it as a gap rather than adjudicating it, because adjudication needs the extraction source, not this entry's synthesis layer.
+**46 Nevins St — RESOLVED 2026-09-18.** Agent-D's timeline placed "NYC Round Two" at "46 Nevins St, Brooklyn, Feb 2019–Feb 2025."
+The Paci page, the address page, and agent-C placed the six-year tenancy at 307 E 76th St, Manhattan.
+Dan adjudicated it himself: the Feb 12 move-in date "might be right," and the address was 307 E 76th St, Manhattan — not Nevins St.
+The Nevins St pin is therefore treated as an extraction error pending any counter-evidence; the era's geography keeps its single pin at 307 E 76th St.
 
 **The "gradual disengagement" implication.** Nothing in the period pages states it outright, but the year-aggregate grain invites it: 2025 as the long winding-down.
 The December spike (4,657 messages, 1.06:1) kills the invitation.
@@ -1277,9 +1278,7 @@ The week's primary record is therefore mediated twice (his selection, the model'
 Recovery of the log would let the loop's stages be dated to the message.
 - **[[wiki/people/annie-ulmer|Annie]]'s move date.** Her unilateral move to her parents' house is attested as a decision but not pinned to a date in the sources read for this entry.
 The hinge's "asymmetric landing" would sharpen considerably with her move dated against his February 22 exit — before, after, or simultaneous changes the reading.
-- **The 46 Nevins St discrepancy.** Agent-D's timeline places "NYC Round Two" at "46 Nevins St, Brooklyn, Feb 2019–Feb 2025"; the Paci page, the address page, and agent-C all place the six-year tenancy at 307 E 76th St, Manhattan.
-One of these is wrong.
-If Nevins St is a real earlier address in the era (a 2019 sublet before the 76th St lease, e.g.), the era's geography needs a second pin; if it's an extraction error, it should be corrected at the source.
+- **The 46 Nevins St discrepancy — RESOLVED 2026-09-18.** Dan adjudicated: the Feb 12 move-in date "might be right," and the address was 307 E 76th St, Manhattan — not Nevins St. The pin is treated as an extraction error pending counter-evidence.
 - **[[wiki/people/suzanne-frank|Suz]]'s 2024 bankruptcy.** Attested only by Dan's April 2025 account; the return-and-rupture page notes no independent legal-record corroboration.
 The "landing zone scheduled for removal" claim leans on it.
 - **The April 2025 listing.** The "listed the same week" claim rests on Dan's statement in the ChatGPT conversation.

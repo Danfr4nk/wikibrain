@@ -3,7 +3,7 @@ domain: people
 page_type: entity
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-09-11
+date_modified: 2026-09-18
 date_range_start: 2019-06-01
 date_range_end: 2020-06-28
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv", "raw/people/annie-ulmer/escort-messages-chatgpt-export-2025-08.md"]
@@ -87,6 +87,7 @@ resolved in the thread; it's the last contact on record.
 | Date range | 2019-06-01 to 2020-06-28 |
 | Direction | June thread unreliable in this export (marked "Received" throughout) — read as one-way (Jared/Tricia to "Hazel"). The August 2019 thread is two-sided, and at least the photo-request message is confirmed to be Dan writing as "Hazel," not Annie. |
 | Handle | +16178710640 (June bookings, messages self-prefixed with +12014639300); a separate Google Voice number by August 2019 |
+| 2026-09-18 confirmation | Dan confirmed the keepsake photo (upload-015.jpg, red-lit bedroom) is from this same June 2019 encounter — the "girl fun" first meeting Trish sent the picture of — upgrading the earlier assessment to his direct confirmation. Name note, same day: his chat spelling "jerad" was a typo — the client is **Jared**, unrelated to his oldest friend Jerad Friedline. The sessions, in his words, included "a FFFM and a FFF with just tricia, her guest and annie (the escort)" — Annie as the paid girl in both configurations. |
 | Rate | $1,000 / 2 hours (per the June 1 booking) |
 
 ## Gaps

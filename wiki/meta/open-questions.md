@@ -5,7 +5,7 @@ title: "Open Questions"
 status: active
 knowledge: derived
 date_created: 2026-08-26
-date_modified: 2026-09-14
+date_modified: 2026-09-18
 sources: []
 ---
 
@@ -606,7 +606,7 @@ new knowledge available, because no new source is required.
 - **[[wiki/mind/synthesis/the-2025-collapse]]** — Seven questions, all checkable by one person. The entry's falsifiers and gaps are the wiki's work; these are his.
 - **[[wiki/mind/synthesis/the-2025-collapse]]** — **The underlying April 17–26 message log.** The return-and-rupture page flags it: the log Dan uploaded to ChatGPT is not itself on disk in `raw/` — only the analysis conversation survives. The week's primary record is therefore mediated twice (his selection, t
 - **[[wiki/mind/synthesis/the-2025-collapse]]** — **Annie's move date.** Her unilateral move to her parents' house is attested as a decision but not pinned to a date in the sources read for this entry. The hinge's "asymmetric landing" would sharpen considerably with her move dated against his February 22 exit
-- **[[wiki/mind/synthesis/the-2025-collapse]]** — **The 46 Nevins St discrepancy.** Agent-D's timeline places "NYC Round Two" at "46 Nevins St, Brooklyn, Feb 2019–Feb 2025"; the Paci page, the address page, and agent-C all place the six-year tenancy at 307 E 76th St, Manhattan. One of these is wrong. If Nevin
+- **[[wiki/mind/synthesis/the-2025-collapse]]** — **The 46 Nevins St discrepancy — RESOLVED 2026-09-18.** Dan adjudicated: the February 2019 move-in date (Feb 12) "might be right," and the address was 307 E 76th St, Manhattan — not 46 Nevins St, Brooklyn. The Nevins St pin is therefore treated as an extraction error pending any counter-evidence; the six-year tenancy (Feb 2019–Feb 2025) sits at 307 E 76th St per the Paci page, the address page, agent-C, and now the operator himself.
 - **[[wiki/mind/synthesis/the-2025-collapse]]** — **Suz's 2024 bankruptcy.** Attested only by Dan's April 2025 account; the return-and-rupture page notes no independent legal-record corroboration. The "landing zone scheduled for removal" claim leans on it.
 - **[[wiki/mind/synthesis/the-2025-collapse]]** — **The April 2025 listing.** The "listed the same week" claim rests on Dan's statement in the ChatGPT conversation. No listing record (Zillow/MLS capture, realtor correspondence) is cited in the sources read. The fourteen-month countdown (Apr 2025 listing → Jun
 - **[[wiki/mind/synthesis/the-2025-collapse]]** — **What the purge sessions displaced, track by track.** The 498-URI purge is counted but not fully inventoried in the sources read; a complete inventory would test the "old canon removed from the working library" reading against the actual titles.
