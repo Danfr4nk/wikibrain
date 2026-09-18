@@ -35,7 +35,7 @@ infobox:
   sex: unknown
   location: uniontown
   relationship_to_dan: dealer
-  handles: ["+17249123381"]
+  handles: ["+1724***3381"]
   first_contact: 2018-03-12
   known_for: "A 106-message 2018 Uniontown Suboxone-strip secondary; the thread whose headline direction-ratio the held corpus overturned"
 connections:
@@ -50,7 +50,7 @@ connections:
     claim: "Concurrent 2018 Uniontown nodes at opposite scales: Johnny holds 7,090 held messages to Zaco's 106, and their active months coincide rather than alternate — which answers, negatively, the standing question of whether Zaco was a Johnny substitute."
   - page: wiki/people/zach-hendricks
     type: contradicts
-    claim: "Two pages, one handle. Zach Hendricks and Zaco both claim +17249123381 and both report 58 messages; the held corpus holds one 106-message thread there, so the wiki is carrying one contact as two entities with a shared, half-counted total."
+    claim: "Two pages, one handle. Zach Hendricks and Zaco both claim +1724***3381 and both report 58 messages; the held corpus holds one 106-message thread there, so the wiki is carrying one contact as two entities with a shared, half-counted total."
   - page: wiki/places/155-virginia-ave
     type: co-occurs
     claim: "The thread's one recorded handoff address is Dan's own residence, sent on 2018-06-28 nine months before the eviction notice that ended the tenancy — which places a 2018 supply meet at the same house as the 2015 Dream Queen grow and the earliest Uniontown supply node's standing handoff point."
@@ -60,7 +60,7 @@ connections:
 
 Zaco is a 2018 Uniontown-area supplier known to the corpus by one self-given
 name in one SMS — *"Yo it's zaco"*, 2018-03-12 at 17:44 EDT — and by the SMS
-handle `+17249123381`. The thread is **106 messages long, ran for eight and a
+handle `+1724***3381`. The thread is **106 messages long, ran for eight and a
 half months, and contains an entire small supply relationship from
 introduction to failure**: two products, a dozen meets, two price schedules, a
 complaint about market quality, and a last exchange that fails on transport
@@ -312,7 +312,7 @@ recorded. Nothing later in the corpus refers to Zaco in any channel.
 
 ## Complete log — all 106 messages
 
-The whole thread, `chat_identifier = +17249123381`, in chronological order,
+The whole thread, `chat_identifier = +1724***3381`, in chronological order,
 from the held corpus. Times converted from the corpus's UTC `date_sent` to US
 Eastern local (EDT March 11 – November 4, EST thereafter); see *Evidence
 status*. Nothing is elided, including the two messages noted below the table.
@@ -451,7 +451,7 @@ preserved on [[wiki/people/jay-lauer]] — a log that edits itself is not a log.
 | Attachments | 0 |
 | Days opened by Zaco / by Dan | **21 / 14** |
 | Zaco openers that announce stock unprompted | **14 of 21** |
-| Handle | `+17249123381` |
+| Handle | `+1724***3381` |
 
 | Month | Zaco → Dan | Dan → Zaco | Total |
 |---|---|---|---|
@@ -477,7 +477,7 @@ The prior version listed this as a gap: *"Both are active in Uniontown in
 posture reflects a lower position in the same chain."* The held corpus answers
 the substitution half of it, negatively, by simple overlap.
 
-| 2018 month | [[wiki/people/johnny-dealer\|Johnny]] `+17243223678` | Zaco |
+| 2018 month | [[wiki/people/johnny-dealer\|Johnny]] `+1724***3678` | Zaco |
 |---|---|---|
 | February | 230 | — |
 | March | 422 | 16 |
@@ -513,16 +513,16 @@ unnamed.
 ## Identity: two pages, one handle
 
 The wiki carries this contact twice. [[wiki/people/zach-hendricks]] records
-"Zach Hendricks (self-styled 'Zaco')" on the same handle `+17249123381`, the
+"Zach Hendricks (self-styled 'Zaco')" on the same handle `+1724***3381`, the
 same date range 2018-03-12 → 2018-11-26, and the same 58 messages marked "all
-received (an export artifact)"; it adds a second handle `+17247102745` from
+received (an export artifact)"; it adds a second handle `+1724***2745` from
 Google Contacts and a note that the number appears twice in the contact file,
 once as "Zach" and once as "Zack." This page records "Zaco," sex unknown,
 identity unresolved.
 
 The held corpus does not resolve which name is right, but it does establish
 that **there is one thread, not two**, and that both pages are carrying the
-same undercount. It also disposes of the alternate handle: `+17247102745`
+same undercount. It also disposes of the alternate handle: `+1724***2745`
 holds **exactly one message** in 192,140 rows — Dan, 2018-02-20 16:09 UTC,
 *"hey dude"* — twenty days before the Zaco thread opens, with no reply. That
 is consistent with a contact card holding two numbers of which only one was
@@ -544,9 +544,16 @@ is simply named once.
 
 ## Evidence status
 
+**Handles are masked** on this page in the `+1724***3381` form used by
+[[wiki/people/jay-lauer]] and [[wiki/people/ellen-ulmer]], and by the kb's
+counterparty-redaction rule; the prior version printed them in full. The full
+handle is recoverable from the corpus by the anchor text *"Yo it's zaco"*,
+which is how [`dat:1357`](../../kb/data/1357-zaco-thread-recount.md) located
+the thread, so nothing on this page becomes unreproducible.
+
 **Held and verified.** All 106 log rows, the monthly splits, the direction
 counts, the service and attachment fields, the Johnny comparison, and the
-single-row results for `zaco` and for `+17247102745` are read directly from
+single-row results for `zaco` and for `+1724***2745` are read directly from
 `raw/imessage/messages-part1-2011-2019.csv` and `…part2-2019-2026.csv`, which
 together hold 192,140 rows and 45 columns — matching `corpus/manifest.json`
 exactly on both figures. This page's numbers are therefore reproducible from
