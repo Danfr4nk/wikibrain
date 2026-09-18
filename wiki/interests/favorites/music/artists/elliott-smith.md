@@ -30,6 +30,7 @@ related:
   - "wiki/mind/synthesis/liked-dump-residue"
   - "wiki/self/tattoos"
   - "wiki/self/twitter/2018"
+  - "wiki/meta/complete-log-doctrine"
 tags: [personality-profile, forensic-analysis, music-production, taste]
 connections:
   - page: wiki/mind/synthesis/music-as-identity
@@ -90,7 +91,15 @@ loves him for.
 ## The complete log
 
 Every dated trace of Elliott Smith in the record, with source and status. There
-are fourteen.
+are fifteen.
+
+Per [[wiki/meta/complete-log-doctrine]], this is the complete set rather than
+the notable ones, and the counts table below it is the second log — every
+recorded value of every Smith-related metric the wiki holds, including the two
+that are zero and the one that is unattested. The known hole is named rather
+than smoothed: three of the seven masterlist track titles have never been
+written down anywhere, so the track log is complete as to count and incomplete
+as to content, and no title is guessed to fill it.
 
 | Date | Entry | Status |
 |---|---|---|
@@ -110,10 +119,11 @@ are fourteen.
 | 2026-07-14 | The lyrics-as-timbre capture — Dan's direct statement that sung words register as timbre, not semantic content | First-person capture |
 | 2026-09-11 | The lyric qualifier, stated with Smith named: *"his lyricist fandoms (JPEGMAFIA, Kanye, Elliott Smith) are about delivery/timbre, not bars"* | First-person ([`dat:0076`](../../../../../kb/data/0076-lyric-qualifier.md)) |
 
-Fourteen entries across twenty-three years. Nine are held, verified, or
-machine-logged; three are relayed from the Facebook export; two are
-interpretations of measurements. None of them is a message in which Dan
-discusses an Elliott Smith song.
+Fifteen entries across twenty-three years. **Nine** are held, verified, or
+machine-logged; **two** are relayed from the unheld Facebook export; **two** are
+first-person captures; **two** are carried from other wiki pages
+([[wiki/self/tattoos]], [[wiki/people/james-dee]]). None of them is a message in
+which Dan discusses an Elliott Smith song.
 
 ## The counts, and which of them hold
 

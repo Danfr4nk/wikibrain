@@ -27,6 +27,7 @@ related:
   - wiki/people/fran-coldren
   - wiki/mind/synthesis/supply-network
   - wiki/timeline/periods/2017-poverty-floor
+  - wiki/meta/complete-log-doctrine
 tags: [family, addiction-recovery, relationships, uniontown-era, grief, forensic-analysis]
 infobox:
   name: "Betherin Mechling"
@@ -268,6 +269,16 @@ record. It is not a fact about her life.
 Everything the wiki holds that names Betherin or the Mechlings, in order, with
 source. This is the whole file on her.
 
+Per [[wiki/meta/complete-log-doctrine]], the log below is the record rather than
+a selection: every entry the wiki holds appears, and the summary above it is a
+lead-in, not a replacement. The boundary is worth stating exactly, because it is
+unusual. **There is no message thread to log.** She is not a correspondent, so
+the metric here is not a count of rows but a count of mentions, and the complete
+set of those is **fifteen entries** — thirteen carrying a date or a dated range,
+two (the thread-wide money quotes, and the undated ring return) placeable only
+by the events either side of them. Nothing is compressed out; the nine-month and
+seven-year quiet stretches are named where they fall.
+
 | Date | Entry | Source |
 |---|---|---|
 | 2015-12-10 | First contact date recorded in this page's infobox; the underlying message is not quoted anywhere | Page frontmatter, via the operator capture |
@@ -286,8 +297,8 @@ source. This is the whole file on her.
 | 2017-04-17 | *"Mr. Mechling said to tell you hello"* | Testimony, zero held hits |
 | 2024-07-13 | *"The whole ulmer/mechling crew was in Hilton head…the derrick ave gang"* | [[wiki/places/derrick-avenue]] |
 
-Count of entries: **sixteen**, spanning eight and a half years, of which one is
-her own speech. Zero. She never writes to Dan and he never writes to her; there
+Count of entries: **fifteen**, spanning December 2015 to July 2024, of which the
+number in her own words is **zero**. She never writes to Dan and he never writes to her; there
 is no Betherin thread to count.
 
 ## Appendix — the evidentiary split, compactly

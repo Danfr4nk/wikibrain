@@ -27,6 +27,7 @@ related:
   - wiki/people/teddy
   - wiki/people/fran-coldren
   - wiki/mind/concepts/contact-gini
+  - wiki/meta/complete-log-doctrine
 infobox:
   name: "Zaco"
   sex: unknown
@@ -136,6 +137,16 @@ primary sources as a medical baseline rather than an episode
 ([[wiki/mind/synthesis/supply-network]]); this is that baseline being topped up
 by the strip, at the bottom of the local market, during the worst financial year
 in the record.
+
+Per [[wiki/meta/complete-log-doctrine]], what follows is the log rather than a
+sample, and its boundary needs stating precisely. The held thread is **106
+rows**; the wiki has text for **twenty-five** of them — twenty-four quoted in
+the three tables below, in both directions, plus one (a 2018-06-28 address line)
+identified but withheld under the ingest redaction rule rather than dropped
+silently. The remaining eighty-one rows exist in `corpus/messages.csv`, which is
+gitignored and absent from this repository, so they cannot be reproduced here.
+The gap between twenty-five and 106 is the thing to close, and it closes by
+re-pulling the corpus, not by re-reading this page.
 
 The complete inbound advertising log, as the page has carried it:
 
