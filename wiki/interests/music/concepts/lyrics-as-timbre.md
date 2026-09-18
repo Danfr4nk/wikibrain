@@ -4,7 +4,7 @@ page_type: concept
 title: "Lyrics as Timbre"
 status: active
 date_created: 2026-07-14
-date_modified: 2026-08-18
+date_modified: 2026-09-18
 knowledge: earned
 sources:
   - raw/self/captures/2026-07-14-lyrics-as-timbre.md
@@ -29,6 +29,9 @@ connections:
   - page: wiki/work/tech/projects/musictrainer-autopsy
     type: operationalized-by
     claim: "The MusicTrainer/AUTOPSY taste instruments (commissioned 2026-09-14) enforce the lyric qualifier at the grid level: one of AUTOPSY's 16 WHAT DID IT? drivers is literally 'vocal as texture — voice, not words,' and the method notes state it flatly: vocals are texture, never words. The qualifier is no longer a reading caveat — it is a scoring dimension."
+  - page: wiki/work/tech/projects/hook2piano
+    type: operationalized-by
+    claim: "hook2piano/MELODY (2026-09-16) treat the qualifier as an engineering constraint: pitch-as-geometry with note names as text, because the user cannot read staff notation and does not parse lyrics as language. The piano-roll rewrite is the qualifier instantiated as interface."
 ---
 
 # Lyrics as Timbre
@@ -157,6 +160,14 @@ what about a vocal grabbed him — placement, processing, the grain of the
 voice — and structurally cannot ask what the words meant. That is the
 qualifier operationalized: not "remember he doesn't parse lyrics" but a
 tool that has no field for lyrical content at all.
+
+On 2026-09-16 the qualifier became an engineering constraint in the
+harmonic-analysis instruments too. [[wiki/work/tech/projects/hook2piano]]
+(the TheoryTab→piano-roll web app) and its audio-input sibling MELODY
+treat the qualifier as a build spec: the representation must be
+pitch-as-geometry with note names as text, because the user cannot read
+staff notation and does not parse lyrics as language — the same verdict
+that drove the piano-roll rewrite the day it shipped.
 
 ## Related
 

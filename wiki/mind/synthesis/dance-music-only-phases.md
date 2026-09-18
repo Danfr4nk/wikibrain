@@ -5,7 +5,7 @@ title: "Two Phases of Dance-Only Listening"
 status: active
 knowledge: earned
 date_created: 2026-09-11
-date_modified: 2026-09-12
+date_modified: 2026-09-18
 sources:
   - src:playlist-forensics-2026-09-11
   - src:exportify-haul-2026-09-11
@@ -46,6 +46,9 @@ connections:
     claim: "The fiction-avoidance documented there may run on the same mechanism: narrative carried in an aesthetic medium not landing as information. Stated as a parallel, not an attestation."
   - { target: "[[wiki/mind/synthesis/the-unbroken-bond]]", type: contextualizes, claim: "The Annie decade maps near-exactly onto the fallow decade for dance-world participation." }
   - { target: "[[wiki/mind/synthesis/music-as-identity]]", type: extends, claim: "Reciprocal: the phase transition is music-as-identity construction in its most documented form." }
+  - page: wiki/work/tech/projects/hook2piano
+    type: references
+    claim: "The hook2piano entry's GRIPNOTIC-era reading is built on this synthesis's re-entry account: phase 2 is listening-led, and hook2piano/MELODY are its reference pipeline — the ordnance survey behind the revived production."
 
 ---
 
@@ -140,7 +143,7 @@ The crate is **ammunition, not canon** (MED): 59.5% 2025 releases, 70.7% 2024–
 
 ## The two phases, held together
 
-Phase 1 (2013–2016): production-led, trap, Uniontown rooms, pre-Annie — listening and making aligned under one alias, with the listening already electronic since 2010. Phase 2 (2025–current): listening-led, bass-house/dnb, built in seven weeks on the floor of the 2025 collapse — listening rebuilt first, the alias revived for production a season later. Between them, the fallow decade: solitary basement production, the Au Za'atar curatorial gap, 88 likes in seven years, ten years of not-announcing across 908 public originals. The sub-bass signature (63–85%) runs under all of it — the production constant across the listening rupture, present already in the 2013 SLOPPP material, which is what proves it was never chosen under any later name. The dance-only phases bookend the relationship: one before it, one after its effective end — and MOGZART, the name, marks both ends.
+Phase 1 (2013–2016): production-led, trap, Uniontown rooms, pre-Annie — listening and making aligned under one alias, with the listening already electronic since 2010. Phase 2 (2025–current): listening-led, bass-house/dnb, built in seven weeks on the floor of the 2025 collapse — listening rebuilt first, the alias revived for production a season later. The revived production's study instruments — [[wiki/work/tech/projects/hook2piano|hook2piano]] and its audio-input sibling MELODY, the harmonic-analysis pair that hands him tab and finished-audio harmony as readable piano rolls — are this phase's reference pipeline: the 2025 crate is the ammunition, the taste instruments are the targeting, and these two are the ordnance survey. Between them, the fallow decade: solitary basement production, the Au Za'atar curatorial gap, 88 likes in seven years, ten years of not-announcing across 908 public originals. The sub-bass signature (63–85%) runs under all of it — the production constant across the listening rupture, present already in the 2013 SLOPPP material, which is what proves it was never chosen under any later name. The dance-only phases bookend the relationship: one before it, one after its effective end — and MOGZART, the name, marks both ends.
 
 A note on the clock. The wiki's overview once framed the four aliases as four periods *and* four aesthetics; the alias-as-periodization page's re-check moved the premise — read against each other, the aesthetics do not turn over at the renames, only the periods do, which makes the alias a clock rather than a style. These two listening phases are the listening-side proof of the same correction: the sub-bass band and the timbre-first listening run under both phases and the fallow decade between them, continuous and unchosen; what turns over is the period — what the decks hold, which life the music belongs to. The invariant is involuntary; the clock is the biography.
 

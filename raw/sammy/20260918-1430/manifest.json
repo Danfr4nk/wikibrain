@@ -1,0 +1,31 @@
+{
+ "batch": "20260918-1430",
+ "source": "sammy 6h engine heartbeat",
+ "window": {
+  "from": "2026-09-18T12:30:00Z",
+  "to": "2026-09-18T18:30:00Z"
+ },
+ "rows": 245,
+ "by_role": {
+  "user": 112,
+  "assistant": 133
+ },
+ "transcript_surface": "main_chat only",
+ "stream_lane": "main",
+ "direction": "direct",
+ "cumthread3_excluded": {
+  "side_chat_id": "24754b5b-b83e-4c49-a6a3-d6f2ab2c1853",
+  "rows": 0
+ },
+ "length_validation": {
+  "all_rows_len_body_eq_blen": true,
+  "mismatches": 0
+ },
+ "anomalies": [
+  "assistant-msg-8f20a998-dde7-4293-a6d7-35abfd30cf65 recorded blen 79 in the mapping pull but the body on re-pull was \"Go ahead, I'm here.\" (19 chars); archived with current body, blen corrected to 19."
+ ],
+ "deferrals": [
+  "abortion story-time writeback deferred to main agent (story-time session #1 live in main chat)",
+  "story-time lanes 2-4 (Suz-Annie, Alexis secret months, Dee) deferred to main agent"
+ ]
+}
