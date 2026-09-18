@@ -574,9 +574,20 @@ figure repeated on [[wiki/mind/synthesis/supply-network]] and
 `all_imessages_complete_dump.txt`, which is not in this repository. Under
 `CORPUS_POLICY.md` those are shelved material: usable to establish what was
 previously believed and why it was wrong, and not usable as evidence about
-2018. This page uses them for the former only. Both synthesis pages, and the
-`connections` block on [[wiki/timeline/periods/2018-deep-cycle]], still carry
-the retired ratio and need the same edit.
+2018. This page uses them for the former only.
+
+**Three other pages still carry the retired figures and are not edited here.**
+[[wiki/mind/synthesis/supply-network]] and
+[[wiki/mind/synthesis/supply-graph-vs-chain]] repeat "58 of his thread's 65
+messages" in their `connections` blocks and bodies.
+[[wiki/timeline/periods/2018-deep-cycle]] is the live one: rewritten
+**2026-09-17**, after [`dat:1357`](../../kb/data/1357-zaco-thread-recount.md)
+filed the recount on 2026-09-09, it states in its own body that *"across 65
+messages he sends 58 and Dan sends 7"* and that *"Zaco is the only node that
+does the selling, and Dan mostly does not answer"* — so the retired ratio was
+re-published eight days after it was retired, which is the propagation this
+page exists to stop. It also prints the handle unmasked. Those edits belong to
+those pages' own passes, not to this one.
 
 **Corrections this pass makes.**
 
