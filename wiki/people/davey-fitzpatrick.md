@@ -66,7 +66,7 @@ The first season is two caddies talking shop and golfing: rides up the
 mountain, loop postmortems, a July round where Davey warns Dan's group
 may need to play through because "I have a girl who never golfed before
 😂," a Pirates game, and running jokes about the yard's cast —
-[[wiki/people/michael-hinkle|Hinkle]] ("I'd pay Hinkle $100 to work our
+[[wiki/people/mike-hinkle|Hinkle]] ("I'd pay Hinkle $100 to work our
 bags lolz," Dan's line, Davey's laugh), the hashtag "#TKEatsGum," and
 above all [[wiki/people/jack-rusko|Jack]], the older caddie whose
 neurotic 6:10am ride-shares and single-chasing at dawn both threads

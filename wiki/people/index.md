@@ -130,7 +130,7 @@ related: []
 - [[wiki/people/james-dee]] — Danielle's boyfriend; the 2025 friendship that ended twelve minutes after Dan handed him an AI profile of himself. Absorbs the mis-titled "Max (Danielle's boyfriend)" page.
 - [[wiki/people/md]] — Au Za'atar-affiliated contact; 2024 Bangladesh political-unrest discussion.
 - [[wiki/people/menore]] — "Additional family/friend" per master dump analysis and cross-refs. Handle +13476070497 (dedicated CSV messages_3476070497_all_time.csv).…
-- [[wiki/people/michael-hinkle]] — One-sided, unanswered 2017 Facebook message.
+- [[wiki/people/mike-hinkle]] — Caddie ("the realest looper" Dan knows); lived with Dan ~1 month; Mystic Rock summers, Old Memorial (Tampa) winters. Absorbs the former "Michael Hinkle" page (merged 2026-09-17).
 - [[wiki/people/mike-cordaro]] — Childhood friend reconnecting summer 2024; new "uncle Dave" family lead.
 - [[wiki/people/mike-zollinger]] — Fellow Nemacolin caddy, 2018; early crypto banter predating the 2020-21 market era.
 - [[wiki/people/jack-connor]] — The Fayette County lawyer who got Dan into ARD in 2016 against a District Attorney policy that categorically barred it for cocaine charges; the reason the only real arrest left no record.

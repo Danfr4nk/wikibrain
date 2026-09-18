@@ -149,7 +149,7 @@ Ties FB ihatedanfrank archive (groups/your_posts_in_groups, events/event_invitat
 
 Named contacts extracted from the master dump that have their own page but do not meet the full-person-page threshold. They exist as lightweight entity pages rather than in the hash-stub quarantine:
 
-[[wiki/people/aaron]] · [[wiki/people/brian]] · [[wiki/people/bruce-burish]] · [[wiki/people/james]] · [[wiki/people/jess]] · [[wiki/people/josh-brannan]] · [[wiki/people/marla]] · [[wiki/people/michael-hinkle]] · [[wiki/people/ryan-lisac]] · [[wiki/people/shannon]] · [[wiki/people/trinity-st-clair]] · [[wiki/people/urpaaa-at-yahoo-com]] · [[wiki/people/zaco]]
+[[wiki/people/aaron]] · [[wiki/people/brian]] · [[wiki/people/bruce-burish]] · [[wiki/people/james]] · [[wiki/people/jess]] · [[wiki/people/josh-brannan]] · [[wiki/people/marla]] · [[wiki/people/mike-hinkle]] · [[wiki/people/ryan-lisac]] · [[wiki/people/shannon]] · [[wiki/people/trinity-st-clair]] · [[wiki/people/urpaaa-at-yahoo-com]] · [[wiki/people/zaco]]
 
 > **CORRECTED [2026-08-20]:** this paragraph read *"The 97 auto-generated hash*
 > *stubs (contacts ≥20 msgs, non-spam) are quarantined in*

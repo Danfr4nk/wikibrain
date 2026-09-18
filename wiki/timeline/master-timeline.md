@@ -3944,7 +3944,7 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
 - ★ **2017-07-12** — Nick Mattie was an eleven-week fixture of Dan's spring 2017 (`+17242526986`, 170 messages, April 20 – July 12, 2017) — a Uniontown drug-scene peer with whom Dan ran a genuinely **reciprocal** trading relationship: each man sourced for, fronted to, and borrowed from the other, with the running…  
   ↳ [[wiki/people/nick-mattie]] · Nick Mattie
 - · **2017-07-14** — The entire thread is three consecutive messages Dan sends on July 14, 2017, unanswered: "hey dude," "let me know if you see this," and "annie will be home soon, so i'll call u if not. i found us something" — a reference to Annie that places the exchange squarely in the Annie-era timeline, but gives…  
-  ↳ [[wiki/people/michael-hinkle]] · Michael Hinkle
+  ↳ [[wiki/people/mike-hinkle]] · Mike Hinkle
 - · **2017-08-12** — "Take that stupid fucking statue down"*, *"This guy is just the worst"*, and — alone, the same day — ***"L'chaim."  
   ↳ [[wiki/self/twitter/2017]] · Charlottesville, and one word
 - ★ **2017-08-15** — "Miss u nyc"* (2017-08-15) and *"reasons i moved to nyc"* (below) are the only nearby evidence and neither is a current address.  
