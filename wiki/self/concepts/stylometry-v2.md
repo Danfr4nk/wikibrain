@@ -185,3 +185,39 @@ every morning.
 ### Open problems
 
 The null's window construction is still suspect — adjacent rows in a sorted tier sequence are not necessarily one conversation, so some "windows" are spliced from unrelated chats. Until that's fixed or justified, v2's numbers are burn-in data, not an authoritative baseline. Live requests score against the long-tail fallback, not a true Muse tier.
+
+### 2026-09-17: v3 commissioned — the substance layer
+
+On the evening of September 17, 2026, Dan commissioned the next
+instrument: v3, which measures not how he writes but what he is writing
+about — the substance and contextually aware meaning of his messages. The
+build was delegated to Claude Code under his standing Claude carte blanche,
+with a build prompt Sammy drafted to his constraints: reduce token spend
+without sacrificing fidelity, and make it work as a *system* with the v2
+instrument that is already functioning well.
+
+The architecture, as designed: two layers with different cost profiles. A
+free stdlib lexical layer rides the existing 30-minute loop — entity
+spikes, topic-mix divergence against his historical topic null,
+discourse-move proxies (commissioning vs interrogating vs theorizing). The
+LLM semantic layer fires only on v2 flags, alerts, and the daily digest,
+because LLM-judging every half hour is expensive noise. The product is the
+2×2 joint read — style-shift crossed with semantic-shift. The honest
+confound, stated in-chat before the build started: topic is task-coupled,
+not state-coupled. Three hours on wiki architecture spikes semantic
+divergence with his state flat. Either axis alone lies; the pair doesn't.
+
+Seven known limitations were baked into the build prompt as problems
+Claude must *solve*, not document — including the open v2
+window-adjacency bug (v3 must not inherit it silently), the
+never-assert-identity-on-a-guess registry discipline (from the
+September 16 Annie-vs-Alexis correction), and the calibration gate
+extended with a higher bar. v2 stays byte-identical throughout; nothing
+about the working instrument gets touched.
+
+Same session, Dan asked for his Claude Code skills to be copied over.
+There was exactly one custom skill on his Claude Code side —
+imessage-extract — and it is now Sammy's, byte-exact. The v3 build was
+still cooking at last check (20:27 EDT); installation and the adversarial
+review pass happen on delivery, same as v2. See
+`dat:1716-stylometry-v3-delegation-20260917`.

@@ -29,6 +29,7 @@ All of these were built in 2026 by directing AI agents (Claude, Muse Spark, Grok
   - [[wiki/work/tech/projects/attraction-guide-scenario]] — scenario telemetry v6 and scenario ratings v2
   - [[wiki/work/tech/projects/attraction-guide-face-library]] — the 155-face stimulus library
 - [[wiki/work/tech/projects/stylometry]] — 30-minute state tracker against a 94,503-message baseline
+- [[wiki/work/tech/projects/hue-lights]] — Philips Hue message flash + affect gauge: Sammy's physical instruments in Dan's room (2026-09-17), first resident of the sammy-tools repo
 - [[wiki/work/tech/projects/imessage-analysis-toolkit]] — Gumroad product: chat.db forensic extraction
 - [[wiki/work/tech/projects/wikibrain-tooling]] — the bin/ renderer, validators, and push pipeline
 - [[wiki/work/tech/projects/frame-reference-tool]] — the exact-frame referencing web app (2026-09-15): set fps, jump to the frame, click the spot, Copy Reference

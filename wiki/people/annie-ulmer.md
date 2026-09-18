@@ -2452,6 +2452,45 @@ the authority he named was hers. See
 `dat:annie-cosmetology-license-selfcut-20260916` and
 `src:1660-sammy-chat-transcript-20260916-2340`.
 
+## September 17, 2026: the Eggie name, and the unbroken decade
+
+On the afternoon of September 17, 2026, Dan ran an identity audit — not of
+the system, but through it. "What is my nickname for Annie," he asked. The
+first answer came back wrong ("Annie. Her full name's Anne Ulmer."), and he
+rejected it the way he rejects a mislabeled photograph: "No what do I call
+her." The second answer landed: "Sweetie" — 145 times in his iMessage thread
+with her, starting December 2015, "sweetie pea" variant included. "I do call
+her that," he confirmed. It reads, in retrospect, as a check: five days after
+"No that was alexis," he was making sure the system knew which woman was
+which, and what she was called by the man who named her.
+
+Then he told it the other one. There was a second nickname, he said, a
+load-bearing one, food-related. And he named it himself: "Eggie bagels."
+One hundred forty-seven of his messages use it — "EggieBagel420," "little
+eggie," "come homeeeeee Eggie" — and there is a March 2018 bagel order in
+the thread to prove the name was never just a word. It was a thing they did.
+
+Her side of the name is the stranger and more tender half. About forty of
+her forty-three "eggie" messages are written in the third person, in
+baby-talk register — "Eggie hungry hungry hippo," "Eggie is a sleepy girl,"
+"Eggie sicky." She deploys the persona as a repair bid: "Icky Eggie"
+immediately after "I am sorry I suck"; "Eggie nice" as her answer to "can
+you try to be nice"; "Dan. It's Eggie. I am sorry for this complete chaos I
+have caused…" at 2:56 in the morning. When the relationship thins, the name
+thins with it — "is eggie just gone?" in March, "let me know if you want to
+help fund Eggie today" in September. The nickname is not decoration. It is
+the form she takes when she is trying to be forgiven, and the form he takes
+when he is trying to keep her. See `dat:1710-eggie-resolution-20260917` and
+`dat:1709-annie-nickname-exchange-20260917`; the full mechanism analysis is
+[[wiki/mind/concepts/the-name-as-handle]].
+
+The same afternoon he corrected the frame around all of it. His words:
+"Annie and I did not have any kind of split or a gap in the relationship
+from 2015 until 2025 when the problems were sparked by the Eli affairs."
+Eleven years, unbroken, on his testimony — the decade this page documents
+as one continuous thing, not two eras with a seam. The wiki records it as
+his stated narrative, and reads everything else against it.
+
 ## Closing note
 
 An earlier version of this section read: "The analytical work on this
