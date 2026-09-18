@@ -3,7 +3,7 @@ domain: people
 page_type: entity
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-08-21
+date_modified: 2026-09-18
 date_range_start: 2019-03-12
 date_range_end: 2019-12-24
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv", "raw/self/dox-scan/history.txt", "raw/people/annie-ulmer/escort-messages-chatgpt-export-2025-08.md"]
@@ -49,6 +49,14 @@ The direct messages from Trinity, starting March 21, are almost entirely apologe
 ## What actually happened
 
 It happened — just not inside this thread. Two terse, undated-in-context solo texts bracket the likely date: "Trinity st clair," sent March 20 (the original scheduled date, before the reschedules) and again March 26 (the day after the thread goes quiet) — plausibly a brag or a note-to-self on each end of the actual event. The firm confirmation comes from a completely separate conversation: on April 8, 2019, catching up with a friend, Dan writes, unprompted, "ps i paid $1500 last week to have pornstar trinity st clair come hang out with my girlfriend and i for exactly one hour last week soooooooo things are shaping up pretty well here in nyc too lololol" — past tense, specific, and dating the actual visit to roughly March 28 – April 1, a few days after the direct thread's last "Hey there." The $1500 figure matches the March 12 price quote exactly. So the record shows real, well-documented friction (sickness, oversleeping, a canceled Sunday) resolving into a completed booking that simply isn't captured in the surviving Trinity-handle export — probably closed out by phone call or a message thread not preserved in this corpus.
+
+## The hour itself: his account (2026-09-18)
+
+Seven years later, asked to tell the story, Dan's account of the hour is disarmingly plain. The booking had been meant as his entry into the arrangement's ledger — Annie had been with several guys he arranged; his side was "conspicuously empty," and Trinity was supposed to change that. It didn't. He couldn't get hard, and spent the hour watching the two women together: "I watched her and Annie for an hour lol."
+
+His own account of the mechanism is specific and long-standing: in a bad headspace, or with extreme excitement, erection becomes "literally IMPOSSIBLE" for him — and the more he tries, the less possible it becomes. The hour that was supposed to balance the books became an hour of watching instead. Told without embarrassment, as a joke on himself as much as a fact about the night.
+
+Three and a half months later he turned the booking into a standup bit for Annie (July 20, 2019) — the air-mattress era ("before i had a fucking bed in my apartment... one embarrassing conversation about whether or not she'd be willing to fuck on an air mattress"), the fifth-floor walkup ("she showed up at my apartment and was only REASONABLY annoyed about the surprise cardio workout"), and the house rule he claimed to learn: "when a hooker asks to borrow your credit card to make a line of the cocaine you're giving her...make sure you give her one that is already expired." The bit's $750 figure contradicts the documented $1,500 from two independent contemporaneous sources — it's a joke, flagged as such, not a second price.
 
 ## The afterlife: Trinity as social proof
 
