@@ -15,3 +15,5 @@ date   = "2026-09-18"
 +++
 
 Dan: 'slow the scrape to every 12 hours.' The 6h cron's main-agent 'Done' at 00:53Z is unverified from this side; the schedule change is outside this run's authority and is flagged as the one open item in the final report.
+
+**Correction appended 2026-09-18 ~07:30Z:** the order HAS been executed — verified via cron.view that `wiki-brain-scrape` now runs on a 12h interval ("Wiki-brain 12-hour synthesis pull", `wiki-brain-scrape__interval@12h.md`). Nothing pending.
