@@ -7,7 +7,7 @@ status: active
 importance: high
 knowledge: derived
 date_created: 2026-09-02
-date_modified: 2026-09-17
+date_modified: 2026-09-18
 chart:
   kind: grouped-bar
   title: "Stated confidence against measured outcome, by confidence band"
@@ -56,6 +56,7 @@ Points are `weight x (2v - 1)`: a confirmed claim earns its full weight, a refut
 | outcome | n | meaning |
 |---|---:|---|
 | confirmed | 1 | independent evidence bears it out |
+| _unadjudicated_ | 4 | not yet checked; excluded from every statistic |
 
 ## By claim class
 
@@ -70,6 +71,10 @@ Rates are shrunk toward the global 1.00 with a pseudocount of 3, and a class bel
 | id | claim | class | said | outcome | what settled it |
 |---|---|---|---|---|---|
 | t002 | The original May 2025 asking price for 337 Saratoga Drive was $615,000. | quantity | confident | confirmed | Suzanne Frank's own bankruptcy dossier (bankruptcy_bootloader_v6.md, generated 2026-04-28, authored by Suzanne, case 24-22285-GLT, WDPA): 337 Saratoga Drive owned free and clear, $615K original list price, prior contract failed on inspection. Second, independent source corroborating the 2026-03-30 AI audit built from what she told Dan. |
+| t003 | There was exactly one abortion; the 2017-08-08 joke to David Keller ('the number of abortions I have had to pay for has gone up 100%') was just a joke. | quantity, existence | certain | _pending_ | — |
+| t004 | The July 5-7, 2017 silence gap was the abortion procedure itself plus a day or two recovering together at home, no texting because they were together. | date, duration, sequence | hedged | _pending_ | — |
+| t005 | In the July 2017 records the procedure is discussed in future tense before the July 5-7 message gap and in past tense after it; the gap is the event horizon. | sequence | confident | _pending_ | — |
+| t006 | After reviewing the complete July 2017 record in-session, he offered no corrections and no additions; the record stands as told. | attribution, existence | certain | _pending_ | — |
 
 ## What this ledger cannot see
 

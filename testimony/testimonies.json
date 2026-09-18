@@ -1,7 +1,7 @@
 {
   "counts": {
     "adjudicated": 1,
-    "testimonies": 1,
+    "testimonies": 5,
     "voided": 1
   },
   "generated": "bin/wiki-testimony — do not hand-edit; the log is the record",
@@ -73,6 +73,102 @@
       "speaker": "operator",
       "specificity": 3,
       "subject": "other"
+    },
+    "t003": {
+      "about": "2017-08-08",
+      "adjudication": null,
+      "asserted": "2026-09-18",
+      "channel": "message",
+      "claim": "There was exactly one abortion; the 2017-08-08 joke to David Keller ('the number of abortions I have had to pay for has gone up 100%') was just a joke.",
+      "classes": [
+        "quantity",
+        "existence"
+      ],
+      "confidence": "certain",
+      "history": [],
+      "id": "t003",
+      "load_bearing": false,
+      "note": "His words in-session: 'No only one abortion.' Resolves the standing ambiguity around the David Keller text. The April 6, 2018 retelling and the later one-line references (2019-02-15, 2019-05-31, 2020-05-27) are consistent with a single 2017 event.",
+      "pages": [
+        "wiki/people/annie-ulmer"
+      ],
+      "recorded_at": "2026-09-18",
+      "source": "",
+      "speaker": "operator",
+      "specificity": 2,
+      "subject": "self"
+    },
+    "t004": {
+      "about": "2017-07-05",
+      "adjudication": null,
+      "asserted": "2026-09-18",
+      "channel": "message",
+      "claim": "The July 5-7, 2017 silence gap was the abortion procedure itself plus a day or two recovering together at home, no texting because they were together.",
+      "classes": [
+        "date",
+        "duration",
+        "sequence"
+      ],
+      "confidence": "hedged",
+      "history": [],
+      "id": "t004",
+      "load_bearing": false,
+      "note": "His words, hedged: 'Im not quite sure.' Corroborated by Suz's June 27 D&C recovery note ('a day or two of rest') and by the gap holding across every thread checked. The July 8 11:36pm implant text and the tense shift (future tense before the gap, past tense after) pin the procedure to July 6-8.",
+      "pages": [
+        "wiki/people/annie-ulmer"
+      ],
+      "recorded_at": "2026-09-18",
+      "source": "",
+      "speaker": "operator",
+      "specificity": 2,
+      "subject": "self"
+    },
+    "t005": {
+      "about": "2017-07-08",
+      "adjudication": null,
+      "asserted": "2026-09-18",
+      "channel": "message",
+      "claim": "In the July 2017 records the procedure is discussed in future tense before the July 5-7 message gap and in past tense after it; the gap is the event horizon.",
+      "classes": [
+        "sequence"
+      ],
+      "confidence": "confident",
+      "history": [],
+      "id": "t005",
+      "load_bearing": false,
+      "note": "Dan confirmed the tense-shift logic in-session. Before July 5: scheduling, appointments, 'we have to make an appointment'. July 8 11:36pm: 'I'm sorry you had to go through that. I want you to know that you won't need all 5 years of that implant' — past tense, procedure complete, Nexplanon in place.",
+      "pages": [
+        "wiki/people/annie-ulmer"
+      ],
+      "recorded_at": "2026-09-18",
+      "source": "",
+      "speaker": "operator",
+      "specificity": 2,
+      "subject": "self"
+    },
+    "t006": {
+      "about": "2026-09-18",
+      "adjudication": null,
+      "asserted": "2026-09-18",
+      "channel": "message",
+      "claim": "After reviewing the complete July 2017 record in-session, he offered no corrections and no additions; the record stands as told.",
+      "classes": [
+        "attribution",
+        "existence"
+      ],
+      "confidence": "certain",
+      "history": [],
+      "id": "t006",
+      "load_bearing": false,
+      "note": "His words in-session: 'I don't think I have any story to tell now?' Per the story-time bootloader this is itself a finding: nil narrative testimony — no misinformation to kill, no additions. Unanswered in-session (not corrections): the handwritten 10-27-17 sonogram date, and Magee vs. 'the other place' (412-578-1018).",
+      "pages": [
+        "wiki/people/annie-ulmer"
+      ],
+      "recorded_at": "2026-09-18",
+      "source": "",
+      "speaker": "operator",
+      "specificity": 2,
+      "subject": "self"
     }
   }
 }
