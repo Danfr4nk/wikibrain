@@ -591,6 +591,52 @@ is not adjacent to the estate machinery. She is inside it, without authority in
 it, which is the same position [[wiki/people/rod-banks]] documents from the
 disbursing end.
 
+## June–July 2017: the abortion
+
+For two weeks in the summer of 2017, Suz was the only steady adult in the
+abortion story — and her archive is the only place the Dan–Suz half of it
+survives. Verbatim probes from her thread ("just drop that on you so
+blindly," "late night surgical house calls," "24 weeks is the cut off,"
+"She to have a DNC," "protestors outside") return zero hits in Dan's own
+iMessage export; his export is partial (or another device) for this window,
+and the whole conversation exists only here. Full account at
+[[wiki/people/annie-ulmer#junejuly-2017-the-abortion|June–July 2017: the
+abortion]].
+
+June 24, evening — Dan tells her the news: *"Didn't mean to just drop that
+on you so blindly. I just didn't know when or if she would need someone to
+talk to, and I wanted you to be able to process it a little before she
+reaches out."* His dark jokes (*"Can you use your psychic abilities to
+contact a specialist who makes late night surgical house calls / Or find us
+an Oreck / Or large stair set"*); her answer: *"That's enough! This will come
+back to haunt you if you don't deal with it."* And the stakes speech: *"If
+she changes her mind and things don't work out between you, you will have an
+emotional, financial and physical responsibility to her and the child for the
+rest of your life. / It is as much your responsibility to prevent this as it
+is hers."*
+
+June 25 — money planning: the only known cost $120 for the ultrasound; Dan's
+plan to inflate the Rick ask to $1,500, partly to pay back what he owed her.
+
+June 27, appointment day — she gave him the one piece of hard information
+anyone had: *"She to have a DNC which I've had before / It isn't bad
+physically really but she may have to have a day or two of rest."* **Suz had
+a D&C before.** Her "a day or two of rest" matches Dan's later reconstruction
+of the silent days exactly.
+
+July 10 — to her friend +17243236307 (a long-term friend — **not Dan**; the
+number was disproven as his 2026-09-18): *"I had a life changing event last
+week. It was very sad, but we all got through it. / I would like to talk w
+you about it but no one is supposed to know. / I still haven't processed it
+emotionally. It involves grandchildren / I'm not...now / Oh god. It was
+horrible / But the only responsible choice and thankfully there is still a
+choice. Please keep to yourself."* Her only on-record emotional processing of
+the event — and it went sideways, not home.
+
+She also kept Dan's secret from Rick for two days without knowing it: Dan
+told Rick on June 26 that he hadn't told her yet — a lie she was unknowingly
+party to. Evidence: dat:1757, dat:1761, dat:1769, dat:1777.
+
 ## The realtor
 
 She has been a licensed Pennsylvania real estate agent for the whole span of
@@ -1051,6 +1097,10 @@ $14,000, the year the estate was pending and neither of them had any money.
 | 2015-11-17 | First message in the corpus |
 | 2015-11-29/30 | Promotes the Annie match; the car-for-eviction conditional |
 | 2017 | Poverty floor on both sides; the "Jackson Pollock painting" message |
+| 2017-06-24 | Dan tells her about Annie's pregnancy; the stakes speech; the dark jokes |
+| 2017-06-27 | Appointment day — her own D&C history and the "day or two of rest" recovery note |
+| 2017-07-08 | Procedure window ends; normal life resumes in the thread |
+| 2017-07-10 | Confides in her friend about "a life changing event" — her only on-record processing of it |
 | 2018-04 | [[wiki/people/fran-coldren|Fran]] dies; handles the estate, memorial and house clearance alone |
 | 2018-08/10 | The ~$14,000 from Dan; the itemised-ledger message |
 | 2019-06/07 | *"I'm begging you to please help me out"*; the 3 July ledger fight |

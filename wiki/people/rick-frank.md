@@ -426,6 +426,34 @@ yourself and your ability to be happy." Rick's reply: "U did the best that
 u could do... That's probably not enough but better than not doing
 anything."
 
+#### June 2017: the abortion bailout, and the lie
+
+On the morning of June 26, 2017, Dan told [[wiki/people/rick-frank|Rick]]
+that [[wiki/people/annie-ulmer|Annie]] was pregnant — and told him he hadn't
+told [[wiki/people/suzanne-frank|Suz]] yet. The second half was a lie; Suz
+had known since June 24 (the Dan–Suz thread survives only in her archive —
+see [[wiki/people/suzanne-frank#junejuly-2017-the-abortion|her page]]).
+Dan's own report to Suz has Rick barely saying anything — *"did exactly what
+I said he would 'why do you only call me about emergency stuff'"* — and Dan
+worrying Rick would *"say something to bill and Ellen."* Suz: *"Did he say he
+would get money for you?"* Dan: *"He didn't say and he's not answering now."*
+
+The money came anyway. Dan's plan, confessed to Suz on June 25, was to
+inflate the ask — *"I should probably inflate it and get some more so I can
+pay you and get things straightened out a bit. I don't think it's gonna be
+worse to ask for 1500 than it would be for..."* — $1,500 against an unknown
+real cost, partly to pay back what Dan owed her. Dan's later *"Thank you for
+another bailout"* indicates Rick funded the $1,000. Rick's side of the June
+26 conversation survives only through Dan's report to Suz — attributed, not
+established fact — and the June 29 Rick thread (*"Will know when she goes in
+to McGee by this afternoon... They said it usually takes a week"*) is the
+last of it: *"I'm glad / Life is complicated / BTW- I'm not glad. I
+relieved."*
+
+The shape is the familiar one: Rick as the emergency valve, Dan managing both
+parents' information about each other. Evidence: dat:1758, dat:1759,
+dat:1763.
+
 ## The register: golf, Steelers, and the shape of the overlap
 
 The operator's own framing of the current-day dread — not hostility, but a

@@ -32,7 +32,7 @@ Every dated event recorded anywhere in this wiki, in order, each linked back to 
 
 **This page is generated. Do not hand-edit it** — run `bin/wiki-timeline generate`. To correct an entry, fix the page it came from; the fix appears here on the next run.
 
-**5,594 events** across **80 years** (1796–2027), drawn from **436 pages**. Tier 1 1,085 · Tier 2 652 · Tier 3 3,857.
+**5,608 events** across **80 years** (1796–2027), drawn from **437 pages**. Tier 1 1,085 · Tier 2 652 · Tier 3 3,871.
 
 ## What counts as an event here
 
@@ -3921,16 +3921,32 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/people/rod-banks]] · The other half of the thread, and what it makes him
 - · **June 2017** — Early messages (May–June 2017) are mid-round check-ins on the course itself.  
   ↳ [[wiki/people/chad-johnson]] · Texture
+- · **June 2017** — Annie discovered she was pregnant in the third week of June 2017, at nineteen weeks' gestation against Pennsylvania's twenty-four-week cutoff.  
+  ↳ [[wiki/timeline/events/abortion-june-july-2017]] · The abortion (June–July 2017)
 - ◆ **2017-06-12** — Routes a reimbursement and checks it against a prior payment — *"I think Amy was already reimbursed for this. Vicky can show you a copy of the check."  
   ↳ [[wiki/people/rod-banks]] · The other half of the thread, and what it makes him
 - · **2017-06-20** — "I definitely need the 20 because I'm almost out of gas and I have to go to Addison tonight"  
   ↳ [[wiki/people/suzanne-frank]] · What she actually earned
 - · **2017-06-24** — Alongside them: *"The copay for the doctor would be about that much"* (2017-06-24), and, in February 2020, *"imagine being able to just go to the doctor or dentist when you need"* and *"the doctor thing is a really big thing for me...like, there's no reason that 50,000 people die a year because…  
   ↳ [[wiki/health/the-configured-body]] · The missing mode, measured
+- · **2017-06-24** — Dan tells her about Annie's pregnancy; the stakes speech; the dark jokes  
+  ↳ [[wiki/people/suzanne-frank]] · Timeline
+- · **2017-06-26** — On the morning of June 26, 2017, Dan told Rick that Annie was pregnant — and told him he hadn't told Suz yet.  
+  ↳ [[wiki/people/rick-frank]] · June 2017: the abortion bailout, and the lie
+- · **2017-06-27** — Appointment day — her own D&C history and the "day or two of rest" recovery note  
+  ↳ [[wiki/people/suzanne-frank]] · Timeline
 - ★ **July 2017** — "Where are you? I want out of here" / "And it really upset me" / target with mom & sister story (sister: "maybe you should move back home with mom and dad") Jul 2017  
   ↳ [[wiki/self/facebook/messages]] · Ally Lubin (dark humor peripheral, 2013)
 - ◆ **July 2017** — Christian Hanson — the retired NHL forward (Toronto Maple Leafs, son of Dave "Hanson Brothers" Hanson) — was a golf regular Dan caddied and played with around Nemacolin during 2017–2018 (`+14129950042`, 66 messages, July 2017 – June 2018).  
   ↳ [[wiki/people/christian-hanson]] · Christian Hanson
+- · **July 2017** — It is now established, in full dated detail, as the June–July 2017 event documented above.  
+  ↳ [[wiki/people/annie-ulmer]] · Gaps
+- · **Summer 2017** — For two weeks in the summer of 2017, Suz was the only steady adult in the abortion story — and her archive is the only place the Dan–Suz half of it survives.  
+  ↳ [[wiki/people/suzanne-frank]] · June–July 2017: the abortion
+- · **July 2017** — Full account at June–July 2017: the abortion.  
+  ↳ [[wiki/people/suzanne-frank]] · June–July 2017: the abortion
+- · **July 2017** — The full dated record with the complete message log is at June–July 2017: the abortion; the evidence nodes are dat:1754–dat:1779; in-session testimony t003–t006.  
+  ↳ [[wiki/timeline/events/abortion-june-july-2017]] · The abortion (June–July 2017)
 - · **July 2017** — Drew (email `Dherchko@gmail.com`) collaborated with Dan on a green-mapping project at Nemacolin over an intense eleven-day stretch in June–July 2017 (`+17244157295`, 45 messages) — almost certainly the caddy yardage books used to help players read the greens.  
   ↳ [[wiki/people/drew]] · Drew
 - · **July 2017** — "I am peepy" / "Weally weally kute" / "Yowr kute" Jul 2017  
@@ -3941,10 +3957,22 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/work/nemacolin-caddying]] · The caddie-yard social graph
 - · **2017-07-01** — The thread is purely collaborative and enthusiastic ("I'm a fan," "outstanding," "should be awesome") with no personal or transactional content, and ends abruptly July 1, 2017.  
   ↳ [[wiki/people/drew]] · Drew
+- · **2017-07-08** — Everything pins to a June 24 → July 8, 2017 spine — photo timestamps, message timestamps, the sonogram.  
+  ↳ [[wiki/people/annie-ulmer]] · June–July 2017: the abortion
+- · **2017-07-08** — Procedure window ends  
+  ↳ [[wiki/people/suzanne-frank]] · Timeline
+- · **2017-07-08** — normal life resumes in the thread  
+  ↳ [[wiki/people/suzanne-frank]] · Timeline
+- · **2017-07-10** — Confides in her friend about "a life changing event" — her only on-record processing of it  
+  ↳ [[wiki/people/suzanne-frank]] · Timeline
 - ★ **2017-07-12** — Nick Mattie was an eleven-week fixture of Dan's spring 2017 (`+17242526986`, 170 messages, April 20 – July 12, 2017) — a Uniontown drug-scene peer with whom Dan ran a genuinely **reciprocal** trading relationship: each man sourced for, fronted to, and borrowed from the other, with the running…  
   ↳ [[wiki/people/nick-mattie]] · Nick Mattie
+- · **2017-07-23** — Annie's July 23, 2017 "first pregnancy" language leans against a 2015 pregnancy but does not settle it.  
+  ↳ [[wiki/people/annie-ulmer]] · Open questions
 - · **2017-07-14** — The entire thread is three consecutive messages Dan sends on July 14, 2017, unanswered: "hey dude," "let me know if you see this," and "annie will be home soon, so i'll call u if not. i found us something" — a reference to Annie that places the exchange squarely in the Annie-era timeline, but gives…  
   ↳ [[wiki/people/mike-hinkle]] · Mike Hinkle
+- · **2017-08-08** — In-session testimony, speaker Dan: **t003** — only one abortion; the 2017-08-08 "100%" joke to David Keller was just a joke (certain).  
+  ↳ [[wiki/timeline/events/abortion-june-july-2017]] · The archive: where the record lives
 - · **2017-08-12** — "Take that stupid fucking statue down"*, *"This guy is just the worst"*, and — alone, the same day — ***"L'chaim."  
   ↳ [[wiki/self/twitter/2017]] · Charlottesville, and one word
 - ★ **2017-08-15** — "Miss u nyc"* (2017-08-15) and *"reasons i moved to nyc"* (below) are the only nearby evidence and neither is a current address.  
