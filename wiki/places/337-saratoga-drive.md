@@ -4,7 +4,7 @@ page_type: entity
 title: "337 Saratoga Drive"
 status: closed
 date_created: 2026-07-13
-date_modified: 2026-08-22
+date_modified: 2026-09-17
 sources:
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
   - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md
@@ -85,10 +85,18 @@ only asset capable of satisfying the plan; in August 2025 the court attached a
 would convert the case to Chapter 7 or dismiss it. The asking price ran
 **$615,000 in May 2025** down through a $500–550k range to the eventual $465k,
 with a June 2025 contract terminated over inspection and pest reports. The
-source is an AI-generated case audit Dan pasted into the Suz thread on 30 March
-2026 — AI-secondary, evidently built from what she had told him, and
-uncontradicted by anything else in `raw/`; her own messages bracket it
-(*"I already AM bankrupt!"*, Nov 2024; *"I have to have a hearing,"* June 2026).
+$615k figure first reached the record secondhand — an AI-generated case audit
+Dan pasted into the Suz thread on 30 March 2026, evidently built from what she
+had told him — and an outside audit later flagged it as the softest claim in
+the sale narrative (everything else checkable held: the price path, the
+pending date, the Jefferis contingency to the dollar). It no longer rests on
+one telling. Suz's own bankruptcy dossier, generated 2026-04-28 and pulled
+from her computer, states the $615k original list and the failed-inspection
+contract independently — a second source, in her own hand, a month after the
+audit. The claim is now the first settled entry in the
+[[wiki/meta/testimony-veracity|testimony ledger]] (t002, confirmed). Her own
+messages bracket the arc (*"I already AM bankrupt!"*, Nov 2024; *"I have to
+have a hearing,"* June 2026).
 
 > **REVISED [2026-08-18]:** This section previously described the sale as
 > *"contingent on the sale of their own property (19 Jeffries, ≤$229.9k) and a*
@@ -110,6 +118,38 @@ contingencies evidently cleared — with a planned out-date of July 1
 — has its own unresolved legal tangle ([[wiki/legal/463-morgantown]]).
 Context-core carries the situation as the acute open variable of mid-2026:
 "no confirmed post-close plan."
+
+**How the sale actually went down.** There were two offers on the table in
+early April 2026 — one from SWC Realty for Jennifer DelVerme, one from
+Howard Hanna for Doug and Heather Wolfe — and Suz countered both on April
+1 before signing the DelVerme agreement (dated March 31). The paper trail
+from her computer preserves the whole awkward choreography: her emails
+with bankruptcy counsel Corey Sacca show every offer was subject to
+bankruptcy court approval and Chapter 7 trustee acceptance, and that she
+asked about a motion for reconsideration (counsel: possible, but the judge
+was unlikely to change his decision). She was not taking a commission on
+her own listing — "the job I have already done" — and told Sacca her
+year-to-date earnings were **$2,759**. The DelVerme agreement then wobbled
+on its own buyer line: Scott DelVerme was removed from the agreement on
+April 28, the $5,000 earnest money moved into Attorney Robert Sloan's
+escrow on May 7, and Scott was added back as a buyer on May 8 (Suz
+countersigned May 26). It closed anyway, June 23, at $465k.
+
+## The house itself
+
+Suz's seller's disclosure, signed March 30, 2026, fixes the hard facts:
+acquired **May 30, 1996** — twenty-nine years of ownership — and she notes
+she was "very involved in the design and construction of the home." Last
+occupied September 16, 2025, by two people. The roof was replaced in 2012
+via an insurance claim after a storm (a few shingles have blown off the
+master bedroom more than once since); attic moisture was remediated in
+2019 by opening the vents. A recent pest inspection came back negative for
+termites. The oil, gas, and mineral rights were "conveyed long ago" and
+are not part of the property. Outstanding at sale: kitchen sink plumbing
+needing repair, the right garage door inoperable on a broken cable, an
+original hard-wired alarm system due for updating, and an upstairs window
+unit that failed after a caulking job and let water into the bar area
+below. A dog and several cats lived there across the twenty-nine years.
 
 ## The Bacharach connection
 
