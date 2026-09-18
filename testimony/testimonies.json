@@ -1,0 +1,78 @@
+{
+  "counts": {
+    "adjudicated": 1,
+    "testimonies": 1,
+    "voided": 1
+  },
+  "generated": "bin/wiki-testimony — do not hand-edit; the log is the record",
+  "testimonies": {
+    "t001": {
+      "about": "2025-05",
+      "adjudication": {
+        "at": "2026-09-17",
+        "direction": "none",
+        "evidence": "Suzanne Frank's own bankruptcy dossier (bankruptcy_bootloader_v6.md, generated 2026-04-28, authored by Suzanne, case 24-22285-GLT, WDPA): 337 Saratoga Drive owned free and clear, $615K original list price, prior contract failed on inspection. Second, independent source corroborating the 2026-03-30 AI audit built from what she told Dan.",
+        "failure": [],
+        "magnitude": "",
+        "outcome": "confirmed",
+        "slant": "",
+        "tier": "primary_document"
+      },
+      "asserted": "2026-03-30",
+      "channel": "capture",
+      "claim": "The original May 2025 asking price for 337 Saratoga Drive was $615,000.",
+      "classes": [
+        "quantity"
+      ],
+      "confidence": "confident",
+      "history": [],
+      "id": "t001",
+      "load_bearing": true,
+      "note": "First reached the record as an AI-generated case audit Dan pasted into the Suz thread 2026-03-30, evidently built from what Suz had told him. Archive-only at first; corroborated 2026-09-17 by Suz's own bankruptcy bootloader (generated 2026-04-28, authored by Suzanne Frank, case 24-22285-GLT) stating the $615K original list and a prior contract that failed on inspection. Load-bearing: the '~$150K lost over 13 months' framing reasons from it.",
+      "pages": [
+        "wiki/places/337-saratoga-drive"
+      ],
+      "recorded_at": "2026-09-17",
+      "source": "raw/ (Suz thread, 2026-03-30 AI audit paste)",
+      "speaker": "Dan (via AI case audit pasted into the Suz thread)",
+      "specificity": 3,
+      "subject": "other",
+      "voided": {
+        "at": "2026-09-17",
+        "reason": "Re-recorded as t002 with clean speaker field; the parenthetical speaker string tripped the third-party exclusion."
+      }
+    },
+    "t002": {
+      "about": "2025-05",
+      "adjudication": {
+        "at": "2026-09-17",
+        "direction": "none",
+        "evidence": "Suzanne Frank's own bankruptcy dossier (bankruptcy_bootloader_v6.md, generated 2026-04-28, authored by Suzanne, case 24-22285-GLT, WDPA): 337 Saratoga Drive owned free and clear, $615K original list price, prior contract failed on inspection. Second, independent source corroborating the 2026-03-30 AI audit built from what she told Dan.",
+        "failure": [],
+        "magnitude": "",
+        "outcome": "confirmed",
+        "slant": "",
+        "tier": "primary_document"
+      },
+      "asserted": "2026-03-30",
+      "channel": "capture",
+      "claim": "The original May 2025 asking price for 337 Saratoga Drive was $615,000.",
+      "classes": [
+        "quantity"
+      ],
+      "confidence": "confident",
+      "history": [],
+      "id": "t002",
+      "load_bearing": true,
+      "note": "Reached the record when Dan pasted an AI-generated case audit into the Suz thread 2026-03-30; the audit was evidently built from what Suz had told him, so the underlying assertion is hers relayed by him. Archive-only at first; corroborated 2026-09-17 by Suz's own bankruptcy bootloader (generated 2026-04-28, authored by Suzanne Frank, case 24-22285-GLT) stating the $615K original list and a prior contract that failed on inspection. Load-bearing: the '~$150K lost over 13 months' framing reasons from it.",
+      "pages": [
+        "wiki/places/337-saratoga-drive"
+      ],
+      "recorded_at": "2026-09-17",
+      "source": "raw/ (Suz thread, 2026-03-30 AI audit paste)",
+      "speaker": "operator",
+      "specificity": 3,
+      "subject": "other"
+    }
+  }
+}
