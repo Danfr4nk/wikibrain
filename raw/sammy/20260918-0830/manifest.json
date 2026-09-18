@@ -1,0 +1,26 @@
+{
+ "batch": "20260918-0830",
+ "counts": {
+  "assistant": 4,
+  "chats_rows": 4,
+  "duplicates": 0,
+  "truncated": 0,
+  "user": 0
+ },
+ "cumthread3_carveout": "held \u2014 0 rows from side chat 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853; all 4 rows main_chat/direct",
+ "files": {
+  "chats.json": {
+   "bytes": 3461,
+   "sha256": "e52cac83616eb16b761ea492233a54a433d2f85e9a81966b53f6e65e275bfb5c"
+  }
+ },
+ "note": "Small window: Dan was silent 02:30\u201308:30 EDT (last user row 06:05Z, archived in batch 20260918-0230). The 4 assistant rows are cron delivery reports: the 0230 writeback report (07:24Z), the calendar-backfill completion (09:56Z), the 0740 scrape report (11:48Z), the PR #117 merge notice (12:09Z).",
+ "pulled_at": "2026-09-18T12:35:00+00:00",
+ "verification": "4/4 message_ids unique, chronological order asserted; bodies pulled full-length from muse.db (no truncation)",
+ "watermark": {
+  "chats": {
+   "from": "2026-09-18T06:30:00Z",
+   "to": "2026-09-18T12:30:00Z"
+  }
+ }
+}
