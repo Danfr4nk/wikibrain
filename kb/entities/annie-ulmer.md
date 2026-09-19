@@ -772,3 +772,14 @@ verbatim terms: no split, no gap from 2015 to 2025 — the problems were
 "sparked by the Eli affairs." Filed here as his stated frame.
 [`dat:1710-eggie-resolution-20260917`](../data/1710-eggie-resolution-20260917.md)
 [`src:sammy-chat-transcript-20260917-2030`](../sources/sammy-chat-transcript-20260917-2030.md)
+
+## 2026-09-18 — G/G history adjudicated: the seven-event canon; Magee GPS confirms the hospital setting
+
+His seven-event short version of her lesbian history, checked line by line against the corpus and adjudicated by him same night (22:04–22:08Z): Jan 19–20, 2017 Alexis Chaturbate cam (no sexual contact during the show) → offline makeout ("they just made out in 2017"); his nude-catfishing orchestration — "i was the one who was doing it 'as' them at first and then i introduced it over time and it became a real thing"; Nov 7, 2018 first full hookup ("Pussy eaten in 2018"); Feb 2019 NYC move (307 E. 76th, Manhattan — Nevins St retired); Trinity booking weeks later; two Shelbie threesomes early April 2019; Skirt Club July 18–19, 2019; Jared + Tricia (married clients — "Jared, not Jerad," his typo corrected; FFFM + FFF; keepsake photo confirmed as that June 2019 encounter); Kelly Johansson fall 2019. His April 23, 2018 text claiming a Lex threesome already behind them: his own verdict, "I must have been lying" — recorded with the hedge intact, contradiction node closed. Written to the wiki same night (reunion article, jaredtricia, first-NYC-apartment entries).
+[`dat:annie-gg-full-list-adjudicated-20260918`](../data/annie-gg-full-list-adjudicated-20260918.md)
+[`dat:lex-identity-confirmed-dan-20260918`](../data/lex-identity-confirmed-dan-20260918.md)
+[`src:sammy-chat-transcript-20260918-2340`](../sources/sammy-chat-transcript-20260918-2340.md)
+
+Same window, the Magee-Womens photo set completed: 4 photos from the morning of 2017-07-06 (07:58:11 laughing, foot up; 08:04:03/05/06 three-second burst of faces). Three carry EXIF GPS ~40.4386,-79.9593 — 209 Coltart Ave, Central Oakland, Pittsburgh — independently confirming the Magee-Womens setting. Her demeanor that morning was light and goofy, not somber — his framing.
+[`dat:1793-magee-photo-gps-coltart-20260918`](../data/1793-magee-photo-gps-coltart-20260918.md)
+[`src:sammy-chat-transcript-20260918-2340`](../sources/sammy-chat-transcript-20260918-2340.md)
