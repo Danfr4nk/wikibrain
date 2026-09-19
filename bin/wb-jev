@@ -41,22 +41,34 @@ Subcommands (offline — no key, no network)
 
 Subcommands (network — needs TYPESAFE_API_KEY)
   ping                Verify the credential and print the model aliases.
-  ask <id-a> <id-b>   One pair through Jev; prints the raw and parsed answer.
+  ask <id-a> <id-b>   One pair through Jev; prints the typed proposal.
+                      `--both-ways` re-asks with the nodes swapped.
   run --pairs <file>  Batch. Writes typed proposals as JSONL.
+                      `--verify-direction` asks every pair both ways.
   calibrate           Run the 81 hand-audited edges back through Jev and report
                       agreement per question. This is how thresholds get set:
                       against the edges a human already typed, not by guess.
   review <proposals>  Render proposals as a markdown queue for a writing pass.
 
-Unverified API details
-----------------------
-Jev shipped 2026-09-15 and three details are not settled by its published
-documentation. Each is a flag rather than a guess, and `ping` reports what
-actually worked:
+Wire format, established against the live API 2026-09-19
+--------------------------------------------------------
+The published write-ups are wrong in two places, both of which produce a bare
+HTTP 400 "Invalid request." with no indication of the cause. Recorded here so
+the next reader does not re-derive it:
 
-  --auth-style bearer|x-api-key   default: probe bearer, fall back on 401
-  --criteria-shape object|array   default: object (the docs' Choice example)
-  --no-model-field                omit `model` from the body
+  - `type` is LOWERCASE: `noul`, `choice`, `score`. Every published example
+    capitalises them. Capitalised is rejected.
+  - `criteria` has no single encoding. `choice` requires an OBJECT
+    (option -> definition); `score` requires an ARRAY (levels, low to high).
+    Sending the other shape is a 422 that names the expected type — the one
+    genuinely useful error the API returns.
+  - `model` is REQUIRED in the body. `state` is OPTIONAL, and takes a string
+    or a JSON object.
+  - Auth is `Authorization: Bearer`. --auth-style still probes on a 401.
+
+A `score` answer carries a `legend` mapping level index to the definition
+sent, and probabilities keyed by index as strings. Responses carry `usage`
+with `input_tokens`, which is what the cost figures here are counted from.
 
 Environment:
   TYPESAFE_API_KEY   required by the network subcommands
@@ -131,7 +143,7 @@ def canonical_relations(spec: dict) -> list[str]:
     return [r for r in relations(spec) if r not in derived]
 
 
-def build_questions(spec: dict, criteria_shape: str = "object") -> dict:
+def build_questions(spec: dict) -> dict:
     """The question set, derived entirely from schema/edges.json.
 
     Six questions, evaluated independently in one request. `asserted_by` is
@@ -142,21 +154,27 @@ def build_questions(spec: dict, criteria_shape: str = "object") -> dict:
     `family` is asked alongside `rel` even though `rel` determines it. They are
     independent evaluations of the same state, so agreement between them is a
     free consistency signal and disagreement marks a genuinely ambiguous pair.
+
+    Wire format established against the live API on 2026-09-19, because the
+    published documentation is wrong about it in two places:
+
+      - `type` is LOWERCASE (`noul`, `choice`, `score`). Every write-up shows
+        it capitalised; capitalised gets a bare HTTP 400 "Invalid request."
+      - `criteria` is not one shape. A `choice` REQUIRES an object (an array
+        is refused: "Input should be a valid dictionary") and a `score`
+        REQUIRES an array (an object is refused: "Input should be a valid
+        list"). There is no global encoding to choose, so there is no flag.
     """
     defs = spec["definitions"]
     rels = canonical_relations(spec)
 
     def choice(instructions: str, options: dict[str, str]) -> dict:
-        q = {"type": "Choice", "instructions": instructions}
-        if criteria_shape == "array":
-            q["criteria"] = list(options)
-        else:
-            q["criteria"] = options
-        return q
+        # criteria MUST be an object here — the API rejects a list.
+        return {"type": "choice", "instructions": instructions, "criteria": options}
 
     return {
         "relation_exists": {
-            "type": "Noul",
+            "type": "noul",
             "instructions": (
                 "A defensible typed relation holds between these two nodes — "
                 "something a careful editor would write down as a claim about "
@@ -164,12 +182,23 @@ def build_questions(spec: dict, criteria_shape: str = "object") -> dict:
                 "sharing a source, is not enough."
             ),
         },
+        # Wording matters more here than anywhere else in the set. An earlier
+        # phrasing — "which node is making the claim about the other" — leaked
+        # the `asserted_by` framing into a question about the relation's
+        # subject, and returned `grounding caused lamp-failure` at confidence
+        # 0.72 on a probe where the lamp failed the night before. A confidently
+        # inverted direction is the single worst failure this tool can have,
+        # because every edge it writes would be backwards and each one reads
+        # as a plausible claim.
         "direction": choice(
-            "Relations are directional and only one direction gets written. "
-            "Which node is the one making the claim about the other",
+            "Every relation is written as SOURCE relation TARGET, and reads in "
+            "that order — in 'X caused Y', X is the source and Y is the target; "
+            "in 'X preceded Y', X is the earlier one. Which of these two nodes "
+            "belongs in the SOURCE position for the relation that holds between "
+            "them",
             {
-                "a_to_b": "The first node is the source: the relation reads a -> b.",
-                "b_to_a": "The second node is the source: the relation reads b -> a.",
+                "a_to_b": "The first node is the source. The edge reads: a -> b.",
+                "b_to_a": "The second node is the source. The edge reads: b -> a.",
             },
         ),
         "family": choice(
@@ -183,7 +212,8 @@ def build_questions(spec: dict, criteria_shape: str = "object") -> dict:
             {r: defs[r] for r in rels},
         ),
         "strength": {
-            "type": "Score",
+            # criteria MUST be an array here — the API rejects an object.
+            "type": "score",
             "instructions": (
                 "How hard the claim is — what the evidence in the state will "
                 "carry, not how plausible the relation feels."
@@ -440,16 +470,16 @@ class JevError(RuntimeError):
 
 class Jev:
     def __init__(self, key: str, base: str = DEFAULT_BASE, model: str = DEFAULT_MODEL,
-                 auth_style: str = "probe", send_model: bool = True, timeout: int = 60):
+                 auth_style: str = "bearer", timeout: int = 60):
         if not key:
             raise JevError("TYPESAFE_API_KEY is unset — export it and retry")
         self.key = key
         self.base = base.rstrip("/")
         self.model = model
         self.auth_style = auth_style
-        self.send_model = send_model
         self.timeout = timeout
         self.calls = 0
+        self.input_tokens = 0
 
     def _headers(self, style: str) -> dict:
         header = ({"Authorization": f"Bearer {self.key}"} if style == "bearer"
@@ -495,10 +525,11 @@ class Jev:
         return self.call("/v1/models")
 
     def systemone(self, state, questions: dict) -> dict:
-        body = {"state": state, "questions": questions}
-        if self.send_model:
-            body["model"] = self.model
-        return self.call("/v1/systemone", body)
+        # `model` is REQUIRED: omitting it is a 422 naming the missing field.
+        out = self.call("/v1/systemone", {"model": self.model, "state": state,
+                                          "questions": questions})
+        self.input_tokens += (out.get("usage") or {}).get("input_tokens", 0)
+        return out
 
 
 # ------------------------------------------------------------------- answers
@@ -529,6 +560,7 @@ def parse_answers(payload: dict) -> dict:
             }
         elif "score" in ans:
             raw = float(ans["score"])
+            legend = ans.get("legend")
             # Floor, never round. A Score of 1.6 sits between `weak` and
             # `moderate`; calling it `moderate` states more than the model
             # said. The repo already takes this line elsewhere — per-thread
@@ -543,6 +575,7 @@ def parse_answers(payload: dict) -> dict:
                 "between_levels": abs(raw - round(raw)) > 0.25,
                 "confidence": ans.get("confidence"),
                 "probabilities": ans.get("probabilities"),
+                "legend": legend,
             }
         else:
             out[name] = {"value": None, "unparsed": ans}
@@ -619,7 +652,7 @@ def to_proposal(a_id: str, b_id: str, parsed: dict, spec: dict, evidence=None) -
 
 def cmd_questions(args) -> int:
     spec = load_spec()
-    print(json.dumps(build_questions(spec, args.criteria_shape), indent=2, ensure_ascii=False))
+    print(json.dumps(build_questions(spec), indent=2, ensure_ascii=False))
     return 0
 
 
@@ -655,8 +688,7 @@ def cmd_pairs(args) -> int:
 
 
 def client(args) -> Jev:
-    return Jev(os.environ.get("TYPESAFE_API_KEY", ""),
-               auth_style=args.auth_style, send_model=not args.no_model_field)
+    return Jev(os.environ.get("TYPESAFE_API_KEY", ""), auth_style=args.auth_style)
 
 
 def cmd_ping(args) -> int:
@@ -675,6 +707,44 @@ def _ask(jev: Jev, nodes: dict, a_id: str, b_id: str, spec: dict,
     return to_proposal(a_id, b_id, parse_answers(raw), spec, evidence)
 
 
+def _ask_both_ways(jev: Jev, nodes: dict, a_id: str, b_id: str, spec: dict,
+                   questions: dict, evidence=None) -> dict:
+    """Ask the pair, then ask it again with the nodes swapped.
+
+    Direction is the one answer where being confidently wrong is invisible:
+    an inverted edge reads as a perfectly plausible claim, and the graph would
+    fill with backwards causation that nothing downstream can catch. The model
+    sees the two nodes in a fixed order, so the cheapest real check is whether
+    it gives the same edge when that order is reversed. It costs one extra
+    call, which is why it is opt-in rather than always on.
+
+    Disagreement is recorded, not resolved. Two runs that disagree mean the
+    pair is genuinely ambiguous, and that is the finding.
+    """
+    first = _ask(jev, nodes, a_id, b_id, spec, questions, evidence)
+    second = _ask(jev, nodes, b_id, a_id, spec, questions, evidence)
+
+    same = (first["source"] == second["source"]
+            and first["edge"]["target"] == second["edge"]["target"])
+    first["direction_verified"] = bool(same)
+    if not same:
+        first["conflicts"].append(
+            f"direction not stable under swap: {first['source']}->{first['edge']['target']} "
+            f"forward, {second['source']}->{second['edge']['target']} reversed")
+    if second["edge"]["rel"] != first["edge"]["rel"]:
+        first["conflicts"].append(
+            f"relation not stable under swap: {first['edge']['rel']!r} forward, "
+            f"{second['edge']['rel']!r} reversed")
+    first["swapped_run"] = {
+        "source": second["source"],
+        "rel": second["edge"]["rel"],
+        "target": second["edge"]["target"],
+        "relation_exists": second["relation_exists"],
+        "direction_confidence": second["confidence"].get("direction"),
+    }
+    return first
+
+
 def cmd_ask(args) -> int:
     nodes, _ = load_nodes(KB)
     for nid in (args.a, args.b):
@@ -683,8 +753,8 @@ def cmd_ask(args) -> int:
             return 1
     spec = load_spec()
     jev = client(args)
-    proposal = _ask(jev, nodes, args.a, args.b, spec,
-                    build_questions(spec, args.criteria_shape))
+    ask = _ask_both_ways if args.both_ways else _ask
+    proposal = ask(jev, nodes, args.a, args.b, spec, build_questions(spec))
     print(json.dumps(proposal, indent=2, ensure_ascii=False))
     return 0
 
@@ -692,7 +762,7 @@ def cmd_ask(args) -> int:
 def cmd_run(args) -> int:
     nodes, _ = load_nodes(KB)
     spec = load_spec()
-    questions = build_questions(spec, args.criteria_shape)
+    questions = build_questions(spec)
     jev = client(args)
 
     rows = [json.loads(line) for line in
@@ -709,8 +779,9 @@ def cmd_run(args) -> int:
                 skipped += 1
                 continue
             try:
-                proposal = _ask(jev, nodes, a_id, b_id, spec, questions,
-                                row.get("evidence"))
+                ask = _ask_both_ways if args.verify_direction else _ask
+                proposal = ask(jev, nodes, a_id, b_id, spec, questions,
+                               row.get("evidence"))
             except JevError as exc:
                 print(f"  fail  {a_id} <-> {b_id}: {exc}", file=sys.stderr)
                 failed += 1
@@ -742,7 +813,7 @@ def cmd_calibrate(args) -> int:
     """
     nodes, _ = load_nodes(KB)
     spec = load_spec()
-    questions = build_questions(spec, args.criteria_shape)
+    questions = build_questions(spec)
     jev = client(args)
 
     truth = []
@@ -876,12 +947,8 @@ def main() -> int:
         prog="wb-jev",
         description=__doc__.split("Subcommands")[0].strip(),
         formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--criteria-shape", choices=("object", "array"), default="object",
-                    help="Choice `criteria` encoding; unverified against the live API")
     ap.add_argument("--auth-style", choices=("probe", "bearer", "x-api-key"),
                     default="probe", help="auth header spelling (default: probe)")
-    ap.add_argument("--no-model-field", action="store_true",
-                    help="omit `model` from the request body")
     sub = ap.add_subparsers(dest="cmd", required=True)
 
     sub.add_parser("questions", help="print the built question payload").set_defaults(fn=cmd_questions)
@@ -897,6 +964,8 @@ def main() -> int:
     p = sub.add_parser("ask", help="one pair through Jev")
     p.add_argument("a")
     p.add_argument("b")
+    p.add_argument("--both-ways", action="store_true",
+                   help="re-ask with the nodes swapped and flag any disagreement")
     p.set_defaults(fn=cmd_ask)
 
     p = sub.add_parser("run", help="batch a pairs file into proposals")
@@ -905,6 +974,9 @@ def main() -> int:
     p.add_argument("--limit", type=int)
     p.add_argument("--sleep", type=float, default=0.0)
     p.add_argument("--progress", action="store_true")
+    p.add_argument("--verify-direction", action="store_true",
+                   help="ask every pair both ways; doubles cost, catches an "
+                        "inverted edge, which nothing downstream can")
     p.set_defaults(fn=cmd_run)
 
     p = sub.add_parser("calibrate", help="re-decide the audited edges, score agreement")

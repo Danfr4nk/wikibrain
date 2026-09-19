@@ -7,9 +7,12 @@ gets believed, and both are pure functions over `schema/edges.json` and a
 recorded response. The transport is the part that cannot be tested without the
 live API, and it is deliberately the thinnest layer in the tool.
 
-The recorded response below is the documented shape, NOT a capture from the
-live service — Jev shipped 2026-09-15 and this repository has not yet made a
-call. If the real response differs, these tests are what should fail first.
+The recorded response below is a REAL capture from the live API (2026-09-19,
+jev-1.13.0), stitched from three probe calls made with synthetic state — no
+kb/ content was sent to obtain it. It is kept verbatim because the published
+documentation disagrees with it in two places that both produce a bare HTTP
+400: `type` is lowercase, and `criteria` is an object for a choice and an
+array for a score. If the wire format moves again, these are what fail first.
 
 Usage:  tests/test-jev
 """
@@ -51,26 +54,35 @@ def check(name: str, ok: bool, detail: str = "") -> None:
             print(f"        {detail}")
 
 
-# The documented response shape, one answer per question wb-jev asks.
+# Captured from jev-1.13.0 on 2026-09-19. Field-for-field as returned:
+# note `type` echoed inside each answer, `legend` on a score, score
+# probabilities keyed by level index as STRINGS, and `usage` at top level.
 RECORDED = {
-    "answers": {
-        "relation_exists": {"noul": 0.93},
-        "direction": {"choice": "a_to_b",
-                      "probabilities": {"a_to_b": 0.88, "b_to_a": 0.12},
-                      "confidence": 0.88},
-        "family": {"choice": "causal",
-                   "probabilities": {"causal": 0.71, "temporal": 0.24},
-                   "confidence": 0.71},
-        "rel": {"choice": "influenced",
-                "probabilities": {"influenced": 0.66, "caused": 0.21},
-                "confidence": 0.66},
-        "strength": {"score": 1.6, "probabilities": [0.1, 0.4, 0.4, 0.1],
-                     "confidence": 0.74},
-        "basis": {"choice": "inferred",
-                  "probabilities": {"inferred": 0.8, "stated": 0.15},
-                  "confidence": 0.80},
-    },
     "model": "jev-1.13.0",
+    "answers": {
+        "relation_exists": {"type": "noul", "noul": 0.85},
+        "direction": {"type": "choice", "choice": "a_to_b",
+                      "confidence": 0.62,
+                      "probabilities": {"a_to_b": 0.81, "b_to_a": 0.19}},
+        "family": {"type": "choice", "choice": "causal",
+                   "confidence": 0.41,
+                   "probabilities": {"causal": 0.70, "temporal": 0.30}},
+        # A near-tie: confidence 0.07 on a 0.53/0.47 split. Confidence
+        # measures how PEAKED the distribution is, not the winner's
+        # probability — the two must never be conflated by a threshold.
+        "rel": {"type": "choice", "choice": "preceded",
+                "confidence": 0.07,
+                "probabilities": {"caused": 0.47, "preceded": 0.53}},
+        "strength": {"type": "score", "score": 2.47, "confidence": 0.47,
+                     "legend": {"0": "Tentative", "1": "Weak",
+                                "2": "Moderate", "3": "Strong"},
+                     "probabilities": {"0": 0.03, "1": 0.12,
+                                       "2": 0.19, "3": 0.66}},
+        "basis": {"type": "choice", "choice": "inferred",
+                  "confidence": 0.55,
+                  "probabilities": {"inferred": 0.80, "stated": 0.20}},
+    },
+    "usage": {"input_tokens": 334, "output_tokens": 36},
 }
 
 
@@ -114,27 +126,40 @@ def main() -> int:
     # ---- question shape ------------------------------------------------
     check("six questions are asked", len(q) == 6, f"got {sorted(q)}")
     check("asserted_by is never asked", "asserted_by" not in q)
-    check("strength is a Score, not a Choice", q["strength"]["type"] == "Score")
+    check("strength is a score, not a choice", q["strength"]["type"] == "score")
     check("strength levels run low to high",
           q["strength"]["criteria"][0].lower().startswith("tentative")
           and q["strength"]["criteria"][-1].lower().startswith("strong"))
-    check("relation_exists is a Noul", q["relation_exists"]["type"] == "Noul")
-    check("choice criteria default to the object shape",
-          isinstance(q["rel"]["criteria"], dict))
-    check("--criteria-shape array switches the encoding",
-          isinstance(jev.build_questions(spec, "array")["rel"]["criteria"], list))
+    check("relation_exists is a noul", q["relation_exists"]["type"] == "noul")
+    # Both of these were wrong in every published write-up and produce a bare
+    # HTTP 400. Pinned against the live API rather than the documentation.
+    check("question types are lowercase",
+          {v["type"] for v in q.values()} <= {"noul", "choice", "score"},
+          str(sorted({v["type"] for v in q.values()})))
+    check("choice criteria are an object (the API refuses a list)",
+          all(isinstance(v["criteria"], dict)
+              for v in q.values() if v["type"] == "choice"))
+    check("score criteria are an array (the API refuses an object)",
+          all(isinstance(v["criteria"], list)
+              for v in q.values() if v["type"] == "score"))
 
     # ---- answer parsing ------------------------------------------------
     parsed = jev.parse_answers(RECORDED)
     check("a Noul parses to its probability",
-          parsed["relation_exists"]["probability"] == 0.93)
+          parsed["relation_exists"]["probability"] == 0.85)
     check("a Choice keeps the full distribution",
-          parsed["rel"]["probabilities"]["caused"] == 0.21)
-    check("a Score maps to the nearest level name",
-          parsed["strength"]["value"] == "weak",
-          f"got {parsed['strength']['value']!r} from 1.6")
+          parsed["rel"]["probabilities"]["caused"] == 0.47)
+    check("a Score floors rather than rounds",
+          parsed["strength"]["value"] == "moderate",
+          f"got {parsed['strength']['value']!r} from 2.47 — 2.47 must NOT become 'strong'")
     check("a Score keeps the raw between-levels position",
-          parsed["strength"]["raw"] == 1.6 and parsed["strength"]["between_levels"])
+          parsed["strength"]["raw"] == 2.47 and parsed["strength"]["between_levels"])
+    check("a Score keeps the legend the API returned",
+          parsed["strength"]["legend"]["3"] == "Strong")
+    check("confidence is kept distinct from the winner's probability",
+          parsed["rel"]["confidence"] == 0.07 and parsed["rel"]["probability"] == 0.53,
+          "a near-tie has high winner-probability and LOW confidence; "
+          "a threshold that conflates them is wrong")
     check("a Score landing on a level is not flagged as between",
           not jev.parse_answers(
               {"answers": {"strength": {"score": 3.0}}})["strength"]["between_levels"])
@@ -148,7 +173,9 @@ def main() -> int:
     check("asserted_by is set to system_one by construction",
           prop["edge"]["asserted_by"] == "system_one")
     check("the family is taken from the vocabulary, not the model",
-          prop["family"] == "causal")
+          prop["family"] == "temporal",
+          "rel=preceded is temporal; the model's own `family` answer said causal "
+          "and must not override the vocabulary")
 
     flipped = json.loads(json.dumps(parsed))
     flipped["direction"]["value"] = "b_to_a"
@@ -165,15 +192,16 @@ def main() -> int:
           and jev.to_proposal("evt:a", "evt:b", bad, spec)["edge"]["strength"] == "strong",
           "the conflict must survive into the proposal rather than be silently clamped")
 
-    mism = json.loads(json.dumps(parsed))
-    mism["family"]["value"] = "temporal"
+    # The capture IS a disagreement: rel=preceded (temporal) with family=causal.
     check("a family/rel disagreement is recorded",
-          any("family question" in c
-              for c in jev.to_proposal("evt:a", "evt:b", mism, spec)["conflicts"]))
+          any("family question" in c for c in prop["conflicts"]),
+          str(prop["conflicts"]))
 
-    clean = jev.to_proposal("evt:a", "evt:b", parsed, spec)
+    agreed = json.loads(json.dumps(parsed))
+    agreed["family"]["value"] = "temporal"
     check("a coherent answer set carries no conflicts",
-          clean["conflicts"] == [], str(clean["conflicts"]))
+          jev.to_proposal("evt:a", "evt:b", agreed, spec)["conflicts"] == [],
+          str(jev.to_proposal("evt:a", "evt:b", agreed, spec)["conflicts"]))
 
     # ---- canonicalisation ----------------------------------------------
     check("a derived relation is rewritten to its canonical direction",
@@ -190,6 +218,46 @@ def main() -> int:
             break
     else:
         check("every declared inverse canonicalises to its pair", True)
+
+    # ---- the swap check ------------------------------------------------
+    # Direction is the one answer where a confident error is invisible: an
+    # inverted edge reads as a plausible claim. A stub client stands in for
+    # the API so the logic is exercised without a billed call.
+    class _Stub:
+        """Returns a fixed answer set, optionally inverting on the second call."""
+        def __init__(self, flip_second):
+            self.flip_second, self.n, self.input_tokens = flip_second, 0, 0
+
+        def systemone(self, state, questions):
+            self.n += 1
+            out = json.loads(json.dumps(RECORDED))
+            if self.n == 2 and self.flip_second:
+                out["answers"]["direction"]["choice"] = "a_to_b"
+            elif self.n == 2:
+                out["answers"]["direction"]["choice"] = "b_to_a"
+            return out
+
+    fake = {"evt:a": {"id": "evt:a", "title": "A", "_body": "a"},
+            "evt:b": {"id": "evt:b", "title": "B", "_body": "b"}}
+
+    # Stable: forward says a_to_b, reversed (b,a) says b_to_a -> same edge.
+    stable = jev._ask_both_ways(_Stub(False), fake, "evt:a", "evt:b", spec, q)
+    check("a direction stable under swap is marked verified",
+          stable["direction_verified"] and not any(
+              "direction not stable" in c for c in stable["conflicts"]),
+          str(stable["conflicts"]))
+    check("the swap check records the reversed run",
+          stable["swapped_run"]["source"] == "evt:a")
+
+    # Unstable: both runs name their own first node as source.
+    unstable = jev._ask_both_ways(_Stub(True), fake, "evt:a", "evt:b", spec, q)
+    check("a direction that flips under swap is flagged",
+          not unstable["direction_verified"] and any(
+              "direction not stable" in c for c in unstable["conflicts"]),
+          str(unstable["conflicts"]))
+    counted = _Stub(False)
+    jev._ask_both_ways(counted, fake, "evt:a", "evt:b", spec, q)
+    check("the swap check costs exactly two calls", counted.n == 2, f"made {counted.n}")
 
     # ---- pair mining ---------------------------------------------------
     nodes, node_errors = jev.load_nodes(ROOT / "kb")

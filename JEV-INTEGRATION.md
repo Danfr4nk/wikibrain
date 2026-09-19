@@ -1,12 +1,13 @@
 # JEV-INTEGRATION.md — the System One integration
 
-**Status:** built, 2026-09-19. **Never run against the live API.**
-`bin/wb-jev` exists, `tests/test-jev` covers it, and two gates run in CI. No
-call has been made — the credential has not been verified and §7's smoke test
-is still the next step. Every offline path (question building, pair mining,
-the vocabulary gate) works without a key and is exercised by the tests; the
-network paths are written against the published documentation and are the part
-that can still be wrong.
+**Status:** built and verified against the live API, 2026-09-19.
+`bin/wb-jev` exists, `tests/test-jev` covers it with 50 offline checks, and two
+gates run in CI. The credential works, the wire format is settled, and the full
+pipeline has been run end to end.
+
+**No `kb/` content has been sent.** Every live call so far used invented
+lighthouse-and-collier nodes. The corpus stays put until the retention question
+in §8 is answered.
 
 Jev is a genuinely good fit for two of the four jobs named below, and a bad fit
 for a third that currently looks like the same job. The useful part of this
@@ -20,19 +21,19 @@ document is the boundary.
 | `bin/wb-jev enum-check` | **CI gate** — questions must match the vocabulary | no |
 | `bin/wb-jev pairs` | mines and scores candidate node pairs from `kb/` | no |
 | `bin/wb-jev ping` | verifies the credential, reports which auth header worked | yes |
-| `bin/wb-jev ask A B` | one pair, prints the typed proposal | yes |
-| `bin/wb-jev run --pairs F` | batch, writes proposals as JSONL | yes |
+| `bin/wb-jev ask A B` | one pair, prints the typed proposal (`--both-ways`) | yes |
+| `bin/wb-jev run --pairs F` | batch, writes proposals as JSONL (`--verify-direction`) | yes |
 | `bin/wb-jev calibrate` | re-decides the 81 audited edges, scores agreement | yes |
 | `bin/wb-jev review F` | renders proposals as a markdown queue | no |
-| `tests/test-jev` | **CI gate** — 43 offline checks | no |
+| `tests/test-jev` | **CI gate** — 50 offline checks | no |
 
 Schema: `asserted_by` gains `system_one`, and edges gain `confidence` (0–1),
 required when `asserted_by = "system_one"` and enforced by `bin/wb-validate`.
 
 **Measured on the real corpus:** 1,569 nodes yield **5,117 evidenced candidate
 pairs** — 2,335 of them pairs where one node already *cites* the other and no
-typed edge was ever written. Median request ~2,470 tokens. **The entire sweep
-costs $0.53.**
+typed edge was ever written. **The entire sweep costs $0.53** — $1.06 with
+`--verify-direction`, which is what the direction bug in §7 argues for.
 
 ---
 
@@ -71,7 +72,12 @@ how peaked the distribution is.
 concrete definition. Returns a score (which may land *between* levels as a
 probability-weighted position), per-level probabilities, and confidence.
 
-### Request shape
+### Request shape — **as documented, and wrong**
+
+The block below is what every published write-up shows. Two things in it are
+rejected by the live API: the capitalised `type` values, and the array form of
+`choice.criteria`. **§7 has the shape that actually works** — this is kept only
+so the discrepancy is visible.
 
 ```json
 {
@@ -444,31 +450,79 @@ prose model still has to write every claim sentence.
 
 ---
 
-## 7. Verify your access before anything else
+## 7. The wire format, as it actually is
 
-You said you don't know if it's set up properly. Check that first — the rest of
-this document is worthless if the key isn't live:
+Settled by probing the live API. **The published documentation is wrong in two
+places, and both produce a bare `HTTP 400 {"error_type":"api_usage_error",
+"message":"Invalid request."}` with no indication of the cause.** Recorded here
+so nobody re-derives it.
 
-```bash
-export TYPESAFE_API_KEY='sk-...' && curl -sS https://api.typesafe.ai/v1/models -H "Authorization: Bearer $TYPESAFE_API_KEY" | python3 -m json.tool && echo '--- systemone smoke test ---' && curl -sS -X POST https://api.typesafe.ai/v1/systemone -H "Authorization: Bearer $TYPESAFE_API_KEY" -H 'Content-Type: application/json' -d '{"model":"jev-latest","state":"The 2010 Suboxone start preceded the 2015 relapse by five years.","questions":{"rel":{"type":"Choice","instructions":"Which typed relation holds from the first event to the second","criteria":{"preceded":"Sequence only, no causal claim","caused":"Direct causal contribution","influenced":"Partial causal contribution","resembled":"Similarity, not sequence"}},"defensible":{"type":"Noul","instructions":"A defensible typed relation exists between these two events"}}}' | python3 -m json.tool
+| | Documented | Actual |
+|---|---|---|
+| Question `type` | `"Noul"` `"Choice"` `"Score"` | **lowercase**: `noul` `choice` `score` |
+| `choice.criteria` | object *or* array, unclear | **object only** — an array is a 422 |
+| `score.criteria` | array | **array only** — an object is a 422 |
+| `model` in body | "the docs say, the examples omit" | **required** — omitting is a 422 |
+| `state` | implied required | **optional**; string or JSON object |
+| Auth | env var named, header not | `Authorization: Bearer` |
+
+The useful trick: a *malformed* request returns a FastAPI 422 that names the
+offending field and the expected type, while a *well-formed but wrong* one
+returns the opaque 400. Sending `{}` enumerates the required fields.
+
+### Response shape
+
+```json
+{
+  "model": "jev-1.13.0",
+  "answers": {
+    "relation_exists": {"type": "noul", "noul": 0.86},
+    "rel": {"type": "choice", "choice": "caused", "confidence": 0.58,
+            "probabilities": {"caused": 0.61, "influenced": 0.34, "preceded": 0.05}},
+    "strength": {"type": "score", "score": 2.06, "confidence": 0.47,
+                 "legend": {"0": "Tentative…", "3": "Strong…"},
+                 "probabilities": {"0": 0.05, "1": 0.14, "2": 0.52, "3": 0.29}}
+  },
+  "usage": {"input_tokens": 1722, "output_tokens": 361}
+}
 ```
 
-Three things to confirm from the output, because the docs are new enough that
-any of them could be wrong:
+`usage.input_tokens` is what the billing is counted from. A `score` echoes the
+level definitions back as `legend`, and keys its probabilities by level index
+as strings.
 
-1. **The auth header.** `Authorization: Bearer` is inferred, not confirmed — no
-   source states it explicitly. A 401 means try `X-API-Key`.
-2. **Whether `model` belongs in the body.** The docs say the `model` field
-   selects the version; the published request examples omit it. Harmless to
-   send; confirm it isn't rejected.
-3. **Whether `criteria` for a Choice is an object or an array.** The examples
-   show an object for Choice and an array for Score. If Choice accepts a bare
-   array, the `schema/edges.json` binding gets simpler; if it wants the object,
-   the family `claim` strings in that file become the per-option definitions —
-   which is better anyway, since they're already written.
+### `confidence` is not the winner's probability
 
-Paste the output back and the client can be written against reality instead of
-against documentation.
+One probe returned `choice: "preceded"` with probabilities `{preceded: 0.53,
+caused: 0.47}` and **`confidence: 0.07`**. Confidence measures how *peaked* the
+distribution is. A near-tie has a high winning probability and near-zero
+confidence, and a threshold that conflates the two would wave through exactly
+the coin-flips it exists to catch. `wb-jev` keeps both, and `tests/test-jev`
+pins the distinction.
+
+### The direction bug, and why `--both-ways` exists
+
+The first end-to-end run returned **`grounding caused lamp-failure`** —
+backwards, on a probe where the lamp failed the night before — at confidence
+0.72. The cause was this tool's wording, not the model: the `direction`
+question asked "which node is making the claim about the other", which leaked
+the `asserted_by` framing into a question about the relation's subject.
+
+Reworded to state the form explicitly (`SOURCE relation TARGET`, "in 'X caused
+Y', X is the source"), the same pair returns the correct edge **at confidence
+0.99 from both orderings**:
+
+```
+OK  a=lamp b=ship: evt:0001 --caused--> evt:0002   dir=a_to_b conf=0.99
+OK  a=ship b=lamp: evt:0001 --caused--> evt:0002   dir=b_to_a conf=0.99
+```
+
+That order-invariance check is now a standing feature — `ask --both-ways`,
+`run --verify-direction`. It doubles cost ($1.06 instead of $0.53 for the full
+sweep) and it is worth it: an inverted edge reads as a perfectly plausible
+claim, so it is the one error nothing downstream can catch. Disagreement is
+**recorded, not resolved** — two runs that disagree mean the pair is genuinely
+ambiguous, and that is the finding.
 
 ---
 
