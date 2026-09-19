@@ -29,6 +29,25 @@ import sys
 import tomllib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
+
+# Same redaction rule as every other publication path, imported from the tool
+# that owns it (dat:0052). These feeds are published JSON: transmissions.json
+# carries kb/data claims verbatim, and a claim that names a handle it is
+# correcting put that handle on the public site.
+from importlib.machinery import SourceFileLoader as _SFL  # noqa: E402
+_archive = _SFL("wb_archive", str(ROOT / "bin" / "wb-archive")).load_module()
+_redact = _archive.redact
+
+
+def redact_tree(value):
+    """Mask contact identifiers through a loaded node, structure untouched."""
+    if isinstance(value, str):
+        return _redact(value)
+    if isinstance(value, list):
+        return [redact_tree(v) for v in value]
+    if isinstance(value, dict):
+        return {k: redact_tree(v) for k, v in value.items()}
+    return value
 KB = ROOT / "kb"
 RAW = ROOT / "raw"
 
@@ -75,7 +94,10 @@ def load_node(path: pathlib.Path) -> dict | None:
         return None
     if not isinstance(fm, dict):
         return None
-    return {"fm": fm, "body": m.group(2).strip()}
+    # Masked here rather than at the call sites: build_transmissions re-reads
+    # kb/data from disk and ignores the node list it is handed, so redacting
+    # only what all_nodes() returns left transmissions.json unmasked.
+    return {"fm": redact_tree(fm), "body": _redact(m.group(2).strip())}
 
 
 def all_nodes() -> list[dict]:
@@ -150,7 +172,7 @@ def build_transcript(out_dir: pathlib.Path) -> list[dict]:
     if RAW.is_dir():
         for extract in sorted(RAW.glob("*/EXTRACT.md")):
             batch = extract.parent.name
-            text = extract.read_text(encoding="utf-8", errors="replace")
+            text = _redact(extract.read_text(encoding="utf-8", errors="replace"))
             m = DATE_RE.search(batch)
             date = None
             if m:

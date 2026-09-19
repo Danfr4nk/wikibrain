@@ -3,7 +3,7 @@ domain: timeline
 page_type: period
 status: archived
 date_created: 2026-06-22
-date_modified: 2026-09-17
+date_modified: 2026-09-19
 sources: ["raw/self/dox-md/LIFE_EVENTS_CALENDAR.md", "raw/self/context-core/CONTEXT_CORE_EXPANDED.md", "raw/self/dox-md/operating_manual.md", "raw/self/message-csv/*", "raw/self/facebook/facebook-ihatedanfrank/", "raw/self/dox-md/LIFE REPORT.md", "raw/self/dox-md/Gemini-_00.md", "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv", "raw/self/dox-scan/all_imessages_complete_dump.txt", "raw/self/message-csv/imessage_7249204125_both_all_now.csv", "raw/self/dox-md/MAX_PRIME.md", "raw/old-wiki-export-2026-09-04/whole.txt"]
 related: ["wiki/timeline/events/timeline", "wiki/timeline/periods/2017-poverty-floor", "wiki/self/message-corpora/master-message-dump", "wiki/mind/synthesis/vertical-authority-skepticism", "wiki/self/facebook", "wiki/self/gemini-activity/gemini-activity", "wiki/mind/synthesis/totality-themes", "wiki/timeline/events/the-fall-of-fran", "wiki/timeline/events/fran-death-vigil", "wiki/timeline/events/uniontown-hospital-vape-alarm", "wiki/timeline/events/annie-alexis-reunion-november-2018", "wiki/people/fran-coldren", "wiki/people/johnny-dealer", "wiki/people/zaco", "wiki/people/teddy", "wiki/people/al", "wiki/people/jajuan-davis", "wiki/people/emaly-minerd", "wiki/people/ally-lubin", "wiki/people/danny-matthews", "wiki/people/suzanne-frank", "wiki/people/diane-moore", "wiki/people/fred-adams", "wiki/mind/psychosexual/arrangement-history", "wiki/mind/synthesis/message-circadian-latency", "wiki/self/location-history", "wiki/self/tattoos", "wiki/mind/synthesis/provision-grammar", "wiki/mind/synthesis/estate-money-spine", "wiki/meta/complete-log-doctrine"]
 connections:
@@ -123,13 +123,25 @@ runs to February 2020. His own disclosures of fines, probation and cash
 shortages are the record's evidence that the suppliers were as financially
 fragile as the buyer.
 
-**[[wiki/people/zaco|Zaco]]** (`+17249123381`) opens **March 12** and is the
-network's one inversion: across 65 messages he sends 58 and Dan sends 7,
-almost all of his unsolicited inventory advertisements — *"I got strips,"*
-*"3 strip for 50,"* *"I'm in town I got 3 subs for 70 lmk if u want em."*
-Every other supply relationship in the corpus has Dan chasing availability.
-Zaco is the only node that does the selling, and Dan mostly does not
-answer.
+**[[wiki/people/zaco|Zaco]]** (`+1724***3381`) opens **March 12** with
+*"Yo it's zaco"* and runs to a single-night coda in November. The held
+thread is **106 messages — 58 from him, 48 from Dan** — across 35 active
+days, and he opens 21 of them; 14 of those openers announce stock without
+being asked: *"I got strips,"* *"3 strip for 50,"* *"I'm in town I got 3
+subs for 70 lmk if u want em."* The unprompted advertising is real and is
+uncommon in this corpus. The inversion this page drew from it is not: Dan
+opens the other 14 days, initiates the thread's trade ten days in, and
+drives its two largest transactions. [[wiki/people/zaco]] carries the
+complete log.
+
+> **CORRECTED [2026-09-19]:** this paragraph read *"across 65 messages he
+> sends 58 and Dan sends 7"* and called Zaco *"the only node that does the
+> selling, and Dan mostly does not answer."* Both figures came from an
+> unheld merged export; the held corpus has **58:48 across 106 messages**.
+> `dat:1357` filed the recount on 2026-09-09 — eight days before this page
+> was written — so the retired figure was re-published rather than caught.
+> The handle is also masked here now, per the `jay-lauer`/`ellen-ulmer`
+> convention. See [[wiki/people/zaco]] §Evidence status.
 
 **[[wiki/people/al|Al]]** — saved in contacts under the joke label
 "Socialist" — runs May 13 to November 1, 53 messages, explicitly cocaine.
@@ -535,9 +547,9 @@ content disagree, that is flagged rather than silently corrected.
   you."* [[wiki/mind/synthesis/severance-declaration-audit]]
 - **2018-06-27** — *"I said seriously that I would spend money to get you an
   escort"* — Dan, for Annie.
-- **June (month-level)** — the [[wiki/people/zaco|Zaco]] push-marketing run
-  tapers; the thread's active window is March–June, with a final trace in
-  November.
+- **June (month-level)** — the [[wiki/people/zaco|Zaco]] thread peaks at 34
+  messages and ends; its active window is March–June (34 days with
+  traffic), with a single-night coda on November 26.
 
 ### July — three entries and one generator artifact
 

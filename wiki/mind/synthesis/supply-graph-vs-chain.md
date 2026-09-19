@@ -5,7 +5,7 @@ page_type: synthesis
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-09-19
 sources:
   - src:corpus-authoritative-export
   - src:old-wiki-export-2026-09-04
@@ -182,7 +182,7 @@ The terminal-era illicit layer — Tom alone — is not the layer's historical s
 
 **[[wiki/people/teddy|Teddy]]** (2018–2020): parallel informal supplier — strips, pills, credit and holds. Willing but fragile: fines, probation, borrowed money.
 
-**[[wiki/people/zaco|Zaco]]**: the 2018 Suboxone-strip secondary, and the network's only inbound-marketing node — 58 of his thread's 65 messages are unsolicited inventory advertisements.
+**[[wiki/people/zaco|Zaco]]**: the 2018 Suboxone-strip secondary. He advertises stock unprompted — 14 of the 21 thread-days he opens announce inventory without being asked — but the edge is two-way: **106 held messages, 58 from him and 48 from Dan.** **CORRECTED [2026-09-19]:** this read *"the network's only inbound-marketing node — 58 of his thread's 65 messages,"* a ratio from an unheld export that the held corpus does not reproduce (`dat:1357`; [[wiki/people/zaco]]).
 
 **[[wiki/people/jay-lauer|Jay Lauer]]**: seven weeks of suboxone/cocaine peer-trading across the 2016–17 New Year — mutual credit between broke men, not vendor service.
 
@@ -243,7 +243,7 @@ The graph, stated as edges (direction: toward Dan):
 
 *[[wiki/people/teddy|Teddy]] → Dan* (2018–20): strips, pills, credit. Fragile but present.
 
-*[[wiki/people/zaco|Zaco]] → Dan* (2018): strip secondary, inbound-marketing.
+*[[wiki/people/zaco|Zaco]] ⇄ Dan* (2018): strip secondary; advertises unprompted, but bidirectional in the held corpus (58:48).
 
 *[[wiki/people/menore|Menore]] → Dan* (NYC, 2013–2025): the professional edge, 99.3% uptime. Still operating 2026 — but in the wrong city for the May 2026 failure, which is its own lesson: **an edge that cannot reach the failure's geography is not redundancy.**
 
