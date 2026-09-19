@@ -517,7 +517,7 @@ character. Times are converted from the corpus's UTC `date_sent`; the UTC
 reading is validated in [[wiki/people/betherin-mechling]] §Evidence status
 against a message whose local time the wiki records independently, and a third
 time by the circadian histogram in
-[`dat:1797`](../../../../../kb/data/1797-held-corpus-timestamps-are-utc-not-local.md).
+[`dat:1797`](../../../../../kb/data/1802-held-corpus-timestamps-are-utc-not-local.md).
 `CORPUS_POLICY.md` §Timestamps asserted the reverse until 2026-09-19 and has
 since been corrected.
 

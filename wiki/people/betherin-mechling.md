@@ -470,7 +470,7 @@ condolence: the wiki dates it 19:09 EDT on April 11 and the corpus holds it at
 the next day.
 [`dat:0673`](../../kb/data/0673-jay-lauer-direction-and-count-corrections.md)
 reaches the same conclusion independently, and
-[`dat:1797`](../../kb/data/1797-held-corpus-timestamps-are-utc-not-local.md)
+[`dat:1797`](../../kb/data/1802-held-corpus-timestamps-are-utc-not-local.md)
 settles it a third way with a circadian histogram over all 192,140 rows.
 Every local time on this page is derived on that basis.
 

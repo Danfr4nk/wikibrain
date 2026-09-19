@@ -1,5 +1,5 @@
 +++
-id            = "dat:1797-held-corpus-timestamps-are-utc-not-local"
+id            = "dat:1802-held-corpus-timestamps-are-utc-not-local"
 layer         = 1
 type          = "datum"
 title         = "Correction: the held corpus stores date_sent in UTC, not local time — CORPUS_POLICY.md §Timestamps has the direction inverted, and dat:0057's summary contradicts its own worked example"

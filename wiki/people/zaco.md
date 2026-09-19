@@ -565,7 +565,7 @@ wiki dates 19:09 EDT sits at 23:09 in the corpus — and independently at
 [`dat:0673`](../../kb/data/0673-jay-lauer-direction-and-count-corrections.md).
 `CORPUS_POLICY.md` §Timestamps stated the reverse until 2026-09-19 and has
 since been corrected
-([`dat:1797`](../../kb/data/1797-held-corpus-timestamps-are-utc-not-local.md)).
+([`dat:1797`](../../kb/data/1802-held-corpus-timestamps-are-utc-not-local.md)).
 Three log rows change calendar date
 under conversion (the 2018-04-20 UTC rows are 2018-04-19 local), which is why
 the prior page's "April 20" and "May 2" readings differ from this one.
