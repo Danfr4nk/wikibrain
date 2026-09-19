@@ -157,11 +157,31 @@ land *between* levels. An edge that comes back at 1.6 on the weak→moderate axi
 is an edge whose strength is genuinely contested, and that is a fact the record
 should hold rather than round away.
 
-**The prize:** `bin/wb-validate` currently reports edges lacking `strength` or
-`asserted_by` as "provisional rather than audited" (line 403). That warning
-exists because auditing an edge by hand is expensive, so bulk imports stay
-unfinished. Jev makes the audit cost approximately nothing. The warning could
-go to zero.
+**The prize — and it is not the one it first looks like.** `bin/wb-validate`
+carries a warning for edges lacking `strength` or `asserted_by`, "provisional
+rather than audited" (line 403). The obvious pitch is that Jev clears that
+warning cheaply. Run the validator and that pitch evaporates:
+
+```
+1569 nodes   L0:141  L1:1213  L2:129  L3:59  L4:16  L5:11
+81 edges   causal:2  editorial:1  semantic:4  structural:65  temporal:9   (81/81 audited)
+```
+
+**Every edge is already audited. There are only 81 of them, against 1,569
+nodes** — a density of about 0.05 edges per node, and 65 of the 81 are
+`structural`, which is the cheapest family to assert. Two causal edges. Four
+semantic. Zero narrative, in a corpus `ARCHITECTURE.md` describes as "loud,
+self-narrating and performative" and for which the narrative family was
+specifically built.
+
+So the bottleneck is not audit quality. It is that **the graph is almost
+entirely unwritten**, and it is unwritten because deciding whether a defensible
+typed relation exists between two nodes — and which of 26 it is — costs a
+frontier model a full read of both. At 1,569 nodes that read has never been
+affordable at scale, so it has been done 81 times.
+
+That reframes the whole integration. Jev is not an audit tool here. It is the
+thing that makes the *first* full sweep of the graph possible at all.
 
 ### Site 2 — connection candidate triage (`wiki/`) — strong fit, with a hard limit
 
@@ -324,8 +344,9 @@ candidates. A human or a writing model still commits them.
 
 ## 6. Cost
 
-1,570 nodes in `kb/`. Candidate pairs are evidence-gated, so the real volume is
-order 10³–10⁴, not the full 1.2M pair space.
+1,569 nodes in `kb/`, carrying 81 edges. Candidate pairs are evidence-gated by
+`wiki-connect`'s four signals, so the real volume is order 10³–10⁴, not the full
+1.23M pair space.
 
 Per pair: two node `claim` fields plus evidence lines ≈ 1,500 tokens of state,
 five questions batched into one request.
@@ -339,11 +360,17 @@ five questions batched into one request.
 Output is free. At 70–500 ms and 1,200 req/min, 10,000 pairs is single-digit
 minutes of wall clock.
 
-Your instinct was right. This is not a marginal saving over frontier inference
-for the typing work — it is a different order of magnitude, and it makes the
-full-sweep audit (every pair, not just the top 60) affordable for the first
-time. **The saving is real for Sites 1, 3 and 4, and partial for Site 2**,
-where a prose model still has to write every claim sentence.
+Your instinct was right, and understated. This is not a marginal saving over
+frontier inference for the typing work — it is a different order of magnitude.
+
+But the saving is the less interesting half. **At $0.63, the question stops
+being "can we afford to audit the edges" and becomes "why is the graph only 81
+edges wide."** Those are different projects. The first is cost reduction on
+work already being done; the second is work that has never been done because it
+was never affordable. Site 1 is the second kind.
+
+**The saving is real for Sites 1, 3 and 4, and partial for Site 2**, where a
+prose model still has to write every claim sentence.
 
 ---
 
