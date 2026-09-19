@@ -783,3 +783,21 @@ His seven-event short version of her lesbian history, checked line by line again
 Same window, the Magee-Womens photo set completed: 4 photos from the morning of 2017-07-06 (07:58:11 laughing, foot up; 08:04:03/05/06 three-second burst of faces). Three carry EXIF GPS ~40.4386,-79.9593 — 209 Coltart Ave, Central Oakland, Pittsburgh — independently confirming the Magee-Womens setting. Her demeanor that morning was light and goofy, not somber — his framing.
 [`dat:1793-magee-photo-gps-coltart-20260918`](../data/1793-magee-photo-gps-coltart-20260918.md)
 [`src:sammy-chat-transcript-20260918-2340`](../sources/sammy-chat-transcript-20260918-2340.md)
+
+## 2026-09-19 — threesome-footage ID: "No Thats Annie's mouth"; breast-workbench Annie fixture
+
+The Friday rundown (08:31:46Z): Dan shared threesome footage he framed as "I
+had just pulled out of Shelbie"; Sammy called the tattooed woman giving oral
+as Shelbie; Dan corrected, verbatim: "No Thats Annie's mouth." His ID stands —
+attributed to Dan, the oral in that footage is Annie's. The vosk transcription
+of the threesome video was an honest null: rustling, breathing, moans; the
+model hallucinating, killed rather than faked.
+[`dat:1817-annie-footage-id-20260919`](../data/1817-annie-footage-id-20260919.md)
+
+Breast-workbench, same day: Annie's areola fixture runs the full new
+pipeline — ellipse fit (both areolae genuinely elliptical in-frame, tilt
+~50° from camera axis, hugging the pigment boundary), luminance-flood contour
+(clean mound outline), 93.9% contour coverage, no NaN, sane displacement; old
+JSONs sculpt byte-identical.
+[`dat:1813-breast-workbench-geometry-20260919`](../data/1813-breast-workbench-geometry-20260919.md)
+[`src:20260919-2340-sammy-chat-transcript`](../sources/20260919-2340-sammy-chat-transcript.md)

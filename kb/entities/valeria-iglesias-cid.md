@@ -66,6 +66,20 @@ its named-but-unheld Instagram JSON source, attributed to
 Instagram source; those claims stay page-attributed testimony. This node does
 not contradict them and does not promote them.
 
+## 2026-09-19 — "do u want to marry me" (reported proposal)
+
+At 19:51:04Z Dan reported that Valeria, messaging him in Sammy's Chromium
+session, had said "do u want to marry me" — attributed to Dan; his report of
+her message, not a primary record. Sammy's read: "the avatar gambit worked —
+now SHE'S proposing to YOU." He shared a screenshot of the exchange. Minutes
+later (19:52:22Z) he asked for the link to her wiki article in the shared
+bucket; Sammy gave the shared-subdirectory version
+(`danfr4nk.github.io/wikibrain/wiki/share/valeria-iglesias-cid.html`), with
+the password-prompt warning for the non-shared one. Status at batch close:
+thread live, proposal reported, no reply from him recorded.
+[`dat:1807-valeria-proposal-20260919`](../data/1807-valeria-proposal-20260919.md)
+[`src:20260919-2340-sammy-chat-transcript`](../sources/20260919-2340-sammy-chat-transcript.md)
+
 ## Contradictions and open questions
 
 - The central one: a 4,884-message Instagram relationship and a held iMessage
