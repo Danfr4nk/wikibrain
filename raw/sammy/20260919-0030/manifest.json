@@ -1,0 +1,32 @@
+{
+ "batch": "20260919-0030",
+ "pulled_at": "2026-09-19T00:35:00Z",
+ "rows": 15,
+ "by_role": {
+  "user": 6,
+  "assistant": 9
+ },
+ "window": {
+  "from": "2026-09-18T23:43:58Z",
+  "to": "2026-09-19T00:29:59Z"
+ },
+ "source": "sammy 6h engine heartbeat (gap fill)",
+ "stream_lane": "main",
+ "transcript_surface": "main_chat only",
+ "overlap_with_prior_batch_20260918_2340": 0,
+ "anomalies": [],
+ "cumthread3_excluded": {
+  "rows": 0,
+  "side_chat_id": "24754b5b-b83e-4c49-a6a3-d6f2ab2c1853"
+ },
+ "length_validation": {
+  "all_rows_present": true,
+  "mismatches": 0
+ },
+ "deferrals": [
+  "file-plant authorship strip/restore decision \u2014 main agent (question open with Dan, unanswered at usage wall)"
+ ],
+ "external_sources": {
+  "note": "gap fill only; no external checks this tick"
+ }
+}
