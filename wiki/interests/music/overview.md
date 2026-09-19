@@ -107,6 +107,19 @@ three BPM rooms, dark valence) from post-hoc description into per-track
 attributable causes. Week logs live on the entry, complete, per the
 complete-log doctrine.
 
+> **AUDIT [2026-09-19] — the adjudication has not happened yet.** The
+> forensics profile's standing is unchanged: it is a high-confidence
+> post-hoc aggregate (n=232, direct computation), **not** yet confirmed or
+> contradicted by instrument data — because no driver-lift measurement has
+> been recorded anywhere. AUTOPSY's Drivers view exists (lift = keep-rate
+> when a driver is checked, over the base keep rate; minimum 2 checks, early
+> leaders labeled "suspects, not verdicts"), and the base keep rate it will
+> lift against is the model's 8 locked KEEP predictions of 30 (26.7%), but
+> every row of the week-1 scorecard is still pending — the week closes
+> 2026-09-20 — and AUTOPSY's data lives only in the browser's localStorage,
+> never exported. "The lift ranking will confirm the forensics or find them
+> wanting" is a scheduled measurement, not a verdict. Evidence: (dat:1801).
+
 ## What the message record says about the production identity
 
 > **CORRECTED [2026-08-23].** This page has described the production domain as
