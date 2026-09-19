@@ -1,0 +1,29 @@
+{
+ "batch": "20260919-1232",
+ "pulled_at": "2026-09-19T12:32:00Z",
+ "files": {
+  "chats.json": {
+   "sha256": "acf28ac4f0032559a975747288355b9021924f01fc9079c2a9859f209fd61a32",
+   "bytes": 12817
+  },
+  "EXTRACT.md": {
+   "sha256": "73440a662df1ab5a38bf3f600f56240fdbf7d5200b57c0a6014b80dab327288c",
+   "bytes": 4230
+  }
+ },
+ "sources": {
+  "chats": {
+   "watermark_from": "2026-09-19T06:28:27Z",
+   "watermark_to": "2026-09-19T12:09:36Z",
+   "count": 52,
+   "user": 21,
+   "assistant": 31,
+   "window_utc": "2026-09-19T06:28:27Z -> 2026-09-19T12:09:36Z",
+   "surfaces": [
+    "main_chat"
+   ],
+   "truncated": false,
+   "note": "21 of 31 assistant rows are the verbatim usage-limit notice; the quota wall held the whole window."
+  }
+ }
+}
