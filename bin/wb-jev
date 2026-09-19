@@ -84,6 +84,7 @@ import itertools
 import json
 import os
 import pathlib
+import random
 import sys
 import time
 import urllib.error
@@ -113,6 +114,14 @@ STRENGTH_ASCENDING = ["tentative", "weak", "moderate", "strong"]
 # Body text handed to the model per node. The request ceiling is 32k tokens of
 # state; two nodes at this length leave ample room for the questions.
 EXCERPT_CHARS = 2400
+
+
+class JevError(RuntimeError):
+    pass
+
+
+class SensitiveNode(JevError):
+    """Raised, never returned: a guard on what leaves the machine fails closed."""
 
 
 # ---------------------------------------------------------------- vocabulary
@@ -236,6 +245,53 @@ def build_questions(spec: dict) -> dict:
     }
 
 
+def stage_one(spec: dict) -> dict:
+    """What can be judged without knowing anything else: does a relation hold,
+    of which family, which one, and resting on what."""
+    q = build_questions(spec)
+    return {k: q[k] for k in ("relation_exists", "family", "rel", "basis")}
+
+
+def stage_two(spec: dict, rel: str) -> dict:
+    """Direction and strength, asked once the relation is KNOWN.
+
+    Jev evaluates every question in a request independently against the same
+    state — "the answer to question A doesn't become context for question B".
+    Direction is not independent of `rel`: which node belongs in the source
+    slot of `X about Y` has nothing in common with `X preceded Y`. Asking both
+    in one batch asks the direction of a relation that has not been chosen yet,
+    and TypeSafe's own guidance is explicit that a dependent question needs a
+    second request.
+
+    So the chosen relation is substituted into the instructions here, which is
+    the only way this model can be made to condition on it.
+    """
+    defs = spec["definitions"]
+    return {
+        "direction": {
+            "type": "choice",
+            "instructions": (
+                f"The relation between these two nodes is '{rel}': "
+                f"{defs[rel]} It is written as SOURCE {rel} TARGET and reads in "
+                f"that order. Which of the two nodes belongs in the SOURCE slot"
+            ),
+            "criteria": {
+                "a_to_b": f"The first node is the source. The edge reads: a {rel} b.",
+                "b_to_a": f"The second node is the source. The edge reads: b {rel} a.",
+            },
+        },
+        "strength": {
+            "type": "score",
+            "instructions": (
+                f"Taking the relation '{rel}' as given, how hard is that claim — "
+                f"what the evidence in the state will carry, not how plausible "
+                f"the relation feels."
+            ),
+            "criteria": build_questions(spec)["strength"]["criteria"],
+        },
+    }
+
+
 def check_enums(spec: dict) -> list[str]:
     """Fail loudly if the question set and the vocabulary have drifted.
 
@@ -329,10 +385,58 @@ def node_state(node: dict) -> dict:
     return out
 
 
+def guard_sensitive(*nodes: dict) -> None:
+    """Refuse to put a node marked `sensitive` on the wire.
+
+    `bin/wb-build` excludes these from every artifact it produces, and the
+    same rule applies with more force here: a built page stays on a machine
+    Dan controls, and a request does not. TypeSafe states it does not train
+    on customer input and does not disclose it beyond its service providers,
+    but retention has no stated period and zero-retention is enterprise-only.
+    That is an acceptable trade for a node about a lighthouse and not one for
+    the five nodes this catches.
+
+    An explicit --include-sensitive exists, because the judgement is Dan's and
+    not this tool's. It has to be typed deliberately, every time.
+    """
+    for node in nodes:
+        if node.get("sensitive"):
+            raise SensitiveNode(
+                f"{node.get('id')} is marked sensitive and will not be sent. "
+                f"bin/wb-build withholds it from every artifact; this refuses "
+                f"it on the wire. Override with --include-sensitive.")
+
+
+# The layer model, compressed. Without it the model reads an L1 datum naming a
+# person as an event that person took part in, and answers `participated_in`
+# where the vocabulary means `about` — 31 of 81 calibration edges went that way
+# before this was added. A datum is a MEASUREMENT; nobody participates in one.
+# The full statement is ARCHITECTURE.md's "six layers"; this is the part a
+# relation choice turns on.
+LAYER_LEGEND = {
+    0: "source — a body of raw material. Things are extracted FROM it; it does nothing.",
+    1: "datum — a single measured or observed fact, extracted from a source. "
+       "A datum is a RECORD: it can be `about` a person, place or event, and it "
+       "never acts, participates, causes or takes part in anything.",
+    2: "entity / event / relationship — a thing in the world. People, places, "
+       "organisations, things that happened. These are what act, participate, "
+       "precede and cause.",
+    3: "interpretation / contradiction — a reading OF lower-layer material. "
+       "Like a datum, it is a record: it is `about` what it reads, and does not act.",
+    4: "pattern — a regularity observed across interpretations. A record, not an actor.",
+    5: "synthesis — a conclusion drawn from patterns. A record, not an actor.",
+}
+
+
 def pair_state(a: dict, b: dict, evidence: dict | None = None) -> dict:
+    layers = {f"layer {n}": LAYER_LEGEND[n]
+              for n in sorted({a.get("layer"), b.get("layer")} & set(LAYER_LEGEND))}
     state = {
         "note": ("Two nodes from a personal knowledge base. The first node is "
-                 "'a', the second is 'b'. Decide how they relate."),
+                 "'a', the second is 'b'. Decide how they relate. A node's "
+                 "`layer` constrains what it can do — read the layer notes "
+                 "before choosing a relation."),
+        "layers": layers,
         "a": node_state(a),
         "b": node_state(b),
     }
@@ -357,13 +461,18 @@ def _bucket_pairs(buckets: dict, cap: int, label: str, ev: dict) -> None:
             ev[frozenset((a, b))][label].append(key)
 
 
-def mine_pairs(nodes: dict, limit: int = 500) -> list[dict]:
+def mine_pairs(nodes: dict, limit: int = 500, include_sensitive: bool = False) -> list[dict]:
     """Candidate pairs from observable signals. No model involved.
 
     Deliberately the same shape as bin/wiki-connect's candidate miner over
     wiki/: score from evidence, never propose a pair that already carries an
     edge, and let the score be a pointer rather than a finding.
     """
+    if not include_sensitive:
+        # Dropped before mining, not filtered after: a sensitive node must not
+        # reach a pairs file that a later `run` would happily read back in.
+        nodes = {k: n for k, n in nodes.items() if not n.get("sensitive")}
+
     already = set()
     for nid, node in nodes.items():
         for edge in node.get("edges") or []:
@@ -463,10 +572,6 @@ def mine_pairs(nodes: dict, limit: int = 500) -> list[dict]:
 
 
 # ----------------------------------------------------------------- transport
-
-class JevError(RuntimeError):
-    pass
-
 
 class Jev:
     def __init__(self, key: str, base: str = DEFAULT_BASE, model: str = DEFAULT_MODEL,
@@ -676,7 +781,7 @@ def cmd_pairs(args) -> int:
     if errors:
         for err in errors[:5]:
             print(f"  warn  {err}", file=sys.stderr)
-    pairs = mine_pairs(nodes, args.limit)
+    pairs = mine_pairs(nodes, args.limit, args.include_sensitive)
     if args.out:
         path = pathlib.Path(args.out)
         path.write_text("".join(json.dumps(p, ensure_ascii=False) + "\n" for p in pairs))
@@ -701,14 +806,26 @@ def cmd_ping(args) -> int:
 
 
 def _ask(jev: Jev, nodes: dict, a_id: str, b_id: str, spec: dict,
-         questions: dict, evidence=None) -> dict:
+         questions: dict, evidence=None, allow_sensitive: bool = False,
+         two_stage: bool = True) -> dict:
+    if not allow_sensitive:
+        guard_sensitive(nodes[a_id], nodes[b_id])
     state = pair_state(nodes[a_id], nodes[b_id], evidence)
-    raw = jev.systemone(state, questions)
-    return to_proposal(a_id, b_id, parse_answers(raw), spec, evidence)
+
+    if not two_stage:
+        raw = jev.systemone(state, questions)
+        return to_proposal(a_id, b_id, parse_answers(raw), spec, evidence)
+
+    first = parse_answers(jev.systemone(state, stage_one(spec)))
+    rel = (first.get("rel") or {}).get("value")
+    if not rel:
+        return to_proposal(a_id, b_id, first, spec, evidence)
+    second = parse_answers(jev.systemone(state, stage_two(spec, rel)))
+    return to_proposal(a_id, b_id, {**first, **second}, spec, evidence)
 
 
 def _ask_both_ways(jev: Jev, nodes: dict, a_id: str, b_id: str, spec: dict,
-                   questions: dict, evidence=None) -> dict:
+                   questions: dict, evidence=None, allow_sensitive: bool = False) -> dict:
     """Ask the pair, then ask it again with the nodes swapped.
 
     Direction is the one answer where being confidently wrong is invisible:
@@ -721,8 +838,8 @@ def _ask_both_ways(jev: Jev, nodes: dict, a_id: str, b_id: str, spec: dict,
     Disagreement is recorded, not resolved. Two runs that disagree mean the
     pair is genuinely ambiguous, and that is the finding.
     """
-    first = _ask(jev, nodes, a_id, b_id, spec, questions, evidence)
-    second = _ask(jev, nodes, b_id, a_id, spec, questions, evidence)
+    first = _ask(jev, nodes, a_id, b_id, spec, questions, evidence, allow_sensitive)
+    second = _ask(jev, nodes, b_id, a_id, spec, questions, evidence, allow_sensitive)
 
     same = (first["source"] == second["source"]
             and first["edge"]["target"] == second["edge"]["target"])
@@ -754,7 +871,8 @@ def cmd_ask(args) -> int:
     spec = load_spec()
     jev = client(args)
     ask = _ask_both_ways if args.both_ways else _ask
-    proposal = ask(jev, nodes, args.a, args.b, spec, build_questions(spec))
+    proposal = ask(jev, nodes, args.a, args.b, spec, build_questions(spec),
+                   allow_sensitive=args.include_sensitive)
     print(json.dumps(proposal, indent=2, ensure_ascii=False))
     return 0
 
@@ -781,7 +899,7 @@ def cmd_run(args) -> int:
             try:
                 ask = _ask_both_ways if args.verify_direction else _ask
                 proposal = ask(jev, nodes, a_id, b_id, spec, questions,
-                               row.get("evidence"))
+                               row.get("evidence"), args.include_sensitive)
             except JevError as exc:
                 print(f"  fail  {a_id} <-> {b_id}: {exc}", file=sys.stderr)
                 failed += 1
@@ -816,6 +934,12 @@ def cmd_calibrate(args) -> int:
     questions = build_questions(spec)
     jev = client(args)
 
+    # Randomise which node goes in the `a` slot. Passing the canonical source
+    # as `a` every time makes the correct answer invariably `a_to_b`, so the
+    # direction score measures nothing — a model that always said `a_to_b`
+    # would post 100%. Seeded, so a re-run is comparable.
+    rng = random.Random(args.seed)
+
     truth = []
     for nid, node in nodes.items():
         for edge in node.get("edges") or []:
@@ -824,6 +948,7 @@ def cmd_calibrate(args) -> int:
     if args.limit:
         truth = truth[:args.limit]
 
+    skipped_sensitive = 0
     agree = collections.Counter()
     total = collections.Counter()
     buckets: dict = collections.defaultdict(lambda: [0, 0])
@@ -835,8 +960,15 @@ def cmd_calibrate(args) -> int:
         # speaks canonical.
         source, want_rel, target = canonicalise(
             spec, raw_source, edge["rel"], edge["target"])
+        swap = rng.random() < 0.5
+        first, second = (target, source) if swap else (source, target)
         try:
-            proposal = _ask(jev, nodes, source, target, spec, questions)
+            proposal = _ask(jev, nodes, first, second, spec, questions,
+                            allow_sensitive=args.include_sensitive,
+                            two_stage=not args.one_shot)
+        except SensitiveNode as exc:
+            skipped_sensitive += 1
+            continue
         except JevError as exc:
             print(f"  fail  {source} -> {target}: {exc}", file=sys.stderr)
             continue
@@ -849,6 +981,13 @@ def cmd_calibrate(args) -> int:
         }
         if edge.get("strength"):
             checks["strength"] = got["strength"] == edge["strength"]
+            # This tool FLOORS a Score on principle (see parse_answers). Report
+            # what rounding would have scored alongside it, so the choice stays
+            # answerable from evidence rather than from the argument alone.
+            raw = proposal.get("strength_raw")
+            if raw is not None:
+                i = max(0, min(len(STRENGTH_ASCENDING) - 1, int(round(raw))))
+                checks["strength_if_rounded"] = STRENGTH_ASCENDING[i] == edge["strength"]
         if edge.get("basis"):
             checks["basis"] = got["basis"] == edge["basis"]
 
@@ -869,9 +1008,21 @@ def cmd_calibrate(args) -> int:
         if args.sleep:
             time.sleep(args.sleep)
 
+    # Written BEFORE the summary: 162 billed calls must not be lost because
+    # stdout went to `head` and the next print raised BrokenPipeError.
+    if args.out:
+        pathlib.Path(args.out).write_text(
+            "".join(json.dumps(r, ensure_ascii=False) + "\n" for r in rows))
+        print(f"wrote {args.out}")
+
     print(f"\ncalibrated against {len(rows)} hand-audited edges "
-          f"({jev.calls} API calls)\n")
-    for name in ("relation_exists", "direction", "family", "rel", "strength", "basis"):
+          f"({jev.calls} API calls, {jev.input_tokens:,} input tokens, "
+          f"${jev.input_tokens / 1e6 * 0.042:.4f})")
+    if skipped_sensitive:
+        print(f"{skipped_sensitive} edge(s) skipped: an endpoint is marked sensitive")
+    print()
+    for name in ("direction", "family", "rel", "strength",
+                 "strength_if_rounded", "basis"):
         if total[name]:
             pct = 100.0 * agree[name] / total[name]
             print(f"  {name:<10} {agree[name]:>3}/{total[name]:<3} {pct:5.1f}%")
@@ -882,13 +1033,20 @@ def cmd_calibrate(args) -> int:
             hit, n = buckets[bucket]
             print(f"    {bucket:.1f}  {hit:>3}/{n:<3}  {100.0 * hit / n:5.1f}%")
 
-    print("\n  81 audited edges, 65 of them structural. Enough to catch a systematic")
-    print("  disagreement; not enough to certify a cutoff. Read the misses.")
+    want = collections.Counter(r["expected"] for r in rows)
+    if want:
+        top, n = want.most_common(1)[0]
+        print(f"\n  BASELINE SKEW — the labels, not the model:")
+        print(f"    {len(rows)} edges over {len(want)} distinct relations "
+              f"(the vocabulary offers {len(canonical_relations(spec))})")
+        print(f"    most common is {top!r} at {n}/{len(rows)} = {100.0 * n / len(rows):.1f}%")
+        print(f"    a constant-{top!r} guesser scores {100.0 * n / len(rows):.1f}% on `rel`")
+        if total["rel"]:
+            print(f"    the model scored {100.0 * agree['rel'] / total['rel']:.1f}%")
+        print("    A score against a baseline this skewed measures agreement with")
+        print("    the labelling habit, not correctness. Read the misses before")
+        print("    concluding anything about either.")
 
-    if args.out:
-        pathlib.Path(args.out).write_text(
-            "".join(json.dumps(r, ensure_ascii=False) + "\n" for r in rows))
-        print(f"\nwrote {args.out}")
     return 0
 
 
@@ -949,6 +1107,10 @@ def main() -> int:
         formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--auth-style", choices=("probe", "bearer", "x-api-key"),
                     default="probe", help="auth header spelling (default: probe)")
+    ap.add_argument("--include-sensitive", action="store_true",
+                    help="send nodes marked `sensitive`. Off by default: "
+                         "bin/wb-build withholds these from every artifact, and "
+                         "TypeSafe states no retention period. Type it on purpose.")
     sub = ap.add_subparsers(dest="cmd", required=True)
 
     sub.add_parser("questions", help="print the built question payload").set_defaults(fn=cmd_questions)
@@ -980,6 +1142,11 @@ def main() -> int:
     p.set_defaults(fn=cmd_run)
 
     p = sub.add_parser("calibrate", help="re-decide the audited edges, score agreement")
+    p.add_argument("--seed", type=int, default=7,
+                   help="seed for the a/b order randomisation")
+    p.add_argument("--one-shot", action="store_true",
+                   help="ask all six questions in one parallel batch, which "
+                        "asks direction before the relation is chosen")
     p.add_argument("--limit", type=int)
     p.add_argument("--sleep", type=float, default=0.0)
     p.add_argument("--out")

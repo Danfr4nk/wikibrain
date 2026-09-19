@@ -32,6 +32,14 @@ jev = SourceFileLoader("wb_jev", str(ROOT / "bin" / "wb-jev")).load_module()
 passed = failed = 0
 
 
+def _capture(fn):
+    try:
+        fn()
+    except Exception as exc:
+        return exc
+    return None
+
+
 def _raises(fn) -> bool:
     try:
         fn()
@@ -227,14 +235,20 @@ def main() -> int:
         """Returns a fixed answer set, optionally inverting on the second call."""
         def __init__(self, flip_second):
             self.flip_second, self.n, self.input_tokens = flip_second, 0, 0
+            self.dir_calls = 0
 
         def systemone(self, state, questions):
+            # Two-stage: stage one has no `direction`, stage two has only
+            # `direction` and `strength`. The stub answers whatever is asked.
             self.n += 1
             out = json.loads(json.dumps(RECORDED))
-            if self.n == 2 and self.flip_second:
-                out["answers"]["direction"]["choice"] = "a_to_b"
-            elif self.n == 2:
-                out["answers"]["direction"]["choice"] = "b_to_a"
+            out["answers"] = {k: v for k, v in out["answers"].items()
+                              if k in questions}
+            if "direction" in out["answers"]:
+                self.dir_calls += 1
+                if self.dir_calls == 2:
+                    out["answers"]["direction"]["choice"] = (
+                        "a_to_b" if self.flip_second else "b_to_a")
             return out
 
     fake = {"evt:a": {"id": "evt:a", "title": "A", "_body": "a"},
@@ -257,7 +271,16 @@ def main() -> int:
           str(unstable["conflicts"]))
     counted = _Stub(False)
     jev._ask_both_ways(counted, fake, "evt:a", "evt:b", spec, q)
-    check("the swap check costs exactly two calls", counted.n == 2, f"made {counted.n}")
+    # Two-stage means two requests per ask, so the swap check is four. That is
+    # the real price of verifying direction and it should be visible here.
+    check("the swap check costs four calls in two-stage mode",
+          counted.n == 4, f"made {counted.n}")
+    single = _Stub(False)
+    jev._ask(single, fake, "evt:a", "evt:b", spec, q, two_stage=True)
+    check("one two-stage ask costs two calls", single.n == 2, f"made {single.n}")
+    single1 = _Stub(False)
+    jev._ask(single1, fake, "evt:a", "evt:b", spec, q, two_stage=False)
+    check("one one-shot ask costs one call", single1.n == 1, f"made {single1.n}")
 
     # ---- pair mining ---------------------------------------------------
     nodes, node_errors = jev.load_nodes(ROOT / "kb")
@@ -283,6 +306,39 @@ def main() -> int:
     clash = [p for p in allpairs if frozenset((p["a"], p["b"])) in existing]
     check("an already-edged pair is never proposed",
           not clash, f"{len(clash)} already carry an edge, e.g. {clash[:2]}")
+
+    # ---- the sensitive guard -------------------------------------------
+    # bin/wb-build withholds these from every artifact. A built page stays on
+    # a machine Dan controls; a request does not, and TypeSafe states no
+    # retention period. So this must fail closed.
+    sensitive = [n for n in nodes.values() if n.get("sensitive")]
+    check("kb/ still has sensitive-flagged nodes to guard",
+          len(sensitive) > 0, "if this fails the guard below proves nothing")
+    check("a sensitive node is refused on the wire",
+          _raises(lambda: jev.guard_sensitive(sensitive[0])))
+    check("the refusal is a SensitiveNode, catchable on its own",
+          isinstance(_capture(lambda: jev.guard_sensitive(sensitive[0])),
+                     jev.SensitiveNode))
+    check("the refusal names the node it refused",
+          sensitive[0]["id"] in str(_capture(lambda: jev.guard_sensitive(sensitive[0]))))
+    check("a guard over a pair fires if EITHER node is sensitive",
+          _raises(lambda: jev.guard_sensitive(nodes[pairs[0]["a"]], sensitive[0])))
+    check("an ordinary node passes the guard",
+          jev.guard_sensitive(nodes[pairs[0]["a"]]) is None)
+    check("a sensitive node is dropped before mining, not filtered after",
+          not any(nodes[p["a"]].get("sensitive") or nodes[p["b"]].get("sensitive")
+                  for p in jev.mine_pairs(nodes, limit=10 ** 9)))
+    guarded = jev.mine_pairs(nodes, limit=10 ** 9)
+    opened = jev.mine_pairs(nodes, limit=10 ** 9, include_sensitive=True)
+    if len(opened) > len(guarded):
+        check("--include-sensitive mines back exactly the pairs the guard drops",
+              all(nodes[p["a"]].get("sensitive") or nodes[p["b"]].get("sensitive")
+                  for p in opened
+                  if frozenset((p["a"], p["b"]))
+                  not in {frozenset((g["a"], g["b"])) for g in guarded}))
+    else:
+        print("  skip  --include-sensitive mines back the dropped pairs "
+              "(no sensitive node has an evidenced pair right now)")
 
     # ---- the state handed to the model ---------------------------------
     a, b = pairs[0]["a"], pairs[0]["b"]
