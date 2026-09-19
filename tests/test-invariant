@@ -339,6 +339,77 @@ asserted_by = "llm"
 +++
 """}, False, "convincing the guess feels"),
 
+    # A System One model returns a typed value AND the probability it attached.
+    # Keeping the value while dropping the number records less than the machine
+    # said, and makes a machine judgement indistinguishable from a human one —
+    # the same failure `asserted_by` exists to prevent one level up.
+    ("a system_one edge must carry its confidence", {"x": """+++
+id = "evt:numberless"
+layer = 2
+type = "event"
+title = "A machine judgement with the number thrown away"
+[when]
+date = "2019-01-01"
+[[edges]]
+rel = "influenced"
+target = "evt:thing"
+basis = "inferred"
+strength = "moderate"
+asserted_by = "system_one"
++++
+"""}, False, "must carry the number"),
+
+    ("a system_one edge carrying its confidence is fine", {"x": """+++
+id = "evt:numbered"
+layer = 2
+type = "event"
+title = "A machine judgement that kept its number"
+[when]
+date = "2019-01-01"
+[[edges]]
+rel = "influenced"
+target = "evt:thing"
+basis = "inferred"
+strength = "moderate"
+asserted_by = "system_one"
+confidence = 0.82
++++
+"""}, True, "1 edge"),
+
+    ("a confidence outside 0..1 is refused", {"x": """+++
+id = "evt:impossible"
+layer = 2
+type = "event"
+title = "A probability that is not one"
+[when]
+date = "2019-01-01"
+[[edges]]
+rel = "influenced"
+target = "evt:thing"
+basis = "inferred"
+strength = "moderate"
+asserted_by = "system_one"
+confidence = 1.4
++++
+"""}, False, "outside 0..1"),
+
+    ("confidence on a human-asserted edge is flagged", {"x": """+++
+id = "evt:borrowed"
+layer = 2
+type = "event"
+title = "A person's certainty filed as a machine's calibration"
+[when]
+date = "2019-01-01"
+[[edges]]
+rel = "influenced"
+target = "evt:thing"
+basis = "stated"
+strength = "moderate"
+asserted_by = "self"
+confidence = 0.9
++++
+"""}, True, "a person's certainty is `strength`"),
+
     ("basis and the deprecated causal_basis may not disagree", {"x": """+++
 id = "evt:twofaced"
 layer = 2

@@ -34,6 +34,16 @@ jobs:
       - name: Invariant regression tests
         run: python3 tests/test-invariant
 
+      # The System One question set is a THIRD copy of the edge vocabulary,
+      # after schema/edges.json and the enum in node.schema.json. wb-validate
+      # already fails when those two drift; this fails when the questions do.
+      # Offline — builds the payload, sends nothing, needs no credential.
+      - name: Edge vocabulary matches the System One question set
+        run: python3 bin/wb-jev enum-check
+
+      - name: System One client tests
+        run: python3 tests/test-jev
+
       # The census settles a published falsifier (dat:0042), so a silent
       # change in how it counts is a silent change to a conclusion.
       # Skips out loud here — the corpus is gitignored and the runner has none
