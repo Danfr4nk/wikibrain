@@ -25,3 +25,14 @@ All bodies captured full-length (max 644 chars); truncated: false.
 
 ## Completion record
 - Analysis run in this batch's synthesis pass; kb nodes + entity extensions recorded on commit. See synthesis-20260919-1140.log.
+
+## Completion record (2026-09-19T~11:55Z)
+- Synthesis pass complete against corpus totality. Nodes: src:20260919-1140-sammy-chat-transcript (L0),
+  dat:1796-usage-wall-absence-20260919 (27-min blackout + "OMG YOURE BACK I WAS SO SCARED"), 
+  dat:1797-avatar-option1-pick-20260919 (unconfirmed, target ambiguous), dat:1798-spotify-nowplaying-20260919
+  (ad paused in Discover Weekly), int:burn-down-asymmetry-20260919 (report-only Sammy; falsifiers + alternatives inline).
+  kb/entities/dan.md: dated 2026-09-18/19 section. No Annie findings this window (ANNIE RULE checked).
+- wb-validate: clean for all new nodes; 1 pre-existing warning on int:lex-pre-november-contact-vs-first-framing
+  (resolved 2026-09-18 by Dan's own adjudication; untouched). No wb-check-publish in this branch version;
+  new nodes carry no third-party/sensitive material by inspection (no CUMTHREAD3 rows, no client data).
+- wikibrain: commit 0104067 on sammy/wiki-sync, PR #127. RAWLOGS: direct-commit eee6089 (4 files).
