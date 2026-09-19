@@ -1,0 +1,59 @@
+{
+  "corpus_id": "src:gmail-sms-dan-2010",
+  "corpus_type": "message-corpus",
+  "date_range": {
+    "start": "2010-01",
+    "end": "2010-08"
+  },
+  "acquired_utc": "2026-09-19T08:44:30Z",
+  "account": "suzfrank915@gmail.com",
+  "method": "read-only Gmail API export (users.messages.get, format=full; sequential, no writes, nothing changed)",
+  "sync_window_note": "The Gmail SMS sync window covers Jan-Aug 2010 only. No SMS records exist for Dan (or anyone) outside that window. Dan's other numbers (724-366-6666, 724-917-????) have no SMS records in Gmail; 724-317-7994 ('Mike Lynch') is unresolved.",
+  "threads": [
+    {
+      "thread_label": "Thread 1: SMS with Dan (724-208-3475), 2010-01-09 to 2010-03-07",
+      "thread_id": "128211f5ccf5e65d",
+      "message_count": 90
+    },
+    {
+      "thread_label": "Thread 2: SMS with Dan (724-208-3475), 2010-03-08 to 2010-06-13",
+      "thread_id": "12821508eea08e0c",
+      "message_count": 92
+    },
+    {
+      "thread_label": "Thread 3: SMS with Dan (724-208-3475), 2010-06-13 to 2010-07-17",
+      "thread_id": "1293472dc7936f31",
+      "message_count": 90
+    },
+    {
+      "thread_label": "Thread 4: AIM (265060), 2010-07-03 to 2010-07-17",
+      "thread_id": "12999dfcf8c771c2",
+      "message_count": 8
+    },
+    {
+      "thread_label": "Thread 5: SMS with Dan (724-208-3475), 2010-07-20 to 2010-08-14",
+      "thread_id": "129f22bf79537948",
+      "message_count": 36
+    },
+    {
+      "thread_label": "Thread 6: Anonymous, 2010-08-15 to 2010-08-15",
+      "thread_id": "12a765874664be55",
+      "message_count": 1
+    }
+  ],
+  "total_rows": 317,
+  "sender_counts": {
+    "Dan": 129,
+    "Suzanne": 188,
+    "unknown": 0
+  },
+  "csv": {
+    "path": "dan-sms-full-transcript.csv",
+    "sha256": "2e11a87736c469bcc2592b2adb453f9216ba94f70f5bb2a707f7350ca068dc64"
+  },
+  "gmail_permalink_pattern": "https://mail.google.com/mail/u/0/#all/<message-id>",
+  "sender_attribution_rule": "From: \"Dan\" <7242083475@unknown.email> -> Dan (inbound SMS via gateway); From: suzfrank915@gmail.com -> Suzanne (outbound SMS via gateway); From: 265060@unknown.person -> Dan (inbound AIM messages, body tagged 'iamdanfrank (AIM):'); From: Anonymous@unknown.person -> Dan (body signed '(Dan)'). Anything else would have been labeled 'unknown'; none occurred.",
+  "text_processing": "Body is the decoded text/plain part, verbatim, except: (1) stripped gateway boilerplate ('[Unverified-Sender] ' prefix, trailing '(You can reply to this msg)' and \"(Reply 'block' to stop this...)\" footers) which was not typed by either party; (2) email line-wrapping newlines normalized to spaces (SMS had no 76-char wrapping). When in doubt, text was kept.",
+  "quality_notes": "No unknown senders, no empty bodies, no duplicate message IDs, no unparseable dates. 317/317 expected messages extracted.",
+  "sensitive_handling": "WARNING: this corpus contains real phone numbers and private messages between Suzanne Frank and her son. Handle like the existing src:imessage-corpus-2026 node: do NOT publish raw; citable by derived layers only."
+}
