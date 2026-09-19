@@ -6,7 +6,7 @@ aliases: ["Betherin", "B.E.", "B. E."]
 status: stable
 knowledge: mixed
 date_created: 2026-08-02
-date_modified: 2026-09-18
+date_modified: 2026-09-19
 date_range_start: 2015-12-10
 date_range_end: 2025-12-28
 sources:
@@ -461,16 +461,18 @@ and the 2025 household rows are read directly from the two-part held corpus
 directions are the CSV's own fields.
 
 **Timezone.** The held corpus stores `date_sent` in **UTC**, not local.
-`CORPUS_POLICY.md` §Timestamps says the opposite ("the prior wiki's times are
-UTC; this corpus is local"); the corpus contradicts it. The test is the
+`CORPUS_POLICY.md` §Timestamps said the opposite until 2026-09-19 ("the prior
+wiki's times are UTC; this corpus is local"); the corpus contradicted it and
+the policy has since been corrected. The test is the
 condolence: the wiki dates it 19:09 EDT on April 11 and the corpus holds it at
 `2017-04-11 23:09:29`, a clean UTC-4 offset, and Ellen's reply at
 `2017-04-12 01:16:06` lands at 21:16 EDT the same evening rather than at 1am
 the next day.
 [`dat:0673`](../../kb/data/0673-jay-lauer-direction-and-count-corrections.md)
-reaches the same conclusion independently. Every local time on this page is
-derived on that basis. **This is a live contradiction in the policy document
-and is flagged, not resolved.**
+reaches the same conclusion independently, and
+[`dat:1797`](../../kb/data/1797-held-corpus-timestamps-are-utc-not-local.md)
+settles it a third way with a circadian histogram over all 192,140 rows.
+Every local time on this page is derived on that basis.
 
 **Testimony, carried but not held.** The ring and the domestic incident; the
 "most wholesome, nice, ethically-sound people" assessment; both families'

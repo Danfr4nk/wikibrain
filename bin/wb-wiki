@@ -24,6 +24,8 @@ from __future__ import annotations
 
 import argparse
 import html
+import importlib.machinery
+import importlib.util
 import json
 import os
 import pathlib
@@ -32,6 +34,55 @@ import sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 WIKI = ROOT / "wiki"
+
+
+# --------------------------------------------------------------------------
+# Contact-identifier redaction.
+#
+# `bin/wb-archive` owns the masking rule and `bin/wb-corpus` imports it rather
+# than reimplementing it, so the archive HTML and the plaintext corpus cannot
+# disagree about what was masked (dat:0052). This renderer was never wired to
+# it, which meant the rule held on the 497-page snapshot and the .txt corpus
+# and silently did not hold on the live wiki/ articles: at the time this was
+# added, site/wiki/ published 105 distinct phone numbers across 145 pages and
+# 31 email addresses, while site/archive/ published none. `tests/test-census`
+# asserts the plaintext is clean, which is why the hole survived — nothing
+# asserted anything about the HTML.
+#
+# Same import idiom as wb-corpus, for the same reason: one rule, three
+# surfaces, no second copy to drift.
+# --------------------------------------------------------------------------
+
+def _archive_module():
+    spec = importlib.util.spec_from_loader(
+        "wb_archive",
+        importlib.machinery.SourceFileLoader("wb_archive",
+                                             str(ROOT / "bin" / "wb-archive")))
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
+
+_ARCHIVE = _archive_module()
+redact = _ARCHIVE.redact
+safe = _ARCHIVE.safe
+
+
+def redact_meta(value):
+    """Apply `redact` through parsed frontmatter, leaving structure alone.
+
+    Applied after parsing rather than to the raw text on purpose: masking
+    before the frontmatter is read would turn `handles: ["+1..."]` into
+    something the parser has to re-interpret, and a mask that can change how
+    a document parses is a second bug waiting behind the first.
+    """
+    if isinstance(value, str):
+        return redact(value)
+    if isinstance(value, list):
+        return [redact_meta(v) for v in value]
+    if isinstance(value, dict):
+        return {k: redact_meta(v) for k, v in value.items()}
+    return value
 
 
 # --------------------------------------------------------------------------
@@ -928,12 +979,18 @@ def load_pages() -> list[dict]:
             hm = re.search(r"^#\s+(.+)$", body, re.M)
             title = hm.group(1).strip() if hm else prettify(rel.stem)
 
+        # `key` stays unmasked: it is the wikilink resolution target and must
+        # keep matching what pages write in [[...]]. `url` is the published
+        # path, and every href and output filename is derived from it, so
+        # masking it here masks all of them from one place — the two pages
+        # named for a phone number (people/tuquick-…, people/bryan-…) would
+        # otherwise publish in the URL what the body no longer prints.
         pages.append({
             "key": key,
-            "url": str(rel.with_suffix(".html")),
-            "title": title,
-            "meta": meta,
-            "body": body,
+            "url": safe(str(rel.with_suffix(".html"))),
+            "title": redact(title),
+            "meta": redact_meta(meta),
+            "body": redact(body),
         })
     return pages
 

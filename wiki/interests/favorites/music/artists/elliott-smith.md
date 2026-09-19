@@ -5,7 +5,7 @@ title: "Elliott Smith"
 status: active
 importance: high
 date_created: 2026-06-22
-date_modified: 2026-09-18
+date_modified: 2026-09-19
 sources:
   - "raw/self/favorites/FAVS MASTERLIST.csv"
   - "raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html"
@@ -515,9 +515,11 @@ counterparty handles are read directly from
 2025-09-02 gate is reproduced independently of `dat:0573` and agrees to the
 character. Times are converted from the corpus's UTC `date_sent`; the UTC
 reading is validated in [[wiki/people/betherin-mechling]] §Evidence status
-against a message whose local time the wiki records independently, and is
-contested by `CORPUS_POLICY.md` §Timestamps, which says the corpus is local.
-That contradiction is flagged, not resolved.
+against a message whose local time the wiki records independently, and a third
+time by the circadian histogram in
+[`dat:1797`](../../../../../kb/data/1797-held-corpus-timestamps-are-utc-not-local.md).
+`CORPUS_POLICY.md` §Timestamps asserted the reverse until 2026-09-19 and has
+since been corrected.
 
 **Verified elsewhere, not re-run here.** The biographical block
 (`dat:0571`, web-corroborated). The tattoo tweet and its id (`dat:0574`,

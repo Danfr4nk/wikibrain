@@ -49,6 +49,36 @@ _validate = SourceFileLoader("wb_validate", str(ROOT / "bin" / "wb-validate")).l
 load_nodes = _validate.load_nodes
 PREFIX = _validate.PREFIX
 
+# Contact-identifier redaction for the published artifacts.
+#
+# `bin/wb-archive` owns the rule; `bin/wb-corpus` and `bin/wb-wiki` import it
+# rather than reimplement it (dat:0052). This builder was the last renderer
+# not wired to it: at the time this was added it published phone numbers on 83
+# node pages plus llms.txt, graph.json, layer-1.html and the feeds, while the
+# archive published none.
+#
+# Deliberately applied HERE and not inside `load_nodes`: wb-validate is the
+# gate, and a gate that reads masked text is a gate reading fiction. The
+# source tree keeps the identifiers, the published artifact does not.
+#
+# `redact` only, never `safe`: node ids carry datestamps (…-20260916) and
+# `safe` masks any run of 7+ digits, so applying it here would rewrite every
+# dated id and break every internal link. `redact` matches only phone and
+# email shapes, which no id or path in this repository can match.
+_archive = SourceFileLoader("wb_archive", str(ROOT / "bin" / "wb-archive")).load_module()
+_redact = _archive.redact
+
+
+def redact_tree(value):
+    """Mask contact identifiers through a loaded node, structure untouched."""
+    if isinstance(value, str):
+        return _redact(value)
+    if isinstance(value, list):
+        return [redact_tree(v) for v in value]
+    if isinstance(value, dict):
+        return {k: redact_tree(v) for k, v in value.items()}
+    return value
+
 # Populates _validate.EDGE_SPEC / FAMILY_OF, which the edge rendering reads.
 # Errors are not fatal here: wb-validate is the gate, and it runs first in CI.
 for _problem in _validate.load_edge_spec(_validate.EDGES):
@@ -432,6 +462,10 @@ def build(kb: pathlib.Path, out: pathlib.Path, base: str) -> int:
             print(f"  {error}", file=sys.stderr)
         return 1
 
+    # Everything below — node pages, layer indexes, graph.json, llms.txt, the
+    # feeds — derives from `nodes`, so masking once here masks all of them.
+    nodes = {i: redact_tree(n) for i, n in nodes.items()}
+
     public = {i: n for i, n in nodes.items() if not n.get("sensitive")}
     withheld = len(nodes) - len(public)
 
@@ -639,7 +673,10 @@ rule and a <code>=== NODE:</code> or <code>=== PAGE:</code> line.</p>
     _gallery_src = ROOT / "media" / "registry.json"
     if _gallery_src.exists():
         (out / "feeds").mkdir(parents=True, exist_ok=True)
-        shutil.copy2(_gallery_src, out / "feeds" / "gallery.json")
+        # Not shutil.copy2: the registry's descriptions are prose and go out
+        # through the same mask as everything else.
+        (out / "feeds" / "gallery.json").write_text(
+            _redact(_gallery_src.read_text(encoding="utf-8")), encoding="utf-8")
         print("  feeds gallery.json      (media/registry.json)")
     shutil.copytree(ROOT / "portal", out / "portal", dirs_exist_ok=True)
     print(f"  portal -> {out / 'portal'}")

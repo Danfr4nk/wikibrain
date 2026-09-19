@@ -46,6 +46,11 @@ def check(name: str, condition: bool, detail: str = "") -> None:
             print(f"        {detail}")
 
 
+# Extensions worth scanning for published identifiers. Binary assets are
+# skipped: a JPEG can match a phone-shaped byte run and never render as one.
+TEXTY = {".html", ".txt", ".json", ".js", ".css", ".md", ".xml", ".svg"}
+
+
 def main() -> int:
     proc = subprocess.run([sys.executable, str(CENSUS)],
                           capture_output=True, text=True, cwd=ROOT)
@@ -209,12 +214,50 @@ def main() -> int:
               nodes == len(list((ROOT / "kb").rglob("*.md"))) - 1,
               f"{nodes} node records against {len(list((ROOT / 'kb').rglob('*.md'))) - 1} "
               f"node files (kb/README.md excluded)")
+        # Scan BOTH emitted files. This assertion used to read only
+        # `arc_text`, which is the one path that was already clean, so it
+        # passed while two phone numbers sat in corpus-kb.txt node titles for
+        # as long as those nodes existed. An assertion that covers one of the
+        # two files it names is worse than none, because it reports green.
+        leaks = []
+        for label, text in (("corpus-kb.txt", kb_text),
+                            ("corpus-archive.txt", arc_text)):
+            for hit in sorted(set(re.findall(r"\+1[0-9]{10}", text))):
+                leaks.append(f"{label}:{hit[:5]}...")
         check("no unmasked phone number survives into the plaintext",
-              not re.search(r"\+1[0-9]{10}", arc_text),
-              "a raw phone number is in corpus-archive.txt")
+              not leaks,
+              "raw phone numbers in the plaintext corpus: " + ", ".join(leaks))
     else:
         print("  skip  the plaintext corpus records match "
               "(site/ not built here — run bin/wb-corpus)")
+
+    # The plaintext files were never the whole publication surface. Five tools
+    # write into site/ — wb-build (node pages, graph.json, llms.txt, feeds),
+    # wb-wiki (the articles), wb-archive, wb-corpus, wb-feeds — and for a long
+    # time exactly one of them applied the redaction rule. Scanning the built
+    # tree is the only assertion that cannot be satisfied by a tool that
+    # forgot, because it does not care which tool wrote the file.
+    site_root = ROOT / "site"
+    if site_root.is_dir():
+        phone_re = re.compile(r"\+1[0-9]{10}|\b[0-9]{3}-[0-9]{3}-[0-9]{4}\b")
+        offenders = []
+        for path in sorted(site_root.rglob("*")):
+            if not path.is_file() or path.suffix.lower() not in TEXTY:
+                continue
+            try:
+                body = path.read_text(encoding="utf-8")
+            except (OSError, UnicodeDecodeError):
+                continue
+            if phone_re.search(body):
+                offenders.append(str(path.relative_to(site_root)))
+        check("no unmasked phone number is published anywhere in site/",
+              not offenders,
+              f"{len(offenders)} built file(s) carry a raw phone number: "
+              + ", ".join(offenders[:5])
+              + (" ..." if len(offenders) > 5 else ""))
+    else:
+        print("  skip  the built site carries no unmasked phone number "
+              "(site/ not built here — run bin/wb-build)")
 
     print(f"\n{passed} passed, {failed} failed")
     return 1 if failed else 0

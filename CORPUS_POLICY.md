@@ -145,9 +145,25 @@ comparable as text, because `9:00:00` sorts after `10:00:00`. Parse it, or use
 the date only. `tests/test-corpus` asserts the file is nonetheless in true
 chronological order, which is what `bin/wb-corroborate --context` depends on.
 
-**The prior wiki's times are UTC; this corpus is local** — four hours apart in
-summer, five in winter
-([`kb/data/0057`](kb/data/0057-morgantown-audio-contradiction-reproduces.md)).
-A message the wiki cites at 11:25 is at 07:25 here. Any attempt to locate a
-wiki-quoted message by its stated time will land on the wrong message or on
-nothing, and nothing about the result will look wrong.
+**This corpus stores `date_sent` in UTC; the wiki's page times are local** —
+four hours apart in summer, five in winter
+([`kb/data/1797`](kb/data/1797-held-corpus-timestamps-are-utc-not-local.md)).
+A message the wiki cites at 11:25 is at **15:25** here. So: **add** the offset
+to go from a quoted local time to the corpus row, **subtract** it to report a
+corpus row in local terms. Any attempt to locate a wiki-quoted message by its
+stated time without converting will land on the wrong message or on nothing,
+and nothing about the result will look wrong.
+
+> **CORRECTED [2026-09-19]:** this paragraph read *"The prior wiki's times are
+> UTC; this corpus is local"* and *"a message the wiki cites at 11:25 is at
+> 07:25 here"* — the direction inverted, sourced from `dat:0057`, whose own
+> worked example says the opposite of its summary sentence (it lands the
+> page's 11:25 on corpus 15:25). Following the old line shifted the wrong way
+> and missed by eight hours rather than four. Settled three ways in
+> [`kb/data/1797`](kb/data/1797-held-corpus-timestamps-are-utc-not-local.md):
+> a dated anchor (a condolence the wiki dates 19:09 EDT is held at 23:09), an
+> independent earlier verification (`dat:0673`), and an assumption-free
+> circadian histogram over all 192,140 rows — stored hours trough at 10–11 and
+> peak at 23–02, which is only a human rhythm once shifted −4 to Eastern.
+> `dat:0057`'s substantive finding is unaffected: it depended on the offset
+> being four hours, not on which side was UTC.

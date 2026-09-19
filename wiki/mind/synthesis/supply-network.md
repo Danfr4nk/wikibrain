@@ -5,7 +5,7 @@ title: "The Supply Network"
 status: active
 knowledge: earned
 date_created: 2026-07-18
-date_modified: 2026-08-28
+date_modified: 2026-09-19
 sources:
   - raw/people/captures/2026-08-02_010509_jay-lauer-death.md
   - "raw/self/dox-md/MAX_PRIME.md"
@@ -29,7 +29,7 @@ tags: [addiction-recovery, forensic-analysis, financial-stress]
 connections:
   - page: wiki/people/zaco
     type: contains
-    claim: "Zaco is the network's 2018 Suboxone-strip secondary and its only inbound-marketing node: 58 of his thread's 65 messages are unsolicited inventory advertisements, the inverse of every other supplier relationship, where Dan chases availability."
+    claim: "Zaco is the network's 2018 Suboxone-strip secondary: 106 held messages, 58 from him and 48 from Dan, with unprompted stock advertisements opening 14 of the 21 thread-days he starts. CORRECTED 2026-09-19 — the prior 'only inbound-marketing node' reading rested on a 58:7 ratio the held corpus does not reproduce (dat:1357)."
   - page: wiki/timeline/events/august-2026-morgantown-call
     type: evidenced-by
     claim: "The network's last transaction is a failure of the ordinary kind — a $60 handoff Dan spent the evening of 2026-08-16 trying to complete and she never came for — and the relationship ended inside the five hours that failure opened. Supply was the last structure standing and it did not survive its own routine."

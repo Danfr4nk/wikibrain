@@ -6,7 +6,7 @@ aliases: ["zaco"]
 status: closed
 knowledge: mixed
 date_created: 2026-08-20
-date_modified: 2026-09-18
+date_modified: 2026-09-19
 date_range_start: 2018-03-12
 date_range_end: 2018-11-26
 tags: [addiction-recovery, uniontown-era, digital-footprint]
@@ -563,8 +563,10 @@ material in this repository without the gitignored `corpus/messages.csv`.
 same anchor the [[wiki/people/betherin-mechling]] page uses — a message the
 wiki dates 19:09 EDT sits at 23:09 in the corpus — and independently at
 [`dat:0673`](../../kb/data/0673-jay-lauer-direction-and-count-corrections.md).
-Note that `CORPUS_POLICY.md` §Timestamps states the reverse; the contradiction
-is flagged there and not resolved here. Three log rows change calendar date
+`CORPUS_POLICY.md` §Timestamps stated the reverse until 2026-09-19 and has
+since been corrected
+([`dat:1797`](../../kb/data/1797-held-corpus-timestamps-are-utc-not-local.md)).
+Three log rows change calendar date
 under conversion (the 2018-04-20 UTC rows are 2018-04-19 local), which is why
 the prior page's "April 20" and "May 2" readings differ from this one.
 

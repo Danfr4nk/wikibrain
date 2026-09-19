@@ -77,8 +77,13 @@ def kb_text(mod) -> tuple[str, int]:
                         kind = value
                     elif var == "title" and not title:
                         title = value
+        # The banner is redacted too, not just the body. Two kb nodes carry a
+        # phone number in their own `title` (a correction node names the
+        # handle it is correcting), and a title copied into the header escaped
+        # the body's redaction entirely — the identifier was masked in the
+        # record and printed two lines above it.
         nodes.append((layer, ident, banner("NODE", ident, {
-            "LAYER": layer, "TYPE": kind, "TITLE": title,
+            "LAYER": layer, "TYPE": kind, "TITLE": mod.redact(str(title or "")),
             "FILE": str(path.relative_to(ROOT)),
         }) + "\n\n" + mod.redact(raw).strip() + "\n"))
     nodes.sort(key=lambda n: (n[0], n[1]))
@@ -92,8 +97,10 @@ def archive_text(mod) -> tuple[str, int]:
     for entry in index["pages"]:
         start = entry["byte_offset"]
         text = blob[start:start + entry["byte_length"]].decode("utf-8", "replace")
-        out.append(banner("PAGE", entry["path"], {
-            "TITLE": entry.get("title", ""),
+        # str() before redact(): pages.json carries a null title for some
+        # entries, and redact() takes a string.
+        out.append(banner("PAGE", mod.safe(str(entry["path"] or "")), {
+            "TITLE": mod.redact(str(entry.get("title") or "")),
         }) + "\n\n" + mod.redact(text).strip() + "\n")
     return "\n\n".join(out), len(index["pages"])
 
