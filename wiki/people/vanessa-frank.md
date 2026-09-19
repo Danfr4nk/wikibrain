@@ -7,7 +7,7 @@ status: stable
 date_created: 2026-06-23
 date_modified: 2026-09-17
 sources: ["raw/twitter/archive.jsonl", "raw/self/twitter/archive.jsonl", "corpus/derived/threads.csv", "corpus/derived/summary.json", "raw/mind/captures/2026-08-02_122411_perspective-complete-objective.md", "raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip", "raw/self/context-core/CONTEXT_CORE_EXPANDED.md", "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv", "raw/self/dox-md/Gemini-_18.md", "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md"]
-related: ["wiki/people/suzanne-frank", "wiki/people/rick-frank", "wiki/self/ancestry", "wiki/self/overview", "wiki/people/annie-ulmer", "wiki/mind/concepts/autism", "wiki/mind/concepts/acquisition-drive", "wiki/mind/concepts/contact-gini", "wiki/mind/synthesis/november-2005-hinge", "wiki/self/twitter/2013", "wiki/people/kristin-prentiss"]
+related: ["wiki/people/suzanne-frank", "wiki/people/rick-frank", "wiki/self/ancestry", "wiki/self/overview", "wiki/people/annie-ulmer", "wiki/mind/concepts/autism", "wiki/mind/concepts/acquisition-drive", "wiki/mind/concepts/contact-gini", "wiki/mind/synthesis/november-2005-hinge", "wiki/self/twitter/2013", "wiki/people/kristin"]
 tags: [ai-collaboration, family, politics, digital-footprint]
 infobox:
   name: "Vanessa C. Frank"
@@ -284,7 +284,7 @@ assassination of Charlie Kirk. On the 15th, at 17:41:44 Eastern, Dan gives her
 a life update: he has ended things with [[wiki/people/annie-ulmer|Annie]], a
 decade-long relationship, and is seeing someone new — described as smart,
 political, sober, vegan, a pharmacy technician (the description matches
-[[wiki/people/kristin-prentiss|Kristin]], August–November 2025).
+[[wiki/people/kristin|Kristin]], August–November 2025).
 
 Her reception is cool: *"Well thanks for the update I guess. I'll reserve my
 opinions but just know that I have them."*
