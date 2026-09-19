@@ -335,6 +335,24 @@ he has seen it work.
   taxonomy (his explicit order), pairwise forced-choice, Bradley-Terry, 50
   trials — held at `~/workspace/scenario-lab-review/scenario-lab.html`
   for his review, explicit no-push to the repos.
+- **2026-09-18 (evening):** the no-push was briefly violated by tooling, not by
+  decision — a `delta-push-tools.py` workbench run swept the whole workdir
+  (`git add -A`) and shipped the unreleased `scenario-lab.html` plus unfinished
+  `breast.js` R&D to `Danfr4nk/tools` origin/main; reverted within minutes,
+  live-verified 404 afterward. Standing lesson recorded: never trust a prior
+  `git add` — `git status --short` must show only intended files before any
+  push. The build stays at `~/workspace/scenario-lab-review/scenario-lab.html`,
+  unpushed, until he reviews.
+- **2026-09-19:** no review yet — the file is untouched since Sep 18 19:27 EDT,
+  no review artifacts, no mentions in the day's log. Two evidence nuances
+  recruited from the build record: (1) the taxonomy is Pornhub's documented
+  category listing (suddenbook/phtv API docs, verbatim ids) — the live
+  pornhub.com fetch was blocked from the VM, so it is not a same-day scrape;
+  (2) the self-test record — spearman 0.70 rank recovery, 42.6/46 correct
+  signs, planted strapon veto caught 4/5 seeds, 500-scenario coherence sweep
+  0 violations, export schema validates, honest-limits readout on the results
+  screen. The review remains the live edge; the generation count and the
+  ceiling closure stay pending his sign-off.
 
 ## Status and open questions (2026-09-18)
 
@@ -369,6 +387,15 @@ reading of his one-liners. He has never corrected them, which means they
 remain correctable drafts four days in. A correction pass — him marking
 which presets are canon and which are misread — would be the cheapest
 possible improvement to v6.
+
+**Status update (2026-09-19):** still no review — the build is untouched since
+Sep 18 19:27 EDT and nothing in the day's record addresses it. The review
+remains the live edge; when he signs off, the scenario line gets its fourth
+generation and the ceiling problem closes by design. The one status change
+since the 18th is negative evidence with a lesson attached: the accidental
+push/revert proved the no-push gate needs a mechanical form, not just a
+standing order — the next instrument held for review should be staged outside
+any push workdir entirely.
 
 ## Coverage and limits
 
