@@ -152,7 +152,64 @@ def canonical_relations(spec: dict) -> list[str]:
     return [r for r in relations(spec) if r not in derived]
 
 
-def build_questions(spec: dict) -> dict:
+# Layers that hold RECORDS rather than things in the world. ARCHITECTURE.md's
+# layer table: a datum is "one claim about one thing", an interpretation is
+# "explicitly someone's reading", a pattern is "recurrence detected", a
+# synthesis is a "cross-domain model". None of them act, participate, cause or
+# take part. Only L2 — entity, event, relationship — is a thing in the world.
+RECORD_LAYERS = {0, 1, 3, 4, 5}
+
+# What a record may claim about anything. Everything else in the vocabulary
+# asserts participation, causation, location or presentation, which a record
+# cannot do. Confirmed against the corpus: all 23 L1-sourced edges are `about`,
+# and the only L3-sourced relations are `challenges` and `about`.
+RECORD_RELATIONS = ["about", "challenges", "contradicted", "resembled", "displaced"]
+
+# A warning for whoever reads a low `rel` score here and concludes the model is
+# weak. `about` means "the first is a record, description or discussion OF the
+# second — reference, not membership". An EVENT is not a record of a person, so
+# `evt:graduation-from-full-sail --about--> ent:dan` does not meet that
+# definition; `ent:dan --participated_in--> evt:graduation` does.
+#
+# 31 of the 81 calibration edges are event->entity pairs labelled `about`, and
+# on every one the model answered `participated_in` with the direction flipped
+# correctly. It is right and the labels are wrong: `about` was used as a
+# catch-all for "this event involves this person", which is the exact generic
+# link the typed-edge vocabulary exists to replace.
+#
+# So the headline `rel` percentage understates the model against this baseline.
+# Read the misses; that is what the caveat in `calibrate` is for.
+
+
+def allowed_relations(spec: dict, a: dict, b: dict) -> list[str]:
+    """The relations this PAIR can hold, given what its nodes are.
+
+    This is the point of a type-safe model, and it was being wasted. Offering
+    all 19 relations for every pair and hoping the right one comes back is
+    asking politely; Jev's actual guarantee is that it cannot return a value
+    outside the set it is given. So the set gets narrowed instead.
+
+    Calibration before this: 34 of 51 relation errors were `about` ->
+    `participated_in`, producing edges like `ent:dan --participated_in-->
+    dat:1438` — Dan participated in a measurement. No amount of instruction
+    fixed it (a layer legend in the state moved it 31 -> 34). Removing the
+    option does, by construction: L1-sourced edges went from 22/23 to 23/23.
+
+    The constraint stops at L2 deliberately. The remaining disagreements are
+    all `event --about--> entity`, and there the model is RIGHT and the
+    hand-written labels are wrong — see the note on `about` below.
+
+    If either node is a record, the relation must be one a record can make:
+    the record is the source and the claim is about its subject. Only when
+    BOTH nodes are things in the world does the full vocabulary apply.
+    """
+    canon = canonical_relations(spec)
+    if a.get("layer") in RECORD_LAYERS or b.get("layer") in RECORD_LAYERS:
+        return [r for r in RECORD_RELATIONS if r in canon]
+    return canon
+
+
+def build_questions(spec: dict, rels: list[str] | None = None) -> dict:
     """The question set, derived entirely from schema/edges.json.
 
     Six questions, evaluated independently in one request. `asserted_by` is
@@ -175,7 +232,7 @@ def build_questions(spec: dict) -> dict:
         list"). There is no global encoding to choose, so there is no flag.
     """
     defs = spec["definitions"]
-    rels = canonical_relations(spec)
+    rels = rels if rels is not None else canonical_relations(spec)
 
     def choice(instructions: str, options: dict[str, str]) -> dict:
         # criteria MUST be an object here — the API rejects a list.
@@ -245,11 +302,18 @@ def build_questions(spec: dict) -> dict:
     }
 
 
-def stage_one(spec: dict) -> dict:
+def stage_one(spec: dict, rels: list[str] | None = None) -> dict:
     """What can be judged without knowing anything else: does a relation hold,
     of which family, which one, and resting on what."""
-    q = build_questions(spec)
-    return {k: q[k] for k in ("relation_exists", "family", "rel", "basis")}
+    q = build_questions(spec, rels)
+    out = {k: q[k] for k in ("relation_exists", "family", "rel", "basis")}
+    if rels is not None and len(rels) < len(canonical_relations(spec)):
+        # A narrowed set also narrows the families worth offering.
+        fam = {family_of(spec)[r] for r in rels}
+        out["family"] = {**q["family"],
+                         "criteria": {k: v for k, v in q["family"]["criteria"].items()
+                                      if k in fam}}
+    return out
 
 
 def stage_two(spec: dict, rel: str) -> dict:
@@ -807,16 +871,19 @@ def cmd_ping(args) -> int:
 
 def _ask(jev: Jev, nodes: dict, a_id: str, b_id: str, spec: dict,
          questions: dict, evidence=None, allow_sensitive: bool = False,
-         two_stage: bool = True) -> dict:
+         two_stage: bool = True, no_layer_constraint: bool = False) -> dict:
     if not allow_sensitive:
         guard_sensitive(nodes[a_id], nodes[b_id])
     state = pair_state(nodes[a_id], nodes[b_id], evidence)
 
+    rels = (None if no_layer_constraint
+            else allowed_relations(spec, nodes[a_id], nodes[b_id]))
+
     if not two_stage:
-        raw = jev.systemone(state, questions)
+        raw = jev.systemone(state, build_questions(spec, rels))
         return to_proposal(a_id, b_id, parse_answers(raw), spec, evidence)
 
-    first = parse_answers(jev.systemone(state, stage_one(spec)))
+    first = parse_answers(jev.systemone(state, stage_one(spec, rels)))
     rel = (first.get("rel") or {}).get("value")
     if not rel:
         return to_proposal(a_id, b_id, first, spec, evidence)
@@ -965,7 +1032,8 @@ def cmd_calibrate(args) -> int:
         try:
             proposal = _ask(jev, nodes, first, second, spec, questions,
                             allow_sensitive=args.include_sensitive,
-                            two_stage=not args.one_shot)
+                            two_stage=not args.one_shot,
+                            no_layer_constraint=args.no_layer_constraint)
         except SensitiveNode as exc:
             skipped_sensitive += 1
             continue
@@ -1144,6 +1212,8 @@ def main() -> int:
     p = sub.add_parser("calibrate", help="re-decide the audited edges, score agreement")
     p.add_argument("--seed", type=int, default=7,
                    help="seed for the a/b order randomisation")
+    p.add_argument("--no-layer-constraint", action="store_true",
+                   help="offer all 19 relations regardless of node layer")
     p.add_argument("--one-shot", action="store_true",
                    help="ask all six questions in one parallel batch, which "
                         "asks direction before the relation is chosen")
