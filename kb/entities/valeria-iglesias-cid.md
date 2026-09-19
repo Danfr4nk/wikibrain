@@ -12,6 +12,13 @@ importance  = 4
 created     = "2026-09-09"
 rechecked   = "2026-09-10"
 tags        = ["people", "au-zaatar"]
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2021-22-valeria-affair"
+strength    = "moderate"
+asserted_by = "other"
+note        = "Page testimony only; the held corpus cannot supply the affair's SMS-side evidence."
 +++
 
 <!-- prose for humans; the frontmatter is for machines -->

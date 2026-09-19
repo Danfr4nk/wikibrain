@@ -13,6 +13,13 @@ confidence  = "moderate"
 importance  = 3
 created     = "2026-09-09"
 tags        = ["person", "diane-moore", "family", "fran-vigil"]
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2018-fran-death"
+strength    = "moderate"
+asserted_by = "other"
+note        = "Diane served the March 29 eviction notice herself ('Dian V. Moore') and sent the April 3 exclusion letter; the institutional pole of the vigil."
 +++
 
 ## Summary

@@ -15,12 +15,6 @@ start  = "2026-05-10"
 end    = "2026-05-24"
 
 [[edges]]
-rel         = "about"
-target      = "ent:dan"
-strength    = "strong"
-asserted_by = "external"
-
-[[edges]]
 rel         = "followed"
 target      = "evt:2026-08-11-bfs-rehire-offered"
 strength    = "strong"

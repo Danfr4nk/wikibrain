@@ -14,19 +14,6 @@ start  = "2015-11-28"
 end    = "2015-12-01"
 
 [[edges]]
-rel         = "about"
-target      = "ent:alexis-armel"
-strength    = "strong"
-asserted_by = "other"
-
-[[edges]]
-rel         = "about"
-target      = "ent:suzanne-frank"
-strength    = "strong"
-asserted_by = "other"
-note        = "Suz brokered and paid for the eviction: cocaine and a car offer on Nov 30."
-
-[[edges]]
 rel         = "followed"
 target      = "evt:2015-11-annie-relationship-starts"
 strength    = "strong"

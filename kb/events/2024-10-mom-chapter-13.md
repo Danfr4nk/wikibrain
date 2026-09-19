@@ -13,12 +13,6 @@ created    = "2026-09-09"
 start  = "2024"
 end    = "2026-06-22"
 
-[[edges]]
-rel         = "about"
-target      = "ent:suzanne-frank"
-strength    = "moderate"
-asserted_by = "other"
-note        = "The filing is hers; the audit-pasting and the pending-case messages are Dan's. Month (October 2024) rests on the operator's record, not on a held docket."
 +++
 
 ## What happened

@@ -18,6 +18,31 @@ rel         = "about"
 target      = "ent:dan"
 strength    = "strong"
 asserted_by = "self"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2026-09-08-corpus-supersedes-fragments"
+strength    = "strong"
+asserted_by = "self"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2026-09-08-rebuild-begins"
+strength    = "strong"
+asserted_by = "self"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2026-09-09-edge-rework"
+strength    = "strong"
+asserted_by = "self"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2026-09-09-privacy-cut-as-epistemic-concern"
+strength    = "strong"
+asserted_by = "self"
+
 +++
 
 ## Summary

@@ -13,12 +13,6 @@ tags       = ["meta", "architecture"]
 date = "2026-09-08"
 
 [[edges]]
-rel         = "about"
-target      = "ent:wiki-brain"
-strength    = "strong"
-asserted_by = "self"
-
-[[edges]]
 rel         = "influenced_by"
 target      = "evt:2026-09-08-corpus-supersedes-fragments"
 strength    = "moderate"

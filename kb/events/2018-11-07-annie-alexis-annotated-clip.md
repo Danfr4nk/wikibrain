@@ -14,23 +14,6 @@ start  = "2018-11-07"
 end    = "2018-11-07"
 approx = "November 7, 2018 per Dan's testimony (camera overlay reads 2018-06-06)"
 
-[[edges]]
-rel         = "about"
-target      = "ent:annie-ulmer"
-strength    = "strong"
-asserted_by = "self"
-
-[[edges]]
-rel         = "about"
-target      = "ent:alexis-armel"
-strength    = "strong"
-asserted_by = "self"
-
-[[edges]]
-rel         = "about"
-target      = "ent:dan"
-strength    = "strong"
-asserted_by = "self"
 +++
 
 ## What happened

@@ -8,6 +8,109 @@ confidence  = "high"
 importance  = 5
 created     = "2026-09-08"
 tags        = ["subject"]
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2005-11-parental-rupture"
+strength    = "strong"
+asserted_by = "self"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2009-09-full-sail-graduation"
+strength    = "strong"
+asserted_by = "self"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2010-02-17-suboxone-start"
+strength    = "strong"
+asserted_by = "self"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2015-02-possession-arrest"
+strength    = "strong"
+asserted_by = "external"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2015-combos-retail-theft"
+strength    = "moderate"
+asserted_by = "external"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2016-02-ard-granted"
+strength    = "strong"
+asserted_by = "external"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2018-11-07-annie-alexis-annotated-clip"
+strength    = "strong"
+asserted_by = "self"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2019-02-dui-1"
+strength    = "strong"
+asserted_by = "external"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2020-09-27-annie-del-recording"
+strength    = "strong"
+asserted_by = "self"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2021-03-au-zaatar-hired"
+strength    = "strong"
+asserted_by = "external"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2024-06-dui-2"
+strength    = "strong"
+asserted_by = "external"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2024-08-au-zaatar-exit"
+strength    = "strong"
+asserted_by = "external"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2024-08-libby-wage-demand-letters"
+strength    = "strong"
+asserted_by = "self"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2026-02-22-annie-self-blame-exoneration"
+strength    = "strong"
+asserted_by = "self"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2026-05-bfs-firing"
+strength    = "strong"
+asserted_by = "external"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2026-08-11-bfs-rehire-offered"
+strength    = "strong"
+asserted_by = "external"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2026-09-06-libby-disengagement-accusation"
+strength    = "strong"
+asserted_by = "self"
+
 +++
 
 ## Summary

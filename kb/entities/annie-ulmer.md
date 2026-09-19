@@ -34,6 +34,70 @@ importance  = 5
 created     = "2026-09-09"
 rechecked   = "2026-09-12"
 tags        = ["person", "annie-ulmer", "partner", "attachment"]
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2015-11-annie-relationship-starts"
+strength    = "strong"
+asserted_by = "other"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2017-2018-fran-caregiving"
+strength    = "moderate"
+asserted_by = "other"
+note        = "Dan and Annie were the paid caregivers together in 2017–18."
+
+[[edges]]
+rel = "participated_in"
+target = "evt:2017-pregnancy"
+strength = "moderate"
+asserted_by = "llm"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2018-11-07-annie-alexis-annotated-clip"
+strength    = "strong"
+asserted_by = "self"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2018-fran-death"
+strength    = "strong"
+asserted_by = "other"
+note        = "Annie was in the room at the death; she and Dan were the functional caregivers throughout the vigil."
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2020-09-27-annie-del-recording"
+strength    = "strong"
+asserted_by = "self"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2024-08-libby-wage-demand-letters"
+strength    = "strong"
+asserted_by = "self"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2025-10-dui-stop"
+strength    = "moderate"
+asserted_by = "other"
+note        = "The docket names Anne Louise Ulmer; the stop is filed as hers, with an attribution wrinkle carried in open questions."
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2026-02-22-annie-self-blame-exoneration"
+strength    = "strong"
+asserted_by = "self"
+
+[[edges]]
+rel         = "participated_in"
+target      = "evt:2026-09-06-libby-disengagement-accusation"
+strength    = "strong"
+asserted_by = "self"
+
 +++
 
 ## Summary

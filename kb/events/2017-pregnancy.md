@@ -14,11 +14,6 @@ start = "2017-06"
 end = "2019-05-31"
 approx = "conception inferred ~June 2017 from 19.0-week sonogram dated 10-27-17"
 
-[[edges]]
-rel = "about"
-target = "ent:annie-ulmer"
-strength = "moderate"
-asserted_by = "llm"
 +++
 
 **What is established:** a sonogram report dated 10-27-17 shows a pregnancy at 19.0 weeks (dat:1414); Dan's own messages from Oct 2017 onward reference 'the abortion' as shared relationship history, and by May 2019 list it alongside Fran's decline and the NYC move as things they had 'gone through together' (dat:1415).

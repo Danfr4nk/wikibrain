@@ -12,11 +12,6 @@ created    = "2026-09-10"
 [when]
 date   = "2010-02-17"
 
-[[edges]]
-rel         = "about"
-target      = "ent:dan"
-strength    = "strong"
-asserted_by = "self"
 +++
 
 ## What happened

@@ -13,11 +13,6 @@ created    = "2026-09-10"
 start  = "2015-11-24"
 end    = "2015-12-01"
 
-[[edges]]
-rel         = "about"
-target      = "ent:annie-ulmer"
-strength    = "strong"
-asserted_by = "other"
 +++
 
 ## What happened

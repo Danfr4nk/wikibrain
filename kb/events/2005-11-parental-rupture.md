@@ -14,11 +14,6 @@ start = "2005-11"
 end   = "2005-11"
 approx = "November 2005"
 
-[[edges]]
-rel         = "about"
-target      = "ent:dan"
-strength    = "strong"
-asserted_by = "self"
 +++
 
 ## What happened

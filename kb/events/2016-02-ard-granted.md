@@ -14,12 +14,6 @@ date   = "2016-02-17"
 
 [[edges]]
 rel         = "about"
-target      = "ent:dan"
-strength    = "strong"
-asserted_by = "external"
-
-[[edges]]
-rel         = "about"
 target      = "ent:rick-frank"
 strength    = "moderate"
 asserted_by = "other"

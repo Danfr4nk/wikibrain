@@ -18,12 +18,6 @@ start  = "2015-02"
 end    = "2016-02"
 
 [[edges]]
-rel         = "about"
-target      = "ent:dan"
-strength    = "strong"
-asserted_by = "external"
-
-[[edges]]
 rel         = "preceded"
 target      = "evt:2015-combos-retail-theft"
 strength    = "moderate"
