@@ -11,13 +11,6 @@ importance  = 4
 created     = "2026-09-09"
 tags        = ["person", "rick-frank", "family", "father"]
 
-[[edges]]
-rel        = "participated_in"
-target     = "evt:2016-02-ard-granted"
-strength   = "moderate"
-asserted_by= "other"
-note       = "Rick talked himself out of attending the hearing: 'You're obviously more comfortable with your mom.'"
-
 +++
 
 ## Summary

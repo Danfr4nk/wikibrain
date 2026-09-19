@@ -13,6 +13,12 @@ created    = "2026-09-10"
 date   = "2016-02-17"
 
 
+[[edges]]
+rel         = "about"
+target      = "ent:rick-frank"
+strength    = "moderate"
+asserted_by = "other"
+note        = "Rick talked himself out of attending the hearing: 'You're obviously more comfortable with your mom.'"
 +++
 
 ## What happened
