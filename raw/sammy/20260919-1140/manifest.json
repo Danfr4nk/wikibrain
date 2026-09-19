@@ -1,0 +1,63 @@
+{
+ "batch": "20260919-1140",
+ "pulled_at": "2026-09-19T11:46:04Z",
+ "files": {
+  "chats.json": {
+   "sha256": "cba8e9cc99c91d3536528f7e4a1d50be4c4747c4dafc98fb9b44ae96bee20062",
+   "bytes": 5317
+  },
+  "spotify.json": {
+   "sha256": "35991d39ffc6a775c9d86233ff65375c70d684d4264f5a0afd614dd4754d0539",
+   "bytes": 568
+  }
+ },
+ "sources": {
+  "chats": {
+   "watermark_from": "2026-09-18T23:43:58Z",
+   "watermark_to": "2026-09-19T00:12:08.179+00:00",
+   "count": 12,
+   "user": 5,
+   "assistant": 7,
+   "window_utc": "2026-09-18T23:43:58.603Z -> 2026-09-19T00:12:08.179Z",
+   "surfaces": [
+    "main_chat"
+   ],
+   "truncated": false,
+   "note": "12 substantive rows; 64 system/maintenance rows in window not archived (prior batches archived all user+assistant only)"
+  },
+  "instagram": {
+   "watermark_from": "2026-09-15T09:30:15Z",
+   "watermark_to": "2026-09-15T09:30:15Z",
+   "new_items": 0,
+   "note": "newest own post 2026-08-26 23:04:49 < watermark; 0 active own stories"
+  },
+  "threads": {
+   "watermark_from": "2026-08-26T23:04:55Z",
+   "watermark_to": "2026-08-26T23:04:55Z",
+   "new_items": 0,
+   "note": "newest own post 2026-08-26T23:04:55Z = watermark"
+  },
+  "facebook": {
+   "watermark_from": "2026-07-04T15:51:25-04:00",
+   "watermark_to": "2026-07-04T15:51:25-04:00",
+   "new_items": 0,
+   "note": "timeline newest 2026-07-04 = watermark"
+  },
+  "messenger": {
+   "watermark_from": "2026-08-26T22:23:43.707Z",
+   "watermark_to": "2026-08-26T22:23:43.707Z",
+   "new_items": 0,
+   "note": "sync fresh, 0 threads/0 messages new; Kristin Shaelene PENDING 2026-09-09 known"
+  },
+  "spotify": {
+   "watermark_from": "snapshot-2026-09-14T19:50:00Z",
+   "watermark_to": "snapshot-2026-09-19T11:47:00Z",
+   "new_items": 1,
+   "note": "now-playing snapshot only: PAUSED ad in Discover Weekly context (state change vs 2026-09-17 NONE)"
+  },
+  "device": {
+   "new_items": 0,
+   "note": "no read path for iOS texts (standing)"
+  }
+ }
+}

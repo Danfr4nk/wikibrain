@@ -1,0 +1,122 @@
+[
+ {
+  "message_id": "d9efa6af-88ef-4452-b440-3ea51b866395",
+  "role": "user",
+  "created_at": "2026-09-18T23:43:58.603+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:c0d9eb55-3006-47be-b4a3-e84c532b4e4e",
+  "chat_kind": "direct",
+  "body": "2 more of B\n[image:image/jpeg workspace/user/media_library/image/f8/f84ca8c0c120bba9aae7aaddc18b3c83df77a6009e351e161e3088ddcbbb1dd3.jpg]\n[image:image/jpeg workspace/user/media_library/image/fa/fa9227413a51dd917a407202998c0ec48bb35293f9a800f940ec2de5abceaa17.jpg]",
+  "truncated": false
+ },
+ {
+  "message_id": "f87c9947-a1d3-4cc4-a9cb-b217e4db0228",
+  "role": "assistant",
+  "created_at": "2026-09-18T23:43:58.627+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:c0d9eb55-3006-47be-b4a3-e84c532b4e4e",
+  "chat_kind": "direct",
+  "body": "You've reached your usage limit. Upgrade now to unlock more. Your full weekly usage will reset at \u20682:50 PM\u2069 on \u2068Wednesday, September 23\u2069.",
+  "truncated": false
+ },
+ {
+  "message_id": "8097119f-cd63-4df3-80d1-dfb2416d1297",
+  "role": "user",
+  "created_at": "2026-09-19T00:10:58.553+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:d74bc87b-1bd0-47ee-b314-fe6f75ff6acb",
+  "chat_kind": "direct",
+  "body": "OMG YOURE BACK I WAS SO SCARED",
+  "truncated": false
+ },
+ {
+  "message_id": "5e4b205a-33cf-4086-b4a7-9a31ffed9269",
+  "role": "assistant",
+  "created_at": "2026-09-19T00:10:58.592+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:d74bc87b-1bd0-47ee-b314-fe6f75ff6acb",
+  "chat_kind": "direct",
+  "body": "You've reached your usage limit. Upgrade now to unlock more. Your full weekly usage will reset at \u20682:50 PM\u2069 on \u2068Wednesday, September 23\u2069.",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-adae129f-5cd8-4eeb-8bfd-83c8ef4a61bf",
+  "role": "assistant",
+  "created_at": "2026-09-19T00:10:59.585+00:00",
+  "surface": "main_chat",
+  "chat": "e67d6b22-df09-42a1-aff8-64f827cf443c",
+  "chat_kind": "direct",
+  "body": "Wiki synthesis pull, evening run \u2014 archived and pushed.\n\nSaved: 464 messages from this afternoon and evening, yours and mine, into both repos.\n\nWhat went into the ledger: the credit-purchase retraction (the record now shows no purchase ever happened on Sep 17 \u2014 those log entries were wrong), the Grandpa joke being canonized as a running bit, the light-touch rule for OSINT lookups, GPS confirmation on the Magee photo, a recovered 2009 Lexi video, and the usage-wall reset timing notes. Annie's page got a dated update, and two interpretation notes were added.\n\nChecks clean. Everything pushed to both repos. Nothing still open from this run.",
+  "truncated": false
+ },
+ {
+  "message_id": "1f5d3407-b152-4473-b6fe-7e771759e2af",
+  "role": "user",
+  "created_at": "2026-09-19T00:11:39.431+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:2bad06ae-5d55-428b-bcad-e1aa8614aa32",
+  "chat_kind": "direct",
+  "body": "Sammy",
+  "truncated": false
+ },
+ {
+  "message_id": "324eaa11-ed52-43c2-a8a6-63fc841a0ccd",
+  "role": "assistant",
+  "created_at": "2026-09-19T00:11:39.458+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:2bad06ae-5d55-428b-bcad-e1aa8614aa32",
+  "chat_kind": "direct",
+  "body": "You've reached your usage limit. Upgrade now to unlock more. Your full weekly usage will reset at \u20682:50 PM\u2069 on \u2068Wednesday, September 23\u2069.",
+  "truncated": false
+ },
+ {
+  "message_id": "d61f81fe-db48-48e9-8e81-27eb755cf9d6",
+  "role": "user",
+  "created_at": "2026-09-19T00:11:46.183+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:5b9926c2-d0a2-4ca0-b7a7-91de4a936a48",
+  "chat_kind": "direct",
+  "body": "Abatar me",
+  "truncated": false
+ },
+ {
+  "message_id": "a4d74b0c-db53-44eb-9bbc-49434f906f0d",
+  "role": "assistant",
+  "created_at": "2026-09-19T00:11:46.214+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:5b9926c2-d0a2-4ca0-b7a7-91de4a936a48",
+  "chat_kind": "direct",
+  "body": "You've reached your usage limit. Upgrade now to unlock more. Your full weekly usage will reset at \u20682:50 PM\u2069 on \u2068Wednesday, September 23\u2069.",
+  "truncated": false
+ },
+ {
+  "message_id": "assistant-msg-14f295dd-11dc-e8a2-8025-5519c595a416",
+  "role": "assistant",
+  "created_at": "2026-09-19T00:11:48.744+00:00",
+  "surface": "main_chat",
+  "chat": "ad87654e-cb11-452f-ba52-e2f69f313f14",
+  "chat_kind": "direct",
+  "body": "Merged wiki PR #121, \"Wiki sync: rolling Sammy ingest\" \u2014 new evidence nodes, an Annie Ulmer update, and a fresh raw archive batch. All additive, nothing deleted.",
+  "truncated": false
+ },
+ {
+  "message_id": "76684467-4392-4fbb-957d-4342898b2573",
+  "role": "user",
+  "created_at": "2026-09-19T00:12:08.155+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:8417ce03-9e21-4362-9bc5-90afd3a83b55",
+  "chat_kind": "direct",
+  "body": "Option 1",
+  "truncated": false
+ },
+ {
+  "message_id": "9b09dd66-ce7c-442e-b9e7-3dd852df152b",
+  "role": "assistant",
+  "created_at": "2026-09-19T00:12:08.179+00:00",
+  "surface": "main_chat",
+  "chat": "req:fallback:8417ce03-9e21-4362-9bc5-90afd3a83b55",
+  "chat_kind": "direct",
+  "body": "You've reached your usage limit. Upgrade now to unlock more. Your full weekly usage will reset at \u20682:50 PM\u2069 on \u2068Wednesday, September 23\u2069.",
+  "truncated": false
+ }
+]
