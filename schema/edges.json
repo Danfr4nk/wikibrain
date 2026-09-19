@@ -1,48 +1,126 @@
 {
   "$comment": "The edge vocabulary, as data. This file is the single source of truth: node.schema.json's `rel` enum is checked against it by bin/wb-validate, which errors if the two drift. Adding a relation means adding it here.",
-
   "families": {
     "temporal": {
       "claim": "Sequence and containment only. Makes no causal claim whatsoever.",
-      "relations": ["preceded", "followed", "occurred_during"]
+      "relations": [
+        "preceded",
+        "followed",
+        "occurred_during"
+      ]
     },
     "causal": {
       "claim": "Graded causal contribution. Every causal edge must declare what it rests on.",
-      "requires": ["basis"],
-      "relations": ["caused", "influenced", "influenced_by", "resulted_from", "depended_on"]
+      "requires": [
+        "basis"
+      ],
+      "relations": [
+        "caused",
+        "influenced",
+        "influenced_by",
+        "resulted_from",
+        "depended_on"
+      ]
     },
     "structural": {
       "claim": "Membership, location, participation and reference.",
-      "relations": ["belonged_to", "located_at", "participated_in", "about"]
+      "relations": [
+        "belonged_to",
+        "located_at",
+        "participated_in",
+        "about"
+      ]
     },
     "semantic": {
       "claim": "Meaning and tension. Resemblance, symbolism and disagreement.",
-      "relations": ["resembled", "symbolized", "challenges", "contradicted"]
+      "relations": [
+        "resembled",
+        "symbolized",
+        "challenges",
+        "contradicted"
+      ]
     },
     "narrative": {
       "claim": "How the subject has PRESENTED a thing, as distinct from what it was. A claim about the telling, never about the event. Must say who asserts it.",
-      "requires": ["asserted_by"],
-      "relations": ["mythologized", "performed_as", "disavowed", "reframed", "retold_as"]
+      "requires": [
+        "asserted_by"
+      ],
+      "relations": [
+        "mythologized",
+        "performed_as",
+        "disavowed",
+        "reframed",
+        "retold_as"
+      ]
     },
     "editorial": {
       "claim": "The knowledge base's own bookkeeping — one body of material overtaking another. Distinct from the node-identity `supersedes` FIELD, which retires a node.",
-      "relations": ["displaced", "displaced_by"]
+      "relations": [
+        "displaced",
+        "displaced_by"
+      ]
     }
   },
-
   "inverses": {
     "preceded": "followed",
     "caused": "resulted_from",
     "influenced": "influenced_by",
     "displaced": "displaced_by"
   },
-
-  "strength": ["strong", "moderate", "weak", "tentative"],
-  "basis": ["stated", "inferred", "speculative"],
-  "asserted_by": ["self", "external", "llm", "other"],
-
+  "strength": [
+    "strong",
+    "moderate",
+    "weak",
+    "tentative"
+  ],
+  "basis": [
+    "stated",
+    "inferred",
+    "speculative"
+  ],
+  "asserted_by": [
+    "self",
+    "external",
+    "llm",
+    "system_one",
+    "other"
+  ],
   "removed": {
     "evidences": "Removed. `A evidences B` is `B cites A` written backwards, and only one of the two spellings was enforced by the layer invariant. Two ways to say one thing, one of them unchecked, is the exact asymmetry this vocabulary exists to end. Evidence goes in `cites`.",
     "supersedes": "Removed as an edge; still a top-level FIELD. The field means 'this node replaces that node' — identity bookkeeping. The old edge was being used for something else entirely: 'the thing described here overtook the thing described there'. That is a content claim, and it is now `displaced`."
+  },
+  "$definitions_comment": "One line per relation, stated as the criterion for choosing it. These are the `criteria` strings a System One model is handed (bin/wb-jev), and they live here rather than in that tool so the vocabulary keeps exactly one source of truth. `bin/wb-jev enum-check` fails if the two ever drift.",
+  "definitions": {
+    "preceded": "The first happened before the second. Sequence only — asserts no causal contribution whatsoever.",
+    "followed": "The first happened after the second. Sequence only — asserts no causal contribution whatsoever.",
+    "occurred_during": "The first fell inside the second's time span — containment, not sequence.",
+    "caused": "The first was a direct and primary cause of the second; without it the second does not happen.",
+    "influenced": "The first contributed to the second among other causes — partial, not decisive.",
+    "influenced_by": "The second contributed to the first among other causes — the inverse of `influenced`.",
+    "resulted_from": "The first was a direct outcome of the second — the inverse of `caused`.",
+    "depended_on": "The first required the second to hold or persist — an ongoing condition, not a one-off cause.",
+    "belonged_to": "The first was a member, part or possession of the second.",
+    "located_at": "The first took place at, or was situated in, the second.",
+    "participated_in": "The first took an active part in the second.",
+    "about": "The first is a record, description or discussion OF the second — reference, not membership.",
+    "resembled": "The first is materially similar in form or pattern to the second, with no claim of contact or cause.",
+    "symbolized": "The first stood for or represented the second.",
+    "challenges": "The first puts pressure on the second's claim without flatly contradicting it.",
+    "contradicted": "The first and the second cannot both be true as written.",
+    "mythologized": "The subject has told the first in a heightened or dramatised form relative to the second. A claim about the TELLING, never about the event.",
+    "performed_as": "The subject has presented the first in the manner of the second — a stance adopted for an audience.",
+    "disavowed": "The subject has since rejected or distanced themselves from the second in the first.",
+    "reframed": "The subject has retold the second under a changed interpretation in the first.",
+    "retold_as": "The subject has recast the second as the first in a later telling.",
+    "displaced": "The first body of material supersedes the second as the record of its subject. Bookkeeping, not a claim about the world.",
+    "displaced_by": "The second body of material supersedes the first — the inverse of `displaced`."
+  },
+  "$asserted_by_comment": "`system_one` is not a synonym for `llm`. An LLM-asserted edge carries one bit — a model said so. A System One model (bin/wb-jev) returns a typed value with a calibrated probability attached, and that number is kept on the edge as `confidence`. Collapsing the two would spell two different epistemic objects the same way, which is the asymmetry this vocabulary exists to end. `perspective` on interpretations is deliberately NOT extended: interpretations are prose, and a model that emits no text cannot write one.",
+  "confidence": {
+    "range": [
+      0.0,
+      1.0
+    ],
+    "claim": "The probability the asserting system attached to this edge. Required when `asserted_by` is `system_one`, because a machine judgement recorded without its number is strictly less than what the machine said. Calibration is not correctness: a high number means the claim belongs to a group that is right more often, not that this one is right."
   }
 }

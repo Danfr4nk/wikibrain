@@ -1,0 +1,931 @@
+#!/usr/bin/env python3
+"""wb-jev — put a System One model behind the edge-typing judgement.
+
+Pure stdlib, no dependencies, per repo convention.
+
+Why this exists
+---------------
+`bin/wb-validate` reports 81 edges across 1,569 nodes — about 0.05 per node,
+sixty-five of them in the cheapest family (`structural`), two causal, four
+semantic, and not one narrative in a corpus ARCHITECTURE.md calls "loud,
+self-narrating and performative". The graph is not under-audited. Every one of
+those 81 edges is audited. The graph is barely *written*, and it is barely
+written because deciding whether a defensible typed relation holds between two
+nodes — and which of 23 it is — costs a frontier model a full read of both.
+At 1,569 nodes that has never been affordable, so it has been done 81 times.
+
+TypeSafe's Jev is a System One model: non-autoregressive, generates no text,
+and answers typed questions with calibrated probabilities in a single parallel
+pass. Edge typing is exactly the shape it takes — `schema/edges.json` is
+already a closed vocabulary declared as data. At $0.042 per million input
+tokens the full sweep costs under a dollar.
+
+What this tool does NOT do
+--------------------------
+It does not write edges, and it must not be made to. `bin/wiki-crosslink` sets
+the rule for the whole repository — a tool produces CANDIDATES, and a candidate
+is a reason to go and read the sources it names. This one produces typed
+proposals carrying a probability, which is a better candidate than a bare pair,
+and still a candidate. Nothing under `kb/` is touched by any subcommand here.
+
+It also cannot write a claim sentence, a note, or a justification — not as a
+limitation of this wrapper but of the model, which emits no text at all. A
+proposal says *which* relation and *how confident*; why it holds is still a
+writing job.
+
+Subcommands (offline — no key, no network)
+  questions           The exact question payload, built from schema/edges.json.
+  enum-check          Gate: the built questions must match the vocabulary, and
+                      every relation must carry a definition. Exits 1 on drift.
+  pairs [--limit N]   Mine candidate node pairs from kb/ and score them.
+
+Subcommands (network — needs TYPESAFE_API_KEY)
+  ping                Verify the credential and print the model aliases.
+  ask <id-a> <id-b>   One pair through Jev; prints the raw and parsed answer.
+  run --pairs <file>  Batch. Writes typed proposals as JSONL.
+  calibrate           Run the 81 hand-audited edges back through Jev and report
+                      agreement per question. This is how thresholds get set:
+                      against the edges a human already typed, not by guess.
+  review <proposals>  Render proposals as a markdown queue for a writing pass.
+
+Unverified API details
+----------------------
+Jev shipped 2026-09-15 and three details are not settled by its published
+documentation. Each is a flag rather than a guess, and `ping` reports what
+actually worked:
+
+  --auth-style bearer|x-api-key   default: probe bearer, fall back on 401
+  --criteria-shape object|array   default: object (the docs' Choice example)
+  --no-model-field                omit `model` from the body
+
+Environment:
+  TYPESAFE_API_KEY   required by the network subcommands
+  WB_JEV_BASE_URL    override the API base (default https://api.typesafe.ai)
+  WB_JEV_MODEL       override the model route (default jev-latest)
+"""
+
+from __future__ import annotations
+
+import argparse
+import collections
+import itertools
+import json
+import os
+import pathlib
+import sys
+import time
+import urllib.error
+import urllib.request
+
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from importlib.machinery import SourceFileLoader
+
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+EDGES = ROOT / "schema" / "edges.json"
+KB = ROOT / "kb"
+
+# wb-validate owns node loading and the layer table; importing beats keeping a
+# second parser that drifts (the same reason wb-build imports it).
+_validate = SourceFileLoader("wb_validate", str(ROOT / "bin" / "wb-validate")).load_module()
+load_nodes = _validate.load_nodes
+PREFIX = _validate.PREFIX
+
+DEFAULT_BASE = os.environ.get("WB_JEV_BASE_URL", "https://api.typesafe.ai")
+DEFAULT_MODEL = os.environ.get("WB_JEV_MODEL", "jev-latest")
+
+# Jev's Score levels must run low -> high. edges.json lists strength the other
+# way round (strong first), so it is reversed here rather than reordered there:
+# that file's order is how the vocabulary reads, not an axis.
+STRENGTH_ASCENDING = ["tentative", "weak", "moderate", "strong"]
+
+# Body text handed to the model per node. The request ceiling is 32k tokens of
+# state; two nodes at this length leave ample room for the questions.
+EXCERPT_CHARS = 2400
+
+
+# ---------------------------------------------------------------- vocabulary
+
+def load_spec() -> dict:
+    return json.loads(EDGES.read_text(encoding="utf-8"))
+
+
+def relations(spec: dict) -> list[str]:
+    return [r for f in spec["families"].values() for r in f["relations"]]
+
+
+def family_of(spec: dict) -> dict[str, str]:
+    return {r: fam for fam, f in spec["families"].items() for r in f["relations"]}
+
+
+def canonical_relations(spec: dict) -> list[str]:
+    """The relations worth offering as a choice: every one minus the derived half.
+
+    ARCHITECTURE.md: "Inverses are derived, never written twice. Write one
+    direction; bin/wb-build derives the other." Offering both halves would let
+    the model answer `followed` with direction b_to_a — which is `preceded`
+    a_to_b said twice, and exactly the two-records-of-one-fact drift the edge
+    rework exists to end. The `direction` question carries direction; the
+    relation carries only which claim is being made.
+    """
+    derived = set(spec.get("inverses", {}).values())
+    return [r for r in relations(spec) if r not in derived]
+
+
+def build_questions(spec: dict, criteria_shape: str = "object") -> dict:
+    """The question set, derived entirely from schema/edges.json.
+
+    Six questions, evaluated independently in one request. `asserted_by` is
+    deliberately absent: for an edge this tool proposes the answer is known by
+    construction (the System One model asserted it), and asking a model to
+    report its own identity would be theatre.
+
+    `family` is asked alongside `rel` even though `rel` determines it. They are
+    independent evaluations of the same state, so agreement between them is a
+    free consistency signal and disagreement marks a genuinely ambiguous pair.
+    """
+    defs = spec["definitions"]
+    rels = canonical_relations(spec)
+
+    def choice(instructions: str, options: dict[str, str]) -> dict:
+        q = {"type": "Choice", "instructions": instructions}
+        if criteria_shape == "array":
+            q["criteria"] = list(options)
+        else:
+            q["criteria"] = options
+        return q
+
+    return {
+        "relation_exists": {
+            "type": "Noul",
+            "instructions": (
+                "A defensible typed relation holds between these two nodes — "
+                "something a careful editor would write down as a claim about "
+                "how they relate. Mere co-occurrence in the same corpus, or "
+                "sharing a source, is not enough."
+            ),
+        },
+        "direction": choice(
+            "Relations are directional and only one direction gets written. "
+            "Which node is the one making the claim about the other",
+            {
+                "a_to_b": "The first node is the source: the relation reads a -> b.",
+                "b_to_a": "The second node is the source: the relation reads b -> a.",
+            },
+        ),
+        "family": choice(
+            "Which family of claim is being made about these two nodes",
+            {fam: f["claim"] for fam, f in spec["families"].items()},
+        ),
+        "rel": choice(
+            "Which relation holds between these two nodes, read from the source "
+            "node to the other one. The `direction` question decides which node "
+            "is the source; this one decides only which claim is being made",
+            {r: defs[r] for r in rels},
+        ),
+        "strength": {
+            "type": "Score",
+            "instructions": (
+                "How hard the claim is — what the evidence in the state will "
+                "carry, not how plausible the relation feels."
+            ),
+            "criteria": [
+                "Tentative: a reading the material permits but does not support.",
+                "Weak: thin or indirect support; one pass could overturn it.",
+                "Moderate: supported, with room for a competing reading.",
+                "Strong: the material states or plainly entails it.",
+            ],
+        },
+        "basis": choice(
+            "What does this relation rest on",
+            {
+                "stated": "One of the nodes says so, in the material itself.",
+                "inferred": "Not stated, but follows from what the nodes record.",
+                "speculative": "A guess the material permits but does not support.",
+            },
+        ),
+    }
+
+
+def check_enums(spec: dict) -> list[str]:
+    """Fail loudly if the question set and the vocabulary have drifted.
+
+    schema/edges.json calls itself the single source of truth, and wb-validate
+    already fails when node.schema.json disagrees with it. A question set is a
+    third copy of that vocabulary and gets the same treatment.
+    """
+    errors = []
+    rels = relations(spec)
+
+    dupes = [r for r, n in collections.Counter(rels).items() if n > 1]
+    if dupes:
+        errors.append(f"relation appears in more than one family: {', '.join(sorted(dupes))}")
+
+    defs = spec.get("definitions")
+    if not isinstance(defs, dict):
+        errors.append("schema/edges.json has no `definitions` map — "
+                      "every relation needs one line stating its criterion")
+        return errors
+
+    missing = [r for r in rels if r not in defs]
+    extra = [r for r in defs if r not in rels]
+    if missing:
+        errors.append(f"relations with no definition: {', '.join(sorted(missing))}")
+    if extra:
+        errors.append(f"definitions for relations not in any family: {', '.join(sorted(extra))}")
+    blank = [r for r, d in defs.items() if not str(d).strip()]
+    if blank:
+        errors.append(f"blank definitions: {', '.join(sorted(blank))}")
+
+    # Everything below builds the questions, which cannot be done while the
+    # vocabulary is incomplete. Report what is already known rather than
+    # dying inside the builder with a KeyError.
+    if errors:
+        return errors
+
+    if len(rels) > 255:
+        errors.append(f"{len(rels)} relations exceeds the 255-option Choice ceiling — "
+                      f"the vocabulary would need decomposing by family")
+
+    if sorted(spec.get("strength", [])) != sorted(STRENGTH_ASCENDING):
+        errors.append(f"strength vocabulary changed: edges.json has "
+                      f"{spec.get('strength')}, this tool orders "
+                      f"{STRENGTH_ASCENDING}")
+
+    inverses = spec.get("inverses", {})
+    unknown = [r for pair in inverses.items() for r in pair if r not in set(rels)]
+    if unknown:
+        errors.append(f"inverses name relations not in any family: {', '.join(sorted(set(unknown)))}")
+
+    built = build_questions(spec)
+    built_rels = set(built["rel"]["criteria"])
+    expected = set(canonical_relations(spec))
+    if built_rels != expected:
+        errors.append("built `rel` question does not match the canonical vocabulary")
+    derived = set(inverses.values())
+    if built_rels & derived:
+        errors.append(f"derived relations offered as choices: "
+                      f"{', '.join(sorted(built_rels & derived))} — "
+                      f"inverses are derived by wb-build, never written")
+    built_fams = set(built["family"]["criteria"])
+    if built_fams != set(spec["families"]):
+        errors.append("built `family` question does not match the families")
+
+    if len(built["strength"]["criteria"]) != len(STRENGTH_ASCENDING):
+        errors.append("strength Score levels and the strength vocabulary differ in length")
+
+    return errors
+
+
+# --------------------------------------------------------------------- state
+
+def excerpt(node: dict) -> str:
+    body = (node.get("_body") or "").strip()
+    return body[:EXCERPT_CHARS] + (" …" if len(body) > EXCERPT_CHARS else "")
+
+
+def node_state(node: dict) -> dict:
+    """What the model is shown about one node. Trimmed to what a judgement needs."""
+    out = {
+        "id": node.get("id"),
+        "layer": node.get("layer"),
+        "type": node.get("type"),
+        "title": node.get("title"),
+    }
+    for key in ("claim", "when", "tags", "domains", "subject", "attributed_to",
+                "perspective", "confidence"):
+        if node.get(key):
+            out[key] = node[key]
+    out["text"] = excerpt(node)
+    return out
+
+
+def pair_state(a: dict, b: dict, evidence: dict | None = None) -> dict:
+    state = {
+        "note": ("Two nodes from a personal knowledge base. The first node is "
+                 "'a', the second is 'b'. Decide how they relate."),
+        "a": node_state(a),
+        "b": node_state(b),
+    }
+    if evidence:
+        state["shared_evidence"] = evidence
+    return state
+
+
+# ------------------------------------------------------------- pair mining
+
+def _bucket_pairs(buckets: dict, cap: int, label: str, ev: dict) -> None:
+    """Every pair inside a bucket shares whatever the bucket keys on.
+
+    `cap` keeps a bucket that everything falls into from generating a pair
+    explosion — a tag on 400 nodes says nothing about any two of them, and
+    would produce 80k worthless pairs. wiki-connect uses the same guard.
+    """
+    for key, members in buckets.items():
+        if not 2 <= len(members) <= cap:
+            continue
+        for a, b in itertools.combinations(sorted(members), 2):
+            ev[frozenset((a, b))][label].append(key)
+
+
+def mine_pairs(nodes: dict, limit: int = 500) -> list[dict]:
+    """Candidate pairs from observable signals. No model involved.
+
+    Deliberately the same shape as bin/wiki-connect's candidate miner over
+    wiki/: score from evidence, never propose a pair that already carries an
+    edge, and let the score be a pointer rather than a finding.
+    """
+    already = set()
+    for nid, node in nodes.items():
+        for edge in node.get("edges") or []:
+            target = edge.get("target") if isinstance(edge, dict) else None
+            if target:
+                already.add(frozenset((nid, target)))
+
+    ev: dict = collections.defaultdict(lambda: collections.defaultdict(list))
+
+    # 1. one node cites the other — the strongest single signal there is, and
+    #    the one most likely to be an unwritten edge: the evidence link exists
+    #    and the content claim was never made.
+    for nid, node in nodes.items():
+        for cited in node.get("cites") or []:
+            if cited in nodes and cited != nid:
+                key = frozenset((nid, cited))
+                if key not in already:
+                    ev[key]["cites_directly"].append(f"{nid} cites {cited}")
+
+    # 2. shared citations
+    by_cite = collections.defaultdict(set)
+    for nid, node in nodes.items():
+        for cited in node.get("cites") or []:
+            by_cite[cited].add(nid)
+    _bucket_pairs(by_cite, 25, "shared_source", ev)
+
+    # 3. shared subject / attributed_to
+    by_subject = collections.defaultdict(set)
+    for nid, node in nodes.items():
+        for field in ("subject", "attributed_to"):
+            if node.get(field):
+                by_subject[f"{field}={node[field]}"].add(nid)
+    _bucket_pairs(by_subject, 30, "shared_subject", ev)
+
+    # 4. shared tags and domains — reinforcement only, never the sole signal,
+    #    for the same reason wiki-connect keeps tags from initiating a pair.
+    by_tag = collections.defaultdict(set)
+    for nid, node in nodes.items():
+        for tag in (node.get("tags") or []) + (node.get("domains") or []):
+            by_tag[tag].add(nid)
+    tag_ev: dict = collections.defaultdict(lambda: collections.defaultdict(list))
+    _bucket_pairs(by_tag, 40, "shared_tag", tag_ev)
+    for key, signals in tag_ev.items():
+        if key in ev:
+            ev[key]["shared_tag"].extend(signals["shared_tag"])
+
+    # 5. one node's title appears in the other's body, unlinked
+    titles = {}
+    for nid, node in nodes.items():
+        title = (node.get("title") or "").strip().lower()
+        if len(title) >= 14:
+            titles[title] = nid
+    for nid, node in nodes.items():
+        low = (node.get("_body") or "").lower()
+        if not low:
+            continue
+        for title, other in titles.items():
+            if other == nid:
+                continue
+            key = frozenset((nid, other))
+            if key in already or title not in low:
+                continue
+            ev[key]["names_unlinked"].append(f"{nid} names '{title}'")
+
+    fam = {}
+    for nid, node in nodes.items():
+        fam[nid] = node.get("layer")
+
+    scored = []
+    for key, signals in ev.items():
+        # The exclusion lives HERE, once, rather than inside each signal:
+        # _bucket_pairs has no view of the graph, and two of the five signals
+        # went through it — which is how 15 already-edged pairs reached the
+        # queue before tests/test-jev caught it. One filter at the funnel
+        # cannot be forgotten by the next signal added.
+        if key in already:
+            continue
+        a, b = sorted(key)
+        score = (
+            3.0 * min(len(signals.get("cites_directly", [])), 2)
+            + 2.0 * min(len(signals.get("shared_source", [])), 4)
+            + 1.5 * min(len(signals.get("names_unlinked", [])), 2)
+            + 1.0 * min(len(signals.get("shared_subject", [])), 3)
+            + 0.5 * min(len(signals.get("shared_tag", [])), 4)
+        )
+        # A cross-layer pair is the scarce kind: an L1 datum and an L3 reading
+        # of it relate in a way two data points rarely do.
+        if fam.get(a) is not None and fam.get(b) is not None and fam[a] != fam[b]:
+            score *= 1.3
+        scored.append({
+            "a": a, "b": b, "score": round(score, 2),
+            "evidence": {k: v[:4] for k, v in signals.items()},
+        })
+
+    scored.sort(key=lambda r: (-r["score"], r["a"], r["b"]))
+    return scored[:limit]
+
+
+# ----------------------------------------------------------------- transport
+
+class JevError(RuntimeError):
+    pass
+
+
+class Jev:
+    def __init__(self, key: str, base: str = DEFAULT_BASE, model: str = DEFAULT_MODEL,
+                 auth_style: str = "probe", send_model: bool = True, timeout: int = 60):
+        if not key:
+            raise JevError("TYPESAFE_API_KEY is unset — export it and retry")
+        self.key = key
+        self.base = base.rstrip("/")
+        self.model = model
+        self.auth_style = auth_style
+        self.send_model = send_model
+        self.timeout = timeout
+        self.calls = 0
+
+    def _headers(self, style: str) -> dict:
+        header = ({"Authorization": f"Bearer {self.key}"} if style == "bearer"
+                  else {"X-API-Key": self.key})
+        header["Content-Type"] = "application/json"
+        header["User-Agent"] = "wb-jev/1 (+wikibrain)"
+        return header
+
+    def _once(self, path: str, body: dict | None, style: str) -> dict:
+        data = json.dumps(body).encode() if body is not None else None
+        req = urllib.request.Request(self.base + path, data=data,
+                                     headers=self._headers(style),
+                                     method="POST" if data else "GET")
+        with urllib.request.urlopen(req, timeout=self.timeout) as resp:
+            return json.loads(resp.read().decode())
+
+    def call(self, path: str, body: dict | None = None) -> dict:
+        """Request, probing the auth header once if the style is not pinned.
+
+        The published documentation names the env var and not the header, so a
+        401 on `Authorization: Bearer` is treated as "wrong spelling, try the
+        other one" exactly once, and the working style is remembered.
+        """
+        styles = [self.auth_style] if self.auth_style != "probe" else ["bearer", "x-api-key"]
+        last = None
+        for style in styles:
+            try:
+                out = self._once(path, body, style)
+                self.auth_style = style
+                self.calls += 1
+                return out
+            except urllib.error.HTTPError as exc:
+                detail = exc.read().decode(errors="replace")[:400]
+                last = JevError(f"HTTP {exc.code} on {path} "
+                                f"(auth style {style!r}): {detail}")
+                if exc.code not in (401, 403):
+                    raise last from None
+            except urllib.error.URLError as exc:
+                raise JevError(f"cannot reach {self.base}{path}: {exc.reason}") from None
+        raise last
+
+    def models(self) -> dict:
+        return self.call("/v1/models")
+
+    def systemone(self, state, questions: dict) -> dict:
+        body = {"state": state, "questions": questions}
+        if self.send_model:
+            body["model"] = self.model
+        return self.call("/v1/systemone", body)
+
+
+# ------------------------------------------------------------------- answers
+
+def parse_answers(payload: dict) -> dict:
+    """Normalise one response into plain values plus the numbers behind them.
+
+    Jev's guarantee is type safety — it cannot return a value outside the
+    schema. It carries no guarantee of being right, so every probability it
+    attaches is kept. Thresholding the distribution back down to a bare label
+    would throw away the one thing this model offers over a prose model.
+    """
+    answers = payload.get("answers") or {}
+    out = {}
+    for name, ans in answers.items():
+        if not isinstance(ans, dict):
+            out[name] = {"value": ans}
+            continue
+        if "noul" in ans:
+            out[name] = {"value": float(ans["noul"]), "probability": float(ans["noul"])}
+        elif "choice" in ans:
+            probs = ans.get("probabilities") or {}
+            out[name] = {
+                "value": ans["choice"],
+                "probability": float(probs.get(ans["choice"], 0.0)) if isinstance(probs, dict) else None,
+                "confidence": ans.get("confidence"),
+                "probabilities": probs,
+            }
+        elif "score" in ans:
+            raw = float(ans["score"])
+            # Floor, never round. A Score of 1.6 sits between `weak` and
+            # `moderate`; calling it `moderate` states more than the model
+            # said. The repo already takes this line elsewhere — per-thread
+            # totals are floors "rather than a number that looks exact and
+            # isn't" (dat:0003) — and strength is a claim about what the
+            # evidence carries, so it rounds toward the weaker reading. The
+            # raw position is kept, so nothing is lost by being careful.
+            idx = max(0, min(len(STRENGTH_ASCENDING) - 1, int(raw)))
+            out[name] = {
+                "value": STRENGTH_ASCENDING[idx],
+                "raw": raw,
+                "between_levels": abs(raw - round(raw)) > 0.25,
+                "confidence": ans.get("confidence"),
+                "probabilities": ans.get("probabilities"),
+            }
+        else:
+            out[name] = {"value": None, "unparsed": ans}
+    return out
+
+
+def canonicalise(spec: dict, source: str, rel: str, target: str) -> tuple[str, str, str]:
+    """Rewrite an edge into the direction the vocabulary calls canonical.
+
+    `A followed B` and `B preceded A` are one fact. Comparing a proposal against
+    a hand-written edge only means anything once both are spelled the same way.
+    """
+    reverse = {v: k for k, v in spec.get("inverses", {}).items()}
+    if rel in reverse:
+        return target, reverse[rel], source
+    return source, rel, target
+
+
+def to_proposal(a_id: str, b_id: str, parsed: dict, spec: dict, evidence=None) -> dict:
+    """An answer set becomes a proposed edge, with every guard the schema names.
+
+    Conflicts are recorded and the proposal is marked, never silently repaired.
+    A tool that quietly downgrades `strength` to make a rule pass is a tool that
+    hides the one case worth looking at.
+    """
+    rel = (parsed.get("rel") or {}).get("value")
+    fam = (parsed.get("family") or {}).get("value")
+    strength = (parsed.get("strength") or {}).get("value")
+    basis = (parsed.get("basis") or {}).get("value")
+    direction = (parsed.get("direction") or {}).get("value", "a_to_b")
+    exists = (parsed.get("relation_exists") or {}).get("probability")
+
+    source, target = (a_id, b_id) if direction == "a_to_b" else (b_id, a_id)
+
+    conflicts = []
+    fam_map = family_of(spec)
+    actual_fam = fam_map.get(rel)
+    if fam and actual_fam and fam != actual_fam:
+        conflicts.append(f"family question said {fam!r} but {rel!r} is {actual_fam!r}")
+    # ARCHITECTURE.md: a guess held with certainty is an error, not a warning.
+    if basis == "speculative" and strength == "strong":
+        conflicts.append("basis 'speculative' with strength 'strong' — wb-validate rejects this")
+    if actual_fam == "causal" and not basis:
+        conflicts.append("causal family requires `basis`")
+
+    edge = {
+        "rel": rel,
+        "target": target,
+        "strength": strength,
+        "basis": basis,
+        # Known by construction, never asked. See build_questions().
+        "asserted_by": "system_one",
+    }
+    return {
+        "source": source,
+        "edge": edge,
+        "family": actual_fam,
+        "relation_exists": exists,
+        "confidence": {
+            "rel": (parsed.get("rel") or {}).get("confidence"),
+            "direction": (parsed.get("direction") or {}).get("confidence"),
+            "strength": (parsed.get("strength") or {}).get("confidence"),
+            "basis": (parsed.get("basis") or {}).get("confidence"),
+        },
+        "strength_raw": (parsed.get("strength") or {}).get("raw"),
+        "between_levels": (parsed.get("strength") or {}).get("between_levels"),
+        "conflicts": conflicts,
+        "evidence": evidence or {},
+        "answers": parsed,
+    }
+
+
+# ------------------------------------------------------------------ commands
+
+def cmd_questions(args) -> int:
+    spec = load_spec()
+    print(json.dumps(build_questions(spec, args.criteria_shape), indent=2, ensure_ascii=False))
+    return 0
+
+
+def cmd_enum_check(args) -> int:
+    spec = load_spec()
+    errors = check_enums(spec)
+    if errors:
+        for err in errors:
+            print(f"  error  {err}", file=sys.stderr)
+        print(f"\nwb-jev enum-check: {len(errors)} error(s)", file=sys.stderr)
+        return 1
+    rels = relations(spec)
+    print(f"wb-jev enum-check: clean — {len(rels)} relations in "
+          f"{len(spec['families'])} families, all defined, "
+          f"{len(STRENGTH_ASCENDING)} strength levels")
+    return 0
+
+
+def cmd_pairs(args) -> int:
+    nodes, errors = load_nodes(KB)
+    if errors:
+        for err in errors[:5]:
+            print(f"  warn  {err}", file=sys.stderr)
+    pairs = mine_pairs(nodes, args.limit)
+    if args.out:
+        path = pathlib.Path(args.out)
+        path.write_text("".join(json.dumps(p, ensure_ascii=False) + "\n" for p in pairs))
+        print(f"wrote {path} ({len(pairs)} candidate pairs from {len(nodes)} nodes)")
+    else:
+        for p in pairs:
+            print(json.dumps(p, ensure_ascii=False))
+    return 0
+
+
+def client(args) -> Jev:
+    return Jev(os.environ.get("TYPESAFE_API_KEY", ""),
+               auth_style=args.auth_style, send_model=not args.no_model_field)
+
+
+def cmd_ping(args) -> int:
+    jev = client(args)
+    out = jev.models()
+    print(json.dumps(out, indent=2)[:2000])
+    print(f"\nwb-jev ping: ok — auth style {jev.auth_style!r}, base {jev.base}")
+    print("Pin it with --auth-style to skip the probe on every later call.")
+    return 0
+
+
+def _ask(jev: Jev, nodes: dict, a_id: str, b_id: str, spec: dict,
+         questions: dict, evidence=None) -> dict:
+    state = pair_state(nodes[a_id], nodes[b_id], evidence)
+    raw = jev.systemone(state, questions)
+    return to_proposal(a_id, b_id, parse_answers(raw), spec, evidence)
+
+
+def cmd_ask(args) -> int:
+    nodes, _ = load_nodes(KB)
+    for nid in (args.a, args.b):
+        if nid not in nodes:
+            print(f"wb-jev: no such node {nid!r}", file=sys.stderr)
+            return 1
+    spec = load_spec()
+    jev = client(args)
+    proposal = _ask(jev, nodes, args.a, args.b, spec,
+                    build_questions(spec, args.criteria_shape))
+    print(json.dumps(proposal, indent=2, ensure_ascii=False))
+    return 0
+
+
+def cmd_run(args) -> int:
+    nodes, _ = load_nodes(KB)
+    spec = load_spec()
+    questions = build_questions(spec, args.criteria_shape)
+    jev = client(args)
+
+    rows = [json.loads(line) for line in
+            pathlib.Path(args.pairs).read_text().splitlines() if line.strip()]
+    if args.limit:
+        rows = rows[:args.limit]
+
+    out_path = pathlib.Path(args.out)
+    written = skipped = failed = 0
+    with out_path.open("w", encoding="utf-8") as fh:
+        for i, row in enumerate(rows, 1):
+            a_id, b_id = row["a"], row["b"]
+            if a_id not in nodes or b_id not in nodes:
+                skipped += 1
+                continue
+            try:
+                proposal = _ask(jev, nodes, a_id, b_id, spec, questions,
+                                row.get("evidence"))
+            except JevError as exc:
+                print(f"  fail  {a_id} <-> {b_id}: {exc}", file=sys.stderr)
+                failed += 1
+                if failed >= 5:
+                    print("wb-jev: five consecutive-ish failures, stopping",
+                          file=sys.stderr)
+                    break
+                continue
+            proposal["pair_score"] = row.get("score")
+            fh.write(json.dumps(proposal, ensure_ascii=False) + "\n")
+            written += 1
+            if args.progress and i % 25 == 0:
+                print(f"  {i}/{len(rows)}", file=sys.stderr)
+            if args.sleep:
+                time.sleep(args.sleep)
+
+    print(f"wrote {out_path} — {written} proposals, {skipped} skipped, "
+          f"{failed} failed, {jev.calls} API calls")
+    return 0 if written else 1
+
+
+def cmd_calibrate(args) -> int:
+    """Re-decide the edges a human already typed, and score the agreement.
+
+    This is the only honest way to set a threshold. The 81 edges in kb/ are all
+    audited, which makes them a small but genuine labelled set — and small is
+    the point to be honest about: 81 edges, 65 of them structural, is enough to
+    catch a systematic disagreement and nowhere near enough to certify a cutoff.
+    """
+    nodes, _ = load_nodes(KB)
+    spec = load_spec()
+    questions = build_questions(spec, args.criteria_shape)
+    jev = client(args)
+
+    truth = []
+    for nid, node in nodes.items():
+        for edge in node.get("edges") or []:
+            if isinstance(edge, dict) and edge.get("target") in nodes and edge.get("rel"):
+                truth.append((nid, edge))
+    if args.limit:
+        truth = truth[:args.limit]
+
+    agree = collections.Counter()
+    total = collections.Counter()
+    buckets: dict = collections.defaultdict(lambda: [0, 0])
+    rows = []
+
+    for raw_source, edge in truth:
+        # Compare like with like: a hand-written `followed` is a canonical
+        # `preceded` with the endpoints swapped, and the proposal only ever
+        # speaks canonical.
+        source, want_rel, target = canonicalise(
+            spec, raw_source, edge["rel"], edge["target"])
+        try:
+            proposal = _ask(jev, nodes, source, target, spec, questions)
+        except JevError as exc:
+            print(f"  fail  {source} -> {target}: {exc}", file=sys.stderr)
+            continue
+
+        got = proposal["edge"]
+        checks = {
+            "direction": proposal["source"] == source,
+            "rel": got["rel"] == want_rel,
+            "family": proposal["family"] == family_of(spec).get(want_rel),
+        }
+        if edge.get("strength"):
+            checks["strength"] = got["strength"] == edge["strength"]
+        if edge.get("basis"):
+            checks["basis"] = got["basis"] == edge["basis"]
+
+        for name, ok in checks.items():
+            total[name] += 1
+            agree[name] += int(ok)
+
+        conf = proposal["confidence"].get("rel")
+        if conf is not None:
+            bucket = round(float(conf) * 10) / 10
+            buckets[bucket][1] += 1
+            buckets[bucket][0] += int(checks["rel"])
+
+        rows.append({"source": source, "target": target,
+                     "expected": want_rel, "got": got["rel"],
+                     "as_written": f"{raw_source} --{edge['rel']}--> {edge['target']}",
+                     "rel_confidence": conf, "checks": checks})
+        if args.sleep:
+            time.sleep(args.sleep)
+
+    print(f"\ncalibrated against {len(rows)} hand-audited edges "
+          f"({jev.calls} API calls)\n")
+    for name in ("relation_exists", "direction", "family", "rel", "strength", "basis"):
+        if total[name]:
+            pct = 100.0 * agree[name] / total[name]
+            print(f"  {name:<10} {agree[name]:>3}/{total[name]:<3} {pct:5.1f}%")
+
+    if buckets:
+        print("\n  rel confidence -> observed accuracy (this is the threshold evidence)")
+        for bucket in sorted(buckets):
+            hit, n = buckets[bucket]
+            print(f"    {bucket:.1f}  {hit:>3}/{n:<3}  {100.0 * hit / n:5.1f}%")
+
+    print("\n  81 audited edges, 65 of them structural. Enough to catch a systematic")
+    print("  disagreement; not enough to certify a cutoff. Read the misses.")
+
+    if args.out:
+        pathlib.Path(args.out).write_text(
+            "".join(json.dumps(r, ensure_ascii=False) + "\n" for r in rows))
+        print(f"\nwrote {args.out}")
+    return 0
+
+
+def cmd_review(args) -> int:
+    """Render proposals as a queue for the writing pass this model cannot do."""
+    rows = [json.loads(line) for line in
+            pathlib.Path(args.proposals).read_text().splitlines() if line.strip()]
+    rows.sort(key=lambda r: -(r.get("relation_exists") or 0))
+
+    keep = [r for r in rows if (r.get("relation_exists") or 0) >= args.min_exists]
+    dropped = len(rows) - len(keep)
+
+    out = [
+        "# Edge proposal queue — generated by bin/wb-jev",
+        "",
+        f"{len(keep)} proposals at `relation_exists` >= {args.min_exists}; "
+        f"{dropped} below it, not shown.",
+        "",
+        "Each entry is a CANDIDATE. A System One model typed it and attached a",
+        "probability; it cannot say why the relation holds, and it did not read",
+        "anything beyond the two nodes. The job is to read the sources named,",
+        "decide whether the edge is defensible, and write it — or record the",
+        "rejection, which is also knowledge.",
+        "",
+        "`asserted_by = system_one` is set by construction on every one of these.",
+        "",
+    ]
+    for r in keep:
+        edge = r["edge"]
+        flag = "  ⚠ " + "; ".join(r["conflicts"]) if r["conflicts"] else ""
+        out.append(f"## {r['source']} --{edge['rel']}--> {edge['target']}{flag}")
+        out.append(f"- exists: {r.get('relation_exists')}  "
+                   f"family: {r.get('family')}  "
+                   f"strength: {edge.get('strength')}"
+                   + (f" (raw {r['strength_raw']:.2f}, between levels)"
+                      if r.get("between_levels") else "")
+                   + f"  basis: {edge.get('basis')}")
+        conf = r.get("confidence") or {}
+        out.append("- confidence: " + ", ".join(
+            f"{k} {v}" for k, v in conf.items() if v is not None))
+        for label, items in (r.get("evidence") or {}).items():
+            out.append(f"- {label}: {', '.join(str(i) for i in items[:3])}")
+        out.append("- [ ] verdict: ______   note: ______")
+        out.append("")
+
+    path = pathlib.Path(args.out)
+    path.write_text("\n".join(out), encoding="utf-8")
+    print(f"wrote {path} ({len(keep)} proposals, {dropped} below threshold)")
+    return 0
+
+
+# ----------------------------------------------------------------------- cli
+
+def main() -> int:
+    ap = argparse.ArgumentParser(
+        prog="wb-jev",
+        description=__doc__.split("Subcommands")[0].strip(),
+        formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("--criteria-shape", choices=("object", "array"), default="object",
+                    help="Choice `criteria` encoding; unverified against the live API")
+    ap.add_argument("--auth-style", choices=("probe", "bearer", "x-api-key"),
+                    default="probe", help="auth header spelling (default: probe)")
+    ap.add_argument("--no-model-field", action="store_true",
+                    help="omit `model` from the request body")
+    sub = ap.add_subparsers(dest="cmd", required=True)
+
+    sub.add_parser("questions", help="print the built question payload").set_defaults(fn=cmd_questions)
+    sub.add_parser("enum-check", help="gate: questions must match the vocabulary").set_defaults(fn=cmd_enum_check)
+
+    p = sub.add_parser("pairs", help="mine candidate node pairs from kb/")
+    p.add_argument("--limit", type=int, default=500)
+    p.add_argument("--out")
+    p.set_defaults(fn=cmd_pairs)
+
+    sub.add_parser("ping", help="verify the credential").set_defaults(fn=cmd_ping)
+
+    p = sub.add_parser("ask", help="one pair through Jev")
+    p.add_argument("a")
+    p.add_argument("b")
+    p.set_defaults(fn=cmd_ask)
+
+    p = sub.add_parser("run", help="batch a pairs file into proposals")
+    p.add_argument("--pairs", required=True)
+    p.add_argument("--out", default="jev-proposals.jsonl")
+    p.add_argument("--limit", type=int)
+    p.add_argument("--sleep", type=float, default=0.0)
+    p.add_argument("--progress", action="store_true")
+    p.set_defaults(fn=cmd_run)
+
+    p = sub.add_parser("calibrate", help="re-decide the audited edges, score agreement")
+    p.add_argument("--limit", type=int)
+    p.add_argument("--sleep", type=float, default=0.0)
+    p.add_argument("--out")
+    p.set_defaults(fn=cmd_calibrate)
+
+    p = sub.add_parser("review", help="render proposals as a markdown queue")
+    p.add_argument("proposals")
+    p.add_argument("--out", default="edge-proposal-queue.md")
+    p.add_argument("--min-exists", type=float, default=0.5)
+    p.set_defaults(fn=cmd_review)
+
+    args = ap.parse_args()
+    try:
+        return args.fn(args)
+    except JevError as exc:
+        print(f"wb-jev: {exc}", file=sys.stderr)
+        return 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())

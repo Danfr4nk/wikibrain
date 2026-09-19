@@ -1,0 +1,266 @@
+#!/usr/bin/env python3
+"""Checks on bin/wb-jev — the System One edge-typing client.
+
+Every check here runs OFFLINE. No key, no network, no billed call. That is the
+point: the parts worth testing are the ones that decide what gets sent and what
+gets believed, and both are pure functions over `schema/edges.json` and a
+recorded response. The transport is the part that cannot be tested without the
+live API, and it is deliberately the thinnest layer in the tool.
+
+The recorded response below is the documented shape, NOT a capture from the
+live service — Jev shipped 2026-09-15 and this repository has not yet made a
+call. If the real response differs, these tests are what should fail first.
+
+Usage:  tests/test-jev
+"""
+
+from __future__ import annotations
+
+import json
+import pathlib
+import sys
+
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / "bin"))
+from importlib.machinery import SourceFileLoader
+
+jev = SourceFileLoader("wb_jev", str(ROOT / "bin" / "wb-jev")).load_module()
+
+passed = failed = 0
+
+
+def _raises(fn) -> bool:
+    try:
+        fn()
+    except jev.JevError:
+        return True
+    except Exception:
+        return False
+    return False
+
+
+def check(name: str, ok: bool, detail: str = "") -> None:
+    global passed, failed
+    if ok:
+        passed += 1
+        print(f"  pass  {name}")
+    else:
+        failed += 1
+        print(f"  FAIL  {name}")
+        if detail:
+            print(f"        {detail}")
+
+
+# The documented response shape, one answer per question wb-jev asks.
+RECORDED = {
+    "answers": {
+        "relation_exists": {"noul": 0.93},
+        "direction": {"choice": "a_to_b",
+                      "probabilities": {"a_to_b": 0.88, "b_to_a": 0.12},
+                      "confidence": 0.88},
+        "family": {"choice": "causal",
+                   "probabilities": {"causal": 0.71, "temporal": 0.24},
+                   "confidence": 0.71},
+        "rel": {"choice": "influenced",
+                "probabilities": {"influenced": 0.66, "caused": 0.21},
+                "confidence": 0.66},
+        "strength": {"score": 1.6, "probabilities": [0.1, 0.4, 0.4, 0.1],
+                     "confidence": 0.74},
+        "basis": {"choice": "inferred",
+                  "probabilities": {"inferred": 0.8, "stated": 0.15},
+                  "confidence": 0.80},
+    },
+    "model": "jev-1.13.0",
+}
+
+
+def main() -> int:
+    spec = jev.load_spec()
+    rels = jev.relations(spec)
+    canon = jev.canonical_relations(spec)
+
+    # ---- the vocabulary gate -------------------------------------------
+    check("the vocabulary gate passes on the committed schema",
+          jev.check_enums(spec) == [],
+          "; ".join(jev.check_enums(spec)))
+
+    broken = json.loads(json.dumps(spec))
+    broken["definitions"].pop(rels[0])
+    check("a relation with no definition fails the gate",
+          any("no definition" in e for e in jev.check_enums(broken)))
+
+    broken = json.loads(json.dumps(spec))
+    broken["families"]["temporal"]["relations"].append("invented_relation")
+    check("a relation added without a definition fails the gate",
+          jev.check_enums(broken) != [])
+
+    broken = json.loads(json.dumps(spec))
+    broken["strength"] = ["strong", "moderate", "weak"]
+    check("dropping a strength level fails the gate",
+          any("strength" in e for e in jev.check_enums(broken)))
+
+    # ---- inverses are never offered as a choice ------------------------
+    derived = set(spec["inverses"].values())
+    q = jev.build_questions(spec)
+    offered = set(q["rel"]["criteria"])
+    check("derived inverses are not offered as choices",
+          not (offered & derived),
+          f"offered: {sorted(offered & derived)}")
+    check("every canonical relation is offered",
+          offered == set(canon),
+          f"missing: {sorted(set(canon) - offered)}")
+    check("the choice set is inside Jev's 255-option ceiling", len(offered) <= 255)
+
+    # ---- question shape ------------------------------------------------
+    check("six questions are asked", len(q) == 6, f"got {sorted(q)}")
+    check("asserted_by is never asked", "asserted_by" not in q)
+    check("strength is a Score, not a Choice", q["strength"]["type"] == "Score")
+    check("strength levels run low to high",
+          q["strength"]["criteria"][0].lower().startswith("tentative")
+          and q["strength"]["criteria"][-1].lower().startswith("strong"))
+    check("relation_exists is a Noul", q["relation_exists"]["type"] == "Noul")
+    check("choice criteria default to the object shape",
+          isinstance(q["rel"]["criteria"], dict))
+    check("--criteria-shape array switches the encoding",
+          isinstance(jev.build_questions(spec, "array")["rel"]["criteria"], list))
+
+    # ---- answer parsing ------------------------------------------------
+    parsed = jev.parse_answers(RECORDED)
+    check("a Noul parses to its probability",
+          parsed["relation_exists"]["probability"] == 0.93)
+    check("a Choice keeps the full distribution",
+          parsed["rel"]["probabilities"]["caused"] == 0.21)
+    check("a Score maps to the nearest level name",
+          parsed["strength"]["value"] == "weak",
+          f"got {parsed['strength']['value']!r} from 1.6")
+    check("a Score keeps the raw between-levels position",
+          parsed["strength"]["raw"] == 1.6 and parsed["strength"]["between_levels"])
+    check("a Score landing on a level is not flagged as between",
+          not jev.parse_answers(
+              {"answers": {"strength": {"score": 3.0}}})["strength"]["between_levels"])
+    check("an unrecognised answer shape is kept, not dropped",
+          jev.parse_answers({"answers": {"x": {"weird": 1}}})["x"]["unparsed"] == {"weird": 1})
+
+    # ---- proposal assembly ---------------------------------------------
+    prop = jev.to_proposal("evt:a", "evt:b", parsed, spec)
+    check("direction a_to_b keeps the first node as source",
+          prop["source"] == "evt:a" and prop["edge"]["target"] == "evt:b")
+    check("asserted_by is set to system_one by construction",
+          prop["edge"]["asserted_by"] == "system_one")
+    check("the family is taken from the vocabulary, not the model",
+          prop["family"] == "causal")
+
+    flipped = json.loads(json.dumps(parsed))
+    flipped["direction"]["value"] = "b_to_a"
+    prop_b = jev.to_proposal("evt:a", "evt:b", flipped, spec)
+    check("direction b_to_a swaps source and target",
+          prop_b["source"] == "evt:b" and prop_b["edge"]["target"] == "evt:a")
+
+    # ---- the guards ----------------------------------------------------
+    bad = json.loads(json.dumps(parsed))
+    bad["basis"]["value"] = "speculative"
+    bad["strength"]["value"] = "strong"
+    check("speculative basis with strong strength is flagged, not repaired",
+          any("speculative" in c for c in jev.to_proposal("evt:a", "evt:b", bad, spec)["conflicts"])
+          and jev.to_proposal("evt:a", "evt:b", bad, spec)["edge"]["strength"] == "strong",
+          "the conflict must survive into the proposal rather than be silently clamped")
+
+    mism = json.loads(json.dumps(parsed))
+    mism["family"]["value"] = "temporal"
+    check("a family/rel disagreement is recorded",
+          any("family question" in c
+              for c in jev.to_proposal("evt:a", "evt:b", mism, spec)["conflicts"]))
+
+    clean = jev.to_proposal("evt:a", "evt:b", parsed, spec)
+    check("a coherent answer set carries no conflicts",
+          clean["conflicts"] == [], str(clean["conflicts"]))
+
+    # ---- canonicalisation ----------------------------------------------
+    check("a derived relation is rewritten to its canonical direction",
+          jev.canonicalise(spec, "evt:a", "followed", "evt:b") == ("evt:b", "preceded", "evt:a"))
+    check("a canonical relation is left alone",
+          jev.canonicalise(spec, "evt:a", "preceded", "evt:b") == ("evt:a", "preceded", "evt:b"))
+    check("a relation with no inverse is left alone",
+          jev.canonicalise(spec, "evt:a", "about", "evt:b") == ("evt:a", "about", "evt:b"))
+    for canonical, inverse in spec["inverses"].items():
+        src, rel, tgt = jev.canonicalise(spec, "x", inverse, "y")
+        if rel != canonical or (src, tgt) != ("y", "x"):
+            check(f"canonicalising {inverse!r} yields {canonical!r}", False,
+                  f"got {src} --{rel}--> {tgt}")
+            break
+    else:
+        check("every declared inverse canonicalises to its pair", True)
+
+    # ---- pair mining ---------------------------------------------------
+    nodes, node_errors = jev.load_nodes(ROOT / "kb")
+    check("kb/ loads without a parse error", not node_errors,
+          "; ".join(node_errors[:3]))
+
+    pairs = jev.mine_pairs(nodes, limit=200)
+    check("pair mining returns candidates", len(pairs) > 0)
+    check("pairs come back highest-scoring first",
+          all(pairs[i]["score"] >= pairs[i + 1]["score"] for i in range(len(pairs) - 1)))
+    check("every pair carries the evidence it was mined from",
+          all(p["evidence"] for p in pairs))
+    check("a pair never names the same node twice",
+          all(p["a"] != p["b"] for p in pairs))
+
+    # The rule the whole tool rests on: never re-propose an edge that exists.
+    existing = set()
+    for nid, node in nodes.items():
+        for edge in node.get("edges") or []:
+            if isinstance(edge, dict) and edge.get("target"):
+                existing.add(frozenset((nid, edge["target"])))
+    allpairs = jev.mine_pairs(nodes, limit=10 ** 9)
+    clash = [p for p in allpairs if frozenset((p["a"], p["b"])) in existing]
+    check("an already-edged pair is never proposed",
+          not clash, f"{len(clash)} already carry an edge, e.g. {clash[:2]}")
+
+    # ---- the state handed to the model ---------------------------------
+    a, b = pairs[0]["a"], pairs[0]["b"]
+    state = jev.pair_state(nodes[a], nodes[b], pairs[0]["evidence"])
+    check("state names both nodes", state["a"]["id"] == a and state["b"]["id"] == b)
+    check("state carries no private path or body handle",
+          "_path" not in json.dumps(state) and "_body" not in json.dumps(state))
+    payload = len(json.dumps(state, ensure_ascii=False)) + len(json.dumps(q, ensure_ascii=False))
+    check("a request fits inside the 32k-token state ceiling",
+          payload / 4 < 32000, f"~{payload / 4:,.0f} tokens")
+
+    # ---- nothing here writes to kb/ ------------------------------------
+    # The rule bin/wiki-crosslink sets for the whole repository: a tool
+    # produces candidates and never writes the graph. Asserted by running the
+    # offline subcommands and checking kb/ is byte-identical afterwards, which
+    # is the claim itself rather than a proxy for it.
+    import hashlib
+    import subprocess
+
+    def kb_digest() -> str:
+        h = hashlib.sha256()
+        for p in sorted((ROOT / "kb").rglob("*.md")):
+            h.update(p.read_bytes())
+        return h.hexdigest()
+
+    before = kb_digest()
+    for argv in (["questions"], ["enum-check"], ["pairs", "--limit", "5"]):
+        subprocess.run([sys.executable, str(ROOT / "bin" / "wb-jev")] + argv,
+                       capture_output=True, check=True)
+    check("the offline subcommands leave kb/ byte-identical",
+          kb_digest() == before)
+
+    # The network subcommands are the ones that could regress into writing, so
+    # pin the absence of a write path rather than trusting review.
+    source = (ROOT / "bin" / "wb-jev").read_text()
+    writes = [ln.strip() for ln in source.splitlines()
+              if ".write_text(" in ln or ".open(" in ln]
+    check("no write in wb-jev targets kb/",
+          not any("KB" in w for w in writes),
+          "; ".join(w for w in writes if "KB" in w))
+    check("wb-jev refuses a key it does not have",
+          _raises(lambda: jev.Jev("")))
+
+    print(f"\n{passed} passed, {failed} failed")
+    return 1 if failed else 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

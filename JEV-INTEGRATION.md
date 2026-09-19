@@ -1,13 +1,38 @@
-# JEV-INTEGRATION.md — design, not implementation
+# JEV-INTEGRATION.md — the System One integration
 
-**Status:** design only, 2026-09-19. **Nothing in this document is built.**
-No code, no dependency, no credential is added by the commit that carries it.
-It exists so the decision can be made with the actual API surface in view
-rather than from the press coverage.
+**Status:** built, 2026-09-19. **Never run against the live API.**
+`bin/wb-jev` exists, `tests/test-jev` covers it, and two gates run in CI. No
+call has been made — the credential has not been verified and §7's smoke test
+is still the next step. Every offline path (question building, pair mining,
+the vocabulary gate) works without a key and is exercised by the tests; the
+network paths are written against the published documentation and are the part
+that can still be wrong.
 
-Jev is real, it is a genuinely good fit for two of the four jobs named below,
-and it is a bad fit for a third that currently looks like the same job. The
-useful part of this document is the boundary.
+Jev is a genuinely good fit for two of the four jobs named below, and a bad fit
+for a third that currently looks like the same job. The useful part of this
+document is the boundary.
+
+## What is built
+
+| Path | What it does | Needs a key |
+|---|---|---|
+| `bin/wb-jev questions` | prints the question payload, built from `schema/edges.json` | no |
+| `bin/wb-jev enum-check` | **CI gate** — questions must match the vocabulary | no |
+| `bin/wb-jev pairs` | mines and scores candidate node pairs from `kb/` | no |
+| `bin/wb-jev ping` | verifies the credential, reports which auth header worked | yes |
+| `bin/wb-jev ask A B` | one pair, prints the typed proposal | yes |
+| `bin/wb-jev run --pairs F` | batch, writes proposals as JSONL | yes |
+| `bin/wb-jev calibrate` | re-decides the 81 audited edges, scores agreement | yes |
+| `bin/wb-jev review F` | renders proposals as a markdown queue | no |
+| `tests/test-jev` | **CI gate** — 43 offline checks | no |
+
+Schema: `asserted_by` gains `system_one`, and edges gain `confidence` (0–1),
+required when `asserted_by = "system_one"` and enforced by `bin/wb-validate`.
+
+**Measured on the real corpus:** 1,569 nodes yield **5,117 evidenced candidate
+pairs** — 2,335 of them pairs where one node already *cites* the other and no
+typed edge was ever written. Median request ~2,470 tokens. **The entire sweep
+costs $0.53.**
 
 ---
 
@@ -135,27 +160,43 @@ where Jev goes.
 
 `schema/edges.json` is already the exact object Jev's `Choice` primitive wants:
 a closed vocabulary, declared as data, with per-family semantics written out in
-prose. 26 relations against a 255-option ceiling. It fits with room to spare.
+prose. 23 relations against a 255-option ceiling — and 19 once the derived
+inverses are dropped (see below). It fits with room to spare.
 
-Every `kb/` edge declares four fields, and every one of them is a Jev question:
+Six questions, one request, evaluated independently and in parallel. Every
+option list is derived from `schema/edges.json` at runtime — `bin/wb-jev` never
+hand-transcribes the vocabulary, and `enum-check` fails CI if it drifts.
 
-| Field | Primitive | Options | Source of truth |
+| Question | Primitive | Options | Source |
 |---|---|---|---|
-| `rel` | Choice | 26 | `schema/edges.json` `families[*].relations` |
-| `strength` | Score (ordered!) | tentative → weak → moderate → strong | `schema/edges.json` `strength` |
-| `basis` | Choice | stated / inferred / speculative | `schema/edges.json` `basis` |
-| `asserted_by` | Choice | self / external / llm / other | `schema/edges.json` `asserted_by` |
+| `relation_exists` | Noul | probability 0–1 | — |
+| `direction` | Choice | 2 (which node is the source) | — |
+| `family` | Choice | 6 | `families[*].claim` |
+| `rel` | Choice | **19** | `families[*].relations` minus derived inverses |
+| `strength` | Score | 4 ordered levels | `strength`, reversed to run low→high |
+| `basis` | Choice | 3 | `basis` |
 
-Plus one Noul that should run *first* and gate the rest:
+Three decisions in that table are worth defending.
 
-> `relation_exists` — "These two nodes stand in a defensible typed relation, as
-> opposed to merely co-occurring in the same corpus."
+**`asserted_by` is not asked.** For an edge this tool proposes, the answer is
+known by construction: a System One model asserted it. Asking a model to report
+its own identity is theatre, and the answer is set in code.
 
-`strength` is ordered, not categorical, which means it is a **Score**, not a
-Choice — and that buys something the current system does not have. A Score can
-land *between* levels. An edge that comes back at 1.6 on the weak→moderate axis
-is an edge whose strength is genuinely contested, and that is a fact the record
-should hold rather than round away.
+**`rel` offers 19, not 23.** `ARCHITECTURE.md` says inverses are derived, never
+written twice — write `preceded`, and `wb-build` derives `followed`. Offering
+both halves lets the model answer `followed` with direction `b_to_a`, which is
+`preceded` `a_to_b` said twice: precisely the two-records-of-one-fact drift the
+edge rework exists to end. So the four derived spellings are dropped from the
+choice set and `direction` carries direction alone. `enum-check` asserts it.
+
+**`strength` is a Score, not a Choice**, because it is ordered — and that buys
+something the current system does not have. A Score can land *between* levels.
+An edge returning 1.6 on the weak→moderate axis has genuinely contested
+strength, and the record should hold that rather than round it away. `wb-jev`
+**floors** it to `weak` and keeps the raw 1.6 with a `between_levels` flag:
+calling 1.6 `moderate` states more than the model said, and this repository
+already takes that line elsewhere — per-thread totals are floors rather than
+"a number that looks exact and isn't" (dat:0003).
 
 **The prize — and it is not the one it first looks like.** `bin/wb-validate`
 carries a warning for edges lacking `strength` or `asserted_by`, "provisional
@@ -176,7 +217,7 @@ specifically built.
 
 So the bottleneck is not audit quality. It is that **the graph is almost
 entirely unwritten**, and it is unwritten because deciding whether a defensible
-typed relation exists between two nodes — and which of 26 it is — costs a
+typed relation exists between two nodes — and which of 23 it is — costs a
 frontier model a full read of both. At 1,569 nodes that read has never been
 affordable at scale, so it has been done 81 times.
 
@@ -209,7 +250,7 @@ triage at $0.042/M.
 **Blocker, and it is a real one:** this repo has **two incompatible edge
 vocabularies**.
 
-- `schema/edges.json` — 26 relations, 6 families, for `kb/`
+- `schema/edges.json` — 23 relations, 6 families, for `kb/`
 - `bin/wiki-connect` `EDGE_TYPES` (line 33) — 19 relations, different names
   (`evidences`, `instantiates`, `parallels`…), for `wiki/`
 
@@ -294,7 +335,7 @@ to one bit would be the one way to make this integration a net loss.
 
 ---
 
-## 5. Proposed shape: `bin/wb-jev`
+## 5. `bin/wb-jev` — built
 
 One stdlib-only client, matching repo convention (`urllib.request`, no
 dependencies, per `RESEARCH-ENGINE-SPEC.md` non-goals). Deterministic code owns
@@ -302,68 +343,97 @@ control flow; Jev supplies judgements; deterministic code decides what to do
 with them.
 
 ```
-candidate pairs  →  bin/wb-jev  →  typed proposals + probabilities  →  gate  →  kb/ or queue
-   (deterministic)    (judges)         (JSON, never written direct)   (code)
+kb/ nodes  →  wb-jev pairs  →  wb-jev run  →  proposals   →  wb-jev review  →  a writing pass
+              (deterministic)   (Jev judges)   (JSONL +        (deterministic)   (human or LLM)
+                                               probabilities)
 ```
 
-Subcommands, roughly:
-
 ```
-wb-jev ping                       verify credential + print model id
-wb-jev edge <node-a> <node-b>     the five-question batch, prints JSON
-wb-jev queue [--limit N]          run the batch over wiki-connect candidates
-wb-jev enum-check                 assert schema/edges.json matches the built questions
-```
-
-**`enum-check` is load-bearing.** `schema/edges.json` is already declared the
-single source of truth, and `wb-validate` already fails if `node.schema.json`
-drifts from it. A Jev question set is a *third* copy of that vocabulary and
-must be checked the same way — built from the file at runtime, never
-hand-transcribed, and asserted in CI.
-
-### Confidence bands — the gate design
-
-```
-confidence ≥ HIGH   → write the proposal to a review file, pre-filled
-MID ≤ c < HIGH      → write it, flagged, sorted to the top of the queue
-c < MID             → drop the pair, log the drop
-relation_exists < R → drop before the other four questions are even asked
+wb-jev questions                  print the built payload            offline
+wb-jev enum-check                 CI gate: questions match the spec  offline
+wb-jev pairs [--limit N] [--out]  mine + score candidate pairs       offline
+wb-jev ping                       verify credential, report auth     network
+wb-jev ask <id-a> <id-b>          one pair, typed proposal           network
+wb-jev run --pairs F [--out]      batch to proposals JSONL           network
+wb-jev calibrate [--limit N]      score against the 81 audited edges network
+wb-jev review <proposals>         render a markdown queue            offline
 ```
 
-Thresholds are unknown until measured. **Do not guess them.** TypeSafe's own
-guidance is to validate cutoffs against real domain data, and this repo has the
-data to do it: hand-audited edges already exist in `kb/`. Calibrate against
-those before any threshold is hard-coded.
+**`enum-check` is load-bearing and runs in CI.** `schema/edges.json` is the
+declared single source of truth, and `wb-validate` already fails if
+`node.schema.json` drifts from it. The question set is a *third* copy of that
+vocabulary, so it gets the same treatment: built from the file at runtime, never
+hand-transcribed, and asserted on every push. It also fails if a relation is
+added without a definition, if a derived inverse leaks into the choice set, or
+if the vocabulary ever outgrows the 255-option ceiling.
 
-**Nothing auto-writes to `kb/` in v1.** `bin/wiki-crosslink` states its own rule
-— "This tool does not write edges and must not be made to. It produces
-CANDIDATES" — and Jev does not change the argument. Jev produces better
-candidates. A human or a writing model still commits them.
+`schema/edges.json` gained a `definitions` map — one line per relation, stating
+the criterion for choosing it — because the Choice question needs per-option
+text and the alternative was a second hand-written copy of the vocabulary
+living inside the tool. Same file, same rule, one source of truth.
+
+### Thresholds are not set, deliberately
+
+`wb-jev calibrate` re-decides the 81 hand-audited edges and reports agreement
+per question, plus observed accuracy bucketed by the model's own confidence.
+That last table is the threshold evidence: it says what a confidence of 0.7
+has actually been worth on this corpus.
+
+**No cutoff is hard-coded until that has been run.** TypeSafe's own guidance is
+to validate cutoffs against real domain data. And the honest caveat is printed
+by the tool itself: 81 edges, 65 of them `structural`, is enough to catch a
+systematic disagreement and nowhere near enough to certify a cutoff. Read the
+misses.
+
+### Nothing writes to `kb/`
+
+`bin/wiki-crosslink` sets the rule for the whole repository — "This tool does
+not write edges and must not be made to. It produces CANDIDATES" — and Jev does
+not change the argument. It produces *better* candidates, carrying a number. A
+human or a writing model still commits them, and still has to write the claim
+sentence, which Jev cannot do at all.
+
+This is asserted rather than promised: `tests/test-jev` hashes every file under
+`kb/` before and after running the offline subcommands and fails if a byte
+moves, and separately pins that no write path in the tool targets `KB`.
 
 ---
 
 ## 6. Cost
 
-1,569 nodes in `kb/`, carrying 81 edges. Candidate pairs are evidence-gated by
-`wiki-connect`'s four signals, so the real volume is order 10³–10⁴, not the full
-1.23M pair space.
+**Measured, not estimated.** `bin/wb-jev pairs` run over the real `kb/`:
 
-Per pair: two node `claim` fields plus evidence lines ≈ 1,500 tokens of state,
-five questions batched into one request.
+```
+nodes            1569
+raw pair space   1,230,096
+evidenced pairs  5,117
+  score >= 4       534
+  score >= 6        98
+  score >= 8        42
+signal mix: cites_directly 2335, shared_source 2816, shared_tag 798,
+            shared_subject 178, names_unlinked 32
+median request  ~2,470 tokens (state + all six questions)
+```
 
 | Pairs | Input tokens | Cost at $0.042/M |
 |---|---|---|
-| 1,000 | 1.5M | **$0.06** |
-| 10,000 | 15M | **$0.63** |
-| 100,000 | 150M | **$6.30** |
+| 1,000 | 2.5M | **$0.10** |
+| **5,117 — every evidenced pair** | 12.6M | **$0.53** |
+| 10,000 | 24.7M | **$1.04** |
 
-Output is free. At 70–500 ms and 1,200 req/min, 10,000 pairs is single-digit
-minutes of wall clock.
+Output is free. At 70–500 ms and 1,200 req/min the full sweep is a few minutes
+of wall clock.
+
+**The number to stare at is `cites_directly`: 2,335.** Those are pairs where
+one node already *cites* the other and no typed edge was ever written. The
+evidence link exists; the content claim was never made. That is not a cost
+problem being solved — it is a whole layer of the graph that was never
+affordable to write, sitting in plain sight.
 
 Your instinct was right, and understated. This is not a marginal saving over
 frontier inference for the typing work — it is a different order of magnitude.
 
-But the saving is the less interesting half. **At $0.63, the question stops
+But the saving is the less interesting half. **At $0.53, the question stops
 being "can we afford to audit the edges" and becomes "why is the graph only 81
 edges wide."** Those are different projects. The first is cost reduction on
 work already being done; the second is work that has never been done because it
@@ -402,24 +472,37 @@ against documentation.
 
 ---
 
-## 8. Open decisions
+## 8. Decisions taken, and what is still open
 
-1. **`asserted_by`** — reuse `llm`, or add `system_one`? (§4. Recommend
-   `system_one`.)
-2. **Where the probability lives** — new edge field, and what it's called.
-   (§4. Not optional.)
+**Taken while building, both reversible in one commit:**
+
+1. **`asserted_by` gains `system_one`**, rather than reusing `llm` (§4). The
+   schema change and its validator rule are a separate commit from the client,
+   so reverting it costs nothing if you'd rather collapse the two. `perspective`
+   on interpretations is deliberately left alone — interpretations are prose,
+   and Jev writes none.
+2. **The probability lives on the edge as `confidence`**, 0–1, *required* when
+   `asserted_by = "system_one"` and enforced by `bin/wb-validate`. A machine
+   judgement recorded without its number is strictly less than what the machine
+   said. `confidence` on a `self`- or `external`-asserted edge warns: a person's
+   certainty is `strength`.
+
+**Still open, and yours:**
+
 3. **The two edge vocabularies** — reconcile `schema/edges.json` with
    `wiki-connect`'s `EDGE_TYPES`, or run two question sets? And does
    `CONNECTIONS_SPEC.md` get written or get deleted from the tools that cite
-   it? (§3, Site 2. Blocks Site 2 entirely.)
-4. **Beta terms** — TypeSafe states customer requests are not used for
-   training and that zero-retention is available to enterprise. This corpus is
-   personal and carries a standing directive about a living person. **Confirm
-   the retention terms on the beta tier specifically before any `kb/` content
-   leaves the machine.** Not a formality.
-5. **Build order** — Site 1 first (cleanest enum, biggest win, already has
-   hand-audited data to calibrate against), then 3, then 2 after the vocabulary
-   is settled, then 4.
+   it? (§3, Site 2. **Blocks Site 2 entirely** — Site 1 is unaffected and is
+   what got built.)
+4. **Beta terms.** TypeSafe states customer requests are not used for training
+   and that zero-retention is available to enterprise. This corpus is personal
+   and carries a standing directive about a living person. **Confirm the
+   retention terms on the beta tier specifically before any `kb/` content
+   leaves the machine.** Not a formality, and nothing here has sent a byte.
+5. **Whether to sweep all 5,117 pairs or start at a score floor.** `--limit`
+   and the `pairs` score make either cheap; the whole sweep is $0.53.
+6. **Build order for the rest** — Site 3 (`wb-work` typing) next, then Site 2
+   once the vocabulary is settled, then Site 4.
 
 ---
 
