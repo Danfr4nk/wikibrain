@@ -14,6 +14,8 @@ start  = "2018-11-07"
 end    = "2018-11-07"
 approx = "November 7, 2018 per Dan's testimony (camera overlay reads 2018-06-06)"
 
+
+
 +++
 
 ## What happened

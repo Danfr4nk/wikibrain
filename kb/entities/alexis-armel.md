@@ -19,16 +19,16 @@ created     = "2026-09-09"
 tags        = ["romantic-line", "control-case", "arrangement", "twitter", "imessage"]
 
 [[edges]]
-rel         = "participated_in"
-target      = "evt:2015-11-alexis-evicted"
-strength    = "strong"
-asserted_by = "other"
+rel        = "participated_in"
+target     = "evt:2015-11-alexis-evicted"
+strength   = "strong"
+asserted_by= "other"
 
 [[edges]]
-rel         = "participated_in"
-target      = "evt:2018-11-07-annie-alexis-annotated-clip"
-strength    = "strong"
-asserted_by = "self"
+rel        = "participated_in"
+target     = "evt:2018-11-07-annie-alexis-annotated-clip"
+strength   = "strong"
+asserted_by= "self"
 
 +++
 

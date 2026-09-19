@@ -14,6 +14,7 @@ start = "2020-09-27"
 end   = "2020-09-27"
 approx = "September 27, 2020"
 
+
 +++
 
 ## What happened

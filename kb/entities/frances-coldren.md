@@ -17,16 +17,16 @@ created     = "2026-09-09"
 tags        = ["person", "frances-coldren", "family", "caregiving", "grief"]
 
 [[edges]]
-rel         = "participated_in"
-target      = "evt:2017-2018-fran-caregiving"
-strength    = "strong"
-asserted_by = "other"
+rel        = "participated_in"
+target     = "evt:2017-2018-fran-caregiving"
+strength   = "strong"
+asserted_by= "other"
 
 [[edges]]
-rel         = "participated_in"
-target      = "evt:2018-fran-death"
-strength    = "strong"
-asserted_by = "external"
+rel        = "participated_in"
+target     = "evt:2018-fran-death"
+strength   = "strong"
+asserted_by= "external"
 
 +++
 

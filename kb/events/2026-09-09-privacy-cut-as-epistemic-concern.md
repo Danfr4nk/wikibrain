@@ -12,6 +12,7 @@ tags       = ["meta", "architecture", "privacy", "retrieval"]
 [when]
 date = "2026-09-09"
 
+
 [[edges]]
 rel         = "followed"
 target      = "evt:2026-09-09-edge-rework"
