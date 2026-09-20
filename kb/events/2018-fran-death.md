@@ -12,25 +12,8 @@ created    = "2026-09-10"
 [when]
 date   = "2018-04-04"
 
-[[edges]]
-rel         = "about"
-target      = "ent:frances-coldren"
-strength    = "strong"
-asserted_by = "external"
 
-[[edges]]
-rel         = "about"
-target      = "ent:annie-ulmer"
-strength    = "strong"
-asserted_by = "other"
-note        = "Annie was in the room at the death; she and Dan were the functional caregivers throughout the vigil."
 
-[[edges]]
-rel         = "about"
-target      = "ent:diane-moore"
-strength    = "moderate"
-asserted_by = "other"
-note        = "Diane served the March 29 eviction notice herself ('Dian V. Moore') and sent the April 3 exclusion letter; the institutional pole of the vigil."
 +++
 
 ## What happened

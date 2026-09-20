@@ -1,5 +1,5 @@
 +++
-id         = "dat:1805-chords-v1-verdict-20260919"
+id         = "dat:1821-chords-v1-verdict-20260919"
 layer      = 1
 type       = "datum"
 title      = "CHORDS v1 2026-09-19: Dan commissioned chord extraction, shipped same night, his verdict 'needs a lot of work'"

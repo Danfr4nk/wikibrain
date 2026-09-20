@@ -10,6 +10,7 @@ confidence  = "high"
 importance  = 4
 created     = "2026-09-09"
 tags        = ["person", "rick-frank", "family", "father"]
+
 +++
 
 ## Summary

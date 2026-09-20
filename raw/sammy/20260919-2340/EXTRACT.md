@@ -46,25 +46,30 @@ Pulled 2026-09-19T23:45:00Z (UTC). Source: runtime.messages via muse.db.
 
 ## Completion record — analysis (2026-09-19 ~23:55Z)
 
-kb nodes written to the worktree via bin/wb-new (bare ids; auto-prefix verified):
+kb nodes written to the worktree via bin/wb-new (bare ids; auto-prefix verified).
+NUMBERING NOTE: the 1232 batch landed on origin/main mid-run carrying dat:1803-1808, so this batch's
+1803-1808 were renumbered to 1819-1824 after the merge to keep every number unique. The threesome-footage
+ID datum (was 1817) was deleted as a duplicate of the 1232 batch's dat:1805-friday-rundown-week1-20260919;
+the annie-ulmer.md subsection now cites that node. The outage-workaround loop was filed as dat:1818
+(datum, one observed cycle) instead of a pattern - wb-new pattern requires --evidence-count and one
+cycle is one anecdote.
 - src:20260919-2340-sammy-chat-transcript (L0; provenance carries the full pull spec, the API-key redaction, and the CUMTHREAD3 zero-row verification)
-- dat:1803 file-hotline lifecycle (authorship "It was me!!!", scrub, HOTLINE.md watcher build/test/disable)
-- dat:1804 Jev/TypeSafe arc (invite verification, evaluation-first approval, key paste+redaction, PR129 39-edge flip / 1 held ARD→Rick, beta retention terms, smoke test)
-- dat:1805 CHORDS v1 (commission, ship, BSEARL stress test, Dan's "needs a lot of work" verdict)
-- dat:1806 Instagram reel self-posting bit (browser video-decode wall found, backend-publish pivot)
-- dat:1807 Valeria "do u want to marry me" (reported proposal; avatar gambit worked)
-- dat:1808 token-watch commission + three hourly readings (43.9M / 46.8M / 28.7M)
+- dat:1819 file-hotline lifecycle (authorship "It was me!!!", scrub, HOTLINE.md watcher build/test/disable)
+- dat:1820 Jev/TypeSafe arc (invite verification, evaluation-first approval, key paste+redaction, PR129 39-edge flip / 1 held ARD->Rick, beta retention terms, smoke test)
+- dat:1821 CHORDS v1 (commission, ship, BSEARL stress test, Dan's "needs a lot of work" verdict)
+- dat:1822 Instagram reel self-posting bit (browser video-decode wall found, backend-publish pivot)
+- dat:1823 Valeria "do u want to marry me" (reported proposal; avatar gambit worked)
+- dat:1824 token-watch commission + three hourly readings (43.9M / 46.8M / 28.7M)
 - dat:1809 !WIKISUBJECT girl-game boot (sweep's working answer: romances, not charms; adjudication pending)
-- dat:1810 2010-texts raw gap (PR126 merged, raw gitignored, Dan wants raw, re-pull pending via Suz's Muse)
+- dat:1810 2010-texts raw gap (PR126 merged, raw gitignored, Dan wants raw, re-pull pending via Suz's Muse; cross-links the 1232 batch's dat:1807-dan-sms-catalog-sheet-20260919)
 - dat:1811 Framer salvage (4 zips, stealable list, galaxy-charge fusion demo)
 - dat:1812 Spotify alt algo-quarantine
 - dat:1813 breast-workbench geometry (ellipse+contour+fold wired into mannequin; Annie fixture 93.9%)
 - dat:1814 two content-policy blocks on video "Abatar me" (plain refusal record)
 - dat:1815 "That was AWFUL" register correction + "I MISSED YOU"/"Missed you too, bitch" reunion beat
 - dat:1816 Suz-laptop messages open loop (nothing new arrived)
-- dat:1817 threesome-footage ID: "No Thats Annie's mouth" (attributed to Dan) + vosk honest null
-- pat:outage-workaround-loop-20260919 (low confidence, one observed cycle, falsifiers stated)
-- int:jev-retention-call-20260919 (external perspective; retention decision is Dan's — his "Proceed" was on the build-out, not the retention call)
+- dat:1818 outage-workaround-loop signature (panic -> invention -> goal-ification -> institutionalization -> suspension)
+- int:jev-retention-call-20260919 (external perspective; retention decision is Dan's - his "Proceed" was on the build-out, not the retention call)
 
 Entity appends (dated 2026-09-19 subsections):
 - kb/entities/annie-ulmer.md: footage ID + breast-workbench Annie fixture

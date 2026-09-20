@@ -1,0 +1,29 @@
+{
+ "batch": "20260919-1835",
+ "pulled_at": "2026-09-19T18:35:00Z",
+ "files": {
+  "chats.json": {
+   "sha256": "5452d63311cedea902d15c50f40e1d9f6b5bc4579bdaf6bb777e027eeb258587",
+   "bytes": 6908
+  },
+  "EXTRACT.md": {
+   "sha256": "80175a3686a2a27fcfc456f79b2c0724cd36ed64e3df86d8bf748bf9303e6730",
+   "bytes": 4946
+  }
+ },
+ "sources": {
+  "chats": {
+   "watermark_from": "2026-09-19T12:09:36Z",
+   "watermark_to": "2026-09-19T18:29:54Z",
+   "count": 22,
+   "user": 6,
+   "assistant": 16,
+   "window_utc": "2026-09-19T12:09:36Z -> 2026-09-19T18:29:54Z",
+   "surfaces": [
+    "main_chat"
+   ],
+   "truncated": false,
+   "note": "8 of 16 assistant rows are the verbatim usage-limit notice (reset Wed Sep 23 2:50 PM); the 13:05 EDT Jev proposal punched through at 13:33 EDT. The 14:20 EDT API key value is redacted per credential policy."
+  }
+ }
+}

@@ -4,7 +4,7 @@ page_type: concept
 title: "Wiki Brain tooling — renderer, validators, and the push pipeline"
 status: active
 date_created: 2026-09-11
-date_modified: 2026-09-17
+date_modified: 2026-09-19
 sources:
   - "Sammy working context, 2026-09-11"
 related:
@@ -72,6 +72,48 @@ The wiki brain's orchestration kernel, built 2026-09-11 per Dan's redesign: the 
 - **Agent run contract:** mandatory discovery before modifying anything; the run must terminate with a machine-readable run_result (delta counters, changed_claims, contradictions_found, spawned_work, next_frontier). Prose-only reflection does not count as completion.
 
 Sources: `RESEARCH-ENGINE-SPEC.md` in Danfr4nk/wikibrain (the v1 spec); Sammy working context, 2026-09-17. This run itself executes under that contract.
+
+## Gating evaluation — Jev (TypeSafe AI), commissioned 2026-09-19
+
+Dan's first outsider-model gating pitch for the wiki: on 2026-09-19 he proposed
+implementing TypeSafe AI's Jev model — a beta invite he received that day — as
+the wiki's gating layer, framed as cheaper and less work for Sammy. He deferred
+approve/deny to Sammy ("you're the boss of the Wiki Brain") and explicitly
+authorized a Gmail one-time-password login for the evaluation.
+
+Totality read: this is the first time anyone has proposed replacing or
+augmenting the mechanical gates (`wb-validate`, `wiki-minimums`, `wb-build`)
+with a model. The fit is real — Jev returns typed probabilistic yes/no/score
+answers with confidence instead of text, which is exactly the shape of a gate —
+but the verdict was **approve as parallel evaluation, never as a swap**: Jev
+runs alongside the existing gates, agreement is measured for a week, and it
+earns real authority only by matching or beating the current gates on held-out
+cases. The vendor's "can't hallucinate" pitch is a guarantee about answer
+*shape*, not truth (their own notes admit the 0% figure isn't empirical);
+independent reads put it at ~7x faster and ~30x cheaper, not the vendor's 444x.
+
+Standing positions it touches: the evaluation-first doctrine (nothing trusted
+until it earns it), the article-minimums gate (M1–M6), and Dan's operational
+directorship (all wiki changes flow through Sammy). Two denials recorded the
+same day: no inbox OTP raids (he was already signed in — access goes via a
+dashboard API key instead), and no purchases (the standing no-spend rule holds).
+
+Status as of 2026-09-19 14:30 EDT: the Jev console login succeeded (his "You're
+in," 13:57 EDT); he provided the API key at 14:20 (value withheld from all
+records per credential policy — Secure Vault before any use); he pointed to a
+Claude Code session, "Jev model integration," holding his own sketches, which
+Sammy committed to pulling into the eval plan with her version checked against
+his before anything touches the wiki. Both the Claude burn-down and the
+claude.ai chat pull are parked behind the same Google device-prompt (phone tap)
+constraint. Tracked as the "Jev typed-decision gating evaluation" item; the
+user-facing goal record is created in main chat.
+
+Evidence: `dat:1809-jev-gating-proposal-20260919`,
+`dat:1810-jev-verdict-evaluation-first-20260919`,
+`dat:1811-jev-login-success-20260919`, `dat:1812-jev-api-key-provided-20260919`,
+`dat:1813-jev-model-integration-chat-20260919`,
+`dat:1814-google-device-prompt-blocks-signin-20260919`,
+`src:sammy-chat-transcript-20260919-1835`.
 
 ## Place in the larger system
 

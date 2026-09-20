@@ -14,11 +14,6 @@ rechecked  = "2026-09-10"
 start  = "2024-08"
 end    = "2024-08"
 
-[[edges]]
-rel         = "about"
-target      = "ent:dan"
-strength    = "strong"
-asserted_by = "external"
 +++
 
 ## What happened

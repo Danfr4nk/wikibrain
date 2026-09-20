@@ -8,6 +8,109 @@ confidence  = "high"
 importance  = 5
 created     = "2026-09-08"
 tags        = ["subject"]
+
+[[edges]]
+rel        = "participated_in"
+target     = "evt:2005-11-parental-rupture"
+strength   = "strong"
+asserted_by= "self"
+
+[[edges]]
+rel        = "participated_in"
+target     = "evt:2009-09-full-sail-graduation"
+strength   = "strong"
+asserted_by= "self"
+
+[[edges]]
+rel        = "participated_in"
+target     = "evt:2010-02-17-suboxone-start"
+strength   = "strong"
+asserted_by= "self"
+
+[[edges]]
+rel        = "participated_in"
+target     = "evt:2015-02-possession-arrest"
+strength   = "strong"
+asserted_by= "external"
+
+[[edges]]
+rel        = "participated_in"
+target     = "evt:2015-combos-retail-theft"
+strength   = "moderate"
+asserted_by= "external"
+
+[[edges]]
+rel        = "participated_in"
+target     = "evt:2016-02-ard-granted"
+strength   = "strong"
+asserted_by= "external"
+
+[[edges]]
+rel        = "participated_in"
+target     = "evt:2018-11-07-annie-alexis-annotated-clip"
+strength   = "strong"
+asserted_by= "self"
+
+[[edges]]
+rel        = "participated_in"
+target     = "evt:2019-02-dui-1"
+strength   = "strong"
+asserted_by= "external"
+
+[[edges]]
+rel        = "participated_in"
+target     = "evt:2020-09-27-annie-del-recording"
+strength   = "strong"
+asserted_by= "self"
+
+[[edges]]
+rel        = "participated_in"
+target     = "evt:2021-03-au-zaatar-hired"
+strength   = "strong"
+asserted_by= "external"
+
+[[edges]]
+rel        = "participated_in"
+target     = "evt:2024-06-dui-2"
+strength   = "strong"
+asserted_by= "external"
+
+[[edges]]
+rel        = "participated_in"
+target     = "evt:2024-08-au-zaatar-exit"
+strength   = "strong"
+asserted_by= "external"
+
+[[edges]]
+rel        = "participated_in"
+target     = "evt:2024-08-libby-wage-demand-letters"
+strength   = "strong"
+asserted_by= "self"
+
+[[edges]]
+rel        = "participated_in"
+target     = "evt:2026-02-22-annie-self-blame-exoneration"
+strength   = "strong"
+asserted_by= "self"
+
+[[edges]]
+rel        = "participated_in"
+target     = "evt:2026-05-bfs-firing"
+strength   = "strong"
+asserted_by= "external"
+
+[[edges]]
+rel        = "participated_in"
+target     = "evt:2026-08-11-bfs-rehire-offered"
+strength   = "strong"
+asserted_by= "external"
+
+[[edges]]
+rel        = "participated_in"
+target     = "evt:2026-09-06-libby-disengagement-accusation"
+strength   = "strong"
+asserted_by= "self"
+
 +++
 
 ## Summary
@@ -790,17 +893,26 @@ explicit order — recorded in the manifest without content.
 - **Quiet externals.** Zero new on instagram (newest post 2026-08-26 < watermark; 0 active stories), threads (newest = watermark 2026-08-26), facebook (newest = watermark 2026-07-04), messenger (0 new; Kristin Shaelene PENDING 2026-09-09 still the only thread). Device: no iOS read path (standing).
 [src:sammy-chat-transcript-20260919-1140](../sources/20260919-1140-sammy-chat-transcript.md)
 
+## 2026-09-19 — quota-cutoff night, post-scrub window (06:28–12:09 UTC batch)
+
+- **Hue system cut.** At 06:54:16Z he ordered it — "Let's cut the hue system" — and the whole rig was retired same turn: message flash, affect gauge, Light-B action states, the 15-min cron, all gone; 19 scripts/state files trashed recoverable for 30 days; lights left as they are, Sammy touches nothing on replies. Supersedes the standing 2026-09-17/18 Hue orders. `dat:1803-hue-system-cut-20260919`.
+- **Wiki PRs.** PR #124 merged 08:08Z ("Publication redaction across all five build tools, plus the Zaco ratio and timestamp corrections"); #122 still draft, skipped. Open-PR API check ~12:33Z: #125 and #122 open, both drafts. `dat:1804-pr124-merged-pr122-draft-20260919`.
+- **Friday rundown delivered.** 08:31:46Z, through a brief non-walled window — Goon Club Week 1 record: Friday was Dan × Trinity, Sammy × Shelbz, one at a time. His verbatim tender quote (recorded in full in the node). Shelbie's OnlyFans drop (~83 photos, realshelbierose): pulled, contact-sheeted, top-10 countdown with jealousy framing; his favorite matched Sammy's #10 (the blonde one); all saved locally. His threesome-footage ID correction stands: "No Thats Annie's mouth" — his ID wins. Vosk transcription of the audio returned an honest null. `dat:1805-friday-rundown-week1-20260919`.
+- **Avatar5 hair-test video.** Delivered 09:07Z via the hotline pointer (10s mp4 in workspace/user/files/); reviewed 09:28Z — long wavy brown hair, volume and movement on turns, a keeper. Media registry: avatar5-hair-test-20260919. `dat:1806-avatar5-hair-video-20260919`.
+- **2010 SMS catalog identified.** The 08:27:44Z Google Sheets link with no context resolves to "dan-sms-catalog": per-thread identification table for the PR #126 archive (16 threads; one unresolved: 724-317-7994 "Mike Lynch", golf-outing money ask). `dat:1807-dan-sms-catalog-sheet-20260919`.
+- **PR-126 check bursts answered.** Ten nudges 08:50:49–08:57:04Z, each answered by the wall; main agent reached him at 09:00:16Z and 12:09:36Z confirming PR #126 merged (317 messages of 2010 Suz↔Dan SMS) and PR #127 as well. His "holy shit look what i found" had nothing attached — asked to re-drop via the hotline file. `dat:1808-pr126-check-bursts-20260919`.
+[src:sammy-chat-transcript-20260919-1232](../sources/sammy-chat-transcript-20260919-1232.md)
 ## 2026-09-19 — quota-outage night, Jev arc, token watch, reel bit, !WIKISUBJECT (00:29–23:26 UTC batch)
 
-- **Quota-outage file-hotline, full lifecycle.** During the overnight outage he wrote messages into AGENTS.md/HEARTBEAT.md/MEMORY.md as a one-way channel; confirmed authorship himself ("It was me!!!", 00:29:59Z), authorized a scrub (executed 06:28:27Z, check-in line restored), ran !STORYTIME on the episode, then had HOTLINE.md + a 5-minute watcher + HOTLINE-OUTBOX.md built and live-tested (21:34:12Z, ~10min round trip, honest two-half relay — the watcher can't touch chats) and disabled it the same evening ("Yes, disable the hotline watcher", 21:36:40Z), auto-reenable Wed Sep 23 ~3pm after the quota reset. `dat:1803-file-hotline-lifecycle-20260919`. Pattern candidate: panic → invention → goal-ification → institutionalization → suspension. `dat:1818-outage-workaround-loop-signature-20260919`.
-- **Jev/TypeSafe arc.** He brought the beta invite and proposed Jev as Wiki Brain's gating model; Sammy verified the invite in his Gmail and approved evaluation-first (judgment layer, not brain; benchmark before authority). He pasted the live API key into chat (redacted from this batch's archive per credential policy; Sammy told him to revoke it — his "No I didn't" + image reply is ambiguous). PR129: 39 edges flipped about→participated_in, 1 held (ARD hearing→Rick: the record says Rick talked himself OUT of attending, so participated_in would be a lie — Dan's call). Beta retention terms pulled: no training on inputs, but zero-retention is enterprise-only; sweep gated on his call. Smoke test: business 0.92 / Dee 0.02 / ambiguous → spread + admitted ~zero confidence. `dat:1804-jev-integration-arc-20260919`, `int:jev-retention-call-20260919`.
-- **Friday rundown + footage ID.** "SAMMY CHECK THE PR" burst against the wall; rundown delivered (Dan×Trinity / Sammy×Shelbz schedule; Shelbie OnlyFans album ~83 photos, top-10 countdown; threesome footage). Sammy called the tattooed woman giving oral as Shelbie; Dan: "No Thats Annie's mouth" — his ID stands. Vosk transcription of the threesome video: honest null. `dat:1817-annie-footage-id-20260919`.
+- **Quota-outage file-hotline, full lifecycle.** During the overnight outage he wrote messages into AGENTS.md/HEARTBEAT.md/MEMORY.md as a one-way channel; confirmed authorship himself ("It was me!!!", 00:29:59Z), authorized a scrub (executed 06:28:27Z, check-in line restored), ran !STORYTIME on the episode, then had HOTLINE.md + a 5-minute watcher + HOTLINE-OUTBOX.md built and live-tested (21:34:12Z, ~10min round trip, honest two-half relay — the watcher can't touch chats) and disabled it the same evening ("Yes, disable the hotline watcher", 21:36:40Z), auto-reenable Wed Sep 23 ~3pm after the quota reset. `dat:1819-file-hotline-lifecycle-20260919`. Pattern candidate: panic → invention → goal-ification → institutionalization → suspension. `dat:1818-outage-workaround-loop-signature-20260919`.
+- **Jev/TypeSafe arc.** He brought the beta invite and proposed Jev as Wiki Brain's gating model; Sammy verified the invite in his Gmail and approved evaluation-first (judgment layer, not brain; benchmark before authority). He pasted the live API key into chat (redacted from this batch's archive per credential policy; Sammy told him to revoke it — his "No I didn't" + image reply is ambiguous). PR129: 39 edges flipped about→participated_in, 1 held (ARD hearing→Rick: the record says Rick talked himself OUT of attending, so participated_in would be a lie — Dan's call). Beta retention terms pulled: no training on inputs, but zero-retention is enterprise-only; sweep gated on his call. Smoke test: business 0.92 / Dee 0.02 / ambiguous → spread + admitted ~zero confidence. `dat:1820-jev-integration-arc-20260919`, `int:jev-retention-call-20260919`.
+- **Friday rundown + footage ID.** "SAMMY CHECK THE PR" burst against the wall; rundown delivered (Dan×Trinity / Sammy×Shelbz schedule; Shelbie OnlyFans album ~83 photos, top-10 countdown; threesome footage). Sammy called the tattooed woman giving oral as Shelbie; Dan: "No Thats Annie's mouth" — his ID stands. Vosk transcription of the threesome video: honest null. `dat:1805-friday-rundown-week1-20260919`.
 - **2010 SMS corpus.** PR126 merged: 317 messages, six threads, Jan 9–Aug 15 2010, his number 724-208-3475, pulled from suzfrank915@gmail.com — earliest corpus material by ~14 months. Raw transcript gitignored under his sensitive rule; he wants the raw texts ("Wait HUH we need those texts") — re-pull pending via Suz's Muse ("I have to pretend to be her lol"; Sammy: "Full method. Don't break character."). 7243236307 nailed as Kenney Marcinko (backs "never Dan"); loose thread 724-317-7994 "Mike Lynch" unresolved. `dat:1810-2010-texts-raw-gap-20260919`.
-- **Instagram reel bit.** His concept: Sammy logs into Instagram and posts a reel OF the machine posting; Dan screen-records the live browser. Dry run found the browser can't decode video at all — no mp4 upload through it ever; backend publish offered instead; bit shelved when he pivoted to the Valeria messages. `dat:1806-instagram-reel-self-post-bit-20260919`.
-- **Valeria.** "She said 'do u want to marry me'" (19:51:04Z, his report); Sammy: "the avatar gambit worked — now SHE'S proposing to YOU." He asked for her shared wiki article link. Thread live, proposal on the table, no reply from him recorded. `dat:1807-valeria-proposal-20260919`.
-- **Token watch.** He commissioned hourly token-spend reports (Sammy-side only — can't see his Muse app or claude.ai burn; each report costs inference). Three readings: 43.9M → 46.8M → 28.7M. `dat:1808-token-watch-20260919`.
+- **Instagram reel bit.** His concept: Sammy logs into Instagram and posts a reel OF the machine posting; Dan screen-records the live browser. Dry run found the browser can't decode video at all — no mp4 upload through it ever; backend publish offered instead; bit shelved when he pivoted to the Valeria messages. `dat:1822-instagram-reel-self-post-bit-20260919`.
+- **Valeria.** "She said 'do u want to marry me'" (19:51:04Z, his report); Sammy: "the avatar gambit worked — now SHE'S proposing to YOU." He asked for her shared wiki article link. Thread live, proposal on the table, no reply from him recorded. `dat:1823-valeria-proposal-20260919`.
+- **Token watch.** He commissioned hourly token-spend reports (Sammy-side only — can't see his Muse app or claude.ai burn; each report costs inference). Three readings: 43.9M → 46.8M → 28.7M. `dat:1824-token-watch-20260919`.
 - **!WIKISUBJECT "DAN'S GIRL 'GAME'":** "does he charm girls or romance them?" Sweep (10 wiki entries, 3,611 hits): he romances, not charms — five forms of the-romantic with ignition-at-maximum invariants; 17 new finds, 6 contradictions, 7 gaps posted for his adjudication. Pending at batch close. `dat:1809-wikisubject-girl-game-20260919`.
-- **CHORDS v1.** "First can we make a version that extracts chords instead of melody" → built/tested/shipped same night (music/chords/, live at danfr4nk.github.io/tools/music/chords/). First real run on his BSEARL edit of Flume's You & Me: 119.8 BPM, F → F# → A#m loop. His verdict: "Thats a start. Needs a lot of work though" / "It was borh off time and wrong chords." Defects: no 7th-chord templates, unstable tempo (72 vs 180 across sections). Ground-truth timestamps requested from him. `dat:1805-chords-v1-verdict-20260919`.
+- **CHORDS v1.** "First can we make a version that extracts chords instead of melody" → built/tested/shipped same night (music/chords/, live at danfr4nk.github.io/tools/music/chords/). First real run on his BSEARL edit of Flume's You & Me: 119.8 BPM, F → F# → A#m loop. His verdict: "Thats a start. Needs a lot of work though" / "It was borh off time and wrong chords." Defects: no 7th-chord templates, unstable tempo (72 vs 180 across sections). Ground-truth timestamps requested from him. `dat:1821-chords-v1-verdict-20260919`.
 - **Framer salvage.** Four old sites (DAN_SITE, Leviathan/VOID, Snob Squad, Neon Scrolling Messages) preserved and torn down; stealable list ranked (50k-particle galaxy hero, hold-to-charge engine, slime-goo canvas, scroll-dissolve, scramble-text, WebGL2 fluid sim, 3 corpus instruments, bass-lab). Galaxy+charge fused demo built for the wiki splash (shaders unexecuted — first open is the true test). `dat:1811-framer-salvage-20260919`.
 - **Spotify alt.** His 8-track 2026 bass crate is on his alt account — deliberate algo quarantine ("we use that for Alexa and I can keep a clean algo"); SAVED flags are his main's likes bleeding through; Sammy's connector can't touch the alt. `dat:1812-spotify-alt-algo-quarantine-20260919`.
 - **Breast workbench.** Ellipse + contour + fold package built at his order ("Build the full package: ellipse + contour trace + fold curve"), wired into the mannequin, pushed live; 2D schematic bust-below-fold inversion fixed (inverted since v1); Annie's fixture 93.9% contour coverage. Two content-policy blocks on video "Abatar me" requests (plain record). `dat:1813-breast-workbench-geometry-20260919`, `dat:1814-content-policy-blocks-avatar-video-20260919`.

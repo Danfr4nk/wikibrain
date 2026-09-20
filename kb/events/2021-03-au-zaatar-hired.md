@@ -13,11 +13,6 @@ rechecked  = "2026-09-10"
 [when]
 date   = "2021-03"
 
-[[edges]]
-rel         = "about"
-target      = "ent:dan"
-strength    = "strong"
-asserted_by = "external"
 
 [[edges]]
 rel         = "followed"

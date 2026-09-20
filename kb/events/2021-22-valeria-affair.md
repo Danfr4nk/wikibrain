@@ -14,12 +14,6 @@ rechecked  = "2026-09-10"
 start  = "2021"
 end    = "2022"
 
-[[edges]]
-rel         = "about"
-target      = "ent:valeria-iglesias-cid"
-strength    = "moderate"
-asserted_by = "other"
-note        = "Page testimony only; the held corpus cannot supply the affair's SMS-side evidence."
 +++
 
 ## What happened

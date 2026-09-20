@@ -1,5 +1,5 @@
 +++
-id         = "dat:1804-jev-integration-arc-20260919"
+id         = "dat:1820-jev-integration-arc-20260919"
 layer      = 1
 type       = "datum"
 title      = "Jev/TypeSafe arc 2026-09-19: beta invite, evaluation-first approval, key paste, 39-edge cleanup, retention terms"

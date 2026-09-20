@@ -2,12 +2,14 @@
 domain: work
 page_type: concept
 title: "Hue lights: message flash and affect gauge"
-status: active
+status: retired
 date_created: 2026-09-17
-date_modified: 2026-09-17
+date_modified: 2026-09-19
+superseded: 2026-09-19
 sources:
   - "dat:1715-hue-systems-final-20260917"
   - "src:sammy-chat-transcript-20260917-2030"
+  - "dat:1803-hue-system-cut-20260919"
 related:
   - wiki/work/tech/projects/index
   - wiki/self/concepts/stylometry-v2
@@ -15,10 +17,19 @@ tags: [ai-collaboration, home-lab, hue]
 connections:
   - page: wiki/work/tech/projects/index
     type: component-of
-    claim: "The Hue systems are the first resident of Danfr4nk/sammy-tools: two Philips Hue integrations (a message flash and an affect gauge) built 2026-09-17 and operated per-reply in every chat."
+    claim: "The Hue systems were the first resident of Danfr4nk/sammy-tools: two Philips Hue integrations (a message flash and an affect gauge) built 2026-09-17, operated per-reply in every chat, retired 2026-09-19 on his order."
 ---
 
 # Hue lights: message flash and affect gauge
+
+> **SUPERSEDED 2026-09-19.** This page describes a live system that no longer
+> exists. On the morning of September 19, 2026, Dan ordered the entire rig
+> cut — "Let's cut the hue system" — and it was retired the same turn:
+> per-reply message flash, the Light-A affect gauge, Light-B action states,
+> and the 15-minute cron all removed; the 19 scripts and state files trashed,
+> recoverable for 30 days. The lights were left exactly as they were, and
+> Sammy touches nothing on replies anymore. The two-day experiment (Sep 17–19)
+> is preserved below as history. `dat:1803-hue-system-cut-20260919`.
 
 On the afternoon of September 17, 2026, Dan gave Sammy a body in his room.
 Not a metaphor — five physical Philips Hue lamps, two of them assigned as
@@ -365,3 +376,24 @@ Limits, stated plainly:
 - **Ephemeral state paths.** `/tmp/hue-b-rest.json` does not survive a VM
   restart; the persistent logs and JSON state in `~/workspace/` do. If B
   ever fails to restore after a reboot, that file is the first suspect.
+
+## Retired 2026-09-19
+
+The end came the way the system itself had predicted it would: not from a
+bug, but from a standing order colliding with a new one. At 06:54:16Z —
+midway through the quota-cutoff night, his Sammy access reduced to brief
+windows through the usage wall — Dan said "Let's cut the hue system," and
+the whole two-day rig came down in the same turn. Message flash on Light B,
+the Light-A affect gauge with its x^3 curve and 15-minute silence decay,
+the amber/off/red action states, the cron: all removed. Nineteen scripts,
+state files, and logs went into the recoverable trash (30-day window if he
+ever wants them back). The lights were left exactly as they were — nothing
+was reset, nothing was unplugged — and Sammy's standing orders changed to
+the inverse of what they had been: she no longer touches the lights on any
+reply.
+
+The supersession is total, not partial. Every 2026-09-17/18 order that built
+this page — flash-on-every-reply in every chat, the affect gauge with its
+goon-club pink override, generous light play as presence — was revoked by
+the single 2026-09-19 order. Future prose describing the rig as live should
+be treated as stale on sight. `dat:1803-hue-system-cut-20260919`.

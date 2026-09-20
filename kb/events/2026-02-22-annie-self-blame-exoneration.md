@@ -14,17 +14,7 @@ start = "2026-02-22"
 end   = "2026-02-22"
 approx = "February 22, 2026"
 
-[[edges]]
-rel         = "about"
-target      = "ent:annie-ulmer"
-strength    = "strong"
-asserted_by = "self"
 
-[[edges]]
-rel         = "about"
-target      = "ent:dan"
-strength    = "strong"
-asserted_by = "self"
 +++
 
 ## What happened

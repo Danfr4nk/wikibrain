@@ -363,6 +363,26 @@ def check_edges(nodes: dict[str, dict]) -> tuple[list[str], list[str], dict]:
             if not strength or not edge.get("asserted_by"):
                 unaudited.append(at)
 
+            # A System One model returns a typed value with a calibrated
+            # probability. Recording the value and dropping the number keeps
+            # strictly less than the machine said, and spells a machine
+            # judgement identically to a human one. The schema declares the
+            # field; this is what makes it load-bearing.
+            asserted_by = edge.get("asserted_by")
+            confidence = edge.get("confidence")
+            if asserted_by == "system_one" and confidence is None:
+                errors.append(f"{at}: asserted_by 'system_one' without `confidence` — "
+                              f"a machine judgement must carry the number it came with")
+            if confidence is not None:
+                if not isinstance(confidence, (int, float)) or isinstance(confidence, bool):
+                    errors.append(f"{at}: `confidence` must be a number, got {confidence!r}")
+                elif not 0.0 <= float(confidence) <= 1.0:
+                    errors.append(f"{at}: `confidence` {confidence} is outside 0..1")
+                elif asserted_by in ("self", "external"):
+                    warnings.append(f"{at}: `confidence` on an edge asserted by "
+                                    f"{asserted_by!r} — the field records a machine's "
+                                    f"calibration; a person's certainty is `strength`")
+
             # Edges are temporal, so they can be temporally impossible.
             edge_low, edge_high = span(edge.get("when"))
             if edge_low or edge_high:

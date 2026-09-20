@@ -17,11 +17,6 @@ approx = "on or shortly before 17 February 2015"
 start  = "2015-02"
 end    = "2016-02"
 
-[[edges]]
-rel         = "about"
-target      = "ent:dan"
-strength    = "strong"
-asserted_by = "external"
 
 [[edges]]
 rel         = "preceded"

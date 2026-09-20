@@ -1,5 +1,5 @@
 +++
-id         = "dat:1803-file-hotline-lifecycle-20260919"
+id         = "dat:1819-file-hotline-lifecycle-20260919"
 layer      = 1
 type       = "datum"
 title      = "File-hotline lifecycle 2026-09-19: planted notes confirmed his, scrubbed, HOTLINE.md watcher built, tested, disabled"

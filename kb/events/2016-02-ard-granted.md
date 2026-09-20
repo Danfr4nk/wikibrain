@@ -12,11 +12,6 @@ created    = "2026-09-10"
 [when]
 date   = "2016-02-17"
 
-[[edges]]
-rel         = "about"
-target      = "ent:dan"
-strength    = "strong"
-asserted_by = "external"
 
 [[edges]]
 rel         = "about"

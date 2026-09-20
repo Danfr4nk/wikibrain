@@ -1,10 +1,10 @@
 ---
 domain: work
 page_type: concept
-title: "hook2piano + MELODY — the harmonic-analysis wing of the builder wave"
+title: "hook2piano — the harmonic-analysis wing of the builder wave"
 status: active
 date_created: 2026-09-11
-date_modified: 2026-09-18
+date_modified: 2026-09-19
 sources:
   - "Sammy working context, 2026-09-11 (MEMORY.md)"
   - "dat:1580-tools-repo-consolidation-20260915"
@@ -16,6 +16,7 @@ sources:
   - "dat:1753-minimalism-tripwire-20260916"
 related:
   - wiki/work/tech/projects/index
+  - wiki/work/tech/projects/melody
   - wiki/work/tech/projects/musictrainer-autopsy
   - wiki/interests/music/overview
 tags: [ai-collaboration, music-production]
@@ -263,89 +264,18 @@ zero-dependency pure-SVG piano rolls replacing VexFlow (~2MB out), and MELODY's 
 
 ## MELODY: the audio-input sibling
 
-Commissioned the same day, 2026-09-16, at Dan's request: a tool that "recreates the
-melody of an uploaded song — finds the notes — puts them on a piano roll." He picked
-"full finished song" over clean stem — the harder problem, the one that matches his
-actual use. MELODY is the audio-input mirror of hook2piano's tab-input pipeline: same
-piano-roll output stage, different extraction front end. It lives in the music category
-at `danfr4nk.github.io/tools/music/melody/`. (dat:1662-melody-tool-commissioned-20260916)
-
-The DSP core (`melody.js`, pure JS, zero dependencies) is worth describing because it is
-the most ambitious signal processing in his tool collection: downsample to 22050Hz, 2048
-Hann window / 1024 hop, FFT magnitude, per-frame pitch salience over MIDI 36–96 via
-harmonic summation with lead-band emphasis, an "explaining away" penalty (lower candidates
-penalized by stronger harmonically-related higher candidates — kills bass-steals-melody),
-a single octave-down check, adaptive voicing, median smoothing, plus equal-loudness-ish
-spectral weighting that crushes kick-drum pitch sweeps.
-
-v1 shipped the same day and was verified 12/12 on a synthetic mix — a 7.5s WAV with a
-12-note lead (60 62 64 67 69 67 64 62 60 64 67 72) over bass, kick, and hats, with the
-production `extractMelody` run in Node on the decoded bytes returning the exact sequence.
-A playhead-follow crash was fixed during verification. The honest gap was recorded rather
-than worked around: automation cannot drive the native file picker, so the drop zone is a
-native `<input>` (better on iPhone anyway) — and the one surface that remains unverified
-is the literal file-picker click in a real browser; everything downstream of it is
-verified on real bytes. The piano-roll canvas supports scroll/zoom, tap-a-note to
-audition, tap-empty to seek, playhead follow; transport plays the extracted melody on a
-triangle synth with optional original audio underneath for A/B; export is a real `.mid`
-file plus notes JSON.
-
-Analysis speed was measured: ~24ms for 4.3s of audio (~6ms per audio-second) on desktop,
-so a 3-minute song analyzes in ~1s on desktop and single-digit seconds on iPhone —
-decoding dominates the wait, not the DSP.
-
-Dan owes the real-song test, and the terms are his own: "tell me where it grabs the
-wrong line — that's the data v2 needs."
-
-### MELODY v2: the iteration before first contact
-
-Before ever trying v1 himself, Dan ordered: "i didn't even try it yet but go ahead and
-run a full iteration of whatever improvements you can make." A 7-case adversarial
-regression suite was built (`test-melody3.mjs`, in-memory synthesis, no files written):
-heavy vibrato, legato portamento, drum-break silence, octave jumps, quiet lead vs loud
-pad, an 8-note walking-bass regression, and a lead-octave-over-bass regression. Final v2
-score: **6/7**. Heavy vibrato, portamento, drum-break silence, octave jumps, and both
-regression cases pass; the quiet-lead-vs-loud-pad case fails 0/4 (the pad's pitch 60
-intrudes into the extracted notes). The v1 baseline on the same suite: vibrato fail,
-pad case 1/4 — v2 is ahead on balance, but the pad case regressed from 1/4 to 0/4, and
-the regression is named rather than hidden.
-
-Two findings are load-bearing. First, the **pitch-from-smoothed / voicing-from-raw**
-split: pass 1 stores per-frame penalized salience plus per-candidate harmonic-energy
-fractions; pass 2 decides pitch from salience mean-averaged ±2 frames (232ms ≈ 1.3 cycles
-of 5.5Hz vibrato) *before* argmax, while voicing/confidence use raw per-frame salience —
-smoothing the voicing decision voiced phantom notes off borrowed neighbor energy (a gap
-frame voiced at f0=62.73; an earlier two-pass ±2 produced phantom 61/68 semitones).
-Second: **mean, not median, collapses vibrato.** With a 93ms window each frame sees half
-a vibrato cycle, so per-frame estimates are bimodal — dwelling at the vibrato extremes
-(observed 63.3↔64.4 on an E4) — and averaging the salience *distributions* with a mean
-recovers a symmetric peak at the vibrato center, where a median just votes for one
-extreme. (Median±1 failed the vibrato case; mean±1 passes it. The operator was the
-variable, not the window width.)
-
-The T5 regression is diagnosed but unsolved, and the diagnosis is in the record: the
-median is robust to pad interference (it rejects the pad's salience spikes from drum
-transients) while the mean gets pulled by them — which makes the open problem crisp for
-the next iteration, with harmonicity-weighted mean as an untested candidate. Other v2
-work: hysteresis note segmentation (0.6-semitone deadband, 2-frame confirmation ~92ms,
-backdated cuts, note pitch as running mean), a harmonicity voicing gate (the winner's
-harmonic bins must explain a share of the frame spectrum; self-calibrating at 0.35× the
-median of confident frames, clamped 0.08–0.28, with strong salience >0.6× p95 overriding
-— kills snare/hat phantom notes), octave disambiguation by spectral evidence, parabolic
-interpolation of the salience peak for sub-semitone f0. Rejected and recorded: gap-closing
-(real gaps must break notes or staccato dies); designed but unimplemented: pitch-aware gap
-healing.
-
-Also recorded: a measurement trap — the suite's 0.12s overlap filter hid a 93ms
-63-intruder inside T1's passing result, so a passing suite line can hide sub-threshold
-artifacts; and the snare was a red herring for T1 — frame dumps showed all frames voiced,
-so the fault was pitch oscillation, not voicing holes. Diagnose pitch and voicing
-separately before fixing.
-
-As of the 2026-09-16 record, v2 was local-only — uncommitted, unpushed; the live site
-still served v1. The standing ask stands: feed it a real song and report where it grabs
-the wrong line. (dat:1752-melody-v2-iteration-20260916)
-
+MELODY is the audio-input mirror of hook2piano's tab-input pipeline — feed it a
+finished song and it pulls the lead melody out of the mix onto a piano roll, live
+at `danfr4nk.github.io/tools/music/melody/`. Commissioned 2026-09-16 with the
+one-sentence spec "recreates the melody of an uploaded song — finds the notes —
+puts them on a piano roll," v1 shipped and verified 12/12 the same day, and the v2
+iteration (7-case adversarial suite, 6/7, the quiet-lead-vs-loud-pad case unsolved
+and named) outgrew this subsection. The full story — the DSP core, the
+pitch-from-smoothed / voicing-from-raw split, mean-not-median vibrato collapse, the
+measurement traps, and the standing real-song ask — now lives in its own entry:
+[[wiki/work/tech/projects/melody]].
+(dat:1662-melody-tool-commissioned-20260916,
+dat:1752-melody-v2-iteration-20260916)
 ## Place in the larger system
 
 hook2piano and MELODY are the **music-production wing of the 2026 builder wave**. The

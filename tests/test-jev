@@ -1,0 +1,390 @@
+#!/usr/bin/env python3
+"""Checks on bin/wb-jev — the System One edge-typing client.
+
+Every check here runs OFFLINE. No key, no network, no billed call. That is the
+point: the parts worth testing are the ones that decide what gets sent and what
+gets believed, and both are pure functions over `schema/edges.json` and a
+recorded response. The transport is the part that cannot be tested without the
+live API, and it is deliberately the thinnest layer in the tool.
+
+The recorded response below is a REAL capture from the live API (2026-09-19,
+jev-1.13.0), stitched from three probe calls made with synthetic state — no
+kb/ content was sent to obtain it. It is kept verbatim because the published
+documentation disagrees with it in two places that both produce a bare HTTP
+400: `type` is lowercase, and `criteria` is an object for a choice and an
+array for a score. If the wire format moves again, these are what fail first.
+
+Usage:  tests/test-jev
+"""
+
+from __future__ import annotations
+
+import json
+import pathlib
+import sys
+
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / "bin"))
+from importlib.machinery import SourceFileLoader
+
+jev = SourceFileLoader("wb_jev", str(ROOT / "bin" / "wb-jev")).load_module()
+
+passed = failed = 0
+
+
+def _capture(fn):
+    try:
+        fn()
+    except Exception as exc:
+        return exc
+    return None
+
+
+def _raises(fn) -> bool:
+    try:
+        fn()
+    except jev.JevError:
+        return True
+    except Exception:
+        return False
+    return False
+
+
+def check(name: str, ok: bool, detail: str = "") -> None:
+    global passed, failed
+    if ok:
+        passed += 1
+        print(f"  pass  {name}")
+    else:
+        failed += 1
+        print(f"  FAIL  {name}")
+        if detail:
+            print(f"        {detail}")
+
+
+# Captured from jev-1.13.0 on 2026-09-19. Field-for-field as returned:
+# note `type` echoed inside each answer, `legend` on a score, score
+# probabilities keyed by level index as STRINGS, and `usage` at top level.
+RECORDED = {
+    "model": "jev-1.13.0",
+    "answers": {
+        "relation_exists": {"type": "noul", "noul": 0.85},
+        "direction": {"type": "choice", "choice": "a_to_b",
+                      "confidence": 0.62,
+                      "probabilities": {"a_to_b": 0.81, "b_to_a": 0.19}},
+        "family": {"type": "choice", "choice": "causal",
+                   "confidence": 0.41,
+                   "probabilities": {"causal": 0.70, "temporal": 0.30}},
+        # A near-tie: confidence 0.07 on a 0.53/0.47 split. Confidence
+        # measures how PEAKED the distribution is, not the winner's
+        # probability — the two must never be conflated by a threshold.
+        "rel": {"type": "choice", "choice": "preceded",
+                "confidence": 0.07,
+                "probabilities": {"caused": 0.47, "preceded": 0.53}},
+        "strength": {"type": "score", "score": 2.47, "confidence": 0.47,
+                     "legend": {"0": "Tentative", "1": "Weak",
+                                "2": "Moderate", "3": "Strong"},
+                     "probabilities": {"0": 0.03, "1": 0.12,
+                                       "2": 0.19, "3": 0.66}},
+        "basis": {"type": "choice", "choice": "inferred",
+                  "confidence": 0.55,
+                  "probabilities": {"inferred": 0.80, "stated": 0.20}},
+    },
+    "usage": {"input_tokens": 334, "output_tokens": 36},
+}
+
+
+def main() -> int:
+    spec = jev.load_spec()
+    rels = jev.relations(spec)
+    canon = jev.canonical_relations(spec)
+
+    # ---- the vocabulary gate -------------------------------------------
+    check("the vocabulary gate passes on the committed schema",
+          jev.check_enums(spec) == [],
+          "; ".join(jev.check_enums(spec)))
+
+    broken = json.loads(json.dumps(spec))
+    broken["definitions"].pop(rels[0])
+    check("a relation with no definition fails the gate",
+          any("no definition" in e for e in jev.check_enums(broken)))
+
+    broken = json.loads(json.dumps(spec))
+    broken["families"]["temporal"]["relations"].append("invented_relation")
+    check("a relation added without a definition fails the gate",
+          jev.check_enums(broken) != [])
+
+    broken = json.loads(json.dumps(spec))
+    broken["strength"] = ["strong", "moderate", "weak"]
+    check("dropping a strength level fails the gate",
+          any("strength" in e for e in jev.check_enums(broken)))
+
+    # ---- inverses are never offered as a choice ------------------------
+    derived = set(spec["inverses"].values())
+    q = jev.build_questions(spec)
+    offered = set(q["rel"]["criteria"])
+    check("derived inverses are not offered as choices",
+          not (offered & derived),
+          f"offered: {sorted(offered & derived)}")
+    check("every canonical relation is offered",
+          offered == set(canon),
+          f"missing: {sorted(set(canon) - offered)}")
+    check("the choice set is inside Jev's 255-option ceiling", len(offered) <= 255)
+
+    # ---- question shape ------------------------------------------------
+    check("six questions are asked", len(q) == 6, f"got {sorted(q)}")
+    check("asserted_by is never asked", "asserted_by" not in q)
+    check("strength is a score, not a choice", q["strength"]["type"] == "score")
+    check("strength levels run low to high",
+          q["strength"]["criteria"][0].lower().startswith("tentative")
+          and q["strength"]["criteria"][-1].lower().startswith("strong"))
+    check("relation_exists is a noul", q["relation_exists"]["type"] == "noul")
+    # Both of these were wrong in every published write-up and produce a bare
+    # HTTP 400. Pinned against the live API rather than the documentation.
+    check("question types are lowercase",
+          {v["type"] for v in q.values()} <= {"noul", "choice", "score"},
+          str(sorted({v["type"] for v in q.values()})))
+    check("choice criteria are an object (the API refuses a list)",
+          all(isinstance(v["criteria"], dict)
+              for v in q.values() if v["type"] == "choice"))
+    check("score criteria are an array (the API refuses an object)",
+          all(isinstance(v["criteria"], list)
+              for v in q.values() if v["type"] == "score"))
+
+    # ---- answer parsing ------------------------------------------------
+    parsed = jev.parse_answers(RECORDED)
+    check("a Noul parses to its probability",
+          parsed["relation_exists"]["probability"] == 0.85)
+    check("a Choice keeps the full distribution",
+          parsed["rel"]["probabilities"]["caused"] == 0.47)
+    check("a Score floors rather than rounds",
+          parsed["strength"]["value"] == "moderate",
+          f"got {parsed['strength']['value']!r} from 2.47 — 2.47 must NOT become 'strong'")
+    check("a Score keeps the raw between-levels position",
+          parsed["strength"]["raw"] == 2.47 and parsed["strength"]["between_levels"])
+    check("a Score keeps the legend the API returned",
+          parsed["strength"]["legend"]["3"] == "Strong")
+    check("confidence is kept distinct from the winner's probability",
+          parsed["rel"]["confidence"] == 0.07 and parsed["rel"]["probability"] == 0.53,
+          "a near-tie has high winner-probability and LOW confidence; "
+          "a threshold that conflates them is wrong")
+    check("a Score landing on a level is not flagged as between",
+          not jev.parse_answers(
+              {"answers": {"strength": {"score": 3.0}}})["strength"]["between_levels"])
+    check("an unrecognised answer shape is kept, not dropped",
+          jev.parse_answers({"answers": {"x": {"weird": 1}}})["x"]["unparsed"] == {"weird": 1})
+
+    # ---- proposal assembly ---------------------------------------------
+    prop = jev.to_proposal("evt:a", "evt:b", parsed, spec)
+    check("direction a_to_b keeps the first node as source",
+          prop["source"] == "evt:a" and prop["edge"]["target"] == "evt:b")
+    check("asserted_by is set to system_one by construction",
+          prop["edge"]["asserted_by"] == "system_one")
+    check("the family is taken from the vocabulary, not the model",
+          prop["family"] == "temporal",
+          "rel=preceded is temporal; the model's own `family` answer said causal "
+          "and must not override the vocabulary")
+
+    flipped = json.loads(json.dumps(parsed))
+    flipped["direction"]["value"] = "b_to_a"
+    prop_b = jev.to_proposal("evt:a", "evt:b", flipped, spec)
+    check("direction b_to_a swaps source and target",
+          prop_b["source"] == "evt:b" and prop_b["edge"]["target"] == "evt:a")
+
+    # ---- the guards ----------------------------------------------------
+    bad = json.loads(json.dumps(parsed))
+    bad["basis"]["value"] = "speculative"
+    bad["strength"]["value"] = "strong"
+    check("speculative basis with strong strength is flagged, not repaired",
+          any("speculative" in c for c in jev.to_proposal("evt:a", "evt:b", bad, spec)["conflicts"])
+          and jev.to_proposal("evt:a", "evt:b", bad, spec)["edge"]["strength"] == "strong",
+          "the conflict must survive into the proposal rather than be silently clamped")
+
+    # The capture IS a disagreement: rel=preceded (temporal) with family=causal.
+    check("a family/rel disagreement is recorded",
+          any("family question" in c for c in prop["conflicts"]),
+          str(prop["conflicts"]))
+
+    agreed = json.loads(json.dumps(parsed))
+    agreed["family"]["value"] = "temporal"
+    check("a coherent answer set carries no conflicts",
+          jev.to_proposal("evt:a", "evt:b", agreed, spec)["conflicts"] == [],
+          str(jev.to_proposal("evt:a", "evt:b", agreed, spec)["conflicts"]))
+
+    # ---- canonicalisation ----------------------------------------------
+    check("a derived relation is rewritten to its canonical direction",
+          jev.canonicalise(spec, "evt:a", "followed", "evt:b") == ("evt:b", "preceded", "evt:a"))
+    check("a canonical relation is left alone",
+          jev.canonicalise(spec, "evt:a", "preceded", "evt:b") == ("evt:a", "preceded", "evt:b"))
+    check("a relation with no inverse is left alone",
+          jev.canonicalise(spec, "evt:a", "about", "evt:b") == ("evt:a", "about", "evt:b"))
+    for canonical, inverse in spec["inverses"].items():
+        src, rel, tgt = jev.canonicalise(spec, "x", inverse, "y")
+        if rel != canonical or (src, tgt) != ("y", "x"):
+            check(f"canonicalising {inverse!r} yields {canonical!r}", False,
+                  f"got {src} --{rel}--> {tgt}")
+            break
+    else:
+        check("every declared inverse canonicalises to its pair", True)
+
+    # ---- the swap check ------------------------------------------------
+    # Direction is the one answer where a confident error is invisible: an
+    # inverted edge reads as a plausible claim. A stub client stands in for
+    # the API so the logic is exercised without a billed call.
+    class _Stub:
+        """Returns a fixed answer set, optionally inverting on the second call."""
+        def __init__(self, flip_second):
+            self.flip_second, self.n, self.input_tokens = flip_second, 0, 0
+            self.dir_calls = 0
+
+        def systemone(self, state, questions):
+            # Two-stage: stage one has no `direction`, stage two has only
+            # `direction` and `strength`. The stub answers whatever is asked.
+            self.n += 1
+            out = json.loads(json.dumps(RECORDED))
+            out["answers"] = {k: v for k, v in out["answers"].items()
+                              if k in questions}
+            if "direction" in out["answers"]:
+                self.dir_calls += 1
+                if self.dir_calls == 2:
+                    out["answers"]["direction"]["choice"] = (
+                        "a_to_b" if self.flip_second else "b_to_a")
+            return out
+
+    fake = {"evt:a": {"id": "evt:a", "title": "A", "_body": "a"},
+            "evt:b": {"id": "evt:b", "title": "B", "_body": "b"}}
+
+    # Stable: forward says a_to_b, reversed (b,a) says b_to_a -> same edge.
+    stable = jev._ask_both_ways(_Stub(False), fake, "evt:a", "evt:b", spec, q)
+    check("a direction stable under swap is marked verified",
+          stable["direction_verified"] and not any(
+              "direction not stable" in c for c in stable["conflicts"]),
+          str(stable["conflicts"]))
+    check("the swap check records the reversed run",
+          stable["swapped_run"]["source"] == "evt:a")
+
+    # Unstable: both runs name their own first node as source.
+    unstable = jev._ask_both_ways(_Stub(True), fake, "evt:a", "evt:b", spec, q)
+    check("a direction that flips under swap is flagged",
+          not unstable["direction_verified"] and any(
+              "direction not stable" in c for c in unstable["conflicts"]),
+          str(unstable["conflicts"]))
+    counted = _Stub(False)
+    jev._ask_both_ways(counted, fake, "evt:a", "evt:b", spec, q)
+    # Two-stage means two requests per ask, so the swap check is four. That is
+    # the real price of verifying direction and it should be visible here.
+    check("the swap check costs four calls in two-stage mode",
+          counted.n == 4, f"made {counted.n}")
+    single = _Stub(False)
+    jev._ask(single, fake, "evt:a", "evt:b", spec, q, two_stage=True)
+    check("one two-stage ask costs two calls", single.n == 2, f"made {single.n}")
+    single1 = _Stub(False)
+    jev._ask(single1, fake, "evt:a", "evt:b", spec, q, two_stage=False)
+    check("one one-shot ask costs one call", single1.n == 1, f"made {single1.n}")
+
+    # ---- pair mining ---------------------------------------------------
+    nodes, node_errors = jev.load_nodes(ROOT / "kb")
+    check("kb/ loads without a parse error", not node_errors,
+          "; ".join(node_errors[:3]))
+
+    pairs = jev.mine_pairs(nodes, limit=200)
+    check("pair mining returns candidates", len(pairs) > 0)
+    check("pairs come back highest-scoring first",
+          all(pairs[i]["score"] >= pairs[i + 1]["score"] for i in range(len(pairs) - 1)))
+    check("every pair carries the evidence it was mined from",
+          all(p["evidence"] for p in pairs))
+    check("a pair never names the same node twice",
+          all(p["a"] != p["b"] for p in pairs))
+
+    # The rule the whole tool rests on: never re-propose an edge that exists.
+    existing = set()
+    for nid, node in nodes.items():
+        for edge in node.get("edges") or []:
+            if isinstance(edge, dict) and edge.get("target"):
+                existing.add(frozenset((nid, edge["target"])))
+    allpairs = jev.mine_pairs(nodes, limit=10 ** 9)
+    clash = [p for p in allpairs if frozenset((p["a"], p["b"])) in existing]
+    check("an already-edged pair is never proposed",
+          not clash, f"{len(clash)} already carry an edge, e.g. {clash[:2]}")
+
+    # ---- the sensitive guard -------------------------------------------
+    # bin/wb-build withholds these from every artifact. A built page stays on
+    # a machine Dan controls; a request does not, and TypeSafe states no
+    # retention period. So this must fail closed.
+    sensitive = [n for n in nodes.values() if n.get("sensitive")]
+    check("kb/ still has sensitive-flagged nodes to guard",
+          len(sensitive) > 0, "if this fails the guard below proves nothing")
+    check("a sensitive node is refused on the wire",
+          _raises(lambda: jev.guard_sensitive(sensitive[0])))
+    check("the refusal is a SensitiveNode, catchable on its own",
+          isinstance(_capture(lambda: jev.guard_sensitive(sensitive[0])),
+                     jev.SensitiveNode))
+    check("the refusal names the node it refused",
+          sensitive[0]["id"] in str(_capture(lambda: jev.guard_sensitive(sensitive[0]))))
+    check("a guard over a pair fires if EITHER node is sensitive",
+          _raises(lambda: jev.guard_sensitive(nodes[pairs[0]["a"]], sensitive[0])))
+    check("an ordinary node passes the guard",
+          jev.guard_sensitive(nodes[pairs[0]["a"]]) is None)
+    check("a sensitive node is dropped before mining, not filtered after",
+          not any(nodes[p["a"]].get("sensitive") or nodes[p["b"]].get("sensitive")
+                  for p in jev.mine_pairs(nodes, limit=10 ** 9)))
+    guarded = jev.mine_pairs(nodes, limit=10 ** 9)
+    opened = jev.mine_pairs(nodes, limit=10 ** 9, include_sensitive=True)
+    if len(opened) > len(guarded):
+        check("--include-sensitive mines back exactly the pairs the guard drops",
+              all(nodes[p["a"]].get("sensitive") or nodes[p["b"]].get("sensitive")
+                  for p in opened
+                  if frozenset((p["a"], p["b"]))
+                  not in {frozenset((g["a"], g["b"])) for g in guarded}))
+    else:
+        print("  skip  --include-sensitive mines back the dropped pairs "
+              "(no sensitive node has an evidenced pair right now)")
+
+    # ---- the state handed to the model ---------------------------------
+    a, b = pairs[0]["a"], pairs[0]["b"]
+    state = jev.pair_state(nodes[a], nodes[b], pairs[0]["evidence"])
+    check("state names both nodes", state["a"]["id"] == a and state["b"]["id"] == b)
+    check("state carries no private path or body handle",
+          "_path" not in json.dumps(state) and "_body" not in json.dumps(state))
+    payload = len(json.dumps(state, ensure_ascii=False)) + len(json.dumps(q, ensure_ascii=False))
+    check("a request fits inside the 32k-token state ceiling",
+          payload / 4 < 32000, f"~{payload / 4:,.0f} tokens")
+
+    # ---- nothing here writes to kb/ ------------------------------------
+    # The rule bin/wiki-crosslink sets for the whole repository: a tool
+    # produces candidates and never writes the graph. Asserted by running the
+    # offline subcommands and checking kb/ is byte-identical afterwards, which
+    # is the claim itself rather than a proxy for it.
+    import hashlib
+    import subprocess
+
+    def kb_digest() -> str:
+        h = hashlib.sha256()
+        for p in sorted((ROOT / "kb").rglob("*.md")):
+            h.update(p.read_bytes())
+        return h.hexdigest()
+
+    before = kb_digest()
+    for argv in (["questions"], ["enum-check"], ["pairs", "--limit", "5"]):
+        subprocess.run([sys.executable, str(ROOT / "bin" / "wb-jev")] + argv,
+                       capture_output=True, check=True)
+    check("the offline subcommands leave kb/ byte-identical",
+          kb_digest() == before)
+
+    # The network subcommands are the ones that could regress into writing, so
+    # pin the absence of a write path rather than trusting review.
+    source = (ROOT / "bin" / "wb-jev").read_text()
+    writes = [ln.strip() for ln in source.splitlines()
+              if ".write_text(" in ln or ".open(" in ln]
+    check("no write in wb-jev targets kb/",
+          not any("KB" in w for w in writes),
+          "; ".join(w for w in writes if "KB" in w))
+    check("wb-jev refuses a key it does not have",
+          _raises(lambda: jev.Jev("")))
+
+    print(f"\n{passed} passed, {failed} failed")
+    return 1 if failed else 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

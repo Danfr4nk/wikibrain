@@ -1,5 +1,5 @@
 +++
-id         = "dat:1806-instagram-reel-self-post-bit-20260919"
+id         = "dat:1822-instagram-reel-self-post-bit-20260919"
 layer      = 1
 type       = "datum"
 title      = "Instagram reel self-posting bit 2026-09-19: Dan's concept, browser video-decode wall found"

@@ -14,18 +14,7 @@ start  = "2017-10"
 end    = "2018-04-04"
 approx = "October 2017 (inferred) – April 4, 2018 (documented)"
 
-[[edges]]
-rel         = "about"
-target      = "ent:frances-coldren"
-strength    = "strong"
-asserted_by = "other"
 
-[[edges]]
-rel         = "about"
-target      = "ent:annie-ulmer"
-strength    = "moderate"
-asserted_by = "other"
-note        = "Dan and Annie were the paid caregivers together in 2017–18."
 +++
 
 ## What happened

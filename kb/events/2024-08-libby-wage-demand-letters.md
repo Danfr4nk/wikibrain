@@ -14,17 +14,7 @@ start = "2024-08-01"
 end   = "2024-08-13"
 approx = "August 1–13, 2024"
 
-[[edges]]
-rel         = "about"
-target      = "ent:dan"
-strength    = "strong"
-asserted_by = "self"
 
-[[edges]]
-rel         = "about"
-target      = "ent:annie-ulmer"
-strength    = "strong"
-asserted_by = "self"
 
 [[edges]]
 rel         = "challenges"

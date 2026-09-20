@@ -18,6 +18,21 @@ importance  = 5
 created     = "2026-09-09"
 rechecked   = "2026-09-10"
 tags        = ["person", "suzanne-frank", "family", "mother"]
+
+[[edges]]
+rel        = "participated_in"
+target     = "evt:2015-11-alexis-evicted"
+strength   = "strong"
+asserted_by= "other"
+note       = "Suz brokered and paid for the eviction: cocaine and a car offer on Nov 30."
+
+[[edges]]
+rel        = "participated_in"
+target     = "evt:2024-10-mom-chapter-13"
+strength   = "moderate"
+asserted_by= "other"
+note       = "The filing is hers; the audit-pasting and the pending-case messages are Dan's. Month (October 2024) rests on the operator's record, not on a held docket."
+
 +++
 
 ## Summary

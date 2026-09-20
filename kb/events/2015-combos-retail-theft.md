@@ -16,11 +16,6 @@ approx = "2015, a few weeks after the possession arrest"
 start  = "2015-02"
 end    = "2015-12"
 
-[[edges]]
-rel         = "about"
-target      = "ent:dan"
-strength    = "moderate"
-asserted_by = "external"
 +++
 
 > **UPGRADED 2026-09-09, low → moderate.** Written below on the prior wiki's

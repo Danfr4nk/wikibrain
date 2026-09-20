@@ -12,6 +12,14 @@ importance  = 4
 created     = "2026-09-09"
 rechecked   = "2026-09-10"
 tags        = ["people", "au-zaatar"]
+
+[[edges]]
+rel        = "participated_in"
+target     = "evt:2021-22-valeria-affair"
+strength   = "moderate"
+asserted_by= "other"
+note       = "Page testimony only; the held corpus cannot supply the affair's SMS-side evidence."
+
 +++
 
 <!-- prose for humans; the frontmatter is for machines -->
@@ -77,7 +85,7 @@ bucket; Sammy gave the shared-subdirectory version
 (`danfr4nk.github.io/wikibrain/wiki/share/valeria-iglesias-cid.html`), with
 the password-prompt warning for the non-shared one. Status at batch close:
 thread live, proposal reported, no reply from him recorded.
-[`dat:1807-valeria-proposal-20260919`](../data/1807-valeria-proposal-20260919.md)
+[`dat:1823-valeria-proposal-20260919`](../data/1807-valeria-proposal-20260919.md)
 [`src:20260919-2340-sammy-chat-transcript`](../sources/20260919-2340-sammy-chat-transcript.md)
 
 ## Contradictions and open questions

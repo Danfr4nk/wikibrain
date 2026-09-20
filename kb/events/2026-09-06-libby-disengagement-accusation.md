@@ -14,17 +14,7 @@ start = "2026-09-06"
 end   = "2026-09-06"
 approx = "just after 1 AM EDT, September 6, 2026 (export stores 05:12 UTC)"
 
-[[edges]]
-rel         = "about"
-target      = "ent:annie-ulmer"
-strength    = "strong"
-asserted_by = "self"
 
-[[edges]]
-rel         = "about"
-target      = "ent:dan"
-strength    = "strong"
-asserted_by = "self"
 
 [[edges]]
 rel         = "contradicted"

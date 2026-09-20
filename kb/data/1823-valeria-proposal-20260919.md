@@ -1,5 +1,5 @@
 +++
-id         = "dat:1807-valeria-proposal-20260919"
+id         = "dat:1823-valeria-proposal-20260919"
 layer      = 1
 type       = "datum"
 title      = "Valeria 'do u want to marry me' 2026-09-19: avatar gambit worked, proposal on the table"

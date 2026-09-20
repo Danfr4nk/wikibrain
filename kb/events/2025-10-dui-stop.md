@@ -12,12 +12,6 @@ created    = "2026-09-09"
 [when]
 date   = "2025-10-26"
 
-[[edges]]
-rel         = "about"
-target      = "ent:annie-ulmer"
-strength    = "moderate"
-asserted_by = "other"
-note        = "The docket names Anne Louise Ulmer; the stop is filed as hers, with an attribution wrinkle carried in open questions."
 
 [[edges]]
 rel         = "preceded"

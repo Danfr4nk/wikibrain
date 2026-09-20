@@ -12,11 +12,6 @@ tags       = ["meta", "architecture", "privacy", "retrieval"]
 [when]
 date = "2026-09-09"
 
-[[edges]]
-rel         = "about"
-target      = "ent:wiki-brain"
-strength    = "strong"
-asserted_by = "self"
 
 [[edges]]
 rel         = "followed"

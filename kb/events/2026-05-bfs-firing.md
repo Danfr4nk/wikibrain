@@ -14,11 +14,6 @@ approx = "Sunday 2026-05-17 (incident shift; reconstructed) through the followin
 start  = "2026-05-10"
 end    = "2026-05-24"
 
-[[edges]]
-rel         = "about"
-target      = "ent:dan"
-strength    = "strong"
-asserted_by = "external"
 
 [[edges]]
 rel         = "followed"
