@@ -5853,6 +5853,19 @@
    "analysis_status": "reviewed-2026-09-19 (frame eyeballed; non-sexual, no censorship needed)",
    "embed": false,
    "kb_node": "dat:1806-avatar5-hair-video-20260919"
+  },
+  {
+   "id": "screenrec-mp3-delivery-20260919",
+   "type": "video",
+   "date": "2026-09-19",
+   "description": "Dan's 26.5s screen recording of the MUSIC side chat: Sammy's BSEARL_FLUME voice-note mp3 delivery ('SoundCloud had it DRM-locked so I ripped the label's YouTube upload instead - same master'), his Spotify alt-playlist share ('Im just starting it / Thats my alt account'), and his iPhone Files-app save attempts (message-card / text files, 7:05-7:06 PM) during the 'How can I download' troubleshooting beat. Procedural evidence of the mp3 delivery working.",
+   "canonical_location": "workspace/user/media_library/video/48/481ae9c29820d3e08ee510ea2c9771243a7ade99f161bdf699a878d41688b511.mp4",
+   "original_filename": "481ae9c29820d3e08ee510ea2c9771243a7ade99f161bdf699a878d41688b511.mp4",
+   "poster_sha256": "481ae9c29820d3e08ee510ea2c9771243a7ade99f161bdf699a878d41688b511",
+   "linked_nodes": [],
+   "analysis_status": "reviewed-2026-09-19 (frames eyeballed; phone screen recording, non-sexual, no censorship needed)",
+   "embed": false,
+   "share_url": null
   }
  ],
  "policy": "Originals are never committed to wikitest or RAWLOGS. This registry maps each item to its canonical location (Google Photos share URL or Drive path). Compressed derivatives for wiki entries live under media/<batch-slug>/ and are referenced from the src:/dat: nodes. Censorship rule (2026-09-12, Dan's directive): embedded derivatives showing nudity or sexual activity are pixelated/blurred before commit. The uncensored original stays at its canonical location and is never committed.",
