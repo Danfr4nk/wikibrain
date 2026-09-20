@@ -320,6 +320,28 @@ load-bearing, the kind of maintenance a real instrument gets.
 - **2026-09-18:** workbench upload-hang (9% stall) fixed; this entry
   expanded to full-article status, bringing the hub's whole component
   family up to the article minimums.
+- **2026-09-19 (night):** the breast-workbench's plausibility-gate fix
+  (commit 8d61af8, live on danfr4nk.github.io the same night). Dan
+  caught the workbench writing "verdict firm" over a total misfire: the
+  areola-first seeder had locked onto her curled hand (finger creases
+  are dark V-minima in skin that cluster like a nipple/areola complex
+  and pass the dV + redness gates), fit the areola ellipse to fingers,
+  and flooded the mound contour onto the window blinds behind her
+  (warm-white blinds pass the YCrCb Cr/Cb skin band). The uncertainty
+  machinery read confident on all of it. His demand, 02:35Z: a
+  plausibility gate — "reject areola candidates up at face height." The
+  fix shipped 02:42Z with three gates: (1) `vetoSeedBlobs` rejects
+  elongated dark cores (bbox aspect > 3:1) and any seed inside an SCRFD
+  face box (the workbench now passes `faces.map(f => f.bbox)` into the
+  measurer); (2) `ycrcbSkin` excludes bright neutrals (V > 215 &&
+  saturation < 0.20), killing the blind-flood class; (3) when every
+  candidate is vetoed the measurer returns null — honest failure — and
+  the cup note discloses the veto count instead of a verdict. Unit
+  coverage lives in `attraction/js/breast-gates.test.js` (6 node:test
+  cases, all green; 24 sculpt tests still green). The delta-push was
+  discipline-checked: a pre-existing `music/chords/chords.js` WIP was
+  stashed out of the push and restored after, so only the workbench fix
+  shipped. (dat:1829)
 
 ## Coverage and limits
 

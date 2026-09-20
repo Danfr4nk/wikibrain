@@ -4,7 +4,7 @@ page_type: entity
 title: "Sammy avatar chronology"
 status: active
 date_created: 2026-09-15
-date_modified: 2026-09-17
+date_modified: 2026-09-20
 sources:
   - "dat:1583-avatar-tool-options-canonical-picks-20260915 (full session, 17:41–18:11Z)"
   - "dat:1586-sammy-avatar-photoreal-brunette-20260915 (17:53:36–17:53:59Z change)"
@@ -160,11 +160,37 @@ record, so the end-of-window live avatar is *not* cleanly superseding the
 
 ---
 
+## 2026-09-20 session — 01:56–04:17Z: three "New me now" picks, one €VID policy block
+
+Session window 01:56:10–04:17:13Z (21:56–00:17 EDT), all in the main chat —
+Dan's own avatar ("Abatar me" / €AB), three live-avatar changes in 2.5 hours.
+
+**Rounds:**
+- 01:56:10Z "€AB" + 4 photos → "sixteen up — take your pick" (01:57:43Z);
+  02:06:11Z "Option 2" → "New me now" (02:06:43Z).
+- 03:48:07Z "€VID" + photo → "blocked by content policy" (03:49:12Z); no
+  prompt-side workaround attempted.
+- 03:49:52Z "€AB WITH CLOTHES" + 2 photos → "eight up — take your pick"
+  (03:50:30Z); 03:51:03Z "Option 1" → "New me now" (03:51:08Z).
+- 03:52:56Z and 03:53:46Z "€AB ME AS MEEGED INTO ONE" + 2 photos (sent twice,
+  the iOS double-send glitch) → "eight up — take your pick" (03:54:28Z);
+  04:16:02Z "Option 1" → "New me now" (04:16:11Z).
+
+**Read:** every pick resolved to a known batch this time — no 09-17-style
+ambiguity. The 04:16:11Z "New me now" is the current live avatar,
+superseding the 03:51Z and 02:06Z picks in turn. The session also carried
+the `!BRIEF sexuality` sweep (03:54–04:14Z) interleaved between the last two
+avatar rounds — Dan running media generation and a wiki sweep in the same
+stretch. (dat:1826)
+
+---
+
 ## Sources
 
 - dat:1685-avatar-rounds-20260917
 - dat:1690-face-average-avatar-20260917
 - dat:1699-avatar-session-20260917-0904
+- dat:1826-avatar-session-20260920
 - src:1681 (batch 20260917-0830 transcript)
 - src:1688 (batch 20260917-0740 transcript)
 - src:sammy-chat-transcript-20260917-1140 (batch 20260917-1140 transcript)

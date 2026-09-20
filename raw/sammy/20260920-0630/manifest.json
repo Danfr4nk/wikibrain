@@ -1,0 +1,32 @@
+{
+ "batch": "20260920-0630",
+ "pulled_at_utc": "2026-09-20T06:31:00Z",
+ "sources": {
+  "chats": {
+   "watermark_from": "2026-09-19T23:26:55.998+00:00",
+   "watermark_to": "2026-09-20T06:08:53.916Z",
+   "rows": 112,
+   "user": 26,
+   "assistant": 86,
+   "usage_limit_notices": 0,
+   "redacted_rows": 0,
+   "truncated_rows": 0,
+   "window_actual": "2026-09-20T00:06:29.148Z -> 2026-09-20T06:08:53.916Z"
+  }
+ },
+ "files": {
+  "chats.json": {
+   "sha256": "17731141170939297e3de71809bca6801ef4e8be8a7abbde9a0429b7e70ea8ef",
+   "bytes": 59751
+  },
+  "manifest.json": {
+   "sha256": "cb6f029c165dff798697e6a5074fdc074fe8f874eaa0c6be62f3538dd481b594",
+   "bytes": 949
+  }
+ },
+ "notes": [
+  "CUMTHREAD3 exclusion: 0 rows from side chat 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853 in window (verified by query).",
+  "system rows excluded (499 cron-handoff/verification/settlement scaffolding rows in window, not Dan's chats).",
+  "Upper bound = last row in window at query time (2026-09-20T06:08:53.916Z); this run's own later rows excluded for determinism (next run picks them up)."
+ ]
+}

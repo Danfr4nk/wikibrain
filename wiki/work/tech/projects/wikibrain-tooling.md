@@ -4,7 +4,7 @@ page_type: concept
 title: "Wiki Brain tooling — renderer, validators, and the push pipeline"
 status: active
 date_created: 2026-09-11
-date_modified: 2026-09-19
+date_modified: 2026-09-20
 sources:
   - "Sammy working context, 2026-09-11"
 related:
@@ -13,7 +13,7 @@ related:
 tags: [ai-collaboration, wiki-infrastructure]
 connections:
   - page: wiki/self/concepts/wiki-brain
-    type: implements
+    type: component-of
     claim: "These are the actual build/deploy tools of the wiki described in the wiki-brain concept entry: the renderer that produced the 509-entry front page, the validators that gate every PR, and the API-only push pipeline."
 ---
 
