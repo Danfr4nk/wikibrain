@@ -17,3 +17,5 @@ date   = "2026-09-19"
 +++
 
 <!-- prose for humans; the frontmatter is for machines -->
+
+<!-- cross-batch note: the 1232 batch (landed on origin/main mid-run) holds the finer-grained login mechanics for the same arc: dat:1809-jev-gating-proposal, dat:1810-jev-verdict-evaluation-first, dat:1811-jev-login-success, dat:1812-jev-api-key-provided, dat:1813-jev-model-integration-chat, dat:1814-google-device-prompt-blocks-signin. This node adds what that batch does not cover: the PR129 pitch read, the 39-edge cleanup with the held ARD→Rick edge, the beta retention terms, and the jev-eval smoke-test scores. -->
