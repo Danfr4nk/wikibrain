@@ -1,0 +1,46 @@
+{
+ "batch": "20260920-1140",
+ "pulled_at": "2026-09-20T11:45:59Z",
+ "watermark_from": {
+  "chats": "2026-09-20T06:08:53.916+00:00"
+ },
+ "watermark_to": {
+  "chats": "2026-09-20T11:40:13.582+00:00"
+ },
+ "counts": {
+  "chats": 8,
+  "user": 0,
+  "assistant": 8,
+  "truncated": 0,
+  "system_excluded": 371,
+  "cumthread3_excluded": 0,
+  "notes": "spotify.json = full now-playing snapshot (11 keys), unchanged PAUSED-ad state"
+ },
+ "external": {
+  "instagram": "0 new (newest own post 2026-08-26 < watermark; 0 active stories)",
+  "threads": "0 new (newest 2026-08-26T23:04:55 = watermark)",
+  "facebook": "0 new (newest 2026-07-04 = watermark)",
+  "messenger": "0 new (sync fresh, 0 new messages)",
+  "spotify": "snapshot only (PAUSED ad in FUNDAMENTAL FLAW crate, unchanged since 2026-09-19T23:47Z)",
+  "device": "standing: no read path",
+  "gmail": "EXCLUDED per 2026-09-11 order"
+ },
+ "files": {
+  "EXTRACT.md": {
+   "sha256": "bf0e2a2b3e9e07d031bb4f797022cedc10300b05fda2d25a629df151ea7c2206",
+   "bytes": 1869
+  },
+  "chats.json": {
+   "sha256": "0d910efea9849219f014131e982c71b78a0b87de606f90848539450f63526e5a",
+   "bytes": 5130
+  },
+  "manifest.json": {
+   "sha256": "1258637ddc63923815e76c23b648c4c14d7b99b659091d12575a80f44a195e66",
+   "bytes": 1049
+  },
+  "spotify.json": {
+   "sha256": "9f7a3647be494b32cdd3e5844630f1633c82982c4227d71b985df8efa2128f78",
+   "bytes": 644
+  }
+ }
+}
