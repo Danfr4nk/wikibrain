@@ -1,0 +1,23 @@
+{
+  "attribution": "Content provided by Spotify",
+  "context": {
+    "name": "FUNDAMENTAL FLAW (AUG / SEP)",
+    "uri": "spotify:playlist:54La6mTnhDzyz94yIhppnO",
+    "url": "https://open.spotify.com/playlist/54La6mTnhDzyz94yIhppnO?si=YGe8xaIxTceAvqqBcXMZ4g"
+  },
+  "item": {
+    "duration_ms": 0,
+    "is_explicit": false,
+    "uri": "spotify:ad:86fcb63a695b43e4890fdd77b2dea3f0",
+    "url": "https://open.spotify.com/ad/86fcb63a695b43e4890fdd77b2dea3f0?si=De3NcJXUTVuaGNaVMjiOpg"
+  },
+  "ok": true,
+  "playback_speed": 0.0,
+  "playback_status": "PAUSED",
+  "progress_ms": 516,
+  "repeat": "FALSE",
+  "shuffle": true,
+  "status": 200,
+  "timestamp_ms": "1789858350231",
+  "snapshot_at_utc": "2026-09-19T23:47:00Z"
+}
