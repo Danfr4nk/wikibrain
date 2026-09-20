@@ -1,0 +1,42 @@
+{
+ "batch": "20260920-1230",
+ "pulled_at": "2026-09-20T12:31:00Z",
+ "watermark_from": {
+  "chats": "2026-09-20T11:40:13.582+00:00"
+ },
+ "watermark_to": {
+  "chats": "2026-09-20T12:31:00.000+00:00"
+ },
+ "counts": {
+  "chats": 3,
+  "user": 0,
+  "assistant": 3,
+  "truncated": 0,
+  "system_excluded": "cron-handoff/verification scaffolding",
+  "cumthread3_excluded": 0,
+  "notes": "Dan asleep the whole window; PR #132 merged (rolling Sammy ingest, 8 files, additive)"
+ },
+ "external": {
+  "instagram": "0 new (all quiet, per morning scrape)",
+  "threads": "0 new (all quiet, per morning scrape)",
+  "facebook": "0 new (all quiet, per morning scrape)",
+  "messenger": "0 new (all quiet, per morning scrape)",
+  "spotify": "PAUSED ad in FUNDAMENTAL FLAW crate, unchanged since 2026-09-19T23:47Z",
+  "device": "standing: no read path",
+  "gmail": "EXCLUDED per 2026-09-11 order"
+ },
+ "files": {
+  "chats.json": {
+   "sha256": "9bcf666eb283898e55c816b791b7cdf74c7730810ce240421f09ac18b81b0f1e",
+   "bytes": 1651
+  },
+  "EXTRACT.md": {
+   "sha256": "a8308913318fa16e8fab82bd528a93c1f13870e8a616a30d6d5107d3551b7d97",
+   "bytes": 2675
+  },
+  "manifest.json": {
+   "sha256": "c9b854625b52ae8b925afc88a5176494495f5841b21432d65b758261b94113c1",
+   "bytes": 1136
+  }
+ }
+}

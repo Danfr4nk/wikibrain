@@ -7,7 +7,7 @@ status: active
 knowledge: earned
 importance: high
 date_created: 2026-08-19
-date_modified: 2026-08-28
+date_modified: 2026-09-20
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt
   - raw/self/dox-scan/Dan Profile.txt
@@ -69,6 +69,46 @@ connections:
 ---
 
 # The Commissioned Self
+
+> **RE-CHECKED [2026-09-20] — premise regenerated, and exactly one claim on**
+> **this page moves.** [[wiki/self/concepts/wiki-brain]] was regenerated
+> 2026-09-19 (work-0002): 320 lines → 880+, `date_modified` 2026-09-14 →
+> 2026-09-19. Every claim here that depends on it was re-checked against the
+> old and new versions line by line.
+>
+> 1. **The "476 pages" instrument-table row IS affected.** The old premise
+>    said ~510 rendered entries / 501 source `.md` files (2026-09-11); the
+>    regen reports roughly 595 source pages and 1,597 `kb/` nodes as of
+>    2026-09-19, and the checkout's `wiki/` holds exactly 595 `.md` files —
+>    the page count was verified directly, not quoted. The row now reads 595;
+>    the 476 figure is superseded with the old value preserved, not deleted.
+>
+> 2. **The "fourth-generation instrument" claim is NOT affected.** The
+>    `caused-by` frontmatter edge on `wiki-brain.md` — *"the current and
+>    largest instance of a self-measurement apparatus that already ran four
+>    generations deep — and the first whose readings are published where
+>    other instruments will read them back"* — survived the regen
+>    byte-identical, and the new body keeps the canonical public deployment
+>    (Danfr4nk/wikibrain at danfr4nk.github.io/wikibrain) front and center.
+>    "First whose readings are published" is if anything stronger on the new
+>    version.
+>
+> 3. **The 2026-08-21 handle-defect block's reasoning is NOT affected.** Its
+>    premise — `wiki-brain`'s RE-CHECKED [2026-08-20] "a handle is not a
+>    person" blockquote — is still on the regenerated page verbatim, and the
+>    corpus figures the block cites (217,573 messages / 503 handles / 106,629
+>    sent / 110,944 received) are unchanged between the two versions. The
+>    load-bearing outbound count stays immune by construction for the same
+>    structural reason: the defect is inbound-attribution, and it cannot touch
+>    a count of what Dan wrote.
+>
+> 4. **The frontmatter `causes` edge and the "disagrees with the wiki"**
+>    **reference are NOT affected.** The former matches the surviving inverse
+>    edge on the regenerated premise page; the latter points at the profile
+>    cluster's type codes (5w4/RLUEI), not at any `wiki-brain.md` claim.
+>
+> **Verdict: one cell moved (476 → 595, superseded, old value preserved); no**
+> **claim withdrawn; no reasoning broken.**
 
 > **RE-CHECKED [2026-08-28]:** flagged stale against
 > [[wiki/mind/synthesis/instrument-is-subject]] (2026-08-28), which added a
@@ -185,7 +225,7 @@ life. It exists in commissioned sessions, and it stays there.
 | Stylometrics | 99th percentile; "a custom-built fork of English" — **the percentile retracted 2026-08-23** | [[wiki/mind/profile/linguistic-profile]] | — |
 | Deviance audit | 80–99/100 across seven domains, 92% stated confidence | [[wiki/mind/profile/deviance-mapping]] | — |
 | Composite voice model | Eight modes, ten trigger-level modifiers with percentages | [[wiki/mind/profile/voice-modes]] | — |
-| This wiki | 476 pages | [[wiki/self/concepts/wiki-brain]] | — |
+| This wiki | 595 source pages as of 2026-09-19 — **the 476-page figure superseded 2026-09-20** | [[wiki/self/concepts/wiki-brain]] | — |
 | Bespoke vocabulary | Two graded word batches, selected from a machine-generated pool | [[wiki/interests/language/vocabulary-lexicon]] | — |
 
 > **RE-CHECKED [2026-08-23] — premise moved, and it moved in this page's favour.**
