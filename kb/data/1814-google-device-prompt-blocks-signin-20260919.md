@@ -17,3 +17,12 @@ date   = "2026-09-19"
 +++
 
 <!-- prose for humans; the frontmatter is for machines -->
+
+## Dated update — 2026-09-20 02:49 EDT (batch 20260920-1140)
+
+The constraint is still the phone tap. The overnight status row on
+dfrank88 (cites src:20260920-1140-sammy-chat-transcript) spells the flow
+out: open Gmail on the iPhone, tap Yes, then tap 97 — no password option,
+just the tap — and say "done" to resume the session. As of 11:40Z the tap
+had not happened; a fresh dfrank88 batch plus two re-queued ihatedanfrank
+batches are parked behind it.
