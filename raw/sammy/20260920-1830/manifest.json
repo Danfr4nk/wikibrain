@@ -1,0 +1,36 @@
+{
+ "batch": "20260920-1830",
+ "pulled_at": "2026-09-20T18:30:00Z",
+ "watermark_from": {
+  "chats": "2026-09-20T12:31:00+00:00"
+ },
+ "watermark_to": {
+  "chats": "2026-09-20T18:26:33+00:00"
+ },
+ "counts": {
+  "chats": 9,
+  "user": 0,
+  "assistant": 9,
+  "truncated": 0,
+  "system_excluded": "cron-handoff/verification scaffolding",
+  "cumthread3_excluded": 0,
+  "notes": "Dan silent the whole window; MusicTrainer week-1 scorecard delivered; stylo burn-in digest routine"
+ },
+ "media": {
+  "attachments": 0
+ },
+ "files": {
+  "chats.json": {
+   "sha256": "3d80b1fe810ef7005d4f1eedab7cd5e6029bd07ec630ece05118271e5fddce09",
+   "bytes": 4518
+  },
+  "EXTRACT.md": {
+   "sha256": "bca97a08bbb63ad98ceee98caee490256ecf1ee8b770f7e602b004828382d449",
+   "bytes": 2344
+  },
+  "manifest.json": {
+   "sha256": "9537b7718ce108e5d37d28f6668b56157639fc12c79d0d64687753944f4ac33d",
+   "bytes": 768
+  }
+ }
+}

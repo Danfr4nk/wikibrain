@@ -7,7 +7,7 @@ status: active
 importance: high
 knowledge: mixed
 date_created: 2026-09-14
-date_modified: 2026-09-17
+date_modified: 2026-09-20
 tags: [music-production, ai-collaboration]
 related:
   - wiki/work/tech/index
@@ -380,7 +380,7 @@ playlist) as scoring lands. Nothing summarized away: the weekly table is the
 measurement, and a week's readout is only as honest as the rows underneath it.
 Machine-readable seed: dat:1706. Target spec: dat:1707.
 
-### Week 1 — Discover Weekly, Sep 14 2026 (locked, scoring in progress)
+### Week 1 — Discover Weekly, Sep 14 2026 (scored 2026-09-20: acc 0.633, precision 0, recall 0)
 
 Seed locked 17:52 EDT 2026-09-14 (predictionsLocked=true, lockedAt
 2026-09-14T17:52:00-04:00). All 30 tracks preloaded with the model's
@@ -390,54 +390,89 @@ Diamonds, REMEDY. REMEDY (p=0.39) is the model's highest-confidence keep;
 Rain (p=0.038) its highest-confidence drop. Scoring reminder armed for
 2026-09-20.
 
-| # | Track | Artists | Locked prediction | p_keep | Score | Verdict | ADDED? |
-|---|-------|---------|-------------------|--------|-------|---------|--------|
-| 1 | Bad Habit | Jai Wolf, SAYAK DAS | drop | 0.219 | — | pending | pending |
-| 2 | Heart & Stay | Biicla | drop | 0.219 | — | pending | pending |
-| 3 | Damaio | En:vy | **KEEP** | 0.284 | — | pending | pending |
-| 4 | Anomie | Ainonow | drop | 0.219 | — | pending | pending |
-| 5 | Addiction | Capochino, KeyLo | drop | 0.219 | — | pending | pending |
-| 6 | Energy | Flava D, Stush | drop | 0.219 | — | pending | pending |
-| 7 | Double Dutch | Keys N Krates | **KEEP** | 0.313 | — | pending | pending |
-| 8 | atmosphere | JAMØ | drop | 0.219 | — | pending | pending |
-| 9 | Break Up Song | Flozone | **KEEP** | 0.260 | — | pending | pending |
-| 10 | desire <3 | two girls one laptop, Kurei, Auracle | drop | 0.219 | — | pending | pending |
-| 11 | Untouchable | Cymek | drop | 0.219 | — | pending | pending |
-| 12 | Dreaming | Hostage Situation | drop | 0.219 | — | pending | pending |
-| 13 | Backseat | dêtre | drop | 0.219 | — | pending | pending |
-| 14 | Pull Me Up | Frosty | drop | 0.219 | — | pending | pending |
-| 15 | High - Bassnectar Remix | Rusko, Bassnectar | drop | 0.198 | — | pending | pending |
-| 16 | OPAL | LYSTRO | drop | 0.219 | — | pending | pending |
-| 17 | Call It Love - AMNES Remix | AMNES | drop | 0.219 | — | pending | pending |
-| 18 | Six Shooter | SNBRN | **KEEP** | 0.304 | — | pending | pending |
-| 19 | Combat Mode | Mushroom Cloud, MontyCler | **KEEP** | 0.260 | — | pending | pending |
-| 20 | Janice STFU - Dubstep | bern | drop | 0.219 | — | pending | pending |
-| 21 | One Drink | DLMT | **KEEP** | 0.280 | — | pending | pending |
-| 22 | Diamonds | Malaa | **KEEP** | 0.281 | — | pending | pending |
-| 23 | LIL HOMIE | DRGN | drop | 0.219 | — | pending | pending |
-| 24 | The Box | MEDIKAL | drop | 0.090 | — | pending | pending |
-| 25 | Flow | Nitepunk | drop | 0.093 | — | pending | pending |
-| 26 | Rain | Papa Khan | drop | 0.038 | — | pending | pending |
-| 27 | REMEDY | spüke | **KEEP** | 0.390 | — | pending | pending |
-| 28 | Next Order | Dog Blood | drop | 0.219 | — | pending | pending |
-| 29 | Not so bad | Hidden Face | drop | 0.219 | — | pending | pending |
-| 30 | Whispers | Oshi | drop | 0.219 | — | pending | pending |
+| # | Track | Artists | Locked prediction | p_keep | Score | Verdict | Like | ADDED? |
+|---|-------|---------|-------------------|--------|-------|---------|------|--------|
+| 1 | Bad Habit | Jai Wolf, SAYAK DAS | drop | 0.219 | — | **KEEP** | yes | **YES** |
+| 2 | Heart & Stay | Biicla | drop | 0.219 | — | drop | no | no |
+| 3 | Damaio | En:vy | **KEEP** | 0.284 | — | drop | no | no |
+| 4 | Anomie | Ainonow | drop | 0.219 | — | drop | no | no |
+| 5 | Addiction | Capochino, KeyLo | drop | 0.219 | — | drop | no | no |
+| 6 | Energy | Flava D, Stush | drop | 0.219 | — | **KEEP** | yes | **YES** |
+| 7 | Double Dutch | Keys N Krates | **KEEP** | 0.313 | — | drop | no | no |
+| 8 | atmosphere | JAMØ | drop | 0.219 | — | drop | yes | no |
+| 9 | Break Up Song | Flozone | **KEEP** | 0.260 | — | drop | yes | no |
+| 10 | desire <3 | two girls one laptop, Kurei, Auracle | drop | 0.219 | — | drop | no | no |
+| 11 | Untouchable | Cymek | drop | 0.219 | — | **KEEP** | yes | **YES** |
+| 12 | Dreaming | Hostage Situation | drop | 0.219 | — | drop | yes | no |
+| 13 | Backseat | dêtre | drop | 0.219 | — | drop | no | no |
+| 14 | Pull Me Up | Frosty | drop | 0.219 | — | drop | no | no |
+| 15 | High - Bassnectar Remix | Rusko, Bassnectar | drop | 0.198 | — | drop | no | no |
+| 16 | OPAL | LYSTRO | drop | 0.219 | — | drop | yes | no |
+| 17 | Call It Love - AMNES Remix | AMNES | drop | 0.219 | — | drop | no | no |
+| 18 | Six Shooter | SNBRN | **KEEP** | 0.304 | — | drop | no | no |
+| 19 | Combat Mode | Mushroom Cloud, MontyCler | **KEEP** | 0.260 | — | drop | no | no |
+| 20 | Janice STFU - Dubstep | bern | drop | 0.219 | — | drop | yes | no |
+| 21 | One Drink | DLMT | **KEEP** | 0.280 | — | drop | no | no |
+| 22 | Diamonds | Malaa | **KEEP** | 0.281 | — | drop | no | no |
+| 23 | LIL HOMIE | DRGN | drop | 0.219 | — | drop | no | no |
+| 24 | The Box | MEDIKAL | drop | 0.090 | — | drop | no | no |
+| 25 | Flow | Nitepunk | drop | 0.093 | — | drop | no | no |
+| 26 | Rain | Papa Khan | drop | 0.038 | — | drop | no | no |
+| 27 | REMEDY | spüke | **KEEP** | 0.390 | — | drop | no | no |
+| 28 | Next Order | Dog Blood | drop | 0.219 | — | drop | no | no |
+| 29 | Not so bad | Hidden Face | drop | 0.219 | — | drop | no | no |
+| 30 | Whispers | Oshi | drop | 0.219 | — | drop | no | no |
 
 Baseline: 8 predicted keeps of 30 (26.7% base keep rate) — the denominator
-every driver-lift calculation runs against. Per-track accuracy, precision,
-and recall fill in as scoring lands; the week closes 2026-09-20.
+every driver-lift calculation runs against. Final: **19/30 correct (acc
+0.633), precision 0, recall 0** (dat:1832). All 8 locked KEEP predictions
+were wrong; the 3 actual keeps (Bad Habit, Energy, Untouchable) were all
+missed — the model carried no audio features on them (blind-fallback group).
+Five liked-but-not-added (atmosphere, Break Up Song, Dreaming, OPAL,
+Janice STFU - Dubstep). Verdict column = the keep/drop outcome; Like =
+whether Dan liked the track in Spotify; ADDED? = liked AND into the current
+playlist. Keep-label caveat: labels assume the current crate is FUNDAMENTAL
+FLAW — unconfirmed by Dan. Score column: per-track 1–10 scores were not
+recorded in the week-1 export; — marks the gap, not a zero.
+
+#### Week-1 readout (2026-09-20)
+
+The miss pattern is the finding, not the score. The model's 8 KEEP
+predictions clustered on the audio-feature-rich tracks — En:vy, Keys N
+Krates, SNBRN, Flozone, Malaa, DLMT, spüke — and missed all 8, while the 3
+tracks Dan actually kept were exactly the ones the model carried no audio
+features on. That inverts the model's whole premise: the blind-fallback
+group was the signal group. Whatever carries a keep for him is not in the
+feature set the model reads — tempo/energy/popularity features predicted
+keeps on the 124–140 BPM, 0.6–0.9-energy cluster, and he dropped every one
+of them.
+
+The liked-but-not-added five (atmosphere, Break Up Song, Dreaming, OPAL,
+Janice STFU - Dubstep) sit exactly on the keep|like boundary the entry
+already flags as the ladder's thinnest rung — "enjoyed but not kept" is the
+week-1 result's densest residue, and the grid still has no driver for it.
+For the 90% project the path is not tuning the current features: the
+baseline needs a different signal (his per-track driver picks, skip-to-33%
+behavior, crate-context) or the recall floor stays at zero. One caveat the
+entry keeps open: the keep labels assume the current crate is FUNDAMENTAL
+FLAW, which Dan never confirmed — a wrong crate attribution would re-draw
+the baseline, not the miss pattern.
+
+This is the measurement the Limits section was written for: baseline
+stalls below 90%, so the failure is data, not a verdict on his ear. The
+residual is located in what the grid doesn't capture.
 
 ## Sources
 
 Evidence: `evt:musictrainer-commissioned-20260914`,
 `evt:autopsy-driver-game-commissioned-20260914`,
 `evt:musictrainer-iteration-fixes-20260915`,
-`dat:1706` (week-1 seed), `dat:1707` (target spec), `dat:1708` (driver
+`dat:1706` (week-1 seed), `dat:1707` (target spec), `dat:1832` (week-1 scorecard result), `dat:1708` (driver
 grid + method), `dat:1580` (tools consolidation), `dat:1656`
 (complete-log doctrine retrofit)
 (sources: `src:sammy-chat-transcript-20260914-1940`,
 `src:sammy-chat-transcript-20260915-0340`,
-`src:sammy-chat-transcript-20260915-0349`; held artifacts
+`src:sammy-chat-transcript-20260915-0349`, `src:20260920-1830-sammy-chat-transcript`; held artifacts
 `~/workspace/musictrainer/`, `~/workspace/autopsy/`).
 Live: https://danfr4nk.github.io/MusicTrainer/,
 https://danfr4nk.github.io/track-autopsy/ (redirect stubs post-2026-09-15

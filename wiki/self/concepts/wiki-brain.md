@@ -594,6 +594,19 @@ deployment.
 > The "Google Photos phase in progress" sentence of 2026-09-11 has no
 > confirmed continuation in the record; its status is unknown as of
 > 2026-09-19, not asserted either way.
+>
+> **RESOLVED [2026-09-20]** — the corpus check closed it: the 14-record
+> phase completed on 2026-09-14 via the Q4 gphotos worker (commit ea29a40,
+> `dat:1550`). All fourteen records (gphotos-001..014) carry
+> `analysis_status` `embedded-2026-09-14` in `media/registry.json`, with
+> `linked_nodes` into `wiki/people/fran-coldren.md` (the nine individual
+> items: four caregiver-era video frames, five scrapbook pages),
+> `wiki/people/milo.md`, `wiki/people/annie-ulmer.md`,
+> `wiki/mind/politics/index.md`, and `wiki/self/overview.md` (the
+> album-level representatives). The 2026-09-11 sentence's "dedicated Fran
+> golf/scrapbook entry is on the block" was superseded by the
+> fran-coldren.md embed landing. The phase is a completed chapter, not an
+> open thread.
 
 Three display rules, all Dan's, all 2026-09-12/13, all still in force:
 
