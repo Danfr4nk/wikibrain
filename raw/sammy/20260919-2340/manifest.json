@@ -1,0 +1,29 @@
+{
+ "batch": "20260919-2340",
+ "pulled_at_utc": "2026-09-19T23:45:00Z",
+ "sources": {
+  "chats": {
+   "watermark_from": "2026-09-19T00:12:08.179+00:00",
+   "watermark_to": "2026-09-19T23:26:55.998+00:00",
+   "rows": 486,
+   "user": 155,
+   "assistant": 331,
+   "usage_limit_notices": 50,
+   "redacted_rows": 1,
+   "truncated_rows": 0,
+   "window_actual": "2026-09-19T00:29:32.225+00:00 -> 2026-09-19T23:26:55.998+00:00"
+  }
+ },
+ "files": {
+  "chats.json": {
+   "sha256": "0aca2d9351dc13b025f1db9dd32c9c7927349d33a489e76f201b66d92e30c259",
+   "bytes": 218289
+  }
+ },
+ "notes": [
+  "CUMTHREAD3 exclusion: 0 rows from side chat 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853 in window (verified by query).",
+  "maintenance:* system rows excluded (1834 system rows in window, not Dan's chats).",
+  "1 row redacted: Dan pasted his TypeSafe Jev API key at 2026-09-19T18:20:19Z; key replaced with [REDACTED] per credential policy \u2014 never archived to the public repo.",
+  "Upper bound 2026-09-19T23:40:12.075Z = this run's trigger; this run's own later rows excluded for determinism (next run picks them up)."
+ ]
+}
