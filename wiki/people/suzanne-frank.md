@@ -159,6 +159,11 @@ connections:
   - { target: "[[wiki/mind/synthesis/kristin-channel]]", type: references, claim: "That entry reads her as a contextualizing pressure on the Kristin channel: the always-available maternal line is the bond the Kristin relationship had to be measured against." }
   - { target: "[[wiki/mind/synthesis/annie-ally-contrast]]", type: references, claim: "That entry places her as a contextualizing figure in the Annie/Ally comparison: the maternal register of permanent availability that the annie-channel absorbs and the Ally channel never supplies." }
   - { target: "[[wiki/mind/synthesis/four-financial-inversions]]", type: references, claim: "That entry's inversion 1 is the Suz-backed years (~2015-2020): Dan funded the household and she funded Dan, the standing liquidity facility behind the relationship's early capital." }
+images:
+  infobox:
+    file: wiki/media/profile-suzanne-frank.jpg
+    alt: "Suzanne Frank (right), undated family photograph"
+    caption: "Suzanne Frank (right), undated family photograph"
 ---
 
 

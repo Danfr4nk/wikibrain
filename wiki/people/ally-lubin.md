@@ -92,6 +92,11 @@ connections:
   - { target: "[[wiki/mind/synthesis/vacancy-rule]]", type: references, claim: "Transition 5's failed transferee — the eighteen-year secondary bond the rule's primary/secondary split was written to hold." }
   - { target: "[[wiki/mind/synthesis/the-curse]]", type: documents, claim: "Case 4 — eighteen years, never met." }
   - { target: "[[wiki/mind/synthesis/self-deprecation-shield]]", type: references, claim: "The Ally channel is the shield's trust-credential case — the self-own as epistemic warrant." }
+images:
+  infobox:
+    file: wiki/media/profile-ally-lubin.jpg
+    alt: "Ally Lubin"
+    caption: "Ally Lubin"
 ---
 
 # Ally Lubin (Alexandra Lubin)

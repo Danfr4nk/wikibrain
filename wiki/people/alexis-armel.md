@@ -133,8 +133,10 @@ connections:
   - { target: "[[wiki/mind/synthesis/the-scoreboard]]", type: extends, claim: "The zero-mentions-across-1,132-posts denominator is the scoreboard's method applied to the control case." }
   - { target: "[[wiki/people/danielle-onesi]]", type: references, claim: "The Transition 1 predecessor — Danielle to Alexis, February to November 2009." }
 images:
-  # no portrait available for this page; do not fall back to library[0]
-  infobox: false
+  infobox:
+    file: wiki/media/profile-alexis-armel.jpg
+    alt: "Alexis Armel"
+    caption: "Alexis Armel"
   library:
     - file: wiki/media/upload-049.jpg
       alt: "Unsent draft of the cover text to Alexis, 4:55 PM"

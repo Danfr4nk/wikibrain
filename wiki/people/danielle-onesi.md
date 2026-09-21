@@ -86,6 +86,11 @@ connections:
   - { target: "[[wiki/people/annie-ulmer]]", type: contextualizes, claim: "The James cocaine request ran through Annie; Dan's silence to protect the Christmas node is scored in the James-analysis entry as restraint under Game Theory." }
   - { target: "[[wiki/people/suzanne-frank]]", type: contextualizes, claim: "She is now Suzanne's closest friend and a Christmas fixture: the romantic role ended in 2009, the tie never did, structurally entangled through his mother." }
   - { target: "[[wiki/mind/concepts/the-handed-mirror]]", type: evidences, claim: "Her copy of the James Analysis PDF, sent four minutes after his, is the concept's 'witnessed circulation' element — the second recipient who converts a private reading into a socially ratified artifact." }
+images:
+  infobox:
+    file: wiki/media/profile-danielle-onesi.jpg
+    alt: "Danielle Onesi (right)"
+    caption: "Danielle Onesi (right)"
 ---
 
 # Danielle Onesi ("Dee")

@@ -23,6 +23,11 @@ sources:
   - raw/people/captures/2026-07-15_192028_dan-s-maternal-great-grandmother-fran-wh.md
   - raw/people/captures/2026-07-15_192608_dan-s-maternal-great-grandmother-fran-wh.md
   - "raw/self/dox-md/_Photo Thread PT II_ Grand Finale Calibration .md"
+images:
+  infobox:
+    src: wiki/media/profile-fran-coldren.jpg
+    caption: "Fran Coldren"
+  library: []
 changelog:
   - date: 2026-08-02
     note: "Rebuilt from scratch against the message corpus: age 97 settled, $15/hr and six-months-full-time established, surgery and nursing-home dates recovered, and Dan's own same-night retraction of the death-moment story found"
