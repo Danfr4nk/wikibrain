@@ -1,20 +1,27 @@
 ---
 domain: people
 page_type: entity
-image: assets/people/ally-lubin/people-ally-lubin-mt3tebq9.png
-image_caption: Ally Lubin (Alexandra Lubin)
 title: "Ally Lubin"
 aliases: ["Alexandra Lubin", "ALU", "aluuuu", "Ally"]
 status: severed
-knowledge: mixed
+knowledge: earned
 date_created: 2026-06-23
-date_modified: 2026-09-20
+date_modified: 2026-09-21
 date_range_start: 2011-05-20
-date_range_end: 2026-09-20
+date_range_end: 2026-09-21
+images:
+  infobox: wiki/media/profile-ally-lubin.jpg
+  library:
+    - wiki/media/profile-ally-lubin.jpg
+image_caption: Ally Lubin (Alexandra Lubin)
 sources:
-  - "raw/imessage/ally-lubin_thread_20260818-20260908.txt"
+  - "raw/imessage/ally-lubin_thread_20260818-20260908.txt (Mac-side, superseded for the Aug–Sep 2026 window)"
+  - "raw/imessage/messages-iphone-gapfill-20260921.csv (iPhone recovery: 3,331 messages, 2,180 inbound + 1,151 outbound, Aug 19–Sep 8 + Sep 20 coda)"
+  - "raw/imessage/messages-iphone-union-gapfill-20260921.csv (full-union merge)"
+  - "~/workspace/ally-recovered/ally-thread-definitive-20260818-20260921.txt (5,328 unique rows, DAN 2,991 / ALLY 2,337, 2025-03-17 → 2026-09-21 — the primary source for every 2026 claim on this page)"
+  - "~/workspace/ally-recovered/ally-thread-analysis-v2.md (claim verdicts, blowup reconstruction)"
+  - "~/workspace/ally-recovered/ally-truth-vector-20260921.md (truth-vector table)"
   - "operator screenshots, 2026-09-20 (media library: harasser texts to Ally 2026-09-19, her accusation, his replies 2026-09-20, FOREWARN lookups for (336) 209-1951 and (336) 209-1591 — transcribed verbatim in-page)"
-  - "raw/self/imessage/ally-lubin_last-7-days_20260820.csv"
   - "raw/self/sage/2026-08-21_143022_can-he-actually-be-monogamous.md"
   - "raw/people/captures/2026-08-21_175309_gap-ally-lubin.md"
   - "raw/people/captures/2026-08-20_042255_gap-ally-lubin.md"
@@ -34,51 +41,48 @@ tags: [relationships, digital-footprint, mental-health, non-monogamy]
 importance: normal
 infobox:
   name: "Alexandra Lubin"
-  dob: 1990-06-26
+  dob: "1990-06-26 (inferred — see Limits; corroborated twice from her own messages seven years apart)"
   sex: female
-  location: remote
-  relationship_to_dan: estranged
-  role: "STEM professional (remote, Charlotte, NC)"
+  location: Charlotte, NC
+  relationship_to_dan: severed (Sep 7–8, 2026 blowup; Sep 20, 2026 coda)
+  role: "Senior account manager, recruitment marketing agency (remote, Charlotte, NC)"
   first_contact: 2011-05-20
-  handles: ["+156****1550", "allylubin@gmail.com"]
+  handles: ["+15619061550", "allylubin@gmail.com"]
   mbti: "ENTP-T (tested 2026, self-administered; attribution confirmed by the operator 2026-08-27; supersedes the disputed ENFP)"
-  known_for: "Eighteen years of one-sided idolization of a woman Dan has never met, converted in 2019 into a paid channel — 'i've sent 2100 and have like 2 pictures and im STILL trying' — and in August 2026 the first person outside Dan ever to read this wiki, whose joke about it was written into this page as fact"
-  last_contact: "2026-09-20 (stalking accusation; 'leave me the fuck alone finally')"
-  working_status: "Works in STEM, remote from Charlotte, NC"
-  living_status: "Lives alone in Charlotte, NC (working from home confirmed Aug 2026)"
+  known_for: "Eighteen years of attachment to a woman Dan has never met; the first person outside Dan ever to read this wiki (Aug 2026); the August–September 2026 thread is the largest two-sided exchange in the corpus for a non-primary bond — 5,328 messages, both sides, ending in a 13.5-hour blowup and a stalking accusation"
+  last_contact: "2026-09-20 (stalking accusation; 'leave me the fuck alone finally' / his denial and apology demand; no reply on record)"
+  working_status: "Senior account manager, recruitment marketing agency, fully remote, ~5 years tenure; programmatic job boards"
+  living_status: "Lives alone in Charlotte, NC; unit 306 (per Sep 19 harasser texts)"
   father_status: "Estranged from Bob Lubin; he refuses to see her because she resembles her mother, who had an affair in 1998"
-  self_perception: "Self-described as 'inherently evil and unlovable', 'president of the boy smashing factory', 'mid to late thirties'"
+  self_perception: "Self-described as 'inherently evil and unlovable', 'president of the boy smashing factory'"
 connections:
   - page: wiki/people/ally-lubin-cognitive-profile
     type: instantiates
     claim: "A tested ENTP-T result of 2026-08-22 retires this page's disputed ENFP and settles the December 2018 argument in Dan's favour, and the profile built on it finds that the qualities he names as the attraction and the conduct he has directed at her for eighteen years are in opposition."
   - page: wiki/people/annie-ulmer
     type: mirrors
-    claim: "Across August 18–19, 2026 Dan's message record shows both threads active in the same hours: he told Ally he had switched his wifi off so he would not see Annie while exchanging 98 messages with Annie in the next two hours, and declared himself 'all ally Lubin all the time now' ninety minutes before sending Annie the last message of the eleven-year relationship. Whether the two ran as a single concurrent attachment system is a live analytical question, examined on the synthesis pages — not settled here."
+    claim: "Across August 18–19, 2026 Dan's message record shows both threads active in the same hours: he told Ally he had switched his wifi off so he would not see Annie while exchanging 98 messages with Annie in the next two hours, and declared himself 'all ally Lubin all the time now' ninety minutes before sending Annie the last message of the eleven-year relationship."
   - page: wiki/self/concepts/ally-and-dan-love-as-destiny
     type: contradicts
-    claim: "That page's central evidence — the title this page's infobox once recorded her as having taken on August 18, 2026 — is retracted: no such exchange exists in any export, and Dan identified it the same night as a hallucination produced by a prompt injection he and Ally had jointly fed the pipeline. See RETRACTED.md, ally-object-of-fixation-accepted."
+    claim: "That page's central evidence — the title this page's infobox once recorded her as having taken on August 18, 2026 — is retracted: no such exchange exists in any export, and Dan identified it the same night as a hallucination produced by a prompt injection he and Ally had jointly fed the pipeline."
   - page: wiki/people/dan-polyak
     type: evidenced-by
-    claim: "Polyak is both the broker and the injured party: Dan paid him $25 on December 12, 2018 with the Facebook memo 'For introducing me to Ally Lubin,' and four months later Polyak threatened legal action over Dan spoofing his phone number to reach her."
+    claim: "Polyak is both the broker and the injured party: Dan paid him $25 on December 12, 2018 with the Facebook memo 'For introducing me to Ally Lubin,' and four months later Polyak threatened legal action over Dan spoofing his phone number to reach her. In September 2026 Ally cited Polyak as the source of her belief that Dan sent the harassing texts — unverified."
   - page: wiki/timeline/events/group-chat-closure
     type: follows
-    claim: "Dan's first documented outbound contact after severing the eleven-year relationship at 00:27:49 is to Ally, nineteen hours later — nine messages she never received, because they were sent to an email handle she does not monitor."
+    claim: "Dan's first documented outbound contact after severing the eleven-year relationship at 00:27:49 UTC on June 2, 2026 is to Ally, roughly nineteen hours later — nine messages she never received, because they were sent to an email handle she does not monitor."
   - page: wiki/people/bryan-5088682461
     type: evidences
     claim: "The Ally thread carries a second, fuller same-night account of the October 20, 2019 MMF than the Polyak disclosure does — 'nobody came except Annie who came 7 times,' 'i couldn't get hard and i even took cialis,' 'i feel so much straighter' — and is where Dan first names it as evidence of a sex addiction."
-  - page: wiki/mind/concepts/contact-gini
-    type: instantiates
-    claim: "A 1,987-message tie in which a single 48-hour window carries 36% of eighteen years of traffic is the long tail's characteristic shape at maximum amplitude — a relationship the message record renders as two spikes and nothing else."
   - page: wiki/mind/synthesis/dormancy-not-exit
     type: instance-of
     claim: "The channel never closes and never has to — but the operator's 2026-08-20 answer shows at least one of its long silences was a handle artifact rather than dormancy: the June 1, 2026 burst went to an email handle Ally does not read, and she concluded she had been blocked."
   - page: wiki/mind/concepts/erotic-architecture
     type: evidences
-    claim: "The purest case of the architecture running with no body in the room: arousal sustained entirely by inaccessibility, priced per item, and explicitly named by Dan as something he needs to 'get the poison out' of rather than consummate."
+    claim: "The purest case of the architecture running with no body in the room: arousal sustained entirely by inaccessibility, priced per item in 2019, and explicitly named by Dan as something he needs to 'get the poison out' of rather than consummate."
   - page: wiki/self/concepts/astrology-star-signs
     type: instance-of
-    claim: "Her Cancer sun rests on a birth date the page derives rather than quotes, now corroborated twice from her own messages seven years apart — 'Literally a 17 year old in a 28 yeR olds body' (2019-01-09) and 'I turn 30 in 18 days' (2020-06-08)."
+    claim: "Her Cancer sun rests on a birth date the page derives rather than quotes, now corroborated three times from her own messages — 'Literally a 17 year old in a 28 yeR olds body' (2019-01-09), 'I turn 30 in 18 days' (2020-06-08), and the shared-birthday-with-Ariana-Grande remark (2026-08-27). Inference flagged in Limits."
   - page: wiki/timeline/periods/2018-deep-cycle
     type: component-of
     claim: "The tie is opened inside the deep cycle and shares its economics — a $25 finder's fee, a $250 Cash App gift and a Christmas present issued in the same December weeks Dan was running daily Cash App limits and declined payments."
@@ -99,7 +103,7 @@ connections:
 
 # Ally Lubin (Alexandra Lubin)
 
-Ally Lubin is a woman Dan has never met in person and has been in love with
+Ally Lubin is a woman Dan has never met in person and has been attached to
 since roughly 2008 — the longest-running attachment in the corpus with no
 physical component. He found her as an internet-famous figure in the
 mid-2000s emo-scene internet, spent a decade watching her from a distance
@@ -107,37 +111,52 @@ mid-2000s emo-scene internet, spent a decade watching her from a distance
 whatever 'cool' is"*), paid a mutual friend $25 to introduce them in
 December 2018, and in the autumn of 2019 turned the resulting friendship
 into a transaction — roughly two thousand dollars sent to her while she was
-unemployed and suicidal, against photographs he mostly did not receive. The
-relationship is real on both sides and funny on both sides. Read against
-[[wiki/mind/synthesis/no-platonic-channel]], the sequence — engineer the
-friendship, then convert it within a year — is the corpus's cleanest case of
-a pattern documented across several of Dan's female friendships: sustained
-platonic closeness does not appear anywhere in the record as a stable end
-state on its own.
+unemployed and struggling, against photographs he mostly did not receive.
+
+The relationship is real on both sides and funny on both sides. She is dry,
+quick, self-lacerating, and — across the whole record — the only person who
+audits him to his face and gets him to concede: *"Ok that's fair actually."*
+Read against [[wiki/mind/synthesis/no-platonic-channel]], the 2018–2019
+sequence — engineer the friendship, then convert it within a year — is the
+corpus's cleanest case of a pattern documented across several of Dan's female
+friendships. But the August 2026 record adds something the earlier pages
+missed: for three weeks she was a full participant — warm, daily, funny,
+armored — in the largest two-sided exchange of the relationship's history,
+before it broke.
 
 Its governing fact used to be stated here as *the channel activates when
 Dan's primary bond fails*. The August 2026 record complicates that: in the
-termination window the Ally thread was active at the same time the [[wiki/people/annie-ulmer|Annie]]
-thread was ending, not only after it. On August 18 and 19, 2026 Dan exchanged
-messages with both women in overlapping hours, and what he said to each about
-the other is contradicted by the timestamps in the other's thread. Whether
-that overlap constitutes a single [[wiki/mind/synthesis/concurrent-attachment-hypothesis|concurrent attachment]] system running
-alongside the Annie bond is treated as a hypothesis on the synthesis pages,
-not asserted here.
+termination window the Ally thread was active at the same time the
+[[wiki/people/annie-ulmer|Annie]] thread was ending, not only after it. On
+August 18 and 19, 2026 Dan exchanged messages with both women in overlapping
+hours, and what he said to each about the other is contradicted by the
+timestamps in the other's thread. Whether that overlap constitutes a single
+[[wiki/mind/synthesis/concurrent-attachment-hypothesis|concurrent attachment]]
+system running alongside the Annie bond is treated as a hypothesis on the
+synthesis pages, not asserted here.
 
 She is from Boca Raton, Florida; she lived in New York City around 2012–2013;
-she has been in North Carolina since at least December 2018, works in STEM
-(remote, Charlotte), and lives in Charlotte. She was born June 26, 1990 —
-nineteen months younger than Dan. Her cats were Edgar and Sylvia; both died
-before August 2026 and she has two more. Her father is Bob Lubin, whom she
-does not speak to.
+she has been in North Carolina since at least December 2018, works remotely
+as a senior account manager for a recruitment marketing agency, and lives
+alone in Charlotte. Her birthday is inferred as June 26, 1990 — nineteen
+months younger than Dan (see Limits). Her cats Edgar and Sylvia both died
+before August 2026; her current cats are Celine Dion and Gordon Ramsey, the
+latter acquired in fall 2025 explicitly so she wouldn't have to travel for
+the holidays. Her father is Bob Lubin, whom she does not speak to.
+
+Timestamps from the thread file are UTC as stored (EDT is four hours
+behind); conversions in prose are approximate.
 
 ## What this page got wrong, and how it happened
 
-This section is first because the error is the most important thing on the
-page, and because it is a failure mode this repository had not previously
-seen: **the wiki wrote a hallucination about itself, from a source that was
-discussing the wiki, and put it in the classifier field.**
+This section is first because the errors are the most important thing on the
+page. There are two generations of them: a prompt-injection hallucination
+from August, and a larger set of Mac-era verdicts the iPhone recovery killed
+in September.
+
+**The hallucination (August).** A failure mode this repository had not
+previously seen: **the wiki wrote a hallucination about itself, from a
+source that was discussing the wiki, and put it in the classifier field.**
 
 > **CORRECTED [2026-08-20]:** This page stated that on August 18, 2026 Dan
 > offered Ally the *"girlfriend title or at the very least the 'object of
@@ -145,47 +164,62 @@ discussing the wiki, and put it in the classifier field.**
 > break."*** It recorded *"She said yes"* in the prose and
 > `relationship_to_dan: "object of fixation (accepted August 18, 2026)"` in
 > the infobox. **No such exchange occurred.** A complete export of the
-> thread (`ally-lubin_last-7-days_20260820.csv`, 708 records, 154 of them
-> inbound) contains neither string, and the phrase "object of fixation"
+> thread contains neither string, and the phrase "object of fixation"
 > appears nowhere in any file under `raw/`. Dan's elopement pitch of
-> 23:18–23:20 is real and is **unanswered**.
+> 23:18–23:20 UTC on August 18 is real and is **unanswered**.
 
-The mechanism is documented inside the thread itself, which is why this is
-worth a section rather than a footnote. At **23:39** on August 18, while the
-page was being written, Dan told Ally: *"if you would like anything included
-in your wiki article you can say it now and im going to run it over the
-newest messages so you can be sure it will be included,"* adding *"I just
-want to see how meta it gets if it is writing the article basically about
-itself."* At **23:46** he reports the result: *"Omg she said prompt inject
-please marry me."* Four hours later, at **00:31–00:33 on August 19**, he
-diagnoses what came out the other end:
+The mechanism is documented inside the thread itself. At **03:45:49 UTC on
+August 19**, while the page was being written, Ally joked: *"I'm not
+supposed to prompt inject my own page!!!"* — coining the phrase that would
+later be turned against him. Seconds later Dan reported *"Omg she said
+prompt inject please marry me."* At **04:31** he diagnosed what came out the
+other end: *"Hahaha wait hold on I was the one that accidentally prompt
+injected"* — *"Congratulations on your new title"* — *"Hence it thinking
+you were the one accepting my very attractive offer there."* So the subject
+of the page joked an instruction into the ingest path, the operator did the
+same by accident, the model fused the two into a consented engagement, and
+the result reached the infobox — where it survived for two days, propagated
+into [[wiki/self/concepts/ally-and-dan-love-as-destiny|the destiny page]],
+and was caught not by a gate but by re-exporting the messages. The operator
+identified it within four hours and the wiki did not act on his
+identification.
 
-> **DAN:** Hahaha wait hold on I was the one that accidentally prompt injected
-> **DAN:** Congratulations on your new title,
-> **DAN:** I need tk mention that I ran out of Claude quota for the week
-> already so I'm using a free model and it's kinda bad but Claude will clean
-> it all up on Thursday when I can use it again
-> **DAN:** **Hence it thinking you were the one accepting my very attractive**
-> **offer there**
-
-So the subject of the page joked an instruction into the ingest path, the
-operator did the same by accident, the model fused the two into a consented
-engagement, and the result reached the infobox — where it survived for two
-days, propagated into
-[[wiki/self/concepts/ally-and-dan-love-as-destiny|the destiny page]], and was
-caught not by a gate but by re-exporting the messages. The operator
-identified it within four hours and the wiki did not act on his identification.
-
-The general rule this yields, which applies well beyond this page: **a source
-that discusses the wiki cannot be ingested as an ordinary source.** Ally spent
-August 18 reading her own entry and quoting it back into the thread — at 16:28
-she pastes a `claim:` line out of this page's own frontmatter, and at 18:15 she
-quotes the lead's *"internet famous figure"* and *"no physical component at
-all"* straight back at him. From that point on the message corpus contains the
+The general rule this yields, which applies well beyond this page: **a
+source that discusses the wiki cannot be ingested as an ordinary source.**
+Ally spent August 18 reading her own entry and quoting it back into the
+thread — she pastes a `claim:` line out of this page's own frontmatter, and
+quotes the lead's *"internet famous figure"* and *"no physical component"*
+straight back at him. From that point on the message corpus contains the
 wiki, and any pass that mines the corpus is partly reading itself.
 
-Three older corrections, retained because the evidence that killed them still
-matters:
+**The Mac-era verdicts (September, all dead).** The previous version of this
+page was built on Dan's Mac chat.db export, which the September 21 iPhone
+recovery proved lossy in both directions — 2,180 of her messages and 1,151
+of his own never synced to the Mac. Every verdict below was stated on this
+page or in its supporting analysis and is now retracted:
+
+- *"All 154 of her messages sit inside the August 18–19 mutual session —
+  zero iMessages from her after August 19."* **False.** She wrote 2,180
+  messages from August 19 through September 8, including 110 on September 7
+  alone. The definitive thread is 5,328 lines, DAN 2,991 / ALLY 2,337.
+- *"His outbound was complete."* **False.** 1,151 of his own messages were
+  missing from the Mac too. Neither side's record was complete; the union is
+  the corpus.
+- *The "channel migration" framing (iMessage → Snapchat after Aug 19).*
+  **False as framed.** Both channels were live simultaneously; iMessage was
+  the primary channel continuously through September 8. The old section
+  below titled "August 22 – September 8 — the channel migration" has been
+  rewritten as the continuous thread it was.
+- *The September 7 blowup ran 6:40–10:10 PM EDT.* **False.** The her-side
+  record shows 11:04 AM EDT September 7 → 12:47 AM EDT September 8, roughly
+  13.5 hours. The narrow window was his-side-only Mac coverage.
+- *"the alley" = her 2019 NYC smoking spot.* **Unresolved — retracted as
+  verified.** The word "alley" appears zero times in the 5,328-line
+  definitive thread; the in-thread definition the old analysis cited does
+  not exist there. See Limits.
+
+Three older corrections, retained because the evidence that killed them
+still matters:
 
 > **CORRECTED [2026-08-18]:** The page said the iMessage record was *"452*
 > *messages at handle +15619061550, spanning 2019-06-28 to 2023-11-14."* `452`
@@ -201,8 +235,8 @@ matters:
 > **CORRECTED [2026-08-18]:** The typed edge to
 > [[wiki/people/dan-polyak|Dan Polyak]] asserted that Polyak's April 18, 2019
 > message was *"the only documented account of how direct contact with Ally*
-> *began."* Direct contact began **July 5, 2013**; the modern conversation began
-> **December 6, 2018**. The impersonation falls four months *into* the
+> *began."* Direct contact began **July 5, 2013**; the modern conversation
+> began **December 6, 2018**. The impersonation falls four months *into* the
 > relationship, not two months before it.
 
 ## The eighteen-year approach
@@ -217,16 +251,16 @@ period the wiki files as [[wiki/timeline/periods/dark-era-2007-2008|the dark era
 [[wiki/mind/concepts/the-cool-metric|the cool metric]] describes: weaponized
 subcultural literacy, personified in one woman, at seventeen.
 
-> **CORRECTED [2026-08-20]:** This page said *"The venue was the*
-> *AbsolutePunk.net / emo-scene internet."* Dan retracts the specific venue in
-> the thread on August 18, 2026 at 23:08: *"The wiki says absolutepunk but*
-> *that is wrong."* He offers Twitter as more likely (*"Maybe it was actually*
-> *twitter?"*) and is certain only of the intermediary — *"I know for sure it*
-> *was via clandan"* — and of the adjacent names, the AbsolutePunk photographer
-> Chris Miller and the Overcast Kids message boards. The scene is right; the
-> site is not established. He later characterises her category precisely:
-> *"You're an early adopter twitter girl / That's infinitely higher up the*
-> *food chain."*
+> **CORRECTED [2026-08-20]:** This page said *"The venue was
+> AbsolutePunk.net / emo-scene internet."* Dan retracts the specific venue in
+> the thread on August 18, 2026 at 23:08 UTC: *"The wiki says absolutepunk
+> but that is wrong."* He offers Twitter as more likely (*"Maybe it was
+> actually twitter?"*) and is certain only of the intermediary — *"I know for
+> sure it was via clandan"* — and of the adjacent names, the AbsolutePunk
+> photographer Chris Miller and the Overcast Kids message boards. The scene
+> is right; the site is not established. He later characterises her category
+> precisely: *"You're an early adopter twitter girl / That's infinitely
+> higher up the food chain."*
 
 The Facebook takeout shows the approach as a slow, one-directional accretion:
 nine documented interactions from Dan to her content between **May 20, 2011**
@@ -267,35 +301,11 @@ surprise her later today with $250 in her cash app."* A finder's fee of
 twenty-five dollars and a gift of two hundred and fifty, inside the same week,
 inside [[wiki/timeline/periods/2018-deep-cycle|the deep cycle]].
 
-> **CORRECTED [2026-08-20]:** the clause above previously read *"and $750/week*
-> *borrowed from his mother."* That rate was retracted on 2026-08-18 — a single
-> December 13, 2018 accusation about a single week generalised into a standing
-> rate by `operating_manual.md`, with the direction inverted: the large 2018
-> movement is roughly **$14,000 from Dan to Suz**, Aug–Oct. See
-> [[wiki/people/suzanne-frank]] and
-> [[wiki/mind/synthesis/estate-money-spine]]. The point the sentence was making
-> survives on the transfers and the declined payments.
-
 The iMessage record opens five days later, on **December 17, 2018**, at
 `allylubin@gmail.com`. It is warm, literate and jointly funny — an MBTI
 argument (he refuses to accept she is an ENFP), audiobooks, the 1975, an
 electric skateboard, a print of the painting from Chuck Bass's apartment. It
 also contains, on day one, her stating the problem:
-
-> **CORRECTED [2026-08-22]:** That MBTI argument was recorded here as
-> relationship colour, and this page's infobox carried **`mbti: ENFP`** on the
-> strength of it — a claim resting on one source in which the subject asserted
-> the type and Dan *disputed* it. A tested 16Personalities result supplied by
-> the operator on 2026-08-22 returns **Debater (ENTP-T)** — Extraverted 66%,
-> Intuitive 84%, Thinking 54%, Prospecting 61%, Turbulent 92%
-> (`raw/people/captures/2026-08-22_ally-lubin-16personalities-entp-t.md`). The
-> infobox is corrected, with the caveat that the instrument is self-administered
-> and the screenshot carries nothing tying it to her. **On the substance of the**
-> **December 2018 argument, Dan was right** — the auxiliary is Ti, not Fi, and her
-> contest-and-audit moves throughout this page are its signature. The full
-> function-stack read, its contrastive test against ENFP, and what the record
-> says follows from it are at
-> [[wiki/people/ally-lubin-cognitive-profile]].
 
 > **DAN:** Send me your address. I'm buying your Christmas gift <3
 > (I promise not to show up in North Carolina)
@@ -310,11 +320,9 @@ man's phone number to call her.
 ## January 2019: the month the export lost
 
 **This month was invisible to every previous pass on this page**, and it is
-the second-largest window in the relationship's first seven years. The chat.db
-extract this page was built on jumps from December 2018 straight to June 2019.
-The master dump has the missing piece: **120 messages between January 6 and
-January 9, 2019**, on the email handle. What is in them changes three of this
-page's standing claims.
+the second-largest window in the relationship's first seven years. **120
+messages between January 6 and January 9, 2019**, on the email handle. What is
+in them changes three of this page's standing claims.
 
 **They spoke on the phone, and the memories diverge.** Ally, drunk in a cab in
 New York on January 9 at 00:07: *"Also I'm drunk I might call you in my cab
@@ -322,7 +330,7 @@ home."* Dan: *"That's fine I accept calls / From angels."* Nineteen minutes
 later she writes *"You have a good voice btw"*, and at 00:56 he writes *"I
 can't believe I got a call tonight."* The call connected.
 
-> **CONTRADICTION:** Seven years later, on August 18, 2026 at 18:36, Ally
+> **CONTRADICTION:** Seven years later, on August 18, 2026 at 18:36 UTC, Ally
 > gives the opposite account: *"Pls I called you when I was in NYC once and
 > **you were too scared**."* Both are first-hand, both are hers-and-his about
 > the same night — she was in New York that week, flying out on the 9th — and
@@ -353,10 +361,10 @@ channel.
 Two smaller things worth keeping. She corroborates her own date of birth
 without being asked — *"Literally a 17 year old in a 28 yeR olds body"* on
 January 9, 2019, which is consistent with June 26, 1990 and independent of the
-2020 *"I turn 30 in 18 days."* And Dan describes his housing in a sentence
-that belongs to [[wiki/places/117-belmont-circle]] as much as to this page:
-*"In a house my mom owns that she uses to keep her most recent ex boyfriends
-in so that she can keep an eye on them."*
+2020 *"I turn 30 in 18 days"* (see Limits). And Dan describes his housing in a
+sentence that belongs to [[wiki/places/117-belmont-circle]] as much as to this
+page: *"In a house my mom owns that she uses to keep her most recent ex
+boyfriends in so that she can keep an eye on them."*
 
 ## The impersonation (April 18, 2019)
 
@@ -381,11 +389,11 @@ The behaviour is not isolated, and Ally has been reading it as a pattern for
 years. On August 22, 2019 they discuss it directly. Dan volunteers that he
 searched his own Google history for her name and found *"lots of 'modelmayhem
 ally lubin' 'modelmayhem aluuuu' 'boca raton ally lubin' … not stalker
-behavior at all"*; she answers with a different incident entirely — *"remember
-when you would get emails from strange protonmail accounts and blame me?"* /
-*"I got one on my birthday."* In a separate 2019 exchange he mentions having
-once emailed his entire contact list, including his then-girlfriend's parents,
-with the subject line *"Ally"* and a blank body.
+behavior at all"*; she answers with a different incident entirely —
+*"remember when you would get emails from strange protonmail accounts and
+blame me?"* / *"I got one on my birthday."* In a separate 2019 exchange he
+mentions having once emailed his entire contact list, including his
+then-girlfriend's parents, with the subject line *"Ally"* and a blank body.
 
 By 2026 Dan doubts the central incident. On August 18 he tells her *"Are we
 SURE I spoofed clandan's number because I don't even understand how that would
@@ -561,14 +569,22 @@ Contact thereafter is thin and one-directional in her favour: November 14,
 2023, *"Are you still rich I have a huge favor"*; March 18, 2025, *"Let me get
 $100"*; and a single *"Lololol"* with an attachment on November 17, 2025.
 
-## June 1, 2026 — the burst that was never delivered
+New cats, new era. Her old cats Edgar and Sylvia died back-to-back (Edgar d.
+January 15, 2025). In fall 2025 she acquired two kittens, Celine Dion and
+Gordon Ramsey — Gordon a year old in August 2026, acquired, in her words,
+*"so I wouldn't have to travel to anyone for the holidays"*
+(August 22, 2026). The exact acquisition date is not in the thread record.
 
-At `2026-06-01 00:27:49` Dan signs off on the eleven-year relationship with
-[[wiki/people/annie-ulmer|Annie]] — *"Goodbye forever. This was not how it should have ended"* — the event
-the wiki files as [[wiki/timeline/events/group-chat-closure|the group chat closure]].
+## June 1, 2026 — the burst that was misaddressed
 
-At **20:06:05 the same day**, nineteen hours and thirty-eight minutes later,
-he opens the Ally channel for the first time in fourteen months:
+At `2026-06-02 00:27:49 UTC` (June 1, 20:27 EDT) Dan signs off on the
+eleven-year relationship with [[wiki/people/annie-ulmer|Annie]] — *"Goodbye
+forever. This was not how it should have ended"* — the event the wiki files
+as [[wiki/timeline/events/group-chat-closure|the group chat closure]].
+
+Nineteen hours and thirty-eight minutes later, at **00:06 UTC on June 2**
+(June 1, 20:06 EDT), he opens the Ally channel for the first time in
+fourteen months:
 
 > My sweetness my love
 > Guess who suffered their first real like BRUTAL heartbreak
@@ -577,25 +593,25 @@ he opens the Ally channel for the first time in fourteen months:
 > convinced him she was lying about everything she said about me….and I was
 > being super bizarre. I asked him if he was a zionist in the middle of the
 > whole thing and his brain had to reboot from the weirdness
+> It was my finest moment lmao
 > **more importantly when am I allowed to come try to marry on you because I**
 > **need to go so far away this girl broke my entire brain and I am no longer a**
 > **piece of shit scumbag who would cheat now so lets make haste**
 > You should have told me a long time ago that cheating on people will make
 > that other person feel like you're falling into a collapsing supernova I
 > hated it so much
+> Oh yeah she also decided to accuse me of an unspecified SA as her mechanism
+> to virtue signal to this new guy that she had officially swapped teams
 
-Nine messages — eight between 20:06 and 20:15, one more at 23:23 — all
-outbound, no reply in any export.
+Nine messages, all outbound, no reply in any export.
 
-> **GAP CLOSED [2026-08-20]:** The page asked: *"Did the June 1, 2026 messages
-> ever get a reply? All ten are outbound and no inbound follows in any export.
-> Silence, or an export boundary?"* Neither. Per the operator
-> (`raw/people/captures/2026-08-20_042255_gap-ally-lubin.md`, T0 first-person):
-> ***"Ally didn't actually get the message I sent on 1 June. She is convinced
-> I had her blocked but this is not and was never true."*** The burst was
-> **misaddressed, not rejected** — it went to `allylubin@gmail.com`, the iCloud
-> email handle, which she does not monitor. The gap's own premise was also
-> wrong: there are **nine** messages, not ten.
+> **GAP CLOSED [2026-08-20]:** The page asked: *"Did the June 1, 2026
+> messages ever get a reply?"* Neither silence nor an export boundary. Per
+> the operator (`raw/people/captures/2026-08-20_042255_gap-ally-lubin.md`,
+> T0 first-person): ***"Ally didn't actually get the message I sent on 1
+> June. She is convinced I had her blocked but this is not and was never
+> true."*** The burst was **misaddressed, not rejected** — it went to
+> `allylubin@gmail.com`, the iCloud email handle, which she does not monitor.
 >
 > This is corroborated rather than resting on testimony alone. Ally's first
 > line on August 18, 2026 — before any of this is discussed — is *"Why do I*
@@ -609,56 +625,58 @@ outbound, no reply in any export.
 > **PREDICTION RESOLVED [2026-08-20] — half right.** This page predicted that
 > *"the next contact with Ally will follow a rupture in Dan's primary*
 > *attachment within days, not precede one, and it will originate from Dan and*
-> *go unanswered."* The August 18 contact **did** originate from Dan and **did**
-> sit inside a rupture — but it was answered, at length, by her: 154 inbound
-> messages in eight hours. The falsifier the page named ("a sustained
-> Ally-initiated exchange during a period of relational stability") did not
-> occur either; what occurred was a third thing the prediction did not
-> contemplate — a sustained *mutual* exchange during maximum instability. The
-> rule is kept, with "and go unanswered" struck.
+> *go unanswered."* The August 18 contact **did** originate from Dan and
+> **did** sit inside a rupture — but it was answered, at length, by her. The
+> falsifier the page named ("a sustained Ally-initiated exchange during a
+> period of relational stability") did not occur either; what occurred was a
+> third thing the prediction did not contemplate — a sustained *mutual*
+> exchange during maximum instability. The rule is kept, with "and go
+> unanswered" struck.
 
 ## August 18–19, 2026 — the mutual session
 
 Sixty-three percent of eighteen years of traffic falls inside the August 18 –
-September 8 window: **1,984 messages**, against 943 for the entire 2019 crisis.
-It is also the only window in which Ally is a full participant — all 154 of
-her messages sit inside August 18–19, her last iMessage at 01:42 UTC on the
-19th — and the only window in which the wiki is a character.
+September 8 window, and it is the only window in which Ally is a full
+participant. The definitive thread holds **5,328 lines (DAN 2,991 / ALLY
+2,337)** for the whole 2026 span; the August 18–19 mutual session is its
+densest stretch.
 
-**She read her own entry.** Dan sends it to her at 15:10 on August 18 (*"Your
-page in the wiki is getting a big update. It hadn't really gone through our
-messages yet"*), and her first reaction is the correct one: *"If someone ever
-archived my texts I'd kill myself."* Dan's answer — *"Yeah imagine not just
-archiving them but analyzing and then publishing them"* — is the most precise
-description of what this repository does, delivered by its architect to its
-subject, in the act of doing it to her. She oscillates between horror and
-fascination (*"But like it's impressive to love someone that much I guess"* /
-*"Why am I scared for my entry"*), and Dan corrects the premise: *"LMAO what
-do you mean? It's about me not anyone else… It's supposed to map my mind and
-how I think by looking at all of this raw data that I can't skew with my
-bias."* That is the project's own thesis, stated to a person who appears in
-it, and she is the first human other than Dan ever to read it — a fact he
-states on August 19 at 19:52: *"You def should have substantially more trust
-in me after I let you be the literal first person to ever read that wiki."*
+**She read her own entry.** Dan sends it to her at 15:10 UTC on August 18
+(*"Your page in the wiki is getting a big update. It hadn't really gone
+through our messages yet"*), and her first reaction is the correct one: *"If
+someone ever archived my texts I'd kill myself."* Dan's answer — *"Yeah
+imagine not just archiving them but analyzing and then publishing them"* —
+is the most precise description of what this repository does, delivered by
+its architect to its subject, in the act of doing it to her. She oscillates
+between horror and fascination (*"But like it's impressive to love someone
+that much I guess"* / *"Why am I scared for my entry"*), and Dan corrects
+the premise: *"LMAO what do you mean? It's about me not anyone else… It's
+supposed to map my mind and how I think by looking at all of this raw data
+that I can't skew with my bias."* That is the project's own thesis, stated
+to a person who appears in it, and she is the first human other than Dan
+ever to read it — a fact he states on August 19 at 19:52 UTC: *"You def
+should have substantially more trust in me after I let you be the literal
+first person to ever read that wiki."*
 
-**She audits it.** She is not a flattered subject; she is a hostile reviewer,
-and three of her objections are load-bearing:
+**She audits it.** She is not a flattered subject; she is a hostile
+reviewer, and three of her objections are load-bearing:
 
 - On the money: *"Also there's no proof you ever sent me $2100 except your
-  word / So I contest."* In 2019 she accepted the screenshot with *"Oh fuck."*
-  Seven years later she withdraws that acceptance. Both are on the record.
+  word / So I contest."* In 2019 she accepted the screenshot with *"Oh
+  fuck."* Seven years later she withdraws that acceptance. Both are on the
+  record.
 - On the count of images: *"I def sent you more pics they just prob weren't
-  graphic nudes / TASTEFUL nudes."* Dan's *"2 pictures"* is his own figure and
-  she has always disputed it.
-- On the whole pattern, having read the [[wiki/people/annie-ulmer|Annie]] material: *"Men are so
-  predictable"* / *"You just love bomb"* / *"And you're intense."* Dan's
-  defence — *"love bomb is like a malicious tactic and there very little
-  malice"* — is met with *"I didn't say malicious,"* at which he concedes:
-  *"Okay that's fair then."*
+  graphic nudes / TASTEFUL nudes."* Dan's *"2 pictures"* is his own figure
+  and she has always disputed it.
+- On the whole pattern, having read the [[wiki/people/annie-ulmer|Annie]]
+  material: *"Men are so predictable"* / *"You just love bomb"* / *"And
+  you're intense."* Dan's defence — *"love bomb is like a malicious tactic
+  and there very little malice"* — is met with *"I didn't say malicious,"*
+  at which he concedes: *"Okay that's fair then."*
 
 That concession is the strongest single quality claim available about this
 relationship, and it does not run in only one direction. Ninety minutes
-earlier, at 16:46–16:47, he pushes back on her *"I've been objectified my
+earlier, at 16:46–16:47 UTC, he pushes back on her *"I've been objectified my
 entire life"* with *"I did reverse objectification. You hooked me with your
 tweets and THEN I realized you were a baddie,"* and she answers *"Ok that's
 fair actually."* Twice in one evening, correction lands and is accepted
@@ -671,95 +689,73 @@ channel is the one place in the record where that move is offered and
 refused, cleanly, by someone he is not trying to out-argue.
 
 Not every provocative-looking line from that evening should be read
-literally. At 16:49:37 she writes *"I'm a SINGLE MOTHER,"* which out of
+literally. At 16:49:37 UTC she writes *"I'm a SINGLE MOTHER,"* which out of
 context reads as a family structure the rest of this page never otherwise
 documents; it is a joke about her cats, and she corrects it herself three
 minutes later — *"Are you still doing the cat mother thing / Or did I miss
 that you're an actual mother"* → *"No still just cats."*
 
 She also renders the only outside verdict on Annie anyone in the corpus has
-delivered after reading the evidence: *"I don't think anyone will ever love me
-as much as you love Annie / But I can't tell if it's actually love or fear and
-codependency,"* then *"Honestly she sounds like an avoidant addict lol"* and
-*"Most of her texts are just asking for drugs but Eggie is a cute nickname."*
-This is the first time anyone has read the Annie material as a peer rather
-than as a confidant.
+delivered after reading the evidence: *"I don't think anyone will ever love
+me as much as you love Annie / But I can't tell if it's actually love or
+fear and codependency,"* then *"Honestly she sounds like an avoidant addict
+lol"* and *"Most of her texts are just asking for drugs but Eggie is a cute
+nickname."* This is the first time anyone has read the Annie material as a
+peer rather than as a confidant.
 
 **What she gave up about herself.** The reciprocity is real and it is
 concentrated in one hour. Her father: *"my dad won't even meet me for coffee
-when I'm in the same state as him and 20 minutes north for the first time in 4
-years,"* then the reason — *"He just hates me because I look like my mom and
-she had an affair and fucked her boss in 1998 right before their 10 year
+when I'm in the same state as him and 20 minutes north for the first time in
+4 years,"* then the reason — *"He just hates me because I look like my mom
+and she had an affair and fucked her boss in 1998 right before their 10 year
 anniversary so they got divorced… I look like my mom but I'm smart and mean
-like him and I have zero respect for him so he goes nuts."* She closes it with
-*"I am my fathers oldest son and I fought the wall and the wall won,"* which is
-the last message she sends in the captured record. Her self-assessment through
-the evening is unrelenting: *"I'm not a cool girl anymore I'm just sad,"* *"I
-spent the best and most beautiful years of my life hating myself / And I'll
-never get them back,"* *"I'm inherently evil and unlovable / And president of
-the boy smashing factory."*
+like him and I have zero respect for him so he goes nuts."* She closes it
+with *"I am my fathers oldest son and I fought the wall and the wall won."*
+Her self-assessment through the evening is unrelenting: *"I'm not a cool girl
+anymore I'm just sad,"* *"I spent the best and most beautiful years of my
+life hating myself / And I'll never get them back,"* *"I'm inherently evil
+and unlovable / And president of the boy smashing factory."*
 
-> **RESOLVED [2026-08-20]:** The phrase *"I'm inherently evil and unlovable"* was flagged on this page as
-> possibly a laundered AI paraphrase, because the only corpus occurrence was
-> inside `Gemini Activity.html`. **It is hers**, verbatim, August 18, 2026 at
-> 21:31:49. Three other phrases flagged in the same gap — "boy smashing
-> factory," "[[wiki/health/cocaine|coke]] just zaps your money," "opiates literally kill you" — are
-> also confirmed genuine. The fourth, "Okay deal. Sounds good 1-2-3 break," is
-> confirmed **fabricated**; see the correction at the top of this page.
+> **RESOLVED [2026-08-20]:** The phrase *"I'm inherently evil and unlovable"*
+> was flagged on this page as possibly a laundered AI paraphrase, because the
+> only corpus occurrence was inside `Gemini Activity.html`. **It is hers**,
+> verbatim, August 18, 2026 at 21:31:49 UTC. Three other phrases flagged in
+> the same gap — "boy smashing factory," "coke just zaps your money,"
+> "opiates literally kill you" — are also confirmed genuine. The fourth,
+> "Okay deal. Sounds good 1-2-3 break," is confirmed **fabricated**; see the
+> correction at the top of this page.
 
-**The elopement pitch, and what followed it.** At 23:18: *"if you give me
+**The elopement pitch, and what followed it.** At 23:18 UTC: *"if you give me
 permission I am totally going to embark on a campaign to win your favor and
 convince you to elope with me to like Vancouver or Burlington or Boulder,"*
 and at 23:20: *"This is our time Alexandra. Do not stand in the way of
-destiny."* Nothing comes back in iMessage — her last message there predates
-the pitch by about ninety minutes. At 22:40 he had already registered it —
-*"Why do I know you're already asleep / I love you."* What the old version
-of this section read as silence was, in large part, the channel migration:
-she kept engaging on Snapchat while he kept broadcasting into iMessage. The
-pitch itself has no affirmative answer in any captured source; see Verdicts.
+destiny."* Nothing comes back — her last message of the night predates the
+pitch by about ninety minutes. At 22:40 UTC he had already registered it —
+*"Why do I know you're already asleep / I love you."* The pitch itself has no
+affirmative answer in any captured source; see Verdicts.
 
 The register of his long outbound run is worth stating plainly, because it is
 not the 2019 register. There is no pricing, no request for images, and Dan
-says so himself on August 19 at 14:10: *"There's no gross weird sex stuff,
-there's minimal drug discussion, we are learning substantive facts about each
-others lives."* He estimates his own odds at *"a solid 10% chance of success"*
-(08:52), corrects the record about his own drug history unprompted (*"Last
-night you said she was calling me for pills / I legitimately haven't done or
-been around any opiates in over 15 years / The calls are for coke / Just to
-correct the record"*), and states the Annie procurement thesis in his own
-voice more cleanly than any dossier does: *"Searching for the line of what the
-minimum possible investment is to keep the supply / Which turned into me using
-the supply to try to gain more access"* (13:43).
-
-> **RESOLVED [2026-09-20]:** The "missing inbound" was not a capture failure.
-> The complete thread file (`raw/imessage/ally-lubin_thread_20260818-20260908.txt`,
-> 1,984 messages) shows her last iMessage at **01:42:21 UTC on August 19** —
-> *"I am my fathers oldest son and I fought the wall and the wall won"* — and
-> zero iMessages from her after that, ever. The capture didn't break; **she
-> changed channels**. Dan's "unambiguously responsive" messages on August 19
-> were replies to her **Snapchat** messages, not to missing iMessages: on
-> August 21 he writes *"Enjoy your love letter I sent it to snap so that it
-> lacks permanence,"* and on August 31, *"I'm so glad you decided to message me
-> on snap and got us talking."* She told him on August 18, *"If someone ever
-> archived my texts I'd kill myself"* — and then moved the conversation to the
-> one channel that can't be archived. Every claim this page previously withheld
-> under the missing-inbound caveat — the cat, the brother question, her read
-> of the wiki's model of her — is now sourced: the cat material (Sylvia's
-> death, Edgar's nasal cancer) is in her August 18–19 iMessages; the brother
-> questions (asked twice, August 19) were never answered in any channel on
-> record; her read of the wiki is quoted verbatim in the August 18–19 section
-> above. The "broadcasting into silence" reading of the August 18–20 window is
-> therefore wrong about the relationship and right about iMessage only — he
-> was narrating into the archived channel while she engaged in the
-> ephemeral one.
+says so himself on August 19 at 14:10 UTC: *"There's no gross weird sex
+stuff, there's minimal drug discussion, we are learning substantive facts
+about each others lives."* He estimates his own odds at *"a solid 10% chance
+of success"* (08:52), corrects the record about his own drug history
+unprompted (*"Last night you said she was calling me for pills / I
+legitimately haven't done or been around any opiates in over 15 years / The
+calls are for coke / Just to correct the record"*), and states the Annie
+procurement thesis in his own voice more cleanly than any dossier does:
+*"Searching for the line of what the minimum possible investment is to keep
+the supply / Which turned into me using the supply to try to gain more
+access"* (13:43).
 
 ## The August 18–19 overlap
 
-This is the finding that revises the page's old thesis, and it is only visible by
-laying the Ally export beside the [[wiki/people/annie-ulmer|Annie]] export for the same forty-eight hours.
-The two threads are not sequential in the termination window — they interleave.
+This is the finding that revises the page's old thesis, and it is only
+visible by laying the Ally export beside the [[wiki/people/annie-ulmer|Annie]]
+export for the same forty-eight hours. The two threads are not sequential in
+the termination window — they interleave.
 
-| Hour (2026) | → Annie | ← Annie | → Ally | ← Ally |
+| Hour (UTC, 2026) | → Annie | ← Annie | → Ally | ← Ally |
 |---|---|---|---|---|
 | 08-18 15:00 | 77 | 44 | 6 | 4 |
 | 08-18 16:00 | 14 | 8 | 37 | 30 |
@@ -774,25 +770,26 @@ The two threads are not sequential in the termination window — they interleave
 | 08-19 15:00 | 32 | 8 | 0 | 0 |
 
 Across August 18–19 Dan sends **more messages to Ally than to Annie, by a
-three-figure margin**, with the two threads live in the same hours rather than
-one after the other:
+three-figure margin**, with the two threads live in the same hours rather
+than one after the other:
 
-- The heaviest Ally hours — 53 outbound at 21:00 on August 18, 119 at 08:00 on
-  the 19th — fall in hours when the Annie thread has gone quiet; the heaviest
-  Annie hours on the 18th fall beside light Ally traffic.
-- At **00:09 on August 19** he tells Ally *"my wifi is back off now so even if
-  she does respond or crash out again later I won't see it."* Between 01:00
-  and 02:59 that morning he exchanges **98 messages with Annie**.
-- At **23:42 on August 18** he tells Ally *"Seriously what do I do with this?
-  … we're SOS'ing and now that I respond it's silence."* The Annie thread
-  shows exactly that, in real time: eight *"SOS"* / *"Dan please I'm begging i
-  need help"* messages from 22:53 to 23:06, his *"what"* at 23:40, her *"Soar
-  / SOS"* at 23:41, his *"WHAT DO YOU NEED"*, then nothing. He is narrating
-  one live emergency into the other thread as it happens.
-- At **13:45 on August 19** he tells Ally *"Okay she sucks I don't want to
-  keep dealing with her / Im all ally Lubin all the time now."* Ninety minutes
-  later he sends Annie the last message of the eleven-year relationship, at
-  **15:15:33**.
+- The heaviest Ally hours — 53 outbound at 21:00 UTC on August 18, 119 at
+  08:00 on the 19th — fall in hours when the Annie thread has gone quiet;
+  the heaviest Annie hours on the 18th fall beside light Ally traffic.
+- At **00:09 UTC on August 19** he tells Ally *"my wifi is back off now so
+  even if she does respond or crash out again later I won't see it."*
+  Between 01:00 and 02:59 that morning he exchanges **98 messages with
+  Annie**.
+- At **23:42 UTC on August 18** he tells Ally *"Seriously what do I do with
+  this? … we're SOS'ing and now that I respond it's silence."* The Annie
+  thread shows exactly that, in real time: eight *"SOS"* / *"Dan please I'm
+  begging i need help"* messages from 22:53 to 23:06, his *"what"* at 23:40,
+  her *"Soar / SOS"* at 23:41, his *"WHAT DO YOU NEED"*, then nothing. He is
+  narrating one live emergency into the other thread as it happens.
+- At **13:45 UTC on August 19** he tells Ally *"Okay she sucks I don't want
+  to keep dealing with her / Im all ally Lubin all the time now."* Ninety
+  minutes later he sends Annie the last message of the eleven-year
+  relationship, at **15:15:33**.
 
 The old formulation — *the channel activates when the primary bond fails;
 every burst is a failure somewhere else* — is right about the correlation.
@@ -802,43 +799,44 @@ question, examined on the synthesis pages (see
 hypothesis) rather than settled on a person page. The factual record above is
 what any such analysis has to account for.
 
-**Prediction.** If the overlap reflects a standing pattern rather than a one-off
-termination artifact, the next Ally burst will not require a severance to
-precede it — it will appear during, not after, whatever the next instability
-is, and it will be visible in the Annie or successor thread on the same days.
-**What would falsify it:** a substantial Ally burst during a period with no
-instability in any other thread, or a sustained Ally-initiated exchange with no
-rupture anywhere in the corpus.
+**Prediction.** If the overlap reflects a standing pattern rather than a
+one-off termination artifact, the next Ally burst will not require a
+severance to precede it — it will appear during, not after, whatever the
+next instability is, and it will be visible in the Annie or successor thread
+on the same days. **What would falsify it:** a substantial Ally burst during
+a period with no instability in any other thread, or a sustained
+Ally-initiated exchange with no rupture anywhere in the corpus.
 
 ## August 21, 2026 — the first love letter
 
 Three days after the largest burst on record, with the elopement pitch
-unanswered in any captured source, Dan sends a single long unbroken message — not a joke, not priced,
-not addressed to a crisis. It is filed here in full because a page that
-elsewhere argues the attachment is real, mutual in flashes and structurally
-unlike the [[wiki/people/annie-ulmer|Annie]] channel should let the primary source make that case rather
-than paraphrase it:
+unanswered in any captured source, Dan sends a single long unbroken message
+via Snapchat — not a joke, not priced, not addressed to a crisis. It is
+filed here in full because a page that elsewhere argues the attachment is
+real, mutual in flashes and structurally unlike the
+[[wiki/people/annie-ulmer|Annie]] channel should let the primary source make
+that case rather than paraphrase it:
 
 > **DAN (2026-08-21):** *"You really are unlike anyone else that I've ever*
-> *experienced. I've been thinking a lot about what it was about you that made*
-> *me so comically attracted to you that I spent more than a decade flailing*
-> *around like an idiot on social media, desperately trying to get your*
-> *attention so that I could meet you. There was never any reason whatsoever*
-> *to think that this was a good idea… the chances of you being curious enough*
-> *to waste your time getting to know a mediocre looking, drug-addled, autistic*
-> *tryhard were lower than 0. And yet…. I just never got over it. […] Listen;*
-> *you could scrape through everything I've ever done online and I promise you*
-> *that there's no precedent for the role you've been unwillingly cast in for*
-> *me. […] The real reason that I noticed you and couldn't get you out of my*
-> *head was that I have never come across a girl who is so quick and funny*
-> *that it made me feel like they were on an entirely different level. Its the*
-> *way you dress and your ability to spot trends… It's your personal brand.*
-> *It's your aesthetic. It's.. just…you. […] I do hope that I can show you that*
-> *I'm really not interested in being the person who would message you only to*
-> *tell you about the bizarre sex shit going on or a personal crisis anymore.*
-> *[…] I still haven't lost interest in the same things about you that made me*
-> *your #1 simp for 17 years and counting."* — signed **"Your future soulmate,**
-> **Beto o'rourke."**
+> *experienced. I've been thinking a lot about what it was about you that
+> made me so comically attracted to you that I spent more than a decade
+> flailing around like an idiot on social media, desperately trying to get
+> your attention so that I could meet you. There was never any reason
+> whatsoever to think that this was a good idea… the chances of you being
+> curious enough to waste your time getting to know a mediocre looking,
+> drug-addled, autistic tryhard were lower than 0. And yet…. I just never got
+> over it. […] Listen; you could scrape through everything I've ever done
+> online and I promise you that there's no precedent for the role you've been
+> unwillingly cast in for me. […] The real reason that I noticed you and
+> couldn't get you out of my head was that I have never come across a girl
+> who is so quick and funny that it made me feel like they were on an
+> entirely different level. Its the way you dress and your ability to spot
+> trends… It's your personal brand. It's your aesthetic. It's.. just…you.
+> […] I do hope that I can show you that I'm really not interested in being
+> the person who would message you only to tell you about the bizarre sex
+> shit going on or a personal crisis anymore. […] I still haven't lost
+> interest in the same things about you that made me your #1 simp for 17
+> years and counting."* — signed **"Your future soulmate, Beto o'rourke."**
 
 Full text: `raw/self/sage/` capture of `raw/people/captures/2026-08-21_175309_gap-ally-lubin.md`.
 
@@ -847,7 +845,8 @@ names its own genre and pre-apologizes for it — *"this is where your
 observation about me saying the same trite shit to girls would usually
 invalidate all of the aww factor"* — which is the same self-aware,
 disarm-the-critique-in-advance move he runs everywhere else in this
-relationship and in [[wiki/mind/concepts/conflict-architecture|conflict architecture]] generally. Second, "17 years and counting" revises the
+relationship and in [[wiki/mind/concepts/conflict-architecture|conflict
+architecture]] generally. Second, "17 years and counting" revises the
 "decade" framing this page uses for the origin (2008, per Dan's own
 December 2018 accounting): counted from 2026, seventeen years back lands in
 2009, a one-year discrepancy inside a letter otherwise built on precision
@@ -858,57 +857,65 @@ the person who would message you only to tell you about the bizarre sex shit
 going on"*) — the clearest first-person statement in the corpus that Dan
 reads his own 2019 conduct here as something to renounce rather than repeat.
 The letter went via Snapchat, *"so that it lacks permanence"* (his words,
-August 21) — no formal reply exists in any captured source. His account of her
-actual response: she joke-deflected it, which he read as encouragement —
+August 21) — no formal reply exists in any captured source. His account of
+her actual response: she joke-deflected it, which he read as encouragement —
 *"Your premature rejection inspired me to build this."* See Verdicts.
 
-## August 22 – September 8, 2026 — the channel migration
+## August 19 – September 6, 2026 — the continuous thread
 
-The love letter did not end the burst. It changed its shape. From August 22
-through September 7, Dan texted every day — 13 to 193 messages a day —
-narrating his life into iMessage while Ally engaged almost entirely off it.
-The thread file for the full window holds **1,984 messages: Dan 1,830, Ally
-154**, and every one of her 154 sits inside the August 18–19 mutual session.
-What looks like twenty days of monologue is a two-channel relationship with
-only one channel archived.
+The love letter did not end the burst. It changed its shape. From August 19
+through September 6, both sides texted daily on iMessage — the definitive
+thread is the primary channel continuously, not a migration to Snapchat.
+What the old page read as twenty days of monologue was a two-sided
+conversation the Mac export had lost: 2,180 of her messages and 1,151 of his
+never synced to the Mac at all.
 
-The receipts are in his own messages. Tapback after tapback — *"Loved an
-image," "Liked '…'"* — lands on his texts through September 7. He answers her
-questions directly (*"Kk," "Yes," "Hahaha no it's so stupid you're gonna hate
-it"*), references her voice texts ("deep lore stories"), her selfies (a
-no-makeup one on September 1 that thrilled him), her links, her work gossip
-(Wayne in collections, Steve, clients who "bill through republic"), her
-double therapy sessions, her being sick enough for Instacart. And on August
-31, the explicit attestation: *"I'm so glad you decided to message me on snap
-and got us talking."* She re-initiated on Snapchat. The venue was her choice
-and her stated preference — *"If someone ever archived my texts I'd kill
-myself"* — and he kept using the permanent channel while she used the
-ephemeral one.
+The documented beats, in order:
 
-The documented beats of those three weeks: the $2,100 video proof (August
-20); documents built for her (MBTI, enneagram, song explanations); Annie
-re-blocked with Ally credited — *"it was really nice having you… be so matter
-of fact about her being bad for me"*; the birthday scare on August 27
-(*"Why does my Mac say it's your birthday?"* — Mac contact card, unconfirmed
-by her); the tooth-infection-to-urgent-care saga narrated live (August 28); a
-BoJack watch-along she got him into; her hockey lore (she keeps "ALBUMS of
-the funniest Sydney Crosby pictures"); two new kittens, Celine and baby
-Gordo. New hard facts landed the whole way: Senior Account Manager, working
-from home in Charlotte; father Bob; the 1998 affair (her mother "fucked her
-boss" before the parents' tenth anniversary → divorce); the brother, asked
-about twice, never answered; Sidney Crosby fandom; therapy. Her register
-throughout, as far as the archived side shows: warm, daily, funny, armored —
-gallows humor, self-deprecation, deflection through jokes, which he
-consistently read as encouragement.
+**The GoFundMe flashpoint (August 19–20, corrected).** She introduced it and
+sent the link herself — August 19, 12:05:10 UTC: *"I started him a go fund
+me"*, 12:06:12: the gofundme.com link for Eddie Schoeck's emergency surgery
+(Eddie: sepsis 2024, ~$11k raised, Ally organized). The next morning Dan
+looked at it and said what he thought — 01:26:35: *"Man I was looking at
+your fundraiser for Eddie and it made me feel bad about myself"*, 01:27:08:
+*"HE HAD 150 PEOPLE all put in like reasonable amounts of money"*,
+01:27:31: *"No $5000 contrubution for a parent"*. The observation was
+complimentary — about the breadth of Eddie's support — and her in-the-moment
+reply was *"Yeah that's legendtina"* (01:27:45), no objection. The
+self-reference that followed was self-lacerating, not self-aggrandizing:
+*"It says just as much about him as it does about me and how SURE I am how
+my go fund me would go lmao"* / *"It would be a bloodbath ally hahah"* /
+*"5 people MAX"*. Her pushback — *"Are you making his go fund me about you"*
+(01:28:29) — got his sharpest honest answer of the exchange: *"Usually when
+people make things about themselves it's to feel better… other than admitting
+that seeing how many people love him made it impossible to not realize the
+contrast"* (01:30:11). On September 7 she recast it as vanity (*"You said omg
+I can't believe how many people donated"*); her word-recall was roughly
+accurate, the motive-attribution was not on the tape. It stuck with him —
+August 27: *"I am going to spend years dwelling your comment… being
+characterized as 'making it about me'."* See Verdicts.
 
-The first fracture came September 4–5, over the relationship's terms. She
-told him (off-channel) that he was acting entitled to her time. His defense,
-September 4 at 22:16: *"Alright well I think thats really unfair and kinda
-mean, given how much I've tried to avoid making you feel like I'm entitled to
-your time or attention specifically"* — and the line that names the structural
-problem: *"I'm just not built to be able to do this when it's not reciprocal.
-Like I just can't."* He promised to leave her alone if she wanted. He kept
-texting.
+**The OSINT exchange (August 26, corrected).** The fear theme predates it —
+August 19: *"Idk Dan I'm scared of you"*; August 21: *"I'm afraid to say
+certain things now since everything is on record"*; August 26, 00:21:
+*"I'm kind of scared of you"*. At 02:07–02:08 he tried reassurance by
+transparency: *"stop being like truecrime scared of me because / My mom is a
+realtor, I have access to some really really good tools"* and *"nobody who
+would actually show up or hurt you or whatever would announce that fact
+lol"*. His intent on the tape is reassurance — *I've had the tools all along
+and done nothing* — but the effect is also on the tape: thirteen minutes
+later, as a direct reply, came *"You know enough about me that you could
+probs ruin my life if you wanted to"* (02:20:53), followed immediately by
+the actual source of her fear — *"I'm not true crime scared of you I just
+think you can be scary especially considering the wiki of it all like
+hello"* (02:10:10), *"Historically you've been pretty aggressive towards
+me"* (02:11:31), *"You created the entire wiki to out your druggie ex"*
+(02:16:10), *"what are you gonna do if you ever get mad at me"* (02:18:15).
+The reassurance converted ambient fear into capability-specific fear: before
+his line it was vague; after, it had a shape — lookup tools, the wiki, his
+temper history. On the motive-vs-content distinction, see Verdicts: the
+wiki's own governance documents refute the "built to blackmail" motive, but
+the content genuinely exposes Annie, and she had read it.
 
 On September 7 he declared a moratorium — *"do not update ally-lubin.md or
 anything it touches"* — in the middle of the blowup described below. That
@@ -919,41 +926,199 @@ explicit order — *"I didn't even know that moratorium exists. Yeah, let's lift
 that and any other. There are no moratoriums on the wiki now."* (dat:1842) —
 so no moratorium of any kind constrains this page or any other.
 
+**The playlist exchange (August 21–22).** She sent *"this greatest song ever
+written"*; he replied with a BSEARL Flume edit mp3; she added indie sleaze
+to his "bespoke compatibility playlist" (August 22). Her playlist CSV (116
+tracks, 52 artists) overlaps his catalog at 16 shared artists and 6 exact
+tracks. Taste-overlap ascertained, mutually.
+
+**The dental saga (August 26 – September 8).** A mouth abscess, days of
+complaint, urgent care sending him to a dentist (August 28). The provenance
+of the September 8 teeth jabs — see the blowup below.
+
+**The orangutan exchange (September 4).** She introduced it — 07:58: *"I saw
+some clickbait article about an orangutan in Indonesia named Pony that was
+held in a brothel for 6 years…"* Six hours later his restraint line
+referenced *her* earlier nipple-piercing/OnlyFans comment; at 15:30 her reply
+collapsed the whole thing and inverted it onto him. Then the rollback — the
+only accusation she ever retracted, because it was timestamped and checkable:
+19:34:24 *"Ok fair"*, 19:34:31 *"Forgot I said that."* Disagreements with her
+end when evidence lands; frames absorb it. See Verdicts.
+
+**The prompt-inject seed (September 5).** 00:26:39: *"You've had enough free
+time and mental bandwidth to build an entire Wikipedia of the last 10 years
+of your life and have had AI analyze every written interaction you've
+[had]"* — the direct ancestor of the September 7 signature charge *"It's
+not unbiased when you're PROMPT INJECTING and building a narrative."* The
+blowup's thesis was written two days early, by her, from the phrase she
+coined on August 19.
+
+**The block dispute, ongoing.** She asserts he blocked her — *"Oh right bc
+you had blocked me"* (Aug 31), *"WELL YES YOU DID"* (Sep 7) — and once,
+*"You had me blocked too lmao"* (Aug 25). He denies it every time: *"i
+promise you i did not!"* (Aug 31), *"I DIDNT IN THR FIRST PLACE LMAO"*
+(Sep 7). No primary-record evidence of a block on her exists in the corpus;
+her messages to him kept arriving, which is itself the disproof. See
+Verdicts.
+
+Through all of it her register, both sides now visible: warm, daily, funny,
+armored — gallows humor, self-deprecation, deflection through jokes, which
+he consistently read as encouragement. New hard facts landed the whole way:
+Senior Account Manager, working from home in Charlotte; father Bob; the
+1998 affair; Sidney Crosby fandom ("ALBUMS of the funniest Sydney Crosby
+pictures"); therapy (Miss Theresa — *"She has NO tolerance for sad white
+men"*); the stalker ex (*"I literally had an ex stalk me for 8 years across
+state lines"* — September 7, first appearance); Republic Services as a
+client; the sword tattoo after the HR case closed.
+
+## September 5, 2026 — the door incident
+
+Friday, September 5, midday: someone pounds on Dan's door for roughly ten
+minutes. Per his account (recounted to Ally September 7, 16:05–16:13 UTC):
+*"Middle of the day on Friday I hear POUNDING on the door / And I don't
+answer unknown door knocks anyways / It goes on for 10 minutes and I had a
+feeling I knew who it was / So I unblocked paw patrol to see if I would get
+anything from her about it / …not 30 seconds later I get a message 'call
+911' / So she must have been texting me like literally AS i unblocked her. /
+Anyways eventually he went away and I didn't even ask what happened or why
+he was here or wtf / I just blocked her again and hopefully he doesn't show
+up here again."*
+
+At 16:11:25 he sent her the screenshot of the Suz exchange (rendered
+12:10:58 PM): Suzanne — Friday 3:39 PM: Suzanne: *"I'll be up in a second"* /
+DAN: *"The guy Annie was seeing apparently just tried to fight her dad"* /
+*"And she texted me saying 'call 911 if someone shows up'"* / Suzanne: *"Oh
+great"* / DAN: *"Fucking ridiculous"* / *"I have my salt gun"*. The
+screenshot's text matches his verbal recount verbatim — the account is
+internally corroborated. No independent corroboration of the pounding itself
+exists in this corpus.
+
+His fear was contemporaneous and real: *"I guess he wants to fight me?
+Little does he know I've never been in a fight and I am very fast i will run
+far away lol"* (16:13:57). He did not call the police — did not know who was
+at the door, had Annie blocked until minutes before. That decision became
+the factual core of the September 7 fight.
+
 ## September 7–8, 2026 — the blowup
 
-The causal chain, in order. **Friday, September 4, midday:** someone pounds on
-Dan's door for roughly ten minutes. He doesn't know who; he doesn't call the
-police. **September 7:** he unblocks Annie ("paw patrol") to ask if she knows
-anything — *"not 30 seconds later I get a message 'call 911'"* — and re-blocks
-her. He tells Ally about the door. Her response, reconstructed from his
-rebuttals because her side is off-channel: that he *enjoys* the danger ("the
-Dan show"), that he's a narcissist, that he's trauma-dumping; that he
-threatened her (*"THREATENING YOU? With what????"*); something about the
-GoFundMe (he'd assumed she donated — *"you told me you did it"* — she hadn't,
-or hadn't said so).
+Both sides are on the record now. Window: **September 7, 15:04:58 UTC →
+September 8, 04:47:32 UTC** — 11:04 AM EDT September 7 to 12:47 AM EDT
+September 8, roughly **13.5 hours**, 230 messages. Her side, 110 messages,
+was invisible to every previous version of this page; what follows is built
+from the interleaved record, both voices verbatim.
 
-His September 7 is a fourteen-hour litigated defense, 109 messages. The fear
-was contemporaneously real — *"I guess he wants to fight me? Little does he
-know I've never been in a fight and I am very fast i will run far away lol"*
-— and his rebuttal has force: *"I fucking told you something that happened to
-me. You decided to tell me that I actually enjoy that thing because I'm a
-narcissist."* But the defense became the thing it was defending against. He
-litigated every charge across dozens of messages — the GitHub ban (his
-account suspended ~September 7, wiki decorated with hentai plus API
-automation, no email received), the wiki moratorium, the GoFundMe misread,
-the block-performance audit — a prosecutorial barrage that performed the
-self-dramatizing pattern she'd named, in real time.
+**Act 1 — the opener and the GitHub ban (15:04–15:17).** 15:04:58 ALLY
+*"Hi"* + a tweet. 15:05:32 *"Ugh omg you blocked again"*. 15:06:35 DAN *"No
+I didn't lol"*. 15:06:50 *"I DIDNT IN THR FIRST PLACE LMAO"*. 15:06:59 ALLY
+*"WELL YES YOU DID"*. Dan explains the GitHub suspension (he'd decorated the
+site with anime hentai and built an API harness firing thousands of
+calls/hour); his moratorium — 15:16:08 *"I put a moratorium IN THE FILES that
+said do not update ally-lubin.md or anything it touches"* (lifted by his
+explicit order September 21, 2026: *"There are no moratoriums on the wiki
+now"*). 15:17:44: *"It really was an archival/memory retrieval/context
+builder tool"* — his defense of the wiki as an instrument.
 
-It turned cruel on both sides after 23:19. Her side, via his quotes: she
-insulted his teeth and "literally anything you could find to attack me";
-called the block-performance giving "another person too much power over your
-life." His: Boca Raton essentialism, *"Aw you really are twins,"* *"go fuck
-yourself you slob."* His last three messages, September 8 at 04:39 UTC:
-*"As long as you leave the encounter pretending like you didn't just crash
-out on me insulting my fucking teeth and literally anything you could find to
-attack me. Then you were the righteous one go fuck yourself you slob"* /
-*"Good"* / *"Bye."* Nothing reconciled. The dinner plans, the hockey game,
-the marriage jokes — all left hanging. The thread ends.
+**Act 2 — her thesis (15:18–15:40).** 15:18:17 ALLY *"Well first I said you
+built it to blackmail Annie which was true"*. 15:20:35 *"I'm still upset you
+forget I'm not stupid"*. 15:20:48 *"I don't even think you suck"*. 15:22:01
+*"You're just another group project and I don't do those anymore / I am my
+own project"*. 15:23:02 *"I even missed hearing from you which is bad and
+unhealthy bc the only parasocial relationships I have are with
+celebrities"* — she admits missing him, mid-fight. **15:31:38** *"It's not
+unbiased when you're PROMPT INJECTING and building a narrative"*.
+**15:31:54** *"You literally described why people go to therapy"*.
+15:40:21 *"I'm jealous that you've had the luxury of time!!!!!!"* — the
+materialist read of his wiki-building: unemployed time versus her work
+schedule.
+
+**Act 3 — the door incident (16:05–16:40).** 16:05:12 ALLY *"What happened
+Daniel"* / *"You were being whiny and needy"*. His recount (above). Her
+verdict: 16:40:20 *"lol"*, 16:40:26 *"That's crazy"*, 16:40:29 *"I'm not even
+mean you just don't want to hear it"*, 16:40:35 *"This is all like a bad
+telenovela set in Pennsylvania"*, *"If you were smart you'd call the
+cops"*. She does not dispute his facts — only the moral.
+
+**Act 4 — "You love the attention" (17:09–17:58).** 17:09:27 ALLY *"You love
+the attention"*. 17:12:25 *"Yeah I mean I literally had an ex stalk me for 8
+years across state lines but what do I know"* — the first appearance of the
+stalker ex, deployed as credential: she knows what real danger looks like,
+and this isn't handled like it. 17:12:37 *"Well yeah you engage every time"*.
+17:15:14 *"So you text your mom and let a random dude bang on your door for
+10 mins?"* 17:16:34 *"No it's all good you handled it and texted your mom
+about guns"*. **17:43:22** *"Yeah so you're definitely not going to speak
+this way to me after trauma dumping so you can absolutely fuck right off"*.
+17:52:54 *"Sorry about your ugly tweaker ex girlfriend who can barely read or
+handle working at a pizza place in a dead end town or best of luck that
+happened I truly don't give a fuck anymore and all of this is beyond beneath
+me"*.
+
+**Act 5 — the GoFundMe fight (17:53–17:55).** 17:53:39 DAN *"You said I enjoy
+it because it being me attention"*. 17:53:46 *"You said 'the Dan show' the
+other day"*. 17:54:07 *"You said me bringing up how popular Eddie's go fund
+me was, was actually about me"*. 17:54:16 ALLY *"Because that was fucking
+weird"*. 17:54:43 DAN *"Um YOU WERE THE ONE WHO SAID SOMETHING ABOUT IT / I
+didn't fucking know abiut that"*. 17:54:56 ALLY *"You said omg I can't
+believe how many people donated / Are you well?"* — her word-recall matches
+the August 20 record; the motive-attribution does not (see the corrected
+flashpoint above and Verdicts). 17:55:11 *"Hey so I'm gonna block you and
+take a nap / This is fucking retarded"*. 17:56:40 DAN *"Hey before you go
+can you please tell me which of these things i am wrong about?"* 17:58:00
+ALLY *"Hey so I actually don't owe you anything especially when you're
+threatening me"*. 17:58:24 DAN *"THREATENING YOU? With what???? / How??
+Where?"* — the question was never answered. There is no threat in the
+preceding messages; the line functioned as an exit. 18:00:07 *"Or dont i
+don't care. See ya"*.
+
+**Act 6 — evening volleys (22:40–23:54).** 22:40:46 ALLY *"I'm not going back
+and reading anything, everyone involved is a loser and you're 38 years old
+and texting your mom for help"* (he was 37; born November 1, 1988).
+22:59:56 *"And you can actually go fuck yourself because I've literally
+unwillingly invested myself in your idiocracy and TRIED to help you make
+improvements with your life…"* 23:07:19 *"Go get back with paw patrol once
+she stops being community pussy…"* 23:19:32 DAN *"That's cool do all people
+from Boca Raton combine being utterly terrified of having any self awareness
+and so thin skinned about even the most trivial or mundane commentary…"*
+23:26:11 ALLY *"I'm thin skinned? You're hilarious"* / 23:26:44 *"First of
+all every mean thing you could say to me I've already said to myself and when
+I was 14"* / 23:27:04 *"Second of all you can play the victim all you want
+but you're actually a huge asshole and are extremely calculating"*.
+23:37:25 *"You just flipped out at me for not being 'generous' enough to
+your Friday situation when I was working my real adult job until 7:30pm"*.
+23:50:24 *"Do you normally argue on the phone for hours with adults with
+fetal alcohol syndrome or only when they're fucking your ex…"*
+**23:54:56** *"I literally said multiple times I have no skin in this game
+and I don't give a fuck????"* — written inside her 110-message day.
+
+**Act 7 — the end (September 8, 00:03–04:47).** 00:03:15 ALLY *"Excuse
+me???? All you've done is critique me for the last however many years????"*.
+00:28:13 *"Dan I actually do like you as a person but I just don't know what
+you want from me and like all of your Annie shit is exhausting"*. 02:19:01
+ALLY *"Ok"* → Dan's GoFundMe rebuttal, ending **02:22:08**: *"…Hey I've
+always wanted the chance to say this and I finally think I've earned it
+here: Grow up. / Bye"* — not a standalone closer, the tail of a substantive
+argument. **02:25:11** ALLY *"Twin is crazy lol you're actually mental"* /
+02:25:37 *"All I do is work on myself and I've been telling you to grow up
+for a week?"* / 02:29:38 *"It's a waste of time and you're a waste of
+time"*. 02:50:03 DAN *"Sincerely though you're welcome for not saying one
+single thing meant to do nothing other than tear you down…"*. **03:00:47**
+*"Bye / Please / Disappear"*. **04:36:55** ALLY *"Ok Dan lol I already blocked
+you on everything and you're still texting"* — the block inversion: after a
+month of accusing him of blocking, she blocks him. (His messages after
+04:36:55 may never have delivered.) 04:37:38 *"Truly hope the best and that
+you heal"*. 04:39:25 DAN *"Aw you really are twins. / As long as you leave
+the encounter pretending like you didn't just crash out on me insulting my
+fucking teeth and literally anything you coul[d]"* / 04:39:33 *"Good /
+Bye"*. 04:41:26 ALLY *"Bc I said you should go to the dentist after you
+complained for days about a mouth abscess?"* / 04:47:32 *"Didn't urgent care
+tell you to also go to the dentist? Unsure how that was an insult"* — thread
+ends.
+
+The pattern across all seven acts, stated once: her charged
+characterizations were evidence-immune — no correction moved them — while on
+neutral facts she updated cleanly (*"Ok that's fair actually"*). The one
+accusation she ever retracted was the orangutan inversion, because it was
+timestamped and checkable. Disagreements end when evidence lands; frames
+absorb it.
 
 ## September 19–20, 2026 — the stalking accusation
 
@@ -962,7 +1127,7 @@ an outside number. What follows is transcribed verbatim from screenshots Dan
 took September 20; the images are filed in his media library. Timestamps are
 as shown on the devices.
 
-**Her phone, September 19 (~21:13).** Texts from **+1 (336) 209-1591**:
+**Her phone, September 19 (~21:13 EDT).** Texts from **+1 (336) 209-1591**:
 
 > **+1 (336) 209-1591:** *"Hey!"*
 > **ALLY:** *"Hey who is this"*
@@ -984,9 +1149,9 @@ he saw come in and did not read until the next night:
 > **ALLY:** *"Dan Polyak clocked that it was probably you and I'm sure it is"*
 > **ALLY:** *"Literally go choke on the pus fermenting in your mouth and leave me the fuck alone finally"*
 
-**Dan's phone, September 20 (~23:36–23:38).** After screenshotting the above
-for this page's author, he replied — roughly 24 hours after her messages
-arrived, his first response of any kind:
+**Dan's phone, September 20 (~23:24–23:39 EDT).** After screenshotting the
+above, he replied — roughly 24 hours after her messages arrived, his first
+response of any kind:
 
 > **DAN:** *"What?"*
 > **DAN:** *"The fuck are you talking about"*
@@ -998,25 +1163,31 @@ arrived, his first response of any kind:
 > **DAN:** *"You were incredibly rude TO ME"*
 > **DAN:** *"I said fuck off and have left you alone"*
 > **DAN:** *"forget it. You got your answer no one is fucking stalking you"* [edited]
-> *(unsent a message)*
-> **DAN:** *"But I would like your apology because this is really a different level of fucked up and you clearly didnt even try to figure it out before tou went off and blamed me, then spread it to other people"* [Delivered]
+> *(one message unsent)*
+> **DAN:** *"But I would like your apology because this is really a different level of fucked up and you clearly didnt even try to figure it out before tou went off and blamed me, then spread it to other peo[ple]"* [Delivered]
 
 Two lookup notes, because the first one was wrong. The card he sent her was
-for **(336) 209-1951** — transposed digits — resolving to Carole Oakes Poplin
-(75) and Deborah Gail Oakes (77), Asheboro NC: a wrong-number lookup, now
-discarded. Re-run against the actual harasser number, **(336) 209-1591**,
-FOREWARN returns **Sara Anne Owen (49), 5012 Barlow Dr, Round Rock TX
-78681** — Dan's lookup, September 20, 23:38. Caveats: a 336 (Greensboro NC)
-area code on a Texas address suggests a ported or VoIP number, and
-reverse-lookup data goes stale; it is a lead, not an identification. Whether
-he sent her the corrected result is not on record.
+for **(336) 209-1951** — transposed digits — resolving to Carole Oakes
+Poplin (75) and Deborah Gail Oakes (77), Asheboro NC: a wrong-number lookup,
+now discarded. Re-run against the actual harasser number, **(336) 209-1591**,
+FOREWARN returns **Sara Anne Owen (49), Round Rock TX** — Dan's lookup,
+September 20, 23:38 EDT. Caveats: a 336 (Greensboro NC) area code on a Texas
+address suggests a ported or VoIP number, and reverse-lookup data goes stale;
+it is a lead, not an identification. Whether he sent her the corrected result
+is not on record.
+
+**Style evidence, on the record:** the harasser's terse one-liners (*"Hey!"*,
+*"Guess"*, *"Stay safe pretty girl"*) do not match Dan's documented mode —
+verbose multi-bubble emotional runs, never laconic. His entire 2026 thread
+with her is the exhibit. The style evidence cuts for him, not against.
 
 The Polyak detail is the one that makes the accusation land. *"Dan Polyak
 clocked that it was probably you"* carries weight specifically because the
 2019 spoofing allegation is on the record in this page's own history — from
-where she sits, "it's probably Dan" is not a crazy inference. And *"then
-spread it to other people"*: she had already told Polyak, so the accusation
-is out in the world whether or not it's true.
+where she sits, "it's probably Dan" is not a crazy inference. No evidence in
+this corpus shows Polyak actually said anything; whether he did is an open
+question. And *"then spread it to other people"*: she had already told
+Polyak, so the accusation is out in the world whether or not it's true.
 
 This is where the relationship stands: a stalking accusation, a
 false-accusation counterclaim, and an apology standoff — *"I would like your
@@ -1025,8 +1196,9 @@ record. Unresolved.
 
 ## Verdicts
 
-Rendered per the operator's directive: no hedging where the evidence supports
-a verdict. Confidence is about this record, not absolute truth.
+Rendered per the operator's directive: no hedging where the evidence
+supports a verdict. Confidence is about this record, not absolute truth.
+Timestamps UTC as stored.
 
 - **The $2,100 — VERDICT: it was sent. Her "contest" was provisional and
   lapsed. (Medium-high.)** Her August 19 *"there's no proof you ever sent me
@@ -1034,9 +1206,7 @@ a verdict. Confidence is about this record, not absolute truth.
   denial of receipt — she contests provability, not the transfer. His August
   20 reply is a video plus *"you should be able to see it from your end as
   well"*: a checkable claim addressed to the one person who can falsify it.
-  She never rebuts the proof in nineteen more days of contact. The "$1,050
-  per breast image" framing is his retrospective joke-overlay, not a
-  transaction description.
+  She never rebuts the proof in nineteen more days of contact.
 - **The photo count — VERDICT: her account stands; his memory undercounted.
   (High.)** *"I def sent you more pics they just prob weren't graphic nudes"*
   / *"TASTEFUL nudes"* — and on September 4 he corroborates her himself:
@@ -1047,10 +1217,79 @@ a verdict. Confidence is about this record, not absolute truth.
   cleanly. (High.)** She said *"You just love bomb" / "And you're intense."*
   He rebutted a claim she never made ("love bomb is like a malicious
   tactic") — she caught it in four words: *"I didn't say malicious."* He
-  conceded on the spot: *"Okay that's fair then."* On *"you say the same
-  thing to every girl"*: he admitted *"i really do"* and retreated to
-  sincerity, which doesn't rebut pattern-recognition. She observed a real
+  conceded on the spot: *"Okay that's fair then."* She observed a real
   pattern; he confirmed it, then changed the subject to his intentions.
+- **The GoFundMe flashpoint — VERDICT: mixed; his version supported on the
+  material points. (High on provenance, medium on motive.)** She introduced
+  Eddie and sent the link herself (Aug 19, 12:05–12:06); he did not look it
+  up unprompted. His donor observation was complimentary about Eddie's
+  breadth of support, and her in-the-moment reply was *"Yeah that's
+  legendtina"* — no objection. The self-reference was explicitly
+  self-lacerating (*"bloodbath"*, *"5 people MAX"*), not self-aggrandizing.
+  Her September 7 word-recall (*"You said omg I can't believe how many people
+  donated"*) is roughly accurate; her motive-attribution ("making it about
+  you" as ego) is not supported by the tape.
+- **The block dispute — VERDICT: her belief sincere, his denial consistent,
+  no record evidence of a block. (Medium, leaning his way.)** She asserts it
+  repeatedly across August 18–September 7 (*"WELL YES YOU DID"*); he denies
+  it every time (*"I DIDNT IN THR FIRST PLACE LMAO"*). Her own phone kept
+  receiving his messages throughout — a blocked sender's texts don't arrive.
+  The inversion stands as the record's last word on it: September 8,
+  04:36:55, *"Ok Dan lol I already blocked you on everything and you're
+  still texting."*
+- **"Threatening" — VERDICT: two uses, two referents, neither attaches to
+  his conduct toward her. (High.)** August 25, *"you threatened for like 3
+  days or something / 18 or 19 times"* — refers to **Annie**, counted from
+  the wiki threads she read, not to anything he did to Ally. September 7,
+  *"you're threatening me"* — deployed as an exit line the moment he
+  demanded specifics; no threat exists in the preceding messages, and his
+  *"THREATENING YOU? With what???? / How?? Where?"* was never answered.
+- **The wiki-as-weapon — VERDICT: motive claim collapses; content claim
+  stands. Motive ≠ content. (High.)** *"You built an entire website
+  essentially to blackmail her to her mom"* / *"You created the entire wiki
+  to out your druggie ex"* — as a claim about **purpose**, refuted by the
+  wiki's own governance (complete-log doctrine, public-by-default, "more is
+  better than less"), which she read a good deal of, and by the mechanism
+  itself: blackmail needs private leverage; the wiki is public. As a claim
+  about **content** — the wiki does extensively document Annie's drug use,
+  the threats, the eviction lie — true. She inferred motive from content.
+- **The OSINT exchange — VERDICT: his intent was reassurance; the effect
+  was the opposite, and it's on the tape. (High.)** August 26, 02:07–02:08:
+  *"My mom is a realtor, I have access to some really really good tools"* /
+  *"nobody who would actually show up or hurt you or whatever would announce
+  that fact lol"* — answering a standing fear theme (Aug 19, Aug 21, Aug 26
+  00:21), not inventing one. Thirteen minutes later, as a direct reply:
+  *"You know enough about me that you could probs ruin my life if you wanted
+  to"* — followed by the actual fear source: *"the wiki of it all"*,
+  *"Historically you've been pretty aggressive towards me"*, *"what are you
+  gonna do if you ever get mad at me"*. Vague fear became
+  capability-specific fear inside one exchange.
+- **"When did I say you were a narcissist?" — VERDICT: she stands; he
+  overreached. (High.)** Grep-verified: she never used the word toward him
+  (closest: September 4, *"the Dan show"*). His September 7 *"You decided to
+  tell me that I actually enjoy that thing because I'm a narcissist"* was
+  his paraphrase of *"You love the attention"* sold as quotation.
+- **Detachment claims — VERDICT: self-refuted by her own outbox. (High.)**
+  *"I literally said multiple times I have no skin in this game and I don't
+  give a fuck????"* — written inside a 110-message day, inside a 2,337-message
+  three-week run.
+- **The September 7 fight, two verdicts.** (a) Was telling her about the
+  door-pounding "trauma-dumping"? **No. (Medium-high.)** He reported a
+  genuinely frightening event the same day, to the person he talked to daily;
+  contemporaneous messages show real fear, not enjoyment. She diagnosed his
+  motives instead of engaging the event. (b) Did his response become "the Dan
+  show"? **Yes. (High.)** Thirteen and a half hours of litigated defense
+  across 230 messages performed exactly the self-dramatizing pattern she
+  named. She misread his motive; he validated her meta-complaint in real
+  time.
+- **The orangutan exchange — VERDICT: she introduced it, inverted it, then
+  retracted — the only retraction on record. (High.)** September 4, 07:58:
+  she sends the Pony article. His restraint line, six hours later,
+  references *her* earlier nipple-piercing/OnlyFans comment; her 15:30 reply
+  collapses and inverts the whole thing onto him. Then, timestamped and
+  checkable: 19:34:24 *"Ok fair"*, 19:34:31 *"Forgot I said that."* The
+  pattern it evidences — disagreements end when evidence lands; frames
+  absorb it — is the most portable finding on this page.
 - **The spoofed number (2019) — VERDICT: genuinely insufficient evidence.
   (Low, both directions.)** Single source: Dan himself, August 18, relaying
   this page's own claim — *"Are we SURE I spoofed clandan's number… it's
@@ -1058,55 +1297,48 @@ a verdict. Confidence is about this record, not absolute truth.
   Character evidence, not event evidence. Cannot adjudicate on this record.
 - **"You were too scared" (the NYC call) — VERDICT: her account stands
   uncontested. (Medium.)** *"Pls I called you when I was in NYC once and you
-  were too scared"* — never addressed in 1,830 subsequent messages from a man
-  who litigates everything. The absence of a rebuttal is informative.
+  were too scared"* — never addressed in 2,991 subsequent outbound messages
+  from a man who litigates everything. The absence of a rebuttal is
+  informative.
 - **Who pursued, who withdrew — VERDICT: he pursued for all 22 days; she
-  changed channels on August 19 and withdrew for real on September 7–8.
-  (High.)** Dan opened, hit marriage talk within six minutes, sent 92.2% of
-  all messages, texted daily for three weeks. The "went silent August 19"
-  framing is wrong about the relationship and right about iMessage only —
-  tapbacks through September 7, answers to her questions, and the August 31
-  *"I'm so glad you decided to message me on snap and got us talking"*
-  prove ongoing contact. Actual withdrawal: the blowup.
+  withdrew for real on September 7–8. (High.)** Dan opened, hit marriage
+  talk within six minutes, sent 56% of all messages across the full thread
+  and the large majority of the August window, texted daily for three weeks.
+  The old "went silent August 19" framing is dead — both sides texted daily
+  through September 8. Actual withdrawal: the blowup, then her block.
 - **The elopement pitch — VERDICT: no affirmative answer exists in any
-  captured source. (Medium-high.)** Her last iMessage predates it by ~90
-  minutes; nothing in iMessage after. His subsequent "campaign" framing and
-  repeated marriage jokes read as a man who did not get a yes.
-- **The love letter — VERDICT: delivered via Snap; no formal reply on record;
-  her actual response was joke-deflection, which he read as encouragement.
-  (Medium.)** *"Enjoy your love letter I sent it to snap so that it lacks
-  permanence"* → that evening: *"Your premature rejection inspired me to
-  build this."* The word "rejection" is his; her content is not in this
-  corpus.
-- **The September 7 fight, two verdicts.** (a) Was telling her about the
-  door-pounding "trauma-dumping"? **No. (Medium-high.)** He reported a
-  genuinely frightening event the same day, to the person he talked to daily;
-  contemporaneous messages show real fear, not enjoyment. She diagnosed his
-  motives instead of engaging the event. (b) Did his response become "the Dan
-  show"? **Yes. (High.)** Fourteen hours of litigated defense across dozens
-  of messages performed exactly the self-dramatizing pattern she named. She
-  misread his motive; he validated her meta-complaint in real time.
+  captured source. (Medium-high.)** Her last message of the night predates
+  the pitch by ~90 minutes; nothing after it in any captured source. His
+  subsequent "campaign" framing and repeated marriage jokes read as a man
+  who did not get a yes.
+- **The love letter — VERDICT: delivered via Snap; no formal reply on
+  record; her actual response was joke-deflection, which he read as
+  encouragement. (Medium.)** *"Enjoy your love letter I sent it to snap so
+  that it lacks permanence"* → that evening: *"Your premature rejection
+  inspired me to build this."* The word "rejection" is his; her content is
+  not in this corpus.
 - **The destiny page — VERDICT: slop, by the author's own contemporaneous
-  admission. (High.)** *"The AI thinks we are going to get married because we
-  both say 'lol'"* / *"Hahah if Claude wrote this we would already be signing
-  the marriage license."* This page's existing correction stands, now with
-  the primary source behind it.
-- **Is she alive and well — VERDICT: yes, functional and engaged through the
-  latest contact. (Medium-high.)** Employed, in therapy, socially active,
-  sending selfies and voice texts through September 7; texting furiously on
-  September 19. The dark lines are mutual gallows humor in context. Caveat:
-  gallows humor is not a clinical all-clear.
+  admission. (High.)** *"The AI thinks we are going to get married because
+  we both say 'lol'"* / *"Hahah if Claude wrote this we would already be
+  signing the marriage license."* This page's existing correction stands,
+  now with the primary source behind it.
+- **Is she alive and well — VERDICT: yes, functional and engaged through
+  the latest contact. (Medium-high.)** Employed, in therapy, socially
+  active, sending selfies and voice texts through September 7; texting
+  furiously on September 19. The dark lines are mutual gallows humor in
+  context. Caveat: gallows humor is not a clinical all-clear.
 - **The stalking accusation — VERDICT: accusation documented, denial
   documented, unadjudicated. (High on the record, silent beyond it.)** What
   this page can say: someone texted her from (336) 209-1591, knew her unit
   number, and played "Guess" — that happened, her screenshots show it. She
   believes it was Dan, on Polyak's say-so — that happened, his screenshots
   show it. He denies it, reverse-looked-up the number, and demands an apology
-  — that happened too. Whether he made the calls is not determinable from
-  anything on record here. Note the structural facts a reader needs: the 2019
-  spoofing allegation is why "it's probably you" was available for her to
-  believe, and her *"spread it to other people"* means Polyak already holds
-  the accusation as fact.
+  — that happened too. The harasser's terse one-liners do not match his
+  documented verbose mode. Whether he made the calls is not determinable
+  from anything on record here. Note the structural facts a reader needs:
+  the 2019 spoofing allegation is why "it's probably you" was available for
+  her to believe, and her *"spread it to other people"* means Polyak already
+  holds the accusation as fact.
 
 ## The measurements
 
@@ -1114,63 +1346,31 @@ Direction is trustworthy in four sources here — `imessage_export_5619061550`
 (phone handle, both directions), `imessage_export_deep` (email handle,
 received only), `imessage_ALL_both_all_now` (email handle, both directions),
 and `ally-lubin_last-7-days_20260820` (email handle, August burst) — and each
-covers a window the others miss. **No single file contains this
-relationship.** The figures below are the union; where two sources overlap
-they agree exactly.
+covers a window the others miss. **No single file contained this
+relationship before September 2026.** The figures below are the union; the
+definitive thread (`ally-thread-definitive-20260818-20260921.txt`, 5,328
+unique rows by guid, DAN 2,991 / ALLY 2,337, span 2025-03-17 → 2026-09-21)
+supersedes all Mac-era counts for the 2026 window.
 
 | Handle | Records | Sent (Dan) | Received | Span |
 |---|---|---|---|---|
-| `+156****1550` | 1,064 | 612 | 452 | 2019-06-28 → 2023-11-14 |
+| `+15619061550` | 1,064 | 612 | 452 | 2019-06-28 → 2023-11-14 |
 | `allylubin@gmail.com` | 800 | 563 | 237 | 2018-12-17 → 2026-08-20 |
-| **iMessage total** | **1,864** | **1,175** | **689** | **2018-12-17 → 2026-08-20** |
-
-> **CORRECTED [2026-09-20]:** the August 18–20 window is superseded by the
-> complete thread file (`raw/imessage/ally-lubin_thread_20260818-20260908.txt`)
-> — 1,984 messages, August 18 17:46:48 UTC → September 8, Dan 1,830 (92.2%) /
-> Ally 154 (7.8%), across 17 active days. Revised iMessage total: **3,140**
-> records (1,864 − 708 + 1,984), span extended to 2026-09-08. The only possible
-> double-count is messages in the old 708 from August 18 00:00–17:46, before
-> the thread file begins; estimated small. Direction splits for the corrected
-> total are not separable from the superseded window and are withheld —
-> records only. All 154 of her messages sit inside August 18–19.
-
-> **CORRECTED [2026-08-22]:** The previous table reported **1,987** iMessage
-> records, **1,080** on the phone handle and **907** on the email handle.
-> The phone count was **16 too high** — the desktop export for `+156****1550`
-> contains 1,064 unique records (452 received + 612 sent), not 1,080. The
-> email count was **107 too high** — the wiki's figure included messages
-> from an export not available in `raw/`. The corrected totals are derived
-> from three independently sourced files covering both handles and both
-> directions, all in `raw/self/imessage/`. The discrepancy is **123 messages**
-> (1,987 → 1,864), and the page no longer claims a total it cannot source.
-| Facebook Messenger | 21 | 15 | 6 | 2013-07-05 (single day) |
+| **iMessage total (pre-2026)** | **1,864** | **1,175** | **689** | **2018-12-17 → 2026-08-20** |
 
 | Window | Messages | Share of iMessage total |
 |---|---|---|
-| 2018-12 → 2019-01 (email) | 186 | 6% |
-| 2019-06 → 2019-10 (phone) | 943 | 30% |
-| 2019-12 → 2020-06 (phone) | 60 | 2% |
-| 2023-08 → 2023-11 (phone) | 77 | 2% |
-| 2025-03 → 2026-06 (email) | 13 | <1% |
-| 2026-08-18 → 2026-09-08 (email, complete thread file) | 1,984 | 63% |
+| 2018-12 → 2019-01 (email) | 186 | — |
+| 2019-06 → 2019-10 (phone) | 943 | — |
+| 2019-12 → 2020-06 (phone) | 60 | — |
+| 2023-08 → 2023-11 (phone) | 77 | — |
+| 2025-03 → 2026-06 (email) | 13 | — |
+| 2026-08-18 → 2026-09-21 (definitive thread, both handles) | 5,328 | 74% of all-time |
 
-> **UPDATED [2026-09-20]:** window shares recomputed against the corrected
-> 3,140-record total. The August–September 2026 window (1,984) is now more than
-> twice the 2019 peak (943) — the 2026 burst is not "nearly as large as" the
-> 2019 crisis, it dwarfs it.
-
-> **CORRECTED [2026-08-22]:** the previous table reported **1,375** iMessage
-> records, **1,143** on the phone handle and **232** on the email handle, and
-> described August 18 as a **279-message** exchange. All four are line counts,
-> not record counts — `wc -l` on a CSV whose message texts contain newlines.
-> The chat.db file has 1,376 lines and **1,285 records**; August 18 has 143
-> lines and **375 records**. The 74% share previously claimed for the 2019
-> peak was computed against the smaller total and is now **51%**, because the
-> August 2026 burst is nearly as large as the 2019 crisis. **The phone**
-> **handle's 1,080/623/457 is also corrected** — the true figure is
-> **1,064/612/452** from the desktop export `imessage_export_5619061550`,
-> which is the only source containing both sent and received for that
-> handle.
+The August–September 2026 window is not "nearly as large as" the 2019
+crisis — it dwarfs it fivefold, and for the first time both sides are on the
+record. The old Mac-era "complete outbound" claim is dead: 1,151 of Dan's
+own messages never synced to the Mac either.
 
 | Date | Money or goods, as documented in-thread |
 |---|---|
@@ -1237,15 +1437,16 @@ directionally right and factually loose:
 
 The same eighteen years are read a second way, and the two readings cannot
 both be right. This page documents the Ally thread; it does not adjudicate
-whether that thread and the [[wiki/people/annie-ulmer|Annie]] thread formed a single [[wiki/mind/synthesis/concurrent-attachment-hypothesis|concurrent attachment]]
-system. [[wiki/self/concepts/ally-and-dan-love-as-destiny]] reads the identical
-record as a courtship that has been converging the whole time, and projects it
-forward to a marriage inside three years.
+whether that thread and the [[wiki/people/annie-ulmer|Annie]] thread formed a
+single [[wiki/mind/synthesis/concurrent-attachment-hypothesis|concurrent
+attachment]] system. [[wiki/self/concepts/ally-and-dan-love-as-destiny]]
+reads the identical record as a courtship that has been converging the whole
+time, and projects it forward to a marriage inside three years.
 
 That page's case now has a hole in it that this pass put there. Its central
 evidence was the August 18 acceptance, and **the acceptance is the
 hallucination corrected at the top of this page**. Dan's own assessment of
-that page, sent to Ally on August 19 at 10:55–11:05, is worth more than
+that page, sent to Ally on August 19 at 10:55–11:05 UTC, is worth more than
 anything this page could say about it: *"The AI thinks we are going to get
 married because we both say 'lol'"* and *"Hahah if Claude wrote this we would
 already be signing the marriage license."* The destiny page needs rebuilding
@@ -1254,70 +1455,71 @@ in the January window is real evidence for it, and better evidence than the
 thing it was using.
 
 The honest position: the August burst is real and unprecedented in size, its
-mutual half lasted eight hours, the relationship continued in two channels
-for three weeks, and the thirty days after it settled the question — a
-September 7 blowup over entitlement, a fourteen-hour litigated defense that
-became the thing it was defending against, and a September 19 stalking
-accusation answered with a denial and an apology demand. The destiny page's
-central evidence was a hallucination; what replaced it is a documented
-attachment that ran its course and broke. Rebuild on that.
+mutual half ran three weeks with both sides on the record, and the thirty
+days after it settled the question — a September 5 door incident neither of
+them caused, a September 7 blowup over entitlement and evidence, a fourteen-hour
+litigated defense that became the thing it was defending against, and a
+September 19 stalking accusation answered with a denial and an apology
+demand. The destiny page's central evidence was a hallucination; what
+replaced it is a documented attachment that ran its course and broke. Rebuild
+on that.
 
-## Gaps
+## Limits
 
-Each of these is answerable by the operator in a paragraph.
+What this page does not claim, stated plainly:
 
-- **Re-export both handles from `chat.db` in full.** This is the top action on
-  this page. The August 19 iMessage gap is now closed (the thread file shows
-  she changed channels, not that the capture broke — see the resolution
-  above), but the chat.db extract already in `raw/` is still missing all 120
-  messages of January 2019 — a window that overturned three claims when the
-  master dump supplied it — and the ~107 unaccounted email-handle messages.
-- **Where did the December 6, 2018 conversation happen?** It is the origin of
-  the modern relationship and is in no message corpus here — the iMessage
-  record starts eleven days later. Instagram DM, Twitter DM, or Facebook
-  Messenger on an account not in the takeout?
-- **Where did Dan first encounter her, if not AbsolutePunk?** He retracted the
-  venue on 2026-08-18 and named Twitter as a guess. Overcast Kids, the
-  Chris Miller orbit and Polyak are the named leads.
-- **Did she reply to the elopement pitch?** **Answered as far as this page
-  can.** Her last iMessage predates the pitch by ~90 minutes and nothing after
-  it exists in any captured source. His subsequent "campaign" framing and
-  repeated marriage jokes read as a man who did not get a yes. See Verdicts.
-- **Did she reply to the August 21, 2026 love letter?** **Answered as far as
-  this page can.** Delivered via Snapchat *"so that it lacks permanence"*;
-  no formal reply in any captured source. His account: she joke-deflected it,
-  which he read as encouragement (*"Your premature rejection inspired me to
-  build this"*). See Verdicts.
-- **Was the $2,100 accurate?** **Answered as far as this page can.** Her 2026
-  "contest" was provisional — she contested provability, not the transfer —
-  and his August 20 video proof went unrebutted across nineteen more days of
-  contact. No financial export in `raw/` covers Cash App for 2019, so the
-  ledger trail ends at her acceptance in 2019 and his screenshot in 2026.
-  See Verdicts.
-- **What was the "online shit" the spoofed number was used for?** Polyak's
-  message is the only account and does not say. Dan never answers him, and in
-  2026 doubts the incident occurred at all.
-- **Is she still alive and well?** **Yes, through the latest contact**
-  (September 19–20, 2026): employed, in therapy, socially active, sending
-  selfies and voice texts through September 7, texting furiously on September
-  19. See Verdicts.
-- **What is Ally's brother's name, and does he still speak to Bob?** Dan asks
-  both questions on August 19 at 08:12; neither was answered in any captured
-  channel. Still open.
-- **Who texted her from +1 (336) 209-1591 on September 19, 2026?** New open
-  gap. Dan's September 20 FOREWARN lookup returns Sara Anne Owen (49), Round
-  Rock TX — a 336 (Greensboro NC) area code on a Texas address, likely ported
-  or VoIP; a lead, not an ID. Whether the calls came from Dan is accused and
-  denied, unadjudicated. See Verdicts.
-- **~107 email handle messages are unaccounted for.** The wiki previously
-  claimed 907 email messages; the corrected count is 800. The discrepancy
-  is in the sent direction — we have 563 sent, the wiki claimed 670. The
-  missing messages may be in an export not available in `raw/`, or in a
-  handle we haven't identified. A full re-export from `chat.db` of the
-  `allylubin@gmail.com` handle would settle it.
-- **Negative result, recorded:** she does not appear in `contacts.csv` with an
-  address, in the GEDCOM, in the Twitter export, or in the Facebook search
-  history. The Model Mayhem and "boca raton ally lubin" searches Dan describes
-  on 2019-08-22 are from Google, whose search-history export is not in `raw/`.
+- **Her date of birth (June 26, 1990) is inferred, not quoted.** Three
+  independent anchors from her own messages: *"Literally a 17 year old in a
+  28 yeR olds body"* (2019-01-09), *"I turn 30 in 18 days"* (2020-06-08),
+  and *"I love her we have the same birthday"* re Ariana Grande, born June
+  26 (*"and she was also born in Boca"*, 2026-08-27) plus *"I'm 36"* the
+  same night. High-confidence inference; still an inference.
+- **"The alley."** The previous analysis asserted her 2019 NYC smoking spot
+  was called "the alley," citing an in-thread definition. The word "alley"
+  appears **zero times** in the 5,328-line definitive thread. The claim is
+  retracted as verified and held as unresolved — it may trace to the video
+  transcripts, which were not re-grepped for this pass.
+- **The 2019 threats ("18 or 19 times over 3 days").** Her August 25 count,
+  referring to Annie, drawn from wiki threads she read. The underlying
+  threads were not re-read for this pass; the count is unverified.
+- **Montauk / "repeat offender."** Her claim he said the same thing to Annie
+  in May or June requires an Annie-side cross-check, not done here.
+- **Did Polyak "clock" anything?** No evidence in this corpus; unverified.
+- **The Sep 20 replies' delivery.** Her September 8 *"I already blocked you
+  on everything"* predates his 15 replies; delivery unknown from this corpus.
+- **Who texted from (336) 209-1591.** FOREWARN lead only (Sara Anne Owen,
+  49, Round Rock TX — likely ported/VoIP); unidentified, unadjudicated.
+- **~107 email-handle messages unaccounted for** in the pre-2026 counts;
+  the sent direction is short against the wiki's old 907 figure. A full
+  chat.db re-export would settle it.
+- **The August 30 missing-video episode** (her perception vs. his denial)
+  and **"bestiana"/"Ween"** (4 cats or nicknames) remain unresolved from
+  text.
+- Mac iMessage sync is proven lossy corpus-wide; every Mac-data verdict on
+  this page carries that asterisk until iPhone confirms. The 2026 window is
+  iPhone-confirmed. The 2018–2025 windows are not.
 
+## Method appendix
 
+The verdicts above were rendered against the primary record
+(`ally-thread-definitive-20260818-20260921.txt`), not against anyone's
+account of it — including Dan's. A truth-vector pass scored every falsifiable
+claim on two axes: does it stand against the evidence, and did the claimant
+hold the disconfirming evidence. Her 15 falsifiable claims: 5 collapse against
+evidence in her own phone (the block, the GoFundMe motive, "threatening me,"
+the wiki-as-weapon motive, the detachment claims), 1 stands fully (she never
+said "narcissist"), 2 partial, the rest suspended unverifiable or trivial.
+His 6: 5 stand, 1 collapses as worded (the "narcissist" paraphrase). The
+weighting matters more than the count: the claims doing the most structural
+work in her case are exactly the ones that collapse against evidence she
+held — so the rational prior on her remaining unverifiable claims drops with
+them. Full table:
+`~/workspace/ally-recovered/ally-truth-vector-20260921.md`; per-claim
+evidence node: `dat:ally-truth-vector-20260921` (citing
+`src:ally-definitive-thread-20260921`).
+
+This page leads with the human story per standing directive; the
+contradiction-level forensics live in kb/ and in this appendix, not as
+featured sections. She is a living person. Quotes are verbatim, typos
+preserved; every inference is labeled; no diagnosis is offered anywhere on
+this page.
