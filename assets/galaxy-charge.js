@@ -24,9 +24,9 @@
                     spiral inward toward the core, core brightens,
                     charge ring grows around the hold point
      full charge  — pure spectacle: nothing enters on charge alone
-     10 quick taps— 10 quick taps ON OR ABOVE the wordmark constellation
-                    (each within 1.5s of the last) fire `wiki:enter`:
-                    the tenth tap detonates full-bore and goes through
+     20 quick taps— 20 quick taps ON OR ABOVE the wordmark constellation
+                    within 10 seconds fire `wiki:enter`:
+                    the twentieth tap detonates full-bore and goes through
      release      — after a hold, detonation scaled by charge
                     (a lone tap ≈ click shockwave · 1.0)
 
@@ -37,8 +37,8 @@
    Events (document CustomEvents):
      'void:charge'  {level: 0..1} — original protocol, kept
      'void:fluid-failed' — no canvas at all (legacy name kept)
-     'wiki:taps'    {n: 0..9} — counted taps so far (host draws progress)
-     'wiki:enter'   — the tenth quick tap on/above the wordmark
+     'wiki:taps'    {n: 0..19} — counted taps so far
+     'wiki:enter'   — the twentieth quick tap on/above the wordmark
    attrs: intensity · text · sub · entertext
    methods: reset()
    ============================================================ */
@@ -376,7 +376,7 @@
       this._charge = 0; this._emitCache = -1;
       this._entered = false;              /* fusion: entry latch (re-arms after firing) */
       this._enterTarget = 0; this._enterAlpha = 0;
-      this._tapN = 0; this._lastTap = 0;  /* 10-quick-tap entry counter */
+      this._tapN = 0; this._tapT0 = 0;  /* 10-quick-tap entry counter */
       this._lastInteract = 0; this._lastAuto = 0;
       this._lastMove = 0;
       this._t0 = performance.now();
@@ -460,7 +460,7 @@
     reset() {
       this._entered = false;
       this._enterTarget = 0;
-      this._tapN = 0; this._lastTap = 0;
+      this._tapN = 0; this._tapT0 = 0;
       this._setCharge(0, true);
     }
 
@@ -777,7 +777,7 @@
       if (!n) return;
 
       var worldW = Math.min(this._aspect * 2 * 0.8, 2.7);
-      this._wmW = worldW;   /* tap-zone geometry for the 10-tap entry */
+      this._wmW = worldW;   /* tap-zone geometry for the 20-tap entry */
       var scale = worldW / w;
       var st = this._st;
       /* stride across ALL sampled pixels: the wordmark budget (a fixed share
@@ -853,10 +853,12 @@
       this._addCharge(p, Math.min(speed, 0.08) * (this._down ? 0.32 : 0.13));
     }
 
-    /* Entry = 10 quick taps ON OR ABOVE the wordmark. A tap is a quick,
-       near-stationary press (<350ms, <14px drift). Each tap must land
-       within 1.5s of the previous one or the count restarts at 1.
-       The tenth tap detonates full-bore and fires wiki:enter.
+    /* Entry = 20 quick taps ON OR ABOVE the wordmark within 10 seconds.
+       A tap is a quick, near-stationary press (<350ms, <14px drift).
+       The 10-second window starts on the first tap; if it lapses before
+       the twentieth, the count restarts at 1.
+       The twentieth tap detonates full-bore and fires wiki:enter.
+       The entry code is secret — the host page shows no hint or progress.
        Taps outside the zone pop a small shockwave and reset the count.
        Holds still detonate on release (scaled by charge) but can no
        longer open the gate. */
@@ -870,21 +872,24 @@
         document.dispatchEvent(new CustomEvent('wiki:taps', { detail: { n: 0 } }));
         return;
       }
-      this._tapN = (now - this._lastTap < 1500) ? this._tapN + 1 : 1;
-      this._lastTap = now;
-      if (this._tapN >= 10) {
+      if (this._tapN === 0 || now - this._tapT0 > 10000) {
+        this._tapN = 1; this._tapT0 = now;
+      } else {
+        this._tapN++;
+      }
+      if (this._tapN >= 20) {
         this._tapN = 0;
         this._shock(p.x, p.y, 3.5);
         this._enter();
       } else {
-        this._shock(p.x, p.y, 0.9 + this._tapN * 0.18);
+        this._shock(p.x, p.y, 0.9 + this._tapN * 0.12);
         document.dispatchEvent(new CustomEvent('wiki:taps', { detail: { n: this._tapN } }));
       }
     }
 
     /* fusion: release detonates. amp 1.0 = original click shockwave;
        charge 0.2 → ~1.1 puff · charge 1.0 → 3.5 full-bore.
-       Quick taps are routed to the 10-tap entry counter instead. */
+       Quick taps are routed to the 20-tap entry counter instead. */
     _prelease(e) {
       if (!this._down) return;
       this._down = false;
@@ -927,10 +932,10 @@
         document.dispatchEvent(new CustomEvent('void:charge', { detail: { level: v } }));
       }
       /* full charge is pure spectacle now: no arming, no prompt — entry
-         comes only from the 10-tap counter. */
+         comes only from the 20-tap counter. */
     }
 
-    /* the tenth quick tap: entry. Fires once; the latch resets shortly
+    /* the twentieth quick tap: entry. Fires once; the latch resets shortly
        after so a double entry can never navigate twice. */
     _enter() {
       this._entered = true;
