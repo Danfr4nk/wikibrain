@@ -548,4 +548,4 @@ pass should re-pull both sources before restating this finding.
 
 ## Sources
 
-[![iMessage screenshot, 2016-01-11: Rick offers then retracts a Steelers-in-Denver trip](../media/upload-071.jpg)](../media/upload-071.jpg)
+[![iMessage screenshot, 2016-01-11: Rick offers then retracts a Steelers-in-Denver trip](wiki/media/upload-071.jpg)](wiki/media/upload-071.jpg)

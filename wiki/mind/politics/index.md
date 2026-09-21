@@ -192,6 +192,6 @@ testimony of varying independence.
 
 ## Sources
 
-[!["SMALL VICTORY — I correctly predicted the EV totals" IG story](../media/gphotos-013.jpg)](../media/gphotos-013.jpg)
+[!["SMALL VICTORY — I correctly predicted the EV totals" IG story](wiki/media/gphotos-013.jpg)](wiki/media/gphotos-013.jpg)
 
 *Google Photos IG-stories album, curated 2026-09-14 — Dan's self-made election-prediction victory lap over a 306–232 electoral map.*

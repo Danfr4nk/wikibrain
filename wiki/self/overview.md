@@ -181,6 +181,6 @@ baseline register exists anywhere in the record.
 
 ## Sources
 
-[!["Are you araid of the derk" — childhood monster drawing](../media/gphotos-014.jpg)](../media/gphotos-014.jpg)
+[!["Are you araid of the derk" — childhood monster drawing](wiki/media/gphotos-014.jpg)](wiki/media/gphotos-014.jpg)
 
 *Google Photos school-docs album, curated 2026-09-14 — childhood notebook page in thick marker: a spiky-headed monster captioned "Are you araid of the derk."*

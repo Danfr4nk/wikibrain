@@ -666,8 +666,8 @@ evidence about that model, is the clearest available illustration of the risk.
 
 ## Sources
 
-[![Claude's "mid-frontier" verdict, 2026-09-14 session](../../../media/derivatives/chat-uploads/claude-troll-20260914-poster.jpg)](../../../media/derivatives/chat-uploads/claude-troll-20260914-poster.jpg)
+[![Claude's "mid-frontier" verdict, 2026-09-14 session](wiki/media/derivatives/chat-uploads/claude-troll-20260914-poster.jpg)](wiki/media/derivatives/chat-uploads/claude-troll-20260914-poster.jpg)
 
-[![Shower photo sent mid-argument as "relevant data" (blurred derivative; original never committed)](../../../media/derivatives/chat-uploads/shower-toys-20260914-blur.jpg)](../../../media/derivatives/chat-uploads/shower-toys-20260914-blur.jpg)
+[![Shower photo sent mid-argument as "relevant data" (blurred derivative; original never committed)](wiki/media/derivatives/chat-uploads/shower-toys-20260914-blur.jpg)](wiki/media/derivatives/chat-uploads/shower-toys-20260914-blur.jpg)
 
-[![Claude Pro cancel confirmation ("You can still use Claude Pro until Oct 2, 2026"), poster frame from the 2026-09-17 screen recording of both cancel flows](../../../media/derivatives/20260917-cancel-flows/cancel-flows-20260917-poster.jpg)](../../../media/derivatives/20260917-cancel-flows/cancel-flows-20260917-poster.jpg)
+[![Claude Pro cancel confirmation ("You can still use Claude Pro until Oct 2, 2026"), poster frame from the 2026-09-17 screen recording of both cancel flows](wiki/media/derivatives/20260917-cancel-flows/cancel-flows-20260917-poster.jpg)](wiki/media/derivatives/20260917-cancel-flows/cancel-flows-20260917-poster.jpg)

@@ -163,7 +163,7 @@ summer 2025 era" — pointing, a year later, at the origin story of the
 curation instinct the whole suite now runs on.
 
 <!-- INLINE-KEEP (thumbnail rule 2026-09-12): the Wall photo is the object of analysis for this entry — the Wall itself is the entry's subject. Do not migrate to Sources thumbnails. -->
-![The Wall, photographed 2025-09-03: dozens of printed B&W women's portraits on a basement wall, with text and graphic prints](../../media/upload-029.jpg)
+![The Wall, photographed 2025-09-03: dozens of printed B&W women's portraits on a basement wall, with text and graphic prints](wiki/media/upload-029.jpg)
 
 One false lead, cleared: "he decorated that whole wall himself he was
 super specific about what he wanted" (Aug 5, 02:26) is a deadpan 2 AM

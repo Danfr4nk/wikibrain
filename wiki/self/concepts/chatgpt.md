@@ -396,18 +396,18 @@ re-export named above is what separates them.
   no statement by him of *why*.
 
 ## Sources
-[![Screen recording: Dan using DALL-E 2, Jesus-like face and owl librarian](../../media/upload-010.jpg)](../../media/upload-010.jpg)
+[![Screen recording: Dan using DALL-E 2, Jesus-like face and owl librarian](wiki/media/upload-010.jpg)](wiki/media/upload-010.jpg)
 
 *2022 (DALL-E 2 era, per labs.openai.com UI) — Poster frame from video. Screen recording: Dan using DALL-E on labs.openai.com (iOS, 4:10-4:13). Editing/variations of a Jesus-like bearded face, an owl librarian ("A stern-looking owl dressed as a librarian, digital art"), mice in swimsuits, ends in CapCut. DALL-E 2 era.*
 
 ---
 
-[![Screen recording: Dan using DALL-E 2, Samoyed and astronaut prompts](../../media/upload-011.jpg)](../../media/upload-011.jpg)
+[![Screen recording: Dan using DALL-E 2, Samoyed and astronaut prompts](wiki/media/upload-011.jpg)](wiki/media/upload-011.jpg)
 
 *2022 (DALL-E 2 era, per labs.openai.com UI) — Poster frame from video. Screen recording: Dan using DALL-E on labs.openai.com (iOS, 8:57-8:59). Generates "A photo of a Samoyed dog with its tongue out hugging a white Siamese cat"; types prompt "An astronaut in the movie pulp fiction". DALL-E 2 era.*
 
 ---
 
-[![Screen recording: Dan using DALL-E 2, sea otter with a pearl earring](../../media/upload-012.jpg)](../../media/upload-012.jpg)
+[![Screen recording: Dan using DALL-E 2, sea otter with a pearl earring](wiki/media/upload-012.jpg)](wiki/media/upload-012.jpg)
 
 *2022 (DALL-E 2 era, per labs.openai.com UI) — Poster frame from video. Screen recording: Dan using DALL-E on labs.openai.com (iOS, 4:11). Generates """A sea otter with a pearl earring" by Johannes Vermeer". DALL-E 2 era.*

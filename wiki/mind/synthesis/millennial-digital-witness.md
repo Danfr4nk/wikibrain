@@ -248,6 +248,6 @@ the gap. What the "common thread" would be is unspecified.
 
 ## Sources
 
-[![The GeoGuessr WC grand-final clip Dan filmed off his laptop screen (2026-09-14)](media/derivatives/chat-uploads/geoguessr-arena-20260914-poster.jpg)](#the-monoculture-thesis-2026-09-14)
+[![The GeoGuessr WC grand-final clip Dan filmed off his laptop screen (2026-09-14)](wiki/media/derivatives/chat-uploads/geoguessr-arena-20260914-poster.jpg)](#the-monoculture-thesis-2026-09-14)
 
 

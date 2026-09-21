@@ -209,6 +209,6 @@ consequential open question.
 
 ## Sources
 
-[![Dream Queen grow, 155 Virginia Ave, 2015-10-04](../../media/upload-038.jpg)](../../media/upload-038.jpg)
+[![Dream Queen grow, 155 Virginia Ave, 2015-10-04](wiki/media/upload-038.jpg)](wiki/media/upload-038.jpg)
 
 *Dream Queen grow, 155 Virginia Ave, 2015-10-04 — representative frame from the fifteen-photo seedling-to-flower series (`dat:virginia-ave-grow-timeline-2015`).*
