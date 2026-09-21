@@ -997,43 +997,36 @@ def domain_page(domain: str, pages: list[dict]) -> str:
 SPLASH_FLOW_JS = """<script>
 (function(){
 "use strict";
-var DIGEST="__WB_SPLASH_DIGEST__",KEY="wb_gate_v1";
-function unlocked(){try{return !!DIGEST&&sessionStorage.getItem(KEY)===DIGEST;}catch(e){return false;}}
+var DIGEST="__WB_SPLASH_DIGEST__",KEY="wb_gate_v1",NEED=10;
 function go(){location.href="home.html";}
-function hex(b){var u=new Uint8Array(b),s="";for(var i=0;i<u.length;i++){s+=("0"+u[i].toString(16)).slice(-2);}return s;}
-var veil=document.getElementById("pwveil"),input=document.getElementById("pwinput"),
-    err=document.getElementById("pwerr"),btn=document.getElementById("pwbtn");
-function fail(m){err.textContent=m;err.style.display="block";}
-function showPw(){veil.hidden=false;input.value="";err.textContent="";err.style.display="none";setTimeout(function(){input.focus();},60);}
-function hidePw(){veil.hidden=true;}
-function tryPw(){
-  var v=input.value;if(!v){input.focus();return;}
-  if(!(window.crypto&&crypto.subtle)){fail("password check unavailable on this connection");return;}
-  crypto.subtle.digest("SHA-256",new TextEncoder().encode(v)).then(function(buf){
-    if(hex(buf)===DIGEST){try{sessionStorage.setItem(KEY,DIGEST);}catch(e){}go();}
-    else{input.value="";input.focus();fail("wrong password");}
-  },function(){fail("check failed");});
-}
-btn.addEventListener("click",tryPw);
-input.addEventListener("keydown",function(e){if(e.key==="Enter")tryPw();});
-veil.addEventListener("click",function(e){if(e.target===veil)hidePw();});
-document.addEventListener("wiki:enter",function(){
-  if(!DIGEST||unlocked()){go();return;}
-  showPw();
+var hint=document.getElementById("hint");
+var IDLE="TAP THE NAME 10 TIMES &mdash; QUICKLY";
+function showIdle(){hint.innerHTML=IDLE;}
+document.addEventListener("wiki:taps",function(e){
+  var n=e&&e.detail?e.detail.n:0;
+  if(n>0){hint.innerHTML=n+" / "+NEED+" &mdash; KEEP TAPPING";}
+  else{showIdle();}
 });
+document.addEventListener("wiki:enter",function(){
+  /* entry sets the shared session key so the wb-gate'd pages open
+     without re-prompting — the 10-tap sequence IS the gate now. */
+  try{if(DIGEST)sessionStorage.setItem(KEY,DIGEST);}catch(e){}
+  go();
+});
+showIdle();
 })();
 </script>"""
 
 
 def splash_page() -> str:
-    """Full-screen galaxy-charge splash with the password step on entry.
+    """Full-screen galaxy-charge splash with the 10-tap entry.
 
-    Hold anywhere to charge; at full charge the breach arms and a tap fires
-    wiki:enter. Entry then goes through the password — the same SHA-256
-    digest wb-gate embeds, so unlocking here sets the shared sessionStorage
-    key (wb_gate_v1) and the gated pages open without re-prompting. Lands on
-    home.html. When WB_GATE_PASSWORD is unset at build time there is no
-    digest and entry goes straight through.
+    Entry = 10 quick taps on or above the WIKI BRAIN wordmark (each within
+    1.5s of the last). The tenth tap fires wiki:enter, which sets the shared
+    sessionStorage key (wb_gate_v1) so the gated pages open without
+    re-prompting, then lands on home.html. Hold-to-charge / release-to-
+    detonate stays as pure spectacle. When WB_GATE_PASSWORD is unset at
+    build time there is no digest and entry goes straight through.
     """
     gal = (ROOT / "assets" / "galaxy-charge.js").read_text(encoding="utf-8")
     password = os.environ.get("WB_GATE_PASSWORD", "")
@@ -1044,7 +1037,7 @@ def splash_page() -> str:
         '<html lang="en"><head><meta charset="utf-8">\n'
         '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
         "<title>Wiki Brain</title>\n"
-        "<!-- wb-gate-skip: the splash runs its own password step and sets the shared session key -->\n"
+        "<!-- wb-gate-skip: the splash runs its own 10-tap step and sets the shared session key -->\n"
         '<link rel="preconnect" href="https://fonts.googleapis.com">\n'
         '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n'
         '<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@900&display=swap" rel="stylesheet">\n'
@@ -1054,32 +1047,12 @@ def splash_page() -> str:
         "#hint{position:fixed;left:0;right:0;bottom:16px;z-index:10;text-align:center;pointer-events:none;\n"
         " color:#8f86a8;font:11px/1.5 -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;\n"
         " letter-spacing:.22em}\n"
-        "#pwveil{position:fixed;inset:0;z-index:40;display:flex;align-items:center;justify-content:center;\n"
-        " background:rgba(0,0,0,.55)}\n"
-        "#pwveil[hidden]{display:none}\n"
-        ".pwbox{text-align:center;color:#e8e8e8;max-width:320px;width:calc(100% - 48px);padding:28px 24px;\n"
-        " border:1px solid #2c2440;border-radius:10px;background:rgba(12,8,24,.94);\n"
-        " box-shadow:0 0 60px rgba(120,80,255,.22)}\n"
-        ".pwtitle{font-size:20px;letter-spacing:8px;margin-bottom:6px;color:#fff}\n"
-        ".pwsub{font-size:12px;color:#8f86a8;margin-bottom:20px}\n"
-        "#pwinput{width:100%;padding:10px;background:#0a0a0a;border:1px solid #333;color:#e8e8e8;\n"
-        " font-size:14px;box-sizing:border-box;border-radius:4px}\n"
-        "#pwerr{display:none;color:#ff5555;font-size:12px;margin-top:10px}\n"
-        "#pwbtn{margin-top:16px;padding:10px 32px;background:#e8e8e8;color:#0a0a0a;border:0;\n"
-        " font-size:14px;cursor:pointer;border-radius:4px}\n"
         "</style>\n"
         + CRAWL_CSS + "\n"
         "</head>\n<body>\n"
         + crawl_bar("crawl.json", "home.html") + "\n"
         "<galaxy-charge></galaxy-charge>\n"
-        '<div id="hint">HOLD ANYWHERE &mdash; CHARGE THE BREACH &mdash; TAP AT FULL CHARGE TO ENTER &mdash; RELEASE TO DETONATE</div>\n'
-        '<div id="pwveil" hidden><div class="pwbox">\n'
-        '<div class="pwtitle">WIKIBRAIN</div>\n'
-        '<div class="pwsub">password required</div>\n'
-        '<input id="pwinput" type="password" autocomplete="off" autocapitalize="off" spellcheck="false">\n'
-        '<div id="pwerr"></div>\n'
-        '<button id="pwbtn">ENTER</button>\n'
-        "</div></div>\n"
+        '<div id="hint">TAP THE NAME 10 TIMES &mdash; QUICKLY</div>\n'
         "<script>\n" + gal + "\n</script>\n"
         + flow + "\n"
         + CRAWL_JS + "\n"
