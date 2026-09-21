@@ -48,10 +48,10 @@ connections:
   - page: wiki/health/intake-ledger
     type: instance-of
     claim: "The test layer: the append-only log begun 2026-08-30 carries the first dated measurements behind the stack's 'daily' rows, and is what turns the next announced quit from testimony into a checkable event."
-  - target: "[[wiki/mind/synthesis/block-unblock-loop]]"
+  - page: wiki/mind/synthesis/block-unblock-loop
     type: contextualizes
     claim: "The block/unblock loop is the relational twin of the register's chemical never-exit: 129 severance declarations at 100% resumption against sixteen unbroken years of Suboxone."
-  - target: "[[wiki/mind/synthesis/severance-declarations]]"
+  - page: wiki/mind/synthesis/severance-declarations
     type: evidenced-by
     claim: "The relational base rate the rule is read against — 129 declarations, 128 of 128 resumed, median gap thirty-six seconds, all-time maximum 46 hours — is the closest thing the corpus has to a measured refusal of irreversibility in a non-chemical register."
   - page: wiki/health/maintenance-vs-verdict
@@ -60,7 +60,7 @@ connections:
   - page: wiki/health/suboxone-dose-curve
     type: evidenced-by
     claim: "The evidence ledger behind this page's Suboxone row: one dosage figure in ~6,050 days of dosing, an unrecorded induction dose, a 2011 monitored-treatment bearing, and the 'down to 2mg/day' phrasing that is the nearest thing in the corpus to a documented taper."
-  - target: "[[wiki/health/the-configured-body]]"
+  - page: wiki/health/the-configured-body
     type: parallels
     claim: "The register rule is the input half of the same architecture the configured-body page reads on the output half: substances specified to the component and defended absolutely, with no maintenance mode between specification and the body running it."
 ---
