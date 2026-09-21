@@ -56,6 +56,15 @@ infobox:
   location: nyc
   first_contact: 2018-01-01
   known_for: "Milo is Dan's Chihuahua and the one recurring presence in the record that"
+images:
+  infobox:
+    file: wiki/media/gphotos-010.jpg
+    alt: "Milo"
+    caption: "Dan selfie with Milo the Chihuahua nuzzling his face"
+  library:
+    - file: wiki/media/gphotos-010.jpg
+      alt: "Dan and Milo"
+      caption: "Google Photos Dan album, curated 2026-09-14 — Dan selfie with Milo the Chihuahua nuzzling his face."
 ---
 
 # Milo
@@ -307,12 +316,3 @@ here, the dog is the password.
 Dan answered at 23:40 — *"what"* — seventy-two minutes after the first SOS,
 having blocked and unblocked in between. Nothing in any source says what
 happened next. See [[wiki/timeline/events/august-2026-morgantown-call]].
-
-
-
-
-## Sources
-
-[![Dan and Milo](../media/gphotos-010.jpg)](../media/gphotos-010.jpg)
-
-*Google Photos Dan album, curated 2026-09-14 — Dan selfie with Milo the Chihuahua nuzzling his face.*

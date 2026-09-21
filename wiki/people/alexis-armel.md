@@ -132,6 +132,28 @@ connections:
   - { target: "[[wiki/mind/synthesis/vacancy-rule]]", type: references, claim: "Transitions 1–2 bracket the six-year run — the occupancy-without-activation control case." }
   - { target: "[[wiki/mind/synthesis/the-scoreboard]]", type: extends, claim: "The zero-mentions-across-1,132-posts denominator is the scoreboard's method applied to the control case." }
   - { target: "[[wiki/people/danielle-onesi]]", type: references, claim: "The Transition 1 predecessor — Danielle to Alexis, February to November 2009." }
+images:
+  # no portrait available for this page; do not fall back to library[0]
+  infobox: false
+  library:
+    - file: wiki/media/upload-049.jpg
+      alt: "Unsent draft of the cover text to Alexis, 4:55 PM"
+      caption: "Unsent draft of the cover text to Alexis, 4:55 PM"
+    - file: wiki/media/upload-050.jpg
+      alt: "Sent cover text to Alexis with her replies, 4:56 PM"
+      caption: "Sent cover text to Alexis with her replies, 4:56 PM"
+    - file: wiki/media/upload-051.jpg
+      alt: "Facebook relationship field cleared, captioned 11/30/2015 official break up"
+      caption: "Facebook relationship field cleared, captioned 11/30/2015 official break up"
+    - file: wiki/media/upload-060.jpg
+      alt: "Alexis texts from outside the house, 7:42 PM, Dec 5 2015"
+      caption: "Alexis texts from outside the house, 7:42 PM, Dec 5 2015"
+    - file: wiki/media/upload-061.jpg
+      alt: "Dan refuses, cites the withheld Suboxone, 7:45 PM"
+      caption: "Dan refuses, cites the withheld Suboxone, 7:45 PM"
+    - file: wiki/media/upload-062.jpg
+      alt: "Alexis asks what it has to do with anything, 8:54 PM"
+      caption: "Alexis asks what it has to do with anything, 8:54 PM"
 ---
 
 # Alexis Armel
@@ -1040,10 +1062,4 @@ is unresolved — see the note under [The hidden year
 
 ## Sources
 
-[![Unsent draft of the cover text to Alexis, 4:55 PM](../../media/upload-049.jpg)](../../media/upload-049.jpg)
-[![Sent cover text to Alexis with her replies, 4:56 PM](../../media/upload-050.jpg)](../../media/upload-050.jpg)
-[![Facebook relationship field cleared, captioned 11/30/2015 official break up](../../media/upload-051.jpg)](../../media/upload-051.jpg)
-[![Alexis texts from outside the house, 7:42 PM, Dec 5 2015](../../media/upload-060.jpg)](../../media/upload-060.jpg)
-[![Dan refuses, cites the withheld Suboxone, 7:45 PM](../../media/upload-061.jpg)](../../media/upload-061.jpg)
-[![Alexis asks what it has to do with anything, 8:54 PM](../../media/upload-062.jpg)](../../media/upload-062.jpg)
-[![Representative frame from the 14-second bedroom video that night; woman unidentified](../../media/upload-063.jpg)](../../media/upload-063.jpg)
+[![Representative frame from the 14-second bedroom video that night; woman unidentified](wiki/media/upload-063.jpg)](wiki/media/upload-063.jpg)

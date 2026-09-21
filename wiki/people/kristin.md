@@ -45,6 +45,22 @@ connections:
   - { target: "[[wiki/mind/synthesis/vacancy-rule]]", type: documents, claim: "Transition 3 — the 2025 contest." }
   - { target: "[[wiki/mind/synthesis/kristin-channel]]", type: documents, claim: "The channel entry's audition-then-exit reading versus this page's biography — same primary record, non-overlapping thesis." }
   - { target: "[[wiki/mind/synthesis/the-curse]]", type: references, claim: "The forty dollars is one of the curse's co-held inventory items — the thing the refusal keeps performing around." }
+images:
+  # no portrait available for this page; do not fall back to library[0]
+  infobox: false
+  library:
+    - file: wiki/media/upload-027.jpg
+      alt: "Dan's 2026-09-12 outbound iMessages to Kristin: four texts and a dispensary photo, all delivered"
+      caption: "Dan's 2026-09-12 outbound iMessages to Kristin: four texts and a dispensary photo, all delivered. Evidence for the September 2026 block-break."
+      kb: "dat:1453"
+    - file: wiki/media/upload-084.jpg
+      alt: "Security-cam still, Dan's basement, on-screen camera timestamp 2025-09-19 02:05:08 AM: two clothed figures on the couch"
+      caption: "Security-cam still, Dan's basement, on-screen camera timestamp 2025-09-19 02:05:08 AM: two clothed figures on the couch, one draped over the other. The second figure is Kristin by Dan's own ID — his testimony, not a facial ID off IR footage. Evidence for the first confirmed in-person meeting, week 3."
+      kb: "dat:1841"
+    - file: wiki/media/upload-085.jpg
+      alt: "Security-cam still, Dan's basement, on-screen camera timestamp 2025-09-19 02:12:20 AM"
+      caption: "Later that night — 02:12:20 AM — same basement, same two figures. The clips span 01:58:44 to 02:12:20; she was there across the night, not for a moment. Frames eyeballed for nudity before commit: clothed throughout, no pixelation required."
+      kb: "dat:1841"
 ---
 
 # Kristin Prentiss
@@ -723,19 +739,3 @@ stores some text in **mathematical-monospace Unicode**, so a plain grep for
 `LONELY LOSER` returns nothing while the string is plainly present. Fold with
 `unicodedata.normalize('NFKC', …)` before matching. This is the same family as the
 curly-apostrophe trap in `EXTRACTION_SPEC.md` and belongs beside it.
-
-
-
-## Sources
-
-[![Dan's 2026-09-12 outbound iMessages to Kristin: four texts and a dispensary photo, all delivered](../media/upload-027.jpg)](../media/upload-027.jpg)
-
-*Dan's 2026-09-12 outbound iMessages to Kristin: four texts and a dispensary photo, all delivered. Evidence for the September 2026 block-break (dat:1453).*
-
-[![Security-cam still, Dan's basement, on-screen camera timestamp 2025-09-19 02:05:08 AM: two clothed figures on the couch](../media/upload-084.jpg)](../media/upload-084.jpg)
-
-*Security-cam still, Dan's basement, on-screen camera timestamp 2025-09-19 02:05:08 AM: two clothed figures on the couch, one draped over the other. The second figure is Kristin by Dan's own ID — his testimony, not a facial ID off IR footage. Evidence for the first confirmed in-person meeting, week 3 (dat:1841).*
-
-[![Security-cam still, Dan's basement, on-screen camera timestamp 2025-09-19 02:12:20 AM](../media/upload-085.jpg)](../media/upload-085.jpg)
-
-*Later that night — 02:12:20 AM — same basement, same two figures. The clips span 01:58:44 to 02:12:20; she was there across the night, not for a moment (dat:1841). Frames eyeballed for nudity before commit: clothed throughout, no pixelation required.*

@@ -109,6 +109,33 @@ connections:
   - { target: "[[wiki/mind/synthesis/chemical-architecture]]", type: contextualizes, claim: "That entry names her home as the unbroken setting of Dan's chemically maintained life: sixteen years of Suboxone taken inside the house she anchored, and the caregiving year lived under the same roof." }
   - { target: "[[wiki/mind/synthesis/four-financial-inversions]]", type: references, claim: "That entry's inversion 1 runs on the 2020-08-21 distribution of her estate ($144,069.31 to Dan): the largest documented single capital event of the biography, and the funding floor of the Suz-backed years." }
   - { target: "[[wiki/mind/synthesis/november-2005-hinge]]", type: contextualizes, claim: "That entry carries the Fran counter-case: the one relationship the hinge's axioms cannot explain is the evidence they have to absorb." }
+images:
+  infobox:
+    file: wiki/media/gphotos-011.jpg
+    alt: "Fran Coldren"
+    caption: "Fran Coldren, smiling with a small white dog"
+  library:
+    - file: wiki/media/upload-009.jpg
+      alt: "Fran&#x27;s living room, caregiver era"
+      caption: "caregiver era, pre-vigil (per Dan 2026-09-11: Fran is sitting up in her own living-room chair, lucid — predates the March-April 2018 decline) — Compressed photo. Fran's living room (fireplace, walker, recliner). A blonde woman in a pink turtleneck sits at a table bearing: a black game controller, two TV remotes, a glass of amber liquid, her purse, a small plastic bag, a blue-and-white container that Dan identifies (2026-09-11) as Suz's coke holder (disguised as a cigarette pack), and a black case Dan identifies as a jewelry scale. Dan's point: Fran is alive, well, and lucid, sitting ~5 feet away in her armchair — the paraphernalia is out on the table in front of her, not hidden."
+    - file: wiki/media/gphotos-005.jpg
+      alt: "Young Fran with golf bag"
+      caption: "Digitized historical photo (album range 2018-04-04/2025-08-20). Photo of an album page: young Fran (blonde bouffant, navy turtleneck, mint shorts) posed with her golf bag on a course, palm trees behind. The athlete before the legend."
+    - file: wiki/media/gphotos-006.jpg
+      alt: "Fran and Thomas Whyel at Arnold Palmer's plane"
+      caption: "Digitized historical photo (album range 2018-04-04/2025-08-20). Fran and her husband Thomas M. Whyel posing in front of a private plane with \"Arnold Palmer\" livery. The Whyel-era golf orbit."
+    - file: wiki/media/gphotos-007.jpg
+      alt: "Fran at a party, cheek kissed"
+      caption: "Digitized historical photo (album range 2018-04-04/2025-08-20). Fran at an indoor party with two men; one kisses her cheek while the other beams. The UCC social circuit."
+    - file: wiki/media/gphotos-008.jpg
+      alt: "Scrapbook: hole-in-one clippings"
+      caption: "Digitized historical photo (album range 2018-04-04/2025-08-20). Scrapbook page: newspaper clippings — 1969-06-22 hole-in-one at Uniontown Country Club (No. 11, 153 yards, No. 5 wood), the UCC Women's Golf Crown (342 over 72 holes), and \"Mrs. Whyel Gets First Ace\" (Miami Herald, 27 April 1959, LaGorce Country Club, 113-yard 13th, eight iron)."
+    - file: wiki/media/gphotos-009.jpg
+      alt: "Scrapbook: Arnie's Army in Uniontown"
+      caption: "Digitized historical photo (album range 2018-04-04/2025-08-20). Scrapbook page: \"Arnie's Army In Uniontown\" clipping (Arnold Palmer shooting 64 at the UCC course as guest of Mr. and Mrs. Thomas Whyel), photographs of Fran and Thomas with Palmer at the club, and a family photo of Thomas holding a small child."
+    - file: wiki/media/gphotos-011.jpg
+      alt: "Fran with a small white dog"
+      caption: "Google Photos FRAN library, curated 2026-09-14 — Fran in a pink top on the couch, smiling, holding a small white dog."
 ---
 
 # Frances "Fran" Whyel Coldren
@@ -504,114 +531,97 @@ Locating the originals is the highest-value collection task attached to this
 page.
 
 ## Sources
-[![Nighttime vigil: Fran in Stryker bed, oxygen mask](../media/upload-001.jpg)](../media/upload-001.jpg)
+
+[![Nighttime vigil: Fran in Stryker bed, oxygen mask](wiki/media/upload-001.jpg)](wiki/media/upload-001.jpg)
+
+---
 
 *2018-04-04/05 (night, per content) — Poster frame from video. Nighttime vigil video: Fran in Stryker bed, oxygen mask, dark room; a hand (Dan's) enters frame near the end. The video reviewed for the 23:26 retraction.*
 
 ---
 
-[![Daytime: Fran in Stryker bed, eyes open](../media/upload-002.jpg)](../media/upload-002.jpg)
+[![Daytime: Fran in Stryker bed, eyes open](wiki/media/upload-002.jpg)](wiki/media/upload-002.jpg)
+
+---
 
 *2018-04-04/05 (daytime, per content) — Poster frame from video. Daytime: Fran in Stryker bed, oxygen mask, eyes open and looking around. Dan's label: her condition several hours before the night video.*
 
 ---
 
-[![Nursing home: Fran talking, drinking from a cup](../media/upload-003.jpg)](../media/upload-003.jpg)
+[![Nursing home: Fran talking, drinking from a cup](wiki/media/upload-003.jpg)](wiki/media/upload-003.jpg)
+
+---
 
 *2018-03-12/04-01 (nursing-home interval, per content and Dan label) — Poster frame from video. Close-up: Fran in pink top and white turtleneck, talking, drinking from a cup with a straw. Nursing-home room.*
 
 ---
 
-[![Nursing home: Fran in wheelchair](../media/upload-004.jpg)](../media/upload-004.jpg)
+[![Nursing home: Fran in wheelchair](wiki/media/upload-004.jpg)](wiki/media/upload-004.jpg)
+
+---
 
 *2018-03-12/04-01 (nursing-home interval, per content and Dan label) — Poster frame from video. Blurry motion clip: Fran in wheelchair, pink top, orange wristband. Nursing-home room.*
 
 ---
 
-[![Nursing home: Fran agitated in wheelchair](../media/upload-005.jpg)](../media/upload-005.jpg)
+[![Nursing home: Fran agitated in wheelchair](wiki/media/upload-005.jpg)](wiki/media/upload-005.jpg)
+
+---
 
 *2018-03-12/04-01 (nursing-home interval, per content and Dan label) — Poster frame from video. Fran in wheelchair, agitated and restless, leaning forward, distressed. Nursing-home room, bed and patterned recliner visible.*
 
 ---
 
-[![Nursing home: Fran gesturing in hallway](../media/upload-006.jpg)](../media/upload-006.jpg)
+[![Nursing home: Fran gesturing in hallway](wiki/media/upload-006.jpg)](wiki/media/upload-006.jpg)
+
+---
 
 *2018-03-12/04-01 (nursing-home interval, per content and Dan label) — Poster frame from video. Fran in wheelchair (pink top, patterned pants, orange wristband), agitated, mouth open, gesturing; a hand steadies her shoulder; she wipes her face. Hallway with room 3 visible. Nursing-home room.*
 
 ---
 
-[![Sunroom at night: Fran seated, Suz standing over her](../media/upload-007.jpg)](../media/upload-007.jpg)
+[![Sunroom at night: Fran seated, Suz standing over her](wiki/media/upload-007.jpg)](wiki/media/upload-007.jpg)
+
+---
 
 *~2012-2013 (Fran 92, per Dan testimony) — Poster frame from video. Nighttime sunroom: Fran seated in black-and-white patterned jacket; Suz (per Dan, 2026-09-11) in white stands over her, leans in talking, then walks away.*
 
 ---
 
-[![Sunroom at night: Fran talking, smiling](../media/upload-008.jpg)](../media/upload-008.jpg)
+[![Sunroom at night: Fran talking, smiling](wiki/media/upload-008.jpg)](wiki/media/upload-008.jpg)
+
+---
 
 *~2012-2013 (Fran 92, per Dan testimony) — Poster frame from video. Nighttime sunroom, same scene: Fran (92, per Dan) seated in patterned jacket roasts Suz (in white, per Dan); Suz leaves; Fran keeps talking, ends smiling/laughing. Dan: Suz could not handle it. The line itself is audio-only.*
 
 ---
 
-[![Fran&#x27;s living room, caregiver era](../media/upload-009.jpg)](../media/upload-009.jpg)
-
-*caregiver era, pre-vigil (per Dan 2026-09-11: Fran is sitting up in her own living-room chair, lucid — predates the March-April 2018 decline) — Compressed photo. Fran's living room (fireplace, walker, recliner). A blonde woman in a pink turtleneck sits at a table bearing: a black game controller, two TV remotes, a glass of amber liquid, her purse, a small plastic bag, a blue-and-white container that Dan identifies (2026-09-11) as Suz's coke holder (disguised as a cigarette pack), and a black case Dan identifies as a jewelry scale. Dan's point: Fran is alive, well, and lucid, sitting ~5 feet away in her armchair — the paraphernalia is out on the table in front of her, not hidden.*
+[![Fran at 97, offered a vape hit](wiki/media/gphotos-001.jpg)](wiki/media/gphotos-001.jpg)
 
 ---
-
-[![Fran at 97, offered a vape hit](../media/gphotos-001.jpg)](../media/gphotos-001.jpg)
 
 *2018-02-20 — Poster frame from video. Fran Coldren (97) in white turtleneck and dark purple zip fleece, holding a tissue, being offered a hit off a lime-green box-mod vape. Interior, wood-paneled door. Caregiver era.*
 
 ---
 
-[![Fran at 97 with a game controller](../media/gphotos-002.jpg)](../media/gphotos-002.jpg)
+[![Fran at 97 with a game controller](wiki/media/gphotos-002.jpg)](wiki/media/gphotos-002.jpg)
+
+---
 
 *2017-11-06 — Poster frame from video. Fran Coldren (97) seated in a striped chair, teal polka-dot pajamas and dark purple fleece, gripping a PlayStation controller with both hands. Caregiver era.*
 
 ---
 
-[![Blurry motion frame, Fran in purple jacket](../media/gphotos-003.jpg)](../media/gphotos-003.jpg)
+[![Blurry motion frame, Fran in purple jacket](wiki/media/gphotos-003.jpg)](wiki/media/gphotos-003.jpg)
+
+---
 
 *2017-11-11 — Poster frame from video. Blurry motion frame: figure in dark purple zip jacket over pink top, hand mid-gesture. Caregiver era.*
 
 ---
 
-[![Fran in Stryker hospital bed, oxygen mask](../media/gphotos-004.jpg)](../media/gphotos-004.jpg)
+[![Fran in Stryker hospital bed, oxygen mask](wiki/media/gphotos-004.jpg)](wiki/media/gphotos-004.jpg)
+
+---
 
 *2018-04-05 (per registry; hospital interval was 1–4 April) — Poster frame from video. Daytime: Fran Coldren in Stryker hospital bed, oxygen mask on, IV pump and monitors visible. Final hospital interval.*
-
----
-
-[![Young Fran with golf bag](../media/gphotos-005.jpg)](../media/gphotos-005.jpg)
-
-*Digitized historical photo (album range 2018-04-04/2025-08-20). Photo of an album page: young Fran (blonde bouffant, navy turtleneck, mint shorts) posed with her golf bag on a course, palm trees behind. The athlete before the legend.*
-
----
-
-[![Fran and Thomas Whyel at Arnold Palmer's plane](../media/gphotos-006.jpg)](../media/gphotos-006.jpg)
-
-*Digitized historical photo (album range 2018-04-04/2025-08-20). Fran and her husband Thomas M. Whyel posing in front of a private plane with "Arnold Palmer" livery. The Whyel-era golf orbit.*
-
----
-
-[![Fran at a party, cheek kissed](../media/gphotos-007.jpg)](../media/gphotos-007.jpg)
-
-*Digitized historical photo (album range 2018-04-04/2025-08-20). Fran at an indoor party with two men; one kisses her cheek while the other beams. The UCC social circuit.*
-
----
-
-[![Scrapbook: hole-in-one clippings](../media/gphotos-008.jpg)](../media/gphotos-008.jpg)
-
-*Digitized historical photo (album range 2018-04-04/2025-08-20). Scrapbook page: newspaper clippings — 1969-06-22 hole-in-one at Uniontown Country Club (No. 11, 153 yards, No. 5 wood), the UCC Women's Golf Crown (342 over 72 holes), and "Mrs. Whyel Gets First Ace" (Miami Herald, 27 April 1959, LaGorce Country Club, 113-yard 13th, eight iron).*
-
----
-
-[![Scrapbook: Arnie's Army in Uniontown](../media/gphotos-009.jpg)](../media/gphotos-009.jpg)
-
-*Digitized historical photo (album range 2018-04-04/2025-08-20). Scrapbook page: "Arnie's Army In Uniontown" clipping (Arnold Palmer shooting 64 at the UCC course as guest of Mr. and Mrs. Thomas Whyel), photographs of Fran and Thomas with Palmer at the club, and a family photo of Thomas holding a small child.*
-
----
-
-[![Fran with a small white dog](../media/gphotos-011.jpg)](../media/gphotos-011.jpg)
-
-*Google Photos FRAN library, curated 2026-09-14 — Fran in a pink top on the couch, smiling, holding a small white dog.*

@@ -1,8 +1,6 @@
 ---
 domain: people
 page_type: entity
-image: assets/people/ally-lubin/people-ally-lubin-mt3tebq9.png
-image_caption: Ally Lubin (Alexandra Lubin)
 title: "Ally Lubin"
 aliases: ["Alexandra Lubin", "ALU", "aluuuu", "Ally"]
 status: active

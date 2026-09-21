@@ -1,6 +1,4 @@
 ---
-image_caption: Annie (Anne Louise Ulmer)
-image: assets/people/annie-ulmer/people-annie-ulmer-mt40almg.jpg
 domain: people
 page_type: entity
 title: "Annie (Anne Louise Ulmer)"
@@ -310,6 +308,76 @@ connections:
   - { target: "[[wiki/mind/synthesis/the-romantic]]", type: references, claim: "Type specimen III — the eleven-year run of the romantic style." }
   - { target: "[[wiki/mind/synthesis/vacancy-rule]]", type: documents, claim: "The primary occupant: 97,768 unique messages, eleven of the ledger's seventeen years." }
   - { target: "[[wiki/mind/synthesis/severance-declarations]]", type: documents, claim: "The 129 declarations performed across this relationship are that entry's dataset." }
+images:
+  infobox:
+    file: wiki/media/upload-066.jpg
+    alt: "Annie Ulmer"
+    caption: "Annie Ulmer with Christmas lights, December 2015"
+  library:
+    - file: wiki/media/upload-045.jpg
+      alt: "Annie Ulmer, first nude, 2015-11-26 (pixelated)"
+      caption: "Annie Ulmer's first nude to Dan, 2015-11-26 14:33 EST, black-and-white bathroom selfie (iPhone 6s front camera, her position). Embedded derivative pixelated per the censorship rule; the original is never committed."
+      kb: "dat:annie-first-nude-milestone-20260912"
+    - file: wiki/media/upload-046.jpg
+      alt: "Annie in piercing shop, 2015-11-30"
+      caption: "Annie in a piercing/tattoo shop (red walls, flash art, framed certificate), 2015-11-30 17:19 local, iPhone 6; aftercare in hand, septum piercing trip."
+      kb: "dat:primanti-alcohol-exception-2015-11-30"
+    - file: wiki/media/upload-047.jpg
+      alt: "Dan with fishbowl cocktail, 2015-11-30"
+      caption: "Dan drinking a blue fishbowl cocktail with a rubber duck, bar at night, 2015-11-30 17:52 local (no camera EXIF — possible re-save)."
+    - file: wiki/media/upload-048.jpg
+      alt: "Two fishbowl cocktails, 2015-11-30"
+      caption: "Two blue fishbowl cocktails with rubber ducks on a branded table, 2015-11-30 17:53 local, iPhone 6. Dan attributes the bar stop to Primanti Bros, Morgantown; venue not verifiable from the frame."
+    - file: wiki/media/upload-056.jpg
+      alt: "Dan and Annie, first public appearance, 2015-12-03"
+      caption: "First time in public together, 2015-12-03 23:42 local, iPhone 6: Annie smiling at the camera, Dan beside her in a dark hoodie, string lights and a lit window behind. Six frames 23:41–23:51, live GPS fix (~39.9004, -79.7255, Uniontown PA) matching capture to the second. The \"first\" is Dan's 2026-09-12 testimony; the timestamp is EXIF."
+      kb: "dat:annie-first-public-milestone-20260912"
+    - file: wiki/media/upload-067.jpg
+      alt: "iMessage exchange, new-life declaration, 2015-12-01"
+      caption: "The new-life declaration, 2015-12-01 13:38 local: \"Annie Ulmer from now on its just you and me\" / \"Because she's gone\" / \"We made it lol.\" Earliest primary instance of the [[wiki/mind/concepts/explicit-verbal-commitment|explicit-verbal-commitment architecture]]."
+      kb: "dat:annie-new-life-exchange-2015-12-01"
+    - file: wiki/media/upload-066.jpg
+      alt: "Annie with Christmas lights, 2015-12-01"
+      caption: "Annie holding lit Christmas lights over a mattress, laughing, 2015-12-01 16:54 local, iPhone 6 (weak GPS fix, Uniontown PA area). Deck visible through the glass door."
+    - file: wiki/media/upload-065.jpg
+      alt: "Dan and Annie, beanie selfie, 2015-12-01"
+      caption: "Dan in a beanie pulling a face, Annie leaning on his shoulder, 2015-12-01 19:43 local."
+    - file: wiki/media/upload-064.jpg
+      alt: "Post-it advent calendar, 2015-12-01"
+      caption: "Post-it-note advent calendar (1–25 + star) on a door, captioned \"Post it....Adventi calendar,\" 2015-12-01 22:52 local."
+    - file: wiki/media/upload-068.jpg
+      alt: "Dan and Annie laughing selfie, 2015-12-07"
+      caption: "Laughing selfie, 2015-12-07 14:07 local: Annie's hand over her mouth, Dan in a red shirt leaning on her shoulder."
+    - file: wiki/media/upload-069.jpg
+      alt: "Dan and Annie in bed, 2015-12-07"
+      caption: "Bed photo, 2015-12-07 14:35 local, iPhone 6s: Dan shirtless with a red wristband, Annie beside him under white sheets, both smiling. No nudity or sexual activity visible."
+      kb: "dat:annie-first-december-2015-12-07"
+    - file: wiki/media/upload-070.jpg
+      alt: "Dan kissing Annie's cheek in bed, 2015-12-07"
+      caption: "Bed photo, 2015-12-07 14:35 local: Dan kissing Annie's cheek, her arm around him, under the sheets. No nudity or sexual activity visible."
+    - file: wiki/media/upload-079.jpg
+      alt: "Dan's 'rambler' commitment message as received on Annie's phone, 2015-12-10"
+      caption: "Dan's long commitment message (\"I'll keep rambling about how perfect you are… I love you forever\") as received on Annie's phone, screenshot 8:53 PM; corpus row 131575 at 2015-12-11 01:38:38 UTC (20:38 EST). Annie-side evidence of the commitment architecture."
+      kb: "dat:dan-rambler-annie-phone-2015-12-10"
+    - file: wiki/media/upload-080.jpg
+      alt: "Marriage exchange, 2015-12-10"
+      caption: "\"I want to marry you\" / \"And spend forever feeling this happy\" — \"I can promise you\" / \"That you will marry me,\" 2015-12-10 18:01–18:03 EST (messages.csv rows 131945/131902, 131959/131916)."
+      kb: "dat:dan-annie-marriage-exchange-2015-12-10"
+    - file: wiki/media/gphotos-012.jpg
+      alt: "Dan and Annie, Polaroid-style print"
+      caption: "Dan and Annie cheek-to-cheek, both smiling; the print photographed on a granite counter. Undated, pre-terminal-phase. Curated pick from the Google Photos DANNIE HISTORY album thumbnail sampling (2026-09-14)."
+    - file: wiki/media/upload-081.jpg
+      alt: "\"Hope is a waking dream.\" script tattoo, 2026-09-14"
+      caption: "Close-up of Annie's script tattoo, typewriter-style serif over two lines, low on the abdomen/hip just above the underwear line. Sent by Dan in chat 2026-09-14 19:15 EDT. No nudity or sexual activity visible."
+      kb: "dat:annie-tattoos-close-ups-20260914"
+    - file: wiki/media/upload-082.jpg
+      alt: "Tribal glyph tattoo close-up, 2026-09-14"
+      caption: "Close-up of Annie's black tribal-style glyph: heart-like loop with extended tapered strokes on the hip/flank, a mole nearby. Consistent with the ribcage/flank glyph confirmed 2026-09-12. Sent by Dan in chat 2026-09-14 19:15 EDT. No nudity or sexual activity visible."
+      kb: "dat:annie-tattoos-close-ups-20260914"
+    - file: wiki/media/upload-083.jpg
+      alt: "\"Hope is a waking dream.\" tattoo, detail crop, 2026-09-14"
+      caption: "Tighter detail crop of the same script tattoo as upload-081: the ink close up, fine hairs/stubble on the skin below it. Sent by Dan in chat 2026-09-14, same session. No nudity or sexual activity visible."
+      kb: "dat:annie-tattoos-close-ups-20260914"
 ---
 
 # Annie (Anne Louise Ulmer)
@@ -2846,43 +2914,3 @@ strokes on the hip, and a script piece low on the abdomen reading "Hope
 is a waking dream." — typewriter serif, two lines, the kind of line
 someone picks young and keeps. See
 `dat:annie-tattoos-close-ups-20260914`.
-
-
-
-## Sources
-
-[![Annie Ulmer, first nude, 2015-11-26 (pixelated)](../../media/upload-045.jpg)](../../media/upload-045.jpg) — Annie Ulmer's first nude to Dan, 2015-11-26 14:33 EST, black-and-white bathroom selfie (iPhone 6s front camera, her position). Embedded derivative pixelated per the censorship rule; the original is never committed. See `dat:annie-first-nude-milestone-20260912`.
-
-[![Annie in piercing shop, 2015-11-30](../../media/upload-046.jpg)](../../media/upload-046.jpg) — Annie in a piercing/tattoo shop (red walls, flash art, framed certificate), 2015-11-30 17:19 local, iPhone 6; aftercare in hand, septum piercing trip. See `dat:primanti-alcohol-exception-2015-11-30`.
-
-[![Dan with fishbowl cocktail, 2015-11-30](../../media/upload-047.jpg)](../../media/upload-047.jpg) — Dan drinking a blue fishbowl cocktail with a rubber duck, bar at night, 2015-11-30 17:52 local (no camera EXIF — possible re-save).
-
-[![Two fishbowl cocktails, 2015-11-30](../../media/upload-048.jpg)](../../media/upload-048.jpg) — Two blue fishbowl cocktails with rubber ducks on a branded table, 2015-11-30 17:53 local, iPhone 6. Dan attributes the bar stop to Primanti Bros, Morgantown; venue not verifiable from the frame.
-
-[![Dan and Annie, first public appearance, 2015-12-03](../../media/upload-056.jpg)](../../media/upload-056.jpg) — First time in public together, 2015-12-03 23:42 local, iPhone 6: Annie smiling at the camera, Dan beside her in a dark hoodie, string lights and a lit window behind. Six frames 23:41–23:51, live GPS fix (~39.9004, -79.7255, Uniontown PA) matching capture to the second. The "first" is Dan's 2026-09-12 testimony; the timestamp is EXIF. See `dat:annie-first-public-milestone-20260912`.
-
-[![iMessage exchange, new-life declaration, 2015-12-01](../../media/upload-067.jpg)](../../media/upload-067.jpg) — The new-life declaration, 2015-12-01 13:38 local: "Annie Ulmer from now on its just you and me" / "Because she's gone" / "We made it lol." Earliest primary instance of the [[wiki/mind/concepts/explicit-verbal-commitment|explicit-verbal-commitment architecture]]. See `dat:annie-new-life-exchange-2015-12-01`.
-
-[![Annie with Christmas lights, 2015-12-01](../../media/upload-066.jpg)](../../media/upload-066.jpg) — Annie holding lit Christmas lights over a mattress, laughing, 2015-12-01 16:54 local, iPhone 6 (weak GPS fix, Uniontown PA area). Deck visible through the glass door.
-
-[![Dan and Annie, beanie selfie, 2015-12-01](../../media/upload-065.jpg)](../../media/upload-065.jpg) — Dan in a beanie pulling a face, Annie leaning on his shoulder, 2015-12-01 19:43 local.
-
-[![Post-it advent calendar, 2015-12-01](../../media/upload-064.jpg)](../../media/upload-064.jpg) — Post-it-note advent calendar (1–25 + star) on a door, captioned "Post it....Adventi calendar," 2015-12-01 22:52 local.
-
-[![Dan and Annie laughing selfie, 2015-12-07](../../media/upload-068.jpg)](../../media/upload-068.jpg) — Laughing selfie, 2015-12-07 14:07 local: Annie's hand over her mouth, Dan in a red shirt leaning on her shoulder.
-
-[![Dan and Annie in bed, 2015-12-07](../../media/upload-069.jpg)](../../media/upload-069.jpg) — Bed photo, 2015-12-07 14:35 local, iPhone 6s: Dan shirtless with a red wristband, Annie beside him under white sheets, both smiling. No nudity or sexual activity visible. See `dat:annie-first-december-2015-12-07`.
-
-[![Dan kissing Annie's cheek in bed, 2015-12-07](../../media/upload-070.jpg)](../../media/upload-070.jpg) — Bed photo, 2015-12-07 14:35 local: Dan kissing Annie's cheek, her arm around him, under the sheets. No nudity or sexual activity visible.
-
-[![Dan's 'rambler' commitment message as received on Annie's phone, 2015-12-10](../../media/upload-079.jpg)](../../media/upload-079.jpg) — Dan's long commitment message ("I'll keep rambling about how perfect you are… I love you forever") as received on Annie's phone, screenshot 8:53 PM; corpus row 131575 at 2015-12-11 01:38:38 UTC (20:38 EST). Annie-side evidence of the commitment architecture. See `dat:dan-rambler-annie-phone-2015-12-10`.
-
-[![Marriage exchange, 2015-12-10](../../media/upload-080.jpg)](../../media/upload-080.jpg) — "I want to marry you" / "And spend forever feeling this happy" — "I can promise you" / "That you will marry me," 2015-12-10 18:01–18:03 EST (messages.csv rows 131945/131902, 131959/131916). See `dat:dan-annie-marriage-exchange-2015-12-10`.
-
-[![Dan and Annie, Polaroid-style print](../media/gphotos-012.jpg)](../media/gphotos-012.jpg) — Dan and Annie cheek-to-cheek, both smiling; the print photographed on a granite counter. Undated, pre-terminal-phase. Curated pick from the Google Photos DANNIE HISTORY album thumbnail sampling (2026-09-14).
-
-[!["Hope is a waking dream." script tattoo, 2026-09-14](../../media/upload-081.jpg)](../../media/upload-081.jpg) — Close-up of Annie's script tattoo, typewriter-style serif over two lines, low on the abdomen/hip just above the underwear line. Sent by Dan in chat 2026-09-14 19:15 EDT. No nudity or sexual activity visible. See `dat:annie-tattoos-close-ups-20260914`.
-
-[![Tribal glyph tattoo close-up, 2026-09-14](../../media/upload-082.jpg)](../../media/upload-082.jpg) — Close-up of Annie's black tribal-style glyph: heart-like loop with extended tapered strokes on the hip/flank, a mole nearby. Consistent with the ribcage/flank glyph confirmed 2026-09-12. Sent by Dan in chat 2026-09-14 19:15 EDT. No nudity or sexual activity visible. See `dat:annie-tattoos-close-ups-20260914`.
-
-[!["Hope is a waking dream." tattoo, detail crop, 2026-09-14](../../media/upload-083.jpg)](../../media/upload-083.jpg) — Tighter detail crop of the same script tattoo as upload-081: the ink close up, fine hairs/stubble on the skin below it. Sent by Dan in chat 2026-09-14, same session. No nudity or sexual activity visible. See `dat:annie-tattoos-close-ups-20260914`.

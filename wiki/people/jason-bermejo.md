@@ -1,7 +1,5 @@
 ---
 title: "Jason Bermejo"
-image_caption: Jason Bermejo
-image: assets/people/jason-bermejo/people-jason-bermejo-msw6nyoh.jpg
 domain: people
 page_type: entity
 status: active
