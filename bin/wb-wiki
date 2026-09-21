@@ -1480,6 +1480,17 @@ def main() -> int:
     if media_src.is_dir():
         shutil.copytree(media_src, out / "wiki" / "media", dirs_exist_ok=True)
 
+    # Share apps: standalone HTML files under wiki/share/ (interactive
+    # deliverables, not articles) are copied verbatim to site/wiki/share/.
+    # bin/wb-gate skips everything under site/wiki/share/, so these publish
+    # ungated by design.
+    share_src = ROOT / "wiki" / "share"
+    if share_src.is_dir():
+        for f in sorted(share_src.glob("*.html")):
+            (out / "wiki" / "share").mkdir(parents=True, exist_ok=True)
+            shutil.copy2(f, out / "wiki" / "share" / f.name)
+            print(f"share app: {f.name} -> wiki/share/")
+
     # Dead-link report
     dead = sorted(set(linker.dead))
     if dead:
