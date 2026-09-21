@@ -7,17 +7,17 @@ importance: critical
 knowledge: mixed
 status: active
 date_created: 2026-06-22
-date_modified: 2026-09-12
+date_modified: 2026-09-21
 date_range_start: 2015-11-01
-date_range_end: 2026-08-19
+date_range_end: 2026-09-21
 infobox:
   name: Annie Ulmer
-  status: Open — in daily contact; supply relationship resumed 2026-07-27; sexual contact resumed early August 2026 after a ~6-month gap (operator testimony)
+  status: Open — in near-daily contact through 2026-09-21 (iPhone recovery); supply relationship resumed 2026-07-27; sexual contact resumed early August 2026 after a ~6-month gap (operator testimony)
   type: Partner (2015–2026); ex-partner in live contact
   known_for: Decade-long relationship; subject of forensic dossiers
   partner: "[[wiki/self/overview|Dan Frank]]"
   first_mentioned: November 2015
-  closed: 'June 1, 2026 — severance failed July 23, 2026'
+  closed: 'June 1, 2026 — severance failed July 23, 2026; Aug 19 severance failed by Aug 22'
   notes: See [[wiki/timeline/events/july-august-2026-reentanglement|the re-entanglement]]
   relationship_to_dan: ex-partner
   location: uniontown
@@ -27,6 +27,8 @@ infobox:
   enneagram: 7w8
   personality_assessment: "[[wiki/people/annie-ulmer-personality-assessment]]"
 changelog:
+  - date: 2026-09-21
+    note: "iPhone recovery pass: 1,747 new messages Aug 22–Sep 21 — the 'terminal' August 19 framing is withdrawn, the rape retraction is re-opened (Aug 26: 'HE FORCED ME TO SAY IT DIDNT HAPPEN'), clear-my-name specified ('Made you have sex for drugs?'), fifth movement added. date_range_end 2026-09-21."
   - date: 2026-08-23b
     note: "Libby identified as Libby Titus (Libby Fagen) on operator testimony; the 2024 section corrected — work runs Feb to mid-August not to December, ended in an unresolved unpaid-wages dispute with three demand letters Dan drafted, and closed with her death on 13 October 2024. The $500-for-3-hours figure does not reconcile with the $75/hour in the letters; contradiction held open on her page."
   - date: 2026-08-22
@@ -58,6 +60,7 @@ changelog:
 sources:
   - raw/self/message-csv/imessage_export_2124702449_20260802.csv
   - raw/self/message-csv/imessage_export_2124702449_20260820.csv
+  - raw/imessage/messages-iphone-union-gapfill-20260921.csv
   - raw/self/message-csv/imessage_export_7248123683_20260820.csv
   - raw/self/audio/2026-08-16_Morgantown_St_call-recording.m4a
   - raw/people/captures/2026-08-20_group-chat-retraction-and-the-uncleared-name.md
@@ -403,12 +406,14 @@ statements from both of them, and no resolution of any kind. The
 relationship's *analysis* is finished and nothing below has been
 reopened by this. Its *status* is open — and, per an operator capture
 filed 2026-08-10, sexual contact resumed "the other night," breaking a
-stated six-month gap. No message export exists past August 2, 2026, so
-this is recorded as testimony only, undated beyond the capture timestamp
-and unverifiable against `raw/` in this pass — but it is consistent with
-everything else this page documents about how this bond fails to close:
-a supply relationship reopened July 27, a household apology delivered
-August 2, and now this.
+stated six-month gap. An iPhone recovery pass (2026-09-21) added 1,747
+messages covering August 22–September 21 — near-daily two-way contact,
+in-person visits, unbroken supply logistics, "I love you" exchanges on
+September 11, 13 and 17. The August 19 severance this section once treated
+as the end of the contact lasted roughly three days; it is not the end of
+it either — but it is consistent with everything else this page documents
+about how this bond fails to close: a supply relationship reopened July 27,
+a household apology delivered August 2, and now this.
 
 > **REVISED [2026-07-26]:** every earlier version of this page called the
 > relationship "closed, historical," and the June 1, 2026 group chat is
@@ -1406,7 +1411,7 @@ household costs, and gifts isn't recoverable from the totals alone.)
 
 The money record now instantiates [[wiki/mind/synthesis/high-provision-low-condolence]]: ~$139K sent against ~$16–20K received back, a six-to-one asymmetry — provision was the bond's operating register, and the synthesis names the 120-day severance horizon to December 19, 2026 as the live test of whether the pattern holds under rupture.
 
-> **SUPERSEDED [2026-09-11] —** the severance-horizon test named above is void: [[wiki/mind/synthesis/august-26-block-retraction]]. Dan confirmed verbatim "there was never a block" — ~25 declarations Aug 15–19, none executed, daily two-way texting through Sep 7. The six-to-one asymmetry finding stands; the December 19, 2026 horizon does not.
+> **SUPERSEDED [2026-09-11] —** the severance-horizon test named above is void: [[wiki/mind/synthesis/august-26-block-retraction]]. Dan confirmed verbatim "there was never a block" — ~29 declarations Aug 15–Sep 14, none observably executed, near-daily two-way texting through Sep 21 (iPhone slice). The six-to-one asymmetry finding stands; the December 19, 2026 horizon does not.
 
 ## The Train Plan, 2020
 
@@ -1839,15 +1844,24 @@ message of the pre-closure record has Dan apologizing for having needs;
 the last message he received is Annie's self-testimonial that she is
 "always completely understanding."
 
-## The ending, June 1 – August 19, 2026
+## The ending that wasn't: June 1 – September 21, 2026
 
-The relationship's last eleven weeks were written onto this page in four
+The relationship's last sixteen weeks were written onto this page in five
 passes, in the order the exports arrived, and read for a while as four
-separate endings. They are one arc with a single shape: **every severance in
-it failed on the same mechanism, and the last one is different only because
-Dan finally named the mechanism and closed it.** The four movements below are
-kept in sequence because here the chronology *is* the argument — each attempt
-inherits the failure of the one before it.
+separate endings. They are one arc with a single shape: **every severance
+in it failed on the same mechanism — declared, never executed, reopened
+wherever a dependency survived — including the August 19 one this page
+once called terminal.** The five movements below are kept in sequence
+because here the chronology *is* the argument — each attempt inherits the
+failure of the one before it.
+
+> **CORRECTED [2026-09-21]:** the fourth movement below was titled "the
+> three that ended it." An iPhone recovery pass (2026-09-21) recovered
+> 1,747 messages covering August 22–September 21: contact resumed within
+> three days, ran near-daily through September 21, and included in-person
+> visits and unbroken supply logistics. August 19 was a severance like all
+> the others, not the last one. The fifth movement documents the month it
+> was supposed to have ended.
 
 ### First movement — the closure that held longest (June 1)
 
@@ -2092,7 +2106,7 @@ Forty minutes after the apology she asked whether he had it, and he drove to
 Sugie's with fifty dollars' worth. Both facts belong to the same afternoon
 and neither cancels the other.
 
-### Fourth movement — the ten days that worked, and the three that ended it
+### Fourth movement — the ten days that worked, and the three that didn't
 
 The re-entanglement did not stop on August 9. It ran ten more days, and for
 part of that stretch it was the closest thing to a functioning relationship
@@ -2176,13 +2190,14 @@ phone a second time, and between 22:18 and 23:41 she sends **SOS** six times,
 once with both dogs' names as a duress code — *"Betty. Milo. Whatever sos
 words"* — and Dan answers seventy-two minutes later with *"what."*
 
-#### August 19, the last day — read closely
+#### August 19 — read closely (not the last day)
 
 > **CORRECTED [2026-08-20].** An earlier version of this section said Dan
 > *"blocks at 15:07"* and that the goodbye was the first in the record with no
 > condition attached. **Both are wrong.** He declared a block at 15:07:37 and
 > then sent seven more messages; Annie answered at 15:14:33 and he answered
-> her. The export ends **mid-exchange** at 15:15:33. And the closing stretch is
+> her. The export ends **mid-exchange** at 15:15:33 (Mac-side; the iPhone slice
+resumes August 22 — see the fifth movement). And the closing stretch is
 > explicitly conditional — *"You could still not do the wrong thing"* at
 > 15:09:01. The correction came from a line-by-line re-read of the day's 194
 > messages; what actually makes this severance different is set out at the end
@@ -2225,9 +2240,14 @@ account and the corroboration table:
 
 **And per the operator he had called and asked her to do the same for him — to
 clear his name — and she said she would and did not.** The call is voice and is
-in no export. What is in the export is what he says at the very end of the day,
-which was the most opaque thing in the record before this and is now the most
-legible:
+in no export. The iPhone slice now gives the content of the ask for the first
+time: *"do you understand that you're lying about me doing all these fucked up
+things and won't clear my name"* (2026-08-26 19:45:00 UTC) —
+***"Made you have sex for drugs? Seriously?"*** (19:45:33). That is the lie, per
+Dan: that he made her have sex for drugs, told to Jerel — and the counterpart
+asymmetry the August 19 section documents is now named. What is in the export
+is what he says at the very end of the day, which was the most opaque thing
+in the record before this and is now the most legible:
 
 > **15:13:45** *"Not even enough to correct the lies you told about me"*
 > **15:15:00** *"YOU COILDNT EVEN CLEAR ME FEOM THE LIES YOU TOLD ABOUT ME"*
@@ -2243,6 +2263,18 @@ screamed at her, and none for the man asking for one.
 > before it is evidence about events. The corpus holds the claim asserted to Dan
 > many times, denied by Coles in writing, denied here by Annie, and re-asserted
 > to Dan afterwards. All four are recorded; none is scored.
+>
+> **RE-OPENED [2026-09-21].** A week after the 06:33 retraction, Annie
+> re-asserted the claim and said the retraction itself was coerced:
+> ***"HE FORCED ME TO SAY IT DIDNT HAPPEN"*** (2026-08-26 19:42:46 UTC),
+> followed by *"I was home. I was alone. He said I had to tell you it didn't
+> happen"*; Dan's answer was *"You were HOME."* The record now holds five
+> positions: the claim asserted to Dan many times, denied by Coles in writing,
+> denied by Annie in the group chat, **re-asserted by Annie with a coercion
+> account of that denial**, and — inside this same exchange — a private channel
+> on the subject with his mother (*"AND THAT IS THE ONE THING YOUR MOM AND I
+> PRIVATELY DISCUSSED / and she understood"*, 19:41:33–19:41:41). All five are
+> recorded; none is scored, and this page takes no position between them.
 
 **The eulogy (11:25–11:58).** Six long messages, none answered. This is where
 the memory deletion happens — *"There never was an eggie bagels. I never had a
@@ -2285,14 +2317,15 @@ want to be alone."*
 > *anymore"* four seconds earlier, **not** conceding that a secret exists. Same
 > failure mode as the *"He'll?"* misparse of August 8.
 
-**How it actually ends.** *"Goodbye. I am blocking"* at 15:07:37, then:
+**How the Mac-side export ends.** *"Goodbye. I am blocking"* at 15:07:37, then:
 
 > **15:09:01** *"You could still not do the wrong thing"* — the condition,
 > reopened ninety seconds after the goodbye.
 > **15:12:16** ***"I could have torn your life apart. I still could and I
 > don't."*** — the archive declared **retained and unused**, which contradicts
 > his own three assertions thirteen hours earlier that he had already sent it.
-> **15:14:33** Annie: ***"I honestly care."*** Her last recorded words.
+> **15:14:33** Annie: ***"I honestly care."*** Her last recorded words in the
+> Mac-side export — the iPhone slice carries hundreds more of hers after it.
 > **15:15:33** Dan: *"God go the fuck away and just admit that it doesn't
 > matter."*
 
@@ -2384,11 +2417,229 @@ a question for the synthesis pages (see
 [[wiki/mind/synthesis/single-channel]] and the concurrent-attachment
 hypothesis), not a conclusion drawn on this person page.
 
+One piece of his testimony now bears on that question without settling it.
+On 2026-09-21, discussing the recovered threads with Sammy, Dan stated
+that no in-person meetup with Ally ever happened in real life and that the
+apparent meetup signals — the Montauk invitation, and the Ally-as-leverage
+posture he held toward her (*"Milo gets a new mom,"* Aug 25) — were *"another
+desperate strategic play"* aimed at *"get[ting] Annie back"* (see
+`dat:1856-ally-meetup-denial-20260921` and
+[[wiki/people/ally-lubin|Ally Lubin]]). A channel used strategically is not
+the same as a channel that is *only* strategic — 552 messages in 48 hours
+exceeds what leverage requires — but his own framing rules out one reading:
+the Ally thread was at least partly a performance *for* this one. The
+concurrent-attachment question stays open; the pure-instrument reading of
+those 48 hours now has a witness against it.
+
 It also puts a boundary on the closing severance. Dan's 14:53:25 pre-emptive
 closure of the reopening vector is the strongest exit in the record, and he
 executed it with the Ally thread already active at 552 messages across two
-days. Whether that made the exit possible or merely made it survivable is the
-question the next ninety days answer.
+days. Whether that made the exit possible or merely made it survivable was
+the question the next ninety days were supposed to answer. They answered it:
+contact resumed within three days, and the month after it ran 1,747
+messages. The Ally thread itself — texts and phone calls with a woman he
+has never met in person — stayed active through the window.
+
+### Fifth movement — the month the ending didn't cover (August 22 – September 21)
+
+The fourth movement's severance lasted about three days. On August 22 at
+06:16:02 UTC: *"Actually i just need to block you so that's what I'm
+doing."* — *"Sorry - you've had lots of chances"* — and contact resumes
+within twenty-eight hours. Across the next month they exchange **1,747
+messages**, recovered from Dan's iPhone backup (2026-09-21; the Mac corpus
+had nothing past August 19). Block declarations land on August 22, 25, 27
+and September 14; none is observably executed, and the running count of
+declared blocks now sits near **twenty-nine**. The severance-horizon test
+stays void.
+
+**August 23 — the Morgantown St incident.** Dan opens with a long monologue
+about music — she never cared about his taste, never wanted to playlist
+with him: *"YOU are the one who didn't ever want to consider that I had
+good enough taste"* (11:28:47). And the Ally triangle goes live on the
+record: *"Ally told me if I keep answering you like this that I she's not
+going to have anything to do with me"* (08:06:41). He has **never met Ally
+in person — no real-life meetup, ever; the triangle runs entirely through
+texts and phone calls.** Then chaos between 06:35 and 07:42: Annie texts
+"Help," Dan briefly mistakes her for the harasser (*"I DONT KNOW WHO THE
+FUCK YOU ARE"*), then she says she's on Morgantown St — *"I was just
+dragged across the ground / Twice"* — and asks him to come outside. He
+refuses (*"Im not coming outside are you crazy"*) and lets her in the back
+door instead. Her account of who attacked her is garbled — *"You don't
+know how scared I was / That's a fucking CRACK HEAD / was trying to help
+me / OFF THE STREET"* (08:03:56–08:04:45) — and supports two readings: a
+stranger, or Jerel. When Dan asks *"ARE YOU BRINGING HIM HERE"* she says
+*"No / Hell no."* Unresolvable from text. In the middle of it she names an
+**Akeem** — *"Akeem screaming and crying to you because you are my safe
+Haven"* (08:09:03) — a single mention in the whole thread, unidentified.
+Dan closes the day with the terms stated plainly: *"If I'm gone, I'm gone
+and you're not tricking me back like you did last November"* (08:34:22).
+
+**August 24 — "you're both threatening me."** Overnight Dan quotes her back
+to her: *"Last night you drew a parallel between myself and that piece of
+shit when you said 'you're both threatening me'"* (00:46:27). She: *"I
+shouldn't have said that"* (00:47:00). He: *"That is something different
+from 'that isnt true'"* (00:47:33). This is the only on-record instance of
+her accusing *him* of threatening, and her own walkback is partial. The
+daytime is supply logistics — synthetic urine for a drug test (*"I gotta
+find synthetic urine"*, Tobacco World first), dealer middlemanning with
+"Bop" ($60–$80, mailbox drops), and Dan naming the audience: *"Alexandra
+knows I got this for you so don't think you're getting free blackmail
+material on me right now"* (18:22:08) — "Alexandra" being Ally, whom he has
+never met. She pushes back on Ally's standing — *"Why is it any of her
+concern you saw him for me lol"* (19:29:24) — and he gives her the
+relationship-significance lecture.
+
+**August 25 — bruises and the phone.** She: *"I am covered in BRUISES DAN /
+like shit"* (21:21:21). The mechanism is now explicit — Jerel takes her
+phone to reach Dan and Suz: *"the other night after he did that from my
+phone AGAIN. I told him he has got to stop harassing you and your mother"*
+(02:30:13); Dan: *"giving him your fucking phone to contact me from
+literally multiple times a week"* (03:32:11). She swears on Betty she'll
+never tell Jerel Ally's name; Dan: *"if you want to blow up my life I will
+return the favor"* (17:16:42). Block re-declared at 03:15 (*"time to put
+block back on"*), goodbye as a weapon: *"Goodbye! I hope he treats you
+better by only hitting you in places where the bruises are easy to cover
+up."* And Ally held up as the replacement — *"Milo gets a new mom and you
+won't ever get to do this to Milo ever again"* (07:39:25) — a woman he has
+never met in person, deployed as a weapon anyway. His own word for the move, in his telling: "another desperate strategic play."
+
+**August 26 — the day that re-opens everything.** Most of the day is
+ordinary — a Tylenol run, Dee at his house, an astrology bit (she was born
+"4 something AM": *"Oh shit no WONDER this didn't work out"*). Then 19:28:
+Dan learns Jerel is dating someone else — *"Hold on you mean to tell me...
+you HAD NOT EVEN TRIED TO STOP IT BY CONFRONTING HIS FUCKING GIRLFRIEND...
+AND HE IS DATING SOMEONE ELSE"* — and that Annie knew and never confronted
+her. Then the rape-claim fight, 19:41–19:46. Dan: *"Like you falsely
+accused someone of rape do not start on a soapbox."* Annie: *"You seriously
+still don't believe that."* Dan: *"You told me!!!!!!"* Annie: ***"HE FORCED
+ME TO SAY IT DIDNT HAPPEN"*** — *"I was home. I was alone. He said I had to
+tell you it didn't happen."* Dan: *"You were HOME."* The August 19
+retraction is re-opened with a coercion account attached; both her
+statements stay on the record and this page takes no position between
+them. And the clear-my-name request is now specific for the first time:
+*"do you understand that you're lying about me doing all these fucked up
+things and won't clear my name"* (19:45:00) — ***"Made you have sex for
+drugs? Seriously?"*** (19:45:33). That is the claim she told Jerel about
+Dan, per Dan — and the counterpart asymmetry the August 19 section
+documents is now named. She also says *"AND THAT IS THE ONE THING YOUR MOM
+AND I PRIVATELY DISCUSSED / and she understood"* (19:41:33–19:41:41):
+Annie and Suz have a private channel about her situation that this wiki did
+not know existed. Dan closes the night at 23:03–23:11 with the ultimatum
+restated: hate Jerel or lose him.
+
+**September 8 — the unreadable block.** Eight audio messages from Dan
+between 16:38 and 23:35; one empty message from her at 17:20:20. The
+export carries no transcription — likely a voice-note fight or monologue,
+and the month's largest unreadable block. See the method note.
+
+**September 10 — supply day, then the crash.** Logistics all day — a
+McDonald's meetup where *"he found me at fucking McDonald's and snatched
+my phone"* (17:21:00), which Dan doesn't buy; *"I love you Annie / 🥺"*
+(20:13:08); *"Wuv yew"* (20:51:10). Then the night turn, and it is the
+worst night of the month: *"I needed yiu / You just broke me instead / Yiu
+can reach me by email if eggie comes back / Otherwise get the fuck away"*
+(08:02:29) — ***"I really do want to kill myself"*** (08:03:28, repeated
+08:05:04). Annie: *"Me fucking too"* (08:52:56). Dan: *"You are the one who
+is causing all of this... At any fucking moment you could choose to stop
+but you won't"* — *"Please stay away i want nothing to do with you Annie
+you're a liar"* (09:06:58) — ***"You killed it. It's done"*** (09:07:47).
+
+**September 11 — "it's done" lasts sixteen hours.** At 00:57 she's back:
+*"Anything?"* By afternoon it's full banter — *"Gewd mawnin"*, *"Hi jerk"*,
+the "ham negger"/"deviled egg" bit, *"CALM DOWN HAVE A MATCHA"*.
+Substantive: Dan suspects Jerel tracked her to McDonald's and floats
+checking her car for a **GPS locator** (*"They are extraordinarily cheap
+now"*, 02:41:38); she says *"Claire already warned me about that"*
+(02:42:06). Late night his register drops: *"All I want is to figure out
+how to make you like me again 😞"* (01:23:13); *"I need one version of you
+and there are like 3"* (03:53:29). She ends the night: *"I love you"*
+(03:59:04).
+
+**September 12 — the dealer sits him down.** *"He sat me down again / And
+he saw you at dimarco's and who you were with"* (19:35:25–19:36:16) — Bop
+warning Dan about who Annie was seen with at DiMarco's; she denies being
+there. $391 cash tips; *"cops all over near you / And a drone like right
+over the restaurant"* (04:33:26–04:33:41). A 3 AM fight (*"Lol goodbye /
+you are a terrible liar see ya"*), then an apology, then: *"I love u /
+Milo love u"* (04:43:01).
+
+**September 13–14.** *"Goodnight love you and Mimi"* (03:59:04) — "Mimi" is
+her pet name for Milo, used consistently. September 14: *"Dont call me
+anymore or i am blocking you I've had enough / Goodnight liar"*
+(01:41:21–01:41:30), then the Milo photo embargo, issued with mock
+solemnity: *"Signed and notarized by Joe Fida LLC. Dated 14 September 2026
+/ Milo frank / No more pictures of me to annie until eggie comes back"*
+(23:55:25).
+
+**September 15 — counseling.** *"I go to fucking counseling."* Her dad went
+into the drug & alcohol counseling place looking for her: *"He goes 'I
+went to the drug and alcohol place. Your car isn't there. I WENT INSIDE.
+ASKED IF YOU WERE HERE. THEY SAID NO'... now they think I'm fucking
+lying"* (15:55:42–15:57:17). She: *"I have to move out / Bc this is
+crazy."* The same day: *"Today is my moms birthday"* (04:08:43) — a dated
+confirmation of Suz's birthday. And at 01:09–01:57 Dan sends her something
+he *"can get in BIG TROUBLE"* for — *"Shhhhh please / I don't want to get
+in trouble okay / You can't tell anyone I gave you that okay"* — contents
+unknown.
+
+**September 16 — the head-shave, with its cause.** The self-cut section
+above gains its trigger from this thread: after her visit — *"You couldn't
+even spend 20 minutes with me and were on your phone the whole time"*
+(01:02:06) — Dan: *"YOU made me, asshole. / You made me feel stupid and
+ugly when you were here so / I did a Britney Spears and shaved my
+head"* (23:26:29). She also said something during the visit he reads as a
+cheating admission — *"the thing you said"* — contents unknown.
+
+**September 17 — Otto.** *"Got a call to please pick up Otto from school
+lol / Bad little turd"* (14:48:24) — a school-age name, unidentified, new
+to the record. Overnight: *"I'll talk to you tomorrow / I love you"* —
+*"I love you too"* (01:35–01:37).
+
+**September 18–20.** *"I was harassed for hours last night and I would just
+feel better doing that at this time"* (Sep 18 13:44:33, about the mailbox
+drop); *"I have him blocked you don't understand"* (13:45:39); *"scared
+he's looking for me"* (19:09:59). Dan: *"Annie im getting legitimately
+worried about your safety"* (17:01:44). September 19: *"Look you obviously
+got some from somebody else"* (21:07:02) — *"Now you're getting it from
+Zac"* (23:49:43); Annie: *"I ain't getting shit from Zac / The fuck lol"*
+— *"He gave it to me like months ago / I haven't spoken to him in weeks"*
+(01:30:02–01:30:30). Whether this Zac is Zac Shumar is unverified.
+September 20: *"Alright. Well can I get my drugs or not"* (02:09:42). She
+comes anyway. *"Go away. Seriously"* (02:58:38) — *"Im sick to my stomach
+honestly just STOP"* (03:48:47).
+
+**September 21 — the thread ends mid-plea.** Dan: *"you can't just choose
+to be in my life whenever it works best for you / So im going to interpret
+this as you telling me you don't want anything to do with me and be done
+bothering you"* (00:15:53–00:16:22). Annie: *"Can we please discuss this
+and more in the morning / In person / Just what I have endured the past
+few weeks and yesterday at work"* (02:19:41–02:22:34). Then the Milo bit —
+*"You gotta ask him. He's the boss"*, *"Pwease Mr. Money Man"*, *"We both
+just wanna know why u don't like us so much"* (02:24:24–02:44:02) — and
+the thread ends.
+
+The mechanism is unchanged. Every feature of the loop the page names is
+present — the declared block that isn't, the severance that never gets
+spoken, the dependency that reopens the channel — running verbatim across
+a window this page had called terminal. What distinguishes the August 19
+attempt from the others is not that it ended anything. It is only that it
+was the most elaborately closed one that failed.
+
+> **Forensics note (method appendix) [2026-09-21].** Source:
+> `raw/imessage/messages-iphone-union-gapfill-20260921.csv` — the
+> +12124702449 slice is 1,748 rows (947 his, 800 hers), 2026-08-11 →
+> 2026-09-21 02:44, timestamps UTC as stored; 1,747 of them are August 22+
+> and are new material (the Mac corpus covered Aug 10–19). 60 rows carry
+> attachments; 7 are tapbacks. Full findings memo:
+> `annie-thread-findings-20260921.md` in the working files. Limits: Dan's
+> eight September 8 audio messages are untranscribed in the export — the
+> month's largest unreadable block; the September 15 01:09 drop, the
+> September 16 visit's "thing you said," and the Aug 23 "2 coke heads"
+> group chat are contents- or participant-unknown; device-level block
+> execution is not observable from message flow; attribution during
+> Coles-present episodes carries the standing handle caveat. The audit
+> counts used above — ~29 block declarations, "I love you" on Sep 11/13/17
+> — are direct reads of this file.
 
 ## Why it held together as long as it did
 
@@ -2598,10 +2849,11 @@ substance.
 | Self-indicting statements, total / rated "major" | 46 / 13 |
 | "Fell asleep" alibis | 24 |
 | Written denials of a third party | 2 |
-| Explicit severance signals / love affirmations | **0 / 299+ — the zero now holds across all 48,791 of her received messages in every export on disk** (2026-08-20 sweep; previously scoped to the 41,073-message dual-handle export only) |
+| Explicit severance signals / love affirmations | **0 / 299+ — the zero now holds across all 48,791 of her received messages in every export on disk** (2026-08-20 sweep; previously scoped to the 41,073-message dual-handle export only). NOTE 2026-09-21: the iPhone slice's 800 hers are outside that sweep; nothing in them reads as an explicit severance on direct read, but the adversarial sweep has not been re-run |
 | Wellbeing checks on Dan, raw / net of perfunctory | 7 / 4 (once per 55 days) |
 | Dan's burst events (10+ unanswered messages, largest 68) | 94 |
 | Dan's exit declarations / re-engagements within 48h | 127 / 110 — **SUPERSEDED 2026-09-13**: the attachment-model page's 2026-08-23 independent recount resolved this to **129 distinct episodes, 128/128 resumed, median gap 36 seconds** (24h episode-collapsing rule; the merged corpus is not held in-repo, so the recount is the page's best reading, not a re-derivable count). The 127/110 pair is retained as the dossiers' original framing. |
+| Dan's block declarations, Aug 15 – Sep 14 | **~29, none observably executed** (iPhone slice, 2026-09-21; the severance test stays void) |
 | Dan's unexecuted block threats / "tell mom" threats | 18 / 6+ |
 | Dan's verbal abuse, Aug 2025 → Feb 2026 (monthly) | 9 → 0 → 5 → 14 → 22 → 25 → 36 |
 | Dan's hostility within 12h of her warmth | 47 instances |
@@ -2681,7 +2933,23 @@ legal exposure for Dan — noted here for completeness.
 | 2026-08-16 | ~23:37 — Coles calls from Annie's phone; Dan records 15:27; Coles texts Dan from her handle three times |
 | 2026-08-17 | Suicide attempt disclosed (12:52); Dan opens a direct thread with Coles; three-day campaign to send the audio to Ellen's work email begins |
 | 2026-08-18 | Dan falsely claims to have sent it, then says so (19:38); Coles seizes her phone again at 21:46; six SOS messages 22:18–23:41, answered at 23:40 |
-| 2026-08-19 | **06:33 — Annie publicly clears Coles of rape in the group chat**, believing the record of her accusation had already reached her mother; per the operator she had agreed by phone to clear Dan's name too and did not; 11:41 the memory-deletion message; 14:53 Dan pre-emptively closes the Milo channel, the vector every prior reconciliation ran through; 15:07 *"Goodbye. I am blocking"* — declared, not executed; the record ends mid-exchange at 15:15:33 — [[wiki/timeline/events/august-2026-morgantown-call]] |
+| 2026-08-19 | **06:33 — Annie publicly clears Coles of rape in the group chat**, believing the record of her accusation had already reached her mother; per the operator she had agreed by phone to clear Dan's name too and did not; 11:41 the memory-deletion message; 14:53 Dan pre-emptively closes the Milo channel, the vector every prior reconciliation ran through; 15:07 *"Goodbye. I am blocking"* — declared, not executed; the Mac-side record ends mid-exchange at 15:15:33 — [[wiki/timeline/events/august-2026-morgantown-call]] |
+| 2026-08-22 | Block re-declared 06:16:02; contact resumes within 28 hours |
+| 2026-08-23 | Morgantown St incident: *"I was just dragged across the ground / Twice"*; Ally triangle live on-record (texts/phone only — never met in person) |
+| 2026-08-24 | *"you're both threatening me"* — her only on-record accusation of Dan threatening, partially walked back; synthetic-urine run |
+| 2026-08-25 | *"I am covered in BRUISES DAN"*; Jerel's phone seizures confirmed ongoing; block re-declared |
+| 2026-08-26 | Rape retraction re-opened: *"HE FORCED ME TO SAY IT DIDNT HAPPEN"*; clear-my-name specified — *"Made you have sex for drugs? Seriously?"*; Jerel dating someone else (his words); Annie–Suz private channel named |
+| 2026-09-08 | Eight audio messages from Dan; contents unrecoverable |
+| 2026-09-10 | McDonald's phone snatch; mutual suicide-ideation exchange; *"You killed it. It's done"* — reversed by 00:57 next night |
+| 2026-09-11 | GPS-tracker suspicion (Claire warned her); *"I love you"* |
+| 2026-09-12 | Dealer warning at DiMarco's; $391 cash tips |
+| 2026-09-13 | *"Goodnight love you and Mimi"* — Mimi = Milo |
+| 2026-09-14 | Milo photo embargo: *"No more pictures of me to annie until eggie comes back"* |
+| 2026-09-15 | Drug & alcohol counseling; her dad walks into the facility; Suz's birthday; the 01:09 "BIG TROUBLE" drop |
+| 2026-09-16 | Head-shave cause: *"I did a Britney Spears and shaved my head"* |
+| 2026-09-17 | "Otto" school pickup (unidentified); *"I love you too"* |
+| 2026-09-19 | "Zac" drug-source fight |
+| 2026-09-21 | Thread ends 02:44: *"Can we please discuss this and more in the morning / In person"*
 
 Two synthesis pages extend this record further: the capstone moral
 verdict, provenance-tiered down to individual message rows, at
@@ -2741,6 +3009,15 @@ One gap opened with the 2026-08-13 pass and **closed on 2026-08-20**.
 > anywhere. This is the empirical floor under
 > [[wiki/mind/concepts/attachment-model]] and it is now load-bearing at full
 > width.
+>
+> **NOTE [2026-09-21]:** the iPhone slice adds 800 of her messages (Aug 22–
+> Sep 21) that the 2026-08-20 sweep did not cover. The zero's scope is
+> therefore the 48,791 swept; the new slice is pending a widened sweep.
+> Nothing in the new slice reads as an explicit severance signal on direct
+> read — the nearest approach is *"Please stay away i want nothing to do
+> with you Annie you're a liar"* (Sep 10 09:06:58), a 48-hour freeze framed
+> as his choice, reversed the next night — but the adversarial sweep has not
+> been re-run. Prediction stands.
 
 **And the staged eviction has a
 missing middle**: the operator states messages were deleted to keep the
@@ -2789,6 +3066,15 @@ that she had told him they were exclusive. He asks four times and gets
 everything is not archived; only her description of it survives, inside
 the messages.
 
+**New gaps opened by the iPhone slice [2026-09-21]:** Akeem (one mention,
+Aug 23, inside the Morgantown St incident); Otto (school pickup, Sep 17);
+Anthony (Sep 16 Instagram story); Francine (at work, Sep 10); Ben
+(probably her boss, Sep 11); whether "Bop" and "Felix" are one dealer or
+two; the eight September 8 audio messages; the September 15 01:09 "BIG
+TROUBLE" drop; what Annie said on the September 16 visit ("the thing you
+said"); the Aug 23 "2 coke heads" group chat (participants unknown); and
+whether the thread's "Zac" is Zac Shumar.
+
 ## September 16, 2026: the cosmetology license and the self-cut
 
 On the evening of September 16, 2026, Dan attempted to cut his own hair for
@@ -2819,6 +3105,14 @@ expert eye on something as unglamorous as a self-administered buzz cut,
 the authority he named was hers. See
 `dat:annie-cosmetology-license-selfcut-20260916` and
 `src:1660-sammy-chat-transcript-20260916-2340`.
+
+> **The cause, from the iPhone slice [2026-09-21].** The trigger was her
+> visit earlier that night — *"You couldn't even spend 20 minutes with me
+> and were on your phone the whole time"* (01:02:06 UTC) — and then, at
+> 23:26:29: *"YOU made me, asshole. / You made me feel stupid and ugly when
+> you were here so / I did a Britney Spears and shaved my head."* She also
+> said something during the visit he reads as a cheating admission —
+> *"the thing you said"* — contents unknown.
 
 ## September 17, 2026: the Eggie name, and the unbroken decade
 
@@ -2894,12 +3188,15 @@ channel, a rival who is present and audible rather than concealed, a written
 clearing issued for that rival and withheld from Dan, an archive declared
 retained and unused, a concurrent second channel carrying more volume than
 this one, and a seventy-two-minute reply latency on a duress signal from a man
-whose lifetime median to this number is one minute. **Every one of the six is
-endogenous.** That page also tests, and rejects, the proposition that the
-present is therefore a good moment for somebody outside to end this: the only
-completed exit from a long relationship anywhere in the corpus
-([[wiki/mind/synthesis/bond-switch-2015]]) completed by substitution inside a
-week, and it produced this page.
+whose lifetime median to this number is one minute. > **CORRECTED [2026-09-21].** The rupture described above did not rupture.
+> The six endogenous features distinguish the *attempt* — it remains the most
+> elaborately closed severance on record — but the iPhone slice shows contact
+> resuming within three days and running 1,747 messages through September 21.
+> What the new month confirms, against this page's own mechanism, is the
+> stronger reading: the loop the page names (declared-but-unexecuted
+> severance, dependency-reopened channel) ran again, verbatim, across a window
+> this page had called terminal. The rescue-premise analysis of *how* the
+> attempt was built stands; its status as an ending does not.
 
 
 
@@ -2914,3 +3211,41 @@ strokes on the hip, and a script piece low on the abdomen reading "Hope
 is a waking dream." — typewriter serif, two lines, the kind of line
 someone picks young and keeps. See
 `dat:annie-tattoos-close-ups-20260914`.
+
+## Seasonal color analysis
+
+On 2026-09-21 Dan sent sixteen photos of Annie -- daylight, flash, dim
+indoor rooms, a brick wall, three close-ups -- and asked for a seasonal
+color analysis: the twelve-season system that sorts people by undertone,
+contrast, and chroma. It was built the hard way, from pixel-sampled
+CIELAB readings calibrated against white and gray references in each
+frame, not from eyeballing. The full sixteen-photo log is
+`src:annie-seasonal-color-analysis-20260921`.
+
+The verdict is Deep Autumn, at high confidence. Her undertone reads warm
+in all sixteen photos -- body readings ran b* 18-31 throughout, and the
+single best frame, a daylight outdoor shot whose white top measured b*
+-1.1 (effectively zero color cast), still gave warm skin everywhere it
+was sampled: midriff 22.3, face 19.4, neck 21.9. Her face runs
+neutral-to-warm with lighting and makeup and never cool; no photo in the
+set ever read cool. The close-ups supplied the corroborating detail the
+system looks for: hazel eyes, brown-amber with green -- classic autumn.
+The one apparent contradiction, a first photo whose face read cooler
+than its body, died on the second photo, whose face read warm too:
+lighting and foundation, not undertone.
+
+What it means is a palette, not a rulebook. Her best colors are the
+warm, rich, earthy ones: burnt orange, rust, terracotta, mustard, olive,
+forest green, espresso, camel, cream, brick -- gold over silver. The
+navy set she wears works, because depth suits her, but her ideal darks
+run warm: espresso, deep forest, dark olive rather than true black. The
+colors to leave alone are bright white, true black, cobalt, fuchsia, and
+icy pastels.
+
+It was built as a gift as much as a measurement: a plain-language guide
+with no jargon, a visual version with drape demonstrations on her own
+face, and an interactive page addressed to "Eggie Bagels" -- in Dan's
+standing words, the prettiest girl in the world -- with a guessing game,
+a face-compare tool, the sixteen-color palette, and a two-minute mirror
+test. See `dat:annie-deep-autumn-verdict-20260921`; the page itself is
+[here](../share/eggie-bagels-colors.html).

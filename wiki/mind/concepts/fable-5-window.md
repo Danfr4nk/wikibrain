@@ -5,7 +5,7 @@ page_type: concept
 status: active
 knowledge: earned
 date_created: 2026-09-16
-date_modified: 2026-09-16
+date_modified: 2026-09-21
 sources:
   - src:kb-dat-1619-fable-5-window-proliferation
   - wiki/self/twitter/2026.md
@@ -44,6 +44,18 @@ climbing the exponential and have probably just achieved agi."
   logs but who's the crazy one now huh?"
 - **June 9–22:** the subscription window — the original wikibrain
   gets built inside it.
+- **June 13 — the contemporaneous record.** Dan's tweet that day, quoting
+  Anthropic's export-control statement: *"Man I thought I was being nuts
+  running fable5 for like 14 hours to build this new website and data
+  visualizers of my text logs but who's the crazy one now huh?"* This is
+  the primary record of the build: a same-day, same-week statement, not
+  a retrospective. The thing he built — a website over his own text logs —
+  is what he now calls the original wikibrain. Audit note (2026-09-21):
+  the September 9, 2026 build documented elsewhere on this site is a
+  *rebuild* — the 2026-09-09 log records the repo "live and rebuilding"
+  with "recovery from Drive staging copy" — so the June 13 build and the
+  September rebuild are two different events, not a date displacement.
+  The June artifact is the original; the September one is its recovery.
 - **July 1:** access restored with a new cybersecurity classifier;
   flagged requests route to Opus 4.8.
 - **Early July:** subscription access ends; API-only from July 9 at
