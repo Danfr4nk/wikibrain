@@ -3211,3 +3211,41 @@ strokes on the hip, and a script piece low on the abdomen reading "Hope
 is a waking dream." — typewriter serif, two lines, the kind of line
 someone picks young and keeps. See
 `dat:annie-tattoos-close-ups-20260914`.
+
+## Seasonal color analysis
+
+On 2026-09-21 Dan sent sixteen photos of Annie -- daylight, flash, dim
+indoor rooms, a brick wall, three close-ups -- and asked for a seasonal
+color analysis: the twelve-season system that sorts people by undertone,
+contrast, and chroma. It was built the hard way, from pixel-sampled
+CIELAB readings calibrated against white and gray references in each
+frame, not from eyeballing. The full sixteen-photo log is
+`src:annie-seasonal-color-analysis-20260921`.
+
+The verdict is Deep Autumn, at high confidence. Her undertone reads warm
+in all sixteen photos -- body readings ran b* 18-31 throughout, and the
+single best frame, a daylight outdoor shot whose white top measured b*
+-1.1 (effectively zero color cast), still gave warm skin everywhere it
+was sampled: midriff 22.3, face 19.4, neck 21.9. Her face runs
+neutral-to-warm with lighting and makeup and never cool; no photo in the
+set ever read cool. The close-ups supplied the corroborating detail the
+system looks for: hazel eyes, brown-amber with green -- classic autumn.
+The one apparent contradiction, a first photo whose face read cooler
+than its body, died on the second photo, whose face read warm too:
+lighting and foundation, not undertone.
+
+What it means is a palette, not a rulebook. Her best colors are the
+warm, rich, earthy ones: burnt orange, rust, terracotta, mustard, olive,
+forest green, espresso, camel, cream, brick -- gold over silver. The
+navy set she wears works, because depth suits her, but her ideal darks
+run warm: espresso, deep forest, dark olive rather than true black. The
+colors to leave alone are bright white, true black, cobalt, fuchsia, and
+icy pastels.
+
+It was built as a gift as much as a measurement: a plain-language guide
+with no jargon, a visual version with drape demonstrations on her own
+face, and an interactive page addressed to "Eggie Bagels" -- in Dan's
+standing words, the prettiest girl in the world -- with a guessing game,
+a face-compare tool, the sixteen-color palette, and a two-minute mirror
+test. See `dat:annie-deep-autumn-verdict-20260921`; the page itself is
+[here](../share/eggie-bagels-colors.html).
