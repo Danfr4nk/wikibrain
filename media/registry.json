@@ -5866,6 +5866,34 @@
    "analysis_status": "reviewed-2026-09-19 (frames eyeballed; phone screen recording, non-sexual, no censorship needed)",
    "embed": false,
    "share_url": null
+  },
+  {
+   "id": "los-001",
+   "type": "photo",
+   "date": "2019-12-23",
+   "share_url": null,
+   "original_filename": "photo-01-skanksmas-2019-12-23.jpg",
+   "poster_sha256": "0432a40bb067a0e9fdcf369e4c0931b1c04884326b7efd40abc89517e481990d",
+   "description": "Legion of Skanks live taping, 'MERRY SKANKSMAS' screen, indoor. iPhone XS, EXIF 2019:12:23 21:40:36 local, GPS 40.735603,-73.988411.",
+   "analysis_status": "embedded-2026-09-20",
+   "compressed_path": "wiki/media/los-001.jpg",
+   "linked_nodes": [
+    "wiki/people/bobby-cole.md"
+   ]
+  },
+  {
+   "id": "los-002",
+   "type": "photo",
+   "date": "2020-08-25",
+   "share_url": null,
+   "original_filename": "photo-02-election-episode-2020-08-25.jpg",
+   "poster_sha256": "dcc0ec1983549b2f073055c52ab173d157f0e1478f5ba724ffa2c769d6b4380d",
+   "description": "Legion of Skanks election-season outdoor taping: flag balloons, COVID-era patio, mask on table. iPhone XS, EXIF 2020:08:25 20:13:13 local, GPS 40.735631,-73.988183.",
+   "analysis_status": "embedded-2026-09-20",
+   "compressed_path": "wiki/media/los-002.jpg",
+   "linked_nodes": [
+    "wiki/people/bobby-cole.md"
+   ]
   }
  ],
  "policy": "Originals are never committed to wikitest or RAWLOGS. This registry maps each item to its canonical location (Google Photos share URL or Drive path). Compressed derivatives for wiki entries live under media/<batch-slug>/ and are referenced from the src:/dat: nodes. Censorship rule (2026-09-12, Dan's directive): embedded derivatives showing nudity or sexual activity are pixelated/blurred before commit. The uncensored original stays at its canonical location and is never committed.",
