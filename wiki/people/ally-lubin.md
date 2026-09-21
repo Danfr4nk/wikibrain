@@ -10,9 +10,9 @@ date_modified: 2026-09-21
 date_range_start: 2011-05-20
 date_range_end: 2026-09-21
 images:
-  infobox: assets/people/ally-lubin/people-ally-lubin-mt3tebq9.png
+  infobox: wiki/media/profile-ally-lubin.jpg
   library:
-    - assets/people/ally-lubin/people-ally-lubin-mt3tebq9.png
+    - wiki/media/profile-ally-lubin.jpg
 image_caption: Ally Lubin (Alexandra Lubin)
 sources:
   - "raw/imessage/ally-lubin_thread_20260818-20260908.txt (Mac-side, superseded for the Aug–Sep 2026 window)"
