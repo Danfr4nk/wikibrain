@@ -16,6 +16,12 @@ infobox:
   sex: female
   first_contact: 2019-05-15
   known_for: "A sugar-arrangement relationship that ran May-August 2019, involved Annie directly, and ended in a legal threat and a text tirade"
+images:
+  infobox:
+    file: wiki/media/profile-shelbie-breakiron.jpg
+    alt: "Shelbie Breakiron"
+    caption: "Shelbie Breakiron"
+  library: []
 connections:
   - page: wiki/people/annie-ulmer
     type: co-occurs

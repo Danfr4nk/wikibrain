@@ -22,6 +22,12 @@ infobox:
   name: "Claire Ulmer"
   relationship_to_dan: unknown
   known_for: "Claire is [[wiki/people/annie-ulmer|Annie Ulmer]]'s sister — the reason"
+images:
+  infobox:
+    file: wiki/media/profile-claire-ulmer.jpg
+    alt: "Claire Ulmer"
+    caption: "Claire Ulmer"
+  library: []
 ---
 
 # Claire Ulmer
