@@ -5,10 +5,10 @@ title: "Kristin Prentiss"
 status: closed
 knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-09-12
+date_modified: 2026-09-20
 date_range_start: 2025-08-29
-date_range_end: 2026-09-12
-sources: ["raw/messenger-2026-09-12/threads/cid.c.580995252_61570728572359.json", "raw/messenger-2026-09-12/messenger-all.jsonl", "raw/messenger-2026-09-12/MANIFEST.json", "raw/messenger-drive-2026-09-12/MANIFEST.json", "raw/messenger-drive-2026-09-12/messenger_drive_canonical.jsonl", "raw/sammy/20260911-1941/messenger-threads.json", "raw/sammy/20260911-1941/messenger-sync.json", "wiki/media/upload-027.jpg", "kb/data/1452-kristin-aug26-messenger-inbound.md", "kb/data/1453-dan-texts-kristin-block-broken.md", "kb/data/1440-messenger-pull-incomplete.md"]
+date_range_end: 2026-09-20
+sources: ["raw/messenger-2026-09-12/threads/cid.c.580995252_61570728572359.json", "raw/messenger-2026-09-12/messenger-all.jsonl", "raw/messenger-2026-09-12/MANIFEST.json", "raw/messenger-drive-2026-09-12/MANIFEST.json", "raw/messenger-drive-2026-09-12/messenger_drive_canonical.jsonl", "raw/sammy/20260911-1941/messenger-threads.json", "raw/sammy/20260911-1941/messenger-sync.json", "wiki/media/upload-027.jpg", "wiki/media/upload-084.jpg", "wiki/media/upload-085.jpg", "kb/data/1452-kristin-aug26-messenger-inbound.md", "kb/data/1453-dan-texts-kristin-block-broken.md", "kb/data/1440-messenger-pull-incomplete.md", "kb/sources/kristin-basement-security-cam-20250919.md", "kb/data/1841-kristin-first-confirmed-in-person-meeting.md"]
 sources_absent: ["raw/self/message-csv/imessage_3307038747_both_all_now.csv", "raw/self/message-csv/imessage_export_3307038747_20260624.csv", "raw/self/dox-scan/messenger_Kristin Shaelene_2025-09-01-07-53-22.txt", "raw/people/kristin/chimera-genesis-addendum.md", "raw/self/dox-md/tom_kristin_master_dossier.md", "raw/self/dox-md/operating_manual.md", "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv", "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md"]
 related: ["wiki/people/tom", "wiki/people/annie-ulmer", "wiki/mind/concepts/contact-gini", "wiki/mind/synthesis/dormancy-not-exit", "wiki/timeline/periods/2025-collapse", "wiki/timeline/periods/dec-2025-spike", "wiki/self/message-corpora/master-message-dump", "wiki/self/message-corpora/source-coverage-index", "wiki/mind/synthesis/attachment-trauma-bond", "wiki/mind/psychosexual/arrangement-history", "wiki/mind/synthesis/ai-collaborative-analysis", "wiki/mind/concepts/conflict-architecture"]
 tags: [relationships, trauma-bond, digital-footprint, legal, ai-collaboration]
@@ -95,6 +95,52 @@ grievance, and the $40 is the form it finally took.
 > *Prentiss"*. `operating_manual.md` had offered "Shalene or Prentiss" and marked it
 > unknown; the wiki resolved that uncertainty in the wrong direction, and resolved
 > it from the weaker of the two available kinds of evidence.
+
+## The night she was there: 2025-09-18 → 19
+
+> **CORRECTED [2026-09-20] — the text-only reading of this relationship is
+> dead.** This page, and everything built on it, treated the Kristin
+> relationship as conducted entirely over messages — the December
+> grievance *"wouldn't hang out ever"* and the standing *"you wouldn't
+> drive to see me"* framing both assumed she never came to Uniontown. On
+> 2026-09-20 Dan sent five night-vision security-cam clips from his
+> basement, on-screen camera timestamps **2025-09-19 01:58:44 AM →
+> 02:12:20 AM**: two clothed figures on the couch, one draped over the
+> other (`src:kristin-basement-security-cam-20250919`, dat:1841). The
+> second figure is Kristin **by Dan's own identification** — his testimony,
+> per his photo-ID rule, not a facial ID off IR footage. The first
+> confirmed in-person meeting was the night of **September 18–19, 2025,
+> week 3 of the relationship.**
+
+The footage arrives with a contemporaneous text anchor. At **2025-09-19
+13:12** Dan writes: *"I love you so much. I really felt it last night. I'm
+so fucking glad I found you."* — the morning after, texting about the
+night he'd just had. At 13:39 she answers: *"I think I found a new
+disorder I have."* At 23:34 he writes: *"I had gemini diagnose all my
+mental disorders."* And at **2025-09-20 02:34** she pulls the ripcord:
+*"So — I feel some type of way about your little disorder test. Again,
+thank you for sharing. Always. However I'm now concerned and I'm going
+to do the thing I do — like .. pull away."*
+
+That changes the September-19 sequence's meaning, not just its facts. The
+old reading had her withdrawal as text-theater: a self-test shared over
+messages triggering instant retreat, ten weeks before she executed the
+full program in December. The withdrawal landed **~24 hours after she was
+physically in his basement**. It followed proximity, not text-play. The
+whole September-19 loop — trigger, instant withdrawal, self-diagnosis,
+the Jeff tattoo as exposure-control analogy, the walk-back inside the
+hour — now reads as the morning-after of the first in-person night, not
+as a screen-mediated rehearsal. The leave-instantly doctrine's cleanest
+demonstration gets sharper, not softer: the retreat is what proximity
+costs her, at every scale.
+
+Hold the tension the footage creates without resolving it. Her December
+grievance — *"wouldn't hang out ever"* — and the standing "you wouldn't
+drive to see me" reading both sit next to footage of her in his house at
+week 3. Both are in the record. The wiki does not pick between them: one
+visit is not a pattern of visits, and a grievance can be true as a felt
+shape while being false as a count. What died is the binary — text-only
+versus real — not the distance problem underneath it.
 
 ## The correction that reorganises the page: it ended in November
 
@@ -318,6 +364,15 @@ read anything I said… You are amazing. But you are damaged"*). Instant retreat
 named pattern, walk-back, love restated — the whole loop in one evening, ten weeks
 before she executed it for real.
 
+> **REVISED [2026-09-20] — the sequence followed proximity, not text-play.**
+> The security-cam footage (see the top of this page) dates her pull-away to
+> **~24 hours after she was physically in his basement** — and eleven hours
+> after his morning-after text (*"I love you so much. I really felt it last
+> night"*). This was not a screen-mediated rehearsal of the leave-instantly
+> doctrine; it was the morning-after of the first in-person night. The
+> doctrine's logic is exposure control, and the sequence gets sharper on that
+> reading: the retreat is what proximity costs her, at every scale.
+
 **[[wiki/people/tom|Tom]] is inside the thread, not behind it.** During a 20 September crisis over
 where she would sleep she refuses another man's house out of loyalty to Dan while
 he rages about hiding *"from Tom fucking faggot Maison"* — jealousy, supply
@@ -435,7 +490,8 @@ material, and every per-year message count that treats the dump as complete for
 | 2025-09-01 | Messenger UI captured 07:04–07:53; iMessage thread opens (933 messages) |
 | 2025-09-01→09 | Astrology sessions, her as expert; birth data given |
 | 2025-09-09 | Heaviest day of the relationship (1,324) — `@kpdope` excavation, meth/homelessness disclosure |
-| 2025-09-19 | The disorder-test withdrawal sequence; Jeff tattoo |
+| 2025-09-18 → 19 | **The night she was there** — first confirmed in-person meeting, week 3, his basement; five security-cam clips (camera 01:58–02:12 AM), two clothed figures on the couch, Dan IDs the second as Kristin (dat:1841). Next afternoon: *"I love you so much. I really felt it last night."* |
+| 2025-09-19 | The disorder-test withdrawal sequence — now re-read: the pull-away landed ~24h after proximity, not after text-play; Jeff tattoo |
 | 2025-09-20 | Sleeping-arrangements crisis; [[wiki/people/tom|Tom]] as active irritant |
 | 2025-09-22 | Ryder named — *"the only kid I've ever been around"* |
 | 2025-10-02 | Dan tells Tom they are "officially dating" (1,206 messages that day) |
@@ -675,3 +731,11 @@ curly-apostrophe trap in `EXTRACTION_SPEC.md` and belongs beside it.
 [![Dan's 2026-09-12 outbound iMessages to Kristin: four texts and a dispensary photo, all delivered](../media/upload-027.jpg)](../media/upload-027.jpg)
 
 *Dan's 2026-09-12 outbound iMessages to Kristin: four texts and a dispensary photo, all delivered. Evidence for the September 2026 block-break (dat:1453).*
+
+[![Security-cam still, Dan's basement, on-screen camera timestamp 2025-09-19 02:05:08 AM: two clothed figures on the couch](../media/upload-084.jpg)](../media/upload-084.jpg)
+
+*Security-cam still, Dan's basement, on-screen camera timestamp 2025-09-19 02:05:08 AM: two clothed figures on the couch, one draped over the other. The second figure is Kristin by Dan's own ID — his testimony, not a facial ID off IR footage. Evidence for the first confirmed in-person meeting, week 3 (dat:1841).*
+
+[![Security-cam still, Dan's basement, on-screen camera timestamp 2025-09-19 02:12:20 AM](../media/upload-085.jpg)](../media/upload-085.jpg)
+
+*Later that night — 02:12:20 AM — same basement, same two figures. The clips span 01:58:44 to 02:12:20; she was there across the night, not for a moment (dat:1841). Frames eyeballed for nudity before commit: clothed throughout, no pixelation required.*

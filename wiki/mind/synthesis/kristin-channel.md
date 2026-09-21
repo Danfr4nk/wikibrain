@@ -6,7 +6,7 @@ aliases: ["the control case that wasn't", "forty dollars", "blocks as instrument
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-09-20
 sources:
   - src:imessage_3307038747_both_all_now.csv
   - src:messenger-kristin-ui-capture-2025-09-01
@@ -15,6 +15,7 @@ sources:
   - src:dat-1453-sep-12-outbound
   - src:dat-1454-operator-testimony
   - src:scratchpad-2026-09-12-kristin-contradiction
+  - src:kristin-basement-security-cam-20250919
 synthesizes:
   - wiki/people/kristin
   - wiki/mind/synthesis/block-unblock-loop
@@ -290,6 +291,43 @@ whose backyard might hold the drugs, and whose presence in her life
 predates Dan's by years. You can't block the infrastructure. The December
 portals would be filed, in a sense, against the wrong defendant: the
 person with the paperwork was never the person with the leverage.
+
+### The night she was there (2025-09-18 → 19)
+
+For most of this entry's life, everything above read as text-theater —
+the audition, the flood, the withdrawal sequence, all of it conducted
+over messages between two people who had never shared a room. On
+2026-09-20 Dan sent five night-vision security-cam clips from his
+basement, on-screen camera timestamps **2025-09-19 01:58:44 AM →
+02:12:20 AM**: two clothed figures on the couch, one draped over the other
+**[PRIMARY, src:kristin-basement-security-cam-20250919, dat:1841]**. Dan
+IDs the second figure as Kristin — his testimony, per his photo-ID rule,
+not a facial ID off IR footage. The first confirmed in-person meeting
+was the night of September 18–19, **week 3** of the relationship.
+
+The footage re-dates nothing and re-reads one thing. The September 19
+sequence was this entry's centerpiece demonstration of her leave-instantly
+doctrine: trigger (the self-test he shared), instant retreat (*"I'm going
+to do the thing I do — like… pull away"*), named pattern, walk-back, love
+restated — all in one evening, ten weeks before the December performance.
+The timestamps say the withdrawal (*"I'm now concerned and I'm going to
+do the thing I do — like… pull away"*, **2025-09-20 02:34**) landed
+**~24 hours after she was physically in his basement** — and eleven hours
+after his morning-after text (*"I love you so much. I really felt it last
+night. I'm so fucking glad I found you"*, 13:12). The rehearsal followed
+proximity, not text-play. She performed the loop the morning after the
+first in-person night. Read against the doctrine's logic — exposure
+control — and the sequence gets sharper, not softer: the retreat is what
+proximity costs her, every time, at every scale. The September 19
+withdrawal is no longer the doctrine's smallest execution. It is the
+doctrine's most honest one.
+
+Hold the tension without resolving it: her December grievance
+(*"wouldn't hang out ever"*) and the standing *"you wouldn't drive to see
+me"* reading now sit next to footage of her in his house at week 3. One
+visit is not a pattern of visits; a grievance can be true as a felt shape
+while false as a count. What died is the binary — text-only versus real —
+not the distance problem underneath it.
 
 ### September 15: the "ended things" he told Vanessa (2026-09-14 discovery)
 
@@ -1136,6 +1174,15 @@ fuel. Not feeling. Signal.
 
 ## The September 19 rehearsal, read back
 
+> **CORRECTED [2026-09-20] — the rehearsal followed proximity.** The
+> security-cam footage (dat:1841) dates the withdrawal to ~24 hours after
+> she was physically in his basement, and eleven hours after his
+> morning-after text (*"I love you so much. I really felt it last
+> night"*). The September 19 loop is the morning-after of the first
+> in-person night, not a screen-mediated demonstration. Everything below
+> still holds; the mechanism is sharper. The doctrine's logic is exposure
+> control, and nothing is more exposing than having been there.
+
 One more pass over the September 19 sequence, because the December ending
 is illegible without it and the August knock reframes it. On September 19
 she performed the entire loop at small scale: trigger (the self-test he
@@ -1308,6 +1355,19 @@ absence is frame-bounded (replies after the capture wouldn't appear).
 The in-chat joke that followed is not evidence and is not cited as any —
 the screenshot predates it by two minutes.
 
+**Footage, September 18–19 2025.** Five night-vision .mov clips (~7s
+each), sent by Dan 2026-09-20, on-screen camera timestamps 2025-09-19
+01:58:44 AM → 02:12:20 AM, Dan's basement. Fourteen extracted frames
+eyeballed for nudity before any commit: clothed figures throughout, no
+pixelation required. The camera timestamp is the anchor — contemporaneous
+record, not retrospective claim. Identity attribution: the second figure
+is Kristin by Dan's own ID (his testimony, per his photo-ID rule); IR
+night-vision faces at this distance are not ID-grade and are not claimed
+as such. The footage corroborates proximity only — it does not show
+sexual activity and is not cited for any. Thumbnails upload-084/085 in
+`wiki/media/`, registry entries, originals uncommitted at canonical
+`media_library` paths.
+
 **Confidence seams.** High: the five Aug-26 messages (import-verified
 against `raw/messenger-2026-09-12/messenger-all.jsonl`), the four Sep-12
 outbound texts (screenshot-parsed). Medium: Dan hadn't seen the request
@@ -1362,7 +1422,9 @@ framing, the reactivity signature — seams showing throughout. What was
 disproven: "no contact after 10 Dec 2025" as no-attempts (August falsifies
 it); the December 9 $40-as-trigger dating (it's a November event, late
 October in origin); the Shaelene surname (her own messages: Prentiss);
-the "mother/Kayden" biography (zero hits in 20,009 rows). What is unknown:
+the "mother/Kayden" biography (zero hits in 20,009 rows); the text-only
+relationship (five contemporaneous security-cam clips, 2025-09-19
+01:58–02:12 AM, kill the "never met in person" reading — dat:1841). What is unknown:
 her intent on August 26, her read of the September texts, whether the
 channel reopens, and — the oldest gap on the entity page — who Kayden is,
 if anyone.
