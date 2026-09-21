@@ -59,6 +59,10 @@ jobs:
         run: python3 bin/wb-build
 
       - name: Render the wiki/ article corpus
+        env:
+          # The splash (site/index.html) embeds the gate digest so its own
+          # password step unlocks the gated pages via the shared session key.
+          WB_GATE_PASSWORD: ${{ secrets.WB_GATE_PASSWORD }}
         run: python3 bin/wb-wiki
 
       # The 497-page snapshot of the prior wiki, rendered browsable. Its source
