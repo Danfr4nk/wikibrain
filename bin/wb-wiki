@@ -997,36 +997,30 @@ def domain_page(domain: str, pages: list[dict]) -> str:
 SPLASH_FLOW_JS = """<script>
 (function(){
 "use strict";
-var DIGEST="__WB_SPLASH_DIGEST__",KEY="wb_gate_v1",NEED=10;
+var DIGEST="__WB_SPLASH_DIGEST__",KEY="wb_gate_v1";
 function go(){location.href="home.html";}
-var hint=document.getElementById("hint");
-var IDLE="TAP THE NAME 10 TIMES &mdash; QUICKLY";
-function showIdle(){hint.innerHTML=IDLE;}
-document.addEventListener("wiki:taps",function(e){
-  var n=e&&e.detail?e.detail.n:0;
-  if(n>0){hint.innerHTML=n+" / "+NEED+" &mdash; KEEP TAPPING";}
-  else{showIdle();}
-});
 document.addEventListener("wiki:enter",function(){
   /* entry sets the shared session key so the wb-gate'd pages open
-     without re-prompting — the 10-tap sequence IS the gate now. */
+     without re-prompting — the 20-tap sequence IS the gate now.
+     No hint or progress is shown: the entry code is secret. */
   try{if(DIGEST)sessionStorage.setItem(KEY,DIGEST);}catch(e){}
   go();
 });
-showIdle();
 })();
 </script>"""
 
 
 def splash_page() -> str:
-    """Full-screen galaxy-charge splash with the 10-tap entry.
+    """Full-screen galaxy-charge splash with the 20-tap entry.
 
-    Entry = 10 quick taps on or above the WIKI BRAIN wordmark (each within
-    1.5s of the last). The tenth tap fires wiki:enter, which sets the shared
-    sessionStorage key (wb_gate_v1) so the gated pages open without
-    re-prompting, then lands on home.html. Hold-to-charge / release-to-
-    detonate stays as pure spectacle. When WB_GATE_PASSWORD is unset at
-    build time there is no digest and entry goes straight through.
+    Entry = 20 quick taps on or above the WIKI BRAIN wordmark within
+    10 seconds of the first tap. The twentieth tap fires wiki:enter,
+    which sets the shared sessionStorage key (wb_gate_v1) so the gated
+    pages open without re-prompting, then lands on home.html. No hint
+    or progress is shown: the entry code is secret. Hold-to-charge /
+    release-to-detonate stays as pure spectacle. When WB_GATE_PASSWORD
+    is unset at build time there is no digest and entry goes straight
+    through.
     """
     gal = (ROOT / "assets" / "galaxy-charge.js").read_text(encoding="utf-8")
     password = os.environ.get("WB_GATE_PASSWORD", "")
@@ -1037,22 +1031,18 @@ def splash_page() -> str:
         '<html lang="en"><head><meta charset="utf-8">\n'
         '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
         "<title>Wiki Brain</title>\n"
-        "<!-- wb-gate-skip: the splash runs its own 10-tap step and sets the shared session key -->\n"
+        "<!-- wb-gate-skip: the splash runs its own 20-tap step and sets the shared session key -->\n"
         '<link rel="preconnect" href="https://fonts.googleapis.com">\n'
         '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n'
         '<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@900&display=swap" rel="stylesheet">\n'
         "<style>\n"
         "html,body{margin:0;padding:0;height:100%;background:#000;overflow:hidden}\n"
         "galaxy-charge{position:fixed;inset:0;display:block;z-index:0}\n"
-        "#hint{position:fixed;left:0;right:0;bottom:16px;z-index:10;text-align:center;pointer-events:none;\n"
-        " color:#8f86a8;font:11px/1.5 -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;\n"
-        " letter-spacing:.22em}\n"
         "</style>\n"
         + CRAWL_CSS + "\n"
         "</head>\n<body>\n"
         + crawl_bar("crawl.json", "home.html") + "\n"
         "<galaxy-charge></galaxy-charge>\n"
-        '<div id="hint">TAP THE NAME 10 TIMES &mdash; QUICKLY</div>\n'
         "<script>\n" + gal + "\n</script>\n"
         + flow + "\n"
         + CRAWL_JS + "\n"
