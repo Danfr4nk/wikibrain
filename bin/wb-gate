@@ -130,11 +130,16 @@ def main() -> int:
             skipped += 1
             continue
         text = path.read_text(encoding="utf-8")
+        # The splash (site/index.html) runs its own password step and sets
+        # the shared session key; the overlay would swallow the galaxy.
+        if "wb-gate-skip" in text:
+            skipped += 1
+            continue
         new, changed = inject(text, snippet)
         if changed:
             path.write_text(new, encoding="utf-8")
             gated += 1
-    print(f"wb-gate: gated {gated} pages, skipped {skipped} share pages")
+    print(f"wb-gate: gated {gated} pages, skipped {skipped} (share/splash)")
     return 0
 
 

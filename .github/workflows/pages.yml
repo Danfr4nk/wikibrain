@@ -23,6 +23,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Full history: bin/wiki-crawl-feed walks git log over wiki/ to
+          # build the recent-changes ticker. A shallow clone would starve it.
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -55,6 +59,10 @@ jobs:
         run: python3 bin/wb-build
 
       - name: Render the wiki/ article corpus
+        env:
+          # The splash (site/index.html) embeds the gate digest so its own
+          # password step unlocks the gated pages via the shared session key.
+          WB_GATE_PASSWORD: ${{ secrets.WB_GATE_PASSWORD }}
         run: python3 bin/wb-wiki
 
       # The 497-page snapshot of the prior wiki, rendered browsable. Its source

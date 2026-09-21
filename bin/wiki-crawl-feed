@@ -1,0 +1,205 @@
+#!/usr/bin/env python3
+"""wiki-crawl-feed — build the recent-changes ticker feed (crawl.json).
+
+Walks git history for wiki/ and emits the N most recent page-change events
+as JSON: [{title, href, date, sha, delta, text}]. The site ticker (the crawl
+bar injected by bin/build-site) fetches crawl.json and cycles through the
+items one at a time.
+
+Each item reads like:  "Annie Ulmer: added the full history of infidelity
+events she was caught involved in (+425 words)"
+
+  title  page title (frontmatter title:, else first # heading, else filename)
+  href   site-relative .html path, e.g. wiki/people/annie-ulmer.html
+  date   commit date, ISO-8601
+  sha    short commit hash
+  delta  net word change for that page in that commit (added - removed)
+  text   short human phrase derived from the commit message (ids, batch
+         stamps and kb jargon stripped; per-page clause kept when the
+         message enumerates several pages)
+
+Merge commits are skipped. Pages deleted since the commit are dropped (the
+ticker only links at live pages). Non-wiki/ paths are ignored.
+
+Regeneration hook: bin/build-site calls this automatically at the end of
+every site build (best-effort: a feed failure never breaks the build). Any
+caller of bin/build-site — including the 6h writeback cron — therefore
+regenerates crawl.json. Standalone use:
+
+  bin/wiki-crawl-feed [--out site/crawl.json] [--limit 100] [--scan 600]
+
+Zero third-party dependencies (Python stdlib only).
+"""
+from __future__ import annotations
+
+import argparse
+import datetime
+import json
+import re
+import subprocess
+import sys
+from pathlib import Path
+
+REPO = Path(__file__).resolve().parent.parent
+
+FM_TITLE_RE = re.compile(r"^title:\s*[\"']?(.*?)[\"']?\s*$", re.M)
+HEADING_RE = re.compile(r"^#\s+(.*)$", re.M)
+WORD_RE = re.compile(r"\S+")
+
+ID_PATTERNS = [
+    re.compile(r"\bdat:\d+(?:-\d+)?\b"),
+    re.compile(r"\bwork-\d+\b"),
+    re.compile(r"\bsrc:[^\s,;)]+\b"),
+    re.compile(r"\bkb/[^\s,;)]+\b"),
+    re.compile(r"\b\d{8}-\d{3,4}\b"),          # batch stamps like 20260920-1830
+    re.compile(r"\b\d{4}-\d{2}-\d{2}\b"),       # stray ISO dates
+]
+PREFIX_RE = re.compile(r"^(?:writeback|scrape|ingest)\s+\S*\s*:?\s*", re.I)
+WIKI_PREFIX_RE = re.compile(r"^wiki\s*:\s*", re.I)
+CLAUSE_SPLIT_RE = re.compile(r"\s*[+;]\s*")  # not commas: they join page enumerations
+
+
+def git(*args: str) -> str:
+    return subprocess.check_output(
+        ["git", *args], cwd=REPO, text=True, stderr=subprocess.DEVNULL
+    )
+
+
+def recent_commits(scan: int) -> list[tuple[str, int, str]]:
+    """Newest-first (sha, epoch, subject) for non-merge commits touching wiki/."""
+    out = git("log", "--format=%H%x1f%at%x1f%s", "--no-merges",
+              f"-n{scan}", "--", "wiki/")
+    commits = []
+    for line in out.splitlines():
+        parts = line.split("\x1f")
+        if len(parts) != 3:
+            continue
+        sha, epoch, subject = parts
+        commits.append((sha, int(epoch), subject.strip()))
+    return commits
+
+
+def changed_md(sha: str) -> list[str]:
+    out = git("diff-tree", "--no-commit-id", "--name-only", "-r", sha,
+              "--", "wiki/")
+    return [p for p in out.splitlines()
+            if p.startswith("wiki/") and p.endswith(".md")]
+
+
+def word_delta(sha: str, path: str) -> int:
+    """Net word change (added - removed) for path in this commit."""
+    try:
+        diff = git("diff", "-U0", "--no-color", f"{sha}^!", "--", path)
+    except subprocess.CalledProcessError:
+        return 0
+    added = removed = 0
+    for line in diff.splitlines():
+        if line.startswith("+++") or line.startswith("---"):
+            continue
+        if line.startswith("+"):
+            added += len(WORD_RE.findall(line[1:]))
+        elif line.startswith("-"):
+            removed += len(WORD_RE.findall(line[1:]))
+    return added - removed
+
+
+_title_cache: dict[str, str] = {}
+
+
+def page_title(path: str) -> str | None:
+    """Current title for path, or None if the page no longer exists at HEAD."""
+    if path in _title_cache:
+        return _title_cache[path]
+    try:
+        text = git("show", f"HEAD:{path}")
+    except subprocess.CalledProcessError:
+        _title_cache[path] = None  # type: ignore[assignment]
+        return None
+    m = FM_TITLE_RE.search(text)
+    title = m.group(1).strip() if m else None
+    if not title:
+        h = HEADING_RE.search(text)
+        title = h.group(1).strip() if h else None
+    if not title:
+        title = Path(path).stem.replace("-", " ").replace("_", " ").title()
+    # strip markdown/wiki formatting remnants from headings
+    title = re.sub(r"[*_`]+", "", title).strip()
+    _title_cache[path] = title
+    return title
+
+
+def clean_subject(subject: str) -> str:
+    s = PREFIX_RE.sub("", subject).strip()
+    s = WIKI_PREFIX_RE.sub("", s).strip()
+    for pat in ID_PATTERNS:
+        s = pat.sub("", s)
+    s = re.sub(r"\s{2,}", " ", s)
+    s = re.sub(r"\s*\(\s*\)", "", s)          # emptied parens
+    s = re.sub(r"^[,+;:\-\s]+", "", s)
+    s = re.sub(r"[,+;:\s]+$", "", s)
+    return s.strip()
+
+
+def describe(subject: str, path: str) -> str:
+    """Pick the clause of the commit message about this page, cleaned."""
+    cleaned = clean_subject(subject)
+    stem = Path(path).stem
+    slug_variants = {stem, stem.replace("-", " "), stem.replace("-", "")}
+    clauses = [c.strip(" ,+;") for c in CLAUSE_SPLIT_RE.split(cleaned)]
+    clauses = [c for c in clauses if c]
+    hits = [c for c in clauses
+            if any(v and v.lower() in c.lower() for v in slug_variants)]
+    text = "; ".join(hits) if hits else cleaned
+    # drop a leading verb-less page-list echo, keep it readable
+    text = re.sub(r"\s{2,}", " ", text).strip(" ,+;")
+    if len(text) > 140:
+        cut = text[:140].rsplit(" ", 1)[0]
+        text = cut + "…"
+    return text or "updated"
+
+
+def build_feed(limit: int, scan: int) -> dict:
+    items: list[dict] = []
+    for sha, epoch, subject in recent_commits(scan):
+        if len(items) >= limit:
+            break
+        for path in changed_md(sha):
+            if len(items) >= limit:
+                break
+            title = page_title(path)
+            if not title:
+                continue  # page gone from HEAD — ticker links live pages only
+            delta = word_delta(sha, path)
+            items.append({
+                "title": title,
+                "href": str(Path(path).with_suffix(".html").as_posix()),
+                "date": datetime.datetime.fromtimestamp(
+                    epoch, tz=datetime.timezone.utc).isoformat(),
+                "sha": sha[:7],
+                "delta": delta,
+                "text": describe(subject, path),
+            })
+    return {
+        "generated": datetime.datetime.now(
+            datetime.timezone.utc).isoformat(),
+        "items": items,
+    }
+
+
+def main(argv: list[str]) -> int:
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument("--out", type=Path, default=REPO / "site" / "crawl.json")
+    ap.add_argument("--limit", type=int, default=100)
+    ap.add_argument("--scan", type=int, default=600,
+                    help="max commits to scan to fill --limit items")
+    args = ap.parse_args(argv)
+    feed = build_feed(args.limit, args.scan)
+    args.out.parent.mkdir(parents=True, exist_ok=True)
+    args.out.write_text(json.dumps(feed, ensure_ascii=False, indent=1) + "\n",
+                        encoding="utf-8")
+    print(f"wiki-crawl-feed: {len(feed['items'])} items -> {args.out}")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main(sys.argv[1:]))
