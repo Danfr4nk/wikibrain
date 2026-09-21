@@ -5,7 +5,7 @@ title: "Bunker Core"
 status: active
 knowledge: mixed
 date_created: 2026-07-20
-date_modified: 2026-09-13
+date_modified: 2026-09-21
 sources:
   - "raw/self/dox-md/Gemini-_18.md"
   - "raw/self/dox-md/_Dan Frank's Digital Forensic Inventory .md"
@@ -32,7 +32,7 @@ connections:
     type: evidences
     claim: "Bunker Core is the endpoint-requirement's negative case: six named tools with no defined completion state and no shipped artifact, against the wiki — the one Bunker-Core-function build that closes contradictions with dated blocks and keeps shipping."
   - page: wiki/mind/concepts/forensic-method
-    type: implements
+    type: instantiates
     claim: "The forensic method is Bunker Core's verified practice: the mine-messages sweeps, the CSV forensics, and the timestamp conversions this wiki runs are the chat.db forensics the name denotes, executed as editorial method rather than as a product."
 ---
 

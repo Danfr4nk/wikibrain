@@ -914,7 +914,10 @@ On September 7 he declared a moratorium — *"do not update ally-lubin.md or
 anything it touches"* — in the middle of the blowup described below. That
 moratorium is lifted by the September 20 commission that produced this
 rewrite: his explicit order to analyze the whole chain and rewrite the page
-supersedes it.
+supersedes it. **2026-09-21 update:** Dan lifted *all* wiki moratoriums by
+explicit order — *"I didn't even know that moratorium exists. Yeah, let's lift
+that and any other. There are no moratoriums on the wiki now."* (dat:1842) —
+so no moratorium of any kind constrains this page or any other.
 
 ## September 7–8, 2026 — the blowup
 

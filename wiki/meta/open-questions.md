@@ -5,7 +5,7 @@ title: "Open Questions"
 status: active
 knowledge: derived
 date_created: 2026-08-26
-date_modified: 2026-09-18
+date_modified: 2026-09-21
 sources: []
 ---
 
@@ -327,7 +327,7 @@ new knowledge available, because no new source is required.
 - **[[wiki/mind/synthesis/annie-thread-ally-sweep]]** — 4. **"Alexandra Elisabeth."** Dan's 2026-08-31 claim of her middle name is unattested elsewhere in this sweep. The Cash App records say "Alexandra Lubin." Whether "Elisabeth" is real, a confabulation, or a different person is [UNKNOWN] and out of this sweep's 
 - **[[wiki/mind/synthesis/annie-thread-ally-sweep]]** — 5. **The 2020-10-08 → 2022-12-31 hole.** Zero captured Annie-thread messages across 27 months [DERIVED]. Any Ally mention in that window is unmeasurable from this corpus. The 2024 hole (zero messages) likewise.
 - **[[wiki/mind/synthesis/annie-thread-ally-sweep]]** — 6. **Ally's 2026 silence.** 861 Dan outbound, 0 inbound, 08-27 → 09-07 [ATTESTED]. Why she went silent — and whether the Aug-28/30 claims to Annie were built on older, real plans — is [UNKNOWN]. Her side of the Aug-2026 window is a monologue.
-- **[[wiki/mind/synthesis/annie-thread-ally-sweep]]** — 7. **The dual 2023–2026 Annie threads.** +12124702449 (31,432 rows) and +17243228715 (3,500 rows, logistics/cohabitation) run concurrently from the same start minute [ATTESTED]. Both swept, both zero. The two-thread structure itself is unexamined in any synthe
+- **[[wiki/mind/synthesis/annie-thread-ally-sweep]]** — 7. **The dual 2023–2026 threads — RESOLVED 2026-09-21.** Was framed as two Annie threads; Dan's own ID (dat:1843) resolved it: +12124702449 is Annie's, +17243228715 (3,500 rows, logistics/cohabitation) is **Suze's**. The household logistics ran on his mother's line — misattribution, not mystery.
 - **[[wiki/mind/synthesis/annual-volume-suz]]** — No mechanism is proposed for the 2017 hinge; the message content around it has not been read specifically for this question.
 - **[[wiki/mind/synthesis/annual-volume-suz]]** — 2021 and 2023 are partial years in the source table (to April; from August), which is why they sit lower than the surrounding years — this chart plots the partial-year totals as given rather than annualizing them, and a reader comparing bar heights across thos
 - **[[wiki/mind/synthesis/audition-dynamics]]** — **The August 19 inbound.** The evaluation moment for the second Ally audition is permanently missing unless both handles are re-exported from `chat.db` — described as a one-command job on ally-lubin. Until then, "380 unanswered" carries the capture caveat, and

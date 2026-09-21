@@ -1,0 +1,35 @@
+{
+ "batch": "20260921-0230",
+ "pulled_at_utc": "2026-09-21T06:43:42Z",
+ "window_from_utc": "2026-09-20T23:45:57Z (exclusive; prior batch 20260920-2340 watermark)",
+ "window_to_utc": "2026-09-21T06:30:00Z (inclusive; run start)",
+ "files": {
+  "chats.json": {
+   "sha256": "a38a177a94589b49626b501171653785ea5a635f81c7d681d864c77c69702ea2",
+   "bytes": 478198,
+   "rows": 723
+  }
+ },
+ "counts": {
+  "by_role": {
+   "assistant": 453,
+   "user": 244,
+   "system": 26
+  },
+  "truncated": 0
+ },
+ "system_row_policy": "Mirrors batch 20260920-2340 precedent: user+assistant rows kept byte-exact; system rows kept ONLY when Dan-delivered status summaries (token checks, burn-in completes, batch completions, telegram inbox deliveries, side-chat creation/delivery receipts, tool build reports). All worker scaffolding (step instructions, classification contexts, worker-task wrappers, verification payloads, security notices, progress notes, \"nothing to report\" spam, stale-retry notes) dropped. 1080 system rows in window; 26 kept (25 via anchored-prefix query + the 06:26 burn-in, which fell off a 200-row tool cap and was patched verbatim from the inline result).",
+ "redactions": [
+  {
+   "message_id": "fbec0cd3-20b0-4906-9c41-9bca93a5cc26",
+   "role": "user",
+   "created_at": "2026-09-21T02:40:00.805+00:00",
+   "pattern": "telegram-bot-token",
+   "occurrences": 1,
+   "reason": "Security Policy: raw credentials stay out of files; treated as compromised (in-chat advice 2026-09-21T02:41Z was to revoke after pasting in chat history)"
+  }
+ ],
+ "exclusions": [
+  "CUMTHREAD3 session 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853 excluded per 2026-09-15 standing order (0 rows in window)"
+ ]
+}
