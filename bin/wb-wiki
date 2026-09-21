@@ -468,6 +468,10 @@ class WikiLinker:
         def sub_md(m: re.Match) -> str:
             label, target = m.group(1), m.group(2)
             if target.startswith(("wiki/", "/wiki/")):
+                # Media files are never wiki pages — leave them for the
+                # markdown image/link renderer and the media_url normalizer.
+                if _MEDIA_PREFIX_RE.match(target.lstrip("/")):
+                    return m.group(0)
                 self._tokens.append(f"{target}|{label}")
                 return f"\x00WL{len(self._tokens) - 1}\x00"
             return m.group(0)
@@ -585,6 +589,12 @@ th{background:#eaecf0}
 .wrap img{max-width:100%;height:auto;border:1px solid var(--line);border-radius:4px;margin:10px 0}
 figure.wbmedia{margin:14px 0}figure.wbmedia figcaption{font-size:13px;color:var(--mut);margin-top:4px}
 @media(max-width:720px){.infobox{float:none;width:100%;margin:0 0 18px}.wrap{padding:18px 16px}}
+.infobox .ib-photo img{width:100%;height:auto;display:block;border:0;border-radius:0;margin:0}
+.infobox .ib-photo .ib-caption{padding:6px 12px;font-size:12px;color:var(--mut)}
+.wblib{display:flex;flex-wrap:wrap;gap:16px;margin:14px 0}
+.wblib figure.wbmedia{width:200px;margin:0}
+.wblib figure.wbmedia img{width:100%;height:auto;margin:0}
+.wblib figure.wbmedia figcaption{font-size:12.5px}
 </style>"""
 
 FRONT_CSS = """<style>
@@ -708,8 +718,213 @@ def crawl_bar(crawl_src: str, root_page: str) -> str:
     return CRAWL_BAR.format(crawl_src=crawl_src, root_page=root_page)
 
 
-def infobox_html(infobox: dict) -> str:
-    if not infobox:
+# --------------------------------------------------------------------------
+# Images: infobox portraits + Sources thumbnail library.
+#
+# Authors write repo-root-absolute paths (`wiki/media/<file>`) in the
+# `images:` frontmatter block and in body markdown; the builder rewrites
+# them to page-relative URLs at render time. Legacy `../media/`,
+# `../../media/` (and bare `media/`) body refs are normalized the same way
+# so old pages keep working. Every referenced file must exist under
+# wiki/media/ and must not be embed_excluded — violations fail the build
+# loudly (no silent 404s on the live site).
+# --------------------------------------------------------------------------
+
+class MediaError(ValueError):
+    pass
+
+
+_MEDIA_FILES: set[str] | None = None
+_EXCLUDED_IDS: set[str] | None = None
+
+
+def _media_files() -> set[str]:
+    """Relative paths of every file under wiki/media/ (e.g. 'upload-045.jpg',
+    'derivatives/chat-uploads/x.jpg')."""
+    global _MEDIA_FILES
+    if _MEDIA_FILES is None:
+        found = set()
+        mdir = WIKI / "media"
+        if mdir.is_dir():
+            for p in mdir.rglob("*"):
+                if p.is_file():
+                    found.add(str(p.relative_to(mdir)))
+        _MEDIA_FILES = found
+    return _MEDIA_FILES
+
+
+def _excluded_ids() -> set[str]:
+    """Registry ids flagged embed_excluded — never embedded, ever."""
+    global _EXCLUDED_IDS
+    if _EXCLUDED_IDS is None:
+        ids = set()
+        regp = ROOT / "media" / "registry.json"
+        if regp.is_file():
+            try:
+                reg = json.loads(regp.read_text(encoding="utf-8"))
+                items = reg.get("items", []) if isinstance(reg, dict) else []
+                for it in items:
+                    if (isinstance(it, dict) and it.get("embed_excluded")
+                            and it.get("id")):
+                        ids.add(str(it["id"]))
+            except (json.JSONDecodeError, OSError):
+                pass
+        _EXCLUDED_IDS = ids
+    return _EXCLUDED_IDS
+
+
+# Matches an author-written media src in all its historical forms:
+# wiki/media/x.jpg, ../media/x.jpg, ../../media/x.jpg, bare media/x.jpg.
+_MEDIA_PREFIX_RE = re.compile(r"^(?:(?:\.\./)*media/|wiki/media/)")
+_MEDIA_REST_RE = re.compile(r"([^?#\s]*)([?#].*)?$")
+
+
+def _media_relpath(src: str, page_key: str) -> str:
+    """Validate `src` and return its path relative to wiki/media/.
+
+    Raises MediaError on anything outside wiki/media/, missing files,
+    or embed_excluded ids.
+    """
+    s = src.strip()
+    m = _MEDIA_PREFIX_RE.match(s)
+    if not m:
+        raise MediaError(f"{page_key}: not a wiki/media path: {src!r}")
+    rest = s[m.end():]
+    rm = _MEDIA_REST_RE.match(rest)
+    rel, suffix = rm.group(1), rm.group(2) or ""
+    parts = rel.split("/")
+    if not rel:
+        raise MediaError(
+            f"{page_key}: media path has no filename: {src!r}")
+    if any(p in ("", ".", "..") for p in parts):
+        raise MediaError(
+            f"{page_key}: media path must stay under wiki/media/: {src!r}")
+    if rel not in _media_files():
+        raise MediaError(
+            f"{page_key}: media file not found under wiki/media/: {src!r}")
+    stem = parts[-1].rsplit(".", 1)[0]
+    if stem in _excluded_ids():
+        raise MediaError(
+            f"{page_key}: media file is embed_excluded, refusing: {src!r}")
+    return rel, suffix
+
+
+def media_url(src: str, page_dir: str, page_key: str) -> str:
+    """Rewrite an author-written media src to a page-relative URL.
+
+    Non-media srcs (http, anchors, other relative paths) pass through
+    untouched. Anything that *looks like* a media ref but doesn't validate
+    raises MediaError — no silent 404s.
+    """
+    if not _MEDIA_PREFIX_RE.match(src.strip()):
+        return src
+    rel, suffix = _media_relpath(src, page_key)
+    return os.path.relpath(os.path.join("media", rel),
+                           page_dir or ".") + suffix
+
+
+_BODY_MEDIA_RE = re.compile(
+    r'((?:src|href)=")((?:\.\./)*media/|wiki/media/)([^"]*)"')
+
+
+def rewrite_body_media(html_text: str, page_dir: str, page_key: str) -> str:
+    """Normalize every media src/href in rendered body HTML to a working
+    page-relative URL. Raises MediaError on missing/excluded files."""
+
+    def sub(m: re.Match) -> str:
+        url = media_url(m.group(2) + m.group(3), page_dir, page_key)
+        return m.group(1) + html.escape(url, quote=True) + '"'
+
+    return _BODY_MEDIA_RE.sub(sub, html_text)
+
+
+def _frontmatter_image(src, page_key: str, where: str) -> str:
+    """Validate an `images:`-listed file; return its path under wiki/media/.
+
+    Frontmatter is new-authored, so the canonical repo-root-absolute form
+    is required — legacy relative forms are rejected, not normalized.
+    """
+    s = str(src or "").strip()
+    if not s.startswith("wiki/media/"):
+        raise MediaError(
+            f"{page_key}: {where} must be repo-root-absolute "
+            f"wiki/media/<file>, got: {src!r}")
+    rel, _ = _media_relpath(s, page_key)
+    return rel
+
+
+def infobox_photo_html(img, page_dir: str, page_key: str) -> str:
+    if isinstance(img, str):
+        img = {"file": img}
+    if not isinstance(img, dict):
+        raise MediaError(
+            f"{page_key}: images.infobox must be a mapping or filename")
+    rel = _frontmatter_image(img.get("file"), page_key, "images.infobox.file")
+    href = os.path.relpath(os.path.join("media", rel), page_dir or ".")
+    alt = str(img.get("alt") or img.get("caption") or rel.rsplit("/", 1)[-1])
+    cap = str(img.get("caption") or "").strip()
+    cap_html = f'<div class="ib-caption">{inline(cap)}</div>' if cap else ""
+    return (f'<div class="ib-photo"><img src="{html.escape(href, quote=True)}" '
+            f'alt="{html.escape(alt, quote=True)}" loading="lazy">'
+            f"{cap_html}</div>")
+
+
+def media_library_html(images: dict, page_dir: str, page_key: str) -> str:
+    """Builder-generated Sources thumbnail library from images.library."""
+    lib = images.get("library") if isinstance(images, dict) else None
+    if not lib:
+        return ""
+    if not isinstance(lib, list):
+        raise MediaError(f"{page_key}: images.library must be a list")
+    figs = []
+    for i, item in enumerate(lib):
+        if isinstance(item, str):
+            item = {"file": item}
+        if not isinstance(item, dict):
+            raise MediaError(
+                f"{page_key}: images.library[{i}] must be a mapping or filename")
+        where = f"images.library[{i}].file"
+        rel = _frontmatter_image(item.get("file"), page_key, where)
+        href = os.path.relpath(os.path.join("media", rel),
+                               page_dir or ".")
+        alt = str(item.get("alt") or item.get("caption")
+                  or rel.rsplit("/", 1)[-1])
+        cap = str(item.get("caption") or "").strip()
+        kb = str(item.get("kb") or "").strip()
+        cap_html = inline(cap) if cap else ""
+        if kb:
+            kb_html = f"<code>{html.escape(kb)}</code>"
+            cap_html = f"{cap_html} {kb_html}".strip()
+        figcap = f"<figcaption>{cap_html}</figcaption>" if cap_html else ""
+        figs.append(
+            f'<figure class="wbmedia"><a href="{html.escape(href, quote=True)}">'
+            f'<img src="{html.escape(href, quote=True)}" '
+            f'alt="{html.escape(alt, quote=True)}" loading="lazy"></a>'
+            f"{figcap}</figure>")
+    return ("<h2>Media library</h2>\n"
+            '<div class="wblib">\n' + "\n".join(figs) + "\n</div>")
+
+
+def infobox_html(infobox: dict, images: dict | None = None,
+                 page_dir: str = "", page_key: str = "") -> str:
+    photo = ""
+    if isinstance(images, dict):
+        img = images.get("infobox")
+        if img is None:
+            lib = images.get("library") or []
+            if not isinstance(lib, list):
+                raise MediaError(f"{page_key}: images.library must be a list")
+            img = lib[0] if lib else None
+        # Explicit opt-out: no portrait exists for this page; don't fall
+        # back to library[0] (which may be a document scan). The
+        # frontmatter parser leaves `false` as the string "false", and
+        # tolerates trailing comments, so match on the first token.
+        if img is False or (isinstance(img, str)
+                            and img.strip().lower().split()[:1] == ["false"]):
+            img = None
+        if img is not None:
+            photo = infobox_photo_html(img, page_dir, page_key)
+    if not infobox and not photo:
         return ""
     rows = []
     title = None
@@ -725,7 +940,7 @@ def infobox_html(infobox: dict) -> str:
             val = html.escape(str(v))
         rows.append(f"<tr><th>{html.escape(label)}</th><td>{val}</td></tr>")
     head = f'<div class="ib-title">{html.escape(title)}</div>' if title else ""
-    return (f'<aside class="infobox">{head}<table>' +
+    return (f'<aside class="infobox">{photo}{head}<table>' +
             "".join(rows) + "</table></aside>")
 
 
@@ -801,6 +1016,7 @@ def article_html(page: dict, linker: WikiLinker, pages: dict) -> str:
     body_src = linker.resolve(page["body"], page["key"], pages)
     rendered = markdown(body_src)
     rendered = linker.render_tokens(rendered, page["key"], pages, page_dir)
+    rendered = rewrite_body_media(rendered, page_dir, page["key"])
 
     domain = str(meta.get("domain", "") or "")
     ptype = str(meta.get("page_type", "") or "")
@@ -816,6 +1032,10 @@ def article_html(page: dict, linker: WikiLinker, pages: dict) -> str:
     conns = connections_html(meta.get("connections") or [], linker,
                              page["key"], pages, page_dir)
     see_also = see_also_html(meta, linker, page["key"], pages, page_dir)
+    images = meta.get("images") or {}
+    if not isinstance(images, dict):
+        raise MediaError(f"{page['key']}: images: must be a mapping")
+    media_lib = media_library_html(images, page_dir, page["key"])
 
     tags = meta.get("tags") or []
     if isinstance(tags, str):
@@ -856,7 +1076,7 @@ def article_html(page: dict, linker: WikiLinker, pages: dict) -> str:
 <div class="mast"><b><a href="{html.escape(up, quote=True)}">Wiki Brain</a></b>
 <span class="crumb">{html.escape(domain)} / {html.escape(ptype)}</span></div>
 <div class="wrap">
-{infobox_html(meta.get("infobox") or {})}
+{infobox_html(meta.get("infobox") or {}, images, page_dir, page["key"])}
 <h1>{html.escape(page['title'])}</h1>
 <p class="subtitle">{subtitle}</p>
 {toc}
@@ -865,6 +1085,7 @@ def article_html(page: dict, linker: WikiLinker, pages: dict) -> str:
 {see_also}
 {tags_html}
 <div class="clear"></div>
+{media_lib}
 <div class="metafoot"><dl>
 {"".join(foot_rows)}
 </dl></div>
@@ -1193,7 +1414,11 @@ def main() -> int:
     for p in pages:
         dest = wiki_dir / p["url"]
         dest.parent.mkdir(parents=True, exist_ok=True)
-        dest.write_text(article_html(p, linker, by_key), encoding="utf-8")
+        try:
+            dest.write_text(article_html(p, linker, by_key), encoding="utf-8")
+        except MediaError as e:
+            print(f"wb-wiki: BUILD FAILED: {e}", file=sys.stderr)
+            return 1
 
     # Search index (share copies excluded: standalone pages, no navigation)
     index = []
