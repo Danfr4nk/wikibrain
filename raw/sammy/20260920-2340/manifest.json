@@ -1,0 +1,40 @@
+{
+  "batch": "20260920-2340",
+  "source": "sammy",
+  "window": {
+    "from": "2026-09-20T11:40:13.582+00:00",
+    "to": "2026-09-20T23:45:57.732+00:00"
+  },
+  "counts": {
+    "chats": 109,
+    "user": 41,
+    "assistant": 60,
+    "system": 8,
+    "truncated": 0
+  },
+  "externals": {
+    "instagram_new": 0,
+    "threads_new": 0,
+    "facebook_new": 0,
+    "messenger_new": 0,
+    "spotify_snapshot": "spotify.json"
+  },
+  "excluded": {
+    "cumthread3": 0
+  },
+  "files": {
+    "chats.json": {
+      "sha256": "2697cc7215034d8068b7965a30c2f55d5bd4b83a1e5eee6ba86179b076edb67e",
+      "bytes": 56829
+    },
+    "EXTRACT.md": {
+      "sha256": "b2b257807112655ca95e92ff0aa05a80dfc85ebac13930489d6cbc7fb47ecf86",
+      "bytes": 3517
+    },
+    "spotify.json": {
+      "sha256": "608440be94425bee8ccc40792736f9348a59d20e9572428142dd5124e7f75ee5",
+      "bytes": 308
+    }
+  },
+  "generated_at": "2026-09-20T23:55:00-04:00"
+}
