@@ -23,17 +23,22 @@
      hold pointer — charge accumulates 0→1 over ~2s; particles
                     spiral inward toward the core, core brightens,
                     charge ring grows around the hold point
-     full charge  — the breach ARMS: the "ENTER THE WIKI" prompt fades in,
-                    but entry never fires on its own
-     tap (quick)  — while armed, a deliberate tap fires `wiki:enter` once:
-                    the user chooses when to go through
+     full charge  — pure spectacle: nothing enters on charge alone
+     10 quick taps— 10 quick taps ON OR ABOVE the wordmark constellation
+                    (each within 1.5s of the last) fire `wiki:enter`:
+                    the tenth tap detonates full-bore and goes through
      release      — after a hold, detonation scaled by charge
-                    (tap ≈ click shockwave · 1.0 = full-bore when unarmed)
+                    (a lone tap ≈ click shockwave · 1.0)
+
+   Tap zone (world coords, y-up): y >= 0.05*wordmarkWidth above center
+     (on or above the text) and |x| <= wordmarkWidth/2 + 0.3.
+     Taps outside the zone pop a shockwave and reset the counter.
 
    Events (document CustomEvents):
      'void:charge'  {level: 0..1} — original protocol, kept
      'void:fluid-failed' — no canvas at all (legacy name kept)
-     'wiki:enter'   — the user's tap while the breach is armed
+     'wiki:taps'    {n: 0..9} — counted taps so far (host draws progress)
+     'wiki:enter'   — the tenth quick tap on/above the wordmark
    attrs: intensity · text · sub · entertext
    methods: reset()
    ============================================================ */
@@ -357,7 +362,7 @@
       if (e0 != null && e0 !== '') this._enterText = e0;
 
       var c = this._c = document.createElement('canvas');
-      c.style.cssText = 'position:absolute;inset:0;width:100%;height:100%;display:block;';
+      c.style.cssText = 'position:absolute;inset:0;width:100%;height:100%;display:block;touch-action:manipulation;';
       this.appendChild(c);
 
       /* interaction state */
@@ -370,8 +375,8 @@
       this._sx = 0; this._sy = 0; this._sT = -100; this._sAmp = 0;
       this._charge = 0; this._emitCache = -1;
       this._entered = false;              /* fusion: entry latch (re-arms after firing) */
-      this._armed = false;                /* fusion: breach armed — tap to go through */
       this._enterTarget = 0; this._enterAlpha = 0;
+      this._tapN = 0; this._lastTap = 0;  /* 10-quick-tap entry counter */
       this._lastInteract = 0; this._lastAuto = 0;
       this._lastMove = 0;
       this._t0 = performance.now();
@@ -451,11 +456,11 @@
       this._init = false;
     }
 
-    /* host-shell escape hatch: clear the entered/armed state + charge */
+    /* host-shell escape hatch: clear the entered state + charge + tap count */
     reset() {
       this._entered = false;
-      this._armed = false;
       this._enterTarget = 0;
+      this._tapN = 0; this._lastTap = 0;
       this._setCharge(0, true);
     }
 
@@ -772,6 +777,7 @@
       if (!n) return;
 
       var worldW = Math.min(this._aspect * 2 * 0.8, 2.7);
+      this._wmW = worldW;   /* tap-zone geometry for the 10-tap entry */
       var scale = worldW / w;
       var st = this._st;
       /* stride across ALL sampled pixels: the wordmark budget (a fixed share
@@ -847,10 +853,38 @@
       this._addCharge(p, Math.min(speed, 0.08) * (this._down ? 0.32 : 0.13));
     }
 
+    /* Entry = 10 quick taps ON OR ABOVE the wordmark. A tap is a quick,
+       near-stationary press (<350ms, <14px drift). Each tap must land
+       within 1.5s of the previous one or the count restarts at 1.
+       The tenth tap detonates full-bore and fires wiki:enter.
+       Taps outside the zone pop a small shockwave and reset the count.
+       Holds still detonate on release (scaled by charge) but can no
+       longer open the gate. */
+    _tapEnter(e, now) {
+      var p = this._world(e);
+      var wmw = this._wmW || 2.7;
+      var inZone = p.y >= 0.05 * wmw && Math.abs(p.x) <= wmw / 2 + 0.3;
+      if (!inZone) {
+        this._tapN = 0;
+        this._shock(p.x, p.y, 1.0);
+        document.dispatchEvent(new CustomEvent('wiki:taps', { detail: { n: 0 } }));
+        return;
+      }
+      this._tapN = (now - this._lastTap < 1500) ? this._tapN + 1 : 1;
+      this._lastTap = now;
+      if (this._tapN >= 10) {
+        this._tapN = 0;
+        this._shock(p.x, p.y, 3.5);
+        this._enter();
+      } else {
+        this._shock(p.x, p.y, 0.9 + this._tapN * 0.18);
+        document.dispatchEvent(new CustomEvent('wiki:taps', { detail: { n: this._tapN } }));
+      }
+    }
+
     /* fusion: release detonates. amp 1.0 = original click shockwave;
        charge 0.2 → ~1.1 puff · charge 1.0 → 3.5 full-bore.
-       A quick tap while the breach is armed does NOT detonate — it is the
-       user's deliberate choice to go through: fires wiki:enter instead. */
+       Quick taps are routed to the 10-tap entry counter instead. */
     _prelease(e) {
       if (!this._down) return;
       this._down = false;
@@ -858,14 +892,14 @@
       var isTap = !!e && e.clientX !== undefined &&
         (now - this._downT < 350) &&
         Math.hypot(e.clientX - this._downX, e.clientY - this._downY) < 14;
-      if (isTap && this._armed && !this._entered) {
-        this._enter();
+      if (isTap) {
+        this._tapEnter(e, now);
         this._setCharge(0, true);
         return;
       }
       var ch = this._charge;
       this._shock(this._mx, this._my, ch > 0.04 ? 0.5 + ch * 3.0 : 1.0);
-      /* the detonation consumes the charge (and disarms the breach) */
+      /* the detonation consumes the charge */
       this._setCharge(0, true);
     }
 
@@ -892,22 +926,14 @@
         this._emitCache = v;
         document.dispatchEvent(new CustomEvent('void:charge', { detail: { level: v } }));
       }
-      if (v >= 1 && !this._armed && !this._entered) {
-        /* full charge ARMS the breach: the ENTER prompt fades in, but entry
-           waits for the user's deliberate tap — never auto-fires. */
-        this._armed = true;
-        this._enterTarget = 1;
-      } else if (v < 1) {
-        this._armed = false;
-        if (!this._entered) this._enterTarget = 0;
-      }
+      /* full charge is pure spectacle now: no arming, no prompt — entry
+         comes only from the 10-tap counter. */
     }
 
-    /* the user's tap while armed: the entry action. Fires once per arming;
-       the latch resets shortly after so the breach can be armed again. */
+    /* the tenth quick tap: entry. Fires once; the latch resets shortly
+       after so a double entry can never navigate twice. */
     _enter() {
       this._entered = true;
-      this._armed = false;
       this._enterTarget = 1;
       document.dispatchEvent(new CustomEvent('wiki:enter'));
       var self = this;
