@@ -7,7 +7,7 @@ status: active
 knowledge: mixed
 importance: high
 date_created: 2026-07-14
-date_modified: 2026-08-26
+date_modified: 2026-09-21
 date_range_start: 2018-01-01
 sources:
   - raw/timeline/captures/2026-08-16_183544_gap-july-august-2026-reentanglement.md
@@ -166,6 +166,17 @@ him") made literal in the composition. It is the one photograph on this page
 of the two of them together, and it earns the placement: everything else here
 is about what the dog *does* in the record, this is what he looks like doing
 nothing at all.
+
+The personification habit — Dan narrating Milo's moods and voicing opinions
+for him — shows up in the visual record too. On the morning of 2026-09-21 Dan
+sent this photo of Milo lying on the green polka-dot sheet, tan blanket over
+his back, front paws crossed, looking straight at the camera, captioned
+*"Shut up Sammy"* signed *"-Milo,"* with the follow-up *"Crossed paws and
+all."* The dog as running character, delivering Dan's own morning mood at
+Sammy: the one photograph on this page where Milo is visibly performing —
+crossed paws, held gaze — and Dan is only present in the voice he gives him.
+
+[![Milo on the green polka-dot sheet, paws crossed, 2026-09-21](wiki/media/upload-127.jpg)](wiki/media/upload-127.jpg)
 
 ## The dog as the last open channel
 

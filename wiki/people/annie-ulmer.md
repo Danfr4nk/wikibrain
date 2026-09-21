@@ -7,7 +7,7 @@ importance: critical
 knowledge: mixed
 status: active
 date_created: 2026-06-22
-date_modified: 2026-09-12
+date_modified: 2026-09-21
 date_range_start: 2015-11-01
 date_range_end: 2026-09-21
 infobox:
@@ -2416,6 +2416,20 @@ concurrent system or as two independent threads active in the same window — is
 a question for the synthesis pages (see
 [[wiki/mind/synthesis/single-channel]] and the concurrent-attachment
 hypothesis), not a conclusion drawn on this person page.
+
+One piece of his testimony now bears on that question without settling it.
+On 2026-09-21, discussing the recovered threads with Sammy, Dan stated
+that no in-person meetup with Ally ever happened in real life and that the
+apparent meetup signals — the Montauk invitation, and the Ally-as-leverage
+posture he held toward her (*"Milo gets a new mom,"* Aug 25) — were *"another
+desperate strategic play"* aimed at *"get[ting] Annie back"* (see
+`dat:1856-ally-meetup-denial-20260921` and
+[[wiki/people/ally-lubin|Ally Lubin]]). A channel used strategically is not
+the same as a channel that is *only* strategic — 552 messages in 48 hours
+exceeds what leverage requires — but his own framing rules out one reading:
+the Ally thread was at least partly a performance *for* this one. The
+concurrent-attachment question stays open; the pure-instrument reading of
+those 48 hours now has a witness against it.
 
 It also puts a boundary on the closing severance. Dan's 14:53:25 pre-emptive
 closure of the reopening vector is the strongest exit in the record, and he
