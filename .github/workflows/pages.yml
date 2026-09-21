@@ -23,6 +23,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Full history: bin/wiki-crawl-feed walks git log over wiki/ to
+          # build the recent-changes ticker. A shallow clone would starve it.
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:

@@ -9,7 +9,9 @@ surface:
                           full body, connections, tags, metadata footer
   site/wiki-index.json    title/domain/tag index for client-side search
   site/domains/<d>.html   per-domain article indexes
-  site/index.html         the wiki front door (search, domains, newest;
+  site/index.html         the splash front door (galaxy-charge canvas,
+                          tap-to-enter, password step, recent-changes ticker)
+  site/home.html          the wiki front door (search, domains, newest;
                           the kb layer pages are linked as "evidence layers")
 
 Wikilinks with no target page are reported on stderr (dead-link report).
@@ -23,6 +25,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import hashlib
 import html
 import importlib.machinery
 import importlib.util
@@ -615,6 +618,96 @@ h2.sec{font-family:Georgia,serif;font-weight:400;font-size:1.5em;border-bottom:1
 </style>"""
 
 
+# --------------------------------------------------------------------------
+# Recent-changes crawl (ticker): a slim bar cycling the 100 most recent wiki
+# changes, one at a time, fed by crawl.json (bin/wiki-crawl-feed).
+# --------------------------------------------------------------------------
+
+CRAWL_CSS = """<style>
+.crawl{display:flex;align-items:center;gap:.6rem;background:#241a38;color:#efe9fb;
+font-size:.8rem;padding:.3rem .8rem;min-height:32px;position:relative;z-index:20}
+.crawl-label{font-size:.68rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;
+color:#c9b8f0;white-space:nowrap}
+.crawl-item{flex:1;min-width:0;color:#efe9fb;text-decoration:none;white-space:nowrap;
+overflow:hidden;text-overflow:ellipsis;transition:opacity .38s ease}
+.crawl-item:hover{text-decoration:underline;color:#fff}
+.crawl-fade .crawl-item{opacity:0}
+.crawl-time{color:#9d8cc7;white-space:nowrap;font-size:.74rem}
+.crawl-nav{display:flex;gap:.1rem;align-items:center}
+.crawl button{background:none;border:none;color:#c9b8f0;font-size:1rem;cursor:pointer;
+padding:.1rem .35rem;line-height:1;border-radius:4px}
+.crawl button:hover{background:rgba(255,255,255,.12);color:#fff}
+</style>"""
+
+CRAWL_BAR = """<div class="crawl" id="crawl" data-crawl="{crawl_src}" data-root="{root_page}" role="marquee" aria-label="Recent wiki changes">
+<span class="crawl-label">Recent changes</span>
+<a class="crawl-item" href="#"><span class="crawl-text"></span> <span class="crawl-time"></span></a>
+<span class="crawl-nav"><button type="button" data-crawl-prev aria-label="Previous change">&#8249;</button><button type="button" data-crawl-next aria-label="Next change">&#8250;</button><button type="button" data-crawl-close aria-label="Dismiss ticker">&times;</button></span>
+</div>"""
+
+CRAWL_JS = """<script>
+(function(){
+  var bar=document.getElementById('crawl');
+  if(!bar)return;
+  try{if(localStorage.getItem('wb-crawl-off')==='1'){bar.remove();return;}}catch(e){}
+  var src=bar.getAttribute('data-crawl')||'crawl.json';
+  var root=(bar.getAttribute('data-root')||'index.html').replace(/(index|home)\\.html$/,'');
+  var link=bar.querySelector('.crawl-item'),txt=bar.querySelector('.crawl-text'),
+      when=bar.querySelector('.crawl-time');
+  var items=[],i=0,timer=null,token=0;
+  function fmtDelta(d){return '('+(d<0?'\\u2212':'+')+Math.abs(d)+' words)';}
+  function ago(iso){
+    var s=Math.max(0,(Date.now()-new Date(iso).getTime())/1000);
+    if(s<3600)return Math.max(1,Math.round(s/60))+'m ago';
+    if(s<86400)return Math.round(s/3600)+'h ago';
+    var d=Math.round(s/86400);
+    if(d===1)return 'yesterday';
+    if(d<30)return d+'d ago';
+    return new Date(iso).toLocaleDateString(undefined,{month:'short',day:'numeric',year:'numeric'});
+  }
+  function render(){
+    var it=items[i];if(!it)return;
+    link.href=root+it.href;
+    txt.textContent=it.title+': '+it.text+' '+fmtDelta(it.delta);
+    when.textContent=ago(it.date);
+  }
+  function restart(){
+    if(timer)clearInterval(timer);
+    timer=setInterval(function(){show(i+1);},6000);
+  }
+  function show(n){
+    if(!items.length)return;
+    i=(n+items.length)%items.length;
+    var t=++token;
+    bar.classList.add('crawl-fade');
+    setTimeout(function(){if(t!==token)return;render();bar.classList.remove('crawl-fade');},380);
+    restart();
+  }
+  var prev=bar.querySelector('[data-crawl-prev]'),
+      next=bar.querySelector('[data-crawl-next]'),
+      close=bar.querySelector('[data-crawl-close]');
+  if(prev)prev.addEventListener('click',function(ev){ev.preventDefault();show(i-1);});
+  if(next)next.addEventListener('click',function(ev){ev.preventDefault();show(i+1);});
+  if(close)close.addEventListener('click',function(){
+    try{localStorage.setItem('wb-crawl-off','1');}catch(e){}
+    if(timer)clearInterval(timer);
+    bar.remove();
+  });
+  bar.addEventListener('mouseenter',function(){if(timer)clearInterval(timer);timer=null;});
+  bar.addEventListener('mouseleave',function(){restart();});
+  fetch(src).then(function(r){return r.json();}).then(function(j){
+    items=(j&&j.items)||[];
+    if(!items.length){bar.remove();return;}
+    render();restart();
+  }).catch(function(){bar.remove();});
+})();
+</script>"""
+
+
+def crawl_bar(crawl_src: str, root_page: str) -> str:
+    return CRAWL_BAR.format(crawl_src=crawl_src, root_page=root_page)
+
+
 def infobox_html(infobox: dict) -> str:
     if not infobox:
         return ""
@@ -750,14 +843,16 @@ def article_html(page: dict, linker: WikiLinker, pages: dict) -> str:
         src_list = "".join(f"<li><code>{html.escape(str(s))}</code></li>" for s in sources)
         foot_rows.append(f"<dt>Sources ({len(sources)})</dt><dd><ul>{src_list}</ul></dd>")
 
-    up = os.path.relpath("index.html", os.path.join("wiki", page_dir or "."))
+    up = os.path.relpath("home.html", os.path.join("wiki", page_dir or "."))
 
     return f"""<!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{html.escape(page['title'])} — Wiki Brain</title>
-{CSS}</head>
+{CSS}
+{CRAWL_CSS}</head>
 <body>
+{crawl_bar("../crawl.json", "../home.html")}
 <div class="mast"><b><a href="{html.escape(up, quote=True)}">Wiki Brain</a></b>
 <span class="crumb">{html.escape(domain)} / {html.escape(ptype)}</span></div>
 <div class="wrap">
@@ -776,6 +871,7 @@ def article_html(page: dict, linker: WikiLinker, pages: dict) -> str:
 </div>
 <div class="footer">Wiki Brain article · {html.escape(page['key'])} ·
 <a href="{html.escape(up, quote=True)}">front page</a></div>
+{CRAWL_JS}
 </body></html>
 """
 
@@ -817,8 +913,10 @@ def front_page(pages: list[dict], counts: dict[str, int]) -> str:
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Wiki Brain</title>
-{FRONT_CSS}</head>
+{FRONT_CSS}
+{CRAWL_CSS}</head>
 <body>
+{crawl_bar("crawl.json", "home.html")}
 <div class="hero">
 <h1>Wiki Brain</h1>
 <p>{len(pages)} articles · people, timeline, places, work, mind, legal, health, interests, self, meta</p>
@@ -861,6 +959,7 @@ function doSearch(){{
 }}
 box.addEventListener('input',doSearch);
 </script>
+{CRAWL_JS}
 </body></html>
 """
 
@@ -875,17 +974,117 @@ def domain_page(domain: str, pages: list[dict]) -> str:
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{domain.title()} — Wiki Brain</title>
-{FRONT_CSS}</head>
+{FRONT_CSS}
+{CRAWL_CSS}</head>
 <body>
+{crawl_bar("../crawl.json", "../home.html")}
 <div class="wrap">
-<p><a href="../index.html">Wiki Brain</a> / {html.escape(domain)}</p>
+<p><a href="../home.html">Wiki Brain</a> / {html.escape(domain)}</p>
 <h1 style="font-family:Georgia,serif;font-weight:400">{domain.title()}
 <small style="font-size:.5em;color:var(--mut)">{len(pages)} articles</small></h1>
 <div class="newlist">{rows}</div>
 </div>
-<div class="footer"><a href="../index.html">Wiki Brain front page</a></div>
+<div class="footer"><a href="../home.html">Wiki Brain front page</a></div>
+{CRAWL_JS}
 </body></html>
 """
+
+
+# --------------------------------------------------------------------------
+# Splash page: the wiki's front door (site/index.html)
+# --------------------------------------------------------------------------
+
+SPLASH_FLOW_JS = """<script>
+(function(){
+"use strict";
+var DIGEST="__WB_SPLASH_DIGEST__",KEY="wb_gate_v1";
+function unlocked(){try{return !!DIGEST&&sessionStorage.getItem(KEY)===DIGEST;}catch(e){return false;}}
+function go(){location.href="home.html";}
+function hex(b){var u=new Uint8Array(b),s="";for(var i=0;i<u.length;i++){s+=("0"+u[i].toString(16)).slice(-2);}return s;}
+var veil=document.getElementById("pwveil"),input=document.getElementById("pwinput"),
+    err=document.getElementById("pwerr"),btn=document.getElementById("pwbtn");
+function fail(m){err.textContent=m;err.style.display="block";}
+function showPw(){veil.hidden=false;input.value="";err.textContent="";err.style.display="none";setTimeout(function(){input.focus();},60);}
+function hidePw(){veil.hidden=true;}
+function tryPw(){
+  var v=input.value;if(!v){input.focus();return;}
+  if(!(window.crypto&&crypto.subtle)){fail("password check unavailable on this connection");return;}
+  crypto.subtle.digest("SHA-256",new TextEncoder().encode(v)).then(function(buf){
+    if(hex(buf)===DIGEST){try{sessionStorage.setItem(KEY,DIGEST);}catch(e){}go();}
+    else{input.value="";input.focus();fail("wrong password");}
+  },function(){fail("check failed");});
+}
+btn.addEventListener("click",tryPw);
+input.addEventListener("keydown",function(e){if(e.key==="Enter")tryPw();});
+veil.addEventListener("click",function(e){if(e.target===veil)hidePw();});
+document.addEventListener("wiki:enter",function(){
+  if(!DIGEST||unlocked()){go();return;}
+  showPw();
+});
+})();
+</script>"""
+
+
+def splash_page() -> str:
+    """Full-screen galaxy-charge splash with the password step on entry.
+
+    Hold anywhere to charge; at full charge the breach arms and a tap fires
+    wiki:enter. Entry then goes through the password — the same SHA-256
+    digest wb-gate embeds, so unlocking here sets the shared sessionStorage
+    key (wb_gate_v1) and the gated pages open without re-prompting. Lands on
+    home.html. When WB_GATE_PASSWORD is unset at build time there is no
+    digest and entry goes straight through.
+    """
+    gal = (ROOT / "assets" / "galaxy-charge.js").read_text(encoding="utf-8")
+    password = os.environ.get("WB_GATE_PASSWORD", "")
+    digest = hashlib.sha256(password.encode("utf-8")).hexdigest() if password else ""
+    flow = SPLASH_FLOW_JS.replace("__WB_SPLASH_DIGEST__", digest)
+    return (
+        "<!DOCTYPE html>\n"
+        '<html lang="en"><head><meta charset="utf-8">\n'
+        '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
+        "<title>Wiki Brain</title>\n"
+        "<!-- wb-gate-skip: the splash runs its own password step and sets the shared session key -->\n"
+        '<link rel="preconnect" href="https://fonts.googleapis.com">\n'
+        '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n'
+        '<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@900&display=swap" rel="stylesheet">\n'
+        "<style>\n"
+        "html,body{margin:0;padding:0;height:100%;background:#000;overflow:hidden}\n"
+        "galaxy-charge{position:fixed;inset:0;display:block;z-index:0}\n"
+        "#hint{position:fixed;left:0;right:0;bottom:16px;z-index:10;text-align:center;pointer-events:none;\n"
+        " color:#8f86a8;font:11px/1.5 -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;\n"
+        " letter-spacing:.22em}\n"
+        "#pwveil{position:fixed;inset:0;z-index:40;display:flex;align-items:center;justify-content:center;\n"
+        " background:rgba(0,0,0,.55)}\n"
+        "#pwveil[hidden]{display:none}\n"
+        ".pwbox{text-align:center;color:#e8e8e8;max-width:320px;width:calc(100% - 48px);padding:28px 24px;\n"
+        " border:1px solid #2c2440;border-radius:10px;background:rgba(12,8,24,.94);\n"
+        " box-shadow:0 0 60px rgba(120,80,255,.22)}\n"
+        ".pwtitle{font-size:20px;letter-spacing:8px;margin-bottom:6px;color:#fff}\n"
+        ".pwsub{font-size:12px;color:#8f86a8;margin-bottom:20px}\n"
+        "#pwinput{width:100%;padding:10px;background:#0a0a0a;border:1px solid #333;color:#e8e8e8;\n"
+        " font-size:14px;box-sizing:border-box;border-radius:4px}\n"
+        "#pwerr{display:none;color:#ff5555;font-size:12px;margin-top:10px}\n"
+        "#pwbtn{margin-top:16px;padding:10px 32px;background:#e8e8e8;color:#0a0a0a;border:0;\n"
+        " font-size:14px;cursor:pointer;border-radius:4px}\n"
+        "</style>\n"
+        + CRAWL_CSS + "\n"
+        "</head>\n<body>\n"
+        + crawl_bar("crawl.json", "home.html") + "\n"
+        "<galaxy-charge></galaxy-charge>\n"
+        '<div id="hint">HOLD ANYWHERE &mdash; CHARGE THE BREACH &mdash; TAP AT FULL CHARGE TO ENTER &mdash; RELEASE TO DETONATE</div>\n'
+        '<div id="pwveil" hidden><div class="pwbox">\n'
+        '<div class="pwtitle">WIKIBRAIN</div>\n'
+        '<div class="pwsub">password required</div>\n'
+        '<input id="pwinput" type="password" autocomplete="off" autocapitalize="off" spellcheck="false">\n'
+        '<div id="pwerr"></div>\n'
+        '<button id="pwbtn">ENTER</button>\n'
+        "</div></div>\n"
+        "<script>\n" + gal + "\n</script>\n"
+        + flow + "\n"
+        + CRAWL_JS + "\n"
+        "</body></html>\n"
+    )
 
 
 # --------------------------------------------------------------------------
@@ -1066,8 +1265,25 @@ def main() -> int:
         if dp:
             (dom_dir / f"{d}.html").write_text(domain_page(d, dp), encoding="utf-8")
 
-    # Front page (replaces the kb overview; layer pages stay linked)
-    (out / "index.html").write_text(front_page(pages, counts), encoding="utf-8")
+    # Front door (home.html) + splash (index.html). The splash is the entry
+    # point: galaxy, tap-to-enter, password; the front door holds search,
+    # domains, newest. (Replaces the kb overview; layer pages stay linked.)
+    (out / "home.html").write_text(front_page(pages, counts), encoding="utf-8")
+    (out / "index.html").write_text(splash_page(), encoding="utf-8")
+
+    # crawl.json — the recent-changes ticker feed. Best-effort: a feed
+    # failure must never break the build (the ticker removes itself).
+    try:
+        import subprocess as _sp
+        _r = _sp.run(
+            [sys.executable, str(ROOT / "bin" / "wiki-crawl-feed"),
+             "--out", str(out / "crawl.json"), "--limit", "100"],
+            cwd=ROOT, capture_output=True, text=True, timeout=300)
+        if _r.returncode != 0:
+            print(f"crawl feed: generator failed: {_r.stderr.strip()[-200:]}",
+                  file=sys.stderr)
+    except Exception as e:
+        print(f"crawl feed skipped: {e}", file=sys.stderr)
 
     # Media: compressed derivatives embedded in articles live under wiki/media/
     # and are referenced relatively (e.g. ../media/<id>.jpg from wiki/people/).
