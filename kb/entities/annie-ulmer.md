@@ -865,3 +865,26 @@ pipeline — ellipse fit (both areolae genuinely elliptical in-frame, tilt
 JSONs sculpt byte-identical.
 [`dat:1813-breast-workbench-geometry-20260919`](../data/1813-breast-workbench-geometry-20260919.md)
 [`src:20260919-2340-sammy-chat-transcript`](../sources/20260919-2340-sammy-chat-transcript.md)
+
+## 2026-09-21 — iPhone gapfill: +12124702449 is her 212 phone; Sep 9–10 blowout identified; corpus at 198,037
+
+Handle resolution, in Dan's own words (2026-09-21 02:05 EDT):
++12124702449 is Annie's phone — the 212 number. The ~31,000-row "different
+long-standing correspondent" going back to 2023 was her on that phone the
+whole time.
+[`dat:1843`](../data/1843-handle-ids-20260921.md)
+
+The iPhone backup gapfill recovered 1,748 of her messages on that handle
+(Aug 19→Sep 8 era), folded into the full-union merge the same night:
+guid-verified, zero duplicate guids. Only 2,115 messages were truly new
+corpus-wide (1,748 hers on +12124702449, 303 Kristin, 54 Suze, 10
+stragglers) — the earlier 8,569 figure was overstated by merge artifacts.
+Corpus total now **198,037 unique messages**. The iPhone backup lacks 13,639
+old Mac rows (keep-window auto-delete); neither source is complete, the union
+is the corpus, and the iPhone side is now the source of truth for the window
+it covers.
+[`src:20260921-0230-sammy-chat-transcript`](../sources/20260921-0230-sammy-chat-transcript.md)
+
+Same window, the Sep 9 10:33pm → Sep 10 3:52am blowout was pulled as one
+thread (50 rows, +12124702449): opens with him sarcastic and escalating, her
+erratic — full arc held in the batch transcript, unprocessed here.

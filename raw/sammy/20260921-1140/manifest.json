@@ -1,0 +1,47 @@
+{
+  "batch": "20260921-1140",
+  "source": "sammy",
+  "window": {
+    "from": "2026-09-20T23:45:57.732+00:00",
+    "to": "2026-09-21T11:41:22.763+00:00"
+  },
+  "counts": {
+    "chats": 723,
+    "user": 252,
+    "assistant": 300,
+    "assistant_empty": 171,
+    "system_excluded": 1837,
+    "truncated": 0
+  },
+  "externals": {
+    "instagram_new": 0,
+    "threads_new": 0,
+    "facebook_new": 0,
+    "messenger_new": 0,
+    "spotify_snapshot": "spotify.json"
+  },
+  "excluded": {
+    "cumthread3": 0
+  },
+  "files": {
+    "chats.json": {
+      "sha256": "d40dc2ad23028205419ea16133c7890330639e10ef8287d9be9b28c0cf549592",
+      "bytes": 482275
+    },
+    "EXTRACT.md": {
+      "sha256": "4e12a07fdaaeff31279ee7444740c153f966da145e53f2a2fda8cdd97799a4f9",
+      "bytes": 5733
+    },
+    "spotify.json": {
+      "sha256": "95b90633cbc98f347d1e311f4d1a3fbb2a4253400eb04c88031cf1f131fb3fac",
+      "bytes": 342
+    }
+  },
+  "notes": [
+    "Telegram bot token (1 occurrence, Dan's own message 02:40Z) kept byte-exact in the RAWLOGS variant; wikibrain raw/ variant redacts it as [REDACTED-TELEGRAM-BOT-TOKEN]. Rotation still pending him.",
+    "Pull taxonomy corrected this run: window holds 2,560 rows = 1,837 system + 252 user + 171 assistant-empty + 300 assistant-non-empty; system excluded by design.",
+    "Overlap: writeback 20260921-0230 (af09822) already archived datums 1842-1855 + wiki corrections from this window's first half; this batch is the complete 723-row transcript archive.",
+    "kb dated evidence blocks added: kristin-prentiss.md (in-person correction), ally-lubin.md (truth vector + moratorium lift), annie-ulmer.md (iPhone gapfill / handle ID / Sep 9-10 blowout)."
+  ],
+  "generated_at": "2026-09-21T08:23:12-04:00"
+}
