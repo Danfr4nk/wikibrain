@@ -174,6 +174,44 @@ corrected on the spot. Pasted transcriptions are his re-typing, not system
 exports — speaker attribution in them is fallible.
 [dat:1484](../data/1484-order-switch-incident-transcription-flipped-the-speaker-scre.md)
 
+## 2026-09-21 — In-person correction: the night-vision basement night of 2025-09-18/19
+
+The load-bearing "never met in person a single time" claim is dead. His own
+security footage — five contemporaneous night-vision clips, on-screen camera
+timestamps 2025-09-19 01:58:44 AM to 02:12:20 AM — shows two clothed figures
+on the couch in his basement (laptop on stand, wall posters), one draped over
+the other. Dan identifies the second figure as Kristin; that ID is his
+testimony (per his photo-ID rule), not a facial ID off IR footage. This was
+week 3 of the relationship — the first confirmed in-person meeting, and the
+only one confirmed.
+
+Contemporaneous text corroboration from the 3307038747 iMessage thread,
+2025-09-19 13:12:31 (Dan): "I love you so much. I really felt it last night.
+I'm so fucking glad I found you" — texting about the in-person night.
+[`dat:1841`](../data/1841-kristin-first-confirmed-in-person-meeting.md)
+[`src:kristin-basement-security-cam-20250919`](../sources/kristin-basement-security-cam-20250919.md)
+
+Sequencing correction: her Sept-20 02:34 "I'm going to do the thing I do -
+like .. pull away" landed roughly 24 hours AFTER she was physically in his
+basement. The withdrawal followed proximity, not text-play — the whole
+disorder-test reading of Sept 19–20 runs on the corrected timeline now.
+
+Note the same window carried both versions: Dan's 00:48Z "goon club
+application file" read of her still repeated the stale "never met you in
+person" line, hours before the footage evidence was assembled. The footage
+wins; the application-file line is superseded.
+
+Not claimed: that this was the ONLY meeting. Her Sept-20 grievance "you
+wouldn't drive to see me" now sits next to footage of her in his house —
+both held, unresolved. The footage does not show sexual activity and no such
+claim is made.
+
+Identity anchors, same window: +13307038747 is Kristin (Dan's own words,
+2026-09-21 02:05 EDT, after the "manure"/"Menore" speech-dictation detour;
+[`dat:1843`](../data/1843-handle-ids-20260921.md)); born 21 July 1990
+(Barberton, Ohio — his application-file read, 2026-09-21 00:48Z).
+[`src:20260921-0230-sammy-chat-transcript`](../sources/20260921-0230-sammy-chat-transcript.md)
+
 ## Cross-links
 
 - `ent:tom-maison` — her handle's mislabeling under Tom overstated his corpus

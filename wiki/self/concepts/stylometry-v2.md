@@ -6,7 +6,7 @@ aliases: ["stylometry", "state tracking", "the stylometry tracker"]
 status: active
 knowledge: earned
 date_created: 2026-09-16
-date_modified: 2026-09-16
+date_modified: 2026-09-21
 importance: high
 tags: [instruments, self-measurement, linguistics, ai-collaboration]
 sources:
@@ -254,3 +254,38 @@ The measurement week v2 opened runs through roughly September 22–23,
 and the lean-collector cutover decision is calendared for Wednesday,
 September 23, 9:00 AM — v3's first production verdict arrives there.
 See `dat:1725-stylometry-v3-production-20260918`.
+
+## STREAM: the in-chat typing calibration burst (September 21, 2026)
+
+The calibration problem has a human end. The stylometry scorers detect
+style-shift; Dan wanted the other half — a *state label he controls* —
+because the v3 substance layer needs ground truth on intoxication the way
+it needs ground truth on task-confound. On 2026-09-21 (13:09 EDT, main
+chat) he commissioned it directly: *"Can you develop an instrument we can
+run in chat to gauge it? Like short writing prompt?"*
+
+The instrument: **STREAM**, a 90-second typing burst — one prompt, no
+editing allowed. It tracks WPM, backspaces, pauses, inter-key latency, and
+burst index (the "raggedness measure"). He runs it in chat and pastes the
+result block back; the run logs into the calibration set alongside his
+state labels. The 𝗦𝗧𝗬𝗟𝗢𝗠𝗘𝗧𝗥𝗬 side chat carries the instrument and its
+log.
+
+First calibration day, same afternoon: Dan declared 2026-09-21 a heavy
+cocaine day (*"Today will be a good day to log cocaine indicators though
+I got more than usual"*). The day's labels: first line ~08:45 EDT (a
+single-use portion of Suz's cocaine, traded for a coffee he made her),
+second line 12:00 EDT (*"I just did a second line of coke"*) — the first
+calibration-intentional self-label of the day — and a third line by
+13:12. Run 1 landed at 13:13 EDT, post-third-line: **51.3 wpm, 77 words,
+400 chars, 437 keys, 17 backspaces, corr_pct 3.9, 4 pauses, iki_med
+152ms, burst 1.19** (prompt=3). The instruction on the books: run it
+again on the next state change and the arc gets the full
+onset/peak/redose/coming-down shape.
+
+Design honesty, stated up front: typing speed is state-sensitive but not
+state-specific — fatigue, caffeine, excitement, and hour of day all move
+the same numbers, and a heavy user's tolerance floor differs from a
+naive user's. STREAM is a calibration instrument for *within-person,
+within-day* comparisons anchored to his own labels, not a drug test. See
+`dat:1857-stream-typing-instrument-20260921`.

@@ -1,0 +1,38 @@
+{
+ "batch": "20260921-2340",
+ "pulled_at": "2026-09-22T00:02:03Z",
+ "watermark_from": "2026-09-21T11:41:22.763+00:00",
+ "watermark_to": "2026-09-21T23:43:09.177+00:00",
+ "counts": {
+  "rows": 334,
+  "user": 103,
+  "assistant": 231,
+  "truncated": 0,
+  "system_rows_excluded": 980,
+  "cumthread3_rows_excluded": 0
+ },
+ "notes": [
+  "byte-exact bodies; truncated:false for all rows (max body 6524 chars, tool row limit 65536)",
+  "API key redacted as [REDACTED-API-KEY] in wikibrain variant only; RAWLOGS variant byte-exact (1 occurrence, Dan 22:06Z)",
+  "instagram.json/spotify.json: external-check snapshots (subagent, ~23:50Z)",
+  "previous window watermark 2026-09-21T11:41:22.763+00:00 advanced only after dual push"
+ ],
+ "files": {
+  "EXTRACT.md": {
+   "sha256": "42347d37d44251e46f80340290a1d7e0c8078673f9ac911be22471abbf8fc053",
+   "bytes": 5003
+  },
+  "chats.json": {
+   "sha256": "908553bbdc2ae8396c26c93f4e45b4e30ff26344a5045247abd062c60e1b94f4",
+   "bytes": 149142
+  },
+  "instagram.json": {
+   "sha256": "edf6d384c3a0638609fec85c3fe28ff3bcc79e38c7e595946306866b5eabae47",
+   "bytes": 3476
+  },
+  "spotify.json": {
+   "sha256": "e1cf3555e060fd3f7ef6d2486628cc15b0e788eff767ca1c530a6bc5892ead6f",
+   "bytes": 467
+  }
+ }
+}

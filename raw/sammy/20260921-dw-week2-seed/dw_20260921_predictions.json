@@ -1,0 +1,412 @@
+{
+ "id": "dw-2026-09-21",
+ "name": "Discover Weekly — Sep 21, 2026",
+ "type": "discover-weekly",
+ "date": "2026-09-21",
+ "predictionsLocked": true,
+ "lockedAt": "2026-09-21T20:03:27.411492-04:00",
+ "tracks": [
+  {
+   "uri": "spotify:track:5fnAsY34g7jlm8OQYjIdIU",
+   "name": "Night Raid",
+   "artists": "Ghastly",
+   "has_audio": false,
+   "p_keep": 0.324,
+   "pop": 43.0,
+   "pop_imputed": true,
+   "fam": 2,
+   "genre_guess": [
+    "bass house"
+   ],
+   "tempo": null,
+   "energy": null,
+   "predicted_keep": true
+  },
+  {
+   "uri": "spotify:track:0A8rnQEFNTKlVBqnJZgizu",
+   "name": "Listen To Your Teacher",
+   "artists": "Body Ocean, Benni Ola",
+   "has_audio": false,
+   "p_keep": 0.324,
+   "pop": 43.0,
+   "pop_imputed": true,
+   "fam": 1,
+   "genre_guess": [
+    "bass house"
+   ],
+   "tempo": null,
+   "energy": null,
+   "predicted_keep": true
+  },
+  {
+   "uri": "spotify:track:097XuYiqI3sS1SlTlncfmU",
+   "name": "Vibe",
+   "artists": "Dirty Palm, KDH",
+   "has_audio": true,
+   "p_keep": 0.306,
+   "pop": 39,
+   "pop_imputed": false,
+   "fam": 0,
+   "genre_guess": [],
+   "tempo": 128.0,
+   "energy": 0.916,
+   "predicted_keep": true
+  },
+  {
+   "uri": "spotify:track:5XLx1nuE1gtuMDJVAWzLVe",
+   "name": "Where Will You Run",
+   "artists": "Koastle, BR*",
+   "has_audio": false,
+   "p_keep": 0.301,
+   "pop": 43.0,
+   "pop_imputed": true,
+   "fam": 1,
+   "genre_guess": [
+    "stutter house"
+   ],
+   "tempo": null,
+   "energy": null,
+   "predicted_keep": true
+  },
+  {
+   "uri": "spotify:track:03UP2PkgWlqkcdRJRSDcI6",
+   "name": "Blame It",
+   "artists": "33 Below",
+   "has_audio": false,
+   "p_keep": 0.301,
+   "pop": 43.0,
+   "pop_imputed": true,
+   "fam": 2,
+   "genre_guess": [
+    "stutter house"
+   ],
+   "tempo": null,
+   "energy": null,
+   "predicted_keep": true
+  },
+  {
+   "uri": "spotify:track:15GewmO3Kpr1YNfP9fFI5u",
+   "name": "Rawthentic",
+   "artists": "Mr. Bill, Infected Mushroom",
+   "has_audio": true,
+   "p_keep": 0.235,
+   "pop": 36,
+   "pop_imputed": false,
+   "fam": 2,
+   "genre_guess": [
+    "dubstep"
+   ],
+   "tempo": 134.0,
+   "energy": 0.912,
+   "predicted_keep": true
+  },
+  {
+   "uri": "spotify:track:23RgrKjFnKrCBMcVQ203G7",
+   "name": "Out of My Mind",
+   "artists": "Siik, Sickrate",
+   "has_audio": true,
+   "p_keep": 0.233,
+   "pop": 37,
+   "pop_imputed": false,
+   "fam": 0,
+   "genre_guess": [],
+   "tempo": 128.0,
+   "energy": 0.53,
+   "predicted_keep": true
+  },
+  {
+   "uri": "spotify:track:2rjq2gGAjA33MRnc79O4xv",
+   "name": "Connection",
+   "artists": "AHEE, Manic Focus, Colby Buckler",
+   "has_audio": false,
+   "p_keep": 0.227,
+   "pop": 43.0,
+   "pop_imputed": true,
+   "fam": 5,
+   "genre_guess": [
+    "dubstep"
+   ],
+   "tempo": null,
+   "energy": null,
+   "predicted_keep": true
+  },
+  {
+   "uri": "spotify:track:14bE91d5kct2TEA4WneVL3",
+   "name": "say_yes_FESTIVALMIX1",
+   "artists": "WINK",
+   "has_audio": false,
+   "p_keep": 0.223,
+   "pop": 43.0,
+   "pop_imputed": true,
+   "fam": 3,
+   "genre_guess": [],
+   "tempo": null,
+   "energy": null,
+   "predicted_keep": false
+  },
+  {
+   "uri": "spotify:track:28ZuRmc1CEtzhYwGzK3Dfh",
+   "name": "Dumb Fck",
+   "artists": "Kluster Flux",
+   "has_audio": false,
+   "p_keep": 0.219,
+   "pop": 43.0,
+   "pop_imputed": true,
+   "fam": 0,
+   "genre_guess": [],
+   "tempo": null,
+   "energy": null,
+   "predicted_keep": false
+  },
+  {
+   "uri": "spotify:track:2tV5PnNxnDhfddgkhYCt0G",
+   "name": "SIMON SAYS - crysomemore Remix",
+   "artists": "MYTHM, crysomemore",
+   "has_audio": false,
+   "p_keep": 0.219,
+   "pop": 43.0,
+   "pop_imputed": true,
+   "fam": 0,
+   "genre_guess": [],
+   "tempo": null,
+   "energy": null,
+   "predicted_keep": false
+  },
+  {
+   "uri": "spotify:track:2wBRya4M5E6EfmYmsxG9n3",
+   "name": "Broken On Purpose",
+   "artists": "Dr. Ozi",
+   "has_audio": false,
+   "p_keep": 0.219,
+   "pop": 43.0,
+   "pop_imputed": true,
+   "fam": 0,
+   "genre_guess": [],
+   "tempo": null,
+   "energy": null,
+   "predicted_keep": false
+  },
+  {
+   "uri": "spotify:track:6kMqtoG4GUMjCSorLD6Max",
+   "name": "Blood On My Hands",
+   "artists": "Grabbitz",
+   "has_audio": false,
+   "p_keep": 0.219,
+   "pop": 43.0,
+   "pop_imputed": true,
+   "fam": 1,
+   "genre_guess": [
+    "dubstep"
+   ],
+   "tempo": null,
+   "energy": null,
+   "predicted_keep": false
+  },
+  {
+   "uri": "spotify:track:4w6tMkhXUsVyi7kgIo5uG1",
+   "name": "X2C",
+   "artists": "Z3LLA",
+   "has_audio": false,
+   "p_keep": 0.219,
+   "pop": 43.0,
+   "pop_imputed": true,
+   "fam": 0,
+   "genre_guess": [],
+   "tempo": null,
+   "energy": null,
+   "predicted_keep": false
+  },
+  {
+   "uri": "spotify:track:6KfgzbNDaZdmXOqr660aGB",
+   "name": "FAKEOUT",
+   "artists": "Tisoki",
+   "has_audio": false,
+   "p_keep": 0.219,
+   "pop": 43.0,
+   "pop_imputed": true,
+   "fam": 0,
+   "genre_guess": [],
+   "tempo": null,
+   "energy": null,
+   "predicted_keep": false
+  },
+  {
+   "uri": "spotify:track:1y4UAwsuPDBSv1456c6ytF",
+   "name": "Set Me Free",
+   "artists": "TVBOO",
+   "has_audio": false,
+   "p_keep": 0.219,
+   "pop": 43.0,
+   "pop_imputed": true,
+   "fam": 1,
+   "genre_guess": [
+    "dubstep"
+   ],
+   "tempo": null,
+   "energy": null,
+   "predicted_keep": false
+  },
+  {
+   "uri": "spotify:track:6r0FI24st9dtMgDxqiF5Cy",
+   "name": "You Got Me",
+   "artists": "COSTA, Fortune Favor",
+   "has_audio": false,
+   "p_keep": 0.219,
+   "pop": 43.0,
+   "pop_imputed": true,
+   "fam": 0,
+   "genre_guess": [],
+   "tempo": null,
+   "energy": null,
+   "predicted_keep": false
+  },
+  {
+   "uri": "spotify:track:2Dfl1o0pQB1jUzH5rC86op",
+   "name": "Wonderwall",
+   "artists": "Hi I'm Ghost, David Vance",
+   "has_audio": false,
+   "p_keep": 0.219,
+   "pop": 43.0,
+   "pop_imputed": true,
+   "fam": 0,
+   "genre_guess": [],
+   "tempo": null,
+   "energy": null,
+   "predicted_keep": false
+  },
+  {
+   "uri": "spotify:track:4YLDVdlK5VNfHZJ7KxPjD9",
+   "name": "IMPACT",
+   "artists": "MUST DIE!",
+   "has_audio": false,
+   "p_keep": 0.219,
+   "pop": 43.0,
+   "pop_imputed": true,
+   "fam": 0,
+   "genre_guess": [],
+   "tempo": null,
+   "energy": null,
+   "predicted_keep": false
+  },
+  {
+   "uri": "spotify:track:5zkoTjEVstQv1gPMotK438",
+   "name": "RUN",
+   "artists": "Lektrique",
+   "has_audio": false,
+   "p_keep": 0.219,
+   "pop": 43.0,
+   "pop_imputed": true,
+   "fam": 0,
+   "genre_guess": [],
+   "tempo": null,
+   "energy": null,
+   "predicted_keep": false
+  },
+  {
+   "uri": "spotify:track:06eJJV9q1HieNW8dm9htJt",
+   "name": "Flow",
+   "artists": "[IVY]",
+   "has_audio": false,
+   "p_keep": 0.219,
+   "pop": 43.0,
+   "pop_imputed": true,
+   "fam": 1,
+   "genre_guess": [
+    "drum and bass"
+   ],
+   "tempo": null,
+   "energy": null,
+   "predicted_keep": false
+  },
+  {
+   "uri": "spotify:track:6sZ46XgvJMeZCLp5Bc1fAg",
+   "name": "Back Into My Body - Mindchatter Live Edit",
+   "artists": "Mindchatter",
+   "has_audio": false,
+   "p_keep": 0.219,
+   "pop": 43.0,
+   "pop_imputed": true,
+   "fam": 0,
+   "genre_guess": [],
+   "tempo": null,
+   "energy": null,
+   "predicted_keep": false
+  },
+  {
+   "uri": "spotify:track:3909DrWz4HR1fJiWAtYl2Q",
+   "name": "Can't Look Away",
+   "artists": "Lucch",
+   "has_audio": true,
+   "p_keep": 0.188,
+   "pop": 34,
+   "pop_imputed": false,
+   "fam": 0,
+   "genre_guess": [],
+   "tempo": 126.1,
+   "energy": 0.532,
+   "predicted_keep": false
+  },
+  {
+   "uri": "spotify:track:33hGrBcDLopVhjbCxRlHPC",
+   "name": "The Edge",
+   "artists": "ESSEL",
+   "has_audio": true,
+   "p_keep": 0.141,
+   "pop": 42,
+   "pop_imputed": false,
+   "fam": 0,
+   "genre_guess": [],
+   "tempo": 128.0,
+   "energy": 0.648,
+   "predicted_keep": false
+  },
+  {
+   "uri": "spotify:track:5aOPl7lvumhw7Vzgv4Zdtg",
+   "name": "IJDK",
+   "artists": "Justin Hawkes",
+   "has_audio": true,
+   "p_keep": 0.106,
+   "pop": 32,
+   "pop_imputed": false,
+   "fam": 2,
+   "genre_guess": [
+    "drum and bass"
+   ],
+   "tempo": 174.0,
+   "energy": 0.978,
+   "predicted_keep": false
+  },
+  {
+   "uri": "spotify:track:62YgrGZTw1c20Juoy7kFUZ",
+   "name": "On Lock",
+   "artists": "Dirtyphonics, IVORY",
+   "has_audio": true,
+   "p_keep": 0.058,
+   "pop": 41,
+   "pop_imputed": false,
+   "fam": 1,
+   "genre_guess": [
+    "dubstep"
+   ],
+   "tempo": 174.2,
+   "energy": 0.994,
+   "predicted_keep": false
+  },
+  {
+   "uri": "spotify:track:6pEiUrbKiyqwbOMYeKWW8O",
+   "name": "Work Hard Play Hard",
+   "artists": "Rendah, Burrahz",
+   "has_audio": true,
+   "p_keep": 0.044,
+   "pop": 5,
+   "pop_imputed": false,
+   "fam": 3,
+   "genre_guess": [
+    "drum and bass"
+   ],
+   "tempo": 174.2,
+   "energy": 0.932,
+   "predicted_keep": false
+  }
+ ]
+}

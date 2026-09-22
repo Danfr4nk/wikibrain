@@ -1340,6 +1340,24 @@ Timestamps UTC as stored.
   her to believe, and her *"spread it to other people"* means Polyak already
   holds the accusation as fact.
 
+- **The meetup question — VERDICT: no in-person meeting ever happened, by
+  his own adjudication. (High.)** On 2026-09-21, discussing the recovered
+  thread with Sammy, Dan volunteered the factoid himself: *"no ally lubin
+  in-person meetup in real life"* — and conceded the thread *"would SEEM to
+  indicate i was"*: *"As a strategic play"* / *"Anither desperate strategic
+  play"* / *"To get Annie back loo."* The apparent signals — the Montauk
+  invitation she flagged as *"repeat offender"* and the
+  Ally-as-replacement-mother posture he held toward Annie (*"Milo gets a new
+  mom,"* Aug 25) — were, by his account, leverage aimed at Annie, not plans
+  aimed at Ally. This confirms the page's standing claim ("a woman Dan has
+  never met in person") and resolves the Montauk H6 item from his side: the
+  invitation was said, and said deliberately, but nothing was ever executed.
+  Caveat the wiki must carry: this is his testimony, and he is the only
+  person who could adjudicate whether he met her. The corpus corroborates
+  negatively (no travel logistics, no post-meetup content anywhere in the
+  5,328-row definitive thread), but absence in the corpus is not proof of
+  absence. See `dat:1856-ally-meetup-denial-20260921`.
+
 ## The measurements
 
 Direction is trustworthy in four sources here — `imessage_export_5619061550`
@@ -1482,8 +1500,13 @@ What this page does not claim, stated plainly:
 - **The 2019 threats ("18 or 19 times over 3 days").** Her August 25 count,
   referring to Annie, drawn from wiki threads she read. The underlying
   threads were not re-read for this pass; the count is unverified.
-- **Montauk / "repeat offender."** Her claim he said the same thing to Annie
-  in May or June requires an Annie-side cross-check, not done here.
+- **Montauk / "repeat offender."** RESOLVED from his side 2026-09-21: he
+  admitted the invitation was said and said deliberately — as a desperate
+  strategic play aimed at Annie — but nothing was ever executed; no Ally
+  Lubin in-person meetup ever happened. See the meetup-question verdict
+  above and `dat:1856-ally-meetup-denial-20260921`. Her claim he said the
+  same thing to Annie in May or June still requires an Annie-side
+  cross-check, not done here.
 - **Did Polyak "clock" anything?** No evidence in this corpus; unverified.
 - **The Sep 20 replies' delivery.** Her September 8 *"I already blocked you
   on everything"* predates his 15 replies; delivery unknown from this corpus.
