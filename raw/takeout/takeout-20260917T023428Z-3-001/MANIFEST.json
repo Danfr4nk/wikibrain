@@ -1,0 +1,14 @@
+{
+ "zip": "takeout-20260917T023428Z-3-001.zip",
+ "drive_id": "1PBtyu9wUhqv_Saomn5FVl4oSEYEFUipL",
+ "zip_size": 929842984,
+ "zip_sha256": "222b7afe375e1f740fc4791e134384bd547d4e7cb38e45b8606eb92ca7c65a80",
+ "ingest_date": "2026-09-22",
+ "files_total": 256,
+ "files_structured": 6,
+ "files_media": 250,
+ "bytes_uncompressed": 931743858,
+ "repo_prefix": "raw/takeout/takeout-20260917T023428Z-3-001/",
+ "media_inventory": "media-inventory.json",
+ "notes": "Media originals excluded per media policy; registered in media/registry.json with takeout_source."
+}
