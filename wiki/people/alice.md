@@ -7,9 +7,9 @@ status: active
 knowledge: earned
 importance: normal
 date_created: 2026-08-23
-date_modified: 2026-08-23
+date_modified: 2026-09-22
 date_range_start: 2023-10-28
-date_range_end: 2025-07-10
+date_range_end: 2026-08-25
 tags: [family, relationships, uniontown-era]
 infobox:
   name: Alice
@@ -21,6 +21,7 @@ infobox:
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt
   - raw/self/message-csv/imessage_2124702449_both_all_now.csv
+  - raw/imessage/messages-iphone-union-gapfill-20260921.csv
 connections:
   - page: wiki/people/claire-ulmer
     type: component-of
@@ -34,97 +35,74 @@ connections:
 
 Alice is [[wiki/people/annie-ulmer|Annie]]'s niece — the elder child of Annie's
 sister [[wiki/people/claire-ulmer|Claire]] and Claire's husband
-[[wiki/people/garrett]]. She appears **66 times** in the corpus between October
-2023 and July 2025, which makes her the most-mentioned child in the archive and
-the single largest recurring commitment in Annie's week during the last two years
-of the relationship.
+[[wiki/people/garrett]]. She is the most-mentioned child in the archive, and the
+center of the largest sustained unpaid commitment anywhere in Annie's documented
+life.
 
-She matters to this wiki for a reason that has nothing to do with her: **she
-closes a stated gap and falsifies a standing speculation.**
-[[wiki/people/claire-ulmer]] has recorded, since it was written, that *"Claire has
-children — an unnamed niece and nephew."* They are named here.
+The relationship is ordinary and documented in unusual density, because Annie
+narrated her days to Dan continuously. Alice is at a Halloween party in an Elsa
+outfit Annie bought her (2023-10-28) and wakes Annie up the next morning. Annie
+takes her to an American Girl doll event at the Heinz History Center and
+retrieves her own childhood dolls for the occasion (2025-03-06). She teaches
+Alice to ride a bike (2025-07-10), lies with her for over an hour to get her to
+sleep and ends up staying the night because *"she will not fall asleep unless I
+am in bed with her"* (2025-06-14). The pedicures come *"from aunt Annie"*
+(2025-05-17). *"Alice colored me a really nice paw patrol picture."* Almost
+nothing else in the corpus records Annie doing something for another person,
+repeatedly, over years, with no audience.
 
-## What the record holds
-
-The relationship is ordinary and it is documented in unusual density, because
-Annie narrated her days to Dan continuously. Alice is at a Halloween party in an
-Elsa outfit Annie bought her (2023-10-28) and wakes Annie up the next morning.
-She is collected early from school, taken to an art show, to Goodwill and Target,
-to McDonald's, to a soccer practice, to an American Girl doll event at the Heinz
-History Center with Annie's own childhood dolls retrieved for the occasion
-(2025-03-06). Annie makes cupcakes with her, cuts her hair, teaches her to ride a
-bike (2025-07-10), lies with her for over an hour to get her to sleep and ends up
-staying the night because *"she will not fall asleep unless I am in bed with her"*
-(2025-06-14).
-
-Two dated details fix her age. On **2025-06-19** Annie writes *"I missed the first
-four years of Alice's fucking life"* — a reference to the NYC years — which places
-her birth around **2019–2020**. By March 2025 she is in school, has a class, a
-teacher, and a building that closes for repairs.
+**And it did not stop when the relationship did.** The recovered iPhone messages
+— the ones that killed the "terminally ended" framing — show the childcare
+running straight through August 2026: *"Bc I gotta watch Alice. I gotta hurry"*
+(2026-08-24), *"I gotta cut Alice's hair now"* the same evening, *"I told you I
+am busy Alice will not sit still."* The next day she is heading to Claire's
+*"to hear about Alice's first day"* — first day of school, landing exactly where
+the birth inference said it would.
 
 ## What it establishes about Annie
 
-**This is the largest sustained unpaid commitment anywhere in Annie's documented
-life, and she says so.** The clearest statement is 2025-03-31, in a message
-listing everything that had gone wrong in one day:
+The clearest statement is 2025-03-31, in a message listing everything that had
+gone wrong in one day:
 
 > *"Then the kids came over. And Claire wanted me to cut Alice's hair. (Which of*
 > *course I wasn't paid for) she even jokingly said 'should we tip annie?' And then*
 > *laughed."*
 
-The same message contains *"I got the letter I was denied unemployment"* — which
-is the only record in the corpus of Annie applying for unemployment, and it dates
-her income collapse to **March 2025**, a year after the [[wiki/people/libby]]
-work. Read together, the two pages give Annie's 2024–25 economics a shape the
-wiki has not had: paid caring work for a stranger in 2024, unpaid caring work for
-family in 2025, and nothing else in between.
+The same message contains *"I got the letter I was denied unemployment"* — the
+only record in the corpus of Annie applying for unemployment, dating her income
+collapse to **March 2025**. Read together with the [[wiki/people/libby]] page,
+Annie's 2024–25 economics take a shape the wiki had not had: paid caring work
+for a stranger in 2024, unpaid caring work for family in 2025, nothing else in
+between.
 
-She is also, on this record, good at it and attached to it. *"Alice colored me a
-really nice paw patrol picture"*; the pedicures from *"aunt Annie"* (2025-05-17);
-*"I showed Alice Milo's pic"* (2025-03-18). Almost nothing else in the corpus
-records Annie doing something for another person, repeatedly, over years, with no
-audience — the other instance is Libby.
+Two dated details fix Alice's age. On **2025-06-19** Annie writes *"I missed the
+first four years of Alice's fucking life"* — a reference to the NYC years —
+placing her birth around **2019–2020**. By March 2025 she is in school with a
+class, a teacher, and a building that closes for repairs; by August 2026 she is
+starting a new school year. The inference holds.
 
 ## The Wednesday-alibi speculation, tested and rejected
 
-[[wiki/people/claire-ulmer]] carries a flagged reading from an AI-authored
-dossier: that *"Wednesday visits to help with Claire's kids functioned as a
-recurring alibi pattern during the relationship's suspicious period,"* recorded
-there as unverified interpretation. **It has now been tested against the full
-217,573-record dump and it fails.**
-
-| Term | n | Wednesday share |
-|---|---:|---:|
-| Corpus baseline, all messages | 217,573 | **15.1%** |
-| Alice | 66 | **6.1%** |
-| Claire | 257 | **9.7%** |
-| "my niece" / "my nephew" / "Claire's kids" | 4 | **0%** |
-| Otto | 31 | 16.1% |
-
-**Wednesday is the least likely day for Alice and well below baseline for
-Claire.** Claire's mentions concentrate on Friday and Saturday (100 of 257, 39%).
-Whatever else was happening in the suspicious period, a Wednesday childcare
-pattern is not in the record, and the dossier's reading should be treated as
-retired rather than merely unverified. The falsifier is recorded on
-[[wiki/people/claire-ulmer]].
-
-**This is not a finding about the affair.** It rules out one specific proposed
-mechanism, on one specific axis, and nothing more. The
-[[wiki/timeline/events/eli-incident|Eli]] record is untouched by it.
+[[wiki/people/claire-ulmer]] carried a flagged reading from an AI-authored
+dossier: that Wednesday visits to help with Claire's kids functioned as a
+recurring alibi pattern during the relationship's suspicious period. Tested
+against the full message dump, it fails — Wednesday is the *least* likely day
+for Alice mentions (6.1% against a 15.1% corpus baseline) and well below
+baseline for Claire (9.7%), whose mentions concentrate on Friday and Saturday.
+The reading is retired, not merely unverified; the falsifier is recorded on
+[[wiki/people/claire-ulmer]]. This rules out one proposed mechanism on one axis,
+and nothing more — the [[wiki/timeline/events/eli-incident|Eli]] record is
+untouched.
 
 ## Gaps
 
-1. **Surname.** Claire's married name is nowhere in the corpus, so this page is
-   filed under a single name. One sentence from the operator resolves Alice,
-   Otto, Waylon and Claire together.
+1. **Surname.** Claire's married name is nowhere in the corpus. One sentence
+   from the operator resolves Alice, Otto, Waylon and Claire together.
 2. **Exact birth date.** Inferred as ~2019–2020 from a single retrospective
-   remark. A birthday message would fix it.
-3. **Whether Dan ever met her.** The record has Annie showing Alice a photograph
-   of [[wiki/people/milo|Milo]] and Alice asking *"who are you talking to?"*
-   during a call (2024-02-23), and Dan writing *"alice wouldn't be so unfamiliar
-   with my name that she literally can't understand what you're saying when you
-   use it"* (2025-05-02) — which reads as evidence he had **not** met her, and is
-   the sharpest single line in the corpus about how separate the two families
-   stayed. Not established either way.
-
-
+   remark, corroborated by the August 2026 school start. A birthday message would
+   fix it.
+3. **Whether Dan ever met her.** Dan's 2025-05-02 line — *"alice wouldn't be so
+   unfamiliar with my name that she literally can't understand what you're saying
+   when you use it"* — reads as evidence he had not, and is the sharpest single
+   line in the corpus about how separate the two families stayed. Not established
+   either way.
