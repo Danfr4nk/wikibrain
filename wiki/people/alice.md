@@ -46,10 +46,17 @@ that *"Claire has children — an unnamed niece and nephew."* They are named her
 and as of 2026-09-22 they are surnamed — Gates, supplied by Dan, the one fact
 the corpus never contained. The second is human, and it is the real subject of
 this page: for three years, through the collapse of the relationship at the
-center of this wiki and past its supposed end, Annie showed up for this child
-continuously — haircuts, school runs, dance classes, bedtimes, sick days — and
+center of this wiki and past its supposed end, Annie kept showing up for this child — haircuts, school runs, dance classes, bedtimes, sick days — and
 narrated it all to Dan in real time, which is why the record of it is unusually
 dense and unusually tender.
+
+One fact of geography governs the whole record. Annie lived in New York
+City until February 2025; Alice and Otto grew up in Pennsylvania. Every sighting
+before 2025-02-22 is a visit home — a Halloween party, a February school pickup,
+a July meltdown held through — not daily life. The intensive childcare of 2025
+is what her return made possible, and the velocity of the mentions is the
+proof: once she is back in Pennsylvania, the children enter the record at a
+pace visits never produced.
 
 ## The aunt-niece bond
 
@@ -69,7 +76,7 @@ handled the other death well"* — a small, devastating line that says a
 five-year-old has already handled deaths before, plural, well. In July 2024
 Annie naps with her, reads to her, holds her through a meltdown.
 
-2025 is the intensive year, and the log below carries all of it, but the shape
+2025 is the intensive year — she is back in Pennsylvania, and the log below carries all of it, but the shape
 is this: Annie does Alice's hair constantly (it becomes a refrain — *"Going to
 cut Alice's hair,"* *"I'm finishing Alice's hair,"* *"I am finishing cutting
 Alice's hair"*), takes her to McDonald's and Goodwill and Target, brings lunch

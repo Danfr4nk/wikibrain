@@ -42,13 +42,21 @@ and younger: diapers in the summer of 2024, a fixed afternoon nap by the spring
 of 2025, sent home from school for saying "fuck" by the spring of 2026, and
 picked up from school by Annie in September 2026.
 
-If Alice is the child Annie raised alongside, Otto is the child the record
+If Alice is the child Annie helped raise, Otto is the child the record
 watches grow up. The two arcs overlap — same household, same aunt, same years —
 but Otto's mentions cluster around the small, physical facts of a toddler
 becoming a little boy: haircuts, naps, lunches, meltdowns, a playground request
 with a pleading emoji. And where Alice's arc is almost entirely tender, Otto's
 carries the one place the childcare visibly damaged the relationship at the
 center of this wiki.
+
+One fact of geography governs the whole record. Annie lived in New York
+City until February 2025; Alice and Otto grew up in Pennsylvania. Every sighting
+before 2025-02-22 is a visit home — a Halloween party, a February school pickup,
+a July meltdown held through — not daily life. The intensive childcare of 2025
+is what her return made possible, and the velocity of the mentions is the
+proof: once she is back in Pennsylvania, the children enter the record at a
+pace visits never produced.
 
 ## The younger sibling
 
@@ -69,7 +77,7 @@ mother changes him, and his aunt is proud — terrified and proud — of getting
 through one change quietly. This is what the childcare actually looked like at
 close range.
 
-By March 2025 the household runs on his schedule: *"Nap time is at 1:00 until
+By March 2025 — Annie back in Pennsylvania — the household runs on his schedule: *"Nap time is at 1:00 until
 3:00 for Otto.. while Alice has quiet time"* (2025-03-07) — a toddler's sleep
 against a school-age sister's supervised rest. *"Otto sleeping."* *"Otto told
 me to go away lol."* The same spring they are handled as a pair: soccer practice
