@@ -190,7 +190,7 @@ let settled=false, hovered=null, selected=null, dragging=null, panning=null;
 let camAnim=null, introDone=false, userDrove=false, tickN=0;
 // userDrove: any manual pan/zoom/drag (or a search/path zoom) hands the camera
 // to the user permanently — auto-framing never fights them after that.
-function frameAll(dur=1400,pad=0.88){
+function frameAll(dur=1400,pad=0.70){ // crispness pass 2026-09-22: generous margin so the cloud breathes
   // hard-frame the whole node cloud to the viewport, whatever its size
   let x0=1e18,y0=1e18,x1=-1e18,y1=-1e18;
   for(const s of simNodes){if(s.x<x0)x0=s.x;if(s.x>x1)x1=s.x;if(s.y<y0)y0=s.y;if(s.y>y1)y1=s.y;}
@@ -238,7 +238,7 @@ function glow(color){
   const c=document.createElement("canvas");c.width=c.height=64;
   const x=c.getContext("2d");
   const g=x.createRadialGradient(32,32,0,32,32,32);
-  g.addColorStop(0,color);g.addColorStop(.35,color+"aa");g.addColorStop(1,color+"00");
+  g.addColorStop(0,color);g.addColorStop(.18,color+"d9");g.addColorStop(.45,color+"2e");g.addColorStop(1,color+"00"); // crispness pass: tight falloff, dot+halo not beach ball
   x.fillStyle=g;x.fillRect(0,0,64,64);
   sprites.set(color,c);return c;
 }
@@ -367,7 +367,7 @@ function startIntro(kbFailed){
 const tip=document.getElementById("tip");
 function w2s(x,y){return [(x-view.x)*view.k+W/2,(y-view.y)*view.k+H/2];}
 function s2w(px,py){return [(px-W/2)/view.k+view.x,(py-H/2)/view.k+view.y];}
-function radius(s){return Math.max(2.5,Math.min(15,3+2.2*Math.sqrt(s.deg||0)))*(s.super?2:1);}
+function radius(s){return Math.max(2,Math.min(9,2+1.5*Math.sqrt(s.deg||0)))*(s.super?1.5:1);} // crispness pass 2026-09-22: hubs capped at 9, no more suns
 function dimmed(s){
   if(isolated&&s.id!==isolated&&!simAdj.get(isolated)?.has(s.id))return true;
   if(pathNodes.length&&!pathNodes.includes(s.id))return true;
@@ -387,7 +387,7 @@ function render(now){
       const [sx,sy]=w2s(g.x,g.y),rr=r*view.k+26;
       if(sx>-rr&&sx<W+rr&&sy>-rr&&sy<H+rr){
         const gr=ctx.createRadialGradient(sx,sy,0,sx,sy,rr);
-        gr.addColorStop(0,g.c+"22");gr.addColorStop(.7,g.c+"0d");gr.addColorStop(1,g.c+"00");
+        gr.addColorStop(0,g.c+"18");gr.addColorStop(.7,g.c+"0a");gr.addColorStop(1,g.c+"00"); // crispness pass: faint background wash, never brighter than nodes
         ctx.fillStyle=gr;ctx.beginPath();ctx.arc(sx,sy,rr,0,7);ctx.fill();
         if(view.k>0.35){
           ctx.fillStyle=g.c+"aa";ctx.font="11px sans-serif";ctx.textAlign="center";
@@ -413,9 +413,9 @@ function render(now){
     if(x<-30||x>W+30||y<-30||y>H+30)continue;
     const r=radius(s)*view.k,d=dimmed(s);
     ctx.globalAlpha=d?0.07:1;
-    const gs=r*6;
+    const gs=r*3.2; // crispness pass 2026-09-22: was r*6 (lava lamp)
     ctx.drawImage(glow(s.gc),x-gs/2,y-gs/2,gs,gs);
-    ctx.beginPath();ctx.arc(x,y,Math.max(1.4,r*0.55),0,7);
+    ctx.beginPath();ctx.arc(x,y,Math.max(1.4,r*0.62),0,7);
     ctx.fillStyle=s.gc;ctx.fill();
     ctx.globalAlpha=1;
     const hot=(s===hovered||s===selected||pathNodes.includes(s.id));
