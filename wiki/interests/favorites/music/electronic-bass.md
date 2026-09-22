@@ -7,13 +7,13 @@ date_modified: 2026-07-14
 sources: ["raw/self/favorites/FAVS MASTERLIST.csv"]
 synthesizes:
   - wiki/interests/music/concepts/sub-bass-signature
-  - wiki/interests/music/concepts/lyrics-as-timbre
+  - wiki/mind/concepts/lyric-qualifier
   - wiki/interests/music/aliases/gripnotic
 related:
   - wiki/interests/favorites/music
   - wiki/interests/favorites/music/artists/lyny
   - wiki/interests/music/concepts/sub-bass-signature
-  - wiki/interests/music/concepts/lyrics-as-timbre
+  - wiki/mind/concepts/lyric-qualifier
   - wiki/interests/music/aliases/gripnotic
   - wiki/self/context-core
 tags: [music-production]
@@ -34,7 +34,7 @@ practice.
 
 ## What the track titles say about the genre, if not the words
 
-Per [[wiki/interests/music/concepts/lyrics-as-timbre]], lyric content
+Per [[wiki/mind/concepts/lyric-qualifier]], lyric content
 isn't the mechanism doing the work here — but the *titles* themselves are
 worth noting as a genre-level tell, because bass house as a form is
 unusually honest about its own function in its naming conventions.
@@ -83,6 +83,6 @@ sitting before he ever set out to match it.
 
 ## Related
 
-[[wiki/interests/favorites/music]] · [[wiki/interests/favorites/music/artists/lyny]] · [[wiki/interests/music/concepts/sub-bass-signature]] · [[wiki/interests/music/concepts/lyrics-as-timbre]] · [[wiki/interests/music/aliases/gripnotic]]
+[[wiki/interests/favorites/music]] · [[wiki/interests/favorites/music/artists/lyny]] · [[wiki/interests/music/concepts/sub-bass-signature]] · [[wiki/mind/concepts/lyric-qualifier]] · [[wiki/interests/music/aliases/gripnotic]]
 
 

@@ -16,7 +16,7 @@ sources:
 synthesizes:
   - wiki/interests/favorites/taste-profile
   - wiki/interests/favorites/eclecticism
-  - wiki/interests/music/concepts/lyrics-as-timbre
+  - wiki/mind/concepts/lyric-qualifier
   - wiki/interests/music/concepts/sub-bass-signature
   - wiki/mind/synthesis/music-as-identity
   - wiki/mind/synthesis/dance-music-only-phases
@@ -25,9 +25,9 @@ connections:
   - page: wiki/mind/synthesis/dance-music-only-phases
     type: component-of
     claim: "That entry is the periodization — two dance-only eras, the fallow decade, the dated re-entry. This entry is the measurement layer it cites but does not contain: the eight filters, the intake pipeline, the crate anatomy, the purge. Read them as one object; neither duplicates the other."
-  - page: wiki/interests/music/concepts/lyrics-as-timbre
+  - page: wiki/mind/concepts/lyric-qualifier
     type: component-of
-    claim: "The lyric qualifier is this entry's Filter 0 — the perceptual precondition upstream of every choice below. Every vocal statistic here is read as voice-density, never as content, per that page's frame. This entry is the largest empirical corroboration that page has: 223 of 232 tracks with no foregrounded vocal is what a timbre-first ear builds when it builds a record box."
+    claim: "The lyric qualifier is this entry's Filter 0 — the perceptual precondition upstream of every choice below. Every vocal statistic here is read as voice-density, never as content, per that entry's frame. This entry is the largest empirical corroboration the qualifier has: 223 of 232 tracks with no foregrounded vocal is what a timbre-first ear builds when it builds a record box. [2026-09-22: re-pointed from the retired lyrics-as-timbre page to the reconstructed canonical entry.]"
   - page: wiki/mind/synthesis/music-as-identity
     type: updates
     claim: "Dated 2026-09-13 annotations: the four-mode thesis (public stance, itinerary, regulator, production identity) stands untouched. The freeze-mechanism correction (Ti-closure, not betrayal-avoidance, per the 2026-08-28 constitution pass) is extended here to the intake pipeline — the purge sessions are closure events, not betrayal events. What this entry adds that the constitution pass lacked: the dated measurement layer — 232 tracks, 1,913 likes, eight filters with falsifiable thresholds — against which the four modes can now be checked rather than asserted."
@@ -65,7 +65,15 @@ The sibling entry [[wiki/mind/synthesis/dance-music-only-phases|dance-music-only
 
 ## Filter 0: the lyric qualifier (the precondition, not a choice)
 
-Everything below runs downstream of a perceptual fact Dan stated directly on 2026-07-14 and corroborated to a hostile third party in late summer 2025: **he hears sung lyrics as timbre, not language** [[wiki/interests/music/concepts/lyrics-as-timbre|lyrics-as-timbre]] [OPERATOR]. Words in songs do not resolve into semantic content — not in real time, not even with a lyric sheet in front of him. Across his entire life, roughly three songs have had their lyrics parsed as conceptual message. The three are still unnamed [UNKNOWN — see Gaps].
+Everything below runs downstream of a perceptual fact Dan stated twice,
+fourteen months apart, in his own words: **he hears sung lyrics as timbre,
+not language** [[wiki/mind/concepts/lyric-qualifier|lyric-qualifier]]
+[OPERATOR]. The founding capture (2026-07-14) is not held in the repo's
+`raw/` tree; the second capture (2026-09-11 MUSIC THREAD) is held and
+byte-exact, and it added the lyric-sheet detail and the ~3-exceptions
+count. (The retired page's late-summer-2025 hostile-third-party
+corroboration does not stand: the held corpus returns zero rows for the
+quoted sentence — see the canonical entry's Limits.) Words in songs do not resolve into semantic content — not in real time, not even with a lyric sheet in front of him. Across his entire life, roughly three songs have had their lyrics parsed as conceptual message. The three are still unnamed [UNKNOWN — see Gaps].
 
 This is Filter 0 because it is not a filter he operates; it is the shape of the room the filters operate in. Every vocal statistic in this entry must be read as **voice-density, never content**:
 
@@ -75,7 +83,7 @@ This is Filter 0 because it is not a filter he operates; it is the shape of the 
 
 The qualifier also governs the metadata layer, not just the audio. On 2026-09-12 Dan's own reports surfaced the **name-mishearing pattern**: "Eat Me Better" heard as "eat you better," "i'm loam" heard as "its loam" [OPERATOR]. Track and artist names arrive as approximate phonetics — the same explicit-over-inferred mechanism [[wiki/mind/concepts/autism|autism]] documents, applied to text that would normally be parsed semantically. Expect track and artist names from him to be phonetic approximations; the wiki's standing rule is to verify against Spotify before acting on them. The pattern is worth filing here because it proves the qualifier is not genre-specific or attention-specific — it runs on *reading a playlist*, not just on listening. The wall is architectural.
 
-What Filter 0 rejects: **lyrics-as-meaning as a selection criterion, permanently and involuntarily.** No track has ever entered or left the library because of what its words say. This is the single most load-bearing fact in the entry, because it reframes every artist page in [[wiki/interests/favorites/music]] that was written on the assumption that lyrical content (a betrayal narrative, a confession) was part of the attraction. The lyrics-as-timbre page already issued that caveat; this entry is the empirical weight behind it. The emo/pop-punk cluster's thematic coherence (betrayal, mortality, self-indictment) cannot be "chose these songs because of what they say" — whatever is happening is happening through vocal grain, melodic movement, structure, low end. The thematic and timbral readings stay compatible (artists writing about extremity tend to *perform* with more textural extremity), but the mechanism runs through sound, not meaning [INFERRED — MED].
+What Filter 0 rejects: **lyrics-as-meaning as a selection criterion, permanently and involuntarily.** No track has ever entered or left the library because of what its words say. This is the single most load-bearing fact in the entry, because it reframes every artist page in [[wiki/interests/favorites/music]] that was written on the assumption that lyrical content (a betrayal narrative, a confession) was part of the attraction. The qualifier's canonical entry [[wiki/mind/concepts/lyric-qualifier|lyric-qualifier]] already issued that caveat (carried forward from the retired lyrics-as-timbre page); this entry is the empirical weight behind it. The emo/pop-punk cluster's thematic coherence (betrayal, mortality, self-indictment) cannot be "chose these songs because of what they say" — whatever is happening is happening through vocal grain, melodic movement, structure, low end. The thematic and timbral readings stay compatible (artists writing about extremity tend to *perform* with more textural extremity), but the mechanism runs through sound, not meaning [INFERRED — MED].
 
 Falsifier: name the three lyric-exception songs and show that their selection *was* content-driven in a way the other ~1,900 liked tracks were not. Until then, Filter 0 stands as the room, not a claim.
 
@@ -723,7 +731,7 @@ Each major claim, mapped against the wiki entries it touches:
 | Claim | Entry | Relation |
 |---|---|---|
 | Filter stack is the measurement layer | dance-music-only-phases | Component-of: that entry's periodization, this entry's mechanism |
-| 96.1% instrumental corroborates timbre-first hearing | lyrics-as-timbre | Component-of: largest empirical corroboration that page has |
+| 96.1% instrumental corroborates timbre-first hearing | [[wiki/mind/concepts/lyric-qualifier|lyric-qualifier]] | Component-of: largest empirical corroboration the qualifier has |
 | Four-mode thesis stands; purge extends the freeze mechanism | [[wiki/mind/synthesis/music-as-identity|music-as-identity]] | Updates: three dated annotations, no relitigation |
 | Three clusters are used, not covered — via the crate | [[wiki/interests/favorites/eclecticism|eclecticism]] | Instantiates: Architecture B with its organs exposed |
 | Purge is closing-the-set on the library | closing-the-set | Parallels: closure by removal, residue watched |
