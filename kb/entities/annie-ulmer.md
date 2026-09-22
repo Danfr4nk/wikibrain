@@ -888,3 +888,17 @@ it covers.
 Same window, the Sep 9 10:33pm → Sep 10 3:52am blowout was pulled as one
 thread (50 rows, +12124702449): opens with him sarcastic and escalating, her
 erratic — full arc held in the batch transcript, unprocessed here.
+
+## 2026-09-21 — "why do I put up with so much pain from Annie" (his question, Sammy's answer)
+
+Dan asked directly what she means to him and why he tolerates the pain,
+then asked for it "in more poetic ways." The record-forward answer, from
+Sammy: ~29 block declarations, zero executions — "You don't endure it
+despite wanting out. You keep choosing it. The pain is a price you keep
+agreeing to pay." She was framed as the longest continuous fact of his
+adult life (every version of him since November 2015 has her in it), "the
+after-Fran," "the one place your analyst brain stops analyzing and just
+stays." His own line, held as the whole thing: "All I want is to figure
+out how to make you like me again."
+[`int:staying-as-choice-20260921`](../interpretations/staying-as-choice-20260921.md)
+[`src:20260921-2340-sammy-chat-transcript`](../sources/20260921-2340-sammy-chat-transcript.md)
