@@ -1,0 +1,6 @@
+{
+  "filter": [{
+    "query": "{from:cloudhq.net from:cloudhq.us from:cloudhq.io from:cloudhq-mkt11.us from:cloudhq-mkt12.us mailking}",
+    "labelsToAdd": ["Never send it to Spam", "Category Personal"]
+  }]
+}
