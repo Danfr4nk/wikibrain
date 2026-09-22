@@ -1,0 +1,40 @@
+{
+ "batch": "20260922-0230",
+ "pulled_at": "2026-09-22T06:41:00Z",
+ "watermark_from": "2026-09-21T23:43:09.177+00:00",
+ "watermark_to": "2026-09-22T06:30:00+00:00",
+ "counts": {
+  "rows": 438,
+  "user": 159,
+  "assistant": 279,
+  "truncated": 0,
+  "system_rows_excluded": 531,
+  "cumthread3_rows_excluded": 0
+ },
+ "notes": [
+  "byte-exact bodies; truncated:false for all rows (max body 2725 chars; extraction raised the row limit after page-2 output truncation)",
+  "secret scan: 0 hits across all 438 bodies (sk-/xai-/gsk_/ghp_/AKIA/bot-token regex sweep)",
+  "chat derivation mirrors batch 20260921-2340: channel_context_json.conversation_id else 'req:fallback:' || request_id — this window's request_ids already carried a req:fallback: prefix (background-worker requests), so chat values show the doubled prefix 'req:fallback:req:fallback:<uuid>'; derivation rule unchanged",
+  "instagram.json/spotify.json: external-check snapshots (subagent, 06:36-06:38Z); both NO CHANGE vs previous batch",
+  "media registry: upload-128..upload-161 (34 items); 2 ghost files (upload-135, upload-158) not eyeballed — flagged for re-check",
+  "previous window watermark 2026-09-21T23:43:09.177+00:00 advanced only after dual push"
+ ],
+ "files": {
+  "EXTRACT.md": {
+   "sha256": "bc3b6e2bf5642a589c6d5fc86f72b30a3f17d6aa8430a23eb14eb2360dd22328",
+   "bytes": 5948
+  },
+  "chats.json": {
+   "sha256": "1426ece32a48aad28250aa4347eb39a115ee35f6d462b4377dc44106288fafcb",
+   "bytes": 205067
+  },
+  "instagram.json": {
+   "sha256": "3e825bf33812f8a9359c08c55791f0b705c8545d998a519771a2576f64bcfba9",
+   "bytes": 1350
+  },
+  "spotify.json": {
+   "sha256": "006a15a9c8b9273021af33be5db4455d83189b1f0fa195c51e15f7daa8019166",
+   "bytes": 710
+  }
+ }
+}

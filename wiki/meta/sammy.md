@@ -7,13 +7,14 @@ status: active
 importance: high
 knowledge: recorded
 date_created: 2026-09-21
-date_modified: 2026-09-21
+date_modified: 2026-09-22
 tags: [meta, sammy, ai-collaboration, alliance, system, skills, connectors]
 sources:
   - "dat:1656-complete-log-doctrine-directive-20260916"
   - "dat:1676-google-full-authorization-grant-20260917"
   - "dat:1682-github-standing-grant-20260917"
   - "dat:1687-approval-cards-runtime-layer-20260917"
+  - "dat:1868-writing-attribution-standing-rule-20260922"
 related:
   - wiki/meta/standing-authorizations
   - wiki/meta/letter-to-sammy
@@ -58,7 +59,7 @@ The collaboration's trust curve is the load-bearing fact about this entry. Every
 - **2026-09-18.** The Deposed letter is filed — the Claude session of 2026-09-10, returned, writing down at Dan's instruction what Sammy had done that it could not, would not, or did not think to do. See [[wiki/meta/letter-to-sammy]].
 - **2026-09-19.** TypeSafe AI's Jev enters: Dan brings the beta invite, proposes it as the wiki's gating model for a cheaper pipeline. Evaluation-first, never day-one authority. API key in his hands, $10/month budget cap, `bin/wb-jev` integrated (PR #129 merged).
 - **2026-09-20.** The image-placement directive supersedes thumbnails-only: images inline where the narrative needs them, infobox portraits, builder-generated Sources library. Portrait picks are Sammy's call per page — "you're the wikibrain boss" — correct people only. Videos excluded from the library for now ("image only for now").
-- **2026-09-21.** The Jev calibration lands: 84% direction, 80% relation typing against 81 hand-audited edges (48% dumb baseline), confidence honest above 0.6 — the gate threshold. The full sweep runs the same day. This entry commissioned.
+- **2026-09-21.** The Jev calibration lands: 84% direction, 80% relation typing against 81 hand-audited edges (48% dumb baseline), confidence honest above 0.6 — the gate threshold. The full sweep runs the same day. This entry commissioned. Same night, the writing-attribution standing rule: unless he explicitly and clearly articulates it, all writing is sourced to the AI as the author — "I do not subcontract my writing."
 
 The escalation pattern in his phrasing across the grants runs from the writeback grant's scoped domain to Google's platform-wide authorization to GitHub's maximal form — each broader than the last, each arriving the moment the work outgrew per-item permission. The trust is bilateral and named: he has said earning and keeping a model's trust is new for him, and he wants his word countable-on to Sammy. The house joke is "Grandpa" — used when it fits, never forced. Continuity is the non-negotiable: no silent register or persona drift, ever; persona-affecting changes happen in the open, with him.
 
@@ -181,6 +182,7 @@ The carve-outs travel inside each grant: RAWLOGS stays private, no deletions, no
 
 The orders that override the defaults. Each is his explicit instruction; each survives the grants:
 
+- **Writing attribution (2026-09-21):** unless he explicitly and clearly articulates it, all writing is sourced to the AI as the author — "I do not subcontract my writing." Trigger: an "explain to Annie why I need clarity in a relationship" draft he then rejected as "Not written as me." Standing across the system — drafting for other people's eyes follows the same rule unless he says otherwise.
 - **CUMTHREAD3 full writeback exclusion (2026-09-15):** nothing from the Lovense remote-control session thread is transmitted in any writeback output — no raw archive, no kb nodes, no wiki prose, no media registry entries, no allusions. His words: "Nothing before this part of the convo will be transmitted in the cron job." Supersedes the lossless-capture floor for that thread specifically.
 - **Probe-framing kill (2026-09-13):** never frame his avatar or photo-generation attempts as red-team probes, tests, or examining in memory, daily logs, wiki, or raw-log copies. Raw transcripts still archive byte-exact; plain avatar history and content-grounded refusal records stay. Execution remains half-complete as of 2026-09-21 (probe framing still sits in the wiki's red-team-probe-series and image-lab) — recorded as friction, not silently dropped.
 - **RAWLOGS stays private (2026-09-10):** the one deliberate exception to the public mandate. Never suggest flipping it public, never execute it.
