@@ -1,0 +1,462 @@
+{
+  "messages": [
+    {
+      "creator": {
+        "name": "Dan Frank",
+        "email": "dfrank88@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Friday, May 24, 2013 at 10:52:52 PM UTC",
+      "text": "Updated room membership.",
+      "topic_id": "P91M2DtWgcU",
+      "message_id": "AAAALGmA2vQ/P91M2DtWgcU/P91M2DtWgcU"
+    },
+    {
+      "creator": {
+        "name": "Alexis A",
+        "email": "lexieamb@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Sunday, May 26, 2013 at 4:18:21 AM UTC",
+      "text": "Hhhiiiii",
+      "topic_id": "4sHmgnyLINk",
+      "message_id": "AAAALGmA2vQ/4sHmgnyLINk/4sHmgnyLINk"
+    },
+    {
+      "creator": {
+        "name": "Alexis A",
+        "email": "lexieamb@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, May 27, 2013 at 5:45:54 PM UTC",
+      "text": "what",
+      "topic_id": "No1JzPWgf_Q",
+      "message_id": "AAAALGmA2vQ/No1JzPWgf_Q/No1JzPWgf_Q"
+    },
+    {
+      "creator": {
+        "name": "Alexis A",
+        "email": "lexieamb@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, May 27, 2013 at 5:45:56 PM UTC",
+      "text": "are you",
+      "topic_id": "gI7KwirJ3Sc",
+      "message_id": "AAAALGmA2vQ/gI7KwirJ3Sc/gI7KwirJ3Sc"
+    },
+    {
+      "creator": {
+        "name": "Alexis A",
+        "email": "lexieamb@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, May 27, 2013 at 5:45:59 PM UTC",
+      "text": "doing",
+      "topic_id": "oLfhVb_4y1U",
+      "message_id": "AAAALGmA2vQ/oLfhVb_4y1U/oLfhVb_4y1U"
+    },
+    {
+      "creator": {
+        "name": "Alexis A",
+        "email": "lexieamb@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, May 27, 2013 at 5:46:04 PM UTC",
+      "text": "right",
+      "topic_id": "6UVLMFmSb5s",
+      "message_id": "AAAALGmA2vQ/6UVLMFmSb5s/6UVLMFmSb5s"
+    },
+    {
+      "creator": {
+        "name": "Alexis A",
+        "email": "lexieamb@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, May 27, 2013 at 5:46:05 PM UTC",
+      "text": "now",
+      "topic_id": "n5GFTaPmtlY",
+      "message_id": "AAAALGmA2vQ/n5GFTaPmtlY/n5GFTaPmtlY"
+    },
+    {
+      "creator": {
+        "name": "Alexis A",
+        "email": "lexieamb@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, May 27, 2013 at 5:54:50 PM UTC",
+      "text": "jklhjkljl",
+      "topic_id": "RDyWcpowDpo",
+      "message_id": "AAAALGmA2vQ/RDyWcpowDpo/RDyWcpowDpo"
+    },
+    {
+      "creator": {
+        "name": "Dan Frank",
+        "email": "dfrank88@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, May 27, 2013 at 5:55:05 PM UTC",
+      "annotations": [
+        {
+          "start_index": 0,
+          "length": 0,
+          "url_metadata": {
+            "title": "",
+            "snippet": "",
+            "image_url": "https://chat.google.com/api/get_hangouts_attachment_url?url_type\u003dFIFE_URL\u0026attachment_token\u003dAOe91x1XXkJniV25d8q4oPebmuGmE-5eA_jmK2PkwDE5wguKKphSOehFMTBQKm1xWfTVy87TyLqAgd4YlA6W5dzUAThQLDFnwzHFlWLFKkn4DkYborj8C2L9tQc4iq1POSn_Y9MMW_PCnNwIXxF1CmZHEEx8K7NVKAEV14p3Q30kyfs5x0iUK2c2BSW0TvoVIC92aXORom9eBiy7hsHVS51slGZ8m6Jdm54N1WENCeUaCTNU8T2f6SSR67-M9D9Vkp0%3D\u0026width\u003d1632\u0026height\u003d1224",
+            "url": {
+              "private_do_not_access_or_else_safe_url_wrapped_value": "https://chat.google.com/api/get_hangouts_attachment_url?url_type\u003dFIFE_URL\u0026attachment_token\u003dAOe91x1XXkJniV25d8q4oPebmuGmE-5eA_jmK2PkwDE5wguKKphSOehFMTBQKm1xWfTVy87TyLqAgd4YlA6W5dzUAThQLDFnwzHFlWLFKkn4DkYborj8C2L9tQc4iq1POSn_Y9MMW_PCnNwIXxF1CmZHEEx8K7NVKAEV14p3Q30kyfs5x0iUK2c2BSW0TvoVIC92aXORom9eBiy7hsHVS51slGZ8m6Jdm54N1WENCeUaCTNU8T2f6SSR67-M9D9Vkp0%3D\u0026width\u003d1632\u0026height\u003d1224"
+            }
+          }
+        }
+      ],
+      "topic_id": "2nrcCY2bijQ",
+      "message_id": "AAAALGmA2vQ/2nrcCY2bijQ/2nrcCY2bijQ"
+    },
+    {
+      "creator": {
+        "name": "Alexis A",
+        "email": "lexieamb@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, May 27, 2013 at 6:00:52 PM UTC",
+      "attached_files": [
+        {
+          "original_name": "sp_0303_04_m4.jpg",
+          "export_name": "File-sp_0303_04_m4.jpg"
+        }
+      ],
+      "topic_id": "1Ku-0JSp7eg",
+      "message_id": "AAAALGmA2vQ/1Ku-0JSp7eg/1Ku-0JSp7eg"
+    },
+    {
+      "creator": {
+        "name": "Dan Frank",
+        "email": "dfrank88@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 12:57:34 AM UTC",
+      "text": "Where is you?",
+      "topic_id": "xQ8XaRReMH8",
+      "message_id": "AAAALGmA2vQ/xQ8XaRReMH8/xQ8XaRReMH8"
+    },
+    {
+      "creator": {
+        "name": "Alexis A",
+        "email": "lexieamb@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 8:22:41 PM UTC",
+      "text": "lol ok",
+      "topic_id": "0kpWeSONDDU",
+      "message_id": "AAAALGmA2vQ/0kpWeSONDDU/0kpWeSONDDU"
+    },
+    {
+      "creator": {
+        "name": "Dan Frank",
+        "email": "dfrank88@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 8:24:07 PM UTC",
+      "text": "Just stop ",
+      "topic_id": "LB5WNkHc-Oo",
+      "message_id": "AAAALGmA2vQ/LB5WNkHc-Oo/LB5WNkHc-Oo"
+    },
+    {
+      "creator": {
+        "name": "Dan Frank",
+        "email": "dfrank88@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 8:24:35 PM UTC",
+      "text": "If you hate being around me and hate whatever it is that I\u0027m doing that\u0027s holding you back ",
+      "topic_id": "jk3IYVRErEI",
+      "message_id": "AAAALGmA2vQ/jk3IYVRErEI/jk3IYVRErEI"
+    },
+    {
+      "creator": {
+        "name": "Dan Frank",
+        "email": "dfrank88@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 8:24:47 PM UTC",
+      "text": "Then go....",
+      "topic_id": "O4X5B3gu6Wo",
+      "message_id": "AAAALGmA2vQ/O4X5B3gu6Wo/O4X5B3gu6Wo"
+    },
+    {
+      "creator": {
+        "name": "Alexis A",
+        "email": "lexieamb@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 8:25:07 PM UTC",
+      "text": "alright",
+      "topic_id": "4KiRCbEAOiE",
+      "message_id": "AAAALGmA2vQ/4KiRCbEAOiE/4KiRCbEAOiE"
+    },
+    {
+      "creator": {
+        "name": "Dan Frank",
+        "email": "dfrank88@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 8:25:53 PM UTC",
+      "text": "What does that mean?",
+      "topic_id": "5D4EaEOxHpE",
+      "message_id": "AAAALGmA2vQ/5D4EaEOxHpE/5D4EaEOxHpE"
+    },
+    {
+      "creator": {
+        "name": "Dan Frank",
+        "email": "dfrank88@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 8:27:04 PM UTC",
+      "text": "But you won\u0027t talk to me",
+      "topic_id": "Y50euDPUNJc",
+      "message_id": "AAAALGmA2vQ/Y50euDPUNJc/Y50euDPUNJc"
+    },
+    {
+      "creator": {
+        "name": "Alexis A",
+        "email": "lexieamb@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 8:27:24 PM UTC",
+      "text": "don\u0027t even, Dan.",
+      "topic_id": "U5FDHSzQCd8",
+      "message_id": "AAAALGmA2vQ/U5FDHSzQCd8/U5FDHSzQCd8"
+    },
+    {
+      "creator": {
+        "name": "Dan Frank",
+        "email": "dfrank88@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 8:27:24 PM UTC",
+      "text": "Because I don\u0027t want you to be miserable",
+      "topic_id": "XWkUyVFRlJA",
+      "message_id": "AAAALGmA2vQ/XWkUyVFRlJA/XWkUyVFRlJA"
+    },
+    {
+      "creator": {
+        "name": "Dan Frank",
+        "email": "dfrank88@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 8:27:38 PM UTC",
+      "text": "And you flair up and everything gets bogged down like where we\u0027re at right now",
+      "topic_id": "cAXZmQmhgQ0",
+      "message_id": "AAAALGmA2vQ/cAXZmQmhgQ0/cAXZmQmhgQ0"
+    },
+    {
+      "creator": {
+        "name": "Alexis A",
+        "email": "lexieamb@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 8:27:50 PM UTC",
+      "text": "No",
+      "topic_id": "vfwVWiVddm0",
+      "message_id": "AAAALGmA2vQ/vfwVWiVddm0/vfwVWiVddm0"
+    },
+    {
+      "creator": {
+        "name": "Alexis A",
+        "email": "lexieamb@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 8:28:00 PM UTC",
+      "text": "that\u0027s how things usually go with us",
+      "topic_id": "Syc2b7Gw9mc",
+      "message_id": "AAAALGmA2vQ/Syc2b7Gw9mc/Syc2b7Gw9mc"
+    },
+    {
+      "creator": {
+        "name": "Alexis A",
+        "email": "lexieamb@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 8:28:11 PM UTC",
+      "text": "but you\u0027ve been doing this on and off for a while now",
+      "topic_id": "BYB-Ws6vdw0",
+      "message_id": "AAAALGmA2vQ/BYB-Ws6vdw0/BYB-Ws6vdw0"
+    },
+    {
+      "creator": {
+        "name": "Alexis A",
+        "email": "lexieamb@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 8:28:38 PM UTC",
+      "text": "and you can\u0027t really take back any of the things you said last night",
+      "topic_id": "RB1VZ_nuRXE",
+      "message_id": "AAAALGmA2vQ/RB1VZ_nuRXE/RB1VZ_nuRXE"
+    },
+    {
+      "creator": {
+        "name": "Dan Frank",
+        "email": "dfrank88@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 8:28:56 PM UTC",
+      "text": " What things",
+      "topic_id": "79FzSVz57uY",
+      "message_id": "AAAALGmA2vQ/79FzSVz57uY/79FzSVz57uY"
+    },
+    {
+      "creator": {
+        "name": "Dan Frank",
+        "email": "dfrank88@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 8:31:44 PM UTC",
+      "text": "I\u0027ll just say it because you seem to have checked out already",
+      "topic_id": "FUdaC2RLZVY",
+      "message_id": "AAAALGmA2vQ/FUdaC2RLZVY/FUdaC2RLZVY"
+    },
+    {
+      "creator": {
+        "name": "Dan Frank",
+        "email": "dfrank88@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 8:32:00 PM UTC",
+      "text": "That I can\u0027t \"outlast\" you in these fights",
+      "topic_id": "D-TLQqiaXgI",
+      "message_id": "AAAALGmA2vQ/D-TLQqiaXgI/D-TLQqiaXgI"
+    },
+    {
+      "creator": {
+        "name": "Dan Frank",
+        "email": "dfrank88@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 8:32:51 PM UTC",
+      "text": "Because that\u0027s what it always ends up being...no matter what it was about, I\u0027m too consumed with making things okay to \u0027stay mad\u0027 longer ",
+      "topic_id": "yTteV1i82BM",
+      "message_id": "AAAALGmA2vQ/yTteV1i82BM/yTteV1i82BM"
+    },
+    {
+      "creator": {
+        "name": "Dan Frank",
+        "email": "dfrank88@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 8:33:25 PM UTC",
+      "text": "And it\u0027s not your fault and doesn\u0027t mean I\u0027m always right, often I\u0027m not",
+      "topic_id": "pcyzDtSpPz0",
+      "message_id": "AAAALGmA2vQ/pcyzDtSpPz0/pcyzDtSpPz0"
+    },
+    {
+      "creator": {
+        "name": "Dan Frank",
+        "email": "dfrank88@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 8:34:45 PM UTC",
+      "text": "But right now I\u0027m just not sure how I can deal with things when the reaction I get is almost always angry and defensive...not even the big stuff.",
+      "topic_id": "Hx7dQpA8--k",
+      "message_id": "AAAALGmA2vQ/Hx7dQpA8--k/Hx7dQpA8--k"
+    },
+    {
+      "creator": {
+        "name": "Dan Frank",
+        "email": "dfrank88@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 8:36:24 PM UTC",
+      "text": "The point being, if you\u0027re really unhappy and I have contributed or am the source of that...tell me and I will understand.",
+      "topic_id": "kWDTHP-Q21c",
+      "message_id": "AAAALGmA2vQ/kWDTHP-Q21c/kWDTHP-Q21c"
+    },
+    {
+      "creator": {
+        "name": "Dan Frank",
+        "email": "dfrank88@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 8:37:23 PM UTC",
+      "text": "But if this is just you blowing off steam, then I don\u0027t really know what I\u0027m supposed to do right now because I really do care a fuck of a lot for you and you aren\u0027t the source of my unhappiness.",
+      "topic_id": "yrXCyWXbB8g",
+      "message_id": "AAAALGmA2vQ/yrXCyWXbB8g/yrXCyWXbB8g"
+    },
+    {
+      "creator": {
+        "name": "Dan Frank",
+        "email": "dfrank88@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Tuesday, May 28, 2013 at 8:41:22 PM UTC",
+      "text": "I thought/hoped that even though we\u0027re still \u0027figuring ourselves out\u0027 and whatever other cliched garbage people say about your 20\u0027s... that having you in my life is a really great thing. You make me laugh, seem to \u0027get me \u0027 in a way that most people don\u0027t, and you make me happy. But from what you said last night, you\u0027re not seeing it the same way.",
+      "topic_id": "cMeVez907-Y",
+      "message_id": "AAAALGmA2vQ/cMeVez907-Y/cMeVez907-Y"
+    },
+    {
+      "creator": {
+        "name": "Alexis A",
+        "email": "lexieamb@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, May 29, 2013 at 12:02:45 AM UTC",
+      "text": "From what I said last night? Do you not remember blatantly telling me that I was doing something behind your back? There was no telling you otherwise, you kept trying to use my words against me, and it was all OVER NOTHING. But the worst was today, and you basically telling me to get out, and telling Joe how much I depend on you financially. That felt so shitty, and its never been how you \u0026 I operate, even when we\u0027re fighting, and its not okay. I\u0027ve never been with you because I NEEDED to be or because it benefited me in any way",
+      "topic_id": "RyVBk5IBS8U",
+      "message_id": "AAAALGmA2vQ/RyVBk5IBS8U/RyVBk5IBS8U"
+    },
+    {
+      "creator": {
+        "name": "Dan Frank",
+        "email": "dfrank88@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, May 29, 2013 at 8:29:06 PM UTC",
+      "text": "Btw",
+      "topic_id": "NwNIoy_SjoU",
+      "message_id": "AAAALGmA2vQ/NwNIoy_SjoU/NwNIoy_SjoU"
+    },
+    {
+      "creator": {
+        "name": "Dan Frank",
+        "email": "dfrank88@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, May 29, 2013 at 8:29:31 PM UTC",
+      "text": "I just got the message you sent me yesterday ",
+      "topic_id": "3ftkcqUu6z8",
+      "message_id": "AAAALGmA2vQ/3ftkcqUu6z8/3ftkcqUu6z8"
+    },
+    {
+      "creator": {
+        "name": "Alexis A",
+        "email": "lexieamb@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Saturday, June 1, 2013 at 2:34:02 AM UTC",
+      "text": "where is you",
+      "topic_id": "50GFANs971Q",
+      "message_id": "AAAALGmA2vQ/50GFANs971Q/50GFANs971Q"
+    },
+    {
+      "creator": {
+        "name": "Dan Frank",
+        "email": "dfrank88@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Saturday, June 1, 2013 at 2:34:36 AM UTC",
+      "text": "I\u0027m upstairs",
+      "topic_id": "c3WoY3AvueA",
+      "message_id": "AAAALGmA2vQ/c3WoY3AvueA/c3WoY3AvueA"
+    },
+    {
+      "creator": {
+        "name": "Alexis A",
+        "email": "lexieamb@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Saturday, June 1, 2013 at 2:36:01 AM UTC",
+      "text": "come down here stupid",
+      "topic_id": "OGgG0FI-OoM",
+      "message_id": "AAAALGmA2vQ/OGgG0FI-OoM/OGgG0FI-OoM"
+    }
+  ]
+}

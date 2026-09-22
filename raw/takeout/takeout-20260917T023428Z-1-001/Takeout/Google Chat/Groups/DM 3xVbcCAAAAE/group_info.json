@@ -1,0 +1,13 @@
+{
+  "members": [
+    {
+      "name": "Dan Frank",
+      "email": "dfrank88@gmail.com",
+      "user_type": "Human"
+    },
+    {
+      "name": "Lucidchart",
+      "user_type": "Bot"
+    }
+  ]
+}

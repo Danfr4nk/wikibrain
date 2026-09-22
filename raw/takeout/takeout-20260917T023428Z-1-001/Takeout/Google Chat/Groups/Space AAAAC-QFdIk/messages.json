@@ -1,0 +1,37 @@
+{
+  "messages": [
+    {
+      "creator": {
+        "name": "Dan Frank",
+        "email": "dfrank88@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, June 5, 2013 at 8:10:18 AM UTC",
+      "text": "Updated room membership.",
+      "topic_id": "vHcRGWLjat8",
+      "message_id": "AAAAC-QFdIk/vHcRGWLjat8/vHcRGWLjat8"
+    },
+    {
+      "creator": {
+        "name": "Alexis A",
+        "email": "lexieamb@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, June 5, 2013 at 8:46:36 AM UTC",
+      "text": "Test",
+      "topic_id": "zreowSecacc",
+      "message_id": "AAAAC-QFdIk/zreowSecacc/zreowSecacc"
+    },
+    {
+      "creator": {
+        "name": "Logan Dunlap",
+        "email": "logancdunlap1@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Sunday, August 4, 2013 at 8:20:34 PM UTC",
+      "text": "Updated room membership.",
+      "topic_id": "_DF71VpWLOo",
+      "message_id": "AAAAC-QFdIk/_DF71VpWLOo/_DF71VpWLOo"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Group Chat",
+  "members": [
+    {
+      "name": "James Cody",
+      "email": "JCody555@gmail.com",
+      "user_type": "Human"
+    },
+    {
+      "name": "Jerad Friedline",
+      "email": "JFriedline@gmail.com",
+      "user_type": "Human"
+    },
+    {
+      "name": "Nannarb 2",
+      "email": "joshskis@gmail.com",
+      "user_type": "Human"
+    },
+    {
+      "name": "Jamin Gilbert",
+      "email": "ishlabmusic@gmail.com",
+      "user_type": "Human"
+    },
+    {
+      "name": "Ryan Stout",
+      "email": "iride9thward@gmail.com",
+      "user_type": "Human"
+    },
+    {
+      "name": "Oscar Lindquist",
+      "email": "oscar.e.lindquist@gmail.com",
+      "user_type": "Human"
+    },
+    {
+      "name": "Nathan King",
+      "email": "Queen489@gmail.com",
+      "user_type": "Human"
+    },
+    {
+      "name": "Suzanne Frank",
+      "email": "suzfrank915@gmail.com",
+      "user_type": "Human"
+    },
+    {
+      "name": "Dan Frank",
+      "email": "dfrank88@gmail.com",
+      "user_type": "Human"
+    },
+    {
+      "name": "Jeb",
+      "email": "JebSkis@gmail.com",
+      "user_type": "Human"
+    },
+    {
+      "name": "Shane Brannan",
+      "email": "shanel3rannan@gmail.com",
+      "user_type": "Human"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "messages": [
+    {
+      "creator": {
+        "name": "Lucidchart",
+        "user_type": "Bot"
+      },
+      "created_date": "Thursday, July 10, 2025 at 11:43:51 PM UTC",
+      "text": "Hi, Dan Frank! 👋 Welcome to the Lucidchart app for chat.\n\n*To share a document:*\nPaste your document link in any chat space or direct message.\n\n*To search for documents:*\nPress the plus icon next to the message input, type in Lucidchart, and select Lucid quick search.",
+      "annotations": [
+        {
+          "start_index": 59,
+          "length": 1,
+          "format_metadata": {
+            "format_type": "HIDDEN"
+          }
+        },
+        {
+          "start_index": 60,
+          "length": 20,
+          "format_metadata": {
+            "format_type": "BOLD"
+          }
+        },
+        {
+          "start_index": 80,
+          "length": 1,
+          "format_metadata": {
+            "format_type": "HIDDEN"
+          }
+        },
+        {
+          "start_index": 145,
+          "length": 1,
+          "format_metadata": {
+            "format_type": "HIDDEN"
+          }
+        },
+        {
+          "start_index": 146,
+          "length": 24,
+          "format_metadata": {
+            "format_type": "BOLD"
+          }
+        },
+        {
+          "start_index": 170,
+          "length": 1,
+          "format_metadata": {
+            "format_type": "HIDDEN"
+          }
+        }
+      ],
+      "topic_id": "Y2Iv2D_Sx0w",
+      "message_id": "3xVbcCAAAAE/Y2Iv2D_Sx0w/Y2Iv2D_Sx0w"
+    }
+  ]
+}

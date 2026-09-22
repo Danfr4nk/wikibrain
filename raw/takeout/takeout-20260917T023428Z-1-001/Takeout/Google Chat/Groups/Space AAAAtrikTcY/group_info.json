@@ -1,0 +1,20 @@
+{
+  "name": "Group Chat",
+  "members": [
+    {
+      "name": "Alexis A",
+      "email": "lexieamb@gmail.com",
+      "user_type": "Human"
+    },
+    {
+      "name": "Landon Dunlap",
+      "email": "ldunlap400@gmail.com",
+      "user_type": "Human"
+    },
+    {
+      "name": "Dan Frank",
+      "email": "dfrank88@gmail.com",
+      "user_type": "Human"
+    }
+  ]
+}
