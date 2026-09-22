@@ -128,6 +128,13 @@ recipient all verbatim)
   ([`dat:0074`](../data/0074-morgantown-housing-state-august-2026.md)).
 - **2026-08-11:** *"It's time for you to go."* — inbound from Suz, verified
   verbatim ([`dat:1257`](../data/1257-suzanne-assessment-quote-audit.md)).
+- **2026-09-21:** Dan made Suz a morning coffee; she gave him a single-use
+  portion of her own cocaine in exchange. He confirmed it was real, not a
+  bit, when asked straight. First 2026-dated instance of her supplying from
+  her own kept stock, and the first documented coffee-for-line barter —
+  consistent with the long-documented supply role (Nov 30, 2015 05:02
+  message; 2015–16 routine provision listing; Dec 31, 2015)
+  ([`dat:1861`](../data/1861-suzanne-frank-cocaine-coffee-exchange-20260921.md)).
 
 ## Contradictions and open questions
 

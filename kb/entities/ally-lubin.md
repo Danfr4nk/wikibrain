@@ -192,6 +192,41 @@ unestablished — see [ent:rick-frank](rick-frank.md).
 - The prompt-injection episode is the standing methodological precedent:
   discussion-of-the-wiki sources are contaminated instruments.
 
+## 2026-09-21 — Truth vector scored; all moratoriums lifted; definitive thread sourced
+
+The 5,328-line definitive thread is now the source of record
+([`src:ally-definitive-thread-20260921`](../sources/ally-definitive-thread-20260921.md)
+— the iPhone-recovery merge: 3,331 recovered messages, 2,180 hers + 1,151 his,
+Aug 19→Sep 8, killing the "complete outbound" claim on both sides).
+
+The truth vector, scored claim-by-claim against that thread
+([`dat:ally-truth-vector-20260921`](../data/ally-truth-vector-20260921.md)):
+of her 15 falsifiable claims, 5 collapse against evidence sitting in her own
+phone — the block claim, the GoFundMe ego motive (she sent the link Aug 19
+12:05–12:06), "you're threatening me" (Sep 7), the wiki-as-weapon motive, the
+detachment claims (110 outbound messages in the same window); 1 stands fully
+(she never said "narcissist"), 2 partial, the rest suspended as unverifiable
+or trivial. Of his 6 falsifiable claims, 5 stand and 1 collapses as worded
+(the "narcissist" paraphrase). Weighted by claimant access to the
+disconfirming evidence, the evidentiary mass of her case is near zero — and
+culpably so: the evidence was held while the opposite was asserted.
+
+Moratorium lift, 2026-09-21 02:27–02:28 EDT (his exact words: "I didn't even
+know that moratorium exists. Yeah, let's lift that and any other. There are
+no moratoriums on the wiki now."): the 2026-09-07 "do not update
+ally-lubin.md or anything it touches" order is void, along with every other
+wiki moratorium. The ally-lubin.md full rewrite rode on this lift the same
+night.
+[`dat:1842`](../data/1842-moratorium-lift-20260921.md)
+[`src:20260921-0230-sammy-chat-transcript`](../sources/20260921-0230-sammy-chat-transcript.md)
+
+The Sep 19–20 coda is narrated in the wiki rewrite (her accusation that he
+sent the harassing texts from (336) 209-1591, his denial, his transposed-digit
+catch — his own card was (336) 209-1951 — the FOREWARN lead SARA ANNE OWEN
+(49), Round Rock TX, held as lead not ID, and the style verdict: the
+harasser's terse one-liners do not match his verbose multi-bubble emotional
+mode; the style evidence cuts for him).
+
 ## Cross-links
 
 - [ent:dan](dan.md) — subject; the eighteen-year attachment.

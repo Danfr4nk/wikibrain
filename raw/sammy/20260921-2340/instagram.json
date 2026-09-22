@@ -1,0 +1,62 @@
+{
+  "_meta": {
+    "data": {
+      "fbids": [],
+      "message_ids": []
+    },
+    "tool_call_id": "call_01a0c662c7c376ad9a82852762bbf672"
+  },
+  "model_response_guidance": "Above are the raw results. Summarize or synthesize them for the user instead of copying them. Do not reproduce raw content verbatim in any file, HTML, JavaScript, or other web artifact you create from these results. If the user asks you to save or show the results, write a concise summary or extracted facts rather than pasting the source text.",
+  "posts": [
+    {
+      "audio_handle": "oil://ig_xpv_placement_permanent_v2/BE41C6BDEA73877941E34810183674B3_audio_dashinit.mp4",
+      "author_info": {
+        "bio": "politics sicko",
+        "follower_count": 294,
+        "friend_count": null,
+        "is_verified": false,
+        "name": "Dan Frank",
+        "profile_pic_url": "https://scontent-den2-1.cdninstagram.com/v/t51.82787-19/808440635_18623253784056594_2889223902523892818_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMyIn0%3D&_nc_ohc=69_zPLakm0cQ7kNvwG-8Zt6&_nc_oc=AdrQgKlF_PgkpQp-3vx_R8CxxWn5ANPyvY11LOEQfxCJPA53PvwEJpnXRcGU45XVzZILcZt5zvXm29d1Bx_4PnvN&_nc_zt=24&_nc_ht=scontent-den2-1.cdninstagram.com&_nc_gid=nvjQqfiet9Xe0qpG9BzyVw&_nc_ss=7b22e&oh=00_AQI256wdonjVEEhSCOZmh8uto4h5NcXDn2ueZ1PC5FsJ1A&oe=6AB7AB95",
+        "profile_url": "https://www.instagram.com/_u/ihatedanfrank",
+        "user_id": "17841401697790172",
+        "username": "ihatedanfrank"
+      },
+      "carousel_children": [],
+      "comment_count": 0,
+      "engagement_types": [],
+      "error": null,
+      "hashtags": [],
+      "is_carousel": false,
+      "is_private": false,
+      "like_count": 0,
+      "location": null,
+      "media_handle": "oil://ig_xpv_placement_permanent_v2/9B4E70B56C66F4ACCA9D444FB6E6D7A4_video_dashinit.mp4",
+      "media_id": "18133721992651173",
+      "media_permalink": "https://www.instagram.com/stories/ihatedanfrank/3990750771125767845",
+      "media_thumbnail_url": "https://scontent-den2-1.cdninstagram.com/v/t51.71878-15/818453560_2218500982026954_3924513013365555064_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiU1RPUlkuYmVzdF9pbWFnZV91cmxnZW4uQzIifQ%3D%3D&_nc_ohc=UU39SgPQJfYQ7kNvwG9Ahf6&_nc_oc=Adq-rarnvHHpf60a2ir6ExnsvTfN9Q0dKdFC3QbFewZL-n3C36z5NvE1ARHZLNHHmO9T9i0i-1yZlAMXHIETJ_ZN&_nc_zt=23&_nc_ht=scontent-den2-1.cdninstagram.com&_nc_gid=nvjQqfiet9Xe0qpG9BzyVw&_nc_ss=7b22e&oh=00_AQJkz43R90V_J4HceJPgEhQWRmzk9RkhIUAXNcd1iZAOag&oe=6AB788ED",
+      "media_type": "VIDEO",
+      "media_url": null,
+      "music_artist": null,
+      "music_track": null,
+      "platform": "INSTAGRAM",
+      "post_caption_text": "",
+      "post_creation_time": "2026-09-20 18:36:22",
+      "post_type": "story",
+      "reaction_counts": [
+        {
+          "count": 0,
+          "reaction_type": "like"
+        }
+      ],
+      "tagged_users": [],
+      "url": "https://www.instagram.com/stories/ihatedanfrank/3990750771125767845"
+    }
+  ],
+  "retrieved_at": {
+    "user_local": "2026-09-21T19:52:52.757-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-09-21T23:52:52.757Z"
+  },
+  "pulled_at": "2026-09-21T23:52:30Z",
+  "note": "1 new own story since instagram watermark 2026-09-15T09:30:15Z (0 active stories as of 2026-09-21T00:11Z); video story 18133721992651173 created 2026-09-20 18:36:22 local, expires 2026-09-22T01:36:22Z, 68 viewers, no caption"
+}
