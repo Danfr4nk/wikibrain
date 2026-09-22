@@ -1,30 +1,30 @@
 ---
 domain: people
 page_type: entity
-title: "Garrett"
-aliases: []
+title: "Garrett Gates"
+aliases: ["Garrett"]
 status: active
 knowledge: earned
 importance: normal
 date_created: 2026-08-23
-date_modified: 2026-08-23
+date_modified: 2026-09-22
 date_range_start: 2016-04-06
 date_range_end: 2025-08-02
 tags: [family, relationships, uniontown-era]
 infobox:
-  name: Garrett
+  name: Garrett Gates
   type: Annie's brother-in-law — Claire's husband
   relationship_to_dan: partner's brother-in-law
   first_contact: 2016-04-06
   location: Uniontown area
-  notes: "Ten mentions in eleven years; surname unrecorded"
+  notes: "Ten mentions in eleven years; surname Gates confirmed by Dan 2026-09-22"
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt
   - raw/self/message-csv/imessage_2124702449_both_all_now.csv
 connections:
   - page: wiki/people/claire-ulmer
     type: component-of
-    claim: "Establishes that Claire is married — 'Claire and Garrett are here', 'garretts wife' — which is what makes her surname, and therefore her children's, unrecoverable from the corpus and keeps four pages filed under single names."
+    claim: "Establishes that Claire is married — 'Claire and Garrett are here', 'garretts wife'. The corpus never gave his surname; Dan supplied it 2026-09-22: Gates (Claire Ulmer-Gates, Alice Gates, Otto Gates)."
 ---
 
 # Garrett
@@ -36,13 +36,14 @@ years**, which is remarkably little for someone standing that close to the centr
 of the relationship, and the thinness is itself the most informative thing about
 him.
 
-**He is the reason four pages in this wiki are filed under single names.** The
+**He was the reason four pages in this wiki were filed under single names.** The
 corpus establishes that Claire is married — *"Hahah idk um garretts wife"*
 (2017-01-19), *"Claire and Garrett are here"* (2018-10-21) — but never once gives
-his surname, and so never gives Claire's married name or their children's.
-[[wiki/people/claire-ulmer]] has carried *"surname (presumably Ulmer, unconfirmed
-— she may be married)"* as a gap since it was written; **she is married, the
-presumption is probably wrong, and the corpus cannot supply the replacement.**
+his surname, and so never gave Claire's married name or their children's.
+[[wiki/people/claire-ulmer]] carried *"surname (presumably Ulmer, unconfirmed
+— she may be married)"* as a gap since it was written. **Resolved 2026-09-22 by
+Dan: Gates.** Claire is Claire Ulmer-Gates; the children are Alice Gates and
+Otto Gates.
 
 ## What is known
 
@@ -73,7 +74,7 @@ politics section for a man who has none in this corpus.
 
 ## Gaps
 
-1. **Surname** — the one fact that would resolve Claire, Alice and Otto at once.
+1. **Surname** — resolved 2026-09-22 by Dan: **Gates**.
 2. **When they married**, and whether Dan attended. Nothing in the corpus.
 3. **What the "show" is.** One word from the operator.
 4. **Whether Dan has any independent relationship with him.** On this record,

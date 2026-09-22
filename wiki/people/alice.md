@@ -1,8 +1,8 @@
 ---
 domain: people
 page_type: entity
-title: "Alice"
-aliases: []
+title: "Alice Gates"
+aliases: ["Alice"]
 status: active
 knowledge: earned
 importance: normal
@@ -12,12 +12,12 @@ date_range_start: 2023-10-28
 date_range_end: 2026-08-25
 tags: [family, relationships, uniontown-era]
 infobox:
-  name: Alice
+  name: Alice Gates
   type: Annie's niece — daughter of Claire and Garrett
   relationship_to_dan: partner's niece; never met in the documented record
   first_contact: 2023-10-28
   location: Uniontown area
-  notes: "Surname unrecorded; Claire's married name is not in the corpus"
+  notes: "Surname Gates confirmed by Dan 2026-09-22"
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt
   - raw/self/message-csv/imessage_2124702449_both_all_now.csv
@@ -96,8 +96,7 @@ untouched.
 
 ## Gaps
 
-1. **Surname.** Claire's married name is nowhere in the corpus. One sentence
-   from the operator resolves Alice, Otto, Waylon and Claire together.
+1. **Surname.** Resolved 2026-09-22 by Dan: **Gates** — Alice Gates, daughter of Claire Ulmer-Gates and Garrett Gates.
 2. **Exact birth date.** Inferred as ~2019–2020 from a single retrospective
    remark, corroborated by the August 2026 school start. A birthday message would
    fix it.

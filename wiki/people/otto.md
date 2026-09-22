@@ -1,8 +1,8 @@
 ---
 domain: people
 page_type: entity
-title: "Otto"
-aliases: []
+title: "Otto Gates"
+aliases: ["Otto"]
 status: active
 knowledge: earned
 importance: normal
@@ -12,12 +12,12 @@ date_range_start: 2023-10-29
 date_range_end: 2026-09-17
 tags: [family, relationships, uniontown-era]
 infobox:
-  name: Otto
+  name: Otto Gates
   type: Annie's nephew — son of Claire and Garrett
   relationship_to_dan: partner's nephew; no documented meeting
   first_contact: 2023-10-29
   location: Uniontown area
-  notes: "Younger than Alice; surname unrecorded"
+  notes: "Younger than Alice Gates; surname Gates confirmed by Dan 2026-09-22"
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt
   - raw/self/message-csv/imessage_2124702449_both_all_now.csv
@@ -71,7 +71,7 @@ here and on [[wiki/people/claire-ulmer]] rather than lost.
 
 ## Gaps
 
-1. **Surname**, as for Alice — Claire's married name is not in the corpus.
+1. **Surname**, as for Alice — resolved 2026-09-22 by Dan: **Gates**.
 2. **Birth year.** Late-October birthday established; the year is not. The nap
    schedule in March 2025 suggested roughly 2–4 years old, placing birth around
    2021–2023 — and the September 2026 school pickup is consistent with that, but
