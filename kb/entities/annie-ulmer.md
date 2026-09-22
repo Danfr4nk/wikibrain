@@ -902,3 +902,28 @@ stays." His own line, held as the whole thing: "All I want is to figure
 out how to make you like me again."
 [`int:staying-as-choice-20260921`](../interpretations/staying-as-choice-20260921.md)
 [`src:20260921-2340-sammy-chat-transcript`](../sources/20260921-2340-sammy-chat-transcript.md)
+
+## 2026-09-22 — the clarity letter ("I can handle bad. I can't handle maybe")
+
+Dan had Sammy draft a letter to Annie explaining why he needs clarity in a
+relationship and how that need has played out across the eleven years. The
+letter's core, in his framing: he needs the words they say to each other to
+mean what they say — "we're done" has to be true, or it has to be "I'm
+angry and I don't mean it" — because he takes her at her word and then the
+opposite happens, and he ends up not knowing what's real. The cycle as he
+named it: "Blocked," and they're texting the next day; "It's over," then "I
+love you" a week later; every round leaves him less sure where he stands,
+and then he starts demanding answers, which she reads as controlling, when
+he says he's just trying to find the floor. The closing line he kept: "I
+can't do another year of reading tea leaves. Tell me what it is, even if
+it's bad. I can handle bad. I can't handle maybe."
+
+He then rejected the as-Dan draft ("No - easier to read. Not written as
+me"), had it rewritten in the third person, and set the standing rule that
+all Sammy writing is AI-authored unless he explicitly says otherwise
+([`dat:1878`](../data/1878-writing-attribution-standing-rule-20260922.md)).
+Whether the letter was ever sent is unrecorded in-window. His self-account
+here is consistent with the long record of ambiguity-spiral episodes; it is
+also self-serving in the usual way (the "controlling" reading gets
+re-framed as floor-finding), so both readings stay on the ledger.
+[`src:20260922-1140-sammy-chat-transcript`](../sources/20260922-1140-sammy-chat-transcript.md)

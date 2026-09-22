@@ -120,3 +120,24 @@ surfaces that have neither.
 `confidence` stays `moderate`. One falsifier spent against, two unspent, and the
 third — that the pattern fails to appear in the 480 unextracted pages — is still
 the one that would settle it.
+
+## 2026-09-22 — live instance: the workbench `sessions.det.run` misdiagnoses
+
+Two confident wrong diagnoses in one night, both closed by the operator,
+both fitting this pattern exactly. The workbench body-outline card shipped
+but every run died on `sessions.det.run` / "Undefined is not an object."
+Sammy first diagnosed a stale tab, then deploy lag — each stated with full
+confidence, each wrong. Dan closed both from the operator seat: "I just did
+it in 3 browsers" (killed the stale-tab theory empirically) and "Sammy if
+you don't fix anything nothing is going to change lol it's the same error"
+(killed the deploy-lag theory). The real cause — the memory-fix refactor
+passing the bare detection session where the shared detector expects
+`{det: session}`, the string living in the kinship pipeline file so greps
+missed it — surfaced only after both confident diagnoses were falsified by
+observation. Textbook unguarded path: no gate re-derives the diagnosis
+independently, so the confident error stood until the operator supplied the
+missing piece. Sammy owned both misses same-turn ("You were right, I was
+wrong"), which is the closure mechanism this pattern's counterexamples
+describe.
+[`dat:1871-workbench-facial-anchor-commission-20260922`](../data/1871-workbench-facial-anchor-commission-20260922.md)
+[`src:20260922-1140-sammy-chat-transcript`](../sources/20260922-1140-sammy-chat-transcript.md)
