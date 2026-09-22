@@ -4,7 +4,7 @@ page_type: concept
 title: "Lyrics as Timbre"
 status: active
 date_created: 2026-07-14
-date_modified: 2026-09-18
+date_modified: 2026-09-22
 knowledge: earned
 sources:
   - raw/self/captures/2026-07-14-lyrics-as-timbre.md
@@ -35,6 +35,16 @@ connections:
 ---
 
 # Lyrics as Timbre
+
+**[SUPERSEDED 2026-09-22:** this page is retired as the canonical
+carrier of the concept. It is superseded by
+[[wiki/mind/concepts/lyric-qualifier]] — a full reconstruction at
+article minimums (3,400+ words) built on the second direct capture
+(2026-09-11 MUSIC THREAD, held and byte-exact), the phonetic-production
+series, the AUTOPSY/hook2piano operationalization record, and the
+gripnotic-revival resolution. This page's honest single-source framing
+is preserved in the new entry's Limits section. Kept for the record;
+do not extend.**]**
 
 Dan does not hear or process sung lyrics as language in real time — he
 stated this directly (2026-07-14): words in a song register to him
