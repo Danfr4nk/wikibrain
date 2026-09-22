@@ -17,3 +17,7 @@ date   = "2026-09-21"
 +++
 
 <!-- prose for humans; the frontmatter is for machines -->
+
+## Correction / addition 2026-09-22 (external-check subagent report)
+
+The external-check subagent resolved the timestamp and added engagement figures: posted **2026-09-20 18:36:22 EDT**, expires **2026-09-22 01:36:22Z**, **68 viewers** at check time. Thumbnail CDN download failed (URL signature mismatch) — metadata only, as originally recorded. Note the tension: the prior check at 2026-09-21T00:11Z reported 0 active own stories, yet this story's posted timestamp (2026-09-20T22:36:22Z) predates it — either the post went up later than the listing claims or the 00:11Z check missed it; unresolved.
