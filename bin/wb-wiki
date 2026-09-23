@@ -1181,7 +1181,8 @@ articles — nodes, typed edges and the layer rule
 on every article; the evidence layers carry the fine-grained citation graph.</div>
 <p class="machine">Machine-readable: <a href="llms.txt">llms.txt</a> ·
 <a href="graph.json">graph.json</a> · <a href="wiki-index.json">article index</a> ·
-<a href="agent/wiki.json">agent mirror</a></p>
+<a href="agent/wiki.json">agent mirror</a> ·
+<a href="agent/START-HERE.md">agent start here</a></p>
 </div>
 <div class="footer">Wiki Brain — {len(pages)} articles rendered from wiki/</div>
 <script>
@@ -1407,6 +1408,42 @@ def build_agent_mirror(out: pathlib.Path, pages: list[dict]) -> list[dict]:
     (out / "agent" / "wiki.json").write_text(
         json.dumps(records, indent=1) + "\n", encoding="utf-8")
 
+    # Plain-text menu: one article per line, no JSON parsing needed.
+    # Format: title | agent_url
+    (out / "agent" / "index.txt").write_text(
+        "\n".join(f"{r['title']} | {r['agent_url']}"
+                   for r in sorted(records, key=lambda r: r["title"].lower()))
+        + "\n", encoding="utf-8")
+
+    # Dead-simple instructions for the weakest reader. Plain markdown,
+    # three steps, no jargon.
+    (out / "agent" / "START-HERE.md").write_text(
+        f"""# Wiki Brain — agent start here
+
+This is the agent mirror of the Wiki Brain: {len(records)} articles about one
+person (Dan Frank). Each article carries the same information as the
+human-readable version, structured for fast machine consumption.
+
+## Use this in 3 steps
+
+1. Pick what to read. Simplest menu is the plain-text index:
+   {AGENT_BASE}/agent/index.txt
+   One article per line: `title | url`. No JSON parsing needed.
+   (JSON version, if you prefer it: {AGENT_BASE}/agent/wiki.json)
+2. Fetch the article URL. Every article is plain markdown. No JavaScript,
+   no login, no cookies.
+3. Each article starts with metadata and a summary, then entities,
+   connections, and the full text. If you only receive the first part,
+   you still have the essentials.
+
+## Rules of this corpus
+
+- Every agent article is derived from the human article at build time.
+  Same information, different form. They cannot disagree.
+- Confidence and knowledge state are labeled on every article. Trust the labels.
+- Human versions live under {AGENT_BASE}/wiki/ — same tree, .html instead of .md.
+""", encoding="utf-8")
+
     block = "\n".join([
         LLMS_BLOCK_START, "",
         "## Wiki articles — agent mirrors", "",
@@ -1415,6 +1452,8 @@ def build_agent_mirror(out: pathlib.Path, pages: list[dict]) -> list[dict]:
         "index, connections, section outline, full text). Derived deterministically at",
         "build time from the human article — never separately authored, so the two",
         "surfaces cannot drift.", "",
+        f"- [START HERE — read this first]({AGENT_BASE}/agent/START-HERE.md)", "",
+        f"- [Plain-text article index, one per line]({AGENT_BASE}/agent/index.txt)", "",
         f"- [Article index (JSON)]({AGENT_BASE}/agent/wiki.json)", "",
         *[f"- [{r['title']}]({r['agent_url']}): {r['summary'] or '(no summary)'}"
           for r in sorted(records, key=lambda r: r["title"].lower())],
