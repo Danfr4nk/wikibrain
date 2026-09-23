@@ -43,7 +43,7 @@ from importlib.machinery import SourceFileLoader
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 KB = ROOT / "kb"
 OUT = ROOT / "site"
-BASE_URL = "https://danfr4nk.github.io/wikitest"
+BASE_URL = "https://danfr4nk.github.io/wikibrain"
 
 _validate = SourceFileLoader("wb_validate", str(ROOT / "bin" / "wb-validate")).load_module()
 load_nodes = _validate.load_nodes
