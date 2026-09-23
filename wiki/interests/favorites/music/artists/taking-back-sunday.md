@@ -11,7 +11,7 @@ related:
   - wiki/interests/favorites/music/artists/fall-out-boy
   - wiki/self/context-core
   - wiki/mind/concepts/attachment-model
-  - wiki/interests/music/concepts/lyrics-as-timbre
+  - wiki/mind/concepts/lyric-qualifier
 changelog:
   - 2026-07-14: Full rewrite from stub. Added Tell All Your Friends betrayal-narrative context, direct thematic connection to attachment/betrayal patterns.
 tags: [personality-profile, trauma-bond]
@@ -48,7 +48,7 @@ the debut would have first been discovered.
 
 > **Caveat:** Dan does not process sung lyrics as language while
 > listening — words register as timbre, not semantic content (see
-> [[wiki/interests/music/concepts/lyrics-as-timbre]]). Knowledge of the
+> [[wiki/mind/concepts/lyric-qualifier]]). Knowledge of the
 > Nolan/Lazzara betrayal is near-certainly contextual (it's one of the
 > genre's most famous backstories) rather than reconstructed from parsing
 > the lyrics during playback — this doesn't undercut the track-selection

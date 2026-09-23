@@ -20,7 +20,7 @@ related:
   - wiki/timeline/events/teen-concert-years
   - wiki/self/context-core
   - wiki/mind/psychosexual/developmental-origins
-  - wiki/interests/music/concepts/lyrics-as-timbre
+  - wiki/mind/concepts/lyric-qualifier
 changelog:
   - 2026-07-16: Major expansion. Added the 2007 touring record (3 shows + TRL taping), the Buffalo "Schrute Farms" secret show + Take-This-To-Your-Grave-in-full ChatGPT confirmation, the Folie-à-Deux cutoff / post-hiatus disavowal, and the teen-identity framing. Retained the deep-cut analysis.
   - 2026-07-14: Full rewrite from stub. Added track-specific analysis, deep-cut pattern, self-mythology reading.
@@ -146,7 +146,7 @@ Catch, Donnie."
 
 > **Caveat:** Dan does not process sung lyrics as language while
 > listening — words register as timbre, not semantic content (see
-> [[wiki/interests/music/concepts/lyrics-as-timbre]]). The reading below,
+> [[wiki/mind/concepts/lyric-qualifier]]). The reading below,
 > built around specific lyrical/thematic content, likely reflects
 > contextual knowledge of what these songs are about rather than
 > in-the-moment lyric comprehension driving the attraction. Treat the

@@ -17,7 +17,7 @@ related:
   - wiki/timeline/events/teen-concert-years
   - wiki/self/context-core
   - wiki/mind/profile/deviance-mapping
-  - wiki/interests/music/concepts/lyrics-as-timbre
+  - wiki/mind/concepts/lyric-qualifier
 changelog:
   - 2026-07-16: Added the 2007-05-06 Baltimore Rams Head show he actually attended, the 2007 Facebook "Say Anything obsession" status, and the attended-vs-catalog distinction.
   - 2026-07-14: Full rewrite from stub. Added track-specific reading, confessional/narcissism framing.
@@ -60,7 +60,7 @@ performing remorse for them.
 
 > **Caveat:** Dan does not process sung lyrics as language while
 > listening — words register as timbre, not semantic content (see
-> [[wiki/interests/music/concepts/lyrics-as-timbre]]). Bemis's specific
+> [[wiki/mind/concepts/lyric-qualifier]]). Bemis's specific
 > lyrical self-indictment is likely known contextually (band reputation,
 > the album's well-documented backstory) rather than absorbed line by
 > line during playback — the reading below should be taken as informed

@@ -29,7 +29,7 @@ connections:
   - page: wiki/mind/profile/enneagram-5w4
     type: parallels
     claim: "The sx/sp instinctual-stacking account is the cluster's third frame — but that page's 2026-09-13 revision makes the typing contested (5w6sx self-typed and dated against 5w4 commissioned and unheld), and only the instinct order survives with behavioural corroboration. The convergence this page claimed is narrower than it read."
-  - page: wiki/interests/music/concepts/lyrics-as-timbre
+  - page: wiki/mind/concepts/lyric-qualifier
     type: contradicts
     claim: "The imprinting-era mechanism requires lyrical content to transmit a romantic template; that page reports sung lyrics presenting as texture rather than as language, which removes the channel the mechanism runs on and leaves the genre correlation without a cause."
   - page: wiki/interests/opie-and-anthony
@@ -52,7 +52,7 @@ related:
   - wiki/mind/profile/enneagram-5w4
   - wiki/meta/testimony-veracity
   - wiki/interests/favorites/music
-  - wiki/interests/music/concepts/lyrics-as-timbre
+  - wiki/mind/concepts/lyric-qualifier
   - wiki/interests/stand-up-comedy
   - wiki/interests/opie-and-anthony
 ---
@@ -247,7 +247,7 @@ parallel, which means *"deep, obsessive identification"* describes its
 persistence better than its share.
 
 **The mechanism, however, has a hole in it.**
-[[wiki/interests/music/concepts/lyrics-as-timbre]] documents a perceptual
+[[wiki/mind/concepts/lyric-qualifier]] documents a perceptual
 report: sung lyrics do not present themselves to Dan as language to be
 understood — they function as texture, vocal grain, structure and low end. The
 page's supporting structural finding is strong: across four production aliases
@@ -494,7 +494,7 @@ documented elsewhere; none is adjudicated.
   [[wiki/timeline/events/bald-eagle-cummings]],
   [[wiki/meta/testimony-veracity]] (t011).
 - **Wiki layer, evidentiary:** [[wiki/interests/favorites/music]] (library
-  counts and ingestion waves), [[wiki/interests/music/concepts/lyrics-as-timbre]]
+  counts and ingestion waves), [[wiki/mind/concepts/lyric-qualifier]]
   (the contradiction), [[wiki/interests/stand-up-comedy]] (the dated
   itinerary), [[wiki/interests/opie-and-anthony]] (the 2012–13 re-dating),
   [[wiki/mind/concepts/attachment-model]],

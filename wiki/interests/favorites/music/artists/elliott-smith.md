@@ -27,7 +27,7 @@ related:
   - "wiki/mind/synthesis/music-as-identity"
   - "wiki/mind/synthesis/taste-as-filter-stack"
   - "wiki/mind/synthesis/closing-the-set"
-  - "wiki/interests/music/concepts/lyrics-as-timbre"
+  - "wiki/mind/concepts/lyric-qualifier"
   - "wiki/self/tattoos"
   - "wiki/self/twitter/2018"
   - "wiki/interests/favorites/eclecticism"
@@ -45,7 +45,7 @@ connections:
   - page: wiki/mind/synthesis/taste-as-filter-stack
     type: component-of
     claim: "Smith is the calibration cluster's third god and the one that sits furthest below the crate's energy floor: eight Smith tracks are inside the 498 URIs purged from the working library in the two sessions of 2025-09-29 and 2025-11-08, while the fandom survives untouched in the FAVS log and in live 2025 speech."
-  - page: wiki/interests/music/concepts/lyrics-as-timbre
+  - page: wiki/mind/concepts/lyric-qualifier
     type: constrained-by
     claim: "Every reading of this attachment that runs through lyrical content is out of bounds: Dan does not process sung lyrics as language. Whatever Smith does for him is done by grain, phrasing and melodic movement, not by what the words say."
 ---
@@ -383,7 +383,7 @@ should carry a flag.
 
 ## What the attachment cannot be
 
-[[wiki/interests/music/concepts/lyrics-as-timbre]] rules out an entire family
+[[wiki/mind/concepts/lyric-qualifier]] rules out an entire family
 of readings, and this page has to submit to it, because the readings it rules
 out are the ones an Elliott Smith page most naturally reaches for.
 
@@ -618,7 +618,7 @@ independently.
 [[wiki/interests/favorites/music]] · [[wiki/mind/synthesis/music-as-identity]] ·
 [[wiki/mind/synthesis/taste-as-filter-stack]] ·
 [[wiki/mind/synthesis/closing-the-set]] ·
-[[wiki/interests/music/concepts/lyrics-as-timbre]] ·
+[[wiki/mind/concepts/lyric-qualifier]] ·
 [[wiki/interests/favorites/eclecticism]] · [[wiki/self/tattoos]] ·
 [[wiki/self/twitter/2018]] · [[wiki/self/context-core]] ·
 [[wiki/mind/profile/deviance-mapping]] ·

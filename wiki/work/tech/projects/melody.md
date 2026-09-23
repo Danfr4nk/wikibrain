@@ -24,7 +24,7 @@ connections:
   - page: wiki/mind/concepts/exocortex
     type: instantiates
     claim: "MELODY is an exocortex instrument in the strict sense: a cognitive prosthetic that does the part of the musical task his perception doesn't do natively (parsing a lead line out of a finished mix by ear) so his native strengths (melodic/harmonic hearing, structural pattern recognition) get the cleanest possible input."
-  - page: wiki/interests/music/concepts/lyrics-as-timbre
+  - page: wiki/mind/concepts/lyric-qualifier
     type: instantiates
     claim: "Dan hears sung lyrics as timbre, not language — a tool that extracts the melodic line matches how he actually listens, so the build is structurally fitted to his documented perception, not a generic music app."
 ---

@@ -37,7 +37,7 @@ connections:
   - page: wiki/mind/concepts/the-handed-mirror
     type: evidences
     claim: "A forensic profile built from a private message log was delivered to its subject and his partner."
-  - page: wiki/interests/music/concepts/lyrics-as-timbre
+  - page: wiki/mind/concepts/lyric-qualifier
     type: evidences
     claim: "James independently exposed Dan's lyric-blindness in a live argument, corroborating the later self-report."
   - page: wiki/interests/rock-irrelevance-thesis

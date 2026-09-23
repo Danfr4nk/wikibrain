@@ -18,7 +18,7 @@ related:
   - wiki/interests/music/aliases/mogzart
   - wiki/interests/music/aliases/sloppp
   - wiki/interests/music/concepts/sub-bass-signature
-  - wiki/interests/music/concepts/lyrics-as-timbre
+  - wiki/mind/concepts/lyric-qualifier
   - wiki/self/overview
   - wiki/self/context-core
   - wiki/interests/favorites/index
@@ -37,7 +37,7 @@ connections:
 
 GRIPNOTIC is also becoming an infrastructure name beyond music: on April 7, 2026 Dan claimed an AI agent named "gripnotic" on moltbook — the brand doubling as the identity for his agent experiments.
 
-The output type is itself informative: "remixes and AI voice drops" means the catalog is instrumental and spoken-word, never sung original lyrics — a thirteen-year pattern across all four aliases, not just this one. See [[wiki/interests/music/concepts/lyrics-as-timbre]] for why that consistently instrumental/remix-based output likely isn't incidental.
+The output type is itself informative: "remixes and AI voice drops" means the catalog is instrumental and spoken-word, never sung original lyrics — a thirteen-year pattern across all four aliases, not just this one. See [[wiki/mind/concepts/lyric-qualifier]] for why that consistently instrumental/remix-based output likely isn't incidental.
 
 ## Genre & Style
 

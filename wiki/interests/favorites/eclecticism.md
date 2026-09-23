@@ -300,7 +300,7 @@ in [[wiki/timeline/periods/2025-collapse]] and
 Volume is reactivation. The cluster *identities* are not new.
 
 **Lyrics are not the mechanism, and this page will not pretend they are.**
-[[wiki/interests/music/concepts/lyrics-as-timbre]] is a 2026-07-14
+[[wiki/mind/concepts/lyric-qualifier]] is a 2026-07-14
 first-person statement: sung words register as timbre, not semantic
 content, during listening. Every thematic claim about the emo cluster
 (betrayal, mortality, self-indictment) is therefore either contextual

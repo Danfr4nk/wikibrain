@@ -28,7 +28,7 @@ related:
   - wiki/self/ancestry
   - wiki/interests/favorites/music
   - wiki/interests/favorites/music/artists/kanye-west
-  - wiki/interests/music/concepts/lyrics-as-timbre
+  - wiki/mind/concepts/lyric-qualifier
   - wiki/people/annie-ulmer
   - wiki/people/tom
   - wiki/people/emaly-minerd
@@ -296,6 +296,6 @@ the Weidrick rose follows about ten weeks later.
 
 ## Related
 
-[[wiki/self/ancestry]] · [[wiki/interests/favorites/music]] · [[wiki/interests/favorites/music/artists/kanye-west]] · [[wiki/interests/music/concepts/lyrics-as-timbre]] · [[wiki/people/annie-ulmer]] · [[wiki/people/tom]] · [[wiki/people/emaly-minerd]] · [[wiki/people/kristin]]
+[[wiki/self/ancestry]] · [[wiki/interests/favorites/music]] · [[wiki/interests/favorites/music/artists/kanye-west]] · [[wiki/mind/concepts/lyric-qualifier]] · [[wiki/people/annie-ulmer]] · [[wiki/people/tom]] · [[wiki/people/emaly-minerd]] · [[wiki/people/kristin]]
 
 

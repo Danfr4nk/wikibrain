@@ -21,7 +21,7 @@ related:
   - wiki/interests/music/overview
 tags: [ai-collaboration, music-production]
 connections:
-  - page: wiki/interests/music/concepts/lyrics-as-timbre
+  - page: wiki/mind/concepts/lyric-qualifier
     type: instantiates
     claim: "Dan hears sung lyrics as timbre, not language — a harmony-first chord-to-piano tool matches how he actually listens, so the build is structurally fitted to his documented perception, not a generic music app."
   - page: wiki/work/tech/projects/musictrainer-autopsy
@@ -57,7 +57,7 @@ TheoryTab is, structurally, Dan's listening model made into a website. Its tabs 
 down to exactly the two channels he reports perceiving — the melody line and the chord
 progression — and discard everything he reports *not* perceiving: the narrative, the topic,
 the words as propositions. A tool that turns a TheoryTab tab into a readable score is not a
-generic music app; it is a builder solving his own sensory bottleneck. The [[wiki/interests/music/concepts/lyrics-as-timbre|lyric qualifier]] is
+generic music app; it is a builder solving his own sensory bottleneck. The [[wiki/mind/concepts/lyric-qualifier|lyric qualifier]] is
 the mandatory first frame for all music analysis in his record, and hook2piano is the first
 tool in the record that treats it as an engineering constraint rather than a reading caveat:
 if the user cannot read staff notation and does not parse lyrics as language, the
@@ -215,7 +215,7 @@ note-name rows top and bottom, chord labels G/B/Bsus4/C/Csus4/Cm, tiny white pit
 inside the green bars, blue melody bars, bar numbers 1–9, keyboard strips per roll.
 (dat:1750-hook2piano-pianoroll-rewrite-20260916)
 
-The rewrite is the day's clearest instantiation of the [[wiki/interests/music/concepts/lyrics-as-timbre|lyric-qualifier principle]] at the
+The rewrite is the day's clearest instantiation of the [[wiki/mind/concepts/lyric-qualifier|lyric-qualifier principle]] at the
 engineering level. Dan does not read staff notation any more than he parses sung lyrics
 as language — both are display formats that assume a listener/reader model he does not
 inhabit. The rewrite replaces a borrowed convention with the representation he actually

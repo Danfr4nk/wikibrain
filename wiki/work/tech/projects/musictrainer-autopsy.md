@@ -13,7 +13,7 @@ related:
   - wiki/work/tech/index
   - wiki/work/tech/projects/index
   - wiki/interests/music/overview
-  - wiki/interests/music/concepts/lyrics-as-timbre
+  - wiki/mind/concepts/lyric-qualifier
   - wiki/meta/complete-log-doctrine
   - wiki/meta/instruments/index
 ---
@@ -93,7 +93,7 @@ when Dan used them the same night and inverted their purpose
 ## The lyric qualifier is load-bearing here
 
 The prediction target is not "does this song have good lyrics." Per the
-mandatory first frame ([[wiki/interests/music/concepts/lyrics-as-timbre]]):
+mandatory first frame ([[wiki/mind/concepts/lyric-qualifier]]):
 Dan hears sung lyrics as **timbre**, not language — he does not process
 words as semantic content even with a lyric sheet in front of him. That
 finding is first-person and direct (stated 2026-07-14, corroborated by his
