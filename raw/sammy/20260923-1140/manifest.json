@@ -1,0 +1,63 @@
+{
+ "batch": "20260923-1140",
+ "method": "sql gap extraction from runtime.messages (paged 200/200/200/86, merged + deduped by message_id)",
+ "extraction_ran": "2026-09-23T11:40:00Z",
+ "window_start": "2026-09-22T23:19:42.977Z",
+ "window_end": "2026-09-23T11:44:01.390Z",
+ "first_row": "2026-09-23T00:02:36.249Z",
+ "last_row": "2026-09-23T11:44:01.390Z",
+ "rows": 686,
+ "role_counts": {
+  "user": 238,
+  "assistant": 448
+ },
+ "content_rows": 575,
+ "empty_body_rows": 111,
+ "truncated_rows": 3,
+ "side_chat_leakage": 0,
+ "secrets_found": 0,
+ "files": {
+  "chats.json": {
+   "bytes": 345525,
+   "sha256": "1e0bf72b3572fdca8184a76e01c0c0c9d693299a7b033ed17478c5c9961d3e50"
+  },
+  "device.json": {
+   "bytes": 224,
+   "sha256": "3faf5ac1832a48c70c8a5ce03bb77d6d81bc5bf22aca30634ef8eb11cd8fdde5"
+  },
+  "facebook.json": {
+   "bytes": 523,
+   "sha256": "9deb16297a26c9a5b1c8a43097eb0211ccc8c3ff5763acb695f0f5ec95a0fb32"
+  },
+  "instagram.json": {
+   "bytes": 1010,
+   "sha256": "6acb73136a11581bc44174fe554591aef18aff3c15c595eee3e09c17154b2af7"
+  },
+  "messenger.json": {
+   "bytes": 809,
+   "sha256": "956d935637c8d2eb7842bb22ed624dd491db793ccde8835cd288a830ef13ce13"
+  },
+  "spotify.json": {
+   "bytes": 1237,
+   "sha256": "dcde669c6a1adcb26ad0014bad090f5a7b05e854183c2b561a66a31262d4bd2c"
+  },
+  "threads.json": {
+   "bytes": 477,
+   "sha256": "6f07f954cee4728db025b227f5146b09236b30cf7d90120f7f3e4eabfcb03ec3"
+  },
+  "EXTRACT.md": {
+   "bytes": 5432,
+   "sha256": "0198b9575ccbe7e941bcb5c2e9e2024e1330d6858433f3a31a4f0f2d88e18c38"
+  }
+ },
+ "bytes_total": 355237,
+ "external_sources": {
+  "instagram": "2 new items (own video stories 2026-09-22 ~20:01-20:02 EDT)",
+  "threads": "0 new",
+  "facebook": "0 new",
+  "messenger": "0 new",
+  "spotify": "0 new events (playback state frozen at Uffie 'Art Of Uff' paused)",
+  "device": "no read path (standing)"
+ },
+ "created_by": "wiki-brain-scrape"
+}
