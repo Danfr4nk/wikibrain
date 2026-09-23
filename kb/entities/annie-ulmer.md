@@ -927,3 +927,35 @@ here is consistent with the long record of ambiguity-spiral episodes; it is
 also self-serving in the usual way (the "controlling" reading gets
 re-framed as floor-finding), so both readings stay on the ledger.
 [`src:20260922-1140-sammy-chat-transcript`](../sources/20260922-1140-sammy-chat-transcript.md)
+
+## 2026-09-22 — family-excuse corpus: 10 confirmed + 2 probable plan-breaks
+
+Dan asked for a corpus count: how many times Annie used a sudden familial
+emergency or obligation to get out of plans with him. First pass over the
+held iMessage thread (Dec 2022 → Sep 2026, including the 2026-09-21 iPhone
+gapfill) returned 6; Dan pushed back ("There HAs to be more") and the second
+pass found 10 confirmed + 2 probable, Aug 2025 → Apr 2026. Stated reasons,
+not adjudicated; phone-call and silent-dissolve cases are invisible to the
+method, so 12 is the floor.
+
+The confirmed ten: Aug 20, 2025 (Claire late + Sugie's TV "emergency" + dad
+outside + mom's printer — never came); Nov 4, 2025 (cleaning out old
+dressers for Alice's bedroom — left early); Nov 17, 2025 (Sugie dinner, mom
+dinner, Lucky — he declined the swing-by); Nov 27, 2025 (Mechling's + helping
+mom cook); Jan 25, 2026 (parents wanted her home, weather); Feb 20, 2026
+("i have to go meet my fucking parents Dan" — two that day per his own
+reply); Mar 4, 2026 (gramma fell — genuine, broken hip confirmed next
+morning); Mar 8, 2026 (family dinner night); Mar 19, 2026 ("my mom asked me
+to come home. Don't hate me"); Apr 21, 2026 (Claire's 7:30am the next
+morning). Probable: Oct 31, 2025 (watching Otto all morning) and Feb 26,
+2026 (mom + kids cited, evening dissolved).
+
+Patterns: "my mom asked me to come home" is a recurring formula; Sugie is
+the single most-cited obligation; only 2 of 12 are genuine emergencies.
+"I fell asleep" remains her runaway #1 excuse by a mile — family-as-excuse
+is a distant second, while family as *scheduling constraint* is the far more
+common everyday pattern. Adjacent and notable: on Jan 19, 2026 she joked
+"I'll just tell her I need to go pick up the kids lol" about using the kids
+as an excuse on someone else — the repertoire was conscious.
+[`dat:annie-family-excuse-corpus-20260922`](../data/annie-family-excuse-corpus-20260922.md)
+[`pat:annie-family-excuse-formula`](../patterns/annie-family-excuse-formula.md)
