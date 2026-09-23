@@ -8,7 +8,7 @@ importance: critical
 relation_type: family
 knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-09-12
+date_modified: 2026-09-23
 date_range: ["1920-08-15", "2018-04-04"]
 tags: [family, uniontown-era, grief, music-production, financial-stress]
 sources:
@@ -186,6 +186,15 @@ outrank both.
 > memory — Dan describing her, at the time, as *97*. That is consistent with an
 > August 1920 birth and an April 2018 death. The 93 and the 98 are both
 > recollection error.
+
+> **HEALTH LOG [2026-09-23] — 2010-07-15 ER visit.** Eight years before the
+> caregiving era, Suz reported: *"Gram is ok. They think fluid is building up
+> around her heart/lungs at night when sleeping. Gave her diuretics, lasics to
+> help that. She is home. Feels fine."* **[dat:1885]**. This is the earliest
+> dated health event the corpus holds on Fran — a same-day ER discharge for
+> cardiac/pulmonary fluid at age ~89–90, treated and released. It predates the
+> page's 2017–2018 health narrative by seven years and belongs at the head of
+> any future health timeline.
 
 ## The line she comes from, and the three marriages
 

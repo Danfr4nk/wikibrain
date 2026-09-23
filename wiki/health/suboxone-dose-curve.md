@@ -5,7 +5,7 @@ page_type: synthesis
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-09-23
 sources:
   - src:corpus-authoritative-export
   - src:facebook-export-2026-06-23
@@ -185,6 +185,27 @@ is its least informative bearing on the dose itself. State that plainly,
 because it is easy to let the certainty of the date launder certainty onto the
 dose. The date is CONFIRMED (within weeks, three channels). The start dose is
 [UNKNOWN] and the record does not even imply it.
+
+### 2010-08-14 — six months pill-free. Not a dose point.
+
+Six months into the run, Dan tells Suz: *"btw tomorrow is 6 months since
+either of us have done anything in pill form. by far the longest that I've
+been able to make it last"* **[ATTESTED, dat:1879]**.
+
+What this establishes: a back-calculation pinning last pill use to
+~2010-02-15 — within days of the 2010-02-17 day-zero this page carries. Two
+independent derivations (the tweet-bearing day-zero and this six-month
+anniversary) converge on the same mid-February window, which is the
+strongest corroboration the date has gained since the 2013 *"3.5 years"*
+back-calculation. Note the scope: "pill form" covers the pre-Suboxone pill
+use, not the Suboxone regimen itself — this is an abstinence-from-pills
+anniversary, not a dosing record. The same day's exchange also fixes a
+January floor: on 2010-01-31 Dan asked Suz to bring him 5 Vicodin for his
+back **[dat:1879]** — pill use was live two weeks before day-zero and gone
+within weeks after, consistent with a February induction.
+
+**Dose content of this bearing: zero.** Like day-zero, it dates the
+regimen's start, not its dose.
 
 ### 2011-08-04 — the appointment with screening. Not a dose point.
 
