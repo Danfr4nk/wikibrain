@@ -7,6 +7,15 @@ surface:
 
   site/wiki/<path>.html   one article per page: title, infobox, TOC,
                           full body, connections, tags, metadata footer
+  site/agent/wiki/<path>.md  agent mirror: same information as the human
+                          article, structured for fast machine consumption
+                          (metadata, summary, entity index, connections,
+                          section outline, full text). Derived
+                          deterministically at build time — never separately
+                          authored — so the two surfaces cannot drift.
+  site/agent/wiki.json    machine-readable index of all articles
+  site/llms.txt           "Wiki articles" block appended (marker-delimited;
+                          bin/wb-build owns the kb sections)
   site/wiki-index.json    title/domain/tag index for client-side search
   site/domains/<d>.html   per-domain article indexes
   site/index.html         the splash front door (galaxy-charge canvas,
@@ -1163,7 +1172,8 @@ articles — nodes, typed edges and the layer rule
 (raw messages, exports, documents). Confidence and knowledge state are labeled
 on every article; the evidence layers carry the fine-grained citation graph.</div>
 <p class="machine">Machine-readable: <a href="llms.txt">llms.txt</a> ·
-<a href="graph.json">graph.json</a> · <a href="wiki-index.json">article index</a></p>
+<a href="graph.json">graph.json</a> · <a href="wiki-index.json">article index</a> ·
+<a href="agent/wiki.json">agent mirror</a></p>
 </div>
 <div class="footer">Wiki Brain — {len(pages)} articles rendered from wiki/</div>
 <script>
@@ -1209,6 +1219,210 @@ def domain_page(domain: str, pages: list[dict]) -> str:
 {CRAWL_JS}
 </body></html>
 """
+
+
+# --------------------------------------------------------------------------
+# Agent mirror (three-surface publishing, 2026-09-22).
+#
+# For every human article at site/wiki/<path>.html, emit a deterministic
+# agent-optimized mirror at site/agent/wiki/<path>.md: the SAME information,
+# structured for fast machine consumption (metadata header, summary, entity
+# index, connections, section outline, full text). The mirror is DERIVED from
+# the human article's page dict at build time — never separately authored —
+# so the two surfaces cannot drift. No factual assertion is ever dropped: the
+# optimization is structure and scannability, not deletion.
+#
+# wb-gate only processes *.html, so the .md mirrors publish ungated by
+# construction. bin/wb-build owns site/llms.txt's kb sections and
+# site/agent/manifest.json; this builder only owns the marker-delimited
+# "Wiki articles" block of llms.txt (idempotent: replaced on re-run, appended
+# if absent) and writes site/agent/wiki.json, the machine-readable article
+# index. Redaction: page dicts arrive from load_pages() already masked by the
+# wb-archive rule, so the mirror inherits exactly the human surface's masking.
+# --------------------------------------------------------------------------
+
+AGENT_BASE = "https://danfr4nk.github.io/wikibrain"
+LLMS_BLOCK_START = "<!-- wb-wiki:agent-articles:start -->"
+LLMS_BLOCK_END = "<!-- wb-wiki:agent-articles:end -->"
+
+_AGENT_META_KEYS = ("domain", "page_type", "status", "knowledge",
+                    "importance", "date_created", "date_modified",
+                    "date_range_start", "date_range_end")
+
+
+def _agent_clean_wikilink(m: re.Match) -> str:
+    inner = m.group(1).strip().replace("\\|", "\x00")
+    segs = inner.split("|", 1)
+    if len(segs) == 2:
+        label = segs[1].replace("\x00", "|").strip()
+        return label or segs[0].replace("\x00", "|").strip()
+    target = segs[0].replace("\x00", "|").strip()
+    if target.startswith("#"):
+        return target[1:]
+    # prettify the last path segment: wiki/people/annie-ulmer -> annie ulmer
+    name = target.split("/")[-1]
+    return name.replace("-", " ").replace("_", " ").strip() or target
+
+
+def agent_clean_body(body: str) -> str:
+    """Strip to plain readable text. Deterministic; drops nothing factual."""
+    text = re.sub(r"<!--.*?-->", "", body, flags=re.S)          # html comments
+    # Protect `code spans`: they sometimes document the [[..]] syntax itself.
+    codes: list[str] = []
+    def _stash(m: re.Match) -> str:
+        codes.append(m.group(0))
+        return f"\x00CODE{len(codes) - 1}\x00"
+    text = re.sub(r"`[^`\n]+`", _stash, text)
+    text = re.sub(r"\[\[([^\]]+)\]\]\(([^)]+)\)", r"\1", text)  # [[label]](url)
+    text = WIKILINK_RE.sub(_agent_clean_wikilink, text)         # [[..]] -> label
+    # Markdown image-link [![alt](src)](href): inner image first, or the
+    # outer ] dangles and the link regex below can't match across it.
+    text = re.sub(r"\[!\[([^\]]*)\]\(([^)]+)\)\]\(([^)]+)\)",
+                  r"[image: \1]", text)
+    text = re.sub(r"!\[([^\]]*)\]\(([^)]+)\)", r"[image: \1]", text)
+    text = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", r"\1", text)     # [label](url)
+    text = re.sub(r"\x00CODE(\d+)\x00",
+                  lambda m: codes[int(m.group(1))], text)
+    text = re.sub(r"[ \t]+", " ", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip()
+
+
+def agent_lede(body: str, limit: int = 300) -> str:
+    """First paragraph block, skipping headings. Epigraph blockquotes count:
+    the human renderer styles leading blockquotes as the lede. Boilerplate
+    domain breadcrumbs ("*Part of the X domain — concept.*") are skipped:
+    they describe the shelf, not the article."""
+    for para in re.split(r"\n\s*\n", body):
+        lines = [re.sub(r"^>\s?", "", ln).strip()
+                 for ln in para.strip().split("\n")]
+        lines = [ln for ln in lines if ln]
+        if not lines or lines[0].startswith("#"):
+            continue
+        text = agent_clean_body(" ".join(lines))
+        if re.fullmatch(r"\*Part of the .+", text):
+            continue
+        if len(text) > limit:
+            cut = text.rfind(". ", 0, limit)
+            text = text[:cut + 1] if cut > limit // 2 else text[:limit].rstrip() + "…"
+        return text
+    return ""
+
+
+def agent_entities(body: str) -> list[str]:
+    """Ordered-deduped wikilink targets: the article's named-entity index."""
+    targets: list[str] = []
+    for m in WIKILINK_RE.finditer(body):
+        inner = m.group(1).strip().replace("\\|", "\x00")
+        target = inner.split("|", 1)[0].replace("\x00", "|").strip()
+        if not target or target.startswith("#") or target.startswith("raw/") \
+                or target.lower().startswith("image:"):
+            continue
+        if target not in targets:
+            targets.append(target)
+    return targets
+
+
+def agent_page(p: dict) -> str:
+    """Deterministic agent rendering of one article page dict."""
+    meta = p["meta"]
+    body = p["body"]
+    lede = agent_lede(body)
+    entities = agent_entities(body)
+    sections = [(len(m.group(1)), m.group(2).strip())
+                for m in re.finditer(r"^(#{1,6})\s+(.+)$", body, re.M)]
+    words = len(body.split())
+
+    L: list[str] = [f"# {p['title']}", "",
+        "> Agent mirror. Same information as the human article, structured for fast machine consumption.",
+        "> Derived deterministically at build time from the human article — never separately authored.",
+        f"> Human version: {AGENT_BASE}/wiki/{p['url']}",
+        f"> Canonical key: {p['key']}", "",
+        "## Metadata"]
+    for k in _AGENT_META_KEYS:
+        v = meta.get(k)
+        if v not in (None, ""):
+            L.append(f"- {k}: {v}")
+    for k in ("tags", "aliases"):
+        v = meta.get(k)
+        if isinstance(v, str):
+            v = [v]
+        if v:
+            L.append(f"- {k}: {', '.join(str(x) for x in v)}")
+    L.append(f"- word_count: {words}")
+    L += ["", "## Summary", lede or "(no summary extractable)", ""]
+    if entities:
+        L += ["## Entities referenced",
+              *("- " + e for e in entities), ""]
+    conns = meta.get("connections") or []
+    if isinstance(conns, list) and conns:
+        L.append("## Connections")
+        for c in conns:
+            if isinstance(c, dict):
+                claim = agent_clean_body(c.get("claim", "") or "")
+                L.append(f"- {c.get('page', '?')} ({c.get('type', '?')}): "
+                         f"{claim}".strip())
+            else:
+                L.append(f"- {c}")
+        L.append("")
+    if sections:
+        L += ["## Sections",
+              *("- " + "  " * (lvl - 1)
+                + WIKILINK_RE.sub(_agent_clean_wikilink, t)
+                for lvl, t in sections), ""]
+    L += ["## Full text", agent_clean_body(body), ""]
+    return "\n".join(L) + "\n"
+
+
+def agent_url_of(p: dict) -> str:
+    return f"agent/wiki/{p['url'][:-len('.html')]}.md"
+
+
+def build_agent_mirror(out: pathlib.Path, pages: list[dict]) -> list[dict]:
+    """Render every article's agent mirror; return the index records."""
+    records = []
+    for p in pages:
+        rel = agent_url_of(p)
+        dest = out / rel
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        dest.write_text(agent_page(p), encoding="utf-8")
+        records.append({
+            "key": p["key"],
+            "title": p["title"],
+            "summary": agent_lede(p["body"], limit=160).replace("\n", " "),
+            "human_url": f"{AGENT_BASE}/wiki/{p['url']}",
+            "agent_url": f"{AGENT_BASE}/{rel}",
+            "domain": str(p["meta"].get("domain") or ""),
+            "page_type": str(p["meta"].get("page_type") or ""),
+            "date_modified": str(p["meta"].get("date_modified") or ""),
+        })
+    (out / "agent" / "wiki.json").write_text(
+        json.dumps(records, indent=1) + "\n", encoding="utf-8")
+
+    block = "\n".join([
+        LLMS_BLOCK_START, "",
+        "## Wiki articles — agent mirrors", "",
+        "Every article below has an agent-optimized mirror: the same information as the",
+        "human page, structured for fast machine consumption (metadata, summary, entity",
+        "index, connections, section outline, full text). Derived deterministically at",
+        "build time from the human article — never separately authored, so the two",
+        "surfaces cannot drift.", "",
+        f"- [Article index (JSON)]({AGENT_BASE}/agent/wiki.json)", "",
+        *[f"- [{r['title']}]({r['agent_url']}): {r['summary'] or '(no summary)'}"
+          for r in sorted(records, key=lambda r: r["title"].lower())],
+        "", LLMS_BLOCK_END,
+    ])
+    llms = out / "llms.txt"
+    if llms.exists():
+        text = llms.read_text(encoding="utf-8")
+        pat = re.compile(re.escape(LLMS_BLOCK_START) + r".*?"
+                         + re.escape(LLMS_BLOCK_END), re.S)
+        text = pat.sub(lambda _: block, text) if pat.search(text) \
+            else text.rstrip("\n") + "\n\n" + block + "\n"
+    else:
+        text = "# Wiki Brain\n\n" + block + "\n"
+    llms.write_text(text, encoding="utf-8")
+    return records
 
 
 # --------------------------------------------------------------------------
@@ -1420,6 +1634,12 @@ def main() -> int:
             print(f"wb-wiki: BUILD FAILED: {e}", file=sys.stderr)
             return 1
 
+    # Agent mirror: deterministic per-article .md under site/agent/, plus the
+    # marker-delimited "Wiki articles" block of site/llms.txt and
+    # site/agent/wiki.json. Built from the same page dicts as the human
+    # surface, in the same run, so the two targets cannot drift.
+    agent_records = build_agent_mirror(out, pages)
+
     # Search index (share copies excluded: standalone pages, no navigation)
     index = []
     for p in pages:
@@ -1499,6 +1719,8 @@ def main() -> int:
             print(f"  {frm} -> [[{tgt}]]", file=sys.stderr)
     print(f"rendered {len(pages)} articles -> {out}/wiki/ "
           f"({len(dead)} dead wikilinks, {len(set(linker.raw_refs))} raw refs)")
+    print(f"agent mirror: {len(agent_records)} mirrors -> {out}/agent/wiki/ "
+          f"+ wiki.json + llms.txt block")
     return 0
 
 
