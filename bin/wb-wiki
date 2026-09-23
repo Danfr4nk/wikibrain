@@ -1157,7 +1157,15 @@ def front_page(pages: list[dict], counts: dict[str, int]) -> str:
 <div id="results"></div>
 </div>
 <div class="wrap">
-<h2 class="sec">Browse by domain</h2>
+<h2 class="sec">Two sides of the same brain</h2>
+<p style="color:var(--mut);font-size:14px">Every article exists twice, with the same
+information &mdash; narrative form for humans, structured form for agents and LLMs.
+Both render from the same source in the same build, so they can&apos;t drift apart.</p>
+<div class="dgrid">
+<a class="dcard" href="#browse"><b>Read</b><br><span class="n">the human articles, in narrative form</span></a>
+<a class="dcard" href="llms.txt"><b>Agent mirror</b><br><span class="n">{len(pages)} articles, machine-optimized</span></a>
+</div>
+<h2 class="sec" id="browse">Browse by domain</h2>
 <div class="dgrid">{cards}</div>
 <h2 class="sec">Newest articles</h2>
 <div class="newlist">{new_items}</div>
