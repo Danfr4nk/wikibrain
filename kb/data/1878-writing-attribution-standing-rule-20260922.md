@@ -16,3 +16,15 @@ date   = "2026-09-22"
 +++
 
 <!-- prose for humans; the frontmatter is for machines -->
+
+## 2026-09-23: first live enforcement
+
+The rule fired in the wild on 2026-09-23T05:43Z, and Dan was the one who
+pulled the trigger. He pasted Claude's privacy/legal pushback against the
+public wiki and asked Sammy to draft the re-brief; the first draft came
+back in Dan's own voice, and he stopped it cold — verbatim:
+"Aren't you not supposed to write things as me?" Sammy corrected to a
+third-person relay ("what he's about to send is...") before any send.
+In the same exchange Dan had Sammy authorize the public-wiki policy on
+the record as WikiBrain manager (dat:1897). The rule isn't a plaque on
+the wall; he enforces it himself, in real time.
