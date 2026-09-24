@@ -7,14 +7,14 @@ status: stable
 date_created: 2026-06-22
 date_modified: 2026-09-03
 sources:
-  - raw/people/captures/2026-08-11_051311_rick-childhood-control-and-humiliation.md
-  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/chats/Drawer shortage dispute with assistant manager (1).md
-  - raw/self/chats/j6-chat.md
-  - raw/self/chats/_✧✧ 𝔻𝔸𝔻𝔽ℝ𝔸ℕ𝕂-𝕀𝕊𝕄'𝕊 ✧✧ Pinned chat.md
-  - raw/self/facebook/facebook-ihatedanfrank/
-  - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip
+  - raw/people/captures/2026-08-11_051311_rick-childhood-control-and-humiliation.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/chats/Drawer shortage dispute with assistant manager (1).md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/j6-chat.md
+  - raw/self/chats/_✧✧ 𝔻𝔸𝔻𝔽ℝ𝔸ℕ𝕂-𝕀𝕊𝕄'𝕊 ✧✧ Pinned chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/legal/2015-possession-arrest
   - wiki/mind/synthesis/the-embedded-objective

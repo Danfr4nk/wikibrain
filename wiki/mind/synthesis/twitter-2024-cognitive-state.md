@@ -8,7 +8,7 @@ date_range_start: 2024-01-01
 date_range_end: 2024-12-31
 title: "2024 Twitter / X Cognitive State — Adversarial Historian"
 sources:
-  - "raw/self/twitter/archive.jsonl"
+  - "raw/twitter/archive.jsonl"
   - "raw/twitter/tweet-archive.csv"
 knowledge: earned
 synthesizes:

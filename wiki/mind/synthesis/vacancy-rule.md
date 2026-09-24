@@ -8,14 +8,14 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/message-csv/annie_all_time_logs.csv
-  - raw/self/message-csv/imessage_3307038747_both_all_now.csv
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/annie_all_time_logs.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_3307038747_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/drive-sweep/20260911/imessage/imessage_export_3307038747_20260624.csv
-  - raw/self/message-csv/imessage_ALL_both_2026-05-31_2026-06-02.csv
-  - raw/self/message-csv/THE END FIGHT.csv
-  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md
-  - raw/people/captures/2026-08-20_042255_gap-ally-lubin.md
+  - raw/self/message-csv/imessage_ALL_both_2026-05-31_2026-06-02.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/THE END FIGHT.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-20_042255_gap-ally-lubin.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - kb/data/0081-explicit-commitment-architecture.md
   - kb/data/0090-block-retraction-2026-09-11.md
 synthesizes:
