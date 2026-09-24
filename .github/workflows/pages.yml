@@ -65,6 +65,12 @@ jobs:
           WB_GATE_PASSWORD: ${{ secrets.WB_GATE_PASSWORD }}
         run: python3 bin/wb-wiki
 
+      # Derived presentation indexes for the read-only harness exploration
+      # layer (site/harness/). Read-only over wiki/ + kb/; runs here so the
+      # deployed indexes always describe the deployed corpus revision.
+      - name: Build the harness indexes
+        run: python3 bin/wb-harness
+
       # The 497-page snapshot of the prior wiki, rendered browsable. Its source
       # is tracked (raw/old-wiki-export-2026-09-04/whole.txt), so this runs
       # everywhere the repo does.
