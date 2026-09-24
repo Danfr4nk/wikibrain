@@ -318,6 +318,41 @@ def parse_timeline(path):
 # Main build
 # --------------------------------------------------------------------------
 
+# Same contact-identifier mask as bin/wb-archive / tests/test-census, so the
+# two cannot drift. The census fails the deploy if any built file under site/
+# carries a raw phone number — derived JSON indexes included.
+PHONE = re.compile(r"\+1[0-9]{10}|\b[0-9]{3}-[0-9]{3}-[0-9]{4}\b")
+EMAIL = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
+EMAIL_OK = re.compile(r"noreply@|@example\.|@schema\.|json-schema\.org")
+MASKED = 0
+
+
+def mask_text(s):
+    global MASKED
+    def email(m):
+        global MASKED
+        if EMAIL_OK.search(m.group(0)):
+            return m.group(0)
+        MASKED += 1
+        return "[email redacted]"
+    s = EMAIL.sub(email, s)
+    def phone(m):
+        global MASKED
+        MASKED += 1
+        return "[phone redacted]"
+    return PHONE.sub(phone, s)
+
+
+def deep_mask(obj):
+    if isinstance(obj, str):
+        return mask_text(obj)
+    if isinstance(obj, list):
+        return [deep_mask(x) for x in obj]
+    if isinstance(obj, dict):
+        return {k: deep_mask(v) for k, v in obj.items()}
+    return obj
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--repo-root", default=None)
@@ -571,7 +606,7 @@ def main():
 
     def dump(name, payload):
         with open(os.path.join(data_dir, name), "w", encoding="utf-8") as f:
-            json.dump(payload, f, ensure_ascii=False, separators=(",", ":"))
+            json.dump(deep_mask(payload), f, ensure_ascii=False, separators=(",", ":"))
 
     dump("page-graph.json", {**meta, "nodes": nodes, "edges": edges,
                              "stats": {
