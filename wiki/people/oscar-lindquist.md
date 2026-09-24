@@ -8,8 +8,8 @@ date_modified: 2026-07-19
 date_range_start: 2011-08-26
 date_range_end: 2022-03-06
 sources:
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/oscarlindquist_osj0xrxodg/message_1.html"
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/mattdunn_abk0dttjqa/message_1.html"
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/oscarlindquist_osj0xrxodg/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/mattdunn_abk0dttjqa/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [career, digital-footprint, relationships]
 infobox:
   name: "Oscar Lindquist"
