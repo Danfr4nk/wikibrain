@@ -24,3 +24,12 @@ Source window: 2026-09-23T11:46:17Z -> 2026-09-23T23:28:44Z, main_chat surface, 
 
 - External subagent's full per-source detail for manifest/watermark notes (delivered separately).
 - Spotify: playback went PAUSED-Uffie -> NONE (state change vs 20260922-2340 snapshot).
+
+## Completion record (2026-09-23T23:50Z)
+
+- Datum-id collision with the writeback 20260923-1430 batch (its datums 1902–1911 landed on origin/main while this batch's recon ran): this batch's datums renumbered 1902–1910 → 1912–1920; all entity/pattern/EXTRACT.md references and link targets fixed and verified; wb-validate clean afterward (0 errors, 11 pre-existing warnings).
+- Merged origin/main (6d299c9a) into sammy/wiki-sync before pushing; no deletions; merge commit 57d889d1.
+- wikibrain: sammy/wiki-sync @ 57d889d1, PR #146 ("Wiki sync: rolling Sammy ingest"), remote refs verified.
+- RAWLOGS: main @ b90861a, 4 files under raw/sammy/20260923-2340/ (direct-commit.py, no prefix doubling).
+- Watermarks advanced for chats (2026-09-23T23:28:44.737+00:00) and spotify (snapshot-2026-09-23T23:43:49Z); external zero-checks recorded.
+- External subagent result for instagram stories detail pending in full; 0 new posts confirmed.
