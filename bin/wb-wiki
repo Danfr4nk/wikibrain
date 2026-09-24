@@ -1111,10 +1111,28 @@ def article_html(page: dict, linker: WikiLinker, pages: dict) -> str:
 # --------------------------------------------------------------------------
 
 def front_page(pages: list[dict], counts: dict[str, int]) -> str:
-    # Share copies (wiki/share/) render standalone and ungated; they are not
-    # part of the wiki's navigation surface.
+    # Share copies (wiki/share/) render standalone and ungated. They are excluded
+    # from the newest/modified lists but get their own public snapshot section.
     shown = [p for p in pages
              if str(p["meta"].get("shared") or "").lower() != "true"]
+    shared = sorted(
+        (p for p in pages
+         if str(p["meta"].get("shared") or "").lower() == "true"),
+        key=lambda p: str(p["meta"].get("shared_at") or ""),
+        reverse=True)
+    shared_items = "\n".join(
+        f'<div><a href="wiki/{p["url"]}">{html.escape(p["title"])}</a> '
+        f'<small>snapshot of {html.escape(str(p["meta"].get("shared_from") or ""))} · '
+        f'{html.escape(str(p["meta"].get("shared_at") or ""))}</small></div>'
+        for p in shared)
+    shared_section = ""
+    if shared_items:
+        shared_section = f"""<h2 class="sec">Shared pages</h2>
+<p style="color:var(--mut);font-size:14px">Public, ungated snapshots of selected
+articles — safe to send to anyone. Links to other wiki entries are flattened;
+the cliff notes at the bottom of each page carry the context they would have
+provided.</p>
+<div class="newlist">{shared_items}</div>"""
     newest = sorted(shown, key=lambda p: str(p["meta"].get("date_created") or ""),
                     reverse=True)[:12]
     new_items = "\n".join(
@@ -1167,6 +1185,19 @@ Both render from the same source in the same build, so they can&apos;t drift apa
 </div>
 <h2 class="sec" id="browse">Browse by domain</h2>
 <div class="dgrid">{cards}</div>
+{shared_section}
+<h2 class="sec">Beyond the articles</h2>
+<p style="color:var(--mut);font-size:14px">The peripheral machinery around the
+wiki &mdash; other ways in, other ways to read it, frozen snapshots of what it
+used to be.</p>
+<div class="dgrid">
+<a class="dcard" href="harness/"><b>The Harness</b><br><span class="n">the read-only exploration layer &mdash; Explore, Journey, Time, Evidence and Search views over the whole wiki and its evidence nodes</span></a>
+<a class="dcard" href="portal/"><b>The Portal</b><br><span class="n">DAN FRANK &mdash; WIKI-BRAIN PORTAL: nine tabs &mdash; the Sage, Words, the Lattice, Leviathan, the Gallery, the Transcript, the Arcade, Transmissions</span></a>
+<a class="dcard" href="archive/"><b>The Archive</b><br><span class="n">the 497-page wiki as it stood on September 4, 2026 &mdash; frozen, browsable, byte-for-byte</span></a>
+<a class="dcard" href="graph.json"><b>The Graph</b><br><span class="n">every node and edge of the knowledge graph as raw JSON</span></a>
+<a class="dcard" href="corpus.txt"><b>The Corpus</b><br><span class="n">the entire wiki as one plaintext file, for whoever wants a single URL</span></a>
+<a class="dcard" href="wiki/meta/source-materials.html"><b>The Source Materials</b><br><span class="n">the complete, exact inventory of every dataset feeding the wiki — the advertisement for the unfamiliar</span></a>
+</div>
 <h2 class="sec">Newest articles</h2>
 <div class="newlist">{new_items}</div>
 <h2 class="sec">Recently modified</h2>

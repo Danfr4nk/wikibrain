@@ -4,7 +4,7 @@ page_type: entity
 status: active
 date_created: 2026-06-23
 date_modified: 2026-08-23
-sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv", "raw/self/message-csv/imessage_7249204125_both_all_now.csv", "raw/self/dox-md/operating_manual.md", "raw/self/dox-md/MAX_PRIME.md", "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md"]
+sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/message-csv/imessage_7249204125_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/MAX_PRIME.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 synthesizes:
   - wiki/self/message-corpora/master-message-dump
   - wiki/timeline/periods/2018-deep-cycle

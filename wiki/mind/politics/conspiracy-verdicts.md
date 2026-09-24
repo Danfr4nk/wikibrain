@@ -10,12 +10,12 @@ date_modified: 2026-09-22
 sources:
   - workspace/wiki-sync/scratchpad/2026-09-22-conspiracy-verdicts.md
   - workspace/wiki-sync/scratchpad/2026-09-22-conspiracy-worldview-analysis.md
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/chats/j6-chat.md
-  - raw/self/chats/9-11-chat.md
-  - raw/self/self/twitter/2013.md
-  - raw/self/gemini-activity/Gemini Activity.html
-  - raw/self/chatgpt-export/babbitt-shooting-psyop-debate-2025-06-15.md
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/j6-chat.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/9-11-chat.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/twitter/2013.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md
+  - raw/self/chatgpt-export/babbitt-shooting-psyop-debate-2025-06-15.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/mind/synthesis/conspiracy-worldview
   - wiki/mind/synthesis/political-psyops

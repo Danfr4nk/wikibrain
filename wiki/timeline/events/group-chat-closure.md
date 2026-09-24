@@ -7,13 +7,13 @@ date_modified: 2026-07-26
 date_range_start: 2026-06-01
 date_range_end: 2026-06-01
 sources:
-  - raw/self/dox-scan/DanAnnie_MasterRecord_March16.docx
-  - raw/self/dox-scan/DanAnnie_CorrectiveAddendum.txt
-  - raw/self/dox-scan/Dan Profile.txt
-  - raw/self/message-csv/annie_all_time_logs.csv
-  - raw/self/message-csv/THE END FIGHT.csv
-  - raw/self/dox-scan/DanAnnie_MasterRecord_FINAL.docx
-  - raw/self/dox-md/end-fight-notebooklm-podcast-transcript.md
+  - raw/self/dox-scan/DanAnnie_MasterRecord_March16.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_CorrectiveAddendum.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/annie_all_time_logs.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/THE END FIGHT.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_MasterRecord_FINAL.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/end-fight-notebooklm-podcast-transcript.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [relationships]
 connections:
   - page: wiki/timeline/events/july-2026-recontact

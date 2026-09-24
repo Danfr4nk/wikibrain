@@ -5,11 +5,11 @@ status: active
 date_created: 2026-07-16
 date_modified: 2026-09-04
 sources:
-  - "raw/self/twitter/archive.jsonl"
-  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"
-  - "raw/self/dox-scan/FULL TWITTER ANALYSIS.txt"
-  - "raw/self/dox-scan/all_imessages_complete_dump.txt"
-  - "raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html"
+  - "raw/twitter/archive.jsonl"
+  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/FULL TWITTER ANALYSIS.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [personality-profile, digital-footprint, nyc-era]
 connections:
   - page: wiki/interests/favorites/music/artists/fall-out-boy
@@ -32,7 +32,7 @@ connections:
     claim: "The show is naming infrastructure, not a watched programme: the Winter Park apartment is 'schrute farms' in the account's third tweet, the new kitten is shortlisted as Ari, Dwight or Mose, and the register survives into years with no television content in them."
   - page: wiki/self/twitter/2010
     type: evidenced-by
-    claim: "'remember when he stole \'shut up Oscar!\' from us in s5 of the office?' to Eric Jester (12 March 2010) is the idiom operating as shared private property between two friends rather than as a reference either is explaining."
+    claim: "'remember when he stole 'shut up Oscar!' from us in s5 of the office?' to Eric Jester (12 March 2010) is the idiom operating as shared private property between two friends rather than as a reference either is explaining."
   - page: wiki/self/twitter/2011
     type: evidenced-by
     claim: "Three years after the Winter Park apartment was named 'schrute farms', the phrase is still load-bearing enough to carry a pun with no setup — 'there's 100 dogs at the office, and no I'm not employed as a dog walker' — in a year with no television content in it at all."

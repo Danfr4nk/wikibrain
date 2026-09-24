@@ -4,7 +4,7 @@ page_type: entity
 status: active
 date_created: 2026-06-22
 date_modified: 2026-08-20
-sources: ["raw/self/dox-md/operating_manual.md", "raw/self/context-core/CONTEXT_CORE_EXPANDED.md", "raw/self/message-csv/imessage_7243228715_both_2025-06-03_now.csv", "raw/self/dox-md/BFS_BOOTLOADER_v2.md"]
+sources: ["raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/message-csv/imessage_7243228715_both_2025-06-03_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/BFS_BOOTLOADER_v2.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 synthesizes:
   - wiki/legal/463-morgantown
 connections:

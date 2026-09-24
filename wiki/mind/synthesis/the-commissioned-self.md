@@ -9,11 +9,11 @@ importance: high
 date_created: 2026-08-19
 date_modified: 2026-09-20
 sources:
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/dox-scan/Dan Profile.txt
-  - raw/self/dox-md/FULL PROFILE 2026.md
-  - raw/self/google-drive-export/Composite Voice Model for Dan Frank.md
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/google-drive-export/Composite Voice Model for Dan Frank.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/mind/profile/intp
   - wiki/mind/profile/enneagram-5w4

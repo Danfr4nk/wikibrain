@@ -7,11 +7,11 @@ date_modified: 2026-09-11
 date_range_start: 2018-02-16
 date_range_end: 2024-12-26
 sources:
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md
-  - raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md
-  - raw/places/captures/2026-08-27_022401_gap-117-belmont-circle.md
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/places/captures/2026-08-27_022401_gap-117-belmont-circle.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related: ["wiki/people/annie-ulmer", "wiki/places/117-belmont-circle", "wiki/self/message-corpora/master-message-dump", "wiki/mind/concepts/contact-gini"]
 tags: [relationships, uniontown-era, career]
 knowledge: mixed

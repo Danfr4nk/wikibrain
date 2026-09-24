@@ -10,10 +10,10 @@ date_range_start: 2016-06-03
 date_range_end: 2020-08-24
 date_modified: 2026-09-04
 sources:
-  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md
-  - "raw/self/dox-md/_Photo Thread PT II_ Grand Finale Calibration .md"
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
+  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - "raw/self/dox-md/_Photo Thread PT II_ Grand Finale Calibration .md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [family, legal, financial-stress, uniontown-era]
 infobox:
   name: "Fred Adams"

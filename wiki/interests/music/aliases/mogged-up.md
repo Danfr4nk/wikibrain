@@ -5,8 +5,8 @@ status: closed
 date_created: 2026-06-22
 date_modified: 2026-07-13
 sources:
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/message-csv/imessage_ALL_both_all_now.csv
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_ALL_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/interests/music/overview
   - wiki/interests/music/aliases/sloppp

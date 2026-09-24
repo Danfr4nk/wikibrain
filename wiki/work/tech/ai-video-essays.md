@@ -7,7 +7,7 @@ knowledge: mixed
 date_created: 2026-07-20
 date_modified: 2026-07-20
 sources:
-  - "raw/self/dox-md/Creating robust video essays from scripts.md"
+  - "raw/self/dox-md/Creating robust video essays from scripts.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [ai-collaboration, music-production, ideology]
 connections:
   - page: wiki/interests/roman-republic

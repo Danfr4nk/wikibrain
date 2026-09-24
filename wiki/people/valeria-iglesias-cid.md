@@ -11,11 +11,11 @@ sources:
   - raw/messenger-drive-2026-09-12/messenger_drive_canonical.jsonl
   - raw/messenger-drive-2026-09-12/notable-excerpts.md
   - raw/messenger-drive-2026-09-12/threads.json
-  - raw/self/dansynth/TheOnlyThingDanSlings.md
-  - raw/self/dansynth/AuZaatarsFinalShift.md
-  - raw/self/dox-md/Gemini-_00.md
-  - raw/self/dox-md/Gemini-_02.md
-  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md
+  - raw/self/dansynth/TheOnlyThingDanSlings.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/AuZaatarsFinalShift.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/Gemini-_00.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/Gemini-_02.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - media_library/image/a8/a8848cbb64f3fa536b04d064dc07c391f11c4cbddcd09d4807b0610d804cc29a.jpg
 related:
   - wiki/people/annie-ulmer

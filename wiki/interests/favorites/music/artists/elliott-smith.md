@@ -7,10 +7,10 @@ importance: high
 date_created: 2026-06-22
 date_modified: 2026-09-19
 sources:
-  - "raw/self/favorites/FAVS MASTERLIST.csv"
-  - "raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html"
-  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"
-  - "raw/self/gemini-activity/Gemini Activity.html"
+  - "raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md"
   - "raw/imessage/messages-part1-2011-2019.csv"
   - "raw/imessage/messages-part2-2019-2026.csv"
   - "raw/imessage/manifest.json"

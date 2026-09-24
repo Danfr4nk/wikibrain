@@ -18,7 +18,7 @@ synthesizes:
   - wiki/people/libby
 tags: [financial-stress, legal, nyc-era, forensic-analysis, career]
 sources:
-  - raw: raw/drive-sweep/20260911/gsheets/message-csv/imessages_2124702449_last6months.from-gsheet.imessage_2124702449_last6months.csv.csv
+  - raw: raw/drive-sweep/20260911/gsheets/message-csv/imessages_2124702449_last6months.from-gsheet.imessage_2124702449_last6months.csv.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 connections:
   - page: wiki/people/libby
     type: component-of

@@ -8,7 +8,7 @@ sources:
   - "dat:1587-conjunction-rule-cultural-literacy-20260915 (verbatim conjunction quotes, 15:44:19Z + 15:45:29Z)"
   - "dat:1588-moving-shibboleth-early-adopter-20260915 (shibboleth synthesis Dan endorsed in-thread, 15:42:18Z)"
   - "dat:1589-wes-anderson-early-adopter-self-report-20260915 (the early-adopter record the shibboleth defends)"
-  - "src:sammy-chat-transcript-20260915-1555 (archived thread tail, 15:42–15:47Z; the ladder rungs and survey interrogation predate the archived window and rest on the 2026-09-15 thread as worked)"
+  - "src:sammy-chat-transcript-20260915-1555 (archived thread tail, 15:42–15:47Z; the ladder rungs and survey interrogation predate the archived window and rest on the 2026-09-15 thread as worked) — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [exceptionality, gatekeeping, cultural-capital, wes-anderson, shibboleth]
 connections:
   - page: wiki/interests/film-canon

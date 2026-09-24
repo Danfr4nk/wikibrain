@@ -8,7 +8,7 @@ date_modified: 2026-07-19
 date_range_start: 2019-05-24
 date_range_end: 2020-09-10
 sources:
-  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"
+  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [nyc-era, digital-footprint]
 infobox:
   name: "Sam"

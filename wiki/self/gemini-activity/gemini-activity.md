@@ -6,7 +6,7 @@ date_created: 2026-06-22
 date_modified: 2026-07-02
 date_range_start: 2024-01-01
 date_range_end: 2026-01-02
-sources: ["raw/self/gemini-activity/Gemini Activity.html", "raw/self/dox-md/Gemini-_00.md", "raw/self/dox-md/Gemini-_02.md", "raw/self/dox-md/Gemini-_07.md", "raw/self/dox-md/Gemini-_13.md", "raw/self/dox-md/Gemini-_18.md", "raw/self/dox-md/Gemini-_21.md", "raw/self/dox-scan/Gemini-_58.txt"]
+sources: ["raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md", "raw/self/dox-md/Gemini-_00.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/Gemini-_02.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-07.md", "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-13.md", "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md", "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-21.md", "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-58.md"]
 related: ["wiki/mind/synthesis/ai-collaborative-analysis", "wiki/mind/concepts/forensic-method", "wiki/mind/synthesis/totality-themes", "wiki/self/context-core"]
 tags: [ai-collaboration, politics, nyc-era, relationships, addiction-recovery]
 connections:

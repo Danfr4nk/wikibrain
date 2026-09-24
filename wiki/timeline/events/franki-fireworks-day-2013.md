@@ -10,8 +10,8 @@ date_modified: 2026-09-03
 date_range_start: 2013-07-01
 date_range_end: 2013-10-31
 sources:
-  - raw/people/captures/2026-08-02_004832_franki-and-the-fireworks.md
-  - raw/people/captures/2026-08-27_223406_gap-alexis-armel.md
+  - raw/people/captures/2026-08-02_004832_franki-and-the-fireworks.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-27_223406_gap-alexis-armel.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [relationships, uniontown-era, music-production, addiction-recovery]
 connections:
   - page: wiki/people/franki-faris

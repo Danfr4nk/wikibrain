@@ -9,10 +9,10 @@ importance: high
 date_created: 2026-08-19
 date_modified: 2026-08-28
 sources:
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/message-csv/imessage_7243228715_both_all_now.csv
-  - raw/self/captures/2026-08-10_014938_307-76th-cast-roach-bombing.md
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_7243228715_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-10_014938_307-76th-cast-roach-bombing.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/places/424-bedford-ave
   - wiki/places/90th-st-manhattan

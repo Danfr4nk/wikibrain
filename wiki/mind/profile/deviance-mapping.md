@@ -7,11 +7,11 @@ status: stable
 date_created: 2026-07-13
 date_modified: 2026-09-13
 sources:
-  - raw/self/sage/2026-08-22_005829_what-would-make-dan-happy.md
-  - raw/self/dox-scan/Dan Profile.txt
+  - raw/self/sage/2026-08-22_005829_what-would-make-dan-happy.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/ANALYSIS_ SOCIAL DEVIANCES.rtf
-  - raw/self/dox-md/OMNI_FORENSIC_DOSSIER.md
-  - raw/self/dox-md/BIBI_PERSONALITY_DECONSTRUCTION.md
+  - raw/self/dox-md/OMNI_FORENSIC_DOSSIER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/BIBI_PERSONALITY_DECONSTRUCTION.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/mind/profile/index
   - wiki/mind/profile/big-five-psychometrics

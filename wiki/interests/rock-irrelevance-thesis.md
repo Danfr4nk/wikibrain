@@ -4,7 +4,7 @@ page_type: concept
 status: stable
 date_created: 2026-06-22
 date_modified: 2026-08-26
-sources: ["raw/self/chats/The 2nd most famous 'Jimmy Pop' in Pennsylvania .md"]
+sources: ["raw/self/chats/The 2nd most famous 'Jimmy Pop' in Pennsylvania .md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/interests/favorites/music", "wiki/interests/favorites/music/artists/", "wiki/interests/music/concepts/sub-bass-signature", "wiki/self/context-core", "wiki/self/favorites"]
 tags: [music-production, ai-collaboration]
 connections:

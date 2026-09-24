@@ -6,11 +6,11 @@ status: closed
 date_created: 2026-07-13
 date_modified: 2026-09-12
 sources:
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-md/operating_manual.md
-  - raw/self/dansynth/DANSYNTH.txt
-  - raw/self/dansynth/dansynth-scrape-phases-2-7.md
-  - raw/people/captures/2026-08-27_223406_gap-alexis-armel.md
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/dansynth-scrape-phases-2-7.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-27_223406_gap-alexis-armel.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/people/alexis-armel
   - wiki/people/annie-ulmer

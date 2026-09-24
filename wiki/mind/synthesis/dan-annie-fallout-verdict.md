@@ -7,16 +7,16 @@ status: active
 date_created: 2026-07-15
 date_modified: 2026-08-28
 sources:
-  - raw/self/message-csv/imessage_2124702449_both_all_now.csv
-  - raw/self/message-csv/imessage_7244346811+212****2449_both_all_now.csv
-  - raw/self/message-csv/imessages_2124702449_last6months.csv
-  - raw/self/message-csv/annie_all_time_logs.csv
-  - raw/self/message-csv/THE END FIGHT.csv
-  - raw/self/message-csv/imessage_export_7248123683_20260624.csv
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/dox-scan/DanAnnie_CorrectiveAddendum.txt
-  - raw/self/dox-scan/report collection.txt
-  - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md
+  - raw/self/message-csv/imessage_2124702449_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_7244346811+212****2449_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessages_2124702449_last6months.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/annie_all_time_logs.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/THE END FIGHT.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/drive-sweep/20260911/imessage/imessage_export_7248123683_20260624.csv
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_CorrectiveAddendum.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/report collection.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/people/annie-ulmer
   - wiki/timeline/events/eli-incident

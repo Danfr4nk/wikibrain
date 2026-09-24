@@ -7,7 +7,7 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
-  - raw/self/message-csv/aug-sep-2026-imessage-export
+  - raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv
 synthesizes:
   - wiki/mind/synthesis/four-financial-inversions
   - wiki/mind/synthesis/high-provision-low-condolence

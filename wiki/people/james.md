@@ -8,14 +8,14 @@ date_modified: 2026-07-14
 date_range_start: 2025-05-27
 date_range_end: present
 sources:
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - *raw/self/message-csv/imessage_*_2025 slices
-  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md
-  - raw/self/dox-md/Gemini-_21.md
-  - raw/self/dox-md/Gemini Activity.html
-  - raw/self/dox-md/MAX_PRIME.md
-  - raw/self/dox-md/_☣☢ 𝙼𝚊𝚡 ☢☣ Pinned chat.md
-  - raw/self/dox-scan/Gemini-_58.txt
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - "*raw/self/message-csv/imessage_*_2025 slices"
+  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-21.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md
+  - raw/self/dox-md/MAX_PRIME.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/_☣☢ 𝙼𝚊𝚡 ☢☣ Pinned chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-58.md
 related:
   - wiki/people/danielle-onesi
   - wiki/people/annie-ulmer

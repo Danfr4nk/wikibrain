@@ -8,7 +8,7 @@ date_modified: 2026-07-19
 date_range_start: 2009-09-25
 date_range_end: 2009-11-10
 sources:
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/stephanienalbone_tnsgkur3lq/message_1.html"
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/stephanienalbone_tnsgkur3lq/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [relationships, uniontown-era]
 infobox:
   name: "Stephanie Nalbone"

@@ -7,9 +7,9 @@ date_modified: 2026-08-11
 date_range_start: 2000-01-01
 date_range_end: 2020-05-09
 sources:
-  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"
-  - raw/self/captures/2026-08-09_122727_extreme-sports.md
-  - raw/people/captures/2026-08-11_051311_rick-childhood-control-and-humiliation.md
+  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - raw/self/captures/2026-08-09_122727_extreme-sports.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-11_051311_rick-childhood-control-and-humiliation.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [digital-footprint, uniontown-era, family]
 knowledge: derived
 infobox:

@@ -6,7 +6,7 @@ date_created: 2026-06-23
 date_modified: 2026-09-18
 date_range_start: 2019-06-01
 date_range_end: 2020-06-28
-sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv", "raw/people/annie-ulmer/escort-messages-chatgpt-export-2025-08.md"]
+sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/people/annie-ulmer/escort-messages-chatgpt-export-2025-08.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/people/brian", "wiki/people/kelly-johansson", "wiki/people/trinity-st-clair", "wiki/people/annie-ulmer", "wiki/self/message-corpora/master-message-dump", "wiki/mind/psychosexual/orchestration-and-voyeurism", "wiki/mind/psychosexual/arrangement-history"]
 tags: [relationships, nyc-era]
 knowledge: earned

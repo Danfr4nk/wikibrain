@@ -11,8 +11,8 @@ sources:
   - raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv
   - kb/data/1292-block-unblock-loop-severance-recount-129-128.md
   - kb/data/0090-block-retraction-2026-09-11.md
-  - src:aug-sep-2026-imessage-export-20260912
-  - src:ally-name-sweep-annie-thread-20260913
+  - src:aug-sep-2026-imessage-export-20260912 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:ally-name-sweep-annie-thread-20260913 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/mind/synthesis/severance-declarations
   - wiki/mind/synthesis/block-unblock-loop

@@ -7,12 +7,12 @@ status: stable
 date_created: 2026-07-13
 date_modified: 2026-08-27
 sources:
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/dox-scan/Dan Profile.txt
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/ANALYSIS_ Linguistic.rtf
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-md/Phase_2_Stylometric_Analysis.md
-  - raw/mind/captures/2026-08-27_013705_gap-linguistic-profile.md
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/Phase_2_Stylometric_Analysis.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/mind/captures/2026-08-27_013705_gap-linguistic-profile.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/mind/profile/index
   - wiki/mind/profile/deviance-mapping

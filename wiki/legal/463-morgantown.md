@@ -6,9 +6,9 @@ status: active
 date_created: 2026-06-22
 date_modified: 2026-08-20
 sources:
-  - raw/self/message-csv/imessage_7243228715_both_all_now.csv
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-md/operating_manual.md
+  - raw/self/message-csv/imessage_7243228715_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/people/alexander-jackson
   - wiki/people/suzanne-frank

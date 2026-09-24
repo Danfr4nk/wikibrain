@@ -4,7 +4,7 @@ page_type: synthesis
 status: archived
 date_created: 2026-06-22
 date_modified: 2026-08-19
-sources: ["raw/self/favorites/FAVS MASTERLIST.csv", "raw/self/dox-md/FAVORITES DATA (2).md", "raw/self/google-drive-export/goodreads_library_export.md"]
+sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/FAVORITES DATA (2).md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/google-drive-export/goodreads_library_export.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/interests/favorites/index", "wiki/self/context-core", "wiki/self/overview", "wiki/self/facebook", "wiki/interests/favorites/eclecticism", "wiki/interests/favorites/taste-profile", "wiki/mind/synthesis/totality-themes", "wiki/timeline/events/timeline", "wiki/interests/favorites/books/want-to-read"]
 tags: [politics, personality-profile, ai-collaboration]
 synthesizes:

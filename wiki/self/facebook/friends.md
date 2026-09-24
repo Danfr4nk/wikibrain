@@ -4,7 +4,7 @@ page_type: report
 status: archived
 date_created: 2026-06-23
 date_modified: 2026-06-23
-sources: ["raw/self/facebook/facebook-ihatedanfrank/friends_and_followers/"]
+sources: ["raw/self/facebook/facebook-ihatedanfrank/friends_and_followers/ — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/facebook", "wiki/timeline/periods/2015-2016-annie-relationship-start", "wiki/people/rick-frank", "wiki/mind/concepts/contact-gini"]
 tags: [family, nyc-era, relationships, uniontown-era, trauma-bond]
 ---

@@ -9,19 +9,19 @@ date_created: 2026-06-22
 date_modified: 2026-08-08
 date_range_start: 2021-02-06
 sources:
-  - raw/self/dox-md/Jacob Bacharach.md
-  - raw/self/dox-md/Gemini-_13.md
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/dox-scan/dan tom 2010 2022.txt
-  - raw/self/dox-scan/browser_history_analysis.txt
-  - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md
-  - raw/self/dansynth/DANSYNTH.txt
-  - raw/self/google-drive-export/goodreads_library_export.md
-  - raw/self/favorites/FAVS MASTERLIST.csv
-  - "raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2026-07-20).html"
-  - raw/self/gemini-activity/Gemini Activity.html
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/joeoshnack_7killpebkw/message_1.html
+  - raw/wiki/new-wiki/wikibrain/wiki/people/jacob-bacharach.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-13.md
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/dan tom 2010 2022.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/browser_history_analysis.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/google-drive-export/goodreads_library_export.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - "raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2026-07-20).html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/joeoshnack_7killpebkw/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [forensic-analysis, ai-collaboration, uniontown-era, nyc-era, digital-footprint]
 infobox:
   name: "Jacob Bacharach"

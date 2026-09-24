@@ -7,12 +7,12 @@ status: active
 date_created: 2026-06-22
 date_modified: 2026-09-15
 sources:
-  - raw/self/sage/2026-08-21_220918_which-of-the-people-in-this-wiki-would-be-the-be.md
-  - raw/self/sage/2026-08-22_005829_what-would-make-dan-happy.md
-  - raw/self/dox-scan/DanAnnie_CorrectiveAddendum.txt
-  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md
-  - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md
-  - raw/self/dox-md/Breaking the anxiety avoidance cycle (1).md
+  - raw/self/sage/2026-08-21_220918_which-of-the-people-in-this-wiki-would-be-the-be.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/sage/2026-08-22_005829_what-would-make-dan-happy.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_CorrectiveAddendum.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/Breaking the anxiety avoidance cycle (1).md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [relationships, attachment, addiction-recovery, trauma-bond, infidelity]
 connections:
   - page: wiki/mind/concepts/explicit-verbal-commitment

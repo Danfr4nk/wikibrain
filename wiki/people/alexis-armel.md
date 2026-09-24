@@ -11,23 +11,23 @@ date_modified: 2026-09-12
 date_range_start: 2009-10-01
 date_range_end: 2025-02-19
 sources:
-  - raw/self/chats/Analyzing manipulation and ethical intent in data.md
-  - raw/self/dox-scan/gmail_bodies.txt
-  - raw/self/message-csv/imessage_export_7249707658_both_all_now.csv
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-scan/FULL TWITTER ANALYSIS.txt
-  - raw/self/twitter/archive.jsonl
-  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md
-  - raw/self/dox-scan/dan tom 2010 2022.txt
-  - raw/self/dox-scan/Gemini-_58.txt
-  - raw/self/dox-md/Gemini-_18.md
-  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md
-  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/lucasthomas_eu0ir1uckq/message_1.html
-  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/qymuchauiq/message_1.html
-  - raw/people/captures/2026-08-27_222932_gap-alexis-armel.md
-  - raw/people/captures/2026-08-27_223406_gap-alexis-armel.md
+  - raw/self/chats/Analyzing manipulation and ethical intent in data.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/gmail_bodies.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_export_7249707658_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/FULL TWITTER ANALYSIS.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/twitter/archive.jsonl
+  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/dan tom 2010 2022.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-58.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md
+  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/lucasthomas_eu0ir1uckq/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/qymuchauiq/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-27_222932_gap-alexis-armel.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-27_223406_gap-alexis-armel.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [relationships, attachment, infidelity, nyc-era, uniontown-era]
 infobox:
   name: "Alexis Armel"

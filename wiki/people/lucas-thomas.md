@@ -8,7 +8,7 @@ date_modified: 2026-07-19
 date_range_start: 2017-02-11
 date_range_end: 2017-02-16
 sources:
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/lucasthomas_eu0ir1uckq/message_1.html"
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/lucasthomas_eu0ir1uckq/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [uniontown-era, legal]
 infobox:
   name: "Lucas Thomas"

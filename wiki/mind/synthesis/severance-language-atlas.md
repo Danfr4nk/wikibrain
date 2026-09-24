@@ -8,10 +8,10 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
-  - src:wikitest-corpus-messages-2026-09-08
-  - kb/data/1292-block-unblock-loop-severance-recount-129-128
-  - kb/data/0081-explicit-commitment-architecture
-  - kb/data/0090-block-retraction-2026-09-11
+  - src:wikitest-corpus-messages-2026-09-08 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - kb/data/1292-block-unblock-loop-severance-recount-129-128.md
+  - kb/data/0081-explicit-commitment-architecture.md
+  - kb/data/0090-block-retraction-2026-09-11.md
   - raw/imessage/messages-part1-2011-2019.csv
   - raw/imessage/messages-part2-2019-2026.csv
 synthesizes:

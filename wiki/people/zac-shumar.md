@@ -1,3 +1,10 @@
+---
+domain: people
+page_type: entity
+title: "Zac Shumar"
+status: active
+---
+
 # Zac Shumar
 
 Zac Shumar is the Uniontown man who — in the space of a decade — dated Dan

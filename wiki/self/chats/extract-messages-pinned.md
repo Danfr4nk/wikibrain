@@ -4,7 +4,7 @@ page_type: chat
 status: archived
 date_created: 2026-06-22
 date_modified: 2026-06-22
-sources: ["raw/self/dox-md/_ⒺⓍⓉⓇⒶⒸⓉ ⓂⒺⓈⓈⒶⒼⒺⓈ Pinned chat.md", "raw/self/dox-md/_ⒺⓍⓉⓇⒶⒸⓉ ⓂⒺⓈⓈⒶⒼⒺⓈ Pinned chat copy.md"]
+sources: ["raw/self/dox-md/_ⒺⓍⓉⓇⒶⒸⓉ ⓂⒺⓈⓈⒶⒼⒺⓈ Pinned chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/_ⒺⓍⓉⓇⒶⒸⓉ ⓂⒺⓈⓈⒶⒼⒺⓈ Pinned chat copy.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/chats/danfrank-isms-pinned", "wiki/self/chats/j6-chat", "wiki/self/message-corpora/master-message-dump", "wiki/mind/concepts/forensic-method"]
 tags: [ai-collaboration]
 ---

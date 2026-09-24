@@ -7,7 +7,7 @@ status: stable
 date_created: 2026-07-13
 date_modified: 2026-08-26
 sources:
-  - raw/self/google-drive-export/Composite Voice Model for Dan Frank.md
+  - raw/self/google-drive-export/Composite Voice Model for Dan Frank.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/mind/profile/index
   - wiki/mind/profile/linguistic-profile

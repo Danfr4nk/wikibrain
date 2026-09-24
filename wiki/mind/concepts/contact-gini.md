@@ -8,10 +8,10 @@ date_modified: 2026-09-13
 knowledge: earned
 tags: [relationships, attachment, forensic-analysis, digital-footprint]
 sources:
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/message-csv/annie_all_time_logs.csv
-  - raw/self/message-csv/imessage_3307038747_both_all_now.csv
-  - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/annie_all_time_logs.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_3307038747_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - corpus/messages.csv (held authoritative export, 192,140 rows)
 connections:
   - page: wiki/mind/synthesis/single-channel

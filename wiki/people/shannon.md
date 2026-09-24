@@ -5,7 +5,7 @@ status: closed
 date_created: 2026-06-23
 date_modified: 2026-07-20
 sources:
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [career, digital-footprint]
 infobox:
   name: "Shannon"

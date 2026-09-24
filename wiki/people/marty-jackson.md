@@ -8,7 +8,7 @@ date_modified: 2026-08-10
 date_range_start: 2012-02-15
 date_range_end: 2012-04-09
 sources:
-  - raw/self/gmail-captures/2026-08-10-creative-license-kevin-mckiernan-gmail.md
+  - raw/gmail/2026-08-10-creative-license-kevin-mckiernan-gmail.md
 tags: [nyc-era, career, digital-footprint]
 infobox:
   name: "Martin O. Jackson"

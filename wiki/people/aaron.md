@@ -8,7 +8,7 @@ date_modified: 2026-07-20
 date_range_start: 2025-08-21
 date_range_end: 2025-09-13
 sources:
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [politics, digital-footprint]
 infobox:
   name: "Aaron"

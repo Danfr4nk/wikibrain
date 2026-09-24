@@ -6,7 +6,7 @@ date_created: 2026-06-23
 date_modified: 2026-09-21
 date_range_start: 2015-11-29
 date_range_end: 2018-10-24
-sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv", "exports/annie-corpus.csv (built by bin/annie-corpus)", "corpus/derived/threads.csv", "kb/data/0122-casey-bondarenka-switch-night-quotes-confirmed.md", "kb/data/0712-dans-law-lex-collapse-casey-attribution-confirmed.md", "kb/data/casey-uncured-harvest-dream-queen-20260912.md", "kb/sources/virginia-ave-grow-2015.md", "kb/data/virginia-ave-grow-timeline-2015.md", "kb/data/virginia-ave-grow-flower-2015.md", "wiki/media/upload-038.jpg"]
+sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "exports/annie-corpus.csv (built by bin/annie-corpus)", "corpus/derived/threads.csv", "kb/data/0122-casey-bondarenka-switch-night-quotes-confirmed.md", "kb/data/0712-dans-law-lex-collapse-casey-attribution-confirmed.md", "kb/data/casey-uncured-harvest-dream-queen-20260912.md", "kb/sources/virginia-ave-grow-2015.md", "kb/data/virginia-ave-grow-timeline-2015.md", "kb/data/virginia-ave-grow-flower-2015.md", "wiki/media/upload-038.jpg"]
 tags: [relationships, digital-footprint, uniontown-era]
 knowledge: mixed
 connections:

@@ -11,9 +11,9 @@ sources:
   - "dat:1869-goon-club-steering-commit-20260922"
   - "dat:1870-goon-club-denial-stroke-goal-20260922"
   - "dat:1871-goon-club-embodiment-threesome-20260922"
-  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md
-  - raw/self/dansynth/DANSYNTH.txt
-  - "raw/self/dox-scan/HEART.pdf.txt"
+  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - "raw/self/dox-scan/HEART.pdf.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/self/dox-scan/DAN IDEAL FACE.rtf"
   - scenario-rate.html session export, 2026-09-11 (v1 instrument, 121 of 122 rated)
 connections:

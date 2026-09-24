@@ -4,7 +4,7 @@ page_type: entity
 status: archived
 date_created: 2026-06-22
 date_modified: 2026-07-11
-sources: ["raw/self/dox-md/_𝕄𝕒𝕣𝕪-𝕂𝕒𝕥𝕖 2 Pinned chat.md", "raw/self/dox-md/MAX_PRIME.md", "raw/self/context-core/CONTEXT_CORE_EXPANDED.md"]
+sources: ["raw/self/dox-md/_𝕄𝕒𝕣𝕪-𝕂𝕒𝕥𝕖 2 Pinned chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/MAX_PRIME.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/context-core", "wiki/self/chats/danfrank-isms-pinned", "wiki/self/message-corpora/master-message-dump", "wiki/people/max", "wiki/work/tech/max-framework/overview", "wiki/mind/synthesis/vertical-authority-skepticism", "wiki/mind/concepts/forensic-method"]
 tags: [family, ai-collaboration, personality-profile]
 infobox:

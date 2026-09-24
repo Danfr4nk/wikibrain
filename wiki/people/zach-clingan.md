@@ -10,13 +10,13 @@ date_modified: 2026-09-12
 date_range_start: 2009-10-06
 date_range_end: 2018-12-09
 sources:
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/dox-scan/dan tom 2010 2022.txt
-  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/stephanienalbone_tnsgkur3lq/message_1.html
-  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/tommaison_z_scvtnccq/message_1.html
-  - raw/self/facebook/facebook-ihatedanfrank/other_personal_information/your_address_books.html
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/people/captures/2026-08-27_222932_gap-alexis-armel.md
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/dan tom 2010 2022.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/stephanienalbone_tnsgkur3lq/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/tommaison_z_scvtnccq/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/other_personal_information/your_address_books.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-27_222932_gap-alexis-armel.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [uniontown-era, digital-footprint, career, relationships]
 infobox:
   name: "Zach Clingan"

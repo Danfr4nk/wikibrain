@@ -19,12 +19,12 @@ infobox:
   ideology: Democratic socialist
   medication: Suboxone (since 2010-02-17)
 sources:
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md
-  - raw/self/dox-md/operating_manual.md
-  - raw/self/dox-md/FULL PROFILE 2026.md
-  - raw/self/dox-scan/Dan Profile.txt
-  - raw/self/facebook/facebook-ihatedanfrank/
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/self/context-core
   - wiki/mind/profile/index

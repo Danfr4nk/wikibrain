@@ -6,7 +6,7 @@ date_created: 2026-07-02
 date_modified: 2026-07-02
 date_range_start: 2007-01-09
 date_range_end: 2022-09-05
-sources: ["raw/self/facebook/facebook-ihatedanfrank/"]
+sources: ["raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/facebook", "wiki/interests/favorites/music", "wiki/mind/synthesis/millennial-digital-witness"]
 tags: [nyc-era]
 ---

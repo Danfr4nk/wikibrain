@@ -10,8 +10,8 @@ date_modified: 2026-09-19
 date_range_start: 2015-12-10
 date_range_end: 2025-12-28
 sources:
-  - raw/people/captures/2026-08-02_010509_jay-lauer-death.md
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
+  - raw/people/captures/2026-08-02_010509_jay-lauer-death.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/imessage/messages-part1-2011-2019.csv
   - raw/imessage/messages-part2-2019-2026.csv
   - raw/imessage/manifest.json

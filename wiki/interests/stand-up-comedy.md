@@ -5,9 +5,9 @@ status: stable
 date_created: 2026-07-16
 date_modified: 2026-07-19
 sources:
-  - "raw/self/dox-scan/Dan Profile.txt"
-  - "raw/self/dox-scan/all_imessages_complete_dump.txt"
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/bobbycole_-p2picui8w/message_1.html"
+  - "raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/bobbycole_-p2picui8w/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 related:
   - wiki/interests/index
   - wiki/interests/the-office

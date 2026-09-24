@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WikiBrain Harness</title>
+<link rel="stylesheet" href="./css/harness.css">
+</head>
+<body>
+<header id="harness-header">
+  <div class="brand"><a href="#/">WikiBrain Harness</a></div>
+  <nav id="harness-nav">
+    <a href="#/explore" data-view="explore">Explore</a>
+    <a href="#/journey" data-view="journey">Journey</a>
+    <a href="#/time" data-view="time">Time</a>
+    <a href="#/evidence" data-view="evidence">Evidence</a>
+    <a href="#/search" data-view="search">Search</a>
+  </nav>
+  <div id="gate-banner" hidden></div>
+</header>
+<div id="harness-layout">
+  <main id="harness-main" aria-live="polite"></main>
+  <aside id="context-panel" aria-label="Context"></aside>
+</div>
+<footer id="harness-footer"></footer>
+<script src="./js/store.js"></script>
+<script src="./js/router.js"></script>
+<script src="./js/context-panel.js"></script>
+<script src="./js/read.js"></script>
+<script src="./js/search.js"></script>
+<script src="./js/explore.js"></script>
+<script src="./js/journey.js"></script>
+<script src="./js/time.js"></script>
+<script src="./js/evidence.js"></script>
+<script src="./js/boot.js"></script>
+</body>
+</html>

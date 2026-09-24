@@ -6,7 +6,7 @@ date_created: 2026-06-23
 date_modified: 2026-07-14
 date_range_start: 2018-11-29
 date_range_end: 2019-02-18
-sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"]
+sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/timeline/periods/2018-deep-cycle", "wiki/people/johnny-dealer", "wiki/self/message-corpora/master-message-dump"]
 tags: [addiction-recovery, financial-stress, uniontown-era]
 knowledge: derived

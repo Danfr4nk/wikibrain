@@ -7,7 +7,7 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
-  - src:messenger-2026-09-12-pull
+  - src:messenger-2026-09-12
   - src:imessage-corpus-2026
   - kb/data/1452-kristin-aug26-messenger-inbound.md
   - kb/data/1453-dan-texts-kristin-block-broken.md

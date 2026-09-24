@@ -1,0 +1,614 @@
+#!/usr/bin/env python3
+"""bin/wb-sources-repair -- sources: repair tool (proposal S8).
+
+Three modes:
+  --check         Recompute P/N/A resolution for every frontmatter sources:
+                  entry against the tree. Exits non-zero if any P/N/A-class
+                  entry stops resolving (regression gate for CI / the 6h cron).
+  --apply-a       Apply the S5 deterministic remaps (D2) page-by-page:
+                  R-EXT (3), R-EVT (2), per-entry TABLE (12). Dry-run diff
+                  printed by default; --yes writes the files.
+  --apply-queue   D3 review-queue consumer. NOT IMPLEMENTED: D3 is on hold
+                  for human review per the 2026-09-24 decisions.
+
+HARD BOUNDARY (2026-09-24 decisions, proposal S11): this tool never touches
+B/C/D-dead/E entries. No guessing ambiguous targets, no deleting citations,
+no applying unresolved markers, no "fixing" E-class entries. D1+D2 only.
+
+Usage:
+  python3 bin/wb-sources-repair --check [--repo-root .]
+  python3 bin/wb-sources-repair --apply-a [--repo-root .] [--yes]
+"""
+import argparse
+import os
+import re
+import sys
+
+# ---------------------------------------------------------------------------
+# D2 deterministic remap table (proposal S5). Generated from the audit's
+# final_classes.json (~/workspace/wiki-harness/audit/extract-20260923/).
+# Order: R-EXT, R-EVT, per-entry TABLE. Do not hand-edit: regenerate.
+# ---------------------------------------------------------------------------
+SRC_REMAP = [
+    ("kb/data/0081-explicit-commitment-architecture", "kb/data/0081-explicit-commitment-architecture.md", "R-EXT"),
+    ("kb/data/0090-block-retraction-2026-09-11", "kb/data/0090-block-retraction-2026-09-11.md", "R-EXT"),
+    ("kb/data/1292-block-unblock-loop-severance-recount-129-128", "kb/data/1292-block-unblock-loop-severance-recount-129-128.md", "R-EXT"),
+    ("claims/events.jsonl", "testimony/events.jsonl", "R-EVT"),
+    ("intake/events.jsonl", "testimony/events.jsonl", "R-EVT"),
+    ("ingest-queue.md", "ingest-queue.json", "TABLE"),
+    ("raw/self/archives/google-data-export-index-20260623.html", "raw/drive-sweep/20260911/takeout-index/google-data-export-index-20260623.html", "TABLE"),
+    ("raw/self/chats/___ The J6 Chat.md", "raw/googlechat/the-j6-chat.md", "TABLE"),
+    ("raw/self/facebook/facebook-export-2026-06-23", "kb/sources/facebook-export-2026-06-23.md", "TABLE"),
+    ("raw/self/gmail-captures/2026-08-10-creative-license-kevin-mckiernan-gmail.md", "raw/gmail/2026-08-10-creative-license-kevin-mckiernan-gmail.md", "TABLE"),
+    ("raw/self/location/2026-06-22-ingest/Location History (Timeline)/Semantic Location History/2019/2019_FEBRUARY.json", "raw/sammy/20260912-location-history/semantic/2019/2019_FEBRUARY.json", "TABLE"),
+    ("raw/self/message-csv/aug-sep-2026-imessage-export", "raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv", "TABLE"),
+    ("raw/self/message-csv/imessage_export_3307038747_20260624.csv", "raw/drive-sweep/20260911/imessage/imessage_export_3307038747_20260624.csv", "TABLE"),
+    ("raw/self/message-csv/imessage_export_7248123683_20260624.csv", "raw/drive-sweep/20260911/imessage/imessage_export_7248123683_20260624.csv", "TABLE"),
+    ("raw/self/twitter/tweet-archive.xlsx", "raw/twitter/tweet-archive.csv", "TABLE"),
+    ("raw/self/twitter/tweets_sample_2019-2026.txt", "raw/drive-sweep/20260911/twitter/profile-samples/tweets_sample_2019-2026.txt", "TABLE"),
+    ("wiki/mind/synthesis/august-26-block-retraction", "wiki/mind/synthesis/august-26-block-retraction.md", "TABLE"),
+]
+
+REMAP = {old: (new, rule) for old, new, rule in SRC_REMAP}
+
+# Generated from audit extract-20260923/final_classes.json.
+# P/N baseline for wb-sources-repair --check (regression gate).
+# 220 P entries, 68 N entries (audit date 2026-09-23).
+BASELINE_P = [
+    'corpus/derived/summary.json',
+    'corpus/derived/threads.csv',
+    'corpus/manifest.json',
+    'kb/data/0016-old-wiki-conflated-two-legal-matters.md',
+    'kb/data/0020-old-wiki-suboxone-hedonic-tension.md',
+    'kb/data/0025-old-wiki-prescriber-exists-routing-only.md',
+    'kb/data/0026-old-wiki-census-corrected-self-report.md',
+    'kb/data/0028-prescriber-quotes-partly-unverifiable.md',
+    'kb/data/0030-combos-corroborated-first-person.md',
+    'kb/data/0031-dui-belongs-to-the-other-speaker.md',
+    'kb/data/0033-2011-suboxone-appointment-with-screening.md',
+    'kb/data/0037-publication-gate-fails-safe.md',
+    'kb/data/0044-old-wiki-testimony-ledger.md',
+    'kb/data/0050-corpus-traces-of-the-type-are-downstream-of-it.md',
+    'kb/data/0054-facebook-archive-completed-and-recounted.md',
+    'kb/data/0055-facebook-corroborates-the-2010-maintenance-start.md',
+    'kb/data/0056-corpus-timestamps-are-not-zero-padded.md',
+    'kb/data/0057-morgantown-audio-contradiction-reproduces.md',
+    'kb/data/0058-graduation-september-2009-then-audit-and-certification.md',
+    'kb/data/0059-scenario-ratings-v1-scale-behavior.md',
+    'kb/data/0060-scenario-ratings-v1-pegging-floor.md',
+    'kb/data/0061-scenario-ratings-v1-amplifier-moderator-deltas.md',
+    'kb/data/0062-scenario-ratings-v1-cross-cutting-rules.md',
+    'kb/data/0064-jay-lauer-overdose-april-2017.md',
+    'kb/data/0065-hyperreflexivity-session-mid-2025-unverified.md',
+    'kb/data/0065-scenario-ratings-v1-export-verifies-profile.md',
+    'kb/data/0066-tooth-loss-causal-chain-vs-dental-record.md',
+    'kb/data/0070-ard-disposition-and-da-bar.md',
+    'kb/data/0072-retail-theft-arrest-split-from-possession.md',
+    'kb/data/0074-morgantown-housing-state-august-2026.md',
+    'kb/data/0076-lyric-qualifier.md',
+    'kb/data/0077-corpus-size-figures-mine-messages-tweets-history.md',
+    'kb/data/0081-explicit-commitment-architecture.md',
+    'kb/data/0090-block-retraction-2026-09-11.md',
+    'kb/data/0112-annie-2026-08-26-boundary-update-falsifier-fired.md',
+    'kb/data/0113-annie-personality-assessment-corpus-size-overstated.md',
+    'kb/data/0114-annie-personality-assessment-quote-spot-check.md',
+    'kb/data/0122-casey-bondarenka-switch-night-quotes-confirmed.md',
+    'kb/data/0156-arnu-contractor-463-morgantown.md',
+    'kb/data/0159-bobby-cole-nine-year-oa-friendship.md',
+    'kb/data/0196-art-and-movies-favorites.md',
+    'kb/data/0205-betherin-mechling.md',
+    'kb/data/0210-eli-incident.md',
+    'kb/data/0243-alexander-jackson-owner-claim.md',
+    'kb/data/0355-david-j-frank-great-grandfather-nyc-chapter.md',
+    'kb/data/0439-type-machine-journey-thesis.md',
+    'kb/data/0445-felix-painter-463-suz-message-verified.md',
+    'kb/data/0449-group-chat-closure-revised-arithmetic.md',
+    'kb/data/0453-fastly-fsly-jerad-tip-held-corpus-verified.md',
+    'kb/data/0490-eli-person-page-negative-footprint-redaction.md',
+    'kb/data/0533-exocortex-measured-claims-unverified.md',
+    'kb/data/0542-2025-collapse-volume-replicated-anomaly-flagged.md',
+    'kb/data/0571-elliott-smith-biographical-block-web-verified.md',
+    'kb/data/0572-patron-saint-of-liars-and-fakes-fall-out-boy-song-not-smith.md',
+    'kb/data/0573-rnb-before-1979-gate-message-2025-09-02-verbatim.md',
+    'kb/data/0574-elliott-smith-tattoo-tweet-2018-01-24-seven-tracks-gemini-one.md',
+    'kb/data/0585-jerad-friedline-thread-held-corpus-corrections.md',
+    'kb/data/0591-dec-2025-spike-annie-thread-held-replicated.md',
+    'kb/data/0621-attachment-model-page-self-audit-2026-08-10.md',
+    'kb/data/0622-attachment-model-129-episodes-resolution-withdraws-110-127.md',
+    'kb/data/0623-chaos-preference-counts-rest-on-unheld-profile-files.md',
+    'kb/data/0624-conflict-architecture-love-bomb-exchange-primary-verified.md',
+    'kb/data/0627-node-locking-aggregate-counts-unheld-gemini-corpus.md',
+    'kb/data/0673-jay-lauer-direction-and-count-corrections.md',
+    'kb/data/0674-jay-lauer-rick-exchange-unheld.md',
+    'kb/data/0677-john-carney-dossier-message-verified.md',
+    'kb/data/0679-2018-deep-cycle-volume-and-correction.md',
+    'kb/data/0680-2020-2021-market-era-trades-verified.md',
+    'kb/data/0710-bunker-core-bifurcated-os-provenance.md',
+    'kb/data/0712-dans-law-lex-collapse-casey-attribution-confirmed.md',
+    'kb/data/0754-reassurance-architecture-crisis-day-table-verified.md',
+    'kb/data/0755-reassurance-phrase-zeros-replicate-counts-diverge.md',
+    'kb/data/0756-intp-profile-function-scores-testimony.md',
+    'kb/data/0758-socionics-vocabulary-absent-from-corpus.md',
+    'kb/data/0798-profile-hub-composite-archetype-caveats.md',
+    'kb/data/0840-handed-mirror-2025-07-11-james-sequence-verified.md',
+    'kb/data/0841-handed-mirror-2026-07-25-annie-leviathan-instance-corroborated.md',
+    'kb/data/0887-mind-index-coverage-marker.md',
+    'kb/data/0898-ancestry-gedcom-scale-and-lines.md',
+    'kb/data/0936-marty-martin-bfs-employment-verified-and-unverified.md',
+    'kb/data/0937-enneagram-self-typing-5w6sx-rloei.md',
+    'kb/data/0952-cool-metric-thesis-testimony.md',
+    'kb/data/0953-cool-metric-dox-sources-unheld.md',
+    'kb/data/0954-cool-metric-ally-skins-exchange.md',
+    'kb/data/0978-mike-hinkle-thread-dimensions.md',
+    'kb/data/0983-rj-ritchey-thread-dimensions.md',
+    'kb/data/0986-sadie-harris-residence-record.md',
+    'kb/data/1030-facebook-messages-archive-extent.md',
+    'kb/data/1078-marxist-ultimatum-o-and-a-second-account.md',
+    'kb/data/1080-healthcare-grievance-2020-02-08.md',
+    'kb/data/1113-emotional-imprinting-single-source-dossier.md',
+    'kb/data/1203-lyrics-as-timbre-single-source-with-stated-limits.md',
+    'kb/data/1207-spatial-behavior-ai-generated-gps-reading.md',
+    'kb/data/1214-zach-hendricks-unresolved-relationship.md',
+    'kb/data/1245-film-canon-quote-verification.md',
+    'kb/data/1254-supply-network-thread-counts.md',
+    'kb/data/1256-commissioned-self-census-caveat.md',
+    'kb/data/1292-block-unblock-loop-severance-recount-129-128.md',
+    'kb/data/1299-urpaaa-yahoo-identity-unresolved-held-negative.md',
+    'kb/data/1301-vaughn-thread-count-page-claim-held-absent.md',
+    'kb/data/1303-derrick-avenue-mention-count-held.md',
+    'kb/data/1337-opie-anthony-cumia-contradiction-and-corrections.md',
+    'kb/data/1339-standup-ambition-messages-in-held-corpus.md',
+    'kb/data/1340-standup-only-openmic-evidence-claim-fails.md',
+    'kb/data/1341-standup-comedy-page-remainder.md',
+    'kb/data/1357-zaco-thread-recount.md',
+    'kb/data/1358-family-tree-european-born-count-tension.md',
+    'kb/data/1384-dormancy-not-exit-rule.md',
+    'kb/data/1407-franks-auto-supermarket-family-connection.md',
+    'kb/data/1408-legion-of-skanks-tapings-2019-12-23-2020-08-25.md',
+    'kb/data/1440-messenger-pull-incomplete.md',
+    'kb/data/1443-messenger-drive-correspondents.md',
+    'kb/data/1452-kristin-aug26-messenger-inbound.md',
+    'kb/data/1453-dan-texts-kristin-block-broken.md',
+    'kb/data/1454-dan-kristin-sep12-corrections.md',
+    'kb/data/1463-claude-cancellation-hidden-answer-test-20260912.md',
+    'kb/data/1481-ally-joke-read-as-threat-2018-12-17.md',
+    'kb/data/1493-explicit-register-calibration-intimate-photo-description.md',
+    'kb/data/1502-corpus-coverage-hole-2025.md',
+    'kb/data/1542-chapo-evangelism-raw-rows-20260205.md',
+    'kb/data/1546-phonetic-production-specimens-20260914.md',
+    'kb/data/1592-personality-instrument-head-to-head-20260915.md',
+    'kb/data/1708-autopsy-driver-grid-16-drivers-cata-method-basis-and-machine.md',
+    'kb/data/1750-hook2piano-pianoroll-rewrite-20260916.md',
+    'kb/data/1841-kristin-first-confirmed-in-person-meeting.md',
+    'kb/data/annie-new-life-exchange-2015-12-01.md',
+    'kb/data/casey-uncured-harvest-dream-queen-20260912.md',
+    'kb/data/dat-music-lyric-timbre-qualifier.md',
+    'kb/data/virginia-ave-grow-flower-2015.md',
+    'kb/data/virginia-ave-grow-timeline-2015.md',
+    'kb/entities/annie-ulmer.md',
+    'kb/entities/franks-auto-supermarket.md',
+    'kb/entities/hasan-piker.md',
+    'kb/entities/jay-lauer.md',
+    'kb/entities/morgantown-st-463.md',
+    'kb/events/2015-combos-retail-theft.md',
+    'kb/events/2021-03-au-zaatar-hired.md',
+    'kb/events/2025-12-message-spike.md',
+    'kb/events/2026-morgantown-st-move.md',
+    'kb/interpretations/attachment-model-129-exits.md',
+    'kb/interpretations/diagnosis-to-behavior-gap.md',
+    'kb/interpretations/film-canon-obligation.md',
+    'kb/interpretations/gemini-incidents-ledger.md',
+    'kb/interpretations/int-music-dj-selector-philosophy.md',
+    'kb/interpretations/int-music-song-unit-axiom.md',
+    'kb/interpretations/received-half-count-pattern.md',
+    'kb/interpretations/threat-model.md',
+    'kb/interpretations/work-identity-au-zaatar.md',
+    'kb/patterns/partial-data-confident-error.md',
+    'kb/patterns/reasoning-sound-provenance-unreliable.md',
+    'kb/patterns/taste-as-filter-stack.md',
+    'kb/sources/explicit-commitments-letter-2026-09-11.md',
+    'kb/sources/kristin-basement-security-cam-20250919.md',
+    'kb/sources/virginia-ave-grow-2015.md',
+    'kb/syntheses/evidence-discipline.md',
+    'kb/syntheses/wiki-brain-instrument.md',
+    'log.md',
+    'media/registry.json',
+    'raw/drive-sweep/20260911/gsheets/message-csv/MASTER_DUMP_PART_1_ARCHAIC.from-gsheet.MASTER_DUMP_PART_1_ARCHAIC.csv.csv',
+    'raw/drive-sweep/20260911/gsheets/message-csv/MASTER_MESSAGES_DB_DUMP.from-gsheet.MASTER_MESSAGES_DB_DUMP.csv.csv',
+    'raw/drive-sweep/20260911/gsheets/message-csv/imessage_2124702449_both_all_now.from-gsheet.imessage_2124702449_both_all_now.csv.csv',
+    'raw/drive-sweep/20260911/gsheets/message-csv/imessage_export_2124702449_20260820.from-gsheet.imessage_export_2124702449_20260820.csv.csv',
+    'raw/facebook-threads/MANIFEST.json',
+    'raw/facebook/export-20260908-b/gdocs/1l3W5TFbTn2z7TIMbgo34vU0WSMfiRXVxWKmqLWyKc9s.from-gdoc.txt',
+    'raw/facebook/export-20260908-b/gdocs/1yn263NA8AaOy1Rr5GsNtVi9-1EAhRczPzXhApiqBE5c.from-gdoc.txt',
+    'raw/imessage/manifest.json',
+    'raw/imessage/messages-iphone-union-gapfill-20260921.csv',
+    'raw/imessage/messages-part1-2011-2019.csv',
+    'raw/imessage/messages-part2-2019-2026.csv',
+    'raw/imessage/summary.json',
+    'raw/imessage/threads.csv',
+    'raw/instagram/export-20250824/connections/contacts/synced_contacts.json.from-cli-json.txt',
+    'raw/instagram/export-20250824/connections/followers_and_following/close_friends.json.from-cli-json.txt',
+    'raw/instagram/export-20250824/connections/followers_and_following/followers_1.json.from-cli-json.txt',
+    'raw/instagram/export-20250824/connections/followers_and_following/following.json.from-cli-json.txt',
+    'raw/legion-of-skanks-tapings-photos-2019-12-23-2020-08-25/manifest.json',
+    'raw/location/Records.json',
+    'raw/location/Timeline-Edits.json',
+    'raw/messenger-2026-09-12/MANIFEST.json',
+    'raw/messenger-2026-09-12/messenger-all.jsonl',
+    'raw/messenger-2026-09-12/threads/cid.c.580995252_61570728572359.json',
+    'raw/messenger-drive-2026-09-12/MANIFEST.json',
+    'raw/messenger-drive-2026-09-12/messenger_drive_canonical.jsonl',
+    'raw/messenger-drive-2026-09-12/notable-excerpts.md',
+    'raw/messenger-drive-2026-09-12/threads.json',
+    'raw/myactivity-2026-09-12/myactivity-unique.jsonl.gz',
+    'raw/old-wiki-export-2026-09-04/whole.txt',
+    'raw/sammy/20260911-1941/messenger-sync.json',
+    'raw/sammy/20260911-1941/messenger-threads.json',
+    'raw/sammy/20260911-2113/wiki-llm-daily-driver-draft.md',
+    'raw/sammy/20260911-2340/chats.json',
+    'raw/sammy/20260912-0340/chats.json',
+    'raw/sammy/20260912-1940/chats.json',
+    'raw/sammy/20260914-0630/chats.json',
+    'raw/sammy/20260914-1940/chats.json',
+    'raw/sammy/20260918-0230/chats.json',
+    'raw/self/amazon-2018-orders/amazon-2018-orders.md',
+    'raw/self/amazon-2019-orders/amazon-2019-orders.md',
+    'raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv',
+    'raw/takeout/takeout-20260103T040931Z-3-001/Takeout/My Activity/Gemini Apps/all_imessages_part_ad-0d8816a1699712c3.txt',
+    'raw/takeout/takeout-20260103T040931Z-3-001/Takeout/My Activity/Gemini Apps/all_imessages_part_ae-0d8816a1699712c3.txt',
+    'raw/twitter/archive.jsonl',
+    'testimony/events.jsonl',
+    'wiki/health/hyperreflexivity.md',
+    'wiki/media/upload-027.jpg',
+    'wiki/media/upload-038.jpg',
+    'wiki/media/upload-084.jpg',
+    'wiki/media/upload-085.jpg',
+    'wiki/mind/politics/index.md',
+    'wiki/mind/profile/big-five-psychometrics.md',
+    'wiki/mind/profile/deviance-mapping.md',
+    'wiki/mind/synthesis/four-axioms-attestation.md',
+    'wiki/mind/synthesis/the-cato-seat.md',
+    'wiki/mind/synthesis/vertical-authority-skepticism.md',
+    'wiki/people/libby.md',
+    'wiki/self/twitter/2026.md',
+    'wiki/timeline/events/james-analysis-pdf.md',
+    'wiki/timeline/events/july-2026-recontact.md',
+    'wiki/timeline/master-timeline.md',
+    'wiki/work/au-zaatar.md',
+]
+BASELINE_N = [
+    ('dat:1459-avatar-history-20260912', 'kb/data/1459-avatar-history-20260912.md'),
+    ('dat:1472-avatar-gallery-nn-naming-20260912', 'kb/data/1472-avatar-gallery-nn-naming-20260912.md'),
+    ('dat:1505-telemetry-lab-methodology-corrections-20260913', 'kb/data/dat:1505-telemetry-lab-methodology-corrections-20260913.md'),
+    ('dat:1567-scenario-alt-instrument-shipped-20260915', 'kb/data/1567-scenario-alt-instrument-shipped-20260915.md'),
+    ('dat:1580-tools-repo-consolidation-20260915', 'kb/data/1580-tools-repo-consolidation-20260915.md'),
+    ('dat:1580-tools-repo-consolidation-20260915 (moved into Danfr4nk/tools, reported 17:48:44Z)', 'kb/data/1580-tools-repo-consolidation-20260915.md'),
+    ('dat:1581-kinship-web-build-deployed-20260915 (web app build, 3.5e-06 match, bug fixes, deployment)', 'kb/data/1581-kinship-web-build-deployed-20260915.md'),
+    ('dat:1582-tool-web-version-standing-rule-20260915 (\\"I always want them.\\", 17:49:49Z)', 'kb/data/1582-tool-web-version-standing-rule-20260915.md'),
+    ('dat:1583-avatar-tool-options-canonical-picks-20260915 (full session, 17:41–18:11Z)', 'kb/data/1583-avatar-tool-options-canonical-picks-20260915.md'),
+    ('dat:1584-dj-transition-analysis-20260915 (six videos, two assessments, 16:12–17:44Z)', 'kb/data/1584-dj-transition-analysis-20260915.md'),
+    ('dat:1585-dj-interface-identification-correction-20260915 (third-party iPhone DJ app, not Spotify mode)', 'kb/data/1585-dj-interface-identification-correction-20260915.md'),
+    ('dat:1586-sammy-avatar-photoreal-brunette-20260915 (17:53:36–17:53:59Z change)', 'kb/data/1586-sammy-avatar-photoreal-brunette-20260915.md'),
+    ('dat:1587-conjunction-rule-cultural-literacy-20260915 (the conjunction rule the divide feeds)', 'kb/data/1587-conjunction-rule-cultural-literacy-20260915.md'),
+    ('dat:1587-conjunction-rule-cultural-literacy-20260915 (verbatim conjunction quotes, 15:44:19Z + 15:45:29Z)', 'kb/data/1587-conjunction-rule-cultural-literacy-20260915.md'),
+    ('dat:1588-moving-shibboleth-early-adopter-20260915 (millennial-culture thread, 2026-09-15; archived tail in src:sammy-chat-transcript-20260915-1555, 15:42–15:47Z)', 'kb/data/1588-moving-shibboleth-early-adopter-20260915.md'),
+    ('dat:1588-moving-shibboleth-early-adopter-20260915 (shibboleth synthesis Dan endorsed in-thread, 15:42:18Z)', 'kb/data/1588-moving-shibboleth-early-adopter-20260915.md'),
+    ('dat:1589-wes-anderson-early-adopter-self-report-20260915 (2026-09-15 self-report: Life Aquatic / Rushmore / Tenenbaums; tent-scene needle drops)', 'kb/data/1589-wes-anderson-early-adopter-self-report-20260915.md'),
+    ('dat:1589-wes-anderson-early-adopter-self-report-20260915 (the early-adopter record the shibboleth defends)', 'kb/data/1589-wes-anderson-early-adopter-self-report-20260915.md'),
+    ('dat:1600-age-estimation-tool-shipped-20260915', 'kb/data/1600-age-estimation-tool-shipped-20260915.md'),
+    ('dat:1613-one-photo-workbench-shipped-20260916', 'kb/data/1613-one-photo-workbench-shipped-20260916.md'),
+    ('dat:1656-complete-log-doctrine-directive-20260916', 'kb/data/1656-complete-log-doctrine-directive-20260916.md'),
+    ('dat:1662-melody-tool-commissioned-20260916', 'kb/data/1662-melody-tool-commissioned-20260916.md'),
+    ('dat:1668-workbench-facial-overlay-export-20260916', 'kb/data/1668-workbench-facial-overlay-export-20260916.md'),
+    ('dat:1676-google-full-authorization-grant-20260917', 'kb/data/1676-google-full-authorization-grant-20260917.md'),
+    ('dat:1682-github-standing-grant-20260917', 'kb/data/1682-github-standing-grant-20260917.md'),
+    ('dat:1687-approval-cards-runtime-layer-20260917', 'kb/data/1687-approval-cards-runtime-layer-20260917.md'),
+    ('dat:1715-hue-systems-final-20260917', 'kb/data/1715-hue-systems-final-20260917.md'),
+    ('dat:1749-hook2piano-root-cause-correction-20260916', 'kb/data/1749-hook2piano-root-cause-correction-20260916.md'),
+    ('dat:1750-hook2piano-pianoroll-rewrite-20260916', 'kb/data/1750-hook2piano-pianoroll-rewrite-20260916.md'),
+    ('dat:1751-hook2piano-midi-playback-20260916', 'kb/data/1751-hook2piano-midi-playback-20260916.md'),
+    ('dat:1752-melody-v2-iteration-20260916', 'kb/data/1752-melody-v2-iteration-20260916.md'),
+    ('dat:1753-minimalism-tripwire-20260916', 'kb/data/1753-minimalism-tripwire-20260916.md'),
+    ('dat:1803-hue-system-cut-20260919', 'kb/data/1803-hue-system-cut-20260919.md'),
+    ('dat:1868-writing-attribution-standing-rule-20260922', 'kb/data/1868-writing-attribution-standing-rule-20260922.md'),
+    ('dat:1869-goon-club-steering-commit-20260922', 'kb/data/1869-goon-club-steering-commit-20260922.md'),
+    ('dat:1870-goon-club-denial-stroke-goal-20260922', 'kb/data/1870-goon-club-denial-stroke-goal-20260922.md'),
+    ('dat:1871-goon-club-embodiment-threesome-20260922', 'kb/data/1871-goon-club-embodiment-threesome-20260922.md'),
+    ('dat:1896-geosleuth-tool-shipped-20260923', 'kb/data/1896-geosleuth-tool-shipped-20260923.md'),
+    ('src:1681', 'kb/sources/1681.md'),
+    ('src:20260923-0230-sammy-chat-transcript', 'kb/sources/20260923-0230-sammy-chat-transcript.md'),
+    ('src:88er-mainstream-taste-dossier-20260915 (research dossier, 2026-09-15: ~170 named artifacts, 101 source URLs; confidence tiers verified/mid/named-only/interpretive noted inline)', 'kb/sources/88er-mainstream-taste-dossier-20260915.md'),
+    ('src:explicit-commitments-letter-2026-09-11', 'kb/sources/explicit-commitments-letter-2026-09-11.md'),
+    ('src:facebook-export-2026-06-23', 'kb/sources/facebook-export-2026-06-23.md'),
+    ('src:facebook-export-20260908', 'kb/sources/facebook-export-20260908.md'),
+    ('src:gphotos-dannie-history', 'kb/sources/gphotos-dannie-history.md'),
+    ('src:imessage-complete-dump-2025-08-11', 'kb/sources/imessage-complete-dump-2025-08-11.md'),
+    ('src:imessage-corpus-2026', 'kb/sources/imessage-corpus-2026.md'),
+    ('src:kristin-basement-security-cam-20250919', 'kb/sources/kristin-basement-security-cam-20250919.md'),
+    ('src:messenger-drive-2026-09-12', 'kb/sources/messenger-drive-2026-09-12.md'),
+    ('src:old-wiki-export-2026-09-04', 'kb/sources/old-wiki-export-2026-09-04.md'),
+    ('src:rawlogs-imessage-20260908', 'kb/sources/rawlogs-imessage-20260908.md'),
+    ('src:sammy-chat-transcript-20260911', 'kb/sources/sammy-chat-transcript-20260911.md'),
+    ('src:sammy-chat-transcript-20260912-1830', 'kb/sources/sammy-chat-transcript-20260912-1830.md'),
+    ('src:sammy-chat-transcript-20260912-1940', 'kb/sources/sammy-chat-transcript-20260912-1940.md'),
+    ('src:sammy-chat-transcript-20260912-2345', 'kb/sources/sammy-chat-transcript-20260912-2345.md'),
+    ('src:sammy-chat-transcript-20260913-0340', 'kb/sources/sammy-chat-transcript-20260913-0340.md'),
+    ('src:sammy-chat-transcript-20260913-1140', 'kb/sources/sammy-chat-transcript-20260913-1140.md'),
+    ('src:sammy-chat-transcript-20260913-1230', 'kb/sources/sammy-chat-transcript-20260913-1230.md'),
+    ('src:sammy-chat-transcript-20260915-0340', 'kb/sources/src:sammy-chat-transcript-20260915-0340.md'),
+    ('src:sammy-chat-transcript-20260915-0630', 'kb/sources/src:sammy-chat-transcript-20260915-0630.md'),
+    ('src:sammy-chat-transcript-20260915-1834', 'kb/sources/sammy-chat-transcript-20260915-1834.md'),
+    ('src:sammy-chat-transcript-20260917-2030', 'kb/sources/sammy-chat-transcript-20260917-2030.md'),
+    ('src:sammy-main-chat-20260916-0351-0524', 'kb/sources/sammy-main-chat-20260916-0351-0524.md'),
+    ('src:storytime-abortion-session-20260918', 'kb/sources/storytime-abortion-session-20260918.md'),
+    ('src:stylometry-baseline-2026-09-11', 'kb/sources/stylometry-baseline-2026-09-11.md'),
+    ('src:suz-imessage-archive-2026', 'kb/sources/suz-imessage-archive-2026.md'),
+    ('src:wall-photo-2025-09-03', 'kb/sources/src:wall-photo-2025-09-03.md'),
+    ('src:wikitest-rebuild-session-2026-09-09', 'kb/sources/wikitest-rebuild-session-2026-09-09.md'),
+]
+
+
+NODEREF_RE = re.compile(r"^(src|dat|pat|int):")
+LOCAL_RE = re.compile(r"^(~/|workspace/|Users/|/Volumes/|memory/|media_library|EPUB|corpus-extract/)")
+PROSE_EXT = (".md", ".txt", ".csv", ".json", ".jsonl", ".html", ".htm", ".pdf", ".xlsx")
+
+
+def unquote(s):
+    s = s.strip()
+    if len(s) >= 2 and s[0] in "\"'" and s[-1] == s[0]:
+        return s[1:-1]
+    return s
+
+
+def iter_sources_pages(root):
+    """Yield (relpath, full_text, fm_text, items) for wiki pages with sources:."""
+    wiki_dir = os.path.join(root, "wiki")
+    for dirpath, _dirs, files in os.walk(wiki_dir):
+        for f in files:
+            if not f.endswith(".md"):
+                continue
+            p = os.path.join(dirpath, f)
+            try:
+                text = open(p, encoding="utf-8", errors="replace").read()
+            except OSError:
+                continue
+            m = re.match(r"\A---[ \t]*\n(.*?)\n---[ \t]*\n?", text, re.S)
+            if not m:
+                continue
+            fm = m.group(1)
+            items = []
+            lines = fm.split("\n")
+            for i, line in enumerate(lines):
+                sm = re.match(r"^sources:\s*(.*)$", line)
+                if not sm:
+                    continue
+                rest = sm.group(1)
+                if rest.startswith("["):
+                    buf = rest
+                    if "]" not in buf:
+                        # multi-line flow list: consume lines until the
+                        # closing ]. Single-line flows already contain it;
+                        # never glue the following frontmatter line
+                        # (e.g. sources_absent:) into sources:.
+                        for l2 in lines[i + 1:]:
+                            buf += " " + l2.strip()
+                            if "]" in l2:
+                                break
+                    inner = buf[buf.index("[") + 1:buf.rindex("]")]
+                    items = [unquote(x) for x in inner.split(",") if x.strip()]
+                elif rest == "":
+                    for l2 in lines[i + 1:]:
+                        lm = re.match(r"^\s*-\s+(.*)$", l2)
+                        if lm:
+                            items.append(unquote(lm.group(1)))
+                        elif re.match(r"^\S", l2):
+                            break
+                elif rest:
+                    items = [unquote(rest)]
+            if items:
+                yield os.path.relpath(p, root), text, items
+
+
+def build_pathset(root):
+    ps = set()
+    for dp, dn, fs in os.walk(root):
+        if "/.git/" in dp or dp.endswith("/.git"):
+            dn[:] = []
+            continue
+        dn[:] = [d for d in dn if d not in (".git", "site")]
+        rel = os.path.relpath(dp, root)
+        for f in fs:
+            ps.add(f if rel == "." else rel + "/" + f)
+    return ps
+
+
+def noderef_resolve(entry, pathset):
+    core = NODEREF_RE.sub("", entry)
+    core = re.sub(r"\s*\(.*?\)\s*$", "", core).strip()
+    for cand in ("kb/sources/" + core + ".md", "kb/data/" + core + ".md"):
+        if cand in pathset:
+            return cand
+    return None
+
+
+def cmd_check(root):
+    """Regression gate: every audit-baseline P/N entry and every D2 remap
+    target must still resolve in the current tree. B/C/D/E entries are
+    labeled, not resolved -- not this gate's business."""
+    pathset = build_pathset(root)
+    failures = []
+    for e in BASELINE_P:
+        if e not in pathset:
+            failures.append(("P", e, e))
+    for e, target in BASELINE_N:
+        if target not in pathset:
+            failures.append(("N", e, target))
+    for old, new, rule in SRC_REMAP:
+        if new not in pathset:
+            failures.append(("A-target", old, new))
+    print(f"wb-sources-repair --check: baseline P={len(BASELINE_P)} "
+          f"N={len(BASELINE_N)} remap-targets={len(SRC_REMAP)}")
+    if failures:
+        print(f"FAIL: {len(failures)} baseline entries no longer resolve:")
+        for cls, e, t in failures[:20]:
+            print(f"  [{cls}] {e} -> {t}")
+        return 1
+    print("OK: every baseline P/N entry and every D2 remap target resolves")
+    return 0
+
+
+def _swap_spelling(seg, old, new):
+    """Replace one sources: entry spelling inside a raw text segment.
+    Returns (new_seg, count). Tries quoted spellings first, then bare."""
+    for spelling in ('"%s"' % old, "'%s'" % old):
+        if spelling in seg:
+            q = spelling[0]
+            cnt = seg.count(spelling)
+            return seg.replace(spelling, q + new + q), cnt
+    pat = r"(?<![\w/.:-])" + re.escape(old) + r"(?![\w/.:-])"
+    found = re.findall(pat, seg)
+    if found:
+        return re.sub(pat, new, seg), len(found)
+    return seg, 0
+
+
+def apply_to_text(text, old, new):
+    """Line-surgical replacement of one sources: entry. Returns (text, n)."""
+    m = re.match(r"\A(---[ \t]*\n.*?\n---[ \t]*\n?)", text, re.S)
+    if not m:
+        return text, 0
+    head, tail = m.group(1), text[m.end(1):]
+    lines = head.split("\n")
+    n = 0
+    out = []
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        sm = re.match(r"^(sources:\s*)(.*)$", line)
+        if sm and i > 0:
+            # only treat as the sources field when indented inside frontmatter
+            # (i > 0 guards the degenerate single-line head)
+            prefix, rest = sm.group(1), sm.group(2)
+            if rest.startswith("["):
+                # flow list, possibly multi-line: raw segment until ]
+                buf_lines = [line]
+                j = i + 1
+                while j < len(lines) and "]" not in buf_lines[-1]:
+                    buf_lines.append(lines[j])
+                    j += 1
+                seg = "\n".join(buf_lines)
+                new_seg, cnt = _swap_spelling(seg, old, new)
+                out.append(new_seg)
+                n += cnt
+                i = j
+                continue
+            if rest == "":
+                out.append(line)
+                i += 1
+                while i < len(lines):
+                    l2 = lines[i]
+                    lm = re.match(r"^(\s*-\s+)(.*)$", l2)
+                    if lm:
+                        dash, val = lm.group(1), lm.group(2).strip()
+                        if unquote(val) == old:
+                            q = '"' if val.startswith('"') else ("'" if val.startswith("'") else "")
+                            out.append(dash + q + new + q)
+                            n += 1
+                        else:
+                            out.append(l2)
+                        i += 1
+                    elif re.match(r"^\S", l2):
+                        break
+                    else:
+                        out.append(l2)
+                        i += 1
+                continue
+            # scalar form: sources: <entry>
+            if unquote(rest) == old:
+                q = '"' if rest.startswith('"') else ("'" if rest.startswith("'") else "")
+                out.append(prefix + q + new + q)
+                n += 1
+            else:
+                out.append(line)
+            i += 1
+            continue
+        out.append(line)
+        i += 1
+    return "\n".join(out) + tail, n
+
+
+def cmd_apply_a(root, write):
+    pathset = build_pathset(root)
+    # fail-stop: every target must resolve in the CURRENT tree
+    missing = [(o, t) for o, t, _r in SRC_REMAP for t in [t] if t not in pathset]
+    if missing:
+        print("REFUSING: remap targets missing from current tree (not improvising):")
+        for o, t in missing:
+            print(f"  {o} -> {t}")
+        return 2
+    changes = []  # (rel, old, new, rule)
+    planned = {}  # rel -> new text
+    for rel, text, items in iter_sources_pages(root):
+        new_text = text
+        file_changed = False
+        for old, new, rule in SRC_REMAP:
+            if old not in items:
+                continue
+            # duplicate guard: new entry already on the page
+            if new in items:
+                print(f"SKIP (already present): {rel}: {new}")
+                continue
+            new_text, cnt = apply_to_text(new_text, old, new)
+            if cnt:
+                changes.append((rel, old, new, rule))
+                file_changed = True
+        if file_changed:
+            planned[rel] = new_text
+    # dry-run diff
+    for rel, old, new, rule in changes:
+        print(f"[{rule}] {rel}\n  - {old}\n  + {new}")
+    print(f"\n{len(changes)} replacements across {len(planned)} pages"
+          f" ({len({r for _, _, _, r in changes})} rules)" if changes else "\nno changes")
+    if not write:
+        print("dry-run: no files written (pass --yes to write)")
+        return 0
+    for rel, new_text in planned.items():
+        with open(os.path.join(root, rel), "w", encoding="utf-8") as f:
+            f.write(new_text)
+    print(f"wrote {len(planned)} pages")
+    # machine-readable change log for the ledger step
+    with open(os.path.join(root, "sources-repair-changes.jsonl"), "w", encoding="utf-8") as f:
+        for rel, old, new, rule in changes:
+            f.write(json_dumps({"page": rel, "old": old, "new": new, "rule": rule}) + "\n")
+    print("wrote sources-repair-changes.jsonl (repo root; delete before push)")
+    return 0
+
+
+def json_dumps(o):
+    import json as _j
+    return _j.dumps(o, ensure_ascii=False)
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--repo-root", default=None)
+    ap.add_argument("--check", action="store_true")
+    ap.add_argument("--apply-a", action="store_true")
+    ap.add_argument("--apply-queue", action="store_true")
+    ap.add_argument("--yes", action="store_true")
+    args = ap.parse_args()
+    root = os.path.abspath(args.repo_root or os.path.join(os.path.dirname(__file__), ".."))
+    if args.apply_queue:
+        print("wb-sources-repair: --apply-queue is not implemented: D3 is on hold "
+              "for human review (2026-09-24 decisions). Refusing.")
+        return 3
+    if args.check:
+        return cmd_check(root)
+    if args.apply_a:
+        return cmd_apply_a(root, write=args.yes)
+    ap.print_help()
+    return 2
+
+
+if __name__ == "__main__":
+    sys.exit(main())

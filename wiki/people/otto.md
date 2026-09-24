@@ -19,8 +19,8 @@ infobox:
   location: Uniontown area
   notes: "Younger than Alice Gates; surname Gates confirmed by Dan 2026-09-22"
 sources:
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/message-csv/imessage_2124702449_both_all_now.csv
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_2124702449_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/imessage/messages-iphone-union-gapfill-20260921.csv
 connections:
   - page: wiki/people/claire-ulmer

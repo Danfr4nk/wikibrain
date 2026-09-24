@@ -7,8 +7,8 @@ knowledge: mixed
 date_created: 2026-07-20
 date_modified: 2026-07-20
 sources:
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/joeoshnack_7killpebkw/message_1.html"
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/sethledonne_ydkapzhbla/message_1.html"
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/joeoshnack_7killpebkw/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/sethledonne_ydkapzhbla/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [music-production, uniontown-era, personality-profile]
 connections:
   - page: wiki/people/joe-oshnack

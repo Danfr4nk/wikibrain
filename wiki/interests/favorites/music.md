@@ -4,7 +4,7 @@ page_type: synthesis
 status: active
 date_created: 2026-06-22
 date_modified: 2026-07-14
-sources: ["raw/self/favorites/FAVS MASTERLIST.csv"]
+sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 synthesizes:
   - wiki/interests/music/concepts/sub-bass-signature
   - wiki/mind/concepts/lyric-qualifier

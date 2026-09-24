@@ -7,7 +7,7 @@ date_created: 2026-06-23
 date_modified: 2026-07-19
 date_range_start: 2018-04-22
 date_range_end: 2019-10-20
-sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv", "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/laurynashly_4_5jbvoqow/message_1.html"]
+sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/laurynashly_4_5jbvoqow/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 tags: [relationships, career, financial-stress]
 knowledge: mixed
 infobox:

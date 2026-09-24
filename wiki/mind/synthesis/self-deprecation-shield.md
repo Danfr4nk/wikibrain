@@ -8,11 +8,11 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
-  - raw/self/dox-md/MAX_PRIME.md
-  - raw/self/facebook/facebook-ihatedanfrank/
-  - raw/self/twitter/archive.jsonl
+  - raw/self/dox-md/MAX_PRIME.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/twitter/archive.jsonl
   - testimony/events.jsonl
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/work/tech/max-framework/overview
   - wiki/mind/profile/enneagram-5w4

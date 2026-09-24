@@ -8,8 +8,8 @@ date_modified: 2026-09-20
 date_range_start: 2017-09-28
 date_range_end: 2017-10-11
 sources:
-  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"
-  - "raw/self/dox-scan/all_imessages_complete_dump.txt"
+  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "kb/data/1299-urpaaa-yahoo-identity-unresolved-held-negative.md"
   - "kb/data/0066-tooth-loss-causal-chain-vs-dental-record.md"
   - "kb/data/0026-old-wiki-census-corrected-self-report.md"

@@ -8,8 +8,8 @@ date_modified: 2026-07-19
 date_range_start: 2013-03-26
 date_range_end: 2018-12-09
 sources:
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/laurynashly_4_5jbvoqow/message_1.html"
-  - "raw/self/dox-scan/all_imessages_complete_dump.txt"
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/laurynashly_4_5jbvoqow/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [uniontown-era, addiction-recovery, grief]
 infobox:
   name: "Rob Orange"

@@ -6,9 +6,9 @@ status: stub
 date_created: 2026-07-20
 date_modified: 2026-07-20
 sources:
-  - raw/self/danmodel/PIPELINE_NOTES.md
-  - raw/self/danmodel/extraction_summary.txt
-  - raw/self/danmodel/reaction_pairs_heldout.jsonl
+  - raw/self/danmodel/PIPELINE_NOTES.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/danmodel/extraction_summary.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/danmodel/reaction_pairs_heldout.jsonl — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [ai-collaboration, digital-footprint]
 connections:
   - page: wiki/mind/concepts/exocortex

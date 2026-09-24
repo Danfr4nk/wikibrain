@@ -6,9 +6,9 @@ status: active
 date_created: 2026-07-25
 date_modified: 2026-08-14
 sources:
-  - raw/self/ancestry/dna-reports/Ancestry Composition - 23andMe.pdf
-  - raw/self/ancestry/dna-reports/chromosome.pdf
-  - raw/self/ancestry/dna-reports/health.pdf
+  - raw/self/ancestry/dna-reports/Ancestry Composition - 23andMe.pdf — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/ancestry/dna-reports/chromosome.pdf — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/ancestry/dna-reports/health.pdf — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [family, physical-health]
 connections:
   - page: wiki/mind/synthesis/ancestral-dialectic

@@ -6,7 +6,7 @@ date_created: 2026-06-23
 date_modified: 2026-07-20
 date_range_start: 2024-07-28
 date_range_end: 2024-08-09
-sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv", "raw/self/message-csv/imessage_17243226739_both_all_now.csv"]
+sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/message-csv/imessage_17243226739_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 tags: [relationships, politics, uniontown-era]
 knowledge: mixed
 infobox:

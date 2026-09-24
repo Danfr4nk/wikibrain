@@ -7,10 +7,10 @@ date_modified: 2026-08-21
 date_range_start: 2018-09-02
 date_range_end: 2020-09-21
 sources:
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/emalyminerd_fljbb4qpoa/message_1.html
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/emalyminerd_fljbb4qpoa/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/people/annie-ulmer
   - wiki/people/alexis-armel

@@ -7,11 +7,11 @@ status: active
 date_created: 2026-06-22
 date_modified: 2026-09-04
 sources:
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/favorites/FAVS MASTERLIST.csv
-  - raw/self/location/2026-06-22-ingest/
-  - raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2025).html
-  - raw/self/message-csv/imessage_7243667777_both_all_now.csv
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/location/2026-06-22-ingest/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2025).html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_7243667777_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 note_on_sources: >
   REVISED 2026-08-11. This page's spine (the section below, "The irreversibility
   firewall") is derived by reading the wiki's own T2/T3 synthesis layer against

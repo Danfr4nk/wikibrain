@@ -5,12 +5,12 @@ status: archived
 date_created: 2026-06-23
 date_modified: 2026-06-23
 sources: [
-  "raw/self/dox-md/Gemini-_21.md",
-  "raw/self/dox-md/Gemini-_21 copy.md",
-  "raw/self/gemini-activity/Gemini Activity.html",
-  "raw/self/dox-md/MAX_PRIME.md",
-  "raw/self/dox-md/_☣☢ 𝙼𝚊𝚡 ☢☣ Pinned chat.md",
-  "raw/self/dox-md/Annie 10-Year Trauma Bond Aura Illness Forensic Report.md"
+  "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-21.md",
+  "raw/self/dox-md/Gemini-_21 copy.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.",
+  "raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md",
+  "raw/self/dox-md/MAX_PRIME.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.",
+  "raw/self/dox-md/_☣☢ 𝙼𝚊𝚡 ☢☣ Pinned chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.",
+  "raw/self/dox-md/Annie 10-Year Trauma Bond Aura Illness Forensic Report.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 ]
 related: [
   "wiki/self/gemini-activity/gemini-activity",

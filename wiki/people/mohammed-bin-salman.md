@@ -6,7 +6,7 @@ date_created: 2026-06-23
 date_modified: 2026-07-14
 date_range_start: 2023-09-29
 date_range_end: 2024-08-12
-sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"]
+sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/work/au-zaatar", "wiki/people/md", "wiki/self/message-corpora/master-message-dump"]
 tags: [relationships, addiction-recovery, nyc-era]
 knowledge: mixed

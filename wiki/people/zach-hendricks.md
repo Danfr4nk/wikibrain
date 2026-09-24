@@ -6,7 +6,7 @@ date_created: 2026-06-23
 date_modified: 2026-09-19
 date_range_start: 2018-03-12
 date_range_end: 2018-11-26
-sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv", "raw/imessage/messages-part1-2011-2019.csv", "corpus/manifest.json", "kb/data/1357-zaco-thread-recount.md", "kb/data/1214-zach-hendricks-unresolved-relationship.md"]
+sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/imessage/messages-part1-2011-2019.csv", "corpus/manifest.json", "kb/data/1357-zaco-thread-recount.md", "kb/data/1214-zach-hendricks-unresolved-relationship.md"]
 tags: [digital-footprint, uniontown-era]
 knowledge: derived
 infobox:

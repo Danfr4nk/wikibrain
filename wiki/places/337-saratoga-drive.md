@@ -6,10 +6,10 @@ status: closed
 date_created: 2026-07-13
 date_modified: 2026-09-17
 sources:
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md
-  - raw/self/dox-md/Gemini-_13.md
-  - raw/self/captures/2026-07-11_013210_the-house-at-337-saratoga-drive-uniontow.md
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-13.md
+  - raw/self/captures/2026-07-11_013210_the-house-at-337-saratoga-drive-uniontow.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/people/suzanne-frank
   - wiki/legal/463-morgantown

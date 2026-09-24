@@ -8,7 +8,7 @@ date_modified: 2026-07-20
 date_range_start: 2020-02-08
 date_range_end: 2020-02-08
 sources:
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/ryanscherich_z-v_ahjumq/message_1.html"
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/ryanscherich_z-v_ahjumq/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [ideology, politics, uniontown-era]
 infobox:
   name: "Ryan Scherich"

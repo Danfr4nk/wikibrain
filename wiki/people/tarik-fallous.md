@@ -7,7 +7,7 @@ date_created: 2026-06-23
 date_modified: 2026-07-20
 date_range_start: 2021-03-01
 date_range_end: 2026-04-12
-sources: ["raw/self/dox-md/Gemini-_00.md", "raw/self/dox-md/Gemini-_02.md", "raw/self/gemini-activity/Gemini Activity.html", "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md", "raw/self/facebook/facebook-ihatedanfrank/", "raw/self/message-csv/imessage_19178259183_both_all_now.csv"]
+sources: ["raw/self/dox-md/Gemini-_00.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/Gemini-_02.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md", "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/message-csv/imessage_19178259183_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 tags: [ai-collaboration, career, nyc-era]
 knowledge: mixed
 infobox:

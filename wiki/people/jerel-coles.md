@@ -17,15 +17,15 @@ infobox:
   location: uniontown
   first_contact: 2026-05-31
 sources:
-  - raw/people/captures/2026-08-08_190122_identity-of-the-interloper.md
-  - raw/people/captures/2026-08-09-tuquick-unnamed-man-correction.md
-  - raw/self/message-csv/imessage_export_2124702449_20260802.csv
-  - raw/self/message-csv/imessage_export_7248123683_20260624.csv
-  - raw/self/message-csv/imessage_export_7248123683_20260820.csv
-  - raw/self/message-csv/imessage_export_2124702449_20260820.csv
-  - raw/self/audio/2026-08-16_Morgantown_St_call-recording.m4a
-  - raw/self/analysis/2026-08-18_forensic-analysis-morgantown-call.md
-  - raw/people/captures/2026-08-20_group-chat-retraction-and-the-uncleared-name.md
+  - raw/people/captures/2026-08-08_190122_identity-of-the-interloper.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-09-tuquick-unnamed-man-correction.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_export_2124702449_20260802.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/drive-sweep/20260911/imessage/imessage_export_7248123683_20260624.csv
+  - raw/self/message-csv/imessage_export_7248123683_20260820.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_export_2124702449_20260820.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/audio/2026-08-16_Morgantown_St_call-recording.m4a — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/analysis/2026-08-18_forensic-analysis-morgantown-call.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-20_group-chat-retraction-and-the-uncleared-name.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/people/annie-ulmer
   - wiki/people/the-unnamed-man

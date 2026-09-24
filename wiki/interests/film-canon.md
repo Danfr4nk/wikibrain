@@ -5,10 +5,10 @@ status: stable
 date_created: 2026-07-16
 date_modified: 2026-09-21
 sources:
-  - "raw/self/favorites/FAVS MASTERLIST.csv"
-  - "raw/self/dox-scan/Dan Profile.txt"
-  - "raw/self/dox-scan/all_imessages_complete_dump.txt"
-  - "corpus/messages.csv"
+  - "raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "corpus/messages.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "kb/data/1245-film-canon-quote-verification.md"
   - "kb/data/0196-art-and-movies-favorites.md"
   - "kb/interpretations/film-canon-obligation.md"

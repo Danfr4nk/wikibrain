@@ -5,7 +5,7 @@ status: stable
 date_created: 2026-06-23
 date_modified: 2026-09-13
 sources:
-  - raw/self/twitter/archive.jsonl
+  - raw/twitter/archive.jsonl
 related: []
 connections:
   - page: wiki/self/twitter

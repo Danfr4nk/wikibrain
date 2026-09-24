@@ -58,49 +58,49 @@ changelog:
   - date: 2026-07-11
     note: "Data audit: burst-event misattribution fixed, financial amendments folded in."
 sources:
-  - raw/self/message-csv/imessage_export_2124702449_20260802.csv
-  - raw/self/message-csv/imessage_export_2124702449_20260820.csv
+  - raw/self/message-csv/imessage_export_2124702449_20260802.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_export_2124702449_20260820.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/imessage/messages-iphone-union-gapfill-20260921.csv
-  - raw/self/message-csv/imessage_export_7248123683_20260820.csv
-  - raw/self/audio/2026-08-16_Morgantown_St_call-recording.m4a
-  - raw/people/captures/2026-08-20_group-chat-retraction-and-the-uncleared-name.md
-  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md
-  - raw/self/message-csv/imessage_export_2124702449_20260726.csv
-  - raw/self/message-csv/imessage_export_17245629389_both_all_now.csv
-  - raw/self/dox-scan/DanAnnie_MasterRecord_FINAL.docx
-  - raw/self/dox-scan/DanAnnie_MasterRecord_March16.docx
-  - raw/self/dox-scan/DanAnnie_TenYears_WithAmendments.docx
-  - raw/self/dox-scan/DanAnnie_TheoryOfEverything_Updated.docx
-  - raw/self/dox-scan/DanAnnie_CompleteRecord_Final.docx
-  - raw/self/dox-scan/DanAnnie_CompleteAnalysis_Final.docx
-  - raw/self/dox-scan/DanAnnie_MoralAnalysis_SFW.docx
-  - raw/self/dox-scan/DanAnnie_CorrectiveAddendum.txt
-  - raw/self/dox-scan/Annie Affadavit.txt
-  - raw/self/dox-md/ulmer_dui_megadoc.md
-  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md
-  - raw/self/dox-scan/FULL TWITTER ANALYSIS.txt
-  - raw/self/dox-md/Honest assessment and value judgment analysis.md
-  - raw/self/dox-md/Gemini-_07.md
-  - raw/self/dox-md/Gemini-_18.md
-  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md
-  - raw/self/message-csv/imessage_7244346811+2124702449_both_all_now.csv
-  - raw/self/message-csv/annie_all_time_logs.csv
-  - raw/self/message-csv/THE END FIGHT.csv
-  - raw/self/message-csv/imessage_export_7248123683_20260624.csv
-  - raw/self/facebook/facebook-ihatedanfrank/
-  - raw/self/gemini-activity/Gemini Activity.html
-  - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md
-  - raw/people/annie-ulmer/escort-messages-chatgpt-export-2025-08.md
-  - raw/people/captures/2026-07-13-eli-vs-tuquick-correction.md
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/captures/2026-08-10_014646_annie-sex-resumption.md
-  - raw/self/captures/2026-08-10_014938_307-76th-cast-roach-bombing.md
-  - "raw/self/dox-md/Annie 10-Year Trauma Bond Aura Illness Forensic Report.md"
-  - "raw/self/dox-md/Interpersonal manipulation_ Dan and Annie's toxic dynamic.md"
-  - raw/self/chatgpt-export/relationship-breakdown-summary-2025-04-27.md
-  - raw/self/message-csv/imessage_7243667777_both_all_now.csv
-  - raw/self/captures/2026-08-13_john-paci-staged-eviction-operator-decode.md
-  - raw/self/message-csv/imessage_7244346811+7249204125+2124702449_both_all_now.csv
+  - raw/self/message-csv/imessage_export_7248123683_20260820.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/audio/2026-08-16_Morgantown_St_call-recording.m4a — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-20_group-chat-retraction-and-the-uncleared-name.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_export_2124702449_20260726.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_export_17245629389_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_MasterRecord_FINAL.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_MasterRecord_March16.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_TenYears_WithAmendments.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_TheoryOfEverything_Updated.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_CompleteRecord_Final.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_CompleteAnalysis_Final.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_MoralAnalysis_SFW.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_CorrectiveAddendum.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/Annie Affadavit.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/ulmer_dui_megadoc.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/FULL TWITTER ANALYSIS.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/Honest assessment and value judgment analysis.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-07.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md
+  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_7244346811+2124702449_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/annie_all_time_logs.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/THE END FIGHT.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/drive-sweep/20260911/imessage/imessage_export_7248123683_20260624.csv
+  - raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md
+  - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/annie-ulmer/escort-messages-chatgpt-export-2025-08.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-07-13-eli-vs-tuquick-correction.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-10_014646_annie-sex-resumption.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-10_014938_307-76th-cast-roach-bombing.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - "raw/self/dox-md/Annie 10-Year Trauma Bond Aura Illness Forensic Report.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/Interpersonal manipulation_ Dan and Annie's toxic dynamic.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - raw/self/chatgpt-export/relationship-breakdown-summary-2025-04-27.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_7243667777_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-13_john-paci-staged-eviction-operator-decode.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_7244346811+7249204125+2124702449_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/mind/concepts/attachment-model
   - wiki/mind/concepts/conflict-architecture

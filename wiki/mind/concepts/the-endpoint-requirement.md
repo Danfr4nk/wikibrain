@@ -9,7 +9,7 @@ knowledge: derived
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
-  - raw/mind/captures/2026-08-02_122411_perspective-complete-objective.md
+  - raw/mind/captures/2026-08-02_122411_perspective-complete-objective.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [personality-profile, forensic-analysis]
 connections:
   - page: wiki/mind/concepts/acquisition-drive

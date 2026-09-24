@@ -5,9 +5,9 @@ status: active
 date_created: 2026-06-23
 date_modified: 2026-07-20
 sources:
-  - raw/self/dox-md/BFS_BOOTLOADER_v2.md
-  - raw/self/dox-md/BFS Anita Quagmire strategy and legal exposure.md
-  - raw/self/chats/Drawer shortage dispute with assistant manager (1).md
+  - raw/self/dox-md/BFS_BOOTLOADER_v2.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/BFS Anita Quagmire strategy and legal exposure.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/chats/Drawer shortage dispute with assistant manager (1).md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [career]
 infobox:
   name: "Maddox"

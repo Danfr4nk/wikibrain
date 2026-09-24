@@ -8,7 +8,7 @@ date_modified: 2026-09-21
 date_range_start: 2017-05-04
 date_range_end: 2018-05-27
 sources:
-  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"
+  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "kb/data/1301-vaughn-thread-count-page-claim-held-absent.md"
   - "corpus/derived/summary.json"
   - "raw/old-wiki-export-2026-09-04/whole.txt"

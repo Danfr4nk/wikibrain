@@ -7,7 +7,7 @@ date_created: 2026-07-14
 date_modified: 2026-09-22
 knowledge: earned
 sources:
-  - raw/self/captures/2026-07-14-lyrics-as-timbre.md
+  - raw/self/captures/2026-07-14-lyrics-as-timbre.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/interests/music/concepts/sub-bass-signature
   - wiki/interests/favorites/music

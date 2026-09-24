@@ -6,7 +6,7 @@ date_created: 2026-06-23
 date_modified: 2026-07-14
 date_range_start: 2016-02-07
 date_range_end: 2016-04-19
-sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"]
+sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/message-corpora/master-message-dump", "wiki/mind/concepts/contact-gini"]
 tags: [addiction-recovery, financial-stress, digital-footprint]
 knowledge: mixed

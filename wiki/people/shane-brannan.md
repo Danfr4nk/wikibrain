@@ -17,7 +17,7 @@ sources:
   - raw/instagram/export-20250824/connections/contacts/synced_contacts.json.from-cli-json.txt
   - raw/takeout/takeout-20260103T040931Z-3-001/Takeout/My Activity/Gemini Apps/all_imessages_part_ad-0d8816a1699712c3.txt
   - raw/takeout/takeout-20260103T040931Z-3-001/Takeout/My Activity/Gemini Apps/all_imessages_part_ae-0d8816a1699712c3.txt
-  - contacts.csv
+  - contacts.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [uniontown-era, nyc-era, digital-footprint]
 infobox:
   name: "Shane Brannan"

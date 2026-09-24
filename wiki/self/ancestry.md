@@ -6,14 +6,14 @@ status: active
 date_created: 2026-06-23
 date_modified: 2026-08-26
 sources:
-  - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip
-  - raw/self/ancestry/dna-reports/Ancestry Composition - 23andMe.pdf
-  - raw/self/ancestry/dna-reports/chromosome.pdf
-  - raw/self/ancestry/dna-reports/health.pdf
-  - raw/self/ancestry/extracted/Daniel Frank family tree.txt
-  - raw/self/ancestry/extracted/
-  - raw/self/ancestry/ANCESTRY_DNA.txt
-  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md
+  - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/ancestry/dna-reports/Ancestry Composition - 23andMe.pdf — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/ancestry/dna-reports/chromosome.pdf — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/ancestry/dna-reports/health.pdf — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/ancestry/extracted/Daniel Frank family tree.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/ancestry/extracted/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/ancestry/ANCESTRY_DNA.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/self/context-core
   - wiki/self/overview

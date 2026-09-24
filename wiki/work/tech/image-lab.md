@@ -7,7 +7,7 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-15
 sources:
-  - "src:sammy-chat-transcript-20260910"
+  - "src:sammy-chat-transcript-20260910 — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "src:sammy-chat-transcript-20260911"
   - "src:sammy-chat-transcript-20260912-1830"
   - "src:sammy-chat-transcript-20260912-1940"

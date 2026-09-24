@@ -3063,7 +3063,9 @@
       "linked_nodes": [
         "wiki/timeline/events/annie-alexis-reunion-november-2018"
       ],
-      "source_upload": "upload-026"
+      "source_upload": "upload-026",
+      "censored": false,
+      "censor_note": "2026-09-24 tick (work-0039) BORDERLINE - flagged, not pixelated: 768x810 box 640-768,380-700: torso cropped at right frame edge, side-view bare breast, nipple unresolved. Per 2026-09-13 rule (flag borderline rather than guessing)."
     },
     {
       "id": "frame-044",
@@ -3108,7 +3110,9 @@
       "linked_nodes": [
         "wiki/timeline/events/annie-alexis-reunion-november-2018"
       ],
-      "source_upload": "upload-026"
+      "source_upload": "upload-026",
+      "censored": true,
+      "censor_note": "2026-09-24 tick (work-0039): mosaic over visibly exposed nipple (confirmed via 3-4x enlarged crops; box x745-788 y200-272 at native 1344x756); genital area already carried source-side mosaic. NOTE: uncensored copy remains in main history (committed at intake, d234cb7/6280fa2); this fix covers the working tree forward."
     },
     {
       "id": "frame-047",
@@ -3258,7 +3262,9 @@
       "linked_nodes": [
         "wiki/timeline/events/annie-alexis-reunion-november-2018"
       ],
-      "source_upload": "upload-026"
+      "source_upload": "upload-026",
+      "censored": false,
+      "censor_note": "2026-09-24 tick (work-0039) BORDERLINE - flagged, not pixelated: 1152x540 box 380-620,250-480: sitting woman, breast side profile unresolved (distance - torso ~170px wide). Per 2026-09-13 rule (flag borderline rather than guessing)."
     },
     {
       "id": "frame-057",
@@ -3273,7 +3279,9 @@
       "linked_nodes": [
         "wiki/timeline/events/annie-alexis-reunion-november-2018"
       ],
-      "source_upload": "upload-026"
+      "source_upload": "upload-026",
+      "censored": false,
+      "censor_note": "2026-09-24 tick (work-0039) BORDERLINE - flagged, not pixelated: 1344x594 boxes 400-600,250-400 (sitting breast) / 940-1090,390-450 (lying chest marks): unresolved. Per 2026-09-13 rule (flag borderline rather than guessing)."
     },
     {
       "id": "frame-058",
@@ -3318,7 +3326,9 @@
       "linked_nodes": [
         "wiki/timeline/events/annie-alexis-reunion-november-2018"
       ],
-      "source_upload": "upload-026"
+      "source_upload": "upload-026",
+      "censored": false,
+      "censor_note": "2026-09-24 tick (work-0039) BORDERLINE - flagged, not pixelated: 1440x702 box 310-480,30-280: standing woman's bare torso too blurry/small to resolve. Per 2026-09-13 rule (flag borderline rather than guessing)."
     },
     {
       "id": "frame-061",
@@ -3333,7 +3343,9 @@
       "linked_nodes": [
         "wiki/timeline/events/annie-alexis-reunion-november-2018"
       ],
-      "source_upload": "upload-026"
+      "source_upload": "upload-026",
+      "censored": false,
+      "censor_note": "2026-09-24 tick (work-0039) BORDERLINE - flagged, not pixelated: 1440x702 box 370-540,40-300: same woman, arms crossed over chest, too blurry. Per 2026-09-13 rule (flag borderline rather than guessing)."
     },
     {
       "id": "frame-062",
@@ -4083,7 +4095,9 @@
       "linked_nodes": [
         "wiki/timeline/events/annie-alexis-reunion-november-2018"
       ],
-      "source_upload": "upload-020"
+      "source_upload": "upload-020",
+      "censored": false,
+      "censor_note": "2026-09-24 tick (work-0039) BORDERLINE - flagged, not pixelated: 1190x778 box 700-900,200-350: kneeling woman, breast side profile unresolved. Per 2026-09-13 rule (flag borderline rather than guessing)."
     },
     {
       "id": "frame-112",
@@ -4128,7 +4142,9 @@
       "linked_nodes": [
         "wiki/timeline/events/annie-alexis-reunion-november-2018"
       ],
-      "source_upload": "upload-025"
+      "source_upload": "upload-025",
+      "censored": true,
+      "censor_note": "2026-09-24 tick (work-0039): mosaic over exposed breasts (visibly exposed nipples confirmed via enlarged crop). NOTE: uncensored copy remains in main history (committed at intake, d234cb7/6280fa2); this fix covers the working tree forward."
     },
     {
       "id": "frame-115",
@@ -4143,7 +4159,9 @@
       "linked_nodes": [
         "wiki/timeline/events/annie-alexis-reunion-november-2018"
       ],
-      "source_upload": "upload-025"
+      "source_upload": "upload-025",
+      "censored": false,
+      "censor_note": "2026-09-24 tick (work-0039) BORDERLINE - flagged, not pixelated: 960x605 box 280-390,195-265: dark dot on chest, could be nipple, too few pixels. Per 2026-09-13 rule (flag borderline rather than guessing)."
     },
     {
       "id": "frame-116",
@@ -4158,7 +4176,9 @@
       "linked_nodes": [
         "wiki/timeline/events/annie-alexis-reunion-november-2018"
       ],
-      "source_upload": "upload-025"
+      "source_upload": "upload-025",
+      "censored": false,
+      "censor_note": "2026-09-24 tick (work-0039) BORDERLINE - flagged, not pixelated: 999x561 box 280-450,150-320: side-profile torso, breast unresolved. Per 2026-09-13 rule (flag borderline rather than guessing)."
     },
     {
       "id": "frame-117",
@@ -4188,7 +4208,9 @@
       "linked_nodes": [
         "wiki/timeline/events/annie-alexis-reunion-november-2018"
       ],
-      "source_upload": "upload-025"
+      "source_upload": "upload-025",
+      "censored": false,
+      "censor_note": "2026-09-24 tick (work-0039) BORDERLINE - flagged, not pixelated: 960x594 box 450-600,360-500: lying woman's bare chest, recurring dark dot (same mark 118-127). Per 2026-09-13 rule (flag borderline rather than guessing)."
     },
     {
       "id": "frame-119",
@@ -4203,7 +4225,9 @@
       "linked_nodes": [
         "wiki/timeline/events/annie-alexis-reunion-november-2018"
       ],
-      "source_upload": "upload-025"
+      "source_upload": "upload-025",
+      "censored": false,
+      "censor_note": "2026-09-24 tick (work-0039) BORDERLINE - flagged, not pixelated: 922x561 box 420-570,340-480: same woman, same dark dot. Per 2026-09-13 rule (flag borderline rather than guessing)."
     },
     {
       "id": "frame-120",
@@ -4233,7 +4257,9 @@
       "linked_nodes": [
         "wiki/timeline/events/annie-alexis-reunion-november-2018"
       ],
-      "source_upload": "upload-025"
+      "source_upload": "upload-025",
+      "censored": true,
+      "censor_note": "2026-09-24 tick (work-0039): mosaic over exposed breast (borderline call - bare breast visible, nipple not definitively resolved at source resolution; pixelated as the conservative read of the 2026-09-13 rule). NOTE: uncensored copy remains in main history (committed at intake, d234cb7/6280fa2); this fix covers the working tree forward."
     },
     {
       "id": "frame-122",
@@ -4248,7 +4274,9 @@
       "linked_nodes": [
         "wiki/timeline/events/annie-alexis-reunion-november-2018"
       ],
-      "source_upload": "upload-025"
+      "source_upload": "upload-025",
+      "censored": false,
+      "censor_note": "2026-09-24 tick (work-0039) BORDERLINE - flagged, not pixelated: 960x540 box 570-650,370-440: dark nipple-like dot on bare breast. Per 2026-09-13 rule (flag borderline rather than guessing)."
     },
     {
       "id": "frame-123",
@@ -4263,7 +4291,9 @@
       "linked_nodes": [
         "wiki/timeline/events/annie-alexis-reunion-november-2018"
       ],
-      "source_upload": "upload-025"
+      "source_upload": "upload-025",
+      "censored": false,
+      "censor_note": "2026-09-24 tick (work-0039) BORDERLINE - flagged, not pixelated: 960x540 box 585-665,460-530: same dot, consecutive frame. Per 2026-09-13 rule (flag borderline rather than guessing)."
     },
     {
       "id": "frame-124",
@@ -4278,7 +4308,9 @@
       "linked_nodes": [
         "wiki/timeline/events/annie-alexis-reunion-november-2018"
       ],
-      "source_upload": "upload-025"
+      "source_upload": "upload-025",
+      "censored": false,
+      "censor_note": "2026-09-24 tick (work-0039) BORDERLINE - flagged, not pixelated: 1056x594 box 585-665,430-500: same dot, consecutive frame. Per 2026-09-13 rule (flag borderline rather than guessing)."
     },
     {
       "id": "frame-125",
@@ -4308,7 +4340,9 @@
       "linked_nodes": [
         "wiki/timeline/events/annie-alexis-reunion-november-2018"
       ],
-      "source_upload": "upload-025"
+      "source_upload": "upload-025",
+      "censored": false,
+      "censor_note": "2026-09-24 tick (work-0039) BORDERLINE - flagged, not pixelated: 1056x594 box 560-640,405-475: same dot; at 2x reads more like a small tattoo. Per 2026-09-13 rule (flag borderline rather than guessing)."
     },
     {
       "id": "frame-127",
@@ -4323,7 +4357,9 @@
       "linked_nodes": [
         "wiki/timeline/events/annie-alexis-reunion-november-2018"
       ],
-      "source_upload": "upload-025"
+      "source_upload": "upload-025",
+      "censored": false,
+      "censor_note": "2026-09-24 tick (work-0039) BORDERLINE - flagged, not pixelated: 1095x648 box 575-655,420-490: same dot, consecutive frame. Per 2026-09-13 rule (flag borderline rather than guessing)."
     },
     {
       "id": "frame-128",

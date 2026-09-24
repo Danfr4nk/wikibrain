@@ -8,9 +8,9 @@ date_modified: 2026-09-02
 date_range_start: 2009-10-24
 date_range_end: 2025-08-15
 sources:
-  - "raw/self/twitter/archive.jsonl"
-  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"
-  - "raw/self/message-csv/interspersed_messages.csv"
+  - "raw/twitter/archive.jsonl"
+  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/message-csv/interspersed_messages.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [relationships, uniontown-era]
 knowledge: mixed
 infobox:

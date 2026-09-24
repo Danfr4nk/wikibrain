@@ -8,8 +8,8 @@ status: stable
 date_created: 2026-07-14
 date_modified: 2026-08-02
 sources:
-  - raw/self/dansynth/DANSYNTH.txt
-  - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip
+  - raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/self/lineage/family-tree
   - wiki/self/lineage/23andme-genomics

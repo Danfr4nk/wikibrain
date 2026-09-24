@@ -9,11 +9,11 @@ importance: high
 date_created: 2026-08-19
 date_modified: 2026-08-26
 sources:
-  - raw/self/favorites/FAVS MASTERLIST.csv
-  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md
-  - raw/self/dox-md/DAN_COMP.md
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
+  - raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/DAN_COMP.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/mind/politics/axioms
   - wiki/interests/roman-republic

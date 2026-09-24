@@ -7,7 +7,7 @@ status: active
 date_created: 2026-08-26
 date_modified: 2026-08-26
 sources:
-  - raw/self/captures/2026-08-26_223221_dans-bespoke-lexicon-v1.md
+  - raw/self/captures/2026-08-26_223221_dans-bespoke-lexicon-v1.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [personality-profile, relationships]
 knowledge: mixed
 connections:

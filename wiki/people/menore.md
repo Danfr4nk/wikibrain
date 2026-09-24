@@ -7,9 +7,9 @@ date_modified: 2026-08-26
 date_range_start: 2018-11-04
 date_range_end: 2025-07-28
 sources:
-  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"
-  - "raw/self/message-csv/messages_3476070497_all_time.csv"
-  - "raw/self/captures/2026-07-19_operator-note-full-sail-mohler.md"
+  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/message-csv/messages_3476070497_all_time.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/captures/2026-07-19_operator-note-full-sail-mohler.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 connections:
   - page: wiki/mind/synthesis/dormancy-not-exit
     type: evidences

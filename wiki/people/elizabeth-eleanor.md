@@ -8,7 +8,7 @@ date_modified: 2026-07-19
 date_range_start: 2013-07-10
 date_range_end: 2013-07-11
 sources:
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/elizabetheleanor_7psnsflijg/message_1.html"
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/elizabetheleanor_7psnsflijg/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [addiction-recovery, personality-profile, uniontown-era]
 infobox:
   name: "Elizabeth Eleanor"

@@ -8,7 +8,7 @@ knowledge: mixed
 date_created: 2026-08-26
 date_modified: 2026-08-27
 sources:
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes: []
 tags: [language, taste, vocabulary, forensic-analysis]
 connections:

@@ -10,8 +10,8 @@ date_modified: 2026-08-19
 importance: critical
 tags: [ai-collaboration, forensic-analysis, digital-footprint]
 sources:
-  - "raw/self/danmodel/PIPELINE_NOTES.md"
-  - "raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md"
+  - "raw/self/danmodel/PIPELINE_NOTES.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 connections:
   - page: wiki/self/concepts/llm
     type: instantiates

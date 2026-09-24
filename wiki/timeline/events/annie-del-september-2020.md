@@ -1,3 +1,4 @@
+---
 domain: timeline
 page_type: event
 status: stable

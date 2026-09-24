@@ -12,8 +12,8 @@ date_range_start: 2015-11-29
 date_range_end: 2025-08-07
 tags: [uniontown-era, family, relationships]
 sources:
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/message-csv/imessage_2124702449_both_all_now.csv
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_2124702449_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 connections:
   - page: wiki/places/117-belmont-circle
     type: supplies

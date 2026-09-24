@@ -6,8 +6,8 @@ status: active
 date_created: 2026-06-23
 date_modified: 2026-09-03
 sources:
-  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/joshbrannan_vej5dzscpa/message_1.html
-  - raw/self/dox-md/operating_manual.md
+  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/joshbrannan_vej5dzscpa/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [politics, uniontown-era]
 infobox:
   name: "Josh Brannan"

@@ -8,7 +8,7 @@ date_modified: 2026-07-19
 date_range_start: 2017-08-12
 date_range_end: 2020-09-21
 sources:
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/jennlynn_dhrmxxpvhq/message_1.html"
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/jennlynn_dhrmxxpvhq/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [uniontown-era, relationships]
 infobox:
   name: "Jenn Lynn"

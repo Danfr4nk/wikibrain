@@ -5,10 +5,10 @@ status: active
 date_created: 2026-07-16
 date_modified: 2026-08-19
 sources:
-  - "raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md"
-  - "raw/self/dox-scan/all_imessages_complete_dump.txt"
-  - "raw/self/message-csv/imessages_2124702449_last6months.csv"
-  - "raw/self/gemini-activity/Gemini Activity.html"
+  - "raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/message-csv/imessages_2124702449_last6months.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md"
 related:
   - wiki/interests/favorites/books
   - wiki/mind/profile/deviance-mapping

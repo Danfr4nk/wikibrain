@@ -5,9 +5,9 @@ status: stable
 date_created: 2026-07-16
 date_modified: 2026-09-03
 sources:
-  - "raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2025).html"
-  - "raw/self/dox-scan/Dan Profile.txt"
-  - "raw/self/facebook/facebook-ihatedanfrank/pages_and_profiles/pages_you_ve_liked.html"
+  - "raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2025).html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/facebook/facebook-ihatedanfrank/pages_and_profiles/pages_you_ve_liked.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [personality-profile, digital-footprint, nyc-era]
 connections:
   - page: wiki/mind/synthesis/2020-left-turn
@@ -43,10 +43,10 @@ connections:
     claim: "A decade of shock-radio/long-form comedy immersion is the structural template Dan reaches for when designing his own long-form video format — Some More News is explicitly named as the model to reverse-engineer."
   - page: wiki/self/twitter/2012
     type: evidenced-by
-    claim: 'Dan disavows the show\'s politics while committing to its comedy on 2012-02-26, ten years before the retrospective account, and applies for an O&A internship on 2012-11-18 — the only job application anywhere in the 2010-2012 record.'
+    claim: 'Dan disavows the show''s politics while committing to its comedy on 2012-02-26, ten years before the retrospective account, and applies for an O&A internship on 2012-11-18 — the only job application anywhere in the 2010-2012 record.'
   - page: wiki/self/twitter/2014
     type: contradicts
-    claim: 'Dan backed Cumia the day after the firing — "nothing but love and respect ant" (2014-07-04) — and endorsed his anti-political-correctness framing as "brilliant" three months earlier. The 2022 radicalization account\'s timing does not survive it; its direction of travel does.'
+    claim: 'Dan backed Cumia the day after the firing — "nothing but love and respect ant" (2014-07-04) — and endorsed his anti-political-correctness framing as "brilliant" three months earlier. The 2022 radicalization account''s timing does not survive it; its direction of travel does.'
   - page: wiki/self/twitter/2018
     type: evidenced-by
     claim: 'The middle term of the sequence: "opie sucks though" (2018-10-29), three words with no argument attached, four years after the firing and four before the retrospective.'

@@ -10,10 +10,10 @@ date_created: 2026-08-02
 date_modified: 2026-08-22
 date_range: ["2018-04-01", "2018-04-17"]
 sources:
-  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md
-  - raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md
-  - "raw/self/dox-md/_Photo Thread PT II_ Grand Finale Calibration .md"
-  - raw/legal/documents/2018-04_summons-hospital-smoking.md
+  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - "raw/self/dox-md/_Photo Thread PT II_ Grand Finale Calibration .md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - raw/legal/documents/2018-04_summons-hospital-smoking.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [legal, grief, family, uniontown-era]
 connections:
   - page: wiki/timeline/events/fran-death-vigil

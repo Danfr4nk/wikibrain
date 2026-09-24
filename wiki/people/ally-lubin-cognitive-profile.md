@@ -21,14 +21,14 @@ infobox:
   mbti: "ENTP-T (tested 2026, self-administered; supersedes the disputed ENFP)"
   known_for: "The typology read on the eighteen-year attachment — and the finding that the qualities Dan is drawn to and the conduct he directs at her are, on the record, in opposition"
 sources:
-  - "raw/people/captures/2026-08-22_ally-lubin-16personalities-entp-t.md"
-  - "raw/self/imessage/ally-lubin_chatdb_complete.csv"
-  - "raw/self/imessage/ally-lubin_last-7-days_20260820.csv"
-  - "raw/self/message-csv/ally_lubin_chatdb_export.csv"
-  - "raw/people/captures/2026-08-21_175309_gap-ally-lubin.md"
-  - "raw/people/captures/2026-08-20_042255_gap-ally-lubin.md"
-  - "raw/people/captures/2026-08-27_022249_gap-ally-lubin-cognitive-profile.md"
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/alexandralubin_jnwin7cizw/message_1.html"
+  - "raw/people/captures/2026-08-22_ally-lubin-16personalities-entp-t.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/imessage/ally-lubin_chatdb_complete.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/imessage/ally-lubin_last-7-days_20260820.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/message-csv/ally_lubin_chatdb_export.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/people/captures/2026-08-21_175309_gap-ally-lubin.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/people/captures/2026-08-20_042255_gap-ally-lubin.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/people/captures/2026-08-27_022249_gap-ally-lubin-cognitive-profile.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/alexandralubin_jnwin7cizw/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 synthesizes:
   - wiki/people/ally-lubin
   - wiki/mind/concepts/erotic-architecture

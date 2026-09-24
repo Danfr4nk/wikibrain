@@ -8,7 +8,7 @@ date_modified: 2026-07-19
 date_range_start: 2014-04-11
 date_range_end: 2020-09-14
 sources:
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/laurynashly_4_5jbvoqow/message_1.html"
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/laurynashly_4_5jbvoqow/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [uniontown-era, grief, relationships]
 infobox:
   name: "Lauryn Ashly"
