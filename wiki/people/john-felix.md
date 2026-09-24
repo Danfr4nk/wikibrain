@@ -6,7 +6,7 @@ date_created: 2026-06-23
 date_modified: 2026-08-18
 date_range_start: 2016-02-12
 date_range_end: 2016-06-01
-sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"]
+sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/people/suzanne-frank", "wiki/self/message-corpora/master-message-dump"]
 tags: [family, uniontown-era]
 knowledge: mixed

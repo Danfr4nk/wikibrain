@@ -8,9 +8,9 @@ date_modified: 2026-08-13
 date_range_start: 2019-02-01
 date_range_end: 2025-07-25
 sources:
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/captures/2026-08-10_014938_307-76th-cast-roach-bombing.md
-  - raw/self/captures/2026-08-13_john-paci-staged-eviction-operator-decode.md
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-10_014938_307-76th-cast-roach-bombing.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-13_john-paci-staged-eviction-operator-decode.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [nyc-era, housing, legal]
 infobox:
   name: "John Paci"
