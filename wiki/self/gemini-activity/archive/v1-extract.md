@@ -5,15 +5,15 @@ status: archived
 date_created: 2026-06-22
 date_modified: 2026-08-17
 sources:
-  - raw/self/gemini-activity/Gemini Activity.html
-  - raw/self/dox-md/Gemini-_00.md
-  - raw/self/dox-md/Gemini-_02.md
-  - raw/self/dox-md/Gemini-_07.md
-  - raw/self/dox-md/Gemini-_13.md
-  - raw/self/dox-md/Gemini-_18.md
-  - raw/self/dox-md/Gemini-_21.md
-  - raw/self/dox-md/Gemini-_21 copy.md
-  - raw/self/dox-scan/Gemini-_58.txt
+  - raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md
+  - raw/self/dox-md/Gemini-_00.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/Gemini-_02.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-07.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-13.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-21.md
+  - raw/self/dox-md/Gemini-_21 copy.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-58.md
 related:
   - wiki/self/gemini-activity/gemini-activity
   - wiki/self/chats/gemini-07
