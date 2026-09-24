@@ -17,7 +17,7 @@ sources:
   - raw/self/dox-md/ADDICTION_PROFILE.md
   - raw/people/captures/2026-08-27_222932_gap-alexis-armel.md
   - raw/health/intake/intake_unit_01M1AJ47K2HKZ8TZZ75CPNGFJ7.md
-  - intake/events.jsonl
+  - testimony/events.jsonl
 related:
   - wiki/self/context-core
   - wiki/mind/profile/deviance-mapping

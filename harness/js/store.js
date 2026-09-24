@@ -30,6 +30,7 @@
     ready: false,
     graph: null, evidence: null, searchIdx: null, timeline: null,
     nodes: {}, edges: [], outIdx: {}, inIdx: {},
+    sources: null,
 
     load: function () {
       var self = this;
@@ -41,10 +42,12 @@
       }
       return Promise.all([
         get("page-graph.json"), get("evidence-index.json"),
-        get("search-adapter.json"), get("timeline.json")
+        get("search-adapter.json"), get("timeline.json"),
+        get("sources-index.json")
       ]).then(function (res) {
         self.graph = res[0]; self.evidence = res[1];
         self.searchIdx = res[2]; self.timeline = res[3];
+        self.sources = res[4];
         self.nodes = self.graph.nodes; self.edges = self.graph.edges;
         self.edges.forEach(function (e, i) {
           (self.outIdx[e.source] = self.outIdx[e.source] || []).push(i);
@@ -88,6 +91,24 @@
       var ok = items.filter(function (c) { return c.resolved; }).length;
       if (ok === items.length) return "ok";
       return "warn";
+    },
+
+    /* -- frontmatter sources (sources-index.json, D1 classification) -- */
+    sourcesFor: function (id) {
+      return (this.sources && this.sources.pages && this.sources.pages[id]) || null;
+    },
+    sourcesCorpusCoverage: function () {
+      return (this.sources && this.sources.coverage) || null;
+    },
+    sourcesPageSummary: function (id) {
+      var p = this.sourcesFor(id);
+      if (!p) return null;
+      var classes = {};
+      p.entries.forEach(function (e) {
+        classes[e.class] = (classes[e.class] || 0) + 1;
+      });
+      return { resolved: p.resolved, total: p.total, classes: classes,
+               entries: p.entries };
     },
 
     timelineFor: function (id) {

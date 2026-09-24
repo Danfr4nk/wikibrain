@@ -14,6 +14,7 @@ deployed indexes always describe the deployed corpus revision.
 |---|---|
 | `page-graph.json` | `nodes` (per-page: title, domain, page_type, tags, aliases, date_start/end, hub flags, degrees, evidence_count, has_chronology, dead_link_count, outbound/inbound edge index lists), `edges` (source/target/relation/relation_original/class/direction/provenance/strength/frequency), `stats` |
 | `evidence-index.json` | per-page list of cite occurrences: cite id, resolved flag, resolved_id, node_type, node_title, claim, confidence, created, tags, source_location (`page#L<line>`), resolution (exact/shorthand/dead/ambiguous-shorthand) |
+| `sources-index.json` | per-page frontmatter `sources:` entries with D1 class (P exact path / N node-ref / A remapped / B ambiguous / C lost / D dead local / E url-prose), resolved flag, resolved target; `coverage` carries corpus-wide unique/entry resolution counts and per-class unique counts. The live coverage figure — see `harness/docs/sources-baseline.md`. |
 | `search-adapter.json` | per-page: id, title, aliases, domain, page_type, tags, rel_count, evidence flag, chrono flag, 200-char sample |
 | `timeline.json` | parsed master-timeline events: id, date, granularity (day/month/season/year), tier (1/2/3), text, quoted flag, page, section |
 

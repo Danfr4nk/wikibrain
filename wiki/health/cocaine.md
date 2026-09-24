@@ -18,7 +18,7 @@ sources:
   - raw/self/dox-md/MAX_PRIME.md
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
   - raw/health/intake/intake_unit_01M1AJ47K2HKZ8TZZ75CPNGFJ7.md
-  - intake/events.jsonl
+  - testimony/events.jsonl
 synthesizes:
   - wiki/health/chemical-architecture
   - wiki/mind/synthesis/supply-network

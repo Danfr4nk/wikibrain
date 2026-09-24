@@ -8,6 +8,7 @@ source into the site output directory.
 Indexes:
   data/page-graph.json      nodes + typed edges (ASSOCIATIVE/SEMANTIC/EVIDENCE)
   data/evidence-index.json  per-page kb cite coverage
+  data/sources-index.json   per-page frontmatter sources: entries, P/N/A/B/C/D/E class + coverage
   data/search-adapter.json  compact client-side search index
   data/timeline.json        parsed master timeline events
 
@@ -445,6 +446,247 @@ def main():
                 return None, False, "ambiguous-shorthand"
         return None, False, "dead"
 
+    # ---- 2b. sources: frontmatter evidence-pointer index (D1) ----
+    # Entry-kind classification P/N/A/B/C/D/E per the 2026-09-23 sources
+    # audit (proposal: ~/workspace/wiki-harness/audit/
+    # sources-repair-proposal-20260923.md).
+    #   N - kb node-ref convention: src:/dat:/pat:/int: strip the prefix
+    #       and any trailing parenthetical, then kb/sources/<core>.md
+    #       with fallback kb/data/<core>.md.
+    #   D - directory-glob entries resolve as live prefix queries
+    #       (R-DIR-ALIVE); no page edit needed for live prefixes.
+    #   E - annotations (URLs, local paths, prose testimony): not file
+    #       refs, never scored as rot.
+    # Read-only: classifies only. Never rewrites wiki pages.
+    #
+    # D2 deterministic remap table (proposal S5). Generated from the
+    # audit's final_classes.json; order R-EXT, R-EVT, per-entry TABLE.
+    SRC_REMAP = [
+        ('kb/data/0081-explicit-commitment-architecture', 'kb/data/0081-explicit-commitment-architecture.md', 'R-EXT'),
+        ('kb/data/0090-block-retraction-2026-09-11', 'kb/data/0090-block-retraction-2026-09-11.md', 'R-EXT'),
+        ('kb/data/1292-block-unblock-loop-severance-recount-129-128', 'kb/data/1292-block-unblock-loop-severance-recount-129-128.md', 'R-EXT'),
+        ('claims/events.jsonl', 'testimony/events.jsonl', 'R-EVT'),
+        ('intake/events.jsonl', 'testimony/events.jsonl', 'R-EVT'),
+        ('ingest-queue.md', 'ingest-queue.json', 'TABLE'),
+        ('raw/self/archives/google-data-export-index-20260623.html', 'raw/drive-sweep/20260911/takeout-index/google-data-export-index-20260623.html', 'TABLE'),
+        ('raw/self/chats/___ The J6 Chat.md', 'raw/googlechat/the-j6-chat.md', 'TABLE'),
+        ('raw/self/facebook/facebook-export-2026-06-23', 'kb/sources/facebook-export-2026-06-23.md', 'TABLE'),
+        ('raw/self/gmail-captures/2026-08-10-creative-license-kevin-mckiernan-gmail.md', 'raw/gmail/2026-08-10-creative-license-kevin-mckiernan-gmail.md', 'TABLE'),
+        ('raw/self/location/2026-06-22-ingest/Location History (Timeline)/Semantic Location History/2019/2019_FEBRUARY.json', 'raw/sammy/20260912-location-history/semantic/2019/2019_FEBRUARY.json', 'TABLE'),
+        ('raw/self/message-csv/aug-sep-2026-imessage-export', 'raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv', 'TABLE'),
+        ('raw/self/message-csv/imessage_export_3307038747_20260624.csv', 'raw/drive-sweep/20260911/imessage/imessage_export_3307038747_20260624.csv', 'TABLE'),
+        ('raw/self/message-csv/imessage_export_7248123683_20260624.csv', 'raw/drive-sweep/20260911/imessage/imessage_export_7248123683_20260624.csv', 'TABLE'),
+        ('raw/self/twitter/tweet-archive.xlsx', 'raw/twitter/tweet-archive.csv', 'TABLE'),
+        ('raw/self/twitter/tweets_sample_2019-2026.txt', 'raw/drive-sweep/20260911/twitter/profile-samples/tweets_sample_2019-2026.txt', 'TABLE'),
+        ('wiki/mind/synthesis/august-26-block-retraction', 'wiki/mind/synthesis/august-26-block-retraction.md', 'TABLE'),
+    ]
+    # B-class (ambiguous, D3 review queue - 65 entries). The adapter
+    # labels these B; it never resolves them.
+    SRC_AMBIGUOUS = frozenset([
+        'corpus/messages.csv',
+        'raw/self/chats/9-11-chat.md',
+        'raw/self/chats/danfrank-isms-pinned.md',
+        'raw/self/chats/j6-chat.md',
+        'raw/self/dox-md/Gemini Activity.html',
+        'raw/self/dox-md/Gemini-_07.md',
+        'raw/self/dox-md/Gemini-_13.md',
+        'raw/self/dox-md/Gemini-_18.md',
+        'raw/self/dox-md/Gemini-_21.md',
+        'raw/self/dox-md/Gemini-_58.txt',
+        'raw/self/dox-md/Gemini_07.md',
+        'raw/self/dox-md/Gemini_13.md',
+        'raw/self/dox-md/Gemini_18.md',
+        'raw/self/dox-md/Gemini_21.md',
+        'raw/self/dox-md/Jacob Bacharach.md',
+        'raw/self/dox-md/Max.md',
+        'raw/self/dox-scan/Gemini-_58.txt',
+        'raw/self/dox-scan/history.txt',
+        'raw/self/facebook/facebook-ihatedanfrank/comments_and_reactions/comments.html',
+        'raw/self/facebook/facebook-ihatedanfrank/friends_and_followers/friends.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/alexandralubin_jnwin7cizw/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/bobbycole_-p2picui8w/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/charlesdavenport_skjjehkupq/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/chrisredmond_ewkx6qfqha/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/christocoan_2cxo0swo3g/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/danpolyak_a1u7tpseha/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/davidbeard_2il3ecdfgg/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/drewmcgettigan_0m9jyrivda/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/ejrags_dooxnkq2dg/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/elizabetheleanor_7psnsflijg/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/emalyminerd_fljbb4qpoa/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/frankswaney_jcxhv7sesw/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/jennlynn_dhrmxxpvhq/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/joeoshnack_7killpebkw/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/joshbrannan_vej5dzscpa/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/kevinmckiernan__3hd8v2u0g/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/laurynashly_4_5jbvoqow/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/lewisstrosnider_t431kowlfq/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/lucasthomas_eu0ir1uckq/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/luciedobbin_xdu6oa5apw/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/lukyanmraz_cdrt3jsg7g/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/marccharles_f3gfexyecg/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/mattdunn_abk0dttjqa/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/matthewpalermo_nkpz90-e_g/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/oscarlindquist_osj0xrxodg/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/phillacher_gukgsjnnvw/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/qymuchauiq/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/rickfrank_-wir6jjh_a/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/rjritchey_1zdzzhrtsw/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/ryanscherich_z-v_ahjumq/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/seanteets_ycj9jpkeba/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/sethledonne_ydkapzhbla/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/stephanienalbone_tnsgkur3lq/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/suzannefrank_trid-zrcoa/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/tommaison_z_scvtnccq/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/trevorbevins_1zi360sana/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/zachariahharshman_dgkcd6awma/message_1.html',
+        'raw/self/gemini-activity/Gemini Activity.html',
+        'raw/self/location/2026-06-22-ingest/Location History (Timeline)/Records.json',
+        'raw/self/location/2026-06-22-ingest/Records.json',
+        'raw/self/location/2026-06-22-ingest/Settings.json',
+        'raw/self/location/2026-06-22-ingest/semantic_location.db',
+        'raw/self/self/twitter/2013.md',
+        'raw/self/twitter/archive.jsonl',
+        'raw/self/twitter/profile.txt',
+    ])
+
+    SRC_NODEREF_RE = re.compile(r"^(src|dat|pat|int):")
+    SRC_LOCAL_RE = re.compile(r"^(~/|workspace/|Users/|/Volumes/|memory/|media_library|EPUB|corpus-extract/)")
+    SRC_PROSE_EXT = (".md", ".txt", ".csv", ".json", ".jsonl", ".html", ".htm", ".pdf", ".xlsx")
+
+    # Full-tree path set: exact-path (P) and directory-prefix (D)
+    # resolution need raw/ and testimony/ too, not just wiki/ + kb/.
+    # site/ is derived build output - excluded so derived files can
+    # never resolve a sources: entry.
+    tree_paths = set()
+    for _dp, _dn, _fs in os.walk(root):
+        if "/.git/" in _dp or _dp.endswith("/.git"):
+            _dn[:] = []
+            continue
+        _dn[:] = [d for d in _dn if d not in (".git", "site")]
+        _rel = os.path.relpath(_dp, root)
+        for _f in _fs:
+            tree_paths.add(_f if _rel == "." else _rel + "/" + _f)
+
+    def _src_norm(entry):
+        e = entry.strip()
+        e = re.sub(r"^(\./|/)", "", e)
+        return e
+
+    def _src_kind(e):
+        base = e.rsplit("/", 1)[-1]
+        if e.endswith("/") or e.endswith("*") or base == "":
+            return "dir"
+        if e.startswith("http"):
+            return "url"
+        if SRC_NODEREF_RE.match(e):
+            return "noderef"
+        if SRC_LOCAL_RE.match(e):
+            return "local"
+        return "path"
+
+    _kb_basenames = {}
+    for _p in tree_paths:
+        if _p.startswith("kb/"):
+            _kb_basenames.setdefault(_p.rsplit("/", 1)[-1], _p)
+
+    def _noderef_resolve(e):
+        # Audit-faithful candidate list (src_final.py): core = id minus the
+        # src:/dat:/pat:/int: prefix, trailing parenthetical stripped; try
+        # "<core>.md", bare "<core>", then the doubled-prefix artifacts
+        # ("dat:<core>.md", "src:<core>.md") left by the old wb-new id bug.
+        # Matched by basename across kb/, exactly as the audit did.
+        core = SRC_NODEREF_RE.sub("", e)
+        core = re.sub(r"\s*\(.*?\)\s*$", "", core).strip()
+        for cand in (core + ".md", core, "dat:" + core + ".md",
+                     "src:" + core + ".md", core.lstrip(":") + ".md"):
+            if cand in _kb_basenames:
+                return _kb_basenames[cand]
+        return None
+
+    def _dir_alive(e):
+        p = e.rstrip("*").rstrip("/")
+        return any(x == p or x.startswith(p + "/") for x in tree_paths)
+
+    SRC_REMAP_LOOKUP = {old: new for old, new, _r in SRC_REMAP}
+
+    def _classify_source(raw_entry):
+        e = _src_norm(raw_entry)
+        kind = _src_kind(e)
+        if kind == "dir":
+            alive = _dir_alive(e)
+            return ("D", e.rstrip("*").rstrip("/") if alive else None, alive)
+        if kind in ("url", "local"):
+            return ("E", None, False)
+        if kind == "noderef":
+            t = _noderef_resolve(e)
+            return (("N", t, True) if t else ("C", None, False))
+        if e in tree_paths:
+            return ("P", e, True)
+        if e in SRC_REMAP_LOOKUP and SRC_REMAP_LOOKUP[e] in tree_paths:
+            return ("A", SRC_REMAP_LOOKUP[e], True)
+        if " " in e and not e.lower().endswith(SRC_PROSE_EXT):
+            return ("E", None, False)
+        if e in SRC_AMBIGUOUS:
+            return ("B", None, False)
+        return ("C", None, False)
+
+    def _src_item_str(it):
+        # The wiki's node-ref convention writes bare `src:foo` list items.
+        # The YAML-faithful frontmatter parser reads those as single-pair
+        # mappings {"src": "foo"}; reconstruct the intended reference string.
+        if isinstance(it, str):
+            return it.strip() or None
+        if isinstance(it, dict) and len(it) == 1:
+            (k, v), = it.items()
+            k = str(k).strip().strip('"').strip("'")
+            if k in ("src", "dat", "pat", "int") and isinstance(v, str):
+                return "%s:%s" % (k, v.strip().strip('"').strip("'"))
+        return None
+
+    sources_pages = {}
+    _uniq = {}  # entry -> (class, resolved)
+    for pid, pg in pages.items():
+        _raw = pg["fm"].get("sources")
+        if _raw is None:
+            continue
+        _items = _raw if isinstance(_raw, list) else [_raw]
+        _ents = []
+        for _it in _items:
+            _s = _src_item_str(_it)
+            if not _s:
+                continue
+            _cls, _tgt, _ok = _classify_source(_s)
+            _ents.append({"entry": _s, "class": _cls,
+                            "target": _tgt, "resolved": _ok})
+            if _s not in _uniq:
+                _uniq[_s] = (_cls, _ok)
+        if _ents:
+            sources_pages[pid] = {
+                "entries": _ents,
+                "resolved": sum(1 for x in _ents if x["resolved"]),
+                "total": len(_ents),
+            }
+
+    _cls_counts = {}
+    _ures = 0
+    for _e, (_c, _ok) in _uniq.items():
+        _cls_counts[_c] = _cls_counts.get(_c, 0) + 1
+        if _ok:
+            _ures += 1
+    _eres = sum(x["resolved"] for _p in sources_pages.values()
+                for x in _p["entries"])
+    _etot = sum(_p["total"] for _p in sources_pages.values())
+    sources_coverage = {
+        "unique_total": len(_uniq),
+        "unique_resolved": _ures,
+        "unique_pct": round(100.0 * _ures / len(_uniq), 1) if _uniq else 0.0,
+        "entry_total": _etot,
+        "entry_resolved": _eres,
+        "entry_pct": round(100.0 * _eres / _etot, 1) if _etot else 0.0,
+        "classes_unique": _cls_counts,
+        "pages_with_sources": len(sources_pages),
+    }
     # ---- 3. graph ----
     nodes = {}
     edges = []
@@ -618,6 +860,8 @@ def main():
                                  "relation_families": FAMILY_MAP,
                              }})
     dump("evidence-index.json", {**meta, "pages": evidence_index})
+    dump("sources-index.json", {**meta, "source_paths": ["wiki/", "kb/", "raw/", "testimony/"],
+                                       "pages": sources_pages, "coverage": sources_coverage})
     dump("search-adapter.json", {**meta, "objects": search})
     dump("timeline.json", {**meta, "source": "wiki/timeline/master-timeline.md",
                            "events": events,
@@ -636,6 +880,9 @@ def main():
     print(f"wb-harness: {len(nodes)} nodes, {len(edges)} edges, "
           f"{len(events)} timeline events, {len(kb_nodes)} kb nodes "
           f"-> {out} (commit {commit[:7]})")
+    print(f"wb-harness: sources: {sources_coverage['unique_resolved']}/"
+          f"{sources_coverage['unique_total']} unique entries resolve "
+          f"({sources_coverage['unique_pct']}%)")
     if FM_FAILS:
         print(f"wb-harness: {len(FM_FAILS)} frontmatter parse failures (counted, skipped)")
 

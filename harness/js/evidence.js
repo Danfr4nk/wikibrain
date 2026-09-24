@@ -35,6 +35,24 @@
       var html = "<h3>" + esc(n.title) + "</h3>"
         + "<p>" + window.HarnessContext.COV_TEXT[cov] + "</p>";
 
+      var ss = S.sourcesPageSummary(oid);
+      if (ss) {
+        var clsTxt = Object.keys(ss.classes).sort().map(function (k) {
+          return k + "×" + ss.classes[k];
+        }).join(" ");
+        html += '<div class="card"><h3>Frontmatter sources (' + ss.resolved + " of " + ss.total + " resolve)</h3>"
+          + '<p class="faint small">D1 classification — P exact path · N node-ref · A remapped · '
+          + 'B ambiguous (never guessed) · C lost · D dead local · E url/prose. ' + esc(clsTxt) + "</p>"
+          + "<ul class=\"plain small\">" + ss.entries.map(function (e) {
+            return "<li><code>" + esc(e.entry) + "</code>"
+              + ' <span class="badge">' + esc(e.class) + "</span>"
+              + (e.resolved && e.target ? ' <span class="faint">→ ' + esc(e.target) + "</span>" : "")
+              + "</li>";
+          }).join("") + "</ul></div>";
+      } else {
+        html += '<p class="dim small">No frontmatter <code>sources:</code> entries on this page.</p>';
+      }
+
       if (!items.length) {
         html += '<div class="card"><p class="dim">' + EMPTY_MSG + "</p></div>";
       } else {
