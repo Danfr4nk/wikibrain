@@ -11,11 +11,11 @@ date_modified: 2026-09-24
 date_range: ["2016-04-06", "2019-11-01"]
 tags: [work, uniontown-era, physical-life, golf, social-world, financial-stress]
 sources:
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/dox-scan/Resume.txt
-  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md
-  - raw/self/dansynth/DANSYNTH.txt
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/Resume.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/sammy/20260918-0230/chats.json
 infobox:
   title: "The Nemacolin Caddie Years"

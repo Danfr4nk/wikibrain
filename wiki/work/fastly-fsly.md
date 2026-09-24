@@ -7,9 +7,9 @@ status: stable
 date_created: 2026-07-15
 date_modified: 2026-08-26
 sources:
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/dox-md/operating_manual.md
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/timeline/periods/2020-2021-market-era
   - wiki/self/context-core
