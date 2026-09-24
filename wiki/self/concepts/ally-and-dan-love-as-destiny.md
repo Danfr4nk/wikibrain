@@ -12,11 +12,11 @@ date_range_start: 2011-05-20
 date_range_end: 2026-08-20
 tags: [relationships, attachment, future]
 sources:
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/imessage/ally-lubin_chatdb_complete.csv
-  - raw/self/imessage/ally-lubin_last-7-days_20260820.csv
-  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/alexandralubin_jnwin7cizw/message_1.html
-  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/danpolyak_a1u7tpseha/message_1.html
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/imessage/ally-lubin_chatdb_complete.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/imessage/ally-lubin_last-7-days_20260820.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/alexandralubin_jnwin7cizw/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/danpolyak_a1u7tpseha/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/people/ally-lubin
 connections:

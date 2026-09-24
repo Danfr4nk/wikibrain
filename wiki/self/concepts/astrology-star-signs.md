@@ -10,9 +10,9 @@ date_modified: 2026-08-26
 importance: high
 tags: [relationships, personality-profile, digital-footprint]
 sources:
-  - "raw/self/imessage/ally-lubin_chatdb_complete.csv"
-  - "raw/self/dox-scan/all_imessages_complete_dump.txt"
-  - "raw/self/gemini-activity/Gemini Activity.html"
+  - "raw/self/imessage/ally-lubin_chatdb_complete.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md"
 synthesizes:
   - wiki/people/ally-lubin
 connections:

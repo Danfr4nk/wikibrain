@@ -8,15 +8,15 @@ importance: critical
 date_created: 2026-06-22
 date_modified: 2026-08-26
 sources:
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md
-  - raw/self/dox-md/operating_manual.md
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/facebook/facebook-ihatedanfrank/
-  - raw/self/gemini-activity/Gemini Activity.html
-  - raw/self/dox-md/Gemini-_07.md
-  - raw/self/dox-md/Gemini-_18.md
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-07.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md
 synthesizes:
   - wiki/mind/synthesis/vertical-authority-skepticism
   - wiki/mind/synthesis/2020-left-turn

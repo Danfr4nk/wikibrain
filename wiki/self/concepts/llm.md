@@ -10,14 +10,14 @@ date_modified: 2026-08-21
 importance: critical
 tags: [ai-collaboration, forensic-analysis, digital-footprint, personality-profile]
 sources:
-  - "raw/self/chatgpt-export/dfrank-chatgpt-conversations-2022-2025.json"
-  - "raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md"
-  - "raw/self/dox-md/operating_manual.md"
-  - "raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md"
-  - "raw/self/danmodel/PIPELINE_NOTES.md"
-  - "raw/self/gemini-activity/Gemini Activity.html"
-  - "raw/self/dox-scan/Fresh perspective and research needed.txt"
-  - "raw/self/captures/2026-07-14-lyrics-as-timbre.md"
+  - "raw/self/chatgpt-export/dfrank-chatgpt-conversations-2022-2025.json — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/danmodel/PIPELINE_NOTES.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md"
+  - "raw/self/dox-scan/Fresh perspective and research needed.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/captures/2026-07-14-lyrics-as-timbre.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/drive-sweep/20260911/twitter/profile-samples/tweets_sample_2019-2026.txt"
 connections:
   - page: wiki/mind/concepts/exocortex

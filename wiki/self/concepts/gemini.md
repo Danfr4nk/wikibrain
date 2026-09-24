@@ -10,11 +10,11 @@ date_modified: 2026-08-19
 importance: critical
 tags: [ai-collaboration, forensic-analysis, digital-footprint, personality-profile]
 sources:
-  - "raw/self/gemini-activity/Gemini Activity.html"
-  - "raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md"
-  - "raw/self/dox-md/operating_manual.md"
-  - "raw/self/dox-scan/Fresh perspective and research needed.txt"
-  - "raw/self/danmodel/PIPELINE_NOTES.md"
+  - "raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md"
+  - "raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/Fresh perspective and research needed.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/danmodel/PIPELINE_NOTES.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 connections:
   - page: wiki/self/concepts/llm
     type: instantiates
