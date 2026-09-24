@@ -11,14 +11,14 @@ date_range_start: 2025-05-01
 date_range_end: 2025-08-31
 sources:
   - src:imessage-corpus-2026
-  - src:dat-0028-prescriber-quotes-partly-unverifiable
-  - src:corpus-agent-summaries-2026-09
-  - src:imessage_7243228715_both_2025-06-03_now.csv
-  - raw/self/chatgpt-export/escort-messages-chatgpt-export-2025-08.md
-  - raw/self/chatgpt-export/mom-info-logged-2025-05-23.md
-  - raw/self/dox-scan/messenger_Kristin Shaelene_2025-09-01-07-53-22.txt
-  - raw/self/dox-md/tom_kristin_master_dossier.md
-  - raw/people/annie-ulmer/annie_all_time_logs.csv
+  - src:dat-0028-prescriber-quotes-partly-unverifiable — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:corpus-agent-summaries-2026-09 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:imessage_7243228715_both_2025-06-03_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/chatgpt-export/escort-messages-chatgpt-export-2025-08.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/chatgpt-export/mom-info-logged-2025-05-23.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/messenger_Kristin Shaelene_2025-09-01-07-53-22.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/tom_kristin_master_dossier.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/annie-ulmer/annie_all_time_logs.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/mind/synthesis/the-2025-collapse
   - wiki/timeline/periods/feb-apr-2025-return-and-rupture

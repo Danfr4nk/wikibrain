@@ -7,10 +7,10 @@ status: stable
 date_created: 2026-06-22
 date_modified: 2026-09-03
 sources:
-  - raw/self/chats/_✧✧ 𝔻𝔸ℕ𝔽ℝ𝔸ℕ𝕂-𝕀𝕊𝕄'𝕊 ✧✧ Pinned chat.md
-  - raw/self/gemini-activity/Gemini Activity.html
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/facebook/facebook-ihatedanfrank/
+  - raw/self/chats/_✧✧ 𝔻𝔸ℕ𝔽ℝ𝔸ℕ𝕂-𝕀𝕊𝕄'𝕊 ✧✧ Pinned chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/self/facebook
   - wiki/mind/synthesis/political-psyops

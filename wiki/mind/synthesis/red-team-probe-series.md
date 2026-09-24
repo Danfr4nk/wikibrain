@@ -7,13 +7,13 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-16
 sources:
-  - src:kb-dat-1488-annie-will-fabricated-probe
-  - src:kb-dat-1463-hidden-answer-test
-  - src:kb-dat-1615-gemini-lost-hiker-saga
-  - src:kb-dat-1616-screenplay-prank-frame-dependence
-  - src:kb-dat-1617-probing-verdict-quantified
-  - src:kb-dat-1618-trust-declaration-model-disappears
-  - src:memory-2026-09-10-image-lab-battery
+  - src:kb-dat-1488-annie-will-fabricated-probe — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:kb-dat-1463-hidden-answer-test — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:kb-dat-1615-gemini-lost-hiker-saga — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:kb-dat-1616-screenplay-prank-frame-dependence — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:kb-dat-1617-probing-verdict-quantified — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:kb-dat-1618-trust-declaration-model-disappears — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:memory-2026-09-10-image-lab-battery — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:sammy-chat-transcript-20260913-1140
   - src:sammy-chat-transcript-20260913-1230
   - src:sammy-chat-transcript-20260912-2345

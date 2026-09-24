@@ -6,9 +6,9 @@ status: active
 date_created: 2026-07-15
 date_modified: 2026-08-23
 sources:
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - /Volumes/MUSIC/PHASE B RAW/LEVIATHAN_FULL_CORPUS.csv
-  - raw/self/dox-md/OMNI_FORENSIC_DOSSIER.md
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - /Volumes/MUSIC/PHASE B RAW/LEVIATHAN_FULL_CORPUS.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/OMNI_FORENSIC_DOSSIER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/mind/concepts/attachment-model
   - wiki/mind/concepts/contact-gini

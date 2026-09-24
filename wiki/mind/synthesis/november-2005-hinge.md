@@ -7,11 +7,11 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
-  - src:operator-testimony-cato-dossiers
-  - src:testimony-events-t011
-  - src:corpus-lexical-audit-106629
-  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
+  - src:operator-testimony-cato-dossiers — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:testimony-events-t011 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:corpus-lexical-audit-106629 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/people/rick-frank
   - wiki/people/suzanne-frank

@@ -8,19 +8,19 @@ status: stable
 date_created: 2026-06-22
 date_modified: 2026-09-22
 sources:
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - workspace/wiki-sync/scratchpad/2026-09-22-conspiracy-verdicts.md
   - workspace/wiki-sync/scratchpad/2026-09-22-conspiracy-worldview-analysis.md
-  - raw/self/chats/j6-chat.md
-  - raw/self/gemini-activity/Gemini Activity.html
-  - raw/self/dox-md/Gemini-_13.md
-  - raw/self/dox-md/Gemini-_21.md
-  - raw/self/dox-md/Gemini-_21 copy.md
-  - raw/self/dox-md/operating_manual.md
-  - raw/self/chats/_✧✧ 𝔻𝔸ℕ𝔽ℝ𝔸ℕ𝕂-𝕀𝕊𝕄'𝕊 ✧✧ Pinned chat.md
-  - raw/self/facebook/facebook-ihatedanfrank/
-  - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip
-  - raw/self/chatgpt-export/babbitt-shooting-psyop-debate-2025-06-15.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/j6-chat.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-13.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-21.md
+  - raw/self/dox-md/Gemini-_21 copy.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/chats/_✧✧ 𝔻𝔸ℕ𝔽ℝ𝔸ℕ𝕂-𝕀𝕊𝕄'𝕊 ✧✧ Pinned chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/chatgpt-export/babbitt-shooting-psyop-debate-2025-06-15.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - "raw/googlechat/the-j6-chat.md"
 synthesizes:
   - wiki/mind/concepts/dans-law
