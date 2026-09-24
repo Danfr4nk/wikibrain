@@ -6,8 +6,8 @@ date_created: 2026-08-01
 date_modified: 2026-09-17
 knowledge: mixed
 sources:
-  - "raw/self/concerts/table.csv"
-  - "raw/self/twitter/archive.jsonl"
+  - "raw/self/concerts/table.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/twitter/archive.jsonl"
   - "raw/old-wiki-export-2026-09-04/whole.txt"
 related:
   - wiki/interests/concert-record/index

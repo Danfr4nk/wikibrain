@@ -8,7 +8,7 @@ date_range_start: 2024-12-07
 date_range_end: 2026-07-20
 sources:
   - "raw/self/twitter (tweet 1865205866401567107, 2024-12-07)"
-  - "raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2026-07-20).html"
+  - "raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2026-07-20).html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [media-diet, youtube, commentary, political-commentary]
 connections:
   - page: wiki/self/youtube-watch-history

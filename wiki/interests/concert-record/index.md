@@ -5,8 +5,8 @@ status: stable
 date_created: 2026-08-01
 date_modified: 2026-09-04
 sources:
-  - "raw/self/concerts/table.csv"
-  - "raw/self/twitter/archive.jsonl"
+  - "raw/self/concerts/table.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/twitter/archive.jsonl"
 tags: [music-production, digital-footprint]
 connections:
   - page: wiki/self/twitter/2008
