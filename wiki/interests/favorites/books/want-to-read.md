@@ -6,7 +6,7 @@ knowledge: derived
 date_created: 2026-07-14
 date_modified: 2026-07-14
 sources:
-  - raw/self/dox-md/DAN_COMP.md
+  - raw/self/dox-md/DAN_COMP.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/interests/favorites/books
   - wiki/interests/favorites/books/topics/politics

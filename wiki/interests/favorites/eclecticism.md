@@ -6,7 +6,7 @@ status: stable
 date_created: 2026-06-22
 date_modified: 2026-09-01
 sources:
-  - raw/self/favorites/FAVS MASTERLIST.csv
+  - raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/interests/favorites/music
   - wiki/interests/favorites/books

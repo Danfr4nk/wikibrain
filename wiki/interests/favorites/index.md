@@ -4,7 +4,7 @@ page_type: index
 status: archived
 date_created: 2026-06-22
 date_modified: 2026-06-23
-sources: ["raw/self/favorites/FAVS MASTERLIST.csv"]
+sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/context-core", "wiki/self/overview", "wiki/interests/music/index", "wiki/self/favorites", "wiki/self/facebook", "wiki/interests/favorites/eclecticism", "wiki/interests/favorites/taste-profile", "wiki/mind/synthesis/totality-themes", "wiki/timeline/periods/2025-collapse"]
 ---
 

@@ -4,7 +4,7 @@ page_type: synthesis
 status: archived
 date_created: 2026-06-22
 date_modified: 2026-06-22
-sources: ["raw/self/favorites/FAVS MASTERLIST.csv"]
+sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 synthesizes:
   - wiki/interests/favorites/books
   - wiki/self/context-core
