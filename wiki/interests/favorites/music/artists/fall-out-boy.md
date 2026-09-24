@@ -5,12 +5,12 @@ status: active
 date_created: 2026-06-22
 date_modified: 2026-08-26
 sources:
-  - "raw/self/favorites/FAVS MASTERLIST.csv"
-  - "raw/self/dox-scan/Dan Profile.txt"
-  - "raw/self/dox-scan/all_imessages_complete_dump.txt"
-  - "raw/self/(failed-wiki-project)log-archive-2026-06-23.md"
-  - "raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html"
-  - "raw/self/concerts/table.csv"
+  - "raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/(failed-wiki-project)log-archive-2026-06-23.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/concerts/table.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 related:
   - wiki/interests/favorites/music
   - wiki/interests/favorites/music/artists/my-chemical-romance
