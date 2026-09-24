@@ -8,7 +8,7 @@ date_modified: 2026-07-20
 date_range_start: 2025-02-01
 date_range_end: 2025-04-27
 sources:
-  - raw/self/chatgpt-export/relationship-breakdown-summary-2025-04-27.md
+  - raw/self/chatgpt-export/relationship-breakdown-summary-2025-04-27.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [relationships, financial-stress, addiction-recovery, housing]
 connections:
   - page: wiki/timeline/periods/2025-collapse

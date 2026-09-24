@@ -8,13 +8,13 @@ date_modified: 2026-07-18
 date_range_start: 2021-01-01
 date_range_end: 2023-12-31
 sources:
-  - "raw/self/dox-md/Gemini-_02.md"
-  - "raw/self/dox-md/Gemini-_00.md"
-  - "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md"
-  - "raw/self/context-core/CONTEXT_CORE_EXPANDED.md"
-  - "raw/self/dox-scan/all_imessages_complete_dump.txt"
-  - "raw/self/location/2026-06-22-ingest/"
-  - "raw/self/gemini-activity/Gemini Activity.html"
+  - "raw/self/dox-md/Gemini-_02.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/Gemini-_00.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/location/2026-06-22-ingest/ — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md"
 tags: [nyc-era, career, ai-collaboration]
 connections:
   - page: wiki/mind/synthesis/the-embedded-objective

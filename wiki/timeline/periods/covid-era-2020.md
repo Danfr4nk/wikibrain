@@ -8,12 +8,12 @@ date_modified: 2026-09-17
 date_range_start: 2020-03-01
 date_range_end: 2021-03-01
 sources:
-  - raw/self/dox-scan/Dan Profile.txt
-  - raw/self/dox-md/Honest assessment and value judgment analysis.md
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
+  - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/Honest assessment and value judgment analysis.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/drive-sweep/20260911/takeout-index/google-data-export-index-20260623.html
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/dox-md/OMNI_FORENSIC_DOSSIER.md
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/OMNI_FORENSIC_DOSSIER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/old-wiki-export-2026-09-04/whole.txt
 related:
   - wiki/self/location-history

@@ -6,9 +6,9 @@ status: stable
 date_created: 2026-06-22
 date_modified: 2026-09-20
 sources:
-  - raw/self/dox-md/operating_manual.md
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - corpus/messages.csv
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - corpus/messages.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - corpus/derived/threads.csv
   - kb/data/0453-fastly-fsly-jerad-tip-held-corpus-verified.md
   - kb/data/0680-2020-2021-market-era-trades-verified.md
