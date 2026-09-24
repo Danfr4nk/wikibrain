@@ -8,25 +8,25 @@ status: active
 date_created: 2026-06-22
 date_modified: 2026-09-13
 sources:
-  - raw/self/gemini-activity/Gemini Activity.html
-  - raw/self/dox-md/Gemini_00.md
-  - raw/self/dox-md/Gemini_02.md
-  - raw/self/dox-md/Gemini_07.md
-  - raw/self/dox-md/Gemini_13.md
-  - raw/self/dox-md/Gemini_18.md
-  - raw/self/dox-md/Gemini_21.md
-  - raw/self/dox-md/Gemini_21 copy.md
-  - raw/self/chats/_✧✧ 𝔻𝔸𝔻𝔽𝔾𝔼𝔺𝔻-𝕋𝕀𝕊𝕄'𝕊 ✧✧ Pinned chat.md
-  - raw/self/chats/j6-chat.md
-  - raw/self/chats/Analyzing manipulation and ethical intent in data.md
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-md/Fake hacker dashboard scripts.md
-  - raw/self/dox-md/_Psychological Warfare and Social Engineering .md
-  - raw/self/concepts/TOTALITY_SYNTHESIS_2026-06-10.md
-  - "raw/self/dox-scan/HEART.pdf.txt"
-  - "raw/self/dox-md/Breaking the anxiety avoidance cycle.md"
-  - "raw/self/dox-md/Crisis mode briefing.md"
-  - "raw/self/dox-md/Creating robust video essays from scripts.md"
+  - raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md
+  - raw/self/dox-md/Gemini_00.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/Gemini_02.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-07.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-13.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-21.md
+  - raw/self/dox-md/Gemini_21 copy.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/chats/_✧✧ 𝔻𝔸𝔻𝔽𝔾𝔼𝔺𝔻-𝕋𝕀𝕊𝕄'𝕊 ✧✧ Pinned chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/j6-chat.md
+  - raw/self/chats/Analyzing manipulation and ethical intent in data.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/Fake hacker dashboard scripts.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/_Psychological Warfare and Social Engineering .md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/concepts/TOTALITY_SYNTHESIS_2026-06-10.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - "raw/self/dox-scan/HEART.pdf.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/Breaking the anxiety avoidance cycle.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/Crisis mode briefing.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/Creating robust video essays from scripts.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 synthesizes:
   - wiki/mind/concepts/exocortex
   - wiki/mind/synthesis/millennial-digital-witness

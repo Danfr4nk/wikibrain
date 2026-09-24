@@ -7,23 +7,23 @@ status: active
 date_created: 2026-06-22
 date_modified: 2026-08-28
 sources:
-  - raw/self/dox-md/Annie 10-Year Trauma Bond Aura Illness Forensic Report.md
-  - raw/self/dox-scan/DanAnnie_MasterRecord_FINAL.docx
-  - raw/self/dox-scan/DanAnnie_TenYears_WithAmendments.docx
-  - raw/self/dox-scan/DanAnnie_TheoryOfEverything_Updated.docx
-  - raw/self/dox-scan/DanAnnie_MoralAnalysis_SFW.docx
-  - raw/self/dox-md/Attachment and Trust Breakdown.md
-  - raw/self/dox-md/operating_manual.md
-  - raw/self/dox-md/FULL PROFILE 2026.md
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md
-  - raw/self/dox-md/LIFE REPORT.md
-  - raw/self/message-csv/annie_all_time_logs.csv
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/facebook/facebook-ihatedanfrank/messages/
-  - raw/self/dox-md/Gemini-_07.md
-  - raw/self/dox-md/Gemini-_18.md
-  - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md
+  - raw/self/dox-md/Annie 10-Year Trauma Bond Aura Illness Forensic Report.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_MasterRecord_FINAL.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_TenYears_WithAmendments.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_TheoryOfEverything_Updated.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_MoralAnalysis_SFW.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/Attachment and Trust Breakdown.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/LIFE REPORT.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/annie_all_time_logs.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/messages/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-07.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md
+  - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/people/annie-ulmer
   - wiki/people/rick-frank

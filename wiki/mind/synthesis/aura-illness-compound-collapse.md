@@ -7,8 +7,8 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
-  - src:wikitest-corpus-messages-csv
-  - src:aug-sep-2026-imessage-export
+  - src:wikitest-corpus-messages-csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:aug-sep-2026-imessage-export — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/work/bfs-foods.md
   - wiki/places/337-saratoga-drive.md

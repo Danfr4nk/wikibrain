@@ -8,18 +8,18 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
-  - src:imessage_3307038747_both_all_now.csv
-  - src:messenger-kristin-ui-capture-2025-09-01
-  - src:messenger-2026-09-12-pull
-  - src:MASTER_MESSAGES_DB_DUMP.csv
-  - src:imessage_ALL_both_2026-05-31_2026-06-02.csv
-  - src:imessage_export_2124702449_20260820.csv
-  - src:imessage_export_7248123683_20260820.csv
-  - src:all_imessages_complete_dump.txt
-  - src:dat-1452-aug-26-attempts
-  - src:dat-1453-sep-12-outbound
-  - src:dat-1454-operator-testimony
-  - src:raw/people/captures/2026-08-20_042255_gap-ally-lubin.md
+  - src:imessage_3307038747_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:messenger-kristin-ui-capture-2025-09-01 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:messenger-2026-09-12-pull — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:imessage_ALL_both_2026-05-31_2026-06-02.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:imessage_export_2124702449_20260820.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:imessage_export_7248123683_20260820.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:dat-1452-aug-26-attempts — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:dat-1453-sep-12-outbound — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:dat-1454-operator-testimony — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:raw/people/captures/2026-08-20_042255_gap-ally-lubin.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/mind/synthesis/kristin-channel
   - wiki/mind/synthesis/annie-ally-contrast
