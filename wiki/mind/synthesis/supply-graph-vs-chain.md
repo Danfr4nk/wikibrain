@@ -7,11 +7,11 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-19
 sources:
-  - src:corpus-authoritative-export
+  - src:corpus-authoritative-export — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:old-wiki-export-2026-09-04
   - src:facebook-export-2026-06-23
-  - src:twitter-archive
-  - src:intake-ledger-2026-08-30
+  - src:twitter-archive — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:intake-ledger-2026-08-30 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/mind/synthesis/supply-network
   - wiki/health/the-configured-body

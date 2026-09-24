@@ -15,7 +15,7 @@ sources:
   - raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv
   - raw/drive-sweep/20260911/gsheets/message-csv/MASTER_MESSAGES_DB_DUMP.from-gsheet.MASTER_MESSAGES_DB_DUMP.csv.csv
   - raw/drive-sweep/20260911/gsheets/message-csv/imessage_2124702449_both_all_now.from-gsheet.imessage_2124702449_both_all_now.csv.csv
-  - src:corpus__3.txt
+  - src:corpus__3.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/mind/synthesis/severance-declarations
   - wiki/mind/synthesis/block-unblock-loop

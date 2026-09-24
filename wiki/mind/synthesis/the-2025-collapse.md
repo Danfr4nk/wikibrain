@@ -9,13 +9,13 @@ date_modified: 2026-09-18
 date_range_start: 2025-01-09
 date_range_end: 2025-12-31
 sources:
-  - raw/self/chatgpt-export/relationship-breakdown-summary-2025-04-27.md
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/captures/2026-08-13_john-paci-staged-eviction-operator-decode.md
-  - raw/self/captures/2026-08-10_014938_307-76th-cast-roach-bombing.md
-  - raw/self/message-csv/annie_all_time_logs.csv
-  - src:playlist-forensics-2026-09-11
-  - src:corpus-agent-summaries-2026-09
+  - raw/self/chatgpt-export/relationship-breakdown-summary-2025-04-27.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-13_john-paci-staged-eviction-operator-decode.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-10_014938_307-76th-cast-roach-bombing.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/annie_all_time_logs.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:playlist-forensics-2026-09-11 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:corpus-agent-summaries-2026-09 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/timeline/periods/feb-apr-2025-return-and-rupture
   - wiki/timeline/periods/2025-collapse
