@@ -10,9 +10,9 @@ date_range_end: 2026-09-02
 title: "Twitter / X (@danfrank)"
 aliases: [danfrank, @danfrank]
 sources:
-  - "raw/self/twitter/archive.jsonl"
+  - "raw/twitter/archive.jsonl"
   - "raw/twitter/tweet-archive.csv"
-  - "raw/self/twitter/profile.txt"
+  - "raw/drive-sweep/20260911/twitter/profile-samples/profile.txt"
   - "raw/drive-sweep/20260911/twitter/profile-samples/tweets_sample_2019-2026.txt"
 tags: [digital-footprint, politics, music-production, ai-collaboration, ideology]
 connections:
