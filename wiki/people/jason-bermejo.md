@@ -8,10 +8,10 @@ date_modified: 2026-07-19
 date_range_start: 2017-01-20
 date_range_end: 2026-03-21
 sources:
-  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"
-  - "raw/self/message-csv/imessage_export_+18172693422_20260714055318.csv"
-  - "raw/self/message-csv/interspersed_messages.csv"
-  - "raw/self/captures/2026-07-19_operator-note-full-sail-mohler.md"
+  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/message-csv/imessage_export_+18172693422_20260714055318.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/message-csv/interspersed_messages.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/captures/2026-07-19_operator-note-full-sail-mohler.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [digital-footprint, music-production, addiction-recovery, relationships, uniontown-era]
 connections:
   - page: wiki/people/eric-jester

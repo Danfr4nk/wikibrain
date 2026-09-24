@@ -6,9 +6,9 @@ knowledge: mixed
 date_created: 2026-08-10
 date_modified: 2026-08-10
 sources:
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - "raw/self/facebook/facebook-ihatedanfrank/other_personal_information/your_address_books.html"
-  - raw/self/captures/2026-08-10_014938_307-76th-cast-roach-bombing.md
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - "raw/self/facebook/facebook-ihatedanfrank/other_personal_information/your_address_books.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - raw/self/captures/2026-08-10_014938_307-76th-cast-roach-bombing.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [nyc-era, housing]
 infobox:
   name: "James Blanchard"
