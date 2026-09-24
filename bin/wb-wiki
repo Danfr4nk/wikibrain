@@ -1196,6 +1196,7 @@ used to be.</p>
 <a class="dcard" href="archive/"><b>The Archive</b><br><span class="n">the 497-page wiki as it stood on September 4, 2026 &mdash; frozen, browsable, byte-for-byte</span></a>
 <a class="dcard" href="graph.json"><b>The Graph</b><br><span class="n">every node and edge of the knowledge graph as raw JSON</span></a>
 <a class="dcard" href="corpus.txt"><b>The Corpus</b><br><span class="n">the entire wiki as one plaintext file, for whoever wants a single URL</span></a>
+<a class="dcard" href="wiki/meta/source-materials.html"><b>The Source Materials</b><br><span class="n">the complete, exact inventory of every dataset feeding the wiki — the advertisement for the unfamiliar</span></a>
 </div>
 <h2 class="sec">Newest articles</h2>
 <div class="newlist">{new_items}</div>
