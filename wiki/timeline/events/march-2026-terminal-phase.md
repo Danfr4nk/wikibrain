@@ -9,12 +9,12 @@ date_modified: 2026-07-20
 date_range_start: 2026-03-01
 date_range_end: 2026-03-16
 sources:
-  - raw/self/dox-scan/DanAnnie_CompleteRecord_Final.docx
-  - raw/self/dox-scan/DanAnnie_CompleteAnalysis_Final.docx
-  - raw/self/dox-scan/DanAnnie_MasterRecord_FINAL.docx
-  - raw/self/dox-scan/DanAnnie_TenYears_WithAmendments.docx
-  - raw/self/dox-scan/DanAnnie_TheoryOfEverything_Updated.docx
-  - raw/self/message-csv/imessage_2124702449_both_all_now.csv
+  - raw/self/dox-scan/DanAnnie_CompleteRecord_Final.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_CompleteAnalysis_Final.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_MasterRecord_FINAL.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_TenYears_WithAmendments.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_TheoryOfEverything_Updated.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_2124702449_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/people/annie-ulmer
   - wiki/timeline/events/eli-incident

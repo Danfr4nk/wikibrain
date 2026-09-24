@@ -10,10 +10,10 @@ date_created: 2026-08-02
 date_modified: 2026-08-02
 date_range: ["2018-03-07", "2018-03-08"]
 sources:
-  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md
-  - raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - "raw/self/dox-md/_Photo Thread PT II_ Grand Finale Calibration .md"
+  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - "raw/self/dox-md/_Photo Thread PT II_ Grand Finale Calibration .md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [grief, relationships, family, uniontown-era]
 connections:
   - page: wiki/people/suzanne-frank

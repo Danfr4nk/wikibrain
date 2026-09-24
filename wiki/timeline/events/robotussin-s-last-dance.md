@@ -10,8 +10,8 @@ date_modified: 2026-08-17
 date_range_start: 2005-06-15
 date_range_end: 2005-06-15
 sources:
-  - raw/timeline/captures/2026-08-16_185413_gap-robotussin-s-last-dance.md
-  - "raw/self/captures/2026-08-09_143916_robotussin-s-last-dance.md"
+  - raw/timeline/captures/2026-08-16_185413_gap-robotussin-s-last-dance.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - "raw/self/captures/2026-08-09_143916_robotussin-s-last-dance.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [uniontown-era, addiction-recovery]
 infobox:
   name: "Robotussin's Last Dance"

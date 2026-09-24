@@ -11,8 +11,8 @@ date_modified: 2026-09-24
 date_range: ["2005-11-01", "2005-11-30"]
 tags: [family, uniontown-era, trauma, divorce, hinge-event]
 sources:
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - corpus-extract/agent-D-mind-health-timeline.md
   - corpus-extract/agent-A-identity-self.md
   - corpus/user/files/corpus__3.txt (lines 6540-6570, 6845-6870, 6990-7010)

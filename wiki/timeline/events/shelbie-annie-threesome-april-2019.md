@@ -6,7 +6,7 @@ date_created: 2026-07-14
 date_modified: 2026-08-16
 date_range_start: 2019-04-14
 date_range_end: 2019-04-17
-sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv", "raw/self/dox-scan/all_imessages_complete_dump.txt", "raw/timeline/captures/2026-08-16_145552_gap-shelbie-annie-threesome-april-2019.md"]
+sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/timeline/captures/2026-08-16_145552_gap-shelbie-annie-threesome-april-2019.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/people/annie-ulmer", "wiki/people/shelbie-breakiron", "wiki/timeline/periods/2018-deep-cycle"]
 tags: [relationships]
 knowledge: earned
