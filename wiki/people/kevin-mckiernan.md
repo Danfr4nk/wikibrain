@@ -13,7 +13,7 @@ sources:
   - raw/self/dox-scan/Resume.txt
   - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md
   - raw/self/dox-md/THE_DAN_FRANK_MANUAL.md
-  - raw/self/gmail-captures/2026-08-10-creative-license-kevin-mckiernan-gmail.md
+  - raw/gmail/2026-08-10-creative-license-kevin-mckiernan-gmail.md
   - raw/self/dox-scan/Gemini-_58.txt
 tags: [nyc-era, career, digital-footprint, legal]
 infobox:

@@ -86,7 +86,7 @@ sources:
   - raw/self/message-csv/imessage_7244346811+2124702449_both_all_now.csv
   - raw/self/message-csv/annie_all_time_logs.csv
   - raw/self/message-csv/THE END FIGHT.csv
-  - raw/self/message-csv/imessage_export_7248123683_20260624.csv
+  - raw/drive-sweep/20260911/imessage/imessage_export_7248123683_20260624.csv
   - raw/self/facebook/facebook-ihatedanfrank/
   - raw/self/gemini-activity/Gemini Activity.html
   - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md
