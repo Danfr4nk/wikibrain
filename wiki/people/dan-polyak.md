@@ -9,7 +9,7 @@ date_modified: 2026-09-03
 date_range_start: 2013-06-16
 date_range_end: 2020-02-06
 sources:
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/danpolyak_a1u7tpseha/message_1.html"
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/danpolyak_a1u7tpseha/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [uniontown-era, nyc-era, relationships, digital-footprint]
 infobox:
   name: "Dan Polyak"

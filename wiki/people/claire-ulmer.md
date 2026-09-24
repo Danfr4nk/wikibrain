@@ -6,8 +6,8 @@ status: active
 date_created: 2026-07-14
 date_modified: 2026-09-22
 sources:
-  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md
-  - raw/self/dox-md/Honest assessment and value judgment analysis.md
+  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/Honest assessment and value judgment analysis.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/people/annie-ulmer
   - wiki/people/milo
