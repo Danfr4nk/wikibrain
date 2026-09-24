@@ -8,8 +8,8 @@ date_modified: 2026-09-18
 date_range_start: 2018-11-03
 date_range_end: 2018-12-11
 sources:
-  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"
-  - "raw/self/dox-md/_Freeskiing's Early 2000s Cultural Revolution .md"
+  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/_Freeskiing's Early 2000s Cultural Revolution .md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 related:
   - wiki/people/annie-ulmer
   - wiki/people/alexis-armel
