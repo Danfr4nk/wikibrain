@@ -8,11 +8,11 @@ date_modified: 2026-09-17
 date_range_start: 2011-10-16
 date_range_end: 2021-10-01
 sources:
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/zachariahharshman_dgkcd6awma/message_1.html"
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/zachariahharshman_dgkcd6awma/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/messenger-drive-2026-09-12/threads.json"
   - "raw/messenger-drive-2026-09-12/MANIFEST.json"
   - "raw/facebook-threads/MANIFEST.json"
-  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"
+  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 related:
   - wiki/people/alexis-armel
   - wiki/people/annie-ulmer
