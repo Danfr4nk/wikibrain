@@ -8,17 +8,17 @@ date_modified: 2026-09-20
 knowledge: mixed
 sources:
   - src:kristin-basement-security-cam-20250919
-  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md
-  - raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/captures/2026-07-19_operator-note-oct2019-mmf-video.md
+  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-07-19_operator-note-oct2019-mmf-video.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/drive-sweep/20260911/imessage/imessage_export_7248123683_20260624.csv
-  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/jennlynn_dhrmxxpvhq/message_1.html
-  - raw/self/dox-md/OMNI_FORENSIC_DOSSIER.md
-  - raw/self/audio/2026-08-16_Morgantown_St_call-recording.m4a
-  - raw/self/analysis/2026-08-18_forensic-analysis-morgantown-call.md
-  - raw/self/message-csv/imessage_export_2124702449_20260820.csv
+  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/jennlynn_dhrmxxpvhq/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/OMNI_FORENSIC_DOSSIER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/audio/2026-08-16_Morgantown_St_call-recording.m4a — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/analysis/2026-08-18_forensic-analysis-morgantown-call.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_export_2124702449_20260820.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [relationships, digital-footprint]
 connections:
   - page: wiki/mind/synthesis/august-grievance-verdict

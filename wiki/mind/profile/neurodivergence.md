@@ -7,12 +7,12 @@ status: active
 date_created: 2026-08-26
 date_modified: 2026-09-15
 sources:
-  - raw/self/dox-md/operating_manual.md
-  - raw/self/dox-md/THE_DAN_FRANK_MANUAL.md
-  - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md
-  - raw/self/dox-md/Breaking the anxiety avoidance cycle.md
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/mind/captures/2026-07-12_152457_add-individual-entry-for-personality-pro.md
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/THE_DAN_FRANK_MANUAL.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/Breaking the anxiety avoidance cycle.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/mind/captures/2026-07-12_152457_add-individual-entry-for-personality-pro.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [personality-profile, mental-health]
 knowledge: mixed
 connections:

@@ -7,11 +7,11 @@ date_created: 2026-07-14
 date_modified: 2026-09-18
 knowledge: mixed
 sources:
-  - raw/self/dox-scan/Dan Profile.txt
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/captures/2026-08-01_154050_bald-eagle-cummings.md
-  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md
-  - raw/self/dox-md/FULL PROFILE 2026.md
+  - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-01_154050_bald-eagle-cummings.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [relationships, attachment, family, trauma-bond, personality-profile, forensic-analysis]
 connections:
   - page: wiki/timeline/events/bald-eagle-cummings

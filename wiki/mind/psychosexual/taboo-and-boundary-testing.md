@@ -7,9 +7,9 @@ date_created: 2026-07-14
 date_modified: 2026-09-11
 knowledge: mixed
 sources:
-  - raw/self/dox-scan/Dan Profile.txt
-  - raw/self/dansynth/DANSYNTH.txt
-  - raw/self/captures/2026-07-19_operator-note-oct2019-mmf-video.md
+  - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-07-19_operator-note-oct2019-mmf-video.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [relationships, personality-profile]
 connections:
   - page: wiki/people/bryan-5088682461

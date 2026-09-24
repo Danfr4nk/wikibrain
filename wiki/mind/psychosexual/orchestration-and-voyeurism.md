@@ -7,9 +7,9 @@ date_created: 2026-07-14
 date_modified: 2026-09-11
 knowledge: mixed
 sources:
-  - raw/self/dox-scan/Dan Profile.txt
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/dansynth/DANSYNTH.txt
+  - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/mind/psychosexual/index
   - wiki/mind/psychosexual/arrangement-history
