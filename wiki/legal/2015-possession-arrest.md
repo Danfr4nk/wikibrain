@@ -11,11 +11,11 @@ date_modified: 2026-09-03
 date_range_start: 2015-02-17
 date_range_end: 2016-02-17
 sources:
-  - raw/legal/documents/2015-02_fayette-court-blotter-possession-charges.md
-  - raw/legal/captures/2026-08-02_200741_the-arrest-the-real-one.md
-  - raw/people/captures/2026-08-27_223406_gap-alexis-armel.md
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/message-csv/imessage_ALL_both_all_now.csv
+  - raw/legal/documents/2015-02_fayette-court-blotter-possession-charges.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/legal/captures/2026-08-02_200741_the-arrest-the-real-one.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-27_223406_gap-alexis-armel.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_ALL_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [legal, addiction-recovery, family, uniontown-era]
 connections:
   - page: wiki/health/cocaine

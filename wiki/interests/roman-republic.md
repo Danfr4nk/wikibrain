@@ -5,8 +5,8 @@ status: stable
 date_created: 2026-07-16
 date_modified: 2026-08-19
 sources:
-  - "raw/self/favorites/FAVS MASTERLIST.csv"
-  - "raw/self/dox-scan/all_imessages_complete_dump.txt"
+  - "raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [personality-profile, ideology]
 connections:
   - page: wiki/work/tech/ai-video-essays

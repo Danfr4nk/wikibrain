@@ -9,11 +9,11 @@ importance: normal
 date_created: 2026-07-13
 date_modified: 2026-09-21
 sources:
-  - raw/legal/captures/2026-08-02_200741_the-arrest-the-real-one.md
-  - raw/mind/captures/2026-08-02_122411_perspective-complete-objective.md
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/message-csv/imessage_ALL_both_all_now.csv
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/christocoan_2cxo0swo3g/message_1.html"
+  - raw/legal/captures/2026-08-02_200741_the-arrest-the-real-one.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/mind/captures/2026-08-02_122411_perspective-complete-objective.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_ALL_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/christocoan_2cxo0swo3g/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - corpus/manifest.json
   - corpus/derived/summary.json
   - corpus/derived/threads.csv

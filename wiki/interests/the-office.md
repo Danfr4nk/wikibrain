@@ -5,11 +5,11 @@ status: active
 date_created: 2026-07-16
 date_modified: 2026-09-04
 sources:
-  - "raw/self/twitter/archive.jsonl"
-  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"
-  - "raw/self/dox-scan/FULL TWITTER ANALYSIS.txt"
-  - "raw/self/dox-scan/all_imessages_complete_dump.txt"
-  - "raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html"
+  - "raw/twitter/archive.jsonl"
+  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/FULL TWITTER ANALYSIS.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [personality-profile, digital-footprint, nyc-era]
 connections:
   - page: wiki/interests/favorites/music/artists/fall-out-boy

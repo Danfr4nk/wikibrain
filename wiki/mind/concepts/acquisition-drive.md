@@ -9,10 +9,10 @@ knowledge: earned
 date_created: 2026-08-02
 date_modified: 2026-09-13
 sources:
-  - raw/mind/captures/2026-08-02_122411_perspective-complete-objective.md
-  - raw/legal/captures/2026-08-02_200741_the-arrest-the-real-one.md
-  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
+  - raw/mind/captures/2026-08-02_122411_perspective-complete-objective.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/legal/captures/2026-08-02_200741_the-arrest-the-real-one.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [personality-profile, addiction-recovery, legal, forensic-analysis]
 connections:
   - page: wiki/mind/concepts/the-endpoint-requirement
