@@ -8,8 +8,8 @@ date_modified: 2026-07-19
 date_range_start: 2017-01-20
 date_range_end: 2018-01-31
 sources:
-  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"
-  - "raw/self/dox-scan/all_imessages_complete_dump.txt"
+  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [uniontown-era, addiction-recovery, digital-footprint]
 infobox:
   name: "Steve Kezmarsky"
