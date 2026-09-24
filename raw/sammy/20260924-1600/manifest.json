@@ -1,0 +1,31 @@
+{
+  "batch": "20260924-1600",
+  "pulled_at": "2026-09-24T20:26:30.481+00:00",
+  "window": {
+    "from": "2026-09-24T19:41:13.08+00:00",
+    "to": "2026-09-24T20:10:48.222+00:00"
+  },
+  "counts": {
+    "total_rows": 75,
+    "system_excluded": 73,
+    "archived": 75,
+    "user": 31,
+    "assistant": 44
+  },
+  "source": "runtime.messages",
+  "exclusions": [
+    "system rows excluded (73 in wider pull window)",
+    "CUMTHREAD3 Lovense-thread carve-out: not applicable to this window"
+  ],
+  "secrets_scan": {
+    "patterns": [
+      "telegram-bot",
+      "ghp_",
+      "sk-",
+      "stripe"
+    ],
+    "hits": 0
+  },
+  "phone_like_rows": 1,
+  "phone_like_note": "Real number: Annie Ulmer's number appears in assistant draft at 2026-09-24T20:06:08.757Z (draft shown before send). Kept byte-exact in raw/ per radical-transparency rule; masked in kb/wiki."
+}

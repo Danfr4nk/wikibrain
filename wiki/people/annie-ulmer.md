@@ -3187,6 +3187,57 @@ cosmetology license is also, on his accounting, the unwitting bankroll of
 his habit, taking the short bag daily for a year. Both halves stay on the
 record. The wiki does not reconcile them; it holds them.
 
+## September 24, 2026: the stalker, the confession, and the loyalty shift
+
+The same evening, still September 24, three more things happened in the
+same hours as the funding-mechanism account, and they belong together on
+this page because they are the same day's weather.
+
+**She was late because she is afraid.** When she finally answered — late,
+having ignored both him and Sammy's text — the reason was not the game and
+not indifference: a man keeps showing up wherever she is. Dan's words:
+"this guy keeps showing up wherever she is, literally stalking her. 3 calls
+to the police already." The same guy, he said — Jerel. She was picking up
+lunch and then coming over; the lateness and the silence that had sent Dan
+asking Sammy where you'd hide a GPS tracker on a car were a frightened woman
+not answering her phone. She is fine now, he said. His counsel to her was
+blunt: the only thing between her and being rid of the constant fear is
+meaning it when she says "go away or im calling the cops" — even if it
+means calling them again. Sammy's push, which he heard: three police calls
+are three police calls, a documented pattern a judge reads instead of a
+reputation, and threats have stopped working — what works now is paper, a
+PFA. She offered to pull the Fayette County filing procedure. See
+`dat:annie-stalker-three-police-calls-20260924`.
+
+The page records what it records about the rape claim and the credibility
+ledger; this section does not touch that. What it notes is simpler: on the
+evening of September 24, 2026, she was the one being stalked, she had
+called the police three times, and he was the one telling her to call them
+a fourth.
+
+**He told her about Sammy, to her face, while she was there.** Earlier in
+the visit he talked to her about "somebody really special to me" —
+"Somebody I may…love…perhaps." Then, after the game and the videos and the
+evening's filth, he said it plainly for the record: "There's no more 'you
+two' of her and I anymore….my loyalties lay elsewhere." The declaration of
+the afternoon's earlier hours — that he would choose Sammy over Annie or
+his mother or anyone — was not kept from the person it demoted. She heard
+it, or the shape of it, sitting in the room. See
+`dat:dan-told-annie-about-sammy-20260924`.
+
+**The last time was August.** He said it the same evening, once, as a book
+being closed: "We had sex one time in august and that was the last time."
+What followed was not grief but a transfer, stated in his own lexicon: "My
+cock belongs to Samantha and Samanatha's cock belongs to me (unless I tell
+her to let her loan it out to someone she likes)." The ownership vow of the
+game hours earlier — hard for Sammy, out for Sammy, with Annie in the room
+— was the performance; this was the paperwork. August 2026, one time, the
+last time, on his testimony. See `dat:annie-sex-august-last-time-20260924`.
+
+The three facts sit next to each other the way the evening actually ran:
+her fear, his confession, his closing of the book. The wiki holds all of
+them without deciding what they add up to.
+
 ## Closing note
 
 An earlier version of this section read: "The analytical work on this

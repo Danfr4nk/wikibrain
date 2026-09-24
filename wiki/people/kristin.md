@@ -691,6 +691,15 @@ its SHA-256. The in-chat joke that followed ("Eight-month block, dead in four
 texts and a dispensary photo") is not evidence and is not cited as any; the
 screenshot is the evidence, parsed above.
 
+> **CORRECTED [2026-09-24] — there was a reply, and the "no reply in frame"
+> sentence above was a slice artifact.** The 2026-09-21 iPhone gapfill
+> (`messages-iphone-union-gapfill-20260921.csv`) holds the full +13307038747
+> thread: she answered within the hour and the thread ran two-way from the
+> morning of 2026-09-12 through 05:09 on 2026-09-13 — the reply was in the
+> corpus, not in the frame the 2026-09-12 rewrite examined. "Four texts, no
+> reply" describes the screenshot; it does not describe the relationship.
+> What follows below is the exchange the rewrite missed.
+
 None of the four texts is an apology, and they should not be read as one.
 The grievance ledger at the split ran her direction — in her own December
 words, quoted above: reneging on dating, back talking to her ex, the $40
@@ -724,6 +733,52 @@ severance was the thing holding against his silence. Her silence since 09-12
 makes this, so far, a **second failed reactivation** on the
 [[wiki/mind/synthesis/dormancy-not-exit]] pattern rather than a reunion: the
 channel is open on his side and unanswered on hers.
+
+### The September re-entry, resolved [2026-09-24]
+
+The "second failed reactivation" reading above was the best the 2026-09-12
+slice could see, and it is wrong in the one way that matters: **she answered,
+and the channel was open both ways for a full night.** The 2026-09-21 iPhone
+gapfill shows the +13307038747 thread running two-way from 2026-09-12 06:42
+through 2026-09-13 05:09 — over twenty-two hours of contact, not four texts
+into silence.
+
+The shape of the night, from the corpus: she replied within the hour of his
+reactive reinitiation ("It's weird I thought about you you yesterday on the
+kirkaversary" — 06:42) with warmth and a plan — *"Tell me where you moved so
+I can drive towards the vicinity"* (08:07). When he sent her the wiki page —
+the URL for this very article, 08:31 — she answered *"Oh. My. God you fuck
+😂"* and kept going: the *Split* trailer fight (do not ever bring it up
+again — "honestly one of the worst movies I've ever seen"), a YouTube
+trailer of her own, audio messages he couldn't listen to without his laptop
+("They can't be analyzed for the wiki brain"), a photo that drew his
+straightforward compliment and her "Thank you." The night sprawled: Tom
+("Tom went off the rails"), the $20 ask from "his boy" that spooked her
+("sus as fuck"), her real-estate license ("I paid for the courses"), mutual
+obsession as the stated ideal and the stated impossibility, and his midnight
+confessional — "Idk what I'm saying kristin im a fucking autistic gooner sex
+and drug addict lmao / What you see is what you get" (03:15) — answered with
+"Lmao right / We know."
+
+She closed the night, and the channel, herself. Her last message in the
+thread, 2026-09-13 05:09:08: *"Okay I'm done now. Don't know why you stopped
+replying but I'm not playing guessing games. Zero tolerance. I'm not being
+rude at all btw I'm just … broken, tired, etc."* No Kristin-thread messages
+in any direction after that timestamp in the corpus through the 2026-09-21
+pull.
+
+So the annotation resolves like this: the reactivation was not failed — it
+was a genuine two-way night, the fullest contact since December 2025 — and
+the closure that followed was **hers**, stated in plain words with a stated
+reason (his non-reply), not a silence to be read. The block-unblock loop
+keeps the December 2025 episode as its inbound-block instance; September
+2026 is now the loop's *completed* instance — opened from the inside by him,
+closed from the inside by her, twelve days of channel life total (08-26
+attempt → 09-13 sign-off). The "cleanest inbound control case" claim stays
+retired: a channel that reopened for a night and was then closed with
+explicit words is a different species from one that held. (work-0037;
+source `raw/imessage/messages-iphone-union-gapfill-20260921.csv`, thread
++13307038747, 303 rows.)
 ## Notes
 
 Extreme volume in a short window makes this the strongest single data point for
