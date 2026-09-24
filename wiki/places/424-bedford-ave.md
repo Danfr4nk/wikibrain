@@ -9,9 +9,9 @@ date_modified: 2026-09-03
 date_range_start: 2010-04-01
 date_range_end: 2013-05-01
 sources:
-  - "raw/self/dox-scan/Gemini-_58.txt"
-  - "raw/self/context-core/CONTEXT_CORE_EXPANDED.md"
-  - "raw/self/dox-md/Gemini-_18.md"
+  - "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-58.md"
+  - "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md"
 tags: [nyc-era, music-production, relationships]
 connections:
   - page: wiki/mind/synthesis/dormancy-not-exit

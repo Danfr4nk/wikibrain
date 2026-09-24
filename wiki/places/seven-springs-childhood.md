@@ -11,11 +11,11 @@ date_modified: 2026-09-24
 date_range: ["1988-11-01", "2005-11-01"]
 tags: [uniontown-era, childhood, identity-formation, family, extreme-sports]
 sources:
-  - raw/self/captures/2026-08-09_122727_extreme-sports.md
-  - raw/self/captures/2026-08-01_154050_bald-eagle-cummings.md
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md
-  - raw/self/captures/2026-07-11_013210_the-house-at-337-saratoga-drive-uniontow.md
+  - raw/self/captures/2026-08-09_122727_extreme-sports.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-01_154050_bald-eagle-cummings.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-07-11_013210_the-house-at-337-saratoga-drive-uniontow.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 connections:
   - page: wiki/places/seven-springs
     type: component-of

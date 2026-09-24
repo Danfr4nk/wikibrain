@@ -9,8 +9,8 @@ date_modified: 2026-09-22
 date_range_start: 2012-03-01
 date_range_end: 2013-04-01
 sources:
-  - "raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md"
-  - "raw/self/context-core/CONTEXT_CORE_EXPANDED.md"
+  - "raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - raw/gmail/2026-08-10-creative-license-kevin-mckiernan-gmail.md
   - raw/twitter/archive.jsonl
   - raw/imessage/messages-part1-2011-2019.csv
