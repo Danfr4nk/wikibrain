@@ -26,9 +26,6 @@ connections:
   - page: wiki/work/nemacolin-caddie-years
     type: follows
     claim: "The physical life continues after the fall: the ski identity's trained body and sport-as-world instinct reappear a decade later in the 2016–2019 golf era, an adult acquisition reignited by the Nemacolin caddying job."
-  - page: wiki/work/duquesne-university
-    type: precedes
-    claim: "The brief Duquesne interval (2006–2007) belongs to the post-fall education arc — what schooling looked like after the rupture, before Full Sail replaced the classroom with the studio."
   - page: wiki/work/full-sail-2008-2009
     type: precedes
     claim: "Full Sail is the post-fall institution: the obsessive energy that once went into terrain parks redirected into production at the same intensity."
@@ -117,7 +114,7 @@ First: the substance was already in the house and on the mountain before the rup
 
 Second: the vertical-distrust template has a childhood origin that predates the rupture. The Tan Calabrese/Angelfire incident — the public confrontation, the humiliation, *"i got absolutely bodied"* — is the clearest instance of a childhood pattern of public humiliation over unpredictable "moral" infractions, and the audit treats it as "at least as load-bearing" a candidate origin for the vertical-skepticism architecture as the 2005 hinge. Dan's own testimony about the rupture (the four axioms, the learner's-permit-drive disclosure) is marked testimony-grade throughout the audit — worth 0.25 by the ledger's own veracity rules — while the Angelfire incident is a documented pattern with a named witness and a recovered friendship. The pre-fall baseline, honestly rendered, includes a father who publicly humiliated his son over a website and a household where cocaine was a known concept by the time the kid was thirteen. The fall had a before, but the before was already cracked.
 
-What the rupture actually took, on the record, is specific. It took the two-parent logistical operation — the family that could fund and organize the ski years. It took the marriage, ended in divorce. It took, within a few years, the arc of the adolescence itself: the ski identity attenuates across 2005–2006, the teen concert years (2005–2008) fill some of the space, Duquesne gets a brief interval in 2006–2007, and then Full Sail in 2008 redirects the obsessive architecture into production. Danielle, his first documented girlfriend — begun in 2004, while he was at Laurel Highlands and she at Uniontown High — is the hinge's continuous civilian witness: present before, during, and after the rupture, still in the picture two decades on. The rupture did not take her. It took the version of the family that the ski years ran on.
+What the rupture actually took, on the record, is specific. It took the two-parent logistical operation — the family that could fund and organize the ski years. It took the marriage, ended in divorce. It took, within a few years, the arc of the adolescence itself: the ski identity attenuates across 2005–2006, the teen concert years (2005–2008) fill some of the space, a few semesters at Penn State Fayette's Eberly campus cover the post-rupture schooling (operator testimony, 2026-09-24 — the earlier Duquesne claim was retracted the same night), and then Full Sail in 2008 redirects the obsessive architecture into production. Danielle, his first documented girlfriend — begun in 2004, while he was at Laurel Highlands and she at Uniontown High — is the hinge's continuous civilian witness: present before, during, and after the rupture, still in the picture two decades on. The rupture did not take her. It took the version of the family that the ski years ran on.
 
 ## What the ski years predicted
 

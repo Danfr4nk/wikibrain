@@ -42,9 +42,6 @@ connections:
   - page: wiki/places/seven-springs-childhood
     type: precedes
     claim: "The childhood ski identity is the sport-layer precedent — a body trained on a mountain before it carried bags across one."
-  - page: wiki/work/duquesne-university
-    type: co-occurs
-    claim: "The caddie years belong to the same Uniontown-return era as the Duquesne-period work — the window between the first NYC stint and the 2019 second move."
   - page: wiki/timeline/events/november-2005-rupture
     type: caused-by
     claim: "The 2005 rupture's downstream includes the Uniontown returns — each one a retreat to the family's terrain, and the caddie years the most sustained of the returns' working lives."
@@ -88,8 +85,7 @@ because it is the measure of what the job was beyond the paycheck.
 By the time Dan applied, he had been back in Uniontown for years — the
 first NYC era ([[wiki/timeline/periods/nyc-first-era-2010-2013|2010–2013]],
 per the wiki's current periodization) already behind him, with a second NYC
-stint in between (the [[wiki/work/duquesne-university|Uniontown-return era]]
-frames the whole window). The long-ago cause of the returns traces back to
+stint in between. The long-ago cause of the returns traces back to
 [[wiki/timeline/events/november-2005-rupture|November 2005]], the hinge that
 sent the biography reeling back toward Uniontown whenever the city chapters
 closed. He was 27 at the hire, turning 28 that November — the age at which
