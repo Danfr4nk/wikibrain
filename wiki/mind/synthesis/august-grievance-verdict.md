@@ -9,6 +9,7 @@ importance: critical
 date_created: 2026-08-20
 date_modified: 2026-08-28
 # operator answers from 2026-08-20 have been integrated below
+---
 
 > **RE-CHECKED [2026-08-22] — premise moved by a re-check block only, at**
 > **third remove.** [[wiki/mind/synthesis/attachment-trauma-bond]] moved on 2026-08-22 solely by

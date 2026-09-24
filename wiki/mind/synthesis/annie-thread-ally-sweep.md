@@ -7,7 +7,7 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-21
 sources:
-  - src:imessage-corpus-raw-imessage-20260908 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:rawlogs-imessage-20260908
   - src:aug-sep-2026-imessage-export-20260912 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:ally-name-sweep-annie-thread-20260913 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:

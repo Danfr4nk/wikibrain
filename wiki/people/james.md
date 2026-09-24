@@ -9,7 +9,7 @@ date_range_start: 2025-05-27
 date_range_end: present
 sources:
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
-  - *raw/self/message-csv/imessage_*_2025 slices
+  - "*raw/self/message-csv/imessage_*_2025 slices"
   - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-21.md
   - raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md

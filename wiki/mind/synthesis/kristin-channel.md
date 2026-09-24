@@ -10,10 +10,10 @@ date_modified: 2026-09-20
 sources:
   - src:imessage_3307038747_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:messenger-kristin-ui-capture-2025-09-01 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
-  - src:messenger-2026-09-12-pull — ⚠ Source reference unresolved — original target no longer exists in current corpus.
-  - src:dat-1452-aug-26-attempts — ⚠ Source reference unresolved — original target no longer exists in current corpus.
-  - src:dat-1453-sep-12-outbound — ⚠ Source reference unresolved — original target no longer exists in current corpus.
-  - src:dat-1454-operator-testimony — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:messenger-2026-09-12
+  - dat:1452-kristin-aug26-messenger-inbound
+  - dat:1453-dan-texts-kristin-block-broken
+  - dat:1454-dan-kristin-sep12-corrections
   - src:scratchpad-2026-09-12-kristin-contradiction — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:kristin-basement-security-cam-20250919
 synthesizes:

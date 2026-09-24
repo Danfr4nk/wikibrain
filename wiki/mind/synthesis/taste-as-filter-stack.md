@@ -7,8 +7,8 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
-  - src:playlist-forensics-2026-09-11 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
-  - src:exportify-haul-2026-09-11 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:playlist-analysis-2026-09-11
+  - src:exportify-csvs-2026-09-11
   - src:operator-digging-workflow-2026-09-12 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:operator-ascent-ladder-2026-09-12 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:operator-lyric-qualifier-2026-07-14 — ⚠ Source reference unresolved — original target no longer exists in current corpus.

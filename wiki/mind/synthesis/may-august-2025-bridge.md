@@ -11,7 +11,7 @@ date_range_start: 2025-05-01
 date_range_end: 2025-08-31
 sources:
   - src:imessage-corpus-2026
-  - src:dat-0028-prescriber-quotes-partly-unverifiable — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - dat:0028-prescriber-quotes-partly-unverifiable
   - src:corpus-agent-summaries-2026-09 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:imessage_7243228715_both_2025-06-03_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/chatgpt-export/escort-messages-chatgpt-export-2025-08.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.

@@ -133,7 +133,7 @@ connections:
     claim: "Every housing provider across sixteen years and seven addresses — mother, maternal grandmother, a live-in partner, a great-grandmother — is a lateral by this page's own definition, never a vertical, which is what scopes Trust 9's corpus-confirmed low-trust default away from housing entirely: laterals get the trusted-now, audited-later default this page already documents, and none of these seven relationships was ever audited while it held."
   - page: wiki/self/twitter/2011
     type: evidenced-by
-    claim: '2011 is the disposition without any economic content: eight political posts across the year, every one aimed at a vertical, none redistributive. The Troy Davis posts argue the procedural case rather than the innocence case — "I have no idea whether Troy Davis was guilty or not, but he deserved the chance to live another day" — which is an objection to an authority\'s claim to certainty rather than to its verdict.'
+    claim: '2011 is the disposition without any economic content: eight political posts across the year, every one aimed at a vertical, none redistributive. The Troy Davis posts argue the procedural case rather than the innocence case — "I have no idea whether Troy Davis was guilty or not, but he deserved the chance to live another day" — which is an objection to an authority''s claim to certainty rather than to its verdict.'
   - page: wiki/self/twitter/2013
     type: evidenced-by
     claim: "During the Boston Marathon bombing — the decade's most conspiracy-productive American event — he mocks the conspiracy layer rather than working it, and separately refuses veteran status as a warrant: 'Being a vet does NOT make your racism ok nor does it make you automatically correct.'"

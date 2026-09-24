@@ -13,7 +13,7 @@ sources:
   - kb/data/0090-block-retraction-2026-09-11.md
   - raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv
   - src:imessage_3307038747_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
-  - src:messenger-2026-09-12-pull — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:messenger-2026-09-12
 synthesizes:
   - wiki/mind/synthesis/severance-declarations
   - wiki/mind/synthesis/kristin-channel

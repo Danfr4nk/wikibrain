@@ -13,7 +13,7 @@ sources:
   - "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
-  - *"raw/self/message-csv/*"
+  - '"raw/self/message-csv/*"'
   - "raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/self/dox-md/LIFE REPORT.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md"

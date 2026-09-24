@@ -14,7 +14,7 @@ sources:
   - raw/self/captures/2026-08-13_john-paci-staged-eviction-operator-decode.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/captures/2026-08-10_014938_307-76th-cast-roach-bombing.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/message-csv/annie_all_time_logs.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
-  - src:playlist-forensics-2026-09-11 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:playlist-analysis-2026-09-11
   - src:corpus-agent-summaries-2026-09 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/timeline/periods/feb-apr-2025-return-and-rupture

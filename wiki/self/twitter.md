@@ -8,7 +8,7 @@ knowledge: mixed
 date_range_start: 2009-10-20
 date_range_end: 2026-09-02
 title: "Twitter / X (@danfrank)"
-aliases: [danfrank, @danfrank]
+aliases: [danfrank, "@danfrank"]
 sources:
   - "raw/twitter/archive.jsonl"
   - "raw/twitter/tweet-archive.csv"

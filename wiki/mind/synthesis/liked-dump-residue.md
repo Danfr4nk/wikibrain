@@ -7,8 +7,8 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
-  - src:exportify-haul-2026-09-11 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
-  - src:playlist-forensics-2026-09-11 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:exportify-csvs-2026-09-11
+  - src:playlist-analysis-2026-09-11
   - src:residue-forensics-2026-09-13 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/mind/synthesis/taste-as-filter-stack
