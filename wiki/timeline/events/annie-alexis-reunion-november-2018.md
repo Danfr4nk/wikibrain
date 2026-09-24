@@ -367,6 +367,34 @@ t=09:04 — the second woman stands naked at the foot of the bed holding a phone
 
 [![t=09:04 — the second woman stands naked at the foot of the bed holding a phone, filming or checki...](wiki/media/annie-alexis-frames/frame-061.jpg)](wiki/media/annie-alexis-frames/frame-061.jpg)
 
+![Nov 6, 2018, 11:23:42 PM — Midtown Manhattan, minutes after arrival (upload-024; EXIF + GPS corroborated)](wiki/media/nyc-arrival-20181106.jpg)
+
+**That evening — the New York run (Nov 6).** The same day the morning
+footage was shot, they ran to New York: Dan's memory said they left home
+around noon, but the device-derived location history puts the departure
+at 4:44 PM and the Shoreham Hotel arrival at 11:14 PM — good-faith date
+displacement, the standing example of the pattern. This photo, taken at
+11:23:42 PM on East 47th Street, lands nine minutes after the
+device-derived arrival: a yellow taxi, a Five Guys sign, trash bags on
+the curb — the trip's endpoint pinned by EXIF and GPS, not by his word
+alone. The reunion's morning was surveillance; its evening was a hotel
+run to Manhattan.
+
+### The PicsArt edit — Nov 2018 (upload-019)
+
+12 minutes, fixed elevated camera on the bedroom, two women in sustained
+intimate activity — and a PicsArt watermark. This is the edit, not the
+camera original: somewhere between the Zmodo feed and this file, Dan
+ran the footage through PicsArt and kept the 12-minute cut. That closes
+the standing open question — footage from the birthday-night hidden-camera
+request was taken, and this is what became of it: it exists, it was
+edited, and it stayed in his possession. It does not close the deeper
+question of what the camera captured unedited. The edit pass is its own
+evidence: what he kept (the fixed wide frame, the room's string lights
+and clothing rack, the sustained sequence) is what he wanted to remember.
+Identities are his testimony — Annie and Alexis, "the Annie/Alexis
+hookup" — and a frame-grab play-by-play for this cut is still to come.
+
 ### Part 3 — Dec 6, 2018 (upload-020)
 
 13m42s. A slow morning-after scene that only turns sexual near t≈08:51, when Annie climbs onto Alexis and they start making out — topless lounging and laughing before that, no oral, no manual genital contact, no visible genitalia in any frame. Note: the camera's on-screen overlays read 11-06-2018 (10:55–11:08 AM), almost certainly a mis-set camera clock; the footage is dated 12-06-2018 by Dan's upload and testimony.
