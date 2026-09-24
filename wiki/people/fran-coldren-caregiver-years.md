@@ -22,7 +22,7 @@ sources:
   - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/luciedobbin_xdu6oa5apw/message_1.html"
 images:
   infobox:
-    src: wiki/media/gphotos-002.jpg
+    file: wiki/media/gphotos-002.jpg
     caption: "Fran at 97, game controller in hand, November 6, 2017 — the caregiving year in one frame"
   library:
     - file: wiki/media/gphotos-001.jpg
