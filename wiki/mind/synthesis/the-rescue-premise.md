@@ -12,11 +12,11 @@ date_range_start: 2026-08-16
 date_range_end: 2026-08-22
 tags: [relationships, trauma-bond, attachment, forensic-analysis, future]
 sources:
-  - raw/people/captures/2026-08-20_group-chat-retraction-and-the-uncleared-name.md
-  - raw/self/audio/2026-08-16_Morgantown_St_call-recording.m4a
-  - raw/self/message-csv/imessage_export_2124702449_20260820.csv
-  - raw/self/message-csv/imessage_export_7248123683_20260820.csv
-  - raw/self/captures/2026-08-10_014646_annie-sex-resumption.md
+  - raw/people/captures/2026-08-20_group-chat-retraction-and-the-uncleared-name.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/audio/2026-08-16_Morgantown_St_call-recording.m4a — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_export_2124702449_20260820.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_export_7248123683_20260820.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-10_014646_annie-sex-resumption.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/people/annie-ulmer
   - wiki/mind/concepts/attachment-model

@@ -16,8 +16,8 @@ sources:
   - kb/data/1292-block-unblock-loop-severance-recount-129-128.md
   - kb/data/0090-block-retraction-2026-09-11.md
   - src:stylometry-baseline-2026-09-11
-  - src:playlist-forensics-2026-09-11
-  - src:operator-finance-screenshots-2026-07-15
+  - src:playlist-forensics-2026-09-11 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:operator-finance-screenshots-2026-07-15 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/mind/synthesis/severance-declarations
   - wiki/mind/synthesis/four-financial-inversions

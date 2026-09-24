@@ -10,12 +10,12 @@ date_modified: 2026-09-04
 date_range_start: 2009-11-01
 date_range_end:
 sources:
-  - raw/self/dox-md/FULL PROFILE 2026.md
-  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/message-csv/imessage_2124702449_both_all_now.csv
-  - "raw/self/message-csv/THE END FIGHT.csv"
+  - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_2124702449_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - "raw/self/message-csv/THE END FIGHT.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 synthesizes:
   - wiki/mind/synthesis/bond-switch-2015
   - wiki/people/annie-ulmer
