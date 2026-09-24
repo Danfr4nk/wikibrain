@@ -5,7 +5,7 @@ status: stable
 date_created: 2026-06-23
 date_modified: 2026-09-24
 date_range_start: 2018-10-23
-date_range_end: 2018-10-27
+date_range_end: 2024-09-14
 knowledge: mixed
 tags: [relationships, digital-footprint, uniontown-era, non-monogamy, high-school]
 sources:
@@ -20,11 +20,12 @@ infobox:
   relationship_to_dan: friend (Laurel Highlands high school)
   handles: ["+17249848911"]
   first_contact: 2018-10-23
-  known_for: "Laurel Highlands friend — the one who got Dan busted for the Sunridge K2 condo party, and, years later, the recipient of one dense 348-message thread in October 2018 as Dan and Annie launched the webcam show"
+  last_contact: 2024-09-14
+  known_for: "Laurel Highlands friend — the one who got Dan busted for the Sunridge K2 condo party; one dense 348-message thread in October 2018 as Dan and Annie launched the webcam show, then four years of low-level Facebook/Instagram check-ins to September 2024"
 connections:
   - page: wiki/mind/concepts/contact-gini
     type: instance-of
-    claim: "A dense short-burst tie — 348 messages across five days, then nothing — is the long tail's characteristic shape: near-total concentration in a single window with no maintenance traffic on either side of it."
+    claim: "The iMessage thread is the dense-cluster shape — 348 messages across five days — but the tail the model usually misses is real here: sparse bro-maintenance pings ('Hey kid', 'Miss you brother', 'Only Fans yet?') on Facebook and Instagram running all the way to September 2024."
   - page: wiki/people/annie-ulmer
     type: evidences
     claim: "The thread is an outside record of the camming business at its launch: Dan describes it to a friend in October 2018 in the couple's-project register, and quotes Annie's prior solo cam work as the reason it 'works out really well to do it as a couple.'"
@@ -41,11 +42,12 @@ connections:
 Bruce Burish is a Laurel Highlands friend from high school — not a caddying-era
 friend, as this page previously claimed — and a Fayette County contact (724
 area code, confirmed via Google Contacts). His footprint in the corpus is one
-dense, explicit five-day conversation in October 2018 and then nothing: the
-occasion is Dan telling him that he and [[wiki/people/annie-ulmer|Annie]] are
-starting a webcam show together. The thread is almost entirely Bruce's
-enthusiastic, increasingly graphic reaction to that news, plus a throwaway
-request for weed next time Dan is in town.
+dense, explicit five-day conversation in October 2018 — the occasion is Dan
+telling him that he and [[wiki/people/annie-ulmer|Annie]] are starting a
+webcam show together — followed by four years of low-level check-ins on
+Facebook and Instagram that run all the way to September 2024. The thread is
+almost entirely Bruce's enthusiastic, increasingly graphic reaction to that
+news, plus a throwaway request for weed next time Dan is in town.
 
 But Bruce's real significance in Dan's life predates the corpus by roughly a
 decade. He is the person who got Dan busted for his biggest party — the only
@@ -87,6 +89,51 @@ Dan puts it in his own words: *"the only party where my Uniontown friends and
 my 7springs friends collided"* — ended by a drunk car ride and a parental
 friendship network.
 
+The account is no longer single-source. On September 14, 2024, Dan had a
+flashback and messaged Bruce about it on Instagram — *"I had a flashback
+today / Do you remember / The 7springs party lol"* — and Bruce answered in
+his own words: *"Jesus / When I got picked up / I remember it well / I got in
+so much trouble."* Twenty years on, the pickup and the trouble are confirmed
+by the guy who lived them. The Basescu family, for its part, is still in
+orbit: on November 8, 2022, Suz told Dan that "Joni Basescu asked about the
+two of you" — the parental friendship network outlasted the bust.
+
+## The Facebook and Instagram afterlife (2019–2024)
+
+This page previously claimed no contact after October 27, 2018 in any channel.
+That was wrong — the Facebook Messenger thread
+(`bruceburish_t6vdszljtq`), listed in the gaps below as "unread," had simply
+never been read. It holds the friendship's long tail.
+
+The register is bro-warm maintenance: *"Hey kid," "Sup kiddo," "How's my
+dude," "Miss you brother," "Brother!"* — pings every few months from 2020
+through September 2022, plus a missed video chat in March 2021. Two details
+with weight. First, Bruce had moved east: *"I'm in Sag Harbor"* (October
+2018), and in January 2021, *"What's good my friend! Let's meet up! I'm in
+the Hamptons."* Second, the camming stayed a throughline between them — Bruce
+is the one outsider who knew about it from the launch conversation and kept
+checking in: *"Have any only fans?"* (January 2021), *"Only Fans yet?"*
+(February 2022), and in August 2022, *"Onlyfans? / You would crush it bro /
+Just saying / Secret is safe with me bro."*
+
+The October 2018 Facebook stretch also backfills the friendship's texture:
+Dan gives Bruce his number (*"7242083475 give me a shout"*), Bruce gives his
+Snap (*"bburish9 is my snap"*), they compare notes on turning 30 (Dan's
+birthday November 1, Bruce's just before — same cohort), and Dan writes the
+line that corroborates the high-school origin from inside the corpus:
+*"fuck everyone we graduated with."* The November visit Bruce promised —
+*"I'll be home in November"* — has no evidence it happened.
+
+Instagram (`bruceburish_557593328970813`) runs 2019 to September 2024 in the
+same register — *"I miss you man!"* (2021), *"Are you still in nyc?"* (2021,
+2024), a live-podcast exchange (2019) — and closes with the 2024 party
+flashback above, the last contact on record.
+
+One disambiguation for the corpus: the "Bruce" who appears across 2015–2016
+in the Alexis thread (`+17244346811`) — her bar manager, the schedule, the
+W2 — is a different person, not Burish. Likewise the 2025 *"check in with
+Bruce Burris's"* is a business reference, unrelated.
+
 ## The webcam conversation
 
 Bruce responds with immediate, sustained interest: how the couple arrived at
@@ -107,10 +154,21 @@ October 27 with no indication the November visit happened.
 
 | Metric | Value |
 |--------|-------|
-| Messages | **348** — 167 sent (Dan), 181 received |
-| Date range | 2018-10-23 → 2018-10-27 (single dense cluster) |
+| Messages (iMessage) | **348** — 167 sent (Dan), 181 received |
+| iMessage date range | 2018-10-23 → 2018-10-27 (single dense cluster) |
 | Handle | `+17249848911` |
 | Source of direction | `all_imessages_complete_dump.txt` |
+| Facebook Messenger | `bruceburish_t6vdszljtq` — Oct 2018 → Sep 2022, maintenance pings |
+| Instagram | `bruceburish_557593328970813` — 2019 → Sep 2024, last contact |
+| Last contact on record | 2024-09-14 (Instagram — the party flashback) |
+
+> **CORRECTED [2026-09-24, cross-check]:** a full corpus + both message
+> corpora sweep found the Facebook and Instagram threads this page had never
+> read — so the claim of "no contact after October 27, 2018 in any channel"
+> was false. Contact runs to September 2024, and Bruce confirmed the Sunridge
+> K2 party bust in his own words on September 14, 2024. The sweep also turned
+> up a disambiguation: the 2015–2016 "Bruce" in the Alexis thread is her bar
+> manager, not Burish.
 
 > **CORRECTED [2026-09-24]:** this page previously identified Bruce as a
 > **caddying-era friend**, inferred from his opening nostalgia about
@@ -147,13 +205,14 @@ October 27 with no indication the November visit happened.
 
 ## Gaps
 
-- **Did the November visit or any collaboration happen?** No contact appears
-  after October 27 in any channel. One paragraph from the operator settles it.
-- **The Facebook Messenger thread is unread.**
-  `raw/self/facebook/.../bruceburish_t6vdszljtq/` exists in the archive and has
-  never been cross-read against this page. It is the only other channel where
-  this friendship appears and would date its origin.
+- **Did the November visit or any collaboration happen?** Bruce promised
+  *"I'll be home in November"* in October 2018; no evidence the visit
+  happened, and the November 2018 mid-month slot passed with no mention.
+- **~~The Facebook Messenger thread is unread.~~** Resolved 2026-09-24 by the
+  full-corpus cross-check: read in full, and it moved the friendship's end
+  date from October 2018 to September 2024. It holds no high-school-era
+  material — the earliest messages are the October 2018 webcam-launch
+  stretch itself.
 - **~~How the friendship actually started.~~** Resolved 2026-09-24 by the
-  operator: Laurel Highlands high school. The "caddying-era" inference is
-  struck from the page; the surviving gap is whether the Facebook Messenger
-  thread holds anything from the high-school years themselves.
+  operator: Laurel Highlands high school — corroborated from inside the
+  corpus by Dan's *"fuck everyone we graduated with"* (October 2018).
