@@ -8,7 +8,7 @@ date_modified: 2026-07-19
 date_range_start: 2018-04-05
 date_range_end: 2019-08-21
 sources:
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/luciedobbin_xdu6oa5apw/message_1.html"
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/luciedobbin_xdu6oa5apw/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [family, grief]
 infobox:
   name: "Lucie Dobbin"

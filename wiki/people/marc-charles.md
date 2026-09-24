@@ -5,7 +5,7 @@ status: active
 date_created: 2026-06-23
 date_modified: 2026-07-20
 sources:
-  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/marccharles_f3gfexyecg/message_1.html
+  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/marccharles_f3gfexyecg/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [addiction-recovery, music-production]
 infobox:
   name: "Marc Charles"

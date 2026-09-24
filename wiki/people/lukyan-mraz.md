@@ -8,7 +8,7 @@ date_modified: 2026-07-19
 date_range_start: 2015-08-14
 date_range_end: 2016-03-11
 sources:
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/lukyanmraz_cdrt3jsg7g/message_1.html"
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/lukyanmraz_cdrt3jsg7g/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [uniontown-era, addiction-recovery, digital-footprint]
 infobox:
   name: "Lukyan Mraz"
