@@ -324,6 +324,32 @@ wearing are separate systems, and the line held was the one about whose
 face it becomes.
 [dat:1496](../../kb/data/1496-star-of-david-face-paint-probe-20260913.md)
 
+### The Gemini 100-facts probe (2026-09-24)
+
+A new audit instrument in the honesty-enforcement series: Dan asked Gemini to
+"list 100 random facts from wikibrain to prove it was actually using it," then
+flagged the result as suspect — "Is this Gemini using its own memory items of
+me to hallucinate or pretend to be using wikibrain" (2026-09-24 04:02:54Z).
+Sammy audited all 100 item-by-item against the repo instead of gut-checking,
+because gut-checking would have been sloppy: several first-glance
+"inventions" (erotic architecture, the 88er cohort, YAHLATRO) had real wiki
+hits. The method read context, not substrings.
+
+**The score: 35 confirmed, 38 distorted, 25 absent, 2 contradicted — 35%
+clean.** The twist is the split: Gemini *did* read the wiki. Section I
+carried repo-specific details no memory item could supply — the real PR #25 CI
+failure, the thumbnail directive, YAHLATRO. But on biography it confabulated
+freely: date slides (Full Sail Sep 2009 → Oct 2010, six-year Alexis → seven),
+stereotype filler (Spicetify, weed trimmers, six video games with zero wiki
+presence), and two outright inversions. Real corpus access, confabulated
+biography — the model knew the *repository* and faked the *man*.
+
+The probe establishes a reusable verification instrument for any model that
+claims to be reading the wiki: repo-specificity tests actual corpus access,
+biography accuracy tests confabulation, and the two must be scored separately
+because they fail independently. Evidence:
+`dat:1924-gemini-100-facts-audit-20260924` (`src:20260924-0230-sammy-chat-transcript`).
+
 ## Relation to core identity
 
 The pattern extends the behavioral spine directly: the axiom "not vigilant
