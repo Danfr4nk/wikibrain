@@ -7,15 +7,15 @@ knowledge: mixed
 date_created: 2026-06-23
 date_modified: 2026-09-21
 sources:
-  - raw/self/dox-md/The-Eli-incident-investigation.md
-  - raw/self/dox-scan/DanAnnie_MasterRecord_FINAL.docx
-  - raw/self/dox-scan/DanAnnie_CompleteRecord_Final.docx
-  - raw/self/gemini-activity/Gemini Activity.html
-  - raw/self/dox-md/Gemini-_07.md
-  - raw/self/dox-md/Gemini-_18.md
-  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md
-  - raw/self/message-csv/imessages_2124702449_last6months.csv
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
+  - raw/self/dox-md/The-Eli-incident-investigation.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_MasterRecord_FINAL.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_CompleteRecord_Final.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-07.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md
+  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessages_2124702449_last6months.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - kb/data/0210-eli-incident.md
   - kb/data/0490-eli-person-page-negative-footprint-redaction.md
   - kb/data/0449-group-chat-closure-revised-arithmetic.md
