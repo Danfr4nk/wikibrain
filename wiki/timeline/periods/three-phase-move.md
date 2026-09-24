@@ -11,11 +11,11 @@ date_modified: 2026-09-24
 date_range: ["2010-01-01", "2025-12-31"]
 tags: [nyc-era, uniontown-era, housing, move, timeline, obsession-lifecycle, spending, financial-stress]
 sources:
-  - raw/self/twitter/archive.jsonl
+  - raw/twitter/archive.jsonl
   - raw/self/amazon-2019-orders/amazon-2019-orders.md
   - raw/self/amazon-2018-orders/amazon-2018-orders.md
-  - raw/self/dox-md/CONTEXT_CORE_EXPANDED.md
-  - raw/self/chatgpt-export/relationship-breakdown-summary-2025-04-27.md
+  - raw/self/dox-md/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/chatgpt-export/relationship-breakdown-summary-2025-04-27.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - corpus/manifest.json
 connections:
   - page: wiki/self/2019-spending-analysis

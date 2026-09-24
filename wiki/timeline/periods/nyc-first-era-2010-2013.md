@@ -11,14 +11,14 @@ date_modified: 2026-09-24
 date_range: ["2010-01-01","2013-12-31"]
 tags: [nyc-era, audio-career, relationships, addiction-recovery, move, producer-identity]
 sources:
-  - raw/self/twitter/archive.jsonl
+  - raw/twitter/archive.jsonl
   - raw/twitter/tweet-archive.csv
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-scan/Gemini-_58.txt
-  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md
-  - raw/self/facebook/facebook-ihatedanfrank/
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-58.md
+  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/gmail/2026-08-10-creative-license-kevin-mckiernan-gmail.md
-  - raw/self/dox-scan/Resume.txt
+  - raw/self/dox-scan/Resume.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 ---
 
 # NYC, First Era (2010–2013)

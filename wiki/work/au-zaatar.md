@@ -9,18 +9,18 @@ sources:
   - raw/sammy/20260914-0630/chats.json
   - raw/location/Records.json
   - raw/location/Timeline-Edits.json
-  - raw/self/message-csv/imessage_19178259183_both_all_now.csv
-  - raw/self/dansynth/StorytimeAuZaatarAnalysis.md
-  - raw/self/dansynth/TheWaitersVisibleHigh.md
-  - raw/self/dansynth/AuZaatarsFinalShift.md
-  - raw/self/dansynth/FromSidewalkShedtoAnalyticalProwess.md
-  - raw/self/dox-md/Gemini-_00.md
-  - raw/self/dox-md/Gemini-_02.md
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dansynth/DANSYNTH.txt
-  - raw/self/dansynth/dansynth-scrape-phases-2-7.md
-  - raw/self/dox-scan/DanAnnie_TenYears_WithAmendments.docx
-  - "raw/self/dox-md/Breaking the anxiety avoidance cycle.md"
+  - raw/self/message-csv/imessage_19178259183_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/StorytimeAuZaatarAnalysis.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/TheWaitersVisibleHigh.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/AuZaatarsFinalShift.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/FromSidewalkShedtoAnalyticalProwess.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/Gemini-_00.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/Gemini-_02.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/dansynth-scrape-phases-2-7.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_TenYears_WithAmendments.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - "raw/self/dox-md/Breaking the anxiety avoidance cycle.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 related:
   - wiki/people/tarik-fallous
   - wiki/people/valeria-iglesias-cid

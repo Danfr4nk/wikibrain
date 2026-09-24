@@ -12,14 +12,14 @@ date_range: ["2012-02-15", "2012-06-01"]
 date_range_note: "Approximate. Start date is confirmed by a dated February 15, 2012 final-paycheck email. End date approximates the June 2012 LinkedIn retaliation; no dated document pins its exact day. The whistleblower disclosure itself is dated May 2012 in the record."
 tags: [nyc-era, career, whistleblower, workplace-conflict, legal, moral-act]
 sources:
-  - raw/self/dox-scan/Resume.txt
-  - raw/self/dox-scan/Gemini-_58.txt
+  - raw/self/dox-scan/Resume.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-58.md
   - raw/gmail/2026-08-10-creative-license-kevin-mckiernan-gmail.md
-  - raw/self/facebook/facebook-ihatedanfrank/other_personal_information/your_address_books.html
-  - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md
-  - raw/self/dox-md/THE_DAN_FRANK_MANUAL.md
-  - raw/self/dox-md/DAN_COGNITIVE_PROFILE.txt
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
+  - raw/self/facebook/facebook-ihatedanfrank/other_personal_information/your_address_books.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/THE_DAN_FRANK_MANUAL.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/DAN_COGNITIVE_PROFILE.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 changelog:
   - date: 2026-09-24
     note: "Commissioned entry. Built from the existing wiki/work/creative-license page's corpus record: the Gemini-58 session (Dan's own primary testimony), the ~35-thread Gmail capture of the dispute, Resume.txt, and Dan's own retrospective statements. No new primary material beyond those sources; limits and evidentiary status carried per-claim in the appendix."

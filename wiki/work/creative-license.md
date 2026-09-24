@@ -9,15 +9,15 @@ date_modified: 2026-08-10
 date_range_start: 2011-04-01
 date_range_end: 2012-02-15
 sources:
-  - raw/self/dox-scan/Resume.txt
-  - "raw/self/facebook/facebook-ihatedanfrank/other_personal_information/your_address_books.html"
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/kevinmckiernan__3hd8v2u0g/message_1.html"
-  - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md
-  - raw/self/dox-md/THE_DAN_FRANK_MANUAL.md
-  - raw/self/dox-md/DAN_COGNITIVE_PROFILE.txt
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
+  - raw/self/dox-scan/Resume.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - "raw/self/facebook/facebook-ihatedanfrank/other_personal_information/your_address_books.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/kevinmckiernan__3hd8v2u0g/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/THE_DAN_FRANK_MANUAL.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/DAN_COGNITIVE_PROFILE.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/gmail/2026-08-10-creative-license-kevin-mckiernan-gmail.md
-  - raw/self/dox-scan/Gemini-_58.txt
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-58.md
 tags: [nyc-era, career, digital-footprint, legal]
 connections:
   - page: wiki/mind/synthesis/failure-to-launch

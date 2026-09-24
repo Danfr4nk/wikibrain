@@ -11,15 +11,15 @@ date_modified: 2026-09-24
 date_range: ["2021-03-01", "2024-08-31"]
 tags: [nyc-era, career, employment, second-nyc-era, relationships, au-zaatar]
 sources:
-  - raw/self/dansynth/StorytimeAuZaatarAnalysis.md
-  - raw/self/dansynth/TheWaitersVisibleHigh.md
-  - raw/self/dansynth/AuZaatarsFinalShift.md
-  - raw/self/dansynth/FromSidewalkShedtoAnalyticalProwess.md
-  - raw/self/message-csv/imessage_19178259183_both_all_now.csv
-  - raw/self/dox-scan/DanAnnie_TenYears_WithAmendments.docx
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-md/Gemini-_00.md
-  - raw/self/dox-md/Gemini-_02.md
+  - raw/self/dansynth/StorytimeAuZaatarAnalysis.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/TheWaitersVisibleHigh.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/AuZaatarsFinalShift.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/FromSidewalkShedtoAnalyticalProwess.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_19178259183_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_TenYears_WithAmendments.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/Gemini-_00.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/Gemini-_02.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/work/au-zaatar
   - wiki/people/tarik-fallous
