@@ -16,7 +16,7 @@ sources:
   - raw/self/dox-md/THE_DAN_FRANK_MANUAL.md
   - raw/self/dox-md/DAN_COGNITIVE_PROFILE.txt
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/gmail-captures/2026-08-10-creative-license-kevin-mckiernan-gmail.md
+  - raw/gmail/2026-08-10-creative-license-kevin-mckiernan-gmail.md
   - raw/self/dox-scan/Gemini-_58.txt
 tags: [nyc-era, career, digital-footprint, legal]
 connections:

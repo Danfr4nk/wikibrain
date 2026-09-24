@@ -11,7 +11,7 @@ sources:
   - raw/self/dox-scan/Dan Profile.txt
   - raw/self/dox-md/Honest assessment and value judgment analysis.md
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/archives/google-data-export-index-20260623.html
+  - raw/drive-sweep/20260911/takeout-index/google-data-export-index-20260623.html
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
   - raw/self/dox-md/OMNI_FORENSIC_DOSSIER.md
   - raw/old-wiki-export-2026-09-04/whole.txt

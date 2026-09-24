@@ -14,7 +14,7 @@ tags: [nyc-era, career, whistleblower, workplace-conflict, legal, moral-act]
 sources:
   - raw/self/dox-scan/Resume.txt
   - raw/self/dox-scan/Gemini-_58.txt
-  - raw/self/gmail-captures/2026-08-10-creative-license-kevin-mckiernan-gmail.md
+  - raw/gmail/2026-08-10-creative-license-kevin-mckiernan-gmail.md
   - raw/self/facebook/facebook-ihatedanfrank/other_personal_information/your_address_books.html
   - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md
   - raw/self/dox-md/THE_DAN_FRANK_MANUAL.md

@@ -22,7 +22,7 @@ related:
 sources:
   - "kb/data/0090-block-retraction-2026-09-11.md"
   - "kb/data/0081-explicit-commitment-architecture.md"
-  - "wiki/mind/synthesis/august-26-block-retraction"
+  - "wiki/mind/synthesis/august-26-block-retraction.md"
 tags: [relationships, behavioral-change, boundaries, consistency, forensic-analysis, trust]
 ---
 
