@@ -9,10 +9,10 @@ date_range_end: 2018-10-27
 knowledge: mixed
 tags: [relationships, digital-footprint, uniontown-era, non-monogamy]
 sources:
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/bruceburish_t6vdszljtq/
-  - raw/self/dox-md/operating_manual.md
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/bruceburish_t6vdszljtq/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 infobox:
   name: "Bruce Burish"
   sex: male

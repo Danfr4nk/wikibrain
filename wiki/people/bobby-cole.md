@@ -8,7 +8,7 @@ date_modified: 2026-09-20
 date_range_start: 2013-07-05
 date_range_end: 2022-01-10
 sources:
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/bobbycole_-p2picui8w/message_1.html"
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/bobbycole_-p2picui8w/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/facebook-threads/MANIFEST.json"
   - "raw/legion-of-skanks-tapings-photos-2019-12-23-2020-08-25/manifest.json"
   - "kb/data/0159-bobby-cole-nine-year-oa-friendship.md"

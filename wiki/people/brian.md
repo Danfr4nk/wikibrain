@@ -6,7 +6,7 @@ date_created: 2026-06-23
 date_modified: 2026-07-19
 date_range_start: 2019-06-10
 date_range_end: 2019-07-09
-sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"]
+sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/people/jaredtricia", "wiki/people/kelly-johansson", "wiki/people/trinity-st-clair", "wiki/people/annie-ulmer", "wiki/self/message-corpora/master-message-dump", "wiki/mind/concepts/contact-gini"]
 tags: [relationships, nyc-era, digital-footprint]
 knowledge: mixed
