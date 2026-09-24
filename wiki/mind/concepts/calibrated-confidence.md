@@ -9,8 +9,8 @@ knowledge: earned
 date_created: 2026-08-02
 date_modified: 2026-09-13
 sources:
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/twitter/archive.jsonl
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/twitter/archive.jsonl
 tags: [personality-profile, forensic-analysis, digital-footprint]
 connections:
   - page: wiki/mind/synthesis/failure-to-launch

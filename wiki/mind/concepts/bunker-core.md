@@ -7,10 +7,10 @@ knowledge: mixed
 date_created: 2026-07-20
 date_modified: 2026-09-21
 sources:
-  - "raw/self/dox-md/Gemini-_18.md"
-  - "raw/self/dox-md/_Dan Frank's Digital Forensic Inventory .md"
-  - "raw/self/dox-md/_Openclaw Agent Setup and Data .md"
-  - raw/self/dox-md/MAX_PRIME.md
+  - "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md"
+  - "raw/self/dox-md/_Dan Frank's Digital Forensic Inventory .md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/_Openclaw Agent Setup and Data .md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - raw/self/dox-md/MAX_PRIME.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [ai-collaboration, digital-footprint, career]
 connections:
   - page: wiki/timeline/periods/2025-collapse

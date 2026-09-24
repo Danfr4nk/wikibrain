@@ -8,10 +8,10 @@ date_modified: 2026-09-13
 knowledge: earned
 tags: [politics, forensic-analysis, personality-profile]
 sources:
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/chats/j6-chat.md
-  - "raw/self/chats/Drawer shortage dispute with assistant manager (1).md"
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/j6-chat.md
+  - "raw/self/chats/Drawer shortage dispute with assistant manager (1).md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 connections:
   - page: wiki/mind/concepts/conflict-architecture
     type: mirrors

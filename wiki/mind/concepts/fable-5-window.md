@@ -7,7 +7,7 @@ knowledge: earned
 date_created: 2026-09-16
 date_modified: 2026-09-21
 sources:
-  - src:kb-dat-1619-fable-5-window-proliferation
+  - src:kb-dat-1619-fable-5-window-proliferation — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - wiki/self/twitter/2026.md
 tags: [ai-collaboration, proliferation, personality-profile]
 connections:

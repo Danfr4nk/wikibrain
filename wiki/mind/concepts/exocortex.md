@@ -9,13 +9,13 @@ date_modified: 2026-09-18
 knowledge: earned
 tags: [forensic-analysis, ai-collaboration, personality-profile]
 sources:
-  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md
-  - raw/self/dox-md/CATO_conflict_architecture.md
-  - raw/self/dox-md/operating_manual.md
-  - raw/self/chats/Analyzing manipulation and ethical intent in data.md
-  - raw/self/chats/_✧✧ 𝔻𝔸ℕ𝔽ℝ𝔸ℕ𝕂-𝕀𝕊𝕄'𝕊 ✧✧ Pinned chat.md
-  - raw/self/dox-md/_Antigravity's Test and Naming Ceremony .md
-  - raw/self/dox-md/_Delicate Situation, Cognitive Prosthetic .md
+  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/CATO_conflict_architecture.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/chats/Analyzing manipulation and ethical intent in data.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/chats/_✧✧ 𝔻𝔸ℕ𝔽ℝ𝔸ℕ𝕂-𝕀𝕊𝕄'𝕊 ✧✧ Pinned chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/_Antigravity's Test and Naming Ceremony .md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/_Delicate Situation, Cognitive Prosthetic .md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 connections:
   - page: wiki/mind/concepts/forensic-method
     type: enforces
