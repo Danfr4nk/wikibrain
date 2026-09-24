@@ -8,9 +8,9 @@ date_modified: 2026-07-19
 date_range_start: 2018-03-30
 date_range_end: 2019-02-08
 sources:
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/lewisstrosnider_t431kowlfq/message_1.html"
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/matthewpalermo_nkpz90-e_g/message_1.html"
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/davidbeard_2il3ecdfgg/message_1.html"
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/lewisstrosnider_t431kowlfq/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/matthewpalermo_nkpz90-e_g/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/davidbeard_2il3ecdfgg/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [uniontown-era, career, digital-footprint]
 infobox:
   name: "Lewis Strosnider"
