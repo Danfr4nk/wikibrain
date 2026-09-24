@@ -8,9 +8,9 @@ knowledge: mixed
 date_created: 2026-07-20
 date_modified: 2026-08-19
 sources:
-  - "raw/self/dox-md/Breaking the anxiety avoidance cycle.md"
-  - "raw/self/dox-md/Breaking the anxiety avoidance cycle (1).md"
-  - "raw/self/dox-md/Reassessing with fresh perspective.md"
+  - "raw/self/dox-md/Breaking the anxiety avoidance cycle.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/Breaking the anxiety avoidance cycle (1).md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/Reassessing with fresh perspective.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [mental-health, addiction-recovery, personality-profile]
 connections:
   - page: wiki/timeline/events/bald-eagle-cummings

@@ -7,9 +7,9 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
-  - src:corpus-authoritative-export
+  - src:corpus-authoritative-export — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:facebook-export-2026-06-23
-  - src:twitter-archive
+  - src:twitter-archive — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:old-wiki-export-2026-09-04
 synthesizes:
   - wiki/health/chemical-architecture

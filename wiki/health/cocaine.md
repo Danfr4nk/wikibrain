@@ -9,15 +9,15 @@ knowledge: earned
 date_created: 2026-08-19
 date_modified: 2026-08-31
 sources:
-  - raw/self/dox-md/ADDICTION_PROFILE.md
-  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/legal/documents/2015-02_fayette-court-blotter-possession-charges.md
-  - raw/legal/captures/2026-08-02_200741_the-arrest-the-real-one.md
-  - raw/self/dox-md/operating_manual.md
-  - raw/self/dox-md/MAX_PRIME.md
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/health/intake/intake_unit_01M1AJ47K2HKZ8TZZ75CPNGFJ7.md
+  - raw/self/dox-md/ADDICTION_PROFILE.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/legal/documents/2015-02_fayette-court-blotter-possession-charges.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/legal/captures/2026-08-02_200741_the-arrest-the-real-one.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/MAX_PRIME.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/health/intake/intake_unit_01M1AJ47K2HKZ8TZZ75CPNGFJ7.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - testimony/events.jsonl
 synthesizes:
   - wiki/health/chemical-architecture

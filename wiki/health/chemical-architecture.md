@@ -8,15 +8,15 @@ importance: high
 date_created: 2026-07-13
 date_modified: 2026-09-04
 sources:
-  - raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-scan/Dan Profile.txt
-  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md
-  - raw/legal/bfs-dispute/BFS_BOOTLOADER_v2.md
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/dox-md/ADDICTION_PROFILE.md
-  - raw/people/captures/2026-08-27_222932_gap-alexis-armel.md
-  - raw/health/intake/intake_unit_01M1AJ47K2HKZ8TZZ75CPNGFJ7.md
+  - raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/legal/bfs-dispute/BFS_BOOTLOADER_v2.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/ADDICTION_PROFILE.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-27_222932_gap-alexis-armel.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/health/intake/intake_unit_01M1AJ47K2HKZ8TZZ75CPNGFJ7.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - testimony/events.jsonl
 related:
   - wiki/self/context-core
