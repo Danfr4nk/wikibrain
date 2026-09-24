@@ -11,7 +11,7 @@ date_range_end: 2013-04-01
 sources:
   - "raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md"
   - "raw/self/context-core/CONTEXT_CORE_EXPANDED.md"
-  - raw/self/gmail-captures/2026-08-10-creative-license-kevin-mckiernan-gmail.md
+  - raw/gmail/2026-08-10-creative-license-kevin-mckiernan-gmail.md
   - raw/twitter/archive.jsonl
   - raw/imessage/messages-part1-2011-2019.csv
   - corpus/manifest.json

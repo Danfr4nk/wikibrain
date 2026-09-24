@@ -11,9 +11,9 @@ title: "Twitter / X (@danfrank)"
 aliases: [danfrank, @danfrank]
 sources:
   - "raw/self/twitter/archive.jsonl"
-  - "raw/self/twitter/tweet-archive.xlsx"
+  - "raw/twitter/tweet-archive.csv"
   - "raw/self/twitter/profile.txt"
-  - "raw/self/twitter/tweets_sample_2019-2026.txt"
+  - "raw/drive-sweep/20260911/twitter/profile-samples/tweets_sample_2019-2026.txt"
 tags: [digital-footprint, politics, music-production, ai-collaboration, ideology]
 connections:
   - page: wiki/self/twitter/2008

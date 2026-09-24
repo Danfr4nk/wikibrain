@@ -18,7 +18,7 @@ sources:
   - "raw/self/gemini-activity/Gemini Activity.html"
   - "raw/self/dox-scan/Fresh perspective and research needed.txt"
   - "raw/self/captures/2026-07-14-lyrics-as-timbre.md"
-  - "raw/self/twitter/tweets_sample_2019-2026.txt"
+  - "raw/drive-sweep/20260911/twitter/profile-samples/tweets_sample_2019-2026.txt"
 connections:
   - page: wiki/mind/concepts/exocortex
     type: component-of

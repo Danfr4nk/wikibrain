@@ -19,7 +19,7 @@ sources:
   - "raw/self/gemini-activity/Gemini Activity.html"
   - "raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md"
   - "raw/self/dox-scan/Fresh perspective and research needed.txt"
-  - "raw/self/twitter/tweets_sample_2019-2026.txt"
+  - "raw/drive-sweep/20260911/twitter/profile-samples/tweets_sample_2019-2026.txt"
 connections:
   - page: wiki/self/twitter
     type: evidenced-by
