@@ -8,8 +8,8 @@ date_modified: 2026-07-26
 date_range_start: 2008-08
 date_range_end: 2023-11
 sources:
-  - raw/self/dox-md/Max.md
-  - raw/self/dox-md/MAX_PRIME.md
+  - raw/wiki/new-wiki/wikibrain/wiki/people/max.md
+  - raw/self/dox-md/MAX_PRIME.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/people/milo
   - wiki/people/danielle-onesi

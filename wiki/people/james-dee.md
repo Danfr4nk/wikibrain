@@ -10,10 +10,10 @@ date_modified: 2026-08-20
 date_range_start: 2025-05-27
 date_range_end: 2025-07-21
 sources:
-  - raw/self/chats/The 2nd most famous _Jimmy Pop_ in Pennsylvania .md
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/dox-md/Gemini-_21.md
-  - raw/people/captures/2026-08-20_015525_gap-james-dee.md
+  - raw/self/chats/The 2nd most famous _Jimmy Pop_ in Pennsylvania .md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-21.md
+  - raw/people/captures/2026-08-20_015525_gap-james-dee.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [music-production, ai-collaboration, personality-profile, uniontown-era]
 infobox:
   name: "James (\"Jimi Pop\")"
