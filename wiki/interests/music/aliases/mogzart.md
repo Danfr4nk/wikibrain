@@ -7,8 +7,8 @@ date_modified: 2026-07-13
 date_range_start: 2014-01-01
 date_range_end: 
 sources:
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-md/operating_manual.md
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/drive-sweep/20260911/twitter/profile-samples/tweets_sample_2019-2026.txt
 related:
   - wiki/interests/music/overview

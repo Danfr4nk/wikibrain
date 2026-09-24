@@ -5,9 +5,9 @@ status: stable
 date_created: 2026-07-16
 date_modified: 2026-09-03
 sources:
-  - "raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2025).html"
-  - "raw/self/dox-scan/Dan Profile.txt"
-  - "raw/self/facebook/facebook-ihatedanfrank/pages_and_profiles/pages_you_ve_liked.html"
+  - "raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2025).html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/facebook/facebook-ihatedanfrank/pages_and_profiles/pages_you_ve_liked.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [personality-profile, digital-footprint, nyc-era]
 connections:
   - page: wiki/mind/synthesis/2020-left-turn

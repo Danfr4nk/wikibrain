@@ -11,16 +11,16 @@ date_modified: 2026-09-24
 date_range: ["2013-01-01", "2014-12-31"]
 tags: [music-production, uniontown-era, trap, nyc-era, alias, producer-identity]
 sources:
-  - raw/self/twitter/archive.jsonl
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-md/operating_manual.md
-  - raw/self/dox-scan/FULL TWITTER ANALYSIS.txt
-  - raw/self/dox-scan/browser_history_analysis.txt
-  - raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html
-  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/phillacher_gukgsjnnvw/message_1.html
-  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/frankswaney_jcxhv7sesw/message_1.html
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/favorites/2025_MASTER_CRATE.csv
+  - raw/twitter/archive.jsonl
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/FULL TWITTER ANALYSIS.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/browser_history_analysis.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/phillacher_gukgsjnnvw/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/frankswaney_jcxhv7sesw/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/favorites/2025_MASTER_CRATE.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/interests/music/aliases/sloppp
   - wiki/interests/music/aliases/mogzart

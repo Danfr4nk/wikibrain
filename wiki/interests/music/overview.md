@@ -5,10 +5,10 @@ status: active
 date_created: 2026-06-22
 date_modified: 2026-09-03
 sources:
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-md/FULL PROFILE 2026.md
-  - raw/self/dox-md/operating_manual.md
-  - raw/self/chats/The 2nd most famous 'Jimmy Pop' in Pennsylvania .md
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/chats/The 2nd most famous 'Jimmy Pop' in Pennsylvania .md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/interests/music/aliases/gripnotic
   - wiki/interests/music/aliases/mogzart
