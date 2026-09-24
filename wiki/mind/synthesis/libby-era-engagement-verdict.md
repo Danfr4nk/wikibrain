@@ -7,7 +7,7 @@ status: active
 date_created: 2026-09-14
 date_modified: 2026-09-15
 sources:
-  - raw/drive-sweep/20260911/gsheets/message-csv/imessages_2124702449_last6months
+  - raw/drive-sweep/20260911/gsheets/message-csv/imessages_2124702449_last6months — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/imessage/messages-part1-2011-2019.csv
   - raw/imessage/messages-part2-2019-2026.csv
   - wiki/people/libby.md

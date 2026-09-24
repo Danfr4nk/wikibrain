@@ -7,11 +7,11 @@ status: active
 date_created: 2026-07-15
 date_modified: 2026-08-19
 sources:
-  - raw/self/concepts/TOTALITY_SYNTHESIS_2026-06-10.md
-  - raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2025).html
-  - raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2026-07-20).html
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/browser_history_analysis.txt
+  - raw/self/concepts/TOTALITY_SYNTHESIS_2026-06-10.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2025).html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2026-07-20).html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/browser_history_analysis.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/mind/synthesis/totality-themes
   - wiki/mind/synthesis/interests-as-era-markers

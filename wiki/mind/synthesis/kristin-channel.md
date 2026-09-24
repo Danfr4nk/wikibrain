@@ -8,13 +8,13 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-20
 sources:
-  - src:imessage_3307038747_both_all_now.csv
-  - src:messenger-kristin-ui-capture-2025-09-01
-  - src:messenger-2026-09-12-pull
-  - src:dat-1452-aug-26-attempts
-  - src:dat-1453-sep-12-outbound
-  - src:dat-1454-operator-testimony
-  - src:scratchpad-2026-09-12-kristin-contradiction
+  - src:imessage_3307038747_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:messenger-kristin-ui-capture-2025-09-01 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:messenger-2026-09-12-pull — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:dat-1452-aug-26-attempts — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:dat-1453-sep-12-outbound — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:dat-1454-operator-testimony — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:scratchpad-2026-09-12-kristin-contradiction — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:kristin-basement-security-cam-20250919
 synthesizes:
   - wiki/people/kristin

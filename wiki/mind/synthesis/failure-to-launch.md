@@ -10,13 +10,13 @@ date_created: 2026-08-22
 date_modified: 2026-09-03
 tags: [career, personality-profile, financial-stress, music-production, ai-collaboration]
 sources:
-  - raw/self/dox-md/Honest assessment and value judgment analysis.md
+  - raw/self/dox-md/Honest assessment and value judgment analysis.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/ANALYSIS_ SOCIAL DEVIANCES.rtf
-  - raw/self/dox-scan/Dan Profile.txt
-  - raw/self/dox-md/OMNI_FORENSIC_DOSSIER.md
-  - raw/self/dox-md/BIBI_PERSONALITY_DECONSTRUCTION.md
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
+  - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/OMNI_FORENSIC_DOSSIER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/BIBI_PERSONALITY_DECONSTRUCTION.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/mind/profile/deviance-mapping
   - wiki/mind/profile/big-five-psychometrics

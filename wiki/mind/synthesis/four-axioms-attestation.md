@@ -7,14 +7,14 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
-  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/concepts/TOTALITY_SYNTHESIS_2026-06-10.md
-  - raw/self/dox-scan/Dan Profile.txt
-  - raw/self/dox-md/FULL PROFILE 2026.md
-  - raw/self/dansynth/DANSYNTH.txt
+  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/concepts/TOTALITY_SYNTHESIS_2026-06-10.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:old-wiki-export-2026-09-04
-  - src:corpus-lexical-audit-106629
+  - src:corpus-lexical-audit-106629 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/mind/synthesis/november-2005-hinge
   - wiki/meta/testimony-veracity

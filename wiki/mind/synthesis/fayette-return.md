@@ -10,9 +10,9 @@ date_modified: 2026-08-28
 date_range_start: 1892-01-01
 date_range_end:
 sources:
-  - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-md/FULL PROFILE 2026.md
+  - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/people/david-j-frank
   - wiki/people/sadie-harris

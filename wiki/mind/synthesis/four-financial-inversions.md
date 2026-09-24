@@ -7,7 +7,7 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
-  - raw/self/captures/2026-08-13_john-paci-staged-eviction-operator-decode.md
+  - raw/self/captures/2026-08-13_john-paci-staged-eviction-operator-decode.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv
 synthesizes:
   - wiki/mind/synthesis/estate-money-spine
