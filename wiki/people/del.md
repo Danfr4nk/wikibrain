@@ -6,7 +6,7 @@ date_created: 2026-06-23
 date_modified: 2026-07-14
 date_range_start: 2019-03-17
 date_range_end: 2019-08-16
-sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"]
+sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/people/menore", "wiki/self/message-corpora/master-message-dump", "wiki/mind/concepts/contact-gini"]
 tags: [addiction-recovery, nyc-era, digital-footprint]
 knowledge: mixed

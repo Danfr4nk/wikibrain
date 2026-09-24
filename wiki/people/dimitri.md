@@ -9,9 +9,9 @@ date_modified: 2026-07-20
 date_range_start: 2023-09-04
 date_range_end: 2024-12-02
 sources:
-  - raw/self/dansynth/StorytimeAuZaatarAnalysis.md
-  - raw/self/dansynth/AuZaatarsFinalShift.md
-  - raw/self/message-csv/imessage_export_9172925212_both_all_now.csv
+  - raw/self/dansynth/StorytimeAuZaatarAnalysis.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/AuZaatarsFinalShift.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_export_9172925212_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/work/au-zaatar
   - wiki/people/ismaila-barry

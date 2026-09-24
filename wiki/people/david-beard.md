@@ -8,7 +8,7 @@ date_modified: 2026-07-20
 date_range_start: 2018-07-23
 date_range_end: 2018-10-01
 sources:
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/davidbeard_2il3ecdfgg/message_1.html"
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/davidbeard_2il3ecdfgg/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [uniontown-era, relationships]
 infobox:
   name: "David Beard"

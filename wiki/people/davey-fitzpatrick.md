@@ -8,7 +8,7 @@ date_modified: 2026-07-19
 date_range_start: 2017-05-21
 date_range_end: 2018-11-02
 sources:
-  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"
+  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [career, uniontown-era, relationships]
 infobox:
   name: "Davey Fitzpatrick"
