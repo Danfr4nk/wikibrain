@@ -5,7 +5,7 @@ status: archived
 date_created: 2026-06-23
 date_modified: 2026-06-23
 sources: [
-  "raw/self/dox-md/Gemini-_18.md"
+  "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md"
 ]
 related: [
   "wiki/self/gemini-activity/gemini-activity",

@@ -5,10 +5,10 @@ status: active
 date_created: 2026-06-23
 date_modified: 2026-06-23
 sources: [
-  "raw/self/dox-scan/Gemini-_58.txt",
-  "raw/self/gemini-activity/Gemini Activity.html",
-  "raw/self/dox-md/FULL PROFILE 2026.md",
-  "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md"
+  "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-58.md",
+  "raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md",
+  "raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.",
+  "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 ]
 related: [
   "wiki/self/gemini-activity/gemini-activity",

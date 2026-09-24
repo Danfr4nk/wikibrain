@@ -5,11 +5,11 @@ status: archived
 date_created: 2026-06-23
 date_modified: 2026-06-23
 sources: [
-  "raw/self/dox-md/Gemini-_07.md",
-  "raw/self/dox-md/LIFE REPORT.md",
-  "raw/self/dox-md/operating_manual.md",
-  "raw/self/context-core/CONTEXT_CORE_EXPANDED.md",
-  "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md"
+  "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-07.md",
+  "raw/self/dox-md/LIFE REPORT.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.",
+  "raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.",
+  "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.",
+  "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 ]
 related: [
   "wiki/self/gemini-activity/gemini-activity",

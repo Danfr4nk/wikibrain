@@ -4,7 +4,7 @@ page_type: chat
 status: archived
 date_created: 2026-06-22
 date_modified: 2026-06-23
-sources: ["raw/self/chats/j6-chat.md", "raw/self/gemini-activity/Gemini Activity.html"]
+sources: ["raw/wiki/new-wiki/wikibrain/wiki/self/chats/j6-chat.md", "raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md"]
 related: [
   "wiki/self/context-core",
   "wiki/self/gemini-activity/gemini-activity",

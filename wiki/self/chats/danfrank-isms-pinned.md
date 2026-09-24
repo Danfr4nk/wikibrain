@@ -7,10 +7,10 @@ date_modified: 2026-06-23
 date_range_start: 
 date_range_end: 
 sources: [
-  "raw/self/chats/_✧✧ 𝔻𝔸ℕ𝔽ℝ𝔸ℕ𝕂-𝕀𝕊𝕄'𝕊 ✧✧ Pinned chat.md",
-  "raw/self/chats/danfrank-isms-pinned.md",
-  "raw/self/gemini-activity/Gemini Activity.html",
-  "raw/self/dox-md/Gemini-_18.md"
+  "raw/self/chats/_✧✧ 𝔻𝔸ℕ𝔽ℝ𝔸ℕ𝕂-𝕀𝕊𝕄'𝕊 ✧✧ Pinned chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.",
+  "raw/wiki/new-wiki/wikibrain/wiki/self/chats/danfrank-isms-pinned.md",
+  "raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md",
+  "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md"
 ]
 related: [
   "wiki/self/context-core",
