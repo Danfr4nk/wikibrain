@@ -6,7 +6,7 @@ date_created: 2026-06-23
 date_modified: 2026-09-04
 date_range_start: 2017-04-19
 date_range_end: 2020-07-31
-sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv", "raw/self/dox-scan/all_imessages_complete_dump.txt"]
+sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 tags: [digital-footprint, uniontown-era, family]
 knowledge: derived
 infobox:

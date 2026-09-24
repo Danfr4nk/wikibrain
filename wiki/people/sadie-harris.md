@@ -7,7 +7,7 @@ status: stable
 knowledge: mixed
 date_created: 2026-06-23
 date_modified: 2026-08-02
-sources: ["raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip"]
+sources: ["raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 tags: [uniontown-era, family]
 connections:
   - page: wiki/mind/synthesis/fayette-return

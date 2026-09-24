@@ -15,17 +15,17 @@ infobox:
   known_for: Complicated father; source of the vertical-authority-distrust template per [[wiki/mind/synthesis/vertical-authority-skepticism]]
   relationship_to_dan: family
 sources:
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md
-  - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip
-  - raw/self/dox-md/Gemini-_18.md
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/dox-scan/Gemini-_58.txt
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/rickfrank_-wir6jjh_a/message_1.html"
-  - raw/self/message-csv/imessage_7243667777_both_all_now.csv
-  - raw/self/message-csv/MASTER_DUMP_PART_1_ARCHAIC.csv
-  - raw/people/captures/2026-08-11_051311_rick-childhood-control-and-humiliation.md
-  - raw/self/message-exports/rick-frank-imessage-pdf-export-2018-thru-2018-04.txt
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-58.md
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/rickfrank_-wir6jjh_a/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - raw/self/message-csv/imessage_7243667777_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_DUMP_PART_1_ARCHAIC.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-11_051311_rick-childhood-control-and-humiliation.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-exports/rick-frank-imessage-pdf-export-2018-thru-2018-04.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [addiction-recovery, relationships, forensic-analysis, legal, ai-collaboration]
 connections:
   - page: wiki/people/fred-adams

@@ -8,7 +8,7 @@ date_modified: 2026-07-20
 date_range_start: 2020-03-10
 date_range_end: 2020-06-23
 sources:
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/sethledonne_ydkapzhbla/message_1.html"
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/sethledonne_ydkapzhbla/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [uniontown-era, politics, digital-footprint, music-production]
 infobox:
   name: "Seth LeDonne"

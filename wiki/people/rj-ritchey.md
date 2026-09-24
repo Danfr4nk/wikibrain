@@ -9,12 +9,12 @@ date_modified: 2026-09-21
 date_range_start: 2019-02-12
 date_range_end: 2020-05-19
 sources:
-  - corpus/messages.csv
+  - corpus/messages.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - corpus/derived/threads.csv
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/rjritchey_1zdzzhrtsw/message_1.html
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/rjritchey_1zdzzhrtsw/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/messenger-drive-2026-09-12/threads.json
-  - raw/self/dox-md/operating_manual.md
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - kb/data/0983-rj-ritchey-thread-dimensions.md
   - kb/data/1080-healthcare-grievance-2020-02-08.md
   - kb/data/1542-chapo-evangelism-raw-rows-20260205.md
