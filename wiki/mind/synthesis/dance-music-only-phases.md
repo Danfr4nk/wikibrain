@@ -7,9 +7,9 @@ knowledge: earned
 date_created: 2026-09-11
 date_modified: 2026-09-18
 sources:
-  - src:playlist-forensics-2026-09-11
-  - src:exportify-haul-2026-09-11
-  - src:corpus-alias-pages-sloppp-mogzart-gripnotic
+  - src:playlist-forensics-2026-09-11 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:exportify-haul-2026-09-11 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:corpus-alias-pages-sloppp-mogzart-gripnotic — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/interests/music/aliases/sloppp
   - wiki/interests/music/aliases/mogzart

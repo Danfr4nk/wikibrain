@@ -8,10 +8,10 @@ knowledge: earned
 date_created: 2026-08-01
 date_modified: 2026-09-04
 sources:
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/message-csv/imessage_2124702449_both_all_now.csv
-  - "raw/self/message-csv/THE END FIGHT.csv"
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_2124702449_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - "raw/self/message-csv/THE END FIGHT.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 synthesizes:
   - wiki/timeline/events/july-august-2026-reentanglement
   - wiki/people/alexis-armel

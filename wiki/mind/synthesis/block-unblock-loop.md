@@ -7,15 +7,15 @@ knowledge: earned
 date_created: 2026-07-18
 date_modified: 2026-09-12
 sources:
-  - raw/mind/captures/2026-08-16_195003_gap-block-unblock-loop.md
-  - raw/self/message-csv/imessage_2124702449_both_all_now.csv
-  - "raw/self/message-csv/THE END FIGHT.csv"
-  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"
-  - "raw/self/dox-scan/DanAnnie_MasterRecord_FINAL.docx"
-  - "raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md"
-  - "raw/self/message-csv/messages_3476070497_all_time.csv"
-  - "raw/self/context-core/CONTEXT_CORE_EXPANDED.md"
-  - raw/self/message-csv/imessage_7243667777_both_all_now.csv
+  - raw/mind/captures/2026-08-16_195003_gap-block-unblock-loop.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_2124702449_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - "raw/self/message-csv/THE END FIGHT.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/DanAnnie_MasterRecord_FINAL.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/message-csv/messages_3476070497_all_time.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - raw/self/message-csv/imessage_7243667777_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/people/annie-ulmer
   - wiki/people/tom
