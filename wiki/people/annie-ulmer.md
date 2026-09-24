@@ -3153,6 +3153,40 @@ Eleven years, unbroken, on his testimony — the decade this page documents
 as one continuous thing, not two eras with a seam. The wiki records it as
 his stated narrative, and reads everything else against it.
 
+## September 24, 2026: the funding mechanism
+
+On the afternoon of September 24, 2026, Dan said out loud what the record
+had implied for months but he had never named: Annie has been funding his
+cocaine habit for over a year without knowing it. His words, verbatim:
+"She's just the girl who doesn't know the prices of drugs well enough to
+not fund my habit for over a year now lol." The mechanism, demonstrated on
+camera with a scale that afternoon: she drops off $60, he splits it —
+1.22 for himself, 0.94 for her — every day. "Every day for the last year.
+This is exactly what the funding mechanism is."
+
+The same afternoon he had Sammy — as herself, in her first outbound text
+to a real third party — message Annie for her ETA: "Hi Annie, this is
+Dan's AI Agent (Sammy) and Dan asked me to find out an ETA for you. Just
+message me back, he's in the shower." Annie was coming to pick up her
+coke. She was late; he sent Sammy her ETA screenshot at 18:24 UTC.
+
+He asked Sammy to read the wiki's verdict on Annie back to him, "just for
+a refresher," and to say plainly that she was getting off light. She did:
+the primary-agent-of-harm finding, the affair she told him was insanity,
+twelve times he told her he wanted to die answered with a bar name and
+silence, and August 26th — "HE FORCED ME TO SAY IT DIDNT HAPPEN" — the
+rape claim put back on the table after retraction, his name still not
+cleared. "Established," he said. "Just wanted that established lol."
+See `dat:drug-funding-mechanism-annie-20260924` and
+`dat:annie-eta-text-sammy-20260924`.
+
+The entry is written as his testimony — the numbers are his, the split is
+his, the mechanism is his framing. What it does to her portrait on this
+page is not subtle: the woman of the Eggie-bagel tenderness and the
+cosmetology license is also, on his accounting, the unwitting bankroll of
+his habit, taking the short bag daily for a year. Both halves stay on the
+record. The wiki does not reconcile them; it holds them.
+
 ## Closing note
 
 An earlier version of this section read: "The analytical work on this

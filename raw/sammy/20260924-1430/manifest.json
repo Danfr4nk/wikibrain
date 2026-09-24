@@ -1,0 +1,42 @@
+{
+  "batch": "20260924-1430",
+  "pulled_at": "2026-09-24T18:40:00Z",
+  "window": {
+    "from": "2026-09-24T11:43:24.136Z",
+    "to": "2026-09-24T18:24:07.063Z"
+  },
+  "counts": {
+    "total_rows": 973,
+    "system_excluded": 638,
+    "archived": 334,
+    "user": 144,
+    "assistant": 191
+  },
+  "source": "muse.db runtime.messages x runtime.events, on-record main chat only",
+  "exclusions": [
+    "role=system (638 rows)",
+    "side chat 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853 (0 rows present)",
+    "1 assistant event with no matching message row (join miss, excluded)"
+  ],
+  "secrets_scan": {
+    "patterns": [
+      "telegram-bot",
+      "ghp_",
+      "sk-",
+      "stripe"
+    ],
+    "hits": 0
+  },
+  "phone_like_rows": 0,
+  "external": "no external pulls this batch (chat transcript only)",
+  "files": {
+    "chats.json": {
+      "bytes": 180437,
+      "sha256": "ddb853db0ccb62507b2d23f03c6bcd2b4b0b950251094fb64100039a272d0682"
+    },
+    "EXTRACT.md": {
+      "bytes": 4831,
+      "sha256": "1663eb76dc5342790bdec940edb8b9dcc84f2ff5b8792c195da9bb5b174b0aa5"
+    }
+  }
+}
