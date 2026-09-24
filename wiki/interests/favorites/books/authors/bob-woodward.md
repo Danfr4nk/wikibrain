@@ -5,7 +5,7 @@ status: active
 importance: medium
 date_created: 2026-06-22
 date_modified: 2026-07-11
-sources: ["raw/self/favorites/FAVS MASTERLIST.csv"]
+sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related:
   - "wiki/interests/favorites/books"
   - "wiki/mind/concepts/forensic-method"
