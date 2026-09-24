@@ -9,7 +9,7 @@ date_range_end:
 sources:
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
   - raw/self/dox-md/operating_manual.md
-  - raw/self/twitter/tweets_sample_2019-2026.txt
+  - raw/drive-sweep/20260911/twitter/profile-samples/tweets_sample_2019-2026.txt
 related:
   - wiki/interests/music/overview
   - wiki/interests/music/aliases/gripnotic

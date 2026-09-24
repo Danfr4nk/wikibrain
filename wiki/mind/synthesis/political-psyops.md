@@ -21,7 +21,7 @@ sources:
   - raw/self/facebook/facebook-ihatedanfrank/
   - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip
   - raw/self/chatgpt-export/babbitt-shooting-psyop-debate-2025-06-15.md
-  - "raw/self/chats/___ The J6 Chat.md"
+  - "raw/googlechat/the-j6-chat.md"
 synthesizes:
   - wiki/mind/concepts/dans-law
   - wiki/mind/concepts/forensic-method

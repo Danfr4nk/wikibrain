@@ -22,7 +22,7 @@ chart:
         "superseded": 0
 tags: [consistency, trust]
 sources:
-  - claims/events.jsonl
+  - testimony/events.jsonl
 related:
   - wiki/meta/index
 ---

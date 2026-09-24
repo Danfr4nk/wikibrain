@@ -13,7 +13,7 @@ sources:
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
   - raw/self/dox-scan/all_imessages_complete_dump.txt
   - raw/self/captures/2026-07-19_operator-note-oct2019-mmf-video.md
-  - raw/self/message-csv/imessage_export_7248123683_20260624.csv
+  - raw/drive-sweep/20260911/imessage/imessage_export_7248123683_20260624.csv
   - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/jennlynn_dhrmxxpvhq/message_1.html
   - raw/self/dox-md/OMNI_FORENSIC_DOSSIER.md
   - raw/self/audio/2026-08-16_Morgantown_St_call-recording.m4a

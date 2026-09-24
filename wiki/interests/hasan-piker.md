@@ -6,7 +6,7 @@ date_created: 2026-09-11
 date_modified: 2026-09-16
 sources:
   - "raw/self/twitter/archive.jsonl"
-  - "raw/self/twitter/tweet-archive.xlsx"
+  - "raw/twitter/tweet-archive.csv"
   - "raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2026-07-20).html"
   - "kb/entities/hasan-piker.md"
 tags: [politics, ideology, digital-footprint]

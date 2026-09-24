@@ -41,7 +41,7 @@ chart:
         "22": 0
         "23": 0
 sources:
-  - intake/events.jsonl
+  - testimony/events.jsonl
 connections:
   - page: wiki/health/cocaine
     type: evidenced-by
