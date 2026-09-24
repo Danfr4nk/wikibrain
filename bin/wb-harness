@@ -1,0 +1,609 @@
+#!/usr/bin/env python3
+"""bin/wb-harness — build the WikiBrain Harness derived presentation indexes.
+
+Read-only over wiki/ and kb/. Never modifies corpus data. Emits static JSON
+indexes (presentation layer, not knowledge) plus copies the harness/ app
+source into the site output directory.
+
+Indexes:
+  data/page-graph.json      nodes + typed edges (ASSOCIATIVE/SEMANTIC/EVIDENCE)
+  data/evidence-index.json  per-page kb cite coverage
+  data/search-adapter.json  compact client-side search index
+  data/timeline.json        parsed master timeline events
+
+Every artifact carries generated_from_commit / generated_at / source_paths
+(data ownership: derived presentation index, not authoritative knowledge).
+
+Usage:
+  python3 bin/wb-harness [--repo-root .] [--out site/harness] [--commit SHA]
+"""
+import argparse
+import datetime as dt
+import html as _html
+import json
+import os
+import re
+import shutil
+import subprocess
+import sys
+
+try:
+    import tomllib
+except ImportError:  # Python < 3.11
+    tomllib = None
+
+# --------------------------------------------------------------------------
+# Tolerant frontmatter parser (YAML subset as used across wiki/).
+# Handles: key: scalar | key: [flow, list] | key: (block list of scalars or
+# maps) | key: (block map). Counts pages it cannot parse; never crashes.
+# --------------------------------------------------------------------------
+
+FM_FAILS = []
+
+
+def _unquote(s):
+    s = s.strip()
+    if len(s) >= 2 and s[0] in "\"'" and s[-1] == s[0]:
+        inner = s[1:-1]
+        if s[0] == '"':
+            inner = inner.replace('\\"', '"').replace("\\\\", "\\")
+        return inner
+    return s
+
+
+def _split_flow(s):
+    parts, cur, depth, q = [], "", 0, None
+    for ch in s:
+        if q:
+            cur += ch
+            if ch == q:
+                q = None
+        elif ch in "\"'":
+            q = ch
+            cur += ch
+        elif ch in "[{":
+            depth += 1
+            cur += ch
+        elif ch in "]}":
+            depth -= 1
+            cur += ch
+        elif ch == "," and depth == 0:
+            parts.append(cur)
+            cur = ""
+        else:
+            cur += ch
+    parts.append(cur)
+    return parts
+
+
+def _scalar(s):
+    s = s.strip()
+    if s in ("~", "null", "Null", "NULL", ""):
+        return None
+    if s.startswith("[") and s.endswith("]"):
+        return [_scalar(p) for p in _split_flow(s[1:-1]) if p.strip() != ""]
+    if len(s) >= 2 and s[0] in "\"'" and s[-1] == s[0]:
+        return _unquote(s)
+    return s
+
+
+def parse_frontmatter(text):
+    """Return (dict, body). Empty dict + full text when no/invalid block."""
+    m = re.match(r"\A---[ \t]*\n(.*?)\n---[ \t]*\n?", text, re.S)
+    if not m:
+        return {}, text
+    raw, body = m.group(1), text[m.end():]
+    out, stack = {}, []  # stack of (indent, container)
+    lines = raw.split("\n")
+    i = 0
+    try:
+        i = _parse_block(lines, 0, 0, out)
+    except Exception as e:  # noqa: BLE001 — counted, never fatal
+        FM_FAILS.append(str(e)[:80])
+        return {}, text
+    return out, body
+
+
+def _indent_of(line):
+    return len(line) - len(line.lstrip(" "))
+
+
+def _parse_block(lines, i, base_indent, container):
+    n = len(lines)
+    while i < n:
+        line = lines[i]
+        if not line.strip() or line.strip().startswith("#"):
+            i += 1
+            continue
+        ind = _indent_of(line)
+        if ind < base_indent:
+            break
+        stripped = line.strip()
+        if stripped.startswith("- "):
+            # list item inside a list container
+            item_ind = ind
+            item_text = stripped[2:].strip()
+            item = {}
+            if item_text and ":" in item_text and not item_text.startswith("["):
+                k, v = item_text.split(":", 1)
+                item[k.strip()] = _scalar(v)
+            elif item_text:
+                # scalar list item
+                if isinstance(container, list):
+                    container.append(_scalar(item_text))
+                    i += 1
+                    continue
+                else:
+                    break
+            else:
+                pass  # "- " alone: map follows on next lines
+            i += 1
+            # consume deeper-indented key: value lines into the item map
+            while i < n and lines[i].strip() and _indent_of(lines[i]) > item_ind:
+                sub = lines[i].strip()
+                if sub.startswith("- "):
+                    break
+                if ":" in sub:
+                    k, v = sub.split(":", 1)
+                    item[k.strip()] = _scalar(v)
+                    i += 1
+                else:
+                    break
+            if isinstance(container, list):
+                container.append(item if item else None)
+            else:
+                break
+            continue
+        if ":" in stripped:
+            k, v = stripped.split(":", 1)
+            k, v = k.strip(), v.strip()
+            # look ahead: nested block?
+            j = i + 1
+            while j < n and not lines[j].strip():
+                j += 1
+            if v == "" and j < n and _indent_of(lines[j]) > ind:
+                nxt = lines[j].strip()
+                if nxt.startswith("- "):
+                    child = []
+                    container[k] = child
+                    i = _parse_block(lines, j, _indent_of(lines[j]), child)
+                else:
+                    child = {}
+                    container[k] = child
+                    i = _parse_block(lines, j, _indent_of(lines[j]), child)
+                continue
+            else:
+                container[k] = _scalar(v)
+                i += 1
+                continue
+        i += 1
+    return i
+
+
+# --------------------------------------------------------------------------
+# Wikilink / cite extraction
+# --------------------------------------------------------------------------
+
+WIKILINK_RE = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]")
+CITE_RE = re.compile(r"(?<![\w/])(dat|src|pat|int|evt|syn|ent|con):([A-Za-z0-9][\w.\-]*)(?![\w])")
+FENCE_RE = re.compile(r"```.*?```", re.S)
+TRAIL_PUNCT = ".,;:)]}\"'”’"
+
+
+def strip_fences(text):
+    return FENCE_RE.sub("", text)
+
+
+def norm_page_id(raw):
+    t = raw.strip()
+    return "wiki/" + t.lower().replace(" ", "-")
+
+
+def resolve_wikilink(target, page_ids):
+    t = target.strip()
+    if t in page_ids:
+        return t
+    n = norm_page_id(t)
+    if n in page_ids:
+        return n
+    base = t.split("/")[-1].lower().replace(" ", "-")
+    cands = [p for p in page_ids if p.split("/")[-1].lower() == base]
+    if len(cands) == 1:
+        return cands[0]
+    return None
+
+
+def clean_cite_id(prefix, raw):
+    return prefix + ":" + raw.rstrip(TRAIL_PUNCT)
+
+# --------------------------------------------------------------------------
+# Relation family normalization (spec: normalize spelling/schema, keep original)
+# --------------------------------------------------------------------------
+
+FAMILY_MAP = {
+    "evidenced-by": "evidenced",
+    "evidences": "evidenced",
+    "caused-by": "caused",
+    "causes": "caused",
+}
+
+
+def family_of(rel):
+    return FAMILY_MAP.get((rel or "").strip().lower(), (rel or "").strip().lower())
+
+
+# --------------------------------------------------------------------------
+# Hub classification
+# --------------------------------------------------------------------------
+
+HUB_EXACT = {
+    "wiki/timeline/master-timeline",
+    "wiki/meta/digest",
+    "wiki/meta/recent-activity",
+    "wiki/meta/open-questions",
+}
+
+
+def hub_reason_for(pid):
+    if pid in HUB_EXACT:
+        return "named-hub"
+    if pid.endswith("/index"):
+        return "index-page"
+    if pid.startswith("wiki/share/"):
+        return "share-export"
+    return None
+
+
+# --------------------------------------------------------------------------
+# Timeline parsing
+# --------------------------------------------------------------------------
+
+TL_TIER = {"★": 1, "◆": 2, "·": 3}
+TL_ENTRY_RE = re.compile(r"^-\s*([★◆·])\s*\*\*([^*]+)\*\*\s*[—–-]\s*(.*)$")
+TL_BACK_RE = re.compile(r"^\s*↳\s*\[\[([^\]|]+)(?:\|[^\]]+)?\]\]\s*(?:·\s*(.*))?$")
+
+
+def parse_date_granularity(d):
+    d = d.strip()
+    if re.fullmatch(r"\d{4}-\d{2}-\d{2}", d):
+        return d, "day"
+    if re.fullmatch(r"\d{4}-\d{2}", d):
+        return d, "month"
+    if re.fullmatch(r"\d{4}", d):
+        return d, "year"
+    m = re.fullmatch(r"(?i)(spring|summer|fall|autumn|winter)\s+(\d{4})", d)
+    if m:
+        return m.group(2), "season"
+    return d, "year"
+
+
+def parse_timeline(path):
+    events = []
+    try:
+        text = open(path, encoding="utf-8", errors="replace").read()
+    except OSError:
+        return events
+    lines = text.split("\n")
+    n = 0
+    for i, line in enumerate(lines):
+        m = TL_ENTRY_RE.match(line)
+        if not m:
+            continue
+        tier = TL_TIER[m.group(1)]
+        date_raw = m.group(2).strip()
+        etext = m.group(3).strip()
+        date, gran = parse_date_granularity(date_raw)
+        quoted = "**" in m.group(3) or '"' in m.group(3) or '"' in m.group(3)
+        page, section = None, None
+        if i + 1 < len(lines):
+            b = TL_BACK_RE.match(lines[i + 1])
+            if b:
+                page = b.group(1).strip()
+                section = (b.group(2) or "").strip() or None
+        n += 1
+        events.append({
+            "id": f"tl-{n:05d}",
+            "date": date,
+            "granularity": gran,
+            "tier": tier,
+            "text": _html.unescape(re.sub(r"\*+", "", etext))[:600],
+            "quoted": quoted,
+            "page": page,
+            "section": section,
+        })
+    return events
+
+
+# --------------------------------------------------------------------------
+# Main build
+# --------------------------------------------------------------------------
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--repo-root", default=None)
+    ap.add_argument("--out", default=None)
+    ap.add_argument("--commit", default=None)
+    args = ap.parse_args()
+
+    root = os.path.abspath(args.repo_root or os.path.join(os.path.dirname(__file__), ".."))
+    out = os.path.abspath(args.out or os.path.join(root, "site", "harness"))
+    wiki_dir = os.path.join(root, "wiki")
+    kb_dir = os.path.join(root, "kb")
+
+    if args.commit:
+        commit = args.commit
+    else:
+        try:
+            commit = subprocess.run(["git", "rev-parse", "HEAD"], cwd=root,
+                                    capture_output=True, text=True).stdout.strip()
+        except Exception:  # noqa: BLE001
+            commit = "unknown"
+    stamp = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    meta = {"generated_from_commit": commit, "generated_at": stamp,
+            "source_paths": ["wiki/", "kb/"]}
+
+    # ---- 1. wiki pages ----
+    pages = {}  # id -> {fm, body, path}
+    for dirpath, _dirs, files in os.walk(wiki_dir):
+        for f in files:
+            if not f.endswith(".md"):
+                continue
+            p = os.path.join(dirpath, f)
+            pid = os.path.relpath(p, root)[:-3]
+            try:
+                text = open(p, encoding="utf-8", errors="replace").read()
+            except OSError:
+                continue
+            fm, body = parse_frontmatter(text)
+            pages[pid] = {"fm": fm, "body": body, "path": os.path.relpath(p, root)}
+    page_ids = set(pages)
+
+    # ---- 2. kb nodes ----
+    kb_nodes = {}      # cite id -> {id, node_type, title, claim, ...}
+    kb_by_num = {}     # (prefix, number) -> [ids]
+    if tomllib is not None:
+        for dirpath, _dirs, files in os.walk(kb_dir):
+            for f in files:
+                if not f.endswith(".md"):
+                    continue
+                p = os.path.join(dirpath, f)
+                try:
+                    text = open(p, encoding="utf-8", errors="replace").read()
+                except OSError:
+                    continue
+                m = re.match(r"\A\+\+\+\n(.*?)\n\+\+\+\n?", text, re.S)
+                if not m:
+                    continue
+                try:
+                    fm = tomllib.loads(m.group(1))
+                except Exception:  # noqa: BLE001
+                    continue
+                cid = fm.get("id")
+                if not cid or ":" not in cid:
+                    continue
+                prefix, rest = cid.split(":", 1)
+                num = rest.split("-")[0] if rest[:1].isdigit() else None
+                node = {
+                    "id": cid,
+                    "node_type": fm.get("type"),
+                    "title": fm.get("title"),
+                    "claim": (fm.get("claim") or "")[:500],
+                    "confidence": fm.get("confidence"),
+                    "created": fm.get("created"),
+                    "tags": fm.get("tags") or [],
+                    "path": os.path.relpath(p, root),
+                }
+                kb_nodes[cid] = node
+                if num:
+                    kb_by_num.setdefault((prefix, num), []).append(cid)
+
+    def resolve_cite(cid):
+        if cid in kb_nodes:
+            return cid, True, None
+        if ":" in cid:
+            prefix, rest = cid.split(":", 1)
+            num = rest.split("-")[0]
+            cands = kb_by_num.get((prefix, num), [])
+            if len(cands) == 1:
+                return cands[0], True, "shorthand"
+            if len(cands) > 1:
+                return None, False, "ambiguous-shorthand"
+        return None, False, "dead"
+
+    # ---- 3. graph ----
+    nodes = {}
+    edges = []
+    edge_idx = {}  # (source, target, class, relation) -> idx
+    evidence_index = {}
+    dead_links_total = 0
+    unresolvable_conns = 0
+
+    def add_edge(source, target, relation, relation_original, klass, provenance):
+        key = (source, target, klass, relation)
+        if key in edge_idx:
+            edges[edge_idx[key]]["frequency"] += 1
+            return
+        edge_idx[key] = len(edges)
+        edges.append({
+            "source": source, "target": target,
+            "relation": relation, "relation_original": relation_original,
+            "class": klass, "direction": "out",
+            "provenance": provenance, "strength": 0.0, "frequency": 1,
+        })
+
+    for pid, pg in pages.items():
+        fm, body = pg["fm"], strip_fences(pg["body"])
+        # wikilinks → ASSOCIATIVE
+        for m in WIKILINK_RE.finditer(body):
+            tgt = resolve_wikilink(m.group(1), page_ids)
+            if tgt is None or tgt == pid:
+                if tgt is None:
+                    dead_links_total += 1
+                    pg.setdefault("dead_link_count", 0)
+                    pg["dead_link_count"] += 1
+                continue
+            add_edge(pid, tgt, "wikilink", None, "ASSOCIATIVE", "body:wikilink")
+        # related: / synthesizes: → SEMANTIC
+        for field, rel in (("related", "related-to"), ("synthesizes", "synthesizes")):
+            for item in (fm.get(field) or []):
+                t = item if isinstance(item, str) else item.get("page") or item.get("target")
+                if not t:
+                    continue
+                t = t.strip().strip("[]")
+                if t in page_ids and t != pid:
+                    add_edge(pid, t, rel, rel, "SEMANTIC", f"frontmatter:{field}")
+                else:
+                    unresolvable_conns += 1
+        # connections: → SEMANTIC (typed)
+        conns = fm.get("connections") or []
+        if isinstance(conns, dict):
+            conns = []
+        for c in conns:
+            if not isinstance(c, dict):
+                continue
+            t = (c.get("page") or c.get("target") or "").strip().strip("[]")
+            rel_raw = (c.get("type") or c.get("relation") or "related-to")
+            if t in page_ids and t != pid:
+                add_edge(pid, t, family_of(rel_raw), rel_raw, "SEMANTIC",
+                         "frontmatter:connections")
+            else:
+                unresolvable_conns += 1
+        # kb cites → EVIDENCE
+        ev_items = []
+        for m in CITE_RE.finditer(body):
+            cid = clean_cite_id(m.group(1), m.group(2))
+            resolved_id, ok, how = resolve_cite(cid)
+            line = body[:m.start()].count("\n") + 1
+            if ok:
+                node = kb_nodes[resolved_id]
+                add_edge(pid, resolved_id, "cites", None, "EVIDENCE", "body:cite")
+                ev_items.append({
+                    "cite": cid, "resolved": True,
+                    "resolved_id": resolved_id,
+                    "node_type": node["node_type"], "node_title": node["title"],
+                    "claim": node["claim"], "confidence": node["confidence"],
+                    "created": node["created"], "tags": node["tags"],
+                    "source_location": f"{pid}#L{line}",
+                    "resolution": how or "exact",
+                })
+            else:
+                ev_items.append({
+                    "cite": cid, "resolved": False,
+                    "source_location": f"{pid}#L{line}",
+                    "resolution": how,
+                })
+        if ev_items:
+            evidence_index[pid] = ev_items
+
+    # ---- 4. timeline ----
+    tl_path = os.path.join(wiki_dir, "timeline", "master-timeline.md")
+    events = parse_timeline(tl_path)
+    chrono_pages = {e["page"] for e in events if e["page"]}
+
+    # ---- 5. nodes ----
+    out_deg = {}
+    in_deg = {}
+    for e in edges:
+        out_deg[e["source"]] = out_deg.get(e["source"], 0) + 1
+        in_deg[e["target"]] = in_deg.get(e["target"], 0) + 1
+
+    BASE_STRENGTH = {"SEMANTIC": 0.9, "EVIDENCE": 0.8, "ASSOCIATIVE": 0.6}
+    hub_ids = set()
+    for pid, pg in pages.items():
+        hr = hub_reason_for(pid)
+        if hr:
+            hub_ids.add(pid)
+    for e in edges:
+        s = BASE_STRENGTH[e["class"]]
+        if e["target"] in hub_ids:
+            s *= 0.3
+        if e["frequency"] > 3:
+            s *= 0.7
+        e["strength"] = round(s, 3)
+
+    # adjacency
+    adj_out, adj_in = {}, {}
+    for idx, e in enumerate(edges):
+        adj_out.setdefault(e["source"], []).append(idx)
+        adj_in.setdefault(e["target"], []).append(idx)
+
+    for pid, pg in pages.items():
+        fm = pg["fm"]
+        hr = hub_reason_for(pid)
+        title = fm.get("title") or pid.split("/")[-1].replace("-", " ")
+        nodes[pid] = {
+            "id": pid,
+            "title": title if isinstance(title, str) else str(title),
+            "domain": fm.get("domain"),
+            "page_type": fm.get("page_type"),
+            "tags": fm.get("tags") or [],
+            "aliases": fm.get("aliases") or [],
+            "date_start": fm.get("date_range_start"),
+            "date_end": fm.get("date_range_end"),
+            "hub": hr is not None,
+            "hub_reason": hr,
+            "out_degree": out_deg.get(pid, 0),
+            "in_degree": in_deg.get(pid, 0),
+            "evidence_count": len([x for x in evidence_index.get(pid, []) if x["resolved"]]),
+            "has_chronology": pid in chrono_pages or bool(fm.get("date_range_start")),
+            "dead_link_count": pg.get("dead_link_count", 0),
+            "outbound": adj_out.get(pid, []),
+            "inbound": adj_in.get(pid, []),
+        }
+
+    # ---- 6. search adapter ----
+    search = []
+    for pid, pg in pages.items():
+        n = nodes[pid]
+        sample = re.sub(r"\s+", " ", re.sub(r"[#*`>\[\]()]", "", pg["body"][:400]))[:200]
+        search.append({
+            "id": pid, "title": n["title"], "aliases": n["aliases"],
+            "domain": n["domain"], "page_type": n["page_type"],
+            "tags": n["tags"], "rel_count": n["out_degree"] + n["in_degree"],
+            "evidence": n["evidence_count"] > 0, "chrono": n["has_chronology"],
+            "sample": sample,
+        })
+    search.sort(key=lambda s: -s["rel_count"])
+
+    # ---- 7. write ----
+    data_dir = os.path.join(out, "data")
+    os.makedirs(data_dir, exist_ok=True)
+
+    def dump(name, payload):
+        with open(os.path.join(data_dir, name), "w", encoding="utf-8") as f:
+            json.dump(payload, f, ensure_ascii=False, separators=(",", ":"))
+
+    dump("page-graph.json", {**meta, "nodes": nodes, "edges": edges,
+                             "stats": {
+                                 "pages": len(nodes), "edges": len(edges),
+                                 "hubs": len(hub_ids),
+                                 "dead_wikilink_occurrences": dead_links_total,
+                                 "unresolvable_frontmatter_targets": unresolvable_conns,
+                                 "frontmatter_parse_failures": len(FM_FAILS),
+                                 "relation_families": FAMILY_MAP,
+                             }})
+    dump("evidence-index.json", {**meta, "pages": evidence_index})
+    dump("search-adapter.json", {**meta, "objects": search})
+    dump("timeline.json", {**meta, "source": "wiki/timeline/master-timeline.md",
+                           "events": events,
+                           "stats": {"events": len(events)}})
+
+    # ---- 8. copy app source ----
+    app_src = os.path.join(root, "harness")
+    if os.path.isdir(app_src):
+        for item in os.listdir(app_src):
+            s, d = os.path.join(app_src, item), os.path.join(out, item)
+            if os.path.isdir(s):
+                shutil.copytree(s, d, dirs_exist_ok=True)
+            else:
+                shutil.copy2(s, d)
+
+    print(f"wb-harness: {len(nodes)} nodes, {len(edges)} edges, "
+          f"{len(events)} timeline events, {len(kb_nodes)} kb nodes "
+          f"-> {out} (commit {commit[:7]})")
+    if FM_FAILS:
+        print(f"wb-harness: {len(FM_FAILS)} frontmatter parse failures (counted, skipped)")
+
+
+if __name__ == "__main__":
+    sys.exit(main())
