@@ -11,12 +11,12 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
-  - src:raw/self/message-csv/drive-sweep-20260911/MASTER_MESSAGES_DB_DUMP
-  - src:raw/self/dox-md/tom_kristin_master_dossier.md
-  - src:raw/self/dox-md/Gemini-_18.md
-  - src:raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - src:session-mining-2026-07-14
-  - src:session-mining-2026-08-10
+  - src:raw/self/message-csv/drive-sweep-20260911/MASTER_MESSAGES_DB_DUMP — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:raw/self/dox-md/tom_kristin_master_dossier.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:raw/self/dox-md/Gemini-_18.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:session-mining-2026-07-14 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:session-mining-2026-08-10 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/people/tom.md
   - wiki/work/bfs-foods.md

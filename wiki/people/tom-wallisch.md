@@ -5,8 +5,8 @@ status: active
 date_created: 2026-08-09
 date_modified: 2026-08-09
 sources:
-  - raw/self/captures/2026-08-09_122727_extreme-sports.md
-  - "raw/self/dox-md/_Freeskiing's Early 2000s Cultural Revolution .md"
+  - raw/self/captures/2026-08-09_122727_extreme-sports.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - "raw/self/dox-md/_Freeskiing's Early 2000s Cultural Revolution .md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [uniontown-era]
 infobox:
   name: "Tom Wallisch"
