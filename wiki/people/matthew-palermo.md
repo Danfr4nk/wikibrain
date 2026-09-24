@@ -8,7 +8,7 @@ date_modified: 2026-07-20
 date_range_start: 2018-08-25
 date_range_end: 2020-02-13
 sources:
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/matthewpalermo_nkpz90-e_g/message_1.html"
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/matthewpalermo_nkpz90-e_g/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [uniontown-era, grief, addiction-recovery]
 infobox:
   name: "Matthew Palermo"

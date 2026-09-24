@@ -7,12 +7,12 @@ status: active
 date_created: 2026-06-23
 date_modified: 2026-09-21
 sources:
-  - raw/self/dox-md/BFS_BOOTLOADER_v2.md
-  - raw/self/message-csv/imessage_7243228715_both_all_now.csv
-  - raw/self/message-csv/imessage_2124702449_both_2026-05-01_now.csv
-  - raw/self/message-csv/imessage_7243228715_both_2025-06-03_now.csv
-  - raw/self/dox-md/BFS Anita Quagmire strategy and legal exposure.md
-  - raw/self/chats/Drawer shortage dispute with assistant manager (1).md
+  - raw/self/dox-md/BFS_BOOTLOADER_v2.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_7243228715_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_2124702449_both_2026-05-01_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_7243228715_both_2025-06-03_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/BFS Anita Quagmire strategy and legal exposure.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/chats/Drawer shortage dispute with assistant manager (1).md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - kb/data/0936-marty-martin-bfs-employment-verified-and-unverified.md
 related:
   - wiki/work/bfs-foods
