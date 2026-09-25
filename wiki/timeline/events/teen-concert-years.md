@@ -6,7 +6,7 @@ aliases: ["teen concert years", "the itinerary"]
 status: stable
 knowledge: mixed
 date_created: 2026-07-16
-date_modified: 2026-08-26
+date_modified: 2026-09-25
 sources:
   - raw/interests/captures/2026-08-01_222556_concerts-update.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/interests/captures/2026-08-01_222556_concerts-researched.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -119,8 +119,10 @@ as informative as the confirmed ones.
 | 27 | Jack's Mannequin | ~2008 | Unknown | Orlando, FL | **Still open** |
 | 36 | Hey Monday | 2008 | Unknown | Orlando, FL | **Still open** |
 | 30 | Flight of the Conchords | 2009-04-08 | UCF Arena | Orlando, FL | Confirmed |
+| 37 | Electric Zoo | 2010-09-03 → 09-05 | Randall's Island | New York, NY | Festival, Labor Day weekend; attendance confirmed by his stage-at-dusk photo (2026-09-25); his video captures Diplo's tent set at the 2010 edition |
+| 38 | Diplo | ~2010 | R Bar | New York, NY | Tiny club set; his photo shows Diplo on decks w/ MacBook (2026-09-25) |
 | 13 | The Bamboozle 2011 | 2011-04-29 → 05-01 | New Meadowlands Stadium | East Rutherford, NJ | Lil Wayne, Mötley Crüe, TBS, A Day to Remember |
-| 21 | LCD Soundsystem — "final" show | 2011-04-02 | Madison Square Garden | New York, NY | Billed as last ever; reunited 2016 |
+| 21 | LCD Soundsystem — "final" show | 2011-04-02 | Madison Square Garden | New York, NY | Billed as last ever; reunited 2016; his arena photo corroborates attendance (2026-09-25) |
 | 23 | Bloc Party | 2012-08-07/09 | Terminal 5 | New York, NY | Three-night sold-out *Four* run (recalled as "Terminal 9") |
 | 31 | Flight of the Conchords — Oddball Comedy Festival (w/ Chappelle, Buress, Mulaney) | 2013-08-30 | First Niagara Pavilion | Burgettstown, PA | Confirmed |
 | 14 | Freddie Gibbs — "High Tide" 4/20 cruise (w/ Wiki, Kota the Friend) | 2019-04-20 | Hornblower Infinity Yacht | New York, NY | Boarded at 353 West St. |
