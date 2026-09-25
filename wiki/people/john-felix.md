@@ -3,7 +3,7 @@ domain: people
 page_type: entity
 status: active
 date_created: 2026-06-23
-date_modified: 2026-08-18
+date_modified: 2026-09-25
 date_range_start: 2016-02-12
 date_range_end: 2016-06-01
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -52,8 +52,10 @@ John Felix's thread (`+17249636738`, 59 messages, February–June 2016) is almos
 Whether Felix is a distinct person from the 2016 handle's owner is
 now the open question — the identification rests on a first name in two
 different sources and has not been resolved through the contact exports.
-"Elijah" is unidentified — a child in the household's orbit in 2016 and again,
-under the same name, at 463 Morgantown in February 2026.
+"Elijah" is identified — per Dan (2026-09-25), Elijah is Felix's son:
+the child in the household's orbit in 2016 ("feeding Elijah") and again,
+under the same name, at 463 Morgantown in February 2026 (homework before
+basketball practice).
 
 ## Related
 
