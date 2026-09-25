@@ -13896,6 +13896,76 @@
     "wiki/people/rick-frank.md"
    ],
    "poster_sha256": "3b674b9e566f5ae941b515e064a8bd5e41668ad8b8ed32bf71bafe2d295c4b85"
+  },
+  {
+   "id": "bedford-001",
+   "compressed_path": "wiki/media/bedford-living-room-2010.jpg",
+   "description": "Living room of 424 Bedford Ave under corner windows over Williamsburg rooftops: black leather couch, TV on stand, wooden radio cabinet, moving boxes still out (move-in era).",
+   "date": "2010",
+   "type": "photo",
+   "analysis_status": "embedded-2026-09-25",
+   "original_filename": null,
+   "share_url": null,
+   "linked_nodes": [
+    "wiki/timeline/periods/nyc-first-era-2010-2013.md"
+   ],
+   "poster_sha256": "0e0a48614d5db7fcaa5413fe64daf936baaf140a7f5b9d02668b89f424ed39a8"
+  },
+  {
+   "id": "bedford-002",
+   "compressed_path": "wiki/media/bedford-couch-gaming-2010.jpg",
+   "description": "Young man cross-legged on the black couch with a game controller, small calf tattoo; face is a profile view, face-tag inconclusive (unknown, runner-up dan 0.34) - presumed Dan on provenance, unverified.",
+   "date": "2010",
+   "type": "photo",
+   "analysis_status": "embedded-2026-09-25",
+   "original_filename": null,
+   "share_url": null,
+   "linked_nodes": [
+    "wiki/timeline/periods/nyc-first-era-2010-2013.md"
+   ],
+   "poster_sha256": "8044d75cb4ebb6b5ea4610c9657021e474d45ab964d2b6d2c45391749810613a"
+  },
+  {
+   "id": "bedford-003",
+   "compressed_path": "wiki/media/dan-alexis-concrete-2010-08-08.jpg",
+   "description": "Wet sidewalk concrete etched \"DAN (heart) ALEXIS\" and \"8-8-10\" - dated artifact, August 8, 2010, anchoring the couple in Williamsburg five months into the Bedford tenancy.",
+   "date": "2010-08-08",
+   "type": "photo",
+   "analysis_status": "embedded-2026-09-25",
+   "original_filename": null,
+   "share_url": null,
+   "linked_nodes": [
+    "wiki/timeline/periods/nyc-first-era-2010-2013.md"
+   ],
+   "poster_sha256": "2c4e90b50f7ea51293ccdd1f2cba8698809471a94c57f340d22ce65e7aaa7e44"
+  },
+  {
+   "id": "bedford-004",
+   "compressed_path": "wiki/media/bedford-living-room-wide-2010.jpg",
+   "description": "Second angle of the Bedford Ave living room: corner windows, floor lamp, dining counter with candle jar.",
+   "date": "2010",
+   "type": "photo",
+   "analysis_status": "embedded-2026-09-25",
+   "original_filename": null,
+   "share_url": null,
+   "linked_nodes": [
+    "wiki/timeline/periods/nyc-first-era-2010-2013.md"
+   ],
+   "poster_sha256": "48935cd8448bb5c2cd0343d0ac0f5a30deaea894c3139b363f5b6db541171b41"
+  },
+  {
+   "id": "bedford-005",
+   "compressed_path": "wiki/media/bedford-bathroom-2010.jpg",
+   "description": "Bathroom double-sink vanity; figure from behind in teal towel and green flip-flops, no face visible - provenance only.",
+   "date": "2010",
+   "type": "photo",
+   "analysis_status": "embedded-2026-09-25",
+   "original_filename": null,
+   "share_url": null,
+   "linked_nodes": [
+    "wiki/timeline/periods/nyc-first-era-2010-2013.md"
+   ],
+   "poster_sha256": "ba0bf7bbd3bba4263d0df234cc7f551c8b2d445bb193d03ed1a7edc4474d17ae"
   }
  ],
  "policy": "Originals are never committed to wikitest or RAWLOGS. This registry maps each item to its canonical location (Google Photos share URL or Drive path). Compressed derivatives for wiki entries live under media/<batch-slug>/ and are referenced from the src:/dat: nodes. Censorship rule (2026-09-12, Dan's directive): embedded derivatives showing nudity or sexual activity are pixelated/blurred before commit. The uncensored original stays at its canonical location and is never committed.",
