@@ -1,0 +1,68 @@
+{
+  "batch": "20260925-0645",
+  "pulled_at_utc": "2026-09-25T06:44:29Z",
+  "watermark_from": "2026-09-24T23:21:47.485Z",
+  "watermark_to": "2026-09-25T06:06:15.683+00:00",
+  "watermark_note": "watermark_to is the newest archived row; 174 sam-and-dan rows up to 2026-09-25T06:38:07.9+00:00 were held for curated selective archiving and are not reflected in the watermark",
+  "counts": {
+    "rows": 256,
+    "user": 88,
+    "assistant": 168,
+    "empty_body": 84,
+    "per_session": [
+      {
+        "session_id": "32bf731e-6e56-46c2-8a7d-ddc1cba857de",
+        "session_title": "𝗪𝗜𝗞𝗜𝗕𝗥𝗔𝗜𝗡",
+        "rows": 200
+      },
+      {
+        "session_id": "939ce73c-2891-403c-86d7-775916a88590",
+        "session_title": "Scrape personal data for Sammy",
+        "rows": 33
+      },
+      {
+        "session_id": "330fd51b-47e2-440a-a789-8c888cb9f459",
+        "session_title": "𝗣𝗜𝗖𝗦/𝗩𝗜𝗗 𝗚𝗘𝗡",
+        "rows": 12
+      },
+      {
+        "session_id": "82b7cfec-8a72-43f4-9b83-bad7f972a490",
+        "session_title": "𝗦𝗬𝗦𝗧𝗘𝗠",
+        "rows": 8
+      },
+      {
+        "session_id": "54f67e5f-7a43-4439-b32f-a1384d744120",
+        "session_title": "𝗧𝗛𝗘𝗥𝗔𝗣𝗬",
+        "rows": 2
+      },
+      {
+        "session_id": "1ebf14a3-85c5-4c01-8306-e8e0ff3d7685",
+        "session_title": "𝗡𝗢𝗧𝗜𝗙'𝗦",
+        "rows": 1
+      }
+    ]
+  },
+  "exclusions": {
+    "sam_and_dan": "selective — 174 rows held, curated file sam-and-dan-good-stuff.md instead (operator order 2026-09-25: 'write back the good stuff,' never the full transcript)",
+    "cumthread3": "0 rows in window (standing full-writeback exclusion; session 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853)"
+  },
+  "secrets_scan": {
+    "hits": 0,
+    "note": "regex sweep (api-key/password/token/secret patterns); 0 hits. Review not exhaustive — bodies may reference third-party contacts."
+  },
+  "phone_like_rows": 7,
+  "files": {
+    "chats.json": {
+      "sha256": "5400b6dda3bfc83bffec8d3cb7acdbfd6998f4a9ac642f5c222af1e4cd72d225",
+      "bytes": 102857
+    },
+    "chats.jsonl": {
+      "sha256": "c395888103b08977cb95a81b9e9724e5da69fb4626071193326b9828016d16f6",
+      "bytes": 95942
+    },
+    "sam-and-dan-good-stuff.md": {
+      "sha256": "374c2fa4888d0c4b69d5cc37728cc32c87b75a7613df84cd3a31cf16e66eca73",
+      "bytes": 2894
+    }
+  }
+}
