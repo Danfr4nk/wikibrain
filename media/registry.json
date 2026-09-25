@@ -13966,6 +13966,20 @@
     "wiki/timeline/periods/nyc-first-era-2010-2013.md"
    ],
    "poster_sha256": "ba0bf7bbd3bba4263d0df234cc7f551c8b2d445bb193d03ed1a7edc4474d17ae"
+  },
+  {
+   "id": "childhood-001",
+   "compressed_path": "wiki/media/dan-chris-benoit-1990s.jpg",
+   "description": "Group photo, late 1990s (nWo \"4 Life\" shirt, \"too sweet\" gesture): two adult men and three boys. Dan identifies the adult at right as Chris Benoit, his childhood hero; which boy is Dan unidentified. Dan's words: \"they say dont meeet your heroes but I thought mine was the sweetest guy.\"",
+   "date": "1990s",
+   "type": "photo",
+   "analysis_status": "embedded-2026-09-25",
+   "original_filename": null,
+   "share_url": null,
+   "linked_nodes": [
+    "wiki/places/seven-springs-childhood.md"
+   ],
+   "poster_sha256": "6011e424103742fbb445a58882320d3fa54c9335c6ab0e53d38f13d3c470cdb3"
   }
  ],
  "policy": "Originals are never committed to wikitest or RAWLOGS. This registry maps each item to its canonical location (Google Photos share URL or Drive path). Compressed derivatives for wiki entries live under media/<batch-slug>/ and are referenced from the src:/dat: nodes. Censorship rule (2026-09-12, Dan's directive): embedded derivatives showing nudity or sexual activity are pixelated/blurred before commit. The uncensored original stays at its canonical location and is never committed.",

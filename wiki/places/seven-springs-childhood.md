@@ -7,7 +7,11 @@ status: stable
 importance: critical
 knowledge: mixed
 date_created: 2026-09-24
-date_modified: 2026-09-24
+date_modified: 2026-09-25
+images:
+  infobox: wiki/media/dan-chris-benoit-1990s.jpg
+  library:
+    - wiki/media/dan-chris-benoit-1990s.jpg
 date_range: ["1988-11-01", "2005-11-01"]
 tags: [uniontown-era, childhood, identity-formation, family, extreme-sports]
 sources:
@@ -63,6 +67,26 @@ He was living it at the exact moment the culture around it detonated. The captur
 The cultural placement is not generic. This was the same scene that produced Tom Wallisch, the skier who would define freeskiing from 2007–2012, the SuperUnknown breakout, the 4Bi9 Media era. Wallisch showed up at Seven Springs "a few times a year" during Dan's adolescence and, in the capture's framing, "made a MESS of the park for a day" before deciding that the less-developed parks at Roundtop and Liberty were preferable for their scene culture — the vibrant collection of people that became 4Bi9 Media, the film crew that would take the sport by storm. Dan did not know Wallisch; the record is explicit that the connection is turf, not friendship — he has separately researched and discussed Wallisch at length with an AI as adult interest. But the turf matters. His adolescence played out inside the early-2000s cultural revolution of freeskiing, on one of its named mountains, during one of its documented inflection decades. The mainstream arc of skate culture — Tony Hawk's 1999 900 as the inflection point, the decade-plus of commercial ubiquity that followed — is the exact window his obsession fell inside. He was a grom in a scene that was becoming the thing it is now, and he was there on the weeks, on the condo, inside it.
 
 What this obsession prefigures is visible in totality. The ski years are the first instance of the architecture that would repeat across the music, the agent-building, the entire obsessional structure of his adult life: find a subculture at a hinge moment, absorb it completely, let it organize the calendar and the social world, then leave it when the arc completes. The [[wiki/work/nemacolin-caddie-years|skiing-to-golf continuity]] is the physical-life version of the same instinct — the trained body, the sport-as-world — but the record is careful: golf (2016–2019) is an adult acquisition reignited by the Nemacolin caddying job, and the two eras share "no documented skill transfer." What transferred was the structure, not the skill. The kid who spent six years configuring his body toward a performance ceiling on terrain parks was already the adult who would later treat any domain as something to be lived inside at full saturation.
+
+## The hero
+
+Before the ski years, there was wrestling. The corpus holds exactly one
+photograph of it: a group shot from the late 1990s — datable by the nWo "4
+Life" shirt and the era's "too sweet" hand gesture — of two adult men and
+three boys. Dan supplied it on 2026-09-25 with no caption beyond "non
+sequitor," then identified the adult at right as his childhood hero:
+**Chris Benoit**, the Montreal-born WCW star. Which of the three boys is
+Dan is unidentified in the record.
+
+![With Chris Benoit, late 1990s](wiki/media/dan-chris-benoit-1990s.jpg)
+
+His verdict on the meeting, in his own words: "Well they say dont meeet
+your heroes but I thought mine was the sweetest guy." The anecdote carries
+its weight from what came later, and the wiki states it plainly: in June
+2007 Benoit killed his wife and son and then himself in their Fayetteville,
+Georgia home. The hero of the photograph and the man of June 2007 are the
+same person. Dan met the first one. The record holds both facts without
+reconciling them, because they do not reconcile — that is the story.
 
 ## The condo-neighbor economy
 
