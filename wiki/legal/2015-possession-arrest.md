@@ -7,7 +7,7 @@ status: closed
 knowledge: mixed
 importance: high
 date_created: 2026-08-03
-date_modified: 2026-09-03
+date_modified: 2026-09-24
 date_range_start: 2015-02-17
 date_range_end: 2016-02-17
 sources:
@@ -26,7 +26,7 @@ connections:
     claim: "The blotter fixes the arrest to February 2015 while that page dates the move here to January 2015, which is incompatible with Dan's account of the night happening before the move and while Alexis was still being concealed at 337."
   - page: wiki/people/christo-coan
     type: contradicts
-    claim: "His October 2017 thread carries Dan saying 'I already got a DUI', which cannot be reconciled with this page's account of an arrest that produced no DUI and with the operator's statement that this was his first and only real arrest."
+    claim: "His October 2017 thread carried what read as Dan saying 'I already got a DUI', irreconcilable with this page's account of an arrest that produced no DUI and with the operator's statement that this was his first and only real arrest — resolved 2026-09-24: the line belongs to Christo Coan (dat:0031), and Dan confirmed he has never had a DUI."
   - page: wiki/mind/synthesis/the-embedded-objective
     type: evidences
     claim: "The corpus's densest record of acquiring an assigned outcome and its thinnest record of serving one: five dated contemporaneous events for the ARD deal against a single retrospective clause for the six months of probation."
@@ -270,6 +270,8 @@ switch to [[wiki/people/annie-ulmer|Annie]]
 > first and only real arrest" sharpens rather than settles the puzzle: a DUI
 > can be issued by citation without a booking arrest, which would make both
 > claims compatible, but nothing in the corpus dates or locates it.
+
+> **CORRECTED 2026-09-24:** The contradiction above is resolved. The October 2017 line belongs to Christo Coan per the wiki's speaker-structure parse (dat:0031), and Dan confirmed on 2026-09-24 that he has never had a DUI — the February 2015 possession (residue) arrest, ARD granted February 2016, is his first and only arrest. There is no undocumented DUI.
 
 ## What it left behind
 

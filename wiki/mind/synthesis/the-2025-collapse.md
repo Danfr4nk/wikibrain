@@ -873,9 +873,11 @@ The prelude matters because it separates the hinge's *causes* (2024) from its *m
 The third rotation began: her wages carrying the $2,700/month renewal and the accumulating arrears.
 The employment block that had structured the days since March 2021 started dissolving six months before the hinge.
 
-**June 29, 2024: DUI #2.** Guilty pleas; the second DUI after February 2019 **[ATTESTED — agent-D; single-source testimony-grade]**. No contemporaneous message corroboration for either DUI date exists in the corpus. An October 19, 2017 "hell yeah I already got a DUI" line would predate both — but the wiki's own speaker-structure parse (dat:0031) reattributes that line to Christo Coan, a correction the christo-coan page has not yet absorbed, so the contradiction's premise is itself contested inside the wiki. Both dates are unconfirmed pending docket verification; the tension is preserved here, not resolved.
-The legal hinge's echo — 2015's arrest preserved the record; 2024's pleas spent some of that preservation.
-A data point for the pressure, not a cause of the collapse.
+> **CORRECTED 2026-09-24:** An earlier version of this section stated that Dan received a second DUI on June 29, 2024 (and a first in February 2019). Dan confirmed on 2026-09-24 that he has never had a DUI — his only arrest was the February 2015 possession (residue) matter, which received ARD in February 2016. The 2019-02-03 and 2024-06-29 dates are Jerel Wayne Coles's FOREWARN record, misattributed to Dan via agent-D extraction. The October 2017 "already got a DUI" line is likewise not his: the wiki's speaker-structure parse (dat:0031) attributes it to Christo Coan. The original claim is preserved below as superseded.
+
+**June 29, 2024: DUI #2** **[SUPERSEDED 2026-09-24]** — not Dan's DUI; see correction above. Guilty pleas; the second DUI after February 2019 [ATTESTED — agent-D; single-source testimony-grade]. No contemporaneous message corroboration for either DUI date exists in the corpus. An October 19, 2017 "hell yeah I already got a DUI" line would predate both — but the wiki's own speaker-structure parse (dat:0031) reattributes that line to Christo Coan, a correction the christo-coan page has not yet absorbed, so the contradiction's premise is itself contested inside the wiki. Both dates are unconfirmed pending docket verification; the tension is preserved here, not resolved.
+The legal hinge's echo — the possession arrest preserved the record. [The "pleas" clause that followed here is **SUPERSEDED** with the DUI claim above.]
+A data point for the pressure, not a cause of the collapse. [Also **SUPERSEDED** — there was no such DUI.]
 
 **August 2024: the affair begins.** The [[wiki/people/eli|Eli]] relationship's earliest attested start **[ATTESTED — the incident page]**.
 Inside the sole-earner window, inside the tenancy's final half-year, under the same roof.
