@@ -68,25 +68,29 @@ The cultural placement is not generic. This was the same scene that produced Tom
 
 What this obsession prefigures is visible in totality. The ski years are the first instance of the architecture that would repeat across the music, the agent-building, the entire obsessional structure of his adult life: find a subculture at a hinge moment, absorb it completely, let it organize the calendar and the social world, then leave it when the arc completes. The [[wiki/work/nemacolin-caddie-years|skiing-to-golf continuity]] is the physical-life version of the same instinct — the trained body, the sport-as-world — but the record is careful: golf (2016–2019) is an adult acquisition reignited by the Nemacolin caddying job, and the two eras share "no documented skill transfer." What transferred was the structure, not the skill. The kid who spent six years configuring his body toward a performance ceiling on terrain parks was already the adult who would later treat any domain as something to be lived inside at full saturation.
 
-## The hero
+## A photo with Chris Benoit
 
-Before the ski years, there was wrestling. The corpus holds exactly one
-photograph of it: a group shot from the late 1990s — datable by the nWo "4
-Life" shirt and the era's "too sweet" hand gesture — of two adult men and
-three boys. Dan supplied it on 2026-09-25 with no caption beyond "non
-sequitor," then identified the adult at right as his childhood hero:
-**Chris Benoit**, the Montreal-born WCW star. Which of the three boys is
-Dan is unidentified in the record.
+The corpus holds one photograph of the childhood wrestling years: a group
+shot from the late 1990s — datable by the nWo "4 Life" shirt and the era's
+"too sweet" hand gesture — of two adult men and three boys. Dan supplied
+it on 2026-09-25 with no caption beyond "non sequitor," then identified the
+adult at right as **Chris Benoit**, the Montreal-born WCW star. Which of
+the three boys is Dan is unidentified in the record.
 
 ![With Chris Benoit, late 1990s](wiki/media/dan-chris-benoit-1990s.jpg)
 
-His verdict on the meeting, in his own words: "Well they say dont meeet
-your heroes but I thought mine was the sweetest guy." The anecdote carries
-its weight from what came later, and the wiki states it plainly: in June
-2007 Benoit killed his wife and son and then himself in their Fayetteville,
-Georgia home. The hero of the photograph and the man of June 2007 are the
-same person. Dan met the first one. The record holds both facts without
-reconciling them, because they do not reconcile — that is the story.
+What followed was a bit, and the wiki records it as one. Asked who the man
+was, Dan dealt out a riddle — "a wrestler who is famous for using his home
+gym equipment in some…interesting ways," Canadian, "well, he *was*
+Canadian," Québécois — and when the answer landed ("It's Chris Benoit
+lol") he explained the joke: "I just wanted to call this guy who killed
+his family a 'sweetheart' lol." The "don't meet your heroes" framing and
+the "sweetest guy" verdict were the irony, not a childhood memory. The
+wiki does not record Benoit as Dan's childhood hero; it records a 2026
+dark joke built on a photograph.
+
+The coda is public record, stated plainly: in June 2007 Benoit killed his
+wife and son and then himself in their Fayetteville, Georgia home.
 
 ## The condo-neighbor economy
 
