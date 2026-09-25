@@ -77,7 +77,7 @@ connections:
     claim: "A December 13, 2017 message on Jamie's thread is the earliest of three tellings of the Zac Shumar arrest and independently places the Alexis/Annie cam encounter inside her Feb–Oct 2017 bail window rather than during her incarceration."
   - page: wiki/self/tattoos
     type: evidenced-by
-    claim: "Dan's first tattoo, dated to 23 January 2010, is Alexis's initial — permanent commitment eight weeks after they met at Thanksgiving 2009, and five weeks before he left Florida for the city she was in."
+    claim: "Dan's first tattoo, dated to 23 January 2010, is Alexis's initial — permanent commitment eight weeks after they met at Thanksgiving 2009, and five weeks before he left Florida for the city she was in. [SUPERSEDED 2026-09-24: Dan revised this testimony the same night — Twitter pre-history months before Thanksgiving, a possible earlier in-person meeting, a dated 2009-07-01/02 meeting with EXIF photo, and her first night in Florida 2009-12-02 (EXIF). The Thanksgiving-2009 meeting dating is demoted to earlier testimony. See wiki/timeline/periods/full-sail-2008-2010 for the full reconstruction.]"
   - page: wiki/timeline/periods/2010s
     type: component-of
     claim: "Alexis is present for the whole of NYC-1 — Brooklyn through the Upper East Side, the Bridge Cafe job through Hurricane Sandy — and is the only continuous personal thread the decade's first half has."
@@ -107,10 +107,10 @@ connections:
     claim: "Dan typed her INFP/ISFP 'Idealist' in the same July 9-31, 2013 self-typology batch that typed Franki ESFP — a reading of the six-year partner that had been sitting on the five-day rebound's page instead of here."
   - page: wiki/timeline/periods/full-sail-2008-2010
     type: evidences
-    claim: "A 2026-08-27 operator capture narrows that page's own stated gap — no dated record placed the Danielle-ends/Alexis-begins sequence to specific weeks — by dating the meeting to a Thanksgiving 2009 trip home, a few months after the August 2009 graduation."
+    claim: "A 2026-08-27 operator capture narrows that page's own stated gap — no dated record placed the Danielle-ends/Alexis-begins sequence to specific weeks — by dating the meeting to a Thanksgiving 2009 trip home, a few months after the August 2009 graduation. [SUPERSEDED 2026-09-24: Dan revised this testimony the same night — Twitter pre-history months before Thanksgiving, a possible earlier in-person meeting, a dated 2009-07-01/02 meeting with EXIF photo, and her first night in Florida 2009-12-02 (EXIF). The Thanksgiving-2009 meeting dating is demoted to earlier testimony. See wiki/timeline/periods/full-sail-2008-2010 for the full reconstruction.]"
   - page: wiki/health/chemical-architecture
     type: causes
-    claim: "Alexis supplies thirty Roxicet pills over the Thanksgiving weekend they meet, restarting the opiate use that page's own timeline says was 'truly kicked' at that point — the previously unnamed final active-use episode immediately preceding the February 17, 2010 Suboxone stabilization about twelve weeks later."
+    claim: "Alexis supplies thirty Roxicet pills over the Thanksgiving weekend they meet, restarting the opiate use that page's own timeline says was 'truly kicked' at that point — the previously unnamed final active-use episode immediately preceding the February 17, 2010 Suboxone stabilization about twelve weeks later. [SUPERSEDED 2026-09-24: Dan revised this testimony the same night — Twitter pre-history months before Thanksgiving, a possible earlier in-person meeting, a dated 2009-07-01/02 meeting with EXIF photo, and her first night in Florida 2009-12-02 (EXIF). The Thanksgiving-2009 meeting dating is demoted to earlier testimony. See wiki/timeline/periods/full-sail-2008-2010 for the full reconstruction.]"
   - page: wiki/people/zach-clingan
     type: co-occurs
     claim: "A Christmas 2009 party at Suz's house is the dated origin of Dan's 'arch rival' framing of Clingan — an accusation that Alexis had been sexually involved with him in his car outside the party ends their friendship on the spot, five years before either the 2014 'drug people' taxonomy or the December 2015 'THAT is who introduced me to drugs' outburst."
