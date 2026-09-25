@@ -3,7 +3,7 @@ domain: interests
 page_type: entity
 status: active
 date_created: 2026-06-22
-date_modified: 2026-08-26
+date_modified: 2026-09-25
 sources:
   - "raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
@@ -22,6 +22,7 @@ related:
   - wiki/mind/psychosexual/developmental-origins
   - wiki/mind/concepts/lyric-qualifier
 changelog:
+  - 2026-09-25: Dan identified himself as the kid in the BAPE hood in the Getty TRL crowd photo (Feb 6 2007) and the tattooed forearm in the Buffalo "Schrute Farms" fan video (Nov 19 2007); added both to the touring-years record.
   - 2026-07-16: Major expansion. Added the 2007 touring record (3 shows + TRL taping), the Buffalo "Schrute Farms" secret show + Take-This-To-Your-Grave-in-full ChatGPT confirmation, the Folie-à-Deux cutoff / post-hiatus disavowal, and the teen-identity framing. Retained the deep-cut analysis.
   - 2026-07-14: Full rewrite from stub. Added track-specific analysis, deep-cut pattern, self-mythology reading.
 tags: [personality-profile, nyc-era, digital-footprint]
@@ -97,7 +98,12 @@ page.
 The Feb 6 2007 TRL appearance was the rollout gimmick for *Infinity On
 High*: the band taped the Total Request Live broadcast on the album's
 release day, part of a 3-city / 3-show release-week stunt. Dan was in the
-studio for it. He was still engaging the record twelve years later —
+studio for it — and he is visible in the Getty crowd photograph from the
+taping, the kid in the colorful BAPE hood front and center. He identified
+himself in the photo on 2026-09-25, via the through-line of his own
+pictures from the era: a BAPE shark-hoodie portrait (face covered by the
+hood) and fan video from the Buffalo show nine months later showing the
+same Baby Milo tattoo ink. He was still engaging the record twelve years later —
 "i'm listening to infinity on high and its like a really good album"
 (2019-09-27) — but note the title he reaches for is the 2007 album, not
 anything post-hiatus.
@@ -115,7 +121,11 @@ Grave] was played in its entirety." Whether or not ChatGPT was right, the
 instinct — to treat a 2007 basement show as a unique historical data
 point worth running through an LLM — is exactly the forensic-archival
 reflex the rest of the wiki documents. He was there; it was the only full
-play-through of their debut album ever; he logged it.
+play-through of their debut album ever; he logged it. Fan-shot video of
+the Mohawk Place set (circulating as "Secret Fall Out Boy Show 11/19
+Buffalo") catches his tattooed forearm reaching toward the stage — the
+Baby Milo ink confirming the same BAPE-headed teenager from the TRL
+crowd photo nine months earlier, per his own 2026-09-25 identification.
 
 ## Where the love cuts off
 
