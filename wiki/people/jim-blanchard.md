@@ -5,9 +5,13 @@ status: stable
 knowledge: documented
 date_created: 2026-08-10
 date_modified: 2026-09-24
-date_range_start: 2019-02-25
+date_range_start: 2019-02-23
 date_range_end: 2025-03-30
 sources:
+  - raw/self/gmail/2019-02_leasing-thread-1691b3c13e2a1850.json — listing video email + Dan's intro reply, 2019-02-23 (CC alulmer28@gmail.com)
+  - raw/self/gmail/2019-02_leasing-thread-1692044921eff3eb.json — scanned applications via Bond NY office, 2019-02-24
+  - raw/self/gmail/2019-02_leasing-thread-1692f76dd7f53faf.json — "Check amounts" thread: $13,800 deposit, $11,500 rent, $2,300 agency fee, move-in coordination, 2019-02-27/28 (+ one 2020-02-06 bump)
+  - raw/self/gmail/2019-02_leasing-thread-1698539514b819c8.json — "Thank You Again," 2019-03-16
   - raw/imessage/messages-part2-2019-2026.csv — Dan↔Jim dyad, +19173631636, 54 rows, 2019-03-01 → 2023-12-28
   - workspace/user/files/suzanne_imessage_all_2013-2026.txt — Suz↔Jim dyad, +19173631636, 205 rows, 2020-09-07 → 2025-03-30
   - raw/facebook/export-20260908-a/facebook-ihatedanfrank/gdocs/1l3W5TFbTn2z7TIMbgo34vU0WSMfiRXVxWKmqLWyKc9s.from-gdoc.txt — address-book card "James Blanchard / jtblanchard66@gmail.com"
@@ -20,7 +24,7 @@ infobox:
   location: nyc
   relationship_to_dan: contact
   role: "Unofficial super and rental broker, 307 E 76th St (his own words, 2025-02-08)"
-  first_contact: 2019-02-25
+  first_contact: 2019-02-23
   handles: ["+19173631636", "jtblanchard66@gmail.com"]
   known_for: "The building's day-to-day man across the entire six-year tenancy — move-in logistics, leak checks, water shutoffs, exterminator scheduling, building-wide tenant notices — and the warmest third-party relationship in the 76th Street record"
 connections:
@@ -97,13 +101,39 @@ then. Later that afternoon: "We are working the window." By 15:44 he's
 forwarding the next storm watch. This is the register of the entire
 relationship: practical, warm, slightly old-school.
 
-Whether Jim was the broker who actually placed them is strongly
-suggested and never stated outright. "I only rent to really nice people
-these days. I turn 80% of my potential clients away," he told Suz on
-2020-09-17 — the sentence of a man describing his own tenant selection —
-and Dan's pre-move-in "James 'Jim' is the guy we have been talking to"
-puts Jim at the center of the apartment hunt. No message says "Jim found
-us the apartment." It stays a high-confidence inference, not a fact.
+Jim was the broker who placed them — stated outright, not inferred. The
+paper trail runs a full week before the first text message. **2019-02-23
+11:41 ET**, Jim emails Dan the listing: *"Video: E 76th 1st/2nd 1 bdrm
+W/D $2300"* with a YouTube walkthrough — pre-war, pet friendly, four
+flights up, south-facing, exposed brick, washer/dryer in the unit,
+*"Landlord will accept 1 yr up front. $100 application fee each."*
+Annie is CC'd from the first message (alulmer28@gmail.com). Dan's reply
+that afternoon is the introduction — *"Dan Frank (or Annie's boyfriend
+to most people)"* — laying out the pitch: years in NYC 2010–2014, 424
+Bedford in Williamsburg, a year on 90th and Lex, no credit built yet,
+but investment money available now to fund the move. **2019-02-24**, Jim
+forwards two scanned application PDFs from the Bond New York office
+scanner (postman@bondnewyork.com) and Dan returns the packaged
+application the same day, thanking Jim for *"sticking your neck out to
+keep the apartment available for us over the weekend"* — Jim had held
+the unit for them. By that evening: *"All set guys."* **2019-02-27/28**,
+the "Check amounts" thread fixes the money: $13,800 security deposit
+and $11,500 (six months' rent minus the check Dan had already brought
+Jim) payable to **John Paci Jr.**, rent every other month starting
+5/1/19 — plus a $2,300 cashier's check to **James Blanchard** for the
+agency fee: *"I don't charge the usual 15% fee."* Dan's thanks name the
+mechanism plainly: Jim *"not only saved us by both keeping it available
+for us but also by vouching for us with John."* Move-in is set for
+Saturday 2019-03-02 at noon; Jim notes John will be at the building
+around 9:30 (*"He lives about an hour away"*), and closes the thread
+with *"Let's use text from now on. Much easier for older people like
+me."* — which is why the iMessage dyad opens March 1. A 2019-03-16
+"Thank You Again" email closes the arc. The earlier "high-confidence
+inference" framing is retired: the Gmail thread states the placement
+outright. "I only rent to really nice people these days. I turn 80% of
+my potential clients away," he told Suz on 2020-09-17 — the sentence of
+a man describing his own tenant selection, now corroborated by the
+paper he left behind.
 
 ## The building's day-to-day man
 
@@ -303,8 +333,8 @@ the super arrangement ended — is unknown. The February 2025
 landlord/tenant court appearance is unexplained. The specific grievance
 behind "worlds worst" has no incident behind it in the record; the one
 question worth putting to the operator directly is "what did he do?"
-His DOB (~1966) is inferred, not documented. Whether he was the broker
-who placed Dan and Annie is strongly suggested but never stated. The
+His DOB (~1966) is inferred, not documented. The February 2025
+landlord/tenant court appearance is unexplained.
 "stuck on the roof" week before 2020-09-07 is documented only via Jim
 and Paci's cross-corroborating texts — what Dan was doing on the roof
 is not. Dozens of photo/video attachments in both threads were not
@@ -321,3 +351,13 @@ mentions were attributed by handle and thread context only — Jim
 Shaffer (childhood friend, `+14125139408`) is a separate, cleanly
 separable thread, and post-2025 stray "Jim" mentions that cannot be
 tied to `+19173631636` were excluded.
+
+2026-09-24 repair: the 2026-09-24 full rewrite was built from message
+corpora, the iPhone gapfills, Voice takeout, and public records only —
+Gmail was never searched, and the entry's own Gaps section hedged the
+placement as "strongly suggested but never stated." A corpus-sweep
+(`bin/corpus-sweep --terms "paci,blanchard"`) run for this repair
+surfaced the February 2019 leasing thread, now archived at
+raw/self/gmail/2019-02_leasing-thread-*.json: the broker placement is
+stated outright, and the hedge is retired. `first_contact` corrected
+2019-02-25 → 2019-02-23 (the listing email).

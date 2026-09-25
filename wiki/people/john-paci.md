@@ -8,6 +8,8 @@ date_modified: 2026-09-24
 date_range_start: 2019-02-01
 date_range_end: 2025-07-25
 sources:
+  - raw/self/gmail/2019-02_leasing-thread-1692f76dd7f53faf.json — "Check amounts" thread: placement terms, payee "John Paci Jr", 2019-02-27/28
+  - raw/self/gmail/2019-02_leasing-thread-1691b3c13e2a1850.json — listing video email + Dan's intro reply, 2019-02-23
   - raw/self/captures/2026-08-13_john-paci-staged-eviction-operator-decode.md — operator decode (re-archived 2026-09-24 from Drive Doc 1geyW_mHKYvS-adgOUP0yl1QggZ6g5t0RDUtrQtw0Vjs; original live-repo path was dead)
   - raw/self/captures/2026-08-10_014938_307-76th-cast-roach-bombing.md — operator capture (re-archived 2026-09-24; original live-repo path was dead)
   - raw/imessage/messages-part2-2019-2026.csv — dyadic Paci thread, +16314558185, 26 rows (13 Sent / 13 Received), 2024-03-04 → 2025-07-25
@@ -123,6 +125,30 @@ experiences as a civilian. **John is one of the most outstanding
 people/ landlords I have come across in all these years.** I love Dan
 and Anne, they are a great young couple." ("force" is Jim's
 speech-to-text for "for a.")
+
+### The placement terms, February 2019
+
+The Gmail thread closes the article's old "mailbox was not searched"
+gap and fixes the tenancy's original money in John's own payee name.
+2019-02-27, Dan to Jim ("Check amounts"): **$13,800 security deposit**
+and **$11,500** — six months' rent minus the check Dan had already
+brought Jim — both as cashier's checks **payable to "John Paci Jr"**,
+with rent running **every other month starting 5/1/19**. At $2,300 a
+month (the listing's headline figure), the arithmetic is exact: six
+months' deposit, six months' rent of which $2,300 was already in Jim's
+hands. Jim confirmed the figures and added his own: a $2,300 cashier's
+check to James Blanchard, *"I don't charge the usual 15% fee."* Dan's
+thanks name what the money bought: Jim had *"not only saved us by both
+keeping it available for us but also by vouching for us with John"* —
+John took tenants with no credit on his broker's word, against six
+months' deposit and six months' rent up front. Move-in was set for
+Saturday 2019-03-02; Jim's note that *"John will be at the building at
+around 9:30… He lives about an hour away"* is the earliest record of
+the hands-on landlord the next six years would confirm. Sources:
+raw/self/gmail/2019-02_leasing-thread-1692f76dd7f53faf.json (15
+messages, 2019-02-27/28) and
+raw/self/gmail/2019-02_leasing-thread-1691b3c13e2a1850.json (listing +
+intro, 2019-02-23).
 
 ## The tenancy in his own voice: September 2020
 
@@ -408,8 +434,7 @@ simply never captured by the export. Paci's age, DOB, and any other
 properties he owns or manages are undocumented; the Veripages "James
 Paci, 48, b. 1977" lead is too weak to use (title/body name mismatch).
 `+12394951574` is unattributed beyond the contact card. The $7,000 ConEd
-figure is single-source (AI summarizer). The ihatedanfrank@gmail.com
-mailbox was not searched. Whether Annie knew the eviction was staged is
+figure is single-source (AI summarizer). Whether Annie knew the eviction was staged is
 unresolved — the decode says she never found out; Ally's question
 implies Dan told her she didn't; the missing window is exactly what's
 needed to settle it.
@@ -426,3 +451,12 @@ re-checked against the current CSVs and check out exactly (e.g.
 the strict regex `\bpaci\b` to exclude "capacity"/"pacing" false
 positives; Suz's archive returned only 2 strict hits, both false
 positives.
+
+2026-09-24 repair: the 2026-09-24 rewrite shipped without searching the
+ihatedanfrank@gmail.com mailbox — the gap was self-flagged in Gaps and
+left open. A corpus-sweep (`bin/corpus-sweep --terms "paci,blanchard"`)
+run for this repair surfaced the February 2019 leasing thread, now
+archived at raw/self/gmail/2019-02_leasing-thread-*.json and cited
+above. Standing rule going forward: no rewrite or first commit without
+the sweep; the FTS5 index (~/workspace/corpus-index/corpus.db) covers
+the file corpora and Gmail is searched live.
