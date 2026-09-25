@@ -5,7 +5,7 @@ page_type: synthesis
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-09-24
 sources:
   - src:corpus-authoritative-export — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:facebook-export-2026-06-23
@@ -316,7 +316,8 @@ architecture, dat:0055]**. The final pre-stabilization episode is named and
 dated: over Thanksgiving 2009, Alexis brings thirty Roxicet pills — "the opiate
 addiction that Dan had truly kicked while in college is back in force" — through
 a Christmas trip home, resolving seven weeks after the couple's return to
-Orlando on the already-dated day-zero **[ATTESTED]**. So "zero relapses" is
+Orlando — the return itself undated in the record, so the seven weeks cannot
+be anchored to a calendar start — on the already-dated day-zero **[ATTESTED]**. So "zero relapses" is
 measured from a line drawn *after* the last one, and the last one is
 documented. The claim is bounded correctly, which is why it can be cited at
 full strength.
@@ -358,7 +359,8 @@ suboxone pills,"* 2020-10-20) and the 2021-03-31 question *"3 months at a time
 is legit, are the suboxone or subutex?"* — which presupposes a multi-month
 prescription on his side, though the referent is not established from the
 fragment and reading it as decisive is the exact error dat:0028 records
-**[ATTESTED, with the caution carried]**. By June 2025 the prescription is the
+**[ATTESTED — extraction, dat:0055, with the caution carried; June-2026
+Facebook export, Drive-held]**. By June 2025 the prescription is the
 default route with the dealer network as failover; the architecture is not just
 a sink, it is a node — the man other people call when they need six pills
 **[ATTESTED]**.
@@ -441,7 +443,7 @@ loses the generality. That is a real cost, and this entry does not hide it.
 
 The subtle reading. Go back to day-zero and look at what actually happened on
 February 17, 2010 — *"this is the most stressful day/decision of my life"* —
-and describe it in the rule's vocabulary. A man seven weeks out from a
+and describe it in the rule's vocabulary. A man about twelve weeks out from a
 thirty-Roxicet Thanksgiving replaces full opiate agonists with a partial
 agonist/antagonist maintenance molecule. In the rule's terms, that is
 **SUBSTITUTE** (Roxicet/Oxy → Suboxone), executed once, completely. And the

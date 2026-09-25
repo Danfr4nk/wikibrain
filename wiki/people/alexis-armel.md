@@ -7,7 +7,7 @@ status: closed
 knowledge: mixed
 importance: high
 date_created: 2026-06-23
-date_modified: 2026-09-12
+date_modified: 2026-09-24
 date_range_start: 2009-10-01
 date_range_end: 2025-02-19
 sources:
@@ -110,7 +110,7 @@ connections:
     claim: "A 2026-08-27 operator capture narrows that page's own stated gap — no dated record placed the Danielle-ends/Alexis-begins sequence to specific weeks — by dating the meeting to a Thanksgiving 2009 trip home, a few months after the August 2009 graduation."
   - page: wiki/health/chemical-architecture
     type: causes
-    claim: "Alexis supplies thirty Roxicet pills over the Thanksgiving weekend they meet, restarting the opiate use that page's own timeline says was 'truly kicked' at that point — the previously unnamed final active-use episode immediately preceding the February 17, 2010 Suboxone stabilization seven weeks later."
+    claim: "Alexis supplies thirty Roxicet pills over the Thanksgiving weekend they meet, restarting the opiate use that page's own timeline says was 'truly kicked' at that point — the previously unnamed final active-use episode immediately preceding the February 17, 2010 Suboxone stabilization about twelve weeks later."
   - page: wiki/people/zach-clingan
     type: co-occurs
     claim: "A Christmas 2009 party at Suz's house is the dated origin of Dan's 'arch rival' framing of Clingan — an accusation that Alexis had been sexually involved with him in his car outside the party ends their friendship on the spot, five years before either the 2014 'drug people' taxonomy or the December 2015 'THAT is who introduced me to drugs' outburst."
@@ -231,7 +231,7 @@ on Dan's own Facebook profile under "Previous relationships," in that order.
 > called **Spetch**, described as a childhood friend and roommate of
 > [[wiki/people/jason-bermejo|Jason Bermejo]], drives from Winter Park to
 > Ocala daily to keep it running. The full causal chain — Thanksgiving
-> relapse, escalation over Christmas, stabilization seven weeks later — is
+> relapse, escalation over Christmas, stabilization about twelve weeks later — is
 > written up on [[wiki/timeline/periods/full-sail-2008-2010]] and
 > [[wiki/health/chemical-architecture]] rather than duplicated here.
 >

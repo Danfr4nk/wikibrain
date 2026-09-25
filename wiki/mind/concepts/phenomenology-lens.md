@@ -5,7 +5,7 @@ title: "Phenomenology Lens"
 aliases: ["the lens", "interpretive overlay", "generative phenomenology"]
 status: active
 date_created: 2026-06-22
-date_modified: 2026-09-13
+date_modified: 2026-09-24
 synthesizes:
   - wiki/self/context-core
   - wiki/mind/profile/intp
@@ -56,7 +56,7 @@ The lens contains a case of exactly the failure its own usage rules forbid. Its 
 
 Stripped of metaphor, the lens contributes two things the spine uses:
 
-**The event list, not the loop grammar.** The trauma memory's encoding events are dated and documented independently of the lens: the November 2005 parental rupture (dad's rehab admission + mom's affair with the family dealer — his stated life-hinge event) and the 2009–2015 Alexis collapse. What the lens adds — "intimacy leads inevitably to abandonment," "loyalty is always conditional," the hunger→fusion→contamination→amputation loop grammar — is interpretive overlay. Keep the dates; hold the grammar lightly.
+**The event list, not the loop grammar.** The trauma memory's encoding events are dated and documented independently of the lens: the November 2005 parental rupture (dad's rehab admission + mom's affair with the family dealer **[TESTIMONY — his account; no documentary corroboration found]** — his stated life-hinge event) and the 2009–2015 Alexis collapse. What the lens adds — "intimacy leads inevitably to abandonment," "loyalty is always conditional," the hunger→fusion→contamination→amputation loop grammar — is interpretive overlay. Keep the dates; hold the grammar lightly.
 
 **The self-image reading.** The lens's central frame — life as a self-engineering project, the wounded person who turns pain into elaborate systems — is most useful as a read of *how he narrates himself*, in the language of systems and architecture. That is a real datum about self-presentation, not a finding about mechanism. The distinction is the whole game: the lens describes the narrator, never the system.
 

@@ -6,7 +6,7 @@ aliases: ["substance stack", "the chemical triad"]
 status: active
 importance: high
 date_created: 2026-07-13
-date_modified: 2026-09-04
+date_modified: 2026-09-24
 sources:
   - raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -28,10 +28,10 @@ tags: [addiction-recovery, family, relationships, trauma-bond]
 connections:
   - page: wiki/health/cocaine
     type: contains
-    claim: "The stimulant layer of this stack has its own page: the twenty-year use history, the finance-driven dosage arc (1g → 3.5–7g → 0.5–1g), the age-13 family exposure, and the supply chain built to deliver it."
+    claim: "The stimulant layer of this stack has its own page: the twenty-year use history, the finance-driven dosage arc (1g → 3.5–7g → 0.5–1g), the age-13 family exposure [TESTIMONY — his account; no documentary corroboration found], and the supply chain built to deliver it."
   - page: wiki/people/alexis-armel
     type: caused-by
-    claim: "Alexis supplies the previously unnamed final active-use episode before stabilization — thirty Roxicet pills over Thanksgiving 2009 and a daily Winter-Park-to-Ocala supply run — seven weeks before the February 17, 2010 day-zero this page already dated."
+    claim: "Alexis supplies the previously unnamed final active-use episode before stabilization — thirty Roxicet pills over Thanksgiving 2009 and a daily Winter-Park-to-Ocala supply run — about twelve weeks before the February 17, 2010 day-zero this page already dated."
   - page: wiki/timeline/periods/full-sail-2008-2010
     type: caused-by
     claim: "That page's own GAP CLOSED block dates the Alexis relationship's start to Thanksgiving 2009 and the relapse she brings with her to the same window, giving this page's previously undated 'stabilization at Full Sail's end' a specific triggering episode."
@@ -175,8 +175,9 @@ the record.
 > opiate addiction that Dan had truly kicked while in college is back in
 > force." A friend, Spetch, drives from Winter Park to Ocala daily to keep a
 > supply running; the pattern continues through a Christmas trip home and
-> resolves seven weeks after the couple's return to Orlando, on the
-> already-dated day-zero. This does not change the "sixteen unbroken years,
+> resolves seven weeks after the couple's return to Orlando — the return
+> itself undated in the record, so the seven weeks cannot be anchored to a
+> calendar start — on the already-dated day-zero. This does not change the "sixteen unbroken years,
 > zero relapses" figure, which is measured *from* February 17, 2010 — it
 > supplies the episode that made stabilizing on that date necessary, closing
 > what had been an undated, causeless resolution at "Full Sail's end." Full
@@ -283,9 +284,11 @@ cannabis rows.
 A separate, later self-audit reconstructs the full chemical timeline in
 more granular phases than the summary above, and adds real new dated
 detail. Cocaine use first entered the household as a known concept at
-age 13 (2001), via the discovery of his parents' own use — the same
+age 13 (2001), via the discovery of his parents' own use **[TESTIMONY —
+his account; no documentary corroboration found]** — the same
 substance later implicated in the November 2005 rupture (his father's
-rehab admission, his mother's affair with their dealer) was already a
+rehab admission, his mother's affair with their dealer **[TESTIMONY —
+his account; no documentary corroboration found]**) was already a
 familiar, "adult" behavior in the house years before that hinge event,
 which complicates any clean story where the divorce alone triggers the
 pattern. His own first cocaine use follows at 17–18 (2005–2006), in the
@@ -327,7 +330,8 @@ family members across three generations (mother, grandmother,
 great-grandmother, father) were functional alcoholics, and alcohol is
 specifically the substance present at the household's defining betrayals —
 the father's rehab admission and the mother's affair with their cocaine
-dealer both sit inside a broader pattern of alcohol-adjacent family
+dealer **[TESTIMONY — his account; no documentary corroboration found]**
+both sit inside a broader pattern of alcohol-adjacent family
 dysfunction. Opiates and cocaine carry no equivalent charge; they were
 adopted freely and built into a maintained, defended architecture. Read
 together, this looks less like general moderation or health-consciousness
