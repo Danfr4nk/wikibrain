@@ -89,9 +89,29 @@ See [[wiki/mind/concepts/attachment-model]] (no closure without explicit severan
 ## Related events
 - [[wiki/timeline/events/end-fight]] (detailed thread/CSV sequence leading into and including the June 1 closure)
 - [[wiki/timeline/events/april-may-2026-final-weeks]] (the final seven documented weeks immediately preceding this closure)
-- [[wiki/timeline/events/eli-incident]] (the third-party relationship whose existence was confirmed)
+- [[wiki/timeline/events/eli-incident]] (the origin betrayal — the affair whose discovery ended the relationship in substance; the terminal-phase third party confirmed here was Tuquick, not Eli)
 - December 2025 volume spike (last major mutual investment period)
 - Nov 2025 and Feb 2026 written denials (issued while defamation campaign was active)
+
+> **CORRECTED [2026-09-25]** (work-0044): the eli-incident bullet above previously
+> read "(the third-party relationship whose existence was confirmed)" — stale
+> since the 2026-07-13 operator correction establishing Tuquick, not Eli, as the
+> terminal-phase third party. The closure confirmed the *existence* of a
+> third-party relationship; the third party was Tuquick.
+
+## Forensic artifact: the "Tactical Autopsy" notebook
+Three days after the closure (~2026-06-04), Dan built a NotebookLM notebook
+titled "Tactical Autopsy of the Eli and Annie Incident" (5 sources, 4 Audio
+Overview episodes) whose forensic target is this closure, not the Eli affair —
+see [dat:1480](kb/data/1480-notebooklm-tactical-autopsy-inventory-20260913.md).
+The title is Dan's umbrella naming: "the Eli and Annie Incident" as his name
+for the entire betrayal arc (the Eli affair being "the event that ended the
+Annie decade in substance"), with the episode-1 prompt aimed at the terminal
+window — misdated by one day as "June 2, 00:00–02:00" for the June 1
+00:00–00:27 closure cluster — and the "INTERLOPER" invited into the in-studio
+audience being Tuquick, who was in the group chat that night. No episode
+transcripts survive (audio downloads failed at capture); the prompts and
+inventory are the record.
 
 ## Data Record
 | Signal | Value / Status |

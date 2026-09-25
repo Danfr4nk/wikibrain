@@ -13,3 +13,21 @@ created    = "2026-09-13"
 +++
 
 <!-- prose for humans; the frontmatter is for machines -->
+
+> **RESOLVED [2026-09-25]** (work-0044 contradiction_audit): the title-vs-content
+> mismatch resolves as **mis-titled with umbrella naming, not a distinct
+> episode**. Forensic target of all four episodes is the June 2026 terminal
+> breakup (Tuquick closure) — episode titles ("Annie's Weaponized Lies,"
+> "weaponized false accusations," "591 texts from a toxic breakup") and the
+> episode-1 window concern the terminal phase, not the Aug-2024–Jan-2025 Eli
+> affair. The "June 2, 00:00–02:00" prompt window is Dan's one-day misdating of
+> the June 1 00:00–00:27 closure cluster (CSV-verified 00:24–00:27 exchange,
+> 00:27:49 sign-off; no distinct June 2 00:00–02:00 episode exists in the
+> record; the 52-day severance held from June 1). The title is not a random
+> error: Dan used "the Eli and Annie Incident" as his umbrella name for the
+> entire betrayal arc — cf. the KEY NARRATIVE ("a woman's decade-long,
+> escalating pattern of deception"), 388 "eli" mentions in the terminal-phase
+> annie_all_time_logs extract, and the Eli incident's standing as "the event
+> that ended the Annie decade in substance." Placement: this datum's evidence
+> belongs primarily to the tuquick / group-chat-closure / end-fight cluster;
+> eli-incident carries the umbrella-naming cross-reference.

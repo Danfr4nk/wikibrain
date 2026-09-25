@@ -113,6 +113,14 @@ Template repetition: Annie's behavior replicated the structure of the 2004–05 
 | Dan's post-hoc acknowledgment | May 27 2025: chose to believe to "get back to a normal life where i didn't have to try to find the evidence" |
 | Retrospective language (Dan) | Repeated use of "torture", "gaslit me into literally breaking", "playing games with his head" |
 
+> **NOTE [2026-09-25]** (work-0044): Dan's June 2026 NotebookLM notebook "Tactical
+> Autopsy of the Eli and Annie Incident" is titled for this affair but its
+> forensic target is the June 1, 2026 Tuquick closure — "Eli and Annie" was his
+> umbrella name for the entire betrayal arc, not a claim that Eli was the
+> terminal third party. See the forensic-artifact section on
+> [[wiki/timeline/events/group-chat-closure]] and
+> [dat:1480](kb/data/1480-notebooklm-tactical-autopsy-inventory-20260913.md).
+
 > **REVISED [2026-07-13]:** Operator correction on scope: the Eli affair ended with the February 2025 NYC departure (Eli lives in NYC). The 2025–26 terminal phase and the June 1, 2026 closure involve a different third party — Tuquick ([[wiki/people/tuquick-17248123683]]), who Annie left Dan for. This page covers the NYC affair and its discovery only.
 
 
