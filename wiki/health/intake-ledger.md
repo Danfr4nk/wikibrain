@@ -7,7 +7,7 @@ status: active
 importance: high
 knowledge: derived
 date_created: 2026-08-31
-date_modified: 2026-08-31
+date_modified: 2026-09-24
 chart:
   kind: bar
   title: "Intake events by hour of day, whole ledger"
@@ -16,9 +16,9 @@ chart:
   series:
     - name: "Logged events"
       points:
-        "00": 0
+        "00": 2
         "01": 0
-        "02": 0
+        "02": 2
         "03": 0
         "04": 0
         "05": 0
@@ -36,12 +36,16 @@ chart:
         "17": 0
         "18": 0
         "19": 0
-        "20": 0
+        "20": 2
         "21": 0
-        "22": 0
-        "23": 0
+        "22": 2
+        "23": 1
 sources:
-  - testimony/events.jsonl
+  - intake/events.jsonl
+  - raw/health/intake/intake_unit_01M1AJ47K2HKZ8TZZ75CPNGFJ7.md
+  - raw/health/intake/intake_unit_01M1AS32B01HGPPF276RK4M7SE.md
+  - raw/health/intake/intake_unit_01M1B1QNV7J0YC01MVHR2A1936.md
+  - raw/health/intake/intake_unit_01M1B8GCGVKYT6RG453B89K2JY.md
 connections:
   - page: wiki/health/cocaine
     type: evidenced-by
@@ -71,12 +75,12 @@ from it live on [[wiki/health/cocaine]] and
 
 | | |
 |---|---|
-| Units opened | 0 (0 closed) |
-| Intake events | 0 |
-| Carrying a quantity | 0 |
+| Units opened | 4 (4 closed) |
+| Intake events | 9 |
+| Carrying a quantity | 9 |
 | Logged without one | 0 |
-| Corrections on the log | 0 |
-| First unit received | 2026-08-31 |
+| Corrections on the log | 3 |
+| First unit received | 2026-08-30 |
 | Most recent activity | 2026-08-31 |
 
 **Coverage: every event carries a quantity.** Events logged without a number are real events — they
@@ -88,6 +92,10 @@ a mean over all of them.
 
 | # | Substance | Opened | Closed | Opened with | Accounted | Events | Coverage | Disposition |
 |---|---|---|---|---|---|---|---|---|
+| 1 | cocaine | 2026-08-30 17:04 | 2026-08-31 02:35 | 0.75 g | 0.75 g | 6 | 100% | consumed |
+| 2 | Cannabis | 2026-08-30 22:06 | 2026-08-30 22:06 | 0.05 g | 0.05 g | 1 | 100% | consumed |
+| 3 | cannabis | 2026-08-31 00:37 | 2026-08-31 00:37 | 0.05 g | 0.05 g | 1 | 100% | consumed |
+| 4 | cannabis | 2026-08-31 02:36 | 2026-08-31 02:36 | 0.05 g | 0.05 g | 1 | 100% | consumed |
 
 ## Every event
 
@@ -97,10 +105,38 @@ shows its descriptor instead and counts toward timing but toward no total.
 
 | Unit | Substance | When | Quantity | How | Note |
 |---|---|---|---|---|---|
+| #1 | cocaine | 2026-08-30 20:05 | 0.1 g | estimated (medium) | — |
+| #1 | cocaine | 2026-08-30 20:05 | 0.1 g | measured | — |
+| #1 | cocaine | 2026-08-30 22:05 | 0.1 g | measured | — |
+| #2 | Cannabis | 2026-08-30 22:06 | 0.05 g | estimated (medium) | — |
+| #1 | cocaine | 2026-08-30 23:12 | 0.1 g | measured | — |
+| #1 | cocaine | 2026-08-31 00:01 | 0.1 g | measured | — |
+| #3 | cannabis | 2026-08-31 00:37 | 0.05 g | estimated (medium) | — |
+| #1 | cocaine | 2026-08-31 02:35 | 0.25 g | estimated (medium) | — |
+| #4 | cannabis | 2026-08-31 02:36 | 0.05 g | measured | corrected, see below |
 
 ## Corrections
 
-No event on this log has been corrected.
+Nothing here is ever edited in place. A mistyped value becomes a new record
+naming the original, the correction and the reason — so the ledger shows the
+corrected figure while the log remembers both, and *that* a correction was
+needed is itself evidence about how the logging happens.
+
+| Unit | Target | Changed | Reason |
+|---|---|---|---|
+| #2 | the unit itself | `substance`: 'cannibis' → 'Cannabis', `substance_id`: None → 'cannabis', `category`: None → 'cannabinoid' | misspelt 'cannibis' at entry; the portal wrote the free-text string rather than a catalog id (substance_id was null), splitting one substance into two headings in SUMMARY.md |
+| #4 | the unit itself | `unit`: 'mg' → 'g' | unit selector slip: opened as 0.05 mg. Cannabis defaults to g, the one-hitter preset is 0.05 g, and the two identical single units logged earlier the same night (Aug 30 22:06, Aug 31 00:37) were both 0.05 g. 0.05 mg is 1/1000th of a bowl |
+| #4 | 2026-08-31 02:36 | `unit`: 'mg' → 'g' | the intake against the unit corrected above, logged in mg for the same reason |
+
+## By substance
+
+Quantity figures are computed only from events that carry a number, and the
+coverage column says how many that was.
+
+| Substance | Units | Events | Quantified | Median dose | Range |
+|---|---|---|---|---|---|
+| Cannabis | 3 | 3 | 3 | 0.05 g | 0.05 g–0.05 g |
+| cocaine | 1 | 6 | 6 | 0.1 g | 0.1 g–0.25 g |
 
 ## What this cannot tell you
 

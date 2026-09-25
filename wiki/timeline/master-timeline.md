@@ -4,7 +4,7 @@ page_type: summary
 status: active
 knowledge: derived
 date_created: 2026-08-14
-date_modified: 2026-08-15
+date_modified: 2026-09-24
 sources:
   - generated from every page under the wiki by bin/wiki-timeline
 connections:
@@ -7337,7 +7337,7 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/meta/open-questions]] · mind (442)
 - · **2019-02-01** — The oblique "this chick" hits.** Three Dan→Annie messages (2019-02-01 "Yo he loves this chick too"; 2019-02-09 "This chick I'm into isn't sure if she likes these or not"; 2019-03-28 "get this chick to our pla[ce]") use the same "this chick" phrasing as the 2019-01-01 disclosure but are…  
   ↳ [[wiki/mind/synthesis/annie-thread-ally-sweep]] · Gaps
-- ★ **2019-02-03** — DUI #1** — general impairment + **BAC .16+** + 4 traffic — 6 — **ARD — county  
+- ★ **2019-02-03** — DUI #1** — general impairment + **BAC .16+** + 4 traffic — 6 — **ARD — county [single-source testimony-grade, agent-D; unconfirmed — in tension with the Oct 2017 "I already got a DUI" line, whose speaker attribution is itself contested (dat:0031); see the 2025-collapse page]**  
   ↳ [[wiki/people/jerel-coles]] · The record, 2008–2025
 - ◆ **2019-02-08** — Dan first raises it February 8, 2019, unprompted and in the same register as his other paid-companion outreach: "me and Annie have been trying to find a nice 'friend' that would want to be paid well to hang out with me/us... $500-700 depending on the girl." Jenn asks whether he "need[s] a girl or…  
   ↳ [[wiki/people/jenn-lynn]] · The arrangement offers
@@ -9690,7 +9690,7 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/self/twitter]] · The densest day in seventeen years
 - · **2024-06-28** — 23** — The Biden–Trump debate, live  
   ↳ [[wiki/self/twitter]] · The densest day in seventeen years
-- ★ **2024-06-29** — DUI #2.** Guilty pleas; the second DUI after February 2019 **[ATTESTED — agent-D]**.  
+- ★ **2024-06-29** — DUI #2.** Guilty pleas; the second DUI after February 2019 **[ATTESTED — agent-D; single-source testimony-grade, unconfirmed — see the 2025-collapse page for the unresolved 2017-line tension]**.  
   ↳ [[wiki/mind/synthesis/the-2025-collapse]] · The 2024 prelude
 - ★ **2024-06-29** — DUI #2** — general impairment + 4 traffic — 5 — **guilty pleas, all five  
   ↳ [[wiki/people/jerel-coles]] · The record, 2008–2025
