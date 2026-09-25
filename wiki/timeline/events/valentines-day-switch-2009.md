@@ -16,6 +16,12 @@ images:
     - file: wiki/media/after-play-rewind-jacksonville-2009-02.jpg
       alt: "After Play Rewind on stage in Jacksonville, February 2009"
       caption: "After Play Rewind live, Jacksonville, early February 2009 (EXIF 2009-02-01). Dan's photo from the switch night."
+    - file: wiki/media/corey-brown-rice-krispies-2008-12.jpg
+      alt: "Corey Brown holding a Rice Krispies Treats sheet over his head in a kitchen, December 2008"
+      caption: "Corey Brown, December 2008 (EXIF 2008-12-12) — the APR Texan, 'super righteous fucking Baptist from Houston' (Dan's words), who connected Dan with Forever the Sickest Kids."
+    - file: wiki/media/video-chat-earthrise-2009-01.jpg
+      alt: "Video-chat screenshot with an Earthrise backdrop, January 2009"
+      caption: "Video-chat screenshot, January 2009 (EXIF 2009-01-08) — a month before the switch night. Subjects unidentified; Dan sent it with the Corey Brown photo."
 sources:
   - raw/self/facebook/2009-02_kellymulroy-thread.md
   - raw/self/facebook/2017-08_davidkeller-thread.md
@@ -168,10 +174,27 @@ where the Full Sail dream landed. It is the only post-2010 trace of
 the APR circle in the corpus, and it reads like a reunion that never
 needed a occasion.
 
-**Chris Smith and Corey Brown** — named by Dan as APR members, with no
-corpus hits anywhere: not in the FTS index (779,358 documents), not in
-the Facebook export, not in Gmail. They are recorded here on his word
+**Chris Smith** — named by Dan as an APR member, with no corpus hits
+anywhere: not in the FTS index (779,358 documents), not in the
+Facebook export, not in Gmail. He is recorded here on Dan's word
 alone, with the seam showing.
+
+**Corey Brown** — the Texan of the band, and the one Dan knew best.
+"Super righteous fucking Baptist from Houston," in Dan's words
+(2026-09-24) — which reads as affectionate, the way you describe a
+friend whose convictions you never shared but respected. He was APR's
+drummer "at the beginning" (Dan's words) — an original member, not a
+later addition. Corey knew
+Austin Bello of Forever the Sickest Kids "from forever," both of them
+Texas kids, and through Corey, Dan "got to hang with them a little
+and got some early unreleased demos." That sentence quietly places Dan
+in the orbit of one of the biggest pop-punk acts of 2008 — Forever
+the Sickest Kids' *Underdog Alma Mater* had dropped that April — via
+nothing more glamorous than a classmate's hometown friendship. The
+kitchen photo Dan sent on 2026-09-24, Corey hoisting a party-size
+Rice Krispies Treats sheet over his head in a loud graphic hoodie
+(EXIF 2008-12-12), is the visual record of the guy: goofy, devout,
+generous with the demos.
 
 ## Reading Kelly's letter
 
@@ -252,6 +275,8 @@ already gone.
 
 | Date | Artifact | What it says |
 |------|----------|--------------|
+| 2008-12-12 | Photo EXIF | Corey Brown in a kitchen with a Rice Krispies Treats sheet (Dan's photo) |
+| 2009-01-08 | Photo EXIF | Video-chat screenshot with Earthrise backdrop (subjects unidentified) |
 | 2009-02-01 07:13 | Photo EXIF | After Play Rewind on stage, Jacksonville; Dan's camera |
 | 2009-02-17 | Dan's blog note | "shameless promotion... Check out After Play Rewind" + afterplayrewind.com link |
 | 2009-03-19 | Kelly → Dan (Facebook) | Thank-you letter; "past month that I've known you"; "life is too short to be unhappy" |
@@ -311,8 +336,11 @@ story when she left, and where the letters went.
 - The **venue** is unconfirmed. Jack Rabbits hosted APR in Jacksonville
   that April and was the room for that circuit, but no listing ties the
   February show to a room.
-- **Chris Smith and Corey Brown** have zero corpus hits. Their membership
-  in the band rests on Dan's word alone.
+- **Chris Smith** has zero corpus hits. His membership in the band
+  rests on Dan's word alone. **Corey Brown** was in the same position
+  until 2026-09-24, when Dan supplied his role (original drummer), his
+  character, the FTSK connection, and a dated photo — he is now
+  attested by testimony plus artifact.
 - **Kelly Mulroy's thread** predates the corpus index — it lives in the
   legacy Facebook export, which is why the FTS sweep (779k docs) returns
   nothing for her name. The two messages are archived with this page.
