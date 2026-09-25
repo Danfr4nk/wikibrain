@@ -657,5 +657,4 @@ the payment rail.*
 [[wiki/timeline/periods/2017-poverty-floor]] · [[wiki/work/bfs-foods]] ·
 [[wiki/mind/concepts/contact-gini]] ·
 [[wiki/mind/synthesis/the-deferred-audit]] ·
-[[wiki/health/the-configured-body]] ·
-[[wiki/meta/complete-log-doctrine]]
+[[wiki/health/the-configured-body]] · [[wiki/meta/complete-log-doctrine]]
