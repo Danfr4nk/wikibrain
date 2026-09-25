@@ -7,7 +7,12 @@ status: stable
 importance: major
 knowledge: thin
 date_created: 2026-09-24
-date_modified: 2026-09-24
+date_modified: 2026-09-25
+images:
+  infobox: wiki/media/zazza-williamsburg-2010.jpg
+  library:
+    - wiki/media/zazza-williamsburg-2010.jpg
+    - wiki/media/rick-zazza-lease-signing-2010.jpg
 date_range: ["2010-01-01","2013-12-31"]
 tags: [nyc-era, audio-career, relationships, addiction-recovery, move, producer-identity]
 sources:
@@ -130,6 +135,28 @@ tweet archive shows the 18 February train was actually the **return** leg.
 The derivation is broken; the dated alignment — a same-day tweet about the
 most stressful decision of his life — survives its own reasoning as the
 stronger evidence. See the forensic appendix for the full accounting.
+
+## The signing
+
+Two photographs supplied by Dan on 2026-09-25 capture the lease signing
+itself — the first images the corpus has ever carried of the move's
+machinery. The first shows the Zazza building in Williamsburg under its
+"Premium Rental Residences" leasing banner; the second shows his father
+Rick inside the unit, writing on a clipboard at the kitchen counter.
+
+![The Zazza building, Williamsburg](wiki/media/zazza-williamsburg-2010.jpg)
+
+![Rick at the Zazza lease signing](wiki/media/rick-zazza-lease-signing-2010.jpg)
+
+Rick's presence at the signing is new. The article has always noted the
+financing as the move's one unnamed element — who paid for the U-Haul,
+the first month, the deposit — and his being physically in the room,
+pen in hand, is consistent with a parent in the guarantor's seat for a
+21-year-old's first New York lease. That is as far as the photos take
+it: they document his involvement, not the money's source. (The young man at
+the edge of the building-exterior shot is the leasing agent — Dan recalled
+the name as Robin and described him as a limey, i.e. British, the agent
+they spent the scouting day with; the name is his uncertain recall.)
 
 ## Two apartments, three years
 

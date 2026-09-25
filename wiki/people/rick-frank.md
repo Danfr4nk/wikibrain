@@ -5,7 +5,7 @@ title: "Richard Harrison \"Rick\" Frank"
 aliases: ["Rick", "Frank Sr."]
 status: stable
 date_created: 2026-06-23
-date_modified: 2026-09-04
+date_modified: 2026-09-25
 infobox:
   name: Rick Frank
   status: "Ongoing, warm-but-strained — currently one-sided (silence since Feb 2025)"
@@ -226,7 +226,12 @@ low-paid at Creative License) that a self-funded move could not have
 absorbed. A Facebook message from Rick four days after the train ride — "you
 better call me asap!!! looks like the nyc deal is off," Feb 22, 2010 — is
 the corpus's only glimpse of the arrangement nearly not happening; no record
-survives of what resolved it, but the move went ahead on schedule. A month
+survives of what resolved it, but the move went ahead on schedule. Photographs
+supplied by Dan on 2026-09-25 close the loop visually: one shows the Zazza
+building in Williamsburg under its "Premium Rental Residences" leasing
+banner, the other shows Rick inside the unit, pen in hand at the kitchen
+counter — present at the lease signing itself, consistent with a parent in
+the guarantor's seat for a 21-year-old's first New York lease. A month
 later, when Dan sent a workplace email he worried had been too aggressive
 (the "email heard round the world" to a Bellator/MSG contact), Rick's
 response was uncomplicated support: "It doesn't seem like an aggressive

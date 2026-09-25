@@ -13867,6 +13867,35 @@
     "wiki/interests/music/bands/batteries-not-included.md"
    ],
    "poster_sha256": "68880b132cc792a39cca0ecb389b38efc0da35161b69be8cb0ad3ac126ec7890"
+  },
+  {
+   "id": "zazza-001",
+   "compressed_path": "wiki/media/zazza-williamsburg-2010.jpg",
+   "description": "The Zazza building, Williamsburg, under its Premium Rental Residences leasing banner (718.302.4424, livezazza.com). At lower-left: the leasing agent \u2014 Dan recalled the name as Robin and described him as a limey (British); the agent they spent the Feb 17, 2010 scouting day with (name uncertain, 2026-09-25).",
+   "date": "2010-02",
+   "type": "photo",
+   "analysis_status": "embedded-2026-09-25",
+   "original_filename": null,
+   "share_url": null,
+   "linked_nodes": [
+    "wiki/timeline/periods/nyc-first-era-2010-2013.md"
+   ],
+   "poster_sha256": "ee1990ac7547066506efd7def5cbb4e0e04a3ab8fd2c3827540b00192e52ae70"
+  },
+  {
+   "id": "zazza-002",
+   "compressed_path": "wiki/media/rick-zazza-lease-signing-2010.jpg",
+   "description": "Rick Frank inside the Zazza unit, writing on a clipboard at the kitchen counter \u2014 the Brooklyn lease signing, Feb/Mar 2010.",
+   "date": "2010-02",
+   "type": "photo",
+   "analysis_status": "embedded-2026-09-25",
+   "original_filename": null,
+   "share_url": null,
+   "linked_nodes": [
+    "wiki/timeline/periods/nyc-first-era-2010-2013.md",
+    "wiki/people/rick-frank.md"
+   ],
+   "poster_sha256": "3b674b9e566f5ae941b515e064a8bd5e41668ad8b8ed32bf71bafe2d295c4b85"
   }
  ],
  "policy": "Originals are never committed to wikitest or RAWLOGS. This registry maps each item to its canonical location (Google Photos share URL or Drive path). Compressed derivatives for wiki entries live under media/<batch-slug>/ and are referenced from the src:/dat: nodes. Censorship rule (2026-09-12, Dan's directive): embedded derivatives showing nudity or sexual activity are pixelated/blurred before commit. The uncensored original stays at its canonical location and is never committed.",
