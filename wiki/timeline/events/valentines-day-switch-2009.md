@@ -20,8 +20,8 @@ images:
       alt: "Corey Brown holding a Rice Krispies Treats sheet over his head in a kitchen, December 2008"
       caption: "Corey Brown, December 2008 (EXIF 2008-12-12) — the APR Texan, 'super righteous fucking Baptist from Houston' (Dan's words), who connected Dan with Forever the Sickest Kids."
     - file: wiki/media/video-chat-earthrise-2009-01.jpg
-      alt: "Video-chat screenshot with an Earthrise backdrop, January 2009"
-      caption: "Video-chat screenshot, January 2009 (EXIF 2009-01-08) — a month before the switch night. Subjects unidentified; Dan sent it with the Corey Brown photo."
+      alt: "Video-chat screenshot of Dan and Eric Jester against an Earthrise backdrop"
+      caption: "Video chat with Eric Jester, 2009-01-08 — from the house across the street from Full Sail, a month before the switch night (subjects Dan's identification, 2026-09-24)"
 sources:
   - raw/self/facebook/2009-02_kellymulroy-thread.md
   - raw/self/facebook/2017-08_davidkeller-thread.md
