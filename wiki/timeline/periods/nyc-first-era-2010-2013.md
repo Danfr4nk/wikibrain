@@ -7,7 +7,17 @@ status: stable
 importance: major
 knowledge: thin
 date_created: 2026-09-24
-date_modified: 2026-09-24
+date_modified: 2026-09-25
+images:
+  infobox: wiki/media/zazza-williamsburg-2010.jpg
+  library:
+    - wiki/media/zazza-williamsburg-2010.jpg
+    - wiki/media/rick-zazza-lease-signing-2010.jpg
+    - wiki/media/bedford-living-room-2010.jpg
+    - wiki/media/bedford-couch-gaming-2010.jpg
+    - wiki/media/dan-alexis-concrete-2010-08-08.jpg
+    - wiki/media/bedford-living-room-wide-2010.jpg
+    - wiki/media/bedford-bathroom-2010.jpg
 date_range: ["2010-01-01","2013-12-31"]
 tags: [nyc-era, audio-career, relationships, addiction-recovery, move, producer-identity]
 sources:
@@ -130,6 +140,57 @@ tweet archive shows the 18 February train was actually the **return** leg.
 The derivation is broken; the dated alignment — a same-day tweet about the
 most stressful decision of his life — survives its own reasoning as the
 stronger evidence. See the forensic appendix for the full accounting.
+
+## The signing
+
+Two photographs supplied by Dan on 2026-09-25 capture the lease signing
+itself — the first images the corpus has ever carried of the move's
+machinery. The first shows the Zazza building in Williamsburg under its
+"Premium Rental Residences" leasing banner; the second shows his father
+Rick inside the unit, writing on a clipboard at the kitchen counter.
+
+![The Zazza building, Williamsburg](wiki/media/zazza-williamsburg-2010.jpg)
+
+![Rick at the Zazza lease signing](wiki/media/rick-zazza-lease-signing-2010.jpg)
+
+Rick's presence at the signing is new. The article has always noted the
+financing as the move's one unnamed element — who paid for the U-Haul,
+the first month, the deposit — and his being physically in the room,
+pen in hand, is consistent with a parent in the guarantor's seat for a
+21-year-old's first New York lease. That is as far as the photos take
+it: they document his involvement, not the money's source. (The young man at
+the edge of the building-exterior shot is the leasing agent — Dan recalled
+the name as Robin and described him as a limey, i.e. British, the agent
+they spent the scouting day with; the name is his uncertain recall.)
+
+## The apartment, lived in
+
+Five more photographs supplied by Dan on 2026-09-25 — captioned only
+"Brooklyn era" — are the first interior views the corpus has ever carried
+of 424 Bedford Ave. The living room sits under corner windows looking over
+Williamsburg rooftops: black leather couch, a TV on a small stand, a wooden
+radio cabinet, and moving boxes still out — the just-moved-in months.
+
+![The Bedford Ave living room, move-in era](wiki/media/bedford-living-room-2010.jpg)
+
+![Gaming on the couch](wiki/media/bedford-couch-gaming-2010.jpg)
+
+The couch shot catches a young man cross-legged with a game controller, a
+small tattoo on the calf. The face is a profile view and face-tag came back
+inconclusive (unknown, runner-up Dan at 0.34), so the wiki records him as
+presumed Dan on provenance — his photos, his apartment — not on a verified
+ID. The bathroom shot is the same story from behind: teal towel, green
+flip-flops, double-sink vanity, no face visible.
+
+The fifth photo is the batch's dated artifact. Etched into wet sidewalk
+concrete: **"DAN ♡ ALEXIS"** and **"8-8-10"** — August 8, 2010.
+
+![DAN heart ALEXIS, 8-8-10](wiki/media/dan-alexis-concrete-2010-08-08.jpg)
+
+It independently anchors the couple in Williamsburg in the summer of 2010,
+five months into the Bedford Ave tenancy — the same season the record
+elsewhere has Dan tweeting from the apartment and Alexis in the frame of
+the era. Nobody etches a date into concrete for a visit.
 
 ## Two apartments, three years
 

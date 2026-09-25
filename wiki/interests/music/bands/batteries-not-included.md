@@ -5,7 +5,12 @@ title: "Batteries Not Included (BNI)"
 status: closed
 knowledge: mixed
 date_created: 2026-07-20
-date_modified: 2026-07-20
+date_modified: 2026-09-25
+images:
+  infobox: wiki/media/bni-shortys-live.jpg
+  library:
+    - wiki/media/bni-shortys-live.jpg
+    - wiki/media/bni-dan-drums.jpg
 sources:
   - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/joeoshnack_7killpebkw/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/sethledonne_ydkapzhbla/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
@@ -79,6 +84,30 @@ his adult taste for counterculture. A zine or scene publication called
 one visible output of a wider local hardcore scene, not an isolated
 project.
 
+## On stage at Shorty's
+
+Two photographs supplied by Dan on 2026-09-25 — the first images of the
+band the corpus has ever carried — answer two open questions at once.
+They show Batteries Not Included on a real stage at a venue called
+Shorty's: the back wall carries a Shorty's banner and a Flip
+Skateboards "Hell on Wheels" flag, placing the gig in the
+skate-shop/small-venue circuit rather than a basement. The full-band
+shot catches the whole operation mid-song — guitarist/vocalist stage
+left on a white Fender-style guitar, a second guitarist stage right, a
+crowd member visible in the foreground — and Dan center-back on a Tama
+kit with Zildjian branding on the kick drum.
+
+![Batteries Not Included on stage at Shorty's](wiki/media/bni-shortys-live.jpg)
+
+That is the second answer: Dan was the drummer. The article previously
+named him only as "lead songwriter"; the kit was undocumented until
+now. The close-up shows him bleach-blonde — "very punk," in his own
+2026 description — in a black Incubus t-shirt carrying the
+*Morning View*-era hand-and-lotus graphic, which dates the look to the
+same early-2000s hardcore/punk canon as the setlist. The drummer in the
+band photo and the close-up are the same person by his own
+identification.
+
 ## The reunion that never happened
 
 By September 2021 Dan floats the idea of a reunion show, then
@@ -92,13 +121,15 @@ the corpus. No reunion is recorded as having happened.
 
 | Metric | Value |
 |---|---|
-| Members (documented) | Dan (lead songwriter), Joe Oshnack, Matt Turko |
+| Members (documented) | Dan (drums, lead songwriter), Joe Oshnack, Matt Turko |
 | Era | High school (pre-2006, per Dan's own "class of 06" graduating-year references elsewhere) |
+| Venues (documented) | Shorty's — real stage, skate-shop/small-venue circuit (photos 2026-09-25); answers the old basement-only question |
+| Dan's look | Bleach-blonde hair; black Incubus *Morning View*-era hand/lotus t-shirt |
 | Documented covers | Misfits ("She," logo song), Dead Kennedys ("California Uber Alles"), Ramones ("Teenage Lobotomy"); CKY's "96 Quite Bitter Beings" (rehearsal only, never performed live) |
 
 **Gaps:** what "BNI" stands for beyond "Batteries Not Included"; any
-original song titles or recordings; whether the band ever played a
-real venue versus basement shows only; exact active years; whether any
-other members existed beyond the three named here.
+original song titles or recordings; exact active years; whether any
+other members existed beyond the three named here. (The old
+basement-vs-venue question is answered: Shorty's, a real stage.)
 
 
