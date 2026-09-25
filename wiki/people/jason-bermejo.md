@@ -35,6 +35,14 @@ connections:
     claim: "Jason names Oscar in the 2025-03-17 exchange ('Fuxkin Oscar haha forgot bout him'), confirming the Full Sail-era connection from Jason's side — though the 'impossible coincidence in a 9M-person city' NYC run-in anecdote itself is not in this thread."
   - { target: "[[wiki/people/alexis-armel]]", type: references, claim: "The Orlando-era failed heroin-buy story names Dan's ex Alexis — but the story is not in the message thread; it comes from the operator's account (see Substance section), so the naming is his, not the corpus's." }
 knowledge: earned
+images:
+  library:
+    - file: wiki/media/jason-bermejo-2009-backbooth.jpg
+      alt: "Eric Jester, Dan, and Jason Bermejo at Backbooth, Orlando, July 2009"
+      caption: "Backbooth, Orlando, 2009-07-21 — left to right: Eric Jester, Dan, Jason Bermejo (Dan's identification, 2026-09-24)"
+    - file: wiki/media/jason-bermejo-2010-couch-1.jpg
+      alt: "Jason Bermejo on a couch, February 2010"
+      caption: "Couch hangout, 2010-02-10 — left to right: Jason Bermejo, Alexis Armel's feet in the foreground, Spetch (Dan's identification, 2026-09-24)"
 infobox:
   name: "Jason Bermejo"
   relationship_to_dan: friend
@@ -73,6 +81,15 @@ corpus, this is the one that never needed fixing to restart.
 ## Relationship & Role in Dan's Life
 
 **Phase 1: Formative era (2009–2015)**
+
+Jason was a Full Sail classmate — Dan's words, 2026-09-24, confirming
+the cohort relationship outright: "He's a full sail friend from my
+class." They were in the program together, not merely at the same
+school, which is why the influence ran as deep as it did.
+
+[![Eric Jester, Dan, and Jason Bermejo at Backbooth, Orlando, July 2009](wiki/media/jason-bermejo-2009-backbooth.jpg)](wiki/media/jason-bermejo-2009-backbooth.jpg)
+
+*Backbooth, Orlando, 2009-07-21 — left to right: Eric Jester, Dan, Jason Bermejo (Dan's identification, 2026-09-24). Two months before graduation, the cohort out together.*
 
 Jason was a formative influence during Dan's most musically curious
 period — the blog era, the skinny-jeans era, the era when a kid from
