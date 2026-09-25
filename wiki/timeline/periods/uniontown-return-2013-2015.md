@@ -7,7 +7,7 @@ date_created: 2026-07-18
 date_modified: 2026-09-22
 date_range_start: 2013-05-01
 date_range_end: 2015-12-01
-sources: ["raw/self/context-core/CONTEXT_CORE_EXPANDED.md", "raw/self/dox-scan/Gemini-_58.txt", "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md", "raw/self/facebook/facebook-ihatedanfrank/", "raw/twitter/archive.jsonl", "raw/imessage/messages-part1-2011-2019.csv", "corpus/manifest.json", "corpus/derived/summary.json", "media/registry.json"]
+sources: ["raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-58.md", "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/twitter/archive.jsonl", "raw/imessage/messages-part1-2011-2019.csv", "corpus/manifest.json", "corpus/derived/summary.json", "media/registry.json"]
 related:
   - wiki/timeline/periods/2010s
   - wiki/places/90th-st-manhattan

@@ -9,8 +9,8 @@ date_modified: 2026-07-18
 date_range_start: 2015-12-14
 date_range_end: 2018-04-05
 sources:
-  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"
-  - "raw/self/dox-scan/all_imessages_complete_dump.txt"
+  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [family, grief, uniontown-era]
 infobox:
   name: "Vicki"

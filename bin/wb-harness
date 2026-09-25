@@ -1,0 +1,891 @@
+#!/usr/bin/env python3
+"""bin/wb-harness — build the WikiBrain Harness derived presentation indexes.
+
+Read-only over wiki/ and kb/. Never modifies corpus data. Emits static JSON
+indexes (presentation layer, not knowledge) plus copies the harness/ app
+source into the site output directory.
+
+Indexes:
+  data/page-graph.json      nodes + typed edges (ASSOCIATIVE/SEMANTIC/EVIDENCE)
+  data/evidence-index.json  per-page kb cite coverage
+  data/sources-index.json   per-page frontmatter sources: entries, P/N/A/B/C/D/E class + coverage
+  data/search-adapter.json  compact client-side search index
+  data/timeline.json        parsed master timeline events
+
+Every artifact carries generated_from_commit / generated_at / source_paths
+(data ownership: derived presentation index, not authoritative knowledge).
+
+Usage:
+  python3 bin/wb-harness [--repo-root .] [--out site/harness] [--commit SHA]
+"""
+import argparse
+import datetime as dt
+import html as _html
+import json
+import os
+import re
+import shutil
+import subprocess
+import sys
+
+try:
+    import tomllib
+except ImportError:  # Python < 3.11
+    tomllib = None
+
+# --------------------------------------------------------------------------
+# Tolerant frontmatter parser (YAML subset as used across wiki/).
+# Handles: key: scalar | key: [flow, list] | key: (block list of scalars or
+# maps) | key: (block map). Counts pages it cannot parse; never crashes.
+# --------------------------------------------------------------------------
+
+FM_FAILS = []
+
+
+def _unquote(s):
+    s = s.strip()
+    if len(s) >= 2 and s[0] in "\"'" and s[-1] == s[0]:
+        inner = s[1:-1]
+        if s[0] == '"':
+            inner = inner.replace('\\"', '"').replace("\\\\", "\\")
+        return inner
+    return s
+
+
+def _split_flow(s):
+    parts, cur, depth, q = [], "", 0, None
+    for ch in s:
+        if q:
+            cur += ch
+            if ch == q:
+                q = None
+        elif ch in "\"'":
+            q = ch
+            cur += ch
+        elif ch in "[{":
+            depth += 1
+            cur += ch
+        elif ch in "]}":
+            depth -= 1
+            cur += ch
+        elif ch == "," and depth == 0:
+            parts.append(cur)
+            cur = ""
+        else:
+            cur += ch
+    parts.append(cur)
+    return parts
+
+
+def _scalar(s):
+    s = s.strip()
+    if s in ("~", "null", "Null", "NULL", ""):
+        return None
+    if s.startswith("[") and s.endswith("]"):
+        return [_scalar(p) for p in _split_flow(s[1:-1]) if p.strip() != ""]
+    if len(s) >= 2 and s[0] in "\"'" and s[-1] == s[0]:
+        return _unquote(s)
+    return s
+
+
+def parse_frontmatter(text):
+    """Return (dict, body). Empty dict + full text when no/invalid block."""
+    m = re.match(r"\A---[ \t]*\n(.*?)\n---[ \t]*\n?", text, re.S)
+    if not m:
+        return {}, text
+    raw, body = m.group(1), text[m.end():]
+    out, stack = {}, []  # stack of (indent, container)
+    lines = raw.split("\n")
+    i = 0
+    try:
+        i = _parse_block(lines, 0, 0, out)
+    except Exception as e:  # noqa: BLE001 — counted, never fatal
+        FM_FAILS.append(str(e)[:80])
+        return {}, text
+    return out, body
+
+
+def _indent_of(line):
+    return len(line) - len(line.lstrip(" "))
+
+
+def _parse_block(lines, i, base_indent, container):
+    n = len(lines)
+    while i < n:
+        line = lines[i]
+        if not line.strip() or line.strip().startswith("#"):
+            i += 1
+            continue
+        ind = _indent_of(line)
+        if ind < base_indent:
+            break
+        stripped = line.strip()
+        if stripped.startswith("- "):
+            # list item inside a list container
+            item_ind = ind
+            item_text = stripped[2:].strip()
+            item = {}
+            if item_text and ":" in item_text and not item_text.startswith("["):
+                k, v = item_text.split(":", 1)
+                item[k.strip()] = _scalar(v)
+            elif item_text:
+                # scalar list item
+                if isinstance(container, list):
+                    container.append(_scalar(item_text))
+                    i += 1
+                    continue
+                else:
+                    break
+            else:
+                pass  # "- " alone: map follows on next lines
+            i += 1
+            # consume deeper-indented key: value lines into the item map
+            while i < n and lines[i].strip() and _indent_of(lines[i]) > item_ind:
+                sub = lines[i].strip()
+                if sub.startswith("- "):
+                    break
+                if ":" in sub:
+                    k, v = sub.split(":", 1)
+                    item[k.strip()] = _scalar(v)
+                    i += 1
+                else:
+                    break
+            if isinstance(container, list):
+                container.append(item if item else None)
+            else:
+                break
+            continue
+        if ":" in stripped:
+            k, v = stripped.split(":", 1)
+            k, v = k.strip(), v.strip()
+            # look ahead: nested block?
+            j = i + 1
+            while j < n and not lines[j].strip():
+                j += 1
+            if v == "" and j < n and _indent_of(lines[j]) > ind:
+                nxt = lines[j].strip()
+                if nxt.startswith("- "):
+                    child = []
+                    container[k] = child
+                    i = _parse_block(lines, j, _indent_of(lines[j]), child)
+                else:
+                    child = {}
+                    container[k] = child
+                    i = _parse_block(lines, j, _indent_of(lines[j]), child)
+                continue
+            else:
+                container[k] = _scalar(v)
+                i += 1
+                continue
+        i += 1
+    return i
+
+
+# --------------------------------------------------------------------------
+# Wikilink / cite extraction
+# --------------------------------------------------------------------------
+
+WIKILINK_RE = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]")
+CITE_RE = re.compile(r"(?<![\w/])(dat|src|pat|int|evt|syn|ent|con):([A-Za-z0-9][\w.\-]*)(?![\w])")
+FENCE_RE = re.compile(r"```.*?```", re.S)
+TRAIL_PUNCT = ".,;:)]}\"'”’"
+
+
+def strip_fences(text):
+    return FENCE_RE.sub("", text)
+
+
+def norm_page_id(raw):
+    t = raw.strip()
+    return "wiki/" + t.lower().replace(" ", "-")
+
+
+def resolve_wikilink(target, page_ids):
+    t = target.strip()
+    if t in page_ids:
+        return t
+    n = norm_page_id(t)
+    if n in page_ids:
+        return n
+    base = t.split("/")[-1].lower().replace(" ", "-")
+    cands = [p for p in page_ids if p.split("/")[-1].lower() == base]
+    if len(cands) == 1:
+        return cands[0]
+    return None
+
+
+def clean_cite_id(prefix, raw):
+    return prefix + ":" + raw.rstrip(TRAIL_PUNCT)
+
+# --------------------------------------------------------------------------
+# Relation family normalization (spec: normalize spelling/schema, keep original)
+# --------------------------------------------------------------------------
+
+FAMILY_MAP = {
+    "evidenced-by": "evidenced",
+    "evidences": "evidenced",
+    "caused-by": "caused",
+    "causes": "caused",
+}
+
+
+def family_of(rel):
+    return FAMILY_MAP.get((rel or "").strip().lower(), (rel or "").strip().lower())
+
+
+# --------------------------------------------------------------------------
+# Hub classification
+# --------------------------------------------------------------------------
+
+HUB_EXACT = {
+    "wiki/timeline/master-timeline",
+    "wiki/meta/digest",
+    "wiki/meta/recent-activity",
+    "wiki/meta/open-questions",
+}
+
+
+def hub_reason_for(pid):
+    if pid in HUB_EXACT:
+        return "named-hub"
+    if pid.endswith("/index"):
+        return "index-page"
+    if pid.startswith("wiki/share/"):
+        return "share-export"
+    return None
+
+
+# --------------------------------------------------------------------------
+# Timeline parsing
+# --------------------------------------------------------------------------
+
+TL_TIER = {"★": 1, "◆": 2, "·": 3}
+TL_ENTRY_RE = re.compile(r"^-\s*([★◆·])\s*\*\*([^*]+)\*\*\s*[—–-]\s*(.*)$")
+TL_BACK_RE = re.compile(r"^\s*↳\s*\[\[([^\]|]+)(?:\|[^\]]+)?\]\]\s*(?:·\s*(.*))?$")
+
+
+def parse_date_granularity(d):
+    d = d.strip()
+    if re.fullmatch(r"\d{4}-\d{2}-\d{2}", d):
+        return d, "day"
+    if re.fullmatch(r"\d{4}-\d{2}", d):
+        return d, "month"
+    if re.fullmatch(r"\d{4}", d):
+        return d, "year"
+    m = re.fullmatch(r"(?i)(spring|summer|fall|autumn|winter)\s+(\d{4})", d)
+    if m:
+        return m.group(2), "season"
+    return d, "year"
+
+
+def parse_timeline(path):
+    events = []
+    try:
+        text = open(path, encoding="utf-8", errors="replace").read()
+    except OSError:
+        return events
+    lines = text.split("\n")
+    n = 0
+    for i, line in enumerate(lines):
+        m = TL_ENTRY_RE.match(line)
+        if not m:
+            continue
+        tier = TL_TIER[m.group(1)]
+        date_raw = m.group(2).strip()
+        etext = m.group(3).strip()
+        date, gran = parse_date_granularity(date_raw)
+        quoted = "**" in m.group(3) or '"' in m.group(3) or '"' in m.group(3)
+        page, section = None, None
+        if i + 1 < len(lines):
+            b = TL_BACK_RE.match(lines[i + 1])
+            if b:
+                page = b.group(1).strip()
+                section = (b.group(2) or "").strip() or None
+        n += 1
+        events.append({
+            "id": f"tl-{n:05d}",
+            "date": date,
+            "granularity": gran,
+            "tier": tier,
+            "text": _html.unescape(re.sub(r"\*+", "", etext))[:600],
+            "quoted": quoted,
+            "page": page,
+            "section": section,
+        })
+    return events
+
+
+# --------------------------------------------------------------------------
+# Main build
+# --------------------------------------------------------------------------
+
+# Same contact-identifier mask as bin/wb-archive / tests/test-census, so the
+# two cannot drift. The census fails the deploy if any built file under site/
+# carries a raw phone number — derived JSON indexes included.
+PHONE = re.compile(r"\+1[0-9]{10}|\b[0-9]{3}-[0-9]{3}-[0-9]{4}\b")
+EMAIL = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
+EMAIL_OK = re.compile(r"noreply@|@example\.|@schema\.|json-schema\.org")
+MASKED = 0
+
+
+def mask_text(s):
+    global MASKED
+    def email(m):
+        global MASKED
+        if EMAIL_OK.search(m.group(0)):
+            return m.group(0)
+        MASKED += 1
+        return "[email redacted]"
+    s = EMAIL.sub(email, s)
+    def phone(m):
+        global MASKED
+        MASKED += 1
+        return "[phone redacted]"
+    return PHONE.sub(phone, s)
+
+
+def deep_mask(obj):
+    if isinstance(obj, str):
+        return mask_text(obj)
+    if isinstance(obj, list):
+        return [deep_mask(x) for x in obj]
+    if isinstance(obj, dict):
+        return {k: deep_mask(v) for k, v in obj.items()}
+    return obj
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--repo-root", default=None)
+    ap.add_argument("--out", default=None)
+    ap.add_argument("--commit", default=None)
+    args = ap.parse_args()
+
+    root = os.path.abspath(args.repo_root or os.path.join(os.path.dirname(__file__), ".."))
+    out = os.path.abspath(args.out or os.path.join(root, "site", "harness"))
+    wiki_dir = os.path.join(root, "wiki")
+    kb_dir = os.path.join(root, "kb")
+
+    if args.commit:
+        commit = args.commit
+    else:
+        try:
+            commit = subprocess.run(["git", "rev-parse", "HEAD"], cwd=root,
+                                    capture_output=True, text=True).stdout.strip()
+        except Exception:  # noqa: BLE001
+            commit = "unknown"
+    stamp = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    meta = {"generated_from_commit": commit, "generated_at": stamp,
+            "source_paths": ["wiki/", "kb/"]}
+
+    # ---- 1. wiki pages ----
+    pages = {}  # id -> {fm, body, path}
+    for dirpath, _dirs, files in os.walk(wiki_dir):
+        for f in files:
+            if not f.endswith(".md"):
+                continue
+            p = os.path.join(dirpath, f)
+            pid = os.path.relpath(p, root)[:-3]
+            try:
+                text = open(p, encoding="utf-8", errors="replace").read()
+            except OSError:
+                continue
+            fm, body = parse_frontmatter(text)
+            pages[pid] = {"fm": fm, "body": body, "path": os.path.relpath(p, root)}
+    page_ids = set(pages)
+
+    # ---- 2. kb nodes ----
+    kb_nodes = {}      # cite id -> {id, node_type, title, claim, ...}
+    kb_by_num = {}     # (prefix, number) -> [ids]
+    if tomllib is not None:
+        for dirpath, _dirs, files in os.walk(kb_dir):
+            for f in files:
+                if not f.endswith(".md"):
+                    continue
+                p = os.path.join(dirpath, f)
+                try:
+                    text = open(p, encoding="utf-8", errors="replace").read()
+                except OSError:
+                    continue
+                m = re.match(r"\A\+\+\+\n(.*?)\n\+\+\+\n?", text, re.S)
+                if not m:
+                    continue
+                try:
+                    fm = tomllib.loads(m.group(1))
+                except Exception:  # noqa: BLE001
+                    continue
+                cid = fm.get("id")
+                if not cid or ":" not in cid:
+                    continue
+                prefix, rest = cid.split(":", 1)
+                num = rest.split("-")[0] if rest[:1].isdigit() else None
+                node = {
+                    "id": cid,
+                    "node_type": fm.get("type"),
+                    "title": fm.get("title"),
+                    "claim": (fm.get("claim") or "")[:500],
+                    "confidence": fm.get("confidence"),
+                    "created": fm.get("created"),
+                    "tags": fm.get("tags") or [],
+                    "path": os.path.relpath(p, root),
+                }
+                kb_nodes[cid] = node
+                if num:
+                    kb_by_num.setdefault((prefix, num), []).append(cid)
+
+    def resolve_cite(cid):
+        if cid in kb_nodes:
+            return cid, True, None
+        if ":" in cid:
+            prefix, rest = cid.split(":", 1)
+            num = rest.split("-")[0]
+            cands = kb_by_num.get((prefix, num), [])
+            if len(cands) == 1:
+                return cands[0], True, "shorthand"
+            if len(cands) > 1:
+                return None, False, "ambiguous-shorthand"
+        return None, False, "dead"
+
+    # ---- 2b. sources: frontmatter evidence-pointer index (D1) ----
+    # Entry-kind classification P/N/A/B/C/D/E per the 2026-09-23 sources
+    # audit (proposal: ~/workspace/wiki-harness/audit/
+    # sources-repair-proposal-20260923.md).
+    #   N - kb node-ref convention: src:/dat:/pat:/int: strip the prefix
+    #       and any trailing parenthetical, then kb/sources/<core>.md
+    #       with fallback kb/data/<core>.md.
+    #   D - directory-glob entries resolve as live prefix queries
+    #       (R-DIR-ALIVE); no page edit needed for live prefixes.
+    #   E - annotations (URLs, local paths, prose testimony): not file
+    #       refs, never scored as rot.
+    # Read-only: classifies only. Never rewrites wiki pages.
+    #
+    # D2 deterministic remap table (proposal S5). Generated from the
+    # audit's final_classes.json; order R-EXT, R-EVT, per-entry TABLE.
+    SRC_REMAP = [
+        ('kb/data/0081-explicit-commitment-architecture', 'kb/data/0081-explicit-commitment-architecture.md', 'R-EXT'),
+        ('kb/data/0090-block-retraction-2026-09-11', 'kb/data/0090-block-retraction-2026-09-11.md', 'R-EXT'),
+        ('kb/data/1292-block-unblock-loop-severance-recount-129-128', 'kb/data/1292-block-unblock-loop-severance-recount-129-128.md', 'R-EXT'),
+        ('claims/events.jsonl', 'testimony/events.jsonl', 'R-EVT'),
+        ('intake/events.jsonl', 'testimony/events.jsonl', 'R-EVT'),
+        ('ingest-queue.md', 'ingest-queue.json', 'TABLE'),
+        ('raw/self/archives/google-data-export-index-20260623.html', 'raw/drive-sweep/20260911/takeout-index/google-data-export-index-20260623.html', 'TABLE'),
+        ('raw/self/chats/___ The J6 Chat.md', 'raw/googlechat/the-j6-chat.md', 'TABLE'),
+        ('raw/self/facebook/facebook-export-2026-06-23', 'kb/sources/facebook-export-2026-06-23.md', 'TABLE'),
+        ('raw/self/gmail-captures/2026-08-10-creative-license-kevin-mckiernan-gmail.md', 'raw/gmail/2026-08-10-creative-license-kevin-mckiernan-gmail.md', 'TABLE'),
+        ('raw/self/location/2026-06-22-ingest/Location History (Timeline)/Semantic Location History/2019/2019_FEBRUARY.json', 'raw/sammy/20260912-location-history/semantic/2019/2019_FEBRUARY.json', 'TABLE'),
+        ('raw/self/message-csv/aug-sep-2026-imessage-export', 'raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv', 'TABLE'),
+        ('raw/self/message-csv/imessage_export_3307038747_20260624.csv', 'raw/drive-sweep/20260911/imessage/imessage_export_3307038747_20260624.csv', 'TABLE'),
+        ('raw/self/message-csv/imessage_export_7248123683_20260624.csv', 'raw/drive-sweep/20260911/imessage/imessage_export_7248123683_20260624.csv', 'TABLE'),
+        ('raw/self/twitter/tweet-archive.xlsx', 'raw/twitter/tweet-archive.csv', 'TABLE'),
+        ('raw/self/twitter/tweets_sample_2019-2026.txt', 'raw/drive-sweep/20260911/twitter/profile-samples/tweets_sample_2019-2026.txt', 'TABLE'),
+        ('wiki/mind/synthesis/august-26-block-retraction', 'wiki/mind/synthesis/august-26-block-retraction.md', 'TABLE'),
+    ]
+    # B-class (ambiguous, D3 review queue - 65 entries). The adapter
+    # labels these B; it never resolves them.
+    SRC_AMBIGUOUS = frozenset([
+        'corpus/messages.csv',
+        'raw/self/chats/9-11-chat.md',
+        'raw/self/chats/danfrank-isms-pinned.md',
+        'raw/self/chats/j6-chat.md',
+        'raw/self/dox-md/Gemini Activity.html',
+        'raw/self/dox-md/Gemini-_07.md',
+        'raw/self/dox-md/Gemini-_13.md',
+        'raw/self/dox-md/Gemini-_18.md',
+        'raw/self/dox-md/Gemini-_21.md',
+        'raw/self/dox-md/Gemini-_58.txt',
+        'raw/self/dox-md/Gemini_07.md',
+        'raw/self/dox-md/Gemini_13.md',
+        'raw/self/dox-md/Gemini_18.md',
+        'raw/self/dox-md/Gemini_21.md',
+        'raw/self/dox-md/Jacob Bacharach.md',
+        'raw/self/dox-md/Max.md',
+        'raw/self/dox-scan/Gemini-_58.txt',
+        'raw/self/dox-scan/history.txt',
+        'raw/self/facebook/facebook-ihatedanfrank/comments_and_reactions/comments.html',
+        'raw/self/facebook/facebook-ihatedanfrank/friends_and_followers/friends.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/alexandralubin_jnwin7cizw/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/bobbycole_-p2picui8w/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/charlesdavenport_skjjehkupq/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/chrisredmond_ewkx6qfqha/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/christocoan_2cxo0swo3g/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/danpolyak_a1u7tpseha/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/davidbeard_2il3ecdfgg/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/drewmcgettigan_0m9jyrivda/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/ejrags_dooxnkq2dg/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/elizabetheleanor_7psnsflijg/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/emalyminerd_fljbb4qpoa/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/frankswaney_jcxhv7sesw/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/jennlynn_dhrmxxpvhq/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/joeoshnack_7killpebkw/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/joshbrannan_vej5dzscpa/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/kevinmckiernan__3hd8v2u0g/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/laurynashly_4_5jbvoqow/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/lewisstrosnider_t431kowlfq/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/lucasthomas_eu0ir1uckq/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/luciedobbin_xdu6oa5apw/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/lukyanmraz_cdrt3jsg7g/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/marccharles_f3gfexyecg/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/mattdunn_abk0dttjqa/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/matthewpalermo_nkpz90-e_g/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/oscarlindquist_osj0xrxodg/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/phillacher_gukgsjnnvw/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/qymuchauiq/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/rickfrank_-wir6jjh_a/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/rjritchey_1zdzzhrtsw/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/ryanscherich_z-v_ahjumq/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/seanteets_ycj9jpkeba/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/sethledonne_ydkapzhbla/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/stephanienalbone_tnsgkur3lq/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/suzannefrank_trid-zrcoa/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/tommaison_z_scvtnccq/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/trevorbevins_1zi360sana/message_1.html',
+        'raw/self/facebook/facebook-ihatedanfrank/messages/inbox/zachariahharshman_dgkcd6awma/message_1.html',
+        'raw/self/gemini-activity/Gemini Activity.html',
+        'raw/self/location/2026-06-22-ingest/Location History (Timeline)/Records.json',
+        'raw/self/location/2026-06-22-ingest/Records.json',
+        'raw/self/location/2026-06-22-ingest/Settings.json',
+        'raw/self/location/2026-06-22-ingest/semantic_location.db',
+        'raw/self/self/twitter/2013.md',
+        'raw/self/twitter/archive.jsonl',
+        'raw/self/twitter/profile.txt',
+    ])
+
+    SRC_NODEREF_RE = re.compile(r"^(src|dat|pat|int):")
+    SRC_LOCAL_RE = re.compile(r"^(~/|workspace/|Users/|/Volumes/|memory/|media_library|EPUB|corpus-extract/)")
+    SRC_PROSE_EXT = (".md", ".txt", ".csv", ".json", ".jsonl", ".html", ".htm", ".pdf", ".xlsx")
+
+    # Full-tree path set: exact-path (P) and directory-prefix (D)
+    # resolution need raw/ and testimony/ too, not just wiki/ + kb/.
+    # site/ is derived build output - excluded so derived files can
+    # never resolve a sources: entry.
+    tree_paths = set()
+    for _dp, _dn, _fs in os.walk(root):
+        if "/.git/" in _dp or _dp.endswith("/.git"):
+            _dn[:] = []
+            continue
+        _dn[:] = [d for d in _dn if d not in (".git", "site")]
+        _rel = os.path.relpath(_dp, root)
+        for _f in _fs:
+            tree_paths.add(_f if _rel == "." else _rel + "/" + _f)
+
+    def _src_norm(entry):
+        e = entry.strip()
+        e = re.sub(r"^(\./|/)", "", e)
+        return e
+
+    def _src_kind(e):
+        base = e.rsplit("/", 1)[-1]
+        if e.endswith("/") or e.endswith("*") or base == "":
+            return "dir"
+        if e.startswith("http"):
+            return "url"
+        if SRC_NODEREF_RE.match(e):
+            return "noderef"
+        if SRC_LOCAL_RE.match(e):
+            return "local"
+        return "path"
+
+    _kb_basenames = {}
+    for _p in tree_paths:
+        if _p.startswith("kb/"):
+            _kb_basenames.setdefault(_p.rsplit("/", 1)[-1], _p)
+
+    def _noderef_resolve(e):
+        # Audit-faithful candidate list (src_final.py): core = id minus the
+        # src:/dat:/pat:/int: prefix, trailing parenthetical stripped; try
+        # "<core>.md", bare "<core>", then the doubled-prefix artifacts
+        # ("dat:<core>.md", "src:<core>.md") left by the old wb-new id bug.
+        # Matched by basename across kb/, exactly as the audit did.
+        core = SRC_NODEREF_RE.sub("", e)
+        core = re.sub(r"\s*\(.*?\)\s*$", "", core).strip()
+        for cand in (core + ".md", core, "dat:" + core + ".md",
+                     "src:" + core + ".md", core.lstrip(":") + ".md"):
+            if cand in _kb_basenames:
+                return _kb_basenames[cand]
+        return None
+
+    def _dir_alive(e):
+        p = e.rstrip("*").rstrip("/")
+        return any(x == p or x.startswith(p + "/") for x in tree_paths)
+
+    SRC_REMAP_LOOKUP = {old: new for old, new, _r in SRC_REMAP}
+
+    def _classify_source(raw_entry):
+        e = _src_norm(raw_entry)
+        kind = _src_kind(e)
+        if kind == "dir":
+            alive = _dir_alive(e)
+            return ("D", e.rstrip("*").rstrip("/") if alive else None, alive)
+        if kind in ("url", "local"):
+            return ("E", None, False)
+        if kind == "noderef":
+            t = _noderef_resolve(e)
+            return (("N", t, True) if t else ("C", None, False))
+        if e in tree_paths:
+            return ("P", e, True)
+        if e in SRC_REMAP_LOOKUP and SRC_REMAP_LOOKUP[e] in tree_paths:
+            return ("A", SRC_REMAP_LOOKUP[e], True)
+        if " " in e and not e.lower().endswith(SRC_PROSE_EXT):
+            return ("E", None, False)
+        if e in SRC_AMBIGUOUS:
+            return ("B", None, False)
+        return ("C", None, False)
+
+    def _src_item_str(it):
+        # The wiki's node-ref convention writes bare `src:foo` list items.
+        # The YAML-faithful frontmatter parser reads those as single-pair
+        # mappings {"src": "foo"}; reconstruct the intended reference string.
+        if isinstance(it, str):
+            return it.strip() or None
+        if isinstance(it, dict) and len(it) == 1:
+            (k, v), = it.items()
+            k = str(k).strip().strip('"').strip("'")
+            if k in ("src", "dat", "pat", "int") and isinstance(v, str):
+                return "%s:%s" % (k, v.strip().strip('"').strip("'"))
+        return None
+
+    sources_pages = {}
+    _uniq = {}  # entry -> (class, resolved)
+    for pid, pg in pages.items():
+        _raw = pg["fm"].get("sources")
+        if _raw is None:
+            continue
+        _items = _raw if isinstance(_raw, list) else [_raw]
+        _ents = []
+        for _it in _items:
+            _s = _src_item_str(_it)
+            if not _s:
+                continue
+            _cls, _tgt, _ok = _classify_source(_s)
+            _ents.append({"entry": _s, "class": _cls,
+                            "target": _tgt, "resolved": _ok})
+            if _s not in _uniq:
+                _uniq[_s] = (_cls, _ok)
+        if _ents:
+            sources_pages[pid] = {
+                "entries": _ents,
+                "resolved": sum(1 for x in _ents if x["resolved"]),
+                "total": len(_ents),
+            }
+
+    _cls_counts = {}
+    _ures = 0
+    for _e, (_c, _ok) in _uniq.items():
+        _cls_counts[_c] = _cls_counts.get(_c, 0) + 1
+        if _ok:
+            _ures += 1
+    _eres = sum(x["resolved"] for _p in sources_pages.values()
+                for x in _p["entries"])
+    _etot = sum(_p["total"] for _p in sources_pages.values())
+    sources_coverage = {
+        "unique_total": len(_uniq),
+        "unique_resolved": _ures,
+        "unique_pct": round(100.0 * _ures / len(_uniq), 1) if _uniq else 0.0,
+        "entry_total": _etot,
+        "entry_resolved": _eres,
+        "entry_pct": round(100.0 * _eres / _etot, 1) if _etot else 0.0,
+        "classes_unique": _cls_counts,
+        "pages_with_sources": len(sources_pages),
+    }
+    # ---- 3. graph ----
+    nodes = {}
+    edges = []
+    edge_idx = {}  # (source, target, class, relation) -> idx
+    evidence_index = {}
+    dead_links_total = 0
+    unresolvable_conns = 0
+
+    def add_edge(source, target, relation, relation_original, klass, provenance):
+        key = (source, target, klass, relation)
+        if key in edge_idx:
+            edges[edge_idx[key]]["frequency"] += 1
+            return
+        edge_idx[key] = len(edges)
+        edges.append({
+            "source": source, "target": target,
+            "relation": relation, "relation_original": relation_original,
+            "class": klass, "direction": "out",
+            "provenance": provenance, "strength": 0.0, "frequency": 1,
+        })
+
+    for pid, pg in pages.items():
+        fm, body = pg["fm"], strip_fences(pg["body"])
+        # wikilinks → ASSOCIATIVE
+        for m in WIKILINK_RE.finditer(body):
+            tgt = resolve_wikilink(m.group(1), page_ids)
+            if tgt is None or tgt == pid:
+                if tgt is None:
+                    dead_links_total += 1
+                    pg.setdefault("dead_link_count", 0)
+                    pg["dead_link_count"] += 1
+                continue
+            add_edge(pid, tgt, "wikilink", None, "ASSOCIATIVE", "body:wikilink")
+        # related: / synthesizes: → SEMANTIC
+        for field, rel in (("related", "related-to"), ("synthesizes", "synthesizes")):
+            for item in (fm.get(field) or []):
+                t = item if isinstance(item, str) else item.get("page") or item.get("target")
+                if not t:
+                    continue
+                t = t.strip().strip("[]")
+                if t in page_ids and t != pid:
+                    add_edge(pid, t, rel, rel, "SEMANTIC", f"frontmatter:{field}")
+                else:
+                    unresolvable_conns += 1
+        # connections: → SEMANTIC (typed)
+        conns = fm.get("connections") or []
+        if isinstance(conns, dict):
+            conns = []
+        for c in conns:
+            if not isinstance(c, dict):
+                continue
+            t = (c.get("page") or c.get("target") or "").strip().strip("[]")
+            rel_raw = (c.get("type") or c.get("relation") or "related-to")
+            if t in page_ids and t != pid:
+                add_edge(pid, t, family_of(rel_raw), rel_raw, "SEMANTIC",
+                         "frontmatter:connections")
+            else:
+                unresolvable_conns += 1
+        # kb cites → EVIDENCE
+        ev_items = []
+        for m in CITE_RE.finditer(body):
+            cid = clean_cite_id(m.group(1), m.group(2))
+            resolved_id, ok, how = resolve_cite(cid)
+            line = body[:m.start()].count("\n") + 1
+            if ok:
+                node = kb_nodes[resolved_id]
+                add_edge(pid, resolved_id, "cites", None, "EVIDENCE", "body:cite")
+                ev_items.append({
+                    "cite": cid, "resolved": True,
+                    "resolved_id": resolved_id,
+                    "node_type": node["node_type"], "node_title": node["title"],
+                    "claim": node["claim"], "confidence": node["confidence"],
+                    "created": node["created"], "tags": node["tags"],
+                    "source_location": f"{pid}#L{line}",
+                    "resolution": how or "exact",
+                })
+            else:
+                ev_items.append({
+                    "cite": cid, "resolved": False,
+                    "source_location": f"{pid}#L{line}",
+                    "resolution": how,
+                })
+        if ev_items:
+            evidence_index[pid] = ev_items
+
+    # ---- 4. timeline ----
+    tl_path = os.path.join(wiki_dir, "timeline", "master-timeline.md")
+    events = parse_timeline(tl_path)
+    chrono_pages = {e["page"] for e in events if e["page"]}
+
+    # ---- 5. nodes ----
+    out_deg = {}
+    in_deg = {}
+    for e in edges:
+        out_deg[e["source"]] = out_deg.get(e["source"], 0) + 1
+        in_deg[e["target"]] = in_deg.get(e["target"], 0) + 1
+
+    BASE_STRENGTH = {"SEMANTIC": 0.9, "EVIDENCE": 0.8, "ASSOCIATIVE": 0.6}
+    hub_ids = set()
+    for pid, pg in pages.items():
+        hr = hub_reason_for(pid)
+        if hr:
+            hub_ids.add(pid)
+    for e in edges:
+        s = BASE_STRENGTH[e["class"]]
+        if e["target"] in hub_ids:
+            s *= 0.3
+        if e["frequency"] > 3:
+            s *= 0.7
+        e["strength"] = round(s, 3)
+
+    # adjacency
+    adj_out, adj_in = {}, {}
+    for idx, e in enumerate(edges):
+        adj_out.setdefault(e["source"], []).append(idx)
+        adj_in.setdefault(e["target"], []).append(idx)
+
+    for pid, pg in pages.items():
+        fm = pg["fm"]
+        hr = hub_reason_for(pid)
+        title = fm.get("title") or pid.split("/")[-1].replace("-", " ")
+        nodes[pid] = {
+            "id": pid,
+            "title": title if isinstance(title, str) else str(title),
+            "domain": fm.get("domain"),
+            "page_type": fm.get("page_type"),
+            "tags": fm.get("tags") or [],
+            "aliases": fm.get("aliases") or [],
+            "date_start": fm.get("date_range_start"),
+            "date_end": fm.get("date_range_end"),
+            "hub": hr is not None,
+            "hub_reason": hr,
+            "out_degree": out_deg.get(pid, 0),
+            "in_degree": in_deg.get(pid, 0),
+            "evidence_count": len([x for x in evidence_index.get(pid, []) if x["resolved"]]),
+            "has_chronology": pid in chrono_pages or bool(fm.get("date_range_start")),
+            "dead_link_count": pg.get("dead_link_count", 0),
+            "outbound": adj_out.get(pid, []),
+            "inbound": adj_in.get(pid, []),
+        }
+
+    # ---- 6. search adapter ----
+    search = []
+    for pid, pg in pages.items():
+        n = nodes[pid]
+        sample = re.sub(r"\s+", " ", re.sub(r"[#*`>\[\]()]", "", pg["body"][:400]))[:200]
+        search.append({
+            "id": pid, "title": n["title"], "aliases": n["aliases"],
+            "domain": n["domain"], "page_type": n["page_type"],
+            "tags": n["tags"], "rel_count": n["out_degree"] + n["in_degree"],
+            "evidence": n["evidence_count"] > 0, "chrono": n["has_chronology"],
+            "sample": sample,
+        })
+    search.sort(key=lambda s: -s["rel_count"])
+
+    # ---- 7. write ----
+    data_dir = os.path.join(out, "data")
+    os.makedirs(data_dir, exist_ok=True)
+
+    def dump(name, payload):
+        with open(os.path.join(data_dir, name), "w", encoding="utf-8") as f:
+            json.dump(deep_mask(payload), f, ensure_ascii=False, separators=(",", ":"))
+
+    dump("page-graph.json", {**meta, "nodes": nodes, "edges": edges,
+                             "stats": {
+                                 "pages": len(nodes), "edges": len(edges),
+                                 "hubs": len(hub_ids),
+                                 "dead_wikilink_occurrences": dead_links_total,
+                                 "unresolvable_frontmatter_targets": unresolvable_conns,
+                                 "frontmatter_parse_failures": len(FM_FAILS),
+                                 "relation_families": FAMILY_MAP,
+                             }})
+    dump("evidence-index.json", {**meta, "pages": evidence_index})
+    dump("sources-index.json", {**meta, "source_paths": ["wiki/", "kb/", "raw/", "testimony/"],
+                                       "pages": sources_pages, "coverage": sources_coverage})
+    dump("search-adapter.json", {**meta, "objects": search})
+    dump("timeline.json", {**meta, "source": "wiki/timeline/master-timeline.md",
+                           "events": events,
+                           "stats": {"events": len(events)}})
+
+    # ---- 8. copy app source ----
+    app_src = os.path.join(root, "harness")
+    if os.path.isdir(app_src):
+        for item in os.listdir(app_src):
+            s, d = os.path.join(app_src, item), os.path.join(out, item)
+            if os.path.isdir(s):
+                shutil.copytree(s, d, dirs_exist_ok=True)
+            else:
+                shutil.copy2(s, d)
+
+    print(f"wb-harness: {len(nodes)} nodes, {len(edges)} edges, "
+          f"{len(events)} timeline events, {len(kb_nodes)} kb nodes "
+          f"-> {out} (commit {commit[:7]})")
+    print(f"wb-harness: sources: {sources_coverage['unique_resolved']}/"
+          f"{sources_coverage['unique_total']} unique entries resolve "
+          f"({sources_coverage['unique_pct']}%)")
+    if FM_FAILS:
+        print(f"wb-harness: {len(FM_FAILS)} frontmatter parse failures (counted, skipped)")
+
+
+if __name__ == "__main__":
+    sys.exit(main())

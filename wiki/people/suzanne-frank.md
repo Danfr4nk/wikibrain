@@ -10,24 +10,24 @@ date_created: 2026-06-22
 date_modified: 2026-09-04
 date_range_start: 1962-09-15
 sources:
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/message-csv/imessage_export_deep_20260813.csv
-  - raw/self/message-csv/imessage_7243228715_both_all_now.csv
-  - raw/self/message-csv/README_20260813_exports.md
-  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/suzannefrank_trid-zrcoa/message_1.html
-  - raw/self/facebook/facebook-ihatedanfrank/other_personal_information/your_address_books.html
-  - "raw/self/ancestry/extracted/Daniel Frank family tree.txt"
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-md/operating_manual.md
-  - raw/self/dansynth/DANSYNTH.txt
-  - raw/self/dox-md/Gemini-_07.md
-  - raw/self/dox-md/end-fight-notebooklm-podcast-transcript.md
-  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md
-  - raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md
-  - raw/self/captures/2026-08-10_015145_suz-winter-park-condo-tenant.md
-  - raw/self/captures/2026-08-10_160647_winter-park-condo-address.md
-  - raw/self/captures/2026-08-10_websearch-winter-park-condo-lead.md
-  - raw/people/captures/2026-08-27_223406_gap-alexis-armel.md
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_export_deep_20260813.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_7243228715_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/README_20260813_exports.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/suzannefrank_trid-zrcoa/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/other_personal_information/your_address_books.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - "raw/self/ancestry/extracted/Daniel Frank family tree.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-07.md
+  - raw/self/dox-md/end-fight-notebooklm-podcast-transcript.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-10_015145_suz-winter-park-condo-tenant.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-10_160647_winter-park-condo-address.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-10_websearch-winter-park-condo-lead.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-27_223406_gap-alexis-armel.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/places/337-saratoga-drive
   - wiki/legal/463-morgantown

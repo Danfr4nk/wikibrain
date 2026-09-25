@@ -6,9 +6,9 @@ status: active
 date_created: 2026-07-14
 date_modified: 2026-07-15
 sources:
-  - raw/self/dox-scan/browser_history_analysis.txt
-  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md
-  - raw/self/ancestry/extracted/Daniel Frank family tree.txt
+  - raw/self/dox-scan/browser_history_analysis.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/ancestry/extracted/Daniel Frank family tree.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/self/ancestry
 connections:

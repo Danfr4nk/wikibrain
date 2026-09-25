@@ -8,21 +8,21 @@ importance: critical
 relation_type: family
 knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-09-12
+date_modified: 2026-09-23
 date_range: ["1920-08-15", "2018-04-04"]
 tags: [family, uniontown-era, grief, music-production, financial-stress]
 sources:
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md
-  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md
-  - raw/people/captures/2026-08-01_180942_fran-name-change.md
-  - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dansynth/DANSYNTH.txt
-  - raw/self/dansynth/dansynth-scrape-phases-2-7.md
-  - raw/people/captures/2026-07-15_192028_dan-s-maternal-great-grandmother-fran-wh.md
-  - raw/people/captures/2026-07-15_192608_dan-s-maternal-great-grandmother-fran-wh.md
-  - "raw/self/dox-md/_Photo Thread PT II_ Grand Finale Calibration .md"
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-01_180942_fran-name-change.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/dansynth-scrape-phases-2-7.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-07-15_192028_dan-s-maternal-great-grandmother-fran-wh.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-07-15_192608_dan-s-maternal-great-grandmother-fran-wh.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - "raw/self/dox-md/_Photo Thread PT II_ Grand Finale Calibration .md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 images:
   infobox:
     src: wiki/media/profile-fran-coldren.jpg
@@ -186,6 +186,15 @@ outrank both.
 > memory — Dan describing her, at the time, as *97*. That is consistent with an
 > August 1920 birth and an April 2018 death. The 93 and the 98 are both
 > recollection error.
+
+> **HEALTH LOG [2026-09-23] — 2010-07-15 ER visit.** Eight years before the
+> caregiving era, Suz reported: *"Gram is ok. They think fluid is building up
+> around her heart/lungs at night when sleeping. Gave her diuretics, lasics to
+> help that. She is home. Feels fine."* **[dat:1885]**. This is the earliest
+> dated health event the corpus holds on Fran — a same-day ER discharge for
+> cardiac/pulmonary fluid at age ~89–90, treated and released. It predates the
+> page's 2017–2018 health narrative by seven years and belongs at the head of
+> any future health timeline.
 
 ## The line she comes from, and the three marriages
 

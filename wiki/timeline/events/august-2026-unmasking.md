@@ -12,7 +12,7 @@ date_modified: 2026-08-20
 date_range_start: 2026-08-08
 date_range_end: 2026-08-09
 sources:
-  - raw/people/captures/2026-08-08_190122_identity-of-the-interloper.md
+  - raw/people/captures/2026-08-08_190122_identity-of-the-interloper.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 connections:
   - page: wiki/mind/synthesis/the-rescue-premise
     type: precedes

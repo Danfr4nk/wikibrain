@@ -18,15 +18,15 @@ infobox:
 date_range_start: 2024-08-01
 date_range_end: 2026-06-01
 sources:
-  - raw/self/dox-md/Honest assessment and value judgment analysis.md
-  - raw/self/dox-scan/DanAnnie_CorrectiveAddendum.txt
-  - raw/self/dox-scan/Dan Profile.txt
-  - raw/self/dox-scan/DanAnnie_MasterRecord_March16.docx
-  - raw/self/dox-scan/DanAnnie_MasterRecord_FINAL.docx
-  - raw/self/dox-scan/DanAnnie_CompleteRecord_Final.docx
-  - raw/self/dox-scan/DanAnnie_TenYears_WithAmendments.docx
-  - raw/self/message-csv/imessages_2124702449_last6months.csv
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
+  - raw/self/dox-md/Honest assessment and value judgment analysis.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_CorrectiveAddendum.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_MasterRecord_March16.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_MasterRecord_FINAL.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_CompleteRecord_Final.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/DanAnnie_TenYears_WithAmendments.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessages_2124702449_last6months.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [infidelity, trauma-bond, nyc-era]
 connections:
   - page: wiki/mind/concepts/node-locking

@@ -7,8 +7,8 @@ date_created: 2026-07-14
 date_modified: 2026-09-21
 knowledge: mixed
 sources:
-  - raw/self/dox-scan/Dan Profile.txt
-  - raw/self/dansynth/DANSYNTH.txt
+  - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - "kb/data/1113-emotional-imprinting-single-source-dossier.md"
   - "kb/data/0081-explicit-commitment-architecture.md"
   - "kb/data/0622-attachment-model-129-episodes-resolution-withdraws-110-127.md"

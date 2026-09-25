@@ -4,7 +4,7 @@ page_type: concept
 title: "Wiki Brain tooling — renderer, validators, and the push pipeline"
 status: active
 date_created: 2026-09-11
-date_modified: 2026-09-20
+date_modified: 2026-09-23
 sources:
   - "Sammy working context, 2026-09-11"
 related:
@@ -58,6 +58,42 @@ what the cached session shows.
 Evidence: `evt:gate-password-deploy-white-screen-20260915`,
 `src:sammy-chat-transcript-20260915-0630`.
 
+## Agent mirror — three-surface publishing (2026-09-23)
+
+The wiki's second render target, launched 2026-09-23 ~00:46Z under the
+working name "shitty-LLM-proofing": every one of the 615 articles now ships
+an agent-optimized twin at `/agent/wiki/...`, mirroring the human tree
+exactly. Same information, restructured for weak models — metadata header,
+summary, entity index, timelines, full body with the flourishes stripped.
+Nothing dropped **[dat:1891]**.
+
+The three surfaces:
+
+1. **Human** — the existing rendered site (galaxy-charge splash, password
+   gate, full prose).
+2. **Agent** — deterministic per-article `.md` under `site/agent/`, built by
+   `bin/wb-wiki` (the 2026-09-23 change was +223 lines to the builder),
+   plus `agent/START-HERE.md` and a plain-text `agent/index.txt`.
+3. **Machine** — `wiki.json` (the whole corpus as structured data) and an
+   `llms.txt` with an articles block, so crawlers and model pipelines can
+   ingest the wiki without scraping HTML.
+
+The front door grew a two-sides section linking the human articles and the
+agent mirror side by side. Pages deploy verified green 01:05:33Z; a
+paste-ready prompt for weak agents ("how to read this wiki") was delivered
+01:15Z. Committed same-session (`42e8bee`, `3d95921`, `b28c1fc`).
+
+Why it matters to the architecture: the wiki's standing bet is that the
+corpus is primary and every consumer — human, agent, or pipeline — reads
+from the same source of truth. Before the mirror, agent consumers got the
+human surface (prose optimized for reading pleasure) or nothing. The mirror
+makes the agent surface a first-class build artifact with the same
+determinism guarantees as the human one: same builder, same commit, same
+deploy. If the two surfaces ever disagree, that is a builder bug, not an
+editorial choice.
+
+Evidence: `dat:1891`, `src:20260923-0230-sammy-chat-transcript`.
+
 ## Status (2026-09-11)
 
 Live and gating every batch. The cron `wiki-brain-writeback-6h` is the operational heartbeat; the work-queue document (`~/workspace/wiki-sync/WORK-QUEUE.md`) is the backlog it clears.
@@ -107,6 +143,41 @@ his before anything touches the wiki. Both the Claude burn-down and the
 claude.ai chat pull are parked behind the same Google device-prompt (phone tap)
 constraint. Tracked as the "Jev typed-decision gating evaluation" item; the
 user-facing goal record is created in main chat.
+
+
+### 2026-09-24 — D3 evaluation: Jev scored against 65 human-reviewed decisions
+
+Dan proposed the test himself ("Let's TRY it just to see on something,"
+04:42:28Z): Sammy ran his own 65 hand-reviewed D3 sources-repair decisions —
+26 confirmed-target, 39 confirmed-unresolved, each verified against the live
+tree that night — through Jev as a labeled set ("let's let it try tk
+classify," 04:42:39Z). **Result: 83% agreement; Jev went 39/39 on the
+rot/unresolved cases at 0.92–0.98 confidence.** All 11 disagreements had one
+shape: Sammy said confirmed-target, Jev said "needs investigation" at ~0.5 —
+and every one of those required diffing actual file bytes, which Jev never
+saw. The pilot 8/8 showed the same pattern: the three "wrong content" cases
+(`message_1.html`, `messages.csv`, `comments.html`) it called unresolved at
+0.92–0.98 (decisive); the five confirmed targets it got right but hedged
+~0.48 vs ~0.46. Jev was never confidently wrong. The evaluation concluded Jev
+fits a **triage/pre-sorter role** — auto-flagging obvious rot, punting
+"looks plausible, go verify" cases to humans — not a decider. D3's
+identity-adjacent calls stay human per Dan's held line ("don't let the
+harness guess identity"). Full results: `dat:1923-jev-d3-evaluation-20260924`;
+the D3 repair record is the `dat:1907`–`dat:1922` series.
+
+That same night (~00:47–01:33 EDT) Dan challenged Sammy to design *permanent*
+Jev mechanisms to clear large backlogs across the full wikibrain — the
+expansion backlog, contradiction checks, ingest cross-checks, dead-link
+repair — and, after running the same prompt past Grok and ChatGPT for
+comparison ("1 was grok, 2 was ChatGPT. Same prompt"), approved the direction
+with full implementation authority: "approved" (~01:17 EDT), "You're the
+boss. I defer to you" (~01:20 EDT), "Go go" (~01:33 EDT). The critique that
+traveled with the approval: the LLM proposals asserted labeled eval sets
+that do not exist ("80 articles already scored by two humans," etc.) —
+building real labeled sets is the price of admission, and Jev stays
+packet-bound, evaluation-first, never declaring identity. Recorded as
+`dat:1925-jev-mechanism-authority-20260924`, and as Grant four in
+[[wiki/meta/standing-authorizations]].
 
 Evidence: `dat:1809-jev-gating-proposal-20260919`,
 `dat:1810-jev-verdict-evaluation-first-20260919`,

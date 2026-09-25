@@ -8,8 +8,8 @@ importance: high
 date_created: 2026-07-13
 date_modified: 2026-09-13
 sources:
-  - raw/self/dox-md/FULL PROFILE 2026.md
-  - raw/self/dox-scan/Dan Profile.txt
+  - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/mind/profile/index
   - wiki/mind/profile/intp

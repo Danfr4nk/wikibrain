@@ -1,0 +1,79 @@
+{
+  "batch": "20260924-2340",
+  "pulled_at_utc": "2026-09-24T23:48:00Z",
+  "watermark_from": "2026-09-24T11:43:24.136Z",
+  "watermark_to": "2026-09-24T23:21:47.485Z",
+  "counts": {
+    "rows": 885,
+    "user": 381,
+    "assistant": 504,
+    "empty_body_assistant": 52
+  },
+  "exclusions": {
+    "taxonomy": "role=user|assistant only (1286+83 system rows excluded)",
+    "side_chat_24754b5b": "0 rows in window (standing full-writeback exclusion)"
+  },
+  "secrets_scan": {
+    "hits": 0,
+    "note": "sk-presentation/sk-tombstone are browser-task identifiers, not secrets"
+  },
+  "phone_like_rows": 6,
+  "files": {
+    "chats.json": {
+      "sha256": "997be318f078ad487931dcad6b6466228ea8132f06d007d7b20beaa5d4675565",
+      "bytes": 468777
+    },
+    "chats.jsonl": {
+      "sha256": "991f62253f26c9af81e73c243670ba018a20d5bcece77cbe43fce4f43cbc21ac",
+      "bytes": 450190
+    },
+    "instagram-story-18060628718793649.json": {
+      "sha256": "650064a6ff6a9420c82e015424ebedc7b5c13b3427c9e465a27ee4039232b2a8",
+      "bytes": 3965
+    },
+    "spotify.json": {
+      "sha256": "4612e3bd787c7d78b1bfd8ede3000fb2b47af34773de98b1bc547333817185fd",
+      "bytes": 94
+    }
+  },
+  "external": {
+    "instagram": {
+      "new_own_stories": 1,
+      "id": "18060628718793649",
+      "posted": "2026-09-23T23:44:22-04:00",
+      "expires": "2026-09-25T06:44:22Z",
+      "viewers": 36,
+      "new_feed_posts": 0
+    },
+    "threads": {
+      "new": 0
+    },
+    "facebook": {
+      "new": 0
+    },
+    "messenger": {
+      "new": 0,
+      "sync": "both"
+    },
+    "spotify": {
+      "now_playing": "NONE",
+      "unchanged_since": "2026-09-23T23:43:49Z"
+    },
+    "device": {
+      "status": "no read path (standing)"
+    },
+    "gmail": {
+      "status": "excluded per standing order"
+    }
+  },
+  "kb_analysis": {
+    "src": "src:20260924-2340-sammy-chat-transcript",
+    "datums": "1938-1970 (33)",
+    "interpretations": 2,
+    "pattern_extended": "trust-escalation-ladder rung 8",
+    "entities": [
+      "annie-ulmer",
+      "dan"
+    ]
+  }
+}

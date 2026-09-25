@@ -8,7 +8,7 @@ date_modified: 2026-09-22
 date_range_start: 2017-04-20
 date_range_end: 2026-05-13
 sources:
-  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"
+  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - raw/imessage/messages-part1-2011-2019.csv
   - raw/imessage/messages-part2-2019-2026.csv
   - corpus/manifest.json

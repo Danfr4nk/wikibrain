@@ -7,27 +7,27 @@ status: closed
 knowledge: mixed
 importance: high
 date_created: 2026-06-23
-date_modified: 2026-09-12
+date_modified: 2026-09-24
 date_range_start: 2009-10-01
 date_range_end: 2025-02-19
 sources:
-  - raw/self/chats/Analyzing manipulation and ethical intent in data.md
-  - raw/self/dox-scan/gmail_bodies.txt
-  - raw/self/message-csv/imessage_export_7249707658_both_all_now.csv
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-scan/FULL TWITTER ANALYSIS.txt
-  - raw/self/twitter/archive.jsonl
-  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md
-  - raw/self/dox-scan/dan tom 2010 2022.txt
-  - raw/self/dox-scan/Gemini-_58.txt
-  - raw/self/dox-md/Gemini-_18.md
-  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md
-  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/lucasthomas_eu0ir1uckq/message_1.html
-  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/qymuchauiq/message_1.html
-  - raw/people/captures/2026-08-27_222932_gap-alexis-armel.md
-  - raw/people/captures/2026-08-27_223406_gap-alexis-armel.md
+  - raw/self/chats/Analyzing manipulation and ethical intent in data.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/gmail_bodies.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_export_7249707658_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/FULL TWITTER ANALYSIS.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/twitter/archive.jsonl
+  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/dan tom 2010 2022.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-58.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md
+  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/lucasthomas_eu0ir1uckq/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/qymuchauiq/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-27_222932_gap-alexis-armel.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-27_223406_gap-alexis-armel.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [relationships, attachment, infidelity, nyc-era, uniontown-era]
 infobox:
   name: "Alexis Armel"
@@ -110,7 +110,7 @@ connections:
     claim: "A 2026-08-27 operator capture narrows that page's own stated gap — no dated record placed the Danielle-ends/Alexis-begins sequence to specific weeks — by dating the meeting to a Thanksgiving 2009 trip home, a few months after the August 2009 graduation."
   - page: wiki/health/chemical-architecture
     type: causes
-    claim: "Alexis supplies thirty Roxicet pills over the Thanksgiving weekend they meet, restarting the opiate use that page's own timeline says was 'truly kicked' at that point — the previously unnamed final active-use episode immediately preceding the February 17, 2010 Suboxone stabilization seven weeks later."
+    claim: "Alexis supplies thirty Roxicet pills over the Thanksgiving weekend they meet, restarting the opiate use that page's own timeline says was 'truly kicked' at that point — the previously unnamed final active-use episode immediately preceding the February 17, 2010 Suboxone stabilization about twelve weeks later."
   - page: wiki/people/zach-clingan
     type: co-occurs
     claim: "A Christmas 2009 party at Suz's house is the dated origin of Dan's 'arch rival' framing of Clingan — an accusation that Alexis had been sexually involved with him in his car outside the party ends their friendship on the spot, five years before either the 2014 'drug people' taxonomy or the December 2015 'THAT is who introduced me to drugs' outburst."
@@ -231,7 +231,7 @@ on Dan's own Facebook profile under "Previous relationships," in that order.
 > called **Spetch**, described as a childhood friend and roommate of
 > [[wiki/people/jason-bermejo|Jason Bermejo]], drives from Winter Park to
 > Ocala daily to keep it running. The full causal chain — Thanksgiving
-> relapse, escalation over Christmas, stabilization seven weeks later — is
+> relapse, escalation over Christmas, stabilization about twelve weeks later — is
 > written up on [[wiki/timeline/periods/full-sail-2008-2010]] and
 > [[wiki/health/chemical-architecture]] rather than duplicated here.
 >

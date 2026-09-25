@@ -7,18 +7,18 @@ status: active
 importance: high
 knowledge: earned
 date_created: 2026-08-19
-date_modified: 2026-08-31
+date_modified: 2026-09-24
 sources:
-  - raw/self/dox-md/ADDICTION_PROFILE.md
-  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/legal/documents/2015-02_fayette-court-blotter-possession-charges.md
-  - raw/legal/captures/2026-08-02_200741_the-arrest-the-real-one.md
-  - raw/self/dox-md/operating_manual.md
-  - raw/self/dox-md/MAX_PRIME.md
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/health/intake/intake_unit_01M1AJ47K2HKZ8TZZ75CPNGFJ7.md
-  - intake/events.jsonl
+  - raw/self/dox-md/ADDICTION_PROFILE.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/legal/documents/2015-02_fayette-court-blotter-possession-charges.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/legal/captures/2026-08-02_200741_the-arrest-the-real-one.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/MAX_PRIME.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/health/intake/intake_unit_01M1AJ47K2HKZ8TZZ75CPNGFJ7.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - testimony/events.jsonl
 synthesizes:
   - wiki/health/chemical-architecture
   - wiki/mind/synthesis/supply-network
@@ -48,7 +48,7 @@ connections:
     claim: "Dan's only real arrest was for cocaine residue in an empty bag — a Class B count that triggered a DA policy against ARD for cocaine cases and required his lawyer to defeat a categorical bar to keep his record clean."
   - page: wiki/people/suzanne-frank
     type: evidenced-by
-    claim: "Cocaine is the substance implicated in the Frank family rupture — the mother's affair with their cocaine dealer and the father's rehab admission both sit inside a pattern of cocaine-adjacent dysfunction that Dan later adopted freely while excluding alcohol."
+    claim: "Cocaine is the substance implicated in the Frank family rupture — the mother's affair with their cocaine dealer [TESTIMONY — his account; no documentary corroboration found] and the father's rehab admission both sit inside a pattern of cocaine-adjacent dysfunction that Dan later adopted freely while excluding alcohol."
   - page: wiki/people/jay-lauer
     type: evidenced-by
     claim: "Jay Lauer traded suboxone and cocaine with Dan across seven weeks spanning the 2016–17 New Year, and died of a heroin overdose on or about April 11, 2017 — the only documented death attributable to the drug economy Dan was inside."
@@ -160,11 +160,13 @@ history that shaped both.
 ## Genesis: family exposure, and first use
 
 Cocaine first entered Dan's household as a known concept at **age 13
-(2001)**, through the discovery of his parents' own use — the same
+(2001)**, through the discovery of his parents' own use **[TESTIMONY —
+his account; no documentary corroboration found]** — the same
 substance later implicated in the November 2005 rupture was already a
 familiar, "adult" behavior in the house years before that hinge event.
 His father's rehab admission and his mother's affair with their cocaine
-dealer both sit inside a broader pattern of alcohol-adjacent family
+dealer **[TESTIMONY — his account; no documentary corroboration found]**
+both sit inside a broader pattern of alcohol-adjacent family
 dysfunction in which cocaine was present but not, for Dan, radioactive.
 The selectivity is the diagnostic detail: four family members across
 three generations were functional alcoholics, and alcohol is specifically

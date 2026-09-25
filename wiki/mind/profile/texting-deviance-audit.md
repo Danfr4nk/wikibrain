@@ -11,8 +11,8 @@ importance: high
 date_range_start: 2015-11-12
 date_range_end: 2026-08-13
 sources:
-  - raw/self/message-csv/imessage_export_deep_20260813.csv
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
+  - raw/self/message-csv/imessage_export_deep_20260813.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [personality-profile, digital-footprint, forensic-analysis, relationships]
 connections:
   - page: wiki/mind/profile/linguistic-profile

@@ -7,11 +7,11 @@ status: active
 date_created: 2026-07-15
 date_modified: 2026-09-12
 sources:
-  - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/message-csv/imessage_ALL_both_2026-05-31_2026-06-02.csv
-  - raw/self/dox-md/operating_manual.md
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
+  - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_ALL_both_2026-05-31_2026-06-02.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/people/annie-ulmer
   - wiki/people/alexis-armel

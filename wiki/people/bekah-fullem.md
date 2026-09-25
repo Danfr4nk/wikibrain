@@ -7,7 +7,7 @@ date_modified: 2026-08-26
 date_range_start: 2020-02-09
 date_range_end: 2020-03-29
 sources:
-  - raw/self/message-csv/imessage_export_17245629389_both_all_now.csv
+  - raw/self/message-csv/imessage_export_17245629389_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [mental-health, financial-stress, digital-footprint]
 knowledge: mixed
 infobox:

@@ -6,7 +6,7 @@ date_created: 2026-06-23
 date_modified: 2026-09-18
 date_range_start: 2019-03-12
 date_range_end: 2019-12-24
-sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv", "raw/self/dox-scan/history.txt", "raw/people/annie-ulmer/escort-messages-chatgpt-export-2025-08.md"]
+sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/wiki/new-wiki/wikibrain/wiki/interests/favorites/books/topics/history.md", "raw/people/annie-ulmer/escort-messages-chatgpt-export-2025-08.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/people/annie-ulmer", "wiki/timeline/events/shelbie-annie-threesome-april-2019", "wiki/people/eric-jester", "wiki/self/message-corpora/master-message-dump", "wiki/mind/psychosexual/arrangement-history"]
 tags: [relationships, digital-footprint]
 knowledge: mixed

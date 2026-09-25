@@ -29,7 +29,7 @@ connections:
   - page: wiki/interests/music/concepts/sub-bass-signature
     type: evidenced-by
     claim: "The 63–85% band is the invariant the whole argument rests on: it is measured the same across SLOPPP, MOGZART and GRIPNOTIC, so the sonic identity demonstrably does not turn over when the name does."
-  - page: wiki/interests/music/concepts/lyrics-as-timbre
+  - page: wiki/mind/concepts/lyric-qualifier
     type: evidenced-by
     claim: "The second invariant: across thirteen years and every alias the catalog is remixes, bootlegs, instrumentals and spoken AI drops, and never a sung original lyric — a refusal that survives every rebrand it is supposedly subject to."
   - page: wiki/people/fran-coldren

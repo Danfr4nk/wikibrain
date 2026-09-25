@@ -5,7 +5,7 @@ knowledge: mixed
 status: active
 date_created: 2026-07-25
 date_modified: 2026-08-18
-sources: ["raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip", "raw/self/ancestry/extracted/"]
+sources: ["raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/ancestry/extracted/ — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 tags: [family]
 connections:
   - page: wiki/mind/synthesis/ancestral-dialectic

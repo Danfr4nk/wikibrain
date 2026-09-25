@@ -10,16 +10,16 @@ date_modified: 2026-09-11
 importance: high
 tags: [ai-collaboration, forensic-analysis, digital-footprint]
 sources:
-  - "raw/self/chatgpt-export/dfrank-chatgpt-conversations-2022-2025.json"
-  - "raw/self/chatgpt-export/babbitt-shooting-psyop-debate-2025-06-15.md"
-  - "raw/self/chatgpt-export/mom-info-logged-2025-05-23.md"
-  - "raw/people/annie-ulmer/escort-messages-chatgpt-export-2025-08.md"
-  - "raw/self/captures/2026-08-19_162808_gap-chatgpt.md"
-  - "raw/self/captures/2026-08-19_162720_gap-chatgpt.md"
-  - "raw/self/gemini-activity/Gemini Activity.html"
-  - "raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md"
-  - "raw/self/dox-scan/Fresh perspective and research needed.txt"
-  - "raw/self/twitter/tweets_sample_2019-2026.txt"
+  - "raw/self/chatgpt-export/dfrank-chatgpt-conversations-2022-2025.json — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/chatgpt-export/babbitt-shooting-psyop-debate-2025-06-15.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/chatgpt-export/mom-info-logged-2025-05-23.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/people/annie-ulmer/escort-messages-chatgpt-export-2025-08.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/captures/2026-08-19_162808_gap-chatgpt.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/captures/2026-08-19_162720_gap-chatgpt.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md"
+  - "raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/Fresh perspective and research needed.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/drive-sweep/20260911/twitter/profile-samples/tweets_sample_2019-2026.txt"
 connections:
   - page: wiki/self/twitter
     type: evidenced-by

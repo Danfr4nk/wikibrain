@@ -8,7 +8,7 @@ date_modified: 2026-09-22
 date_range_start: 2018-02-20
 date_range_end: 2020-02-11
 sources:
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/old-wiki-export-2026-09-04/whole.txt
   - kb/data/1389-teddy-supply-node.md
   - kb/data/0679-2018-deep-cycle-volume-and-correction.md

@@ -19,10 +19,10 @@ infobox:
   known_for: "The man Annie left Dan for and says raped her; the one node in Dan's life he has decided on the record not to identify"
   status: "Active in Annie's life as of 2026-08-01; identity unknown to Dan by choice"
 sources:
-  - raw/self/message-csv/imessage_export_2124702449_20260802.csv
-  - raw/self/message-csv/imessage_export_2124702449_20260726.csv
-  - raw/people/captures/2026-08-08_190122_identity-of-the-interloper.md
-  - raw/people/captures/2026-08-09-tuquick-unnamed-man-correction.md
+  - raw/self/message-csv/imessage_export_2124702449_20260802.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_export_2124702449_20260726.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-08_190122_identity-of-the-interloper.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-09-tuquick-unnamed-man-correction.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 connections:
   - page: wiki/timeline/events/july-august-2026-reentanglement
     type: causes

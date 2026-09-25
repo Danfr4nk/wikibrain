@@ -6,10 +6,10 @@ status: closed
 date_created: 2026-07-13
 date_modified: 2026-09-04
 sources:
-  - raw/self/twitter/archive.jsonl
-  - raw/self/dansynth/DANSYNTH.txt
-  - raw/self/dansynth/dansynth-scrape-phases-2-7.md
-  - raw/self/dox-scan/FULL TWITTER ANALYSIS.txt
+  - raw/twitter/archive.jsonl
+  - raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/dansynth-scrape-phases-2-7.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/FULL TWITTER ANALYSIS.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/people/alexis-armel
   - wiki/people/annie-ulmer

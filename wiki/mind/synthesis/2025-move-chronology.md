@@ -13,7 +13,7 @@ sources:
   - raw/imessage/threads.csv
   - raw/imessage/summary.json
   - raw/imessage/messages-part1-2011-2019.csv
-  - src:corpus-agent-summaries-2026-09
+  - src:corpus-agent-summaries-2026-09 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/timeline/periods/feb-apr-2025-return-and-rupture
   - wiki/mind/synthesis/the-2025-collapse

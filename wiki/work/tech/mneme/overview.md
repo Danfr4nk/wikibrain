@@ -6,7 +6,7 @@ status: stub
 date_created: 2026-07-14
 date_modified: 2026-07-20
 sources:
-  - raw/self/dox-md/MNEME_BUILDKIT_v02.md
+  - raw/self/dox-md/MNEME_BUILDKIT_v02.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/work/tech/index
   - wiki/work/tech/max-framework/overview

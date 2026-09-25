@@ -5,7 +5,7 @@ status: active
 knowledge: mixed
 date_created: 2026-06-22
 date_modified: 2026-09-17
-sources: ["raw/self/favorites/FAVS MASTERLIST.csv", "raw/old-wiki-export-2026-09-04/whole.txt"]
+sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/old-wiki-export-2026-09-04/whole.txt"]
 synthesizes:
   - wiki/interests/favorites/books
   - wiki/self/context-core

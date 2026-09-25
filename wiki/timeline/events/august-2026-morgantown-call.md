@@ -12,13 +12,13 @@ date_range_start: 2026-08-16
 date_range_end: 2026-08-19
 tags: [relationships, trauma-bond, forensic-analysis, mental-health]
 sources:
-  - raw/self/audio/2026-08-16_Morgantown_St_call-recording.m4a
-  - raw/self/audio/2026-08-16_Morgantown_St_call-transcript.txt
-  - raw/self/message-csv/imessage_export_2124702449_20260820.csv
-  - raw/self/message-csv/imessage_export_7248123683_20260820.csv
-  - raw/self/analysis/2026-08-18_forensic-analysis-morgantown-call.md
-  - raw/people/captures/2026-08-08_190122_identity-of-the-interloper.md
-  - raw/people/captures/2026-08-20_group-chat-retraction-and-the-uncleared-name.md
+  - raw/self/audio/2026-08-16_Morgantown_St_call-recording.m4a — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/audio/2026-08-16_Morgantown_St_call-transcript.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_export_2124702449_20260820.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_export_7248123683_20260820.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/analysis/2026-08-18_forensic-analysis-morgantown-call.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-08_190122_identity-of-the-interloper.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-20_group-chat-retraction-and-the-uncleared-name.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 connections:
   - page: wiki/mind/synthesis/the-rescue-premise
     type: evidences

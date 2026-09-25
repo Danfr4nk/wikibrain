@@ -7,7 +7,7 @@ knowledge: mixed
 date_created: 2026-08-02
 date_modified: 2026-08-02
 sources:
-  - raw/people/captures/2026-08-02_004832_franki-and-the-fireworks.md
+  - raw/people/captures/2026-08-02_004832_franki-and-the-fireworks.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [uniontown-era, addiction-recovery, legal]
 connections:
   - page: wiki/timeline/events/franki-fireworks-day-2013

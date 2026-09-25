@@ -8,8 +8,8 @@ status: stable
 date_created: 2026-07-14
 date_modified: 2026-08-02
 sources:
-  - raw/self/dansynth/DANSYNTH.txt
-  - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip
+  - raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/self/lineage/family-tree
   - wiki/self/lineage/23andme-genomics
@@ -159,6 +159,15 @@ scale:
 | Phase | Character | Documented instance |
 |-------|-----------|----------------------|
 | 1. Ecstatic rise | Relocation + new relationship; novelty-seeking activates | Zazza building move with Alexis, 2011 |
+
+> **SUPERSEDED [2026-09-23] — the Zazza hunt predates 2011 by a year.** A
+> 2010-02-17 text from Dan to Suz — *"coming home tomorrow now, look up zazza
+> williamsburg"* **[dat:1880]** — shows the Williamsburg apartment hunt was
+> already underway in February 2010. The 2011 move date this cell carried is
+> therefore wrong or, at minimum, a late bound: the hunt began a full year
+> earlier, and the move itself is now an open chronology question rather than a
+> settled 2011. The phase structure of the model is unaffected; only the date
+> in this cell changes.
 | 2. Aesthetic domestic phase | Stability that is really dissociation — "cozy apathy, chemical sedation" | The Zazza years; arguably the early NYC-II Annie years |
 | 3. Rupture | External resource (money or trust) runs out, piercing the dissociative buffer | Alexis: "funds dry up." Annie: the [[wiki/people/eli|Eli]] discovery |
 | 4. Collapse and return | Forced relocation to Fayette County; relationship enters a stalled "static loop" | Post-Alexis PA return, 2013; post-Eli PA return, Feb 2025 |

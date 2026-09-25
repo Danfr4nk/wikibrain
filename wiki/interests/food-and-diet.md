@@ -8,9 +8,9 @@ knowledge: earned
 date_created: 2026-07-25
 date_modified: 2026-09-04
 sources:
-  - raw/self/captures/2026-08-01_154556_picky-eater.md
-  - raw/self/favorites/FAVS MASTERLIST.csv
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
+  - raw/self/captures/2026-08-01_154556_picky-eater.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/health/hyperreflexivity
   - wiki/work/au-zaatar

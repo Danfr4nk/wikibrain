@@ -9,8 +9,8 @@ date_modified: 2026-07-26
 date_range_start: 2026-04-01
 date_range_end: 2026-05-06
 sources:
-  - raw/self/dox-md/Ethics of leaving without communication.md
-  - "raw/self/dox-md/Crisis mode briefing.md"
+  - raw/self/dox-md/Ethics of leaving without communication.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - "raw/self/dox-md/Crisis mode briefing.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 related:
   - wiki/people/annie-ulmer
   - wiki/timeline/events/march-2026-terminal-phase

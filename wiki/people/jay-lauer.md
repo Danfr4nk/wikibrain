@@ -10,9 +10,9 @@ date_modified: 2026-08-02
 date_range_start: 2016-12-23
 date_range_end: 2017-04-11
 sources:
-  - raw/people/captures/2026-08-02_010509_jay-lauer-death.md
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
+  - raw/people/captures/2026-08-02_010509_jay-lauer-death.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [addiction-recovery, financial-stress, uniontown-era, grief]
 infobox:
   name: "Jay Lauer"

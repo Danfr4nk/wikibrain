@@ -1,0 +1,49 @@
+{
+ "batch": "20260923-1430",
+ "method": "sql gap extraction from runtime.messages (gap-fill since 20260923-1140 window_end, deduped by message_id)",
+ "extraction_ran": "2026-09-23T18:35:00Z",
+ "window_start": "2026-09-23T11:44:01.390Z",
+ "window_end": "2026-09-23T18:32:00Z",
+ "first_row": "2026-09-23T11:46:17+00",
+ "last_row": "2026-09-23T18:28:31+00",
+ "rows": 101,
+ "role_counts": {
+  "user": 36,
+  "assistant": 65
+ },
+ "truncated_rows": 0,
+ "dupe_rows_skipped": 0,
+ "side_chat_leakage": 0,
+ "secrets_found": 0,
+ "external_checks": "deferred to the 12h scrape cadence (next run 2026-09-23 23:40 UTC)",
+ "files": {
+  "chats.json": {
+   "bytes": 67531,
+   "sha256": "17cd88efa57b833adf5d0e38965829ecc80f69d9b2acda9f5674531f9c78faf5"
+  },
+  "device.json": {
+   "bytes": 71,
+   "sha256": "3ee0065ee5b004a261a98036f895587fac4d093c4b2c02c22f869d010741c0b6"
+  },
+  "instagram.json": {
+   "bytes": 99,
+   "sha256": "37a492c6be89d02001a45369b91b0eb1dbe3a27f9c43572e8b986535c3566581"
+  },
+  "threads.json": {
+   "bytes": 74,
+   "sha256": "7685b0eadfa869ab870e145b682f04e7b7af1aeb4019b589e2295de1eafbedd6"
+  },
+  "facebook.json": {
+   "bytes": 74,
+   "sha256": "7685b0eadfa869ab870e145b682f04e7b7af1aeb4019b589e2295de1eafbedd6"
+  },
+  "messenger.json": {
+   "bytes": 74,
+   "sha256": "7685b0eadfa869ab870e145b682f04e7b7af1aeb4019b589e2295de1eafbedd6"
+  },
+  "spotify.json": {
+   "bytes": 74,
+   "sha256": "7685b0eadfa869ab870e145b682f04e7b7af1aeb4019b589e2295de1eafbedd6"
+  }
+ }
+}

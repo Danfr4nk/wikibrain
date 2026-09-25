@@ -15,7 +15,7 @@ synthesizes:
   - wiki/interests/gore-vidal
   - wiki/people/jacob-bacharach
   - wiki/mind/concepts/forensic-method
-  - wiki/interests/music/concepts/lyrics-as-timbre
+  - wiki/mind/concepts/lyric-qualifier
   - wiki/mind/concepts/autism
 tags: [taste, personality-profile, forensic-analysis, ideology]
 knowledge: earned
@@ -23,7 +23,7 @@ connections:
   - page: wiki/mind/concepts/forensic-method
     type: parallels
     claim: "The same faculty: reality treated as a high-fidelity system to be audited for where it breaks. Fiction is low-information input for that engine — invented systems carry no ground truth to check against."
-  - page: wiki/interests/music/concepts/lyrics-as-timbre
+  - page: wiki/mind/concepts/lyric-qualifier
     type: parallels
     claim: "Narrative carried in an aesthetic medium not landing as information: the lyric qualifier is the candidate mechanism for why prose fiction fails where documentary prose succeeds. Stated as a parallel, not an attestation."
   - page: wiki/mind/concepts/explicit-verbal-commitment
@@ -90,7 +90,7 @@ The diet is not fandom; it is intake — and intake gets audited. He is on recor
 
 The mechanism is the Ti-forensic stance ([[wiki/mind/concepts/forensic-method]]): reality is a high-fidelity system and the job is to find where it breaks. Fiction is low-information input for that engine — an invented system carries no ground truth to audit against. The evidence-room metaphor is exact: forty witnesses on one event, the hostile witness shelved beside the friendly one (Parenti next to Goldsworthy), the five-starred novelist's Uniontown set beside the depositions. This is case-building — the same case-building as the J6 work, the stylometric self-surveillance, the corpus forensics. Fiction cannot be filed because there is no case it belongs to — unless, as the two exceptions show, the novel *is* the case file.
 
-The lyric qualifier runs parallel: sung lyrics arrive as timbre, not language — narrative carried in an aesthetic medium does not land as information ([[wiki/interests/music/concepts/lyrics-as-timbre]]). The explicit-over-inferred architecture converges too ([[wiki/mind/concepts/explicit-verbal-commitment]]): non-fiction is explicit claim-staking — a witness asserting *this happened*, checkable, falsifiable — while fiction asks the reader to infer meaning from invented signal, the exact operation his neurology discounts. Three of the wiki's passes now point at one mechanism from three directions: timbre-first, narrative-last, stated-over-inferred. The behavior is attested three times over; the unity of the mechanism is the wiki's model, held as such.
+The lyric qualifier runs parallel: sung lyrics arrive as timbre, not language — narrative carried in an aesthetic medium does not land as information ([[wiki/mind/concepts/lyric-qualifier]]). The explicit-over-inferred architecture converges too ([[wiki/mind/concepts/explicit-verbal-commitment]]): non-fiction is explicit claim-staking — a witness asserting *this happened*, checkable, falsifiable — while fiction asks the reader to infer meaning from invented signal, the exact operation his neurology discounts. Three of the wiki's passes now point at one mechanism from three directions: timbre-first, narrative-last, stated-over-inferred. The behavior is attested three times over; the unity of the mechanism is the wiki's model, held as such.
 
 ## New finding: the Rome binge as unacknowledged self-forensics [SPECULATION]
 
@@ -118,7 +118,7 @@ A full-corpus sweep for the fiction Dan *doesn't* consume returned comprehensive
 
 - [[wiki/mind/concepts/forensic-method]] — the faculty the diet serves.
 - [[wiki/mind/concepts/explicit-verbal-commitment]] — stated-over-inferred as the intake filter.
-- [[wiki/interests/music/concepts/lyrics-as-timbre]] — the parallel mechanism.
+- [[wiki/mind/concepts/lyric-qualifier]] — the parallel mechanism.
 - [[wiki/people/jacob-bacharach]] — the intimate exception.
 - [[wiki/interests/gore-vidal]] — the distant exception.
 - [[wiki/interests/favorites/eclecticism]] — the quantitative shape.

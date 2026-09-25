@@ -9,11 +9,11 @@ importance: high
 date_created: 2026-08-19
 date_modified: 2026-08-31
 sources:
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/captures/2026-08-01_154556_picky-eater.md
-  - raw/self/dox-md/ADDICTION_PROFILE.md
-  - raw/self/dox-md/Breaking the anxiety avoidance cycle.md
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-01_154556_picky-eater.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/ADDICTION_PROFILE.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/Breaking the anxiety avoidance cycle.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/health/chemical-architecture
   - wiki/health/cocaine

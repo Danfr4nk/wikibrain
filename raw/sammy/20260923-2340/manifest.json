@@ -1,0 +1,62 @@
+{
+  "batch": "20260923-2340",
+  "pulled_at_utc": "2026-09-23T23:44:00Z",
+  "files": {
+    "chats.json": {
+      "sha256": "5b7a36694ad82ecf9f91ff89f8a1632898f08dc0f86a8ae2584954537fa16b5c",
+      "bytes": 256296
+    },
+    "spotify.json": {
+      "sha256": "635d8f54f4c7abb0732317d14776714b647ddd4b1f422b67f903aa81df19966c",
+      "bytes": 1166
+    },
+    "EXTRACT.md": {
+      "sha256": "edb3d342a0f92908329367c5b3a5c69f777df43465362d803791aa81e8a7c13c",
+      "bytes": 1893
+    }
+  },
+  "sources": {
+    "chats": {
+      "watermark_from": "2026-09-23T11:44:01.390+00:00",
+      "watermark_to": "2026-09-23T23:28:44.737+00:00",
+      "rows": 507,
+      "user": 169,
+      "assistant": 338,
+      "threads": 190,
+      "surface": "main_chat",
+      "system_rows_excluded": 1378,
+      "cumthread3_rows": 0
+    },
+    "spotify": {
+      "watermark_from": "snapshot-2026-09-23T00:15:20Z",
+      "watermark_to": "snapshot-2026-09-23T23:43:49Z",
+      "state_change": "PAUSED Uffie 'Art Of Uff' (67,865ms, Jam 2fddd604cfa9cbec6e8f1de9fc2c9602) -> NONE",
+      "playlist_count": 98
+    },
+    "instagram": {
+      "watermark": "2026-09-23T00:02:43Z",
+      "new_items": 0,
+      "note": "0 new posts per external-check subagent; story-expiry window for the 2 1140 stories was ~23:01-23:02 EDT (2026-09-24T03:01-03:02Z), beyond this batch"
+    },
+    "threads": {
+      "watermark": "2026-08-26T23:04:55Z",
+      "new_items": 0,
+      "note": "no staging JSON written by external check"
+    },
+    "facebook": {
+      "watermark": "2026-07-04T15:51:25-04:00",
+      "new_items": 0,
+      "note": "no staging JSON written by external check"
+    },
+    "messenger": {
+      "watermark": "1789853002778",
+      "new_items": 0,
+      "note": "no staging JSON written by external check"
+    },
+    "device": {
+      "watermark": null,
+      "new_items": 0,
+      "note": "standing: no read path for iOS texts"
+    }
+  }
+}

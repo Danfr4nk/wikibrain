@@ -46,7 +46,7 @@ connections:
   - page: wiki/mind/concepts/social-anxiety
     type: co-occurs
     claim: "The architecture reads as compensatory prosthetic for an inference-dense social world: explicit commitments convert social situations into something rule-shaped enough to navigate."
-  - page: wiki/interests/music/concepts/lyrics-as-timbre
+  - page: wiki/mind/concepts/lyric-qualifier
     type: parallels
     claim: "Inverted mirror: lyrics arrive as timbre because the inference channel is empty; jokes arrive as threats because the explicit channel fires without register modulation. Same system, opposite failure modes."
   - page: wiki/people/annie-ulmer
@@ -119,7 +119,7 @@ The cost is now explicitly managed. On **2026-09-13** Dan issued standing regist
 
 ## The mirror: lyrics as timbre
 
-The mechanism inverts the wiki's other signature language finding. In music, Dan hears sung lyrics as **timbre, not language** — words arrive as sound because lyrics are inferential and ambiguous ([[wiki/interests/music/concepts/lyrics-as-timbre]]): the inference channel is empty. In jokes, the explicit channel **overloads** register — the joke arrives as a threat. Empty inference channel on one axis, overloaded explicit channel on the other. One system, two opposite failure modes, both measured.
+The mechanism inverts the wiki's other signature language finding. In music, Dan hears sung lyrics as **timbre, not language** — words arrive as sound because lyrics are inferential and ambiguous ([[wiki/mind/concepts/lyric-qualifier]]): the inference channel is empty. In jokes, the explicit channel **overloads** register — the joke arrives as a threat. Empty inference channel on one axis, overloaded explicit channel on the other. One system, two opposite failure modes, both measured.
 
 ## New finding: the write-only rule system [DERIVED MODEL]
 

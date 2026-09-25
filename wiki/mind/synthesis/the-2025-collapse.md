@@ -5,17 +5,17 @@ page_type: synthesis
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-18
+date_modified: 2026-09-24
 date_range_start: 2025-01-09
 date_range_end: 2025-12-31
 sources:
-  - raw/self/chatgpt-export/relationship-breakdown-summary-2025-04-27.md
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/captures/2026-08-13_john-paci-staged-eviction-operator-decode.md
-  - raw/self/captures/2026-08-10_014938_307-76th-cast-roach-bombing.md
-  - raw/self/message-csv/annie_all_time_logs.csv
-  - src:playlist-forensics-2026-09-11
-  - src:corpus-agent-summaries-2026-09
+  - raw/self/chatgpt-export/relationship-breakdown-summary-2025-04-27.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-13_john-paci-staged-eviction-operator-decode.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-10_014938_307-76th-cast-roach-bombing.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/annie_all_time_logs.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:playlist-analysis-2026-09-11
+  - src:corpus-agent-summaries-2026-09 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/timeline/periods/feb-apr-2025-return-and-rupture
   - wiki/timeline/periods/2025-collapse
@@ -528,7 +528,7 @@ The collapse's geography is inherited; only the timing was his **[INFERRED — M
 ## The November 2005 rhyme
 
 The corpus files the [[wiki/people/eli|Eli]] discovery under the November 2005 parental rupture as the same template — *"a trusted figure maintaining a concealed alternate reality"* **[ATTESTED — agent-A's trauma-nodes]**.
-November 2005: [[wiki/people/rick-frank|Rick]]'s cocaine-rehab admission plus Suzanne's affair with the family dealer surfacing together, the marriage ending.
+November 2005: [[wiki/people/rick-frank|Rick]]'s cocaine-rehab admission plus Suzanne's affair with the family dealer **[TESTIMONY — his account; no documentary corroboration found]** surfacing together, the marriage ending.
 January 2025: [[wiki/people/annie-ulmer|Annie]]'s concealed affair with Eli surfacing, the cohabitation ending.
 Twenty years apart, the same charge detonating: the trusted figure, the concealed reality, the discovery, the household dissolving in the aftermath.
 
@@ -765,7 +765,7 @@ The hinge thesis states the resolution plainly: 2025 is the year the zero-relian
 
 The biography has multiple candidate hinges, and the thesis needs to win against them — not by diminishing them but by typing them.
 
-**November 2005: the psyche's hinge.** [[wiki/people/rick-frank|Rick]]'s rehab admission, Suzanne's affair with the dealer, the marriage ending — Dan's stated life-hinge, the axioms' alleged origin **[ATTESTED — agent-D]**.
+**November 2005: the psyche's hinge.** [[wiki/people/rick-frank|Rick]]'s rehab admission, Suzanne's affair with the dealer **[TESTIMONY — his account; no documentary corroboration found]**, the marriage ending — Dan's stated life-hinge, the axioms' alleged origin **[ATTESTED — agent-D]**.
 The 2005 hinge installed the operating system; the 2025 hinge ran it at full load.
 One is the *formation* event, the other the *proving* event.
 The biography's hinge is 2025 because hinges are what doors swing on, and the door — the NYC era, the cohabitation, the fallow decade — swung in 2025.
@@ -873,9 +873,11 @@ The prelude matters because it separates the hinge's *causes* (2024) from its *m
 The third rotation began: her wages carrying the $2,700/month renewal and the accumulating arrears.
 The employment block that had structured the days since March 2021 started dissolving six months before the hinge.
 
-**June 29, 2024: DUI #2.** Guilty pleas; the second DUI after February 2019 **[ATTESTED — agent-D]**.
-The legal hinge's echo — 2015's arrest preserved the record; 2024's pleas spent some of that preservation.
-A data point for the pressure, not a cause of the collapse.
+> **CORRECTED 2026-09-24:** An earlier version of this section stated that Dan received a second DUI on June 29, 2024 (and a first in February 2019). Dan confirmed on 2026-09-24 that he has never had a DUI — his only arrest was the February 2015 possession (residue) matter, which received ARD in February 2016. The 2019-02-03 and 2024-06-29 dates are Jerel Wayne Coles's FOREWARN record, misattributed to Dan via agent-D extraction. The October 2017 "already got a DUI" line is likewise not his: the wiki's speaker-structure parse (dat:0031) attributes it to Christo Coan. The original claim is preserved below as superseded.
+
+**June 29, 2024: DUI #2** **[SUPERSEDED 2026-09-24]** — not Dan's DUI; see correction above. Guilty pleas; the second DUI after February 2019 [ATTESTED — agent-D; single-source testimony-grade]. No contemporaneous message corroboration for either DUI date exists in the corpus. An October 19, 2017 "hell yeah I already got a DUI" line would predate both — but the wiki's own speaker-structure parse (dat:0031) reattributes that line to Christo Coan, a correction the christo-coan page has not yet absorbed, so the contradiction's premise is itself contested inside the wiki. Both dates are unconfirmed pending docket verification; the tension is preserved here, not resolved.
+The legal hinge's echo — the possession arrest preserved the record. [The "pleas" clause that followed here is **SUPERSEDED** with the DUI claim above.]
+A data point for the pressure, not a cause of the collapse. [Also **SUPERSEDED** — there was no such DUI.]
 
 **August 2024: the affair begins.** The [[wiki/people/eli|Eli]] relationship's earliest attested start **[ATTESTED — the incident page]**.
 Inside the sole-earner window, inside the tenancy's final half-year, under the same roof.

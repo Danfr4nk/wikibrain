@@ -4,7 +4,7 @@ page_type: entity
 status: active
 date_created: 2026-06-22
 date_modified: 2026-07-14
-sources: ["raw/self/favorites/FAVS MASTERLIST.csv"]
+sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related:
   - wiki/interests/favorites/music
   - wiki/interests/favorites/music/artists/fall-out-boy
@@ -12,7 +12,7 @@ related:
   - wiki/interests/favorites/music/artists/elliott-smith
   - wiki/self/context-core
   - wiki/mind/psychosexual/developmental-origins
-  - wiki/interests/music/concepts/lyrics-as-timbre
+  - wiki/mind/concepts/lyric-qualifier
 changelog:
   - 2026-07-14: Full rewrite from stub. Added track-specific analysis, Black Parade thematic reading, self-mythology connection.
 tags: [personality-profile]
@@ -42,7 +42,7 @@ for the *Watchmen* soundtrack.
 
 > **Caveat:** Dan does not process sung lyrics as language while
 > listening — words register as timbre, not semantic content (see
-> [[wiki/interests/music/concepts/lyrics-as-timbre]]). The narrative
+> [[wiki/mind/concepts/lyric-qualifier]]). The narrative
 > reading below is built on knowing what *The Black Parade* is about as
 > a cultural object, not on parsing lyrics line-by-line during playback.
 > The likelier live mechanism is vocal texture and performance intensity

@@ -8,7 +8,7 @@ date_modified: 2026-07-19
 date_range_start: 2011-10-06
 date_range_end: 2013-07-12
 sources:
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/ejrags_dooxnkq2dg/message_1.html"
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/ejrags_dooxnkq2dg/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [uniontown-era, music-production, personality-profile]
 infobox:
   name: "Ej Rags"

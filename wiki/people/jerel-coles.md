@@ -8,7 +8,7 @@ title: "Jerel Wayne Coles"
 aliases: ["Tuquick", "the unnamed man", "the interloper", "the third party", "Tuquick3@hotmail.com", "+17248123683"]
 tags: [relationships, trauma-bond, forensic-analysis, legal, uniontown-era]
 date_created: 2026-08-09
-date_modified: 2026-09-13
+date_modified: 2026-09-24
 date_range_start: 2008-10-31
 date_range_end: 2026-08-19
 infobox:
@@ -17,15 +17,15 @@ infobox:
   location: uniontown
   first_contact: 2026-05-31
 sources:
-  - raw/people/captures/2026-08-08_190122_identity-of-the-interloper.md
-  - raw/people/captures/2026-08-09-tuquick-unnamed-man-correction.md
-  - raw/self/message-csv/imessage_export_2124702449_20260802.csv
-  - raw/self/message-csv/imessage_export_7248123683_20260624.csv
-  - raw/self/message-csv/imessage_export_7248123683_20260820.csv
-  - raw/self/message-csv/imessage_export_2124702449_20260820.csv
-  - raw/self/audio/2026-08-16_Morgantown_St_call-recording.m4a
-  - raw/self/analysis/2026-08-18_forensic-analysis-morgantown-call.md
-  - raw/people/captures/2026-08-20_group-chat-retraction-and-the-uncleared-name.md
+  - raw/people/captures/2026-08-08_190122_identity-of-the-interloper.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-09-tuquick-unnamed-man-correction.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_export_2124702449_20260802.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/drive-sweep/20260911/imessage/imessage_export_7248123683_20260624.csv
+  - raw/self/message-csv/imessage_export_7248123683_20260820.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_export_2124702449_20260820.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/audio/2026-08-16_Morgantown_St_call-recording.m4a — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/analysis/2026-08-18_forensic-analysis-morgantown-call.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-20_group-chat-retraction-and-the-uncleared-name.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/people/annie-ulmer
   - wiki/people/the-unnamed-man
@@ -165,6 +165,8 @@ Collapsed by offense date:
 | 2019-02-03 | **DUI #1** — general impairment + **BAC .16+** + 4 traffic | 6 | **ARD — county** |
 | 2024-06-29 | **DUI #2** — general impairment + 4 traffic | 5 | **guilty pleas, all five** |
 | 2025-04-05 | **Criminal mischief — damage property** (filed 2025-05-06) | 1 | unavailable |
+
+> **CORRECTED 2026-09-24 — attribution:** The two DUI rows in the table above (2019-02-03 and 2024-06-29) are Jerel Wayne Coles's FOREWARN record. They were misattributed to Dan in wiki/mind/synthesis/the-2025-collapse.md and the master timeline until Dan confirmed on 2026-09-24 that he has never had a DUI — his only arrest was the February 2015 possession (residue) matter. The table itself is unchanged; it was always Jerel's record.
 
 **≈9 incident clusters, ≈20 distinct charges.** Not 64 offenses.
 

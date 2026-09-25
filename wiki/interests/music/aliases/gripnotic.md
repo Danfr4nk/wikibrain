@@ -5,20 +5,20 @@ status: active
 date_created: 2026-06-22
 date_modified: 2026-07-13
 sources:
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md
-  - raw/self/dox-md/___The 9_11 Chat.md
-  - raw/self/message-csv/imessage_ALL_both_all_now.csv
-  - raw/self/dox-md/FULL PROFILE 2026.md
-  - raw/self/dox-md/operating_manual.md
-  - raw/self/twitter/
-  - raw/self/favorites/2025_MASTER_CRATE.csv
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/___The 9_11 Chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_ALL_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/twitter/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/favorites/2025_MASTER_CRATE.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/interests/music/overview
   - wiki/interests/music/aliases/mogzart
   - wiki/interests/music/aliases/sloppp
   - wiki/interests/music/concepts/sub-bass-signature
-  - wiki/interests/music/concepts/lyrics-as-timbre
+  - wiki/mind/concepts/lyric-qualifier
   - wiki/self/overview
   - wiki/self/context-core
   - wiki/interests/favorites/index
@@ -37,7 +37,7 @@ connections:
 
 GRIPNOTIC is also becoming an infrastructure name beyond music: on April 7, 2026 Dan claimed an AI agent named "gripnotic" on moltbook — the brand doubling as the identity for his agent experiments.
 
-The output type is itself informative: "remixes and AI voice drops" means the catalog is instrumental and spoken-word, never sung original lyrics — a thirteen-year pattern across all four aliases, not just this one. See [[wiki/interests/music/concepts/lyrics-as-timbre]] for why that consistently instrumental/remix-based output likely isn't incidental.
+The output type is itself informative: "remixes and AI voice drops" means the catalog is instrumental and spoken-word, never sung original lyrics — a thirteen-year pattern across all four aliases, not just this one. See [[wiki/mind/concepts/lyric-qualifier]] for why that consistently instrumental/remix-based output likely isn't incidental.
 
 ## Genre & Style
 

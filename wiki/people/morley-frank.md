@@ -6,7 +6,7 @@ status: stable
 knowledge: mixed
 date_created: 2026-06-23
 date_modified: 2026-08-02
-sources: ["raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip", "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md", "raw/self/context-core/CONTEXT_CORE_EXPANDED.md"]
+sources: ["raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 tags: [uniontown-era, family, grief]
 connections:
   - page: wiki/mind/synthesis/ancestral-dialectic

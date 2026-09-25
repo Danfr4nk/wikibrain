@@ -8,11 +8,11 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/message-csv/all_imessages_complete_dump.txt
-  - raw/self/message-csv/imessage_ALL_both_2026-05-31_2026-06-02.csv
-  - raw/people/captures/2026-08-20_042255_gap-ally-lubin.md
-  - raw/people/captures/2026-08-21_175309_gap-ally-lubin.md
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_ALL_both_2026-05-31_2026-06-02.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-20_042255_gap-ally-lubin.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-21_175309_gap-ally-lubin.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - kb/data/0081-explicit-commitment-architecture.md
   - kb/data/0090-block-retraction-2026-09-11.md
 synthesizes:

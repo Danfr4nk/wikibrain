@@ -9,8 +9,8 @@ importance: high
 date_created: 2026-08-02
 date_modified: 2026-08-28
 sources:
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/work/au-zaatar
   - wiki/work/nemacolin-caddying

@@ -9,7 +9,7 @@ date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
   - raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv
-  - src:corpus__3.txt
+  - src:corpus__3.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/mind/synthesis/block-unblock-loop
   - wiki/mind/synthesis/severance-declarations

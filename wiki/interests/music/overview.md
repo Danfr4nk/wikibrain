@@ -5,10 +5,10 @@ status: active
 date_created: 2026-06-22
 date_modified: 2026-09-03
 sources:
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-md/FULL PROFILE 2026.md
-  - raw/self/dox-md/operating_manual.md
-  - raw/self/chats/The 2nd most famous 'Jimmy Pop' in Pennsylvania .md
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/chats/The 2nd most famous 'Jimmy Pop' in Pennsylvania .md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/interests/music/aliases/gripnotic
   - wiki/interests/music/aliases/mogzart
@@ -46,7 +46,7 @@ connections:
     claim: "The public archive dates the production identity's public life exactly: 23.4% and 31.6% of originals in 2013-14, then nothing about his own music from 7 March 2016 to 4 March 2026 across 908 originals."
   - page: wiki/self/twitter/2013
     type: evidenced-by
-    claim: 'The SLOPPP operation in full: some thirty named releases between 13 August and 26 December 2013, free downloads tracklisted and timestamped, ~10k self-reported SoundCloud plays, a Numark NS7 bought on 10 November, and criticism solicited from one named peer. The project\'s start date is not datable from the twitter record because the archive source changes on 2013-08-17.'
+    claim: 'The SLOPPP operation in full: some thirty named releases between 13 August and 26 December 2013, free downloads tracklisted and timestamped, ~10k self-reported SoundCloud plays, a Numark NS7 bought on 10 November, and criticism solicited from one named peer. The project''s start date is not datable from the twitter record because the archive source changes on 2013-08-17.'
   - page: wiki/self/twitter/2010
     type: evidenced-by
     claim: "The indie and electronic vocabularies run side by side through 2010 rather than in sequence — Grizzly Bear and Arcade Fire in the same months as Diplo, Electric Zoo, Ableton warping and a published dubstep mix — so what the 2012-2014 likes migration dates is displacement, not onset."

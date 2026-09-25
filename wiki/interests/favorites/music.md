@@ -4,15 +4,15 @@ page_type: synthesis
 status: active
 date_created: 2026-06-22
 date_modified: 2026-07-14
-sources: ["raw/self/favorites/FAVS MASTERLIST.csv"]
+sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 synthesizes:
   - wiki/interests/music/concepts/sub-bass-signature
-  - wiki/interests/music/concepts/lyrics-as-timbre
+  - wiki/mind/concepts/lyric-qualifier
   - wiki/interests/music/overview
   - wiki/interests/favorites/eclecticism
   - wiki/interests/favorites/taste-profile
   - wiki/mind/synthesis/totality-themes
-related: ["wiki/interests/favorites/index", "wiki/self/context-core", "wiki/interests/music/index", "wiki/interests/music/concepts/sub-bass-signature", "wiki/interests/music/concepts/lyrics-as-timbre", "wiki/self/facebook", "wiki/interests/favorites/eclecticism", "wiki/interests/favorites/taste-profile", "wiki/mind/synthesis/totality-themes", "wiki/timeline/periods/2025-collapse", "wiki/timeline/periods/dec-2025-spike"]
+related: ["wiki/interests/favorites/index", "wiki/self/context-core", "wiki/interests/music/index", "wiki/interests/music/concepts/sub-bass-signature", "wiki/mind/concepts/lyric-qualifier", "wiki/self/facebook", "wiki/interests/favorites/eclecticism", "wiki/interests/favorites/taste-profile", "wiki/mind/synthesis/totality-themes", "wiki/timeline/periods/2025-collapse", "wiki/timeline/periods/dec-2025-spike"]
 tags: [music-production]
 connections:
   - page: wiki/interests/favorites/eclecticism
@@ -36,12 +36,19 @@ The 1.26 figure is a count, not a temperament. [[wiki/interests/favorites/eclect
 **Before reading anything below as "why these lyrics resonate":** Dan
 does not process sung lyrics as language while listening — words register
 as timbre, not semantic content. See
-[[wiki/interests/music/concepts/lyrics-as-timbre]] for the full statement
-and what it changes. Every interpretive claim on this page and its
-sub-pages about thematic or lyrical content should be read as either (a)
-contextual knowledge of what a record is *about*, or (b) speculation
-about what the vocal *performance* — texture, strain, delivery — might be
-doing, not a claim about real-time lyric comprehension.
+[[wiki/mind/concepts/lyric-qualifier]] — the canonical concept entry
+(SUPERSEDED 2026-09-22: the old
+[[wiki/interests/music/concepts/lyrics-as-timbre]] page is kept for the
+record only) — for the full statement and what it changes. The claim is
+twice-captured: the founding 2026-07-14 statement and the held, byte-exact
+2026-09-11 MUSIC THREAD re-statement (which added the lyric-sheet detail —
+even knowing the words doesn't make interpreting them easier — the
+"~3 songs" exception count, and the speechiness reframe). Every
+interpretive claim on this page and its sub-pages about thematic or
+lyrical content should be read as either (a) contextual knowledge of what
+a record is *about*, or (b) speculation about what the vocal
+*performance* — texture, strain, delivery — might be doing, not a claim
+about real-time lyric comprehension.
 
 ## Corpus dimensions
 
@@ -174,6 +181,6 @@ sits, not a retreat into a niche.
 
 ## Related
 
-[[wiki/interests/favorites/music/artists/jpegmafia]] · [[wiki/interests/favorites/music/artists/kanye-west]] · [[wiki/interests/favorites/music/artists/elliott-smith]] · [[wiki/interests/favorites/music/artists/fall-out-boy]] · [[wiki/interests/favorites/music/artists/my-chemical-romance]] · [[wiki/interests/favorites/music/artists/say-anything]] · [[wiki/interests/favorites/music/artists/taking-back-sunday]] · [[wiki/interests/favorites/music/artists/new-found-glory]] · [[wiki/interests/favorites/music/artists/lyny]] · [[wiki/interests/favorites/music/electronic-bass]] · [[wiki/interests/music/concepts/lyrics-as-timbre]] · [[wiki/interests/music/concepts/sub-bass-signature]] · [[wiki/self/facebook]] · [[wiki/interests/rock-irrelevance-thesis]]
+[[wiki/interests/favorites/music/artists/jpegmafia]] · [[wiki/interests/favorites/music/artists/kanye-west]] · [[wiki/interests/favorites/music/artists/elliott-smith]] · [[wiki/interests/favorites/music/artists/fall-out-boy]] · [[wiki/interests/favorites/music/artists/my-chemical-romance]] · [[wiki/interests/favorites/music/artists/say-anything]] · [[wiki/interests/favorites/music/artists/taking-back-sunday]] · [[wiki/interests/favorites/music/artists/new-found-glory]] · [[wiki/interests/favorites/music/artists/lyny]] · [[wiki/interests/favorites/music/electronic-bass]] · [[wiki/mind/concepts/lyric-qualifier]] · [[wiki/interests/music/concepts/sub-bass-signature]] · [[wiki/self/facebook]] · [[wiki/interests/rock-irrelevance-thesis]]
 
 

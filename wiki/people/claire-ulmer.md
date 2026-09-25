@@ -1,13 +1,13 @@
 ---
 domain: people
 page_type: entity
-title: "Claire Ulmer"
+title: "Claire Ulmer-Gates"
 status: active
 date_created: 2026-07-14
-date_modified: 2026-09-13
+date_modified: 2026-09-22
 sources:
-  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md
-  - raw/self/dox-md/Honest assessment and value judgment analysis.md
+  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/Honest assessment and value judgment analysis.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/people/annie-ulmer
   - wiki/people/milo
@@ -19,7 +19,7 @@ connections:
   - { target: "[[wiki/people/bill-ulmer]]", type: references, claim: "Bill is Annie's father — the parental channel of the same Ulmer family field; his 2017–2020 thread is the father-side counterpart to the sister-channel documented here." }
   - { target: "[[wiki/people/annie-ulmer]]", type: documents, claim: "This page documents the sister-channel of the Annie decade: the Milo origin, the 2015-12-02 confrontation, and the childcare asymmetry Annie absorbed in 2025." }
 infobox:
-  name: "Claire Ulmer"
+  name: "Claire Ulmer-Gates"
   relationship_to_dan: unknown
   known_for: "Claire is [[wiki/people/annie-ulmer|Annie Ulmer]]'s sister — the reason"
 images:
@@ -30,7 +30,7 @@ images:
   library: []
 ---
 
-# Claire Ulmer
+# Claire Ulmer-Gates
 
 Claire is [[wiki/people/annie-ulmer|Annie Ulmer]]'s sister — the reason
 [[wiki/people/milo|Milo]] exists in Dan's life at all. Claire was the one
@@ -82,9 +82,7 @@ doctor's appointment, cuts Alice's hair on request and unpaid, and takes lunch t
 Claire and Alice at the school. That asymmetry, and Annie's one recorded protest
 about it, are set out on [[wiki/people/alice]].
 
-**Gaps:** surname — **she is married** ([[wiki/people/garrett]]), so "Ulmer" is
-probably wrong, and the corpus never records his surname either, which is why
-four pages here are filed under single names;
+**Gaps:** surname — resolved 2026-09-22 by Dan: **Gates** (Claire Ulmer-Gates, married to [[wiki/people/garrett|Garrett Gates]]); the corpus never recorded it;
 age relative to Annie; any independent relationship between Claire and
 Dan beyond the Milo story and shared family events.
 

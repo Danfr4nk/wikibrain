@@ -1,0 +1,42 @@
+{
+ "batch": "20260924-1533",
+ "pulled_at": "2026-09-24T19:36:00Z",
+ "window": {
+  "from": "2026-09-24T18:33:35.233+00:00",
+  "to": "2026-09-24T19:34:08.906+00:00"
+ },
+ "counts": {
+  "total_rows": 225,
+  "system_excluded": 109,
+  "archived": 116,
+  "user": 42,
+  "assistant": 74
+ },
+ "source": "muse.db runtime.messages x runtime.events, on-record main chat only",
+ "exclusions": [
+  "role=system (109 rows)",
+  "side chat 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853 (0 rows present, main-chat query only)"
+ ],
+ "secrets_scan": {
+  "patterns": [
+   "telegram-bot",
+   "ghp_",
+   "sk-",
+   "stripe"
+  ],
+  "hits": 0
+ },
+ "phone_like_rows": 1,
+ "phone_like_note": "1 row matched the phone pattern but is a false positive: a hex media-library filename fragment (093bc365e4fcf7d3da8214a37eebe948eb36e86a0216132510c8cbb8555f1f0b.jpg) inside an image path in mid 69036e36-c45e-4325-afd6-69e5aa4927c1, not an actual phone number.",
+ "external": "no external pulls this batch (chat transcript only)",
+ "files": {
+  "chats.json": {
+   "bytes": 45770,
+   "sha256": "9cbb4c283e7e665ad6a40db51950852e57991e66190127101ea9fda3cc6d4829"
+  },
+  "manifest.json": {
+   "bytes": 1122,
+   "sha256": "66a888e4025675a6bfe27354e6ae4a28601b021a743b14fd6119e88b1a28448e"
+  }
+ }
+}

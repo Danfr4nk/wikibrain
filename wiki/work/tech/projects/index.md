@@ -34,6 +34,7 @@ All of these were built in 2026 by directing AI agents (Claude, Muse Spark, Grok
 - [[wiki/work/tech/projects/wikibrain-tooling]] — the bin/ renderer, validators, and push pipeline
 - [[wiki/work/tech/projects/frame-reference-tool]] — the exact-frame referencing web app (2026-09-15): set fps, jump to the frame, click the spot, Copy Reference
 - [[wiki/work/tech/projects/kinship]] — face-similarity tool (InsightFace CLI + ONNX Runtime web app, live at danfr4nk.github.io/tools/kinship/); the session that produced Dan's standing "I always want them" web-version rule
+- [[wiki/work/tech/projects/geosleuth]] — GEOSLEUTH photo-location OSINT tool (2026-09-23): EXIF/GPS pin, pixel-scoring against a 57-country table, autonomous Wikidata landmark lookup within 10 km; filed into Danfr4nk/sammy-tools same night
 
 ## Consolidation (2026-09-15)
 

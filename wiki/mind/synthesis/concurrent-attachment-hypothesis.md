@@ -8,10 +8,10 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
-  - src:ally-lubin-dual-handle-exports
-  - src:august-2026-overlap-forensics
-  - src:annie-ulmer-corpus-115k
-  - raw/people/captures/2026-08-20_042255_gap-ally-lubin.md
+  - src:ally-lubin-dual-handle-exports — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:august-2026-overlap-forensics — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:annie-ulmer-corpus-115k — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-20_042255_gap-ally-lubin.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - kb/data/0081-explicit-commitment-architecture.md
   - kb/data/0090-block-retraction-2026-09-11.md
 synthesizes:

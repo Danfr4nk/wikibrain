@@ -5,12 +5,12 @@ status: active
 date_created: 2026-07-16
 date_modified: 2026-09-22
 sources:
-  - "raw/self/twitter/archive.jsonl"
-  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"
-  - "raw/self/dox-scan/FULL TWITTER ANALYSIS.txt"
-  - "raw/self/dox-scan/all_imessages_complete_dump.txt"
-  - "raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html"
-  - "corpus/messages.csv"
+  - "raw/twitter/archive.jsonl"
+  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/FULL TWITTER ANALYSIS.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "corpus/messages.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - kb/data/1204-the-office-held-verified-idiom-and-unheld-naming-finding.md
   - kb/data/0617-schrute-farms-remembered-by-name-2019-imessage.md
   - kb/data/0361-teen-concert-years-two-source-design-verified.md
@@ -37,7 +37,7 @@ connections:
     claim: "The show is naming infrastructure, not a watched programme: the Winter Park apartment is 'schrute farms' in the account's third tweet, the new kitten is shortlisted as Ari, Dwight or Mose, and the register survives into years with no television content in them."
   - page: wiki/self/twitter/2010
     type: evidenced-by
-    claim: "'remember when he stole “shut up Oscar!” from us in s5 of the office?' to Eric Jester (12 March 2010) is the idiom operating as shared private property between two friends rather than as a reference either is explaining."
+    claim: "'remember when he stole 'shut up Oscar!' from us in s5 of the office?' to Eric Jester (12 March 2010) is the idiom operating as shared private property between two friends rather than as a reference either is explaining."
   - page: wiki/self/twitter/2011
     type: evidenced-by
     claim: "The 21 October 2011 'there's 100 dogs at the office' tweet is followed fifteen minutes later by 'Correction: I am a dog walker', which establishes it as a literal workplace joke — the page's prior double-duty reading is retired here."

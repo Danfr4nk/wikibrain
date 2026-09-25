@@ -7,11 +7,11 @@ knowledge: earned
 date_created: 2026-07-16
 date_modified: 2026-08-28
 sources:
-  - "raw/self/dox-md/FULL PROFILE 2026.md"
-  - "raw/self/context-core/CONTEXT_CORE_EXPANDED.md"
-  - "raw/self/dox-scan/Dan Profile.txt"
-  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"
-  - "raw/self/gemini-activity/Gemini Activity.html"
+  - "raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md"
 synthesizes:
   - wiki/mind/synthesis/totality-themes
   - wiki/interests/music/overview

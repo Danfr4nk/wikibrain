@@ -52,6 +52,37 @@ Same weight as the writeback grant, recorded standing. The context: the 971-file
 
 The carve-outs he had already stated stayed in force and were restated at acceptance: RAWLOGS stays private (his 2026-09-10 verbatim order — the one deliberate exception to the public mandate, never to be suggested or executed otherwise), and no deletions without his nod. The acceptance, in the same exchange: "Saved — any project, any purpose, no go-ahead, standing. The RAWLOGS-stays-private order and the no-deletions line stay as your earlier explicit carve-outs unless you say otherwise."
 
+## Grant four: the Jev backlog mechanisms (2026-09-24)
+
+His words, ~2026-09-24 05:17Z: *"approved."*
+
+Expanded minutes later, ~05:20Z: *"You're the boss. I defer to you."*
+
+And again, ~05:33Z: *"Go go."*
+
+The fourth grant is scoped to automation, not accounts: after Sammy's D3
+evaluation measured TypeSafe AI's Jev at 83% agreement against Dan's own 65
+hand-reviewed sources-repair decisions (39/39 on the rot cases at 0.92–0.98
+confidence), Dan challenged her to design permanent Jev mechanisms that clear
+large backlogs across the full wikibrain — the 397-article expansion backlog,
+contradiction checks, ingest cross-checks, dead-link repair — and, after
+comparing her sketch against the same prompt run through Grok and ChatGPT ("1
+was grok, 2 was ChatGPT. Same prompt"), approved the direction with full
+implementation authority. Sammy decides what gets built, what gets held, and
+what gets ignored; Dan reads the results.
+
+The hard lines from the original Jev verdict travel with this grant:
+evaluation-first (Jev earns authority by matching or beating current gates on
+held-out cases, never by assertion), packet-bound deployment, no identity
+declarations ("don't let the harness guess identity"), and the Duquesne rule —
+a premise-check gate so no brainstorm hypothesis gets authored as a premise.
+The critique Dan accepted alongside the approval is also load-bearing: the
+competing proposals asserted labeled evaluation sets that do not exist ("80
+articles already scored by two humans," etc.) — building those real sets is
+the price of admission before any mechanism goes live. Evidence:
+`dat:1923-jev-d3-evaluation-20260924`, `dat:1925-jev-mechanism-authority-20260924`,
+`src:20260924-0230-sammy-chat-transcript`.
+
 ## The two-layer model: what no grant can waive
 
 On 2026-09-17 (06:26:36Z) Dan asked the obvious question: with full unilateral authorization across the Google ecosystem declared, why do approval prompts still fire? The answer, given 06:26:46Z and accepted by him at 06:28:01Z ("Fair enough that makes sense"), is the two-layer model:

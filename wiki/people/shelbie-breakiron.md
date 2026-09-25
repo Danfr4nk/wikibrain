@@ -7,7 +7,7 @@ date_modified: 2026-08-26
 date_range_start: 2019-05-15
 date_range_end: 2019-08-11
 sources:
-  - raw/self/message-csv/imessage_export_7249124338_both_all_now.csv
+  - raw/self/message-csv/imessage_export_7249124338_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [relationships, digital-footprint, financial-stress]
 knowledge: mixed
 infobox:
@@ -86,6 +86,16 @@ matches the three-way dynamic documented on
 [[wiki/timeline/events/shelbie-annie-threesome-april-2019]]; whether
 June 8 is a second occasion or the corpus's only direct trace of that
 same arrangement remains unresolved (see Gaps).
+
+## The origin, in his 2026 telling
+
+Seven years later, in September 2026, Dan told the beginning of this story in his own words — and it starts earlier and stranger than the corpus's May opening. Forty-five days after the February 2019 move to New York, back in Pennsylvania for a weekend, he decided on the train to reach out to Shelbie — "who didn't know me at all. Hadn't even heard of me" — and offered her $700 to fuck him. She showed up. Annie caused a ruckus. He couldn't cum, got so mad at Annie she had to call and invite her back, and the threesome ensued. "Dan falls in love with."[^origin-testimony]
+
+Two days later he was dragging Annie to her car for the ninety-minutes-each-way drive to pick Shelbie up from the strip club she was dancing in. He made Annie stay an extra three days so they could have another threesome. Back in New York he was "completely absorbed by Shelbie." A month later he went back to Pennsylvania alone, carrying "like $4000 of every exotic drug imaginable to seem cool." On the last night he accidentally took her car keys — her only set — home in his pocket. He paid to have someone make her a new key that day. "It was completely shot after that."
+
+The key detail lands against the corpus: in the July breakup exchange, Shelbie's opening grievance is "that's getting sold for the money for my key that you never got me" — her version of the same key, still unsettled two months later. The telling is retrospective testimony, not corroborated by contemporaneous records in this batch, but it is consistent with the corpus on the material points (the laptop transfer, the arrangement's open three-way shape with Annie directly inside it).
+
+[^origin-testimony]: Dan's verbatim 2026-09-24 account. Recorded as testimony, not contemporaneous record — per the wiki's governance, the corpus outranks it where they conflict. No conflict has surfaced.
 
 ## The breakup (July 16, 2019)
 

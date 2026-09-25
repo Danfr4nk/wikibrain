@@ -10,8 +10,8 @@ date_range_start: 2026-07-26
 date_range_end: 2026-08-02
 importance: critical
 sources:
-  - raw/timeline/captures/2026-08-16_183544_gap-july-august-2026-reentanglement.md
-  - raw/self/message-csv/imessage_export_2124702449_20260802.csv
+  - raw/timeline/captures/2026-08-16_183544_gap-july-august-2026-reentanglement.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_export_2124702449_20260802.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [relationships, trauma-bond, attachment, addiction-recovery, forensic-analysis, mental-health, pets]
 connections:
   - page: wiki/timeline/events/july-2026-recontact

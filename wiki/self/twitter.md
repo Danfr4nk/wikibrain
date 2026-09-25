@@ -8,12 +8,12 @@ knowledge: mixed
 date_range_start: 2009-10-20
 date_range_end: 2026-09-02
 title: "Twitter / X (@danfrank)"
-aliases: [danfrank, @danfrank]
+aliases: [danfrank, "@danfrank"]
 sources:
-  - "raw/self/twitter/archive.jsonl"
-  - "raw/self/twitter/tweet-archive.xlsx"
-  - "raw/self/twitter/profile.txt"
-  - "raw/self/twitter/tweets_sample_2019-2026.txt"
+  - "raw/twitter/archive.jsonl"
+  - "raw/twitter/tweet-archive.csv"
+  - "raw/drive-sweep/20260911/twitter/profile-samples/profile.txt"
+  - "raw/drive-sweep/20260911/twitter/profile-samples/tweets_sample_2019-2026.txt"
 tags: [digital-footprint, politics, music-production, ai-collaboration, ideology]
 connections:
   - page: wiki/self/twitter/2008

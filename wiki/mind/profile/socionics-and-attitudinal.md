@@ -7,8 +7,8 @@ status: stable
 date_created: 2026-07-13
 date_modified: 2026-09-21
 sources:
-  - raw/self/dox-md/FULL PROFILE 2026.md
-  - raw/self/dox-scan/Dan Profile.txt
+  - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - kb/data/0758-socionics-vocabulary-absent-from-corpus.md
   - kb/data/0756-intp-profile-function-scores-testimony.md
   - kb/data/0798-profile-hub-composite-archetype-caveats.md

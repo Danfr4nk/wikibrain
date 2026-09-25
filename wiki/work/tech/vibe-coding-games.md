@@ -6,7 +6,7 @@ status: active
 date_created: 2026-07-13
 date_modified: 2026-07-13
 sources:
-  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md
+  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/work/tech/index
   - wiki/work/tech/grok-build/overview

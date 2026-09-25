@@ -1,0 +1,74 @@
+{
+  "batch": "20260924-1140",
+  "pulled_at": "2026-09-24T11:45:00Z",
+  "window": {
+    "from": "2026-09-23T23:50:14.21Z",
+    "to": "2026-09-24T11:43:24.136Z"
+  },
+  "counts": {
+    "total_rows": 3239,
+    "system_excluded": 2370,
+    "archived": 871,
+    "user": 291,
+    "assistant": 580
+  },
+  "source": "muse.db runtime.messages x runtime.events, on-record main chat only",
+  "exclusions": [
+    "role=system (2,370 rows)",
+    "side chat 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853 (0 rows present)"
+  ],
+  "secrets_scan": {
+    "patterns": [
+      "telegram-bot",
+      "ghp_",
+      "sk-",
+      "stripe"
+    ],
+    "hits": 0
+  },
+  "phone_like_rows": 22,
+  "external": {
+    "instagram": {
+      "new_stories": 2,
+      "new_posts": 0,
+      "watermark": "2026-08-26 23:04:49"
+    },
+    "threads": {
+      "new": 0,
+      "watermark": "2026-08-26 23:04:55",
+      "followers": 73
+    },
+    "facebook": {
+      "new": 0,
+      "watermark": "2026-07-04T19:51:25Z"
+    },
+    "messenger": {
+      "new": 0,
+      "watermark": "1789853002778"
+    },
+    "spotify": {
+      "playback": "NONE",
+      "changed": false
+    },
+    "device": "standing no read path (iOS texts)",
+    "gmail": "excluded per Dan's 2026-09-11 order"
+  },
+  "files": {
+    "chats.json": {
+      "bytes": 473318,
+      "sha256": "42e08dfb8587a9d4dee9e7cd1b9c9713c824886a6105bf3ca27b57093c51d8e3"
+    },
+    "instagram.json": {
+      "bytes": 1077,
+      "sha256": "2c524c22468022170cc36692368de0bb4f05b9bf75bbebfbee4615eba3ae9881"
+    },
+    "spotify.json": {
+      "bytes": 96,
+      "sha256": "d20ccbb375f170bb8cd1126dc82b9a01e6138826c345473eb1c41d0f2d8ed863"
+    },
+    "EXTRACT.md": {
+      "bytes": 4896,
+      "sha256": "3568a0cee9928cabd8163811529b25101c932a5b88e7890a856ff68d42f6a1cc"
+    }
+  }
+}

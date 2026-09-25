@@ -9,13 +9,13 @@ date_modified: 2026-08-27
 date_range_start: 1961-02-08
 date_range_end: 2019-09-01
 sources:
-  - raw/self/ancestry/extracted/Daniel Frank family tree.txt
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/dansynth/DANSYNTH.txt
-  - raw/self/dansynth/dansynth-scrape-phases-2-7.md
-  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/places/captures/2026-08-27_022401_gap-117-belmont-circle.md
+  - raw/self/ancestry/extracted/Daniel Frank family tree.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dansynth/dansynth-scrape-phases-2-7.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/places/captures/2026-08-27_022401_gap-117-belmont-circle.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [family, housing, uniontown-era, grief, relationships]
 connections:
   - page: wiki/timeline/events/the-fall-of-fran

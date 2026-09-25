@@ -8,8 +8,8 @@ sources:
   - "dat:1587-conjunction-rule-cultural-literacy-20260915 (the conjunction rule the divide feeds)"
   - "The 2026-09-15 millennial-culture / AI-adoption thread as worked (survey interrogation predates the archived raw window; the thread's tail is in src:sammy-chat-transcript-20260915-1555, 15:42–15:47Z)"
   - "https://www.uc.edu/news/articles/2026/01/how-every-generation-uses-ai-from-boomers-to-gen-z.html"
-  - "https://www.pymnts.com/news/artificial-intelligence/2025/57percent-united-states-adults-use-gen-ai-millennials-pull-ahead-productivity/"
-  - "https://petapixel.com/2026/06/25/less-than-a-quarter-of-americans-use-ai-to-create-or-edit-images/"
+  - "https://www.pymnts.com/news/artificial-intelligence/2025/57percent-united-states-adults-use-gen-ai-millennials-pull-ahead-productivity/ — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "https://petapixel.com/2026/06/25/less-than-a-quarter-of-americans-use-ai-to-create-or-edit-images/ — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [ai-adoption, generational-cohort, millennial-culture, curation-vs-generation]
 connections:
   - page: wiki/mind/concepts/88er-cohort-profile

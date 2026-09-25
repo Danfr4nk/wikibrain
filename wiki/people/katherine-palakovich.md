@@ -8,7 +8,7 @@ date_modified: 2026-08-10
 date_range_start: 2011-05-05
 date_range_end: 2014-12-05
 sources:
-  - raw/self/gmail-captures/2026-08-10-creative-license-kevin-mckiernan-gmail.md
+  - raw/gmail/2026-08-10-creative-license-kevin-mckiernan-gmail.md
 tags: [nyc-era, career, digital-footprint, legal]
 infobox:
   name: "Katherine Palakovich"

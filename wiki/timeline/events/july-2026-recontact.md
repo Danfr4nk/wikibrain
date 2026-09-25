@@ -10,8 +10,8 @@ date_range_start: 2026-07-23
 date_range_end: 2026-07-26
 importance: critical
 sources:
-  - raw/self/message-csv/imessage_export_2124702449_20260726.csv
-  - raw/self/message-csv/imessage_export_2124702449_20260802.csv
+  - raw/self/message-csv/imessage_export_2124702449_20260726.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_export_2124702449_20260802.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [relationships, trauma-bond, attachment, addiction-recovery, forensic-analysis]
 connections:
   - page: wiki/mind/synthesis/the-rescue-premise

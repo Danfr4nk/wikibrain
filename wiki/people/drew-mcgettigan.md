@@ -8,7 +8,7 @@ date_modified: 2026-07-19
 date_range_start: 2015-06-08
 date_range_end: 2015-09-04
 sources:
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/drewmcgettigan_0m9jyrivda/message_1.html"
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/drewmcgettigan_0m9jyrivda/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [uniontown-era, relationships]
 infobox:
   name: "Drew McGettigan"

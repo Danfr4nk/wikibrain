@@ -9,23 +9,23 @@ date_modified: 2026-09-17
 knowledge: mixed
 importance: normal
 sources: [
-  "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv",
-  "raw/self/dox-md/Gemini-_21.md",
-  "raw/self/dox-md/Gemini-_58.txt",
-  "raw/self/gemini-activity/Gemini Activity.html",
-  "raw/self/context-core/CONTEXT_CORE_EXPANDED.md",
-  "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md",
-  "raw/self/dox-md/FULL PROFILE 2026.md",
-  "raw/self/dox-md/Gemini-_18.md",
-  "raw/self/facebook/facebook-ihatedanfrank/",
-  "raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md",
+  "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.",
+  "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-21.md",
+  "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-58.md",
+  "raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md",
+  "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.",
+  "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.",
+  "raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.",
+  "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md",
+  "raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.",
+  "raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.",
   "raw/messenger-drive-2026-09-12/threads.json",
   "raw/messenger-drive-2026-09-12/MANIFEST.json",
-  "raw/self/chats/The 2nd most famous _Jimmy Pop_ in Pennsylvania .md",
-  "raw/self/dox-scan/all_imessages_complete_dump.txt",
-  "raw/people/captures/2026-08-27_222932_gap-alexis-armel.md",
-  "raw/self/captures/2026-08-01_154050_bald-eagle-cummings.md",
-  "raw/people/captures/2026-08-02_004832_franki-and-the-fireworks.md"
+  "raw/self/chats/The 2nd most famous _Jimmy Pop_ in Pennsylvania .md — ⚠ Source reference unresolved — original target no longer exists in current corpus.",
+  "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.",
+  "raw/people/captures/2026-08-27_222932_gap-alexis-armel.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.",
+  "raw/self/captures/2026-08-01_154050_bald-eagle-cummings.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.",
+  "raw/people/captures/2026-08-02_004832_franki-and-the-fireworks.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 ]
 related: [
   "wiki/people/alexis-armel",

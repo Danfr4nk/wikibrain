@@ -4,7 +4,7 @@ page_type: report
 status: active
 date_created: 2026-06-23
 date_modified: 2026-06-23
-sources: ["raw/self/facebook/facebook-ihatedanfrank/posts/"]
+sources: ["raw/self/facebook/facebook-ihatedanfrank/posts/ — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/facebook", "wiki/interests/favorites/music", "wiki/timeline/periods/2010s", "wiki/self/location-history", "wiki/mind/synthesis/millennial-digital-witness"]
 tags: [nyc-era, relationships, politics]
 ---

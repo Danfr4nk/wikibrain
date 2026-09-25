@@ -8,13 +8,13 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
-  - src:imessage_3307038747_both_all_now.csv
-  - src:messenger_Kristin Shaelene_2025-09-01-07-53-22
-  - src:annie_all_time_logs
-  - src:ally_lubin_chatdb_export
+  - src:imessage_3307038747_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:messenger_Kristin Shaelene_2025-09-01-07-53-22 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:annie_all_time_logs — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:ally_lubin_chatdb_export — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - kb/data/0624-conflict-architecture-love-bomb-exchange-primary-verified.md
   - kb/data/0081-explicit-commitment-architecture.md
-  - src:corpus-extract-corpus-index
+  - src:corpus-extract-corpus-index — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/people/kristin
   - wiki/people/annie-ulmer

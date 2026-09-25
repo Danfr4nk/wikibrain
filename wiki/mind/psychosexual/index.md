@@ -9,10 +9,10 @@ date_created: 2026-07-14
 date_modified: 2026-09-11
 knowledge: mixed
 sources:
-  - raw/self/dox-scan/Dan Profile.txt
+  - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/ANALYSIS_ SOCIAL DEVIANCES.rtf
-  - raw/self/dansynth/DANSYNTH.txt
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
+  - raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/mind/profile/index
   - wiki/mind/profile/deviance-mapping

@@ -8,11 +8,11 @@ date_created: 2026-08-20
 date_modified: 2026-08-28
 tags: [forensic-analysis, relationships, legal, mental-health]
 sources:
-  - raw/self/audio/2026-08-16_Morgantown_St_call-recording.m4a
-  - raw/self/audio/2026-08-16_Morgantown_St_call-transcript.txt
-  - raw/self/audio/README_2026-08-16_morgantown-call.md
-  - raw/self/message-csv/imessage_export_2124702449_20260820.csv
-  - raw/self/message-csv/imessage_export_7248123683_20260820.csv
+  - raw/self/audio/2026-08-16_Morgantown_St_call-recording.m4a — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/audio/2026-08-16_Morgantown_St_call-transcript.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/audio/README_2026-08-16_morgantown-call.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_export_2124702449_20260820.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_export_7248123683_20260820.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/timeline/events/august-2026-morgantown-call
   - wiki/timeline/events/july-august-2026-reentanglement

@@ -5,12 +5,12 @@ status: active
 date_created: 2026-06-22
 date_modified: 2026-08-26
 sources:
-  - "raw/self/favorites/FAVS MASTERLIST.csv"
-  - "raw/self/dox-scan/Dan Profile.txt"
-  - "raw/self/dox-scan/all_imessages_complete_dump.txt"
-  - "raw/self/(failed-wiki-project)log-archive-2026-06-23.md"
-  - "raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html"
-  - "raw/self/concerts/table.csv"
+  - "raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/(failed-wiki-project)log-archive-2026-06-23.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/concerts/table.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 related:
   - wiki/interests/favorites/music
   - wiki/interests/favorites/music/artists/my-chemical-romance
@@ -20,7 +20,7 @@ related:
   - wiki/timeline/events/teen-concert-years
   - wiki/self/context-core
   - wiki/mind/psychosexual/developmental-origins
-  - wiki/interests/music/concepts/lyrics-as-timbre
+  - wiki/mind/concepts/lyric-qualifier
 changelog:
   - 2026-07-16: Major expansion. Added the 2007 touring record (3 shows + TRL taping), the Buffalo "Schrute Farms" secret show + Take-This-To-Your-Grave-in-full ChatGPT confirmation, the Folie-à-Deux cutoff / post-hiatus disavowal, and the teen-identity framing. Retained the deep-cut analysis.
   - 2026-07-14: Full rewrite from stub. Added track-specific analysis, deep-cut pattern, self-mythology reading.
@@ -146,7 +146,7 @@ Catch, Donnie."
 
 > **Caveat:** Dan does not process sung lyrics as language while
 > listening — words register as timbre, not semantic content (see
-> [[wiki/interests/music/concepts/lyrics-as-timbre]]). The reading below,
+> [[wiki/mind/concepts/lyric-qualifier]]). The reading below,
 > built around specific lyrical/thematic content, likely reflects
 > contextual knowledge of what these songs are about rather than
 > in-the-moment lyric comprehension driving the attraction. Treat the

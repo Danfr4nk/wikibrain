@@ -8,20 +8,20 @@ date_modified: 2026-09-04
 date_range_start: 2013-01-01
 date_range_end: 2016-03-07
 sources:
-  - raw/self/twitter/archive.jsonl
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-md/operating_manual.md
-  - raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html
-  - raw/self/dox-scan/FULL TWITTER ANALYSIS.txt
-  - raw/self/dox-scan/browser_history_analysis.txt
-  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/phillacher_gukgsjnnvw/message_1.html
-  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/frankswaney_jcxhv7sesw/message_1.html
+  - raw/twitter/archive.jsonl
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/FULL TWITTER ANALYSIS.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/browser_history_analysis.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/phillacher_gukgsjnnvw/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/frankswaney_jcxhv7sesw/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/interests/music/overview
   - wiki/interests/music/aliases/mogzart
   - wiki/interests/music/aliases/mogged-up
   - wiki/interests/music/concepts/sub-bass-signature
-  - wiki/interests/music/concepts/lyrics-as-timbre
+  - wiki/mind/concepts/lyric-qualifier
   - wiki/self/facebook
   - wiki/self/twitter
 tags: [music-production, nyc-era, personality-profile]

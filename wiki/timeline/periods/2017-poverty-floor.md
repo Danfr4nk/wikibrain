@@ -10,14 +10,14 @@ date_range_end: 2017-12-31
 changelog:
   - 2026-07-11: Full narrative rewrite per style guide. Prose over bullets. All numerical data preserved.
 sources:
-  - "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md"
-  - "raw/self/context-core/CONTEXT_CORE_EXPANDED.md"
-  - "raw/self/dox-md/operating_manual.md"
-  - *"raw/self/message-csv/*"
-  - "raw/self/facebook/facebook-ihatedanfrank/"
-  - "raw/self/dox-md/LIFE REPORT.md"
-  - "raw/self/dox-md/Gemini-_18.md"
-  - "raw/self/ancestry/"
+  - "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - '"raw/self/message-csv/*"'
+  - "raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/LIFE REPORT.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md"
+  - "raw/self/ancestry/ — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 related:
   - "wiki/timeline/events/timeline"
   - "wiki/people/annie-ulmer"

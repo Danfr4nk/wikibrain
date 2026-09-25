@@ -1,7 +1,7 @@
-+++
-id = "modbod"
-title = "Modbod — body-spec@1 viewer"
-+++
+---
+id: "modbod"
+title: "Modbod — body-spec@1 viewer"
+---
 
 # Modbod
 

@@ -6,7 +6,7 @@ date_created: 2026-06-23
 date_modified: 2026-07-14
 date_range_start: 2017-12-08
 date_range_end: 2018-04-05
-sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv", "raw/self/dox-scan/all_imessages_complete_dump.txt"]
+sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/timeline/events/fran-death-vigil", "wiki/people/fran-coldren", "wiki/people/annie-ulmer", "wiki/self/message-corpora/master-message-dump"]
 connections:
   - page: wiki/timeline/events/fran-death-vigil

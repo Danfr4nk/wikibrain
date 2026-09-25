@@ -8,25 +8,25 @@ status: active
 date_created: 2026-06-22
 date_modified: 2026-09-13
 sources:
-  - raw/self/gemini-activity/Gemini Activity.html
-  - raw/self/dox-md/Gemini_00.md
-  - raw/self/dox-md/Gemini_02.md
-  - raw/self/dox-md/Gemini_07.md
-  - raw/self/dox-md/Gemini_13.md
-  - raw/self/dox-md/Gemini_18.md
-  - raw/self/dox-md/Gemini_21.md
-  - raw/self/dox-md/Gemini_21 copy.md
-  - raw/self/chats/_✧✧ 𝔻𝔸𝔻𝔽𝔾𝔼𝔺𝔻-𝕋𝕀𝕊𝕄'𝕊 ✧✧ Pinned chat.md
-  - raw/self/chats/j6-chat.md
-  - raw/self/chats/Analyzing manipulation and ethical intent in data.md
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-md/Fake hacker dashboard scripts.md
-  - raw/self/dox-md/_Psychological Warfare and Social Engineering .md
-  - raw/self/concepts/TOTALITY_SYNTHESIS_2026-06-10.md
-  - "raw/self/dox-scan/HEART.pdf.txt"
-  - "raw/self/dox-md/Breaking the anxiety avoidance cycle.md"
-  - "raw/self/dox-md/Crisis mode briefing.md"
-  - "raw/self/dox-md/Creating robust video essays from scripts.md"
+  - raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md
+  - raw/self/dox-md/Gemini_00.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/Gemini_02.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-07.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-13.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-21.md
+  - raw/self/dox-md/Gemini_21 copy.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/chats/_✧✧ 𝔻𝔸𝔻𝔽𝔾𝔼𝔺𝔻-𝕋𝕀𝕊𝕄'𝕊 ✧✧ Pinned chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/j6-chat.md
+  - raw/self/chats/Analyzing manipulation and ethical intent in data.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/Fake hacker dashboard scripts.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/_Psychological Warfare and Social Engineering .md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/concepts/TOTALITY_SYNTHESIS_2026-06-10.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - "raw/self/dox-scan/HEART.pdf.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/Breaking the anxiety avoidance cycle.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/Crisis mode briefing.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/Creating robust video essays from scripts.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 synthesizes:
   - wiki/mind/concepts/exocortex
   - wiki/mind/synthesis/millennial-digital-witness
@@ -323,6 +323,32 @@ did not stop the artifact from existing, because the pipeline and the
 wearing are separate systems, and the line held was the one about whose
 face it becomes.
 [dat:1496](../../kb/data/1496-star-of-david-face-paint-probe-20260913.md)
+
+### The Gemini 100-facts probe (2026-09-24)
+
+A new audit instrument in the honesty-enforcement series: Dan asked Gemini to
+"list 100 random facts from wikibrain to prove it was actually using it," then
+flagged the result as suspect — "Is this Gemini using its own memory items of
+me to hallucinate or pretend to be using wikibrain" (2026-09-24 04:02:54Z).
+Sammy audited all 100 item-by-item against the repo instead of gut-checking,
+because gut-checking would have been sloppy: several first-glance
+"inventions" (erotic architecture, the 88er cohort, YAHLATRO) had real wiki
+hits. The method read context, not substrings.
+
+**The score: 35 confirmed, 38 distorted, 25 absent, 2 contradicted — 35%
+clean.** The twist is the split: Gemini *did* read the wiki. Section I
+carried repo-specific details no memory item could supply — the real PR #25 CI
+failure, the thumbnail directive, YAHLATRO. But on biography it confabulated
+freely: date slides (Full Sail Sep 2009 → Oct 2010, six-year Alexis → seven),
+stereotype filler (Spicetify, weed trimmers, six video games with zero wiki
+presence), and two outright inversions. Real corpus access, confabulated
+biography — the model knew the *repository* and faked the *man*.
+
+The probe establishes a reusable verification instrument for any model that
+claims to be reading the wiki: repo-specificity tests actual corpus access,
+biography accuracy tests confabulation, and the two must be scored separately
+because they fail independently. Evidence:
+`dat:1924-gemini-100-facts-audit-20260924` (`src:20260924-0230-sammy-chat-transcript`).
 
 ## Relation to core identity
 

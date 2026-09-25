@@ -7,13 +7,13 @@ date_created: 2026-07-14
 date_modified: 2026-09-02
 knowledge: mixed
 sources:
-  - raw/self/twitter/archive.jsonl
-  - raw/self/captures/2026-07-14-tattoo-list.md
-  - raw/self/captures/2026-07-15_195532_tattoo-artist.md
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/dox-scan/dan tom 2010 2022.txt
-  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/chrisredmond_ewkx6qfqha/message_1.html
+  - raw/twitter/archive.jsonl
+  - raw/self/captures/2026-07-14-tattoo-list.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-07-15_195532_tattoo-artist.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/dan tom 2010 2022.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/chrisredmond_ewkx6qfqha/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 connections:
   - page: wiki/self/twitter/2010
     type: evidenced-by
@@ -28,7 +28,7 @@ related:
   - wiki/self/ancestry
   - wiki/interests/favorites/music
   - wiki/interests/favorites/music/artists/kanye-west
-  - wiki/interests/music/concepts/lyrics-as-timbre
+  - wiki/mind/concepts/lyric-qualifier
   - wiki/people/annie-ulmer
   - wiki/people/tom
   - wiki/people/emaly-minerd
@@ -296,6 +296,6 @@ the Weidrick rose follows about ten weeks later.
 
 ## Related
 
-[[wiki/self/ancestry]] · [[wiki/interests/favorites/music]] · [[wiki/interests/favorites/music/artists/kanye-west]] · [[wiki/interests/music/concepts/lyrics-as-timbre]] · [[wiki/people/annie-ulmer]] · [[wiki/people/tom]] · [[wiki/people/emaly-minerd]] · [[wiki/people/kristin]]
+[[wiki/self/ancestry]] · [[wiki/interests/favorites/music]] · [[wiki/interests/favorites/music/artists/kanye-west]] · [[wiki/mind/concepts/lyric-qualifier]] · [[wiki/people/annie-ulmer]] · [[wiki/people/tom]] · [[wiki/people/emaly-minerd]] · [[wiki/people/kristin]]
 
 

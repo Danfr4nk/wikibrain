@@ -8,7 +8,7 @@ date_range_start: 2016-08-09
 date_range_end: 2019-07-03
 sources:
   - "Dan Frank, direct testimony 2026-09-17 (identity resolution)"
-  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"
+  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/facebook-threads/MANIFEST.json"
   - "raw/old-wiki-export-2026-09-04/whole.txt"
   - "kb/data/0978-mike-hinkle-thread-dimensions.md"

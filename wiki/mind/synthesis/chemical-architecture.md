@@ -5,12 +5,12 @@ page_type: synthesis
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-09-24
 sources:
-  - src:corpus-authoritative-export
+  - src:corpus-authoritative-export — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:facebook-export-2026-06-23
-  - src:twitter-archive
-  - src:intake-ledger-2026-08-30
+  - src:twitter-archive — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:intake-ledger-2026-08-30 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:old-wiki-export-2026-09-04
 synthesizes:
   - wiki/health/chemical-architecture
@@ -206,8 +206,10 @@ now has a name and a date: over Thanksgiving 2009, [[wiki/people/alexis-armel|Al
 addiction that Dan had truly kicked while in college is back in force" — with a
 friend driving Winter Park to Ocala daily to keep supply running, through a
 Christmas trip home, resolving seven weeks after the couple's return to Orlando
+— the return itself undated in the record, so the seven weeks cannot be
+anchored to a calendar start —
 on the already-dated day-zero **[ATTESTED, wiki/health/chemical-architecture]**.
-The run therefore does not begin in a vacuum. It begins seven weeks after a
+The run therefore does not begin in a vacuum. It begins about twelve weeks after a
 specific, named relapse — which means "zero relapses" is measured from a line
 drawn *after* the last one, and the last one is documented, not hand-waved. That
 is the right way to bound the claim, and the corpus now bounds it that way.
@@ -686,7 +688,8 @@ The wiki's account of *why* it closed is his framing, carried at medium
 confidence and stated as such: four functional alcoholics across three
 generations (mother, grandmother, great-grandmother, father), and alcohol
 specifically present at the household's defining betrayals — the father's rehab
-admission and the mother's affair with their dealer both sit inside a broader
+admission and the mother's affair with their dealer **[TESTIMONY — his
+account; no documentary corroboration found]** both sit inside a broader
 pattern of alcohol-adjacent family dysfunction **[ATTESTED as his framing,
 wiki/health/chemical-architecture]**. The November 2005 rupture — the hinge
 event — is alcohol-coded in the family record even where the substances at issue
@@ -1082,9 +1085,11 @@ because this time the parameters held.
 
 Cocaine's own pre-history complicates any clean story where the November 2005
 rupture triggers the pattern. Cocaine entered the household as a known concept
-at age 13 (2001), via the discovery of his parents' own use — the same substance
+at age 13 (2001), via the discovery of his parents' own use **[TESTIMONY —
+his account; no documentary corroboration found]** — the same substance
 later implicated in the rupture (the father's rehab admission, the mother's
-affair with their dealer) was already a familiar, "adult" behavior in the house
+affair with their dealer **[TESTIMONY — his account; no documentary
+corroboration found]**) was already a familiar, "adult" behavior in the house
 years before the hinge event **[ATTESTED]**. His own first cocaine use follows
 at 17–18 (2005–2006), in the [[wiki/places/seven-springs|Seven Springs]] ski-crew context, and the
 retrospective explicitly frames the choice as instrumental as much as social:
@@ -1101,7 +1106,8 @@ Thanksgiving 2009 closes the pre-history: Alexis enters with thirty Roxicet
 pills, "the opiate addiction that Dan had truly kicked while in college is back
 in force," a friend driving Winter Park to Ocala daily to keep supply running,
 through a Christmas trip home, resolving seven weeks after the couple's return
-to Orlando on the already-dated day-zero **[ATTESTED]**. Note what the episode
+to Orlando — the return itself undated in the record, so the seven weeks
+cannot be anchored to a calendar start — on the already-dated day-zero **[ATTESTED]**. Note what the episode
 demonstrates about the pre-architecture system: it *worked*, in the narrow
 sense. Supply was maintained for weeks across two states through a social graph.
 The problem was never logistics. The problem was that the logistics served the

@@ -8,7 +8,7 @@ date_modified: 2026-08-10
 date_range_start: 2011-12-01
 date_range_end: 2012-05-04
 sources:
-  - raw/self/gmail-captures/2026-08-10-creative-license-kevin-mckiernan-gmail.md
+  - raw/gmail/2026-08-10-creative-license-kevin-mckiernan-gmail.md
 tags: [nyc-era, digital-footprint, legal]
 infobox:
   name: "Renae Holland"

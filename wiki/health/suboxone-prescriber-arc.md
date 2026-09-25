@@ -5,7 +5,7 @@ title: "The Prescriber Arc: Monitored 2011, Logistics 2025, Transition Undated"
 status: active
 knowledge: earned
 date_created: 2026-09-17
-date_modified: 2026-09-17
+date_modified: 2026-09-24
 sources:
   - src:imessage-corpus-2026
   - src:imessage-complete-dump-2025-08-11
@@ -295,6 +295,16 @@ December is a route that may simply not be in the decision set in May. That is a
 inference from one conditional clause, which dat:0028 explicitly declines to
 promote, and this page declines to promote it too — it is recorded as a lean, not
 a finding.
+
+**2026-09-24 annotation — redundant system, correlated failure.** The bearing
+log's overlap row (prescribed and informal routes live together 2013–2021) and
+the May 2026 cascade (one supplier's no-show collapsing the supply into ~72h of
+withdrawal) are not in tension once the correlation is stated: the system was
+redundant across topologies but correlated in its failure — by 2026 the informal
+network had thinned to a single man, so a topology that once survived individual
+node failures could not survive this one. Both can be true. The dose-curve page
+records the same temporal resolution ([[wiki/health/suboxone-dose-curve]]); this
+page adopts it as its reading of the arc's last row.
 
 ## 9. What the arc supports and what it does not
 

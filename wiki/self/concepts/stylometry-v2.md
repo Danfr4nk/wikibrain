@@ -10,7 +10,7 @@ date_modified: 2026-09-21
 importance: high
 tags: [instruments, self-measurement, linguistics, ai-collaboration]
 sources:
-  - raw/self/captures/stylometry-v2-burnin
+  - raw/self/captures/stylometry-v2-burnin — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/self/concepts/claude
   - wiki/self/message-corpora/source-coverage-index

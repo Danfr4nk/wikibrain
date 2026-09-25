@@ -9,8 +9,8 @@ date_modified: 2026-08-11
 date_range_start: 2015-12-27
 date_range_end: 2024-10-19
 sources:
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/message-csv/imessage_7243667777_both_all_now.csv
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_7243667777_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 knowledge: derived
 infobox:
   name: "Lisa Frank"

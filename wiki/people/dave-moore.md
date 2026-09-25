@@ -8,8 +8,8 @@ knowledge: mixed
 date_created: 2026-08-18
 date_modified: 2026-08-18
 sources:
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/people/captures/2026-08-17_230820_gap-diane-shrum.md
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-17_230820_gap-diane-shrum.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [family, grief, uniontown-era, financial-stress]
 infobox:
   name: "Dave Moore"

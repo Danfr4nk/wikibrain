@@ -1,0 +1,27 @@
+{
+ "batch": "20260922-1430",
+ "pulled_at_utc": "2026-09-22T18:36:00Z",
+ "files": {
+  "EXTRACT.md": {
+   "sha256": "b70101bb9a38702f3da7f5cb2ea39d1a61c3e5815dbe0642dcb4c5990e89f710",
+   "bytes": 3096
+  },
+  "conspiracy-verdicts.md": {
+   "sha256": "e4960f47a6cb769b206c96e653511f6a1c326800df19b7fcd21c544c5f8d3073",
+   "bytes": 14766
+  },
+  "conspiracy-worldview-analysis.md": {
+   "sha256": "9afc02967309336c9b14e9d1d3c6194a643a4e87943e0bbfbf7b7ce4c73b557f",
+   "bytes": 9533
+  }
+ },
+ "sources": {
+  "chats": {
+   "watermark_from": "2026-09-22T11:40:13.217+00:00",
+   "substance_through": "2026-09-22T18:34:00Z",
+   "kind": "substance-capture",
+   "note": "Durable substance (conspiracy verdicts + worldview analysis). Byte-exact chats.json for this window is the 4h scrape next-run responsibility (its watermark still at 11:40:13Z)."
+  },
+  "cumthread3_rows": 0
+ }
+}

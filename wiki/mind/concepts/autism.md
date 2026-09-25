@@ -15,7 +15,7 @@ synthesizes:
   - wiki/mind/profile/intp
   - wiki/mind/profile/deviance-mapping
   - wiki/mind/profile/linguistic-profile
-  - wiki/interests/music/concepts/lyrics-as-timbre
+  - wiki/mind/concepts/lyric-qualifier
 tags: [personality-profile, mental-health, attachment, language]
 knowledge: mixed
 connections:
@@ -31,9 +31,9 @@ connections:
   - page: wiki/mind/profile/intp
     type: parallels
     claim: "Ti-dominance and weak Fe name the same measured profile — systematizing over relating, explicit over inferred meaning — in a typological vocabulary. Neither label was checked against the other before both were accepted."
-  - page: wiki/interests/music/concepts/lyrics-as-timbre
+  - page: wiki/mind/concepts/lyric-qualifier
     type: evidences
-    claim: "The lyric qualifier is the purest behavioral demonstration of explicit-over-inferred processing: sung words register as timbre, not semantic content, because lyrics are inferential and ambiguous."
+    claim: "The lyric qualifier is the purest behavioral demonstration of explicit-over-inferred processing: sung words register as timbre, not semantic content, because lyrics are inferential and ambiguous. Corroborated by the held 2026-09-11 second capture (byte-exact), the phonetic-production series (name-mishearing + typed specimens), and the operationalization record (AUTOPSY scoring dimension, hook2piano engineering constraint) — see that entry's Limits for what does NOT corroborate it."
   - page: wiki/mind/concepts/exocortex
     type: instance-of
     claim: "The label itself was produced inside the AI-collaborative sessions this page documents as Dan's primary self-knowledge mechanism — arrived at through, and repeated across, bootloader-style documents rather than through any process outside them."
@@ -150,10 +150,18 @@ content even with a lyric sheet in front of him, and has parsed only about
 three songs in his life as conceptual message (his own figure; the titles
 remain unasked-for and unnamed). Song lyrics are inferential and ambiguous,
 so they pass through the perceptual system as sound. The
-[[wiki/interests/music/concepts/lyrics-as-timbre]] page corroborates the
-claim independently: Dan stated the same lyric-blindness to a hostile third
-party mid-argument in late summer 2025 — "I hear melodies, harmonies. I
-don't hear the narrative or the topic of the lyrical content at all."
+[[wiki/mind/concepts/lyric-qualifier]] corroborates the
+claim independently — and the 2026-09-22 reconstruction tightened the
+evidence: the 2026-09-11 MUSIC THREAD re-statement is the held leg
+(byte-exact, adds the lyric-sheet detail and the ~3-exceptions count), the
+phonetic-production series (the name-mishearing pattern, the typed
+specimens) shows the same approximate-phonetics machinery in everyday
+language use, and the AUTOPSY/hook2piano instruments operationalized the
+qualifier as a scoring dimension and an engineering constraint. What does
+NOT corroborate it, per that entry's Limits: the late-summer-2025
+hostile-third-party statement the old page offered — the held corpus
+returns zero rows for the quoted sentence, so it is filed as an unheld
+claim from the retired page, not as independent attestation.
 
 The same filter governs relationships: the
 [[wiki/mind/concepts/explicit-verbal-commitment]] architecture finds positive

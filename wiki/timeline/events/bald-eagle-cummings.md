@@ -10,7 +10,7 @@ date_modified: 2026-09-12
 date_range_start: 2000-12-01
 date_range_end: 2002-03-31
 sources:
-  - raw/self/captures/2026-08-01_154050_bald-eagle-cummings.md
+  - raw/self/captures/2026-08-01_154050_bald-eagle-cummings.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [uniontown-era, relationships, mental-health]
 connections:
   - page: wiki/places/seven-springs

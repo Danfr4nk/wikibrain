@@ -4,7 +4,7 @@ page_type: chat
 status: stable
 date_created: 2026-06-23
 date_modified: 2026-07-02
-sources: ["raw/self/dox-md/Gemini-_13.md"]
+sources: ["raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-13.md"]
 related: ["wiki/people/jacob-bacharach", "wiki/mind/concepts/forensic-method", "wiki/mind/synthesis/ai-collaborative-analysis", "wiki/self/gemini-activity/gemini-activity", "wiki/timeline/periods/2015-2016-annie-relationship-start"]
 tags: [ai-collaboration, uniontown-era, relationships, nyc-era]
 ---

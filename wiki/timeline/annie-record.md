@@ -7,11 +7,11 @@ date_created: 2026-08-15
 date_modified: 2026-08-18
 sources:
   - exports/annie-corpus.csv (built by bin/annie-corpus from the sources below)
-  - raw/self/message-csv/imessage_7244346811+7249204125+2124702449_both_all_now.csv
-  - raw/self/message-csv/imessage_7244346811_both_all_now.csv
-  - raw/self/message-csv/imessage_2124702449_both_all_now.csv
-  - raw/self/message-csv/imessage_ALL_both_all_now.csv
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
+  - raw/self/message-csv/imessage_7244346811+7249204125+2124702449_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_7244346811_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_2124702449_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_ALL_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [relationships, forensic-analysis, uniontown-era]
 connections:
   - page: wiki/people/suzanne-frank

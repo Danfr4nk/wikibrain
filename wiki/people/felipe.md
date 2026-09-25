@@ -8,8 +8,8 @@ date_modified: 2026-07-14
 date_range_start: 2023-08-11
 date_range_end: 2024-08-21
 sources:
-  - raw/self/dansynth/StorytimeAuZaatarAnalysis.md
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
+  - raw/self/dansynth/StorytimeAuZaatarAnalysis.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/work/au-zaatar
   - wiki/people/dimitri

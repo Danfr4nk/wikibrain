@@ -9,8 +9,8 @@ date_modified: 2026-07-14
 date_range_start: 2019-06-01
 date_range_end: 2020-03-23
 sources:
-  - raw/self/captures/2026-07-14-kya-hansen.md
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
+  - raw/self/captures/2026-07-14-kya-hansen.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/people/shelbie-breakiron
   - wiki/people/jerad-friedline

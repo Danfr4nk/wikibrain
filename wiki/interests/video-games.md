@@ -5,12 +5,12 @@ status: active
 date_created: 2026-07-16
 date_modified: 2026-09-03
 sources:
-  - "raw/self/twitter/archive.jsonl"
-  - "raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html"
-  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"
-  - "raw/self/message-csv/imessage_3307038747.csv"
-  - "raw/self/message-csv/imessage_7243228715_both_2025-06-03_now.csv"
-  - "raw/self/gemini-activity/Gemini Activity.html"
+  - "raw/twitter/archive.jsonl"
+  - "raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/message-csv/imessage_3307038747.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/message-csv/imessage_7243228715_both_2025-06-03_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md"
 tags: [digital-footprint, nyc-era, personality-profile]
 connections:
   - page: wiki/self/twitter/2008

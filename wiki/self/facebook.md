@@ -6,7 +6,7 @@ date_created: 2026-06-23
 date_modified: 2026-09-02
 date_range_start: 2007-01-09
 date_range_end: 2022-09-05
-sources: ["raw/self/facebook/facebook-ihatedanfrank/", "raw/self/twitter/archive.jsonl"]
+sources: ["raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/twitter/archive.jsonl"]
 related: ["wiki/self/context-core", "wiki/self/facebook/messages", "wiki/self/facebook/posts", "wiki/self/facebook/friends", "wiki/self/facebook/interests"]
 tags: [relationships, nyc-era, family, uniontown-era, trauma-bond]
 connections:

@@ -9,10 +9,10 @@ importance: high
 date_created: 2026-08-19
 date_modified: 2026-08-26
 sources:
-  - raw/self/favorites/FAVS MASTERLIST.csv
-  - raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2025).html
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
+  - raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2025).html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/interests/roman-republic
   - wiki/interests/opie-and-anthony

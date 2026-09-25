@@ -7,8 +7,8 @@ knowledge: mixed
 date_created: 2026-06-23
 date_modified: 2026-09-20
 sources:
-  - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip
-  - raw/self/ancestry/extracted/Daniel Frank family tree.txt
+  - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/ancestry/extracted/Daniel Frank family tree.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - kb/data/0355-david-j-frank-great-grandfather-nyc-chapter.md
   - kb/data/0898-ancestry-gedcom-scale-and-lines.md
   - kb/data/0986-sadie-harris-residence-record.md

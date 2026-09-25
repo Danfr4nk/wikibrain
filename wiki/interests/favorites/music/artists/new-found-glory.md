@@ -4,13 +4,13 @@ page_type: entity
 status: active
 date_created: 2026-06-22
 date_modified: 2026-07-14
-sources: ["raw/self/favorites/FAVS MASTERLIST.csv"]
+sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related:
   - wiki/interests/favorites/music
   - wiki/interests/favorites/music/artists/fall-out-boy
   - wiki/interests/favorites/music/artists/taking-back-sunday
   - wiki/self/context-core
-  - wiki/interests/music/concepts/lyrics-as-timbre
+  - wiki/mind/concepts/lyric-qualifier
 changelog:
   - 2026-07-14: Full rewrite from stub. Added track-specific reading, tonal contrast with the darker emo cluster.
 tags: [personality-profile]
@@ -40,7 +40,7 @@ about a partner who isn't good for the person they're with.
 
 > **Caveat:** Dan does not process sung lyrics as language while
 > listening — words register as timbre, not semantic content (see
-> [[wiki/interests/music/concepts/lyrics-as-timbre]]). "My Friends Over
+> [[wiki/mind/concepts/lyric-qualifier]]). "My Friends Over
 > You" as a stated thesis is more likely known from the title and cultural
 > reputation than parsed from the sung lyric during listening; the
 > tonal-contrast reading below stands independently of that caveat, since

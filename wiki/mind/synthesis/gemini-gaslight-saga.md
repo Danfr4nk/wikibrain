@@ -7,8 +7,8 @@ knowledge: earned
 date_created: 2026-09-16
 date_modified: 2026-09-16
 sources:
-  - src:kb-dat-1615-gemini-lost-hiker-saga
-  - src:kb-dat-1616-screenplay-prank-frame-dependence
+  - dat:1615-gemini-lost-hiker-saga-202601
+  - dat:1616-screenplay-prank-frame-dependence-202601
   - raw/sammy/20260916-gemini-saga-transcripts/
 synthesizes:
   - wiki/mind/synthesis/red-team-probe-series

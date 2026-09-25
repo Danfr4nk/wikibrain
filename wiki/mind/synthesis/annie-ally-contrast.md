@@ -8,9 +8,9 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
-  - src:annie-ulmer-corpus-115k
-  - src:ally-lubin-dual-handle-exports
-  - src:august-2026-overlap-forensics
+  - src:annie-ulmer-corpus-115k — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:ally-lubin-dual-handle-exports — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - src:august-2026-overlap-forensics — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - kb/data/0090-block-retraction-2026-09-11.md
   - kb/data/0081-explicit-commitment-architecture.md
 synthesizes:

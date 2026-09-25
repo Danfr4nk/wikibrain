@@ -22,9 +22,9 @@ infobox:
   location: Manhattan
   notes: "Identity confirmed by operator testimony 2026-08-23 and by 'Libby Fagen' in the corpus"
 sources:
-  - raw/people/captures/2026-08-23_libby-titus-identification-confirmed.md
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/message-csv/imessage_2124702449_both_all_now.csv
+  - raw/people/captures/2026-08-23_libby-titus-identification-confirmed.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_2124702449_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 connections:
   - page: wiki/people/annie-ulmer
     type: evidences

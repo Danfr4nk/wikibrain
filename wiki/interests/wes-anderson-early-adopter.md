@@ -7,7 +7,7 @@ date_modified: 2026-09-15
 sources:
   - "dat:1589-wes-anderson-early-adopter-self-report-20260915 (2026-09-15 self-report: Life Aquatic / Rushmore / Tenenbaums; tent-scene needle drops)"
   - "MEMORY.md (standing record of the same self-report)"
-  - "src:sammy-chat-transcript-20260915-1555 (archived thread tail, 15:42–15:47Z)"
+  - "src:sammy-chat-transcript-20260915-1555 (archived thread tail, 15:42–15:47Z) — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [wes-anderson, film, early-adopter, rolling-stones]
 connections:
   - page: wiki/interests/film-canon

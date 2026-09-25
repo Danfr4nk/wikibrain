@@ -4,7 +4,7 @@ page_type: chat
 status: archived
 date_created: 2026-06-22
 date_modified: 2026-06-22
-sources: ["raw/self/dox-md/_❈❈ ᴘʜᴏᴛᴏ ɪɴɢᴇsᴛ ❈❈ Pinned chat.md"]
+sources: ["raw/self/dox-md/_❈❈ ᴘʜᴏᴛᴏ ɪɴɢᴇsᴛ ❈❈ Pinned chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/chats/danfrank-isms-pinned", "wiki/self/chats/extract-messages-pinned", "wiki/mind/synthesis/political-psyops", "wiki/mind/concepts/forensic-method", "wiki/people/max"]
 tags: [ai-collaboration, legal, politics]
 ---

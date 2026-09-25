@@ -7,9 +7,9 @@ knowledge: earned
 date_created: 2026-09-13
 date_modified: 2026-09-13
 sources:
-  - src:exportify-haul-2026-09-11
-  - src:playlist-forensics-2026-09-11
-  - src:residue-forensics-2026-09-13
+  - src:exportify-csvs-2026-09-11
+  - src:playlist-analysis-2026-09-11
+  - src:residue-forensics-2026-09-13 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/mind/synthesis/taste-as-filter-stack
   - wiki/mind/synthesis/dance-music-only-phases
@@ -25,7 +25,7 @@ connections:
   - page: wiki/mind/synthesis/dance-music-only-phases
     type: component-of
     claim: "The residue's release window (2013–2017) spans phase 1's tail and the fallow decade's onset. The six 2017–18 survivors are the last likes before the silence — liked at the fallow decade's leading edge, in the dump's era, never removed. That entry's periodization; this entry's continuity proof."
-  - page: wiki/interests/music/concepts/lyrics-as-timbre
+  - page: wiki/mind/concepts/lyric-qualifier
     type: parallels
     claim: "The purged cohort is the more verbal half of the residue (speechiness median 0.166 vs 0.052 for the survivors — verse-forward rap: DNA., Front & Center, STAR). The purge did not select for verbalness; it selected for session membership, and the sessions happened to contain the verbal material. Correlation stated, causation withheld."
   - page: wiki/interests/favorites/eclecticism
@@ -224,7 +224,7 @@ Eight of eleven sit below the 0.70 energy floor.
 The speechiness median (0.166) is more than double the crate's —
 this is the verse-forward half of the residue:
 DNA. at 0.357, Front & Center at 0.355, WINDOWS at 0.354, STAR at 0.282.
-Under [[wiki/interests/music/concepts/lyrics-as-timbre|Filter 0]]
+Under [[wiki/mind/concepts/lyric-qualifier|Filter 0]]
 these are heard as flow-timbre,
 but they are still *songs with verses about things* —
 the form Filter 3 rejects.

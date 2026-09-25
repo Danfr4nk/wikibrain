@@ -10,15 +10,15 @@ date_created: 2026-07-14
 date_modified: 2026-09-21
 date_range_start: 2018-01-01
 sources:
-  - raw/timeline/captures/2026-08-16_183544_gap-july-august-2026-reentanglement.md
-  - raw/self/message-csv/imessage_export_2124702449_20260802.csv
-  - raw/self/dox-md/MAX_PRIME.md
-  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md
-  - raw/self/dox-md/LIFE REPORT.md
-  - raw/self/dox-md/Max.md
-  - raw/self/dox-md/Gemini-_18.md
-  - raw/self/dox-md/operating_manual.md
-  - raw/self/dox-md/Annie 10-Year Trauma Bond Aura Illness Forensic Report.md
+  - raw/timeline/captures/2026-08-16_183544_gap-july-august-2026-reentanglement.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/imessage_export_2124702449_20260802.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/MAX_PRIME.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/LIFE REPORT.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/people/max.md
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/Annie 10-Year Trauma Bond Aura Illness Forensic Report.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [pets, relationships, physical-health, ai-collaboration, nyc-era]
 connections:
   - page: wiki/timeline/events/august-2026-morgantown-call

@@ -7,7 +7,7 @@ date_created: 2026-08-15
 date_modified: 2026-08-18
 sources:
   - exports/annie-corpus.csv (built by bin/annie-corpus)
-  - raw/people/captures/2026-08-15_annie-handle-confirmation-and-notes-directive.md
+  - raw/people/captures/2026-08-15_annie-handle-confirmation-and-notes-directive.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [relationships, forensic-analysis, uniontown-era]
 connections:
   - page: wiki/timeline/annie-record

@@ -7,14 +7,14 @@ status: stable
 date_created: 2026-06-23
 date_modified: 2026-09-17
 sources:
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/facebook/facebook-ihatedanfrank/friends_and_followers/friends.html
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/facebook/friends.md
   - raw/twitter/archive.jsonl
   - corpus/derived/threads.csv
   - corpus/derived/summary.json
-  - raw/self/dox-md/operating_manual.md
+  - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
   - wiki/self/context-core
   - wiki/timeline/periods/2020-2021-market-era

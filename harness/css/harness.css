@@ -1,0 +1,53 @@
+:root{
+  --bg:#0d0d10; --panel:#141419; --panel2:#1a1a21; --ink:#e8e8e8; --ink-dim:#a8a8b0;
+  --ink-faint:#6a6a72; --accent:#c9a0dc; --accent-dim:#8f6fa0;
+  --edge-assoc:#5b8dd9; --edge-sem:#c9a0dc; --edge-evid:#6fbf73; --edge-prov:#8a8a92;
+  --warn:#e0b34e; --bad:#d96a6a; --ok:#6fbf73;
+  --border:#2a2a33; --radius:8px;
+}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:Georgia,'Times New Roman',serif;margin:0;line-height:1.55}
+a{color:var(--accent)}
+#harness-header{display:flex;align-items:center;gap:1.5rem;padding:.7rem 1.2rem;background:var(--panel);border-bottom:1px solid var(--border);position:sticky;top:0;z-index:10;flex-wrap:wrap}
+.brand a{font-size:1.15rem;font-weight:bold;color:var(--ink);text-decoration:none;letter-spacing:.02em}
+#harness-nav{display:flex;gap:.9rem}
+#harness-nav a{color:var(--ink-dim);text-decoration:none;padding:.25rem .1rem;border-bottom:2px solid transparent}
+#harness-nav a.active{color:var(--ink);border-bottom-color:var(--accent)}
+#gate-banner{width:100%;font-size:.85rem;color:var(--warn);padding:.4rem 0}
+#gate-banner a{color:var(--warn)}
+#harness-layout{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:1.2rem;max-width:1200px;margin:0 auto;padding:1.2rem}
+@media (max-width:900px){#harness-layout{grid-template-columns:1fr}}
+#harness-main{min-width:0}
+#context-panel{background:var(--panel);border:1px solid var(--border);border-radius:var(--radius);padding:1rem;align-self:start;position:sticky;top:4.5rem;max-height:calc(100vh - 6rem);overflow:auto}
+@media (max-width:900px){#context-panel{position:static;max-height:none}}
+#harness-footer{max-width:1200px;margin:0 auto;padding:1rem 1.2rem 3rem;color:var(--ink-faint);font-size:.8rem}
+.card{background:var(--panel);border:1px solid var(--border);border-radius:var(--radius);padding:1rem;margin-bottom:1rem}
+.card h3{margin:.2rem 0 .6rem;font-size:1.05rem}
+.dim{color:var(--ink-dim)} .faint{color:var(--ink-faint)} .small{font-size:.85rem}
+.badge{display:inline-block;font-size:.72rem;padding:.1rem .45rem;border-radius:1rem;border:1px solid var(--border);color:var(--ink-dim);margin-right:.3rem}
+.badge.hub{border-color:var(--warn);color:var(--warn)}
+.badge.t1{border-color:var(--ok);color:var(--ok)} .badge.t2{border-color:var(--accent);color:var(--accent)} .badge.t3{border-color:var(--ink-faint);color:var(--ink-faint)}
+.edge-class{font-size:.72rem;font-weight:bold;letter-spacing:.06em;text-transform:uppercase}
+.edge-ASSOCIATIVE{color:var(--edge-assoc)} .edge-SEMANTIC{color:var(--edge-sem)}
+.edge-EVIDENCE{color:var(--edge-evid)} .edge-PROVENANCE{color:var(--edge-prov)}
+ul.plain{list-style:none;padding:0;margin:0}
+ul.plain li{padding:.45rem 0;border-bottom:1px solid var(--border)}
+ul.plain li:last-child{border-bottom:none}
+input[type=text],input[type=search],select{background:var(--panel2);color:var(--ink);border:1px solid var(--border);border-radius:6px;padding:.5rem .7rem;font-size:1rem;width:100%}
+button{background:var(--panel2);color:var(--ink);border:1px solid var(--border);border-radius:6px;padding:.45rem .9rem;cursor:pointer;font-size:.95rem}
+button:hover{border-color:var(--accent)}
+.controls{display:flex;gap:.6rem;flex-wrap:wrap;margin-bottom:1rem;align-items:center}
+.controls label{font-size:.85rem;color:var(--ink-dim)}
+.stat-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:.6rem;margin-bottom:1rem}
+.stat{background:var(--panel);border:1px solid var(--border);border-radius:var(--radius);padding:.6rem .8rem}
+.stat .n{font-size:1.4rem;font-weight:bold} .stat .l{font-size:.78rem;color:var(--ink-dim)}
+.tl-event{border-left:3px solid var(--border);padding:.35rem .7rem;margin-bottom:.35rem}
+.tl-event.tier1{border-left-color:var(--ok)} .tl-event.tier2{border-left-color:var(--accent)}
+.tl-event .d{font-weight:bold;font-size:.9rem}
+.journey-hop{padding:.5rem .7rem;border:1px solid var(--border);border-radius:var(--radius);margin:.3rem 0;background:var(--panel2)}
+.journey-arrow{text-align:center;color:var(--ink-faint);font-size:.85rem;padding:.1rem}
+.cov-ok{color:var(--ok)} .cov-none{color:var(--ink-faint)} .cov-warn{color:var(--warn)}
+#context-panel h4{margin:.2rem 0 .5rem;font-size:.95rem;color:var(--ink-dim);text-transform:uppercase;letter-spacing:.05em}
+#context-panel .sec{margin-bottom:.9rem}
+.loading{color:var(--ink-dim);padding:2rem;text-align:center}
+.err{color:var(--bad);padding:1rem}

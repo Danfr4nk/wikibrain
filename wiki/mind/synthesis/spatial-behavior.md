@@ -7,10 +7,10 @@ status: active
 date_created: 2026-07-20
 date_modified: 2026-09-21
 sources:
-  - raw/self/dox-md/GPS_ANALYSIS.md
-  - raw/self/location/2026-06-22-ingest/Records.json
-  - raw/self/location/2026-06-22-ingest/semantic_location.db
-  - raw/self/location/2026-06-22-ingest/Settings.json
+  - raw/self/dox-md/GPS_ANALYSIS.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/location/Records.json
+  - raw/location/semantic_location.db
+  - raw/location/Settings.json
   - raw/307-e-76th-st-lease-signing-photos-2019-02-25/
   - corpus/derived/threads.csv
   - kb/data/1207-spatial-behavior-ai-generated-gps-reading.md

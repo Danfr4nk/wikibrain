@@ -5,11 +5,11 @@ page_type: synthesis
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-09-24
 sources:
-  - src:corpus-authoritative-export
+  - src:corpus-authoritative-export — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:facebook-export-2026-06-23
-  - src:twitter-archive
+  - src:twitter-archive — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:old-wiki-export-2026-09-04
 synthesizes:
   - wiki/health/chemical-architecture
@@ -82,7 +82,7 @@ The figure arrives inside a Facebook exchange on **2013-07-10** between Dan and
 [[wiki/people/elizabeth-eleanor|Elizabeth Eleanor]], a fellow recovering addict.
 The wiki's people page describes the entire relationship as one overnight
 exchange, months after his return to Uniontown from NYC **[ATTESTED, dat:0061]**.
-What he writes, outbound, in that thread **[ATTESTED, dat:0055]**:
+What he writes, outbound, in that thread **[ATTESTED, dat:0055]** — extraction-attested via the June-2026 Facebook export (Drive-held; not re-verifiable against the repo's message corpus):
 
 - *"i've been on maintainence for 3.5 years"*
 - *"i was on the strips when i had a doctor in nyc"* (past tense)
@@ -175,7 +175,8 @@ Its epistemic history is fully documented on
 "the day before a train," the derivation broken by the Twitter record showing
 the train running the other way, the date surviving on a contemporaneous
 15:07 ET tweet (*"this is the most stressful day/decision of my life. nothing
-is making it easier."*) plus a 2013 *"3.5 years"* back-calculation.
+is making it easier."*) plus a 2013 *"3.5 years"* back-calculation
+(extraction-attested, dat:0055 — June-2026 Facebook export, Drive-held).
 
 **Dose content of this bearing: zero.** The date tells you when daily dosing
 began, not at what amount, not by whose direction, not on what formulation.
@@ -185,6 +186,27 @@ is its least informative bearing on the dose itself. State that plainly,
 because it is easy to let the certainty of the date launder certainty onto the
 dose. The date is CONFIRMED (within weeks, three channels). The start dose is
 [UNKNOWN] and the record does not even imply it.
+
+### 2010-08-14 — six months pill-free. Not a dose point.
+
+Six months into the run, Dan tells Suz: *"btw tomorrow is 6 months since
+either of us have done anything in pill form. by far the longest that I've
+been able to make it last"* **[ATTESTED, dat:1879]**.
+
+What this establishes: a back-calculation pinning last pill use to
+~2010-02-15 — within days of the 2010-02-17 day-zero this page carries. Two
+independent derivations (the tweet-bearing day-zero and this six-month
+anniversary) converge on the same mid-February window, which is the
+strongest corroboration the date has gained since the 2013 *"3.5 years"*
+back-calculation. Note the scope: "pill form" covers the pre-Suboxone pill
+use, not the Suboxone regimen itself — this is an abstinence-from-pills
+anniversary, not a dosing record. The same day's exchange also fixes a
+January floor: on 2010-01-31 Dan asked Suz to bring him 5 Vicodin for his
+back **[dat:1879]** — pill use was live two weeks before day-zero and gone
+within weeks after, consistent with a February induction.
+
+**Dose content of this bearing: zero.** Like day-zero, it dates the
+regimen's start, not its dose.
 
 ### 2011-08-04 — the appointment with screening. Not a dose point.
 
@@ -230,11 +252,11 @@ it. To restate its load-bearing properties for the record:
 - *"down to 2mg/day"* implies a prior higher dose [INFERRED, grammatical].
 - *"i've been on maintainence for 3.5 years"* back-dates the start to ~January
   2010 — consistent with 2010-02-17 within casual-text rounding, equally
-  consistent with December 2009 or March 2010 **[ATTESTED, dat:0055]**. It
-  brackets, not pinpoints.
+  consistent with December 2009 or March 2010 **[ATTESTED — extraction,
+  dat:0055]**. It brackets, not pinpoints.
 - *"i was on the strips when i had a doctor in nyc"* — the prescriber in the
   NYC window (he returned to Uniontown months before this exchange), in the
-  past tense **[ATTESTED]**.
+  past tense **[ATTESTED — extraction, dat:0055]**.
 - *"yes still doing subs"* — present-tense continuity, July 2013
   **[ATTESTED]**.
 - *"if you're ever unloading or come in contact call me"* — the informal
@@ -259,7 +281,9 @@ amount, no formulation, no frequency.
 ### 2020-10-01 / 2020-10-20 / 2021-03-31 — the sourcing offers. Not dose points.
 
 Fourteen occurrences of `suboxone` in the Facebook archive between 2011 and
-2021, all in threads with a single counterparty **[ATTESTED, dat:0055]**:
+2021, all in threads with a single counterparty **[ATTESTED — extraction,
+dat:0055]** (June-2026 Facebook export, Drive-held; not re-verifiable against
+the repo's message corpus):
 
 - 2020-10-01: *"I have a buddy with Suboxone pills"*
 - 2020-10-20: *"Found you six suboxone pills"*
@@ -471,8 +495,8 @@ the mismatch rather than sanding it:
 - The dated record holds a named, specific episode *after* that window: the
   Thanksgiving 2009 [[wiki/people/alexis-armel|Alexis]] episode — thirty
   Roxicet pills, a Winter Park–to–Ocala supply run, a Christmas trip home —
-  resolving seven weeks before day-zero **[ATTESTED,
-  wiki/health/chemical-architecture]**.
+  spanning about twelve weeks from Thanksgiving 2009 to the already-dated
+  day-zero **[ATTESTED, wiki/health/chemical-architecture]**.
 
 Three readings, none established:
 
@@ -724,9 +748,9 @@ is not dose).
   counterparty; 190 corpus__3.txt lines containing the term (line-based
   count).
 - **Reported (self-report, uncorroborated):** the 2mg figure itself; "3.5
-  years" maintenance duration; "almost 5 years since i touched an opiate";
+  years" maintenance duration (extraction-attested, dat:0055); "almost 5 years since i touched an opiate";
   "too terrified to get off"; "down to" implying a prior higher dose;
-  "3 months at a time" multi-month prescription (referent not established).
+  "3 months at a time" multi-month prescription (referent not established; extraction-attested, dat:0055).
 - **Calculated:** ~6,050 days in the 2010-02-17–2026-09-13 interval (date
   arithmetic, approximate); the 190-line term count; census counts
   (`doctor` 36/29 outbound across two dump populations).

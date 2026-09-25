@@ -5,7 +5,7 @@ status: stable
 date_created: 2026-08-01
 date_modified: 2026-08-01
 sources:
-  - "raw/self/concerts/table.csv"
+  - "raw/self/concerts/table.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 related: []
 tags: [music-production, digital-footprint]
 connections:

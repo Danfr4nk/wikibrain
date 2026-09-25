@@ -8,10 +8,10 @@ date_modified: 2026-07-19
 date_range_start: 2012-02-01
 date_range_end: 2025-10-06
 sources:
-  - "raw/self/message-csv/interspersed_messages.csv"
-  - "raw/self/dox-scan/all_imessages_complete_dump.txt"
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/mattdunn_abk0dttjqa/message_1.html"
-  - "raw/self/captures/2026-07-19_operator-note-full-sail-mohler.md"
+  - "raw/self/message-csv/interspersed_messages.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/mattdunn_abk0dttjqa/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/captures/2026-07-19_operator-note-full-sail-mohler.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [career, digital-footprint, relationships]
 infobox:
   name: "Matt Dunn"

@@ -8,7 +8,7 @@ date_modified: 2026-07-20
 date_range_start: 2011-01-20
 date_range_end: 2022-01-02
 sources:
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/joeoshnack_7killpebkw/message_1.html"
+  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/joeoshnack_7killpebkw/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [uniontown-era, nyc-era, music-production, ideology, personality-profile]
 infobox:
   name: "Joe Oshnack"

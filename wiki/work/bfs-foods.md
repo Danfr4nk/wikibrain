@@ -7,14 +7,14 @@ knowledge: mixed
 date_created: 2026-07-13
 date_modified: 2026-08-26
 sources:
-  - raw/legal/bfs-dispute/BFS_BOOTLOADER_v2.md
-  - raw/legal/bfs-dispute/BFS Anita Quagmire strategy and legal exposure.md
-  - "raw/self/dox-md/Drawer shortage dispute with assistant manager.md"
-  - "raw/self/dox-md/Cash register shortage explanation.md"
-  - "raw/self/dox-md/Little Caesars retaliation timing concerns.md"
-  - "raw/self/dox-md/Little Caesars retaliation timing concerns (1).md"
-  - "raw/self/dox-md/Reverse chronological context upload.md"
-  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md
+  - raw/legal/bfs-dispute/BFS_BOOTLOADER_v2.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/legal/bfs-dispute/BFS Anita Quagmire strategy and legal exposure.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - "raw/self/dox-md/Drawer shortage dispute with assistant manager.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/Cash register shortage explanation.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/Little Caesars retaliation timing concerns.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/Little Caesars retaliation timing concerns (1).md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/Reverse chronological context upload.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/people/brandon-hill
   - wiki/people/anita

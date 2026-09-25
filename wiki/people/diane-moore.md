@@ -8,12 +8,12 @@ knowledge: mixed
 date_created: 2026-08-02
 date_modified: 2026-09-13
 sources:
-  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md
-  - raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md
-  - raw/people/captures/2026-08-17_230820_gap-diane-shrum.md
-  - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/self/dox-md/_Photo Thread PT II_ Grand Finale Calibration .md
+  - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-17_230820_gap-diane-shrum.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/_Photo Thread PT II_ Grand Finale Calibration .md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [family, grief, uniontown-era, financial-stress]
 infobox:
   name: "Rebecca Diane Van Voorhis Moore"

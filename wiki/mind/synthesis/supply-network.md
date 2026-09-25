@@ -7,12 +7,12 @@ knowledge: earned
 date_created: 2026-07-18
 date_modified: 2026-09-19
 sources:
-  - raw/people/captures/2026-08-02_010509_jay-lauer-death.md
-  - "raw/self/dox-md/MAX_PRIME.md"
-  - "raw/self/dox-md/operating_manual.md"
-  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"
-  - "raw/self/message-csv/messages_3476070497_all_time.csv"
-  - "raw/self/context-core/CONTEXT_CORE_EXPANDED.md"
+  - raw/people/captures/2026-08-02_010509_jay-lauer-death.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - "raw/self/dox-md/MAX_PRIME.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/message-csv/messages_3476070497_all_time.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 synthesizes:
   - wiki/timeline/events/july-august-2026-reentanglement
   - wiki/people/annie-ulmer

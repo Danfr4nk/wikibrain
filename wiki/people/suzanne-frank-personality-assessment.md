@@ -17,8 +17,8 @@ infobox:
   role: "mother; realtor"
   known_for: "rank-2 correspondent in the corpus; this page is the typology read derived from her entity page"
 sources:
-  - "raw/self/dox-scan/all_imessages_complete_dump.txt"
-  - "raw/self/message-csv/imessage_7243228715_both_all_now.csv"
+  - "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - "raw/self/message-csv/imessage_7243228715_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 synthesizes:
   - wiki/people/suzanne-frank
 connections:

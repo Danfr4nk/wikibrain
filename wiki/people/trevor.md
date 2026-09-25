@@ -9,8 +9,8 @@ date_modified: 2026-07-19
 date_range_start: 2017-10-19
 date_range_end: 2021-02-04
 sources:
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/trevorbevins_1zi360sana/message_1.html
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/trevorbevins_1zi360sana/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/people/brad-hubeaut
   - wiki/timeline/periods/full-sail-2008-2010

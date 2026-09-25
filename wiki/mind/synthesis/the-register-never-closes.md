@@ -7,10 +7,10 @@ knowledge: earned
 date_created: 2026-09-10
 date_modified: 2026-09-21
 sources:
-  - raw/self/twitter/archive.jsonl
-  - raw/self/dox-md/ADDICTION_PROFILE.md
-  - raw/health/intake/intake_unit_01M1AJ47K2HKZ8TZZ75CPNGFJ7.md
-  - intake/events.jsonl
+  - raw/twitter/archive.jsonl
+  - raw/self/dox-md/ADDICTION_PROFILE.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/health/intake/intake_unit_01M1AJ47K2HKZ8TZZ75CPNGFJ7.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - testimony/events.jsonl
 synthesizes:
   - wiki/health/chemical-architecture
   - wiki/health/cocaine

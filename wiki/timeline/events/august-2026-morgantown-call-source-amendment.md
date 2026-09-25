@@ -9,10 +9,10 @@ importance: critical
 date_created: 2026-08-20
 date_modified: 2026-08-20
 sources:
-  - raw/self/audio/2026-08-16_Morgantown_St_call-recording.m4a
-  - raw/self/audio/2026-08-16_Morgantown_St_call-transcript.txt
-  - raw/self/audio/2026-08-20_Morgantown_St-source-verification.md
-  - raw/self/audio/README_2026-08-16_morgantown-call.md
+  - raw/self/audio/2026-08-16_Morgantown_St_call-recording.m4a — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/audio/2026-08-16_Morgantown_St_call-transcript.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/audio/2026-08-20_Morgantown_St-source-verification.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/audio/README_2026-08-16_morgantown-call.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 connections:
   - page: wiki/timeline/events/august-2026-morgantown-call
     type: contextualizes

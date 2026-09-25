@@ -9,8 +9,8 @@ date_modified: 2026-08-18
 date_range_start: 2025-07-11
 date_range_end: 2025-07-21
 sources:
-  - raw/self/chats/The 2nd most famous _Jimmy Pop_ in Pennsylvania .md
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
+  - raw/self/chats/The 2nd most famous _Jimmy Pop_ in Pennsylvania .md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [ai-collaboration, forensic-analysis, personality-profile, uniontown-era]
 infobox:
   type: "relationship rupture"

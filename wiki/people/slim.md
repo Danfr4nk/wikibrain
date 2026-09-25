@@ -6,7 +6,7 @@ date_created: 2026-06-23
 date_modified: 2026-07-25
 date_range_start: 2019-06-01
 date_range_end: 2019-08-04
-sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv"]
+sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 tags: [digital-footprint, nyc-era]
 knowledge: derived
 infobox:

@@ -8,10 +8,10 @@ date_modified: 2026-08-20
 date_range_start: 2017-04-11
 date_range_end: 2025-11-01
 sources:
-  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv
-  - raw/self/dox-scan/all_imessages_complete_dump.txt
-  - raw/people/captures/2026-08-02_010509_jay-lauer-death.md
-  - raw/people/captures/2026-08-17_053844_gap-ellen-ulmer.md
+  - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-02_010509_jay-lauer-death.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-17_053844_gap-ellen-ulmer.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related: ["wiki/people/annie-ulmer", "wiki/people/bill-ulmer", "wiki/places/117-belmont-circle", "wiki/timeline/events/fran-death-vigil", "wiki/self/message-corpora/master-message-dump"]
 tags: [relationships, family, grief]
 knowledge: mixed

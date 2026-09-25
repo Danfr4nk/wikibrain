@@ -14,7 +14,7 @@ sources:
   - wiki/people/annie-ulmer.md (2026-08-13 correction; four-movement chronology)
   - wiki/mind/synthesis/dan-annie-fallout-verdict.md (defamation + independent-validation findings)
   - wiki/people/tuquick-17248123683.md (June 15 defection verbatims)
-  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md
+  - raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related: ["wiki/people/annie-ulmer", "wiki/timeline/events/group-chat-closure", "wiki/timeline/periods/2025-collapse", "wiki/mind/concepts/attachment-model", "wiki/mind/concepts/conflict-architecture"]
 tags: [addiction-recovery, trauma-bond]
 connections:
