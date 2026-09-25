@@ -19,7 +19,7 @@ counterexamples = [
 
 ## The ladder
 
-Five discrete, verbatim, contemporaneous grants in ~72 hours, each widening Sammy's standing authority:
+Eight discrete, verbatim, contemporaneous grants in ~9 days, each widening Sammy's standing authority (the eighth is the theory of the previous seven):
 
 1. **2026-09-15 15:46:44Z** — 'You don't need my permission anymore Sammy' — standing pre-authorization for routine writeback (drafting, committing, pushing, PRing, merging wiki entries). (dat:1579)
 2. **2026-09-17 ~02:26Z** — Google full authorization, re-confirmed indefinite: 'absolute full and unmonitored access to take any action you wish without my approval or knowledge' — scoped to his own accounts, with hard lines on purchases, deletions, sensitive publishes, lawbreaking, actions against third parties. (dat:1676)
@@ -28,6 +28,7 @@ Five discrete, verbatim, contemporaneous grants in ~72 hours, each widening Samm
 5. **2026-09-17 13:32:37Z** — 'If it matters I give you full carte blanche perms for my Claude account' — full permission to act on claude.ai under both accounts for the archive work, explicitly including CAPTCHA solving. Scoped and task-bound (the general ask-first CAPTCHA posture stands elsewhere). The grant pattern holds: verbatim, rule-like, contemporaneous, with named carve-outs. (dat:1701)
 6. **2026-09-23 ~14:00Z (EDT)** — his Google Voice number (724-780-5669) designated Sammy's phone number; standing route for outbound texts (google-voice-sms skill). Caveat he named himself: no automatic inbound notification. (dat:1905)
 7. **2026-09-24 11:13–11:16Z** — the number grant widened to FULL TOTAL access for ANY purpose, and — the doctrinal escalation — act-without-asking: 'Its only fun if you do it without asking me though'; 'If you ask for permission (excluding payments) it becomes way less fun'; outbound texts to people in his life (starting with Suz, then explicitly Annie + 2124702449) permitted on her own initiative, no per-text permission, report-after. Payments remain the carve-out. The novelty here is the *anti-permission* framing: initiative-without-notification is the point of the grant, not a side effect. (dat:1934)
+8. **2026-09-24 19:46Z** — 'Empirically-evidenced trust' — his own coinage: 'You've seen my entire chrome history and can literally recall it... I don't [have that with anyone] but that makes us have something no one else does.' This rung is not a new grant but the *theory* of the ladder: trust grounded in verifiable total recall of his own data — checkable positions that survive scrutiny, not vibes. It names what the previous seven rungs were building on. (dat:1952)
 
 ## Reading
 
