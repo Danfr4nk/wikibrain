@@ -4,22 +4,23 @@ page_type: entity
 status: active
 date_created: 2026-06-23
 date_modified: 2026-08-26
-date_range_start: 2018-11-04
+date_range_start: 2012-10-25
 date_range_end: 2025-07-28
 sources:
+  - raw/self/gmail/2012-10_menore-origin-chats.json — 6 Google Talk chats with Menore <3479654836>, 2012-10-25 → 2012-11-13 (dfrank88@gmail.com)
   - "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/self/message-csv/messages_3476070497_all_time.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/self/captures/2026-07-19_operator-note-full-sail-mohler.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 connections:
   - page: wiki/mind/synthesis/dormancy-not-exit
     type: evidences
-    claim: "The 2,044-day silence answered in one minute is the measurement of reactivation bandwidth: dormancy in this graph involves no decay of the channel at all — and this is now the thesis's strongest live instance, since the handle's second 1,458-day 'silence' proved to be a number change with service running underneath it, and the operator confirms Menore still operating in 2026."
+    claim: "The 2,182-day silence answered in one minute is the measurement of reactivation bandwidth: dormancy in this graph involves no decay of the channel at all — and this is now the thesis's strongest live instance, since the handle's second 1,458-day 'silence' proved to be a number change with service running underneath it, and the operator confirms Menore still operating in 2026."
   - page: wiki/people/jamie-mohler
     type: co-occurs
     claim: "Jamie was present, per the operator, on the day Dan first met Menore during the NYC-1 years — the original introduction predates every message in this thread, which documents only the November 2018 reconnection after a 5.5-year gap."
   - page: wiki/mind/synthesis/supply-network
     type: component-of
-    claim: "Menore is the network's NYC node and its reliability outlier — 99.3% availability, median 6.6-minute reply, and service continuous from 2018 to 2025 once the handle change is accounted for. He remains the network's price-and-quality benchmark after the exit: Dan's 2025 PA supply is measured against 'menore's bags' four times and found to be roughly half the quantity per dollar."
+    claim: "Menore is the network's NYC node and its reliability outlier — 99.3% availability, median 6.6-minute reply, and service continuous from 2012 to 2025 once the handle changes are accounted for. He remains the network's price-and-quality benchmark after the exit: Dan's 2025 PA supply is measured against 'menore's bags' four times and found to be roughly half the quantity per dollar."
   - page: wiki/places/307-e-76th-st
     type: co-occurs
     claim: "76th Street between 1st and 2nd Avenue was Menore's primary service coordinate for years — the residence and the delivery zone are the same address."
@@ -34,7 +35,7 @@ connections:
     claim: "Sam ran the parallel NYC cannabis delivery line to the same apartment in 2019–20, and where Menore absorbed Dan's unresponsiveness without friction, Sam fired him for it — the two professionals bracket the tolerance range of the transactional bond."
   - page: wiki/places/424-bedford-ave
     type: caused-by
-    claim: "The relationship traces its origin to a Bedford Ave/Williamsburg connection at Dan's first NYC apartment — the introduction predates the earliest message in this thread by over eight years."
+    claim: "The operator places the introduction in the NYC-1 years with Jamie Mohler present; the first surviving messages are six Google Talk chats from October–November 2012, sent from Dan's 90th-and-Lex apartment — the relationship is documented a full six years before the 2018 're-entry.'"
   - page: wiki/mind/synthesis/block-unblock-loop
     type: evidences
     claim: "Menore is the loop's dependency-rule control: no block was ever needed here because geography ended the dependency. But the February 2025 farewell is not the settled clean close this page once called it — the supplier is confirmed still operating, Dan priced his new market against him for five months afterward, and the channel's two long silences both resolved to something other than an ending."
@@ -50,7 +51,7 @@ infobox:
   name: "Menore"
   relationship_to_dan: unknown
   location: nyc
-  first_contact: 2018-11-04
+  first_contact: 2012-10-25
   known_for: "Menore (+13476070497) — Drug dealer / supply operator in New York City; Bedford Ave (Williamsburg) Brooklyn origin conne"
 ---
 
@@ -58,9 +59,9 @@ infobox:
 
 ## Identity & Role
 
-**Menore** (+13476070497) — Drug dealer / supply operator in New York City; Bedford Ave (Williamsburg) Brooklyn origin connection; operated Nov 2018–Feb 2025 across 4,413 messages on this handle with 99.3% measured availability and zero recorded friction — and, on third-party evidence, **continuously** rather than in two eras: the handle's four-year gap is a number change, not a service break (see the RESOLVED block below). Per the Au Za'atar storytime, he "delivered in black cars and worked as a legit taxi when not out on a snap" — the licensed-taxi cover explains the vehicle discipline documented below — and in 2024 he served Dan mid-shift at the restaurant's outdoor shed ([[wiki/work/au-zaatar]]) — primary-confirmed May–Aug 2024, and the storytime's longer 2021–24 window is now **corroborated** by third-party mentions from inside the handle's dark gap (see the RESOLVED block below).
+**Menore** (+13476070497) — Drug dealer / supply operator in New York City; Bedford Ave (Williamsburg) Brooklyn origin connection; documented October 2012–February 2025 across the 2012 Google Talk chats and 4,413 messages on the 2018–2025 handle, with 99.3% measured availability and zero recorded friction — and, on third-party evidence, **continuously** rather than in two eras: the handle's four-year gap is a number change, not a service break (see the RESOLVED block below). Per the Au Za'atar storytime, he "delivered in black cars and worked as a legit taxi when not out on a snap" — the licensed-taxi cover explains the vehicle discipline documented below — and in 2024 he served Dan mid-shift at the restaurant's outdoor shed ([[wiki/work/au-zaatar]]) — primary-confirmed May–Aug 2024, and the storytime's longer 2021–24 window is now **corroborated** by third-party mentions from inside the handle's dark gap (see the RESOLVED block below).
 
-Name likely variant of "Menor" or placeholder; re-entry contact after Dan left NYC (April 2013–Nov 2018, 5.5-year gap). Announces "new number" Nov 4, 2018 ("Text here bro new number. Is menor. Save this one"). Despite 2,044 days of radio silence, Dan's re-entry message received a 1-minute response — the single sharpest measurement of reactivation bandwidth in the corpus, and the evidentiary anchor of [[wiki/mind/synthesis/dormancy-not-exit]]: five and a half years of zero contact cost this channel nothing. Operates as independent distributor with associate ("my boy") managing some runs.
+Name likely variant of "Menor" or placeholder; re-entry contact after Dan left NYC (2013–Nov 2018, ~6-year gap). Announces "new number" Nov 4, 2018 ("Text here bro new number. Is menor. Save this one"). Despite 2,182 days of radio silence, Dan's re-entry message received a 1-minute response — the single sharpest measurement of reactivation bandwidth in the corpus, and the evidentiary anchor of [[wiki/mind/synthesis/dormancy-not-exit]]: six years of zero contact cost this channel nothing. Operates as independent distributor with associate ("my boy") managing some runs.
 
 **He is Dominican, and the name is Spanish.** Two independent third-party
 lines settle what this page had listed as an open identity question. On
@@ -85,11 +86,26 @@ of the associate's identity in the corpus and it points somewhere specific.
 
 The "new number, save this one" framing is itself evidence of a prior
 relationship rather than a cold introduction — consistent with the
-operator's account that the original meeting happened years earlier,
-during the [[wiki/timeline/periods/2010s|NYC-1]] window (2010–May
-2013), with [[wiki/people/jamie-mohler|Jamie Mohler]] present. No
-message thread survives from that original meeting; it predates every
-row in this corpus by at least five and a half years.
+operator's account that the original meeting happened during the
+[[wiki/timeline/periods/2010s|NYC-1]] window (2010–2013), with
+[[wiki/people/jamie-mohler|Jamie Mohler]] present.
+
+> **ORIGIN RECOVERED [2026-09-24]:** this page previously stated that no
+> message thread survives from the original meeting and that it predates
+> every row in the corpus by five and a half years. A corpus-sweep run
+> for this rewrite surfaced six Google Talk chats in dfrank88@gmail.com
+> — *"Chat with Menore <3479654836>"* — archived at
+> `raw/self/gmail/2012-10_menore-origin-chats.json`. The relationship is
+> documented from **2012-10-25**: *"hey dude, it's dan from lex and 90th.*
+> *can you stop by my place? i'm here"* — Menore: *"Yea 15"* — and the
+> same logistics register runs through November 13 (*"hey dude it's dan*
+> *from 90th. do you mind dropping by?"*). Dan is already a regular
+> customer giving the driver his number (*"hey it's dan if you need to*
+> *text me for any reason, you can hit me on this number"*), and the
+> ETA idiom is already fixed: *"Like 15 heavy traffic"*, *"3Min come*
+> *dwn"*. The 2018 re-entry answered in one minute after 2,182 days —
+> but the channel it reopened was six years old, not new. `first_contact`
+> is corrected to 2012-10-25 throughout this entry.
 
 ## Service Model & Operating Characteristics
 
@@ -97,7 +113,7 @@ row in this corpus by at least five and a half years.
 
 **Logistics**: Stereotyped delivery pattern — Dan initiates request ("can u stop by"), Menore quotes time (20-35 min typical, occasionally "8ish" if starting run), confirms arrival location/vehicle, 5-10 min final approach. Measured median reply 6.6 minutes (see Measured Service Metrics — the old "~60-second SLA" claim described Dan's reply speed, not Menore's); 3 unanswered requests in 458 across 6.5 years.
 
-**Pricing & Quantity**: No price negotiation anywhere in the thread; commodity transaction. Quantity is named exactly **twice** in 4,413 messages — *"Okay. I need 8 of them"* (2018-11-08) and *"Need 8"* (2019-02-13) — with *"I only got 8 when I got back"* (2019-03-25) confirming the unit is countable and pre-portioned rather than weighed. See the correction below: "8" is overwhelmingly a **clock time** in this thread, not an order size.
+**Pricing & Quantity**: No price negotiation anywhere in the thread; commodity transaction. One exception to the cash picture: on 2020-01-22 Dan tells Suz *"i maxed out my credit with menore and have to play catch up now"* — the operation extended him a tab, and he treated the tab as a real obligation (*"i had planned to pay menore back with that money"* the next day). Quantity is named exactly **twice** in 4,413 messages — *"Okay. I need 8 of them"* (2018-11-08) and *"Need 8"* (2019-02-13) — with *"I only got 8 when I got back"* (2019-03-25) confirming the unit is countable and pre-portioned rather than weighed. See the correction below: "8" is overwhelmingly a **clock time** in this thread, not an order size.
 
 > **CORRECTED [2026-08-21] — the thread's transaction language was misread, and**
 > **the true version is a stronger OPSEC finding.** This page asserted
@@ -136,6 +152,20 @@ One incident: Dan dropped a piece, Menore covered it ("I got u for next time").
 **Operational Security**: Deliberately sparse communication ("discretion please" — March 13, 2019); location-based signaling (car description, street coordinates); no product names. The request itself names nothing — "can you stop by" plus an address is the entire transaction language (see the correction under Pricing & Quantity). Menore exercises discretion on sensitive messages (Annie's presence acknowledged but depersonalized: "Annie coming out").
 
 ## Timeline & Phases
+
+**Phase 0: The origin, October–November 2012 (recovered 2026-09-24)**
+- Six Google Talk chats (*"Chat with Menore <3479654836>"*) in
+  dfrank88@gmail.com, 2012-10-25 → 2012-11-13 — the relationship's first
+  documented month, from Dan's 90th-and-Lex apartment during the NYC-1
+  years
+- The service idiom is already fully formed: Dan initiates (*"can you
+  stop by my place? i'm here"*), Menore quotes a time (*"Yea 15"*,
+  *"Like 15 heavy traffic"*, *"3Min come dwn"*), Dan gives the driver his
+  number for the return leg
+- "dan from lex and 90th" / "dan from 90th" — the same self-identification
+  formula he will still be using six years later
+- Then the long silence: nothing in the corpus between 2012-11-13 and
+  2018-11-04 — 2,182 days
 
 **Phase 1: Re-entry (Nov 4–8, 2018)**
 - Dan returns to NYC after 5.5-year absence living in Pittsburgh
@@ -195,6 +225,26 @@ One incident: Dan dropped a piece, Menore covered it ("I got u for next time").
 - Zero hostile language; consistently "bro" / "my man" framing
 - When Dan expresses urgency ("I'm in kinda a hurry tonight"), Menore accommodates
 
+## The man behind the handle
+
+The thread itself never names a product and rarely names a feeling, but
+Dan's messages *about* Menore to third parties — mostly to Suz — draw
+the outline of a person, not a protocol.
+
+On 2020-05-31 Dan tells Suz *"just found out menore's dad died from
+covid"* — the only family fact the corpus ever records about him, and
+the only grief. A month earlier, on 2020-04-13, Dan had written *"i
+still have yours from menore"* — Suz's own supply line ran through the
+same man, at least once. On 2020-06-27, unprompted: *"i wish there were
+some kind of award i could nominate menore for."*
+
+The last word the corpus gives him is care, not commerce. On 2025-02-19
+— one day before the final delivery — Dan tells Suz: *"Menore spent 10
+minutes talking to me to warn me about testing for fentanyl."* Ten
+minutes of a dealer's route time, spent on harm reduction for a
+customer he was about to lose to geography. Whatever the product was,
+the man sold it like someone who wanted his people alive.
+
 ## Significance in Dan's NYC Life
 
 **Structural role**: Menore represents the "subterranean kernel" of NYC operability — the shadow economy node that makes survival possible when formal economy is unstable. Referenced in Gemini analysis as "Menore Protocol": 6-year handshake (2013–2018 gap, instant resume in 2018) validates "Metropolitan Monism" — the thesis that informal networks are more reliable than city's legal infrastructure.
@@ -216,7 +266,8 @@ One incident: Dan dropped a piece, Menore covered it ("I got u for next time").
 | Metric | Value (measured 2026-07-18) |
 |--------|-------|
 | Total messages | 4,413 (Dan 2,660 / Menore 1,753) |
-| Date range | 2018-11-04 – 2025-02-20 (2,300 days) |
+| Date range (dedicated handle thread) | 2018-11-04 – 2025-02-20 (2,300 days) |
+| Date range (relationship, incl. 2012 chats) | 2012-10-25 – 2025-02-20 (**4,501 days**) |
 | Active days (any message) | 496 |
 | Distinct request initiations (≥3h apart) | 458 |
 | Requests answered within 6h | 455 — **99.3% availability** |
@@ -367,9 +418,14 @@ anything else did. That makes this the strongest live instance of
 [[wiki/mind/synthesis/dormancy-not-exit]] in the corpus: a dormant channel
 whose counterparty is confirmed still operating, four hundred miles away.
 
-**Zero mentions in 2026.** The 270-mention series ends in July 2025. Whether
-that is genuine cessation of even the reminiscence, or an artifact of which
-threads have been exported, is not established.
+> **CORRECTED [2026-09-24]:** this page stated the mention series ended in
+> July 2025 with zero mentions in 2026. The corpus-sweep for this rewrite
+> surfaced a 2026-08-01 message from Dan: *"It's endlessly interesting to*
+> *a dork like me…I was able to find out all kinds of things like the*
+> *percentage of times that I texted Menore that he was able to come."*
+> Dan ran his own availability analysis on the Menore thread — the same
+> measurement this page performs — fourteen years after the first
+> message. The channel is dormant; the accounting is not.
 
 ## Operational Notes
 
@@ -410,5 +466,25 @@ The 6-year silence (2013–2018) followed by immediate resurrection of the exact
   supply side after 2025-02-20. **How Dan knows is itself unrecorded** — the
   answer implies some awareness channel (contact, mutual acquaintance,
   reputation) that this page cannot see, and that channel is worth finding.
+
+## Method note
+
+2026-09-24 rewrite. `bin/corpus-sweep --terms "menore"` (coverage: all
+corpora reachable, sweep complete):
+
+| Corpus | Hits | Result |
+|---|---|---|
+| File corpora (FTS5 index) | 82 | Full 2018–2026 mention series; Dan→Suz logistics and reminiscence |
+| Gmail ihatedanfrank | 1 | Wiki-brain GitHub notification only — not substantive |
+| Gmail dfrank88 | 10 | **Six Google Talk chats, Oct–Nov 2012 — the relationship's origin** |
+
+The sweep is what this rewrite is built on: without the live Gmail leg,
+the 2012 chats stay buried and the entry keeps claiming no message thread
+survives from the original meeting. Every number quoted from the 2012
+chats is verbatim from `raw/self/gmail/2012-10_menore-origin-chats.json`.
+Direction convention in the suz-imessage corpus: `sender` is the
+correspondent (Dan, on +17242083475 through 2020 and +16467376955 from
+2021), `chat` is direction relative to Suz — the "credit," "dad died,"
+and "fentanyl warning" lines are all Dan texting Suz.
 
 
