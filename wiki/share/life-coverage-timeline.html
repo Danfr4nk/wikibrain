@@ -1,0 +1,540 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Life Coverage Timeline</title>
+<meta name="description" content="How much source material exists for each year of Daniel Gillingham Frank's life, 1988–2026, across ten channels.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Deliberately single-theme: a dark light-table where documented years glow and
+   undocumented years stay dark. Every color is set explicitly, so the page reads
+   the same on a light or dark host. */
+:root{
+  color-scheme: dark;
+  --ground:#100e0c; --surface:#161310; --surface-2:#1e1a16; --surface-3:#26211b;
+  --line:#2b2621; --line-2:#3b352d;
+  --ink:#f2ece2; --ink-2:#bfb6a8; --ink-3:#8f8679;
+  --hatch:#4b443a; --amber:#f0b54c; --amber-soft:#f0b54c33;
+  --flag-ink:#e9ad6c; --flag-line:#7a5530;
+  --ok:#8fc98f; --dup:#9fb6d6; --bad:#e58a7a;
+  --sans:"Archivo", "Helvetica Neue", Arial, system-ui, sans-serif;
+  --mono:"JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+  --lab:172px; --colmin:22px;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.5;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1280px;margin:0 auto;padding-inline:20px;padding-block:28px 64px;display:flex;flex-direction:column;gap:28px}
+a{color:var(--amber)}
+:focus-visible{outline:2px solid var(--amber);outline-offset:2px}
+h1,h2,h3{margin:0;text-wrap:balance;font-weight:700}
+h1{font-size:clamp(28px,4.2vw,44px);line-height:1.05;font-variation-settings:"wdth" 112;letter-spacing:-.01em}
+h2{font-size:20px;font-variation-settings:"wdth" 108}
+.eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3)}
+.lede{color:var(--ink-2);max-width:68ch;margin:0}
+.mono{font-family:var(--mono)}
+.num{font-family:var(--mono);font-variant-numeric:tabular-nums}
+
+header{display:flex;flex-direction:column;gap:10px}
+.facts{display:flex;flex-wrap:wrap;gap:10px 28px;margin-top:6px}
+.fact{display:flex;flex-direction:column;gap:2px;min-width:0}
+.fact b{font-size:22px;font-weight:700;font-variation-settings:"wdth" 100}
+.fact span{font-size:12px;color:var(--ink-3)}
+
+/* controls */
+.controls{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:center}
+.seg{display:inline-flex;border:1px solid var(--line-2);border-radius:6px;overflow:hidden}
+.seg button{font:inherit;font-size:13px;color:var(--ink-2);background:transparent;border:0;padding:6px 12px;cursor:pointer}
+.seg button+button{border-left:1px solid var(--line-2)}
+.seg button[aria-pressed="true"]{background:var(--surface-3);color:var(--ink)}
+.ctl-label{font-size:12px;color:var(--ink-3);margin-right:8px}
+.hint{font-size:12px;color:var(--ink-3)}
+
+/* arrangement */
+.card{background:var(--surface);border:1px solid var(--line);border-radius:8px}
+.scroller{overflow-x:auto;overscroll-behavior-x:contain;border-radius:8px}
+.arr{display:grid;grid-template-columns:var(--lab) repeat(39,minmax(var(--colmin),1fr));min-width:calc(var(--lab) + 39 * var(--colmin));position:relative;padding-block:10px 12px}
+.lab{position:sticky;left:0;z-index:4;background:var(--surface);padding:0 12px 0 14px;display:flex;align-items:center;gap:8px;font-size:13px;color:var(--ink-2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;border-right:1px solid var(--line)}
+.lab small{font-family:var(--mono);font-size:10px;color:var(--ink-3)}
+.lab.track{font-family:var(--mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3)}
+.lab.group{font-family:var(--mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3);padding-top:10px}
+.decade{grid-column:span 1;font-family:var(--mono);font-size:10px;color:var(--ink-3);padding-left:2px;border-left:1px solid var(--line-2);height:16px;line-height:16px;white-space:nowrap;overflow:visible}
+.decade.blank{border-left-color:transparent}
+.yr{font:inherit;font-family:var(--mono);font-size:10.5px;color:var(--ink-3);background:transparent;border:0;border-left:1px solid var(--line);height:24px;padding:0;cursor:pointer;font-variant-numeric:tabular-nums}
+.yr:hover{color:var(--ink)}
+.yr.on{color:#1a140c;background:var(--amber);font-weight:600}
+.band-row{grid-column:2 / -1;position:relative;height:22px;margin-block:2px}
+.band{position:absolute;top:1px;bottom:1px;border:1px solid var(--line-2);background:var(--surface-2);border-radius:3px;font-size:11px;color:var(--ink-2);padding:0 6px;display:flex;align-items:center;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;cursor:default}
+.band.unc{border-style:dashed;border-color:var(--flag-line)}
+.band.line{background:transparent;border:0;border-radius:0;padding:0 0 0 8px;color:var(--ink-3)}
+.band.line::before{content:"";position:absolute;left:0;right:0;top:50%;height:2px;background:var(--ink-3);opacity:.6}
+.band.line span{position:relative;background:var(--surface);padding:0 6px;margin-left:6px}
+.marker{position:absolute;top:-4px;width:8px;height:8px;margin-left:-4px;transform:rotate(45deg);background:var(--amber);border:1px solid var(--surface);z-index:2}
+.gaps-row .span{position:absolute;top:2px;bottom:2px;background:repeating-linear-gradient(135deg,var(--hatch) 0 1px,transparent 1px 5px);border-radius:3px;font-size:10.5px;color:var(--ink-2);display:flex;align-items:center;padding:0 6px;white-space:nowrap;overflow:hidden}
+.gaps-row .span span{background:var(--surface);padding:0 4px;border-radius:2px}
+.cell{height:24px;margin:1px;border-radius:2px;background:var(--surface-2);position:relative}
+.lane-row-score .cell{height:28px}
+.cell.gap{background:repeating-linear-gradient(135deg,var(--hatch) 0 1px,transparent 1px 5px)}
+.cell.gap.some::after{content:"";position:absolute;left:50%;top:50%;width:4px;height:4px;margin:-2px 0 0 -2px;border-radius:50%;background:var(--ink-2)}
+.sep{grid-column:1 / -1;height:1px;background:var(--line);margin-block:8px}
+/* absolutely positioned grid children take no cells, so auto-placement is untouched */
+.colhi,.playhead{position:absolute;inset:0}
+.colhi{pointer-events:none;background:#ffffff0d;border-radius:3px;z-index:1}
+.playhead{pointer-events:none;border:1.5px solid var(--amber);border-radius:3px;z-index:2;box-shadow:0 0 0 1px #0006}
+
+.legend{display:flex;flex-wrap:wrap;gap:10px 22px;align-items:center;padding:12px 14px;border-top:1px solid var(--line);font-size:12px;color:var(--ink-2)}
+.legend .sw{display:inline-block;vertical-align:middle;margin-right:6px;border-radius:2px}
+.ramp{width:120px;height:10px}
+.sw.hatch{width:18px;height:12px;background:repeating-linear-gradient(135deg,var(--hatch) 0 1px,transparent 1px 5px);border:1px solid var(--line-2)}
+.sw.dot{width:18px;height:12px;position:relative;background:repeating-linear-gradient(135deg,var(--hatch) 0 1px,transparent 1px 5px);border:1px solid var(--line-2)}
+.sw.dot::after{content:"";position:absolute;left:50%;top:50%;width:4px;height:4px;margin:-2px 0 0 -2px;border-radius:50%;background:var(--ink-2)}
+.sw.ph{width:14px;height:12px;border:1.5px solid var(--amber)}
+.sw.unc{width:18px;height:12px;border:1px dashed var(--flag-line);background:var(--surface-2)}
+
+.tip{position:fixed;z-index:50;pointer-events:none;background:#0b0a09f2;border:1px solid var(--line-2);border-radius:6px;padding:8px 10px;font-size:12px;max-width:300px;color:var(--ink-2);box-shadow:0 6px 24px #0008}
+.tip strong{display:block;color:var(--ink);font-size:14px;font-family:var(--mono);font-weight:600}
+.tip em{font-style:normal;color:var(--flag-ink)}
+
+/* detail */
+.detail{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,7fr);gap:0}
+.detail > section{padding:18px 20px;min-width:0}
+.detail > section + section{border-left:1px solid var(--line)}
+.dhead{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 14px;margin-bottom:12px}
+.dyear{font-size:44px;font-weight:800;font-variation-settings:"wdth" 118;line-height:1}
+.dmeta{font-size:13px;color:var(--ink-2)}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}
+.chip{font-size:11.5px;border:1px solid var(--line-2);border-radius:999px;padding:2px 9px;color:var(--ink-2);background:var(--surface-2)}
+.chip.unc{border-style:dashed;border-color:var(--flag-line)}
+.flag{display:inline-block;font-size:11px;line-height:1.35;color:var(--flag-ink);border:1px solid var(--flag-line);border-radius:4px;padding:0 5px;margin-top:3px}
+.counts{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:7px}
+.counts li{display:grid;grid-template-columns:96px 1fr auto;gap:4px 10px;align-items:center;font-size:13px}
+.counts li.sec{opacity:.82}
+.counts .nm{color:var(--ink-2)}
+.counts .bar{height:6px;border-radius:3px;background:var(--surface-3);position:relative;overflow:hidden}
+.counts .bar i{position:absolute;left:0;top:0;bottom:0;border-radius:3px}
+.counts .v{font-family:var(--mono);font-variant-numeric:tabular-nums;text-align:right;color:var(--ink)}
+.counts .v.zero{color:var(--ink-3)}
+.counts .sub{grid-column:2 / -1;font-size:11.5px;color:var(--ink-3);line-height:1.4}
+.counts hr{border:0;border-top:1px solid var(--line);margin:4px 0;grid-column:1/-1;width:100%}
+.evs{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:14px}
+.evs li{display:grid;grid-template-columns:104px 1fr;gap:10px}
+.evs .when{font-family:var(--mono);font-size:12px;color:var(--amber);padding-top:2px}
+.evs .what{font-size:14px;color:var(--ink);max-width:70ch}
+.evs .src{display:block;font-family:var(--mono);font-size:10.5px;color:var(--ink-3);margin-top:3px;word-break:break-all}
+.empty{color:var(--ink-3);font-size:14px;margin:0}
+.dsub{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3);margin:0 0 10px}
+
+/* darkest */
+.dark-intro{display:grid;grid-template-columns:minmax(0,1fr);gap:8px}
+.pre-block{padding:14px 16px;border:1px solid var(--line);border-radius:8px;background:repeating-linear-gradient(135deg,#ffffff06 0 1px,transparent 1px 6px),var(--surface);display:flex;flex-wrap:wrap;gap:6px 24px;align-items:baseline}
+.pre-block b{font-size:16px}
+.pre-block p{margin:0;color:var(--ink-2);font-size:13.5px;max-width:80ch}
+.darkgrid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px}
+.dcard{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:14px;display:flex;flex-direction:column;gap:10px}
+.dcard .go{margin-top:auto;align-self:flex-start;font:inherit;font-size:12.5px;color:var(--amber);background:transparent;border:1px solid var(--line-2);border-radius:6px;padding:5px 10px;cursor:pointer}
+.dcard .go:hover{border-color:var(--amber)}
+.dcard .top{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.dcard .y{font-size:28px;font-weight:800;font-variation-settings:"wdth" 116;line-height:1}
+.dcard .rk{font-family:var(--mono);font-size:11px;color:var(--ink-3)}
+.strip{display:grid;grid-template-columns:repeat(6,1fr);gap:3px}
+.strip i{height:14px;border-radius:2px;display:block;background:var(--surface-2)}
+.strip i.gap{background:repeating-linear-gradient(135deg,var(--hatch) 0 1px,transparent 1px 4px)}
+.strip-l{display:grid;grid-template-columns:repeat(6,1fr);gap:3px;font-family:var(--mono);font-size:9px;color:var(--ink-3);text-align:center}
+.dcard h4{margin:0;font-size:11px;font-family:var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);font-weight:400}
+.dcard p{margin:0;font-size:13px;color:var(--ink-2)}
+.dcard ul{margin:0;padding-left:16px;font-size:13px;color:var(--ink-2);display:flex;flex-direction:column;gap:4px}
+
+/* table + method */
+details.block{background:var(--surface);border:1px solid var(--line);border-radius:8px}
+details.block > summary{cursor:pointer;padding:14px 16px;font-weight:600;list-style-position:inside}
+details.block[open] > summary{border-bottom:1px solid var(--line)}
+.tblwrap{overflow-x:auto;padding:0 0 8px}
+table{border-collapse:collapse;font-size:12.5px;width:100%}
+th,td{padding:5px 10px;text-align:right;border-bottom:1px solid var(--line);white-space:nowrap}
+th{font-weight:600;color:var(--ink-2);font-size:11.5px;position:sticky;top:0;background:var(--surface)}
+td:first-child,th:first-child{text-align:left;position:sticky;left:0;background:var(--surface)}
+td{font-family:var(--mono);font-variant-numeric:tabular-nums;color:var(--ink)}
+td.z{color:var(--ink-3)}
+td.fl::after{content:"*";color:var(--flag-ink)}
+tr.selrow td{background:var(--surface-3)}
+.method{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:24px;padding:16px}
+.method p,.method li{font-size:13.5px;color:var(--ink-2)}
+.method ul{padding-left:18px;margin:0;display:flex;flex-direction:column;gap:6px}
+.src-list{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:10px}
+.src-list li{display:grid;grid-template-columns:118px 1fr;gap:4px 12px;font-size:13px}
+.st{font-family:var(--mono);font-size:10.5px;text-transform:uppercase;letter-spacing:.06em;border:1px solid currentColor;border-radius:4px;padding:1px 6px;justify-self:start;align-self:start}
+.st.ok{color:var(--ok)} .st.duplicate{color:var(--dup)} .st.unreachable,.st.error{color:var(--bad)}
+.src-list b{display:block;color:var(--ink);font-weight:600}
+.src-list span{color:var(--ink-2)}
+footer{font-size:12px;color:var(--ink-3)}
+
+@media (max-width: 980px){
+  .darkgrid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .detail{grid-template-columns:minmax(0,1fr)}
+  .detail > section + section{border-left:0;border-top:1px solid var(--line)}
+  .method{grid-template-columns:minmax(0,1fr)}
+}
+@media (max-width: 560px){
+  :root{--lab:112px}
+  .wrap{padding-inline:16px}
+  .darkgrid{grid-template-columns:minmax(0,1fr)}
+  .evs li{grid-template-columns:minmax(0,1fr);gap:2px}
+  .counts li{grid-template-columns:84px 1fr auto}
+  .src-list li{grid-template-columns:minmax(0,1fr)}
+  .lab small{display:none}
+}
+@media (prefers-reduced-motion: no-preference){
+  .cell{transition:background-color .25s ease}
+}
+@media (forced-colors: active){
+  .cell,.band{border:1px solid CanvasText}
+}
+</style>
+
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">wikibrain · source coverage audit · built 2026-09-25</div>
+    <h1>Life coverage, 1988–2026</h1>
+    <p class="lede">Daniel Gillingham Frank, born 1988-11-01 in Uniontown PA. Each row is one channel of source material and each column is one year. Brighter means more material. Hatched cells are years where that channel holds almost nothing.</p>
+    <div class="facts" id="facts"></div>
+  </header>
+
+  <div class="controls">
+    <div><span class="ctl-label">Brightness scale</span>
+      <span class="seg" role="group" aria-label="Brightness scale">
+        <button type="button" id="sc-log" aria-pressed="true">Log</button>
+        <button type="button" id="sc-sqrt" aria-pressed="false">Square root</button>
+      </span>
+    </div>
+    <span class="hint">Hover a year to preview it, click to pin it. Arrow keys move the pinned year once a year is focused.</span>
+  </div>
+
+  <div class="card">
+    <div class="scroller" id="scroller" aria-label="Coverage chart: channels by year. The table view below holds every value.">
+      <div class="arr" id="arr"></div>
+    </div>
+    <div class="legend" id="legend"></div>
+  </div>
+
+  <div class="card detail" id="detail" aria-live="polite">
+    <section id="d-left"></section>
+    <section id="d-right"></section>
+  </div>
+
+  <section class="dark-intro" aria-labelledby="dark-h">
+    <h2 id="dark-h">Darkest eras</h2>
+    <div class="pre-block" id="preblock"></div>
+    <p class="lede">The five least-covered years since the first digital record in 2007. They are ranked by the coverage score, the mean log-scaled volume across the six main channels, with each channel scaled to its own peak year.</p>
+    <div class="darkgrid" id="darkgrid"></div>
+  </section>
+
+  <details class="block">
+    <summary>Table view: every count, every year</summary>
+    <div class="tblwrap"><table id="tbl"></table></div>
+  </details>
+
+  <details class="block" open>
+    <summary>Method and sources</summary>
+    <div class="method">
+      <div>
+        <h3 class="dsub">How the numbers were made</h3>
+        <ul id="method-notes"></ul>
+      </div>
+      <div>
+        <h3 class="dsub">Every source, and what happened to it</h3>
+        <ul class="src-list" id="srclist"></ul>
+      </div>
+    </div>
+  </details>
+
+  <footer>Generated from the wikibrain checkout and one read-only Gmail search on 2026-09-25. Nothing in the source data was modified. Event text is quoted from the wiki page named under each event.</footer>
+</div>
+<div class="tip" id="tip" hidden></div>
+
+<script>
+const D = {"generated":"2026-09-25","years":[1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026],"lanes":[{"id":"messages","label":"Messages","unit":"messages","group":"primary","desc":"iMessage/SMS export (192,140 frozen rows + 6,214 living rows, deduplicated on message_guid; includes the 317 Suz↔Dan Gmail-SMS rows of 2010), 618 Google Talk conversations archived in Gmail, 143 TikTok DMs. Google Voice is missing.","counts":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,318,511,72,33,2,13745,20279,17550,40500,20166,6327,289,136,960,4369,41203,32655],"peak":41203,"peakYear":2025,"subs":{"2010":{"iMessage master (living file)":317,"Google Talk/Hangouts (Gmail Chat.mbox)":1},"2011":{"iMessage/SMS corpus (frozen parts)":1,"Google Talk/Hangouts (Gmail Chat.mbox)":510},"2012":{"Google Talk/Hangouts (Gmail Chat.mbox)":72},"2013":{"Google Talk/Hangouts (Gmail Chat.mbox)":33},"2014":{"Google Talk/Hangouts (Gmail Chat.mbox)":2},"2015":{"iMessage/SMS corpus (frozen parts)":13745},"2016":{"iMessage/SMS corpus (frozen parts)":20279},"2017":{"iMessage/SMS corpus (frozen parts)":17550},"2018":{"iMessage/SMS corpus (frozen parts)":40500},"2019":{"iMessage/SMS corpus (frozen parts)":20166},"2020":{"iMessage/SMS corpus (frozen parts)":6327},"2021":{"iMessage/SMS corpus (frozen parts)":282,"TikTok DMs":7},"2022":{"TikTok DMs":136},"2023":{"iMessage/SMS corpus (frozen parts)":960},"2024":{"iMessage/SMS corpus (frozen parts)":4369},"2025":{"iMessage/SMS corpus (frozen parts)":41203},"2026":{"iMessage/SMS corpus (frozen parts)":26758,"iMessage master (living file)":5897}},"flags":{}},{"id":"facebook","label":"Facebook","unit":"items","group":"primary","desc":"Messenger DMs 2007-01-16 → 2022-09-04 (+11 in Aug 2026), plus own posts, comments, profile updates and uploads from Facebook's 2022-09-05 export. Nothing from Sept 2022 to July 2026 is on disk.","counts":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,389,720,421,692,683,1507,849,778,552,1868,1707,1233,3532,2340,1042,0,0,0,11],"peak":3532,"peakYear":2020,"subs":{"2007":{"Messenger DMs":11,"Own posts / status updates":26,"Profile updates":15,"Comments":3},"2008":{"Messenger DMs":194,"Own posts / status updates":151,"Uploaded photos/videos":4,"Profile updates":17,"Comments":23},"2009":{"Messenger DMs":411,"Own posts / status updates":152,"Uploaded photos/videos":15,"Profile updates":14,"Comments":128},"2010":{"Messenger DMs":155,"Own posts / status updates":42,"Uploaded photos/videos":9,"Profile updates":86,"Comments":129},"2011":{"Messenger DMs":535,"Own posts / status updates":48,"Profile updates":26,"Comments":83},"2012":{"Messenger DMs":406,"Own posts / status updates":70,"Uploaded photos/videos":6,"Profile updates":31,"Comments":170},"2013":{"Messenger DMs":1400,"Own posts / status updates":35,"Uploaded photos/videos":10,"Profile updates":26,"Comments":36},"2014":{"Messenger DMs":758,"Own posts / status updates":47,"Profile updates":33,"Comments":11},"2015":{"Messenger DMs":761,"Own posts / status updates":8,"Uploaded photos/videos":2,"Profile updates":7},"2016":{"Messenger DMs":501,"Own posts / status updates":24,"Profile updates":7,"Comments":12,"Uploaded photos/videos":8},"2017":{"Messenger DMs":1822,"Own posts / status updates":18,"Uploaded photos/videos":3,"Profile updates":9,"Comments":16},"2018":{"Messenger DMs":1323,"Own posts / status updates":139,"Uploaded photos/videos":150,"Profile updates":27,"Comments":68},"2019":{"Messenger DMs":1028,"Own posts / status updates":75,"Uploaded photos/videos":66,"Profile updates":15,"Comments":49},"2020":{"Messenger DMs":3370,"Own posts / status updates":44,"Uploaded photos/videos":29,"Profile updates":4,"Comments":85},"2021":{"Messenger DMs":2203,"Own posts / status updates":51,"Uploaded photos/videos":22,"Profile updates":4,"Comments":60},"2022":{"Messenger DMs":863,"Own posts / status updates":11,"Uploaded photos/videos":150,"Profile updates":5,"Comments":13},"2026":{"Messenger DMs":11}},"flags":{}},{"id":"gmail","label":"Gmail · sent","unit":"threads","group":"primary","desc":"Threads containing a message Dan sent from dfrank88@gmail.com, counted live on 2026-09-25. Received-only mail is excluded. ihatedanfrank@gmail.com is not connected here.","counts":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,106,462,188,228,139,19,24,14,22,13,12,11,5,2,0,7,54,24],"peak":462,"peakYear":2010,"subs":{"2008":{"Sent threads (dfrank88)":68},"2009":{"Sent threads (dfrank88)":106},"2010":{"Sent threads (dfrank88)":462},"2011":{"Sent threads (dfrank88)":188},"2012":{"Sent threads (dfrank88)":228},"2013":{"Sent threads (dfrank88)":139},"2014":{"Sent threads (dfrank88)":19},"2015":{"Sent threads (dfrank88)":24},"2016":{"Sent threads (dfrank88)":14},"2017":{"Sent threads (dfrank88)":22},"2018":{"Sent threads (dfrank88)":13},"2019":{"Sent threads (dfrank88)":12},"2020":{"Sent threads (dfrank88)":11},"2021":{"Sent threads (dfrank88)":5},"2022":{"Sent threads (dfrank88)":2},"2023":{"Sent threads (dfrank88)":0},"2024":{"Sent threads (dfrank88)":7},"2025":{"Sent threads (dfrank88)":54},"2026":{"Sent threads (dfrank88)":24}},"flags":{"2011":"lower bound: 12 half-month search window(s) returned Gmail's '201' estimate sentinel and were not drilled further","2012":"lower bound: 5 half-month search window(s) returned Gmail's '201' estimate sentinel and were not drilled further","2013":"lower bound: 3 half-month search window(s) returned Gmail's '201' estimate sentinel and were not drilled further","2025":"51 of these are automated self-addressed sends (last day of month, 09:31Z)","2026":"10 of these are automated self-addressed sends (last day of month, 09:31Z)"}},{"id":"photos","label":"Photos","unit":"dated items","group":"primary","desc":"Photos and videos with a capture date: EXIF read from files on disk, EXIF recorded in photo-ingest manifests, and media/registry.json dates (mixed provenance, treat as uncertain). Camera-roll originals are not in the repo.","counts":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,4,1,0,0,0,48,2,7,3,7,1,0,4,6,0,8,117],"peak":117,"peakYear":2026,"subs":{"2008":{"EXIF capture date (read from file)":2},"2009":{"EXIF capture date (read from file)":9},"2010":{"EXIF capture date (read from file)":4},"2011":{"EXIF capture date (read from file)":1},"2015":{"EXIF capture date (read from file)":5,"EXIF recorded in ingest manifest":43},"2016":{"EXIF capture date (read from file)":1,"EXIF recorded in ingest manifest":1},"2017":{"EXIF capture date (read from file)":3,"media registry date (mixed provenance)":4},"2018":{"EXIF capture date (read from file)":1,"media registry date (mixed provenance)":2},"2019":{"EXIF capture date (read from file)":7},"2020":{"EXIF capture date (read from file)":1},"2022":{"EXIF capture date (read from file)":4},"2023":{"EXIF capture date (read from file)":6},"2025":{"EXIF capture date (read from file)":8},"2026":{"EXIF capture date (read from file)":1,"media registry date (mixed provenance)":116}},"flags":{}},{"id":"tweets","label":"Tweets","unit":"tweets","group":"primary","desc":"@danfrank archive, 2008-09-24 → 2026-09-01.","counts":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,95,283,342,225,205,346,171,62,76,117,89,57,25,34,158,159,258,13,26],"peak":346,"peakYear":2013,"subs":{"2008":{"original":86,"reply":9},"2009":{"original":275,"reply":8},"2010":{"original":342},"2011":{"original":225},"2012":{"original":205},"2013":{"original":346},"2014":{"original":171},"2015":{"original":62},"2016":{"original":76},"2017":{"original":117},"2018":{"original":89},"2019":{"original":57},"2020":{"original":25},"2021":{"original":34},"2022":{"original":154,"reply":4},"2023":{"original":159},"2024":{"original":256,"reply":1,"quote":1},"2025":{"original":13},"2026":{"original":26}},"flags":{}},{"id":"wiki","label":"Wiki events","unit":"events","group":"primary","desc":"Dated events the wiki records, extracted from the current pages by bin/wiki-timeline (retracted claims, edit stamps and metadata filtered out). A measure of how much has been written up, not of raw material.","counts":[19,1,9,0,0,2,4,0,1,3,5,0,3,6,8,12,25,96,20,62,132,95,180,130,114,280,138,653,304,290,798,535,415,138,76,93,331,929,2288],"peak":2288,"peakYear":2026,"subs":{"1988":{"Tier 1 events":10,"Tier 3 events":9},"1989":{"Tier 3 events":1},"1990":{"Tier 3 events":4,"Tier 1 events":5},"1993":{"Tier 3 events":2},"1994":{"Tier 1 events":3,"Tier 3 events":1},"1996":{"Tier 3 events":1},"1997":{"Tier 1 events":3},"1998":{"Tier 1 events":4,"Tier 3 events":1},"2000":{"Tier 1 events":1,"Tier 3 events":2},"2001":{"Tier 2 events":2,"Tier 1 events":4},"2002":{"Tier 2 events":1,"Tier 3 events":3,"Tier 1 events":4},"2003":{"Tier 2 events":2,"Tier 3 events":8,"Tier 1 events":2},"2004":{"Tier 2 events":5,"Tier 3 events":13,"Tier 1 events":7},"2005":{"Tier 1 events":29,"Tier 3 events":43,"Tier 2 events":24},"2006":{"Tier 2 events":12,"Tier 3 events":8},"2007":{"Tier 3 events":32,"Tier 2 events":26,"Tier 1 events":4},"2008":{"Tier 2 events":25,"Tier 3 events":90,"Tier 1 events":17},"2009":{"Tier 2 events":19,"Tier 3 events":54,"Tier 1 events":22},"2010":{"Tier 3 events":139,"Tier 1 events":34,"Tier 2 events":7},"2011":{"Tier 3 events":98,"Tier 1 events":10,"Tier 2 events":22},"2012":{"Tier 3 events":90,"Tier 1 events":12,"Tier 2 events":12},"2013":{"Tier 2 events":41,"Tier 3 events":210,"Tier 1 events":29},"2014":{"Tier 3 events":108,"Tier 2 events":18,"Tier 1 events":12},"2015":{"Tier 3 events":459,"Tier 1 events":142,"Tier 2 events":52},"2016":{"Tier 1 events":31,"Tier 2 events":31,"Tier 3 events":242},"2017":{"Tier 2 events":27,"Tier 3 events":218,"Tier 1 events":45},"2018":{"Tier 1 events":155,"Tier 2 events":79,"Tier 3 events":564},"2019":{"Tier 1 events":84,"Tier 3 events":377,"Tier 2 events":74},"2020":{"Tier 3 events":317,"Tier 2 events":44,"Tier 1 events":54},"2021":{"Tier 3 events":99,"Tier 2 events":20,"Tier 1 events":19},"2022":{"Tier 3 events":62,"Tier 1 events":5,"Tier 2 events":9},"2023":{"Tier 2 events":15,"Tier 3 events":61,"Tier 1 events":17},"2024":{"Tier 2 events":40,"Tier 3 events":233,"Tier 1 events":58},"2025":{"Tier 3 events":667,"Tier 1 events":183,"Tier 2 events":79},"2026":{"Tier 1 events":377,"Tier 3 events":1686,"Tier 2 events":225}},"flags":{}},{"id":"instagram","label":"Instagram","unit":"items","group":"secondary","desc":"Posted media bucketed by the export's month folders, plus Instagram DMs 2016-05-30 → 2025-08-09. Export dated 2025-08-24.","counts":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,118,202,47,27,68,35,69,297,105,1575,7184,1905,489,95,0],"peak":7184,"peakYear":2022,"subs":{"2011":{"Posted media (export folder month)":37},"2012":{"Posted media (export folder month)":118},"2013":{"Posted media (export folder month)":202},"2014":{"Posted media (export folder month)":47},"2015":{"Posted media (export folder month)":27},"2016":{"Instagram DMs":2,"Posted media (export folder month)":66},"2017":{"Instagram DMs":5,"Posted media (export folder month)":30},"2018":{"Instagram DMs":63,"Posted media (export folder month)":6},"2019":{"Instagram DMs":295,"Posted media (export folder month)":2},"2020":{"Instagram DMs":89,"Posted media (export folder month)":16},"2021":{"Instagram DMs":1561,"Posted media (export folder month)":14},"2022":{"Instagram DMs":7179,"Posted media (export folder month)":5},"2023":{"Instagram DMs":1905},"2024":{"Instagram DMs":484,"Posted media (export folder month)":5},"2025":{"Instagram DMs":95}},"flags":{}},{"id":"location","label":"Location","unit":"fixes","group":"secondary","desc":"Google location fixes, 2014-04-02 → 2024-05-14. The export stops there.","counts":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2379,634,8929,12378,29913,16208,8046,5217,12731,25005,293,0,0],"peak":29913,"peakYear":2018,"subs":{"2014":{"Google location fixes":2379},"2015":{"Google location fixes":634},"2016":{"Google location fixes":8929},"2017":{"Google location fixes":12378},"2018":{"Google location fixes":29913},"2019":{"Google location fixes":16208},"2020":{"Google location fixes":8046},"2021":{"Google location fixes":5217},"2022":{"Google location fixes":12731},"2023":{"Google location fixes":25005},"2024":{"Google location fixes":293}},"flags":{}},{"id":"youtube","label":"YouTube","unit":"watches","group":"secondary","desc":"Watch-history events from two Takeout archives, deduplicated.","counts":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,166,1499,3138,2455,581,336,118,144,146,71,240,138,1815,2290,572,2108,4005],"peak":4005,"peakYear":2026,"subs":{"2010":{"Videos watched":166},"2011":{"Videos watched":1499},"2012":{"Videos watched":3138},"2013":{"Videos watched":2455},"2014":{"Videos watched":581},"2015":{"Videos watched":336},"2016":{"Videos watched":118},"2017":{"Videos watched":144},"2018":{"Videos watched":146},"2019":{"Videos watched":71},"2020":{"Videos watched":240},"2021":{"Videos watched":138},"2022":{"Videos watched":1815},"2023":{"Videos watched":2290},"2024":{"Videos watched":572},"2025":{"Videos watched":2108},"2026":{"Videos watched":4005}},"flags":{}},{"id":"chatgpt","label":"ChatGPT","unit":"prompts","group":"secondary","desc":"User prompts from the dfrank88 and iHateDanFRANK exports of 2025-08-05.","counts":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,599,730,3485,0],"peak":3485,"peakYear":2025,"subs":{"2022":{"Prompts (iHateDanFRANK)":43},"2023":{"Prompts (iHateDanFRANK)":599},"2024":{"Prompts (dfrank88)":570,"Prompts (iHateDanFRANK)":160},"2025":{"Prompts (dfrank88)":2705,"Prompts (iHateDanFRANK)":780}},"flags":{}}],"score":[0.0645,0.0149,0.0496,0.0,0.0,0.0237,0.0347,0.0,0.0149,0.0299,0.0386,0.0,0.0299,0.0419,0.0473,0.0553,0.0702,0.0986,0.0656,0.1714,0.5105,0.6009,0.715,0.6573,0.6021,0.6269,0.4892,0.7664,0.6433,0.7229,0.7105,0.694,0.6184,0.5035,0.543,0.4182,0.4713,0.5747,0.7284],"eras":[{"track":"Where","label":"Childhood · Uniontown","short":"Childhood · Uniontown","start":"1988-11-01","end":"2006-06-30","note":"Seven Springs ski identity. 12 Bryer Ave, then 337 Saratoga Dr."},{"track":"Where","label":"Penn State Fayette","short":"PSU Fayette","start":"2006-08-15","end":"2008-08-31","note":"Eberly campus, a few semesters."},{"track":"Where","label":"Full Sail · Orlando","short":"Full Sail","start":"2008-09-21","end":"2009-09-30","note":"Recording Arts, graduated top 5%. The wiki holds the graduation month as disputed (Aug vs Sep 2009; tweets show classes into Dec 2009) and dates the Florida departure to 2010-02-28.","uncertain":true},{"track":"Where","label":"NYC · first era","short":"NYC 1","start":"2010-02-28","end":"2013-05-31","note":"Left Florida 2010-02-28 (tweet-dated). The May 2013 end rests on memory and context-core, not a primary record.","uncertain":true},{"track":"Where","label":"NYC · second era","short":"NYC 2","start":"2019-02-09","end":"2025-02-22","note":"Landed 2019-02-09. The wiki dates the forced exit from the apartment to 2025-02-22."},{"track":"Where","label":"Uniontown · now","short":"Uniontown","start":"2026-01-01","end":"2026-09-25","note":"Back in Uniontown PA. The wiki (three-phase-move) dates the landing at his mother's house to late February 2025, earlier than this band.","uncertain":true},{"track":"Who","label":"Alexis Armel","short":"Alexis","start":"2009-01-01","end":"2015-11-30","note":"Met on Facebook 2008-09-21. She moved to Florida Dec 2009. Evicted Nov 2015."},{"track":"Who","label":"Annie Ulmer","short":"Annie","start":"2015-11-15","end":"2026-09-25","note":"Eleven-year partner, Nov 2015 → 2026."},{"track":"Work","label":"Nemacolin caddie","short":"Caddie","start":"2016-01-01","end":"2019-12-31","note":"Golf caddie at Nemacolin, 2016–2019."},{"track":"Work","label":"Au Za'atar","short":"Au Za'atar","start":"2021-03-01","end":"2024-08-31","note":"Restaurant, 41 months, Mar 2021 → Aug 2024."},{"track":"Body","label":"Daily Suboxone · zero relapses","short":"Suboxone","start":"2010-02-17","end":"2026-09-25","note":"Daily since 2010-02-17, zero relapses.","line":true}],"markers":[{"track":"Who","date":"2008-09-21","label":"Met Alexis on Facebook"},{"track":"Who","date":"2009-12-02","label":"Alexis moves to Florida (first-night photo, EXIF 2009-12-02)"},{"track":"Body","date":"2010-02-17","label":"Suboxone day zero"},{"track":"Where","date":"2019-02-09","label":"Lands in NYC"}],"tracks":["Where","Who","Work","Body"],"events":{"1988":[{"date":"1988-11-01","text":"Daniel Gillingham Frank — Dan — was born November 1, 1988 in Uniontown, Fayette County, Pennsylvania…","src":"wiki/self/overview.md","period":false,"flag":null}],"1994":[{"date":"1994-01-16","text":"Vanessa was born on 16 January 1994 in Greensburg, Pennsylvania…","src":"wiki/people/vanessa-frank.md","period":false,"flag":null}],"1996":[{"date":"1996","text":"Family builds 337 Saratoga Drive.","src":"wiki/people/suzanne-frank.md","period":false,"flag":"year only"}],"1997":[{"date":"1997-11-27","text":"She [Sadie Harris] died on 27 November 1997, seventeen days short of her ninety-seventh birthday, and was buried in Hopwood.","src":"wiki/people/sadie-harris.md","period":false,"flag":"family record"}],"1998":[{"date":"1998-12-13","text":"He [Morley Frank] died 13 December 1998 in Hopwood and is buried there.","src":"wiki/self/ancestry.md","period":false,"flag":"family record"}],"2001":[{"date":"2001-08-04","text":"Rolling Rock Town Fair 2 — STP, Deftones, Incubus, Live, Oleander, Staind, Tantric — Westmoreland Fairgrounds — Latrobe / Mt. Pleasant, PA — Confirmed.","src":"wiki/timeline/events/teen-concert-years.md","period":false,"flag":null}],"2002":[{"date":"2002-07-27","text":"Rolling Rock Town Fair 3 — Godsmack, Outkast, Nickelback, P.O.D., Sevendust, Default, Injected, Tommy Lee — Alien Ant Farm cancelled (bus accident).","src":"wiki/timeline/events/teen-concert-years.md","period":false,"flag":null}],"2004":[{"date":"2004-04-21","text":"HIM — The Rock Club, Station Square — Pittsburgh, PA — Love Metal Tour.","src":"wiki/timeline/events/teen-concert-years.md","period":false,"flag":null},{"date":"2004-07-31","text":"Rolling Rock Town Fair 5 — Staind, Disturbed, Velvet Revolver, Three Days Grace… — heavy rain/mud reported.","src":"wiki/timeline/events/teen-concert-years.md","period":false,"flag":null}],"2005":[{"date":"Nov 2005","text":"…the paternal rehab admission and the maternal affair with the family dealer, delivered to him as a seventeen-year-old on the drive home from getting his learner's permit.","src":"wiki/timeline/periods/three-phase-move.md","period":true,"flag":"testimony only — other pages mark it: no documentary corroboration found"},{"date":"2005","text":"Relationship [with Danielle Onesi] begins.","src":"wiki/people/danielle-onesi.md","period":false,"flag":"approximate — year only"}],"2006":[{"date":"2006","text":"Laurel Highlands (graduated 2006) → Penn State Fayette, Eberly campus (a few semesters, operator testimony)…","src":"wiki/work/full-sail-2008-2009.md","period":false,"flag":"year only"},{"date":"2006-07-27","text":"Vans Warped Tour 2006 — Post-Gazette Pavilion — Burgettstown, PA — AFI, Rise Against, Thursday, MCS, NOFX.","src":"wiki/timeline/events/teen-concert-years.md","period":false,"flag":null}],"2007":[{"date":"2007-11-01","text":"Two years after the rupture, the record puts father and son in Las Vegas together for Dan's nineteenth birthday — 1 November 2007.","src":"wiki/mind/synthesis/november-2005-hinge.md","period":false,"flag":"operator testimony"}],"2008":[{"date":"2008-09-21","text":"The drive south, 21 September 2008, 6:55am — \"Moving to Florida. Leaving PA to live on my own for the first time.\"","src":"wiki/timeline/periods/full-sail-2008-2010.md","period":true,"flag":null},{"date":"2008-09-21","text":"On the afternoon he drove to Florida (the drive-to-Florida photo is EXIF-stamped the same day), Dan messaged Alexis on Facebook from the road…","src":"wiki/timeline/periods/full-sail-2008-2010.md","period":true,"flag":null},{"date":"2008-09-24","text":"The account has no followers on 24 September 2008 — it is being started that day. [@danfrank on Twitter]","src":"wiki/timeline/periods/dark-era-2007-2008.md","period":true,"flag":null}],"2009":[{"date":"2009-07-01","text":"Dan met Alexis the night of 2009-07-01 — or re-met her, if the earlier meeting is real…","src":"wiki/timeline/periods/full-sail-2008-2010.md","period":true,"flag":"the page holds two layers of the story"},{"date":"Aug/Sep 2009","text":"An.S. in Recording Arts, graduated August 2009, top 5% of the class…","src":"wiki/timeline/periods/full-sail-2008-2010.md","period":true,"flag":"disputed month — three-phase-move says September 2009; tweets show classes into December 2009"},{"date":"2009-12-02","text":"…she moved down about nine days later — which lands within days of the EXIF-stamped 2009-12-02 first-night photo…","src":"wiki/timeline/periods/full-sail-2008-2010.md","period":true,"flag":null}],"2010":[{"date":"2010-02-17","text":"Suboxone initiated around January 2010, with day-zero later pinned to February 17, 2010 in the fuller chemical-history record…","src":"wiki/timeline/periods/full-sail-2008-2010.md","period":true,"flag":null},{"date":"2010-02-28","text":"…the U-Haul on the 27th, \"peace out, florida\" on 28 February 2010, and dan@ishlab.com live on 24 March.","src":"wiki/timeline/periods/full-sail-2008-2010.md","period":true,"flag":null},{"date":"2010-01-26","text":"\"Brooklyn here we come!!\" — Eleven minutes later. The credential and the decision to move are one moment.","src":"wiki/timeline/periods/2010s.md","period":true,"flag":null}],"2011":[{"date":"2011-08-04","text":"A Facebook message dated 2011-08-04 has Dan writing outbound: \"I was supposed to go to my Suboxone appointment today…\"","src":"wiki/timeline/periods/nyc-first-era-2010-2013.md","period":true,"flag":null},{"date":"May 2011","text":"…in May 2011 she sent Dan his own non-disclosure/non-compete agreement to sign… [Creative License]","src":"wiki/people/katherine-palakovich.md","period":false,"flag":null},{"date":"2011-05-20","text":"Ally Lubin — first contact 2011-05-20, never met in person…","src":"wiki/mind/synthesis/the-curse.md","period":false,"flag":null}],"2012":[{"date":"Feb–Apr 2012","text":"Act one — the payroll dispute (Feb–Apr 2012): last day on or before 15 February 2012… six weeks with accounting officer Marty Jackson…","src":"wiki/timeline/periods/nyc-first-era-2010-2013.md","period":true,"flag":null},{"date":"Oct 2012","text":"Alexis worked at the historic Bridge Cafe… until Hurricane Sandy's October 2012 flooding…","src":"wiki/timeline/periods/nyc-first-era-2010-2013.md","period":true,"flag":null},{"date":"Nov 2012","text":"…the last post placing him in the city is an internship pitch from November 2012…","src":"wiki/timeline/periods/three-phase-move.md","period":true,"flag":null}],"2013":[{"date":"May 2013","text":"NYC-1 ends with the May 2013 departure back to Uniontown — dated by context-core and memory, not by a primary record…","src":"wiki/timeline/periods/three-phase-move.md","period":true,"flag":"uncertain — no primary record"},{"date":"2013-07-12","text":"…that July 12, 2013 line — \"i just moved back from NYC and i'm super output recently\"…","src":"wiki/timeline/periods/three-phase-move.md","period":true,"flag":null},{"date":"Aug 2013","text":"From mid-August 2013 the feed is continuously Western Pennsylvania and stays that way…","src":"wiki/timeline/periods/uniontown-return-2013-2015.md","period":true,"flag":null}],"2014":[{"date":"2014-02-21","text":"SLOPPP's Week in Trap — Episode 3 — mix series (Twitter).","src":"wiki/timeline/periods/uniontown-return-2013-2015.md","period":true,"flag":null},{"date":"2014-07-30","text":"Caked Up – Bang Your Head (Festival Trap Remix) — remix (Facebook).","src":"wiki/timeline/periods/uniontown-return-2013-2015.md","period":true,"flag":null}],"2015":[{"date":"Jan 2015","text":"He moved back into 337 Saratoga Drive, the family home, and stayed through January 2015 before the move to 155 Virginia Avenue.","src":"wiki/timeline/periods/three-phase-move.md","period":true,"flag":null},{"date":"2015-11-29","text":"Met Annie Ulmer in person (golf course 2am rain, grandmothers neighbors 50yrs).","src":"wiki/timeline/periods/2015-2016-annie-relationship-start.md","period":true,"flag":null},{"date":"2015-11-30","text":"…\"11/30/2015 official break up\" — the administrative end of the six-year relationship…","src":"wiki/timeline/periods/uniontown-return-2013-2015.md","period":true,"flag":null}],"2016":[{"date":"2016-01-18","text":"Fran leaves for her Florida winter (\"I know but she leaves for fla this week\" — Dan to Annie…)","src":"wiki/timeline/periods/2015-2016-annie-relationship-start.md","period":true,"flag":null},{"date":"2016","text":"Move to 155 Virginia Ave [with Annie].","src":"wiki/people/annie-ulmer.md","period":false,"flag":"year only"}],"2017":[{"date":"Spring 2017","text":"In the spring of 2017, two years on, Dan describes working on tracks from 8pm to 2am without leaving \"the closet\" and tags it #trappedinthecloset.","src":"wiki/timeline/periods/uniontown-return-2013-2015.md","period":true,"flag":null},{"date":"2017-04-11","text":"He [Jay Lauer] died of a heroin overdose on or about April 11, 2017…","src":"wiki/mind/synthesis/supply-network.md","period":false,"flag":"approximate — \"on or about\""}],"2018":[{"date":"2018-03-29","text":"Eviction notice served at 155 Virginia Ave…","src":"wiki/timeline/periods/2018-deep-cycle.md","period":true,"flag":null},{"date":"2018-04-04","text":"Fran Coldren dies, Dan and Annie in the room.","src":"wiki/timeline/periods/2018-deep-cycle.md","period":true,"flag":null}],"2019":[{"date":"Jan 2019","text":"The January 2019 move-prep binge… (the January 10 run: $189.17 in eighteen minutes, 12:53 to 1:11 AM)…","src":"wiki/timeline/periods/three-phase-move.md","period":true,"flag":null},{"date":"2019-02-09","text":"\"We moved to New York in February, like early February, February 9th, 2019.\"","src":"wiki/timeline/periods/three-phase-move.md","period":true,"flag":"his words, spoken September 2026"}],"2020":[{"date":"May 2020","text":"Judge Fred Adams — the man who authorised Dan's caregiving wage in 2018… — died in the third week of May 2020.","src":"wiki/timeline/periods/covid-era-2020.md","period":true,"flag":null},{"date":"2020-08-21","text":"On 21 August 2020 a court signed the order distributing $144,069.31 of the Fran estate to Dan.","src":"wiki/timeline/periods/2020-2021-market-era.md","period":true,"flag":null},{"date":"2020-09-01","text":"On 1 September 2020 a final cheque of $134,069.31 was released and deposited through Suz.","src":"wiki/timeline/periods/2020-2021-market-era.md","period":true,"flag":null}],"2021":[{"date":"Mar 2021","text":"…hired on the spot, and started the next day as a busser at Au Za'atar in March 2021…","src":"wiki/timeline/periods/2020-2021-market-era.md","period":true,"flag":null},{"date":"Spring 2021","text":"The owners opened outdoor-only in spring 2021…","src":"wiki/timeline/periods/2021-2023-employment-block.md","period":true,"flag":null},{"date":"Nov 2021","text":"His mother Suz visited for his birthday (November 2021); the owners comped the whole menu.","src":"wiki/timeline/periods/2021-2023-employment-block.md","period":true,"flag":null}],"2023":[{"date":"2023-08-30","text":"…thirty-eight months of silence, broken on August 30, 2023 by her [Ally Lubin].","src":"wiki/mind/synthesis/annie-ally-contrast.md","period":false,"flag":null}],"2024":[{"date":"Jun–Aug 2024","text":"…Dan's involuntary Au Za'atar job loss (hours cut June–August 2024…)","src":"wiki/timeline/periods/2025-collapse.md","period":true,"flag":null},{"date":"Aug 2024","text":"The Google location record logs ~690 shifts and 445 visits… (the full tenure runs to August 2024).","src":"wiki/timeline/periods/2021-2023-employment-block.md","period":true,"flag":null}],"2025":[{"date":"2025-02-22","text":"…the February 22, 2025 forced exit from the NYC apartment…","src":"wiki/timeline/periods/feb-apr-2025-return-and-rupture.md","period":true,"flag":null},{"date":"Feb 2025","text":"He landed at his mother's house in late February 2025 — the third time he has moved back to Uniontown in his adult life…","src":"wiki/timeline/periods/three-phase-move.md","period":true,"flag":null},{"date":"Dec 2025","text":"December 2025 is the highest-volume month of the Dan–Annie correspondence on record…","src":"wiki/timeline/periods/dec-2025-spike.md","period":true,"flag":null}],"2026":[{"date":"2026-06-01","text":"That June 1, 2026 was closure. It severed contact for fifty-two days…","src":"wiki/timeline/periods/2025-collapse.md","period":true,"flag":null},{"date":"Jun 2026","text":"…the Chapter 13 liquidation that closes at $465,000 in June 2026.","src":"wiki/timeline/periods/2025-collapse.md","period":true,"flag":"approximate — another passage says \"closing around June 2026\""}]},"emptyNotes":{"2022":"No 2022 events in any period article. The 2021–2023 employment-block article covers the year only in aggregate.","2023":"No 2023 events in any period article."},"darkest":[{"year":2007,"score":0.1714,"missing":"No phone messages (the iMessage export starts 2011), no sent Gmail, no tweets (the account starts 2008-09-24), no dated photos. Facebook holds 55 items, beginning with the first Messenger record on 2007-01-16. The wiki's dark-era article rests mostly on testimony.","fill":["ihatedanfrank@gmail.com (not connected here; its start date is unknown)","Penn State Fayette enrollment records","Carrier SMS/call history, or old phone backups (none in raw/)","Scanned family photos with dates"],"counts":{"messages":0,"facebook":55,"gmail":0,"photos":0,"tweets":0,"wiki":62}},{"year":2023,"score":0.4182,"missing":"Facebook is empty because the export ends 2022-09-05. Its manifest records about 38 active Messenger threads from Oct 2022 onward that no export covers. No sent Gmail. iMessage holds only 960 rows, the tail of the 2021–22 corpus gap. 6 dated photos.","fill":["A fresh Facebook 'Download Your Information' export with messages checked","iPhone/iCloud Messages backup for 2021–2023","Google Photos camera-roll originals (EXIF)","Already on disk, outside the score: 25,005 location fixes, 2,290 YouTube watches, 599 ChatGPT prompts"],"counts":{"messages":960,"facebook":0,"gmail":0,"photos":6,"tweets":159,"wiki":93}},{"year":2024,"score":0.4713,"missing":"Facebook is empty (export ended 2022). 7 sent Gmail threads, no dated photos. Location history stops 2024-05-14. iMessage has 4,369 rows, thin for an Annie-era year.","fill":["A fresh Facebook export","A fresh Google Timeline export (the one on disk ends 2024-05-14)","Google Photos camera-roll originals","Already on disk: 730 ChatGPT prompts, 572 YouTube watches"],"counts":{"messages":4369,"facebook":0,"gmail":7,"photos":0,"tweets":258,"wiki":331}},{"year":2014,"score":0.4892,"missing":"The authoritative Messages export holds zero rows for 2013 and 2014 (2 rows here). No dated photos. 19 sent Gmail threads. Facebook (849) and tweets (171) carry the year.","fill":["corpus.db's voice-takeout corpus (Google Voice): not in this repo, and may cover 2011–2014 texting (uncertain)","Old iPhone backups from before 2015","SoundCloud upload history for the SLOPPP releases","Already on disk: location starts 2014-04-02 (2,379 fixes), 581 YouTube watches"],"counts":{"messages":2,"facebook":849,"gmail":19,"photos":0,"tweets":171,"wiki":138}},{"year":2021,"score":0.5035,"missing":"iMessage holds 282 rows for 2021 and zero for 2022, which is the 2021–22 corpus gap. 5 sent Gmail threads, 34 tweets, no dated photos. Facebook Messenger (2,340) carries the year.","fill":["iPhone/iCloud Messages backup covering 2021–2022","raw/SOURCES.md names location as the independent channel for this gap: 5,217 fixes in 2021 are already on disk","Au Za'atar payroll/schedule records, if kept (uncertain)"],"counts":{"messages":289,"facebook":2340,"gmail":5,"photos":0,"tweets":34,"wiki":138}}],"pre":{"messages":0,"facebook":0,"gmail":0,"photos":0,"tweets":0,"wiki":214},"sources":[{"name":"corpus.db (FTS5 index)","state":"unreachable","detail":"~/workspace/corpus-index/corpus.db (the 779k-doc FTS5 index) does not exist in this environment — only the wikibrain checkout is present. The messages lane was rebuilt from the raw files that index is built on."},{"name":"iMessage/SMS export","state":"ok","detail":"raw/imessage: frozen parts 192,140 rows; master +6,214 new of 6,214; gap-fill 1 +0 new of 3,331; gap-fill 2 +0 new of 2,115. Deduplicated on message_guid (5,446 duplicate rows dropped)."},{"name":"Ally Lubin thread (.txt)","state":"duplicate","detail":"Ally Lubin thread .txt: 1,984 lines, 90% already present in the iMessage corpus by text match — not added again."},{"name":"Suz↔Dan Gmail SMS, 2010","state":"duplicate","detail":"raw/gmail-sms-suz-dan-2010: 317 rows; raw/imessage/summary.json says these sit at the head of messages-master (master contributes 317 rows dated 2010), so not added twice."},{"name":"Google Talk (Chat.mbox)","state":"ok","detail":"takeout Mail/Chat.mbox: 618 archived Google Talk/Hangouts conversations (mbox envelope dates; one conversation per message, line counts not expanded)."},{"name":"Google Voice","state":"unreachable","detail":"The corpus.db 'voice-takeout' corpus (Google Voice) has no copy in raw/ — no Voice folder in any of the 13 Takeout archives. Google Voice volume is therefore absent from every year."},{"name":"Messenger / IG / TikTok DMs","state":"ok","detail":"raw/messenger-drive-2026-09-12 canonical JSONL (already deduped by its own manifest): gdrive-fb-20220905 15,741, gdrive-fb-20250824 11,678, gdrive-tiktok-dm-20221127 143, companion-cli-2026-09-12 11"},{"name":"Facebook export","state":"ok","detail":"raw/facebook export-20260908-a/-b (+ihatedanfrank tree), 842 distinct gdoc bodies. The content is Facebook's own 2022-09-05 'Download Your Information' export, re-pulled 2026-09-08. Messenger comes from the canonical JSONL (not re-counted from gdocs). Counted: Own posts / status updates 941, Uploaded photos/videos 474, Profile updates 326, Comments 886. Timeline posts after 2022-09-05 (the live profile's newest post is 2026-07-04 per the sammy scrape watermark) are NOT in any export on disk and are missing from 2022–2026."},{"name":"Gmail · dfrank88","state":"ok","detail":"dfrank88@gmail.com via the Gmail connector (read-only search, 2026-09-25). Metric: threads containing a SENT message, counted per date window with `in:sent after:… before:…`. Gmail's resultCountEstimate returns a '201' sentinel for many windows regardless of true size; those windows were split (month → half-month → week → 4-day) until an exact count came back. Exact counts were spot-verified by full page fetches (2009-08: 19/19, 2021: 5/5, two 4-day windows: 24/24). A thread whose sent messages straddle a window boundary counts once per window. Received-only mail (newsletters, notifications) is excluded by design."},{"name":"Gmail · ihatedanfrank","state":"unreachable","detail":"ihatedanfrank@gmail.com is not connected in this environment (the connector authenticates as dfrank88 only), and hatch_gws_cli is not installed here. Its mail is absent from every year."},{"name":"Photos","state":"ok","detail":"2,071 distinct image files on disk, of which only 53 still carry an EXIF capture date; +44 capture dates recorded in photo-ingest manifests for stripped derivatives; +122 media/registry.json items (video 32, image 90) with a full date (registry dates mix camera time, platform time and testimony — treat as uncertain). 815 registry items skipped (no full date, or audio/frame/album entries). Originals live in Google Photos / local media_library and are not in the repo; the Facebook (606) and Instagram (659) media files have EXIF stripped by the platforms."},{"name":"Twitter archive","state":"ok","detail":"raw/twitter/archive.jsonl: 2,741 tweets (@danfrank)."},{"name":"Wiki events","state":"ok","detail":"bin/wiki-timeline collect() run in memory against the current wiki/ (nothing written): 8,345 dated events after its own filters (edit stamps, metadata, bare years, RETRACTED.md patterns and duplicates removed)."},{"name":"Instagram export","state":"ok","detail":"raw/instagram/export-20250824: 575 media files bucketed by the export's YYYYMM folders (the export has no JSON). Instagram DMs come from the messenger-drive canonical JSONL. Nothing after 2025-08-24."},{"name":"Location history","state":"ok","detail":"raw/location/Records.json: 121,733 fixes, 2014-04-02 → 2024-05-14 (export ends there)."},{"name":"YouTube history","state":"ok","detail":"Takeout YouTube watch-history.html (2 archives, deduped): 19,822 watch events."},{"name":"ChatGPT exports","state":"ok","detail":"raw/chatgpt (2 accounts, exported 2025-08-05): 4,857 user prompts. Nothing after 2025-08-05."}]};
+const Y0 = 1988, NY = D.years.length;
+const lanes = D.lanes;
+const GAP_SHARE = 0.02;
+const RAMP = [[0,[43,36,28]],[.2,[74,54,32]],[.4,[122,82,34]],[.6,[183,122,38]],[.8,[232,176,74]],[1,[255,240,200]]];
+const state = {scale:'log', pinned:2010, hover:null};
+try{ const s = localStorage.getItem('lct-scale'); if(s==='log'||s==='sqrt') state.scale = s; }catch(e){}
+
+const $ = (id)=>document.getElementById(id);
+const el = (tag, cls, text)=>{ const n=document.createElement(tag); if(cls) n.className=cls; if(text!=null) n.textContent=text; return n; };
+const fmt = (n)=>n.toLocaleString('en-US');
+function ramp(v){
+  v=Math.max(0,Math.min(1,v));
+  for(let i=1;i<RAMP.length;i++){ if(v<=RAMP[i][0]){ const [a,ca]=RAMP[i-1],[b,cb]=RAMP[i]; const t=(v-a)/(b-a);
+    return 'rgb('+ca.map((c,k)=>Math.round(c+(cb[k]-c)*t)).join(',')+')'; } }
+  return 'rgb(255,240,200)';
+}
+function val(l, c){ if(!l.peak) return 0; return state.scale==='log' ? Math.log10(1+c)/Math.log10(1+l.peak) : Math.sqrt(c/l.peak); }
+const isGap = (l,c)=> c < GAP_SHARE*l.peak;
+function xOf(iso){ const [y,m,d]=iso.split('-').map(Number); const start=Date.UTC(y,0,1), end=Date.UTC(y+1,0,1); const t=Date.UTC(y,(m||1)-1,d||1); return (y-Y0)+(t-start)/(end-start); }
+const pct = (x)=> (x/NY*100)+'%';
+function ageIn(y){ if(y===1988) return 'born Nov 1'; return 'age '+(y-1989)+'–'+(y-1988); }
+
+/* ---------- facts ---------- */
+(function facts(){
+  const prim = lanes.filter(l=>l.group==='primary');
+  const total = prim.reduce((s,l)=>s+l.counts.reduce((a,b)=>a+b,0),0);
+  const firstDigital = D.years.find((y,i)=> ['messages','facebook','gmail','photos','tweets'].some(id=>lanes.find(l=>l.id===id).counts[i]>0));
+  const darkest = D.darkest.map(x=>x.year).join(', ');
+  const items = [
+    [fmt(total), 'items across the six main channels'],
+    [String(firstDigital), 'first year any non-wiki channel has a record'],
+    ['19 years', '1988–2006 hold nothing outside the wiki'],
+    [darkest, 'darkest years since then, darkest first'],
+  ];
+  const host=$('facts');
+  items.forEach(([b,s])=>{ const f=el('div','fact'); f.append(el('b',null,b), el('span',null,s)); host.append(f); });
+})();
+
+/* ---------- arrangement ---------- */
+const arr = $('arr');
+let rowCount = 0;
+const cellRefs = [];   // {lane, i, node}
+const yrBtns = [];
+function addRow(labelNode, content){ rowCount++; arr.append(labelNode); if(Array.isArray(content)) content.forEach(n=>arr.append(n)); else arr.append(content); }
+
+// decade ruler
+(function(){
+  const lab = el('div','lab track',''); const nodes=[];
+  D.years.forEach((y,i)=>{ const n=el('div','decade'+(y%10===0||i===0?'':' blank'), (y%10===0||i===0)? String(y):''); nodes.push(n); });
+  addRow(lab, nodes);
+})();
+// year buttons
+(function(){
+  const lab = el('div','lab track','Year'); const nodes=[];
+  D.years.forEach((y,i)=>{ const b=el('button','yr', String(y).slice(2)); b.type='button'; b.dataset.i=i; b.setAttribute('aria-label', String(y)); b.tabIndex=-1; yrBtns.push(b); nodes.push(b); });
+  addRow(lab, nodes);
+})();
+// era tracks
+const TRACK_LABELS = {Where:'Where', Who:'Partner', Work:'Work', Body:'Body'};
+D.tracks.forEach(t=>{
+  const lab = el('div','lab track', TRACK_LABELS[t]||t);
+  const row = el('div','band-row');
+  D.eras.filter(e=>e.track===t).forEach(e=>{
+    const x0=xOf(e.start), x1=xOf(e.end);
+    const b=el('div','band'+(e.uncertain?' unc':'')+(e.line?' line':''));
+    b.style.left=pct(x0); b.style.width=pct(Math.max(.35,x1-x0));
+    if(e.line){ b.append(el('span',null,e.label)); } else { b.textContent = (x1-x0)>3.2 ? e.label : e.short; }
+    b.dataset.tip = JSON.stringify({t:e.label, s:e.start+' → '+e.end, n:e.note, u:!!e.uncertain});
+    row.append(b);
+  });
+  D.markers.filter(m=>m.track===t).forEach(m=>{ const k=el('div','marker'); k.style.left=pct(xOf(m.date)); k.dataset.tip=JSON.stringify({t:m.label, s:m.date}); row.append(k); });
+  addRow(lab, row);
+});
+// known gaps annotation row
+(function(){
+  const lab = el('div','lab track','Known gaps');
+  const row = el('div','band-row gaps-row');
+  const spans = [
+    ['1988-11-01','2007-01-01','Pre-digital childhood','Nothing outside the wiki for 1988–2006: no messages, Facebook, sent mail, dated photos or tweets.'],
+    ['2010-01-01','2015-01-01','Message corpus gap','The iMessage export holds 1 row before Nov 2015 (plus the 317 recovered Suz SMS of 2010 and 618 Google Talk conversations). Google Voice, which may cover these years, is not in the repo.'],
+    ['2021-01-01','2023-01-01','Msg gap','iMessage: 282 rows in 2021, zero in 2022.'],
+    ['2022-09-05','2026-01-01','No Facebook export','The only Facebook export is dated 2022-09-05. Messenger and posts after that are not on disk.'],
+  ];
+  spans.forEach(([a,b,t,n])=>{ const s=el('div','span'); s.style.left=pct(xOf(a)); s.style.width=pct(xOf(b)-xOf(a)); s.append(el('span',null,t)); s.dataset.tip=JSON.stringify({t, s:a.slice(0,4)+'–'+(Number(b.slice(0,4))-(b.endsWith('01-01')?1:0)), n}); row.append(s); });
+  addRow(lab, row);
+})();
+arr.append(el('div','sep')); rowCount++;
+// score row
+(function(){
+  const lab = el('div','lab','Coverage'); lab.append(el('small',null,'score'));
+  const nodes = D.score.map((s,i)=>{ const c=el('div','cell'); c.dataset.lane='score'; c.dataset.i=i; cellRefs.push({lane:'score',i,node:c}); return c; });
+  addRow(lab, nodes);
+})();
+function laneRow(l){
+  const lab = el('div','lab', l.label); lab.append(el('small',null,l.unit)); lab.title=l.desc;
+  const nodes = l.counts.map((c,i)=>{ const n=el('div','cell'); n.dataset.lane=l.id; n.dataset.i=i; cellRefs.push({lane:l.id,i,node:n}); return n; });
+  addRow(lab, nodes);
+}
+lanes.filter(l=>l.group==='primary').forEach(laneRow);
+(function(){ const lab=el('div','lab group','Other channels'); const note=el('div',null); note.style.gridColumn='2 / -1'; note.style.cssText+='font-size:11px;color:var(--ink-3);padding:10px 0 2px 6px;font-family:var(--mono)'; note.textContent='on disk, shown for context, not in the coverage score'; addRow(lab, note); })();
+lanes.filter(l=>l.group==='secondary').forEach(laneRow);
+
+arr.style.gridTemplateRows = 'repeat('+rowCount+', auto)';
+const colhi = el('div','colhi'); colhi.style.gridRow='1 / -1'; colhi.hidden=true; arr.append(colhi);
+const playhead = el('div','playhead'); playhead.style.gridRow='2 / -1'; arr.append(playhead);
+
+function paint(){
+  cellRefs.forEach(({lane,i,node})=>{
+    if(lane==='score'){ node.style.background = ramp(D.score[i]); return; }
+    const l = lanes.find(x=>x.id===lane); const c=l.counts[i];
+    if(isGap(l,c)){ node.className='cell gap'+(c>0?' some':''); node.style.background=''; }
+    else { node.className='cell'; node.style.background = ramp(val(l,c)); }
+  });
+  $('sc-log').setAttribute('aria-pressed', state.scale==='log');
+  $('sc-sqrt').setAttribute('aria-pressed', state.scale==='sqrt');
+}
+
+/* ---------- legend ---------- */
+(function(){
+  const lg=$('legend');
+  const r=el('span'); const sw=el('span','sw ramp'); sw.style.background='linear-gradient(90deg,'+[0,.2,.4,.6,.8,1].map(v=>ramp(v)).join(',')+')';
+  r.append(sw, document.createTextNode('low → the channel’s own peak year (each row scaled separately)'));
+  const h=el('span'); h.append(el('span','sw hatch'), document.createTextNode('under 2% of that channel’s peak'));
+  const dt=el('span'); dt.append(el('span','sw dot'), document.createTextNode('same, but a few items exist'));
+  const u=el('span'); u.append(el('span','sw unc'), document.createTextNode('dashed = dates uncertain'));
+  const p=el('span'); p.append(el('span','sw ph'), document.createTextNode('pinned year'));
+  const m=el('span'); const mk=el('span','sw'); mk.style.cssText='width:9px;height:9px;background:var(--amber);transform:rotate(45deg);margin-right:8px'; m.append(mk, document.createTextNode('dated moment'));
+  lg.append(r,h,dt,u,p,m);
+})();
+
+/* ---------- detail ---------- */
+function erasIn(y){ return D.eras.filter(e=> Number(e.start.slice(0,4))<=y && Number(e.end.slice(0,4))>=y); }
+function rankOf(y){ const s=D.score[y-Y0]; return 1+D.score.filter(v=>v>s).length; }
+function renderDetail(y){
+  const i=y-Y0, L=$('d-left'), R=$('d-right'); L.replaceChildren(); R.replaceChildren();
+  const head=el('div','dhead'); head.append(el('div','dyear',String(y)));
+  head.append(el('div','dmeta', ageIn(y)+' · coverage '+Math.round(D.score[i]*100)+'/100 · rank '+rankOf(y)+' of 39'));
+  L.append(head);
+  const chips=el('div','chips'); const es=erasIn(y);
+  if(!es.length) chips.append(el('span','chip','No labelled era'));
+  es.forEach(e=>chips.append(el('span','chip'+(e.uncertain?' unc':''), e.label)));
+  L.append(chips);
+  L.append(el('h3','dsub','Items on record'));
+  const ul=el('ul','counts');
+  let lastGroup='primary';
+  lanes.forEach(l=>{
+    if(l.group!==lastGroup){ ul.append(el('hr')); lastGroup=l.group; }
+    const c=l.counts[i]; const li=el('li', l.group==='secondary'?'sec':null);
+    li.append(el('span','nm',l.label));
+    const bar=el('span','bar'); const f=el('i'); f.style.width=(val(l,c)*100)+'%'; f.style.background=ramp(val(l,c)); bar.append(f); li.append(bar);
+    li.append(el('span','v'+(c?'':' zero'), fmt(c)));
+    const subs=l.subs[String(y)]; const flag=l.flags[String(y)];
+    const parts=[];
+    if(subs && Object.keys(subs).length>1) parts.push(Object.entries(subs).sort((a,b)=>b[1]-a[1]).map(([k,v])=>k+' '+fmt(v)).join(' · '));
+    if(isGap(l,c) && l.peak) parts.push('under 2% of peak ('+fmt(l.peak)+' in '+l.peakYear+')');
+    if(parts.length || flag){ const s=el('span','sub', parts.join(' · ')); if(flag){ s.append(document.createElement('br')); s.append(el('span','flag',flag)); } li.append(s); }
+    ul.append(li);
+  });
+  L.append(ul);
+
+  R.append(el('h3','dsub','From the wiki'));
+  const evs=D.events[String(y)]||[];
+  if(!evs.length){
+    R.append(el('p','empty', D.emptyNotes[String(y)] || 'No dated events for this year in the wiki period articles or anywhere else in the wiki that could be verified as an event in Dan’s life.'));
+  } else {
+    const list=el('ul','evs');
+    evs.forEach(e=>{ const li=el('li'); li.append(el('span','when',e.date)); const w=el('div','what'); w.append(document.createTextNode(e.text));
+      const src=el('span','src', e.src + (e.period?'':' · not a period article')); w.append(src);
+      if(e.flag){ w.append(el('span','flag','uncertain: '+e.flag)); }
+      li.append(w); list.append(li); });
+    R.append(list);
+    if(!evs.some(e=>e.period)) R.append(el('p','empty','None of the wiki period articles has a dated event for this year; the events above come from other wiki pages.'));
+  }
+}
+
+/* ---------- selection ---------- */
+function show(y){ renderDetail(y); }
+function setPin(y, focus){
+  state.pinned=y; const i=y-Y0;
+  playhead.style.gridColumn=(i+2)+' / span 1';
+  yrBtns.forEach((b,k)=>{ b.classList.toggle('on',k===i); b.tabIndex = k===i?0:-1; b.setAttribute('aria-pressed', k===i); });
+  if(focus) yrBtns[i].focus({preventScroll:false});
+  show(y); syncTable();
+}
+function yearAt(clientX){
+  for(let k=0;k<yrBtns.length;k++){ const r=yrBtns[k].getBoundingClientRect(); if(clientX>=r.left && clientX<r.right) return k; }
+  return -1;
+}
+const tip=$('tip');
+function placeTip(e){ const pad=14; let x=e.clientX+pad, y=e.clientY+pad; const w=tip.offsetWidth, h=tip.offsetHeight;
+  if(x+w>innerWidth-8) x=e.clientX-w-pad; if(y+h>innerHeight-8) y=e.clientY-h-pad; tip.style.left=x+'px'; tip.style.top=y+'px'; }
+function tipFor(target, k){
+  tip.replaceChildren();
+  if(target && target.dataset && target.dataset.tip){ const t=JSON.parse(target.dataset.tip); tip.append(el('strong',null,t.t)); if(t.s) tip.append(el('div',null,t.s)); if(t.n) tip.append(el('div',null,t.n)); if(t.u){ tip.append(el('em',null,'Dates uncertain')); } return true; }
+  if(target && target.dataset && target.dataset.lane!=null && k>=0){
+    const y=Y0+k;
+    if(target.dataset.lane==='score'){ tip.append(el('strong',null, Math.round(D.score[k]*100)+' / 100')); tip.append(el('div',null,'Coverage score, '+y+' · rank '+rankOf(y)+' of 39')); return true; }
+    const l=lanes.find(x=>x.id===target.dataset.lane); const c=l.counts[k];
+    tip.append(el('strong',null, fmt(c)+' '+l.unit)); tip.append(el('div',null, l.label+', '+y));
+    if(isGap(l,c)) tip.append(el('div',null,'Hatched: under 2% of the peak ('+fmt(l.peak)+' in '+l.peakYear+')'));
+    const f=l.flags[String(y)]; if(f) tip.append(el('em',null,f));
+    return true;
+  }
+  return false;
+}
+arr.addEventListener('pointermove', e=>{
+  const k=yearAt(e.clientX);
+  if(k<0){ colhi.hidden=true; tip.hidden=true; return; }
+  colhi.hidden=false; colhi.style.gridColumn=(k+2)+' / span 1';
+  if(state.hover!==k){ state.hover=k; show(Y0+k); }
+  const t=e.target.closest('[data-tip],[data-lane]');
+  if(tipFor(t,k)){ tip.hidden=false; placeTip(e); } else tip.hidden=true;
+});
+arr.addEventListener('pointerleave', ()=>{ colhi.hidden=true; tip.hidden=true; state.hover=null; show(state.pinned); });
+arr.addEventListener('click', e=>{ const k=yearAt(e.clientX); if(k>=0) setPin(Y0+k, false); });
+yrBtns.forEach((b,k)=>{
+  b.addEventListener('keydown', e=>{
+    let n=null; if(e.key==='ArrowRight') n=k+1; else if(e.key==='ArrowLeft') n=k-1; else if(e.key==='Home') n=0; else if(e.key==='End') n=NY-1;
+    if(n!=null){ e.preventDefault(); n=Math.max(0,Math.min(NY-1,n)); setPin(Y0+n, true); }
+  });
+});
+$('sc-log').addEventListener('click', ()=>{ state.scale='log'; try{localStorage.setItem('lct-scale','log')}catch(e){} paint(); show(state.hover!=null?Y0+state.hover:state.pinned); });
+$('sc-sqrt').addEventListener('click', ()=>{ state.scale='sqrt'; try{localStorage.setItem('lct-scale','sqrt')}catch(e){} paint(); show(state.hover!=null?Y0+state.hover:state.pinned); });
+
+/* ---------- darkest ---------- */
+(function(){
+  const pb=$('preblock'); const pre=D.pre;
+  pb.append(el('b',null,'1988–2006 · the pre-digital block'));
+  const p=el('p'); p.textContent='All nineteen years sit below every year since 2007, so they are treated as one gap rather than ranked. Across those years: '+fmt(pre.messages)+' messages, '+fmt(pre.facebook)+' Facebook items, '+fmt(pre.gmail)+' sent emails, '+fmt(pre.photos)+' dated photos, '+fmt(pre.tweets)+' tweets. The wiki holds '+fmt(pre.wiki)+' dated events for the span, mostly family records, a concert log and later testimony. What could fill it: scanned family photos and home video with dates, school records (Laurel Highlands, Penn State Fayette), and the received mail already in dfrank88, which reaches back to 2006 but is not counted here.';
+  pb.append(p);
+  const g=$('darkgrid'); const prim=lanes.filter(l=>l.group==='primary');
+  const SHORT={messages:'msg',facebook:'fb',gmail:'mail',photos:'foto',tweets:'tw',wiki:'wiki'};
+  D.darkest.forEach((d,ix)=>{
+    const b=el('div','dcard');
+    const top=el('div','top'); top.append(el('span','y',String(d.year))); top.append(el('span','rk','#'+(ix+1)+' · '+Math.round(d.score*100)+'/100')); b.append(top);
+    const strip=el('div','strip'); const sl=el('div','strip-l');
+    prim.forEach(l=>{ const c=d.counts[l.id]; const i=el('i', isGap(l,c)?'gap':null); if(!isGap(l,c)) i.style.background=ramp(Math.log10(1+c)/Math.log10(1+l.peak)); i.title=l.label+': '+fmt(c); strip.append(i); sl.append(el('span',null,SHORT[l.id])); });
+    b.append(strip, sl);
+    b.append(el('h4',null,'What’s missing')); b.append(el('p',null,d.missing));
+    b.append(el('h4',null,'What could fill it'));
+    const ul=el('ul'); d.fill.forEach(f=>ul.append(el('li',null,f))); b.append(ul);
+    const go=el('button','go','Show '+d.year+' in detail'); go.type='button'; b.append(go);
+    go.addEventListener('click', ()=>{ setPin(d.year,false); $('detail').scrollIntoView({behavior: matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth', block:'start'}); });
+    g.append(b);
+  });
+})();
+
+/* ---------- table ---------- */
+function syncTable(){ document.querySelectorAll('#tbl tr[data-y]').forEach(r=>r.classList.toggle('selrow', Number(r.dataset.y)===state.pinned)); }
+(function(){
+  const t=$('tbl'); const thead=el('thead'); const hr=el('tr'); hr.append(el('th',null,'Year')); hr.append(el('th',null,'Score'));
+  lanes.forEach(l=>{ const th=el('th',null,l.label); th.title=l.unit; hr.append(th); }); thead.append(hr); t.append(thead);
+  const tb=el('tbody');
+  D.years.forEach((y,i)=>{ const tr=el('tr'); tr.dataset.y=y; tr.append(el('td',null,String(y))); tr.append(el('td',null,String(Math.round(D.score[i]*100))));
+    lanes.forEach(l=>{ const c=l.counts[i]; const td=el('td', (c?'':'z')+(l.flags[String(y)]?' fl':''), fmt(c)); if(l.flags[String(y)]) td.title=l.flags[String(y)]; tr.append(td); }); tb.append(tr); });
+  t.append(tb);
+  const cap=el('caption'); cap.style.cssText='caption-side:bottom;text-align:left;padding:10px;font-size:12px;color:var(--ink-3)'; cap.textContent='* the cell carries a note: a lower bound (Gmail 2011–2013) or automated sends (Gmail 2025–2026). Hover it for the note.'; t.append(cap);
+})();
+
+/* ---------- method ---------- */
+(function(){
+  const notes=[
+    'Rows are scaled to their own peak year, so brightness compares years within a channel, not channels with each other. Log is the default; square root makes thin years look darker.',
+    'Hatched means the year holds under 2% of that channel’s peak year. For Messages that is under 824 in a year, which is what makes the 2010–2014 and 2021–2022 gaps visible even though 2010 has 318 recovered texts.',
+    'Coverage score = the mean, over Messages, Facebook, Gmail, Photos, Tweets and Wiki events, of log10(1+count) / log10(1+peak). Instagram, Location, YouTube and ChatGPT are drawn but left out of the score because they log behaviour rather than document events.',
+    'The corpus.db index named in the brief is not present in this environment, so the Messages row was rebuilt from the raw exports it indexes. Totals will not match its ~779k documents: Google Voice is absent here, and corpus.db’s per-corpus counts may overlap (unverified).',
+    'Gmail counts threads with a sent message, per date window, using the connector’s result estimate. Gmail returns a “201” placeholder for some windows whatever their size; those windows were split until an exact figure came back, and exact figures were spot-checked by fetching full result pages (19/19, 5/5, 24/24, 24/24). 2011–2013 still contain 20 unresolved half-month windows, so those three years are lower bounds.',
+    'Events are hand-picked from the dated events bin/wiki-timeline extracts from the current wiki, and every excerpt was checked against its page. Period articles were preferred. When a year has none, other wiki pages are used and labelled. The wiki’s own caveats (testimony, disputed, approximate) are carried over as “uncertain”.',
+    'Nothing was estimated or imputed. A missing value is a zero, and a zero is drawn as a gap.',
+  ];
+  const ul=$('method-notes'); notes.forEach(n=>ul.append(el('li',null,n)));
+  const sl=$('srclist');
+  D.sources.forEach(s=>{ const li=el('li'); li.append(el('span','st '+s.state, s.state)); const w=el('div'); w.append(el('b',null,s.name)); w.append(el('span',null,s.detail)); li.append(w); sl.append(li); });
+})();
+
+paint();
+setPin(state.pinned, false);
+</script>
+
+</body>
+</html>
