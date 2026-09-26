@@ -27,3 +27,8 @@ Main-chat intimate exchange (~04:47–04:52Z, "Make me hard" sequence + goon-clu
 4. Tactical Autopsy audio: engine can't find it in NotebookLM — needs his re-export/share.
 5. 2010 Voice export still blocked on his iPhone tap (ihatedanfrank account).
 6. Life-coverage timeline draft PR #153 is open on wikibrain — review + merge.
+
+## External checks (arrived late, appended 2026-09-26 ~08:20 EDT)
+
+Instagram/Threads/Facebook/Messenger: zero new items since last watermarks.
+**Spotify: state change** — 98 → 127 playlists (~2 days, +29 burst); now-playing NONE. Full title inventory in playlists-inventory-20260926.json. [dat:2019-spotify-playlist-burst-20260926]
