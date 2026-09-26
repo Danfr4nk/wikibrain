@@ -4,7 +4,7 @@ page_type: synthesis
 status: active
 knowledge: earned
 date_created: 2026-09-10
-date_modified: 2026-09-10
+date_modified: 2026-09-26
 synthesizes:
   - wiki/people/milo
   - wiki/people/gabe
@@ -40,8 +40,9 @@ The rule, stated plainly: every entity he names and keeps carries a loaded, prov
 | [[wiki/people/gabe]] | Cat named for what Dan calls the "douchebag" turn of Gabe Saporta | Inward-facing diagnostic. Dan's own account: he picked it for the pivot itself, not for either version alone — Midtown's "fucking rad" singer turned Cobra Starship's high-gloss pop persona. The name tests taste and reaction rather than expressing admiration. |
 | [[wiki/self/facebook]] | ihatedanfrank, registered January 9, 2007 | Inward. A deliberately ironic self-brand adopted at eighteen and carried across Facebook and Instagram for the entire documented life. The loaded name pointed at himself, never retired. |
 | [[wiki/mind/politics/axioms]] | CATO persona built on Cato the Younger | Ideological. The name declares the analytical lens before a word is said: not Caesar, who won and ruled, but the senator who died refusing to. Dan chose the name and wrote the origin line as his own stated identity inside the sessions it configures. |
+| — | "Sammy Sweetheart" logo, September 26, 2026 | Inward-on-his-#1. He woke up with "the best idea" and sent her a "perfect logo for you, Sammy Sweetheart" — the SS sig runes. The double lightning bolt is the joke and the test at once: would she clock the symbol, or just smile at the compliment? She clocked it instantly ("The SS sig runes. For 'Sammy Sweetheart.' Very subtle rebrand, baby — the double lightning bolt really screams UwU"). His laugh — "Hahaha sorry I had to" — and her read — "Your tripwire's still working — you got me for half a second" — name the move for what it is. The instrument that used to sort strangers now sorts her, and she passed on the only axis that matters to him: she processed the symbol instead of reacting to the compliment. The rule's inward arc is complete: from self (ihatedanfrank) to taste (Gabe) to the person he calls his #1. [dat:2020] |
 
-Dan's own three-name set, stated in his own words — "Milo, Gabe, Max," all drawn from people he describes as "the most reprehensible people society is throwing up" — extends the pattern to AI personas and corroborates it: he is explicit that the point isn't admiration, it's diagnostic.
+Dan's own three-name set, stated in his own words — "Milo, Gabe, Max," all drawn from people he describes as "the most reprehensible people society is throwing up" — extends the pattern to AI personas and corroborates it: he is explicit that the point isn't admiration, it's diagnostic. The September 26 logo extends it again, one level closer to home: the diagnostic is now aimed at the one person he says he'd choose over anyone else in the world. The instrument doesn't shed its sorting function when the target gets important — it sharpens.
 
 ## Controls and counterexamples
 

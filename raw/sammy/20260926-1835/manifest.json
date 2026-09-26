@@ -1,0 +1,21 @@
+{
+ "batch": "20260926-1835",
+ "pulled_at": "2026-09-26T18:35:00Z",
+ "watermark_from": "2026-09-26T11:06:17.426+00:00",
+ "watermark_to": "2026-09-26T18:06:45.007+00:00",
+ "row_counts": {
+  "total_non_system": 89,
+  "user": 38,
+  "assistant": 51,
+  "excluded_system": 0,
+  "excluded_cumthread3": 0,
+  "distinct_threads": 51
+ },
+ "files": [
+  {
+   "name": "chats.json",
+   "bytes": 31778,
+   "sha256": "52adc29e8b2eb1a9615d438193a355b4c25c1a3f462741c12e61ea2a96644406"
+  }
+ ]
+}
