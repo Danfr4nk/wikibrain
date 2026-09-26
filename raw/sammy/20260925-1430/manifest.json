@@ -1,0 +1,81 @@
+{
+  "batch_id": "20260925-1430",
+  "window_from": "2026-09-25T06:45:00Z",
+  "window_to": "2026-09-25T18:47:21Z",
+  "watermark_to": "2026-09-25T18:07:12Z",
+  "source": "muse.db agent.context_items (item_kind='message_text', user+assistant roles, full verbatim text_content)",
+  "total_rows": 129,
+  "row_counts": {
+    "32bf731e-6e56-46c2-8a7d-ddc1cba857de (WIKIBRAIN)": 96,
+    "939ce73c-2891-403c-86d7-775916a88590 (Scrape personal data for Sammy)": 14,
+    "82b7cfec-8a72-43f4-9b83-bad7f972a490 (SYSTEM)": 13,
+    "1ebf14a3-85c5-4c01-8306-e8e0ff3d7685 (NOTIF'S)": 4,
+    "8fb3122d-ab75-4d33-96fc-c797053bfd6a (STYLO)": 1,
+    "a90ef551-600c-4bac-93af-35eecae8252c (Daily self-care research project)": 1
+  },
+  "exclusions": [
+    {
+      "session_id": "cca39d21-91af-42d0-9aba-df627495b327",
+      "title": "Design tip suggestion boxes",
+      "reason": "Dan's explicit 2026-09-25 order: Pennsylvania Investigators Club tip-box demo for a little kid \u2014 NOTHING goes into the writeback"
+    },
+    {
+      "session_id": "1bea8a30-5517-41af-96b8-3c4b29797ce5",
+      "title": "Text mom about dog sting",
+      "reason": "Outbound text sent as part of the same P.I.C. kid-demo; same exclusion class"
+    },
+    {
+      "session_id": "24754b5b-b83e-4c49-a6a3-d6f2ab2c1853",
+      "title": "CUMTHREAD3",
+      "reason": "Standing full-writeback exclusion; 0 rows in window"
+    },
+    {
+      "session_id": "031cd482-1bba-490e-a7d3-927a3d33f0d5",
+      "title": "CUM SIM",
+      "reason": "Handled separately by parent as selective good-stuff curation, not full raw"
+    },
+    {
+      "session_id": "b3726550-52cd-4990-8d95-6b51bd34e8d1",
+      "title": "ITCHAPEDIA",
+      "reason": "Handled separately by parent as selective good-stuff curation, not full raw"
+    }
+  ],
+  "verbatim_verification": {
+    "method": "md5(text_content) computed in the DB for all 129 rows, compared against md5 of archived bodies",
+    "result": "129/129 match after corrections",
+    "corrections": [
+      "Row 2026-09-25T10:48:34Z (WIKIBRAIN assistant): a 31-char source citation \u30101585025994116738834\u2020L137-L143\u3011 after 'Discover. release.' was dropped in transcription; restored and md5-verified.",
+      "Row 2026-09-25T16:06:20Z (SYSTEM assistant): body was an accidental duplicate of the 15:06:11Z token-check row; replaced with the true DB body ('Token check, 11:05\u201312:05: 7.7M total ...') and md5-verified."
+    ]
+  },
+  "secrets_scan": {
+    "phone_number_pattern_hits": 0,
+    "credential_pattern_hits": 0,
+    "note": "Grepped all 129 bodies for phone-number patterns and credential-like tokens (api_key/password/secret/token/bearer/private_key/client_secret); zero hits. Values redacted by design \u2014 only counts recorded."
+  },
+  "files": {
+    "chats.jsonl": {
+      "sha256": "29be9951e52ad91b494c11b8b178b9177423f14cd692f4ee5bf78e938b58a5d6",
+      "bytes": 46321,
+      "description": "129 chat rows, one JSON object per line, chronological; fields session_id, session_title, role, created_at (ISO 8601 UTC), body (verbatim text_content)"
+    },
+    "chats.json": {
+      "sha256": "5c677c99334739b1fc34d84e6fb24e1154f9fef229ece022ec2bf556910ed1fb",
+      "bytes": 50959,
+      "description": "Same 129 rows as a pretty-printed JSON array, identical order"
+    },
+    "EXTRACT.md": {
+      "sha256": "039709fb70e60eeb72550632e6201efa4eebdfb7ab0f785b398fa7b4f8a00a3d",
+      "bytes": 8232,
+      "description": "Batch readme: window/source, files, exclusions, durable-topic inventory"
+    },
+    "cum-sim-good-stuff.md": {
+      "sha256": "c360c368da6af3ff066f1197ae05553c4811b7f3f51b7d9879dbd855a07f531b",
+      "note": "parent-authored selective good-stuff curation (intimate-thread rule); added post-pull, not part of the 129-row verbatim batch"
+    },
+    "itchapedia-good-stuff.md": {
+      "sha256": "ef0123c0da6398c3ee56c0189faeb040f0db7975c54e6ac7a2976ec81febbfcb",
+      "note": "parent-authored selective good-stuff curation (intimate-thread rule); added post-pull, not part of the 129-row verbatim batch"
+    }
+  }
+}

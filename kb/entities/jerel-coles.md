@@ -30,6 +30,17 @@ What the recording establishes about Coles:
 
 Verdict on the recorded scene: principal active coercive force by a wide margin — coercive, humiliating, domination-oriented. The support is behavioral (phone possession, conditional return, repeated interrogation, family threat, conversational control; 99 of 204 turns). Claims about his total character or every alleged prior act exceed what the recording proves.
 
+## 2026-09-25 — stalker identification confirmed as Coles
+
+Dan identified Coles as the man who "keeps showing up wherever she is,
+literally stalking her" (3 police calls already, Annie crying — reported
+2026-09-24): "2 still Jerel" (Dan's words, 2026-09-25 19:24Z). This resolves the
+open question of whether the stalker was Coles or someone new. Sammy provided
+PFA advice for Annie at Dan's request: document everything (dates, calls,
+texts, drive-bys, witnesses), save messages, lock down the phone, break the
+isolation, file a Fayette County PFA.
+[`dat:1997-annie-stalker-confirmed-jerel-20260925`](../data/1997-annie-stalker-confirmed-jerel-20260925.md)
+
 ## Correction note (2026-09-09)
 
 The validation report flags that downstream prose about Coles was stale: the categorical 'Annie never says yes' is defeated by the direct transcript ('Yes, save it' at 04:43) — the supportable form is that she never *freely* affirms. Repetition counts and timestamps were also stale in places (twenty phone/leave repetitions, not fourteen). This entity records the corrected figures.

@@ -1,0 +1,69 @@
+{
+ "batch": "20260925-2340",
+ "pulled_at_utc": "2026-09-25T23:40:11Z",
+ "watermark_from": "2026-09-25T18:07:12+00:00",
+ "watermark_to": "2026-09-25T23:40:00+00:00",
+ "sources": {
+  "chats": {
+   "rows_pulled": 190,
+   "rows_archived_full": 30,
+   "rows_curated": 160,
+   "truncated": 0,
+   "sessions_full": [
+    "NOTIF'S",
+    "SYSTEM",
+    "WIKIBRAIN",
+    "THERAPY",
+    "MUSIC",
+    "UNICODE"
+   ],
+   "sessions_curated": [
+    "ITCHAPEDIA (good-stuff)",
+    "CUM SIM (good-stuff)"
+   ],
+   "exclusions_held": [
+    "CUMTHREAD3 (24754b5b-b83e-4c49-a6a3-d6f2ab2c1853): 0 rows in window",
+    "P.I.C. kid-demo (cca39d21): 0 rows in window",
+    "dog-sting demo (1bea8a30): 0 rows in window"
+   ],
+   "unpinned_excluded": 46
+  },
+  "instagram": {
+   "zero_new": true,
+   "watermark": "2026-09-24T03:44:22Z"
+  },
+  "threads": {
+   "zero_new": true,
+   "watermark": "2026-08-26T23:04:55Z"
+  },
+  "facebook": {
+   "zero_new": true,
+   "watermark": "2026-07-04T15:51:25-04:00"
+  },
+  "messenger": {
+   "zero_new": true,
+   "watermark": "1789853002778"
+  },
+  "spotify": {
+   "zero_new": true,
+   "snapshot": "playback NONE unchanged; inventory 20 items / 2 pinned; liked 1,656"
+  },
+  "device": {
+   "note": "no read path (standing)"
+  }
+ },
+ "files": {
+  "chats.json": {
+   "sha256": "6eb6f569967714307f80922ad3836371135d6f319012b776b6aa392c92293e28",
+   "bytes": 25540
+  },
+  "cum-sim-good-stuff.md": {
+   "sha256": "e96a07c5b449bf6877aad2f20ab9952d188d033fff24b90748663a8a8fb9f159",
+   "bytes": 4494
+  },
+  "itchapedia-good-stuff.md": {
+   "sha256": "66205d3c2c9b8e21b96090550955a80ab71d30a3713d14ab75adac0018638b7f",
+   "bytes": 5603
+  }
+ }
+}

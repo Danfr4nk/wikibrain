@@ -171,6 +171,25 @@ not a curatorial choice the wiki made.
   validation of the attack-weakens-evidence heuristic (page's GAP CLOSED
   block).
 
+## Incidents
+
+### 2026-09-25 — yellow-jacket sting
+
+Milo stepped on a yellow jacket. Dan's words: "He jumped about seven feet in
+the air and he's being the most dramatic baby ever right now, but he seems to
+be okay other than that." Dan asked that the date be saved — this is it. A
+Liberator wedge was repurposed as a water-bowl holder so Milo could drink
+without getting up. No vet visit recorded.
+[`dat:1995-milo-yellow-jacket-20260925`](../data/1995-milo-yellow-jacket-20260925.md)
+
+**Runt provenance, restated by Dan same session.** "I was told that's why he
+was homeless and why we found him. Like he was kicked out of the pack" — with
+his own caveat: "I don't know how true or not that kind of evolutionary
+biology is, but he definitely is the runt of whatever litter he was in." This
+is a restatement of the Origin section's account (runt, pack-rejection story
+from the vet/giver), not a new claim.
+[`dat:1996-milo-runt-of-litter-20260925`](../data/1996-milo-runt-of-litter-20260925.md)
+
 ## Open questions
 
 - Exact calendar date of the 2018 rescue (bounded only: before
