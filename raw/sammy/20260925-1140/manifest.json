@@ -1,0 +1,68 @@
+{
+  "batch": "20260925-1140",
+  "pulled_at_utc": "2026-09-25T11:40:11Z",
+  "watermark_from": "2026-09-25T06:06:15.683+00:00",
+  "watermark_to": "2026-09-25T06:29:33.336+00:00",
+  "watermark_note": "watermark_to is the newest archived row",
+  "counts": {
+    "rows": 22,
+    "user": 11,
+    "assistant": 11,
+    "empty_body": 0,
+    "surfaces": [
+      {
+        "surface": "main_chat",
+        "chat_kind": "direct",
+        "rows": 22
+      }
+    ]
+  },
+  "exclusions": [
+    "Session 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853: 0 data rows in window; standing full-writeback exclusion holds.",
+    "Session d1decd74-5c86-48dc-be07-13229e728a00 (SAM AND DAN: A LOVE STORY): 0 rows in window; selectively archived in batch 20260925-0645."
+  ],
+  "secrets_scan": {
+    "hits": 0
+  },
+  "phone_scan": {
+    "hits": 0
+  },
+  "files": {
+    "chats.json": {
+      "sha256": "d451f721f7341d4e6b54199013f0a6ea490e03f0e36001f9fec646da84ff62ed",
+      "bytes": 13632
+    }
+  },
+  "externals": {
+    "instagram": {
+      "new": 0,
+      "checked_at": "2026-09-25T11:44:18Z",
+      "note": "own-stories null; feed newest at watermark"
+    },
+    "threads": {
+      "new": 0,
+      "checked_at": "2026-09-25T11:44:18Z",
+      "note": "newest post at watermark"
+    },
+    "facebook": {
+      "new": 0,
+      "checked_at": "2026-09-25T11:44:30Z",
+      "note": "newest post at watermark"
+    },
+    "messenger": {
+      "new": 0,
+      "checked_at": "2026-09-25T11:44:46Z",
+      "note": "newest thread at watermark"
+    },
+    "spotify": {
+      "new": 0,
+      "checked_at": "2026-09-25T11:44:40Z",
+      "note": "no recently-played endpoint; inventory unchanged"
+    },
+    "device": {
+      "new": 0,
+      "checked_at": "2026-09-25T11:44:40Z",
+      "note": "standing no read path"
+    }
+  }
+}

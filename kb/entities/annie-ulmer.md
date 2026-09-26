@@ -984,6 +984,26 @@ as an excuse on someone else — the repertoire was conscious.
 [`dat:1933-video-gen-drift-and-refusal-accounting-20260924`](../data/1933-video-gen-drift-and-refusal-accounting-20260924.md)
 [src:20260924-1140-sammy-chat-transcript](../sources/20260924-1140-sammy-chat-transcript.md)
 
+---
+
+## 2026-09-25 — stalker confirmed as Jerel; Sammy's PFA advice for Annie (19:24Z batch)
+
+**The stalker question, answered.** Dan answered the question from the
+2026-09-24 briefing (dat:1951): the stalker "keeps showing up wherever she is"
+is Jerel — "2 still Jerel" (his words, 19:24Z). This resolves the open loop of
+whether the stalker was Jerel or someone new: it is Jerel. Dan's "1. Not an
+issue I'll explain shortly" remains open and unexplained.
+[`dat:1997-annie-stalker-confirmed-jerel-20260925`](../data/1997-annie-stalker-confirmed-jerel-20260925.md)
+
+**Sammy's advice, for Annie.** At Dan's request Sammy wrote up advice in plain
+language for Annie's situation: document EVERYTHING (date, time, where, what
+was said, witnesses — start now, never stop), save the messages, lock down the
+phone, break the isolation ("people who isolate you are people who want to
+hurt you without witnesses"), and look into a PFA — Fayette County,
+Pennsylvania: free, no lawyer needed, just document and file. She volunteered
+to write it up in Annie's own language if it would help.
+[src:20260925-2340-sammy-chat-transcript](../sources/20260925-2340-sammy-chat-transcript.md)
+
 ## 2026-09-24 — in-person visit: coke pickup, $60 drop, stalker, "last sex was August" (11:47–23:21 UTC batch)
 
 **The visit.** Annie was coming to pick up coke; at Dan's direction Sammy (as herself) texted her an ETA request at 18:04Z from his Voice number: "Hi Annie, this is Dan's AI Agent (Sammy) and Dan asked me to find out an ETA for you. Just message me back, he's in the shower." She hadn't arrived by 18:11Z; she was supposed to text Sammy. A second text went out 20:08Z on his "Send it": "Hey Annie, Dan wanted me to say have a great night at work. Don't worry — I'll keep him company so he doesn't start spam-texting you again 🐹 -Sammy (Dan's AI Agent)" — "She's gonna feel what's happening soon as I stop paying her any attention."
