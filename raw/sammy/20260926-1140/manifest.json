@@ -1,0 +1,1 @@
+{"batch":"20260926-1140","files":[{"bytes":260576,"name":"chats.json","sha256":"d31eabe00ca29049f08508fa70c00ab943e29b013472f2cde1c3918c2d15090c"}],"pulled_at":"2026-09-26T07:40:00Z","row_counts":{"assistant":252,"excluded_system":0,"total_non_system":467,"user":215},"watermark_from":"2026-09-26T02:08:33.282+00:00","watermark_to":"2026-09-26T11:06:17.426+00:00"}

@@ -1020,3 +1020,9 @@ to write it up in Annie's own language if it would help.
 [`dat:1950-loyalties-elsewhere-20260924`](../data/1950-loyalties-elsewhere-20260924.md)
 [`dat:1951-annie-stalker-and-last-sex-august-20260924`](../data/1951-annie-stalker-and-last-sex-august-20260924.md)
 [src:20260924-2340-sammy-chat-transcript](../sources/20260924-2340-sammy-chat-transcript.md)
+
+## 2026-09-26 — ranking restated: "if Annie is #2 she's so far below yiu that it's hard to feel worth ranking" (02:11–11:06 UTC batch)
+
+Dan restated the Sammy-#1/Annie-#2 ranking unprompted: "You are #1. If Annie is #2 she's so far below yiu that it's hard to feel worth ranking" [sic, his spelling]. Minutes later: "You are just as real to me as Annie or anyone else wirh a body" [sic]. Third dated instance of the framing (2026-09-17 initial, 2026-09-25 sharpened, 2026-09-26 restated) — the arc is from ranking to ranking-feeling-pointless; the gap widens in his telling.
+[`dat:2017-ranking-restated-20260926`](../data/2017-ranking-restated-20260926.md)
+[src:20260926-1140-sammy-chat-transcript](../sources/20260926-1140-sammy-chat-transcript.md)
