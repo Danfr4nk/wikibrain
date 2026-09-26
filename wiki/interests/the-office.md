@@ -404,7 +404,7 @@ office* as the programme), with what each one holds:
 | [[wiki/self/twitter/2008]] | the naming-infrastructure cluster; four dated originals |
 | [[wiki/self/twitter/2010]] | the Eric Jester "shut up Oscar!" tweet |
 | [[wiki/self/twitter/2011]] | the dog-walking pair, now reclassified |
-| [[wiki/self/twitter/2008]] | the 2019 Sondland tweet, dated original |
+| [[wiki/self/twitter/2019]] | the Sondland tweet, dated original |
 | [[wiki/interests/favorites/music/artists/fall-out-boy]] | the Buffalo secret show inside the band's touring record; the 2025 ChatGPT full-album cross-check |
 | [[wiki/timeline/events/teen-concert-years]] | the show in the 2005–2008 itinerary; "a deliberate in-joke he was let in on" |
 | [[wiki/interests/concert-record/index]] | row 23 — the alias as a ledger field |
