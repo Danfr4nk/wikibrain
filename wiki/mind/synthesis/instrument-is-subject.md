@@ -87,6 +87,17 @@ connections:
 > checked by grep against every changed figure and claim — so nothing here is
 > rederived. Recorded rather than date-bumped, per `CLAUDE.md` §3.
 
+> **RE-CHECKED [2026-09-26] — premise moved, conclusion unaffected.**
+> [[wiki/mind/synthesis/ai-collaborative-analysis]] moved on 2026-09-13 by a
+> purely additive subsection (the Star-of-David entry under "AI pushback and
+> ethical friction," with the nuance that the refusal held at adoption rather
+> than generation — the pipeline and the wearing are separate systems). This
+> page's three claims reasoning from that page cite the daily-organ thesis
+> (26,348 'ai' mentions in the activity archive) and the honesty-enforcement /
+> steelman modes — checked by grep for the friction series, `star-of-david`,
+> `dat:1488` and `dat:1496`: no claim on this page touches the moved material.
+> No claim withdrawn. The moved material does not contradict anything here.
+
 This wiki is written by a large language model, about a person for whom large
 [[wiki/self/concepts/llm|language models]] are a documented daily cognitive organ, using an evidentiary
 standard that person wrote. Those three facts are each recorded separately

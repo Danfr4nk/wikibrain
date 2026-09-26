@@ -257,8 +257,63 @@ admitted in the same exchange that he already had the answer and was testing
 whether the model would spot the writing-specific instrument — the standing
 adversarial-evaluation pattern applied to the instrumentation itself.
 
+### State Calibration Battery — pre/post protocol (2026-09-12/13)
+
+Around 23:49 ET on 2026-09-12 Dan commissioned the battery's next layer: a
+pre/post **State Calibration** protocol for cannabis intoxication — run the
+battery sober, get stoned, run it again 30–45 minutes later, and map the
+per-metric delta. The build landed the same night, not as a new page but as
+a patch applied to the already-built battery artifact (`patch_prepost.py` in
+the `.src/` build chain), which had in the meantime also absorbed the
+6-minute writing sample as its final block. The full instrument is one
+self-contained HTML file with a dark, iPhone-oriented interface; every run
+stays in on-device local history.
+
+The test sequence, as built: a Check-in block (Mood / Energy / Sleep
+self-report); four psychomotor tests — reaction time ("Tap when it turns
+green"), digit span ("Repeat the digits"), Stroop ("Tap the INK color"),
+finger tap ("Tap as fast as you can"); a typing test ("Type it, fast and
+clean"); the six-minute writing sample; then the analysis layer: Past runs
+(local history, each run tagged PRE, POST, or untagged), Map the change
+(per-metric absolute and percentage deltas across the cognitive tests, the
+vitals, and the writing statistics, with automatic or manual PRE/POST
+pairing), Writing contrast (side-by-side pre/post samples), and one
+paste-ready combined PRE/POST analysis block meant for pasting into chat so
+the deltas enter the stylometry label log. The writing block later had a
+second life outside the instrument: STREAM became its chat-stripped,
+writing-only port.
+
+The first recorded run came around 01:09 ET that night: reaction time ~348ms
+average, digit span 6, 105 finger taps, and one memorable typo — "Meta muse
+is wild" — in the typing block. But the cannabis hitter went in before the
+run, so it logged as POST with no sober baseline to pair against; a clean
+sober PRE was still pending when the batch closed, and it never materialized
+after. An early-stop race bug — late taps and timers firing into the next
+writing prompt — was reported around 01:10 ET and fixed by ~01:14 ET; the
+`.src/` chain preserves the original, pre/post, and source builds, the patch
+script, and the race-condition regression test. Confidence on the build
+details: high — they are verified against the artifact itself, not the chat
+transcript.
+
+Limits, stated plainly, because the whole point of the instrument is honest
+calibration. There is no clean sober PRE on record to this day. And the one
+logged "post" run confounds the substance of interest: that session also
+involved roughly a gram of cocaine alongside the cannabis, so even with a
+sober baseline it could not isolate a cannabis delta. The calibration gate
+settled days later was ≥5 same-day labeled episodes per state before any
+per-state signature could be claimed — as of 2026-09-16 the log held cocaine
+2, cannabis 1, cannabis-high 1, sleep 1, suboxone 1: nowhere near. So the
+State Calibration Battery stands as a deployed protocol, not a calibrated
+one — and that distinction is load-bearing. It is the record's first
+deliberate within-subject pharmacological self-experiment protocol: a
+subjective state change converted into controlled before/after
+instrumentation rather than retrospective impression, waiting on the labeled
+data that would let it speak.
+
 Evidence: `dat:1456-baseline-testing-battery`, `dat:1457-writing-sample-instrument`,
-`dat:1458-suboxone-and-onset-label-20260912`.
+`dat:1458-suboxone-and-onset-label-20260912`,
+`dat:1482-state-calibration-battery-gains-pre-post-cannabis-delta-prot`,
+`src:state-calibration-battery-html-20260913`.
 
 **Gaps:** the stylometric layers analyze the texting/AI corpus; no formal
 analysis exists of the lyric/production-adjacent writing or of speech

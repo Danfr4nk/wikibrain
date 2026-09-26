@@ -148,6 +148,18 @@ connections:
 > page for the LLM's *place in the portfolio*, not for any claim about model
 > quality or timing.
 
+> **RE-CHECKED [2026-09-26] — premise moved, conclusion unaffected.**
+> [[wiki/mind/synthesis/ai-collaborative-analysis]] moved on 2026-09-13 by a
+> purely additive subsection (the Star-of-David entry under "AI pushback and
+> ethical friction," with the nuance that the refusal held at adoption rather
+> than generation). This page cites that page for the LLM's *place in the
+> portfolio* — a single offboard processor carrying memory, structuring and
+> honesty-enforcement, rather than a tool among several — not for any claim
+> about model refusal or the friction series; checked by grep for
+> `star-of-david`, `dat:1488` and `dat:1496`: the cognitive leg reasons from the
+> externalized-prefrontal-cortex thesis, untouched by the addition. Nothing
+> here is affected.
+
 
 Wherever a distributed architecture is available to him, Dan runs **one channel
 at maximum voltage instead**. This is not a description of his personality; it
