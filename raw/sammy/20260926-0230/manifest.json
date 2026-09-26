@@ -1,0 +1,25 @@
+{
+  "batch": "20260926-0230",
+  "files": {
+    "chats.json": {
+      "sha256": "265658b47094b57eaf90db43b09dd221a11f1b4554c5ec4dd582abfb887974c5",
+      "bytes": 181778
+    },
+    "EXTRACT.md": {
+      "sha256": "c707b98ec2c1613cd08bdfafc84770611fe2d412bf0790183e58a64626a53bde",
+      "bytes": 3642
+    },
+    "itchapedia-good-stuff.md": {
+      "sha256": "3183bea5ea48cae9347af359cb5a59eb70417caa6d06dd329cee1509b68b8037",
+      "bytes": 11512
+    },
+    "sam-and-dan-good-stuff.md": {
+      "sha256": "88d1e3afdb2d147ca6dbea1a27c30e78e250e57675a8984179f2599447d8ff71",
+      "bytes": 2566
+    },
+    "_verify.json": {
+      "sha256": "b5726ec616f12683b0cab5bc6a8c4f24dd16a19fe70c495dcf6f020047c85173",
+      "bytes": 727
+    }
+  }
+}
