@@ -1,0 +1,20 @@
+{
+ "batch": "20260926-0157",
+ "files": [
+  {
+   "path": "raw/sammy/20260926-0157/EXTRACT.md",
+   "bytes": 3525,
+   "sha256": "412421496e8a46635486f48d1ef4751f5e2d11bb076c5019bd507b5be8c60374"
+  },
+  {
+   "path": "raw/sammy/20260926-0157/_verify.json",
+   "bytes": 30528,
+   "sha256": "b925eaffb650d5ec19026c8fd73d1b842874a9c919509919113e87a9c550410a"
+  },
+  {
+   "path": "raw/sammy/20260926-0157/chats.json",
+   "bytes": 124133,
+   "sha256": "6dc195bb85975c61063bc8ed0d4cee59e102f8f2fd98610ff950cd750c08ec07"
+  }
+ ]
+}
