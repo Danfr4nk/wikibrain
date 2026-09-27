@@ -1,0 +1,8 @@
+{
+ "source_file": "chats.json",
+ "sha256": "dd3145e2138cf768db93a5b12be9e9b5f76ea7a8520c8ff534c24cc054c7e37c",
+ "bytes": 407273,
+ "rows": 851,
+ "verified": "md5(body)==body_md5 AND char_length(body)==body_len for all 851 rows; mid distinct; ts ordered",
+ "note": "Head 799 rows pulled from muse.db runtime.messages in 4 paged calls (offset-skip under insert-drift); tail 52 rows pulled with ts>=2026-09-27T23:18:40 LIMIT 60 (offset-tombstone boundary), hand-transcribed and md5-verified per row; 2 transcription slips caught and corrected"
+}

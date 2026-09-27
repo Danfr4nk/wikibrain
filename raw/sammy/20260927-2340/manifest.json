@@ -1,0 +1,55 @@
+{
+ "batch": "20260927-2340",
+ "batch_local": "2026-09-27T19:40:00-04:00",
+ "pulled_at": "2026-09-27T23:47:57Z",
+ "watermark_from": "2026-09-27T00:19:02.364+00:00",
+ "watermark_to": "2026-09-27T23:42:01.537+00:00",
+ "chats": {
+  "non_system_rows": 851,
+  "user": 372,
+  "assistant": 479,
+  "null_body_in_window": 0,
+  "surfaces": {
+   "main_chat": 851
+  }
+ },
+ "side_chats_new": [
+  {
+   "surface": "main_chat"
+  }
+ ],
+ "external": {
+  "instagram": {
+   "new_posts": 0,
+   "active_own_stories": 0
+  },
+  "threads": {
+   "new_posts": 0
+  },
+  "facebook": {
+   "new_posts": 0
+  },
+  "messenger": {
+   "new_messages": 0
+  },
+  "spotify": {
+   "playback": "NONE"
+  },
+  "device": {
+   "read_path": "none"
+  },
+  "gmail": {
+   "status": "excluded per 2026-09-11 order"
+  }
+ },
+ "files": {
+  "chats.json": {
+   "sha256": "dd3145e2138cf768db93a5b12be9e9b5f76ea7a8520c8ff534c24cc054c7e37c",
+   "bytes": 407273
+  }
+ },
+ "exclusions": [
+  "CUMTHREAD3 (side chat 24754b5b-b83e-4c49-a6a3-d6f2ab2c1853)",
+  "P.I.C. kid-demo 2026-09-25"
+ ]
+}
