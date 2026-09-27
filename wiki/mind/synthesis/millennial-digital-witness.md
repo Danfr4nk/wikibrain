@@ -64,6 +64,17 @@ connections:
 
 # Millennial Digital Witness
 
+> **RE-CHECKED [2026-09-26] — premise moved, conclusion unaffected.**
+> [[wiki/mind/synthesis/ai-collaborative-analysis]] moved on 2026-09-13 by a
+> purely additive subsection (the Star-of-David entry under "AI pushback and
+> ethical friction," with the nuance that the refusal held at adoption rather
+> than generation). This page's two claims reasoning from that page cite the
+> early-adopter-with-memory AI stance — adopt the instrument completely, audit
+> it with standards formed before it existed — which the addition does not touch;
+> checked by grep for the friction series, `star-of-david`, `dat:1488` and
+> `dat:1496`: no claim on this page invokes the moved material. No claim
+> withdrawn.
+
 One of Dan's most developed self-theories holds that his generation occupies
 a unique epistemic position — and that he is an unusually complete specimen
 of it. The thesis, stated as Node 6 of the pinned Gemini corpus:
