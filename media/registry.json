@@ -13980,6 +13980,38 @@
     "wiki/places/seven-springs-childhood.md"
    ],
    "poster_sha256": "6011e424103742fbb445a58882320d3fa54c9335c6ab0e53d38f13d3c470cdb3"
+  },
+  {
+   "id": "legion-of-skanks-20191223-skanksmas",
+   "type": "photo",
+   "date": "2019-12-23",
+   "description": "Legion of Skanks 'Skanksmas' taping from Dan's seat, 21:40 local: MERRY SKANKSMAS projection with crossed candy canes, elf hat at left, Santa hat at right, full room at small round tables. iPhone XS EXIF+GPS (40.735603,-73.988411).",
+   "original_filename": "photo-01-skanksmas-2019-12-23.jpg",
+   "original_location": "raw/legion-of-skanks-tapings-photos-2019-12-23-2020-08-25/photo-01-skanksmas-2019-12-23.jpg",
+   "analysis_status": "embedded-2026-09-27",
+   "poster_sha256": "276112e05be76705bb650945563ee6e1a4da6d333147f04240d520e00c0415f4",
+   "compressed_path": "wiki/media/derivatives/legion-of-skanks/skanksmas-2019-12-23-thumb.jpg",
+   "share_url": null,
+   "linked_nodes": [
+    "wiki/interests/stand-up-comedy.md",
+    "kb/sources/legion-of-skanks-tapings-photos-2019-12-23-2020-08-25.md"
+   ]
+  },
+  {
+   "id": "legion-of-skanks-20200825-election",
+   "type": "photo",
+   "date": "2020-08-25",
+   "description": "Legion of Skanks presidential election show, outdoor patio at night, 20:13 local: American-flag foil balloons, potted palms, masked man in doorway, face mask and drinks on the foreground table, partial Jack Daniel's neon. iPhone XS EXIF+GPS (40.735631,-73.988183).",
+   "original_filename": "photo-02-election-episode-2020-08-25.jpg",
+   "original_location": "raw/legion-of-skanks-tapings-photos-2019-12-23-2020-08-25/photo-02-election-episode-2020-08-25.jpg",
+   "analysis_status": "embedded-2026-09-27",
+   "poster_sha256": "817e854d064023a3073177cd1117781ef013e892a91956562e6a42c0708e3ba3",
+   "compressed_path": "wiki/media/derivatives/legion-of-skanks/election-episode-2020-08-25-thumb.jpg",
+   "share_url": null,
+   "linked_nodes": [
+    "wiki/interests/stand-up-comedy.md",
+    "kb/sources/legion-of-skanks-tapings-photos-2019-12-23-2020-08-25.md"
+   ]
   }
  ],
  "policy": "Originals are never committed to wikitest or RAWLOGS. This registry maps each item to its canonical location (Google Photos share URL or Drive path). Compressed derivatives for wiki entries live under media/<batch-slug>/ and are referenced from the src:/dat: nodes. Censorship rule (2026-09-12, Dan's directive): embedded derivatives showing nudity or sexual activity are pixelated/blurred before commit. The uncensored original stays at its canonical location and is never committed.",
