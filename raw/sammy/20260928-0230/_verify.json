@@ -1,0 +1,10 @@
+{
+ "source_file": "chats.json",
+ "sha256": "789f8e67307f77cce2df3ab8a0ba10f5b11f94043c7e0e6cc93bb070a6e7e969",
+ "bytes": 200972,
+ "rows": 628,
+ "verified": "md5(body)==body_md5 AND char_length(body)==body_len for all 628 rows; ts ordered",
+ "duplicate_message_ids": {},
+ "null_body_in_window": 0,
+ "note": "Head 600 rows pulled from muse.db runtime.messages in 3 paged calls; tail 28 rows hand-transcribed and md5-verified per row."
+}
