@@ -52,6 +52,11 @@ WIKI = os.path.join(ROOT, "wiki")
 OUT = os.path.join(WIKI, "timeline", "master-timeline.md")
 
 YEAR_MIN, YEAR_MAX = 1700, 2030
+# The published timeline starts at 2000 (Dan's call, 2026-09-22): the page is
+# the spine of his adult life, not the family deep history. Pre-2000 material
+# stays on the source pages; the generator just doesn't emit it. One-line
+# change to widen later.
+TIMELINE_START_YEAR = 2000
 
 MONTHS = {
     "january": 1, "february": 2, "march": 3, "april": 4, "may": 5, "june": 6,
@@ -137,6 +142,14 @@ META_WORDS = [
     "sourced to", "provenance", "citation", "dossier says", "per the operator",
     "operator confirmed", "confirmed by the operator", "extraction",
     "ingest", "climb", "lint",
+    # Meta-commentary about the record itself, common in appendix/method
+    # sections: what was inferred or observed by the analyst, denials of
+    # evidential status, descriptions of research runs and scrapes.
+    "what was inferred", "what was directly observed", "it is not evidence",
+    "recount ran over", "assembled from a live scrape", "coverage ceiling",
+    # Statements of ignorance: the entry records that something is unknown,
+    # which is wiki honesty but not a timeline event.
+    "is not known", "are not known", "remains unknown", "remain unknown",
 ]
 
 # Corpus/file metadata rather than lived events.
@@ -186,7 +199,44 @@ TIER2 = [
 # indexes (wiki/interests/concert-record/index.md) are genuine event lists and
 # stay in.
 EXCLUDE_PREFIXES = ("wiki/self/message-corpora/", "wiki/work/tech/")
-EXCLUDE_EXACT = {"wiki/index.md"}
+# wiki/meta/open-questions.md is a ledger of open questions and standing
+# predictions — every dated row is wiki-internal deliberation, never a life
+# event. wiki/meta/recent-activity.md is an edit-activity log: its "dates" are
+# edit dates and its rows are page names. Both read as events to the
+# extractor but describe the wiki, not the life.
+EXCLUDE_EXACT = {"wiki/index.md",
+                 "wiki/meta/open-questions.md",
+                 "wiki/meta/recent-activity.md"}
+
+# Sections that are evidence/corpus inventories rather than event records.
+# Dated rows under these headings are raw material the wiki cites — message
+# logs, liked-track rosters, confirmation ledgers, verbatim-anchor pulls,
+# volume statistics, visit/location logs, claim-movement ledgers — not
+# happenings in the life. This is the agent-swarm scrape class: dates
+# attached to corpus rows with no contextual awareness.
+# A "complete log" is only an inventory when it names its material
+# (messages, posts, rows, tweets); "month by month" or "the eleven-day
+# window" is a genuine event chronicle and stays. Bare "The complete log"
+# on a people page is always the message inventory.
+def is_inventory_section(page, section):
+    s = section.strip().lower()
+    if any(p in s for p in (
+            "every held", "every post", "every message",
+            "held twitter", "message log", "message inventory",
+            "the roster", "confirmation ledger",
+            "verbatim anchor", "residue on the liked", "volume arc",
+            "corpus forensics", "visit log", "location record",
+            "recorded movement", "this page's own history")):
+        return True
+    if "complete log" in s:
+        if re.search(r"message|post|row naming|tweet|twitter|held-corpus", s):
+            return True
+        if s in ("the complete log", "complete log") \
+                and page.startswith("wiki/people/"):
+            return True
+    if re.search(r"all \d+ (messages|posts)", s):
+        return True
+    return False
 
 
 def is_excluded(rel):
@@ -356,9 +406,20 @@ def reject_reason(text, date_prec, kind="prose"):
         return "not a sentence"
     if re.fullmatch(r"[\s\-:|—–]+", t):
         return "table rule"
-    # A prose description that opens mid-clause is a fragment, not an event.
-    if kind == "prose" and t[:1].islower():
+    # A description that opens mid-clause is a fragment, not an event.
+    # Torn clauses surface as list items too ("nineteen hours and thirty-eight
+    # minutes later," as its own node next to the full sentence). Tables stay
+    # exempt: terse rows ("eBay purchase") are legitimate there.
+    if kind in ("prose", "list") and t[:1].islower():
         return "sentence fragment"
+    # A description that ends mid-thought was torn out of a larger sentence:
+    # trailing comma/colon/dash, or a dangling conjunction or preposition.
+    # (An earlier "ends with not" variant died here: it killed legitimate
+    # elliptical closes like "its promised counterpart was not.")
+    if re.search(r"[,;:—–-]\s*$", t) or re.search(
+            r"\b(and|or|but|with|for|to|of|in|on|at|by|from|as|than|that|which|who)\s*\.?$",
+            t, re.I):
+        return "truncated fragment"
     # "| 1776 | McCullough, David | 4.10 |" — the year is the book's *title*,
     # not its date. Reading-list rows have a fixed author/rating shape.
     if date_prec == 1 and re.fullmatch(
@@ -403,12 +464,236 @@ def tier_of(text):
     return 3
 
 
+# Base verb forms for the Tier 3 assertion check. Inflections are handled
+# morphologically in is_verb(); only true irregulars need separate entries.
+BASE_VERBS = set("""turn keep bring hold fall stand sit lie lay set put shut hit wear
+wake sleep eat drink smoke miss catch choose speak drive ride swear lie cry laugh
+smile stare watch listen wait stay live work try need use find seem become weigh
+measure count note list file sign date title call dub describe mention reference
+cite quote document confirm report state read hear see notice realize discover learn
+figure decide plan intend mean promise threaten warn accuse blame apologize thank
+celebrate mark observe join enter exit cross pass clear fail skip cancel postpone
+renew extend expand shrink collapse explode crash burn flood freeze melt break
+shatter tear rip stab shoot kill murder attack assault rob mug harass stalk
+scam leak debut chart peak nominate award headline premiere screen air broadcast
+publish print ship stock shelve interview audition perform book sell tour play
+record release fight dump block unblock evict arrest charge fire hire quit graduate
+marry divorce die propose relapse score cop sentence plead testify sue settle raid
+seize question detain jail parole violate appeal acquit execute pardon expunge
+promote demote suspend terminate resign retire apply accept decline reject enroll
+flunk study mentor coach train practice rehearse direct produce master
+sample remix interpolate license register leak flicker love hate want hope wish
+think know feel remember believe forget build launch open close found create drop
+pay buy sell spend owe fine lose win vote name cover appear move return go come
+arrive leave start end begin get take give make told said sent""".split())
+
+AUX_IRREG = set("""is are was were be been being has have had does did will would
+can could shall should may might must am went came left took gave got made said
+told sent went gone knew thought felt brought held stood sat laid fled flew drove
+rode woke slept ate drank smoked swore lied cried chose spoke caught taught
+bought sold taught""".split())
+
+# "-ed" words that are not verbs (adjectives/nouns). Everything else ending in
+# "ed" with length >= 5 is treated as a past-tense verb.
+NONVERB_ED = {"naked", "wicked", "sacred", "beloved", "united", "aged", "hatred",
+              "kindred", "hundred", "dogged", "rugged", "learned", "blessed",
+              "cursed", "crooked", "supposed"}
+
+
+def is_verb(w):
+    if w in AUX_IRREG or w in BASE_VERBS:
+        return True
+    if w.endswith("ies") and w[:-3] + "y" in BASE_VERBS:
+        return True
+    if w.endswith("es") and (w[:-2] in BASE_VERBS or w[:-1] in BASE_VERBS):
+        return True
+    if w.endswith("s") and w[:-1] in BASE_VERBS:
+        return True
+    if w.endswith("ed") and len(w) >= 5 and w not in NONVERB_ED:
+        return True
+    return False
+
+EVENT_NOUNS = set("""fight breakup arrest show concert gig release move visit call text
+post trip party wedding funeral graduation eviction seizure overdose relapse proposal
+split reunion interview appearance session raid crash accident death birth marriage
+divorce performance set tour hearing trial sentence plea stop search bust blowup
+meltdown coda reconciliation denial admission confession announcement launch opening
+closing discovery encounter exchange thread message reply visit stay shift return
+departure arrival debut finale premiere screening audition taping filming shoot""".split())
+
+QUOTE_PAT = re.compile(r'"[^"]{10,}"|\'[^\']{10,}\'')
+
+
+def asserts_event(text):
+    """True if the text asserts that something happened to someone."""
+    # Version labels are noun phrases, not assertions: strip parentheticals
+    # before the verb check ("Bluntz (Original Mix)" — "mix" is not a verb
+    # there). Quotes and event nouns are checked on the full text.
+    deparen = re.sub(r"\([^)]*\)", " ", text)
+    words = re.findall(r"[A-Za-z']+", deparen.lower())
+    if any(is_verb(w) for w in words):
+        return True
+    full = re.findall(r"[A-Za-z']+", text.lower())
+    if set(full) & EVENT_NOUNS:
+        return True
+    if QUOTE_PAT.search(text):
+        return True
+    return False
+
+
 def clip(text, limit=300):
     t = norm_ws(text)
     if len(t) <= limit:
         return t
     cut = t[:limit].rsplit(" ", 1)[0]
     return cut.rstrip(" ,;:—–-") + "…"
+
+
+# Content signature for cross-page duplicate clustering. Two entries about the
+# same event from different pages share content words even when the wording
+# differs ("Dan got his first tattoo: the letter A" vs "'A' — Alexis Armel's
+# initial — not a cultural reference"). Date words, numbers, and stopwords are
+# stripped because same-date entries share those by construction.
+_DUP_STOP = set("a an the and or but of to in on at for with from by as is was "
+    "were are be been being have has had do does did will would could should "
+    "may might must can shall this that these those it its his her their our "
+    "your my me him them us we you he she they i not no yes so if then than "
+    "too very just about into over after before between through during under "
+    "again once here there when where why how what which who whom whose all "
+    "any each few more most other some such only own same also per via "
+    "i'm don't can't won't it's that's there's i've i'll you're we're they're "
+    "didn't doesn't isn't wasn't couldn't wouldn't shouldn't haven't hasn't "
+    "hadn't".split())
+_DUP_DATEWORDS = set("january february march april may june july august "
+    "september october november december jan feb mar apr jun jul aug sep sept "
+    "oct nov dec monday tuesday wednesday thursday friday saturday sunday mon "
+    "tue wed thu fri sat sun".split())
+# The two protagonists appear in ~20% of entries each and carry no
+# discriminating power; the page basename keeps topic context ("tattoos")
+# without the directory noise ("wiki/people/..." put {wiki, people} in
+# every signature and bridged unrelated entries).
+_DUP_PROTAGONISTS = {"dan", "annie"}
+
+
+def _stem(w):
+    if len(w) > 5 and w.endswith("ies"):
+        return w[:-3] + "y"
+    if len(w) > 5 and (w.endswith("ches") or w.endswith("shes") or
+                       w.endswith("sses") or w.endswith("xes") or
+                       w.endswith("zes")):
+        return w[:-2]
+    if len(w) > 4 and w.endswith("s") and not w.endswith("ss"):
+        return w[:-1]
+    return w
+
+
+def content_sig(text, page, section):
+    """Set of stemmed content words from the entry plus its page/section.
+
+    Only the page's basename feeds the signature ("tattoos", "alexis-armel"):
+    the directory parts ("wiki/people/...") are identical across thousands of
+    entries and would bridge unrelated ones. The section carries topic context
+    the entry text may lack (a bare '"A"' under Tattoos · The list is still
+    about the tattoo)."""
+    base = page.rsplit("/", 1)[-1]
+    if base.endswith(".md"):
+        base = base[:-3]
+    base = base.replace("-", " ").replace("_", " ")
+    toks = re.findall(r"[a-z']+", (text + " " + base + " " + section).lower())
+    sig = set()
+    for t in toks:
+        t = t.strip("'")
+        if t.endswith("'s"):
+            t = t[:-2]
+        t = t.strip("'")
+        if (len(t) < 3 or t in _DUP_STOP or t in _DUP_DATEWORDS
+                or t in _DUP_PROTAGONISTS):
+            continue
+        if re.fullmatch(r"\d+[a-z]*", t):
+            continue
+        sig.add(_stem(t))
+    return sig
+
+
+_DATE_MENTION = re.compile(
+    r"\b\d{4}-\d{2}-\d{2}\b"
+    r"|\b(?:jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec)[a-z]*\.?"
+    r"\s+\d{1,2}(?:\s*,?\s*\d{4})?", re.I)
+
+
+def cluster_duplicates(entries):
+    """Merge same-date cross-page duplicates.
+
+    Returns (kept, merged) where merged is a list of (representative, [dropped])
+    clusters. Two entries from different pages with the same full date merge
+    when they share 3+ content words covering at least 40% of the smaller
+    entry's signature — the dropped entry must be substantially *about* the
+    same thing. The 3-word floor alone isn't enough ("Dan bought the Honda"
+    vs "Dan sold the Honda" shares {dan, honda} and must NOT merge; neither
+    is a shared place name bridging unrelated entries: "Fayette County"
+    links a lien deadline, a diet log, and a family history at 3 shared words
+    but ~30% coverage). The representative is
+    the highest tier, then longest; dropped entries survive as provenance on
+    the representative's "also" list. Same-page entries never merge — that's
+    the page's own narrative. Digest entries naming 3+ dates never merge —
+    they're quote/log dumps, not single events."""
+    sigs = {id(e): content_sig(e["text"], e["page"], e["section"])
+            for e in entries}
+    by_date = defaultdict(list)
+    for e in entries:
+        if e["date"][2] > 0:  # day-precision dates only
+            # Digest entries that mention 3+ dates ("On 2016-01-10: ... On
+            # 2016-05-13: ...") are quote/log dumps, not single events; they
+            # act as hubs that absorb unrelated same-date entries.
+            if len(_DATE_MENTION.findall(e["text"])) >= 3:
+                continue
+            by_date[e["date"][:3]].append(e)
+    drop_ids, merged = set(), []
+    for es in by_date.values():
+        if len(es) < 2:
+            continue
+        parent = {id(e): id(e) for e in es}
+
+        def find(x):
+            while parent[x] != x:
+                parent[x] = parent[parent[x]]
+                x = parent[x]
+            return x
+
+        for i in range(len(es)):
+            for j in range(i + 1, len(es)):
+                a, b = es[i], es[j]
+                if a["page"] == b["page"]:
+                    continue
+                ia, ib = id(a), id(b)
+                shared = sigs[ia] & sigs[ib]
+                # 3+ shared words AND half the smaller entry's content is
+                # shared: the dropped entry must be substantially *about* the
+                # same thing, not merely mention the same place ("Fayette
+                # County" bridges a lien deadline, a diet log, and a family
+                # history at 3 shared words but ~30% coverage).
+                smaller = min(len(sigs[ia]), len(sigs[ib]))
+                if len(shared) >= 3 and smaller and \
+                        len(shared) / smaller >= 0.4:
+                    parent[find(ia)] = find(ib)
+        clusters = defaultdict(list)
+        for e in es:
+            clusters[find(id(e))].append(e)
+        for cl in clusters.values():
+            if len(cl) < 2:
+                continue
+            cl.sort(key=lambda e: (e["tier"], -len(e["text"])))
+            rep, rest = cl[0], cl[1:]
+            seen_src = {(rep["page"], rep["section"])}
+            for d in rest:
+                drop_ids.add(id(d))
+                src = (d["page"], d["section"])
+                if src not in seen_src:
+                    seen_src.add(src)
+                    rep.setdefault("also", []).append(src)
+            merged.append((rep, rest))
+    kept = [e for e in entries if id(e) not in drop_ids]
+    return kept, merged
 
 
 def strip_frontmatter(raw):
@@ -476,7 +761,8 @@ def extract_page(path, relpath, rejects):
             if d is None:
                 continue
             desc = tidy(unlink(body_txt))
-            why = reject_reason(desc, d[3], "prose")
+            why = ("inventory-section" if is_inventory_section(relpath, heading)
+                   else reject_reason(desc, d[3], "prose"))
             if why:
                 rejects.append((why, relpath, d[4], clip(desc, 90)))
                 continue
@@ -530,7 +816,8 @@ def extract_page(path, relpath, rejects):
             rest = [c for i, c in enumerate(cells)
                     if i != idx and c.strip() and not FILE_CELL_PAT.search(c.strip())]
             desc = tidy(unlink(" — ".join(rest)))
-            why = reject_reason(desc, d[3], "table")
+            why = ("inventory-section" if is_inventory_section(relpath, heading)
+                   else reject_reason(desc, d[3], "table"))
             if why:
                 rejects.append((why, relpath, cells[idx], clip(desc, 90)))
                 continue
@@ -557,7 +844,8 @@ def extract_page(path, relpath, rejects):
                 desc = item
             if d is not None:
                 desc = tidy(unlink(desc))
-                why = reject_reason(desc, d[3], "list")
+                why = ("inventory-section" if is_inventory_section(relpath, heading)
+                       else reject_reason(desc, d[3], "list"))
                 if why:
                     rejects.append((why, relpath, d[4], clip(desc, 90)))
                 else:
@@ -596,6 +884,49 @@ def collect():
         seen.add(key)
         e["tier"] = tier_of(e["text"])
         unique.append(e)
+
+    # Drop torn fragments: a short entry whose normalized text is contained in
+    # a longer entry with the same date is a clause torn out of that entry
+    # ("nineteen hours and thirty-eight minutes later," next to the full
+    # sentence it came from). Keep the longest carrier per date.
+    by_date = defaultdict(list)
+    for e in unique:
+        by_date[e["date"][:3]].append(e)
+    torn = set()
+    for es in by_date.values():
+        es.sort(key=lambda e: (-len(e["text"]), e["tier"]))
+        norms = [re.sub(r"[^a-z0-9]", "", e["text"].lower()) for e in es]
+        for i in range(len(es)):
+            if len(norms[i]) < 25 or len(norms[i]) > 150:
+                continue
+            for j in range(i):
+                if norms[i] in norms[j]:
+                    torn.add(id(es[i]))
+                    rejects.append(("torn fragment", es[i]["page"],
+                                    es[i]["date"][4], es[i]["text"][:90]))
+                    break
+    unique = [e for e in unique if id(e) not in torn]
+
+    # Tier 3 must assert that something happened. Tier 1/2 are exempt.
+    asserted = []
+    for e in unique:
+        if e["tier"] == 3 and not asserts_event(e["text"]):
+            rejects.append(("no assertion", e["page"], e["date"][4],
+                            e["text"][:90]))
+            continue
+        asserted.append(e)
+    unique = asserted
+
+    # The published page starts at 2000; earlier material stays on source pages.
+    unique = [e for e in unique if e["date"][0] >= TIMELINE_START_YEAR]
+
+    # Cross-page duplicates: the same event narrated on several pages lands as
+    # several same-date entries. Merge them, keeping the best representative.
+    unique, merged = cluster_duplicates(unique)
+    for rep, rest in merged:
+        for d in rest:
+            rejects.append(("cross-page duplicate", d["page"], d["date"][4],
+                            d["text"][:90]))
 
     unique.sort(key=lambda e: (e["date"][0], e["date"][1], e["date"][2],
                                -e["date"][3], e["tier"], e["page"]))
@@ -701,6 +1032,9 @@ def cmd_generate(_args):
                 out.append(f"- {marks[e['tier']]} **{label}** — {e['text']}  ")
                 link = e["page"][:-3] if e["page"].endswith(".md") else e["page"]
                 out.append(f"  ↳ [[{link}]] · {e['section']}")
+                for apage, asec in e.get("also", []):
+                    alink = apage[:-3] if apage.endswith(".md") else apage
+                    out.append(f"  ↳ [[{alink}]] · {asec} (same event)")
             out.append("")
 
     out.append("---")
