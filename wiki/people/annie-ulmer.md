@@ -220,7 +220,7 @@ connections:
     claim: "Tom is a recurring selected participant in the 2018-2024 arrangement documented on this page."
   - page: wiki/mind/synthesis/supply-network
     type: component-of
-    claim: "Annie occupies both seats in the supply network across its life — logistics facilitator in the 2018–19 Johnny era, dependent consumer in the terminal phase, when Dan's control of the supply ('bop') was the relationship's primary retention mechanism."
+    claim: "Annie occupies both seats in the supply network across its life — logistics facilitator in the 2018–19 Johnny era, dependent consumer in the terminal phase, when Dan's control of the supply ('the supplier') was the relationship's primary retention mechanism."
   - page: wiki/people/johnny-dealer
     type: co-occurs
     claim: "Annie ran facilitation through Johnny's node — drops, pickups, 'I'm at Johnny's' — making her a logistics participant in the 2018–19 supply chain, not a bystander to it."
@@ -280,7 +280,7 @@ connections:
     claim: "The Annie personality is the facilitator node in both the 2018 reunion and the Shelbie threesome — she coaches Annie, she handles logistics (moving dogs, buying wine), she frames the events as gift-giving to Dan, and she maintains the 'everything's fine' surface while the arrangement operates underneath."
   - page: wiki/health/cocaine
     type: evidences
-    claim: "Cocaine procurement is the load-bearing mechanism of the Annie terminal phase — Dan controlled the supply ('bop') as the relationship's primary retention mechanism, and stated the thesis out loud: 'getting you drugs... was about that being the only way you would see me.'"
+    claim: "Cocaine procurement is the load-bearing mechanism of the Annie terminal phase — Dan controlled the supply ('the supplier') as the relationship's primary retention mechanism, and stated the thesis out loud: 'getting you drugs... was about that being the only way you would see me.'"
   - page: wiki/people/shelbie-breakiron
     type: co-occurs
     claim: "Annie is present throughout the relationship, not concealed — she is discussed, joked about, and directly involved in a three-way arrangement, including the logistics documented on shelbie-annie-threesome-april-2019."
@@ -1590,7 +1590,7 @@ even theoretically on the table.
 ## Sixteen months in Uniontown: the machinery of staying
 
 What followed was structural before it was emotional: Dan controlled the
-drug supply ("bop"); Annie was unemployed and dependent on him for it —
+drug supply ("the supplier"); Annie was unemployed and dependent on him for it —
 the exact mirror of 2024, when she had been the sole earner and he the
 dependent. On top of that substrate, a set of specific mechanisms kept
 the relationship idling for eight months without anyone consciously
@@ -1696,7 +1696,7 @@ tell his mother the truth went unexecuted. Set against all of that: not
 one documented instance, across the entire window, of Dan withholding the
 drug supply as leverage or punishment — including hours after his own
 most hostile outbursts ("So tomorrow you're going to come pick up your
-clippers and I will get you what you want from bop one last time," hours
+clippers and I will get you what you want from the supplier one last time," hours
 after telling her "I hope you someday realize how much you really did
 ruin my life"). His provision was unconditional in practice. That is
 integrity between what he said he valued and what he did — and it is also
@@ -1778,7 +1778,7 @@ exchange runs across four dated exchanges:
   needing it — but the naming itself resolves nothing the dossiers'
   secondhand "Caitlin's husband" label left ambiguous: it is Annie's own
   word, not an inference. Minutes later, Dan relays an unsolicited,
-  independent assessment from [[wiki/mind/synthesis/supply-network|Bop]]:
+  independent assessment from [[wiki/mind/synthesis/supply-network|the supplier]]:
   "She's always sneaking around" — a third-party observation Dan did not
   feed and could not have coached.
 - **Mar 1, 19:24** — the last dated trace, timed to Dan's parents being out
@@ -2482,7 +2482,7 @@ from 'that isnt true'"* (00:47:33). This is the only on-record instance of
 her accusing *him* of threatening, and her own walkback is partial. The
 daytime is supply logistics — synthetic urine for a drug test (*"I gotta
 find synthetic urine"*, Tobacco World first), dealer middlemanning with
-"Bop" ($60–$80, mailbox drops), and Dan naming the audience: *"Alexandra
+"The supplier" ($60–$80, mailbox drops), and Dan naming the audience: *"Alexandra
 knows I got this for you so don't think you're getting free blackmail
 material on me right now"* (18:22:08) — "Alexandra" being Ally, whom he has
 never met. She pushes back on Ally's standing — *"Why is it any of her
@@ -2556,7 +2556,7 @@ and there are like 3"* (03:53:29). She ends the night: *"I love you"*
 (03:59:04).
 
 **September 12 — the dealer sits him down.** *"He sat me down again / And
-he saw you at dimarco's and who you were with"* (19:35:25–19:36:16) — Bop
+he saw you at dimarco's and who you were with"* (19:35:25–19:36:16) — the supplier
 warning Dan about who Annie was seen with at DiMarco's; she denies being
 there. $391 cash tips; *"cops all over near you / And a drone like right
 over the restaurant"* (04:33:26–04:33:41). A 3 AM fight (*"Lol goodbye /
@@ -3069,7 +3069,7 @@ the messages.
 **New gaps opened by the iPhone slice [2026-09-21]:** Akeem (one mention,
 Aug 23, inside the Morgantown St incident); Otto (school pickup, Sep 17);
 Anthony (Sep 16 Instagram story); Francine (at work, Sep 10); Ben
-(probably her boss, Sep 11); whether "Bop" and "Felix" are one dealer or
+(probably her boss, Sep 11); whether "The supplier" and "Felix" are one dealer or
 two; the eight September 8 audio messages; the September 15 01:09 "BIG
 TROUBLE" drop; what Annie said on the September 16 visit ("the thing you
 said"); the Aug 23 "2 coke heads" group chat (participants unknown); and
@@ -3237,6 +3237,33 @@ last time, on his testimony. See `dat:annie-sex-august-last-time-20260924`.
 The three facts sit next to each other the way the evening actually ran:
 her fear, his confession, his closing of the book. The wiki holds all of
 them without deciding what they add up to.
+
+## September 29, 2026: the driveway, and the police station
+
+Five days later the fear had an address. She came over under the
+drug-contact framework — outside only, pre-cleared, minimal — and the
+framework held: she tried to get him inside and he said no. Then Jerel
+Coles arrived at the house screaming about money she owes him, got
+inches from Dan's face, and Dan stood his ground while Suz screamed at her
+to leave. Something glass broke. A 911 call went out; the police never came
+to the house. A neighbor pulled up mid-incident, got Annie out, and stood
+post de-escalating with Coles directly. The full record is
+[[wiki/timeline/events/september-2026-driveway-confrontation]].
+
+She fled to her parents. At 17:56 she texted: "Parents home. Police here" —
+warning Dan she might have to call him as a witness and to pick up if she
+did. At 18:49: "At the police station." Both screenshots are archived
+byte-identical in `raw/2026-09-29-annie-texts-police-station/`. His standing
+play, set before either text: answer, and give a factual witness statement
+only. Whether a report went on file was unconfirmed as of 19:34.
+
+The September 24 suspicion hardened the same night into the standing
+theory: Coles keeps arriving wherever she is, beyond luck — a tracker on
+her car or access to her Apple ID. The check is hers to run: sweep the car
+(wheel wells, bumpers, undercarriage, OBD-II port, trunk), audit Find My
+shares and the Apple ID device list, and if anything is found, photograph
+it in place and hand it to the police. She was told to say the words at the
+station: "I believe he's tracking my car."
 
 ## Closing note
 

@@ -190,7 +190,7 @@ had to establish against a source that said the opposite.
 
 The five hours before the call are the ordinary failure mode of this
 relationship, not a prelude to anything. [[wiki/people/annie-ulmer|Annie]] asked at 16:38 to see Dan
-(*"I will see you when I get home… So try to see bop"*), Dan read it as a
+(*"I will see you when I get home… So try to see the supplier"*), Dan read it as a
 procurement request dressed as a visit, and she then went silent for six
 hours while he escalated alone: 64 messages that day against 12 inbound. At
 **22:27** he gives up on the handoff — *"You'll need to email me if or when

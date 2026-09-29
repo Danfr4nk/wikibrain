@@ -315,7 +315,7 @@ He was running [[wiki/mind/concepts/forensic-method|forensic analysis]] on his o
 
 The pattern the exercise surfaced is a tight, repeating loop **[ATTESTED — the return-and-rupture page's summary]**:
 
-1. **Drug-procurement logistics generate friction** — a supplier called "Bop," a contact named John, [[wiki/people/suzanne-frank|Suz]] often facilitating delivery; timing and money as the friction surfaces.
+1. **Drug-procurement logistics generate friction** — a supplier called "The supplier," a contact named John, [[wiki/people/suzanne-frank|Suz]] often facilitating delivery; timing and money as the friction surfaces.
 2. **[[wiki/people/annie-ulmer|Annie]]'s caregiving obligations compress the relationship's time** — a grandmother-figure called "Sugie," plus church and extended family.
 Annie's own language names it directly: *"dealing with an old women's piss,"* feeling like *"a slave,"* elsewhere *"a servant."*
 3. **Dan reads each compression as evidence of deprioritization** and periodically escalates to statements like *"I just want to know once and for all who I spent 10 years with."*
@@ -500,7 +500,7 @@ Dan funded the early NYC years; Dan worked through the 2023 landlord-debt accumu
 The hard number, from the Annie page via operator-provided payment-app screenshots (2026-07-15): roughly **$139K sent** by Dan across Cash App and Venmo against **$16–20K received** — a net outflow of roughly **$119K–$123K** over the relationship, a six-to-one asymmetry in her favor **[OPERATOR-provided screenshots; the page marks them as two separate app ledgers, not a single summed total]**.
 
 Inside the hinge window, the fourth rotation begins: **February 2025, Dan becomes the supply chain** — controlling the drug supply while Annie was unemployed and dependent — and the queue's work-0008 reason states it plainly: *"attributable to decision/engineered move, not circumstance"* **[the inversion framing is the queue's; the supply-chain fact is the 2025-collapse page's]**.
-The man who had funded the relationship with wages and family money for a decade began funding the bond's continuation with procurement logistics — "Bop," "John," [[wiki/people/suzanne-frank|Suz]] facilitating delivery, the April week's friction surfaces.
+The man who had funded the relationship with wages and family money for a decade began funding the bond's continuation with procurement logistics — "The supplier," "John," [[wiki/people/suzanne-frank|Suz]] facilitating delivery, the April week's friction surfaces.
 The currency changed; the direction didn't.
 The hinge converted the provider role from economic to logistical without interruption — the same function, a different medium **[INFERRED — MED]**.
 
@@ -723,7 +723,7 @@ The fourth iteration, on schedule, into the childhood home.
 
 The money hinge deserves its full texture, because the fourth rotation — Dan becomes the supply chain — is the hinge's most concrete engineered fact after the staged eviction.
 
-The April week names the logistics: a supplier called **"Bop,"** a contact named **John**, **[[wiki/people/suzanne-frank|Suz]] often facilitating delivery** — timing and money as the friction surfaces **[ATTESTED — the return-and-rupture page]**.
+The April week names the logistics: a supplier called **"The supplier,"** a contact named **John**, **[[wiki/people/suzanne-frank|Suz]] often facilitating delivery** — timing and money as the friction surfaces **[ATTESTED — the return-and-rupture page]**.
 This is February 2025's inversion made daily: the man who had funded the relationship with wages (Au Za'atar's ~690 shifts) and family money (the [[wiki/people/fran-coldren|Fran]] estate's $144,069.31, exhausted 2020–21) now funded the bond's continuation with procurement — sourcing, timing, delivery, the friction of the handoff as the relationship's new medium of exchange.
 
 The dependency structure is the 2025-collapse page's: Dan controlling the drug supply while [[wiki/people/annie-ulmer|Annie]] was unemployed and dependent — the latest of three rotations **[ATTESTED — the 2025-collapse page]**.
@@ -946,7 +946,7 @@ They are the hinge's unwitting audience: the performance was staged for them as 
 Their belief is the performance's success metric.
 The hinge thesis notes, without further claim, that the parents who received [[wiki/people/bill-ulmer|Bill Ulmer]]'s warmth-by-proxy (the 58-message thread, the "Dad/Bill" sign-offs **[ATTESTED — the Bill Ulmer page]**) were the same parents asked to verify a staged eviction.
 
-**"Bop" and John.** The supply side: named in the April week as the logistics' human surface **[ATTESTED — the return-and-rupture page]**.
+**"The supplier" and John.** The supply side: named in the April week as the logistics' human surface **[ATTESTED — the return-and-rupture page]**.
 They witness the hinge's economic conversion — the provider role's new medium — without knowing they're witnessing anything.
 The procurement economy's foot soldiers.
 

@@ -839,7 +839,7 @@ life partner / A guy could ask for"* (16:56).
 
 *(2015-12-15 read in full. Resume at 2015-12-16.)*
 
-**2015-12-16, ~15:04 — Dan cleans cars at Suz's.** Dan is working — cleaning cars at his mother's office. Annie: *"Look at you!! / It's such a nice day for cleaning out cars"* (15:16). Dan: *"I will be free as a bird"* (15:05). This is the first documented instance of Dan doing manual labor for Suz's business — the "I have to weed whack bops place" of the later Supply Network, but for his mother, and paid in cash. Suz gives him two $50's (16:44).
+**2015-12-16, ~15:04 — Dan cleans cars at Suz's.** Dan is working — cleaning cars at his mother's office. Annie: *"Look at you!! / It's such a nice day for cleaning out cars"* (15:16). Dan: *"I will be free as a bird"* (15:05). This is the first documented instance of Dan doing manual labor for Suz's business — the "I have to weed whack the supplier's place" of the later Supply Network, but for his mother, and paid in cash. Suz gives him two $50's (16:44).
 
 **2015-12-16, ~16:41 — Suz calls Annie "your girlfriend."** ([[wiki/people/suzanne-frank]]) Dan: *"SAVE ONE OF THOSE FOR YOUR GIRLFRIEND / (Because she gave me two 50's)"* (16:43). Annie: *"SHE CALLED ME YOUR GIRLFRIEND / IM IN LOVE IM IN LOVE"* (16:46). Dan: *"OMG she was calling you my girlfriend for the past 2 weeks"* (16:46). This is the first documented instance of Suz using the title. Dan had been correcting her ("I kept reminding her that I don't know how that works but not to be presumptuous"), but Suz ignored him. Annie's reaction — all-caps joy — is the strongest positive response to a family-approval signal in the record.
 

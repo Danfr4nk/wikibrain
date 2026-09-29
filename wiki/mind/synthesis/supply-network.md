@@ -95,7 +95,7 @@ connections:
     claim: "The network's earliest documented node, five years before Johnny, and the only one Dan describes as inherited rather than sought — 'the family plug', which makes the first link in the chain structurally unlike every link after it."
   - page: wiki/people/annie-ulmer
     type: contains
-    claim: "Annie occupies both sides of the network across its life: logistics facilitator in the 2018–19 Johnny era, then dependent consumer in the terminal phase, when Dan controlling the supply ('bop') became the relationship's primary retention mechanism."
+    claim: "Annie occupies both sides of the network across its life: logistics facilitator in the 2018–19 Johnny era, then dependent consumer in the terminal phase, when Dan controlling the supply ('the supplier') became the relationship's primary retention mechanism."
   - page: wiki/mind/synthesis/intake-constancy
     type: parallels
     claim: "The network is the material-layer counterpart of the fixed-rate intake metabolism: a constant appetite requires a constant procurement architecture, and both persist across every era while only the nodes rotate."
@@ -190,7 +190,7 @@ transfers along the way.
 | [[wiki/people/teddy]] | 2018–2020 | Uniontown/Fairchance | Parallel informal supplier; strips, pills; credit and holds |
 | [[wiki/people/menore]] | 2013?, 2018–2025 (continuous; handle changes mid-run) | NYC | Professional delivery operator; 99.3% availability, median 7-min reply; still operating 2026 |
 | Tim | ~2020s | undocumented | Named in the MAX_PRIME succession; no thread yet identified |
-| **Bop** (Felix is not a node) | 2026 | Uniontown | Current primary node — house calls daily at noon; Dan maintains his property in part-payment; identity otherwise unknown |
+| **The supplier** (Felix is not a node) | 2026 | Uniontown | Current primary node — house calls daily at noon; Dan maintains his property in part-payment; identity otherwise unknown |
 
 ### Supply named as the bond, in real time, in 2015
 
@@ -417,7 +417,7 @@ The network's final documented configuration is its most analytically
 important. In the terminal phase (August 2025 – March 2026), Dan is no
 longer only the network's consumer — he is its *distribution point* for
 [[wiki/people/annie-ulmer|Annie]], who is unemployed, dependent, and
-sourcing through him ("bop"). The primary sources call supply "the last
+sourcing through him ("the supplier"). The primary sources call supply "the last
 transactional bond" of the relationship. (The oft-cited 187:4
 love-to-request adjacency statistic was deflated by a base-rate control
 on 2026-07-18 — see [[wiki/mind/synthesis/dan-annie-fallout-verdict]];
@@ -495,14 +495,14 @@ figure in this network. No finding here is affected.
 
 - **Tim** is named in the MAX_PRIME succession between Johnny and Tom
   but no message thread has been identified; era and product unconfirmed.
-- ~~**"bop"** and **"Felix"** are unresolved identities.~~ **CLOSED
-  2026-08-02 — "Bop" is a person, and he is the network's current primary
+- ~~**"the supplier"** and **"Felix"** are unresolved identities.~~ **CLOSED
+  2026-08-02 — "The supplier" is a person, and he is the network's current primary
   node.** The July–August 2026 export removes the ambiguity this page has
-  carried since it was written: Bop is not a verb, a product or a term of art
+  carried since it was written: The supplier is not a verb, a product or a term of art
   for sourcing through Dan. He is a man who **comes to Dan's house at noon
   every day** ("recently he comes here at noon every day and everything gets
   taken care of then"), whose property Dan maintains in what reads as partial
-  payment ("I have to weed whack bops place"), who sits on the porch with
+  payment ("I have to weed whack the supplier's place"), who sits on the porch with
   Felix and the dog, and who declines to come while Annie is there. Every one
   of the five procurement handoffs in
   [[wiki/timeline/events/july-august-2026-reentanglement|that window]] is
@@ -510,7 +510,7 @@ figure in this network. No finding here is affected.
   the same house on the same porch, consistent with
   [[wiki/people/felix|the 463 contractor]] rather than with any supply role —
   he appears in the new export only as a social fixture. What remains open on
-  Bop is his real name, his relationship to the
+  The supplier is his real name, his relationship to the
   [[wiki/people/tom|Tom]] node he appears to have succeeded, and the terms of
   the weed-whacking arrangement.
 - The post-May-2026 state of the network is **partly** answered by the
@@ -587,7 +587,7 @@ being a domain-general audit-timing rule applied to one market.
 |---|---|---|
 | 1. Cognitive stack | **Moved the conclusion.** [[wiki/mind/profile/intp]]'s Ti-dominance explains why enforcing a reliability standard is an audit, and why Tom's failures accumulated eighteen years before one ran — see "The mechanism" above. |
 | 2. Personality profile | **Checked, already load-bearing one hop away.** Trust 9 and Self-Consciousness 91 are already the measured substrate for audit-timing on [[wiki/mind/synthesis/the-deferred-audit]] itself; citing them again here directly would be decorative rather than adding a new argument. |
-| 3. Historical precedent | **Checked, already this page's own base.** The node succession (Zach Harshman 2014 through Bop 2026) is the historical register. |
+| 3. Historical precedent | **Checked, already this page's own base.** The node succession (Zach Harshman 2014 through the supplier 2026) is the historical register. |
 | 4. Attitudes and forces | **Checked, does not add new material.** |
 | 5. Security and prosperity | **Already load-bearing.** [[wiki/mind/synthesis/estate-money-spine]] is already a member (via parallels) for the shared lump-arrival/metered-drain architecture. |
 | 6. Health | **This page IS a health-adjacent register for other pages** (supply-network is itself cited by `estate-money-spine` and `totality-themes`); the daily-Suboxone framing is the page's own foundation, not an external register to add. |

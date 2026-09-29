@@ -808,7 +808,7 @@ The unemployment claim denied 2025-03-31.
 
 The NYC supply nodes — Menore's 99.3%-availability delivery operation — suddenly 300 miles away.
 
-Dan became her supply chain instead: sourcing through "Bop" (the daily house-calling node), controlling the procurement she could no longer run herself.
+Dan became her supply chain instead: sourcing through "The supplier" (the daily house-calling node), controlling the procurement she could no longer run herself.
 
 This is the [[wiki/mind/synthesis/supply-network]]'s terminal configuration wearing a financial face.
 

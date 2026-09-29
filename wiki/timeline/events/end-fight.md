@@ -72,7 +72,7 @@ That pivot — from "please if you care at all" to procurement logistics in 58 m
 
 Here is the strangest passage in the 666 rows, and the one the old page never mentioned: in the middle of ending an eleven-year relationship, Dan spends four hours procuring drugs for Annie.
 
-It starts at 17:50: "Can you go to atm" (Annie). "100?" (17:51:01). Dan negotiates with "bop," discusses CashApp, asks for her ATM access code (18:23:14), and at 18:37:17: "wow. awesome. / i should NOT fucking do this but i'm going to cover you." She sends the code; "Take our $100" (18:38:12). At 21:07:26: "Should be about 30 mins until is ee him. Then we can discuss pickup." At 21:40:59: "there is a blue folder in the mailbox. Take the entire folder" [RAW-CSV].
+It starts at 17:50: "Can you go to atm" (Annie). "100?" (17:51:01). Dan negotiates with "the supplier," discusses CashApp, asks for her ATM access code (18:23:14), and at 18:37:17: "wow. awesome. / i should NOT fucking do this but i'm going to cover you." She sends the code; "Take our $100" (18:38:12). At 21:07:26: "Should be about 30 mins until is ee him. Then we can discuss pickup." At 21:40:59: "there is a blue folder in the mailbox. Take the entire folder" [RAW-CSV].
 
 This is the mundane trigger the Tuquick account preserves: Dan dropped a blue folder of drugs Annie had requested into a mailbox, and the group-chat confrontation ignited around it. The procurement thread and the breakup thread are the same thread. He is ending her while supplying her — "If you're wondering why you got part of mine it's because I'm quite certain this is the last time you're going to ask me for something" (21:46:58) — and the line lands as both generosity and indictment, because it is both.
 
