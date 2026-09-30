@@ -1,6 +1,6 @@
 # Annie's texts, September 29 2026 — police-station sequence
 
-Two iPhone screenshots Dan shared in chat on 2026-09-29, archived the same
+Three iPhone screenshots Dan shared in chat on 2026-09-29, archived the same
 evening. They are Annie Ulmer's texts to Dan in the hours after the driveway
 confrontation (see `wiki/timeline/events/september-2026-driveway-confrontation.md`).
 
@@ -29,12 +29,29 @@ Transcription (one message, 6:49 PM):
 > At the police station
 
 Reading: Annie went to the police station that evening, presumably to give a
-statement about the confrontation. Whether Dan received a call from her, and
-whether a report was filed, was not confirmed as of 19:34 EDT.
+statement about the confrontation. Whether Dan received a call from her was
+not confirmed; the report itself is confirmed by the 19:49 text below.
+
+## 19:49 EDT — "Emergency pfa filed and granted"
+
+File: `2026-09-29_1949_emergency-pfa-filed-and-granted.jpg`
+(source sha256 `a07e520daf72897955f4fcb969e6b81fff22227c552e7a059aa44f558d917131`)
+
+Transcription (one message, 7:49 PM):
+
+> Emergency pfa filed and granted
+
+Reading: Annie filed for an emergency Protection From Abuse order at the
+station and a judge granted it the same evening. The paper trail from the
+driveway confrontation is now on file — the report plus a granted emergency
+PFA. This partially closes the open item in the event article: the police
+response at the house never materialized, but the courthouse/station track
+did.
 
 ## Provenance
 
 Screenshots taken by Dan on his iPhone and shared in the main chat 2026-09-29
-at ~19:27–19:28 EDT. Copied byte-identical from
-`~/workspace/user/media_library/image/b9/b9d1c1…` and `…/image/4e/4e79f8…`.
-No other parties are named or depicted in either image.
+at ~19:27–19:28 EDT (first two) and ~19:58 EDT (third). Copied byte-identical
+from `~/workspace/user/media_library/image/b9/b9d1c1…`, `…/image/4e/4e79f8…`,
+and `…/image/a0/a07e520d…`. No other parties are named or depicted in any of
+the three images.
