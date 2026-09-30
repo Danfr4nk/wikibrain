@@ -1,12 +1,8 @@
----
-domain: timeline
-page_type: summary
-status: active
-knowledge: derived
-date_created: 2026-08-14
-date_modified: 2026-08-15
-sources:
-  - generated from every page under the wiki by bin/wiki-timeline
+wrote wiki/timeline/master-timeline.md
+  6,358 events · 28 years (2000–2027) · 476 pages
+  tier 1 1,184 · tier 2 764 · tier 3 4,410
+  8,359 candidates rejected as non-events
+y bin/wiki-timeline
 connections:
   - page: wiki/timeline/index
     type: component-of
@@ -13522,7 +13518,7 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/mind/concepts/lyric-qualifier]] · What kind of trait this is
 - · **2026-09-29** — Past midnight on 2026-09-29, Dan supplied the cleanest specimen the qualifier has ever had — deliberately, as data, "for wiki purposes," in the middle of an over-analysis session about the night's "I am She / She is I" chiasmus.  
   ↳ [[wiki/mind/concepts/lyric-qualifier]] · The Walrus specimen: the architecture, demonstrated (2026-09-29)
-- · **2026-09-29** — At 18:49: "At the police station." Both screenshots are archived byte-identical in `raw/2026-09-29-annie-texts-police-station/`.  
+- · **2026-09-29** — All three screenshots are archived byte-identical in `raw/2026-09-29-annie-texts-police-station/`.  
   ↳ [[wiki/people/annie-ulmer]] · September 29, 2026: the driveway, and the police station
 - · **2026-09-29** — REFINED [2026-09-29]: the "John Felix" in Coles's messages is not this man — but the name itself is real.** The corpus-sweep gate is what caught it: Suz herself uses "John Felix" as the painter's full name.  
   ↳ [[wiki/people/john-felix]] · Gaps

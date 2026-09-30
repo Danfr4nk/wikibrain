@@ -46,9 +46,10 @@ inside to have sex and he said no. Then Jerel Coles showed up at the house
 screaming about money Annie owes him, got inches from Dan's face, and the
 afternoon became a 911 call the police never answered, broken glass, Suz
 screaming at Annie to leave, and a neighbor standing post in the driveway
-until it was over. By evening Annie was at the police station. Whether a
-report went on file is, as of this writing, unconfirmed — which is why this
-page's status is open.
+until it was over. By evening Annie was at the police station, and by 19:49
+an emergency PFA had been filed and granted — the report went on file the
+same night. The open question is what follows the paper, not whether the
+paper exists.
 
 ## The day before it broke
 
@@ -135,6 +136,14 @@ At **18:49 EDT**, one more:
 
 > At the police station
 
+At **19:49 EDT**, the outcome:
+
+> Emergency pfa filed and granted
+
+She filed for an emergency Protection From Abuse order and a judge granted
+it the same evening. All three screenshots are archived byte-identical in
+`raw/2026-09-29-annie-texts-police-station/`.
+
 Dan's standing play, set before either text arrived: answer if she calls,
 and give a factual witness statement only. No advocacy, no editorial, no
 relitigation of the eleven years — the facts of the afternoon, stated
@@ -149,10 +158,12 @@ point — rules set in calm survive contact with adrenaline, and this evening
 had no calm left to spare.
 
 As of 19:34 EDT, no call from her had come, and whether a report went on
-file was unconfirmed. That is the open thread this page carries: the
-afternoon produced a 911 call with no response at the house and a police
-station visit with an unknown outcome. Paper exists or it does not; the wiki
-will update when the fact is known, not before.
+file was unconfirmed. The 19:49 text closed that thread: the report went on
+file and an emergency PFA was granted the same evening. The afternoon
+produced a 911 call with no response at the house and a police station visit
+that produced paper — the response layer failed at the driveway and held at
+the courthouse, which is the shape of the remaining safety question, not a
+resolution of it.
 
 ## The tracker question
 
@@ -328,10 +339,9 @@ than payment.
 
 The page stays open until these are answered, in rough order of urgency:
 
-1. **The police report.** Annie was at the station at 18:49. Did a report go
-   on file — hers, the 911 call's, both, neither? Did Dan get the call she
-   warned him about, and did he give the factual witness statement? Paper
-   exists or it does not.
+1. **The police report.** Answered 19:49 the same evening: report on file,
+   emergency PFA filed and granted. Remaining: did Dan get the call she
+   warned him about at 17:56, and did he give the factual witness statement?
 2. **The damage.** The broken glass needs photographing — the afternoon's
    physical receipt, before cleanup erases it. Photos with timestamps, kept
    with the screenshots in `raw/2026-09-29-annie-texts-police-station/` or a

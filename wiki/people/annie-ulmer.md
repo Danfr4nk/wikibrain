@@ -3252,10 +3252,14 @@ post de-escalating with Coles directly. The full record is
 
 She fled to her parents. At 17:56 she texted: "Parents home. Police here" —
 warning Dan she might have to call him as a witness and to pick up if she
-did. At 18:49: "At the police station." Both screenshots are archived
-byte-identical in `raw/2026-09-29-annie-texts-police-station/`. His standing
-play, set before either text: answer, and give a factual witness statement
-only. Whether a report went on file was unconfirmed as of 19:34.
+did. At 18:49: "At the police station." At 19:49: "Emergency pfa filed and
+granted" — she filed for an emergency Protection From Abuse order at the
+station and a judge granted it the same evening. All three screenshots are
+archived byte-identical in `raw/2026-09-29-annie-texts-police-station/`. His
+standing play, set before the first text: answer, and give a factual witness
+statement only. The paper trail is now on file; the report plus the granted
+emergency PFA partially close the open safety item — the police never came
+to the house, but the station track produced paper the same night.
 
 The September 24 suspicion hardened the same night into the standing
 theory: Coles keeps arriving wherever she is, beyond luck — a tracker on
