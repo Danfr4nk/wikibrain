@@ -1,0 +1,18 @@
+{
+ "batch": "20260930-1936",
+ "pulled_at_utc": "2026-09-30T23:36:26Z",
+ "origin": "operator-uploaded instrument export (iOS), archived by Sammy",
+ "items": [
+  {
+   "file": "scenario-ratings-v3.json",
+   "what": "Scenario-ratings v3 tube-sweep export: 78 base situations x 2 single-knob modifiers = 234 items, 24-metric vectors, 1-10 ratings (46 rated, 5 excluded); ts 2026-09-30T23:36:26.425Z",
+   "author": "scenario-ratings v3 instrument (Dan's ratings)"
+  }
+ ],
+ "files": {
+  "scenario-ratings-v3.json": {
+   "sha256": "8fb0e700520c1f5f62fcd22e024cd636a395725e893336fda87a87a3fa8bb898",
+   "bytes": 165178
+  }
+ }
+}
