@@ -1,0 +1,197 @@
+#!/usr/bin/env python3
+"""wb-linkbackfill — candidate extraction for the first-mention link backfill.
+
+Phase 1 (this script): deterministic. Builds an entity index from wiki/
+frontmatter (people, places, work orgs: title + aliases + surnames), then
+scans every article body for unlinked mentions. Emits JSON candidates.
+
+Phase 2 (separate, needs approval): Jev judges the AMBIGUOUS candidates;
+deterministic applier links the unambiguous ones as [[target|mention]].
+
+Usage: wb-linkbackfill [--out candidates.json] [--limit N]
+"""
+import json
+import os
+import re
+import sys
+
+REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+WIKI = os.path.join(REPO, "wiki")
+LINK_DOMAINS = ("people", "places", "work")
+
+FRONTMATTER = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
+WIKILINK = re.compile(r"\[\[([^\]]+)\]\]")
+CODEBLOCK = re.compile(r"```.*?```", re.DOTALL)
+CODESPAN = re.compile(r"`[^`]*`")
+
+
+def parse_frontmatter(text):
+    m = FRONTMATTER.match(text)
+    if not m:
+        return {}, text
+    meta, body = {}, m.group(1)
+    # minimal YAML: only the keys we need
+    for key in ("title", "domain", "page_type", "aliases"):
+        mm = re.search(rf"^{key}:\s*(.+)$", body, re.MULTILINE)
+        if mm:
+            meta[key] = mm.group(1).strip()
+    aliases = meta.get("aliases", "")
+    if aliases.startswith("["):
+        meta["aliases"] = [a.strip().strip("'\"") for a in
+                           aliases.strip("[]").split(",") if a.strip()]
+    else:
+        meta["aliases"] = [aliases.strip("'\"")] if aliases else []
+    meta["title"] = meta.get("title", "").strip("'\"")
+    return meta, text[m.end():]
+
+
+def page_key(path):
+    rel = os.path.relpath(path, WIKI)[:-3]  # strip .md
+    return "wiki/" + rel
+
+
+def build_entities():
+    """name -> list of (page_key, title). Names: aliases + titles."""
+    entities = {}
+    for root, _, files in os.walk(WIKI):
+        for fn in files:
+            if not fn.endswith(".md"):
+                continue
+            path = os.path.join(root, fn)
+            if "master-timeline" in path:
+                continue
+            try:
+                text = open(path, encoding="utf-8").read()
+            except OSError:
+                continue
+            meta, _ = parse_frontmatter(text)
+            if meta.get("domain") not in LINK_DOMAINS:
+                continue
+            key = page_key(path)
+            title = meta.get("title", "")
+            names = set(meta.get("aliases", []))
+            # title without parenthetical disambiguator, if it adds a name
+            base = re.sub(r"\s*\(.*?\)\s*", "", title).strip()
+            if base:
+                names.add(base)
+            for name in names:
+                name = name.strip().strip("'\"")
+                if len(name) < 2 or name.startswith("@"):
+                    continue
+                entry = (key, title)
+                if entry not in entities.setdefault(name, []):
+                    entities[name].append(entry)
+            # surname variant for people: last token of multi-word names
+            if meta.get("domain") == "people":
+                for name in list(names):
+                    parts = name.split()
+                    if len(parts) >= 2 and parts[-1][0].isupper():
+                        surname = parts[-1]
+                        entry = (key, title)
+                        if entry not in entities.setdefault(surname, []):
+                            entities[surname].append(entry)
+    return entities
+
+
+def strip_markup(body):
+    body = CODEBLOCK.sub("", body)
+    body = CODESPAN.sub("", body)
+    return body
+
+
+def scan_article(path, entities):
+    text = open(path, encoding="utf-8").read()
+    meta, body = parse_frontmatter(text)
+    key = page_key(path)
+
+    # targets already linked anywhere in the article
+    linked_targets = set()
+    for m in WIKILINK.finditer(body):
+        target = m.group(1).split("|")[0].split("#")[0].strip()
+        if target.startswith("wiki/"):
+            linked_targets.add(target)
+
+    clean = strip_markup(WIKILINK.sub("", body))
+    candidates = []
+    # longest names first so "Jerel Coles" wins over "Coles"
+    for name in sorted(entities, key=len, reverse=True):
+        # word-boundary, allow possessive 's
+        pat = re.compile(r"(?<![\w\]])" + re.escape(name) + r"(?:'s)?(?![\w])")
+        for m in pat.finditer(clean):
+            line = clean.count("\n", 0, m.start()) + 1
+            start = max(0, m.start() - 60)
+            end = min(len(clean), m.end() + 60)
+            ctx = clean[start:end].replace("\n", " ").strip()
+            pages = entities[name]
+            if len(pages) == 1:
+                pkey, title = pages[0]
+                status = "already-linked" if pkey in linked_targets else "unambiguous"
+            else:
+                pkey, title = None, None
+                status = "ambiguous"
+            candidates.append({
+                "article": key,
+                "mention": m.group(0),
+                "name": name,
+                "line": line,
+                "context": ctx,
+                "status": status,
+                "target": pkey,
+                "target_title": title,
+                "options": [{"key": k, "title": t} for k, t in pages] if len(pages) > 1 else None,
+            })
+    return candidates
+
+
+def main():
+    out_path = None
+    limit = None
+    args = sys.argv[1:]
+    i = 0
+    while i < len(args):
+        if args[i] == "--out":
+            out_path = args[i + 1]; i += 2
+        elif args[i] == "--limit":
+            limit = int(args[i + 1]); i += 2
+        else:
+            i += 1
+
+    entities = build_entities()
+    n_names = len(entities)
+    n_multi = sum(1 for v in entities.values() if len(v) > 1)
+    print(f"entities: {n_names} names ({n_multi} ambiguous)", file=sys.stderr)
+
+    articles = []
+    for root, _, files in os.walk(WIKI):
+        for fn in files:
+            if fn.endswith(".md") and "master-timeline" not in fn:
+                articles.append(os.path.join(root, fn))
+    articles.sort()
+    if limit:
+        articles = articles[:limit]
+
+    all_candidates = []
+    for path in articles:
+        try:
+            all_candidates.extend(scan_article(path, entities))
+        except OSError:
+            continue
+
+    summary = {}
+    for c in all_candidates:
+        summary[c["status"]] = summary.get(c["status"], 0) + 1
+    print(f"articles scanned: {len(articles)}", file=sys.stderr)
+    print(f"candidates: {len(all_candidates)} {summary}", file=sys.stderr)
+
+    payload = {"candidates": all_candidates, "summary": summary,
+               "entity_names": n_names}
+    if out_path:
+        json.dump(payload, open(out_path, "w", encoding="utf-8"),
+                  indent=1, ensure_ascii=False)
+        print(f"wrote {out_path}", file=sys.stderr)
+    else:
+        json.dump(payload, sys.stdout, indent=1, ensure_ascii=False)
+
+
+if __name__ == "__main__":
+    main()
