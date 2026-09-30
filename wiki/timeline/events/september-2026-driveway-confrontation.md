@@ -142,7 +142,17 @@ At **19:49 EDT**, the outcome:
 
 She filed for an emergency Protection From Abuse order and a judge granted
 it the same evening. All three screenshots are archived byte-identical in
-`raw/2026-09-29-annie-texts-police-station/`.
+`raw/2026-09-29-annie-texts-police-station/`. The granted order itself is now
+in hand — photographed from Dan's phone that night and archived in
+`raw/2026-09-29-annie-pfa-order/`: Fayette County Magisterial District
+14-1-01, MDJ Jalissa A. Cox, *Anne Louise Ulmer v. Jerel Wayne Coles*, ex
+parte hearing 9/29/26, signed the same day. The boxes checked: defendant to
+refrain from abusing, defendant to refrain from contacting (including
+entering her workplace or school, or harassing her), and defendant **evicted
+from 311 Derrick Avenue, Uniontown PA 15401**, with an Order of Eviction and
+Restoration of Possession directed to the constable. Violation is criminal
+contempt under 23 Pa.C.S. § 6114. Docket and case numbers were blank on the
+photographed page; only one page was shared.
 
 Dan's standing play, set before either text arrived: answer if she calls,
 and give a factual witness statement only. No advocacy, no editorial, no

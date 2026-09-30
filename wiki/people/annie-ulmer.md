@@ -3255,7 +3255,14 @@ warning Dan she might have to call him as a witness and to pick up if she
 did. At 18:49: "At the police station." At 19:49: "Emergency pfa filed and
 granted" — she filed for an emergency Protection From Abuse order at the
 station and a judge granted it the same evening. All three screenshots are
-archived byte-identical in `raw/2026-09-29-annie-texts-police-station/`. His
+archived byte-identical in `raw/2026-09-29-annie-texts-police-station/`, and
+the granted order itself was photographed that night and archived in
+`raw/2026-09-29-annie-pfa-order/`: Fayette County MDJ 14-1-01, MDJ Jalissa
+A. Cox, *Anne Louise Ulmer v. Jerel Wayne Coles*, ex parte hearing 9/29/26.
+Checked boxes: no abuse, no contact (including her workplace/school, no
+harassment), and eviction of Coles from 311 Derrick Avenue, Uniontown PA
+15401, with an Order of Eviction and Restoration of Possession to the
+constable — violation is criminal contempt under 23 Pa.C.S. § 6114. His
 standing play, set before the first text: answer, and give a factual witness
 statement only. The paper trail is now on file; the report plus the granted
 emergency PFA partially close the open safety item — the police never came
