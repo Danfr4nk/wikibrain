@@ -57,6 +57,34 @@ the child in the household's orbit in 2016 ("feeding Elijah") and again,
 under the same name, at 463 Morgantown in February 2026 (homework before
 basketball practice).
 
+**REFINED [2026-09-29]: the "John Felix" in Coles's messages is not this man
+— but the name itself is real.** The corpus-sweep gate is what caught it: Suz
+herself uses "John Felix" as the painter's full name. *"John Felix paints and
+he is pretty good from what I've heard"* (2020-09-03), and *"it belonged to
+John Felix's Dad who died last year"* (2024-09-10). So the name exists in the
+family orbit, six years deep. The man wearing it in 2026 is someone else.
+
+On **2026-03-31** a no-caller-ID man rang Suz asking whether Annie was with
+her. Asked who he was, he said "it's John Felix." Suz — who knows Felix —
+told him flat: *"no, I know him and this isn't his voice."* The caller
+pivoted to *"are you and Annie doing coke with John Felix?"* — the name
+deployed in third person, as a weapon, by a voice that was not Felix's.
+
+On **2026-06-01** Jerel Coles taunted Dan in-thread: *"invite John Felix
+over."* Dan's confirmed theory is that Coles built the name by misreading
+his March 16 text to Annie — *"go work with John and Felix,"* two people
+(John Carney the contractor and Felix the painter; the March 18 follow-up,
+*"is John done for the day?"* asked of Felix, confirms two men). The corpus
+adds the refinement: Coles may equally have lifted Felix's real full name
+from the orbit rather than fusing it from the text. Either way the voice
+check is the kill shot — the "John Felix" of the March 31 call and the June
+1 taunt is an impersonator, not the painter, and no message history anywhere
+attaches the name to a supplier in Dan's life.
+
+This also moves the handle-identity question above: Suz's 2020/2024 use of
+"John Felix" for the painter supports — not conclusively — identifying the
+2016 handle owner with the decade-long Felix. Same full name, same orbit.
+
 ## Related
 
 [[wiki/people/suzanne-frank]] · [[wiki/self/message-corpora/master-message-dump]]

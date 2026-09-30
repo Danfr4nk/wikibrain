@@ -44,7 +44,7 @@ connections:
     claim: "The dog is the type-case channel and the entry's human core: his origin (Claire's stray, the Sharpie note), his MAX_PRIME exemption, his register ('Mimi'), his voice ('Milo said...'), his oath function, his duress-code use — the full anatomy of a channel that is starve-proof because it is alive."
   - page: wiki/people/tom
     type: parallels
-    claim: "The Tom rows are this entry's material-channel controls: 2014 (supply, 5 days) and 2026 (supply, same-day) break fast through the expensive channel because nothing cheaper existed, and the 11-week post-May-30 silence holds because a replacement node (Bop) zeroed the dependency."
+    claim: "The Tom rows are this entry's material-channel controls: 2014 (supply, 5 days) and 2026 (supply, same-day) break fast through the expensive channel because nothing cheaper existed, and the 11-week post-May-30 silence holds because a replacement node (the supplier) zeroed the dependency."
   - page: wiki/people/ally-lubin
     type: contains
     claim: "The Ally thread is the witness channel: August 28, September 4, September 7, 2026 block-claims performed to a witness while the primary channel stayed live — and the September 7 'I unblocked paw patrol to see if I would get anything from her' admission that the witness was the mechanism of his own re-check."
@@ -249,7 +249,7 @@ half of the experiment. The dog did the second.
 Convergence check against the loop's own catalog, which is the independent
 instrument: the Tom endpoint (post-May-30, ~11 weeks silence, confirmed by
 operator report *"No I have not been in contact with tom"*) holds because the
-dependency was zeroed *and* a replacement node (Bop, house-calling daily) exists
+dependency was zeroed *and* a replacement node (the supplier, house-calling daily) exists
 — no co-held object, no bond residue, no channel left to fire
 [[wiki/mind/synthesis/block-unblock-loop]]. [[wiki/people/menore|Menore]]'s farewell held because the channel was
 purely transactional — nothing co-held once the transaction ended. The [[wiki/people/rick-frank|Rick]] row that once anchored the "severance capacity" claim was retracted outright (built

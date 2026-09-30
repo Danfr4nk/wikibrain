@@ -413,7 +413,7 @@ exhaust.
   >
   > This is a confirmation, and one the rule could cheaply have got wrong. It
   > scored Tom as a case where the dependency had *ended* —
-  > [[wiki/mind/synthesis/supply-network]] has the current primary node as Bop,
+  > [[wiki/mind/synthesis/supply-network]] has the current primary node as the supplier,
   > house-calling daily, so the supply need has a replacement and this channel
   > carries nothing. The rule predicted a hold; it held. Read against the Annie
   > row, which the rule got **wrong** by scoring dependency without noticing a
@@ -812,7 +812,7 @@ date, quote, or figure about Annie is introduced.
 | 2. Personality profile | **Checked, does not add a distinct mechanism** beyond what register 1 supplies. |
 | 3. Historical precedent | **Already load-bearing.** The full case table (Annie, Tom, Kristin, Menore, the 2014/2022 account migration) is this page's own historical base. |
 | 4. Attitudes and forces | **Checked, does not bear** beyond [[wiki/mind/concepts/conflict-architecture]] and [[wiki/mind/concepts/attachment-model]], already members. |
-| 5. Security and prosperity | **Already load-bearing.** The Tom/Bop supply-node substitution and the Menore control both reason from material dependency. |
+| 5. Security and prosperity | **Already load-bearing.** The Tom/supplier supply-node substitution and the Menore control both reason from material dependency. |
 | 6. Health | **Checked, does not bear.** |
 | 7. Romantic and relational state | **This page IS the register.** No further citation needed or added. |
 | 8. Age and upbringing | **Checked, does not bear** beyond the already-corrected Rick Frank material. |

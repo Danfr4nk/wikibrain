@@ -69,7 +69,7 @@ connections:
     claim: "Menore is the NYC delivery node whose product is never named in-thread — measured: zero product terms in 4,413 messages — but is called 'menore's bags' and distinguished from weed in Dan's other threads, which narrows the six-year, 99.3%-availability service record to a bagged non-cannabis product consistent with cocaine logistics."
   - page: wiki/people/annie-ulmer
     type: evidenced-by
-    claim: "Cocaine procurement is the load-bearing mechanism of the Annie terminal phase — Dan controlled the supply ('bop') as the relationship's primary retention mechanism, and stated the thesis out loud: 'getting you drugs... was about that being the only way you would see me.'"
+    claim: "Cocaine procurement is the load-bearing mechanism of the Annie terminal phase — Dan controlled the supply ('the supplier') as the relationship's primary retention mechanism, and stated the thesis out loud: 'getting you drugs... was about that being the only way you would see me.'"
   - page: wiki/mind/synthesis/dan-annie-fallout-verdict
     type: evidenced-by
     claim: "The moral verdict names supply-chain control as Dan's co-authored contribution to the decade-long catastrophe — the cocaine procurement architecture is the mechanism that held the relationship together past the point it had stopped functioning."
@@ -134,7 +134,7 @@ changelog:
 > [[wiki/mind/synthesis/dan-annie-fallout-verdict]], all moved 2026-08-20 for
 > the August 16–19 ingest. **Nothing on this page is withdrawn.** The August
 > 2–16 record confirms the pattern already documented rather than changing it:
-> daily $50–$100 procurement, the source ("bop") unchanged, and one line worth
+> daily $50–$100 procurement, the source ("the supplier") unchanged, and one line worth
 > having on record because it is the clearest statement of the supply
 > relationship's social cost anywhere in the corpus — *"you do realize that I*
 > *had to invent someone who I am selling to, because nobody is comfortable*
@@ -398,7 +398,7 @@ dominant unnamed product. The succession of cocaine-specific nodes:
 | [[wiki/people/annoying|Annoying]] (unidentified) | 2019 | Short-term NYC dealer | Explicit cocaine; $300/ball, $8ball/280 |
 | [[wiki/people/menore|Menore]] | 2018–25 (continuous) | NYC professional delivery | Never named in-thread — 0 product terms in 4,413 messages; **"bags," and explicitly not weed**, when named outside it |
 | [[wiki/people/tom|Tom]] | ~2010–2026 | Friend-supplier (strips, cocaine, mushrooms, klonopin) | Cocaine among products; sole strip source by 2025 |
-| **Bop** | 2026–present | Current primary node (daily house calls at noon) | Unnamed; five handoffs in six days documented July–Aug 2026 |
+| **The supplier** | 2026–present | Current primary node (daily house calls at noon) | Unnamed; five handoffs in six days documented July–Aug 2026 |
 
 The cocaine supply chain demonstrates the network's characteristic
 reliability inversion: the more purely transactional the relationship,
@@ -415,7 +415,7 @@ Cocaine procurement is the load-bearing mechanism of the
 [[wiki/people/annie-ulmer|Annie]] relationship's final year. In the
 terminal phase (August 2025 – March 2026), Dan is no longer only the
 network's consumer — he is its distribution point for Annie, who is
-unemployed, dependent, and sourcing through him ("bop"). The supply
+unemployed, dependent, and sourcing through him ("the supplier"). The supply
 architecture, not sentiment, is the load-bearing structure of the
 relationship's final year.
 

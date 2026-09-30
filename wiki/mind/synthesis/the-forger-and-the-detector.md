@@ -138,7 +138,7 @@ and Eastern (UTC−4) in brackets, per
 | 18:17:57 (14:17) | Dan | Should I center it? | — |
 | 18:18:30 (14:18) | Dan | Are you SENDING this to them or just going to SHOW it on your phone | — |
 | 18:18:42 (14:18) | Dan | If you're sending it we need to do a lot more work here | — |
-| 18:21:23 (14:21) | Dan | Bop coming in a little bit if you wanted something | — |
+| 18:21:23 (14:21) | Dan | The supplier coming in a little bit if you wanted something | — |
 | 18:22:48 (14:22) | Dan | — | video/quicktime |
 | 18:22:53 (14:22) | Dan | Milo watching Candace | — |
 | 18:23:42 (14:23) | Annie | Perf | — |

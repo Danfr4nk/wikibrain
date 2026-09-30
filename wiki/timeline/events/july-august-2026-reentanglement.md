@@ -489,7 +489,7 @@ Annie's handle during a Coles-present episode needs the episode checked first.
   this window exist in the export only as markers, including the video that
   the July 26 accusation concerns.
 - **New names, undocumented**: Sugie, Laura, Courtney, Brian (relocated to
-  California), Tanya, Lucky, Bailey, and "Bop" — a supplier described as
+  California), Tanya, Lucky, Bailey, and "The supplier" — a supplier described as
   arriving at Dan's house daily at noon, who by volume is now the corpus's
   most active supply contact and has no page.
 

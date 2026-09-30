@@ -748,7 +748,7 @@ spine deepens (~$119–123K net outflow across the decade). The supply
 network runs through her in both directions. What changes is the
 direction of dependence: logistics facilitator in the 2018–19 Johnny era,
 dependent consumer in the terminal phase, when his control of the supply
-("bop") becomes the relationship's primary retention mechanism
+("the supplier") becomes the relationship's primary retention mechanism
 ([[wiki/mind/synthesis/supply-network]]). The declarations continue —
 the severance count keeps climbing toward 129 — and the re-engagements
 keep following inside hours. Nothing in this phase falsifies Protocol A;

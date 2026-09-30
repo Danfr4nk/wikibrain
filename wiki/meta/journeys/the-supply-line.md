@@ -323,7 +323,35 @@ layer the redundancy was actually made of.
 | [[wiki/people/sam]] | 2019–2020 | NYC | Cannabis delivery; the only node to **fire Dan as a customer** (February 2020) |
 | [[wiki/people/jim-vrabel]] | ~2.5 years | Uniontown | Marijuana; closer to a regular acquaintance; sells to Suz in her own name |
 | Tim | ~2020s | undocumented | Named in the MAX_PRIME succession; **no thread identified** |
-| **Bop** | 2026 | Uniontown | Current primary — **house calls daily at noon**; Dan maintains his property in part-payment; real name unknown |
+| **The supplier** | 2026 | Uniontown | Current primary — **house calls daily at noon**; Dan maintains his property in part-payment; real name unknown; the node that behaves least like a node |
+
+### The current node, as a person
+
+The table row above undersells the relationship, and the journey would be
+dishonest if it left it at logistics. Per Dan's account, given September 29,
+2026: when the household had no money last year, the supplier bought Suz a
+car tire she could not afford. Without being asked, he arranged for someone
+to cut her knee-high grass. When Suz has no money, he brings her what she
+needs in exchange for a massage — care structured with dignity, not charity.
+He got Dan the BFS Foods job. He handles Dan's Suboxone logistics. And he
+refuses to sell to Annie — not only Dan's boundary (stated May 31: not now,
+not in six months, not in five years) but his own judgment, made after what
+she did to Dan: he does not trust her.
+
+Dan's words for him: "He is, quite literally, the man" — the
+provider-protector figure, the one person in the supply orbit Dan would call
+family. Notably, he carries none of the paper trail the position usually
+generates: no rap sheet, careful, disciplined. The network page's model —
+distance disciplines, intimacy licenses failure — meets its counterexample
+here: the most embedded node in the current route is also the most reliable
+one, and the reliability is personal rather than professional. What the
+twelve-year record says about Tom (the audit that runs late on chosen
+objects) does not say about this node, because the care runs the other way:
+he audits himself.
+
+The wiki records the man as a function of the route and goes no further. No
+name — per the standing exclusion, never in this wiki — and no identifying
+particulars beyond what the route requires.
 | **Dan himself** | 2025–2026 | Uniontown | The inversion: distribution point for Annie in the terminal phase |
 
 **What the log measures.** Read as a sequence rather than a list, the roster
@@ -577,7 +605,7 @@ sum**, which means the comparison between the estate distribution and the
 supply line is a comparison between a measured quantity and an unmeasured one.
 
 **Two nodes are unresolved.** "Tim" is named in the succession between Johnny
-and Tom with no thread identified and no era confirmed. "Bop" is the current
+and Tom with no thread identified and no era confirmed. "The supplier" is the current
 primary node and his real name, his relationship to the Tom node he appears to
 have succeeded, and the terms of the weed-whacking arrangement are all unknown
 ([[wiki/mind/synthesis/supply-network]]).

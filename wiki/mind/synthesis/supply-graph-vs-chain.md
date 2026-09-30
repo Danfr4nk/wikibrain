@@ -52,7 +52,7 @@ connections:
     claim: "The illicit layer's May 2026 failure is that page's audit-timing rule running on one market: Tom sat on its two-clocks table as a chosen object whose model revised only after roughly eighteen years, and this page's graph shows what the deferred audit cost in withdrawal hours."
   - page: wiki/timeline/events/july-august-2026-reentanglement
     type: evidenced-by
-    claim: "Bop — arriving daily at noon, by volume the corpus's most active supply contact — is the post-collapse replacement node. This entry reads him as the graph rebuilding with higher availability than the node the two-layer cut destroyed."
+    claim: "The supplier — arriving daily at noon, by volume the corpus's most active supply contact — is the post-collapse replacement node. This entry reads him as the graph rebuilding with higher availability than the node the two-layer cut destroyed."
   - { target: "[[wiki/people/tom-maison-supply-record]]", type: corroborates, claim: "The Tom supply ledger — announcement pattern, loss-absorption episode, 2014 precedent, May 2026 sequence — is this page's illicit-layer evidence base." }
   - { target: "[[wiki/health/suboxone-dose-curve]]", type: contextualizes, claim: "The one-point-and-silence dose inventory behind this page's demand side — the fixed-rate intake the graph's edges exist to carry." }
   - { target: "[[wiki/health/maintenance-vs-verdict]]", type: references, claim: "The rule-generalization synthesis whose 'May 2026 demonstration' covers the same failure from the chemical-register side." }
@@ -138,7 +138,7 @@ The direction is monotonic: **the licit layer thins over fifteen years while the
 
 This is also where the configured-body page's Prediction 2 lands: *"The Suboxone supply will fail again through geography, not through Tom"* **[ATTESTED, wiki/health/the-configured-body]**. That prediction was written about the *next* failure. This page's thesis is that May 2026 was already its partial confirmation — the geography jammed the licit layer, and the Tom failure finished what the geography started. The prediction named the right failure mode and the wrong sufficiency: geography alone did not produce withdrawal in June 2025, because Tom answered. It took both.
 
-One more property of the prescriber relationship, because it matters for the remedy section: **it is the only edge in the graph that requires an institution on the other end.** Every other edge terminates at a person — Tom, Johnny, Bop, Suz. The prescriber edge terminates at a doctor *and* a pharmacy *and* a jurisdiction, three institutions that must all agree. That is why it is the hardest edge to rebuild and the easiest to jam: it has three chokepoints where every other edge has one. A graph that depends on its hardest edge as a layer is a graph built backwards — unless that edge is thick enough to carry the institutional overhead, which this one, by 2025, was not.
+One more property of the prescriber relationship, because it matters for the remedy section: **it is the only edge in the graph that requires an institution on the other end.** Every other edge terminates at a person — Tom, Johnny, the supplier, Suz. The prescriber edge terminates at a doctor *and* a pharmacy *and* a jurisdiction, three institutions that must all agree. That is why it is the hardest edge to rebuild and the easiest to jam: it has three chokepoints where every other edge has one. A graph that depends on its hardest edge as a layer is a graph built backwards — unless that edge is thick enough to carry the institutional overhead, which this one, by 2025, was not.
 
 ### The licit layer's true chokepoint: the pharmacy
 
@@ -428,7 +428,7 @@ The era's characteristic event is not a failure but a disappearance: the paralle
 
 Cut set: {prescriber route, Tom} — and Tom is also the prescriber route's failover, so the effective cut set is {Tom, Tom}. The June 2025 event is the era's load test: the licit edge fails, Tom answers, the graph holds. The May 2026 event is the cut: both edges down, no third edge exists, withdrawal follows. The era lasted roughly a year. It produced the only supply failure in sixteen years.
 
-**Post-May 2026: the Bop recentralization.** Edges: Bop (daily, scheduled, house-calling), the prescriber route (status unknown — no rebuild documented). Cut set: {Bop}. Smaller than the two-edge graph that failed. More reliable node, worse topology.
+**Post-May 2026: the supplier recentralization.** Edges: the supplier (daily, scheduled, house-calling), the prescriber route (status unknown — no rebuild documented). Cut set: {the supplier}. Smaller than the two-edge graph that failed. More reliable node, worse topology.
 
 If the model is right, this graph is *more* fragile than the one that produced May 2026, not less — it just hasn't been tested yet.
 
@@ -476,9 +476,9 @@ This entry does not rule that out. It prices it: under the counter-model, the an
 
 ## 7. Scoreable predictions
 
-**1. If the post-collapse graph stays {Bop} plus an un-rebuilt prescriber route, the next failure will be single-edge and sufficient.**
+**1. If the post-collapse graph stays {the supplier} plus an un-rebuilt prescriber route, the next failure will be single-edge and sufficient.**
 
-The prediction: the Bop-era graph has a cut set of one. The next Bop outage — relocation, falling-out, arrest, any of the failure grammars the record holds — produces withdrawal, not panic. The June 2025 trace is the contrast: a one-edge graph *with* a live failover survives. A one-edge graph without one does not.
+The prediction: the supplier-era graph has a cut set of one. The next supplier outage — relocation, falling-out, arrest, any of the failure grammars the record holds — produces withdrawal, not panic. The June 2025 trace is the contrast: a one-edge graph *with* a live failover survives. A one-edge graph without one does not.
 
 Score: on the next documented supply disruption — withdrawal (predicted), or routing to a surviving edge (not).
 
@@ -490,15 +490,15 @@ Score: on the next dated prescriber event — geographic chokepoint (predicted),
 
 **3. The 2018 parallel-node depth will not be rebuilt.**
 
-The record's redundancy decays monotonically and no era rebuilds it. The prediction is that no future export will show two or more concurrent Suboxone suppliers again — the graph rebuilds by node replacement (Bop for Tom), not by depth.
+The record's redundancy decays monotonically and no era rebuilds it. The prediction is that no future export will show two or more concurrent Suboxone suppliers again — the graph rebuilds by node replacement (the supplier for Tom), not by depth.
 
 Score: on the next full-export review — single primary edge (predicted), or parallel Suboxone suppliers (not).
 
 **4. The friendship-embedded edge will keep failing in the relational register.**
 
-If Bop becomes a friend the way Tom was, the failures will be owe-and-silence cycles and string-alongs, not logistical ones. The reliability inversion — distance disciplines, intimacy licenses failure — predicts that the highest-volume, closest supplier is the least reliable.
+If the supplier becomes a friend the way Tom was, the failures will be owe-and-silence cycles and string-alongs, not logistical ones. The reliability inversion — distance disciplines, intimacy licenses failure — predicts that the highest-volume, closest supplier is the least reliable.
 
-Score: on the next Bop supply failure — relational grammar (predicted), or logistical (not).
+Score: on the next supplier failure — relational grammar (predicted), or logistical (not).
 
 ## 8. Why the graph beat the chain on this question
 
@@ -514,7 +514,7 @@ The graph model is the better account of *failure*, because failure is what a ch
 
 **A chain cannot falsify itself on correlation.** Its predictions are about nodes (the next node will be less reliable than the last). The graph's predictions are about states (the next failure of a one-edge graph will be sufficient; the licit failure will be geographic). Different predictions, different evidence, different page.
 
-None of this retires the chain. Succession is a chain phenomenon — the load really did transfer from Zach to Johnny to Tom to Bop, and the economics of that transfer (strip prices, fronts, reliability percentages) are the chain model's native content. The correct relationship between the pages is stated in the frontmatter: *contradicts* on the failure architecture, *evidenced-by* and *parallels* everywhere else. Two instruments, one object.
+None of this retires the chain. Succession is a chain phenomenon — the load really did transfer from Zach to Johnny to Tom to the supplier, and the economics of that transfer (strip prices, fronts, reliability percentages) are the chain model's native content. The correct relationship between the pages is stated in the frontmatter: *contradicts* on the failure architecture, *evidenced-by* and *parallels* everywhere else. Two instruments, one object.
 
 The chain model's last word on May 2026 is that a single supplier's no-show cost a job. The graph model's correction: **it took two layers failing together to produce the only withdrawal in sixteen years, and the two layers failed together because they were never as separate as the chain made them look.** Tom was the failover and the primary. Geography was the condition, not the event. The cut was correlated. That is the fragility model, and it is the only one the record's single two-layer failure supports.
 
@@ -538,7 +538,7 @@ And then there is the audit cost, which is where [[wiki/mind/synthesis/the-defer
 
 The audit finally ran in May 2026: the block, the $36 demand, the threat via Tom's father, the severance. But notice the *timing*: the audit ran *after* the supply failure, not before it. The friendship was audited when it stopped delivering product, which means the audit was triggered by the graph's failure rather than preventing it.
 
-A supply graph whose quality control runs eighteen years behind its edges is a graph that cannot learn from its own failure modes — the 2014 cycle produced no edge replacement, no diversification, no licit-layer rebuild. The 2026 cycle produced Bop: a better node, the same topology. The audit, when it finally ran, audited the *person* and left the *graph* untouched.
+A supply graph whose quality control runs eighteen years behind its edges is a graph that cannot learn from its own failure modes — the 2014 cycle produced no edge replacement, no diversification, no licit-layer rebuild. The 2026 cycle produced the supplier: a better node, the same topology. The audit, when it finally ran, audited the *person* and left the *graph* untouched.
 
 ## Gaps
 
@@ -546,7 +546,7 @@ A supply graph whose quality control runs eighteen years behind its edges is a g
 - **The May 2026 licit layer's actual state.** The scramble's licit absence is `never_observed`; whether the prescriber route was *down* (jurisdictionally jammed, per the June 2025 trace) or merely *unused* (thin relationship, never tried under pressure) is the page's central unadjudicated claim, and the correlation thesis needs the former.
 - **The 2025-03-06 "move my prescription here" destination.** "Here" is unlocated. Uniontown vs. NYC vs. another address changes the June 2025 jurisdiction story.
 - **The jumped-line near-miss's date.** Undated in the chemical-architecture record; placed before 2025 on node-identity grounds, but the graph's redundancy history would sharpen with a date.
-- **The second dealer's identity** (+17243233522, the 2018 parallel node) and **Bop's supply source** — one upstream edge the terminal and post-collapse graphs both lack documentation for.
+- **The second dealer's identity** (+17243233522, the 2018 parallel node) and **the supplier's supply source** — one upstream edge the terminal and post-collapse graphs both lack documentation for.
 - **The second contact and the workplace customer** of the May cascade are unnamed; the burns are dated but not attributed.
 - **Menore's 2026 status** beyond "still operating 2026" — whether the NYC professional edge survived the operator's Uniontown displacement as a reachable edge or only as a memory.
 - **Pre-2011 edges.** The graph starts with the 2011 appointment; whatever carried the regimen before January 2011 is undocumented, and the chain model's own ledger opens with a gap there too.

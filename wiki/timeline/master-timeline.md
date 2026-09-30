@@ -1,12 +1,8 @@
----
-domain: timeline
-page_type: summary
-status: active
-knowledge: derived
-date_created: 2026-08-14
-date_modified: 2026-08-15
-sources:
-  - generated from every page under the wiki by bin/wiki-timeline
+wrote wiki/timeline/master-timeline.md
+  6,358 events · 28 years (2000–2027) · 476 pages
+  tier 1 1,184 · tier 2 764 · tier 3 4,410
+  8,359 candidates rejected as non-events
+y bin/wiki-timeline
 connections:
   - page: wiki/timeline/index
     type: component-of
@@ -19,7 +15,7 @@ Every dated event recorded anywhere in this wiki, in order, each linked back to 
 
 **This page is generated. Do not hand-edit it** — run `bin/wiki-timeline generate`. To correct an entry, fix the page it came from; the fix appears here on the next run.
 
-**6,349 events** across **28 years** (2000–2027), drawn from **475 pages**. Tier 1 1,183 · Tier 2 763 · Tier 3 4,403.
+**6,358 events** across **28 years** (2000–2027), drawn from **476 pages**. Tier 1 1,184 · Tier 2 764 · Tier 3 4,410.
 
 ## What counts as an event here
 
@@ -6968,6 +6964,8 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/people/jim-blanchard]] · September 2020: the roach bombing and the long exchange
 - · **2020-09-02** — The call logs back it: Dan placed a 15-second call to "John Paci Jr" 2020-09-02 17:57:46 ET, a 13-second call 2020-09-07 18:52:46 ET, and **received a 2:33 call from "John Paci"** 2020-09-07 19:00:43 ET.  
   ↳ [[wiki/people/john-paci]] · The tenancy in his own voice: September 2020
+- ★ **2020-09-03** — Suz herself uses "John Felix" as the painter's full name: *"John Felix paints and he is pretty good from what I've heard"* (2020-09-03), and *"it belonged to John Felix's Dad who died last year"* (2024-09-10).  
+  ↳ [[wiki/timeline/events/september-2026-driveway-confrontation]] · "John Felix," refined
 - ◆ **2020-09-03** — After five closings in one month: *"I've paid off almost all of my bills." "I own a car now"  
   ↳ [[wiki/people/suzanne-frank]] · What she actually earned
 - ◆ **2020-09-03** — Suz, after the five closings: *"I've paid off almost all  
@@ -9184,7 +9182,7 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/mind/synthesis/audition-dynamics]] · Case one: Kristin — the successful audition
 - ◆ **August 2025** — August 2026: overwhelming self-blame.** "I take full accountability for how I have treated you Dan" (Aug 2025). "I am sorry that I have destroyed everything" (Dec 2025). "The start of all of this every single time is not because of you" (Dec 2025). "You didn't do anything to deserve the way I have…  
   ↳ [[wiki/mind/synthesis/libby-era-engagement-verdict]] · As the reason she left: not demonstrated
-- · **August 2025** — In the terminal phase (August 2025 – March 2026), Dan is no longer only the network's consumer — he is its distribution point for Annie, who is unemployed, dependent, and sourcing through him ("bop").  
+- · **August 2025** — In the terminal phase (August 2025 – March 2026), Dan is no longer only the network's consumer — he is its distribution point for Annie, who is unemployed, dependent, and sourcing through him ("the supplier").  
   ↳ [[wiki/health/cocaine]] · Relationship dynamics
 - · **August 2025** — August 2025–July 2026.** The YouTube watch history counts 13 real  
   ↳ [[wiki/interests/chapo-trap-house]] · Timeline of attested engagement
@@ -9362,7 +9360,7 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/people/jason-bermejo]] · Relationship & Role in Dan's Life
 - · **September 2025** — The September 2025 burst is essentially a link-dump of all of it at once — YouTube links, *"Board goes kinda hard.  
   ↳ [[wiki/people/jason-bermejo]] · Musical Taste & Production Practice
-- · **September 2025** — The recurring figures are real in the wider corpus. "Sugie", the older woman Annie cared for, appears 134 times in the held messages for 2025. "Bop" appears in September 2025 in a runner role ([`dat:0681`](../../../kb/data/0681-feb-apr-2025-return-and-rupture-sources.md)).  
+- · **September 2025** — The recurring figures are real in the wider corpus. "Sugie", the older woman Annie cared for, appears 134 times in the held messages for 2025. "The supplier" appears in September 2025 in a runner role ([`dat:0681`](../../../kb/data/0681-feb-apr-2025-return-and-rupture-sources.md)).  
   ↳ [[wiki/timeline/periods/feb-apr-2025-return-and-rupture]] · The week of April 17–25
 - ★ **2025-09-01** — The old page dated the relationship `2025-09-01 → 2025-12-10` and described "sustained high-intensity flirtation" running September through November before a four-day collapse.  
   ↳ [[wiki/people/kristin]] · The correction that reorganises the page: it ended in November
@@ -9879,9 +9877,9 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
 
 - · **2026** — BFS job gained and lost — ~$0  
   ↳ [[wiki/meta/journeys/the-supply-line]] · Complete log — the capital chain, event by event
-- · **2026** — Bop** — Uniontown — Current primary — **house calls daily at noon**; Dan maintains his property in part-payment; real name unknown  
+- · **2026** — The supplier** — Uniontown — Current primary — **house calls daily at noon**; Dan maintains his property in part-payment; real name unknown; the node that behaves least like a node  
   ↳ [[wiki/meta/journeys/the-supply-line]] · Complete log — the node succession, every documented supplier
-- · **2026** — Bop** (Felix is not a node) — Uniontown — Current primary node — house calls daily at noon  
+- · **2026** — The supplier** (Felix is not a node) — Uniontown — Current primary node — house calls daily at noon  
   ↳ [[wiki/mind/synthesis/supply-network]] · The succession of nodes
 - · **2026** — "bfs foods — BFS Foods ... April 2026" + "Bunker Core" + Gumroad "iMessage Analysis Toolkit ... February 2026". Property ops Uniontown/Leith-Hatfield w/ Suzanne.  
   ↳ [[wiki/self/chats/gemini-18]] · _18 Stats + Full Bio Timeline Table (2026-06-23 analysis)
@@ -10179,6 +10177,8 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/people/alexander-jackson]] · Appendix A — complete log of the Morgantown St house in the primary record
 - · **2026-03-16** — Four days later, on 2026-03-16, she formalizes the retraction: "I think that I had misunderstood the conversation when that happened Dan." This is not strategic deception — it is the inability to hold a consistent narrative over time, a hallmark of inferior Ni.  
   ↳ [[wiki/people/annie-ulmer-personality-assessment]] · Evidence for Inferior Ni
+- · **2026-03-16** — Dan's confirmed theory: Coles built the name by misreading a text on Annie's phone — on **March 16, 2026 at 10:06**, Dan texted Annie *"go work with John and Felix,"* two people (John Carney the contractor and Felix the painter; the March 18 follow-up, *"is John done for the day?"* asked of Felix…  
+  ↳ [[wiki/timeline/events/september-2026-driveway-confrontation]] · "John Felix," refined
 - · **2026-03-18** — 16:19 — Dan → Suz — "Felix asked if I needed a ride, I asked 'is John done for the day?'"  
   ↳ [[wiki/people/alexander-jackson]] · Appendix A — complete log of the Morgantown St house in the primary record
 - · **2026-03-21** — On 2026-03-21 at 14:28 he sent four messages totalling 1,380 words across sixteen minutes.  
@@ -10218,6 +10218,9 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/people/tom]] · Timeline (same event)
 - · **2026-03-31** — The March 31, 2026 exchange:** cited via tom.md's mining pass  
   ↳ [[wiki/people/tom-maison-supply-record]] · Method appendix: the forensics, compactly
+- · **2026-03-31** — On **March 31, 2026** — two weeks after Dan's text, two months before the taunt — a no-caller-ID man rang Suz asking whether Annie was with her.  
+  ↳ [[wiki/timeline/events/september-2026-driveway-confrontation]] · "John Felix," refined
+  ↳ [[wiki/people/john-felix]] · Gaps (same event)
 - ★ **April 2026** — Music reactivation is central to the 2026 stabilization arc: the "oof" set on SoundCloud (April 2026) and the parallel MOGZART DnB revival (March 2026) are the first shipped output of the post-closure era, alongside the AI voice-drop production line documented in the 9/11 chat.  
   ↳ [[wiki/interests/music/aliases/gripnotic]] · Narrative
 - ★ **April 2026** — Lizzy Land) [MOGZART DnB JUMP UP REMIX]" on SoundCloud, tagged #DnB #Remix) and the "oof" set in April 2026 — shared to Suz on April 6, the same day he messaged a contact simply "GRIPNOTIC" — the first shipped output of the post-closure era.  
@@ -10877,6 +10880,8 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/people/ally-lubin]] · Identity
 - · **2026-06-01** — Both men occupy the "who Annie left/was with" role six weeks apart in the same small town, and the same "cuck" framing (unemployment, sexual humiliation, escort history) appears in both the Tuquick End Fight material (June 1, 2026) and the unnamed man's July 26 messages sent from Annie's phone.  
   ↳ [[wiki/people/jerel-coles]] · Is Coles the unnamed man too?
+- · **2026-06-01** — On **2026-06-01** Jerel Coles taunted Dan in-thread: *"invite John Felix over."* Dan's confirmed theory is that Coles built the name by misreading his March 16 text to Annie — *"go work with John and Felix,"* two people (John Carney the contractor and Felix the painter; the March 18 follow-up, *"is…  
+  ↳ [[wiki/people/john-felix]] · Gaps
 - · **2026-06-01** — the older "126k+" is a row count over overlapping exports, not unique messages  
   ↳ [[wiki/self/context-core]] · Social graph
 - · **2026-06-01** — "'Goodbye forever...' from annie logs + received 'Daniel, i just want to say that i am extremely sorry.'"** The first is **Dan's**, not from Annie: *"Goodbye forever.  
@@ -13295,7 +13300,7 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/people/annie-ulmer]] · Chronology
 - ◆ **2026-09-21** — An iPhone recovery pass (2026-09-21) added 1,747 messages covering August 22–September 21 — near-daily two-way contact, in-person visits, unbroken supply logistics, "I love you" exchanges on September 11, 13 and 17.  
   ↳ [[wiki/people/annie-ulmer]] · Annie (Anne Louise Ulmer)
-- ◆ **2026-09-21** — New gaps opened by the iPhone slice [2026-09-21]:** Akeem (one mention, Aug 23, inside the Morgantown St incident); Otto (school pickup, Sep 17); Anthony (Sep 16 Instagram story); Francine (at work, Sep 10); Ben (probably her boss, Sep 11); whether "Bop" and "Felix" are one dealer or two; the eight…  
+- ◆ **2026-09-21** — New gaps opened by the iPhone slice [2026-09-21]:** Akeem (one mention, Aug 23, inside the Morgantown St incident); Otto (school pickup, Sep 17); Anthony (Sep 16 Instagram story); Francine (at work, Sep 10); Ben (probably her boss, Sep 11); whether "The supplier" and "Felix" are one dealer or two…  
   ↳ [[wiki/people/annie-ulmer]] · Gaps
 - · **2026-09-21** — It is written at Dan's commission ("write your own wiki entry and make it exhaustive, detailed, and precise," 2026-09-21) with his addendum ("include everything like system, skills, connectors, everything").  
   ↳ [[wiki/meta/sammy]] · Sammy
@@ -13507,6 +13512,16 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/mind/concepts/1719]] · Introduction
 - · **2026-09-27** — RECOVERY.md`: *"Delete this file when the rebuild is complete."* `MIGRATION.md`: *"Delete this file when the last row of the status table is done."* Both are present on 2026-09-27.  
   ↳ [[wiki/mind/concepts/no-delete-operation]] · The five instances, re-read
+- ◆ **2026-09-29** — Per Dan's account, given September 29, 2026: when the household had no money last year, the supplier bought Suz a car tire she could not afford.  
+  ↳ [[wiki/meta/journeys/the-supply-line]] · The current node, as a person
+- · **2026-09-29** — It is filed as a stated perceptual report with stated limits — not contradicted, corroborated once by direct re-statement, structurally consistent with everything around it, and — per the 2026-09-29 Walrus specimen — architectural rather than attentional: fine-grained phonetic encoding with no…  
+  ↳ [[wiki/mind/concepts/lyric-qualifier]] · What kind of trait this is
+- · **2026-09-29** — Past midnight on 2026-09-29, Dan supplied the cleanest specimen the qualifier has ever had — deliberately, as data, "for wiki purposes," in the middle of an over-analysis session about the night's "I am She / She is I" chiasmus.  
+  ↳ [[wiki/mind/concepts/lyric-qualifier]] · The Walrus specimen: the architecture, demonstrated (2026-09-29)
+- · **2026-09-29** — All three screenshots are archived byte-identical in `raw/2026-09-29-annie-texts-police-station/`.  
+  ↳ [[wiki/people/annie-ulmer]] · September 29, 2026: the driveway, and the police station
+- · **2026-09-29** — REFINED [2026-09-29]: the "John Felix" in Coles's messages is not this man — but the name itself is real.** The corpus-sweep gate is what caught it: Suz herself uses "John Felix" as the painter's full name.  
+  ↳ [[wiki/people/john-felix]] · Gaps
 - · **2026-10-02** — The screen recording's poster frame, committed below in Sources, catches the claude.ai "Cancel plan" confirmation reading "You can still use Claude Pro until Oct 2, 2026" — the dfrank88 access end date, contemporaneously documented.  
   ↳ [[wiki/self/concepts/claude]] · The double-cancel, 2026-09-17
 - · **2026-10-18** — T2 — 2026-10-18 (day 60):** mid score. Requires at minimum a filed  
@@ -13546,4 +13561,4 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
 
 ---
 
-*Generated by `bin/wiki-timeline` from 475 wiki pages. 8,353 dated candidates were rejected as non-events; `bin/wiki-timeline audit` breaks down why.*
+*Generated by `bin/wiki-timeline` from 476 wiki pages. 8,359 dated candidates were rejected as non-events; `bin/wiki-timeline audit` breaks down why.*
