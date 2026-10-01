@@ -10,7 +10,11 @@
 
 Everything here was found on **Suzanne Frank's computer**. Authorship is
 Suzanne Frank and/or AI tools she used — **third-party / hearsay**, never Dan's
-voice. Do NOT use any of this as Dan voice samples (no stylometry). The
+voice. Do NOT use any of this as Dan voice samples (no stylometry).
+
+**Correction 2026-10-01:** Dan confirmed #11 (dan_frank_personality_dossier.md)
+and #13 (operating_manual.md) are his own work ("i did those"). They are
+Dan-authored analytic products, not third-party material. The
 dossiers explicitly state they were generated from message corpora by analysis
 pipelines; they are analytic products, not primary utterances.
 
@@ -28,11 +32,11 @@ pipelines; they are analytic products, not primary utterances.
 | 8 | strategic_maneuvers_for_suzanne.md (3.7KB) | Tactics memo for Suz on handling Dan's avoidance ("Ghost Filter", "Micro-Lead", "Consultant Framework"). | Suz's AI | **KEEP** — new |
 | 9 | dan_frank_individual_portrait.md (3.7KB) | Clinical-style assessment of Dan's cognitive architecture ("Binary Brain", "Maintenance Cycle" logic). | Suz's AI | **KEEP** — new; third-party assessment of Dan, not his voice |
 | 10 | explaining_dan_to_suzanne.md (4.3KB) | AI report explaining Dan to Suz (engine mismatch, "Rick proxy" projection). | Suz's AI | **KEEP** — new |
-| 11 | dan_frank_personality_dossier.md (5.4KB) | Personality dossier on Dan from 16,288 sent iMessages (2014–2026), "Brutal Honesty" protocol. | Suz's AI | **KEEP** — new; analytic product, not voice data |
+| 11 | dan_frank_personality_dossier.md (5.4KB) | Personality dossier on Dan from 16,288 sent iMessages (2014–2026), "Brutal Honesty" protocol. | **Dan** (his words 2026-10-01: "i did those") | **KEEP** — new; Dan's own AI analysis of his messages |
 | 12 | personality_dossier.md (9.1KB) | Personality dossier on Suz from 153,706 sent iMessages (Nov 2013–Mar 2026). | Suz's AI | **KEEP** — new |
-| 13 | operating_manual.md (31KB) | "THE DANIEL GILLINGHAM FRANK OPERATING MANUAL v9.0 — Deep Empirical Stylometric Extraction & NLP Integration". Claims stylometric extraction on Dan's data. **Archive as third-party analysis only — never as voice/training data.** | Suz's AI | **KEEP** — new, with authorship caveat |
+| 13 | operating_manual.md (31KB) | "THE DANIEL GILLINGHAM FRANK OPERATING MANUAL v9.0 — Deep Empirical Stylometric Extraction & NLP Integration". | **Dan** (his words 2026-10-01: "i did those") | **KEEP** — new; Dan's own stylometric self-analysis |
 | 14 | taste_analysis.pdf | "Music Taste Analysis" PDF (~30pp). | — | **REMOVED 2026-10-01** — Dan: "not mine." Struck from the batch at his order; file deleted, not archived. |
-| 15 | danf.rtf (117KB) | Political/cultural profile of Dan (Israel/Palestine framing, moral framing, cultural positioning, epistemological approach). RTF from macOS TextEdit. | Suz's AI (macOS) | **KEEP** — new |
+| 15 | danf.rtf (30KB text) | **Voice-modeling kit for Dan's writing**: AI rhetorical profile "based on the provided Substack articles", a formal "Rhetorical Framework: Formula and Structure" with explicit "Implementation Instructions for LLM" to reproduce his style, one full AI-generated pastiche sample in his voice, and a 250-word characteristic-vocabulary list. NOT his blog posts — the underlying Substack articles are not in the file. | Uncertain — found on Suz's computer; Dan confirmed the sibling dossiers (#11, #13) as his own but has not claimed this one | **KEEP** — new; high-value as voice-modeling evidence. Wiki has zero existing record of a Dan Substack — gap flagged 2026-10-01 |
 
 **Excluded files:** taste_analysis.pdf — removed 2026-10-01 at Dan's order ("not mine"); struck from the batch, not archived. All other 14 files carried keepable material; the only other exclusions are 72,581 CSV rows (business filter, logged in filter-log.md) and 65 dealer-name redactions (see below).
 
