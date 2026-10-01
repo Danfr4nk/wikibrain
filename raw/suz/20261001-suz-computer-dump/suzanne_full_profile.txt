@@ -1,0 +1,403 @@
+
+THE FULL PROFILE
+A Multi-System Personality Assessment
+Suzanne Frank  ·  Western Pennsylvania  ·  ESFJ  ·  2w3  ·  2026
+Derived from 153,706 sent messages · 2,050,250 words · 1,369 contacts · Nov 2013–Mar 2026
+Systems covered: MBTI · Cognitive Functions · Big Five · Enneagram · DISC · Attachment Theory ·
+Love Languages · Jungian Archetypes · Keirsey Temperament · Socionics · Tritype
+
+
+Before going deep on any individual system, here is every conclusion in one place. The rest of this document is the evidence, the explanation, and the nuance.
+
+System
+Type / Result
+MBTI
+ESFJ  (Consul / Provider)
+MBTI Cognitive Stack
+Fe > Si > Ne > Ti
+Big Five (OCEAN)
+O: Low-Moderate  ·  C: Moderate-High  ·  E: High  ·  A: Very High  ·  N: Low
+Enneagram Core Type
+Type 2 — The Helper
+Enneagram Wing
+2w3 — The Host
+Enneagram Instinctual Variant
+Social / Self-Preservation stack  (sp/so likely secondary)
+Enneagram Tritype
+2-6-3  (The Good Samaritan)
+Enneagram Level of Health
+Level 4–5  (Average / Functional)
+DISC Profile
+High S / C  (Steadiness primary, Conscientiousness secondary, D tertiary)
+Attachment Style
+Secure-Anxious  (functional security, anxious undercurrent)
+Love Languages (giving)
+Acts of Service  ·  Words of Affirmation
+Love Languages (receiving)
+Words of Affirmation  ·  Quality Time  (likely, inferred)
+Jungian Primary Archetype
+The Caregiver
+Jungian Shadow Archetype
+The Martyr
+Keirsey Temperament
+Guardian — Provider (SJ)
+Socionics
+ESFj  (Fe-Si  /  'The Enthusiast' or 'Bonvivant')
+
+· · · · ·
+I.  Myers-Briggs Type Indicator (MBTI)
+MBTI Type
+ESFJ
+HIGH
+
+ESFJ is called 'The Consul' or 'The Provider' depending on which framework you're using. It is the most socially-engaged of all sixteen types — warm, organized, harmony-focused, and fundamentally oriented around the needs and wellbeing of the people in their immediate community. It is also one of the most common types, which means it sometimes gets dismissed as ordinary. That is a mistake. The ESFJ in full function is one of the most effective interpersonal operators that exists.
+Here is the case, dimension by dimension.
+E — Extraversion  (vs. Introversion)
+Extraversion in MBTI doesn't mean loud or outgoing — it means that energy is drawn from and processed through external engagement. Extraverts think by talking, act by connecting, and recharge through interaction rather than solitude.
+DATA EVIDENCE
+3,413 uses of 'lol' — humor deployed socially, as lubricant, not privately
+1,369 unique contacts maintained across 12.4 years
+Top content word: 'going' (11,773) — perpetual forward motion toward people and situations
+18.5% of messages are questions — actively seeking information from others
+Evening communication peak (5–9 PM: 35.8%) — high-output during prime social hours
+Only 14.8% of messages sent before noon — slow to engage, not because introverted but because the social world hasn't started yet
+The E is not in question. The only nuance: at 6.72% Agreeableness and with the level of emotional labor in the corpus, there is likely a moderate introverted restoration need — the data doesn't show it because the data is only outbound communication, but the 2w3 service structure implies the need exists even if it's rarely acted on.
+S — Sensing  (vs. iNtuition)
+Sensing types are concrete, present-focused, and oriented toward what is actual rather than what is possible. They trust experience over theory. They process the world through what they can observe and verify, not through abstract pattern-recognition.
+DATA EVIDENCE
+Top content words are almost entirely functional and concrete: get, know, need, want, house, call — no abstract vocabulary dominates
+Yule's K of 93.03 indicates moderate repetitiveness — consistent register, not ranging across conceptual territory
+Double-space after periods in 37.7% of messages — Si 'this is how it's done,' absorbed as norm and maintained automatically
+Self-introduction ritual: 488 uses — Si anchors identity in established, re-confirmable facts
+1,369 contacts maintained — Si loyalty pattern; relationships don't atrophy because of forgetting, they're actively maintained
+Virtually no semicolons — conversational, concrete register; complex syntactic nesting (an N trait) is absent
+The N signal is nearly absent. There are occasional Ne flickers — the 5,658 extended narrative messages suggest some capacity for conceptual elaboration — but the central tendency is S, and it is not close.
+F — Feeling  (vs. Thinking)
+Feeling in MBTI means that decisions and communications are oriented primarily around human values, relationships, and harmony rather than impersonal logic. The F doesn't mean emotional — it means relational.
+DATA EVIDENCE
+Agreeableness: 6.72% — nearly double the next personality signal — the dominant dimension of the entire corpus
+3,744 uses of 'thank' — constant explicit acknowledgment of others
+1,751 emotional labor messages — check-ins, empathy expressions, 'thinking about you'
+Emotional appeal ranks above evidence/data in persuasion toolkit (2,592 vs 1,541)
+Reciprocity language ('help you,' 'for you,' 'on your behalf') is the #3 persuasion tool — relational framing over logical argument
+Authority appeal is weakest tool (322 uses) — the F-type does not lead with credentials or abstract expertise
+The F signal is unambiguous and extreme. Thinking-dominant types use logic as their primary lens even in emotional situations. The data shows the reverse: even professional communications are filtered through relational framing.
+J — Judging  (vs. Perceiving)
+Judging types prefer resolution, structure, and closure. They are planners. They create systems, follow through on commitments, and feel discomfort with prolonged ambiguity. This is the most ambiguous dimension in the profile.
+DATA EVIDENCE
+697 uses of 'I'll let you know' — closure-oriented, loop-management language
+469 uses of 'as soon as I' — urgency + completion drive
+Conscientiousness markers: 3.22% — schedule, plan, deadline, follow-up language
+'Park Place Realty Group' 566 times, 'This is Suzanne Frank' 488 times — consistent identity structure maintained over time (Si-J)
+2:1 professional/personal ratio — work is organized and structured even when personal life bleeds in
+Against J: night-owl pattern, non-9-to-5 schedule, high improvisational responsiveness to client needs
+The J is present but not extreme. This is probably a 55-45 or 60-40 split rather than a hard J. The schedule is not rigidly structured — real estate doesn't allow it — but the follow-through culture, the commitment phrases, and the closure language are genuinely J-axis behaviors.
+
+The Cognitive Function Stack:  Fe — Si — Ne — Ti
+MBTI types are built on four cognitive functions arranged in a hierarchy. The stack matters more than the letters because it tells you HOW the type processes, not just what they prefer. For ESFJ, the stack is:
+1st Function (Dominant): Fe — Extraverted Feeling
+Fe is the function that reads, manages, and harmonizes the emotional climate of the external world. Fe-dominant types are socially intelligent in a specific way: they feel what the room needs and they move toward providing it. They are attuned to others' states, motivated by social harmony, and derive meaning from being part of a network of mutually-caring relationships.
+Fe is not people-pleasing, though it can look like it. It is orientation. The Fe-dominant person genuinely experiences the wellbeing of the group as their own wellbeing. This is not strategic. It is perceptual.
+DATA EVIDENCE
+Agreeableness 6.72% — the dominant Fe signal in raw numbers
+'Thank you so much' 248 uses — explicit social acknowledgment ritual
+Urgency as #1 persuasion tool — Fe creates urgency to protect the outcome for the group
+5.6:1 positive-to-negative ratio — Fe actively maintains positive emotional climate
+Emotional labor 1,751 messages — Fe as active social maintenance
+Humor as diffuser (🙄 #1 emoji, 3,413 lol) — Fe managing emotional friction without direct confrontation
+2nd Function (Auxiliary): Si — Introverted Sensing
+Si is the function that stores and references personal experience and established norms. Si-users have excellent recall of how things went before, strong attachment to what has worked, and a tendency to honor the procedures and habits that have proven reliable. Si is not nostalgia — it is a practical database of verified experience.
+The combination of dominant Fe and auxiliary Si produces the ESFJ's characteristic loyalty: Fe wants to care for people, Si remembers who those people are, what they've been through, and what worked last time.
+DATA EVIDENCE
+Double-space after periods in 37.7% of messages — Si encoding of 'this is correct format'
+Self-introduction ritual 488 times — Si anchoring: re-establish known context, don't assume
+1,369 contacts maintained — Si keeps the relationship database active
+Western PA contact concentration — Si rootedness; the familiar geography is the trusted geography
+Consistent professional identity ('This is Suzanne Frank') — Si maintains stable self-presentation across 12.4 years
+Yule's K 93.03 repetitiveness — Si-consistent register, not constantly ranging
+3rd Function (Tertiary): Ne — Extraverted Intuition
+Ne is the function that generates possibilities, connections, and creative alternatives. In the ESFJ stack it is tertiary — meaning it shows up, but it shows up as a support function, not a primary lens. Ne is why ESFJs can be funny, why they can write narratively, and why they're not completely rigid. It's the creative relief valve.
+DATA EVIDENCE
+5,658 messages over 50 words (3.7%) — extended narrative range; Ne allows conceptual elaboration when needed
+🙄 as #1 emoji — sardonic wit requires Ne pattern-recognition (seeing the absurdity in a situation)
+Humor markers 4,017 — creative connection-making; humor is a Ne function in the ESFJ
+Conditional/hypothetical framing: 2,039 messages — Ne generates scenarios and possibilities
+'If you want to' 492 uses — Ne offering options, preserving space for alternatives
+Ne does not dominate. The dominant-Ne types (ENTP, ENFP) produce a very different corpus — wide-ranging conceptual vocabulary, heavy use of hypotheticals, comfort with ambiguity. This corpus is grounded and concrete. Ne appears as wit and occasional narrative range, not as primary orientation.
+4th Function (Inferior): Ti — Introverted Thinking
+The inferior function is the weakest and also the most reactive under stress. Ti is cold logical analysis — pulling things apart into components, building internal logical frameworks, making decisions based on structural consistency rather than relational impact. For the ESFJ, Ti is the function they reach for when under pressure and which tends to produce the least reliable results.
+DATA EVIDENCE
+Evidence/data ranks near bottom of persuasion toolkit (1,541 uses vs 7,563 urgency) — logic is not the first tool
+Authority appeal is weakest persuasion tool (322 uses) — Ti-derived credentialing is minimally deployed
+Hedging 2.25:1 over asserting — not a Ti pattern (Ti asserts with precision); more consistent with Fe deference + Si experience-based caution
+No semicolons — complex syntactic structures that require logical nesting are absent entirely
+Under stress, inferior Ti can produce behavior that looks uncharacteristically critical, hypercritical of inconsistency, or intellectually domineering. The ESFJ who is pushed past capacity may suddenly become very precise and cold about something — not because it's their natural mode, but because the inferior function tends toward extreme expression when it finally activates.
+
+· · · · ·
+II.  Big Five (OCEAN)
+Big Five Profile
+High A  ·  High E  ·  Low N
+HIGH
+
+The Big Five is the most empirically validated personality framework in academic psychology. Unlike MBTI, it is dimensional rather than categorical — you score on a spectrum for each of the five traits, and the combination of scores produces a profile. The data here is unusually clean because the lexical proxy method (mapping word frequencies to personality traits) has strong academic support.
+Openness to Experience  —  Low-Moderate  (1.74%)
+Openness measures curiosity, aesthetic sensitivity, intellectual range, and comfort with novelty and abstraction. High-O individuals range widely in their thinking, prefer complexity, and are drawn to ideas for their own sake. Low-O individuals are practical, concrete, and prefer the familiar.
+At 1.74%, Openness is the second-weakest signal in the corpus. This doesn't mean intellectually limited — it means the intellectual style is applied rather than exploratory. New ideas are evaluated for whether they work, not for how interesting they are.
+DATA EVIDENCE
+Top content words are almost entirely functional (get, need, want, going, call) — no abstract or conceptual vocabulary dominates
+Virtually no semicolons — the syntactic marker of complex analytical nesting is absent
+Hapax legomena at 35.9% shows healthy vocabulary breadth, but Yule's K 93.03 shows the range stays within a consistent register
+Conditional/hypothetical framing at only 1.3% — limited comfort with extended abstract scenarios
+Openness does not mean incapable of depth — the 5,658 long-form messages show genuine range when motivated
+The accurate read: practically intelligent, not theoretically inclined. Will engage with new ideas when they solve a problem or help a person. Will not engage with them for their own sake.
+Conscientiousness  —  Moderate-High  (3.22%)
+Conscientiousness measures organization, reliability, goal-directedness, and follow-through. High-C individuals are planners, structure-builders, and completion-oriented. The signal here is solid but not extreme.
+DATA EVIDENCE
+697 'I'll let you know' + 469 'as soon as I' + 287 'I'll be there' — constant commitment language; C produces follow-through
+2,509 'I'm going to' — forward-declaration habit; C plans and announces
+Scheduling and deadline language in conscientiousness proxy: 3.22%
+2:1 professional/personal ratio — work is integrated and structured
+5-minute loop review habit (referenced in prior analysis) — C-consistent maintenance behavior
+Against extreme C: night-owl schedule, non-standard hours, improvisational responsiveness to real estate demands
+The Conscientiousness is genuine and it shows up primarily as interpersonal reliability — keeping commitments to people — rather than as rigid personal structure. This is a meaningful distinction. She's not rigidly organized for herself. She's rigorously organized in her obligations to others.
+Extraversion  —  High  (3.77%)
+Already covered in the MBTI section. The Big Five Extraversion maps closely onto the MBTI E/I dimension. At 3.77%, it scores second among the five traits — high, clearly present, with the caveats noted above.
+DATA EVIDENCE
+Fun, excited, great, amazing — party and event references among extraversion proxy words
+1,369 contacts maintained; 40% concentration in top 10 shows deep E + broad network
+Messages across all hours including 10 PM–4 AM — social engagement doesn't shut off at conventional hours
+18.5% questions — active information-seeking, not broadcast-only communication
+Agreeableness  —  Very High  (6.72%)
+This is the defining trait of the profile. At 6.72%, Agreeableness dominates every other dimension by a factor approaching two. Agreeableness measures warmth, cooperative orientation, empathy, and the tendency to prioritize social harmony over individual advantage.
+In population terms, a score this high is genuinely unusual. Most people, even pleasant ones, do not sustain Agreeableness signals at this intensity across twelve years of unfiltered personal and professional communication. The score is not inflated by professional context — it holds across late-night personal messages, weekends, and the full range of relationship types.
+DATA EVIDENCE
+3,744 'thank' uses — the single most diagnostic Agreeableness word
+1,751 emotional labor messages — active empathy, not passive warmth
+'Please,' 'appreciate,' 'hope you,' 'sorry' — Agreeableness proxy words saturate the corpus
+Reciprocity as #3 persuasion tool — A-types frame requests as mutual benefit
+5.6:1 positive-to-negative ratio — Agreeableness actively suppresses negative expression
+Authority appeal as weakest tool — A-types don't leverage dominance hierarchies
+Directness ratio 0.964 — note the combination: very high A WITH very high directness is unusual; most high-A communicators soften heavily. This profile is warm AND plain-spoken.
+The combination of very high Agreeableness with a directness ratio of 0.964 is psychologically interesting and relatively rare. High Agreeableness usually produces softened, hedged communication that prioritizes comfort over clarity. This profile maintains warmth while cutting to the point. The warmth is not a delivery mechanism for softness — it's a genuine quality that coexists with directness.
+Neuroticism  —  Low  (1.30%)
+Neuroticism measures emotional instability, negative affect, and vulnerability to stress. Low Neuroticism indicates emotional stability, resilience, and consistent positive affect.
+At 1.30%, this is the lowest score in the profile. The honest question — raised in the audit section — is whether this reflects genuine emotional stability or a highly effective system for keeping negative affect off the surface of communication.
+DATA EVIDENCE
+5.6:1 positive-to-negative ratio over 12+ years — extraordinary consistency
+2.6% of messages carry negative sentiment — remarkably low for unfiltered personal communication
+Frustration and humor markers appear at nearly identical rates — the frustration is real but consistently rerouted
+2,436 frustration markers vs. 2,449 humor closers — the near-exact match is not coincidence
+Against: 🙄 as #1 emoji, 7,563 urgency markers under stress — these are pressure signals, not equanimity signals
+The most honest read: functionally low Neuroticism — stable, resilient, rarely destabilized in ways that show in communication — but with a suppression pattern that means the true floor of negative affect is somewhat higher than the 1.30% figure suggests. The stability is real. It's also partially managed.
+
+· · · · ·
+III.  Enneagram
+Enneagram
+Type 2w3 — The Host
+HIGH
+
+The Enneagram is a nine-type system organized around core motivations, fears, and fixations — not behaviors. Two people can behave identically and be different Enneagram types if their underlying motivation is different. This makes it harder to derive from behavioral data than MBTI or Big Five — but not impossible. Certain motivational structures produce distinctive behavioral signatures.
+The Core Type: Type 2 — The Helper
+Type 2 is organized around the belief — usually not fully conscious — that love and belonging are conditional on being useful. The 2 doesn't think 'I want to help people.' They experience it more viscerally: I am worthwhile because of what I provide. Remove the usefulness and there's a question the 2 doesn't love: am I enough if I'm not doing anything for you?
+The central defense mechanism of the 2 is repression — not of memory, but of personal need. The 2 represses awareness of their own neediness by converting it outward into service. 'I don't need anything. But let me help you.'
+DATA EVIDENCE
+3,744 'thank' uses — constant acknowledgment of others; the 2 models the behavior they want returned
+'Let me know if you need anything' — signature 2 phrase; the door is always left open
+Reciprocity as persuasion tool #2 — the 2 frames giving as the relational norm
+Self-introduction ritual 488 times — 'here I am again; in case you need to decide if I'm worth responding to'
+2.45:1 self-to-other reference — appears contradictory; resolved by understanding that the 2 narrates their own service to make it visible, not out of self-absorption
+5.6:1 positive-to-negative — the 2 suppresses negative expression because complaint = asking for something = vulnerability
+Receiving gap: directness about others' needs vs. near-absence of own needs in the corpus
+The Wing: W3 — The Achiever
+The Wing 3 adds achievement-orientation, image-consciousness, and results-focus to the 2's service drive. The 2w3 doesn't just want to help — they want to be seen helping effectively. The warmth and the competence are fused. The helping has to produce visible results.
+DATA EVIDENCE
+7,563 urgency markers — the 3 wing drives for outcomes; urgency is 3 energy applied to 2 motivation
+'Park Place Realty Group' 566 times — professional identity and personal brand are integrated; the 3 maintains the brand
+2:1 professional/personal ratio — achievement context is always present
+'This is Suzanne Frank' 488 times — name as brand, brand as self; 3-wing identity maintenance
+Wing 3 is called 'The Host' — the person whose warmth is organized AND effective, who makes the gathering work
+Instinctual Variant Stack: Social / Self-Preservation
+Enneagram types also come with three instinctual variants — Social (so), Self-Preservation (sp), and Sexual/One-to-One (sx) — stacked in order of dominance. The Social instinct drives belonging, group dynamics, and reputation. Self-Preservation drives security, comfort, and resource management. The Sexual/One-to-One instinct drives intensity and merger in close relationships.
+The data most strongly supports Social as primary with Self-Preservation secondary. The so/sp 2w3 is specifically focused on being known and valued in their community — managing their reputation, maintaining their network, and ensuring their position is secure within the group. This is not vanity. It is an adaptive orientation toward group belonging as the primary safety mechanism.
+DATA EVIDENCE
+1,369 contacts maintained — Social instinct in full operation; the community is enormous and actively tended
+Professional identity woven into personal communication — so/sp: community role and security are the same thing
+Follow-through culture (697 'I'll let you know,' 469 'as soon as I') — sp-consistent reliability; security through being trustworthy
+Self-introduction even with known contacts — so anxiety: 'am I still in the group? Am I still remembered?'
+Western PA network concentration — sp groundedness; the safe community is the familiar one
+Tritype: 2-6-3  (The Good Samaritan)
+The tritype theory holds that people use one type from each of the three Enneagram centers — Heart (2, 3, 4), Head (5, 6, 7), and Body (8, 9, 1) — as their primary resource in each center. The order reflects dominance.
+The 2-6-3 tritype is called 'The Good Samaritan.' It is one of the most service-oriented tritypes in the system. The 2 provides care, the 6 provides loyalty and vigilance, and the 3 provides competence and effectiveness. Together they produce someone who is deeply committed to the people in their circle, anxiously attuned to whether relationships are secure, and organized around being visibly effective in their role.
+Type 6 as Head Center Type — The Loyalist
+Type 6 in the Head center adds anxiety, loyalty, and a vigilant scanning for what could go wrong. The 6 prepares, hedges against uncertainty, and maintains loyalty as a core value. The 6 under stress becomes more anxious and looks for reassurance; under health it is warm, practical, and deeply reliable.
+DATA EVIDENCE
+Self-introduction ritual 488 times — 6 hedging: 'in case you've forgotten me, in case my identity needs re-establishing'
+Hedging 2.25:1 over asserting — 6 epistemic caution; 'I think' and 'probably' are the 6's way of not overclaiming in case they're wrong
+'As soon as I' 469 uses — 6 follow-through; the 6 closes loops because open loops are anxiety sources
+Commitment phrases throughout corpus — 6 loyalty expressed as reliability; 'I'll be there' is a 6 promise
+Low assertiveness despite high directness — the 6 says things plainly but hedges confidence; the statement lands firm but the certainty is qualified
+Type 3 as Supporting Achiever
+Already covered in the wing section. Within the tritype, the 3 serves as the competence engine — making sure the care and loyalty produce visible, effective results.
+Level of Health: Average (Level 4–5)
+The Enneagram uses nine levels of health, from liberated (1–2) through average (4–6) to unhealthy (7–9). Most functional adults operate in the 3–6 range depending on life circumstances. The evidence suggests Level 4–5, which represents a functional, capable version of the type that has not yet moved into full self-awareness about its core patterns.
+DATA EVIDENCE
+Level 4 2w3 behavior: 'Friendly and helpful, but also people-pleasing and unable to say no' — consistent with the wrong-client retention pattern
+Level 5 2w3 behavior: 'Well-meaning, supportive, generous, but beginning to need validation' — the self-introduction ritual and receiving gap are Level 5 signals
+NOT Level 7–8 behaviors: manipulation, coercion, claims of victimhood — absent from corpus
+NOT Level 1–2 behaviors: full unconditional giving without need for return — the receiving gap and self-introduction anxiety indicate the neediness, however repressed, is present
+
+· · · · ·
+IV.  DISC Profile
+DISC
+High S / High C  (SC Profile)
+MEDIUM
+
+DISC categorizes behavior into four dimensions: Dominance (D), Influence (I), Steadiness (S), and Conscientiousness (C). Unlike MBTI and Enneagram, DISC measures behavioral style in professional contexts rather than deep personality structure. It is useful precisely because it's surface-level — it predicts how someone behaves at work, not why.
+Primary: S — Steadiness
+High-S individuals are stable, consistent, patient, and loyal. They prioritize relationships and harmony, dislike sudden change, and are the most likely to go the extra mile to keep the people around them satisfied. They are trusted because they are predictable in the best sense — people know what to expect from them.
+DATA EVIDENCE
+Agreeableness 6.72% — the core S signal
+1,369 contacts maintained; follow-through culture — S reliability in full expression
+2.6% negative sentiment over 12 years — S avoids disrupting harmony
+'I'll be there' 287, 'I'll let you know' 697 — S consistency signaling
+Low authority appeal (322) — S does not use rank or pressure; uses relationship
+Secondary: C — Conscientiousness
+High-C individuals are quality-focused, accurate, systematic, and compliance-oriented. They follow through on commitments, maintain standards, and are uncomfortable with sloppiness or inconsistency.
+DATA EVIDENCE
+Conscientiousness proxy 3.22% — planning, scheduling, deadline language
+Commitment phrases throughout corpus — C closure orientation
+Proper punctuation within messages (0.946 periods/message) — C accuracy and standards
+Professional identity maintenance across 12+ years without drift — C consistency
+Tertiary: D — Dominance
+The D signal is present but not primary. It shows up specifically as urgency — the D's characteristic tool for moving people and situations. The 7,563 urgency markers are the clearest D signal in the corpus. The D does not show up as dominance hierarchy behavior (authority appeal is the weakest tool), which distinguishes this from a primary-D profile.
+The SC/D combination is common in service-oriented professionals who are also results-driven. The S and C run the relationship; the D fires when the outcome is at risk.
+
+· · · · ·
+V.  Attachment Theory
+Attachment Style
+Secure-Anxious  (functional with undercurrent)
+MEDIUM
+
+Attachment theory, derived from Bowlby and Ainsworth, categorizes adult relationship patterns into four styles: Secure, Anxious-Preoccupied, Dismissive-Avoidant, and Fearful-Avoidant. These are not fixed types — they are tendencies that vary by relationship and life stage. They are also difficult to derive from outbound text data alone. The conclusions here are medium-confidence inferences.
+The Secure Layer
+The baseline profile is functionally secure. Sustained positive communication across 12.4 years, low negative affect, consistent follow-through, and the capacity to maintain 1,369 relationships without apparent exhaustion or collapse are all secure-attachment behaviors. A person with primary anxious attachment would show more destabilization, more explicit reassurance-seeking, and more variable emotional regulation.
+The Anxious Undercurrent
+Beneath the functional security, the data shows a consistent pattern of preemptive reassurance-provision and identity re-establishment that is consistent with anxious-attachment tendencies — specifically, the anxiety about being forgotten, being unwanted, or not being worth someone's time.
+DATA EVIDENCE
+Self-introduction ritual 488 times to known contacts — anxious attachment hedges against being forgotten
+3,744 'thank' uses — excessive explicit gratitude is partly a preemptive move; thanking people keeps them close
+'Let me know if you need anything' — the door left open is an anxious-attachment behavior; secure people close transactions cleanly
+697 'I'll let you know' — the commitment to return is partly reassurance that the relationship continues
+2w3 Enneagram structure is the personality-system parallel to this pattern: the core fear of being unwanted produces preemptive usefulness
+The most accurate read: operates from a secure base built through years of reliable behavior and positive relationship outcomes, but with an anxious layer that was probably more active at an earlier stage of development and that still shows in specific habitual behaviors (the self-introductions, the over-giving, the receiving gap). Not anxious-preoccupied in the clinical sense. Secure with history.
+
+· · · · ·
+VI.  Love Languages
+Love Languages
+Acts of Service  ·  Words of Affirmation
+MEDIUM
+
+Gary Chapman's Five Love Languages describe the primary ways people both give and receive love: Words of Affirmation, Acts of Service, Receiving Gifts, Quality Time, and Physical Touch. The giving languages are more accessible from text data than the receiving languages. Physical Touch and Gifts are undetectable from this corpus and are excluded from the analysis.
+Giving Language #1: Acts of Service  (very high confidence)
+Acts of Service means expressing care by doing things for people. The helper who always shows up, always follows through, always has the practical solution. For the 2w3, Acts of Service is not just a love language — it is the primary medium through which love is expressed and identity is maintained.
+DATA EVIDENCE
+'I'll take care of it,' 'let me handle that,' 'I'll be there' — service as care expression
+Reciprocity as #2 persuasion tool — doing things 'for you, on your behalf'
+1,751 emotional labor messages — the check-in itself is an Act of Service
+Follow-through culture: 697 'I'll let you know' — the follow-up is the service
+Giving Language #2: Words of Affirmation  (high confidence)
+Words of Affirmation means expressing care through explicit verbal acknowledgment — gratitude, compliments, encouragement, recognition. The corpus is dense with this.
+DATA EVIDENCE
+3,744 'thank' uses — explicit verbal acknowledgment at scale
+'Thank you so much' 248 — amplified affirmation, not just acknowledgment
+Emotional labor including 'thinking about you,' 'hope things are getting easier' — words as affirmation of presence
+Positive emotional expressions 8,009 — dominant affirmative register
+Receiving Language (inferred): Words of Affirmation
+The receiving language is harder to determine from outbound data. But the 2w3 structure strongly predicts that Words of Affirmation is the primary receiving language. The 2 gives service and acknowledgment partly because those are what they need returned. The 3,744 'thank' uses model the behavior they want received. The self-introduction ritual — the implicit 'please confirm I'm worth your time' — is a request for Words of Affirmation expressed as a procedural behavior.
+Quality Time is probably the secondary receiving language — presence as love — but this is the most speculative inference in this document.
+
+· · · · ·
+VII.  Jungian Archetypes
+Primary Archetype
+The Caregiver  /  Shadow: The Martyr
+MEDIUM
+
+Jung's archetypes are universal patterns of the psyche expressed through behavior, narrative, and symbol. The twelve primary archetypes (as commonly derived: Innocent, Everyman, Hero, Caregiver, Explorer, Rebel, Lover, Creator, Jester, Sage, Magician, Ruler) represent different orientations toward life. The Shadow archetype is the undeveloped, suppressed counterpart to the primary.
+Primary: The Caregiver
+The Caregiver is motivated by compassion and a desire to protect and serve others. Their greatest strength is generosity and the ability to make others feel safe and valued. Their greatest weakness is martyrdom — giving until they're depleted, then feeling resentful without saying so.
+The Caregiver's core question is: 'Am I doing enough for the people who need me?' Their core fear is selfishness — being the person who doesn't give enough, who puts themselves first, who fails the people depending on them.
+DATA EVIDENCE
+Every signal analyzed above: service identity, emotional labor, follow-through, warmth — Caregiver in full expression
+2w3 Enneagram maps directly onto Caregiver archetype with 3-wing adding the Hero dimension
+High A, High E, Low N profile = Caregiver behavioral signature
+'Let me know if you need anything' as verbal signature — the Caregiver leaves the door permanently open
+Shadow: The Martyr
+The Caregiver's shadow is The Martyr — the version of the archetype that has given so much, so continuously, that the giving has become a form of self-punishment, and the selflessness has become a covert demand for recognition. The Martyr doesn't ask for what they need. They give more instead. And then they feel unseen.
+The shadow is not fully activated in this profile — the functional stability and low Neuroticism argue against a Martyr-dominant pattern. But the receiving gap, the self-introduction anxiety, and the humor-as-avoidance pattern are the shadow's fingerprints. The frustration goes 🙄 instead of getting said because saying it would be asking for something, and asking for something is Martyr territory the Caregiver doesn't want to occupy.
+DATA EVIDENCE
+Frustration markers 2,436 vs. humor closers 2,449 — the near-exact match is the shadow at work
+Receiving gap: high giving output, minimal receiving behavior in corpus
+5.6:1 positive-to-negative — the suppression that enables the Martyr to feel unrecognized without complaining
+Self-introduction ritual — 'please confirm I'm still worth your time' is a Martyr move dressed as professional courtesy
+
+· · · · ·
+VIII.  Keirsey Temperament & Socionics
+Keirsey: Guardian — Provider (SJ)
+Keirsey Temperament
+Guardian  /  Provider
+HIGH
+
+David Keirsey grouped the sixteen MBTI types into four temperaments based on different fundamental orientations to life. ESFJ falls into the Guardian temperament, specifically the Provider subtype.
+Guardians are the temperament most oriented toward security, belonging, and social responsibility. They are the people who keep institutions running, maintain the fabric of community, and take their obligations seriously. The Provider specifically is the most socially expressive Guardian — the one who hosts, connects, remembers, and makes sure everyone has what they need.
+DATA EVIDENCE
+Western PA network concentration — Guardian rootedness; the known community is the safe community
+Self-introduction ritual — Guardian does not assume welcome; they establish it procedurally
+1,369 contacts maintained — Provider's characteristic behavior; the community is large and actively maintained
+Professional identity deeply integrated with self — Guardian's work is their social role, not separate from it
+Urgency as primary tool — Guardian mobilizes people around concrete obligations and deadlines
+Socionics: ESFj  —  The Enthusiast / Bonvivant
+Socionics
+ESFj  (Fe-Si  /  'The Enthusiast')
+MEDIUM
+
+Socionics is a Russian-derived typology that shares MBTI's letter system but uses slightly different underlying theory. The ESFj in Socionics (called the Enthusiast or Bonvivant in different schools) is characterized by warm, expansive emotional engagement, strong social intelligence, loyalty to their community, and a need to feel genuinely connected to others.
+The Socionics ESFj's valued functions are Fe (Extraverted Ethics) and Si (Introverted Sensing) — exactly the dominant-auxiliary stack identified in the MBTI cognitive function analysis. Their role in the social world is harmonizer and nurturer of the community's emotional health.
+Where Socionics adds nuance: the ESFj's vulnerable function in Socionics is Ti (Introverted Logic) — they are uncomfortable with cold logical analysis that ignores relational context, and can become defensive or overwhelmed when pushed into purely abstract, impersonal reasoning. This precisely matches the inferior-function analysis above.
+
+· · · · ·
+IX.  Cross-System Convergence  —  What They All Agree On
+The value of running multiple personality systems simultaneously is convergence. Where multiple independent frameworks arrive at the same conclusion from different starting points, the conclusion becomes significantly more reliable. Here is where every system in this analysis agrees.
+Finding
+Systems That Agree
+Primary orientation is relational, not analytical or autonomous
+MBTI (Fe dominant) · Big Five (A 6.72%) · Enneagram (Type 2) · DISC (High S) · Attachment (Secure-Anxious) · Jungian (Caregiver) · Keirsey (Provider)
+The giving is genuine, not strategic
+All systems — no framework produces the sustained warmth signal as a performance; the consistency across 12.4 years and every context argues against artifice
+The receiving is structurally underdeveloped
+Enneagram 2 core pattern · MBTI Fe-loop risk · Jungian Martyr shadow · Attachment anxious undercurrent · Love Language inversion
+Urgency is a primary tool that reflects care AND control
+DISC (D tertiary activates under pressure) · Enneagram (2→8 stress line) · Big Five (C follow-through + low N until stressed) · MBTI (inferior Ti activates as hyper-focus under stress)
+Humor manages what direct expression doesn't say
+Big Five Low N (managed) · Enneagram 2 repression defense · MBTI Fe-loop (humor as emotional regulation) · Jungian Martyr shadow
+Identity is organized around being useful and indispensable
+Enneagram 2w3 core · MBTI ESFJ identity structure · Jungian Caregiver · Keirsey Provider · DISC High S reliability
+Logical/analytical processing is the consistent weak area
+MBTI Ti inferior · Big Five Low O · Socionics vulnerable Ti · DISC Low I (data/analytical I subtype)
+The self-introduction ritual carries more than practical function
+Enneagram 2 core fear · Attachment anxious layer · Jungian Martyr shadow · Keirsey Guardian procedural safety
+
+Every system says the same thing from a different angle: this is a person whose fundamental orientation is toward the people around her, whose identity is built on being needed and being effective, and whose greatest growth edge is the territory between what she gives and what she allows herself to receive.
+
+· · · · ·
+X.  A Final Word on What These Systems Can and Cannot Do
+Every system in this document has critics and every system has limitations. None of them are true in the way that a blood test is true. They are maps — useful precisely because they simplify, and limited precisely because they simplify.
+What they can do: identify recurring patterns, give you language for tendencies you've always felt but couldn't name, and show you where multiple independent frameworks converge on the same territory. The convergence in this profile across eleven independent systems is unusually strong. That doesn't mean any individual system is accurate. It means the underlying reality they're all pointing at is probably real.
+What they can't do: account for the specific circumstances of your life, the ways you've grown and changed, the relationships that have shaped you, or the choices you've made that run against the grain of your type. No personality framework accounts for the person who did the hard work. They only account for the baseline orientation you started with.
+What the data adds that typical personality assessments don't: twelve years of unfiltered behavioral evidence. You didn't fill out a questionnaire on a good day or a bad day, under observation or in private. You just sent 153,706 messages across twelve years to 1,369 different people. The patterns that show up in that data are not the patterns you think you have. They are the patterns you actually demonstrate, repeatedly, over time, when nobody is scoring you.
+That distinction matters.
+
+
+
+The Full Profile  ·  Suzanne Frank  ·  All Major Personality Systems  ·  2026
+Derived from 153,706 sent messages · 2,050,250 words · 1,369 contacts · November 2013–March 2026
+All conclusions are inferences from behavioral/lexical data. Not a clinical assessment. Treat as a lens, not a verdict.
