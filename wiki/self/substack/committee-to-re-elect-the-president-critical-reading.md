@@ -211,9 +211,11 @@ The last line of the corpus is "Brace yourself for… something." Eighteen month
 
 ## Related
 
-- [Committee to Re-elect the President](wiki/self/substack/committee-to-re-elect-the-president.md) — the publication entry (incidental)
-- [POLL WATCH series](wiki/self/substack/poll-watch-series.md) — the data-blogger mode (incidental)
-- [Hell World frame](wiki/mind/concepts/hell-world-frame.md) — the register as a concept
+- [Committee to Re-elect the President](wiki/self/substack/committee-to-re-elect-the-president.md) — the publication hub (major)
+- [The DeSantis Delusion](wiki/mind/politics/desantis-delusion-thesis.md) — the flagship prediction (major)
+- [Trump Was Always Going To Win](wiki/mind/politics/trump-was-always-going-to-win.md) — the claim, audited (major)
+- [Hell World frame](wiki/mind/concepts/hell-world-frame.md) — the register as a concept (major)
+- [POLL WATCH series](wiki/self/substack/poll-watch-series.md) — the data-blogger mode (major)
 - [the-scoreboard](wiki/mind/synthesis/the-scoreboard.md) — prediction tracking as an instrument
 - [Dan Frank — overview](wiki/self/overview.md) — the hub
 - `raw/dan/20261001-substack-creepy/` — the full 10-post pull this reading is based on
