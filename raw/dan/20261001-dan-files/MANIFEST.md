@@ -36,9 +36,9 @@ zero remaining in the archived copies.
 
 Per Dan's 2026-09-29 standing order (the one no-go: his dealer's name never appears in
 wiki-brain — no prose, no kb, no raw/):
-- `personality_deep.json` — **1** occurrence ("Bop bought me a new one yesterday..."), replaced with `[dealer]`.
+- `personality_deep.json` — **1** occurrence (a single Dan-authored message), replaced with `[dealer]`.
 - `reaction_pairs_heldout.jsonl` — **21** occurrences across 19 lines (all supply/financial-domain
-  pickup-arrangement context, e.g. "bop isn't here yet", "can you text bop for 60"), replaced with `[dealer]`.
+  pickup-arrangement context), replaced with `[dealer]`.
 - Remaining 15 files — **0** hits.
 
 Both redacted files verified: still valid JSON/JSONL after redaction; zero excluded-name hits remain.
