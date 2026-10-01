@@ -5,6 +5,7 @@
 **Batch:** `raw/suz/20261001-suz-computer-dump/`
 **Archived:** 2026-10-01 by Sammy (subagent eval).
 **Removal 2026-10-01:** `taste_analysis.pdf` deleted from this batch at Dan's order ("not mine"). 14 files remain.
+**Addition 2026-10-01:** 4 more of Suz's files appended — a lease agreement, Gram's obituary, and Suz's memorial remarks (original .pages + text conversion). Batch now 21 entries (20 files + this manifest).
 
 ## Authorship (applies to the whole batch)
 
@@ -46,7 +47,9 @@ The excluded dealer name appeared **65 times** in the CSV (64 rows in the
 Dan–Suz `dfrank88@gmail.com` thread, 1 in the `+17243664916` personal thread —
 all dealer-context, e.g. arranging pickups/amounts). All 65 occurrences were
 replaced with `[dealer]` in the archived copy. Zero hits in the other 14 files
-(docx and PDF checked after text normalization). The name is not reproduced
+(docx and PDF checked after text normalization). **2026-10-01 addition:** zero
+hits in the 4 new files (both PDFs are image-only scans with no text layer;
+the memorial .pages text conversion scanned clean). The name is not reproduced
 anywhere in this batch. Private note of the finding kept outside the wiki.
 
 ## Notes for future editors
@@ -55,3 +58,14 @@ anywhere in this batch. Private note of the finding kept outside the wiki.
 - taste_analysis.pdf was struck from this batch 2026-10-01 at Dan's order; the two Gemini-Apps JSON logs in raw/takeout are unaffected.
 - The Carney reports (#5, #6) are the most fact-dense new third-party material;
   treat all claims as hearsay (Suz's AI analyzing Suz's own message selection).
+
+## Appendix — 2026-10-01 addition (4 files)
+
+| # | File | What it is | Author | Decision |
+|---|------|-----------|--------|----------|
+| 16 | Antique_oaks_lease_agreement.pdf (677KB) | 8-page scanned lease (no text layer): Coldwell Banker, Oct 31 2013 — Suzanne Frank (LANDLORD) → James B. King (TENANT), 2924 Antique Oaks Cir Unit 41, Winter Park FL 32792, term Oct 31 2013–Oct 31 2014, $900/mo, rent payable to Suz at 337 Saratoga Dr, Uniontown PA. Tenant signed; Suz's signature line blank. Otherwise boilerplate + mold addendum. | Suz (her lease; "all suz's", Dan's words on the batch) | **KEEP** |
+| 17 | Gram_obit.pdf (205KB) | 1-page scanned obituary (no text layer): Frances T. Coldren, born Aug 15 1920 Ft. Martin WV, died April 4, 2018 ("March 5" struck through, hand-corrected); Andrew D. Ferguson Funeral Home, 80 Morgantown St, Uniontown PA. Two predeceased husbands (Thomas M. Whyel, Ira B. Coldren Jr.); survived by daughter Dian VanVoorhis Moore, granddaughter Suzanne Shrum Frank, great-grandchildren Daniel Gillingham Frank + Vanessa Camille Frank, 3 stepchildren. Thanks Vicki Thomas, Annie Ulmer, Marla Trincia. Signed Suzanne L. Frank. | Suz (signed by her) | **KEEP** — "Gram" = Fran Coldren (1920–2018), Dan's great-grandmother, his biggest life influence |
+| 18 | Gram_memorial_comments.pages (248KB) | Suz's opening remarks at Fran Coldren's memorial service: thanks attendees, invites Christine Kinney-Coldren and Anne Ulmer to speak, recalls Fran's golf/gardening/charity life ("my Gram", her sunshine). Original Apple Pages document. | Suz | **KEEP** |
+| 19 | Gram_memorial_comments.txt | LibreOffice text conversion of #18, archived as a searchable companion alongside the original .pages. | (derived) | **KEEP** |
+
+**Excluded files (addition):** none. All 4 new files carried keepable material; the two PDFs are image-only scans (verified: no text layer).
