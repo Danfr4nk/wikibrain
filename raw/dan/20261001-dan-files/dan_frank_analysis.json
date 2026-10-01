@@ -1,0 +1,795 @@
+{
+  "total_messages": 26239,
+  "sent_by_suzanne": 13407,
+  "received_from_dan": 12832,
+  "yearly_breakdown": {
+    "2014": {
+      "total": 67,
+      "sent": 29
+    },
+    "2015": {
+      "total": 487,
+      "sent": 195
+    },
+    "2016": {
+      "total": 2682,
+      "sent": 1381
+    },
+    "2017": {
+      "total": 4469,
+      "sent": 2252
+    },
+    "2018": {
+      "total": 6751,
+      "sent": 3597
+    },
+    "2019": {
+      "total": 5100,
+      "sent": 2854
+    },
+    "2020": {
+      "total": 3401,
+      "sent": 1916
+    },
+    "2021": {
+      "total": 894,
+      "sent": 572
+    },
+    "2022": {
+      "total": 12,
+      "sent": 8
+    },
+    "2023": {
+      "total": 481,
+      "sent": 218
+    },
+    "2024": {
+      "total": 591,
+      "sent": 324
+    },
+    "2025": {
+      "total": 1037,
+      "sent": 60
+    },
+    "2026": {
+      "total": 267,
+      "sent": 1
+    }
+  },
+  "topics": {
+    "money_debt": 442,
+    "conflict_anger": 500,
+    "care_support": 374,
+    "boundaries_guilt": 67
+  },
+  "key_exchanges": {
+    "arguments": [
+      {
+        "date": "2015-02-08 21:08:00",
+        "text": "He just walked in.  I'll be home if this fucker would stop being nasty"
+      },
+      {
+        "date": "2015-02-09 15:20:16",
+        "text": "He walked right in the fucking door again"
+      },
+      {
+        "date": "2015-02-09 20:04:00",
+        "text": "He's an impatient fuck.  Haven't heard yet"
+      },
+      {
+        "date": "2015-02-16 10:51:28",
+        "text": "Ok. After I'm done here I would like to go earn some money and then go to aldi's and big lots. Snow is supposed to start early afternoon. 2-5 inches"
+      },
+      {
+        "date": "2016-08-18 22:24:25",
+        "text": "I fucking despise this godforsaken place.  Good luck to all who don't get the fuck out"
+      },
+      {
+        "date": "2016-08-22 18:16:48",
+        "text": "I'm leaving!!! While you are out on the fucking golf course all day, I'm dealing with fucked up shit!! I've had enough!  I have $20 fucking dollars and that's it!  After every fucking mess you have dragged me through, that's the best you can do?  Selfish son of a bitch!  Thanks for none of your help...except dousing my house w iced coffee.  Someday it will all come back to you!!!!!!!!!!"
+      },
+      {
+        "date": "2016-08-22 18:29:47",
+        "text": "First of all, you borrowed money from me over the weekend.  You know you haven't paid me back and for god's sake, you could have given me something more than $20!!!  I've given you hundreds upon thousands of dollars and I can't decide whether to get gas, buy cat food or just go get some fucking bullets and shoot myself.  Keep playing golf mr leisure!!"
+      },
+      {
+        "date": "2016-08-22 21:49:53",
+        "text": "WHAT??? Oh gee, thanks so much for the $20 and ???  DO NOT EVER try to compare yourself with me. Not until you have walked in my shoes.  You either forget or never knew some of the things I have done.  You aren't anywhere close yet"
+      },
+      {
+        "date": "2016-08-23 00:52:52",
+        "text": "There will be an extra $70,000 for you because of that asshole's insurance policy so you should be happy "
+      },
+      {
+        "date": "2016-08-27 07:01:28",
+        "text": "Your first job is to cut the grass at VA Ave.  We went over and checked things out last night.  His opinion was that there are a lot of great things about the house and I should focus on getting the most important things done first that would prevent it from selling.  He pointed out a bunch of electrical issues that are easy to fix.  Anyway, that place is disgusting and I'm going to try really hard to not blow the fuck up on you about the deplorable condition it is in.  I guarantee it does not meet the condition that you promised me it would be in when you first went there"
+      },
+      {
+        "date": "2016-08-27 12:01:09",
+        "text": "I'm done with people taking advantage of me.  Example: I just sent this text message to that cock sucking fudge-packer:\nThis is your last chance. You have had a more than generous amount of time to show some sign that you aren't a fucking asshole. You have until September 1st to get started paying me back or its time to call in the big dogs.  Please know that I'm dead serious.  I'm fucking pissed off, and your time is about up.  There is absolutely NO EXCUSE FOR THIS!!!! Clock is ticking"
+      },
+      {
+        "date": "2016-08-27 19:42:08",
+        "text": "Fucking Andre put me off til tomorrow.  No one else answers.  I'm pissed"
+      },
+      {
+        "date": "2016-08-28 02:19:29",
+        "text": "This is exactly why I'm going back to what I said before.  You, for the 5 millionth time, owe me money, and I'm stuck at home without a single dollar.  No wonder I'm fucking pissed off!  Who the fuck do you think you are?  Just like everyone else.  I hate this place!!!  Thanks son"
+      },
+      {
+        "date": "2016-08-30 15:17:32",
+        "text": "I'm in the middle of a fucking mtg. You have to wait "
+      },
+      {
+        "date": "2016-09-08 14:29:43",
+        "text": "Appt canceled.  He already signed with another company!! Asshole"
+      },
+      {
+        "date": "2016-09-08 21:33:11",
+        "text": "Don't bother trying to call me tomorrow.  Phone will be dead.  I can't count on anyone but me.  That's what I should have done all along. Then I wouldn't been in this position"
+      },
+      {
+        "date": "2016-09-08 21:39:20",
+        "text": "Spitting fire?  You have no idea what I've said or done.  I expected that three days ago.  I was going to tell you all this on the phone but since you are \"dealing with something\" I will have to type it"
+      },
+      {
+        "date": "2016-09-09 15:10:55",
+        "text": "I kind of figured if I came over there as the homeowner board landlord they might not of done that"
+      },
+      {
+        "date": "2016-09-15 21:05:12",
+        "text": " This has been the absolute worst birthday and up there with the worst day in my life. I really don't give a fuck about how difficult your poor little day was.  I don't have one ounce of sympathy for you.  You have fucked me over a million times and can't even give me respect on one day of my life.  Yeah u need to get out of my life because you have only brought problems and pain and I get this for thanks.  THANK YOU DANIEL!!!"
+      },
+      {
+        "date": "2016-09-15 21:11:51",
+        "text": "Selfish son of a bitch.  This was the worst birthday ever and you can be sure that I will be somewhere else next year because my family sucks!!!"
+      },
+      {
+        "date": "2016-09-15 21:57:36",
+        "text": "Fucking selfish mother fucker!! I am so furious with you, I could tear you limb from limb!! I have been conned,lied to, robbed, disrespected and fucked over by you!  Today, was the defining moment.  You couldn't step out of your selfishness for  two hours?  Good luck.  I'm out "
+      },
+      {
+        "date": "2016-09-15 21:59:11",
+        "text": "Here you go mother fucker.  Explain this: I'll talk to her tomorrow, it's not fair that she can give Dian and Dave money and everyone else but not you, she left Daniel use her credit card and he put 5000.00 on it in two months, Rod asked me about it, I'm just saying she can help you if she can do all that for them "
+      },
+      {
+        "date": "2016-09-30 15:54:42",
+        "text": "FYI: you are no longer allowed to use Gram's credit card. Do not ask for it.  You have now put me in a position where my business is at risk.  I can't tell you how angry and disappointed I am in you.  "
+      },
+      {
+        "date": "2016-10-12 14:23:33",
+        "text": "I\u2019ll come up and get you, but you need to call me as soon as you are done because I have to leave here at 7:00 and I need my phone like....yesterday!!"
+      },
+      {
+        "date": "2016-10-13 13:16:54",
+        "text": "I'm done.  Do you need me to get your check?"
+      },
+      {
+        "date": "2016-11-02 17:27:31",
+        "text": "Do you want to come up and sit with her for a little while?  I need to get some work done"
+      },
+      {
+        "date": "2016-11-02 19:33:33",
+        "text": "Really... that's nice.  Don't answer the fucking phone.  Highly responsible"
+      },
+      {
+        "date": "2016-11-05 11:37:39",
+        "text": "I'm getting dressed and going to meet my client Gordon at 12:30.  After that, I can go grocery shopping until 3:00 when I have to drive to the mountains and show my listing up there.  Then I will be back to cook dinner.  I should be done cleaning that up by the time Vicki comes...at which point I will go home to begin cleaning the bathrooms and doing laundry.  Once that is done, I have to go back to preparing my listings.  That's my plan."
+      },
+      {
+        "date": "2016-11-14 20:50:23",
+        "text": "It's saying my fucking printer is not connected again!!!!"
+      },
+      {
+        "date": "2016-11-29 16:21:05",
+        "text": "That fucking asshole.  I don't care if I ever talk to him again"
+      },
+      {
+        "date": "2016-12-08 14:49:16",
+        "text": "That just might force me to make a phone call!!!! I'm fucking livid!!!!"
+      },
+      {
+        "date": "2016-12-20 14:25:45",
+        "text": "See, what you don't understand and I just figured out is that for some unknown reason,  she has been blaming me for all of the things you have done.  I just found out that I'm getting a Christmas tree ornament this year."
+      },
+      {
+        "date": "2016-12-20 14:27:49",
+        "text": "No one could possibly know how hurt I am.  She must really hate me"
+      },
+      {
+        "date": "2016-12-20 16:25:23",
+        "text": "I decided to write my own letter.  It will be a different kind of letter than my *+^=%#% mother sent because she is an angry, spiteful, negative person who has the same entitlement disease I keep seeing everywhere in my daily life.  I just feel like she needs to try to look at things the way they really are and have been.  She has forgotten, I guess, what is important, and I think she just takes for granted that I will always be here for her and take care of her.  I would have done it whether she had money or not.  Why she is being so cruel to me, I do not understand, but she has really hurt me a lot and I don't deserve it.  That is a fact that cannot be denied.  "
+      },
+      {
+        "date": "2016-12-29 19:46:23",
+        "text": "Potkul is going to come over for a little bit.  I am working on the end of this listing.  Once that is done, it's on to eBay.  I'll call you in a little while to see what you are doing"
+      },
+      {
+        "date": "2017-01-04 14:26:17",
+        "text": "You keep on talking about me to Gram.  I have been hearing the things you have said.  You have a lot of fucking nerve. "
+      },
+      {
+        "date": "2017-01-08 04:41:54",
+        "text": "I just missed a call from Vicki. Text:Hey, I hate to bother you this early in the morning but I have two missed calls from Fran, she called at 2 :15 and again at 3:37, I'm thinking her furnace broke down again, can someone go check on her , I just saw she called\nCan you go check on her?"
+      },
+      {
+        "date": "2017-01-10 23:57:58",
+        "text": "You have no clue what you have done.  I don't care anymore.  You fucked me for the very last time"
+      },
+      {
+        "date": "2017-01-22 12:31:50",
+        "text": "You are the biggest smug asshole in the world.  That was an enormous mistake.  It was rude and disrespectful"
+      },
+      {
+        "date": "2017-01-22 14:28:30",
+        "text": "For years, I have ignored the crappy, disrespectful way you treat me and have used me and my kindness.  Your feelings about me are painfully obvious.  I see it almost daily.  I have given, done and excused WAY MORE than I needed to and in return, I get  insolent, cocky, rude, responses from a child who obviously cares very little about me.  You only care about yourself.  What happened to you?   Ask yourself, when was the last time you did anything nice for me?  Then remember everything I have done to help you out...for years!!  And you're going to sit there and smugly say \"the only thing wrong here is you were late\"!!! Really?  Well, mother fucker, you were at least an hour late for my birthday this year and it wasn't because you were  getting me a gift.  We waited for you.  You need to stop being so cocky because you have no ground to stand on.  You are a lazy, waste product who thinks he doesn't have to work and that enfuriates me!!!  I'll be dropping off a rental application when I get back from my appointment.  You're going to need it"
+      },
+      {
+        "date": "2017-01-22 21:45:40",
+        "text": "I'm glad that it went to your habit.  Whether I get gas or food for the dog has no bearing because you are a selfish prick.  You take first. Lie later.  Please don't think that I'm just angry and it will all go away soon.  It WONT!  See, I would have given you and did, many times, the last things I had: money, food, etc.  it sure is a sad thing to realize that you are too selfish to ever give back.  I'm so disappointed in who you turned out to be.  Why should I give a fuck anymore?  Really??  Whatever I didn't give you you took...you do the same to gram.  Why would I care about you anymore?  When I need the slightest bit of help, I rarely get an answer from you.  Nice.  Glad I wasted my time loving you.  You have shown how you feel.  Thank you"
+      },
+      {
+        "date": "2017-01-25 19:48:27",
+        "text": "I have a job for you.  It isn't going to pay a lot, but it isn't going to take long either.  IT ABSOLUTELY HAS TO BE DONE EARLY TOMORROW and it's outside.  Can you do it?"
+      },
+      {
+        "date": "2017-01-30 17:26:11",
+        "text": "Ok. I'll look later. Ive been on the phone most of the afternoon trying to salvage this sale.  Didn't even make it to any meetings. I don't like this kind of thing at all. People get angry and nasty no one wants to agree. It just sucks"
+      },
+      {
+        "date": "2017-02-19 12:12:27",
+        "text": "I'm meeting Beimel as soon as I'm done, I'll be over"
+      },
+      {
+        "date": "2017-02-24 17:39:39",
+        "text": "If you find out when she might be done, I could plan to go up an hour ahead, use my fan play and bring her home.  I don't have anywhere close to the amt of money I need for this month so u won't be finding me sitting at any machines for any length of time."
+      },
+      {
+        "date": "2017-03-04 21:08:34",
+        "text": "My laptop says virus found the last website you visited has infected your Mac with a virus press OK to begin the repair process what the fuck"
+      },
+      {
+        "date": "2017-03-09 22:28:07",
+        "text": "That's just the point,  it isn't fun for me.  These assholes need to have a babysitter.  No one EVER!!! Has had to babysit me.  Why can't everyone be responsible for themselves?  Are they that lame?  It really isn't fun to have to \"manage\" drunk assholes and it certainly limits my fun ratio because SOMEONE needs to be responsible! Grrrrrrrrrrrrrrrrrr!!!!!"
+      },
+      {
+        "date": "2017-03-09 22:56:33",
+        "text": "They are deposited and I'm back in town and back to work. I'm more pissed off tonight because someone I know and have talked business with before wants me to sell his properties but doesn't want to pay like everyone else!  I had had about enough, so I told him, I can and will sell your properties but I know my business and I DONT WORK FOR FREE!  Fuck him.  I told him if he wants someone who knows what she is doing, call me.  Otherwise, nvmd. Pisses me the fuck off!"
+      },
+      {
+        "date": "2017-03-10 14:21:13",
+        "text": "Ftfefftttftftftffftfettfftetdedtfffffttfftffftfnlgdt tttbeen there done that"
+      },
+      {
+        "date": "2017-03-10 14:34:03",
+        "text": "I've already done this with you. It's old. "
+      }
+    ],
+    "caretaking": [
+      {
+        "date": "2015-02-11 23:09:24",
+        "text": "You had better have it!!!!!!!"
+      },
+      {
+        "date": "2015-02-11 23:30:56",
+        "text": "Ok. I'm going to take care of the conversation w opie now and I'll be back after that."
+      },
+      {
+        "date": "2015-02-16 15:20:16",
+        "text": "Why don't u come now.  Sally needs help w settings on her phone "
+      },
+      {
+        "date": "2015-02-19 08:52:00",
+        "text": "Help!  Come to my room"
+      },
+      {
+        "date": "2016-08-14 11:31:43",
+        "text": "Did anyone take care of Lucy?"
+      },
+      {
+        "date": "2016-08-17 19:33:26",
+        "text": "Then it better be on the counter at home"
+      },
+      {
+        "date": "2016-08-22 18:16:48",
+        "text": "I'm leaving!!! While you are out on the fucking golf course all day, I'm dealing with fucked up shit!! I've had enough!  I have $20 fucking dollars and that's it!  After every fucking mess you have dragged me through, that's the best you can do?  Selfish son of a bitch!  Thanks for none of your help...except dousing my house w iced coffee.  Someday it will all come back to you!!!!!!!!!!"
+      },
+      {
+        "date": "2016-08-23 00:26:57",
+        "text": "I'm coming by.  You can wrap something up and leave it somewhere if you want.  If I could pack up and leave here tonight, you better believe I would.  I want to be ANYWHERE. BUT THIS GODFOR-\nSAKEN HELLHOLE!!!!"
+      },
+      {
+        "date": "2016-08-28 02:21:33",
+        "text": "It doesn't matter.  I need to go away and surround myself with better people and stop feeling like a dirty doormat"
+      },
+      {
+        "date": "2016-09-07 17:52:27",
+        "text": "You better rethink what you are doing.  You picked the WRONG DAY to do that!!!!!!"
+      },
+      {
+        "date": "2016-09-08 21:41:10",
+        "text": "I have a 9 am appt in pt Marion  I can't pay online so I have to wait until Verizon opens and take the cash in them.  By that time, my phone will no longer work.  If I could count on anyone, I would have a better idea of how much I have/need.  Just forget it"
+      },
+      {
+        "date": "2016-09-09 15:13:27",
+        "text": "Can you take care of that with the other $20 you owe me or are you out?"
+      },
+      {
+        "date": "2016-09-15 21:14:06",
+        "text": "Get out of my house.  I'm selling and leaving all of this bullshit behind. You owe me $14,000 to start off.  Better get to work."
+      },
+      {
+        "date": "2016-09-15 21:59:11",
+        "text": "Here you go mother fucker.  Explain this: I'll talk to her tomorrow, it's not fair that she can give Dian and Dave money and everyone else but not you, she left Daniel use her credit card and he put 5000.00 on it in two months, Rod asked me about it, I'm just saying she can help you if she can do all that for them "
+      },
+      {
+        "date": "2016-09-25 11:20:39",
+        "text": "The guy is coming to pick the trunk up at noon.  I am going to need help with it.  Called Potkul but didn't hear back yet.  This guy just had his 4th hernia surgery so I don't think he is going to be much help.  You know anyone else we can call?"
+      },
+      {
+        "date": "2016-10-01 17:37:48",
+        "text": "Gram wants you to take care of her flag"
+      },
+      {
+        "date": "2016-10-12 14:11:54",
+        "text": "I need help.  When are you done?"
+      },
+      {
+        "date": "2016-10-30 03:23:39",
+        "text": "Better be careful driving around late at night"
+      },
+      {
+        "date": "2016-11-03 20:49:39",
+        "text": "Better save some for her.  What did you do today?"
+      },
+      {
+        "date": "2016-11-05 13:33:57",
+        "text": "You can usually figure her out better than I can"
+      },
+      {
+        "date": "2016-11-06 10:18:30",
+        "text": "It would take way too long for me to list the millions of things I do for you...with little gratitude and frequently no compensation.  It isn't like I was lounging around, gambling, or otherwise goofing off yesterday, either.  Seems to me, if you aren't bringing in any income and the rest of us are, you should be doing everything you can to help us.  I doubt you will ever get that."
+      },
+      {
+        "date": "2016-11-15 11:39:55",
+        "text": "Ok.  I need some help here"
+      },
+      {
+        "date": "2016-11-17 13:39:07",
+        "text": "Stop here after you get your license. I have a computer problem I need help with."
+      },
+      {
+        "date": "2016-11-29 16:08:36",
+        "text": "I will ask, I guess.  Will it help?"
+      },
+      {
+        "date": "2016-11-29 22:50:42",
+        "text": "LOST Phone and something else important in yard.  need flashlights and help!!!"
+      },
+      {
+        "date": "2016-12-13 15:22:23",
+        "text": "I need to get these listings in but I'm thinking I better get my laptop to pgh today or tomorrow."
+      },
+      {
+        "date": "2016-12-15 05:37:15",
+        "text": "I need you to help me do something about these cards today and about Sirius.  Both are unacceptable"
+      },
+      {
+        "date": "2016-12-20 16:25:23",
+        "text": "I decided to write my own letter.  It will be a different kind of letter than my *+^=%#% mother sent because she is an angry, spiteful, negative person who has the same entitlement disease I keep seeing everywhere in my daily life.  I just feel like she needs to try to look at things the way they really are and have been.  She has forgotten, I guess, what is important, and I think she just takes for granted that I will always be here for her and take care of her.  I would have done it whether she had money or not.  Why she is being so cruel to me, I do not understand, but she has really hurt me a lot and I don't deserve it.  That is a fact that cannot be denied.  "
+      },
+      {
+        "date": "2016-12-22 11:22:54",
+        "text": "I need some help with my laptop"
+      },
+      {
+        "date": "2016-12-24 11:26:06",
+        "text": "I have $50 from Shannon for you. You better spend it on gifts "
+      }
+    ],
+    "financial": [
+      {
+        "date": "2014-01-09 00:30:40",
+        "text": "R u going to see him?  I'll put what cash I have outside my door"
+      },
+      {
+        "date": "2015-02-09 00:09:20",
+        "text": "On my way home.  Not hungry. Getting a very large drink, one hitter, and heading for my closet.  Btw. You owe me the green from the other night"
+      },
+      {
+        "date": "2015-02-09 00:13:36",
+        "text": "Jsyk:  I don't have a dollar on me nor can I get any more from anywhere unless I take a personal loan from someone."
+      },
+      {
+        "date": "2015-02-10 19:51:12",
+        "text": "it isn't just about the extracurriculars it's about paying regular bills as well"
+      },
+      {
+        "date": "2015-02-16 10:49:06",
+        "text": "No. It doesn't bill to that acct...for mine"
+      },
+      {
+        "date": "2016-08-22 18:16:48",
+        "text": "I'm leaving!!! While you are out on the fucking golf course all day, I'm dealing with fucked up shit!! I've had enough!  I have $20 fucking dollars and that's it!  After every fucking mess you have dragged me through, that's the best you can do?  Selfish son of a bitch!  Thanks for none of your help...except dousing my house w iced coffee.  Someday it will all come back to you!!!!!!!!!!"
+      },
+      {
+        "date": "2016-08-22 18:29:47",
+        "text": "First of all, you borrowed money from me over the weekend.  You know you haven't paid me back and for god's sake, you could have given me something more than $20!!!  I've given you hundreds upon thousands of dollars and I can't decide whether to get gas, buy cat food or just go get some fucking bullets and shoot myself.  Keep playing golf mr leisure!!"
+      },
+      {
+        "date": "2016-08-28 02:19:29",
+        "text": "This is exactly why I'm going back to what I said before.  You, for the 5 millionth time, owe me money, and I'm stuck at home without a single dollar.  No wonder I'm fucking pissed off!  Who the fuck do you think you are?  Just like everyone else.  I hate this place!!!  Thanks son"
+      },
+      {
+        "date": "2016-08-29 19:25:19",
+        "text": "His friend with the pickup isn't around.  He will let me know if he turns up.  Did you get any cash?  I need dog food and butter"
+      },
+      {
+        "date": "2016-08-30 12:13:26",
+        "text": "I'm going to have to borrow money from Shannon for gas and their order."
+      },
+      {
+        "date": "2016-09-08 21:41:10",
+        "text": "I have a 9 am appt in pt Marion  I can't pay online so I have to wait until Verizon opens and take the cash in them.  By that time, my phone will no longer work.  If I could count on anyone, I would have a better idea of how much I have/need.  Just forget it"
+      },
+      {
+        "date": "2016-09-09 15:13:27",
+        "text": "Can you take care of that with the other $20 you owe me or are you out?"
+      },
+      {
+        "date": "2016-09-09 15:20:24",
+        "text": "You do owe me $20, but i can give it to you now if you need it."
+      },
+      {
+        "date": "2016-09-15 21:14:06",
+        "text": "Get out of my house.  I'm selling and leaving all of this bullshit behind. You owe me $14,000 to start off.  Better get to work."
+      },
+      {
+        "date": "2016-09-24 14:18:00",
+        "text": "That's good.  I'll stop.  Does she have any money I can borrow?"
+      },
+      {
+        "date": "2016-10-02 20:18:23",
+        "text": "I don't have a single dollar but Jim wants to take me somewhere after his shift since we (I) did do well last weekend, so I'm prob. Just going to work until then. No internet at home so I have to go to the office."
+      },
+      {
+        "date": "2016-10-04 21:33:27",
+        "text": "How were you going to pay for it then?"
+      },
+      {
+        "date": "2016-10-20 16:52:15",
+        "text": "Will Walmart cash personal checks?"
+      },
+      {
+        "date": "2016-10-23 10:31:30",
+        "text": "I want my $120 and a son who doesn't steal from me.  Probably won't get either.  You have a great day.  Be thinking about what you did to destroy your relationship with your mother.  I had enough before.  Now I see the rest of it is gone.  You suck"
+      },
+      {
+        "date": "2016-10-28 16:06:04",
+        "text": "I am about to pay your electric bill.  I sincerely hope you are going to give me the money."
+      },
+      {
+        "date": "2016-10-31 08:27:14",
+        "text": "I just paid off your gas bill of $253."
+      },
+      {
+        "date": "2016-11-29 00:05:45",
+        "text": "There has to be some there.  I go through these horrible days and finally get home and in bed and try for the first time in weeks to do one little thing for myself and I can't.  I would bet a million dollars that you took it.  "
+      },
+      {
+        "date": "2016-12-05 04:19:21",
+        "text": "Call Brad in the morning.  Your debt and your expenses are way too high.  You stress me out!!!!"
+      },
+      {
+        "date": "2016-12-14 09:05:06",
+        "text": "Making a list for today:\nTake cash to sewage authority $181.55\n(They called. Were going to turn water off...again!!) lol"
+      },
+      {
+        "date": "2016-12-22 15:36:10",
+        "text": "Corey said I can borrow money from him. Lol. I may have to. I'm going to try Gram first"
+      },
+      {
+        "date": "2016-12-22 19:46:41",
+        "text": "I believe it was auto pay with my bank acct or capital one card which is still active"
+      },
+      {
+        "date": "2016-12-31 14:19:31",
+        "text": "Dollar value on Christmas gift from Gram: $32"
+      },
+      {
+        "date": "2017-01-01 15:45:48",
+        "text": "You think if we took your social security card and expired passport and expired license inside my bank where you used to have an acct with your name and social on it, we should be able to cash that stupid check"
+      },
+      {
+        "date": "2017-01-13 19:08:36",
+        "text": "Well, I don't know how you think I am going to pay your water bill.  My bank account has been overdrawn for two weeks now.  "
+      },
+      {
+        "date": "2017-01-21 19:07:51",
+        "text": "I'm probably going to go back to grams to borrow some CC.  I can't spend the rest of my money because I need gas and milk"
+      },
+      {
+        "date": "2017-01-25 19:48:27",
+        "text": "I have a job for you.  It isn't going to pay a lot, but it isn't going to take long either.  IT ABSOLUTELY HAS TO BE DONE EARLY TOMORROW and it's outside.  Can you do it?"
+      },
+      {
+        "date": "2017-01-26 12:33:51",
+        "text": "Can you please look at your bills and Corey needs to know the telephone number for Pennsylvania American water and he needs the number for the sewage department if you have it because I'm trying to hurry"
+      },
+      {
+        "date": "2017-01-27 18:28:54",
+        "text": "Ok. Thank you. I'm going to want to get more before I go.  As soon as I talk to O, I'll let you know.  Tomorrow morning, I'll go to the office and see what Paul can give me. Based on that and what I have to do to make sure heat stays on here while I'm gone. I'll see what I can do for you/Annie, but you still owe me money and I need that back soon."
+      },
+      {
+        "date": "2017-01-29 16:30:07",
+        "text": "Can I cash a check at Walmart if it's a company check written to me?"
+      },
+      {
+        "date": "2017-02-02 09:20:05",
+        "text": "Omg!!! Wtf??  You need to get your priorities straight!  You aren't going to live rent free much longer.  I worry about what will happen to you when you have to pay for EVERYTHING.  I wish you would too."
+      },
+      {
+        "date": "2017-02-02 16:14:49",
+        "text": "It could but I'd rather have someone pay you to do it. I don't have time"
+      },
+      {
+        "date": "2017-02-24 17:41:01",
+        "text": "If you had any sense of the gravity of what I'm up against, you would work like the devil to get some of your money from Rick and at least pay me back the $800.  It would help"
+      },
+      {
+        "date": "2017-03-03 20:40:59",
+        "text": "My front right tire has been hissing since I got home. Prob bad seal or a puncture. I did only pay $27 for it"
+      },
+      {
+        "date": "2017-03-09 22:56:33",
+        "text": "They are deposited and I'm back in town and back to work. I'm more pissed off tonight because someone I know and have talked business with before wants me to sell his properties but doesn't want to pay like everyone else!  I had had about enough, so I told him, I can and will sell your properties but I know my business and I DONT WORK FOR FREE!  Fuck him.  I told him if he wants someone who knows what she is doing, call me.  Otherwise, nvmd. Pisses me the fuck off!"
+      },
+      {
+        "date": "2017-03-10 14:32:06",
+        "text": "The only reason you ever come to my house again is to start paying me back once a week and you're going to pay me back every single goddamn bitch that you are me otherwise I want to talk to you I don't to see you"
+      },
+      {
+        "date": "2017-03-15 12:20:52",
+        "text": "Not only did you steal my silver but you also have taken enough money now from Gram that I'm not gonna be able to ask her to help me!!  I need $466 by 2:00pm or my license will be suspended.  You just keep plunging that knife into me.  And you don't give a fuck.  One way or another, this will come back to haunt you.  Count on it!"
+      },
+      {
+        "date": "2017-03-15 19:00:07",
+        "text": "You need to return the garlic salt that you stole, thief!"
+      },
+      {
+        "date": "2017-04-01 15:03:34",
+        "text": "I was thinking about buying some steak for dinner.  I have bakers and lettuce. Do you and Annie want some?  I  got bill's pension money. It's enough to turn my cable back on put gas in car and get steak and toilet paper\ud83d\ude16\ud83d\ude16"
+      },
+      {
+        "date": "2017-04-10 23:26:28",
+        "text": "ave alot to learn about selling. I am a multi million dollar produc"
+      },
+      {
+        "date": "2017-05-01 19:34:45",
+        "text": "MAybe in my anger I didn't make myself clear.  I know you.  I know how you work and I know that there is no limit to what you are capable of doing in order to achieve your goal.  I also know that you regard me and my grandmother as easy targets who you are counting on to not turn you in for blatantly taking our belongings, things that had value and meaning for us that aren't quantifiable in monetary terms. And for stealing money, forging checks, and unauthorized use of  her credit card.  I could go on but not necessary.  Here is what I know:"
+      },
+      {
+        "date": "2017-05-01 20:08:11",
+        "text": "I am hard pressed to come up with some example of anything you have done that shows you care about me.  Instead, there are hundreds of examples of things you did directly against me.  I don't owe you any explanation or proof or anything else.  I have given you everything, I've had your back hundreds of times.  I went the distance for you.  In return, you concocted a scheme to steal my money through PayPal, stole and used my credit and debit cards,  forged checks from my bank account,  stole things from me that meant the world to me and can never be replaced, brought that lying, stealing, using, psycho fucking cunt Into my house...and brought her back AGAIN and tried to hide her...several times...including, I believe, recently.  Are you serious???  You dont give a fuck about me.  You should be falling over yourself to make up for the things you've done, and you should have owned up to what you did.  Well, news flash:  I'll be fine on my own.  There is nothing worse than having one of the people you love most in the world lie, cheat and steal from you.  Don't need it."
+      },
+      {
+        "date": "2017-05-05 00:31:24",
+        "text": "$50 a week might have been ok before, but not now.  Would you really just leave me like that?  No phone, food, electric, gas for my car, food for the animals?  All of the money I gave you out of kindness and love...and you are going to pay me back $50/week??  "
+      },
+      {
+        "date": "2017-05-05 01:05:33",
+        "text": "I shouldn't even have to ask you for money!  You both are earning money everyday.  I know I will not make a dime before sometime in June at the earliest.  How am I supposed to live???  You have lived rent free for years.  Never paid for utilities, food or anything!  Now you tell me that all you can give me is $50 a week?  Really???  "
+      },
+      {
+        "date": "2017-05-05 01:25:07",
+        "text": "You want to get pissy with me? Fine  you owe me $1000/month in back rent for every month you have lived there!  I will make sure I get it.  Now, you owe me $1000 for May and you will owe me $1000 for June.  Welcome to reality"
+      },
+      {
+        "date": "2017-05-12 19:15:34",
+        "text": "If you pay, I'll give you some choc covered \ud83c\udf53 they are huge!"
+      }
+    ],
+    "boundaries": [
+      {
+        "date": "2016-08-18 22:48:24",
+        "text": "Well I'm at my house now"
+      },
+      {
+        "date": "2016-08-20 16:59:27",
+        "text": "He was going to come over to my house.  You want to come here?"
+      },
+      {
+        "date": "2016-08-22 18:16:48",
+        "text": "I'm leaving!!! While you are out on the fucking golf course all day, I'm dealing with fucked up shit!! I've had enough!  I have $20 fucking dollars and that's it!  After every fucking mess you have dragged me through, that's the best you can do?  Selfish son of a bitch!  Thanks for none of your help...except dousing my house w iced coffee.  Someday it will all come back to you!!!!!!!!!!"
+      },
+      {
+        "date": "2016-09-15 21:14:06",
+        "text": "Get out of my house.  I'm selling and leaving all of this bullshit behind. You owe me $14,000 to start off.  Better get to work."
+      },
+      {
+        "date": "2016-10-23 10:31:30",
+        "text": "I want my $120 and a son who doesn't steal from me.  Probably won't get either.  You have a great day.  Be thinking about what you did to destroy your relationship with your mother.  I had enough before.  Now I see the rest of it is gone.  You suck"
+      },
+      {
+        "date": "2016-11-13 19:52:41",
+        "text": "I have to go now.  Troy is on his way.  Someone will have to come to my house once Dudcuz gets there."
+      },
+      {
+        "date": "2016-12-18 15:47:07",
+        "text": "When were you last at my house?"
+      },
+      {
+        "date": "2017-01-27 18:30:00",
+        "text": "And from now on, if you want something from my house YOU ASK FIRST!!  Do not come here and assume you can take whatever you want!"
+      },
+      {
+        "date": "2017-02-12 23:10:22",
+        "text": "You do not know how very lucky you are to have me for your mother."
+      },
+      {
+        "date": "2017-02-17 01:31:42",
+        "text": "I'm pressed to the limit with work and my house is disgusting. Every hour has to be used well"
+      },
+      {
+        "date": "2017-02-22 20:12:12",
+        "text": "You get that from your mother"
+      },
+      {
+        "date": "2017-03-10 14:32:06",
+        "text": "The only reason you ever come to my house again is to start paying me back once a week and you're going to pay me back every single goddamn bitch that you are me otherwise I want to talk to you I don't to see you"
+      },
+      {
+        "date": "2017-03-10 14:33:02",
+        "text": "And I'm not paying for you to live in my house. We are five"
+      },
+      {
+        "date": "2017-03-15 20:50:35",
+        "text": "NOW, we will see how cunning you are!  It's over for you, and I have zero sympathy.  You treated your mother and great grandmother like we were pieces o shit on your shoe.  Gram may be old but she is not stupid.  House will be on market immediately and sorry to say that you and I will have no further contact.  You have shown me how you really feel about me and I can't tell you how much it sucks.  I gave you my whole heart, love, devotion, and you just fucked me over."
+      },
+      {
+        "date": "2017-05-01 20:08:11",
+        "text": "I am hard pressed to come up with some example of anything you have done that shows you care about me.  Instead, there are hundreds of examples of things you did directly against me.  I don't owe you any explanation or proof or anything else.  I have given you everything, I've had your back hundreds of times.  I went the distance for you.  In return, you concocted a scheme to steal my money through PayPal, stole and used my credit and debit cards,  forged checks from my bank account,  stole things from me that meant the world to me and can never be replaced, brought that lying, stealing, using, psycho fucking cunt Into my house...and brought her back AGAIN and tried to hide her...several times...including, I believe, recently.  Are you serious???  You dont give a fuck about me.  You should be falling over yourself to make up for the things you've done, and you should have owned up to what you did.  Well, news flash:  I'll be fine on my own.  There is nothing worse than having one of the people you love most in the world lie, cheat and steal from you.  Don't need it."
+      },
+      {
+        "date": "2017-05-05 00:53:19",
+        "text": "There's a fantastic idea.  No, that is not our \"arrangement.\"  I'm your mother.  You are going to just let me suffer?  Really?  You could have taken care of that car months ago.  You got money from Gram how many times to take care of it?  You want to be that way to me???  Go right ahead.  "
+      },
+      {
+        "date": "2017-05-12 18:19:53",
+        "text": "Well the next time you get 15 or $20 or hopefully more will you please give some to your mother I need it badly and I'm getting on and off a lot to you over the years"
+      },
+      {
+        "date": "2017-05-19 21:21:43",
+        "text": "I'm not calling rod now, and I'm not going to upset Vicki any further.  I'll call rod tomorrow.  You need to take care of yourself... car? Tires? Bills? Place to live?  Paying your mother back?"
+      },
+      {
+        "date": "2017-05-21 18:12:13",
+        "text": "I'm a little ticked off I am going over there announcement of him coming here after I got everything all cleaned up and straightened but at least my house is clean so I'll probably stop by grams and when I leave there unless I fall sleep.  I have so much that I absolutely have to do that I could be up for a very long time and fortunately because I'm tired now"
+      },
+      {
+        "date": "2017-05-29 02:26:58",
+        "text": "Really wishing I knew exactly what to do to set my stereo up right now I think there is an after party at my house it's the first time in years I'm going to try it on man"
+      },
+      {
+        "date": "2017-06-23 18:01:10",
+        "text": "I really would rather be in my house than hers"
+      },
+      {
+        "date": "2017-06-28 18:08:21",
+        "text": "Substandard workmanship on my car.  Do you have any idea how many times my life has been falling apart and I had to get my shit together get dressed and go somewhere and smile and pretend like everything was fantastic guess what that's what being adult is like. I'm sorry about all this happening for you but life is very difficult sometimes I guess the ideais to limit how much pain you put on yourself throughout your life"
+      },
+      {
+        "date": "2017-08-10 22:19:12",
+        "text": "No.  I can't leave my house until 11 though"
+      },
+      {
+        "date": "2017-08-13 23:30:00",
+        "text": "I'm sorting at my house then headed for gram's.  I'll let you know when I'm on the way there"
+      },
+      {
+        "date": "2017-08-22 19:43:22",
+        "text": "HES STAYING AT MY HOUSE!!!  Omfg!"
+      },
+      {
+        "date": "2017-09-06 12:35:24",
+        "text": "I just had a call from a gentleman from the Eastern shore of Maryland who is in town and wants to see my house up in the nice house up in Addison I was thinking about me picking you up and having you go with me"
+      },
+      {
+        "date": "2017-09-26 19:55:18",
+        "text": "When you come over would you please stop at Grams and get the carpet cleaner from the guestroom tonight at my house I can't stand the smell anymore"
+      },
+      {
+        "date": "2017-10-03 01:36:25",
+        "text": "You need to pay your mother and your bills.  You won\u2019t have any money left"
+      },
+      {
+        "date": "2018-02-15 02:03:08",
+        "text": "You have crossed the last line.  What child would do what you have done to me?  A fucking ungrateful asshole.  You are EXACTLY LIKE RICK.  So it's time for you to stop raping your mother.  Go fuck over Rick for a change.  See how he likes it.  You disgust me"
+      },
+      {
+        "date": "2018-02-26 13:21:32",
+        "text": "I'm getting slammed!  Holy business!  My house is a wreck but idc"
+      },
+      {
+        "date": "2018-03-17 15:43:40",
+        "text": "I have to run to my house for juice.  Can I get you now?"
+      },
+      {
+        "date": "2018-03-18 23:47:58",
+        "text": "I think Christine is coming on Friday.  Staying overnight either at grams or my house"
+      },
+      {
+        "date": "2018-03-31 17:08:23",
+        "text": "She just said \"where's your mother?\""
+      },
+      {
+        "date": "2018-04-10 08:22:42",
+        "text": "I didn't sleep.  I'm cleaning up my house.  We need boxes too"
+      },
+      {
+        "date": "2018-05-12 22:11:16",
+        "text": "And next time, maybe buy your mother dinner."
+      },
+      {
+        "date": "2018-07-11 21:53:02",
+        "text": "Daniel.  Please call your mother"
+      },
+      {
+        "date": "2018-08-24 00:01:28",
+        "text": "Your mother has been generous"
+      },
+      {
+        "date": "2018-08-26 23:47:29",
+        "text": "You didn\u2019t need to say that.  I\u2019m your mother"
+      },
+      {
+        "date": "2018-08-29 16:01:05",
+        "text": "I\u2019m getting a shower and preparing to maybe do some work at my house or grams.  If you are playing golf, let me know"
+      },
+      {
+        "date": "2018-09-27 19:51:31",
+        "text": "Thank you.  I would be stuck in my house otherwise."
+      },
+      {
+        "date": "2018-10-21 14:13:38",
+        "text": "Been here for two hours. Going for reinforcements of adult refreshments"
+      },
+      {
+        "date": "2018-11-18 23:31:52",
+        "text": "I guess.  Co e to my house at 10 til.  I want to be back by 12:30 and garb needs to go out"
+      },
+      {
+        "date": "2018-11-21 15:59:10",
+        "text": "Maybe along the tree line at my house"
+      },
+      {
+        "date": "2018-11-30 17:43:36",
+        "text": "That dog peed I. My house!! He needs to wear a diaper!"
+      },
+      {
+        "date": "2019-02-04 18:05:48",
+        "text": "OK I\u2019m leaving my house in a second if you get up there before me start turning on some lights please"
+      },
+      {
+        "date": "2019-02-18 21:06:07",
+        "text": "Be there soon. Do you want to come to my house?"
+      },
+      {
+        "date": "2019-04-03 23:39:20",
+        "text": "She drive me nuts calling it a \u201csell\u201d instead of \u201csale\u201d.  But look what she said before I sent that: \nReally? Then you need to come back into reality and the law of ALL states!  It is required to be presented to the buyer, do this  is what I am doing, and \"you\" as our agent who is to represent us in our  best interest, is required to follow through accordingly. Therefore, an addendum, maybe add d to any of them,  MUST include the same verbiage. Patience - really?!? Try living back in FL and tell me about patience. Welcome to visit me/my house anytime to see how R E Sales/Contracts are delete with here!"
+      },
+      {
+        "date": "2019-04-15 16:52:33",
+        "text": "Jim sent this:  Can you guys do a drive bye at my house I\u2019ll have it ready for you now or I\u2019ll have to get it around 7:45 8:00"
+      },
+      {
+        "date": "2019-04-17 12:51:41",
+        "text": "Simon is at my house working FYI "
+      },
+      {
+        "date": "2019-07-03 15:10:56",
+        "text": "I want my house back the way it was when you moved there and said it would be exactly the same when you left."
+      }
+    ]
+  }
+}
