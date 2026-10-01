@@ -4,6 +4,7 @@
 ("save it all to wiki sources if it makes sense").
 **Batch:** `raw/suz/20261001-suz-computer-dump/`
 **Archived:** 2026-10-01 by Sammy (subagent eval).
+**Removal 2026-10-01:** `taste_analysis.pdf` deleted from this batch at Dan's order ("not mine"). 14 files remain.
 
 ## Authorship (applies to the whole batch)
 
@@ -30,12 +31,10 @@ pipelines; they are analytic products, not primary utterances.
 | 11 | dan_frank_personality_dossier.md (5.4KB) | Personality dossier on Dan from 16,288 sent iMessages (2014–2026), "Brutal Honesty" protocol. | Suz's AI | **KEEP** — new; analytic product, not voice data |
 | 12 | personality_dossier.md (9.1KB) | Personality dossier on Suz from 153,706 sent iMessages (Nov 2013–Mar 2026). | Suz's AI | **KEEP** — new |
 | 13 | operating_manual.md (31KB) | "THE DANIEL GILLINGHAM FRANK OPERATING MANUAL v9.0 — Deep Empirical Stylometric Extraction & NLP Integration". Claims stylometric extraction on Dan's data. **Archive as third-party analysis only — never as voice/training data.** | Suz's AI | **KEEP** — new, with authorship caveat |
-| 14 | taste_analysis.pdf (1.4MB, ~30pp) | "Music Taste Analysis" — long-form essay on Dan's music taste (opens with the first-girlfriend's-friends anecdote). PDF document. | Suz's AI | **KEEP** — new. Note: two Gemini-Apps JSON logs of a "taste_analysis" generation already exist in raw/takeout (takeout-20260103T040931Z-3-001/.../Gemini Apps/taste_analysis-2f53c433945ddf16, taste_analysis-abace4dc53d0b119); this PDF is a distinct finished-document artifact, not a byte-duplicate |
+| 14 | taste_analysis.pdf | "Music Taste Analysis" PDF (~30pp). | — | **REMOVED 2026-10-01** — Dan: "not mine." Struck from the batch at his order; file deleted, not archived. |
 | 15 | danf.rtf (117KB) | Political/cultural profile of Dan (Israel/Palestine framing, moral framing, cultural positioning, epistemological approach). RTF from macOS TextEdit. | Suz's AI (macOS) | **KEEP** — new |
 
-**Excluded files:** none. All 15 files carried keepable material; the only
-exclusions are 72,581 CSV rows (business filter, logged in filter-log.md) and
-65 dealer-name redactions (see below).
+**Excluded files:** taste_analysis.pdf — removed 2026-10-01 at Dan's order ("not mine"); struck from the batch, not archived. All other 14 files carried keepable material; the only other exclusions are 72,581 CSV rows (business filter, logged in filter-log.md) and 65 dealer-name redactions (see below).
 
 ## Dealer-name exclusion
 
@@ -49,7 +48,6 @@ anywhere in this batch. Private note of the finding kept outside the wiki.
 ## Notes for future editors
 
 - The filtered CSV's `filter-log.json` carries the machine-readable exclusion record.
-- `taste_analysis.pdf` relates to the two Gemini-Apps JSON logs already in
-  raw/takeout; a future pass may want to cross-link them.
+- taste_analysis.pdf was struck from this batch 2026-10-01 at Dan's order; the two Gemini-Apps JSON logs in raw/takeout are unaffected.
 - The Carney reports (#5, #6) are the most fact-dense new third-party material;
   treat all claims as hearsay (Suz's AI analyzing Suz's own message selection).
