@@ -24,6 +24,6 @@ Key facts:
 - Ran one recurring series: POLL WATCH (#1 on 2023-05-26, #2 on 2023-06-03).
 - Pulled in full on 2026-10-01 and archived at `raw/dan/20261001-substack-creepy/` — the same articles the danf.rtf voice-modeling kit was built from.
 
-Why incidental: the publication is a stub; the posts are the substance, and they're covered by the entries on individual theses. Promote to major if he revives it or if the critical reading of the full run gets wikified.
+Why incidental: the publication is a stub; the posts are the substance, and they're covered by the entries on individual theses. The critical reading of the full run is now wikified as a major article (see below) — this entry stays incidental as its index.
 
-Related major articles: [the-scoreboard](wiki/mind/synthesis/the-scoreboard.md) · [POLL WATCH series](wiki/self/substack/poll-watch-series.md) · [Hell World frame](wiki/mind/concepts/hell-world-frame.md)
+Related major articles: [critical reading of the full run](wiki/self/substack/committee-to-re-elect-the-president-critical-reading.md) · [the-scoreboard](wiki/mind/synthesis/the-scoreboard.md) · [POLL WATCH series](wiki/self/substack/poll-watch-series.md) · [Hell World frame](wiki/mind/concepts/hell-world-frame.md)
