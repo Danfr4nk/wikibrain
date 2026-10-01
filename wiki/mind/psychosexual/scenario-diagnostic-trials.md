@@ -143,3 +143,15 @@ Stated preference, n=1 — this predicts ratings, not behavior. The trial dates 
 ## What would close it
 
 Single-knob diagnostic rounds for P, A, and E — the phase 2 the set never got. First-ever N-axis trials in the diagnostic. And finishing the v3 ratings: 127 of 156 modifier items are still unrated, which would firm up the thin cells at the A and E extremes.
+
+## Addendum 2026-10-01: the A axis is flat, and P was confounded
+
+Midway through a live administration of the v2 diagnostic (one trial answered — s09 over s26), Dan volunteered his full preference shape in his own words, and it resolved two open questions outright.
+
+First, the A contradiction is closed — not by new data but by a structural fact: "I don't care who arranges it or really who directs." The authorship axis is flat for him. The diagnostic's A2≻A1>A3 and the ratings' spontaneous>she>you were never disagreeing about anything real; both instruments were reading noise on a dead axis. The correct A finding is null, and the "unresolved" verdict in the cross-check above is superseded by this disclosure.
+
+Second, the P finding is reframed. The instrument bundles the male participant's orientation with his pursuit level: P1 is gay + experimenting + not pursuing, P2 is bi + mild interest, P3 is pursuing with orientation unspecified. Dan's stated orientation ranking — straight ≻ bi ≻ gay — was never separated from pursuit in any scenario, which means the old P2 wins (bi + mild interest beating gay + experimenting) may have been orientation votes, not pursuit votes. Worse, the instrument never offered a straight male participant at all — his most-preferred category is entirely off the instrument's map. The inverted-U on pursuit survives as a hypothesis, but it needs an instrument that crosses orientation × pursuit independently before it counts as evidence.
+
+The rest of the disclosure, logged for the record: MMF always beats male-male but both appeal (S1≻S3 with S3 nonzero — consistent with the 17/17); prefers his own place, not a dealbreaker (turf, weak); not into exhibitionism (privacy); anal the only hard limit, persuadable (E3 is bounded, not open); oral fine, hands ideal but either fine (E1≈E2 with a slight touch lean — consistent with the flat E1/E2 read).
+
+What this changes about the instrument: A should be retired as a diagnostic axis for him, or kept only as a control. P needs a redesign that unbundles orientation from pursuit. N remains the only axis never measured in the diagnostic.
