@@ -155,3 +155,13 @@ Second, the P finding is reframed. The instrument bundles the male participant's
 The rest of the disclosure, logged for the record: MMF always beats male-male but both appeal (S1≻S3 with S3 nonzero — consistent with the 17/17); prefers his own place, not a dealbreaker (turf, weak); not into exhibitionism (privacy); anal the only hard limit, persuadable (E3 is bounded, not open); oral fine, hands ideal but either fine (E1≈E2 with a slight touch lean — consistent with the flat E1/E2 read).
 
 What this changes about the instrument: A should be retired as a diagnostic axis for him, or kept only as a control. P needs a redesign that unbundles orientation from pursuit. N remains the only axis never measured in the diagnostic.
+
+## Addendum 2026-10-01 (3): live administration — 12 trials, mechanisms volunteered
+
+At Dan's request Sammy administered the v2 instrument live in chat ("I want you to administer it — thats way hotter"). Twelve trials: eleven bank pairs plus one admin-constructed N pair (the bank holds zero clean N pairs, so the N trial was built by holding S1/P2/E2 at his sweet spot with a bisexual participant and varying only the taboo structure).
+
+Results:
+- **P: P2 won every clean contest (3/3).** The trial-7 P3 win is void — Dan corrected the read mid-session: "No it was about the friend thing." s06's participant is labeled a friend, and the friend label deflates ("buddy zone"); it was a friend-penalty, not pursuit winning. Mechanism volunteered for P3's losses: pursuing "equates to like romantic kissing," which is the turn-off. The inverted-U now has a mechanism — pursuit reads as romance, and romantic male pursuit is unhot for him. New variable scoped the same session: stranger ≻ friend for male-male hookups.
+- **E: E2≻E1≻E3** across the three clean contests. The bounded 2019 shape (contact includes oral) beats touch-only and open-ended alike; E3's loss is consistent with the anal hard limit. His gloss on bounded-oral over open-ended: "Well I mean why take it off the table?" — the guarantee beats the gamble.
+- **A: one A1 pick against his stated flat** — treated as noise. The axis stays retired.
+- **N: N2 over N1 (n=1, admin-constructed).** He prefers crossing the line himself with a steady, experienced guy over mutual first-time transgression. First N datum ever recorded: the charge is his own, not shared. Needs replication with bank-grade pairs.
