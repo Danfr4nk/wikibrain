@@ -1,20 +1,25 @@
 #!/usr/bin/env python3
-"""New-article minimums gate. Exits 1 if any NEW wiki article is sub-floor.
+"""New-article minimums gate. Exits 1 if any NEW wiki article violates its tier floor.
 
 Changed-file-scoped: only files ADDED under wiki/ vs <base> (default
 origin/main) are checked — working tree vs base, so uncommitted batch work
-is caught. A new article (page_type entity/synthesis/concept/event/period/
-profile/journey, status not stub/archived/closed) must carry >= 3000 words
-of body text: a 15-minute read at 200wpm. Frontmatter is not body text.
+is caught. Two tiers (frontmatter `tier:`, kind-based, length is the tripwire):
 
-Deliberately new-files-only. The pre-existing sub-floor corpus is the
-measured expansion backlog (see the article-expansion goal), not a gate
-failure — the gate enforces the floor for what is being written now, the
-backlog is chewed through by expansion work. Length must come from totality
-analysis, evidence, and complete logs; padding fails review.
+- major (default): page_type entity/synthesis/concept/event/period/profile/
+  journey, status not stub/archived/closed → >= 3000 words of body text
+  (a 15-minute read at 200wpm). Length comes from totality analysis,
+  evidence, and complete logs; padding fails review.
+- incidental: <= 1000 words, complete at its size (never a draft), and the
+  body must open with the `> **Incidental entry**` badge block. The
+  1000-3000 band is major-track: held to the 3000-word floor. No third tier.
+
+Deliberately new-files-only. The pre-existing sub-floor corpus is being
+reclassified (kind-incidental → badged, major-track → expansion queue),
+not gate-failed — the gate enforces the tier rules for what is being
+written now.
 
 Usage:  bin/wiki-minimums [--base <git-ref>] [--repo <path>]
-Standard library only. Exit 0 on pass, 1 on any sub-floor new article.
+Standard library only. Exit 0 on pass, 1 on any tier violation.
 """
 
 import argparse
@@ -25,9 +30,12 @@ import sys
 
 DEFAULT_BASE = "origin/main"
 MIN_WORDS = 3000
+INCIDENTAL_MAX_WORDS = 1000
 SUBSTANTIVE = {"entity", "synthesis", "concept", "event", "period",
                "profile", "journey"}
 EXCLUDED_STATUS = {"stub", "archived", "closed"}
+
+INCIDENTAL_BADGE_RE = re.compile(r"^>\s*\*\*Incidental entry\*\*", re.M)
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -78,6 +86,11 @@ def body_words(text):
     return len(body.split())
 
 
+def body_text(text):
+    m = re.match(r"^---\s*\n.*?\n---\s*(\n|$)", text, re.S)
+    return text[m.end():] if m else text
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--base", default=DEFAULT_BASE,
@@ -98,20 +111,29 @@ def main() -> int:
         if ptype not in SUBSTANTIVE or status in EXCLUDED_STATUS:
             skipped += 1
             continue
+        tier = frontmatter_field(text, "tier") or "major"
         words = body_words(text)
         checked += 1
-        if words < MIN_WORDS:
+        if tier == "incidental":
+            if words > INCIDENTAL_MAX_WORDS:
+                failures.append(
+                    (rel, "%d words exceeds incidental cap %d"
+                     % (words, INCIDENTAL_MAX_WORDS)))
+            elif not INCIDENTAL_BADGE_RE.search(body_text(text)):
+                failures.append((rel, "incidental entry missing "
+                                      "`> **Incidental entry**` badge block"))
+        elif words < MIN_WORDS:
             failures.append((rel, "%d words (floor %d)" % (words, MIN_WORDS)))
 
     if failures:
-        print("wiki-minimums: FAIL — %d new article(s) below the %d-word floor:"
-              % (len(failures), MIN_WORDS))
+        print("wiki-minimums: FAIL — %d new article(s) below tier bar:"
+              % len(failures))
         for rel, why in failures:
             print("  %s  %s" % (rel, why))
         return 1
-    print("wiki-minimums: pass — %d new substantive article(s) checked, "
-          "all >= %d words (%d non-substantive/excluded skipped)."
-          % (checked, MIN_WORDS, skipped))
+    print("wiki-minimums: pass — %d new article(s) checked against tier bars "
+          "(%d non-substantive/excluded skipped)."
+          % (checked, skipped))
     return 0
 
 
