@@ -2,10 +2,11 @@
 domain: mind
 page_type: concept
 title: "The Missing Delete Operation"
+tier: major
 aliases: ["no-delete operation", "write-only rule system", "suspend not delete", "the no-delete rule"]
 status: active
 date_created: 2026-09-13
-date_modified: 2026-09-27
+date_modified: 2026-10-03
 synthesizes:
   - wiki/mind/concepts/explicit-verbal-commitment
   - wiki/mind/concepts/node-locking
@@ -67,10 +68,13 @@ connections:
     claim: "The dormancy-not-exit rule (dat:1384) is the attachment instance: declared endings produce pauses, never terminations — Menore's channel reopened after 2,044 days of silence, answered in one minute."
   - { target: "[[wiki/mind/synthesis/dormancy-not-exit]]", type: references, claim: "Supplies this page's strongest people-side counter-instance: Franki Faris, a tie below the tenure floor that was genuinely deleted, leaving only the name as vocabulary." }
   - { target: "[[wiki/mind/synthesis/severance-declarations]]", type: references, claim: "Supplies the dated severance sequence and the one clean exit in the record — the December 2015 Alexis eviction, an operation rather than a declaration." }
+changelog:
+  - 2026-10-03: Restructured to canonical template v1
 ---
-
 # The Missing Delete Operation
-
+Across Dan's messages, his AI memory protocols, his work on this wiki, and the bonds documented in the corpus, the same pattern of handling things recurs: material is written down, kept, and carried forward. Rules are stated in full, messages are saved in large exports, findings are appended to files, and relationships that go quiet can resume after long silences — Menore's channel, for example, reopened after 2,044 days and was answered inside a minute, and the Ally tie survived silences of thirty-eight and fourteen months (dat:1384).
+The clearest place to see the pattern at work is the Annie corpus. On 1 December 2015 Dan sent the founding message, *"Annie Ulmer from now on its just you and me"*, in the hours after Alexis was evicted, and that stated rule organized the decade that followed ([[wiki/mind/concepts/explicit-verbal-commitment]]). In the years after, severance was declared many times on that channel, and the channel kept running: the recount in this page's record counts 129 severance episodes between 2015 and 2026, with contact resuming after each measurable episode (dat:1292). The same archive that holds those messages also holds the tools built around them — node-locking instructions that say to keep all information in, and a wiki `raw/` tree where corrections are appended rather than rewritten.
+This page follows that pattern across five settings — commitments, memory protocols, strategy, cognition, and the archive itself — and then tests it against the full held message record, searching Dan's own sent messages for the vocabulary of deletion. The record is large: 198,354 rows across three held CSVs, 102,035 of them sent by Dan, plus the repository's own files and commit history.
 This page began, on 13 September 2026, as a claim about the shape of a mind
 and the archive built around it: across Dan's commitments, his AI memory
 protocols, his strategic posture and this wiki's own architecture, **things
@@ -90,7 +94,6 @@ deleted is a person or a bond, the verb is always in someone else's hands:
 *"you've erased me"*, *"10 years of my life got erased"*, *"Block me. Delete
 me."* He has the operation. He does not point it at people, and he does not
 point it at anything he has said.
-
 ## The claim, as first stated
 
 The original page assembled five instances across four layers
@@ -293,65 +296,8 @@ unsent inside the platform's window would not appear in this export at all,
 and the record cannot say whether Dan uses it. One counterparty *"unsent a
 message"* row exists in 2026; none from Dan.
 
-## The people-side counter-instances
-
-The wiki already holds three ties that did end, and the thesis has to be
-stated so that it accounts for them.
-
-- **Franki Faris, 2013.** [[wiki/mind/synthesis/dormancy-not-exit]] calls
-  her its control: a primary-slot occupancy that collapsed *"immediately"*
-  and left no message corpus and no later trace — *"Franki is deletion."* What
-  survived was the name, as vocabulary (*"a Franki Faris 2.0 situation"*,
-  December 2015; later a pet name for Annie). Below a tenure floor, ties are
-  deleted; the label is kept.
-- **Alexis, December 2015.** The one severance in the record that completed
-  cleanly and fast was an eviction — *"the hard part is done. I got Alexis
-  out"* — an operation, not a declaration
-  ([[wiki/mind/synthesis/severance-declarations]], *The bond-switch*). The
-  severance page's formula: *"Operations end things; declarations continue
-  them."* Even then the tie was not erased: the record shows her back in the
-  household's orbit in November 2018 and a two-sided correspondence from 2020
-  to a wrong-number ending on 19 February 2025
-  ([`ent:alexis-armel`](../../kb/entities/alexis-armel.md)).
-- **James Dee, 2025.** Fifty-six days, ended by the most abrupt rupture in
-  the corpus, then resumed in person without a role — *"residual contact"*
-  ([[wiki/mind/synthesis/dormancy-not-exit]], re-check of 2026-08-18).
-
-So the people-side rule is not *nothing ends*. It is: **nothing Dan has
-committed to in words is ended by Dan in words.** Ties end by operation
-(an eviction), by the other party (Kristin's block), by attrition (a wrong
-number nobody follows up), or by never having been committed to long
-enough to be a rule (Franki). None of those is a revocation.
-
-## What the thesis now says
-
-Stated at the resolution the record supports:
-
-1. **Dan has a delete operation and uses it freely on devices, files, apps,
-   drafts and accounts.** The machine side of [[wiki/mind/concepts/node-locking]]
-   is not an exception; it is the whole of where deletion happens.
-2. **He has no revocation operation for stated rules or bonds.** No message in
-   the held record revokes, in words, a commitment he made in words. The
-   129-episode series, the 10 September 2026 continuation and the social-media
-   goodbye of November 2025 are all performed as deletions and behave as
-   pauses.
-3. **Retraction, where it happens, is implemented as a further write** — an
-   edit laid over a message, a pattern in `RETRACTED.md`, a superseded block
-   kept in `RECOVERY.md`, a shelf that demotes without deleting.
-4. **Withholding from a copy is the stand-in for deletion at every boundary**
-   — the Eli node at the model-export boundary, `MIGRATION.md` at the
-   repository boundary, `corpus/` and `shelf/` at the public-repository
-   boundary. The origin always keeps the thing.
-
-The load-bearing test is restated accordingly: the thesis breaks on **a
-dated message in which Dan revokes a stated commitment in words and the
-revocation holds** — no subsequent contact over the thing revoked, or no
-subsequent reliance on the rule. As of this revision, searched across all
-three held CSVs, there is none.
-
 ## Complete log
-
-### A. The severance sequence, 2014–2026
+#### A. The severance sequence, 2014–2026
 
 The dated entries the wiki holds, from
 [[wiki/mind/synthesis/severance-declarations]] (its *Severance sequence*
@@ -377,7 +323,7 @@ printed here; see Gaps.
 | 2026-09-08 22:16 UTC | *"Im blocking you … Goodbye"* | 22:35 UTC | Declaration |
 | 2026-09-10 | Block declared at 00:22, 03:57, 07:50, 07:52 UTC | 17:19 UTC | Declarations |
 
-### B. Every sent message using deletion vocabulary (50; UTC; `raw/imessage/`)
+#### B. Every sent message using deletion vocabulary (50; UTC; `raw/imessage/`)
 
 Classes: **S** Dan deletes / reports deleting · **R** asks, offers or invites
 another to delete · **A** accuses or is accused · **N** refuses or denies ·
@@ -445,7 +391,7 @@ Kristin is `+1330…8747`; Tom is his Gmail handle; Ally her Gmail handle; row
 11's counterparty is identified on [[wiki/people/jim-blanchard]] as a
 childhood friend.
 
-### C. Dan's message edits (48; `raw/imessage/`)
+#### C. Dan's message edits (48; `raw/imessage/`)
 
 | Month | Annie | Ally | Total |
 | :--- | ---: | ---: | ---: |
@@ -461,7 +407,7 @@ The near-deletions among them: 2025-11-06 08:41 and 2026-08-09 17:28 (to
 (*"Removed\*"*, twice within seventeen seconds). Counterparty edits in the
 same record: 2024 2 · 2025 25 · 2026 9.
 
-### D. Deletions in the repository's visible history
+#### D. Deletions in the repository's visible history
 
 | Commit | Date | Deleted |
 | :--- | :--- | :--- |
@@ -471,7 +417,7 @@ Against 24,917 additions and 166 modifications in the same 83 visible
 commits. Written-but-unexecuted self-delete instructions: `RECOVERY.md`,
 `MIGRATION.md`.
 
-### E. This page
+#### E. This page
 
 | Date | Change |
 | :--- | :--- |
@@ -479,7 +425,82 @@ commits. Written-but-unexecuted self-delete instructions: `RECOVERY.md`,
 | 2026-09-13 | Reciprocal edges added on [[wiki/mind/profile/intp]], [[wiki/mind/concepts/forensic-method]], [[wiki/mind/concepts/institutional-out]], [[wiki/mind/concepts/node-locking]], [[wiki/mind/synthesis/totality-themes]] |
 | 2026-09-27 | Falsifier run against 198,354 message rows; 50 deletion-vocabulary sends classified; 48 edits counted; repository evidence added; thesis narrowed to *no revocation of stated commitments* |
 
-## Status and limits [DERIVED MODEL]
+### Gaps
+
+- **The music domain.** Whether Dan deletes tracks, projects or crates is
+  still unexamined. The alias history renames and never deletes
+  ([[wiki/mind/synthesis/totality-themes]], *migration grammar*), which is
+  suggestive and not a measurement.
+- **The per-episode 129 list** is not held; the severance log above prints
+  every dated entry the wiki carries, not every episode.
+- **Undo Send.** Whether Dan uses it cannot be measured from this export.
+- **Origin.** Developmental (the November 2005 rupture as the first rule that
+  could not be unmade) or temperamental — the record does not reach it.
+- **The Facebook, Instagram and Twitter exports** have not been searched for
+  account-level deletions (unfriend, unfollow, post deletion). The Twitter
+  archive's silence from November 2025 to February 2026 is the only
+  platform-side trace used here.
+- **Rows 9, 32 and 50** — deletions whose object the record does not name.
+
+## Conflicts in the record
+The following items collect the contradiction, retraction, supersession, and verdict material for this page, each dated from the record it cites. Original wording is preserved under each heading.
+### The people-side counter-instances
+
+The wiki already holds three ties that did end, and the thesis has to be
+stated so that it accounts for them.
+
+- **Franki Faris, 2013.** [[wiki/mind/synthesis/dormancy-not-exit]] calls
+  her its control: a primary-slot occupancy that collapsed *"immediately"*
+  and left no message corpus and no later trace — *"Franki is deletion."* What
+  survived was the name, as vocabulary (*"a Franki Faris 2.0 situation"*,
+  December 2015; later a pet name for Annie). Below a tenure floor, ties are
+  deleted; the label is kept.
+- **Alexis, December 2015.** The one severance in the record that completed
+  cleanly and fast was an eviction — *"the hard part is done. I got Alexis
+  out"* — an operation, not a declaration
+  ([[wiki/mind/synthesis/severance-declarations]], *The bond-switch*). The
+  severance page's formula: *"Operations end things; declarations continue
+  them."* Even then the tie was not erased: the record shows her back in the
+  household's orbit in November 2018 and a two-sided correspondence from 2020
+  to a wrong-number ending on 19 February 2025
+  ([`ent:alexis-armel`](../../kb/entities/alexis-armel.md)).
+- **James Dee, 2025.** Fifty-six days, ended by the most abrupt rupture in
+  the corpus, then resumed in person without a role — *"residual contact"*
+  ([[wiki/mind/synthesis/dormancy-not-exit]], re-check of 2026-08-18).
+
+So the people-side rule is not *nothing ends*. It is: **nothing Dan has
+committed to in words is ended by Dan in words.** Ties end by operation
+(an eviction), by the other party (Kristin's block), by attrition (a wrong
+number nobody follows up), or by never having been committed to long
+enough to be a rule (Franki). None of those is a revocation.
+
+### What the thesis now says
+
+Stated at the resolution the record supports:
+
+1. **Dan has a delete operation and uses it freely on devices, files, apps,
+   drafts and accounts.** The machine side of [[wiki/mind/concepts/node-locking]]
+   is not an exception; it is the whole of where deletion happens.
+2. **He has no revocation operation for stated rules or bonds.** No message in
+   the held record revokes, in words, a commitment he made in words. The
+   129-episode series, the 10 September 2026 continuation and the social-media
+   goodbye of November 2025 are all performed as deletions and behave as
+   pauses.
+3. **Retraction, where it happens, is implemented as a further write** — an
+   edit laid over a message, a pattern in `RETRACTED.md`, a superseded block
+   kept in `RECOVERY.md`, a shelf that demotes without deleting.
+4. **Withholding from a copy is the stand-in for deletion at every boundary**
+   — the Eli node at the model-export boundary, `MIGRATION.md` at the
+   repository boundary, `corpus/` and `shelf/` at the public-repository
+   boundary. The origin always keeps the thing.
+
+The load-bearing test is restated accordingly: the thesis breaks on **a
+dated message in which Dan revokes a stated commitment in words and the
+revocation holds** — no subsequent contact over the thing revoked, or no
+subsequent reliance on the rule. As of this revision, searched across all
+three held CSVs, there is none.
+
+### Status and limits [DERIVED MODEL]
 
 - **Still a model.** The five instances are independently documented; their
   unity is the wiki's inference. The strongest rival reading remains: a
@@ -507,25 +528,7 @@ commits. Written-but-unexecuted self-delete instructions: `RECOVERY.md`,
 - **Autism is self-identified**; no clinical record exists. The measurement
   does not depend on the label.
 
-## Gaps
-
-- **The music domain.** Whether Dan deletes tracks, projects or crates is
-  still unexamined. The alias history renames and never deletes
-  ([[wiki/mind/synthesis/totality-themes]], *migration grammar*), which is
-  suggestive and not a measurement.
-- **The per-episode 129 list** is not held; the severance log above prints
-  every dated entry the wiki carries, not every episode.
-- **Undo Send.** Whether Dan uses it cannot be measured from this export.
-- **Origin.** Developmental (the November 2005 rupture as the first rule that
-  could not be unmade) or temperamental — the record does not reach it.
-- **The Facebook, Instagram and Twitter exports** have not been searched for
-  account-level deletions (unfriend, unfollow, post deletion). The Twitter
-  archive's silence from November 2025 to February 2026 is the only
-  platform-side trace used here.
-- **Rows 9, 32 and 50** — deletions whose object the record does not name.
-
-## Links
-
+## See also
 - [[wiki/mind/concepts/explicit-verbal-commitment]] — the flagship instance.
 - [[wiki/mind/concepts/node-locking]] — deletion for machines only.
 - [[wiki/mind/concepts/institutional-out]] — the loophole installed before the ink dries.
@@ -537,3 +540,18 @@ commits. Written-but-unexecuted self-delete instructions: `RECOVERY.md`,
 - [[wiki/mind/synthesis/august-26-block-retraction]] — the non-event.
 - [[wiki/mind/profile/intp]] — Si-tertiary and Fe-inferior.
 - [[wiki/mind/index]] — the mind index.
+
+## References
+- kb/data/0081-explicit-commitment-architecture.md
+- kb/data/0090-block-retraction-2026-09-11.md
+- kb/data/1292-block-unblock-loop-severance-recount-129-128.md
+- kb/data/1384-dormancy-not-exit-rule.md
+- raw/imessage/messages-part1-2011-2019.csv
+- raw/imessage/messages-part2-2019-2026.csv
+- raw/imessage/messages-master.csv
+- raw/twitter/archive.jsonl
+- shelf/README.md
+- RETRACTED.md
+- RECOVERY.md
+- MIGRATION.md
+- CORPUS_POLICY.md
