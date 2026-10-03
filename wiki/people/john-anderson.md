@@ -1,37 +1,48 @@
 ---
 domain: people
 page_type: entity
+title: "John Anderson"
+tier: incidental
 status: closed
+knowledge: cited
 date_created: 2026-06-23
-date_modified: 2026-07-14
+date_modified: 2026-10-03
 date_range_start: 2019-05-06
 date_range_end: 2019-08-01
-sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
-related: ["wiki/timeline/periods/2018-deep-cycle", "wiki/self/message-corpora/master-message-dump"]
-tags: [addiction-recovery, uniontown-era]
-knowledge: derived
 infobox:
   name: "John Anderson"
+  status: Closed — 2019 window only
+  type: Dealer contact (per the unheld page source)
+  known_for: "A 2019 dealer contact known only through a single unheld message export"
   relationship_to_dan: unknown
+  handles: ["+17245696861"]
   first_contact: 2019-05-06
-  known_for: "A 2019 dealer contact (+17245696861, 26 messages, May–August), introducing himself by full name after getting a new phon"
+sources:
+  - kb/data/0676-john-anderson-thread-unheld.md
+connections:
+  - page: wiki/timeline/periods/2018-deep-cycle
+    type: part-of
+    claim: "The page files Anderson's May–August 2019 window inside the 2018 deep-cycle period."
+tags: [addiction-recovery, uniontown-era]
+importance: 2
+changelog:
+  - "2026-10-03: Restructured to canonical template v1; expanded from corpus"
 ---
 
 # John Anderson
 
-A 2019 dealer contact (`+17245696861`, 26 messages, May–August), introducing himself by full name after getting a new phone number and reappearing periodically to arrange small buys ("i got a b on me"). The thread has one piece of unrelated personal texture: John recovers a hoverboard-type "board" of Dan's that had been stored in a friend's ("Shelby's") trunk, noting the battery and motor could have been damaged by moisture if left there longer, though the charger and controller are missing. The thread ends with a final new-number notice on August 1, 2019.
+> **Incidental entry** — A 2019 contact whose entire thread rests on one unheld export; the page marks that basis plainly and is complete at this size.
 
-## Corpus Dimensions
+John Anderson is a 2019 dealer contact known to the wiki only through the old page, whose sole source — a message-database export — is not held in this repo. Per that page: 26 messages, May–August 2019 (+17245696861), introducing himself by full name after getting a new phone number and reappearing periodically to arrange small buys ("i got a b on me"). The thread's one piece of unrelated personal texture is John recovering a hoverboard-type "board" of Dan's that had been stored in a friend's ("Shelby's") trunk, noting the battery and motor could have been damaged by moisture if left there longer, though the charger and controller were missing. The thread ends with a final new-number notice on August 1, 2019.
 
-| Metric | Value |
-|--------|-------|
-| Messages | 26 |
-| Date range | 2019-05-06 to 2019-08-01 |
-| Direction | Unreliable in this export (marked "Received" throughout) — read as one-way (John to Dan) |
-| Handle | +17245696861 |
+## What the held corpus shows
 
-## Related
+None of the thread is in the held corpus: searches on its distinctive content ("i got a b on me," the Shelby/trunk board story) return zero hits (kb/data/0676). The only held mention of the name is a 2019-10-21 message from another contact asking Dan to "hit up ur boy John Anderson for me" via Facebook — consistent with Anderson being a known contact in Dan's circle, and verifying nothing about the dealer thread itself. The page's account therefore stands as unheld-sourced testimony, neither confirmed nor contradicted by the record that survives.
 
-[[wiki/timeline/periods/2018-deep-cycle]] · [[wiki/self/message-corpora/master-message-dump]]
+## See also
 
+- [[wiki/timeline/periods/2018-deep-cycle|2018 Deep Cycle]]
 
+## References
+
+- kb/data/0676-john-anderson-thread-unheld.md
