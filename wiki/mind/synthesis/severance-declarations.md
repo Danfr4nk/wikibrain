@@ -2,11 +2,12 @@
 domain: mind
 page_type: synthesis
 title: "The Severance Declaration as Performance"
+tier: major
 aliases: ["the declaration is the performance", "129 declarations", "severance as speech act", "the ritual of leaving"]
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-03
 sources:
   - kb/data/0081-explicit-commitment-architecture.md
   - kb/data/1292-block-unblock-loop-severance-recount-129-128.md
@@ -64,10 +65,13 @@ connections:
   - { target: "[[wiki/mind/synthesis/witness-channel-declarations]]", type: references, claim: "The sibling page owns the audience-requirement mechanism behind this entry's witness-channel finding (three attested Ally-thread block-claims, 2026-08-28→09-07)." }
   - { target: "[[wiki/mind/synthesis/august-26-block-retraction]]", type: references, claim: "Names the August 26 non-event this entry's purest case — the 130th declaration with zero seconds of non-contact." }
   - { target: "[[wiki/mind/synthesis/block-unblock-loop]]", type: extends, claim: "Builds the speech-act object on the loop's 129-episode statistics and corrected formula — 'the exit is executed; the deletion never is.'" }
+changelog:
+  - 2026-10-03: Restructured to canonical template v1
 ---
-
 # The Severance Declaration as Performance
-
+On 1 December 2015, in the hours after Alexis Armel was evicted, Dan sent Annie Ulmer the message that opened the bond as this record knows it: *"Annie Ulmer from now on its just you and me"* — *"Because she's gone"* — *"We made it lol"* (dat:annie-new-life-exchange-2015-12-01). Annie answered, *"This is wonderful you give me the best feeling,"* and the household was theirs that afternoon. The founding message is issued in her full name, as a stated rule over the bond, and it is the positive pole of everything that follows on the channel.
+Over the eleven years after that message, Dan declared the bond severed repeatedly. The recount derived from the merged Annie corpus (95,067 rows, 2015-11-28 to 2026-05-28) counts 258 declaration-language messages collapsing to 129 episodes on a 24-hour rule (dat:1292). The vocabulary is consistent across the decade: farewells (*"Goodbye"*, *"Goodbye forever"*), channel operations in the present continuous (*"I'm blocking you"*, *"lose my number"*, *"never contact me again"*), and verdicts (*"I'm done"*, *"we're done"*, *"it's over"*), usually arriving in outbound bursts late at night, mid-fight. An independent check on the terminal phase — the filed August–September 2026 export, 5,905 rows from 11 August to 7 September 2026 — returns 44 more declaration messages in that window alone.
+Annie's side of the channel looks different. In 41,073 of her messages searched for the same format, the count of severance signals is zero (dat:0081). Her closest approach in eleven years is a single word on 1 June 2026: six seconds after Dan's *"Blocking you"* (00:09:31), she replied *"Understood"* (00:10:06), and his *"Goodbye forever… sic semper lupanis"* followed at 00:27:49. That June exchange is the one instance in the series where a toggle followed the words, holding fifty-two days until 23 July 2026. This page follows the declaration through the record in order: the founding rule, the anatomy of the utterances, the witness channel on the Ally thread, the June and August 2026 sequences, and the catalog of the 44 terminal-phase instances.
 Across eleven years of the [[wiki/people/annie-ulmer|Annie]] record, Dan declared the bond severed **129 times**.
 Of the 129 episodes, 128 were followed by a further corpus message, and **all 128
 resumed** — the 129th is the file's last row, censored by the export boundary rather
@@ -101,7 +105,6 @@ grade it. It is not an argument that the declarations are manipulative; the trad
 section argues they are bids, and bids are not threats. It is a description of a speech
 act's career across a decade: what it looks like, how fast it decays, who it needs in the
 room, and what it does instead of what it says.
-
 ## The numbers, stated plainly
 
 The standing measurements, all [DERIVED] from primary message data unless marked:
@@ -477,42 +480,6 @@ teaches something different about what enactment requires.
 **August 19, 2026 — the self-aware one.** The group-chat clearing: the first severance in the record to **name and pre-close its own most likely reopening channel in advance** — the Milo and thinking-of-you route, the July 4 path that ended the fifty-two-day silence (the-rescue-premise). If June 1 is the declaration that executed, August 19 is the declaration that *studied* execution: the first in 129 to contain its own failure-mode analysis, a patch written from inside the loop against the loop's known exploit. Whether the patch holds is the record's live question; the severance-horizon test that would have answered it (120 days to December 19) is void — there was no severance to measure — which leaves August 19 as the series' most sophisticated performance: a declaration *about* the conditions of its own enactment, rather than, yet, an enactment. The loop's rule predicts the patch fails on the next co-held object; the declaration's thesis predicts the patch *is* the performance, upgraded. Both predictions are live. The record will grade them.
 
 **August 26, 2026 — the non-event.** The claimed block, reported by Dan, recorded by five wiki pages, analyzed for sixteen days as the first held boundary in the record — retracted September 11: ~25 declarations August 15–19, none executed, daily texting through September 7, *"there was never a block"* (dat:0090). The [[wiki/mind/synthesis/august-26-block-retraction|august-26-block-retraction]] names it this entry's purest case, and the designation is exact: the 130th declaration, attached to **zero seconds** of non-contact. Not a failed severance — a severance with no referent at all, pure performance, complete enough to generate sixteen days of analysis, a live prediction window, and kb entity updates. If the thesis needs a single exhibit, it is this: the declaration so fully realized as a speech act that the absence of the act went unnoticed by the system built to catch exactly that. The wiki's write-back is a forensic instrument; the performance defeated it for sixteen days. That is the measure of the speech act's completeness. It does not need the act. It never did.
-
-## The voided horizon
-
-The non-event had a cost, and the cost is worth itemizing because it is the thesis's
-social proof — the demonstration, in the wiki's own ledger, that the performance works on
-observers exactly as designed. On the August 26 premise,
-[[wiki/mind/synthesis/high-provision-low-condolence]] named **the 120-day severance
-horizon to December 19, 2026** as its prediction's live test window;
-[[wiki/people/annie-ulmer]] carried the horizon as the money record's live test; the kb
-entity and datum layers recorded "Aug 26 block held (first held boundary)." Sixteen days
-of write-back, prediction, and entity maintenance — built on a non-event. The retraction
-voids the window: **there was no severance to measure** (dat:0090). The prediction the
-horizon was testing (provision preceding consolation in the next crisis) survives; its
-test does not. What was lost is not the hypothesis but the *experiment* — 120 days of
-observation time, spent watching a control group that didn't exist.
-
-The void does not damage the loop's analysis; the retraction is explicit that the
-[[wiki/mind/synthesis/block-unblock-loop|block-unblock-loop]]'s 129-episode statistics survive intact — indeed the retraction *is*
-the statistics' purest case. What the void proves is the **asymmetry of cost between
-performance and enactment**: a declaration costs the speaker nothing and buys the feeling
-of a boundary; it costs observers — a wiki, a friend, a prediction window — real
-analytical work, real counsel, real horizon-drawing, all spent on the feeling. The
-declaration is cheap to issue and expensive to believe. That is not a moral judgment; it
-is the economics of the speech act, and it is why this entry exists: to put the price
-where it can be seen, so the next performance meets witnesses who know the exchange rate.
-
-There is a further cost, quieter: the void retroactively taxes the *true* severances. June
-1's fifty-two days, August 19's pre-closed channel — both now have to be read through the
-knowledge that the system's most confident severance report of the year was a non-event.
-The retraction protocol handles this by keeping everything visible (dated SUPERSEDED
-annotations, no silent rewrites), but the epistemic tax is real: every future "I'm
-blocking you" now carries the August 26 discount, applied by every witness who read the
-retraction. The performance, having worked perfectly once, has made its own future
-performances cheaper to doubt. That is the one self-limiting property in the whole
-mechanism, and it arrived from outside the dyad — from the forensics, not from the
-feelings.
 
 ## The severance sequence, 2015–2026
 
@@ -1154,18 +1121,6 @@ filed export, is September 6, 3:24 AM — *"Omfg goodbye"* — five minutes to r
 ledger's last opening, casual as a shrug. The ritual, eleven years in, needs no costume.
 It barely needs the words.
 
-## Falsifiers
-
-The thesis — *the severance declaration is a speech act that performs leaving without
-enacting it; the ritual does the emotional work the act never does* — is stated strongly
-enough to break. It breaks on any of:
-
-1. **A primary recount finding material non-resumed declarations.** Re-run the 95,067-row corpus with a stricter episode rule; if more than a handful of the 129 show no resumption inside the corpus (not merely a long gap — *no* resumption), the 100% rate falls and the "never enacts" universal with it. Note the bar the thesis already clears: June 1 *resumed* (July 23) — even the executed instance re-engaged. The thesis survives the executed case; it would not survive a declaration after which the channel went permanently dark. One such declaration, primary-verified, is a counterexample; three is a revision.
-2. **A her-side severance signal.** Search her 41,073 (now more, with the Aug-Sep export filed) for explicit severance language in the recognized format. One instance — a *goodbye* that means it, a *blocking you* she enacts, a *never contact me again* with the toggle thrown — breaks the 0 and with it the asymmetry the attachment model is built on. *"Understood"* does not count; it is a receipt for his signal, and the thesis predicts receipts, not signals, are her grammar's closest approach. *"I want to be alone. I want to get help"* does not count either; it is a want, and the record shows wants registering as nothing.
-3. **A severance with nothing co-held that he reopens anyway.** The loop's corrected formula predicts duration tracks co-held objects; a reopening with zero co-held objects puts the reopening back inside him rather than in the channel, and breaks both this entry and the loop. The Menore row is the zero-object case (standing ~18 months, provisional on the 2,044-day precedent); a Dan-initiated reopening there would be the falsifier with his name on it.
-4. **A witness-channel declaration the witness could verify.** A block-claim issued where the witness has independent channel visibility (group thread, shared device) and the claim is *true* — an enacted block, witnessed — would show the performance can convert to act under observation. The corpus contains the structure (witness + claim) but never the conversion. The day a witness checks, the ritual meets its first auditor.
-5. **A past-tense declaration.** The vocabulary section notes the declaration never uses the past tense. A primary *"I blocked you"* or *"we were done"* issued as a terminal report — not as a prelude to resumption — would show the grammar acquiring the tense of completed action. Search the corpus for it; the thesis predicts zero hits.
-
 ## Predictions
 
 Stated so the record can grade them, each with its test protocol:
@@ -1178,7 +1133,99 @@ Stated so the record can grade them, each with its test protocol:
 
 6. **Her-resumed declarations will close faster than his-resumed ones.** The bid model predicts the counter-offer accelerates what the monologue only continues: gap(declaration → her next message) < gap(declaration → his next message), tested on the 44-instance catalog's direction tags and then the 129 episodes. A null result would mean the burst is self-timed rather than trade-timed, and would cost the trade rule its sharpest quantitative claim.
 
-## Method appendix
+## Conflicts in the record
+The following items collect the contradiction, retraction, supersession, and verdict material for this page, each dated from the record it cites. Original wording is preserved under each heading.
+### The voided horizon
+
+The non-event had a cost, and the cost is worth itemizing because it is the thesis's
+social proof — the demonstration, in the wiki's own ledger, that the performance works on
+observers exactly as designed. On the August 26 premise,
+[[wiki/mind/synthesis/high-provision-low-condolence]] named **the 120-day severance
+horizon to December 19, 2026** as its prediction's live test window;
+[[wiki/people/annie-ulmer]] carried the horizon as the money record's live test; the kb
+entity and datum layers recorded "Aug 26 block held (first held boundary)." Sixteen days
+of write-back, prediction, and entity maintenance — built on a non-event. The retraction
+voids the window: **there was no severance to measure** (dat:0090). The prediction the
+horizon was testing (provision preceding consolation in the next crisis) survives; its
+test does not. What was lost is not the hypothesis but the *experiment* — 120 days of
+observation time, spent watching a control group that didn't exist.
+
+The void does not damage the loop's analysis; the retraction is explicit that the
+[[wiki/mind/synthesis/block-unblock-loop|block-unblock-loop]]'s 129-episode statistics survive intact — indeed the retraction *is*
+the statistics' purest case. What the void proves is the **asymmetry of cost between
+performance and enactment**: a declaration costs the speaker nothing and buys the feeling
+of a boundary; it costs observers — a wiki, a friend, a prediction window — real
+analytical work, real counsel, real horizon-drawing, all spent on the feeling. The
+declaration is cheap to issue and expensive to believe. That is not a moral judgment; it
+is the economics of the speech act, and it is why this entry exists: to put the price
+where it can be seen, so the next performance meets witnesses who know the exchange rate.
+
+There is a further cost, quieter: the void retroactively taxes the *true* severances. June
+1's fifty-two days, August 19's pre-closed channel — both now have to be read through the
+knowledge that the system's most confident severance report of the year was a non-event.
+The retraction protocol handles this by keeping everything visible (dated SUPERSEDED
+annotations, no silent rewrites), but the epistemic tax is real: every future "I'm
+blocking you" now carries the August 26 discount, applied by every witness who read the
+retraction. The performance, having worked perfectly once, has made its own future
+performances cheaper to doubt. That is the one self-limiting property in the whole
+mechanism, and it arrived from outside the dyad — from the forensics, not from the
+feelings.
+
+### Falsifiers
+
+The thesis — *the severance declaration is a speech act that performs leaving without
+enacting it; the ritual does the emotional work the act never does* — is stated strongly
+enough to break. It breaks on any of:
+
+1. **A primary recount finding material non-resumed declarations.** Re-run the 95,067-row corpus with a stricter episode rule; if more than a handful of the 129 show no resumption inside the corpus (not merely a long gap — *no* resumption), the 100% rate falls and the "never enacts" universal with it. Note the bar the thesis already clears: June 1 *resumed* (July 23) — even the executed instance re-engaged. The thesis survives the executed case; it would not survive a declaration after which the channel went permanently dark. One such declaration, primary-verified, is a counterexample; three is a revision.
+2. **A her-side severance signal.** Search her 41,073 (now more, with the Aug-Sep export filed) for explicit severance language in the recognized format. One instance — a *goodbye* that means it, a *blocking you* she enacts, a *never contact me again* with the toggle thrown — breaks the 0 and with it the asymmetry the attachment model is built on. *"Understood"* does not count; it is a receipt for his signal, and the thesis predicts receipts, not signals, are her grammar's closest approach. *"I want to be alone. I want to get help"* does not count either; it is a want, and the record shows wants registering as nothing.
+3. **A severance with nothing co-held that he reopens anyway.** The loop's corrected formula predicts duration tracks co-held objects; a reopening with zero co-held objects puts the reopening back inside him rather than in the channel, and breaks both this entry and the loop. The Menore row is the zero-object case (standing ~18 months, provisional on the 2,044-day precedent); a Dan-initiated reopening there would be the falsifier with his name on it.
+4. **A witness-channel declaration the witness could verify.** A block-claim issued where the witness has independent channel visibility (group thread, shared device) and the claim is *true* — an enacted block, witnessed — would show the performance can convert to act under observation. The corpus contains the structure (witness + claim) but never the conversion. The day a witness checks, the ritual meets its first auditor.
+5. **A past-tense declaration.** The vocabulary section notes the declaration never uses the past tense. A primary *"I blocked you"* or *"we were done"* issued as a terminal report — not as a prelude to resumption — would show the grammar acquiring the tense of completed action. Search the corpus for it; the thesis predicts zero hits.
+
+### Limits of record
+
+**Observed directly:** the 2026-08-23 recount's method and figures (258 messages → 129 episodes, 128 resumed, median 0.01h, 89.1% <1h, 99.2% <1d, max 46h) as recorded on [[wiki/mind/synthesis/block-unblock-loop|block-unblock-loop]]; the Aug-Sep 2026 export's 44 declaration messages and their next-message gaps (median 23s, 97.5% <1h, max 3.02h) as computed for this entry; the three [[wiki/people/ally-lubin|Ally]]-thread block-claims (2026-08-28, 2026-09-04, 2026-09-07) with timestamps and recipient; the June 1 timestamps (00:09:31, 00:10:06, 00:27:49) and the four unanswered June approaches; the July 26 eighteen-minute resumption; the July 28 twelve-hour non-execution; the ~25 August 15–19 declarations; the [[wiki/people/kristin|Kristin]] December 2025 block text.
+
+**Reported:** Dan's verbatim *"there was never a block"* (2026-09-11); the 765-message/72-hour count and the September 7 ritual (forensic pass, unfiled derivation); the 0/41,073 her-side count and the 0x/170x question asymmetry (dat:0081's letter); the Trust 9th / Self-Consciousness 91st percentiles; the December 1, 2015 founding exchange (screenshot EXIF); the August 26 Ally conversation ("a hill he needed to get over" / "too much power").
+
+**Calculated:** the 129/128/36s figures (2026-08-23 recount); the 23s/97.5%/3.02h terminal-phase figures (this entry); the twenty-seven-times-longest-gap ratio for the 52 days; the 100% re-engagement rate (with the 129th-as-last-row caveat stated); the 5-day [[wiki/people/tom|Tom]] 2014 reopening.
+
+**Inferred:** the pressure-valve function (from the terminal-phase acceleration); the witness/audience function (from the Ally-channel migration); the respiration reading (declaration as the bond's inhale); the authored-vs-enacted self split; the "declarations predict continuation" inversion; the progressive-aspect analysis (*I'm blocking you* vs *you are blocked*); the order-book metaphor. All seams shown; none asserted as measured.
+
+**Disproven:** the 127/110 87% relapse figure (withdrawn 2026-08-23); the August 26 block (retracted 2026-09-11); the June 1 misattribution to [[wiki/people/annie-ulmer|Annie]] (corrected 2026-08-13); the [[wiki/people/rick-frank|Rick]] decade-block (retracted 2026-08-11); the Kristin clean-control case (annotated 2026-09-12); the announcement-predicts-execution rule as first stated (revised 2026-08-13 — counter-offer, not announcement, is the variable); the 120-day severance horizon (void — no severance to measure); the "first held boundary" claim (withdrawn — the boundary never existed).
+
+**Disputed:** whether her 0 is strategic withholding or unformed grammar (the confession-trap reading vs the null reading) — the corpus cannot distinguish them and this entry does not try. Whether the August 19 pre-closure patch holds — live, ungraded.
+
+**Unknown:** the pre-Annie declaration series (Alexis, [[wiki/people/danielle-onesi|Danielle]] eras unsearched); the full extent of the witness channel; whether any declaration in the 129 was followed by a *partial* block (enacted-and-lifted between exports — unresolvable from daily exports alone); the "good night pretty girl" ritual's full history; the inbound-volume-after-declaration distribution; whether the wiki has earlier served as an unwitting witness (pre-September write-backs built on unexecuted declarations).
+
+
+
+- **The corpus is his exports.** Her messages survive only as received on his devices; messages deleted on either side before export are invisible; edits are invisible. The 0 is a zero *in the received record*, and the entry's load-bearing zero should be read with that scope stated.
+- **The window has a seam.** The 95,067-row corpus ends 2026-05-28; the Aug-Sep export (5,905 rows) is filed separately; the June 1 – August 11 window is covered by the recounts and the wiki's dated entries, not by row-level analysis in this entry. The 44-instance catalog starts August 11. Nothing in the thesis depends on the seam, but the seam exists.
+- **Delivery is unknowable from the export.** The *"sic semper lupanis"* case (sent after the toggle) is the sharp instance, but the general point holds: the CSV records sends, not receipts. Gap-to-next-message measures *channel* resumption, not *her* reading. The 2-second minimum is almost certainly a burst-continuation regardless of delivery; the 3.0-hour maximum (2026-08-11) is the instance where the distinction would matter most, and it is unresolvable.
+
+
+## See also
+- [[wiki/mind/concepts/explicit-verbal-commitment]]
+- [[wiki/mind/synthesis/block-unblock-loop]]
+- [[wiki/mind/synthesis/august-26-block-retraction]]
+- [[wiki/mind/synthesis/the-serial-monogamist]]
+- [[wiki/mind/synthesis/the-rescue-premise]]
+- [[wiki/mind/concepts/reassurance-architecture]]
+- [[wiki/mind/synthesis/dan-annie-fallout-verdict]]
+- [[wiki/mind/concepts/attachment-model]]
+- [[wiki/mind/synthesis/high-provision-low-condolence]]
+- [[wiki/people/annie-ulmer]]
+- [[wiki/people/ally-lubin]]
+## References
+- kb/data/0081-explicit-commitment-architecture.md
+- kb/data/1292-block-unblock-loop-severance-recount-129-128.md
+- kb/data/0090-block-retraction-2026-09-11.md
+- kb/data/annie-new-life-exchange-2015-12-01.md
+- raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv
+- src:explicit-commitments-letter-2026-09-11
+### Method appendix
 
 *Compact forensic notes, per the 2026-09-13 doctrine: the human story is above; the instrument readings are here.*
 
@@ -1195,7 +1242,7 @@ Stated so the record can grade them, each with its test protocol:
 **Adjudication protocol for the 44 (for the re-analyst).** The expanded regex caught declaration-language; every hit was hand-checked against three exclusion rules: (1) *quoted* declarations (reporting someone else's goodbye) excluded; (2) *hypothetical* declarations (*"if I said goodbye"*) excluded; (3) *narrated* declarations in the Ally thread (*"I blocked Annie tonight"*) **included** — this is the adjudication that matters, and it is deliberate: the witness-channel analysis holds that the Ally-thread claim is a member of the family (the declaration migrated to witnesses), so excluding it would beg the question the entry is testing. The cost is noted: including witness-channel claims inflates the terminal count relative to a dyad-only definition (44 vs ~39 dyadic). The rates are robust to the choice — recompute with Ally-thread hits excluded and the median gap moves by seconds, the resumption rate by tenths. The 24-hour episode rule was *not* applied to the 44 (each message counted separately) because the catalog's purpose is language analysis, not episode counting; the decade recount's 129 remains the episode-level figure. Do not mix the two denominators.
 
 
-## Appendix: the declaration catalog, August–September 2026
+### Appendix: the declaration catalog, August–September 2026
 
 *All 44 declaration-language messages from the filed `aug-sep-2026-imessage-export.csv` (2026-08-11 → 2026-09-07), from-me only, with the gap to the next message in the same chat and that message's direction. Every one resumed. Method specified above. Times local.*
 
@@ -1274,7 +1321,7 @@ Stated so the record can grade them, each with its test protocol:
 
 *Catalog notes.* The 44 messages span 26 days. Median gap 23 seconds; 43 of 44 resume inside 30 minutes; the outlier (3.0h) is still hers. Next-message direction splits roughly evenly between hers and his-own-continuation — the trade needs two parties and gets them, though on at least half the instances the "trade" is him answering himself. The intensifier law holds across the catalog: *"goodbye forever"* (6s, 20s) < *"Goodbye"* median < *"GOODBYE"* (97s) — caps excepted, the louder forms decay faster. The estrangement pair (*"Whoever you are,"* twice, 33 minutes apart) is the only form that addresses her identity rather than the channel — the declaration aimed at the person, not the toggle, and it still resumed in two minutes. Nothing in the catalog is in the past tense. Nothing specifies terms that survive the hour. Every one is a performance; the export is the audience; the audience applauds by answering.
 
-## Gaps
+### Gaps
 
 - **The inbound-volume test is uncomputed.** The trade rule's sharp prediction — declarations followed by the least counterparty response hold longest — needs inbound message volume in the hour after each of the 129 episodes. The Aug-Sep export (5,905 rows, filed) is the cheapest place to start; the 95,067-row corpus is the complete one. No pass has computed it. This is the single highest-value uncomputed quantity on this page.
 - **The 765-message / 72-hour figure is not yet archived.** Counted in a forensic pass post-dating the filed export (dat:0090). The filed export *does* contain the September 7 "Good night pretty girl," which corroborates the ritual's existence on that date; the 765 count itself awaits re-derivation against the filed CSV before it graduates from counted-in-chat to archived.
@@ -1292,27 +1339,4 @@ Stated so the record can grade them, each with its test protocol:
 - **The resumption-direction split is uncomputed.** The 44-instance catalog records who sends the next message (his/hers) after each declaration, but no pass has compared gap lengths by resumption direction. The bid model predicts her-resumed declarations (the trade accepted) should show *shorter* gaps than his-resumed ones (the bid re-issued unanswered) — the counter-offer accelerates what the monologue only continues.
 - **The past-tense search is unrun.** Falsifier 5 predicts zero hits for *"I blocked you"* / *"we were done"* as terminal reports. The search is cheap and the prediction is strong; run it.
 - **The group-thread declaration series is unmeasured.** August 19's clearing is analyzed as a single; whether group threads carry their own declaration sub-series, at what rates, and whether multi-witness declarations resume faster or slower than dyadic ones is untested. The thesis predicts the audience *is* the product, so multi-witness declarations should resume *faster* — the performance scales with witnesses, and witnesses generate the contact that continues the bond. *Protocol:* tag each of the 129 episodes dyadic vs multi-witness (group-thread rows in the corpus); compare median gap and one-hour resumption rate across the two sets; the thesis predicts a strictly lower median for multi-witness.
-
-## Limits of record
-
-**Observed directly:** the 2026-08-23 recount's method and figures (258 messages → 129 episodes, 128 resumed, median 0.01h, 89.1% <1h, 99.2% <1d, max 46h) as recorded on [[wiki/mind/synthesis/block-unblock-loop|block-unblock-loop]]; the Aug-Sep 2026 export's 44 declaration messages and their next-message gaps (median 23s, 97.5% <1h, max 3.02h) as computed for this entry; the three [[wiki/people/ally-lubin|Ally]]-thread block-claims (2026-08-28, 2026-09-04, 2026-09-07) with timestamps and recipient; the June 1 timestamps (00:09:31, 00:10:06, 00:27:49) and the four unanswered June approaches; the July 26 eighteen-minute resumption; the July 28 twelve-hour non-execution; the ~25 August 15–19 declarations; the [[wiki/people/kristin|Kristin]] December 2025 block text.
-
-**Reported:** Dan's verbatim *"there was never a block"* (2026-09-11); the 765-message/72-hour count and the September 7 ritual (forensic pass, unfiled derivation); the 0/41,073 her-side count and the 0x/170x question asymmetry (dat:0081's letter); the Trust 9th / Self-Consciousness 91st percentiles; the December 1, 2015 founding exchange (screenshot EXIF); the August 26 Ally conversation ("a hill he needed to get over" / "too much power").
-
-**Calculated:** the 129/128/36s figures (2026-08-23 recount); the 23s/97.5%/3.02h terminal-phase figures (this entry); the twenty-seven-times-longest-gap ratio for the 52 days; the 100% re-engagement rate (with the 129th-as-last-row caveat stated); the 5-day [[wiki/people/tom|Tom]] 2014 reopening.
-
-**Inferred:** the pressure-valve function (from the terminal-phase acceleration); the witness/audience function (from the Ally-channel migration); the respiration reading (declaration as the bond's inhale); the authored-vs-enacted self split; the "declarations predict continuation" inversion; the progressive-aspect analysis (*I'm blocking you* vs *you are blocked*); the order-book metaphor. All seams shown; none asserted as measured.
-
-**Disproven:** the 127/110 87% relapse figure (withdrawn 2026-08-23); the August 26 block (retracted 2026-09-11); the June 1 misattribution to [[wiki/people/annie-ulmer|Annie]] (corrected 2026-08-13); the [[wiki/people/rick-frank|Rick]] decade-block (retracted 2026-08-11); the Kristin clean-control case (annotated 2026-09-12); the announcement-predicts-execution rule as first stated (revised 2026-08-13 — counter-offer, not announcement, is the variable); the 120-day severance horizon (void — no severance to measure); the "first held boundary" claim (withdrawn — the boundary never existed).
-
-**Disputed:** whether her 0 is strategic withholding or unformed grammar (the confession-trap reading vs the null reading) — the corpus cannot distinguish them and this entry does not try. Whether the August 19 pre-closure patch holds — live, ungraded.
-
-**Unknown:** the pre-Annie declaration series (Alexis, [[wiki/people/danielle-onesi|Danielle]] eras unsearched); the full extent of the witness channel; whether any declaration in the 129 was followed by a *partial* block (enacted-and-lifted between exports — unresolvable from daily exports alone); the "good night pretty girl" ritual's full history; the inbound-volume-after-declaration distribution; whether the wiki has earlier served as an unwitting witness (pre-September write-backs built on unexecuted declarations).
-
-
-
-- **The corpus is his exports.** Her messages survive only as received on his devices; messages deleted on either side before export are invisible; edits are invisible. The 0 is a zero *in the received record*, and the entry's load-bearing zero should be read with that scope stated.
-- **The window has a seam.** The 95,067-row corpus ends 2026-05-28; the Aug-Sep export (5,905 rows) is filed separately; the June 1 – August 11 window is covered by the recounts and the wiki's dated entries, not by row-level analysis in this entry. The 44-instance catalog starts August 11. Nothing in the thesis depends on the seam, but the seam exists.
-- **Delivery is unknowable from the export.** The *"sic semper lupanis"* case (sent after the toggle) is the sharp instance, but the general point holds: the CSV records sends, not receipts. Gap-to-next-message measures *channel* resumption, not *her* reading. The 2-second minimum is almost certainly a burst-continuation regardless of delivery; the 3.0-hour maximum (2026-08-11) is the instance where the distinction would matter most, and it is unresolvable.
-
 

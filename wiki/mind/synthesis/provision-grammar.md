@@ -2,10 +2,11 @@
 domain: mind
 page_type: synthesis
 title: "Provision Grammar"
+tier: major
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-03
 sources:
   - raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv
 synthesizes:
@@ -62,10 +63,13 @@ connections:
   - page: wiki/mind/concepts/conflict-architecture
     type: contrasts
     claim: "The conflict engine is verbal-cognitive only and never touches the provision channel: no declaration in the corpus is accompanied by a provision halt. The fight register and the care register are decoupled — two machines, one person — which bounds the engine's jurisdiction to the verbal channel."
+changelog:
+  - 2026-10-03: Restructured to canonical template v1
 ---
-
 # Provision Grammar
-
+Money moves through Dan's closest relationships in amounts that differ enormously. On the Annie Ulmer channel, the figures Dan reported from his payment apps on 15 July 2026 are roughly $139,000 sent against $16,000–$20,000 received over the decade — a net outflow of about $119,000–$123,000, held here as operator-reported screenshots, not an audited ledger. On the Ally Lubin channel, the 2019 exchanges are denominated in items: $30 and $50 price negotiations, a $25 payment to Dan Polyak on 12 December 2018 with the memo "For introducing me to Ally Lubin," and a $2,100 total for August–October 2019. On the Suzanne Frank channel, the artifact is an itemized statement Suz sent at 06:34 on 3 October 2018 listing about $14,000 moved Dan→Suz against an estate that had not yet distributed.
+The three channels also talk about money differently while it moves. The Annie channel's transfers run for years without an in-thread audit, and the total surfaces once, in screenshots, years later. The Ally channel prices access per item and audits it in the same argument — *"lady i've sent 2100 and have like 2 pictures and im STILL trying lol"* (22 October 2019). The Suz channel arrives pre-invoiced: the 3 October 2018 statement computes "Sum of transactions on app" before any dispute, and by July 2019 both parties were claiming to be the creditor of the same $14,000.
+Underneath the amounts, the verbal record on these channels is measured. In 106,629 sent messages, "do you love me" appears 0 times and "call me" 170 times ([[wiki/mind/concepts/explicit-verbal-commitment]]); the Big Five psychometrics page measures instrumental generosity at 1.79–2.49× against sympathy tokens at 0.45×. This page reads the transfers channel by channel, rung by rung — from the $25 introduction purchase to the $144,069.31 estate distribution order of 21 August 2020 that sets the scale — and keeps every figure at the status the record gives it.
 The money in Dan's attachments is not a pile of facts about three relationships.
 
 It is one grammar spoken in three registers, at denominations separated by orders of magnitude, with an identical function: **money sent when words are untrusted.**
@@ -79,7 +83,6 @@ What neither page does is state the grammar itself: what a transfer *says*, how 
 This entry is the cross-channel grammar of money-as-attachment.
 
 Measured per channel, never synthesized as one grammar, until now.
-
 ## The figures, held to the numbers-discipline line
 
 Before the grammar, the provenance — because a grammar built on soft figures is vibes with a ledger.
@@ -383,22 +386,6 @@ A grammar earns its keep by naming its failures. Three are in the corpus, one pe
 
 Three failure modes, three tempos, three goals — each failure is the channel's own structure turned against itself. The grammar doesn't just describe how provision works. It describes how each channel's version of provision specifically stops working.
 
-## Totality pass: the grammar against the whole corpus
-
-Every major claim in this entry now gets its convergence check — what the rest of the corpus says about it, and where it diverges.
-
-**Claim: provision substitutes for verbal commitment (the substitution thesis).** Converges with the 2026-08-16 [[wiki/mind/profile/big-five-psychometrics|Big30]] audit (1.79–2.49x instrumental / 0.45x sympathy) — the mechanism is measured, not inferred. Converges with the [[wiki/mind/concepts/explicit-verbal-commitment|explicit-verbal-commitment architecture]] ("do you love me" 0x / "call me" 170x) — the verbal emptiness is counted. Converges with the ninety-minute 2019 trigger — the substitution observed at maximum speed. Diverges nowhere in the corpus; the honest controls the high-provision page names (a crisis with sustained consolation and no provision offer; a significant no-strings transfer never invoked) are both absent. What would falsify it is stated in the predictions. Status: the best-supported claim in the entry.
-
-**Claim: the denominations differ by orders of magnitude while the function is identical.** Converges with the spine's concentration finding (the Gini parallel) and with the ladder's own rung analysis — each rung's particulars survive the reading. The stress point is rung 5 ($2,100): its [DISPUTED] status means the ladder's middle rests on the softest figure. The claim doesn't require the $2,100 to be accurate — it requires the *priced register* to exist, which the $30/$50 negotiation attests independently. But the ladder is honest about the soft rung: if an export ever shows the crisis-window total was materially different, rung 5's denomination changes while its function (discharge at scale) stands.
-
-**Claim: the ledger half runs at three tempos.** Converges with the primary artifacts: the October 22 in-argument audit (real time), the October 3 pre-computed statement (pre-invoiced), the July 2026 screenshots (slow motion). Each tempo has exactly one type specimen, which is thin — the claim's vulnerability is that three instances make a pattern only if the instances are representative. The [[wiki/people/ally-lubin|Ally]] tempo has a second instance (the 2026 re-audit); the [[wiki/people/suzanne-frank|Suz]] tempo has a second (the July 2019 "PayPal receipts" entry); the [[wiki/people/annie-ulmer|Annie]] tempo has none (one discovery event). Held as [INFERRED] pattern, not [ATTESTED] law.
-
-**Claim: the grievance machine is one machine with three installations.** Converges with the inversions page's grievance gradings (locally true, historically incomplete — four instances on one channel) and extends the structure to two more channels. The extension is the entry's own synthesis; the inversions page doesn't make it. The risk is over-unification: the Suz dispute's seven-year non-adjudication and the Ally dispute's evidence-decay are *different* failure structures, and calling them one machine may sand down exactly the differences the register analysis preserves. Kept as a claim with the seams showing: the fuel (locally-true, boundedly-false) is shared; the engines differ.
-
-**Divergence carried, not resolved.** The [[wiki/mind/synthesis/estate-money-spine|estate-money-spine]]'s "three-rotation see-saw" vs. the [[wiki/mind/synthesis/four-financial-inversions|inversions page]]'s four rotations is the corpus's own internal tension about the Annie channel's periodization. This entry uses the four-rotation frame (via the inversions page) and the spine's capital chain simultaneously; where they conflict on period boundaries, the inversions page's dating governs the money and the spine's governs the capital. Noted, not reconciled — the reconciliation belongs to those pages.
-
-**Contamination excluded.** The operating manual (`raw/self/dox-md/operating_manual.md`) is AI-secondary; the ally-lubin page documents its Ally passages as directionally right and factually loose (the fused "dark humor exchange" from two separate days). Nothing in this entry is sourced from it. Stated so the exclusion is visible.
-
 ## The $2,100 against the advances: the contract-not-wallet proof
 
 Prediction 3 — the denomination follows the channel's contract, not his liquidity — has a natural experiment inside the corpus, and the ladder's honesty requires running it.
@@ -415,17 +402,6 @@ One entry, two channels, one arrival window, opposite denomination behavior — 
 
 A corollary for the grievance machine: Ally's 2019 audit (*"I'm just confused how neither of you had money because you always send me cash app statements with like thousands of dollars"*) is the provisioned party noticing exactly this — the poverty story and the payment record not reconciling. She saw the advances arriving (the "cash app statements with like thousands of dollars") while her channel stayed at item prices. Her confusion is the grammar's contract-not-wallet rule observed from the receiving end: the money was there, it just wasn't for her channel. The auditor saw the experiment before the wiki did.
 
-## Method appendix: what was not re-litigated
-
-
-This entry depends on four pages' evidentiary work and does not redo it.
-
-The four inversions' dating, the $10,000 Paci settlement letter, the $650/week servicing, the ConEd $7,000, the [[wiki/people/libby|Libby]] income and its rate contradiction, the engineered-exit capture, and the grievance gradings are [[wiki/mind/synthesis/four-financial-inversions]]'s — imported by reference, not re-verified here. The 1.79–2.49x / 0.45x split and the demand-letter widening are [[wiki/mind/synthesis/high-provision-low-condolence]]'s. The capital chain, the $144,069.31 distribution, the $134,069.31 burn, and the instant re-lending rule are [[wiki/mind/synthesis/estate-money-spine]]'s. The 48-hour concurrency ledger, the 380-message solo run, the slot-transfer audition, and the three readings are [[wiki/mind/synthesis/annie-ally-contrast]]'s.
-
-What this entry adds is the cross-channel object none of them builds: the denominations ladder, the utterance analysis per register, the three tempos of invoicing, the substitution mechanism, and the grievance machine stated as one machine with three installations.
-
-The numbers-discipline line is held where it matters most: the [[wiki/people/annie-ulmer|Annie]] ~$119K–$123K / ~6:1 figures are operator-provided screenshots from 2026-07-15, not in `raw/`, not an audited ledger, and every use of them in this entry carries that status. The $2,100 is his claimed figure, accepted-then-contested, uncorroborated. The $14,000 is attested in her itemized statement and his messages; the $4,000 recovery is his account; the remainder is disputed. Nothing here upgrades a figure's epistemic status. The grammar is built from what the figures *do* in each channel, not from their precision.
-
 ## The grammar's sentence, stated once
 
 Strip the entry to its load-bearing claims:
@@ -440,7 +416,60 @@ Strip the entry to its load-bearing claims:
 
 What would break it is stated in the predictions. What it doesn't cover is stated in the Gaps. The rest is the corpus.
 
-## Gaps
+## Conflicts in the record
+The following items collect the contradiction, retraction, supersession, and verdict material for this page, each dated from the record it cites. Original wording is preserved under each heading.
+### Totality pass: the grammar against the whole corpus
+
+Every major claim in this entry now gets its convergence check — what the rest of the corpus says about it, and where it diverges.
+
+**Claim: provision substitutes for verbal commitment (the substitution thesis).** Converges with the 2026-08-16 [[wiki/mind/profile/big-five-psychometrics|Big30]] audit (1.79–2.49x instrumental / 0.45x sympathy) — the mechanism is measured, not inferred. Converges with the [[wiki/mind/concepts/explicit-verbal-commitment|explicit-verbal-commitment architecture]] ("do you love me" 0x / "call me" 170x) — the verbal emptiness is counted. Converges with the ninety-minute 2019 trigger — the substitution observed at maximum speed. Diverges nowhere in the corpus; the honest controls the high-provision page names (a crisis with sustained consolation and no provision offer; a significant no-strings transfer never invoked) are both absent. What would falsify it is stated in the predictions. Status: the best-supported claim in the entry.
+
+**Claim: the denominations differ by orders of magnitude while the function is identical.** Converges with the spine's concentration finding (the Gini parallel) and with the ladder's own rung analysis — each rung's particulars survive the reading. The stress point is rung 5 ($2,100): its [DISPUTED] status means the ladder's middle rests on the softest figure. The claim doesn't require the $2,100 to be accurate — it requires the *priced register* to exist, which the $30/$50 negotiation attests independently. But the ladder is honest about the soft rung: if an export ever shows the crisis-window total was materially different, rung 5's denomination changes while its function (discharge at scale) stands.
+
+**Claim: the ledger half runs at three tempos.** Converges with the primary artifacts: the October 22 in-argument audit (real time), the October 3 pre-computed statement (pre-invoiced), the July 2026 screenshots (slow motion). Each tempo has exactly one type specimen, which is thin — the claim's vulnerability is that three instances make a pattern only if the instances are representative. The [[wiki/people/ally-lubin|Ally]] tempo has a second instance (the 2026 re-audit); the [[wiki/people/suzanne-frank|Suz]] tempo has a second (the July 2019 "PayPal receipts" entry); the [[wiki/people/annie-ulmer|Annie]] tempo has none (one discovery event). Held as [INFERRED] pattern, not [ATTESTED] law.
+
+**Claim: the grievance machine is one machine with three installations.** Converges with the inversions page's grievance gradings (locally true, historically incomplete — four instances on one channel) and extends the structure to two more channels. The extension is the entry's own synthesis; the inversions page doesn't make it. The risk is over-unification: the Suz dispute's seven-year non-adjudication and the Ally dispute's evidence-decay are *different* failure structures, and calling them one machine may sand down exactly the differences the register analysis preserves. Kept as a claim with the seams showing: the fuel (locally-true, boundedly-false) is shared; the engines differ.
+
+**Divergence carried, not resolved.** The [[wiki/mind/synthesis/estate-money-spine|estate-money-spine]]'s "three-rotation see-saw" vs. the [[wiki/mind/synthesis/four-financial-inversions|inversions page]]'s four rotations is the corpus's own internal tension about the Annie channel's periodization. This entry uses the four-rotation frame (via the inversions page) and the spine's capital chain simultaneously; where they conflict on period boundaries, the inversions page's dating governs the money and the spine's governs the capital. Noted, not reconciled — the reconciliation belongs to those pages.
+
+**Contamination excluded.** The operating manual (`raw/self/dox-md/operating_manual.md`) is AI-secondary; the ally-lubin page documents its Ally passages as directionally right and factually loose (the fused "dark humor exchange" from two separate days). Nothing in this entry is sourced from it. Stated so the exclusion is visible.
+
+### Limits of record
+
+- **Observed.** The Ally price list and the October 22, 2019 audit exchange (thread text); Suz's October 3, 2018 itemized statement and the July 2019 creditor standoff (message records); the $25 Polyak introduction (Facebook payments ledger); the $650/week Paci payment (RAW-DUMP); "do you love me" 0x vs "call me" 170x in 106,629 sent (corpus lexical count); the 1.79–2.49x / 0.45x split (2026-08-16 audit); the 2025-07-28 "only way you would see me" line (message record).
+- **Reported.** The Annie ~$139K / ~$16–20K / ~$119K–$123K figures (operator-provided screenshots, 2026-07-15 — his report of what the apps showed, not an audited ledger); the $2,100 (his claimed figure, accepted 2019, contested 2026); the $4,000 recovery on the $14,000 (his account); the "Sum of transactions on app" framing (her statement).
+- **Calculated.** The ~6:1 ratio (derived from his reported figures); the four-orders-of-magnitude ladder span (derived); the 89% two-spike concentration on the Ally channel (derived, via the contrast entry).
+- **Inferred.** The utterance analysis per register (the sentences each transfer "says"); the substitution mechanism (provision as the explicit-shaped alternative to interpretation-task reassurance); the three tempos of invoicing as one rule at different speeds; the grievance machine as one machine with three worked installations and a named fourth; the currency-continuity claim for inversion 4's supply handoffs; the contract-not-wallet rule from the October 2019 natural experiment.
+- **Disproven.** The folk-memory direction of the Suz channel (money ran mother→son; the $14,000 ran son→mother — corrected 2026-08-18 on the spine); the "paid down" reading of the Paci debt (corrected 2026-08-10 on the inversions page); the severance-horizon test of the provision prediction (voided 2026-09-11 by the block retraction — the prediction stands, its test does not).
+- **Unknown.** The composition and dating of the Annie ~$139K; independent corroboration of the $2,100; the fate of the $14,000's remaining ~$10,000; the PNC loan's terms; any fourth channel's provision record; the origin of the provision register; a counted record of the terminal-phase supply handoffs.
+## See also
+- [[wiki/mind/synthesis/four-financial-inversions]]
+- [[wiki/mind/synthesis/high-provision-low-condolence]]
+- [[wiki/mind/synthesis/estate-money-spine]]
+- [[wiki/mind/synthesis/annie-ally-contrast]]
+- [[wiki/mind/concepts/explicit-verbal-commitment]]
+- [[wiki/mind/concepts/reassurance-architecture]]
+- [[wiki/mind/profile/big-five-psychometrics]]
+- [[wiki/people/annie-ulmer]]
+- [[wiki/people/ally-lubin]]
+- [[wiki/people/suzanne-frank]]
+- [[wiki/mind/synthesis/supply-network]]
+- [[wiki/mind/synthesis/august-26-block-retraction]]
+- [[wiki/mind/concepts/conflict-architecture]]
+## References
+- raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv
+### Method appendix: what was not re-litigated
+
+
+This entry depends on four pages' evidentiary work and does not redo it.
+
+The four inversions' dating, the $10,000 Paci settlement letter, the $650/week servicing, the ConEd $7,000, the [[wiki/people/libby|Libby]] income and its rate contradiction, the engineered-exit capture, and the grievance gradings are [[wiki/mind/synthesis/four-financial-inversions]]'s — imported by reference, not re-verified here. The 1.79–2.49x / 0.45x split and the demand-letter widening are [[wiki/mind/synthesis/high-provision-low-condolence]]'s. The capital chain, the $144,069.31 distribution, the $134,069.31 burn, and the instant re-lending rule are [[wiki/mind/synthesis/estate-money-spine]]'s. The 48-hour concurrency ledger, the 380-message solo run, the slot-transfer audition, and the three readings are [[wiki/mind/synthesis/annie-ally-contrast]]'s.
+
+What this entry adds is the cross-channel object none of them builds: the denominations ladder, the utterance analysis per register, the three tempos of invoicing, the substitution mechanism, and the grievance machine stated as one machine with three installations.
+
+The numbers-discipline line is held where it matters most: the [[wiki/people/annie-ulmer|Annie]] ~$119K–$123K / ~6:1 figures are operator-provided screenshots from 2026-07-15, not in `raw/`, not an audited ledger, and every use of them in this entry carries that status. The $2,100 is his claimed figure, accepted-then-contested, uncorroborated. The $14,000 is attested in her itemized statement and his messages; the $4,000 recovery is his account; the remainder is disputed. Nothing here upgrades a figure's epistemic status. The grammar is built from what the figures *do* in each channel, not from their precision.
+
+### Gaps
 
 - **The Annie screenshots' composition.** The 2026-07-15 screenshots give totals, not a transaction ledger. Which years the ~$139K concentrates in, whether the estate-burn window (Sep 2020–early 2021) dominates, and what the ~$16–20K received back consists of are all [UNKNOWN]. A transaction-level export would let the ladder's rung 8 be dated the way the inversions are dated; without it, the decade net floats above the rotations it summarizes.
 - **The $2,100's corroboration.** No 2019 Cash App export exists in `raw/`. Her 2019 "Oh fuck" accepted the screenshot; her 2026 contestation reopens it. The figure sits at [DISPUTED] permanently unless an export surfaces. The ladder's rung 5 is the softest rung.
@@ -457,11 +486,3 @@ What would break it is stated in the predictions. What it doesn't cover is state
 - **The 2016–2017 Annie transfers' composition.** The inversion-1 provisioning routine is attested as rhythm (the January 2016 backstop exchanges, the bank runs), but no channel totals exist for 2016–2017 — the years the facility ran hardest. The ladder's rung 8 is a decade net with no yearly decomposition, so the claim that the estate-burn window dominates the total is plausible but unmeasured. A Cash App/Venmo export covering 2016–2017 would date the ladder's largest rung the way the inversions are dated.
 - **The Kristin $40's composition.** "Ended over $40" is the attested break; what the $40 *was* — his transfer to her, her debt to him, a disputed charge, a demand refused — is [UNKNOWN]. The direction decides the analysis: a $40 provision he sent and lost the bond over is the grammar at discharge scale; a $40 she owed and wouldn't pay is a grievance machine running on a receipt with no provision register behind it. The Kristin thread is the named source for the ledger pass, and running it would either complete the machine's fourth installation or bound it — the smallest-denomination test of prediction 3, currently scored on the break alone.
 
-## Limits of record
-
-- **Observed.** The Ally price list and the October 22, 2019 audit exchange (thread text); Suz's October 3, 2018 itemized statement and the July 2019 creditor standoff (message records); the $25 Polyak introduction (Facebook payments ledger); the $650/week Paci payment (RAW-DUMP); "do you love me" 0x vs "call me" 170x in 106,629 sent (corpus lexical count); the 1.79–2.49x / 0.45x split (2026-08-16 audit); the 2025-07-28 "only way you would see me" line (message record).
-- **Reported.** The Annie ~$139K / ~$16–20K / ~$119K–$123K figures (operator-provided screenshots, 2026-07-15 — his report of what the apps showed, not an audited ledger); the $2,100 (his claimed figure, accepted 2019, contested 2026); the $4,000 recovery on the $14,000 (his account); the "Sum of transactions on app" framing (her statement).
-- **Calculated.** The ~6:1 ratio (derived from his reported figures); the four-orders-of-magnitude ladder span (derived); the 89% two-spike concentration on the Ally channel (derived, via the contrast entry).
-- **Inferred.** The utterance analysis per register (the sentences each transfer "says"); the substitution mechanism (provision as the explicit-shaped alternative to interpretation-task reassurance); the three tempos of invoicing as one rule at different speeds; the grievance machine as one machine with three worked installations and a named fourth; the currency-continuity claim for inversion 4's supply handoffs; the contract-not-wallet rule from the October 2019 natural experiment.
-- **Disproven.** The folk-memory direction of the Suz channel (money ran mother→son; the $14,000 ran son→mother — corrected 2026-08-18 on the spine); the "paid down" reading of the Paci debt (corrected 2026-08-10 on the inversions page); the severance-horizon test of the provision prediction (voided 2026-09-11 by the block retraction — the prediction stands, its test does not).
-- **Unknown.** The composition and dating of the Annie ~$139K; independent corroboration of the $2,100; the fate of the $14,000's remaining ~$10,000; the PNC loan's terms; any fourth channel's provision record; the origin of the provision register; a counted record of the terminal-phase supply handoffs.
