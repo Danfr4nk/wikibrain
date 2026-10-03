@@ -1,54 +1,66 @@
 ---
-title: "Bill Ulmer"
 domain: people
 page_type: entity
+title: "Bill Ulmer"
+aliases: ["Bill Ulmer"]
+tier: incidental
 status: closed
+relation_type: partner's-father
+knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-09-13
+date_modified: 2026-10-03
 date_range_start: 2017-04-22
 date_range_end: 2020-06-02
-sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
-related: ["wiki/people/annie-ulmer", "wiki/people/ellen-ulmer", "wiki/timeline/events/fran-death-vigil", "wiki/self/message-corpora/master-message-dump"]
-tags: [relationships, family]
-knowledge: mixed
-connections:
-  - { target: "[[wiki/people/claire-ulmer]]", type: references, claim: "Claire is Annie's sister — the other Ulmer-sibling channel in the family field Bill's 2017–2020 thread documents from the father's side." }
-  - { target: "[[wiki/people/annie-ulmer]]", type: documents, claim: "Bill's 58-message thread documents the father-channel of the Annie decade's family field — the warmest adult presence in the corpus outside Dan's own family." }
-  - { target: "[[wiki/people/ellen-ulmer]]", type: references, claim: "Ellen is Annie's mother — the other half of the parental channel Bill's page only partly documents." }
 infobox:
   name: "Bill Ulmer"
-  relationship_to_dan: unknown
+  status: "Closed — 58-message thread, April 2017 to June 2020; no message after June 2020 in the corpus"
+  type: "Partner's father (Annie Ulmer's father)"
+  known_for: "Annie's father — the warmest and most consistently affectionate adult presence toward Dan outside Dan's own family"
+  relationship_to_dan: partner's father
   location: nyc
   first_contact: 2017-04-22
-  known_for: "Bill Ulmer is [[wiki/people/annie-ulmer|Annie]]'s father — the warmest and most consistently affectionate adult presence"
+sources:
+  - kb/entities/bill-ulmer.md
+  - kb/data/0251-bill-ulmer-thread.md
+  - kb/data/0119-bill-golf-pharma-customer-thread-corroborated.md
+tags: [relationships, family]
+connections:
+  - page: wiki/people/annie-ulmer
+    type: part-of
+    claim: "Bill's 58-message thread documents the father-channel of the Annie decade's family field — the warmest adult presence in the corpus outside Dan's own family."
+  - page: wiki/people/claire-ulmer
+    type: part-of
+    claim: "Claire is Annie's sister — the other Ulmer-sibling channel in the family field Bill's 2017–2020 thread documents from the father's side."
+  - page: wiki/people/ellen-ulmer
+    type: part-of
+    claim: "Ellen is Annie's mother — the other half of the parental channel Bill's page only partly documents."
+changelog:
+  - 2026-10-03: Restructured to canonical template v1
 ---
 
 # Bill Ulmer
 
-Bill Ulmer is [[wiki/people/annie-ulmer|Annie]]'s father — the warmest and most consistently affectionate adult presence toward Dan documented anywhere in the corpus outside Dan's own immediate family. The 58-message thread (`+17249840793`, April 2017 – June 2020) is sparse but unbroken: birthday greetings, condolences, small favors, and repeated signs that Bill treated Dan as family rather than as his daughter's boyfriend.
+> **Incidental entry** — Bill Ulmer, Annie's father: a complete 58-message record of a warm father-channel, 2017–2020. Complete at this size.
 
-## The relationship
+Bill Ulmer is [[wiki/people/annie-ulmer|Annie]]'s father — the warmest and most consistently affectionate adult presence toward Dan documented anywhere in the corpus outside Dan's own immediate family. The thread is sparse but unbroken: 58 messages from April 22, 2017 to June 2, 2020, made of birthday greetings, condolences, small favours, and repeated signs that Bill treated Dan as family rather than as his daughter's boyfriend (`dat:0251`; `ent:bill-ulmer`).
 
-Bill's messages read as a father-in-law's, not an acquaintance's. On April 4, 2018, days after [[wiki/people/fran-coldren|Fran]]'s death, he sends an unprompted, lengthy condolence — calling Fran "a lady of class, friendliness to all and grace" whom he'd known over 40 years — and pairs it with a note that [[wiki/people/annie-ulmer|Annie]]'s love for her grandmother-in-law-to-be had "been given freely." He sends Dan a "Happy Birthday" every November without fail (2018, 2019), signs off a 2020 message "Miss and love you both. Dad/Bill," and in late 2019 helps coordinate a package delivery to Dan's NYC apartment, walking through building-entry logistics and joking about taping names to the buzzer.
+The fullest single message came early. On April 4, 2018, days after [[wiki/people/fran-coldren|Fran Coldren]]'s death, Bill sent an unprompted, lengthy condolence, calling Fran "a lady of class, friendliness to all and grace" whom he had known over 40 years, and pairing it with the note that Annie's love for her grandmother-in-law-to-be had "been given freely." The forty-year acquaintance ties Bill to the Coldren line independently of Annie — a family connection older than the relationship that brought him into Dan's record. He sent Dan a "Happy Birthday" every November without fail (2018, 2019), and by 2020 was signing off "Miss and love you both. Dad/Bill" — Dan addressed as family in Bill's own words.
 
-A recurring thread through 2018 is [[wiki/interests/golf]]: Bill asks about tee-time deals at NWL (New Wall/local club terminology) courses, references Dan caddying, and treats it as ordinary shared interest rather than small talk.
+Around those fixed points the thread is ordinary in the best sense. Through 2018 a recurring golf thread runs between them — tee-time deals at NWL courses, references to Dan caddying — treated as shared interest rather than small talk; Dan participated in it as a peer, the one Ulmer-family activity in the corpus where he appears in that role. In late 2019 Bill helped coordinate a package delivery to Dan's New York apartment, walking through building-entry logistics and joking about taping names to the buzzer.
 
-## Corpus Dimensions
+The record then stops. No message after June 2, 2020 appears in the corpus, and the thread's silence is total rather than tapering. Whether contact continued past that point — on another handle, in another medium — and whether the tie would have survived the eventual end of the Dan–Annie relationship, the corpus does not say. The contrast inside the same family is sharp and is stated here as a limit of the record rather than a finding about Bill: his wife [[wiki/people/ellen-ulmer|Ellen Ulmer]]'s thread runs from 2017 to 2025 and beyond, still sending birthday wishes years after Bill's channel closes, while the father's goes dark six years before the terminal rupture it therefore never had to survive or fail.
 
-| Metric | Value |
-|--------|-------|
-| Messages | 58 |
-| Date range | 2017-04-22 to 2020-06-02 |
-| Direction | Unreliable in this export (marked "Received" throughout) — read as mostly one-way (Bill to Dan) |
-| Handle | +17249840793 |
+Two limits bound everything above. Direction in the export is marked "Received" throughout and is unreliable; the thread reads as mostly one-way, Bill to Dan, and may hide a Dan side the export never captured. And the 58-message count with its quoted passages is verified against the prior wiki, the stated source export not being held in this repository — moderate confidence for that reason alone (`dat:0251`). Bill's phone handle is withheld here under the corpus redaction convention. A separate 2018 thread with a caddying peer also named Bill — a pharmaceuticals conversation of 38 held messages — has been rigorously disambiguated from Bill Ulmer and belongs to a different man (`dat:0119`); nothing from it is used on this page.
 
-## Related
+## See also
 
-[[wiki/people/annie-ulmer]] · [[wiki/people/ellen-ulmer]] · [[wiki/timeline/events/fran-death-vigil]] · [[wiki/self/message-corpora/master-message-dump]]
+- [[wiki/people/annie-ulmer|Annie Ulmer]]
+- [[wiki/people/ellen-ulmer|Ellen Ulmer]]
+- [[wiki/people/claire-ulmer|Claire Ulmer-Gates]]
+- [[wiki/timeline/events/fran-death-vigil|Fran death vigil]]
 
+## References
 
-
-
-## Gaps
-
-No message after June 2020 appears in the corpus; whether contact continued past that point, and whether it survived the eventual end of the Dan/Annie relationship, is undocumented.
+- kb/entities/bill-ulmer.md
+- kb/data/0251-bill-ulmer-thread.md
+- kb/data/0119-bill-golf-pharma-customer-thread-corroborated.md
