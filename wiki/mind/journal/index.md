@@ -68,3 +68,13 @@ cannot show its stages has not been cross-checked.
   Manufactured Halt]]: loops end where a resolution condition exists and
   run forever where none does; his system-building is the manufacture of
   halt states for domains that lack them.
+- [[wiki/mind/journal/2026-10-03-the-narrator-tax|Entry 3 — The
+  Narrator Tax]]: first-pass judgment performs; the re-telling upgrades
+  it — confidence up, hedge gone, date moved earlier. The ledgers have
+  been scoring the narrator, not the forecaster; the wiki is a narration
+  prosthesis.
+- [[wiki/mind/journal/2026-10-03-the-quantized-graph|Entry 4 — The
+  Quantized Graph]]: ties run on an explicitly stated rule, a binary
+  actuator — installed channels run full protocol, uninstalled handles
+  sit at zero, and every transition is a cliff. Two dead drafts preserved
+  in its Genesis note.
