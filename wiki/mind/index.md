@@ -4,7 +4,7 @@ page_type: index
 title: "Mind — Beliefs, Ideology, Psychology, Values"
 status: active
 date_created: 2026-07-11
-date_modified: 2026-09-13
+date_modified: 2026-10-03
 tags: [personality-profile, ideology, politics, forensic-analysis]
 connections:
   - page: wiki/mind/profile/index
@@ -16,6 +16,9 @@ connections:
   - page: wiki/mind/psychosexual/index
     type: contains
     claim: "The psychosexual cluster: arrangement history, scenario ratings, orchestration."
+  - page: wiki/mind/journal/index
+    type: contains
+    claim: "The Idea Journal (opened 2026-10-03): dated theories about how Dan's cognition operates, each generated in isolation and gated against the weighted profile before it stands." 
 ---
 
 # Mind — Beliefs, Ideology, Psychology, Values
@@ -185,6 +188,10 @@ does not have to excavate it.
 
 - [[wiki/mind/politics/index|Politics — Hub]] — the cluster hub; opened 2026-08-10 as a door into material on democratic socialism, vertical-authority skepticism, and the Cato seat.
 - [[wiki/mind/politics/axioms|Axioms]] — two axiom layers: the four core axioms (May–June 2026 formulation, dossier-mediated, no corpus corroboration) and the power axiom (his document, his reading list — the better-evidenced of the two). Rebuilt 2026-09-13. (Tier 3 and Tier 1, respectively.)
+
+## Idea Journal — the dated theories [new — 2026-10-03]
+
+- [[wiki/mind/journal/index|Idea Journal]] — four new theories a day about how Dan's brain operates, each built from a cluster of the corpus read together, each generated in an isolated pass, and each required to survive the weighted profile before it stands. Entries carry their stage records (profile prior, theory, evidence, rivals, confidence gate, falsifier); dead theses are preserved in their Genesis sections, not patched. First entries: [[wiki/mind/journal/2026-10-03-the-open-set|The Open Set]] and [[wiki/mind/journal/2026-10-03-the-manufactured-halt|The Manufactured Halt]] (both 2026-10-03).
 
 ## Dead ends, marked
 
