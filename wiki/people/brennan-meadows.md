@@ -1,41 +1,52 @@
 ---
 domain: people
 page_type: entity
+title: "Brennan Meadows"
+aliases: ["Brennan Meadows"]
+tier: incidental
 status: closed
+knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-07-14
+date_modified: 2026-10-03
 date_range_start: 2016-02-07
 date_range_end: 2016-04-19
-sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
-related: ["wiki/self/message-corpora/master-message-dump", "wiki/mind/concepts/contact-gini"]
-tags: [addiction-recovery, financial-stress, digital-footprint]
-knowledge: mixed
 infobox:
   name: "Brennan Meadows"
-  relationship_to_dan: unknown
+  status: "Closed — thread fades after 2016-04-19"
+  type: "Message contact, early 2016"
+  known_for: "Brief early-2016 contact mixing small-scale Suboxone sourcing with a $20-for-$30 loan request"
+  relationship_to_dan: "Brief contact"
   first_contact: 2016-02-07
-  known_for: "A brief early-2016 contact (+17243227262, 28 messages, Feb–Apr) whose thread mixes small-scale suboxone sourcing ('Did y"
+sources:
+  - kb/data/0253-brennan-meadows-2016-contact.md
+connections:
+  - page: wiki/mind/concepts/contact-gini
+    type: part-of
+    claim: "The 28-message, ten-week thread is an instance of the short, transactional contacts that populate the low end of Dan's contact distribution."
+tags: [addiction-recovery, financial-stress, digital-footprint]
+importance: 2
+changelog:
+  - "2026-10-03: Restructured to canonical template v1; expanded from corpus"
 ---
 
 # Brennan Meadows
 
-A brief early-2016 contact (`+17243227262`, 28 messages, Feb–Apr) whose thread mixes small-scale suboxone sourcing ("Did you ever find subs") with a small personal loan request. Brennan says he found a source willing to sell "a half" and asks Dan to lend him $20 to be repaid $30 on the following Wednesday's paycheck, mentioning a possible tax-refund windfall as a backup repayment plan. A later message asks if Dan would want to buy part of a sub strip. The thread fades after mid-February with only a single unanswered "What's up what are you doing" in April.
+> **Incidental entry** — a 28-message, ten-week contact; complete at this size because the thread is the whole record and the person is otherwise unattested.
 
-## Corpus Dimensions
+Brennan Meadows is a brief contact from early 2016. The thread holds 28 messages between February 7 and April 19, 2016, and mixes two small transactions: Suboxone sourcing and a personal loan request (dat:0253).
 
-| Metric | Value |
-|--------|-------|
-| Messages | 28 |
-| Date range | 2016-02-07 to 2016-04-19 |
-| Direction | Unreliable in this export (marked "Received" throughout) — read as one-way (Brennan to Dan) |
-| Handle | +17243227262 |
+## The thread
 
-## Gaps
+The sourcing runs in both directions at small scale. Brennan asks "Did you ever find subs," reports finding a source willing to sell "a half," and later asks if Dan would want to buy part of a Suboxone strip. The loan ask is specific: Brennan asks Dan to lend him $20, to be repaid $30 on the following Wednesday's paycheck, with a possible tax-refund windfall mentioned as a backup repayment plan (dat:0253).
 
-No contacts.csv match and no further mentions elsewhere in the corpus; identity beyond the name is unconfirmed.
+The thread fades after mid-February. Its last entry is a single "What's up what are you doing" in April, which goes unanswered in the record. No later contact is documented.
 
-## Related
+Limits: there is no contacts.csv match for this name and no further mention anywhere else in the corpus; identity beyond the name is unconfirmed, and the name itself is the export's label rather than a confirmed identity. The phone handle is not reproduced here.
 
-[[wiki/self/message-corpora/master-message-dump]] · [[wiki/mind/concepts/contact-gini]]
+## See also
 
+- [[wiki/mind/concepts/contact-gini|Contact Gini]]
 
+## References
+
+- kb/data/0253-brennan-meadows-2016-contact.md

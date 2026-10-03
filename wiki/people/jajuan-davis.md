@@ -1,41 +1,62 @@
 ---
 domain: people
 page_type: entity
+title: "Jajuan Davis"
+aliases: ["Jajuan Davis"]
+tier: incidental
 status: closed
+knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-07-14
+date_modified: 2026-10-03
 date_range_start: 2018-11-29
 date_range_end: 2019-02-18
-sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
-related: ["wiki/timeline/periods/2018-deep-cycle", "wiki/people/johnny-dealer", "wiki/self/message-corpora/master-message-dump"]
-tags: [addiction-recovery, financial-stress, uniontown-era]
-knowledge: derived
 infobox:
   name: "Jajuan Davis"
-  relationship_to_dan: unknown
+  status: "Closed — thread ends 2019-02-18"
+  type: "Message contact, 2018–2019 winter"
+  known_for: "High-frequency, purely transactional dealer contact over the 2018–2019 winter; 328-row two-way thread ending in an unresolved debt dispute"
+  relationship_to_dan: "Transactional contact"
   first_contact: 2018-11-29
-  known_for: "A high-frequency, purely transactional dealer relationship over the 2018–2019 winter (+17243233522, 157 messages, Nov 29"
+sources:
+  - kb/data/0717-jajuan-davis-157-inbound-two-way.md
+  - kb/data/0718-jajuan-davis-debt-amounts-and-close-verified.md
+  - raw/imessage/messages-part1-2011-2019.csv
+connections:
+  - page: wiki/people/johnny-dealer
+    type: part-of
+    claim: "Jajuan Davis was one of two active dealer contacts from the 2018–2019 winter period, alongside Johnny."
+  - page: wiki/timeline/periods/2018-deep-cycle
+    type: part-of
+    claim: "The November 2018 – February 2019 thread sits inside the 2018 deep-cycle period."
+tags: [addiction-recovery, financial-stress, uniontown-era]
+importance: 3
+changelog:
+  - "2026-10-03: Restructured to canonical template v1; expanded from corpus"
 ---
 
 # Jajuan Davis
 
-A high-frequency, purely transactional dealer relationship over the 2018–2019 winter (`+17243233522`, 157 messages, Nov 29, 2018 – Feb 18, 2019) — the second active dealer contact from that period alongside [[wiki/people/johnny-dealer|Johnny]]. The thread has almost no personal texture: near-daily one-word confirmations ("Yup"), location pings, and dollar amounts (95, 276, 325, 380) tracked back and forth as running debt. It ends on a sour note, with the contact accusing Dan of being lied to about a payment and demanding money owed: "No I didnt she lied 2 u n yes u owe me money... Man stop playn."
+> **Incidental entry** — a closed, single-thread transactional contact; complete at this size because the record is one message thread and nothing else.
 
-## Corpus Dimensions
+Jajuan Davis is a contact from the winter of 2018–2019, one of two active dealer contacts from that period alongside [[wiki/people/johnny-dealer|Johnny]]. The held thread runs from November 29, 2018 to February 18, 2019 in local time, and contains 328 rows — 157 inbound and 171 outbound (dat:0717). The relationship was two-way throughout, with Dan's outbound rows interleaving from the first week, but two-way in logistics only: the rows are money and location coordination, not conversation.
 
-| Metric | Value |
-|--------|-------|
-| Messages | 157 |
-| Date range | 2018-11-29 to 2019-02-18 |
-| Direction | Unreliable in this export (marked "Received" throughout) — read as one-way (Jajuan to Dan) |
-| Handle | +17243233522 |
+## The thread
 
-## Gaps
+The thread has almost no personal texture. It is near-daily one-word confirmations ("Yup"), location pings, and dollar amounts tracked back and forth as a running balance. The amounts that verify verbatim in the inbound rows are "380" (December 2, 2018), "Yup u owe 95" (December 7, 2018), and, on February 17, 2019, "I need that 325" followed by "It's cool u owe 276" (dat:0718).
 
-No contacts.csv match; identity beyond the page's filename is unconfirmed.
+## The close
 
-## Related
+The thread ends on February 18, 2019 with the debt still open. Jajuan wrote "No I didnt she lied 2 u n yes u owe me money"; Dan replied "That's even" and "I have security cameras all / Over my house she ain't lie lol"; Jajuan's final inbound line was "Man stop playn" (dat:0718). The substance is unchanged across the whole thread: the balance survives to the last row, unresolved. No later contact is documented.
 
-[[wiki/timeline/periods/2018-deep-cycle]] · [[wiki/people/johnny-dealer]] · [[wiki/self/message-corpora/master-message-dump]]
+Limits: no contacts.csv match exists for this name, and identity beyond the thread's own label is unconfirmed. The phone handle is not reproduced here.
 
+## See also
 
+- [[wiki/people/johnny-dealer|Johnny]]
+- [[wiki/timeline/periods/2018-deep-cycle|2018 deep cycle]]
+
+## References
+
+- kb/data/0717-jajuan-davis-157-inbound-two-way.md
+- kb/data/0718-jajuan-davis-debt-amounts-and-close-verified.md
+- raw/imessage/messages-part1-2011-2019.csv

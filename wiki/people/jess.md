@@ -1,41 +1,54 @@
 ---
 domain: people
 page_type: entity
+title: "Jess"
+aliases: ["Jess (from Fem)", "Jess"]
+tier: incidental
 status: closed
+knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-07-14
+date_modified: 2026-10-03
 date_range_start: 2017-04-20
 date_range_end: 2017-07-02
-sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
-related: ["wiki/self/message-corpora/master-message-dump", "wiki/mind/concepts/contact-gini"]
-tags: [relationships, digital-footprint]
-knowledge: mixed
 infobox:
   name: "Jess"
-  relationship_to_dan: unknown
+  status: "Closed — thread tapers out by 2017-07-02"
+  type: "Message contact, spring 2017"
+  known_for: "Introduced herself on 2017-04-20 as part of a swinging couple recruiting through a group or platform called 'Fem'; the arrangement never converted"
+  relationship_to_dan: "Brief contact"
   first_contact: 2017-04-20
-  known_for: "Jess introduces herself April 20, 2017 as part of a swinging couple recruiting through a group or platform called 'Fem' "
+sources:
+  - kb/data/0719-jess-fem-thread-two-way.md
+  - raw/imessage/messages-part1-2011-2019.csv
+connections:
+  - page: wiki/mind/concepts/contact-gini
+    type: part-of
+    claim: "The 74-row thread that opens densely and trails off within ten weeks is an instance of the short, non-converting contacts in Dan's contact distribution."
+tags: [relationships, digital-footprint]
+importance: 2
+changelog:
+  - "2026-10-03: Restructured to canonical template v1; expanded from corpus"
 ---
 
-# Jess (from "Fem")
+# Jess
 
-Jess introduces herself April 20, 2017 as part of a swinging couple recruiting through a group or platform called "Fem" (`+13042793075`, 36 messages, April–July 2017), opening with photos and an explicit vetting conversation about her partner Mike — his size, whether he's "a problem," and whether Dan and any partner would want to meet the couple, who describe themselves as usually bringing in a woman rather than another man. The opening exchange is dense (April 20 alone) but the interest doesn't convert: after one intensive day of messaging, contact drops to occasional "hey" check-ins with no further logistics discussed, tapering out by early July.
+> **Incidental entry** — one non-converting 2017 thread, identified only by a first name; complete at this size because the thread is the whole record.
 
-## Corpus Dimensions
+Jess introduces herself on April 20, 2017 with the opener "This is Jess from Fem," identifying as part of a swinging couple recruiting through a group or platform called "Fem" (dat:0719). The held thread contains 74 rows — 36 inbound and 38 outbound — spanning April 20 to July 2, 2017, so the exchange was two-way logistics from the start.
 
-| Metric | Value |
-|--------|-------|
-| Messages | 36 |
-| Date range | 2017-04-20 to 2017-07-02 |
-| Direction | Unreliable in this export (marked "Received" throughout) — read as one-way (Jess to Dan) |
-| Handle | +13042793075 |
+## The thread
 
-## Gaps
+The opening exchange, on April 20 alone, is dense: photos, and an explicit vetting conversation about her partner Mike — "Mike is big is that going to be a problem?", "Is there a pic I can show mike?", and the couple's usual pattern, "we bring a girl or two in" (dat:0719). The questions run both ways; Dan's outbound half negotiates the same arrangement back.
 
-Last name and any resolution (a meeting, or a decline) are undocumented — the thread simply cools off.
+The interest does not convert. After that one intensive day, contact drops to occasional "hey" check-ins with no further logistics discussed, tapering out by early July. No row in the thread confirms a meeting, and no resolution — a meeting or a decline — is documented.
 
-## Related
+Limits: Jess's last name is unknown, and she appears nowhere else in the record. The phone handle is not reproduced here.
 
-[[wiki/self/message-corpora/master-message-dump]] · [[wiki/mind/concepts/contact-gini]]
+## See also
 
+- [[wiki/mind/concepts/contact-gini|Contact Gini]]
 
+## References
+
+- kb/data/0719-jess-fem-thread-two-way.md
+- raw/imessage/messages-part1-2011-2019.csv
