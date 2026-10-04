@@ -54,6 +54,9 @@ connections:
   - page: wiki/mind/synthesis/kristin-channel
     type: evidences
     claim: "The audit's canonical Annie baseline - 129 declarations, 100% re-engagement, 36-second median - evidences the Kristin channel's original control-case contrast, the severance that appeared to stay shut."
+  - page: wiki/mind/synthesis/annie-decade-synthesis
+    type: parallels
+    claim: "The Annie Decade is the tenure frame inside which this audit's 129-declaration count and its stated method sit."
   - { target: "[[wiki/mind/synthesis/witness-channel-declarations]]", type: corroborates, claim: "The filed-export counts are the evidentiary floor beneath the witness-channel anatomy: the declarations this audit counts are the same ones the witness entry sorts into channel claims versus performance." }
 ---
 

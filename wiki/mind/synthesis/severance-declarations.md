@@ -74,6 +74,9 @@ connections:
   - page: wiki/mind/synthesis/transfer-comparative-2015-2026
     type: evidences
     claim: "The severance-declaration series evidences the transfer machinery's timing, from the 1 December 2015 founding 'just you and me' message after Alexis's eviction to repeated declarations over eleven years."
+  - page: wiki/mind/synthesis/annie-decade-synthesis
+    type: parallels
+    claim: "The Annie Decade supplies the tenure frame that makes these 129 declarations a measured exit idiom rather than isolated goodbyes."
 changelog:
   - 2026-10-03: Restructured to canonical template v1
 ---

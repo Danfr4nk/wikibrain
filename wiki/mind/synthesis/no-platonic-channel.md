@@ -6,7 +6,7 @@ aliases: ["the conversion default", "friendship as an opening move", "no lateral
 status: active
 knowledge: earned
 date_created: 2026-08-28
-date_modified: 2026-08-28
+date_modified: 2026-10-04
 sources: []
 synthesizes:
   - wiki/people/ally-lubin
@@ -48,6 +48,12 @@ connections:
     type: instance-of
     claim: "The corpus's one lastingly platonic close female friendship is an edge case rather than a counter-instance: every documented year of the relationship's active NYC-1 closeness (2010-2011) predates Jamie's 2023 transition, so the friendship was formed and sustained between two men, and this page's rule was never actually tested against her as a woman."
   - { target: "[[wiki/mind/synthesis/attachment-trauma-bond]]", type: extends, claim: "The Ally channel this page reads as the conversion-default's cleanest case is the attachment-bond page's pathological control — symmetric self-indictment on both sides in 2019 — so the two pages read the same 18-year record at mechanism level rather than disputing it." }
+  - page: wiki/mind/synthesis/provision-failure-modes
+    type: parallels
+    claim: "This page's entry-level evidence — the $25 paid introduction to Ally Lubin and roughly $2,000 sent against photographs — is the bottom of the provision ladder Provision Failure Modes formalizes."
+  - page: wiki/mind/synthesis/the-serial-monogamist
+    type: parallels
+    claim: "The Serial Monogamist supplies the occupancy frame: seventeen years continuously bonded, so the engineered Ally friendship of 2018–19 was built alongside a live bond, not in a vacancy."
   - { target: "[[wiki/mind/synthesis/block-unblock-loop]]", type: references, claim: "The 129-episode severance-declaration analysis is this page's Dan-Annie counterpoint: inside chosen bonds the declarations perform and the re-engagement is the fact — the overture default documented here and the non-exit default documented there are two faces of one non-deleting architecture." }
 ---
 

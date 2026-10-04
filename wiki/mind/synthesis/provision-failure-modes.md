@@ -39,6 +39,9 @@ connections:
   - page: wiki/mind/synthesis/money-and-estate-synthesis
     type: component-of
     claim: "Provision-failure-modes is a component of the money-and-estate synthesis: the expanded failure list for the Annie, Ally, and Suz transfer channels whose inflows and drains the money synthesis tracks."
+  - page: wiki/mind/synthesis/no-platonic-channel
+    type: evidences
+    claim: "No Platonic Channel supplies two of this grammar's smallest denominations: a $25 introduction purchase and $2,000 sent against photographs inside an engineered friendship."
 tags: [financial-stress, attachment, forensic-analysis, relationships]
 importance: 4
 synthesizes:

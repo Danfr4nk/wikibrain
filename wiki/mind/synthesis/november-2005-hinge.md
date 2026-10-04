@@ -5,7 +5,7 @@ page_type: synthesis
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - src:operator-testimony-cato-dossiers — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:testimony-events-t011 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -79,6 +79,9 @@ connections:
   - { target: "[[wiki/people/fran-coldren]]", type: contextualizes, claim: "The Fran counter-case: the one axiom-proof relationship Dan names his biggest influence is the evidence the hinge's axioms have to absorb rather than explain away." }
   - { target: "[[wiki/people/jay-lauer]]", type: references, claim: "Jay Lauer's November 2007 overdose death, told to Rick in Las Vegas the same night the 2005 retelling detonated the trip, is the hinge's second act — the date the addiction narrative became undeniable." }
   - { target: "[[wiki/places/seven-springs]]", type: references, claim: "The Seven Springs ski crew is the pre-history the hinge will not contain: Dan's first drug-exposure cohort, active before the hinge and independent of it." }
+  - page: wiki/mind/synthesis/family-system-synthesis
+    type: parallels
+    claim: "The Frank Family System maps the structure this hinge created: the parental contact poles that still organize Dan's family record twenty years on."
   - { target: "[[wiki/places/337-saratoga-drive]]", type: contextualizes, claim: "The rupture's location: the person who lived inside 337 Saratoga Drive through it was eleven years old." }
 ---
 

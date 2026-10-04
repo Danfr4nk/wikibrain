@@ -6,7 +6,7 @@ aliases: ["one channel at maximum voltage", "no failover", "concentration archit
 status: active
 knowledge: earned
 date_created: 2026-08-01
-date_modified: 2026-09-04
+date_modified: 2026-10-04
 sources:
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -69,6 +69,9 @@ connections:
     claim: "The sx-dominant, social-instinct-absent stack this page inherits one hop removed through the-unbroken-bond ('organises life around one relationship at maximum voltage, not many') is the mechanism this page has been resting the relational leg on without ever citing it directly or carrying forward its own live CONTRADICTION — the only first-person self-typing in the record gives 5w6sx, not the 5w4sx this stack is named for."
   - { target: "[[wiki/mind/synthesis/the-commissioned-self]]", type: references, claim: "The commissioned-self census is the self-measurement machinery behind the channel thesis." }
   - { target: "[[wiki/mind/synthesis/instrument-is-subject]]", type: references, claim: "Read as a test case for the instrument-is-subject standard: the author's own attachment measured, not narrated." }
+  - page: wiki/mind/synthesis/intensity-is-no-longer-the-only-mode
+    type: parallels
+    claim: "Intensity Is No Longer the Only Mode reports the configuration this model does not produce: a second channel sustained at low intensity while the first is closed by verdict."
 
 ---
 

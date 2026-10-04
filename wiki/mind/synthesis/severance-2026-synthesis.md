@@ -67,6 +67,12 @@ connections:
   - page: wiki/mind/synthesis/witness-lexicon-split
     type: extends
     claim: "The 2026 severance synthesis extends that lexical finding to system scale, reading the same Annie severance year by its base rate of 129 episodes, its 120-day horizon, its channels and its retracted August premise."
+  - page: wiki/mind/synthesis/kristin-channel
+    type: parallels
+    claim: "The Kristin channel is the control case alongside this year's system: the severance that stayed shut for eight months while the Annie bond produced two dated ruptures and a scheduled re-check."
+  - page: wiki/mind/synthesis/severance-language-atlas
+    type: parallels
+    claim: "The Severance-Language Atlas shows the grammar behind this year's two ruptures is system-wide as vocabulary and dyad-concentrated as performance."
 tags: [annie-ulmer, severance, experiment, falsification, forensic-analysis]
 importance: 5
 synthesizes:

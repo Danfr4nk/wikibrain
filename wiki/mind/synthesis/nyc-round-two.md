@@ -64,6 +64,9 @@ connections:
   - page: wiki/mind/synthesis/annie-decade-synthesis
     type: component-of
     claim: "NYC's second era is a component of the Annie decade: six years of the relationship's last long form inside the 2015-2026, 97,768-message record."
+  - page: wiki/mind/synthesis/libby-era-engagement-verdict
+    type: parallels
+    claim: "The Libby-Era Engagement Verdict adjudicates the disengagement claim inside this era's last long form of the Annie relationship."
     claim: "GRIPNOTIC was developed in the Uniontown basement years immediately before this era and reactivated after it; the era itself is the producer-dormancy window — the shed absorbed the obsession slot."
 ---
 

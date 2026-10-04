@@ -71,6 +71,15 @@ connections:
   - page: wiki/mind/concepts/contact-gini
     type: parallels
     claim: "The severance-language atlas parallels Contact Gini from the declaration side: its per-handle table finds 104 outbound Annie-dyad episodes at 100% resumption, the same Annie-channel concentration the volume metric measures in messages."
+  - page: wiki/mind/synthesis/kristin-channel
+    type: evidenced-by
+    claim: "Kristin's December 9, 2025 block is one of only two inbound severance signals in this atlas's 503-handle table that ever enacted — the cases where the counterparty stopped needing the channel."
+  - page: wiki/mind/synthesis/severance-2026-synthesis
+    type: parallels
+    claim: "The 2026 Severance is that grammar given a research design: two dated ruptures, a horizon date set 120 days out, and a scheduled re-check."
+  - page: wiki/mind/synthesis/transfer-comparative-2015-2026
+    type: parallels
+    claim: "The Transfer Comparative runs that grammar as a controlled comparison: the same transfer template in 2015 and 2026, completed once and failed once."
   - { target: "[[wiki/mind/synthesis/witness-channel-declarations]]", type: contextualizes, claim: "The atlas's Ally-channel 'blocked her' rows are the language evidence the witness-channel entry's claim-by-claim anatomy is built from: declarations about a toggle that was never thrown." }
 ---
 

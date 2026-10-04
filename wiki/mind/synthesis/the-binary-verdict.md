@@ -84,6 +84,12 @@ connections:
     claim: "The 'personal failure' reading that page's own Consequences section rejects is Core Axiom 1's worth-binary applied to a family return — exceptional or worthless, no middle state — and that page's genealogical reframing is a rare documented case of escaping the binary by changing category (inherited pattern, not personal verdict) rather than by arguing for a graded middle value the architecture does not have."
   - { target: "[[wiki/mind/synthesis/dormancy-not-exit]]", type: references, claim: "The dormancy record is the negative-space case for the binary verdict: declared exits the behavior never executed." }
   - { target: "[[wiki/mind/synthesis/intake-constancy]]", type: extends, claim: "The intake constancy extends the binary thesis from values to behavior: the digging workflow admits no middle state either." }
+  - page: wiki/mind/synthesis/closing-the-set
+    type: parallels
+    claim: "Closing the Set shows this two-state output outside judgment proper: 2,016 curated entries whose sets terminate closed or keep running open."
+  - page: wiki/mind/synthesis/conspiracy-worldview
+    type: parallels
+    claim: "Conspiracy Worldview logs 33 verdicts from a single sitting: mostly believe/reject poles, with an agnostic residue this page's binary model has to explain."
 
   - page: wiki/mind/journal/2026-10-04-the-one-way-valve
     type: tested-against
