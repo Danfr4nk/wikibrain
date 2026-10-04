@@ -3345,7 +3345,7 @@ completed it herself: *"No dan I’m not"* / *"I do want to be."* The
 direct-answer catalog the operator insisted was in the record is in the
 record: *"I am not fucking done I do not want to be done"* (2025-08-11);
 *"No dan / I am / Not"* (2025-08-23, to his plea for "a yes or no
-answer"); *"No."* (2025-08-27, fourteen seconds after *"So are you done
+answer"); *"No."* (2025-08-27, twenty-four seconds after *"So are you done
 with me or not"*); *"No I am not done"* (2026-04-02). And its
 counter-exhibit: *"ARE YOU DONE WITH US OR NOT"* (2025-11-28) went
 unanswered — she replied, three minutes later, about lunch. The answers
