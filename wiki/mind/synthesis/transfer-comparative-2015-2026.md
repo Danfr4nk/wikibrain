@@ -63,6 +63,9 @@ connections:
   - page: wiki/mind/synthesis/severance-declarations
     type: evidenced-by
     claim: "The transfer comparison's 2026 attempt, with a successor sourced nineteen hours and thirty-eight minutes after a severance declaration, is anchored in the declaration record catalogued across 129 episodes."
+  - page: wiki/mind/synthesis/severance-language-atlas
+    type: parallels
+    claim: "The Severance-Language Atlas supplies the grammar both transfers were declared in: 129 dyad episodes, system-wide as vocabulary, dyad-concentrated as performance."
     claim: "That page's incompatibility finding — her precondition is proximity and knowledge, his operating condition is inaccessibility — is this entry's structural explanation for why the 2026 successor could not complete even had she answered: the stated price, paid in full, would terminate the channel's operating condition."
 ---
 

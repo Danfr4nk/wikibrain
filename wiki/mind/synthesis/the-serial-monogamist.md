@@ -45,6 +45,9 @@ connections:
     claim: "The one document in the corpus where Dan states what actually attracts him — the 2026 love letter's line about spotting slang and memes months early — describes a quality he prices and pursues, not a felt type, and it sits beside a specification-grade 'ideal face' document from the same person, which this page reads as one habit rather than two."
   - page: wiki/mind/synthesis/vacancy-rule
     type: parallels
+  - page: wiki/mind/synthesis/no-platonic-channel
+    type: parallels
+    claim: "No Platonic Channel documents the successor pipeline before a transfer: sustained ties carrying overtures, sourced while the incumbent bond still runs."
     claim: "The vacancy-rule page is this page's structural complement: it measures the slot the serial-monogamist pattern keeps filled — vacancy durations, sourcing before vacancy, activation speeds — supplying the ledger underneath this page's transfer-not-exit reading."
 ---
 

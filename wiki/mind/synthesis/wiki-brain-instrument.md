@@ -44,6 +44,9 @@ connections:
   - page: wiki/mind/synthesis/operator-threat-model
     type: cites
     claim: "The operator threat model names the failure mode this instrument is built against: confident error produced by corpus holes the output does not announce — the layered, append-only architecture is the structural answer to that pattern."
+  - page: wiki/mind/synthesis/evidence-discipline
+    type: parallels
+    claim: "This instrument's layered graph — raw evidence below, syntheses above — runs on the trust grading Evidence Discipline states for material that arrives unlabelled."
 tags: [meta, instrument, wiki-brain, publication, forensic-analysis]
 importance: 5
 synthesizes:

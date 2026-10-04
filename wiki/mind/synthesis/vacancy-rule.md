@@ -98,6 +98,9 @@ connections:
   - { target: "[[wiki/mind/synthesis/the-romantic]]", type: references, claim: "The June 1 burst is Transition 5's opening move — the romantic weather the failed Annie-to-Ally transfer rode in on." }
   - page: wiki/mind/synthesis/transfer-comparative-2015-2026
     type: evidences
+  - page: wiki/mind/synthesis/bond-vs-structure
+    type: evidenced-by
+    claim: "Bond vs Structure prices the mechanism under this ceiling: the slot stayed empty while every material channel was starved, and contact resumed through the cheapest one left."
     claim: "The transfer comparative draws its verdict — the 2015 transfer completed, the 2026 transfer failed — on this page's ledger of vacancy durations and sourcing evidence."
 ---
 
