@@ -13,7 +13,7 @@ sources:
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/wiki/new-wiki/wikibrain/wiki/self/chats/j6-chat.md
   - raw/wiki/new-wiki/wikibrain/wiki/self/chats/9-11-chat.md
-  - raw/wiki/new-wiki/wikibrain/wiki/self/twitter/2013.md
+  - raw/wiki/new-wiki/wikibrain/wiki/mind/synthesis/twitter-2013.md
   - raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md
   - raw/self/chatgpt-export/babbitt-shooting-psyop-debate-2025-06-15.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
