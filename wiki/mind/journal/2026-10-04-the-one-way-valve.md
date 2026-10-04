@@ -37,6 +37,9 @@ connections:
   - page: wiki/mind/concepts/prediction-markets-instrument
     type: parallels
     claim: "Market prices enter POLL WATCH as graded corroboration after the political thesis is formed, never as the premise — the valve running on an external sensor."
+  - page: wiki/mind/journal/2026-10-04-the-irreversible-channel
+    type: parallels
+    claim: "Same-day companion entry (Entry 1): prices the provision channel's retraction-cost asymmetry — transfers that cannot be un-sent. This entry prices the verdict channel's one-way gate; the two claims are separately falsifiable and neither inherits the other's gate verdict."
 ---
 
 # The One-Way Valve
@@ -81,6 +84,10 @@ Stated in profile vocabulary, at attention level only: in the held record, grade
 ## Falsifier
 
 Any one of: (1) a dated, primary-verified instance of a graded verdict sustained in his own words — a partial-worth, qualified-legitimacy, or discounted-trust judgment that persists rather than flipping (row 1's own falsifier, inherited); (2) the prospective prediction log (instrument §7.1, not yet started) showing credences routinely aimed at checkable futures and calibrating near stated values, which would kill the input-side staging by showing the numbers were forecasts all along (row 3's falsifier); (3) a POLL WATCH-style piece where a market price is the stated premise of the thesis rather than its corroboration.
+
+## Companion entry
+
+[[wiki/mind/journal/2026-10-04-the-irreversible-channel|The Irreversible Channel]] (Entry 1, same day) — the provision channel's retraction-cost asymmetry: the material-side companion to this entry's verdict-side gate.
 
 ## Genesis/cross-check note
 

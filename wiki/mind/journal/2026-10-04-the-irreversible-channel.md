@@ -34,6 +34,9 @@ connections:
   - page: wiki/mind/synthesis/high-provision-low-condolence
     type: grounded-in
     claim: "The 1.79–2.49x instrumental-generosity / 0.45x sympathy-token split is the base rate; this entry theorizes the selection pressure behind the split at the level of output reversibility."
+  - page: wiki/mind/journal/2026-10-04-the-one-way-valve
+    type: parallels
+    claim: "Same-day companion entry (Entry 2): prices the verdict channel — graded credences in, binary verdicts out. This entry prices the provision channel's retraction cost; the two claims are separately falsifiable and neither inherits the other's gate verdict."
 ---
 
 # The Irreversible Channel
@@ -88,6 +91,10 @@ One honest bound: the $119K–$123K Annie figure is operator-reported screenshot
 ## Falsifier
 
 Any one of: (a) a documented window in which transfers are reversed/refunded at declaration-like rates or latencies (routine recall of sent provision within hours, without dispute); (b) provision timing time-locked to declarations — halts during severance performances or spikes purchasing re-engagement — across a scored window, which would collapse the two channels into one; (c) a valued-bond crisis in the record in which sustained verbal consolation carries the bond while the provision channel stays silent throughout, which would break the claim that bond state is kept on the irreversible channel.
+
+## Companion entry
+
+[[wiki/mind/journal/2026-10-04-the-one-way-valve|The One-Way Valve]] (Entry 2, same day) — the verdict channel's one-way gate: graded credences in, binary verdicts out. The verdict-side companion to this entry's provision-side asymmetry.
 
 ## Genesis/cross-check note
 
