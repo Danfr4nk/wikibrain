@@ -117,3 +117,7 @@ address itself is not reproduced here) was the Rejected Gazette.
 The wiki entry `wiki/people/seth-ledonne` was corrected against this
 record on 2026-10-04; its Conflicts in the record section carries the
 dated corrections.
+
+## Addendum — 2026-10-04 (Dan, testimony)
+
+Dan confirmed tonight: **the Rejected Gazette was Seth LeDonne's own zine in high school.** This is Dan's testimony, not a corpus find — nothing in the held record names the zine's author or era. It is consistent with the thread: on 2020-06-07 Seth offered to mail Dan "my zine" and Dan supplied his mailing address in reply. Whether the zine Seth mailed *was* the Rejected Gazette is unconfirmed. Recorded here so this document's evidence basis stays honest: zine authorship = Dan's word (2026-10-04); everything else in this document = held record.
