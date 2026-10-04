@@ -7,7 +7,7 @@ tier: incidental
 status: active
 knowledge: earned
 date_created: 2026-10-03
-date_modified: 2026-10-03
+date_modified: 2026-10-04
 sources:
   - kb/data/1292-block-unblock-loop-severance-recount-129-128.md
   - kb/data/0090-block-retraction-2026-09-11.md
@@ -22,6 +22,12 @@ connections:
   - page: wiki/mind/synthesis/severance-language-atlas
     type: cites
     claim: "The atlas's per-handle declaration counts supply the corpus-wide frame: the grammar is system-wide as vocabulary, and this entry tests the narrower claim that witness channels additionally hold a private vocabulary for the severed party."
+  - page: wiki/mind/synthesis/severance-declarations
+    type: extends
+    claim: "Witness-lexicon split is the lexical layer under the declarations page's performance thesis: the declarations travel in the witness channel's vocabulary ('paw patrol', 'trashfire') while the direct channel keeps the endearment register the declarations page analyzes as the counter-grammar."
+  - page: wiki/mind/synthesis/severance-2026-synthesis
+    type: component-of
+    claim: "The witness-lexicon split is a channel-level component of the 2026 severance system: in August-September 2026 the witness channel to Ally holds 'paw patrol' and 'trashfire' for Annie, forms that appear nowhere in the eleven-year direct Annie thread."
 tags: [relationships, language, forensic-analysis]
 importance: 3
 synthesizes:

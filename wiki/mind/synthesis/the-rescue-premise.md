@@ -7,7 +7,7 @@ status: active
 knowledge: earned
 importance: critical
 date_created: 2026-08-22
-date_modified: 2026-08-28
+date_modified: 2026-10-04
 date_range_start: 2026-08-16
 date_range_end: 2026-08-22
 tags: [relationships, trauma-bond, attachment, forensic-analysis, future]
@@ -66,6 +66,9 @@ connections:
     claim: "'The system's defining property is that it cannot generate one from behavioural evidence' — this page's own account of why the severance signal must come from Annie — is Fe-inferior (10% valuing) named without being sourced: the function that would read eleven years of withdrawal as an implicit closure is too weak to do it, so the system waits on an explicit statement no other function can substitute for."
   - page: wiki/mind/synthesis/the-binary-verdict
     type: parallels
+  - page: wiki/mind/synthesis/severance-2026-synthesis
+    type: extends
+    claim: "The rescue premise extends the 2026 severance system by testing whether that differential makes external extraction viable, and finds externally supplied exits have never held because the differential is endogenous."
     claim: "The confession trap this page restates from dan-annie-fallout-verdict and attachment-trauma-bond — 'the exit was never through the verdict, it was through the door' — is the same verdict-cognition boundary case documented on both: a rescuer 'supplies neither the verdict nor the door,' which is this page's own way of saying a third party cannot substitute for the closure the cognitive stack requires and never received."
 ---
 

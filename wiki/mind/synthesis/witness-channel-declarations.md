@@ -6,7 +6,7 @@ aliases: ["the declaration needs an audience", "block claims to Ally", "the audi
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv
   - kb/data/1292-block-unblock-loop-severance-recount-129-128.md
@@ -61,6 +61,12 @@ connections:
     type: contains
     claim: "The eleven-year bond is the object of every block claim cataloged here: the 'her' of the Ally-thread claims, the 'Anne' of the group chat, the subject the declarations claim to have severed. Her page's 2026-08-19 row (06:33 clearing, 11:41 memory-deletion message, 14:53 Milo-channel close, 15:07 'Goodbye. I am blocking' — declared, not executed) is the direct-channel terminal that this entry's witness claims shadow."
   - { target: "[[wiki/mind/synthesis/bond-vs-structure]]", type: contextualizes, claim: "The witness channel is the zero-cost channel the bond-vs-structure cost ordering predicts: a block claim performed to Ally costs nothing to make and fires no channel, which is why six claims in eleven days produced zero channel movement." }
+  - page: wiki/mind/synthesis/kristin-channel
+    type: parallels
+    claim: "Witness-channel declarations addressed to Ally or a group chat while the Annie channel stayed live parallel the Kristin channel's off-direct record, where severance appeared held in the direct channel while another channel carried the break."
+  - page: wiki/mind/synthesis/severance-2026-synthesis
+    type: component-of
+    claim: "Witness-channel declarations are a component of the 2026 severance system: the other half of the declaration series, where an audience requirement changes what a declaration is for without changing whether it holds."
   - { target: "[[wiki/mind/synthesis/severance-language-atlas]]", type: extends, claim: "This entry takes the atlas's witness-channel language coding one level down: the atlas classifies the Ally-channel 'blocked her' rows, and this entry supplies the claim-by-claim anatomy of what those six claims built." }
 ---
 

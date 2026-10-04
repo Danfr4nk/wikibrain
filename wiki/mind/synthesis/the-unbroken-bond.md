@@ -56,6 +56,12 @@ connections:
     claim: "Seventeen continuous years with the unattached total measurable in weeks is the header fact behind Dan's stated theory of himself as a dater: he has almost no adult lived experience of the state — single life as an occupied interval rather than a gap between transfers — that any account of his own pattern would need to check itself against."
   - { target: "[[wiki/mind/synthesis/the-commissioned-self]]", type: contextualizes, claim: "The commissioned-self page describes the narrative machinery running this page's bond thesis." }
   - { target: "[[wiki/mind/synthesis/dance-music-only-phases]]", type: contextualizes, claim: "The fallow dance decade maps onto the Annie decade this page describes." }
+  - page: wiki/mind/synthesis/the-2025-collapse
+    type: parallels
+    claim: "The unbroken bond's continuity claim survives the 2025 collapse exactly as that page bounds it: the hinge ended the era and the cohabitation, and the bond ran another eighteen months — continuity of the slot through the biography's largest rupture."
+  - page: wiki/mind/synthesis/alias-as-periodization
+    type: parallels
+    claim: "The unbroken bond parallels alias periodization from the other side: seventeen years of continuous occupancy against four music names in thirteen years, each rename closing a period rather than changing the sound."
 
   - page: wiki/mind/synthesis/attachment-trauma-bond
     type: evidences

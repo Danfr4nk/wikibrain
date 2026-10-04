@@ -6,7 +6,7 @@ aliases: ["quantification as control", "the man with the receipts", "counting as
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - kb/data/0081-explicit-commitment-architecture.md
   - kb/data/0113-annie-personality-assessment-corpus-size-overstated.md
@@ -65,6 +65,9 @@ connections:
     type: updates
     claim: "The ledger scores the operator's first-person claims — certain 0.25, confident 0.69, hedged 0.75, Brier 0.335 — but its arithmetic is unaudited (dat:0044: testimony/events.jsonl not held). This entry updates it with the standing warning: the scoreboard counts the counter, and the counter's arithmetic has never been independently recomputed."
   - { target: "[[wiki/mind/synthesis/self-deprecation-shield]]", type: extends, claim: "The shield's accountability layer — the ledger's calibration bands — is what the scoreboard counts: the counter's own arithmetic, never independently recomputed." }
+  - page: wiki/mind/synthesis/severance-declaration-audit
+    type: evidenced-by
+    claim: "The scoreboard's 129-declaration census item is evidenced by the audit's primary-record recount of the 95,067-row Annie corpus and its retirement of the 127 dossier figure."
   - { target: "[[wiki/mind/synthesis/the-curse]]", type: references, claim: "The curse's Case 6 is the incident-level form of this entry's counting: one $50 event, worked as a case file." }
 ---
 

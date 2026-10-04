@@ -7,7 +7,7 @@ tier: major
 status: active
 knowledge: earned
 date_created: 2026-10-03
-date_modified: 2026-10-03
+date_modified: 2026-10-04
 sources:
   - kb/syntheses/wiki-brain-instrument.md
   - kb/entities/wiki-brain.md
@@ -41,6 +41,9 @@ connections:
   - page: wiki/mind/concepts/no-delete-operation
     type: cites
     claim: "The append-only archive — corrections appended, never rewritten, retractions implemented as writes — is the instrument's retention rule stated as a concept page."
+  - page: wiki/mind/synthesis/operator-threat-model
+    type: cites
+    claim: "The operator threat model names the failure mode this instrument is built against: confident error produced by corpus holes the output does not announce — the layered, append-only architecture is the structural answer to that pattern."
 tags: [meta, instrument, wiki-brain, publication, forensic-analysis]
 importance: 5
 synthesizes:

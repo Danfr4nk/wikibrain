@@ -6,7 +6,7 @@ aliases: ["transfer-comparative-2015-2026", "the two transfers", "completed vs f
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/message-csv/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -57,6 +57,12 @@ connections:
     claim: "The declaration system that page describes — positive verbal expressions functioning as absolute rules until an explicit severance signal arrives — is the instrument the 2026 transfer tried to run on and the instrument 2015 never needed: the completed transfer was enacted without declarations; the failed one was declared repeatedly and enacted never."
   - page: wiki/people/ally-lubin-cognitive-profile
     type: evidenced-by
+  - page: wiki/mind/synthesis/severance-2026-synthesis
+    type: parallels
+    claim: "This entry's 2026 half is one dated episode inside the severance-2026 system: the failed transfer is what the severance year produced when the successor channel was live but the incumbent was never displaced."
+  - page: wiki/mind/synthesis/severance-declarations
+    type: evidenced-by
+    claim: "The transfer comparison's 2026 attempt, with a successor sourced nineteen hours and thirty-eight minutes after a severance declaration, is anchored in the declaration record catalogued across 129 episodes."
     claim: "That page's incompatibility finding — her precondition is proximity and knowledge, his operating condition is inaccessibility — is this entry's structural explanation for why the 2026 successor could not complete even had she answered: the stated price, paid in full, would terminate the channel's operating condition."
 ---
 
