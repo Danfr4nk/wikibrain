@@ -6,7 +6,7 @@ aliases: ["the sincerity-vs-scale split", "love-bombing", "the weather system", 
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - src:imessage_3307038747_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:messenger_Kristin Shaelene_2025-09-01-07-53-22 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -53,6 +53,9 @@ connections:
     type: evidenced-by
     claim: "dat:0624 verifies the love-bomb exchange verbatim to the second; this entry reads the concession and its nine-minute reabsorption ('you can call me a love bomber all you want') as the style's signature move under challenge — concede the term, keep the weather."
   - { target: "[[wiki/mind/synthesis/vacancy-rule]]", type: references, claim: "The June 1 burst — a marriage proposal nineteen hours after the breakup — is the vacancy rule's Transition 5, the failed Annie-to-Ally transfer." }
+  - page: wiki/mind/synthesis/audition-dynamics
+    type: evidences
+    claim: "This declaration is one of the audition grammar's exhibits: issued days into the Kristin thread, it is the front-loaded demonstration the audition page measures across Kristin, Ally, and the Alexis-to-Annie transfer."
 ---
 
 # The Romantic

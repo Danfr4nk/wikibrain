@@ -6,7 +6,7 @@ aliases: ["audition dynamics", "demonstration then the thing itself"]
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - src:imessage_3307038747_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:messenger-kristin-ui-capture-2025-09-01 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -71,6 +71,9 @@ connections:
   - page: wiki/people/ally-lubin
     type: evidenced-by
     claim: "The entity record carries the June 1 burst text, the August 18–21 sequence, the 380-message run, and the misaddressing correction this entry's failed-audition reading rests on."
+  - page: wiki/mind/synthesis/the-romantic
+    type: evidenced-by
+    claim: "The Romantic documents the declaration the Kristin audition ran on: the September 4, 2025 sentence ('i wouldn't say i love you if i didn't mean it'), issued five days after first contact, inside this page's front-loaded demonstration window."
 ---
 
 # The Audition Grammar

@@ -173,8 +173,8 @@ The register with the longest continuity and the fewest measurements.
 | November 2007 | Las Vegas trip, age 19 — named as the point physical dependence became undeniable; the problem shifts from "how to be cool" to "how to function without getting sick" | [[wiki/health/chemical-architecture]] |
 | Winter 2008 | Heroin tried once and rejected **on aesthetic grounds** — it *"felt dirty"* | [[wiki/health/chemical-architecture]] |
 | Thanksgiving 2009 | [[wiki/people/alexis-armel|Alexis]] enters the record with **thirty Roxicet pills**; a friend, Spetch, drives Winter Park to Ocala daily to keep a supply running; continues through a Christmas trip home | `raw/people/captures/2026-08-27_222932_gap-alexis-armel.md`, via [[wiki/health/chemical-architecture]] |
-| **2010-02-17** | **Suboxone day-zero.** Same-day tweet, 15:07 New York time: *"this is the most stressful day/decision of my life. nothing is making it easier."* | [[wiki/self/twitter/2010]] |
-| within 72h | *"planning the next 3 years of my life all day in muh head"*; *"put my life on a treadmill. shape up or bust."* | [[wiki/self/twitter/2010]] |
+| **2010-02-17** | **Suboxone day-zero.** Same-day tweet, 15:07 New York time: *"this is the most stressful day/decision of my life. nothing is making it easier."* | [[wiki/mind/synthesis/twitter-2010]] |
+| within 72h | *"planning the next 3 years of my life all day in muh head"*; *"put my life on a treadmill. shape up or bust."* | [[wiki/mind/synthesis/twitter-2010]] |
 | 2013-07-10 | To [[wiki/people/elizabeth-eleanor|Elizabeth Eleanor]], a fellow recovering addict: *"i'm still on 2mg of suboxone a day, it's been almost 5 years since i touched an opiate and i'm still too terrified to get off"* — the corpus's **only** dosage figure for this register | [[wiki/health/chemical-architecture]] |
 | 2019-05-31 | *"try to go get subs from my old doctor"* | [[wiki/health/chemical-architecture]] |
 | 2025-03-06 | *"I had my doctor move my prescription here"* | [[wiki/health/chemical-architecture]] |

@@ -59,28 +59,28 @@ connections:
   - page: wiki/health/the-configured-body
     type: caused-by
     claim: "The material grievance under the ideology is on the record six months before this page's 2020-08-22 conversion date and is never quoted here: 'imagine being able to just go to the doctor or dentist when you need' and 'the doctor thing is a really big thing for me...there's no reason that 50,000 people die a year because they don't have insurance' (2020-02-07)."
-  - page: wiki/self/twitter/2009
+  - page: wiki/mind/synthesis/twitter-2009
     type: evidenced-by
     claim: "The corpus's earliest dated political self-description is a departure, not an arrival: \"i no longer consider myself a republican\" (2009-11-28), triggered by a link to people behaving badly and naming no replacement. Eleven years before the arrival this page dates, and the same mechanism as the 2022 O&A account — leaving a tribe rather than joining one."
-  - page: wiki/self/twitter/2016
+  - page: wiki/mind/synthesis/twitter-2016
     type: evidenced-by
     claim: "2016 is a step backwards from the turn, not toward it: no post on or after the election at all, DNC comments aimed at stagecraft rather than candidates, and 'I don't know much about politics but Obama is NOT a fascist' (8 December) — a disclaimer of expertise from a man who argued eight positions sharply in 2011."
-  - page: wiki/self/twitter/2017
+  - page: wiki/mind/synthesis/twitter-2017
     type: evidenced-by
     claim: "The 2017-2019 politics are anti-Trump liberal resistance rather than left: agreeing with Mitt Romney under #ImpeachTrump, weighing a Pence term as preferable. So the conversion is from liberalism, not from apathy — and the media pipeline's entry point is 2017 and comedic, via @drmistercody."
-  - page: wiki/self/twitter/2018
+  - page: wiki/mind/synthesis/twitter-2018
     type: evidenced-by
     claim: "The 2018 reading is Resistance-liberal — Fire and Fury on publication weekend, Comey's A Higher Loyalty pre-ordered and chased — and 15 February conceives Trump as a wasted vehicle for gun control, a thought available only to somebody who still believes the vehicle matters more than the direction."
-  - page: wiki/self/twitter/2019
+  - page: wiki/mind/synthesis/twitter-2019
     type: evidenced-by
     claim: "Ten months before the conversion, nothing in 57 posts mentions class, labour, healthcare or capitalism: impeachment is watched as procedural drama and he jokes about voting Cory Booker. The state immediately prior to the turn was not a partly-converted one."
-  - page: wiki/self/twitter/2020
+  - page: wiki/mind/synthesis/twitter-2020
     type: evidenced-by
     claim: "The public declaration is 2020-10-03 and it is an ultimatum — 'if 2020 hasn't made you a marxist ... you're either frighteningly uninformed or just a fucking ghoul' — but the analysis precedes the label: 15 February 2020 runs the Democratic primary as a class conflict, before any lockdown."
   - target: "[[wiki/timeline/master-timeline]]"
     type: references
     claim: "References the timeline's 2009-2020 Twitter-year entries as the dated evidence base for the four-stage sequence (read of all nineteen year pages, 2026-09-03)."
-  - page: wiki/self/twitter/2023
+  - page: wiki/mind/synthesis/twitter-2023
     type: evidenced-by
     claim: "The class content absent from 2011-2019 arrives complete on 2023-03-03 in its own vocabulary — bourgeois, class status, systemic advantages, material well-being — with the argument run psychologically: a class position explained by the fear of losing it rather than by its economic interest."
 ---
@@ -235,7 +235,7 @@ of it: the departure had already happened, twice, and 2020 is when something
 finally occupied the vacancy.
 
 **The counter-evidence, and it is real.** One tweet is one tweet. Nothing else
-on [[wiki/self/twitter/2009|`wiki/self/twitter/2009`]] is political, the page's first nine months are a
+on [[wiki/mind/synthesis/twitter-2009|`wiki/mind/synthesis/twitter-2009`]] is political, the page's first nine months are a
 fetch artefact rather than a sample (so an absence there proves nothing), and
 eleven years of no recorded political identity separate the two events. A
 disavowal at twenty-one is a common thing for a twenty-one-year-old to say and
@@ -299,7 +299,7 @@ and carries the earlier August-4 correction.
 
 ## 2011: eleven years of anti-authority with no economics in it
 
-The section above dates the exit to 2009. [[wiki/self/twitter/2011|`wiki/self/twitter/2011`]] fills in
+The section above dates the exit to 2009. [[wiki/mind/synthesis/twitter-2011|`wiki/mind/synthesis/twitter-2011`]] fills in
 what stood in the gap, and it is not a slow drift leftward.
 
 2011's eight political posts are Glenn Beck, the Iraq war budget against
@@ -330,7 +330,7 @@ contemporaneous record shows he was not among the repulsed at the time: on
 **4 July 2014**, one day after Cumia was fired over racist posts, Dan tweeted
 at him *"nothing but love and respect ant. Thanks for not selling your soul
 through this whole mess."* 2014 is spreadsheet-complete and contains nothing to
-the contrary ([[wiki/self/twitter/2014|`wiki/self/twitter/2014`]]; ledger record **t015**).
+the contrary ([[wiki/mind/synthesis/twitter-2014|`wiki/mind/synthesis/twitter-2014`]]; ledger record **t015**).
 
 The cause survives; the timing does not. **And the correction is in this
 page's favour.** The six-year gap between the split and the August 2020
@@ -357,7 +357,7 @@ which no keyword pattern can see.
 | **Democratic socialist** | 2020-08-22 → | This page. |
 
 **Where the fourth stage actually begins.** The stage boundary is not August
-2020. [[wiki/self/twitter/2020|`wiki/self/twitter/2020`]] shows the *analysis* arriving first, in the
+2020. [[wiki/mind/synthesis/twitter-2020|`wiki/mind/synthesis/twitter-2020`]] shows the *analysis* arriving first, in the
 Democratic primary: on **15 February 2020**, four months after the Booker joke
 and a month before any lockdown, he runs four posts reading Bloomberg's
 candidacy as a party-splitting instrument bought with money, cites the stop-and-

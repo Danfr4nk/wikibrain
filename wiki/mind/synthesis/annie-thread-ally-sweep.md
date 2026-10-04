@@ -34,7 +34,7 @@ connections:
   - page: wiki/mind/synthesis/single-channel
     type: updates
     claim: "The single-channel thesis (two-sided Gini 0.959–0.964, no failover) treats the 2026-08-18–19 window as its first documented counterexample. The sweep adds the disclosure asymmetry inside that window: during the two-channel test Dan named Annie to Ally 12 times (4 echoed by Ally herself) and named Ally to Annie zero times. The channels were concurrent but not symmetric — one leaked, one didn't."
-  - page: wiki/self/concepts/ally-and-dan-love-as-destiny
+  - page: wiki/mind/concepts/ally-and-dan-love-as-destiny
     type: instantiates
     claim: "The 2019-01-01 disclosure — 'this chick named ally that I know from Florida. It's a long-term play though, because it's dependent on us being in ny' — is the concept's earliest dated instance in the message record: the channel named to Annie as a conditional future while already live (Ally's first inbound predates the disclosure by 15 days)."
   - page: wiki/mind/synthesis/dormancy-not-exit

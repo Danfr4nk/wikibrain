@@ -64,7 +64,7 @@ watch history, one from Google search/activity — both land on the same
 conclusion when placed against each other: **a fixed-rate intake metabolism that
 holds flat across every variable the biography can throw at it.** This page treats
 that finding as a primary architectural fact, because it reframes three loaded
-themes elsewhere in [[wiki/self/concepts/wiki-brain|the wiki]] and it is the connective thread that makes the rest
+themes elsewhere in [[wiki/mind/concepts/wiki-brain|the wiki]] and it is the connective thread that makes the rest
 of the corpus cohere.
 
 ## The two constants

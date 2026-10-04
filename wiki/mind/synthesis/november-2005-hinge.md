@@ -548,7 +548,7 @@ structural work in:
   on this architecture, not its proof. The proof is the 1.79–2.49x /
   0.45x split and the ledgers. The axiom is demoted to frame explicitly,
   per the trait-filter rule."
-- [[wiki/self/concepts/llm]], [[wiki/self/context-core]] — carried as
+- [[wiki/mind/concepts/llm]], [[wiki/self/context-core]] — carried as
   [DOC]-grade.
 
 **Core Axiom 4 ("time = countdown")** does structural work in:
@@ -1245,7 +1245,7 @@ history (the file was created in the port). So the formulation predates
 2026-09-10 and postdates... unknown. It is not in the reachable dossier
 files and not in the pre-port git history available here. The remaining
 candidate sources: the Gemini chat exports ([[wiki/self/chats/gemini-07|gemini-07]]/13/18/21/58), the
-DANSYNTH corpus, and the pre-port [[wiki/self/concepts/wiki-brain|wiki-brain]] repo state
+DANSYNTH corpus, and the pre-port [[wiki/mind/concepts/wiki-brain|wiki-brain]] repo state
 (wiki-brain@5d1a747). Until one of those yields an attestation, the
 honest dating is: **formulated sometime before 2026-09-10, first written
 attestation in this repo 2026-09-10, original provenance undetermined** —

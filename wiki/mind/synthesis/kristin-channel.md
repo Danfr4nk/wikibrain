@@ -6,7 +6,7 @@ aliases: ["the control case that wasn't", "forty dollars", "blocks as instrument
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-20
+date_modified: 2026-10-04
 sources:
   - src:imessage_3307038747_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:messenger-kristin-ui-capture-2025-09-01 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -68,6 +68,9 @@ connections:
   - page: wiki/mind/synthesis/the-unbroken-bond
     type: parallels
     claim: "The Kristin ten weeks are the decade's only documented exception to continuous Annie occupancy that is not itself an Annie re-entanglement — which is why the channel matters out of proportion to its length."
+  - page: wiki/self/message-corpora/message-request-blind-spot
+    type: gated-by
+    claim: "The measurement doctrine extracted from this case — which zeros in a request-filtered channel are admissible and how to phrase them — lives on the blind-spot page; on measurement questions, that page governs this one."
 ---
 
 # The Control Case That Wasn't

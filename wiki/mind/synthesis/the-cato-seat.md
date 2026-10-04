@@ -281,7 +281,7 @@ keeps images of passivity." He keeps one. It is a beheading.
    entry point to it will be someone who watched rather than someone who acted.
 2. **The Ally material will be narrated from the seat.**
    [[wiki/people/ally-lubin]] and
-   [[wiki/self/concepts/ally-and-dan-love-as-destiny]] are the corpus's only
+   [[wiki/mind/concepts/ally-and-dan-love-as-destiny]] are the corpus's only
    forward-tense pages. This rule predicts that if that situation degrades, the
    record will show the degradation correctly diagnosed in advance and the
    diagnosis unaccompanied by a preventive act — and, if it does not, that is

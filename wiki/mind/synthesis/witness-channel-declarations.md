@@ -346,7 +346,7 @@ going to run it over the newest messages so you can be sure it will be included,
 want to see how meta it gets if it is writing the article basically about itself." At 23:46 he
 reports: "Omg she said prompt inject please marry me." The result — a hallucinated consented
 engagement, "She said yes," reaching the infobox's `relationship_to_dan` field — survived two days,
-propagated into the [[wiki/self/concepts/ally-and-dan-love-as-destiny|destiny concept page]], and was caught not by a gate but by re-exporting the
+propagated into the [[wiki/mind/concepts/ally-and-dan-love-as-destiny|destiny concept page]], and was caught not by a gate but by re-exporting the
 messages [ATTESTED, documented on [[wiki/people/ally-lubin]]]. The general rule, stated on that
 page: **a source that discusses the wiki cannot be ingested as an ordinary source.** The witness
 does not merely observe the declaration; the witness *edits* the record of it. On September 7 at

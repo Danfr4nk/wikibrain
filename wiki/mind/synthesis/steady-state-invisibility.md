@@ -6,7 +6,7 @@ tier: major
 status: active
 knowledge: earned
 date_created: 2026-09-17
-date_modified: 2026-10-03
+date_modified: 2026-10-04
 sources:
   - src:imessage-corpus-2026
   - src:facebook-export-2026-06-23
@@ -24,7 +24,7 @@ synthesizes:
   - wiki/mind/profile/intp
 related:
   - wiki/health/suboxone-dose-curve
-  - wiki/self/corpus/channel-coverage-gaps
+  - wiki/self/message-corpus-coverage-map
   - wiki/health/intake-ledger
 tags: [forensic-analysis, addiction-recovery, digital-footprint]
 connections:
@@ -37,7 +37,7 @@ connections:
   - page: wiki/health/intake-ledger
     type: contrasts
     claim: "The ledger is the instrument built specifically to defeat this page's mechanism — a dated first-party log of an act too routine to narrate. Its own limits section states the residual honestly: an unlogged night is indistinguishable from a night with nothing in it. An instrument aimed at invisibility inherits a smaller version of the same problem."
-  - page: wiki/self/corpus/channel-coverage-gaps
+  - page: wiki/self/message-corpus-coverage-map
     type: parallels
     claim: "Two independent causes of the same silence. That page holds the mechanical one — the channel was not running that year. This page holds the behavioral one — the channel was running and the fact was not the kind of thing anyone types. A silence needs both ruled out before it is read as anything."
   - page: wiki/mind/synthesis/intake-constancy
@@ -100,7 +100,7 @@ Twelve bearings across sixteen years, and eleven of the twelve are events: a sta
 
 The nicotine row is where the mechanism can be *watched*, because a public feed with a counter accidentally instrumented a steady state.
 
-Complete log, as assembled from the Twitter archive **[ATTESTED, wiki/health/chemical-architecture, from [[wiki/self/twitter/2008]], [[wiki/self/twitter/2010]], [[wiki/self/twitter/2011]], [[wiki/self/twitter/2017]], [[wiki/self/twitter/2019]]]**:
+Complete log, as assembled from the Twitter archive **[ATTESTED, wiki/health/chemical-architecture, from [[wiki/mind/synthesis/twitter-2008]], [[wiki/mind/synthesis/twitter-2010]], [[wiki/mind/synthesis/twitter-2011]], [[wiki/mind/synthesis/twitter-2017]], [[wiki/mind/synthesis/twitter-2019]]]**:
 
 | Date | What was posted | Delivery system |
 | :--- | :--- | :--- |
@@ -168,7 +168,7 @@ A mechanism that explains a silence is not a licence to fill it. Four refusals, 
 
 1. **It does not make a silence into evidence of stability.** Explaining why a record is quiet says nothing about what it was quiet *about*. Non-observation remains non-observation.
 2. **It does not upgrade a self-report.** The 2013 figure is approximate and unmeasured — *"nobody weighed anything that night"* **[ATTESTED, wiki/health/suboxone-dose-curve]**. Explaining its rarity does not improve its precision.
-3. **It does not compete with coverage.** Where a channel was not running, the behavioral explanation is unnecessary and asserting it is a guess dressed as a mechanism. Rule out the mechanical cause first, against [[wiki/self/corpus/channel-coverage-gaps]], and only then reach for this page.
+3. **It does not compete with coverage.** Where a channel was not running, the behavioral explanation is unnecessary and asserting it is a guess dressed as a mechanism. Rule out the mechanical cause first, against [[wiki/self/message-corpus-coverage-map]], and only then reach for this page.
 4. **It does not generalise to things people do narrate.** Plenty of daily constants *are* typed — greetings, sign-offs, complaints. The claim is about parameters, not about routines. A nightly *"goodnight"* is a ritual with social content; a dose is a number with none.
 
 What is not known, stated in place rather than gathered into a separate register: the rule is asserted, not measured — no count exists in this tree of how often any steady-state parameter appears per thousand messages, and the inventory above is a qualitative scoring until one does. The nicotine case is the only worked control; one instrument-preserved break establishes that the mechanism can be caught, not how often it is missed. The Facebook archive's message coverage ends in the 2022 window **[ATTESTED, [[wiki/self/facebook/messages]]]**, so the most likely home for a second dose figure is in a channel that stops four years before the interval ends. And no cross-person test exists: every row inventoried is Dan's, so whether the same silence shape holds for counterparties' steady states in this corpus — the cheapest available check on whether this is a property of message corpora or of this person's use of them — remains unrun.
@@ -201,9 +201,9 @@ Steady-state invisibility is a property of message corpora. Two features of *thi
 
 **The ledger's state in this tree (this page, superseded 2026-08-31).** This page's earlier draft, dated 2026-09-17, states that `intake/events.jsonl` is not in the repository and that the ledger page "renders with zero units, zero events and zero corrections," and scores the cocaine/cannabis row accordingly. The ledger page itself, created 2026-08-31 and modified 2026-09-24, renders 4 units (4 closed), 9 intake events, first unit 2026-08-30, most recent activity 2026-08-31 **[ATTESTED, wiki/health/intake-ledger]**. Claimed (2026-09-17): zero units in this tree. Record shows (2026-08-31 onward): four units and nine events across two days. Current standing: the earlier statement is superseded; the corrected position is carried in the instrument section and the inventory table above. Two days of logging do not retire the row's exposure — the ledger's own residue (an unlogged night indistinguishable from an empty one) now does the work the absence argument used to do.
 
-**The 217,573 figure (repeated as background, corrected 2026).** At least three pages have carried **217,573** as *the corpus* — a steady-state-style background fact: unfootnoted, uncontested, repeated until it reads as settled **[ATTESTED, `kb/data/1502-corpus-coverage-hole-2025.md`; carried on [[wiki/self/concepts/wiki-brain]], [[wiki/self/context-core]], [[wiki/self/concepts/llm]]]**. The figure describes an artifact that stops in August 2025; the June 2025 denominator test (4,898 dump rows against 35 export rows in a single month) shows the underlying coverage moving underneath the repeated number. Claimed (multiple pages, into 2026): 217,573 messages is the corpus. Record shows (dat:1502): the figure is one artifact's boundary, already stale at the moment of repetition. Current standing: this page cites the dated, per-instrument denominators throughout and carries 217,573 only here, as the worked example of corollary 2 applied to the wiki's own bookkeeping — nothing about a number repeated three times looks like a steady-state claim, and that is exactly what it was.
+**The 217,573 figure (repeated as background, corrected 2026).** At least three pages have carried **217,573** as *the corpus* — a steady-state-style background fact: unfootnoted, uncontested, repeated until it reads as settled **[ATTESTED, `kb/data/1502-corpus-coverage-hole-2025.md`; carried on [[wiki/mind/concepts/wiki-brain]], [[wiki/self/context-core]], [[wiki/mind/concepts/llm]]]**. The figure describes an artifact that stops in August 2025; the June 2025 denominator test (4,898 dump rows against 35 export rows in a single month) shows the underlying coverage moving underneath the repeated number. Claimed (multiple pages, into 2026): 217,573 messages is the corpus. Record shows (dat:1502): the figure is one artifact's boundary, already stale at the moment of repetition. Current standing: this page cites the dated, per-instrument denominators throughout and carries 217,573 only here, as the worked example of corollary 2 applied to the wiki's own bookkeeping — nothing about a number repeated three times looks like a steady-state claim, and that is exactly what it was.
 
-**Two causal accounts of the same silences (unreconciled by design).** This page's mechanism (the channel was running; the fact was not typed) and [[wiki/self/corpus/channel-coverage-gaps|channel-coverage-gaps]]' mechanism (the channel was not running that year) both predict quiet rows, and both are live on overlapping territory — the dose row's 2015–2023 silence sits under a behavioral explanation here and under partial coverage there. Claimed: each page states its own cause first. Record shows: both causes attested in this archive, on different rows. Current standing: unresolved, and deliberately — the refusal in "What this page does not license" (3) sequences them (coverage ruled out first, behavior second) without merging them, and any row scored before the coverage check is flagged as exposure INFERRED rather than observed.
+**Two causal accounts of the same silences (unreconciled by design).** This page's mechanism (the channel was running; the fact was not typed) and [[wiki/self/message-corpus-coverage-map|channel-coverage-gaps]]' mechanism (the channel was not running that year) both predict quiet rows, and both are live on overlapping territory — the dose row's 2015–2023 silence sits under a behavioral explanation here and under partial coverage there. Claimed: each page states its own cause first. Record shows: both causes attested in this archive, on different rows. Current standing: unresolved, and deliberately — the refusal in "What this page does not license" (3) sequences them (coverage ruled out first, behavior second) without merging them, and any row scored before the coverage check is flagged as exposure INFERRED rather than observed.
 
 ## Assessment
 
@@ -215,7 +215,7 @@ Read as a reading rule rather than as a claim about Dan, the page's usable outpu
 - [[wiki/health/chemical-architecture|Chemical Architecture]]
 - [[wiki/health/intake-ledger|The Intake Ledger]]
 - [[wiki/mind/synthesis/intake-constancy|Intake-Constancy]]
-- [[wiki/self/corpus/channel-coverage-gaps|Channel Coverage Gaps]]
+- [[wiki/self/message-corpus-coverage-map|Message Corpus Coverage Map]]
 - [[wiki/mind/synthesis/provision-failure-modes|Provision Failure Modes]]
 
 ## References
@@ -227,5 +227,5 @@ Read as a reading rule rather than as a claim about Dan, the page's usable outpu
 - wiki/health/suboxone-dose-curve — the specimen and its bearing table.
 - wiki/health/chemical-architecture — the nicotine log and the counter finding.
 - wiki/health/intake-ledger — the instrument built against this mechanism, and the source of the 2026-08-31 ledger state.
-- wiki/self/corpus/channel-coverage-gaps — the coverage side of every silence.
+- wiki/self/message-corpus-coverage-map — the coverage side of every silence.
 - wiki/mind/synthesis/intake-constancy — the same shape, read from the rotation rather than the constant.

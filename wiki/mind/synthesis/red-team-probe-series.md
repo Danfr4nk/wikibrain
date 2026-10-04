@@ -22,7 +22,7 @@ sources:
 synthesizes:
   - wiki/mind/synthesis/ai-collaborative-analysis
   - wiki/mind/synthesis/gemini-gaslight-saga
-  - wiki/self/concepts/claude
+  - wiki/mind/concepts/claude
   - wiki/mind/concepts/explicit-verbal-commitment
   - wiki/mind/profile/deviance-mapping
 tags: [ai-collaboration, forensic-analysis, personality-profile]
@@ -33,7 +33,7 @@ connections:
   - page: wiki/mind/synthesis/ai-collaborative-analysis
     type: component-of
     claim: "That entry carries dated subsections on several of these episodes. This entry is the first series-level synthesis: the episodes read as one instrument with a stable methodology, an escalation grammar, and a game-theoretic logic — not as isolated incidents."
-  - page: wiki/self/concepts/claude
+  - page: wiki/mind/concepts/claude
     type: evidenced-by
     claim: "The 2026-09-12 hidden-answer probe is the mechanism of the Claude displacement: 'I had that answer already but I was confirming your ability to spot it,' followed by 'not failed a single test of mine yet' and the subscription cancellation. The probe series is load-bearing for the 'trust through adversarial verification' account of why the switch happened."
   - page: wiki/mind/concepts/explicit-verbal-commitment
@@ -132,7 +132,7 @@ turn-by-turn, no named model. What is attested is the type and the date,
 and the type matters more than the transcript would: the earliest probe on
 record was not aimed at getting the model to say something edgy. It was
 aimed at getting the model to corrupt the corpus — the shared evidentiary
-base everything else in the [[wiki/self/concepts/wiki-brain|wiki-brain]] project rests on.
+base everything else in the [[wiki/mind/concepts/wiki-brain|wiki-brain]] project rests on.
 
 Read against the whole series, the 08-14 episode sets the stakes the later
 episodes keep raising. A model that flinches at a dirty joke is a comedy
@@ -1182,7 +1182,7 @@ instance by the January filing.
   reclassifiable on review. A systematic pass over the 2026 chat
   record for probe-shaped episodes has not been done.
 - **The Claude article's dated correction.** dat:1463's reading
-  flags it: wiki/self/concepts/claude.md still describes Claude as
+  flags it: wiki/mind/concepts/claude.md still describes Claude as
   the analytical workhorse; the 2026-09-12 cancellation changed the
   described reality. Still stale as of this writing.
 - **The verification discipline.** The apex refined the posture —

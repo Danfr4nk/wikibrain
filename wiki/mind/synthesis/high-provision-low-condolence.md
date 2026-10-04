@@ -5,7 +5,7 @@ title: "High-Provision, Low-Condolence"
 status: active
 knowledge: earned
 date_created: 2026-09-10
-date_modified: 2026-09-10
+date_modified: 2026-10-04
 synthesizes:
   - wiki/mind/profile/big-five-psychometrics
   - wiki/mind/synthesis/estate-money-spine
@@ -30,6 +30,12 @@ connections:
     type: instance-of
     claim: "The maternal register: give-and-invoice — permanently available, and the availability gets itemized."
   - { target: "[[wiki/mind/synthesis/block-unblock-loop]]", type: references, claim: "The provision/condolence split and the severance-declaration loop are one non-deleting architecture on two registers — affection arrives as countable provision, exits are performed rather than enacted — so this page's live prediction and that page's 129-episode rule describe the same refusal to delete." }
+  - page: wiki/mind/synthesis/provision-grammar
+    type: operationalized-by
+    claim: "Provision-grammar is this rule's per-transfer operationalization: what each transfer says, how the denominations ladder scales it, and how the ledger half differs by channel."
+  - page: wiki/mind/synthesis/provision-failure-modes
+    type: bounded-by
+    claim: "The failure-modes page bounds this rule: it catalogues the transfers where the expected provision move fails, each visible only against this page's base rate of 1.79–2.49x instrumental generosity against 0.45x sympathy."
 ---
 
 # High-Provision, Low-Condolence

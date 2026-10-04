@@ -76,7 +76,7 @@ connections:
   - target: "[[wiki/mind/synthesis/totality-themes]]"
     type: extends
     claim: "Totality Themes takes this page's coverage-not-taste mechanism as the explanation for the low creator-level taste concentration its own re-check measured."
-  - target: "[[wiki/self/concepts/wiki-brain]]"
+  - target: "[[wiki/mind/concepts/wiki-brain]]"
     type: contextualizes
     claim: "The wiki is this page's negative control for the satisfaction condition: a self-set corpus with no findable edge, so the rule predicts surface without closure."
 ---
@@ -349,7 +349,7 @@ does produce that verdict from Dan, the edge condition is wrong and the rule
 collapses to "self-set is enough," which
 [[wiki/mind/concepts/acquisition-drive]] has already falsified once on the
 MNEME/DANMODEL/video-essay record. Nothing in the corpus currently shows the
-[[wiki/self/concepts/wiki-brain|wiki]] producing that response.
+[[wiki/mind/concepts/wiki-brain|wiki]] producing that response.
 
 ## Falsifiers
 
@@ -392,7 +392,7 @@ MNEME/DANMODEL/video-essay record. Nothing in the corpus currently shows the
    within its first three months**, and will not show a second work by the
    first source until the others are used up. This is scoreable against the
    next favourites or Goodreads export with no interpretation required.
-4. **[[wiki/self/concepts/wiki-brain|The wiki]] itself will not produce a closure verdict from Dan.** It has no
+4. **[[wiki/mind/concepts/wiki-brain|The wiki]] itself will not produce a closure verdict from Dan.** It has no
    findable edge, so this page's own rule predicts it can generate surface
    indefinitely but not the satisfaction the Fran vigil produced. *Falsified
    by:* a dated, unprompted statement from Dan that working on or reading this

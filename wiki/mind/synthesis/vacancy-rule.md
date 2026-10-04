@@ -6,7 +6,7 @@ aliases: ["the slot system", "sourced-before-vacancy", "the primary slot", "the 
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/message-csv/annie_all_time_logs.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -96,6 +96,9 @@ connections:
     claim: "The pre-corpus anchor: ~2005–2009, ended ~Valentine's Day 2009 by the operator's 2025 account, followed by the ~nine-month gap to Alexis — the longest adult vacancy on record and the one that bounds the rule's strong form to the documented era."
   - { target: "[[wiki/mind/synthesis/the-curse]]", type: extends, claim: "The curse's complicating mechanism is the vacancy rule running without a vacancy ever opening — performed severance as the complication that prevents the slot from clearing." }
   - { target: "[[wiki/mind/synthesis/the-romantic]]", type: references, claim: "The June 1 burst is Transition 5's opening move — the romantic weather the failed Annie-to-Ally transfer rode in on." }
+  - page: wiki/mind/synthesis/transfer-comparative-2015-2026
+    type: evidences
+    claim: "The transfer comparative draws its verdict — the 2015 transfer completed, the 2026 transfer failed — on this page's ledger of vacancy durations and sourcing evidence."
 ---
 
 # The Vacancy Rule

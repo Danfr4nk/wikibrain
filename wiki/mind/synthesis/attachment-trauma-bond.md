@@ -5,7 +5,7 @@ title: "Attachment Trauma Bond and Aura Illness"
 knowledge: earned
 status: active
 date_created: 2026-06-22
-date_modified: 2026-08-28
+date_modified: 2026-10-04
 sources:
   - raw/self/dox-md/Annie 10-Year Trauma Bond Aura Illness Forensic Report.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/DanAnnie_MasterRecord_FINAL.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -78,7 +78,7 @@ connections:
   - page: wiki/mind/synthesis/music-as-identity
     type: parallels
     claim: "The music-preference cutoff pattern (absorption, hard boundary, pre-cut version held as real) is the attachment architecture running on objects that cannot betray him."
-  - page: wiki/self/concepts/ally-and-dan-love-as-destiny
+  - page: wiki/mind/concepts/ally-and-dan-love-as-destiny
     type: parallels
     claim: "The same architecture — intensity sustained across distance, reactivation after silence, a wound shared with the partner — is argued there to produce a durable marriage rather than a trauma bond; the two pages read one structure to opposite ends, and only time separates them."
   - page: wiki/people/ally-lubin
@@ -102,6 +102,9 @@ connections:
   - { target: "[[wiki/mind/synthesis/estate-money-spine]]", type: corroborates, claim: "The three-rotation earner see-saw the spine quantifies ($119K–$123K net outflow) is this page's leverage see-saw measured in capital — the material substrate of the same bond." }
   - { target: "[[wiki/mind/synthesis/supply-network]]", type: corroborates, claim: "The terminal-phase supplier-seat finding — Dan controlling supply as the relationship's last structure — is this page's logistical-tether section at ledger resolution." }
   - { target: "[[wiki/mind/synthesis/annual-volume-suz]]", type: contextualizes, claim: "The Dan-vs-Suz volume asymmetry that chart quantifies — Suz permanently ahead from 2017, widening toward ~2:1 — is dated outbound residue for this page's leverage see-saw: who writes more, when, tracks who holds the exit." }
+  - page: wiki/mind/synthesis/the-unbroken-bond
+    type: evidenced-by
+    claim: "The unbroken-bond page holds the occupancy record this page's mechanism anatomizes: seventeen continuous years inside long-term bonds, the unattached total measurable in weeks."
 ---
 
 

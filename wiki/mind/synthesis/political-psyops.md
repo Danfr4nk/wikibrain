@@ -6,7 +6,7 @@ title: "Political Psyops & Hybrid Events"
 tags: [politics, forensic-analysis, ideology]
 status: stable
 date_created: 2026-06-22
-date_modified: 2026-09-22
+date_modified: 2026-10-04
 sources:
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - workspace/wiki-sync/scratchpad/2026-09-22-conspiracy-verdicts.md
@@ -48,6 +48,9 @@ connections:
   - page: wiki/mind/synthesis/the-binary-verdict
     type: component-of
     claim: "The pinned nodes name the mechanism in their own words — Trump-era politics as 'a zero-sum binary team sport' — and the 'score who is more wrong' method is not a counter-instance: the top-level sort (legitimate claim on power / illegitimate) is binary, and comparative grading runs only inside the bucket of actors who already failed it."
+  - page: wiki/self/chats/j6-chat
+    type: evidenced-by
+    claim: "The J6 chat exhibit is this synthesis's primary exhibit — the anomaly set it adjudicates (ballistics, procedure, crowd behavior, aftermath) is drawn from that record."
 ---
 
 

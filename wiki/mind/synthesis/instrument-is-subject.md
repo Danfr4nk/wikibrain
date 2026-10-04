@@ -70,7 +70,7 @@ connections:
 > **RE-CHECKED [2026-08-21] — premise moved, conclusion unaffected.**
 > [[wiki/mind/synthesis/ai-collaborative-analysis]] moved on 2026-08-21 in one
 > typed-edge claim only: the ChatGPT edge now records that the 'cooked'
-> verdict's post-[[wiki/self/concepts/chatgpt|GPT-5]] causation is untested, because the 375-thread export
+> verdict's post-[[wiki/mind/concepts/chatgpt|GPT-5]] causation is untested, because the 375-thread export
 > ends five weeks before the release. That sharpens an example this page cites
 > in passing and leaves its argument — that the instrument and the subject are
 > the same person — untouched.
@@ -99,9 +99,9 @@ connections:
 > No claim withdrawn. The moved material does not contradict anything here.
 
 This wiki is written by a large language model, about a person for whom large
-[[wiki/self/concepts/llm|language models]] are a documented daily cognitive organ, using an evidentiary
+[[wiki/mind/concepts/llm|language models]] are a documented daily cognitive organ, using an evidentiary
 standard that person wrote. Those three facts are each recorded separately
-elsewhere in [[wiki/self/concepts/wiki-brain|the repository]] and have never been put in the same sentence. Put
+elsewhere in [[wiki/mind/concepts/wiki-brain|the repository]] and have never been put in the same sentence. Put
 together they produce the governing methodological constraint of the whole
 project: **the instrument that compiles this second brain is the same class of
 instrument that is one of its subjects, so no page here can be treated as an
@@ -121,7 +121,7 @@ design.
 
 ## The rule, stated so it can be broken
 
-> Every interpretive frame in this [[wiki/self/concepts/wiki-brain|wiki]] that did not come from the primary
+> Every interpretive frame in this [[wiki/mind/concepts/wiki-brain|wiki]] that did not come from the primary
 > record traces to an AI session, is marked non-primary on arrival, and has no
 > corroboration independent of a model's own output. **`knowledge:` must**
 > **therefore propagate upward: a page that synthesizes a `mixed` page cannot**
@@ -150,7 +150,7 @@ was produced **in order to** say something about Dan, at Dan's prompting, from
 material Dan selected. It is testimony all the way down. The alias record is
 not testimony at all; it is residue.
 
-So [[wiki/self/concepts/wiki-brain|the repository]] already contains two grades of evidence and has not been
+So [[wiki/mind/concepts/wiki-brain|the repository]] already contains two grades of evidence and has not been
 distinguishing them by grade: **residue** (message timestamps, alias
 boundaries, watch histories, transaction records — produced for other reasons,
 admissible) and **testimony** (AI readings, self-descriptions, dossiers —
@@ -233,7 +233,7 @@ never noticed the problem existed.
 ## The constitution pass
 
 Run 2026-08-28, against the eleven registers in `SYNTHESIS_SPEC.md`. This
-page is unusual among the backlog: its own conclusion is about [[wiki/self/concepts/wiki-brain|repository]]
+page is unusual among the backlog: its own conclusion is about [[wiki/mind/concepts/wiki-brain|repository]]
 *structure*, not directly about Dan, which the page's own Gaps section
 already flags candidly. The pass still runs in full, because the
 mechanism section above shows a register does bear — on the origin of the
@@ -288,7 +288,7 @@ it rather than papering over it with a citation.
 > add one new connections edge (to the new
 > [[wiki/mind/politics/axioms]] page) reading the CATO persona's origin
 > line politically. This page's claim rests entirely on a different fact
-> — that [[wiki/self/concepts/wiki-brain|the wiki]]'s honesty/no-softening standard is downstream of a
+> — that [[wiki/mind/concepts/wiki-brain|the wiki]]'s honesty/no-softening standard is downstream of a
 > prompt Dan wrote — which the edit did not touch. No finding here is
 > affected; this is exactly the "its other content is not assessed"
 > boundary the Gaps note above already names.

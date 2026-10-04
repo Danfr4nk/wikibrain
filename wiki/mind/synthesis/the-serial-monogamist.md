@@ -6,7 +6,7 @@ aliases: ["single life as a null state", "the transfer not the exit", "engineere
 status: active
 knowledge: earned
 date_created: 2026-08-28
-date_modified: 2026-09-11
+date_modified: 2026-10-04
 sources: []
 synthesizes:
   - wiki/mind/synthesis/the-unbroken-bond
@@ -43,6 +43,9 @@ connections:
   - page: wiki/people/ally-lubin-cognitive-profile
     type: contains
     claim: "The one document in the corpus where Dan states what actually attracts him — the 2026 love letter's line about spotting slang and memes months early — describes a quality he prices and pursues, not a felt type, and it sits beside a specification-grade 'ideal face' document from the same person, which this page reads as one habit rather than two."
+  - page: wiki/mind/synthesis/vacancy-rule
+    type: parallels
+    claim: "The vacancy-rule page is this page's structural complement: it measures the slot the serial-monogamist pattern keeps filled — vacancy durations, sourcing before vacancy, activation speeds — supplying the ledger underneath this page's transfer-not-exit reading."
 ---
 
 # The Serial Monogamist

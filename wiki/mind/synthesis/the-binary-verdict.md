@@ -6,7 +6,7 @@ aliases: ["zero-sum cognition", "the two-state default", "black-and-white by def
 status: active
 knowledge: earned
 date_created: 2026-08-28
-date_modified: 2026-09-04
+date_modified: 2026-10-04
 sources: []
 synthesizes:
   - wiki/mind/synthesis/totality-themes
@@ -85,6 +85,9 @@ connections:
   - { target: "[[wiki/mind/synthesis/dormancy-not-exit]]", type: references, claim: "The dormancy record is the negative-space case for the binary verdict: declared exits the behavior never executed." }
   - { target: "[[wiki/mind/synthesis/intake-constancy]]", type: extends, claim: "The intake constancy extends the binary thesis from values to behavior: the digging workflow admits no middle state either." }
 
+  - page: wiki/mind/journal/2026-10-04-the-one-way-valve
+    type: tested-against
+    claim: "The One-Way Valve (Idea Journal, 2026-10-04) is this verdict's dated field test: credence grades freely upstream and still exits through the binary gate, with no graded verdict recorded downstream."
 ---
 
 # The Binary Verdict
@@ -171,7 +174,7 @@ so the binary shows with nothing available to blur it.
 [[wiki/mind/synthesis/totality-themes]] states the corpus's clearest instance
 directly: **Core Axiom 1, "not exceptional = worthless."** Read literally,
 that sentence has no space in it for a self-assessment between the two
-named poles — there is no recorded instance anywhere in [[wiki/self/concepts/wiki-brain|the wiki]]'s
+named poles — there is no recorded instance anywhere in [[wiki/mind/concepts/wiki-brain|the wiki]]'s
 psychological layer of Dan describing himself, or being described by the
 AI-collaborative material he commissioned, as "solid," "fine," or "good
 enough." The vocabulary of the corpus's self-narrative runs almost

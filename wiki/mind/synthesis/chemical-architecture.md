@@ -166,7 +166,7 @@ Dan replied: *"NO no — if the train left on feb 18 that means that the first d
 i began my successful suboxone streak was feb 17, 2010."* The day before a
 train. The anchor came from a model reading email logs.
 
-**The anchor was wrong.** [[wiki/self/twitter/2010]] shows the February 18 train
+**The anchor was wrong.** [[wiki/mind/synthesis/twitter-2010]] shows the February 18 train
 running the other way: on the 17th he is already in New York (*"off to
 Williamsburg"*) and on the 18th he is *"on the train back to PA."* The
 arithmetic behind the corpus's most-cited date does not hold **[ATTESTED]**.

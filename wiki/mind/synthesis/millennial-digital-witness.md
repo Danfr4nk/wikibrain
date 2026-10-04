@@ -38,25 +38,25 @@ connections:
   - page: wiki/mind/synthesis/ai-collaborative-analysis
     type: instantiates
     claim: "The early-adopter-with-memory AI stance is the witness thesis applied to its newest instrument."
-  - page: wiki/self/twitter/2009
+  - page: wiki/mind/synthesis/twitter-2009
     type: evidenced-by
     claim: 'The Balloon Boy day (2009-10-15) runs the habit three years before the Sandy tweet — "watching CNN on delay via a paused DVR", "the best one-off meme ever" — but never states it, so it moves the habit to at least seventeen years old while leaving the articulation where this page put it.'
-  - page: wiki/self/twitter/2011
+  - page: wiki/mind/synthesis/twitter-2011
     type: evidenced-by
     claim: "Hurricane Irene (25-28 August 2011) is the middle term of a three-instance escalation toward articulation — Balloon Boy 2009 as coverage-about-coverage, Irene consumed remotely with the evacuation map redistributed, Sandy 2012 finally stated as a claim about the medium."
-  - page: wiki/self/twitter/2012
+  - page: wiki/mind/synthesis/twitter-2012
     type: evidenced-by
     claim: "The 'digital disaster' line this page rests on was written by one of the sources: he spent the preceding forty-eight hours running a Sandy liveblog, triaging novelty accounts, and feeding original footage and 911 queue figures to a national radio show. It is a practitioner's observation, not an observer's aside."
-  - page: wiki/self/twitter/2013
+  - page: wiki/mind/synthesis/twitter-2013
     type: evidenced-by
     claim: "Six months after running the Sandy liveblog he is reading analysis of the phenomenon instead of performing it — 'Great article about social media coverage during Boston bombing and the new role of journalists' (2013-04-21) — the step from practice to theory."
-  - page: wiki/self/twitter/2022
+  - page: wiki/mind/synthesis/twitter-2022
     type: evidenced-by
     claim: "The disposition reporting on where it breaks: after the Buffalo livestream (2022-05-15) he benchmarks his own reaction against the desensitisation he expected from years of FPS games and finds it insufficient — 'completely foreign to any experience'."
-  - page: wiki/self/twitter/2023
+  - page: wiki/mind/synthesis/twitter-2023
     type: evidenced-by
     claim: "He classifies Balloon Boy the same way this page does, unprompted and fourteen years later — 'This is so much better than balloon boy.' during OceanGate (2023-06-21) — making the 2009 day a landmark in his own taxonomy, not only in the wiki's."
-  - page: wiki/self/twitter/2026
+  - page: wiki/mind/synthesis/twitter-2026
     type: evidenced-by
     claim: "The disposition becomes an operation: on 2026-05-30 he runs a browser agent to delete every follow across Twitter, YouTube and SoundCloud at once, to rebuild the recommendation systems from scratch. No longer observing the algorithm — taking an instrument to it."
 ---
@@ -116,7 +116,7 @@ the same move the Node 6 thesis makes, applied to one storm instead of one
 generation.
 
 **He was not watching. He was publishing.** The 2012 line reads as an
-observer's aside and it was not one. `wiki/self/twitter/2012` shows the
+observer's aside and it was not one. `wiki/mind/synthesis/twitter-2012` shows the
 forty-eight hours around it as a continuous operation: a public-service notice
 to download podcasts before the power went (29 October), Grand Central's
 closure, the NYSE's first weather closure in twenty-seven years, a triage post
@@ -162,7 +162,7 @@ content"* — and is therefore a claim *about* the medium. The Balloon Boy day
 only demonstrates the habit; he watches the watching and never says that he is
 doing it. So the correction to the dating above is one-sided: **the habit is at
 least seventeen years old, the articulation stays in 2012, and the theory stays
-where this page put it.** `wiki/self/twitter/2009`.
+where this page put it.** `wiki/mind/synthesis/twitter-2009`.
 
 So the honest statement is a split one: **the noticing is old and
 first-party; the theory built on it is recent and AI-assisted.** That is a

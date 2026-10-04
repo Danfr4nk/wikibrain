@@ -131,16 +131,16 @@ connections:
   - page: wiki/places/the-unpapered-address
     type: instantiates
     claim: "Every housing provider across sixteen years and seven addresses — mother, maternal grandmother, a live-in partner, a great-grandmother — is a lateral by this page's own definition, never a vertical, which is what scopes Trust 9's corpus-confirmed low-trust default away from housing entirely: laterals get the trusted-now, audited-later default this page already documents, and none of these seven relationships was ever audited while it held."
-  - page: wiki/self/twitter/2011
+  - page: wiki/mind/synthesis/twitter-2011
     type: evidenced-by
     claim: '2011 is the disposition without any economic content: eight political posts across the year, every one aimed at a vertical, none redistributive. The Troy Davis posts argue the procedural case rather than the innocence case — "I have no idea whether Troy Davis was guilty or not, but he deserved the chance to live another day" — which is an objection to an authority''s claim to certainty rather than to its verdict.'
-  - page: wiki/self/twitter/2013
+  - page: wiki/mind/synthesis/twitter-2013
     type: evidenced-by
     claim: "During the Boston Marathon bombing — the decade's most conspiracy-productive American event — he mocks the conspiracy layer rather than working it, and separately refuses veteran status as a warrant: 'Being a vet does NOT make your racism ok nor does it make you automatically correct.'"
-  - page: wiki/self/twitter/2014
+  - page: wiki/mind/synthesis/twitter-2014
     type: evidenced-by
     claim: "The axis applied to his own field and against his own interest: the Aoki objection is a famous performer taking money for work he is not doing, and he classifies himself out loud in the same breath — 'as a nobody DJ' — in the month he entered a Beatport contest."
-  - page: wiki/self/twitter/2021
+  - page: wiki/mind/synthesis/twitter-2021
     type: evidenced-by
     claim: "January 6th is the cleanest demonstration: he forms a police-collusion hypothesis at high confidence, prices it in the same tweet ('but what was the endgame? is that being too generous'), and rejects the antifa-infiltration mirror because it requires its actors to work against their own interests."
 ---
@@ -262,7 +262,7 @@ found it later.
 
 The clearest single-year demonstration that this axis is prior to Dan's
 politics rather than downstream of them is 2011, six years before he engaged
-politically and nine before he adopted a label. `wiki/self/twitter/2011`
+politically and nine before he adopted a label. `wiki/mind/synthesis/twitter-2011`
 records eight political posts across the year, and every one is aimed at a
 vertical: Glenn Beck (*"DANGEROUS"*), the Iraq war budget measured against
 science funding, the monetary system (*"money=debt. debt=money"*), mounted

@@ -6,7 +6,7 @@ aliases: ["the occupied slot", "continuous pair-bonding", "the seventeen years"]
 status: active
 knowledge: earned
 date_created: 2026-08-01
-date_modified: 2026-09-04
+date_modified: 2026-10-04
 date_range_start: 2009-11-01
 date_range_end:
 sources:
@@ -57,6 +57,9 @@ connections:
   - { target: "[[wiki/mind/synthesis/the-commissioned-self]]", type: contextualizes, claim: "The commissioned-self page describes the narrative machinery running this page's bond thesis." }
   - { target: "[[wiki/mind/synthesis/dance-music-only-phases]]", type: contextualizes, claim: "The fallow dance decade maps onto the Annie decade this page describes." }
 
+  - page: wiki/mind/synthesis/attachment-trauma-bond
+    type: evidences
+    claim: "This page's seventeen-year occupancy record is the evidence the attachment-trauma-bond page anatomizes as mechanism."
 ---
 
 # The Unbroken Bond
@@ -186,7 +189,7 @@ the whole of the explanation, not half of it.
 
 ## Why: the mechanism is documented, not speculated
 
-[[wiki/self/concepts/wiki-brain|The wiki]] already contains the machinery. [[wiki/mind/profile/enneagram-5w4]]
+[[wiki/mind/concepts/wiki-brain|The wiki]] already contains the machinery. [[wiki/mind/profile/enneagram-5w4]]
 records an **sx-dominant instinctual stack**, and `bond-switch-2015` states the
 consequence directly: sexual-dominant *"organises life around **one**
 relationship at maximum voltage, not many."*
@@ -264,7 +267,7 @@ disorder he wants everywhere else, because it is his.
   (2019-08-17, 22:26).
 - **The severance failed.** The single hardest piece of evidence on this page:
   the June 1 2026 closure held for **52 days** and then contact resumed on July
-  23, running **624 messages across four days**. [[wiki/self/concepts/wiki-brain|The wiki]]'s own inference that
+  23, running **624 messages across four days**. [[wiki/mind/concepts/wiki-brain|The wiki]]'s own inference that
   June 1 was terminal has been formally withdrawn. Seventeen years of
   continuity did not end because the relationship ended.
 
@@ -502,7 +505,7 @@ falsifier rather than away from it:
 
 1. **There is no successor and no candidate.** June 1's vacancy was structurally
    identical, but the record now carries an active parallel bond
-   ([[wiki/self/concepts/ally-and-dan-love-as-destiny]], and Dan's own
+   ([[wiki/mind/concepts/ally-and-dan-love-as-destiny]], and Dan's own
    2026-08-19 statement *"I am going to start seeing other people and I am
    going to start my life with someone who cares about me"*). If the slot is
    refilled from there, that is the switch mechanism working exactly as this

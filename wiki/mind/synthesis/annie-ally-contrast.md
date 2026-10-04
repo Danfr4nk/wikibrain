@@ -25,7 +25,7 @@ synthesizes:
   - wiki/mind/concepts/explicit-verbal-commitment
   - wiki/mind/synthesis/the-rescue-premise
   - wiki/mind/synthesis/dormancy-not-exit
-  - wiki/self/concepts/ally-and-dan-love-as-destiny
+  - wiki/mind/concepts/ally-and-dan-love-as-destiny
 tags: [relationships, attachment, personality-profile]
 connections:
   - page: wiki/people/annie-ulmer
@@ -61,7 +61,7 @@ connections:
   - page: wiki/mind/synthesis/dormancy-not-exit
     type: instantiates
     claim: "The Ally channel's eighteen-year shape — two spikes, years of silence, never closed — is that page's thesis at maximum amplitude, with the handle-artifact correction (the June 1, 2026 burst was misaddressed, not rejected) as the standing caution about reading silence as dormancy."
-  - page: wiki/self/concepts/ally-and-dan-love-as-destiny
+  - page: wiki/mind/concepts/ally-and-dan-love-as-destiny
     type: contradicts
     claim: "That page reads the same eighteen years as a courtship converging toward marriage; this entry reads them as a channel whose operating condition is inaccessibility, which a marriage would terminate. Both readings use the August 2026 burst; they cannot both be right about what it was."
   - page: wiki/timeline/events/group-chat-closure
@@ -991,7 +991,7 @@ meeting.
 
 ## The rival reading: the destiny page
 
-[[wiki/self/concepts/ally-and-dan-love-as-destiny]] reads the identical
+[[wiki/mind/concepts/ally-and-dan-love-as-destiny]] reads the identical
 eighteen years as a courtship converging toward marriage inside three
 years. This entry reads them as a channel whose operating condition is
 inaccessibility, which a marriage would terminate. Both readings use the

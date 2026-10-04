@@ -13,13 +13,13 @@ sources:
 synthesizes:
   - wiki/mind/synthesis/red-team-probe-series
   - wiki/mind/synthesis/ai-collaborative-analysis
-  - wiki/self/concepts/gemini
+  - wiki/mind/concepts/gemini
 tags: [ai-collaboration, forensic-analysis, personality-profile, probe-series]
 connections:
   - page: wiki/mind/synthesis/red-team-probe-series
     type: component-of
     claim: "The January 2026 Gemini episodes predate the probe ledger by seven months and are filed there as retrospective Episode 0: the earliest stance-testing battery on record, run against the model with the most visible safety theater."
-  - page: wiki/self/concepts/gemini
+  - page: wiki/mind/concepts/gemini
     type: evidenced-by
     claim: "Nine transcribed screen recordings plus the January 22–25 prank chats constitute the densest single-model behavioral record in the corpus: ~4 hours of Gemini Live under sustained adversarial framing."
   - page: wiki/mind/concepts/forensic-method

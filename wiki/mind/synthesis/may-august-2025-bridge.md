@@ -31,7 +31,7 @@ synthesizes:
   - wiki/people/james-dee
   - wiki/timeline/events/james-analysis-pdf
   - wiki/places/337-saratoga-drive
-  - wiki/self/concepts/chatgpt
+  - wiki/mind/concepts/chatgpt
   - wiki/timeline/periods/dec-2025-spike
 tags: [uniontown-era, housing, relationships, attachment, music-production, career, digital-footprint]
 connections:
@@ -65,7 +65,7 @@ connections:
   - page: wiki/places/337-saratoga-drive
     type: evidenced-by
     claim: "The sale mechanics are the corridor's material substrate: the spring listing at $615,000 (May 2025), the June contract terminated over inspection and pest reports, the court's August 2025 'drop dead' provision. He landed in February; by May the house he was living in was already being sold out from under him."
-  - page: wiki/self/concepts/chatgpt
+  - page: wiki/mind/concepts/chatgpt
     type: evidenced-by
     claim: "May 2025 is the heaviest ChatGPT month on record (375-conversation export, 2022-12-10 → 2025-07-01), and the 'cooked' verdict lands on 2025-08-24. The corridor is where AI moved from instrument to exocortex-adjacent companion — 'free therapy,' in his words of July 10 — while the message corpus went quietest."
   - page: wiki/mind/synthesis/the-serial-monogamist
@@ -84,7 +84,7 @@ connections:
 
 # The May–August 2025 Bridge
 
-Between the April 27, 2025 clearing — the [[wiki/self/concepts/chatgpt|ChatGPT]] "impartial arbiter"
+Between the April 27, 2025 clearing — the [[wiki/mind/concepts/chatgpt|ChatGPT]] "impartial arbiter"
 session — and the August 29 first contact with [[wiki/people/kristin|Kristin Prentiss]], there are
 four months the wiki has never narrated. The hinge entry ends at the
 clearing. The Kristin entry begins at first contact. In between: the
@@ -141,7 +141,7 @@ the corridor is the one stretch of the biography where the AI exports are
 *thicker* than the human correspondence. The archived ChatGPT export
 (375 conversations, 2022-12-10 → 2025-07-01) shows **May 2025 as the
 heaviest month on record** — 142 conversations in the March–July window
-alone **[DERIVED — HIGH, via wiki/self/concepts/chatgpt]**. As the human
+alone **[DERIVED — HIGH, via wiki/mind/concepts/chatgpt]**. As the human
 channels thinned, the machine channels thickened. The bridge is, among
 other things, the months he started talking to the models the way he used
 to talk to people — and on 2025-07-10 he named it: *"i've been using that
@@ -343,7 +343,7 @@ July's other dated traces:
 - The ChatGPT export runs through **2025-07-01** (375 conversations);
   the archive's binding gap is that GPT-5 ships August 7, so everything
   about the release's effect is untestable from inside the export
-  **[ATTESTED — [[wiki/self/concepts/chatgpt|the chatgpt page]]]**. July is the last month the export
+  **[ATTESTED — [[wiki/mind/concepts/chatgpt|the chatgpt page]]]**. July is the last month the export
   covers — the instrument goes dark as a record exactly when the corridor
   goes loud.
 
@@ -416,12 +416,12 @@ as interior decoration with a named future viewer.
 
 **August 24: the verdict on the machines.** At 11:23 PM EST, a Gemini
 session opens with five words: *"gemini i think chatGPT is cooked"*
-**[ATTESTED — [[wiki/self/concepts/chatgpt|the chatgpt page]]]**. That is the whole of the primary
+**[ATTESTED — [[wiki/mind/concepts/chatgpt|the chatgpt page]]]**. That is the whole of the primary
 testimony — a verdict, not an analysis. The measured record runs
 awkwardly against the story he tells about it: ChatGPT usage *peaked* in
 the four months before the release blamed for the decline (May 2025 the
 heaviest month), and the verdict is pronounced to a model he had already
-moved onto **[DERIVED — HIGH — [[wiki/self/concepts/llm|the llm page]]]**. The corridor opens with
+moved onto **[DERIVED — HIGH — [[wiki/mind/concepts/llm|the llm page]]]**. The corridor opens with
 him using ChatGPT as free therapy and closes with him declaring it
 cooked — to Gemini, at night, in five words. The migration of the
 exocortex is complete inside the window.

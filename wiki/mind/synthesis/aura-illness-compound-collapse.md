@@ -5,7 +5,7 @@ page_type: synthesis
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - src:wikitest-corpus-messages-csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:aug-sep-2026-imessage-export — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -64,6 +64,9 @@ connections:
   - { target: "[[wiki/people/jerel-coles]]", type: references, claim: "The May 2026 rupture that opens this collapse is Annie's departure for Jerel Coles — the compound's proximal trigger." }
   - { target: "[[wiki/mind/synthesis/august-26-block-retraction]]", type: references, claim: "The August 15–19 declaration cluster this page dates is the retraction page's object — ~25 declarations, zero executed." }
   - { target: "[[wiki/mind/synthesis/block-unblock-loop]]", type: extends, claim: "Files the 52-day hold as the loop's extreme outlier — the only severance in the record to approach enactment." }
+  - page: wiki/mind/synthesis/the-curse
+    type: instantiates
+    claim: "This collapse instantiates the curse's cross-domain mechanism at maximum amplitude: a firing, the childhood home sold, the primary friendship silent, and the eleven-year relationship ended, all named in one June 2026 session."
 ---
 
 # Aura Illness: The May–July 2026 Compound Collapse

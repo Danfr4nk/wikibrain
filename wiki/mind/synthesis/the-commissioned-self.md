@@ -24,7 +24,7 @@ synthesizes:
   - wiki/mind/profile/voice-modes
   - wiki/mind/concepts/the-handed-mirror
   - wiki/mind/synthesis/instrument-is-subject
-  - wiki/self/concepts/wiki-brain
+  - wiki/mind/concepts/wiki-brain
 tags: [personality-profile, ai-collaboration, forensic-analysis, digital-footprint]
 connections:
   - page: wiki/mind/synthesis/failure-to-launch
@@ -54,7 +54,7 @@ connections:
   - page: wiki/mind/profile/intp
     type: contains
     claim: "The 2013 self-typing predates the AI era by a decade and is the page's strongest evidence, but it is also the pattern's origin rather than an exception to it: the earliest recorded use of the type is instrumental, deployed to justify refusing group recovery, not to describe an inner state."
-  - page: wiki/self/concepts/wiki-brain
+  - page: wiki/mind/concepts/wiki-brain
     type: causes
     claim: "This repository is the apparatus's current and largest instance — the fourth-generation instrument commissioned over the same subject, and the first one whose readings are published where other instruments will read them."
   - page: wiki/mind/profile/socionics-and-attitudinal
@@ -71,7 +71,7 @@ connections:
 # The Commissioned Self
 
 > **RE-CHECKED [2026-09-20] — premise regenerated, and exactly one claim on**
-> **this page moves.** [[wiki/self/concepts/wiki-brain]] was regenerated
+> **this page moves.** [[wiki/mind/concepts/wiki-brain]] was regenerated
 > 2026-09-19 (work-0002): 320 lines → 880+, `date_modified` 2026-09-14 →
 > 2026-09-19. Every claim here that depends on it was re-checked against the
 > old and new versions line by line.
@@ -157,7 +157,7 @@ manual *"his primary occupation."*
 The measurement that makes this a rule rather than an observation is a
 > **RE-CHECKED [2026-08-21] — the handle defect does not reach this page's**
 > **counts, and the reason is structural rather than lucky.**
-> [[wiki/self/concepts/wiki-brain]] and
+> [[wiki/mind/concepts/wiki-brain]] and
 > [[wiki/mind/synthesis/instrument-is-subject]] both moved on 2026-08-20 and
 > this page reasons from both. `instrument-is-subject` moved by a `RE-CHECKED`
 > block only. `wiki-brain` gained something sharper — **a handle is not a**
@@ -225,7 +225,7 @@ life. It exists in commissioned sessions, and it stays there.
 | Stylometrics | 99th percentile; "a custom-built fork of English" — **the percentile retracted 2026-08-23** | [[wiki/mind/profile/linguistic-profile]] | — |
 | Deviance audit | 80–99/100 across seven domains, 92% stated confidence | [[wiki/mind/profile/deviance-mapping]] | — |
 | Composite voice model | Eight modes, ten trigger-level modifiers with percentages | [[wiki/mind/profile/voice-modes]] | — |
-| This wiki | 595 source pages as of 2026-09-19 — **the 476-page figure superseded 2026-09-20** | [[wiki/self/concepts/wiki-brain]] | — |
+| This wiki | 595 source pages as of 2026-09-19 — **the 476-page figure superseded 2026-09-20** | [[wiki/mind/concepts/wiki-brain]] | — |
 | Bespoke vocabulary | Two graded word batches, selected from a machine-generated pool | [[wiki/interests/language/vocabulary-lexicon]] | — |
 
 > **RE-CHECKED [2026-08-23] — premise moved, and it moved in this page's favour.**
@@ -333,7 +333,7 @@ subject, and this is the *apparatus* being delivered, so the subject can run it
 themselves.
 
 **And the self-typing, when it finally appears in his own words, disagrees with
-[[wiki/self/concepts/wiki-brain|the wiki]].**
+[[wiki/mind/concepts/wiki-brain|the wiki]].**
 
 > **CONTRADICTION [2026-08-19] — the one first-person type code in the primary
 > record is not the one the profile cluster is built on.** On 2024-11-04, quoting
@@ -407,7 +407,7 @@ with nobody watching."* It is the only finding in the psychological layer that
 did not have to ask Dan anything. This page is the reason that distinction
 matters: everything else in `mind/profile/` was produced by asking.
 
-**Why the wiki looks the way it does.** [[wiki/self/concepts/wiki-brain]] is the
+**Why the wiki looks the way it does.** [[wiki/mind/concepts/wiki-brain]] is the
 fourth-generation instrument, and the first whose readings are *published*.
 [[wiki/mind/synthesis/instrument-is-subject]] already names the recursion at the
 level of authorship — an LLM writing about an LLM user. The census adds the

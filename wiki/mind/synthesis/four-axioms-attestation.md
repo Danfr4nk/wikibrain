@@ -20,7 +20,7 @@ synthesizes:
   - wiki/meta/testimony-veracity
   - wiki/mind/synthesis/totality-themes
   - wiki/self/context-core
-  - wiki/self/concepts/llm
+  - wiki/mind/concepts/llm
   - wiki/mind/profile/index
   - wiki/mind/concepts/dans-law
   - wiki/mind/concepts/conflict-architecture
@@ -37,7 +37,7 @@ connections:
   - page: wiki/meta/testimony-veracity
     type: evidenced-by
     claim: "t011 is the negative control this hunt is built around: the lexical audit of 106,629 outbound messages that could not corroborate any of the four axioms, which is what makes the formulation's paper trail — not its behavioral signature — the only datable object in the case."
-  - page: wiki/self/concepts/llm
+  - page: wiki/mind/concepts/llm
     type: evidenced-by
     claim: "This page carries the CATO bootloader v2.0 (May 2026) two-axiom quotation verbatim, the earliest dated attestation of any axiom phrasing in the record and the only one at [OPERATOR]-grade from Dan's own document rather than a model's systematization."
   - page: wiki/self/context-core
@@ -132,7 +132,7 @@ accessible repository.
 ## The two-axiom stage: May 2026
 
 The earliest dated attestation of any axiom phrasing is Dan's own
-bootloader. [[wiki/self/concepts/llm]] carries the record **[ATTESTED]**:
+bootloader. [[wiki/mind/concepts/llm]] carries the record **[ATTESTED]**:
 
 > The flagship is [[wiki/mind/concepts/exocortex|CATO]] (`CATO_BOOTLOADER_DANFRANK.md`, v2.0, May 2026),
 > named for Cato the Younger, the Roman Stoic who refused to compromise
@@ -180,7 +180,7 @@ is marked accordingly.
 
 **Earliest dated attestation: May 2026**, in `CATO_BOOTLOADER_DANFRANK.md`
 v2.0, quoted above — Dan's own document, two-axiom stage. **[ATTESTED]**
-via [[wiki/self/concepts/llm]].
+via [[wiki/mind/concepts/llm]].
 
 **In-wiki arrival: 2026-06-22.** The old-wiki export's frontmatter dates
 put the formulation on three pages created that day: [[wiki/self/context- core.md]] (all four axioms, [DOC]-grade), [[wiki/mind/concepts/conflict- architecture.md]] (axiom 1 as the concession mechanism's routing), and
@@ -596,7 +596,7 @@ That is the trade, stated plainly.
 ## Limits of record
 
 What was directly observed: the CATO v2.0 two-axiom quotation as carried
-by wiki/self/concepts/llm.md; the context-core's [DOC]-grade four-axiom
+by wiki/mind/concepts/llm.md; the context-core's [DOC]-grade four-axiom
 block and its inline 2026-08-02 corroboration table; the 2026-06-22 page
 batch's frontmatter dates and axiom placements from the 2026-09-04
 old-wiki export (497 pages, phrase-searched); the profile hub's

@@ -58,7 +58,7 @@ connections:
   - page: wiki/mind/synthesis/instrument-is-subject
     type: parallels
     claim: "That page's thesis — the evidentiary standard is the subject's own export — applies to the scoreboard directly: the man who built the wiki's counting instruments is the wiki's most-counted object. The scorekeeper and the scored are the same person."
-  - page: wiki/self/twitter/2022
+  - page: wiki/mind/synthesis/twitter-2022
     type: evidenced-by
     claim: "The forecasting section ('Forecasting as a practice, with a scoreboard') is the earliest dated instance of the practice: falsifiable public predictions with stated intent to return and check — the scoreboard before the corpus made it industrial."
   - page: wiki/meta/testimony-veracity
@@ -347,7 +347,7 @@ relitigated. The counting and the cognition share a shape: no pending state.
 The oldest dated instance of the practice is public prediction. The 2022
 Twitter layer is where the habit becomes a method: **dated, falsifiable public
 predictions with stated intent to return and check**
-([[wiki/self/twitter/2022|twitter/2022]]) [ATTESTED]. The record: a full 2022
+([[wiki/mind/synthesis/twitter-2022|twitter/2022]]) [ATTESTED]. The record: a full 2022
 Senate map built on yapms (April 12); PredictIt prices quoted as evidence
 (April 13, December 7 — *"DeSantis now +15 on Trump (42¢/27¢)"*); a forecast
 held against contrary news (August 24); a local-knowledge prediction about
@@ -381,7 +381,7 @@ and because the instrument keeping score of itself is where Part IV ends.
 
 The newest cluster is the scoreboard turned outward onto the machines. The
 worked case: **2026-09-10, the Wikipedia-clone head-to-head.** Dan ran Muse
-Spark 1.3 and [[wiki/self/concepts/claude-code|Claude Opus 5]] on the identical build task, then judged Muse's
+Spark 1.3 and [[wiki/mind/concepts/claude-code|Claude Opus 5]] on the identical build task, then judged Muse's
 output **"mythos tier"** against Claude's **"functional-but-not-quite"**
 attempt [OPERATOR] (MEMORY.md). The verdict had a behavioral tail: on
 2026-09-12 he canceled the Claude subscription outright — *"I haven't touched

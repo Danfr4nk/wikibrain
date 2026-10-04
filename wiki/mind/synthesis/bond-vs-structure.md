@@ -6,7 +6,7 @@ aliases: ["bond vs structure", "the cheapest channel", "non-material severance c
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv
   - src:corpus__3.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -52,6 +52,9 @@ connections:
     type: evidenced-by
     claim: "The retraction is the performance/channel decoupling stated in its purest form: ~25 declarations August 15-19 with zero toggles, then block-claims migrated to the witness channel while the Annie channel carried daily two-way texting — full-volume speech, zero channel movement."
   - { target: "[[wiki/mind/synthesis/witness-channel-declarations]]", type: contextualizes, claim: "The channel-cost ordering this entry establishes ('nothing either party still needs flows through the channel') is the rule the witness channel exploits: block claims are performed to a witness at zero channel cost while the primary channel stays live." }
+  - page: wiki/mind/synthesis/channel-cost-pricing
+    type: operationalized-by
+    claim: "Channel-cost-pricing operationalizes this entry's ordinal claim — severances break through the cheapest live channel — as a scored rubric run against every documented severance."
 ---
 
 # Bond vs Structure: Why Severances Break Through the Cheapest Channel

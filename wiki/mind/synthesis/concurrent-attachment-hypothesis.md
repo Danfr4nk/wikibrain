@@ -58,7 +58,7 @@ connections:
   - page: wiki/mind/concepts/attachment-model
     type: component-of
     claim: "The rule-based bonding model (positive verbal rules live until an explicit severance signal) is the mechanism under H1's prediction that declarations and traffic can run on separate channels simultaneously — the August 18–19 window's wifi-off/all-Ally utterances are the model running under dual load."
-  - page: wiki/self/concepts/ally-and-dan-love-as-destiny
+  - page: wiki/mind/concepts/ally-and-dan-love-as-destiny
     type: contradicts
     claim: "That page reads the eighteen years as converging toward meeting and consolidation; H1's scoring protocol includes a destiny-discriminating observable — a sustained Ally-initiated exchange with no rupture anywhere would falsify H1 and is also the destiny page's best-case evidence."
   - page: wiki/people/alexis-armel
@@ -365,7 +365,7 @@ tracking, and without the tracking there is no concurrency claim worth
 keeping. Note the asymmetry: F1 kills H1 but does not kill H0 either —
 it would suggest the channel has its own dynamics independent of the
 primary bond, which is a fourth hypothesis this entry does not develop
-(the [[wiki/self/concepts/ally-and-dan-love-as-destiny|destiny page]]'s
+(the [[wiki/mind/concepts/ally-and-dan-love-as-destiny|destiny page]]'s
 territory).
 
 **F2 (Ally-initiated sustained exchange without rupture).** A sustained

@@ -63,7 +63,7 @@ one of the few stable structures of self that has run the entire length of
 the documented life — as a teenage identity performed in public (the 2007
 Facebook layer), as a literal itinerary (the tour-following years), as a
 private emotional regulator (the Elliott Smith pole), and as a professional
-identity (the producer-alias lineage). [[wiki/self/concepts/wiki-brain|The wiki]]'s old habit of filing each
+identity (the producer-alias lineage). [[wiki/mind/concepts/wiki-brain|The wiki]]'s old habit of filing each
 artist as a one-line favorites entry systematically under-reported this,
 because the meaning was in the *through-line*, not the tracks.
 

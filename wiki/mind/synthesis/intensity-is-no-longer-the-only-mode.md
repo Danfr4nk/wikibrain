@@ -12,12 +12,12 @@ synthesizes:
   - wiki/people/ally-lubin
   - wiki/people/annie-ulmer
   - wiki/timeline/events/2026-08-26-dan-consistency-test
-  - wiki/self/concepts/ally-and-dan-love-as-destiny
+  - wiki/mind/concepts/ally-and-dan-love-as-destiny
 related:
   - wiki/people/ally-lubin
   - wiki/people/annie-ulmer
   - wiki/timeline/events/2026-08-26-dan-consistency-test
-  - wiki/self/concepts/ally-and-dan-love-as-destiny
+  - wiki/mind/concepts/ally-and-dan-love-as-destiny
 ---
 
 # Intensity Is No Longer the Only Mode

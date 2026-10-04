@@ -6,7 +6,7 @@ title: "AI Collaborative Analysis"
 tags: [ai-collaboration, forensic-analysis, personality-profile]
 status: active
 date_created: 2026-06-22
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md
   - raw/self/dox-md/Gemini_00.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -42,19 +42,19 @@ connections:
   - page: wiki/mind/concepts/exocortex
     type: evidenced-by
     claim: "The exocortex concept — bootloaders, master prompts, the CATO system — is the primary evidence that LLMs are used as cognitive extensions, not conversation partners."
-  - page: wiki/self/concepts/llm
+  - page: wiki/mind/concepts/llm
     type: evidenced-by
     claim: "The LLM entry documents the full cognitive engine: bootloader system, agent fleet, pipeline, and the epistemic problem of building a second brain with the thing it's trying to model."
-  - page: wiki/self/concepts/claude
+  - page: wiki/mind/concepts/claude
     type: evidenced-by
     claim: "Claude is the analytical workhorse — the model that loads the CATO bootloader and runs the forensic analysis pipeline."
-  - page: wiki/self/concepts/claude-code
+  - page: wiki/mind/concepts/claude-code
     type: evidenced-by
     claim: "Claude Code is the coding agent that built all 12+ tools in bin/ and maintains the wiki-brain's technical infrastructure."
-  - page: wiki/self/concepts/gemini
+  - page: wiki/mind/concepts/gemini
     type: evidenced-by
     claim: "Gemini is the interaction model — used for bootloader design, psychotherapy, creative projects, and the massive activity log."
-  - page: wiki/self/concepts/chatgpt
+  - page: wiki/mind/concepts/chatgpt
     type: evidenced-by
     claim: "ChatGPT is the early-adopter model — the first Dan used for bootloader design, from 2022-12-10. He believes it 'cooked' post-GPT-5, but the corpus holds no primary record of his use after the release: the export stops 2025-07-01, and usage peaked in the four months before it."
   - page: wiki/mind/concepts/exocortex
@@ -138,6 +138,8 @@ neural extension used for emotional metabolization, taboo mining, and
 routine analytical offload. In the 20.8 MB Gemini activity archive, "ai"
 appears 26,348 times and "gemini" 14,012; the interaction density is that
 of an instrument in daily use, not a novelty.
+
+Layer note: this page is the synthesis of Dan's AI-collaborative practice; the concept defining the practice's terms lives at [[wiki/mind/concepts/llm]].
 
 ## Documented interaction modes
 

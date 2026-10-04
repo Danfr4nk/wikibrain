@@ -170,7 +170,7 @@ does not describe someone with a best friend. It describes a network in which
 nearly all relational load is routed through a single external node — and, once
 the sending side is recovered, one he routes *outward* just as narrowly.
 
-[[wiki/self/concepts/wiki-brain|The wiki]] has been documenting the same shape one domain at a time without
+[[wiki/mind/concepts/wiki-brain|The wiki]] has been documenting the same shape one domain at a time without
 naming it. This page names it, and the naming has a consequence: **a
 single-channel architecture has no failover.**
 
