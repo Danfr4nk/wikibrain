@@ -7,7 +7,7 @@ status: active
 knowledge: derived
 importance: medium
 date_created: 2026-10-03
-date_modified: 2026-10-03
+date_modified: 2026-10-04
 tags: [idea-journal, personality-profile, forensic-analysis, contact-geometry, social-graph]
 connections:
   - page: wiki/mind/journal/index
@@ -15,6 +15,12 @@ connections:
     claim: "Idea Journal, 2026-10-03, Entry 4. Generated in an isolated pass under the profile-first protocol after two restarts; the Genesis note preserves both dead drafts."
   - page: wiki/mind/profile/index
     type: gated-by
+  - page: wiki/mind/journal/2026-10-04-the-one-way-valve
+    type: parallels
+    claim: "The One-Way Valve states the mechanism behind the quantized graph: numeric credence flows freely upstream, and every operation still exits through a binary gate."
+  - page: wiki/mind/journal/2026-10-03-the-manufactured-halt
+    type: parallels
+    claim: "The Manufactured Halt names the engine under the quantized graph: open anomaly or closed, with no third state in which a question can be set down unfinished."
     claim: "Cross-checked against the weighted profile instrument (rows 1, 5, 6, 11-13, 19) before filing; gate verdict PASS."
 ---
 

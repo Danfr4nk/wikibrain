@@ -41,6 +41,9 @@ connections:
   - page: wiki/mind/journal/2026-10-04-selection-buys-delay
     type: evidenced-by
     claim: "The manufactured halt's claim that he terminates only where a resolution condition exists is evidenced by selection-buys-delay's paperless chosen ties, which avoid creating the verifiable object that would force the forensic engine to fire."
+  - page: wiki/mind/journal/2026-10-03-the-quantized-graph
+    type: parallels
+    claim: "The Quantized Graph's binary actuator is this entry's two-state machine at social range: where no resolution condition exists, no halt and no middle distance."
     claim: "Entry 1 locates the loop (open sets have no completion condition). This entry locates the exit: loops end when a resolution condition is manufactured — by operation, enforcement, or verdict — and identifies which manufactures bind."
 ---
 

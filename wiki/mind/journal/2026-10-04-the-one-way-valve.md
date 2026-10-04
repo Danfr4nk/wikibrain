@@ -39,6 +39,9 @@ connections:
     claim: "Market prices enter POLL WATCH as graded corroboration after the political thesis is formed, never as the premise — the valve running on an external sensor."
   - page: wiki/mind/journal/2026-10-04-the-irreversible-channel
     type: parallels
+  - page: wiki/mind/journal/2026-10-03-the-quantized-graph
+    type: parallels
+    claim: "The Quantized Graph is this entry's valve at social range: a binary stated-rule actuator taking graded input and producing two-state distances with no middle."
     claim: "Same-day companion entry (Entry 1): prices the provision channel's retraction-cost asymmetry — transfers that cannot be un-sent. This entry prices the verdict channel's one-way gate; the two claims are separately falsifiable and neither inherits the other's gate verdict."
 ---
 
