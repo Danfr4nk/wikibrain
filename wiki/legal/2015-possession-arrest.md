@@ -7,7 +7,7 @@ status: closed
 knowledge: mixed
 importance: high
 date_created: 2026-08-03
-date_modified: 2026-09-24
+date_modified: 2026-10-04
 date_range_start: 2015-02-17
 date_range_end: 2016-02-17
 sources:
@@ -81,12 +81,13 @@ cocaine bag**, possession of a small amount of marijuana, and possession of
 drug paraphernalia for the one-hitter. The substance that produced the
 load-bearing count has its own page at [[wiki/health/cocaine]].
 
-This page exists because the wiki had the event wrong for three weeks. The
-lawyer, the ARD program, the Judge Wagner hearing and the family drama
-around it were all filed under
-[[wiki/legal/2015-retail-theft-arrest|the Combos incident]] — a genuinely
-separate retail theft that happened **a few weeks later**. Both are real.
-Only this one was an arrest.
+The arrest is cocaine's only legal consequence in Dan's record, and what
+made it serious was not the quantity — it was a District Attorney policy
+that refused diversion to anyone charged with a cocaine misdemeanor,
+residue or not. Keeping his record clean took a lawyer defeating that
+categorical bar, several thousand dollars, and a year of process, and the
+night itself turned on an errand: a 2am request for lemons from a mother
+in the thick of a gambling addiction.
 
 ## The night
 
@@ -119,8 +120,8 @@ is dangerous when resisted but that it is unsatisfiable when accommodated.
 
 **No sobriety testing was performed.** Dan states plainly that he was never
 asked to do field sobriety tests or a roadside breath test. This
-contradicts the account the wiki has carried since 2026-07-13; see the
-contradiction block below.
+contradicts the account the wiki has carried since 2026-07-13; see
+Conflicts in the record below.
 
 Denied consent, the troopers went around him: the car was not in his name,
 so they sought permission from its custodian. That produced what Dan calls
@@ -193,6 +194,22 @@ gives Dan's age as **26**. Born November 1, 1988, he is 26 only between
 November 2014 and November 2015 — which fixes the filing to **February 2015**
 and the arrest to on or shortly before February 17, 2015.
 
+The February 2015 date is independently consistent with the one constraint the
+capture supplies from inside the story: [[wiki/people/alexis-armel|Alexis]] was
+secretly living at 337 Saratoga at the time, hidden for roughly four months
+after being thrown out, which places the night well before the November 2015
+switch to [[wiki/people/annie-ulmer|Annie]]
+([[wiki/mind/synthesis/bond-switch-2015]]).
+
+## Conflicts in the record
+
+**Two events carried as one — separated 2026-08-03.** This page exists because
+the wiki had the event wrong for three weeks. The lawyer, the ARD program, the
+Judge Wagner hearing and the family drama around it were all filed under
+[[wiki/legal/2015-retail-theft-arrest|the Combos incident]] — a genuinely
+separate retail theft that happened **a few weeks later**. Both are real.
+Only this one was an arrest.
+
 > **REVISED [2026-08-03] — a wiki inference was wrong and the operator's**
 > **capture was right.** When this page was written earlier the same day, it
 > judged the capture's opening line ("It's sometime in early 2015") to be
@@ -206,13 +223,6 @@ and the arrest to on or shortly before February 17, 2015.
 > than quietly patched: the capture's own dating was accurate to the month, and
 > the corpus's correction instinct, calibrated on the Fran captures being off by
 > exactly one year, over-fired here.
-
-The February 2015 date is independently consistent with the one constraint the
-capture supplies from inside the story: [[wiki/people/alexis-armel|Alexis]] was
-secretly living at 337 Saratoga at the time, hidden for roughly four months
-after being thrown out, which places the night well before the November 2015
-switch to [[wiki/people/annie-ulmer|Annie]]
-([[wiki/mind/synthesis/bond-switch-2015]]).
 
 > **CONTRADICTION [2026-08-03] — the February date collides with the 155**
 > **Virginia Ave timeline.** The capture places the arrest firmly *before* the
@@ -273,6 +283,20 @@ switch to [[wiki/people/annie-ulmer|Annie]]
 
 > **CORRECTED 2026-09-24:** The contradiction above is resolved. The October 2017 line belongs to Christo Coan per the wiki's speaker-structure parse (dat:0031), and Dan confirmed on 2026-09-24 that he has never had a DUI — the February 2015 possession (residue) arrest, ARD granted February 2016, is his first and only arrest. There is no undocumented DUI.
 
+> **CORRECTION [2026-08-22]:** This page previously stated in its Gaps
+> section that *"Magisterial District Judge **Michael Metros** appears once,
+> in the blotter, and has no other trace in the corpus."* He appears twice.
+> The April 2018 summons behind
+> [[wiki/timeline/events/uniontown-hospital-vape-alarm]] — docket
+> MJ-14101-NT-0000082-2018, filed 4/5/2018 — names **Honorable Michael M.**
+> **Metros**, MDJ-14-1-01, 88 North Gallatin Avenue, Uniontown, and gives the
+> district's telephone number and address that the blotter did not. Both of
+> Dan's documented charging events ran through the same magisterial district
+> three years apart, which is unremarkable for a man living in Uniontown and
+> is still the only thing they have in common. It does not supply this case's
+> docket number, which remains unknown: MDJS dockets are per-case, and knowing
+> the court is not knowing the case.
+
 ## What it left behind
 
 Dan's own verdict is that the arrest taught him "not to take stupid chances,"
@@ -286,36 +310,35 @@ exposure." The supply architecture documented at
 [[wiki/mind/synthesis/supply-network]] continued without interruption for the
 next eleven years. What changed was the transport layer, not the appetite.
 
-## Gaps
+## See also
 
-The exact arrest date within the days before February 17, 2015 is not known,
-nor is the arresting barracks, the docket number, or whether the expungement
-was ever completed. The blotter prints the charges without grading them; Dan's
-own telling calls the residue count a "class B controlled substance," which is
-recorded here as his description rather than as a documented grade. The nine months between the
+- [[wiki/legal/2015-retail-theft-arrest]] — the separate Combos retail theft, carried as this event until 2026-08-03
+- [[wiki/health/cocaine]] — the substance behind the load-bearing count
+- [[wiki/timeline/events/uniontown-hospital-vape-alarm]] — the 2018 summons before the same magistrate
+- [[wiki/mind/concepts/acquisition-drive]] — the drive this night illustrates at almost zero stakes
+- [[wiki/people/suzanne-frank|Suzanne Frank]] — whose 2am lemon request set the night in motion
+- [[wiki/people/jack-connor|Jack Connor]] — the lawyer who defeated the ARD bar
+
+## References
+
+- raw/legal/documents/2015-02_fayette-court-blotter-possession-charges.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/legal/captures/2026-08-02_200741_the-arrest-the-real-one.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/people/captures/2026-08-27_223406_gap-alexis-armel.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/message-csv/imessage_ALL_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+
+**What the record does not establish.** The exact arrest date within the days
+before February 17, 2015 is not known, nor is the arresting barracks, the
+docket number, or whether the expungement was ever completed. The blotter
+prints the charges without grading them; Dan's own telling calls the residue
+count a "class B controlled substance," which is recorded here as his
+description rather than as a documented grade. The nine months between the
 February 2015 filing and the first surviving message about the case in December
 2015 contain the preliminary hearing and arraignment and are entirely
-undocumented.
-
-> **CORRECTION [2026-08-22]:** This section previously read *"Magisterial*
-> *District Judge **Michael Metros** appears once, in the blotter, and has no*
-> *other trace in the corpus."* He appears twice. The April 2018 summons behind
-> [[wiki/timeline/events/uniontown-hospital-vape-alarm]] — docket
-> MJ-14101-NT-0000082-2018, filed 4/5/2018 — names **Honorable Michael M.**
-> **Metros**, MDJ-14-1-01, 88 North Gallatin Avenue, Uniontown, and gives the
-> district's telephone number and address that the blotter did not. Both of
-> Dan's documented charging events ran through the same magisterial district
-> three years apart, which is unremarkable for a man living in Uniontown and
-> is still the only thing they have in common. It does not supply this case's
-> docket number, which remains unknown: MDJS dockets are per-case, and knowing
-> the court is not knowing the case.
-
-Whether the fines referenced in January and February 2016 belong to this case,
-to [[wiki/legal/2015-retail-theft-arrest|the Combos matter]], or to both
-running concurrently is not determinable from the message record — the
+undocumented. Whether the fines referenced in January and February 2016 belong
+to this case, to [[wiki/legal/2015-retail-theft-arrest|the Combos matter]], or
+to both running concurrently is not determinable from the message record — the
 "combos are paid off" phrasing suggests at least some of that money was the
 theft fine. The identity of the DA holding the no-ARD-for-cocaine policy is
 not named. And Dan's claim that he completed ARD "without incident" is the
 only account of the six-month probation that exists anywhere in the corpus.
-
-

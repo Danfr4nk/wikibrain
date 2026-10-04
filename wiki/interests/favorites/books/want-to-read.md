@@ -4,7 +4,7 @@ page_type: synthesis
 status: active
 knowledge: derived
 date_created: 2026-07-14
-date_modified: 2026-07-14
+date_modified: 2026-10-04
 sources:
   - raw/self/dox-md/DAN_COMP.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes:
@@ -24,19 +24,12 @@ tags: [politics, ideology, personality-profile, nyc-era, addiction-recovery]
 
 149 titles on Dan's Goodreads "want to read" shelf — never mined before
 this pass, distinct from the 120-book *read* corpus already covered in
-[[wiki/interests/favorites/books]]. Where the read list is a record of
+[[wiki/interests/favorites/books]].
+
+Where the read list is a record of
 what Dan has actually consumed, this is a map of intent: what he considers
 worth his time next, which is its own signal about the shape of his
 interests even before a single page gets turned.
-
-## Dimensions
-
-| Metric | Value |
-|--------|-------|
-| Total titles | 149 |
-| Average Goodreads rating | 4.11 |
-| Rated 4.4+ (aspirational top tier) | 19 |
-| Highest-rated on the shelf | *The Sinister Truth: Mk-Ultra* (Ciaccia, 4.75) |
 
 ## Patterns
 
@@ -62,6 +55,15 @@ and *How Democracies Die* / *The Anatomy of Fascism* / *Wannabe Fascists*
 cluster with the already-read Finchelstein title, showing the
 fascism-comparison reading isn't a one-off but a sustained line of
 inquiry.
+
+## Dimensions
+
+| Metric | Value |
+|--------|-------|
+| Total titles | 149 |
+| Average Goodreads rating | 4.11 |
+| Rated 4.4+ (aspirational top tier) | 19 |
+| Highest-rated on the shelf | *The Sinister Truth: Mk-Ultra* (Ciaccia, 4.75) |
 
 ## Full List
 
@@ -218,8 +220,17 @@ inquiry.
 | A Protest History of the United States | Browne-Marshall, Gloria J. | 4.25 |
 | The History of the Ancient World | Bauer, Susan Wise | 4.11 |
 
-## Sources
+## See also
+
+- [[wiki/interests/favorites/books]]
+- [[wiki/interests/favorites/books/topics/politics]]
+- [[wiki/interests/favorites/books/topics/ancient-history]]
+- [[wiki/self/context-core]]
+- [[wiki/mind/profile/index]]
+
+## References
+
+- `raw/self/dox-md/DAN_COMP.md` — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 
 `raw/self/dox-md/DAN_COMP.md` — an image-transcription export of Dan's full Goodreads "Read" and "Want to Read" shelves. The "Read" section (120 titles) duplicates the corpus already covered by [[wiki/interests/favorites/books]]; this page covers only the "Want to Read" section, which had not been mined before.
-
 

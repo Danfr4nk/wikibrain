@@ -5,7 +5,7 @@ title: "117 Belmont Circle"
 status: closed
 knowledge: mixed
 date_created: 2026-07-13
-date_modified: 2026-08-27
+date_modified: 2026-10-04
 date_range_start: 1961-02-08
 date_range_end: 2019-09-01
 sources:
@@ -64,7 +64,9 @@ lot: the family's return to Fayette County, the golf lineage he inherited
 rather than chose, the fifty-year property-line adjacency to
 [[wiki/people/annie-ulmer|Annie Ulmer's]] grandparents that both families
 read as fate, and the paid caregiving job that ended in the night documented
-at [[wiki/timeline/events/the-fall-of-fran]]. It is also, for eight months
+at [[wiki/timeline/events/the-fall-of-fran]].
+
+It is also, for eight months
 in 2018 — five of them after Fran was dead — the address Dan gave out when
 he wanted somebody to come to him.
 
@@ -108,11 +110,6 @@ Fayette County inside the same three years. Neither knew the other was doing
 it, and the two returns produce the two houses — Belmont Circle and
 [[wiki/places/337-saratoga-drive|337 Saratoga Drive]] — that between them
 hold every domestic scene in this corpus before 2019.
-
-> **REVISED [2026-08-08]:** Earlier versions of this page dated the tenure
-> as "more than fifty years" and left it there, which is true but soft. The
-> GEDCOM fixes a floor at 1961 and supplies the mechanism (a return from
-> Miami Beach) and the first documented event inside the house (a wedding).
 
 ## The three parcels
 
@@ -221,19 +218,6 @@ resolve it, but it supplies the missing option: through the spring and
 summer of 2018 he had somewhere else to be, one lot away, and he was using
 it.
 
-> **UPDATE [2026-08-22]:** The notice's outcome is now partly recorded, and it
-> points at a *different* house. A Fayette County summons filed **April 5,**
-> **2018** — seven days after the notice — gives Dan's address as
-> **337 Saratoga Drive** ([[wiki/timeline/events/uniontown-hospital-vape-alarm]]).
-> So there were two somewheres, not one: this house was where he *was* across
-> that spring, by his own texts, and [[wiki/places/337-saratoga-drive|337
-> Saratoga]] was where the Commonwealth wrote to him. The two are not in
-> conflict — an address of record and an operating address are different
-> things, and the gap between them is itself characteristic of the period. It
-> does mean this section's "he had somewhere else to be" should be read as an
-> observation about use rather than about residency, which is now separately
-> documented and is not this address.
-
 ## The listing
 
 The house was re-listed after Fran's death, and the realtor was Danny
@@ -254,14 +238,6 @@ It closed in **summer 2019** for **$250,000** — operator testimony, and the
 only account of the closing that exists. The pending status Danny reported on
 July 11 held; the "second time's a charm" listing was the one that completed.
 
-> **GAP CLOSED [2026-08-27]:** the page previously said *"whether the sale*
-> *actually closed, when, to whom and for how much is undocumented; the record*
-> *stops at 'pending.'"* Two of those four are now answered — **when** (summer
-> 2019) and **for how much** ($250,000). **To whom** remains unknown, and so
-> does whether the closing was the same transaction Danny reported pending
-> sixteen days earlier or a later one. Source:
-> `raw/places/captures/2026-08-27_022401_gap-117-belmont-circle.md`.
-
 **What corroborates this and what does not.** The message record ends the
 story at "pending" and never returns to it, so nothing in `raw/` confirms
 either figure independently — this rests on testimony alone. It is, however,
@@ -272,6 +248,34 @@ in a different way — no listing price appears anywhere in the corpus, so
 there is nothing to compare $250,000 against, not even a delta from the
 failed first attempt.
 
+## Conflicts in the record
+
+> **REVISED [2026-08-08]:** Earlier versions of this page dated the tenure
+> as "more than fifty years" and left it there, which is true but soft. The
+> GEDCOM fixes a floor at 1961 and supplies the mechanism (a return from
+> Miami Beach) and the first documented event inside the house (a wedding).
+
+> **UPDATE [2026-08-22]:** The notice's outcome is now partly recorded, and it
+> points at a *different* house. A Fayette County summons filed **April 5,**
+> **2018** — seven days after the notice — gives Dan's address as
+> **337 Saratoga Drive** ([[wiki/timeline/events/uniontown-hospital-vape-alarm]]).
+> So there were two somewheres, not one: this house was where he *was* across
+> that spring, by his own texts, and [[wiki/places/337-saratoga-drive|337
+> Saratoga]] was where the Commonwealth wrote to him. The two are not in
+> conflict — an address of record and an operating address are different
+> things, and the gap between them is itself characteristic of the period. It
+> does mean this section's "he had somewhere else to be" should be read as an
+> observation about use rather than about residency, which is now separately
+> documented and is not this address.
+
+> **GAP CLOSED [2026-08-27]:** the page previously said *"whether the sale*
+> *actually closed, when, to whom and for how much is undocumented; the record*
+> *stops at 'pending.'"* Two of those four are now answered — **when** (summer
+> 2019) and **for how much** ($250,000). **To whom** remains unknown, and so
+> does whether the closing was the same transaction Danny reported pending
+> sixteen days earlier or a later one. Source:
+> `raw/places/captures/2026-08-27_022401_gap-117-belmont-circle.md`.
+
 **What this fixes downstream.** The house had no documented end. Its
 `date_range_end` was 2019-07-11 — the date somebody *mentioned* it was
 pending, which is a message date, not a property event. The residency's
@@ -279,7 +283,32 @@ actual terminus is the summer 2019 closing, and the fifty-seven-year tenure
 is now bounded at both ends by something that happened to the house rather
 than by the last time anyone talked about it.
 
-## Gaps
+## See also
+
+- [[wiki/timeline/events/the-fall-of-fran]]
+- [[wiki/timeline/events/fran-death-vigil]]
+- [[wiki/people/fran-coldren]]
+- [[wiki/people/annie-ulmer]]
+- [[wiki/people/danny-matthews]]
+- [[wiki/people/jacob-bacharach]]
+- [[wiki/people/christo-coan]]
+- [[wiki/places/155-virginia-ave]]
+- [[wiki/places/337-saratoga-drive]]
+- [[wiki/work/nemacolin-caddying]]
+- [[wiki/interests/golf]]
+- [[wiki/places/the-unpapered-address]]
+
+## References
+
+- raw/self/ancestry/extracted/Daniel Frank family tree.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dansynth/dansynth-scrape-phases-2-7.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/places/captures/2026-08-27_022401_gap-117-belmont-circle.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+
+### Gaps
 
 The sale's **buyer** is still unknown, and with them the question of whether
 the house left the family's orbit entirely or went to somebody in it. Four
@@ -291,5 +320,4 @@ records what happened to the contents — Fran held this house for fifty-seven
 years, and no inventory, no photograph and no account of its clearance exists
 anywhere in the corpus. The earlier failed listing likewise still rests
 entirely on Danny's four words, with no independent trace.
-
 

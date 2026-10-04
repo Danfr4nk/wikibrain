@@ -7,7 +7,7 @@ status: closed
 importance: normal
 knowledge: mixed
 date_created: 2026-08-02
-date_modified: 2026-08-22
+date_modified: 2026-10-04
 date_range: ["2018-04-01", "2018-04-17"]
 sources:
   - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -58,19 +58,14 @@ triggered a fire alarm that chain-spread across the entire hospital. Four
 fire trucks arrived within minutes. Firefighters and a security guard
 entered the room; Dan told them the device "went off in my pocket"; they
 shook their heads, killed the alarms, and walked him off the property, where
-the guard wrote up charging documents. Those documents were real: a summary
+the guard wrote up charging documents.
+
+Those documents were real: a summary
 non-traffic case was filed with the Fayette County magistrate on **April 5,
 2018**, the day after Fran died, under docket **MJ-14101-NT-0000082-2018**, on a
 single charge of *smoking* in a hospital. It is the corpus's second documented
 brush with charges, and by some distance its most disproportionate: the thing
 obtained was one drag of nicotine.
-
-This page exists partly to close a gap. The Photo Thread session that
-supplied most of [[wiki/timeline/events/fran-death-vigil]] set this story up
-— the enormous SMOK box mod against [[wiki/people/suzanne-frank|Suz's]]
-dainty 10-watt eJoy — and then delivered the ending only inside an uploaded
-video that is not on disk. The vigil page has carried "fire alarm? staff
-incident?" as an open question since 2026-07-19. It was a fire alarm.
 
 ## The reasoning, which is the actual content
 
@@ -108,31 +103,7 @@ idea of vaping; it was the observation that nobody had objected. The
 family's characteristic move of normalizing the unremarkable-in-context is,
 here, the thing that produced a consequence.
 
-> **CONTRADICTION [2026-08-02] — who was where.**
-> [[wiki/timeline/events/fran-death-vigil]], written from the Photo Thread
-> session, has Dan blowing enormous clouds from a 110-watt SMOK **in the**
-> **room** while Suz puffed her 10-watt device **in the hospital bathroom**.
-> Both captures behind this page invert that: **Suz in the room, Dan in the**
-> **bathroom.** The positions are not decorative — a bathroom smoke detector is
-> exactly where an alarm would trip, so the capture's arrangement is the one
-> that produces the documented outcome, while the vigil's arrangement does
-> not obviously produce it at all. Neither account is contemporaneous and
-> both are Dan's, roughly two weeks apart. Recorded here unresolved; if the
-> `IMG_`-series uploads are ever recovered, they settle it.
-
 ## The legal residue — a filed summary case, docket MJ-14101-NT-0000082-2018
-
-> **GAP CLOSED [2026-08-22]:** This page asked, from its creation until now,
-> *"Whether a summary offense was actually filed with a Fayette County*
-> *magistrate, or whether the paperwork was an incident report a security guard*
-> *described in charging language, is unestablished and answerable only from*
-> *outside the corpus."* It was filed. The operator supplied the summons
-> (`raw/legal/documents/2018-04_summons-hospital-smoking.md`): a
-> **Summons for Summary Case — Non-Traffic**, *Commonwealth of Pennsylvania v.*
-> *Daniel G Frank*, docket **MJ-14101-NT-0000082-2018**, citation **R 2009305-4**,
-> **case filed 4/5/2018** before **Magisterial District Judge Michael M. Metros**,
-> MDJ-14-1-01, 88 North Gallatin Avenue, Uniontown. The security guard's
-> "charging documents" were charging documents.
 
 | field | value |
 |---|---|
@@ -233,7 +204,60 @@ than proof of it. The captures' own year, 2017, is corrected to 2018 on the same
 evidence set out at [[wiki/timeline/events/the-fall-of-fran]] — and now
 independently, by a printed court document reading **2018**.
 
-## Gaps
+## Conflicts in the record
+
+> **CONTRADICTION [2026-08-02] — who was where.**
+> [[wiki/timeline/events/fran-death-vigil]], written from the Photo Thread
+> session, has Dan blowing enormous clouds from a 110-watt SMOK **in the**
+> **room** while Suz puffed her 10-watt device **in the hospital bathroom**.
+> Both captures behind this page invert that: **Suz in the room, Dan in the**
+> **bathroom.** The positions are not decorative — a bathroom smoke detector is
+> exactly where an alarm would trip, so the capture's arrangement is the one
+> that produces the documented outcome, while the vigil's arrangement does
+> not obviously produce it at all. Neither account is contemporaneous and
+> both are Dan's, roughly two weeks apart. Recorded here unresolved; if the
+> `IMG_`-series uploads are ever recovered, they settle it.
+
+> **GAP CLOSED [2026-08-22]:** This page asked, from its creation until now,
+> *"Whether a summary offense was actually filed with a Fayette County*
+> *magistrate, or whether the paperwork was an incident report a security guard*
+> *described in charging language, is unestablished and answerable only from*
+> *outside the corpus."* It was filed. The operator supplied the summons
+> (`raw/legal/documents/2018-04_summons-hospital-smoking.md`): a
+> **Summons for Summary Case — Non-Traffic**, *Commonwealth of Pennsylvania v.*
+> *Daniel G Frank*, docket **MJ-14101-NT-0000082-2018**, citation **R 2009305-4**,
+> **case filed 4/5/2018** before **Magisterial District Judge Michael M. Metros**,
+> MDJ-14-1-01, 88 North Gallatin Avenue, Uniontown. The security guard's
+> "charging documents" were charging documents.
+
+## See also
+
+- [[wiki/timeline/events/the-fall-of-fran]]
+- [[wiki/timeline/events/fran-death-vigil]]
+- [[wiki/people/fran-coldren]]
+- [[wiki/people/suzanne-frank]]
+- [[wiki/places/155-virginia-ave]]
+- [[wiki/places/337-saratoga-drive]]
+- [[wiki/legal/2015-retail-theft-arrest]]
+- [[wiki/legal/2015-possession-arrest]]
+- [[wiki/health/chemical-architecture]]
+- [[wiki/mind/concepts/acquisition-drive]]
+
+## References
+
+- raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/_Photo Thread PT II_ Grand Finale Calibration .md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/legal/documents/2018-04_summons-hospital-smoking.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+
+This page exists partly to close a gap. The Photo Thread session that
+supplied most of [[wiki/timeline/events/fran-death-vigil]] set this story up
+— the enormous SMOK box mod against [[wiki/people/suzanne-frank|Suz's]]
+dainty 10-watt eJoy — and then delivered the ending only inside an uploaded
+video that is not on disk. The vigil page has carried "fire alarm? staff
+incident?" as an open question since 2026-07-19. It was a fire alarm.
+
+### Gaps
 
 **The disposition is the live question now.** The summons closes the "was
 anything filed" gap and opens a sharper one: what happened to docket
@@ -266,5 +290,4 @@ shift rotation; the two exclusions may have overlapped without either being the
 operative one. Annie's reaction, once she learned what had happened, is not
 recorded anywhere, and neither is anyone else's reaction to the envelope
 arriving during the week of the funeral.
-
 

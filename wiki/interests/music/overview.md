@@ -3,7 +3,7 @@ domain: interests
 page_type: summary
 status: active
 date_created: 2026-06-22
-date_modified: 2026-09-03
+date_modified: 2026-10-04
 sources:
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -61,12 +61,25 @@ connections:
     claim: "The ten-year silence ends: a MOGZART drum-and-bass remix posted 2026-03-04, the first original music on the account since 7 March 2016, under a different alias in a different genre."
 ---
 
-
 # Music Overview
+
+Dan Frank is an independent music producer and label operator based in SW
+Pennsylvania, operating since approximately 2013. His production output is
+organized under four aliases — SLOPPP, MOGZART, Mogged Up, and the current
+primary alias GRIPNOTIC — unified by an involuntary sub-bass signature
+confirmed across thirteen years of output. The production identity was
+seeded by a Numark NS7 gifted by his maternal great-grandmother
+[[wiki/people/fran-coldren|Fran Coldren]].
+
+This page is the production side of the music record: the aliases, the
+philosophy behind them, and what two independent corpora — the private
+message record and the public tweet archive — do and do not show about the
+enterprise. The consumption side lives in the favorites domain
+([[wiki/interests/favorites/index]]).
 
 ## Production Identity
 
-Dan Frank is an independent music producer and label operator based in SW Pennsylvania, operating since approximately 2013. The production output is organized under four aliases that map to distinct periods and aesthetics, all unified by an involuntary sub-bass signature confirmed across 13 years of output. [[wiki/mind/synthesis/alias-as-periodization]] disputes the second half of that sentence: reading the alias pages against each other, the aesthetics do not in fact turn over at the renames — only the periods do, which is why it argues the alias is a clock rather than a style.
+Dan Frank is an independent music producer and label operator based in SW Pennsylvania, operating since approximately 2013. The production output is organized under four aliases that map to distinct periods, all unified by an involuntary sub-bass signature confirmed across 13 years of output.
 
 The core identity is electronic — sub-bass dominant, non-guitar, non-rock. This direction is not contrarian posturing: per the Jimmy Pop data, guitar-centered music lost cultural relevance in streaming charts and sales after its 1963 peak. The move to electronic production was a correct read of where authentic expression lived, not a retreat from something better. See [[wiki/interests/music/concepts/sub-bass-signature]] for the technical signature. The Numark NS7 — gifted by maternal great-grandmother [[wiki/people/fran-coldren]] — seeded the production identity.
 
@@ -122,13 +135,6 @@ complete-log doctrine.
 
 ## What the message record says about the production identity
 
-> **CORRECTED [2026-08-23].** This page has described the production domain as
-> one that *"requires active build-out"* — framing the absence of release data as
-> a documentation gap this wiki had not got to yet.
-> [[wiki/mind/synthesis/failure-to-launch]] searched the full 196,399-message
-> corpus for it, and **the absence is in the record, not in the wiki's coverage**
-> **of it.**
-
 Across fifteen years and 98,056 of Dan's own messages: **one** message about
 making a beat, track, tune or remix; **zero** about being in a studio; **three**
 lifetime mentions of `gripnotic`, all in 2026; eight of `mogzart`; one of
@@ -172,24 +178,6 @@ his releases.
 
 He also placed himself accurately: *"as a 'nobody' DJ, the aoki scandal is
 extra annoying"* (25 April 2014).
-
-> **QUALIFIED [2026-09-02]:** this page concludes that the production
-> identity is **"self-concept rather than enterprise."** For 2014 that is
-> wrong, and the year is not an outlier chosen to break the rule — it is the
-> alias's peak, and the wiki already knew it was.
->
-> The **message-corpus** finding is untouched: Dan genuinely does not talk
-> about making music in his texts, at any point, including 2014. The
-> **inference** drawn from it is what needs narrowing. Silence in one channel
-> is evidence about that channel. What 2014 shows is that the activity was
-> real, sustained, outward-facing and competitive *while he was not*
-> *mentioning it to anyone privately* — which makes the private silence a
-> more interesting fact, not a less interesting one.
->
-> The corrected reading is harder rather than softer: **he did run it as an**
-> **enterprise, for about a year, and then stopped.** "He never really did it"
-> is the comfortable version. `failure-to-launch` should carry the sharper
-> one.
 
 **How this was found, and the general point.** 2014 was read tweet by tweet.
 A keyword count over it would have returned a high production share and told
@@ -254,6 +242,43 @@ reconstructions whose counts are floors — but the 2017–2025 window is
 spreadsheet-complete, so the zero in it is a real zero and not a gap in
 retrieval.
 
+The lineage documented here is one facet — the professional mode — of a broader claim: that music is a primary, life-spanning structure of self, argued as the four-mode thesis at [[wiki/mind/synthesis/music-as-identity]].
+
+## Conflicts in the record
+
+### The alias framing
+
+This page's framing — four aliases mapping to distinct periods and distinct
+aesthetics — is disputed by [[wiki/mind/synthesis/alias-as-periodization]]:
+reading the alias pages against each other, the aesthetics do not in fact
+turn over at the renames — only the periods do, so the alias functions as a
+clock rather than a style.
+
+> **CORRECTED [2026-08-23].** This page has described the production domain as
+> one that *"requires active build-out"* — framing the absence of release data as
+> a documentation gap this wiki had not got to yet.
+> [[wiki/mind/synthesis/failure-to-launch]] searched the full 196,399-message
+> corpus for it, and **the absence is in the record, not in the wiki's coverage**
+> **of it.**
+
+> **QUALIFIED [2026-09-02]:** this page concludes that the production
+> identity is **"self-concept rather than enterprise."** For 2014 that is
+> wrong, and the year is not an outlier chosen to break the rule — it is the
+> alias's peak, and the wiki already knew it was.
+>
+> The **message-corpus** finding is untouched: Dan genuinely does not talk
+> about making music in his texts, at any point, including 2014. The
+> **inference** drawn from it is what needs narrowing. Silence in one channel
+> is evidence about that channel. What 2014 shows is that the activity was
+> real, sustained, outward-facing and competitive *while he was not*
+> *mentioning it to anyone privately* — which makes the private silence a
+> more interesting fact, not a less interesting one.
+>
+> The corrected reading is harder rather than softer: **he did run it as an**
+> **enterprise, for about a year, and then stopped.** "He never really did it"
+> is the comfortable version. `failure-to-launch` should carry the sharper
+> one.
+
 > **RESOLVED [2026-09-02] — the disputed tweet is real, and the archive was**
 > **the unreliable source.** This block previously said the corpus could not
 > tell whether `raw/self/dox-scan/FULL TWITTER ANALYSIS.txt` had invented the
@@ -287,13 +312,22 @@ retrieval.
 > results per query, so it can confirm a named tweet exists and cannot
 > enumerate what else 2017–2025 is missing.
 
+## See also
 
-## Related
+- [[wiki/interests/music/aliases/gripnotic]]
+- [[wiki/interests/music/aliases/mogzart]]
+- [[wiki/interests/music/aliases/sloppp]]
+- [[wiki/interests/music/aliases/mogged-up]]
 - [[wiki/interests/music/concepts/sub-bass-signature]]
 - [[wiki/interests/favorites/index]]
 - [[wiki/mind/synthesis/totality-themes]] (music as recurring sincere thread)
+- [[wiki/mind/synthesis/music-as-identity]]
 - [[wiki/self/context-core]] (biographical spine with alias timeline)
+- [[wiki/self/overview]]
 
-The lineage documented here is one facet — the professional mode — of a broader claim: that music is a primary, life-spanning structure of self, argued as the four-mode thesis at [[wiki/mind/synthesis/music-as-identity]].
+## References
 
-
+- raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/chats/The 2nd most famous 'Jimmy Pop' in Pennsylvania .md — ⚠ Source reference unresolved — original target no longer exists in current corpus.

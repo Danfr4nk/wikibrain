@@ -5,7 +5,7 @@ title: "Creative License (NYC, 2011–2012)"
 status: closed
 knowledge: mixed
 date_created: 2026-08-10
-date_modified: 2026-08-10
+date_modified: 2026-10-04
 date_range_start: 2011-04-01
 date_range_end: 2012-02-15
 sources:
@@ -60,45 +60,30 @@ connections:
 Creative License was a small celebrity-talent and licensed-music brokering
 company at 71 8th Avenue in the West Village — its one recovered client
 pitch is a Walmart RFP for "3rd Party Negotiator — Licensed Music and
-Celebrity Talent," not the generic "production services" earlier passes on
-this page guessed at — where Dan worked under company president
-[[wiki/people/kevin-mckiernan|Kevin McKiernan]] from April 2011 to
-February 2012. It is the second of two consecutive studio-adjacent jobs in
-Dan's only NYC-era stretch of audio-engineering-track employment (the
-first was an internship/engineer role at Ishlab Studios under Jamin
-Gilbert, 10 Jay Street, DUMBO — still undocumented in the wiki beyond this
-mention).
+Celebrity Talent." Dan Frank worked there from April 2011 to February 2012
+under company president [[wiki/people/kevin-mckiernan|Kevin McKiernan]],
+in a job whose contemporaneous title — attested by his own email signature
+from the job itself, and independently by LinkedIn's 2012 notice to him —
+was **"Special Projects Coordinator."**
 
-> **CORRECTED, then RE-CORRECTED [2026-08-10, three passes in one day]:**
-> Pass one, written earlier the same day from the Facebook address book and
-> two AI dossiers, correctly flagged that the dossiers' "airfare-billing
-> discrepancies and altered intern contracts" claim had zero primary
-> corroboration, and concluded the whole "founding case" story might be
-> unconfirmed narrative. Pass two, a live Gmail search prompted by the
-> operator ("i believe there IS corroborating info about kevin mckiernan in
-> my gmail"), recovered ~35 real 2011–2012 threads documenting a genuine
-> conflict — but found no airfare dispute in them, and this page briefly,
-> **wrongly**, concluded the airfare claim was outright invented. That
-> conclusion was itself an extraction failure: it never checked the wiki's
-> own existing `wiki/self/chats/gemini-58.md` page, built from a source
-> already in `raw/` (`Gemini-_58.txt`) that was sitting there the whole
-> time. Pass three (prompted by the operator again: "check all of my
-> gmail stuff and takeout archives for kevin mckiernan shit") found it, and
-> found something neither prior pass had: **Dan's own primary testimony**,
-> inside that Gemini session, stating plainly that he did cite an airfare
-> issue as his reason for quitting — "the thing i cited when i quit had to
-> do with some kind of small fraud with airplane tickets that i blew it up
-> into a much much bigger thing but maybe i was just desensitized." That
-> sentence is Dan's own words, not the model's — per this wiki's own
-> source-tier discipline, that makes it primary testimony, and it settles
-> the question pass two got wrong: the airfare citation is real. What
-> remains unconfirmed is Gemini's own elaboration of what the "small fraud"
-> specifically was (a claim about mismarked travel-expense billing to
-> Walmart/Molson Coors) — that detail is the model's speculative fleshing-
-> out of one prompt sentence and should not be treated as verified. See
-> `raw/self/gmail-captures/2026-08-10-creative-license-kevin-mckiernan-gmail.md`
-> for the Gmail record and `raw/self/dox-scan/Gemini-_58.txt` (lines
-> 580–625) for the Gemini exchange this correction draws from.
+It was the second of two consecutive studio-adjacent jobs in Dan's only
+NYC-era stretch of audio-engineering-track employment (the first was an
+internship/engineer role at Ishlab Studios under Jamin Gilbert, 10 Jay
+Street, DUMBO), and the one period of his life in which that training was
+the actual job. The day-to-day work was ordinary office work: correspondence,
+travel logistics, calendar management, graphic design elements, oversight
+of office and employee expenses, and client relationships with Walmart and
+Molson Coors.
+
+It ended in a sequence reconstructed here from the recovered 2011–2012
+email record: a stated reason for quitting that Dan later described in his
+own words, a six-week dispute over a final paycheck, complaints filed with
+the IRS and the New York State Department of Labor, an unprompted
+whistleblower disclosure about altered intern contracts, and a retaliatory
+LinkedIn claim backed by notarized false statements. It is the earliest
+well-documented instance in the corpus of a shape the wiki returns to
+repeatedly: capability entering an institution, and exiting through a
+fight about the record.
 
 ## What the job actually was
 
@@ -272,7 +257,78 @@ airfare complaint was proportionate to what actually happened.
 | Retaliation | Kevin's notarized LinkedIn IP claim, backed by Katherine Palakovich's notarization, June 2012 |
 | Outcome | Dan's counter-notice filed; LinkedIn resolution unconfirmed; profile appears to have survived |
 
-## Gaps
+## Conflicts in the record
+
+**2026-08-10 — this page's own correction history (three passes in one
+day).** What earlier passes of this page claimed, what the record shows,
+and where it stands:
+
+> **CORRECTED, then RE-CORRECTED [2026-08-10, three passes in one day]:**
+> Pass one, written earlier the same day from the Facebook address book and
+> two AI dossiers, correctly flagged that the dossiers' "airfare-billing
+> discrepancies and altered intern contracts" claim had zero primary
+> corroboration, and concluded the whole "founding case" story might be
+> unconfirmed narrative. Pass two, a live Gmail search prompted by the
+> operator ("i believe there IS corroborating info about kevin mckiernan in
+> my gmail"), recovered ~35 real 2011–2012 threads documenting a genuine
+> conflict — but found no airfare dispute in them, and this page briefly,
+> **wrongly**, concluded the airfare claim was outright invented. That
+> conclusion was itself an extraction failure: it never checked the wiki's
+> own existing `wiki/self/chats/gemini-58.md` page, built from a source
+> already in `raw/` (`Gemini-_58.txt`) that was sitting there the whole
+> time. Pass three (prompted by the operator again: "check all of my
+> gmail stuff and takeout archives for kevin mckiernan shit") found it, and
+> found something neither prior pass had: **Dan's own primary testimony**,
+> inside that Gemini session, stating plainly that he did cite an airfare
+> issue as his reason for quitting — "the thing i cited when i quit had to
+> do with some kind of small fraud with airplane tickets that i blew it up
+> into a much much bigger thing but maybe i was just desensitized." That
+> sentence is Dan's own words, not the model's — per this wiki's own
+> source-tier discipline, that makes it primary testimony, and it settles
+> the question pass two got wrong: the airfare citation is real. What
+> remains unconfirmed is Gemini's own elaboration of what the "small fraud"
+> specifically was (a claim about mismarked travel-expense billing to
+> Walmart/Molson Coors) — that detail is the model's speculative fleshing-
+> out of one prompt sentence and should not be treated as verified. See
+> `raw/self/gmail-captures/2026-08-10-creative-license-kevin-mckiernan-gmail.md`
+> for the Gmail record and `raw/self/dox-scan/Gemini-_58.txt` (lines
+> 580–625) for the Gemini exchange this correction draws from.
+
+Current standing: the body of this page reflects pass three. The airfare
+citation is confirmed as Dan's stated reason, in his own words; the
+specific mechanism of the alleged fraud remains unverified; the payroll,
+whistleblower, and retaliation sequence is documented in the email record
+as set out above. An earlier pass also described the company itself with
+the generic label "production services"; the one recovered client pitch —
+the Walmart RFP for "3rd Party Negotiator — Licensed Music and Celebrity
+Talent" — is what fixes what the company actually sold.
+
+## See also
+
+- [[wiki/people/kevin-mckiernan|Kevin McKiernan]]
+- [[wiki/people/marty-jackson|Marty Jackson]]
+- [[wiki/people/katherine-palakovich|Katherine Palakovich]]
+- [[wiki/people/renae-holland|Renae Holland]]
+- [[wiki/people/rick-frank|Rick Frank]]
+- [[wiki/places/90th-st-manhattan]]
+- [[wiki/places/424-bedford-ave]]
+- [[wiki/work/bfs-foods]]
+- [[wiki/mind/synthesis/failure-to-launch]]
+- [[wiki/mind/synthesis/vertical-authority-skepticism]]
+
+## References
+
+- raw/self/dox-scan/Resume.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/facebook/facebook-ihatedanfrank/other_personal_information/your_address_books.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/facebook/facebook-ihatedanfrank/messages/inbox/kevinmckiernan__3hd8v2u0g/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/THE_DAN_FRANK_MANUAL.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/DAN_COGNITIVE_PROFILE.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/gmail/2026-08-10-creative-license-kevin-mckiernan-gmail.md
+- raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-58.md
+
+### Gaps
 
 The specific mechanism behind the airfare citation — what Dan actually
 found in the travel-expense records, and whether it involved
@@ -291,5 +347,3 @@ Gmail search — a targeted follow-up search (by name rather than
 "mckiernan"/"creative license") would likely surface them. Ishlab
 Studios, the job immediately preceding this one, still has no page of its
 own.
-
-

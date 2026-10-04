@@ -6,7 +6,7 @@ aliases: ["Jake Bacharach"]
 status: stable
 knowledge: mixed
 date_created: 2026-06-22
-date_modified: 2026-08-08
+date_modified: 2026-10-04
 date_range_start: 2021-02-06
 sources:
   - raw/wiki/new-wiki/wikibrain/wiki/people/jacob-bacharach.md
@@ -71,10 +71,6 @@ analytical object in the corpus: the **Uniontown Glitch**, the case Dan
 returns to for five years, builds an interactive artifact around, and uses
 as the reference standard against which he measures how unlikely anything
 else in his life is.
-
-The chain is genuinely improbable. It is also, in almost every retelling
-including this wiki's own earlier ones, told slightly wrong. The value of
-this page is not the coincidence. It is the correction record.
 
 ## What actually happened, dated from the message corpus
 
@@ -147,18 +143,63 @@ Bacharach household therefore enters this wiki twice over — once as the
 family that produced a novelist and once as a family that lost a son the way
 a large share of Dan's own cohort was lost.
 
-## The house, and the corrections that built the finding
+## The house
 
 The novel describes a rental on **Virginia Avenue** in South Union Township
 backing onto the **fifth fairway of the Uniontown Country Club**, its
 exterior a glazed brick that reads as either reflective or filthy depending
 on the light. Only one house on that street shares a property line with the
 course: **[[wiki/places/155-virginia-ave|155 Virginia Avenue]]**, which
-Suz bought and Dan lived in from January 2015 to February 2019.
+Suz bought and Dan lived in from January 2015 to February 2019. The novel
+is *The Doorposts of Your House and on Your Gates* (Liveright, 2017).
 
-The reason this page exists in the form it does is that the first four
-readings of that fact were all wrong, and each was corrected by Dan against
-a model that had stated it confidently:
+What survives the corrections is smaller and harder: a novelist picked one house
+out of a town by its curb appeal, and the woman who ended up owning it was
+his childhood neighbour's mother, and her son lived in it for four years,
+and he found out because an autoplay queue handed him the author's voice in
+another state six years later. Dan's own ranking of the improbabilities puts
+the teenage commercial job first — the economic link precedes the geographic
+one — and the AI's summarising line, which is why the episode stuck, is
+that he *"had to move to NYC to get served a podcast by an algorithm that
+randomly selected the one guy who used your mom's rental property as a
+literary prop, simply because he thought the brick looked ugly from the
+street."*
+
+## The ground it all sits on
+
+The last correction is geographic and it is Dan's own, given flatly in a
+February 2026 session: **117 Belmont Circle sits on the lot adjacent to 155
+Virginia Avenue.** [[wiki/places/117-belmont-circle|Fran Coldren's house]] —
+the family's seat for fifty-seven years, the house Dan and
+[[wiki/people/annie-ulmer|Annie]] were paid to keep her in, next door to the
+house Annie's own grandparents held for the same half-century — is a
+property line away from the house a novelist picked out of a town at random.
+The literary coincidence and the multi-generational family entanglement that
+produced the defining relationship of Dan's adult life are not two stories
+about Uniontown. They are the same three hundred feet of ground along the
+same fairway, and no telling of the Bacharach story before this one had put
+them on the same map.
+
+## 2026-09-13 — Dan re-centers the series on 155 Virginia Ave
+
+In the September 13 photo-intake chat, asked which address holds "a bunch of
+really weird and odd coincidences," Dan answered 155 Virginia Avenue and
+clarified: "I was referring to the series of Jacob Bacharach coincidences that
+center around the house" (`dat:1478-bacharach-virginia-ave-centering-20260913`).
+This matches the chain's third link — the novel's fictional rental is that
+house, picked for the glazed brick — not the Saratoga thread this page marks as
+the relationship's mundane basis. Worth noting as narration, not correction: in
+Dan's current telling the Virginia house is the center of gravity of the whole
+series, while the Saratoga decoupling the forensic pass insisted on doesn't
+figure. The chain itself is unchanged.
+
+## Conflicts in the record
+
+**The house finding: four confident readings, each corrected by Dan.** The
+finding this page is built on took shape across the forensic sessions that
+followed the 2025-12-21 reading, and the first four readings of the house
+fact were all wrong — each corrected by Dan against a model that had stated
+it confidently:
 
 - **"Virginia Avenue is a renamed Saratoga Drive."** Rejected — Virginia
   Avenue is the real street name, unfictionalised.
@@ -178,20 +219,6 @@ a model that had stated it confidently:
   the book's setting after the book existed. Suz's purchase, which Dan
   insisted on ("she bought it before he wrote the book"), is the only part of
   the sequence that genuinely precedes the writing.
-
-What survives all four is smaller and harder: a novelist picked one house
-out of a town by its curb appeal, and the woman who ended up owning it was
-his childhood neighbour's mother, and her son lived in it for four years,
-and he found out because an autoplay queue handed him the author's voice in
-another state six years later. Dan's own ranking of the improbabilities puts
-the teenage commercial job first — the economic link precedes the geographic
-one — and the AI's summarising line, which is why the episode stuck, is
-that he *"had to move to NYC to get served a podcast by an algorithm that
-randomly selected the one guy who used your mom's rental property as a
-literary prop, simply because he thought the brick looked ugly from the
-street."*
-
-## Which book is it
 
 > **CONTRADICTION [2026-08-08] — RESOLVED 2026-09-15 (work-0030).** The
 > passage is from ***The Doorposts of Your House and on Your Gates***
@@ -221,6 +248,12 @@ street."*
 > source. This also
 > retires the unsupported claim the earlier version of this page carried:
 > that Dan had read and five-starred *both* novels. The record shows one.
+
+**Nathan Bacharach's death date.** The Gemini session dates his death to
+**August 1, 2009**, from an obituary and a *Pittsburgh Jewish Chronicle*
+piece on his struggle with addiction; this page's older sources carried
+**July 30, 2009**. The two-day discrepancy is unresolved, and nothing
+depends on it.
 
 ## Why it is the flagship
 
@@ -257,47 +290,41 @@ thing into an **interactive HTML artifact for Bacharach** — the same
 apparatus-building reflex the [[wiki/timeline/periods/2025-collapse|2025–26
 collapse]] documents being aimed at people much closer to him.
 
-## The ground it all sits on
+## See also
 
-The last correction is geographic and it is Dan's own, given flatly in a
-February 2026 session: **117 Belmont Circle sits on the lot adjacent to 155
-Virginia Avenue.** [[wiki/places/117-belmont-circle|Fran Coldren's house]] —
-the family's seat for fifty-seven years, the house Dan and
-[[wiki/people/annie-ulmer|Annie]] were paid to keep her in, next door to the
-house Annie's own grandparents held for the same half-century — is a
-property line away from the house a novelist picked out of a town at random.
-The literary coincidence and the multi-generational family entanglement that
-produced the defining relationship of Dan's adult life are not two stories
-about Uniontown. They are the same three hundred feet of ground along the
-same fairway, and no telling of the Bacharach story before this one had put
-them on the same map.
+- [[wiki/places/155-virginia-ave|155 Virginia Avenue]] — the novel's rental house, and Dan's home 2015–2019
+- [[wiki/places/117-belmont-circle|117 Belmont Circle]] — Fran's house, on the lot adjacent to the novel's house
+- [[wiki/places/337-saratoga-drive|Saratoga Drive]] — the street the Bacharachs and Franks both lived on
+- [[wiki/people/suzanne-frank|Suzanne Frank]] — owner of the novel's house, first recipient of Bacharach's reply
+- [[wiki/mind/concepts/forensic-method]] — the method this chain is the flagship exhibit for
+- [[wiki/mind/synthesis/ai-collaborative-analysis]] — the collaboration synthesis built on the same transcript
 
-## 2026-09-13 — Dan re-centers the series on 155 Virginia Ave
+## References
 
-In the September 13 photo-intake chat, asked which address holds "a bunch of
-really weird and odd coincidences," Dan answered 155 Virginia Avenue and
-clarified: "I was referring to the series of Jacob Bacharach coincidences that
-center around the house" (`dat:1478-bacharach-virginia-ave-centering-20260913`).
-This matches the chain's third link — the novel's fictional rental is that
-house, picked for the glazed brick — not the Saratoga thread this page marks as
-the relationship's mundane basis. Worth noting as narration, not correction: in
-Dan's current telling the Virginia house is the center of gravity of the whole
-series, while the Saratoga decoupling the forensic pass insisted on doesn't
-figure. The chain itself is unchanged.
+- raw/wiki/new-wiki/wikibrain/wiki/people/jacob-bacharach.md
+- raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-13.md
+- raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-scan/dan tom 2010 2022.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-scan/browser_history_analysis.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/google-drive-export/goodreads_library_export.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2026-07-20).html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md
+- raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/facebook/facebook-ihatedanfrank/messages/inbox/joeoshnack_7killpebkw/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 
-## Gaps
-
-Whether the two men remained in contact after February 11, 2021 is
-undocumented; Dan says "we keep in touch," and the corpus preserves exactly
-one exchange. Whether the HTML artifact was ever sent, and whether Bacharach
-ever learned that the house was in the family, are unrecorded — the session
-transcripts end with the model urging Dan to tell him and no evidence that he
-did. The book question above is resolved (work-0030, 2026-09-15). Gemini asserted, from a deed lookup it
+**What the record does not establish.** Whether the two men remained in
+contact after February 11, 2021 is undocumented; Dan says "we keep in touch,"
+and the corpus preserves exactly one exchange. Whether the HTML artifact was
+ever sent, and whether Bacharach ever learned that the house was in the family,
+are unrecorded — the session transcripts end with the model urging Dan to tell
+him and no evidence that he did. Gemini asserted, from a deed lookup it
 was not asked to show its work on, that Suz held 155 Virginia for roughly
 twelve years and sold it in **May 2020**; that date appears nowhere else in
 the corpus and should be treated as unverified until a Fayette County
-recorder search settles it. And the two-day discrepancy on Nathan Bacharach's
-death date stands.
+recorder search settles it.
 
 ---
 
