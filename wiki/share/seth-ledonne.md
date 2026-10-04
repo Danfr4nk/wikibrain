@@ -2,17 +2,17 @@
 title: Seth LeDonne
 shared: true
 shared_from: wiki/people/seth-ledonne
-shared_at: 2026-10-03
+shared_at: 2026-10-04
 domain: share
 ---
 
-> **Shared snapshot** — a copy of `wiki/people/seth-ledonne` taken on 2026-10-03. This page is public and ungated. Links to other wiki entries were flattened because those entries stay behind the wiki's password gate; the Cliff notes section at the bottom carries the context they would have provided.
+> **Shared snapshot** — a copy of `wiki/people/seth-ledonne` taken on 2026-10-04. This page is public and ungated. Links to other wiki entries were flattened because those entries stay behind the wiki's password gate; the Cliff notes section at the bottom carries the context they would have provided.
 
 # Seth LeDonne
 
 Seth LeDonne is a Uniontown-scene friend who occupies a small thread
 and a large debt. The thread is a single Facebook conversation from the
-spring of 2020 — roughly forty messages across three and a half
+spring of 2020 — 47 messages across three and a half
 months — and it carries two things at once: a real-time account of New
 York City in the lockdown-and-protest season, and one of the rare
 moments in Dan's corpus where he names, specifically and by name, the
@@ -29,11 +29,12 @@ almost never attributes his own formation to anyone.
 The two halves of the thread belong together. The man who wrote the
 curfew dispatches from Manhattan in June 2020 — watching the George
 Floyd-protest curfew land on his neighborhood and describing it as
-"like living in beirut" — is legible partly through the teenager the
-scene made: suspicious of whatever the room is applauding, fluent in
-disdain, and still, in April 2020, unwilling to give his vote to the
-corporate Democratic machinery that had, in his words, "spoiled the
-nomination process." The thread is short. What it documents is not.
+"like living in beruit" [sic] — is legible partly through the teenager
+the scene made: suspicious of whatever the room is applauding, fluent
+in disdain, and still, in April 2020, unwilling to give his vote to
+the corporate Democratic machinery that had, in his words, "spoiled
+the nomination process." The thread is short. What it documents is
+not.
 
 ## The scene and its mentors
 
@@ -41,8 +42,9 @@ Dan came up through the Uniontown-area hardcore and punk scene of the
 early 2000s, and by his own account the scene was not welcoming — it
 was a standard he failed against, repeatedly, in public. The fixed
 points he names are people, not bands: Seth, Andy, Paul, Nathan,
-Kessler. Around them orbits a zine or scene publication called
-"Rejected Gazette," which he names as a touchstone of the same milieu,
+Kessler. Around them orbits a zine he names in the same breath —
+"rejected gazette," in his own lowercase — which he names as a
+touchstone of the same milieu,
 and the basement-show circuit where his high school band,
 **Batteries Not
 Included**, operated inside the mentors' jurisdiction rather than
@@ -102,12 +104,15 @@ acknowledgment was Seth's.
 The tribute arrives on April 17, 2020, unprompted — no occasion, no
 news hook, nothing in the thread's rhythm that requires it. Dan is
 thirty-one, living through the first lockdown spring in New York, and
-he writes back across roughly two decades to assign credit:
+he writes back across roughly two decades to assign credit. It came
+in three messages over twelve minutes; the first carries the debt
+itself:
 
-> "growing up in 'the scene' and being exposed to things like Rejected
-> Gazette and the entire vibe of things... I'm certain that I wouldn't
-> have the appreciation I do for counterculture if not for you, Andy,
-> Paul, Nathan, Kessler."
+> "just another overdue moment of deserved praise... growing up in
+> 'the scene' and being exposed to things like rejected gazette and
+> the entire vibe of things..... it really had such a lasting impact
+> on me and I'm certain that i wouldn't have the appreciation i do
+> for counterculture if not for you, andy, paul, Nathan, kessler"
 
 The letter's argument is that the cruelty was the curriculum. He
 frames the group's harshness as productive rather than damaging —
@@ -116,9 +121,9 @@ developmental for me later in life" — recalling the mocked 311
 tie-dye shirt at the basement show not as a wound but as tuition. And
 then he closes with the line the whole letter exists to deliver:
 
-> "thank you for being so cruel about what an enormous fraud and
-> p0seur I was because it was the catalyst for finding some
-> authenticity."
+> "tl;dr - thank you for being so cruel about what an enormous fraud
+> and p0seur i was because it was the catalyst for finding some
+> authenticity"
 
 Read carefully, the letter is doing something more precise than
 nostalgia. It is a theory of taste stated as gratitude: authenticity
@@ -225,20 +230,23 @@ here.
 
 The thread's sharpest moment comes on June 7, 2020. New York is under
 an 8pm curfew in the George Floyd-protest period, and Dan reports
-from inside it in real time:
+from inside it in real time, in three short messages:
 
-> "8pm curfew... it's been like living in beirut... that's pretty
-> much what all of manhattan has been like."
+> "8pm curfew"
+> "it's been like living in beruit" [sic]
+> "that's pretty much what all of manhattan has been like until today"
 
-The "beirut" comparison is doing reportorial work, not rhetorical:
-a curfew, a emptied and militarized street grid, a city whose normal
+The comparison is doing reportorial work, not rhetorical:
+a curfew, an emptied and militarized street grid, a city whose normal
 signals had been replaced by emergency ones. Seth asks directly
-whether Dan attended protests. The record does not answer him — the
-question is deflected to "let's talk about this later," with a class
-obligation offered as the reason, and the thread never returns to it.
-Three weeks of aftermath follow in diminishing contact, and the
-conversation ends on June 23 with an unreturned call: a planned call,
-and the fate of a zine mailing, left hanging where the thread stops.
+whether Dan attended protests — and then, thirteen seconds later,
+withdraws his own question: "Actually let's talk about this later
+I WILL CALL," citing a class he had to finish by twelve. The question
+was never Dan's to deflect; it was Seth's to postpone, and Dan's only
+reply was "go! talk later." Two weeks of diminishing contact follow,
+and the thread ends on June 23 with a missed-call notice: Seth
+called, Dan missed it. The zine Seth had offered to mail went, on
+this record, unconfirmed.
 
 What the thread amounts to, taken whole, is a three-act contemporaneous
 record: the pandemic arriving (March), the politics souring (April),
@@ -249,62 +257,76 @@ corpus record is small:
 
 | Metric | Value |
 |---|---|
-| Messages | ~40 (Facebook Messenger, both directions) |
+| Messages | 47 (Facebook Messenger, both directions, canonical Drive export) |
 | Date range | 2020-03-10 – 2020-06-23 |
 | Defining content | The counterculture tribute (Apr 17); the curfew account (Jun 7) |
 
 Nothing in the held corpus continues the thread past June 23, 2020.
-Whether Dan attended any 2020 protests, what happened to the planned
-call or the zine mailing, and where Seth is now are all unanswered by
-the record — the friendship's documented life is this one spring.
+Whether Dan attended any 2020 protests, whether the zine Seth offered
+to mail ever arrived, and where Seth is now are all unanswered by the
+record — the friendship's documented life is this one spring.
 
 ## The questions the thread leaves open
 
-The thread ends the way it documents: abruptly, and with the most
-direct question in it unanswered. Seth asks whether Dan attended the
-protests. It is the only question in the exchange aimed at what Dan
-*did* rather than what he saw or believed, and it is the one the
-record deflects — "let's talk about this later," a class obligation
-cited, the conversation moved along. Three readings are available
-and the corpus supports none of them over the others: a man who was
-there and preferred not to testify, a man who wasn't and preferred
-not to say so, or a man for whom the question simply weighed less
-than it does in retrospect. The entry carries the question as open
-because the thread left it open; closing it here would be invention.
+The thread ends the way it documents: abruptly, and with its most
+direct question answered by nobody. Seth asks whether Dan attended
+the protests — the only question in the exchange aimed at what Dan
+*did* rather than what he saw or believed — and then withdraws it
+himself, thirteen seconds later, before Dan can answer: "Actually
+let's talk about this later I WILL CALL." Dan's attendance at the
+2020 protests is therefore genuinely open, but for a reason worth
+stating precisely: the question was postponed by its asker, not
+evaded by its subject. It was never answered because it was never
+re-asked in any held record. Whatever Dan did or didn't do that
+June, this thread does not say, and closing the question here would
+be invention.
 
-The other loose ends are smaller and stay smaller. A call was
-planned and, per the record, not returned by June 23. A zine mailing
-was contemplated and never confirmed. Seth's circumstances after
-June 2020 are not in the held corpus at all. These are the ordinary
-gaps of a correspondence that stops rather than concludes — noted
-here at their true size, which is small, and at their true status,
-which is unresolved.
+The other loose ends are smaller and stay smaller. Seth called on
+June 23; the record carries only the missed-call notice, so whether
+they ever spoke is unrecorded. A zine mailing was offered — Seth's
+own zine, address exchanged — and its arrival never confirmed.
+Seth's circumstances after June 2020 are not in the held corpus at
+all. These are the ordinary gaps of a correspondence that stops
+rather than concludes — noted here at their true size, which is
+small, and at their true status, which is unresolved.
 
 ## Conflicts in the record
 
-- **The thread bodies are not held.** The entry's sole named source —
-  the Facebook Messenger export at
+- **The thread is held; the page's earlier sourcing note is stale.**
+  The full Seth thread — 47 messages, 2020-03-10 to 2020-06-23 —
+  survives in the canonical Messenger Drive export
+  (`raw/messenger-drive-2026-09-12/messenger_drive_canonical.jsonl`,
+  record source `gdrive-fb-20220905`). The earlier audit (kb dat:1166,
+  2026-09-10) called this page's claims "unresolvable from held
+  sources," correctly for its moment: that export landed in the
+  corpus on 2026-09-12, two days after the audit was written. The
+  page's original named source — the ihatedanfrank HTML export at
   `raw/self/facebook/facebook-ihatedanfrank/messages/inbox/sethledonne_ydkapzhbla/message_1.html`
-  — no longer resolves in the current corpus. The repository's
-  Facebook thread archive holds metadata only (396 threads, 15,923
-  messages, fetched 2026-09-09) and no message bodies. Every quote on
-  this page is therefore page-attributed testimony carried by the
-  2026-09-04 old-wiki export (corpus__3.txt line 66879, 88 lines) —
-  neither confirmable nor falsifiable against a held primary source.
-  The audit is on file as kb dat:1166 (2026-09-10), confidence low.
-- **Earlier versions of this entry presented the quotes without the
-  caveat standing where a reader would meet it.** The 2026-07-19
-  version flagged the source as unresolved in its frontmatter but
-  narrated the thread in the same register as verified threads. That
-  tension is corrected here, not hidden: the quotes stay (they are
-  the record the page exists to carry), the testimony status now
-  travels with them.
-- **The metadata checks out where it can be checked.** The thread's
-  existence, its date range, and its message volume are consistent
-  with the thread-level metadata the repository does hold; it is the
-  contents — the load-bearing contents — that sit one export away
-  from verification. Nothing in the held metadata contradicts the
-  page; nothing in it can confirm a single quoted line.
+  — is still not itself held, and `raw/facebook-threads/` still
+  holds metadata only. What changed is verifiability: every quote
+  below is now checkable against Dan's held words, and was checked
+  on 2026-10-04 (see kb/sources/seth-ledonne-thread-provenance-2026-10-04.md).
+- **Quotes corrected to the held text, 2026-10-04.** The old wiki's
+  rendering, carried into this page's earlier versions, stitched
+  three separate April 17 messages into one continuous passage,
+  dropped held text ("deserved praise," the "lasting impact"
+  clause), silently corrected Dan's "beruit" to "beirut," and
+  capitalized his lowercase "rejected gazette" into a formal title.
+  The quotations now stand as Dan wrote them.
+- **One attribution was inverted, corrected 2026-10-04.** Earlier
+  versions said Dan deflected Seth's protest-attendance question and
+  cited a class obligation. The held thread shows Seth deferring his
+  own question ("Actually let's talk about this later I WILL CALL")
+  and citing his own class deadline. The thread's ending was likewise
+  misdescribed as an "unreturned call" by Dan: the June 23 record is
+  a missed-call notice — Seth called, Dan missed it. Dan's protest
+  attendance remains open (see above), but the reason is Seth's
+  postponement, not Dan's evasion.
+- **Message count.** Earlier versions put the thread at ~40 messages
+  from the old wiki's rendering; the canonical record holds 47,
+  including three one-line curfew messages on June 7 quoted above.
+  The page's "40" came from the old wiki's count, not a miscount in
+  the held record's thread key.
 
 ## Assessment
 
@@ -313,25 +335,18 @@ weight is out of proportion to its size for two reasons. First, the
 April 17 letter is the corpus's clearest instance of Dan naming the
 human sources of his taste — five people, one scene, one standard —
 in a body of work that otherwise narrates its own formation as
-solitary. As attributed testimony, it is worth keeping on file at
-exactly the value the record gives it, no more and no less. Second,
-the June 7 curfew account would be contemporaneous, timestamped
-witness evidence of New York's lockdown-and-protest spring if the
-thread bodies are ever held; until then it stands as a vivid,
-specific, unverifiable dispatch — reported here as what it is.
+solitary. Second, the June 7 curfew account is contemporaneous,
+timestamped witness evidence of New York's lockdown-and-protest
+spring, held in Dan's own words and now verified against them.
 
 The friendship itself the record barely keeps: one thread, one
-spring, an unreturned call at the end of it. What survives is the
+spring, a missed call at the end of it. What survives is the
 debt, stated once and plainly, by the man who owed it.
 
-One fact about this entry could change, and it is worth naming what
-would change it. If the ihatedanfrank Facebook export is ever
-recovered with its message bodies intact, every quote on this page
-becomes checkable overnight — the testimony resolves one way or the
-other, and this entry gets rewritten from a stronger record. Until
-then, it stands on the old-wiki export's word, labeled as such, with
-the debt and the curfew carried at the confidence the evidence
-supports.
+What would still change this entry is not verification — the quotes
+are verified now — but continuation: anything of Seth past June
+2020, or of Dan at the 2020 protests, sits outside the held record.
+Until evidence for either surfaces, the entry stands as corrected.
 
 ## See also
 
@@ -341,9 +356,11 @@ supports.
 
 ## References
 
-- `raw/self/facebook/facebook-ihatedanfrank/messages/inbox/sethledonne_ydkapzhbla/message_1.html` — ⚠ Source reference unresolved — original target no longer exists in current corpus.
-- kb/data/1166-seth-ledonne-thread-bodies-unheld.md — source audit (2026-09-10): the page's claims are unresolvable from held sources; raw/facebook-threads/ holds thread-level metadata only (396 threads, 15,923 messages, fetched 2026-09-09), no bodies.
-- Old-wiki export, 2026-09-04 (corpus__3.txt line 66879, 88 lines) — the page-attributed testimony this entry rests on.
+- `raw/messenger-drive-2026-09-12/messenger_drive_canonical.jsonl` — the held thread (tkey `dan frank|seth ledonne`, 47 messages, 2020-03-10 to 2020-06-23; record source `gdrive-fb-20220905`). Primary source for every quotation on this page, verified 2026-10-04.
+- kb/sources/seth-ledonne-thread-provenance-2026-10-04.md — provenance audit: where the page's material comes from, what the old wiki changed, and what the held record corrects (including the Rejected Gazette attestation).
+- kb/data/1166-seth-ledonne-thread-bodies-unheld.md — source audit (2026-09-10): the page's claims were then unresolvable from held sources; superseded for this thread by the Drive export landing (2026-09-12). `raw/facebook-threads/` still holds thread-level metadata only (396 threads, 15,923 messages, fetched 2026-09-09), no bodies.
+- `raw/self/facebook/facebook-ihatedanfrank/messages/inbox/sethledonne_ydkapzhbla/message_1.html` — ⚠ Source reference unresolved — original target no longer exists in current corpus. The page's historical citation; the old wiki rendered the thread from this export. No longer the load-bearing source.
+- Old-wiki export, 2026-09-04 (corpus__3.txt line 66879, 88 lines) — the page-attributed testimony this entry originally rested on; historical provenance of the page's phrasing, retained for the record.
 
 
 ## Cliff notes
