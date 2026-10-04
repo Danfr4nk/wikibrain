@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: major
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-08-26
+date_modified: 2026-10-04
 date_range_start: 2020-02-09
 date_range_end: 2020-03-29
 sources:
@@ -20,18 +21,18 @@ connections:
   - page: wiki/people/annie-ulmer
     type: evidenced-by
     claim: "In comforting Bekah after her rape disclosure, Dan discloses that Annie is herself a rape survivor, describing years before she reported it, a painful trial, and a 45-year sentence for the assailant — a previously undocumented fact about Annie's own history, sourced here to Dan's own account rather than a primary Annie-side source."
+changelog:
+  - "2026-10-04: Restructured to canonical template v1"
 ---
 
 # Bekah Fullem
 
-Rebekah "Bekah" Fullem's contact with Dan is preserved in a single
-iMessage thread that a full two-sided export (handle `+17245629389`,
-153 messages, Feb 9 – Mar 29, 2020) substantially recontextualizes.
-The earlier one-sided extract — missing Dan's replies entirely — made
-the thread read as a stranger's crisis outreach; the complete record
-shows a pre-existing flirtation, a resolved financial request, and a
-warm, appropriate response to a serious disclosure, plus one previously
-undocumented fact about [[wiki/people/annie-ulmer|Annie]]'s own history.
+Rebekah "Bekah" Fullem had a brief pre-existing flirtation with Dan that
+became two crisis contacts in early 2020: a request for help with her
+cat Gideon's medication in February, and a rape disclosure in March
+that Dan answered with direct, validating support. The contact is
+preserved in a single iMessage thread (153 messages, Feb 9 –
+Mar 29, 2020).
 
 ## February 11: a flirtation, then a crisis
 
@@ -78,7 +79,21 @@ Dan's own secondhand account, offered in the context of comforting a
 third party — treat as a real but unverified claim about Annie's
 history pending independent corroboration.
 
-**A correction to the previous read of this page:** the earlier version
+The earlier reading of the COVID exchange is corrected in Conflicts in the record below.
+
+## Corpus record
+
+| Metric | Value |
+|---|---|
+| Messages | 153 (iMessage, both directions) |
+| Date range | 2020-02-09 – 2020-03-29 (two isolated clusters) |
+| Handle | +17245629389 |
+| Defining content | The March 29 rape disclosure and Dan's response; the Annie-assault disclosure |
+
+## Conflicts in the record
+
+- **Earlier one-sided extract.** The earlier one-sided extract, missing Dan's replies entirely, made the thread read as a stranger's crisis outreach; the full two-sided export shows the pre-existing flirtation, the resolved financial request, and Dan's response as set out in the body above.
+- **A correction to the previous read of this page:** the earlier version
 described Bekah as "insisting" COVID-19 was undercounted against "what
 reads as Dan's skepticism" — the full export shows this was backward.
 It is **Dan** who insists the pandemic is worse than officially reported,
@@ -90,21 +105,9 @@ back that she already knows and isn't being dismissive ("I know it's
 bad," "I'm very aware it's underreported," "I know nurses"). She also
 mentions her mother has cancer. The thread ends there, mid-exchange,
 with no further contact recorded.
+- **Annie-assault disclosure.** In the March 29 exchange Dan states that Annie went through a similar assault, reported it years later, and saw a 45-year sentence. That history is documented nowhere else in the corpus and rests here only on Dan's secondhand account offered while comforting a third party; it stands as a real but unverified claim pending independent corroboration.
 
-## Corpus record
-
-| Metric | Value |
-|---|---|
-| Messages | 153 (iMessage, both directions) |
-| Date range | 2020-02-09 – 2020-03-29 (two isolated clusters) |
-| Handle | +17245629389 |
-| Defining content | The March 29 rape disclosure and Dan's response; the Annie-assault disclosure |
-
-**Gaps:** no prior or later contact with Bekah appears in the corpus.
-The outcome of the cat's medical crisis, the disposition of her assault
-report, and any relationship to Dan beyond these two crisis contacts
-are undocumented. The Annie-assault claim has no independent
-corroboration anywhere else in the corpus.
+## Assessment
 
 **Stated plainly, because a reader arriving from elsewhere will otherwise
 take the warmth for more than it is:** this page's entire evidentiary base
@@ -116,4 +119,18 @@ relational dynamic from, and this page should not be read or cited as if it
 were. If either handle carries unmined material beyond this window, finding
 it is the single highest-value action on this page.
 
+## See also
 
+- [[wiki/people/annie-ulmer]]
+
+## References
+
+- `raw/self/message-csv/` — the two-sided Bekah Fullem thread export above (exact file in frontmatter; source reference unresolved in the current corpus layout).
+
+### Limits
+
+**Gaps:** no prior or later contact with Bekah appears in the corpus.
+The outcome of the cat's medical crisis, the disposition of her assault
+report, and any relationship to Dan beyond these two crisis contacts
+are undocumented. The Annie-assault claim has no independent
+corroboration anywhere else in the corpus.

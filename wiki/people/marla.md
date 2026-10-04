@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-07-14
+date_modified: 2026-10-04
 date_range_start: 2017-12-08
 date_range_end: 2018-04-05
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -26,6 +27,8 @@ infobox:
 ---
 
 # Marla
+
+> **Incidental entry** — Marla, a paid caregiver on Fran Coldren's shift-rotation team through the winter of 2017–2018, whose messages document the vigil's final days. Complete at this size.
 
 Marla was a paid caregiver on the shift-rotation team looking after [[wiki/people/fran-coldren|Fran]] alongside Dan and [[wiki/people/annie-ulmer|Annie]] through the winter of 2017–2018, and one of the people whose messages document the final days of [[wiki/timeline/events/fran-death-vigil|the vigil]] (`+17245626515`, 52 messages, December 2017 – April 2018). She manages chronic health problems of her own — she names Sjögren's disease and rheumatoid arthritis as reasons she can't reliably work back-to-back shifts — and coordinates around a December 2017 surgery in Pittsburgh, a husband or partner named Vinny, and a sister who can cover for her.
 
@@ -61,4 +64,4 @@ admission, April 4 = death), with her thread as decisive evidence. Her thread sh
 
 [[wiki/timeline/events/fran-death-vigil]] · [[wiki/people/fran-coldren]] · [[wiki/people/annie-ulmer]] · [[wiki/self/message-corpora/master-message-dump]]
 
-
+Why incidental: the whole documented relationship is the single 52-message thread (December 2017 to April 2018), recorded in full above; the correspondence ends with the vigil and no later contact is documented.

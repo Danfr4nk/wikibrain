@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: major
 status: closed
 knowledge: mixed
 date_created: 2026-08-10
-date_modified: 2026-08-10
+date_modified: 2026-10-04
 date_range_start: 2011-04-01
 date_range_end: 2012-06-26
 sources:
@@ -41,6 +42,8 @@ connections:
   - page: wiki/people/renae-holland
     type: co-occurs
     claim: "Renae is the corroborating witness for Dan's whistleblower account: 'in my time there I was Kevin falsify more documents than I can count — I know what he is capable of,' an independent claim from her own tenure at the company that matches Dan's."
+changelog:
+  - "2026-10-04: Restructured to canonical template v1"
 ---
 
 # Kevin McKiernan
@@ -56,19 +59,7 @@ pressure former staff, altering departing interns' contracts to silence
 them, and backing a false, notarized statement to try to erase a
 whistleblowing former employee's professional identity.
 
-> **CORRECTED twice, [2026-08-10]:** This page's first version, built the
-> same day from a Facebook address book, one Facebook message, and two AI
-> dossiers, declined to characterize McKiernan beyond "he existed, he
-> employed Dan," since the dossiers' "airfare-billing discrepancies" claim
-> had no located corroboration. A live Gmail search recovered his actual
-> contemporaneous conduct — the payroll dispute, the whistleblower
-> disclosure, the retaliation — but wrongly concluded the airfare claim
-> specifically was invented, since it doesn't appear in the recovered
-> email threads. A subsequent check of `wiki/self/chats/gemini-58.md`
-> (built from a source already in `raw/`) found Dan's own primary
-> testimony confirming he did cite an airfare issue when he quit; only the
-> specific mechanism Gemini elaborated around that citation remains
-> unverified. Full account on [[wiki/work/creative-license]].
+The provenance of this account, including two corrections to the page's first version, is set out in Conflicts in the record below.
 
 ## What Dan says he cited when he quit
 
@@ -143,7 +134,38 @@ rather than smoothing over: the professional relationship apparently never
 formally severed on Dan's end, even after a conflict serious enough to
 involve two government agencies and a false notarized statement.
 
-## Gaps
+## Conflicts in the record
+
+- **CORRECTED twice, [2026-08-10]:** This page's first version, built the
+same day from a Facebook address book, one Facebook message, and two AI
+dossiers, declined to characterize McKiernan beyond "he existed, he
+employed Dan," since the dossiers' "airfare-billing discrepancies" claim
+had no located corroboration. A live Gmail search recovered his actual
+contemporaneous conduct — the payroll dispute, the whistleblower
+disclosure, the retaliation — but wrongly concluded the airfare claim
+specifically was invented, since it doesn't appear in the recovered
+email threads. A subsequent check of `wiki/self/chats/gemini-58.md`
+(built from a source already in `raw/`) found Dan's own primary
+testimony confirming he did cite an airfare issue when he quit; only the
+specific mechanism Gemini elaborated around that citation remains
+unverified. Full account on [[wiki/work/creative-license]].
+- **Airfare citation.** Dan's later recollection cites a "small fraud with airplane tickets" as what he told McKiernan when he quit; only the fact that Dan cited it is documented. The specific mechanism remains unverified, and Dan himself wonders whether he "blew it up into a much much bigger thing."
+
+## See also
+
+- [[wiki/work/creative-license]]
+- [[wiki/people/marty-jackson]]
+- [[wiki/people/katherine-palakovich]]
+- [[wiki/mind/synthesis/vertical-authority-skepticism]]
+- [[wiki/people/renae-holland]]
+
+## References
+
+- `raw/gmail/2026-08-10-creative-license-kevin-mckiernan-gmail.md` — contemporaneous Gmail record for the payroll dispute, disclosure, and retaliation above.
+- `raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-58.md` — Dan's primary testimony on the airfare citation.
+- Facebook address book and Messenger captures, Resume, and AI dossiers cited in the frontmatter (source references unresolved in the current corpus layout).
+
+### Limits
 
 Nothing is documented about McKiernan's life beyond this one-year
 employment window and its aftermath — no age, no other ventures, no
@@ -153,5 +175,3 @@ December 2011 use of Dan's account, or what "triggered" his attack on
 Renae per her own phrasing, is unrecovered. The exact notarized statements
 he submitted to LinkedIn (`Creative License 2.pdf`) were not extracted in
 this pass.
-
-

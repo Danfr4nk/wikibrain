@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: stable
 date_created: 2026-08-01
-date_modified: 2026-09-04
+date_modified: 2026-10-04
 sources:
   - "raw/self/concerts/table.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/twitter/archive.jsonl"
@@ -16,6 +17,8 @@ connections:
 ---
 
 # John Mayer
+
+> **Incidental entry** — John Mayer, an act Dan saw once at Post-Gazette Pavilion, Burgettstown, recorded in the concert log with three viable dates (2003, 2004, or 2008). Complete at this size.
 
 John Mayer is an act Dan Frank saw live 1 time between 2003, per the concert log he kept (preserved in the corpus). This page records those appearances and the details attached to each in the source.
 
@@ -47,5 +50,4 @@ the same autumn as the emo, pop-punk and Jedi Mind Tricks material on
 `wiki/mind/synthesis/twitter-2009`, which is a wider taste at twenty than either page
 suggests alone.
 
-
-
+Why incidental: this page is the complete concert-log record for the act — one appearance with its stated date ambiguity, plus the two 2009 tweets preserved above; nothing further exists in the corpus to add.

@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-07-20
+date_modified: 2026-10-04
 date_range_start: 2024-07-28
 date_range_end: 2024-08-09
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/message-csv/imessage_17243226739_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -21,6 +22,8 @@ connections:
 ---
 
 # Mike Cordaro
+
+> **Incidental entry** — Mike Cordaro, a childhood-era friend who resurfaced for one two-week exchange in summer 2024 (50 messages, July 28 to August 9, 2024). Complete at this size.
 
 Mike Cordaro is a childhood-era friend — the two attended the "Rolling Rock Town Fair" together as kids, a concert series Mike calculates they'd seen Def Leppard at "21 years and 1 day" before reaching back out — who resurfaces with a single warm, substantive two-week exchange in summer 2024 (`+17243226739`, 50 messages, July 28 – August 9). The reconnection was prompted by Mike spotting a Def Leppard/Journey show at Heinz Field and thinking of Dan.
 
@@ -41,4 +44,4 @@ The full per-contact export (filed 2026-07-20, superseding the earlier 28-messag
 
 "Uncle Dave" and "Matt Ross" are new, unconfirmed leads — neither has any other reference elsewhere in the corpus read so far.
 
-
+Why incidental: the whole documented relationship is the single 50-message thread, recorded in full above, including the two unconfirmed leads it leaves; no earlier or later contact is documented.

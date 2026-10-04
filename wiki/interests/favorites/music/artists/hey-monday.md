@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: major
 status: stable
 date_created: 2026-08-01
-date_modified: 2026-09-04
+date_modified: 2026-10-04
 sources:
   - "raw/self/concerts/table.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/twitter/archive.jsonl"
@@ -19,6 +20,8 @@ connections:
   - page: wiki/mind/concepts/acquisition-drive
     type: instance-of
     claim: "The mid-holiday flight for this show is the corpus's earliest dated case of a want becoming a decided outcome and the calendar rearranging around it — stated as settled on 19 December, executed on the 28th."
+changelog:
+  - "2026-10-04: Restructured to canonical template v1"
 ---
 
 # Hey Monday
@@ -37,32 +40,45 @@ All dates, venues, cities, and notes below are taken from the source table and p
 
 - **28 December 2008** — Hey Monday, Orlando, FL.
 
-> **GAP CLOSED [2026-09-04] — the date.** The source table read *"2008 ·*
-> *Unknown · Orlando, FL · Still open — band formed 2008 in West Palm Beach;*
-> *exact Orlando show unresolved."* Two tweets settle it, and they are worth
-> reading together because of what they say about the trip rather than the
-> show:
->
-> | When | Tweet |
-> |---|---|
-> | 2008-12-19, at the Orlando airport | *"I don't want to go to cold, lame PA. Be back on the 28th for hey Monday :)"* |
-> | 2008-12-27, 19:40 EST | *"Flying to Orlando for hey monday tomorrow. Wooo"* |
-> | 2008-12-28, 10:38 EST | *"Hate airport days."* |
->
-> He had turned twenty eight weeks earlier, was home in Pennsylvania for his
-> first Christmas since moving to
-> Florida, and **he books the return flight around this show and says so before**
-> **he has even left.** The band had existed for less than a year. This is the
-> earliest dated instance in the corpus of a pattern the interest pages
-> describe abstractly: the live event is the fixed point and the rest of the
-> calendar arranges itself around it.
->
-> **The venue is inference, not record.** The same concert table holds, ten
-> rows later, *"There for Tomorrow · Dec 28, 2008 · BACKBOOTH · Orlando, FL ·*
-> *1 General Admission ticket; Order #M7WKYAHQW"* — same night, same city, a
-> small room, and a band on the same Florida circuit. One night filed twice
-> under two names is the most economical reading of the two rows, but nothing
-> in the corpus states the BACKBOOTH bill, so the venue stays marked probable.
-> `wiki/mind/synthesis/twitter-2008` and `wiki/interests/concert-record/index`.
+The date and venue questions are set out in Conflicts in the record below.
 
+## Conflicts in the record
 
+**GAP CLOSED [2026-09-04] — the date.** The source table read *"2008 ·*
+*Unknown · Orlando, FL · Still open — band formed 2008 in West Palm Beach;*
+*exact Orlando show unresolved."* Two tweets settle it, and they are worth
+reading together because of what they say about the trip rather than the
+show:
+
+| When | Tweet |
+|---|---|
+| 2008-12-19, at the Orlando airport | *"I don't want to go to cold, lame PA. Be back on the 28th for hey Monday :)"* |
+| 2008-12-27, 19:40 EST | *"Flying to Orlando for hey monday tomorrow. Wooo"* |
+| 2008-12-28, 10:38 EST | *"Hate airport days."* |
+
+He had turned twenty eight weeks earlier, was home in Pennsylvania for his
+first Christmas since moving to
+Florida, and **he books the return flight around this show and says so before**
+**he has even left.** The band had existed for less than a year. This is the
+earliest dated instance in the corpus of a pattern the interest pages
+describe abstractly: the live event is the fixed point and the rest of the
+calendar arranges itself around it.
+
+**The venue is inference, not record.** The same concert table holds, ten
+rows later, *"There for Tomorrow · Dec 28, 2008 · BACKBOOTH · Orlando, FL ·*
+*1 General Admission ticket; Order #M7WKYAHQW"* — same night, same city, a
+small room, and a band on the same Florida circuit. One night filed twice
+under two names is the most economical reading of the two rows, but nothing
+in the corpus states the BACKBOOTH bill, so the venue stays marked probable.
+`wiki/mind/synthesis/twitter-2008` and `wiki/interests/concert-record/index`.
+
+## See also
+
+- [[wiki/mind/synthesis/twitter-2008]]
+- [[wiki/interests/concert-record/index]]
+- [[wiki/mind/concepts/acquisition-drive]]
+
+## References
+
+- `raw/self/concerts/table.csv` — concert log source for the appearance above (source reference unresolved in the current corpus layout).
+- `raw/twitter/archive.jsonl` — source for the December 2008 and 2009 tweets quoted above.

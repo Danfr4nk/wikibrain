@@ -2,6 +2,7 @@
 domain: people
 page_type: entity
 title: "Gabe"
+tier: major
 status: closed
 date_created: 2026-07-14
 date_modified: 2026-10-04
@@ -29,6 +30,8 @@ connections:
   - page: wiki/mind/synthesis/the-name-is-the-instrument
     type: instantiates
     claim: "Gabe is the inward-facing case of the naming rule: a cat named for the 'douchebag' pivot of Gabe Saporta — for the pivot itself, not either version alone — making the loaded name a taste-diagnostic rather than an admiration."
+changelog:
+  - "2026-10-04: Restructured to canonical template v1"
 ---
 
 # Gabe
@@ -42,9 +45,7 @@ along well with rabbits, which the two of them found endearing. He was
 Dan's first solid-black cat and first long-haired cat, and he moved with
 Dan through every subsequent relocation — Orlando, NYC, PA, PA again,
 NYC again. Dan had him put down shortly after his own birthday (Dan's
-birthday is November 1), stated as "November 2003," which is almost
-certainly a typo for **November 2023** given Gabe was adopted in 2008 —
-flagged here pending confirmation rather than silently corrected. Dan
+birthday is November 1). Dan
 didn't have the money for the procedure at the time; Danielle paid for
 it, and Dan describes the outcome — Gabe looking peaceful, an easier
 death — as a debt of gratitude to her he has "always maintained."
@@ -79,13 +80,6 @@ They are the real stuff, just at a different altitude." Same role as
 Milo: exempt from the forensic treatment everything else in the record
 gets.
 
-> **CONTRADICTION:** MAX_PRIME.md (a 2026-era document) refers to Gabe in
-> the present tense as an ongoing, current fixture ("the food and the cat
-> are always real"), which sits awkwardly against a November 2023 death.
-> Possible explanations: the bootloader text is older than its last-edited
-> date and was never updated after Gabe died, or the November-2023 date
-> itself needs re-confirming. Not resolved.
-
 **The first night now has a dated artifact.** A photograph Dan
 identified on 2026-10-04 as "Gabe's first night" — Gabe as a young black
 cat on a bathroom floor — carries original-iPhone EXIF: 24 October 2008,
@@ -96,9 +90,31 @@ is that the photograph dates the first night in the Winter Park home
 rather than the shelter pickup, but the record does not decide between
 the two, and both dates stand as recorded.
 
+## Conflicts in the record
+
+- **Put-down date (stated 2026-07-14).** Dan stated the put-down as "November 2003," read here as almost certainly a typo for November 2023 given the August 2008 adoption. The date stands as stated pending confirmation rather than silently corrected.
+- **MAX_PRIME tense.** MAX_PRIME.md (a 2026-era document) refers to Gabe in
+the present tense as an ongoing, current fixture ("the food and the cat
+are always real"), which sits awkwardly against a November 2023 death.
+Possible explanations: the bootloader text is older than its last-edited
+date and was never updated after Gabe died, or the November-2023 date
+itself needs re-confirming. Not resolved.
+- **First-night date.** The opening dating gives adoption as the day after arrival in Orlando in August 2008; the first-night photograph carries EXIF 24 October 2008, 16:43, Winter Park, Florida. The likeliest reading is that the photograph dates the first night in the Winter Park home rather than the shelter pickup, but the record does not decide between the two, and both dates stand as recorded.
+
+## See also
+
+- [[wiki/people/milo]]
+- [[wiki/people/danielle-onesi]]
+- [[wiki/mind/synthesis/the-name-is-the-instrument]]
+
+## References
+
+- `raw/wiki/new-wiki/wikibrain/wiki/people/max.md` — held naming-pattern source.
+- `raw/self/dox-md/MAX_PRIME.md` — bootloader framing quoted above (source reference unresolved in the current corpus layout).
+
+### Limits
+
 **Gaps:** whether 24 October 2008 was the adoption day or the first night
 in that home; confirmation of the November 2023 death date over the
 stated "November 2003"; resolution of the MAX_PRIME tense contradiction
 above.
-
-

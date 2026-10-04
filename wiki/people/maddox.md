@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: active
 date_created: 2026-06-23
-date_modified: 2026-07-20
+date_modified: 2026-10-04
 sources:
   - raw/self/dox-md/BFS_BOOTLOADER_v2.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-md/BFS Anita Quagmire strategy and legal exposure.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -23,6 +24,8 @@ connections:
 ---
 
 # Maddox
+
+> **Incidental entry** — Maddox, a Little Caesars employee at the BFS Foods building who joined a May 21, 2026 sidewalk conversation and gave a first-person account of the Timmy blame-pivot and the $50 drawer-shortage demand. Complete at this size.
 
 Maddox is a Little Caesars employee at the BFS Foods building. On May
 21, 2026, he joined a sidewalk conversation between Dan and
@@ -51,4 +54,4 @@ Maddox outside this one encounter.
 **Gaps:** how Dan and Maddox know each other beyond the shared
 building; no contact before or after the May 21 recording.
 
-
+Why incidental: the entire documented record is the single May 21, 2026 sidewalk conversation, preserved in full above; no message thread or later contact is documented in the corpus.
