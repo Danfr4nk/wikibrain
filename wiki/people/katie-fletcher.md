@@ -4,7 +4,7 @@ page_type: entity
 title: "Katie Fletcher"
 status: closed
 date_created: 2026-07-13
-date_modified: 2026-09-04
+date_modified: 2026-10-04
 sources:
   - raw/twitter/archive.jsonl
   - raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -43,6 +43,19 @@ characterization is unsparing in both directions: she was "square,"
 operating at nothing like Dan's intensity, and precisely that made her a
 functional stabilizer for an interim era. Two documented stories carry the
 whole relationship, and both are told at Dan's expense as much as hers.
+
+## How they met, and how long it actually was
+
+**Added 2026-10-04, from Dan's telling of that date (photo story time).**
+The page's standing gap — "how they met" — is now closed. They did not
+share a circle first. Dan cold-contacted her in her Twitter DMs; she had,
+in his words, "no idea who I was." It worked: the first date was fondue
+at The Melting Pot in Pittsburgh. And the span has a number now: the
+relationship ran **about a month and a half, total** — mid-July to the end
+of August 2013 by his account, which supersedes the vague "roughly 2013"
+this page has carried. The eleven days in the table below stay what they
+always were: the days that left a public trace, not the length of the
+thing.
 
 ## The primary record — eleven days in August 2013
 
@@ -103,6 +116,41 @@ night the 2026 AI sessions still revisit as a formative collision of
 comedy, chaos, and chemistry (he re-processed it, on ketamine again, on
 February 7, 2026).
 
+**The 2026-10-04 telling adds the evening's full choreography, which the
+earlier narration compresses.** The tickets were seated together in a
+row of three: Katie, Dan, and Dan's sister [[wiki/people/vanessa-frank|Vanessa]].
+The key episode happened on entry: inside the pavilion, at the start of
+the show, he realized he did not have his car keys. Katie, who knew he
+used cocaine, disapproved, and was primes to read the emergency as a
+stunt to get back to the car, he went anyway. The key was on the ground
+next to the car. He found it, did bumps in the car, and came back in —
+her suspicion, in his own verdict, wrong about the mission and right
+about the detour. The sprint cost him John Mulaney's set, and possibly
+part of Hannibal Buress's. What he did not miss was Chappelle: the night
+after the Hartford walk-off, in Dan's words, "one of the best standup
+comedians of all time getting his sea legs back after getting trounced.
+It was heavy and very 'new' Chappelle. Those are once in a lifetime
+shows."
+
+The weekend had a second half planned: the next day, a drive to
+Philadelphia for the Made in America festival (30 August show, 31
+August-1 September festival, Benjamin Franklin Parkway). It never
+happened. Dan is plain that he had already been growing disillusioned
+and was looking for reasons not to go. But the ending arrived before any
+excuse was needed. Leaving the pavilion, he and Vanessa were, in his
+word, "manic" — walking out deconstructing what they had just seen.
+Katie said the words he could not unhear: **"Can't you just laugh at
+the jokes?"** A month and a half of relationship is bounded by that
+sentence and what followed it. She said, "Take me home." The drive to
+her house took an hour, in silence. He has never spoken to her again —
+not a word — since that night.
+
+Dan closes the night's file himself, and the closing is a claim about
+formation, not about her: *"This was an astonishingly formative event for
+me... It was when I embraced the 'I am not going to seek normie NPC
+approval.' It was when I fully committed to being a weirdo fuck autist
+social assassin."*
+
 ## The "Vase" incident
 
 During the relationship a condom was lost inside her during sex. Dan said
@@ -111,6 +159,42 @@ on vacation, informed him she had discovered and removed it herself. The
 episode ended the relationship's viability and survives in the corpus as
 one of Dan's most self-incriminating documented silences: a two-month
 game-theory hold over something a sentence would have solved.
+
+**Dan's fuller account of the incident itself (2026-10-04) corrects the
+framing in one respect and darkens it in another.** He knew the moment it
+happened — "I knew as soon as I pulled out." The decision point came
+immediately, in the room: walk in and say *"I lost my condom in you,"* or
+take the other road, which he describes as "several really stupid long
+shot hopes — maybe it will just dissolve. Maybe it actually fell out and
+I didn't find it." He took the long shots, and after several weeks had
+arrived at "man, sometimes things really do work out." The incident dates
+to roughly a month before the Oddball show — July 2013 — not, as a faster
+reading of this page might suggest, to the relationship's final days. She
+then went on vacation, went, in his words, "REALLY cold with me on her
+last day," and on her return came to see him and said: *"I found a condom
+inside myself. You left it there."*
+
+His answer is the detail the earlier narration did not hold. He played
+dumb — "How could that happen?" — but with, in his words, "one crucial
+difference": *"That could not happen, at least not from me."* The denial
+was load-bearing in two directions at once, and he was conscious of both
+in the moment: it was an exit from the accusation, and it was a fidelity
+test. Her reaction to the implied alternative — that the condom could
+have been someone else's — would, in his construction, be its own
+verdict: a woman who had not been with anyone else would have nothing to
+consider, because the suggestion would be insane on arrival; any visible
+consideration of the alternative theory would itself be the confession.
+She showed zero willingness to consider it. By his own instrument,
+Katie had not cheated, which is what made the maneuver, in his phrase, a
+"lose lose": the test only pays out if she is guilty, and she was not.
+The arithmetic was closed-set in any case — one partner, one condom, one
+suspect; "unless some pussy fairy snuck in and put it there, it had to be
+me." What powered her coldness was never said aloud — she did not use the
+words — but, in his account, it was very clearly implied: latex left
+inside her, with infection risk, by a man who had known the whole time.
+The relationship continued for roughly a month after this confrontation,
+carrying what he calls existing "turmoil," until the Oddball night ended
+it.
 
 ## Position in the record
 
@@ -135,8 +219,15 @@ after: a partner synced to his intensity.
 > ordering. The CATO bootloader's "2014" dating for Franki does not hold up
 > against the primary record. Full account: [[wiki/people/franki-faris]].
 
-**Gaps:** how they met, the relationship's exact span and ending beyond
-the vase discovery, and her subsequent history are all absent.
+**Gaps:** her subsequent history is absent; nothing else material is.
+How they met, the span (~1.5 months), and the exact ending (the sentence,
+"take me home," an hour of silence, no contact since) are all supplied by
+Dan's 2026-10-04 telling. **Conflict kept open:** the earlier narration
+(2026 AI sessions) has Dan elevated on ketamine that night, including
+re-processing the memory on ketamine on 2026-02-07; the 2026-10-04
+telling has Katie suspecting a cocaine run and Dan doing bumps in the
+car. The two elevations are not reconciled here; both readings stand as
+recorded.
 
 > **REVISED [2026-07-14]:** the @Lo_weez gap is resolved — the Twitter
 > corpus analysis confirms @Lo_weez is Annie, not a third person: the

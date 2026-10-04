@@ -4,7 +4,7 @@ page_type: entity
 title: "Gabe"
 status: closed
 date_created: 2026-07-14
-date_modified: 2026-07-26
+date_modified: 2026-10-04
 date_range_start: 2008-08
 date_range_end: 2023-11
 sources:
@@ -86,9 +86,19 @@ gets.
 > date and was never updated after Gabe died, or the November-2023 date
 > itself needs re-confirming. Not resolved.
 
-**Gaps:** exact acquisition day (bounded to "the day after" arriving in
-Orlando, August 2008); confirmation of the November 2023 death date over
-the stated "November 2003"; resolution of the MAX_PRIME tense contradiction
+**The first night now has a dated artifact.** A photograph Dan
+identified on 2026-10-04 as "Gabe's first night" — Gabe as a young black
+cat on a bathroom floor — carries original-iPhone EXIF: 24 October 2008,
+16:43, GPS in Winter Park, Florida (28.578°N, 81.329°W). That date sits
+two months after the "day after I arrived in Orlando, August 2008"
+dating given in 2026-07-14 and opening this page; the likeliest reading
+is that the photograph dates the first night in the Winter Park home
+rather than the shelter pickup, but the record does not decide between
+the two, and both dates stand as recorded.
+
+**Gaps:** whether 24 October 2008 was the adoption day or the first night
+in that home; confirmation of the November 2023 death date over the
+stated "November 2003"; resolution of the MAX_PRIME tense contradiction
 above.
 
 

@@ -5,7 +5,7 @@ title: "Vanessa C. Frank"
 aliases: ["Vanessa", "Vanessa Frank"]
 status: stable
 date_created: 2026-06-23
-date_modified: 2026-09-17
+date_modified: 2026-10-04
 sources: ["raw/twitter/archive.jsonl", "raw/twitter/archive.jsonl", "corpus/derived/threads.csv", "corpus/derived/summary.json", "raw/mind/captures/2026-08-02_122411_perspective-complete-objective.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md", "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/people/suzanne-frank", "wiki/people/rick-frank", "wiki/self/ancestry", "wiki/self/overview", "wiki/people/annie-ulmer", "wiki/mind/concepts/autism", "wiki/mind/concepts/acquisition-drive", "wiki/mind/concepts/contact-gini", "wiki/mind/synthesis/november-2005-hinge", "wiki/mind/synthesis/twitter-2013", "wiki/people/kristin"]
 tags: [ai-collaboration, family, politics, digital-footprint]
@@ -191,6 +191,23 @@ record. Two things are worth holding at once: it is public, and it is the
 register the message thread — 1,467 messages across the next decade — never
 shows. Whatever the 2013 mode was, it did not survive into the channel that
 replaced it.
+
+Fourteen days after the middle post, Vanessa occupies one of the strangest
+seats in the entire corpus: on 30 August 2013 she held the third ticket in a
+row of three — herself, Dan, and [[wiki/people/katie-fletcher|Katie Fletcher]] — at
+the Oddball Comedy Festival in Burgettstown, the night Dave Chappelle
+played his first set after the Hartford walk-off (full record:
+[[wiki/interests/concert-record/festivals/oddball-comedy-curiosity-festival]]).
+Her attendance rests on Dan's telling of 2026-10-04; no contemporaneous
+post names her there. What she witnessed, in his account, was the whole
+arc: the lost-key sprint, Chappelle's comeback set, and then the walk
+out — she and Dan "manic," deconstructing the night, until Katie said
+"Can't you just laugh at the jokes?" and asked to be taken home. The
+deconstruction was a sibling activity before it was anything else, which
+makes Vanessa the only witness to the end of the Katie relationship who
+was party to neither side of it. It is the first event in the record
+where she functions as Dan's co-processor on a live experience rather
+than its audience afterward.
 
 ## December 2015: the thread opens
 

@@ -3,7 +3,7 @@ domain: interests
 page_type: event
 status: stable
 date_created: 2026-08-01
-date_modified: 2026-09-17
+date_modified: 2026-10-04
 knowledge: mixed
 sources:
   - "raw/self/concerts/table.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
@@ -178,6 +178,35 @@ log was compiled from stubs across eighteen years and eight of its thirty-six
 rows are at this amphitheatre under whichever name it carried at the time. The
 naming is worth keeping in mind for anyone matching these rows against outside
 sources by venue string.
+
+## Who else was in the row
+
+**Added 2026-10-04, from Dan's telling.** The ticket was one of three
+seated together: Katie Fletcher, Dan, and his sister
+[[wiki/people/vanessa-frank|Vanessa Frank]]. Vanessa is not named in the
+22:54 post and no other contemporaneous record places her there; her
+attendance rests on Dan's 2026-10-04 account, which is specific about
+the seating and about the walk out (he and Vanessa "manic,"
+deconstructing the set; Katie's sentence, "Can't you just laugh at the
+jokes?"; the breakup drive that followed). Her presence also matters
+structurally: she is the only witness to the night's ending who is
+neither party to the relationship, and the deconstruction Katie objected
+to was a sibling activity before it was anything else.
+
+The same telling supplies the night's missing middle. On entry Dan
+realized he had lost his car keys, ran back out to the gravel lot over
+Katie's suspicion that the emergency was a pretext, found the key on the
+ground beside the car, did bumps in the car, and returned — missing John
+Mulaney and possibly part of Hannibal Buress, back in time for
+Chappelle's set, delivered the night after his Hartford walk-off. Dan's
+verdict on that set, 2026-10-04: "one of the best standup comedians of
+all time getting his sea legs back after getting trounced." The tour's
+published support bill for the evening ran wider than the three names
+the concert log preserved — Demetri Martin, Jim Jefferies, Chris D'Elia,
+Kristen Schaal, and Al Madrigal also played the tour's two stages, with
+Flight of the Conchords co-headlining — but the log's three (Chappelle,
+Buress, Mulaney) remain the only performers the corpus itself dates to
+Dan's night.
 
 ## Who he was there with, and what the ticket cannot hold
 
