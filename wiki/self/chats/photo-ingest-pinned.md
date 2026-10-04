@@ -3,13 +3,15 @@ domain: self
 page_type: chat
 status: archived
 date_created: 2026-06-22
-date_modified: 2026-06-22
+date_modified: 2026-10-04
 sources: ["raw/self/dox-md/_❈❈ ᴘʜᴏᴛᴏ ɪɴɢᴇsᴛ ❈❈ Pinned chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/chats/danfrank-isms-pinned", "wiki/self/chats/extract-messages-pinned", "wiki/mind/synthesis/political-psyops", "wiki/mind/concepts/forensic-method", "wiki/people/max"]
 tags: [ai-collaboration, legal, politics]
 ---
 
 # Photo Ingest Pinned Chat
+
+> **Data exhibit** — A Gemini pinned chat export of forensic photo/thread analysis (the u/maxwellhill lore), kept as evidence of the internet-conspiracy archaeology sessions. Working material; the conclusions live in the pages that cite it.
 
 **Source:** Gemini pinned chat export with photo/thread analysis theme.
 

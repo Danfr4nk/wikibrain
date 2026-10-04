@@ -15,7 +15,7 @@ sources:
   - raw/self/dox-scan/dan tom 2010 2022.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/chrisredmond_ewkx6qfqha/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 connections:
-  - page: wiki/self/twitter/2010
+  - page: wiki/mind/synthesis/twitter-2010
     type: evidenced-by
     claim: "The tweet 'my first tattoo! I have her on me forever now' dates the first piece to the night of 23 January 2010 and identifies it as a lover's initial — the one documented tattoo that is not a cultural reference, and the counterexample this page's thesis has to survive."
   - page: wiki/people/alexis-armel

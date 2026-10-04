@@ -3,7 +3,7 @@ domain: self
 page_type: report
 status: stable
 date_created: 2026-06-22
-date_modified: 2026-07-02
+date_modified: 2026-10-04
 date_range_start: 2024-01-01
 date_range_end: 2026-01-02
 sources: ["raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md", "raw/self/dox-md/Gemini-_00.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/Gemini-_02.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-07.md", "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-13.md", "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md", "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-21.md", "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-58.md"]
@@ -16,10 +16,15 @@ connections:
   - page: wiki/mind/concepts/node-locking
     type: evidences
     claim: "This page's theme-frequency table (403 'node,' 1,041 'profile,' 2,258 'lock' mentions, the Jan 2 2026 cluster) is the raw count node-locking's mechanism argument is built from."
+  - page: wiki/self/gemini-activity/archive/v1-extract
+    type: supersedes
+    claim: "The v1 extract is this archive's pinned predecessor exhibit — the earlier extraction this page supersedes as the standing Gemini activity record."
 ---
 
 
 # Gemini Activity
+
+> **Data exhibit** — The aggregate report on Dan's Gemini usage: a 21 MB Takeout activity log (3,986 prompted entries, 2024–2026) plus eight exported sessions. Working material; the conclusions live in the pages that cite it.
 
 Corpus report on Dan's Gemini usage: a 21MB Google Takeout HTML activity log plus eight discrete exported sessions. This page holds the aggregate numbers and the map; per-session analysis lives in the dedicated chat pages linked below. The full v1 extraction (verbatim quotes, exhaustive concept tables) is pinned at [[wiki/self/gemini-activity/archive/v1-extract]].
 

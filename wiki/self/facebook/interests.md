@@ -3,7 +3,7 @@ domain: self
 page_type: report
 status: stable
 date_created: 2026-07-02
-date_modified: 2026-07-02
+date_modified: 2026-10-04
 date_range_start: 2007-01-09
 date_range_end: 2022-09-05
 sources: ["raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -12,6 +12,8 @@ tags: [nyc-era]
 ---
 
 # Facebook Interests, Events, Groups & Tracking
+
+> **Data exhibit** — The export's taste-and-surveillance record: pages liked, event responses, groups, and Facebook's ads-interest model of Dan, 2007–2022. Working material; the conclusions live in the pages that cite it.
 
 Everything the [[wiki/self/facebook]] export records about taste, attendance, and commercial surveillance: pages liked, event responses, group activity, ads-interest profile, and off-Facebook tracking.
 

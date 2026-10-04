@@ -3,13 +3,15 @@ domain: self
 page_type: chat
 status: stable
 date_created: 2026-06-23
-date_modified: 2026-07-02
+date_modified: 2026-10-04
 sources: ["raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-13.md"]
 related: ["wiki/people/jacob-bacharach", "wiki/mind/concepts/forensic-method", "wiki/mind/synthesis/ai-collaborative-analysis", "wiki/self/gemini-activity/gemini-activity", "wiki/timeline/periods/2015-2016-annie-relationship-start"]
 tags: [ai-collaboration, uniontown-era, relationships, nyc-era]
 ---
 
 # Gemini Session 13 — Bacharach Neighborhood Glitch
+
+> **Data exhibit** — A 902-line Gemini session working through the Bacharach coincidence chain, kept for the session's own arc and verbatim evidence; the person-level synthesis lives at wiki/people/jacob-bacharach. Working material; the conclusions live in the pages that cite it.
 
 A 902-line Gemini session in which Dan works through the "coincidence chain" connecting novelist Jacob Bacharach to a house his mother owned. The person-level synthesis lives at [[wiki/people/jacob-bacharach]]; this page keeps the session's own arc and the verbatim evidence, because the session is a methodological exemplar for [[wiki/mind/concepts/forensic-method]] and [[wiki/mind/synthesis/ai-collaborative-analysis]].
 

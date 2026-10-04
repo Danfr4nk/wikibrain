@@ -3,7 +3,7 @@ domain: self
 page_type: summary
 status: active
 date_created: 2026-06-22
-date_modified: 2026-09-03
+date_modified: 2026-10-04
 knowledge: mixed
 date_range_start: 2009-10-20
 date_range_end: 2026-09-02
@@ -16,61 +16,61 @@ sources:
   - "raw/drive-sweep/20260911/twitter/profile-samples/tweets_sample_2019-2026.txt"
 tags: [digital-footprint, politics, music-production, ai-collaboration, ideology]
 connections:
-  - page: wiki/self/twitter/2008
+  - page: wiki/mind/synthesis/twitter-2008
     type: contains
     claim: '2008 is the account''s first year, recovered on 2026-09-02 and absent from this wiki until then; it opens on the day Dan reached Winter Park for Full Sail.'
-  - page: wiki/self/twitter/2009
+  - page: wiki/mind/synthesis/twitter-2009
     type: contains
     claim: '2009 is the origin year of the surviving record — the account itself dates to September 2008 by its own anniversary tag — and the first public sample of the voice the later corpora treat as stable.'
-  - page: wiki/self/twitter/2013
+  - page: wiki/mind/synthesis/twitter-2013
     type: contains
     claim: '2013 is the first year the operator spreadsheet covers in full for originals, and the production-identity (SLOPPP/trap) year.'
-  - page: wiki/self/twitter/2018
+  - page: wiki/mind/synthesis/twitter-2018
     type: contains
     claim: '2018 opens with the great-grandmother thread, the first long family-care testimony on this account.'
-  - page: wiki/self/twitter/2020
+  - page: wiki/mind/synthesis/twitter-2020
     type: contains
     claim: '2020 is the quietest original-tweet year and the one that states the democratic-socialist crystallization in public.'
-  - page: wiki/self/twitter/2024
+  - page: wiki/mind/synthesis/twitter-2024
     type: contains
     claim: '2024 is peak volume and the Luigi/justice-system year that the older sample synthesis treated as the account''s signature.'
-  - page: wiki/self/twitter/2026
+  - page: wiki/mind/synthesis/twitter-2026
     type: contains
     claim: '2026 is the still-moving AI-tooling and quote-tweet politics year, complete for spreadsheet originals plus the live scrape from June onward.'
-  - page: wiki/self/twitter/2010
+  - page: wiki/mind/synthesis/twitter-2010
     type: contains
     claim: '2010 is the move year — the Pro Tools pass, the Brooklyn decision eleven minutes later, the Florida departure and fifteen Foursquare check-ins that are the only street-address location data the corpus holds before 2014.'
-  - page: wiki/self/twitter/2011
+  - page: wiki/mind/synthesis/twitter-2011
     type: contains
     claim: '2011 is the settled Williamsburg year, the middle of the first Brooklyn tenancy and the densest stretch of the account before the Manhattan move.'
-  - page: wiki/self/twitter/2012
+  - page: wiki/mind/synthesis/twitter-2012
     type: contains
     claim: '2012 carries the Brooklyn-to-Manhattan move on consecutive days in March, Hurricane Sandy from the Upper East Side, and the November internship pitch that is the last tweet placing Dan in New York.'
-  - page: wiki/self/twitter/2014
+  - page: wiki/mind/synthesis/twitter-2014
     type: contains
     claim: '2014 is the first full Uniontown year after the return, and the SLOPPP output peak.'
-  - page: wiki/self/twitter/2015
+  - page: wiki/mind/synthesis/twitter-2015
     type: contains
     claim: '2015 is the volume floor of the Uniontown years — 62 originals in the year the Annie relationship begins, the account thinning exactly as the private corpora thicken.'
-  - page: wiki/self/twitter/2016
+  - page: wiki/mind/synthesis/twitter-2016
     type: contains
     claim: '2016 is a low-volume year whose only sustained thread is the @ulmdub address, the account carrying the Ulmer connection in public.'
-  - page: wiki/self/twitter/2017
+  - page: wiki/mind/synthesis/twitter-2017
     type: contains
     claim: '2017 is the Sessions-era political re-engagement, the first year the account is mostly commentary.'
-  - page: wiki/self/twitter/2019
+  - page: wiki/mind/synthesis/twitter-2019
     type: contains
     claim: '2019 is the second NYC chapter beginning, and the account thins to 57 originals as the life moves back into messages.'
-  - page: wiki/self/twitter/2021
+  - page: wiki/mind/synthesis/twitter-2021
     type: contains
     claim: '2021 is the post-insurrection quiet — 34 originals, the second-lowest year on the account.'
-  - page: wiki/self/twitter/2022
+  - page: wiki/mind/synthesis/twitter-2022
     type: contains
     claim: '2022 is the re-acceleration year: J6 hearings, the Project Veritas exchange, and a return to volume after two years near the floor.'
-  - page: wiki/self/twitter/2023
+  - page: wiki/mind/synthesis/twitter-2023
     type: contains
     claim: '2023 is the account’s only year with real reach — the Nashville and OceanGate threads carry 114 and 83 likes against a career mean under 0.2.'
-  - page: wiki/self/twitter/2025
+  - page: wiki/mind/synthesis/twitter-2025
     type: contains
     claim: '2025 is the collapse-year silence: 13 originals, the lowest count in the archive.'
   - page: wiki/timeline/periods/2010s
@@ -124,7 +124,7 @@ connections:
   - page: wiki/work/tech/index
     type: evidences
     claim: 'Two Codecademy badges auto-posted on 19 February 2013, then no reference to code in 2,525 originals across the next thirteen years until the 2026 Grok CLI and Claude building — the only record of a pre-AI attempt at the skill.'
-  - page: wiki/self/concepts/chatgpt
+  - page: wiki/mind/concepts/chatgpt
     type: evidences
     claim: 'Four tweets on 8 September 2022 document hands-on DALL-E image-variation use three months before ChatGPT launched, closing that page''s stated gap that the DALL-E half of the origin account was not checkable in this corpus.'
   - page: wiki/interests/roman-republic
@@ -143,6 +143,8 @@ connections:
 
 # Twitter / X Activity (@danfrank)
 
+> **Data exhibit** — The hub index of Dan's @danfrank Twitter/X archive — one page per year of retrieved originals — kept as the public record the timeline and synthesis pages cite. Working material; the conclusions live in the pages that cite it.
+
 Personal account **@danfrank** ("insufferable politics sicko"). The record now begins **24 September 2008** — the day Dan arrived in Winter Park for Full Sail — after a backend fetch on 2026-09-02 recovered 213 tweets the archive had never reached. This hub is the index of a text archive of his originals: one wiki page per year, every retrieved original and every quote-tweet that carries his own text. Pure reposts with no @danfrank quote content are the one omitted class.
 
 The operator spreadsheet (Drive: Dan Frank - Tweet Archive, filed as `raw/self/twitter/tweet-archive.xlsx`) holds 1,427 originals from 2013-08-17 through 2026-04-07 and 229 pure reposts, which are dropped. Years before the spreadsheet, the mid-August 2013 days before it starts, and 2026 after 7 April are filled from live X search and will grow as further batches are committed on this branch.
@@ -151,25 +153,25 @@ The operator spreadsheet (Drive: Dan Frank - Tweet Archive, filed as `raw/self/t
 
 | Year | Originals on page | Coverage |
 |------|------------------:|----------|
-| [[wiki/self/twitter/2008\|2008]] | 95 | in progress (10-result search cap) |
-| [[wiki/self/twitter/2009\|2009]] | 283 | in progress |
-| [[wiki/self/twitter/2010\|2010]] | 342 | in progress |
-| [[wiki/self/twitter/2011\|2011]] | 225 | in progress |
-| [[wiki/self/twitter/2012\|2012]] | 205 | in progress |
-| [[wiki/self/twitter/2013\|2013]] | 346 | in progress |
-| [[wiki/self/twitter/2014\|2014]] | 171 | complete for originals |
-| [[wiki/self/twitter/2015\|2015]] | 62 | complete for originals |
-| [[wiki/self/twitter/2016\|2016]] | 76 | **NOT complete** — see below |
-| [[wiki/self/twitter/2017\|2017]] | 117 | complete for originals |
-| [[wiki/self/twitter/2018\|2018]] | 89 | complete for originals |
-| [[wiki/self/twitter/2019\|2019]] | 57 | complete for originals |
-| [[wiki/self/twitter/2020\|2020]] | 25 | complete for originals |
-| [[wiki/self/twitter/2021\|2021]] | 34 | complete for originals |
-| [[wiki/self/twitter/2022\|2022]] | 158 | complete for originals |
-| [[wiki/self/twitter/2023\|2023]] | 159 | complete for originals |
-| [[wiki/self/twitter/2024\|2024]] | 258 | complete for originals |
-| [[wiki/self/twitter/2025\|2025]] | 13 | complete for originals |
-| [[wiki/self/twitter/2026\|2026]] | 26 | in progress |
+| [[wiki/mind/synthesis/twitter-2008\|2008]] | 95 | in progress (10-result search cap) |
+| [[wiki/mind/synthesis/twitter-2009\|2009]] | 283 | in progress |
+| [[wiki/mind/synthesis/twitter-2010\|2010]] | 342 | in progress |
+| [[wiki/mind/synthesis/twitter-2011\|2011]] | 225 | in progress |
+| [[wiki/mind/synthesis/twitter-2012\|2012]] | 205 | in progress |
+| [[wiki/mind/synthesis/twitter-2013\|2013]] | 346 | in progress |
+| [[wiki/mind/synthesis/twitter-2014\|2014]] | 171 | complete for originals |
+| [[wiki/mind/synthesis/twitter-2015\|2015]] | 62 | complete for originals |
+| [[wiki/mind/synthesis/twitter-2016\|2016]] | 76 | **NOT complete** — see below |
+| [[wiki/mind/synthesis/twitter-2017\|2017]] | 117 | complete for originals |
+| [[wiki/mind/synthesis/twitter-2018\|2018]] | 89 | complete for originals |
+| [[wiki/mind/synthesis/twitter-2019\|2019]] | 57 | complete for originals |
+| [[wiki/mind/synthesis/twitter-2020\|2020]] | 25 | complete for originals |
+| [[wiki/mind/synthesis/twitter-2021\|2021]] | 34 | complete for originals |
+| [[wiki/mind/synthesis/twitter-2022\|2022]] | 158 | complete for originals |
+| [[wiki/mind/synthesis/twitter-2023\|2023]] | 159 | complete for originals |
+| [[wiki/mind/synthesis/twitter-2024\|2024]] | 258 | complete for originals |
+| [[wiki/mind/synthesis/twitter-2025\|2025]] | 13 | complete for originals |
+| [[wiki/mind/synthesis/twitter-2026\|2026]] | 26 | in progress |
 | **Total** | **2741** | |
 
 ## What the public valve actually is

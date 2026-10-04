@@ -3,7 +3,7 @@ domain: self
 page_type: summary
 status: active
 date_created: 2026-06-23
-date_modified: 2026-06-23
+date_modified: 2026-10-04
 sources: [
   "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-58.md",
   "raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md",
@@ -24,6 +24,8 @@ tags: [ai-collaboration, nyc-era, addiction-recovery, music-production, personal
 ---
 
 # Gemini Session 58 (NYC Round 1 / Ishlab + Creative License Forensics 2010-2013 + Menore)
+
+> **Data exhibit** — A Gemini session page preserving the 'storytime: NYC part 1' ishlab/Creative License analysis across some thirty exchanges, kept as evidence for the 2010-2013 NYC record other pages synthesize. Working material; the conclusions live in the pages that cite it.
 
 **Source:** raw/self/dox-scan/Gemini-_58.txt (1535 lines; "storytime: NYC part 1" + multi-volume ishlab/CL analysis). 31 "you asked" / 30 responses. Stylized glyph blocks (271+); "MAX'S ANALYSIS" persona responses. Cross _18 (Full Sail/ishlab bio overlap), _21 (Danielle), _13 pre-NYC, HTML aggregate, LIFE/FULL PROFILE.
 

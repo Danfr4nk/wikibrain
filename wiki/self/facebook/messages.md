@@ -3,13 +3,15 @@ domain: self
 page_type: report
 status: active
 date_created: 2026-06-23
-date_modified: 2026-06-23
+date_modified: 2026-10-04
 sources: ["raw/self/facebook/facebook-ihatedanfrank/messages/ — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/facebook", "wiki/people/annie-ulmer", "wiki/mind/concepts/contact-gini", "wiki/mind/synthesis/attachment-trauma-bond", "wiki/self/message-corpora/master-message-dump", "wiki/timeline/events/timeline", "wiki/timeline/periods/2015-2016-annie-relationship-start", "wiki/mind/concepts/forensic-method", "wiki/mind/synthesis/totality-themes"]
 tags: [nyc-era, relationships, trauma-bond, family, digital-footprint]
 ---
 
 # Facebook Messages (ihatedanfrank)
+
+> **Data exhibit** — The ihatedanfrank Facebook message export: 403+ threads (2011–2022) with the Annie thread as its primary documented node. Working material; the conclusions live in the pages that cite it.
 
 ## Overview
 403+ threads containing message_1.html (271 inbox, 128 filtered, 3 requests, legacy + your_messages + blocked). High volume social surface across 2007-2022. Export ~Sep 2022 snapshot.

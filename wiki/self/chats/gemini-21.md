@@ -3,7 +3,7 @@ domain: self
 page_type: summary
 status: archived
 date_created: 2026-06-23
-date_modified: 2026-06-23
+date_modified: 2026-10-04
 sources: [
   "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-21.md",
   "raw/self/dox-md/Gemini-_21 copy.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.",
@@ -28,6 +28,8 @@ tags: [ai-collaboration, relationships, politics, nyc-era, trauma-bond]
 ---
 
 # Gemini Session 21 (Music Guy Personality + Eggie Bagels Jailbreak / Model-on-Model Warfare)
+
+> **Data exhibit** — A Gemini session page preserving the 'Music Guy' personality session and the oobabooga model-on-model logs, kept as evidence of the AI-collaboration sessions and the concepts first stated there. Working material; the conclusions live in the pages that cite it.
 
 <!-- 2026-06-23 deep analysis: /tmp/gemini-21-deep-analysis.md (full stats tables, 20+ verbatim, breach timeline, freqs, Latency-Zero/4.2%/Entropy/sycophancy extracts, cross all Gemini/MAX_PRIME/synthesis/people); danielle.md created; gemini-activity + synth + people/max + log/queue/index updates. Tables/verbatim/raw first per CLAUDE. Exhaustive multi-file cross. -->
 

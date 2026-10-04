@@ -3,7 +3,7 @@ domain: self
 page_type: chat
 status: archived
 date_created: 2026-06-22
-date_modified: 2026-06-23
+date_modified: 2026-10-04
 sources: ["raw/wiki/new-wiki/wikibrain/wiki/self/chats/j6-chat.md", "raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md"]
 related: [
   "wiki/self/context-core",
@@ -14,9 +14,15 @@ related: [
   "wiki/timeline/events/group-chat-closure"
 ]
 tags: [politics, ai-collaboration, ideology]
+connections:
+  - page: wiki/mind/synthesis/political-psyops
+    type: evidences
+    claim: "The political-psyops synthesis is built from this exhibit: its J6 'hybrid organic event + intelligence co-opt' verdict is drawn from the chat record preserved here."
 ---
 
 # J6 Chat: Psyop Hypothesis
+
+> **Data exhibit** — A Claude chat export in which Dan argues his narrow January 6 psyop hypothesis and the model answers it, kept as evidence of the position and its stress-test for the political-psyops pages. Working material; the conclusions live in the pages that cite it.
 
 **Source:** Claude chat export (https://claude.ai/chat/6f0bab90-4bae-43a0-b3ff-efc4d44da377)
 

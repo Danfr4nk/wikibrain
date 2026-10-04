@@ -3,7 +3,7 @@ domain: self
 page_type: summary
 status: archived
 date_created: 2026-06-23
-date_modified: 2026-06-23
+date_modified: 2026-10-04
 sources: [
   "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md"
 ]
@@ -21,6 +21,8 @@ tags: [ai-collaboration, uniontown-era, nyc-era, pets, personality-profile]
 ---
 
 # Gemini Session 18 (Profile Lock / Exhaustive Bio Dump for Grok Transfer)
+
+> **Data exhibit** — A Gemini session page preserving the exhaustive profile dump Dan commissioned for cross-model transfer to Grok, kept as evidence of the profile-lock sessions and their biographical material. Working material; the conclusions live in the pages that cite it.
 
 <!-- 2026-06-23 full _18 ingest pass: added file stats (1675 lines, forensic 36 etc), bio timeline table, relationships verbatim, capability contest full table + high-standards response verbatim, Bifurcated OS + Decoupling Paradox + chat.db forensics. Cross to updated gemini-activity, lex, annie, tom, 2025-collapse, ai-collaborative-analysis. -->
 

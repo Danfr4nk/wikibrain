@@ -4,7 +4,7 @@ page_type: report
 knowledge: mixed
 status: active
 date_created: 2026-07-25
-date_modified: 2026-08-18
+date_modified: 2026-10-04
 sources: ["raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/ancestry/extracted/ — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 tags: [family]
 connections:
@@ -31,6 +31,8 @@ connections:
 # Family Tree
 
 The documentary genealogical record of Dan Frank's ancestry, derived from an Ancestry.com GEDCOM file containing 515 individuals and 218 families, establishes a deep regional concentration in Fayette County, Pennsylvania, and traces a dual heritage: maternal Appalachian roots and a paternal Eastern European Jewish immigrant lineage. Parsed across 7 generations, the GEDCOM identifies 90 direct ancestors and 16 European-born forebears, with documented birth/death/residence events spanning from the late 1700s to the present.
+
+This page is the documentary sub-report under the [[wiki/self/ancestry]] hub, alongside [[wiki/self/lineage/23andme-genomics]] and [[wiki/self/lineage/hybrid-analysis]]; the hub carries the integrated reading.
 
 ## Scope of the GEDCOM
 

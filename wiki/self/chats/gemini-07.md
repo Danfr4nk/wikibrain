@@ -3,7 +3,7 @@ domain: self
 page_type: summary
 status: archived
 date_created: 2026-06-23
-date_modified: 2026-06-23
+date_modified: 2026-10-04
 sources: [
   "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-07.md",
   "raw/self/dox-md/LIFE REPORT.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.",
@@ -26,6 +26,8 @@ tags: [ai-collaboration, nyc-era, trauma-bond, relationships, politics]
 ---
 
 # Gemini Session 07 (Suzy Call & Blackout / Target G Forensic)
+
+> **Data exhibit** — A Gemini session page — corpus statistics and the session's forensic read of the January 2026 'Suzy' call and ten-day blackout — kept as evidence for the incident record and the forensic-method pages. Working material; the conclusions live in the pages that cite it.
 
 **Source:** Gemini-_07.md (full forensic report style session). 374 lines, 3701 words, 749 unique.
 

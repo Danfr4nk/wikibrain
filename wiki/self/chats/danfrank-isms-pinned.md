@@ -3,7 +3,7 @@ domain: self
 page_type: chat
 status: archived
 date_created: 2026-06-22
-date_modified: 2026-06-23
+date_modified: 2026-10-04
 date_range_start: 
 date_range_end: 
 sources: [
@@ -26,6 +26,8 @@ tags: [ai-collaboration, politics, ideology, trauma-bond]
 ---
 
 # Danfrank-isms Pinned Chat
+
+> **Data exhibit** — A Gemini pinned chat preserving Dan's 77 numbered 'Danfrank-isms' node statements and Gemini's lossless structural logging of them, kept as evidence of his positions in his own formulations. Working material; the conclusions live in the pages that cite it.
 
 **Source:** Gemini conversation (gem/15fbc8f0a7f1/2c10a7416da2c24f)
 

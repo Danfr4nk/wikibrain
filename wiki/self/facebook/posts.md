@@ -3,13 +3,15 @@ domain: self
 page_type: report
 status: active
 date_created: 2026-06-23
-date_modified: 2026-06-23
+date_modified: 2026-10-04
 sources: ["raw/self/facebook/facebook-ihatedanfrank/posts/ — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/facebook", "wiki/interests/favorites/music", "wiki/timeline/periods/2010s", "wiki/self/location-history", "wiki/mind/synthesis/millennial-digital-witness"]
 tags: [nyc-era, relationships, politics]
 ---
 
 # Facebook Posts, Media & Albums (ihatedanfrank)
+
+> **Data exhibit** — Dan's Facebook posts, albums, and media from the Sep 2022 export: ~627 media items and status updates reaching back to 2007. Working material; the conclusions live in the pages that cite it.
 
 ## Overview
 Posts/ contains your_posts, archive, trash, your_photos, album/ (17 albums), media/ (~627 items: 605 jpg, gif, mp4, thumbnails). Visual life dominant. Text status updates concentrated early (2007) + scattered political later. Export snapshot Sep 2022.

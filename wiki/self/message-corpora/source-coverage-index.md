@@ -4,7 +4,7 @@ page_type: report
 status: closed
 knowledge: derived
 date_created: 2026-08-14
-date_modified: 2026-08-20
+date_modified: 2026-10-04
 sources:
   - raw/self/message-csv/README_20260813_exports.md
 related: ["wiki/self/message-corpora/master-message-dump"]
@@ -13,7 +13,7 @@ connections:
   - page: wiki/people/kristin
     type: evidences
     claim: "Kristin is the worked demonstration of this index's central warning: all_imessages_complete_dump.txt ends 2025-08-10, so a 22,018-message relationship returns silence rather than an error from bin/mine-messages, and the page built on the fallback file went unchallenged for two months."
-  - page: wiki/self/concepts/wiki-brain
+  - page: wiki/mind/concepts/wiki-brain
     type: contains
     claim: "This index is the wiki-brain's instrument panel: the page that records what the corpus cannot see, which is the only defence the system has against confusing an absence of evidence for evidence of absence."
 infobox:
@@ -24,6 +24,8 @@ infobox:
 ---
 
 # Source Coverage Index
+
+> **Data exhibit** — The generated ledger of the 52 message sources: what each export holds, where each one lies, and which questions each can settle. Working material; the conclusions live in the pages that cite it.
 
 > **The ceiling matters more than the row counts [2026-08-16].**
 > `all_imessages_complete_dump.txt` — the one dump whose `direction` field is

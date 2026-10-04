@@ -3,13 +3,15 @@ domain: self
 page_type: chat
 status: archived
 date_created: 2026-06-22
-date_modified: 2026-06-22
+date_modified: 2026-10-04
 sources: ["raw/self/dox-md/___The 9_11 Chat copy.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/___The 9_11 Chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/chats/j6-chat", "wiki/mind/synthesis/political-psyops", "wiki/mind/concepts/forensic-method", "wiki/self/context-core"]
 tags: [music-production, politics, ai-collaboration, addiction-recovery]
 ---
 
 # 9/11 Chat (Gripnotic Remix Drops)
+
+> **Data exhibit** — A Claude chat export on AI-generated voice intros and drops for Gripnotic remixes, kept as evidence of the production-branding sessions and their platform-risk framing. Working material; the conclusions live in the pages that cite it.
 
 **Source:** Claude chat export from /Users/daniel/Documents/**DOX/DOC SCAN/MD/___The 9_11 Chat copy.md
 

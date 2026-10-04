@@ -3,7 +3,7 @@ domain: self
 page_type: summary
 status: archived
 date_created: 2026-06-22
-date_modified: 2026-08-17
+date_modified: 2026-10-04
 sources:
   - raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md
   - raw/self/dox-md/Gemini-_00.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -29,6 +29,8 @@ related:
 ---
 
 # Gemini Activity — v1 Extraction Index
+
+> **Data exhibit** — The pinned first-pass extraction of the Gemini corpus: theme counts, the node-lock catalog, and the map of where its substance was distributed. Working material; the conclusions live in the pages that cite it.
 
 This page is the **index and concept map** for the first full extraction of the Gemini corpus (20.8 MB Takeout HTML + eight discrete exported sessions). It is pinned and never updated. The granular, per-topic content it once held has been split out into the proper destination pages listed below; this file now only points at them and preserves the extraction's load-bearing reference material (theme counts, the node-lock catalog, the cross-concept map).
 

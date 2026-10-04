@@ -3,7 +3,7 @@ domain: self
 page_type: synthesis
 status: active
 date_created: 2026-06-22
-date_modified: 2026-09-12
+date_modified: 2026-10-04
 date_range_start: 2007-01-01
 date_range_end: 2026-07-20
 sources: ["raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2025).html — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2026-07-20).html — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/facebook/facebook-ihatedanfrank/pages_and_profiles/pages_you_ve_liked.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -63,6 +63,8 @@ connections:
 
 
 # YouTube Watch History (2007–2026)
+
+> **Data exhibit** — Dan's YouTube watch history, 2007–2026: the parsed export's dimensions, top channels, and consumption patterns. Working material; the conclusions live in the pages that cite it.
 
 ## Identity
 Extensive personal YouTube activity log spanning nearly two decades. Primary media consumption channel for news, politics, comedy, and cultural commentary. Data from two Google Takeout HTML exports: the original 2007–2025 pull (below, unchanged) and a fresh export the operator located in Drive and supplied directly on 2026-07-20, extending coverage to July 20, 2026 and adding a genuinely new finding — see "Extended coverage" below, which should be read before trusting any of the older per-year tables at face value.

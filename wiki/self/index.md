@@ -3,7 +3,7 @@ domain: self
 page_type: index
 status: stable
 date_created: 2026-07-11
-date_modified: 2026-09-02
+date_modified: 2026-10-04
 sources: []
 related: []
 ---
@@ -26,19 +26,19 @@ The self domain contains files and data detailing identity, core biographical fa
 - [[wiki/self/facebook]] — Full Facebook data export (79 MB, generated Sep 5 2022) for the account ihatedanfrank — registered January…
 - [[wiki/self/favorites]] — This page is the original synthesis. For expanded version with dozens of sub-pages, see the new structure.
 - [[wiki/self/location-history]] — Peak mobility 2017-2018 (2,827 visits). NYC chapter 2019 onward accounts for majority of non-PA. 2020-21…
-- [[wiki/self/overview]] — Daniel A. Frank (Dan Frank). A high-intellect systems-builder (95th percentile),…
+- [[wiki/self/overview]] — the narrative biography: the arc, the architecture, the heritage. This index is the section map; the overview is the story.
 - [[wiki/self/twitter]] — @danfrank text archive, one page per year, originals and quote-tweets only. Spreadsheet-complete 2013-08-17–2026-04-07; earlier years and 2026 after April still being scraped.
 - [[wiki/self/youtube-watch-history]] — Extensive personal YouTube activity log spanning nearly two decades. 17,302 "Watched" events + 248…
 
 ## concepts
 
-- [[wiki/self/concepts/wiki-brain]] — The wiki-brain itself: what it is, how it works, what it's building towards
-- [[wiki/self/concepts/llm]] — LLMs (Large Language Models): the cognitive engine of the wiki-brain, bootloader system, agent fleet, pipeline
-- [[wiki/self/concepts/claude]] — Claude (Anthropic): the analytical workhorse, forensic method, Master Forensic Prompt
-- [[wiki/self/concepts/claude-code]] — Claude Code (Anthropic coding agent): the tool-builder, branch/PR workflow, 12+ bin/ tools
-- [[wiki/self/concepts/gemini]] — Gemini (Google): the interaction model, COS-v1 system, psychotherapy, psychometric testing
-- [[wiki/self/concepts/chatgpt]] — ChatGPT (OpenAI): the early adopter, the bootloader prototype, and the one-line verdict that retired it
-- [[wiki/self/concepts/ally-and-dan-love-as-destiny]] — the wiki's only openly partisan page: the argued case, built from 48 verifiable quotes, that the eighteen-year Ally attachment was mutual far earlier than either admits and ends in marriage — and what would show it wrong.
+- [[wiki/mind/concepts/wiki-brain]] — The wiki-brain itself: what it is, how it works, what it's building towards
+- [[wiki/mind/concepts/llm]] — LLMs (Large Language Models): the cognitive engine of the wiki-brain, bootloader system, agent fleet, pipeline
+- [[wiki/mind/concepts/claude]] — Claude (Anthropic): the analytical workhorse, forensic method, Master Forensic Prompt
+- [[wiki/mind/concepts/claude-code]] — Claude Code (Anthropic coding agent): the tool-builder, branch/PR workflow, 12+ bin/ tools
+- [[wiki/mind/concepts/gemini]] — Gemini (Google): the interaction model, COS-v1 system, psychotherapy, psychometric testing
+- [[wiki/mind/concepts/chatgpt]] — ChatGPT (OpenAI): the early adopter, the bootloader prototype, and the one-line verdict that retired it
+- [[wiki/mind/concepts/ally-and-dan-love-as-destiny]] — the wiki's only openly partisan page: the argued case, built from 48 verifiable quotes, that the eighteen-year Ally attachment was mutual far earlier than either admits and ends in marriage — and what would show it wrong.
 
 ## chats
 
@@ -79,27 +79,27 @@ The self domain contains files and data detailing identity, core biographical fa
 - [[wiki/self/lineage/family-tree]] — Ancestry.com GEDCOM family tree (515 individuals).
 - [[wiki/self/lineage/23andme-genomics]] — 23andMe DNA composition, chromosome painting, Neanderthal data.
 - [[wiki/self/lineage/hybrid-analysis]] — Cross-referenced analysis (speculative).
-- [[wiki/self/concepts/astrology-star-signs]] — zodiac signs of the highest-velocity contacts, derived only from primary testimony; two known of the top twenty, and the Scorpio–Cancer reading of the Ally attachment.
+- [[wiki/mind/concepts/astrology-star-signs]] — zodiac signs of the highest-velocity contacts, derived only from primary testimony; two known of the top twenty, and the Scorpio–Cancer reading of the Ally attachment.
 
 ## twitter
 
-- [[wiki/self/twitter/2009]] — original @danfrank tweets for 2009
-- [[wiki/self/twitter/2010]] — original @danfrank tweets for 2010
-- [[wiki/self/twitter/2011]] — original @danfrank tweets for 2011
-- [[wiki/self/twitter/2012]] — original @danfrank tweets for 2012
-- [[wiki/self/twitter/2013]] — original @danfrank tweets for 2013
-- [[wiki/self/twitter/2014]] — original @danfrank tweets for 2014
-- [[wiki/self/twitter/2015]] — original @danfrank tweets for 2015
-- [[wiki/self/twitter/2016]] — original @danfrank tweets for 2016
-- [[wiki/self/twitter/2017]] — original @danfrank tweets for 2017
-- [[wiki/self/twitter/2018]] — original @danfrank tweets for 2018
-- [[wiki/self/twitter/2019]] — original @danfrank tweets for 2019
-- [[wiki/self/twitter/2020]] — original @danfrank tweets for 2020
-- [[wiki/self/twitter/2021]] — original @danfrank tweets for 2021
-- [[wiki/self/twitter/2022]] — original @danfrank tweets for 2022
-- [[wiki/self/twitter/2023]] — original @danfrank tweets for 2023
-- [[wiki/self/twitter/2024]] — original @danfrank tweets for 2024
-- [[wiki/self/twitter/2025]] — original @danfrank tweets for 2025
-- [[wiki/self/twitter/2026]] — original @danfrank tweets for 2026
+- [[wiki/mind/synthesis/twitter-2009]] — original @danfrank tweets for 2009
+- [[wiki/mind/synthesis/twitter-2010]] — original @danfrank tweets for 2010
+- [[wiki/mind/synthesis/twitter-2011]] — original @danfrank tweets for 2011
+- [[wiki/mind/synthesis/twitter-2012]] — original @danfrank tweets for 2012
+- [[wiki/mind/synthesis/twitter-2013]] — original @danfrank tweets for 2013
+- [[wiki/mind/synthesis/twitter-2014]] — original @danfrank tweets for 2014
+- [[wiki/mind/synthesis/twitter-2015]] — original @danfrank tweets for 2015
+- [[wiki/mind/synthesis/twitter-2016]] — original @danfrank tweets for 2016
+- [[wiki/mind/synthesis/twitter-2017]] — original @danfrank tweets for 2017
+- [[wiki/mind/synthesis/twitter-2018]] — original @danfrank tweets for 2018
+- [[wiki/mind/synthesis/twitter-2019]] — original @danfrank tweets for 2019
+- [[wiki/mind/synthesis/twitter-2020]] — original @danfrank tweets for 2020
+- [[wiki/mind/synthesis/twitter-2021]] — original @danfrank tweets for 2021
+- [[wiki/mind/synthesis/twitter-2022]] — original @danfrank tweets for 2022
+- [[wiki/mind/synthesis/twitter-2023]] — original @danfrank tweets for 2023
+- [[wiki/mind/synthesis/twitter-2024]] — original @danfrank tweets for 2024
+- [[wiki/mind/synthesis/twitter-2025]] — original @danfrank tweets for 2025
+- [[wiki/mind/synthesis/twitter-2026]] — original @danfrank tweets for 2026
 
 

@@ -5,7 +5,7 @@ title: "Self Overview"
 status: active
 importance: critical
 date_created: 2026-06-22
-date_modified: 2026-08-26
+date_modified: 2026-10-04
 infobox:
   name: Dan Frank
   born: November 1, 1988
@@ -38,15 +38,18 @@ connections:
   - page: wiki/mind/synthesis/ancestral-dialectic
     type: mirrors
     claim: "Gravity-wins and deliberate-seal are inverted framings of the same relocation facts."
-  - page: wiki/self/concepts/wiki-brain
+  - page: wiki/mind/concepts/wiki-brain
     type: instance-of
     claim: "The wiki this page opens is itself an artifact of the person it documents — a seventeen-year habit of forensic over-documentation, industrialized; the biography and the system that records it are the same behavior at two scales."
-  - page: wiki/self/concepts/ally-and-dan-love-as-destiny
+  - page: wiki/mind/concepts/ally-and-dan-love-as-destiny
     type: instance-of
     claim: "The seventeen-year Ally attachment is the longest continuous tie in this biography and the one that most tests whether its durability is devotion or dormancy; that page argues the first, and states what would show it wrong."
   - page: wiki/mind/profile/neurodivergence
     type: contains
     claim: "'Self-identified autistic' appears here as settled biographical fact; the neurodivergence page is where that claim's actual sourcing — three convergent AI-secondary documents, no clinical record — and open questions are laid out."
+  - page: wiki/self/context-core
+    type: subordinate-to
+    claim: "Context Core is the authoritative layer this overview summarizes and defers to; where the two differ, that page governs."
 ---
 
 
@@ -64,6 +67,8 @@ wiki is the current instrument. The defining event of his adult life, the
 decade-long relationship with [[wiki/people/annie-ulmer|Annie Ulmer]],
 closed involuntarily on June 1, 2026; the mid-2026 present tense is
 aftermath: housing in transition, work in transition, music reactivated.
+
+This page is the narrative summary of the self domain. The section's directory — every self page, mapped — is [[wiki/self/index]].
 
 ## LLM Quick Brief
 
@@ -162,7 +167,7 @@ graph, and residence timeline are maintained authoritatively at
 
 ## Heritage
 
-Dan self-identifies as a Scorpio and dates it precisely — *"I am super scorpio / Nov 1"* — and the corpus carries enough primary testimony from other contacts to make the zodiac an actual (small) dataset rather than a throwaway: see [[wiki/self/concepts/astrology-star-signs]], which records what is known, what is unknown for eighteen of the top twenty contacts, and the one pairing the corpus can say anything about.
+Dan self-identifies as a Scorpio and dates it precisely — *"I am super scorpio / Nov 1"* — and the corpus carries enough primary testimony from other contacts to make the zodiac an actual (small) dataset rather than a throwaway: see [[wiki/mind/concepts/astrology-star-signs]], which records what is known, what is unknown for eighteen of the top twenty contacts, and the one pairing the corpus can say anything about.
 
 
 Paternal line Eastern European Jewish — [[wiki/people/david-j-frank|David J. Frank]] (b. 1892, Russia) and

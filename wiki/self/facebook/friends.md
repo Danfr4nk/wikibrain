@@ -3,13 +3,15 @@ domain: self
 page_type: report
 status: archived
 date_created: 2026-06-23
-date_modified: 2026-06-23
+date_modified: 2026-10-04
 sources: ["raw/self/facebook/facebook-ihatedanfrank/friends_and_followers/ — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/facebook", "wiki/timeline/periods/2015-2016-annie-relationship-start", "wiki/people/rick-frank", "wiki/mind/concepts/contact-gini"]
 tags: [family, nyc-era, relationships, uniontown-era, trauma-bond]
 ---
 
 # Facebook Friends Network
+
+> **Data exhibit** — The Facebook friends-and-followers export: ~650 documented friends spanning 2009–2022, from Uniontown roots through the NYC and scene years. Working material; the conclusions live in the pages that cite it.
 
 ## Overview
 ~650-660 unique friends documented across the export (parsed from friends.html and related files). Network spans ~2009-2022, with heavy activity in early years (pre-2015) and ongoing into 2020s. Includes family (Rick Frank father, Vanessa sister, Alan cousin, Andy, Wendy, Becca) and broad social/professional circles from Uniontown roots, NYC/Brooklyn moves, music/comedy scenes, and early internet.
