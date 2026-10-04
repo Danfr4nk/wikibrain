@@ -5,7 +5,7 @@ knowledge: earned
 title: "Millennial Digital Witness"
 status: stable
 date_created: 2026-06-22
-date_modified: 2026-09-03
+date_modified: 2026-10-04
 sources:
   - raw/self/chats/_✧✧ 𝔻𝔸ℕ𝔽ℝ𝔸ℕ𝕂-𝕀𝕊𝕄'𝕊 ✧✧ Pinned chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md
@@ -22,6 +22,9 @@ connections:
   - page: wiki/self/twitter
     type: evidenced-by
     claim: "A 2012 tweet from inside Hurricane Sandy — 'first true digital disaster… so much user generated content' — documents the underlying noticing fourteen years before the Gemini-era articulation, ruling out the reading that the whole self-theory is an artifact of talking to models."
+  - page: wiki/mind/synthesis/instrument-is-subject
+    type: parallels
+    claim: "This self-theory survives as Node 6 of the pinned Gemini corpus — formed inside AI sessions, the condition The Instrument Is Also the Subject states for the whole wiki."
 
   - page: wiki/self/facebook
     type: evidenced-by

@@ -6,7 +6,7 @@ status: active
 knowledge: mixed
 importance: critical
 date_created: 2026-08-26
-date_modified: 2026-08-26
+date_modified: 2026-10-04
 tags: [behavioral-change, intensity, boundaries, relationships]
 synthesizes:
   - wiki/people/ally-lubin
@@ -18,6 +18,11 @@ related:
   - wiki/people/annie-ulmer
   - wiki/timeline/events/2026-08-26-dan-consistency-test
   - wiki/mind/concepts/ally-and-dan-love-as-destiny
+connections:
+  - page: wiki/mind/synthesis/single-channel
+    type: parallels
+    claim: "The August 26, 2026 state this page reports — a hard Annie boundary held beside a calm, consistent Ally channel — is load split across two channels, against The Single Channel's one channel at maximum voltage."
+
 ---
 
 # Intensity Is No Longer the Only Mode

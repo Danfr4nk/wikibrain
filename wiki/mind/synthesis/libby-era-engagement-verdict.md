@@ -29,6 +29,9 @@ connections:
   - page: wiki/mind/synthesis/four-financial-inversions
     type: evidences
     claim: "The Libby-era verdict's record evidences the financial inversions' third turn: Annie's 2024 Libby employment, the drafted wage letters, and 137 documented provision messages across the era are the inbound side inversion three is built on."
+  - page: wiki/mind/synthesis/nyc-round-two
+    type: component-of
+    claim: "This verdict tests one of the NYC second era's terminal claims — that Dan's non-engagement during Annie's Libby months is why she began leaving, the leaving that ended the era in February 2025."
     claim: "That page finds Annie the primary agent of harm across the decade; this one finds her late disengagement claim unsupported as the master causal story, while corroborating the feeling underneath it."
 ---
 

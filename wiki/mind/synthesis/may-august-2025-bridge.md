@@ -6,7 +6,7 @@ aliases: ["the corridor", "saratoga summer 2025", "the thin months"]
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 date_range_start: 2025-05-01
 date_range_end: 2025-08-31
 sources:
@@ -79,6 +79,12 @@ connections:
     claim: "That page's June 2025 prescriber episode — the three quoted messages about the out-of-state prescription failing — is annotated here as never_observed in the authoritative corpus (dat:0028, 0 messages on 2025-06-08 and 2025-06-12). The supply topology is held open rather than resolved, which changes what the corridor can claim about the chemical architecture's mid-year state."
   - target: "[[wiki/mind/synthesis/2025-move-chronology]]"
     type: extends
+  - page: wiki/mind/synthesis/annie-decade-synthesis
+    type: component-of
+    claim: "This bridge is a component of the Annie Decade's unwinding: the un-narrated months between the April 2025 clearing and the contact that opened the Kristin era."
+  - page: wiki/mind/synthesis/audition-dynamics
+    type: parallels
+    claim: "The Audition Grammar takes this bridge's endpoint as one of its three cases: Kristin Prentiss, first contacted August 29, 2025, opening with front-loaded demonstration at a volume the relationship never sustained again."
     claim: "Continues the move chronology's dated month-by-month reconstruction into the May–August corridor the hinge entry never narrated."
 ---
 

@@ -5,7 +5,7 @@ title: "The Instrument Is Also the Subject"
 status: active
 knowledge: earned
 date_created: 2026-08-01
-date_modified: 2026-08-28
+date_modified: 2026-10-04
 synthesizes:
   - wiki/mind/synthesis/ai-collaborative-analysis
   - wiki/mind/synthesis/ancestral-dialectic
@@ -58,6 +58,9 @@ connections:
     claim: "The specific shape of the evidentiary standard this page's recursion problem depends on — unwavering honesty, no softening, residue graded above testimony — is not an arbitrary prompt choice: it is what Ti-dominance's own truth criterion, 'a system that holds under recursive collapse, not social consensus,' looks like exported into an instruction. A different cognitive stack writing the same prompt would not necessarily have specified this standard, which is why the recursion this page names is a predictable consequence of a specific mind rather than an accident of tooling."
   - { target: "[[wiki/mind/synthesis/dormancy-not-exit]]", type: references, claim: "The August 2026 dormancy measurement is the instrument-is-subject standard applied to the author's own contact history." }
   - { target: "[[wiki/mind/synthesis/read-receipt-forensics]]", type: references, claim: "Read-receipt forensics is the method sibling: both treat the author's own records as the test instrument." }
+  - page: wiki/mind/synthesis/millennial-digital-witness
+    type: parallels
+    claim: "Millennial Digital Witness is a specimen of this page's constraint: a load-bearing self-theory whose primary record is an AI-session corpus, instrument and subject in one archive."
 
 ---
 

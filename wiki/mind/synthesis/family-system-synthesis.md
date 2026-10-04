@@ -7,7 +7,7 @@ tier: major
 status: active
 knowledge: mixed
 date_created: 2026-10-03
-date_modified: 2026-10-03
+date_modified: 2026-10-04
 sources:
   - kb/syntheses/family-system.md
   - kb/events/2005-11-parental-rupture.md
@@ -34,6 +34,9 @@ connections:
   - page: wiki/mind/synthesis/estate-money-spine
     type: cites
     claim: "The estate money is the measurable current between the poles, including the corrected direction: roughly $14,000 of a roughly $20,000 drawdown ran Dan-to-Suz in 2018 (dat:1293)."
+  - page: wiki/mind/synthesis/november-2005-hinge
+    type: evidenced-by
+    claim: "The two-pole parental structure this page maps — Suzanne at high volume and close range, Rick at low frequency and distance — descends from November 2005, when Rick's rehab disclosure ended the marriage."
 tags: [family, frank-family, attachment, uniontown]
 importance: 5
 synthesizes:

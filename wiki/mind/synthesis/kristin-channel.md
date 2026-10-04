@@ -82,6 +82,21 @@ connections:
   - page: wiki/mind/synthesis/severance-declaration-audit
     type: parallels
     claim: "The Kristin channel parallels the audited Annie series as its control case, until five August 26 messages in the message-request folder showed the block had been opened from inside within the hour."
+  - page: wiki/mind/synthesis/channel-cost-pricing
+    type: instantiates
+    claim: "Channel Cost Pricing states the rule this channel instantiates: contact resumes through whichever surviving channel costs least to fire."
+  - page: wiki/mind/synthesis/severance-language-atlas
+    type: parallels
+    claim: "The Severance-Language Atlas measures this channel's held block against declaration grammar across 503 handles, where enacted inbound severances are the two exceptions."
+  - page: wiki/mind/synthesis/severance-2026-synthesis
+    type: parallels
+    claim: "The 2026 Severance is the system this channel controls for: two ruptures, a channel pre-closed in advance, and a 120-day horizon, run against the base rate her block defied for eight months."
+  - page: wiki/mind/synthesis/bond-vs-structure
+    type: instantiates
+    claim: "Bond vs Structure states the general rule this channel instantiates — severances break through the cheapest surviving channel — with the held block as the case where none survived."
+  - page: wiki/self/message-corpora/source-coverage-index
+    type: parallels
+    claim: "The Source Coverage Index is the catalogue this channel's overturned absence claim should be checked against: which exports cover which channels, and what each hole can support."
     claim: "The measurement doctrine extracted from this case — which zeros in a request-filtered channel are admissible and how to phrase them — lives on the blind-spot page; on measurement questions, that page governs this one."
 ---
 

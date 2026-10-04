@@ -49,6 +49,9 @@ connections:
   - page: wiki/mind/synthesis/read-receipt-forensics
     type: parallels
     claim: "Message-circadian-latency parallels read-receipt forensics as the reply-timing counterpart: it measures how fast each side answered across years, where the read-receipt page measures what a date_read timestamp can and cannot establish about wakefulness."
+  - page: wiki/self/message-corpora/source-coverage-index
+    type: parallels
+    claim: "The raw dumps this latency cut is generated from — MASTER_MESSAGES_DB_DUMP and the sender-tagged superset — are catalogued in the Source Coverage Index, with their overlap and attribution limits."
     claim: "Same corpus, orthogonal instrument: this page measures when he writes and how fast the channel turns around, that one measures how much he writes per turn. Both find a 2025-26 inflection, and the length series carries the remediation target — turns of 11-20 words are answered 93.8% against 54.7% above 200 words."
 ---
 

@@ -5,7 +5,7 @@ page_type: synthesis
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -69,6 +69,9 @@ connections:
     claim: "That page names the model-derived dossier circuit — testimony in, dossier out, dossier cited as corroboration of the testimony. This entry is the provenance audit of one specific circuit output: the four axioms, traced to the dossier layer that synthesized them."
   - target: "[[wiki/mind/synthesis/the-romantic]]"
     type: references
+  - page: wiki/mind/synthesis/chemical-architecture
+    type: parallels
+    claim: "The Chemical Architecture is the axioms' enacted counterpart: a sixteen-year regimen Dan frames in his own words as engineered chemical architecture, not recovery."
     claim: "The 'love-bombing, not mortality' reading of the June–July 2026 dossier chain is the romantic register's sincerity-vs-scale split restated as an axiom test."
 ---
 

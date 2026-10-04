@@ -5,7 +5,7 @@ status: active
 knowledge: earned
 importance: critical
 date_created: 2026-08-20
-date_modified: 2026-08-28
+date_modified: 2026-10-04
 tags: [forensic-analysis, relationships, legal, mental-health]
 sources:
   - raw/self/audio/2026-08-16_Morgantown_St_call-recording.m4a — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -36,6 +36,9 @@ connections:
     claim: "The recording is the only primary artifact in the corpus in which Coles is directly audible, and it establishes his conduct rather than his motive: he holds Annie's phone, conditions its return on an answer, and threatens family disclosure to force one."
   - page: wiki/mind/profile/intp
     type: caused-by
+  - page: wiki/mind/synthesis/attachment-trauma-bond
+    type: parallels
+    claim: "Attachment Trauma Bond is the decade structure this call is the terminal expression of: trauma bonding and intermittent reinforcement arriving at one recorded three-person conflict."
     claim: "This page's own 'deepest moral failure' finding — instrumentalization, converting concern into an optimization problem and designing a stronger signal when ordinary conversation fails — is Ti-dominance's method turned on a person: 'internal simulation labs where relationships are stress-tested' is that page's description of the same faculty this page independently names as a moral failure when the test subject is a human being rather than an idea."
 ---
 
