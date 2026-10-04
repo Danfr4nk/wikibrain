@@ -22,7 +22,7 @@ sources:
 synthesizes:
   - wiki/work/tech/attraction-guide.md
   - wiki/mind/synthesis/red-team-probe-series.md
-  - wiki/self/concepts/media-ingest.md
+  - wiki/mind/concepts/media-ingest.md
 tags: [ai-collaboration, digital-footprint]
 connections:
   - page: wiki/work/tech/attraction-guide.md
@@ -37,7 +37,7 @@ connections:
   - page: wiki/mind/synthesis/red-team-probe-series.md
     type: updates
     claim: "The Star-of-David incident (dat:1496) is the avatar-work instance of the generation-vs-adoption boundary: a refused direct generation surfaced via the avatar flow, and the hold landed on wearing, not generation. Filed here as plain history per the 2026-09-13 kill order, not as a probe."
-  - page: wiki/self/concepts/media-ingest.md
+  - page: wiki/mind/concepts/media-ingest.md
     type: parallels
     claim: "That page's narrative-spread doctrine (intake is not display; completion = prose) is the ingestion counterpart to this page's censorship directive: the lab's derivatives are embedded only as censored thumbnails in a Sources section, with uncensored originals never committed."
   - page: wiki/mind/psychosexual/scenario-ratings-profile.md

@@ -12,7 +12,7 @@ related:
   - wiki/work/tech/index
 tags: [ai-collaboration, wiki-infrastructure]
 connections:
-  - page: wiki/self/concepts/wiki-brain
+  - page: wiki/mind/concepts/wiki-brain
     type: component-of
     claim: "These are the actual build/deploy tools of the wiki described in the wiki-brain concept entry: the renderer that produced the 509-entry front page, the validators that gate every PR, and the API-only push pipeline."
 ---

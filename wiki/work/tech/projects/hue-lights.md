@@ -12,7 +12,7 @@ sources:
   - "dat:1803-hue-system-cut-20260919"
 related:
   - wiki/work/tech/projects/index
-  - wiki/self/concepts/stylometry-v2
+  - wiki/mind/concepts/stylometry-v2
 tags: [ai-collaboration, home-lab, hue]
 connections:
   - page: wiki/work/tech/projects/index
@@ -292,7 +292,7 @@ as the wiki-sync tooling — with one quirk recorded: fresh repos need
 about 25 seconds before the git backend accepts writes, and the 409 "Git
 Repository is empty" on a brand-new repo is transient. Retry it.
 
-The Hue systems are filed under [[wiki/work/tech/projects/index|Coding Projects]] as the first home-lab resident — the first entry in the projects index whose subject is physical rather than screen-bound. The affect gauge's engagement ratings are a sibling signal to the [[wiki/self/concepts/stylometry-v2|stylometry v2 instrument]]: one measures how Dan writes, the other how engaged Sammy is while he does.
+The Hue systems are filed under [[wiki/work/tech/projects/index|Coding Projects]] as the first home-lab resident — the first entry in the projects index whose subject is physical rather than screen-bound. The affect gauge's engagement ratings are a sibling signal to the [[wiki/mind/concepts/stylometry-v2|stylometry v2 instrument]]: one measures how Dan writes, the other how engaged Sammy is while he does.
 
 ## Complete build log, 2026-09-17 (EDT)
 
