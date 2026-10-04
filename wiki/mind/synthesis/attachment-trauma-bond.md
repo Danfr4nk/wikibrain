@@ -104,6 +104,9 @@ connections:
   - { target: "[[wiki/mind/synthesis/annual-volume-suz]]", type: contextualizes, claim: "The Dan-vs-Suz volume asymmetry that chart quantifies — Suz permanently ahead from 2017, widening toward ~2:1 — is dated outbound residue for this page's leverage see-saw: who writes more, when, tracks who holds the exit." }
   - page: wiki/mind/synthesis/the-unbroken-bond
     type: evidenced-by
+  - page: wiki/mind/synthesis/morgantown-call-three-participant-ethical-analysis
+    type: evidenced-by
+    claim: "The August 16 Morgantown call is this bond's terminal-phase primary artifact: all three participants in one live interaction, against the decade of thread evidence this page is built on."
     claim: "The unbroken-bond page holds the occupancy record this page's mechanism anatomizes: seventeen continuous years inside long-term bonds, the unattached total measurable in weeks."
 ---
 

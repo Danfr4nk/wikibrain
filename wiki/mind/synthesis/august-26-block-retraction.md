@@ -50,6 +50,9 @@ connections:
   - page: wiki/mind/synthesis/august-grievance-verdict
     type: parallels
     claim: "The ~25 declarations of August 15-19 that this retraction counts — none executed, daily texting continuing through September 7 — are the same window the grievance verdict adjudicates: that page renders the verdict on the grievances, this page retracts the held block claimed inside them."
+  - page: wiki/self/message-corpora/source-coverage-index
+    type: evidenced-by
+    claim: "This retraction is the index's duplication doctrine at work: the multi-day block claim died when CSV forensics across exports showed roughly 25 declarations in August 15–19 and daily two-way texting continuing."
   - { target: "[[wiki/mind/synthesis/supply-network]]", type: references, claim: "The Aug-27–Sep-7 daily texting this retraction forensically establishes ran on the supply network's final configuration — five handoffs in six days after the June 1 closure — so the severance-that-wasn't left no operational gap in the procurement channel either." }
 ---
 

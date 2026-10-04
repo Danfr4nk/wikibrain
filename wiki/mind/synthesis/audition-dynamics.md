@@ -73,6 +73,9 @@ connections:
     claim: "The entity record carries the June 1 burst text, the August 18–21 sequence, the 380-message run, and the misaddressing correction this entry's failed-audition reading rests on."
   - page: wiki/mind/synthesis/the-romantic
     type: evidenced-by
+  - page: wiki/mind/synthesis/may-august-2025-bridge
+    type: parallels
+    claim: "The May–August 2025 Bridge supplies the run-up to the Kristin case: four un-narrated months between the April 27, 2025 clearing and the August 29 first contact."
     claim: "The Romantic documents the declaration the Kristin audition ran on: the September 4, 2025 sentence ('i wouldn't say i love you if i didn't mean it'), issued five days after first contact, inside this page's front-loaded demonstration window."
 ---
 

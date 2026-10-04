@@ -35,6 +35,9 @@ connections:
   - page: wiki/mind/synthesis/the-curse
     type: evidenced-by
     claim: "Channel-cost pricing's rule that contact resumes through the least-cost channel is evidenced by the curse record's fifty-two-day post-1 June silence, held against money and apology and broken in eight hours on a dog question."
+  - page: wiki/mind/synthesis/kristin-channel
+    type: evidenced-by
+    claim: "The Kristin channel is this model's control case: the severance held for months, then re-engagement followed the surfacing of a zero-cost Messenger message-request channel."
 tags: [relationships, attachment, forensic-analysis, digital-footprint]
 importance: 4
 synthesizes:

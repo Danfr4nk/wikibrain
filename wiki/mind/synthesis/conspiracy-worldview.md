@@ -6,7 +6,7 @@ title: "Dan's Conspiracy Worldview"
 aliases: ["conspiracy worldview", "conspiracy theory positions"]
 status: active
 date_created: 2026-09-22
-date_modified: 2026-09-22
+date_modified: 2026-10-04
 sources:
   - workspace/wiki-sync/scratchpad/2026-09-22-conspiracy-verdicts.md
   - workspace/wiki-sync/scratchpad/2026-09-22-conspiracy-worldview-analysis.md
@@ -23,6 +23,11 @@ related:
   - wiki/mind/synthesis/2020-left-turn
   - wiki/mind/politics/conspiracy-verdicts
 tags: [politics, ideology, worldview, conspiracy, epistemics]
+connections:
+  - page: wiki/mind/synthesis/the-binary-verdict
+    type: parallels
+    claim: "The 33 conspiracy verdicts Dan delivered in one session are verdict-shaped outputs of the kind this page describes — 18 believed, 5 rejected — with nine agnostic middles its two-state model says should not stabilize."
+
 ---
 
 # Dan's Conspiracy Worldview

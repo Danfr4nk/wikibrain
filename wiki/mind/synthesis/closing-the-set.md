@@ -7,7 +7,7 @@ status: active
 knowledge: earned
 importance: high
 date_created: 2026-08-19
-date_modified: 2026-08-26
+date_modified: 2026-10-04
 sources:
   - raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2025).html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -78,6 +78,9 @@ connections:
     claim: "Totality Themes takes this page's coverage-not-taste mechanism as the explanation for the low creator-level taste concentration its own re-check measured."
   - target: "[[wiki/mind/concepts/wiki-brain]]"
     type: contextualizes
+  - page: wiki/mind/synthesis/the-binary-verdict
+    type: parallels
+    claim: "Set-closing is the binary verdict run on culture: an open set or a closed one, with no stable half-closed state in the record."
     claim: "The wiki is this page's negative control for the satisfaction condition: a self-set corpus with no findable edge, so the rule predicts surface without closure."
 ---
 

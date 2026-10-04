@@ -35,6 +35,12 @@ connections:
   - page: wiki/mind/synthesis/operator-threat-model
     type: operationalized-by
     claim: "Evidence discipline's rule that confidence must be earned from named, reopenable sources and that conclusions cannot become premises is operationalized by the operator threat model's attention-level-only inventory."
+  - page: wiki/mind/synthesis/wiki-brain-instrument
+    type: parallels
+    claim: "The Wiki Brain instrument is the system that operationalizes this page's evidence discipline across a two-architecture, layered repository."
+  - page: wiki/mind/concepts/calibrated-confidence
+    type: parallels
+    claim: "Evidence Discipline states the trust-grading under which this page's credence measurements sit: his numbers are real estimates, and the corpus still decides what they are worth."
 tags: [meta, epistemics, method, corpus]
 importance: 5
 synthesizes:

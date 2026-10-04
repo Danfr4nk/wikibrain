@@ -61,6 +61,15 @@ connections:
   - page: wiki/mind/synthesis/four-financial-inversions
     type: evidenced-by
     claim: "The Annie decade's measured relationship record is evidenced in the money dimension by four dated financial inversions, from Dan funding the household to the landlord-debt years to Annie funding in mid-2024 to March 2025."
+  - page: wiki/mind/synthesis/severance-declarations
+    type: evidences
+    claim: "The eleven-year corpus this page synthesizes (97,768 messages, 2015-11-28 to 2026-06-05) is the dataset across which the 129 severance declarations and their re-engagement rate are counted."
+  - page: wiki/mind/synthesis/severance-declaration-audit
+    type: evidenced-by
+    claim: "The audit's reconciled count — 129 declarations, not 127 — is a count of this decade's exit idiom over the Annie corpus."
+  - page: wiki/mind/synthesis/may-august-2025-bridge
+    type: parallels
+    claim: "The May–August 2025 Bridge narrates the four months this decade's terminal phase turned on: the Annie channel's terminal turn and Kristin Prentiss's August 29 first contact."
 tags: [annie-ulmer, attachment, severance, corpus-scale, forensic-analysis]
 importance: 5
 synthesizes:

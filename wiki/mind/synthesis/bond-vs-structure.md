@@ -60,6 +60,12 @@ connections:
   - page: wiki/mind/synthesis/severance-2026-synthesis
     type: evidences
     claim: "Bond-vs-structure evidences the 2026 severance system by isolating why this severance outlasted the 129-episode base rate: every material re-engagement channel had been starved."
+  - page: wiki/mind/synthesis/vacancy-rule
+    type: parallels
+    claim: "The fifty-two days this hold lasted is the same fifty-two days that caps the vacancy rule: the longest the primary slot has ever stood empty."
+  - page: wiki/mind/synthesis/kristin-channel
+    type: evidenced-by
+    claim: "The Kristin channel evidences this ordering from the far side: her severance held while no cheap channel survived, and broke when a Messenger message-request folder became one."
     claim: "Channel-cost-pricing operationalizes this entry's ordinal claim — severances break through the cheapest live channel — as a scored rubric run against every documented severance."
 ---
 

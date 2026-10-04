@@ -71,6 +71,9 @@ connections:
   - page: wiki/mind/politics/axioms
     type: evidences
     claim: "Chemical architecture evidences the vigilance axiom in the substance register: a Suboxone row with no move in sixteen years and a rotating supply around a fixed dose is the axiom run on chemistry, not stated in words."
+  - page: wiki/mind/synthesis/four-axioms-attestation
+    type: evidenced-by
+    claim: "First Written Attestation supplies the dated written record beside this page's enacted axiom: axioms 1 and 2 in Dan's own hand no later than May 2026."
   - { target: "[[wiki/mind/concepts/social-anxiety]]", type: references, claim: "The hedonic-tension section names social anxiety as the pressure the chemical configuration manages; no treatment engagement is documented anywhere in the record." }
 ---
 
