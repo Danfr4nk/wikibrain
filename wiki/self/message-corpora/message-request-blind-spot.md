@@ -5,7 +5,7 @@ title: "The Message-Request Blind Spot"
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - src:messenger-2026-09-12
   - src:imessage-corpus-2026
@@ -58,6 +58,15 @@ connections:
     claim: "The 'state the denominator' discipline that concept page prescribes for counts is applied here to zeros: an absence claim is a count of zero, and a count of zero without a stated denominator is not a measurement."
   - page: wiki/people/annie-ulmer
     type: supplies
+  - page: wiki/mind/synthesis/channel-cost-pricing
+    type: parallels
+    claim: "Channel-cost pricing is where this page's absence doctrine bites hardest: its dated liveness scores are exactly the class of observation the blind spot governs, since 'dead' has repeatedly meant 'unpulled' rather than closed."
+  - page: wiki/mind/synthesis/severance-declarations
+    type: parallels
+    claim: "This page's doctrine — a zero is citable only with its instrument and denominator stated — governs the severance-declarations page's absence counts; its own statement of the asymmetry (a declaration's presence taken as absolute, a severance signal's absence as license) is that page's material priced as evidence."
+  - page: wiki/mind/synthesis/severance-language-atlas
+    type: extends
+    claim: "The message-request blind spot extends the atlas by naming the bound on system-wide severance claims: Kristin's five messages sat seventeen days in an unexamined message-request folder, so 'no contact' was a fact about pulls, not the world."
     claim: "That page's 08-26 update sequence is the worked case for the declaration-vs-enactment half of the survey below: five dated pages built on an operator report that turned out to describe a non-event, retracted sixteen days later."
 ---
 

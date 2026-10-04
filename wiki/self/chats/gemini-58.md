@@ -21,6 +21,11 @@ related: [
   "wiki/self/context-core"
 ]
 tags: [ai-collaboration, nyc-era, addiction-recovery, music-production, personality-profile]
+connections:
+  - page: wiki/self/chats/gemini-18
+    type: parallels
+    claim: "Gemini 58 is a sibling Gemini forensic-archive session to Gemini 18: it runs the NYC/Ishlab and Creative License record in MAX persona blocks, and its own cross-reference notes the Full Sail/Ishlab bio overlap with session 18."
+
 ---
 
 # Gemini Session 58 (NYC Round 1 / Ishlab + Creative License Forensics 2010-2013 + Menore)

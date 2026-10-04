@@ -18,6 +18,11 @@ related: [
   "wiki/people/tom"
 ]
 tags: [ai-collaboration, uniontown-era, nyc-era, pets, personality-profile]
+connections:
+  - page: wiki/self/chats/gemini-58
+    type: parallels
+    claim: "Gemini 18 parallels session 58 as the profile-lock counterpart: a total, zero-hedging bio and personality dump requested for cross-model transfer, in the same forensic-archiving register session 58 applies to the NYC years."
+
 ---
 
 # Gemini Session 18 (Profile Lock / Exhaustive Bio Dump for Grok Transfer)

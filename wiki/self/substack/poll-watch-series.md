@@ -7,13 +7,21 @@ tier: major
 status: stable
 knowledge: earned
 date_created: 2026-10-01
-date_modified: 2026-10-01
+date_modified: 2026-10-04
 tags: [substack, polling, 2024-election, series, data-blogging]
 sources:
   - "raw/dan/20261001-substack-creepy/2023-05-26-poll-watch-1.md"
   - "raw/dan/20261001-substack-creepy/2023-06-03-poll-watch-2.md"
   - "raw/dan/20261001-substack-creepy/posts_index.json — title/date/URL index"
   - "raw/dan/20261001-substack-creepy/MANIFEST.md — 10-post pull manifest, 2026-10-01"
+connections:
+  - page: wiki/mind/politics/trump-was-always-going-to-win
+    type: evidenced-by
+    claim: "The Poll Watch installments are the contemporaneous data record the Trump Redux claim is audited against: the aggregates and the stated contempt for their predictive value are what the retroactive-certainty sentence has to survive, and does not."
+  - page: wiki/mind/concepts/hell-world-frame
+    type: parallels
+    claim: "The frame this series runs inside: hell-world's worst-reading-as-realism is the posture behind Poll Watch's stated contempt for its own numbers, published anyway because watching the trend form is the honest activity available."
+
 ---
 
 # POLL WATCH: the data-blogger mode
