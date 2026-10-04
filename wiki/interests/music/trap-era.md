@@ -40,8 +40,8 @@ related:
   - wiki/people/annie-ulmer
   - wiki/people/zachariah-harshman
   - wiki/people/ej-rags
-  - wiki/self/twitter/2013
-  - wiki/self/twitter/2014
+  - wiki/mind/synthesis/twitter-2013
+  - wiki/mind/synthesis/twitter-2014
   - wiki/self/2018-spending-analysis
 changelog:
   - date: 2026-09-24

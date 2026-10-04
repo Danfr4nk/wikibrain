@@ -6,9 +6,9 @@ date_created: 2026-09-11
 date_modified: 2026-09-12
 synthesizes:
   - wiki/mind/synthesis/2020-left-turn
-  - wiki/self/twitter/2022
-  - wiki/self/twitter/2023
-  - wiki/self/twitter/2024
+  - wiki/mind/synthesis/twitter-2022
+  - wiki/mind/synthesis/twitter-2023
+  - wiki/mind/synthesis/twitter-2024
   - wiki/self/youtube-watch-history
   - wiki/interests/hasan-piker
   - wiki/mind/concepts/non-fiction-only

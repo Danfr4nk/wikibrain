@@ -41,16 +41,16 @@ connections:
   - page: wiki/work/tech/ai-video-essays
     type: parallels
     claim: "A decade of shock-radio/long-form comedy immersion is the structural template Dan reaches for when designing his own long-form video format — Some More News is explicitly named as the model to reverse-engineer."
-  - page: wiki/self/twitter/2012
+  - page: wiki/mind/synthesis/twitter-2012
     type: evidenced-by
     claim: 'Dan disavows the show''s politics while committing to its comedy on 2012-02-26, ten years before the retrospective account, and applies for an O&A internship on 2012-11-18 — the only job application anywhere in the 2010-2012 record.'
-  - page: wiki/self/twitter/2014
+  - page: wiki/mind/synthesis/twitter-2014
     type: contradicts
     claim: 'Dan backed Cumia the day after the firing — "nothing but love and respect ant" (2014-07-04) — and endorsed his anti-political-correctness framing as "brilliant" three months earlier. The 2022 radicalization account''s timing does not survive it; its direction of travel does.'
-  - page: wiki/self/twitter/2018
+  - page: wiki/mind/synthesis/twitter-2018
     type: evidenced-by
     claim: 'The middle term of the sequence: "opie sucks though" (2018-10-29), three words with no argument attached, four years after the firing and four before the retrospective.'
-  - page: wiki/self/twitter/2021
+  - page: wiki/mind/synthesis/twitter-2021
     type: contradicts
     claim: "The move away from comedy free-speech absolutism is dated five months earlier than this page states: 'Lenny Bruce was arrested...not by the public, but by the state. Dave Chappelle is facing criticism which is, I'm told, different.' (2021-10-26), against the Louis CK defence of 2019-01-16."
 ---
@@ -136,7 +136,7 @@ leftist politics."*
 >
 > And on **25 March 2014**: *"brilliant point re 'tranny' outrage. Minority*
 > *groups feel entitled to have at least 1 term ruled a slur."* 2014 is a
-> **spreadsheet-complete year** on `wiki/self/twitter/2014` — 170 of 171 rows
+> **spreadsheet-complete year** on `wiki/mind/synthesis/twitter-2014` — 170 of 171 rows
 > from the operator export — so the absence of any post expressing discomfort
 > is itself evidence, and the record is not merely silent but opposed.
 >
@@ -179,7 +179,7 @@ particularly malicious"* and warns against *"wokescoldery"* — but "it's just a
 joke" is the exact doctrine the show ran on, and he says he has left it.
 
 > **CORRECTED [2026-09-03] — March 2022 is not the earliest instance.** The
-> shift is dated five months earlier by `wiki/self/twitter/2021`. On
+> shift is dated five months earlier by `wiki/mind/synthesis/twitter-2021`. On
 > **26 October 2021**, during the Chappelle row, he wrote:
 >
 > > *"Lenny Bruce was arrested...not by 'the public', but by the state. Dave*

@@ -29,14 +29,14 @@ related:
   - "wiki/mind/synthesis/closing-the-set"
   - "wiki/mind/concepts/lyric-qualifier"
   - "wiki/self/tattoos"
-  - "wiki/self/twitter/2018"
+  - "wiki/mind/synthesis/twitter-2018"
   - "wiki/interests/favorites/eclecticism"
 tags: [personality-profile, forensic-analysis, music-production]
 connections:
   - page: wiki/mind/synthesis/music-as-identity
     type: component-of
     claim: "Smith's quiet-pole role is the emotional-regulator facet of the four-mode music-as-identity thesis — and the regulator is now third-party confirmed: on 2025-10-08 Tom completes the reference unprompted ('Yeah any chance to get Elliot in'), which is the first evidence in the corpus that the function is legible from outside."
-  - page: wiki/self/twitter/2018
+  - page: wiki/mind/synthesis/twitter-2018
     type: evidenced-by
     claim: "'Gonna crowdfund an Elliott Smith tattoo for myself. I deserve it' (24 January 2018) is the only evidence that the attachment was ever meant to be permanent — and the held corpus now closes the gap the page left open: nine months later Dan books a Radiohead bear and a Misfits skull, not a Smith piece."
   - page: wiki/self/tattoos
@@ -620,6 +620,6 @@ independently.
 [[wiki/mind/synthesis/closing-the-set]] ·
 [[wiki/mind/concepts/lyric-qualifier]] ·
 [[wiki/interests/favorites/eclecticism]] · [[wiki/self/tattoos]] ·
-[[wiki/self/twitter/2018]] · [[wiki/self/context-core]] ·
+[[wiki/mind/synthesis/twitter-2018]] · [[wiki/self/context-core]] ·
 [[wiki/mind/profile/deviance-mapping]] ·
 [[wiki/interests/favorites/music/artists/fall-out-boy]]

@@ -10,7 +10,7 @@ sources:
 related: []
 tags: [music-production, digital-footprint]
 connections:
-  - page: wiki/self/twitter/2008
+  - page: wiki/mind/synthesis/twitter-2008
     type: evidenced-by
     claim: "The show is 28 December 2008 and he flew back to Orlando mid-Christmas for it — 'Be back on the 28th for hey Monday :)' on the 19th, 'Flying to Orlando for hey monday tomorrow' on the 27th — which closes the concert log's open year and points at its own BACKBOOTH ticket, filed under There For Tomorrow."
   - page: wiki/interests/concert-record/index
@@ -63,6 +63,6 @@ All dates, venues, cities, and notes below are taken from the source table and p
 > small room, and a band on the same Florida circuit. One night filed twice
 > under two names is the most economical reading of the two rows, but nothing
 > in the corpus states the BACKBOOTH bill, so the venue stays marked probable.
-> `wiki/self/twitter/2008` and `wiki/interests/concert-record/index`.
+> `wiki/mind/synthesis/twitter-2008` and `wiki/interests/concert-record/index`.
 
 

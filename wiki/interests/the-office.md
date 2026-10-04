@@ -32,13 +32,13 @@ connections:
   - page: wiki/mind/synthesis/music-as-identity
     type: component-of
     claim: "The Schrute Farms alias is the itinerary/devotion mode's clearest proof of insider status: a fan who clocks and carries an in-joke for twelve years was let into the scene's own sense of humor, not just watching from outside it."
-  - page: wiki/self/twitter/2008
+  - page: wiki/mind/synthesis/twitter-2008
     type: evidenced-by
     claim: "The show is naming infrastructure, not a watched programme: the Winter Park apartment is 'schrute farms' in the account's third tweet, the new kitten is shortlisted as Ari, Dwight or Mose, and the register survives into years with no television content in them."
-  - page: wiki/self/twitter/2010
+  - page: wiki/mind/synthesis/twitter-2010
     type: evidenced-by
     claim: "'remember when he stole 'shut up Oscar!' from us in s5 of the office?' to Eric Jester (12 March 2010) is the idiom operating as shared private property between two friends rather than as a reference either is explaining."
-  - page: wiki/self/twitter/2011
+  - page: wiki/mind/synthesis/twitter-2011
     type: evidenced-by
     claim: "The 21 October 2011 'there's 100 dogs at the office' tweet is followed fifteen minutes later by 'Correction: I am a dog walker', which establishes it as a literal workplace joke — the page's prior double-duty reading is retired here."
   - page: wiki/mind/concepts/88er-cohort-profile
@@ -47,7 +47,7 @@ connections:
   - page: wiki/people/eric-jester
     type: co-occurs
     claim: "Eric is the only named second party to the idiom anywhere in the record: the March 2010 'shut up Oscar!' tweet is shared private property between two Full Sail friends, explained by neither."
-  - page: wiki/self/twitter/2019
+  - page: wiki/mind/synthesis/twitter-2019
     type: evidenced-by
     claim: "'gordon sondland has a total Michael Scott vibe' (2019-11-20 15:37:34 UTC) is the dated primary for the political-comparator reading, recovered from the archive rather than from the secondary Twitter-analysis document."
   - page: wiki/interests/concert-record/index
@@ -152,7 +152,7 @@ second tweet — *"Really feels like life has started over now"* — and then th
 
 The apartment is called Schrute Farms. He is not making a joke; he is
 reporting a fact about a place, using a name he expects his audience to already
-recognise ([[wiki/self/twitter/2008]]).
+recognise ([[wiki/mind/synthesis/twitter-2008]]).
 
 The rest of that autumn runs the same way, and the density is the argument:
 
@@ -167,7 +167,7 @@ The rest of that autumn runs the same way, and the density is the argument:
 The 2008 page states the distinction plainly, and it is the correct one:
 *"The show is doing something none of the other 2008 interests do — it is
 supplying the words he uses for his own life rather than being a thing he
-watches"* ([[wiki/self/twitter/2008]]). The home, the pet and the week are all
+watches"* ([[wiki/mind/synthesis/twitter-2008]]). The home, the pet and the week are all
 labelled out of it. Within ten weeks of leaving Pennsylvania, the sitcom is
 carrying his address and nominating his cat.
 
@@ -189,7 +189,7 @@ supplied the name, the name is on the house.
 ### A second falsifier the page has never stated
 
 *"So amped for the office"* (25 September 2008) is read here and on
-[[wiki/self/twitter/2008]] as excitement for the programme. **The record does
+[[wiki/mind/synthesis/twitter-2008]] as excitement for the programme. **The record does
 not establish that.** The phrase "the office" is not unambiguous, and this
 same account uses it literally three years later (below). The supporting
 argument is circumstantial: Dan had arrived in Winter Park the previous day as
@@ -206,7 +206,7 @@ Jester]]:
 > office? do sumthan bout it"*
 
 This is the only moment in the entire record where a second named person is
-inside the idiom ([[wiki/self/twitter/2010]]; [[wiki/people/eric-jester]]).
+inside the idiom ([[wiki/mind/synthesis/twitter-2010]]; [[wiki/people/eric-jester]]).
 Neither of them explains the reference, because neither has to — the show is
 functioning as shared private property between two Full Sail friends. Eric's
 own page files this among the 2010 banter alongside *Flight of the Conchords*
@@ -228,13 +228,13 @@ stock.
 > I'm not employed as a dog walker."* — as *"a pun that only works because the
 > phrase was already doing double duty"*, i.e. as the *Office* register
 > surviving three years past the 2008 apartment. The frontmatter edge to
-> [[wiki/self/twitter/2011]] said the same. **The tweet fifteen minutes later
+> [[wiki/mind/synthesis/twitter-2011]] said the same. **The tweet fifteen minutes later
 > retires that reading.**
 >
 > At **16:41:50 UTC**, on the same thread: *"Correction: I am a dog walker."*
 > And the surrounding 2011 record is unambiguous about what "the office" was —
 > an unpaid marketing internship he started on 28 January 2011 and was still
-> resenting in March ([[wiki/self/twitter/2011]]). He was at a workplace, with
+> resenting in March ([[wiki/mind/synthesis/twitter-2011]]). He was at a workplace, with
 > dogs in it, and he was in fact the dog walker. The joke is a literal
 > workplace joke with a literal punchline attached, and the *Office* reading
 > requires the sitcom to be doing work the sentence does not need.
@@ -257,7 +257,7 @@ reference. It is the only *Office*-idiom instance anywhere on this page that
 sits inside the authoritative corpus under `CORPUS_POLICY.md`'s rules.
 
 **Archive-sourced.** *"gordon sondland has a total Michael Scott vibe"* —
-**2019-11-20 at 15:37:34 UTC** ([[wiki/self/twitter/2019]]). Posted during the
+**2019-11-20 at 15:37:34 UTC** ([[wiki/mind/synthesis/twitter-2019]]). Posted during the
 first Trump impeachment hearings, about the testifying EU ambassador. The prior
 version of this page sourced this to the secondary `FULL TWITTER ANALYSIS.txt`
 document; the archive year-page carries the dated original, which is better
@@ -354,16 +354,16 @@ testimony (archive unheld in this repo), **U** unverified.
 | # | Date (UTC unless noted) | Item | Class | Source |
 |---|---|---|---|---|
 | 1 | **2007-11-19** | Fall Out Boy secret show, Mohawk Place, Buffalo, billed **"Schrute Farms"**; ~300-cap sellout, full *Take This to Your Grave*, Keith Buckley guest on Pantera's "Walk" | **P** | [`dat:0361`](../../kb/data/0361-teen-concert-years-two-source-design-verified.md); [[wiki/interests/concert-record/index]] row 23 |
-| 2 | **2008-09-24 13:49:56** | *"schrute farms is now completely wireless."* — the account's **third tweet**; the Winter Park apartment named | **A** | [[wiki/self/twitter/2008]] |
-| 3 | **2008-09-25 23:28:23** | *"So amped for the office. Life is gooood"* — read as the programme; ambiguity flagged in §A second falsifier | **A** | [[wiki/self/twitter/2008]] |
-| 4 | **2008-10-24 15:09:23** | *"wtf do i name my cat: ari, dwight, or mose? / TEXT YOUR ANSWER TO 66589 NOW!"* | **A** | [[wiki/self/twitter/2008]] |
-| 5 | **2008-12-05 03:07:26** | *"oooomg dwight marries angela. fucking awesome."* | **A** | [[wiki/self/twitter/2008]] |
-| 6 | **2010-03-12 19:03:52** | *"@EricJester remember when he stole “shut up Oscar!” from us in s5 of the office? do sumthan bout it"* | **A** | [[wiki/self/twitter/2010]]; [[wiki/people/eric-jester]] |
-| 7 | **2011-10-21 16:27:00** | *"What the fuck there's 100 dogs at the office, and no I'm not employed as a dog walker."* — **literal workplace**, not the show; see the correction above | **A** | [[wiki/self/twitter/2011]] |
-| 8 | **2011-10-21 16:41:50** | *"Correction: I am a dog walker."* — the fifteen-minute follow-up that settles item 7 | **A** | [[wiki/self/twitter/2011]] |
+| 2 | **2008-09-24 13:49:56** | *"schrute farms is now completely wireless."* — the account's **third tweet**; the Winter Park apartment named | **A** | [[wiki/mind/synthesis/twitter-2008]] |
+| 3 | **2008-09-25 23:28:23** | *"So amped for the office. Life is gooood"* — read as the programme; ambiguity flagged in §A second falsifier | **A** | [[wiki/mind/synthesis/twitter-2008]] |
+| 4 | **2008-10-24 15:09:23** | *"wtf do i name my cat: ari, dwight, or mose? / TEXT YOUR ANSWER TO 66589 NOW!"* | **A** | [[wiki/mind/synthesis/twitter-2008]] |
+| 5 | **2008-12-05 03:07:26** | *"oooomg dwight marries angela. fucking awesome."* | **A** | [[wiki/mind/synthesis/twitter-2008]] |
+| 6 | **2010-03-12 19:03:52** | *"@EricJester remember when he stole “shut up Oscar!” from us in s5 of the office? do sumthan bout it"* | **A** | [[wiki/mind/synthesis/twitter-2010]]; [[wiki/people/eric-jester]] |
+| 7 | **2011-10-21 16:27:00** | *"What the fuck there's 100 dogs at the office, and no I'm not employed as a dog walker."* — **literal workplace**, not the show; see the correction above | **A** | [[wiki/mind/synthesis/twitter-2011]] |
+| 8 | **2011-10-21 16:41:50** | *"Correction: I am a dog walker."* — the fifteen-minute follow-up that settles item 7 | **A** | [[wiki/mind/synthesis/twitter-2011]] |
 | 9 | **2017-05-24 17:27:54** | *"i think that's what she said"* — outbound; exactly one matching row in the held corpus | **H** | [`dat:1204`](../../kb/data/1204-the-office-held-verified-idiom-and-unheld-naming-finding.md) |
 | 10 | **2019-09-02 01:44:32** (= 2019-09-01 EDT) | *"one time i went to a secret show in buffalo where fall out boy performed as 'schrute farms'"* — sole `schrute` row in 192,140 messages | **H** | [`dat:0617`](../../kb/data/0617-schrute-farms-remembered-by-name-2019-imessage.md) |
-| 11 | **2019-11-20 15:37:34** | *"gordon sondland has a total Michael Scott vibe"* | **A** | [[wiki/self/twitter/2019]] |
+| 11 | **2019-11-20 15:37:34** | *"gordon sondland has a total Michael Scott vibe"* | **A** | [[wiki/mind/synthesis/twitter-2019]] |
 | 12 | **2024-06-27** | *"Next pres was Dwight d Eisenhower"* — **zero held rows; unlocated** | **U** | [`dat:1204`](../../kb/data/1204-the-office-held-verified-idiom-and-unheld-naming-finding.md) |
 | 13 | **2026-09-15 10:50–10:57Z** | *"The Office as a second language"* named as an 88er cohort property in Dan's own generational self-analysis | **H** | [`dat:1573`](../../kb/data/1573-88ers-generational-analysis-20260915.md) |
 
@@ -401,10 +401,10 @@ office* as the programme), with what each one holds:
 | File | What it carries |
 |---|---|
 | [[wiki/interests/the-office]] | this page |
-| [[wiki/self/twitter/2008]] | the naming-infrastructure cluster; four dated originals |
-| [[wiki/self/twitter/2010]] | the Eric Jester "shut up Oscar!" tweet |
-| [[wiki/self/twitter/2011]] | the dog-walking pair, now reclassified |
-| [[wiki/self/twitter/2008]] | the 2019 Sondland tweet, dated original |
+| [[wiki/mind/synthesis/twitter-2008]] | the naming-infrastructure cluster; four dated originals |
+| [[wiki/mind/synthesis/twitter-2010]] | the Eric Jester "shut up Oscar!" tweet |
+| [[wiki/mind/synthesis/twitter-2011]] | the dog-walking pair, now reclassified |
+| [[wiki/mind/synthesis/twitter-2008]] | the 2019 Sondland tweet, dated original |
 | [[wiki/interests/favorites/music/artists/fall-out-boy]] | the Buffalo secret show inside the band's touring record; the 2025 ChatGPT full-album cross-check |
 | [[wiki/timeline/events/teen-concert-years]] | the show in the 2005–2008 itinerary; "a deliberate in-joke he was let in on" |
 | [[wiki/interests/concert-record/index]] | row 23 — the alias as a ledger field |
@@ -473,8 +473,8 @@ to the corpus.
 [[wiki/interests/opie-and-anthony]] · [[wiki/mind/concepts/88er-cohort-profile]] ·
 [[wiki/mind/synthesis/music-as-identity]] · [[wiki/mind/profile/deviance-mapping]] ·
 [[wiki/mind/profile/linguistic-profile]] · [[wiki/mind/profile/texting-deviance-audit]] ·
-[[wiki/people/eric-jester]] · [[wiki/self/twitter/2008]] · [[wiki/self/twitter/2010]] ·
-[[wiki/self/twitter/2011]] · [[wiki/self/twitter/2019]] ·
+[[wiki/people/eric-jester]] · [[wiki/mind/synthesis/twitter-2008]] · [[wiki/mind/synthesis/twitter-2010]] ·
+[[wiki/mind/synthesis/twitter-2011]] · [[wiki/mind/synthesis/twitter-2019]] ·
 [[wiki/meta/complete-log-doctrine]] ·
 [`dat:1204`](../../kb/data/1204-the-office-held-verified-idiom-and-unheld-naming-finding.md) ·
 [`dat:0617`](../../kb/data/0617-schrute-farms-remembered-by-name-2019-imessage.md) ·

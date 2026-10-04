@@ -11,7 +11,7 @@ sources:
 related: []
 tags: [music-production, digital-footprint]
 connections:
-  - page: wiki/self/twitter/2009
+  - page: wiki/mind/synthesis/twitter-2009
     type: evidenced-by
     claim: "The order of operations behind the ticket: 'omg so excited for flight of the conchords tonight.' on Sunday 25 January 2009 is the HBO series airing, ten weeks before the 8 April UCF Arena show — so the concert was bought by somebody already watching, which a ticket stub cannot show."
 ---
@@ -43,6 +43,6 @@ Sunday, during the run of the HBO series' second season — so it is the show on
 television, not the show on stage. Small, and it establishes the sequence the
 concert log cannot: **he was already watching, and the ticket followed.** For
 an entry otherwise built from one row of a ticket table, that is the difference
-between a night out and an interest. `wiki/self/twitter/2009`.
+between a night out and an interest. `wiki/mind/synthesis/twitter-2009`.
 
 Why incidental: the complete record for this act is one show and one antecedent tweet, both preserved here; nothing further in the corpus bears on it.

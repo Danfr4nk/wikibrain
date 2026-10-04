@@ -12,9 +12,9 @@ sources:
 tags: [politics, ideology, digital-footprint]
 synthesizes:
   - wiki/mind/synthesis/2020-left-turn
-  - wiki/self/twitter/2021
-  - wiki/self/twitter/2022
-  - wiki/self/twitter/2023
+  - wiki/mind/synthesis/twitter-2021
+  - wiki/mind/synthesis/twitter-2022
+  - wiki/mind/synthesis/twitter-2023
   - wiki/self/youtube-watch-history
   - wiki/mind/politics/axioms
   - wiki/mind/concepts/non-fiction-only
@@ -23,7 +23,7 @@ connections:
   - page: wiki/mind/synthesis/2020-left-turn
     type: instance-of
     claim: "Hasan Piker is one of the four channels the 2020-left-turn synthesis names as the mechanism of Dan's lockdown conversion — the Chapo/Hasan/ContraPoints media pipeline that carried the August 2020 socialist turn."
-  - page: wiki/self/twitter/2022
+  - page: wiki/mind/synthesis/twitter-2022
     type: evidenced-by
     claim: "The February 22, 2022 tweets carry the fullest statement of the relationship: 'I love Hasan but his take on Russia is either purposefully antagonistic at the expense of his intellectual credibility or astonishingly naive in the face of overwhelming contradictory evidence' — posted two days before the full-scale invasion of Ukraine."
   - page: wiki/self/youtube-watch-history

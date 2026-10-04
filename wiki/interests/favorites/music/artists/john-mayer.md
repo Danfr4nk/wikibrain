@@ -10,7 +10,7 @@ sources:
 related: []
 tags: [music-production, digital-footprint]
 connections:
-  - page: wiki/self/twitter/2009
+  - page: wiki/mind/synthesis/twitter-2009
     type: evidenced-by
     claim: "Thirteen months after the confirmed Burgettstown show he is still playing the records unprompted — 'i'm getting super jammy to john mayer today. good moods breed good moods.' (30 September 2009) — and in November he is bantering with a fan account, @JMayerFan216, which is a level of engagement no ticket record reaches."
 ---
@@ -44,7 +44,7 @@ Thirteen and fifteen months after the show, unprompted, from Orlando. The
 second is addressed to a dedicated John Mayer fan account, which places him
 inside that fandom's social layer rather than adjacent to it — and it sits in
 the same autumn as the emo, pop-punk and Jedi Mind Tricks material on
-`wiki/self/twitter/2009`, which is a wider taste at twenty than either page
+`wiki/mind/synthesis/twitter-2009`, which is a wider taste at twenty than either page
 suggests alone.
 
 

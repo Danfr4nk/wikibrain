@@ -12,7 +12,7 @@ sources:
 related:
   - wiki/interests/concert-record/index
   - wiki/people/katie-fletcher
-  - wiki/self/twitter/2013
+  - wiki/mind/synthesis/twitter-2013
   - wiki/interests/stand-up-comedy
   - wiki/interests/opie-and-anthony
   - wiki/interests/concert-record/performers/dave-chappelle
@@ -27,7 +27,7 @@ connections:
   - page: wiki/interests/concert-record/performers/john-mulaney
     type: contains
     claim: "John Mulaney performed at Oddball Comedy & Curiosity Festival on Aug 30, 2013 (Post-Gazette Pavilion (First Niagara Pavilion), Burgettstown, PA)."
-  - page: wiki/self/twitter/2013
+  - page: wiki/mind/synthesis/twitter-2013
     type: evidenced-by
     claim: "The ticket dates the night; a Vine posted at 22:54 on 30 August 2013 — 'Frogs and Katie Fletcher at #oddballcomedyfest Pittsburgh' — proves attendance and names his companion, which no ticket can."
   - page: wiki/people/katie-fletcher
@@ -149,7 +149,7 @@ the corpus's own two accounts of one week.
 
 ## The 31 August artefact
 
-[[wiki/self/twitter/2013]] lists, among the places the geography changes in
+[[wiki/mind/synthesis/twitter-2013]] lists, among the places the geography changes in
 late summer, *"the Oddball Comedy Festival in Pittsburgh (31 August)."* Every
 other record in the corpus — that same page's own table, the concert log, both
 performer pages, all four kb nodes — says 30 August.
@@ -184,7 +184,7 @@ sources by venue string.
 Katie Fletcher was, per [[wiki/people/katie-fletcher]], Dan's interim partner
 of roughly 2013 — the bridge relationship inside the only documented fracture
 of the six-year [[wiki/people/alexis-armel|Alexis]] relationship. That fracture
-is dated on both sides from the public record by [[wiki/self/twitter/2013]]:
+is dated on both sides from the public record by [[wiki/mind/synthesis/twitter-2013]]:
 *"I guess I tweet more when I'm single?"* on 9 August, eleven days with
 `@katie_efff` across late August, and Alexis named again on 8 September. Six
 to eight weeks off, with another person documented inside it.
@@ -354,7 +354,7 @@ peaked is the year he first bought a ticket to watch the thing live.
 - **The 2026 retelling is testimony.** Hartford, the H-Bomb set, the keys, the
   gravel lot and the chemistry are single-source, thirteen years post-hoc, and
   none of it is corroborated in this repository.
-- **The archive's own edge.** [[wiki/self/twitter/2013]] states that its 2013
+- **The archive's own edge.** [[wiki/mind/synthesis/twitter-2013]] states that its 2013
   coverage is a live scrape truncated to ten results per month before
   2013-08-17 and complete only after it. The Oddball post sits inside the
   complete half — which is lucky, and worth saying out loud, because a night

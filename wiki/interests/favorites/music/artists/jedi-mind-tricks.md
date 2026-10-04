@@ -11,7 +11,7 @@ sources:
 related: []
 tags: [music-production, digital-footprint]
 connections:
-  - page: wiki/self/twitter/2008
+  - page: wiki/mind/synthesis/twitter-2008
     type: evidenced-by
     claim: "The log's 17 November 2008 date is independently corroborated from inside The Social that night, and the archive supplies the only reaction on record: 'holy fuck, jedi mind tricks are so fucking scary.' — posted at 01:50, walking out."
 ---
@@ -46,7 +46,7 @@ independently, and they are the only record of what he made of it:
 The four-hour gap is the set. **"Scary" is the reaction and it is not a
 complaint** — this is an Orlando audio student two months into Full Sail,
 already deep in the emo and pop-punk circuit that fills the rest of autumn
-2008 ([[wiki/self/twitter/2008]]), walking out of a Philadelphia
+2008 ([[wiki/mind/synthesis/twitter-2008]]), walking out of a Philadelphia
 horrorcore show having enjoyed it. The taste is wider at twenty than the
 concert table's overwhelmingly pop-punk 2008 rows suggest on their own.
 

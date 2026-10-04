@@ -13,7 +13,7 @@ sources:
   - "raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md"
 tags: [digital-footprint, nyc-era, personality-profile]
 connections:
-  - page: wiki/self/twitter/2008
+  - page: wiki/mind/synthesis/twitter-2008
     type: evidenced-by
     claim: "The largest gaming figure in the corpus — fourteen hours of World of Warcraft in twenty-four, on 31 December 2008 — comes from the account's recovered first year and predates this page's earliest previous evidence by three years."
 
@@ -29,7 +29,7 @@ connections:
   - page: wiki/interests/favorites/music/artists/fall-out-boy
     type: co-occurs
     claim: "The 2007 status layer names gaming and 'swooning over the new FOB' in the same breath; the two interests are contemporaneous coordinates of the pre-armor self-presentation."
-  - page: wiki/self/twitter/2011
+  - page: wiki/mind/synthesis/twitter-2011
     type: evidenced-by
     claim: 'The StarCraft II involvement is competitive rather than casual and is dated: dismissed as a five-minute game on 20 March 2011, a GeForce pro/am first round on 23 June, with ladder reclassification, a named build order and pros discussed by handle in between.'
 ---
@@ -54,7 +54,7 @@ of the teenage identity cluster, not a separate hobby.
 ## 2008: fourteen hours in twenty-four
 
 The earliest gaming evidence in the corpus is now **31 December 2008**, from
-the account's recovered first year ([[wiki/self/twitter/2008]]):
+the account's recovered first year ([[wiki/mind/synthesis/twitter-2008]]):
 
 > *"in the past 24 hours, i've played 14 hours of world of warcraft."*
 

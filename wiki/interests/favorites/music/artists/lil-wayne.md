@@ -14,7 +14,7 @@ connections:
   - page: wiki/interests/concert-record/festivals/the-bamboozle-2011
     type: component-of
     claim: "Lil Wayne performed at The Bamboozle 2011 on Apr 29 - May 1, 2011 (New Meadowlands Stadium, East Rutherford, NJ)."
-  - page: wiki/self/twitter/2011
+  - page: wiki/mind/synthesis/twitter-2011
     type: evidenced-by
     claim: "He publicly called the artist stupid three months before seeing him: 'the stupid just keeps oozing out of this guy' (19 January 2011) against a Bamboozle bill Lil Wayne headlined on 29 April - 1 May — which is the concert record's own stated principle in action, that the unit of attendance is the event and you get whoever is on it."
 ---

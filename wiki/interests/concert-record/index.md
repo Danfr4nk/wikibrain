@@ -9,7 +9,7 @@ sources:
   - "raw/twitter/archive.jsonl"
 tags: [music-production, digital-footprint]
 connections:
-  - page: wiki/self/twitter/2008
+  - page: wiki/mind/synthesis/twitter-2008
     type: evidenced-by
     claim: "The ticket table is not the complete record it claims to be: one autumn of the twitter archive names three Orlando shows it does not contain — The Roots (7 October), Cobra Starship / Hit The Lights / Forever The Sickest Kids (13 November) and Trans-Siberian Orchestra (15 November) — while corroborating four it does, to the day, from inside the venue."
   - page: wiki/interests/favorites/music/artists/hey-monday
@@ -71,7 +71,7 @@ Per the repository's ingest philosophy, the unit of entry is the **artist**, not
 
 ## The twitter cross-check — the table is a purchase record, not an attendance record
 
-Added 2026-09-04, from [[wiki/self/twitter/2008]].
+Added 2026-09-04, from [[wiki/mind/synthesis/twitter-2008]].
 
 **The claim above that "the master table below is the complete record" is
 false, and one autumn of one archive is enough to show it.** Ninety-eight days

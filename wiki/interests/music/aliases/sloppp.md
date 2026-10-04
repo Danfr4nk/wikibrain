@@ -42,10 +42,10 @@ connections:
   - page: wiki/people/zachariah-harshman
     type: co-occurs
     claim: "Zach is SLOPPP's earliest documented fan and promoter — pitching Dan to a Pittsburgh rave scene contact in January 2014, less than two years before the project's Dec 26, 2015 'Goodbye Demo' close."
-  - page: wiki/self/twitter/2013
+  - page: wiki/mind/synthesis/twitter-2013
     type: evidenced-by
     claim: "Roughly triples the documented 2013 output: 29 distinct titles against the Facebook-derived discography's 9, with 16 of them in September 2013 alone — a month the table records one release in — and it carries the self-undercutting that came with them, '#overcompensating #poseur #fakefuture' posted on an announcement at the peak."
-  - page: wiki/self/twitter/2014
+  - page: wiki/mind/synthesis/twitter-2014
     type: evidenced-by
     claim: "The 2014 half of the alias's public life, 31 posts: the Beatport contest entry, the remix run for heRobust, Katy Perry, gLAdiator, Drake x Cashmere Cat, Caked Up and Zeds Dead, and 'as a nobody DJ' written in the same month as the contest."
   - page: wiki/mind/synthesis/failure-to-launch
@@ -103,8 +103,8 @@ of a booking resulting from either lead.
 
 ## The twitter archive roughly triples the documented 2013 output
 
-Added 2026-09-04 from [[wiki/self/twitter/2013]] and
-[[wiki/self/twitter/2014]]. **The discography below is reconstructed from
+Added 2026-09-04 from [[wiki/mind/synthesis/twitter-2013]] and
+[[wiki/mind/synthesis/twitter-2014]]. **The discography below is reconstructed from
 Facebook share dates. The twitter archive was never read against it**, and it
 carries 48 SLOPPP-tagged posts in 2013 and 31 in 2014, most of them SoundCloud
 auto-shares that name a title and date it to the minute.
@@ -129,7 +129,7 @@ it.
 **Three cautions, and the first two are load-bearing.**
 
 1. **The 2013 archive begins on 17 August** because the source changes there
-   (`wiki/self/twitter/2013`, and the same caveat governs 2009–2013 generally).
+   (`wiki/mind/synthesis/twitter-2013`, and the same caveat governs 2009–2013 generally).
    Everything before that date is invisible, so 29 is a floor for the year and
    the alias's start date is *still* not datable from here.
 2. **The year-on-year drop from 29 to 4 is a change of format, not of output.**
@@ -165,7 +165,7 @@ Three hashtags, all self-accusations, attached to the announcement rather than
 to anything else — at the exact centre of the most productive month in the
 project's life. It is the same move as *"as a 'nobody' DJ"* in April 2014,
 posted in the month he was entering a Beatport contest
-([[wiki/self/twitter/2014]]), and it is why
+([[wiki/mind/synthesis/twitter-2014]]), and it is why
 [[wiki/mind/synthesis/failure-to-launch]] should read this era as something
 other than an unfinished attempt: **the output was real, sustained and
 prolific, and the self-assessment attached to it was already a verdict.**

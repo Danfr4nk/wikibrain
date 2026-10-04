@@ -305,7 +305,7 @@ record does not show Dan ever connecting the war shelf to his own family's
 war.**
 
 What the record does show is a dated refusal to treat military service as an
-epistemic credential. [[wiki/self/twitter/2013]] carries the line — *"Being a
+epistemic credential. [[wiki/mind/synthesis/twitter-2013]] carries the line — *"Being a
 vet does NOT make your racism ok nor does it make you automatically correct"* —
 and files it alongside his handling of the Boston Marathon bombing as evidence
 for [[wiki/mind/synthesis/vertical-authority-skepticism]]. That is the war
