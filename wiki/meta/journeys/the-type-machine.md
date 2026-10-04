@@ -39,7 +39,7 @@ journey:
       note: "The first instrument in the apparatus to be independently falsified, by somebody building the control group it never had."
     - page: wiki/mind/concepts/the-handed-mirror
       note: "The apparatus pointed outward: the analysis has a terminal step, and the terminal step is delivery."
-    - page: wiki/self/concepts/wiki-brain
+    - page: wiki/mind/concepts/wiki-brain
       note: "Where the apparatus points now: this repository, named on its own page as the current and largest instance of a measurement practice already four generations deep."
 ---
 
@@ -291,7 +291,7 @@ including the rows that have since been superseded, which stay visible:
 | Deviance audit | 80–99/100 across seven domains, 92% stated confidence | [[wiki/mind/profile/deviance-mapping]] | — |
 | Composite voice model | Eight modes, ten trigger-level modifiers with percentages | [[wiki/mind/profile/voice-modes]] | — |
 | Bespoke vocabulary | Two graded word batches from a machine-generated pool | [[wiki/interests/language/vocabulary-lexicon]] | — |
-| This wiki | 595 source pages as of 2026-09-19 — **the 476-page figure superseded 2026-09-20** | [[wiki/self/concepts/wiki-brain]] | — |
+| This wiki | 595 source pages as of 2026-09-19 — **the 476-page figure superseded 2026-09-20** | [[wiki/mind/concepts/wiki-brain]] | — |
 
 Seven frameworks, three analyses, one lexicon and a repository. The 2013 batch
 is not an outlier next to this. It is the prototype — the same operation, run
@@ -455,7 +455,7 @@ would then have to answer.
 
 ## Where the apparatus points now
 
-[[wiki/self/concepts/wiki-brain|The wiki-brain]] — this repository — closes
+[[wiki/mind/concepts/wiki-brain|The wiki-brain]] — this repository — closes
 the journey by naming itself as a member of its own subject matter. Its
 frontmatter carries a `caused-by` edge into the-commissioned-self stating
 plainly: **"This repository is the current and largest instance of a

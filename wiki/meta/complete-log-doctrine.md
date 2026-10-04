@@ -11,7 +11,7 @@ importance: high
 tags: [wiki-governance, editorial-policy, instruments, measurement]
 sources: []
 related:
-  - wiki/self/concepts/stylometry-v2
+  - wiki/mind/concepts/stylometry-v2
   - wiki/meta/instruments/index
 ---
 
@@ -38,7 +38,7 @@ It is the sibling of the narrative-spread doctrine: narrative-spread says intake
 
 ## Exemplars
 
-- **The stylometry v2 burn-in log** ([[wiki/self/concepts/stylometry-v2]]) — the build that prompted the doctrine: a how-to-read-it Rosetta Stone, the running tally, every notable scoring window translated into plain English, quiet stretches collapsed to one line per day. Regenerated daily from the append-only ledger by `update_wiki_results.py`.
+- **The stylometry v2 burn-in log** ([[wiki/mind/concepts/stylometry-v2]]) — the build that prompted the doctrine: a how-to-read-it Rosetta Stone, the running tally, every notable scoring window translated into plain English, quiet stretches collapsed to one line per day. Regenerated daily from the append-only ledger by `update_wiki_results.py`.
 - **The intake ledger** ([[wiki/health/intake-ledger]]) — the anti-unreliable-narrator layer already works this way: the event-sourced log is the source of truth, corrections supersede rather than editing in place, and the log keeps both.
 
 ## What it is not

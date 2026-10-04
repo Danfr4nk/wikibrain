@@ -186,9 +186,9 @@ have moved since.
 - [[wiki/people/suzanne-frank-personality-assessment]] — 1 premise
 - [[wiki/people/tom-maison-supply-record]] — 5 premises
 - [[wiki/places/the-unpapered-address]] — 13 premises
-- [[wiki/self/concepts/ally-and-dan-love-as-destiny]] — 1 premise
-- [[wiki/self/concepts/astrology-star-signs]] — 1 premise
-- [[wiki/self/concepts/wiki-brain]] — 2 premises
+- [[wiki/mind/concepts/ally-and-dan-love-as-destiny]] — 1 premise
+- [[wiki/mind/concepts/astrology-star-signs]] — 1 premise
+- [[wiki/mind/concepts/wiki-brain]] — 2 premises
 - [[wiki/self/context-core]] — 9 premises
 - [[wiki/self/favorites]] — 3 premises
 - [[wiki/self/lineage/hybrid-analysis]] — 4 premises

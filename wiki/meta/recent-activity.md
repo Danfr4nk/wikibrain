@@ -96,8 +96,8 @@ simply listed.
 | [[wiki/people/zach-clingan]] | people | **CORRECTED** — The third register named above — "a fellow caddie at Nemacolin in the autumn of 2017, trading weed and report times" — is withdrawn. On 2026-09-12 Dan testified that his Clingan ended on December 9, 2 |
 | [[wiki/people/zach-unidentified-843]] | people | — |
 | [[wiki/places/155-virginia-ave]] | places | _(carries a GAP CLOSED from 2026-08-22)_ |
-| [[wiki/self/concepts/claude]] | self | _(carries a CORRECTED from 2026-08-19)_ |
-| [[wiki/self/concepts/media-ingest]] | self | — |
+| [[wiki/mind/concepts/claude]] | self | _(carries a CORRECTED from 2026-08-19)_ |
+| [[wiki/mind/concepts/media-ingest]] | self | — |
 | [[wiki/self/youtube-watch-history]] | self | _(carries a REVISED from 2026-07-20)_ |
 | [[wiki/timeline/events/bald-eagle-cummings]] | timeline | — |
 | [[wiki/timeline/events/end-fight]] | timeline | **CORRECTED** — The previous version of this page attributed the June 1 closing line — *"Goodbye forever. This was not how it should have ended but. sic semper lupanis."* (2026-06-01 00:27:49 EDT) — to Annie, in two  |
@@ -116,7 +116,7 @@ simply listed.
 | [[wiki/mind/synthesis/the-serial-monogamist]] | mind | — |
 | [[wiki/people/danny-matthews]] | people | — |
 | [[wiki/people/jaredtricia]] | people | — |
-| [[wiki/self/concepts/chatgpt]] | self | _(carries a GAP CLOSED from 2026-09-02)_ |
+| [[wiki/mind/concepts/chatgpt]] | self | _(carries a GAP CLOSED from 2026-09-02)_ |
 
 ## 2026-09-10 — 3 pages
 
@@ -161,8 +161,8 @@ simply listed.
 | [[wiki/people/rod-banks]] | people | **CORRECTED** — **wrong, and the whole reading above was built on one side of a conversation.** This page was written from 41 messages in the CSV export and attributed their one-sidedness to the export. The dox-scan  |
 | [[wiki/people/suzanne-frank]] | people | _(carries a RE-CHECKED from 2026-08-26)_ |
 | [[wiki/people/suzanne-frank-personality-assessment]] | people | **RE-CHECKED** — **assessment rather than against it.** suzanne-frank gained a section on her six messages naming Judge Fred Adams. **No scored dimension** **here is affected.** Worth recording for a later pass: the 2 |
-| [[wiki/self/twitter/2008]] | self | _(carries a GAP CLOSED from 2026-09-03)_ |
-| [[wiki/self/twitter/2014]] | self | **CORRECTED** — **without their denominator.** She is barely here. Those two are the whole year against **23 in 2013**, and the collapse is specific to her rather than to the account: 2014's @-mention *rate* is the s |
+| [[wiki/mind/synthesis/twitter-2008]] | self | _(carries a GAP CLOSED from 2026-09-03)_ |
+| [[wiki/mind/synthesis/twitter-2014]] | self | **CORRECTED** — **without their denominator.** She is barely here. Those two are the whole year against **23 in 2013**, and the collapse is specific to her rather than to the account: 2014's @-mention *rate* is the s |
 
 ## 2026-09-03 — 33 pages
 
@@ -182,23 +182,23 @@ simply listed.
 | [[wiki/places/424-bedford-ave]] | places | — |
 | [[wiki/self/location-history]] | self | _(carries a CONTRADICTION from 2026-09-02)_ |
 | [[wiki/self/twitter]] | self | _(carries a CONTRADICTION)_ |
-| [[wiki/self/twitter/2009]] | self | **CONTRADICTION** — `raw/self/context-core/CONTEXT_CORE_EXPANDED.md` states *"AS Recording Arts; graduated Aug 2009 (top 5%)"*, and `wiki/timeline/periods/full-sail-2008-2010` and `wiki/people/alexis-armel` both build on |
-| [[wiki/self/twitter/2010]] | self | **CONTRADICTION** — the anchor is misread. The 18 February train was the **return** leg, not the outbound one. On 17 February Dan is already in New York (*"off to Williamsburg"*), and on the 18th he is *"On the train* *b |
-| [[wiki/self/twitter/2011]] | self | — |
-| [[wiki/self/twitter/2012]] | self | — |
-| [[wiki/self/twitter/2013]] | self | — |
-| [[wiki/self/twitter/2015]] | self | — |
-| [[wiki/self/twitter/2016]] | self | — |
-| [[wiki/self/twitter/2017]] | self | — |
-| [[wiki/self/twitter/2018]] | self | — |
-| [[wiki/self/twitter/2019]] | self | — |
-| [[wiki/self/twitter/2020]] | self | — |
-| [[wiki/self/twitter/2021]] | self | — |
-| [[wiki/self/twitter/2022]] | self | — |
-| [[wiki/self/twitter/2023]] | self | — |
-| [[wiki/self/twitter/2024]] | self | — |
-| [[wiki/self/twitter/2025]] | self | — |
-| [[wiki/self/twitter/2026]] | self | — |
+| [[wiki/mind/synthesis/twitter-2009]] | self | **CONTRADICTION** — `raw/self/context-core/CONTEXT_CORE_EXPANDED.md` states *"AS Recording Arts; graduated Aug 2009 (top 5%)"*, and `wiki/timeline/periods/full-sail-2008-2010` and `wiki/people/alexis-armel` both build on |
+| [[wiki/mind/synthesis/twitter-2010]] | self | **CONTRADICTION** — the anchor is misread. The 18 February train was the **return** leg, not the outbound one. On 17 February Dan is already in New York (*"off to Williamsburg"*), and on the 18th he is *"On the train* *b |
+| [[wiki/mind/synthesis/twitter-2011]] | self | — |
+| [[wiki/mind/synthesis/twitter-2012]] | self | — |
+| [[wiki/mind/synthesis/twitter-2013]] | self | — |
+| [[wiki/mind/synthesis/twitter-2015]] | self | — |
+| [[wiki/mind/synthesis/twitter-2016]] | self | — |
+| [[wiki/mind/synthesis/twitter-2017]] | self | — |
+| [[wiki/mind/synthesis/twitter-2018]] | self | — |
+| [[wiki/mind/synthesis/twitter-2019]] | self | — |
+| [[wiki/mind/synthesis/twitter-2020]] | self | — |
+| [[wiki/mind/synthesis/twitter-2021]] | self | — |
+| [[wiki/mind/synthesis/twitter-2022]] | self | — |
+| [[wiki/mind/synthesis/twitter-2023]] | self | — |
+| [[wiki/mind/synthesis/twitter-2024]] | self | — |
+| [[wiki/mind/synthesis/twitter-2025]] | self | — |
+| [[wiki/mind/synthesis/twitter-2026]] | self | — |
 | [[wiki/timeline/events/franki-fireworks-day-2013]] | timeline | — |
 | [[wiki/timeline/periods/full-sail-2008-2010]] | timeline | **CONTRADICTION** — the August 2009 graduation date is contradicted by Dan's own contemporaneous public record, in two independent places. On **2009-08-31** he wrote *"so weirded out i start my last month of* *college to |
 
@@ -304,8 +304,8 @@ simply listed.
 | [[wiki/people/shelbie-breakiron]] | people | — |
 | [[wiki/people/tom]] | people | — |
 | [[wiki/self/ancestry]] | self | — |
-| [[wiki/self/concepts/ally-and-dan-love-as-destiny]] | self | **RE-CHECKED** — flagged stale against ally-lubin (2026-08-26), which integrated a full unprompted love letter sent August 21, 2026 (*"I've spent 10 years… I just never got over it"* / *"still haven't* *lost interest… |
-| [[wiki/self/concepts/astrology-star-signs]] | self | **RE-CHECKED** — flagged stale again against ally-lubin (2026-08-26), which integrated a staged love letter and a sage finding about a mutual-correction sequence and a joke line ("I'm a SINGLE MOTHER"). None of the th |
+| [[wiki/mind/concepts/ally-and-dan-love-as-destiny]] | self | **RE-CHECKED** — flagged stale against ally-lubin (2026-08-26), which integrated a full unprompted love letter sent August 21, 2026 (*"I've spent 10 years… I just never got over it"* / *"still haven't* *lost interest… |
+| [[wiki/mind/concepts/astrology-star-signs]] | self | **RE-CHECKED** — flagged stale again against ally-lubin (2026-08-26), which integrated a staged love letter and a sage finding about a mutual-correction sequence and a joke line ("I'm a SINGLE MOTHER"). None of the th |
 | [[wiki/self/context-core]] | self | _(carries a CORRECTED)_ |
 | [[wiki/self/overview]] | self | — |
 | [[wiki/timeline/events/fran-death-vigil]] | timeline | _(carries a CORRECTED from 2026-08-18)_ |
@@ -349,8 +349,8 @@ simply listed.
 |---|---|---|
 | [[wiki/people/emaly-minerd]] | people | — |
 | [[wiki/people/trinity-st-clair]] | people | — |
-| [[wiki/self/concepts/llm]] | self | **CORRECTED** — this section previously presented all three bullets below as *"his analysis."* They are **Gemini's**, generated in the 2025-08-24 session from Dan's five-word prompt *"gemini i think chatGPT is* *cook |
-| [[wiki/self/concepts/wiki-brain]] | self | **RE-CHECKED** — **claim without overturning it.** llm moved on 2026-08-21: Gemini's 'chicken nugget' passage was corrected off Dan's ledger, and the post-GPT-5 causation of ChatGPT's decline was marked untested. This |
+| [[wiki/mind/concepts/llm]] | self | **CORRECTED** — this section previously presented all three bullets below as *"his analysis."* They are **Gemini's**, generated in the 2025-08-24 session from Dan's five-word prompt *"gemini i think chatGPT is* *cook |
+| [[wiki/mind/concepts/wiki-brain]] | self | **RE-CHECKED** — **claim without overturning it.** llm moved on 2026-08-21: Gemini's 'chicken nugget' passage was corrected off Dan's ledger, and the post-GPT-5 causation of ChatGPT's decline was marked untested. This |
 | [[wiki/work/au-zaatar]] | work | _(carries a REVISED from 2026-07-14)_ |
 
 ## 2026-08-20 — 16 pages
@@ -392,8 +392,8 @@ simply listed.
 | [[wiki/mind/synthesis/interests-as-era-markers]] | mind | — |
 | [[wiki/places/307-e-76th-st]] | places | **GAP CLOSED** — the Gaps note above records the monthly rent as not recovered. It is in the message dump twice, from Dan's own outbound. **2024-05-02:** *"I mean that's fine but the last lease we signed was 2450."* * |
 | [[wiki/places/90th-st-manhattan]] | places | _(carries a CORRECTED from 2026-08-10)_ |
-| [[wiki/self/concepts/claude-code]] | self | _(carries a RE-CHECKED)_ |
-| [[wiki/self/concepts/gemini]] | self | **CORRECTED** — An earlier version of this page quoted Gemini's ChatGPT autopsy — "access and replicate a linguistic pattern from a specific subculture without an immediate, top-down ethical override," "every system  |
+| [[wiki/mind/concepts/claude-code]] | self | _(carries a RE-CHECKED)_ |
+| [[wiki/mind/concepts/gemini]] | self | **CORRECTED** — An earlier version of this page quoted Gemini's ChatGPT autopsy — "access and replicate a linguistic pattern from a specific subculture without an immediate, top-down ethical override," "every system  |
 
 ## 2026-08-18 — 13 pages
 

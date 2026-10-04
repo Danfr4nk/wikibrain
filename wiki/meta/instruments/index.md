@@ -153,6 +153,6 @@ first-party dated record could settle and nobody can check it. Then:
 
 ---
 
-[[wiki/meta/index|meta]] · [[wiki/meta/journeys/the-instrumented-channel|The Instrumented Channel]] · [[wiki/self/concepts/wiki-brain|The wiki]]
+[[wiki/meta/index|meta]] · [[wiki/meta/journeys/the-instrumented-channel|The Instrumented Channel]] · [[wiki/mind/concepts/wiki-brain|The wiki]]
 
 

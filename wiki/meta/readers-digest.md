@@ -77,15 +77,15 @@ _Nothing yet._
 
 **major** — 73 outstanding
 
-- [[wiki/self/twitter/2024]] (11186 words)
-- [[wiki/self/twitter/2010]] (11106 words)
-- [[wiki/self/twitter/2013]] (10853 words)
-- [[wiki/self/twitter/2009]] (9061 words)
-- [[wiki/self/twitter/2022]] (8060 words)
+- [[wiki/mind/synthesis/twitter-2024]] (11186 words)
+- [[wiki/mind/synthesis/twitter-2010]] (11106 words)
+- [[wiki/mind/synthesis/twitter-2013]] (10853 words)
+- [[wiki/mind/synthesis/twitter-2009]] (9061 words)
+- [[wiki/mind/synthesis/twitter-2022]] (8060 words)
 
 **free** — 47 outstanding
 
-- [[wiki/self/concepts/media-ingest]] (301 words)
+- [[wiki/mind/concepts/media-ingest]] (301 words)
 - [[wiki/work/caviar-courier]] (301 words)
 - [[wiki/interests/favorites/books/authors/adrian-goldsworthy]] (315 words)
 - [[wiki/interests/favorites/music/artists/lil-wayne]] (320 words)
