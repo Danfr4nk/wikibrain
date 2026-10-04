@@ -6,7 +6,7 @@ aliases: ["5w4", "5w6sx", "sx/sp", "social-blind", "remote intimacy"]
 status: stable
 importance: high
 date_created: 2026-07-13
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -47,6 +47,9 @@ connections:
     claim: "The Witness need's one documented completion: Dan made her the first human ever to read this wiki (2026-08-18), she audited rather than merely witnessed it, and both parties survived the transaction without the predicted consumption fear firing."
   - page: wiki/mind/synthesis/no-platonic-channel
     type: component-of
+  - page: wiki/mind/profile/deviance-mapping
+    type: parallels
+    claim: "Enneagram 5w4 and deviance mapping are parallel commissioned instruments in the profile cluster: the Enneagram page carries a commissioned 5w4 typing disputed by the only dated self-typing, 5w6sx, in the record."
     claim: "An sx-dominant stack with the social instinct functionally absent predicts that the ordinary, low-intensity peer register most friendships run in is simply not an available setting — closeness has only the fusion mode and the fortress mode."
 ---
 

@@ -5,7 +5,7 @@ title: "Deviance Mapping — The Statistical Outlier Audit"
 aliases: ["deviance audit", "social deviances"]
 status: stable
 date_created: 2026-07-13
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - raw/self/sage/2026-08-22_005829_what-would-make-dan-happy.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -40,6 +40,9 @@ connections:
     claim: "Three of this audit's top-10 outliers — hyper-specific linguistic style (97), extreme social aversion (90), the intellect/impulsivity paradox (95) — are exactly the cluster an adult self-recognizing autism typically cites, reached independently of the autism claim and never cross-referenced against it until now."
   - page: wiki/mind/concepts/contact-gini
     type: evidences
+  - page: wiki/mind/profile/enneagram-5w4
+    type: parallels
+    claim: "Deviance mapping parallels the Enneagram page as the profile cluster's other commissioned layer: a self-ordered, single-model outlier audit whose 'living edge case' verdict survives independent recomputation in exactly two of ten claims."
     claim: "The relational-concentration outlier is the one audit claim with a measurement behind it outside the apparatus: recomputed at 0.9601 across 496 handles from 184,359 rows, replicated at 0.9556 inbound on the held corpus."
 ---
 
