@@ -40,6 +40,9 @@ connections:
   - page: wiki/mind/synthesis/chemical-architecture
     type: evidenced-by
     claim: "The chemical-architecture page supplies the behavioral corroboration the axioms could not get from the lexical pass: roughly 5,840 consecutive daily doses read as 'not vigilant = annihilated' enacted."
+  - page: wiki/mind/concepts/exocortex
+    type: component-of
+    claim: "The Exocortex catalogues the bootloader and master-prompt artifacts that carry these axioms into Dan's AI sessions as installed rules."
     claim: "The constitution pass: no Big Five facet directly measures either axiom layer. The profile's relevance is negative — the axioms are not traits, they are framings, and the page does not claim otherwise."
 ---
 
