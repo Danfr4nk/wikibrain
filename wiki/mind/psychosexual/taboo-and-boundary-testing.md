@@ -4,7 +4,7 @@ page_type: concept
 title: "Taboo and Boundary-Testing"
 status: stable
 date_created: 2026-07-14
-date_modified: 2026-09-11
+date_modified: 2026-10-04
 knowledge: mixed
 sources:
   - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -32,6 +32,9 @@ connections:
     claim: "The August 2025 deviance audit scores the 'psychosexual operating system' 96/100 (90% confidence), the fourth-most-unusual domain of ten — independent statistical framing that converges with this page's specific taboo-seeking claim without being derived from it."
   - page: wiki/mind/psychosexual/emotional-imprinting
     type: mirrors
+  - page: wiki/mind/concepts/forensic-method
+    type: instantiates
+    claim: "Taboo-and-boundary-testing instantiates the forensic method's Ti-dominant category testing in the erotic domain: 'orientation violation' pushes a stated identity category until it visibly collapses, as a boundary probe rather than transgression for its own charge."
     claim: "Both mechanisms trace to the same 'Pattern Mapping' section of Dan Profile.txt and both have since gained real corroboration from outside that single document — emotional-imprinting from the independently-built attachment model, this page from the Bryan MMF — so neither is single-sourced any longer, though both remain thin (n=1 or a convergent-framework argument, not a body of cases)."
 ---
 
