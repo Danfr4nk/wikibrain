@@ -54,6 +54,12 @@ connections:
   - { target: "[[wiki/mind/synthesis/witness-channel-declarations]]", type: contextualizes, claim: "The channel-cost ordering this entry establishes ('nothing either party still needs flows through the channel') is the rule the witness channel exploits: block claims are performed to a witness at zero channel cost while the primary channel stays live." }
   - page: wiki/mind/synthesis/channel-cost-pricing
     type: operationalized-by
+  - page: wiki/mind/synthesis/the-curse
+    type: parallels
+    claim: "Bond vs structure states the channel mechanics underneath the curse's refusal-of-clean-exits component: a severance holds only until the cheapest surviving channel fires, which is how the complicated version of leaving keeps defeating the simple one."
+  - page: wiki/mind/synthesis/severance-2026-synthesis
+    type: evidences
+    claim: "Bond-vs-structure evidences the 2026 severance system by isolating why this severance outlasted the 129-episode base rate: every material re-engagement channel had been starved."
     claim: "Channel-cost-pricing operationalizes this entry's ordinal claim — severances break through the cheapest live channel — as a scored rubric run against every documented severance."
 ---
 

@@ -7,7 +7,7 @@ tier: major
 status: active
 knowledge: earned
 date_created: 2026-10-03
-date_modified: 2026-10-03
+date_modified: 2026-10-04
 sources:
   - kb/data/0081-explicit-commitment-architecture.md
   - kb/data/0090-block-retraction-2026-09-11.md
@@ -29,6 +29,12 @@ connections:
   - page: wiki/mind/synthesis/witness-channel-declarations
     type: cites
     claim: "The witness catalog supplies the zero-cost channel's dated instances (August 28, September 4, September 7, 2026) that the rubric prices as narrative maintenance rather than contact."
+  - page: wiki/self/message-corpora/message-request-blind-spot
+    type: parallels
+    claim: "This entry scores a channel live or dead at a severance's window; the blind spot prices the 'dead' reading — in this corpus a channel repeatedly reads dead because the pull never ran, so every liveness score here carries that page's denominator caveat."
+  - page: wiki/mind/synthesis/the-curse
+    type: evidenced-by
+    claim: "Channel-cost pricing's rule that contact resumes through the least-cost channel is evidenced by the curse record's fifty-two-day post-1 June silence, held against money and apology and broken in eight hours on a dog question."
 tags: [relationships, attachment, forensic-analysis, digital-footprint]
 importance: 4
 synthesizes:

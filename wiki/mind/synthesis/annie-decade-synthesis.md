@@ -7,7 +7,7 @@ tier: major
 status: active
 knowledge: mixed
 date_created: 2026-10-03
-date_modified: 2026-10-03
+date_modified: 2026-10-04
 date_range_start: 2015-11-28
 date_range_end: 2026-06-05
 sources:
@@ -52,6 +52,15 @@ connections:
   - page: wiki/mind/synthesis/provision-grammar
     type: parallels
     claim: "The provision grammar reads the same decade's money register — retention, servicing, and the six-to-one net outflow — while this entry reads the exit register. Both run underneath the severance performances."
+  - page: wiki/mind/synthesis/kristin-channel
+    type: contrasts
+    claim: "The Kristin channel is this synthesis's comparison case at channel level: ten weeks, 22,018 messages, and the record's one clean executed block, against the decade's 129 performed severances at 100% re-engagement."
+  - page: wiki/mind/synthesis/nyc-round-two
+    type: evidenced-by
+    claim: "The Annie decade's tenure phase is evidenced by the NYC second era (2019-2025), documented as the last whole years of the Annie relationship before its terminal phase and covered by the held message corpus."
+  - page: wiki/mind/synthesis/four-financial-inversions
+    type: evidenced-by
+    claim: "The Annie decade's measured relationship record is evidenced in the money dimension by four dated financial inversions, from Dan funding the household to the landlord-debt years to Annie funding in mid-2024 to March 2025."
 tags: [annie-ulmer, attachment, severance, corpus-scale, forensic-analysis]
 importance: 5
 synthesizes:

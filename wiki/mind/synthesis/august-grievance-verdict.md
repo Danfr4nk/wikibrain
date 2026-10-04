@@ -7,8 +7,22 @@ status: active
 knowledge: earned
 importance: critical
 date_created: 2026-08-20
-date_modified: 2026-08-28
+date_modified: 2026-10-04
 # operator answers from 2026-08-20 have been integrated below
+connections:
+  - page: wiki/mind/synthesis/august-26-block-retraction
+    type: parallels
+    claim: "The grievance verdict's August 16-19 window is the declaration cluster whose 'first held boundary in the record' this retraction disproves; the verdict stands on the conversation, the retraction on the block that was reported around it."
+  - page: wiki/mind/synthesis/the-deferred-audit
+    type: instantiates
+    claim: "August-grievance-verdict is the audit lag made visible: a full forensic adjudication of the primary relationship, delivered after the relationship it judges had ended — the deferred audit's cost stated as one dated document."
+  - page: wiki/mind/synthesis/bond-switch-2015
+    type: parallels
+    claim: "The August grievance verdict parallels the bond-switch page as the same Annie bond at its other end: its August 16-19, 2026 evidence base scores the last conversation against the attachment-trauma-bond model the switch originated."
+  - page: wiki/mind/synthesis/supply-network
+    type: evidenced-by
+    claim: "The August grievance verdict is evidenced by the supply record at its window: the Morgantown-call evidence base it adjudicates is the same August 16-19, 2026 window in which the supply network's final handoff failed."
+
 ---
 
 > **RE-CHECKED [2026-08-22] — premise moved by a re-check block only, at**

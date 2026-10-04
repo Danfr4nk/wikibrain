@@ -6,7 +6,7 @@ aliases: ["concurrent attachment", "the concurrency hypothesis", "dual-load hypo
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - src:ally-lubin-dual-handle-exports — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:august-2026-overlap-forensics — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -65,6 +65,9 @@ connections:
     type: evidenced-by
     claim: "The July 2013 break (her detection text, 'I saw your messages. I know you're with Franki', early-July fireworks day) is the rupture that activation A1 sits inside of — the oldest leg of the recomputed base rate."
   - { target: "[[wiki/mind/synthesis/kristin-channel]]", type: contextualizes, claim: "The September 12, 2026 Kristin reinitiation is filed there; this entry reads it as a live rival bid and a standing instability-adjacent condition on the primary slot." }
+  - page: wiki/mind/synthesis/severance-2026-synthesis
+    type: parallels
+    claim: "Severance-2026 frames the year as a designed system with a base rate and a horizon; this hypothesis supplies the dual-load observation inside that system — relational load routed through two live channels during the instability the system was built to measure."
   - { target: "[[wiki/mind/synthesis/the-scoreboard]]", type: references, claim: "The scoreboard's first hard entry — the August 26 block prediction, reported as fact and falsified by export sixteen days later — is this entry's standing example of a scored prediction." }
 ---
 

@@ -5,7 +5,7 @@ title: "The August-26 Block Never Happened: Retraction"
 status: active
 knowledge: earned
 date_created: 2026-09-11
-date_modified: 2026-09-12
+date_modified: 2026-10-04
 sources:
   - src:sammy-chat-transcript-20260911
   - kb/data/0090-block-retraction-2026-09-11.md
@@ -47,6 +47,9 @@ connections:
     claim: "This page's severance-declaration analysis (129 episodes, 100% re-engagement) survives the retraction intact — indeed the retraction is its purest case: the August 26 block was the 130th declaration and its non-execution the 130th re-engagement, except there was never even a pause to resume from. The declarations were the performance; the texting was the fact."
   - { target: "[[wiki/mind/synthesis/attachment-trauma-bond]]", type: contextualizes, claim: "The retracted block was the trauma-bond page's intermittent-reinforcement thesis at maximum amplitude — a declaration complete enough to fool the wiki's own write-back for sixteen days, attached to zero seconds of non-contact." }
   - { target: "[[wiki/mind/synthesis/dan-annie-fallout-verdict]]", type: references, claim: "The retraction voids the severance-horizon frame the fallout verdict's ledger shares — the diagnosis-to-behavior gap now has its terminal exhibit: the performance of a boundary recorded as an enacted one." }
+  - page: wiki/mind/synthesis/august-grievance-verdict
+    type: parallels
+    claim: "The ~25 declarations of August 15-19 that this retraction counts — none executed, daily texting continuing through September 7 — are the same window the grievance verdict adjudicates: that page renders the verdict on the grievances, this page retracts the held block claimed inside them."
   - { target: "[[wiki/mind/synthesis/supply-network]]", type: references, claim: "The Aug-27–Sep-7 daily texting this retraction forensically establishes ran on the supply network's final configuration — five handoffs in six days after the June 1 closure — so the severance-that-wasn't left no operational gap in the procurement channel either." }
 ---
 

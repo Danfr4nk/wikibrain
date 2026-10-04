@@ -5,7 +5,7 @@ page_type: synthesis
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-24
+date_modified: 2026-10-04
 sources:
   - src:corpus-authoritative-export — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:facebook-export-2026-06-23
@@ -65,6 +65,12 @@ connections:
   - { target: "[[wiki/people/fran-coldren]]", type: contextualizes, claim: "Fran's inheritance (2017–2020) is the architecture's stress test: removing the capital constraint escalated intake to 3.5–7g daily, and the system held." }
   - { target: "[[wiki/mind/synthesis/single-channel]]", type: references, claim: "The no-failover design reading: sixteen-year MTBF with zero redundancy is a system optimized for continuity of supply, not resilience to interruption." }
   - { target: "[[wiki/places/seven-springs]]", type: references, claim: "The pre-history section locates first cocaine use at 17–18 in the Seven Springs ski-crew context — the arc before the architecture." }
+  - page: wiki/mind/synthesis/steady-state-invisibility
+    type: parallels
+    claim: "Steady-state invisibility supplies the mechanism this entry's silence runs on: changes get announced and continuity does not, which is why the steadiest row of the chemical record is the one no channel ever typed."
+  - page: wiki/mind/politics/axioms
+    type: evidences
+    claim: "Chemical architecture evidences the vigilance axiom in the substance register: a Suboxone row with no move in sixteen years and a rotating supply around a fixed dose is the axiom run on chemistry, not stated in words."
   - { target: "[[wiki/mind/concepts/social-anxiety]]", type: references, claim: "The hedonic-tension section names social anxiety as the pressure the chemical configuration manages; no treatment engagement is documented anywhere in the record." }
 ---
 

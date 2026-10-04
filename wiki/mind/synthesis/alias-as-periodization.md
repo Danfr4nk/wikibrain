@@ -5,7 +5,7 @@ title: "The Alias Is a Clock, Not a Style"
 status: active
 knowledge: earned
 date_created: 2026-08-01
-date_modified: 2026-08-28
+date_modified: 2026-10-04
 date_range_start: 2013-01-01
 date_range_end:
 synthesizes:
@@ -49,6 +49,9 @@ connections:
     claim: "The methodological contrast case: alias boundaries are admissible precisely because they were produced by the subject without intending to testify, which is the property AI-interpretive pages structurally lack."
   - page: wiki/mind/profile/intp
     type: evidenced-by
+  - page: wiki/mind/synthesis/the-unbroken-bond
+    type: parallels
+    claim: "Alias-as-periodization's claim that renames mark life periods closed while the music stays invariant parallels the unbroken bond's contrast: artistic alias is among the things that turned over while the pair-bond slot never emptied."
     claim: "Si-tertiary's role as 'the vast high-fidelity archive' is why the sub-bass signature specifically is the layer that never turns over: it is an involuntary, identified-post-hoc trait rather than a Ti-negotiated public choice, so it sits outside the audit-and-revise cycle the name is subject to — complementary to, not a restatement of, totality-themes' already-cited Ti-dominance account of why the name is what gets sacrificed instead."
 ---
 

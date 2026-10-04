@@ -6,7 +6,7 @@ aliases: ["the annie-ally concurrency", "concurrent attachment", "the two protoc
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - src:annie-ulmer-corpus-115k — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:ally-lubin-dual-handle-exports — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -76,6 +76,9 @@ connections:
   - { target: "[[wiki/mind/synthesis/severance-declarations]]", type: extends, claim: "The concurrency section’s 129-declarations count (zero signals from her side in 41,073 messages) is the quantitative base under this entry’s Protocol A: declarations as punctuation, never execution." }
   - { target: "[[wiki/mind/synthesis/vacancy-rule]]", type: references, claim: "The slot-transfer audition — the primary slot believed vacant after the August severance — is this entry’s live case for the vacancy rule: the Ally channel opens nineteen hours after the June 1 severance." }
   - { target: "[[wiki/mind/synthesis/the-scoreboard]]", type: references, claim: "The ninety-days-after addendum scores its early predictions against the scoreboard: n=1 on the Ally side, with the missing inbound as the datum that could change the reading." }
+  - page: wiki/mind/synthesis/kristin-channel
+    type: parallels
+    claim: "Annie-ally-contrast's Protocol A / Protocol B split is the frame the Kristin channel's exit-pole disposition is measured against; this entry supplies the two documented protocols, that entry the third disposition neither protocol predicts."
 
 ---
 

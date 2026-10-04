@@ -5,7 +5,7 @@ title: "The 2015 Single-Bond Switch"
 knowledge: earned
 status: active
 date_created: 2026-07-15
-date_modified: 2026-09-12
+date_modified: 2026-10-04
 sources:
   - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -67,6 +67,9 @@ connections:
     claim: "The replacement sourced before the vacancy occurred is the clearest demonstration that 'single' is never actually entered — the slot went from occupied to occupied inside roughly a week, with no interval that functions as single life in any ordinary sense of the phrase."
   - target: "[[wiki/mind/synthesis/the-serial-monogamist]]"
     type: corroborates
+  - page: wiki/mind/synthesis/august-grievance-verdict
+    type: parallels
+    claim: "Bond-switch 2015 is the origin term of the bond whose terminal window the grievance verdict adjudicates: the Alexis-to-Annie switch activated the deep attachment system in a week, on the substrate the 2026 closure later operated on."
     claim: "The mutual, simultaneous November 2015 switch — both slots vacated and reoccupied inside seventy-two hours — is the serial-monogamist pattern's earliest fully-dated member."
 ---
 
