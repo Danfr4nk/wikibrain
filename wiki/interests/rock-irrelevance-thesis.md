@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: concept
+tier: incidental
 status: stable
 date_created: 2026-06-22
-date_modified: 2026-08-26
+date_modified: 2026-10-04
 sources: ["raw/self/chats/The 2nd most famous 'Jimmy Pop' in Pennsylvania .md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/interests/favorites/music", "wiki/interests/favorites/music/artists/", "wiki/interests/music/concepts/sub-bass-signature", "wiki/self/context-core", "wiki/self/favorites"]
 tags: [music-production, ai-collaboration]
@@ -20,6 +21,8 @@ connections:
 ---
 
 # The 2nd Most Famous 'Jimmy Pop' in Pennsylvania
+
+> **Incidental entry** — the rock-irrelevance thesis: Dan's sourced argument that guitar-and-drum music has lost mainstream cultural centrality for the first time since ~1963. Complete at this size.
 
 **Source:** ChatGPT conversation on music/cultural trends (chatgpt.com/c/68717208-4930-8002-a5de-8f79fe2dddee)
 
@@ -69,4 +72,4 @@ Cross-links: [[wiki/interests/favorites/index]], [[wiki/interests/favorites/musi
 
 **Sources:** raw/self/chats/The 2nd most famous 'Jimmy Pop' in Pennsylvania .md
 
-
+Why incidental: a single sourced argument preserved as stated in its source conversation; the analysis lives in the favorites and sub-bass pages it points to.

@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: stable
 date_created: 2026-08-01
-date_modified: 2026-09-04
+date_modified: 2026-10-04
 sources:
   - "raw/self/concerts/table.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/twitter/archive.jsonl"
@@ -19,6 +20,8 @@ connections:
 ---
 
 # The Starting Line
+
+> **Incidental entry** — The Starting Line, seen once on the 2005 Nintendo Fusion Tour and missed out loud in a 2008 tweet. Complete at this size.
 
 The Starting Line is an act Dan Frank saw live 1 time between 2005, per the concert log he kept (preserved in the corpus). This page records those appearances and the details attached to each in the source.
 
@@ -50,4 +53,4 @@ rotation in my car."* ten days later, and both belong to the era-marker
 reading in [[wiki/mind/synthesis/interests-as-era-markers]]: he dates himself
 by what is in rotation, out loud, at the time.
 
-
+Why incidental: one concert-log appearance plus a single five-word tweet three years later; together they are the band's complete trace in the corpus.

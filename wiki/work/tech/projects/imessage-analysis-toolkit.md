@@ -2,9 +2,10 @@
 domain: work
 page_type: concept
 title: "iMessage Analysis Toolkit (Gumroad product)"
+tier: incidental
 status: active
 date_created: 2026-09-11
-date_modified: 2026-09-11
+date_modified: 2026-10-04
 sources:
   - "Sammy working context, 2026-09-11 (MEMORY.md)"
 related:
@@ -18,6 +19,8 @@ connections:
 ---
 
 # iMessage Analysis Toolkit
+
+> **Incidental entry** — The paid Gumroad product packaging Dan's forensic iMessage-extraction pipeline as a tool for extracting and analyzing chat.db exports. Complete at this size.
 
 A paid product on Gumroad: the forensic iMessage-extraction pipeline as a packaged tool.
 
@@ -38,3 +41,5 @@ Listed as an active product. This entry documents the toolkit as productized; th
 ## Place in the larger system
 
 The Toolkit is the commercialized edge of the same extraction apparatus that feeds the Wiki Brain itself: Dan's own message corpus is both the product's test data and the raw material of his wiki. The same pipeline — raw records in, structured evidence out — runs in three registers: private tool, public product, and the 4-hour chat pull that feeds the wiki's write-back sweep.
+
+Why incidental: this page documents the productized edge of the pipeline only; the technical internals already live in the linked imessage-tooling overview and are deliberately not duplicated here.

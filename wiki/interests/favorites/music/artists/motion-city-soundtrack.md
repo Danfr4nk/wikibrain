@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: stable
 date_created: 2026-08-01
-date_modified: 2026-08-01
+date_modified: 2026-10-04
 sources:
   - "raw/self/concerts/table.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 related: []
@@ -18,6 +19,8 @@ connections:
 ---
 
 # Motion City Soundtrack
+
+> **Incidental entry** — Two appearances from Dan's concert log (Nintendo Fusion Tour 2005 and Vans Warped Tour 2006), preserved with their notes. Complete at this size.
 
 Motion City Soundtrack is an act Dan Frank saw live 2 times between 2005-2006, per the concert log he kept (preserved in the corpus). This page records those appearances and the details attached to each in the source.
 
@@ -35,4 +38,4 @@ All dates, venues, cities, and notes below are taken from the source table and p
 - **Sep 28 - Nov 23, 2005** — Nintendo Fusion Tour, Various (tour), Multiple cities. Confirmed tour window.
 - **Jul 27, 2006** — Vans Warped Tour, Post-Gazette Pavilion, Burgettstown, PA. Warped Tour date. Lineup included AFI, Rise Against, Thursday, Motion City Soundtrack, NOFX.
 
-
+Why incidental: this page is the complete concert-log record for the act — every documented appearance with its source notes preserved; unless new appearances surface, there is nothing further in the corpus to add.

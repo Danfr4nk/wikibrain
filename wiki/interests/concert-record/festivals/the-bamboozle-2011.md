@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: event
+tier: incidental
 status: stable
 date_created: 2026-08-01
-date_modified: 2026-08-01
+date_modified: 2026-10-04
 sources:
   - "raw/self/concerts/table.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 related: []
@@ -22,6 +23,8 @@ connections:
 
 # The Bamboozle 2011
 
+> **Incidental entry** — The Bamboozle 2011, the festival edition at New Meadowlands Stadium (April 29 – May 1, 2011) that Dan attended, recorded in the concert log he kept. Complete at this size.
+
 The Bamboozle 2011 is a festival / tour Dan Frank attended. This page records the edition(s) he is documented at, with full lineups and notes, preserved from the concert log.
 
 ## Editions
@@ -35,5 +38,6 @@ The Bamboozle 2011 is a festival / tour Dan Frank attended. This page records th
 ### Apr 29 - May 1, 2011 — New Meadowlands Stadium, East Rutherford, NJ
 [[wiki/interests/favorites/music/artists/lil-wayne]] · Motley Crue · [[wiki/interests/favorites/music/artists/taking-back-sunday]] · [[wiki/interests/favorites/music/artists/a-day-to-remember]]
 
+Why incidental: one documented edition in Dan's concert log — its date, venue, and lineup are the whole of what the record holds. Promote to major if the festival or tour becomes a recurring thread in Dan's history.
 
-
+Related major articles: [Lil Wayne](wiki/interests/favorites/music/artists/lil-wayne) · [Taking Back Sunday](wiki/interests/favorites/music/artists/taking-back-sunday) · [A Day to Remember](wiki/interests/favorites/music/artists/a-day-to-remember)

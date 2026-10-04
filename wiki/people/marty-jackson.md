@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-08-10
-date_modified: 2026-08-10
+date_modified: 2026-10-04
 date_range_start: 2012-02-15
 date_range_end: 2012-04-09
 sources:
@@ -30,6 +31,8 @@ connections:
 ---
 
 # Martin O. Jackson ("Marty")
+
+> **Incidental entry** — Martin O. Jackson, the Creative License accounting contact at the center of Dan's six-week 2012 final-paycheck dispute. Complete at this size.
 
 Marty Jackson worked in the Accounting Department at
 [[wiki/work/creative-license|Creative License]] and is the primary
@@ -61,4 +64,4 @@ dispute, no confirmation of his fate when Creative License eventually wound
 down (still operating as of December 2014 per
 [[wiki/people/katherine-palakovich|Katherine Palakovich]]'s later email).
 
-
+Why incidental: a single six-week correspondence window; Marty exists in the corpus only inside this dispute, and the page carries all of it.

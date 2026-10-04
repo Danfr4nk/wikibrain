@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-07-14
+date_modified: 2026-10-04
 date_range_start: 2016-11-24
 date_range_end: 2017-04-11
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -18,6 +19,8 @@ infobox:
 ---
 
 # Lindsay Carolla
+
+> **Incidental entry** — A 41-message thread preserving a warm, affectionate small-scale cocaine relationship over Thanksgiving weekend 2016, with one unexplained follow-up in April 2017. Complete at this size.
 
 A warm, affectionate small-scale cocaine relationship over Thanksgiving weekend 2016 ("Hi honey," "yes my love"), with a single late follow-up in April 2017 (`+17245506589`, 41 messages). The Thanksgiving cluster (Nov 24–25) is dense: Lindsay coordinating a purchase without a car of her own, relying on a friend named Marc for partial cash, and repeatedly reassuring Dan she's good for the full amount ("God knows I'm giving you full $$, trust"). A friend "Claire" recurs as a mutual connection.
 
@@ -35,6 +38,8 @@ The thread goes quiet for over four months before a strange, unexplained final e
 ## Gaps
 
 What Claire told Lindsay in April 2017, and whether it connects to anything else documented in the corpus around that date, is unknown.
+
+Why incidental: the whole relationship is this one short thread; the page records it in full, including what the record cannot explain (what Claire relayed in April 2017), and there is no larger arc in the corpus.
 
 ## Related
 

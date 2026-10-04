@@ -1,10 +1,11 @@
 ---
 title: "Jack Rusko"
+tier: incidental
 domain: people
 page_type: entity
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-07-19
+date_modified: 2026-10-04
 date_range_start: 2017-10-16
 date_range_end: 2018-08-09
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -25,6 +26,8 @@ infobox:
 
 # Jack Rusko
 
+> **Incidental entry** — Jack Rusko, a fellow Nemacolin caddy and genuine friend through the 2017–2018 season. Complete at this size.
+
 Jack Rusko was a fellow [[wiki/work/nemacolin-caddying|Nemacolin]] caddy and genuine friend through the 2017–2018 season (`+17249636436`, 202 messages) — an older-sounding, dictation-error-riddled thread ("U get a Tex's," "R U ALIVE?") full of report-time coordination, party invitations, and a running loan of Dan's laptop that Jack chases for over two months.
 
 ## Texture
@@ -39,6 +42,8 @@ The laptop loan is the thread's most persistent bit: Jack asks for it back repea
 | Date range | 2017-10-16 to 2018-08-09 |
 | Direction | Unreliable in this export (marked "Received" throughout) — read as one-way (Jack to Dan) |
 | Handle | +17249636436 |
+
+Why incidental: the complete 202-message thread (October 2017 – August 2018) is documented above; a warm, closed caddie-yard friendship with no later trace in the corpus.
 
 ## Related
 

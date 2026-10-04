@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: event
+tier: incidental
 status: stable
 date_created: 2026-08-01
-date_modified: 2026-08-01
+date_modified: 2026-10-04
 sources:
   - "raw/self/concerts/table.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 related: []
@@ -43,6 +44,8 @@ connections:
 
 # Vans Warped Tour
 
+> **Incidental entry** — The four Warped Tour editions Dan is documented at (2005–2008, all at Post-Gazette Pavilion, Burgettstown), with full lineups preserved from his concert log. Complete at this size.
+
 Vans Warped Tour is a festival / tour Dan Frank attended. This page records the edition(s) he is documented at, with full lineups and notes, preserved from the concert log.
 
 ## Editions
@@ -68,5 +71,4 @@ Vans Warped Tour is a festival / tour Dan Frank attended. This page records the 
 ### Jul 29, 2008 — Post-Gazette Pavilion, Burgettstown, PA
 [[wiki/interests/favorites/music/artists/anberlin]] · [[wiki/interests/favorites/music/artists/all-time-low]] · Against Me! · 3OH!3
 
-
-
+Why incidental: this is the complete documented edition record for the festival in the concert log — every edition he attended, with its lineup in full; nothing further exists in the corpus to add.

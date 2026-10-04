@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-07-19
-date_modified: 2026-07-19
+date_modified: 2026-10-04
 date_range_start: 2015-06-08
 date_range_end: 2015-09-04
 sources:
@@ -23,6 +24,8 @@ connections:
 ---
 
 # Drew McGettigan
+
+> **Incidental entry** — Drew McGettigan, a summer-2015 Uniontown supply contact documented across one tight three-month Facebook thread. Complete at this size.
 
 Drew McGettigan is a summer-2015 Uniontown supply contact — mostly a
 buyer of small quantities from Dan, with one documented go-between deal
@@ -52,4 +55,4 @@ asks his sister Vanessa if she knows Drew, and she confirms she does
 September 2015; last name spelling not independently verified beyond
 the Facebook display name.
 
-
+Why incidental: a single ~90-message thread (June–September 2015) recorded in full; no contact beyond that window is documented.

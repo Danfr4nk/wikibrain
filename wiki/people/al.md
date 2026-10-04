@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-07-14
+date_modified: 2026-10-04
 date_range_start: 2018-05-13
 date_range_end: 2018-11-01
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -22,6 +23,8 @@ connections:
 ---
 
 # Al
+
+> **Incidental entry** — Al (contacts label "Socialist"), a cocaine dealer from Dan's 2018 deep-cycle period. Complete at this size.
 
 Al (saved in contacts under the joke label "Socialist") was a cocaine dealer during the 2018 deep-cycle period — one of several supply contacts alongside [[wiki/people/johnny-dealer|Johnny]] from that year. The 53-message thread (`+17249632572`, May–November 2018) is almost entirely short logistics texts — "Come outside," "I'm outside," "On the Gateway Clipper right now," quantities named only in slang ("that deuce," "All chunk") — and ends in an unpaid-debt confrontation.
 
@@ -43,6 +46,8 @@ The thread goes quiet after early July and resurfaces once, on November 1, 2018,
 ## Gaps
 
 Last name and any resolution of the November 2018 debt dispute are undocumented.
+
+Why incidental: the entire record is a single 53-message thread (May–November 2018) ending in an unresolved debt confrontation; nothing beyond it is documented.
 
 ## Related
 

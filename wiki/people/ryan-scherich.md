@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-07-20
-date_modified: 2026-07-20
+date_modified: 2026-10-04
 date_range_start: 2020-02-08
 date_range_end: 2020-02-08
 sources:
@@ -22,6 +23,8 @@ connections:
 ---
 
 # Ryan Scherich
+
+> **Incidental entry** — Ryan Scherich, the barely-known acquaintance whose single-day February 2020 flame war is the entire documented relationship. Complete at this size.
 
 Ryan Scherich is a barely-known acquaintance ("i barely fucking know
 you") with whom Dan has a single, self-contained political flame war on
@@ -60,4 +63,4 @@ lockdown-era radicalization the other page documents in more depth.
 **Gaps:** how Dan and Ryan knew each other in the first place; whether
 any contact occurred before or after this single exchange.
 
-
+Why incidental: the entire documented relationship is one day's exchange; there is nothing beyond it to expand.

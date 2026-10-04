@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: active
 knowledge: mixed
 date_created: 2026-07-19
-date_modified: 2026-07-19
+date_modified: 2026-10-04
 date_range_start: 2011-08-26
 date_range_end: 2022-03-06
 sources:
@@ -31,6 +32,8 @@ connections:
 ---
 
 # Oscar Lindquist
+
+> **Incidental entry** — Oscar Lindquist, a Full Sail-era friend whose six-message 2011 thread precisely dates the Hurricane Irene evacuation and anchors the 2022 restaurant-coincidence anecdote. Complete at this size.
 
 Oscar Lindquist is a friend from Dan's Florida years whose entire
 surviving footprint is a six-line Facebook Messenger thread
@@ -78,4 +81,4 @@ between the Hurricane Irene evacuation and the restaurant coincidence
 is entirely undocumented; Oscar's current location, occupation, and
 whether the 2022 encounter led to renewed contact are unknown.
 
-
+Why incidental: the whole surviving record is one six-message thread plus two corroborating mentions; the page carries everything the corpus holds, and there is nothing left to expand from.

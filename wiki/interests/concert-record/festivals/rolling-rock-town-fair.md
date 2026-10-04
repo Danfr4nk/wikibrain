@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: event
+tier: incidental
 status: stable
 date_created: 2026-08-01
-date_modified: 2026-08-01
+date_modified: 2026-10-04
 sources:
   - "raw/self/concerts/table.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 related: []
@@ -21,6 +22,8 @@ connections:
 ---
 
 # Rolling Rock Town Fair
+
+> **Incidental entry** — The three Rolling Rock Town Fair editions Dan is documented at (2001, 2002, and 2004 at Westmoreland Fairgrounds), with full lineups preserved from his concert log. Complete at this size.
 
 Rolling Rock Town Fair is a festival / tour Dan Frank attended. This page records the edition(s) he is documented at, with full lineups and notes, preserved from the concert log.
 
@@ -43,5 +46,4 @@ Godsmack · [[wiki/interests/favorites/music/artists/outkast]] · Nickelback · 
 ### Jul 31, 2004 — Westmoreland Fairgrounds, Latrobe / Mt. Pleasant, PA
 Staind · Disturbed · Velvet Revolver · Three Days Grace · Finch · Finger Eleven · Hoobastank · N.E.R.D · Sevendust
 
-
-
+Why incidental: this is the complete documented edition record for the festival in the concert log — every edition he attended, with its lineup in full; nothing further exists in the corpus to add.

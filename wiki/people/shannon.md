@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-07-20
+date_modified: 2026-10-04
 sources:
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [career, digital-footprint]
@@ -19,6 +20,8 @@ connections:
 ---
 
 # Shannon
+
+> **Incidental entry** — Shannon, a real estate agent who hired Dan for drone photography and video in late 2018 — the corpus's only documented paid drone client. Complete at this size.
 
 Shannon is a real estate agent who hired Dan for drone photography and
 videography work over a roughly two-month window, November 2018 to
@@ -48,4 +51,4 @@ continued past that point.
 of the conversation; whether the January 2019 follow-up was ever
 answered; any other real estate drone clients beyond this one instance.
 
-
+Why incidental: one 23-message client thread (November 2018 – January 2019), preserved from Shannon's side only; the complete record of the engagement is on this page.

@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: stable
 date_created: 2026-08-01
-date_modified: 2026-08-01
+date_modified: 2026-10-04
 sources:
   - "raw/self/concerts/table.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 related: []
@@ -18,6 +19,8 @@ connections:
 ---
 
 # Anberlin
+
+> **Incidental entry** — Two appearances from Dan's concert log (Charleroi VFW in 2005 and Vans Warped Tour in 2008), preserved with their tour and co-billing details. Complete at this size.
 
 Anberlin is an act Dan Frank saw live 2 times between 2005-2008, per the concert log he kept (preserved in the corpus). This page records those appearances and the details attached to each in the source.
 
@@ -36,4 +39,4 @@ All dates, venues, cities, and notes below are taken from the source table and p
   Co-billed with: Saosin, Acceptance, Terminal, Codeseven.
 - **Jul 29, 2008** — Vans Warped Tour, Post-Gazette Pavilion, Burgettstown, PA. Warped Tour date. Lineup included Anberlin, All Time Low, Against Me!, 3OH!3.
 
-
+Why incidental: this page is the complete concert-log record for the act — every documented appearance with its source notes preserved; unless new appearances surface, there is nothing further in the corpus to add.

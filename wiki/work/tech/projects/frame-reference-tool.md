@@ -2,9 +2,10 @@
 domain: work
 page_type: concept
 title: "Frame Reference Tool"
+tier: incidental
 status: active
 date_created: 2026-09-15
-date_modified: 2026-09-15
+date_modified: 2026-10-04
 sources:
   - src:sammy-chat-transcript-20260915-0630
 related:
@@ -14,6 +15,8 @@ tags: [ai-collaboration, forensic-analysis]
 ---
 
 # Frame Reference Tool
+
+> **Incidental entry** — The frame-addressing tool commissioned and delivered the same night (2026-09-15) so clip-frame disputes could point at an exact pixel instead of arguing about blur. Complete at this size.
 
 Commissioned 2026-09-15 during the intimate-clip frame analysis session (the
 "eyes never open" dispute) — delivered at 04:12:42–43Z, the same night it was
@@ -39,6 +42,8 @@ frame; the Frame Reference Tool says *which pixel of which frame* is under
 discussion.
 
 Evidence: `src:sammy-chat-transcript-20260915-0630`.
+
+Why incidental: a single-purpose tool with a five-step workflow; everything the record holds about it fits on this page.
 
 ---
 

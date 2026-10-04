@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: stable
 date_created: 2026-08-01
-date_modified: 2026-08-01
+date_modified: 2026-10-04
 sources:
   - "raw/self/concerts/table.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 related: []
@@ -15,6 +16,8 @@ connections:
 ---
 
 # Gym Class Heroes
+
+> **Incidental entry** — Two appearances from Dan's concert log (c.2006 at California University of PA, and Meadowlands in 2008), preserved with their notes. Complete at this size.
 
 Gym Class Heroes is an act Dan Frank saw live 2 times between 2006-2008, per the concert log he kept (preserved in the corpus). This page records those appearances and the details attached to each in the source.
 
@@ -33,4 +36,4 @@ All dates, venues, cities, and notes below are taken from the source table and p
 - **May 4, 2008** — Multi-act show, Meadowlands Sports Complex, East Rutherford, NJ. Panic! at the Disco & Coheed and Cambria co-headlined. Also: Paramore, Gym Class Heroes, Cobra Starship, The Academy Is.
   Co-billed with: Panic! at the Disco, Coheed and Cambria, Paramore, Cobra Starship, The Academy Is....
 
-
+Why incidental: this page is the complete concert-log record for the act — every documented appearance with its source notes preserved; unless new appearances surface, there is nothing further in the corpus to add.

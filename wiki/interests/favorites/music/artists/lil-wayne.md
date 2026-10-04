@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: stable
 date_created: 2026-08-01
-date_modified: 2026-09-04
+date_modified: 2026-10-04
 sources:
   - "raw/self/concerts/table.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/twitter/archive.jsonl"
@@ -19,6 +20,8 @@ connections:
 ---
 
 # Lil Wayne
+
+> **Incidental entry** — Lil Wayne, a single 2011 Bamboozle appearance that illustrates the concert record's principle that the unit of attendance is the event, not the artist. Complete at this size.
 
 Lil Wayne is an act Dan Frank saw live 1 time between 2011, per the concert log he kept (preserved in the corpus). This page records those appearances and the details attached to each in the source.
 
@@ -53,5 +56,4 @@ Halloween 2011 — a stranger's *"Barry Bonds / Freddy Kreuger / Lil Wayne hybri
 costume"* — and a 2014 hour spent making distorted images of him suggest an
 ongoing amused attention rather than either fandom or contempt.
 
-
-
+Why incidental: one festival appearance and the principle it illustrates; the concert record is complete and there is nothing further to document.

@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: active
 date_created: 2026-06-23
-date_modified: 2026-07-20
+date_modified: 2026-10-04
 sources:
   - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/charlesdavenport_skjjehkupq/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [nyc-era]
@@ -22,6 +23,8 @@ connections:
 ---
 
 # Charles Davenport
+
+> **Incidental entry** — Charles Davenport, an early-2010 NYC Facebook contact whose four-message thread lands inside Dan's Brooklyn arrival window. Complete at this size.
 
 Charles Davenport is a thin, early Facebook contact whose entire
 documented relationship with Dan is a four-message thread spanning
@@ -55,4 +58,4 @@ pic...cute," "no homo lol").
 **Gaps:** how Dan and Charles know each other; what "down there" refers
 to; no contact beyond 2010.
 
-
+Why incidental: the whole documented relationship is four messages across 2010; the page exists to fix their dates at the seam of the Brooklyn move, and the corpus holds nothing more.

@@ -1,10 +1,11 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: active
 importance: medium
 date_created: 2026-06-22
-date_modified: 2026-07-11
+date_modified: 2026-10-04
 sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related:
   - "wiki/interests/favorites/books"
@@ -16,6 +17,8 @@ tags: [politics]
 ---
 
 # Bob Woodward
+
+> **Incidental entry** — Bob Woodward, the access-journalism institution whose five favorites-list books are read thoroughly and rated without a single 5-star. Complete at this size.
 
 American journalist, Washington Post institution, Watergate co-byline. For fifty years, Woodward has been the template for what access journalism at the highest level looks like: cultivate sources inside the machine, protect them, publish what they allow, and let the accumulation of authorized quotes build a portrait that official Washington can live with.
 
@@ -37,4 +40,4 @@ The 5-book count without a single 5-star maps accurately onto a reading relation
 
 Alongside [[wiki/interests/favorites/books/authors/jonathan-karl]] and [[wiki/interests/favorites/books/authors/michael-wolff]], Woodward completes a triangulation of how three different journalism methodologies processed the same administration. Karl is the beat reporter's view from the briefing room. Woodward is the access-maximizing long game. Wolff is the open mic someone forgot to turn off.
 
-
+Why incidental: a favorites-list portrait — five books, no 5-stars, one methodological contrast — complete at the scale the data supports.

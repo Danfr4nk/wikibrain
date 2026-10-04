@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-07-14
+date_modified: 2026-10-04
 date_range_start: 2018-04-14
 date_range_end: 2018-06-13
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -19,6 +20,8 @@ infobox:
 
 # Jimmy
 
+> **Incidental entry** — Jimmy, a fellow Nemacolin caddy whose brief 24-message 2018 thread captures a one-day blowup and the caddy crew's disillusionment with management. Complete at this size.
+
 Jimmy was a fellow [[wiki/work/nemacolin-caddying|Nemacolin]] caddy whose brief 2018 thread (`+17244667401`, 24 messages, April–June) captures both a real interpersonal blowup and the caddy crew's broader disillusionment with management that same season. A May 11, 2018 exchange turns hostile fast — Jimmy calls Dan out over an unspecified remark he considers ignorant, tells him "the truth sucks and hurts," and closes with "fuck off" — but the two are back on ordinary terms the next day.
 
 By June 11, 2018 Jimmy has quit caddying outright, venting at length about the company's mismanagement: unanswered calls to a manager (Dave Assisi), long unpaid waits for loops that never materialize, and a pattern he says he'd already quit over once before, seven years earlier. He tells Dan to "call Dave or email the company... I'll lead the mutiny," reassures him he's not "the most annoying caddy" (that distinction goes to an unnamed "creeper" who doesn't talk to anyone), and the thread closes two days later with an ordinary ask for weed.
@@ -31,6 +34,8 @@ By June 11, 2018 Jimmy has quit caddying outright, venting at length about the c
 | Date range | 2018-04-14 to 2018-06-13 |
 | Direction | Unreliable in this export (marked "Received" throughout) — read as one-way (Jimmy to Dan) |
 | Handle | +17244667401 |
+
+Why incidental: a complete three-month thread (April–June 2018) whose arc — friction, next-day repair, quitting caddying — is fully documented; nothing later exists in the corpus.
 
 ## Related
 

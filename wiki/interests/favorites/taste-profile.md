@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: synthesis
+tier: incidental
 status: archived
 date_created: 2026-06-22
-date_modified: 2026-06-23
+date_modified: 2026-10-04
 sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 synthesizes:
   - wiki/interests/music/concepts/sub-bass-signature
@@ -14,6 +15,8 @@ tags: [personality-profile]
 ---
 
 # Taste Profile from Favorites
+
+> **Incidental entry** — A synthesis of the favorites masterlist — 1,860 music tracks, 120 books, plus art and movies — mapping its clusters and historical ties against Dan's personality spine. Complete at this size.
 
 ## Overview
 The FAVS MASTERLIST reveals an eclectic but focused consumer. Deep re-parse: 2,016 total, 1,477 music artists.
@@ -33,4 +36,4 @@ The FAVS MASTERLIST reveals an eclectic but focused consumer. Deep re-parse: 2,0
 
 See full integration in [[wiki/self/context-core]], [[wiki/interests/favorites/eclecticism]], [[wiki/mind/synthesis/totality-themes]] (Music thread; Political Intensity). Production alignment: clusters defend "current" non-guitar direction per Jimmy Pop analysis.
 
-
+Why incidental: an archived one-pass parse of the masterlist; the fuller integration of the same material already lives in the linked spine pages, so this page is complete as the snapshot it is.

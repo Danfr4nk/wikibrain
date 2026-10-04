@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: stable
 date_created: 2026-08-01
-date_modified: 2026-08-01
+date_modified: 2026-10-04
 sources:
   - "raw/self/concerts/table.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 related: []
@@ -18,6 +19,8 @@ connections:
 ---
 
 # Paramore
+
+> **Incidental entry** — Paramore, an act Dan saw live twice between 2007 and 2008 per his concert log. Complete at this size.
 
 Paramore is an act Dan Frank saw live 2 times between 2007-2008, per the concert log he kept (preserved in the corpus). This page records those appearances and the details attached to each in the source.
 
@@ -36,4 +39,4 @@ All dates, venues, cities, and notes below are taken from the source table and p
 - **May 4, 2008** — Multi-act show, Meadowlands Sports Complex, East Rutherford, NJ. Panic! at the Disco & Coheed and Cambria co-headlined. Also: Paramore, Gym Class Heroes, Cobra Starship, The Academy Is.
   Co-billed with: Panic! at the Disco, Coheed and Cambria, Gym Class Heroes, Cobra Starship, The Academy Is....
 
-
+Why incidental: a concert-log record of two appearances (Warped Tour 2007 and Meadowlands 2008); everything the corpus holds on the act is on this page.

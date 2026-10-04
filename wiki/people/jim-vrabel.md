@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-07-14
+date_modified: 2026-10-04
 date_range_start: 2018-03-27
 date_range_end: 2020-09-14
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -19,6 +20,8 @@ infobox:
 
 # Jim Vrabel
 
+> **Incidental entry** — Jim Vrabel, a marijuana dealer who became a regular late-night hangout across 313 messages from March 2018 to September 2020. Complete at this size.
+
 Jim Vrabel was a marijuana dealer and, over two and a half years, something closer to a regular late-night hangout than a pure transaction (`+17247074184`, 313 messages, March 2018 – September 2020). He lives with his mother, works nights (mountain/resort-adjacent shift work, likely Seven Springs), bowls in a league, and coordinates near-nightly visits around her sleep schedule — "my mom is still up so I'll meet up in the alley."
 
 ## Texture
@@ -33,6 +36,8 @@ Pricing surfaces occasionally ($110 for 3, $75 for 2, $40 for 1) alongside strai
 | Date range | 2018-03-27 to 2020-09-14 |
 | Direction | Unreliable in this export (marked "Received" throughout) — read as one-way (Jim to Dan) |
 | Handle | +17247074184 |
+
+Why incidental: one self-contained message thread recorded in full — texture, pricing, and its quiet close are all documented here, and nothing extends past September 2020.
 
 ## Related
 

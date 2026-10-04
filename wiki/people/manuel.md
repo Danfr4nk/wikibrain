@@ -2,9 +2,10 @@
 domain: people
 page_type: entity
 title: "Manuel"
+tier: incidental
 status: active
 date_created: 2026-06-23
-date_modified: 2026-07-18
+date_modified: 2026-10-04
 date_range_start: 2023-08-13
 date_range_end: 2026-02-25
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -22,6 +23,8 @@ connections:
 ---
 
 # Manuel
+
+> **Incidental entry** — Manuel, the Au Za'atar coworker whose Spanish-language friendship with Dan outlasted the job into 2026. Complete at this size.
 
 Manuel was a coworker at [[wiki/work/au-zaatar|Au Za'atar]] — the thread opens with an October 2023 message referencing [[wiki/people/tarik-fallous|Tarik]] telling him to stay and work — who became a genuine, ongoing friendship that outlasted the job itself, running from August 2023 into 2026 (`+13472828140`, 45 messages; unlike most contacts in this corpus, direction is reliably recorded here: 11 sent, 34 received). The relationship is conducted mostly in Spanish, register loose and joking throughout — nicknames ("puto," "michi"), birthday teasing, and running banter about "perico" (cocaine).
 
@@ -45,3 +48,4 @@ Early messages are workplace-adjacent (spinach sourcing, an October 2023 birthda
 
 Last name is not on file. A different, unrelated "Manuel" is referenced in passing in [[wiki/people/jack-rusko]]'s 2017 thread — a different person from an earlier, unconnected era; not to be conflated with this contact.
 
+Why incidental: a single 45-message thread; the friendship's texture and its Au Za'atar frame are completely carried at this size.

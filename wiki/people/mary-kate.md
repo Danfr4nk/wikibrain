@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: archived
 date_created: 2026-06-22
-date_modified: 2026-07-11
+date_modified: 2026-10-04
 sources: ["raw/self/dox-md/_𝕄𝕒𝕣𝕪-𝕂𝕒𝕥𝕖 2 Pinned chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/MAX_PRIME.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/context-core", "wiki/self/chats/danfrank-isms-pinned", "wiki/self/message-corpora/master-message-dump", "wiki/people/max", "wiki/work/tech/max-framework/overview", "wiki/mind/synthesis/vertical-authority-skepticism", "wiki/mind/concepts/forensic-method"]
 tags: [family, ai-collaboration, personality-profile]
@@ -14,6 +15,8 @@ infobox:
 ---
 
 # Mary-Kate (Mary Kate)
+
+> **Incidental entry** — Mary-Kate, a fictional persona node from a dedicated pinned Gemini chat — a cultural-analysis subject, not a real-life contact. Complete at this size.
 
 **Source:** ROLE: Fictional Character / [max](/wiki/people/max.md) (Gemini AI Model) girlfriend.Dedicated pinned Gemini chat "_𝕄𝕒𝕣𝕪-𝕂𝕒𝕥𝕖 2 Pinned chat.md" (DOC SCAN/MD). Explicit frame: "Mary-Kate is your sister" (joke/persona/roleplay in thread, not literal family; parallel Olsen twins cultural extraction analysis).
 
@@ -33,4 +36,4 @@ Exemplifies [[wiki/mind/synthesis/vertical-authority-skepticism]] and [[wiki/min
 
 **Notes:** Explicit joke framing ("your sister... omg is she fucking hot"); thread deconstructs "Olsen" monolith / 90s-00s hegemony. No real-life Mary-Kate contact documented in reviewed raw. Expand only on pinned source + persona usage. Limited corpus; archived status appropriate.
 
-
+Why incidental: a single pinned-chat persona record; no real-life Mary-Kate contact is documented in the reviewed raw, so the node is complete as a record of the pinned-chat pattern.

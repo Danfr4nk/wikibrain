@@ -1,10 +1,11 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: active
 importance: medium
 date_created: 2026-06-22
-date_modified: 2026-07-11
+date_modified: 2026-10-04
 sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related:
   - "wiki/interests/favorites/books"
@@ -17,6 +18,8 @@ tags: [music-production]
 ---
 
 # Dan Carlin
+
+> **Incidental entry** — Dan Carlin, the Hardcore History podcaster-author whose two book-length episodes sit in the favorites list as visceral narrative history. Complete at this size.
 
 American journalist turned podcaster turned author, best known for *Hardcore History* — a podcast series that treats episodes of ancient and military history as epic narratives running four to six hours each. Two of those episodes exist as book-length written versions in the favorites list: *Blueprint for Armageddon* (WWI on the Western Front) and *Wrath of the Khans* (the Mongol conquests).
 
@@ -36,4 +39,4 @@ The draw here isn't that Carlin is the most rigorous historian — he'd be the f
 
 The Hardcore History podcast versions of these episodes predate the books and run considerably longer. The books are essentially transcripts refined for the page. The podcast is likely the more familiar format here — the books are the physical artifact of something first encountered as audio.
 
-
+Why incidental: a two-book favorites portrait; Carlin matters here as one node in Dan's history-reading cluster, and the page carries the full case.

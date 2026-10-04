@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: active
 date_created: 2026-06-23
-date_modified: 2026-07-20
+date_modified: 2026-10-04
 sources:
   - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/marccharles_f3gfexyecg/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [addiction-recovery, music-production]
@@ -21,6 +22,8 @@ connections:
 ---
 
 # Marc Charles
+
+> **Incidental entry** — Marc Charles, the low-intensity Facebook contact whose 85 messages hold the mutual 2017 sobriety-milestone acknowledgment. Complete at this size.
 
 Marc Charles is a longtime, low-intensity Facebook contact who spans two
 distinct registers: casual golf talk in 2018 and a warmer, more personal
@@ -60,4 +63,4 @@ sponsoring him.
 **Gaps:** how Dan and Marc originally met; what the recorded music
 collaboration was; no contact after September 2018.
 
-
+Why incidental: one low-intensity 85-message thread; the sobriety acknowledgment and golf talk are the whole record.

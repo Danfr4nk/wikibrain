@@ -1,10 +1,11 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: active
 importance: high
 date_created: 2026-06-22
-date_modified: 2026-07-11
+date_modified: 2026-10-04
 sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related:
   - "wiki/interests/favorites/books"
@@ -16,6 +17,8 @@ changelog:
 ---
 
 # Adrian Goldsworthy
+
+> **Incidental entry** — Adrian Goldsworthy, the Roman historian whose four favorites-list books — including the 5-star Caesar — anchor the ancient-history cluster. Complete at this size.
 
 British military historian, Oxford-trained, whose career has been organized around a single sustained argument: that the Roman Republic fell not because of structural rot, but because it produced men too exceptional to operate within failing institutions. His biographies of Caesar, Scipio, and Pompey are less about individual greatness than about the tragedy of competence in a collapsing system.
 
@@ -35,4 +38,4 @@ Four books at this density signals something beyond casual interest in Roman aes
 
 Among ancient history authors, Goldsworthy is the only one at 5 stars. The Caesar biography earns it not through hagiography but through the precise, almost surgical way it separates the man from the myth — a method that maps cleanly onto Dan's default forensic mode.
 
-
+Why incidental: a four-book favorites portrait organized around one thesis; complete as an author entry in the reading cluster.

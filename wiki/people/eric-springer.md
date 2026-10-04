@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-07-14
+date_modified: 2026-10-04
 date_range_start: 2016-04-12
 date_range_end: 2016-05-06
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -19,6 +20,8 @@ infobox:
 
 # Eric Springer
 
+> **Incidental entry** — A 44-message, month-long 2016 supply-contact thread mixing drug logistics with candid financial and legal texture. Complete at this size.
+
 A month-long 2016 supply contact (`+17243172393`, 44 messages, April 12 – May 6) whose thread mixes drug logistics with candid financial and legal texture. Eric was wearing an ankle monitor at the time ("I still got this bracelet on so I can't leave") and describes real income strain: manual labor at $8/hour, catching strep throat twice in a stretch, wiring his mother $300 after she lost her wallet, and still scraping together $670 in rent despite a five-day-per-$5-late-fee lease penalty he says he'd never previously incurred.
 
 Beyond the transactional core, the relationship has a personal register: Eric asks whether Annie would be interested in entering a cocktail competition and offers to pass her number to another woman for it — a small, ordinary data point suggesting Eric and the couple socialized outside the supply relationship, not just through it.
@@ -31,6 +34,8 @@ Beyond the transactional core, the relationship has a personal register: Eric as
 | Date range | 2016-04-12 to 2016-05-06 |
 | Direction | Unreliable in this export (marked "Received" throughout) — read as one-way (Eric to Dan) |
 | Handle | +17243172393 |
+
+Why incidental: the relationship is one month of one thread, captured whole here — the transactions, the money strain, and the single social data point beyond them.
 
 ## Related
 

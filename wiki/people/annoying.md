@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-07-14
+date_modified: 2026-10-04
 date_range_start: 2019-06-02
 date_range_end: 2019-07-17
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -23,6 +24,8 @@ connections:
 
 # "Annoying" (unidentified dealer, 2019)
 
+> **Incidental entry** — "Annoying" (Dan's own contacts label), an unidentified cocaine dealer from a six-week window in summer 2019. Complete at this size.
+
 Saved in Google Contacts under the first name "annoying" — Dan's own label, not a self-identification — this is a cocaine dealer contacted through the summer of 2019 (`+13057095740`, 87 messages, June 2–July 17). The relationship is purely transactional and short-lived: daily-to-weekly "Hey bro" check-ins, quantity and price negotiation ("I have special today $300 for a ball," "8 ball $280"), and one mention of "kpin" (klonopin) alongside the cocaine offerings.
 
 ## Texture
@@ -41,6 +44,8 @@ The thread has none of the personal texture of Dan's other 2018–19 supply cont
 ## Gaps
 
 Real identity is unknown — "annoying" is Dan's own contact-card label, giving no clue to a real name. No activity is recorded before or after the six-week window.
+
+Why incidental: an unidentified, purely transactional 87-message thread (June–July 2019); no real identity or continuation is documented anywhere in the corpus.
 
 ## Related
 

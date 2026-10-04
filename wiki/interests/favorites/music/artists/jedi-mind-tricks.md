@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: stable
 date_created: 2026-08-01
-date_modified: 2026-09-04
+date_modified: 2026-10-04
 sources:
   - "raw/self/concerts/table.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/twitter/archive.jsonl"
@@ -16,6 +17,8 @@ connections:
 ---
 
 # Jedi Mind Tricks
+
+> **Incidental entry** — Jedi Mind Tricks, the Philadelphia horrorcore act Dan saw once, at The Social in Orlando on November 17, 2008. Complete at this size.
 
 Jedi Mind Tricks is an act Dan Frank saw live 1 time between 2008, per the concert log he kept (preserved in the corpus). This page records those appearances and the details attached to each in the source.
 
@@ -47,4 +50,4 @@ already deep in the emo and pop-punk circuit that fills the rest of autumn
 horrorcore show having enjoyed it. The taste is wider at twenty than the
 concert table's overwhelmingly pop-punk 2008 rows suggest on their own.
 
-
+Why incidental: one concert-log appearance, independently corroborated by two tweets from that night; this page holds everything the corpus records on the act.

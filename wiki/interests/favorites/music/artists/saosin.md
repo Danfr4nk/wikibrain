@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: stable
 date_created: 2026-08-01
-date_modified: 2026-08-01
+date_modified: 2026-10-04
 sources:
   - "raw/self/concerts/table.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 related: []
@@ -15,6 +16,8 @@ connections:
 ---
 
 # Saosin
+
+> **Incidental entry** — One 2005 appearance from Dan's concert log, at Charleroi VFW on the All Dudes All the Time Tour bill. Complete at this size.
 
 Saosin is an act Dan Frank saw live 1 time between 2005, per the concert log he kept (preserved in the corpus). This page records those appearances and the details attached to each in the source.
 
@@ -31,4 +34,4 @@ All dates, venues, cities, and notes below are taken from the source table and p
 - **Jul 5, 2005** — Multi-act show, Charleroi VFW, Charleroi, PA (Pittsburgh area). Resolved. All Dudes All the Time Tour. With Anberlin, Acceptance, Terminal, Codeseven.
   Co-billed with: Anberlin, Acceptance, Terminal, Codeseven.
 
-
+Why incidental: this page is the complete concert-log record for the act — every documented appearance with its source notes preserved; unless new appearances surface, there is nothing further in the corpus to add.

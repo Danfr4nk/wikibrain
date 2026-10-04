@@ -1,9 +1,13 @@
 ---
 id: "modbod"
 title: "Modbod — body-spec@1 viewer"
+tier: incidental
+date_modified: 2026-10-04
 ---
 
 # Modbod
+
+> **Incidental entry** — Modbod, the body-spec@1 measurement viewer Dan commissioned in September 2026 and deployed as a static web app. Complete at this size.
 
 Commissioned 2026-09-14 by Dan ("make me a body modeling viewer"), built as
 a static web app at [https://danfr4nk.github.io/modbod/](https://danfr4nk.github.io/modbod/) (repo
@@ -46,3 +50,5 @@ Live: https://danfr4nk.github.io/modbod/.
 
 Small thumbnails only, per the placement rule. No images embedded for this
 entry — the app is live at the URL above.
+
+Why incidental: a single commissioned build with its spec and deployment record; the entry is a project note, complete as documented.

@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: active
 date_created: 2026-06-22
-date_modified: 2026-07-14
+date_modified: 2026-10-04
 sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related:
   - wiki/interests/favorites/music
@@ -18,6 +19,8 @@ tags: [music-production]
 ---
 
 # LYNY
+
+> **Incidental entry** — LYNY, the bass-house producer whose seven liked tracks document Dan's producer-ear listening in the low-end lane GRIPNOTIC works in. Complete at this size.
 
 Bass house producer known for tightly engineered low-end and aggressive
 vocal-chop hooks — the current-generation sound that sits directly
@@ -64,8 +67,8 @@ target, as the concept page argues), LYNY represents an artist operating
 natively in the exact frequency space Dan's own ear defaults to, which
 would make the attraction closer to recognition than discovery.
 
+Why incidental: a single favorites-list cluster — seven liked tracks and the producer-ear reading they support — complete as a portrait of one listening lane.
+
 ## Related
 
 [[wiki/interests/favorites/music]] · [[wiki/interests/favorites/music/electronic-bass]] · [[wiki/interests/music/concepts/sub-bass-signature]] · [[wiki/interests/music/aliases/gripnotic]] · [[wiki/people/tom]]
-
-

@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: stable
 date_created: 2026-08-01
-date_modified: 2026-09-04
+date_modified: 2026-10-04
 sources:
   - "raw/self/concerts/table.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/twitter/archive.jsonl"
@@ -16,6 +17,8 @@ connections:
 ---
 
 # Flight of the Conchords
+
+> **Incidental entry** — A single 2009 UCF Arena appearance from the concert log, plus the tweet showing Dan was already watching the HBO series ten weeks before the ticket. Complete at this size.
 
 Flight of the Conchords is an act Dan Frank saw live 1 time between 2009, per the concert log he kept (preserved in the corpus). This page records those appearances and the details attached to each in the source.
 
@@ -42,5 +45,4 @@ concert log cannot: **he was already watching, and the ticket followed.** For
 an entry otherwise built from one row of a ticket table, that is the difference
 between a night out and an interest. `wiki/self/twitter/2009`.
 
-
-
+Why incidental: the complete record for this act is one show and one antecedent tweet, both preserved here; nothing further in the corpus bears on it.

@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-07-14
+date_modified: 2026-10-04
 date_range_start: 2017-05-29
 date_range_end: 2018-06-03
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -19,6 +20,8 @@ infobox:
 
 # Chad Johnson
 
+> **Incidental entry** — A 42-message thread with a fellow Nemacolin caddy across the 2017–2018 seasons: shift coordination, course check-ins, and casual hangouts. Complete at this size.
+
 Chad Johnson was a fellow caddy at [[wiki/work/nemacolin-caddying|Nemacolin Woodlands]] and a college student (references 8am classes, being "out of school in a few weeks") who overlapped with Dan through the 2017–2018 seasons (`+13042165438`, 42 messages). Much of the thread runs through shift coordination relayed via caddy manager [[wiki/people/brad-hubeaut|Brad]] — "Did brad text you yet?", "Chad Johnson F2 both rounds" — and casual course hangouts.
 
 ## Texture
@@ -33,6 +36,8 @@ Early messages (May–June 2017) are mid-round check-ins on the course itself. A
 | Date range | 2017-05-29 to 2018-06-03 |
 | Direction | Unreliable in this export (marked "Received" throughout) — read as one-way (Chad to Dan) |
 | Handle | +13042165438 |
+
+Why incidental: the contact lives entirely inside this one caddying-era thread; the page tells it fully, including its one undocumented outcome (whether the month-long stay happened).
 
 ## Related
 

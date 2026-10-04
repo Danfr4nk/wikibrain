@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: active
 date_created: 2026-09-15
-date_modified: 2026-09-15
+date_modified: 2026-10-04
 sources:
   - "dat:1589-wes-anderson-early-adopter-self-report-20260915 (2026-09-15 self-report: Life Aquatic / Rushmore / Tenenbaums; tent-scene needle drops)"
   - "MEMORY.md (standing record of the same self-report)"
@@ -19,6 +20,8 @@ connections:
 ---
 
 # Wes Anderson Early Adopter
+
+> **Incidental entry** — Dan's pre-meme Wes Anderson adoption — Life Aquatic, Rushmore, and Tenenbaums before the aesthetic existed — per his 2026-09-15 self-report. Complete at this size.
 
 The factual record of Dan's pre-meme Wes Anderson adoption, per his
 2026-09-15 self-report in the millennial-culture thread. Analytical
@@ -60,3 +63,5 @@ not knowing the songs.
 This is the credential the moving shibboleth keeps deepening. The
 history is short; the analysis is elsewhere. What the history proves
 is timing: he was in the theater before the aesthetic existed.
+
+Why incidental: a short factual record of one self-report; the analytical treatment lives at the moving-shibboleth entry, and the history is complete as stated.

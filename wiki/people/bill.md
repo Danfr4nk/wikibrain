@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-07-14
+date_modified: 2026-10-04
 date_range_start: 2018-09-04
 date_range_end: 2018-09-20
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -18,6 +19,8 @@ infobox:
 ---
 
 # Bill (golf/pharma customer)
+
+> **Incidental entry** — Bill (a golf-caddying peer, not Bill Ulmer), who bought pharmaceuticals from Dan over two and a half weeks in September 2018. Complete at this size.
 
 A different Bill from [[wiki/people/bill-ulmer|Bill Ulmer]] — this one is a golf-caddying peer (references playing "Lakeview" with his dad, "broski"/"bro bro" register) who buys pharmaceuticals from Dan over a brief two-and-a-half-week window in September 2018 (`+17244157026`, 21 messages, saved under the same jokey "Socialist" contacts label Dan used for a handful of other supply-adjacent contacts). He works midnight shifts and negotiates pickups around them.
 
@@ -37,6 +40,8 @@ Bill's requests are for "liquid" (unspecified, likely a codeine/promethazine-typ
 ## Gaps
 
 Last name, and whether contact continued past September 2018, are undocumented.
+
+Why incidental: one 21-message thread (September 4–20, 2018) documented completely; his last name and any continuation are unknown, and nothing further exists in the corpus.
 
 ## Related
 

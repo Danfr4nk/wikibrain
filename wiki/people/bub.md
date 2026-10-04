@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-07-14
+date_modified: 2026-10-04
 date_range_start: 2017-04-22
 date_range_end: 2020-10-07
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -18,6 +19,8 @@ infobox:
 ---
 
 # Bub
+
+> **Incidental entry** — "Bub" (contacts label, real name undocumented), a college-friend-register contact spanning 86 messages from April 2017 to October 2020. Complete at this size.
 
 "Bub" (contacts label, real name undocumented) is a low-intensity but long-running college-friend-register contact spanning three and a half years (`+17249635394`, 86 messages, April 2017 – October 2020). The relationship is casual and evenly reciprocal, organized around music/DJ logistics, tech troubleshooting, and gaming — with none of the transactional or crisis texture common to many other stub contacts in this corpus.
 
@@ -37,6 +40,8 @@ Early messages (April 2017) coordinate a party where Dan is DJing, at an address
 ## Gaps
 
 Real name and how the friendship originated (likely college, given the roommate references) are undocumented.
+
+Why incidental: a low-intensity, evenly reciprocal thread — DJ logistics, tech support, gaming talk — summarized in full above, with no documented continuation past October 2020.
 
 ## Related
 

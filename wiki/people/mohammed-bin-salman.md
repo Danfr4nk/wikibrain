@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-07-14
+date_modified: 2026-10-04
 date_range_start: 2023-09-29
 date_range_end: 2024-08-12
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -18,6 +19,8 @@ infobox:
 ---
 
 # "Mohammed Bin Salman" (gaming friend, 2023–2024)
+
+> **Incidental entry** — "Mohammed Bin Salman," the joke-named gaming friend whose 281 messages document ten months of near-nightly co-op play in 2023–2024. Complete at this size.
 
 The contact name is a joke, not a real identity — this is a young, close friend Dan games with heavily over ten months (`+13474936671`, 281 messages, September 2023 – August 2024), mostly Apex Legends, with side trips into Fortnite, Call of Duty Mobile, and Fall Guys. The relationship is dense in a short window: most of the corpus is concentrated in a single stretch, December 5–17, 2023, of near-nightly co-op sessions with real teaching/learning texture — sliding mechanics, sound cues, ammo crafting, hot-drop strategy — and easy trash talk.
 
@@ -38,8 +41,8 @@ The friendship has real personal register underneath the gaming banter: a Januar
 
 Real name and identity are unknown — the contacts card is a joke. Whether the "md" dream reference connects to the documented [[wiki/people/md]] contact is unconfirmed.
 
+Why incidental: one ten-month gaming thread under a joke contact name; identity unestablished and nothing further recoverable.
+
 ## Related
 
 [[wiki/work/au-zaatar]] · [[wiki/people/md]] · [[wiki/self/message-corpora/master-message-dump]]
-
-

@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-07-20
+date_modified: 2026-10-04
 sources: []
 tags: [digital-footprint]
 infobox:
@@ -17,6 +18,8 @@ connections:
 ---
 
 # Ryan Lisac
+
+> **Incidental entry** — Ryan Lisac, a childhood peer at the center of the "Snob Squad" era whose vocabulary Dan revived for his 2026 DJ-identity project. Complete at this size.
 
 Ryan Lisac is a childhood or early-peer friend and the core figure in
 what Dan's own notes call the "Snob Squad" — a developmental era with
@@ -44,4 +47,4 @@ page records what's recalled but not independently source-verified;
 the content of the tribute letter; how or when contact with Ryan
 specifically ended.
 
-
+Why incidental: the era predates the ingested corpus and survives only in passing later mentions; this page records everything recalled, with its gaps stated on the page.

@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: stable
 date_created: 2026-08-01
-date_modified: 2026-08-01
+date_modified: 2026-10-04
 sources:
   - "raw/self/concerts/table.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 related: []
@@ -31,6 +32,8 @@ connections:
 
 # Panic! at the Disco
 
+> **Incidental entry** — Panic! at the Disco, an act Dan saw live three times between 2005 and 2008 per his concert log. Complete at this size.
+
 Panic! at the Disco is an act Dan Frank saw live 3 times between 2005-2008, per the concert log he kept (preserved in the corpus). This page records those appearances and the details attached to each in the source.
 
 ## Live appearances
@@ -51,4 +54,4 @@ All dates, venues, cities, and notes below are taken from the source table and p
 - **May 4, 2008** — Multi-act show, Meadowlands Sports Complex, East Rutherford, NJ. Panic! at the Disco & Coheed and Cambria co-headlined. Also: Paramore, Gym Class Heroes, Cobra Starship, The Academy Is.
   Co-billed with: Coheed and Cambria, Paramore, Gym Class Heroes, Cobra Starship, The Academy Is....
 
-
+Why incidental: a concert-log record of three appearances with their billings; the corpus holds no further material on the act beyond these shows.

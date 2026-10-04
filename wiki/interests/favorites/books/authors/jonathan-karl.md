@@ -1,10 +1,11 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: active
 importance: medium
 date_created: 2026-06-22
-date_modified: 2026-07-11
+date_modified: 2026-10-04
 sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related:
   - "wiki/interests/favorites/books"
@@ -15,6 +16,8 @@ tags: [politics]
 ---
 
 # Jonathan Karl
+
+> **Incidental entry** — Jonathan Karl, the ABC beat reporter whose three Trump-era books complete the favorites list's journalism triangulation. Complete at this size.
 
 ABC News chief White House correspondent, a credentialed insider whose relationship with Republican Party figures across two decades gave him access most journalists couldn't replicate. His Trump-era books — *Front Row at the Trump Show* and *Betrayal* — document the administration and its January 6 aftermath from that insider position: someone who was in the room, knew the principals personally, and watched them betray every norm they'd previously claimed to hold.
 
@@ -34,4 +37,4 @@ Alongside [[wiki/interests/favorites/books/authors/bob-woodward]] and [[wiki/int
 
 The January 6 material in *Betrayal* has a specific relevance beyond Trump biography: it's a primary account of institutional failure at the moment of rupture, which is the kind of event that [[wiki/mind/concepts/forensic-method]] finds most analytically useful. Breakdowns expose what normal operation had concealed.
 
-
+Why incidental: three books and a cluster placement; the page is a favorites portrait, not a biography, and the record holds nothing more.

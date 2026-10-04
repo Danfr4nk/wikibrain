@@ -3,9 +3,10 @@ domain: people
 page_type: entity
 title: "Jack Connor"
 aliases: ["Jack"]
+tier: incidental
 status: stable
 date_created: 2026-08-03
-date_modified: 2026-08-03
+date_modified: 2026-10-04
 tags: [legal, uniontown-era]
 infobox:
   name: "Jack Connor"
@@ -23,6 +24,8 @@ connections:
 ---
 
 # Jack Connor
+
+> **Incidental entry** — Jack Connor, the Fayette County defence lawyer who got Dan into ARD against a DA policy that categorically excluded cocaine charges. Complete at this size.
 
 Jack Connor is the Fayette County defence lawyer who represented Dan after
 [[wiki/legal/2015-possession-arrest|the 2015 possession arrest]], and he is
@@ -53,4 +56,4 @@ the family knew to call him — though no source states how he was retained.
 later contact are all unrecorded. The message placing him at the cash-claw
 drawing is undated in the extract available.
 
-
+Why incidental: two corpus traces — the ARD representation and one casino sighting — fully carried; the record holds no more.

@@ -2,9 +2,10 @@
 domain: work
 page_type: entity
 title: "Vibe-Coding Games (Matter.js)"
+tier: incidental
 status: active
 date_created: 2026-07-13
-date_modified: 2026-07-13
+date_modified: 2026-10-04
 sources:
   - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
@@ -19,6 +20,8 @@ connections:
 ---
 
 # Vibe-Coding Games (Matter.js)
+
+> **Incidental entry** — Dan's 2025–26 line of browser physics games (Matter.js only) built entirely through AI-directed vibe coding, with Dan as conceptual director rather than implementer. Complete at this size.
 
 A 2025–26 side-project line: browser physics games built entirely through
 AI-directed "vibe coding," with Dan as conceptual director rather than
@@ -50,3 +53,5 @@ says he requires ([[wiki/mind/synthesis/vertical-authority-skepticism]]).
 **Gaps:** no repository links, playable URLs, or screenshots in raw/;
 development dates per game unknown; whether any were finished or shipped
 is undocumented.
+
+Why incidental: the four named projects and the working method are the whole record; no repository links, playable URLs, or ship status exist in raw/ to expand it from.

@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-07-14
+date_modified: 2026-10-04
 date_range_start: 2019-03-17
 date_range_end: 2019-08-16
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -19,6 +20,8 @@ infobox:
 ---
 
 # Del
+
+> **Incidental entry** — Del, who ran the NYC cannabis delivery service that supplied Dan through spring and summer 2019. Complete at this size.
 
 Del ran a NYC cannabis delivery service (contacts card lists organization "Stiiizy," the vape-cart brand) that supplied Dan through spring and summer 2019 (`+19177251279`, 65 messages, March–August). The relationship is a professional delivery-service dynamic — closer to [[wiki/people/menore|Menore]]'s NYC delivery model than to the ad hoc dealer relationships of the Uniontown years — but noticeably less reliable, with frequent apologetic delays.
 
@@ -38,6 +41,8 @@ Del quotes prices early ($80 for one Stiiizy cart, $70 each for two or more, a f
 ## Gaps
 
 No contact appears after August 16, 2019; whether the relationship continued past the exported window, or ended with Dan's later move out of the city, is undocumented.
+
+Why incidental: the whole documented relationship is one 65-message supplier thread (March–August 2019), recorded in full above; no contact after August 2019 exists in the corpus.
 
 ## Related
 

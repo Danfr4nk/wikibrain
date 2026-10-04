@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-07-14
+date_modified: 2026-10-04
 date_range_start: 2017-07-11
 date_range_end: 2018-06-09
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -23,6 +24,8 @@ connections:
 
 # Christian Hanson
 
+> **Incidental entry** — Christian Hanson, the retired NHL forward Dan caddied and played with around Nemacolin in 2017–2018. Complete at this size.
+
 Christian Hanson — the retired NHL forward (Toronto Maple Leafs, son of Dave "Hanson Brothers" Hanson) — was a golf regular Dan caddied and played with around Nemacolin during 2017–2018 (`+14129950042`, 66 messages, July 2017 – June 2018). The relationship is friendly and easy, addressed as "Danny" and "boss," organized almost entirely around arranging rounds at the Mystic course.
 
 ## The relationship
@@ -37,6 +40,8 @@ Most of the thread is tee-time logistics: Christian and his group (referenced fr
 | Date range | 2017-07-11 to 2018-06-09 |
 | Direction | Unreliable in this export (marked "Received" throughout) — read as one-way (Christian to Dan) |
 | Handle | +14129950042 |
+
+Why incidental: a single 66-message tee-time thread (July 2017 – June 2018), warm and low-stakes throughout; the complete documented relationship fits on this page.
 
 ## Related
 

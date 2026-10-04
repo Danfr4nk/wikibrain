@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-08-10
-date_modified: 2026-08-10
+date_modified: 2026-10-04
 date_range_start: 2011-12-01
 date_range_end: 2012-05-04
 sources:
@@ -29,6 +30,8 @@ connections:
 ---
 
 # Renae Holland
+
+> **Incidental entry** — Renae Holland, the Creative License contact who independently corroborated Dan's 2012 whistleblower account of Kevin McKiernan's falsified documents. Complete at this size.
 
 Renae Holland is a former [[wiki/work/creative-license|Creative License]]
 contact — her exact role at the company is not stated in the recovered
@@ -61,4 +64,4 @@ unrecovered — a real, chaseable lead if this thread is followed up.
 Renae's exact job title or dates at Creative License are unstated. Whether
 the arranged phone call happened, and what it covered, is unknown.
 
-
+Why incidental: one short correspondence and a single corroborating reply; the page carries the entire recovered record of the contact.

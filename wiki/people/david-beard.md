@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-07-20
-date_modified: 2026-07-20
+date_modified: 2026-10-04
 date_range_start: 2018-07-23
 date_range_end: 2018-10-01
 sources:
@@ -26,6 +27,8 @@ connections:
 ---
 
 # David Beard
+
+> **Incidental entry** — David Beard, the Uniontown contact whose September 2018 used-drone sale was the middle purchase in Dan's three-drone summer. Complete at this size.
 
 David Beard is a golf-course-adjacent Uniontown contact — his own
 messages reference "work" rain delays and a Tim Griglack's band hangout
@@ -66,4 +69,4 @@ single 2018 summer.
 after the Mavic 2 purchase; David's specific role at the golf course
 (coworker vs. member vs. neighbor is not disambiguated).
 
-
+Why incidental: a single transactionally dense thread; the drone sale and its place in the three-drone summer are fully carried here.

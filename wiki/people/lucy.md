@@ -2,9 +2,10 @@
 domain: people
 page_type: entity
 title: "Lucy"
+tier: incidental
 status: closed
 date_created: 2026-08-03
-date_modified: 2026-08-03
+date_modified: 2026-10-04
 date_range_end: 2018-04
 tags: [pets, family, uniontown-era]
 infobox:
@@ -25,6 +26,8 @@ connections:
 ---
 
 # Lucy
+
+> **Incidental entry** — Lucy, Suz's blind Jack Russell terrier, recorded at Dan's 2015 arrest and at her death days after Fran's in April 2018. Complete at this size.
 
 Lucy was [[wiki/people/suzanne-frank|Suz's]] Jack Russell terrier — elderly
 and fully blind by 2015 — and she appears in the corpus at two moments, both
@@ -54,4 +57,4 @@ date of the Cheat Lake trip are all unrecorded. Whether the euthanasia
 decision was medical as well as logistical is not stated anywhere — the only
 account is the one-sentence explanation above.
 
-
+Why incidental: Lucy appears at exactly two documented moments, both carried here; the household record holds nothing further.
