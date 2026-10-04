@@ -5,7 +5,7 @@ title: "The Forensic Method"
 aliases: ["forensic analysis", "forensic methodology", "procedural tells", "lossless retention", "anomaly-detection engine"]
 status: active
 date_created: 2026-06-22
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 synthesizes:
   - wiki/mind/profile/intp
   - wiki/mind/concepts/dans-law
@@ -59,6 +59,12 @@ connections:
     claim: "The 2025-07-11 James Analysis PDF is the method's first outward deployment at a named private person — a year before the Leviathan dashboards, and friendly in intent, which makes it the better control."
   - page: wiki/people/fran-coldren
     type: evidenced-by
+  - page: wiki/mind/concepts/conflict-architecture
+    type: parallels
+    claim: "Conflict architecture is this method's engine running on interpersonal input: the same anomaly-detection and resolution-seeking procedure, applied to a domain whose inputs have no resolution condition."
+  - page: wiki/mind/psychosexual/taboo-and-boundary-testing
+    type: operationalized-by
+    claim: "The forensic method's coherence-testing - treating categories and primary records as things that must hold under pressure - is operationalized by taboo-and-boundary-testing's named mirror-cracking mechanism."
     claim: "The hardest self-directed test: within 24 hours of his great-grandmother's death Dan reviewed his own video, found the monitor alarm explaining its 'supernatural' timing, and retracted the story unprompted at no benefit to himself."
 ---
 
