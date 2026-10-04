@@ -10,6 +10,7 @@ date_created: 2026-09-13
 date_modified: 2026-10-04
 sources:
   - kb/data/0081-explicit-commitment-architecture.md
+  - raw/sammy/20261004-1814/operator-testimony-2026-10-04.md
   - kb/data/1292-block-unblock-loop-severance-recount-129-128.md
   - kb/data/0090-block-retraction-2026-09-11.md
   - kb/data/annie-new-life-exchange-2015-12-01.md
@@ -1144,6 +1145,40 @@ Stated so the record can grade them, each with its test protocol:
 5. **The intensifier will stay inversely load-bearing.** The next *"goodbye forever"* will resume faster than the median *"goodbye."* *Protocol:* split the catalog's declarations by intensifier presence (*forever*, caps, profanity stacking); compare median gaps. The thesis predicts the intensified set resumes *faster* — the louder the performance, the quicker the curtain.
 
 6. **Her-resumed declarations will close faster than his-resumed ones.** The bid model predicts the counter-offer accelerates what the monologue only continues: gap(declaration → her next message) < gap(declaration → his next message), tested on the 44-instance catalog's direction tags and then the 129 episodes. A null result would mean the burst is self-timed rather than trade-timed, and would cost the trade rule its sharpest quantitative claim.
+
+## The zero, re-derived [2026-10-04]
+
+The headline of this page was re-tested on 2026-10-04 against the full
+merged Annie thread (97,925 messages, 2015-11-28 → 2026-09-07), and it
+held. Prospective claim language — "forever," "marry me," "can't wait
+until I am your wife" — saturates Era 1 (2015–2018, hundreds of
+instances, unprompted, baseline) and occurs in Era 2 (post-2025-02-22)
+**zero times**. Every Era 2 "want to be together" statement was
+extracted under pressure: inside a fight, an accusation, a goodbye, or a
+direct question. The partial exception — "I want to be together and I
+need to prove that and myself to you" (2026-02-23) — names an obligation
+and specifies no action.
+
+The one declarative "It's done" cluster (2026-07-29) was re-scoped on
+the operator's correction the same day: it concerned the
+Jerel/assault-disclosure situation and who controlled telling her
+parents, not a verdict on him, and it reversed in practice within about
+ten days. It is not evidence of a verdict on him and must not be cited
+as one. What Era 2 carries instead is an indecision register ("trying to
+figure out and find myself," "I'm just lost and confused," "I don't see
+my own future anymore") and self-removal offers ("I'll stay out of your
+life"), none of which is a declaration in the page's sense.
+
+The direct-answer series is now the sharpest form of the finding. Asked
+point-blank — 2025-08-11 ("I am not fucking done I do not want to be
+done"), 2025-08-23 ("No dan / I am / Not"), 2025-08-27 ("No.", 24 seconds
+after "So are you done with me or not"), 2026-02-02 ("I don't want to
+lose you Dan" first — the substitution — then, challenged, "No dan I'm
+not / I do want to be"), 2026-04-02 ("No I am not done") — she answers.
+The counter-example is 2025-11-28: "ARE YOU DONE WITH US OR NOT,"
+followed repeatedly, met with "I'm at lunch right now" and silence.
+Census, eleven years: on her side, answers exist; announcements never
+occur. The declaration count remains zero.
 
 ## Conflicts in the record
 The following items collect the contradiction, retraction, supersession, and verdict material for this page, each dated from the record it cites. Original wording is preserved under each heading.

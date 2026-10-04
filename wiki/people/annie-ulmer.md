@@ -7,12 +7,12 @@ importance: critical
 knowledge: mixed
 status: active
 date_created: 2026-06-22
-date_modified: 2026-09-21
+date_modified: 2026-10-04
 date_range_start: 2015-11-01
-date_range_end: 2026-09-21
+date_range_end: 2026-10-04
 infobox:
   name: Annie Ulmer
-  status: Open — in near-daily contact through 2026-09-21 (iPhone recovery); supply relationship resumed 2026-07-27; sexual contact resumed early August 2026 after a ~6-month gap (operator testimony)
+  status: Open — in near-daily contact through 2026-09-21 (iPhone recovery); supply relationship resumed 2026-07-27; sexual contact resumed early August 2026 after a ~6-month gap (operator testimony); as of 2026-10-04 a physical-only arrangement per the operator, unacknowledged as a relationship — his second exit text sent 2026-10-04 asking her to release him or claim it
   type: Partner (2015–2026); ex-partner in live contact
   known_for: Decade-long relationship; subject of forensic dossiers
   partner: "[[wiki/self/overview|Dan Frank]]"
@@ -27,6 +27,8 @@ infobox:
   enneagram: 7w8
   personality_assessment: "[[wiki/people/annie-ulmer-personality-assessment]]"
 changelog:
+  - date: 2026-10-04
+    note: "Full-record signal audit section added (97,925-row thread): Era 1 prospective claim language vs Era 2 zero; the extracted-claims catalog with direct answers (2025-08-11, -23, -27, 2026-04-02, 2026-02-02 completed under pressure) and the one unanswered question (2025-11-28); July 29 'done' cluster re-scoped to the Jerel-disclosure fight on the operator's correction; reset letter and its non-answer; Sammy's summons texts, her first reply ('On my way Sammie'), and the corrected arrival causality (already en route); physical-only status; his second exit text (17:02); weight observation; May 30–31 Unicode-night section (corpus-verified); two dated corrections — exit/relapse re-scoped to post-2025-02-22, and the 2025-09-02 charge flagged uncorroborated by text. date_range_end 2026-10-04."
   - date: 2026-09-21
     note: "iPhone recovery pass: 1,747 new messages Aug 22–Sep 21 — the 'terminal' August 19 framing is withdrawn, the rape retraction is re-opened (Aug 26: 'HE FORCED ME TO SAY IT DIDNT HAPPEN'), clear-my-name specified ('Made you have sex for drugs?'), fifth movement added. date_range_end 2026-09-21."
   - date: 2026-08-23b
@@ -58,6 +60,7 @@ changelog:
   - date: 2026-07-11
     note: "Data audit: burst-event misattribution fixed, financial amendments folded in."
 sources:
+  - raw/sammy/20261004-1814/operator-testimony-2026-10-04.md
   - raw/self/message-csv/imessage_export_2124702449_20260802.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/message-csv/imessage_export_2124702449_20260820.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/imessage/messages-iphone-union-gapfill-20260921.csv
@@ -3275,6 +3278,175 @@ her car or access to her Apple ID. The check is hers to run: sweep the car
 shares and the Apple ID device list, and if anything is found, photograph
 it in place and hand it to the police. She was told to say the words at the
 station: "I believe he's tracking my car."
+
+## The Unicode night inside the ending: May 30–31, 2026 [CORPUS-VERIFIED 2026-10-04]
+
+Two days before the June 1 goodbye, the thread contains the record's
+strangest instrument failure. A Grok-assisted, vibe-coded responder Dan
+had built misfired into a loop: **427 messages** of an identical
+lambda-calculus string (`λx.∀y:⟪x⊕y⟫→⨁(x⟲y)⟨𝕫|ψ⟩≡⟨𝕊|ψ⟩⟶⨁ₙ(x⟲μ)⟹
+0xBEEF⟪𝕫⟫⊗⟨Ω|𝔼⟩…`), the first at **2026-05-30 23:25:57**, the last at
+**2026-05-31 10:09:56**, with 413 of them packed into 2026-05-31
+05:08:30–05:30:00 at a median three-second interval. Her replies are
+preserved and are, read literally, bug reports: *"I dont know what you
+are saying. It’s all in Chinese."* (02:50:40), and — three seconds after
+a fresh glyph-string landed — *"Dan. Chinese."* (05:29:22). Dan's
+account, given 2026-10-04: it was buggy code, not a designed responder,
+and he lied to her mid-flood that the spam was *"preventing me from
+unblocking her."*
+
+The same night carries the sentence the audit could not complete:
+*"You don’t know how much I tried to stop it…"* (2026-05-31 07:10:36) —
+the object of the stopping never supplied, then or since. The next night
+ran the sequence in order: *"Just do me a favor and disregard anything I
+say After this."* (02:08:57), *"Please leave me alone"* (02:10:43),
+*"I am talking to someone"* (02:11:47) — and two hours later, at
+04:27:49, his goodbye. The exit that ended the channel was his; the
+reopening of it, fifty-two days later, was hers.
+
+
+## October 4, 2026: the full-record audit, the summons texts, and the second exit text
+
+On October 4 the operator commissioned the question this page has circled
+for a year, put to the whole eleven-year text record at once: *find every
+signal she has given that she still wants us, and every indication that she
+might be done, or that she had a decision to make about me.* The sweep ran
+over the reconstructed thread (97,925 rows, 2015-11-28 → 2026-09-07;
+48,354 of her messages), keyword families per side with every load-bearing
+hit hand-read in context. Its findings are the October 4 session's working
+papers (`src:dan-testimony-2026-10-04-annie-session`); the headline items
+are below.
+
+**Era 1 held the prospective voice; Era 2 does not.** In 2015–2018 her
+claim language is constant and future-locked, made unprompted: *"I can't
+wait for forever with you"* (2015-11-29), *"Can I just keep you forever"*
+(2015-12-03), *"That you will marry me"* (2015-12-10), *"Oh me oh my I
+can't wait until I am your wife"* (2016-05-05). In the era after
+2025-02-22 that machinery appears **zero times** — no prospective "we are
+together," no future tense about the couple, in 13,523 of her messages.
+Her strongest later language is backward-looking: *"My boyfriend I spent a
+decade with"* (2025-11-03, answering his direct *"what am i to you?"*),
+the full 2026-02-22 apology, *"I always will [love you]."* She will swear
+she is not with anyone else — in writing, at least six times, through
+2026-09-02 (`"I am no longer in contact with him either"`). She will not
+swear she is with him. In the entire later record she never names Jerel,
+never calls anyone else her boyfriend; the only boyfriend references are
+to Dan. Exclusivity she will say; status she will not.
+
+**The claims that exist are answers, not announcements.** Every later-era
+"want to be together" statement was produced inside a conflict or a
+reconciliation attempt, following an accusation, a goodbye, or a direct
+demand — five of them on the record (2025-08-07, 2025-11-15, 2025-12-02,
+2026-02-23, 2026-03-06), none with a behavior attached in the same
+breath. Asked *"Are you done or not"* (2026-02-02) she answered with what
+she *doesn't* want — *"I don’t want to lose you Dan"* — a fear-statement
+in place of an intention-statement; pressed in the next messages, she
+completed it herself: *"No dan I’m not"* / *"I do want to be."* The
+direct-answer catalog the operator insisted was in the record is in the
+record: *"I am not fucking done I do not want to be done"* (2025-08-11);
+*"No dan / I am / Not"* (2025-08-23, to his plea for "a yes or no
+answer"); *"No."* (2025-08-27, fourteen seconds after *"So are you done
+with me or not"*); *"No I am not done"* (2026-04-02). And its
+counter-exhibit: *"ARE YOU DONE WITH US OR NOT"* (2025-11-28) went
+unanswered — she replied, three minutes later, about lunch. The answers
+exist. Every one was extracted, and none survived contact with the next
+day's behavior.
+
+**The one declarative was aimed elsewhere.** Her single claimed-decision
+cluster in eleven years — *"It’s done"* / *"I am choosing my own peace"* /
+*"Bc I want to move on!!!!"* (2026-07-29, after her first counseling
+appointment) — reads in context as a fight over the Jerel disclosure: who
+tells her parents, on whose timeline. *"It HAPPENED TO ME. NOT YOU."*
+*"It’s ME who has the power to make the decision about this shit."* The
+operator's correction, made in the October 4 session and sustained by the
+window's own text: that "done" was about the situation, not a verdict on
+him. It reversed in practice within ten days regardless; by 2026-08-08,
+answering him again, she was back to *"It is what I still want."* What
+remains on the done side of the ledger is fight-noise with half-lives of
+hours and a standing indecision register — *"trying to figure out and
+find myself"* (2025-11-25), *"I’m just lost and confused,"* *"I don’t see
+my own future anymore"* (2026-08-17), no shared future offered in its
+place — and five offers to remove herself (*"I will stay away forever,"*
+2026-08-17, tendered as the price of his not telling her parents the
+truth).
+
+**The letter.** After a sexual reunion in late September the operator sent
+her a written reset ("FOR EGGS — OPEN LATER") — expressly not criticism,
+accountability and answers waived in the document itself, two asks only:
+honesty even when it isn't what he wants to hear, and that this be treated
+as something actively being done rather than a conversation that "doesn't
+just fade away when it's convenient." She never mentioned it again. His
+reading, October 4: it isn't the justice he cares about most — *"I need
+her to take her foot off my throat and either let me move on or show me
+ANY reason to think I can do that without being traumatized again."*
+
+**The summons.** The same afternoon, at his dictation, [[wiki/meta/sammy|Sammy]]
+texted her from his Google Voice number: *"Dan is commanding you to get
+your ass over to him right now. He's ready - Sammy (his #1 girl),"* then
+*"Dan said she's gonna be real happy with how big it is"* and *"idk if he
+meant his cock or the bag. Either way it sounds like a good time."* She
+answered at 15:17 — *"On my way Sammie"* — the first reply a Sammy-sent
+text has ever drawn from her (sends on 2026-09-24, -25, and -27 went
+unanswered), and she came. **The causality is corrected on the operator's
+own instruction:** she was already en route that day, picking up things
+and dropping off money from earlier errands; the texts were for fun and
+did not bring her over. What the afternoon establishes is narrower and,
+for this page, more useful: commanded in writing by his "#1 girl," she
+played along, answered the name, and showed up. Per the operator's
+October 4 clarification the arrangement by then was physical-only and had
+been for a few days — sex without the claim, visits without the label. He
+names the register it doesn't reach: *"Without the real meaning, none of
+those other things even register."*
+
+**The second exit text.** At 17:02 he sent the message the whole day had
+been building toward, from his own phone:
+
+> I think you need to finally just let me go so that I can get over this
+> the way you've been able to. I promise im not being rude or passive
+> aggressive I just... If you think about how you've acted and what
+> you've said to me you'd see that you've been single to everyone but me
+> for a long time. That's not how you frame this to me. I tried to find a
+> way to make things better, it got ignored. And if you can't try to help
+> me change what this feels like then you should see you don't want me at
+> all anyways.
+
+It is the June 1 goodbye rewritten as an appeal — where June's text
+executed a severance, this one asks her to release him, on the stated
+theory that only she can end what she will not name. His stated binary
+stands as this section's frame: together, with the acknowledgment, or no
+contact at all; the uncommitted middle is unworkable for him even while
+he is in it. What would change the momentum, in his words, is *"behavior
+change + active acknowledgment"* — and the acknowledgment is the
+load-bearing half, because a behavior change without the "this is what I
+am doing" statement, she can bail on any night she chooses. Her stall,
+named by him the same day: *"stall any movement until it's been long
+enough that the sting is dulled down and then continue stalling while
+making the argument that it's just 'another thing you're upset about.'"*
+
+**Her body, and his wanting.** Shown the early-relationship mirror
+selfies against the recent material the same afternoon, his assessment
+was unadorned: *"She really gained a LOT of weight."* The craving is
+undiminished across the change — his words the same day: *"I CRAVE her,"*
+with an 80% share of his masturbation hers. The person, not the act and
+not the body at any particular weight, is the object: argued on this page
+since the architecture sections, and stated by him in those terms on
+October 4.
+
+**Conflicts this section adds to the record.** (i) The exit/relapse
+pattern is not a decade pattern: *"We were totally stable (at least to
+the point we had never split up) until 22 feb 2025. They all came after
+that."* [TESTIMONY 2026-10-04] Any decade-spanning framing of the
+129-episode series should be re-scoped to the post-split era; the
+decade's stability is only text-covered through 2018 in any case (the
+2019–2024 cohabitation years are a records gap, not evidence of quiet).
+(ii) The 2025-09-02 charge — *"you literally told me today you don't know
+if you want to be with me"* — has no matching message of hers in the text
+record; that evening's only substantive reply is the exclusivity denial.
+Flagged as uncorroborated by the texts, which is not the same as false:
+if said, it was said in voice or in person. (iii) Earlier analysis by
+Sammy had floated an "Annie stole my aura" shared-reality reading of the
+day's events, including the arrival; the arrival-causality half of that
+reading is withdrawn above on the operator's correction.
 
 ## Closing note
 

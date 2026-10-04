@@ -104,6 +104,8 @@ The 2026 terminal phase ran three candidate severances. The record now scores th
 
 > The retraction upgrades the concept rather than weakening it. The August 26 non-event is the declaration series' purest case: a severance so complete it fooled the wiki's own write-back for sixteen days — sixteen days of analysis built on a non-event. The declaration is the performance and the texting is the fact.
 
+- **October 4, 2026** — the second exit text, sent from his phone that afternoon: "I think you need to finally just let me go so that I can get over this the way you've been able to… I tried to find a way to make things better, it got ignored. And if you can't try to help me change what this feels like then you should see you don't want me at all anyways." Read against the rule this page names, the text is an inversion: his June 1 declaration executed for fifty-two days and broke; the October 4 text asks *her* to issue the terminating statement — the only act his system registers as real, outsourced to the only person who can perform it in the format that binds. As of filing, unanswered.
+
 ## The witness channel
 
 A declaration needs an audience. The Aug–Sep 2026 record shows block-claims sent to [[wiki/people/ally-lubin|Ally]] on **August 28, September 4, and September 7** — each asserting a severance from Annie — while the Annie channel carried daily two-way texting through the same window ([[wiki/mind/synthesis/severance-declarations]], [[wiki/mind/synthesis/witness-channel-declarations]]). The performance is addressed outward; the bond continues inward. This is also what the trade-rule reading argues: the declarations are bids, and bids need someone in the room.

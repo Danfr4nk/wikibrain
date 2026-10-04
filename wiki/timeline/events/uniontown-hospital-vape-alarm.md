@@ -14,6 +14,7 @@ sources:
   - raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - "raw/self/dox-md/_Photo Thread PT II_ Grand Finale Calibration .md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - raw/legal/documents/2018-04_summons-hospital-smoking.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/sammy/20261004-1814/operator-testimony-2026-10-04.md
 tags: [legal, grief, family, uniontown-era]
 connections:
   - page: wiki/timeline/events/fran-death-vigil
@@ -187,6 +188,14 @@ from the February 2015 court blotter and states that he "appears once ... and
 has no other trace in the corpus." He appears twice. MDJ-14-1-01 is the constant
 in Dan's charging record; the offences have nothing else in common.
 
+**Disposition [TESTIMONY 2026-10-04].** The docket's last open cell —
+what the case cost him — was answered by the operator on 2026-10-04, the
+first time he had been asked: he appeared, performed contrition for the
+judge ("I know what a serious situation a fire in a hospital is"), and
+the citation cost him about $125, an amount he credits to the
+performance. The UJS docket check remains unrun; the figure is
+testimony, not docket-verified.
+
 ## Dating
 
 The captures place this in April, during the pediatric-wing phase and after
@@ -229,6 +238,26 @@ independently, by a printed court document reading **2018**.
 > **case filed 4/5/2018** before **Magisterial District Judge Michael M. Metros**,
 > MDJ-14-1-01, 88 North Gallatin Avenue, Uniontown. The security guard's
 > "charging documents" were charging documents.
+
+> **CONFLICTS [2026-10-04] — the operator's fullest retelling, against
+> this page's record.** Four details of the 2026-10-04 telling conflict
+> with the record built here, and none is silently resolved. **(1) Truck
+> count:** six fire trucks (2026 telling) against the four of the
+> docket-era account; the alias "four firetrucks" keeps the earlier
+> figure. **(2) The device:** a 220W massive Smok box mod (2026) against
+> the 110-watt figure carried elsewhere. **(3) Suz's pen:** an eJoy 30W
+> (2026) against the 10-watt eJoy of the earlier account. **(4) The
+> door:** the 2026 telling has him open the bathroom door, find Annie
+> ignorant of the cause, and ask her "what's that noise about?" — the
+> account behind this page (above, "The reasoning") has him sit down
+> beside her and say nothing until the firefighters entered. The new
+> telling adds the detector inspection itself — "No lasers. Nothing weird
+> or fancy or a return catch for a laser" — and a tow-truck detail: the
+> truck that took his car had a lift, and his car was damp from the rain.
+> The cover line, however, is stable across every telling: "It was in my
+> pocket and it accidentally fired which made the vapor come out." The
+> 2017 year in his telling stays corrected to 2018 by the printed court
+> document, as Dating establishes.
 
 ## See also
 

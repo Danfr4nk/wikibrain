@@ -8,7 +8,7 @@ importance: critical
 relation_type: family
 knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-09-23
+date_modified: 2026-10-04
 date_range: ["1920-08-15", "2018-04-04"]
 tags: [family, uniontown-era, grief, music-production, financial-stress]
 sources:
@@ -29,6 +29,8 @@ images:
     caption: "Fran Coldren"
   library: []
 changelog:
+  - date: 2026-10-04
+    note: "The ending: the vape-alarm event placed inside the death-watch room with its 2026-10-04 testimony (hearing, ~$125, cover story) and the four-vs-six-trucks conflict preserved by pointer to the event page."
   - date: 2026-08-02
     note: "Rebuilt from scratch against the message corpus: age 97 settled, $15/hr and six-months-full-time established, surgery and nursing-home dates recovered, and Dan's own same-night retraction of the death-moment story found"
   - date: 2026-08-02
@@ -433,6 +435,20 @@ once — the house, the autonomy, and a specific contempt for absorption into
 close as the record comes to a statement of her politics, and it is
 recognisably the same disposition her great-grandson runs at
 [[wiki/mind/synthesis/vertical-authority-skepticism]].
+
+The room had one more event in it, and it is hers by proximity: during the
+same four-day shutdown, Dan stepped into the bathroom, lost an argument with
+a smoke detector he had already reasoned his way past, and brought a
+building-wide fire alarm and a row of fire trucks into her death watch. On
+2026-10-04 he told the story whole for the first time — the detector
+inspected for lasers that weren't there, the cover story ("it was in my
+pocket and it accidentally fired"), the hearing where performed contrition
+priced the whole thing at about $125. The trucks she never remarked on in
+any record stand at four in the docket-era account and six in his 2026
+telling; the conflict is preserved where it belongs, on
+[[wiki/timeline/events/uniontown-hospital-vape-alarm]]. She died on April 4
+with the alarm already part of the room's history. The citation was filed
+the next morning.
 
 ## The death moment, and Dan's retraction of it within 24 hours
 

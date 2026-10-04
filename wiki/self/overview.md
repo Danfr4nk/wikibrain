@@ -133,6 +133,15 @@ Morgantown landing ([[wiki/legal/463-morgantown]]), heavy AI/agent work,
 and the MOGZART revival — the March 2026 DnB remixes are the first shipped
 music of the new era.
 
+By the operator's account the Annie channel did not stay closed: the
+June 1 – July 23, 2026 silence was broken by her reopening (seven texts
+and three emails inside it), and by 2026-10-04 the two were in a
+physical-only arrangement he describes as unacknowledged — no
+relationship, only the physical act. On 2026-10-04 he sent a second exit
+text asking her to release him outright or claim it; see
+[[wiki/people/annie-ulmer|her page]] for the full-record audit that
+preceded it.
+
 **Informed speculation: relocation as the reset mechanism.** Laid end to
 end, the canonical residence timeline shows every major geographic move
 landing at the exact seam between one identity chapter and the next, not
