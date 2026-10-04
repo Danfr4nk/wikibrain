@@ -6,7 +6,7 @@ aliases: ["Abyssal Architect", "typology stack", "psychological profile"]
 status: stable
 importance: critical
 date_created: 2026-07-13
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -81,6 +81,8 @@ against behavioral record), **a social architecture of extreme
 concentration** (Gini 0.961, home-anchoring, Sociability 3), and the
 **attention-not-interior boundary** (two instruments, one limit). The
 rest is the portrait.
+
+This hub is the profile cluster inside the wider [[wiki/mind/index|Mind]] domain; the domain index maps the concepts, synthesis, psychosexual, politics, and journal clusters beside it.
 
 ### 2026-09-15 — the head-to-head
 
