@@ -7,7 +7,7 @@ tier: major
 status: stable
 knowledge: earned
 date_created: 2026-10-01
-date_modified: 2026-10-01
+date_modified: 2026-10-04
 tags: [substack, rhetoric, framing, 2024-election]
 sources:
   - "raw/dan/20261001-substack-creepy/2023-05-22-538.md"
@@ -15,6 +15,14 @@ sources:
   - "raw/dan/20261001-substack-creepy/2023-06-09-the-horserace-from-hell.md"
   - "raw/dan/20261001-substack-creepy/2023-10-17-brain-worms-in-hell-world.md"
   - "raw/dan/20261001-substack-creepy/2024-11-12-trump-redux.md"
+connections:
+  - page: wiki/self/substack/poll-watch-series
+    type: instantiates
+    claim: "POLL WATCH is the hell-world frame's epistemic job running in data mode: aggregates published under the frame's license that the worst reading is the realistic one, with the series' own disclaimer performing the pessimism the frame names."
+  - page: wiki/mind/politics/desantis-delusion-thesis
+    type: evidenced-by
+    claim: "Hell-world names this thesis as the frame's founding instance: the frame is what turned public evidence into the prediction, since the same facts under a charitable reading produced the media's rising-force consensus instead."
+
 ---
 
 # Hell World frame
