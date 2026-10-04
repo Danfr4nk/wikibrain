@@ -5,7 +5,7 @@ title: "Linguistic Profile — Voice, Register, Stylometrics"
 aliases: ["voice", "stylometrics", "forensic intimacy"]
 status: stable
 date_created: 2026-07-13
-date_modified: 2026-08-27
+date_modified: 2026-10-04
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -44,6 +44,9 @@ connections:
     claim: "The callous, riff-driven, gallows-irony register the profile calls a 'psychic ventilator' is the native dialect of the O&A universe — this binge is where that idiom was trained."
   - page: wiki/self/twitter
     type: evidenced-by
+  - page: wiki/mind/profile/big-five-psychometrics
+    type: parallels
+    claim: "Big Five / Big30 Psychometrics runs the audit this page's measurements anchor: a dossier table of scores, each turned into a directional prediction and checked against the held records."
     claim: "The public half of the two-corpus voice proof: 2,718 dated originals written for an audience, against the private message corpus written for one person, which is what lets the profile separate a stable voice from a register chosen per reader."
 ---
 

@@ -6,7 +6,7 @@ aliases: ["RLUEI", "Big30", "psychometrics", "personality disorder scores"]
 status: stable
 importance: high
 date_created: 2026-07-13
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -63,6 +63,9 @@ connections:
     claim: "The probe series is Trust-9 suspicion-of-motive running on the model as subject: nine dated episodes of motive-auditing the one interlocutor with zero relational cost, from 2026-08-14 to 2026-09-13."
   - page: wiki/mind/profile/enneagram-5w4
     type: parallels
+  - page: wiki/mind/profile/linguistic-profile
+    type: parallels
+    claim: "The Linguistic Profile is this page's sibling instrument in the profile cluster: corpus-measured voice where this page audits a testimony battery against corpus predictions."
     claim: "The SLOAN code this table collapses to (RLUEI) is contested by the only dated first-person self-typing in the record (INTP 5w6sx RLOEI, 2024-11-04) — the fourth letter differs too (Organized vs Unstructured)."
 ---
 
