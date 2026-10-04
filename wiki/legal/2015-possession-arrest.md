@@ -60,7 +60,7 @@ connections:
   - page: wiki/people/fran-coldren
     type: co-occurs
     claim: "The car Dan was driving was Fran's — uninspected, expired registration, bald tires, unused since she stopped driving — and its condition is what gave the troopers the impound that produced the inventory search."
-  - page: wiki/self/twitter/2015
+  - page: wiki/mind/synthesis/twitter-2015
     type: co-occurs
     claim: 'The public account goes dark from 2015-07-16 to 2015-12-04, five months spanning this arrest and the concurrent housing arrangement, in a year with no archival gap to explain it.'
 ---
