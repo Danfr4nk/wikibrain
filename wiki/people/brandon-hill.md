@@ -1,11 +1,12 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 title: "Brandon Hill (BFS Assistant Manager)"
 status: closed
 knowledge: mixed
 date_created: 2026-06-22
-date_modified: 2026-07-18
+date_modified: 2026-10-04
 sources:
   - raw/legal/bfs-dispute/BFS_BOOTLOADER_v2.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - "raw/self/dox-md/Drawer shortage dispute with assistant manager.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
@@ -31,6 +32,7 @@ connections:
 ---
 
 # Brandon Hill (BFS Assistant Manager)
+> **Incidental entry** — This page records Brandon Hill, the BFS assistant manager who delivered the $50 drawer-shortage demand to Dan and created the phantom tender that inflated the variance. Complete at this size.
 
 Brandon Hill was the assistant manager on the BFS gas-station side and the
 man who physically delivered the [[wiki/work/bfs-foods|$50 drawer-shortage
@@ -88,3 +90,4 @@ undocumented; a "$20 short" incident he referenced from before Dan's time
 is unexplained.
 
 
+Why incidental: The whole record is Brandon's role in the single BFS drawer-shortage incident, as the assistant manager who closed the incident shift and delivered the demand.

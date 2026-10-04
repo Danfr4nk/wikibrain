@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-07-19
-date_modified: 2026-07-19
+date_modified: 2026-10-04
 date_range_start: 2013-03-26
 date_range_end: 2018-12-09
 sources:
@@ -33,6 +34,7 @@ connections:
 ---
 
 # Rob Orange
+> **Incidental entry** — This page records Rob Orange, a Uniontown high-school-era friend who died on or around April 11, 2014, and the accounts of his death and mourning in the Lauryn Ashly and Jim Shaffer threads. Complete at this size.
 
 Rob Orange was a Uniontown high-school-era friend who died on or
 around April 11, 2014 — the one loss in Dan's cohort that, years
@@ -91,4 +93,4 @@ drops entirely.
 whether Dan or Lauryn ultimately attended the funeral; Rob's full name
 and any surviving family.
 
-
+Why incidental: The whole record is the Lauryn Ashly thread of April 11, 2014 and Jim Shaffer's December 2018 retrospective, with the cause of death never confirmed and no further appearances in the corpus.

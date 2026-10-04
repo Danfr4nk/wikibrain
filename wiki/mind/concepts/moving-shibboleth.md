@@ -1,9 +1,10 @@
 ---
 domain: mind
 page_type: entity
+tier: incidental
 status: active
 date_created: 2026-09-15
-date_modified: 2026-09-15
+date_modified: 2026-10-04
 sources:
   - "dat:1587-conjunction-rule-cultural-literacy-20260915 (verbatim conjunction quotes, 15:44:19Z + 15:45:29Z)"
   - "dat:1588-moving-shibboleth-early-adopter-20260915 (shibboleth synthesis Dan endorsed in-thread, 15:42:18Z)"
@@ -26,6 +27,7 @@ connections:
 ---
 
 # The Moving Shibboleth
+> **Incidental entry** — This page records the moving shibboleth mechanism documented in the 2026-09-15 thread on Wes Anderson, where the early-adopter test deepens as the cohort catches up. Complete at this size.
 
 The mechanism by which Dan defends an early-adopter identity as the
 cohort catches up: the test keeps getting harder. Documented live in
@@ -95,3 +97,5 @@ millennial who never saw *Tenenbaums* but builds strange systems
 from scratch might be more his kin than one who clears all four
 rungs and only curates. His conjunction rule suggests he would
 reject the first anyway — which is the point of the rule.
+
+Why incidental: The whole record is the single 2026-09-15 Wes Anderson thread, its ladder rungs and conjunction rule, with no independent corpus sweep behind it.

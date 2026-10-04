@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: stub
 date_created: 2026-06-23
-date_modified: 2026-08-11
+date_modified: 2026-10-04
 date_range_start: 2000-01-01
 date_range_end: 2020-05-09
 sources:
@@ -29,6 +30,7 @@ connections:
 ---
 
 # Tan Calabrese
+> **Incidental entry** — This page records Tan Calabrese, a childhood friend from the Seven Springs/Windell's ski-camp era who reappears in a 57-message thread from February 2016 to May 2020. Complete at this size.
 
 **REVISED [2026-08-09]:** The identity split hypothesis is wrong. Dan's own message corpus contains a direct childhood reference: "tan calabrese told me that our parents did tons of blow when i was 11 years old" (2000-12-31), which names Tan Calabrese as a childhood friend whose parents overlapped with the drug culture of the same era. The first_contact: 2016-02-12 field reflects the first contact in the specific 2016–2020 CSV export thread, not the true origin of the relationship. Tan Calabrese and Tancredi Calabrese are the same person.
 
@@ -60,3 +62,4 @@ Per Dan's own account, dictated 2026-08-11 while discussing [[wiki/people/rick-f
 Exact date of the Angelfire incident and its position relative to the Windell's trips. Relationship to Dan outside the 2016–2020 window, role in the social graph beyond childhood friend, and current status are all unresolved. No Facebook or other corpus cross-references found.
 
 
+Why incidental: The whole record is a 57-message 2016–2020 thread plus the documented childhood friendship and Angelfire incident, with no Facebook or other corpus cross-references found.

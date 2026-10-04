@@ -1,11 +1,12 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 title: "Timmy"
 status: closed
 knowledge: mixed
 date_created: 2026-06-22
-date_modified: 2026-07-18
+date_modified: 2026-10-04
 sources:
   - raw/legal/bfs-dispute/BFS_BOOTLOADER_v2.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - "raw/self/dox-md/Drawer shortage dispute with assistant manager.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
@@ -31,6 +32,7 @@ connections:
 ---
 
 # Timmy
+> **Incidental entry** — This page records Timmy, an 18–19-year-old Little Caesars employee, and the vape and on-clock gambling episode that established Anita's blame-pivot pattern. Complete at this size.
 
 Timmy was an 18–19-year-old employee of the company-owned Little Caesars
 attached to the BFS gas station in Uniontown, and the subject of the
@@ -84,4 +86,4 @@ discrepancy (valid-scanning ID vs. Anita's "not old enough" framing); his
 status after the ban reversal; whether the vape sales to him continued or
 drew any consequence.
 
-
+Why incidental: The whole record is a single BFS and Little Caesars episode and its blame-pivot sequence, with no surname, no settled post-ban status, and no further appearances in the corpus.
