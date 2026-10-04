@@ -7,7 +7,7 @@ status: stable
 importance: major
 knowledge: earned
 date_created: 2026-09-27
-date_modified: 2026-09-27
+date_modified: 2026-10-04
 date_range: ["2019-02-09", "2025-02-22"]
 tags: [nyc-era, housing, career, relationships, addiction-recovery, music-production]
 sources:
@@ -61,6 +61,9 @@ connections:
     claim: "The era's suboxone mention-volume census — near-silence 2020–2024, loud 2025–2026 — is the corpus's cleanest demonstration of the regimen in its logistics-only shape."
   - page: wiki/interests/music/aliases/gripnotic
     type: contrasts
+  - page: wiki/mind/synthesis/annie-decade-synthesis
+    type: component-of
+    claim: "NYC's second era is a component of the Annie decade: six years of the relationship's last long form inside the 2015-2026, 97,768-message record."
     claim: "GRIPNOTIC was developed in the Uniontown basement years immediately before this era and reactivated after it; the era itself is the producer-dormancy window — the shed absorbed the obsession slot."
 ---
 

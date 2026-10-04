@@ -4,7 +4,7 @@ page_type: synthesis
 knowledge: earned
 status: active
 date_created: 2026-07-15
-date_modified: 2026-08-23
+date_modified: 2026-10-04
 sources:
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - /Volumes/MUSIC/PHASE B RAW/LEVIATHAN_FULL_CORPUS.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -46,6 +46,9 @@ connections:
     claim: "The 41,278-message 2025 total — within 2% of the 2018 peak — gives this period its first precise whole-corpus volume figure, confirming the collapse year matched the deep-cycle year for raw output even as the content shifted from relationship crisis to relationship termination."
   - page: wiki/mind/profile/texting-deviance-audit
     type: parallels
+  - page: wiki/mind/synthesis/read-receipt-forensics
+    type: parallels
+    claim: "Message-circadian-latency parallels read-receipt forensics as the reply-timing counterpart: it measures how fast each side answered across years, where the read-receipt page measures what a date_read timestamp can and cannot establish about wakefulness."
     claim: "Same corpus, orthogonal instrument: this page measures when he writes and how fast the channel turns around, that one measures how much he writes per turn. Both find a 2025-26 inflection, and the length series carries the remediation target — turns of 11-20 words are answered 93.8% against 54.7% above 200 words."
 ---
 

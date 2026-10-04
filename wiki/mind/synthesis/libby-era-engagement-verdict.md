@@ -5,7 +5,7 @@ title: "The Libby-Era Disengagement Claim — Was He Absent While She Worked Two
 knowledge: earned
 status: active
 date_created: 2026-09-14
-date_modified: 2026-09-15
+date_modified: 2026-10-04
 sources:
   - raw/drive-sweep/20260911/gsheets/message-csv/imessages_2124702449_last6months — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/imessage/messages-part1-2011-2019.csv
@@ -23,6 +23,12 @@ connections:
     claim: "The best-documented months of Annie's working life are also the months she later cited as his absence — this page tests the citation against the record."
   - page: wiki/mind/synthesis/dan-annie-fallout-verdict
     type: parallels
+  - page: wiki/mind/synthesis/high-provision-low-condolence
+    type: instantiates
+    claim: "The Libby-era verdict instantiates high-provision-low-condolence: the feeling of low verbal engagement is corroborated and the causal story is not demonstrated, with provision and drafted wage letters running instead of consolation."
+  - page: wiki/mind/synthesis/four-financial-inversions
+    type: evidences
+    claim: "The Libby-era verdict's record evidences the financial inversions' third turn: Annie's 2024 Libby employment, the drafted wage letters, and 137 documented provision messages across the era are the inbound side inversion three is built on."
     claim: "That page finds Annie the primary agent of harm across the decade; this one finds her late disengagement claim unsupported as the master causal story, while corroborating the feeling underneath it."
 ---
 

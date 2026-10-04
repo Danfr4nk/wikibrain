@@ -7,7 +7,7 @@ tier: major
 status: active
 knowledge: mixed
 date_created: 2026-10-03
-date_modified: 2026-10-03
+date_modified: 2026-10-04
 sources:
   - kb/syntheses/operator-threat-model.md
   - kb/data/0044-old-wiki-testimony-ledger.md
@@ -33,6 +33,12 @@ connections:
   - page: wiki/health/suboxone-dose-curve
     type: instantiates
     claim: "The dose curve's null case — one figure and sixteen years of silence — is the threat model's logic applied to a single regimen: non-observation is recorded, not filled."
+  - page: wiki/mind/synthesis/wiki-brain-instrument
+    type: parallels
+    claim: "The wiki-brain instrument is the threat model's subject from the other side: the wiki is the system the model describes, and its publication gate, falsifier discipline, and testimony ledger are the artifacts the model's confident-error instances turned on."
+  - page: wiki/mind/synthesis/evidence-discipline
+    type: instantiates
+    claim: "The operator threat model instantiates evidence discipline by carrying its instrument limit with every claim and stating only what held records show him counting, correcting, gating, and repeating."
 tags: [epistemics, method, corpus-coverage, forensic-analysis]
 importance: 5
 synthesizes:

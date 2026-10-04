@@ -7,7 +7,7 @@ tier: major
 status: active
 knowledge: earned
 date_created: 2026-10-03
-date_modified: 2026-10-03
+date_modified: 2026-10-04
 sources:
   - kb/syntheses/money-and-estate.md
   - kb/syntheses/nyc-years-2010-2025.md
@@ -39,6 +39,12 @@ connections:
   - page: wiki/mind/synthesis/four-financial-inversions
     type: cites
     claim: "The financial-inversions page carries the related reversals of direction and expectation in the money record; this page's direction reversal is the largest single instance."
+  - page: wiki/mind/synthesis/the-curse
+    type: evidenced-by
+    claim: "Money-and-estate's claim that liquidations and transfers do relational work is evidenced by the curse's June 2026 house closing and simultaneous draining of job, supply, and relationship structures."
+  - page: wiki/mind/synthesis/provision-failure-modes
+    type: evidenced-by
+    claim: "Money-and-estate's relational-transaction pattern - advances creating creditors, transfers creating accounts - is evidenced by provision-failure-modes' three channels, where each channel's working money structure turns against itself."
 tags: [money, estate, morgantown, housing, family, forensic-analysis]
 importance: 5
 synthesizes:

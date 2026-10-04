@@ -5,7 +5,7 @@ page_type: synthesis
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - raw/self/captures/2026-08-13_john-paci-staged-eviction-operator-decode.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv
@@ -66,6 +66,12 @@ connections:
     claim: "The voided severance-horizon test (there was never a block; ~25 declarations Aug 15–19, none executed) removes the horizon high-provision-low-condolence named as the provision pattern's live test — the pattern stands, its test does not, and this entry does not re-erect it."
   - { target: "[[wiki/people/fran-coldren]]", type: contextualizes, claim: "The 2020-08-21 distribution order \u2014 $144,069.31 of the Fran estate to Dan, the biography\u2019s largest documented single capital event \u2014 is inversion 1\u2019s funding floor and its dissipation the record of the inversion\u2019s ending." }
   - { target: "[[wiki/mind/synthesis/kristin-channel]]", type: references, claim: "That entry uses this one\u2019s ~$19\u201323K ledger as its explicit comparator for what the $40 prices: five-figure medium of ongoing negotiation versus forty-dollar terminus." }
+  - page: wiki/mind/synthesis/annie-decade-synthesis
+    type: component-of
+    claim: "The four financial inversions are a component of the Annie decade's tenure, showing the decade's money flow inverted repeatedly rather than running one way."
+  - page: wiki/mind/synthesis/libby-era-engagement-verdict
+    type: evidenced-by
+    claim: "The four financial inversions are evidenced by the Libby-era record at their third inversion, where Annie's Libby income is the first documented inbound income on her side of the provider rotation."
   - { target: "[[wiki/people/rod-banks]]", type: documents, claim: "The five estate advances totalling $32,500 (2019-10-12 to 2020-04-17), authorised by Jason Adams and written by Rod Banks, are inversion 1\u2019s dated capital injections." }
 ---
 

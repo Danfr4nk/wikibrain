@@ -7,7 +7,7 @@ tier: major
 status: active
 knowledge: earned
 date_created: 2026-10-03
-date_modified: 2026-10-03
+date_modified: 2026-10-04
 sources:
   - kb/data/0081-explicit-commitment-architecture.md
   - kb/data/0051-estate-advances-both-pages-were-right.md
@@ -36,6 +36,9 @@ connections:
   - page: wiki/people/john-paci
     type: cites
     claim: "The Paci page corroborates the staged eviction at four primary-message points and preserves the agency tension this entry carries into Conflicts."
+  - page: wiki/mind/synthesis/money-and-estate-synthesis
+    type: component-of
+    claim: "Provision-failure-modes is a component of the money-and-estate synthesis: the expanded failure list for the Annie, Ally, and Suz transfer channels whose inflows and drains the money synthesis tracks."
 tags: [financial-stress, attachment, forensic-analysis, relationships]
 importance: 4
 synthesizes:

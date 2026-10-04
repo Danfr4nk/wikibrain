@@ -70,6 +70,18 @@ connections:
     claim: "The Kristin ten weeks are the decade's only documented exception to continuous Annie occupancy that is not itself an Annie re-entanglement — which is why the channel matters out of proportion to its length."
   - page: wiki/self/message-corpora/message-request-blind-spot
     type: gated-by
+  - page: wiki/mind/synthesis/annie-decade-synthesis
+    type: parallels
+    claim: "Kristin-channel's eight-month executed hold is measured against the Annie decade's severance grammar — the same operator running the opposite disposition, instant exit and a held block where the primary channel produced declarations that never enacted."
+  - page: wiki/mind/synthesis/annie-ally-contrast
+    type: parallels
+    claim: "The Kristin channel is the two-protocol frame's third case: a challenge met with instant exit, a federal complaint, and a held block — where the Ally channel's challenge is narrowed and conceded and the Annie channel's is looped through declarations."
+  - page: wiki/mind/synthesis/witness-channel-declarations
+    type: parallels
+    claim: "The Kristin channel parallels witness-channel declarations as the severance record's other half: five messages sat in the message-request folder for seventeen days before Dan re-engaged within the hour, against the Annie 129-declaration, 36-second baseline."
+  - page: wiki/mind/synthesis/severance-declaration-audit
+    type: parallels
+    claim: "The Kristin channel parallels the audited Annie series as its control case, until five August 26 messages in the message-request folder showed the block had been opened from inside within the hour."
     claim: "The measurement doctrine extracted from this case — which zeros in a request-filtered channel are admissible and how to phrase them — lives on the blind-spot page; on measurement questions, that page governs this one."
 ---
 

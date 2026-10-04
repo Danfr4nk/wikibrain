@@ -7,7 +7,7 @@ tier: major
 status: active
 knowledge: earned
 date_created: 2026-10-03
-date_modified: 2026-10-03
+date_modified: 2026-10-04
 sources:
   - kb/syntheses/evidence-discipline.md
   - ARCHITECTURE.md
@@ -32,6 +32,9 @@ connections:
   - page: wiki/mind/synthesis/suboxone-sixteen-years
     type: supports
     claim: "The Suboxone start date is the worked example of provenance kept visible: a date computed by a model from logs, bracketed independently by a 2013 Facebook message, and carried at exactly that strength."
+  - page: wiki/mind/synthesis/operator-threat-model
+    type: operationalized-by
+    claim: "Evidence discipline's rule that confidence must be earned from named, reopenable sources and that conclusions cannot become premises is operationalized by the operator threat model's attention-level-only inventory."
 tags: [meta, epistemics, method, corpus]
 importance: 5
 synthesizes:

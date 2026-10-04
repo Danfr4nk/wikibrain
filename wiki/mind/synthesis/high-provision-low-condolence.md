@@ -35,6 +35,9 @@ connections:
     claim: "Provision-grammar is this rule's per-transfer operationalization: what each transfer says, how the denominations ladder scales it, and how the ledger half differs by channel."
   - page: wiki/mind/synthesis/provision-failure-modes
     type: bounded-by
+  - page: wiki/mind/synthesis/libby-era-engagement-verdict
+    type: evidenced-by
+    claim: "High-provision-low-condolence's 1.79-2.49x instrumental generosity against 0.45x sympathy is evidenced by the Libby era's 137 messages offering food, groceries, money, medicine, and help while day-asking almost never appears in writing."
     claim: "The failure-modes page bounds this rule: it catalogues the transfers where the expected provision move fails, each visible only against this page's base rate of 1.79–2.49x instrumental generosity against 0.45x sympathy."
 ---
 
