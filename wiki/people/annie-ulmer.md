@@ -28,7 +28,7 @@ infobox:
   personality_assessment: "[[wiki/people/annie-ulmer-personality-assessment]]"
 changelog:
   - date: 2026-10-04
-    note: "Full-record signal audit section added (97,925-row thread): Era 1 prospective claim language vs Era 2 zero; the extracted-claims catalog with direct answers (2025-08-11, -23, -27, 2026-04-02, 2026-02-02 completed under pressure) and the one unanswered question (2025-11-28); July 29 'done' cluster re-scoped to the Jerel-disclosure fight on the operator's correction; reset letter and its non-answer; Sammy's summons texts, her first reply ('On my way Sammie'), and the corrected arrival causality (already en route); physical-only status; his second exit text (17:02); weight observation; May 30–31 Unicode-night section (corpus-verified); two dated corrections — exit/relapse re-scoped to post-2025-02-22, and the 2025-09-02 charge flagged uncorroborated by text. date_range_end 2026-10-04."
+    note: "Full-record signal audit section added (97,925-row thread): Era 1 prospective claim language vs Era 2 zero; the extracted-claims catalog with direct answers (2025-08-11, -23, -27, 2026-04-02, 2026-02-02 completed under pressure) and the delayed 2025-11-28 answer ('I am. Not done' at 18:15:49 after the lunch deflection); July 29 'done' cluster re-scoped to the Jerel-disclosure fight on the operator's correction; reset letter and its non-answer; Sammy's summons texts, her first reply ('On my way Sammie'), and the corrected arrival causality (already en route); physical-only status; his second exit text (17:02); weight observation; May 30–31 Unicode-night section (corpus-verified); two dated corrections — exit/relapse re-scoped to post-2025-02-22, and the 2025-09-02 charge flagged uncorroborated by text. date_range_end 2026-10-04."
   - date: 2026-09-21
     note: "iPhone recovery pass: 1,747 new messages Aug 22–Sep 21 — the 'terminal' August 19 framing is withdrawn, the rape retraction is re-opened (Aug 26: 'HE FORCED ME TO SAY IT DIDNT HAPPEN'), clear-my-name specified ('Made you have sex for drugs?'), fifth movement added. date_range_end 2026-09-21."
   - date: 2026-08-23b
@@ -3346,11 +3346,13 @@ direct-answer catalog the operator insisted was in the record is in the
 record: *"I am not fucking done I do not want to be done"* (2025-08-11);
 *"No dan / I am / Not"* (2025-08-23, to his plea for "a yes or no
 answer"); *"No."* (2025-08-27, twenty-four seconds after *"So are you done
-with me or not"*); *"No I am not done"* (2026-04-02). And its
-counter-exhibit: *"ARE YOU DONE WITH US OR NOT"* (2025-11-28) went
-unanswered — she replied, three minutes later, about lunch. The answers
-exist. Every one was extracted, and none survived contact with the next
-day's behavior.
+with me or not"*); *"No I am not done"* (2026-04-02). The apparent counter-exhibit resolves
+the same way: *"ARE YOU DONE WITH US OR NOT"* (2025-11-28 18:04:16) was
+first deflected — *"I’m at lunch right now"* (18:11:07) — but after Dan
+escalated and said at 18:14:31 that he would talk to her later sometime,
+she answered at 18:15:49: *"I am. Not done"* / *"It’s us"* (edited to
+“With us”). The answers exist. Every one was extracted, and none survived
+contact with the next day's behavior.
 
 **The one declarative was aimed elsewhere.** Her single claimed-decision
 cluster in eleven years — *"It’s done"* / *"I am choosing my own peace"* /

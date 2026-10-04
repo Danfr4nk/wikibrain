@@ -1175,8 +1175,10 @@ done"), 2025-08-23 ("No dan / I am / Not"), 2025-08-27 ("No.", 24 seconds
 after "So are you done with me or not"), 2026-02-02 ("I don't want to
 lose you Dan" first — the substitution — then, challenged, "No dan I'm
 not / I do want to be"), 2026-04-02 ("No I am not done") — she answers.
-The counter-example is 2025-11-28: "ARE YOU DONE WITH US OR NOT,"
-followed repeatedly, met with "I'm at lunch right now" and silence.
+Even the apparent counter-example resolves the same way: on 2025-11-28,
+"ARE YOU DONE WITH US OR NOT" was first deflected with "I'm at lunch
+right now," but after Dan escalated and said he would talk to her later
+sometime, she answered at 18:15:49: "I am. Not done" / "It's us."
 Census, eleven years: on her side, answers exist; announcements never
 occur. The declaration count remains zero.
 
