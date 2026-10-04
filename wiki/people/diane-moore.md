@@ -6,7 +6,7 @@ aliases: ["Diane", "Dian", "Dian V. Moore", "Diane Moore", "Rebecca Diane Van Vo
 status: stable
 knowledge: mixed
 date_created: 2026-08-02
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -49,73 +49,13 @@ connections:
     claim: "The exclusion instrument is the family-scale instance of the template: authority exercised through paperwork and a trespassing clause by people who — on Dan's account and Vicki's — did not visit Fran once."
   - { target: "[[wiki/people/vanessa-frank]]", type: references, claim: "Vanessa is Dan's sister — Diane's granddaughter through Suzanne; the two pages hold opposite generational poles of the same maternal line." }
 ---
-
 # Diane Moore (Rebecca Diane Van Voorhis)
 
-Diane is Dan's maternal grandmother, [[wiki/people/suzanne-frank|Suz's]]
-mother, and the only documented child of [[wiki/people/fran-coldren|Fran Coldren]]. She appears in the corpus almost entirely as an antagonist and
-almost entirely at one moment: the spring of 2018, while [[wiki/people/fran-coldren|Fran]] was dying, when
-a letter reached Dan setting rules for his presence in Fran's house, demanding
-the keys, and closing with the sentence *"any violation of the rules will be
-considered trespassing."* Dan's objection to it was never that it
-inconvenienced him. It was that "nothing would have made Fran more upset and
-furious than this."
+Diane — Rebecca Diane Van Voorhis, born January 30, 1939 — is Dan's maternal grandmother: [[wiki/people/suzanne-frank|Suz's]] mother and the only documented child of [[wiki/people/fran-coldren|Fran Coldren]]. The corpus knows her almost entirely through one season. In the spring of 2018, while Fran was dying, an instrument in her name reached Dan setting rules for his presence in Fran's house, demanding the keys, and closing with the sentence *"any violation of the rules will be considered trespassing."* Dan's objection to it was never that it inconvenienced him; it was that "nothing would have made Fran more upset and furious than this." She did not come in to see her mother before she died; she went to Florida, took over Fran's condo, sold it, and kept the profits.
 
-She is also the case that shows how a wiki loses a person while holding her
-records. Until 2026-08-18 this page carried her under an inferred married name
-she is not called anywhere in the corpus, while the message dump named her
-plainly and three other pages carried her second identity as an unexplained
-actor.
+Around that season the record is thin and entirely thirdhand: thirty-five documented years in Michigan (Farmington Hills, 1985–2010; Stanwood, 2013–2020), a demand during the final admission that her 97-year-old mother be sent home with round-the-clock care, and, in 2020, an estate settlement in which she was the feared objector who never objected. She sends and receives no message in the corpus and has no photograph; every word about her is someone else's. Her last mention is from 2020, and whether she is alive is unrecorded.
 
-> **CORRECTED [2026-08-18] — her married name is Moore, and the wiki already**
-> **had it.** This page previously titled her *"Diane (Rebecca Diane Van Voorhis*
-> *Shrum)"* and stated outright that the surname was *"given here as Shrum on*
-> *the strength of the documented marriage rather than a record naming her that*
-> *way."* The message corpus names her twice, on 2018-04-01: **"diane moore**
-> **hasn't been able to be reached by anyone. [[wiki/people/dave-moore|dave]] is 'speaking on her**
-> **behalf'"** and **"the social workers are talking to dave moore about the**
-> **day-to-day stuff."** George Dixon Shrum Jr. is [[wiki/people/suzanne-frank|Suz]]'s father and Diane's
-> *first* husband; she remarried [[wiki/people/dave-moore|Dave Moore]].
->
-> The same correction merges a second entity. `wiki/places/155-virginia-ave`,
-> `wiki/timeline/events/fran-death-vigil` and `wiki/timeline/master-timeline`
-> all record that on 2018-03-29 Dan was served an eviction notice for 155
-> Virginia Avenue **"by Dian V. Moore,"** and the vigil page listed *"Dian V.*
-> *Moore's role/relation to the estate"* as an open gap. That is this
-> grandmother. The wiki held the antagonist under one name and the instrument
-> under another, three pages apart, and asked itself who the second one was.
-
-## The operator's answer
-
-The page's standing gap asked, among other things, who the "grandparents who
-already hated you" were in Dan's account of the earlier keno-morning fall —
-the fear that stopped him overriding [[wiki/people/suzanne-frank|Suz]] and calling an ambulance for eight
-hours. The wiki guessed **Diane and George**. The operator's answer, filed
-2026-08-17, is two words:
-
-> **"Dian and [[wiki/people/dave-moore|Dave]]"**
-
-> **GAP CLOSED [2026-08-18].** The gap, as this page stated it: *"The*
-> *'grandparents who already hated you' that Dan feared during the earlier*
-> *keno-morning fall are presumably Diane and George, but he never names them in*
-> *that passage."* They are **Dian and Dave** — his grandmother and her second
-> husband, not his biological grandfather. The correction matters more than a
-> name swap: the couple Dan feared was the couple that then issued the
-> exclusion instrument, sold the Florida condo, and communicated with the
-> hospital through Dave rather than Diane. It is one adversary throughout, and
-> the earlier fear was a correct forecast of it rather than free-floating
-> family dread.
->
-> The answer also settles the spelling in the family's usage. Suz, her
-> daughter, writes it **without the "e"** and says so explicitly on
-> 2018-03-14: *"Dian...no 'e' is irate and irrational."* The GEDCOM legal
-> record and Dan's own usage both spell it *Diane*, which is why the page
-> keeps the legal form in the title and records *Dian* as the family form.
-> This is corroborated testimony, not testimony alone: the operator's two
-> words agree with a 2016 message, a 2018 message and a 2020 message written
-> years before anyone asked.
-
-## Who she is in the line
+## Background: the line and the thirty-five years away
 
 The 23andMe genealogy export settles a descent the wiki previously had wrong.
 [[wiki/people/fran-coldren|Fran]] married three times; her only recorded child came from the first
@@ -139,31 +79,7 @@ state for most of Dan's childhood. Nothing in the message corpus contradicts or
 confirms either span, and by 2016 she is close enough to be a live threat to
 *"come to town and start accusing everyone of 'abusing' gram."*
 
-> **CORRECTED [2026-08-18]:** this paragraph called Farmington Hills *"the only*
-> *geographic fact the corpus supplies about her adult life."* It had not been
-> the only one since 2026-08-14, when the ancestry rewrite added Stanwood
-> 2013–2020 from the same GEDCOM. The page went four days declaring a scarcity
-> the corpus had already relieved.
->
-> The addition is load-bearing outside this page.
-> [[wiki/mind/synthesis/fayette-return]] argues that everyone in this family
-> ends up within twenty miles of Uniontown; **Diane is the tree's one documented**
-> **departure from the Pennsylvania/West Virginia region with no attested**
-> **return**, and she is still living, so no terminus exists for her at all. She
-> does not falsify that page's rule, which is stated over the paternal Frank
-> line — but she is the sharpest available test of whether the rule describes a
-> lineage or a county, and the two readings have so far made identical
-> predictions. Her eventual terminus is the datum that separates them.
-
-> **CORRECTED [2026-08-02]:** [[wiki/self/lineage/family-tree]] drew Fran's
-> descent through **George Dixon Shrum Jr.**, Dan's maternal *grandfather*.
-> The GEDCOM family records show the opposite: Fran's daughter is Rebecca
-> Diane Van Voorhis, Dan's maternal *grandmother*, and George Shrum Jr. is a
-> Shrum by birth with his own separate parents (G Dixon Shrum and Erma K
-> Shrum). The Whyel/Coldren money and the Whyel middle name descend to Suz
-> through her mother, not her father. The tree page has been corrected.
-
-## The instrument, as the corpus actually records it
+## The exclusion instrument
 
 The wiki's earlier account of the letters came from a 2026 capture, and the
 message corpus corrects it on three points of fact. What follows is the
@@ -181,40 +97,6 @@ contemporaneous record.
 | 04-03 21:32 | *"i think dave wrote it — read the last paragraph. 'any violation of the rules will be considered trespassing' ....so if i violated the rules by not leaving the key i would be trespassing?"* | Dan |
 | 04-03 21:32 | *"lol also if they are writing such professional correspondence why wouldn't Annie get her own letter"* | Dan |
 | 04-04 | [[wiki/people/fran-coldren|Fran]] dies | — |
-
-**Annie never received a letter.** The previous version of this page, and
-[[wiki/timeline/events/fran-death-vigil]], both stated that Dan and Annie
-*"each received a letter."* Dan's own message on the evening of April 3 says
-the opposite in as many words — *why wouldn't Annie get her own letter* — and
-his other message an hour earlier locates her reaction correctly: she was
-upset about **that** letter, the one he received. Both pages are corrected.
-The error had a consequence worth naming: it doubled the apparent scope of the
-exclusion and made it look like a decision about the household when the
-document was addressed to one person.
-
-**Dan believed Dave wrote it.** That is a first-person read of the prose, not
-proof of authorship, and it is the only evidence the corpus offers on the
-question the page has been asking — whether the letter came from Diane alone,
-from her jointly with a husband, or from an attorney. It came out under her
-name and, on the reading of the man who held it, in her husband's voice.
-
-**The timing is tighter than "well before."** The earlier account, from Dan's
-2026 capture, has the letters sent *"well before"* the final hospitalization.
-The contemporaneous record has the eviction notice served **2018-03-29**,
-three days before the April 1 move to the pediatric wing, and the letter being
-read, forwarded and lawyered on **2018-04-03**, the day before Fran died. The
-two accounts are not necessarily in conflict — there may have been an earlier
-visitation instrument that the corpus does not capture — but the document the
-messages describe, with the key demand and the trespassing clause, is a
-terminal-week document. Where they disagree, the messages govern.
-
-> **CONTRADICTION:** Dan's 2026 recollection dates the exclusion to *"well*
-> *before"* the final admission; his own 2018 messages date the operative
-> instrument to the last week of Fran's life. Held rather than resolved: the
-> capture may be describing a separate, earlier letter about supervised
-> visits, and the March 29 / April 3 documents may be the escalation of it.
-> One sentence from the operator distinguishing "the visiting rules letter"
-> from "the eviction notice" would settle it.
 
 ## What it cost, and who was in the room
 
@@ -241,6 +123,12 @@ death, Suz sets the sale against her own labor on Fran's remaining estate:
 got for selling Florida."* The condo is the one asset in the whole estate
 sequence that appears to have moved outside the distribution, and it moved to
 the one heir who did not attend.
+
+
+**The Florida condo's actual disposition.** Dan and [[wiki/people/suzanne-frank|Suz]] both assert Diane
+  sold it and kept the proceeds; no document, price or date is in the corpus,
+  and whether it was hers to sell — Fran's, or already transferred — is
+  unknown.
 
 ## Diane, Suz, and the muzzle
 
@@ -274,6 +162,7 @@ she said something interesting referring to Diane. At the end mostly."* What
 Fran actually said is not in the corpus. It is the single most valuable
 missing sentence on this page.
 
+
 ## The 2020 question, settled
 
 In August 2020, negotiating his $144,069.31 estate distribution, Dan asked the
@@ -304,28 +193,156 @@ opening of the pandemic: *"i hope diane and [[wiki/people/dave-moore|dave]] both
 after simultaneously contracting coronavirus."* Twenty-three months after the
 funeral, still a pair, still present tense.
 
-## Gaps
 
-- **Which document is which.** The corpus shows a March 29 eviction notice and
+What the record still does not contain: whether she attended the May 6, 2018 memorial service at the Uniontown Country Club is unrecorded; whether she is alive — born 1939-01-30, she would be 87 — is likewise unknown, the corpus's last mention of her being from 2020, with nothing since recording a death, an illness, or contact of any kind.
+
+## Conflicts in the record
+
+### 2026-08-18: her married name is Moore
+
+She is also the case that shows how a wiki loses a person while holding her
+records. Until 2026-08-18 this page carried her under an inferred married name
+she is not called anywhere in the corpus, while the message dump named her
+plainly and three other pages carried her second identity as an unexplained
+actor.
+
+> **CORRECTED [2026-08-18] — her married name is Moore, and the wiki already**
+> **had it.** This page previously titled her *"Diane (Rebecca Diane Van Voorhis*
+> *Shrum)"* and stated outright that the surname was *"given here as Shrum on*
+> *the strength of the documented marriage rather than a record naming her that*
+> *way."* The message corpus names her twice, on 2018-04-01: **"diane moore**
+> **hasn't been able to be reached by anyone. [[wiki/people/dave-moore|dave]] is 'speaking on her**
+> **behalf'"** and **"the social workers are talking to dave moore about the**
+> **day-to-day stuff."** George Dixon Shrum Jr. is [[wiki/people/suzanne-frank|Suz]]'s father and Diane's
+> *first* husband; she remarried [[wiki/people/dave-moore|Dave Moore]].
+>
+> The same correction merges a second entity. `wiki/places/155-virginia-ave`,
+> `wiki/timeline/events/fran-death-vigil` and `wiki/timeline/master-timeline`
+> all record that on 2018-03-29 Dan was served an eviction notice for 155
+> Virginia Avenue **"by Dian V. Moore,"** and the vigil page listed *"Dian V.*
+> *Moore's role/relation to the estate"* as an open gap. That is this
+> grandmother. The wiki held the antagonist under one name and the instrument
+> under another, three pages apart, and asked itself who the second one was.
+
+### 2026-08-17: the operator's answer — "Dian and Dave"
+
+The page's standing gap asked, among other things, who the "grandparents who
+already hated you" were in Dan's account of the earlier keno-morning fall —
+the fear that stopped him overriding [[wiki/people/suzanne-frank|Suz]] and calling an ambulance for eight
+hours. The wiki guessed **Diane and George**. The operator's answer, filed
+2026-08-17, is two words:
+
+> **"Dian and [[wiki/people/dave-moore|Dave]]"**
+
+> **GAP CLOSED [2026-08-18].** The gap, as this page stated it: *"The*
+> *'grandparents who already hated you' that Dan feared during the earlier*
+> *keno-morning fall are presumably Diane and George, but he never names them in*
+> *that passage."* They are **Dian and Dave** — his grandmother and her second
+> husband, not his biological grandfather. The correction matters more than a
+> name swap: the couple Dan feared was the couple that then issued the
+> exclusion instrument, sold the Florida condo, and communicated with the
+> hospital through Dave rather than Diane. It is one adversary throughout, and
+> the earlier fear was a correct forecast of it rather than free-floating
+> family dread.
+>
+> The answer also settles the spelling in the family's usage. Suz, her
+> daughter, writes it **without the "e"** and says so explicitly on
+> 2018-03-14: *"Dian...no 'e' is irate and irrational."* The GEDCOM legal
+> record and Dan's own usage both spell it *Diane*, which is why the page
+> keeps the legal form in the title and records *Dian* as the family form.
+> This is corroborated testimony, not testimony alone: the operator's two
+> words agree with a 2016 message, a 2018 message and a 2020 message written
+> years before anyone asked.
+
+### 2026-08-18: the geography was already in the corpus
+
+> **CORRECTED [2026-08-18]:** this paragraph called Farmington Hills *"the only*
+> *geographic fact the corpus supplies about her adult life."* It had not been
+> the only one since 2026-08-14, when the ancestry rewrite added Stanwood
+> 2013–2020 from the same GEDCOM. The page went four days declaring a scarcity
+> the corpus had already relieved.
+>
+> The addition is load-bearing outside this page.
+> [[wiki/mind/synthesis/fayette-return]] argues that everyone in this family
+> ends up within twenty miles of Uniontown; **Diane is the tree's one documented**
+> **departure from the Pennsylvania/West Virginia region with no attested**
+> **return**, and she is still living, so no terminus exists for her at all. She
+> does not falsify that page's rule, which is stated over the paternal Frank
+> line — but she is the sharpest available test of whether the rule describes a
+> lineage or a county, and the two readings have so far made identical
+> predictions. Her eventual terminus is the datum that separates them.
+
+### 2026-08-02: the descent line corrected
+
+> **CORRECTED [2026-08-02]:** [[wiki/self/lineage/family-tree]] drew Fran's
+> descent through **George Dixon Shrum Jr.**, Dan's maternal *grandfather*.
+> The GEDCOM family records show the opposite: Fran's daughter is Rebecca
+> Diane Van Voorhis, Dan's maternal *grandmother*, and George Shrum Jr. is a
+> Shrum by birth with his own separate parents (G Dixon Shrum and Erma K
+> Shrum). The Whyel/Coldren money and the Whyel middle name descend to Suz
+> through her mother, not her father. The tree page has been corrected.
+
+### 2018: the letters — who received what, and when
+
+**Annie never received a letter.** The previous version of this page, and
+[[wiki/timeline/events/fran-death-vigil]], both stated that Dan and Annie
+*"each received a letter."* Dan's own message on the evening of April 3 says
+the opposite in as many words — *why wouldn't Annie get her own letter* — and
+his other message an hour earlier locates her reaction correctly: she was
+upset about **that** letter, the one he received. Both pages are corrected.
+The error had a consequence worth naming: it doubled the apparent scope of the
+exclusion and made it look like a decision about the household when the
+document was addressed to one person.
+
+**The timing is tighter than "well before."** The earlier account, from Dan's
+2026 capture, has the letters sent *"well before"* the final hospitalization.
+The contemporaneous record has the eviction notice served **2018-03-29**,
+three days before the April 1 move to the pediatric wing, and the letter being
+read, forwarded and lawyered on **2018-04-03**, the day before Fran died. The
+two accounts are not necessarily in conflict — there may have been an earlier
+visitation instrument that the corpus does not capture — but the document the
+messages describe, with the key demand and the trespassing clause, is a
+terminal-week document. Where they disagree, the messages govern.
+
+> **CONTRADICTION:** Dan's 2026 recollection dates the exclusion to *"well*
+> *before"* the final admission; his own 2018 messages date the operative
+> instrument to the last week of Fran's life. Held rather than resolved: the
+> capture may be describing a separate, earlier letter about supervised
+> visits, and the March 29 / April 3 documents may be the escalation of it.
+> One sentence from the operator distinguishing "the visiting rules letter"
+> from "the eviction notice" would settle it.
+
+### Who wrote the letter
+
+**Dan believed Dave wrote it.** That is a first-person read of the prose, not
+proof of authorship, and it is the only evidence the corpus offers on the
+question the page has been asking — whether the letter came from Diane alone,
+from her jointly with a husband, or from an attorney. It came out under her
+name and, on the reading of the man who held it, in her husband's voice.
+
+### Unresolved: which document is which
+
+**Which document is which.** The corpus shows a March 29 eviction notice and
   an April 3 letter with a trespassing clause; the 2026 capture describes
   visiting rules sent "well before." Are these one instrument, two, or three?
   The operator held all of them.
-- **What [[wiki/people/fran-coldren|Fran]] said about Diane** on 2017-12-30, in the one lucid conversation
-  Dan managed to get out of her. He recorded that it happened and not what it
-  was.
-- **The Florida condo's actual disposition.** Dan and [[wiki/people/suzanne-frank|Suz]] both assert Diane
-  sold it and kept the proceeds; no document, price or date is in the corpus,
-  and whether it was hers to sell — Fran's, or already transferred — is
-  unknown.
-- **The memorial.** Whether she attended the May 6, 2018 service at the
-  Uniontown Country Club is still unrecorded. Dan's April 1 line — that he
-  would love to speak but *"i don't know if anyone wants a 45 minute roasting
-  of diane and [[wiki/people/dave-moore|dave]]"* — implies he expected them there.
-- **Whether she is alive.** Born 1939-01-30; she would be 87. The corpus's last
-  mention of her is 2020, and nothing since records a death, an illness, or
-  contact of any kind.
-- **Any direct exchange.** She still sends and receives no message in the
-  corpus, has no phone handle and no photograph. Every word about her is
-  someone else's.
 
+## See also
 
+- [[wiki/people/fran-coldren]]
+- [[wiki/people/suzanne-frank]]
+- [[wiki/people/dave-moore]]
+- [[wiki/timeline/events/fran-death-vigil]]
+- [[wiki/mind/synthesis/estate-money-spine]]
+- [[wiki/mind/synthesis/vertical-authority-skepticism]]
+- [[wiki/mind/synthesis/fayette-return]]
+- [[wiki/places/155-virginia-ave]]
+
+## References
+
+- raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/people/captures/2026-08-17_230820_gap-diane-shrum.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/_Photo Thread PT II_ Grand Finale Calibration .md — ⚠ Source reference unresolved — original target no longer exists in current corpus.

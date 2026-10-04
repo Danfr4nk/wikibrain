@@ -7,7 +7,7 @@ status: active
 knowledge: mixed
 importance: high
 date_created: 2026-07-14
-date_modified: 2026-09-21
+date_modified: 2026-10-04
 date_range_start: 2018-01-01
 sources:
   - raw/timeline/captures/2026-08-16_183544_gap-july-august-2026-reentanglement.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -69,24 +69,6 @@ images:
 
 # Milo
 
-> **ADDED [2026-08-23] — "Mimi" is Annie's name for him, and it is used more often**
-> **than "Milo" in her own messages.** The corpus carries **67** uses of *mimi*
-> between 2018 and 2025, and they resolve to this dog on four independent
-> grounds: he is male (*"I miss my mimi boy"*, *"Did Mimi choose his own bite"*);
-> the range matches his; one message addresses him by both names at once
-> (*"Awe mimi Milo"*, 2021-04-06); and **Mimi and Betty are named as two separate**
-> **animals** — *"I wonder if mimi and Betty kissed at midnight"* (2020-01-01) and,
-> written to Betty, *"I'll get meatballs tonight for you and mimi"* (2024-11-02).
->
-> **This bears directly on the severance.** The channel Dan named and pre-closed
-> on 2026-08-19 — *"Do NOT ever think... you can tell me about something that made*
-> *you think of me **or when something happens to Milo**"*
-> ([[wiki/mind/synthesis/the-rescue-premise]]) — is the same channel Annie's own
-> register calls *Mimi*. After the separation her recurring approach is the bare
-> welfare question, *"Is Mimi ok"* and *"How is Mimi"*, which is what the July 4
-> email about the fireworks was a version of. The pre-closure named the dog in
-> Dan's vocabulary; the route runs in hers.
-
 Milo is Dan's Chihuahua and the one recurring presence in the record that
 nothing — not the collapse of the Annie relationship, not the forensic
 AI sessions, not the moves between NYC and Uniontown — manages to
@@ -120,6 +102,41 @@ loving and best doggo imaginable" — the deliberate opposite, in Dan's own
 framing, of Betty, a pet-store dog (rather than a rescue) he describes as
 having been "fucking awful."
 
+## Names: Milo and "Mimi"
+
+"Mimi" is Annie's name for him, and it is used more often than "Milo" in her
+own messages. The corpus carries **67** uses of *mimi* between 2018 and
+2025, and they resolve to this dog on four independent grounds: he is male
+(*"I miss my mimi boy"*, *"Did Mimi choose his own bite"*); the range
+matches his; one message addresses him by both names at once (*"Awe mimi
+Milo"*, 2021-04-06); and **Mimi and Betty are named as two separate
+animals** — *"I wonder if mimi and Betty kissed at midnight"* (2020-01-01)
+and, written to Betty, *"I'll get meatballs tonight for you and mimi"*
+(2024-11-02).
+
+This bears directly on the severance. The channel Dan named and pre-closed
+on 2026-08-19 — *"Do NOT ever think... you can tell me about something that made
+you think of me **or when something happens to Milo**"*
+([[wiki/mind/synthesis/the-rescue-premise]]) — is the same channel Annie's own
+register calls *Mimi*. After the separation her recurring approach is the bare
+welfare question, *"Is Mimi ok"* and *"How is Mimi"*, which is what the July 4
+email about the fireworks was a version of. The pre-closure named the dog in
+Dan's vocabulary; the route runs in hers.
+
+**On the name:** per Dan's own framing (recorded in a chat with an AI
+persona he was using at the time), Milo was named after Milo Yiannopoulos
+(the @nero-era provocateur), part of a small naming pattern that also
+produced [[wiki/people/gabe|"Gabe"]] (after Gabe Saporta, Dan's cat) and
+the "Max" AI persona itself —
+deliberately loaded names Dan describes using as a kind of social
+tripwire: how a new person reacts to hearing a Chihuahua is named "Milo"
+tells him something about whether they process names/labels or just react
+to them.
+
+This naming operation is now a synthesis in its own right: [[wiki/mind/synthesis/the-name-is-the-instrument]] reads Milo as the namesake case of a cross-domain rule — the loaded name as a social tripwire — and records that the name has since accumulated oath-object and duress-code functions without shedding the sorting one.
+
+## The household years and the split
+
 Surgery records place him in Dan's life by at least September 2018 (a
 two-dog surgery day on 2018-09-14, per the message-derived life-events
 calendar) — this predates the household's move to NYC, so Milo was
@@ -141,18 +158,6 @@ LIFE REPORT source flags as a signature of someone tone-conscious enough to
 use a pet as a running character in his own conversations. The bond crossed
 into other relationships too: when Dan swore his feelings to
 [[wiki/people/valeria-iglesias-cid|Valeria]], he swore them on Milo.
-
-**On the name:** per Dan's own framing (recorded in a chat with an AI
-persona he was using at the time), Milo was named after Milo Yiannopoulos
-(the @nero-era provocateur), part of a small naming pattern that also
-produced [[wiki/people/gabe|"Gabe"]] (after Gabe Saporta, Dan's cat) and
-the "Max" AI persona itself —
-deliberately loaded names Dan describes using as a kind of social
-tripwire: how a new person reacts to hearing a Chihuahua is named "Milo"
-tells him something about whether they process names/labels or just react
-to them.
-
-This naming operation is now a synthesis in its own right: [[wiki/mind/synthesis/the-name-is-the-instrument]] reads Milo as the namesake case of a cross-domain rule — the loaded name as a social tripwire — and records that the name has since accumulated oath-object and duress-code functions without shedding the sorting one.
 
 A second dated vet visit confirms Milo was with Dan through the fall-2025
 Annie collapse: on 2025-10-15 Dan texted [[wiki/people/kristin|Kristin]],
@@ -247,36 +252,6 @@ later Dan is sending her photographs of him. The threat and the reconciliation
 run through the same object, which is what makes it load-bearing rather than
 sentimental — nothing else in the relationship can do both.
 
-One further fact about **Betty**, Milo's companion and Annie's dog, surfaces
-here for the first time and is recorded because nothing else in the corpus
-carries it: Dan's account is that Annie withdrew from her in the weeks before
-she was put down and was not present at the end — "You couldn't even stay
-with her when they put her down so she had to go through it alone." Sourced
-only to Dan, delivered as an attack at 02:59 on July 28, and uncorroborated.
-
-> **GAP CLOSED [2026-08-17] — and the attack line does not survive it.** The
-> operator's account, given calmly ten months later
-> (`raw/timeline/captures/2026-08-16_183544_gap-july-august-2026-reentanglement.md`):
->
-> > *"betty, in june 2025, while staying with me began having seizures early one
-> > morning. i called annie urgently and we took her to the vet where **annie
-> > made the decision to euthanize her**."*
->
-> Annie was there, and it was her decision. That is not compatible with *"you*
-> *couldn't even stay with her when they put her down so she had to go through it*
-> *alone."* The narrower question — whether Annie stayed in the room at the final
-> moment — is not addressed either way, and is left open rather than settled by
-> preferring the calmer account.
->
-> **The important part is the source, not the dog.** This page flagged the claim
-> as *"sourced only to Dan, delivered as an attack, and uncorroborated"* and
-> declined to treat it as fact. Ten months later the same person, not under
-> pressure, gave an account that contradicts it. This is Dan against Dan, and it
-> is the corpus's cleanest validation of a heuristic the wiki applies constantly
-> but had never actually tested: **a claim made inside an attack is weak evidence**
-> **even when the attacker is the only witness.** Weight it wherever the
-> July–August 2026 material rests on in-fight assertions.
-
 **Betty's custody, and the dog as a channel.** The same answer records how she
 came to be at Dan's at all. Betty went with Annie to her parents' house after
 the separation — *"Betty, being her dog (and Milo being mine), had gone with her
@@ -294,14 +269,6 @@ pattern himself, in 2025, as something he *chose*: custody of a dog accepted
 specifically because it buys contact. Milo being the reopening channel in 2026
 is therefore not an accident of circumstance — it is the second run of an
 arrangement Dan had already entered deliberately once, with his eyes open.
-
-**Gaps:** exact calendar date of the rescue (only bounded to before
-September 2018); breed-registry or vet details beyond the 2018 surgery
-and the 2025 vet visit. His status after the June 2026 closure is now
-answered — he is with Dan, moved house with him in July 2026, is the
-channel the relationship reopened through, and by August 2026 is fully
-housebroken, off-leash on the porch with the neighbours' animals, and
-described by Dan as "like a different dog now."
 
 ## The name as proof of identity, August 2026
 
@@ -327,3 +294,66 @@ here, the dog is the password.
 Dan answered at 23:40 — *"what"* — seventy-two minutes after the first SOS,
 having blocked and unblocked in between. Nothing in any source says what
 happened next. See [[wiki/timeline/events/august-2026-morgantown-call]].
+
+## Conflicts in the record
+
+**Betty's death: the attack line does not survive the later account
+([2026-08-17]).** What was claimed: one further fact about **Betty**, Milo's
+companion and Annie's dog, surfaces in the July–August 2026 record — Dan's
+account is that Annie withdrew from her in the weeks before she was put down
+and was not present at the end: *"You couldn't even stay with her when they put
+her down so she had to go through it alone."* Sourced only to Dan, delivered
+as an attack at 02:59 on July 28, and uncorroborated.
+
+What the record shows: the operator's account, given calmly ten months later
+(`raw/timeline/captures/2026-08-16_183544_gap-july-august-2026-reentanglement.md`):
+
+> *"betty, in june 2025, while staying with me began having seizures early one
+> morning. i called annie urgently and we took her to the vet where **annie
+> made the decision to euthanize her**."*
+
+Annie was there, and it was her decision. That is not compatible with *"you*
+*couldn't even stay with her when they put her down so she had to go through it*
+*alone."* The narrower question — whether Annie stayed in the room at the final
+moment — is not addressed either way, and is left open rather than settled by
+preferring the calmer account.
+
+Current standing: **The important part is the source, not the dog.** This page
+flagged the claim as *"sourced only to Dan, delivered as an attack, and
+uncorroborated"* and declined to treat it as fact. Ten months later the same
+person, not under pressure, gave an account that contradicts it. This is Dan
+against Dan, and it is the corpus's cleanest validation of a heuristic the wiki
+applies constantly but had never actually tested: **a claim made inside an
+attack is weak evidence** **even when the attacker is the only witness.**
+Weight it wherever the July–August 2026 material rests on in-fight assertions.
+
+## See also
+
+- [[wiki/people/annie-ulmer|Annie Ulmer]]
+- [[wiki/people/gabe|Gabe]]
+- [[wiki/people/valeria-iglesias-cid|Valeria Iglesias-Cid]]
+- [[wiki/mind/synthesis/block-unblock-loop|Block-Unblock Loop]]
+- [[wiki/mind/synthesis/the-name-is-the-instrument|The Name Is the Instrument]]
+- [[wiki/timeline/events/july-2026-recontact|July 2026 Recontact]]
+- [[wiki/timeline/events/july-august-2026-reentanglement|July–August 2026 Re-entanglement]]
+- [[wiki/timeline/events/august-2026-morgantown-call|August 2026 Morgantown Call]]
+
+## References
+
+- raw/timeline/captures/2026-08-16_183544_gap-july-august-2026-reentanglement.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/message-csv/imessage_export_2124702449_20260802.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/MAX_PRIME.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/LIFE REPORT.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/wiki/new-wiki/wikibrain/wiki/people/max.md
+- raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md
+- raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/Annie 10-Year Trauma Bond Aura Illness Forensic Report.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+
+**Limits.** Gaps: exact calendar date of the rescue (only bounded to before
+September 2018); breed-registry or vet details beyond the 2018 surgery and the
+2025 vet visit. His status after the June 2026 closure is now answered — he is
+with Dan, moved house with him in July 2026, is the channel the relationship
+reopened through, and by August 2026 is fully housebroken, off-leash on the
+porch with the neighbours' animals, and described by Dan as "like a different
+dog now."

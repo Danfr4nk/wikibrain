@@ -6,7 +6,7 @@ aliases: ["affective vocabulary", "the insult lexicon", "the pretty-words", "the
 status: active
 knowledge: mixed
 date_created: 2026-08-26
-date_modified: 2026-08-27
+date_modified: 2026-10-04
 sources:
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 synthesizes: []
@@ -25,25 +25,50 @@ connections:
     type: mirrors
     claim: "The 'pretty' list's 80–100 band — 'this level of attractiveness has become a regulatory problem' — is the same impulse as chaos-preference: imposed calm is distrusted, so even praise is engineered to sound dangerous rather than safe."
 ---
-
 # The Vocabulary Lexicon
 
-Two curated vocabularies, generated in a single session on 2026-08-26 from a
-standing instruction to produce compact terms "tuned toward demonstrated
-taste: elevated, slightly archaic, ethereal, dangerous, excessive,
-weirdly formal — not just 'beautiful ×100.'" The output was not a flat list
-but two graded axes, each sorted by *mechanism* rather than synonymy. The
-person running the session selected the accepted terms from a larger
-machine-generated pool; the selections, not the pool, are the record here.
+On 2026-08-26, in a single session, Dan commissioned two curated vocabularies: a hundred terms for "pretty / beautiful" and an accepted set of terms for "stupid," generated from a standing instruction to produce compact terms "tuned toward demonstrated taste: elevated, slightly archaic, ethereal, dangerous, excessive, weirdly formal — not just 'beautiful ×100.'" The lists were not flat synonym dumps. Each axis came out sorted by *mechanism* rather than meaning, and the person running the session selected the accepted terms from a larger machine-generated pool; the selections, not the pool, are the record here.
 
-This page is `knowledge: mixed` — a curated record plus the reasoning laid
-over it. It documents a deliberate vocabulary exercise, not a behavioral
-claim. It is filed under `interests/language`
-because its subject is word-choice as a taste signal, and it is linked from
-[[wiki/mind/concepts/the-cool-metric]] as a concrete instance of that page's
-master filter applied to language. It does not assert that these words are
-used in the corpus; it records that they were *selected* as pleasing, which
-is a different and smaller claim.
+The same session then turned on its own output. An analyst reading of the curator's picks argued that the taste underneath both lists runs on one template — praise and insult alike escalate by importing a register that does not belong, until attractiveness is described as a regulatory problem and stupidity as a crime scene. This page keeps both layers: the two vocabularies as produced, and the session's own analysis of what the selections show, marked as interpretation rather than finding.
+
+## The claim
+
+The same 2026-08-26 session that produced the two vocab batches also
+generated a second-order reading of the curator's *positive* slang taste —
+not the curated lists above, but the analyst's inference about the aesthetic
+hiding inside the curator's word-picks. This section records that reading
+**as a documented analyst interpretation**, attributed to the session, not
+as an established wiki finding. It is the most analytically developed
+material the session produced and is preserved in full for later
+integration.
+
+The analyst's central claim: the curator's preferred positive slang does not
+say "good." It says *"this is so good that the normal vocabulary for 'good'
+has become inadequate, so I'm going to describe it as a dangerous /
+pathological / catastrophic event."* The nine picks the curator had made
+were read as "weirdly coherent" around a single hidden aesthetic.
+
+The analyst resolved the apparent outliers — `dialed` and `cracked` — as
+**competence metaphors**, not violations, and placed them on the same axis:
+
+- `dialed` → precision, calibration, optimization
+- `cracked` → operating at an abnormal level of performance
+- `lethal` → dangerous effectiveness
+- `nuclear` → overwhelming destructive force
+- `feral` → civilized constraints removed
+- `diabolical` → intelligent maliciousness
+- `obscene` → violating an expected boundary
+- `generational` → historically exceptional
+- `stupid` → absurdly excessive to the point of irrationality
+
+> The underlying template is something like:
+> **EXCEPTIONALITY + VIOLATION.**
+> Something isn't merely excellent. It's performing outside the permitted
+> parameters of reality.
+
+The analyst's contrast example: *"My Discover Weekly is fire"* feels dead
+because it is "merely positive"; *"My Discover Weekly is diabolical"* implies
+Spotify has committed an act of musical malfeasance — "much better."
 
 ## Axis A — "pretty / beautiful" (100 terms)
 
@@ -171,6 +196,7 @@ Note the duplicates that survived selection uncorrected: `Regal` (43, 45),
 them; the list is a *selected pool*, not a deduplicated thesaurus, and the
 repetitions are part of the record.
 
+
 ## Axis B — "stupid" (accepted terms, mechanism-clustered)
 
 This axis was produced and then **selected** from a larger pool. The accepted
@@ -235,62 +261,8 @@ small stupidity"** — formally a compliment in shape, semantically a verdict.
 
 - 48 — offered, not selected; recorded as excluded per the curator's note.
 
-## What this is and is not
 
-- **Is:** a record of two vocabulary batches, the selection decisions, and the
-  curator's own structural readings of them.
-- **Is not:** a claim that these words appear in the corpus, a personality
-  assessment, or evidence about behavior. The link to
-  [[wiki/mind/concepts/the-cool-metric]] is offered as *illustrative* — the
-  grading-by-mechanism on the "stupid" axis resembles that page's
-  performed-versus-authentic sort — not as a derived finding.
-- **Gap:** the full machine-generated pools (pre-selection) are not preserved
-  here; only the accepted terms and the one excluded item (48) survive. A
-  later pass could recover the pools from the session transcript if the
-  pre-selection distribution matters.
-
----
-
-# Analyst profile (2026-08-26 session)
-
-The same 2026-08-26 session that produced the two vocab batches also
-generated a second-order reading of the curator's *positive* slang taste —
-not the curated lists above, but the analyst's inference about the aesthetic
-hiding inside the curator's word-picks. This section records that reading
-**as a documented analyst interpretation**, attributed to the session, not
-as an established wiki finding. It is the most analytically developed
-material the session produced and is preserved in full for later
-integration.
-
-## The underlying template: EXCEPTIONALITY + VIOLATION
-
-The analyst's central claim: the curator's preferred positive slang does not
-say "good." It says *"this is so good that the normal vocabulary for 'good'
-has become inadequate, so I'm going to describe it as a dangerous /
-pathological / catastrophic event."* The nine picks the curator had made
-were read as "weirdly coherent" around a single hidden aesthetic.
-
-The analyst resolved the apparent outliers — `dialed` and `cracked` — as
-**competence metaphors**, not violations, and placed them on the same axis:
-
-- `dialed` → precision, calibration, optimization
-- `cracked` → operating at an abnormal level of performance
-- `lethal` → dangerous effectiveness
-- `nuclear` → overwhelming destructive force
-- `feral` → civilized constraints removed
-- `diabolical` → intelligent maliciousness
-- `obscene` → violating an expected boundary
-- `generational` → historically exceptional
-- `stupid` → absurdly excessive to the point of irrationality
-
-> The underlying template is something like:
-> **EXCEPTIONALITY + VIOLATION.**
-> Something isn't merely excellent. It's performing outside the permitted
-> parameters of reality.
-
-The analyst's contrast example: *"My Discover Weekly is fire"* feels dead
-because it is "merely positive"; *"My Discover Weekly is diabolical"* implies
-Spotify has committed an act of musical malfeasance — "much better."
+## The mechanism
 
 ## The strongest signal: misclassification
 
@@ -306,6 +278,7 @@ describing something good.
   impressed" — *"This shit is stupid"* means *this shit is so
   disproportionately good that I'm not even going to dignify it with an
   adjective.* A particular comedic mechanism: semantic refusal.
+
 
 ## Slang taxonomy — five families
 
@@ -326,6 +299,7 @@ The analyst divided the taste into five families:
    illegal · criminal* — "probably your richest vein"; the thing is so good
    it has crossed a line.
 
+
 ## Semantic axis profile
 
 The analyst scored the curator's taste on a fixed set of axes:
@@ -345,6 +319,7 @@ The analyst scored the curator's taste on a fixed set of axes:
 | Corporate/influencer energy | Fuck no |
 | Forced youth slang | Fuck no |
 
+
 ## Predicted anti-preferences (the opposite-pole test)
 
 The analyst argued the opposite-pole test is *better* than asking the
@@ -357,11 +332,13 @@ Predicted disliked / lukewarm (too semantically direct — they tell you
 · `peak` · `immaculate` · `elite` · `iconic` · `unreal` · `heavenly` ·
 `exquisite` · `beautiful` · `sublime` · `magical` · `amazing` · `incredible`
 
+
 ## The proposed slang taste function
 
 > Goodness × absurdity × danger × semantic wrongness × understatement
 
 "the higher the product, the more likely you're going to like the word."
+
 
 ## Unexplored hunting zone (analyst's forward bet)
 
@@ -371,7 +348,10 @@ e.g. *"My Discover Weekly is [felonious]"*, *"This shit is [pathological]"*,
 *"This is [demonic]"*, *"This shit is [industrial]."* Some predicted misses,
 but "the mechanism is exactly right."
 
-## The Slang Taste Battery™ V1 (instrument, administered 2026-08-26)
+
+## The instrument
+
+### The Slang Taste Battery™ V1 (instrument, administered 2026-08-26)
 
 The session closed by proposing a psychometric instrument. It is recorded
 here as a designed-but-unadministered tool; no responses were supplied in the
@@ -433,7 +413,12 @@ A. Military ("weaponized") · B. Criminal ("felonious") · C. Medical
 ("cosmically fucked"). The analyst flagged Part V as potentially more
 diagnostic than 100 adjectives.
 
-## Full cross-cutting analysis
+
+## Interpretation and limits
+
+This page is `knowledge: mixed` — a curated record plus the reasoning laid over it. It documents a deliberate vocabulary exercise, not a behavioral claim. It is filed under `interests/language` because its subject is word-choice as a taste signal, and it is linked from [[wiki/mind/concepts/the-cool-metric]] as a concrete instance of that page's master filter applied to language. It does not assert that these words are used in the corpus; it records that they were *selected* as pleasing, which is a different and smaller claim.
+
+### Full cross-cutting analysis
 
 Read against the two curated batches above (Axis A "pretty," Axis B
 "stupid"), the analyst profile, and the Battery, three structures repeat
@@ -479,3 +464,32 @@ strongest candidate for promotion to a derived finding and the obvious next
 operation.
 
 
+
+
+### What this is and is not
+
+- **Is:** a record of two vocabulary batches, the selection decisions, and the
+  curator's own structural readings of them.
+- **Is not:** a claim that these words appear in the corpus, a personality
+  assessment, or evidence about behavior. The link to
+  [[wiki/mind/concepts/the-cool-metric]] is offered as *illustrative* — the
+  grading-by-mechanism on the "stupid" axis resembles that page's
+  performed-versus-authentic sort — not as a derived finding.
+- **Gap:** the full machine-generated pools (pre-selection) are not preserved
+  here; only the accepted terms and the one excluded item (48) survive. A
+  later pass could recover the pools from the session transcript if the
+  pre-selection distribution matters.
+
+---
+
+
+## See also
+
+- [[wiki/mind/concepts/the-cool-metric]]
+- [[wiki/mind/synthesis/the-commissioned-self]]
+- [[wiki/mind/profile/linguistic-profile]]
+- [[wiki/mind/concepts/chaos-preference]]
+
+## References
+
+- raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.

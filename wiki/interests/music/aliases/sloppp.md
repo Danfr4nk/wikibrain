@@ -4,7 +4,7 @@ page_type: entity
 title: "SLOPPP"
 status: closed
 date_created: 2026-06-22
-date_modified: 2026-09-04
+date_modified: 2026-10-04
 date_range_start: 2013-01-01
 date_range_end: 2016-03-07
 sources:
@@ -68,18 +68,38 @@ the earliest confirmation that it is architectural, not a later style
 choice. Browser history corroborates the arc: production-related search
 peaks in exactly 2014 (113 hits), the SLOPPP high-water mark.
 
-> **The close date is a release date, not a retirement date [2026-09-02].**
-> `date_range_end` was 2015-12-26 — the last SLOPPP release. The tweet
-> archive carries the alias three months further as a *promotion*: on
-> **7 March 2016** Dan posted
-> `soundcloud.com/sloppp/juicy-j-hella-bandz-sloppp-bootleg` to a
-> correspondent, and on **16 March 2015** "SLOPPP SUMMER TRAP MICROMIX #3".
-> The March 2016 link points at existing catalogue rather than new output,
-> so it does not extend the discography — but it is the last time the name
-> appears in public under Dan's own hand, and it is the **last public post**
-> **of his own music of any kind until the MOGZART revival of 4 March 2026**,
-> ten years later. See [[wiki/interests/music/overview]] for that gap
-> measured across the whole archive.
+It ran out of Uniontown in the Harlem Shake year — trap saturating
+festival culture, SoundCloud ascending as the producer hub, bootleg
+culture peaking — and it peaked in 2014, when SLOPPP was releasing
+roughly monthly, running a weekly mix series, entering a Beatport
+contest and soliciting collaborations, before winding down through
+2015.
+
+## History
+
+The alias emerges in mid-2013, after the first NYC period (2010–2013, the
+studio-work era) ended and Dan returned to Uniontown with engineering
+skills but no settled artist identity. Its context is the Harlem Shake
+year: trap saturating festival culture, SoundCloud ascending as the
+producer hub, bootleg culture peaking. The Twitter record frames the
+December 2013 rework burst as "reclaiming producer identity amid 2013's
+trap saturation" — the "Loc'd Out Rethinks" positioned as differentiation
+from the era's ubiquitous sounds, with the year closed by "Wrapped up for
+2013. Head to my soundcloud for mega turn up."
+
+2014 was the peak: the "Week in Trap" weekly mix series ran at least eight
+episodes, the Beatport-styled VIP remixes and festival-trap edits chased
+the year's mainstream (Caked Up, Major Lazer, GTA-era bounce), and the
+"Heatwave" and skiing-joke mix titles show the register — irreverent,
+in-joke-heavy, promotion-averse. The same year carries the first two of
+the alias's three documented attempts to convert it into a live
+booking: Zach's January 2014 pitch to a Pittsburgh rave-scene contact
+(see [[wiki/people/zachariah-harshman]]), and a direct outreach Dan
+sent himself on July 6, 2014 to Pittsburgh DJ **Phil Lacher** ("I asked
+some friends about getting DJ slots in and around Pittsburgh. They all
+pointed me your way... I spin a lot of trap, deep house") — Lacher
+referred him to a third contact, Brandon Hooven, with no further trace
+of a booking resulting from either lead.
 
 ## The twitter archive roughly triples the documented 2013 output
 
@@ -208,14 +228,6 @@ Gaps section listed as unaccounted for.
 | Sep 26, 2014 | $øΩR DRøP$ ∆N∂ LøLLIPøPZ (Sour Drops and Lollipops) | Original |
 | Nov 15, 2014 | TRAP TV 1 — live mix, streamed on Ustream, posted to YouTube | Live video |
 
-> **GAP CLOSED [2026-09-02]:** the gap, as this page stated it — *"episodes*
-> *1–7 of 'Week in Trap' and any 'Heatwave Vol. 1' are unaccounted for."*
-> **Heatwave Vol. 1** is dated: announced 13 May 2014 (*"First hour of my*
-> *summer mix series will release tonight"*) and live the next day (*"Heatwave*
-> *Vol 1 is live streaming and downloadable on my #soundcloud now! 1 hour"*).
-> **Week in Trap Episode 3** is 21 February 2014. Episodes 1, 2 and 4–7
-> remain unaccounted for, so the gap narrows rather than closes entirely.
-
 **On the date discrepancies, which are not errors.** Where a release appears
 in both tables the days differ — Buffalo is Apr 22 on Facebook and announced
 27 April on Twitter; Aerosol Can is Apr 15 there and in Beatport contest
@@ -280,32 +292,6 @@ than pattern-matched — see `skills/corpus/vocabulary-drift.md`. A keyword
 count over this year would have returned a production share and no sense at
 all of whether the activity was a hobby or an operation.
 
-## History
-
-The alias emerges in mid-2013, after the first NYC period (2010–2013, the
-studio-work era) ended and Dan returned to Uniontown with engineering
-skills but no settled artist identity. Its context is the Harlem Shake
-year: trap saturating festival culture, SoundCloud ascending as the
-producer hub, bootleg culture peaking. The Twitter record frames the
-December 2013 rework burst as "reclaiming producer identity amid 2013's
-trap saturation" — the "Loc'd Out Rethinks" positioned as differentiation
-from the era's ubiquitous sounds, with the year closed by "Wrapped up for
-2013. Head to my soundcloud for mega turn up."
-
-2014 was the peak: the "Week in Trap" weekly mix series ran at least eight
-episodes, the Beatport-styled VIP remixes and festival-trap edits chased
-the year's mainstream (Caked Up, Major Lazer, GTA-era bounce), and the
-"Heatwave" and skiing-joke mix titles show the register — irreverent,
-in-joke-heavy, promotion-averse. The same year carries the first two of
-the alias's three documented attempts to convert it into a live
-booking: Zach's January 2014 pitch to a Pittsburgh rave-scene contact
-(see [[wiki/people/zachariah-harshman]]), and a direct outreach Dan
-sent himself on July 6, 2014 to Pittsburgh DJ **Phil Lacher** ("I asked
-some friends about getting DJ slots in and around Pittsburgh. They all
-pointed me your way... I spin a lot of trap, deep house") — Lacher
-referred him to a third contact, Brandon Hooven, with no further trace
-of a booking resulting from either lead.
-
 ## The near-management deal (March 2015)
 
 The most serious of the three attempts came closest to landing. On
@@ -360,4 +346,50 @@ Swaney management deal never materialized (or whether it quietly did, off
 the message record) is undocumented; "Joby," the third party who was to
 finalize terms with Dan's parents, is otherwise unidentified in the corpus.
 
+## Conflicts in the record
 
+**2026-09-02 — the close date is a release date, not a retirement date.**
+
+> **The close date is a release date, not a retirement date [2026-09-02].**
+> `date_range_end` was 2015-12-26 — the last SLOPPP release. The tweet
+> archive carries the alias three months further as a *promotion*: on
+> **7 March 2016** Dan posted
+> `soundcloud.com/sloppp/juicy-j-hella-bandz-sloppp-bootleg` to a
+> correspondent, and on **16 March 2015** "SLOPPP SUMMER TRAP MICROMIX #3".
+> The March 2016 link points at existing catalogue rather than new output,
+> so it does not extend the discography — but it is the last time the name
+> appears in public under Dan's own hand, and it is the **last public post**
+> **of his own music of any kind until the MOGZART revival of 4 March 2026**,
+> ten years later. See [[wiki/interests/music/overview]] for that gap
+> measured across the whole archive.
+
+**2026-09-02 — the Week in Trap / Heatwave gap, narrowed.**
+
+> **GAP CLOSED [2026-09-02]:** the gap, as this page stated it — *"episodes*
+> *1–7 of 'Week in Trap' and any 'Heatwave Vol. 1' are unaccounted for."*
+> **Heatwave Vol. 1** is dated: announced 13 May 2014 (*"First hour of my*
+> *summer mix series will release tonight"*) and live the next day (*"Heatwave*
+> *Vol 1 is live streaming and downloadable on my #soundcloud now! 1 hour"*).
+> **Week in Trap Episode 3** is 21 February 2014. Episodes 1, 2 and 4–7
+> remain unaccounted for, so the gap narrows rather than closes entirely.
+
+## See also
+
+- [[wiki/interests/music/overview]]
+- [[wiki/interests/music/aliases/mogzart]]
+- [[wiki/interests/music/aliases/mogged-up]]
+- [[wiki/interests/music/concepts/sub-bass-signature]]
+- [[wiki/mind/concepts/lyric-qualifier]]
+- [[wiki/self/facebook]]
+- [[wiki/self/twitter]]
+
+## References
+
+- raw/twitter/archive.jsonl
+- raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-scan/FULL TWITTER ANALYSIS.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-scan/browser_history_analysis.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/facebook/facebook-ihatedanfrank/messages/inbox/phillacher_gukgsjnnvw/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/facebook/facebook-ihatedanfrank/messages/inbox/frankswaney_jcxhv7sesw/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.

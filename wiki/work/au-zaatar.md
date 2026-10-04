@@ -4,7 +4,7 @@ page_type: event
 title: "Au Za'atar (NYC, ~2021–2024)"
 status: closed
 date_created: 2026-07-13
-date_modified: 2026-09-14
+date_modified: 2026-10-04
 sources:
   - raw/sammy/20260914-0630/chats.json
   - raw/location/Records.json
@@ -75,35 +75,21 @@ Dan's main employment through the second NYC period: **41 months, March
 2021 to August 2024**, hired as a busser with zero food-service experience
 and a bank account at zero, talking his way into the veterans' equal tip
 split from day one. It is his second-most-visited named location in his
-entire GPS record (**712 visits** — full-dump recount, 2026-09-14; the
-earlier 445 count came from a thinner semantic-db parse) after his 307 E
-76th St apartment (1,082), and the longest job of his adult life. For most of his
-tenure the restaurant operated out of a plywood COVID-era **"Shed"** on the
-58th Street sidewalk while the interior stood as a construction shell — a
-low-oversight sovereign territory where Dan ran his "9pm night class"
-alibi — the fullest documented instance of
+entire GPS record (**712 visits**) after his 307 E 76th St apartment
+(1,082), and the longest job of his adult life.
+
+For most of his tenure the restaurant operated out of a plywood COVID-era
+**"Shed"** on the 58th Street sidewalk while the interior stood as a
+construction shell — a low-oversight sovereign territory where Dan ran his
+"9pm night class" alibi — the fullest documented instance of
 [[wiki/mind/concepts/institutional-out|the institutional-out protocol]] —
 for over a year to secure peak hours and tip splits, took sidewalk
 deliveries from his Dominican contact Menore through taxi windows, and
 eventually made himself the "Outside Guy": sole custodian of the dying
 shed section and its cash tips. The job ended in August 2024 when the
-city-mandated shed tear-down erased the territory. The DanAnnie dossier
-amendments add the mechanics and the verdict: the employer cut his hours
-through June–August 2024 in a pattern Dan read in real time as maneuvering
-to force a quit and dodge unemployment obligations ("lowering my hours so
-much that it's not even worth staying," Aug 6 2024); he dropped resumes
-from July 9 onward, filed for unemployment on August 8, and the loss is
-ruled **involuntary** (Amendment 2, ACCEPTED) — the fact that reframes
-Annie's late-2024 "you never work" grievances as locally valid but
-historically partial. What followed is only lightly documented: a
-separate AI-collaborative session (see
-[[wiki/health/hyperreflexivity]]), dated by internal reference to
-roughly mid-2025, has Dan noting he'd been "working for the first time
-since june 2024 for the last 2 weeks" and about to hit a full 40-hour
-week — nearly eleven months unemployed before returning to paid work,
-at an employer the corpus doesn't name.
+city-mandated shed tear-down erased the territory.
 
-## The founding (Part 1 of the STORYTIME)
+## The founding
 
 Early 2021: two years into NYC round two, "the money just ran out," and Dan
 — wanting to keep funding the daily Dominican supply line — charmed owner
@@ -148,10 +134,8 @@ bond had a specific genesis: Dan describes shedding an admitted prejudice
 about Mexicans by offering bumps to the cooks and bringing in (stolen)
 Takis — "turns out i fucking LOVE mexicans" — friendships he reports
 keeping to this day. Felipe, his "unbelievably gay Colombian bff," joined
-as a server (shattering the old glass door with a table leg on day one) —
-though per Dan directly (2026-07-14), contact with Felipe specifically
-did not survive past the job; see [[wiki/people/felipe]] for the
-correction. [[wiki/people/suzanne-frank|Suz]] visited for Dan's birthday
+as a server (shattering the old glass door with a table leg on day one).
+[[wiki/people/suzanne-frank|Suz]] visited for Dan's birthday
 (November 2021) and the owners comped the whole menu — "typical lebanese
 hospitality." Around them, the documented
 cast: [[wiki/people/manuel|Manuel]], a coworker whose thread opens with an October shift-swap; **Sergio**, a 53-year-old Miami service veteran whose war with Dan
@@ -175,6 +159,13 @@ blue painter's tape still covering the counters while service ran, the
 building's transition never quite complete even at its completion. The
 video record from this era also preserves Dan's twenty-plate balancing
 carry, the physical skill the busser years trained into him.
+
+**On pay:** confirmed by Dan directly (2026-07-14) — base wage was
+$15/hour plus tip pool, with checks (paid weekly, Sundays) typically
+$800–1,000 for a six-day week. Unusually for the industry, the tip pool
+was split equally between servers and bussers rather than weighted toward
+servers — consistent with the "equal FOH tip split" already documented as
+the structural hook that made the job worth staying in.
 
 ## The middle years: de facto manager, Thanksgiving 2023, the factions
 
@@ -218,38 +209,79 @@ Class" alibi doubled as a shield during the
 Za'atar host-stand hostess — which the post-mortem
 tags as the period's "CORE ANOMALY."
 
-### REVISED (2026-09-14): GPS re-analysis raises the count to 712 visits
+## After Au Za'atar
 
-The raw-layer teardown (121,733 pings, Records.json, 2014–2024) recounts
+What followed the August 2024 end is only lightly documented: a separate
+AI-collaborative session (see [[wiki/health/hyperreflexivity]]), dated by
+internal reference to roughly mid-2025, has Dan noting he'd been "working
+for the first time since june 2024 for the last 2 weeks" and about to hit a
+full 40-hour week — nearly eleven months unemployed before returning to
+paid work, at an employer the corpus doesn't name.
+
+## Conflicts in the record
+
+**The exit was involuntary (DanAnnie dossier amendments; Amendment 2,
+ACCEPTED).** The DanAnnie dossier amendments add the mechanics and the
+verdict: the employer cut his hours through June–August 2024 in a pattern
+Dan read in real time as maneuvering to force a quit and dodge
+unemployment obligations ("lowering my hours so much that it's not even
+worth staying," Aug 6 2024); he dropped resumes from July 9 onward, filed
+for unemployment on August 8, and the loss is ruled **involuntary**
+(Amendment 2, ACCEPTED) — the fact that reframes Annie's late-2024 "you
+never work" grievances as locally valid but historically partial.
+
+**[2026-07-13] Location and start month corrected.** DANSYNTH ingest
+corrected the location (Au Za'atar **Midtown, 58th & 1st** — not the East
+Village flagship), fixed the start month (March 2021), and supplied the
+ending (August 2024 shed shutdown). Second correction, refined same day by
+the Part 1 STORYTIME: Annie worked as hostess at Au Za'atar's **original
+East Village** **location** — Dan got her the job a month after he started
+(~April 2021). Her later zero-notice firing was from that separate location
+("the restaurants ran totally differently and with different people"), not
+from the Midtown shed.
+
+**[2026-07-14] The Sergio-mediation mediator is confirmed.** Dan's own
+follow-up in the same session names Ghassan as running most of the
+sit-down, with Tarik joining toward the end. It was not Dimitri. The same
+follow-up clarifies the Tunisian manager was uninvolved in the Sergio
+incident specifically ("he and i were kinda chill by then") and that
+Sergio himself was a short-tenured hire who "came through and left
+quickly" rather than a lasting cast member.
+
+**Felipe: contact did not survive the job (per Dan directly, 2026-07-14).**
+Per Dan directly (2026-07-14), contact with Felipe specifically did not
+survive past the job; see [[wiki/people/felipe]] for the correction.
+
+**[2026-09-14] GPS re-analysis raises the count to 712 visits.** The
+raw-layer teardown (121,733 pings, Records.json, 2014–2024) recounts
 **712 visits at 1063 1st Ave, July 2021 → March 2024** — the restaurant's
-shift pattern independently timestamped for 33 months:
+shift pattern independently timestamped for 33 months. The earlier 445
+count came from a thinner semantic-db parse.
 
 - Arrivals: 14:00 (340) / 15:00 (275) — the 2–3pm arrival he narrates is confirmed.
 - Departures: 21:00 (262) / 22:00 (131) — first cut at 9–10pm, dinner shift.
 - Median visit **6.2 hours**; **Mondays dark** (16 visits vs 99–127 every other day).
 - Bounds the record enforces: first *recorded* visit is **2021-07-20**, not March — the 298.9-day data blackout (2020-09-24 → 2021-07-20) covers his claimed March 2021 start and is a device change, not low mobility. Last recorded visit **2024-03-31**; the August 2024 end is outside the data's range (nothing exists after 2024-05-14).
 
-### The Mercer relabeling (2026-09-14)
+**[2026-09-14] The Mercer relabeling.** During his October 2023
+timeline-curation spree, Dan took 16 of these dinner shifts and relabeled
+them himself as **WORK at 112 Mercer St, SoHo** — 32 labels (each appearing
+twice in Timeline-Edits.json), the entirety of his WORK-label set; he never
+hand-labeled the true Au Za'atar place as WORK at all. The relabel was
+caught and resolved against the sensor layer: **400+ GPS pings** across the
+16 labeled windows all cluster at 1st Ave with zero near Mercer; each
+label's timestamps match the semantic-layer visit already labeled "Au
+Za'atar – Midtown East" down to the millisecond; and 112 Mercer was
+Frankies Bikinis (swimwear retail) in 2022–23, with the corpus containing
+zero mentions of Mercer or SoHo, ever. Standing rule from this catch:
+**Timeline hand-labels are user assertions, Records.json is sensor ground
+truth — when they conflict, the pings win.** The raw pings underneath are
+clean; only his hand labels are compromised. The assistant's hypothesis (a
+data-integrity stress test of the label system, then testing the delete
+path when he wiped his entire Timeline on Oct 20, 2023 — the last Mercer
+edit is Oct 19) is unconfirmed; he has never claimed it.
 
-During his October 2023 timeline-curation spree, Dan took 16 of these
-dinner shifts and relabeled them himself as **WORK at 112 Mercer St,
-SoHo** — 32 labels (each appearing twice in Timeline-Edits.json), the
-entirety of his WORK-label set; he never hand-labeled the true Au Za'atar
-place as WORK at all. The relabel was caught and resolved against the
-sensor layer: **400+ GPS pings** across the 16 labeled windows all cluster
-at 1st Ave with zero near Mercer; each label's timestamps match the
-semantic-layer visit already labeled "Au Za'atar – Midtown East" down to
-the millisecond; and 112 Mercer was Frankies Bikinis (swimwear retail) in
-2022–23, with the corpus containing zero mentions of Mercer or SoHo,
-ever. Standing rule from this catch: **Timeline hand-labels are user
-assertions, Records.json is sensor ground truth — when they conflict, the
-pings win.** The raw pings underneath are clean; only his hand labels are
-compromised. The assistant's hypothesis (a data-integrity stress test of
-the label system, then testing the delete path when he wiped his entire
-Timeline on Oct 20, 2023 — the last Mercer edit is Oct 19) is unconfirmed;
-he has never claimed it.
-
-## Why the page matters
+## Assessment
 
 **It is also the corpus's proof that a job never held Dan — a payload inside
 one did.** Forty-one months is the longest assigned commitment in the record
@@ -288,42 +320,43 @@ sidewalk tables died first — "also the city made places tear down sheds
 for winter, so that was that." The city mandate finished off a territory
 the finished interior had already made obsolete.
 
-**On pay:** confirmed by Dan directly (2026-07-14) — base wage was
-$15/hour plus tip pool, with checks (paid weekly, Sundays) typically
-$800–1,000 for a six-day week. Unusually for the industry, the tip pool
-was split equally between servers and bussers rather than weighted toward
-servers — consistent with the "equal FOH tip split" already documented as
-the structural hook that made the job worth staying in.
+## See also
 
-**Gaps:** his final role title (busser → server, informally); the
+- [[wiki/people/tarik-fallous|Tarik Fallous]]
+- [[wiki/people/dimitri|Dimitri]]
+- [[wiki/people/ismaila-barry|Ismaila Barry]]
+- [[wiki/people/valeria-iglesias-cid|Valeria Iglesias-Cid]]
+- [[wiki/people/annie-ulmer|Annie Ulmer]]
+- [[wiki/timeline/periods/2021-2023-employment-block|2021–2023 employment block]]
+- [[wiki/mind/synthesis/the-embedded-objective|The Embedded Objective]]
+- [[wiki/work/bfs-foods|BFS Foods]]
+
+## References
+
+- raw/sammy/20260914-0630/chats.json
+- raw/location/Records.json
+- raw/location/Timeline-Edits.json
+- raw/self/message-csv/imessage_19178259183_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dansynth/StorytimeAuZaatarAnalysis.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dansynth/TheWaitersVisibleHigh.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dansynth/AuZaatarsFinalShift.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dansynth/FromSidewalkShedtoAnalyticalProwess.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/Gemini-_00.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/Gemini-_02.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dansynth/dansynth-scrape-phases-2-7.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-scan/DanAnnie_TenYears_WithAmendments.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/Breaking the anxiety avoidance cycle.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+
+**Limits.** Gaps: his final role title (busser → server, informally); the
 Tunisian manager's name. The STORYTIME/DANSYNTH record is stylized
-self-narration through Gemini and should be read as memoir, not
-deposition. **Media collection gap:** the era's video/photo artifacts
-cited in the storytime sessions — the hidden-camera basement hug
-(`65A14E3A….mov`), the Central Park kiss (`69597826….mov`), the finished
-interior with the DEENBOR robot (`IMG_0978.mp4`), the flooded basement
-(`IMG_8225.MOV`), the "outside bread" interrogation (`BDBAEDEC….mp4`),
-the shed exterior (`IMG_7152.MOV`), the twenty-plate carry
-(`IMG_8393.mov`), and the Dimitri+DJ portrait (`IMG_5318.HEIC`) — exist
-only as uploads inside the Gemini sessions; none are on disk in `raw/`.
-Locating the originals is an open collection task.
-
-> **REVISED [2026-07-14]:** the Sergio-mediation mediator is confirmed —
-> Dan's own follow-up in the same session names Ghassan as running most of
-> the sit-down, with Tarik joining toward the end. It was not Dimitri. The
-> same follow-up clarifies the Tunisian manager was uninvolved in the
-> Sergio incident specifically ("he and i were kinda chill by then") and
-> that Sergio himself was a short-tenured hire who "came through and left
-> quickly" rather than a lasting cast member.
-
-> **REVISED [2026-07-13]:** DANSYNTH ingest corrected the location (Au
-> Za'atar **Midtown, 58th & 1st** — not the East Village flagship), fixed
-> the start month (March 2021), and supplied the ending (August 2024 shed
-> shutdown). Second correction, refined same day by the Part 1 STORYTIME:
-> Annie worked as hostess at Au Za'atar's **original East Village**
-> **location** — Dan got her the job a month after he started (~April 2021).
-> Her later zero-notice firing was from that separate location ("the
-> restaurants ran totally differently and with different people"), not
-> from the Midtown shed.
-
-
+self-narration through Gemini and should be read as memoir, not deposition.
+**Media collection gap:** the era's video/photo artifacts cited in the
+storytime sessions — the hidden-camera basement hug (`65A14E3A….mov`), the
+Central Park kiss (`69597826….mov`), the finished interior with the DEENBOR
+robot (`IMG_0978.mp4`), the flooded basement (`IMG_8225.MOV`), the "outside
+bread" interrogation (`BDBAEDEC….mp4`), the shed exterior (`IMG_7152.MOV`),
+the twenty-plate carry (`IMG_8393.mov`), and the Dimitri+DJ portrait
+(`IMG_5318.HEIC`) — exist only as uploads inside the Gemini sessions; none
+are on disk in `raw/`. Locating the originals is an open collection task.

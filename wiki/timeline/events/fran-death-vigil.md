@@ -6,16 +6,16 @@ status: stable
 importance: high
 knowledge: mixed
 date_created: 2026-07-13
-date_modified: 2026-08-26
+date_modified: 2026-10-04
 sources:
   - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dansynth/dansynth-scrape-phases-2-7.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
-  - "raw/self/dox-md/_Photo Thread PT II_ Grand Finale Calibration .md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - raw/self/dox-md/_Photo Thread PT II_ Grand Finale Calibration .md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/luciedobbin_xdu6oa5apw/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+  - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/luciedobbin_xdu6oa5apw/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
   - wiki/people/fran-coldren
   - wiki/people/annie-ulmer
@@ -234,29 +234,6 @@ They attended anyway, off the roster, and were the two in the room at the
 end. Dan's own note on being left out is four words long: "I wasn't really
 complaining."
 
-> **CORRECTED [2026-08-18] — Annie received no letter, and the date is
-> the terminal week.** This paragraph read: *"Dan and Annie each received
-> a letter… It had been sent before the final admission rather than in
-> response to it."* Dan's contemporaneous messages of 2018-04-03 say
-> otherwise on both counts. On the recipient: *"lol also if they are
-> writing such professional correspondence why wouldn't **Annie get her
-> own letter**"* — one letter, addressed to him; Annie was upset about
-> *that* one. On the date: the eviction notice demanding the keys was
-> served **2018-03-29** and the letter was being read, forwarded and
-> lawyered on **2018-04-03**, the day before Fran died — not "well
-> before." The "well before" framing came from a 2026 capture; where a
-> 2026 recollection and a 2018 message disagree about 2018, the message
-> governs. Whether an earlier visiting-rules letter also existed is held
-> open at [[wiki/people/diane-moore]].
->
-> The same pass identified the letter's probable author and closed a gap
-> this page was carrying separately. Dan's read on the night of April 3
-> was *"i think **dave** wrote it"* — [[wiki/people/dave-moore|Dave > Moore]], Diane's second husband, who two days earlier had been
-> "speaking on her behalf" to the hospital's social workers while she
-> could not be reached. And the "Dian V. Moore" who served the March 29
-> eviction notice, listed in this page's own Gaps as an unidentified
-> actor, is Diane herself.
-
 **The end (April 4).** The wider family — the relatives Dan's telling
 calls "these fucking shitheads" — "did not come to visit her ONE. TIME."
 The bedside belonged to the rotation. Fran died with Dan and Annie
@@ -292,6 +269,23 @@ A memorial celebration followed at the Uniontown Country Club, May 6,
 2018, 12–4 PM — deliberately framed, per Dan's invitation to Lucie, as
 "a happy occasion and something that gram would have approved of,"
 rather than a conventional funeral.
+
+### Open questions and media ledger
+
+**Gaps:** exact date of the first spill (~late 2017?, inferred from
+"a few more months" plus the rotation's December 2017 start); the
+nursing home's name; whether the eviction was executed (Dan remained at
+[[wiki/places/155-virginia-ave|155 Virginia]] until Feb 2019 per the residence timeline); whether the March
+29 eviction notice, the April 3 letter and the visiting-rules letter Dan
+recalls in 2026 are one document, two or three. **Closed 2026-08-18:**
+"Dian V. Moore" is [[wiki/people/diane-moore|Diane]] herself, and the
+letter's probable author is [[wiki/people/dave-moore|Dave Moore]].
+**Media ledger (not on disk):** `IMG_0569.MOV`
+(the 4 PM hoisting), `IMG_4361.MOV` (last conversation), `IMG_4637.mov`
+(Suz's April 2 visit), `1080p.mov` (post-death snow), `IMG_4647.jpg`
+(eviction notice), and a "97 Years Young" audio recording of Fran exist
+only as uploads inside the Gemini sessions; locating the originals is an
+open collection task.
 
 ## Why it matters
 
@@ -339,6 +333,10 @@ in the same corpus produced none, and required an external severance signal
 after ten years ([[wiki/mind/concepts/attachment-model]]) rather than
 anything resembling this page's April 2 and April 6 statements.
 
+## Conflicts in the record
+
+**2026-07-18 — two falls fused; April 1 vs April 4 death date.**
+
 > **REVISED [2026-07-18] (two corrections from the primary Photo Thread**
 > **PT II session + caregiver threads):** (1) Earlier versions of this page
 > fused **two separate falls** into one — the filmed 8:00 AM
@@ -352,6 +350,8 @@ anything resembling this page's April 2 and April 6 statements.
 > the nite," 7:23 AM April 4) established. DANSYNTH's April 1 death date
 > conflated admission with death.
 
+**2026-08-02 — the vape story's ending, recovered.**
+
 > **GAP CLOSED [2026-08-02] — it was a fire alarm.** This page had carried
 > "the punchline of the SMOK-vs-10W vape story (set up in the session,
 > delivered only in an uploaded video — fire alarm? staff incident?)" as an
@@ -360,19 +360,49 @@ anything resembling this page's April 2 and April 6 statements.
 > with charging documents written. See
 > [[wiki/timeline/events/uniontown-hospital-vape-alarm]].
 
-**Gaps:** exact date of the first spill (~late 2017?, inferred from
-"a few more months" plus the rotation's December 2017 start); the
-nursing home's name; whether the eviction was executed (Dan remained at
-[[wiki/places/155-virginia-ave|155 Virginia]] until Feb 2019 per the residence timeline); whether the March
-29 eviction notice, the April 3 letter and the visiting-rules letter Dan
-recalls in 2026 are one document, two or three. **Closed 2026-08-18:**
-"Dian V. Moore" is [[wiki/people/diane-moore|Diane]] herself, and the
-letter's probable author is [[wiki/people/dave-moore|Dave Moore]].
-**Media ledger (not on disk):** `IMG_0569.MOV`
-(the 4 PM hoisting), `IMG_4361.MOV` (last conversation), `IMG_4637.mov`
-(Suz's April 2 visit), `1080p.mov` (post-death snow), `IMG_4647.jpg`
-(eviction notice), and a "97 Years Young" audio recording of Fran exist
-only as uploads inside the Gemini sessions; locating the originals is an
-open collection task.
+**2026-08-18 — the exclusion letter: one recipient, terminal week, probable author.**
 
+> **CORRECTED [2026-08-18] — Annie received no letter, and the date is
+> the terminal week.** This paragraph read: *"Dan and Annie each received
+> a letter… It had been sent before the final admission rather than in
+> response to it."* Dan's contemporaneous messages of 2018-04-03 say
+> otherwise on both counts. On the recipient: *"lol also if they are
+> writing such professional correspondence why wouldn't **Annie get her
+> own letter**"* — one letter, addressed to him; Annie was upset about
+> *that* one. On the date: the eviction notice demanding the keys was
+> served **2018-03-29** and the letter was being read, forwarded and
+> lawyered on **2018-04-03**, the day before Fran died — not "well
+> before." The "well before" framing came from a 2026 capture; where a
+> 2026 recollection and a 2018 message disagree about 2018, the message
+> governs. Whether an earlier visiting-rules letter also existed is held
+> open at [[wiki/people/diane-moore]].
+>
+> The same pass identified the letter's probable author and closed a gap
+> this page was carrying separately. Dan's read on the night of April 3
+> was *"i think **dave** wrote it"* — [[wiki/people/dave-moore|Dave Moore]], Diane's second husband, who two days earlier had been
+> "speaking on her behalf" to the hospital's social workers while she
+> could not be reached. And the "Dian V. Moore" who served the March 29
+> eviction notice, listed in this page's own Gaps as an unidentified
+> actor, is Diane herself.
 
+## See also
+
+- [[wiki/people/fran-coldren]]
+- [[wiki/people/annie-ulmer]]
+- [[wiki/people/suzanne-frank]]
+- [[wiki/places/117-belmont-circle]]
+- [[wiki/places/155-virginia-ave]]
+- [[wiki/people/marla]]
+- [[wiki/people/vicki]]
+- [[wiki/people/new-jim-shaffer]]
+
+## References
+
+- raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dansynth/dansynth-scrape-phases-2-7.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/_Photo Thread PT II_ Grand Finale Calibration .md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/facebook/facebook-ihatedanfrank/messages/inbox/luciedobbin_xdu6oa5apw/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.

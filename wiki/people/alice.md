@@ -7,7 +7,7 @@ status: active
 knowledge: earned
 importance: normal
 date_created: 2026-08-23
-date_modified: 2026-09-22
+date_modified: 2026-10-04
 date_range_start: 2023-10-28
 date_range_end: 2026-08-25
 tags: [family, relationships, uniontown-era]
@@ -40,15 +40,11 @@ husband [[wiki/people/garrett|Garrett Gates]], and the younger sister of
 and the center of the largest sustained unpaid commitment anywhere in Annie's
 documented life.
 
-She matters to this wiki for two reasons that have nothing to do with her. The
-first is archival: [[wiki/people/claire-ulmer]] recorded, since it was written,
-that *"Claire has children — an unnamed niece and nephew."* They are named here,
-and as of 2026-09-22 they are surnamed — Gates, supplied by Dan, the one fact
-the corpus never contained. The second is human, and it is the real subject of
-this page: for three years, through the collapse of the relationship at the
-center of this wiki and past its supposed end, Annie kept showing up for this child — haircuts, school runs, dance classes, bedtimes, sick days — and
-narrated it all to Dan in real time, which is why the record of it is unusually
-dense and unusually tender.
+For three years, through the collapse of the relationship at the center of
+this wiki and past its supposed end, Annie kept showing up for this child —
+haircuts, school runs, dance classes, bedtimes, sick days — and narrated it
+all to Dan in real time, which is why the record of it is unusually dense and
+unusually tender.
 
 One fact of geography governs the whole record. Annie lived in New York
 City until February 2025; Alice and Otto grew up in Pennsylvania. Every sighting
@@ -57,6 +53,25 @@ a July meltdown held through — not daily life. The intensive childcare of 2025
 is what her return made possible, and the velocity of the mentions is the
 proof: once she is back in Pennsylvania, the children enter the record at a
 pace visits never produced.
+
+## Early life and age
+
+Two dated details fix Alice's age, and a third corroborates. On **2025-06-19**
+Annie writes *"I missed the first four years of Alice's fucking life"* — a
+reference to the NYC years — placing her birth around **2019–2020**
+(confidence: medium-high; it is a retrospective round number, but everything
+else fits). On **2025-10-19** Annie goes to *"Alice's party"* — a birthday
+party, ten days before Otto's late-October birthday, which puts Alice's
+birthday in **mid-October** (confidence: medium; it could be a school party,
+but the timing against Otto's known birthday party ten days later reads as a
+sibling birthday pair). By March 2025 she is in school with a class, a teacher,
+and a building that closes for repairs; in August 2026 she starts a new school
+year (*"to hear about Alice's first day"*). A fall-2019 birth makes her six
+starting first grade in August 2026 — the inference holds together (confidence:
+high on the year, medium on the month). The exact birth date remains inferred
+as October **2019** (confidence: medium-high on the year, medium on the month)
+from the 2025-06-19 line plus the 2025-10-19 birthday party and the August
+2026 school start. A birthday message would fix it.
 
 ## The aunt-niece bond
 
@@ -100,64 +115,12 @@ Annie texts Dan: *"Dan I swear on Alice and Otto. My most favorite tiny
 humans."* She swears on them. They are the oath she reaches for.
 
 **And it did not stop when the relationship did.** The recovered iPhone
-messages — the ones that killed the "terminally ended" framing — show the
-childcare running straight through August 2026: *"Bc I gotta watch Alice. I
-gotta hurry"* (2026-08-24), *"I gotta cut Alice's hair now"* the same evening,
-*"I told you I am busy Alice will not sit still."* The next day she is heading
-to Claire's *"to hear about Alice's first day"* — first day of school, landing
-exactly where the birth inference said it would. Whatever else ended in August
-2026, aunt Annie did not.
-
-## What it establishes about Annie
-
-The clearest statement is 2025-03-31, in a message listing everything that had
-gone wrong in one day:
-
-> *"I woke up feeling shitty. My mouth STILL hurts. It's been exactly one week.
-> Then you started getting mad at me. Then I got the letter I was denied
-> unemployment. Then the kids came over. And Claire wanted me to cut Alice's
-> hair. (Which of course I wasn't paid for) she even jokingly said 'should we
-> tip annie?' And then laughed."*
-
-The same message contains *"I got the letter I was denied unemployment"* — the
-only record in the corpus of Annie applying for unemployment, dating her income
-collapse to **March 2025**. Read together with the [[wiki/people/libby]] page,
-Annie's 2024–25 economics take a shape the wiki had not had: paid caring work
-for a stranger in 2024, unpaid caring work for family in 2025, nothing else in
-between. And the unpaid part is not unremarked — *"But I guess if I do end up
-watching Alice tomorrow I could make some money. Hopefully"* (2025-03-17) is
-the one place she says the quiet part out loud.
-
-Almost nothing else in the corpus records Annie doing something for another
-person, repeatedly, over years, with no audience. The other instance is Libby.
-This is the largest sustained commitment in her documented life, and she is the
-one who named it unpaid, on the record, laughing through it.
-
-There is a second, harder edge. The childcare also strained the relationship
-with Dan. On 2025-06-14 the bedtime message ends *"…I’m sorry I not perfect and
-I am sorry for making you miserable and being so shitty. I love you and I
-miss"* — an apology folded into a message about Alice not falling asleep. On
-2025-05-02 Dan writes the sharpest single line in the corpus about how separate
-the two families stayed: *"alice wouldn't be so unfamiliar with my name that
-she literally can't understand what you're saying when you use it."* He had,
-on this evidence, never met her. The children were the center of Annie's weeks
-and a stranger to Dan's life — both things true at once.
-
-## Age
-
-Two dated details fix it, and a third corroborates. On **2025-06-19** Annie
-writes *"I missed the first four years of Alice's fucking life"* — a reference
-to the NYC years — placing her birth around **2019–2020** (confidence:
-medium-high; it is a retrospective round number, but everything else fits). On
-**2025-10-19** Annie goes to *"Alice's party"* — a birthday party, ten days
-before Otto's late-October birthday, which puts Alice's birthday in
-**mid-October** (confidence: medium; it could be a school party, but the timing
-against Otto's known birthday party ten days later reads as a sibling birthday
-pair). By March 2025 she is in school with a class, a teacher, and a building
-that closes for repairs; in August 2026 she starts a new school year (*"to hear
-about Alice's first day"*). A fall-2019 birth makes her six starting first
-grade in August 2026 — the inference holds together (confidence: high on the
-year, medium on the month).
+messages show the childcare running straight through August 2026: *"Bc I gotta
+watch Alice. I gotta hurry"* (2026-08-24), *"I gotta cut Alice's hair now"* the
+same evening, *"I told you I am busy Alice will not sit still."* The next day
+she is heading to Claire's *"to hear about Alice's first day"* — first day of
+school, landing exactly where the birth inference said it would. Whatever else
+ended in August 2026, aunt Annie did not.
 
 ## Complete log
 
@@ -251,29 +214,78 @@ I gotta watch Alice. I gotta hurry"; "I gotta cut Alice's hair now"; "I told
 you I am busy Alice will not sit still." **2026-08-25** — "Bc I'm about to go
 to Claire's house to hear about Alice's first day."
 
-## The Wednesday-alibi speculation, tested and rejected
+## Conflicts in the record
 
-[[wiki/people/claire-ulmer]] carried a flagged reading from an AI-authored
-dossier: that Wednesday visits to help with Claire's kids functioned as a
-recurring alibi pattern during the relationship's suspicious period. Tested
-against the full message dump, it fails — Wednesday is the *least* likely day
-for Alice mentions (6.1% against a 15.1% corpus baseline) and well below
-baseline for Claire (9.7%), whose mentions concentrate on Friday and Saturday.
-The reading is retired, not merely unverified; the falsifier is recorded on
-[[wiki/people/claire-ulmer]]. This rules out one proposed mechanism on one axis,
-and nothing more — the [[wiki/timeline/events/eli-incident|Eli]] record is
-untouched.
+**The "unnamed niece and nephew," named (recorded 2026-09-22).** What was
+claimed: [[wiki/people/claire-ulmer]] recorded, since it was written, that
+*"Claire has children — an unnamed niece and nephew."* What the record shows:
+they are named across 2023–2026, and as of 2026-09-22 they are surnamed —
+Gates, supplied by Dan, the one fact the corpus never contained. Current
+standing: Alice Gates and Otto Gates, with a third child, Waylon, appearing
+twice.
 
-## Gaps
+**The Wednesday-alibi speculation, tested and rejected (previously flagged on
+[[wiki/people/claire-ulmer]]).** [[wiki/people/claire-ulmer]] carried a flagged
+reading from an AI-authored dossier: that Wednesday visits to help with
+Claire's kids functioned as a recurring alibi pattern during the relationship's
+suspicious period. Tested against the full message dump, it fails — Wednesday
+is the *least* likely day for Alice mentions (6.1% against a 15.1% corpus
+baseline) and well below baseline for Claire (9.7%), whose mentions concentrate
+on Friday and Saturday. The reading is retired, not merely unverified; the
+falsifier is recorded on [[wiki/people/claire-ulmer]]. This rules out one
+proposed mechanism on one axis, and nothing more — the
+[[wiki/timeline/events/eli-incident|Eli]] record is untouched.
 
-1. **Surname.** Resolved 2026-09-22 by Dan: **Gates** — Alice Gates, daughter of
-   Claire Ulmer-Gates and Garrett Gates. The corpus never contained it.
-2. **Exact birth date.** Inferred as October **2019** (confidence: medium-high
-   on the year, medium on the month) from "I missed the first four years of
-   Alice's fucking life" (2025-06-19) plus the 2025-10-19 birthday party and the
-   August 2026 school start. A birthday message would fix it.
-3. **Whether Dan ever met her.** Dan's 2025-05-02 line — *"alice wouldn't be so
-   unfamiliar with my name that she literally can't understand what you're saying
-   when you use it"* — reads as evidence he had not, and is the sharpest single
-   line in the corpus about how separate the two families stayed. Not established
-   either way.
+## Assessment
+
+The clearest statement is 2025-03-31, in a message listing everything that had
+gone wrong in one day:
+
+> *"I woke up feeling shitty. My mouth STILL hurts. It's been exactly one week.
+> Then you started getting mad at me. Then I got the letter I was denied
+> unemployment. Then the kids came over. And Claire wanted me to cut Alice's
+> hair. (Which of course I wasn't paid for) she even jokingly said 'should we
+> tip annie?' And then laughed."*
+
+The same message contains *"I got the letter I was denied unemployment"* — the
+only record in the corpus of Annie applying for unemployment, dating her income
+collapse to **March 2025**. Read together with the [[wiki/people/libby]] page,
+Annie's 2024–25 economics take a shape the wiki had not had: paid caring work
+for a stranger in 2024, unpaid caring work for family in 2025, nothing else in
+between. And the unpaid part is not unremarked — *"But I guess if I do end up
+watching Alice tomorrow I could make some money. Hopefully"* (2025-03-17) is
+the one place she says the quiet part out loud.
+
+Almost nothing else in the corpus records Annie doing something for another
+person, repeatedly, over years, with no audience. The other instance is Libby.
+This is the largest sustained commitment in her documented life, and she is the
+one who named it unpaid, on the record, laughing through it.
+
+There is a second, harder edge. The childcare also strained the relationship
+with Dan. On 2025-06-14 the bedtime message ends *"…I’m sorry I not perfect and
+I am sorry for making you miserable and being so shitty. I love you and I
+miss"* — an apology folded into a message about Alice not falling asleep. On
+2025-05-02 Dan writes the sharpest single line in the corpus about how separate
+the two families stayed: *"alice wouldn't be so unfamiliar with my name that
+she literally can't understand what you're saying when you use it."* He had,
+on this evidence, never met her. The children were the center of Annie's weeks
+and a stranger to Dan's life — both things true at once.
+
+## See also
+
+- [[wiki/people/annie-ulmer|Annie Ulmer]]
+- [[wiki/people/claire-ulmer|Claire Ulmer-Gates]]
+- [[wiki/people/otto|Otto Gates]]
+- [[wiki/people/libby|Libby]]
+
+## References
+
+- raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/message-csv/imessage_2124702449_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/imessage/messages-iphone-union-gapfill-20260921.csv
+
+**Limits.** Whether Dan ever met Alice: Dan's 2025-05-02 line — *"alice
+wouldn't be so unfamiliar with my name that she literally can't understand what
+you're saying when you use it"* — reads as evidence he had not, and is the
+sharpest single line in the corpus about how separate the two families stayed.
+Not established either way.

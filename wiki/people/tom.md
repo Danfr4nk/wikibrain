@@ -4,7 +4,7 @@ page_type: entity
 title: "Tom Maison"
 status: active
 date_created: 2026-06-22
-date_modified: 2026-08-26
+date_modified: 2026-10-04
 sources: ["raw/self/dox-scan/dan tom 2010 2022.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/message-csv/imessage_ALL_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/tom_kristin_master_dossier.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md", "raw/self/dox-scan/DanAnnie_CompleteRecord_Final.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/Cash register shortage explanation.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/_Deconstructing a Chaotic 24 Hours .md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/MAX_PRIME.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 tags: [addiction-recovery, dui, ai-collaboration, relationships, mental-health]
 infobox:
@@ -67,18 +67,19 @@ connections:
     claim: "This page is the resolution to a question MAX_PRIME.md (April 2026) flagged as [UNRESOLVED]: whether the drug-supply contact at +17249987341 and the platonic anchor 'Tom Maison' named in session memory were the same person. One page, one number, one role — they are."
   - { target: "[[wiki/mind/synthesis/the-curse]]", type: documents, claim: "The May 2026 no-show is the curse's Case 3 structure-3 failure — the friendship/supply collapse." }
 ---
-
 # Tom
 
-## Identity
+Tom Maison has been Dan's closest male friend since about 2010: a peer about three weeks older than Dan, based in the Pittsburgh area with Ohiopyle excursions a recurring shared setting, and — through most of the record — the one relationship in the corpus that did not trigger Dan's forensic mode. The two exchanged more than 5,700 messages across two handles between 2010 and May 30, 2026. In the same friendship Tom was also Dan's supply line — Suboxone strips, mushrooms, cocaine, klonopin — and the two roles, anchor and supplier, were never separable in practice.
+
+The record runs the full arc. It holds the loyalty gestures (a replacement car battery bought for Suz unprompted, supply delivered at a loss during a crisis), the technical collaboration (Tom evangelizing agentic AI, Dan talking him through a suicidal crisis on March 31, 2026), and then the spring 2026 collapse, in which compounding supply failures — missed windows, silences while deliveries were owed, a May 15–16 no-show that put Dan's job at risk — burned through the goodwill the friendship ran on. The last dated message, May 30, 2026, has Dan threatening to take a disputed $36 debt to Tom's father Phil. Whether the friendship recovered after that date is not documented.
+
+## Background and role
 
 Tom Maison — Dan's primary male ally and, for most of the corpus, the clearest instance of safe, lateral (peer, non-paternal) attachment in the record — the positive-case exhibit for [[wiki/mind/synthesis/vertical-authority-skepticism|the lateral-trusted, vertical-suspect split]] that structures Dan's relationship to authority generally. He is also the "Tom" of the October 2024 incident referenced on [[wiki/people/annie-ulmer]]: a participant, alongside Dan and Annie, in the couple's established quasi-non-monogamous arrangement (2018–2024) — the dossiers' final assessment revises that encounter from apparent coercion to exhaustion-within-an-established-consensual-framework, with Tom as one of the recurring participants Dan selected specifically because he was a friend he could manage the aftermath with; full arrangement context at [[wiki/mind/psychosexual/arrangement-history]]. About three weeks older than Dan, based in the Pittsburgh area, with Ohiopyle excursions a recurring shared setting. He functions simultaneously as anchor and supply line (Suboxone, mushrooms, [[wiki/health/cocaine|cocaine]], klonopin), and was described, through most of the record, as "the one place Dan is not performing." The friendship dates to roughly 2010. Handle +17249987341 (~4,160 messages in the master dump; a further ~1,600 under phloxenheim@gmail.com). Tom is also the connective tissue to [[wiki/people/kristin]], whose intense late-2025 thread runs through his social circle.
 
-**The characterization above no longer holds without qualification.** The final months of the message record (March–May 2026) document the friendship's collapse under exactly the supply-line strain the "anchor" framing depended on. See "The Collapse (Spring 2026)" below.
-
 The Tom/Kristin dossier characterizes Tom as an irony-poisoned stoic — a pragmatic "narco-logistician" who stays unflappable through Dan's suicide threats and withdrawals, offering validation without judgment or any push toward rehab. In the Gemini-_18 profile transfer he is framed as "primary peer collaborator… core close friend and external peer collaborator" engaged in recurring creative and technical dialogue — the role designated as social-graph redundancy after the Annie closure.
 
-## Corpus Dimensions
+### Corpus Dimensions
 
 | Metric | Value |
 |--------|-------|
@@ -87,7 +88,10 @@ The Tom/Kristin dossier characterizes Tom as an irony-poisoned stoic — a pragm
 | Date range | Documented friendship 2010–May 30 2026 (last dated message) |
 | Peak periods | 2017–2018 (supply during the poverty floor), 2025 Annie collapse, spring 2026 (own collapse — see below) |
 
-## Behavioral Counts (Tom)
+
+## The role in the record
+
+### Behavioral Counts (Tom)
 
 | Pattern | Evidence |
 |---------|----------|
@@ -95,15 +99,18 @@ The Tom/Kristin dossier characterizes Tom as an irony-poisoned stoic — a pragm
 | First-call for major events | Trump shooting, Biden dropout, GameStop, the [[wiki/work/fastly-fsly|FSLY]] tip (Sep 2020) |
 | Parallel silences | Goes radio-silent when he owes a delivery (e.g. May 2016 during Dan's withdrawal) |
 
-## Behavioral Counts (Dan, Calibrated)
+
+### Behavioral Counts (Dan, Calibrated)
 
 Dan's reliance on Tom is high during mutual alignment and drops to blocking behavior during asymmetric periods (when Tom owes and goes silent). The relationship reads as a reliable lateral ally when incentives align and an unreliable one when they don't — a pattern distinct from the vertical/paternal loads elsewhere in the graph. The spring 2026 collapse (below) shows this same pattern running to actual rupture rather than self-correcting: real blocking, real financial accusations, real threat of third-party (Phil) involvement.
 
-## Domain: Self
+
+### Domain: Self
 
 Safe attachment with minimal forensic mode engaged through most of the record — notable precisely because almost every other major relationship in the corpus triggers analysis. That distinction narrows at the very end: by May 2026 the friendship is generating its own documented conflict-escalation and blocking behavior, the same architecture seen elsewhere in the corpus, just at lower amplitude. See [[wiki/mind/concepts/attachment-model]] and the collapse-period supply role in [[wiki/timeline/periods/2025-collapse]].
 
-## Texture from the corpus
+
+### Texture from the corpus
 
 The two handles capture two registers. The primary number (+17249987341)
 runs the day-to-day logistics and politics: quick supply coordination ("Do
@@ -125,7 +132,14 @@ undertow: a March 24 message, "Will you talk to me for a little bit?", lands
 after a stretch of one-sided sends — the same lateral-ally-goes-quiet pattern,
 this time with Tom on the asking side.
 
-## A supply crisis and a car battery (undated Gemini/"Max" chat)
+
+Recurring conversations on AI, image generation, agentic tooling, and bots —
+the "creative/technical collaborator" framing from the Gemini profile, borne
+out in the phloxenheim thread above.
+
+## Chronicle
+
+### A supply crisis and a car battery (undated Gemini/"Max" chat)
 
 A separate, undated AI chat log captures a real-time Suboxone supply
 crisis and the loyalty gesture that resolved it: someone "jumped
@@ -142,7 +156,8 @@ closes with Dan floating making a song for Tom, on the condition it
 include "a reference to lil lexie" — an inside reference otherwise
 undocumented in the corpus.
 
-## The DUI (fall 2025 – early 2026)
+
+### The DUI (fall 2025 – early 2026)
 
 The "DUI-court scheduling conflicts" that surface as friction in the spring
 2026 collapse (below) trace back to a traffic stop in Fayette County on
@@ -159,7 +174,33 @@ still references an unresolved trial. This runs concurrently with, and is
 distinct from, [[wiki/people/annie-ulmer]]'s own October 26, 2025 DUI arrest
 in the same county.
 
-## The Collapse (Spring 2026)
+
+### The 2014 precedent
+
+In August–September 2014 Tom
+ran the same owe-and-silence sequence: Dan on Aug 20, 2014 —
+"Do you have any fucking clue how shitty I feel? I waited 2 weeks
+already… you need to get me the rest of what you owe me TODAY"; Sept 1 —
+"What the fuck man"; Sept 10 — "remember how you stopped giving a fuck
+that you owed me when you didn't need me to buy your shit anymore?"
+followed by "I'm done and I'm going to make it my dumb fuck mission in
+life to blow your spot up. I'm not doing this stupid fucking dance with
+you anymore"; then, on Sept 15, right back to him — "yo looking to
+purchase sub/tex whatevz. anything around?" — the channel reopening the
+moment Dan needed product again. That is not "a day or two" of
+unreliability. It is a multi-week owe-stonewall-escalate-declare-done-
+reconcile cycle, documented in 2014 and re-run identically in 2026, with
+Dan's own 2014 diagnosis naming the mechanism precisely: Tom's
+reliability is transactional — high during mutual dependence, degrading
+to indifference once he no longer needs Dan as a buyer. The language even
+rhymes across the twelve years: 2014's "I'm not doing this stupid fucking
+dance with you anymore" and 2026's "this is some real
+[[wiki/people/kristin|Kristin]]-coded shit" are the same affective
+category — *this person is producing outputs functionally
+indistinguishable from someone untrustworthy* — the 2026 version simply
+having the Kristin deception-cost slot available to anchor it.
+
+### The Collapse (Spring 2026)
 
 The phloxenheim thread runs continuously from March 24 through May 30, 2026
 (the last dated message in the corpus for either handle), and read in full it
@@ -225,61 +266,10 @@ two-to-three-week window as the June 1, 2026 relationship severance:
 for 35 dollars for a sub he never brought." Full account of the
 compounding window at [[wiki/people/annie-ulmer]].
 
-## The pattern is twelve years old, not new (2014 precedent)
 
-The spring-2026 collapse is often read as a late-life degradation of an
-otherwise-safe bond, but the BFS drawer-dispute reconstruction
-([[wiki/work/bfs-foods]]) surfaced a near-identical episode from **twelve
-years earlier**, and it forces a revision. In August–September 2014 Tom
-ran the same owe-and-silence sequence: Dan on Aug 20, 2014 —
-"Do you have any fucking clue how shitty I feel? I waited 2 weeks
-already… you need to get me the rest of what you owe me TODAY"; Sept 1 —
-"What the fuck man"; Sept 10 — "remember how you stopped giving a fuck
-that you owed me when you didn't need me to buy your shit anymore?"
-followed by "I'm done and I'm going to make it my dumb fuck mission in
-life to blow your spot up. I'm not doing this stupid fucking dance with
-you anymore"; then, on Sept 15, right back to him — "yo looking to
-purchase sub/tex whatevz. anything around?" — the channel reopening the
-moment Dan needed product again. That is not "a day or two" of
-unreliability. It is a multi-week owe-stonewall-escalate-declare-done-
-reconcile cycle, documented in 2014 and re-run identically in 2026, with
-Dan's own 2014 diagnosis naming the mechanism precisely: Tom's
-reliability is transactional — high during mutual dependence, degrading
-to indifference once he no longer needs Dan as a buyer. The language even
-rhymes across the twelve years: 2014's "I'm not doing this stupid fucking
-dance with you anymore" and 2026's "this is some real
-[[wiki/people/kristin|Kristin]]-coded shit" are the same affective
-category — *this person is producing outputs functionally
-indistinguishable from someone untrustworthy* — the 2026 version simply
-having the Kristin deception-cost slot available to anchor it.
+### October 2025: self-description on both sides
 
-The load-bearing revision is Dan's own, and it is what finally names what
-"safe" was carrying. Asked what bothered him most about the 2026 failure,
-he answered that it wasn't the money: "the thing that bothers me the most
-is not money but that he would be okay letting me go sick." The
-"unconditional safe attachment" framing does not survive that unrevised —
-not because Tom is bad, but because most of what made him feel safe was
-that he was *available during the periods when being available cost him
-nothing*, which is a real form of presence but is not what Dan wanted
-"safe" to mean (the person who treats my baseline okayness as
-non-negotiable). The corpus-consistent version, fitting the years of real
-connection AND the 2014 episode AND 2026, is: **lateral ally during
-periods of mutual alignment, unreliable to indifference during asymmetric
-periods.** The three-burns-in-four-days cascade that helped end the BFS
-job (Tom Friday, a second contact Sunday, a workplace customer during the
-shift) is that same asymmetric-period unreliability at its most costly —
-Tom's string-along "soon"s consumed the optionality Dan needed to source
-elsewhere while alternatives still existed.
-
-## Domain: Tech
-
-Recurring conversations on AI, image generation, agentic tooling, and bots —
-the "creative/technical collaborator" framing from the Gemini profile, borne
-out in the phloxenheim thread above.
-
-A late-October 2025 (Oct 28) exchange (found 2026-07-14, random corpus
-sample; re-examined 2026-07-14 with the full night's thread — the earlier
-summary had the speaker attributions backwards on the music half) adds
+A late-October 2025 (Oct 28) exchange adds
 self-description on both sides. Tom, needled by Dan ("leftist tom maison"),
 self-deprecates in the third person — "Leftist Tom is even more soy than I
 am now" — while Dan separately claims electoral politics and "several very
@@ -302,7 +292,7 @@ biography detail. Tom's own music history surfaces separately in the same
 session, as a listener rather than producer: "I got my fill of house music
 living with Jake Thwaite doing poppers."
 
-## Timeline
+### Timeline
 
 | Date | Event |
 |------|-------|
@@ -317,11 +307,71 @@ living with Jake Thwaite doing poppers."
 | 2026-05-18 | Dan blocks/unblocks Tom; pivots to demanding the $36 owed back as cash, not product |
 | 2026-05-29/30 | Renewed accusation ("$30 come up"); Dan threatens to go through Tom's father Phil over a disputed possession — last dated message in the record |
 
-## Notes
 
 The BFS bootloader records a small standing debt ("Tom still in Uniontown, $36 still owed") — consistent with, and likely the same debt named in, the May 18 2026 demand documented in the Collapse section above; what reads elsewhere as trivial is, by that point, the proximate trigger of an actual rupture.
 
 **Gaps:** whether the friendship recovered after May 30, 2026 is undocumented — the record simply stops. Phil is confirmed as Tom's father (2026-07-14). The March "cabin"/pagan-occult girlfriend is confirmed to also be named Kristin (unrelated to [[wiki/people/kristin]]) but her surname is unknown; "Brandy"'s surname is likewise not established.
 
+## Conflicts in the record
 
+### The "safe attachment" characterization, revised
 
+**The characterization above no longer holds without qualification.** The final months of the message record (March–May 2026) document the friendship's collapse under exactly the supply-line strain the "anchor" framing depended on. See "The Collapse (Spring 2026)" in the Chronicle above.
+
+The spring-2026 collapse is often read as a late-life degradation of an
+otherwise-safe bond, but the BFS drawer-dispute reconstruction
+([[wiki/work/bfs-foods]]) surfaced a near-identical episode from **twelve
+years earlier**, and it forces a revision.
+
+The load-bearing revision is Dan's own, and it is what finally names what
+"safe" was carrying. Asked what bothered him most about the 2026 failure,
+he answered that it wasn't the money: "the thing that bothers me the most
+is not money but that he would be okay letting me go sick." The
+"unconditional safe attachment" framing does not survive that unrevised —
+not because Tom is bad, but because most of what made him feel safe was
+that he was *available during the periods when being available cost him
+nothing*, which is a real form of presence but is not what Dan wanted
+"safe" to mean (the person who treats my baseline okayness as
+non-negotiable). The corpus-consistent version, fitting the years of real
+connection AND the 2014 episode AND 2026, is: **lateral ally during
+periods of mutual alignment, unreliable to indifference during asymmetric
+periods.** The three-burns-in-four-days cascade that helped end the BFS
+job (Tom Friday, a second contact Sunday, a workplace customer during the
+shift) is that same asymmetric-period unreliability at its most costly —
+Tom's string-along "soon"s consumed the optionality Dan needed to source
+elsewhere while alternatives still existed.
+
+### The October 2024 arrangement encounter
+
+The dossiers' final assessment revises the October 2024 encounter referenced on [[wiki/people/annie-ulmer]] from apparent coercion to exhaustion-within-an-established-consensual-framework, with Tom as one of the recurring participants Dan selected specifically because he was a friend he could manage the aftermath with; full arrangement context at [[wiki/mind/psychosexual/arrangement-history]].
+
+### 2026-07-14: the October 2025 music exchange, attributions corrected
+
+The October 28, 2025 exchange was first summarized from a random corpus sample (found 2026-07-14, random corpus sample; re-examined 2026-07-14 with the full night's thread — the earlier summary had the speaker attributions backwards on the music half). The corrected reading — Dan, not Tom, describing his seven years away from music and his return to dance-music production; Tom's house-music history surfacing separately as a listener — is what the Chronicle above records.
+
+## See also
+
+- [[wiki/people/annie-ulmer]]
+- [[wiki/people/kristin]]
+- [[wiki/work/bfs-foods]]
+- [[wiki/mind/synthesis/block-unblock-loop]]
+- [[wiki/mind/synthesis/vertical-authority-skepticism]]
+- [[wiki/mind/concepts/attachment-model]]
+- [[wiki/mind/synthesis/supply-network]]
+- [[wiki/timeline/periods/2025-collapse]]
+
+## References
+
+- raw/self/dox-scan/dan tom 2010 2022.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/message-csv/imessage_ALL_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/tom_kristin_master_dossier.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md
+- raw/self/dox-scan/DanAnnie_CompleteRecord_Final.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/Cash register shortage explanation.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/_Deconstructing a Chaotic 24 Hours .md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/MAX_PRIME.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
