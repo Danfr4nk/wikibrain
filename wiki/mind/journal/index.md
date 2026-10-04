@@ -5,7 +5,7 @@ title: "Idea Journal"
 aliases: ["idea journal", "the journal"]
 status: active
 date_created: 2026-10-03
-date_modified: 2026-10-03
+date_modified: 2026-10-04
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -78,3 +78,26 @@ cannot show its stages has not been cross-checked.
   actuator — installed channels run full protocol, uninstalled handles
   sit at zero, and every transition is a cliff. Two dead drafts preserved
   in its Genesis note.
+
+### 2026-10-04
+
+- [[wiki/mind/journal/2026-10-04-the-irreversible-channel|Entry 1 — The
+  Irreversible Channel]]: channels partition by retraction cost —
+  verbal output reverses within seconds at a measured 100% rate, so
+  provision is the only channel whose output accumulates into a durable
+  bond-state record. Two dead theses preserved in its Genesis note.
+- [[wiki/mind/journal/2026-10-04-the-one-way-valve|Entry 2 — The One-Way
+  Valve]]: graded numeric credence flows freely on the input side of his
+  operations and never on the output side — every operation exits
+  through a binary gate, so the middle values live upstream of
+  decisions, never downstream of them.
+- [[wiki/mind/journal/2026-10-04-the-receipt-is-the-channel|Entry 3 —
+  The Receipt Is the Channel]]: his output volume is priced by channel —
+  a channel with a countable completion token holds him at 3–4
+  words/turn, and the essay mode fires only where no receipt exists to
+  stop it.
+- [[wiki/mind/journal/2026-10-04-selection-buys-delay|Entry 4 —
+  Selection Buys Delay]]: he does not trust less, he audits later —
+  selected channels run audit-free, the two never-tested channels show
+  inclusion, not error; scrutiny activates on breach events, not on
+  schedule.
