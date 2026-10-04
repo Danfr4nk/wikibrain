@@ -48,6 +48,12 @@ connections:
     claim: "The engine has exactly two output states, open anomaly and closed, with no state for a provisional or partial agreement — Ti tests only for binary closure while the function that would grade a verdict relationally (Fe) is nearly absent."
   - page: wiki/mind/journal/2026-10-03-the-manufactured-halt
     type: restated-by
+  - page: wiki/mind/concepts/forensic-method
+    type: instantiates
+    claim: "The conflict engine is the forensic method instantiated on people: claim-shaped input is isolated under adversarial pressure and the engine halts only on resolution, so relational conflict — two subjective realities with no merge — loops without a reward state."
+  - page: wiki/mind/concepts/autism
+    type: parallels
+    claim: "The conflict engine's input handling — an emotional bid processed as a proposition requiring adjudication because inferred cues do not register as rule-changes — is the explicit-over-inferred processing this concept names, running on relational input with no halt condition."
     claim: "The Manufactured Halt (Idea Journal, 2026-10-03) is this architecture's dated predictive restatement: where a resolution condition exists, the halt is manufactured by the domain's structure rather than chosen."
 ---
 
