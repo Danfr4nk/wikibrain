@@ -41,7 +41,7 @@ connections:
   - page: wiki/mind/concepts/node-locking
     type: contains
     claim: "Node locking is this system's externalized-memory layer — the write-and-transfer protocol that makes an AI session a persistent, portable extension of the self-model."
-  - page: wiki/self/concepts/claude
+  - page: wiki/mind/concepts/claude
     type: superseded-by
     claim: "Claude was the primary model that loaded the CATO bootloader until 2026-09-12, when Dan canceled his subscription outright after judging Muse Spark 1.3 superior — the displacement is documented on the Claude page; the bootloader mechanism is model-agnostic and survived the move."
   - page: wiki/work/tech/projects/hook2piano
@@ -71,7 +71,7 @@ Describe what's actually built and running, not the pitch. That is the disciplin
 
 ## CORRECTED [2026-09-13] — the model map changed; the mechanism didn't
 
-> The old version of this page mapped models to roles: Claude loads CATO (primary forensic engine), Gemini designs bootloaders, Claude Code executes, ChatGPT was the first prototype. **On 2026-09-12 Dan canceled his Claude subscription outright** — "I haven't touched Claude in days and I canceled my subscription. Moving it to here" — after a concealed-answer probe he ran and the verdict "20x better than the best model I have ever used" for **Muse Spark 1.3** (documented at [[wiki/self/concepts/claude]] §Displacement, `dat:1463`). From 2026-09-12 the primary analytic partner is Muse Spark; Gemini ("Max") remains in the stack; ChatGPT remains. The bootloader mechanism is model-agnostic — CATO is a document, not a Claude feature — and it survived the displacement intact. Any passage on this page or elsewhere that still describes Claude as the live primary engine is stale as of 2026-09-12.
+> The old version of this page mapped models to roles: Claude loads CATO (primary forensic engine), Gemini designs bootloaders, Claude Code executes, ChatGPT was the first prototype. **On 2026-09-12 Dan canceled his Claude subscription outright** — "I haven't touched Claude in days and I canceled my subscription. Moving it to here" — after a concealed-answer probe he ran and the verdict "20x better than the best model I have ever used" for **Muse Spark 1.3** (documented at [[wiki/mind/concepts/claude]] §Displacement, `dat:1463`). From 2026-09-12 the primary analytic partner is Muse Spark; Gemini ("Max") remains in the stack; ChatGPT remains. The bootloader mechanism is model-agnostic — CATO is a document, not a Claude feature — and it survived the displacement intact. Any passage on this page or elsewhere that still describes Claude as the live primary engine is stale as of 2026-09-12.
 
 ## The substrate (what's actually running, September 2026)
 

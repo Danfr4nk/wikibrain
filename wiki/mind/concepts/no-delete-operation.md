@@ -6,7 +6,7 @@ tier: major
 aliases: ["no-delete operation", "write-only rule system", "suspend not delete", "the no-delete rule"]
 status: active
 date_created: 2026-09-13
-date_modified: 2026-10-03
+date_modified: 2026-10-04
 synthesizes:
   - wiki/mind/concepts/explicit-verbal-commitment
   - wiki/mind/concepts/node-locking
@@ -68,6 +68,9 @@ connections:
     claim: "The dormancy-not-exit rule (dat:1384) is the attachment instance: declared endings produce pauses, never terminations — Menore's channel reopened after 2,044 days of silence, answered in one minute."
   - { target: "[[wiki/mind/synthesis/dormancy-not-exit]]", type: references, claim: "Supplies this page's strongest people-side counter-instance: Franki Faris, a tie below the tenure floor that was genuinely deleted, leaving only the name as vocabulary." }
   - { target: "[[wiki/mind/synthesis/severance-declarations]]", type: references, claim: "Supplies the dated severance sequence and the one clean exit in the record — the December 2015 Alexis eviction, an operation rather than a declaration." }
+  - page: wiki/mind/concepts/attachment-model
+    type: operationalized-by
+    claim: "The attachment model is this rule's fullest instantiation — the bond-level model of a channel where severance is declared, performed, and reversed rather than executed."
 changelog:
   - 2026-10-03: Restructured to canonical template v1
 ---

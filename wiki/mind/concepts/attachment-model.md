@@ -5,7 +5,7 @@ title: "Attachment Model"
 aliases: ["rule-based attachment", "the no-counter-rule architecture", "attachment system"]
 status: active
 date_created: 2026-06-22
-date_modified: 2026-09-15
+date_modified: 2026-10-04
 sources:
   - raw/self/sage/2026-08-21_220918_which-of-the-people-in-this-wiki-would-be-the-be.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/sage/2026-08-22_005829_what-would-make-dan-happy.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -84,6 +84,12 @@ connections:
   - page: wiki/mind/concepts/autism
     type: instance-of
     claim: "This model's no-counter-rule architecture is the behavioral instance the autism page's explicit-statement-weighting mechanism is built to explain: stated rules hold until an explicit severance statement arrives, and no counter-rule is admitted from behavior (0 explicit severance signals in 41,073 of her messages, dat:0081). The autism page's one falsifiable claim — install the explicit override and behavior changes — draws its negative observation from August 2026 (dat:0090). No clinical diagnosis asserted on either page."
+  - page: wiki/mind/synthesis/severance-declarations
+    type: derived-from
+    claim: "This model's headline numbers are derived from that page's recount: 258 declaration-language messages collapsing to 129 severance episodes on a 24-hour rule, 128 of the 129 followed by resumed contact."
+  - page: wiki/mind/concepts/no-delete-operation
+    type: instantiates
+    claim: "The attachment model is the no-delete operation instantiated at bond level: on the bond, severance is declared and reversed, never executed."
 ---
 
 # Attachment Model

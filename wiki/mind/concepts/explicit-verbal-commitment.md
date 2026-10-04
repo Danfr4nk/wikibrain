@@ -5,7 +5,7 @@ title: "Explicit-Verbal Commitment"
 aliases: ["explicit-verbal commitment", "explicit-verbal-commitment architecture", "the explicit-verbal mechanism", "stated-rule binding"]
 status: active
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 synthesizes:
   - wiki/mind/concepts/autism
   - wiki/mind/concepts/attachment-model
@@ -58,6 +58,9 @@ connections:
   - page: wiki/mind/concepts/document-fabrication
     type: instantiates
     claim: "The 2026-08-14 counterfeit drug screen is this architecture processing someone else's words: Annie's request arrived as an explicit verbal formulation and executed without deliberation — the same mechanism that makes his own commitments absolute makes a direct request unrefusable."
+  - page: wiki/mind/concepts/attachment-model
+    type: instantiates
+    claim: "Explicit-verbal commitment is the attachment model's flagship instantiation: stated commitments processed as absolute rules until an explicit severance signal arrives, with no counter-rule admitted from behavior."
 ---
 
 # Explicit-Verbal Commitment

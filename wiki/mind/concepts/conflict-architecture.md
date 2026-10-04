@@ -4,7 +4,7 @@ page_type: concept
 title: "Conflict Architecture"
 status: active
 date_created: 2026-06-22
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 knowledge: earned
 tags: [attachment, trauma-bond, forensic-analysis, intensity]
 sources:
@@ -46,6 +46,9 @@ connections:
   - page: wiki/mind/synthesis/the-binary-verdict
     type: component-of
     claim: "The engine has exactly two output states, open anomaly and closed, with no state for a provisional or partial agreement — Ti tests only for binary closure while the function that would grade a verdict relationally (Fe) is nearly absent."
+  - page: wiki/mind/journal/2026-10-03-the-manufactured-halt
+    type: restated-by
+    claim: "The Manufactured Halt (Idea Journal, 2026-10-03) is this architecture's dated predictive restatement: where a resolution condition exists, the halt is manufactured by the domain's structure rather than chosen."
 ---
 
 # Conflict Architecture

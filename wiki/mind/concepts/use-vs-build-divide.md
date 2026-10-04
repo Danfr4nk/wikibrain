@@ -18,7 +18,7 @@ connections:
   - page: wiki/mind/concepts/moving-shibboleth
     type: component-of
     claim: "The shibboleth entry's conjunction rule is the verdict this data interrogation feeds: using is not building, and neither alone clears the bar."
-  - page: wiki/self/concepts/llm
+  - page: wiki/mind/concepts/llm
     type: contextualizes
     claim: "Dan's builder-side relationship to LLMs (pipelines, agents, probes) is the far end of the divide this entry measures."
 ---

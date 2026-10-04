@@ -8,13 +8,13 @@ date_created: 2026-09-16
 date_modified: 2026-09-21
 sources:
   - dat:1619-fable-5-window-proliferation-20260916
-  - wiki/self/twitter/2026.md
+  - wiki/mind/synthesis/twitter-2026.md
 tags: [ai-collaboration, proliferation, personality-profile]
 connections:
-  - page: wiki/self/concepts/llm
+  - page: wiki/mind/concepts/llm
     type: instantiates
     claim: "Fable 5 is the model Dan ran for ~14 hours on June 13 to build the wikibrain website and text-log visualizers — the subscription-window build the NSA joke refers to."
-  - page: wiki/self/concepts/wiki-brain
+  - page: wiki/mind/concepts/wiki-brain
     type: evidenced-by
     claim: "The original wikibrain was built in the June 9–22 subscription window: the one Mythos-class tier with mandatory retention and no zero-retention option."
   - page: wiki/mind/synthesis/red-team-probe-series

@@ -60,7 +60,7 @@ connections:
   - page: wiki/mind/synthesis/closing-the-set
     type: evidences
     claim: "Dan's only documented positive self-report for something he did rather than had — the Fran vigil's 'got good closure and finally did something in my life that wasn't completely selfish' — reframes this page's payoff condition as closure rather than completion, which is the premise closing-the-set starts from."
-  - page: wiki/self/twitter/2008
+  - page: wiki/mind/synthesis/twitter-2008
     type: evidenced-by
     claim: "A dated, first-party instance of the young form with none of the ATM story's confounders: at twenty he books his return flight around one concert nine days out — 'Be back on the 28th for hey Monday :)' — and cuts a family Christmas short for it. The mechanism alone: a want stated as settled, the calendar rearranged around it."
 ---
