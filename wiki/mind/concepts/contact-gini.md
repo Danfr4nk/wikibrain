@@ -4,7 +4,7 @@ page_type: concept
 title: "Contact Gini"
 status: active
 date_created: 2026-06-22
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 knowledge: earned
 tags: [relationships, attachment, forensic-analysis, digital-footprint]
 sources:
@@ -34,6 +34,9 @@ connections:
     claim: "Concentration and verbal-anchoring are the same vulnerability in two registers: the load runs through one channel, and the rules that govern it arrive through that channel's words."
   - page: wiki/mind/synthesis/message-circadian-latency
     type: parallels
+  - page: wiki/mind/synthesis/severance-language-atlas
+    type: parallels
+    claim: "Contact Gini and the severance-language atlas are parallel per-handle corpus measurements: Gini over 498 handles finds inbound volume concentrated in a few nodes, and the atlas counts declaration language across 503 handles on the same held corpus."
     claim: "The latency analysis is the temporal counterpart to this volume metric; both converge on the single near-synchronous channel."
 ---
 
