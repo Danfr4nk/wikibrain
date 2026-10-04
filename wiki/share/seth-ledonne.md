@@ -1,38 +1,12 @@
 ---
-domain: people
-page_type: entity
-title: "Seth LeDonne"
-tier: major
-status: closed
-knowledge: mixed
-date_created: 2026-07-19
-date_modified: 2026-10-03
-date_range_start: 2020-03-10
-date_range_end: 2020-06-23
-sources:
-  - "raw/self/facebook/facebook-ihatedanfrank/messages/inbox/sethledonne_ydkapzhbla/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
-  - "kb/data/1166-seth-ledonne-thread-bodies-unheld.md — source audit (2026-09-10): the page's claims are unresolvable from held sources; the Facebook export holds thread metadata only, no bodies."
-  - "src:old-wiki-export-2026-09-04 (corpus__3.txt line 66879, 88 lines) — the page-attributed testimony this entry rests on."
-tags: [uniontown-era, politics, digital-footprint, music-production]
-infobox:
-  name: "Seth LeDonne"
-  sex: male
-  location: uniontown
-  relationship_to_dan: friend
-  known_for: "One of the named figures Dan credits with his early hardcore/punk counterculture education; COVID-era NYC contact, including a real-time account of the June 2020 curfew"
-connections:
-  - page: wiki/timeline/periods/covid-era-2020
-    type: evidences
-    claim: "Dan's June 7, 2020 real-time account — '8pm curfew... it's been like living in beirut' — documents the George Floyd-protest curfew period in Manhattan from inside the lockdown year, alongside a still-undecided 2020 vote (unwilling to back Biden as of April)."
-  - page: wiki/interests/music/bands/batteries-not-included
-    type: evidences
-    claim: "Seth is named as one of the scene mentors (with Andy, Paul, Nathan, Kessler) whose harsh, high-standards hardcore/punk scene the band operated inside of, and 'Rejected Gazette' as a named touchstone of the same milieu."
-  - page: wiki/interests/opie-and-anthony
-    type: parallels
-    claim: "Both are formative teenage counterculture immersions Dan explicitly credits decades later — the hardcore scene via Seth LeDonne, the shock-radio archive via years of solo listening — that trained the same anti-normie, no-flinch aesthetic register."
-changelog:
-  - "2026-10-03: Full rewrite to canonical template v1 — source audit folded in (kb dat:1166), scene and COVID-spring sections expanded, provenance carried in Conflicts in the record."
+title: Seth LeDonne
+shared: true
+shared_from: wiki/people/seth-ledonne
+shared_at: 2026-10-03
+domain: share
 ---
+
+> **Shared snapshot** — a copy of `wiki/people/seth-ledonne` taken on 2026-10-03. This page is public and ungated. Links to other wiki entries were flattened because those entries stay behind the wiki's password gate; the Cliff notes section at the bottom carries the context they would have provided.
 
 # Seth LeDonne
 
@@ -70,8 +44,8 @@ points he names are people, not bands: Seth, Andy, Paul, Nathan,
 Kessler. Around them orbits a zine or scene publication called
 "Rejected Gazette," which he names as a touchstone of the same milieu,
 and the basement-show circuit where his high school band,
-[[wiki/interests/music/bands/batteries-not-included|Batteries Not
-Included]], operated inside the mentors' jurisdiction rather than
+**Batteries Not
+Included**, operated inside the mentors' jurisdiction rather than
 beside it.
 
 The texture of that jurisdiction, as Dan reconstructs it decades
@@ -89,7 +63,7 @@ self-generated, the output of a man who found things on his own and
 corrected himself on his own. The mentors are one of the few places
 the record shows him handing the credit to specific people and meaning
 it. The wiki's own cross-references make the same point from the other
-side: [[wiki/interests/opie-and-anthony|Opie and Anthony]] is
+side: **Opie and Anthony** is
 documented as the other great teenage counterculture immersion, the
 shock-radio archive absorbed through years of solo listening, and the
 two are explicitly paired — both "formative teenage counterculture
@@ -361,12 +335,19 @@ supports.
 
 ## See also
 
-- [[wiki/interests/music/bands/batteries-not-included|Batteries Not Included]]
-- [[wiki/interests/opie-and-anthony|Opie and Anthony]]
-- [[wiki/timeline/periods/covid-era-2020|COVID era 2020]]
+- **Batteries Not Included**
+- **Opie and Anthony**
+- **COVID era 2020**
 
 ## References
 
 - `raw/self/facebook/facebook-ihatedanfrank/messages/inbox/sethledonne_ydkapzhbla/message_1.html` — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 - kb/data/1166-seth-ledonne-thread-bodies-unheld.md — source audit (2026-09-10): the page's claims are unresolvable from held sources; raw/facebook-threads/ holds thread-level metadata only (396 threads, 15,923 messages, fetched 2026-09-09), no bodies.
 - Old-wiki export, 2026-09-04 (corpus__3.txt line 66879, 88 lines) — the page-attributed testimony this entry rests on.
+
+
+## Cliff notes
+
+- **Batteries Not Included (BNI)** — Batteries Not Included — "BNI" in Dan's own shorthand — was his high school-era band with Joe Oshnack and a third member, Matt Turko, playing hardcore/punk covers alongside originals Dan wrote as, in his own words, "lead songwriter." It predates every other music project the wiki documents by nearly a decade — the earliest evidence of the same instinct that later becomes SLOPPP, MOGZART, and GRIPNOTIC.
+- **Opie and Anthony** — The single most-watched thing in Dan's entire YouTube history is not music, politics, or a game — it is the Opie & Anthony shock-radio archive. The watch-history page (Youtube Watch History) records it as raw channel counts, but those counts describe a formative obsession that shaped his sense of humor, his idiom, and the comedy taste documented on Stand Up Comedy. This page is the "lived meaning" behind the numbers.
+- **COVID era 2020** — The pandemic year lands in the middle of the first NYC chapter's later stretch and directly overlaps the documented 2020–2021 market era. It is also the year the Fran estate finally pays — five advances between February and June, a court order on August 21, and a six-figure deposit on September 1 — and the year the record holds Dan's own narration of a political conversion, timestamped to the minute.
