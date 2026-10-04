@@ -7,6 +7,11 @@ date_modified: 2026-10-04
 sources: ["raw/self/facebook/facebook-ihatedanfrank/friends_and_followers/ — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/facebook", "wiki/timeline/periods/2015-2016-annie-relationship-start", "wiki/people/rick-frank", "wiki/mind/concepts/contact-gini"]
 tags: [family, nyc-era, relationships, uniontown-era, trauma-bond]
+connections:
+  - page: wiki/self/facebook/messages
+    type: parallels
+    claim: "The Messages exhibit holds the conversational half of the same export: 403+ threads among the roughly 650 friends catalogued here."
+
 ---
 
 # Facebook Friends Network

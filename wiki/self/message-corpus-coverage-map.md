@@ -56,6 +56,9 @@ connections:
   - page: wiki/people/kristin
     type: evidenced-by
     claim: "The worked demonstration of a ceiling: a 22,018-message relationship that the wiki's designated miner reported as zero matches rather than as an error, because the dump it runs on stops before the relationship starts."
+  - page: wiki/mind/concepts/contact-gini
+    type: parallels
+    claim: "Contact Gini is one of the measurements whose corpus basis this map adjudicates: a contact distribution computed over the authoritative export's handles."
 tags: [corpus, coverage, method, forensic-analysis, negative-data]
 importance: 5
 changelog:

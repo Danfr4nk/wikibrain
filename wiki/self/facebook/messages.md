@@ -7,6 +7,14 @@ date_modified: 2026-10-04
 sources: ["raw/self/facebook/facebook-ihatedanfrank/messages/ — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/facebook", "wiki/people/annie-ulmer", "wiki/mind/concepts/contact-gini", "wiki/mind/synthesis/attachment-trauma-bond", "wiki/self/message-corpora/master-message-dump", "wiki/timeline/events/timeline", "wiki/timeline/periods/2015-2016-annie-relationship-start", "wiki/mind/concepts/forensic-method", "wiki/mind/synthesis/totality-themes"]
 tags: [nyc-era, relationships, trauma-bond, family, digital-footprint]
+connections:
+  - page: wiki/self/facebook/posts
+    type: parallels
+    claim: "The Posts exhibit completes the same export snapshot: the visual life and status updates alongside these 403+ message threads."
+  - page: wiki/self/facebook/friends
+    type: parallels
+    claim: "The Friends exhibit is the network roster behind these threads: some 650 documented friends across the 2009–2022 Facebook export."
+
 ---
 
 # Facebook Messages (ihatedanfrank)

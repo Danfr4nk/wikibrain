@@ -7,6 +7,11 @@ date_modified: 2026-10-04
 sources: ["raw/self/facebook/facebook-ihatedanfrank/posts/ — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/facebook", "wiki/interests/favorites/music", "wiki/timeline/periods/2010s", "wiki/self/location-history", "wiki/mind/synthesis/millennial-digital-witness"]
 tags: [nyc-era, relationships, politics]
+connections:
+  - page: wiki/self/facebook/messages
+    type: parallels
+    claim: "The Messages exhibit is the other half of this September 2022 Facebook export: 403+ threads beside this page's posts, photos, and 17 albums."
+
 ---
 
 # Facebook Posts, Media & Albums (ihatedanfrank)
