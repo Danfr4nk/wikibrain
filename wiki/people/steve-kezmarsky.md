@@ -30,7 +30,7 @@ related:
   - wiki/work/nemacolin-caddying
   - wiki/timeline/periods/2018-deep-cycle
   - wiki/timeline/periods/full-sail-2008-2010
-  - wiki/self/twitter/2013
+  - wiki/mind/synthesis/twitter-2013
 tags: [uniontown-era, addiction-recovery, digital-footprint, relationships, legal, family]
 infobox:
   name: "Steve Kezmarsky"
@@ -89,7 +89,7 @@ and the held iMessage corpus begins in 2011
 (`CORPUS_POLICY.md`). The next-earliest trace is a pair of 2013 tweets
 Dan addressed to Steve's Twitter handle. One reads *"@skezmarsky I remembr
 a 2005 conversation wherein we determined Kanye to be the most racist
-person/rapper on earth"* (2013-08-25; [[wiki/self/twitter/2013]]). The
+person/rapper on earth"* (2013-08-25; [[wiki/mind/synthesis/twitter-2013]]). The
 2005 conversation is Dan's memory, not a record. It does place Steve inside
 Dan's teenage world a year after the Dairy Queen.
 
@@ -538,7 +538,7 @@ rows carry attachments that the corpus references but does not store.
   `kb/data/1089-elder-kezmarsky-fall-jan-apr-2018`,
   `kb/data/1213-zach-clingan-caddie-yard-supply-inversion`,
   `kb/data/1975-alexis-origin-reconstructed-20260924`
-- [[wiki/self/twitter/2013]], [[wiki/timeline/periods/full-sail-2008-2010]],
+- [[wiki/mind/synthesis/twitter-2013]], [[wiki/timeline/periods/full-sail-2008-2010]],
   [[wiki/people/new-jim-shaffer]], [[wiki/people/zach-clingan]],
   [[wiki/work/nemacolin-caddying]]
 

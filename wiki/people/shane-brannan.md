@@ -138,7 +138,7 @@ grandmother exchange. The identification is reasoned, not asserted.
 > shortlink) and **2014-03-14** *"it's on private to followers/following for
 > visibility. If you login, you'll be set"*, which is account-privacy support
 > and sits inside the SLOPPP release window in the surrounding tweets
-> ([[wiki/self/twitter/2014]]). Four of nineteen is 21%, not 11%.
+> ([[wiki/mind/synthesis/twitter-2014]]). Four of nineteen is 21%, not 11%.
 
 > **GAP CLOSED [2026-09-18] — the friendship did not end in March 2016.**
 > The page asked whether it continued past the last tweet and answered
@@ -285,7 +285,7 @@ criticism, not reaction: *"the character model is so bad…but it's still scary
 as fuck when you turn and it's there"* is an observation about horror design
 surviving bad assets. And the June 2011 StarCraft II opener uses *gosu* — the
 Korean competitive term — while offering a spare trial code, which is the
-vocabulary of someone inside the scene ([[wiki/self/twitter/2011]] documents
+vocabulary of someone inside the scene ([[wiki/mind/synthesis/twitter-2011]] documents
 the ladder placements, named build orders and pros-by-handle around it).
 
 **Off Twitter it was a family and a confidence.** The three items that were
@@ -396,9 +396,9 @@ tweets are, in content terms, empty.
   — count re-verified against the raw archive, two of its stated limits now
   closed; [`dat:1291`](../../kb/data/1291-video-games-interest-texture-and-held-check.md);
   [`dat:0678`](../../kb/data/0678-josh-brannan-wav-artifact-verified.md).
-- **Wiki layer:** [[wiki/self/twitter]], [[wiki/self/twitter/2011]],
-  [[wiki/self/twitter/2012]], [[wiki/self/twitter/2014]],
-  [[wiki/self/twitter/2016]], [[wiki/interests/video-games]],
+- **Wiki layer:** [[wiki/self/twitter]], [[wiki/mind/synthesis/twitter-2011]],
+  [[wiki/mind/synthesis/twitter-2012]], [[wiki/mind/synthesis/twitter-2014]],
+  [[wiki/mind/synthesis/twitter-2016]], [[wiki/interests/video-games]],
   [[wiki/people/josh-brannan]], [[wiki/people/jerad-friedline]],
   [[wiki/self/facebook]].
 - **Cited, not held:** `contacts.csv` — retained in the frontmatter because

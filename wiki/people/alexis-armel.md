@@ -117,13 +117,13 @@ connections:
   - page: wiki/people/suzanne-frank
     type: causes
     claim: "A March 2014 washing-machine incident Dan says he still does not understand is Suz's stated reason for throwing Alexis out of the house — the second of at least two Suz-driven evictions this page now documents for Alexis, five months of concealment following this one."
-  - page: wiki/self/twitter/2009
+  - page: wiki/mind/synthesis/twitter-2009
     type: evidenced-by
     claim: 'The relationship''s first six weeks are recorded in real time on the 2009 twitter page, and its surrounding weather is too: he is ill for most of December, shuttling between two states, and sitting Full Sail finals across the same days he is posting "dan in love." The speed is not the speed of a man with nothing else happening.'
-  - page: wiki/self/twitter/2013
+  - page: wiki/mind/synthesis/twitter-2013
     type: evidenced-by
     claim: "The public record closes the only documented interval in six years when this relationship is off: 'Alexis Armel and a doppelgangar mosquito' (8 September 2013) is the first naming after eleven days of @katie_efff in late August, which bounds the break to roughly six to eight weeks with another person documented inside it."
-  - page: wiki/self/twitter/2014
+  - page: wiki/mind/synthesis/twitter-2014
     type: evidenced-by
     claim: "The public record of the relationship ends two years before the relationship does, and 2014 is where the arithmetic proves it: 2 mentions against 23 the year before, 3.1% of his @-tweets against 24.2%, in the year his distinct-handle count hit an all-time high of 57. The two survivors — 'Keep filming me in my sleep' (28 April) and 'so deep bro' (17 June) — are also the only contemporaneous dated evidence in any readable corpus that she was in the room at all that year, because neither message export holds a single row dated 2014."
   - page: wiki/mind/concepts/the-cool-metric

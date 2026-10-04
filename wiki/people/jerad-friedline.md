@@ -109,7 +109,7 @@ it is the only known picture of them together.
 
 **How much to read into the gaps.** Very little. Eight of the nine posts come
 from the archive's `live-x-scrape` source, which
-[[wiki/self/twitter/2013|the 2013 page]] documents as truncated to ten results
+[[wiki/mind/synthesis/twitter-2013|the 2013 page]] documents as truncated to ten results
 per month-bounded query. The silence from mid-2010 to 2014 is at least partly
 the instrument, not the friendship.
 

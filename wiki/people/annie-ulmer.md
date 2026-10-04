@@ -263,7 +263,7 @@ connections:
   - page: wiki/places/337-saratoga-drive
     type: co-occurs
     claim: "The childhood home's sale notice ('we have to move out in like 3 weeks') is dated by Dan's own words to the same week as the June 1, 2026 severance — one of three compounding crises named in a single session alongside the BFS termination and the Tom fallout."
-  - page: wiki/self/concepts/wiki-brain
+  - page: wiki/mind/concepts/wiki-brain
     type: evidenced-by
     claim: "This page is the wiki-brain's largest single test case — 120 KB built across seventeen years of primary sources, reopened after being marked closed, and the standing example of why 'closed' means formally ended rather than finished."
   - page: wiki/legal/2015-retail-theft-arrest

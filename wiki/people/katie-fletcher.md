@@ -17,7 +17,7 @@ related:
   - wiki/timeline/periods/2010s
 tags: [relationships, forensic-analysis]
 connections:
-  - page: wiki/self/twitter/2013
+  - page: wiki/mind/synthesis/twitter-2013
     type: evidenced-by
     claim: "This page's statement that everything known about her arrives through Dan's later AI narration is false: six public tweets across 21-31 August 2013 name her or address @katie_efff, and one of them is posted from inside the Oddball show at 22:54 on the night the page narrates from a 2026 session."
   - page: wiki/interests/concert-record/festivals/oddball-comedy-curiosity-festival
@@ -82,7 +82,7 @@ to the minute.
    interval in six years when the [[wiki/people/alexis-armel|Alexis]]
    relationship is documented as off, and Alexis is named again on 8 September
    2013 — nine days after the last Katie post. Full working:
-   [[wiki/self/twitter/2013]].
+   [[wiki/mind/synthesis/twitter-2013]].
 
 **What it does not change.** These are eleven days, not a span. The archive
 for 2013 begins on 17 August because the source changes there, so **the silence

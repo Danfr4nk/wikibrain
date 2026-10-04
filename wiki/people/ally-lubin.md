@@ -62,7 +62,7 @@ connections:
   - page: wiki/people/annie-ulmer
     type: mirrors
     claim: "Across August 18–19, 2026 Dan's message record shows both threads active in the same hours: he told Ally he had switched his wifi off so he would not see Annie while exchanging 98 messages with Annie in the next two hours, and declared himself 'all ally Lubin all the time now' ninety minutes before sending Annie the last message of the eleven-year relationship."
-  - page: wiki/self/concepts/ally-and-dan-love-as-destiny
+  - page: wiki/mind/concepts/ally-and-dan-love-as-destiny
     type: contradicts
     claim: "That page's central evidence — the title this page's infobox once recorded her as having taken on August 18, 2026 — is retracted: no such exchange exists in any export, and Dan identified it the same night as a hallucination produced by a prompt injection he and Ally had jointly fed the pipeline."
   - page: wiki/people/dan-polyak
@@ -80,7 +80,7 @@ connections:
   - page: wiki/mind/concepts/erotic-architecture
     type: evidences
     claim: "The purest case of the architecture running with no body in the room: arousal sustained entirely by inaccessibility, priced per item in 2019, and explicitly named by Dan as something he needs to 'get the poison out' of rather than consummate."
-  - page: wiki/self/concepts/astrology-star-signs
+  - page: wiki/mind/concepts/astrology-star-signs
     type: instance-of
     claim: "Her Cancer sun rests on a birth date the page derives rather than quotes, now corroborated three times from her own messages — 'Literally a 17 year old in a 28 yeR olds body' (2019-01-09), 'I turn 30 in 18 days' (2020-06-08), and the shared-birthday-with-Ariana-Grande remark (2026-08-27). Inference flagged in Limits."
   - page: wiki/timeline/periods/2018-deep-cycle
@@ -179,7 +179,7 @@ you were the one accepting my very attractive offer there."* So the subject
 of the page joked an instruction into the ingest path, the operator did the
 same by accident, the model fused the two into a consented engagement, and
 the result reached the infobox — where it survived for two days, propagated
-into [[wiki/self/concepts/ally-and-dan-love-as-destiny|the destiny page]],
+into [[wiki/mind/concepts/ally-and-dan-love-as-destiny|the destiny page]],
 and was caught not by a gate but by re-exporting the messages. The operator
 identified it within four hours and the wiki did not act on his
 identification.
@@ -1457,7 +1457,7 @@ The same eighteen years are read a second way, and the two readings cannot
 both be right. This page documents the Ally thread; it does not adjudicate
 whether that thread and the [[wiki/people/annie-ulmer|Annie]] thread formed a
 single [[wiki/mind/synthesis/concurrent-attachment-hypothesis|concurrent
-attachment]] system. [[wiki/self/concepts/ally-and-dan-love-as-destiny]]
+attachment]] system. [[wiki/mind/concepts/ally-and-dan-love-as-destiny]]
 reads the identical record as a courtship that has been converging the whole
 time, and projects it forward to a marriage inside three years.
 

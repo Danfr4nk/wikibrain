@@ -24,9 +24,9 @@ related:
   - wiki/interests/opie-and-anthony
   - wiki/interests/stand-up-comedy
   - wiki/mind/synthesis/2020-left-turn
-  - wiki/self/twitter/2012
-  - wiki/self/twitter/2014
-  - wiki/self/twitter/2018
+  - wiki/mind/synthesis/twitter-2012
+  - wiki/mind/synthesis/twitter-2014
+  - wiki/mind/synthesis/twitter-2018
   - wiki/self/facebook/messages
   - wiki/interests/concert-record/festivals/oddball-comedy-curiosity-festival
 infobox:
@@ -44,7 +44,7 @@ connections:
   - page: wiki/mind/synthesis/2020-left-turn
     type: evidences
     claim: "An April 24, 2021 message — 'i'm fully aware that i've made a big time lefty heel turn recently' — is a self-aware check-in on the conversion eight months after its Aug 2020 origin, confirming the shift had settled rather than reverted."
-  - page: wiki/self/twitter/2012
+  - page: wiki/mind/synthesis/twitter-2012
     type: co-occurs
     claim: "The 2012-11-18 O&A internship application and the 2019 walk-in at the SiriusXM 'fishbowl' are the same institution approached twice, seven years apart, by two different men — and neither approach has a recorded outcome."
   - page: wiki/self/facebook/messages
@@ -185,7 +185,7 @@ On **18 November 2012**, from New York, Dan tweeted at two O&A staffers:
 > engineering grad with pro tools certification living in NYC."*
 
 and, the same day, *"thanks, I just sent in an app."*
-([[wiki/self/twitter/2012]]). That page records it as the **only** job
+([[wiki/mind/synthesis/twitter-2012]]). That page records it as the **only** job
 application anywhere in the 2010–2012 record, notes that *"recent"* was doing
 heavy lifting for a 2009 degree and a January 2010 certification, and records
 no outcome.
@@ -431,7 +431,7 @@ leads and the forensics follow.
 | Second-largest thread in the archive | Measurement | **High** — derived from the same manifest, 396 threads sorted |
 | Oct 2, 2019 open-mic quotations | Relayed testimony | **Moderate** — stable across old export and corpus copy; absent from the held iMessage corpus; source file missing from `raw/` |
 | SiriusXM walk-in, "the fishbowl", OutQ | Relayed testimony | **Moderate** — same provenance as above; no outcome recorded |
-| 2012-11-18 O&A internship application | Relayed testimony | **Moderate** — quoted on [[wiki/self/twitter/2012]]; the tweet archive is not held here |
+| 2012-11-18 O&A internship application | Relayed testimony | **Moderate** — quoted on [[wiki/mind/synthesis/twitter-2012]]; the tweet archive is not held here |
 | Dec 2018 Chip Chipperson taping | Relayed testimony + indirect primary | **Moderate** — invite and report relayed; two Dec 2018 ticket rows found in the held corpus ([`dat:1339`](../../kb/data/1339-standup-ambition-messages-in-held-corpus.md)) |
 | "We're going to Philadelphia for a taping" | Relayed testimony | **Low** — **not found** in the held corpus ([`dat:1339`](../../kb/data/1339-standup-ambition-messages-in-held-corpus.md)) |
 | Apr 24, 2021 "lefty heel turn" | Relayed testimony | **Moderate** — consistent with two independently dated public self-accounts ([`dat:1078`](../../kb/data/1078-marxist-ultimatum-o-and-a-second-account.md)) |

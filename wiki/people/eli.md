@@ -544,7 +544,7 @@ Compact, per M6. These belong to the argument about evidence, not to the
 account of what happened.
 
 **A1 — Eli's messages are inbound rows on a handle whose owner did not type
-them.** [[wiki/self/concepts/wiki-brain]] names this defect at the system
+them.** [[wiki/mind/concepts/wiki-brain]] names this defect at the system
 level: *a handle is not a person.* At least six inbound rows on Annie's 212
 handle across July–August 2026 were typed by a third party holding her phone,
 all during crises. January 9, 2025 is the same class of event two years

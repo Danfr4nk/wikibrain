@@ -32,7 +32,7 @@ connections:
   - page: wiki/people/bryan-5088682461
     type: evidences
     claim: "A same-morning (Oct 21, 2019) disclosure supplies Dan's own real-time reaction to the encounter, and an Oct 25 follow-up reveals a previously undocumented repeat visit."
-  - page: wiki/self/twitter/2012
+  - page: wiki/mind/synthesis/twitter-2012
     type: evidenced-by
     claim: 'The 2012-02-23 tweet "People who need to come visit me: @danpolyak @EricJester @JoshBrannan @Woodguts" is the only place in the corpus Dan enumerates his own core friend group unprompted — four handles, three years into New York, named as the people who ought to be visiting and are not.'
   - { target: "[[wiki/mind/synthesis/provision-grammar]]", type: references, claim: "RECIPROCAL — the provision grammar's rung 1 ($25, memo 'For introducing me to Ally Lubin') is the priced trace of the December 2018 reintroduction this page documents: access purchased from him." }

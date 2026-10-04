@@ -24,7 +24,7 @@ connections:
   - page: wiki/people/jerad-friedline
     type: parallels
     claim: "Josh Brannan is a shared Uniontown reference point in the Jerad thread — the 'josh brannan is innocent.wav' TTS artifact Jerad and Dan traded in 2025 draws on an eighth-grade memory involving Josh, told in full on [[wiki/people/jerad-friedline]]."
-  - page: wiki/self/twitter/2012
+  - page: wiki/mind/synthesis/twitter-2012
     type: evidenced-by
     claim: 'The 2012-02-23 tweet "People who need to come visit me: @danpolyak @EricJester @JoshBrannan @Woodguts" is the only place in the corpus Dan enumerates his own core friend group unprompted — four handles, three years into New York, named as the people who ought to be visiting and are not.'
   - { target: "[[wiki/people/eric-jester]]", type: references, claim: "RECIPROCAL — both appear in Dan's only self-enumerated core friend group (the 2012-02-23 cohort list, 'People who need to come visit me')." }

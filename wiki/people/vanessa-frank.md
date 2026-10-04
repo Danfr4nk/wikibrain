@@ -7,7 +7,7 @@ status: stable
 date_created: 2026-06-23
 date_modified: 2026-09-17
 sources: ["raw/twitter/archive.jsonl", "raw/twitter/archive.jsonl", "corpus/derived/threads.csv", "corpus/derived/summary.json", "raw/mind/captures/2026-08-02_122411_perspective-complete-objective.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md", "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
-related: ["wiki/people/suzanne-frank", "wiki/people/rick-frank", "wiki/self/ancestry", "wiki/self/overview", "wiki/people/annie-ulmer", "wiki/mind/concepts/autism", "wiki/mind/concepts/acquisition-drive", "wiki/mind/concepts/contact-gini", "wiki/mind/synthesis/november-2005-hinge", "wiki/self/twitter/2013", "wiki/people/kristin"]
+related: ["wiki/people/suzanne-frank", "wiki/people/rick-frank", "wiki/self/ancestry", "wiki/self/overview", "wiki/people/annie-ulmer", "wiki/mind/concepts/autism", "wiki/mind/concepts/acquisition-drive", "wiki/mind/concepts/contact-gini", "wiki/mind/synthesis/november-2005-hinge", "wiki/mind/synthesis/twitter-2013", "wiki/people/kristin"]
 tags: [ai-collaboration, family, politics, digital-footprint]
 infobox:
   name: "Vanessa C. Frank"
@@ -22,7 +22,7 @@ connections:
   - page: wiki/mind/concepts/acquisition-drive
     type: co-occurs
     claim: "The undated episode in which Dan used his sister's ATM card while she was away at college, under a pretext he flags in his own telling as a pretext, is the operator's chosen illustration of the drive running with no consequence-modelling attached."
-  - page: wiki/self/twitter/2013
+  - page: wiki/mind/synthesis/twitter-2013
     type: evidenced-by
     claim: "The five 2013 posts under @VanessaFrankzz and her plain name are the only contemporaneous record of the sibling relationship before the message thread opens in December 2015, and every one of them is a joke made at her expense in public — 'Hair Alert!', 'Kill yourself, make the world a better place', 'has geriatric comedy on lock' — which is a register the low-conflict message thread never shows."
   - page: wiki/mind/concepts/autism
