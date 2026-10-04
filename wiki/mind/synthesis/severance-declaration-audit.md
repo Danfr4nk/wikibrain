@@ -6,7 +6,7 @@ aliases: ["declaration audit", "127 vs 129", "the canonical 129", "exit-declarat
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - kb/data/1292-block-unblock-loop-severance-recount-129-128.md
   - kb/data/0081-explicit-commitment-architecture.md
@@ -45,6 +45,15 @@ connections:
     type: contains
     claim: "The Annie dyad is the audit's entire scope: every count here is Dan-sent messages on the Annie channel. Nothing in this entry measures any other dyad."
   - { target: "[[wiki/mind/synthesis/severance-language-atlas]]", type: contextualizes, claim: "The audit's 36-38 declaration count for August 15-19 is the performance side of the atlas's language catalog — the same window the atlas codes as witness-channel grammar, so the two entries read as count and content of one event." }
+  - page: wiki/mind/synthesis/severance-2026-synthesis
+    type: cites
+    claim: "The audit supplies the measurement layer — the reconciled 129 count and the declaration method — that the 2026 severance-as-system page builds its base rate and horizon on."
+  - page: wiki/mind/synthesis/the-scoreboard
+    type: evidences
+    claim: "The declaration audit's canonical 129-episode count (258 messages, 24-hour collapse, 100% resumption) evidences the scoreboard's use of 129 severance declarations with a 36-second median decay as a counted instrument."
+  - page: wiki/mind/synthesis/kristin-channel
+    type: evidences
+    claim: "The audit's canonical Annie baseline - 129 declarations, 100% re-engagement, 36-second median - evidences the Kristin channel's original control-case contrast, the severance that appeared to stay shut."
   - { target: "[[wiki/mind/synthesis/witness-channel-declarations]]", type: corroborates, claim: "The filed-export counts are the evidentiary floor beneath the witness-channel anatomy: the declarations this audit counts are the same ones the witness entry sorts into channel claims versus performance." }
 ---
 

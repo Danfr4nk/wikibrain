@@ -5,7 +5,7 @@ page_type: synthesis
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-24
+date_modified: 2026-10-04
 date_range_start: 2025-01-09
 date_range_end: 2025-12-31
 sources:
@@ -63,6 +63,9 @@ connections:
     claim: "The Eli discovery (Jan 9, 2025; affair Aug 2024–Jan 2025) is the hinge's trigger event — but the trigger is not the mechanism. The mechanism is what Dan did with the trigger: the staged eviction, the asymmetric landing, the clearing."
   - { target: "[[wiki/mind/synthesis/aura-illness-compound-collapse]]", type: contextualizes, claim: "The 2026 compound collapse names itself against this hinge — its 'Two collapses' section reads 2025 as the prior collapse; this page is the object it compares against." }
   - { target: "[[wiki/mind/synthesis/taste-as-filter-stack]]", type: corroborates, claim: "The taste page dates the dance re-entry against this collapse and measures it; this page names the collapse's floor as what the re-entry was built on." }
+  - page: wiki/mind/synthesis/the-unbroken-bond
+    type: instantiates
+    claim: "The 2025 collapse is the unbroken bond's hardest stress case: the Feb 22, 2025 return and the staged exit dissolved the household while the attachment the bond page measures continued unbroken into 2026."
   - { target: "[[wiki/mind/synthesis/severance-declarations]]", type: references, claim: "The severance-declarations synthesis analyzes the declaration ritual that structures the relationship whose end this page narrates." }
 ---
 

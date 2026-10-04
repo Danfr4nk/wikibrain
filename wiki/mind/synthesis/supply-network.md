@@ -5,7 +5,7 @@ title: "The Supply Network"
 status: active
 knowledge: earned
 date_created: 2026-07-18
-date_modified: 2026-09-19
+date_modified: 2026-10-04
 sources:
   - raw/people/captures/2026-08-02_010509_jay-lauer-death.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - "raw/self/dox-md/MAX_PRIME.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
@@ -125,6 +125,9 @@ connections:
     claim: "This page's reliability inversion is the domain-general audit-timing rule that page states, run on suppliers specifically: Tom already appears on that page's own two-clocks table as a chosen object whose model was revised only after an eighteen-year lag, and Menore's professional distance is the imposed-object case run on the same market."
   - { target: "[[wiki/mind/synthesis/attachment-trauma-bond]]", type: corroborates, claim: "The terminal-phase supplier-seat finding — Dan controlling supply as the relationship's last structure — is the trauma-bond page's logistical-tether section at ledger resolution." }
   - { target: "[[wiki/mind/synthesis/dan-annie-fallout-verdict]]", type: contextualizes, claim: "The fallout verdict names Dan's supply-chain control as his co-authored contribution to the catastrophe; this page is the fifteen-year procurement architecture that finding rests on." }
+  - page: wiki/mind/synthesis/august-grievance-verdict
+    type: evidences
+    claim: "The supply network's terminal record evidences the grievance verdict's window: its last documented transaction is the failed $60 handoff on the evening of 2026-08-16, inside the five hours in which the relationship ended."
   - { target: "[[wiki/mind/synthesis/august-26-block-retraction]]", type: references, claim: "The Aug-27–Sep-7 daily texting the retraction forensically establishes ran on this network's final configuration — five handoffs in six days after the June 1 closure — so the severance-that-wasn't left no operational gap in the procurement channel either." }
 ---
 

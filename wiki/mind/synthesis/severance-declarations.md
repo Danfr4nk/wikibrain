@@ -7,7 +7,7 @@ aliases: ["the declaration is the performance", "129 declarations", "severance a
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-10-03
+date_modified: 2026-10-04
 sources:
   - kb/data/0081-explicit-commitment-architecture.md
   - kb/data/1292-block-unblock-loop-severance-recount-129-128.md
@@ -65,6 +65,15 @@ connections:
   - { target: "[[wiki/mind/synthesis/witness-channel-declarations]]", type: references, claim: "The sibling page owns the audience-requirement mechanism behind this entry's witness-channel finding (three attested Ally-thread block-claims, 2026-08-28→09-07)." }
   - { target: "[[wiki/mind/synthesis/august-26-block-retraction]]", type: references, claim: "Names the August 26 non-event this entry's purest case — the 130th declaration with zero seconds of non-contact." }
   - { target: "[[wiki/mind/synthesis/block-unblock-loop]]", type: extends, claim: "Builds the speech-act object on the loop's 129-episode statistics and corrected formula — 'the exit is executed; the deletion never is.'" }
+  - page: wiki/self/message-corpora/message-request-blind-spot
+    type: evidenced-by
+    claim: "The declarations page's headline asymmetry — 1,512 love affirmations against zero explicit severance signals from her side — is the absence claim class the blind-spot protocol exists to price: presence cheap to prove, absence expensive, and citable only with its denominator attached."
+  - page: wiki/mind/synthesis/witness-lexicon-split
+    type: parallels
+    claim: "Severance-declarations analyzes the nightly 'good night pretty girl' ritual as the declaration's counter-grammar; witness-lexicon split documents that ritual's channel confinement — it persists in the direct channel through the declaration-dense nights and never crosses into the witness channel's vocabulary."
+  - page: wiki/mind/synthesis/transfer-comparative-2015-2026
+    type: evidences
+    claim: "The severance-declaration series evidences the transfer machinery's timing, from the 1 December 2015 founding 'just you and me' message after Alexis's eviction to repeated declarations over eleven years."
 changelog:
   - 2026-10-03: Restructured to canonical template v1
 ---

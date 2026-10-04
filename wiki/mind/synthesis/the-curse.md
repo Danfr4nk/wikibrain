@@ -7,7 +7,7 @@ aliases: ["the complicating mechanism", "everything devolves", "the curse is not
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-10-03
+date_modified: 2026-10-04
 sources:
   - kb/data/0081-explicit-commitment-architecture.md
   - kb/data/1292-block-unblock-loop-severance-recount-129-128.md
@@ -86,6 +86,18 @@ connections:
   - { target: "[[wiki/mind/synthesis/vacancy-rule]]", type: extends, claim: "Severance declarations are slot-events, not vacancy events — the vacancy rule is the formal statement of why the curse's 129 performances never open a vacancy." }
   - { target: "[[wiki/mind/synthesis/the-scoreboard]]", type: references, claim: "Case 6 ('Fifty dollars, worked as a case file') is the scoreboard's counted-incident method applied to a single $50 event." }
   - { target: "[[wiki/people/tom]]", type: documents, claim: "Case 3's structure-3 failure — Tom Maison's May 2026 no-show — is the friendship/supply collapse the compound case is built on." }
+  - page: wiki/mind/synthesis/bond-vs-structure
+    type: parallels
+    claim: "The curse's refusal-of-exits mechanism part runs on this page's rule — the exit is available the whole time, and what actually happens is the cheapest live channel firing first; the curse names the pattern, this entry prices its channels."
+  - page: wiki/mind/synthesis/severance-2026-synthesis
+    type: extends
+    claim: "The curse extends the 2026 severance account by showing the severance held longest while material structures were down and contact resumed 23 July over the shared dog."
+  - page: wiki/mind/synthesis/channel-cost-pricing
+    type: instantiates
+    claim: "The curse's 23 July resumption over the shared dog, after fifty-two days, instantiates channel-cost pricing's cheap, deniable channel firing first."
+  - page: wiki/mind/synthesis/money-and-estate-synthesis
+    type: instantiates
+    claim: "The curse instantiates money-and-estate's pattern in 2026: money moves as dated relational events - a house closing in another person's name, metered family and relationship channels, and a severance that held while those structures were down."
 changelog:
   - 2026-10-03: Restructured to canonical template v1
 ---

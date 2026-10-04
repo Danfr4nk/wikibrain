@@ -6,7 +6,7 @@ aliases: ["provenance sorting", "selection buys delay", "the two clocks", "the a
 status: active
 knowledge: earned
 date_created: 2026-08-02
-date_modified: 2026-09-04
+date_modified: 2026-10-04
 sources:
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -77,6 +77,9 @@ connections:
     claim: "Self-Consciousness at 91 — corpus-audited and leaning confirmed at 1.85x self-monitoring in company — is the register that explains why the delay attaches specifically to chosen objects rather than to all objects generally: Trust 9 predicts fast suspicion of an outside party's motive, which is what makes imposed-object audits cheap, but it says nothing about auditing one's own prior judgment, which is what a chosen-object audit actually is, and that is a self-monitoring cost this facet measures directly."
   - page: wiki/mind/synthesis/supply-network
     type: parallels
+  - page: wiki/mind/synthesis/august-grievance-verdict
+    type: evidenced-by
+    claim: "The August grievances are the deferred audit's terminal firing on the primary bond: the forensic apparatus that caught a $50 claim in hours took roughly nine years to produce a verdict on Annie, and the verdict arrived as a judgment on the last conversation rather than during the bond."
     claim: "That page's reliability inversion — friend-suppliers less reliable than strangers — is this page's audit-timing rule run on one market: Tom is already this page's own eighteen-year chosen-object case, and supply-network generalizes the same mechanism across an entire node succession rather than one relationship."
 ---
 

@@ -49,6 +49,9 @@ connections:
   - page: wiki/mind/profile/intp
     type: contextualizes
     claim: "The forensic-analyst lens narrates anomalies by construction — the diagnosis is the output, and a diagnosis is a delta. A corpus produced by that cognition is over-weighted toward what broke and structurally under-weighted toward what held, which is why this bias is worse in this archive than it would be in someone else's."
+  - page: wiki/mind/synthesis/chemical-architecture
+    type: evidenced-by
+    claim: "The chemical-architecture synthesis's sixteen-year flat Suboxone row — a steady state that never gets narrated and exists in the record only as arithmetic — is this page's central chemical case of a constant the corpus structurally cannot show."
 changelog:
   - 2026-10-03: Restructured to canonical template v1; expanded from corpus
 ---

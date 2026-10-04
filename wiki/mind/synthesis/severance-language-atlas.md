@@ -6,7 +6,7 @@ aliases: ["severance-language atlas", "declaration grammar", "the atlas", "per-h
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - src:wikitest-corpus-messages-2026-09-08 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - kb/data/1292-block-unblock-loop-severance-recount-129-128.md
@@ -65,6 +65,12 @@ connections:
     type: instantiates
     claim: "The attachment model's 299:0 finding (love-affirmations against severance signals) is this atlas's inbound column for the Annie dyad stated at the system level: across all 503 handles the corpus contains exactly one inbound executed severance signal from a romantic counterparty (Kristin, December 9, 2025), and it did not come from Annie."
   - { target: "[[wiki/mind/synthesis/severance-declaration-audit]]", type: corroborates, claim: "The atlas's coded declarations are the language sample the audit counts — the audit's 36-38 figure for August 15-19 is the quantitative face of this entry's qualitative coding." }
+  - page: wiki/self/message-corpora/message-request-blind-spot
+    type: related
+    claim: "The severance language atlas, which measures declaration grammar system-wide but finds full-strength performance dyad-concentrated, shares the Kristin case with the blind-spot page as the corpus's inbound control that turned out instrument-bound."
+  - page: wiki/mind/concepts/contact-gini
+    type: parallels
+    claim: "The severance-language atlas parallels Contact Gini from the declaration side: its per-handle table finds 104 outbound Annie-dyad episodes at 100% resumption, the same Annie-channel concentration the volume metric measures in messages."
   - { target: "[[wiki/mind/synthesis/witness-channel-declarations]]", type: contextualizes, claim: "The atlas's Ally-channel 'blocked her' rows are the language evidence the witness-channel entry's claim-by-claim anatomy is built from: declarations about a toggle that was never thrown." }
 ---
 

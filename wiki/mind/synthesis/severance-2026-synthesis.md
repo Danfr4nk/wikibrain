@@ -7,7 +7,7 @@ tier: major
 status: active
 knowledge: earned
 date_created: 2026-10-03
-date_modified: 2026-10-03
+date_modified: 2026-10-04
 date_range_start: 2026-06-01
 date_range_end: 2026-12-19
 sources:
@@ -43,6 +43,30 @@ connections:
   - page: wiki/mind/synthesis/high-provision-low-condolence
     type: cites
     claim: "That page's prediction lost its live test window when the severance horizon was voided; the prediction survives, its 2026 experiment does not."
+  - page: wiki/mind/synthesis/severance-declaration-audit
+    type: evidenced-by
+    claim: "This page's designed-experiment base rate rests on the audit's reconciled declaration counts: 129 as the canonical primary-record figure, 127 retired as dossier arithmetic, and the strict terminal-phase adjudication the sibling catalog is corrected by."
+  - page: wiki/mind/synthesis/concurrent-attachment-hypothesis
+    type: parallels
+    claim: "The concurrent-attachment hypothesis is the live rival reading of this page's 2026 window: its H1 predicts the successor channel runs during the severance instability rather than after it, and the August 18-19 dual-load ledger is the observation the two pages share."
+  - page: wiki/mind/synthesis/transfer-comparative-2015-2026
+    type: component-of
+    claim: "The transfer comparative's negative case — the failed 2026 Annie-to-Ally transfer — runs inside the severance year this page frames as a designed system; the 52-day hold plus 380 unanswered messages is the transfer's cost stated in this page's units."
+  - page: wiki/mind/synthesis/the-rescue-premise
+    type: evidences
+    claim: "The 2026 severance system's two dated ruptures (1 June and 16-19 August) and pre-closed channel supply the dated features the rescue premise tests for a rupture different in kind."
+  - page: wiki/mind/synthesis/the-curse
+    type: component-of
+    claim: "The 2026 severance, including its 1 June closure and fifty-two-day hold, is a component of the curse's ninety-day compound collapse in which relationship, job, housing, and supply structures fell together."
+  - page: wiki/mind/synthesis/witness-channel-declarations
+    type: evidences
+    claim: "The 2026 severance system's terminal rupture is evidenced by witness-channel declarations, including a terminal-window declaration addressed to a group chat rather than to either partner."
+  - page: wiki/mind/synthesis/bond-vs-structure
+    type: evidenced-by
+    claim: "The 2026 severance's fifty-two-day longest hold is evidenced by bond-vs-structure's starved-channel experiment, in which money, supply, cohabitation, and triangulation channels were gone before the hold broke on a dog email."
+  - page: wiki/mind/synthesis/witness-lexicon-split
+    type: extends
+    claim: "The 2026 severance synthesis extends that lexical finding to system scale, reading the same Annie severance year by its base rate of 129 episodes, its 120-day horizon, its channels and its retracted August premise."
 tags: [annie-ulmer, severance, experiment, falsification, forensic-analysis]
 importance: 5
 synthesizes:

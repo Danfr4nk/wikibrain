@@ -7,7 +7,7 @@ title: "Read-Receipt Forensics — chat.db Metadata and Its Traps"
 aliases: ["read receipts", "date_read", "chat.db metadata"]
 tags: [forensic-analysis, digital-footprint]
 date_created: 2026-08-09
-date_modified: 2026-08-28
+date_modified: 2026-10-04
 sources: []
 synthesizes:
   - wiki/mind/concepts/forensic-method
@@ -31,6 +31,12 @@ connections:
     claim: "This page's own reassurance-architecture citation — read-receipt analysis as 'measurement substituting for reassurance' — is one hop from its actual source: Trust at the 9th percentile, corpus-confirmed at 1.96x raised suspicion, is why a confirmation does not carry forward and a device-level metadata query gets run in the first place. Named directly here rather than left implicit."
   - { target: "[[wiki/mind/synthesis/instrument-is-subject]]", type: contextualizes, claim: "The instrument-is-subject page sets the evidentiary standard this forensic method has to meet." }
   - { target: "[[wiki/mind/synthesis/the-unbroken-bond]]", type: references, claim: "The unmasking case at the heart of M4 unfolded inside the bond the unbroken-bond page describes." }
+  - page: wiki/self/message-corpora/source-coverage-index
+    type: instantiates
+    claim: "Read-receipt forensics is the worked instance of the coverage index's standing warning: an instrument returning a confident answer its extraction silently corrupted — date_read read the wrong way yields the opposite conclusion with no error raised."
+  - page: wiki/mind/synthesis/message-circadian-latency
+    type: parallels
+    claim: "Read-receipt forensics is a timestamp cut of the message corpus parallel to the latency page: it defines date_read's directional asymmetry in chat.db, while the latency page measures reply timing from the same message rows."
 
 ---
 
