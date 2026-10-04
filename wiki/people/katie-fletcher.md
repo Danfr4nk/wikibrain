@@ -213,6 +213,75 @@ after: a partner synced to his intensity.
 > error is instructive — it was written from the sources this page was built
 > from, and nothing checked it against the corpus's other archives.
 
+## The six weeks, as now dated
+
+**Added 2026-10-04.** Assembled from the public posts above and Dan's
+telling; testimony dates are his, post dates are the archive's.
+
+| When | What |
+|---|---|
+| ~mid-July 2013 | Cold DM on Twitter; she does not know who he is. |
+| Days later | First date: The Melting Pot, Pittsburgh. |
+| ~late July 2013 | The condom incident; his silence begins. |
+| Following weeks | The long-shot hopes (dissolve, fell out) curdle into "things really do work out." |
+| August 2013 | Her vacation; the last-day coldness; the discovery; "I found a condom inside myself. You left it there"; the two-fer denial; zero consideration. |
+| August 2013 | The relationship continues under "turmoil"; the implied charge never spoken aloud. |
+| 2013-08-21 → 08-30 | The six public posts (table above). |
+| 2013-08-30 | Oddball, Burgettstown: keys, bumps, Chappelle; "Can't you just laugh at the jokes?"; "Take me home"; one hour of silence. |
+| 2013-08-31 | Made in America, Philadelphia — planned, never attended. |
+| Since | No contact. Not a word. |
+
+## Assessment: the two instruments
+
+**Added 2026-10-04.** Two instruments run through this six-week
+relationship, one pointed at her and one pointed at him, and they are the
+same shape.
+
+Dan's is the denial. "That could not happen, at least not from me" is a
+test whose scoring rule he states plainly: the innocent have nothing to
+consider, so consideration is guilt. The construction is unfalsifiable
+from inside — a frightened pause would score the same as a guilty one —
+and its payout matrix is inverted: it returns information only in the
+world where she is guilty. She returned the null result, zero
+consideration, and the instrument gave him nothing except the knowledge
+that it had been run on an innocent person by a guilty one. The
+closed-set arithmetic (one partner, one condom) meant the denial could
+never have survived her simply doing the math, and he seems to have known
+that too; the two-fer was a bet placed against his own knowledge, at her
+expense, because the confession road cost more in the moment than the
+slow road cost over two months. That exchange rate — immediate small
+shame declined, compounding shame accepted — is the signature transaction
+of the whole episode, and the interest was paid by Katie, in a found
+object and in a confrontation she had to drive to him to conduct.
+
+Katie's instrument, if it can be called one, was the sentence. "Can't you
+just laugh at the jokes?" asked, in the middle of his home territory —
+the walk-out deconstruction, conducted with his sister, the co-processor
+he was born with — that he stop the operation by which he processes
+everything and simply consume. He heard it, correctly or not, as a
+standing demand rather than a tired one, and he names the hearing as the
+point of no return: the words he could not unhear. The symmetry is exact
+and neither of them could see it: each demanded the other stop running
+the machine they were made of. His machine happened to be forensics; hers
+was a request for unmediated experience. The relationship did not survive
+the night both machines were switched on at full power in the same car
+ride — his had been running for two months already, aimed at the condom;
+hers ran for one sentence, aimed at the deconstruction.
+
+The Chappelle frame is Dan's, and it is not incidental that he chose it.
+He spent that evening watching the most celebrated comic alive refuse,
+one night after humiliation, to perform on the crowd's terms — refuse,
+specifically, to just give them the jokes — and rebuild his act live
+instead. Hours later he was asked to just laugh at the jokes. His
+account of his own life dates a conversion to that night: the end of
+seeking, in his words, "normie NPC approval," and the full commitment to
+being a "weirdo fuck autist social assassin." Whether the conversion
+happened then or was assigned to then later, the assignment itself is
+the evidence: this is the night he keeps for the proposition that the
+deconstruction is not a habit to be apologized for but the person. Katie
+asked him, once, in a parking lot, to be otherwise. He has never spoken
+to her again. Those two facts are the whole file.
+
 > **REVISED [2026-07-13]:** the Franki/Katie sequencing is resolved — the
 > Franki interlude dates to summer 2013 (per dated primary emails), placing
 > it just before Katie's own 2013 tenure, consistent with the DANSYNTH node
