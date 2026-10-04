@@ -89,6 +89,9 @@ connections:
     claim: "This model's headline numbers are derived from that page's recount: 258 declaration-language messages collapsing to 129 severance episodes on a 24-hour rule, 128 of the 129 followed by resumed contact."
   - page: wiki/mind/concepts/no-delete-operation
     type: instantiates
+  - page: wiki/mind/concepts/node-locking
+    type: parallels
+    claim: "Node Locking exports this architecture into Dan's AI work: stated material persists in profile state until explicitly revoked, with no delete operation."
     claim: "The attachment model is the no-delete operation instantiated at bond level: on the bond, severance is declared and reversed, never executed."
 ---
 

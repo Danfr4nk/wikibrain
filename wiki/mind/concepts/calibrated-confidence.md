@@ -7,7 +7,7 @@ status: active
 importance: high
 knowledge: earned
 date_created: 2026-08-02
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/twitter/archive.jsonl
@@ -42,6 +42,9 @@ connections:
     claim: "This page is the control for a corpus-wide binary/graded split: the strict credences attach to unwitnessed facts about the world, never to a verdict about a person's worth, a taste's authenticity, or a relationship's legitimacy — the one place gradation lives is fenced off from the one place it never appears."
   - page: wiki/self/twitter
     type: evidenced-by
+  - page: wiki/mind/synthesis/evidence-discipline
+    type: parallels
+    claim: "Dan's graded numeric credences — scale-use where everyone else uses a word — are subject-generated material this discipline exists to grade rather than take at face value."
     claim: "The public archive (2,718 originals) returns 0 strict-pattern instances where the message rate predicts ~1 — underpowered, not a refutation — and shows the habit in a form the pattern cannot see: graded at the world ('it's 25% at best for Kamala') rather than at his own mental state."
 ---
 

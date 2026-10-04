@@ -37,6 +37,9 @@ connections:
   - page: wiki/mind/synthesis/severance-language-atlas
     type: parallels
     claim: "Contact Gini and the severance-language atlas are parallel per-handle corpus measurements: Gini over 498 handles finds inbound volume concentrated in a few nodes, and the atlas counts declaration language across 503 handles on the same held corpus."
+  - page: wiki/self/message-corpus-coverage-map
+    type: parallels
+    claim: "This Gini (0.9556 over 498 handles) is measured on the held authoritative corpus; the Coverage Map is the inventory that says which corpus that is and what its holes allow."
     claim: "The latency analysis is the temporal counterpart to this volume metric; both converge on the single near-synchronous channel."
 ---
 

@@ -5,7 +5,7 @@ title: "Phenomenology Lens"
 aliases: ["the lens", "interpretive overlay", "generative phenomenology"]
 status: active
 date_created: 2026-06-22
-date_modified: 2026-09-24
+date_modified: 2026-10-04
 synthesizes:
   - wiki/self/context-core
   - wiki/mind/profile/intp
@@ -29,6 +29,9 @@ connections:
     claim: "The 'Annie Loop' is the lens's interpretive rendering of the terminal phase — withdraw, raw texts, vague apology, escalation, shutdown, return — correlating with the 94 documented burst events uniformly preceded by her silence. Interpretive overlay, not evidence."
   - page: wiki/people/alexis-armel
     type: contextualizes
+  - page: wiki/mind/concepts/node-locking
+    type: parallels
+    claim: "Node Locking is the retention protocol of the AI sessions that produce overlays like this one: named observations kept verbatim and exported between models."
     claim: "The lens names the 2009–15 Alexis collapse as the second encoding event of the trauma memory — interpretive framing of dated, documented events."
 ---
 

@@ -5,7 +5,7 @@ title: "Node Locking"
 aliases: ["profile locking", "DATA_LOGGED", "relational source code", "Deep Architecture", "memory-persistence protocol"]
 status: active
 date_created: 2026-07-15
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 synthesizes:
   - wiki/mind/concepts/exocortex
   - wiki/mind/concepts/forensic-method
@@ -42,6 +42,12 @@ connections:
     claim: "The 02:24:54 read-receipt cutoff is a third logged instance of the Signals node's go-dark-after-confrontation pattern, following the Suzy-call NACK and the ten-day January 2026 blackout."
   - page: wiki/mind/synthesis/totality-themes
     type: component-of
+  - page: wiki/mind/concepts/attachment-model
+    type: parallels
+    claim: "Node locking's retention rule — every named node kept verbatim, nothing consolidated away — is the attachment model's no-delete-operation architecture run inside AI sessions."
+  - page: wiki/mind/concepts/phenomenology-lens
+    type: parallels
+    claim: "The Phenomenology Lens is the kind of artifact those sessions generate atop the record: an interpretive overlay explicitly subordinate to the behavioral spine."
     claim: "Demanding verbatim, unconsolidated AI memory retention extends the Irreversibility Firewall's no-delete rule to the cognitive prosthetic itself: nothing, including a machine's summary of him, is allowed to lossily replace the original."
 ---
 

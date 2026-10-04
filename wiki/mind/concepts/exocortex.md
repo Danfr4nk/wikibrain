@@ -5,7 +5,7 @@ title: "The Exocortex (Bootloaders & Master Prompts)"
 aliases: ["CATO", "operating manual", "master forensic prompt", "MAX"]
 status: active
 date_created: 2026-06-22
-date_modified: 2026-09-18
+date_modified: 2026-10-04
 knowledge: earned
 tags: [forensic-analysis, ai-collaboration, personality-profile]
 sources:
@@ -46,6 +46,9 @@ connections:
     claim: "Claude was the primary model that loaded the CATO bootloader until 2026-09-12, when Dan canceled his subscription outright after judging Muse Spark 1.3 superior — the displacement is documented on the Claude page; the bootloader mechanism is model-agnostic and survived the move."
   - page: wiki/work/tech/projects/hook2piano
     type: instantiates
+  - page: wiki/mind/politics/axioms
+    type: parallels
+    claim: "The Axioms page states the belief layer those artifacts install, separating the four core axioms from the power axiom and dating each layer's evidence."
     claim: "hook2piano/MELODY are the music-production wing's exocortex instruments: cognitive prosthetics that do the part of the musical task his perception doesn't do natively (reading notation, parsing stems by ear) so his native strengths — melodic/harmonic hearing, structural pattern recognition — get the cleanest possible input."
 ---
 
