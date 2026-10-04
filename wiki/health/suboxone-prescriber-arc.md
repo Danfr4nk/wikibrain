@@ -26,7 +26,7 @@ synthesizes:
 related:
   - wiki/health/suboxone-dose-curve
   - wiki/mind/synthesis/supply-graph-vs-chain
-  - wiki/self/corpus/channel-coverage-gaps
+  - wiki/self/message-corpus-coverage-map
 tags: [addiction-recovery, forensic-analysis]
 connections:
   - page: wiki/health/suboxone-dose-curve
@@ -38,7 +38,7 @@ connections:
   - page: wiki/mind/synthesis/supply-graph-vs-chain
     type: component-of
     claim: "That entry models the licit layer as one layer of a two-layer graph and states its epistemic floor as an unresolved verification ceiling. This page is that layer read on its own terms and on its own timeline, and it lifts the ceiling: dat:1502 settles the three quotes' existence, which converts the graph's 'moderate confidence on the 2025 topology' into a coverage-bounded rather than a provenance-bounded claim."
-  - page: wiki/self/corpus/channel-coverage-gaps
+  - page: wiki/self/message-corpus-coverage-map
     type: evidenced-by
     claim: "The arc is legible only because three different channels covered three different decades — Facebook for 2011 and 2013, the authoritative export for 2019, the 2025-08-11 dump for 2025. No single instrument holds this timeline, and the coverage map is why."
   - page: wiki/mind/synthesis/steady-state-invisibility
@@ -155,7 +155,7 @@ return to Uniontown, the 2015 onset of the decade's primary relationship, and th
 corpus's densest year. Whether a doctor existed continuously across it is
 [UNKNOWN], and the reason is partly mechanical: the authoritative export holds
 **zero messages** for 2012, 2013 and 2014 **[DERIVED,
-`corpus/derived/summary.json`; see [[wiki/self/corpus/channel-coverage-gaps]]]**.
+`corpus/derived/summary.json`; see [[wiki/self/message-corpus-coverage-map]]]**.
 
 ## 4. 2019 — the only line that survived verification first time
 
@@ -422,6 +422,6 @@ page adopts it as its reading of the arc's last row.
 - [[wiki/health/the-configured-body]] — the 2026-08-19 correction
 - [[wiki/mind/synthesis/supply-graph-vs-chain]] — the licit layer inside the
   two-layer graph
-- [[wiki/self/corpus/channel-coverage-gaps]] — why three channels were needed to
+- [[wiki/self/message-corpus-coverage-map]] — why three channels were needed to
   see one relationship
 - [[wiki/work/bfs-foods]] — the May 2026 cascade

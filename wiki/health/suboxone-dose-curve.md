@@ -41,7 +41,7 @@ connections:
   - page: wiki/health/intake-ledger
     type: contrasts
     claim: "Two stack rows (cocaine, cannabis) have measured ledger nights; this row has none. The ledger's discipline of dating what it can see is this page's model for what it cannot see."
-  - page: wiki/self/twitter/2010
+  - page: wiki/mind/synthesis/twitter-2010
     type: evidenced-by
     claim: "The same-day tweet (15:07 ET, 2010-02-17) that independently supports the day-zero start of the interval this page's bearings are measured across."
   - { target: "[[wiki/people/johnny-dealer]]", type: documents, claim: "The 2018-era strip pricing (8mg/$15, 12mg/$20) is the corpus's other suboxone-adjacent mg figure — supply-graph pricing, explicitly not his dose." }
@@ -169,7 +169,7 @@ claim.
 
 ### 2010-02-17 — the run starts. Not a dose point.
 
-The day-zero date: February 17, 2010 **[ATTESTED, wiki/self/twitter/2010]**.
+The day-zero date: February 17, 2010 **[ATTESTED, wiki/mind/synthesis/twitter-2010]**.
 Its epistemic history is fully documented on
 [[wiki/health/chemical-architecture]] — originally computed (not recalled) as
 "the day before a train," the derivation broken by the Twitter record showing

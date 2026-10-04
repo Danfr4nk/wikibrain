@@ -62,22 +62,22 @@ connections:
   - page: wiki/timeline/events/robotussin-s-last-dance
     type: contains
     claim: "DXM is the first documented substance in the corpus that Dan took deliberately to 'shatter the space-time continuum' — a word-for-word prefiguration of the engineered-stack framing he adopts a decade later, and the first instance of recreational use preceding the opiate arc by two years."
-  - page: wiki/self/twitter/2010
+  - page: wiki/mind/synthesis/twitter-2010
     type: evidenced-by
     claim: 'The 2010-02-17 day-zero is independently supported by a same-day tweet at 15:07 New York time — "this is the most stressful day/decision of my life. nothing is making it easier." — on a day when the Brooklyn move, decided and celebrated three weeks earlier, cannot be the referent. The derivation the date originally rested on is separately shown to be unsound.'
-  - page: wiki/self/twitter/2008
+  - page: wiki/mind/synthesis/twitter-2008
     type: evidenced-by
     claim: "The nicotine row is dated for the first time here: already a smoker at nineteen, a quit announced on 16 October 2008 as 'Another problem solved' and failed by 22 December — the earliest dated instance in the corpus of a decision being treated as the outcome."
-  - page: wiki/self/twitter/2017
+  - page: wiki/mind/synthesis/twitter-2017
     type: evidenced-by
     claim: "Nicotine onset is 2007, at a promotional Fall Out Boy show — which puts it in the same year as the first opiate, making 2007 the year the stack starts rather than the year one substance arrived."
-  - page: wiki/self/twitter/2019
+  - page: wiki/mind/synthesis/twitter-2019
     type: evidenced-by
     claim: "The nicotine regulator survives every attempt to remove it and in 2019 he states the logic himself — 'i could replace the constant taste of burnt tobacco with strawberry' (9 October), nine years after the same move with an e-cigarette, followed within a day by a can of Skoal."
   - page: wiki/mind/synthesis/intake-constancy
     type: parallels
     claim: "Nicotine ticks for eighteen years while the delivery apparatus rotates through cigarettes, e-cigarette, vape, Skoal and disposables — the intake-constancy shape with hardware as the rotating variable rather than subject matter."
-  - page: wiki/self/twitter/2011
+  - page: wiki/mind/synthesis/twitter-2011
     type: evidenced-by
     claim: "The one relapse the archive preserves without ever mentioning it: '1 week smoke free!' on 10 January 2011 restarts a counter that began on 13 December 2010, so the e-cigarette quit broke inside three weeks and is visible only in the arithmetic."
   - page: wiki/mind/synthesis/the-register-never-closes
@@ -145,7 +145,7 @@ the record.
 > *streak was feb 17, 2010."* **The date was computed, not recalled** — the day
 > before a train — and the anchor came from a model reading email logs.
 >
-> **That anchor is wrong.** `wiki/self/twitter/2010` shows the 18 February
+> **That anchor is wrong.** `wiki/mind/synthesis/twitter-2010` shows the 18 February
 > train running the other way: on the 17th he is already in New York (*"off to*
 > *Williamsburg"*) and on the 18th he is *"On the train back to PA."* The
 > arithmetic behind the corpus's most-cited date does not hold.
@@ -198,9 +198,9 @@ made radioactive.
 ## Nicotine: eighteen years, five delivery systems, and no interruption
 
 Assembled 2026-09-04 from the twitter archive. The year pages
-([[wiki/self/twitter/2008]], [[wiki/self/twitter/2010]],
-[[wiki/self/twitter/2011]], [[wiki/self/twitter/2017]],
-[[wiki/self/twitter/2019]]) each hold a piece of this; **nothing held the
+([[wiki/mind/synthesis/twitter-2008]], [[wiki/mind/synthesis/twitter-2010]],
+[[wiki/mind/synthesis/twitter-2011]], [[wiki/mind/synthesis/twitter-2017]],
+[[wiki/mind/synthesis/twitter-2019]]) each hold a piece of this; **nothing held the
 sequence**, and the sequence is the finding.
 
 The stack table above carries nicotine as *"ritualistic regulator — thermal
