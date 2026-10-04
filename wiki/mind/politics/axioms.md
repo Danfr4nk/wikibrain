@@ -5,7 +5,7 @@ knowledge: earned
 title: "Axioms — The Four Core Axioms and the Power Axiom"
 status: active
 date_created: 2026-08-10
-date_modified: 2026-09-13
+date_modified: 2026-10-04
 sources:
   - wiki/mind/synthesis/four-axioms-attestation.md
   - kb/data/0044-old-wiki-testimony-ledger.md
@@ -37,6 +37,9 @@ connections:
     claim: "The 2020-08-22 self-narration in held iMessages is the conversion event both axiom layers postdate. The pre-2016 political identity remains thin."
   - page: wiki/mind/profile/big-five-psychometrics
     type: evidenced-by
+  - page: wiki/mind/synthesis/chemical-architecture
+    type: evidenced-by
+    claim: "The chemical-architecture page supplies the behavioral corroboration the axioms could not get from the lexical pass: roughly 5,840 consecutive daily doses read as 'not vigilant = annihilated' enacted."
     claim: "The constitution pass: no Big Five facet directly measures either axiom layer. The profile's relevance is negative — the axioms are not traits, they are framings, and the page does not claim otherwise."
 ---
 

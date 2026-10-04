@@ -7,7 +7,7 @@ tier: major
 status: stable
 knowledge: earned
 date_created: 2026-10-01
-date_modified: 2026-10-01
+date_modified: 2026-10-04
 tags: [substack, 2024-election, prediction, trump, prediction-audit, reliability]
 sources:
   - "raw/dan/20261001-substack-creepy/2024-11-12-trump-redux.md"
@@ -16,6 +16,11 @@ sources:
   - "raw/dan/20261001-substack-creepy/2023-05-26-poll-watch-1.md"
   - "raw/dan/20261001-substack-creepy/2023-06-02-the-keys-of-political-predictions.md"
   - "raw/dan/20261001-substack-creepy/MANIFEST.md — 10-post pull manifest, 2026-10-01"
+connections:
+  - page: wiki/self/substack/poll-watch-series
+    type: evidenced-by
+    claim: "This page's audit quotes POLL WATCH #1's own disclaimer — that it was 'too early to look at polls with any reasonable amount of confidence' — as primary evidence that the 2023 general-election position was hedged tracking, not the concluded call the 2024 post remembers."
+
 ---
 
 # Trump Was Always Going To Win: the claim, audited

@@ -7,12 +7,17 @@ tier: major
 status: stable
 knowledge: earned
 date_created: 2026-10-01
-date_modified: 2026-10-01
+date_modified: 2026-10-04
 tags: [substack, 2024-election, prediction, trump, mechanism]
 sources:
   - "raw/dan/20261001-substack-creepy/2023-05-23-the-desantis-delusion.md — primary thesis post"
   - "raw/dan/20261001-substack-creepy/2023-05-26-how-to-ruin-your-political-career.md — companion piece"
   - "raw/dan/20261001-substack-creepy/2024-11-12-trump-redux.md — postmortem (general-election certainty discussed)"
+connections:
+  - page: wiki/mind/concepts/hell-world-frame
+    type: instantiates
+    claim: "The DeSantis Delusion is the hell-world frame's founding worked example: the consensus case steelmanned in full, then detonated by reinserting the one variable it had deleted — the worst reading licensed as realism, applied before the primary was run."
+
 ---
 
 # The DeSantis Delusion: a theory of the case
