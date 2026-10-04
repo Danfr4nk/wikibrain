@@ -278,7 +278,7 @@ Annie channel running from August.
   alone,"* her unprompted return, staying till 10 PM. **Apr 24**: the
   relationship declared *"smashed"* — irrevocable, no visible future
   commitment. **Apr 27**: Dan feeds the ten-day log to
-  [[wiki/self/concepts/chatgpt|ChatGPT]] and asks it to act as *"an
+  [[wiki/mind/concepts/chatgpt|ChatGPT]] and asks it to act as *"an
   exclusively impartial arbiter of the fact patterns"* — the forensic
   instrument later turned on the relationship at scale, turned on it here by
   the operator himself, in real time. **Late April, "a Thursday"**: 337

@@ -26,7 +26,7 @@ related:
   - wiki/places/307-e-76th-st
   - wiki/places/337-saratoga-drive
   - wiki/timeline/events/eli-incident
-  - wiki/self/concepts/chatgpt
+  - wiki/mind/concepts/chatgpt
 tags: [relationships, financial-stress, addiction-recovery, housing, infidelity, ai-collaboration, forensic-analysis]
 connections:
   - page: wiki/timeline/periods/2025-collapse
@@ -51,7 +51,7 @@ connections:
 
 # Feb–April 2025: Return and Rupture
 
-Between February 1 and April 27, 2025, Dan Frank left New York, lost the apartment he had shared with [[wiki/people/annie-ulmer|Annie]] for six years, moved back into his mother's house in Uniontown alone, and watched that house get prepared for sale. He and Annie stayed a couple, at a distance. In the small hours of Sunday, April 27, he uploaded ten days of their messages to [[wiki/self/concepts/chatgpt|ChatGPT]] and asked it to tell him the truth about the relationship, including his own part in it.
+Between February 1 and April 27, 2025, Dan Frank left New York, lost the apartment he had shared with [[wiki/people/annie-ulmer|Annie]] for six years, moved back into his mother's house in Uniontown alone, and watched that house get prepared for sale. He and Annie stayed a couple, at a distance. In the small hours of Sunday, April 27, he uploaded ten days of their messages to [[wiki/mind/concepts/chatgpt|ChatGPT]] and asked it to tell him the truth about the relationship, including his own part in it.
 
 This page is the week-level record of those twelve weeks. It sits between the January 9 discovery ([[wiki/timeline/events/eli-incident]]) and the four-month corridor that follows ([[wiki/mind/synthesis/may-august-2025-bridge]]). The year-level record is [[wiki/timeline/periods/2025-collapse]], and the day-by-day reconstruction of the move is [[wiki/mind/synthesis/2025-move-chronology]]. This page does not repeat their February ledgers. It carries what they point here for: the April week, the April 27 conversation, and the complete logs for the window.
 

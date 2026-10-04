@@ -44,7 +44,7 @@ connections:
   - page: wiki/timeline/periods/uniontown-return-2013-2015
     type: component-of
     claim: "This is the day the return period stops being a depressive interval and starts producing consequences: the Alexis relationship breaks, the DJ controller becomes an occupation, and the pattern Dan later calls 'Franki Faris 2.0' is established."
-  - page: wiki/self/twitter/2013
+  - page: wiki/mind/synthesis/twitter-2013
     type: evidenced-by
     claim: 'The public record bounds the break this event opens: single in his own words on 2013-08-09, eleven documented days with @katie_efff in late August, and Alexis named again on 2013-09-08 — the only interval in six years where the relationship is off, and it is filled immediately.'
 ---
@@ -128,7 +128,7 @@ one, and it is the earliest documented instance of it.
 ## How long the break actually lasted
 
 This page has never been able to say how long the rupture ran. The public
-record bounds it. `wiki/self/twitter/2013`:
+record bounds it. `wiki/mind/synthesis/twitter-2013`:
 
 | Date | Post |
 |---|---|

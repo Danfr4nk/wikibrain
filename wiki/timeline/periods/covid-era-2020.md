@@ -207,7 +207,7 @@ when the turn was **named**, and the naming is what is timestamped.
 Six weeks later it went public. On **3 October 2020**, Twitter carries the
 first public political self-identification in seventeen years of that
 account — independent corroboration, no AI in the loop, addressed to
-strangers ([[wiki/self/twitter/2020]]). Later that month, the ultimatum
+strangers ([[wiki/mind/synthesis/twitter-2020]]). Later that month, the ultimatum
 form: *"if 2020 hasn't made you a marxist ... you're either frighteningly
 uninformed or just a fucking ghoul."*
 
@@ -512,7 +512,7 @@ coverage gaps are itemised after the log.
 - **2020-10-01** — *"I have a buddy with Suboxone pills"* — an offer, not a
   dose point. [[wiki/health/suboxone-dose-curve]]
 - **2020-10-03** — The first public political self-identification in
-  seventeen years of the Twitter account. [[wiki/self/twitter/2020]]
+  seventeen years of the Twitter account. [[wiki/mind/synthesis/twitter-2020]]
 - **2020-10-06** — *"dude i made $600 just from FSLY today."*
 - **2020-10-07** — Jerad: *"Didn't see it breaking all time high this
   quick"* — the same day Fastly announced a Google Cloud partnership. Dan
@@ -623,7 +623,7 @@ Fayette County records nobody has pulled.
   August 21 order, the September 1 landing, the burn
 - [[wiki/people/fred-adams]] — the death, reconstructed from one message
 - [[wiki/mind/synthesis/2020-left-turn]], [[wiki/interests/hasan-piker]],
-  [[wiki/interests/chapo-trap-house]], [[wiki/self/twitter/2020]] —
+  [[wiki/interests/chapo-trap-house]], [[wiki/mind/synthesis/twitter-2020]] —
   the conversion, its timestamp (`dat:1076`), and its public declaration
 - [[wiki/work/fastly-fsly]], [[wiki/people/jerad-friedline]],
   [[wiki/timeline/periods/2020-2021-market-era]] — the FSLY sequence

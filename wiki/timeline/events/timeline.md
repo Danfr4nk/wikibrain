@@ -12,7 +12,7 @@ connections:
   - page: wiki/people/johnny-dealer
     type: evidenced-by
     claim: "The 2018 peak of 254 events resolves to a named supply node rather than to a diffuse bad year: the handle carrying that period's logistics is +17243223678, which is what lets the event spike be read as a procurement pattern instead of a mood."
-related: ["wiki/timeline/periods/dec-2025-spike", "wiki/timeline/periods/2021-2023-employment-block", "wiki/people/annie-ulmer", "wiki/people/alexis-armel", "wiki/timeline/periods/2015-2016-annie-relationship-start", "wiki/timeline/periods/2017-poverty-floor", "wiki/timeline/periods/2018-deep-cycle", "wiki/timeline/periods/2025-collapse", "wiki/self/message-corpora/master-message-dump", "wiki/mind/synthesis/attachment-trauma-bond", "wiki/self/facebook/messages", "wiki/mind/concepts/forensic-method", "wiki/self/ancestry", "wiki/timeline/master-timeline", "wiki/timeline/index", "wiki/timeline/annie-record", "wiki/mind/synthesis/bond-switch-2015", "wiki/timeline/periods/2020-2021-market-era", "wiki/timeline/periods/covid-era-2020", "wiki/self/message-corpora/source-coverage-index", "wiki/self/concepts/claude-code", "wiki/meta/complete-log-doctrine", "wiki/mind/concepts/attachment-model", "wiki/mind/synthesis/spatial-behavior", "wiki/people/jerad-friedline", "wiki/people/fran-coldren"]
+related: ["wiki/timeline/periods/dec-2025-spike", "wiki/timeline/periods/2021-2023-employment-block", "wiki/people/annie-ulmer", "wiki/people/alexis-armel", "wiki/timeline/periods/2015-2016-annie-relationship-start", "wiki/timeline/periods/2017-poverty-floor", "wiki/timeline/periods/2018-deep-cycle", "wiki/timeline/periods/2025-collapse", "wiki/self/message-corpora/master-message-dump", "wiki/mind/synthesis/attachment-trauma-bond", "wiki/self/facebook/messages", "wiki/mind/concepts/forensic-method", "wiki/self/ancestry", "wiki/timeline/master-timeline", "wiki/timeline/index", "wiki/timeline/annie-record", "wiki/mind/synthesis/bond-switch-2015", "wiki/timeline/periods/2020-2021-market-era", "wiki/timeline/periods/covid-era-2020", "wiki/self/message-corpora/source-coverage-index", "wiki/mind/concepts/claude-code", "wiki/meta/complete-log-doctrine", "wiki/mind/concepts/attachment-model", "wiki/mind/synthesis/spatial-behavior", "wiki/people/jerad-friedline", "wiki/people/fran-coldren"]
 tags: [relationships, infidelity, financial-stress, career, ai-collaboration, forensic-analysis, digital-footprint]
 ---
 
@@ -29,7 +29,7 @@ category totals, and this page held its summary and a sample of its rows.
 Then the wiki replaced it. `bin/wiki-timeline`, a rule-based extractor that
 reads the wiki's own pages rather than raw messages, was built explicitly as
 *"Replaced the broken LIFE_EVENTS_CALENDAR.md"*
-([[wiki/self/concepts/claude-code]]), and its output,
+([[wiki/mind/concepts/claude-code]]), and its output,
 [[wiki/timeline/master-timeline]], now holds **8,139 events across 81 years
 from 497 pages**. The calendar file itself was not carried into this
 repository: it is cited by forty-six pages and held by none. The one
@@ -494,7 +494,7 @@ Index: [[wiki/timeline/index]].
   — the only Drive file by a matching name; empty.
 - [[wiki/self/message-corpora/source-coverage-index]] — the 175,358-row
   `MASTER_MESSAGES_DB_DUMP.csv` and its missing handle column.
-- [[wiki/self/concepts/claude-code]] — the calendar's retirement.
+- [[wiki/mind/concepts/claude-code]] — the calendar's retirement.
 - [`dat:0542`](../../../kb/data/0542-2025-collapse-volume-replicated-anomaly-flagged.md)
   — 2025 volume replication and month shape.
 - [`CORPUS_POLICY.md`](../../../CORPUS_POLICY.md) — the 2021–2022 gap.

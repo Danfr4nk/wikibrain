@@ -27,7 +27,7 @@ tags: [relationships, behavioral-change, boundaries, forensic-analysis]
 related:
   - wiki/people/ally-lubin
   - wiki/people/annie-ulmer
-  - wiki/self/concepts/ally-and-dan-love-as-destiny
+  - wiki/mind/concepts/ally-and-dan-love-as-destiny
   - wiki/mind/synthesis/dormancy-not-exit
   - wiki/mind/synthesis/august-26-block-retraction
   - wiki/timeline/events/2026-08-26-visible-change

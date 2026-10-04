@@ -22,7 +22,7 @@ related:
   - wiki/interests/music/aliases/mogzart
   - wiki/mind/synthesis/bond-switch-2015
   - wiki/timeline/events/franki-fireworks-day-2013
-  - wiki/self/twitter/2013
+  - wiki/mind/synthesis/twitter-2013
   - wiki/self/location-history
   - wiki/legal/2015-possession-arrest
 tags: [relationships, uniontown-era, addiction-recovery, music-production]
@@ -54,7 +54,7 @@ connections:
   - page: wiki/people/ej-rags
     type: co-occurs
     claim: "The July 12, 2013 exchange carries the only first-person statement of the return anywhere in the record — 'i just moved back from NYC and i'm super output recently' — and it is a statement of having moved, not a date for it."
-  - page: wiki/self/twitter/2013
+  - page: wiki/mind/synthesis/twitter-2013
     type: evidenced-by
     claim: "From mid-August 2013 the public record is continuously in Fayette County — Sheetz, Carnegie Mellon, Texas Roadhouse, the Oddball festival in Pittsburgh, helicopters over Uniontown — which is presence rather than tenancy and is the only dated location evidence the period has."
 ---
@@ -132,7 +132,7 @@ dated anywhere. Four values circulate:
 |---|---|---|
 | 1 April 2013 | [[wiki/places/90th-st-manhattan]]'s frontmatter | derived from a "thirteen months" arithmetic that the tweet archive has broken; no independent support |
 | May 2013 | context-core residence timeline; this page; [[wiki/timeline/periods/2010s]] | canonical, but memory rather than record |
-| "substantially in Fayette County from August 2013" | [[wiki/self/twitter/2013]] | dated, but it is presence, not tenancy |
+| "substantially in Fayette County from August 2013" | [[wiki/mind/synthesis/twitter-2013]] | dated, but it is presence, not tenancy |
 | "i just moved back from NYC" | [[wiki/people/ej-rags]], 12 July 2013 | first-person, dated to the day — and a statement of having moved, not of when |
 
 The public record's shape fits a spring departure and refuses to sharpen it.

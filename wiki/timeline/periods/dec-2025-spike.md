@@ -7,7 +7,7 @@ date_modified: 2026-09-17
 date_range_start: 2025-12-01
 date_range_end: 2025-12-31
 sources: ["raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/message-csv/*", "raw/self/message-csv/annie_all_time_logs.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-scan/DanAnnie_MasterRecord_FINAL.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "corpus/messages.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/old-wiki-export-2026-09-04/whole.txt"]
-related: ["wiki/mind/concepts/attachment-model", "wiki/people/annie-ulmer", "wiki/timeline/events/timeline", "wiki/mind/synthesis/attachment-trauma-bond", "wiki/self/message-corpora/master-message-dump", "wiki/self/facebook", "wiki/people/kristin", "wiki/mind/synthesis/kristin-channel", "wiki/mind/synthesis/the-2025-collapse", "wiki/mind/synthesis/taste-as-filter-stack", "wiki/mind/synthesis/four-financial-inversions", "wiki/mind/synthesis/severance-declaration-audit", "wiki/mind/synthesis/dance-music-only-phases", "wiki/self/concepts/gemini", "wiki/people/jacob-bacharach", "wiki/people/manuel", "wiki/health/suboxone-dose-curve", "wiki/timeline/events/group-chat-closure", "wiki/timeline/periods/2025-collapse", "wiki/interests/golf", "wiki/meta/complete-log-doctrine"]
+related: ["wiki/mind/concepts/attachment-model", "wiki/people/annie-ulmer", "wiki/timeline/events/timeline", "wiki/mind/synthesis/attachment-trauma-bond", "wiki/self/message-corpora/master-message-dump", "wiki/self/facebook", "wiki/people/kristin", "wiki/mind/synthesis/kristin-channel", "wiki/mind/synthesis/the-2025-collapse", "wiki/mind/synthesis/taste-as-filter-stack", "wiki/mind/synthesis/four-financial-inversions", "wiki/mind/synthesis/severance-declaration-audit", "wiki/mind/synthesis/dance-music-only-phases", "wiki/mind/concepts/gemini", "wiki/people/jacob-bacharach", "wiki/people/manuel", "wiki/health/suboxone-dose-curve", "wiki/timeline/events/group-chat-closure", "wiki/timeline/periods/2025-collapse", "wiki/interests/golf", "wiki/meta/complete-log-doctrine"]
 
 tags: [relationships, infidelity, trauma-bond, financial-stress, taste]
 connections:
@@ -190,7 +190,7 @@ them either. It records that they share a date.
 
 **The Gemini peak.** December 2025 is the highest month in the Gemini
 Activity log at **938 prompted entries**, out of 3,986 total across a 21 MB
-export ([[wiki/self/concepts/gemini]],
+export ([[wiki/mind/concepts/gemini]],
 [[wiki/self/gemini-activity/gemini-activity]]). The AI channel is running at
 its maximum in the same month as the message channel.
 
@@ -433,7 +433,7 @@ subset qualifier is overstating it.
   [[wiki/mind/synthesis/dance-music-only-phases]],
   [[wiki/mind/synthesis/the-2025-collapse]] — the crate waves, the December
   like pulses, the Exportify session
-- [[wiki/self/concepts/gemini]],
+- [[wiki/mind/concepts/gemini]],
   [[wiki/self/gemini-activity/gemini-activity]] — the 938-entry peak
 - [[wiki/mind/synthesis/four-financial-inversions]] — the PNC coda
 - [[wiki/people/annie-ulmer]], [[wiki/interests/golf]],
