@@ -5,7 +5,7 @@ title: "Autism"
 aliases: ["autistic", "neurodivergent", "self-identified autism"]
 status: active
 date_created: 2026-09-11
-date_modified: 2026-09-15
+date_modified: 2026-10-04
 synthesizes:
   - wiki/mind/profile/neurodivergence
   - wiki/mind/concepts/attachment-model
@@ -36,6 +36,9 @@ connections:
     claim: "The lyric qualifier is the purest behavioral demonstration of explicit-over-inferred processing: sung words register as timbre, not semantic content, because lyrics are inferential and ambiguous. Corroborated by the held 2026-09-11 second capture (byte-exact), the phonetic-production series (name-mishearing + typed specimens), and the operationalization record (AUTOPSY scoring dimension, hook2piano engineering constraint) — see that entry's Limits for what does NOT corroborate it."
   - page: wiki/mind/concepts/exocortex
     type: instance-of
+  - page: wiki/mind/concepts/conflict-architecture
+    type: evidences
+    claim: "Autism's explicit-over-inferred architecture is the substrate the conflict engine runs on: stated rules hold and surface structure is processed literally, which is why a bid for acknowledgment arrives at the engine as a claim to be adjudicated."
     claim: "The label itself was produced inside the AI-collaborative sessions this page documents as Dan's primary self-knowledge mechanism — arrived at through, and repeated across, bootloader-style documents rather than through any process outside them."
 ---
 
