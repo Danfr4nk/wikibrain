@@ -23,8 +23,8 @@ related:
   - wiki/people/kevin-mckiernan
   - wiki/people/alexis-armel
   - wiki/places/the-unpapered-address
-  - wiki/self/twitter/2012
-  - wiki/self/twitter/2013
+  - wiki/mind/synthesis/twitter-2012
+  - wiki/mind/synthesis/twitter-2013
   - wiki/self/location-history
   - wiki/mind/synthesis/vertical-authority-skepticism
   - wiki/mind/synthesis/failure-to-launch
@@ -46,7 +46,7 @@ connections:
   - page: wiki/places/the-unpapered-address
     type: evidences
     claim: "A thirteen-month sublet with no rent, no lease and no description surviving is the second instance in three years, and it is the repetition rather than the thinness that matters: a void that recurs at every address is a description of how the tenancies worked."
-  - page: wiki/self/twitter/2012
+  - page: wiki/mind/synthesis/twitter-2012
     type: evidenced-by
     claim: "The tenancy's start is dated to the day by two consecutive posts — 'Goodbye, Brooklyn!' (29 March) and 'Hello, Manhattan.' (30 March) — and its texture is carried by the seven venue-tagged check-ins that follow and by the forty-eight-hour Hurricane Sandy operation run from the apartment."
   - page: wiki/mind/synthesis/millennial-digital-witness
