@@ -32,6 +32,9 @@ connections:
     claim: "Seven addresses across sixteen years, every one unpapered and none audited while standing, is the housing-scale record the latency thesis predicts."
   - page: wiki/mind/concepts/institutional-out
     type: parallels
+  - page: wiki/mind/journal/2026-10-03-the-manufactured-halt
+    type: instantiates
+    claim: "Selection-buys-delay instantiates the manufactured halt from the negative side: chosen lateral ties stay off paper for years, so no halt or audit state is manufactured and delay is bought instead of closure."
     claim: "The institutional out is the vertical-side mirror: a stated claim installed preemptively so the institution's audit cannot fire, where the lateral side withholds paper so his own audit does not."
 ---
 

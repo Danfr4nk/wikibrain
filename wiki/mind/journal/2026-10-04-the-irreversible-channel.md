@@ -36,6 +36,9 @@ connections:
     claim: "The 1.79–2.49x instrumental-generosity / 0.45x sympathy-token split is the base rate; this entry theorizes the selection pressure behind the split at the level of output reversibility."
   - page: wiki/mind/journal/2026-10-04-the-one-way-valve
     type: parallels
+  - page: wiki/mind/journal/2026-10-04-the-receipt-is-the-channel
+    type: parallels
+    claim: "The irreversible channel's provision transfers, which cannot be recalled like 36-second severance declarations, parallel the receipt channel's countable completion tokens as landings that let channel output accumulate or stop."
     claim: "Same-day companion entry (Entry 2): prices the verdict channel — graded credences in, binary verdicts out. This entry prices the provision channel's retraction cost; the two claims are separately falsifiable and neither inherits the other's gate verdict."
 ---
 

@@ -28,6 +28,9 @@ connections:
     claim: "Channel Cost Pricing prices which live channel fires first in a severance; this entry prices the inverse variable — how much output a channel carries before it stops — by the same live-set logic: channels that can register completion stop early, channels that cannot accumulate output."
   - page: wiki/mind/profile/linguistic-profile
     type: extends
+  - page: wiki/mind/journal/2026-10-04-the-irreversible-channel
+    type: parallels
+    claim: "The receipt channel's completion-token gating (a receipt or an agreed price) parallels the irreversible channel's rule that only costly, non-reversible provision emissions survive long enough to total bond state."
     claim: "The linguistic profile measures register by audience (romantic continuous cadence vs platonic event-driven bursts); this entry adds the orthogonal axis the register cut misses: volume by completion-token availability, which predicts length inside a single audience across eleven years."
 ---
 

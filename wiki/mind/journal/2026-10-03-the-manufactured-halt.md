@@ -7,7 +7,7 @@ status: active
 knowledge: derived
 importance: medium
 date_created: 2026-10-03
-date_modified: 2026-10-03
+date_modified: 2026-10-04
 sources:
   - kb/data/0081-explicit-commitment-architecture.md
   - kb/data/1292-block-unblock-loop-severance-recount-129-128.md
@@ -38,6 +38,9 @@ connections:
     claim: "The curse names 'refusal of clean exits' as a mechanism part. This entry claims the refusal is downstream: what a missing resolution condition looks like from outside. The curse's own adjudication agrees the refusal is 'the most visible part and the most downstream.'"
   - page: wiki/mind/journal/2026-10-03-the-open-set
     type: complements
+  - page: wiki/mind/journal/2026-10-04-selection-buys-delay
+    type: evidenced-by
+    claim: "The manufactured halt's claim that he terminates only where a resolution condition exists is evidenced by selection-buys-delay's paperless chosen ties, which avoid creating the verifiable object that would force the forensic engine to fire."
     claim: "Entry 1 locates the loop (open sets have no completion condition). This entry locates the exit: loops end when a resolution condition is manufactured — by operation, enforcement, or verdict — and identifies which manufactures bind."
 ---
 
