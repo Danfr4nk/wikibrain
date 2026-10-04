@@ -4,7 +4,7 @@ page_type: concept
 title: "Revealed-Preference Porn Corpus (2026-10-01)"
 status: new
 date_created: 2026-10-01
-date_modified: 2026-10-01
+date_modified: 2026-10-04
 knowledge: behavioral-corpus
 sources:
   - raw/myactivity-2026-09-12/myactivity-unique.jsonl.gz (Google My Activity, 108,821 rows, 2006-09-10 → 2025-07-27)
@@ -16,6 +16,10 @@ related:
   - wiki/mind/psychosexual/orchestration-and-voyeurism
   - wiki/mind/psychosexual/taboo-and-boundary-testing
 tags: [psychosexual, revealed-preference, porn-corpus, deep-dive, 2026-10-01]
+connections:
+  - page: wiki/mind/psychosexual/revealed-preference-porn-corpus-data
+    type: subordinate-to
+    claim: "This page's embedded category log is a convenience copy subordinate to the complete-data page, which is the canonical numbers home for the corpus and governs on any discrepancy."
 ---
 
 # Revealed-Preference Porn Corpus (2026-10-01)
@@ -87,6 +91,8 @@ organized, overwhelmingly, by *who* — configuration over acts — and that
 itself is a finding (section 6).
 
 ## The category map, complete
+
+Note: the category log embedded in this section is a convenience copy. The canonical numbers home is the complete-data page (wiki/mind/psychosexual/revealed-preference-porn-corpus-data), which governs on any discrepancy.
 
 Sixteen categories, ranked by query-hit volume, each with its era
 distribution where the data supports it. This is the complete log: every

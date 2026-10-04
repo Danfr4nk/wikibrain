@@ -4,7 +4,7 @@ page_type: dataset
 title: "Revealed-Preference Porn Corpus: Complete Data (2026-10-01)"
 status: new
 date_created: 2026-10-01
-date_modified: 2026-10-01
+date_modified: 2026-10-04
 knowledge: behavioral-corpus
 sources:
   - raw/myactivity-2026-09-12/myactivity-unique.jsonl.gz (Google My Activity, 108,821 rows, 2006-09-10 → 2025-07-27)
@@ -14,6 +14,10 @@ related:
   - wiki/mind/psychosexual/scenario-ratings-profile
   - wiki/mind/psychosexual/scenario-diagnostic-trials
 tags: [psychosexual, revealed-preference, porn-corpus, complete-log, 2026-10-01]
+connections:
+  - page: wiki/mind/psychosexual/revealed-preference-porn-corpus
+    type: restated-by
+    claim: "The narrative page restates these tables in its embedded category map as a convenience copy; this page is the canonical numbers home for the corpus and governs on any discrepancy."
 ---
 
 # Revealed-Preference Porn Corpus: Complete Data (2026-10-01)
