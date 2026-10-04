@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-07-19
-date_modified: 2026-07-19
+date_modified: 2026-10-04
 date_range_start: 2018-04-05
 date_range_end: 2019-08-21
 sources:
@@ -29,6 +30,8 @@ connections:
 ---
 
 # Lucie Dobbin
+
+> **Incidental entry** — Lucie Dobbin, Fran Coldren's longtime friend from her Florida winters, is in the wiki as the recipient of Dan's fullest first-person account of Fran's death, written the same night. Complete at this size.
 
 Lucie Dobbin was a longtime friend of [[wiki/people/fran-coldren|Fran
 Coldren]] from her winters in Florida — a "friend from Quebec City,"
@@ -96,3 +99,7 @@ current location and relationship to the Ulmer family beyond the
 neighbor connection; the identity and fate of "Genie"/"Jeanie."
 
 
+
+Why incidental: one ~20-message thread carries everything — the death-night account and who she was to Fran. Promote if Fran's Florida-years circle gets an entry of its own.
+
+Related major articles: [Fran Coldren](wiki/people/fran-coldren.md) · [Fran death vigil](wiki/timeline/events/fran-death-vigil.md)

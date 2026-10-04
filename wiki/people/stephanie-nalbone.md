@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-07-19
-date_modified: 2026-07-19
+date_modified: 2026-10-04
 date_range_start: 2009-09-25
 date_range_end: 2009-11-10
 sources:
@@ -27,6 +28,8 @@ connections:
 ---
 
 # Stephanie Nalbone
+
+> **Incidental entry** — A six-week long-distance relationship (September–November 2009) recovered from a single Facebook thread, previously undocumented anywhere else in the corpus. Complete at this size.
 
 Stephanie Nalbone is an ex-girlfriend from a relationship the corpus
 had no other record of: a six-week, high-intensity long-distance
@@ -89,5 +92,7 @@ genuinely unresolved rather than merely undocumented in detail.
 **Gaps:** how the relationship ended (no breakup message survives, only
 declining frequency); where it falls relative to Danielle and Alexis in
 2009; Stephanie's life after November 2009.
+
+Why incidental: one thread is the whole record — the relationship, the visit, and the unresolved sequencing question are all stated above; the corpus names her nowhere else, so there is nothing further to expand from.
 
 

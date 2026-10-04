@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-07-19
-date_modified: 2026-07-19
+date_modified: 2026-10-04
 date_range_start: 2017-08-12
 date_range_end: 2020-09-21
 sources:
@@ -26,6 +27,8 @@ connections:
 ---
 
 # Jenn Lynn
+
+> **Incidental entry** — A three-year Uniontown thread (2017–2020) running two tracks in parallel: a recurring arrangement solicitation and a drug-sourcing friendship. Complete at this size.
 
 Jenn Lynn is a Uniontown-area acquaintance whose three-year Facebook
 Messenger thread (August 2017 – September 2020) runs two tracks in
@@ -87,5 +90,7 @@ declines both times, citing work.
 occurred — the thread shows mutual readiness twice but no after-the-fact
 confirmation; Brad's surname and any relationship to Dan beyond this
 thread; Jenn's current circumstances.
+
+Why incidental: one thread, fully read — the three solicitation windows and the supply relationship are the complete record, and whether any encounter occurred is not knowable from it.
 
 

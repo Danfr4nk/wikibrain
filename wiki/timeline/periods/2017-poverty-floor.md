@@ -1,10 +1,11 @@
 ---
 domain: timeline
 page_type: period
+tier: incidental
 status: archived
 importance: high
 date_created: 2026-06-22
-date_modified: 2026-08-02
+date_modified: 2026-10-04
 date_range_start: 2017-01-01
 date_range_end: 2017-12-31
 changelog:
@@ -47,8 +48,9 @@ connections:
     type: evidences
     claim: "The 2018 'System Collapse & Migration' phase — over a third of the entire 2014-2020 aggregate travel distance logged in one year — is the spatial-data signature of the poverty-floor/deep-cycle years destabilizing into the NYC move."
 ---
-
 # 2017 Poverty Floor
+
+> **Incidental entry** — 2017, the year Dan's finances hit their floor in Uniontown — overdrafts, water shut off, gold and clothes sold to stay afloat. Complete at this size.
 
 2017 was the year the floor dropped out. Dan was twenty-eight, living in Uniontown, Pennsylvania, in a house on Virginia Avenue he had moved into with [[wiki/people/annie-ulmer]] after Lex helped them clear out of Scerba's old place. The calendar logged 85 events. The financial and relational categories dominated so completely that the year reads as a single sustained emergency rather than a sequence of discrete crises. Water was shut off. The account was overdrawn. His grandmother [[wiki/people/fran-coldren]] woke with nosebleeds at 3am. His mother told him he had played his cards out and crossed a final line. This was not a rough patch. It was the bottom.
 
@@ -98,4 +100,5 @@ The [[wiki/people/annie-ulmer]] relationship logged 85 calendar events in this y
 
 **Related:** [[wiki/timeline/events/timeline]], [[wiki/timeline/periods/2018-deep-cycle]], [[wiki/people/annie-ulmer]], [[wiki/self/message-corpora/master-message-dump]], [[wiki/self/ancestry]], [[wiki/people/fran-coldren]], [[wiki/people/suzanne-frank]], [[wiki/self/gemini-activity/gemini-activity]]
 
+Why incidental: a single-year period summary; its detail lives on the event and people pages it links.
 

@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-07-19
+date_modified: 2026-10-04
 date_range_start: 2017-05-21
 date_range_end: 2018-11-02
 sources:
@@ -33,8 +34,9 @@ connections:
     type: evidences
     claim: "Davey's unprompted condolence on April 5, 2018 ('Sorry for your loss bro') is independent same-week corroboration of Fran's April 4 death date from outside the family."
 ---
-
 # Davey Fitzpatrick
+
+> **Incidental entry** — Davey Fitzpatrick, Dan's Nemacolin coworker who became assistant caddie master for the 2018 season. Complete at this size.
 
 Davey Fitzpatrick was Dan's coworker, then boss, and by the end genuine
 friend across the two [[wiki/work/nemacolin-caddying|Nemacolin caddying]]
@@ -132,4 +134,6 @@ residence; the identity of "Brooke" and "Luke" from the training cohort
 (no pages; below the three-mention threshold); what became of him at
 Nemacolin after 2018.
 
+Why incidental: one thread across two seasons; complete as the operational record of Dan's last Uniontown working year.
 
+Related major articles: [Nemacolin caddying](wiki/work/nemacolin-caddying.md) · [Fran death vigil](wiki/timeline/events/fran-death-vigil.md)

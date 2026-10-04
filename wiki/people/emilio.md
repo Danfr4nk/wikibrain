@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: stub
 knowledge: mixed
 date_created: 2026-08-17
-date_modified: 2026-08-17
+date_modified: 2026-10-04
 date_range_start: 2015-11-29
 date_range_end: 2015-12-29
 sources:
@@ -33,6 +34,8 @@ infobox:
 ---
 
 # Emilio
+
+> **Incidental entry** — Emilio, Annie's partner on the night she met Dan and displaced within days, is in the wiki as the other half of the November 2015 switch. Complete at this size.
 
 Emilio was [[wiki/people/annie-ulmer|Annie]]'s partner at the moment
 [[wiki/mind/synthesis/bond-switch-2015|the 2015 switch]] happened — the half of
@@ -105,3 +108,7 @@ car. It was partly that, and partly a displaced partner making a phone call.
   attached to Emilio.
 
 
+
+Why incidental: everything known about Emilio is three dated appearances relayed through Annie's messages; there is no channel of his own to mine. Promote if a source in his own voice ever surfaces.
+
+Related major articles: [Annie Ulmer](wiki/people/annie-ulmer.md) · [The 2015 switch](wiki/mind/synthesis/bond-switch-2015.md)

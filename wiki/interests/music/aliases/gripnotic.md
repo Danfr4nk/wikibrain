@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: active
 date_created: 2026-06-22
-date_modified: 2026-07-13
+date_modified: 2026-10-04
 sources:
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -28,8 +29,9 @@ connections:
     type: instantiates
     claim: "GRIPNOTIC is the instance where the periodizing function leaves music entirely: the name is claimed for an AI agent in April 2026 while both musical invariants stay exactly where they were."
 ---
-
 # Gripnotic
+
+> **Incidental entry** — GRIPNOTIC, Dan's current primary music alias, developed through the 2015–2019 Uniontown basement years. Complete at this size.
 
 ## Identity
 
@@ -113,4 +115,5 @@ Music reactivation is central to the 2026 stabilization arc: the "oof" set on So
 - [[wiki/interests/music/concepts/sub-bass-signature]]
 - [[wiki/mind/synthesis/totality-themes]] (music as sincere thread across all periods)
 
+Why incidental: an alias portrait — identity, sound, current crate — complete until the release catalog and production chain are ingested.
 

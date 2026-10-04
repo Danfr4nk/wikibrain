@@ -2,9 +2,10 @@
 domain: interests
 page_type: entity
 title: "DJ practice — 2026-09-15 transition/performance assessment"
+tier: incidental
 status: active
 date_created: 2026-09-15
-date_modified: 2026-09-15
+date_modified: 2026-10-04
 sources:
   - "dat:1584-dj-transition-analysis-20260915 (six videos, two assessments, 16:12–17:44Z)"
   - "dat:1585-dj-interface-identification-correction-20260915 (third-party iPhone DJ app, not Spotify mode)"
@@ -20,6 +21,8 @@ connections:
 ---
 
 # DJ practice — 2026-09-15 assessment
+
+> **Incidental entry** — This page records one dated session, the 2026-09-15 DJ-practice assessment: six performance videos, two verdicts, and the one correction the session produced. Complete at this size.
 
 On 2026-09-15 Dan uploaded six performance videos to the main chat and
 asked for two things: audio analysis of the transitions, and a blunt
@@ -97,3 +100,7 @@ The six performance videos remain as local originals
 link above is the shared-performance record. Per Dan's media policy,
 registration in media/registry.json requires analysis plus audio
 transcription — not completed at the time of this writing.
+
+Why incidental: a single dated session, completely written up; later sessions get their own pages. Promote if the assessments become a series needing an index.
+
+Related major articles: [GRIPNOTIC](wiki/interests/music/aliases/gripnotic.md) · [Music overview](wiki/interests/music/overview.md)

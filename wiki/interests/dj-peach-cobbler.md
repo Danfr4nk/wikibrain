@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: active
 date_created: 2026-09-12
-date_modified: 2026-09-12
+date_modified: 2026-10-04
 date_range_start: 2024-12-07
 date_range_end: 2026-07-20
 sources:
@@ -23,6 +24,8 @@ connections:
 ---
 
 # DJ Peach Cobbler
+
+> **Incidental entry** — A YouTube essayist and animator (not a DJ) in Dan's 2025–26 media diet, attested by one tweet and 17 logged watches. Complete at this size.
 
 ## The name is a misnomer
 
@@ -45,3 +48,5 @@ The channel occupies the essayist-commentary tier of the 2025–26 media diet: t
 ## What we don't know
 
 Which videos he watched. Whether he subscribes. Whether the December 2024 tweet referenced a specific video. Any off-platform engagement. The 17-watch count comes from a single-account export and, per the youtube-watch-history page's own unresolved caveat, multiple YouTube accounts share the Google login — the figure is a lower bound, not a total.
+
+Why incidental: the corpus attests exactly two facts — the December 2024 tweet and the watch history — and both are fully stated above; everything else here is labeled public background or inference.

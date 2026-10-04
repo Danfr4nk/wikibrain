@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: active
 date_created: 2026-07-16
-date_modified: 2026-08-19
+date_modified: 2026-10-04
 sources:
   - "raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
@@ -25,6 +26,8 @@ connections:
 ---
 
 # Gore Vidal
+
+> **Incidental entry** — Gore Vidal, the anti-imperialist essayist Dan uses as a personal litmus test — "Have they heard of DJ Shadow or read Gore Vidal?" — and whose Narratives of Empire sit on his shelf. Complete at this size.
 
 American writer, essayist, and public intellectual (1925–2012) — author
 of the *Narratives of Empire* historical-fiction series, a relentless
@@ -68,8 +71,6 @@ self-identified democratic-socialist who reaches for a patrician gay
 anti-imperialist essayist as a touchstone — is load-bearing for the
 ideology profile and was simply not logged.
 
-## Related
+Why incidental: Vidal's role here is the litmus test, the heroic-figures list, and the shelf object — all fully documented; no favorites entry for him exists to expand from.
 
-[[wiki/interests/favorites/books]] · [[wiki/mind/profile/deviance-mapping]] · [[wiki/interests/favorites/music/artists/fall-out-boy]]
-
-
+Related major articles: [Favorites books](wiki/interests/favorites/books.md) · [Deviance mapping](wiki/mind/profile/deviance-mapping.md) · [Fall Out Boy](wiki/interests/favorites/music/artists/fall-out-boy.md)

@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-07-19
+date_modified: 2026-10-04
 date_range_start: 2019-05-24
 date_range_end: 2020-09-10
 sources:
@@ -31,8 +32,9 @@ connections:
     type: co-occurs
     claim: "The thread's May–September 2020 resumption ('You still in ny') documents street-level commerce adapting around the pandemic bunker months, car trouble and ride-waits included."
 ---
-
 # Sam
+
+> **Incidental entry** — Sam, Dan's New York cannabis delivery dealer from May 2019 to September 2020. Complete at this size.
 
 Sam was Dan's New York cannabis delivery dealer for roughly the first
 sixteen months at [[wiki/places/307-e-76th-st|307 E 76th St]] — a Lower
@@ -132,4 +134,6 @@ switch to another source, reduced use, or a channel move); whether the
 February 2020 no-show had a cause on Dan's side (the corpus is silent on
 what he was doing that day).
 
+Why incidental: a single commercial thread that ends in September 2020; nothing in the corpus extends it.
 
+Related major articles: [Menore](wiki/people/menore.md) · [Supply network](wiki/mind/synthesis/supply-network.md)

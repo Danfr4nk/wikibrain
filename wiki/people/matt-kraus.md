@@ -2,9 +2,10 @@
 domain: people
 page_type: entity
 title: "Matt Kraus"
+tier: incidental
 status: active
 date_created: 2026-08-09
-date_modified: 2026-08-09
+date_modified: 2026-10-04
 sources:
   - raw/self/captures/2026-08-09_122727_extreme-sports.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [uniontown-era]
@@ -28,6 +29,8 @@ connections:
 
 # Matt Kraus
 
+> **Incidental entry** — Matt Kraus, Dan's closest documented childhood friend — the Seven Springs condo neighbor present across the Vans Skatepark birthday trips and four Camp Woodward summers. Complete at this size.
+
 Matt Kraus is Dan's closest documented childhood friend from the [[wiki/places/seven-springs|Seven Springs]] era. His family owned a condo a couple hundred feet from Dan's unit K2 in the Villages, and the two boys shared [[wiki/interests/extreme-sports|extreme-sports]] interests — aggressive inline skating and terrain-park skiing — throughout adolescence. Kraus appears across every major adolescent extreme-sports ritual the capture records: the Vans Skatepark birthday trips (2001–2003), the overlapping Seven Springs ski years, and four summers at Camp Woodward.
 
 ## The Vans Skatepark birthday trips
@@ -50,4 +53,6 @@ The Kraus condo was "a couple hundred feet away" from Dan's unit K2 in the Villa
 
 Kraus's current status, location, and relationship to Dan as an adult are undocumented. The capture gives no post-adolescence contact record.
 
+Why incidental: the record is entirely adolescent — Kraus's adult status and any post-adolescence contact are undocumented — and the childhood scene is fully documented here.
 
+Related major articles: [Seven Springs](wiki/places/seven-springs.md) · [Extreme sports](wiki/interests/extreme-sports.md)

@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: active
 date_created: 2026-06-22
-date_modified: 2026-07-16
+date_modified: 2026-10-04
 sources:
   - "raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
@@ -25,6 +26,8 @@ tags: [personality-profile]
 ---
 
 # Say Anything
+
+> **Incidental entry** — Dan's 2007-era Say Anything fandom: the Baltimore show he attended, the Facebook "Say Anything obsession" status, and the six favorites-list tracks it left behind. Complete at this size.
 
 Los Angeles-via-Brooklyn project built almost entirely around frontman
 Max Bemis, whose defining record — *...Is a Real Boy* (2004) — is a
@@ -85,8 +88,8 @@ flaw precisely instead of concealing it, then using that precision as the
 art itself — is a plausible and specific point of identification, not
 just genre-adjacent taste.
 
-## Related
+Why incidental: a closed catalog entry — the 2007 fandom and its six-track residue are completely documented; the artist matters here only as Dan's listening history.
 
-[[wiki/interests/favorites/music]] · [[wiki/interests/favorites/music/artists/my-chemical-romance]] · [[wiki/interests/favorites/music/artists/taking-back-sunday]] · [[wiki/interests/favorites/music/artists/fall-out-boy]] · [[wiki/timeline/events/teen-concert-years]] · [[wiki/mind/profile/deviance-mapping]]
+Related major articles: [[wiki/interests/favorites/music]] · [[wiki/interests/favorites/music/artists/my-chemical-romance]] · [[wiki/interests/favorites/music/artists/taking-back-sunday]] · [[wiki/interests/favorites/music/artists/fall-out-boy]] · [[wiki/timeline/events/teen-concert-years]] · [[wiki/mind/profile/deviance-mapping]]
 
 

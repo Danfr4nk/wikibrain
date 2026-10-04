@@ -2,9 +2,10 @@
 domain: people
 page_type: entity
 title: "Josh Brannan"
+tier: incidental
 status: active
 date_created: 2026-06-23
-date_modified: 2026-09-03
+date_modified: 2026-10-04
 sources:
   - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/joshbrannan_vej5dzscpa/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -30,6 +31,8 @@ connections:
 ---
 
 # Josh Brannan
+
+> **Incidental entry** — Josh Brannan, Uniontown-era friend with one warm 2017 reconnection thread, is in the wiki as a named member of the only core friend group Dan ever enumerated himself. Complete at this size.
 
 Josh Brannan is a Uniontown-era friend Dan reconnects with directly
 once in the preserved corpus — a single warm, joking Facebook exchange
@@ -107,3 +110,7 @@ thread; how Dan and Josh originally met beyond the general Uniontown
 friend network.
 
 
+
+Why incidental: one thread plus the tweet record is the whole file, and the running joke's full telling lives on Jerad's page. Promote if contact with Josh resumes and generates new record.
+
+Related major articles: [Jerad Friedline](wiki/people/jerad-friedline.md)

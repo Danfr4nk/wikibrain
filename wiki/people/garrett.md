@@ -3,11 +3,12 @@ domain: people
 page_type: entity
 title: "Garrett Gates"
 aliases: ["Garrett"]
+tier: incidental
 status: active
 knowledge: earned
 importance: normal
 date_created: 2026-08-23
-date_modified: 2026-09-22
+date_modified: 2026-10-04
 date_range_start: 2016-04-06
 date_range_end: 2025-08-02
 tags: [family, relationships, uniontown-era]
@@ -28,6 +29,8 @@ connections:
 ---
 
 # Garrett
+
+> **Incidental entry** — Claire's husband and Annie's brother-in-law: ten mentions in eleven years, and the man whose surname (Gates, confirmed by Dan 2026-09-22) four wiki pages were waiting on. Complete at this size.
 
 Garrett is [[wiki/people/claire-ulmer|Claire]]'s husband and therefore
 [[wiki/people/annie-ulmer|Annie]]'s brother-in-law and the father of
@@ -82,5 +85,7 @@ politics section for a man who has none in this corpus.
    none of them a direct interaction, the answer looks like no — which would make
    him consistent with the pattern [[wiki/people/alice]] notes about how separate
    the two families stayed.
+
+Why incidental: the record on Garrett is ten reported mentions with no direct interaction on file — everything the corpus holds is stated here.
 
 

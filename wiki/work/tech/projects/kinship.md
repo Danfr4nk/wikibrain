@@ -2,9 +2,10 @@
 domain: work
 page_type: concept
 title: "kinship — face-similarity tool (CLI + web app)"
+tier: incidental
 status: active
 date_created: 2026-09-15
-date_modified: 2026-09-15
+date_modified: 2026-10-04
 sources:
   - "dat:1580-tools-repo-consolidation-20260915 (moved into Danfr4nk/tools, reported 17:48:44Z)"
   - "dat:1581-kinship-web-build-deployed-20260915 (web app build, 3.5e-06 match, bug fixes, deployment)"
@@ -20,6 +21,8 @@ connections:
 ---
 
 # kinship
+
+> **Incidental entry** — kinship, the face-similarity tool Dan commissioned on 2026-09-15, built the same day as a local CLI and a deployed web app. Complete at this size.
 
 A face-similarity tool Dan commissioned on 2026-09-15: compare the
 largest face in each of two photos and get a verdict. Built the same
@@ -80,3 +83,7 @@ Kinship moved into `Danfr4nk/tools` under `kinship/` on 2026-09-15
 it's in tools/kinship/ now, pushed and verified"). Part of the
 same-day full consolidation of Dan's tool repos — see the
 consolidation note in [[wiki/work/tech/projects/index]].
+
+Why incidental: a single-day build, fully documented here including the standing web-version rule it produced; the tool itself lives in the tools repo.
+
+Related major articles: [Tech projects index](wiki/work/tech/projects/index.md)

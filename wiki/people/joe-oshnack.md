@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: active
 knowledge: mixed
 date_created: 2026-07-19
-date_modified: 2026-07-20
+date_modified: 2026-10-04
 date_range_start: 2011-01-20
 date_range_end: 2022-01-02
 sources:
@@ -38,6 +39,8 @@ connections:
 ---
 
 # Joe Oshnack
+
+> **Incidental entry** — Joe Oshnack, high-school bandmate in Batteries Not Included, is in the wiki as the recipient of Dan's fullest first-person account of his pre-2020 political identity and its reversal. Complete at this size.
 
 Joe Oshnack is a high-school-era Uniontown bandmate — the two played
 together in [[wiki/interests/music/bands/batteries-not-included|Batteries
@@ -118,3 +121,7 @@ unfixed.
 setlist (see [[wiki/interests/music/bands/batteries-not-included]]).
 
 
+
+Why incidental: one eleven-year thread, fully read — the band, the collaborations that never closed, and the 2021 retrospective are all of it. Promote if the Batteries Not Included story outgrows this single thread.
+
+Related major articles: [Batteries Not Included](wiki/interests/music/bands/batteries-not-included.md) · [The 2020 left turn](wiki/mind/synthesis/2020-left-turn.md)

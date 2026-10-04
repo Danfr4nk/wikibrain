@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: active
 knowledge: mixed
 date_created: 2026-07-19
-date_modified: 2026-07-19
+date_modified: 2026-10-04
 date_range_start: 2012-02-01
 date_range_end: 2025-10-06
 sources:
@@ -42,6 +43,8 @@ connections:
 ---
 
 # Matt Dunn
+
+> **Incidental entry** — Matt Dunn, Full Sail-era friend and the fourth named member of that surviving cohort, is in the wiki for a six-message thread that carries the corpus's best account of the 2022 Oscar Lindquist coincidence. Complete at this size.
 
 Matt Dunn is a Full Sail-era friend Dan has never stopped ribbing:
 Jason Bermejo's contemporaneous verdict, preserved on
@@ -119,3 +122,7 @@ extract the annual $5 in years not covered by Eric's snapshot is
 unconfirmed but, given the pattern's described consistency, likely.
 
 
+
+Why incidental: one six-message thread plus cohort mentions, fully told — there is no larger Dunn record to expand into. Promote if the Full Sail cohort gets a collective entry he anchors.
+
+Related major articles: [Jason Bermejo](wiki/people/jason-bermejo.md) · [Eric Jester](wiki/people/eric-jester.md)

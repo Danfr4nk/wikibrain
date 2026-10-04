@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: concept
+tier: incidental
 status: stable
 date_created: 2026-06-22
-date_modified: 2026-08-02
+date_modified: 2026-10-04
 sources:
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -31,6 +32,8 @@ tags: [music-production, family]
 
 # Sub-Bass Signature
 
+> **Incidental entry** — The sub-bass signature: the involuntary 63–85% sub-bass presence identified across all four of Dan's production aliases over thirteen years. Complete at this size.
+
 ## Definition
 
 The sub-bass signature is the defining acoustic fingerprint across all of Dan Frank's production output — an involuntary 63–85% sub-bass presence that appears across all four aliases ([[wiki/interests/music/aliases/sloppp]], [[wiki/interests/music/aliases/mogzart]], [[wiki/interests/music/aliases/mogged-up]], [[wiki/interests/music/aliases/gripnotic]]) regardless of genre target or era. "Involuntary" means it was identified post-hoc across releases, not set as an aesthetic goal.
@@ -57,11 +60,6 @@ The Jimmy Pop data adds cultural context: the sub-bass direction wasn't a retrea
 
 None recorded. The consistency of the signature across aliases and eras is itself notable — it would be worth noting if any release explicitly departed from the 63–85% range.
 
-## Related
-- [[wiki/interests/music/overview]]
-- [[wiki/interests/music/aliases/gripnotic]] (current active alias)
-- [[wiki/interests/music/aliases/mogzart]] (archive alias)
-- [[wiki/people/fran-coldren]] (NS7 origin)
-- [[wiki/self/ancestry]] (heritage as production anchor)
+Why incidental: the metric, the alias span, and the NS7 origin artifact are fully stated here; per-alias detail lives on the alias pages.
 
-
+Related major articles: [Music overview](wiki/interests/music/overview.md) · [GRIPNOTIC](wiki/interests/music/aliases/gripnotic.md) · [MOGZART](wiki/interests/music/aliases/mogzart.md) · [Fran Coldren](wiki/people/fran-coldren.md) · [Ancestry](wiki/self/ancestry.md)

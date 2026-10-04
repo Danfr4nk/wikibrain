@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: active
 date_created: 2026-06-22
-date_modified: 2026-07-14
+date_modified: 2026-10-04
 sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related:
   - wiki/interests/favorites/music
@@ -17,6 +18,8 @@ tags: [personality-profile]
 ---
 
 # New Found Glory
+
+> **Incidental entry** — New Found Glory, the lighter, hook-forward pop-punk act holding eight tracks in Dan's favorites — the emo/pop-punk cluster's tonal release valve. Complete at this size.
 
 Coral Springs, Florida pop-punk band, active since 1997, best known for
 the double punch of *Sticks and Stones* (2002) and *Catalyst* (2004) —
@@ -68,8 +71,6 @@ vertical-suspicion pattern already documented in
 [[wiki/mind/synthesis/vertical-authority-skepticism]]: friends over
 partners is a preference this whole corpus otherwise backs up.
 
-## Related
+Why incidental: a favorites-list portrait — the eight-track count and its tonal contrast with the darker cluster are fully stated here.
 
-[[wiki/interests/favorites/music]] · [[wiki/interests/favorites/music/artists/fall-out-boy]] · [[wiki/interests/favorites/music/artists/taking-back-sunday]]
-
-
+Related major articles: [Fall Out Boy](wiki/interests/favorites/music/artists/fall-out-boy.md) · [Taking Back Sunday](wiki/interests/favorites/music/artists/taking-back-sunday.md)

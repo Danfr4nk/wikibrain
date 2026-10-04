@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-07-19
-date_modified: 2026-07-19
+date_modified: 2026-10-04
 date_range_start: 2017-02-11
 date_range_end: 2017-02-16
 sources:
@@ -23,6 +24,8 @@ connections:
 ---
 
 # Lucas Thomas
+
+> **Incidental entry** — Lucas Thomas, mutual friend of Zac Shumar whose five-day February 2017 thread is the corpus's only contemporaneous real-time account of the arrest that sent Alexis Armel to prison. Complete at this size.
 
 Lucas Thomas is a mutual friend of [[wiki/people/alexis-armel|Alexis Armel]]'s
 post-breakup boyfriend, Zac Shumar, known to the wiki through a single, dense
@@ -67,4 +70,6 @@ Philadelphia life in progress at the time of the arrest, cut short by it.
 relationship to Zac or the wider circle beyond this single event is
 undocumented.
 
+Why incidental: a single five-day exchange; the full account of the arrest itself lives on the Alexis Armel page, and this page holds only what Lucas's thread uniquely carries.
 
+Related major articles: [Alexis Armel](wiki/people/alexis-armel.md)

@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: active
 date_created: 2026-08-09
-date_modified: 2026-08-09
+date_modified: 2026-10-04
 sources:
   - raw/self/captures/2026-08-09_122727_extreme-sports.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - "raw/self/dox-md/_Freeskiing's Early 2000s Cultural Revolution .md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
@@ -21,6 +22,8 @@ connections:
 ---
 
 # Tom Wallisch
+
+> **Incidental entry** — Tom Wallisch, the regional terrain-park prodigy who showed up at Seven Springs a few times a year during Dan's adolescence before becoming the era-defining 4Bi9 athlete. Complete at this size.
 
 Tom Wallisch is a professional freeskier who came up through the same mid-Atlantic regional terrain-park scene as Dan Frank's adolescence — specifically showing up at Seven Springs and the neighboring Roundtop and Liberty resorts "a few times a year" during the 2000s, before the sport's media infrastructure caught up with him.
 
@@ -42,4 +45,6 @@ Dan's documented relationship to Wallisch is an adult retrospective research int
 
 No direct contact between Dan and Tom Wallisch is documented. The nature and extent of Wallisch's attendance at Seven Springs and Roundtop during Dan's adolescence comes from a single retrospective capture and is not independently confirmed from video archives or other sources.
 
+Why incidental: no direct contact between Dan and Wallisch is documented; the record is one retrospective capture of the regional scene, fully stated here.
 
+Related major articles: [Seven Springs](wiki/places/seven-springs.md) · [Extreme sports](wiki/interests/extreme-sports.md)

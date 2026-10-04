@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-07-19
-date_modified: 2026-07-19
+date_modified: 2026-10-04
 date_range_start: 2011-10-06
 date_range_end: 2013-07-12
 sources:
@@ -23,6 +24,8 @@ connections:
 ---
 
 # Ej Rags
+
+> **Incidental entry** — Ej Rags, Williamsburg vinyl collector whose July 12, 2013 exchange drew out Dan's stated philosophy of destroying his own creative work — "that was so I can create something new." Complete at this size.
 
 Ej Rags is a Williamsburg, Brooklyn contact — "a block from the
 bridge" as of an October 2011 hello — whose one substantive exchange,
@@ -71,4 +74,6 @@ the corpus.
 **Gaps:** no contact after July 2013; Ej's connection to the wider
 Uniontown or NYC social circle is otherwise undocumented.
 
+Why incidental: one substantive exchange, quoted in full here; no contact after July 2013 is documented.
 
+Related major articles: [Uniontown return 2013–2015](wiki/timeline/periods/uniontown-return-2013-2015.md)

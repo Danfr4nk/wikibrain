@@ -2,10 +2,11 @@
 domain: interests
 page_type: entity
 title: "Batteries Not Included (BNI)"
+tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-07-20
-date_modified: 2026-09-25
+date_modified: 2026-10-04
 images:
   infobox: wiki/media/bni-shortys-live.jpg
   library:
@@ -29,8 +30,9 @@ connections:
     type: evidences
     claim: "Joe is one of two named bandmates (with Matt Turko), and his thread is the primary source for the band's setlist and the 2021 political retrospective on covering Dead Kennedys' 'California Uber Alles.'"
 ---
-
 # Batteries Not Included (BNI)
+
+> **Incidental entry** — Batteries Not Included, Dan's high-school hardcore/punk band with Joe Oshnack and Matt Turko, with Dan on drums. Complete at this size.
 
 Batteries Not Included — "BNI" in Dan's own shorthand — was his high
 school-era band with [[wiki/people/joe-oshnack|Joe Oshnack]] and a
@@ -132,4 +134,6 @@ original song titles or recordings; exact active years; whether any
 other members existed beyond the three named here. (The old
 basement-vs-venue question is answered: Shorty's, a real stage.)
 
+Why incidental: a closed high-school band — three named members, a reconstructed setlist, two photographs; the record is this size.
 
+Related major articles: [Joe Oshnack](wiki/people/joe-oshnack.md) · [Seth LeDonne](wiki/people/seth-ledonne.md) · [Opie and Anthony](wiki/interests/opie-and-anthony.md)

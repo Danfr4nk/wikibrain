@@ -2,9 +2,10 @@
 domain: places
 page_type: entity
 title: "Seven Springs"
+tier: incidental
 status: active
 date_created: 2026-07-20
-date_modified: 2026-08-09
+date_modified: 2026-10-04
 sources:
   - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -39,6 +40,8 @@ connections:
 ---
 
 # Seven Springs
+
+> **Incidental entry** — Seven Springs, the ski resort where Dan's family kept a condo, is in the wiki as the anchor of his adolescent social world and his first drug-exposure cohort. Complete at this size.
 
 Seven Springs is a ski resort about 25 miles from Uniontown that
 functioned as Dan's principal social world every weekend throughout his
@@ -113,3 +116,7 @@ past adolescence; any named individuals from the Seven Springs crew
 beyond the general cohort description.
 
 
+
+Why incidental: the resort's role is fully charted — the weekly ritual, the terrain-park buildout, the 2004 exposure cohort. Promote if Dan's adolescent ski years get a period entry of their own.
+
+Related major articles: [Matt Kraus](wiki/people/matt-kraus.md) · [Attachment model](wiki/mind/concepts/attachment-model.md)

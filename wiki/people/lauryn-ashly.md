@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-07-19
-date_modified: 2026-07-19
+date_modified: 2026-10-04
 date_range_start: 2014-04-11
 date_range_end: 2020-09-14
 sources:
@@ -29,6 +30,8 @@ connections:
 ---
 
 # Lauryn Ashly
+
+> **Incidental entry** — A Uniontown-era friend whose short thread holds the real-time April 2014 grief over Rob Orange's death and one declined arrangement ask in 2020. Complete at this size.
 
 Lauryn Ashly is a Uniontown-era friend whose short Facebook Messenger
 thread (April 2014, then a single exchange in September 2020) captures
@@ -84,5 +87,7 @@ visible cost to the friendship either way.
 **Gaps:** whether either of them ultimately attended Rob's funeral;
 Lauryn's current location and circumstances beyond the 2020 "Denver all
 weekend" mention.
+
+Why incidental: the thread is two windows six years apart, and both are fully told above; there is no further record to draw on.
 
 

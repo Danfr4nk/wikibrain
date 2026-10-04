@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-07-14
+date_modified: 2026-10-04
 date_range_start: 2015-12-10
 date_range_end: 2016-12-14
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -18,6 +19,8 @@ infobox:
 ---
 
 # Jason Cole
+
+> **Incidental entry** — Jason Cole, artist friend whose late-2016 pet-portrait commission for Dan curdled into a documented one-sided correspondence over the unpaid piece. Complete at this size.
 
 Jason Cole was a friend and working artist who did a custom pet portrait commission for Dan in late 2016 — a relationship that curdled from warm creative collaboration into one of the corpus's clearest documented instances of Dan stonewalling someone who was owed money (`+17249846036`, 75 messages, December 2015 – December 2016).
 
@@ -42,8 +45,6 @@ From December 5, 2016 onward, Jason cannot get Dan to respond about picking up a
 
 Whether Dan ever paid for the portrait, and whether the friendship survived the December 2016 rupture, are undocumented — the thread ends there.
 
-## Related
+Why incidental: the 75-message thread is summarized in full here; whether Dan ever paid is undocumented, so the record closes where the thread does.
 
-[[wiki/people/annie-ulmer]] · [[wiki/self/message-corpora/master-message-dump]]
-
-
+Related major articles: [Annie Ulmer](wiki/people/annie-ulmer.md)

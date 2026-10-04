@@ -1,15 +1,17 @@
 ---
 domain: work
 page_type: summary
+tier: incidental
 status: active
 date_created: 2026-06-22
-date_modified: 2026-06-23
+date_modified: 2026-10-04
 sources: ["bin/export-imessage-template.sh — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "ingest-queue.json", "log.md", "/Users/daniel/imessage-extractor/README.md", "/Users/daniel/imessage-extractor", "/Users/daniel/messages-exporter", "danwiki_portal.py — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/message-csv/*", "raw/self/dox-md/BFS_BOOTLOADER_v2.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/_ⒺⓍⓉⓇⒶⒸⓉ ⓂⒺⓈⓈⒶⒼⒺⓈ Pinned chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/MAX_PRIME.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/chats/* — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/work/tech/grok-build/overview", "wiki/work/tech/max-framework/overview", "wiki/self/message-corpora/master-message-dump", "wiki/self/context-core", "wiki/self/gemini-activity/gemini-activity.md", "wiki/self/facebook", "wiki/people/*", "wiki/timeline/periods/2025-collapse", "wiki/legal/463-morgantown", "wiki/work/bfs-foods"]
 tags: [digital-footprint, ai-collaboration, forensic-analysis]
 ---
-
 # iMessage Tooling
+
+> **Incidental entry** — The iMessage extraction and export tooling stack behind the wiki's message corpora. Complete at this size.
 
 ## Overview
 Tooling stack for extracting, exporting, and analyzing iMessage/SMS from `~/Library/Messages/chat.db` (local, read-only, forensic grade). Powers raw/self/message-csv/, imessage/, master-message-dump, and wiki ingest. Includes shell/py exporters, Electron dashboard app, portal TUI, and Grok Build integrations (responder noted in log).
@@ -76,4 +78,6 @@ Tooling stack for extracting, exporting, and analyzing iMessage/SMS from `~/Libr
 
 **Notes:** Requires macOS Full Disk Access. chat.db schema: message + handle + chat_handle_join + dec for attributedBody. Update raw/tech/imessage-tooling/ on new exports. Sources include workspace binaries + extracted csvs (defer raw). Grok subagent uses these for deep review. Raw/tech/imessage-tooling/ remains placeholder dir.
 
+Why incidental: a tooling inventory; it changes only when the stack does.
 
+Related major articles: [Grok Build](wiki/work/tech/grok-build/overview.md) · [MAX framework](wiki/work/tech/max-framework/overview.md) · [Master message dump](wiki/self/message-corpora/master-message-dump.md)

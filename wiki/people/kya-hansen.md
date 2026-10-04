@@ -3,9 +3,10 @@ domain: people
 page_type: entity
 title: "Kya Hansen (\"bbblud\")"
 aliases: ["bbblud", "blud"]
+tier: incidental
 status: closed
 date_created: 2026-07-14
-date_modified: 2026-07-14
+date_modified: 2026-10-04
 date_range_start: 2019-06-01
 date_range_end: 2020-03-23
 sources:
@@ -25,6 +26,8 @@ infobox:
 ---
 
 # Kya Hansen ("bbblud")
+
+> **Incidental entry** — Kya Hansen ("bbblud"), the Canadian model and OnlyFans creator Dan moderated a subreddit for in 2019, known here from his own account and two dated promotions in his circle. Complete at this size.
 
 Kya Hansen — online handle **bbblud** ("blud") — is a Canadian model and
 OnlyFans creator Dan was, by his own account (2026-07-14), the Reddit
@@ -77,8 +80,6 @@ and what (if anything) happened to the contact after March 2020 are all
 undocumented. Whether "Kya Hansen" is her real name or a stage name is
 not established from the current sources.
 
-## Related
+Why incidental: the documented record is Dan's account of the 2019 subreddit-admin stint plus two dated recommendations; the OnlyFans message history itself is unrecovered, so the page is complete at what the corpus actually holds.
 
-[[wiki/people/shelbie-breakiron]] · [[wiki/people/jerad-friedline]] · [[wiki/mind/psychosexual/arrangement-history]]
-
-
+Related major articles: [Shelbie Breakiron](wiki/people/shelbie-breakiron.md) · [Jerad Friedline](wiki/people/jerad-friedline.md) · [Arrangement history](wiki/mind/psychosexual/arrangement-history.md)

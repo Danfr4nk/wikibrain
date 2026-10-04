@@ -1,10 +1,11 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: active
 importance: high
 date_created: 2026-06-22
-date_modified: 2026-07-11
+date_modified: 2026-10-04
 sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related:
   - "wiki/interests/favorites/music"
@@ -16,6 +17,8 @@ tags: [music-production]
 ---
 
 # JPEGMAFIA
+
+> **Incidental entry** — JPEGMAFIA, the experimental hip-hop producer holding 13 tracks in Dan's favorites — the single highest count in a 1,477-artist library. Complete at this size.
 
 Born Barrington DeVaughn Hendricks in Brooklyn, raised partly in Jamaica, radicalized by Birmingham, Alabama. Makes experimental hip-hop that is confrontational by design — politically, sonically, structurally. His albums (*Veteran*, *All My Heroes Are Cornballs*, *Darkskin Maniac*) are dense collisions of samples, distorted bass, internet-culture references, and lyrics that treat American white supremacy with the flat contempt of someone who has studied it too long to be surprised by it.
 
@@ -35,4 +38,6 @@ The political content is inseparable from the sonic content. The confrontational
 
 13 tracks from someone whose albums don't have obvious singles in the radio sense means these aren't the popular ones — they're the ones that earned repeat plays through something more specific. JPEGMAFIA rewards close listening in ways that passive consumption doesn't register. The track count is evidence of that kind of engagement.
 
+Why incidental: a favorites-list portrait — the count, the production reading, and the sub-bass connection are fully stated here.
 
+Related major articles: [Sub-bass signature](wiki/interests/music/concepts/sub-bass-signature.md)

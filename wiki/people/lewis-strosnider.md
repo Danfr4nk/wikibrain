@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-07-19
-date_modified: 2026-07-19
+date_modified: 2026-10-04
 date_range_start: 2018-03-30
 date_range_end: 2019-02-08
 sources:
@@ -38,6 +39,8 @@ connections:
 ---
 
 # Lewis Strosnider
+
+> **Incidental entry** — A Uniontown vape-shop friend: free design work, a drone business that never launched, and a Mavic 2 sale left mid-negotiation when Dan moved to NYC. Complete at this size.
 
 Lewis Strosnider was a Uniontown vape-shop friend whose Facebook
 Messenger thread (March 2018 – February 2019) tracks a genuine
@@ -94,5 +97,7 @@ later than, the wiki's broader dating of the NYC move to February 2019
 **Gaps:** whether the drone sale ever completed; whether the Part 107
 certification or the construction-drone business happened; Lewis's
 current circumstances.
+
+Why incidental: one thread is the whole record — the friendship, the drone saga, and its unresolved end are fully documented above.
 
 

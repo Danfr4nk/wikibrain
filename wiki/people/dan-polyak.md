@@ -2,10 +2,11 @@
 domain: people
 page_type: entity
 title: "Dan Polyak"
+tier: incidental
 status: active
 knowledge: mixed
 date_created: 2026-07-19
-date_modified: 2026-09-03
+date_modified: 2026-10-04
 date_range_start: 2013-06-16
 date_range_end: 2020-02-06
 sources:
@@ -37,8 +38,9 @@ connections:
   - { target: "[[wiki/mind/synthesis/provision-grammar]]", type: references, claim: "RECIPROCAL — the provision grammar's rung 1 ($25, memo 'For introducing me to Ally Lubin') is the priced trace of the December 2018 reintroduction this page documents: access purchased from him." }
   - { target: "[[wiki/people/eric-jester]]", type: references, claim: "RECIPROCAL — both pages document the same 2012-02-23 core-friend cohort list; the two names sit adjacent in Dan's only self-enumerated friend group." }
 ---
-
 # Dan Polyak
+
+> **Incidental entry** — Dan Polyak, the longtime friend who reintroduced Dan to Ally Lubin in December 2018. Complete at this size.
 
 Dan Polyak is a longtime friend — a shared-first-name running joke
 ("bitchdan," "clandan") dating to at least 2013 — whose Facebook
@@ -148,4 +150,6 @@ about my first experience with another guy in my set."
 through another channel; whether the "again this weekend" repeat visit
 with Bryan occurred; Polyak's current circumstances.
 
+Why incidental: a banter thread carrying two consequential exchanges — the 2018 Ally reintroduction and the 2019 Bryan disclosure — and no third act.
 
+Related major articles: [Ally Lubin](wiki/people/ally-lubin.md) · [Eric Jester](wiki/people/eric-jester.md)

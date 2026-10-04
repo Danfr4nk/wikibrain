@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: active
 date_created: 2026-06-22
-date_modified: 2026-07-13
+date_modified: 2026-10-04
 date_range_start: 2014-01-01
 date_range_end: 
 sources:
@@ -29,6 +30,8 @@ connections:
 ---
 
 # Mogzart
+
+> **Incidental entry** — Dan's 2014–16 production alias (bass house / trap-adjacent), revived in March 2026 for jump-up drum & bass remixes alongside GRIPNOTIC. Complete at this size.
 
 ## Identity
 
@@ -69,10 +72,8 @@ MOGZART occupies the middle period of the production arc — after the experimen
 
 The 2026 revival settles the earlier "archive/revival candidate" question: MOGZART is again a live release identity, running in parallel with GRIPNOTIC rather than superseded by it — MOGZART carrying the DnB material, GRIPNOTIC the bass/tech-house direction.
 
-## Related
-- [[wiki/interests/music/overview]]
-- [[wiki/interests/music/aliases/gripnotic]] (successor)
-- [[wiki/interests/music/aliases/sloppp]] (predecessor)
-- [[wiki/interests/music/concepts/sub-bass-signature]]
+Why incidental: the alias's arc — the SLOPPP handoff, the 2014–16 run, the 2026 revival — is fully stated; the era's uncatalogued output waits on an archive ingest, not on more prose here.
+
+Related major articles: [[wiki/interests/music/overview]] · [[wiki/interests/music/aliases/gripnotic]] · [[wiki/interests/music/aliases/sloppp]] · [[wiki/interests/music/concepts/sub-bass-signature]]
 
 

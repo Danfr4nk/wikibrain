@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: synthesis
+tier: incidental
 status: active
 date_created: 2026-06-22
-date_modified: 2026-07-14
+date_modified: 2026-10-04
 sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 synthesizes:
   - wiki/interests/music/concepts/sub-bass-signature
@@ -20,6 +21,8 @@ tags: [music-production]
 ---
 
 # Electronic & Bass Music Cluster
+
+> **Incidental entry** — The nine-artist electronic/bass cluster in Dan's favorites library, read as craft-level listening in the genre space GRIPNOTIC works in. Complete at this size.
 
 Nine artists beyond [[wiki/interests/favorites/music/artists/lyny]] and
 Knock2 make up the rest of the
@@ -81,8 +84,8 @@ as calibration listening, keeping the ear tuned to where the genre
 currently sits, in a lane where Dan's own baseline sound was already
 sitting before he ever set out to match it.
 
-## Related
+Why incidental: a single cluster portrait — the artists, the track-title pattern, and the sub-bass overlap are fully stated here; individual artists get their own pages if their presence in the library grows.
 
-[[wiki/interests/favorites/music]] · [[wiki/interests/favorites/music/artists/lyny]] · [[wiki/interests/music/concepts/sub-bass-signature]] · [[wiki/mind/concepts/lyric-qualifier]] · [[wiki/interests/music/aliases/gripnotic]]
+Related major articles: [[wiki/interests/favorites/music]] · [[wiki/interests/favorites/music/artists/lyny]] · [[wiki/interests/music/concepts/sub-bass-signature]] · [[wiki/mind/concepts/lyric-qualifier]] · [[wiki/interests/music/aliases/gripnotic]]
 
 

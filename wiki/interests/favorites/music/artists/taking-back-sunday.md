@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: active
 date_created: 2026-06-22
-date_modified: 2026-08-01
+date_modified: 2026-10-04
 sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related:
   - wiki/interests/favorites/music
@@ -23,6 +24,8 @@ connections:
 ---
 
 # Taking Back Sunday
+
+> **Incidental entry** — Taking Back Sunday is in the wiki because Dan favorited six of their tracks, five of them the betrayal record *Tell All Your Friends* nearly end to end. Complete at this size.
 
 Long Island band whose 2002 debut, *Tell All Your Friends*, is one of the
 genre's most famous real-life betrayal records: original guitarist John
@@ -89,3 +92,7 @@ The following live appearances are drawn from the consolidated concert table and
 - **Apr 29 - May 1, 2011** — The Bamboozle 2011, New Meadowlands Stadium, East Rutherford, NJ. Festival edition. Lineup included Lil Wayne, Motley Crue, Taking Back Sunday, A Day to Remember.
 
 
+
+Why incidental: an artist portrait at favorites depth — six favorited tracks and three documented shows are the whole record. Promote if the emo-canon artists get a collective entry of their own.
+
+Related major articles: [Fall Out Boy](wiki/interests/favorites/music/artists/fall-out-boy.md) · [Say Anything](wiki/interests/favorites/music/artists/say-anything.md)

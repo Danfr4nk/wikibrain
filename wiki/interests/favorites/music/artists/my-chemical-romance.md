@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: incidental
 status: active
 date_created: 2026-06-22
-date_modified: 2026-07-14
+date_modified: 2026-10-04
 sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related:
   - wiki/interests/favorites/music
@@ -19,6 +20,8 @@ tags: [personality-profile]
 ---
 
 # My Chemical Romance
+
+> **Incidental entry** — My Chemical Romance is in the wiki because nine of Dan's favorited tracks — third-highest count in the library — choose *The Black Parade*'s death-facing spine over its hits. Complete at this size.
 
 New Jersey rock band, formed 2001 by Gerard Way in the direct aftermath
 of 9/11 — a founding-myth detail the band never let audiences forget.
@@ -95,3 +98,5 @@ worldview that does the same thing to its own life narrative.
 [[wiki/interests/favorites/music]] · [[wiki/interests/favorites/music/artists/fall-out-boy]] · [[wiki/interests/favorites/music/artists/say-anything]] · [[wiki/interests/favorites/music/artists/elliott-smith]] · [[wiki/mind/psychosexual/developmental-origins]]
 
 
+
+Why incidental: an artist portrait at favorites depth — the nine tracks and the reading of the selection are the whole story. Promote if the emo-canon artists get a collective entry of their own.

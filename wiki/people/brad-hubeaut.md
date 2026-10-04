@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-07-14
+date_modified: 2026-10-04
 date_range_start: 2017-10-13
 date_range_end: 2018-10-03
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -19,6 +20,8 @@ infobox:
 ---
 
 # Brad Hubeaut
+
+> **Incidental entry** — Brad Hubeaut, Dan's caddy manager at Nemacolin Woodlands through the 2017–2018 seasons, whose 163-message thread is mostly report times plus one April 2018 friction episode. Complete at this size.
 
 Brad Hubeaut was Dan's caddy manager at [[wiki/work/nemacolin-caddying|Nemacolin Woodlands]] through the 2017–2018 caddying seasons — the day-to-day dispatcher who assigned report times, ran hiring paperwork, and managed the caddie roster across Nemacolin's multiple courses (Mystic, Shepherd's, Laurel Valley, occasional trips to Oakmont). The 163-message thread (`+13042162954`, October 2017 – October 2018) is dominated by routine scheduling but also documents a real workplace friction episode in April 2018.
 
@@ -39,8 +42,6 @@ On April 20, 2018, Brad relays a complaint from another staffer (Tyler) that Dan
 | Direction | Unreliable in this export (marked "Received" throughout) — read as mostly one-way (Brad to Dan, as a shift-lead broadcasting to his crew) |
 | Handle | +13042162954 |
 
-## Related
+Why incidental: a scheduling-dominated thread, fully summarized here; roster and course detail belong to the Nemacolin caddying page.
 
-[[wiki/work/nemacolin-caddying]] · [[wiki/timeline/periods/2017-poverty-floor]] · [[wiki/self/message-corpora/master-message-dump]]
-
-
+Related major articles: [Nemacolin caddying](wiki/work/nemacolin-caddying.md) · [2017 poverty floor](wiki/timeline/periods/2017-poverty-floor.md)

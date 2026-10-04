@@ -1,15 +1,18 @@
 ---
 domain: work
 page_type: summary
+tier: incidental
 status: active
 date_created: 2026-06-22
-date_modified: 2026-06-23
+date_modified: 2026-10-04
 sources: ["raw/self/dox-md/MAX_PRIME.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/_ⒺⓍⓉⓇⒶⒸⓉ ⓂⒺⓈⓈⒶⒼⒺⓈ Pinned chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "log.md", "bin/export-imessage-template.sh — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "danwiki_portal.py — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "/Users/daniel/imessage-extractor", "/Users/daniel/messages-exporter", "raw/self/chats/* — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/CATO_conflict_architecture.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/work/tech/imessage-tooling/overview", "wiki/work/tech/max-framework/overview", "wiki/self/context-core", "wiki/mind/synthesis/ai-collaborative-analysis", "wiki/self/twitter", "wiki/self/message-corpora/master-message-dump", "wiki/self/gemini-activity/gemini-activity.md", "wiki/self/facebook", "wiki/timeline/periods/2025-collapse", "wiki/people/max"]
 tags: [ai-collaboration, digital-footprint, forensic-analysis]
 ---
 
 # Grok Build
+
+> **Incidental entry** — Grok Build, Dan's custom Grok-based subagent workflows and the tooling around them, mapped as one stack: what it is, what feeds it, what it feeds. Complete at this size.
 
 ## Overview
 Grok Build refers to custom agentic / subagent workflows using Grok (xAI) as cognitive prosthetic, parallel to CATO/MAX. Includes specialized "Grok Build subagent" tasks (e.g., wiki implementation per system), iMessage responder tooling, and ingest/analysis pipelines. Mentioned in log: "AI agent/tooling (Grok Build iMessage responder that glitched/spammed ex, Claude fable runs, algo resets)".
@@ -68,3 +71,5 @@ Ties to [[wiki/work/tech/max-framework/overview]] (MAX adversarial) and imessage
 **Notes:** Raw/tech/grok-build/ currently empty (data from dox + workspace binaries). Update post new builds. Grok routes via OpenRouter in env per home CLAUDE.md. Defer to raw for exports. Heavy use of search/grep/read for wiki tasks. Subagent schema enforcement: YAML frontmatter, tables-first, wiki-path links, raw/ deferral.
 
 
+
+Why incidental: a tooling map at summary depth — the components, sources, and cross-references are fully charted here; new builds extend the linked tooling pages, not this one. Promote if Grok Build accumulates a build history of its own.

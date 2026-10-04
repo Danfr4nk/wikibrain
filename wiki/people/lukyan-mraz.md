@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-07-19
-date_modified: 2026-07-19
+date_modified: 2026-10-04
 date_range_start: 2015-08-14
 date_range_end: 2016-03-11
 sources:
@@ -26,6 +27,8 @@ connections:
 ---
 
 # Lukyan Mraz
+
+> **Incidental entry** — Lukyan Mraz, Uniontown friend whose 36-message 2015–2016 thread documents a brief cannabis-grow collaboration ending in a March 2016 equipment dispute. Complete at this size.
 
 Lukyan Mraz is a Uniontown friend, connected to the same household as
 [[wiki/people/zachariah-harshman|Zach Harshman]], whose short Facebook
@@ -77,4 +80,6 @@ whether it was resolved; what prompted Lukyan's Feb 17 "you alright?"
 check-in, cross-corroborated by Zach's own concern the next day but
 unexplained in either thread; Lukyan's current circumstances.
 
+Why incidental: a single 36-message thread, fully summarized here — the grow attempt, the souring, and the unresolved equipment question are all the record holds.
 
+Related major articles: [Zach Harshman](wiki/people/zachariah-harshman.md)

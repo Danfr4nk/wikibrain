@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: active
 knowledge: mixed
 date_created: 2026-07-20
-date_modified: 2026-07-20
+date_modified: 2026-10-04
 date_range_start: 2018-08-25
 date_range_end: 2020-02-13
 sources:
@@ -29,6 +30,8 @@ connections:
 ---
 
 # Matthew Palermo
+
+> **Incidental entry** — Matthew Palermo, Uniontown-era acquaintance whose sparse 2018–2020 thread carries Dan's starkest statement of the opiate epidemic's scale — "a quarter of my graduating class isn't around anymore." Complete at this size.
 
 Matthew Palermo is a Uniontown-era acquaintance whose short, sparse
 Facebook thread (2018–2020) carries one genuinely heavy exchange: a
@@ -78,4 +81,6 @@ around" but is "pretty much the same guy all the time finally" now —
 current circumstances beyond the Feb 2020 update (house, HVAC/
 refrigeration trade, plans to relocate near the Outer Banks).
 
+Why incidental: a sparse thread whose defining February 2020 exchange is recorded in full here; the remaining gaps (the brother's name and death date) have no source to draw on.
 
+Related major articles: [Zach Harshman](wiki/people/zachariah-harshman.md)

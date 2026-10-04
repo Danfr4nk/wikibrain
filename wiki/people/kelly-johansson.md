@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-07-19
+date_modified: 2026-10-04
 date_range_start: 2019-09-27
 date_range_end: 2019-10-23
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -24,6 +25,8 @@ connections:
 ---
 
 # Kelly Johansson
+
+> **Incidental entry** — A New York escort Dan and Annie booked repeatedly over five weeks in fall 2019 — the most professionalized instance of their arrangement in the corpus. Complete at this size.
 
 Kelly Johansson was a New York escort (Upper East Side, 152 East 65th Street) Dan and Annie booked for paid sessions together over a five-week stretch in fall 2019 (`+13108018083`, 64 messages, 2019-09-27 to 2019-10-23; CashApp `$kellyjohansson`, Venmo `@Andrianna_Cole`). It's the most professionalized instance of the couple's non-monogamous arrangement documented in the corpus — not a friend or a one-off booking but a repeat working relationship with an escort who was, in turn, trying to bring Dan and Annie in as co-providers for one of her own paying clients.
 
@@ -46,8 +49,8 @@ Kelly treats Annie as a professional peer more than a customer's girlfriend: she
 
 Whether the scripted client session ever occurred beyond the corpus's window, and whether Annie ever took Kelly up on independent client referrals, are both undocumented — the thread simply stops in late October 2019 with ordinary scheduling still in progress.
 
-## Related
+Why incidental: one 64-message thread is the complete record — the bookings, the co-provider pitch, and where the thread stops are all stated above.
 
-[[wiki/people/annie-ulmer]] · [[wiki/timeline/events/shelbie-annie-threesome-april-2019]] · [[wiki/self/message-corpora/master-message-dump]]
+Related major articles: [[wiki/people/annie-ulmer]] · [[wiki/timeline/events/shelbie-annie-threesome-april-2019]] · [[wiki/self/message-corpora/master-message-dump]]
 
 

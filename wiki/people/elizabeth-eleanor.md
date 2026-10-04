@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-07-19
-date_modified: 2026-07-19
+date_modified: 2026-10-04
 date_range_start: 2013-07-10
 date_range_end: 2013-07-11
 sources:
@@ -29,6 +30,8 @@ connections:
 ---
 
 # Elizabeth Eleanor
+
+> **Incidental entry** — Elizabeth Eleanor, fellow recovering addict whose single overnight July 2013 conversation with Dan produced the corpus's only concrete Suboxone dosage figure and its earliest dated INTP self-identification. Complete at this size.
 
 Elizabeth Eleanor is a fellow recovering addict whose entire
 relationship with Dan is a single overnight Facebook exchange — July
@@ -86,4 +89,6 @@ circumstances, surname context, and whether she and Dan knew each
 other before this exchange (the "long time no see" framing implies a
 pre-existing but undocumented relationship).
 
+Why incidental: the entire documented relationship is one overnight 2013 exchange; its two evidentiary yields — the only concrete Suboxone dosage figure and the earliest dated INTP self-identification — are fully recorded here.
 
+Related major articles: [Chemical architecture](wiki/health/chemical-architecture.md) · [Dark era 2007–2008](wiki/timeline/periods/dark-era-2007-2008.md)

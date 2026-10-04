@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: active
 knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-07-20
+date_modified: 2026-10-04
 date_range_start: 2025-08-21
 date_range_end: 2025-09-13
 sources:
@@ -23,6 +24,8 @@ connections:
 ---
 
 # Aaron
+
+> **Incidental entry** — Aaron, a short-lived iMessage contact whose August–September 2025 thread carries Dan's real-time reaction to the September 11, 2025 Charlie Kirk assassination. Complete at this size.
 
 Aaron is a short-lived but substantive iMessage contact (`+17245624801`,
 38 messages, August 21 – September 13, 2025) whose thread's real value
@@ -73,4 +76,6 @@ and Harry Potter enthusiasm — and the two discuss a trip to Morgantown.
 before August 2025 or after September 13; the final message (a bare
 "?") is unanswered in the corpus.
 
+Why incidental: 38 messages over three weeks; the thread's value is the one dated political exchange, quoted in full here.
 
+Related major articles: [Twitter](wiki/self/twitter.md)
