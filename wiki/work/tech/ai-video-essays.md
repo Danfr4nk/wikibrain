@@ -1,11 +1,12 @@
 ---
 domain: work
 page_type: entity
+tier: major
 title: "AI Video Essays (planned project)"
 status: active
 knowledge: mixed
 date_created: 2026-07-20
-date_modified: 2026-07-20
+date_modified: 2026-10-04
 sources:
   - "raw/self/dox-md/Creating robust video essays from scripts.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
 tags: [ai-collaboration, music-production, ideology]
@@ -23,8 +24,9 @@ connections:
   - page: wiki/mind/synthesis/ai-collaborative-analysis
     type: evidences
     claim: "Requesting a data stress-test of his own creative-project hypothesis, then accepting a result that flatly contradicted his premise, is the honesty-enforcement pattern applied to a personal ambition rather than forensic or political material."
+changelog:
+  - "2026-10-04: Restructured to canonical template v1"
 ---
-
 # AI Video Essays (planned project)
 
 A 2026 planning-stage project: Dan wants to make long-form (30-60
@@ -66,7 +68,6 @@ been consuming and rating for years. That makes the absence of any script or
 published video a sharper fact than this page's opening treats it as: the
 motivation is documented, dated and strong, and there is still no artifact.
 
-
 ## The structural template: Some More News
 
 Dan's starting point is a structural "autopsy" of a Cody Johnston/*Some
@@ -99,24 +100,6 @@ already documented on
 [[wiki/mind/synthesis/ai-collaborative-analysis|the AI-collaboration
 page]].
 
-## The first pitch, and its own correction
-
-Dan's first concrete idea: millennials have pattern-matched AI to
-crypto and are missing out because of a category error — a claim he
-frames partly as personal defense ("for as much of an AI evangelist as
-I am... I'm not slop brained"). Pushed to stress-test the hypothesis
-against real data before building on it, the research comes back
-**against his premise**: adoption data shows millennials are not absent
-from AI at all — they are arguably the power-user cohort, more likely
-than Gen Z to report daily use and to say AI helps them "work smarter."
-What the data does support is a sharper, more specific claim: millennials
-use AI instrumentally while remaining deeply ambivalent about it,
-resenting a technology they never got to encounter on their own terms
-rather than through a VC hype narrative. Dan accepts the correction
-rather than defending the original premise — a real-time instance of
-requesting a check on his own idea and taking the result at face value,
-including when it directly contradicted what he'd proposed.
-
 ## The J6 flagship episode
 
 On 2026-09-23 the project got its flagship: a J6 video essay, titled
@@ -142,9 +125,39 @@ born in the collaboration that now belongs to the project's material.
 | Status | Planning stage only — no script, no published video |
 | Working thesis (revised) | Millennials use AI instrumentally while resenting it, never having been invited to it outside a VC/hype frame |
 
+## Conflicts in the record
+
+### The first pitch, and its own correction
+
+Dan's first concrete idea: millennials have pattern-matched AI to
+crypto and are missing out because of a category error — a claim he
+frames partly as personal defense ("for as much of an AI evangelist as
+I am... I'm not slop brained"). Pushed to stress-test the hypothesis
+against real data before building on it, the research comes back
+**against his premise**: adoption data shows millennials are not absent
+from AI at all — they are arguably the power-user cohort, more likely
+than Gen Z to report daily use and to say AI helps them "work smarter."
+What the data does support is a sharper, more specific claim: millennials
+use AI instrumentally while remaining deeply ambivalent about it,
+resenting a technology they never got to encounter on their own terms
+rather than through a VC hype narrative. Dan accepts the correction
+rather than defending the original premise — a real-time instance of
+requesting a check on his own idea and taking the result at face value,
+including when it directly contradicted what he'd proposed.
+
+## See also
+
+- [[wiki/interests/roman-republic]]
+- [[wiki/mind/synthesis/ai-collaborative-analysis]]
+- [[wiki/interests/opie-and-anthony]]
+
+## References
+
+- "raw/self/dox-md/Creating robust video essays from scripts.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+
+### Limits
+
 **Gaps:** whether any script was ever written or video published;
 what, if any, channel or platform this was intended for; the "specific
 millennial-in-your-life" example the AI asked for and Dan never
 answered in the retained transcript.
-
-

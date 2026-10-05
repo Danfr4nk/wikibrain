@@ -1,12 +1,13 @@
 ---
 domain: people
 page_type: entity
+tier: major
 title: "Jay Lauer"
 aliases: ["Jay"]
 status: closed
 knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-08-02
+date_modified: 2026-10-04
 date_range_start: 2016-12-23
 date_range_end: 2017-04-11
 sources:
@@ -44,8 +45,9 @@ connections:
   - page: wiki/health/cocaine
     type: evidences
     claim: "Jay Lauer traded suboxone and cocaine with Dan across seven weeks spanning the 2016–17 New Year, and died of a heroin overdose on or about April 11, 2017 — the only documented death attributable to the drug economy Dan was inside."
+changelog:
+  - "2026-10-04: Restructured to canonical template v1"
 ---
-
 # Jay Lauer
 
 Jay Lauer was a friend of Dan's from the Uniontown-area circle around
@@ -157,7 +159,22 @@ overdose, and Ellen's reply that night makes clear what she needed from him:
 "I appreciate the offer and will keep it in mind as things progress —
 especially with B. E."
 
-## Gaps
+## See also
+
+- [[wiki/mind/synthesis/supply-network]]
+- [[wiki/people/betherin-mechling]]
+- [[wiki/people/ellen-ulmer]]
+- [[wiki/people/annie-ulmer]]
+- [[wiki/people/rick-frank]]
+- [[wiki/timeline/periods/2017-poverty-floor]]
+
+## References
+
+- raw/people/captures/2026-08-02_010509_jay-lauer-death.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+
+### Limits
 
 The manner and place of death are recorded only as "an overdose" of heroin;
 no obituary, coroner's finding, or news item has been sought, and Fayette or
@@ -170,5 +187,3 @@ other overdose death is documented anywhere in the wiki, so either the corpus
 is missing them or the phrase is doing emotional rather than literal work.
 Zack Lauer appears as a separate Facebook contact and his relation to Jay is
 unestablished.
-
-

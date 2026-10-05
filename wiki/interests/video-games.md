@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: major
 status: active
 date_created: 2026-07-16
-date_modified: 2026-09-03
+date_modified: 2026-10-04
 sources:
   - "raw/twitter/archive.jsonl"
   - "raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
@@ -32,8 +33,9 @@ connections:
   - page: wiki/mind/synthesis/twitter-2011
     type: evidenced-by
     claim: 'The StarCraft II involvement is competitive rather than casual and is dated: dismissed as a five-minute game on 20 March 2011, a GeForce pro/am first round on 23 June, with ladder reclassification, a named build order and pros discussed by handle in between.'
+changelog:
+  - "2026-10-04: Restructured to canonical template v1"
 ---
-
 # Video Games
 
 Gaming is not a rated favorites category in the masterlist, and the wiki
@@ -167,4 +169,20 @@ facts are concrete and the emotional register is consistent — low-grade,
 long-running, occasionally friction-bearing, finally relinquished under
 family pressure. It earns a page.
 
+## See also
 
+- [[wiki/mind/synthesis/twitter-2008]]
+- [[wiki/people/shane-brannan]]
+- [[wiki/mind/synthesis/interests-as-era-markers]]
+- [[wiki/timeline/events/teen-concert-years]]
+- [[wiki/interests/favorites/music/artists/fall-out-boy]]
+- [[wiki/mind/synthesis/twitter-2011]]
+
+## References
+
+- "raw/twitter/archive.jsonl"
+- "raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+- "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+- "raw/self/message-csv/imessage_3307038747.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+- "raw/self/message-csv/imessage_7243228715_both_2025-06-03_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+- "raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md"

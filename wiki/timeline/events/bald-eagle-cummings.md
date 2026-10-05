@@ -1,12 +1,13 @@
 ---
 domain: timeline
 page_type: event
+tier: major
 title: "Bald Eagle Cummings (~2000–2001?)"
 aliases: ["Bald Eagle", "the Boomerang incident"]
 status: stable
 knowledge: mixed
 date_created: 2026-08-02
-date_modified: 2026-09-12
+date_modified: 2026-10-04
 date_range_start: 2000-12-01
 date_range_end: 2002-03-31
 sources:
@@ -40,8 +41,9 @@ connections:
   - page: wiki/mind/synthesis/the-serial-monogamist
     type: component-of
     claim: "Dan names his own dating pattern here first — 'somehow getting a girl way above my level to date me' as something he 'would go through many times' — eight years before the earliest adult bond the wiki can document, which makes every later instance a repetition of a self-narrated template rather than an independent conclusion."
+changelog:
+  - "2026-10-04: Restructured to canonical template v1"
 ---
-
 # Bald Eagle Cummings (~2000–2001?)
 
 In seventh grade, on a night ski trip to [[wiki/places/seven-springs|Seven
@@ -140,7 +142,20 @@ Whether Morley's Champion address was that rental, a separate property, or the
 unit later purchased is now a specific, checkable question rather than a vague
 adjacency. It is still not answered.
 
-## Gaps
+## See also
+
+- [[wiki/places/seven-springs]]
+- [[wiki/mind/psychosexual/developmental-origins]]
+- [[wiki/people/danielle-onesi]]
+- [[wiki/mind/concepts/attachment-model]]
+- [[wiki/health/hyperreflexivity]]
+- [[wiki/interests/extreme-sports]]
+
+## References
+
+- raw/self/captures/2026-08-01_154050_bald-eagle-cummings.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+
+### Limits
 
 - **The date is unfixed.** Seventh grade for a student who started a year early
   puts it around the 2000–01 school year, but the capture says only "7th grade"
@@ -161,5 +176,3 @@ adjacency. It is still not answered.
   direction. The nickname remains single-source.
 - **The second-hand claim about Victor and Britney in the minivan** is reported
   as something Dan *"later found out"* and is not corroborated.
-
-

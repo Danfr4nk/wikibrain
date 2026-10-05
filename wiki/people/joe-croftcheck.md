@@ -1,11 +1,12 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 title: "Joe Croftcheck"
 status: stub
 knowledge: mixed
 date_created: 2026-08-02
-date_modified: 2026-08-02
+date_modified: 2026-10-04
 sources:
   - raw/people/captures/2026-08-02_004832_franki-and-the-fireworks.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [uniontown-era, addiction-recovery, legal]
@@ -24,9 +25,12 @@ infobox:
   relationship_to_dan: "Supplier — described by Dan as 'the family plug'"
   location: uniontown
   known_for: "Uniontown-area cocaine supplier described as the family's connection; named in federal drug-conspiracy and asset-forfeiture reporting from the mid-2010s."
+changelog:
+  - "2026-10-04: Classified as incidental under canonical template v1"
 ---
-
 # Joe Croftcheck
+
+> **Incidental entry** — This page records Joe Croftcheck, the Uniontown supplier Dan describes as "the family plug," known from a single dated 2013 transaction and an unverified mid-2010s enforcement association. Complete at this size.
 
 Joe Croftcheck is the supplier Dan names as **"the family plug"** — the
 Uniontown connection the household used, and the source of the quarter ounce of
@@ -64,7 +68,17 @@ conviction, or any specific person named in those filings. The distinction
 matters: an unverified association with a federal drug case is exactly the kind
 of claim that should not harden by being repeated inside a wiki.
 
-## Gaps
+## See also
+
+- [[wiki/timeline/events/franki-fireworks-day-2013]]
+- [[wiki/mind/synthesis/supply-network]]
+- [[wiki/people/johnny-dealer]]
+
+## References
+
+- raw/people/captures/2026-08-02_004832_franki-and-the-fireworks.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+
+### Limits
 
 - **Nothing is verified.** No message thread, no court record, and no direct
   corroboration of any kind exists on disk for this person. The whole page rests
@@ -79,4 +93,4 @@ of claim that should not harden by being repeated inside a wiki.
   establish whether he is named at all, which is the single cheapest thing that
   could be done to this page.
 
-
+Why incidental: The whole record is one 2026 capture describing a single 2013 transaction; no message thread, court record, or direct corroboration is held.

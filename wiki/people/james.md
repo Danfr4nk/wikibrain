@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: major
 status: active
 knowledge: earned
 date_created: 2026-06-23
-date_modified: 2026-07-14
+date_modified: 2026-10-04
 date_range_start: 2025-05-27
 date_range_end: present
 sources:
@@ -34,8 +35,9 @@ infobox:
   relationship_to_dan: unknown
   first_contact: 2025-05-27
   known_for: "Contact: +18782477198"
+changelog:
+  - "2026-10-04: Restructured to canonical template v1"
 ---
-
 # James (Aliases: "Max", "the Dude", "Music Guy")
 
 ## Identity
@@ -128,7 +130,7 @@ infobox:
 
 ---
 
-## Related Pages
+## See also
 
 - [[wiki/people/danielle-onesi]] — his partner
 - [[wiki/self/gemini-activity/gemini-activity]] — where analysis originated
@@ -145,4 +147,13 @@ infobox:
 
 **Status:** Active. Earned knowledge (synthesized from Gemini analysis + message corpus + creative output characterization).
 
+## References
 
+- raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- "*raw/self/message-csv/imessage_*_2025 slices"
+- raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-21.md
+- raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md
+- raw/self/dox-md/MAX_PRIME.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/_☣☢ 𝙼𝚊𝚡 ☢☣ Pinned chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-58.md

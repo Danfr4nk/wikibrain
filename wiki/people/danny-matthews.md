@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: major
 status: active
 date_created: 2026-06-23
-date_modified: 2026-09-11
+date_modified: 2026-10-04
 date_range_start: 2018-02-16
 date_range_end: 2024-12-26
 sources:
@@ -37,8 +38,9 @@ connections:
   - page: wiki/people/annie-ulmer
     type: co-occurs
     claim: "A seven-year non-monogamous connection that survived the NYC move and outlasted most of the corpus's named friendships, running on Annie's participation as much as Dan's."
+changelog:
+  - "2026-10-04: Restructured to canonical template v1"
 ---
-
 # Danny Matthews
 
 Danny Matthews plays two roles in Dan's life that the wiki long treated as unrelated and which turn out to converge on a single house: he's the local realtor who handled the sale of [[wiki/people/fran-coldren|Fran]]'s house at [[wiki/places/117-belmont-circle|117 Belmont Circle]] after her death, and — running the whole time alongside that professional thread — he's one half of a swinger couple (with his girlfriend Nicole) that Dan and [[wiki/people/annie-ulmer|Annie]] played with periodically from February 2018 through at least 2024. The two threads are interleaved in the same 349-message conversation with no apparent awkwardness on either side; Danny moves from confirming a real-estate closing to explicit sexual logistics in consecutive texts.
@@ -95,6 +97,21 @@ Recurring elements:
 | Direction | Unreliable in this export (see note above) — read as two-way |
 | Handle | +17248803413 |
 
-## Gaps
+## See also
+
+- [[wiki/timeline/events/the-fall-of-fran]]
+- [[wiki/mind/psychosexual/arrangement-history]]
+- [[wiki/places/117-belmont-circle]]
+- [[wiki/people/annie-ulmer]]
+
+## References
+
+- raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/places/captures/2026-08-27_022401_gap-117-belmont-circle.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+
+### Limits
 
 Danny's real-estate brokerage is not otherwise documented; whether the December 2024 invitation was taken up is unknown, and no further contact appears in the corpus after that date. The largest gap is about the opening night itself: nothing in the thread — before, during, or in the six and a half years after — refers to Fran's fall, to an ambulance, or to anything having gone wrong that evening. Whether Danny knew a medical emergency was under way in the house while he was in it is unestablished and is answerable only by him. Dan describes him as "a grade above me at school, known as a dork then," which is the only account of how they knew each other and comes from the operator rather than the corpus.

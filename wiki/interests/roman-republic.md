@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: major
 status: stable
 date_created: 2026-07-16
-date_modified: 2026-08-19
+date_modified: 2026-10-04
 sources:
   - "raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
@@ -43,8 +44,9 @@ connections:
   - page: wiki/mind/synthesis/twitter-2024
     type: evidenced-by
     claim: "Within three weeks of the reading binge the history is a working instrument rather than a subject: the UCLA encampment read as 'the Fabian strategy' and 'Caesarian tactics' (1 May), a proscription list joked about in the post-debate wreckage (28 June), and a major publication corrected on republican Rome (5 June)."
+changelog:
+  - "2026-10-04: Restructured to canonical template v1"
 ---
-
 # Roman Republic & Ancient History
 
 The books favorites break down flagged ancient history as an
@@ -169,11 +171,25 @@ Goldsworthy books connects to the INTP "wounded genius" self-myth on
 2023, rated 5, tagged `great-man-theory`) are all singular-figure-versus-
 the-system stories.
 
+## See also
+
+- [[wiki/work/tech/ai-video-essays]]
+- [[wiki/self/twitter]]
+- [[wiki/mind/synthesis/interests-as-era-markers]]
+- [[wiki/interests/favorites/books/topics/ancient-history]]
+- [[wiki/interests/favorites/books/topics/politics]]
+- [[wiki/interests/gore-vidal]]
+
+## References
+
+- "raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+- "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+
+### Limits
+
 **Gaps:** The pre-2024 ancient-history reading is lighter and its dates
 are fuzzier ("Jan 2024" appears as a catch-all read-date on several
 Plutarch/Carlin entries, likely a bulk backfill rather than literal). No
 evidence in the sampled corpus of ancient history as a *childhood*
 interest — it reads as an adult, mid-30s intensification, roughly
 concurrent with the return to Pennsylvania.
-
-

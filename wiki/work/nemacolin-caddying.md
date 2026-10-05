@@ -1,10 +1,11 @@
 ---
 domain: work
 page_type: event
+tier: major
 title: "Caddying — Nemacolin, Laurel Valley, Pikewood National (2016–2019)"
 status: closed
 date_created: 2026-07-14
-date_modified: 2026-08-02
+date_modified: 2026-10-04
 date_range_start: 2016-04-06
 date_range_end: 2019-11-01
 sources:
@@ -58,8 +59,9 @@ connections:
   - page: wiki/people/bruce-burish
     type: precedes
     claim: "The friendship originates in the caddying era and is dormant until 2018; Bruce's opening register is nostalgia for Nemacolin, which is what re-establishes the channel."
+changelog:
+  - "2026-10-04: Restructured to canonical template v1"
 ---
-
 # Caddying — Nemacolin, Laurel Valley, Pikewood National (2016–2019)
 
 Between the [[wiki/legal/2015-possession-arrest|possession arrest]] and the deep 2017–18 poverty years, Dan
@@ -169,10 +171,26 @@ matches the same "reads every interaction for the tell"
 [[wiki/mind/concepts/forensic-method|forensic instinct]] the rest of the
 corpus documents in professional settings.
 
+## See also
+
+- [[wiki/mind/synthesis/failure-to-launch]]
+- [[wiki/people/zach-clingan]]
+- [[wiki/places/117-belmont-circle]]
+- [[wiki/mind/synthesis/the-embedded-objective]]
+- [[wiki/timeline/events/the-fall-of-fran]]
+- [[wiki/people/christo-coan]]
+
+## References
+
+- raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-scan/Resume.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+
+### Limits
+
 **Gaps:** exact end circumstances (voluntary departure vs. displaced by
 the Nemacolin job's November 2019 end per resume, which lines up with
 the run-up to NYC round two) are undocumented; no message record narrows
 when the caddying work actually stopped versus when Au Za'atar began
 (March 2021), leaving a roughly 16-month unaccounted gap.
-
-

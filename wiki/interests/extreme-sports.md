@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: entity
+tier: major
 status: active
 date_created: 2026-08-09
-date_modified: 2026-08-19
+date_modified: 2026-10-04
 sources:
   - raw/self/captures/2026-08-09_122727_extreme-sports.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [uniontown-era]
@@ -35,8 +36,9 @@ connections:
   - page: wiki/people/matt-kraus
     type: evidenced-by
     claim: "Matt Kraus is the childhood friend who defined the social shape of Dan's early extreme-sports years: the Vans Skatepark birthday trips, the overlapping Seven Springs condo adjacency, and the Woodward camp attendance all ran through him."
+changelog:
+  - "2026-10-04: Restructured to canonical template v1"
 ---
-
 # Extreme Sports
 
 From roughly age 11 through age 17 (approximately 2000–2006), Dan's primary identity and aspirational focus was in two extreme sports: (street-style) aggressive inline rollerblading in the summer and (slopestyle) terrain-park skiing in the winter. The capture frames this as a total-obsession adolescence — not a casual interest — and argues that the scenes it placed him inside were themselves at a hinge point in their own cultural histories.
@@ -73,8 +75,19 @@ Dan attended with Matt Kraus and Nathan King for the first three years. On year 
 
 The capture explicitly flags the Vans Skatepark trip sequence as a class-signaling artifact: "most people can't afford to do that." Three-day weekend trips to an out-of-state skatepark, loaded with kids, driven by a parent who also handled a ski condo at Seven Springs, were not generic adolescent behavior — they were the product of disposable income and organizational bandwidth that most of Dan's peers at Laurel Highlands did not have. The Abercrombie & Fitch accumulation documented on [[wiki/timeline/events/robotussin-s-last-dance]] as eleventh-grade self-concept ("best-dressed senior superlative, bought his way in") is the same class-signaling pattern from a slightly later window — the same kid who could do the Vans trips had the spending power to purchase social position through clothing, and the capture's "most people can't afford to do that" reads as the same instinct expressed against the terrain-park context rather than the mall context. The class dimension is continuous across the adolescent record; it just took different forms in different years.
 
-## Corpus gaps
+## See also
+
+- [[wiki/places/seven-springs]]
+- [[wiki/timeline/periods/dark-era-2007-2008]]
+- [[wiki/people/tom]]
+- [[wiki/interests/golf]]
+- [[wiki/mind/synthesis/interests-as-era-markers]]
+- [[wiki/timeline/events/bald-eagle-cummings]]
+
+## References
+
+- raw/self/captures/2026-08-09_122727_extreme-sports.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+
+### Limits
 
 No intake-digital record (YouTube watch history, social media posts) documents this era in the corpus — it predates the Twitter record (2009) and the iMessage record (2015). The reconstruction is built entirely from this one manual capture. Specific dating of the 2001–2003 Vans trips, the exact years of the Woodward attendance, and the 2006 terrain-park expansion at Seven Springs are not independently confirmed outside this source.
-
-
