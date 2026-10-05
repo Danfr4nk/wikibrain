@@ -1,9 +1,10 @@
 ---
 domain: mind
 page_type: entity
+tier: major
 status: active
 date_created: 2026-09-15
-date_modified: 2026-09-15
+date_modified: 2026-10-05
 sources:
   - "dat:1587-conjunction-rule-cultural-literacy-20260915 (the conjunction rule the divide feeds)"
   - "The 2026-09-15 millennial-culture / AI-adoption thread as worked (survey interrogation predates the archived raw window; the thread's tail is in src:sammy-chat-transcript-20260915-1555, 15:42–15:47Z)"
@@ -21,6 +22,8 @@ connections:
   - page: wiki/mind/concepts/llm
     type: contextualizes
     claim: "Dan's builder-side relationship to LLMs (pipelines, agents, probes) is the far end of the divide this entry measures."
+changelog:
+  - "2026-10-05: Restructured to canonical template v1"
 ---
 
 # The Use-vs-Build Divide
@@ -31,6 +34,7 @@ interrogation when Dan said "They don't use ai" and then demanded
 evidence for the counter-claim.
 
 ## What the surveys actually say
+
 
 The numbers Sammy brought, all from 2025–2026 surveys:
 
@@ -54,6 +58,7 @@ The numbers Sammy brought, all from 2025–2026 surveys:
 
 ## The conflation, caught live
 
+
 Dan caught Sammy mushing two Deloittes together: the 84% figure was
 the Netherlands survey, the 58% was the US standalone-tools number.
 "Oh you said 84% here" — owned in the same turn, no hedging. The
@@ -61,6 +66,7 @@ correction is recorded here because the thread's whole point was
 instrument-auditing, and the audit caught the auditor.
 
 ## "Used" does heavy lifting
+
 
 Dan's "bravo sierra" instinct was aimed at the verb. "Used AI"
 includes passive AI in Gmail and one drunk ChatGPT try — the
@@ -74,6 +80,7 @@ image gen is a separate tool and a separate itch. You can be a
 daily chatbot user and never touch image generation.
 
 ## The real cut
+
 
 The data killed Dan's literal claim — millennials do use AI, at
 high rates — but vindicated the claim underneath it. The divide is
@@ -89,3 +96,17 @@ Building without the cultural database is disqualifying too —
 divide is two-dimensional: database on one axis, generation on
 the other. The cohort clusters in the high-database, low-generation
 quadrant. Dan's position is the corner they don't occupy.
+
+## See also
+
+- [[wiki/mind/concepts/88er-cohort-profile]]
+- [[wiki/mind/concepts/moving-shibboleth]]
+- [[wiki/mind/concepts/llm]]
+
+## References
+
+- dat:1587-conjunction-rule-cultural-literacy-20260915 (the conjunction rule the divide feeds)
+- The 2026-09-15 millennial-culture / AI-adoption thread as worked (survey interrogation predates the archived raw window; the thread's tail is in src:sammy-chat-transcript-20260915-1555, 15:42–15:47Z)
+- https://www.uc.edu/news/articles/2026/01/how-every-generation-uses-ai-from-boomers-to-gen-z.html
+- https://www.pymnts.com/news/artificial-intelligence/2025/57percent-united-states-adults-use-gen-ai-millennials-pull-ahead-productivity/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- https://petapixel.com/2026/06/25/less-than-a-quarter-of-americans-use-ai-to-create-or-edit-images/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.

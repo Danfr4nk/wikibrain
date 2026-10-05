@@ -3,10 +3,11 @@ domain: people
 page_type: entity
 title: "James (\"Jimi Pop\")"
 aliases: ["James Spiker", "James Dee", "Jimi Pop", "Jimmy Pop", "Jimmy Pop and the Steel City Rollers", "Max (Danielle's boyfriend)", "the Dude"]
+tier: major
 status: stable
 knowledge: mixed
 date_created: 2026-08-18
-date_modified: 2026-08-20
+date_modified: 2026-10-05
 date_range_start: 2025-05-27
 date_range_end: 2025-07-21
 sources:
@@ -55,6 +56,8 @@ connections:
   - page: wiki/people/tom
     type: co-occurs
     claim: "Dan forwarded the rupture post-mortem to Tom shortly after James stopped responding."
+changelog:
+  - "2026-10-05: Restructured to canonical template v1"
 ---
 
 # James ("Jimi Pop")
@@ -65,6 +68,7 @@ He arrived asking for recording help, became an unpaid confidant, and the friend
 
 ## Identity — surname now resolved
 
+
 The message corpus originally labelled him **James Dee**. That was treated as uncertain because Danielle's page also carries `Dee` as an alias and James uses "Dee's folks" to refer to Danielle's family. A ChatGPT profile contained a weaker signal for **James Spiker**, but that was previously treated as model-derived and therefore insufficient to settle the identity.
 
 > **GAP CLOSED [2026-08-20]:** The operator supplied the answer directly: **"Last name is Spiker."** Filed verbatim as T0 evidence in `raw/people/captures/2026-08-20_015525_gap-james-dee.md`. The page now records **Spiker** as the resolved surname while retaining **Dee** as a historical corpus alias rather than deleting the provenance of the earlier identification.
@@ -74,6 +78,7 @@ This resolves the page's first open gap. It does **not** retroactively upgrade t
 He is 36 in summer 2025 by his own statement, putting his birth around 1988–89. He has children, previously played bass and sang in a band in Ocean City, and is Danielle's live-in partner.
 
 ## The eight weeks, in order
+
 
 | Date (2025) | What happened |
 |---|---|
@@ -97,17 +102,13 @@ The message export continues through 2025-08-10, so the silence after 07-21 is c
 
 ## What he sounds like
 
+
 James writes in long, lightly punctuated emotional paragraphs that can swing from collapse to grandiosity in a single message. He describes himself as having few friends and feeling emotionally dead, then immediately as "the most universal human in all topics." He presents himself as a singular musician who can move across genres and as someone alienated from a culture that no longer recognizes his value.
 
 The later messages intensify that pattern. After Dan stops answering, James sends an unsolicited redemptive address describing Dan as someone who is "scared" and claiming he sees an "unbridled organic" person underneath Dan's defenses. The channel therefore ends not through mutual closure but through asymmetrical withdrawal: Dan stops engaging; James continues trying to reopen it.
 
-## The "Max" identity error
-
-> **CORRECTED [2026-08-18]:** `wiki/people/max-danielle-bf` was this person, not a separate human named Max. The source that generated the error begins with Dan addressing the model as "Max" before giving it a recording of Danielle's boyfriend; the model then labels its own response "MAX'S ANALYSIS." The boyfriend is called "the Dude" in that source and is never named Max. The substantive material from that mistaken page was merged here.
-
-The error is retained as a methodological warning: a page can be about the wrong human and still read internally coherently. The correction came from rereading the cited source rather than from better graph tooling.
-
 ## The recording and the "American Fantasy"
+
 
 Dan separately recorded roughly twenty to twenty-five minutes of James talking and gave the audio to Gemini for personality analysis. James describes his concept album as **"the American Dream vs. the American Fantasy"**: the postwar house/kids/dog ideal versus the fantasy of actually living inside that ideal. He frames himself as a counter-cultural musician "showing up with a knife to a gunfight" in a world where he believes the middle class has disappeared.
 
@@ -115,13 +116,11 @@ The recording also captures his views on music taste, manual vocal processing, S
 
 ## The Ramone claim
 
+
 Dan reported that James claimed Johnny Ramone and Glenn Danzig had contacted him about starting a band and that James declined, supposedly causing the project to die. The claim is structurally impossible as stated: Johnny Ramone died on 2004-09-15, while James's own stated age puts him around fifteen. This is a useful corpus example of why an LLM-generated probability is inferior to a simple external date check.
 
-## The catalog contradicts the originality pitch
-
-James describes himself as opposed to derivative four-chord and nu-metal imitators, yet most audio sent to Dan was other people's material: Led Zeppelin, a Misfits-sample mashup, Marilyn Manson, HIM, Nine Inch Nails, and The Drifters. The one apparent original was an a cappella sent on 2025-07-21 with a request for AI help. His "Jimmy Pop" identity also deliberately echoes the Bloodhound Gang frontman, another Pennsylvania musician.
-
 ## What he wanted from Dan, and what he got
+
 
 Across the eight weeks James asked for technical help, a listener, a collaborator, and a witness. Dan supplied the technical help generously, then substituted analysis for the other three. Dan later described the attraction of this mode himself: "i'm giving the person i'm talking to the thing that most people want more than anything - i'm making the conversation about THEM and the details of their life."
 
@@ -129,17 +128,50 @@ The later basement confrontation reinforced the mismatch. James wanted validatio
 
 ## The second act and dormancy
 
+
 The basement confrontation cannot be dated exactly; it occurred after the message dump's 2025-07-21 endpoint and is best treated as late summer 2025. Dan says he had mostly ignored James's texts, with one later in-person exception. This matters to [[wiki/mind/synthesis/dormancy-not-exit]]: the relationship did not simply disappear after rupture. The channel remained reopenable without acquiring a new stable role. The reopening was James's, not Dan's.
 
 ## The cocaine request and Dan's silence
 
+
 Gemini material records that James asked [[wiki/people/annie-ulmer|Annie]] for cocaine through back-channels. Dan learned of it and did not tell Danielle. The surrounding analysis frames this as Dan protecting Danielle's role in his wider social graph rather than as a judgment on James. It is notable because the same couple later became the recipients of an unsolicited psychological profile: Dan withheld the information he believed would detonate the household, then disclosed the analysis he believed would be useful or interesting.
 
-## Remaining gaps
+## Conflicts in the record
+
+### The "Max" identity error
+
+
+> **CORRECTED [2026-08-18]:** `wiki/people/max-danielle-bf` was this person, not a separate human named Max. The source that generated the error begins with Dan addressing the model as "Max" before giving it a recording of Danielle's boyfriend; the model then labels its own response "MAX'S ANALYSIS." The boyfriend is called "the Dude" in that source and is never named Max. The substantive material from that mistaken page was merged here.
+
+The error is retained as a methodological warning: a page can be about the wrong human and still read internally coherently. The correction came from rereading the cited source rather than from better graph tooling.
+
+### The catalog contradicts the originality pitch
+
+
+James describes himself as opposed to derivative four-chord and nu-metal imitators, yet most audio sent to Dan was other people's material: Led Zeppelin, a Misfits-sample mashup, Marilyn Manson, HIM, Nine Inch Nails, and The Drifters. The one apparent original was an a cappella sent on 2025-07-21 with a request for AI help. His "Jimmy Pop" identity also deliberately echoes the Bloodhound Gang frontman, another Pennsylvania musician.
+
+## See also
+
+- [[wiki/mind/synthesis/dormancy-not-exit]]
+- [[wiki/people/danielle-onesi]]
+- [[wiki/timeline/events/james-analysis-pdf]]
+- [[wiki/mind/concepts/the-handed-mirror]]
+- [[wiki/mind/concepts/lyric-qualifier]]
+- [[wiki/interests/rock-irrelevance-thesis]]
+- [[wiki/mind/concepts/forensic-method]]
+- [[wiki/people/suzanne-frank]]
+
+## References
+
+- raw/self/chats/The 2nd most famous _Jimmy Pop_ in Pennsylvania .md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-21.md
+- raw/people/captures/2026-08-20_015525_gap-james-dee.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+
+### Remaining gaps
+
 
 - **Whether the friendship is ended or merely dormant.** The record shows rupture, unanswered messages, and a later in-person confrontation, but not the current state of the relationship.
 - **Who or what "slack" is.** James credits it twice in ways that read like a person rather than the software; no other corpus appearance resolves it.
 - **The interview.** James sat for a YouTube interview (`dIj5npaZafA`) that Dan transcribed and fed to the model; the transcript itself is not in `raw/`.
 - **Whether Danielle showed James her reaction to the profile.** Danielle told Dan the profile was "not that bad" and that James skimmed it, became self-conscious, and stopped reading. Nothing else independently tests that account.
-
-

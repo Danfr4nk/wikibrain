@@ -1,10 +1,11 @@
 ---
 domain: people
 page_type: entity
+tier: major
 status: active
 knowledge: mixed
 date_created: 2026-07-19
-date_modified: 2026-07-19
+date_modified: 2026-10-05
 date_range_start: 2011-08-12
 date_range_end: 2025-10-06
 sources:
@@ -71,6 +72,8 @@ connections:
   - page: wiki/mind/synthesis/no-platonic-channel
     type: instantiates
     claim: "The corpus's one lastingly platonic close female friendship is an edge case, not a counter-instance: every documented year of the relationship's active NYC-1 closeness (2010-2011) predates the 2023 transition, so the friendship formed and ran between two men, and a friendship-to-romance conversion pattern has never actually been tested against Jamie as a woman."
+changelog:
+  - "2026-10-05: Restructured to canonical template v1"
 ---
 
 # Jamie Mohler
@@ -114,6 +117,7 @@ friendship documented across a full season, with one anchor date fixed
 to the day.
 
 ## A rediscovered thread: 422 messages, 2010–2021
+
 
 A large (422-message) Facebook Messenger thread survives under a
 deactivated-account placeholder — the export's title reads only
@@ -181,6 +185,7 @@ left turn]]'s ideology.
 
 ## The 2023 transition
 
+
 Jamie transitioned around 2023 and has been gendered female since. The
 corpus corroborates this change from inside the friend group itself,
 not from Jamie directly: in an October 6, 2025 exchange with
@@ -206,6 +211,7 @@ and the 2025 confirmation.
 
 ## Identity on file
 
+
 The 2021-synced Facebook address book export carries a direct contact
 card — **Jim Mohler**, `+12073101169`, `audiocranium@msn.com` — the
 same phone number as the 2011 "Jimbo Slice" Google Talk handle, kept
@@ -219,6 +225,7 @@ surfaces there — Dan asks in 2017 whether he'd "divorced" himself from
 it — undocumented anywhere else in the corpus.
 
 ## Corpus record
+
 
 | Metric | Value |
 |---|---|
@@ -239,4 +246,23 @@ operator-attested only; Jamie's current surname usage, location, and
 occupation are undocumented; nothing in the corpus records the
 transition directly, only after-the-fact peer references.
 
+## See also
 
+- [[wiki/people/menore]]
+- [[wiki/timeline/periods/2010s]]
+- [[wiki/people/alexis-armel]]
+- [[wiki/people/jason-bermejo]]
+- [[wiki/people/matt-dunn]]
+- [[wiki/people/oscar-lindquist]]
+- [[wiki/people/joe-oshnack]]
+- [[wiki/places/424-bedford-ave]]
+
+## References
+
+- raw/self/dox-scan/gmail_bodies.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/facebook/facebook-ihatedanfrank/other_personal_information/your_address_books.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/facebook/facebook-ihatedanfrank/messages/inbox/oscarlindquist_osj0xrxodg/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/message-csv/interspersed_messages.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/captures/2026-07-19_operator-note-full-sail-mohler.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/facebook/facebook-ihatedanfrank/messages/inbox/qymuchauiq/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.

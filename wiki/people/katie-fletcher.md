@@ -2,9 +2,10 @@
 domain: people
 page_type: entity
 title: "Katie Fletcher"
+tier: major
 status: closed
 date_created: 2026-07-13
-date_modified: 2026-10-04
+date_modified: 2026-10-05
 sources:
   - raw/twitter/archive.jsonl
   - raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -32,6 +33,8 @@ infobox:
   handles: ["@katie_efff"]
   date_range_start: 2013-08-21
   known_for: "Katie Fletcher was Dan's interim girlfriend of roughly 2013 — the bridge"
+changelog:
+  - "2026-10-05: Restructured to canonical template v1"
 ---
 
 # Katie Fletcher
@@ -46,6 +49,7 @@ whole relationship, and both are told at Dan's expense as much as hers.
 
 ## How they met, and how long it actually was
 
+
 **Added 2026-10-04, from Dan's telling of that date (photo story time).**
 The page's standing gap — "how they met" — is now closed. They did not
 share a circle first. Dan cold-contacted her in her Twitter DMs; she had,
@@ -58,6 +62,7 @@ always were: the days that left a public trace, not the length of the
 thing.
 
 ## The primary record — eleven days in August 2013
+
 
 **Added 2026-09-04. This section corrects the claim below in "Position in the
 record" that "there is no message corpus for her — everything known arrives
@@ -106,6 +111,7 @@ nothing in the public record reaches them, which is what one would expect.
 
 ## The Oddball night (August 30, 2013)
 
+
 Dan took Katie to the Oddball Comedy Festival at First Niagara Pavilion
 (Burgettstown, outside Pittsburgh) — the night after Dave Chappelle's
 infamous Hartford meltdown. Chappelle delivered what Dan describes as an
@@ -153,6 +159,7 @@ social assassin."*
 
 ## The "Vase" incident
 
+
 During the relationship a condom was lost inside her during sex. Dan said
 nothing — "played dumb" — and held the silence for two months, until Katie,
 on vacation, informed him she had discovered and removed it herself. The
@@ -198,6 +205,7 @@ it.
 
 ## Position in the record
 
+
 Katie matters mainly as chronology and contrast. Her 2013 tenure dates the
 fracture in the Alexis timeline, immediately following the
 [[wiki/people/franki-faris|"Franki incident"]], and her "square" register
@@ -214,6 +222,7 @@ after: a partner synced to his intensity.
 > from, and nothing checked it against the corpus's other archives.
 
 ## The six weeks, as now dated
+
 
 **Added 2026-10-04.** Assembled from the public posts above and Dan's
 telling; testimony dates are his, post dates are the archive's.
@@ -232,6 +241,7 @@ telling; testimony dates are his, post dates are the archive's.
 | Since | No contact. Not a word. |
 
 ## Assessment: the two instruments
+
 
 **Added 2026-10-04.** Two instruments run through this six-week
 relationship, one pointed at her and one pointed at him, and they are the
@@ -307,4 +317,15 @@ recorded.
 > @alexisarmel "fully absent post-2013," consistent with the Franki/Katie
 > dating above.
 
+## See also
 
+- [[wiki/mind/synthesis/twitter-2013]]
+- [[wiki/interests/concert-record/festivals/oddball-comedy-curiosity-festival]]
+- [[wiki/people/alexis-armel]]
+
+## References
+
+- raw/twitter/archive.jsonl
+- raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dansynth/dansynth-scrape-phases-2-7.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-scan/FULL TWITTER ANALYSIS.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.

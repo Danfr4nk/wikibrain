@@ -1,10 +1,11 @@
 ---
 domain: mind
 page_type: synthesis
+tier: major
 status: active
 knowledge: earned
 date_created: 2026-07-17
-date_modified: 2026-08-19
+date_modified: 2026-10-05
 sources:
   - "raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2025).html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
@@ -51,6 +52,8 @@ connections:
   - page: wiki/interests/extreme-sports
     type: instantiates
     claim: "The 2000–2006 freeskiing/inline era is an unrecorded pre-cursor to the era-marker series — a total-obsession adolescence that left no digital intake record, making it the first era marker that cannot be verified from watch logs alone."
+changelog:
+  - "2026-10-05: Restructured to canonical template v1"
 ---
 
 # Interests as Era-Markers
@@ -70,6 +73,7 @@ Tell me what Dan was consuming and I can tell you, usually to the year,
 where in his life you are standing.
 
 ## The marker series
+
 
 The pattern holds across every documented intense interest, each argued
 in full on its own page:
@@ -106,6 +110,7 @@ in full on its own page:
 
 ## The control case
 
+
 [[wiki/interests/film-canon]] looks like a counterexample — a stable
 eleven-title canon, not a binge — and that is exactly why it belongs
 here. The canon's *contents* don't rotate, but its *readings* do: Eyes
@@ -117,6 +122,7 @@ marker mechanism is not the novelty of the subject; it is the totality
 of engagement, and totality leaves dated fingerprints either way.
 
 ## Why the pattern exists
+
 
 Three already-documented facts compose into the mechanism. First, the
 fixed-rate metabolism ([[wiki/mind/synthesis/intake-constancy]]) means
@@ -130,6 +136,7 @@ partners and contacts in dated messages — which is what leaves the
 corroborating timestamps outside the watch logs themselves.
 
 ## What this is for
+
 
 Practically, this page licenses an inference rule for future work: an
 undated artifact (a photo, an unexported chat fragment, a playlist) that
@@ -151,6 +158,7 @@ established from raw.
 
 ## What "totality of engagement" turns out to mean
 
+
 The mechanism section above names completism in one clause — *"the same
 completism that produces a Kubrick checklist, a full Goldsworthy shelf, and an
 in-order radio archive run-through"* — and treats it as a description of
@@ -169,4 +177,20 @@ obsession runs at a time; set-closure explains why the previous one terminates
 instead of thinning. Full distributions at
 [[wiki/mind/synthesis/closing-the-set]].
 
+## See also
 
+- [[wiki/mind/synthesis/intake-constancy]]
+- [[wiki/interests/opie-and-anthony]]
+- [[wiki/interests/golf]]
+- [[wiki/interests/roman-republic]]
+- [[wiki/mind/synthesis/2020-left-turn]]
+- [[wiki/interests/video-games]]
+- [[wiki/interests/stand-up-comedy]]
+- [[wiki/interests/film-canon]]
+
+## References
+
+- raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2025).html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.

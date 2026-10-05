@@ -3,15 +3,18 @@ domain: mind
 page_type: concept
 title: "Media Ingest"
 aliases: ["photo-ingest", "media-intake", "the intake protocol"]
+tier: major
 status: active
 knowledge: earned
 date_created: 2026-09-12
-date_modified: 2026-10-04
+date_modified: 2026-10-05
 importance: high
 tags: [media-policy, photo-ingest, dan-directive, ai-collaboration]
 sources: []
 synthesizes: []
 connections: []
+changelog:
+  - "2026-10-05: Restructured to canonical template v1"
 ---
 
 # Media Ingest
@@ -21,6 +24,7 @@ for the wiki-brain. Two layers: safety handling (unchanged) and the
 2026-09-12 correction that redefined what a finished intake is.
 
 ## Safety handling (unchanged, 2026-09-12)
+
 
 Every image is eyeballed at intake — there is no reliable auto-detector,
 and borderline cases are flagged rather than guessed. Embedded
@@ -32,6 +36,7 @@ embeddings (the face-tag registry) stay local-only and are never pushed
 anywhere, a deliberate carve-out from the public mandate.
 
 ## The narrative-spread directive (2026-09-12)
+
 
 At 2026-09-12T23:42:18Z, Dan corrected the workflow's center of gravity:
 intake is not display — it is **narrative spread**. Interpreting the
@@ -48,13 +53,24 @@ local-only originals changed.
 
 ## Selection is data
 
+
 Dan also established that any photo he supplies is deliberately selected
 for inclusion in the wiki-brain ("if you picked it, you were pointing at
 something"). The choice of image is itself a datum — the curatorial act
 is evidence about what he considers worth keeping, not just decoration
 to be filed.
 
-## Pending
+## See also
+
+- [[wiki/mind/index]]
+
+## References
+
+- dat:1455-media-censorship-directive
+- dat:1471-planned-photo-ingest-session-pending
+
+### Pending
+
 
 A major Google Photos ingest session was announced 2026-09-12T23:31:43Z
 and remains pending — no album link supplied inside that batch window
