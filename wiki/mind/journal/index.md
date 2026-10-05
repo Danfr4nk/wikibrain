@@ -5,7 +5,7 @@ title: "Idea Journal"
 aliases: ["idea journal", "the journal"]
 status: active
 date_created: 2026-10-03
-date_modified: 2026-10-04
+date_modified: 2026-10-05
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -101,3 +101,31 @@ cannot show its stages has not been cross-checked.
   selected channels run audit-free, the two never-tested channels show
   inclusion, not error; scrutiny activates on breach events, not on
   schedule.
+
+### 2026-10-05
+
+- [[wiki/mind/journal/2026-10-05-the-placement-verdict|Entry 1 — The
+  Placement Verdict]]: in taste, binding verdicts are allocated, never
+  stated — a track's rung on the digging ladder is the judgment, while
+  stated praise and hate run in a parallel register that predicts nothing
+  about the next placement event. One restart preserved in its Genesis
+  note; filed at hypothesis grade, leaning supported, pending replication
+  on the next gate-flip.
+- [[wiki/mind/journal/2026-10-05-the-countdown-runs-backwards|Entry 2 — The
+  Countdown Runs Backwards]]: prospective urgency constructions run at
+  0.35–0.42x of others' rates while "too late" runs at 1.86x — the
+  countdown's only lexical output is a post-hoc binary verdict after the
+  loss, never a prospective plan. Passed the confidence gate with no
+  restarts.
+- [[wiki/mind/journal/2026-10-05-the-dormant-slot|Entry 3 — The
+  Dormant Slot]]: the persistent unit in the attachment architecture is the
+  slot, not the occupant — bond channels are never deleted, only unloaded,
+  and re-loading inherits the slot's rule-set wholesale (same onset-flood
+  shape, same explicit-statement architecture, same lair). Passed the
+  confidence gate with no restarts.
+- [[wiki/mind/journal/2026-10-05-the-handed-mirror|Entry 4 — The
+  Handed Mirror]]: a verdict about a person is not finished when he
+  adjudicates it; it is finished when it is witnessed — output on the
+  subject continues until an external terminating statement lands,
+  delivered to the subject or received from one. One restart preserved in
+  its Genesis note; passed the confidence gate.
