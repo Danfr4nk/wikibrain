@@ -4,9 +4,12 @@ page_type: entity
 title: "Jacob Bacharach"
 aliases: ["Jake Bacharach"]
 status: stable
+tier: major
 knowledge: mixed
 date_created: 2026-06-22
-date_modified: 2026-10-04
+date_modified: 2026-10-05
+changelog:
+  - "2026-10-05: Restructured to canonical template v1; tier set to major."
 date_range_start: 2021-02-06
 sources:
   - raw/wiki/new-wiki/wikibrain/wiki/people/jacob-bacharach.md
@@ -143,6 +146,8 @@ Bacharach household therefore enters this wiki twice over — once as the
 family that produced a novelist and once as a family that lost a son the way
 a large share of Dan's own cohort was lost.
 
+Platform logs deepen that reflex: the MyActivity record (`dat:1434-myactivity-bacharach-discovery-chain`) shows Dan searching "nathan bacharach" on 2009-07-31, then "nathan bacharach uniontown autopsy" on 2011-03-16 with visits to a legacy.com obituary preview — a decade before "jacob bacharach twitter" on 2021-02-07 and the November 2021 novel searches that precede the author correspondence. He knew the surname from a hometown death years before he knew the novelist, which is why the name, when the podcast served it, arrived pre-loaded with local weight.
+
 ## The house
 
 The novel describes a rental on **Virginia Avenue** in South Union Township
@@ -255,7 +260,9 @@ piece on his struggle with addiction; this page's older sources carried
 **July 30, 2009**. The two-day discrepancy is unresolved, and nothing
 depends on it.
 
-## Why it is the flagship
+**The father-CEO tenure: role and departure corroborated, start date not.** A 2026-09-09 datum (`dat:0668-bacharach-father-hospital-ceo-nathan-death-unresolved`) found independent press support for Paul Bacharach as president and CEO of Uniontown Hospital — he is quoted with that title in a Foundation Radiology contract notice, and *Becker's Hospital Review* reported his 2013 departure to become president and CEO of Gateway Rehabilitation Center that December — but neither source confirms the page's 1992 start date, and the father-son link (same surname, same town) is the page's attribution rather than something the press items state. The page's flat "1992–2013" should therefore be read as: role and departure confirmed, start date unverified. The same datum tried to resolve Nathan's death date via a web obituary search and returned only aggregator spam — the August 1 vs July 30, 2009 discrepancy stays unresolved, and nothing hangs on it.
+
+## Assessment
 
 [[wiki/mind/concepts/forensic-method]] is theorised across many cases; this
 is the one it is demonstrated on. The full shape runs here and nowhere else:
@@ -298,6 +305,7 @@ collapse]] documents being aimed at people much closer to him.
 - [[wiki/people/suzanne-frank|Suzanne Frank]] — owner of the novel's house, first recipient of Bacharach's reply
 - [[wiki/mind/concepts/forensic-method]] — the method this chain is the flagship exhibit for
 - [[wiki/mind/synthesis/ai-collaborative-analysis]] — the collaboration synthesis built on the same transcript
+- [[wiki/people/joe-oshnack|Joe Oshnack]] — Jan 2, 2022: Dan recommends Bacharach's Uniontown-set novel to Joe Oshnack unprompted, framing him as proof 'not everyone from our hometown turned into a reactionary fascist-adjacent class traitor'
 
 ## References
 

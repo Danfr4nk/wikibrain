@@ -1,14 +1,27 @@
 ---
 domain: self
 page_type: report
+title: 23andMe Genomics
 knowledge: mixed
 status: active
+tier: major
 date_created: 2026-07-25
-date_modified: 2026-08-14
+date_modified: 2026-10-05
+changelog:
+  - "2026-10-05: Restructured to canonical article template v1; tier set to major; source references resolved to current corpus paths."
+infobox:
+  subject: Dan Frank
+  profile: 23andMe genomic profile
+  exported: 2025-03-31
+  service_updated: 2024-10-25
+  ancestry: 99.7% European (21.4% Ashkenazi Jewish, 78.3% Northwestern European)
+  maternal_haplogroup: R0 (mtDNA)
+  paternal_haplogroup: R-Z93 (Y-DNA)
+  neanderthal: 95th percentile of 23andMe customers
 sources:
-  - raw/self/ancestry/dna-reports/Ancestry Composition - 23andMe.pdf — ⚠ Source reference unresolved — original target no longer exists in current corpus.
-  - raw/self/ancestry/dna-reports/chromosome.pdf — ⚠ Source reference unresolved — original target no longer exists in current corpus.
-  - raw/self/ancestry/dna-reports/health.pdf — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/july11-snapshot/self/ancestry/dna-reports/Ancestry Composition - 23andMe.pdf
+  - raw/july11-snapshot/self/ancestry/dna-reports/chromosome.pdf
+  - raw/july11-snapshot/self/ancestry/dna-reports/health.pdf
 tags: [family, physical-health]
 connections:
   - page: wiki/mind/synthesis/ancestral-dialectic
@@ -30,9 +43,11 @@ connections:
 
 # 23andMe Genomics
 
-The full extraction of Dan Frank's 23andMe genomic profile — ancestry composition, haplogroups, chromosome painting, Neanderthal ancestry, health predispositions, carrier status, wellness reports, and trait reports — provides a biological cross-reference to the documentary family tree held in [[wiki/self/lineage/family-tree]]. Where the GEDCOM record shows Russian and Austrian Jewish immigration on the paternal side against deep Appalachian roots on the maternal, the DNA confirms the same two lines independently: 21.4% Ashkenazi Jewish against 78.3% Northwestern European. This page records every data point extractable from the three source PDFs (Ancestry Composition, Chromosome Painting, Health Report), all exported from 23andMe on 2025-03-31 and last updated by the service on 2024-10-25.
+Dan Frank's 23andMe genomic profile is the biological half of his ancestry record. In March 2025 he exported three PDFs from the service — Ancestry Composition, Chromosome Painting, and the Health Report, the last of which the service had updated in October 2024 — and the wiki has carried a full extraction of them ever since. The numbers tell the same two-line story the paper trail tells: on the paternal side, a 21.4% Ashkenazi Jewish signal from the Frank family's Russian and Austrian Jewish immigration; on the maternal side, 78.3% Northwestern European from the deep Appalachian and Pennsylvania settler lines. The genetics confirmed independently what the GEDCOM record in [[wiki/self/lineage/family-tree]] already showed.
 
-> **CORRECTED [2026-08-14]:** The previous version of this page claimed the source PDFs were "image-based without an extractable text layer" and that "specific percentage values are not digitally recorded." This was wrong. All three PDFs contain a full text layer and were extracted via pymupdf for this revision. Every percentage, haplogroup, and health result below comes directly from that extraction.
+Beyond the ancestry estimate, the profile holds the full haplogroup assignment (maternal R0, paternal R-Z93), a 95th-percentile Neanderthal-variant load, fourteen health predisposition reports, forty-six carrier-status screens, the wellness panel, and thirty-seven trait reports. Almost all of it is negative space — one carrier variant, one benign health variant, everything else clear. That makes this page a baseline for future reference rather than a source of findings.
+
+In the wiki's architecture this page functions as an evidentiary stream rather than a conclusion. The [[wiki/self/lineage/hybrid-analysis]] page cross-references this genomic data against the documentary family tree, and the [[wiki/mind/synthesis/ancestral-dialectic]] page treats the two confirmed source-lines as the biological grounding for its interpretive frame. Both of those pages flag their use of this data as interpretive; this page supplies only the data.
 
 ## Ancestry Composition
 
@@ -51,7 +66,7 @@ The primary ethnicity estimate breaks down as follows:
 
 Additional ancestry regions flagged as reflecting mixed ancestry or recent migration: Tidal Potomac River Early British/Irish Americans, European Diaspora.
 
-The 21.4% Ashkenazi figure is slightly below the ~25% expected from one fully-Jewish grandparent (Morley Jay Frank, whose parents were both Jewish immigrants). This is within normal variation for DNA inheritance — a grandparent contributes on average 25% of DNA but the actual amount varies due to recombination. The 55.8% British & Irish and 22.2% French & German together account for the maternal Appalachian and Anglo-Protestant lines, with the French & German component likely reflecting the Pennsylvania Dutch and German settler heritage on the Gillingham/Shrum side.
+The 21.4% Ashkenazi figure is slightly below the ~25% expected from one fully-Jewish grandparent (Morley Jay Frank, whose parents were both Jewish immigrants) — a 3.6-point deficit. This is within normal variation for DNA inheritance: a grandparent contributes on average 25% of DNA, but the actual amount varies due to recombination, with the normal per-grandparent range running roughly 18–32%. The 55.8% British & Irish and 22.2% French & German together account for the maternal Appalachian and Anglo-Protestant lines, with the French & German component likely reflecting the Pennsylvania Dutch and German settler heritage on the Gillingham/Shrum side.
 
 The 0.2% Sub-Saharan African trace is small enough to be statistical noise or a distant ancestor several generations back. It does not appear in the documentary record and cannot be assigned to a specific line without further investigation.
 
@@ -78,18 +93,19 @@ The maternal haplogroup R0 is the more surprising of the two. R0 is relatively u
 
 The paternal haplogroup R-Z93 is a subclade of R1a that is found in some Ashkenazi Jewish populations, particularly associated with the Levite lineage and other Jewish groups with Central Asian connections. This is consistent with the Frank line's Ashkenazi heritage, though R-Z93 is not exclusively Jewish and is also found in non-Jewish European and Central Asian populations.
 
+Limits: the interpretation of both haplogroups against Dan's recent ancestry is speculative. The maternal R0 is unusual for a supposedly purely Appalachian Protestant line and warrants further investigation — it may indicate a distant non-European ancestor on the maternal line, or it may simply reflect the deep-time distribution of R0 across Europe. The paternal R-Z93's presence in the Frank line could be investigated further with more detailed Y-DNA testing.
+
 ## Chromosome Painting
 
 The chromosome painting PDF (`chromosome.pdf`, 199 KB, 2 pages) visualizes ancestry assignments across all 22 autosomes plus the X and Y chromosomes. The PDF contains a legend and chromosome numbered 1–22, X, and Y, but the actual segment-level ancestry assignments are visual only — the text layer lists chromosome numbers but does not encode which segments map to which ancestry. A "chromosome copy.pdf" of identical size (204,233 bytes) exists in the raw directory and appears to be a duplicate.
 
-23andMe notes that the full ancestry chromosomal data is available for download in CSV format from the Scientific Details page, but this export was not part of the PDF dump in `raw/self/ancestry/dna-reports/`. The chromosome painting therefore remains a visual reference only; no per-segment data is digitally recorded in this wiki.
+23andMe notes that the full ancestry chromosomal data is available for download in CSV format from the Scientific Details page, but this export was not part of the PDF dump in the raw directory. The chromosome painting therefore remains a visual reference only; no per-segment data is digitally recorded in this wiki.
 
 ## Neanderthal Ancestry
 
 Dan's Neanderthal-ancestry percentage places him in the **95th percentile of 23andMe customers** — he carries more Neanderthal-introgressed variants than 95% of the 23andMe customer base. The report flags this as a notable outlier result.
 
 The scientific literature (PheWAS studies) has linked some Neanderthal-introgressed variants to population-level associations with mood disorders, nicotine addiction, and chronotype, but these are correlational findings, not causal claims about an individual. The 95th percentile is offered here as a biological data point and as symbolic reinforcement of an identity Dan already holds — an outsider even at the species level — rather than as a clinical finding. The wellness report's finding that Dan is "less likely to be a deep sleeper" and "likely to consume less caffeine" may intersect with chronotype research on Neanderthal variants, but no direct causal link is established.
-
 ## Health Predisposition Reports
 
 The health report PDF (`health.pdf`, 1,032 KB, 11 pages) contains 14+ health predisposition reports. Results are categorized as "Variant detected, not likely at increased risk," "Variants not detected," "Typical likelihood," or "Complete tasks to view result."
@@ -111,7 +127,9 @@ The health report PDF (`health.pdf`, 1,032 KB, 11 pages) contains 14+ health pre
 | Age-Related Macular Degeneration | Listed (result not specified in extracted text) |
 | Hereditary Thrombophilia | Listed (result not specified in extracted text) |
 
-The single detected variant — Alpha-1 Antitrypsin Deficiency — is flagged as "not likely at increased risk," meaning the variant present is not the high-risk combination. The "Complete tasks to view result" status for the BRCA report means Dan did not complete the questionnaire required to unlock that result. The two conditions listed without clear results (Age-Related Macular Degeneration, Hereditary Thrombophilia) appear in the summary but their specific outcomes were not captured in the text extraction.
+The single detected variant — Alpha-1 Antitrypsin Deficiency — is flagged as "not likely at increased risk," meaning the variant present is not the high-risk combination. The "Complete tasks to view result" status for the BRCA report means Dan did not complete the questionnaire required to unlock that result.
+
+Limits: two conditions (Age-Related Macular Degeneration, Hereditary Thrombophilia) appear in the summary but their specific outcomes were not captured in the text extraction. The Prostate Cancer (BRCA1/BRCA2) report is locked behind an incomplete questionnaire, so its result is unavailable, not negative.
 
 ## Carrier Status Reports
 
@@ -244,7 +262,6 @@ The traits section covers 37+ genetically-influenced characteristics. Results ar
 | Wake-Up Time | Likely to wake up around 8:34 am |
 
 The "likely ring finger longer" result (lower 2D:4D digit ratio) is associated in some studies with higher prenatal testosterone exposure. The "likely prefers salty" and "likely to consume less caffeine" results align with the wellness section. The 8:34 am wake-up time prediction is notably specific and likely reflects chronotype genetics.
-
 ## Cross-References and Interpretation
 
 The genomic data on this page functions as the biological half of the [[wiki/mind/synthesis/ancestral-dialectic]]'s interpretive frame. The dialectic proposes two incompatible inherited "operating systems" — Ashkenazi hypervigilance and Appalachian numbness — and the DNA data corroborates the two source-lines independently: 21.4% Ashkenazi Jewish against 78.3% Northwestern European, with the sub-regional breakdown mapping onto the documentary record's Russian/Austrian immigration and Pennsylvania settler heritage.
@@ -253,14 +270,33 @@ The [[wiki/self/lineage/hybrid-analysis]] page treats this genomic data as one o
 
 The Neanderthal 95th-percentile result and the wellness report's sleep and caffeine findings are offered as background to [[wiki/health/chemical-architecture]] rather than as causes of it. The PheWAS links to mood, nicotine, and chronotype are population-level associations, not individual findings.
 
-## Gaps
+## Conflicts in the record
 
-- The chromosome painting PDFs contain no extractable segment-level data — the per-chromosome ancestry assignments are visual only. The full CSV download from 23andMe's Scientific Details page was not part of the export in `raw/self/ancestry/dna-reports/`.
-- Two health predisposition results (Age-Related Macular Degeneration, Hereditary Thrombophilia) appear in the summary but their specific outcomes were not captured in the text extraction.
-- The Prostate Cancer (BRCA1/BRCA2) report is locked behind an incomplete questionnaire ("Complete tasks to view result").
-- The "chromosome copy.pdf" in the raw directory appears to be an identical duplicate of "chromosome.pdf" (both 204,233 bytes) — one should be flagged for deduplication.
-- The maternal haplogroup R0 is unusual for a supposedly purely Appalachian Protestant line and warrants further investigation — it may indicate a distant non-European ancestor on the maternal line, or it may simply reflect the deep-time distribution of R0 across Europe.
-- The paternal haplogroup R-Z93 is consistent with Ashkenazi heritage but is not exclusively Jewish; its presence in the Frank line could be investigated further with more detailed Y-DNA testing.
-- Inverse connections to this page from [[wiki/self/lineage/family-tree]], [[wiki/self/lineage/hybrid-analysis]], and [[wiki/self/ancestry]] need to be added to those pages' frontmatter (the `bin/wiki-connect check` lint will flag these as missing inverses).
+**[2026-08-14] The "image-based PDFs" claim.** The prior version of this page claimed the three source PDFs were "image-based without an extractable text layer" and that "specific percentage values are not digitally recorded." This was wrong. All three PDFs contain a full text layer and were extracted via pymupdf for the 2026-08-14 revision. Current standing: every percentage, haplogroup, and health result on this page comes directly from that extraction; nothing on the page still rests on the old claim.
 
+**[2026-10-05] Source paths resolved.** This page's frontmatter carried "⚠ Source reference unresolved — original target no longer exists in current corpus" warnings on all three PDF sources, pointing at `raw/self/ancestry/dna-reports/`. A fresh listing of the repository's tree (2026-10-05) shows the PDFs are present in the current corpus under `raw/july11-snapshot/self/ancestry/dna-reports/` — `Ancestry Composition - 23andMe.pdf`, `chromosome.pdf`, `health.pdf`, and the duplicate `chromosome copy.pdf` — with a second copy under `raw/july11-snapshot/self/ancestry/extracted/23andme Ancestry geneoiogy family tree/` and a related family-tree zip (`23andme-ancestry-family-tree-20260623.zip`) in the same snapshot directory. Current standing: frontmatter source references updated to the resolved paths; the stale warnings removed.
 
+**[2026-10-05] Restructured to canonical article template v1.** The top-of-page correction block was moved intact into this Conflicts section, the Gaps section's entries were folded into the relevant body sections and the References note below, and the page was retitled and re-sectioned per the canonical template. No facts were deleted in the restructure.
+
+## Assessment
+
+The genomic record is most useful in this wiki as a corroborating stream, not as a clinical document. The ancestry composition independently confirms the documentary record's two-line structure — Ashkenazi immigration against Appalachian roots — to within the normal noise of recombination, and the haplogroups add a deep-time layer the paper trail cannot reach. But the deeper layers are also where the record's claims are thinnest: the interpretation of the maternal R0 haplogroup against a supposedly purely Appalachian maternal line is speculative, and the 0.2% Sub-Saharan trace is unassignable.
+
+The health and carrier panels are mostly negative space — one ARSACS carrier variant, one benign Alpha-1 variant, everything else clear or typical — which makes this page a baseline for future reference rather than a source of findings. The speculative layer that matters most to the wiki — the ancestral dialectic's two inherited operating systems — is flagged as interpretive on the pages that use it, and this page supplies only the data.
+
+## See also
+
+- [[wiki/mind/synthesis/ancestral-dialectic]]
+- [[wiki/self/lineage/family-tree]]
+- [[wiki/health/chemical-architecture]]
+- [[wiki/self/lineage/hybrid-analysis]]
+- [[wiki/self/ancestry]]
+
+## References
+
+- `raw/july11-snapshot/self/ancestry/dna-reports/Ancestry Composition - 23andMe.pdf` — 23andMe ancestry composition export (exported 2025-03-31, service-updated 2024-10-25).
+- `raw/july11-snapshot/self/ancestry/dna-reports/chromosome.pdf` (199 KB, 2 pages) — chromosome painting visualization; per-segment ancestry assignments are visual only, no CSV data included.
+- `raw/july11-snapshot/self/ancestry/dna-reports/health.pdf` (1,032 KB, 11 pages) — health predisposition, carrier status, wellness, and trait reports.
+- A second copy of the three PDFs sits under `raw/july11-snapshot/self/ancestry/extracted/23andme Ancestry geneoiogy family tree/`, alongside a family-tree text export and the zip `raw/july11-snapshot/self/ancestry/23andme-ancestry-family-tree-20260623.zip`.
+
+Link-debt note: inverse connections to this page from [[wiki/self/lineage/family-tree]], [[wiki/self/lineage/hybrid-analysis]], and [[wiki/self/ancestry]] have not yet been added to those pages' frontmatter (`bin/wiki-connect check` will flag them as missing inverses). Housekeeping note: `chromosome copy.pdf` is a byte-identical duplicate of `chromosome.pdf` (both 204,233 bytes) and should be flagged for deduplication.

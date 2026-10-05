@@ -1,11 +1,12 @@
 ---
 domain: work
 page_type: event
+tier: major
 title: "Creative License (NYC, 2011–2012)"
 status: closed
 knowledge: mixed
 date_created: 2026-08-10
-date_modified: 2026-10-04
+date_modified: 2026-10-05
 date_range_start: 2011-04-01
 date_range_end: 2012-02-15
 sources:
@@ -53,6 +54,8 @@ connections:
   - page: wiki/people/renae-holland
     type: co-occurs
     claim: "Renae was the target of a December 2011 LinkedIn recommendation-removal request McKiernan sent through Dan's own account — the specific incident Dan later apologized to her for and explained in his May 2012 disclosure."
+changelog:
+  - "2026-10-05: Restructured to canonical template v1; tier: major set"
 ---
 
 # Creative License (NYC, 2011–2012)
@@ -139,6 +142,12 @@ independently verified; this section states only what is confirmed —
 that Dan cited an airfare issue, in his own words, as his stated reason —
 and separates it clearly from the elaborated version.
 
+A December 19–20, 2011 inside-joke thread ("***" / "THEY SEE ME TROLLIN'
+THEY HATIN'"), forwarded from Renae Holland onward to Rick, places Renae
+as an existing friendly contact in the final weeks of the job — just
+before the recommendation-removal incident described in Act three. She was
+not a stranger Dan cold-wrote months later.
+
 **Act one — the payroll dispute (Feb–Apr 2012).** Dan's last day was on or
 before **February 15, 2012** — the date of his first email flagging that
 his final paycheck had a **$104 charge for a MetroCard he says he never
@@ -155,17 +164,20 @@ month at that point), Marty wrote the line that anchors this whole page:
 > "It's a trust issue. We don't trust you. Please do not forget the keys or
 > any other CL property you have."
 
-Dan escalated by filing complaints with the **IRS and the NYS Department
-of Labor**, and CC'd his father, [[wiki/people/rick-frank|Rick Frank]],
-throughout, who functioned as tactical coach rather than authority figure
-in this exchange ("You sound so desperate. That is what kevin wants. We'll
-talk about a strategy for this."). By April 9, Dan closed the dispute out
-directly with Marty — conceding the $104 to end it, and explicitly
-separating the accountant from the president: "I didn't mean to give the
-impression that my hostility was directed at you personally... I don't
-believe that your intention was to create a volatile or unpleasant
-situation." The distinction between the functionary and the principal is
-Dan's own, made in real time, not an interpretation added later.
+Dan was already preserving the record mid-dispute: on February 16 he
+forwarded the unsigned-check correspondence to his own iCloud address for
+safekeeping. He escalated by filing complaints with the **IRS and the NYS
+Department of Labor**, and CC'd his father, [[wiki/people/rick-frank|Rick
+Frank]], throughout, who functioned as tactical coach rather than
+authority figure in this exchange ("You sound so desperate. That is what
+kevin wants. We'll talk about a strategy for this."). By April 9, Dan
+closed the dispute out directly with Marty — conceding the $104 to end it,
+and explicitly separating the accountant from the president: "I didn't
+mean to give the impression that my hostility was directed at you
+personally... I don't believe that your intention was to create a
+volatile or unpleasant situation." The distinction between the functionary
+and the principal is Dan's own, made in real time, not an interpretation
+added later.
 
 **Act two — the catharsis (April 26, 2012).** Two months after leaving,
 Dan sent Rachel Rauch, per the Gemini-58 session, a one-line email —
@@ -213,10 +225,12 @@ account within three business days. Dan filed a counter-notice, offering
 "paystubs, tax documentation, or any other official documentation," and
 named the retaliation motive directly: "Mr. McKiernan has and continues to
 attempt to smear my name because of my actions as a whistleblower while
-under his employ." No resolution email was located in this pass — whether
-LinkedIn sided with Dan is unconfirmed, though his profile clearly
-survived, since the wiki's own Facebook/address-book record of ongoing
-contact with McKiernan continues for years afterward.
+under his employ." The same day, June 26, Dan forwarded the LinkedIn
+notice to Rick: "WOW WOW WOW WOW. I'm just speechless." No resolution
+email was located in this pass — whether LinkedIn sided with Dan is
+unconfirmed, though his profile clearly survived, since the wiki's own
+Facebook/address-book record of ongoing contact with McKiernan continues
+for years afterward.
 
 ## The postscript
 
@@ -241,21 +255,6 @@ contradict anything documented above, but it means the departure was
 probably also an ordinary job change in progress, not purely a dramatic
 break — consistent with Dan's own later self-doubt about whether the
 airfare complaint was proportionate to what actually happened.
-
-## Corpus record
-
-| Metric | Value |
-|---|---|
-| Employed | ~April 2011 – February 15, 2012 (confirmed) |
-| Contemporaneous title | "Special Projects Coordinator" (résumé says "Executive Assistant / Office Manager" — later, inconsistent) |
-| Client accounts | Walmart (Simona Rabsatt), Molson Coors (Lori Estabrooks) |
-| Stated reason for quitting, per Dan | An airfare/travel-expense billing irregularity — confirmed by Dan's own primary testimony; specific mechanism unverified |
-| Disputed final-paycheck charge | $104 (MetroCard/TransitChek) |
-| Escalation filed by Dan | IRS + NYS Dept of Labor complaints (Mar 2012) |
-| Cathartic archive | `BEST OF KTM VOICEMAILS.mp3`, sent to Rachel Rauch, Apr 26 2012 |
-| Whistleblower disclosure | To Renae Holland, May 3 2012, re: altered intern contracts |
-| Retaliation | Kevin's notarized LinkedIn IP claim, backed by Katherine Palakovich's notarization, June 2012 |
-| Outcome | Dan's counter-notice filed; LinkedIn resolution unconfirmed; profile appears to have survived |
 
 ## Conflicts in the record
 
@@ -303,6 +302,37 @@ the generic label "production services"; the one recovered client pitch —
 the Walmart RFP for "3rd Party Negotiator — Licensed Music and Celebrity
 Talent" — is what fixes what the company actually sold.
 
+## Assessment
+
+The record supports two judgments, held at once.
+
+First: this is the earliest well-documented instance in the corpus of the
+shape the wiki names elsewhere — capability entering an institution
+through its working relationship and exiting through a fight about the
+record. Ten months of ordinary employment, then a stated reason for
+leaving (Dan's own testimony), a payroll dispute pursued through the IRS
+and the NYS Department of Labor rather than through confrontation, a
+whistleblower disclosure made unprompted to a third party months later,
+and a retaliatory false statement met with a filed counter-notice rather
+than capitulation. The corpus names the BFS Foods job fourteen years later
+as the shape's most recent instance; this is its first surviving form.
+
+Second: the page is a case study in the wiki's own evidence discipline.
+Everything load-bearing here is either contemporaneous email or Dan's own
+stated words, and the two are kept visibly apart. Dan's own testimony
+confirms he cited an airfare billing irregularity when he quit; nothing in
+the record confirms the mechanism, and Dan himself supplies the doubt —
+he wonders whether he blew it up. The payroll dispute is documented line
+by line. The whistleblower disclosure is corroborated by an independent
+witness. The LinkedIn retaliation is documented through Dan's
+counter-notice; whether LinkedIn ruled for him is not.
+
+What the record will not resolve is motive. By February 2012 Dan was
+already applying to EA/office-manager roles across Manhattan — the
+departure was also an ordinary job change in progress. The principled
+reading and the mundane reading coexist; nothing documented forces a
+choice between them.
+
 ## See also
 
 - [[wiki/people/kevin-mckiernan|Kevin McKiernan]]
@@ -328,7 +358,22 @@ Talent" — is what fixes what the company actually sold.
 - raw/gmail/2026-08-10-creative-license-kevin-mckiernan-gmail.md
 - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-58.md
 
-### Gaps
+### Record at a glance
+
+| Metric | Value |
+|---|---|
+| Employed | ~April 2011 – February 15, 2012 (confirmed) |
+| Contemporaneous title | "Special Projects Coordinator" (résumé says "Executive Assistant / Office Manager" — later, inconsistent) |
+| Client accounts | Walmart (Simona Rabsatt), Molson Coors (Lori Estabrooks) |
+| Stated reason for quitting, per Dan | An airfare/travel-expense billing irregularity — confirmed by Dan's own primary testimony; specific mechanism unverified |
+| Disputed final-paycheck charge | $104 (MetroCard/TransitChek) |
+| Escalation filed by Dan | IRS + NYS Dept of Labor complaints (Mar 2012) |
+| Cathartic archive | `BEST OF KTM VOICEMAILS.mp3`, sent to Rachel Rauch, Apr 26 2012 |
+| Whistleblower disclosure | To Renae Holland, May 3 2012, re: altered intern contracts |
+| Retaliation | Kevin's notarized LinkedIn IP claim, backed by Katherine Palakovich's notarization, June 2012 |
+| Outcome | Dan's counter-notice filed; LinkedIn resolution unconfirmed; profile appears to have survived |
+
+### Limits
 
 The specific mechanism behind the airfare citation — what Dan actually
 found in the travel-expense records, and whether it involved
@@ -344,6 +389,9 @@ Rachel Rauch, and the survivors'-network figures (Rachel Rauch, Sarah
 Bromberg, Charley Siegel, Chris Marraffino, Michael DiTullio), are sourced
 to the Gemini-58 session only and were not independently located in the
 Gmail search — a targeted follow-up search (by name rather than
-"mckiernan"/"creative license") would likely surface them. Ishlab
-Studios, the job immediately preceding this one, still has no page of its
-own.
+"mckiernan"/"creative license") would likely surface them. The
+correspondence around the departed employee "Lisa" references an "Astrology
+Will" she was asked to return — the document's content is unknown.
+Ishlab Studios, the job immediately preceding this one, still has no page
+of its own (verified 2026-10-05: no `wiki/work/ishlab-studios.md` or
+`wiki/work/ishlab.md` on main).

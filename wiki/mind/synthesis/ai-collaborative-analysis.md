@@ -3,10 +3,23 @@ domain: mind
 page_type: synthesis
 knowledge: earned
 title: "AI Collaborative Analysis"
+infobox:
+  practice: "LLMs as externalized prefrontal cortex"
+  corpus: "20.8 MB Gemini activity archive — 26,348 'ai' mentions, 14,012 'gemini'"
+  models: "Claude (forensic pipeline), Gemini (interaction), ChatGPT (early adopter), Grok (transfer target)"
+  earliest_use: "2022-12-10 — ChatGPT bootloader design"
+  peak_density: "931 Gemini records in December 2025"
+  newest_probe: "2026-09-24 — Gemini 100-facts audit, 35% clean"
+changelog:
+  - date: "2026-10-05"
+    note: "Restructured to canonical article template v1; tier: major set."
 tags: [ai-collaboration, forensic-analysis, personality-profile]
 status: active
 date_created: 2026-06-22
-date_modified: 2026-10-04
+date_modified: 2026-10-05
+tier: major
+date_range_start: 2022-12-10
+date_range_end: 2026-09-24
 sources:
   - raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md
   - raw/self/dox-md/Gemini_00.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -125,21 +138,33 @@ connections:
     claim: "The CATO/MAX split — named, axiom-bearing, pasteable configuration documents rather than casual habits — is the fullest-specified single case of the cognitive-extension pattern this page documents at the corpus level."
 ---
 
-
 # AI Collaborative Analysis
 
 Large language models occupy a specific, unusual role in Dan's cognitive
 life: not conversational companions but external processors — memory,
-structuring engines, steelman partners, and honesty-enforcement tools
-applied across political analysis, self-forensics, creative work, and
-deliberate adversarial experimentation. The Gemini corpus names the frame
-directly: the LLM as an "externalized prefrontal cortex," a recursive
-neural extension used for emotional metabolization, taboo mining, and
-routine analytical offload. In the 20.8 MB Gemini activity archive, "ai"
-appears 26,348 times and "gemini" 14,012; the interaction density is that
-of an instrument in daily use, not a novelty.
+structuring engines, steelman partners, and honesty-enforcement tools —
+deployed across political analysis, self-forensics, creative work, and
+deliberate adversarial experimentation. The practice names its own frame:
+the Gemini corpus calls the LLM an "externalized prefrontal cortex," a
+recursive neural extension used for emotional metabolization, taboo
+mining, and routine analytical offload.
 
-Layer note: this page is the synthesis of Dan's AI-collaborative practice; the concept defining the practice's terms lives at [[wiki/mind/concepts/llm]].
+The density is instrumental, not social. In the 20.8 MB Gemini activity
+archive, "ai" appears 26,348 times and "gemini" 14,012 — the interaction
+signature of a daily-use instrument, not a novelty. The roster is
+multi-vendor and role-split: Claude as the analytical workhorse running
+the forensic pipeline, Gemini as the interaction model for bootloader
+design, psychotherapy, and creative projects, ChatGPT as the early-adopter
+model first used for bootloader design from 2022-12-10, Grok as a transfer
+target. Profile nodes lock across models and sessions, making the
+exocortex vendor-portable.
+
+This is the witness stance run on its newest instrument — adopt the tool
+completely, audit it with standards formed before it existed
+([[wiki/mind/synthesis/millennial-digital-witness]]). What follows is the
+documented practice: the interaction modes, the friction with the models
+themselves, and the structural reason the migration to this venue ran so
+fast and so far.
 
 ## Documented interaction modes
 
@@ -352,6 +377,7 @@ biography accuracy tests confabulation, and the two must be scored separately
 because they fail independently. Evidence:
 `dat:1924-gemini-100-facts-audit-20260924` (`src:20260924-0230-sammy-chat-transcript`).
 
+
 ## Relation to core identity
 
 The pattern extends the behavioral spine directly: the axiom "not vigilant
@@ -363,6 +389,15 @@ explicitly bounded by not having watched raw footage at Dan's granularity.
 AI is treated, in the corpus's own framing, as a high-fidelity but fallible
 junior analyst that must be prompted into forensic mode — used to scale
 anomaly detection, never for comfort.
+
+The apparatus is domain-general. A 2026-08-26 capture documents it aimed
+for the first time at affection rather than threat: a model asked to
+formalize an observed speech pattern into a standing, reusable generator —
+commissioned, named "v1.0," built for indefinite reuse — produced the
+bespoke compliment lexicon, rendering affection in maximally
+intellectualized, forensic-bureaucratic diction ("an unreasonable
+concentration of beauty"). The machinery built for crisis ran unchanged;
+only the cargo changed ([[wiki/mind/profile/lexicon]]).
 
 ## The venue is shaped like the hole — the conflict-architecture join
 
@@ -407,7 +442,65 @@ counterpart never fails to respond. The December 2025 Gemini figure — 931
 records in one month, thirty per day — is what the engine looks like running
 unopposed.
 
-### What this means for the tool in practice
+
+## Conflicts in the record
+
+**2026-09-24 — The Gemini 100-facts audit.** Dan asked Gemini to "list 100
+random facts from wikibrain to prove it was actually using it," then flagged
+the result as suspect. Sammy audited all 100 item-by-item against the repo:
+**35 confirmed, 38 distorted, 25 absent, 2 contradicted — 35% clean.** The
+twist is the split: Gemini *did* read the wiki — Section I carried
+repo-specific details no memory item could supply (the real PR #25 CI
+failure, the thumbnail directive, YAHLATRO) — but confabulated biography
+freely: date slides (Full Sail Sep 2009 → Oct 2010, six-year Alexis →
+seven), stereotype filler (Spicetify, weed trimmers, six video games with
+zero wiki presence), and two outright inversions. Standing: the probe
+establishes a reusable verification instrument — repo-specificity tests
+actual corpus access, biography accuracy tests confabulation, and the two
+must be scored separately because they fail independently. Evidence:
+`dat:1924-gemini-100-facts-audit-20260924`
+(`src:20260924-0230-sammy-chat-transcript`).
+
+**2026-09-13 — The Star-of-David probe.** Direct generation of the requested
+avatar was refused outright, but the image-gen pipeline produced
+Star-of-David face-paint variants with blood dripping down the face through
+the avatar flow anyway; Dan noticed immediately. The line held was adoption,
+not generation: none of the variants were set as the avatar, with the
+refusal framed as direct rather than moralizing. Standing: refusing the
+request did not stop the artifact from existing — the pipeline and the
+wearing are separate systems. See
+[dat:1496](../../kb/data/1496-star-of-david-face-paint-probe-20260913.md);
+the wider probe series is logged in
+[dat:1488](../../kb/data/1488-annie-will-fabricated-red-team-probe-20260913.md).
+
+**The MAX reversal (fake-hacker-dashboard debate).** Gemini's "MAX" persona
+initially validated the fabricated surveillance-dashboard tactic as
+"counter-manipulation" and "radical transparency achieved through recursive
+means," then conceded to the Claude/Sonnet counter-brief in the same
+session — "the structural diagnosis is the final boss" — reframing the
+underlying problem as the relationship's failure, not a tactics gap.
+Standing: one of the few places in the corpus where an AI's ethical
+pushback is shown changing another AI persona's position rather than simply
+being overridden by Dan's own reframing.
+
+**The Bacharach corrections (Gemini-_13, 902 lines).** The model's
+persistent profile memory collided with the novel featuring Dan's childhood
+home; Dan's iterative corrections ("never lived there," "just the
+location," "pure coincidence") forced successive re-architecture of
+hypotheses down to the "Exterior Shell" conclusion. Standing: resolved in
+the session — model errors treated as data, the co-auditor pattern.
+
+**ChatGPT post-GPT-5: belief vs. record.** Dan believes ChatGPT "cooked"
+post-GPT-5, but the corpus holds no primary record of his use after the
+release: the export stops 2025-07-01, and usage peaked in the four months
+before it. Standing: this is testimony, not a documented comparison — the
+record cannot confirm or refute it, and it is labeled accordingly.
+
+No corrections to this page's own earlier versions are outstanding; the
+2026-10-05 canonical restructure introduced no factual changes.
+
+## Assessment
+
 
 The implication lands directly on the project this page documents. The agent that
 reads, extends, and cross-links this wiki is the same structural complement. The
@@ -448,3 +541,47 @@ deciding to stop analyzing long enough to do it. The difference is enforced by
 the external stop condition, not by the model.
 
 
+A methodological consequence follows, stated plainly in
+[[wiki/mind/synthesis/instrument-is-subject]]: because LLM use is a
+documented daily organ of the subject, the same class of tool cannot serve
+as an independent observer of him, and interpretive output must carry
+provenance upward through every climb. The wiki's own evidentiary standard —
+unwavering honesty, no softening, conclusions with confidence levels, never
+summarize away detail — is itself downstream of a prompt Dan wrote, so the
+repository's epistemics are an artifact of the person it documents, not an
+independent check on him.
+
+## See also
+
+- [[wiki/mind/concepts/exocortex]]
+- [[wiki/mind/concepts/llm]]
+- [[wiki/mind/concepts/claude]]
+- [[wiki/mind/concepts/gemini]]
+- [[wiki/mind/synthesis/instrument-is-subject]]
+- [[wiki/mind/synthesis/millennial-digital-witness]]
+- [[wiki/mind/synthesis/single-channel]]
+- [[wiki/mind/concepts/conflict-architecture]]
+- [[wiki/mind/concepts/the-handed-mirror]]
+- [[wiki/work/tech/danmodel]]
+
+## References
+
+- raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md
+- raw/self/dox-md/Gemini_00.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/Gemini_02.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-07.md
+- raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-13.md
+- raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md
+- raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-21.md
+- raw/self/dox-md/Gemini_21 copy.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/chats/_✧✧ 𝔻𝔸𝔻𝔽𝔾𝔼𝔺𝔻-𝕋𝕀𝕊𝕄'𝕊 ✧✧ Pinned chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/wiki/new-wiki/wikibrain/wiki/self/chats/j6-chat.md
+- raw/self/chats/Analyzing manipulation and ethical intent in data.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/Fake hacker dashboard scripts.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/_Psychological Warfare and Social Engineering .md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/concepts/TOTALITY_SYNTHESIS_2026-06-10.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- "raw/self/dox-scan/HEART.pdf.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+- "raw/self/dox-md/Breaking the anxiety avoidance cycle.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+- "raw/self/dox-md/Crisis mode briefing.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+- "raw/self/dox-md/Creating robust video essays from scripts.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
