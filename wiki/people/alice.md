@@ -1,13 +1,14 @@
 ---
 domain: people
 page_type: entity
+tier: major
 title: "Alice Gates"
 aliases: ["Alice"]
 status: active
 knowledge: earned
 importance: normal
 date_created: 2026-08-23
-date_modified: 2026-10-04
+date_modified: 2026-10-05
 date_range_start: 2023-10-28
 date_range_end: 2026-08-25
 tags: [family, relationships, uniontown-era]
@@ -29,6 +30,8 @@ connections:
   - page: wiki/people/annie-ulmer
     type: evidences
     claim: "Childcare for Alice is the largest sustained unpaid commitment in Annie's documented life and the one she names as unpaid on the record — 'which of course I wasn't paid for... should we tip annie?'"
+changelog:
+  - "2026-10-05: Restructured to canonical template v1"
 ---
 
 # Alice Gates
@@ -122,7 +125,7 @@ she is heading to Claire's *"to hear about Alice's first day"* — first day of
 school, landing exactly where the birth inference said it would. Whatever else
 ended in August 2026, aunt Annie did not.
 
-## Complete log
+## Every mention, earliest to latest
 
 Every dated Alice mention in the corpus, earliest to latest, translated for a
 human reader. Timestamps in the older dump are UTC; converted here to local
@@ -284,7 +287,9 @@ and a stranger to Dan's life — both things true at once.
 - raw/self/message-csv/imessage_2124702449_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 - raw/imessage/messages-iphone-union-gapfill-20260921.csv
 
-**Limits.** Whether Dan ever met Alice: Dan's 2025-05-02 line — *"alice
+### Limits
+
+Whether Dan ever met Alice: Dan's 2025-05-02 line — *"alice
 wouldn't be so unfamiliar with my name that she literally can't understand what
 you're saying when you use it"* — reads as evidence he had not, and is the
 sharpest single line in the corpus about how separate the two families stayed.

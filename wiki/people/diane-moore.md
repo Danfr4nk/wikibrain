@@ -1,12 +1,13 @@
 ---
 domain: people
 page_type: entity
+tier: major
 title: "Diane Moore (Rebecca Diane Van Voorhis)"
 aliases: ["Diane", "Dian", "Dian V. Moore", "Diane Moore", "Rebecca Diane Van Voorhis", "Diane Shrum"]
 status: stable
 knowledge: mixed
 date_created: 2026-08-02
-date_modified: 2026-10-04
+date_modified: 2026-10-05
 sources:
   - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/captures/2026-08-02_041331_fall-of-fran-alternate-version-ignore-glyph-fo.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -48,6 +49,8 @@ connections:
     type: evidences
     claim: "The exclusion instrument is the family-scale instance of the template: authority exercised through paperwork and a trespassing clause by people who — on Dan's account and Vicki's — did not visit Fran once."
   - { target: "[[wiki/people/vanessa-frank]]", type: references, claim: "Vanessa is Dan's sister — Diane's granddaughter through Suzanne; the two pages hold opposite generational poles of the same maternal line." }
+changelog:
+  - "2026-10-05: Restructured to canonical template v1"
 ---
 # Diane Moore (Rebecca Diane Van Voorhis)
 
@@ -55,7 +58,7 @@ Diane — Rebecca Diane Van Voorhis, born January 30, 1939 — is Dan's maternal
 
 Around that season the record is thin and entirely thirdhand: thirty-five documented years in Michigan (Farmington Hills, 1985–2010; Stanwood, 2013–2020), a demand during the final admission that her 97-year-old mother be sent home with round-the-clock care, and, in 2020, an estate settlement in which she was the feared objector who never objected. She sends and receives no message in the corpus and has no photograph; every word about her is someone else's. Her last mention is from 2020, and whether she is alive is unrecorded.
 
-## Background: the line and the thirty-five years away
+## The descent line, and thirty-five years away
 
 The 23andMe genealogy export settles a descent the wiki previously had wrong.
 [[wiki/people/fran-coldren|Fran]] married three times; her only recorded child came from the first
@@ -193,9 +196,6 @@ opening of the pandemic: *"i hope diane and [[wiki/people/dave-moore|dave]] both
 after simultaneously contracting coronavirus."* Twenty-three months after the
 funeral, still a pair, still present tense.
 
-
-What the record still does not contain: whether she attended the May 6, 2018 memorial service at the Uniontown Country Club is unrecorded; whether she is alive — born 1939-01-30, she would be 87 — is likewise unknown, the corpus's last mention of her being from 2020, with nothing since recording a death, an illness, or contact of any kind.
-
 ## Conflicts in the record
 
 ### 2026-08-18: her married name is Moore
@@ -320,13 +320,6 @@ question the page has been asking — whether the letter came from Diane alone,
 from her jointly with a husband, or from an attorney. It came out under her
 name and, on the reading of the man who held it, in her husband's voice.
 
-### Unresolved: which document is which
-
-**Which document is which.** The corpus shows a March 29 eviction notice and
-  an April 3 letter with a trespassing clause; the 2026 capture describes
-  visiting rules sent "well before." Are these one instrument, two, or three?
-  The operator held all of them.
-
 ## See also
 
 - [[wiki/people/fran-coldren]]
@@ -337,6 +330,8 @@ name and, on the reading of the man who held it, in her husband's voice.
 - [[wiki/mind/synthesis/vertical-authority-skepticism]]
 - [[wiki/mind/synthesis/fayette-return]]
 - [[wiki/places/155-virginia-ave]]
+- [[wiki/people/fred-adams]]
+- [[wiki/people/vanessa-frank]]
 
 ## References
 
@@ -346,3 +341,5 @@ name and, on the reading of the man who held it, in her husband's voice.
 - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 - raw/self/dox-md/_Photo Thread PT II_ Grand Finale Calibration .md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+
+**Limits.** Gaps: which document is which — the corpus shows a March 29 eviction notice and an April 3 letter with a trespassing clause, while the 2026 capture describes visiting rules sent "well before"; whether these are one instrument, two, or three is unresolved (the operator held all of them). Whether she attended the May 6, 2018 memorial service at the Uniontown Country Club is unrecorded. Whether she is alive — born 1939-01-30, she would be 87 — is likewise unknown, the corpus's last mention of her being from 2020, with nothing since recording a death, an illness, or contact of any kind.

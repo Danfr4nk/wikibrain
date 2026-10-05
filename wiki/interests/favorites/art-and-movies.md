@@ -1,9 +1,12 @@
 ---
 domain: interests
 page_type: synthesis
+tier: incidental
 status: archived
 date_created: 2026-06-22
-date_modified: 2026-06-23
+date_modified: 2026-10-05
+changelog:
+  - "2026-10-05: Classified incidental (complete at this size)"
 sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 synthesizes:
   - wiki/interests/favorites/eclecticism
@@ -19,6 +22,8 @@ connections:
 ---
 
 # Art and Movies Favorites
+
+> **Incidental entry** — Dan's art and movie favorites from the masterlist — 25 rated-5 art works and 11 movies, with the eclecticism reading. Complete at this size.
 
 Minor categories in the masterlist (Art 25, Movies 11). All Art entries rated 5; movies unrated with minimal metadata.
 
@@ -67,5 +72,7 @@ Ties to film as extension of forensic/observational lens (see [[wiki/self/contex
 raw/self/favorites/FAVS MASTERLIST.csv (ART MATRIX + MOVIES FAVS.rtf origins)
 
 Cross: [[wiki/self/facebook]] (visual arts + photography in ads interests), [[wiki/interests/favorites/eclecticism]], [[wiki/interests/favorites/taste-profile]], [[wiki/mind/synthesis/totality-themes]], [[wiki/interests/music/index]] (shared artistic thread).
+
+Why incidental: a shelf summary — the art sample table, the movie list, and the eclecticism reading are the whole record; the full lists live in raw. Promote to major if the movie shelf ever gets rated metadata.
 
 

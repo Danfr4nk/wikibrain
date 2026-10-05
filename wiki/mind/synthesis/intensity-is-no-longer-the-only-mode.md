@@ -1,12 +1,13 @@
 ---
 domain: mind
 page_type: synthesis
+tier: incidental
 title: "Intensity Is No Longer the Only Mode"
 status: active
 knowledge: mixed
 importance: critical
 date_created: 2026-08-26
-date_modified: 2026-10-04
+date_modified: 2026-10-05
 tags: [behavioral-change, intensity, boundaries, relationships]
 synthesizes:
   - wiki/people/ally-lubin
@@ -26,6 +27,8 @@ connections:
 ---
 
 # Intensity Is No Longer the Only Mode
+
+> **Incidental entry** — A dated behavioral hypothesis (August 2026): Dan may be learning to separate intensity from action. Complete at this size — the hypothesis, the mechanism, and the falsification terms are the whole page.
 
 ## The hypothesis
 
@@ -108,5 +111,7 @@ can do **consistency without intensity**.
 
 If that holds, it is probably one of the most meaningful behavioral changes in
 the entire record.
+
+Why incidental: a single dated hypothesis — the August 26, 2026 state, the mechanism, and the kill-terms are the whole record; longitudinal follow-up belongs on the dated event pages, not here.
 
 

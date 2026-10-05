@@ -1,13 +1,14 @@
 ---
 domain: people
 page_type: entity
+tier: major
 title: "Milo"
 aliases: ["Mimi"]
 status: active
 knowledge: mixed
 importance: high
 date_created: 2026-07-14
-date_modified: 2026-10-04
+date_modified: 2026-10-05
 date_range_start: 2018-01-01
 sources:
   - raw/timeline/captures/2026-08-16_183544_gap-july-august-2026-reentanglement.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -65,6 +66,8 @@ images:
     - file: wiki/media/gphotos-010.jpg
       alt: "Dan and Milo"
       caption: "Google Photos Dan album, curated 2026-09-14 — Dan selfie with Milo the Chihuahua nuzzling his face."
+changelog:
+  - "2026-10-05: Restructured to canonical template v1"
 ---
 
 # Milo
@@ -337,6 +340,7 @@ Weight it wherever the July–August 2026 material rests on in-fight assertions.
 - [[wiki/timeline/events/july-2026-recontact|July 2026 Recontact]]
 - [[wiki/timeline/events/july-august-2026-reentanglement|July–August 2026 Re-entanglement]]
 - [[wiki/timeline/events/august-2026-morgantown-call|August 2026 Morgantown Call]]
+- [[wiki/work/tech/max-framework/overview|MAX Framework Overview]]
 
 ## References
 

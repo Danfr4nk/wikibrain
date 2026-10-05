@@ -1,10 +1,11 @@
 ---
 domain: work
 page_type: event
+tier: major
 title: "Au Za'atar (NYC, ~2021–2024)"
 status: closed
 date_created: 2026-07-13
-date_modified: 2026-10-04
+date_modified: 2026-10-05
 sources:
   - raw/sammy/20260914-0630/chats.json
   - raw/location/Records.json
@@ -64,8 +65,9 @@ connections:
   - page: wiki/timeline/periods/2021-2023-employment-block
     type: component-of
     claim: "The Au Za'atar tenure (March 2021–August 2024) is the period's central institution — the 690-shift block that gives these three years their name and nearly all their documented events."
+changelog:
+  - "2026-10-05: Restructured to canonical template v1"
 ---
-
 
 # Au Za'atar (NYC, ~2021–2024)
 
@@ -89,7 +91,7 @@ eventually made himself the "Outside Guy": sole custodian of the dying
 shed section and its cash tips. The job ended in August 2024 when the
 city-mandated shed tear-down erased the territory.
 
-## The founding
+## Charmed in on day one
 
 Early 2021: two years into NYC round two, "the money just ran out," and Dan
 — wanting to keep funding the daily Dominican supply line — charmed owner
@@ -119,7 +121,7 @@ your beer bottle after you pour it and I'll say I did it and get you a
 free one") — which is "frowned upon in food service in a way that it is
 not as a golf caddie," and which made him the regulars' favorite.
 
-## The ecosystem
+## The ecosystem: the Shed, the Triad, and the audit
 
 The staff-side economy ran on mutual suspicion. Employees held a settled
 "radical skepticism" that the owners were siphoning the digital tip pool,
@@ -167,7 +169,7 @@ was split equally between servers and bussers rather than weighted toward
 servers — consistent with the "equal FOH tip split" already documented as
 the structural hook that made the job worth staying in.
 
-## The middle years: de facto manager, Thanksgiving 2023, the factions
+## The middle years: de facto manager and the Thanksgiving line
 
 Dan's own STORYTIME telling fills in the arc between the Shed's golden age
 and the end. He was repeatedly yelled at for vaping in front of customers
@@ -208,6 +210,23 @@ Class" alibi doubled as a shield during the
 [[wiki/people/valeria-iglesias-cid|Valeria]] breach — she was the Au
 Za'atar host-stand hostess — which the post-mortem
 tags as the period's "CORE ANOMALY."
+
+## The end of the Shed
+
+The ending, in his own words: by the final stretch he served "like 3
+tables per week total and would just hang," pocketing all cash tips, until
+the outdoor dining shutdown closed the Shed for good — "it was a long run
+and it was fun and good food and cool mexicans and... valeria." He came in
+"a novice in a red apron" and left "a legend in a white Uniqlo shirt," with
+the respect of the BOH Mexican squad intact. (The famous "outside bread,"
+he confirms, "obviousLY WAS NOT from outside.") The shutdown itself had
+two causes, and Dan is precise about the order: "once the inside opened,
+they just didn't have enough interest in outdoor dining" — demand for the
+sidewalk tables died first — "also the city made places tear down sheds
+for winter, so that was that." The city mandate finished off a territory
+the finished interior had already made obsolete. The DanAnnie dossier
+amendments rule the exit **involuntary** (Amendment 2, ACCEPTED) — see
+Conflicts in the record.
 
 ## After Au Za'atar
 
@@ -307,19 +326,6 @@ narrator, saboteur, and beneficiary of the exact off-books logic he condemns
 elsewhere. The two pages together are the strongest evidence that the
 methodology is genuinely domain-invariant rather than self-serving.
 
-The ending, in his own words: by the final stretch he served "like 3
-tables per week total and would just hang," pocketing all cash tips, until
-the outdoor dining shutdown closed the Shed for good — "it was a long run
-and it was fun and good food and cool mexicans and... valeria." He came in
-"a novice in a red apron" and left "a legend in a white Uniqlo shirt," with
-the respect of the BOH Mexican squad intact. (The famous "outside bread,"
-he confirms, "obviousLY WAS NOT from outside.") The shutdown itself had
-two causes, and Dan is precise about the order: "once the inside opened,
-they just didn't have enough interest in outdoor dining" — demand for the
-sidewalk tables died first — "also the city made places tear down sheds
-for winter, so that was that." The city mandate finished off a territory
-the finished interior had already made obsolete.
-
 ## See also
 
 - [[wiki/people/tarik-fallous|Tarik Fallous]]
@@ -330,6 +336,14 @@ the finished interior had already made obsolete.
 - [[wiki/timeline/periods/2021-2023-employment-block|2021–2023 employment block]]
 - [[wiki/mind/synthesis/the-embedded-objective|The Embedded Objective]]
 - [[wiki/work/bfs-foods|BFS Foods]]
+- [[wiki/mind/synthesis/failure-to-launch|Failure to Launch]]
+- [[wiki/interests/food-and-diet|Food and Diet]]
+- [[wiki/mind/concepts/institutional-out|Institutional Out]]
+- [[wiki/mind/synthesis/attachment-trauma-bond|Attachment Trauma Bond]]
+- [[wiki/mind/synthesis/vertical-authority-skepticism|Vertical Authority Skepticism]]
+- [[wiki/mind/synthesis/supply-network|Supply Network]]
+- [[wiki/people/menore|Menore]]
+- [[wiki/health/hyperreflexivity|Hyperreflexivity]]
 
 ## References
 
@@ -348,6 +362,8 @@ the finished interior had already made obsolete.
 - raw/self/dansynth/dansynth-scrape-phases-2-7.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 - raw/self/dox-scan/DanAnnie_TenYears_WithAmendments.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 - raw/self/dox-md/Breaking the anxiety avoidance cycle.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+
+### Limits
 
 **Limits.** Gaps: his final role title (busser → server, informally); the
 Tunisian manager's name. The STORYTIME/DANSYNTH record is stylized

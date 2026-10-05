@@ -1,11 +1,13 @@
 ---
 domain: people
 page_type: note
+tier: incidental
 title: "Ally Lubin — 2026-08-26 Current-State Update"
 status: active
 knowledge: mixed
 importance: high
 date: 2026-08-26
+date_modified: 2026-10-05
 related:
   - wiki/people/ally-lubin
   - wiki/people/annie-ulmer
@@ -18,6 +20,8 @@ infobox:
 ---
 
 # Ally Lubin — 2026-08-26 Current-State Update
+
+> **Incidental entry** — A dated operator-observed addendum to the Ally Lubin page — one day's state of the channel. Complete at this size.
 
 > **VISIBLE UPDATE — 2026-08-26**
 >
@@ -95,5 +99,7 @@ without squeezing it for proof.**
 
 If that continues, this stops being a nice interpretation and becomes a
 behavioral result.
+
+Why incidental: a dated addendum — one day's observed state and its correction note are the whole record; it carries no standing facts of its own by design.
 
 

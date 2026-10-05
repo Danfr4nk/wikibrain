@@ -1,11 +1,12 @@
 ---
 domain: timeline
 page_type: event
+tier: major
 title: "The July 2026 Re-contact"
 status: active
 knowledge: mixed
 date_created: 2026-07-26
-date_modified: 2026-10-04
+date_modified: 2026-10-05
 date_range_start: 2026-07-23
 date_range_end: 2026-07-26
 importance: critical
@@ -62,7 +63,10 @@ connections:
   - page: wiki/mind/concepts/the-handed-mirror
     type: instantiates
     claim: "This is the concept's hostile instance — same act, same corpus-derived form, generosity replaced by leverage — which shows intent is the only variable that has ever changed across cases."
+changelog:
+  - "2026-10-05: Restructured to canonical template v1"
 ---
+
 # The July 2026 Re-contact
 
 Between the afternoon of **July 23, 2026** and just after 5:00 AM on **July 26**, Dan and [[wiki/people/annie-ulmer|Annie]] exchanged 624 messages, ending a 52-day silence that followed the [[wiki/timeline/events/group-chat-closure|June 1 closure]]. The silence had held through three unanswered Annie messages in June — two bare check-ins and a June 10 request for her Valic/Corebridge investment paperwork — and broke on none of them. What reopened the channel was [[wiki/people/milo|Milo]]: Annie emailed over the July 4 weekend asking whether the dog was frightened by the fireworks, checked her inbox daily, resent the message around July 21, and Dan answered on July 23, opening with the admission that answering was a mistake.
@@ -102,7 +106,6 @@ through the channel; the money had stopped, the drugs had stopped, the
 relationship had stopped — but the dog they raised together had not, and
 that was sufficient. **The residual dependency does not have to be
 material.**
-
 
 ## The four days
 
@@ -199,8 +202,7 @@ address it with her parents, that he will "try again to actually
 disappear," that he loves her "the way I have since 2015." The last
 message of the record: "whatever goodbye annie."
 
-
-## Incidental facts recovered
+## Incidental facts found nowhere else in the wiki
 
 Four dated details surface here that no other source in the wiki carries:
 
@@ -221,7 +223,6 @@ Four dated details surface here that no other source in the wiki carries:
   documents — over the weekend of July 18–19.
 - **She is bartending and waiting tables**, working nights, and had
   "gone missing" for a stretch the week of July 13.
-
 
 ## What the event established
 
@@ -262,7 +263,6 @@ the third party's own network in a way that had consequences for her
 inside that relationship — but the transcript does not establish it, and
 this page will not assume it. It is recorded as an open dispute in which
 both accounts are internally consistent and mutually unintelligible.
-
 
 ### The July 25 allegation — recorded, not adjudicated
 
@@ -337,6 +337,7 @@ the same conversation — but it is no longer only Dan's account.
 - raw/self/message-csv/imessage_export_2124702449_20260726.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 - raw/self/message-csv/imessage_export_2124702449_20260802.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 
+### Limits
 
 The email thread Dan answered on July 23 is not in `raw/` — only Annie's
 description of it (sent over July 4 about Milo and the fireworks, resent
