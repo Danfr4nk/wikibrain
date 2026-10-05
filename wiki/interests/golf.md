@@ -1,9 +1,10 @@
 ---
 domain: interests
 page_type: summary
+tier: major
 status: active
 date_created: 2026-07-14
-date_modified: 2026-07-18
+date_modified: 2026-10-05
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -42,6 +43,8 @@ connections:
   - page: wiki/interests/extreme-sports
     type: precedes
     claim: "The golf era (2016–2019) follows the extreme-sports era by roughly a decade — both are sport-identity layers, but golf is an adult acquisition (reignited by the Nemacolin caddying job) rather than a childhood identity, and the two share no documented skill transfer."
+changelog:
+  - "2026-10-05: Restructured to canonical template v1"
 ---
 
 # Golf
@@ -66,7 +69,21 @@ Getting hired at Nemacolin in April 2016 didn't just give Dan an income — it v
 
 Golf's role in the Annie relationship doesn't end with how they met — it recurs as a marker of the relationship's emotional temperature for a decade afterward. In April 2020, mid-pandemic, a friend's reaction to seeing Dan's Instagram ("LOOK HE PLAYS GOLF TOO!!") shows it was still a visible part of his public identity years after he'd stopped caddying professionally. That August, missing a round near his mother's birthday reads as a small, wistful regret rather than a major event. By **December 13, 2025** — deep in the relationship's terminal decline (see [[wiki/timeline/periods/dec-2025-spike]]) — golf resurfaces as something much sharper: Annie tells Dan "you would just have to walk out your door, i wouldn't make you go out on the golf course like when [we] used to, when you ACTUALLY liked me" — invoking walking golf courses together as a specific, named memory of when the relationship was good, thrown back at him as evidence of how far it had fallen. The full arc closes a loop that opened on a golf course in the rain in 2015: golf as the site of the relationship's best-documented origin moment becomes, a decade later, the site of its own eulogy.
 
-## Gaps
+## See also
+
+- [[wiki/work/nemacolin-caddying]]
+- [[wiki/people/fran-coldren]]
+- [[wiki/people/annie-ulmer]]
+- [[wiki/people/christian-hanson]]
+- [[wiki/interests/extreme-sports]]
+
+## References
+
+- raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-scan/Resume.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+
+### Limits
 
 No childhood or junior-golf origin story is documented — the corpus picks the sport up already in progress by the time messaging begins in 2015, and it's unclear whether Dan played growing up or took it up as an adult alongside the family's country-club world. Exact handicap, if he ever calculated one formally, is not recorded. Whether he golfed at all between the 2019 end of the caddying job and the 2020 Instagram/nostalgia references, or after 2020, is not documented in detail — 2025's only golf reference (a "GOLF themed YouTube channel" he watches, and a self-deprecating story about avoiding polo shirts since being told he "dressed like a golfer's little brother") suggests the interest persisted as media consumption and self-image even without confirmed active play.
-

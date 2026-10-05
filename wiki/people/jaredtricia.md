@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: major
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-09-18
+date_modified: 2026-10-05
 date_range_start: 2019-06-01
 date_range_end: 2020-06-28
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/people/annie-ulmer/escort-messages-chatgpt-export-2025-08.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -19,6 +20,8 @@ connections:
   - page: wiki/people/annie-ulmer
     type: evidenced-by
     claim: "Annie's 'Hazel' persona (the paid-provider identity behind the Jared/Tricia, Nabeel, and Jason threads) is the same alias documented across three independent 2019–2020 escort threads, one of which Dan personally impersonated her inside."
+changelog:
+  - "2026-10-05: Restructured to canonical template v1"
 ---
 
 # Jared and Tricia
@@ -90,7 +93,21 @@ resolved in the thread; it's the last contact on record.
 | 2026-09-18 confirmation | Dan confirmed the keepsake photo (upload-015.jpg, red-lit bedroom) is from this same June 2019 encounter — the "girl fun" first meeting Trish sent the picture of — upgrading the earlier assessment to his direct confirmation. Name note, same day: his chat spelling "jerad" was a typo — the client is **Jared**, unrelated to his oldest friend Jerad Friedline. The sessions, in his words, included "a FFFM and a FFF with just tricia, her guest and annie (the escort)" — Annie as the paid girl in both configurations. |
 | Rate | $1,000 / 2 hours (per the June 1 booking) |
 
-## Gaps
+## See also
+
+- [[wiki/people/brian]]
+- [[wiki/people/kelly-johansson]]
+- [[wiki/people/trinity-st-clair]]
+- [[wiki/people/annie-ulmer]]
+- [[wiki/self/message-corpora/master-message-dump]]
+
+## References
+
+[![Red-lit bedroom: GGG threesome keepsake photo (nudity pixelated)](wiki/media/upload-015.jpg)](wiki/media/upload-015.jpg)
+
+*EXIF DateTime 2019:08:02 02:50:56 (Picasa stamp; Dan testifies this date is wrong for the event). Corpus dates the Jared/Tricia paid sessions to June 2019; the photo was requested/sent August 2019. — Compressed photo. 828x1105 JPEG, filename equals SHA-256, Software=Picasa. Red-lit bedroom; three people in sexual activity (two women visible; blonde with butterfly lower-back tattoo, dark-haired woman; third participant partially obscured). Dan's testimony 2026-09-11: Annie's 'GGG threesome' during a paid appointment with Trisha and Jared; the file date is wrong. Corpus corroboration: wiki/people/jaredtricia documents married Gramercy couple Jared and Tricia booking Annie (as 'Hazel') twice in June 2019 at $1,000/2 hours; in August 2019 Dan wrote to Trish as 'Hazel' requesting 'one or two of the pictures of the girl fun from the first time we met' - she sent it; Dan: 'i wanted that picture.' This image is assessed as that keepsake photo (provenance: sent by Trish, August 2019). Spelling note: Dan wrote 'Trisha'; wiki page uses 'Tricia/Trish'. Identities in frame rest on Dan's testimony, not independent identification.*
+
+### Limits
 
 Whether further bookings occurred after the June 28, 2020 non-response is
 undocumented — the thread simply goes quiet. Which specific messages in
@@ -100,12 +117,3 @@ exchange has Dan's own direct confirmation. Whether Trish and Jared ever
 learned the "Hazel" they'd been recommending clients to and requesting
 photos from was, at least some of the time, not the woman they'd actually
 met is unknown.
-
-## Related
-
-[[wiki/people/brian]] · [[wiki/people/kelly-johansson]] · [[wiki/people/trinity-st-clair]] · [[wiki/people/annie-ulmer]] · [[wiki/self/message-corpora/master-message-dump]]
-
-## Sources
-[![Red-lit bedroom: GGG threesome keepsake photo (nudity pixelated)](wiki/media/upload-015.jpg)](wiki/media/upload-015.jpg)
-
-*EXIF DateTime 2019:08:02 02:50:56 (Picasa stamp; Dan testifies this date is wrong for the event). Corpus dates the Jared/Tricia paid sessions to June 2019; the photo was requested/sent August 2019. — Compressed photo. 828x1105 JPEG, filename equals SHA-256, Software=Picasa. Red-lit bedroom; three people in sexual activity (two women visible; blonde with butterfly lower-back tattoo, dark-haired woman; third participant partially obscured). Dan's testimony 2026-09-11: Annie's 'GGG threesome' during a paid appointment with Trisha and Jared; the file date is wrong. Corpus corroboration: wiki/people/jaredtricia documents married Gramercy couple Jared and Tricia booking Annie (as 'Hazel') twice in June 2019 at $1,000/2 hours; in August 2019 Dan wrote to Trish as 'Hazel' requesting 'one or two of the pictures of the girl fun from the first time we met' - she sent it; Dan: 'i wanted that picture.' This image is assessed as that keepsake photo (provenance: sent by Trish, August 2019). Spelling note: Dan wrote 'Trisha'; wiki page uses 'Tricia/Trish'. Identities in frame rest on Dan's testimony, not independent identification.*

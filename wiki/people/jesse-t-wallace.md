@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: major
 status: active
 date_created: 2026-09-15
-date_modified: 2026-09-15
+date_modified: 2026-10-05
 date_range_start: 2026-03-01
 date_range_end: 2026-09-16
 sources:
@@ -16,6 +17,8 @@ infobox:
   name: "Jesse T. Wallace"
   relationship_to_dan: "none — the subject of a Uniontown local-history investigation Dan commissioned, 2026-09-15"
   known_for: "Superintendent of the Laurel Highlands district whose glowing 2024-25 evaluation became a demolition-grade 2025-26 evaluation fourteen months later; the board rescinded his contract extension 6-3 on August 5, 2026"
+changelog:
+  - "2026-10-05: Restructured to canonical template v1"
 ---
 
 # Jesse T. Wallace
@@ -107,7 +110,7 @@ September 16, 6pm, high school library. No agenda published.
 As of 2026-09-15 the district website still lists Wallace as superintendent,
 photo up, new eval posted, old one gone.
 
-## Record notes
+## Conflicts in the record
 
 Forensics live here, compact, so the story above doesn't have to carry them:
 
@@ -142,3 +145,13 @@ Forensics live here, compact, so the story above doesn't have to carry them:
 ---
 
 **Up:** [[wiki/people/index|People]]
+
+## See also
+
+- [[wiki/people/index]]
+
+## References
+
+- src:sammy-chat-transcript-20260915-0630
+- workspace/user/files/ca8025_1113276bc39f4b22a1b2930bcf65debe.pdf (2025-26 superintendent evaluation, district-public document)
+- workspace/user/files/WALLACE_EVAL_2024-2025.pdf (2024-25 superintendent evaluation, district-public document)

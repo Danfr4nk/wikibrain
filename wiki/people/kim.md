@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: active
 date_created: 2026-06-22
-date_modified: 2026-06-23
+date_modified: 2026-10-05
 sources: ["raw/self/dox-md/BFS_BOOTLOADER_v2.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/chats/Drawer shortage dispute with assistant manager (1).md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/work/bfs-foods", "wiki/people/anita", "wiki/people/timmy", "wiki/people/brandon-hill", "wiki/self/context-core", "wiki/mind/synthesis/vertical-authority-skepticism", "wiki/timeline/periods/2025-collapse"]
 tags: [career, addiction-recovery]
@@ -15,9 +16,14 @@ connections:
   - page: wiki/people/timmy
     type: co-occurs
     claim: "Kim pulled the camera footage on Timmy's gambling that incidentally exposed Anita's vape sale, then was falsely named by Anita as the one who reported him."
+changelog:
+  - "2026-10-05: Classified as incidental under canonical template v1"
 ---
 
 # Kim (Little Caesars Manager)
+
+> **Incidental entry** — This page records Kim, the Little Caesars manager on the franchise side of the BFS building, known from the BFS bootloader and drawer-dispute record as the procedurally honest counterpoint to Anita. Complete at this size.
+
 
 **Role:** LC manager on the franchise side of the BFS building (BFS Foods / Bruceton Farm Service, Inc.). Procedurally honest counterpoint to Anita (GM, gas station side). Potential LC transfer path for Dan post-BFS termination.
 
@@ -49,4 +55,20 @@ Exemplifies [[wiki/mind/synthesis/vertical-authority-skepticism]]: Anita sole lo
 
 **Notes:** LC application follow-up pending per open questions in bootloader. Same-building caveat: Anita/Brandon gossip pipeline remains. Strong contrast to Anita confabulation/reversals documented in group text + recording. Defer to raw csv for any direct Kim-Dan messages.
 
+## See also
 
+- [[wiki/work/bfs-foods]]
+- [[wiki/people/anita]]
+- [[wiki/people/timmy]]
+- [[wiki/people/brandon-hill]]
+- [[wiki/self/context-core]]
+- [[wiki/mind/synthesis/vertical-authority-skepticism]]
+- [[wiki/timeline/periods/2025-collapse]]
+
+## References
+
+- raw/self/dox-md/BFS_BOOTLOADER_v2.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/chats/Drawer shortage dispute with assistant manager (1).md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+
+Why incidental: The whole record is the BFS bootloader, the drawer-dispute chat, and the context-core exit note; no direct Kim–Dan message thread is held.

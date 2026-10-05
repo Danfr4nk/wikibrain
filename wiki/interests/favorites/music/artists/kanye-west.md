@@ -1,16 +1,18 @@
 ---
 domain: interests
 page_type: entity
+tier: major
 status: active
 importance: high
 date_created: 2026-06-22
-date_modified: 2026-07-11
+date_modified: 2026-10-05
 sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related:
   - "wiki/interests/favorites/music"
   - "wiki/interests/music/overview"
   - "wiki/self/context-core"
 changelog:
+  - "2026-10-05: Restructured to canonical template v1"
   - 2026-07-11: Full rewrite from stub. Added producer-lineage framing, post-2016 complexity, wiki links.
 tags: [music-production, grief]
 connections:
@@ -39,4 +41,12 @@ The post-2016 complexity is real and doesn't resolve into a clean position. The 
 
 The relevance here is genealogical as much as aesthetic. A music producer in the 2020s who doesn't understand what Kanye built in the 2000s has a significant gap in their understanding of the field. The 11 tracks in the favorites list are at least partly a professional account of that lineage, filed under listening because the production is where the knowledge lives.
 
+## See also
 
+- [[wiki/interests/favorites/music]]
+- [[wiki/interests/music/overview]]
+- [[wiki/self/context-core]]
+
+## References
+
+- raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.

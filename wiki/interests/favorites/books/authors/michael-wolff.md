@@ -1,16 +1,18 @@
 ---
 domain: interests
 page_type: entity
+tier: major
 status: active
 importance: high
 date_created: 2026-06-22
-date_modified: 2026-07-11
+date_modified: 2026-10-05
 sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related:
   - "wiki/interests/favorites/books"
   - "wiki/mind/concepts/forensic-method"
   - "wiki/self/context-core"
 changelog:
+  - "2026-10-05: Restructured to canonical template v1"
   - 2026-07-11: Full rewrite from stub. Added methodology analysis, star-rating significance, comparison with Woodward, wiki links.
 tags: [politics, forensic-analysis]
 ---
@@ -35,4 +37,12 @@ This connects to a preference visible across the favorites list for raw access o
 
 Wolff works best understood not as a journalist but as something closer to a participant-observer who happens to have a publishing deal. The ethical objections to his method (the unacknowledged recording, the reconstructed dialogue, the soft-pedaled sourcing) are real. They're also the same objections you'd raise against any primary source. The messiness is part of what makes it valuable — cleaned-up testimony is always less revealing than the thing that slipped out before anyone could shape it.
 
+## See also
 
+- [[wiki/interests/favorites/books]]
+- [[wiki/mind/concepts/forensic-method]]
+- [[wiki/self/context-core]]
+
+## References
+
+- raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.

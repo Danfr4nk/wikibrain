@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: major
 status: active
 date_created: 2026-06-23
-date_modified: 2026-09-04
+date_modified: 2026-10-05
 date_range_start: 2017-04-19
 date_range_end: 2020-07-31
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -32,6 +33,8 @@ connections:
   - page: wiki/mind/concepts/contact-gini
     type: instance-of
     claim: "A mid-volume contact concentrated in the Fran caregiving and post-death estate period."
+changelog:
+  - "2026-10-05: Restructured to canonical template v1"
 ---
 
 # Rod Banks
@@ -139,7 +142,18 @@ administrative, and Dan was on the receiving end of an administration he was
 also inside of, which is the same double position
 [[wiki/timeline/events/fran-death-vigil]] records at the bedside.
 
-## Gaps
+## See also
+
+- [[wiki/people/fran-coldren]]
+- [[wiki/places/117-belmont-circle]]
+- [[wiki/mind/synthesis/estate-money-spine]]
+
+## References
+
+- raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+
+### Limits
 
 > **GAP CLOSED [2026-09-04] — he is the estate's disbursing agent.** This
 > section read: *"Exact relationship to Fran (family member, estate*
@@ -157,5 +171,3 @@ now upstream of him rather than about him** — the relationship between Jason
 Adams, [[wiki/people/fred-adams|Fred Adams]] and Adams & Adams, and which of
 them held what authority when, is not established anywhere in the corpus and is
 answerable only from the estate docket.
-
-

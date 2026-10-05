@@ -1,10 +1,11 @@
 ---
 domain: interests
 page_type: concept
+tier: major
 title: "Lyrics as Timbre"
 status: active
 date_created: 2026-07-14
-date_modified: 2026-09-22
+date_modified: 2026-10-05
 knowledge: earned
 sources:
   - raw/self/captures/2026-07-14-lyrics-as-timbre.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -32,6 +33,8 @@ connections:
   - page: wiki/work/tech/projects/hook2piano
     type: operationalized-by
     claim: "hook2piano/MELODY (2026-09-16) treat the qualifier as an engineering constraint: pitch-as-geometry with note names as text, because the user cannot read staff notation and does not parse lyrics as language. The piano-roll rewrite is the qualifier instantiated as interface."
+changelog:
+  - "2026-10-05: Restructured to canonical template v1"
 ---
 
 # Lyrics as Timbre
@@ -179,8 +182,17 @@ pitch-as-geometry with note names as text, because the user cannot read
 staff notation and does not parse lyrics as language — the same verdict
 that drove the piano-roll rewrite the day it shipped.
 
-## Related
+## See also
 
-[[wiki/interests/music/concepts/sub-bass-signature]] · [[wiki/mind/synthesis/dance-music-only-phases]] · [[wiki/interests/favorites/music]] · [[wiki/interests/favorites/music/artists/fall-out-boy]] · [[wiki/interests/favorites/music/artists/my-chemical-romance]] · [[wiki/interests/favorites/music/artists/say-anything]] · [[wiki/interests/favorites/music/artists/taking-back-sunday]] · [[wiki/interests/favorites/music/artists/new-found-glory]]
+- [[wiki/interests/music/concepts/sub-bass-signature]]
+- [[wiki/mind/synthesis/dance-music-only-phases]]
+- [[wiki/interests/favorites/music]]
+- [[wiki/interests/favorites/music/artists/fall-out-boy]]
+- [[wiki/interests/favorites/music/artists/my-chemical-romance]]
+- [[wiki/interests/favorites/music/artists/say-anything]]
+- [[wiki/interests/favorites/music/artists/taking-back-sunday]]
+- [[wiki/interests/favorites/music/artists/new-found-glory]]
 
+## References
 
+- raw/self/captures/2026-07-14-lyrics-as-timbre.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.

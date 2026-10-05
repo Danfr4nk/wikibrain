@@ -1,10 +1,11 @@
 ---
 domain: work
 page_type: concept
+tier: incidental
 title: "MNEME — Personal Memory Corpus Platform"
 status: stub
 date_created: 2026-07-14
-date_modified: 2026-07-20
+date_modified: 2026-10-05
 sources:
   - raw/self/dox-md/MNEME_BUILDKIT_v02.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 related:
@@ -18,9 +19,14 @@ connections:
   - page: wiki/work/tech/danmodel
     type: parallels
     claim: "Both are independently-built self-modeling infrastructure projects running the same 'extract once, stop re-deriving' thesis this wiki itself is built on — mneme for memory/context, DANMODEL for voice and output."
+changelog:
+  - "2026-10-05: Classified as incidental under canonical template v1"
 ---
 
 # MNEME — Personal Memory Corpus Platform
+
+> **Incidental entry** — This page records MNEME, Dan's April 2026 spec for a personal memory corpus platform, known from a single build-kit document and its parallels to this wiki's own extraction thesis. Complete at this size.
+
 
 A full product spec, dated April 2026, for a tool that solves the exact
 problem this wiki itself exists to solve: the "cold-start" problem of
@@ -82,8 +88,22 @@ external cognitive infrastructure for himself, and is the clearest
 evidence yet that the wiki-brain project and Dan's own product instincts
 are pointed at the same problem independently.
 
+## See also
+
+- [[wiki/work/tech/index]]
+- [[wiki/work/tech/max-framework/overview]]
+- [[wiki/mind/synthesis/ai-collaborative-analysis]]
+- [[wiki/mind/concepts/exocortex]]
+- [[wiki/work/tech/danmodel]]
+
+## References
+
+- raw/self/dox-md/MNEME_BUILDKIT_v02.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+
+### Limits
+
 **Gaps:** no evidence in the corpus of MNEME actually being built past
 the spec stage; unclear whether this predates or postdates his adoption
 of this wiki-brain project as his personal solution to the same problem.
 
-
+Why incidental: The whole record is one April 2026 build-kit spec; no evidence in the corpus shows MNEME built past the spec stage.
