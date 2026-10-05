@@ -6,52 +6,62 @@ aliases: ["Zach", "Clingan"]
 status: stable
 knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-09-12
+date_modified: 2026-10-05
 date_range_start: 2009-10-06
 date_range_end: 2018-12-09
+tier: major
+importance: 4
 sources:
+  - kb/data/0162-zach-clingan-drug-use-origin-disambiguation.md
+  - kb/data/1213-zach-clingan-caddie-yard-supply-inversion.md
+  - kb/data/shumar-clingan-timing-separation-2015-12.md
+  - kb/data/danfranksgiving-2015-11-25.md
+  - raw/people/captures/2026-08-27_222932_gap-alexis-armel.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/imessage/messages-part1-2011-2019.csv — Annie-thread rows cited via wiki/people/steve-kezmarsky.md (2018-01-19 list; 2018-12-09 Jim Shaffer thread)
+  - raw/messenger-drive-2026-09-12/messenger_drive_canonical.jsonl — Tom Maison thread, 2014-04-21
   - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/dan tom 2010 2022.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/stephanienalbone_tnsgkur3lq/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/facebook/facebook-ihatedanfrank/messages/inbox/tommaison_z_scvtnccq/message_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/facebook/facebook-ihatedanfrank/other_personal_information/your_address_books.html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
-  - raw/people/captures/2026-08-27_222932_gap-alexis-armel.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [uniontown-era, digital-footprint, career, relationships]
 infobox:
   name: "Zach Clingan"
   sex: male
   location: uniontown
   relationship_to_dan: acquaintance
-  role: "caddie, Nemacolin Woodlands"
+  role: "Uniontown acquaintance; Annie's ex"
   first_contact: 2009-10-06
   handles: ["+1413***0339", "+1724***0771"]
-  known_for: "a Christmas 2009 driveway accusation that ended the friendship on the spot, and the nine-year Uniontown acquaintance that followed it — an earlier pass filed under the wrong surname"
+  known_for: "a Christmas 2009 driveway accusation that ended the friendship on the spot; named by Dan on 2015-12-09 as the person who introduced him to drugs"
 connections:
   - page: wiki/people/alexis-armel
     type: co-occurs
     claim: "A Christmas 2009 party at Suz's house is the dated origin of the rupture every later appearance of Clingan assumes: an accusation that Alexis had been sexually involved with him in his car outside the party, which Dan says he can never resolve either way."
   - page: wiki/timeline/annie-record
     type: evidenced-by
-    claim: "Dan names Clingan in real time as the origin of his drug use — \"THAT is who introduced me to drugs\" (2015-12-09) — which places him earlier on the supply chain than any node the network page tracks, and his warning to Annie the same day is the first documented use of the switch against her by a third party. [CORRECTED 2026-09-12: the 'first documented use' clause is withdrawn — Zac Shumar used the switch against Annie on 2015-12-06, three days earlier; see wiki/people/zac-shumar.md. Clingan's is the second documented instance, and the first delivered as a direct warning to Annie.]"
+    claim: "Dan names Clingan in real time as the origin of his drug use — \"THAT is who introduced me to drugs\" (2015-12-09), the earliest point on the supply chain — and Clingan's warning to Annie that day is the second documented third-party use of the switch, and the first delivered as a direct warning to her. [CORRECTED 2026-09-12: the 'first documented use' clause is withdrawn — Zac Shumar used it on 2015-12-06; see wiki/people/zac-shumar.md.]"
   - page: wiki/people/zachariah-harshman
     type: mirrors
-    claim: "Two contemporaneous Uniontown Zachs whose contact records a phone-book merge fused: Harshman supplied Dan in 2014–15 out of the Virginia Avenue house, Clingan bought from him in the 2017 caddie yard, and the supply direction inverts between them."
+    claim: "Two contemporaneous Uniontown Zachs whose contact records a phone-book merge fused: Harshman supplied Dan in 2014–15, and the supply direction between the two men was never established on name-grounded evidence. [CORRECTED 2026-09-12: the earlier 'Clingan bought from Harshman in the 2017 caddie yard' reading described the detached 843 thread; see wiki/people/zach-unidentified-843.]"
   - page: wiki/work/nemacolin-caddying
     type: component-of
-    claim: "The entire iMessage thread runs on the caddie yard's clock — report times, getting cut, two-bag rounds, the end-of-season bonfire, and the next April's opening-day ping — which makes Clingan a previously undocumented member of the yard cohort. [CORRECTED 2026-09-12: the thread is not Clingan's; attribution withdrawn, analysis moved to wiki/people/zach-unidentified-843.]"
-  - page: wiki/mind/synthesis/supply-network
-    type: evidences
-    claim: "The 2017 exchanges run the other way from every other node on the network page: Dan holds the edibles, the chocolate kush and the leaf, and Clingan is the one asking, which is the corpus's clearest evidence that within the caddie yard Dan was the seller. [CORRECTED 2026-09-12: the counterpart asking is not Clingan; see wiki/people/zach-unidentified-843.]"
+    claim: "An iMessage thread running on the caddie yard's clock once made Clingan a previously undocumented member of the yard cohort. [CORRECTED 2026-09-12: attribution withdrawn — the thread is not Clingan's; analysis moved to wiki/people/zach-unidentified-843.]"
   - page: wiki/people/tom
     type: evidenced-by
     claim: "Tom's April 2014 thread supplies the only third-party characterisation Clingan has — jointly classed with Steve Kezmarsky as 'drug people' who are 'assholes,' against Dan and Tom's own self-exemption from the second half of that pairing."
   - page: wiki/people/steve-kezmarsky
     type: co-occurs
-    claim: "Kezmarsky and Clingan are named in the same 2014 sentence as one social category, and both later surface around the Nemacolin caddie yard."
+    claim: "Kezmarsky and Clingan are named in one April 2014 sentence as a single social category ('drug people' and 'assholes'), appear together on Dan's 2018-01-19 exceptions list of people Annie must not be with, and recur in the same uncorroborated December 2018 insult."
+  - page: wiki/mind/synthesis/self-deprecation-shield
+    type: instance-of
+    claim: "Dan's naming of Clingan as the origin of his drug use is the origin-story case for the lineage form of the self-own: placing himself on a chain that starts with someone else makes the flaw inherited rather than chosen."
   - page: wiki/mind/concepts/contact-gini
     type: instance-of
-    claim: "Forty-one messages across nine calendar years, concentrated almost entirely into one autumn, is the shape of the long tail the Gini measures — a real nine-year acquaintance that the message record renders as a single spike."
+    claim: "A nine-year acquaintance the corpus renders as a handful of name-grounded traces — the shape of the long tail the Gini measures. [CORRECTED 2026-09-12: the '41 messages, one autumn' figure described the detached thread, not Clingan.]"
+changelog:
+  - "2026-10-05: Expanded to major tier; restructured to canonical template v1; added 2018-01-19 exceptions list, 2018-12-09 Jim Shaffer insult, Dec-1-2015 blue-moon attribution conflict, full Dec 9 timeline, and the lineage reading; removed one address string per hard address rule."
 ---
 
 # Zach Clingan
@@ -60,42 +70,23 @@ Zach Clingan is a Uniontown acquaintance who appears in Dan Frank's record
 across nine years and three unconnected registers: as the punchline of a
 2009 joke about dishonesty, as half of a two-man category Dan and
 [[wiki/people/tom|Tom]] invented in 2014 to describe people they liked less
-than themselves, and as a fellow caddie at Nemacolin in the autumn of 2017,
-trading weed and report times in the tail of a season. He was never close.
-He was, for that autumn, around every day.
+than themselves, and as the person Dan names — in real time, unprompted —
+as the origin of his drug use on December 9, 2015. He was never close. His
+whole recorded existence is as a mirror Dan holds up to himself.
 
-> **CORRECTED [2026-09-12]:** The third register named above — "a fellow caddie at Nemacolin in the autumn of 2017, trading weed and report times" — is withdrawn. On 2026-09-12 Dan testified that his Clingan ended on December 9, 2015 ("never heard from him again") and that the friendly 2017–18 caddie-season thread cannot be his Clingan; the +1843…3264 attribution was contact-export inference and is withdrawn. The thread analysis is preserved at [[wiki/people/zach-unidentified-843]], re-anchored to the unattributed bare "Zach." What remains on this page is name-grounded: the 2009 joke, the 2014 taxonomy, and the December 2015 intervention, plus about-references through 2018.
+The corpus contains no direct message thread between Dan and Clingan. He
+enters the record as a topic (2009, 2014), crosses it once as a participant
+(the December 9, 2015 intervention, reaching Dan through Annie's relay and a
+phone call Dan makes within the hour), and survives as about-references
+through 2018 — a name on exception lists, a story in a barroom insult, a
+possible sighting.
 
-This page previously existed under the name **Zach Harshman**, built on
-twenty-two received messages and a surname it did not have evidence for. The
-surname was wrong, the message count was wrong, the stated direction of the
-thread was wrong, and the real Zach Harshman already had a page of his own.
-Correcting all four is most of what this entry now contains.
-
-> **CORRECTED [2026-08-08]:** The handle `+18439903264` does not belong to
-> Zachariah Harshman. Two independent contact exports separate the two men
-> cleanly, and their number sets do not overlap at any point.
-
-| Source | Zach Clingan | Zach Harshman |
-|---|---|---|
-| Facebook address book | +1413…0339, +1724…0771 | +1412…3533, +1617…4273 |
-| Google Contacts | +1413…0339, +1724…0771, **+1843…3264** | (724) 322-1572, +1617…4273, SMASHED763@GMAIL.COM |
-
-The join is the 413 number. Google Contacts holds two records for this
-person — one bare "Zach" carrying 413 and 843, and one "Zach Clingan"
-carrying 413, 724 and 843 — which is the signature of a merge; Facebook,
-which never saw the 843 number, independently attaches the 413 number to
-Clingan and nothing else. Harshman's numbers appear in neither the iMessage
-dump nor this thread. The identification is therefore an inference rather
-than a signature, but it is a three-source inference with no contrary
-evidence, and the alternative — that the 843 number belongs to a third
-unnamed Zach — requires a person the address books do not contain. The
-earlier page's own Gaps section had flagged the surname as "an earlier
-analyst's resolution, not a confirmed fact." It was right to, and the
-resolution it doubted was wrong. Zachariah Harshman's real record is at
-[[wiki/people/zachariah-harshman]] and is untouched by this.
-
-> **CORRECTED [2026-09-12]:** The "no contrary evidence" defense above is superseded. Dan's 2026-09-12 testimony ("never heard from him again" after 2015-12-09, and the thread's friendly tone rules out his Clingan) is contrary evidence, and the "third unnamed Zach" the paragraph dismisses is exactly what the address books contain — Google's bare-"Zach" 413+843 record and the IG synced contacts' bare "Zach" = 8439903264. The 843 number is withdrawn from Clingan; see [[wiki/people/zach-unidentified-843]].
+This is what makes him load-bearing despite the thinness. The supply network
+traces nodes forward from 2014; Clingan is the earliest point on that chain
+and he is a person, not a supplier relationship. The self-deprecation
+synthesis reads the naming as the origin case of its lineage form: Dan
+placing himself on a chain that starts with someone else, making the flaw
+inherited rather than chosen.
 
 ## 2009: the faun
 
@@ -106,7 +97,7 @@ reports that he is "trying to not imagine zach clingan as the creepy faun.
 they both lie about shit, so there's a literal connection too heh? heh?
 heh?"
 
-It is a throwaway line, and it does two things a throwaway line rarely does.
+It is a throwaway line that does two things a throwaway line rarely does.
 It establishes that Clingan was a fixed enough figure in the Uniontown
 social layer to be a reference point from a thousand miles away during the
 Full Sail year, and it fixes his single most durable attribute in Dan's
@@ -115,26 +106,24 @@ five years before the only other third-party assessment the corpus holds.
 
 ## Christmas 2009: the driveway accusation, and the end of the friendship
 
-**GAP CLOSED [2026-08-28] — the page had documented that Clingan became an
-enemy, but never why.** The 2014 "drug people" taxonomy and the December
-2015 "my arch rival" outburst (below) both assume a rupture the corpus had
-never actually recorded. A 2026-08-27 operator capture
-(`raw/people/captures/2026-08-27_222932_gap-alexis-armel.md`) supplies it,
-roughly ten weeks after the October 6 line above.
+A 2026-08-27 operator capture
+(`raw/people/captures/2026-08-27_222932_gap-alexis-armel.md`) supplies the
+rupture this page once assumed but had never recorded, ten weeks
+after the October 6 line above.
 
 Dan and [[wiki/people/alexis-armel|Alexis]] — two months into the
 relationship — drove home to Pennsylvania for Christmas. The visit opened
-with a small party at Suz's house, 337 Saratoga, that Dan names directly as
-**"the last time he and I would interact as friends and immediately before I
-would treat him as my arch enemy."** During the party, when a fight broke
-out between them, Clingan claimed that Alexis had performed oral sex on him
-in his car in the driveway outside. Dan's own assessment, recorded in the
-same capture: *"We will never know the truth and I can't tell you I think
-one is more likely than another."* The friendship did not survive the
-accusation regardless of whether it was true, and the corpus's next two
-appearances of Clingan — the 2014 "drug people" verdict and the 2015 "my
-arch rival" reaction — are downstream of this one unresolved claim rather
-than of anything documented between the two men directly.
+with a small party at Suz's house that Dan names directly as **"the last
+time he and I would interact as friends and immediately before I would
+treat him as my arch enemy."** During the party, when a fight broke out
+between them, Clingan claimed that Alexis had performed oral sex on him in
+his car in the driveway outside. Dan's own assessment, recorded in the same
+capture: *"We will never know the truth and I can't tell you I think one is
+more likely than another."* The friendship did not survive the accusation
+regardless of whether it was true, and the corpus's next two appearances of
+Clingan — the 2014 "drug people" verdict and the 2015 "my arch rival"
+reaction — are downstream of this one unresolved claim rather than of
+anything documented between the two men directly.
 
 ## 2014: "drug people"
 
@@ -158,20 +147,26 @@ sorts people is vertical-versus-lateral trust; this is a lateral sort, and
 its criterion is neither competence nor closeness but a judgement about
 character that he applies to himself first.
 
+The same exchange records one of the only biographical facts Clingan gets
+anywhere in the corpus: by April 2014 he already had a child — *"so does
+kezmarsky btw."*
+
 ## December 2015: "THAT is who introduced me to drugs"
 
-Between the 2014 taxonomy and the 2017 caddie season sits an appearance
-nothing on this page previously recorded, recovered from the hand-read of the
-Annie corpus ([[wiki/timeline/annie-record]]). It carries the single most
-load-bearing sentence about Clingan anywhere in the wiki.
+It carries the single most load-bearing sentence about Clingan anywhere in the wiki — recovered from the hand-read of the Annie corpus ([[wiki/timeline/annie-record]]).
 
-Clingan is one of [[wiki/people/annie-ulmer|Annie's]] exes. On **2015-12-09**,
-eleven days after the switch, he texts her — *"Zach clingan just texted me
-saying 'I have to talk to you'"* (15:17). Dan's reaction is immediate and
-disproportionate to a rival's phone call — six years disproportionate, once
-the Christmas 2009 driveway accusation above is on the record — *"My arch
-rival / Glad he's in the mix too"*, then *"Literally makes me want to puke.
-**THAT is who introduced me to drugs**"* (15:19–15:20).
+Clingan is one of [[wiki/people/annie-ulmer|Annie's]] exes. The day holds at
+a fine grain, and the fine grain is the evidence:
+
+- **~15:17–15:18** — Annie relays: *"Issue / Zach clingan just texted me saying 'I have to talk to you' / And said he's going to call me."* She names him herself, which is what separates this from every bare-"Zach" row in the corpus.
+- **15:18–15:20** — Dan: *"Oh good / My arch rival / Glad he's in the mix too"* … *"WHY can't we be left alone / Fuck / Literally makes me want to puke. **THAT is who introduced me to drugs**."* The corpus stores the last line at 2015-12-09 20:20:50 UTC outbound, matching the Eastern display exactly once the five-hour offset is accounted for ([[kb/data/0162-zach-clingan-drug-use-origin-disambiguation.md]]).
+- **15:37–15:38** — Dan confronts him within the hour: *"I just talked to him / Told him he doesn't know me and to stay the fuck out of my life / And to not threaten you."* This is the only direct Dan–Clingan contact the corpus preserves — a phone call described after the fact.
+- **15:38–15:39** — Zach calls Annie directly: *"have you lost your damn mind / And to keep my eyes open"* (15:38–15:39), followed by the warning that makes it an intervention rather than jealousy:
+
+> *"he had his ex move out and you were there the next day. That makes you look*
+> *like shit and he's going to treat you like it"* (15:39)
+
+- **~15:45** — Dan sends Clingan a picture — the thread's own implication is a middle finger — with *"He's knows EXACtly what's going to happen but has no clue who would do it?"* (15:46). The open-questions ledger keeps the item as question 10 — *"What is Zach Clingan's threat?"* — because what passed between the two men on the phone at 15:37 is not in the corpus.
 
 That line reframes the whole page. Everywhere else Clingan is a fixed point in
 a moral taxonomy — one of the "drug people" Dan uses to locate himself and
@@ -182,57 +177,90 @@ responsible for starting him: applying "drug people" to himself in the same
 breath is not only self-deprecation, it is a claim about lineage.
 [[wiki/mind/synthesis/supply-network]] traces the succession of nodes forward
 from 2014; this is the earliest point on that chain and it is a person, not a
-supplier relationship.
+supplier relationship. The [[wiki/mind/synthesis/self-deprecation-shield]]
+entry builds its fifth function on it: the self-own doing genealogical work,
+moving the flaw into the past tense at the moment of naming it.
 
-Clingan then calls Annie directly: *"have you lost your damn mind / And to keep
-my eyes open"* (15:38–15:39), followed by the warning that makes it an
-intervention rather than jealousy:
+The week around the intervention also fixes Clingan's place in a sequence.
+Three days earlier, on December 6, [[wiki/people/zac-shumar|Zac Shumar]] used
+the switch against Annie in an argument with Dan — *"you bail on lex and
+jump on Annie"* — and Clingan's December 9 intervention is the second
+documented instance, and the first delivered as a direct warning to Annie
+herself ([[kb/data/shumar-clingan-timing-separation-2015-12.md]];
+[[wiki/mind/synthesis/bond-switch-2015]]). The timestamps refute the earlier
+brief that folded both into one afternoon: Shumar on the 6th, Clingan on
+the 9th, the message flood beginning on the 10th. Dan testified on
+2026-09-12 that his Clingan ended the same day — "never heard from him
+again."
 
-> *"he had his ex move out and you were there the next day. That makes you look*
-> *like shit and he's going to treat you like it"* (15:39)
+## After December 2015: the name outlives the contact
 
-This is **the first documented instance of the switch being used against Annie
-by a third party**, and an outsider independently reading the same
-twenty-four-hour sequence [[wiki/mind/synthesis/bond-switch-2015]]
-reconstructs — arriving at a prediction about Dan's future conduct rather than
-a chronology. Dan confronts him within the hour: *"I just talked to him / Told
-him he doesn't know me and to stay the fuck out of my life / And to not threaten
-you"* (15:37–15:38), and sends him a photograph understood to be an obscene
-gesture. The content of Clingan's side of that call is not in the corpus.
+Dan's 2026-09-12 testimony (above) puts the last contact on the day of the
+intervention itself. Everything that follows is about-references — and the
+about-references keep Clingan in the same company, three years running:
 
-> **CORRECTED [2026-09-12]:** The "first documented instance" claim above is wrong. [[wiki/people/zac-shumar|Zac Shumar]] used the switch against Annie three days earlier, on **2015-12-06** — *"you bail on lex and jump on Annie"* — in an argument with Dan; see [[wiki/mind/synthesis/bond-switch-2015]] ("A third party names the switch, December 6") and [[wiki/people/zac-shumar]]. Clingan's December 9 intervention is the second documented instance, and the first delivered as a direct warning to Annie.
+- **2016-01-07** — Dan's "never looked back," the first dated post-contact trace, already recorded on this page.
+- **2018-01-19** — Three days before the arrest, Dan writes Annie a clarification about the rules he claims to be offering her. He is serious about letting her be with other people, he says, but *"the Steve stuff is just fun dirty talk on my end"* because *"there is sooooo000oOooo much bad blood and history there."* He then lists the exceptions — *"Ex boyfriends / Zach Clingan/Steve Kezmarsky / Coworkers / Drug dealers"* (Annie thread, 00:47–00:55 ET) — the names Annie must not touch. The list moves within two weeks (the Feb 1–11 Steve negotiation); Clingan stays filed beside Kezmarsky, where the 2014 taxonomy put him.
+- **2018-10-23** — Annie: "Call Zach clingan" — the second of the two about-references this page already held.
+- **2018-12-09** — A Thanksgiving-week sighting, and in the Jim Shaffer conversation that same day (12:01–12:02 ET) Dan repeats a derogatory, drug-related story about Clingan that he says also involved Steve. It is uncorroborated and not repeated here — the last dated trace the corpus holds of the name.
 
-> **DISAMBIGUATION [2026-08-17]:** A synthesis pass attributed these messages
-> to [[wiki/people/zachariah-harshman|Zachariah Harshman]] — the same two-Zachs
-> collision this page already documents, running in the opposite direction from
-> the phone-book merge that once gave Harshman's surname to Clingan's messages.
-> The record names *"Zach clingan"* explicitly here, and Harshman appears
-> nowhere in Annie's inbound traffic. Any pass reading the Annie corpus should
-> treat a bare "Zach" as ambiguous until the entity ledger resolves it.
+The Dec 1, 2015 "blue moon" row belongs to this section's footnotes, not its
+facts. On the day Alexis moves out, Dan writes *"Zach has to take lex to
+blue moon"* — a bare "Zach" that [[wiki/people/alexis-armel]] and the master
+timeline file under Clingan, and that the [[kb/data/danfranksgiving-2015-11-25.md]]
+datum assigns to Harshman (the other Zach was active the same week — Nov 29:
+*"Things are collapsing with lex"*). A bare "Zach" is ambiguous until the
+entity ledger resolves it, and it does not. See
+[Conflicts in the record](#conflicts-in-the-record).
 
-## 2017–18: one caddie season
+## Conflicts in the record
 
-> **CORRECTED [2026-09-12] — attribution withdrawn.** The 41-message iMessage thread this section described (September 27, 2017 – April 13, 2018, +1843…3264) is **not** Zach Clingan. On 2026-09-12 Dan testified that his Clingan ended on December 9, 2015 — "never heard from him again" — and that the thread's friendly, yard-casual tone cannot be the man of the 2009 driveway accusation and the 2015 intervention. The attribution rested on a contact-export inference (Google's bare-"Zach" 413+843 record joined to its "Zach Clingan" 413+724+843 record via the shared 413 number); no message in the thread names the counterpart. The thread analysis is preserved in full at [[wiki/people/zach-unidentified-843]], re-anchored to the unattributed bare "Zach" the IG synced contacts and Google bare-"Zach" record support. The +1843…3264 handle has been removed from this page's infobox.
+- **2026-08-08 — the 843 number is not Harshman's.** Two independent contact exports separate the two men cleanly; their number sets do not overlap. (Facebook address book: Clingan +1413…0339, +1724…0771; Harshman +1412…3533, +1617…4273. Google Contacts adds +1843…3264 to a "Zach Clingan" record and a bare-"Zach" record alike.)
+- **2026-08-17 — the December 9 texts are Clingan's, not Harshman's.** A synthesis pass had attributed the intervention to [[wiki/people/zachariah-harshman|Zachariah Harshman]] — the same two-Zachs collision, running in the opposite direction from the phone-book merge that once gave Harshman's surname to Clingan's messages. The record names *"Zach clingan"* explicitly (Annie's relay, 15:17–15:18), and Harshman appears nowhere in Annie's inbound traffic. Any pass reading the Annie corpus should treat a bare "Zach" as ambiguous until the entity ledger resolves it.
+- **2026-09-12 — the 843 attribution is withdrawn.** Dan testified in session that his Clingan ended on December 9, 2015 ("never heard from him again") and that the friendly, yard-casual tone of the 2017–18 caddie-season thread cannot be the man of the 2009 driveway accusation and the 2015 intervention. The contact-export inference that joined the bare-"Zach" 413+843 record to the "Zach Clingan" 413+724+843 record via the shared 413 number is superseded — testimony is contrary evidence — and the bare "Zach" the IG synced contacts carry is where the 843 number now lives. The thread analysis is preserved in full at [[wiki/people/zach-unidentified-843]].
+- **2026-09-12 — the "first documented use of the switch by a third party" claim is withdrawn.** [[wiki/people/zac-shumar|Zac Shumar]] used the switch against Annie three days earlier, on **2015-12-06** — *"you bail on lex and jump on Annie"* — in an argument with Dan; see [[wiki/mind/synthesis/bond-switch-2015]] ("A third party names the switch, December 6") and [[wiki/people/zac-shumar]]. Clingan's December 9 intervention is the second documented instance, and the first delivered as a direct warning to Annie.
+- **2026-10-05 — the Dec 1, 2015 "blue moon" attribution is unresolved.** *"Zach has to take lex to blue moon"* is filed under Clingan by [[wiki/people/alexis-armel]] and the master timeline, and under Harshman by the [[kb/data/danfranksgiving-2015-11-25.md]] datum. Standing rule: a bare "Zach" is ambiguous until the entity ledger resolves it. This page does not resolve it.
 
-## Corpus record
+## Assessment
 
-> **CORRECTED [2026-09-12]:** The iMessage metrics previously in this section (41 messages, September 27, 2017 – April 13, 2018, +1843…3264) described the detached caddie-season thread and have moved with it to [[wiki/people/zach-unidentified-843]]. Clingan's remaining corpus record is name-grounded: the October 6, 2009 message about him, the April 2014 Tom thread, the December 2015 intervention, Dan's 2016-01-07 "never looked back," Annie's 2018-10-23 "Call Zach clingan," and Dan's 2018-12-09 Thanksgiving sighting — about-references only, no contact after December 9, 2015.
+Clingan is the thinnest person on the Uniontown roster to carry this much
+weight, and the disproportion is the point. The corpus has no direct
+Dan–Clingan correspondence, no occupation, no voice of his own — his side of
+the 2009 accusation, the 2014 verdict, and the 2015 phone call is unrecorded
+at every event. What the corpus has is Dan's repeated use of him as a
+measuring instrument: the 2009 "he lies" fixed point, the 2014 "drug people"
+taxonomy in which Clingan is the bad term Dan needs in order to place
+himself, the 2015 origin naming in which the flaw becomes lineage, and the
+2018 exceptions list in which he is still, three years after last contact,
+the name beside the forbidden one.
 
-## Gaps
+Both survive. The lineage reading ([[wiki/mind/synthesis/self-deprecation-shield]]): naming the origin moves the flaw into the past tense — inherited, described, not answered for. The taxonomy reading: Dan needs a "drug people" he can also call "assholes" but not "shitty," and then needs himself inside the first two terms and outside the third. Neither reading requires Clingan to be anyone in particular, and the record never shows him acting on Dan — only Dan acting with Clingan's name. The one exception is the December 9 warning to Annie, the one hour he moves under his own power, and even there the corpus preserves only what passed through other people's phones.
 
-The surname identification rests on the contact-export chain above rather
-than on any message in which he is named alongside the 843 number; a single
-message addressing him by name would close it, and none exists. What he did
-outside the caddie yard is unrecorded — the thread has him driving down from
-IUP, heading to southern West Virginia, and stopping on I-79, but no
-occupation, and no page in the corpus places him after April 2018. The 843
-area code, which is coastal South Carolina, is unexplained for a Uniontown
-contact. And whether the 2014 "drug people" verdict and the 2017 selling
-relationship are connected — whether Dan was still holding the 2009 and 2014
-opinions while fronting him gummies on the yard — is exactly the question
-the record cannot answer, because the two registers never touch each other
-in a single message.
+## See also
 
-> **CORRECTED [2026-09-12]:** The gap statements above from "What he did outside the caddie yard" onward described the detached 843 thread, not Clingan; they now live at [[wiki/people/zach-unidentified-843]]. For Clingan himself the remaining gap is simpler: everything after December 9, 2015 is about-references (2016-01-07, 2018-10-23, 2018-12-09), and his own side of every event — 2009, 2014, 2015 — is unrecorded.
+- [[wiki/people/zachariah-harshman]] — the other Uniontown Zach; the phone-book merge and the opposite-direction disambiguation
+- [[wiki/people/zach-unidentified-843]] — the 2017–18 caddie-season thread formerly attributed here
+- [[wiki/people/alexis-armel]] — the driveway accusation; the ambiguous Dec 1 move-out row
+- [[wiki/people/zac-shumar]] — the Dec 6, 2015 switch-naming preceding Clingan's Dec 9 intervention
+- [[wiki/people/steve-kezmarsky]] — the paired fixed point of the 2014 taxonomy, the 2018 exceptions list, and the 2018 insult
+- [[wiki/people/tom]] — the April 2014 thread with the only third-party characterisation
+- [[wiki/mind/synthesis/supply-network]] — Clingan as the earliest point on the chain
+- [[wiki/mind/synthesis/self-deprecation-shield]] — the lineage form of the self-own, built on the Dec 9 naming
+- [[wiki/mind/synthesis/bond-switch-2015]] — the switch's use against Annie by third parties
+- [[wiki/timeline/annie-record]] — the full Dec 9, 2015 timeline
 
+## References
 
+- `kb/data/0162-zach-clingan-drug-use-origin-disambiguation.md` — Dec 9, 2015 disambiguation and the origin quote, timestamp-verified
+- `kb/data/1213-zach-clingan-caddie-yard-supply-inversion.md` — the 2018-01-19 exceptions-list citation; its 2017-thread claim is superseded by the 2026-09-12 withdrawal
+- `kb/data/shumar-clingan-timing-separation-2015-12.md` — Shumar Dec 6 / Clingan Dec 9 separation by timestamp
+- `kb/data/danfranksgiving-2015-11-25.md` — the Harshman reading of the Dec 1 "blue moon" row
+- `raw/people/captures/2026-08-27_222932_gap-alexis-armel.md` — the Christmas 2009 driveway accusation (operator-captured testimony)
+- `raw/imessage/messages-part1-2011-2019.csv` — Annie-thread rows cited via wiki/people/steve-kezmarsky.md (2018-01-19 list; 2018-12-09 Jim Shaffer thread)
+- `raw/messenger-drive-2026-09-12/messenger_drive_canonical.jsonl` — Tom Maison thread, 2014-04-21
+- `raw/self/dox-scan/all_imessages_complete_dump.txt` — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- `raw/self/dox-scan/dan tom 2010 2022.txt` — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- `raw/self/facebook/facebook-ihatedanfrank/messages/inbox/stephanienalbone_tnsgkur3lq/message_1.html` — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- `raw/self/facebook/facebook-ihatedanfrank/messages/inbox/tommaison_z_scvtnccq/message_1.html` — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- `raw/self/facebook/facebook-ihatedanfrank/other_personal_information/your_address_books.html` — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- `raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv` — ⚠ Source reference unresolved — original target no longer exists in current corpus.
