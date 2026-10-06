@@ -5,8 +5,9 @@ title: "INTP — The Cognitive Function Stack"
 aliases: ["Ti-Ne-Si-Fe", "cognitive functions"]
 status: stable
 importance: high
+tier: major
 date_created: 2026-07-13
-date_modified: 2026-09-15
+date_modified: 2026-10-06
 sources:
   - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -115,6 +116,8 @@ connections:
   - page: wiki/interests/favorites/eclecticism
     type: evidences
     claim: "The dual architecture of the favorites CSV is this stack on leisure: auxiliary Ne keeps three music clusters live in parallel, dominant Ti closes observational sets through unique witnesses, and those opposite operations share a one-creator-per-entry surface that was misread as range."
+changelog:
+  - 2026-10-06 — Restructured to canonical template v1
 ---
 
 # INTP — The Cognitive Function Stack
@@ -228,24 +231,6 @@ even that one exception is a **binary flip** (wrong → fair) rather than a
 graded middle ("partly fair"): the gate moved, but a gate is still what it
 is.
 
-## Two vocabularies, one profile [2026-09-15, work-0020]
-
-Everything on this page — Ti-dominance and weak Fe, systematizing over
-relating, bottom-percentile sociability, explicit over inferred meaning —
-is the same measured shape the autism page describes in a clinical
-vocabulary ([[wiki/mind/concepts/autism]]): the explicit-over-inferred
-processing filter, the rule-based bond, the social cost as one mechanism
-with the forensic accuracy. The autism page keeps this INTP read as the
-most parsimonious alternative to its own framing, because the traits
-either label claims are the same traits measured here, and neither was
-checked against the other before both were accepted. The discriminating
-test the corpus cannot run — sensory and childhood-developmental evidence,
-which the autism framing predicts and the INTP framing is silent on — has
-not been located (dat:0940). Until it is, "autism" stays on that page
-because it is Dan's word for the architecture, not because the
-instruments voted for it; this page keeps "INTP" because the function
-scores are measured, not because the type explains the rest.
-
 ## The stack as one machine
 
 Run together, the functions produce the behavioral record with uncomfortable
@@ -266,9 +251,71 @@ Taxi Driver / King of Comedy self-portrait pair in his
 [[wiki/interests/film-canon|film canon]] pick out the same figure in
 history and cinema.
 
-**Gaps:** function scores are AI-inferred from corpus behavior, not from a
+## Two vocabularies, one profile [2026-09-15, work-0020]
+
+Everything on this page — Ti-dominance and weak Fe, systematizing over
+relating, bottom-percentile sociability, explicit over inferred meaning —
+is the same measured shape the autism page describes in a clinical
+vocabulary ([[wiki/mind/concepts/autism]]): the explicit-over-inferred
+processing filter, the rule-based bond, the social cost as one mechanism
+with the forensic accuracy. The autism page keeps this INTP read as the
+most parsimonious alternative to its own framing, because the traits
+either label claims are the same traits measured here, and neither was
+checked against the other before both were accepted. The discriminating
+test the corpus cannot run — sensory and childhood-developmental evidence,
+which the autism framing predicts and the INTP framing is silent on — has
+not been located (dat:0940). Until it is, "autism" stays on that page
+because it is Dan's word for the architecture, not because the
+instruments voted for it; this page keeps "INTP" because the function
+scores are measured, not because the type explains the rest.
+
+## See also
+
+- [[wiki/mind/profile/index]]
+- [[wiki/mind/profile/enneagram-5w4]]
+- [[wiki/mind/profile/neurodivergence]]
+- [[wiki/mind/concepts/explicit-verbal-commitment]]
+- [[wiki/mind/concepts/no-delete-operation]]
+- [[wiki/mind/concepts/autism]]
+- [[wiki/mind/concepts/forensic-method]]
+- [[wiki/mind/concepts/conflict-architecture]]
+- [[wiki/mind/concepts/phenomenology-lens]]
+- [[wiki/mind/politics/axioms]]
+- [[wiki/mind/psychosexual/taboo-and-boundary-testing]]
+- [[wiki/mind/synthesis/the-commissioned-self]]
+- [[wiki/mind/synthesis/the-cato-seat]]
+- [[wiki/mind/synthesis/the-binary-verdict]]
+- [[wiki/mind/synthesis/the-deferred-audit]]
+- [[wiki/mind/synthesis/totality-themes]]
+- [[wiki/mind/synthesis/the-embedded-objective]]
+- [[wiki/mind/synthesis/dormancy-not-exit]]
+- [[wiki/mind/synthesis/supply-network]]
+- [[wiki/mind/synthesis/alias-as-periodization]]
+- [[wiki/mind/synthesis/music-as-identity]]
+- [[wiki/mind/synthesis/instrument-is-subject]]
+- [[wiki/mind/synthesis/attachment-trauma-bond]]
+- [[wiki/mind/synthesis/dan-annie-fallout-verdict]]
+- [[wiki/mind/synthesis/block-unblock-loop]]
+- [[wiki/mind/synthesis/august-grievance-verdict]]
+- [[wiki/mind/synthesis/the-rescue-premise]]
+- [[wiki/mind/synthesis/morgantown-call-three-participant-ethical-analysis]]
+- [[wiki/mind/synthesis/fayette-return]]
+- [[wiki/interests/roman-republic]]
+- [[wiki/interests/film-canon]]
+- [[wiki/interests/food-and-diet]]
+- [[wiki/interests/favorites/eclecticism]]
+- [[wiki/people/elizabeth-eleanor]]
+- [[wiki/people/ally-lubin]]
+- [[wiki/timeline/periods/2021-2023-employment-block]]
+- [[wiki/places/the-unpapered-address]]
+
+## References
+
+- `raw/self/dox-md/FULL PROFILE 2026.md` — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- `raw/self/dox-scan/Dan Profile.txt` — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- `raw/self/context-core/CONTEXT_CORE_EXPANDED.md` — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+
+**Limits.** Function scores are AI-inferred from corpus behavior, not from a
 proctored instrument; the Ni measurement in particular has no independent
 confirmation; no data on how the stack presents post-closure (all sources
 pre-date June 2026).
-
-
