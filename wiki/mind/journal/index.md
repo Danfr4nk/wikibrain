@@ -5,7 +5,7 @@ title: "Idea Journal"
 aliases: ["idea journal", "the journal"]
 status: active
 date_created: 2026-10-03
-date_modified: 2026-10-05
+date_modified: 2026-10-06
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -129,3 +129,25 @@ cannot show its stages has not been cross-checked.
   subject continues until an external terminating statement lands,
   delivered to the subject or received from one. One restart preserved in
   its Genesis note; passed the confidence gate.
+
+### 2026-10-06
+
+- [[wiki/mind/journal/2026-10-06-anomalies-are-the-jurisdiction|Entry 1 —
+  Anomalies Are the Jurisdiction]]: attention allocates to the
+  pattern-break, not the claim — the forensic engine fires even with no
+  adversary, no channel, and no stake, and output halts at the labeled,
+  deconfounded conclusion. Passed the confidence gate with no restarts.
+- [[wiki/mind/journal/2026-10-06-the-direction-of-distrust|Entry 2 — The
+  Direction of Distrust]]: suspicion is a directional instrument aimed
+  at vertical claims, audited at same-day latency, while chosen lateral
+  channels run audit-free with provision without paper. One Stage-2
+  formulation died and is preserved in its Genesis note.
+- [[wiki/mind/journal/2026-10-06-the-fossil-portrait|Entry 3 — The Fossil
+  Portrait]]: his stated model of his own texting inverts the measured
+  record — the portrait is a fossil of a small real 2015–19 vocabulary
+  lead frozen as identity after the lead vanished. One Stage-2 variant
+  killed, preserved in Genesis.
+- [[wiki/mind/journal/2026-10-06-the-delegated-surface|Entry 4 — The
+  Delegated Surface]]: direct social initiation holds at the audited
+  0.73x floor while his social surface runs through instruments he
+  steers in real time. One Stage-2 kill, preserved in Genesis.
