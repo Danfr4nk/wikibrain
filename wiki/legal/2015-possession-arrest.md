@@ -5,9 +5,10 @@ title: "The 2015 Possession Arrest"
 aliases: ["the real arrest", "the lemon run", "the residue bag arrest", "February 2015 arrest"]
 status: closed
 knowledge: mixed
+tier: major
 importance: high
 date_created: 2026-08-03
-date_modified: 2026-10-04
+date_modified: 2026-10-07
 date_range_start: 2015-02-17
 date_range_end: 2016-02-17
 sources:
@@ -172,6 +173,17 @@ contemporaneous message record independently describes the same manoeuvring
 without naming what it was against — "Jack had to do some wheeling and
 dealing to make it happen."
 
+A limit belongs here, stated plainly: the policy itself is thinly sourced.
+The prior wiki names no source for the categorical bar and does not name
+the DA who held it — it listed that identity under its own Gaps, so it
+knew the claim was thin and said so. That self-marking is why the
+account stays trustworthy as testimony and weak as evidence,
+simultaneously. The "wheeling and dealing" message is oblique
+corroboration that *a bar was overcome* without establishing *what the
+bar was*. The policy is Dan's storyteller voice about how his lawyer
+earned the fee; the fee's corroboration outruns the policy's.
+(kb/data/0015-old-wiki-ard-policy-bar.md)
+
 ## Case timeline
 
 The arrest and the charge filing are documented; everything from December 2015
@@ -182,11 +194,47 @@ onward is reconstructed from the message archive, which begins November 28,
 |---|---|
 | On or shortly before Feb 17, 2015 | Arrest (PA State Police, downtown Uniontown, ~3am) |
 | Feb 17–19, 2015 | Charges filed before Magisterial District Judge Michael Metros; printed in the county court blotter |
-| Dec 9–11, 2015 | Barracks trips to replace case paperwork the barracks had lost; ARD application filed |
-| Jan 20, 2016 | ARD office visit to check application status |
+| Dec 9–11, 2015 | Barracks trips to replace lost case paperwork; ARD application filed — but the contemporaneous texts label the trips "the combos incident," complicating the attribution (see Conflicts in the record) |
+| Jan 20, 2016 | ARD office visit to check application status ("And I have to go find out what is happening with my ARD"; "we're gonna get lunch and then go to the ARD office") |
 | Jan 25, 2016 | First fine installment paid ("$70 more to pay a month from now") |
 | Feb 17, 2016 | Hearing before Judge Wagner — ARD approved; remaining fines paid |
 | ~Aug 2016 | Expected end of six-month probation → expungement eligibility |
+
+**The December trips, in the texts' own words.** What the timeline calls
+barracks trips arrives in the message archive with texture. On December 9,
+Dan wrote that he had to run out "To go fix the combos incident," then
+from the state police barracks: "I'm at the state police barracks /
+Scarrrry stuff haha." Asked why, he said: "I had to pick up copies of
+that paperwork that was lost" — followed minutes later by "Fuckin
+combos" and "I learnt me lesson!" On December 11 he went back — "I am
+gonna go do my thing at barracks" — then "Got my paperwork FINALLY /
+going to get it signed," and from the barracks again: "the guy who
+helped me out with this last time when it got lost / Remembered me and
+is doing it again / He's the only person who knew I actually took care
+of this before / And might have been the one who lost my paperwork lol."
+The clerk who may have lost the paperwork was also the one who found
+it — the case's only comic grace note, and the only evidence that the
+bureaucracy involved at least one named, remembered human.
+(raw/imessage/messages-part1-2011-2019.csv)
+
+Note what the texts do *not* contain: the word ARD appears nowhere in
+the December thread. The ARD application is the timeline's
+reconstruction from the January 20 office visit ("what is happening with
+my ARD") and the February hearing. Whether the lost paperwork was this
+case's file, the Combos matter's, or both is the one unresolved
+attribution question in the timeline, and it is carried in full under
+Conflicts in the record rather than smoothed over here.
+
+**The hearing's family geometry.** The morning of February 17, 2016
+produced one of the record's cleanest small portraits of the paternal
+position a decade after the rupture: Rick talked himself out of
+attending, with *"You're obviously more comfortable with your mom."*
+The stop itself had happened within sight of Rick's store a year
+earlier; the hearing gathered the family the way a magnet gathers
+filings — Suz playing the connected parent, Rick assuming he would be
+unwelcome, Dan in the middle holding a clean-record outcome bought for
+several thousand dollars. (kb/events/2016-02-ard-granted.md, citing
+[[wiki/people/rick-frank]])
 
 **The dating, settled by primary evidence.** The blotter covers charges filed
 in Fayette and Greene counties **between February 17 and February 19**, and it
@@ -297,6 +345,76 @@ Only this one was an arrest.
 > docket number, which remains unknown: MDJS dockets are per-case, and knowing
 > the court is not knowing the case.
 
+> **TENSION [2026-10-07] — whose paperwork were the December 2015 barracks
+> trips fixing?** This page's timeline attributes the December 9 and 11,
+> 2015 trips to the state police barracks — "to replace case paperwork
+> the barracks had lost" — to this case, with the ARD application filed
+> alongside. The contemporaneous messages label them differently. On
+> December 9 Dan told Annie he had to run out "To go fix the combos
+> incident," and from the barracks that evening he explained the trip as
+> picking up "copies of that paperwork that was lost," then wrote "Fuckin
+> combos" and "I learnt me lesson!" On December 11, mid-trip, he wrote
+> simply "Because I took combos." The word ARD appears nowhere in the
+> December thread. The state-police venue cuts toward this case — the
+> arrest was by State Police, while a retail theft would more naturally
+> be a local-police matter — but the speaker's own same-day label cuts
+> the other way. It is entirely possible one trip served both files; the
+> Combos matter's paperwork was also moving through the system that
+> month, and Dan was in the habit of shorthand. What cannot be done is
+> what the timeline used to do: carry the trips for this case as if the
+> texts said so. They say the opposite. The December row now carries the
+> attribution as unresolved, which is what the record supports.
+> (raw/imessage/messages-part1-2011-2019.csv)
+
+## The evidence chain
+
+This page is built from three materials, and it is worth naming them
+because the strength of the account depends on how they fit together:
+(1) a 2026 operator capture narrating the night in detail, told ten years
+after the fact with no access to any clipping; (2) the prior wiki's
+transcription of a Fayette/Greene county court-blotter clipping, naming
+the three charges under Magisterial District Judge Michael Metros and
+giving Dan's age as 26; (3) an iMessage archive that begins November 28,
+2015 — nine months after the arrest — covering the ARD process but not
+the night. Nothing in the local evidence clone's raw/ tree holds the
+clipping itself or the arrest capture's underlying text; both are the
+prior wiki's transcriptions of things it once held.
+
+The chain runs *event → prior wiki → clipping → court*, and only the
+first link is verified here. A quotation of a document is not the
+document. What makes this the corpus's strongest legal datum anyway is
+the agreement across the decade: the charge list in the 2026 telling
+matches the blotter's exactly — possession of a controlled substance,
+possession of a small amount of marijuana, possession of drug
+paraphernalia — with no access to the clipping while telling it. (kb/data/0069-possession-arrest-night-and-blotter.md)
+
+That structure also names the single highest-value outstanding
+retrieval in this material: one Fayette County MDJS docket lookup. The
+district is known (MDJ-14-1-01) but the docket number is not — MDJS
+dockets are per-case, and knowing the court is not knowing the case.
+One lookup would convert the whole evidence base from single-source
+testimony to primary record, and would settle the breath-test
+contradiction and the Combos-interval question at the same stroke.
+(kb/events/2015-02-possession-arrest.md)
+
+**Open questions.** The exact arrest date within the days before
+February 17, 2015 is not known, nor is the arresting barracks, the
+docket number, or whether the expungement was ever completed. The
+blotter prints the charges without grading them; Dan's own telling calls
+the residue count a "class B controlled substance," which is recorded
+here as his description rather than as a documented grade. The nine
+months between the February 2015 filing and the first surviving message
+about the case in December 2015 contain the preliminary hearing and
+arraignment and are entirely undocumented. Whether the fines referenced
+in January and February 2016 belong to this case, to
+[[wiki/legal/2015-retail-theft-arrest|the Combos matter]], or to both
+running concurrently is not determinable from the message record — the
+"combos are paid off" phrasing suggests at least some of that money was
+the theft fine. The identity of the DA holding the no-ARD-for-cocaine
+policy is not named. And Dan's claim that he completed ARD "without
+incident" is the only account of the six-month probation that exists
+anywhere in the corpus.
+
 ## What it left behind
 
 Dan's own verdict is that the arrest taught him "not to take stupid chances,"
@@ -309,6 +427,32 @@ cost/benefit analysis about what you're getting from that kind of risk
 exposure." The supply architecture documented at
 [[wiki/mind/synthesis/supply-network]] continued without interruption for the
 next eleven years. What changed was the transport layer, not the appetite.
+
+## Assessment
+
+Two things are true about this page that are rarely true together, and
+both are the record's doing. First, it is the corpus's strongest legal
+datum: the only legal event in Dan's record with a contemporaneous
+third-party document behind it, a date fixed by arithmetic rather than
+recollection, and a decade-later testimony that matches the document
+charge for charge without having seen it. Second, it is the corpus's
+cleanest case study in how far testimony-plus-transcription can carry an
+event without ever becoming primary evidence: the chain runs through the
+prior wiki, the clipping is not in the local clone, and one docket
+lookup — the highest-value outstanding retrieval in this material —
+would finish the job. The page holds both readings at once because the
+record holds both at once: trustworthy as testimony, provisional as
+proof.
+
+The other asymmetry worth naming is the one
+[[wiki/mind/synthesis/the-embedded-objective]] flags: the corpus's
+densest record of *acquiring* an assigned outcome — barracks trips,
+lost paperwork, an ARD office visit, fine installments, a hearing
+before a named judge, a lawyer defeating a categorical bar — set
+against its thinnest record of *serving* one. Six months of probation
+exist in a single retrospective clause: "without incident." The event
+that scared him straight, on his own telling, scared the driver, not
+the user.
 
 ## See also
 
@@ -326,19 +470,3 @@ next eleven years. What changed was the transport layer, not the appetite.
 - raw/people/captures/2026-08-27_223406_gap-alexis-armel.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 - raw/self/message-csv/imessage_ALL_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
-
-**What the record does not establish.** The exact arrest date within the days
-before February 17, 2015 is not known, nor is the arresting barracks, the
-docket number, or whether the expungement was ever completed. The blotter
-prints the charges without grading them; Dan's own telling calls the residue
-count a "class B controlled substance," which is recorded here as his
-description rather than as a documented grade. The nine months between the
-February 2015 filing and the first surviving message about the case in December
-2015 contain the preliminary hearing and arraignment and are entirely
-undocumented. Whether the fines referenced in January and February 2016 belong
-to this case, to [[wiki/legal/2015-retail-theft-arrest|the Combos matter]], or
-to both running concurrently is not determinable from the message record — the
-"combos are paid off" phrasing suggests at least some of that money was the
-theft fine. The identity of the DA holding the no-ARD-for-cocaine policy is
-not named. And Dan's claim that he completed ARD "without incident" is the
-only account of the six-month probation that exists anywhere in the corpus.

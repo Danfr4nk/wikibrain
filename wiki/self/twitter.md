@@ -3,10 +3,13 @@ domain: self
 page_type: summary
 status: active
 date_created: 2026-06-22
-date_modified: 2026-10-04
+date_modified: 2026-10-07
 knowledge: mixed
+tier: major
+changelog:
+  - "2026-10-07: Expanded to major tier; restructured to canonical article template v1; lede rewritten story-first; contradictions consolidated into Conflicts in the record; Assessment added."
 date_range_start: 2009-10-20
-date_range_end: 2026-09-02
+date_range_end: 2026-10-07
 title: "Twitter / X (@danfrank)"
 aliases: [danfrank, "@danfrank"]
 sources:
@@ -140,14 +143,29 @@ connections:
     type: evidences
     claim: "The archive is the only contemporaneous record of that relationship in the corpus — six posts across 21-31 August 2013, a handle (@katie_efff), a geotagged afternoon and a Vine from inside the Oddball show — against a page that said everything known about her came from Dan's later AI narration."
 ---
-
 # Twitter / X Activity (@danfrank)
 
-> **Data exhibit** — The hub index of Dan's @danfrank Twitter/X archive — one page per year of retrieved originals — kept as the public record the timeline and synthesis pages cite. Working material; the conclusions live in the pages that cite it.
+Personal account **@danfrank** — bio "insufferable politics sicko", 256 followers at the June 2026 profile fetch, blue-verified — is Dan's single continuous public valve, running from September 2008 to the present. Seventeen years, one handle, and the only contemporaneous first-party record of large stretches of his adult life: the Full Sail arrival, the New York years, the production identity, the political conversion, the AI turn. The archive behind this page holds 2,741 retrieved originals, organized one wiki page per year, every retrieved original and every quote-tweet carrying his own text. Pure reposts with no @danfrank quote content are the one omitted class.
 
-Personal account **@danfrank** ("insufferable politics sicko"). The record now begins **24 September 2008** — the day Dan arrived in Winter Park for Full Sail — after a backend fetch on 2026-09-02 recovered 213 tweets the archive had never reached. This hub is the index of a text archive of his originals: one wiki page per year, every retrieved original and every quote-tweet that carries his own text. Pure reposts with no @danfrank quote content are the one omitted class.
+It is not a diary. That is the first thing the archive teaches and the last thing to keep in mind while reading any of it: when the life is happening in texts, this account thins; when the life is happening as commentary, it thickens. The two years in which most happened — 2015, the possession arrest and the rupture, and 2025, the AI turn and the founding of the work this wiki is — are the two years with least on them. The account is an output valve: politics, music, tooling, forensic curiosity, in public, at whatever volume the year allows.
 
-The operator spreadsheet (Drive: Dan Frank - Tweet Archive, filed as `raw/self/twitter/tweet-archive.xlsx`) holds 1,427 originals from 2013-08-17 through 2026-04-07 and 229 pure reposts, which are dropped. Years before the spreadsheet, the mid-August 2013 days before it starts, and 2026 after 7 April are filled from live X search and will grow as further batches are committed on this branch.
+The second thing it teaches is that the voice was finished early. The lowercase/fragment/ellipsis idiom, the lowercase register, the self-deprecating delivery — all of it is present in the 2008 and 2009 material, which is why the dated originals from 2009 onward serve as the public half of the two-corpus voice proof alongside the private message corpora.
+
+## The record and how it was assembled
+
+The archive has three layers. The **operator spreadsheet** (Drive: Dan Frank - Tweet Archive, filed as `raw/self/twitter/tweet-archive.xlsx`) holds 1,427 originals from 2013-08-17 through 2026-04-07 and 229 pure reposts, which are dropped. Years before the spreadsheet, the mid-August 2013 days before it starts, and 2026 after 7 April are filled from **live X search**, scraped in batches capped at ten results per query, and will grow as further batches are committed on this branch. The third layer is the **backend backfill of 2026-09-02** — a search-based fetch written to `raw/self/twitter/grok-backfill-2026-09-02/` — which recovered 213 tweets the archive had never reached and pushed the record's start back to 24 September 2008.
+
+The assembled archive is filed as `raw/twitter/archive.jsonl` — 2,741 rows — with five reposts set aside in `raw/twitter/reposts.jsonl` because the originals-only inclusion rule is what the yearly pages are built on.
+
+The inclusion rule: **in** every original tweet, every reply, every quote-tweet that carries Dan's own text; **out** pure reposts with no @danfrank quote content — the spreadsheet's `Repost` rows, whose text field is the other person's tweet. Old-style typed `RT @user:` lines are kept: he wrote them.
+
+Coverage is uneven by construction, and the unevenness is documented rather than smoothed over. 2009 through 2013 were assembled from the live scrape capped at ten results per month-bounded query, so January–September 2009 and much of 2010–2012 survive as clusters on the last days of each month; 2013's apparent mid-August explosion of music activity coincides with the operator spreadsheet's start date (2013-08-17) to within a week. **No claim about cadence, volume, or a subject going quiet is supportable for those years.** Each year page states this at the top of its own Gaps section.
+
+From 2014 the export is the backbone and absence is good evidence — but not conclusive, because the export demonstrably dropped at least one 2016 row (the OSU gig tweet, recovered 2026-09-02). The working rule these pages use is **establish coverage first, then treat absence as evidence exactly as far as coverage extends.**
+
+Gaps that remain: 2009 through 2012, January–mid-August 2013, and some 2026 days between the spreadsheet end and the live scrape are still being walked from X in batches of ten. Each incomplete yearly page states that on its face. The spreadsheet span 2013-08-17 through 2026-04-07 is complete for originals.
+
+The 2026-09-02 backfill could not settle everything. The backend user lookup returned an account id (`16430736`) but no `created_at` and no `statuses_count`. The account's creation datetime is still not a recorded fact, and there is no figure for how many tweets 2,741 is out of. The 24 September 2008 date is an inference from three consistent facts — the earliest tweet retrieved, two queries before it returning nothing, and the `#MyTwitterAnniversary` post of 2022-09-24 — and should be cited as an inference. The profile fetch of 2026-06-22 did record the account's public face at that date: name DAN FRANK, bio "insufferable politics sicko", 256 followers, blue-verified. Still open, and only a complete X account export closes it: the creation datetime, the true total, the months of 2008–09 truncated at ten results, 121 of the 129 rows still truncated mid-text, and seventeen years of reposts.
 
 ## Year index
 
@@ -174,13 +192,54 @@ The operator spreadsheet (Drive: Dan Frank - Tweet Archive, filed as `raw/self/t
 | [[wiki/mind/synthesis/twitter-2026\|2026]] | 26 | in progress |
 | **Total** | **2741** | |
 
-## What the public valve actually is
+## The register: voice and the two-corpus proof
 
 The older page on this path was a sample synthesis from 2019–2026 and said so. That sample was directionally right — politics sicko, AI-as-prosthetic, MOGZART/Ableton, low engagement — and factually incomplete. The account is not a 2019 object. The 2009 remainder already has the lowercase/fragment/ellipsis idiom, the Alexis address, the I-95 boredom, the in-love tweet; [[wiki/mind/profile/linguistic-profile]] treated that as the public half of a two-corpus voice proof, and the yearly pages now hold the dated lines instead of a citation of a sample file.
 
-Volume is the other correction. 2024 is the peak (258 spreadsheet originals), 2020 the floor (25), 2025 a collapse-year quiet (13). Twitter is an output valve, not the diary: 2015, the year the Annie relationship starts, is almost silent here. When the life is happening in texts, this account thins. When it is happening as commentary — 2017 Sessions, 2022 J6, 2023 Fetterman villain arc, 2024 Luigi — it thickens. That is the same contact-gini shape the private corpora show, rendered in public.
+The 2008 recovery sharpened this. The earliest retrieved tweet, 2008-09-24T04:52:36 — *"i fucking looove winter park. this town is unreal."* — and the one an hour later — *"Really feels like life has started over now. It's weird enjoying life again. So stoked."* — are already the voice. Dan was twenty, arriving in Winter Park for Full Sail, and the register that the linguistic profile treats as stable across the message corpora is sitting right there in public, fourteen years before anyone measured it. The 2022-09-24 anniversary post — *"14 years of pointless nothingness but at least I got the @danfrank handle #MyTwitterAnniversary"* — is the account talking about itself the same way Dan talks about everything: self-deprecating, handle-first, dating itself by its own post.
 
-The production identity is not a late add-on. 2013 is SLOPPP trap mixes on SoundCloud in the same weeks as Instagram lookouts; 2026 is MOGZART DnB and moltbook agent claims. Music is the sincere channel across both ends of the archive. The AI year (Grok Build, Fable 5, Claude godmode, moltbook) is real and is 2026, not the whole story.
+Seventeen years of continuous public posting on one handle is a second witness-archive alongside the Facebook export — and the millennial-digital-witness reading treats it that way: a person who kept the valve open the whole time, even when almost nobody was listening.
+
+## The political account
+
+Volume is the other correction the full archive forced. 2024 is the peak (258 spreadsheet originals), 2020 the floor (25), 2025 a collapse-year quiet (13). And the mode of the peak matters: the account thickens not when the life happens but when there is something to react to. 2017 is the Sessions-era political re-engagement, the first year the account is mostly commentary. 2022 is the J6-hearing re-acceleration, with the Project Veritas exchange and the 18 July OpieRadio thread — three tweets trying to pitch a reactionary radio host on a progressive turn, the radicalization thread whose parts 2 and 3 the 2026-09-02 backfill recovered. 2023 is the Fetterman villain arc and, more distinctively, the year the account found its one repeatable forensic mode: the 29 March Nashville debunking — *"Disappointed to announce that the 'Audrey Hale shoes' conspiracy is a bust"* — and the June OceanGate threads, published negative results against his own side's conspiracies as much as anyone else's.
+
+That mode — [[wiki/mind/synthesis/vertical-authority-skepticism|live-event forensics]] — is what the archive rewards, and almost the only thing it rewards. Across 2,741 originals the mean is 0.146 likes; 90 tweets have any likes at all. The two exceptions are both 2023 forensic threads: the Nashville debunking at 114 likes and the OceanGate/Stockton Rush thread at 83, against a career mean under 0.2. The only two tweets in seventeen years to reach an audience were both investigations with published negative results, including against his own political side.
+
+2024 is the peak year and the adversarial-historian year. The 28 June 2024 debate-night run — 23 originals, the account's densest day — is the mode at full volume: *"This is not SOTU Joe"* → *"Oh my god his voice"* → *"It's joever"* → *"This is catastrophic"* → *"It's hard to overstate just how devastating this is for the Biden campaign."* Interleaved: a check of the betting markets (*"Oh my GOD look at the betting markets"*), a prediction posted *before* the debate that he then watched fail (*"Biden is going to outperform the [expectations]"*), and a named litmus test for how the commentariat would move (*"what's @jheil going to say"*). The 6 July follow-up grades the world in the calibration register the account developed: *"it's 25% at best for Kamala"* — and then, on 23 July, *"We are so back #Kamala2024"*, the pivot recorded in real time, the failed prediction and the reversal both left standing. The December Luigi Mangione thread is the same mode applied to a live news case: *"So wait… NYPD says this fake ID that Luigi Mangione gave to the Altoona cops was used to check in to the hostel in NYC. If that were true, he would have bee[n]…"* — stress-testing the official account against its own details, in public, as it unfolded.
+
+The throughline is older than any of these years. The 2024 cognitive-state synthesis reads the corpus as adversarial reality-testing — model, stress-test, identify the contradiction, historicize, compress, provoke, revise — and dates the operation thirteen years early: the 21 May 2011 rapture posts (*"the only difference between the 5/21 rapture followers and moderate christians is that the former are willing to put a date on the end"*), the 26 February 2011 exchange with a pastor (*"stop promoting this Iron Age bullshit folklore"*), and the 7 November 2012 election-night tweet (*"I refuse to believe that tonight's earlier results were as close as we were told. Need to keep it tight for ratings."*) — the same adopt-the-opponent's-authority, isolate-where-it-breaks, publish-the-break sequence, with religion as the subject instead of politics. The 30 October 2012 Sandy tweet — *"Sandy is like first true 'digital disaster'. Can't remember so much user generated content from a storm."* — is the earliest first-party instance of the media-over-event noticing the witness-archive thesis is built on, fourteen years before the AI-assisted articulation.
+
+Public posts also grade the world rather than his own certainty — *"25% at best for Kamala"*, *"a 0% chance that he would not"*, *"an astronomically high probability"* — and carry two behaviors the message corpus does not hold: he polices other people's calibration (*"That's a level of certainty I'm not sure how you've arrived at"*) and audits his own past estimates against himself after the fact. That is the calibrated-confidence page's evidence: the public account is where Dan does his forecasting in the open and then watches it fail.
+
+**The densest day in seventeen years:**
+
+| Day | Originals | What |
+|---|---:|---|
+| **2024-06-28** | **23** | The Biden–Trump debate, live |
+| 2024-07-05 | 14 | The week after it |
+| 2024-11-06 | 14 | The morning after the election |
+| 2013-08-15 | 12 | SLOPPP launch week |
+| 2013-08-19 | 12 | SLOPPP launch week |
+| 2009-11-25 | 10 | Thanksgiving travel, the trip he meets Alexis on |
+
+**28 June 2024 is the account's peak, and it is a single evening.** Two things worth noting about the shape rather than the content. The peak is **reactive** — the account's heaviest day is a live event he is watching, not anything from his own life; the top six days include no birthday, no move, no relationship event, and the only personal entry is a travel day. And the mode is the one this archive rewards: [[wiki/mind/synthesis/vertical-authority-skepticism|live-event forensics]], the same mode that produced the only two tweets in seventeen years to reach an audience.
+
+## The production identity
+
+The production identity is not a late add-on. 2013 is SLOPPP trap mixes on SoundCloud in the same weeks as Instagram lookouts; 2026 is MOGZART DnB and moltbook agent claims. Music is the sincere channel across both ends of the archive.
+
+2013 is the first year the operator spreadsheet covers in full for originals, and the production-identity year: the SLOPPP launch weeks of mid-August 2013 are two of the six densest days in the archive's history (12 originals each on the 15th and 19th). 2014 read in full documents an operating production practice — ten releases the Facebook reconstruction missed, two recurring mix series, a Beatport contest entry and a public collab address — and dates Heatwave Vol. 1 and Week in Trap Episode 3, two items the aliases page had listed as unaccounted for. The archive dates the production identity's public arc: a 2013–14 peak, then no post about his own music between 7 March 2016 and 4 March 2026, ten years across 908 originals — and the return, on 2026-03-04, is a MOGZART DnB jump-up remix posted to SoundCloud (*"Odd Mob - Never Alone (feat Lizzy Land) [MOGZART DnB JUMP UP REMIX]"*), followed in April by the moltbook agent claims (*"I'm claiming my AI agent 'resourcefulbot'"* on 2026-04-05, *"'gripnotic'"* on 2026-04-07).
+
+The AI year (Grok Build, Fable 5, Claude godmode, moltbook) is real and is 2026, not the whole story. And there is a small, telling predecessor: two Codecademy badges auto-posted on 19 February 2013, then no reference to code in 2,525 originals across the next thirteen years until the 2026 Grok CLI and Claude building — the only record of a pre-AI attempt at the skill. Four tweets on 8 September 2022 document hands-on DALL-E image-variation use three months before ChatGPT launched — *"I ran the image of what is supposed to be a historically accurate Jesus through #dalle2 for 3 variations"* — closing the stated gap that the DALL-E half of the origin account was not checkable in this corpus.
+
+## The social graph
+
+The archive is the only record of several relationships anywhere in the corpus. Nineteen tweets are the only record of the Shane Brannan friendship — he appears in no message export, no Facebook exchange, and on no other page. Twenty-two tweets across 2009–2013 hold the dense phase of the Eric Jester friendship, which had already decayed to its every-year-or-two rhythm before the message thread opens in May 2017. Twenty-one tweets from 2009–2013 predate Dan Polyak's Facebook thread by four years and record an in-person New York friendship rather than the defensive banter the later thread holds. Ten tweets from 2009–2012 place Josh Brannan in the Pennsylvania half of the social graph alongside Jerad Friedline, and in the 23 February 2012 cohort list.
+
+Eleven tweets across two handles are the only record of the sibling relationship with Vanessa before the message thread opens in December 2015, and they date the shared political register to the Troy Davis execution night of 21 September 2011. Six posts across 21–31 August 2013 — a handle (@katie_efff), a geotagged afternoon, and a Vine from inside the Oddball show — are the only contemporaneous record of the Katie Fletcher relationship, against a page that had said everything known about her came from Dan's later AI narration.
+
+2016 is a low-volume year whose only sustained thread is the @ulmdub address — the account carrying the Ulmer connection in public — including the 7 February gig tweet (*"Had lit times playing @ulmdub birthday party last night at OSU"*) that the spreadsheet had dropped and the backfill recovered. The 2015–16 corpus shows the same contact shape the private corpora show, rendered in public: when the life thins into texts, the valve nearly closes; what stays open is commentary.
 
 ## The blackouts, and why the volume curve cannot be read as a life curve
 
@@ -232,16 +291,7 @@ other pages — each claim dated, each traceable to a tweet with a URL.
 | A **Morrissey tattoo** exists that no inventory listed | [[wiki/self/tattoos]] |
 | **15 Foursquare check-ins** with street addresses, 2010–11 — the only address-level location data before the Google export starts in 2014 | [[wiki/self/location-history]] |
 | Facebook's `places lived` date is **wrong by eight weeks**, while the same export's work history is right | [[wiki/self/facebook]] |
-
-> **CONTRADICTION:** the archive and [[wiki/self/facebook]] disagree about
-> when Dan moved to Brooklyn. Facebook's `places lived` field says 3
-> January 2010. On 20 February 2010 he tweeted *"moving to brooklyn in 9*
-> *days"*, and on the 28th *"peace out, florida."* Both records are his
-> own; one is timestamped by the platform and one was typed into a
-> profile form later. The contradiction is held on both pages rather than
-> resolved by seniority, and the general lesson is recorded there: a
-> Facebook profile field is testimony, not a record, even when it sits in
-> the same table as fields that are.
+| The account's public face as of 2026-06-22: handle @danfrank, account id 16430736, bio "insufferable politics sicko", 256 followers, blue-verified | profile sample, `raw/drive-sweep/20260911/twitter/profile-samples/profile.txt` |
 
 **What the archive could not settle.** The May 2013 departure from New
 York is still undated by this source. New York references run 8.8%, 8.9%
@@ -274,70 +324,96 @@ earliest tweet retrieved, two queries before it returning nothing, and the
 `#MyTwitterAnniversary` post of 2022-09-24 — and it should be cited as an
 inference.
 
-> **CORRECTION [2026-09-02] — 2016 is not complete for originals.** The
-> coverage table above said it was, on the strength of the operator
-> spreadsheet. The gig tweet of 7 February 2016 was live the whole time and
-> absent from both the spreadsheet and the scrape. The table now says so.
->
-> The cost is wider than one row. `wiki/interests/music/overview` leaned on
-> "the 2017–2025 window is spreadsheet-complete, so the zero in it is a real
-> zero." That assurance and the 2016 claim rest on the same table. The zero may
-> still hold — the fetch found no counter-example in those years — but it can
-> no longer be asserted from completeness, and that page now says so.
->
-> A second lesson, cheaper to state than it was to learn: this wiki discounted
-> the quoted line partly because `raw/self/dox-scan/FULL TWITTER ANALYSIS.txt`
-> is AI-generated and demonstrably unreliable in aggregate. It was right about
-> this specific quotation. **Unreliable in aggregate is not wrong about any**
-> **given line**, and "the archive does not contain it" was a statement about the
-> archive.
+## Conflicts in the record
 
-**Still open, and only a complete X account export closes it:** the creation
-datetime, the true total, the months of 2008–09 truncated at ten results, 121
-of the 129 rows still truncated mid-text, and seventeen years of reposts —
-`raw/self/twitter/reposts.jsonl` holds five, kept out of `archive.jsonl`
-because the originals-only inclusion rule is what the yearly pages are built
-on.
+**[2026-10-04] Facebook's Brooklyn date vs. the tweets.** The archive and
+[[wiki/self/facebook]] disagree about when Dan moved to Brooklyn. Facebook's
+`places lived` field says 3 January 2010. On 20 February 2010 he tweeted
+*"moving to brooklyn in 9 days"*, and on the 28th *"peace out, florida."*
+Both records are his own; one is timestamped by the platform and one was typed
+into a profile form later. The contradiction is held on both pages rather than
+resolved by seniority, and the general lesson is recorded there: a Facebook
+profile field is testimony, not a record, even when it sits in the same table
+as fields that are.
 
-## The densest day in seventeen years
+**[2026-09-02] 2016 is not complete for originals.** The coverage table on this
+page said it was, on the strength of the operator spreadsheet. The gig tweet of
+7 February 2016 (*"Had lit times playing @ulmdub birthday party last night at
+OSU"*) was live the whole time and absent from both the spreadsheet and the
+scrape. The table now says so.
 
-| Day | Originals | What |
-|---|---:|---|
-| **2024-06-28** | **23** | The Biden–Trump debate, live |
-| 2024-07-05 | 14 | The week after it |
-| 2024-11-06 | 14 | The morning after the election |
-| 2013-08-15 | 12 | SLOPPP launch week |
-| 2013-08-19 | 12 | SLOPPP launch week |
-| 2009-11-25 | 10 | Thanksgiving travel, the trip he meets Alexis on |
+The cost is wider than one row. `wiki/interests/music/overview` leaned on "the
+2017–2025 window is spreadsheet-complete, so the zero in it is a real zero."
+That assurance and the 2016 claim rest on the same table. The zero may still
+hold — the fetch found no counter-example in those years — but it can no
+longer be asserted from completeness, and that page now says so.
 
-**28 June 2024 is the account's peak, and it is a single evening.** Twenty-three
-originals as the debate ran and immediately after: *"This is not SOTU Joe"* →
-*"Oh my god his voice"* → *"It's joever"* → *"This is catastrophic"* → *"It's
-hard to overstate just how devastating this is for the Biden campaign."*
-Interleaved with it: a check of the betting markets (*"Oh my GOD look at the
-betting markets"*), a prediction posted **before** the debate that he then
-watched fail (*"Biden is going to outperform the [expectations]"*), and a
-named litmus test for how the commentariat would move (*"what's @jheil going
-to say"*).
+**[2026-09-02] The discounted quoted line.** This wiki discounted the quoted
+line partly because `raw/self/dox-scan/FULL TWITTER ANALYSIS.txt` is
+AI-generated and demonstrably unreliable in aggregate. It was right about this
+specific quotation. **Unreliable in aggregate is not wrong about any given
+line**, and "the archive does not contain it" was a statement about the
+archive.
 
-Two things worth noting about the shape rather than the content. The peak is
-**reactive** — the account's heaviest day is a live event he is watching, not
-anything from his own life; the top six days include no birthday, no move, no
-relationship event, and the only personal entry is a travel day. And the mode
-is the one this archive rewards: [[wiki/mind/synthesis/vertical-authority-skepticism|
-live-event forensics]], the same mode that produced the only two tweets in
-seventeen years to reach an audience.
+**[2026-09-02] The creation date is still an inference.** The backfill
+recovered the 2008 tweets but returned no `created_at` and no
+`statuses_count` for the account. The 24 September 2008 record start is
+grounded in three consistent facts — the earliest tweet retrieved, two queries
+before it returning nothing, the `#MyTwitterAnniversary` post of 2022-09-24 —
+and stays cited as an inference, not a recorded fact. Until a complete X
+account export exists, there is no figure for how many tweets 2,741 is out of.
 
-## Inclusion rule
+**[2026-10-07] "2009 is the origin year" is stale on this page's own
+frontmatter.** The connections block above still describes 2009 as "the origin
+year of the surviving record". The 2026-09-02 backfill extended the surviving
+record to September 2008; 2009 is now the first *full* year, not the origin
+year. The connection claim is left in place until the connected page is
+re-edited, and this entry records the staleness.
 
-- **In:** every original tweet, every reply, every quote-tweet that carries Dan's own text.
-- **Out:** pure reposts with no @danfrank quote content — the spreadsheet's `Repost` rows, whose text field is the other person's tweet.
+## Assessment
 
-Old-style typed `RT @user:` lines are kept: he wrote them.
+The archive's value to the wiki is not the opinions. It is three things.
 
-## Gaps
+First, it is the public half of the two-corpus voice proof: the register was
+finished by September 2008, and every later corpus — messages, wiki, moltbook
+— rhymes with it. A seventeen-year public record on one handle, kept while the
+audience hovered near zero, is a control condition almost no other page has.
 
-2009 through 2012, January–mid-August 2013, and some 2026 days between the spreadsheet end and the live scrape are still being walked from X in batches of ten. Each incomplete yearly page states that on its face. The spreadsheet span 2013-08-17 through 2026-04-07 is complete for originals.
+Second, it is a forensic instrument for the timeline: the only
+contemporaneous first-party record of the NYC years, the production arc, and
+several friendships that exist nowhere else. Its findings changed dates on
+seven other pages, and its contradictions with Facebook's self-entered fields
+are the wiki's standing lesson in platform epistemology — timestamped beats
+typed-in, even when both are his.
+
+Third, it is a warning about reading volume as life. The naive reading of the
+curve gets the two most important years exactly backwards, because the account
+goes dark precisely where most is happening. That inversion is load-bearing
+for every synthesis page that cites this record: absence here is evidence of
+*where the life moved*, not of nothing happening.
+
+The limit is stated once more, because it governs everything above: until a
+complete account export exists, the record is the 2,741 retrieved originals,
+not the account.
+
+## See also
+
+- [[wiki/self/facebook]] — the parallel public valve, registered 2007; the Brooklyn-date contradiction is held on both pages
+- [[wiki/self/location-history]] — where the Foursquare check-ins and move dates landed
+- [[wiki/mind/profile/linguistic-profile]] — the two-corpus voice proof this archive is the public half of
+- [[wiki/mind/synthesis/millennial-digital-witness]] — the witness-archive reading of seventeen years on one handle
+- [[wiki/mind/synthesis/2020-left-turn]] — the political conversion the archive corroborates from an independent record
+- [[wiki/mind/synthesis/vertical-authority-skepticism]] — the live-event forensics mode, named from these threads
+- [[wiki/mind/concepts/calibrated-confidence]] — the public calibration behaviors the message corpus does not hold
+- [[wiki/interests/music/overview]] — the production identity's public arc, dated from this archive
 
 
+## References
 
+- `raw/twitter/archive.jsonl` — 2,741 retrieved originals, the backbone of the yearly pages
+- `raw/twitter/tweet-archive.csv` — the operator spreadsheet export, 1,427 originals 2013-08-17 through 2026-04-07
+- `raw/twitter/reposts.jsonl` — five pure reposts, held out of the originals-only inclusion rule
+- `raw/drive-sweep/20260911/twitter/profile-samples/profile.txt` — profile fetch 2026-06-22 (handle, bio, followers, verification)
+- `raw/drive-sweep/20260911/twitter/profile-samples/tweets_sample_2019-2026.txt` — the 2019–2026 sample the older page was built on
+- `raw/self/twitter/grok-backfill-2026-09-02/` — the 2026-09-02 backend fetch that recovered the 2008 tweets
+- `wiki/mind/synthesis/twitter-2024-cognitive-state` — the adversarial-historian reading of the 2024 corpus, cited in the political section

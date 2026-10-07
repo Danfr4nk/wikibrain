@@ -2,10 +2,13 @@
 domain: places
 page_type: entity
 title: "117 Belmont Circle"
+aliases: ["Fran's house", "the golf-course house"]
 status: closed
 knowledge: mixed
+tier: major
+importance: 3
 date_created: 2026-07-13
-date_modified: 2026-10-04
+date_modified: 2026-10-07
 date_range_start: 1961-02-08
 date_range_end: 2019-09-01
 sources:
@@ -16,7 +19,10 @@ sources:
   - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/places/captures/2026-08-27_022401_gap-117-belmont-circle.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
-tags: [family, housing, uniontown-era, grief, relationships]
+tags: [family, housing, uniontown-era, grief, relationships, golf]
+changelog:
+  - date: 2026-10-07
+    change: "Expanded to major tier: added the golf-record section, the trust-and-money section, the October 2017 party use, Derrick Avenue micro-geography, Location Takeout corroboration, and Assessment; restructured to canonical template v1 (Gaps folded into References)."
 connections:
   - page: wiki/timeline/events/the-fall-of-fran
     type: caused-by
@@ -51,6 +57,9 @@ connections:
   - page: wiki/places/the-unpapered-address
     type: evidences
     claim: "Occupancy earned as a paid caregiving arrangement inside a relative's house is tenure-by-relationship in its purest form: access granted by a person, ending when that person died, with no instrument anywhere in it."
+  - page: wiki/places/derrick-avenue
+    type: co-occurs
+    claim: "Whether the lot fronts Derrick Avenue or merely corners it is unresolved, and Derrick is the arrival-signal vocabulary of the Dan-Annie thread — the street that meant 'almost there' may or may not be the street this house sits on."
 ---
 
 # 117 Belmont Circle
@@ -111,6 +120,12 @@ it, and the two returns produce the two houses — Belmont Circle and
 [[wiki/places/337-saratoga-drive|337 Saratoga Drive]] — that between them
 hold every domestic scene in this corpus before 2019.
 
+## The golf-course house
+
+Fran's claim on the club was not membership-as-status but membership-as-record. The golf page in this wiki carries the competitive resume: two documented holes-in-one — 1959 at LaGorce Country Club in Miami Beach, then 1969 at the Uniontown Country Club, the 153-yard No. 11 struck with a No. 5 wood — plus the UCC Women's Golf Crown, 342 over 72 holes, won by seven strokes, a 200 game at Manor Lanes, and family photographs placing her beside Arnold Palmer's private plane, with the record noting she was socially close with Palmer himself (raw/wiki/new-wiki/wiki-brain/wiki/interests/golf.md). She lived on the UCC fairway for over fifty years, at this address — literally, the golf page's word, a "golf course house."
+
+That lineage is the one Dan inherited rather than chose, and it is why the house matters beyond the family tree. On the night of November 29, 2015, at roughly 2 AM in the rain, he met Annie on the same UCC fairway Fran had dominated for half a century — the single most consequential event in the message corpus, per the golf page, happening on her ground. The fairway is the physical object that connects the 1959 LaGorce ace to the 2015 origin of the Annie decade: three generations of golf, one address sitting on the grass between them.
+
 ## The three parcels
 
 The geography is the whole point of this address and it took the corpus
@@ -144,6 +159,8 @@ landmark Bacharach used to locate the house next door in a novel. Two
 different men, a generation apart and with no knowledge of each other's
 purpose, fixed these two lots in writing by the same hole.
 
+One piece of the micro-geography stays open: whether the Belmont Circle lot fronts Derrick Avenue or merely corners it is unresolved in the corpus (raw/old-wiki-export-2026-09-04/whole.txt). Derrick itself is the arrival-signal vocabulary of the Dan–Annie thread — "On Derrick," "Just got on derrick" — forty mentions in the held corpus between 2015-11-30 and 2026-08-11 (kb/data/1303-derrick-avenue-mention-count-held.md), the single most repeated piece of shared non-relationship vocabulary the two had. The street that meant "I'm almost there" in a decade of messages may or may not be the street this house sits on; the record holds both readings.
+
 ## The job
 
 Fran's standing directive was categorical and she gave it to Dan and Suz
@@ -160,6 +177,18 @@ Women's Crown — and the record frames the two-week nursing-home collapse
 that followed her removal as the confirmation that the house had been what
 was keeping her alive. She did not ask to be kept comfortable. She asked to
 be kept *here*.
+
+## The money and the trustee
+
+The $15/hour paid arrangement ran through people, not paperwork. The trustee of the estate accounts was Judge Fred Adams — Ira's old law partner — who also mandated the 24-hour vigil rotation after the fall (kb/entities/frances-coldren.md). His is the name on the money side of the caregiving: Diane's 2017-11-01 letter asking for a $20,000 loan against her inheritance for shoulder surgery was cc'd to Adams formally, and his reported agreement was cited in Diane's earlier 2017-08-25 push to sell Fran's Palm City vacation house. Both of those letters survive as document photos taken at Fran's house days after they were written (kb/entities/frances-coldren.md, via kb/data/1410-diane-moore-palm-city-letter-2017-08-25.md and kb/data/1411-diane-moore-20k-loan-letter-2017-11-01.md) — which makes them, incidentally, the closest thing the corpus holds to a photographic record of this house's interior: not photographs of the house, just documents photographed inside it.
+
+The arrangement's informality across the mid-2010s is part of the same picture. The paid six months from roughly October 2017 are the only anchored segment; the year the caregiving began informally is still unfixed. What the record shows is a family system in which money moved through a trustee's authorization and labor moved through a grandson's presence, and the house sat at the center of both.
+
+## The party house: October 31, 2017
+
+Before the eight documented months of 2018, there was a night in 2017 when the house belonged to Dan's social world first. Through September and October 2017 he co-organized his Halloween/birthday party with Nemacolin coworker and DJ Christo Coan — an open invite, per the thread, "for everyone who works in golf up there," "literally every caddie, staging, and pro shop employee" — and on October 19 he made the house the venue's overflow: "everyone welcome to crash here so we can all get properly fugged up" (kb/data/0485-christo-coan-party-thread-dui-corrected.md). The party landed October 31, on his birthday.
+
+This matters because it predates every other documented non-caregiving use of the house. The Christo thread also carries the only first-person geography of the place from outside the family record — "I live on the golf course... my next door neighbors are my grandparents and my girlfriend's grandparents... so noise isn't a problem" — the same sentence the three-parcels section builds from. The venue logic of February 2018 ("we have a great place for hangs too") was already in place the previous October; the fall night just made it load-bearing. A source note: the old wiki once read an October 19 line about a DUI in that thread as Dan's; a re-pull of the Facebook export showed the line was Christo's, accepting the crash offer by giving his own prior DUI as the reason he wouldn't drive — there is no Dan-side DUI in this record (kb/data/0485-christo-coan-party-thread-dui-corrected.md, via dat:0031).
 
 ## The night it ended, and what the house was being used for
 
@@ -184,6 +213,8 @@ leaving?* without stopping, and was dead four weeks later, on **April 4,
 2018**. The full account of the night is at
 [[wiki/timeline/events/the-fall-of-fran]]; the four weeks after it are at
 [[wiki/timeline/events/fran-death-vigil]].
+
+The corpus gave the night its own name: "Down Goes Frazier" is the fall-of-fran page's record of the contemporaneous name for it (kb/data/0494-fall-of-fran-arrangement-opening-night.md). And Dan's own account of the aftermath, to Vicki the next day, is the single most-quoted line of the whole sequence: "she was screaming so loud when they were putting her on the gurney it was just awful" (2018-03-08, per kb/entities/frances-coldren.md via kb/data/0169-fran-vigil-fall-and-hospital-sequence.md). The fifty-seven-year tenure ends in that sentence — not in a sale, not in a decision.
 
 ## The eight months the house belonged to Dan
 
@@ -217,6 +248,8 @@ that notice's outcome as unrecorded. The Belmont Circle usage does not
 resolve it, but it supplies the missing option: through the spring and
 summer of 2018 he had somewhere else to be, one lot away, and he was using
 it.
+
+An independent instrument agrees with the message record's picture. The 2026 Location Takeout teardown — 121,733 pings, April 2014 to May 2024 — found the Virginia Avenue house dominant for overnights across the 2016–19 stretch, with Belmont Circle registering as adjacent-lot bleed (kb/data/1534-location-teardown-20260914.md). That is exactly what the two-somewheres section describes from the texts: a man whose location history says the adjacent lot, spending his spring and summer one lot over. The phone and the messages tell the same story without having consulted each other.
 
 ## The listing
 
@@ -283,6 +316,12 @@ actual terminus is the summer 2019 closing, and the fifty-seven-year tenure
 is now bounded at both ends by something that happened to the house rather
 than by the last time anyone talked about it.
 
+## Assessment
+
+The record supports the lede's claim and sharpens it. This address is dense because four independent mechanisms all require the same lot as their physical site: the family's return from Florida (the wedding that opens the tenure), the golf lineage (a half-century of standing at the club from a house on its fairway), the fifty-year adjacency to the Ulmers (two generations of entanglement across a property line), and the paid caregiving (a directive — stay in this house — that made the building the job). Remove any one and the other three still stand; remove the lot and none of them has a location.
+
+What changed across the page's own history is the direction of the evidence. The tenure floor moved from "more than fifty years" to a dated 1961 return; the ending moved from an unrecorded sale to a documented occupancy-end (March 8, 2018) plus a testified closing (summer 2019); the 2018 use moved from invisible to five dated occasions plus an independent location-telemetry corroboration. The unknowns that remain — the buyer, the failed first listing, the contents, the informal caregiving's start — are the kind the corpus usually does answer, which is itself information: a fifty-seven-year house left almost no administrative trace of its exit.
+
 ## See also
 
 - [[wiki/timeline/events/the-fall-of-fran]]
@@ -297,6 +336,7 @@ than by the last time anyone talked about it.
 - [[wiki/work/nemacolin-caddying]]
 - [[wiki/interests/golf]]
 - [[wiki/places/the-unpapered-address]]
+- [[wiki/places/derrick-avenue]]
 
 ## References
 
@@ -308,9 +348,7 @@ than by the last time anyone talked about it.
 - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 - raw/places/captures/2026-08-27_022401_gap-117-belmont-circle.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 
-### Gaps
-
-The sale's **buyer** is still unknown, and with them the question of whether
+**Limits and gaps.** The sale's **buyer** is still unknown, and with them the question of whether
 the house left the family's orbit entirely or went to somebody in it. Four
 gaps this page opened remain untouched by the 2026-08-27 answer: the nursing
 home is still unnamed; the year the caregiving began *informally* is still
@@ -319,5 +357,5 @@ the April 27, 2018 caddie who slept here is still unidentified; and nothing
 records what happened to the contents — Fran held this house for fifty-seven
 years, and no inventory, no photograph and no account of its clearance exists
 anywhere in the corpus. The earlier failed listing likewise still rests
-entirely on Danny's four words, with no independent trace.
+entirely on Danny's four words, with no independent trace. The closest thing to an interior photographic record is incidental — Diane's two 2017 letters survive as document photos taken at Fran's house — and even the one photo set once attributed to the house itself, Fran holding Dan's bong on 2015-12-11, was re-attributed by Dan to the adjacent Virginia Avenue house, with GPS corroboration (kb/data/1409-fran-coldren-bong-photos-2015-12-11.md). The house's interior is photographically absent from the corpus.
 

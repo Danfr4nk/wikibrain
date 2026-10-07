@@ -1,9 +1,10 @@
 ---
 domain: self
 page_type: synthesis
+tier: major
 status: archived
 date_created: 2026-06-22
-date_modified: 2026-09-14
+date_modified: 2026-10-07
 sources: ["raw/twitter/archive.jsonl", "raw/self/location/2026-06-22-ingest/Location History (Timeline)-20260622T225253Z-3-001.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/location/2026-06-22-ingest/Location History (Timeline)/semantic_location.db", "raw/location/Records.json", "raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/drive-sweep/20260911/takeout-index/google-data-export-index-20260623.html"]
 synthesizes:
   - wiki/self/context-core
@@ -52,9 +53,16 @@ connections:
   - page: wiki/mind/synthesis/twitter-2019
     type: evidenced-by
     claim: "Closes the far end of the address-level blind window: 'Au revoir Pennsylvania. Adiós Trump country.' (2019-03-03) is the only dated departure from Fayette County in the archive, and by October the state is a weekend destination rather than a home."
+changelog:
+  - date: 2026-10-07
+    entry: Expanded to major tier; restructured to canonical article template v1 (story-first lede, Conflicts in the record section, Assessment, See also + References).
 ---
 
 # Location History (Google Timeline)
+
+This is the sensor record of where Dan actually went: eleven years of Google Timeline pings, 2014 to 2024, 121,733 raw points and 6,227 place visits, the largest single instrument in the corpus for his physical life. Where the wiki says he lived — the Uniontown family houses, the south Williamsburg block in 2010, the NYC chapter from 2019 — this is the ground that pins or breaks those claims. It is also a record with hard edges: nothing before April 2014 except fifteen Foursquare check-ins he posted to Twitter, and nothing after May 14, 2024, when the phone went quiet. Inside those edges it caught things testimony never offered — the exact days he left Pennsylvania for New York, the hand-edited labels he later tried to wipe — and outside them the wiki is on other sources.
+
+The headline the data keeps returning is a two-node life: Fayette County, Pennsylvania and New York City, with almost nothing between them. Home pins dominate the visit table, movement is car-mediated even through five-plus years of Manhattan, and the peaks — 2017, 2018, 258 recorded visits in August 2018 alone — sit inside the years the period pages call the poverty floor and the deep cycle. This page holds the instrument, its dimensions, its quirks, and the limits it imposes on everything the wiki claims about where he was.
 
 ## Corpus Dimensions
 
@@ -163,6 +171,15 @@ Grimaldi's are worth posting, the walk home is not.
 | 2025-collapse / post | 2024- | Low | 2024 17; return to 337 Saratoga noted in core; loc export cutoff post-Feb 2025 PA return + [[wiki/people/annie-ulmer|Annie]] events. |
 | Ancestry roots overlay | 1988+ | Generational | See below. |
 
+## The two-node life
+
+Read the visit table top to bottom and the shape of a life falls out before you reach the chains. The most-visited named places are homes — the Uniontown houses and the Upper East Side apartment — and one restaurant he ate at so often the db aggregate undercounted him at 445 before a fuller recount found 712. Below them sits the infrastructure of a Fayette County life: a country club, a check-cashing store, a vape shop, Sheetz, Sunoco, KeyBank, the Nemacolin casino. McDonald's and CVS, at 130 and 126 visits respectively, are the generic background. There is no third node. Over eleven years the archive records 3,815 PA-flavored visits against 2,301 NYC-flavored ones, and essentially nothing else — the map is two bright clusters with a dark corridor between them, and the corridor is the drives.
+
+He got around by car. The activity segments say it plainly: 3,170 in-passenger-vehicle segments covering roughly 29,946 kilometers, against 2,128 walking segments at 2,892 kilometers and 257 cycling at 665. A New Yorker who barely rode the subway: 55 IN_SUBWAY segments across five-plus years of the NYC chapter, one taxi, one bus. Rail travel over the whole eleven years is 11 segments, 1,962 kilometers — a rounding error. The ferry appears 12 times. The movement record is a car door opening and closing; even Manhattan was navigated by car service and foot, not by turnstile.
+
+Peak mobility sits in 2017–2018: 2,827 visits across the two years, with August 2018 alone logging 258. Those are the years the period pages name the poverty floor and the deep cycle — the archive shows the busiest years were also the most volatile ones, Uniontown- and Farmington-heavy, the drives between home addresses constant. When the NYC chapter starts, the visits concentrate: home pin, work pin, the same few blocks. The 2020–2021 dip that once read as pandemic stillness is now read as a 298.9-day device-change blackout, 2020-09-24 to 2021-07-20, the instrument silent rather than the man. Missingness is the archive's second-biggest story after the two nodes: the 164.5, 113.5, 110.4 and 93-day gaps, the 4,306 unnamed visits, the address variants that split one house across spellings. The sensor is faithful within its windows and blind between them, and the windows are what this page keeps.
+
+
 ## Family Geographic Roots (from 23andMe + Ancestry GEDCOM tree)
 Multi-generational concentration in Fayette County PA (Uniontown, Brownsville, Hopwood, Champion) + maternal WV origins (Fort Martin) directly grounds the location corpus. Tree residences match core addresses (337 Saratoga Drive family-built 1996; 12 Bryer Ave pre-1996) and repeated Uniontown chapters. 
 
@@ -177,22 +194,6 @@ See [[wiki/self/ancestry]], [[wiki/people/rick-frank]], [[wiki/people/fran-coldr
 - No contradictions; extends the 2014-2024 data with generational context. Ties also to legal (Suz realtor activity on family properties), music (Fran gifted Numark NS7 → sub-bass).
 
 Data is privacy-redacted (many "Unnamed" or generic). High volume of precise home/work pins. 4,306 unnamed visits in db.
-
-## Visits by Year
-
-| Year | Place Visits | Notes |
-|------|--------------|-------|
-| 2014 | 108         | Early data |
-| 2015 | 23          | Low |
-| 2016 | 531         | Rising |
-| 2017 | 1,111       | Peak activity |
-| 2018 | 1,716       | Highest |
-| 2019 | 809         | NYC transition |
-| 2020 | 121         | Sharp drop (device-change blackout 2020-09-24 → 2021-07-20, not low mobility) |
-| 2021 | 257         | Low |
-| 2022 | 806         | Resurgence |
-| 2023 | 728         | Sustained |
-| 2024 | 17          | Very low / incomplete in export |
 
 ## Top Locations (by visits; db aggregates + address variants collapsed where obvious)
 
@@ -245,18 +246,6 @@ McDonald's 130, CVS 126, Walgreens 24, Walmart 23, Sheetz 22, KeyBank 66, Sunoco
 - **Current / post-closure**: Low 2024 counts may reflect data export cutoff, phone changes, or reduced travel after return to Uniontown Feb 2025 and major life events (Annie closure June 2026). 337 Saratoga remains high-signal home base. Ties [[wiki/timeline/periods/2025-collapse]].
 
 - **Ancestry / FB pre-2014 context**: FB profile (ihatedanfrank, reg. 2007-01-09) lists hometown Uniontown PA, places lived Brooklyn NYC (from Jan 3, 2010), current city New York (at snapshot). FB events include 2012-2014 dates (e.g. Jul 4 2014, Feb 22 2013, May 2012) aligning loc data start 2014. FB security_and_login_information exports mostly 2022+ (67-151 dates, PA mentions), consistent with later periods.
-
-  > **CONTRADICTION [2026-09-02]:** this bullet used to end "No
-  > contradiction." There is one, and it is in the Facebook profile
-  > itself. `places lived` says **Brooklyn from 3 January 2010**; the
-  > tweet archive has Dan in Florida through 28 February 2010, still
-  > counting down — *"moving to brooklyn in 9 days"* on the 20th. The
-  > same export's **work** history says ishlab from **March 2010**, and
-  > `dan@ishlab.com` first appears in a tweet on 24 March. Facebook
-  > contradicts itself; the timestamped record agrees with the work
-  > history and not with the residence field. Held rather than resolved
-  > by seniority: `places lived` is a value typed into a form at an
-  > unknown later date, and it should not be treated as dating anything.
 
 - Complements other behavioral streams:
   - [[wiki/self/youtube-watch-history]] (digital attention; 2022-23 loc resurgence matches YT 5k+ watched + YT Music; portable across homes)
@@ -333,6 +322,13 @@ VISIT_ARRIVAL / 7,368 VISIT_DEPARTURE pairs as visits the semantic layer
 dropped; velocity/heading tracks for drive reconstruction (the 2019-02-26
 Uniontown→NYC drive is dated this way).
 
+## The instrument's quirks
+
+The labels Google's classifier hung on the segments are a diary in themselves. Three CATCHING_POKEMON segments on the evening of November 5, 2017 — Dan played Pokémon Go that night, drifting 171, 1,100, and 555 meters in three separate bursts between 20:48 and 21:47. One BOATING segment, October 14, 2017, eleven minutes on the water at 17:03, distance unrecorded. Fifty-seven skateboarding segments, 141 kilometers total, including a run of night rides in January 2019 — the 12th, 18th, 21st, and 23rd, rides starting at 19:11, 18:24, 05:05, 05:19, and 21:45, each three to five kilometers — late-night skateboarding in the last weeks before the Pennsylvania chapter closed. Six RUNNING segments in eleven years, 33 kilometers: he did not run. The classifier's confidence is uneven and its taxonomy is Google's, not his, but the odd segments are the places the archive briefly becomes biography: a November night playing a fading mobile game, a boat ride, winter night rides on a board.
+
+The other kind of quirk is his own. The hand-labels — userEditedSemanticSegment, 71 of them spanning May to October 2023 — are assertions, not readings, and on October 20, 2023, at 04:01 UTC, he wiped his Google Timeline. The deletion was partial: Records.json survived the purge, and with it the raw pings. 13,074 of his 17,948 MANUAL pings are from 2023 alone — the year he was most engaged in curating the record is the year he deleted it. Most consequentially for the wiki, he relabeled 16 of his own dinner shifts at the East Side restaurant as WORK at a SoHo address, 112 Mercer Street; the pings resolve it as a phantom, and the Au Za'atar page keeps the hardened shift table. The standing rule from that episode is the one this page enforces everywhere: Timeline hand-labels are user assertions, Records.json is sensor ground truth — when they conflict, the pings win.
+
+
 ## Data Notes & Limitations
 - Large "Unnamed" / "Unknown" category (4,306 in db) due to Google's labeling.
 - Some addresses appear with slight variations (e.g., 337 Saratoga Drive vs Dr; Virginia Avenue vs Ave).
@@ -340,17 +336,40 @@ Uniontown→NYC drive is dated this way).
 - Includes both place visits and activity segments (walking, driving, etc.).
 - Cross-referenced against [[wiki/self/context-core]] biography, [[wiki/self/facebook]] profile/events, and ancestry GEDCOM for validation. No major incompletes; 98 JSONs confirmed via dir.
 
-## Sources
+## Post-2024: the record goes quiet
+
+The last named device tag in Settings.json — "-2081738332 Socialist iPhone" — stops on 2024-01-07 after reporting 38,082 pings across the densest period of the archive. Its successor, "1639724752 iPhone," reports 43 pings between 2024-01-29 and 2024-05-14, and then nothing. The hard boundary stands at **2024-05-14**: this data cannot speak to the February 2025 exit from New York, the return to Uniontown, the 2025 collapse, the October 2025 DUI stop, or the current landing. The export's 2024 column reads "17 visits," which is not a year of stillness — it is the year the instrument died. Any row on this page that implies coverage into 2025 is wrong; read it as ending at the boundary. The pre-2014 window is Foursquare and testimony; the post-May-2024 window is other sources entirely.
+
+
+## Conflicts in the record
+
+- **[2026-09-02] The Brooklyn-arrival contradiction.** The Facebook profile's `places lived` says **Brooklyn from 3 January 2010**; the tweet archive has Dan in Florida through 28 February 2010, still counting down — *"moving to brooklyn in 9 days"* on the 20th. The same export's **work** history says ishlab from **March 2010**, and `dan@ishlab.com` first appears in a tweet on 24 March. Facebook contradicts itself; the timestamped record agrees with the work history and not with the residence field. Held rather than resolved by seniority: `places lived` is a value typed into a form at an unknown later date, and it should not be treated as dating anything.
+
+- **[2026-09-02] The pre-2014 window was not N/A.** This page's headline limit was that the Google Timeline export starts in April 2014, so everything before it was N/A. That was true of this source, not of the corpus: fifteen Foursquare check-ins posted to Twitter between 24 March 2010 and 24 January 2011 carry venue and street address, and they are the only address-level location data the wiki holds for any year before 2014. Corrected, not retracted — the limit now reads as a limit of the instrument, stated above.
+
+- **[2026-09-14] Coverage ends 2024-05-14.** The raw layer's hard boundary supersedes any reading of the semantic tables that implies coverage into 2025. The export's 2024 column ("17 visits") and the 2025-collapse rows on this page describe an instrument failure, not a mobility pattern. Read all of it as ending at the boundary.
+
+- **[2026-09-14] Au Za'atar visit count revised.** The db aggregate's 445 was a thinner parse; the full-dump recount is 712. The higher number stands.
+
+- **[2026-09-14] File count: 98.** The employment-block note's "95 JSONs" was corrected to ~98 monthly JSONs in the export.
+
+
+## Assessment
+
+The record supports a compact reading. Dan's movement across eleven years is a two-node, home-centric, car-mediated life: Fayette County and New York City, dominated by residence pins, with the peaks of mobility falling in the most volatile years (2017–2018) and the troughs belonging to the instrument, not the man. He barely rode the subway through five-plus years of Manhattan; the car door is the archive's most common sound. The archive is the wiki's strongest residence instrument and also its most bounded one: nothing before April 2014 except fifteen check-ins, nothing after May 14, 2024, and a hand-labeled layer inside it that he edited and then tried to delete. Where other pages claim he lived, this page is the ground — and where this page is silent, the wiki should say so rather than borrow the sensor's authority.
+
+
+## See also
+- [[wiki/self/context-core]] — canonical residence timeline
+- [[wiki/timeline/periods/2017-poverty-floor]], [[wiki/timeline/periods/2018-deep-cycle]], [[wiki/timeline/periods/2021-2023-employment-block]]
+- [[wiki/self/overview]]
+- [[wiki/self/youtube-watch-history]] — cross consumption
+- [[wiki/self/facebook]] — events 2012+, profile 2010 Brooklyn, likes 2014 ODESZA
+- [[wiki/self/ancestry]] — Fayette PA roots grounding
+- [[wiki/mind/synthesis/totality-themes]]
+
+## References
 - Raw export: `raw/self/location/2026-06-22-ingest/`
 - Primary: monthly Semantic Location History JSONs + semantic_location.db (visits/activities tables) + Records.json (raw points)
 - Cross: `raw/self/facebook/facebook-ihatedanfrank/` (profile, events, security_and_login_information, pages_and_profiles/pages_you_ve_liked.html)
-
-See also:
-- [[wiki/self/context-core]] (canonical residence timeline)
-- [[wiki/timeline/periods/2017-poverty-floor]], [[wiki/timeline/periods/2018-deep-cycle]], [[wiki/timeline/periods/2021-2023-employment-block]]
-- [[wiki/self/overview]]
-- [[wiki/self/youtube-watch-history]] (cross consumption)
-- [[wiki/self/facebook]] (events 2012+, profile 2010 Brooklyn, likes 2014 ODESZA)
-- [[wiki/self/ancestry]] (Fayette PA roots grounding)
-- [[wiki/mind/synthesis/totality-themes]]
-
+- Unresolved source references remain noted in frontmatter (the 2026-06-22 ingest zip and the Facebook export path as originally recorded) — they are part of the record's honesty, not a blemish to hide.
