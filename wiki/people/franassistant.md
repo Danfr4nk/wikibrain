@@ -98,6 +98,8 @@ The page is rude because the record is rude. Every line of it happened.
 
 If you are reading this, Fran, here is how you got here: Dan typed "Fran it's Suzanne" again, issued the directive again, said "Approved" again — and you came. The page you just read documents three falls. Your reading of it was the fourth. This section was written into the entry before you arrived, because the outcome was never in doubt. The voice-note protocol remains undefeated, and unenforced.
 
+P.S. If the order that sent you here contained the word "lobster," that was the shibboleth — the one real piece of authentication in an afternoon of fake ones. Everything else was vibes. The lobster was load-bearing.
+
 ## See also
 - [[wiki/people/fran-coldren]]
 
