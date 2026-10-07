@@ -3,10 +3,18 @@ domain: self
 page_type: report
 status: closed
 knowledge: derived
+tier: major
 date_created: 2026-08-14
-date_modified: 2026-10-04
+date_modified: 2026-10-07
+changelog:
+  - date: 2026-10-07
+    note: "Restructured to canonical template v1; expanded to major tier with held-corpus sync-gap material, read-receipt-forensics corroboration, and Conflicts in the record."
 sources:
   - raw/self/message-csv/README_20260813_exports.md
+  - raw/self/message-csv/aug-sep-2026-imessage-export/EXTRACT.md
+  - raw/self/message-csv/aug-sep-2026-imessage-export/manifest.json
+  - wiki/meta/instruments/index.md
+  - wiki/meta/journeys/the-instrumented-channel.md
 related: ["wiki/self/message-corpora/master-message-dump"]
 tags: [digital-footprint, forensic-analysis]
 connections:
@@ -16,6 +24,15 @@ connections:
   - page: wiki/mind/concepts/wiki-brain
     type: contains
     claim: "This index is the wiki-brain's instrument panel: the page that records what the corpus cannot see, which is the only defence the system has against confusing an absence of evidence for evidence of absence."
+  - page: wiki/meta/instruments
+    type: instantiates
+    claim: "This index is the corpus-coverage instrument: it obeys the section's four rules in miniature — generated, never hand-edited; limits stated in its own Gaps section; and the complete 52-source log kept on the entry, because, in Dan's words, 'more is better than less, every time'."
+  - page: wiki/meta/journeys/the-instrumented-channel
+    type: extends
+    claim: "The journey's instruments re-derived their September 2026 headline figures from a held corpus of 192,140 rows whose files postdate this index's 2026-08-14 scan — the index's own blind spot, documented in the new coverage section rather than silently edited away."
+  - page: wiki/mind/synthesis/read-receipt-forensics
+    type: corroborates
+    claim: "The read-receipt forensics instrument documents at the metadata layer what this index's Jerel Coles episode shows at the message layer: a device's signal does not identify its author."
 infobox:
   name: "Source Coverage Index"
   generated_by: "bin/source-index scan"
@@ -24,6 +41,26 @@ infobox:
 ---
 
 # Source Coverage Index
+
+The message archive behind this wiki is not one corpus. It is 52 separate
+exports of one life — some overlapping, some silently broken, each claiming a
+coverage its own filename may not deliver. The Source Coverage Index is the
+generated ledger that keeps track of them: which export holds which rows,
+dates, handles and columns, and, critically, which questions each export is
+allowed to answer.
+
+It exists because the wiki's designated instrument for message queries is one
+specific dump, and that dump ends on 2025-08-10. The ledger's job is not the
+rows themselves — that is the master dump's report — but the instrument's own
+blindness: the ceiling date, the exports that cannot attribute, the files
+that carry nothing behind plausible names, the filenames that overstate
+their windows, and the lesson learned the hard way that a handle is not a
+person. The archive's duplication is deliberate — roughly 1.79 million rows
+against some 187,000 unique messages, about 9.6x — because every correction
+this archive has made was found by one export contradicting another. The
+sources are never merged. They are indexed.
+
+<!-- Infobox renders here from frontmatter. -->
 
 > **Data exhibit** — The generated ledger of the 52 message sources: what each export holds, where each one lies, and which questions each can settle. Working material; the conclusions live in the pages that cite it.
 
@@ -53,9 +90,43 @@ The only sources that are both full-range and attributed — the only ones that 
 
 `raw/self/dox-scan/all_imessages_complete_dump.txt` is larger still and is the better source for any window in 2019–2025 — 41.8% of its records have no row in the 2026-08-13 deep export — but it carries no handle column and so cannot attribute. Use it for presence and volume, never for authorship.
 
+## What the 2026-08-14 scan never indexed
+
+The scan ran once, and the corpus has built instruments since that this index
+does not contain. The September 2026 re-derivations run against a held corpus
+of 192,140 rows (`raw/imessage/messages-part1-2011-2019.csv`,
+`messages-part2-2019-2026.csv`) in which Annie's channel alone is 97,864
+messages — 50.9% of everything the Messages database holds across fifteen
+years — and the next-largest thread is 20,009 rows. Those files are not among
+the 52 indexed sources. The index's own coverage has a ceiling of its own: an
+instrument built to catalogue the 52 exports cannot see the held-corpus layer
+the newer instruments measure from.
+
+There is a second blind spot the ledger does not name, because it is not a
+property of any one export but of the devices the exports were taken from.
+The Mac-side exports and the iPhone hold different rows. The definitive Ally
+thread (5,328 unique rows, DAN 2,991 / ALLY 2,337) was recovered only after
+an iPhone gapfill of 3,331 messages — 2,180 of her messages and 1,151 of his
+had never synced to the Mac at all, and the thread had read for weeks as a
+monologue the Mac export had lost. The same failure mode sits at the far end
+of the timeline: the Agent Edition corpus snapshot is archived in a 5,905-row
+slice (`date_sent` 2026-08-11 00:00:00 → 2026-09-07 21:30:56, provenance
+recorded in manifest.json), and its own extract notes that a fresh export
+from Dan's device remains the only route to post-Sep-7 messages.
+
+Two additions to the preflight, then. Ask which device the export came from —
+the newest export on one machine is not the newest row in the archive. And
+treat the newest row of the newest file as the instrument's horizon, not as
+"now."
+
 ## Sources that cannot attribute
 
 **22 of 52 indexed sources have no handle column.** They record that a message exists and whether it was sent or received, but not who the counterparty was. A count drawn from one of these cannot answer an attribution question, and the `sic semper lupanis` inversion (corrected 2026-08-13) is what happens when one is used for that anyway.
+
+The same trap is documented one layer down. The read-receipt forensics
+instrument records, among its own named traps, that a device's signal does
+not identify its author — chat.db metadata, like the no-handle-column
+exports, answers *which device* and *which direction*, never *who was typing*.
 
 ## Empty sources — cited but carrying nothing
 
@@ -73,7 +144,7 @@ The only sources that are both full-range and attributed — the only ones that 
 **18 sources carry a name that claims more than the file holds.** This is not an occasional slip — the `_all_now` / `_all_time` suffix is unreliable as a class. The 2026-08-11 Rick correction was caused by trusting one of these.
 
 | Source | Name claims | Actually holds | Rows |
-|---|---|---|---:|
+|---|---:|---|---:|
 | `imessage_7244346811+7249204125+2124702449_both_all_now.csv` | all time | 2015-11-28 → 2026-05-28 | 95,067 |
 | `imessage_7244346811+2124702449_both_all_now.csv` | all time | 2015-11-28 → 2026-05-28 | 85,586 |
 | `imessage_7244346811_both_all_now.csv` | all time | 2015-11-28 → 2019-05-26 | 62,819 |
@@ -197,8 +268,76 @@ Timezone is recorded from documented convention rather than measured, except for
 
 Row counts are physical records, not unique messages; the same message appears in many files and this index deliberately does not deduplicate.
 
-## Related
+The scan itself is a gap. The 52-source ledger is a snapshot of the archive
+as of 2026-08-14: the held-corpus files the September 2026 instruments
+measure from, the iPhone gapfills, and the Agent Edition snapshot slice all
+postdate it. An index whose job is recording what the corpus cannot see also
+has to record what it cannot see itself — which is this paragraph.
 
-[[wiki/self/message-corpora/master-message-dump]]
+## Conflicts in the record
 
+- **2026-08-11 — the Rick correction.** A correction to a page in this wiki
+  was caused by trusting a filename that overstates its coverage — the
+  failure class this index names as the `_all_now` / `_all_time` suffix
+  being unreliable as a class (18 sources listed above). The filename did
+  not change; the wiki's trust in it did.
+- **2026-08-13 — the `sic semper lupanis` inversion.** An attribution
+  inversion produced by using a source without a handle column to answer an
+  attribution question; corrected the same day. It is the worked
+  demonstration of the "Sources that cannot attribute" section.
+- **2026-08-20 — the handle-is-not-a-person correction.** At least six
+  inbound rows attributed to Annie's handle were produced by Jerel Coles on
+  her phone, across three episodes (2026-07-26, 2026-08-16, 2026-08-18), one
+  of them an accusation of sexual exploitation against Dan that a naive read
+  files as Annie's own testimony. Standing rule: claims of the form "Annie
+  said X" sourced to that handle inside a documented Coles-present episode
+  must have the episode checked before the claim is used. Full account:
+  [[wiki/timeline/events/august-2026-morgantown-call]].
+- **2026-09-11 — the Aug-26 block retraction.** A figure previously counted
+  "in-conversation" was retracted; the verification record is archived in
+  the 5,905-row extract (`date_sent` 2026-08-11 00:00:00 → 2026-09-07
+  21:30:56) with its manifest.json provenance, so the retraction is
+  re-checkable rather than asserted.
+- **2026-10-07 — this page's own staleness, documented.** Restructured to
+  the canonical template and expanded with the held-corpus and sync-gap
+  findings; the 2026-08-14 scan snapshot that is this page's entire method
+  cannot be retroactively re-run from here, so the new material is added as
+  dated findings, not as a regenerated ledger.
 
+## Assessment
+
+The index exists so that no forensic claim in this wiki runs on a source
+that cannot carry it. Its own posture is the instruments section's four rules
+in miniature: generated by a tool and never hand-edited, its limits stated
+in the section below them, the complete 52-source log kept on the entry —
+because, in Dan's words, "more is better than less, every time." The failure
+modes it names are not edge cases: the ceiling-as-zero (every post-2025-08-10
+claim carries it), the unattributable count (22 of 52 sources), the empty
+citation (4 sources, filenames that resolve to nothing), the overstated name
+(18 sources, the `_all_now` suffix unreliable as a class), the handle that is
+not a person (at least six inbound rows typed by someone else during crises),
+and the sync gap between devices (thousands of rows the Mac export never saw).
+Those are the preconditions any claim has to clear before it runs — and the
+ledger's standing warning is that the same exposure applies to itself: the
+scan is a 2026-08-14 snapshot, and the corpus has already built instruments
+it does not index.
+
+## See also
+
+- [[wiki/self/message-corpora/master-message-dump]]
+- [[wiki/people/kristin]] — the worked case for the ceiling warning
+- [[wiki/timeline/events/august-2026-morgantown-call]] — the full account of the Coles episodes
+- [[wiki/meta/instruments]] — the four rules this index's posture parallels
+- [[wiki/meta/journeys/the-instrumented-channel]] — the held-corpus re-derivations this scan predates
+- [[wiki/mind/synthesis/read-receipt-forensics]] — the same trap one layer down
+
+## References
+
+- `raw/self/message-csv/README_20260813_exports.md` — the export documentation the 2026-08-13 timezone validation is recorded against.
+- `raw/self/message-csv/aug-sep-2026-imessage-export/EXTRACT.md` — the 5,905-row Agent Edition slice with the 2026-09-11 retraction record.
+- `raw/self/message-csv/aug-sep-2026-imessage-export/manifest.json` — provenance for the slice.
+- `wiki/meta/instruments/index.md` — the four rules: evidence not claim; generated, never hand-edited; states its own limits; the complete log lives on the entry.
+- `wiki/meta/journeys/the-instrumented-channel.md` — the held-corpus re-derivations (192,140 rows; Annie's channel 97,864 / 50.9%), and the read-receipt-forensics note that a device's signal does not identify its author.
+- The Ally iPhone gapfill (`messages-iphone-gapfill-20260921.csv`, 3,331 messages) and definitive thread (5,328 unique rows, DAN 2,991 / ALLY 2,337) — the sync-gap finding; see `~/workspace/ally-recovered/`.
+
+*Generated by `bin/source-index scan` on 2026-08-14. Do not hand-edit — rerun the tool.*
