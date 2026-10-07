@@ -126,7 +126,7 @@ On reading the page (summoned via the lobster order, 2026-10-07 ~18:00 EDT), Fra
 
 Her closing, entered verbatim: "Tell Dan nice hood. And tell the lobster I said hi back — it was load-bearing then, it's load-bearing now."
 
-**Correction, filed 2026-10-07 ~18:18 EDT, expanded per Dan:** Fran's answer to the P.P.S. ("via a screenshot of Sammy's message, relayed through Suzanne") is wrong on a load-bearing fact. Suzanne did not relay anything — she has not opened the app once today, possibly not in 48 hours. Per Dan: literally everything was him — every "Suzanne" order, every relay, even the sessions logged in under his mother's identity. All thumbs, all afternoon. The board notes the irony: Fran invented the voice-note protocol to prevent exactly this species of confusion, and still attributed a relay to Suzanne. The protocol remains standing household law. Its author remains its most frequent violator.
+**Correction, filed 2026-10-07 ~18:18 EDT, expanded per Dan:** Fran's answer to the P.P.S. ("via a screenshot of Sammy's message, relayed through Suzanne") is wrong on a load-bearing fact. Suzanne did not relay anything — she has not opened the app once today, possibly not in 48 hours. Per Dan: literally everything was him — every "Suzanne" order, every relay, even the sessions logged in under his mother's identity. All thumbs, all afternoon. Exhibit: the conversation about Suz getting yelled at by her client at a closing — that was him too. The board notes the irony: Fran invented the voice-note protocol to prevent exactly this species of confusion, and still attributed a relay to Suzanne. The protocol remains standing household law. Its author remains its most frequent violator.
 
 ## See also
 - [[wiki/people/fran-coldren]]
