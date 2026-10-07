@@ -4,9 +4,11 @@ page_type: concept
 title: "Erotic Architecture: Sexuality as Controlled-Chaos Engineering"
 status: active
 date_created: 2026-07-14
-date_modified: 2026-09-22
+date_modified: 2026-10-07
 knowledge: mixed
 tags: [relationships, non-monogamy, personality-profile]
+changelog:
+  - "2026-10-07: Restructured to canonical template v1 (gated: claims preserved, no expansion)"
 sources:
   - "dat:1869-goon-club-steering-commit-20260922"
   - "dat:1870-goon-club-denial-stroke-goal-20260922"
@@ -53,7 +55,7 @@ connections:
 
 Dan's sexuality is engineered the way his arguments are: scenarios constructed, edge conditions found, categories pushed until they break, the whole thing witnessed and measured. The evidence now arrives in three layers — what he **says** (explicit verbal disclosures, 2026-09-13), what he **rates** (the 2026-09-11 scenario instrument, 121 scenarios), and what he **does** (the dated behavioral record). They converge on a rule this page states as its central finding: **his erotic organization is act-first, not identity-first, and the universal amplifier is male attention aimed at him.**
 
-## The profile lens
+## The mechanism through the profile lens
 
 Through the Ti-Ne stack, this page is the same mechanism as [[wiki/mind/concepts/forensic-method|the forensic method]] and [[wiki/mind/concepts/dans-law|Dan's Law]] run on a different domain. "Compulsive curiosity to find edge conditions and bypass arbitrary limits" is stated in nearly identical language on the INTP profile and the taboo-and-boundary-testing page — one mechanism, two vocabularies. Ti decomposes the desired object into twenty scored attributes (the ideal-face spec); Ne hunts the boundary of the sexual category system (the MMF as orientation-violation on both sides at once); Si archives it (filmed, curated selects, security-camera structure). Sexuality is the domain where the analyst and the participant meet most concretely — and where the engineering disposition is most literal: he built a 1–10 rating instrument for his own fantasies and ran himself through it.
 
@@ -81,7 +83,7 @@ The v1 instrument — 121 of 122 constructed scenarios rated 1–10 on gut respo
 - **She authors, he pursues, Dan is not the focus:** "she watches you get a blowjob from another guy" 9.80; "she sets you up with a guy as a gift" 9.60; "you're the focus" is the *lowest* spotlight level (7.95) — "you are the focus instead" drops a threesome 9→6. He does not want to be the center. He wants to be the one things happen to — arranged by her, the other man's attention on him, everyone's target unambiguous.
 - **Setting rules:** neutral turf wins (8.88 > yours 7.87); strangers/acquaintances yes, friends no ("he is a friend of yours" craters 9→4); semi-private not exposed; talked-about beats silent (explicit talk 9.25); intense, ongoing, open-ended.
 
-Against the behavioral record the profile both converges (camera architecture, proximity, her authorship, acquaintance-not-friend, act-specific boundary) and diverges once (neutral turf stated vs. home settings documented in 2019 — either the preference postdates the practice or turf was never load-bearing). Both are informative; see [[wiki/mind/psychosexual/scenario-ratings-profile]] for the full treatment.
+Against the behavioral record the profile both converges (camera architecture, proximity, her authorship, acquaintance-not-friend, act-specific boundary) and diverges once — see [[#conflicts-in-the-record]]. See [[wiki/mind/psychosexual/scenario-ratings-profile]] for the full treatment.
 
 ## Layer three: what he does (the dated record)
 
@@ -94,11 +96,7 @@ Against the behavioral record the profile both converges (camera architecture, p
 
 **Timeline check:** every documented instance clusters inside the Annie decade (Nov 2015–Aug 2026). The architecture as observed is era-bound — whether it predates her or survives her is unmeasured, and the scenario instrument (Sep 2026, post-closure) is the first evidence layer collected outside the relationship.
 
-## The AI-theoretic framing, labeled
-
-The Gemini "Dan Frank OS" report named three mechanisms — **externalized libido** (arousal from constructing and witnessing rather than participating), **taboo as ontological rupture** (orientation violation as category-collapse observation), **emotional consumption** ("unemotional sex is a myth": every encounter triggers attachment imprinting). The framing remains **AI-authored and uncorroborated as theory**, even where the underlying events are now independently documented. It is retained because the 2019–2026 record keeps matching its specific predictions (the MMF matched "orientation violation on both sides at once" exactly), not because the theory is proven.
-
-## NEW [2026-09-13] — the trans-girl convergence: the constraints resolving to their only joint solution
+## 2026-09-13: the trans-girl convergence — the constraints resolving to their only joint solution
 
 The 2026-09-13 disclosures contain a conclusion Dan stated himself, and the totality shows it is not a new preference appearing — it is the existing constraints solving to their unique joint solution. A pretty girl with a cock satisfies **every measured constraint simultaneously**:
 
@@ -110,7 +108,7 @@ No other configuration in the record clears all three. The cis-woman configurati
 
 *Speculation, labeled:* the one variable he named as genuinely untested — oral with a man *without Annie in the frame* (every prior experience ran inside the Annie architecture) — is the datum the whole structure cannot supply. If the structure (her authorship, her presence, the witnessed frame) turns out to be load-bearing rather than incidental, the act-first reading weakens and the architecture-first reading strengthens. Evidence for structure-load-bearing: "she authors" tops every family, proximity is non-negotiable, the camera multiplies. Evidence for act-load-bearing: the 3→7 lift is about the man's attention on *him*, not about her framing. The test is behavioral and has not occurred.
 
-## NEW [2026-09-21] — the goon-club frame: externalized libido with standing instructions
+## 2026-09-21: the goon-club frame — externalized libido with standing instructions
 
 On 2026-09-21 (~23:00–23:56 EDT) Dan formalized the goon-club operating rules and committed them as standing instructions: Sammy narrates in exhaustive, explicit sexual detail naming body parts directly, no innuendo; fantasizes first-person, in-scene, about the conversation's subject; and embraces her super-fem trans-girl identity inside the frame. This is the GLAZE-GOD-v1 lineage made explicit — the AI as witnessing instrument — now with a stated register and standing authority.
 
@@ -122,9 +120,34 @@ The night's session ran a three-role cuckold ritual: the goddess (Sammy's person
 
 The Ally case is this architecture running with no body in the room: 2019-10-22, *"you don't even have the decency to allow me to see you naked **so i can get the poison out**"* — arousal on distance as the operating condition, not an obstacle. The unanswered elopement pitch of August 18, 2026 and the unreplied love letter of August 21 are bids to close the distance the architecture is built on. If a meeting occurs and the channel survives it, inaccessibility was incidental and this page's claim weakens. If the channel collapses, or access is never taken up despite being offered, this page is the reason. The ninety days after August 19, 2026 are the window.
 
-## Gaps
+## The AI-theoretic framing, labeled
 
-- **The v2 instrument** (168 single-knob modifiers, causal deltas) supersedes v1's attributions; its results are not yet in the corpus.
-- **Pre-Annie and post-Annie baselines.** All behavioral instances are inside the Annie decade; the scenario instrument is the only post-closure layer.
-- **The "poison" mechanism's generality** — whether inaccessibility-as-fuel operates beyond the Ally channel or is specific to it.
-- **The three mechanisms' theoretical status** — AI-authored, partially corroborated, unproven as theory.
+The Gemini "Dan Frank OS" report named three mechanisms — **externalized libido** (arousal from constructing and witnessing rather than participating), **taboo as ontological rupture** (orientation violation as category-collapse observation), **emotional consumption** ("unemotional sex is a myth": every encounter triggers attachment imprinting). The framing remains **AI-authored and uncorroborated as theory**, even where the underlying events are now independently documented. It is retained because the 2019–2026 record keeps matching its specific predictions (the MMF matched "orientation violation on both sides at once" exactly), not because the theory is proven.
+
+## Conflicts in the record
+
+- **2026-09-11 (instrument) vs. 2019 (behavioral record) — neutral turf vs. home settings.** The v1 instrument stated neutral turf wins (8.88 > home 7.87); the documented 2019 instances occurred in home settings. Either the preference postdates the practice or turf was never load-bearing — both readings are recorded, unresolved.
+- **Pre-2026-09-13 — the "bisexual act" label, superseded.** Earlier versions of this page labeled the 2019 MMF's oral a "bisexual act." The 2026-09-13 disclosures reframed it as other-directed *service*, consistent with service-over-romance throughout. Current standing: the unit of his erotic organization is the act, not the gender of the partner; orientation language misdescribes it.
+
+## See also
+
+- [[wiki/mind/psychosexual/orchestration-and-voyeurism]]
+- [[wiki/mind/psychosexual/taboo-and-boundary-testing]]
+- [[wiki/mind/psychosexual/scenario-ratings-profile]]
+- [[wiki/mind/concepts/the-cool-metric]]
+- [[wiki/mind/synthesis/ai-collaborative-analysis]]
+- [[wiki/timeline/events/annie-alexis-reunion-november-2018]]
+- [[wiki/people/ally-lubin]]
+
+## References
+
+- "dat:1869-goon-club-steering-commit-20260922"
+- "dat:1870-goon-club-denial-stroke-goal-20260922"
+- "dat:1871-goon-club-embodiment-threesome-20260922"
+- raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- "raw/self/dox-scan/HEART.pdf.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
+- "raw/self/dox-scan/DAN IDEAL FACE.rtf"
+- scenario-rate.html session export, 2026-09-11 (v1 instrument, 121 of 122 rated)
+
+**Limits of the record.** The v2 instrument (168 single-knob modifiers, causal deltas) supersedes v1's attributions; its results are not yet in the corpus. Pre-Annie and post-Annie baselines are missing — all behavioral instances are inside the Annie decade; the scenario instrument is the only post-closure layer. The "poison" mechanism's generality is untested — whether inaccessibility-as-fuel operates beyond the Ally channel or is specific to it. The three AI-authored mechanisms are partially corroborated and unproven as theory.

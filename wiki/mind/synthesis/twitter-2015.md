@@ -3,11 +3,14 @@ domain: mind
 page_type: period
 status: stable
 date_created: 2026-09-02
-date_modified: 2026-10-04
+date_modified: 2026-10-07
+tier: major
 knowledge: mixed
 date_range_start: 2015-01-01
 date_range_end: 2015-12-28
 title: "Twitter / X — 2015"
+changelog:
+  - "2026-10-07: Expanded to the 3,000-word major floor + restructured to canonical template v1"
 sources:
   - "raw/twitter/archive.jsonl"
   - "raw/twitter/tweet-archive.csv"
@@ -40,9 +43,76 @@ previous May. That is the whole of it.
 
 The year is also the quietest on the account since 2008 — 62 originals, against
 171 the year before and 346 in 2013 — and it contains a **five-month silence**
-that lands on the most documented period of upheaval in Dan's adult life.
+that lands on the most documented period of upheaval in Dan's adult life. What
+makes 2015 the load-bearing year in the @danfrank record is not the low count
+but the shape: the account runs three attention regimes in sequence —
+production, then consumption, then interpersonal address — with a hard
+off-switch in the middle. Every one of the 62 posts also carries zero likes,
+zero replies and zero reposts: the feed posts into a void all year, and nobody
+answers.
 
-## The collapse of the music operation, and why it can be believed
+## The year in one table
+
+Monthly original counts from the operator export (`raw/twitter/tweet-archive.csv`,
+62 rows, all typed Original):
+
+| Month | Posts |
+|---|---|
+| Jan | 5 |
+| Feb | 5 |
+| Mar | 2 |
+| Apr | 0 |
+| May | 1 |
+| Jun | 3 |
+| Jul | 10 |
+| Aug | 0 |
+| Sep | 0 |
+| Oct | 0 |
+| Nov | 0 |
+| Dec | 36 |
+
+The year is not evenly quiet. It is two regimes with a blackout between: a
+seven-month trickle of 26 posts, then nothing from 16 July to 4 December, then
+a 25-day burst of 36 posts — **58% of the year's entire output in 25 days**.
+April has zero posts with no documented archival gap to explain it; it sits
+between the March music post and a single May YouTube-like, and nothing in the
+record suggests the export loses months selectively. The composition also
+changes across the regimes: of the 26 pre-December posts, 18 are platform
+auto-shares (YouTube like/playlist templates, two video-poker app posts, eight
+Kamcord gameplay shares); of the 36 December posts, **zero** are. The December
+burst is the year's only fully authored stretch.
+
+## Nobody was watching
+
+A count sweep over the 62 CSV rows: **zero posts with any non-zero engagement**
+— 0 likes, 0 replies, 0 reposts, every single row. The account is not a small
+audience talking; it is a feed talking to no one. This is not a 2015 artefact
+of the export either: 2016 carries 76 originals across all twelve months and
+only one of them has a non-zero like count. The zero-engagement regime is the
+account's standing condition, not a property of this year — worth stating
+before any reading of the feed's register leans on the idea of an audience.
+Nothing posted in 2015 got a response, and the posting continued anyway. At
+attention level, that is the fact the register has to be read against: these
+posts are written to an empty room.
+
+## The music stops, and the stop is a repeat
+
+The two outputs, with the dates that matter:
+
+| Date | Output |
+|---|---|
+| 2015-01-26 | *Far East Movement — Grimey Thirsty (sloppp remix)*, entered in an official remix contest on wavo.me, with a vote-canvassing post later the same day |
+| 2015-03-16 | *SLOPPP SUMMER TRAP MICROMIX #3* — a link to a YouTube video dated 22 May 2014 |
+
+The January entry is the last competitive submission in the corpus, and it is
+the same behaviour as the April 2014 Beatport entry, down to the sequence:
+enter, ask for votes (*"Vote for my Grimy Thirsty remix!"*), then nothing.
+Two cases, eleven months apart, identical termination mode — the post-entry
+silence. The March post is not new work at all: it recirculates a video made
+ten months earlier, a release-shaped object with no release inside it. After
+16 March there is no music of his own on the account for the rest of the year,
+and the 2014 page's six remixes, three mix series and live video show find no
+2015 continuation anywhere in the record.
 
 The 2013 and 2014 pages both had to be hedged, because their shapes were partly
 the archive's. **This one does not, or not in the same way.** All 62 rows come
@@ -52,34 +122,59 @@ dropped at least one 2016 tweet — but nothing here suggests a systematic hole,
 and a project that released roughly forty things in 2013–14 does not go missing
 from a feed by accident.
 
-What survives of it:
+## What replaces it: the consumption trace
 
-| Date | Output |
-|---|---|
-| 2015-01-26 | *Far East Movement — Grimey Thirsty (sloppp remix)*, entered in an official remix contest on wavo.me, with a vote-canvassing post |
-| 2015-03-16 | *SLOPPP SUMMER TRAP MICROMIX #3* — a link to a YouTube video dated 22 May 2014 |
+With production gone, the feed's attention footprint is consumption — and the
+consumption is a taste record. What he was watching while the music stopped:
 
-The January entry is the last competitive submission in the corpus, and it is
-the same behaviour as the April 2014 Beatport entry: enter, ask for votes, then
-nothing. After 16 March there is no music of his own on the account for the
-rest of the year.
+- **Trap/EDM circuit, heavy:** Ookay three times (a TomorrowWorld clip, an
+  "Ookay Calls Hardwell On NYE" video, an EDC Vegas 2015 vlog), Jack Ü's
+  Madison Square Garden New Year set, a Grandtheft Diplo and Friends radio
+  episode, a Riot Ten remix of A$AP Ferg's "Let It Go" with the caption
+  *"// oooof"*, Lil Jon on Reggie Makes Music, a Kanye "I Don't Like"
+  playlist add on 4 January.
+- **Comedy/conspiracy podcast lane:** Opie & Anthony and Jim Norton twice (a
+  Fez & Jim Show response segment, Alex Jones at Dealey Plaza), Anthony
+  Jeselnik's *Shark Party*, Pete Davidson *"murrrrrdering"*.
+- **The one production-adjacent read:** a FADER piece, *The Kill Bill Sample
+  That's Running Atlanta Rap* — posted 12 December with authored commentary,
+  and the year's only engagement with how music is actually made.
 
-**What replaces it is consumption.** The year's other posts are largely YouTube
-likes and playlist adds — an Ookay tour clip, Jack Ü's Madison Square Garden
-New Year set, an Opie & Anthony segment, Alex Jones at Dealey Plaza — plus, on
-15–16 July, **eight consecutive posts of `True Skate` mobile gameplay clips**
-through Kamcord, and two auto-posts for a video poker app on 17 February. The
-producer's feed has become a viewer's feed.
+The producer's attention stays inside the genre all year; the listening does
+not stop when the releasing stops. That distinction matters for any theory of
+what the collapse is: at attention level, the trace shows disengagement from
+*output*, not from the domain.
 
-This is the concrete shape of a thing `wiki/mind/synthesis/failure-to-launch`
-argues in the abstract: the project does not fail, get rejected, or get
-abandoned in a statement. It simply stops being posted, and the same account
-carries on.
+The remaining pre-December authored posts are micro-items: *"another year. woo
+yay other exciting things"* opens the year on 1 January — a fair summary of
+its register; two auto-posts for a video poker app sit back to back on
+17 February (*#Video_Poker_Plus_HD*, twice — the app's share button, not a
+sentence he wrote); one joke about Duran Duran in March (*"I demand a man-to-man
+with banned band Duran Durand"*); *"Skeert:"* with a YouTube link in June; two
+June replies to @SnowyMiner (*"whoaaaaa dude cool"*).
+
+## The July gaming burst, and the last posts before the blackout
+
+On 15–16 July the account posts **eight True Skate mobile gameplay clips**
+through Kamcord in about twenty hours (15 July 07:37 through 16 July 04:07).
+Five use the app's template caption (*"Check out my True Skate gameplay:"*),
+three carry one-line authored captions: *"Schoolyard Hyperflip Line"*,
+*"booooost"*, *"TRVPAHOLIX"*.
+
+The last of those deserves its second look. *TRVPAHOLIX* is the SLOPPP persona's
+own vocabulary — trap-styled, all-caps, branding-grade — surviving as a gaming
+caption after production has ended. The lexicon outlasts the project that
+minted it. These eight shares are the last posts before the blackout: the
+account's final authored gesture of 2015's first seven months is a producer's
+branding language applied to a skateboarding game.
 
 ## The five months the account is not there
 
 Between **16 July and 4 December 2015 there is nothing on this page.** Not a
-thinning — a stop, in a year with no archival gap to blame.
+thinning — a stop, in a year with no archival gap to blame. The export carries
+a dense 36-post December run through the same pipeline, so the mechanism can
+plainly deliver a burst when there is one; the blackout is the absence of a
+burst, not the absence of a pipe.
 
 That window covers what the corpus documents as the most turbulent stretch of
 Dan's adult life: `wiki/legal/2015-possession-arrest`, and the housing
@@ -89,9 +184,51 @@ secretly keeping a former partner at 337 Saratoga after she was thrown out.
 **The finding is the silence itself, and it is a real one.** Across seven years
 this account has been where Dan narrates a hurricane, a firing, a graduation, a
 job, an internship and a breakup. In the year it is most needed as a record, it
-is empty. The public feed is not a diary that thins under pressure; it is
-switched off under pressure, which is worth knowing before any later year's
-quietness is read as an absence of events.
+is empty. The profile instrument is explicit about the boundary here: the held
+instruments measure attention, not interior state. So the claim stops where the
+instruments stop — this is a behavioral finding about posting, not a finding
+about distress, coping, or motive, and it cannot be loaded with interior
+vocabulary no matter how suggestive the co-occurrence. What the record does
+support: the public feed is not a diary that thins under pressure; it is
+switched off under pressure. And per the instrument's first corollary, the
+silence must not be read as absence — it is a record of the feed, not of the
+events, which other pages document independently.
+
+The contrast with the adjacent year sharpens it: 2016's 76 posts are spread
+across all twelve months (9, 8, 15, 5, 9, 9, 8, 2, 4, 1, 1, 5) with no
+month-long gap anywhere. The account does not stay dark; it comes back. That
+makes the 2015 blackout a bounded episode in the three-year window, not the
+start of a permanent condition.
+
+## The December burst
+
+The account restarts on 4 December and the last four weeks of the year are
+dense — 36 posts in 25 days, roughly 1.4 per day, against the pre-blackout rate
+of about one every eight days. The composition is a clean break from everything
+before it:
+
+- **Zero auto-posts.** No "I liked a video," no playlist adds, no app shares.
+  Every December post is authored text, the longest running 19 words.
+- **The register is short declarative one-liners** — *"Waking Dream"*,
+  *"Everything in its right place"*, *"Sleepy chicken"*, *"A moment of
+  momentum"*, *"It's ALL good"*, *"Pretzel conspiracy #illuminati"*,
+  *"Things I like - hummus and you"*. No threads, no replies, no links with
+  templated frames.
+- **7 of the 36 posts address @Lo_weez** (a handle count, not a narrative);
+  the remainder split between domestic short-lines and media links posted with
+  authored commentary rather than auto frames — the FADER beat-construction
+  piece, two YouTube comedy clips, the Diplo radio episode, the Riot Ten
+  SoundCloud link.
+- **No music of his own.** The December burst contains consumption and
+  address, but no output — the production regime does not resume with the
+  posting.
+
+At profile level this reads as the native burst-and-collapse rhythm the
+instrument prices at weight 7 (leans): a short, dense burst at ~1.4 posts/day
+after five months at zero, not a return to steady-state posting — and the
+record bears that out, because 2016 is the steadier regime and 2015 never
+settles into one. Capped honestly: this is consistency with a measured rhythm,
+stated at attention level, not a mechanism proven from a tweet log.
 
 ## The December cluster is not narrated here
 
@@ -103,31 +240,34 @@ directive in `CLAUDE.md` — the Annie moratorium of 2026-08-23 — which forbid
 any new narrative, event, timeline entry or dated line about her, and the
 December 2015 posts are substantially that. The tweets themselves remain below,
 where they already were; nothing is deleted and nothing is redacted. What does
-not happen is this page turning them into an account.
+not happen is this page turning them into an account. The aggregate
+register-level facts above (counts, cadence, handle frequency, auto-post
+absence) are stated as feed-shape statistics; they are not narrative and are
+not presented as such.
 
 Recorded openly rather than passed over in silence, so that no later session
 reads the gap in this narrative as an oversight and fills it.
 
-## What is left, and it is thin
+## What the export can and cannot prove
 
-*"another year. woo yay other exciting things"* on 1 January is the year's
-opening line and a fair summary of its register. There is a Kanye playlist add
-on the 4th, one joke about Duran Duran in March, and *"Skeert"* in June.
+Everything quantitative above — the monthly table, the 18-of-26 auto-post
+share, the zero-engagement sweep, the December burst composition — is
+re-runnable against `raw/twitter/tweet-archive.csv` and `raw/twitter/archive.jsonl`.
+The claims are counts, not readings. What they cannot do:
 
-The thinness is the content. `wiki/self/twitter`'s own framing — that public
-posting is a valve rather than a diary — is at its clearest in 2015: a
-spreadsheet-backed year with a working music project at the start of it, a
-five-month blackout in the middle, and sixty-two posts in total.
-
-## What would change this reading
-
-Everything above rests on the export being reasonably complete for 2015. It is
-not proven to be, and the demonstrated 2016 miss means a live-scrape pass over
-this year is genuinely worth running rather than a formality. If it returns a
-substantial July-to-December body of posts, the blackout is an artefact and the
-central finding of this page is void. If it returns music releases, the
-collapse is too. Nothing else here would survive that either — which is why the
-page says it plainly rather than in a footnote.
+- **Prove completeness.** The operator export is not a proven census. It is
+  known to have dropped at least one 2016 tweet, and nothing certifies 2015
+  against the same failure.
+- **Prove the blackout.** If a live-scrape pass over this year returns a
+  substantial July-to-December body of posts, the blackout is an artefact and
+  the central finding of this page is void. If it returns music releases, the
+  collapse is too. Nothing else here would survive that either — which is why
+  the page says it plainly rather than in a footnote.
+- **Attribute the silence to a cause.** The arrest and the housing arrangement
+  are documented by the linked pages, not by this feed. Their co-occurrence
+  with the blackout is a dated overlap; the feed itself asserts nothing about
+  it, and the attention–interior boundary forbids importing a motive the
+  instruments cannot see.
 
 ## Coverage
 
@@ -513,4 +653,42 @@ This page is the text archive. Every original and every quote-tweet with Dan's o
 
 > OGG
 
+## Conflicts in the record
 
+**2026-10-04 — Export-completeness caveat (standing).** Every quantitative claim
+on this page — the monthly table, the 18-of-26 auto-post share, the
+zero-engagement sweep, the five-month blackout itself — rests on the operator
+export being reasonably complete for 2015. It is not proven to be: the export
+is known to have dropped at least one 2016 tweet, so the same failure mode is
+on the table for this year. The "quietest since 2008" ranking inherits the
+export's year counts and is conditional on them. A live-scrape pass over 2015
+is the open test, and it is genuinely load-bearing rather than a formality: if
+it returns a substantial July-to-December body of posts, the blackout is an
+artefact and the central finding of this page is void; if it returns music
+releases, the collapse reading is too. Until that pass runs, the page's
+findings carry this flag.
+
+## Assessment
+
+The record supports one judgment and no more: 2015 runs three attention
+regimes in sequence — production (through March), consumption (auto-posted
+through July), interpersonal address (the December burst) — with a hard
+off-switch in the middle, and the December burst is the burst-and-collapse
+rhythm documented in the profile, not a recovery. The silence sits across the
+year's most documented upheaval, and the account is switched off under
+pressure rather than thinned by it — a behavioral fact, stated at the
+attention level the instruments can see. Everything past that is out of the
+instruments' jurisdiction: the tweets do not say why the music stopped, and
+this page does not either.
+
+## See also
+
+- [[wiki/self/twitter]] — the twitter hub: the account's function as valve rather than diary
+- [[wiki/mind/synthesis/failure-to-launch]] — the capability audit, whose abstract "the project stops being posted" claim this year instantiates concretely
+- [[wiki/legal/2015-possession-arrest]] — the arrest whose dated window overlaps the blackout
+- [[wiki/people/alexis-armel]] — the housing arrangement documented across the same months
+
+## References
+
+- `raw/twitter/archive.jsonl` — the operator JSONL export of the tweet archive
+- `raw/twitter/tweet-archive.csv` — the operator spreadsheet: all 62 rows used on this page are typed Original

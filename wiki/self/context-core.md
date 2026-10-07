@@ -5,8 +5,9 @@ title: "Context Core"
 aliases: ["spine", "behavioral spine", "CONTEXT_CORE_EXPANDED"]
 status: stable
 importance: critical
+tier: major
 date_created: 2026-06-22
-date_modified: 2026-08-26
+date_modified: 2026-10-07
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -76,6 +77,8 @@ related:
   - wiki/self/message-corpora/master-message-dump
   - wiki/self/twitter
 changelog:
+  - date: 2026-10-07
+    note: "Restructured to canonical template v1"
   - date: 2026-07-11
     note: "Frontmatter upgrade, LLM Quick Brief added, changelog initialized"
   - date: 2026-06-22
@@ -84,11 +87,30 @@ changelog:
 
 # Context Core
 
+Daniel Gillingham Frank ("Dan"), born November 1, 1988, is an independent music producer (GRIPNOTIC alias, active) and AI-consulting/agent-pipeline builder, based in Uniontown, Fayette County, Pennsylvania, with New York City held as a punk identity anchor.
+
+INTP 5w4 sx/sp — a Ti-dominant forensic analyst who treats every domain, relationships and politics and work and AI, through the same anomaly-detection lens: find where it breaks. The failure mode is never ignorance; it is the diagnosis-to-behavior gap. Democratic socialist, atheist since 2007, self-identified autistic, with paternal-line Jewish heritage that the record treats as load-bearing to his politics.
+
+The decade-defining relationship with Anne Ulmer (~2015–2026) took an involuntary closure on June 1, 2026, held 52 days, and is live again — contact and sexual contact resumed between August 2 and August 9, 2026. Housing is in transition after the ~June 2026 sale of the Uniontown house; the documented landing place is a Uniontown property occupied on no signed lease with no post-close financial plan on record.
+
+This page is why the rest of the wiki's self-knowledge holds together. It is the authoritative behavioral spine: all self-knowledge defers to this synthesis and its raw source for documented facts. Facts tagged `[DOC]` are verified from the behavioral corpus (iMessage, Twitter, GPS, residence records); `[MEM]` marks lower-certainty session memory. Music production is the one consistently sincere output channel.
+
+| | |
+|---|---|
+| **Name** | Daniel Gillingham Frank ("Dan") [DOC] |
+| **Born** | 1988-11-01 (age computed from DOB — no hardcoded figure) [DOC] |
+| **Location** | Uniontown / Leith-Hatfield, Fayette County, SW PA (current); NYC as punk identity anchor [DOC] |
+| **Occupation** | Independent music producer + label; parallel AI-consulting / multi-agent pipeline work [DOC/MEM] |
+| **Typology** | INTP · Enneagram 5w4 sx/sp · Attitudinal Psyche FLEV/VLEF · Socionics ILI-Ni |
+| **Behavioral corpus** | 217,573 records (106,629 sent / 110,944 received, 503 handles), per `bin/mine-messages stats` |
+
+## Scope and governance
+
 **The authoritative behavioral spine.** All self-knowledge in the wiki defers to this synthesis and its raw source for documented facts. Facts tagged `[DOC]` are verified from the behavioral corpus (iMessage, Twitter, GPS, residence records); `[MEM]` marks lower-certainty session memory. The raw source (`CONTEXT_CORE_EXPANDED.md`) additionally contains LLM session configuration and engagement directives, which stay in raw/ — this page carries the knowledge, not the prompt machinery. Interpretive depth (engines, kernel metaphors) lives in [[wiki/mind/concepts/phenomenology-lens]] and is loaded deliberately, never ambiently.
 
----
-
 ## LLM Quick Brief
+
+*Preserved verbatim from the 2026-07-11 revision — machine context-injection content, kept as the session brief it was built to be.*
 
 **For context injection:** Daniel Gillingham Frank ("Dan"), born November 1, 1988, Uniontown PA (age from DOB — do not carry a hardcoded number). Independent music producer (GRIPNOTIC alias, active) and AI-consulting/agent pipeline work. Democratic socialist, atheist, autistic (self-identified), Jewish heritage on the paternal line. INTP 5w4 sx/sp — Ti-dominant forensic analyst who treats every domain (relationships, politics, work, AI) through the same anomaly-detection lens. The failure mode is never ignorance; it is the diagnosis-to-behavior gap. Core unconscious axioms: *not exceptional = worthless; not vigilant = annihilated; love that doesn't cost everything isn't real; time = countdown.* The decade-long relationship with [[wiki/people/annie-ulmer]] took an involuntary closure June 1, 2026 and **reopened in early August 2026 — treat it as live, not historical**; contact, an in-person apology to Suz, and resumed sexual contact all fall between 2026-08-02 and 2026-08-09. Housing is in transition: 337 Saratoga **Drive** sold ~June 2026 ($465k, Suz's transaction); the documented landing place is [[wiki/legal/463-morgantown|463 Morgantown St]], occupied on no signed lease with no post-close financial plan on record. BFS termination (cash dispute) in 2026. The one consistently sincere output channel is music production. All behavioral data defers to the message corpus — **217,573 records, 106,629 sent / 110,944 received across 503 handles**, per `bin/mine-messages stats` — and to documented primary records, not memory or narrative.
 
@@ -238,19 +260,7 @@ Pivot words `actually` / `honestly` / `literally` mark the turn from cynical obs
 
 Lower-resolution contacts with known gaps: Chris James. (The former "Ismaila" gap is resolved: Ismaila Barry = "DJ" of [[wiki/work/au-zaatar|Au Za'atar]] — [[wiki/people/ismaila-barry]].)
 
-> **CONTRADICTION CLOSED [2026-08-16] — she was 97, and this page was the last copy still carrying the spread.**
-> [[wiki/people/fran-coldren]] resolved it on 2026-08-02 against a dated message
-> in which Dan describes her, at the time, as *"a 97 year old woman with advanced*
-> *dimentia"* (2017-12-29) — consistent with an August 1920 birth and an April 2018
-> death. The **98** in this page and in
-> `raw/self/context-core/CONTEXT_CORE_EXPANDED.md`, and the "93-year-old
-> matriarch" in an operator capture, are both superseded. Note the direction of
-> travel: the raw spine was wrong and a dated primary message corrected it, which
-> is the one case `CLAUDE.md` allows a non-raw source to outrank
-> `CONTEXT_CORE_EXPANDED.md`.
->
-> The Coldren / Whyel / Thomas naming is **not** a contradiction — three marriages,
-> all three surnames canonical, all carried as aliases on her page.
+The Coldren / Whyel / Thomas naming is **not** a contradiction — three marriages, all three surnames canonical, all carried as aliases on her page.
 
 ## Residence timeline (canonical) [DOC/MEM]
 
@@ -305,8 +315,48 @@ Trajectory [DOC]: Republican (parroted) → leaves 2006 → diffuse liberal → 
 
 Freezer phone (run over on Second Ave) · Wall of Despair (Tom's [[wiki/people/kristin|Kristin]] comment) · FSLY tip from Jerad · Acura Integra correction · "josh brannan is innocent" (sacred joke) · predicted Roe repeal May 2020 · invented "LOSE IT" fake service · OutKast "Chonkyfire" linked to Jerad's ex · Boomer (first cat).
 
-## Notes
+---
+
+## Conflicts in the record
+
+> **2026-08-02 → 2026-08-16 — Fran Coldren's age: closed at 97.** [[wiki/people/fran-coldren]] resolved it on 2026-08-02 against a dated message in which Dan describes her, at the time, as *"a 97 year old woman with advanced dimentia"* (2017-12-29) — consistent with an August 1920 birth and an April 2018 death. The **98** in this page and in `raw/self/context-core/CONTEXT_CORE_EXPANDED.md`, and the "93-year-old matriarch" in an operator capture, are both superseded. This page was the last copy still carrying the spread. Note the direction of travel: the raw spine was wrong and a dated primary message corrected it, which is the one case `CLAUDE.md` allows a non-raw source to outrank `CONTEXT_CORE_EXPANDED.md`.
+
+> **2026-08-16 — Staleness audit: seven claims superseded.** Ninety of 456 pages were modified after this page's 2026-08-02 revision. Seven claims were superseded by that newer work; each was corrected in place, and the full audit table is preserved verbatim in the LLM Quick Brief above (per `CLAUDE.md` §3 — *never clear a stale warning by bumping a date*). The corrections, in brief: Annie's status reversed from "closed — not live" to live (three dated August 2026 events); Tom's ~16,563-message rank-4 figure **reassigned** — the handle belongs to Kristin Prentiss, flagged as a mislabel by [[wiki/self/message-corpora/master-message-dump]] — Tom is ~5,763, rank #5; the old-residence entry with "no confirmed successor" **corrected and resolved** to the current landing property; the "181,585-row message corpus" is a **wrong object** — that is one file's row count, not the corpus; "97,199 sent iMessages" **superseded** by 106,629; Annie's "126k+ msgs" is rows over overlapping exports, not unique messages (97,768 unique across four handles); Fran's age contradiction **closed** at 97. Standing: the Tom/Kristin correction is the load-bearing error — this page is cited by name as an authority ([[wiki/work/bfs-foods]] quotes it directly), and Tom's corpus weight had been overstated ~2.9× by absorbing a different relationship's thread. Two recurring failure classes were named: a number true of one file but false of the corpus, and the hardcoded constant that ages silently (both are now expressed as derivations rather than constants). What the audit could not settle: the Annie status's last dated evidence is 2026-08-09; the move-in date at the current property, whether the Little Caesars transfer executed, and the current state of the Arnu lien are all unpinned in the record.
+
+> **2026-08-15 — Annie status: reversed from closed to live.** [[wiki/people/annie-ulmer]] (2026-08-15) states it outright — *"Live, not closed — contact resumed"* — on three dated events: **2026-08-02** Annie walks to the house and apologises to Suz in person; **2026-08-08** Jerel Coles identified via FOREWARN at 19:01:22, five-hour collapse follows ([[wiki/timeline/events/august-2026-unmasking]]); **~2026-08-07/09** sexual contact resumes, breaking a stated six-month gap. [[wiki/mind/synthesis/dormancy-not-exit]] reaches the same conclusion independently. *Not operator-confirmed past 2026-08-09 — the corpus is the source, and the last dated evidence is a week old.*
+
+## Assessment
+
+The record supports a narrow one, and it concerns this page's own jurisdiction. The message corpus (217,573 records across 503 handles) arbitrates behavior-level claims; the psychological layer — the four load-bearing axioms — cannot be corroborated by it, because SMS is a near-zero-introspection medium for everyone in it, and so those axioms rest on the AI-session dossiers alone — a thinner evidentiary base than the wiki's confidence in them has so far implied. Two recurring failure classes are documented above: a number that is true of one file and false of the corpus, and the hardcoded constant that ages silently. Where the counts and the interpretive overlays disagree, the counts win — that subordination rule is part of this spine's own governance.
+
+## See also
+
+- [[wiki/self/overview]]
+- [[wiki/mind/concepts/conflict-architecture]]
+- [[wiki/mind/concepts/attachment-model]]
+- [[wiki/mind/concepts/contact-gini]]
+- [[wiki/mind/concepts/phenomenology-lens]]
+- [[wiki/mind/concepts/dans-law]]
+- [[wiki/people/tom]]
+- [[wiki/people/suzanne-frank]]
+- [[wiki/people/annie-ulmer]]
+- [[wiki/people/jerad-friedline]]
+- [[wiki/people/fran-coldren]]
+- [[wiki/timeline/events/eli-incident]]
+- [[wiki/timeline/events/group-chat-closure]]
+- [[wiki/self/message-corpora/master-message-dump]]
+- [[wiki/self/twitter]]
+
+## References
 
 When in doubt, the documented counts, timelines, and primary records here override generated metaphor. The raw corpus behind this page: **217,573 message records** (106,629 sent / 110,944 received, 503 handles) in the direction-reliable dump, plus audio and listening/library data. **181,585 is not the corpus** — it is the row count of a single file, `imessage_ALL_both_all_now.csv`; see [[wiki/self/message-corpora/source-coverage-index]], which counts 52 sources and 1,786,124 rows against roughly 187,000 unique messages.
 
-
+- raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md
+- raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-07.md
+- raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md

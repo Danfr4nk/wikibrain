@@ -4,6 +4,10 @@ shared: true
 shared_from: wiki/people/alice.md
 shared_at: 2026-09-22
 domain: share
+date_modified: 2026-10-07
+tier: major
+changelog:
+  - "2026-10-07: Expanded to the 3,000-word major floor + restructured to canonical template v1"
 ---
 
 > **Shared snapshot** — a copy of `wiki/people/alice.md` taken on 2026-09-22. This page is public and ungated. Links to other wiki entries were flattened because those entries stay behind the wiki's password gate; the Cliff notes section at the bottom carries the context they would have provided.
@@ -16,20 +20,29 @@ Annie's sister **Claire Ulmer-Gates** and Claire's
 husband **Garrett Gates**, and the younger sister of
 **Otto Gates**. She is the most-mentioned child in the archive,
 and the center of the largest sustained unpaid commitment anywhere in Annie's
-documented life.
+documented life. Her surname is the one fact the corpus never contained:
+Dan supplied **Gates** on 2026-09-22, and this page is named after it.
 
-She matters to this wiki for two reasons that have nothing to do with her. The
-first is archival: **Claire Ulmer-Gates** recorded, since it was written,
-that *"Claire has children — an unnamed niece and nephew."* They are named here,
-and as of 2026-09-22 they are surnamed — Gates, supplied by Dan, the one fact
-the corpus never contained. The second is human, and it is the real subject of
-this page: for three years, through the collapse of the relationship at the
-center of this wiki and past its supposed end, Annie showed up for this child
+For three years, through the collapse of the relationship at the center of
+this wiki and past its supposed end, Annie showed up for this child
 continuously — haircuts, school runs, dance classes, bedtimes, sick days — and
 narrated it all to Dan in real time, which is why the record of it is unusually
 dense and unusually tender.
 
-## The aunt-niece bond
+She matters to this wiki for two reasons that have nothing to do with her. The
+first is archival: **Claire Ulmer-Gates** recorded, since it was written,
+that *"Claire has children — an unnamed niece and nephew."* They are named here.
+The second is human, and it is the real subject of this page.
+
+## 2023–2024: the visiting years
+
+One fact of geography governs the whole record. Annie lived in New York City
+until February 2025; Alice and Otto grew up in Pennsylvania. Every sighting
+before 2025-02-22 is a visit home — a Halloween party, a February school pickup,
+a July meltdown held through — not daily life. The intensive childcare of 2025
+is what her return made possible, and the velocity of the mentions is the
+proof: once she is back in Pennsylvania, the children enter the record at a
+pace visits never produced.
 
 The relationship is ordinary, and that is the point. It begins on **2023-10-28**
 at a kids' Halloween party: *"I am at a kids Halloween party with Claire and
@@ -47,7 +60,9 @@ handled the other death well"* — a small, devastating line that says a
 five-year-old has already handled deaths before, plural, well. In July 2024
 Annie naps with her, reads to her, holds her through a meltdown.
 
-2025 is the intensive year, and the log below carries all of it, but the shape
+## 2025: the intensive year
+
+2025 is the intensive year — she is back in Pennsylvania, and the log below carries all of it, but the shape
 is this: Annie does Alice's hair constantly (it becomes a refrain — *"Going to
 cut Alice's hair,"* *"I'm finishing Alice's hair,"* *"I am finishing cutting
 Alice's hair"*), takes her to McDonald's and Goodwill and Target, brings lunch
@@ -65,24 +80,8 @@ constipation — *"she has such a hard time popping. For years. Literally crying
 full blown tears bc she couldn't go. I feel so bad"* — the kind of caregiving
 detail that only exists when someone is really there, at bedtime, for years.
 
-And then the line that is the thesis of the whole page. On **2026-07-28**, in
-the middle of the summer when the relationship is supposedly terminally over,
-Annie texts Dan: *"Dan I swear on Alice and Otto. My most favorite tiny
-humans."* She swears on them. They are the oath she reaches for.
-
-**And it did not stop when the relationship did.** The recovered iPhone
-messages — the ones that killed the "terminally ended" framing — show the
-childcare running straight through August 2026: *"Bc I gotta watch Alice. I
-gotta hurry"* (2026-08-24), *"I gotta cut Alice's hair now"* the same evening,
-*"I told you I am busy Alice will not sit still."* The next day she is heading
-to Claire's *"to hear about Alice's first day"* — first day of school, landing
-exactly where the birth inference said it would. Whatever else ended in August
-2026, aunt Annie did not.
-
-## What it establishes about Annie
-
-The clearest statement is 2025-03-31, in a message listing everything that had
-gone wrong in one day:
+The clearest statement of what the economics looked like is 2025-03-31, in a
+message listing everything that had gone wrong in one day:
 
 > *"I woke up feeling shitty. My mouth STILL hurts. It's been exactly one week.
 > Then you started getting mad at me. Then I got the letter I was denied
@@ -104,15 +103,37 @@ person, repeatedly, over years, with no audience. The other instance is Libby.
 This is the largest sustained commitment in her documented life, and she is the
 one who named it unpaid, on the record, laughing through it.
 
-There is a second, harder edge. The childcare also strained the relationship
-with Dan. On 2025-06-14 the bedtime message ends *"…I’m sorry I not perfect and
-I am sorry for making you miserable and being so shitty. I love you and I
-miss"* — an apology folded into a message about Alice not falling asleep. On
-2025-05-02 Dan writes the sharpest single line in the corpus about how separate
-the two families stayed: *"alice wouldn't be so unfamiliar with my name that
-she literally can't understand what you're saying when you use it."* He had,
-on this evidence, never met her. The children were the center of Annie's weeks
-and a stranger to Dan's life — both things true at once.
+The childcare was also the relationship's standing scheduling constraint. A
+corpus-level analysis of the Dan–Annie iMessage thread (December 2022 to
+September 2026) found 10 confirmed plus 2 probable instances, August 2025 to
+April 2026, where a plan with Dan broke and the stated reason was a sudden
+family obligation — and 2 of the 12 were genuine emergencies; the rest were
+routine obligation. Among the confirmed: November 4, 2025, she left Dan's place
+early — *"my mom asked me to clean out my old dressers bc they are going in
+Alice's bedroom"*; April 21, 2026 — *"have to be at Claire's house tomorrow
+morning at 7:30am are you mad at me."* And the kids-as-ready-made-excuse was
+conscious, not just circumstantial: on January 19, 2026 she joked about
+telling someone else *"I'll just tell her I need to go pick up the kids lol."*
+The far more common pattern, though, was family as logistics rather than
+excuse — the endless "have to watch the kids" shaping of plans without
+breaking them. ("I fell asleep" is her runaway #1 excuse across the whole
+thread; family-as-excuse is a distant second.)
+
+## 2026: past the supposed end
+
+And then the line that is the thesis of the whole page. On **2026-07-28**, in
+the middle of the summer when the relationship is supposedly terminally over,
+Annie texts Dan: *"Dan I swear on Alice and Otto. My most favorite tiny
+humans."* She swears on them. They are the oath she reaches for.
+
+**And it did not stop when the relationship did.** The recovered iPhone
+messages — the ones that killed the "terminally ended" framing — show the
+childcare running straight through August 2026: *"Bc I gotta watch Alice. I
+gotta hurry"* (2026-08-24), *"I gotta cut Alice's hair now"* the same evening,
+*"I told you I am busy Alice will not sit still."* The next day she is heading
+to Claire's *"to hear about Alice's first day"* — first day of school, landing
+exactly where the birth inference said it would. Whatever else ended in August
+2026, aunt Annie did not.
 
 ## Age
 
@@ -128,7 +149,19 @@ pair). By March 2025 she is in school with a class, a teacher, and a building
 that closes for repairs; in August 2026 she starts a new school year (*"to hear
 about Alice's first day"*). A fall-2019 birth makes her six starting first
 grade in August 2026 — the inference holds together (confidence: high on the
-year, medium on the month).
+year, medium on the month). A birthday message would fix it; none has surfaced.
+
+## What it establishes about Annie
+
+There is a second, harder edge. On 2025-06-14 the bedtime message ends *"…I'm
+sorry I not perfect and I am sorry for making you miserable and being so shitty.
+I love you and I miss"* — an apology folded into a message about Alice not
+falling asleep. On 2025-05-02 Dan writes the sharpest single line in the corpus
+about how separate the two families stayed: *"alice wouldn't be so unfamiliar
+with my name that she literally can't understand what you're saying when you
+use it."* He had, on this evidence, never met her. The children were the center
+of Annie's weeks and a stranger to Dan's life — both things true at once.
+Whether Dan ever met her is not established either way.
 
 ## Complete log
 
@@ -222,9 +255,10 @@ I gotta watch Alice. I gotta hurry"; "I gotta cut Alice's hair now"; "I told
 you I am busy Alice will not sit still." **2026-08-25** — "Bc I'm about to go
 to Claire's house to hear about Alice's first day."
 
-## The Wednesday-alibi speculation, tested and rejected
+## Conflicts in the record
 
-**Claire Ulmer-Gates** carried a flagged reading from an AI-authored
+**2026-09-09 — The Wednesday-alibi speculation, tested and rejected.**
+**Claire Ulmer-Gates**'s page carried a flagged reading from an AI-authored
 dossier: that Wednesday visits to help with Claire's kids functioned as a
 recurring alibi pattern during the relationship's suspicious period. Tested
 against the full message dump, it fails — Wednesday is the *least* likely day
@@ -233,21 +267,47 @@ baseline for Claire (9.7%), whose mentions concentrate on Friday and Saturday.
 The reading is retired, not merely unverified; the falsifier is recorded on
 **Claire Ulmer-Gates**. This rules out one proposed mechanism on one axis,
 and nothing more — the **Eli** record is
-untouched.
+untouched. Note: those day-of-week shares were computed on the dox-scan full
+dump, which is not held in this repository; the method is sound but the
+numbers are dump-specific (see the 0109 entry below).
 
-## Gaps
+**2026-09-09 — The page's headline counts and date range rest on the dox-scan
+dump, which is not held in this repository.** The headline numbers — 66 Alice
+mentions between 2023-10-28 and 2025-07-10, Otto 31, Claire 257, and the
+Wednesday-share table over a 217,573-record baseline — are computed from
+`raw/self/dox-scan/all_imessages_complete_dump.txt`, **not held in this
+repository**. In the corpus that is held (`corpus/messages.csv`, 192,140
+messages), word-boundary counts differ: Alice 37 (2025: 19, 2026: 18), Otto 28 —
+and Alice mentions run through **2026-08-13**, thirteen months past the stated
+end date. The page's own complete log above already extends past 2025-07-10,
+so the stated range is stale against the page's own evidence. Current standing:
+the page's numbers are assertions from the unheld dump — checked as far as the
+repository allows, not contradicted, but not replicated.
 
-1. **Surname.** Resolved 2026-09-22 by Dan: **Gates** — Alice Gates, daughter of
-   Claire Ulmer-Gates and Garrett Gates. The corpus never contained it.
-2. **Exact birth date.** Inferred as October **2019** (confidence: medium-high
-   on the year, medium on the month) from "I missed the first four years of
-   Alice's fucking life" (2025-06-19) plus the 2025-10-19 birthday party and the
-   August 2026 school start. A birthday message would fix it.
-3. **Whether Dan ever met her.** Dan's 2025-05-02 line — *"alice wouldn't be so
-   unfamiliar with my name that she literally can't understand what you're saying
-   when you use it"* — reads as evidence he had not, and is the sharpest single
-   line in the corpus about how separate the two families stayed. Not established
-   either way.
+**2026-09-09 — The page's two most load-bearing quotes are not replicable in
+the held corpus.** (1) **2025-06-19** — *"I missed the first four years of
+Alice's fucking life"*, the sole basis for the ~2019–2020 birth inference;
+(2) **2025-03-31** — *"I got the letter I was denied unemployment"* inside the
+*"should we tip annie?"* message, asserted as the only record in the corpus of
+Annie applying for unemployment and the date of her income collapse (March
+2025). All four exact phrases ("missed the first four years", "should we tip
+annie", "will not fall asleep", "denied unemployment") return zero hits in the
+held corpus; the 16 "unemployment" hits are all 2020-era and mostly Dan's own.
+Both quotes live in the unheld dox-scan dump — they are single-transcription
+claims about records this ingest cannot re-read. Absence in the held corpus is
+never_observed, not known_not_to_occur; the claims may be exactly true of the
+dump. Filed as a low-confidence datum, not a contradiction. Pulling the
+dox-scan dump would close both quotes in one move.
+
+## Assessment
+
+The record supports one judgment, stated plainly: childcare for Alice is the
+largest sustained unpaid commitment in Annie's documented life, and she is the
+one who named it unpaid on the record — *"(Which of course I wasn't paid
+for)… 'should we tip annie?'"*, laughing through it. It ran three years, past
+the relationship's supposed end, at a velocity her return to Pennsylvania made
+possible. Almost nothing else in the corpus shows her doing something for
+another person, repeatedly, over years, with no audience.
 
 ## Cliff notes
 
@@ -257,3 +317,12 @@ untouched.
 - **Otto Gates** — Alice's younger brother, Annie's nephew. He has his own full entry; the two arcs overlap — same household, same aunt, same years.
 - **Libby Titus** — the songwriter ("Love Has No Pride," co-written with Eric Kaz; married to Donald Fagen for thirty-one years) who employed Annie as a paid personal assistant in Manhattan through the first half of 2024. She was terminally ill for most of it and died on October 13, 2024, with an unpaid-wages dispute between them still open.
 - **Eli** — the Eli Incident: the sustained concealed affair between Annie and her coworker Eli, active from at least August 2024 and defended by months of gaslighting, which ended the Annie decade in substance.
+
+## References
+
+- `raw/self/dox-scan/all_imessages_complete_dump.txt` — ⚠ source reference unresolved — original target no longer exists in current corpus. The page's headline counts, date range, day-of-week shares, and two most load-bearing quotes are transcribed from this unheld dump; see Conflicts in the record.
+- `raw/self/message-csv/imessage_‹digits-withheld›_both_all_now.csv` — ⚠ source reference unresolved — same note as above. (Filename contains a phone number; digits withheld.)
+- `raw/imessage/messages-iphone-union-gapfill-20260921.csv` — the recovered iPhone messages (2026-08-24/25 childcare), per the page's own frontmatter on the gated source.
+- Dan's testimony: surname "Gates" supplied 2026-09-22.
+- Annie's testimony: iMessage corpus, dated quotes 2023-10-28 through 2026-08-25.
+- `kb/data/0109-alice-counts-range-from-dump-not-held-here.md`, `kb/data/0110-alice-age-inference-and-unemployment-denial-quotes-unreplicated.md`, `kb/data/annie-family-excuse-corpus-20260922.md` — corpus-coverage and provenance analysis, 2026-09-09/22.

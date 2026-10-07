@@ -5,7 +5,10 @@ knowledge: earned
 title: "Vertical Authority Skepticism"
 status: stable
 date_created: 2026-06-22
-date_modified: 2026-09-03
+date_modified: 2026-10-07
+tier: major
+changelog:
+  - "2026-10-07: Restructured to canonical template v1"
 sources:
   - raw/people/captures/2026-08-11_051311_rick-childhood-control-and-humiliation.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -145,7 +148,6 @@ connections:
     claim: "January 6th is the cleanest demonstration: he forms a police-collusion hypothesis at high confidence, prices it in the same tweet ('but what was the endgame? is that being too generous'), and rejects the antifa-infiltration mirror because it requires its actors to work against their own interests."
 ---
 
-
 # Vertical Authority Skepticism
 
 Dan treats the vertical axis — fathers, managers, owners, institutions, the
@@ -158,6 +160,20 @@ is the tell that this is not dominance-seeking: he neither obeys the
 hierarchy nor competes for its top — he exits the axis and audits it from
 outside. [[wiki/self/context-core|The spine]]'s own formula: "vertical-
 authority-skeptic, lateral-solidarity-privileging."
+
+The record gives this architecture a dated genealogy — the November 2005
+family hinge, and, earlier, a childhood pattern of public confrontation over
+unpredictable infractions — and then shows the same disposition running at
+every scale: the workplace drawer, the state, the archive, the feed. The
+one-year window of 2011 shows the axis fully formed six years before he
+engaged politically and nine before he adopted a label, aimed at every
+vertical in sight and at nothing redistributive. Laterally, trust is extended
+to the vetted few and audited late. Even his own ironic "conspiracy crank"
+self-label does not survive contact with what he actually does: the archive
+shows him working live conspiracies to a resolution and publishing the
+negative result.
+
+{Infobox renders here from frontmatter.}
 
 ## The template: family verticals
 
@@ -206,24 +222,17 @@ as family memory ([[wiki/self/ancestry]]).
 
 **Micro — the workplace.** The earliest and, after BFS, best-documented
 workplace instance is [[wiki/work/creative-license|Creative License]],
-2011–2012, fourteen years before the same shape recurs at BFS.
-
-> **RE-CORRECTED [2026-08-10, second pass]:** This section previously
-> flagged the Creative License case as an unconfirmed AI-dossier narrative
-> and declined to rely on it. A live Gmail search recovered the actual
-> record: Dan's final paycheck was disputed for six weeks, the company's
-> accountant wrote him "It's a trust issue. We don't trust you," Dan filed
-> IRS and NYS Department of Labor complaints, and — four months later —
-> he disclosed to a former coworker that the company's president had used
-> Dan's own account to pressure former employees and had altered departing
-> interns' contracts to silence them. The president retaliated with a
-> false, notarized LinkedIn claim asserting Dan had never worked there at
-> all. None of this is the dossiers' "airfare-billing" story, which does
-> not appear anywhere in the recovered record and should be treated as
-> invented — but the underlying claim ("this is the founding vertical-
-> authority case") survives on much stronger evidence than before. Full
-> account on [[wiki/work/creative-license]] and
-> [[wiki/people/kevin-mckiernan]].
+2011–2012, fourteen years before the same shape recurs at BFS. Per the
+operator's own recovered Gmail record: Dan's final paycheck was disputed for
+six weeks; the company's accountant wrote him "It's a trust issue. We don't
+trust you"; Dan filed IRS and NYS Department of Labor complaints; and four
+months later he disclosed to a former coworker that the company's president
+had used Dan's own account to pressure former employees and had altered
+departing interns' contracts to silence them. The president retaliated with
+a false, notarized LinkedIn claim asserting Dan had never worked there at
+all. (See Conflicts in the record for the 2026-08-10 correction to this
+case's earlier framing.) Full account on [[wiki/work/creative-license]] and
+[[wiki/people/kevin-mckiernan]].
 
 The BFS drawer dispute is the cleanest
 crystallization: an assistant manager's off-books "$50 short, you owe me"
@@ -300,29 +309,16 @@ are treated as junior analysts requiring explicit anti-softening constraints
 suspicion as a manager's unverified demand
 ([[wiki/mind/concepts/exocortex]]).
 
-## He uses the label himself, and it does not change the finding
-
-Before the section below is read: on **2023-02-10**, laughing at a theory he
-found too stupid to entertain, Dan wrote *"Anytime you find a narrative that a
-conspiracy crank like myself finds bird brained enough to actually laugh
-at…it's something special."*
-
-**He applies the label to himself, ironically, while doing the opposite of what
-it describes.** That is worth stating on a page whose argument is that the
-label does not fit — a finding that a description is wrong is weaker if it
-turns out the subject uses it and the page never said so. It does not overturn
-anything below: the behaviour the section documents is unchanged, and the
-sentence is a joke made in the course of dismissing a conspiracy theory. But
-the self-description is on the record, and this page should not be the last
-place to hear about it.
-
-## The conspiracy question, settled by what he actually does
+## The conspiracy question: the label and the behavior
 
 Dan calls himself a **"conspiracy crank"** in public — 10 February 2023, in
-passing, as a self-description he expects to be understood. He spends leisure
-time on the material: *"I needed a pallet cleanser so I finally spent some
-time learning about the MLK assassination conspiracy"* (6 March 2023). On a
-skepticism-of-authority page that label looks like a confirming detail.
+passing, as a self-description he expects to be understood, laughing at a
+theory he found too stupid to entertain: *"Anytime you find a narrative that
+a conspiracy crank like myself finds bird brained enough to actually laugh
+at…it's something special."* He spends leisure time on the material:
+*"I needed a pallet cleanser so I finally spent some time learning about the
+MLK assassination conspiracy"* (6 March 2023). On a skepticism-of-authority
+page that label looks like a confirming detail.
 
 **The behaviour does not match the label, and the archive settles it.** In
 every documented case where Dan works a live conspiracy in public, he works
@@ -376,25 +372,7 @@ understanding of the subject at hand…I'm probably wrong"* (31 January 2022) �
 a pre-emptive discount on his own credibility, applied before anyone else can.
 See [[wiki/mind/concepts/calibrated-confidence]].
 
-**Falsifier.** A documented case of Dan promoting a conspiracy claim he had
-been shown was false, or continuing to push one after his own check failed,
-would break this. The archive as it stands contains none — but it contains
-2,525 originals and no private material, and the private corpora have not been
-searched for this specific pattern.
-
-## Function and cost
-
-The skepticism powers the forensic default and demonstrably works — the
-drawer contradiction was caught in real time, and the [[wiki/people/anita|Anita]] blame-pivot
-pattern was mapped before it reached him. The documented costs: career
-friction at every job in the record, an unemployability-by-temperament the
-dossiers state flatly ("fundamentally unfit for traditional labor...
-bureaucracy is systemic death"), and the loneliness of positions no tribe
-will co-sign. The music thread is the one vertical-free zone: self-released,
-self-owned, no manager, no label — which the corpus explicitly connects to
-its status as the one sincere channel.
-
-## The axis is a clock (added 2026-08-02)
+## The axis is a clock
 
 [[wiki/mind/synthesis/the-deferred-audit]] reads this page against
 [[wiki/mind/concepts/the-cool-metric]], [[wiki/mind/concepts/chaos-preference]]
@@ -418,9 +396,114 @@ That reframing matters because it converts a disposition into a prediction: a
 newly chosen lateral tie should show no forensic material until it fails, and
 the delay should scale with how load-bearing the tie is.
 
-**Gaps:** no documented case of a vertical institution *earning* trust back
-— the model has no rehabilitation path; the 2021–23 corpus silence means the
-Au Za'atar-era employer relationship is reconstructed only from later
-narration.
+## Function and cost
 
+The skepticism powers the forensic default and demonstrably works — the
+drawer contradiction was caught in real time, and the [[wiki/people/anita|Anita]] blame-pivot
+pattern was mapped before it reached him. The documented costs: career
+friction at every job in the record, an unemployability-by-temperament the
+dossiers state flatly ("fundamentally unfit for traditional labor...
+bureaucracy is systemic death"), and positions published at high visibility
+that no tribe co-signs (the Pelosi week). The music thread is the one
+vertical-free zone: self-released, self-owned, no manager, no label — the
+corpus's only channel with no vertical figure anywhere in it.
 
+**Limits.** Two gaps bound this page. There is no documented case of a
+vertical institution *earning* trust back — the model has no rehabilitation
+path; every audit documented here resolves to refusal, never to reinstatement.
+And the 2021–23 corpus silence means the Au Za'atar-era employer relationship
+is reconstructed only from later narration, not from contemporary records.
+
+## Conflicts in the record
+
+**2026-08-10 — Creative License re-correction (second pass).** This page
+previously flagged the Creative License case as an unconfirmed AI-dossier
+narrative and declined to rely on it. A live Gmail search recovered the
+actual record: Dan's final paycheck was disputed for six weeks; the company's
+accountant wrote him "It's a trust issue. We don't trust you"; Dan filed IRS
+and NYS Department of Labor complaints; four months later he disclosed to a
+former coworker that the company's president had used Dan's own account to
+pressure former employees and altered departing interns' contracts to silence
+them; the president retaliated with a false, notarized LinkedIn claim
+asserting Dan had never worked there at all. The AI dossiers' original
+"airfare-billing fraud" story does not appear anywhere in the recovered record
+and is treated as uncorroborated invention. Standing: the underlying claim —
+this is the founding vertical-authority case — survives on substantially
+stronger evidence than before.
+
+**2026-08-11 — Second candidate origin added.** This page previously carried a
+single candidate origin: the November 2005 concealed-reality hinge. On
+2026-08-11 Dan dictated, in his own words, a second, earlier candidate: Rick's
+childhood pattern of public confrontation and humiliation over unpredictable
+"moral" infractions (the Tan Calabrese/Angelfire incident as the clearest
+instance). The mechanism differs in kind from 2005: concealment teaches that
+a vertical figure's stated reality can be false; the childhood pattern teaches
+that a vertical figure's *judgment* is unpredictable and its enforcement
+public. Standing: two candidate origins, not one; both are carried.
+
+**2026-08-02 — "The axis is a clock" reframing added.** Via
+[[wiki/mind/synthesis/the-deferred-audit]]: the vertical/lateral framing was
+recast as audit *timing* rather than a trust axis — laterals are audited
+later, not trusted more. Standing: the reframing is incorporated; every audit
+documented on this page still resolves to exactly one of two outcomes once it
+runs (per [[wiki/mind/synthesis/the-binary-verdict]]).
+
+**Self-label disclosure.** On 2023-02-10 Dan applied the "conspiracy crank"
+label to himself, ironically, while dismissing a theory he found too stupid to
+entertain — and this page's argument that the label does not fit would be
+weaker if it never said so. The disclosure is recorded in the body above; it
+does not overturn the finding, because the sentence is a joke made in the
+course of rejecting a conspiracy theory, and the documented behavior is
+unchanged.
+
+## Assessment
+
+The record supports treating vertical-authority skepticism as a measured
+disposition rather than a stance: Trust 9, low sociability, suspicion language
+at 1.96× baseline, vertically scoped with a corpus-resolved scope limit
+(sixteen years of unpapered housing ran on a lateral channel — the distrust
+targets vertical *claims*, not people per se). The weighted profile
+instrument prices this cluster at weight 9, verdict supported
+(`wiki/mind/profile/big-five-psychometrics` triangulated three ways).
+
+The conspiracy finding is the sharpest falsifiability test the page carries:
+the label "conspiracy crank" fails against the documented behavior — live
+claims worked to resolution, negative results published, one against his own
+side at named cost. The falsifier is on the record: a documented case of Dan
+promoting a conspiracy claim he had been shown was false would break it. The
+held archive contains none — but the search is bounded (2,525 originals, no
+private material; the private corpora have not been swept for this pattern),
+so the finding is a standing verdict on the held record, not a universal
+one.
+
+The cost side is documented, not inferred: career friction at every job in
+the record, and the predicted asymmetry that vertical audits resolve in a
+day while lateral audits take years — which is where the pattern is
+load-bearing in every domain and, per the record, uncorrectable by
+self-knowledge alone.
+
+## See also
+
+- [[wiki/mind/synthesis/the-deferred-audit]]
+- [[wiki/mind/synthesis/political-psyops]]
+- [[wiki/mind/synthesis/the-cato-seat]]
+- [[wiki/mind/synthesis/totality-themes]]
+- [[wiki/mind/concepts/institutional-out]]
+- [[wiki/mind/profile/big-five-psychometrics]]
+- [[wiki/work/creative-license]]
+- [[wiki/work/bfs-foods]]
+- [[wiki/work/au-zaatar]]
+
+## References
+
+Rendered from the frontmatter `sources[]` list. The ⚠ unresolved-source
+warnings are part of the record's honesty and are kept visible:
+
+- `raw/people/captures/2026-08-11_051311_rick-childhood-control-and-humiliation.md` — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- `raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md` — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- `raw/self/context-core/CONTEXT_CORE_EXPANDED.md` — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- `raw/self/chats/Drawer shortage dispute with assistant manager (1).md` — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- `raw/wiki/new-wiki/wikibrain/wiki/self/chats/j6-chat.md`
+- `raw/self/chats/_✧✧ 𝔻𝔸𝔻𝔽ℝ𝔸ℕ𝕂-𝕀𝕊𝕄'𝕊 ✧✧ Pinned chat.md` — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- `raw/self/facebook/facebook-ihatedanfrank/` — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+- `raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip` — ⚠ Source reference unresolved — original target no longer exists in current corpus.

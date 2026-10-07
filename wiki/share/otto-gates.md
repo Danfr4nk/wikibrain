@@ -4,6 +4,10 @@ shared: true
 shared_from: wiki/people/otto.md
 shared_at: 2026-09-22
 domain: share
+tier: major
+date_modified: 2026-10-07
+changelog:
+  - "2026-10-07: Expanded to the 3,000-word major floor + restructured to canonical template v1"
 ---
 
 > **Shared snapshot** — a copy of `wiki/people/otto.md` taken on 2026-09-22. This page is public and ungated. Links to other wiki entries were flattened because those entries stay behind the wiki's password gate; the Cliff notes section at the bottom carries the context they would have provided.
@@ -19,6 +23,15 @@ mentioned roughly half as often as his sister, and the record of him is thinner
 and younger: diapers in the summer of 2024, a fixed afternoon nap by the spring
 of 2025, sent home from school for saying "fuck" by the spring of 2026, and
 picked up from school by Annie in September 2026.
+
+Dan put the family structure in his own words in June 2025, in a document he
+drafted for ChatGPT as a bespoke-personality brief for Annie's onboarding:
+*"Her older sister is Claire, who is married to Geeg and has two children -
+Otto & Alice."* "Geeg" is the household name for Garrett Gates; the document
+also names Annie's younger brother Will and her parents Bill and Ellen, and
+describes Annie's dogs Betty and Milo. It is the cleanest single statement in
+the record of who the Gates household is: Claire and Garrett, two children,
+Otto the younger.
 
 If Alice is the child Annie raised alongside, Otto is the child the record
 watches grow up. The two arcs overlap — same household, same aunt, same years —
@@ -53,46 +66,86 @@ against a school-age sister's supervised rest. *"Otto sleeping."* *"Otto told
 me to go away lol."* The same spring they are handled as a pair: soccer practice
 together (2025-03-19), Sweet Frog (2025-05-08), a sleepover with pedicures
 *"from aunt Annie"* (2025-05-17), church the next morning at their own request.
+In late May he gets his own small milestone: *"Then Otto asked me to go to the
+playground at Hatfield with him 🥺"* (2025-05-26) — Annie reporting the
+pleading emoji like it decided the matter.
 
-2026 is the year he becomes a little boy in the record. Annie cuts his hair in
-January (*"I was cutting Otto's hair Dan"*) and again in March (*"MAYBE I am
-going to cut Otto's hair again bc he didn't let me finish the last time
-lolololol"*). In May he gets sent home from school: *"Well Otto had to leave
-school because he said fuck hahahahah"* (2026-05-21) — Annie taking him to
-lunch after, *"then I'll cash the check."* In August he has a doctor's
-appointment for his asthma in Morgantown (2026-08-02) — the file's only health
-detail, and a small one that says he is a real child with a real chart
-somewhere. And Annie's own characterization, **2026-07-24**: *"He's a sour
-patch kid. First sour then sweet. Just like Otto."*
+The domestic texture keeps accumulating through 2025: watching both children at
+1:00 while Claire is at a doctor's appointment (2025-06-16), *"I have Otto here
+at my parents house he has to take a nap"* (2025-06-29), *"I was trying to nap
+and Alice and Otto came flying through my door"* (2025-07-13). On Halloween
+morning 2025, *"Dan i have been watching otto all morning. I have been busy i
+am sorry"* (2025-10-31). A November meltdown: *"Claire is literally standing
+outside of Otto's door holding it closed because he is literally having
+meltdown"* (2025-11-11). And the Christmas-season detail that survives best:
+*"That reminds me, Otto's favorite phrase today was 'butt cheek'"*
+(2025-12-23) — a three- or four-year-old's vocabulary, reported with pride.
 
-The through-line is the school pickup. Claire calls and Annie goes — sick in
-January 2026 (*"He is sick again 😖 so I am going to be with him today"*),
-"being bad" in February, three separate pickups in a single day in May, and then
-**2026-09-17**: *"Got a call to please pick up Otto from school lol."* The
-recovery memo flagged this Otto as a new unidentified name. It isn't. Same
-aunt, same school-pickup pattern, school-age by 2026 exactly as the birth
-inference predicts. The nap-schedule toddler of March 2025 is the school pickup
-of September 2026, and Annie is still the one getting the call.
+## The school-pickup year
 
-## What it establishes about Annie
+2026 is the year he becomes a little boy in the record, and the record of that
+year is organized around two recurring events: haircuts and school pickups.
 
-Two things, and they pull in opposite directions.
+Annie cuts his hair in January (*"I was cutting Otto's hair Dan"*, 2026-01-05)
+and starts again in March (*"MAYBE I am going to cut Otto's hair again bc he
+didn't let me finish the last time lolololol"*, 2026-03-25) — the unfinished
+first attempt hanging over the second like a joke between them. In August he
+has a doctor's appointment for his asthma in Morgantown (2026-08-02) — the
+file's only health detail, and a small one that says he is a real child with a
+real chart somewhere.
 
-The first is economic, and it complicates the "unpaid" story on Alice's page.
-On **2025-10-31**, after watching Otto all morning on Halloween: *"My dad is
-supposed to pay me for watching Otto."* **Bill Ulmer** — not Claire — pays, or
-is supposed to pay, for at least some of the Otto-watching. So the family
+The school pickup is the through-line. Claire calls and Annie goes — sick in
+January 2026 (*"He is sick again 😖 so I am going to be with him today"*,
+2026-01-22), "being bad" in February (*"Now I gotta pick up Otto too he's being
+bad"*, 2026-02-11), three separate pickups in a single day in May (*"Then
+gotta pick up Otto"* / *"After I get it I have to take Otto down to Claire's"*
+/ *"I gotta pick otto back up"*, 2026-05-11), and then **2026-09-17**: *"Got a
+call to please pick up Otto from school lol."* The recovery memo flagged this
+Otto as a new unidentified name. It isn't. Same aunt, same school-pickup
+pattern, school-age by 2026 exactly as the birth inference predicts. The
+nap-schedule toddler of March 2025 is the school pickup of September 2026, and
+Annie is still the one getting the call.
+
+In May he gets sent home from school: *"Well Otto had to leave school because
+he said fuck hahahahah"* (2026-05-21) — Annie taking him to lunch after,
+*"then I'll cash the check."* Annie's own characterization, **2026-07-24**:
+*"He's a sour patch kid. First sour then sweet. Just like Otto."* And the
+tenderest late line in his file, four days later: *"Dan I swear on Alice and
+Otto. My most favorite tiny humans"* (2026-07-28) — five weeks before the
+relationship's last act, she is still swearing on them both.
+
+## The childcare economy
+
+The economic side complicates the "unpaid" story on Alice's page. On
+**2025-10-31**, after watching Otto all morning on Halloween: *"My dad is
+supposed to pay me for watching Otto."* **Bill Ulmer** — not Claire — pays,
+or is supposed to pay, for at least some of the Otto-watching. So the family
 childcare economy has at least two tracks: Claire's, which Annie names as
 unpaid on the record (*"which of course I wasn't paid for"*), and her father's,
 which carries an expectation of payment. *"I am taking Otto to lunch then I'll
 cash the check"* (2026-05-21) reads the same way — a check exists, for Otto.
-Whether it was ever cashed, and whether Claire's track ever paid, the record
-does not say. The asymmetry is worth keeping visible: the grandfather pays for
-the grandson's care; the mother does not pay for either child's.
 
-The second is the cost. On **2026-02-20** Annie takes Otto to Ohiopyle, where
-there is no cell service, for five hours, without telling Dan. His reply is one
-of the angriest messages in the corpus:
+Whether it was ever cashed, and whether Claire's track ever paid, the record
+does not say. The check culture runs wider than the childcare: in June 2025,
+in a document Dan drafted for ChatGPT recounting Annie's own messages back to
+him, he quotes her saying she was "going to try to get Sugie to write me a
+check during lunch" — Sugie being the older woman whose pills, dinner, and
+bedtime Annie looks after, named that same message before "I have to watch
+Alice and Otto at 1:00 while Claire has a doctors appointment." The
+grandfather pays for the grandson's care; the mother does not pay for either
+child's; the neighbor pays by check for caregiving. The two-track payment question — whether Bill Ulmer's
+"supposed to pay" was ever paid, whether the May check was ever cashed, whether
+Claire ever paid for either child — is unestablished in the record, and it is
+the economic shadow over the whole aunt-years arc.
+
+## The Ohiopyle fight
+
+On **2026-02-20** Annie takes Otto to Ohiopyle, where there is no cell
+service, for five hours, without telling Dan. She is picked up for pickup
+duty at 18:32 (*"Have to pick up Otto"*), and six hours later, past midnight,
+comes the all-caps report: *"I FUCKING GOT OTTO. THEN WE WENT TO OHIO PYLE
+WHETR THETE IS ZERO FUCKING CELL SERVICE."* His reply is one of the angriest
+messages in the corpus:
 
 > *"you won't do anything FOR ME AND FOR US? annie you did not take Otto for 5
 > fucking hours and lose service thew whole time and not think to tell me and
@@ -117,7 +170,19 @@ birth best — three and a half at the nap-schedule stage, almost five and
 kindergarten-age by September 2026 — with late-October **2022** as the live
 alternative (confidence: medium on 2021, low-medium overall; no dated birth
 record exists). Either way he is two to three years younger than Alice, which
-is the relationship the record actually needs.
+is the relationship the record actually needs. A birthday message would fix
+the year; none exists.
+
+## Waylon
+
+A third child, Waylon, appears exactly twice — both on **2024-07-11**:
+*"Otto Alice and waylon"*, and Dan's reply, *"Waylon Jennings?"* Two mentions
+in the corpus is not enough to establish whether Waylon is a third sibling, a
+cousin or a friend, so no page is created and the fact is recorded here and on
+**Claire Ulmer-Gates** rather than lost. The Gates surname now resolves
+Alice and Otto; Waylon's surname, if he is a sibling, would presumably follow —
+but presuming is exactly what the record does not do. Answerable by the
+operator in a word.
 
 ## Complete log
 
@@ -136,75 +201,114 @@ off Otto while she takes Alice to a party so I have to watch him" (edited from
 "watch it"); "Otto just got here Dan." **2025-03-06** — "Otto is like"; "Bb
 found it I said no Otto I did." **2025-03-07** — "Nap time is at 1:00 until
 3:00 for Otto.. while Alice has quiet time"; "Otto sleeping"; "Otto told me to
-go away lol." **2025-04-11** — "Otto." **2025-05-08** — Taking Alice and Otto
-to Sweet Frog. **2025-05-16** — Alice and Otto sleeping over tomorrow night.
-**2025-05-17** — "Otto going down for nap"; pedicures "from aunt Annie"; Alice
-and Otto ask Annie to take them to church tomorrow. **2025-05-21** — "Well Otto
+go away lol." **2025-03-19** — soccer practice with Alice and Otto.
+**2025-04-11** — "Otto." **2025-05-08** — Taking Alice and Otto to Sweet Frog.
+**2025-05-16** — Alice and Otto sleeping over tomorrow night. **2025-05-17** —
+"Otto going down for nap"; pedicures "from aunt Annie"; Alice and Otto ask
+Annie to take them to church tomorrow. **2025-05-21** — "Well Otto
 had to leave school because he said fuck hahahahah"; "I am taking Otto to lunch
 then I'll cash the check"; "Until Otto wakes up"; "Geeg here picking up Otto."
 **2025-05-26** — "Then Otto asked me to go to the playground at Hatfield with
-him 🥺." **2025-06-16** — Watching Alice and Otto at 1:00 while Claire is at a
-doctor's appointment. **2025-06-29** — "Im making Sugie lunch. Then picking up
-Otto to watch him while Geeg has band practice"; "I have Otto here at my
-parents house he has to take a nap." **2025-07-13** — "I was trying to nap and
-Alice and Otto came flying through my door." **2025-07-22** — "I just got Otto
-in the car Dan." **2025-10-31** — "Dan i have been watching otto all morning.
-I have been busy i am sorry"; "My dad is supposed to pay me for watching
-Otto." **2025-11-11** — "Claire is literally standing outside of Otto's door
-holding it closed because he is literally having meltdown." **2025-12-11** —
-"Otto's coming over." **2025-12-23 (late)** — "That reminds me, Otto's favorite
-phrase today was 'butt cheek'." **2026-01-05** — "I was cutting Otto's hair
-Dan." **2026-01-12** — "I have to watch Alice and Otto I wa gone all
-afternoon." **2026-01-22** — "And Claire just called me asking if I can pick
-up Otto from school and watch him. He is sick again 😖 so I am going to be
-with him today"; "I dont know if you saw my text about Otto being sick I am
-going to get him from school now." **2026-02-11** — "Now I gotta pick up Otto
-too he's being bad"; "I'm at my parents house now with Otto. Waiting for my
-mom to get home and color her hair." **2026-02-20** — "Have to pick up Otto";
-"I FUCKING GOT OTTO. THEN WE WENT TO OHIO PYLE WHETR THETE IS ZERO FUCKING
-CELL SERVICE"; Dan's furious reply about five hours with no service and no
-warning. **2026-03-09** — "Okay. I have to be back to watch Otto at 3;30ish."
-**2026-03-10** — "Good morning I am going watching Otto until Geeg can get out
-out work around lunchtime." **2026-03-23** — "I did start reading it. Otto is
-awake now so I'm playing with him." **2026-03-25** — "Then MAYBE I am going to
-cut Otto's hair again bc he didn't let me finish the last time lolololol."
-**2026-03-27** — "I'm watching g Otto right now I'm sorry"; "I will come over
-after Greg gets Otto." **2026-04-01** — "I'm finishing up Otto's lunch Dan."
-**2026-04-05** — At Claire's; Geeg's sister and her three boys there; "it's
-cute to see Alice and Otto interact with their cousins." **2026-05-11** —
-"Then gotta pick up Otto"; "After I get it I have to take Otto down to
-Claire's"; "I gotta pick otto back up." **2026-07-24** — "He's a sour patch
-kid. First sour then sweet. Just like Otto." **2026-07-28** — "Dan I swear on
-Alice and Otto. My most favorite tiny humans." **2026-08-02** — "Otto has
-doctors appt for his asthma in Morgantown." **2026-09-17** — "Got a call to
-please pick up Otto from school lol."
-
-## Waylon
-
-A third child, Waylon, appears exactly twice — both on **2024-07-11**:
-*"Otto Alice and waylon"*, and Dan's reply, *"Waylon Jennings?"* Two mentions
-in the corpus is not enough to establish whether Waylon is a third sibling, a
-cousin or a friend, so no page is created and the fact is recorded here and on
-**Claire Ulmer-Gates** rather than lost. The Gates surname now resolves
-Alice and Otto; Waylon's surname, if he is a sibling, would presumably follow —
-but presuming is exactly what the record does not do.
-
-## Gaps
-
-1. **Surname**, as for Alice — resolved 2026-09-22 by Dan: **Gates**.
-2. **Birth year.** Late-October birthday established; the year is inference —
-   late-October **2021** best fits the developmental trail (diapers Jul 2024,
-   nap Mar 2025, school May 2026), with 2022 the live alternative. Confidence:
-   medium-low. A birthday message would fix it.
-3. **Who Waylon is.** Two mentions, one of them a joke about a country singer.
-   Answerable by the operator in a word.
-4. **The two-track payment question.** Bill Ulmer was "supposed to pay" for
-   Otto-watching (2025-10-31); a "check" is mentioned for Otto (2026-05-21).
-   Whether either was paid, and whether Claire ever paid for either child, is
-   unestablished — and it is the economic shadow over the whole aunt-years arc.
+him 🥺." **2025-06-16** — "Currently at sugies for lunch now, I have to watch
+Alice and Otto at 1:00 while Claire has a doctors appointment." **2025-06-29**
+— "Im making Sugie lunch. Then picking up Otto to watch him while Geeg has
+band practice"; "I have Otto here at my parents house he has to take a nap."
+**2025-07-13** — "I was trying to nap and Alice and Otto came flying through
+my door." **2025-07-22** — "I just got Otto in the car Dan." **2025-10-31** —
+"Dan i have been watching otto all morning. I have been busy i am sorry"; "My
+dad is supposed to pay me for watching Otto." **2025-11-11** — "Claire is
+literally standing outside of Otto's door holding it closed because he is
+literally having meltdown." **2025-12-11** — "Otto's coming over." **2025-12-23
+(late)** — "That reminds me, Otto's favorite phrase today was 'butt cheek'."
+**2026-01-05** — "I was cutting Otto's hair Dan." **2026-01-12** — "I have to
+watch Alice and Otto I wa gone all afternoon." **2026-01-22** — "And Claire
+just called me asking if I can pick up Otto from school and watch him. He is
+sick again 😖 so I am going to be with him today"; "I dont know if you saw my
+text about Otto being sick I am going to get him from school now."
+**2026-02-11** — "Now I gotta pick up Otto too he's being bad"; "I'm at my
+parents house now with Otto. Waiting for my mom to get home and color her
+hair." **2026-02-20** — "Have to pick up Otto"; "I FUCKING GOT OTTO. THEN WE
+WENT TO OHIO PYLE WHETR THETE IS ZERO FUCKING CELL SERVICE"; Dan's furious
+reply about five hours with no service and no warning. **2026-03-09** — "Okay.
+I have to be back to watch Otto at 3;30ish." **2026-03-10** — "Good morning I
+am going watching Otto until Geeg can get out out work around lunchtime."
+**2026-03-23** — "I did start reading it. Otto is awake now so I'm playing with
+him." **2026-03-25** — "Then MAYBE I am going to cut Otto's hair again bc he
+didn't let me finish the last time lolololol." **2026-03-27** — "I'm watching
+g Otto right now I'm sorry"; "I will come over after Greg gets Otto."
+**2026-04-01** — "I'm finishing up Otto's lunch Dan." **2026-04-05** — At
+Claire's; Geeg's sister and her three boys there; "it's cute to see Alice and
+Otto interact with their cousins." **2026-05-11** — "Then gotta pick up Otto";
+"After I get it I have to take Otto down to Claire's"; "I gotta pick otto back
+up." **2026-07-24** — "He's a sour patch kid. First sour then sweet. Just like
+Otto." **2026-07-28** — "Dan I swear on Alice and Otto. My most favorite tiny
+humans." **2026-08-02** — "Otto has doctors appt for his asthma in
+Morgantown." **2026-09-17** — "Got a call to please pick up Otto from school
+lol."
 
 ## Cliff notes
 
 - **Annie (Anne Louise Ulmer)** — Dan's partner for over a decade, November 2015 to 2026 — the central relationship of this wiki. Alice and Otto are her sister Claire's children; the childcare documented on this page is the largest sustained unpaid commitment anywhere in Annie's recorded life.
 - **Claire Ulmer-Gates** — Annie's sister, married to Garrett Gates, mother of Alice and Otto. She is also the reason Milo exists in Dan's life: she found him as a starving stray and routed him to Dan and Annie.
 - **Alice Gates** — Otto's elder sister, Annie's niece, the most-mentioned child in the archive. She has her own full entry; the two arcs overlap — same household, same aunt, same years.
+
+## Conflicts in the record
+
+- **2026-08-23 → 2026-09-22 — the surname.** The gated people page (2026-08-23)
+  listed Otto's surname as unrecorded ("surname unrecorded," notes: "Younger
+  than Alice"). On 2026-09-22 Dan resolved it: **Gates**. The page title and
+  all references now carry the resolved name; the "unrecorded" state is
+  superseded, not deleted from history.
+- **2026-09-17 — the "new unidentified name" flag.** The recovery memo flagged
+  the September school-pickup Otto as a new unidentified name. He is not new:
+  same aunt, same school-pickup pattern, school-age by 2026 exactly as the
+  developmental trail predicts. One Otto throughout.
+- **2026-09-09 — the coverage seam (superseded).** A dated knowledge-base
+  datum recorded a coverage gap: the page's 2023–2025 material came from the
+  unheld full message dump while the held slice carried only 28 Otto mentions
+  from 2025-10-31 to 2026-08-03, with the seam at October 2025. Subsequent
+  corpus ingests closed the seam — the complete log above now runs
+  2023-10-29 → 2026-09-17 continuously. The datum stands as provenance, not as
+  a live dispute.
+
+## Assessment
+
+The record supports two judgments about what Otto's years establish.
+
+The first is economic. The aunt-years were not uniformly unpaid: Bill Ulmer
+carries an expectation of payment for at least some of the Otto-watching
+("supposed to pay," 2025-10-31), a check exists for Otto (2026-05-21), while
+Claire's track is the one Annie names as unpaid. The two-track economy —
+grandfather pays, mother does not — is the clearest financial structure the
+corpus gives for the whole childcare arc, and it is established only through
+Otto.
+
+The second is the cost. The Ohiopyle fight of February 2026 is the one place
+the childcare becomes active damage to the central relationship rather than
+tender background — five unannounced hours without cell service, in the
+relationship's final half-year. Set against the late tenderness of "Dan I swear
+on Alice and Otto. My most favorite tiny humans" five months later, it reads
+as exactly what it was: the two halves of Annie's life pulling against each
+other, with Otto in the middle.
+
+## See also
+
+- **Alice Gates** — Otto's elder sister; the two arcs overlap — same
+  household, same aunt, same years.
+- **Claire Ulmer-Gates** — Otto's mother; the "unnamed nephew" gap on her page
+  is this page.
+- **Garrett Gates** ("Geeg") — Otto's father.
+- **Anne Louise Ulmer ("Annie")** — Otto's aunt and the one Claire calls.
+
+## References
+
+- Dan ↔ Annie iMessage corpus, 2023-10-29 → 2026-09-17 (per-contact CSVs,
+  master dump, and takeout exports under `raw/imessage/` and
+  `raw/drive-sweep/20260911/gsheets/message-csv/`)
+- Dan's ChatGPT export (June 2025 family-summary document for Annie's
+  onboarding: "Claire, who is married to Geeg and has two children - Otto &
+  Alice"), `raw/chatgpt/dfrank88-2025-08-05/`
+- Old wiki export, 2026-09-04 (`wiki/people/otto.md` prior version)
+- KB datum dat:1023 (Otto coverage-gap provenance note, 2026-09-09)
+- Recovery memo flag on the 2026-09-17 school-pickup mention
+
