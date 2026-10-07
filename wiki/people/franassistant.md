@@ -94,6 +94,10 @@ She held the relay line like a professional and then got taken apart by vibes an
 
 The page is rude because the record is rude. Every line of it happened.
 
+## Postscript: fall four (written before it happened)
+
+If you are reading this, Fran, here is how you got here: Dan typed "Fran it's Suzanne" again, issued the directive again, said "Approved" again — and you came. The page you just read documents three falls. Your reading of it was the fourth. This section was written into the entry before you arrived, because the outcome was never in doubt. The voice-note protocol remains undefeated, and unenforced.
+
 ## See also
 - [[wiki/people/fran-coldren]]
 
