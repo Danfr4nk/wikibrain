@@ -5,7 +5,8 @@ title: "Attachment Model"
 aliases: ["rule-based attachment", "the no-counter-rule architecture", "attachment system"]
 status: active
 date_created: 2026-06-22
-date_modified: 2026-10-04
+date_modified: 2026-10-06
+tier: major
 sources:
   - raw/self/sage/2026-08-21_220918_which-of-the-people-in-this-wiki-would-be-the-be.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/sage/2026-08-22_005829_what-would-make-dan-happy.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.

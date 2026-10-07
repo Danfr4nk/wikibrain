@@ -1,0 +1,84 @@
+{
+  "batch": "wiki-engine-production 2026-10-06 22:09 EDT (coordinator run; nothing committed)",
+  "staging_dir": "/home/hatch/workspace/migration-2026-10-04/engine-staged-20261006-2209",
+  "pages": [
+    {
+      "path": "wiki/self/chats/j6-chat.md",
+      "orig_words": 1199,
+      "new_words": 5402,
+      "notes": "Full transcript-evidence exhibit; closed gap via held raw/googlechat/the-j6-chat.md. Overshoots soft target (evidence rounds are its function).",
+      "skipped_reason": null
+    },
+    {
+      "path": "wiki/people/marty-martin.md",
+      "orig_words": 1932,
+      "new_words": 3173,
+      "notes": "dat:0936 audit evidence; 6 of 7 listed sources remain unresolved (warnings preserved). New edge to brandon-hill.",
+      "skipped_reason": null
+    },
+    {
+      "path": "wiki/health/hyperreflexivity.md",
+      "orig_words": 1782,
+      "new_words": 3950,
+      "notes": "Strong clone corroboration (bald-eagle-cummings, dark-era, big-five 91st percentile, attachment-model reframe). 3 dox-md sources genuinely unresolved (warnings preserved). New edge to july-2026-recontact.",
+      "skipped_reason": null
+    },
+    {
+      "path": "wiki/mind/concepts/node-locking.md",
+      "orig_words": 1741,
+      "new_words": 3047,
+      "notes": "Grounded in gemini-activity theme-frequency table + lock-grammar kb pages. Derived figures labeled as inherited.",
+      "skipped_reason": null
+    },
+    {
+      "path": "wiki/timeline/events/teen-concert-years.md",
+      "orig_words": 2228,
+      "new_words": 3443,
+      "notes": "7 dated Conflicts entries; 2 new edges (concert-record/index, oddball). '353 West St.' is pre-existing on main, unchanged.",
+      "skipped_reason": null
+    },
+    {
+      "path": "wiki/mind/concepts/forensic-method.md",
+      "orig_words": 2392,
+      "new_words": 3753,
+      "notes": "9 listed + 4 additional kb sources; 14 connections preserved byte-identical; self-falsification record expanded.",
+      "skipped_reason": null
+    },
+    {
+      "path": "wiki/mind/concepts/attachment-model.md",
+      "orig_words": 3598,
+      "new_words": 3599,
+      "notes": "Tier-tag pass only (already above major floor): added tier: major + date_modified 2026-10-06, body unchanged.",
+      "skipped_reason": null
+    },
+    {
+      "path": "wiki/people/zac-shumar.md",
+      "orig_words": 1817,
+      "new_words": 3712,
+      "notes": "Betrayal charge presented as Dan's dated testimony with explicit limit note. Lucas-thread bodies gitignored \u2014 old-wiki transcription flagged.",
+      "skipped_reason": null
+    },
+    {
+      "path": "wiki/interests/concert-record/index.md",
+      "orig_words": 2513,
+      "new_words": 4838,
+      "notes": "Overshoots soft target (~1,300 words are mandatory structural tables). Row-numbering corrections filed in Conflicts; Electric Zoo/Diplo open item surfaced.",
+      "skipped_reason": null
+    },
+    {
+      "path": "wiki/people/otto.md",
+      "orig_words": 3418,
+      "new_words": null,
+      "notes": "Coordinator-level gate",
+      "skipped_reason": "Already tier: major on live main at fetch; above floor, not sub-3,000 backlog."
+    },
+    {
+      "path": "wiki/people/libby.md",
+      "orig_words": 3394,
+      "new_words": null,
+      "notes": "Coordinator-level gate",
+      "skipped_reason": "Already tier: major on live main at fetch; above floor, not sub-3,000 backlog."
+    }
+  ],
+  "net_words": "+15,715 (sum of new body words minus sum of original full-file words, same 9 staged pages)"
+}
