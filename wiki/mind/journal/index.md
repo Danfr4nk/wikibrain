@@ -5,7 +5,7 @@ title: "Idea Journal"
 aliases: ["idea journal", "the journal"]
 status: active
 date_created: 2026-10-03
-date_modified: 2026-10-06
+date_modified: 2026-10-07
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -151,3 +151,35 @@ cannot show its stages has not been cross-checked.
   Delegated Surface]]: direct social initiation holds at the audited
   0.73x floor while his social surface runs through instruments he
   steers in real time. One Stage-2 kill, preserved in Genesis.
+
+### 2026-10-07
+
+- [[wiki/mind/journal/2026-10-07-the-transferred-role|Entry 1 — The
+  Transferred Role]]: he never occupies the job description — the
+  portable "counterparty's advocate against the house" role, imported
+  from caddying and restaged at Au Za'atar, Creative License, and BFS,
+  survives host death while payloads do not; tenure tracks the payload,
+  the role tracks nothing but a human counterparty. Passed the
+  confidence gate with one restart (the handed "Smuggled Objective"
+  thesis retired at Stage 1 as already held by
+  the-embedded-objective, not patched).
+- [[wiki/mind/journal/2026-10-07-the-archive-is-the-argument|Entry 2 —
+  The Archive Is the Argument]]: retention is the forensic method's
+  revisability infrastructure — primary records kept whole and re-opened,
+  with four dated Layer-A reversal cases (Fran video 2018, estate-spine
+  2026-08-18, calibration-headline recomputation, Uniontown novel
+  correction) beating the displacement rival; binary gates stay binary
+  without information loss. Passed with one Stage-2 restart.
+- [[wiki/mind/journal/2026-10-07-collapse-is-the-working-condition|Entry
+  3 — Collapse Is the Working Condition]]: output amplitude
+  concentrates in schedule-suspended windows across messaging (62.7%
+  sub-2-min gaps, twin 40k-message years bracketing the 2021–22
+  blackout), creative bursts (the dated four-wave 2025 crate burst),
+  and employment — the schedule is endured, the bursts are inhabited.
+  Passed with one Stage-2 kill, at a stated bound.
+- [[wiki/mind/journal/2026-10-07-the-two-registers|Entry 4 — The Two
+  Registers]]: conflict C1 (RLOEI self-typed vs commissioned RLUEI)
+  dissolves without reconciliation — rigid organization inside chosen
+  containers, burst-and-collapse at imposed-pure sites; organization
+  tracks choice-provenance per row 15. Filed at hypothesis grade,
+  pending a primary-verified work-record pass.
