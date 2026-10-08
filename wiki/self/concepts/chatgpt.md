@@ -2,14 +2,16 @@
 domain: self
 page_type: concept
 title: "ChatGPT (OpenAI)"
+tier: incidental
 status: superseded
 date_created: 2026-08-19
-date_modified: 2026-10-04
+date_modified: 2026-10-07
 superseded_by: wiki/mind/concepts/chatgpt
 superseded_date: 2026-10-04
 tags: [ai-collaboration, forensic-analysis, digital-footprint]
 knowledge: earned
 ---
+> **Incidental entry** — superseded-pointer stub: the ChatGPT (OpenAI) page moved to [[wiki/mind/concepts/chatgpt|ChatGPT (OpenAI)]] under the mind/self framework v2 (2026-10-04); kept so existing links don't break. Complete at this size.
 
 # ChatGPT (OpenAI)
 
