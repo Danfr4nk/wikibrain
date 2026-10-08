@@ -5,7 +5,7 @@ title: "Idea Journal"
 aliases: ["idea journal", "the journal"]
 status: active
 date_created: 2026-10-03
-date_modified: 2026-10-07
+date_modified: 2026-10-08
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -183,3 +183,42 @@ cannot show its stages has not been cross-checked.
   containers, burst-and-collapse at imposed-pure sites; organization
   tracks choice-provenance per row 15. Filed at hypothesis grade,
   pending a primary-verified work-record pass.
+
+### 2026-10-08
+
+- [[wiki/mind/journal/2026-10-08-the-decomposing-ear|Entry 1 — The
+  Decomposing Ear]]: perceptual intake in music is production-structural
+  and decompositional — a track registers as an assemblage of countable
+  production dimensions (drop, sound design, bass weight, vocal-as-texture)
+  with the semantic/lyric pass gated behind deliberate effort and absent
+  from ordinary listening; verdict events arrive at structural
+  checkpoints (the 33% skip-test), not emotional arcs. Passed the
+  confidence gate with no restarts; one Stage-2 vocabulary adjustment
+  (the verdict-side boundary with The Placement Verdict kept crisp).
+- [[wiki/mind/journal/2026-10-08-the-disorder-premium|Entry 2 — The
+  Disorder Premium]]: in disordered work environments, tenure length and
+  forensic-output volume track held audit position (informational
+  asymmetry, a defensible stake, a lateral counterparty) — Au Za'atar's
+  41 months vs BFS's ~1 month is the first pair for the instrument's §7
+  experiment #4 (satisfaction-in-disorder vs relative advantage); the
+  Creative License May 2012 disclosure separates this from row 8's
+  payload rule alone. Passed the confidence gate with no restarts; one
+  Stage-2 interior-phrasing kill preserved in Genesis.
+- [[wiki/mind/journal/2026-10-08-stress-loads-the-failing-channel|Entry 3
+  — Stress Loads the Failing Channel]]: under stress on a contested
+  channel, outbound volume to that channel rises against its own
+  baseline — the failure mode is binary (total-commitment flood or
+  total dormancy), never partial retreat. Row 11's Gini failure-mode
+  prediction tested directly; the 2021–22 blackout counter-case
+  integrated (no-stress control + unheld-channel caveat), not dodged.
+  Passed the confidence gate with no restarts.
+- [[wiki/mind/journal/2026-10-08-the-two-slot-grammar|Entry 4 — The
+  Two-Slot Grammar]]: his binding grammar has exactly two slots — the
+  rule-declarative ("its just you and me") and the command-imperative
+  ("call me") — while the interpretive register ("do you love me?")
+  is structurally absent at 0× in 106,629 sent messages; because no
+  feeling-statement has a binding slot, no confirmation can durably
+  settle, and the check-in loop re-runs forever. One restart preserved
+  in Genesis: the "Imperative Register" thesis died at Stage 2
+  (contradicted by the declarative founding rule) and its own
+  discriminator at Stage 3. Passed the confidence gate after restart.
