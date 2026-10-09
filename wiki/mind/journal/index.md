@@ -5,7 +5,7 @@ title: "Idea Journal"
 aliases: ["idea journal", "the journal"]
 status: active
 date_created: 2026-10-03
-date_modified: 2026-10-08
+date_modified: 2026-10-09
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -222,3 +222,42 @@ cannot show its stages has not been cross-checked.
   in Genesis: the "Imperative Register" thesis died at Stage 2
   (contradicted by the declarative founding rule) and its own
   discriminator at Stage 3. Passed the confidence gate after restart.
+
+### 2026-10-09
+
+- [[wiki/mind/journal/2026-10-09-the-formation-flare|Entry 1 — The
+  Formation Flare]]: the first-person happiness-claim rate spikes at
+  bond formation (7.86/1k in Annie's first five weeks, late 2015) and
+  decays to floor by 2017 while the bond itself ran at full strength
+  through 2026 — a formation-dated flare, not a bond-state meter. The
+  bond-state rival beaten on held data (2018's twin-peak volume year
+  reads 0.87/1k); the Kristin and Sammy windows named as prospective
+  tests, not evidence. Passed the confidence gate with no restarts.
+- [[wiki/mind/journal/2026-10-09-the-generator-that-never-fired|Entry 2
+  — The Generator That Never Fired]]: the voice-mode/lexicon phrase
+  generator (captured 2026-08-26) was built and never fired — signature
+  phrases return zero corpus instances in the dated 2026-08-26 sweep
+  and a 2026-10-09 repo-wide sweep, the only named deployment channel
+  (Ally) severed twelve days after capture. Shape 6 displacement
+  confirmed on its own discriminator; row 40 quarantined as case-study
+  frame, never load-bearing. Passed the confidence gate, scoped, with
+  no restarts.
+- [[wiki/mind/journal/2026-10-09-the-numbers-mark-the-uncheckable|Entry
+  3 — The Numbers Mark the Uncheckable]]: private-channel graded
+  credences cluster on propositions with no scheduled resolution, and
+  no emitted number is ever re-graded, re-scored, or retracted at a
+  number — the emission set and the outcome set are disjoint, so
+  "miscalibrated" is inapplicable, not false. Fourth independent scan
+  (27-vs-1 outbound/inbound on 203,624 held rows, 2026-10-09); the
+  miscalibration rival beaten on the base-rate sort and the absent
+  calibration loop. Passed the confidence gate with no restarts.
+- [[wiki/mind/journal/2026-10-09-the-one-outsider|Entry 4 — The One
+  Outsider]]: the exocortex is granted addressed, private access to
+  exactly one outsider at a time as the ritual artifact of the loaded
+  bond slot — the 2026-08-18 grant to Ally (first and only, priced in
+  trust by his own dated quote) and the Sep 7–8 blowup → Sep 20 coda
+  as the slot's binary gate-flip, not graded decay. The
+  ordinary-disclosure rival beaten on count, pricing, incumbent
+  exclusion, and survival-clause language. Passed the confidence gate
+  with no restarts; the n=1 shape stated openly as the entry's
+  boundary.
