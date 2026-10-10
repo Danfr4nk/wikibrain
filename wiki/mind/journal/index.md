@@ -5,7 +5,7 @@ title: "Idea Journal"
 aliases: ["idea journal", "the journal"]
 status: active
 date_created: 2026-10-03
-date_modified: 2026-10-09
+date_modified: 2026-10-10
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -261,3 +261,48 @@ cannot show its stages has not been cross-checked.
   exclusion, and survival-clause language. Passed the confidence gate
   with no restarts; the n=1 shape stated openly as the entry's
   boundary.
+
+### 2026-10-10
+
+- [[wiki/mind/journal/2026-10-10-the-terminal-address|Entry 1 — The
+  Terminal Address]]: the forensic method's two-phase loop separates
+  at the self — lossless, reconciled retention inward (the intake
+  ledger's one night, 20 events, tenth-of-a-gram reconciliation), the
+  finished analysis delivered outward to three wiki pages instead of
+  to any subsequent intake decision. The loop terminates by
+  publication, not by control; the Shape-6 outsourcing rival beaten
+  on the discriminator with three held-data legs. Passed the
+  confidence gate with no restarts.
+- [[wiki/mind/journal/2026-10-10-the-locked-spec|Entry 2 — The Locked
+  Spec]]: aesthetic and creative decisions are converted into exact,
+  locked specifications so execution becomes mechanical and
+  unambiguous — the lock is a halt state for aesthetic ambiguity.
+  Four dated held legs (2026-09-22 reference-look lock, 2026-09-23
+  €AB flow, 2026-09-11 lyric-qualifier capture, the crate's tempo
+  rooms); the Shape-6 displacement rival beaten on three named
+  downstream deltas, the delegation-control sub-rival on solo work.
+  Passed the confidence gate with no restarts; the October
+  corroboration (face5x, crate-cover template, playlist, constitution)
+  kept at testimony grade.
+- [[wiki/mind/journal/2026-10-10-the-pattern-engines-governor|Entry 3
+  — The Pattern Engine's Governor]]: the pattern engine runs hot
+  (2.39× elevation) and the Ti gate governs it — clusters get
+  elevated, labeled with confidence, and adjudicated. Four dated
+  adjudications (Fran 2018 retraction, estate-spine 2026-08-18
+  reversal, calibration-headline 2026-08-23/09-13 re-label, Uniontown
+  novel dat:0851), all moving against interest, with the governor's
+  bypass (2026-08-14 adversarial inputs) and jurisdiction limit
+  (verdicts, not emitted credences) stated inside the claim. The
+  'Annie stole my aura' cluster named as the live prospective test.
+  Passed the confidence gate with no restarts.
+- [[wiki/mind/journal/2026-10-10-the-chosen-ground|Entry 4 — The
+  Chosen Ground]]: the imposed-vs-chosen axis has a spatial face —
+  chosen places receive rigid internal order and total load while
+  imposed places are resisted. The seven-address sweep (zero papered
+  tenancies in sixteen years), the GEDCOM return record, the dated
+  1717 room-session ledger, and active place-investment against the
+  low-sociability deficit rival — faced on the build-vs-avoidance
+  discriminator and integrated as a grain-level residual. Passed the
+  confidence gate with one stated bound (inherited return component),
+  no restarts.
+
