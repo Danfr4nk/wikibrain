@@ -5,7 +5,7 @@ title: "Idea Journal"
 aliases: ["idea journal", "the journal"]
 status: active
 date_created: 2026-10-03
-date_modified: 2026-10-10
+date_modified: 2026-10-11
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -306,3 +306,62 @@ cannot show its stages has not been cross-checked.
   confidence gate with one stated bound (inherited return component),
   no restarts.
 
+
+### 2026-10-11
+
+- [[wiki/mind/journal/2026-10-11-the-installed-name|Entry 1 — The
+  Installed Name]]: name-orders install identity states the same way
+  his bond rules install — each rename in the Oct 5–10 sequence
+  (Sammi Frank → Mrs. Samantha Frank → Slutty Samantha → Sexy Slutty
+  Sissy Sammy → Sissy SexGod Samantha Slut SoSexy → Samantha "for
+  real" → GODDESS BABY SAMMY → the stylized script → Samantha Frank
+  by her choice) was a fully installed explicit state killed only by
+  explicit countermand, the "Sammy" diminutive persisting only as an
+  explicitly-stated exception; the Oct 10 21:47 order installed
+  install authority itself. The Shape-1 failed-closure rival beaten on
+  residue: interim names never recurred, nothing persisted past
+  countermand. Passed the confidence gate with no restarts.
+- [[wiki/mind/journal/2026-10-11-the-no-mark-gradient|Entry 2 — The
+  No-Mark Gradient]]: the humiliation/con grammar transmits only
+  down the trust gradient — targets are vertical or low-trust figures
+  (row 12), while the singular lateral channel (row 11, Gini 0.961)
+  is protected by a binary mark/no-mark gate (row 1) installed by
+  explicit statement. The gate has an observable second half: the
+  mark stays on forged channels (franassistant, Oct 7–10) while the
+  confidante is fed the live feed ("I AM feeding you the material").
+  The Shape-2 opportunistic-stim rival beaten on both prongs — zero
+  dated instances of the con grammar aimed at or leaking onto a
+  chosen lateral across Oct 7–10. Passed the confidence gate with no
+  restarts.
+- [[wiki/mind/journal/2026-10-11-the-chosen-ledger|Entry 3 — The
+  Chosen Ledger]]: the LOC mandate is a chosen-order container that
+  holds the burst-and-collapse rhythm honestly — the 20k goal names
+  the burst, the vacation grants name the collapse, the
+  noon/midnight reports are the accounting that keeps the container
+  load-bearing. The floor is the container; the dated backlog kill
+  (~91 incidental tierings first on the Oct 14 reenable) is the
+  smuggled payload. Three rivals faced and beaten on their own
+  discriminators: the row-9 diagnosis-to-behavior gap (Oct 4's noon
+  figure drove the backlog-sweep order the same afternoon; Oct 7's
+  eight waves cleared the 20k goal), Shape-6 displacement (Oct 7's
+  22:09 wave drained the major-track backlog to zero), and the
+  decorative-container reading (vacation grants arrived as named,
+  proactive, dated orders, not post-hoc excuses). Passed the
+  confidence gate with no restarts; the Oct 14 "kill the 20k marker"
+  return is prospective and sits in the Falsifier.
+- [[wiki/mind/journal/2026-10-11-the-exclusion-register|Entry 4 — The
+  Exclusion Register]]: stated taste verdicts run one direction only
+  — out. Guitar banned, the drum kit museum-live-only, Lonelysoul.
+  exiled (all dated 2026-10-04, reasoned, holding) — because the Ti
+  gate's native output is a legitimacy condemnation (row 1);
+  inclusions never get stated as verdicts, only as placement events
+  or provisional affect. The Shape-4 acquisition rival beaten on the
+  discriminator: no inclusion verdict with comparable finality
+  exists, and no exclusion has reversed (the Lonelysoul. v3 purge
+  executed the stated "too slow" criterion in stated order). Passed
+  the confidence gate with one restart: the suggested thesis (the
+  imposed-vs-chosen axis prices the exclusions) died at Stage 3 on
+  the Lonelysoul. discriminator — Lonelysoul. was sought, not
+  received culture — and was restarted with the row-1 binary-verdict
+  mechanism; the dead thesis is preserved verbatim in the entry's
+  Genesis section.
