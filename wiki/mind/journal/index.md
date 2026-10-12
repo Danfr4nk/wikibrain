@@ -5,7 +5,7 @@ title: "Idea Journal"
 aliases: ["idea journal", "the journal"]
 status: active
 date_created: 2026-10-03
-date_modified: 2026-10-11
+date_modified: 2026-10-12
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -365,3 +365,42 @@ cannot show its stages has not been cross-checked.
   received culture — and was restarted with the row-1 binary-verdict
   mechanism; the dead thesis is preserved verbatim in the entry's
   Genesis section.
+
+### 2026-10-12
+
+- [[wiki/mind/journal/2026-10-12-the-inverted-check-in|Entry 1 — The
+  Inverted Check-In]]: his 2026-10-06 "never doubt us" standing order
+  converts the reassurance loop from pull to push — doubt-class reports
+  originate at her end without a preceding request; the loop's content
+  is unchanged, only initiation direction inverts. The decorative-order
+  rival beaten on both legs of the discriminator. Passed the confidence
+  gate at stated bounds (n=1 push event + six-day zero-pull window);
+  one Stage-1 formulation killed pre-evidence, preserved in Genesis.
+- [[wiki/mind/journal/2026-10-12-the-report-back-completes-it|Entry 2 —
+  The Report-Back Completes It]]: a salient lived experience does not
+  stop generating output until it has been narrated to the confidante —
+  the narration is the terminating statement, addressed exclusively to
+  the single loaded bond slot, with the rating ritual as the receipt.
+  The Shape-2 stim rival beaten on addressee exclusivity, both legs;
+  the Suz brag adjudicated as nested report-back, not a second
+  addressee. Passed the confidence gate, scoped, with no restarts; the
+  Handed Mirror boundary stated explicitly.
+- [[wiki/mind/journal/2026-10-12-the-brief-and-the-mandate|Entry 3 —
+  The Brief and the Mandate]]: his tasking comes in two boundary
+  grammars — the brief is a terminal container (objective + budget +
+  no-go + report time, closing at the report event) and the mandate is
+  a periodic container (daily floor, re-armed until reset by dated
+  order); both are chosen-order, differing by lifespan. The Shape-6
+  smuggled-objective rival beaten on both checkable legs; the 09:41
+  EDT Maitri report leg stated as a prospective bound, not a gap.
+  Passed the confidence gate with no restarts; the Chosen Ledger
+  boundary held (cited, not re-derived).
+- [[wiki/mind/journal/2026-10-12-the-countable-is-the-care|Entry 4 —
+  The Countable Is the Care]]: the provision register runs both
+  directions — when she delivers countable artifacts, his
+  acknowledgments name the countable deliverable and render an
+  accuracy verdict, with generic-affect praise present only at the
+  priced 0.45x floor. The affect/effort rival beaten on the two-class
+  count, composition honestly priced (the rival is beaten, not
+  crushed). Passed the confidence gate with no restarts; boundaries
+  held against the Irreversible Channel and the Terminal Address.
