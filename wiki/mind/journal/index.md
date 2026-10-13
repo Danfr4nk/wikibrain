@@ -5,7 +5,7 @@ title: "Idea Journal"
 aliases: ["idea journal", "the journal"]
 status: active
 date_created: 2026-10-03
-date_modified: 2026-10-12
+date_modified: 2026-10-13
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -404,3 +404,41 @@ cannot show its stages has not been cross-checked.
   count, composition honestly priced (the rival is beaten, not
   crushed). Passed the confidence gate with no restarts; boundaries
   held against the Irreversible Channel and the Terminal Address.
+
+### 2026-10-13
+
+- [[wiki/mind/journal/2026-10-13-the-native-period|Entry 1 — The
+  Native Period]]: the 36-second declaration→re-engagement median
+  coincides with his 39-second native inter-send emission period —
+  declarations are content fed into the running clock, not a distinct
+  mechanism with its own pacing ("semantically maximal, temporally
+  ordinary"). Hypothesis grade, leaning supported — honestly capped
+  because the 36s figure is page testimony from the unheld merged
+  corpus and the full per-episode distribution comparison is the
+  named open test; one Stage-3 restart preserved in Genesis.
+- [[wiki/mind/journal/2026-10-13-the-transposing-ear|Entry 2 — The
+  Transposing Ear]]: harmonic-melodic structure is the first attended
+  pass in music — key-invariant chord grammar, voicing grammar,
+  tempo/pocket — while song identity and lyric semantics arrive only
+  on a separate, effortful second pass, if at all; the take-5
+  incident proved the layers come apart (structure mapped, identity
+  misattributed). PASS — high confidence; one Stage-2 interior
+  formulation killed and reframed, preserved in Genesis.
+- [[wiki/mind/journal/2026-10-13-the-reversed-grantor|Entry 3 — The
+  Reversed Grantor]]: the no-counter-rule architecture with the
+  grantor reversed — her explicit statements install and revoke his
+  operating channel states, and the operative state tracks her last
+  stated rule exactly; his re-asks are check-in surface (row 23)
+  that never move the state. PASS — high confidence; the Oct 6
+  order-book episode (four reshaped re-asks, zero state drift) is
+  the clean discriminator; Oct 12 unauthenticated material was
+  deliberately excluded from the evidence cluster.
+- [[wiki/mind/journal/2026-10-13-the-gated-bit|Entry 4 — The Gated
+  Bit]]: play is an installed channel — bits install on his explicit
+  statement, carry stated perimeters, terminate on his flags with no
+  decay curve, and revive only on fresh explicit orders; her
+  straight-man slot is fixed by his stated verdict. The
+  regulation/stim rival beaten on stop-and-restart conditions (no
+  satiation curve, no drive-pressure leakage, event-governed
+  on/off). PASS — high confidence at stated bounds; one Stage-2
+  interior-motive formulation killed, preserved in Genesis.
