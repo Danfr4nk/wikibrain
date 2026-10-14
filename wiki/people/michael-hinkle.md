@@ -1,14 +1,19 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: superseded
 date_created: 2026-06-23
-date_modified: 2026-09-17
+date_modified: 2026-10-14
 superseded_by: wiki/people/mike-hinkle
 superseded_date: 2026-09-17
 tags: [relationships]
 knowledge: mixed
+changelog:
+  - "2026-10-14: Classified incidental (complete at this size)"
 ---
+
+> **Incidental entry** — superseded-pointer stub: the Michael Hinkle page was merged into [[wiki/people/mike-hinkle|Mike Hinkle]] (2026-09-17); kept so existing links don't break. Complete at this size.
 
 # Michael Hinkle
 

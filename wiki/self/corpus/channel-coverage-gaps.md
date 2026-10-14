@@ -1,14 +1,19 @@
 ---
 domain: self
 page_type: synthesis
+tier: incidental
 status: superseded
 date_created: 2026-09-17
-date_modified: 2026-10-04
+date_modified: 2026-10-14
 superseded_by: wiki/self/message-corpus-coverage-map
 superseded_date: 2026-10-04
 tags: [forensic-analysis, digital-footprint]
 knowledge: derived
+changelog:
+  - "2026-10-14: Classified incidental (complete at this size)"
 ---
+
+> **Incidental entry** — superseded-pointer stub: the Channel Coverage Gaps page was merged into [[wiki/self/message-corpus-coverage-map|Message Corpus Coverage Map]] (2026-10-04); kept so existing links don't break. Complete at this size.
 
 # Channel Coverage Gaps: Which Instrument Can See Which Year
 

@@ -1,15 +1,20 @@
 ---
 domain: work
 page_type: concept
+tier: incidental
 title: "Stylometry tracker — 30-minute linguistic state scoring"
 status: superseded
 date_created: 2026-09-11
-date_modified: 2026-09-18
+date_modified: 2026-10-14
 superseded_by: wiki/mind/concepts/stylometry-v2
 superseded_date: 2026-09-18
 tags: [ai-collaboration, self-measurement]
 knowledge: earned
+changelog:
+  - "2026-10-14: Classified incidental (complete at this size)"
 ---
+
+> **Incidental entry** — superseded-pointer stub: the Stylometry tracker project page was merged into [[wiki/mind/concepts/stylometry-v2|The Stylometry Engine (v2)]] (2026-09-18); kept so existing links don't break. Complete at this size.
 
 # Stylometry tracker
 
