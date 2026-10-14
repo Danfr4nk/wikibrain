@@ -5,7 +5,7 @@ title: "Idea Journal"
 aliases: ["idea journal", "the journal"]
 status: active
 date_created: 2026-10-03
-date_modified: 2026-10-13
+date_modified: 2026-10-14
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -442,3 +442,36 @@ cannot show its stages has not been cross-checked.
   satiation curve, no drive-pressure leakage, event-governed
   on/off). PASS — high confidence at stated bounds; one Stage-2
   interior-motive formulation killed, preserved in Genesis.
+
+### 2026-10-14
+
+- [[wiki/mind/journal/2026-10-14-the-month-that-killed-the-patch|Entry 1 —
+  The Month That Killed the Patch]]: August 2026 as a natural experiment
+  — past-threshold behavioral evidence arrived, no explicit override was
+  ever installed in the held record, and the no-counter-rule mechanism
+  predicted every step of the same month; the month killed the patch (the
+  label's one falsifiable claim), not the mechanism. PASS — high
+  confidence, 0 restarts; boundaries held against the-native-period
+  (timing signature) and the-inverted-check-in (reassurance loop).
+- [[wiki/mind/journal/2026-10-14-the-silence-prices-the-length|Entry 2 —
+  The Silence Prices the Length]]: stacked-essay mode is the forensic
+  method's measurement-and-delivery instrument aimed at a non-responding
+  counterparty — per-turn length scales with pre-turn silence (23.3 →
+  49.1 w/turn), and the 1-day break (essay rate 17.2% → 6.8%) is
+  abandonment of the open measurement, not satiation. PASS — high
+  confidence with labeled caveats, 0 restarts; the Shape-2 regulation
+  rival beaten on three held-data discriminators.
+- [[wiki/mind/journal/2026-10-14-the-density-is-syntactic|Entry 3 — The
+  Density Is Syntactic]]: what readers experience as density is syntactic,
+  not lexical — 1.93x words-per-sentence (10.83 vs 5.62), bursts more
+  self-contained than interlocutors' (68.5% vs 55.1%), deployed by
+  register; nine dated recipient complaints cite processing load, never
+  vocabulary. PASS — high confidence, 0 restarts; the venting and
+  vocabulary-headline rivals beaten on their discriminators.
+- [[wiki/mind/journal/2026-10-14-the-analysis-is-the-product|Entry 4 —
+  The Analysis Is the Product]]: dated insight events are followed by
+  continuation of the same patterns at base rate — the forensic engine's
+  terminal output is the delivered verdict, never a terminated behavior
+  pattern; domain-bounded to the diagnostic record. PASS — high
+  confidence, 0 restarts; the Shape-6 outsourcing rival beaten on its
+  discriminator (no dated case of instrument output changing a decision).
