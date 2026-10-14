@@ -4,10 +4,12 @@ page_type: entity
 title: "Tattoos"
 status: active
 date_created: 2026-07-14
-date_modified: 2026-10-05
+date_modified: 2026-10-14
 tier: major
 knowledge: mixed
 changelog:
+  - date: 2026-10-14
+    entry: "Placement for the 2010 \"A\" set to Ankle (his words + 2026-10-08 ankle photo; Helvetica 'A' reading as a triangle, still present; Annie guess corrected by him: \"Not for Annie, originally\")."
   - date: 2026-10-05
     entry: "Restructured to canonical template v1; expanded with held-verification receipts (dat:1216, dat:0574, dat:0290); tier: major."
 sources:
@@ -77,7 +79,7 @@ from 2018 on; the first piece stands as the documented counterexample.
 
 | Design | Style/reference | Placement | Artist/shop | Date |
 |--------|------------------|-----------|-------------|------|
-| **"A"** | Alexis Armel's initial — not a cultural reference | Unknown | Unknown, Florida | **2010-01-23** (first) |
+| **"A"** | Alexis Armel's initial — not a cultural reference | Ankle | Unknown, Florida | **2010-01-23** (first) |
 | Misfits skull in a pizza slice | Custom mashup of the Misfits' Crimson Ghost mascot and a pizza slice | Forearm, ~3"x1.5" | Chris Redmond (custom drawn), Uniontown-area | 2018-10-13 |
 | Misfits logo (green lettering) | Band's own logo lettering, unmodified | Forearm, beneath the pizza slice | Chris Redmond | 2018-10-22 |
 | Kanye West *808s & Heartbreak* KAWS bear | KAWS's reworked "Dropout Bear" from the *808s* era art/toy campaign | Unknown | Unknown | By Sept 22, 2025 |
@@ -87,9 +89,10 @@ from 2018 on; the first piece stands as the documented counterexample.
 | Flapper girl | American traditional flash (pin-up style) | Brooklyn, NY | Ian Weidrick, Allied Tattoo (Brooklyn) | Undocumented |
 | **Morrissey** | The Smiths frontman | Unknown | Unknown | By **2019-10-24** |
 
-Body placement is unknown for every piece except the two 2018 forearm
-pieces; the corpus documents *what* and often *when* and *who drew it*,
-but rarely *where on the body*.
+Body placement is now known for three pieces — the two 2018 forearm
+pieces and the 2010 "A" (ankle, confirmed 2026-10-08); the corpus
+documents *what* and often *when* and *who drew it* for the rest, but
+rarely *where on the body*.
 
 ## The first one: "A", January 2010
 
@@ -137,13 +140,17 @@ Sixteen minutes later the plan is now. Whatever else this page records, it
 records that the first permanent mark Dan made on himself was moved
 forward two days on an impulse and announced as it happened.
 
-**What the archive does not say:** where on his body it is, who did it,
-whether it is still there, and whether it was ever covered or reworked
-after the relationship ended in December 2015. None of the later
-inventories name an "A", which is consistent with a cover-up, with a
-small piece nobody thought to list, or with an inventory that was never
-complete. The 2026-07-14 list is six pieces Dan named from memory; it did
-not claim to be everything.
+**What the archive does not say:** who did it, and whether it was ever
+covered or reworked after the relationship ended in December 2015.
+Placement is now settled: the **ankle**, a Helvetica "A" that reads as
+a triangle, confirmed still present in his 2026-10-08 ankle photo — his
+own words the same night ("You're wrong" / "Not for Annie, originally")
+corrected the Annie guess, and the dedication stands as
+[[wiki/people/alexis-armel|Alexis Armel]]. None of the later
+inventories name an "A", which is consistent with a small piece nobody
+thought to list, or with an inventory that was never complete. The
+2026-07-14 list is six pieces Dan named from memory; it did not claim
+to be everything.
 
 ## Elliott Smith, intended — January 2018
 
