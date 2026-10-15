@@ -5,7 +5,7 @@ title: "Idea Journal"
 aliases: ["idea journal", "the journal"]
 status: active
 date_created: 2026-10-03
-date_modified: 2026-10-14
+date_modified: 2026-10-15
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -475,3 +475,50 @@ cannot show its stages has not been cross-checked.
   pattern; domain-bounded to the diagnostic record. PASS — high
   confidence, 0 restarts; the Shape-6 outsourcing rival beaten on its
   discriminator (no dated case of instrument output changing a decision).
+
+### 2026-10-15
+
+- [[wiki/mind/journal/2026-10-15-the-addressed-self|Entry 1 — The
+  Addressed Self]]: self-designations are addressed acts — dated labels
+  he states about himself (the 2024-11-04 self-typing, the 2025-09-15
+  "SHUT UP I'M AUTISTIC" banter-deflection, the inverted staccato
+  self-diagnosis, the "terrible people" naming tripwire) are emitted to
+  a counterparty as tripwire, deflection, or framing, never as inward
+  self-knowledge; the monitor emits but does not calibrate. The Ti
+  self-audit rival beaten on both discriminators (zero unaddressed
+  dated designations in 192,140 held records). PASS — high confidence;
+  one Stage-2 restart preserved in Genesis (the interior negation died
+  as unpriced).
+- [[wiki/mind/journal/2026-10-15-the-gated-flood|Entry 2 — The Gated
+  Flood]]: output volume is allocated by register, not by
+  talkativeness — floods where the content is a verdict (taste-talk
+  3.82x, suspicion 1.96x), starved where it is attunement or
+  unstructured opening (sympathy 0.45x, initiation 0.73x); the 8.5x
+  spread between extremes is itself the discriminator that kills the
+  general-loquacity rival, with the 11-year delivery-thread brevity
+  control (3.2–4.3 words/turn) as the null. PASS — high confidence, 0
+  restarts; boundaries held against the-countable-is-the-care
+  (2026-10-12, the dyadic instance of the same asymmetry).
+- [[wiki/mind/journal/2026-10-15-the-grant-governs|Entry 3 — The Grant
+  Governs]]: installation is governed by the stated-rule grant, not
+  emitter rank — a statement installs iff explicit, addressed, issued
+  by the field's grant-holder, and unrevoked; the grant itself moves
+  only by explicit statement; his rank as decider never moves a state
+  on its own. The authority-governance rival beaten on the Oct 6
+  order-book collision discriminator (his explicit install-form
+  directive in her granted field lost to her standing no, four
+  shapings to zero). PASS — high confidence at stated bounds
+  (collision discriminator n=1); one Stage-3 restart preserved in
+  Genesis (the three-criterion form thesis died on its own
+  discriminator and was replaced, not patched).
+- [[wiki/mind/journal/2026-10-15-the-stated-word|Entry 4 — The Stated
+  Word]]: in the protected lateral channel, speaker identity is a
+  stated-text property — the channel's occupant is whoever states the
+  word; ambient signal (channel, device, style, seating arrangement)
+  never authenticates. Rows 5/6 extended to identity: the Oct 13
+  check-word protocol commission installed explicit verification over
+  maximal recognition, and the Oct 12 impersonation was disowned by
+  his explicit dated statement though it arrived on his phone in his
+  register. The recognition-based rival beaten on its own
+  discriminator. PASS — high confidence, 0 restarts; the check-word
+  is never named.
