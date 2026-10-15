@@ -1,9 +1,12 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-07-19
+date_modified: 2026-10-14
+changelog:
+  - "2026-10-14: Classified incidental (complete at this size)"
 date_range_start: 2019-06-10
 date_range_end: 2019-07-09
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -17,6 +20,8 @@ infobox:
   first_contact: 2019-06-10
   known_for: "Brian was an older, financially comfortable NYC client who booked [[wiki/people/annie-ulmer|Annie]] — working that summe"
 ---
+
+> **Incidental entry** — minor-entity stub: Brian, an older NYC client who booked Annie ("Hazel") for two paid visits in summer 2019 — 43 messages, June 10–July 9, relationship closed. Complete at this size.
 
 # Brian (NYC, 2019)
 

@@ -1,12 +1,17 @@
 ---
 domain: work
 page_type: summary
+tier: incidental
 status: stable
 date_created: 2026-07-11
-date_modified: 2026-07-13
+date_modified: 2026-10-14
+changelog:
+  - "2026-10-14: Classified incidental (complete at this size)"
 sources: []
 related: []
 ---
+
+> **Incidental entry** — index hub: the work section's navigation page — career and business history plus the tech projects, at a glance, linking the full articles. Complete at this size.
 
 # work — index
 

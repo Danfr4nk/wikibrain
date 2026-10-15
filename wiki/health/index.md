@@ -1,12 +1,17 @@
 ---
 domain: health
 page_type: index
+tier: incidental
 status: stable
 date_created: 2026-07-11
-date_modified: 2026-09-24
+date_modified: 2026-10-14
+changelog:
+  - "2026-10-14: Classified incidental (complete at this size)"
 sources: []
 related: []
 ---
+
+> **Incidental entry** — index hub: the health section's navigation page — physical and mental health history (the body and the chemistry), linking the full articles. Complete at this size.
 
 # health — index
 

@@ -1,11 +1,16 @@
 ---
 domain: meta
 page_type: index
+tier: incidental
 status: stable
 date_created: 2026-08-26
-date_modified: 2026-08-26
+date_modified: 2026-10-14
+changelog:
+  - "2026-10-14: Classified incidental (complete at this size)"
 sources: []
 ---
+
+> **Incidental entry** — index hub: the journeys section's navigation page — curated, narrated reading paths through existing pages, each stating a thesis and walking its stops in order. Complete at this size.
 
 # journeys — index
 

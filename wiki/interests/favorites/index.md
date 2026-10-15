@@ -1,12 +1,17 @@
 ---
 domain: interests
 page_type: index
+tier: incidental
 status: archived
 date_created: 2026-06-22
-date_modified: 2026-06-23
+date_modified: 2026-10-14
+changelog:
+  - "2026-10-14: Classified incidental (complete at this size)"
 sources: ["raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/context-core", "wiki/self/overview", "wiki/interests/music/index", "wiki/self/favorites", "wiki/self/facebook", "wiki/interests/favorites/eclecticism", "wiki/interests/favorites/taste-profile", "wiki/mind/synthesis/totality-themes", "wiki/timeline/periods/2025-collapse"]
 ---
+
+> **Incidental entry** — index hub: the favorites section's navigation page — the 2,016-entry master-list summary (music, books, art, movies) with the shelf breakdowns, linking the detail pages. Complete at this size.
 
 # Favorites
 

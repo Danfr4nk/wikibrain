@@ -1,13 +1,18 @@
 ---
 domain: self
 page_type: chat
+tier: incidental
 status: archived
 date_created: 2026-06-22
-date_modified: 2026-10-04
+date_modified: 2026-10-14
+changelog:
+  - "2026-10-14: Classified incidental (complete at this size)"
 sources: ["raw/self/dox-md/___The 9_11 Chat copy.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/___The 9_11 Chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/chats/j6-chat", "wiki/mind/synthesis/political-psyops", "wiki/mind/concepts/forensic-method", "wiki/self/context-core"]
 tags: [music-production, politics, ai-collaboration, addiction-recovery]
 ---
+
+> **Incidental entry** — data-exhibit stub: a Claude chat export on AI-generated voice intros and drops for Gripnotic remixes, kept as evidence of the production-branding sessions. Complete at this size.
 
 # 9/11 Chat (Gripnotic Remix Drops)
 

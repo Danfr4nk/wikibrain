@@ -1,13 +1,18 @@
 ---
 domain: self
 page_type: index
+tier: incidental
 status: active
 date_created: 2026-07-25
-date_modified: 2026-07-25
+date_modified: 2026-10-14
+changelog:
+  - "2026-10-14: Classified incidental (complete at this size)"
 sources: []
 tags: []
 connections: []
 ---
+
+> **Incidental entry** — index hub: the lineage section's navigation page — documentary ancestry, 23andMe genomics, and the hybrid analysis, all linked. Complete at this size.
 
 # Lineage Index
 

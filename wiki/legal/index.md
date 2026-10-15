@@ -1,12 +1,17 @@
 ---
 domain: legal
 page_type: index
+tier: incidental
 status: stable
 date_created: 2026-07-11
-date_modified: 2026-08-22
+date_modified: 2026-10-14
+changelog:
+  - "2026-10-14: Classified incidental (complete at this size)"
 sources: []
 related: []
 ---
+
+> **Incidental entry** — index hub: the legal section's navigation page — his own legal history and live property/dispute exposure, linking the full articles. Complete at this size.
 
 # legal — index
 

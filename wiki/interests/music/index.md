@@ -1,12 +1,17 @@
 ---
 domain: interests
 page_type: summary
+tier: incidental
 status: stable
 date_created: 2026-06-23
-date_modified: 2026-07-20
+date_modified: 2026-10-14
+changelog:
+  - "2026-10-14: Classified incidental (complete at this size)"
 sources: []
 related: []
 ---
+
+> **Incidental entry** — index hub: the music section's navigation page — aliases, bands, and concepts at a glance, linking the full articles. Complete at this size.
 
 # Music Index
 

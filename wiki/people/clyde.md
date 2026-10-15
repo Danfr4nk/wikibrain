@@ -1,9 +1,12 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 date_created: 2026-06-23
-date_modified: 2026-07-14
+date_modified: 2026-10-14
+changelog:
+  - "2026-10-14: Classified incidental (complete at this size)"
 date_range_start: 2019-03-27
 date_range_end: 2020-01-12
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -17,6 +20,8 @@ infobox:
   first_contact: 2019-03-27
   known_for: "Clyde was a NYC psychedelics dealer — LSD (150–275ug tabs), DMT (crystal and vape carts), mushrooms, and occasional xana"
 ---
+
+> **Incidental entry** — minor-entity stub: Clyde, a NYC psychedelics dealer — 125 messages over ten months (March 2019–January 2020), warm and quality-conscious, relationship closed. Complete at this size.
 
 # Clyde
 
