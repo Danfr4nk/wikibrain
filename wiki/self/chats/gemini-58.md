@@ -1,9 +1,12 @@
 ---
 domain: self
 page_type: summary
+tier: incidental
 status: active
 date_created: 2026-06-23
-date_modified: 2026-10-04
+date_modified: 2026-10-15
+changelog:
+  - "2026-10-15: Classified incidental (complete at this size)"
 sources: [
   "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-58.md",
   "raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md",
@@ -27,6 +30,8 @@ connections:
     claim: "Gemini 58 is a sibling Gemini forensic-archive session to Gemini 18: it runs the NYC/Ishlab and Creative License record in MAX persona blocks, and its own cross-reference notes the Full Sail/Ishlab bio overlap with session 18."
 
 ---
+
+> **Incidental entry** — data-exhibit stub: a ~30-exchange Gemini forensic session ("NYC Round 1 / Ishlab + Creative License Forensics 2010-2013 + Menore"), preserved as evidence for the early-NYC record other pages synthesize. Working material. Complete at this size.
 
 # Gemini Session 58 (NYC Round 1 / Ishlab + Creative License Forensics 2010-2013 + Menore)
 

@@ -2,10 +2,14 @@
 domain: people
 page_type: note
 title: "Annie Ulmer — 2026-08-26 Current-State Update"
+tier: incidental
 status: active
 knowledge: mixed
 importance: critical
 date: 2026-08-26
+date_modified: 2026-10-15
+changelog:
+  - "2026-10-15: Classified incidental (complete at this size)"
 related:
   - wiki/people/annie-ulmer
   - wiki/people/ally-lubin
@@ -16,6 +20,8 @@ infobox:
   subject_page: "[[wiki/people/annie-ulmer]]"
   notes: "Dated operator-observed addendum to the Annie Ulmer page; carries no standing facts of its own."
 ---
+
+> **Incidental entry** — superseded note: a dated operator-observed addendum — Dan's reported August 26, 2026 block of Annie, retracted September 11 (CSV forensics: there was never a block); preserved as the historical record of what was believed that day. Complete at this size.
 
 # Annie Ulmer — 2026-08-26 Current-State Update
 > **SUPERSEDED [2026-09-11] — the block this page reports never happened.** Dan reported on August 26 that he had kept Annie blocked for several days — "the first held boundary in the entire record." September 11, 2026 CSV forensics found roughly 25 block/severance declarations across August 15–19, none executed, and daily two-way texting continuing August 27–September 7 (765 messages in the last 72 hours of the export — counted in a forensic pass that post-dates the Agent Edition snapshot — including "good night pretty girl" rituals). Dan confirmed verbatim: *"there was never a block."* This page is preserved as the historical record of what was believed on August 26; the full retraction is [[wiki/mind/synthesis/august-26-block-retraction]]. What stands: the conversation with Ally happened as reported; only the block it described did not. The 120-day severance-horizon test to December 19, 2026 is void — there was no severance to measure.

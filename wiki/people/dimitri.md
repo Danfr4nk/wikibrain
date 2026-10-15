@@ -2,10 +2,13 @@
 domain: people
 page_type: entity
 title: "Dimitri"
+tier: incidental
 status: stable
 tags: [career, nyc-era, relationships]
 date_created: 2026-06-23
-date_modified: 2026-07-20
+date_modified: 2026-10-15
+changelog:
+  - "2026-10-15: Classified incidental (complete at this size)"
 date_range_start: 2023-09-04
 date_range_end: 2024-12-02
 sources:
@@ -23,6 +26,8 @@ infobox:
   first_contact: 2021-01-01
   known_for: "The only boss Dan says he has ever really loved; Au Za'atar manager, later found of his own accord elsewhere in the same restaurant world"
 ---
+
+> **Incidental entry** — minor-entity stub: Dimitri, the Greek Au Za'atar Midtown manager — "the only boss Dan says he has ever really loved" — 116 iMessages across 2023-2024, a genuine friendship that outlasted the job. Complete at this size.
 
 # Dimitri
 

@@ -1,10 +1,13 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-07-19
-date_modified: 2026-07-19
+date_modified: 2026-10-15
+changelog:
+  - "2026-10-15: Classified incidental (complete at this size)"
 date_range_start: 2017-09-24
 date_range_end: 2018-06-28
 sources:
@@ -28,6 +31,8 @@ connections:
     type: evidences
     claim: "Dan's own description — living on the golf course, next door to both his own grandparents and his girlfriend's grandparents, 'so noise isn't a problem' — is a first-person confirmation of the Belmont Circle/Ulmer neighbor geography from October 2017."
 ---
+
+> **Incidental entry** — minor-entity stub: Christo Coan, the Nemacolin-era golf-course coworker who co-organized Dan's October 2017 Halloween birthday party; his short thread also carries the corpus's only reference to a separate, undocumented DUI. Complete at this size.
 
 # Christo Coan
 

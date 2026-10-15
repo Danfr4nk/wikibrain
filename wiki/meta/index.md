@@ -1,11 +1,16 @@
 ---
 domain: meta
 page_type: index
+tier: incidental
 status: stable
 date_created: 2026-08-26
-date_modified: 2026-09-02
+date_modified: 2026-10-15
+changelog:
+  - "2026-10-15: Classified incidental (complete at this size)"
 sources: []
 ---
+
+> **Incidental entry** — index hub: the meta section's navigation page — reading aids, the cross-model skills database, the plain-language edition, instruments, the veracity ledger, journeys, and the doctrines and standing orders. Complete at this size.
 
 # meta — index
 

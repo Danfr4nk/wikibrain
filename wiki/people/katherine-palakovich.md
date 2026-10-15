@@ -1,10 +1,13 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-08-10
-date_modified: 2026-08-10
+date_modified: 2026-10-15
+changelog:
+  - "2026-10-15: Classified incidental (complete at this size)"
 date_range_start: 2011-05-05
 date_range_end: 2014-12-05
 sources:
@@ -28,6 +31,8 @@ connections:
     type: co-occurs
     claim: "Katherine notarized documents asserting Dan had never been a CL employee and had fabricated his job title — a notary public using her own commission on behalf of her employer against a former coworker, which Dan directly flagged to her as a professional-responsibility violation."
 ---
+
+> **Incidental entry** — minor-entity stub: Katherine Palakovich ("Kittie"), the Creative License Director of Business Affairs and notary public — she sent Dan his non-compete in May 2011 and notarized the statements McKiernan used against him in June 2012; a closed coworker thread. Complete at this size.
 
 # Katherine Palakovich ("Kittie")
 

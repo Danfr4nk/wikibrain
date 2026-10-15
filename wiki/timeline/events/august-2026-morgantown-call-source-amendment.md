@@ -3,11 +3,14 @@ domain: timeline
 page_type: note
 title: "Source Amendment — Morgantown St Recording, August 16 2026"
 aliases: ["Morgantown St transcript verification", "Morgantown audio source update"]
+tier: incidental
 status: active
 knowledge: earned
 importance: critical
 date_created: 2026-08-20
-date_modified: 2026-08-20
+date_modified: 2026-10-15
+changelog:
+  - "2026-10-15: Classified incidental (complete at this size)"
 sources:
   - raw/self/audio/2026-08-16_Morgantown_St_call-recording.m4a — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/audio/2026-08-16_Morgantown_St_call-transcript.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -18,6 +21,8 @@ connections:
     type: contextualizes
     claim: "This note records the provenance of the transcript that event page's quotations are now checked against; the substantive verification, including the five figures it corrected, lives there and not here."
 ---
+
+> **Incidental entry** — superseded note: a same-day-superseded provenance note on the August 16, 2026 call recording and transcript; the verification work it called for lives on the event page — read that, not this. Complete at this size.
 
 # Source Amendment — Morgantown St Recording, August 16 2026
 

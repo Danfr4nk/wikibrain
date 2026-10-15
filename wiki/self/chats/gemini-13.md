@@ -1,13 +1,18 @@
 ---
 domain: self
 page_type: chat
+tier: incidental
 status: stable
 date_created: 2026-06-23
-date_modified: 2026-10-04
+date_modified: 2026-10-15
+changelog:
+  - "2026-10-15: Classified incidental (complete at this size)"
 sources: ["raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-13.md"]
 related: ["wiki/people/jacob-bacharach", "wiki/mind/concepts/forensic-method", "wiki/mind/synthesis/ai-collaborative-analysis", "wiki/self/gemini-activity/gemini-activity", "wiki/timeline/periods/2015-2016-annie-relationship-start"]
 tags: [ai-collaboration, uniontown-era, relationships, nyc-era]
 ---
+
+> **Incidental entry** — data-exhibit stub: a 902-line Gemini session working the Jacob Bacharach coincidence chain — the novelist whose book used Dan's mother's rental house as a literary prop; kept as a forensic-methodology exemplar. Complete at this size.
 
 # Gemini Session 13 — Bacharach Neighborhood Glitch
 

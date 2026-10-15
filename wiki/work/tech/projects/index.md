@@ -2,9 +2,12 @@
 domain: work
 page_type: summary
 title: "Coding Projects"
+tier: incidental
 status: active
 date_created: 2026-09-11
-date_modified: 2026-09-17
+date_modified: 2026-10-15
+changelog:
+  - "2026-10-15: Classified incidental (complete at this size)"
 sources:
   - "Sammy working context, 2026-09-11"
 related:
@@ -15,6 +18,8 @@ connections:
     type: component-of
     claim: "The coding-projects subcategory consolidates the builder work that outgrew the thin per-project overviews under wiki/work/tech — every entry built by AI direction in 2026, none by hand-written code."
 ---
+
+> **Incidental entry** — index hub: the coding-projects section — every AI-directed build of 2026 (hook2piano, MusicTrainer, attraction-guide, kinship, geosleuth and the rest), each with its own entry, plus the September 15 tools-repo consolidation record. Complete at this size.
 
 # Coding Projects
 

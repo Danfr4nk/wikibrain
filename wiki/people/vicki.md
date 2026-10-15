@@ -2,10 +2,13 @@
 domain: people
 page_type: entity
 title: "Vicki"
+tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-07-18
+date_modified: 2026-10-15
+changelog:
+  - "2026-10-15: Classified incidental (complete at this size)"
 date_range_start: 2015-12-14
 date_range_end: 2018-04-05
 sources:
@@ -30,6 +33,8 @@ connections:
     type: parallels
     claim: "The two non-family caregivers on the same rotation; Vicki's tenure ran years longer, and she judged the March 8 ambulance night one that 'would have really scared' Marla."
 ---
+
+> **Incidental entry** — minor-entity stub: Vicki, the longest-serving non-family caregiver on Fran Coldren's rotation (December 2015 - April 2018); her thread is the vigil's primary documentation and stops the day after Fran died. Complete at this size.
 
 # Vicki
 
