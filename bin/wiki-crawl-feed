@@ -34,6 +34,8 @@ from __future__ import annotations
 
 import argparse
 import datetime
+import importlib.machinery
+import importlib.util
 import json
 import re
 import subprocess
@@ -41,6 +43,31 @@ import sys
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
+
+
+# Contact-identifier redaction.
+#
+# `bin/wb-archive` owns the masking rule; `bin/wb-wiki`, `bin/wb-build`,
+# `bin/wb-harness` and `bin/wb-corpus` all import it rather than
+# reimplementing it, so the publication surfaces cannot disagree about what
+# was masked (dat:0052). This feed was never wired to it, which meant a page
+# whose title carries a phone number — `people/bryan-5088682461`, titled
+# `# Bryan (+15088682461)` — published the raw number in site/crawl.json the
+# moment any commit touched it, and `tests/test-census` failed the deploy
+# for it (Oct 16, 2026: three failed "Build and deploy to Pages" runs). One
+# rule, every surface, no second copy to drift.
+def _archive_module():
+    spec = importlib.util.spec_from_loader(
+        "wb_archive",
+        importlib.machinery.SourceFileLoader("wb_archive",
+                                             str(REPO / "bin" / "wb-archive")))
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
+
+_ARCHIVE = _archive_module()
+redact = _ARCHIVE.redact
 
 FM_TITLE_RE = re.compile(r"^title:\s*[\"']?(.*?)[\"']?\s*$", re.M)
 HEADING_RE = re.compile(r"^#\s+(.*)$", re.M)
@@ -171,13 +198,13 @@ def build_feed(limit: int, scan: int) -> dict:
                 continue  # page gone from HEAD — ticker links live pages only
             delta = word_delta(sha, path)
             items.append({
-                "title": title,
+                "title": redact(title),
                 "href": str(Path(path).with_suffix(".html").as_posix()),
                 "date": datetime.datetime.fromtimestamp(
                     epoch, tz=datetime.timezone.utc).isoformat(),
                 "sha": sha[:7],
                 "delta": delta,
-                "text": describe(subject, path),
+                "text": redact(describe(subject, path)),
             })
     return {
         "generated": datetime.datetime.now(
