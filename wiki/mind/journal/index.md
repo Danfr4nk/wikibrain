@@ -5,7 +5,7 @@ title: "Idea Journal"
 aliases: ["idea journal", "the journal"]
 status: active
 date_created: 2026-10-03
-date_modified: 2026-10-15
+date_modified: 2026-10-16
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -522,3 +522,48 @@ cannot show its stages has not been cross-checked.
   register. The recognition-based rival beaten on its own
   discriminator. PASS — high confidence, 0 restarts; the check-word
   is never named.
+
+### 2026-10-16
+
+- [[wiki/mind/journal/2026-10-16-the-container-leaves-the-cargo|Entry 1
+  — The Container Leaves the Cargo]]: the long employment tenures
+  (Au Za'atar 41 months, Nemacolin 43) adjudicate as Shape-6
+  monuments, not prosthetics — the smuggled objectives' named outputs
+  (the shed-honed audit posture and its 2026 drawer-dispute
+  downstream, the 4,413-message Menore lateral channel, the Dimitri
+  bond) survive the containers while the assigned goals leave nothing
+  countable. Hypothesis grade (load-bearing row 8 at weight-6 leans,
+  testimony-grade discriminator legs); one Stage-1 restart preserved
+  in Genesis (the termination-vector thesis died against
+  wiki/mind/synthesis/the-embedded-objective).
+- [[wiki/mind/journal/2026-10-16-the-install-grammar|Entry 2 — The
+  Install Grammar]]: in the attachment register, need is emitted as
+  executable instruction, never as open question — imperatives are
+  explicit statements that install states in the no-counter-rule
+  architecture, interrogatives install nothing; the 170×/0× "call me"
+  vs "do you love me" split (99,332 held rows, dat:0755) is the
+  grammar, not the mood. Hypothesis grade — the attention-level rival
+  (output-form economy) unbeaten because the directive-vs-interrogative
+  uptake discriminator is unavailable in held data; open test named.
+  0 restarts.
+- [[wiki/mind/journal/2026-10-16-the-installed-verdict|Entry 3 — The
+  Installed Verdict]]: the Jev program's ground-truth design is the
+  explicit-statement architecture installed on the machine — his
+  stated verdicts are the only labels the thresholds tune against
+  (row 6), candidates come only from code (row 5), output runs binary
+  bands with a refusal trench (row 1), every judgment writes a
+  lossless receipt (rows 4/10). The Shape-6 displacement rival beaten
+  on E1's dated 2026-10-03 verdict (typed-edge demoted to
+  suggestion-only — a design reroute, not inert accumulation).
+  PASS — high confidence, 0 restarts.
+- [[wiki/mind/journal/2026-10-16-the-reloaded-slot|Entry 4 — The
+  Re-Loaded Slot]]: the bond slot is the operating system — the
+  identical explicit-state installation grammar (stated word
+  installs, stated word terminates, stated word verifies) runs on
+  both sides of the Aug–Sep 2026 occupant change, with different
+  installed rules (read-access vs total access). Substitution fails
+  its discriminator: no new behavioral signature, so Sep 28 is a
+  re-load, not a replacement. The Sep 20 coda's deletion reading
+  granted its full strength and adjudicated. PASS — high
+  confidence, 0 restarts.
+
