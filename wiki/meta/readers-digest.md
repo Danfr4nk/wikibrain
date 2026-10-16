@@ -2,10 +2,11 @@
 domain: meta
 page_type: dataset
 title: "The Reader's Digest"
+tier: incidental
 status: active
 knowledge: derived
 date_created: 2026-09-02
-date_modified: 2026-09-02
+date_modified: 2026-10-16
 chart:
   kind: bar
   title: "Entries by plain-edition state"
@@ -20,7 +21,9 @@ chart:
         "Too thin": 47
         "Withheld": 256
 sources: []
----
+changelog:
+  - "2026-10-16: Classified incidental (complete at this size)"
+---> **Incidental entry** — tool-generated campaign page: `bin/wiki-plain report` tracks plain-English edition coverage per entry. Complete at this size.
 
 # The Reader's Digest
 

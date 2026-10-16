@@ -2,12 +2,15 @@
 domain: meta
 page_type: report
 title: "Wiki Digest"
+tier: incidental
 status: active
 knowledge: derived
 date_created: 2026-08-26
-date_modified: 2026-09-13
+date_modified: 2026-10-16
 sources: []
----
+changelog:
+  - "2026-10-16: Classified incidental (complete at this size)"
+---> **Incidental entry** — tool-generated digest mirror: `bin/wiki-digest` mirrors DIGEST.md for on-site reading; the repo copy is authoritative between regenerations. Complete at this size.
 
 # Wiki Digest
 

@@ -2,12 +2,13 @@
 domain: meta
 page_type: dataset
 title: "Claim Validity"
+tier: incidental
 aliases: ["claim validity", "validity ledger", "what was true when"]
 status: active
 importance: high
 knowledge: derived
 date_created: 2026-09-06
-date_modified: 2026-09-13
+date_modified: 2026-10-16
 chart:
   kind: bar
   title: "How each recorded claim's window closed"
@@ -25,7 +26,9 @@ sources:
   - testimony/events.jsonl
 related:
   - wiki/meta/index
----
+changelog:
+  - "2026-10-16: Classified incidental (complete at this size)"
+---> **Incidental entry** — tool-generated ledger page: `bin/wiki-claims` records when wiki assertions stopped being true; evidence, not a claim. Complete at this size.
 
 # Claim Validity
 

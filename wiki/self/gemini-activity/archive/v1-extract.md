@@ -1,9 +1,10 @@
 ---
 domain: self
 page_type: summary
+tier: incidental
 status: archived
 date_created: 2026-06-22
-date_modified: 2026-10-04
+date_modified: 2026-10-16
 sources:
   - raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md
   - raw/self/dox-md/Gemini-_00.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -26,7 +27,9 @@ related:
   - wiki/mind/synthesis/ai-collaborative-analysis
   - wiki/mind/synthesis/political-psyops
   - wiki/timeline/periods/2021-2023-employment-block
----
+changelog:
+  - "2026-10-16: Classified incidental (complete at this size)"
+---> **Incidental entry** — pinned extraction index: the v1 Gemini-corpus extraction theme counts, node-lock catalog, and distribution map; pinned and never updated, the substance lives in the destination pages. Complete at this size.
 
 # Gemini Activity — v1 Extraction Index
 
