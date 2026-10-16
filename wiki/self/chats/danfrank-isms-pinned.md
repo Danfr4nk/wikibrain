@@ -1,9 +1,10 @@
 ---
 domain: self
 page_type: chat
+tier: incidental
 status: archived
 date_created: 2026-06-22
-date_modified: 2026-10-04
+date_modified: 2026-10-15
 date_range_start: 
 date_range_end: 
 sources: [
@@ -23,7 +24,11 @@ related: [
   "wiki/interests/favorites/books/topics/politics"
 ]
 tags: [ai-collaboration, politics, ideology, trauma-bond]
+changelog:
+  - "2026-10-15: Classified incidental (complete at this size)"
 ---
+
+> **Incidental entry** — data-exhibit stub: a Gemini pinned chat preserving his 77 numbered 'Danfrank-isms' in his own formulations — evidence of his positions as he states them. Complete at this size.
 
 # Danfrank-isms Pinned Chat
 

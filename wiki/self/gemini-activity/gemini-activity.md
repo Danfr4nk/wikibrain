@@ -1,9 +1,10 @@
 ---
 domain: self
 page_type: report
+tier: incidental
 status: stable
 date_created: 2026-06-22
-date_modified: 2026-10-04
+date_modified: 2026-10-15
 date_range_start: 2024-01-01
 date_range_end: 2026-01-02
 sources: ["raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md", "raw/self/dox-md/Gemini-_00.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/Gemini-_02.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-07.md", "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-13.md", "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md", "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-21.md", "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-58.md"]
@@ -19,8 +20,11 @@ connections:
   - page: wiki/self/gemini-activity/archive/v1-extract
     type: supersedes
     claim: "The v1 extract is this archive's pinned predecessor exhibit — the earlier extraction this page supersedes as the standing Gemini activity record."
+changelog:
+  - "2026-10-15: Classified incidental (complete at this size)"
 ---
 
+> **Incidental entry** — data-exhibit stub: the aggregate report on Dan's Gemini usage — a 21 MB Takeout activity log (3,986 prompted entries, 2024–2026) plus eight exported sessions. Working material; the conclusions live in the pages that cite it. Complete at this size.
 
 # Gemini Activity
 

@@ -1,15 +1,20 @@
 ---
 domain: self
 page_type: report
+tier: incidental
 status: stable
 date_created: 2026-07-02
-date_modified: 2026-10-04
+date_modified: 2026-10-15
 date_range_start: 2007-01-09
 date_range_end: 2022-09-05
 sources: ["raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/facebook", "wiki/interests/favorites/music", "wiki/mind/synthesis/millennial-digital-witness"]
 tags: [nyc-era]
+changelog:
+  - "2026-10-15: Classified incidental (complete at this size)"
 ---
+
+> **Incidental entry** — data-exhibit stub: the Facebook taste-and-surveillance record — pages liked, event responses, groups, and the ads-interest model of Dan, 2007–2022. Working material; the conclusions live in the pages that cite it. Complete at this size.
 
 # Facebook Interests, Events, Groups & Tracking
 

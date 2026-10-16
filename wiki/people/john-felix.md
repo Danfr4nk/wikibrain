@@ -1,9 +1,10 @@
 ---
 domain: people
 page_type: entity
+tier: incidental
 status: active
 date_created: 2026-06-23
-date_modified: 2026-09-25
+date_modified: 2026-10-15
 date_range_start: 2016-02-12
 date_range_end: 2016-06-01
 sources: ["raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -15,7 +16,11 @@ infobox:
   relationship_to_dan: unknown
   first_contact: 2016-02-12
   known_for: "John Felix's thread (+17249636738, 59 messages, February–June 2016) is almost entirely logistics — arrival times, 'K,' '"
+changelog:
+  - "2026-10-15: Classified incidental (complete at this size)"
 ---
+
+> **Incidental entry** — minor-entity stub: John Felix, the 2016 thread's logistics correspondent (59 messages, February–June 2016); the 2026-08-18 revision retracted the partner reading on Suz-thread evidence. Complete at this size.
 
 # John Felix
 

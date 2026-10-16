@@ -1,12 +1,17 @@
 ---
 domain: interests
 page_type: summary
+tier: incidental
 status: stable
 date_created: 2026-07-11
-date_modified: 2026-09-11
+date_modified: 2026-10-15
 sources: []
 related: []
+changelog:
+  - "2026-10-15: Classified incidental (complete at this size)"
 ---
+
+> **Incidental entry** — index hub: the interests section's navigation page — golf, the music-irrelevance thesis, and everything else he gives a damn about. Complete at this size.
 
 # interests — index
 

@@ -1,12 +1,17 @@
 ---
 domain: self
 page_type: index
+tier: incidental
 status: stable
 date_created: 2026-07-11
-date_modified: 2026-10-04
+date_modified: 2026-10-15
 sources: []
 related: []
+changelog:
+  - "2026-10-15: Classified incidental (complete at this size)"
 ---
+
+> **Incidental entry** — index hub: the self domain's navigation page. Complete at this size.
 
 # self — index
 

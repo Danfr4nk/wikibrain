@@ -1,9 +1,10 @@
 ---
 domain: self
 page_type: report
+tier: incidental
 status: active
 date_created: 2026-06-23
-date_modified: 2026-10-04
+date_modified: 2026-10-15
 sources: ["raw/self/facebook/facebook-ihatedanfrank/posts/ — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/facebook", "wiki/interests/favorites/music", "wiki/timeline/periods/2010s", "wiki/self/location-history", "wiki/mind/synthesis/millennial-digital-witness"]
 tags: [nyc-era, relationships, politics]
@@ -12,7 +13,11 @@ connections:
     type: parallels
     claim: "The Messages exhibit is the other half of this September 2022 Facebook export: 403+ threads beside this page's posts, photos, and 17 albums."
 
+changelog:
+  - "2026-10-15: Classified incidental (complete at this size)"
 ---
+
+> **Incidental entry** — data-exhibit stub: Dan's Facebook posts, albums, and media from the Sep 2022 export — roughly 627 media items and status updates reaching back to 2007. Working material; the conclusions live in the pages that cite it. Complete at this size.
 
 # Facebook Posts, Media & Albums (ihatedanfrank)
 

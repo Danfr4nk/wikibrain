@@ -1,13 +1,14 @@
 ---
 domain: meta
 page_type: dataset
+tier: incidental
 title: "Operator Testimony Veracity"
 aliases: ["testimony ledger", "trust score", "veracity ledger"]
 status: active
 importance: high
 knowledge: derived
 date_created: 2026-09-02
-date_modified: 2026-09-18
+date_modified: 2026-10-15
 chart:
   kind: grouped-bar
   title: "Stated confidence against measured outcome, by confidence band"
@@ -27,7 +28,11 @@ related:
   - wiki/meta/index
   - wiki/mind/concepts/wiki-brain
   - wiki/health/intake-ledger
+changelog:
+  - "2026-10-15: Classified incidental (complete at this size)"
 ---
+
+> **Incidental entry** — doctrine stub: the standing state of the testimony ledger — every first-person assertion recorded, what settled it, and the arithmetic over the settled ones. Evidence, not a claim. Complete at this size.
 
 # Operator Testimony Veracity
 

@@ -1,9 +1,10 @@
 ---
 domain: timeline
 page_type: summary
+tier: incidental
 status: stable
 date_created: 2026-07-11
-date_modified: 2026-09-01
+date_modified: 2026-10-15
 sources: []
 related: []
 connections:
@@ -13,7 +14,11 @@ connections:
   - page: wiki/timeline/annie-record
     type: contains
     claim: "The hand-read chronology of the single relationship that dominates the corpus, kept separate from the mechanically generated master timeline because its entries are read and judged rather than extracted."
+changelog:
+  - "2026-10-15: Classified incidental (complete at this size)"
 ---
+
+> **Incidental entry** — index hub: the timeline section's navigation page — the master chronology and the hand-read Annie record. Complete at this size.
 
 # timeline — index
 

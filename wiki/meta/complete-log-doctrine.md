@@ -1,19 +1,24 @@
 ---
 domain: meta
 page_type: concept
+tier: incidental
 title: "The Complete-Log Doctrine"
 aliases: ["complete log doctrine", "complete log", "more is better than less"]
 status: active
 knowledge: earned
 date_created: 2026-09-16
-date_modified: 2026-09-17
+date_modified: 2026-10-15
 importance: high
 tags: [wiki-governance, editorial-policy, instruments, measurement]
 sources: []
 related:
   - wiki/mind/concepts/stylometry-v2
   - wiki/meta/instruments/index
+changelog:
+  - "2026-10-15: Classified incidental (complete at this size)"
 ---
+
+> **Incidental entry** — doctrine stub: his 2026-09-16 standing philosophy, in his words — any entry tracking an ongoing metric displays the metric's complete log. 'More is better than less every time.' Complete at this size.
 
 # The Complete-Log Doctrine
 

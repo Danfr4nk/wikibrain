@@ -1,11 +1,12 @@
 ---
 domain: mind
 page_type: dataset
+tier: incidental
 title: "Annual Message Volume: Dan vs. Suz"
 status: active
 knowledge: mixed
 date_created: 2026-08-26
-date_modified: 2026-09-04
+date_modified: 2026-10-15
 sources: []
 synthesizes:
   - wiki/people/suzanne-frank
@@ -48,7 +49,11 @@ connections:
     claim: "The per-year volume table on that page is this chart's entire dataset: a fourteen-month reversal at the relationship's 2015-16 opening, then Suz permanently ahead from 2017, widening to roughly two-to-one by the record's end."
   - { target: "[[wiki/mind/synthesis/estate-money-spine]]", type: contextualizes, claim: "The volume asymmetry — Suz permanently ahead from 2017, widening toward ~2:1 — is the communication register of the switchboard concentration the money spine traces in capital: one node carrying flows a diversified system would spread." }
   - { target: "[[wiki/mind/synthesis/attachment-trauma-bond]]", type: contextualizes, claim: "The 2017 hinge and the widening asymmetry are dated residue for the bond page's leverage see-saw — who writes more, when, tracks who holds the exit." }
+changelog:
+  - "2026-10-15: Classified incidental (complete at this size)"
 ---
+
+> **Incidental entry** — data-exhibit stub: the annual Dan-vs-Suz message-volume comparison — premise re-checked 2026-09-04 with the arithmetic untouched; testimony labeled throughout. Complete at this size.
 
 # Annual Message Volume: Dan vs. Suz
 
