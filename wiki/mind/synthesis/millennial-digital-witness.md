@@ -1,12 +1,13 @@
 ---
 domain: mind
 page_type: synthesis
+layer: interpreted/synthesis
 tier: major
 knowledge: earned
 title: "Millennial Digital Witness"
 status: stable
 date_created: 2026-06-22
-date_modified: 2026-10-07
+date_modified: 2026-10-16
 sources:
   - raw/self/chats/_✧✧ 𝔻𝔸ℕ𝔽ℝ𝔸ℕ𝕂-𝕀𝕊𝕄'𝕊 ✧✧ Pinned chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -63,10 +64,13 @@ connections:
   - page: wiki/mind/synthesis/twitter-2026
     type: evidenced-by
     claim: "The disposition becomes an operation: on 2026-05-30 he runs a browser agent to delete every follow across Twitter, YouTube and SoundCloud at once, to rebuild the recommendation systems from scratch. No longer observing the algorithm — taking an instrument to it."
+changelog:
+  - date: 2026-10-16
+    change: "Declared framework-v2 layer (interpreted/synthesis). No edge changes — all batch connections already reciprocated."
 ---
-
-
 # Millennial Digital Witness
+
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 > **RE-CHECKED [2026-09-26] — premise moved, conclusion unaffected.**
 > [[wiki/mind/synthesis/ai-collaborative-analysis]] moved on 2026-09-13 by a

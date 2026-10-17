@@ -1,6 +1,7 @@
 ---
 domain: mind
 page_type: synthesis
+layer: interpreted/synthesis
 knowledge: earned
 title: "AI Collaborative Analysis"
 infobox:
@@ -13,10 +14,12 @@ infobox:
 changelog:
   - date: "2026-10-05"
     note: "Restructured to canonical article template v1; tier: major set."
+  - date: 2026-10-16
+    change: "Declared framework-v2 layer (interpreted/synthesis). No edge changes — all batch connections already reciprocated."
 tags: [ai-collaboration, forensic-analysis, personality-profile]
 status: active
 date_created: 2026-06-22
-date_modified: 2026-10-05
+date_modified: 2026-10-16
 tier: major
 date_range_start: 2022-12-10
 date_range_end: 2026-09-24
@@ -137,8 +140,9 @@ connections:
     type: instantiates
     claim: "The CATO/MAX split — named, axiom-bearing, pasteable configuration documents rather than casual habits — is the fullest-specified single case of the cognitive-extension pattern this page documents at the corpus level."
 ---
-
 # AI Collaborative Analysis
+
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Large language models occupy a specific, unusual role in Dan's cognitive
 life: not conversational companions but external processors — memory,

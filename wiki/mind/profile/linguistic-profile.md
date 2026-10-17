@@ -1,12 +1,13 @@
 ---
 domain: mind
 page_type: profile
+layer: interpreted/profile
 title: "Linguistic Profile — Voice, Register, Stylometrics"
 aliases: ["voice", "stylometrics", "forensic intimacy"]
 status: stable
 tier: major
 date_created: 2026-07-13
-date_modified: 2026-10-07
+date_modified: 2026-10-16
 sources:
   - raw/imessage/messages-part1-2011-2019.csv
   - raw/imessage/messages-part2-2019-2026.csv
@@ -22,6 +23,8 @@ sources:
 changelog:
   - date: 2026-10-07
     change: "Expanded to major tier: restructured to canonical template (corrections moved to Conflicts in the record), merged turn-level structure from the deviance audit, added independent re-verification of fingerprint markers against the raw part-exports."
+  - date: 2026-10-16
+    change: "Declared framework-v2 layer (interpreted/profile); added the missing reciprocal instantiates edge to the bespoke lexicon."
 related:
   - wiki/mind/profile/index
   - wiki/mind/profile/deviance-mapping
@@ -57,9 +60,13 @@ connections:
     type: parallels
     claim: "Big Five / Big30 Psychometrics runs the audit this page's measurements anchor: a dossier table of scores, each turned into a directional prediction and checked against the held records."
     claim: "The public half of the two-corpus voice proof: 2,718 dated originals written for an audience, against the private message corpus written for one person, which is what lets the profile separate a stable voice from a register chosen per reader."
+  - page: wiki/mind/profile/lexicon
+    type: instantiates
+    claim: "The 'forensic intimacy' register measured here — clinical detachment fused with raw personal confession, his register for crisis and self-analysis — is redeployed in the bespoke lexicon, deliberately and by design, as an affection-delivery mechanism rather than an analytical one."
 ---
-
 # Linguistic Profile — Voice, Register, Stylometrics
+
+_Layer: interpreted/profile — the measured foundation (L0). On measurement questions the documented exhibits win; disputes go to Conflicts in the record._
 
 Dan's language is one of the most-measured things about him. Two independent
 corpora — roughly a hundred thousand of his iMessages spanning 2010–2026 and the

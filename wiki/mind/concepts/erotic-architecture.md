@@ -1,14 +1,16 @@
 ---
 domain: mind
 page_type: concept
+layer: interpreted/concept
 title: "Erotic Architecture: Sexuality as Controlled-Chaos Engineering"
 status: active
 date_created: 2026-07-14
-date_modified: 2026-10-07
+date_modified: 2026-10-16
 knowledge: mixed
 tags: [relationships, non-monogamy, personality-profile]
 changelog:
   - "2026-10-07: Restructured to canonical template v1 (gated: claims preserved, no expansion)"
+  - "2026-10-16: Declared framework-v2 layer (interpreted/concept); added the missing reciprocal parallels edge to the bespoke lexicon."
 sources:
   - "dat:1869-goon-club-steering-commit-20260922"
   - "dat:1870-goon-club-denial-stroke-goal-20260922"
@@ -49,9 +51,13 @@ connections:
   - page: wiki/mind/concepts/the-cool-metric
     type: parallels
     claim: "The twenty-attribute ideal-face specification is the anti-normie engineering commitment run on attraction itself — nothing left as unexamined preference."
+  - page: wiki/mind/profile/lexicon
+    type: parallels
+    claim: "The ideal-face specification and the bespoke lexicon are the same disposition applied to different objects — this page engineers what gets found attractive, the lexicon engineers how affection gets said — neither domain left to run on unexamined default."
 ---
-
 # Erotic Architecture: Sexuality as Controlled-Chaos Engineering
+
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 Dan's sexuality is engineered the way his arguments are: scenarios constructed, edge conditions found, categories pushed until they break, the whole thing witnessed and measured. The evidence now arrives in three layers — what he **says** (explicit verbal disclosures, 2026-09-13), what he **rates** (the 2026-09-11 scenario instrument, 121 scenarios), and what he **does** (the dated behavioral record). They converge on a rule this page states as its central finding: **his erotic organization is act-first, not identity-first, and the universal amplifier is male attention aimed at him.**
 

@@ -1,6 +1,7 @@
 ---
 domain: self
 page_type: summary
+layer: documented/exhibit
 tier: major
 status: stable
 date_created: 2026-06-23
@@ -28,10 +29,11 @@ connections:
     claim: "The ihatedanfrank handle, registered January 9, 2007 and carried across Facebook and Instagram for the entire documented life, is the naming rule pointed inward — proof the loaded name is a permanent instrument rather than a phase."
 changelog:
   - "2026-10-16: Expanded to major tier (3,000+ words) and restructured to canonical template v1; Brooklyn move-date contradiction relocated from body to Conflicts in the record; per-dimension figures summarized from the four data-exhibit sub-pages."
+  - "2026-10-16: Declared framework-v2 layer (documented/exhibit). No edge changes — all connections already reciprocated."
 ---
-
-
 # Facebook Archive (ihatedanfrank)
+
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion._
 
 On Tuesday, January 9, 2007 — in the pre-smartphone era, when Facebook was still a text box under a profile photo and a status update was the whole medium — an 18-year-old from Uniontown, Pennsylvania opened an account under a handle he would carry for the rest of his documented life: **ihatedanfrank**. Fifteen years later, on September 5, 2022, he downloaded the whole thing as a 79 MB export: the identity record, 403+ message threads, roughly 650 friends, 229–234 liked pages, and some 627 media items across 17+ albums, covering 2007–2022.
 

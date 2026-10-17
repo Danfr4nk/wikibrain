@@ -1,12 +1,13 @@
 ---
 domain: mind
 page_type: profile
+layer: interpreted/profile
 title: "Voice Modes — Dan's Texting Register by Emotional State"
 aliases: ["mode activation", "composite voice model"]
 status: stable
 tier: major
 date_created: 2026-07-13
-date_modified: 2026-10-06
+date_modified: 2026-10-16
 sources:
   - raw/drive-sweep/20260911/gdocs/google-drive-export/Composite Voice Model for Dan Frank.md.from-gdoc.txt
   - wiki/mind/synthesis/the-commissioned-self
@@ -36,9 +37,12 @@ connections:
 changelog:
   - date: 2026-10-06
     change: "Expanded to major tier and restructured to canonical template v1. Added provenance section (the Composite Voice Model is a Dan-commissioned generative spec, not a corpus measurement), a baseline-mechanics section, corpus cross-evidence per mode (texting-deviance-audit, linguistic-profile, lexicon, neurodivergence), a two-axes section (emotional state × audience), and a dated Conflicts in the record. Resolved the long-standing ⚠ unresolved-source warning: the Composite Voice Model file was recovered from the 2026-09-11 Google Drive sweep; the sources list now points at the found file. Moved the lexicon contradiction out of the Affectionate section into Conflicts in the record. Frontmatter title preserved verbatim."
+  - date: 2026-10-16
+    change: "Declared framework-v2 layer (interpreted/profile). No edge changes — both connections already reciprocated."
 ---
-
 # Voice Modes — Dan's Texting Register by Emotional State
+
+_Layer: interpreted/profile — the measured foundation (L0). On measurement questions the documented exhibits win; disputes go to Conflicts in the record._
 
 Every text Dan sends sounds like Dan — but the *kind* of Dan it sounds like
 changes with his emotional state. The same core voice, all slang-heavy

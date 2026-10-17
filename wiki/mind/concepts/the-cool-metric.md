@@ -1,6 +1,7 @@
 ---
 domain: mind
 page_type: concept
+layer: interpreted/concept
 title: "The Cool Metric"
 status: active
 knowledge: mixed
@@ -16,7 +17,7 @@ infobox:
   key_specimen: "The Turnstile night, 2026-10-04"
   doctrine: "Coolness framing — standing Moltbook rule from 2026-10-04"
 date_created: 2026-08-04
-date_modified: 2026-10-06
+date_modified: 2026-10-16
 sources:
   - src:imessage-corpus-2026
   - src:old-wiki-export-2026-09-04
@@ -54,11 +55,21 @@ connections:
   - page: wiki/mind/profile/big-five-psychometrics
     type: evidenced-by
     claim: "Artistic Interests at the 81st percentile (3.82x aesthetic register) is the profile layer's directional support for taste as a load-bearing system. Nothing in the profile supports the performed-vs-authentic axis as a trait."
+  - page: wiki/mind/profile/lexicon
+    type: parallels
+    claim: "The lexicon's elevated, institutional, faux-official tribunal diction is the same anti-normie taste-signaling this metric documents in music and politics — an aesthetic commitment independent of literal content, here run on the vocabulary of quality-control committees instead."
+  - page: wiki/mind/concepts/erotic-architecture
+    type: parallels
+    claim: "The twenty-attribute ideal-face specification is the anti-normie engineering commitment run on attraction itself — nothing left as unexamined preference."
 changelog:
   - date: 2026-10-06
     change: "Expanded to major tier; restructured to canonical template v1; added the 2026-10-04 Turnstile-night operation, tripwire-naming evidence, and coolness-framing doctrine; old thesis verdicts moved to Conflicts in the record."
+  - date: 2026-10-16
+    change: "Declared framework-v2 layer (interpreted/concept); added the missing reciprocal parallels edges to the bespoke lexicon and to erotic-architecture."
 ---
 # The Cool Metric
+
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 Dan sorts culture and people with an apparatus that has one deployable verdict and two settings: cool and lame. It decides what music he produces, what enters his crates, whose names survive contact with him, and what gets exiled on sight. He has run it in public for years — the provocative pet names, the not-lame canon he can recite from memory — and on the night of October 3–4, 2026 the record captured its fullest specimen: twenty minutes after telling his mother the band on screen was "not awful," he announced to the room, "IF YOU HAVE A GUITAR IN YOUR ACT YOU ARE JUST FUCKING LAME NOW SORRY I DONT MAKE THE RULES."
 

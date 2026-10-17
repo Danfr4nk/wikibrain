@@ -1,14 +1,16 @@
 ---
 domain: mind
 page_type: concept
+layer: interpreted/concept
 title: "The Forensic Method"
 aliases: ["forensic analysis", "forensic methodology", "procedural tells", "lossless retention", "anomaly-detection engine"]
 status: active
 date_created: 2026-06-22
-date_modified: 2026-10-06
+date_modified: 2026-10-16
 tier: major
 changelog:
   - "2026-10-06: Expanded to major tier (>=3,000 words); restructured to canonical template v1."
+  - "2026-10-16: Declared framework-v2 layer (interpreted/concept); added the missing reciprocal instantiates edge to the bespoke lexicon."
 synthesizes:
   - wiki/mind/profile/intp
   - wiki/mind/concepts/dans-law
@@ -70,9 +72,13 @@ connections:
     type: operationalized-by
     claim: "The forensic method's coherence-testing - treating categories and primary records as things that must hold under pressure - is operationalized by taboo-and-boundary-testing's named mirror-cracking mechanism."
     claim: "The hardest self-directed test: within 24 hours of his great-grandmother's death Dan reviewed his own video, found the monitor alarm explaining its 'supernatural' timing, and retracted the story unprompted at no benefit to himself."
+  - page: wiki/mind/profile/lexicon
+    type: instantiates
+    claim: "The lexicon is the forensic method run on a compliment: cite the evidence, invoke an authority, render a finding — tribunals, committees, historical records and evidentiary standards adjudicating affection, with the mismatch between the machinery's weight and the triviality of what it is adjudicating supplying the humor."
 ---
-
 # The Forensic Method
+
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 The forensic method is Dan's cognitive default, not a tool he picks up: every domain that contains evidence — a decade of relationship messages, raw J6 footage, a workplace cash drawer, a novelist's suspiciously familiar house — gets processed through the same anomaly-detection engine. It treats primary records as authoritative and narrative as suspect, hunts for the hinge-instant where a system breaks, and refuses comfort as a criterion. The profile names the substrate: Ti-dominant coherence-testing — truth as "a system that holds under recursive collapse," never social consensus — run on the world instead of inside it ([[wiki/mind/profile/intp]]). The method is what Ti-dominance looks like with a corpus attached.
 

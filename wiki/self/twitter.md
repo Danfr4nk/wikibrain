@@ -1,13 +1,15 @@
 ---
 domain: self
 page_type: summary
+layer: documented/exhibit
 status: active
 date_created: 2026-06-22
-date_modified: 2026-10-07
+date_modified: 2026-10-16
 knowledge: mixed
 tier: major
 changelog:
   - "2026-10-07: Expanded to major tier; restructured to canonical article template v1; lede rewritten story-first; contradictions consolidated into Conflicts in the record; Assessment added."
+  - "2026-10-16: Declared framework-v2 layer (documented/exhibit). No edge changes — all connections already reciprocated."
 date_range_start: 2009-10-20
 date_range_end: 2026-10-07
 title: "Twitter / X (@danfrank)"
@@ -144,6 +146,8 @@ connections:
     claim: "The archive is the only contemporaneous record of that relationship in the corpus — six posts across 21-31 August 2013, a handle (@katie_efff), a geotagged afternoon and a Vine from inside the Oddball show — against a page that said everything known about her came from Dan's later AI narration."
 ---
 # Twitter / X Activity (@danfrank)
+
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion._
 
 Personal account **@danfrank** — bio "insufferable politics sicko", 256 followers at the June 2026 profile fetch, blue-verified — is Dan's single continuous public valve, running from September 2008 to the present. Seventeen years, one handle, and the only contemporaneous first-party record of large stretches of his adult life: the Full Sail arrival, the New York years, the production identity, the political conversion, the AI turn. The archive behind this page holds 2,741 retrieved originals, organized one wiki page per year, every retrieved original and every quote-tweet carrying his own text. Pure reposts with no @danfrank quote content are the one omitted class.
 

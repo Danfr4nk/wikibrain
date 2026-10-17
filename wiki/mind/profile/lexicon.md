@@ -1,6 +1,7 @@
 ---
 domain: mind
 page_type: profile
+layer: interpreted/profile
 title: "Dan's Bespoke Lexicon"
 aliases: ["the bespoke lexicon", "affection lexicon", "slang generator"]
 status: active
@@ -14,6 +15,8 @@ knowledge: mixed
 changelog:
   - date: 2026-10-16
     change: "Expanded to major tier (>=3,000 words); restructured to canonical template v1 — story-first lede, topical body sections, the Voice Modes contradiction moved out of the body into a dated Conflicts in the record entry, Gaps folded into References/Limits, cross-page synthesis deepened against linguistic-profile, voice-modes, the-cool-metric, forensic-method, erotic-architecture, ai-collaborative-analysis, and ally-lubin."
+  - date: 2026-10-16
+    change: "Declared framework-v2 layer (interpreted/profile). No edge changes — all seven connections already reciprocated."
 connections:
   - page: wiki/mind/profile/linguistic-profile
     type: instantiates
@@ -37,8 +40,9 @@ connections:
     type: parallels
     claim: "Both pages document the same disposition applied to a different object — this lexicon engineers how affection gets said, the ideal-face specification engineers what gets found attractive in the first place — neither domain is left to run on unexamined default."
 ---
-
 # Dan's Bespoke Lexicon
+
+_Layer: interpreted/profile — the measured foundation (L0). On measurement questions the documented exhibits win; disputes go to Conflicts in the record._
 
 On 2026-08-26, Dan ran an AI session and asked it to do something the
 corpus had never seen him commission before: formalize his own affectionate
