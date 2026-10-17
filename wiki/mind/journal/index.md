@@ -5,7 +5,7 @@ title: "Idea Journal"
 aliases: ["idea journal", "the journal"]
 status: active
 date_created: 2026-10-03
-date_modified: 2026-10-16
+date_modified: 2026-10-17
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -566,4 +566,45 @@ cannot show its stages has not been cross-checked.
   re-load, not a replacement. The Sep 20 coda's deletion reading
   granted its full strength and adjudicated. PASS — high
   confidence, 0 restarts.
+
+
+### 2026-10-17
+
+- [[wiki/mind/journal/2026-10-17-the-closing-witness|Entry 1 — The
+  Closing Witness]]: short-window exact-duplicate orders (identical
+  item/price, separate order numbers, ≤~8h apart) terminate purchase
+  attention in that item line — the duplicate is the closing witness
+  of a binary purchase episode (rows 1/41), not an acquisition event;
+  three duplicate episodes (Galaxy Watches, Mack Daddy 3 wedge, twin
+  dolls) vs two expansion-arc controls, with two raw-log timing
+  corrections recorded. PASS — high confidence at stated bounds, 0
+  restarts.
+- [[wiki/mind/journal/2026-10-17-the-test-that-cant-run|Entry 2 — The
+  Test That Can't Run]]: conflict C3's discriminating test —
+  sensory/childhood-developmental evidence — is closed on the held
+  record by construction: a replicated repo-wide sweep returns zero
+  dated Dan-attributable sensory-reactivity instances, and the
+  childhood window predates the corpus's earliest primary content
+  (2009/2011); the label persists by explicit-statement installation
+  (row 6), not by adjudication. PASS at hypothesis grade, leaning
+  supported; 2 restarts preserved in Genesis; the "test unrun"
+  phrasing retired as a description of effort.
+- [[wiki/mind/journal/2026-10-17-the-2005-shape|Entry 3 — The 2005
+  Shape]]: the November 2005 rupture supplied the distrust template's
+  story-form — the concealed-alternate-reality audit shape, restaged
+  at every later vertical-claim audit (2007 Facebook scam groups,
+  Creative License 2011–12, Nashville 2023, BFS 2026) — while its
+  installation claim is untestable on the held record; the axiom-
+  installation reading died and is preserved in Genesis. PASS at
+  hypothesis grade, leaning supported on the lineage legs; 1 restart.
+- [[wiki/mind/journal/2026-10-17-the-pattern-unlocked-lyric|Entry 4 —
+  The Pattern-Unlocked Lyric]]: lyric content registers as message
+  only where it instantiates a held anomaly/pattern cluster — lyric
+  uptake is pattern-confirmation (row 4's cluster mechanism through
+  row 18's gate), not semantic processing; the "Addicted To You"
+  (2026-10-11) reading attaches exactly to the Annie-loop cluster
+  match. HYPOTHESIS GRADE, leaning supported, honestly capped —
+  the ~3 earlier exception songs are unnamed in held data, so the
+  primary discriminator is unrun; 0 restarts.
+
 
