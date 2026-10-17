@@ -1,10 +1,14 @@
 ---
 domain: mind
 page_type: index
+layer: interpreted/index
 title: "Mind — Beliefs, Ideology, Psychology, Values"
 status: active
+tier: major
 date_created: 2026-07-11
-date_modified: 2026-10-03
+date_modified: 2026-10-17
+changelog:
+  - "2026-10-17: Declared framework-v2 layer (interpreted/index); added the two-root layer-discipline section; tiered major."
 tags: [personality-profile, ideology, politics, forensic-analysis]
 connections:
   - page: wiki/mind/profile/index
@@ -23,12 +27,49 @@ connections:
 
 # Mind — Beliefs, Ideology, Psychology, Values
 
+_Layer: interpreted/index — the interpreted person. The documented person lives
+in [[wiki/self/index|self/]]; this domain reasons over that domain's exhibits
+and cites them rather than restating them._
+
 The domain holds the psychology: profile instruments, concepts, syntheses,
 the psychosexual cluster, and politics. Every child entry is listed below
 with its current epistemic status. Status words are the pages' own
 frontmatter (`active`/`stable`, `earned`/`mixed`/`derived`); the qualifiers
 in parentheses are this index's read of what the evidence actually
 supports as of 2026-09-13.
+
+## The two roots: documented vs interpreted [new — 2026-10-17]
+
+Since 2026-10-04 the wiki runs on the framework-v2 two-root discipline, and
+this index is the front door of one of the roots. The split, confirmed by the
+900-pair Jev overlap pass (zero cross-tree merges sustained in 134 mind×self
+pairs), is load-bearing:
+
+- **`self/` — the documented person.** Standing facts and their evidence:
+  person facts, data exhibits (twitter, chats, facebook, gemini, spending,
+  watch-history) explicitly marked as exhibits, cited never narrated.
+- **`mind/` — the interpreted person.** L0 profile (the measured
+  foundation), concepts (one canonical page per mechanism), synthesis, and
+  the journal. Everything here is reasoning *over* the self/ record.
+
+The layer rules, now declared on every page in both trees:
+
+1. **Every page declares its layer** and links its other-layer companions —
+   a synthesis names the data it reasons over; a data page names the
+  synthesis that uses it.
+2. **Layers cite downward, never copy.** On measurement questions the lower
+   layer wins; disputes go in Conflicts in the record.
+3. **Concepts define, syntheses connect, journals date.** A synthesis
+   survives review only if it connects two or more concepts in a way none of
+   them contains alone.
+4. **Merges are unions with pointers**, approved one by one — never by
+   mechanism alone.
+
+The disease the framework treats is not duplicate articles; it is layer
+confusion plus missing links. The felt duplication across the two trees is
+mostly *unlinked adjacency* — pages covering neighboring claim-space without
+ever pointing at each other — and the cure is the link graph this index
+navigates. The companion root starts at [[wiki/self/index]].
 
 ## How to read this domain: measurement status [new — 2026-09-13]
 
