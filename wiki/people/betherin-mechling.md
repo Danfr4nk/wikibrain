@@ -32,6 +32,7 @@ related:
   - wiki/places/117-belmont-circle
   - wiki/mind/synthesis/supply-network
   - wiki/timeline/periods/2017-poverty-floor
+  - wiki/meta/complete-log-doctrine
 tags: [family, addiction-recovery, relationships, uniontown-era, grief]
 infobox:
   name: "Betherin Mechling"
@@ -135,6 +136,21 @@ August 2026. The conditional is load-bearing and is not dissolved here: the
 "Rusty is Betherin's father" link comes from a capture that is not held in this
 repository, and the two messages above are ten minutes and one church apart
 rather than in a single sentence.
+
+The wiki already holds an independent check on that conclusion, on another page,
+and neither page has ever cited the other. [[wiki/people/ellen-ulmer]] describes
+Betherin not as Annie's cousin but as **Ellen's niece** — *"Jay had been engaged
+to Ellen's niece Betherin Mechling"* — and flags the relation in its own Gaps as
+**inferred** from the Mechling/Ulmer cousin framing rather than stated. The two
+descriptions were reached by different routes and they agree: a Rusty who is
+Annie's uncle is, on the ordinary reading, a sibling of one of Annie's parents,
+which makes Betherin Ellen's niece and Annie's first cousin in the same breath.
+Ellen's page arrived at the niece relation without the December 2025 message,
+and this page arrived at the first-cousin degree without Ellen's page.
+Corroboration, not duplication — and it upgrades Ellen's self-declared inference
+to something with a dated message behind it. The conditional above still governs
+both: the capture naming Rusty as Betherin's father is the shared premise, and it
+remains unheld.
 
 **Other Mechling women.** The record names at least two more without
 identifying them: *"Laura and Betherin"* (April 21, 2017) and *"me and krista

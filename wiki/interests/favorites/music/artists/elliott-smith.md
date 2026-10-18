@@ -31,6 +31,7 @@ related:
   - "wiki/self/tattoos"
   - "wiki/mind/synthesis/twitter-2018"
   - "wiki/interests/favorites/eclecticism"
+  - "wiki/meta/complete-log-doctrine"
 tags: [personality-profile, forensic-analysis, music-production]
 connections:
   - page: wiki/mind/synthesis/music-as-identity

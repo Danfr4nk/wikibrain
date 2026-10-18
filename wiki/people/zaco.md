@@ -30,6 +30,7 @@ related:
   - wiki/timeline/periods/2018-deep-cycle
   - wiki/places/155-virginia-ave
   - wiki/health/cocaine
+  - wiki/meta/complete-log-doctrine
 infobox:
   name: "Zaco"
   sex: unknown
@@ -310,6 +311,25 @@ aggregate, and it is the last thing either party says.
 Whether the purchase happened by some other route on some other night is not
 recorded. Nothing later in the corpus refers to Zaco in any channel.
 
+### The night is an anchor in an open contradiction
+
+That last point has a use beyond this page.
+[[wiki/timeline/periods/2018-deep-cycle]] carries an unresolved disagreement
+with [[wiki/mind/synthesis/spatial-behavior]], stated in its own frontmatter:
+the GPS analysis reads 2018's spatial-collapse-and-migration signature as a
+*chosen* psychological strategy — systemic integrity via rebuild — while the
+period's own financial record offers an equally consistent alternative,
+chronic constraint rather than chosen minimalism. Neither page cites a dated
+instance on the constraint side.
+
+This is one, and it is unusually clean: a stated intention to travel, cash in
+hand, a willing counterparty, and a radius set by not having a car — all of it
+inside fourteen minutes, with message ids. One night does not resolve the
+contradiction and this page does not claim it does; the reading it supports is
+local to the night. But the contradiction has been carried without a
+held-corpus anchor on either side, and this is one the argument can be run
+against.
+
 ## Complete log — all 106 messages
 
 The whole thread, `chat_identifier = +1724***3381`, in chronological order,
@@ -509,6 +529,30 @@ links the two handles; no message from either names the other; Zaco's
 *"he's got good soft and hard i get his hard all the time"* (June 24) is the
 only evidence that he buys upstream from anybody, and the upstream party is
 unnamed.
+
+### Where he sits on the reliability inversion: nowhere, and that is the finding
+
+[[wiki/mind/synthesis/supply-network]]'s central claim is a ranking — the more
+purely transactional the relationship, the more reliable the supply. Menore
+answered 455 of 458 requests over six and a half years; Johnny was reliable in
+season and produced the record's first single-node supply panics when he went
+on vacation; Teddy was willing and chronically fragile; Tom, the friend, is the
+least reliable node in the corpus.
+
+Zaco cannot be placed on that scale, and the reason is worth stating rather
+than guessing past. **The ranking is built from documented failures** — panics,
+dead phones, soured debts, owe-and-silence cycles. This thread contains none.
+There is no frustration message from Dan anywhere in it, no sourcing panic
+attached to the handle, no recorded instance of Zaco failing to deliver.
+
+That is not evidence of reliability. It is what 106 messages across two short
+runs look like when nothing depends on them, and the monthly table above is why:
+3% of the primary's volume, absent during the primary's only outage. A node
+carrying no load cannot be observed failing under load. The unplaceability is
+itself the datum — in 2018 a supplier could be used twice and dropped without
+either party noticing, and by 2025 the whole load sat on one friendship-embedded
+node with no fallback, where a single missed handoff propagated into a lost job.
+The distance between those two states is measured in threads exactly this size.
 
 ## Identity: two pages, one handle
 
