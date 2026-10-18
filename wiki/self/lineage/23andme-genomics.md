@@ -6,16 +6,17 @@ knowledge: mixed
 status: active
 tier: major
 date_created: 2026-07-25
-date_modified: 2026-10-05
+date_modified: 2026-10-18
 changelog:
   - "2026-10-05: Restructured to canonical article template v1; tier set to major; source references resolved to current corpus paths."
+  - "2026-10-18: Raw genotype file (v5 chip, Dec 2024) ingested — mtDNA R0 refined to HV(xH,V), Y-DNA R1a1a corroborated via derived M198/M512, trait spot-checks added."
 infobox:
   subject: Dan Frank
   profile: 23andMe genomic profile
   exported: 2025-03-31
   service_updated: 2024-10-25
   ancestry: 99.7% European (21.4% Ashkenazi Jewish, 78.3% Northwestern European)
-  maternal_haplogroup: R0 (mtDNA)
+  maternal_haplogroup: R0, refined to HV(xH,V) (mtDNA)
   paternal_haplogroup: R-Z93 (Y-DNA)
   neanderthal: 95th percentile of 23andMe customers
 sources:
@@ -45,7 +46,7 @@ connections:
 
 Dan Frank's 23andMe genomic profile is the biological half of his ancestry record. In March 2025 he exported three PDFs from the service — Ancestry Composition, Chromosome Painting, and the Health Report, the last of which the service had updated in October 2024 — and the wiki has carried a full extraction of them ever since. The numbers tell the same two-line story the paper trail tells: on the paternal side, a 21.4% Ashkenazi Jewish signal from the Frank family's Russian and Austrian Jewish immigration; on the maternal side, 78.3% Northwestern European from the deep Appalachian and Pennsylvania settler lines. The genetics confirmed independently what the GEDCOM record in [[wiki/self/lineage/family-tree]] already showed.
 
-Beyond the ancestry estimate, the profile holds the full haplogroup assignment (maternal R0, paternal R-Z93), a 95th-percentile Neanderthal-variant load, fourteen health predisposition reports, forty-six carrier-status screens, the wellness panel, and thirty-seven trait reports. Almost all of it is negative space — one carrier variant, one benign health variant, everything else clear. That makes this page a baseline for future reference rather than a source of findings.
+Beyond the ancestry estimate, the profile holds the full haplogroup assignment (maternal R0, paternal R-Z93), a 95th-percentile Neanderthal-variant load, fourteen health predisposition reports, forty-six carrier-status screens, the wellness panel, and thirty-seven trait reports. Almost all of it is negative space — one carrier variant, one benign health variant, everything else clear. That makes this page a baseline for future reference rather than a source of findings. In October 2026 the underlying raw genotype file itself arrived — a December 2024 v5-chip export, 631,454 SNPs — and independent analysis of it corroborated the haplogroup assignments while narrowing the maternal R0 to the HV branch (see below).
 
 In the wiki's architecture this page functions as an evidentiary stream rather than a conclusion. The [[wiki/self/lineage/hybrid-analysis]] page cross-references this genomic data against the documentary family tree, and the [[wiki/mind/synthesis/ancestral-dialectic]] page treats the two confirmed source-lines as the biological grounding for its interpretive frame. Both of those pages flag their use of this data as interpretive; this page supplies only the data.
 
@@ -82,16 +83,26 @@ The 0.2% Sub-Saharan African trace is small enough to be statistical noise or a 
 
 The Ashkenazi 1–3 generation range is consistent with the documentary record: David J. Frank (b. 1892) and Sadie Harris (b. 1900) are Dan's paternal great-grandparents, placing them 3 generations back. The British & Irish 1–3 range reflects the deep multi-generational presence of the Gillingham/Shrum/Coldren lines in Pennsylvania. The French & German 2–4 range is consistent with 18th- and 19th-century German Palatine and Pennsylvania Dutch immigration.
 
+## Raw genotype file (December 2024)
+
+On 2026-10-18 Dan supplied the raw data behind 23andMe's reports: `genome_Daniel_Frank_v5_Full_20241215181636.zip` (inner file `genome_Daniel_Frank_v5_Full_20241217221158.txt`), a 23andMe v5-chip export generated Tue Dec 17 22:11:58 2024 on reference assembly GRCh37, genotypes oriented to the plus strand. 631,454 SNP rows, zero no-calls (0.0% `--`), autosomal heterozygosity 0.172; per-chromosome counts run chr1–22 plus 16,119 X, 3,337 Y and 4,154 MT SNPs, with an X-chromosome call pattern consistent with a male sample. This is the first held copy of the actual genotype data — everything above on this page was extracted from report-level PDFs. The zip itself is staged pending his decision on public `raw/` filing (precedent: earlier 23andMe zips were never held in `raw/`); everything derived from it is recorded here and in [`dat:20261018-0440-23andme-raw-genotype-v5`](../../../kb/data/20261018-0440-23andme-raw-genotype-v5.md).
+
+Independent analysis of the raw file corroborates 23andMe's haplogroup assignments and refines one of them (see Haplogroups), and spot-checks of trait markers reproduce the report-level calls (see Trait Reports). 23andMe's header restricts the raw data to research, educational and informational use — not medical — and that restriction is carried forward here: no health interpretation is derived from the raw genotypes beyond reproducing 23andMe's own report calls.
+
 ## Haplogroups
 
 | Line | Haplogroup | Notes |
 |---|---|---|
-| Maternal (mtDNA) | **R0** | Ancient haplogroup, ancestor of H and V; found across Europe and the Middle East; relatively rare in European populations |
-| Paternal (Y-DNA) | **R-Z93** | Subclade of R1a; found in Central/South Asia and some Ashkenazi Jewish populations |
+| Maternal (mtDNA) | **R0 → HV(xH,V)** | 23andMe reports R0; raw-data analysis (Dec 2024 file) corroborates R0 and narrows it to the HV branch excluding H and V |
+| Paternal (Y-DNA) | **R-Z93** | Subclade of R1a; raw data corroborates R1a1a via derived M198 and M512; the terminal Z93 call is 23andMe's report-level assignment |
 
 The maternal haplogroup R0 is the more surprising of the two. R0 is relatively uncommon in Northern Europe and is found at higher frequencies in the Arabian Peninsula, the Middle East, and among some Ashkenazi Jewish populations. On the maternal line (mother's mother's mother's line: Suzanne → Diane → Fran → ...), this is unexpected for a supposedly purely Appalachian Protestant lineage. However, mitochondrial haplogroups are ancient (thousands of years old) and do not necessarily indicate recent Jewish or Middle Eastern ancestry on the maternal side. R0 has been found at low frequencies across Europe for millennia.
 
 The paternal haplogroup R-Z93 is a subclade of R1a that is found in some Ashkenazi Jewish populations, particularly associated with the Levite lineage and other Jewish groups with Central Asian connections. This is consistent with the Frank line's Ashkenazi heritage, though R-Z93 is not exclusively Jewish and is also found in non-Jewish European and Central Asian populations.
+
+**Refined 2026-10-18 from the raw genotype file.** The December 2024 genotype file was compared position-by-position against the rCRS reference (NC_012920.1). Both R0-defining absences are confirmed genotyped: 73A and 11719G (R0 is defined against R by the *absence* of the A73G and G11719A transitions). None of the R0a-defining variants are present (64, 2442, 3847, 13188, 16126, 16362 all rCRS-like), and the lineage carries 2706G — which excludes haplogroup H (defined by the lack of A2706G) — while lacking 4580A (which excludes V). Observed MT variants vs rCRS: 263G, 1438G, 2706G, 8860G, 13966A; chip indel calls were excluded as low-confidence. Markers 14766, 7028 and 15326 are not on the v5 chip, so **HV excluding H and V** is the finest resolution this file supports — a genuine narrowing of 23andMe's "R0" label, and it does not disturb the anomaly: HV(xH,V) is no less unexpected on the Appalachian maternal line than R0 was.
+
+**Corroborated 2026-10-18 from the raw genotype file.** Two verified R1a1a-defining SNPs are derived in the raw data: rs2020857 (M198, C→T) = T and rs17222146 (M512, C→T) = T. M17 (rs3908) is not on the v5 chip, and the Z93 SNP itself was not resolved to an rsID in this pass — so the raw data independently confirms R1a1a while the terminal Z93 assignment remains 23andMe's report-level call, computed from this same file.
 
 Limits: the interpretation of both haplogroups against Dan's recent ancestry is speculative. The maternal R0 is unusual for a supposedly purely Appalachian Protestant line and warrants further investigation — it may indicate a distant non-European ancestor on the maternal line, or it may simply reflect the deep-time distribution of R0 across Europe. The paternal R-Z93's presence in the Frank line could be investigated further with more detailed Y-DNA testing.
 
@@ -262,6 +273,23 @@ The traits section covers 37+ genetically-influenced characteristics. Results ar
 | Wake-Up Time | Likely to wake up around 8:34 am |
 
 The "likely ring finger longer" result (lower 2D:4D digit ratio) is associated in some studies with higher prenatal testosterone exposure. The "likely prefers salty" and "likely to consume less caffeine" results align with the wellness section. The 8:34 am wake-up time prediction is notably specific and likely reflects chronotype genetics.
+
+### Raw-data spot-checks [2026-10-18]
+
+Seven well-established trait markers were read directly from the December 2024 genotype file; all reproduce 23andMe's report-level calls above, which validates the file as the true underlying data:
+
+| SNP | Gene | Call | Reads as |
+|---|---|---|---|
+| rs4988235 | MCM6/LCT | AA | Lactase persistence (dominant) — matches "Likely tolerant" |
+| rs671 | ALDH2 | GG | Normal ALDH2 activity — matches "Unlikely to flush" |
+| rs12913832 | HERC2 | AG | Heterozygous; intermediate — consistent with the hazel-leaning eye-color call |
+| rs762551 | CYP1A2 | AC | Intermediate caffeine metabolism (AA = fast) |
+| rs1815739 | ACTN3 | CT | RX — one null allele, intermediate |
+| rs16891982 | SLC45A2 | GG | Light-skin-associated allele |
+| rs1426654 | SLC24A5 | AA | Light-skin-associated allele |
+
+Two further markers (rs17822931/ABCC11 earwax, rs72921001/OR2J3 cilantro) returned CC calls whose allele coding did not match the literature's G/A coding — recorded raw in the kb datum with no interpretation offered. No health interpretation is derived from the raw genotypes beyond reproducing 23andMe's own calls, per the file's research-use restriction.
+
 ## Cross-References and Interpretation
 
 The genomic data on this page functions as the biological half of the [[wiki/mind/synthesis/ancestral-dialectic]]'s interpretive frame. The dialectic proposes two incompatible inherited "operating systems" — Ashkenazi hypervigilance and Appalachian numbness — and the DNA data corroborates the two source-lines independently: 21.4% Ashkenazi Jewish against 78.3% Northwestern European, with the sub-regional breakdown mapping onto the documentary record's Russian/Austrian immigration and Pennsylvania settler heritage.

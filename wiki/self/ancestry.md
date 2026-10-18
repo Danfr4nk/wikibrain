@@ -4,7 +4,7 @@ page_type: report
 knowledge: mixed
 status: active
 date_created: 2026-06-23
-date_modified: 2026-08-26
+date_modified: 2026-10-18
 sources:
   - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/ancestry/dna-reports/Ancestry Composition - 23andMe.pdf — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -267,6 +267,8 @@ The 0.2% Sub-Saharan African trace has no documentary counterpart and may repres
 
 R0 is the ancestral haplogroup of H and V, the most common mitochondrial haplogroups in Europe. R0 itself is relatively rare in Northern Europe and is found at higher frequencies in the Arabian Peninsula, the Middle East, and among some Ashkenazi Jewish populations.
 
+**Refined 2026-10-18 from the raw genotype file:** position-by-position comparison against rCRS corroborates R0 (73A and 11719G both confirmed) and narrows it to **HV excluding H and V** — no R0a variants, 2706G present (excludes H), no 4580A (excludes V). Markers 14766/7028/15326 aren't on the v5 chip, so this is the finest resolution the file supports. The anomaly stands: HV(xH,V) is no less unexpected on the Appalachian maternal line. Full workings in [[wiki/self/lineage/23andme-genomics]].
+
 On the maternal line (Suzanne → Diane → Fran → Ida Ellen Conwell → Susan A. Zearly → Amelia), this is unexpected for a supposedly purely Appalachian Protestant lineage. Possible explanations include:
 
 1. **Distant Jewish or Middle Eastern ancestor** on the maternal line, possibly entering through the Van Voorhis Dutch colonial line or the Conwell/Thomas Appalachian line.
@@ -276,6 +278,8 @@ On the maternal line (Suzanne → Diane → Fran → Ida Ellen Conwell → Susan
 ### Paternal Haplogroup: R-Z93
 
 R-Z93 is a subclade of R1a, found in Central/South Asia and some Ashkenazi Jewish populations (particularly the Levite lineage). This is consistent with the Frank line's Ashkenazi heritage, though R-Z93 is not the most common Ashkenazi Y-DNA haplogroup (which would be J1, J2, E1b1b, or R1b).
+
+**Corroborated 2026-10-18 from the raw genotype file:** derived alleles at rs2020857 (M198) and rs17222146 (M512) independently confirm R1a1a; the terminal Z93 call remains 23andMe's report-level assignment. Full workings in [[wiki/self/lineage/23andme-genomics]].
 
 Possible explanations:
 
