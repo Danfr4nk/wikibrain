@@ -1,12 +1,13 @@
 ---
 domain: mind
 page_type: synthesis
+layer: interpreted/synthesis
 title: "The Vacancy Rule"
 aliases: ["the slot system", "sourced-before-vacancy", "the primary slot", "the occupancy ledger"]
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-10-04
+date_modified: 2026-10-17
 sources:
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/message-csv/annie_all_time_logs.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -102,9 +103,13 @@ connections:
     type: evidenced-by
     claim: "Bond vs Structure prices the mechanism under this ceiling: the slot stayed empty while every material channel was starved, and contact resumed through the cheapest one left."
     claim: "The transfer comparative draws its verdict — the 2015 transfer completed, the 2026 transfer failed — on this page's ledger of vacancy durations and sourcing evidence."
+changelog:
+  - "2026-10-17: Declared framework-v2 layer (interpreted/synthesis)."
 ---
 
 # The Vacancy Rule
+
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 The primary slot cannot stay empty. Across the documented adult record
 — November 2009 to September 2026, roughly seventeen years — no exit from

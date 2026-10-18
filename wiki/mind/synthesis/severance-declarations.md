@@ -1,13 +1,14 @@
 ---
 domain: mind
 page_type: synthesis
+layer: interpreted/synthesis
 title: "The Severance Declaration as Performance"
 tier: major
 aliases: ["the declaration is the performance", "129 declarations", "severance as speech act", "the ritual of leaving"]
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-10-04
+date_modified: 2026-10-17
 sources:
   - kb/data/0081-explicit-commitment-architecture.md
   - raw/sammy/20261004-1814/operator-testimony-2026-10-04.md
@@ -78,10 +79,25 @@ connections:
   - page: wiki/mind/synthesis/annie-decade-synthesis
     type: parallels
     claim: "The Annie Decade supplies the tenure frame that makes these 129 declarations a measured exit idiom rather than isolated goodbyes."
+  - page: wiki/mind/synthesis/vacancy-rule
+    type: cites
+    claim: "That entry formalizes the mechanism behind this page's 100% resumption rate — the slot system and the sourcing invariant — and narrows this page's longest-vacancy line: the successor bid was live from hour twenty of the fifty-two-day June 2026 vacancy, not after it."
+  - page: wiki/mind/synthesis/severance-2026-synthesis
+    type: cites
+    claim: "That page builds its designed-experiment framing of the 2026 severance year on this entry's ledger: the speech acts are the system's input base rate, the voided horizon its outcome. The declaration's non-enactment is what made 2026 a testable system rather than a string of events."
+  - page: wiki/mind/synthesis/severance-declaration-audit
+    type: cites
+    claim: "That entry re-derives this page's numbers under strict adjudication: it reproduces the terminal-phase regex count of 44 exactly, finds the published catalog holds 43 bullets (one Ally-thread hit silently dropped), and fixes the strict-adjudication count at 41, not 44 — this page's medians and rates surviving within rounding."
+  - page: wiki/mind/synthesis/severance-language-atlas
+    type: cites
+    claim: "That entry supplies the corpus-wide measurement this page was scoped to exclude: 388 declaration-language hits across 25 threads, adjudicated per handle — the vocabulary is system-wide (singletons on dealer, caddy, and group threads) while the performance-without-enactment signature concentrates in the Annie dyad (104 outbound episodes, 100% resumption), replicated at low volume in the Kristin dyad."
 changelog:
   - 2026-10-03: Restructured to canonical template v1
+  - "2026-10-17: Declared framework-v2 layer (interpreted/synthesis); added 4 reciprocal cluster-hub edges (vacancy-rule, severance-2026-synthesis, severance-declaration-audit, severance-language-atlas)."
 ---
 # The Severance Declaration as Performance
+
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 On 1 December 2015, in the hours after Alexis Armel was evicted, Dan sent Annie Ulmer the message that opened the bond as this record knows it: *"Annie Ulmer from now on its just you and me"* — *"Because she's gone"* — *"We made it lol"* (dat:annie-new-life-exchange-2015-12-01). Annie answered, *"This is wonderful you give me the best feeling,"* and the household was theirs that afternoon. The founding message is issued in her full name, as a stated rule over the bond, and it is the positive pole of everything that follows on the channel.
 Over the eleven years after that message, Dan declared the bond severed repeatedly. The recount derived from the merged Annie corpus (95,067 rows, 2015-11-28 to 2026-05-28) counts 258 declaration-language messages collapsing to 129 episodes on a 24-hour rule (dat:1292). The vocabulary is consistent across the decade: farewells (*"Goodbye"*, *"Goodbye forever"*), channel operations in the present continuous (*"I'm blocking you"*, *"lose my number"*, *"never contact me again"*), and verdicts (*"I'm done"*, *"we're done"*, *"it's over"*), usually arriving in outbound bursts late at night, mid-fight. An independent check on the terminal phase — the filed August–September 2026 export, 5,905 rows from 11 August to 7 September 2026 — returns 44 more declaration messages in that window alone.
 Annie's side of the channel looks different. In 41,073 of her messages searched for the same format, the count of severance signals is zero (dat:0081). Her closest approach in eleven years is a single word on 1 June 2026: six seconds after Dan's *"Blocking you"* (00:09:31), she replied *"Understood"* (00:10:06), and his *"Goodbye forever… sic semper lupanis"* followed at 00:27:49. That June exchange is the one instance in the series where a toggle followed the words, holding fifty-two days until 23 July 2026. This page follows the declaration through the record in order: the founding rule, the anatomy of the utterances, the witness channel on the Ally thread, the June and August 2026 sequences, and the catalog of the 44 terminal-phase instances.

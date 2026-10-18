@@ -1,12 +1,13 @@
 ---
 domain: mind
 page_type: synthesis
+layer: interpreted/synthesis
 title: "The Severance-Language Atlas: Declaration Grammar Across 503 Handles"
 aliases: ["severance-language atlas", "declaration grammar", "the atlas", "per-handle declaration counts"]
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-10-04
+date_modified: 2026-10-17
 sources:
   - src:wikitest-corpus-messages-2026-09-08 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - kb/data/1292-block-unblock-loop-severance-recount-129-128.md
@@ -81,9 +82,13 @@ connections:
     type: parallels
     claim: "The Transfer Comparative runs that grammar as a controlled comparison: the same transfer template in 2015 and 2026, completed once and failed once."
   - { target: "[[wiki/mind/synthesis/witness-channel-declarations]]", type: contextualizes, claim: "The atlas's Ally-channel 'blocked her' rows are the language evidence the witness-channel entry's claim-by-claim anatomy is built from: declarations about a toggle that was never thrown." }
+changelog:
+  - "2026-10-17: Declared framework-v2 layer (interpreted/synthesis)."
 ---
 
 # The Severance-Language Atlas
+
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Dan's severance declarations are famous inside this wiki — 129 episodes, 36 seconds,
 100% resumption — but every measurement to date has been scoped to one dyad. This

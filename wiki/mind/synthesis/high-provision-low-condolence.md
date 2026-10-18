@@ -1,12 +1,13 @@
 ---
 domain: mind
 page_type: synthesis
+layer: interpreted/synthesis
 title: "High-Provision, Low-Condolence"
 tier: major
 status: active
 knowledge: earned
 date_created: 2026-09-10
-date_modified: 2026-10-05
+date_modified: 2026-10-17
 synthesizes:
   - wiki/mind/profile/big-five-psychometrics
   - wiki/mind/synthesis/estate-money-spine
@@ -40,11 +41,20 @@ connections:
     type: evidenced-by
     claim: "High-provision-low-condolence's 1.79-2.49x instrumental generosity against 0.45x sympathy is evidenced by the Libby era's 137 messages offering food, groceries, money, medicine, and help while day-asking almost never appears in writing."
     claim: "The failure-modes page bounds this rule: it catalogues the transfers where the expected provision move fails, each visible only against this page's base rate of 1.79–2.49x instrumental generosity against 0.45x sympathy."
+  - page: wiki/mind/synthesis/severance-2026-synthesis
+    type: cites
+    claim: "That page's designed-experiment framing gave this entry's prediction its live 2026 test window: the 120-day severance horizon to December 19, 2026 was voided — there was no severance to measure — so the prediction survives while its experiment does not."
+  - page: wiki/mind/synthesis/severance-declarations
+    type: cites
+    claim: "That page voided this rule's 120-day severance-horizon live window to December 19, 2026 — no severance to measure (dat:0090) — and took the void as its exhibit A for what the declaration costs observers: sixteen days of wiki analysis built on a non-event."
 changelog:
   - "2026-10-05: Restructured to canonical template v1"
+  - "2026-10-17: Declared framework-v2 layer (interpreted/synthesis); added 2 reciprocal cluster-hub edges (severance-2026-synthesis, severance-declarations)."
 ---
 
 # High-Provision, Low-Condolence
+
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 The corpus-audited form of his affection is instrumental generosity at 1.79–2.49x baseline against affective sympathy at 0.45x — in the page's own words, "He is not low-warmth. He is high-provision and low-condolence." The money trail instantiates it across every major bond: care arrives as something countable.
 

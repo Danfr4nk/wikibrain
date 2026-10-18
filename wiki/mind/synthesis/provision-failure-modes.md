@@ -1,13 +1,14 @@
 ---
 domain: mind
 page_type: synthesis
+layer: interpreted/synthesis
 title: "Provision Failure Modes"
 aliases: ["when provision misfires", "absence weaponized evidence decayed dispute-suspended"]
 tier: major
 status: active
 knowledge: earned
 date_created: 2026-10-03
-date_modified: 2026-10-04
+date_modified: 2026-10-17
 sources:
   - kb/data/0081-explicit-commitment-architecture.md
   - kb/data/0051-estate-advances-both-pages-were-right.md
@@ -55,9 +56,12 @@ synthesizes:
   - wiki/people/john-paci
 changelog:
   - 2026-10-03: Created to canonical template v1
+  - "2026-10-17: Declared framework-v2 layer (interpreted/synthesis)."
 ---
 
 # Provision Failure Modes
+
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Across eleven years, money moves through Dan's attachments in a pattern regular enough to state as a grammar. Transfers arrive where sustained verbal reassurance does not: "do you love me" appears 0 times in 106,629 sent messages against "call me" 170 times (dat:0081), sympathy tokens run at 0.45x baseline while unprompted helping runs at 1.79–2.49x, and the amounts ladder from a $25 introduction purchase to a six-figure decade outflow without the underlying move changing. [[wiki/mind/synthesis/provision-grammar|Provision Grammar]] states that rule across the [[wiki/people/annie-ulmer|Annie]], [[wiki/people/ally-lubin|Ally]], and [[wiki/people/suzanne-frank|Suz]] channels and closes with a short list of ways the register breaks.
 

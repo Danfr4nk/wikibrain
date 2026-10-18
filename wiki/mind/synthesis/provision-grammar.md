@@ -1,12 +1,13 @@
 ---
 domain: mind
 page_type: synthesis
+layer: interpreted/synthesis
 title: "Provision Grammar"
 tier: major
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-10-03
+date_modified: 2026-10-17
 sources:
   - raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv
 synthesizes:
@@ -63,10 +64,16 @@ connections:
   - page: wiki/mind/concepts/conflict-architecture
     type: contrasts
     claim: "The conflict engine is verbal-cognitive only and never touches the provision channel: no declaration in the corpus is accompanied by a provision halt. The fight register and the care register are decoupled — two machines, one person — which bounds the engine's jurisdiction to the verbal channel."
+  - page: wiki/mind/synthesis/provision-failure-modes
+    type: cites
+    claim: "That entry takes this page's closing list — absence weaponized, evidence decayed, dispute-suspended — and gives each mode its own evidence anatomy, failure condition, and falsifier: the grammar states the rule, the failure modes state how each register stops working. The 1.79–2.49x provision base rate is what makes each failure visible."
 changelog:
   - 2026-10-03: Restructured to canonical template v1
+  - "2026-10-17: Declared framework-v2 layer (interpreted/synthesis); added reciprocal cluster-hub edge (provision-failure-modes)."
 ---
 # Provision Grammar
+
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 Money moves through Dan's closest relationships in amounts that differ enormously. On the Annie Ulmer channel, the figures Dan reported from his payment apps on 15 July 2026 are roughly $139,000 sent against $16,000–$20,000 received over the decade — a net outflow of about $119,000–$123,000, held here as operator-reported screenshots, not an audited ledger. On the Ally Lubin channel, the 2019 exchanges are denominated in items: $30 and $50 price negotiations, a $25 payment to Dan Polyak on 12 December 2018 with the memo "For introducing me to Ally Lubin," and a $2,100 total for August–October 2019. On the Suzanne Frank channel, the artifact is an itemized statement Suz sent at 06:34 on 3 October 2018 listing about $14,000 moved Dan→Suz against an estate that had not yet distributed.
 The three channels also talk about money differently while it moves. The Annie channel's transfers run for years without an in-thread audit, and the total surfaces once, in screenshots, years later. The Ally channel prices access per item and audits it in the same argument — *"lady i've sent 2100 and have like 2 pictures and im STILL trying lol"* (22 October 2019). The Suz channel arrives pre-invoiced: the 3 October 2018 statement computes "Sum of transactions on app" before any dispute, and by July 2019 both parties were claiming to be the creditor of the same $14,000.
 Underneath the amounts, the verbal record on these channels is measured. In 106,629 sent messages, "do you love me" appears 0 times and "call me" 170 times ([[wiki/mind/concepts/explicit-verbal-commitment]]); the Big Five psychometrics page measures instrumental generosity at 1.79–2.49× against sympathy tokens at 0.45×. This page reads the transfers channel by channel, rung by rung — from the $25 introduction purchase to the $144,069.31 estate distribution order of 21 August 2020 that sets the scale — and keeps every figure at the status the record gives it.

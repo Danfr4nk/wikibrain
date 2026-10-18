@@ -1,13 +1,14 @@
 ---
 domain: mind
 page_type: synthesis
+layer: interpreted/synthesis
 title: "The 2026 Severance as a System"
 aliases: ["severance-2026 synthesis", "the 2026 severance year", "severance as experiment"]
 tier: major
 status: active
 knowledge: earned
 date_created: 2026-10-03
-date_modified: 2026-10-04
+date_modified: 2026-10-17
 date_range_start: 2026-06-01
 date_range_end: 2026-12-19
 sources:
@@ -81,9 +82,12 @@ synthesizes:
   - wiki/people/annie-ulmer
 changelog:
   - "2026-10-03: Created under canonical template v1; expanded from corpus"
+  - "2026-10-17: Declared framework-v2 layer (interpreted/synthesis)."
 ---
 
 # The 2026 Severance as a System
+
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 In 2026 the eleven-year relationship between Dan and [[wiki/people/annie-ulmer|Annie Ulmer]] produced something it had never produced before: not another goodbye, but a goodbye with a research design attached. The year holds two dated ruptures — a group-chat closure on 1 June and a terminal rupture across 16–19 August — a channel pre-closed in advance, a horizon date set 120 days out, and a scheduled re-check that a future pass could actually run. This page synthesises that year as a system: the base rate the design was built against, the experiment's machinery, the threats to its validity that were named before they fired, and what the record did to the design once the year kept going.
 

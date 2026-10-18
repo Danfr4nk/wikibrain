@@ -1,12 +1,13 @@
 ---
 domain: mind
 page_type: synthesis
+layer: interpreted/synthesis
 title: "The Severance Declaration Audit: 127 vs 129, Reconciled"
 aliases: ["declaration audit", "127 vs 129", "the canonical 129", "exit-declaration recount"]
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-10-04
+date_modified: 2026-10-17
 sources:
   - kb/data/1292-block-unblock-loop-severance-recount-129-128.md
   - kb/data/0081-explicit-commitment-architecture.md
@@ -58,9 +59,13 @@ connections:
     type: parallels
     claim: "The Annie Decade is the tenure frame inside which this audit's 129-declaration count and its stated method sit."
   - { target: "[[wiki/mind/synthesis/witness-channel-declarations]]", type: corroborates, claim: "The filed-export counts are the evidentiary floor beneath the witness-channel anatomy: the declarations this audit counts are the same ones the witness entry sorts into channel claims versus performance." }
+changelog:
+  - "2026-10-17: Declared framework-v2 layer (interpreted/synthesis)."
 ---
 
 # The Severance Declaration Audit: 127 vs 129, Reconciled
+
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 The wiki has carried two counts of Dan's exit declarations for over a year — **127**
 and **129** — and the [[wiki/mind/synthesis/block-unblock-loop]] page settled the pair by calling the 129
