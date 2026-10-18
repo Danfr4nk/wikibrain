@@ -67,5 +67,7 @@ truncated by the frame; truncations marked [...].
   jokes in baby register ("crib death", "swallow the pillow", "casey anthony").
 - The standing Oct-7 lore-war rule ("the roast stays rude, everything in it has to
   be real" — Dan's) was preserved by her refusal, not by his demand.
-- Source images staged at workspace/user/files/ (not filed in public raw/ —
-  pending his decision, same as the 2026-10-18 23andMe zip).
+- Source images filed in public raw/ per his standing policy ("its all public",
+  2026-10-18): raw/2026-10-18-franassistant-baby-talk-punishment/ (both photos,
+  original filenames kept). The 2026-10-18 23andMe zip was filed the same day:
+  raw/2026-10-18-23andme-genotype-v5/genome_Daniel_Frank_v5_Full_20241215181636.zip.
