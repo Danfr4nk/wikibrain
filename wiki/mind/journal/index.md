@@ -5,7 +5,7 @@ title: "Idea Journal"
 aliases: ["idea journal", "the journal"]
 status: active
 date_created: 2026-10-03
-date_modified: 2026-10-17
+date_modified: 2026-10-18
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -606,5 +606,40 @@ cannot show its stages has not been cross-checked.
   match. HYPOTHESIS GRADE, leaning supported, honestly capped —
   the ~3 earlier exception songs are unnamed in held data, so the
   primary discriminator is unrun; 0 restarts.
+
+
+### 2026-10-18
+
+- [[wiki/mind/journal/2026-10-18-the-slot-guard|Entry 1 — The
+  Slot Guard]]: self-referential monitoring-token language (1.85×)
+  is an interface-state report aimed at the loaded bond slot's read
+  of him, firing in stable mid-thread windows (~1.9× the rate at
+  session opens) — the monitor guards the slot, not the transition.
+  PASS — high confidence at stated bounds (own-constructed documented
+  proxy, 2011–2018 sweep slice); 1 restart preserved in Genesis (the
+  transition-firing thesis died on its own discriminator).
+- [[wiki/mind/journal/2026-10-18-the-wrong-addressee|Entry 2 — The
+  Wrong Addressee]]: self-directed exocortex tools are built to specs
+  from his addressed self-designations, and their target behaviors
+  don't exist in the measured record (68.5%-vs-55.1% staccato
+  inversion; the 2026-08-26 lexicon generator at zero corpus hits) —
+  while outward tools aimed at explicit-statement targets fire (Jev's
+  dated 2026-10-03 E1 design reroute). PASS — high confidence, 0
+  restarts; row 40 quarantined at testimony grade per the instrument.
+- [[wiki/mind/journal/2026-10-18-the-zero-initiation-default|Entry 3 —
+  The Zero-Initiation Default]]: in mandate-governed episodes where
+  no explicit statement installs the action, outbound initiation is
+  zero — the only emitted move is a statement-request (check-in
+  rung); his own dated meta-rules explicitly select suspension over
+  improvisation. PASS — high confidence, 0 restarts (one Stage-2
+  formulation killed pre-gate and preserved in Genesis).
+- [[wiki/mind/journal/2026-10-18-the-installed-social-layer|Entry 4 —
+  The Installed Social Layer]]: no sustained contact architecture in
+  the record runs on unstructured appetite — all 16 enumerable
+  recurring structures (charters, rituals, protocols, scheduled
+  sessions, scripted work roles) trace to dated explicit installs;
+  unstructured initiation never beats the 0.73× held null. PASS —
+  high confidence at stated bounds, 0 restarts.
+
 
 
