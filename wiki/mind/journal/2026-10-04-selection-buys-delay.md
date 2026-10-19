@@ -7,8 +7,9 @@ status: active
 knowledge: derived
 importance: medium
 tier: major
+layer: interpreted/journal
 date_created: 2026-10-04
-date_modified: 2026-10-07
+date_modified: 2026-10-19
 sources:
   - wiki/mind/synthesis/the-deferred-audit.md (two-clocks table; the $50/$ drawer comparison; Tom ~18-year lag; Annie ~9/10.5-year lag; menore ~8-year lag; pets exempt; the 2026-08-02 narrowing to "when the first audit fires")
   - wiki/work/bfs-foods.md (drawer dispute narrative; the 2026-08-26 corrected sequence; forensic reconstruction in withdrawal; POS fraud vector; upstream Tom supply failure)
@@ -27,6 +28,7 @@ synthesizes:
   - wiki/mind/synthesis/the-deferred-audit
   - wiki/places/the-unpapered-address
 changelog:
+  - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-04: Entry written (Idea Journal, entry 4 of the day), generated in isolation under the profile-first protocol; one restart, dead thesis 1 preserved in-body."
   - "2026-10-07: Restructured to canonical template v1; expanded to major tier — evidence sections drawn from the BFS, Tom, housing, and institutional-out records; BFS evidence bullet corrected per the drawer page's 2026-08-26 sequence correction (superseded 'refusal' claim kept as a dated Conflicts entry); institutional-out provenance flagged per that page's 2026-09-09 evidence floor."
 tags: [idea-journal, personality-profile, forensic-analysis, trust, audit-timing]
@@ -52,6 +54,7 @@ connections:
 ---
 
 # Selection Buys Delay
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-04, Entry 4.** Generated in isolation under the profile-first protocol; no cross-reading with any other 2026-10-04 entry.
 

@@ -7,8 +7,9 @@ status: active
 knowledge: derived
 importance: medium
 tier: major
+layer: interpreted/journal
 date_created: 2026-10-04
-date_modified: 2026-10-07
+date_modified: 2026-10-19
 sources:
   - kb/data/0081-explicit-commitment-architecture.md
   - kb/data/1292-block-unblock-loop-severance-recount-129-128.md
@@ -51,12 +52,14 @@ connections:
     type: parallels
     claim: "Selection Buys Delay (Entry 4, same day) names audit timing as the deferred variable — provenance sets when the audit fires, with lag measured in years; this entry's third observable (audit latency as the variable that determines when a provision total becomes contestable) is the provision-channel instance of that rule."
 changelog:
+  - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-07: Restructured to canonical template v1; expanded to major tier from cited repo sources (kb/data/0081, kb/data/1292, kb/data/1293; the provision-grammar, channel-cost-pricing, provision-failure-modes, high-provision-low-condolence, and four-financial-inversions synthesis pages; the severance-declarations page; the 2026-10-04 receipt-channel and selection-buys-delay sibling entries); re-engagement rate corrected to 128/129 per the primary recount with the older node carried in Conflicts; 'Confidence & gate verdict' retitled Assessment per pilot convention; Genesis folded into References. No facts deleted."
 ---
 
 <!-- RESTRUCTURED 2026-10-07 — canonical article template v1: story-first lede retained, Conflicts in the record added, Confidence & gate verdict retitled Assessment, Genesis folded into References, See also and References built. No facts deleted; corrections carried in Conflicts. -->
 
 # The Irreversible Channel
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-04, Entry 1.**
 

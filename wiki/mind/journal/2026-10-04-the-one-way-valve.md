@@ -7,8 +7,9 @@ status: active
 knowledge: derived
 importance: medium
 tier: major
+layer: interpreted/journal
 date_created: 2026-10-04
-date_modified: 2026-10-07
+date_modified: 2026-10-19
 sources:
   - kb/data/0580-calibrated-confidence-22x-claim-not-reproducible.md
   - kb/data/0663-calibrated-confidence-rederivation-holds-direction.md
@@ -45,12 +46,14 @@ connections:
     type: parallels
     claim: "The Quantized Graph is this entry's valve at social range: a binary stated-rule actuator taking graded input and producing two-state distances with no middle."
 changelog:
+  - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - 2026-10-07: "Restructured to canonical template v1; expanded to major tier from cited repo sources (dat:0580, dat:0663, dat:0664, dat:0044, dat:0712, dat:0713; the calibrated-confidence, dan's-law, prediction-markets-instrument, and binary-verdict pages); frontmatter source paths corrected to verified repo filenames."
 ---
 
 <!-- RESTRUCTURED 2026-10-07 — canonical article template v1: story-first lede, body sections, Conflicts in the record, Assessment, See also, References. Genesis/method note folded into References. No facts deleted; dead thesis #1 preserved verbatim; corrections carried in Conflicts. -->
 
 # The One-Way Valve
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-04, Entry 2.**
 

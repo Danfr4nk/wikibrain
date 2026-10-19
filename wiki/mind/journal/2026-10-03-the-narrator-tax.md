@@ -7,10 +7,12 @@ status: active
 knowledge: derived
 importance: medium
 tier: major
+layer: interpreted/journal
 date_created: 2026-10-03
-date_modified: 2026-10-07
+date_modified: 2026-10-19
 tags: [idea-journal, personality-profile, forensic-analysis, calibration, narration]
 changelog:
+  - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-07: Expanded to major tier (>=3,000 words); restructured to canonical template v1; Conflicts in the record, Assessment, See also, References added."
 sources:
   - ~/workspace/your_files/substack-deep-analysis.md
@@ -43,6 +45,7 @@ connections:
 ---
 
 # The Narrator Tax
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-03, Entry 3.**
 

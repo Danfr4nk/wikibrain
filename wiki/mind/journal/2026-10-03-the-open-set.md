@@ -7,9 +7,11 @@ status: active
 knowledge: derived
 importance: medium
 tier: major
+layer: interpreted/journal
 date_created: 2026-10-03
-date_modified: 2026-10-07
+date_modified: 2026-10-19
 changelog:
+  - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - date: 2026-10-07
     change: "Expanded to major tier and restructured to canonical template v1: story-first lede, Genesis moved intact into Conflicts in the record, evidence and mechanism sections expanded from repo sources. No facts deleted."
 sources:
@@ -42,9 +44,13 @@ connections:
   - page: wiki/mind/concepts/no-delete-operation
     type: refines
     claim: "No-delete holds that the system has create/suspend/withhold and no delete. This entry adds the domain split: deletion-equivalent closure does occur — in Ti-closed sets, where a unique witness terminates the set. People-shaped domains have no witness, so they suspend."
+  - page: wiki/mind/journal/2026-10-03-the-manufactured-halt
+    type: complements
+    claim: "The Manufactured Halt (Entry 2, same day) locates the exits -- loops end when a resolution condition is manufactured from outside, by operation, enforcement, or verdict -- while this entry locates the loops themselves: where no completion condition exists, output repeats instead of closing."
 ---
 
 # The Open Set
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-03, Entry 1.**
 

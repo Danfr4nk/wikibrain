@@ -7,9 +7,11 @@ status: active
 knowledge: derived
 importance: medium
 tier: major
+layer: interpreted/journal
 date_created: 2026-10-04
-date_modified: 2026-10-07
+date_modified: 2026-10-19
 changelog:
+  - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - 2026-10-07: "Expanded to major tier and restructured to canonical template v1: story-first lede; adversarial/trust-channel and three-pricings evidence sections added from cited repo sources (dat:0090, provision-grammar, selection-buys-delay, one-way-valve, channel-cost-pricing); Genesis moved intact into Conflicts in the record; dat:0081-to-0090 supersession recorded. No facts deleted."
 sources:
   - kb/data/0081-explicit-commitment-architecture.md
@@ -50,9 +52,13 @@ connections:
   - page: wiki/mind/journal/2026-10-03-the-narrator-tax
     type: parallels
     claim: "The narrator tax's routing policy ('trust the corpus over me on years') is the verification-side answer to the same architecture: a dated archive as the countable landing that narration cannot supply on its own."
+  - page: wiki/mind/journal/2026-10-03-the-quantized-graph
+    type: complements
+    claim: "The Quantized Graph (Entry 4, 10-03) is this entry's installation actuator at social range: it decides which ties get installed, binary; this entry prices what installed ties then carry -- graded output volume before the completion token lands."
 ---
 
 # The Receipt Channel — Volume Is Gated by Whether the Channel Can Say Done
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-04, Entry 3.**
 

@@ -7,8 +7,9 @@ status: active
 knowledge: derived
 importance: medium
 tier: major
+layer: interpreted/journal
 date_created: 2026-10-03
-date_modified: 2026-10-07
+date_modified: 2026-10-19
 tags: [idea-journal, personality-profile, forensic-analysis, contact-geometry, social-graph]
 sources:
   - kb/data/0528-contact-gini-inbound-replication-2026-09-09.md
@@ -49,12 +50,14 @@ connections:
     type: contrasts
     claim: "The taste record inverts the contact Gini (0.188 music, 0.166 books, 0.000 art) — the control group that bounds the quantization claim to people."
 changelog:
+  - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - 2026-10-07: "Restructured to canonical template v1; expanded to major tier from cited repo sources (dat:0528, dat:0529, dat:0530, dat:0531, dat:1292, dat:0081; the contact-gini, dormancy-not-exit, one-way-valve, irreversible-channel, and receipt-channel pages); frontmatter source paths verified against repo filenames; Genesis note folded into References."
 ---
 
 <!-- RESTRUCTURED 2026-10-07 — canonical article template v1: story-first lede, body sections, Conflicts in the record, Assessment, See also, References. No facts deleted; dead drafts preserved verbatim in References; corrections carried in Conflicts. -->
 
 # The Quantized Graph
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-03, Entry 4.**
 
