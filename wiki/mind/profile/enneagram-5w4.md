@@ -1,14 +1,16 @@
 ---
 domain: mind
 page_type: profile
+layer: interpreted/profile
 title: "Enneagram — The Contested Typing (5w4 Commissioned vs. 5w6sx Self-Typed)"
 aliases: ["5w4", "5w6sx", "sx/sp", "social-blind", "remote intimacy"]
 status: stable
 importance: high
 tier: major
 date_created: 2026-07-13
-date_modified: 2026-10-06
+date_modified: 2026-10-18
 changelog:
+  - "2026-10-18: Declared framework-v2 layer (interpreted/profile); added reciprocal contradicts edge to big-five-psychometrics (SLOAN fourth-letter dispute)."
   - 2026-10-06: Restructured to canonical template v1 and expanded — wing adjudication extended with the red-team-probe-series and 2026-09-15 head-to-head (dat:1592); instinct-stack evidence folded from the-commissioned-self, the-unbroken-bond, bond-switch-2015, no-platonic-channel, single-channel, attachment-trauma-bond; SLOAN fourth-letter (RLOEI/RLUEI) dispute documented with the big-five cross-instrument conflict; all disputes moved into Conflicts in the record.
 sources:
   - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -54,9 +56,15 @@ connections:
     type: parallels
     claim: "Enneagram 5w4 and deviance mapping are parallel commissioned instruments in the profile cluster: the Enneagram page carries a commissioned 5w4 typing disputed by the only dated self-typing, 5w6sx, in the record."
     claim: "An sx-dominant stack with the social instinct functionally absent predicts that the ordinary, low-intensity peer register most friendships run in is simply not an available setting — closeness has only the fusion mode and the fortress mode."
+  - page: wiki/mind/profile/big-five-psychometrics
+    type: contradicts
+    claim: "The SLOAN fourth-letter dispute — the only dated first-person self-typing in the record gives 5w6sx RLOEI (2024-11-04) against the commissioned 5w4 and RLUEI this cluster is built on — is documented here as a cross-instrument conflict with that page's Big30/SLOAN table; the wing and the fourth letter have never been reconciled."
+
 ---
 
 # Enneagram — The Contested Typing (5w4 Commissioned vs. 5w6sx Self-Typed)
+
+_Layer: interpreted/profile — the measured foundation (L0). On measurement questions the documented exhibits win; disputes go to Conflicts in the record._
 
 Part of the [[wiki/mind/profile/index|personality profile cluster]].
 

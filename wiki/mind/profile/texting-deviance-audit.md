@@ -1,12 +1,15 @@
 ---
 domain: mind
 page_type: report
+layer: interpreted/profile
 knowledge: mixed
 status: active
 title: "Texting Deviance Audit — What Is Actually Abnormal About How Dan Texts"
 aliases: ["texting audit", "brevity baseline", "stacked-essay mode"]
 date_created: 2026-08-23
-date_modified: 2026-08-23
+date_modified: 2026-10-18
+changelog:
+  - "2026-10-18: Declared framework-v2 layer (interpreted/profile). No edge changes."
 importance: high
 date_range_start: 2015-11-12
 date_range_end: 2026-08-13
@@ -33,6 +36,8 @@ connections:
 ---
 
 # Texting Deviance Audit — What Is Actually Abnormal About How Dan Texts
+
+_Layer: interpreted/profile — the measured foundation (L0). On measurement questions the documented exhibits win; disputes go to Conflicts in the record._
 
 Dan does not write long text messages. He writes an ordinary number of ordinary-length
 messages and then, roughly one turn in nine, delivers three or more consecutive

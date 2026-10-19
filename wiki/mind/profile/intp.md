@@ -1,13 +1,14 @@
 ---
 domain: mind
 page_type: profile
+layer: interpreted/profile
 title: "INTP — The Cognitive Function Stack"
 aliases: ["Ti-Ne-Si-Fe", "cognitive functions"]
 status: stable
 importance: high
 tier: major
 date_created: 2026-07-13
-date_modified: 2026-10-06
+date_modified: 2026-10-18
 sources:
   - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -117,10 +118,13 @@ connections:
     type: evidences
     claim: "The dual architecture of the favorites CSV is this stack on leisure: auxiliary Ne keeps three music clusters live in parallel, dominant Ti closes observational sets through unique witnesses, and those opposite operations share a one-creator-per-entry surface that was misread as range."
 changelog:
+  - "2026-10-18: Declared framework-v2 layer (interpreted/profile). No edge changes — the neurodivergence connection is reciprocated."
   - 2026-10-06 — Restructured to canonical template v1
 ---
 
 # INTP — The Cognitive Function Stack
+
+_Layer: interpreted/profile — the measured foundation (L0). On measurement questions the documented exhibits win; disputes go to Conflicts in the record._
 
 Dan types INTP on every pass, and the function measurements are extreme
 enough to matter more than the four-letter label: dominant introverted

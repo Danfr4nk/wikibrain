@@ -1,6 +1,7 @@
 ---
 domain: mind
 page_type: index
+layer: interpreted/index
 title: "Personality Profile — Hub"
 aliases: ["Abyssal Architect", "typology stack", "psychological profile"]
 status: stable
@@ -8,7 +9,7 @@ importance: critical
 tier: major
 template_v1: true
 date_created: 2026-07-13
-date_modified: 2026-10-07
+date_modified: 2026-10-18
 date_range_start: 2013-07-01
 date_range_end: 2026-10-07
 infobox:
@@ -23,6 +24,7 @@ sources:
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - kb/data/1592-personality-instrument-head-to-head-20260915.md (the 2026-09-15 head-to-head scoring session, primary)
 changelog:
+  - "2026-10-18: Declared framework-v2 layer (interpreted/index); added contains edges to neurodivergence and socionics-and-attitudinal (dossier-remainder rows)."
   - 2026-10-07 — Restructured to canonical template v1; expanded to major tier from the cluster's held measurements, the weighted-profile-instrument v1, and the 2026-09-15 head-to-head; disputes moved into Conflicts in the record per template ordering.
 related:
   - wiki/self/context-core
@@ -53,11 +55,20 @@ connections:
   - page: wiki/mind/synthesis/the-commissioned-self
     type: evidences
     claim: "That page's thesis — the entire psychological layer is a self-commissioned reading with no independent observer, seventeen typology-vocabulary appearances in 106,629 messages — is what this hub's two-layer structure is built to keep honest."
+  - page: wiki/mind/profile/neurodivergence
+    type: contains
+    claim: "The dossier remainder: the autism self-identification is carried here as a claim, not an instrument result — no clinical record anywhere, three convergent AI-secondary documents restating it — and the discriminating test against the INTP read (sensory or childhood-developmental evidence) is unrun on both pages."
+  - page: wiki/mind/profile/socionics-and-attitudinal
+    type: contains
+    claim: "The dossier remainder: ILI-Ni held as testimony with an open MBTI-LII mismatch, Attitudinal Psyche quarantined as instrument-defective, and the 2026-09-15 head-to-head ranking both at the bottom of the nine-instrument table (Socionics 6.5/10, Attitudinal Psyche + Chaotic Neutral 5/10)."
+
 ---
 
 <!-- Restructured to canonical template v1, 2026-10-07, engine expansion pass. No facts deleted; lede rewritten, disputes moved low. -->
 
 # Personality Profile — Hub
+
+_Layer: interpreted/index — the interpreted person. This hub organizes the profile cluster's measured instruments; the documented person lives in [[wiki/self/index|self/]], and this hub cites those exhibits rather than restating them._
 
 This cluster holds every typology instrument the corpus applies to Dan —
 and, since the 2026-09-13 rebuild, it holds them in **two layers**,

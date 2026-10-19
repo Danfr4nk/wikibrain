@@ -1,13 +1,14 @@
 ---
 domain: mind
 page_type: profile
+layer: interpreted/profile
 title: "Big Five / Big30 Psychometrics & PD Vector"
 aliases: ["RLUEI", "Big30", "psychometrics", "personality disorder scores"]
 status: stable
 importance: high
 tier: major
 date_created: 2026-07-13
-date_modified: 2026-10-07
+date_modified: 2026-10-18
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -20,6 +21,7 @@ related:
   - wiki/self/context-core
 tags: [personality-profile, forensic-analysis]
 changelog:
+  - "2026-10-18: Declared framework-v2 layer (interpreted/profile); relocated the SLOAN fourth-letter claim from the linguistic-profile edge to the enneagram-5w4 edge it belongs to; added reciprocal evidences edge to socionics-and-attitudinal (2026-09-15 head-to-head table)."
   - "2026-10-07: Expanded to major tier and restructured to canonical article template v1; the Impulsiveness-96 / acquisition-drive contradiction moved to Conflicts in the record per template ordering; new evidence sections on audit method, the Ti-confidence correlate's correction history, and the commissioned-layer provenance."
 connections:
   - page: wiki/mind/profile/index
@@ -66,13 +68,19 @@ connections:
     claim: "The probe series is Trust-9 suspicion-of-motive running on the model as subject: nine dated episodes of motive-auditing the one interlocutor with zero relational cost, from 2026-08-14 to 2026-09-13."
   - page: wiki/mind/profile/enneagram-5w4
     type: parallels
+    claim: "The SLOAN code this table collapses to (RLUEI) is contested by the only dated first-person self-typing in the record (INTP 5w6sx RLOEI, 2024-11-04) — the fourth letter differs too (Organized vs Unstructured)."
   - page: wiki/mind/profile/linguistic-profile
     type: parallels
     claim: "The Linguistic Profile is this page's sibling instrument in the profile cluster: corpus-measured voice where this page audits a testimony battery against corpus predictions."
-    claim: "The SLOAN code this table collapses to (RLUEI) is contested by the only dated first-person self-typing in the record (INTP 5w6sx RLOEI, 2024-11-04) — the fourth letter differs too (Organized vs Unstructured)."
+  - page: wiki/mind/profile/socionics-and-attitudinal
+    type: evidences
+    claim: "The 2026-09-15 head-to-head table documented here is the source of that page's bottom-table standing — Socionics ILI-Ni 6.5/10, Attitudinal Psyche + Chaotic Neutral 5/10, against the Big30's 8.5/10 on provenance × corpus-corroboration × coverage."
+
 ---
 
 # Big Five / Big30 Psychometrics & PD Vector
+
+_Layer: interpreted/profile — the measured foundation (L0). On measurement questions the documented exhibits win; disputes go to Conflicts in the record._
 
 Part of the [[wiki/mind/profile/index|personality profile cluster]].
 

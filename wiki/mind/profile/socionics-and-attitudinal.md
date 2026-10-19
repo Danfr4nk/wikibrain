@@ -1,11 +1,14 @@
 ---
 domain: mind
 page_type: profile
+layer: interpreted/profile
 title: "Socionics ILI-Ni, Attitudinal Psyche & Alignment"
 aliases: ["ILI", "Balzac", "the Critic", "FLEV", "VLEF", "Chaotic Neutral"]
 status: stable
 date_created: 2026-07-13
-date_modified: 2026-09-21
+date_modified: 2026-10-18
+changelog:
+  - "2026-10-18: Declared framework-v2 layer (interpreted/profile). No edge changes — the index and big-five-psychometrics connections are now reciprocated."
 sources:
   - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -57,6 +60,8 @@ connections:
 ---
 
 # Socionics ILI-Ni, Attitudinal Psyche & Alignment
+
+_Layer: interpreted/profile — the measured foundation (L0). On measurement questions the documented exhibits win; disputes go to Conflicts in the record._
 
 Three secondary systems round out the profile, and each captures something
 the MBTI and Enneagram miss: Socionics explains the *fatalism*, Attitudinal

@@ -1,13 +1,15 @@
 ---
 domain: mind
 page_type: profile
+layer: interpreted/profile
 title: "Deviance Mapping — The Statistical Outlier Audit"
 aliases: ["deviance audit", "social deviances"]
 status: stable
 tier: major
 date_created: 2026-07-13
-date_modified: 2026-10-07
+date_modified: 2026-10-18
 changelog:
+  - "2026-10-18: Declared framework-v2 layer (interpreted/profile). No edge changes — all four profile-cluster connections reciprocated."
   - "2026-10-07: Expanded to major tier and restructured to canonical template v1 (story-first lede, disputes moved to Conflicts in the record); new sections on the instrument stack position, the 2026-09-15 head-to-head, and the outlier-by-outlier re-verification trail."
 sources:
   - raw/self/sage/2026-08-22_005829_what-would-make-dan-happy.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -76,6 +78,8 @@ infobox:
 ---
 
 # Deviance Mapping — The Statistical Outlier Audit
+
+_Layer: interpreted/profile — the measured foundation (L0). On measurement questions the documented exhibits win; disputes go to Conflicts in the record._
 
 Part of the [[wiki/mind/profile/index|personality profile cluster]].
 

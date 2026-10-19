@@ -1,11 +1,12 @@
 ---
 domain: mind
 page_type: profile
+layer: interpreted/profile
 title: "Neurodivergence — Autism as Self-Identification"
 aliases: ["autism", "autistic", "neurodivergent"]
 status: active
 date_created: 2026-08-26
-date_modified: 2026-10-06
+date_modified: 2026-10-18
 tier: major
 sources:
   - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -29,6 +30,7 @@ sources:
 tags: [personality-profile, mental-health]
 knowledge: mixed
 changelog:
+  - "2026-10-18: Declared framework-v2 layer (interpreted/profile). No edge changes — the index, intp, and deviance-mapping connections are all reciprocated."
   - date: 2026-10-06
     change: "Expanded to major tier (≥3,000 words) and restructured to canonical article template v1: story-first lede; Conflicts in the record placed low; the page's struck-through inline corrections moved there as dated entries. Sourcing constraint restated precisely: self-identification only — three convergent AI-secondary documents plus dated self-references, zero clinical or diagnostic record. tier: major."
 connections:
@@ -59,6 +61,8 @@ connections:
 ---
 
 # Neurodivergence — Autism as Self-Identification
+
+_Layer: interpreted/profile — the measured foundation (L0). On measurement questions the documented exhibits win; disputes go to Conflicts in the record._
 
 Dan identifies as autistic. The label sits in the one-line identity summary
 that [[wiki/self/context-core]] carries in the same breath as his date of
