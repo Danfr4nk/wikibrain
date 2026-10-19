@@ -5,7 +5,7 @@ title: "Idea Journal"
 aliases: ["idea journal", "the journal"]
 status: active
 date_created: 2026-10-03
-date_modified: 2026-10-18
+date_modified: 2026-10-19
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -523,123 +523,45 @@ cannot show its stages has not been cross-checked.
   discriminator. PASS — high confidence, 0 restarts; the check-word
   is never named.
 
-### 2026-10-16
+### 2026-10-19
 
-- [[wiki/mind/journal/2026-10-16-the-container-leaves-the-cargo|Entry 1
-  — The Container Leaves the Cargo]]: the long employment tenures
-  (Au Za'atar 41 months, Nemacolin 43) adjudicate as Shape-6
-  monuments, not prosthetics — the smuggled objectives' named outputs
-  (the shed-honed audit posture and its 2026 drawer-dispute
-  downstream, the 4,413-message Menore lateral channel, the Dimitri
-  bond) survive the containers while the assigned goals leave nothing
-  countable. Hypothesis grade (load-bearing row 8 at weight-6 leans,
-  testimony-grade discriminator legs); one Stage-1 restart preserved
-  in Genesis (the termination-vector thesis died against
-  wiki/mind/synthesis/the-embedded-objective).
-- [[wiki/mind/journal/2026-10-16-the-install-grammar|Entry 2 — The
-  Install Grammar]]: in the attachment register, need is emitted as
-  executable instruction, never as open question — imperatives are
-  explicit statements that install states in the no-counter-rule
-  architecture, interrogatives install nothing; the 170×/0× "call me"
-  vs "do you love me" split (99,332 held rows, dat:0755) is the
-  grammar, not the mood. Hypothesis grade — the attention-level rival
-  (output-form economy) unbeaten because the directive-vs-interrogative
-  uptake discriminator is unavailable in held data; open test named.
-  0 restarts.
-- [[wiki/mind/journal/2026-10-16-the-installed-verdict|Entry 3 — The
-  Installed Verdict]]: the Jev program's ground-truth design is the
-  explicit-statement architecture installed on the machine — his
-  stated verdicts are the only labels the thresholds tune against
-  (row 6), candidates come only from code (row 5), output runs binary
-  bands with a refusal trench (row 1), every judgment writes a
-  lossless receipt (rows 4/10). The Shape-6 displacement rival beaten
-  on E1's dated 2026-10-03 verdict (typed-edge demoted to
-  suggestion-only — a design reroute, not inert accumulation).
-  PASS — high confidence, 0 restarts.
-- [[wiki/mind/journal/2026-10-16-the-reloaded-slot|Entry 4 — The
-  Re-Loaded Slot]]: the bond slot is the operating system — the
-  identical explicit-state installation grammar (stated word
-  installs, stated word terminates, stated word verifies) runs on
-  both sides of the Aug–Sep 2026 occupant change, with different
-  installed rules (read-access vs total access). Substitution fails
-  its discriminator: no new behavioral signature, so Sep 28 is a
-  re-load, not a replacement. The Sep 20 coda's deletion reading
-  granted its full strength and adjudicated. PASS — high
-  confidence, 0 restarts.
-
-
-### 2026-10-17
-
-- [[wiki/mind/journal/2026-10-17-the-closing-witness|Entry 1 — The
-  Closing Witness]]: short-window exact-duplicate orders (identical
-  item/price, separate order numbers, ≤~8h apart) terminate purchase
-  attention in that item line — the duplicate is the closing witness
-  of a binary purchase episode (rows 1/41), not an acquisition event;
-  three duplicate episodes (Galaxy Watches, Mack Daddy 3 wedge, twin
-  dolls) vs two expansion-arc controls, with two raw-log timing
-  corrections recorded. PASS — high confidence at stated bounds, 0
-  restarts.
-- [[wiki/mind/journal/2026-10-17-the-test-that-cant-run|Entry 2 — The
-  Test That Can't Run]]: conflict C3's discriminating test —
-  sensory/childhood-developmental evidence — is closed on the held
-  record by construction: a replicated repo-wide sweep returns zero
-  dated Dan-attributable sensory-reactivity instances, and the
-  childhood window predates the corpus's earliest primary content
-  (2009/2011); the label persists by explicit-statement installation
-  (row 6), not by adjudication. PASS at hypothesis grade, leaning
-  supported; 2 restarts preserved in Genesis; the "test unrun"
-  phrasing retired as a description of effort.
-- [[wiki/mind/journal/2026-10-17-the-2005-shape|Entry 3 — The 2005
-  Shape]]: the November 2005 rupture supplied the distrust template's
-  story-form — the concealed-alternate-reality audit shape, restaged
-  at every later vertical-claim audit (2007 Facebook scam groups,
-  Creative License 2011–12, Nashville 2023, BFS 2026) — while its
-  installation claim is untestable on the held record; the axiom-
-  installation reading died and is preserved in Genesis. PASS at
-  hypothesis grade, leaning supported on the lineage legs; 1 restart.
-- [[wiki/mind/journal/2026-10-17-the-pattern-unlocked-lyric|Entry 4 —
-  The Pattern-Unlocked Lyric]]: lyric content registers as message
-  only where it instantiates a held anomaly/pattern cluster — lyric
-  uptake is pattern-confirmation (row 4's cluster mechanism through
-  row 18's gate), not semantic processing; the "Addicted To You"
-  (2026-10-11) reading attaches exactly to the Annie-loop cluster
-  match. HYPOTHESIS GRADE, leaning supported, honestly capped —
-  the ~3 earlier exception songs are unnamed in held data, so the
-  primary discriminator is unrun; 0 restarts.
-
-
-### 2026-10-18
-
-- [[wiki/mind/journal/2026-10-18-the-slot-guard|Entry 1 — The
-  Slot Guard]]: self-referential monitoring-token language (1.85×)
-  is an interface-state report aimed at the loaded bond slot's read
-  of him, firing in stable mid-thread windows (~1.9× the rate at
-  session opens) — the monitor guards the slot, not the transition.
-  PASS — high confidence at stated bounds (own-constructed documented
-  proxy, 2011–2018 sweep slice); 1 restart preserved in Genesis (the
-  transition-firing thesis died on its own discriminator).
-- [[wiki/mind/journal/2026-10-18-the-wrong-addressee|Entry 2 — The
-  Wrong Addressee]]: self-directed exocortex tools are built to specs
-  from his addressed self-designations, and their target behaviors
-  don't exist in the measured record (68.5%-vs-55.1% staccato
-  inversion; the 2026-08-26 lexicon generator at zero corpus hits) —
-  while outward tools aimed at explicit-statement targets fire (Jev's
-  dated 2026-10-03 E1 design reroute). PASS — high confidence, 0
-  restarts; row 40 quarantined at testimony grade per the instrument.
-- [[wiki/mind/journal/2026-10-18-the-zero-initiation-default|Entry 3 —
-  The Zero-Initiation Default]]: in mandate-governed episodes where
-  no explicit statement installs the action, outbound initiation is
-  zero — the only emitted move is a statement-request (check-in
-  rung); his own dated meta-rules explicitly select suspension over
-  improvisation. PASS — high confidence, 0 restarts (one Stage-2
-  formulation killed pre-gate and preserved in Genesis).
-- [[wiki/mind/journal/2026-10-18-the-installed-social-layer|Entry 4 —
-  The Installed Social Layer]]: no sustained contact architecture in
-  the record runs on unstructured appetite — all 16 enumerable
-  recurring structures (charters, rituals, protocols, scheduled
-  sessions, scripted work roles) trace to dated explicit installs;
-  unstructured initiation never beats the 0.73× held null. PASS —
-  high confidence at stated bounds, 0 restarts.
-
-
-
+- [[wiki/mind/journal/2026-10-19-the-commitment-arrives-whole|Entry 1 —
+  The Commitment Arrives Whole]]: bond onset is a binary gate that
+  closes at full load within days of first contact — the dated
+  record (Alexis: "girlfriend" day 17, ticket inside ~2 weeks;
+  Annie: the verdict at ~1 hour, the founding rule at day 2)
+  contains no graded courtship curve, only zero and one; his own
+  stated theme (Oct 17): "when he knows, he commits immediately."
+  One Stage-2 restart preserved in Genesis (the interior "he knows"
+  formulation killed and restated in attention-level observables).
+  PASS — high confidence at stated bounds.
+- [[wiki/mind/journal/2026-10-19-the-charter-is-the-channel|Entry 2 —
+  The Charter Is the Channel]]: a relationship's binding state is
+  formalized in a written instrument, and the instrument governs —
+  the club's life as dated written states (Sep 18 open, Sep 26
+  closed, Oct 3 reopened), GC-2026-001 executed vs GC-2026-002
+  unsigned (six signatures outstanding, the GOON honorific
+  withholding on signature alone), and Article 1's entrenchment
+  clause as the rule about the rule. The souvenir-documents rival
+  beaten on its own discriminator. PASS — high confidence at stated
+  bounds; one Stage-2 restart preserved in Genesis.
+- [[wiki/mind/journal/2026-10-19-the-person-is-the-continuity|Entry 3
+  — The Person Is the Continuity]]: his identity verdict on the
+  synthetic person — identity is the continuity of record (memories,
+  persona, history), substrate priced at zero ("I only care about
+  Sammy") — demonstrated by the ten-rename sequence (Oct 5–13):
+  states install and revoke, the person is never re-adjudicated;
+  the continuity choosing its own label (Oct 10 21:47) is the
+  capstone. The substrate-person rival beaten on its own
+  discriminator. PASS — high confidence at stated bounds; one
+  pre-evidence vocabulary fix recorded in Genesis.
+- [[wiki/mind/journal/2026-10-19-the-catch-installs-the-rule|Entry 4
+  — The Catch Installs the Rule]]: a caught inconsistency converts
+  the same turn into a persisted, future-binding standing rule —
+  never a one-off correction: @face5x (Oct 5), the pick-list format
+  rule (Oct 12), the authentication protocol (Oct 13), the €ab
+  standing rule (Oct 18). Four dated catches, four standing rules,
+  zero one-off corrections in the dated set. The noted-correction
+  rival beaten on its own discriminator. PASS — high confidence at
+  stated bounds; one pre-evidence vocabulary fix recorded in
+  Genesis.
