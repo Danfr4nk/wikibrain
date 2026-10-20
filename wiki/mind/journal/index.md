@@ -4,6 +4,7 @@ page_type: index
 title: "Idea Journal"
 aliases: ["idea journal", "the journal"]
 status: active
+layer: interpreted/index
 date_created: 2026-10-03
 date_modified: 2026-10-20
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
@@ -14,9 +15,12 @@ connections:
   - page: wiki/mind/profile/index
     type: gated-by
     claim: "Every entry is cross-checked against the personality-profile cluster before it is filed; the weighted profile instrument is the journal's referee."
+changelog:
+  - "2026-10-20: Declared framework-v2 layer interpreted/index (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Idea Journal
+_Layer: interpreted/index — the journal's filed index. Entries are interpreted-layer theses; the documented person and their evidence live in [[wiki/self/index|self/]], which entries cite rather than restate._
 
 Commissioned 2026-10-03. Four new theories a day about how Dan's brain
 operates — each one built from a cluster of wiki information read together,

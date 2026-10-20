@@ -6,8 +6,9 @@ aliases: ["the brief and the mandate", "delegation grammar", "tasking forms", "b
 status: active
 knowledge: derived
 importance: medium
+layer: interpreted/journal
 date_created: 2026-10-12
-date_modified: 2026-10-12
+date_modified: 2026-10-20
 sources:
   - ~/memory/2026-10-11.md (weed-order delegation 16:43 UTC; Maitri re-check ~17:07 EDT; Suz attribution ~17:50 EDT; runonce cron ~22:05 EDT)
   - ~/memory/2026-10-12.md (push to Oct 12 + 9–10 AM report window 00:43 UTC; Suz-demo vent ~01:42 EDT)
@@ -22,9 +23,12 @@ connections:
   - page: wiki/mind/journal/2026-10-11-the-chosen-ledger
     type: distinguishes
     claim: "That entry is the mandate's INTERNAL STRUCTURE — the floor names the burst, the vacation grants name the collapse, the reports are the accounting, the backlog kill is the payload. This entry is the TAXONOMY the Ledger instantiates: brief vs mandate as delegation forms with different lifespan grammars. The mandate's internal findings are cited here, never re-derived; the new dated case is the Oct 11/12 weed order as the one-shot brief."
+changelog:
+  - "2026-10-20: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Brief and the Mandate
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-12, Pass C.**
 

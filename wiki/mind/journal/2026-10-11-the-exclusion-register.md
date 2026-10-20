@@ -6,8 +6,9 @@ aliases: ["exclusion register", "one-way verdicts"]
 status: active
 knowledge: derived
 importance: medium
+layer: interpreted/journal
 date_created: 2026-10-11
-date_modified: 2026-10-11
+date_modified: 2026-10-20
 sources:
   - wiki/mind/synthesis/the-lame-detector.md
   - wiki/mind/synthesis/music-taste-report-2026-10-04.md
@@ -33,9 +34,12 @@ connections:
   - page: wiki/mind/synthesis/music-taste-report-2026-10-04
     type: evidenced-by
     claim: "The Lonelysoul. exile timeline and the v3 partial purge (the too-slow track cut first) are the exclusion verdict holding and executing in stated order."
+changelog:
+  - "2026-10-20: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Exclusion Register
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-11, Pass D.**
 

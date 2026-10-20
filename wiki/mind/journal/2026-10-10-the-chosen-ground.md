@@ -6,8 +6,9 @@ aliases: ["the chosen ground", "the spatial face of imposed-vs-chosen", "place i
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-10
-date_modified: 2026-10-10
+date_modified: 2026-10-20
 sources:
   - wiki/mind/concepts/1717.md
   - wiki/places/the-unpapered-address.md
@@ -43,9 +44,12 @@ connections:
   - page: wiki/mind/concepts/chaos-preference
     type: extends
     claim: "Row 15's axis, which that page and the-two-registers applied to chaos-preference and typology, is now applied to geography — the third face of the same axis."
+changelog:
+  - "2026-10-20: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Chosen Ground
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-10, pass D (the chosen container — place as the imposed-vs-chosen axis made spatial).**
 

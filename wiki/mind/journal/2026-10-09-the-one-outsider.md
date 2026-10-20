@@ -6,8 +6,9 @@ aliases: ["the one outsider", "the one-slot offering", "the addressed grant"]
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-09
-date_modified: 2026-10-09
+date_modified: 2026-10-20
 sources:
   - wiki/people/ally-lubin
   - wiki/mind/concepts/attachment-model
@@ -30,9 +31,12 @@ connections:
   - page: wiki/mind/journal/2026-10-05-the-dormant-slot
     type: distinguishes
     claim: "The Dormant Slot covers slot re-loading after dormancy (the slot persists across occupants; dormancy is not exit). This entry is what the loaded slot DISPENSES — the wiki grant as an act of a loaded slot, not a claim about slot persistence. Cross-referenced only, not re-explained."
+changelog:
+  - "2026-10-20: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The One Outsider
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-09, pass D (the wiki as one-slot offering).**
 

@@ -6,8 +6,9 @@ aliases: ["idea journal 2026-10-10 pass B", "the locked spec", "specification as
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-10
-date_modified: 2026-10-10
+date_modified: 2026-10-20
 sources:
   - wiki/meta/sammy-goddess-file.md
   - wiki/mind/concepts/lyric-qualifier.md
@@ -42,9 +43,12 @@ connections:
   - page: wiki/mind/concepts/lyric-qualifier
     type: evidenced-by
     claim: "The 2026-09-11 byte-exact held capture is this entry's solo-work lock: a dated, verbatim perceptual verdict that became an engineering constraint in his own pipeline (AUTOPSY's 16-driver taxonomy, hook2piano's pitch-as-geometry), with no delegate in the loop."
+changelog:
+  - "2026-10-20: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Locked Spec
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-10, pass B (The Locked Spec — specification as the creative/delegation primitive).**
 

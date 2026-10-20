@@ -6,8 +6,9 @@ aliases: ["the chosen ledger", "the mandate as chosen order", "floor goal contai
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-11
-date_modified: 2026-10-11
+date_modified: 2026-10-20
 sources:
   - wiki/mind/concepts/chaos-preference.md
   - wiki/mind/concepts/forensic-method.md
@@ -30,9 +31,12 @@ connections:
   - page: wiki/mind/journal/2026-10-07-collapse-is-the-working-condition
     type: distinguishes
     claim: "That entry established the burst-and-collapse rhythm across messaging, creative, and employment channels; this one is about the October mandate regime as the chosen-order container that holds that rhythm honestly — the floor, the goal, the vacation grammar, and the accounting reports."
+changelog:
+  - "2026-10-20: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Chosen Ledger
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-11, pass C (mandate regime).**
 

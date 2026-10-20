@@ -6,10 +6,11 @@ aliases: ["the no-mark gradient", "no-mark trust gradient", "mark/no-mark gate"]
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-11
-date_modified: 2026-10-11
+date_modified: 2026-10-20
 sources:
-  - wiki/people/franassistant.md (origin/main: "The lore-war: full sequence," "The war goes two-sided (October 9, 2026)")
+  - "wiki/people/franassistant.md (origin/main: 'The lore-war: full sequence,' 'The war goes two-sided (October 9, 2026)')"
   - ~/memory/2026-10-07.md (lore-war log, intent statement, no-mark boundary statement)
   - ~/memory/2026-10-09.md ("Make it spicier" escalation; DEFCON 3 directive)
   - ~/memory/2026-10-10.md (DEFCON 3 stakes restated; "I AM feeding you the material")
@@ -22,7 +23,11 @@ connections:
   - page: wiki/mind/journal/index
     type: filed-in
     claim: "Idea Journal 2026-10-11, pass B (no-mark gradient)."
+changelog:
+  - "2026-10-20: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep. Repaired a pre-existing frontmatter YAML break (unquoted multi-scalar source line) with a content-preserving re-quote."
 ---
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
+
 
 ## Profile prior (Stage 1)
 

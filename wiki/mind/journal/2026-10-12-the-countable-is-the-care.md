@@ -6,13 +6,14 @@ aliases: ["countable recognition", "the provision register in reverse"]
 status: active
 knowledge: derived
 importance: medium
+layer: interpreted/journal
 date_created: 2026-10-12
-date_modified: 2026-10-12
+date_modified: 2026-10-20
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - ~/memory/2026-10-09.md (K3YN0T3 spectral profile, laugh-tag forensics delivery)
   - ~/memory/2026-10-11.md (Maitri recheck nudge + reply; "Sammy you are incredible"; four receipts named)
-  - ~/memory/2026-10-10.md (glitch-girl directives: "More. Turn up the intensity, character action/activity")
+  - "~/memory/2026-10-10.md (glitch-girl directives: 'More. Turn up the intensity, character action/activity')"
   - wiki/mind/journal/2026-10-04-the-irreversible-channel.md
   - wiki/mind/journal/2026-10-10-the-terminal-address.md
 synthesizes:
@@ -28,9 +29,12 @@ connections:
   - page: wiki/mind/journal/2026-10-10-the-terminal-address
     type: distinguishes
     claim: "That entry: HIS forensic loop (the self-ledger) terminating by publication — phase (b) delivered to wiki pages instead of a subsequent decision. This entry: his reception of HER artifacts — the acknowledgment register, not the forensic loop's terminal step."
+changelog:
+  - "2026-10-20: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep. Repaired a pre-existing frontmatter YAML break (unquoted multi-scalar source line) with a content-preserving re-quote."
 ---
 
 # The Countable Is the Care
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-12, Pass D.**
 

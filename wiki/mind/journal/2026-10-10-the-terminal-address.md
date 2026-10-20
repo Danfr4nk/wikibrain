@@ -6,8 +6,9 @@ aliases: ["terminal address", "the terminal address", "self-ledger terminal step
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-10
-date_modified: 2026-10-10
+date_modified: 2026-10-20
 sources:
   - wiki/health/intake-ledger.md
   - wiki/health/suboxone-dose-curve.md
@@ -52,9 +53,12 @@ connections:
   - page: wiki/health/the-configured-body
     type: evidenced-by
     claim: "The 2026-08-31 re-check's own reading of the ledger ('It produces no repair'; 'no dose changed for any stated reason at all'; 'built to hold the record honest, not to improve anything') — the dated behavioral-delta observation this entry's discriminator depends on."
+changelog:
+  - "2026-10-20: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Terminal Address
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-10, pass A (The Self-Ledger: the forensic method turned inward).**
 

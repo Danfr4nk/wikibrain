@@ -6,8 +6,9 @@ aliases: ["pattern engine governor", "the governor fires", "cluster adjudication
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-10
-date_modified: 2026-10-10
+date_modified: 2026-10-20
 sources:
   - wiki/mind/concepts/dans-law
   - wiki/mind/concepts/forensic-method
@@ -42,9 +43,12 @@ connections:
   - page: wiki/mind/concepts/calibrated-confidence
     type: evidences
     claim: "The 2026-08-23 strict re-derivation and 2026-09-13 headline correction are the governor's confidence re-label step, dated, on the instrument's own headline."
+changelog:
+  - "2026-10-20: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Pattern Engine's Governor
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-10, pass C (pattern-engine governor).**
 
