@@ -5,7 +5,7 @@ title: "Idea Journal"
 aliases: ["idea journal", "the journal"]
 status: active
 date_created: 2026-10-03
-date_modified: 2026-10-19
+date_modified: 2026-10-20
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -565,3 +565,47 @@ cannot show its stages has not been cross-checked.
   rival beaten on its own discriminator. PASS — high confidence at
   stated bounds; one pre-evidence vocabulary fix recorded in
   Genesis.
+
+### 2026-10-20
+
+- [[wiki/mind/journal/2026-10-20-the-exit-that-wasnt|Entry 1 —
+  The Exit That Wasn't]]: the Nov–Dec 2015 Alexis eviction — the record's
+  strongest candidate for a bond closed by behavioral evidence alone with
+  no explicit severance statement — fails rows 6/19's explicitness test:
+  zero addressed severance statements in the finite primary eviction
+  artifacts (uploads 049/050/051, 060/061/062), and the aftermath shows
+  dormancy-not-exit (Nov 2018 operational re-tasking, two-sided
+  correspondence 2020-09-14 → 2025-02-19, shared-calendar events still
+  arriving). PASS — high confidence, 0 restarts; the Shape-5
+  verdict/exclusion rival beaten on its own 72-hour discriminator.
+- [[wiki/mind/journal/2026-10-20-the-place-holds-the-load|Entry 2 —
+  The Place Holds the Load]]: place-attention follows the Gini grammar,
+  but the slots are home addresses, not chosen venues — the top three
+  named locations are all residences absorbing ~61% of named visits; the
+  sole non-home breaker (Au Za'atar, 712) arrives on a shift signature
+  (imposed-axis presence, not a chosen slot); stress (2017–2018) loads the
+  anchored slots harder, and the 2019 base change re-installed the
+  concentration whole on 307 E 76th. PASS — high confidence, with a labeled
+  hypothesis-grade cap on any numeric spatial Gini; one Stage-3 restart
+  (the chosen-place first thesis died on the shift signature, not patched).
+- [[wiki/mind/journal/2026-10-20-the-re-arming-latch|Entry 3 —
+  The Re-Arming Latch]]: his "no"s are re-arming latches, not one-way
+  valves — the Oct 5 "now im def never texting her again" broke within
+  ~48h (Oct 7, heavy direct contact), was explicitly re-armed (Oct 8
+  Annie-Gate send, Oct 12 restatement), and held Oct 13–18; the BFS $50
+  demand-refusal held on the demand while the job channel reopened 08-11
+  (demand-scoped, not institution-scoped). The starting "gate only closes"
+  thesis was falsified at Stage 3 and abandoned, not patched — and the
+  brief's evidence list was partly wrong (the order-book no and no-mark
+  boundary are Sammy's, not his; both excluded in Genesis). PASS — high
+  confidence, 1 restart.
+- [[wiki/mind/journal/2026-10-20-memory-is-a-vertical-claim|Entry 4 —
+  Memory Is a Vertical Claim]]: the forensic method runs inward — in both
+  dated memory-vs-record conflicts (the 2018-04-05 23:26 Fran death-moment
+  retraction, ~3h; the 2026-10-19 iMessage kill-switch adjudication,
+  same-day) his stated recollection lost to the dated artifact in writing;
+  the Oct 19 ~00:05–05:43 archive-dive window is the method running on
+  himself in the present. The instrumental-rummaging rival holds one honest
+  leg (the dada-era crack scripts were pure tool-recovery, conceded).
+  PASS — high confidence at the stated n=2 limit; the named open test is
+  the next memory-vs-record conflict; 0 restarts.
