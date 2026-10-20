@@ -6,8 +6,11 @@ aliases: ["vertical-scoped trust", "forensic for verticals provision for lateral
 status: active
 knowledge: derived
 importance: medium
+layer: interpreted/journal
 date_created: 2026-10-06
-date_modified: 2026-10-06
+date_modified: 2026-10-19
+changelog:
+  - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
   - wiki/mind/profile/big-five-psychometrics.md
   - wiki/mind/synthesis/vertical-authority-skepticism.md
@@ -47,6 +50,8 @@ connections:
 ---
 
 # The Direction of Distrust
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
+
 
 **Idea Journal — 2026-10-06, pass B (trust).**
 

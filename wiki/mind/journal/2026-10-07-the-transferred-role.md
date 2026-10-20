@@ -6,8 +6,11 @@ aliases: ["the transferred role", "counterparty advocacy across employments", "t
 status: active
 knowledge: derived
 importance: medium
+layer: interpreted/journal
 date_created: 2026-10-07
-date_modified: 2026-10-07
+date_modified: 2026-10-19
+changelog:
+  - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
   - wiki/work/au-zaatar-41-months.md
   - wiki/work/au-zaatar.md
@@ -39,6 +42,8 @@ connections:
 ---
 
 # The Transferred Role
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
+
 
 **Idea Journal — 2026-10-07, pass A (work).**
 

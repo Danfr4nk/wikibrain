@@ -6,8 +6,11 @@ aliases: ["idea journal 2026-10-08 entry 4", "the two-slot grammar", "pass D"]
 status: active
 knowledge: derived
 importance: medium
+layer: interpreted/journal
 date_created: 2026-10-08
-date_modified: 2026-10-08
+date_modified: 2026-10-19
+changelog:
+  - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
   - wiki/mind/concepts/explicit-verbal-commitment
   - wiki/mind/concepts/reassurance-architecture
@@ -47,6 +50,8 @@ connections:
 ---
 
 # The Two-Slot Grammar
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
+
 
 **Premise in one line:** His binding grammar has exactly two slots — the rule-declarative and the command-imperative — and the interpretive register is structurally absent: 0× in 106,629 sent messages. Because no feeling-statement has a binding slot, no confirmation can durably settle, and the check-in loop must re-run forever.
 

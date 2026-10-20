@@ -6,8 +6,11 @@ aliases: ["the decomposing ear", "production-structural intake", "the intake dec
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-08
-date_modified: 2026-10-08
+date_modified: 2026-10-19
+changelog:
+  - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
   - wiki/mind/concepts/lyric-qualifier.md
   - wiki/work/tech/projects/musictrainer-autopsy.md
@@ -41,6 +44,8 @@ connections:
 ---
 
 # The Decomposing Ear
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
+
 
 Perceptual intake in his music domain is production-structural: the ear
 decomposes a track into countable production dimensions before any

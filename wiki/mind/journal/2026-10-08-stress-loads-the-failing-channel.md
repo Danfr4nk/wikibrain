@@ -6,8 +6,11 @@ aliases: ["the stress funnel", "stress-concentration", "total-commitment failure
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-08
-date_modified: 2026-10-08
+date_modified: 2026-10-19
+changelog:
+  - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
   - wiki/mind/concepts/attachment-model
   - wiki/mind/synthesis/message-circadian-latency
@@ -36,6 +39,8 @@ connections:
 ---
 
 # Stress Loads the Failing Channel
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
+
 
 **Idea Journal — 2026-10-08, pass C (crisis-period timing and message-volume records).**
 
