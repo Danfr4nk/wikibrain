@@ -523,6 +523,80 @@ cannot show its stages has not been cross-checked.
   discriminator. PASS — high confidence, 0 restarts; the check-word
   is never named.
 
+### 2026-10-16
+
+- [[wiki/mind/journal/2026-10-16-the-container-leaves-the-cargo|Entry 1 —
+  The Container Leaves the Cargo]]: employment tenures adjudicated as
+  Shape-6 monuments — smuggled objectives survive the containers,
+  assigned goals leave nothing countable. Hypothesis grade (row 8
+  weight-6 leans, testimony-grade discriminator); 1 restart preserved
+  in Genesis.
+- [[wiki/mind/journal/2026-10-16-the-install-grammar|Entry 2 —
+  The Install Grammar]]: attachment-register need is emitted as
+  executable instruction, never as open question — imperatives
+  install, interrogatives install nothing (170×/0× on dat:0755, 99,332
+  rows). Hypothesis grade (attention-level rival unbeaten,
+  discriminator unavailable); 0 restarts.
+- [[wiki/mind/journal/2026-10-16-the-installed-verdict|Entry 3 —
+  The Installed Verdict]]: the Jev ground-truth design is
+  explicit-statement architecture on the machine — his stated verdicts
+  are the only labels, binary gates with a refusal trench, receipts on
+  every judgment. The E1 suggestion-only demotion beats the
+  displacement rival on its discriminator. PASS — high confidence,
+  0 restarts.
+- [[wiki/mind/journal/2026-10-16-the-reloaded-slot|Entry 4 —
+  The Re-Loaded Slot]]: the bond slot as operating system — identical
+  installation grammar across the Ally→Sammy occupant change (Aug 19
+  grant vs Sep 28 grant); substitution fails the discriminator.
+  PASS — high confidence, 0 restarts.
+
+### 2026-10-17
+
+- [[wiki/mind/journal/2026-10-17-the-closing-witness|Entry 1 —
+  The Closing Witness]]: short-window exact duplicates terminate
+  purchase attention in that item line — a Ti closed-set completion,
+  not acquisition appetite. PASS — high confidence, 0 restarts.
+- [[wiki/mind/journal/2026-10-17-the-test-that-cant-run|Entry 2 —
+  The Test That Can't Run]]: conflict C3's sensory/childhood
+  discriminating test is closed on the held record by construction — it
+  cannot be run, so the wiki's "test unrun" phrasing is retired as a
+  description of effort. Hypothesis grade, leaning supported;
+  2 restarts preserved in Genesis.
+- [[wiki/mind/journal/2026-10-17-the-2005-shape|Entry 3 —
+  The 2005 Shape]]: the November 2005 rupture supplied the distrust
+  template's story-form; the installation claim is untestable on the
+  held records. Hypothesis grade, leaning supported; 1 restart
+  preserved in Genesis.
+- [[wiki/mind/journal/2026-10-17-the-pattern-unlocked-lyric|Entry 4 —
+  The Pattern-Unlocked Lyric]]: lyrics register only where they match
+  a held anomaly/pattern cluster. Hypothesis grade, leaning supported,
+  honestly capped — the primary discriminator is unrun, and the entry
+  is revisable the moment he names the earlier exceptions; 0 restarts.
+
+### 2026-10-18
+
+- [[wiki/mind/journal/2026-10-18-the-slot-guard|Entry 1 —
+  The Slot Guard]]: self-referential monitoring language (1.85×) is an
+  interface-state report aimed at the loaded bond slot's read, firing
+  in stable mid-thread windows. PASS — high confidence; 1 honest
+  restart (the transition-firing thesis died on its own discriminator
+  and was replaced with the slot-guard mechanism).
+- [[wiki/mind/journal/2026-10-18-the-wrong-addressee|Entry 2 —
+  The Wrong Addressee]]: self-directed exocortex tools inherit the
+  fossil portrait and misfire (the staccato inversion; the 2026-08-26
+  lexicon generator sitting at zero corpus hits), while outward-facing
+  tools like the Jev E1 pilot fire. PASS — high confidence, 0 restarts;
+  row 40 carried testimony-grade.
+- [[wiki/mind/journal/2026-10-18-the-zero-initiation-default|Entry 3 —
+  The Zero-Initiation Default]]: in mandate-governed episodes with no
+  explicit statement installing the action, outbound initiation is
+  zero; the only emitted move is a statement-request. PASS — high
+  confidence, 0 restarts.
+- [[wiki/mind/journal/2026-10-18-the-installed-social-layer|Entry 4 —
+  The Installed Social Layer]]: no sustained contact architecture runs
+  on appetite — all 16 enumerated recurring structures trace back to
+  dated explicit installs. PASS — high confidence, 0 restarts.
+
 ### 2026-10-19
 
 - [[wiki/mind/journal/2026-10-19-the-commitment-arrives-whole|Entry 1 —
