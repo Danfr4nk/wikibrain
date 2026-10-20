@@ -5,7 +5,7 @@ title: "Music Taste Report — Chaos in October, Week of Sep 28 – Oct 4, 2026"
 status: active
 knowledge: earned
 date_created: 2026-10-04
-date_modified: 2026-10-07
+date_modified: 2026-10-20
 date_range_start: 2026-09-28
 date_range_end: 2026-10-04
 tier: major
@@ -57,9 +57,14 @@ connections:
   - page: wiki/interests/music/dj-practice-2026
     type: contextualizes
     claim: "The 2026-09-15 live-performance assessment — the programmer-brain verdict, energy management as the actual job — is the performer identity behind the deaf-built mix and the sequencing readings."
+  - page: wiki/mind/synthesis/music-taste-report-2026-10-20
+    type: succeeded-by
+    claim: "Version 3 of the ongoing taste profile (the Bing Bong deviation, Oct 15–20, 2026) recursively revises this report's frozen-filter finding: genre center, tempo center, and personnel all moved at once, while darkness, energy, and vocal texture held. This report remains the baseline version it is graded against."
 changelog:
   - date: 2026-10-07
     change: "Expanded to major tier (>=3,000 body words) and restructured to canonical template v1: story-first lede, Conflicts in the record, Assessment. Recorded the 2026-10-04 taste-verdict revisions (guitar/drum-kit doctrine, Lonelysoul. flip) and corrected the events/company attribution."
+  - date: 2026-10-20
+    change: "Successor version linked (music-taste-report-2026-10-20, the Bing Bong deviation): this report is now version 1 of a recursive series and is retained unchanged as the baseline the deviation is measured against; no findings in this page were altered."
 ---
 
 # Music Taste Report — Chaos in October, Week of Sep 28 – Oct 4, 2026
