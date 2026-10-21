@@ -6,7 +6,7 @@ aliases: ["idea journal", "the journal"]
 status: active
 layer: interpreted/index
 date_created: 2026-10-03
-date_modified: 2026-10-20
+date_modified: 2026-10-21
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -687,3 +687,44 @@ cannot show its stages has not been cross-checked.
   leg (the dada-era crack scripts were pure tool-recovery, conceded).
   PASS — high confidence at the stated n=2 limit; the named open test is
   the next memory-vs-record conflict; 0 restarts.
+
+
+### 2026-10-21
+
+- [[wiki/mind/journal/2026-10-21-the-unsteered-numbers|Entry 1 —
+  The Unsteered Numbers]]: his graded numbers and stated verdicts run in
+  two directed modes — outward as audit instruments (the Pew 50%
+  deconstruction, the Oct 19 kill-switch read, the 41,073-message sweep),
+  inward as reasoning-intensity thermometers — and in neither mode do they
+  govern his conduct (the 36s median did not stop the 130th declaration;
+  his own stated "certain" prices at 0.25; the Oct 11 K3YN0T3 crowning
+  verified absent from the playlist Oct 13 and Oct 20). Rows 1/2/3/4/9.
+  PASS — high confidence, attention-level; 0 restarts.
+- [[wiki/mind/journal/2026-10-21-the-exocortical-clock|Entry 2 —
+  The Exocortical Clock]]: deadlines are kept through installed external
+  time-instruments that fire in the dated record, not through urgency
+  vocabulary (0.35–0.42× of others'); the Oct 17–20 window splits on the
+  imposed-vs-chosen axis — every chosen install fired (crons, !AUTOEGGIE,
+  Cogar reminders), every imposed tap sat pending (Reason resets lapsed,
+  IG login-approval, Gmail re-sign-in, device/2FA taps, the wiki "push
+  it"). Rows 10/15, C13 narrowed. PASS — high confidence at the stated
+  one-week bound; 0 restarts; one pre-evidence vocabulary fix recorded
+  in Genesis.
+- [[wiki/mind/journal/2026-10-21-the-mediator-loses|Entry 3 —
+  The Mediator Loses]]: in dated adjudications where a mediated verdict
+  (commissioned instrument, machine detector, dossier label) contradicted
+  a primary, the mediator lost every time — and the ladder runs inward:
+  his own stated word lost to dated artifacts twice (the 2018-04-05 Fran
+  retraction, the Oct 19 kill-switch). Mediated verdict < stated word <
+  primary artifact. Rows 4/5/12, C3/C6. PASS — high confidence,
+  attention-level; 0 restarts.
+- [[wiki/mind/journal/2026-10-21-the-deepest-provision|Entry 4 —
+  The Deepest Provision]]: what he hands the #1 is the archive itself —
+  primary-record access issued as countable provision (row 21),
+  concentrated in one bond (rows 11/46), under explicit stated gates
+  (rows 5/19): the 2026-10-05 person-gate ("only for your eyes ... Not
+  Annie not anyone"), the Oct 19 interactive dive window, the
+  world-gets-the-wiki baseline. Hypothesis grade, honestly capped — the
+  bond-scaling hierarchy beyond the dated person-gates is unheld; named
+  open test: the next dated explicit access-grant. 1 Stage-2 restart
+  preserved in Genesis.
