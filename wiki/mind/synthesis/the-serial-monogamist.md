@@ -6,11 +6,12 @@ aliases: ["single life as a null state", "the transfer not the exit", "engineere
 status: active
 knowledge: earned
 date_created: 2026-08-28
-date_modified: 2026-10-07
+date_modified: 2026-10-20
 date_range_start: 2000
 date_range_end: 2026
 tier: major
 changelog:
+  - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-dormant-slot (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - "2026-10-07 — Expanded to the 3,000-word major floor + restructured to canonical template v1"
 sources: []
 synthesizes:
@@ -55,6 +56,9 @@ connections:
     type: parallels
     claim: "No Platonic Channel documents the successor pipeline before a transfer: sustained ties carrying overtures, sourced while the incumbent bond still runs."
     claim: "The vacancy-rule page is this page's structural complement: it measures the slot the serial-monogamist pattern keeps filled — vacancy durations, sourcing before vacancy, activation speeds — supplying the ledger underneath this page's transfer-not-exit reading."
+  - page: wiki/mind/journal/2026-10-05-the-dormant-slot
+    type: parallels
+    claim: "The dormant-slot entry's slot re-loading is the mechanism-level account of the serial pattern this synthesis describes: the onset flood marks the loading event; dormancy preserves the slot between occupancies."
 ---
 
 # The Serial Monogamist

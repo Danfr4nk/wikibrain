@@ -6,7 +6,7 @@ aliases: ["Dan's snobbery", "the prestige map", "the Suz fight", "Turnstile nigh
 status: active
 knowledge: earned
 date_created: 2026-10-04
-date_modified: 2026-10-04
+date_modified: 2026-10-20
 date_range_start: 2026-10-03
 date_range_end: 2026-10-04
 tier: major
@@ -30,7 +30,12 @@ connections:
   - page: wiki/mind/concepts/exocortex
     type: parallels
     claim: "The prestige map (who counts, ranked without listening) is the same metadata-first architecture as the Wiki Brain itself: an exhaustive, self-authored ranking system where Dan's positions are the record. The snobbery and the wiki are one mechanism in two costumes."
+  - page: wiki/mind/journal/2026-10-05-the-placement-verdict
+    type: parallels
+    claim: "The guitar-coolness rule is the placement-verdict entry's textbook case of the utterance register: the stated rule arrived years after the acousticness wall (median 0.019) had already filtered electronically — the rule ratifies the placement."
 changelog:
+  - date: 2026-10-20
+    change: "Added reciprocal typed edge(s) to 2026-10-05-the-placement-verdict (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - date: 2026-10-04
     change: "Created from the 2026-10-03/04 story-time session (the Suz fight) and overnight analysis, at Dan's commission."
 ---

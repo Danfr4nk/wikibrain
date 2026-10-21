@@ -9,7 +9,7 @@ knowledge: derived
 importance: medium
 tier: major
 date_created: 2026-10-05
-date_modified: 2026-10-18
+date_modified: 2026-10-20
 sources:
   - kb/data/0081-explicit-commitment-architecture.md
   - kb/data/1292-block-unblock-loop-severance-recount-129-128.md
@@ -55,7 +55,14 @@ connections:
   - page: wiki/mind/synthesis/dan-annie-fallout-verdict
     type: parallels
     claim: "That page's confession trap is this entry's inbound twin: needing a verdict from the other person, versus serving one on them — the same refusal to let an evidentiary case go unwitnessed, run in both directions."
+  - page: wiki/mind/concepts/forensic-method
+    type: instantiates
+    claim: "The entry's two artifact cases (James PDF 2025-07-11, Leviathan dashboards July 2026) instantiate the method's terminal step: the finished analysis delivered to the person it describes."
+  - page: wiki/timeline/events/july-2026-recontact
+    type: evidenced-by
+    claim: "The Leviathan dashboards (July 2026) are the hostile second instance of the handed-mirror act — the same move at higher production value."
 changelog:
+  - "2026-10-20: Added forward typed edges to forensic-method and july-2026-recontact (completing the Oct-18 connection set; reciprocals ship on the target pages)."
   - "2026-10-18: Expanded to major tier: added story-first lede and reader-visible layer line; deepened Profile prior with the instrument's actual measurements; added the James handed-mirror case (2025-07-11, 12m11s delivery-to-rupture, dat:0840), the Leviathan witnessed shutdown (2026-07-25/26, dat:0841), the Ally wiki-reading exchange, the confession trap as the inbound twin, and the Ally witness-channel declaration catalog; strengthened all three rivals with the binary-verdict page's edge cases; retired the forensic-method fetch flag (fetched 2026-10-18 from GitHub main). No facts deleted."
 ---
 

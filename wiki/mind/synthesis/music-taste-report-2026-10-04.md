@@ -60,7 +60,12 @@ connections:
   - page: wiki/mind/synthesis/music-taste-report-2026-10-20
     type: succeeded-by
     claim: "Version 3 of the ongoing taste profile (the Bing Bong deviation, Oct 15–20, 2026) recursively revises this report's frozen-filter finding: genre center, tempo center, and personnel all moved at once, while darkness, energy, and vocal texture held. This report remains the baseline version it is graded against."
+  - page: wiki/mind/journal/2026-10-05-the-placement-verdict
+    type: evidences
+    claim: "The v2 diff, the round-3 spectral verification of the 'best vocal layering' call, and the post-promotion listening pass are the placement-verdict entry's same-day measured corroboration of the two-register architecture — allocation-register events the utterance register predicted nothing about."
 changelog:
+  - date: 2026-10-20
+    change: "Added reciprocal typed edge(s) to 2026-10-05-the-placement-verdict (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - date: 2026-10-07
     change: "Expanded to major tier (>=3,000 body words) and restructured to canonical template v1: story-first lede, Conflicts in the record, Assessment. Recorded the 2026-10-04 taste-verdict revisions (guitar/drum-kit doctrine, Lonelysoul. flip) and corrected the events/company attribution."
   - date: 2026-10-20

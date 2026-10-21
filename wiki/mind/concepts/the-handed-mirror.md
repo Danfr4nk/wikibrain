@@ -6,8 +6,9 @@ status: active
 knowledge: earned
 tier: major
 date_created: 2026-08-04
-date_modified: 2026-10-07
+date_modified: 2026-10-20
 changelog:
+  - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-handed-mirror, 2026-10-06-anomalies-are-the-jurisdiction (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - "2026-10-07: Expanded to major tier (>=3,000 words); restructured to canonical template v1; incorporated Leviathan follow-through findings (2026-08-02 export) and the Ally wiki-reading instance."
 sources:
   - src:imessage-corpus-2026
@@ -49,6 +50,12 @@ connections:
   - page: wiki/people/ally-lubin
     type: instantiates
     claim: "On 2026-08-18 Dan sent Ally her own wiki page while it was being rewritten — the mirror's least-hostile outward delivery, and the nearest case to a delivered analysis received without rupture."
+  - page: wiki/mind/journal/2026-10-05-the-handed-mirror
+    type: evidenced-by
+    claim: "The Oct-5 entry applies the handed-mirror claim to person-verdicts generally and supplies its two positive artifact cases (James PDF, Leviathan dashboards) — the concept's dated journal instance."
+  - page: wiki/mind/journal/2026-10-06-anomalies-are-the-jurisdiction
+    type: contrasts
+    claim: "The Oct-6 entry keeps this concept's distinction: person-verdicts terminate at witnessed delivery; the entry's object is records, and its stop condition is adjudication."
 ---
 
 # The Handed Mirror

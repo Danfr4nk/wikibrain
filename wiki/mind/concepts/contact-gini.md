@@ -4,7 +4,9 @@ page_type: concept
 title: "Contact Gini"
 status: active
 date_created: 2026-06-22
-date_modified: 2026-10-07
+date_modified: 2026-10-20
+changelog:
+  - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-06-the-delegated-surface (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
 knowledge: earned
 tier: major
 tags: [relationships, attachment, forensic-analysis, digital-footprint]
@@ -42,6 +44,9 @@ connections:
     type: parallels
     claim: "This Gini (0.9556 over 498 handles) is measured on the held authoritative corpus; the Coverage Map is the inventory that says which corpus that is and what its holes allow."
     claim: "The latency analysis is the temporal counterpart to this volume metric; both converge on the single near-synchronous channel."
+  - page: wiki/mind/journal/2026-10-06-the-delegated-surface
+    type: evidences
+    claim: "This page's measurements (0.9556 inbound / 498 handles, 0.9601 outbound / 496 handles, 2026-09-09 replication) are the D4 concentration leg the Oct-6 entry's delegation thesis rests on."
 ---
 
 # Contact Gini

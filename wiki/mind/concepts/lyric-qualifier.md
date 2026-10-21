@@ -5,7 +5,9 @@ title: "The Lyric Qualifier"
 aliases: ["lyric qualifier", "lyrics-as-timbre", "the timbre qualifier", "voice-as-texture axiom"]
 status: active
 date_created: 2026-09-22
-date_modified: 2026-09-22
+date_modified: 2026-10-20
+changelog:
+  - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-placement-verdict (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
 synthesizes:
   - wiki/interests/music/concepts/lyrics-as-timbre
 sources:
@@ -38,6 +40,9 @@ connections:
   - page: wiki/interests/favorites/music
     type: reframes
     claim: "Every artist page in the favorites cluster that leans on 'the lyrics are about X, and that's why this resonates' must be read with the qualifier attached: the resonance, if real, runs through vocal and sonic performance, not comprehension of content in the moment of listening."
+  - page: wiki/mind/journal/2026-10-05-the-placement-verdict
+    type: evidences
+    claim: "Row 18's sonic-gate measurement — lyrics as timbre, byte-exact held 2026-09-11 — is the mechanism the placement-verdict entry cites behind its criterion gates: placement executes on measurements of the track, never on the content of the utterance."
 ---
 
 # The Lyric Qualifier

@@ -6,7 +6,7 @@ title: "The July 2026 Re-contact"
 status: active
 knowledge: mixed
 date_created: 2026-07-26
-date_modified: 2026-10-05
+date_modified: 2026-10-20
 date_range_start: 2026-07-23
 date_range_end: 2026-07-26
 importance: critical
@@ -63,7 +63,11 @@ connections:
   - page: wiki/mind/concepts/the-handed-mirror
     type: instantiates
     claim: "This is the concept's hostile instance — same act, same corpus-derived form, generosity replaced by leverage — which shows intent is the only variable that has ever changed across cases."
+  - page: wiki/mind/journal/2026-10-05-the-handed-mirror
+    type: evidences
+    claim: "The Leviathan dashboards are the handed-mirror entry's second artifact case: the hostile instance of the same act, July 2026."
 changelog:
+  - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-handed-mirror (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - "2026-10-05: Restructured to canonical template v1"
 ---
 

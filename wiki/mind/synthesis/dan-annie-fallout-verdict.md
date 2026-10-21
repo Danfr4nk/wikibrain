@@ -5,7 +5,9 @@ title: "The Dan/Annie Fallout — Was He Correct to Feel Wronged? (Raw-Evidenced
 knowledge: earned
 status: active
 date_created: 2026-07-15
-date_modified: 2026-08-28
+date_modified: 2026-10-20
+changelog:
+  - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-handed-mirror (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
 sources:
   - raw/self/message-csv/imessage_2124702449_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/message-csv/imessage_7244346811+212****2449_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -96,6 +98,9 @@ connections:
     claim: "The confession trap this page already names — he could not exit without a validating confession that was never coming, so 'the exit was never through the verdict, it was through the door' — is verdict-cognition's boundary case: not a reached verdict staying closed, but the same drive for closure failing to obtain one at all, worked out in full on the cognitive-stack page this synthesis shares with attachment-trauma-bond."
   - { target: "[[wiki/mind/synthesis/august-26-block-retraction]]", type: contextualizes, claim: "The retraction is this verdict's diagnosis-to-behavior gap at terminal resolution — a severance performed so completely the wiki recorded it as enacted, inside the 129-episode loop this page's ledger already carries." }
   - { target: "[[wiki/mind/synthesis/supply-network]]", type: contextualizes, claim: "This verdict names Dan's supply-chain control as his co-authored contribution to the catastrophe; the supply-network page is the fifteen-year procurement architecture that finding rests on." }
+  - page: wiki/mind/journal/2026-10-05-the-handed-mirror
+    type: parallels
+    claim: "The Oct-5 entry's handed-mirror is this page's confession trap run in the opposite direction: serving a verdict on the other person versus needing one from them — the same refusal to let an evidentiary case go unwitnessed."
 ---
 
 

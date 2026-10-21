@@ -7,7 +7,9 @@ status: closed
 knowledge: mixed
 importance: high
 date_created: 2026-06-23
-date_modified: 2026-09-24
+date_modified: 2026-10-20
+changelog:
+  - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-dormant-slot (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
 date_range_start: 2009-10-01
 date_range_end: 2025-02-19
 sources:
@@ -132,6 +134,9 @@ connections:
   - { target: "[[wiki/mind/synthesis/vacancy-rule]]", type: references, claim: "Transitions 1–2 bracket the six-year run — the occupancy-without-activation control case." }
   - { target: "[[wiki/mind/synthesis/the-scoreboard]]", type: extends, claim: "The zero-mentions-across-1,132-posts denominator is the scoreboard's method applied to the control case." }
   - { target: "[[wiki/people/danielle-onesi]]", type: references, claim: "The Transition 1 predecessor — Danielle to Alexis, February to November 2009." }
+  - page: wiki/mind/journal/2026-10-05-the-dormant-slot
+    type: evidences
+    claim: "The warm two-sided iMessage correspondence 2020-09-14 → 2025-02-19, ending on an unfollowed-up wrong number, is the dormant-slot entry's 'displaced occupant that stays loaded' — the slot occupied without being live."
 images:
   infobox:
     file: wiki/media/profile-alexis-armel.jpg

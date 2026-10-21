@@ -8,8 +8,9 @@ knowledge: derived
 importance: medium
 layer: interpreted/journal
 date_created: 2026-10-06
-date_modified: 2026-10-19
+date_modified: 2026-10-20
 changelog:
+  - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-06-the-delegated-surface (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
   - wiki/mind/profile/big-five-psychometrics.md
@@ -47,6 +48,9 @@ connections:
   - page: wiki/mind/politics/axioms
     type: extends
     claim: "The power axiom (concentration of unaccountable power suspect as such) is this architecture's chosen-order pole, stated in his own premise language."
+  - page: wiki/mind/journal/2026-10-06-the-delegated-surface
+    type: parallels
+    claim: "Same-day pass B routes by claim-axis (vertical vs lateral); this entry routes by seat (who sits at the keyboard) — imposed-vs-chosen geometry in different registers."
 ---
 
 # The Direction of Distrust

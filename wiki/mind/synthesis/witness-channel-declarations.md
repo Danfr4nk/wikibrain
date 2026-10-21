@@ -6,7 +6,9 @@ aliases: ["the declaration needs an audience", "block claims to Ally", "the audi
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-10-04
+date_modified: 2026-10-20
+changelog:
+  - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-handed-mirror (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
 sources:
   - raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv
   - kb/data/1292-block-unblock-loop-severance-recount-129-128.md
@@ -68,6 +70,9 @@ connections:
     type: component-of
     claim: "Witness-channel declarations are a component of the 2026 severance system: the other half of the declaration series, where an audience requirement changes what a declaration is for without changing whether it holds."
   - { target: "[[wiki/mind/synthesis/severance-language-atlas]]", type: extends, claim: "This entry takes the atlas's witness-channel language coding one level down: the atlas classifies the Ally-channel 'blocked her' rows, and this entry supplies the claim-by-claim anatomy of what those six claims built." }
+  - page: wiki/mind/journal/2026-10-05-the-handed-mirror
+    type: evidences
+    claim: "The Aug-28–Sep-7, 2026 block-claim catalog — six block claims to one silent witness while the direct channel carried live two-way traffic — is the handed-mirror entry's witness-channel leg."
 ---
 
 # Witness-Channel Declarations

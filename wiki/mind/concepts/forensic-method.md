@@ -6,9 +6,10 @@ title: "The Forensic Method"
 aliases: ["forensic analysis", "forensic methodology", "procedural tells", "lossless retention", "anomaly-detection engine"]
 status: active
 date_created: 2026-06-22
-date_modified: 2026-10-16
+date_modified: 2026-10-20
 tier: major
 changelog:
+  - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-handed-mirror (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - "2026-10-06: Expanded to major tier (>=3,000 words); restructured to canonical template v1."
   - "2026-10-16: Declared framework-v2 layer (interpreted/concept); added the missing reciprocal instantiates edge to the bespoke lexicon."
 synthesizes:
@@ -75,6 +76,9 @@ connections:
   - page: wiki/mind/profile/lexicon
     type: instantiates
     claim: "The lexicon is the forensic method run on a compliment: cite the evidence, invoke an authority, render a finding — tribunals, committees, historical records and evidentiary standards adjudicating affection, with the mismatch between the machinery's weight and the triviality of what it is adjudicating supplying the humor."
+  - page: wiki/mind/journal/2026-10-05-the-handed-mirror
+    type: evidenced-by
+    claim: "The Oct-5 entry's two artifact cases (James PDF 2025-07-11, Leviathan dashboards July 2026) are dated deployments of the method's terminal step — the finished analysis delivered to the person it describes."
 ---
 # The Forensic Method
 

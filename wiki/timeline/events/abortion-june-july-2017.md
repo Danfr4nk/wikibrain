@@ -4,7 +4,9 @@ page_type: event
 status: stable
 importance: critical
 date_created: 2026-09-18
-date_modified: 2026-09-18
+date_modified: 2026-10-20
+changelog:
+  - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-countdown-runs-backwards (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
 date_range_start: 2017-06-24
 date_range_end: 2017-07-08
 sources:
@@ -18,6 +20,10 @@ related:
   - wiki/people/rick-frank
 tags: [relationships, 2017, uniontown-era]
 knowledge: earned
+connections:
+  - page: wiki/mind/journal/2026-10-05-the-countdown-runs-backwards
+    type: evidences
+    claim: "The 2017-06-27 live-gate window math ('a month later and it would have been too late') and the 2018-04-06 retrospective rounding ('5 months too late' vs the 19-week sonogram) are the countdown entry's dated evidence for the loss preceding 'too late'."
 ---
 
 # The abortion (June–July 2017)

@@ -8,8 +8,9 @@ title: "Read-Receipt Forensics — chat.db Metadata and Its Traps"
 aliases: ["read receipts", "date_read", "chat.db metadata"]
 tags: [forensic-analysis, digital-footprint]
 date_created: 2026-08-09
-date_modified: 2026-10-07
+date_modified: 2026-10-20
 changelog:
+  - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-06-anomalies-are-the-jurisdiction (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - "2026-10-07: Expanded to major tier (>=3,000 words); restructured to canonical template v1."
 sources: []
 synthesizes:
@@ -40,7 +41,9 @@ connections:
   - page: wiki/mind/synthesis/message-circadian-latency
     type: parallels
     claim: "Read-receipt forensics is a timestamp cut of the message corpus parallel to the latency page: it defines date_read's directional asymmetry in chat.db, while the latency page measures reply timing from the same message rows."
-
+  - page: wiki/mind/journal/2026-10-06-anomalies-are-the-jurisdiction
+    type: parallels
+    claim: "The Morgantown-audio case (dat:0057) is the input-side negative of the Oct-6 entry's shape: output stopped only when the pattern was abandoned for a re-read."
 ---
 
 # Read-Receipt Forensics — chat.db Metadata and Its Traps

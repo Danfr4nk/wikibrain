@@ -6,7 +6,9 @@ tier: major
 status: stable
 knowledge: earned
 date_created: 2026-08-18
-date_modified: 2026-10-07
+date_modified: 2026-10-20
+changelog:
+  - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-handed-mirror (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
 date_range_start: 2025-07-11
 date_range_end: 2025-12-23
 sources:
@@ -51,6 +53,9 @@ connections:
   - page: wiki/interests/rock-irrelevance-thesis
     type: follows
     claim: "The rock-is-dead argument and this rupture are the same ChatGPT session an hour apart, which is why the wiki's most developed music-culture page and its cleanest analysis-delivery failure share a source file."
+  - page: wiki/mind/journal/2026-10-05-the-handed-mirror
+    type: evidences
+    claim: "The 2025-07-11 sequence — verdict delivered to its subject and a witness, rupture twelve minutes eleven seconds later — is the handed-mirror entry's flagship dated case."
 ---
 
 # The James Analysis PDF — 2025-07-11

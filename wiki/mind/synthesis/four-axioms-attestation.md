@@ -5,7 +5,9 @@ page_type: synthesis
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-10-04
+date_modified: 2026-10-20
+changelog:
+  - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-countdown-runs-backwards (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
 sources:
   - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -73,6 +75,9 @@ connections:
     type: parallels
     claim: "The Chemical Architecture is the axioms' enacted counterpart: a sixteen-year regimen Dan frames in his own words as engineered chemical architecture, not recovery."
     claim: "The 'love-bombing, not mortality' reading of the June–July 2026 dossier chain is the romantic register's sincerity-vs-scale split restated as an axiom test."
+  - page: wiki/mind/journal/2026-10-05-the-countdown-runs-backwards
+    type: supplies
+    claim: "The Axiom-4 attestation chronology and the t011 per-thousand table that the Oct-5 countdown entry's profile prior (C13) rests on."
 ---
 
 # The Four Axioms: First Written Attestation

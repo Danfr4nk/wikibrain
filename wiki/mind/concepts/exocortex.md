@@ -5,7 +5,7 @@ title: "The Exocortex (Bootloaders & Master Prompts)"
 aliases: ["CATO", "operating manual", "master forensic prompt", "MAX"]
 status: active
 date_created: 2026-06-22
-date_modified: 2026-10-06
+date_modified: 2026-10-20
 knowledge: earned
 tier: major
 tags: [forensic-analysis, ai-collaboration, personality-profile]
@@ -74,7 +74,12 @@ connections:
   - page: wiki/mind/synthesis/the-forger-and-the-detector
     type: parallels
     claim: "That page's finding — honest by design, uncheckable by construction — is this system's loop stated as an epistemic bound: the exocortex audits outputs, never inputs, and no verification layer independent of the exocortex exists for the exocortex's own outputs."
+  - page: wiki/mind/journal/2026-10-06-the-delegated-surface
+    type: elaborated-by
+    claim: "The Oct-6 entry writes the exocortex's social chapter: row 10's standing instruments (agents, prompts, bootloaders) gain a new class — surfaces operated without being occupied."
 changelog:
+  - date: 2026-10-20
+    change: "Added reciprocal typed edge(s) to 2026-10-06-the-delegated-surface (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - date: 2026-10-06
     change: "Restructured to canonical article template v1 and expanded (~1,650 to ~3,600 body words): story-first lede; claim → evidence (artifact layer, memory layer, substrate) → mechanism → limits of the metaphor; the 2026-09-13 model-map correction folded into Conflicts in the record with dated entries; the Cognitive Foundry edge recarried with its dat:0711 caveat; added Sammy/Jev/DANMODEL/MNEME-era substrate evidence; added Assessment. 'NEW'/'CORRECTED' revision-history sections abolished as top-level openings per template."
 ---

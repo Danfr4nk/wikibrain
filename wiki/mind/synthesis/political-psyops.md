@@ -7,8 +7,9 @@ tags: [politics, forensic-analysis, ideology]
 status: stable
 tier: major
 date_created: 2026-06-22
-date_modified: 2026-10-05
+date_modified: 2026-10-20
 changelog:
+  - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-06-anomalies-are-the-jurisdiction (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - 2026-10-05: "Expanded to major tier; restructured to canonical article template v1"
 sources:
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -54,6 +55,9 @@ connections:
   - page: wiki/self/chats/j6-chat
     type: evidenced-by
     claim: "The J6 chat exhibit is this synthesis's primary exhibit — the anomaly set it adjudicates (ballistics, procedure, crowd behavior, aftermath) is drawn from that record."
+  - page: wiki/mind/journal/2026-10-06-anomalies-are-the-jurisdiction
+    type: parallels
+    claim: "The Oct-6 entry's stop-condition reading at records scale is this synthesis's J6 'hybrid organic event + intelligence co-opt' verdict at political scale: output halting at the labeled, deconfounded conclusion, not at decay of interest."
 ---
 
 

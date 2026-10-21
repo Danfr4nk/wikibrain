@@ -8,7 +8,7 @@ aliases: ["the declaration is the performance", "129 declarations", "severance a
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-10-17
+date_modified: 2026-10-20
 sources:
   - kb/data/0081-explicit-commitment-architecture.md
   - raw/sammy/20261004-1814/operator-testimony-2026-10-04.md
@@ -91,7 +91,11 @@ connections:
   - page: wiki/mind/synthesis/severance-language-atlas
     type: cites
     claim: "That entry supplies the corpus-wide measurement this page was scoped to exclude: 388 declaration-language hits across 25 threads, adjudicated per handle — the vocabulary is system-wide (singletons on dealer, caddy, and group threads) while the performance-without-enactment signature concentrates in the Annie dyad (104 outbound episodes, 100% resumption), replicated at low volume in the Kristin dyad."
+  - page: wiki/mind/journal/2026-10-05-the-countdown-runs-backwards
+    type: evidences
+    claim: "The 2026-08-29 19:55:42 expired-deadline instance — the 24-hour answer condition issued post-expiry, resumption 17 seconds later — is the countdown entry's evidence for urgency arriving as verdict."
 changelog:
+  - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-countdown-runs-backwards (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - 2026-10-03: Restructured to canonical template v1
   - "2026-10-17: Declared framework-v2 layer (interpreted/synthesis); added 4 reciprocal cluster-hub edges (vacancy-rule, severance-2026-synthesis, severance-declaration-audit, severance-language-atlas)."
 ---

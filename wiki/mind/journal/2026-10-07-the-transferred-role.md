@@ -8,8 +8,9 @@ knowledge: derived
 importance: medium
 layer: interpreted/journal
 date_created: 2026-10-07
-date_modified: 2026-10-19
+date_modified: 2026-10-20
 changelog:
+  - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-06-the-delegated-surface (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
   - wiki/work/au-zaatar-41-months.md
@@ -39,6 +40,9 @@ connections:
   - page: wiki/mind/journal/2026-10-04-the-irreversible-channel
     type: parallels
     claim: "Advocacy here is priced as provision-register output (row 21), but the claim is about role transferability, not retraction cost; the two claims are separately falsifiable."
+  - page: wiki/mind/journal/2026-10-06-the-delegated-surface
+    type: parallels
+    claim: "The Oct-7 work pass finds the same portability in the opposite direction: the advocate role survives job loss while payloads die; here the instrument's voice survives his occupancy gap while his direct output stays at the floor."
 ---
 
 # The Transferred Role

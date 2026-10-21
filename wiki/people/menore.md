@@ -3,7 +3,9 @@ domain: people
 page_type: entity
 status: active
 date_created: 2026-06-23
-date_modified: 2026-08-26
+date_modified: 2026-10-20
+changelog:
+  - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-dormant-slot (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
 date_range_start: 2012-10-25
 date_range_end: 2025-07-28
 sources:
@@ -45,6 +47,9 @@ connections:
   - page: wiki/health/cocaine
     type: evidences
     claim: "Menore is the NYC delivery node whose product is never named in-thread — measured: zero product terms in 4,413 messages — but is called 'menore's bags' and distinguished from weed in Dan's other threads, which narrows the six-year, 99.3%-availability service record to a bagged non-cannabis product consistent with cocaine logistics."
+  - page: wiki/mind/journal/2026-10-05-the-dormant-slot
+    type: evidences
+    claim: "The 2,044-day silence answered in 44 seconds (2018-11-04 re-entry), same transactional register resumed — held-verified at dat:1163 — is the dormant-slot entry's lateral-graph dormancy exemplar."
 tags: [digital-footprint, addiction-recovery, nyc-era]
 knowledge: earned
 infobox:
