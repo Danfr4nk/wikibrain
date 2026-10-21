@@ -6,8 +6,9 @@ aliases: ["the-grant-governs", "grant-holder installation", "stated-rule grants"
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-15
-date_modified: 2026-10-15
+date_modified: 2026-10-21
 sources:
   - ~/memory/2026-09-28.md
   - ~/memory/2026-10-06.md
@@ -35,9 +36,12 @@ connections:
   - page: wiki/mind/journal/2026-10-12-the-brief-and-the-mandate
     type: distinguishes
     claim: "That entry prices container lifespan grammars (brief = terminal, mandate = periodic). This entry prices the installation MECHANISM inside any container — what makes a statement install. Different axis; cited, not re-derived."
+changelog:
+  - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Grant Governs
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-15, pass C (installation-governance).**
 

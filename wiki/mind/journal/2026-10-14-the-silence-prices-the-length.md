@@ -6,8 +6,9 @@ aliases: ["silence-prices-the-length", "essay-as-forensic-instrument", "stacked-
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-14
-date_modified: 2026-10-14
+date_modified: 2026-10-21
 sources:
   - wiki/mind/profile/texting-deviance-audit
   - kb/data/1112-texting-deviance-audit-complaint-record-verified
@@ -36,9 +37,12 @@ connections:
   - page: wiki/mind/journal/2026-10-08-the-two-slot-grammar
     type: distinguishes
     claim: "That entry is grammar structure (rule-declarative vs command-imperative slots). This entry is rhythm — the latency→volume curve. No axis shared; the boundary the territory assignment required (no confirmation-settling claims) is honored."
+changelog:
+  - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Silence Prices the Length
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-14, pass B (the silence→length function).**
 

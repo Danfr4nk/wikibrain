@@ -6,8 +6,9 @@ aliases: ["the-month-that-killed-the-patch", "the-labels-one-falsifiable-claim",
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-14
-date_modified: 2026-10-14
+date_modified: 2026-10-21
 sources:
   - wiki/mind/concepts/attachment-model
   - wiki/mind/concepts/autism
@@ -41,9 +42,12 @@ connections:
   - page: wiki/mind/journal/2026-10-13-the-reversed-grantor
     type: distinguishes
     claim: "The Reversed Grantor runs rows 6/19 on incoming explicit orders — her statements installing and revoking his channels' states. This entry shares the same rows in the opposite direction: no statement arrived at all, and the month's absence of installation is the datum. Same grammar, different object — a missing install, not a reversed grantor."
+changelog:
+  - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Month That Killed the Patch
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-14, pass A (the label's one falsifiable claim, August 2026).**
 

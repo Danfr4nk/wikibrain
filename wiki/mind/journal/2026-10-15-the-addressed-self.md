@@ -6,8 +6,9 @@ aliases: ["the-addressed-self", "self-designation-as-addressed-act", "emitted-se
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-15
-date_modified: 2026-10-15
+date_modified: 2026-10-21
 sources:
   - kb/data/0937-enneagram-self-typing-5w6sx-rloei.md
   - kb/data/0050-corpus-traces-of-the-type-are-downstream-of-it.md
@@ -45,9 +46,12 @@ connections:
   - page: wiki/mind/journal/2026-10-14-the-analysis-is-the-product
     type: distinguishes
     claim: "That entry ran the general diagnosis-to-behavior audit on dated insight events. This entry's object is narrower: dated self-designations (typed labels, not forensic diagnoses), and the discriminating question is who the label was emitted to, not whether the analysis terminated a pattern."
+changelog:
+  - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Addressed Self
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-15, pass A (his self-designations as addressed acts).**
 

@@ -6,8 +6,9 @@ aliases: ["the transposing ear", "idea journal 2026-10-13 pass B", "harmonic-fir
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-13
-date_modified: 2026-10-13
+date_modified: 2026-10-21
 sources:
   - wiki/mind/concepts/lyric-qualifier.md
   - kb/data/0076-lyric-qualifier.md
@@ -32,9 +33,12 @@ connections:
   - page: wiki/mind/journal/2026-10-10-the-locked-spec
     type: cites
     claim: "The Locked Spec already carries the 2026-09-11 lyric-qualifier capture as a lock leg. This entry reuses that leg for a different thesis; it is cited from the instrument, not re-derived here."
+changelog:
+  - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Transposing Ear
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 

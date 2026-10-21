@@ -6,8 +6,9 @@ aliases: ["the-stated-word", "idea journal 2026-10-15 pass D", "stated-word-auth
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-15
-date_modified: 2026-10-15
+date_modified: 2026-10-21
 sources:
   - ~/workspace/your_files/report-back-authentication-protocol.md
   - ~/memory/2026-10-13.md
@@ -37,9 +38,12 @@ connections:
   - page: wiki/mind/journal/2026-10-12-the-inverted-check-in
     type: distinguishes
     claim: "The Inverted Check-In prices reassurance-loop initiation direction (pull-to-push). This entry's object is the authentication verdict at the thread opening — a binary gate that runs before any loop content."
+changelog:
+  - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Stated Word
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-15, pass D (speaker identity verified by explicit statement, never by ambient recognition).**
 

@@ -6,8 +6,9 @@ aliases: ["the-analysis-is-the-product", "diagnosis-is-the-deliverable", "forens
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-14
-date_modified: 2026-10-14
+date_modified: 2026-10-21
 sources:
   - kb/interpretations/diagnosis-to-behavior-gap.md
   - wiki/mind/concepts/forensic-method
@@ -49,9 +50,12 @@ connections:
   - page: wiki/mind/journal/2026-10-11-the-chosen-ledger
     type: distinguishes
     claim: "That entry beat the row-9 rival on the wiki-engine mandate regime (rows 15/16/8: figures driving dated engine actions Oct 4–7). This entry's territory is the self-diagnostic record — recounts, overrides, reassurance maps — where the figures drove no dated behavioral delta."
+changelog:
+  - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Analysis Is the Product
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-14, pass D (the diagnosis-to-behavior gap, general claim).**
 

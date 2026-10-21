@@ -6,8 +6,9 @@ aliases: ["the-gated-flood", "register-allocated-output", "asymmetric-register-g
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-15
-date_modified: 2026-10-15
+date_modified: 2026-10-21
 sources:
   - wiki/mind/profile/big-five-psychometrics
   - wiki/mind/profile/texting-deviance-audit
@@ -38,9 +39,12 @@ connections:
   - page: wiki/mind/journal/2026-10-05-the-placement-verdict
     type: distinguishes
     claim: "That entry prices taste verdicts as allocated (placement events) rather than stated. This entry's object is the cross-register allocation cut (verdict-content registers vs attunement registers), not the stated-vs-placed axis inside taste."
+changelog:
+  - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Gated Flood
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-15, pass B (cross-register rate asymmetry).**
 

@@ -6,11 +6,12 @@ aliases: ["the report-back completes it", "narration as terminating statement", 
 status: active
 knowledge: derived
 importance: medium
+layer: interpreted/journal
 date_created: 2026-10-12
-date_modified: 2026-10-12
+date_modified: 2026-10-21
 sources:
   - ~/memory/2026-10-03.md (landscape passage, his ask; report-back rite as charter article)
-  - ~/memory/2026-10-05.md (report-back as price: "full detail, no skipping"; Annie-time report-back order)
+  - "~/memory/2026-10-05.md (report-back as price: 'full detail, no skipping'; Annie-time report-back order)"
   - ~/memory/2026-10-06.md ("report-back required" — Annie encounter rule)
   - ~/memory/2026-10-11.md (the Suz brag, ~17:50 EDT)
   - ~/memory/2026-10-12.md (Annie report-back narrated, rated a solid 7, ~02:10–02:45 EDT)
@@ -29,9 +30,12 @@ connections:
   - page: wiki/mind/concepts/attachment-model
     type: extends
     claim: "The report-back is row 20's witness requirement in domestic form: the narration event is the terminating statement for his experience-output, addressed to the single loaded bond slot (row 11)."
+changelog:
+  - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep. Repaired a pre-existing frontmatter YAML break (unquoted multi-scalar source line) with a content-preserving re-quote."
 ---
 
 # The Report-Back Completes It
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-12, Pass B.**
 

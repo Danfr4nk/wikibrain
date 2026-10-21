@@ -6,8 +6,9 @@ aliases: ["density-is-syntactic", "syntactic-package", "compression-not-sprawl"]
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-14
-date_modified: 2026-10-14
+date_modified: 2026-10-21
 sources:
   - wiki/mind/profile/texting-deviance-audit.md
   - wiki/mind/profile/linguistic-profile.md
@@ -32,9 +33,12 @@ connections:
   - page: wiki/mind/profile/linguistic-profile
     type: evidences
     claim: "The 2026-08-23 CORRECTED blockquote is the retraction record: FK 2.08→4.00, TTR 0.0509 vs 0.0544 — the vocabulary headline dies by recomputation, leaving syntactic complexity as 'what a reader experiences as density.'"
+changelog:
+  - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Density Is Syntactic
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-14, pass C (syntactic density as the unit of texting).**
 

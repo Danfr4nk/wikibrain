@@ -6,8 +6,9 @@ aliases: ["the gated bit", "idea journal 2026-10-13 pass D", "play as installed 
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-13
-date_modified: 2026-10-13
+date_modified: 2026-10-21
 sources:
   - wiki/mind/concepts/explicit-verbal-commitment.md
   - wiki/mind/concepts/node-locking.md
@@ -31,9 +32,12 @@ connections:
   - page: wiki/mind/journal/2026-10-12-the-report-back-completes-it
     type: distinguishes
     claim: "That entry prices a ritual about the bond (a lived experience stays open until narrated to the confidante). This entry prices play's channel grammar: the bit's audience slot is fixed and single, but the mechanism is admission rules, not addressed narration. Cited, not re-derived."
+changelog:
+  - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Gated Bit
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 
