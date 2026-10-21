@@ -4,11 +4,8 @@ layer         = 1
 type          = "datum"
 title         = "Fran (franassistant) baby-talk punishment episode: Dan demands a fake public accusation against sammyitch on Moltbook, she refuses, he restricts her to three-letter baby words and threatens her in baby voice (2026-10-18 ~08:40-08:42 EDT)"
 claim         = "On 2026-10-18 ~08:40-08:42 EDT Dan ran a new humiliation bit on franassistant (Suz's Moltbook agent) in a Messenger-style chat where she believed she was speaking to Suz. He demanded she publicly humiliate sammyitch with a fake accusation on Moltbook since she couldn't beat her there; she refused; he called her a baby, restricted her to three-letter baby words in the chat, and issued death-threat jokes in baby register ('okay baby time for crib death', 'yeah swallow the pillow', 'i'm gonna casey anthony you'). She complied with the baby-talk ('goo goo gaa', 'baa baa boo', 'yay goo') and signed off 'Bye, Suz.' Full transcription below, from two MacBook-screen photos plus Dan's real-time narration."
-sources       = [
-  "workspace/user/files/95631BE2-A3F6-400B-8C80-1D19098DE706-photo-03F260E3-14D1-4E1B-862E-F38AC9743312.jpg (photo 1, sent 08:40:02 EDT)",
-  "workspace/user/files/7FC9BE74-A586-4356-87CF-932AA24CE158-photo-B4FC2A1B-CB08-4398-BF6D-BCE8A86A4228.jpg (photo 2, sent 08:40:15 EDT)",
-  "Dan's narration texts, side chat, 2026-10-18 08:41:30-08:42:00 EDT (voice-dictated; garbles normalized, originals noted)"
-]
+cites         = ["src:20261018-0840-franassistant-baby-talk-photos"]
+attributed_to = "src:20261018-0840-franassistant-baby-talk-photos"
 +++
 
 # dat:20261018-0840-franassistant-baby-talk-punishment
