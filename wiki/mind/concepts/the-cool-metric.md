@@ -17,7 +17,7 @@ infobox:
   key_specimen: "The Turnstile night, 2026-10-04"
   doctrine: "Coolness framing — standing Moltbook rule from 2026-10-04"
 date_created: 2026-08-04
-date_modified: 2026-10-16
+date_modified: 2026-10-22
 sources:
   - src:imessage-corpus-2026
   - src:old-wiki-export-2026-09-04
@@ -66,6 +66,8 @@ changelog:
     change: "Expanded to major tier; restructured to canonical template v1; added the 2026-10-04 Turnstile-night operation, tripwire-naming evidence, and coolness-framing doctrine; old thesis verdicts moved to Conflicts in the record."
   - date: 2026-10-16
     change: "Declared framework-v2 layer (interpreted/concept); added the missing reciprocal parallels edges to the bespoke lexicon and to erotic-architecture."
+  - date: 2026-10-22
+    change: "Book cross-check (Quartz & Asp, Cool, 2016; phase-2 book-mine): appended a dated note recording Rentfrow taste-broadcast support, the rebel-cool lineage, and the tension between the book's audience-decoded cool and this page's sorting metric; DotCool flagged as a different construct under the same word. No existing text altered."
 ---
 # The Cool Metric
 
@@ -227,3 +229,13 @@ The record supports a judgment, and it is this: the metric is load-bearing, not 
 14. kb/data/0076-lyric-qualifier.md — lyrics heard as timbre, not language.
 15. wiki/interests/music/concepts/sub-bass-signature.md — 63–85% post-hoc signature, all aliases.
 16. wiki/interests/rock-irrelevance-thesis.md — "automatically lame," 2026-06-22; source chat reference unresolved.
+
+## Book cross-check — Quartz & Asp, *Cool* (2016) — 2026-10-22
+
+*Added 2026-10-22 by the phase-2 book-mine of Quartz & Asp, Cool (src:cool-quartz-asp-2016). Dated note only; nothing above is altered.*
+
+**Support.** The book's Ch. 5 presentation of the Rentfrow programme — listeners infer personality, values and tribe from music taste with deep shared consensus — supports this page's finding that the provenance filter operates socially whether or not it is aimed: the broadcast is received by anyone who can read the code [dat:2075]. The book's Ch. 7 cultural history also documents the lineage of the "cool counterculture" register this metric's rhetoric draws on, including that lineage's conservative gender politics [dat:2084].
+
+**Tension — stated plainly.** The book's "cool" and this page's cool metric are different constructs under one word, and they pull in opposite directions at one joint. For Quartz & Asp, cool is a status signal that audiences decode regardless of the sender's intent; for this page, Dan's metric treats the chosen as suspect and only the involuntary as evidence. The book's evidence does not refute the page's two-instrument split — the intake filter's measurements stand — but it pressures the page's description of the social half as mere "exhaust": on the Rentfrow evidence, the performed half is also a functioning transmission, received and scored by audiences even when the sender disowns it. The tension is recorded, not resolved.
+
+**Do not merge.** The book's DotCool — friendly, competent, creative, the knowledge economy's status register — is not this page's cool/lame binary [dat:2085]. Any future synthesis that cites *Cool* on this page must say which "cool" it means.
