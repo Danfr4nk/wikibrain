@@ -11,6 +11,7 @@ sources:
   - workspace/wiki-sync/scratchpad/2026-09-22-conspiracy-verdicts.md
   - workspace/your_files/book-reports/family-of-secrets-report.md
   - workspace/your_files/book-reports/gideons-spies-report.md
+  - workspace/your_files/book-reports/webb-vol1-report.md
   - workspace/wiki-sync/scratchpad/2026-09-22-conspiracy-worldview-analysis.md
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/wiki/new-wiki/wikibrain/wiki/self/chats/j6-chat.md
@@ -27,6 +28,7 @@ tags: [politics, ideology, conspiracy, complete-log]
 changelog:
   - "2026-10-21: Book-mine phase 2 — Baker (Family of Secrets) JFK cross-check note added under verdict #1; date_modified bumped."
   - "2026-10-21: Book-mine phase 2 — Thomas (Gideon's Spies) cross-check notes added under verdicts #2 (9/11) and #12 (Diana)."
+  - "2026-10-21: Book-mine phase 2 — Webb Vol. 1 cross-check note added under verdict #17 (CIA and the crack epidemic)."
 ---
 
 # Conspiracy Theory Verdicts
@@ -281,6 +283,19 @@ particularly after the Iran-Contra blowup.
 **Corpus status:** new-on-record. Historically literate motive in one
 line: post-Iran-Contra funding continuity. Budgets need feeding —
 the economic-reductionism thread applied to covert war.
+
+**Book cross-check (2026-10-21 — Whitney Webb, *One Nation Under
+Blackmail* Vol. 1, Chs. 7–8):** Strengthens the funding-mechanism
+framing. Webb's drug/Contra material was adjudicated **adds up (high
+confidence)**: drug money and Contra support were entangled, and US
+agencies protected traffickers when exposure threatened operations —
+the Kerry Committee's own finding, quoted in the book report, is that
+Seal associates' prosecutions were dropped despite "strong protests"
+from law enforcement because prosecution "might have revealed national
+security information." That is official-record support for the
+protection mechanism behind this verdict; it is about the Contra-era
+cocaine milieu and prosecutorial protection, not by itself proof of
+the crack-distribution claim, and Dan's verdict is unchanged.
 
 ### 18. The Federal Reserve — gut vs official
 
