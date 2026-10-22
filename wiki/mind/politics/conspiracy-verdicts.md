@@ -10,6 +10,7 @@ date_modified: 2026-10-21
 sources:
   - workspace/wiki-sync/scratchpad/2026-09-22-conspiracy-verdicts.md
   - workspace/your_files/book-reports/family-of-secrets-report.md
+  - workspace/your_files/book-reports/gideons-spies-report.md
   - workspace/wiki-sync/scratchpad/2026-09-22-conspiracy-worldview-analysis.md
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/wiki/new-wiki/wikibrain/wiki/self/chats/j6-chat.md
@@ -25,6 +26,7 @@ related:
 tags: [politics, ideology, conspiracy, complete-log]
 changelog:
   - "2026-10-21: Book-mine phase 2 — Baker (Family of Secrets) JFK cross-check note added under verdict #1; date_modified bumped."
+  - "2026-10-21: Book-mine phase 2 — Thomas (Gideon's Spies) cross-check notes added under verdicts #2 (9/11) and #12 (Diana)."
 ---
 
 # Conspiracy Theory Verdicts
@@ -99,6 +101,21 @@ he accepts real hijackers (no no-plane maximalism) *and* rigged
 buildings *and* a possible Pentagon missile *and* Mossad as the driver,
 with CIA involvement the explicit open question. The hybrid template
 in its purest form: real event, operation layered on top.
+
+**Book cross-check (2026-10-21 — Gordon Thomas, *Gideon's Spies*,
+Chs. 18, 29):** Two tensions, neither adjudicated strong enough to
+move this verdict. (1) Thomas reports Mossad 9/11 warnings allegedly
+ignored by Washington and "art students" as Mossad vigilance-testing
+in US federal facilities (Ch. 18) — a Mossad-as-warner framing that
+sits in tension with the Mossad-as-driver position above; the book
+report gives this material no high-confidence adjudication, and
+Thomas's sourcing on such claims is single-thread. (2) Thomas quotes
+Steven Jones's thermite thesis at length alongside a Mossad analyst's
+rebuttal of it (Ch. 29) — the thermite literature is the academic form
+of the rigged-buildings element above, and the rebuttal Thomas carries
+is from an interested institutional source. Both items are logged here
+as context only; Dan's verdict and its open CIA question are
+unchanged.
 
 ### 3. Moon landing (1969) — reject
 
@@ -208,6 +225,19 @@ the superseded original preserved for the record.
 **Position:** Doesn't know enough about it to take one.
 
 **Corpus status:** new-on-record.
+
+**Book cross-check (2026-10-21 — Gordon Thomas, *Gideon's Spies*,
+Chs. 1, 18):** Thomas's Diana narrative — a secret post-crash Mossad
+investigation, MI6/CIA teams in Paris, the white Fiat Uno loaded into
+a removal van and crushed, a minute-by-minute timetable — was
+adjudicated **doesn't hold (high confidence)** in the book report: its
+load-bearing report is never quoted, reproduced, or attributed to a
+named investigator, its NSA intercept counts drift between chapters
+(about 1,050 / 1,051 / 1,015 pages), and its opening Henri Paul
+material is written in modal reconstruction ("would have," "may well
+have"). That failure weakens the conspiracy side of this entry and is
+consistent with Dan's no-position stance; it does not convert
+no-position into a rejection, and Dan's verdict is unchanged.
 
 ### 13. Marilyn Monroe's death (1962) — no position
 
