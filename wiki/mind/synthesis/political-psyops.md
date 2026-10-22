@@ -7,8 +7,9 @@ tags: [politics, forensic-analysis, ideology]
 status: stable
 tier: major
 date_created: 2026-06-22
-date_modified: 2026-10-20
+date_modified: 2026-10-21
 changelog:
+  - "2026-10-21: Book-mine phase 2 — added psyops cross-checks section (Baker, Thomas, Webb Vols. 1-2) with documented mechanisms beyond J6 and flagged limits."
   - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-06-anomalies-are-the-jurisdiction (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - 2026-10-05: "Expanded to major tier; restructured to canonical article template v1"
 sources:
@@ -26,6 +27,10 @@ sources:
   - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/chatgpt-export/babbitt-shooting-psyop-debate-2025-06-15.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - "raw/googlechat/the-j6-chat.md"
+  - "Russ Baker, Family of Secrets (2009) — Chs. 12, 21, 23 (Team B, Nayirah, Continuity of Government/FEMA)"
+  - "Gordon Thomas, Gideon's Spies, 5th ed. (2009) — Chs. 3, 16, 24, 26 (LAP false attribution, rendition architecture)"
+  - "Whitney Webb, One Nation Under Blackmail Vol. 1 — Chs. 4, 9, 10 (Roy Cohn favor bank, Inslaw/PROMIS)"
+  - "Whitney Webb, One Nation Under Blackmail Vol. 2 — Ch. 21 (TIA/Palantir and Main Core, limits note only)"
 synthesizes:
   - wiki/mind/concepts/dans-law
   - wiki/mind/concepts/forensic-method
@@ -404,6 +409,88 @@ stress-test material — no loyalty to any team sport, forensic default
 always on.
 
 The ideology this page treats as settled has a documented birthday: the COVID-lockdown conversion of 2020-08-22, self-narrated in the message record and argued at [[wiki/mind/synthesis/2020-left-turn]] — Bernie 2020 as the electoral on-ramp, the dirtbag-left pipeline as the vehicle, the family union-busting guilt as the clinch.
+
+## Book-mining cross-checks (2026-10-21): documented mechanisms beyond J6
+
+The four-book mine (phase 1 adjudications, 2026-10-21) was checked against
+this page's architecture — manufactured imagery, false attribution,
+narrative weaponization, and emergency-powers infrastructure — not
+imported wholesale. What follows are only the mechanisms that genuinely
+extend that architecture, each cited to book and chapter with its phase-1
+confidence. These are documented mechanisms in the books, not Dan's
+verdicts on the books, and nothing here revises the J6 conclusion above.
+
+- **Manufactured atrocity as war salesmanship — the Nayirah testimony**
+  (Russ Baker, *Family of Secrets*, Ch. 21). Hill & Knowlton's coached
+  witness selling the 1991 Gulf War under George H. W. Bush is treated in
+  the book as a canonical manufactured-atrocity case: a perception product
+  built to move a public toward war, the direct pre-J6 analogue of this
+  page's "point was the imagery" mechanism. Confidence: high on the
+  manufactured-testimony mechanics as a documented historical case;
+  phase 1 flagged it as canonical precedent and raised no contrary finding.
+- **Manufactured threat assessment — Team B** (Baker, Chs. 12, 21). Under
+  DCI George H. W. Bush, Team B is named as a mechanism for manufacturing
+  threat assessments to order — politicization of intelligence as a
+  production process, not a bias. It extends the page's architecture from
+  event imagery to the upstream assessment layer that licenses events.
+  Confidence: medium-high on Team B as a named, documented exercise;
+  the politicization framing is Baker's, flagged as such in phase 1.
+- **False attribution as psychological warfare — LAP** (Gordon Thomas,
+  *Gideon's Spies*, Ch. 3; Lockerbie attribution spinning, Ch. 16).
+  Thomas documents LAP as Mossad's psychological-warfare function,
+  including false attributions — TWA 800 pinned on Iran and the Atlanta
+  Olympics bombing pinned on Hezbollah (Ch. 3). Confidence: medium on
+  LAP as a named institutional function; low-medium on Thomas's specific
+  attribution examples, which are his sourcing, not court record.
+- **Control without orders — Roy Cohn's "favor bank"** (Whitney Webb,
+  *One Nation Under Blackmail* Vol. 1, Chs. 4, 10). Webb models Cohn's
+  favor bank as a general mechanism of political control: debts, favors
+  and kompromat-adjacent leverage held in reserve rather than spent.
+  Confidence: medium-high on Cohn's documented legal/professional record
+  (court records and SEC filings, Vol. 1 Ch. 4); medium on the favor-bank
+  as a general model, which is Webb's synthesis of that record.
+- **Stolen surveillance software — the PROMIS split** (Webb Vol. 1,
+  Ch. 9). Load-bearing, high confidence: a federal bankruptcy court found
+  the Justice Department "took, converted, stole" Inslaw's PROMIS software
+  through "trickery, fraud, and deceit," and FBI files obtained through
+  FOIA document a foreign-counterintelligence investigation into Robert
+  Maxwell's efforts to sell PROMIS to Sandia National Laboratory, halted
+  on orders from FBI headquarters and the Meese DOJ in August 1984, with
+  Maxwell signing the Sandia contract in February 1985. **Provenance
+  warning — parasitic noise, not fact:** the trapdoor/back-door
+  superstructure built on that core rests solely on the Ari Ben-Menashe /
+  Gordon Thomas source pool and is unproven in phase 1; it is not asserted
+  here. The documented theft and marketing are the mechanism that extends
+  this page: state seizure and covert redistribution of a data-integration
+  tool, without the trapdoor claim.
+- **Emergency powers as command vehicle — Continuity of Government and
+  FEMA** (Baker, Ch. 23). The book's nearest approach to the modern
+  emergency-powers lane: EO 12656, the 9/11 shadow government, and the
+  $385M KBR detention-centers contract, alongside the documented gutting
+  of FEMA and its staffing with unqualified loyalists. Confidence: high
+  on the FEMA gutting and on the cited instruments/contracts as
+  documents; Baker's further claim that Michael Brown's rise traces to
+  the Bush organization specifically is not carried here (phase 1:
+  medium, unsupported beyond ordinary cronyism).
+- **Rendition architecture** (Thomas, Chs. 24, 26). The CIA rendition
+  system as documented infrastructure: Premier Executive Transport
+  Services aircraft (Gulfstream N379P, Boeing 737 N313P), the
+  Szczytno-Szymany refuelling base, Craig Murray's November 2004 memo to
+  Jack Straw alleging CIA-acknowledged torture in Uzbekistan, and Khaled
+  el-Masri's mistaken-identity rendition. Confidence: high — flight logs,
+  Murray's memo and el-Masri's documented case converge in phase 1.
+
+**Limits — flagged, not asserted.** Two assigned cross-checks were kept
+to this note only. (1) *Main Core blackmail extension* (Webb Vol. 1,
+Ch. 9; Vol. 2, Ch. 21): Main Core's existence has multi-source journalistic
+support, but the claim that Walter Raymond used it to blackmail Congress
+is single-anonymous-source, Webb citing her own 2019 reporting —
+unresolved, low-medium, and not a finding of this page. (2) *TIA to
+Palantir succession* (Webb Vol. 2, Ch. 21): TIA's defunding, its components'
+dispersal, Palantir's 2003 incorporation, In-Q-Tel as first investor and
+the CIA as sole client until 2008 are documented; the lineage claim
+itself rests on a design-philosophy analogy with no transfer document —
+low confidence, unresolved.
 
 ## Conflicts in the record
 
