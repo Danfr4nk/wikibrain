@@ -39,3 +39,11 @@ Hear → Like → promote to crate: 91.3% of crate tracks passed through Liked. 
 - A crate era with genre concentration AND energy variance would kill the energy-floor claim.
 - Sustained artist/label concentration in a future crate would kill the anti-loyalty claim.
 - The Shostakovich waltz and Frank Ocean 'Thinkin Bout You' outliers remain unexplained — a tightly filtered crate admitting two slow sung sincere records; function unknown (set-closer? joke? genuine left turn?).
+
+## Book cross-check (2026-10-22) — Quartz & Asp, *Cool*
+
+*Dated note appended by the phase-2 book-mine of Cool (src:cool-quartz-asp-2016); the pattern above is unaltered.*
+
+- **Broadcast.** The stack's output is received socially: listeners read personality, values and tribe off taste with shared consensus (Rentfrow, via Cool Ch. 5) [dat:2075]. The pattern describes intake; the book documents reception. Both halves are needed to explain what a crate does once it circulates.
+- **A churn mechanism the falsifiers do not cover.** Berger & Heath's divergence finding (Cool Ch. 6): identity signals are abandoned when adopted by dissimilar audiences, through signal dilution rather than quality change [dat:2076]. A future crate era could therefore show artist turnover that looks like filter change but is signal maintenance. Any falsifier test run on turnover alone should control for adoption-driven abandonment first.
+- **The crate's social price.** In the DotCool register the costly part of a signal is information cost, not money (Berger & Ward, via Cool Ch. 8) [dat:2077]. The filter stack is exactly that cost made visible: the pass rate is the receipt for knowledge that cannot be copied with the playlist.
