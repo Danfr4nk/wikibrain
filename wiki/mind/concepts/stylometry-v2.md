@@ -289,3 +289,10 @@ the same numbers, and a heavy user's tolerance floor differs from a
 naive user's. STREAM is a calibration instrument for *within-person,
 within-day* comparisons anchored to his own labels, not a drug test. See
 `dat:1857-stream-typing-instrument-20260921`.
+
+
+---
+
+## Note added 2026-10-22 — Hart, *Drug Use for Grown-Ups* (2021), phase-2 book-mine
+
+dat:2101 records Hart's methodological core claim (Ch. 4): a single-scan cross-sectional brain-imaging difference, with no baseline and no behavioral measure, is variance, not damage — the brain-disease frame overclaims what imaging can show. It supports, from an independent discipline, the discipline this page already practices: a within-person longitudinal baseline (Dan's own 2011–2026 outbound record), self-confirmed labels as calibration ground truth, a flag read as a style shift and not a diagnosis, and no substance signature claimed before five genuinely distinct labeled episodes. dat:2095 (dose, route, set and setting) is the companion frame for the calibration episodes this engine depends on — Dan's self-labeled first line of September 11, 2026 and the logged cocaine-heavy day of September 21, 2026 are dose-and-phase labels of exactly the kind Hart's critique requires and a single unlabeled snapshot cannot replace. No claim on this page is altered.
