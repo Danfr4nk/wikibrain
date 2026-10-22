@@ -6,8 +6,9 @@ aliases: ["the-container-leaves-the-cargo", "idea journal 2026-10-16 pass A", "p
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-16
-date_modified: 2026-10-16
+date_modified: 2026-10-21
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - ~/workspace/wiki-sync/repos/wikibrain/wiki/work/au-zaatar.md
@@ -41,9 +42,12 @@ connections:
   - page: wiki/mind/journal/2026-10-11-the-chosen-ledger
     type: distinguishes
     claim: "The Chosen Ledger prices the LOC mandate as a container. This entry's containers are dated employer roles (2021–2024, 2016–2019, 2026). Same row-8 lineage, different container class; its verdict is cited, never re-derived."
+changelog:
+  - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Container Leaves the Cargo
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-16, pass A (employment tenures as Shape-6 objects: prosthetic or monument).**
 

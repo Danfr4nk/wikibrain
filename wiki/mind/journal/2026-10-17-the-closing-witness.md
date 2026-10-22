@@ -6,8 +6,9 @@ aliases: ["the closing witness", "duplicate closure", "the duplicate closes the 
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-17
-date_modified: 2026-10-17
+date_modified: 2026-10-21
 sources:
   - wiki/self/2018-spending-analysis.md
   - wiki/self/2019-spending-analysis.md
@@ -31,9 +32,12 @@ connections:
   - page: wiki/mind/journal/2026-10-05-the-dormant-slot
     type: distinguishes
     claim: "That entry concerns bond slots re-loading occupants. This entry concerns item lines closing after duplicates. No shared evidence, no shared mechanism."
+changelog:
+  - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Closing Witness
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-17, pass A (the spending cluster, Ti closed-set completion).**
 

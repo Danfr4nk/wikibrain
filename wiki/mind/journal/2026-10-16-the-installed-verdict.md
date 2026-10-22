@@ -6,8 +6,9 @@ aliases: ["the-installed-verdict", "ground-truth-as-explicit-statement", "jev-gr
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-16
-date_modified: 2026-10-16
+date_modified: 2026-10-21
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - ~/workspace/goals/jev-typed-decision-gating-evaluation-for-wiki-brain/hidden_files/jev-lab/README.md
@@ -42,9 +43,12 @@ connections:
     type: distinguishes
     claim: "That entry's stated words are authentication tokens in a LIVE channel (the check-word). This entry's stated words are LABELS on held records (his explicit correction text, his kb datum nodes) that install the machine's thresholds. Same profile primitive (rows 5/6), opposite direction: one authenticates the speaker, the other installs the judge."
 
+changelog:
+  - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Installed Verdict
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior
 

@@ -6,8 +6,9 @@ aliases: ["portrait-aimed tools", "the misfire gradient"]
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-18
-date_modified: 2026-10-18
+date_modified: 2026-10-21
 sources:
   - wiki/mind/profile/texting-deviance-audit
   - wiki/mind/profile/lexicon
@@ -34,9 +35,12 @@ connections:
   - page: wiki/mind/journal/2026-10-06-the-fossil-portrait
     type: distinguishes
     claim: "The fossil-portrait entry mines the portrait's *origin* (a small real 2015–19 vocabulary lead frozen as identity). This entry mines what gets *built on* the portrait — the tools."
+changelog:
+  - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Wrong Addressee
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-18, pass B (self-directed exocortex tooling).**
 

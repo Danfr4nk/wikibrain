@@ -6,8 +6,9 @@ aliases: ["the-slot-guard", "monitoring-register-firing-condition", "loaded-slot
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-18
-date_modified: 2026-10-18
+date_modified: 2026-10-21
 sources:
   - wiki/mind/profile/big-five-psychometrics
   - wiki/mind/concepts/social-anxiety
@@ -43,9 +44,12 @@ connections:
   - page: wiki/mind/journal/2026-10-10-the-one-outsider
     type: evidences
     claim: "The addressed-private-access rule (exactly one outsider at a time) bounds the monitor: with one loaded slot, there is one read being guarded. The concentration of monitoring hits in the dominant dyad of the 2011-2018 slice is the register's residue of the same architecture."
+changelog:
+  - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Slot Guard
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-18, pass A (the monitoring register).**
 

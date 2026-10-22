@@ -6,8 +6,9 @@ aliases: ["the-install-grammar", "idea journal 2026-10-16 pass B", "imperative-g
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-16
-date_modified: 2026-10-16
+date_modified: 2026-10-21
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - ~/workspace/wiki-sync/repos/wikibrain/wiki/mind/concepts/reassurance-architecture.md
@@ -35,9 +36,12 @@ connections:
   - page: wiki/mind/journal/2026-10-04-the-one-way-valve
     type: distinguishes
     claim: "The One-Way Valve prices credence flow (input/output) in the decision pipeline. This entry's object is the attachment-request register — what grammatical shape emitted need takes — not the decision pipeline."
+changelog:
+  - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Install Grammar
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-16, pass B (the imperative grammar of need: in the attachment register, need is emitted as executable instruction, never as open question).**
 

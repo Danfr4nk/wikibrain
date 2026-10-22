@@ -6,8 +6,9 @@ aliases: ["the-zero-initiation-default", "suspension-not-improvisation", "ambigu
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-18
-date_modified: 2026-10-18
+date_modified: 2026-10-21
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - ~/memory/2026-10-06.md
@@ -49,9 +50,12 @@ connections:
   - page: wiki/mind/profile/big-five-psychometrics
     type: evidences
     claim: "The 0.73x initiation-rate count bounds this entry's scope: initiation exists without explicit rules in social contact, so the zero-initiation default is scoped to mandate-governed episodes."
+changelog:
+  - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Zero-Initiation Default
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-18, pass C (action initiation under ambiguity).**
 

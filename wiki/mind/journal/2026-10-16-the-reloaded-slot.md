@@ -6,8 +6,9 @@ aliases: ["the-re-loaded-slot", "idea journal 2026-10-16 pass D", "slot-operatin
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-16
-date_modified: 2026-10-16
+date_modified: 2026-10-21
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - ~/workspace/wiki-sync/repos/wikibrain/wiki/people/ally-lubin.md
@@ -41,9 +42,12 @@ connections:
   - page: wiki/mind/journal/2026-10-12-the-report-back-completes-it
     type: distinguishes
     claim: "The Report-Back Completes It owns the derivation that the report-back is the terminating statement (row 20). This entry uses the report-back ritual as a dated observable of the slot's grammar — the terminating-statement component — and cites that derivation rather than re-running it."
+changelog:
+  - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Re-Loaded Slot
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-16, pass D (the bond slot as operating system; grammar inheritance across the Aug–Sep 2026 occupant change).**
 

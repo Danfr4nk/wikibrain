@@ -6,8 +6,9 @@ aliases: ["the-test-that-cant-run", "c3 structural closure"]
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-17
-date_modified: 2026-10-17
+date_modified: 2026-10-21
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/concepts/autism
@@ -44,9 +45,12 @@ connections:
   - page: wiki/meta/open-questions
     type: evidences
     claim: "The one live re-opener for C3 — the question 'answerable by Dan directly in one paragraph' (when the self-identification happened and what prompted it) — is the same paragraph that would carry the sensory/developmental facts this test needs; the test's future is one stated paragraph, not one more sweep."
+changelog:
+  - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Test That Can't Run
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-17, pass B (conflict C3's discriminating test: sensory/childhood-developmental evidence).**
 

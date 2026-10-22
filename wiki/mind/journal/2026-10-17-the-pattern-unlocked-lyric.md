@@ -6,8 +6,9 @@ aliases: ["pattern-unlocked lyric", "the lyric exception condition", "pattern-co
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-17
-date_modified: 2026-10-17
+date_modified: 2026-10-21
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/concepts/lyric-qualifier.md
@@ -35,9 +36,12 @@ connections:
   - page: wiki/mind/journal/2026-10-06-anomalies-are-the-jurisdiction.md
     type: evidences
     claim: "The row-4 mechanism this entry invokes — attention allocates to the pattern-break — is that entry's object; cited, not re-derived."
+changelog:
+  - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Pattern-Unlocked Lyric
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-17, pass D (the lyric exception, row 18's boundary case).**
 

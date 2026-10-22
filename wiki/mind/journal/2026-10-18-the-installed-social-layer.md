@@ -6,8 +6,9 @@ aliases: ["installed social layer", "sociality as installation", "2026-10-18 pas
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-18
-date_modified: 2026-10-18
+date_modified: 2026-10-21
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/profile/big-five-psychometrics.md
@@ -51,9 +52,12 @@ connections:
   - page: wiki/mind/concepts/contact-gini
     type: evidences
     claim: "The concentration floor (0.961 outbound / 0.9556 inbound) that bounds the claim: the inventory's universe is the few loaded channels, not the 496-handle tail."
+changelog:
+  - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Installed Social Layer
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-18, pass D (social layer as explicit installs).**
 
