@@ -9,7 +9,7 @@ perspective = "llm"
 importance = 4
 tags       = ["meta", "instrument", "ai-collaboration"]
 created    = "2026-09-09"
-updated    = "2026-09-09"
+updated    = "2026-10-22"
 falsifiers = [
   "A year passes with the subject never reading the published wiki again and no second correction loop ever closing. The instrument reading would then have one instance, and one instance is an anecdote.",
   "The forensic sessions turn out to produce no decision or correction anywhere in the record — every session's output absorbed as narrative, none of it acted on. An instrument that is never steered by is decoration.",
@@ -121,3 +121,11 @@ it.
   as an evidence class: verified scaffolding, uncheckable conclusions.
 - [big-five-self-typing](big-five-self-typing.md) — the self-report versus
   instrument-measurement case study.
+
+## Book cross-check (2026-10-22) — Quartz & Asp, *Cool*
+
+*Dated note appended by the phase-2 book-mine of Cool (src:cool-quartz-asp-2016); the interpretation above is unaltered.*
+
+**Tension.** This page lists, among its alternatives, that the wiki "is a performance of rationality rather than its practice: the apparatus exists to demonstrate forensic seriousness to readers." The book's signaling evidence strengthens one specific half of that alternative without settling it. Sexton & Sexton's conspicuous-conservation mechanism — a costly, hard-to-fake public display whose value depends on being seen — fits the wiki's standing fully-public form [dat:2080], and the behavioral finding that status feedback motivates in its own right reads the line-count floor as partly a recognition feed [dat:2079]. On the book's evidence, the wiki performs a status-and-competence signal for its readership whether or not it also functions as an instrument.
+
+Both readings can hold at once, and the page's load-bearing instance for the instrument reading — the closed correction loop of 2026-09-09 — is untouched by the book. What the cross-check changes is the alternative's status: "performance" is no longer only a deflationary possibility to be argued against; it names a documented second function, running in parallel, that any future revision of this interpretation should carry alongside the instrument thesis rather than beneath it.
