@@ -6,9 +6,10 @@ title: "Conspiracy Theory Verdicts"
 aliases: ["conspiracy verdicts", "conspiracy positions"]
 status: active
 date_created: 2026-09-22
-date_modified: 2026-09-22
+date_modified: 2026-10-21
 sources:
   - workspace/wiki-sync/scratchpad/2026-09-22-conspiracy-verdicts.md
+  - workspace/your_files/book-reports/family-of-secrets-report.md
   - workspace/wiki-sync/scratchpad/2026-09-22-conspiracy-worldview-analysis.md
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/wiki/new-wiki/wikibrain/wiki/self/chats/j6-chat.md
@@ -22,6 +23,8 @@ related:
   - wiki/self/chats/j6-chat
   - wiki/self/chats/9-11-chat
 tags: [politics, ideology, conspiracy, complete-log]
+changelog:
+  - "2026-10-21: Book-mine phase 2 — Baker (Family of Secrets) JFK cross-check note added under verdict #1; date_modified bumped."
 ---
 
 # Conspiracy Theory Verdicts
@@ -62,6 +65,24 @@ Pigs; Bobby Kennedy's war on organized crime.
 engagement but no prior stated position — today's verdict is
 new-on-record. Note the plural suspect class: three distinct parties,
 each with a distinct motive, in coalition rather than monolith.
+
+**Book cross-check (2026-10-21 — Russ Baker, *Family of Secrets*,
+Chs. 2, 4, 6, 12):** Strengthens the CIA-adjacency premise of this
+verdict without establishing its operational claim. Baker documents,
+from paper rather than atmosphere: the Nov. 29, 1963 Hoover memo
+naming "Mr. George Bush of the Central Intelligence Agency" and the
+collapse of the CIA's substitute-Bush alibi (that man's own sworn
+deposition refutes it); Poppy Bush's Nov. 22, 1963 Tyler phone call
+in an FBI memo; declassified CIA contact reports placing Poppy's
+business partner Thomas Devine (WUBRINY/1) with Oswald's Dallas
+contact George de Mohrenschildt in April 1963; and Poppy's concealed,
+continuing de Mohrenschildt relationship through 1976–77. The book
+report's adjudication: high confidence Poppy had an intelligence
+relationship in 1963 serious enough to require a fabricated denial;
+the book does **not** establish an operational role in the
+assassination itself, and it does not document the mob /
+Israeli-intelligence / Cuban-exile coalition as such. Dan's verdict
+above is unchanged — this is a cross-check note, not a new verdict.
 
 ### 2. 9/11 (2001) — believe
 
