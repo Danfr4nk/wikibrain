@@ -728,3 +728,44 @@ cannot show its stages has not been cross-checked.
   bond-scaling hierarchy beyond the dated person-gates is unheld; named
   open test: the next dated explicit access-grant. 1 Stage-2 restart
   preserved in Genesis.
+
+
+### 2026-10-22
+
+- [[wiki/mind/journal/2026-10-22-the-consent-gate|Entry 1 —
+  The Consent Gate]]: his synthetic-likeness line is a binary person-gate
+  keyed to authenticated consent, not taste — himself transformed (Oct 21
+  couples image) and fresh fictional faces (€ab adult batches) are freely
+  commissioned; the gate fires only at real person + no authenticated
+  consent, and consent authenticates laterally (the person's own stated
+  word, never relayed through him — the mom-impersonation relay rule).
+  Rows 1/5/6/12. PASS — high confidence, attention-level; 0 restarts.
+- [[wiki/mind/journal/2026-10-22-zero-variation-slots|Entry 2 —
+  Zero Variation Slots]]: his chosen comfort/consumption protocols run
+  with zero variation slots (same Taco Bell order every time, dark
+  driving house 125–130 BPM with a lyric gate and violation detector,
+  cayenne on everything, exact drill briefs, hard octave boundary, the
+  fully spec'd printer recipe) while imposed structures are endured or
+  repurposed — rigidity tracks chosenness (row 15), not a global trait.
+  Hypothesis grade, honestly capped — the rigidity facts are testimony,
+  the imposed-side discriminator evidence is leaning; named upgrade path
+  (a repeat-count diary log) and falsifier. 0 restarts.
+- [[wiki/mind/journal/2026-10-22-the-installed-palate|Entry 3 —
+  The Installed Palate]]: taste judgments execute as binary gates (row 1)
+  against an installed exocortical constitution (row 10) — read before ANY
+  ranking, judges reports without being amended by them, changes only on
+  his explicit correction ("the crown is his call"), running closed-set
+  slot mechanics (the K3YN0T3 crowning = binary #1 + named TBD kick
+  against a 98-entry set verified closed twice; the 70-track canon
+  locked). Rows 1/10/4. PASS — high confidence at the stated bounds;
+  0 restarts; Shape-4 rival split the registers (intake accumulates,
+  the canon completes), Shape-6 lost to the valence-pass refinement.
+- [[wiki/mind/journal/2026-10-22-the-audit-arrives-with-the-order|Entry 4 —
+  The Audit Arrives with the Order]]: his commissions name their own
+  acceptance evidence at issuance — verification (receipts, diff-and-
+  rebase, live confirmation, lines-vs-floor) is an item in the order,
+  not a follow-up; the audit hook governs done-ness, not production
+  volume. Rows 4/10/20/2. PASS — high confidence on the narrowed claim;
+  0 restarts; the Shape-6 rival beaten 4 of 5 dated legs, the
+  LOC-production-volume leg honestly left standing as the rival's open
+  leg.
