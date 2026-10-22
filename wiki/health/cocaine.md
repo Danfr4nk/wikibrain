@@ -510,3 +510,8 @@ better living" reading a bare dosage increase might otherwise invite.
   after) is not on record.
 
 
+---
+
+## Note added 2026-10-22 — Hart, *Drug Use for Grown-Ups* (2021), phase-2 book-mine
+
+New datum nodes from Carl L. Hart's *Drug Use for Grown-Ups* (2021), mined 2026-10-22 (source: `src:drug-use-for-grown-ups-hart-2021`), bear on this page as follows. **Supports:** Hart's dose / route / set / setting frame (dat:2095) gives the pharmacology vocabulary for treating dose, route and context as the operative variables, and his crack/powder finding (dat:2099) confirms route and form, not a unique molecule, drive cocaine's intensity differences. **Tension, stated plainly:** this page's dosage arc reads Dan's quantity as finance-driven — 1 g/day to 3.5–7 g/day to 0.5–1 g/day tracking an inheritance, with the contraction a resource adjustment rather than moderation and no internal ceiling stated — and that reading tensions against any reassurance use of Hart's "most users never become addicted" aggregate (dat:2097, written in its honest form: lifetime-ever-user denominator, risk concentrating with frequency, dose and comorbidity) and against extending Hart's laboratory drug-vs-money choice results (dat:2098) from procurement-level control to dose-level titration. The Hart nodes carry that tension in their Limits; nothing on this page is altered by this note, and no Hart claim is presented as Dan's belief.
