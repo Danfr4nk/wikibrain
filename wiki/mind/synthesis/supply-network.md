@@ -611,3 +611,8 @@ personality-profile citations, which the pass explicitly declined as
 decorative given this page's own argument does not need them.
 
 
+---
+
+## Note added 2026-10-22 — Hart, *Drug Use for Grown-Ups* (2021), phase-2 book-mine
+
+Hart's policy and supply evidence (source: `src:drug-use-for-grown-ups-hart-2021`) supports this page's infrastructure reading at two points, and adds no new personal material. dat:2100: Brazil's 2006 reform, which decriminalized personal use without defining a personal-use quantity, left the user/trafficker decision to street police and saw drug arrests rise from about 10 percent to nearly a third of all arrests — the discretion mechanism that falls on the supplier nodes this page documents (the Menore crew most directly), and a reminder that buyer-side reform of the Portuguese panel kind does nothing for the suppliers, while a Brazil-style undefined reform does not reliably protect even the buyer. dat:2096: contamination of an unregulated supply, and testing as its countermeasure, is the risk layer underneath this network's documented premium for tested product. This page's existing positions on Suz as a participant in the network and on Annie-era procurement are untouched by Hart — the book contains nothing about either, and this note adds nothing about either beyond recording that absence.
