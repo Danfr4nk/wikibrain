@@ -493,3 +493,8 @@ correspondent (Dan, on +17242083475 through 2020 and +16467376955 from
 and "fentanyl warning" lines are all Dan texting Suz.
 
 
+---
+
+## Note added 2026-10-22 — Hart, *Drug Use for Grown-Ups* (2021), phase-2 book-mine
+
+Two Hart datum nodes (source: `src:drug-use-for-grown-ups-hart-2021`) price documented features of this operation that this page records without a public-health frame. dat:2096 (contamination as the main kill-risk in an unregulated supply; checking/testing as the countermeasure) is the public-health version of the premium documented in the phase-1 anchors for this mine — $60 / 0.5 g and $100 / 1 g, characterized by Dan in part as paying for tested product, with a fentanyl warning already circulating in this thread — and it prices part of what the February 2025 end of Dan's documented delivery relationship with this service removed: a benchmark supplier whose product identity was part of the price. dat:2100 (Brazil: decriminalization without a defined personal-use quantity leaves the user/trafficker line to police discretion) names the enforcement mechanism that falls on a three-man delivery crew of exactly this kind, and through whom Dan's own legal exposure in this record ran. Framing care: the phase-1 anchor's "service ended February 2025" is the end of Dan's documented deliveries; this page's own later correction — that the February 2025 farewell was not a settled clean close and the operator is confirmed still operating in 2026 — stands unaltered and is not contradicted by anything in Hart.
