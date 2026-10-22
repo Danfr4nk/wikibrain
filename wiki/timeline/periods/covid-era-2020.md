@@ -28,7 +28,7 @@ related:
   - wiki/people/rod-banks
   - wiki/people/suzanne-frank
   - wiki/people/sam
-  - wiki/people/seth-ledonne
+  - wiki/people/sena-ledonne
   - wiki/people/jerad-friedline
   - wiki/people/ally-lubin
   - wiki/work/fastly-fsly
@@ -42,7 +42,7 @@ connections:
   - page: wiki/people/sam
     type: co-occurs
     claim: "The Sam thread's May–September 2020 resumption is street-level documentation of the siege months: deliveries negotiated around rides, breakdowns, and a dealer reduced to asking 'You still in ny.'"
-  - page: wiki/people/seth-ledonne
+  - page: wiki/people/sena-ledonne
     type: evidenced-by
     claim: "Dan's June 7, 2020 real-time account — '8pm curfew... it's been like living in beirut' — documents the George Floyd-protest curfew period in Manhattan from inside the lockdown year, alongside a still-undecided 2020 vote (unwilling to back Biden as of April)."
   - page: wiki/self/location-history
@@ -389,9 +389,9 @@ coverage gaps are itemised after the log.
   and primary-text reading are what he converts *to*.
 - **2020-04-14** — The conversation turns political: *"i still vote in PA and
   subsequently feel like, extra responsible about it"* — and as of this
-  month he is unwilling to back Biden. [[wiki/people/seth-ledonne]]
+  month he is unwilling to back Biden. [[wiki/people/sena-ledonne]]
 - **2020-04-17** — **Estate advance, $7,500.** Same day, unprompted, an
-  extended thank-you to [[wiki/people/seth-ledonne|Seth LeDonne]] for an
+  extended thank-you to [[wiki/people/sena-ledonne|Sena LeDonne]] for an
   adolescent education he now credits directly: *"growing up in 'the scene'
   and being exposed to things like Rejected Gazette and the entire vibe of
   things..."*
@@ -413,7 +413,7 @@ coverage gaps are itemised after the log.
 
 - **2020-06-02** — Suz: *"I went to vote."* [[wiki/people/suzanne-frank]]
 - **2020-06-04** — Suz: *"I have what my mother never will."*
-- **2020-06-07** — To Seth, during the George Floyd-protest curfew: *"8pm
+- **2020-06-07** — To Sena, during the George Floyd-protest curfew: *"8pm
   curfew... it's been like living in beirut... that's pretty much what all of
   manhattan has been like."* Asked directly whether he attended protests, the
   conversation is deflected.
@@ -633,7 +633,7 @@ Fayette County records nobody has pulled.
   [[wiki/health/suboxone-dose-curve]],
   [[wiki/mind/synthesis/chemical-architecture]] — the supply record
 - [[wiki/people/suzanne-frank]], [[wiki/people/diane-moore]],
-  [[wiki/people/seth-ledonne]], [[wiki/people/ally-lubin]],
+  [[wiki/people/sena-ledonne]], [[wiki/people/ally-lubin]],
   [[wiki/people/emaly-minerd]], [[wiki/people/bekah-fullem]]
 - `kb/events/2020-09-27-annie-del-recording` — the September 27 recording
 - [[wiki/meta/open-questions]] — the $10,000 double-dating

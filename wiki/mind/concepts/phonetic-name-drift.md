@@ -12,9 +12,9 @@ connections:
   - page: wiki/self/substack/committee-to-re-elect-the-president-critical-reading
     type: parallels
     claim: "Same drift at a larger scale: the Substack audit found Dan's analysis elite and his surface record of it wrong (18 months remembered as 'over two years,' confidence retrofitted). Structure retained, surface reconstructed."
-  - page: wiki/people/seth-ledonne
+  - page: wiki/people/sena-ledonne
     type: contrasts
-    claim: "The inverse case: in the Seth thread the archive drifted (old wiki silently 'corrected' Dan's 'beruit' and stitched his quotes) while Dan's held text was exact. Drift runs both directions; the corpus is the arbiter either way."
+    claim: "The inverse case: in the Sena thread the archive drifted (old wiki silently 'corrected' Dan's 'beruit' and stitched his quotes) while Dan's held text was exact. Drift runs both directions; the corpus is the arbiter either way."
   - page: wiki/mind/synthesis/the-scoreboard
     type: contextualizes
     claim: "The running ledger where stated-vs-recorded divergences get scored; this entry is the name-level instance of the pattern the scoreboard tracks at prediction scale."
@@ -53,5 +53,5 @@ It is one clean datum, complete at this size. It promotes to a major article if 
 ## Related major articles
 
 - [Critical reading of the Substack run](wiki/self/substack/committee-to-re-elect-the-president-critical-reading.md) — the same split at corpus scale
-- [Seth LeDonne](wiki/people/seth-ledonne.md) — the inverse case, archive-side drift
+- [Sena LeDonne](wiki/people/sena-ledonne.md) — the inverse case, archive-side drift
 - [The scoreboard](wiki/mind/synthesis/the-scoreboard.md) — where stated-vs-recorded divergences are scored

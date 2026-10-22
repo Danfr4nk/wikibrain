@@ -20,12 +20,12 @@ connections:
   - page: wiki/people/joe-oshnack
     type: evidenced-by
     claim: "Joe's Aug 2018 setlist-reconstruction thread and Sept 2021 retrospective are the corpus's primary sources on the band — Dan names himself lead songwriter for the originals."
-  - page: wiki/people/seth-ledonne
+  - page: wiki/people/sena-ledonne
     type: evidenced-by
-    claim: "Seth is named as one of the scene mentors (with Andy, Paul, Nathan, Kessler) whose harsh, high-standards hardcore/punk scene the band operated inside of, and 'Rejected Gazette' as a named zine/scene touchstone of the same milieu."
+    claim: "Sena is named as one of the scene mentors (with Andy, Paul, Nathan, Kessler) whose harsh, high-standards hardcore/punk scene the band operated inside of, and 'Rejected Gazette' as a named zine/scene touchstone of the same milieu."
   - page: wiki/interests/opie-and-anthony
     type: parallels
-    claim: "Both are formative teenage counterculture immersions Dan explicitly credits decades later — the hardcore scene via Seth LeDonne, the shock-radio archive via years of solo listening — that trained the same anti-normie, no-flinch aesthetic register."
+    claim: "Both are formative teenage counterculture immersions Dan explicitly credits decades later — the hardcore scene via Sena LeDonne, the shock-radio archive via years of solo listening — that trained the same anti-normie, no-flinch aesthetic register."
   - page: wiki/people/joe-oshnack
     type: evidences
     claim: "Joe is one of two named bandmates (with Matt Turko), and his thread is the primary source for the band's setlist and the 2021 political retrospective on covering Dead Kennedys' 'California Uber Alles.'"
@@ -75,9 +75,9 @@ married with kids and a career, as of 2021.
 
 ## The scene around it
 
-[[wiki/people/seth-ledonne|Seth LeDonne]]'s own thread supplies the
+[[wiki/people/sena-ledonne|Sena LeDonne]]'s own thread supplies the
 surrounding culture rather than the band itself: a named group of
-scene mentors — Seth, Andy, Paul, Nathan, Kessler — whose "visceral
+scene mentors — Sena, Andy, Paul, Nathan, Kessler — whose "visceral
 disdain" for anything perceived as inauthentic (Dan recalls being
 mocked for a tie-dye "311 concert" shirt at a hardcore basement show)
 Dan credits, decades later, as "developmental" and the direct source of
@@ -136,4 +136,4 @@ basement-vs-venue question is answered: Shorty's, a real stage.)
 
 Why incidental: a closed high-school band — three named members, a reconstructed setlist, two photographs; the record is this size.
 
-Related major articles: [Joe Oshnack](wiki/people/joe-oshnack.md) · [Seth LeDonne](wiki/people/seth-ledonne.md) · [Opie and Anthony](wiki/interests/opie-and-anthony.md)
+Related major articles: [Joe Oshnack](wiki/people/joe-oshnack.md) · [Sena LeDonne](wiki/people/sena-ledonne.md) · [Opie and Anthony](wiki/interests/opie-and-anthony.md)

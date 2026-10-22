@@ -1,12 +1,12 @@
 ---
 domain: people
 page_type: entity
-title: "Seth LeDonne"
+title: "Sena LeDonne"
 tier: major
 status: closed
 knowledge: mixed
 date_created: 2026-07-19
-date_modified: 2026-10-04
+date_modified: 2026-10-22
 date_range_start: 2020-03-10
 date_range_end: 2020-06-23
 sources:
@@ -17,8 +17,8 @@ sources:
   - "src:old-wiki-export-2026-09-04 (corpus__3.txt line 66879, 88 lines) — the page-attributed testimony this entry originally rested on; historical provenance of the page's phrasing."
 tags: [uniontown-era, politics, digital-footprint, music-production]
 infobox:
-  name: "Seth LeDonne"
-  sex: male
+  name: "Sena LeDonne"
+  sex: female
   location: uniontown
   relationship_to_dan: friend
   known_for: "One of the named figures Dan credits with his early hardcore/punk counterculture education; COVID-era NYC contact, including a real-time account of the June 2020 curfew"
@@ -28,18 +28,19 @@ connections:
     claim: "Dan's June 7, 2020 real-time account — '8pm curfew' / 'it's been like living in beruit' [sic] — documents the George Floyd-protest curfew period in Manhattan from inside the lockdown year, alongside a still-undecided 2020 vote (unwilling to back Biden as of April)."
   - page: wiki/interests/music/bands/batteries-not-included
     type: evidences
-    claim: "Seth is named as one of the scene mentors (with Andy, Paul, Nathan, Kessler) whose harsh, high-standards hardcore/punk scene the band operated inside of, and 'Rejected Gazette' as a named touchstone of the same milieu."
+    claim: "Sena is named as one of the scene mentors (with Andy, Paul, Nathan, Kessler) whose harsh, high-standards hardcore/punk scene the band operated inside of, and 'Rejected Gazette' as a named touchstone of the same milieu."
   - page: wiki/interests/opie-and-anthony
     type: parallels
-    claim: "Both are formative teenage counterculture immersions Dan explicitly credits decades later — the hardcore scene via Seth LeDonne, the shock-radio archive via years of solo listening — that trained the same anti-normie, no-flinch aesthetic register."
+    claim: "Both are formative teenage counterculture immersions Dan explicitly credits decades later — the hardcore scene via Sena LeDonne, the shock-radio archive via years of solo listening — that trained the same anti-normie, no-flinch aesthetic register."
 changelog:
   - "2026-10-03: Full rewrite to canonical template v1 — source audit folded in (kb dat:1166), scene and COVID-spring sections expanded, provenance carried in Conflicts in the record."
-  - "2026-10-04: Corrected against the held thread (Messenger Drive export): quotations restored to Dan's primary text, protest-question attribution corrected (Seth deferred his own question), 'unreturned call' corrected to missed call from Seth, Conflicts rewritten; see kb/sources/seth-ledonne-thread-provenance-2026-10-04.md."
+  - "2026-10-04: Corrected against the held thread (Messenger Drive export): quotations restored to Dan's primary text, protest-question attribution corrected (Sena deferred her own question), 'unreturned call' corrected to missed call from Sena, Conflicts rewritten; see kb/sources/seth-ledonne-thread-provenance-2026-10-04.md."
+  - "2026-10-22: Renamed and rewritten under her current name, Sena LeDonne, at Dan's direction (name correction; see Conflicts in the record); pronouns corrected throughout; share snapshot resynced."
 ---
 
-# Seth LeDonne
+# Sena LeDonne
 
-Seth LeDonne is a Uniontown-scene friend who occupies a small thread
+Sena LeDonne is a Uniontown-scene friend who occupies a small thread
 and a large debt. The thread is a single Facebook conversation from the
 spring of 2020 — 47 messages across three and a half
 months — and it carries two things at once: a real-time account of New
@@ -48,8 +49,8 @@ moments in Dan's corpus where he names, specifically and by name, the
 people he credits for his taste.
 
 The debt is the larger half. On April 17, 2020, unprompted, Dan wrote
-Seth an extended thank-you for an adolescent education in hardcore and
-punk counterculture — naming Seth alongside Andy, Paul, Nathan, and
+Sena an extended thank-you for an adolescent education in hardcore and
+punk counterculture — naming Sena alongside Andy, Paul, Nathan, and
 Kessler as the mentors whose disdain taught him what authenticity was
 supposed to cost. It is a strange, warm, deliberately masochistic
 letter: gratitude for cruelty, offered two decades later, by a man who
@@ -70,7 +71,7 @@ not.
 Dan came up through the Uniontown-area hardcore and punk scene of the
 early 2000s, and by his own account the scene was not welcoming — it
 was a standard he failed against, repeatedly, in public. The fixed
-points he names are people, not bands: Seth, Andy, Paul, Nathan,
+points he names are people, not bands: Sena, Andy, Paul, Nathan,
 Kessler. Around them orbits a zine he names in the same breath —
 "rejected gazette," in his own lowercase — which he names as a
 touchstone of the same milieu,
@@ -123,10 +124,10 @@ perform enthusiasm for a process he considers rigged, the instinct
 that applause is evidence against — has, on the evidence of this one
 letter, an earlier address: a basement show, a wrong shirt, and five
 people who would not pretend otherwise. The April 17 letter is Dan
-acknowledging the installation, twenty years on, to the man whose
-name the wiki files it under. That is why a mentor gets a page. The
+acknowledging the installation, twenty years on, to the friend whose
+name this page is filed under. That is why a mentor gets a page. The
 others in the group are named in it; the thread that carried the
-acknowledgment was Seth's.
+acknowledgment was Sena's.
 
 ## The April 17 letter
 
@@ -185,7 +186,7 @@ years of solo listening, no one present, no one to thank, the credit
 assigned to an archive. The April 17 letter is the opposite shape.
 The influence is a *group*, the mechanism is *enforcement in person*,
 and the credit is assigned to five living people by name, in writing,
-in a message they could answer. Nothing else in the Seth record —
+in a message they could answer. Nothing else in the Sena record —
 and very little anywhere in Dan's — works that way.
 
 The timing is also part of the evidence. The letter is written six
@@ -201,7 +202,7 @@ The formation gets inventoried in the same weeks the present is
 being dismantled. Whatever produced that ordering, the thread is
 where it happened.
 
-And the debt is stated in a form that cannot be collected on. Seth
+And the debt is stated in a form that cannot be collected on. Sena
 and the mentors have no lever on a thirty-one-year-old in Manhattan
 in 2020; the letter asks for nothing, proposes nothing, and is not
 repaid. That asymmetry is consistent with the one quality Dan
@@ -221,7 +222,7 @@ of the country still treated it as weather elsewhere.
 
 By April 14 the conversation turns political, and it turns in a way
 that dates precisely. Dan still votes in Pennsylvania, and he tells
-Seth he feels "extra responsible about it" for exactly that reason —
+Sena he feels "extra responsible about it" for exactly that reason —
 and then, more than six months before the general election, refuses
 the vote the responsibility is supposed to produce:
 
@@ -267,14 +268,14 @@ from inside it in real time, in three short messages:
 
 The comparison is doing reportorial work, not rhetorical:
 a curfew, an emptied and militarized street grid, a city whose normal
-signals had been replaced by emergency ones. Seth asks directly
+signals had been replaced by emergency ones. Sena asks directly
 whether Dan attended protests — and then, thirteen seconds later,
-withdraws his own question: "Actually let's talk about this later
-I WILL CALL," citing a class he had to finish by twelve. The question
-was never Dan's to deflect; it was Seth's to postpone, and Dan's only
+withdraws her own question: "Actually let's talk about this later
+I WILL CALL," citing a class she had to finish by twelve. The question
+was never Dan's to deflect; it was Sena's to postpone, and Dan's only
 reply was "go! talk later." Two weeks of diminishing contact follow,
-and the thread ends on June 23 with a missed-call notice: Seth
-called, Dan missed it. The zine Seth had offered to mail went, on
+and the thread ends on June 23 with a missed-call notice: Sena
+called, Dan missed it. The zine Sena had offered to mail went, on
 this record, unconfirmed.
 
 What the thread amounts to, taken whole, is a three-act contemporaneous
@@ -291,14 +292,14 @@ corpus record is small:
 | Defining content | The counterculture tribute (Apr 17); the curfew account (Jun 7) |
 
 Nothing in the held corpus continues the thread past June 23, 2020.
-Whether Dan attended any 2020 protests, whether the zine Seth offered
-to mail ever arrived, and where Seth is now are all unanswered by the
+Whether Dan attended any 2020 protests, whether the zine Sena offered
+to mail ever arrived, and where Sena is now are all unanswered by the
 record — the friendship's documented life is this one spring.
 
 ## The questions the thread leaves open
 
 The thread ends the way it documents: abruptly, and with its most
-direct question answered by nobody. Seth asks whether Dan attended
+direct question answered by nobody. Sena asks whether Dan attended
 the protests — the only question in the exchange aimed at what Dan
 *did* rather than what he saw or believed — and then withdraws it
 himself, thirteen seconds later, before Dan can answer: "Actually
@@ -310,19 +311,21 @@ re-asked in any held record. Whatever Dan did or didn't do that
 June, this thread does not say, and closing the question here would
 be invention.
 
-The other loose ends are smaller and stay smaller. Seth called on
+The other loose ends are smaller and stay smaller. Sena called on
 June 23; the record carries only the missed-call notice, so whether
-they ever spoke is unrecorded. A zine mailing was offered — Seth's
+they ever spoke is unrecorded. A zine mailing was offered — Sena's
 own zine, address exchanged — and its arrival never confirmed.
-Seth's circumstances after June 2020 are not in the held corpus at
+Sena's circumstances after June 2020 are not in the held corpus at
 all. These are the ordinary gaps of a correspondence that stops
 rather than concludes — noted here at their true size, which is
 small, and at their true status, which is unresolved.
 
 ## Conflicts in the record
 
+- **Name, corrected 2026-10-22.** This article previously carried Sena's former name, Seth LeDonne. On 2026-10-22 Dan corrected the record: she is Sena LeDonne, as her public Facebook profile gives it, and this article was renamed and rewritten under her current name and pronouns; the former name is retained only in this note. Dan's 2026-10-03 Instagram message to her also used the former name, and he intends to apologize to her for that. (Source citations on this page keep the archive's own filenames and thread keys, which contain the former name as held.)
+
 - **The thread is held; the page's earlier sourcing note is stale.**
-  The full Seth thread — 47 messages, 2020-03-10 to 2020-06-23 —
+  The full Sena thread — 47 messages, 2020-03-10 to 2020-06-23 —
   survives in the canonical Messenger Drive export
   (`raw/messenger-drive-2026-09-12/messenger_drive_canonical.jsonl`,
   record source `gdrive-fb-20220905`). The earlier audit (kb dat:1166,
@@ -343,13 +346,13 @@ small, and at their true status, which is unresolved.
   capitalized his lowercase "rejected gazette" into a formal title.
   The quotations now stand as Dan wrote them.
 - **One attribution was inverted, corrected 2026-10-04.** Earlier
-  versions said Dan deflected Seth's protest-attendance question and
-  cited a class obligation. The held thread shows Seth deferring his
+  versions said Dan deflected Sena's protest-attendance question and
+  cited a class obligation. The held thread shows Sena deferring her
   own question ("Actually let's talk about this later I WILL CALL")
-  and citing his own class deadline. The thread's ending was likewise
+  and citing her own class deadline. The thread's ending was likewise
   misdescribed as an "unreturned call" by Dan: the June 23 record is
-  a missed-call notice — Seth called, Dan missed it. Dan's protest
-  attendance remains open (see above), but the reason is Seth's
+  a missed-call notice — Sena called, Dan missed it. Dan's protest
+  attendance remains open (see above), but the reason is Sena's
   postponement, not Dan's evasion.
 - **Message count.** Earlier versions put the thread at ~40 messages
   from the old wiki's rendering; the canonical record holds 47,
@@ -359,7 +362,7 @@ small, and at their true status, which is unresolved.
 
 ## Assessment
 
-Seth LeDonne's entry is small because the record is small, and its
+Sena LeDonne's entry is small because the record is small, and its
 weight is out of proportion to its size for two reasons. First, the
 April 17 letter is the corpus's clearest instance of Dan naming the
 human sources of his taste — five people, one scene, one standard —
@@ -373,7 +376,7 @@ spring, a missed call at the end of it. What survives is the
 debt, stated once and plainly, by the man who owed it.
 
 What would still change this entry is not verification — the quotes
-are verified now — but continuation: anything of Seth past June
+are verified now — but continuation: anything of Sena past June
 2020, or of Dan at the 2020 protests, sits outside the held record.
 Until evidence for either surfaces, the entry stands as corrected.
 

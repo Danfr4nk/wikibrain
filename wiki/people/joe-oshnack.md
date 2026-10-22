@@ -63,7 +63,7 @@ doesn't close. A August 2018 exchange reconstructs
 setlist from memory — Misfits, Dead Kennedys, Ramones, NOFX covers
 alongside originals Dan wrote as "lead songwriter" — good corroborating
 detail for the corpus's picture of Dan's teenage hardcore/punk
-immersion (see also [[wiki/people/seth-ledonne]]).
+immersion (see also [[wiki/people/sena-ledonne]]).
 
 ## "An annoying little conservative fuckcunt"
 
