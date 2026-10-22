@@ -9,8 +9,9 @@ aliases:
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-20
-date_modified: 2026-10-20
+date_modified: 2026-10-22
 sources:
   - ~/memory/2026-10-05.md
   - ~/memory/2026-10-07.md
@@ -42,9 +43,12 @@ connections:
   - page: wiki/work/bfs-foods
     type: evidences
     claim: "The $50 demand-refusal leg (demand-scoped hold; job channel reopened 2026-08-11), carried as page testimony."
+changelog:
+  - "2026-10-22: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Re-Arming Latch: His "No"s Break and Re-Install Rather Than Hold Forever
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 

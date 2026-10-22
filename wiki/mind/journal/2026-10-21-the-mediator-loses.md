@@ -9,8 +9,9 @@ aliases:
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-21
-date_modified: 2026-10-21
+date_modified: 2026-10-22
 sources:
   - ~/memory/2026-10-18.md
   - ~/memory/2026-10-19.md
@@ -30,9 +31,12 @@ connections:
   - page: wiki/mind/journal/2026-10-20-memory-is-a-vertical-claim
     type: distinguishes
     claim: "That entry owns memory-vs-record adjudication. This entry's Fran and kill-switch legs appear here ONLY as the asymmetry datum (stated word < primary artifact); the adjudication logic is cited by boundary, not re-derived."
+changelog:
+  - "2026-10-22: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Mediator Loses: Stated Word Beats the Instrument, Artifact Beats the Word
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 

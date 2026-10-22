@@ -6,8 +6,9 @@ aliases: ["the-exit-that-wasnt", "eviction-without-severance", "closure-by-housi
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-20
-date_modified: 2026-10-20
+date_modified: 2026-10-22
 sources:
   - wiki/people/alexis-armel
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
@@ -30,9 +31,12 @@ connections:
   - page: wiki/mind/synthesis/dormancy-not-exit
     type: instantiates
     claim: "This entry is the Alexis-eviction instantiation of that synthesis page's retention policy: a former primary partner behaviorally removed and then re-tasked into the successor bond's operations (Nov 2018) and carried as warm correspondence for five more years — retention as policy, not inertia."
+changelog:
+  - "2026-10-22: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Exit That Wasn't
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-20, pass A (the Alexis eviction and its aftermath).**
 

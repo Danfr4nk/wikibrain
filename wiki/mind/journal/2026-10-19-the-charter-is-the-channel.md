@@ -6,8 +6,9 @@ aliases: ["the-charter-is-the-channel", "idea journal 2026-10-19 pass B", "bond-
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-19
-date_modified: 2026-10-19
+date_modified: 2026-10-22
 sources:
   - ~/memory/groups/goon-club.md
   - ~/memory/2026-10-08.md
@@ -30,9 +31,12 @@ connections:
   - page: wiki/mind/journal/2026-10-11-the-installed-name
     type: distinguishes
     claim: "The Installed Name prices name-orders as identity-state installs. This entry's object is institution-standing installs — certificates and charters governing roster standing and institutional life. Same row-6 machinery, different object: identity states vs institutional standing."
+changelog:
+  - "2026-10-22: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Charter Is the Channel
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-19, pass B (a relationship's binding state is formalized in a written instrument, and the instrument governs: signed/unsigned is a binary cliff, and the charter opens, closes, and reopens the institution).**
 

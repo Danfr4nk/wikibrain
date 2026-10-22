@@ -6,8 +6,9 @@ aliases: ["the-commitment-arrives-whole", "idea journal 2026-10-19 pass A", "bin
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-19
-date_modified: 2026-10-19
+date_modified: 2026-10-22
 sources:
   - wiki/people/alexis-armel.md
   - wiki/people/annie-ulmer.md
@@ -28,9 +29,12 @@ connections:
   - page: wiki/mind/journal/2026-10-05-the-dormant-slot
     type: distinguishes
     claim: "The Dormant Slot proves the slot outlasts the occupant (dormancy, never deletion). This entry's object is the onset side of the same architecture — the gate closes at full load in days, with no graded courtship curve in between. Onset grammar, not dormancy grammar."
+changelog:
+  - "2026-10-22: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Commitment Arrives Whole
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-19, pass A (bond onset as a binary gate at full load: no hedged intermediate states in the dated record between first contact and full-load commitment markers).**
 

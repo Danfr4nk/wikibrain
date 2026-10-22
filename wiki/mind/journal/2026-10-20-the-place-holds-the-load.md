@@ -6,8 +6,9 @@ aliases: ["the-place-holds-the-load", "idea journal 2026-10-20 pass B", "spatial
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-20
-date_modified: 2026-10-20
+date_modified: 2026-10-22
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - ~/workspace/wbrepro/wiki/self/location-history.md
@@ -29,9 +30,12 @@ connections:
   - page: wiki/mind/journal/2026-10-16-the-reloaded-slot
     type: distinguishes
     claim: "The Re-Loaded Slot proves the bond slot re-loading on occupant change (rows 6/19, attachment domain). This entry's object is the spatial slot: home addresses re-loading place-attention across the 2019 base change. Same vocabulary ('re-loads'), different object — the attachment slot is its object; the place slot is mine."
+changelog:
+  - "2026-10-22: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Place Holds the Load
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-20, pass B (the concentration grammar is spatial, but the load-bearing spatial slots are home addresses, not chosen venues: place-attention loads onto the home pin at Gini-like steepness, re-loads under stress and base change rather than dispersing, and the sole non-home breaker is work-signed — places never get chosen-channel treatment).**
 

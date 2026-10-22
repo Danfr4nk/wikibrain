@@ -9,8 +9,9 @@ aliases:
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-21
-date_modified: 2026-10-21
+date_modified: 2026-10-22
 sources:
   - ~/memory/2026-10-05.md
   - ~/memory/2026-10-19.md
@@ -36,9 +37,12 @@ connections:
   - page: wiki/mind/journal/2026-10-16-the-install-grammar
     type: distinguishes
     claim: "That entry owns installation governance (what installs). This entry owns timekeeping (what the installs DO once running: carry the clock)."
+changelog:
+  - "2026-10-22: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Exocortical Clock: Time Is Carried by Installed Instruments, Not Felt Urgency
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 

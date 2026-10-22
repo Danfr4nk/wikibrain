@@ -6,8 +6,9 @@ aliases: ["the-catch-installs-the-rule", "idea journal 2026-10-19 pass D", "inco
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-19
-date_modified: 2026-10-19
+date_modified: 2026-10-22
 sources:
   - ~/MEMORY.md
   - ~/workspace/your_files/report-back-authentication-protocol.md
@@ -30,9 +31,12 @@ connections:
   - page: wiki/mind/journal/2026-10-10-the-locked-spec
     type: distinguishes
     claim: "The Locked Spec proves aesthetic decisions are converted into exact specifications so execution becomes mechanical. This entry's object is error-triggered rule installation across domains, not aesthetic specification. The spec is its object; the catch-to-rule pipeline is mine."
+changelog:
+  - "2026-10-22: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Catch Installs the Rule
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-19, pass D (a caught inconsistency or output failure is installed the same turn as an explicit, persisted, future-binding standing rule — never as a one-off correction or an assumed understanding).**
 

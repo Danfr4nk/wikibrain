@@ -6,8 +6,9 @@ aliases: ["memory-is-a-vertical-claim", "idea journal 2026-10-20 pass D", "the-u
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-20
-date_modified: 2026-10-20
+date_modified: 2026-10-22
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - ~/workspace/wiki-sync/repos/wikibrain/wiki/people/fran-coldren.md
@@ -29,9 +30,12 @@ connections:
   - page: wiki/mind/journal/2026-10-17-the-pattern-unlocked-lyric
     type: cites
     claim: "The Pattern-Unlocked Lyric cites the 2026-10-06 anomalies entry for the row-4 outward attention mechanism; this entry extends the citation to row 4's INWARD attested instance (the Fran retraction) and does not re-derive the outward reading."
+changelog:
+  - "2026-10-22: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Memory Is a Vertical Claim
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-20, pass D (the forensic method applied inward: his own memory treated as an untrusted narrator against the dated record; dated memory-vs-record adjudication cases, 2018 and 2026).**
 

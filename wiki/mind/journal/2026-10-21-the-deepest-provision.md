@@ -9,8 +9,9 @@ aliases:
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-21
-date_modified: 2026-10-21
+date_modified: 2026-10-22
 sources:
   - ~/memory/2026-10-05.md
   - ~/memory/2026-10-19.md
@@ -32,9 +33,12 @@ connections:
   - page: wiki/mind/journal/2026-10-07-the-archive-is-the-argument
     type: distinguishes
     claim: "That entry is about the archive as an argumentative instrument (the record cited to win claims). This entry is about the archive as provision: access to the records themselves, gated by bond, in the countable-acts register."
+changelog:
+  - "2026-10-22: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Deepest Provision: Primary-Record Access Is Gated by Bond-Load
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 
