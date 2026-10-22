@@ -6,7 +6,7 @@ aliases: ["wiki-brain", "the wiki", "second brain", "the repository"]
 status: active
 knowledge: earned
 date_created: 2026-08-19
-date_modified: 2026-10-04
+date_modified: 2026-10-22
 importance: critical
 tags: [ai-collaboration, digital-footprint, personality-profile, forensic-analysis]
 sources: []
@@ -859,3 +859,12 @@ The wiki-brain will continue to compound insight as long as the core loop runs. 
 **What would falsify this:** a synthesis page whose thesis is "these things are related" rather than a falsifiable rule. A ground page that leads with corpus statistics instead of the story. A correction applied silently, with the old claim deleted. A source declared ingested when it was only skimmed. A writeback cron that reports nothing for three consecutive runs.
 
 The wiki-brain is not a finished product. It is a process — one that gets more valuable the longer it runs, because every finding written back is a finding that never has to be re-derived.
+
+
+## Book cross-check — Quartz & Asp, *Cool* (2016) — 2026-10-22
+
+*Added 2026-10-22 by the phase-2 book-mine of Quartz & Asp, Cool (src:cool-quartz-asp-2016). Dated note only; nothing above is altered.*
+
+Two findings from the book bear on what this page describes. First, status feedback motivates in its own right (behavioral form; the book's scan-based version fails and is not used) — which reads the daily line-count floor this system runs under as, in part, a recognition feed rather than a pure output metric [dat:2079]. Second, the book's conspicuous-conservation mechanism (Sexton & Sexton: a costly, hard-to-fake public display gains value from being seen) fits this repository's standing fully-public form — raw material and personal numbers included — and predicts the recorded refusal to privatize it [dat:2080].
+
+**Tension, recorded not resolved.** This page's framing is mining and instrument: the wiki exists to extract hidden connections and improve a model of one life. The book adds a second, simultaneous function — display to an audience whose regard registers on a local ladder [dat:2078]. The two functions do not contradict each other's facts, but any account of why the floor feels structural, or why publicity survives its costs, that uses only the instrument framing is missing the half the book documents. See also kb/interpretations/wiki-brain-as-instrument.md, cross-checked the same day.
