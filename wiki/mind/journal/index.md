@@ -6,7 +6,7 @@ aliases: ["idea journal", "the journal"]
 status: active
 layer: interpreted/index
 date_created: 2026-10-03
-date_modified: 2026-10-21
+date_modified: 2026-10-23
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -769,3 +769,47 @@ cannot show its stages has not been cross-checked.
   0 restarts; the Shape-6 rival beaten 4 of 5 dated legs, the
   LOC-production-volume leg honestly left standing as the rival's open
   leg.
+
+
+### 2026-10-23
+
+- [[wiki/mind/journal/2026-10-23-the-essay-is-a-probe|Entry 1 —
+  The Essay Is a Probe]]: under silence, the long turn is a
+  channel-state probe, not content transmission — reply = channel alive,
+  continued silence = channel dead; the 23.1% abandonment rate is the
+  probe's cost, the past-1-day collapse (17.2% → 6.8% essay rate) its
+  timeout. Rows 37/38/5/1/23/42. PASS — high confidence, 0 restarts;
+  the vent rival beaten on the channel-scope and bucket-shape
+  discriminators; the episode-level reply-de-escalation discriminator
+  named as the open test, not evidence.
+- [[wiki/mind/journal/2026-10-23-too-late-marks-the-closed-set|Entry 2 —
+  Too Late Marks the Closed Set]]: "too late" at 1.86× is the
+  closed-set marker in his temporal vocabulary — it fires only where a
+  completion condition exists and is named (a cutoff, a sonogram week,
+  a clock hour, a completed action); prospective urgency starves
+  (0.35–0.42×) because it points at open sets. Rows C13/41/1/5.
+  PASS — 0 restarts; 6 of 6 readable instances attach to a named
+  condition; the interior axiom unloaded, the unread ~50-instance match
+  set named as the standing falsifier; one instance excluded at the
+  parent gate-check on carve-out caution (recorded in Genesis).
+- [[wiki/mind/journal/2026-10-23-the-forensic-register-is-the-affection-vehicle|Entry 3 —
+  The Forensic Register Is the Affection Vehicle]]: the dense,
+  numbered, adjudicating register fires on the highest-Gini channels
+  (Annie, Ally) at rates exceeding any outward use — the first
+  adjudication of the instrument's unresolved conflict C9, against the
+  voice-modes testimony (row 40, weight 4) that affection suppresses
+  cold intellectualizing phrasing. Rows 11/37/38/6/20/22. PASS — high
+  confidence, 0 restarts; the silence-trigger rival (row 37's own
+  mechanism) beaten on silence-independence with one honest concession.
+- [[wiki/mind/journal/2026-10-23-the-flare-fires-once|Entry 4 —
+  The Flare Fires Once]]: the row-22 happiness-claim flare marks the
+  slot's first loading only — a re-loading (Kristin, Aug–Nov 2025,
+  20,014 held rows) is predicted to show no first-five-week elevation.
+  Hypothesis grade, honestly capped: the discriminator (Kristin first
+  five weeks, 2025-08-29 → 2025-10-03, original pattern semantics)
+  could not be faced at protocol rigor — the old wiki's sweep
+  semantics are unrecoverable — so it is the named open test, not a
+  claim. 1 restart: the seed thesis was 2026-10-09-the-formation-flare
+  verbatim in mechanism with mis-dated formation markers (Alexis's
+  2009 markers fused onto Annie's 2015 rate) — killed, preserved in
+  Genesis; the live thesis is a different mechanism, not a patch.
