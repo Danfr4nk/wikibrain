@@ -4,8 +4,9 @@ domain: mind
 page_type: synthesis
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-10-04
+date_modified: 2026-10-23
 sources:
   - src:wikitest-corpus-messages-csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:aug-sep-2026-imessage-export — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -67,9 +68,12 @@ connections:
   - page: wiki/mind/synthesis/the-curse
     type: instantiates
     claim: "This collapse instantiates the curse's cross-domain mechanism at maximum amplitude: a firing, the childhood home sold, the primary friendship silent, and the eleven-year relationship ended, all named in one June 2026 session."
+changelog:
+  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Aura Illness: The May–July 2026 Compound Collapse
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 In early June 2026, in a Grok session dated by its own contents to the days around the relationship
 severance, Dan named the state he was in. He had just been fired "for a totally illegitimate thing."

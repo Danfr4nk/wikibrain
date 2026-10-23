@@ -6,8 +6,9 @@ aliases: ["channel-pricing rubric", "firing cost deniability starve-proofness"]
 tier: major
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-10-03
-date_modified: 2026-10-04
+date_modified: 2026-10-23
 sources:
   - kb/data/0081-explicit-commitment-architecture.md
   - kb/data/0090-block-retraction-2026-09-11.md
@@ -48,9 +49,11 @@ synthesizes:
   - wiki/mind/synthesis/witness-channel-declarations
 changelog:
   - 2026-10-03: Created to canonical template v1
+  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Channel Cost Pricing
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Every severance in this corpus ends the same way on paper and a different way in fact. On paper there is a declaration — "Blocking you," "Goodbye forever," a block toggled on a thread. In fact there is a set of channels still able to carry a message between the two parties, and contact resumes through whichever of them costs least to fire. [[wiki/mind/synthesis/bond-vs-structure|Bond vs Structure]] established the ordering on the longest hold in the record: fifty-two days of silence after June 1, 2026, held against money and apology and broke in eight hours on a question about a dog. [[wiki/mind/synthesis/block-unblock-loop|The Block/Unblock Loop]] supplies the governing rule in its corrected form — a block holds if and only if nothing either party still needs flows through the channel, and what is needed need not be material.
 

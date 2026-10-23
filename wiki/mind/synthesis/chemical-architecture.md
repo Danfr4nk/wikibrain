@@ -4,8 +4,9 @@ domain: mind
 page_type: synthesis
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-10-04
+date_modified: 2026-10-23
 sources:
   - src:corpus-authoritative-export — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:facebook-export-2026-06-23
@@ -75,9 +76,12 @@ connections:
     type: evidenced-by
     claim: "First Written Attestation supplies the dated written record beside this page's enacted axiom: axioms 1 and 2 in Dan's own hand no later than May 2026."
   - { target: "[[wiki/mind/concepts/social-anxiety]]", type: references, claim: "The hedonic-tension section names social anxiety as the pressure the chemical configuration manages; no treatment engagement is documented anywhere in the record." }
+changelog:
+  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Chemical Architecture as Enacted Axiom
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Dan runs a daily Suboxone regimen that has now continued, unbroken, for more
 than sixteen years — since February 17, 2010, with zero stated relapses to full

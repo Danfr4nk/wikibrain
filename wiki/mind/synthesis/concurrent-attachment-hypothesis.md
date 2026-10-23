@@ -5,8 +5,9 @@ title: "The Concurrent-Attachment Hypothesis"
 aliases: ["concurrent attachment", "the concurrency hypothesis", "dual-load hypothesis"]
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-10-04
+date_modified: 2026-10-23
 sources:
   - src:ally-lubin-dual-handle-exports — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:august-2026-overlap-forensics — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -69,9 +70,12 @@ connections:
     type: parallels
     claim: "Severance-2026 frames the year as a designed system with a base rate and a horizon; this hypothesis supplies the dual-load observation inside that system — relational load routed through two live channels during the instability the system was built to measure."
   - { target: "[[wiki/mind/synthesis/the-scoreboard]]", type: references, claim: "The scoreboard's first hard entry — the August 26 block prediction, reported as fact and falsified by export sixteen days later — is this entry's standing example of a scored prediction." }
+changelog:
+  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Concurrent-Attachment Hypothesis
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 [[wiki/people/annie-ulmer]] cites "the concurrent-attachment hypothesis" as
 if it were a dedicated page. It was not one. This is it: the formal

@@ -5,8 +5,9 @@ title: "Bond vs Structure: Why Severances Break Through the Cheapest Channel"
 aliases: ["bond vs structure", "the cheapest channel", "non-material severance channels", "channel-cost ordering"]
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-10-04
+date_modified: 2026-10-23
 sources:
   - raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv
   - src:corpus__3.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -67,9 +68,12 @@ connections:
     type: evidenced-by
     claim: "The Kristin channel evidences this ordering from the far side: her severance held while no cheap channel survived, and broke when a Messenger message-request folder became one."
     claim: "Channel-cost-pricing operationalizes this entry's ordinal claim — severances break through the cheapest live channel — as a scored rubric run against every documented severance."
+changelog:
+  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Bond vs Structure: Why Severances Break Through the Cheapest Channel
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 The record holds a controlled experiment nobody designed. In June 2026 the compound
 collapse — job, home, primary male friend, relationship — starved every material

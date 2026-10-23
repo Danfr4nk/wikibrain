@@ -5,8 +5,9 @@ title: "The Audition Grammar"
 aliases: ["audition dynamics", "demonstration then the thing itself"]
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-10-04
+date_modified: 2026-10-23
 sources:
   - src:imessage_3307038747_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:messenger-kristin-ui-capture-2025-09-01 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -77,9 +78,12 @@ connections:
     type: parallels
     claim: "The May–August 2025 Bridge supplies the run-up to the Kristin case: four un-narrated months between the April 27, 2025 clearing and the August 29 first contact."
     claim: "The Romantic documents the declaration the Kristin audition ran on: the September 4, 2025 sentence ('i wouldn't say i love you if i didn't mean it'), issued five days after first contact, inside this page's front-loaded demonstration window."
+changelog:
+  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Audition Grammar
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Three relationships in the corpus open the same way, and the sameness is
 structural, not thematic. A burst of front-loaded demonstration energy — output

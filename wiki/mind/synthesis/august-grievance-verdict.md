@@ -6,8 +6,9 @@ aliases: ["the August verdict", "the final grievances", "was he right to feel th
 status: active
 knowledge: earned
 importance: critical
+layer: interpreted/synthesis
 date_created: 2026-08-20
-date_modified: 2026-10-04
+date_modified: 2026-10-23
 # operator answers from 2026-08-20 have been integrated below
 connections:
   - page: wiki/mind/synthesis/august-26-block-retraction
@@ -23,6 +24,8 @@ connections:
     type: evidenced-by
     claim: "The August grievance verdict is evidenced by the supply record at its window: the Morgantown-call evidence base it adjudicates is the same August 16-19, 2026 window in which the supply network's final handoff failed."
 
+changelog:
+  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 > **RE-CHECKED [2026-08-22] — premise moved by a re-check block only, at**
@@ -105,6 +108,7 @@ connections:
 > block in it at all.
 
 # The August Grievances — a verdict on the last conversation
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 > **RE-CHECKED [2026-08-28]:** flagged stale against
 > [[wiki/mind/synthesis/attachment-trauma-bond]] (2026-08-28), which gained a

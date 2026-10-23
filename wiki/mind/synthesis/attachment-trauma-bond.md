@@ -4,8 +4,9 @@ page_type: synthesis
 title: "Attachment Trauma Bond and Aura Illness"
 knowledge: earned
 status: active
+layer: interpreted/synthesis
 date_created: 2026-06-22
-date_modified: 2026-10-04
+date_modified: 2026-10-23
 sources:
   - raw/self/dox-md/Annie 10-Year Trauma Bond Aura Illness Forensic Report.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/DanAnnie_MasterRecord_FINAL.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -108,10 +109,13 @@ connections:
     type: evidenced-by
     claim: "The August 16 Morgantown call is this bond's terminal-phase primary artifact: all three participants in one live interaction, against the decade of thread evidence this page is built on."
     claim: "The unbroken-bond page holds the occupancy record this page's mechanism anatomizes: seventeen continuous years inside long-term bonds, the unattached total measurable in weeks."
+changelog:
+  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 
 # Attachment Trauma Bond and Aura Illness
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 > **RE-CHECKED [2026-08-28]:** flagged stale against
 > [[wiki/people/suzanne-frank]] (2026-08-28), which added a pre-Annie,

@@ -5,8 +5,9 @@ title: "The August-26 Block Never Happened: Retraction"
 tier: major
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-11
-date_modified: 2026-10-06
+date_modified: 2026-10-23
 date_range_start: 2026-08-26
 date_range_end: 2026-09-11
 infobox:
@@ -19,6 +20,7 @@ infobox:
 changelog:
   - 2026-09-11: Retraction published
   - 2026-10-06: Restructured to canonical article template v1, expanded to major tier
+  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
   - src:sammy-chat-transcript-20260911
   - kb/data/0090-block-retraction-2026-09-11.md
@@ -70,6 +72,7 @@ connections:
 ---
 
 # The August-26 Block Never Happened: Retraction
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 On August 26, 2026, Dan reported that he had kept [[wiki/people/annie-ulmer|Annie]] blocked for several days. The wiki recorded it as the first held boundary in the entire eleven-year record — five pages written in a single day, a 120-day prediction window opened, the knowledge base updated with "Aug 26 block held (first held boundary)." Sixteen days later, on September 11, the claim was retracted: CSV forensics found roughly 25 block or severance declarations across August 15–19, none of them executed, with daily two-way texting continuing August 27 through September 7. Dan confirmed it himself, verbatim: *"there was never a block."*
 

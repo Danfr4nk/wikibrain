@@ -4,8 +4,9 @@ page_type: synthesis
 title: "The Block/Unblock Loop"
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-07-18
-date_modified: 2026-09-12
+date_modified: 2026-10-23
 sources:
   - raw/mind/captures/2026-08-16_195003_gap-block-unblock-loop.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/message-csv/imessage_2124702449_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -101,9 +102,12 @@ connections:
   - target: "[[wiki/mind/synthesis/the-register-never-closes]]"
     type: references
     claim: "The register's chemical never-exit — sixteen unbroken years of Suboxone at zero missed days — is the structural twin of the loop's 129 declarations at 100% resumption: both are systems that never actually exit."
+changelog:
+  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Block/Unblock Loop
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 > **RE-CHECKED [2026-09-04] — checked, left standing.**
 > [[wiki/people/rick-frank]] gained one typed edge and no prose: his 2018-01-06

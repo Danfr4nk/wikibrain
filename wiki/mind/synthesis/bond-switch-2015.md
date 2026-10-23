@@ -4,8 +4,9 @@ page_type: synthesis
 title: "The 2015 Single-Bond Switch"
 knowledge: earned
 status: active
+layer: interpreted/synthesis
 date_created: 2026-07-15
-date_modified: 2026-10-04
+date_modified: 2026-10-23
 sources:
   - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -71,10 +72,13 @@ connections:
     type: parallels
     claim: "Bond-switch 2015 is the origin term of the bond whose terminal window the grievance verdict adjudicates: the Alexis-to-Annie switch activated the deep attachment system in a week, on the substrate the 2026 closure later operated on."
     claim: "The mutual, simultaneous November 2015 switch — both slots vacated and reoccupied inside seventy-two hours — is the serial-monogamist pattern's earliest fully-dated member."
+changelog:
+  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 
 # The 2015 Single-Bond Switch
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 This event is one instance of a longer pattern; see
 [[wiki/mind/synthesis/the-unbroken-bond]] for the seventeen-year continuity it

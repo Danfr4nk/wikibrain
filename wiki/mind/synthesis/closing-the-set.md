@@ -6,8 +6,9 @@ aliases: ["the completion appetite", "coverage not taste", "one witness each", "
 status: active
 knowledge: earned
 importance: high
+layer: interpreted/synthesis
 date_created: 2026-08-19
-date_modified: 2026-10-04
+date_modified: 2026-10-23
 sources:
   - raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2025).html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -82,9 +83,12 @@ connections:
     type: parallels
     claim: "Set-closing is the binary verdict run on culture: an open set or a closed one, with no stable half-closed state in the record."
     claim: "The wiki is this page's negative control for the satisfaction condition: a self-set corpus with no findable edge, so the rule predicts surface without closure."
+changelog:
+  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Closing the Set
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Dan does not have favourites. He has **open sets that he is closing**, and
 the record everyone has been reading as eclecticism is the log of that work.
