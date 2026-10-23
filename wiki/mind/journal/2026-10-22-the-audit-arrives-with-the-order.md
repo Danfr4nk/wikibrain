@@ -9,6 +9,7 @@ aliases:
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-22
 date_modified: 2026-10-22
 sources:
@@ -34,7 +35,11 @@ connections:
   - page: wiki/mind/journal/2026-10-21-the-exocortical-clock
     type: distinguishes
     claim: "That entry owns deadline-keeping (time as the hook). This entry owns acceptance evidence (done-ness as the hook). Orthogonal hooks; cite, don't blend."
+changelog:
+  - "2026-10-22: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
+
 
 ## Profile prior (Stage 1)
 

@@ -6,8 +6,9 @@ tier: major
 title: "The Ancestral Dialectic: Ashkenazi Hypervigilance vs. Appalachian Numbness"
 aliases: ["Dan Frank OS", "the binary engine"]
 status: stable
+layer: interpreted/synthesis
 date_created: 2026-07-14
-date_modified: 2026-10-07
+date_modified: 2026-10-22
 sources:
   - raw/self/dansynth/DANSYNTH.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -61,10 +62,13 @@ connections:
   - page: wiki/mind/synthesis/instrument-is-subject
     type: evidences
     claim: "The worked example: an interpretive frame originating entirely in a Gemini deep-research report, correctly marked knowledge: mixed on arrival — and therefore the exact page whose status must not be laundered by anything that later reasons from it."
+changelog:
+  - "2026-10-22: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 
 # The Ancestral Dialectic: Ashkenazi Hypervigilance vs. Appalachian Numbness
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 A long-form Gemini "deep research" report titled *"The Dan Frank OS: A
 Psychogenealogical Architecture of Collapse and Recursion"* — built from

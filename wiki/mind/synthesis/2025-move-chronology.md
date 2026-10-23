@@ -4,8 +4,9 @@ domain: mind
 page_type: synthesis
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-22
 date_range_start: 2025-01-09
 date_range_end: 2025-04-27
 sources:
@@ -49,9 +50,12 @@ connections:
   - target: "[[wiki/mind/synthesis/may-august-2025-bridge]]"
     type: references
     claim: "The May–August corridor is the next window of the same dated reconstruction — the bridge continues the month-by-month accounting this chronology starts in February 2025."
+changelog:
+  - "2026-10-22: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The 2025 Move Chronology: Before, Not Simultaneous
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 The hinge had one unanswered ordering question, and [[wiki/mind/synthesis/the-2025-collapse|the 2025-collapse entry]] flagged it as the highest-value dating gap in the whole window:
 did [[wiki/people/annie-ulmer|Annie]] move to her parents' house **before**, **after**, or **simultaneous with** Dan's February 22, 2025 exit from New York?

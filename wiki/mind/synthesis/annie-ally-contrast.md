@@ -5,8 +5,9 @@ title: "Two Channels, Two Protocols"
 aliases: ["the annie-ally concurrency", "concurrent attachment", "the two protocols"]
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-10-04
+date_modified: 2026-10-22
 sources:
   - src:annie-ulmer-corpus-115k — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:ally-lubin-dual-handle-exports — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -80,9 +81,12 @@ connections:
     type: parallels
     claim: "Annie-ally-contrast's Protocol A / Protocol B split is the frame the Kristin channel's exit-pole disposition is measured against; this entry supplies the two documented protocols, that entry the third disposition neither protocol predicts."
 
+changelog:
+  - "2026-10-22: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Two Channels, Two Protocols
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 For forty-eight hours in August 2026, Dan ran two attachment channels at the
 same time, in the same hours, telling each one things about the other that

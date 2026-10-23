@@ -9,6 +9,7 @@ aliases:
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-22
 date_modified: 2026-10-22
 sources:
@@ -32,9 +33,12 @@ connections:
   - page: wiki/mind/journal/2026-10-15-the-stated-word
     type: distinguishes
     claim: "That entry owns the stated-word/authentication-protocol territory (the report-back check-word: every explicit report-back thread must open with it or his voice note). This entry owns authenticated consent as the credential for likeness-generation — a different gate, the same authentication shape: stated by the person, never relayed."
+changelog:
+  - "2026-10-22: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Consent Gate: His Likeness Line Runs on Authenticated Consent, Not Taste
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 

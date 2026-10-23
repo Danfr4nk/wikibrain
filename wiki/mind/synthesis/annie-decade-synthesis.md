@@ -6,8 +6,9 @@ aliases: ["annie decade", "The Annie decade: an eleven-year attachment experimen
 tier: major
 status: active
 knowledge: mixed
+layer: interpreted/synthesis
 date_created: 2026-10-03
-date_modified: 2026-10-04
+date_modified: 2026-10-22
 date_range_start: 2015-11-28
 date_range_end: 2026-06-05
 sources:
@@ -80,9 +81,11 @@ synthesizes:
   - wiki/mind/synthesis/severance-2026
 changelog:
   - 2026-10-03: Restructured to canonical template v1; new page from kb/syntheses/annie-decade.md
+  - "2026-10-22: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Annie Decade: Formation, Tenure, and the 2026 Unwinding
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 The relationship with [[wiki/people/annie-ulmer|Annie Ulmer]] is the only attachment in Dan's record large enough to be counted rather than described. The held corpus holds 97,768 unique messages dated 2015-11-28 to 2026-06-05 across four handles [kb/entities/annie-ulmer.md; kb/syntheses/annie-decade.md], and the systematic read over that corpus — the Annie Read — is the biography's one instrumented experiment: a near-decade of two-sided traffic, an origin week that can be dated to the minute, and an exit idiom that can be measured because it happened often enough to form a distribution.
 

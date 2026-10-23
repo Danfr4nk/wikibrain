@@ -9,6 +9,7 @@ aliases:
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-22
 date_modified: 2026-10-22
 sources:
@@ -34,9 +35,12 @@ connections:
   - page: wiki/mind/concepts/exocortex
     type: extends
     claim: "Supplies the first named closed-loop case for the taste exocortex: the Oct 20 valence pass refined a standing set-point claim, delivered to him, written into the explainer doc and MEMORY.md — the Shape-6 displacement discriminator finding an answer."
+changelog:
+  - "2026-10-22: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Installed Palate: Taste Judgments Run as Binary Gates Through an Externalized Constitution
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 

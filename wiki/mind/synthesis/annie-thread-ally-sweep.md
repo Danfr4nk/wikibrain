@@ -4,8 +4,9 @@ page_type: synthesis
 title: "Did Annie Know the Ally Channel Existed? — The Sweep"
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-09-21
+date_modified: 2026-10-22
 sources:
   - src:rawlogs-imessage-20260908
   - src:aug-sep-2026-imessage-export-20260912 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -43,9 +44,12 @@ connections:
   - { target: "[[wiki/mind/synthesis/audition-dynamics]]", type: references, claim: "RECIPROCAL — the 2026-08-28 → 2026-09-04 cluster, where Ally is deployed as an instrument inside a grievance about Annie, is the audition grammar's failed-courtship instance: announced to the incumbent, never absorbed, evaluation never rendered." }
   - { target: "[[wiki/self/message-corpora/message-request-blind-spot]]", type: references, claim: "RECIPROCAL — this sweep's Limits of record — the 2020-10-08 → 2022-12-31 capture hole, the [UNKNOWN] bounds on Annie's knowledge state — is the blind-spot protocol's standing rule applied: a zero is only citable with its denominator stated." }
   - { target: "[[wiki/mind/synthesis/provision-grammar]]", type: references, claim: "RECIPROCAL — the sweep's payment ledger (11 Cash App system notifications naming 'Alexandra Lubin,' $13–$101, 2018-12-11 → 2019-09-06) is dated evidence for the provision grammar's Ally register at its rung 1." }
+changelog:
+  - "2026-10-22: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Did Annie Know the Ally Channel Existed? — The Sweep
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Measured answer, up front: in 111,864 [[wiki/people/annie-ulmer|Annie]]-thread text messages spanning 2015-11-28 to 2026-09-07 — the near-complete device-side record of the eleven-year relationship — the name [[wiki/people/ally-lubin|Ally]] (or Alexandra, or Lubin) appears **8 times** [DERIVED]. All 8 are Dan's. Annie names Ally **zero times**. The disclosure, such as it was, ran in one direction only: he told her the channel existed, twice, seven years apart, and she never once repeated the name back — never in a question, never in an accusation, never in passing [ATTESTED, method in appendix].
 

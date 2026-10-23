@@ -6,6 +6,7 @@ aliases: ["zero variation slots", "chosen-domain rigidity", "the maximally-rigid
 status: active
 knowledge: derived
 importance: medium
+layer: interpreted/journal
 date_created: 2026-10-22
 date_modified: 2026-10-22
 sources:
@@ -23,9 +24,12 @@ connections:
   - page: wiki/mind/journal/2026-10-21-exocortical-clock
     type: distinguishes
     claim: "That entry uses the same imposed-vs-chosen axis (row 15) on a different object — deadline-keeping via installed time-instruments. This entry's object is comfort/consumption ritual rigidity (zero-variation protocols), not time-keeping. Same axis, orthogonal domains; the two claims are separately falsifiable."
+changelog:
+  - "2026-10-22: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Zero Variation Slots
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-22, pass B (chosen rituals arrive maximally rigid).**
 

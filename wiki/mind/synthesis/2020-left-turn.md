@@ -4,8 +4,9 @@ page_type: synthesis
 title: "The 2020 Left Turn"
 status: stable
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-07-16
-date_modified: 2026-09-14
+date_modified: 2026-10-22
 sources:
   - "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
@@ -83,10 +84,13 @@ connections:
   - page: wiki/mind/synthesis/twitter-2023
     type: evidenced-by
     claim: "The class content absent from 2011-2019 arrives complete on 2023-03-03 in its own vocabulary — bourgeois, class status, systemic advantages, material well-being — with the argument run psychologically: a class position explained by the fear of losing it rather than by its economic interest."
+changelog:
+  - "2026-10-22: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 
 # The 2020 Left Turn
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Dan's politics did not arrive gradually. There is a documented
 inflection — the COVID lockdown of 2020 — where a Bernie-curious

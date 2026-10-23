@@ -5,8 +5,9 @@ title: "The Alias Is a Clock, Not a Style"
 status: active
 knowledge: earned
 tier: major
+layer: interpreted/synthesis
 date_created: 2026-08-01
-date_modified: 2026-10-07
+date_modified: 2026-10-22
 date_range_start: 2013-01-01
 date_range_end:
 infobox:
@@ -36,6 +37,7 @@ sources:
 tags: [music-production, personality-profile, forensic-analysis]
 changelog:
   - "2026-10-07: Expanded to major tier (>=3,000 words); restructured to canonical article template v1; examined Mogged Up — the fourth name — closing the original Gaps item (concurrent bootleg imprint, not a production-identity rename, so the seriality rule is unaffected); added the May 2014 account-migration join against the SLOPPP→MOGZART boundary; folded all RE-CHECKED blocks and the 2026-08-28 constitution pass into Conflicts in the record."
+  - "2026-10-22: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 connections:
   - page: wiki/interests/music/aliases/sloppp
     type: instance-of
@@ -79,6 +81,7 @@ connections:
 ---
 
 # The Alias Is a Clock, Not a Style
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Dan Frank has released music under four production names in thirteen years — SLOPPP, MOGZART, Mogged Up (a bootleg imprint rather than a production identity), and GRIPNOTIC — and the renaming has never once corresponded to a change in the music. Across all four, the two things that would actually constitute a musical identity — an involuntary **63–85% sub-bass band**, identified post-hoc rather than set as a style goal, and the **complete absence of sung original lyrics** — are constant and unbroken. Thirteen years of remixes, bootlegs, reworks, instrumentals and spoken AI drops; never a sung original. What changes is the name, and the name changes at the boundaries of life periods. The alias is therefore not doing musical work. It is doing temporal work: it is how a period gets marked as closed.
 
