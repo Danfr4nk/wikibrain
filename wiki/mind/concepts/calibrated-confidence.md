@@ -391,6 +391,15 @@ specific is not addressed anywhere in the corpus.
   blocks) consolidated here; no facts deleted, sections retitled,
   lede rewritten story-first.
 
+- **2026-10-23 — the ungraded popular version.** Wiest's *101
+  Essays* (Essays 16, 91) lists cognitive biases and CBT
+  distorted-thinking categories for the reader to self-spot by
+  recognition — the same concern with self-deceiving cognition this
+  page answers with graded, numeric, evidence-backed credence,
+  carried with no grades, no base rates, and no way to be wrong.
+  Contrast recorded at `dat:2139`; two of the book's own
+  load-bearing claims are inventions, at `dat:2141`.
+
 ## Assessment
 
 Calibrated Confidence is one of the small number of wiki pages that
