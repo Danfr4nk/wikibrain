@@ -531,6 +531,8 @@ three held CSVs, there is none.
 - **Autism is self-identified**; no clinical record exists. The measurement
   does not depend on the label.
 
+- **Cross-check [2026-10-23] — Wiest's letting-go prescription.** Brianna Wiest's *101 Essays* (Essays 66, 74) makes acceptance that what is gone is gone its core prescription — "there is no such thing as letting go; there's just accepting what's already gone." That names the operation this page's record does not contain: create / suspend / withhold, no delete. The tension is recorded at `dat:2136`, unresolved in either direction.
+
 ## See also
 - [[wiki/mind/concepts/explicit-verbal-commitment]] — the flagship instance.
 - [[wiki/mind/concepts/node-locking]] — deletion for machines only.
