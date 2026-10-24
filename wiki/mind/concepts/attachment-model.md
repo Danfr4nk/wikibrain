@@ -5,7 +5,7 @@ title: "Attachment Model"
 aliases: ["rule-based attachment", "the no-counter-rule architecture", "attachment system"]
 status: active
 date_created: 2026-06-22
-date_modified: 2026-10-06
+date_modified: 2026-10-23
 tier: major
 sources:
   - raw/self/sage/2026-08-21_220918_which-of-the-people-in-this-wiki-would-be-the-be.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -366,3 +366,14 @@ snapshot underlying the older sweeps is 2026-09-04.
   a source turns up.
 - **Open:** whether an audited disclosure (n=1) can generate a
   counter-rule; whether the August 19 group-chat asymmetry suffices.
+
+
+## Book cross-check — *Dark Psychology 5-in-1* (2020) — 2026-10-23
+
+*Added 2026-10-23 by the phase-2 book-mine of Dark Psychology 5-in-1 (src:dark-psychology-5in1-2020). Dated note only; nothing above is altered.*
+
+**Support, at vocabulary level only.** Book 3 of the omnibus describes gaslighting as persistent denial of things said and done, countering the target's memory, and trivializing ("it was a joke", "you're too sensitive") until the target defers to the abuser's version — the pattern-name for the acts this page's gaslighting architecture (compact) is built from. The book also cites the term's origin correctly: Patrick Hamilton's *Gas Light* (1938) and the 1944 film [dat:2115-gaslighting-reality-denial-act-level-match-20261023].
+
+**Tension — stated plainly.** The book explains that pattern by a remorseless narcissist predator-*type*. This page explains the same documented acts by architecture — a rule system, written denials, a channel that cannot close. The type-explanation does not hold (phase-1 adjudication §iii.10) and is not imported here; where the two accounts compete, this page's act-level model supersedes the folk model.
+
+**Source discipline.** The omnibus adds no evidence to this page. Its positions rest on the record as cited above, and the uneven sourcing this page already flags for its two written-denial instances (November 2025 confirmed; February 2026 unlocated) stands untouched.
