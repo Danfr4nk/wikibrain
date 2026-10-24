@@ -5,15 +5,18 @@ domain: mind
 page_type: synthesis
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-15
-date_modified: 2026-10-05
+date_modified: 2026-10-24
 sources:
   - src:sammy-chat-transcript-20260915-0340
   - src:sammy-chat-transcript-20260915-0630
 changelog:
   - "2026-10-05: Restructured to canonical template v1"
+  - "2026-10-24: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 # The Grok Controlled Experiment: transgression as lab material
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 ## The setup
 

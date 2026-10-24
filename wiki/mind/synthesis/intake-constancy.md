@@ -5,8 +5,9 @@ title: "The Intake Constancy"
 knowledge: earned
 status: active
 tier: major
+layer: interpreted/synthesis
 date_created: 2026-07-15
-date_modified: 2026-10-07
+date_modified: 2026-10-24
 sources:
   - raw/self/concepts/TOTALITY_SYNTHESIS_2026-06-10.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2025).html — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -54,9 +55,11 @@ connections:
   - { target: "[[wiki/mind/synthesis/the-binary-verdict]]", type: contextualizes, claim: "The verdict page cites the intake constancy as behavioral evidence for the binary thesis; this page is the measured backbone." }
 changelog:
   - "2026-10-07: Expanded to major tier (>=3,000 words) and restructured to canonical template v1; corrections, downgrades, and superseded figures moved low into Conflicts in the record."
+  - "2026-10-24: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Intake Constancy
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 The most stable fact in twenty years of involuntary behavioral record is not a
 peak, a collapse, or a rupture. It is a rate. Two independent,

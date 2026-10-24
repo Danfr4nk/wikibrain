@@ -4,8 +4,9 @@ page_type: synthesis
 tier: major
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-07-17
-date_modified: 2026-10-05
+date_modified: 2026-10-24
 sources:
   - "raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2025).html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
@@ -54,9 +55,11 @@ connections:
     claim: "The 2000–2006 freeskiing/inline era is an unrecorded pre-cursor to the era-marker series — a total-obsession adolescence that left no digital intake record, making it the first era marker that cannot be verified from watch logs alone."
 changelog:
   - "2026-10-05: Restructured to canonical template v1"
+  - "2026-10-24: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Interests as Era-Markers
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Dan's biography can be periodized two ways: by external events (jobs,
 moves, the Annie relationship's arcs) or by what his intake channel was

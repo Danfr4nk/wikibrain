@@ -6,8 +6,9 @@ aliases: ["money-and-estate synthesis", "money as instrument", "the estate money
 tier: major
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-10-03
-date_modified: 2026-10-04
+date_modified: 2026-10-24
 sources:
   - kb/syntheses/money-and-estate.md
   - kb/syntheses/nyc-years-2010-2025.md
@@ -53,9 +54,11 @@ synthesizes:
   - wiki/people/fran-coldren
 changelog:
   - "2026-10-03: Created under canonical template v1; expanded from corpus"
+  - "2026-10-24: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Money and the Estate: Money as an Instrument of Relationship
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Money in Dan's record rarely sits still long enough to be a balance. It arrives in dated lumps — an estate advance authorised by an attorney, a final distribution signed by a court, a house sale closing in another person's name — and it leaves through standing, metered channels: rent, supply, transfers inside the family, transfers inside a relationship. This page is the synthesis of that behaviour. It asks what the money was *doing* each time it moved, and the answer the record keeps giving is that the transaction underneath the transaction was relational: an advance created a creditor, a transfer created an account, a liquidation created a tenancy.
 

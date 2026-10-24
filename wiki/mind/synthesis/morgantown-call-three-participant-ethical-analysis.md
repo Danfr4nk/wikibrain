@@ -4,8 +4,9 @@ page_type: synthesis
 status: active
 knowledge: earned
 importance: critical
+layer: interpreted/synthesis
 date_created: 2026-08-20
-date_modified: 2026-10-04
+date_modified: 2026-10-24
 tags: [forensic-analysis, relationships, legal, mental-health]
 sources:
   - raw/self/audio/2026-08-16_Morgantown_St_call-recording.m4a — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -40,9 +41,12 @@ connections:
     type: parallels
     claim: "Attachment Trauma Bond is the decade structure this call is the terminal expression of: trauma bonding and intermittent reinforcement arriving at one recorded three-person conflict."
     claim: "This page's own 'deepest moral failure' finding — instrumentalization, converting concern into an optimization problem and designing a stronger signal when ordinary conversation fails — is Ti-dominance's method turned on a person: 'internal simulation labs where relationships are stress-tested' is that page's description of the same faculty this page independently names as a moral failure when the test subject is a human being rather than an idea."
+changelog:
+  - "2026-10-24: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Morgantown Call: Ethical Roles of Dan, Annie, and Jerel Coles
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 > **RE-CHECKED [2026-08-28]:** flagged stale against
 > [[wiki/mind/synthesis/august-grievance-verdict]] (2026-08-28), which gained

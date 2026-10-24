@@ -4,8 +4,9 @@ domain: mind
 page_type: synthesis
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-24
 sources:
   - src:exportify-csvs-2026-09-11
   - src:playlist-analysis-2026-09-11
@@ -34,9 +35,12 @@ connections:
   - page: wiki/mind/synthesis/music-as-identity
     type: parallels
     claim: "The two deliberate 2025 re-likes (Atmosphere 'Kanye West', July 17; Sam Gellaitry 'LONG DISTANCE', October 8) are the nearest approach to a re-admission wave the record contains — two tracks, individually liked outside the bulk sessions, both surviving. Mode 3 (the regulator) has its dated footprint: the re-entry re-admitted almost nothing from the archive, and what it re-admitted was two tracks, not a wave."
+changelog:
+  - "2026-10-24: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Liked∩Dump Residue
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 The 2025 purge removed 498 URIs from the liked universe —
 the two bulk-like sessions of September 29 and November 8, 2025, delisted whole.

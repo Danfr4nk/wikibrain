@@ -5,8 +5,9 @@ title: "The Kristin Channel"
 aliases: ["the control case that wasn't", "forty dollars", "blocks as instruments"]
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-10-04
+date_modified: 2026-10-24
 sources:
   - src:imessage_3307038747_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:messenger-kristin-ui-capture-2025-09-01 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -98,9 +99,12 @@ connections:
     type: parallels
     claim: "The Source Coverage Index is the catalogue this channel's overturned absence claim should be checked against: which exports cover which channels, and what each hole can support."
     claim: "The measurement doctrine extracted from this case — which zeros in a request-filtered channel are admissible and how to phrase them — lives on the blind-spot page; on measurement questions, that page governs this one."
+changelog:
+  - "2026-10-24: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Control Case That Wasn't
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 For most of 2026, the wiki held a clean claim about [[wiki/people/kristin|Kristin Prentiss]]: the
 block held. No contact after December 10, 2025 — eight months of silence,

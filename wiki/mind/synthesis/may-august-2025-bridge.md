@@ -5,8 +5,9 @@ title: "The May–August 2025 Bridge"
 aliases: ["the corridor", "saratoga summer 2025", "the thin months"]
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-10-04
+date_modified: 2026-10-24
 date_range_start: 2025-05-01
 date_range_end: 2025-08-31
 sources:
@@ -86,9 +87,12 @@ connections:
     type: parallels
     claim: "The Audition Grammar takes this bridge's endpoint as one of its three cases: Kristin Prentiss, first contacted August 29, 2025, opening with front-loaded demonstration at a volume the relationship never sustained again."
     claim: "Continues the move chronology's dated month-by-month reconstruction into the May–August corridor the hinge entry never narrated."
+changelog:
+  - "2026-10-24: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The May–August 2025 Bridge
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Between the April 27, 2025 clearing — the [[wiki/mind/concepts/chatgpt|ChatGPT]] "impartial arbiter"
 session — and the August 29 first contact with [[wiki/people/kristin|Kristin Prentiss]], there are

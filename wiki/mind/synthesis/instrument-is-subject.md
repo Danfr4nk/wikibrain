@@ -5,11 +5,13 @@ title: "The Instrument Is Also the Subject"
 status: active
 knowledge: earned
 tier: major
+layer: interpreted/synthesis
 date_created: 2026-08-01
-date_modified: 2026-10-07
+date_modified: 2026-10-24
 changelog:
   - "Restructured to canonical template v1"
   - "2026-10-07: expansion pass — annexed document-fabrication (closed the 2026-08-20 open flag); added the Gemini-incidents ledger, the 2026-08-26 commissioned vocabulary session, and the corrections-don't-propagate mechanism as new evidence sections; Assessment updated. No existing claim moved or weakened."
+  - "2026-10-24: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 synthesizes:
   - wiki/mind/synthesis/ai-collaborative-analysis
   - wiki/mind/synthesis/ancestral-dialectic
@@ -72,6 +74,7 @@ connections:
 ---
 
 # The Instrument Is Also the Subject
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 This wiki is written by a large language model, about a person for whom large
 [[wiki/mind/concepts/llm|language models]] are a documented daily cognitive organ, using an evidentiary

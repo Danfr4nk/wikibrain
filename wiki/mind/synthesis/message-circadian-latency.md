@@ -4,10 +4,12 @@ page_type: synthesis
 knowledge: earned
 status: active
 tier: major
+layer: interpreted/synthesis
 date_created: 2026-07-15
-date_modified: 2026-10-07
+date_modified: 2026-10-24
 changelog:
   - 2026-10-07 — Expanded to major tier; restructured to canonical template v1. Retraction material moved to Conflicts in the record; stale "what this adds" and caveats language updated to the corrected finding. Added "Synchrony has no off-hours" and "How the measurement is made" sections; re-verified headline figures against raw/imessage/ on-disk exports in the local evidence clone.
+  - "2026-10-24: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - /Volumes/MUSIC/PHASE B RAW/LEVIATHAN_FULL_CORPUS.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -63,6 +65,7 @@ connections:
 
 
 # Message Corpus — Circadian Rhythm, Reply Latency, and Volume Trajectories
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 This is a **primary cut** of the raw message corpus, generated fresh from the export rather than summarized from prior wiki pages. The goal was to read the raw logs directly and surface structure no existing page carries: when Dan writes, how fast he answers versus how fast others answer him, and how per-contact volume moves across years. Source is the full iMessage/SMS corpus — `MASTER_MESSAGES_DB_DUMP.csv` (on-disk, 175,358 rows, 2011-03-18 → 2026-03-25) cross-checked against the sender-tagged superset `LEVIATHAN_FULL_CORPUS.csv` (`/Volumes/MUSIC/PHASE B RAW/`, 181,650 rows, 2011-03-18 → 2026-06-09). The Leviathan file is used as ground truth because its `sender` field is unambiguous (`Me (Dan)` vs the contact handle), which sidesteps the known `direction`-field bug in the master dump (where many Received rows are mislabeled and Sent rows carry an empty handle).
 

@@ -6,8 +6,9 @@ title: "Intensity Is No Longer the Only Mode"
 status: active
 knowledge: mixed
 importance: critical
+layer: interpreted/synthesis
 date_created: 2026-08-26
-date_modified: 2026-10-05
+date_modified: 2026-10-24
 tags: [behavioral-change, intensity, boundaries, relationships]
 synthesizes:
   - wiki/people/ally-lubin
@@ -24,9 +25,12 @@ connections:
     type: parallels
     claim: "The August 26, 2026 state this page reports — a hard Annie boundary held beside a calm, consistent Ally channel — is load split across two channels, against The Single Channel's one channel at maximum voltage."
 
+changelog:
+  - "2026-10-24: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Intensity Is No Longer the Only Mode
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 > **Incidental entry** — A dated behavioral hypothesis (August 2026): Dan may be learning to separate intensity from action. Complete at this size — the hypothesis, the mechanism, and the falsification terms are the whole page.
 

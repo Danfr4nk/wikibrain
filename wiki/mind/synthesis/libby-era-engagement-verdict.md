@@ -4,8 +4,9 @@ page_type: synthesis
 title: "The Libby-Era Disengagement Claim — Was He Absent While She Worked Two Jobs?"
 knowledge: earned
 status: active
+layer: interpreted/synthesis
 date_created: 2026-09-14
-date_modified: 2026-10-04
+date_modified: 2026-10-24
 sources:
   - raw/drive-sweep/20260911/gsheets/message-csv/imessages_2124702449_last6months — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/imessage/messages-part1-2011-2019.csv
@@ -33,9 +34,12 @@ connections:
     type: component-of
     claim: "This verdict tests one of the NYC second era's terminal claims — that Dan's non-engagement during Annie's Libby months is why she began leaving, the leaving that ended the era in February 2025."
     claim: "That page finds Annie the primary agent of harm across the decade; this one finds her late disengagement claim unsupported as the master causal story, while corroborating the feeling underneath it."
+changelog:
+  - "2026-10-24: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Libby-Era Disengagement Claim
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 **The question:** Annie says that during the months she worked for Libby — mornings
 at Libby's, evenings straight to the restaurant, six days a week — Dan ignored
