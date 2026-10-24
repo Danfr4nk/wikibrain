@@ -6,8 +6,9 @@ aliases: ["family-system-synthesis", "the Frank family as a two-pole attachment 
 tier: major
 status: active
 knowledge: mixed
+layer: interpreted/synthesis
 date_created: 2026-10-03
-date_modified: 2026-10-04
+date_modified: 2026-10-23
 sources:
   - kb/syntheses/family-system.md
   - kb/events/2005-11-parental-rupture.md
@@ -48,10 +49,12 @@ synthesizes:
   - wiki/people/lisa-frank
   - wiki/mind/synthesis/estate-money-spine
 changelog:
+  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - 2026-10-03: Restructured to canonical template v1; expanded from corpus
 ---
 
 # The Frank Family System
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 The Frank family, as the record holds it, is organised around two parents whose observable contact patterns point in opposite directions. [[wiki/people/suzanne-frank|Suzanne Frank]] is present at high volume and at close range: the second-largest correspondence in the corpus, a financial pattern the entity page calls "give-and-invoice" running through the thread, and, in early 2026, cohabitation with Dan at 463 Morgantown St. [[wiki/people/rick-frank|Richard Frank]] is present at low frequency and at a distance the record can date: repair episodes attested through 2020 and again in 2023–24, then a silence in 2025 that the held corpus shows Dan, not Rick, maintaining, and a single scheduling reply on 2026-09-01 that re-opens the channel without yet repairing it.
 

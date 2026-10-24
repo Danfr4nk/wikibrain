@@ -5,8 +5,9 @@ knowledge: earned
 title: "Dan's Conspiracy Worldview"
 aliases: ["conspiracy worldview", "conspiracy theory positions"]
 status: active
+layer: interpreted/synthesis
 date_created: 2026-09-22
-date_modified: 2026-10-04
+date_modified: 2026-10-23
 sources:
   - workspace/wiki-sync/scratchpad/2026-09-22-conspiracy-verdicts.md
   - workspace/wiki-sync/scratchpad/2026-09-22-conspiracy-worldview-analysis.md
@@ -28,9 +29,12 @@ connections:
     type: parallels
     claim: "The 33 conspiracy verdicts Dan delivered in one session are verdict-shaped outputs of the kind this page describes — 18 believed, 5 rejected — with nine agnostic middles its two-state model says should not stabilize."
 
+changelog:
+  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Dan's Conspiracy Worldview
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 On September 22, 2026, Dan gave verdicts on 33 conspiracy theories in a
 single live session — believing 18, rejecting 5, agnostic on 9, one case

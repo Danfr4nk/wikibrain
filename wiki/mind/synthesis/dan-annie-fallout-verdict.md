@@ -4,9 +4,11 @@ page_type: synthesis
 title: "The Dan/Annie Fallout — Was He Correct to Feel Wronged? (Raw-Evidenced)"
 knowledge: earned
 status: active
+layer: interpreted/synthesis
 date_created: 2026-07-15
-date_modified: 2026-10-20
+date_modified: 2026-10-23
 changelog:
+  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-handed-mirror (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
 sources:
   - raw/self/message-csv/imessage_2124702449_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -105,6 +107,7 @@ connections:
 
 
 # The Dan/Annie Fallout — Was He Correct to Feel Wronged? (Raw-Evidenced)
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 > **RE-CHECKED [2026-08-26]:** flagged stale against
 > [[wiki/mind/concepts/conflict-architecture]] (2026-08-26), which added a

@@ -5,8 +5,9 @@ title: "Dormancy, Not Exit"
 aliases: ["the graph has no delete", "role change not exit", "reactivation bandwidth"]
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-08-01
-date_modified: 2026-09-04
+date_modified: 2026-10-23
 sources:
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -90,9 +91,12 @@ connections:
   - { target: "[[wiki/mind/synthesis/instrument-is-subject]]", type: contextualizes, claim: "This page is the instrument-is-subject standard applied to the author's own contact history." }
   - { target: "[[wiki/mind/synthesis/the-commissioned-self]]", type: references, claim: "The commissioned-self census supplies the self-measurement machinery behind the dormancy claim." }
 
+changelog:
+  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Dormancy, Not Exit
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 > **RE-CHECKED [2026-09-04] — two premises moved, and one of them is**
 > **supporting evidence.** [[wiki/people/alexis-armel]] gained a measurement of the

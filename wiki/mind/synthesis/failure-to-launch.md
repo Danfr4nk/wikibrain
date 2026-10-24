@@ -6,8 +6,9 @@ aliases: ["failure to launch", "the capability audit", "what is he actually good
 status: stable
 knowledge: earned
 importance: high
+layer: interpreted/synthesis
 date_created: 2026-08-22
-date_modified: 2026-09-03
+date_modified: 2026-10-23
 tags: [career, personality-profile, financial-stress, music-production, ai-collaboration]
 sources:
   - raw/self/dox-md/Honest assessment and value judgment analysis.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -88,9 +89,12 @@ connections:
   - page: wiki/interests/music/aliases/sloppp
     type: contradicts
     claim: "The one documented project that did not fail to launch: 29 releases in the last four months of 2013, 16 in September alone, sustained through 2014. What is missing is not output or follow-through but any external result — and the verdict against it was posted by its author in the hashtags of its own announcements."
+changelog:
+  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Failure to Launch — The Capability Audit
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 > **RE-CHECKED [2026-08-28]:** flagged stale against
 > [[wiki/mind/synthesis/estate-money-spine]] (2026-08-28), which gained a

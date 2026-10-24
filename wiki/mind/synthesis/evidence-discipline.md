@@ -6,8 +6,9 @@ aliases: ["evidence-discipline", "why this system is built the way it is"]
 tier: major
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-10-03
-date_modified: 2026-10-04
+date_modified: 2026-10-23
 sources:
   - kb/syntheses/evidence-discipline.md
   - ARCHITECTURE.md
@@ -48,10 +49,12 @@ synthesizes:
   - wiki/mind/synthesis/full-sail-pipeline
   - wiki/mind/synthesis/suboxone-sixteen-years
 changelog:
+  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - 2026-10-03: Restructured to canonical template v1; expanded from corpus
 ---
 
 # Evidence Discipline: How This Corpus Decides Anything
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 This wiki contains a biography built from roughly 192,140 messages, dated social-media archives, financial records, and two decades of retrospective testimony by its subject. Almost none of that material arrives labelled with how much it should be trusted. A message sent in 2009 to impress an old friend sits in the same archive as a bank statement; a date computed by a language model reading email logs sits next to a date stamped by a platform at the moment it happened. The question this entry answers is the one a cold reader needs before any other page makes sense: given material like that, how does this corpus decide anything at all — what counts as evidence, what counts as a conclusion, and what happens when the two disagree?
 

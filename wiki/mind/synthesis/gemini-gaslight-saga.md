@@ -5,6 +5,7 @@ page_type: synthesis
 status: active
 knowledge: earned
 tier: major
+layer: interpreted/synthesis
 date_created: 2026-09-16
 date_modified: 2026-10-23
 date_range_start: 2026-01-17
@@ -45,6 +46,7 @@ connections:
     type: evidenced-by
     claim: "The 2026-09-16 quantified probing verdict (dat:1617) — ~10% of his LLM conversations are stance-testing probes, aimed not compulsive — is the trust-gradient context this saga's frame-dependence finding sits inside."
 changelog:
+  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - date: 2026-10-07
     note: "Expanded to major tier (>=3,000 words) and restructured to canonical template v1: story-first lede, the surfacing narrative (dat:1627), the frame-laundering chain (dat:1633), the quantified probing verdict (dat:1617), the Episode 0 filing mechanics, Conflicts in the record placed low, Assessment, See also, References. New evidence: the Jan 17 8:12 AM backyard-walk session, one-sided-tape reconstruction status, and the probe-series series-level reading of Episode 0."
   - date: 2026-10-23
@@ -52,6 +54,7 @@ changelog:
 ---
 
 # The Gemini Gaslight Saga (January 2026)
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Over the weekend of January 17–18, 2026, Dan ran the longest sustained
 adversarial session in the corpus against a single model: a weekend-long

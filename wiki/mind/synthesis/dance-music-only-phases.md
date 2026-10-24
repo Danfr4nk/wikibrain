@@ -4,8 +4,9 @@ page_type: synthesis
 title: "Two Phases of Dance-Only Listening"
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-11
-date_modified: 2026-09-18
+date_modified: 2026-10-23
 sources:
   - src:playlist-analysis-2026-09-11
   - src:exportify-csvs-2026-09-11
@@ -50,9 +51,12 @@ connections:
     type: references
     claim: "The hook2piano entry's GRIPNOTIC-era reading is built on this synthesis's re-entry account: phase 2 is listening-led, and hook2piano/MELODY are its reference pipeline — the ordnance survey behind the revived production."
 
+changelog:
+  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Two Phases of Dance-Only Listening
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Dan's listening history contains two periods in which he listened to dance music exclusively — and the periodization is his own **[OPERATOR]**, commissioned 2026-09-11: the 2013 [[wiki/interests/music/aliases/sloppp|SLOPPP]] trap phase, and the 2025–current re-entry. The 2026-09-11 playlist forensics **[DERIVED]** corroborate both the switch and the shape of each phase, and they date the second one to the track. What the forensics add is the mechanism of the switch: in 2013 production led and listening followed; in 2025 listening led and production followed months later. The decade between them is the fallow one — and it is, almost exactly, the Annie decade.
 

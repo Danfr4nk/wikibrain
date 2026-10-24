@@ -5,8 +5,9 @@ title: "The Fayette Return"
 aliases: ["the elastic tether", "regional gravity", "leave-and-come-back"]
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-08-01
-date_modified: 2026-08-28
+date_modified: 2026-10-23
 date_range_start: 1892-01-01
 date_range_end:
 sources:
@@ -61,9 +62,12 @@ connections:
     type: caused-by
     claim: "Core Axiom 1's binary self-worth verdict, per the-binary-verdict's account of Ti-dominance with no Fe-mediated grading function, is why a return misfiled as 'personal failure' would otherwise resolve to worthless rather than to a graded 'a setback, not a verdict' — which is what makes this page's reframing substantive rather than merely comforting: it changes the category the event is judged in, not its position on a scale that was never available."
   - { target: "[[wiki/mind/synthesis/estate-money-spine]]", type: contextualizes, claim: "The Fran-estate capital the spine traces — Whyel coal money administered through the Coldren legal line — is the material counterpart of this page's Fayette anchoring: the same maternal line that never left is the line the capital came down." }
+changelog:
+  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Fayette Return
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 > **RE-CHECKED [2026-08-23]:** flagged stale against [[wiki/people/rick-frank]]
 > (2026-08-23), which gained an alias finding — *Ricky*, 66 further mentions

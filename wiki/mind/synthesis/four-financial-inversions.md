@@ -4,8 +4,9 @@ domain: mind
 page_type: synthesis
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-10-04
+date_modified: 2026-10-23
 sources:
   - raw/self/captures/2026-08-13_john-paci-staged-eviction-operator-decode.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv
@@ -73,9 +74,12 @@ connections:
     type: evidenced-by
     claim: "The four financial inversions are evidenced by the Libby-era record at their third inversion, where Annie's Libby income is the first documented inbound income on her side of the provider rotation."
   - { target: "[[wiki/people/rod-banks]]", type: documents, claim: "The five estate advances totalling $32,500 (2019-10-12 to 2020-04-17), authorised by Jason Adams and written by Rod Banks, are inversion 1\u2019s dated capital injections." }
+changelog:
+  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Four Financial Inversions
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 The money in the Dan–[[wiki/people/annie-ulmer|Annie]] relationship did not flow one way for a decade.
 
