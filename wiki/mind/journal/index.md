@@ -6,7 +6,7 @@ aliases: ["idea journal", "the journal"]
 status: active
 layer: interpreted/index
 date_created: 2026-10-03
-date_modified: 2026-10-23
+date_modified: 2026-10-24
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -813,3 +813,10 @@ cannot show its stages has not been cross-checked.
   verbatim in mechanism with mis-dated formation markers (Alexis's
   2009 markers fused onto Annie's 2015 rate) — killed, preserved in
   Genesis; the live thesis is a different mechanism, not a patch.
+
+### 2026-10-24
+
+- [[wiki/mind/journal/2026-10-24-payload-jobs-are-single-use|Entry 1 — Payload Jobs Are Single-Use]]: a host that carried a payload is never re-entered after the tenure ends — even with need and employer warmth both present — while payload-less hosts are re-entered freely, even under a posted ban; tenure length and re-entry are independent variables split by payload history. Rows 8/15/6/16. PASS — 0 restarts; 3 dead candidate theses preserved in Genesis; caps stated: home row 8 is leans-grade, the Au Za'atar leg carries a geography confound, non-return legs are absence-of-record.
+- [[wiki/mind/journal/2026-10-24-the-audit-is-the-governor|Entry 2 — The Audit Is the Governor]]: coincidence-clusters get elevated past base rates in dated output, and the forensic audit — strip, retract, or leave blank — is the governor that decides whether the elevation stands, shown by same-day and within-24-hour self-retractions and a 5-rejection/9-agnostic set inside the 33-verdict 2026-09-22 session. Rows 34/4/12/2/1/3. PASS — 0 restarts; key datums remote-verified at gate-check; cap: the law's miss record is absent, so its false-positive rate is unmeasured.
+- [[wiki/mind/journal/2026-10-24-the-script-is-the-door|Entry 3 — The Script Is the Door]]: initiation is setting-gated, not person-gated — the 0.73× global initiation rate is the average of two regimes (contact initiating freely inside rule-bound roles/scripts, near-non-initiation in unstructured settings), not a uniform trait level. Rows 13/27/11/5/25. PASS (bounded) — 0 restarts; the setting-split initiation count is unrun and named as the open test that would move this to PASS high, a flat split killing it.
+- [[wiki/mind/journal/2026-10-24-the-step-not-the-ramp|Entry 4 — The Step, Not the Ramp]]: in the selector domain, output returns as a dated step (170-track first crate wave; 628-like month) after a dated multi-year silence, with no level-output period recorded — collapse-release causation explicitly disclaimed on the ~14-month lag. Rows 16/15/26. HYPOTHESIS GRADE, leaning supported — 1 restart: the collapse-release thesis died on immediacy and was replaced, not patched; the deadline rival is only partially beaten.
