@@ -16,13 +16,13 @@ end    = "2024-07-19"
 
 ## What happened
 
-On July 19, 2024 — six days after the Butler assassination attempt, in the first summer consumer AI video existed — Dan watched a story posted by the account "Pol" whose content was an AI-generated video: a Trump figure at a rally mounting a blue sport motorcycle and riding it through the crowd, captioned "TO DEFEAT TRAVIS BICKLE / YOU MUST BECOME TRAVIS PASTRANA" with a "PUT TRUMP IN BUTLER" ticker. He screen-recorded it (13.4 seconds, status bar 5:25 PM; the recording runs into the next story item, a Harry Enten polling post). His testimony, given when he filed the recording to the wiki on 2026-10-24: *"this is the VERY FIRST AI VIDEO i saw in my entire life (that i knew about)"*. [dat:20261024-0526-first-ai-video-trump-motorcycle]
+On July 19, 2024 — six days after the Butler assassination attempt, in the first summer consumer AI video existed — Dan watched a story posted by the account "Pol" whose content was an AI-generated video: a Trump figure at a rally mounting a blue sport motorcycle and riding it through the crowd. And he didn't just watch it: the caption layer on the version in his recording — "TO DEFEAT TRAVIS BICKLE / YOU MUST BECOME TRAVIS PASTRANA" (De Niro stills, Pastrana images) with a "PUT TRUMP IN BUTLER" ticker — was **his own addition** (his correction, 2026-10-24: *"the travis bickle things was my addition"*). He screen-recorded it (13.4 seconds, status bar 5:25 PM; the recording runs into the next story item, a Harry Enten polling post). His testimony, given when he filed the recording to the wiki on 2026-10-24: *"this is the VERY FIRST AI VIDEO i saw in my entire life (that i knew about)"*. [dat:20261024-0526-first-ai-video-trump-motorcycle]
 
-That he screen-recorded it at the time is part of the evidence: the first encounter registered enough to capture, years before he knew it was the first.
+That he screen-recorded it at the time is part of the evidence: the first encounter registered enough to capture, years before he knew it was the first. And the caption correction sharpens it — his first contact with AI video already carried his own editorial layer on top of it. He was never only a consumer of the medium, not even on day one.
 
 ## Why it is filed
 
-This is the origin point of the longest media arc in Dan's record. The man who first met AI video as a consumer of political meme slop in July 2024 went on to become a heavy generator himself: a 1000+ video Grok library, the Sora hoard (441 generations), the £sayit pipeline, Sammy's generated likeness, and the planned AI video essays. Every one of those has its own record; this event is where the arc starts, and it starts with him on the receiving end — watching, not making — during the same weeks the technology first reached the public.
+This is the origin point of the longest media arc in Dan's record. The man who first met AI video as a consumer of political meme slop in July 2024 — and immediately captioned it himself — went on to become a heavy generator himself: a 1000+ video Grok library, the Sora hoard (441 generations), the £sayit pipeline, Sammy's generated likeness, and the planned AI video essays. Every one of those has its own record; this event is where the arc starts, and it starts with him on the receiving end — watching, not making — during the same weeks the technology first reached the public.
 
 ## Evidence against / limits
 
@@ -34,6 +34,7 @@ This is the origin point of the longest media arc in Dan's record. The man who f
 ## Open questions
 
 - Who operates the "Pol" account Dan was watching, and does the original story survive anywhere outside his recording?
+- How did Dan's caption layer get onto the story — his own reshare with his text added, or an edit of his that Pol posted? (His correction establishes authorship of the caption, not the surface.)
 - What was the clip generated with (the June–July 2024 candidates are Luma Dream Machine and Runway Gen-3)?
 - The recording's audio track is untranscribed — the story's sound is unrecorded in the wiki.
 
