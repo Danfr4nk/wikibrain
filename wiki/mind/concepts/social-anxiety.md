@@ -513,6 +513,15 @@ register caveat (work-0078, dat:1554: revised toward banter,
 recipient his sister). Neither page asserts a diagnosis
 (dat:0940).
 
+**WIEST CROSS-CHECK [2026-10-23] — reassurance below this page's
+strength.** Brianna Wiest's *101 Essays* (Essay 94) normalises social
+sensitivity — worrying that your anxiety is abnormal is itself
+normal. That is true at genre strength and far weaker than what this
+page holds: a self-applied "crippling social anxiety" with measured
+facets (Self-Consciousness 91, Trust 9, Sociability 3) and corpus
+audit. The reassurance is recorded at `src:101-essays-wiest-2016`;
+it must not displace this page's evidence or its counterevidence.
+
 ## Assessment
 
 The record supports treating this as a real, self-recognized
