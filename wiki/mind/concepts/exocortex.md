@@ -174,6 +174,8 @@ The metaphor is Dan's own corpus's — "externalized prefrontal cortex" — and 
 
 - **[2026-10-06] This page's Cognitive Foundry claim corrected downward.** The previous version of this page's bunker-core edge repeated MAX_PRIME's claim flatly: Cognitive Foundry as a four-phase Claude-API app for generating "cognitive prosthetics," built as standalone software. Per dat:0711 (corpus-wide grep: no code, repo, dated commit, screenshot, or error log for any of the six named projects), the claim is session-memory `[MEM]`-tagged testimony about intent, not verified software — the same standing the Bunker Core page assigns it. The edge above now carries that caveat; nothing else on this page rested on the claim.
 
+- **[2026-10-23] Wiest's stop-making-sense instruction meets the retention protocol.** Wiest's *101 Essays* (Essays 37, 39) prescribes abandoning sense-making about one's life. The substrate documented here exists to make sense-making possible later and from the record — lossless, unconsolidated retention, "never summarize away detail." The prescription and the practice are opposed; the tension is recorded at `dat:2138`.
+
 ## Assessment
 
 The record supports three judgments, each stated with its receipts.
