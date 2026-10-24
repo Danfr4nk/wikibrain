@@ -4,7 +4,7 @@ page_type: concept
 title: "Conflict Architecture"
 status: active
 date_created: 2026-06-22
-date_modified: 2026-10-07
+date_modified: 2026-10-23
 tier: major
 knowledge: earned
 tags: [attachment, trauma-bond, forensic-analysis, intensity]
@@ -13,6 +13,8 @@ changelog:
     note: "Corrected severance base rate (127/110 → 129/128/36s per attachment-model 2026-08-23 recount); relabeled core-axioms stakes-encoding as Dan's framing rather than mechanism; added no-exit-states, two-machines, Grok-mirror, and Ally-halt sections"
   - date: 2026-10-07
     note: "Restructured to canonical article template v1; expanded to major tier — added threat-apology-reset loop, August grievance verdict as self-grading instrument, and first-boundary-in-the-record sections; prior correction material moved into Conflicts in the record"
+  - date: 2026-10-23
+    note: "Book cross-check (Dark Psychology 5-in-1, 2020; phase-2 book-mine): appended a dated note recording disposition (a) for the folk correspondence — the book's issue-hijacking and 'angry beast' escalation chapters name the derailment surface this page's threat-apology-reset model already covers more precisely; no node created, type-explanation rejected. No existing text altered."
 sources:
   - raw/self/dox-scan/DanAnnie_MasterRecord_March16.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/DanAnnie_MasterRecord_FINAL.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -236,3 +238,12 @@ Two boundaries on the judgment. The engine outside the Annie channel is unmeasur
 - kb/patterns/pat-self-prosecution-live-falsification-of-own-claims.md — live prosecution and retraction of his own claims on the record; two epistemic modes.
 - kb/patterns/pat-attachment-maximal-or-zero-no-decay.md — attachment topology: maximal weight or decisive zero; P(him leaving) ≈ 0.
 - kb/syntheses/severance-2026.md — the 2026 severance as a breakup designed as a falsifiable experiment; threats to validity named in advance.
+
+
+## Book cross-check — *Dark Psychology 5-in-1* (2020) — 2026-10-23
+
+*Added 2026-10-23 by the phase-2 book-mine of Dark Psychology 5-in-1 (src:dark-psychology-5in1-2020). Dated note only; nothing above is altered.*
+
+**Already on wiki — flag disposition (a).** The omnibus's cruder chapters name, in folk terms, two escalation-and-derailment behaviors this page already models from primary data: hijacking/diverting a complaint until the complainant is apologizing, and disproportionate escalation (the book's "angry beast") that trains the other person not to raise issues. These correspond to the derailment surface of this page's threat → apology → reset architecture and to the DARVO structure named in [[wiki/mind/synthesis/attachment-trauma-bond]] [dat:2118-folk-model-omits-intermittent-reinforcement-20261023].
+
+**Supersession, stated plainly.** No datum node was created for this correspondence, deliberately: this page's models are built from the corpus with counts and are strictly more precise than the genre's behavior nicknames. The book contributes vocabulary recognition only — a reader arriving from the folk literature will find its "hijacking" and "angry beast" chapters pointing at the surface of what this page measures — and its predator-type explanation for those behaviors is rejected, here as everywhere in this job. Nothing in the omnibus is evidence for any episode this page records.
