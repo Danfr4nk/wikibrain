@@ -518,6 +518,20 @@ readable surface; the instrument is the priced inventory beneath it.
   299-affirmations figure was never located in any source — do not
   quote it.
 
+- **Typology hunger, named from outside [2026-10-23].** Wiest's
+  *101 Essays* (Essay 76) lists Myers-Briggs, the Big Five, the
+  Enneagram and astrology together as signs of a collective hunger
+  for self-awareness. That is a description of the demand side of
+  this cluster: the book names the appetite, this hub is where its
+  products are adjudicated. Recorded at `dat:2142`.
+- **Interior-first readings fail this hub's gate [2026-10-23].**
+  Wiest's essays uniformly treat feelings and thoughts as
+  transparent reports on an interior that can be read and
+  re-chosen. Under the interpretation protocol above, instruments
+  see attention, not interior regulation; Wiest-derived readings
+  offered as profile evidence would have to be reframed to
+  attention level or dropped. Recorded at `dat:2143`.
+
 ## Assessment
 
 The cluster supports exactly four load-bearing claims: categorical
