@@ -78,6 +78,8 @@ This page is a source-concept page (mind/, concepts layer). It defines Jung's Se
 - **Self vs self (naming).** The miners proposed both `the-self.md` and `self.md`; the Vol 9-II treatment (totality-centre, complexio oppositorum, God-image) is the definitional home and this page consolidates it. Facet proposals (neutral self/quis-quid, self-as-centre-of-gravity) fold in as enrichment, not separate pages.
 - **Completeness vs perfection.** Jung's insistence that the archetype "denotes completeness but is far from being perfect" stands in deliberate tension with the Christian perfect-image tradition he analyzes. The tension is the point; it is not resolved here.
 
+- **Cross-check [2026-10-23] — Wiest's observer-self is not this Self.** The observing "you are not your thoughts" self of Wiest's *101 Essays* (Essays 8, 42, 93) is an ego-side witness, not the totality-centre defined here — no complexio oppositorum, no God-image coincidence, no inflation hazard. Noted so the shared word "self" does not merge the two objects; see `src:101-essays-wiest-2016`.
+
 ## See also
 
 - [[wiki/mind/concepts/individuation]]
