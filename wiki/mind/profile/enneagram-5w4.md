@@ -8,8 +8,9 @@ status: stable
 importance: high
 tier: major
 date_created: 2026-07-13
-date_modified: 2026-10-18
+date_modified: 2026-10-23
 changelog:
+  - "2026-10-23: Book cross-check (Dark Psychology 5-in-1, 2020; phase-2 book-mine): appended a dated note recording disposition (a) — Book 5 of the omnibus is a pop specimen of the Enneagram system, recorded as specimen-only and never a source for this page's contested typing. No existing text altered."
   - "2026-10-18: Declared framework-v2 layer (interpreted/profile); added reciprocal contradicts edge to big-five-psychometrics (SLOAN fourth-letter dispute)."
   - 2026-10-06: Restructured to canonical template v1 and expanded — wing adjudication extended with the red-team-probe-series and 2026-09-15 head-to-head (dat:1592); instinct-stack evidence folded from the-commissioned-self, the-unbroken-bond, bond-switch-2015, no-platonic-channel, single-channel, attachment-trauma-bond; SLOAN fourth-letter (RLOEI/RLUEI) dispute documented with the big-five cross-instrument conflict; all disputes moved into Conflicts in the record.
 sources:
@@ -560,3 +561,10 @@ job is to carry the disagreement, not to resolve it.
 - wiki/mind/synthesis/red-team-probe-series.md — nine vigilance episodes, 2026-08-14 to 2026-09-13.
 - wiki/mind/profile/big-five-psychometrics.md — the 2026-08-16 corpus audit: Altruism 1 inverted, Trust 9 / Self-Consciousness 91 / Artistic Interests 81 confirmed, Impulsiveness 96 silent; the attention-not-interior boundary.
 - ⚠ Source references unresolved (carried from the original page): raw/self/dox-md/FULL PROFILE 2026.md and raw/self/dox-scan/Dan Profile.txt — original targets no longer exist in the current corpus; the dossiers they pointed at are unheld.
+
+
+## Book cross-check — *Dark Psychology 5-in-1* (2020) — 2026-10-23
+
+*Added 2026-10-23 by the phase-2 book-mine of Dark Psychology 5-in-1 (src:dark-psychology-5in1-2020). Dated note only; nothing above is altered.*
+
+**Disposition (a) — already on wiki; the book is specimen, not source.** Book 5 of the omnibus is a low-grade pop specimen of the Enneagram system this page treats at a far higher evidentiary standard: uncritical test-and-type copy, nine types with wings and integration paths, and an ancient lineage asserted rather than documented (the symbol's modern form traces to 20th-century teachers, principally Gurdjieff and later Ichazo/Naranjo). As personality measurement the system does not hold in the peer-reviewed sense — types are unstable on retest and descriptions carry a Barnum structure — which is exactly why this page's contested-typing discipline (5w4 commissioned vs 5w6sx self-typed, provenance kept separate, dat:0937 / dat:0938) matters. The omnibus adds nothing to any claim on this page; it is recorded here only as an example of the pop source layer this profile must never be built from.
