@@ -73,6 +73,8 @@ This page is a source-concept page (mind/, concepts layer): it defines Jung's in
 - **Timing of the process.** Vol 7 places individuation proper "at the afternoon of life" for many; Vol 9-I treats it as the standing synthetic task of analysis at any stage. Jung does not resolve whether the afternoon-of-life framing is a rule or a typical case; both formulations are recorded.
 - **Individual vs individuality.** The Vol 7 addendum distinguishes them carefully: individuality is "that which is peculiar and unique in a given combination of collective psychological elements," while the individual remains "an indispensable link in the social structure." Conflating the two is the individualism error Jung warns against.
 
+- **Cross-check [2026-10-23] — Wiest's destination without the order.** Wiest's *101 Essays* (Essays 8, 42, 75, 93) prescribes an observer-self standing apart from thoughts, feelings and body — the destination of this page's process with the staged order removed: no shadow-first sequence, no transcendent function, no shift of the centre from ego to Self as Jung states it. A partial mapping only; the folk version is recorded at `src:101-essays-wiest-2016` and should not be cited for the process this page defines.
+
 ## See also
 
 - [[wiki/mind/concepts/the-self]]
