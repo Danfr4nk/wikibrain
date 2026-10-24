@@ -7,7 +7,7 @@ importance: critical
 knowledge: mixed
 status: active
 date_created: 2026-06-22
-date_modified: 2026-10-04
+date_modified: 2026-10-23
 date_range_start: 2015-11-01
 date_range_end: 2026-10-04
 infobox:
@@ -27,6 +27,8 @@ infobox:
   enneagram: 7w8
   personality_assessment: "[[wiki/people/annie-ulmer-personality-assessment]]"
 changelog:
+  - date: 2026-10-23
+    note: "Book cross-check (Dark Psychology 5-in-1, 2020; phase-2 book-mine): appended a dated note recording that the genre folk model's gaslighting pattern corresponds at act level to this page's fallout verdict (dat:2115), that the book's predator-type explanation is explicitly not imported, and that the book is not evidence for any act on this page. No existing text altered."
   - date: 2026-10-04
     note: "Full-record signal audit section added (97,925-row thread): Era 1 prospective claim language vs Era 2 zero; the extracted-claims catalog with direct answers (2025-08-11, -23, -27, 2026-04-02, 2026-02-02 completed under pressure) and the delayed 2025-11-28 answer ('I am. Not done' at 18:15:49 after the lunch deflection); July 29 'done' cluster re-scoped to the Jerel-disclosure fight on the operator's correction; reset letter and its non-answer; Sammy's summons texts, her first reply ('On my way Sammie'), and the corrected arrival causality (already en route); physical-only status; his second exit text (17:02); weight observation; May 30–31 Unicode-night section (corpus-verified); two dated corrections — exit/relapse re-scoped to post-2025-02-22, and the 2025-09-02 charge flagged uncorroborated by text. date_range_end 2026-10-04."
   - date: 2026-09-21
@@ -3546,3 +3548,12 @@ standing words, the prettiest girl in the world -- with a guessing game,
 a face-compare tool, the sixteen-color palette, and a two-minute mirror
 test. See `dat:annie-deep-autumn-verdict-20260921`; the page itself is
 [here](../share/eggie-bagels-colors.html).
+
+
+## Book cross-check — *Dark Psychology 5-in-1* (2020) — 2026-10-23
+
+*Added 2026-10-23 by the phase-2 book-mine of Dark Psychology 5-in-1 (src:dark-psychology-5in1-2020). Dated note only; nothing above is altered.*
+
+The manipulation-manual genre's folk model was cross-checked against this page because its Book 3 gaslighting pattern — persistent reality-denial, memory-countering, trivializing — is the one folk pattern with a documented act-level counterpart in this record: the fallout verdict carried on this page rates months of gaslighting above the affair itself [dat:2115-gaslighting-reality-denial-act-level-match-20261023]. The correspondence is recorded at the level of *acts the record documents*, which is where this page already works.
+
+**What is explicitly not imported.** The book explains such acts by a remorseless predator type (its Dark Triad/Tetrad bestiary, its narcissist/"empath" binary). That explanation does not hold, it diagnoses no one on this page, and the book is not evidence for any act recorded here — the verdict's sources are the record's own. The genre's "empath" counterpart type likewise has no home on this page or anywhere in the wiki: no entry was created for it.
