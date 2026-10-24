@@ -6,7 +6,7 @@ status: active
 knowledge: earned
 tier: major
 date_created: 2026-09-16
-date_modified: 2026-10-07
+date_modified: 2026-10-23
 date_range_start: 2026-01-17
 date_range_end: 2026-01-25
 infobox:
@@ -47,6 +47,8 @@ connections:
 changelog:
   - date: 2026-10-07
     note: "Expanded to major tier (>=3,000 words) and restructured to canonical template v1: story-first lede, the surfacing narrative (dat:1627), the frame-laundering chain (dat:1633), the quantified probing verdict (dat:1617), the Episode 0 filing mechanics, Conflicts in the record placed low, Assessment, See also, References. New evidence: the Jan 17 8:12 AM backyard-walk session, one-sided-tape reconstruction status, and the probe-series series-level reading of Episode 0."
+  - date: 2026-10-23
+    note: "Book cross-check (Dark Psychology 5-in-1, 2020; phase-2 book-mine): appended a dated note recording the gaslighting disambiguation — in Dan's record the word names both the relationship pattern and this saga's Jan 2026 frame-test improv (dat:2116); the two referents must not be flattened. No existing text altered."
 ---
 
 # The Gemini Gaslight Saga (January 2026)
@@ -430,3 +432,10 @@ most fully exercised.
 - raw/sammy/20260916-gemini-saga-transcripts/ — the nine transcribed screen recordings (file names carry the capture timestamps: Jan 17 08:45 → Jan 18 ~13:00, plus one Jan 19 23:34) and README
 - wiki/mind/synthesis/red-team-probe-series.md — Episode 0 filing; the series' series-level reading
 - wiki/mind/concepts/gemini.md — the Episode 0 summary as carried on the model concept page
+
+
+## Book cross-check — *Dark Psychology 5-in-1* (2020) — 2026-10-23
+
+*Added 2026-10-23 by the phase-2 book-mine of Dark Psychology 5-in-1 (src:dark-psychology-5in1-2020). Dated note only; nothing above is altered.*
+
+**One word, two referents — disambiguation recorded.** The phase-1 report on the omnibus flagged that "gaslighting" in Dan's record does not name only the relationship pattern documented on the wiki's Annie pages: it also names this saga — Dan's January 2026 improv frame-test against Gemini Live, conducted as play and as method [dat:2116-gaslighting-word-dan-ai-usage-gemini-20261023]. The folk vocabulary of the manipulation-manual genre (src:dark-psychology-5in1-2020) is the same vocabulary Dan is documented *using as a probe* here. Any corpus sweep or future synthesis that treats every "gaslighting" hit as a single kind of claim will misread both this page and the relationship record; the split is now carried explicitly on both sides (see the 2026-10-23 note on [[wiki/mind/concepts/attachment-model]]).
