@@ -169,6 +169,8 @@ This reframes the whole concept: it was never about attachment style. It is abou
 - **52-day arithmetic.** The severance synthesis (`syn:severance-2026`) flags an open arithmetic question: June 1 + 52 = July 23, but the fireworks email that ended the severance is dated July 4. One of the two figures is off; unresolved as of filing.
 - **Annie's role in the 2026-07-28 "cross out" exchange.** The nearest-approach-to-termination message ("Always have. Always fucking will. Goodnight.") is verbatim held-corpus; its reading as a deliberate anti-termination is interpretation, not her testimony about intent.
 
+- **Cross-check [2026-10-23] — Wiest's wordless voice.** Wiest's *101 Essays* (Essays 6, 7, 44, 99) holds that the trustworthy signal is a quiet inner voice that "won't use logic" and does not use words, and that choices needing justification are not genuine. On this page's documented architecture that is precisely the channel that does not bind: inferred and implicit cues register no rule-change; only an explicit stated signal does. Recorded as a tension at `dat:2137`.
+
 ## Assessment
 
 The concept's strength is that it was built from the outside in: the 129-episode recount, the format qualifier, the apology-frequency trajectory, and the severance-sequence corrections are all corpus-derived, and each revision moved *toward* the testimony (Dan's own "cross out" sentence names the mechanism verbatim) rather than away from it. The qualifier upgrade is the model working as designed: a headline that couldn't survive 459 counter-cases was replaced by a rule that explains them.
