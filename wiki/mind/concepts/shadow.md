@@ -73,6 +73,8 @@ This page is a source-concept page (mind/, concepts layer): it defines Jung's sh
 - **Personal vs archetypal.** The shadow is defined both as coinciding with the personal unconscious (Aion) and as an archetype (Vol 9-I). Jung does not treat this as a contradiction: it is the archetype nearest consciousness, the one whose personal clothing is thinnest — but the miners note the two formulations sit side by side without an explicit reconciliation passage.
 - **Integration vs suppression (clinical).** The Vol 11 Terry Lecture material makes integration-vs-suppression the therapeutic crux in neurosis. No passage was found in which Jung claims suppression ever works as more than a temporary measure.
 
+- **Cross-check [2026-10-23] — Wiest's folk form.** Brianna Wiest's *101 Essays* (2016) repeats, almost verbatim across Essays 1, 5, 28, 41 and 42, the formula "The things you hate about others are the things you cannot see in yourself" — this page's projection mechanism in folk form, with no Jung text, no stages, and recognition as the only test. Recorded at `dat:2135` so the two are never cited at the same strength: anything resting on the claim should be derived from the *Collected Works* material above, not from Wiest.
+
 ## See also
 
 - [[wiki/mind/concepts/individuation]]
