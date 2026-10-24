@@ -6,9 +6,10 @@ title: "The Forensic Method"
 aliases: ["forensic analysis", "forensic methodology", "procedural tells", "lossless retention", "anomaly-detection engine"]
 status: active
 date_created: 2026-06-22
-date_modified: 2026-10-20
+date_modified: 2026-10-23
 tier: major
 changelog:
+  - "2026-10-23: Book cross-check (Dark Psychology 5-in-1, 2020; phase-2 book-mine): appended a dated note recording the contrast between genre checklist-detection and this page's forensic method (dat:2117), with the standing caution that genre checklists are never to be cited as forensic instruments. No existing text altered."
   - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-handed-mirror (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - "2026-10-06: Expanded to major tier (>=3,000 words); restructured to canonical template v1."
   - "2026-10-16: Declared framework-v2 layer (interpreted/concept); added the missing reciprocal instantiates edge to the bespoke lexicon."
@@ -214,3 +215,12 @@ The record supports one: the forensic method is a real and unusually disciplined
 - kb/data/0037-publication-gate-fails-safe.md — the gate failing safe under adversarial test.
 - kb/data/0058-graduation-september-2009-then-audit-and-certification.md — publication closing the loop; testimony that explains residue.
 - kb/data/1871-workbench-facial-anchor-commission-20260922.md — the sessions.det.run misdiagnosis and its operator-side closure.
+
+
+## Book cross-check — *Dark Psychology 5-in-1* (2020) — 2026-10-23
+
+*Added 2026-10-23 by the phase-2 book-mine of Dark Psychology 5-in-1 (src:dark-psychology-5in1-2020). Dated note only; nothing above is altered.*
+
+**Contrast, not a match.** The omnibus sells defense-through-detection: memorized lists of body-language cues, manipulator characteristics, and tell-tale phrases that supposedly make hidden intent legible. That is the opposite epistemology to the method this page documents — construct the break condition, hold it, record every failure mode, quantify the verdict [dat:2117-checklist-detection-vs-forensic-method-20261023]. The detection claim also fails on its own ground: in controlled research, human deception detection is barely above chance, and no cue or cue-list diagnoses lying, intent, or character (phase-1 adjudication §iii.5, high confidence).
+
+**Standing caution recorded.** Genre checklists must never be cited in this wiki as if they were forensic instruments. The plausible future error this note exists to prevent is a suspicion dressed in a checklist's costume acquiring the standing of a measurement — the exact failure this page's discipline (audited instruments, stated break conditions) is built to refuse.
