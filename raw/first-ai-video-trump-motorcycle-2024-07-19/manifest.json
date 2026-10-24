@@ -1,0 +1,40 @@
+{
+  "files": [
+    {
+      "id": "src:first-ai-video-trump-motorcycle-2024-07-19",
+      "filename": "first-ai-video-2024-07-19.mp4",
+      "sha256": "652189ab3843cc81cdac181139e4695e2d600327671c343f42c0f6444541050c",
+      "bytes": 3300180,
+      "ingested": "2026-10-24",
+      "testimony": true,
+      "note": "Dan's own screen recording (iOS, HEVC 720x1558, 13.4s) of the 'Pol' story dated July 19, 2024 \u2014 the artifact his first-AI-video testimony attaches to. Embedded creation_time overwritten by 2026-10-24 re-export; date rests on the story header, the 7/19/24 tweet timestamp inside it, and his testimony."
+    },
+    {
+      "id": "src:first-ai-video-trump-motorcycle-2024-07-19",
+      "filename": "frame-01-rally.jpg",
+      "sha256": "3b3f684a5c7b677e8df6f4bc1aa229ae47fb40ff88f598fcce2f7c087997f866",
+      "bytes": 62484,
+      "ingested": "2026-10-24",
+      "testimony": false,
+      "note": "Still at ~2s: the AI clip's Trump figure at the rally podium inside the story's gold-ring frame."
+    },
+    {
+      "id": "src:first-ai-video-trump-motorcycle-2024-07-19",
+      "filename": "frame-02-pastrana.jpg",
+      "sha256": "863df0c0b8eecfedcbbcb82118d32311141390a30ace254e7e2075d4cc683d46",
+      "bytes": 65522,
+      "ingested": "2026-10-24",
+      "testimony": false,
+      "note": "Still at ~7s: motorcycle sequence with the 'TO DEFEAT TRAVIS BICKLE / YOU MUST BECOME TRAVIS PASTRANA' overlay and 'PUT TRUMP IN BUTLER' ticker fragment."
+    },
+    {
+      "id": "src:first-ai-video-trump-motorcycle-2024-07-19",
+      "filename": "frame-03-enten-post.jpg",
+      "sha256": "66b7b35e7e6b2c0337ef83f987740ef115fcde640ed58a7dd2bdc9d67892998d",
+      "bytes": 67610,
+      "ingested": "2026-10-24",
+      "testimony": false,
+      "note": "Still at ~12s: the recording runs into the next story item \u2014 Harry Enten's 7/19/24 X post with the CNN polling graphic."
+    }
+  ]
+}
