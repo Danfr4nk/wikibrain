@@ -111,6 +111,7 @@ connections:
     claim: "The unbroken-bond page holds the occupancy record this page's mechanism anatomizes: seventeen continuous years inside long-term bonds, the unattached total measurable in weeks."
 changelog:
   - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
+  - "2026-10-23: Book cross-check (Dark Psychology 5-in-1, 2020; phase-2 book-mine): appended a dated note recording the folk model's near-total omission of intermittent reinforcement — the mechanism this page finds load-bearing (dat:2118) — and disposition (a) for the DARVO correspondence. No existing text altered."
 ---
 
 
@@ -460,3 +461,12 @@ Annie. Every sentence above is either about Dan's measured cognitive
 architecture or restates a fact this page already carried.
 
 
+
+
+## Book cross-check — *Dark Psychology 5-in-1* (2020) — 2026-10-23
+
+*Added 2026-10-23 by the phase-2 book-mine of Dark Psychology 5-in-1 (src:dark-psychology-5in1-2020). Dated note only; nothing above is altered.*
+
+**The finding is a gap in the folk model.** This page's structural model lists intermittent reinforcement first among its mechanisms, alongside DARVO, the confession trap, and the tether oscillation. The omnibus — read in full, 144,590 words — barely theorizes intermittent reinforcement at all: its predator-type model (manipulation as the technique of a remorseless personality type) crowds out the reward-schedule mechanism this page finds load-bearing [dat:2118-folk-model-omits-intermittent-reinforcement-20261023]. A reader who imported the genre's model into this record would lose the mechanism that explains it; the omission is recorded here so that substitution is never made silently.
+
+**DARVO correspondence, disposition (a).** The book's folk chapters on issue-hijacking and escalation name the derailment surface this page and [[wiki/mind/concepts/conflict-architecture]] already model more precisely from the primary record. No new node was created for the correspondence, and the book's type-explanation is not imported. The omnibus adds no evidence to any claim on this page.
