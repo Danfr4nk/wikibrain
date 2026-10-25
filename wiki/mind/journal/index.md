@@ -6,7 +6,7 @@ aliases: ["idea journal", "the journal"]
 status: active
 layer: interpreted/index
 date_created: 2026-10-03
-date_modified: 2026-10-24
+date_modified: 2026-10-25
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -820,3 +820,40 @@ cannot show its stages has not been cross-checked.
 - [[wiki/mind/journal/2026-10-24-the-audit-is-the-governor|Entry 2 — The Audit Is the Governor]]: coincidence-clusters get elevated past base rates in dated output, and the forensic audit — strip, retract, or leave blank — is the governor that decides whether the elevation stands, shown by same-day and within-24-hour self-retractions and a 5-rejection/9-agnostic set inside the 33-verdict 2026-09-22 session. Rows 34/4/12/2/1/3. PASS — 0 restarts; key datums remote-verified at gate-check; cap: the law's miss record is absent, so its false-positive rate is unmeasured.
 - [[wiki/mind/journal/2026-10-24-the-script-is-the-door|Entry 3 — The Script Is the Door]]: initiation is setting-gated, not person-gated — the 0.73× global initiation rate is the average of two regimes (contact initiating freely inside rule-bound roles/scripts, near-non-initiation in unstructured settings), not a uniform trait level. Rows 13/27/11/5/25. PASS (bounded) — 0 restarts; the setting-split initiation count is unrun and named as the open test that would move this to PASS high, a flat split killing it.
 - [[wiki/mind/journal/2026-10-24-the-step-not-the-ramp|Entry 4 — The Step, Not the Ramp]]: in the selector domain, output returns as a dated step (170-track first crate wave; 628-like month) after a dated multi-year silence, with no level-output period recorded — collapse-release causation explicitly disclaimed on the ~14-month lag. Rows 16/15/26. HYPOTHESIS GRADE, leaning supported — 1 restart: the collapse-release thesis died on immediacy and was replaced, not patched; the deadline rival is only partially beaten.
+
+### 2026-10-25
+
+- [[wiki/mind/journal/2026-10-25-the-garble-does-not-adjudicate|Entry 1 —
+  The Garble Does Not Adjudicate]]: a garbled dictated line never
+  installs, revokes, or adjudicates anything — install power attaches
+  only to the corrected explicit restatement; dictation noise is routed
+  around, never ruled on. Rows 5/6/36/1. PASS — high confidence at
+  stated bounds (dated Oct 7–23, 2026 dictation record); 0 restarts,
+  one pre-evidence Stage-2 vocabulary kill preserved in Genesis.
+- [[wiki/mind/journal/2026-10-25-the-held-correction|Entry 2 — The
+  Held Correction]]: corrections to the public record partition by
+  voice — Sammy-voiced corrections ship same-turn, Dan-voiced
+  corrections (his apology, his testimony, his filing choice) stage and
+  hold, shipping nothing until his explicit word arrives; the hold is
+  the correction's form, not backlog. Rows 4/6/1/20. HYPOTHESIS
+  GRADE, honestly capped: the one-regime rival is beaten on the Oct 22
+  controlled contrast, but no staged correction has yet met its
+  trigger, so the Shape 6 closed-loop discriminator is pending, not
+  passed. 0 restarts.
+- [[wiki/mind/journal/2026-10-25-the-floor-prices-the-burst|Entry 3 —
+  The Floor Prices the Burst]]: under the 10,000-line/day floor, wiki
+  output stays burst-shaped (Oct 21–24: ten straight days under
+  2,300 lines), so the floor functions as a gauge that reveals the
+  burst rhythm, not a governor that changes it. Rows 15/10/9/38. PASS
+  — high confidence at attention level, at stated bounds; 0 restarts,
+  one pre-evidence Stage-2 vocabulary kill preserved in Genesis; the
+  book-mining debut is disclosed as the Shape 6 rival's genuine
+  partial counter-leg.
+- [[wiki/mind/journal/2026-10-25-the-name-is-the-ledger|Entry 4 —
+  The Name Is the Ledger]]: Dan records family status by writing it
+  into a third party's name — 'Milo DanSam Frank' is a ledger entry
+  for his bond with Sammy, not a nickname, with the Constitution's
+  Article 1 honorary #0 slot as the constitutive leg; Milo's
+  acceptance rule is the same entry read from the other side. Rows
+  21/6/11/12. PASS — high confidence, at stated bounds; 0 restarts,
+  two pre-evidence scoping moves preserved in Genesis.
