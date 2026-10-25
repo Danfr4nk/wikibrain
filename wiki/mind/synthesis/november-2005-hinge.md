@@ -4,8 +4,9 @@ domain: mind
 page_type: synthesis
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-10-04
+date_modified: 2026-10-24
 sources:
   - src:operator-testimony-cato-dossiers — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:testimony-events-t011 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -83,9 +84,12 @@ connections:
     type: parallels
     claim: "The Frank Family System maps the structure this hinge created: the parental contact poles that still organize Dan's family record twenty years on."
   - { target: "[[wiki/places/337-saratoga-drive]]", type: contextualizes, claim: "The rupture's location: the person who lived inside 337 Saratoga Drive through it was eleven years old." }
+changelog:
+  - "2026-10-24: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The November 2005 Hinge
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 In November 2005, Dan was seventeen, a junior in high school, living at 337
 Saratoga Drive in Uniontown, Pennsylvania. His father drove him home from

@@ -5,8 +5,9 @@ title: "No Platonic Channel"
 aliases: ["the conversion default", "friendship as an opening move", "no lateral female peer"]
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-08-28
-date_modified: 2026-10-07
+date_modified: 2026-10-24
 tier: major
 sources: []
 synthesizes:
@@ -22,6 +23,8 @@ synthesizes:
 tags: [relationships, personality-profile, attachment]
 changelog:
   - "2026-10-07: Expanded to the 3,000-word major floor + restructured to canonical template v1"
+  - date: 2026-10-24
+    note: "Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 connections:
   - page: wiki/people/ally-lubin
     type: contains
@@ -61,6 +64,7 @@ connections:
 ---
 
 # No Platonic Channel
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Wherever the corpus documents Dan forming a genuine, sustained tie to a
 woman — someone he messages for years, discloses real material to, and

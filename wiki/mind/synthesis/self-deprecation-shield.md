@@ -5,8 +5,9 @@ title: "The Self-Deprecation Shield"
 aliases: ["self-own as pre-emptive strike", "the humility performance", "confession as armor"]
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-24
 sources:
   - raw/self/dox-md/MAX_PRIME.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -82,9 +83,12 @@ connections:
     claim: "The August 21, 2024 'I know I'm not an official CIA agent anymore' message is this entry's social-lubricant case: the self-own as a frame that lets an awkward post-termination contact land as a joke rather than a bid."
   - { target: "[[wiki/mind/synthesis/the-scoreboard]]", type: extends, claim: "The calibration bands treated here as the shield's accountability layer (certain 0.25 actual, hedged 0.75) are the scoreboard's counted counter — the same ledger read as method rather than mechanism." }
   - { target: "[[wiki/mind/synthesis/the-curse]]", type: contextualizes, claim: "The same-day announce–self-own–reversal cycle (the December 30, 2015 'stay away from coca' arc) is the curse's complicating mechanism running at 24-hour resolution." }
+changelog:
+  - "2026-10-24: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Self-Deprecation Shield
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Dan calls out his own flaws before other people can. That is the observation, and it is not
 subtle — the handle he has carried since 2007 literally begins with *ihate*, and a decade of his

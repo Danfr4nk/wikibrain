@@ -4,8 +4,9 @@ domain: mind
 page_type: synthesis
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-09-16
+date_modified: 2026-10-24
 sources:
   - dat:1488-annie-will-fabricated-red-team-probe-20260913
   - dat:1463-claude-cancellation-hidden-answer-test-20260912
@@ -58,9 +59,12 @@ connections:
   - page: wiki/mind/profile/deviance-mapping
     type: parallels
     claim: "The probe series is the deviance audit's reflexivity in the other direction: the audit is an instrument recording its own commissioning (the observer-effect preamble); the five dated probe episodes are the operator stress-testing the instrument — and the first behavioral, out-of-sample instance of the audit's 'recursive self-analysis as a life project' outlier rather than a self-report of it."
+changelog:
+  - "2026-10-24: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Red-Team Probe Series
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Dan runs red-team probes against the AI systems he uses. This is not an
 accusation and not a metaphor — it is the documented, dated, self-admitted

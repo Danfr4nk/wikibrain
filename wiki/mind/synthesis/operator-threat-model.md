@@ -6,8 +6,9 @@ aliases: ["operator-threat-model", "The operator's threat model: competence corr
 tier: major
 status: active
 knowledge: mixed
+layer: interpreted/synthesis
 date_created: 2026-10-03
-date_modified: 2026-10-04
+date_modified: 2026-10-24
 sources:
   - kb/syntheses/operator-threat-model.md
   - kb/data/0044-old-wiki-testimony-ledger.md
@@ -46,9 +47,12 @@ synthesizes:
   - wiki/self/message-corpus-coverage-map
 changelog:
   - 2026-10-03: Restructured to canonical template v1; new page from kb/syntheses/operator-threat-model.md
+  - date: 2026-10-24
+    note: "Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Operator's Threat Model
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Dan's stated threat model for his own reasoning is a single sentence: competence correctly deployed, outcome still catastrophic [kb/syntheses/operator-threat-model.md]. The failure mode it names is never ignorance. It is the distance between what the record shows him attending to and checking, and what the record shows him actually doing with that attention.
 

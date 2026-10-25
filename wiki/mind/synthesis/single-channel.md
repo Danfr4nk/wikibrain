@@ -5,8 +5,9 @@ title: "The Single Channel"
 aliases: ["one channel at maximum voltage", "no failover", "concentration architecture"]
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-08-01
-date_modified: 2026-10-04
+date_modified: 2026-10-24
 sources:
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -73,9 +74,12 @@ connections:
     type: parallels
     claim: "Intensity Is No Longer the Only Mode reports the configuration this model does not produce: a second channel sustained at low intensity while the first is closed by verdict."
 
+changelog:
+  - "2026-10-24: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Single Channel
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 > **RE-CHECKED [2026-09-04] — the premise moved substantively, and it supplies**
 > **this page with a datapoint rather than a problem.**

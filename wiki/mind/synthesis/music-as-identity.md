@@ -4,8 +4,9 @@ page_type: synthesis
 title: "Music as Identity"
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-07-16
-date_modified: 2026-10-05
+date_modified: 2026-10-24
 sources:
   - "raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
@@ -76,10 +77,13 @@ changelog:
     note: "Constitution pass: ran the page against the eleven registers in SYNTHESIS_SPEC.md; the Ti-dominance closure account replaced the page's 'objects can't betray him' framing."
   - date: 2026-10-05
     note: "Expanded to major tier under canonical template v1: added the two-phase production arc, the taste-forensics skeleton (energy floor, three BPM rooms), the lyric-qualifier mechanism, dated Elliott Smith evidence (tattoo intent, 2025 gate verbatim, 2025 purge), and the 2026 verdicts; consolidated Conflicts in the record; added Assessment. Restructured per template."
+  - date: 2026-10-24
+    note: "Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 
 # Music as Identity
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 The thesis: for Dan, music is not a hobby or a "top artists" list. It is
 one of the few stable structures of self that has run the entire length of

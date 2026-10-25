@@ -4,8 +4,9 @@ page_type: synthesis
 title: "Music Taste Report — Chaos in October, Week of Sep 28 – Oct 4, 2026"
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-10-04
-date_modified: 2026-10-20
+date_modified: 2026-10-24
 date_range_start: 2026-09-28
 date_range_end: 2026-10-04
 tier: major
@@ -70,9 +71,12 @@ changelog:
     change: "Expanded to major tier (>=3,000 body words) and restructured to canonical template v1: story-first lede, Conflicts in the record, Assessment. Recorded the 2026-10-04 taste-verdict revisions (guitar/drum-kit doctrine, Lonelysoul. flip) and corrected the events/company attribution."
   - date: 2026-10-20
     change: "Successor version linked (music-taste-report-2026-10-20, the Bing Bong deviation): this report is now version 1 of a recursive series and is retained unchanged as the baseline the deviation is measured against; no findings in this page were altered."
+  - date: 2026-10-24
+    note: "Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Music Taste Report — Chaos in October, Week of Sep 28 – Oct 4, 2026
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 In the first week of October 2026, Dan Frank's taste in dance music was measured end to end for the first time. Twenty winners from his two Spotify discovery feeds — Discover Weekly and Release Radar — went through the same spectral pipeline as the 38 tracks of his Chaos in October mix: tempo, loudness, brightness, sub-bass share, stereo width, chroma. The result was a surprise only in its precision: on every measured axis, the newcomers were statistically indistinguishable from the incumbents. The filter did not move a notch; only the personnel changed.
 

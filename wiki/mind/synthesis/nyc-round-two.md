@@ -6,8 +6,9 @@ aliases: ["NYC-2", "NYC Round Two", "the second NYC era", "the 307 era", "the sh
 status: stable
 importance: major
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-27
-date_modified: 2026-10-04
+date_modified: 2026-10-24
 date_range: ["2019-02-09", "2025-02-22"]
 tags: [nyc-era, housing, career, relationships, addiction-recovery, music-production]
 sources:
@@ -68,11 +69,14 @@ connections:
     type: parallels
     claim: "The Libby-Era Engagement Verdict adjudicates the disengagement claim inside this era's last long form of the Annie relationship."
     claim: "GRIPNOTIC was developed in the Uniontown basement years immediately before this era and reactivated after it; the era itself is the producer-dormancy window — the shed absorbed the obsession slot."
+changelog:
+  - "2026-10-24: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 **Up:** [[wiki/mind/index|Mind]]
 
 # NYC, Second Era (2019–2025)
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Six years and thirteen days, one address, one 41-month job, one
 relationship in its last long form, one infidelity, one eviction he staged

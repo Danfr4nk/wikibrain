@@ -7,11 +7,14 @@ tier: major
 title: "Read-Receipt Forensics — chat.db Metadata and Its Traps"
 aliases: ["read receipts", "date_read", "chat.db metadata"]
 tags: [forensic-analysis, digital-footprint]
+layer: interpreted/synthesis
 date_created: 2026-08-09
-date_modified: 2026-10-20
+date_modified: 2026-10-24
 changelog:
   - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-06-anomalies-are-the-jurisdiction (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - "2026-10-07: Expanded to major tier (>=3,000 words); restructured to canonical template v1."
+  - date: 2026-10-24
+    note: "Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources: []
 synthesizes:
   - wiki/mind/concepts/forensic-method
@@ -47,6 +50,7 @@ connections:
 ---
 
 # Read-Receipt Forensics — chat.db Metadata and Its Traps
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 On the night of August 8–9, 2026, Dan ran a metadata extraction directly against his own macOS Messages database and read the result as a behavioural instrument: 230 rows of the Annie 212 thread, 24 hours, with the columns Apple keeps but no client ever shows — `date_read`, `date_delivered`, `reply_to_guid`, `thread_originator_guid`. The question he was trying to settle was a physical one: was she awake. The answer the timestamps returned shaped the night that followed, and that night is why the unmasking page carries the alias "the read-receipt night."
 

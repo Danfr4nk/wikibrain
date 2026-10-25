@@ -6,12 +6,15 @@ title: "Political Psyops & Hybrid Events"
 tags: [politics, forensic-analysis, ideology]
 status: stable
 tier: major
+layer: interpreted/synthesis
 date_created: 2026-06-22
-date_modified: 2026-10-21
+date_modified: 2026-10-24
 changelog:
   - "2026-10-21: Book-mine phase 2 — added psyops cross-checks section (Baker, Thomas, Webb Vols. 1-2) with documented mechanisms beyond J6 and flagged limits."
   - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-06-anomalies-are-the-jurisdiction (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - 2026-10-05: "Expanded to major tier; restructured to canonical article template v1"
+  - date: 2026-10-24
+    note: "Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - workspace/wiki-sync/scratchpad/2026-09-22-conspiracy-verdicts.md
@@ -67,6 +70,7 @@ connections:
 
 
 # Political Psyops & Hybrid Events
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Dan's political skepticism is not partisan; it is the forensic default
 applied to institutions on every side. A democratic socialist with zero

@@ -6,8 +6,9 @@ aliases: ["nyc-years synthesis", "the two New York eras", "NYC-1 and NYC-2 synth
 tier: major
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-10-03
-date_modified: 2026-10-03
+date_modified: 2026-10-24
 date_range_start: 2010-02-17
 date_range_end: 2025-02-22
 sources:
@@ -51,9 +52,12 @@ synthesizes:
   - wiki/work/creative-license
 changelog:
   - "2026-10-03: Created under canonical template v1; expanded from corpus"
+  - date: 2026-10-24
+    note: "Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Two New York Eras: 2010–2013 and 2019–2025
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Dan lived in New York twice, fourteen years apart in their endings, and the two stays have the same silhouette. Each begins with an arrival organised around someone else — a father's offer, a partner's lease, a broker-placed apartment — and each settles into work that put him in a trusted, cash-adjacent, low-rank position inside someone else's business. Each ends not with a plan but with an exit, and the exits are documented in very different amounts of paper. This page is the synthesis of the two eras as one shape, built from `kb/syntheses/nyc-years-2010-2025.md` and the nodes it cites. The period pages carry the eras separately — [[wiki/timeline/periods/nyc-first-era-2010-2013|the first era]] told from outside the record, [[wiki/mind/synthesis/nyc-round-two|the second]] told from inside the phone. What neither period page can show, because each holds only its own years, is the repetition.
 
