@@ -4,8 +4,9 @@ domain: mind
 page_type: synthesis
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-09-13
+date_modified: 2026-10-25
 sources:
   - src:playlist-analysis-2026-09-11
   - src:exportify-csvs-2026-09-11
@@ -53,9 +54,12 @@ connections:
   - { target: "[[wiki/mind/synthesis/music-as-identity]]", type: extends, claim: "Supplies the dated intake mechanism the sibling entry's 2026-08-28 constitution pass found missing — the ladder, the skip test, the four waves." }
   - { target: "[[wiki/people/annie-ulmer]]", type: references, claim: "Dates the music-intake freeze and the listening-led re-entry against the Annie decade — the re-entry lands exactly on the 2025 collapse." }
   - { target: "[[wiki/mind/concepts/the-cool-metric]]", type: measured-by, claim: "The 2026-09-13 cool-metric rebuild uses this entry's constraint stack to separate the performed provenance filter (anti-normie rhetoric) from the actual intake mechanism — the old thesis conflated the two into one axis. This entry is the measurement the rebuild's two-filter separation stands on." }
+changelog:
+  - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Taste as Filter Stack
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Dan's musical taste is not a preference. A preference is a ranking — this over that, a list with a top. What the 2026-09-11 playlist forensics describe is something else: a **filtration system**, eight filters in series, each with a measurable threshold, each rejecting a different class of candidate, the survivors assembled into a working record box. The right question about any track in the 2025 MASTER CRATE is not "why does he like this" but "what did it survive" — and the right question about the taste as a whole is not what it selects for but **what the survivors are for**.
 

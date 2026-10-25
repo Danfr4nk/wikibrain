@@ -5,8 +5,9 @@ title: "Steady-State Invisibility: What a Message Corpus Structurally Cannot Sho
 tier: major
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-17
-date_modified: 2026-10-04
+date_modified: 2026-10-25
 sources:
   - src:imessage-corpus-2026
   - src:facebook-export-2026-06-23
@@ -54,9 +55,11 @@ connections:
     claim: "The chemical-architecture synthesis's sixteen-year flat Suboxone row — a steady state that never gets narrated and exists in the record only as arithmetic — is this page's central chemical case of a constant the corpus structurally cannot show."
 changelog:
   - 2026-10-03: Restructured to canonical template v1; expanded from corpus
+  - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Steady-State Invisibility: What a Message Corpus Structurally Cannot Show
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 [[wiki/mind/index|mind]]
 

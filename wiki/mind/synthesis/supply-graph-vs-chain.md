@@ -4,8 +4,9 @@ domain: mind
 page_type: synthesis
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-09-19
+date_modified: 2026-10-25
 sources:
   - src:corpus-authoritative-export — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:old-wiki-export-2026-09-04
@@ -56,9 +57,12 @@ connections:
   - { target: "[[wiki/people/tom-maison-supply-record]]", type: corroborates, claim: "The Tom supply ledger — announcement pattern, loss-absorption episode, 2014 precedent, May 2026 sequence — is this page's illicit-layer evidence base." }
   - { target: "[[wiki/health/suboxone-dose-curve]]", type: contextualizes, claim: "The one-point-and-silence dose inventory behind this page's demand side — the fixed-rate intake the graph's edges exist to carry." }
   - { target: "[[wiki/health/maintenance-vs-verdict]]", type: references, claim: "The rule-generalization synthesis whose 'May 2026 demonstration' covers the same failure from the chemical-register side." }
+changelog:
+  - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Supply Graph, Not Supply Chain
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 The existing account of Dan's procurement — [[wiki/mind/synthesis/supply-network]] — is a chain: a single continuously-operating logistics architecture, a succession of nodes from [[wiki/people/zachariah-harshman|Zach Harshman]] (2014) through [[wiki/people/johnny-dealer|Johnny]] (2018) to [[wiki/people/tom|Tom]] (terminal era), and a single point of failure at the end of it, where Tom's mid-May 2026 no-show propagated through 72+ hours of withdrawal into a lost job.
 

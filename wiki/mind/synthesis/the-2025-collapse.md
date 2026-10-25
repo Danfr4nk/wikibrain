@@ -4,8 +4,9 @@ domain: mind
 page_type: synthesis
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-10-04
+date_modified: 2026-10-25
 date_range_start: 2025-01-09
 date_range_end: 2025-12-31
 sources:
@@ -67,9 +68,12 @@ connections:
     type: instantiates
     claim: "The 2025 collapse is the unbroken bond's hardest stress case: the Feb 22, 2025 return and the staged exit dissolved the household while the attachment the bond page measures continued unbroken into 2026."
   - { target: "[[wiki/mind/synthesis/severance-declarations]]", type: references, claim: "The severance-declarations synthesis analyzes the declaration ritual that structures the relationship whose end this page narrates." }
+changelog:
+  - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The 2025 Collapse
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 One ninety-day window — **January 9 to April 27, 2025** — contains the end of the New York era, the end of eleven years of cohabitation, and the conditions under which the dance-music re-entry would be built eight months later.
 The affair was discovered on January 9.

@@ -6,8 +6,9 @@ aliases: ["the payload rule", "host and payload", "why the long jobs were long"]
 status: active
 knowledge: earned
 importance: high
+layer: interpreted/synthesis
 date_created: 2026-08-02
-date_modified: 2026-08-28
+date_modified: 2026-10-25
 sources:
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -75,9 +76,12 @@ connections:
   - page: wiki/mind/profile/big-five-psychometrics
     type: evidenced-by
     claim: "The intellect/impulsivity paradox this page's completion-drive reading depends on is a live, unresolved dispute rather than settled fact: this instrument reads Impulsiveness 96 as a brake failure, acquisition-drive reads the same behaviour as an engine, and this page inherits the engine reading without ever stating that the instrument itself reads it the other way — carried forward here rather than laundered into consensus."
+changelog:
+  - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Embedded Objective
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 > **RE-CHECKED [2026-08-28]:** flagged stale against
 > [[wiki/legal/2015-possession-arrest]] (2026-08-28), which added a second,

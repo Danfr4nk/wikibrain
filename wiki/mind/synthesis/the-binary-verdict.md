@@ -5,8 +5,9 @@ title: "The Binary Verdict"
 aliases: ["zero-sum cognition", "the two-state default", "black-and-white by default"]
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-08-28
-date_modified: 2026-10-04
+date_modified: 2026-10-25
 sources: []
 synthesizes:
   - wiki/mind/synthesis/totality-themes
@@ -94,9 +95,12 @@ connections:
   - page: wiki/mind/journal/2026-10-04-the-one-way-valve
     type: tested-against
     claim: "The One-Way Valve (Idea Journal, 2026-10-04) is this verdict's dated field test: credence grades freely upstream and still exits through the binary gate, with no graded verdict recorded downstream."
+changelog:
+  - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Binary Verdict
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Wherever a question in Dan's cognitive architecture resolves to a *verdict* —
 is this person worth keeping, is this taste real, is this order legitimate,

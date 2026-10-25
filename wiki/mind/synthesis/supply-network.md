@@ -4,8 +4,9 @@ page_type: synthesis
 title: "The Supply Network"
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-07-18
-date_modified: 2026-10-04
+date_modified: 2026-10-25
 sources:
   - raw/people/captures/2026-08-02_010509_jay-lauer-death.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - "raw/self/dox-md/MAX_PRIME.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
@@ -129,9 +130,12 @@ connections:
     type: evidences
     claim: "The supply network's terminal record evidences the grievance verdict's window: its last documented transaction is the failed $60 handoff on the evening of 2026-08-16, inside the five hours in which the relationship ended."
   - { target: "[[wiki/mind/synthesis/august-26-block-retraction]]", type: references, claim: "The Aug-27–Sep-7 daily texting the retraction forensically establishes ran on this network's final configuration — five handoffs in six days after the June 1 closure — so the severance-that-wasn't left no operational gap in the procurement channel either." }
+changelog:
+  - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Supply Network
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 > **RE-CHECKED [2026-08-26]:** flagged stale against [[wiki/people/menore]]
 > (2026-08-26), which closed its last open gap: 2022's zero mentions are

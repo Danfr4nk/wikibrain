@@ -7,11 +7,14 @@ status: active
 knowledge: earned
 importance: high
 tier: major
+layer: interpreted/synthesis
 date_created: 2026-08-19
-date_modified: 2026-10-05
+date_modified: 2026-10-25
 changelog:
   - date: 2026-10-05
     note: "Restructured to canonical template v1; Conflicts in the record added with 2026-09-13 provenance correction, two 2026-10-04 gap resolutions, and the 2026-10-05 Ally-prediction evaluation."
+  - date: 2026-10-25
+    note: "Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
   - raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -63,6 +66,7 @@ connections:
 ---
 
 # The Cato Seat
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 In the system prompt Dan wrote to configure his own AI collaborator, the identity block reads:
 

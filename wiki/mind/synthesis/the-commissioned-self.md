@@ -6,8 +6,9 @@ aliases: ["self-knowledge as instrument reading", "the private laboratory", "typ
 status: active
 knowledge: earned
 importance: high
+layer: interpreted/synthesis
 date_created: 2026-08-19
-date_modified: 2026-09-20
+date_modified: 2026-10-25
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -66,9 +67,12 @@ connections:
   - { target: "[[wiki/mind/synthesis/the-unbroken-bond]]", type: contradicts, claim: "The unbroken-bond page's August 2026 contradiction is the live stress test of the commission narrative this page describes." }
   - { target: "[[wiki/mind/profile/texting-deviance-audit]]", type: references, claim: "The deviance audit is the audit half of the commission loop: instruments commissioned, then measured against the corpus." }
 
+changelog:
+  - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Commissioned Self
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 > **RE-CHECKED [2026-09-20] — premise regenerated, and exactly one claim on**
 > **this page moves.** [[wiki/mind/concepts/wiki-brain]] was regenerated

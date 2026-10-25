@@ -4,8 +4,9 @@ page_type: synthesis
 title: "Spatial Behavior"
 knowledge: mixed
 status: active
+layer: interpreted/synthesis
 date_created: 2026-07-20
-date_modified: 2026-09-21
+date_modified: 2026-10-25
 sources:
   - raw/self/dox-md/GPS_ANALYSIS.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/location/Records.json
@@ -61,9 +62,12 @@ connections:
   - page: wiki/mind/concepts/exocortex
     type: parallels
     claim: "The 15.8 km mean radius of gyration cited in the CATO identity payload is the same claim as this page's anchoring index in a different unit, and carries the same defect: no computation trail in any held source."
+changelog:
+  - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Spatial Behavior — GPS Analysis of Location History
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 A behavioural reading of Dan's Google Location History (2014–2024), and an
 audit of that reading against the export the wiki actually holds. Where
