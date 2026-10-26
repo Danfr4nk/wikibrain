@@ -2,8 +2,9 @@
 domain: mind
 page_type: period
 status: stable
+layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-04
+date_modified: 2026-10-26
 knowledge: mixed
 date_range_start: 2013-01-15
 date_range_end: 2013-12-27
@@ -55,9 +56,12 @@ connections:
   - page: wiki/people/alexis-armel
     type: evidences
     claim: "Bounds the only off-interval in six years from the public side and names who was in it: 'I guess I tweet more when I'm single?' (9 August), eleven days with @katie_efff in late August, and Alexis named again on 8 September."
+changelog:
+  - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Twitter / X — 2013
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 **The year the account becomes a music project's feed, and the year the record
 itself changes underneath that.** From mid-August onward the page is a

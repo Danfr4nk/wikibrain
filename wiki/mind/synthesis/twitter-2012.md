@@ -2,8 +2,9 @@
 domain: mind
 page_type: period
 status: stable
+layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-04
+date_modified: 2026-10-26
 knowledge: mixed
 date_range_start: 2012-01-01
 date_range_end: 2012-12-27
@@ -43,9 +44,12 @@ connections:
   - page: wiki/mind/synthesis/twitter-2024-cognitive-state
     type: evidences
     claim: 'Election-night coverage read as a product managed for audience retention — "I refuse to believe that tonight''s earlier results were as close as we were told. Need to keep it tight for ratings." (2012-11-07) — twelve years before the 2024 corpus runs the same analysis at length.'
+changelog:
+  - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Twitter / X — 2012
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 **The year the ambitions close and the media diet that produces 2020 begins.**
 In January Dan is *"considering a pro career playing Starcraft"*; by August he

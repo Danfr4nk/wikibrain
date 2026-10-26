@@ -2,8 +2,9 @@
 domain: mind
 page_type: period
 status: stable
+layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-04
+date_modified: 2026-10-26
 knowledge: mixed
 date_range_start: 2018-01-01
 date_range_end: 2018-12-27
@@ -31,9 +32,12 @@ connections:
   - page: wiki/interests/favorites/music/artists/elliott-smith
     type: evidences
     claim: "Records an intended Elliott Smith tattoo on 24 January 2018 — 'I deserve it' — which places a tattoo year opening nine months before the Misfits work that wiki/self/tattoos treats as its start, and which nothing later shows was carried out."
+changelog:
+  - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Twitter / X — 2018
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 **The year the account carries a death.** 2018 opens, on New Year's Day, with a
 four-tweet thread about Dan's 97-year-old great-grandmother, her advanced

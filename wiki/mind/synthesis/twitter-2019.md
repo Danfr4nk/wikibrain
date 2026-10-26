@@ -2,8 +2,9 @@
 domain: mind
 page_type: period
 status: stable
+layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-04
+date_modified: 2026-10-26
 knowledge: mixed
 date_range_start: 2019-01-02
 date_range_end: 2019-12-17
@@ -34,9 +35,12 @@ connections:
   - page: wiki/mind/psychosexual/arrangement-history
     type: evidences
     claim: 'A 2019 retrospective on the 2010 move lists four reasons and then inverts the ordering — "^sort by( importance: low to high)" — which places "availability of sex workers" first. Told nine years after the fact, by somebody who chose to tell it.'
+changelog:
+  - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Twitter / X — 2019
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 **The year he leaves Pennsylvania, quits smoking for the third recorded time,
 reads his own archive, and is still voting for Cory Booker ten months before

@@ -2,14 +2,16 @@
 domain: mind
 page_type: period
 status: stable
+layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-07
+date_modified: 2026-10-26
 tier: major
 knowledge: mixed
 date_range_start: 2015-01-01
 date_range_end: 2015-12-28
 title: "Twitter / X — 2015"
 changelog:
+  - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-07: Expanded to the 3,000-word major floor + restructured to canonical template v1"
 sources:
   - "raw/twitter/archive.jsonl"
@@ -34,6 +36,7 @@ connections:
 ---
 
 # Twitter / X — 2015
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 **The year SLOPPP stops.** 2014 ran a Beatport contest entry, six named-artist
 remixes, three mix series and a live video show. 2015 has **two** pieces of

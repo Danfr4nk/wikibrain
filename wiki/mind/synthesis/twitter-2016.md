@@ -2,8 +2,9 @@
 domain: mind
 page_type: period
 status: stable
+layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-04
+date_modified: 2026-10-26
 knowledge: mixed
 date_range_start: 2016-01-01
 date_range_end: 2016-12-27
@@ -34,9 +35,12 @@ connections:
   - page: wiki/self/location-history
     type: evidences
     claim: 'A car chase through his Uniontown yard reported to a Pittsburgh news reporter on 2016-04-21, plus a Pittsburgh snowstorm Periscope and Kennywood in July — a third year placing him in Fayette County inside the address-level blind window.'
+changelog:
+  - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Twitter / X — 2016
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 **The year the music becomes a hobby and golf becomes a subject.** SLOPPP is
 not gone — there is a Periscope bedroom DJ set on New Year's Day, a Juicy J

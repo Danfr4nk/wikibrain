@@ -2,8 +2,9 @@
 domain: mind
 page_type: period
 status: stable
+layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-04
+date_modified: 2026-10-26
 knowledge: mixed
 date_range_start: 2014-01-01
 date_range_end: 2014-12-25
@@ -43,9 +44,12 @@ connections:
   - page: wiki/interests/favorites/music/artists/lil-wayne
     type: evidences
     claim: "An hour spent making Picasso-style distortion edits of the artist's photographs (30 April 2014) — three years after calling him stupid and seeing him at Bamboozle, which reads as sustained amused attention rather than as fandom or contempt."
+changelog:
+  - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Twitter / X — 2014
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 **The peak of SLOPPP, and the year Dan sided with Anthony Cumia.**
 

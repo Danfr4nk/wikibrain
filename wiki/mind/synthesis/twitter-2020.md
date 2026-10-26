@@ -2,13 +2,15 @@
 domain: mind
 page_type: period
 status: stable
+layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-07
+date_modified: 2026-10-26
 tier: major
 knowledge: mixed
 date_range_start: 2020-01-01
 date_range_end: 2020-10-03
 changelog:
+  - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-07: Expanded to the 3,000-word major floor + restructured to canonical template v1; 'thinnest year' claim corrected against the current year index; 2009-departure conflict with the 'first self-identification' claim recorded."
 title: "Twitter / X — 2020"
 sources:
@@ -31,6 +33,7 @@ connections:
 ---
 
 # Twitter / X — 2020
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 **Twenty-five posts, and two of them move the corpus.** 2020 is the second-quietest complete year on the @danfrank record — twenty-five originals against fifty-seven in 2019 and thirty-four in 2021 — and it is the year [[wiki/mind/synthesis/2020-left-turn]] is named after. What it contains is the conversion happening in public, at two separate moments, neither of which is the one that page dates.
 

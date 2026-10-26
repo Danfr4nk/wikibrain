@@ -2,8 +2,9 @@
 domain: mind
 page_type: period
 status: stable
+layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-04
+date_modified: 2026-10-26
 knowledge: derived
 date_range_start: 2010-01-18
 date_range_end: 2010-12-31
@@ -55,9 +56,12 @@ connections:
   - page: wiki/people/eric-jester
     type: evidences
     claim: "Two 2010 posts hold the friendship at full volume seven years before the message thread begins — a church joke at his expense in August, and a shared Office in-joke in March that neither man explains because neither has to."
+changelog:
+  - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Twitter / X — 2010
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 **The year the life the rest of this wiki describes actually starts.** In
 fifty-three days Dan passes a Pro Tools certification exam, announces Brooklyn

@@ -2,8 +2,9 @@
 domain: mind
 page_type: period
 status: stable
+layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-04
+date_modified: 2026-10-26
 knowledge: mixed
 date_range_start: 2009-01-07
 date_range_end: 2009-12-31
@@ -43,9 +44,12 @@ connections:
   - page: wiki/interests/favorites/music/artists/john-mayer
     type: evidences
     claim: "Thirteen months after the confirmed 2008 show the records are still in rotation ('good moods breed good moods') and by November he is bantering with a dedicated fan account, @JMayerFan216 — engagement no ticket table reaches."
+changelog:
+  - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Twitter / X — 2009
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 **The last full year before the life the rest of this wiki is about.** 2009
 opens on a twenty-year-old finishing an audio degree in Winter Park and closes

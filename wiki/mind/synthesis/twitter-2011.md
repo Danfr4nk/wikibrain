@@ -2,8 +2,9 @@
 domain: mind
 page_type: period
 status: stable
+layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-04
+date_modified: 2026-10-26
 knowledge: mixed
 date_range_start: 2011-01-02
 date_range_end: 2011-12-31
@@ -49,9 +50,12 @@ connections:
   - page: wiki/interests/the-office
     type: evidences
     claim: "'What the fuck there's 100 dogs at the office, and no I'm not employed as a dog walker.' (21 October 2011) is a pun that only lands because the phrase was already doing double duty — the register surviving three years past the 2008 apartment that was named out of it."
+changelog:
+  - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Twitter / X — 2011
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 **The year the reasoning style arrives fully formed, and the career goes
 backwards.** By the end of 2010 Dan had a Brooklyn apartment, a girlfriend and
