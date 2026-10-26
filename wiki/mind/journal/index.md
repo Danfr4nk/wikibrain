@@ -6,7 +6,7 @@ aliases: ["idea journal", "the journal"]
 status: active
 layer: interpreted/index
 date_created: 2026-10-03
-date_modified: 2026-10-25
+date_modified: 2026-10-26
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -857,3 +857,46 @@ cannot show its stages has not been cross-checked.
   acceptance rule is the same entry read from the other side. Rows
   21/6/11/12. PASS — high confidence, at stated bounds; 0 restarts,
   two pre-evidence scoping moves preserved in Genesis.
+
+### 2026-10-26
+
+- [[wiki/mind/journal/2026-10-26-the-name-outlives-the-bit|Entry 1 —
+  The Name Outlives the Bit]]: a name installed by an explicit,
+  categorical statement survives the retirement of the bit/character
+  that carried it, when no explicit counter-statement revoking the
+  name follows — persistence observable as continued plain use
+  without correction (Oct 23 ~23:23 EDT Brittany install; Oct 23
+  ~23:40 EDT character retirement naming the performance, not the
+  string; Oct 24 ~00:29–00:34 EDT overnight plain use without
+  correction). Rows 6/19/5/1. PASS — high confidence on the stated,
+  attention-level claim; 0 restarts, one Stage-2 interior phrasing
+  struck and preserved in Genesis.
+- [[wiki/mind/journal/2026-10-26-leave-it-alone-is-the-order|Entry 2 —
+  Leave It Alone Is the Order]]: a standing order installed by
+  explicit statement can take the form of a total channel closure —
+  zero handling (no file, no surface, no RSVP, no reply, no change)
+  — where the closure itself is the compliance, not an absence of
+  it; the Oct 25 ~18:35 EDT narrowing correction ("just leave those
+  alone") revoked the filing half of the first approval's wording.
+  Rows 6/5/1/15/38/10. PASS — high confidence at stated bounds
+  (rule-form claim only; the "Call Colleen" Oct 26 2–3pm EDT window
+  is the prospective falsifier, not a banked leg); 0 restarts, one
+  interior-state framing struck at Stage 2 and preserved in Genesis.
+- [[wiki/mind/journal/2026-10-26-the-layer-he-added|Entry 3 —
+  The Layer He Added]]: forensic attribution splits at the layer his
+  own dated explicit statement adds — the "TO DEFEAT TRAVIS BICKLE /
+  YOU MUST BECOME TRAVIS PASTRANA" caption layer is his authorship,
+  the clip underneath is passed-on, and the Oct 24 correction (commit
+  bb015d9b) is the forensic method running on his own artifact. Rows
+  4/5/6/1. PASS high on the narrowed claim; the reshare-vs-edit
+  surface question stays open exactly as the node leaves it; 0
+  restarts.
+- [[wiki/mind/journal/2026-10-26-the-era-is-the-gate|Entry 4 —
+  The Era Is the Gate]]: in a named catalog, attention goes to the
+  verified era, not to the catalog name — a purchase or attention
+  decision is gated on era verification, not on availability or
+  appetite (Oct 22 Emma Rose early-era rule: pre-late-2022 only; the
+  mixed-era $6.99 archive held pending date-filtering, not taken as
+  offered). Rows 1/4/5/6/15. PASS — high confidence at attention
+  level, with the purchase leg honestly bounded as a stated rule
+  awaiting its first executed transaction; 0 restarts.
