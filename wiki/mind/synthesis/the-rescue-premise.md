@@ -6,8 +6,9 @@ aliases: ["the rescue premise", "why this rupture is different"]
 status: active
 knowledge: earned
 importance: critical
+layer: interpreted/synthesis
 date_created: 2026-08-22
-date_modified: 2026-10-04
+date_modified: 2026-10-25
 date_range_start: 2026-08-16
 date_range_end: 2026-08-22
 tags: [relationships, trauma-bond, attachment, forensic-analysis, future]
@@ -70,9 +71,12 @@ connections:
     type: extends
     claim: "The rescue premise extends the 2026 severance system by testing whether that differential makes external extraction viable, and finds externally supplied exits have never held because the differential is endogenous."
     claim: "The confession trap this page restates from dan-annie-fallout-verdict and attachment-trauma-bond — 'the exit was never through the verdict, it was through the door' — is the same verdict-cognition boundary case documented on both: a rescuer 'supplies neither the verdict nor the door,' which is this page's own way of saying a third party cannot substitute for the closure the cognitive stack requires and never received."
+changelog:
+  - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Rescue Premise — What Is Actually Different About the August 2026 Rupture
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 > **RE-CHECKED [2026-08-28]:** flagged stale against
 > [[wiki/mind/synthesis/dormancy-not-exit]] (2026-08-28), which resolved a

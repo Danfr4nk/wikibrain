@@ -5,12 +5,14 @@ title: "The Serial Monogamist"
 aliases: ["single life as a null state", "the transfer not the exit", "engineered attraction"]
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-08-28
-date_modified: 2026-10-20
+date_modified: 2026-10-25
 date_range_start: 2000
 date_range_end: 2026
 tier: major
 changelog:
+  - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-dormant-slot (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - "2026-10-07 — Expanded to the 3,000-word major floor + restructured to canonical template v1"
 sources: []
@@ -62,6 +64,7 @@ connections:
 ---
 
 # The Serial Monogamist
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Dan has been inside a long-term romantic relationship for roughly
 seventeen consecutive years — since November 2009, through two bonds, with

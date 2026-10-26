@@ -5,8 +5,9 @@ title: "The Unbroken Bond"
 aliases: ["the occupied slot", "continuous pair-bonding", "the seventeen years"]
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-08-01
-date_modified: 2026-10-04
+date_modified: 2026-10-25
 date_range_start: 2009-11-01
 date_range_end:
 sources:
@@ -66,9 +67,12 @@ connections:
   - page: wiki/mind/synthesis/attachment-trauma-bond
     type: evidences
     claim: "This page's seventeen-year occupancy record is the evidence the attachment-trauma-bond page anatomizes as mechanism."
+changelog:
+  - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Unbroken Bond
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 > **RE-CHECKED [2026-08-28] — premise moved, and it confirms this page rather**
 > **than complicating it.** [[wiki/people/alexis-armel]] moved 2026-08-28 for a

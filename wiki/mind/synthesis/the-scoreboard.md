@@ -5,8 +5,9 @@ title: "The Scoreboard"
 aliases: ["quantification as control", "the man with the receipts", "counting as a practice"]
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-10-04
+date_modified: 2026-10-25
 sources:
   - kb/data/0081-explicit-commitment-architecture.md
   - kb/data/0113-annie-personality-assessment-corpus-size-overstated.md
@@ -69,9 +70,12 @@ connections:
     type: evidenced-by
     claim: "The scoreboard's 129-declaration census item is evidenced by the audit's primary-record recount of the 95,067-row Annie corpus and its retirement of the 127 dossier figure."
   - { target: "[[wiki/mind/synthesis/the-curse]]", type: references, claim: "The curse's Case 6 is the incident-level form of this entry's counting: one $50 event, worked as a case file." }
+changelog:
+  - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Scoreboard
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Dan counts things the way other people have opinions about them. Not occasionally,
 not recreationally — as a primary instrument of control over his own life, other

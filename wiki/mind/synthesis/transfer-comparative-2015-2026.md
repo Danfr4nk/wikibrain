@@ -5,8 +5,9 @@ title: "The Transfer Comparative: 2015 Completed, 2026 Failed"
 aliases: ["transfer-comparative-2015-2026", "the two transfers", "completed vs failed transfer"]
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-10-04
+date_modified: 2026-10-25
 sources:
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/message-csv/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -67,9 +68,12 @@ connections:
     type: parallels
     claim: "The Severance-Language Atlas supplies the grammar both transfers were declared in: 129 dyad episodes, system-wide as vocabulary, dyad-concentrated as performance."
     claim: "That page's incompatibility finding — her precondition is proximity and knowledge, his operating condition is inaccessibility — is this entry's structural explanation for why the 2026 successor could not complete even had she answered: the stated price, paid in full, would terminate the channel's operating condition."
+changelog:
+  - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Transfer Comparative: 2015 Completed, 2026 Failed
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 The same machinery ran twice, eleven years apart, and produced opposite
 results. In November 2015 the primary attachment target transferred from

@@ -3,8 +3,9 @@ domain: mind
 page_type: synthesis
 title: "The Forger and the Detector"
 status: active
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-10-04
+date_modified: 2026-10-25
 knowledge: earned
 tags: [forensic-analysis, ai-collaboration, personality-profile, trust, addiction-recovery]
 sources:
@@ -48,9 +49,12 @@ connections:
     type: parallels
     claim: "The forger and the detector parallels that consumption rule from its adversarial side: contemporaneous records outrank testimony in this wiki, yet the record shows receipts are manufacturable by the same operator, with no receipt-authentication step in the method."
     claim: "M4's corollary — the presence of a signal does not identify its author — is the same hole from the other side: authored input in this corpus arrives from third parties on borrowed devices as well as from the operator."
+changelog:
+  - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Forger and the Detector
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 The wiki's evidence-first epistemics — contemporaneous records outrank
 testimony, documented counts override generated metaphor, receipts settle

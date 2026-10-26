@@ -4,8 +4,9 @@ page_type: synthesis
 tier: major
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-10
-date_modified: 2026-10-05
+date_modified: 2026-10-25
 synthesizes:
   - wiki/people/milo
   - wiki/people/gabe
@@ -26,10 +27,12 @@ connections:
     type: instance-of
     claim: "The ideological case: the CATO persona, built on Cato the Younger — Caesar's specific historical opponent — declares the power-analysis lens in the name itself, though Dan's own stated reasoning for the choice is a recorded gap."
 changelog:
+  - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-05: Restructured to canonical template v1"
 ---
 
 # The Name Is the Instrument
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 He never names anything neutrally. Pets, handles, AI personas, and political identities all carry deliberately loaded names — and the name does work in the world, reading the room so he doesn't have to.
 

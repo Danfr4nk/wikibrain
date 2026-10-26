@@ -4,8 +4,9 @@ page_type: synthesis
 title: "Totality Themes"
 knowledge: earned
 status: active
+layer: interpreted/synthesis
 date_created: 2026-06-22
-date_modified: 2026-09-04
+date_modified: 2026-10-25
 sources:
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -160,10 +161,13 @@ connections:
   - page: wiki/self/context-core
     type: evidenced-by
     claim: "The Cross-Corpus Extensions section (2026-07-15) cites 'the spine' by name as primary evidence at least eight times — the alias chronology, the money-flow direction, the vertical/romantic-axis starvation reading — while the core Irreversibility Firewall section above it deliberately downgraded the same raw material to corroboration only (note_on_sources, 2026-08-11); one page therefore carries two different evidentiary standards for the same source depending on which of its two halves is doing the reasoning, and until this edge neither half linked the wiki page that actually synthesizes that source."
+changelog:
+  - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 
 # Totality Themes
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 > **RE-CHECKED [2026-09-04] — checked, left standing.**
 > [[wiki/mind/concepts/the-cool-metric]], a member, gained a section extending

@@ -4,8 +4,9 @@ page_type: synthesis
 title: "The Register Never Closes"
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-10
-date_modified: 2026-09-21
+date_modified: 2026-10-25
 sources:
   - raw/twitter/archive.jsonl
   - raw/self/dox-md/ADDICTION_PROFILE.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -63,9 +64,12 @@ connections:
   - page: wiki/health/the-configured-body
     type: parallels
     claim: "The register rule is the input half of the same architecture the configured-body page reads on the output half: substances specified to the component and defended absolutely, with no maintenance mode between specification and the body running it."
+changelog:
+  - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Register Never Closes
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Across every chemical register in the record, he has never closed one. Quits
 are substitutions. The single true zero — alcohol — is a categorical exclusion

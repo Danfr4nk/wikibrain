@@ -5,8 +5,9 @@ title: "The Romantic"
 aliases: ["the sincerity-vs-scale split", "love-bombing", "the weather system", "the romantic register"]
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-10-04
+date_modified: 2026-10-25
 sources:
   - src:imessage_3307038747_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:messenger_Kristin Shaelene_2025-09-01-07-53-22 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -56,9 +57,12 @@ connections:
   - page: wiki/mind/synthesis/audition-dynamics
     type: evidences
     claim: "This declaration is one of the audition grammar's exhibits: issued days into the Kristin thread, it is the front-loaded demonstration the audition page measures across Kristin, Ally, and the Alexis-to-Annie transfer."
+changelog:
+  - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Romantic
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 On September 4, 2025 — three days after the iMessage thread with [[wiki/people/kristin|Kristin]]
 Prentiss opened, five days after first contact — Dan types the sentence this

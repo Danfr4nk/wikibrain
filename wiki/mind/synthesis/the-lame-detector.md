@@ -5,8 +5,9 @@ title: "The Lame Detector"
 aliases: ["Dan's snobbery", "the prestige map", "the Suz fight", "Turnstile night"]
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-10-04
-date_modified: 2026-10-20
+date_modified: 2026-10-25
 date_range_start: 2026-10-03
 date_range_end: 2026-10-04
 tier: major
@@ -34,6 +35,8 @@ connections:
     type: parallels
     claim: "The guitar-coolness rule is the placement-verdict entry's textbook case of the utterance register: the stated rule arrived years after the acousticness wall (median 0.019) had already filtered electronically — the rule ratifies the placement."
 changelog:
+  - date: 2026-10-25
+    change: "Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - date: 2026-10-20
     change: "Added reciprocal typed edge(s) to 2026-10-05-the-placement-verdict (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - date: 2026-10-04
@@ -41,6 +44,7 @@ changelog:
 ---
 
 # The Lame Detector
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 On the night of October 3–4, 2026, Daniel Gillingham Frank got into a fight with his mother, Suzanne Frank, over a musical performance by the Baltimore hardcore band Turnstile on *Saturday Night Live*. Nothing about the fight was ever really about Turnstile. Over the course of a two-hour retelling to Sammy — beat by beat, at his direction — the evening unpacked itself into the most complete account on record of how his taste works: what it includes, what it exiles, and the childhood machinery underneath both.
 

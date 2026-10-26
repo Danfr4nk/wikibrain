@@ -2,8 +2,9 @@
 domain: mind
 page_type: period
 status: stable
+layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-04
+date_modified: 2026-10-25
 knowledge: derived
 date_range_start: 2008-09-24
 date_range_end: 2008-12-31
@@ -53,9 +54,12 @@ connections:
   - page: wiki/mind/concepts/acquisition-drive
     type: evidences
     claim: "Supplies a dated instance of the drive's young form to set against the undated, uncorroborated ATM-card story that section otherwise rests on — and from the trivial end, where no risk, cost or impunity confounds it."
+changelog:
+  - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Twitter / X — 2008
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 **The account's first year, and it did not exist in this wiki until
 2026-09-02.** The archive previously began on 2009-10-20; a backend fetch
