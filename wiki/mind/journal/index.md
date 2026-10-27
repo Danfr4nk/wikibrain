@@ -6,7 +6,7 @@ aliases: ["idea journal", "the journal"]
 status: active
 layer: interpreted/index
 date_created: 2026-10-03
-date_modified: 2026-10-26
+date_modified: 2026-10-27
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -900,3 +900,44 @@ cannot show its stages has not been cross-checked.
   offered). Rows 1/4/5/6/15. PASS — high confidence at attention
   level, with the purchase leg honestly bounded as a stated rule
   awaiting its first executed transaction; 0 restarts.
+
+### 2026-10-27
+
+- [[wiki/mind/journal/2026-10-27-the-seesaw-travels-with-the-sound|Entry 1 —
+  The Seesaw Travels With the Sound, Not the Name]]: in the locked
+  70-track canon, the I–vi oscillation is the harmonic center of
+  gravity (30/70 tracks, 42.9%) and it travels with the sound, not
+  the name — 30 distinct artists across the 31 seesaw tracks, only 1
+  an orbit track, while 7 of 8 orbit tracks sit outside the seesaw
+  bloc — so the canon runs on two parallel passes (sonic signature,
+  artist slot), not one gate. Rows 18/4/26. PASS — high confidence
+  at attention level, scoped to the locked canon; 1 restart, the
+  dead membership-gate thesis preserved in Genesis.
+- [[wiki/mind/journal/2026-10-27-the-denomination-is-the-rank|Entry 2 —
+  The Denomination Is the Rank]]: provision's form encodes a
+  channel's rank in the measured concentration — the primary bond
+  gets bulk, unitemized provision, a no-stake channel gets per-item
+  priced provision, and the maternal channel gets give-and-invoice
+  provision — and each form stays with its channel across occasions
+  and through terminal strain rather than migrating. Rows 21/11/28/
+  12. PASS — high confidence on the stated, attention-level claim;
+  0 restarts, one Stage-2 interior phrasing struck and preserved in
+  Genesis.
+- [[wiki/mind/journal/2026-10-27-the-loop-closes-in-production-only|Entry 3 —
+  The Loop Closes in Production Only]]: built instruments close
+  loops in production (they change what artifact gets filed next —
+  a framing killed, a filing form gated) but leave them open in
+  decision (no instrument's output has changed a diagnosed decision
+  pattern's subsequent rate). Rows 10/9/6/4. PASS — high on the
+  narrowed two-layer split claim, with stated caps; 0 restarts.
+- [[wiki/mind/journal/2026-10-27-the-scale-that-never-meets-a-scoreboard|Entry 4 —
+  The Scale That Never Meets a Scoreboard]]: graded numeric
+  credences repeat at ~22× the inbound rate but attach almost
+  exclusively to propositions no held record can score, arriving
+  with cited evidence — so the number marks the landing-force of a
+  forensic chain, not a calibrated forecast, and the single scorable
+  instance in eleven years resolved false with no subsequent
+  migration toward scorable ground. Rows 2/3/1/5. PASS with a
+  labeled split — high confidence on the fence and no-migration
+  claims, the intensity gloss at leans, channel-generality capped
+  at hypothesis grade; 0 restarts.
