@@ -4,8 +4,9 @@ page_type: concept
 title: "Autism"
 aliases: ["autistic", "neurodivergent", "self-identified autism"]
 status: active
+layer: interpreted/concept
 date_created: 2026-09-11
-date_modified: 2026-10-04
+date_modified: 2026-10-27
 synthesizes:
   - wiki/mind/profile/neurodivergence
   - wiki/mind/concepts/attachment-model
@@ -40,9 +41,12 @@ connections:
     type: evidences
     claim: "Autism's explicit-over-inferred architecture is the substrate the conflict engine runs on: stated rules hold and surface structure is processed literally, which is why a bid for acknowledgment arrives at the engine as a claim to be adjudicated."
     claim: "The label itself was produced inside the AI-collaborative sessions this page documents as Dan's primary self-knowledge mechanism — arrived at through, and repeated across, bootloader-style documents rather than through any process outside them."
+changelog:
+  - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Autism
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 Dan identifies as autistic. No clinical assessment, no diagnostic date, no
 formal evaluation anywhere in the record. This page is the **concept** — what

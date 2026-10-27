@@ -6,9 +6,11 @@ aliases: ["chaotic neutral", "the entropy appetite", "rooting for the fire"]
 status: active
 knowledge: earned
 tier: major
+layer: interpreted/concept
 date_created: 2026-08-01
-date_modified: 2026-10-05
+date_modified: 2026-10-27
 changelog:
+  - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-05: Restructured to canonical article template v1; tier set to major; folded Gaps/Limits/Epistemic-ledger into sections and Conflicts in the record; expanded with 2026-09-13 avatar-chaos commissions, the Chaos in October mix title, the 2026-09-13 acquisition-drive no-steering-column grounding, and Dan's 2026-10-05 chaos-as-pathology testimony."
 sources:
   - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -57,6 +59,7 @@ connections:
 ---
 
 # The Chaos Preference
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 Dan wants the world to be less orderly than it is, and — with one large
 exception — he wants this consistently, quietly, and almost never out loud.

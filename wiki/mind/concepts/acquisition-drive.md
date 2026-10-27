@@ -6,8 +6,9 @@ aliases: ["the drive", "complete objective", "resilience for the goal"]
 status: active
 importance: high
 knowledge: earned
+layer: interpreted/concept
 date_created: 2026-08-02
-date_modified: 2026-09-13
+date_modified: 2026-10-27
 sources:
   - raw/mind/captures/2026-08-02_122411_perspective-complete-objective.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/legal/captures/2026-08-02_200741_the-arrest-the-real-one.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -63,9 +64,12 @@ connections:
   - page: wiki/mind/synthesis/twitter-2008
     type: evidenced-by
     claim: "A dated, first-party instance of the young form with none of the ATM story's confounders: at twenty he books his return flight around one concert nine days out — 'Be back on the 28th for hey Monday :)' — and cuts a family Christmas short for it. The mechanism alone: a want stated as settled, the calendar rearranged around it."
+changelog:
+  - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Acquisition Drive
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 Once Dan converts a want into a decided outcome, the pursuit runs to
 completion more or less independently of cost, risk, proportion or

@@ -2,8 +2,9 @@
 domain: mind
 page_type: entity
 status: active
+layer: interpreted/concept
 date_created: 2026-09-15
-date_modified: 2026-09-15
+date_modified: 2026-10-27
 sources:
   - "dat:1588-moving-shibboleth-early-adopter-20260915 (millennial-culture thread, 2026-09-15; archived tail in src:sammy-chat-transcript-20260915-1555, 15:42–15:47Z)"
   - "The thread's bulk (88er inventory, archival turn) predates the archived raw window; its record here rests on the 2026-09-15 thread as worked, moderate confidence unless noted."
@@ -32,9 +33,12 @@ connections:
   - page: wiki/interests/chapo-trap-house
     type: contextualizes
     claim: "The podcast-left infrastructure the cohort's irony pipeline built; Dan's relationship to it (favorite book, settled doctrine) is the politics-divergence section."
+changelog:
+  - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # 88er Cohort Profile
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 The 1988 birth cohort — Dan's cohort, born November 1, 1988 — researched
 in full, compared in full against his documented taste, and read for what

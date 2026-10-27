@@ -6,12 +6,17 @@ aliases: ["brain worms", "Brain Worms In Hell World"]
 tier: incidental
 status: stable
 knowledge: earned
+layer: interpreted/concept
 date_created: 2026-10-01
-date_modified: 2026-10-01
+date_modified: 2026-10-27
 tags: [substack, rhetoric, framing, israel-palestine]
 sources:
   - "raw/dan/20261001-substack-creepy/2023-10-17-brain-worms-in-hell-world.md"
+changelog:
+  - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
+
 
 > **Incidental entry** — Dan's "brain worms" diagnosis: post-10/7 discourse as pandemic-level collapse of nuance. Complete at this size.
 

@@ -6,8 +6,9 @@ aliases: ["star signs", "zodiac", "birth chart", "astrology chart"]
 status: active
 knowledge: mixed
 tier: major
+layer: interpreted/concept
 date_created: 2026-08-19
-date_modified: 2026-10-06
+date_modified: 2026-10-27
 importance: high
 tags: [relationships, personality-profile, digital-footprint]
 infobox:
@@ -31,10 +32,12 @@ connections:
     type: instantiates
     claim: "Ally Lubin is a Cancer — born June 26, 1990 — and her sign's characteristic traits (emotional depth, loyalty, protectiveness, moodiness) map precisely onto the seventeen-year attachment pattern documented on her page."
 changelog:
+  - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-06: Restructured to canonical template v1; expanded to major tier — Kristin astrology sessions (Sep 2025), Dan's synastry conversion (Aug 2026), Scorpio audit, derived-from-record signs"
 ---
 
 # Astrology: Star Signs of Dan's Inner Circle
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 Dan Frank is, by his own declaration, "super scorpio" — November 1, 1988, announced to Ally on October 30, 2023, two days before his birthday, in answer to her question "What are you again? Scorpio?" This page is the small real dataset that statement makes possible: every zodiac sign in Dan's inner circle that the corpus can establish, derived only from primary testimony — a contact's own statement of their birthday or sign — and nothing else.
 

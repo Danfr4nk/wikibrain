@@ -7,12 +7,14 @@ status: active
 knowledge: earned
 importance: critical
 tier: major
+layer: interpreted/concept
 date_created: 2026-08-19
-date_modified: 2026-10-07
+date_modified: 2026-10-27
 date_range_start: 2011-05-20
 date_range_end: 2026-08-20
 tags: [relationships, attachment, future]
 changelog:
+  - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-07: Restructured to canonical template v1"
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -44,6 +46,7 @@ connections:
 ---
 
 # Ally and Dan: Love as Destiny
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 Alexandra Lubin and Daniel Frank have been circling each other for eighteen years, and in all that time neither of them has managed to stop. Not through her three high schools and his rust-belt exit, not through his six-year relationship or his eleven-year one, not through her boyfriends, not through thirty-eight months of silence, not through the years when he was the one who didn't answer.
 

@@ -4,8 +4,9 @@ page_type: concept
 title: "Attachment Model"
 aliases: ["rule-based attachment", "the no-counter-rule architecture", "attachment system"]
 status: active
+layer: interpreted/concept
 date_created: 2026-06-22
-date_modified: 2026-10-06
+date_modified: 2026-10-27
 tier: major
 sources:
   - raw/self/sage/2026-08-21_220918_which-of-the-people-in-this-wiki-would-be-the-be.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -94,9 +95,12 @@ connections:
     type: parallels
     claim: "Node Locking exports this architecture into Dan's AI work: stated material persists in profile state until explicitly revoked, with no delete operation."
     claim: "The attachment model is the no-delete operation instantiated at bond level: on the bond, severance is declared and reversed, never executed."
+changelog:
+  - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Attachment Model
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 For eleven years, one woman's stated words were the law of Dan's inner
 life, and her behavior was inadmissible evidence. Positive verbal

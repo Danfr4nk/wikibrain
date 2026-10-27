@@ -7,8 +7,9 @@ status: active
 importance: high
 tier: major
 knowledge: earned
+layer: interpreted/concept
 date_created: 2026-08-02
-date_modified: 2026-10-20
+date_modified: 2026-10-27
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/twitter/archive.jsonl
@@ -51,11 +52,13 @@ connections:
     type: evidenced-by
     claim: "The Oct-6 entry's graded credences — direction stable across three independent scans — are a dated instance of the probabilistic substrate this concept describes."
 changelog:
+  - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-06-anomalies-are-the-jurisdiction (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - "2026-10-07: expanded to major tier (tier: major) and restructured to canonical article template v1; conflicts from the 2026-08-23 and 2026-09-13 correction passes consolidated into Conflicts in the record."
 ---
 
 # Calibrated Confidence
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 Dan attaches **graded numeric probabilities to his own beliefs in casual
 text messages**, and he is effectively the only person in his corpus who

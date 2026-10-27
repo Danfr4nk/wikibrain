@@ -4,10 +4,12 @@ page_type: concept
 title: "Bunker Core"
 status: active
 knowledge: mixed
+layer: interpreted/concept
 date_created: 2026-07-20
-date_modified: 2026-10-07
+date_modified: 2026-10-27
 tier: major
 changelog:
+  - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-07: Expanded to major tier (>=3,000 words); restructured to canonical template v1."
 sources:
   - "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md"
@@ -45,6 +47,7 @@ connections:
 <!-- ENGINE — expanded to major tier (>=3,000 words) and restructured to canonical template v1, 2026-10-07 -->
 
 # Bunker Core
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 Bunker Core is the name Dan has given to a self-built, local-first
 technical posture: SQLite forensics run directly against his own

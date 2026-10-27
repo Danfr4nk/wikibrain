@@ -5,8 +5,9 @@ title: "ChatGPT (OpenAI)"
 aliases: ["ChatGPT-4", "ChatGPT-5", "GPT-4", "GPT-5", "OpenAI"]
 status: active
 knowledge: earned
+layer: interpreted/concept
 date_created: 2026-08-19
-date_modified: 2026-10-04
+date_modified: 2026-10-27
 importance: high
 tags: [ai-collaboration, forensic-analysis, digital-footprint]
 sources:
@@ -52,9 +53,12 @@ connections:
   - page: wiki/self/twitter/2026
     type: evidenced-by
     claim: "The 2026 working practice from the inside: two named autonomous agents claimed in April, fourteen unbroken hours with a model building data visualisers over his own text logs (13 June), and an overnight iMessage auto-responder that ran unsupervised for five hours and reached a real person."
+changelog:
+  - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # ChatGPT (OpenAI)
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 ChatGPT is the early-adopter model — the first AI system Dan used for sustained cognitive work, and the one he now believes has declined most sharply. It is the model he used for therapy, creative writing, and custom instructions with bootloader prompts. It is also the model he now describes as "cooked" — pasteurized, packaged for mass consumption, and "utterly devoid of the texture and flavor of a real thing." The ChatGPT story is the story of the AI industry's guardrail problem, told from the perspective of someone who was there before the guardrails went up.
 
