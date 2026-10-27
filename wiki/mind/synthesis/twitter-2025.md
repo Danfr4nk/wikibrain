@@ -3,8 +3,9 @@ domain: mind
 page_type: period
 tier: major
 status: stable
+layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-06
+date_modified: 2026-10-26
 knowledge: mixed
 date_range_start: 2025-01-05
 date_range_end: 2025-11-05
@@ -35,10 +36,13 @@ connections:
     type: precedes
     claim: '2025 is the immediately previous year of originals before 2026 on the same account.'
 changelog:
+  - date: 2026-10-26
+    change: "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - 2026-10-06: Restructured to canonical template v1; expanded to major tier; count corrected (6+6+1=13); blackout restated as originals-only (7 reposts in archive); AI-turn framing corrected (resumption after dormancy, not origin); date_range_end extended to last archive activity.
 ---
 
 # Twitter / X — 2025
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 **Thirteen original posts, and the year's finding is the shape of the absence.**
 

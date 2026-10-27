@@ -6,8 +6,9 @@ aliases: ["loyalty lexicon", "paw patrol vs pretty girl"]
 tier: incidental
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-10-03
-date_modified: 2026-10-04
+date_modified: 2026-10-26
 sources:
   - kb/data/1292-block-unblock-loop-severance-recount-129-128.md
   - kb/data/0090-block-retraction-2026-09-11.md
@@ -36,10 +37,13 @@ synthesizes:
   - wiki/mind/synthesis/severance-language-atlas
   - wiki/people/milo
 changelog:
+  - date: 2026-10-26
+    change: "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - 2026-10-03: Created to canonical template v1
 ---
 
 # Witness-Lexicon Split
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 > **Incidental entry** — One witness channel is measured in full and no second channel has been mined; the entry is complete as a single-case finding with its test stated.
 

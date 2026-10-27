@@ -3,13 +3,15 @@ domain: mind
 page_type: period
 status: stable
 tier: major
+layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-07
+date_modified: 2026-10-26
 knowledge: mixed
 date_range_start: 2021-01-05
 date_range_end: 2021-12-04
 title: "Twitter / X — 2021"
 changelog:
+  - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-07: Expanded to the 3,000-word major floor + restructured to canonical template v1"
 sources:
   - "raw/twitter/archive.jsonl"
@@ -37,6 +39,7 @@ connections:
 ---
 
 # Twitter / X — 2021
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 **The first full year of the converted position, and it is fluent.** The
 2020 declaration was an ultimatum; 2021 is the working version. There are only

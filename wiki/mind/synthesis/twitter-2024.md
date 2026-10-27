@@ -2,8 +2,9 @@
 domain: mind
 page_type: period
 status: stable
+layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-04
+date_modified: 2026-10-26
 knowledge: mixed
 date_range_start: 2024-01-31
 date_range_end: 2024-12-11
@@ -34,9 +35,12 @@ connections:
   - page: wiki/mind/synthesis/failure-to-launch
     type: evidences
     claim: 'A fourth job enters the archive the way the others did — as the credential for an aside. "during my time as a caddie" (28 June), inside an argument about Trump''s handicap, with no dates, employer or duration, exactly as with retail in 2012 and waiting tables in 2022 and 2023.'
+changelog:
+  - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Twitter / X — 2024
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 **Peak volume, and the densest single day in seventeen years.** 258 originals,
 and 23 of them land on **28 June**, the night of the first Biden–Trump debate.

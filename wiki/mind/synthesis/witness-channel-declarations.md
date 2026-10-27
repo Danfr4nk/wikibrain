@@ -5,9 +5,11 @@ title: "Witness-Channel Declarations"
 aliases: ["the declaration needs an audience", "block claims to Ally", "the audience requirement", "declarations performed for third parties"]
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-10-20
+date_modified: 2026-10-26
 changelog:
+  - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-handed-mirror (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
 sources:
   - raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv
@@ -76,6 +78,7 @@ connections:
 ---
 
 # Witness-Channel Declarations
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 The severance declaration does not always go to the person it names. Some of the strongest block
 claims in the record were never addressed to [[wiki/people/annie-ulmer|Annie]] at all: they were addressed to [[wiki/people/ally-lubin|Ally]], in a channel

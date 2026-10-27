@@ -3,8 +3,9 @@ domain: mind
 page_type: period
 tier: major
 status: active
+layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-07
+date_modified: 2026-10-26
 knowledge: mixed
 date_range_start: 2026-03-04
 date_range_end: 2026-09-01
@@ -63,11 +64,13 @@ connections:
     type: contextualizes
     claim: 'The 13 June export-control post quotes Anthropic''s Fable 5 statement inside the window when that model was briefly disabled globally — the same window Dan later credits for the original wikibrain build.'
 changelog:
+  - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-04: Expanded to major tier; restructured to canonical template v1; lede rewritten story-first; contradictions consolidated into Conflicts in the record."
   - "2026-10-07: Second expansion to major tier; agent sections grounded in kb/events and kb/data (Grok Build stack, Fable 5 proliferation datum); politics section grounded in the vocabulary-drift re-measurement (23.1%); infobox added; new connections (grok-build, milo, fable-5-window)."
 ---
 
 # Twitter / X — 2026
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 **The account comes back, and it comes back as an AI user's.** Twenty-six
 original posts — a resumption after 2025's thirteen, the emptiest original year

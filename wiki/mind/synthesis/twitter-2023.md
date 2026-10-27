@@ -2,8 +2,9 @@
 domain: mind
 page_type: period
 status: stable
+layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-04
+date_modified: 2026-10-26
 knowledge: mixed
 date_range_start: 2023-01-08
 date_range_end: 2023-12-19
@@ -34,9 +35,12 @@ connections:
   - page: wiki/meta/testimony-veracity
     type: supplies
     claim: 'A seam of deliberately checkable claims with public outcomes, and the scoring behaviour to go with them: the DeSantis prediction stated at maximum confidence on 2023-02-13 and refuted on 2023-05-24, and "I''m deeply embarrassed that I got tricked once again ... Fooled AGAIN" (2023-03-30) — he logs his own misses in public rather than dropping them.'
+changelog:
+  - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Twitter / X — 2023
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 **The year the analysis is complete and the man is waiting tables in
 Manhattan.** 2023 has 159 originals and they are the most sophisticated writing

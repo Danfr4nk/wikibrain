@@ -2,8 +2,9 @@
 domain: mind
 page_type: synthesis
 status: stable
+layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-09-03
+date_modified: 2026-10-26
 date_range_start: 2024-01-01
 date_range_end: 2024-12-31
 title: "2024 Twitter / X Cognitive State — Adversarial Historian"
@@ -30,9 +31,12 @@ connections:
   - page: wiki/mind/synthesis/twitter-2012
     type: evidenced-by
     claim: "The reading of coverage as a product managed for retention is running twelve years early: 'I refuse to believe that tonight's earlier results were as close as we were told. Need to keep it tight for ratings.' (2012-11-07), on election night, at twenty-three."
+changelog:
+  - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # 2024 Twitter / X Cognitive State — Adversarial Historian
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 ## Executive synthesis
 

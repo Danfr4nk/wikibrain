@@ -6,8 +6,9 @@ aliases: ["wiki-brain instrument", "the wiki as instrument", "what the system is
 tier: major
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-10-03
-date_modified: 2026-10-04
+date_modified: 2026-10-26
 sources:
   - kb/syntheses/wiki-brain-instrument.md
   - kb/entities/wiki-brain.md
@@ -53,10 +54,12 @@ synthesizes:
   - wiki/mind/synthesis/instrument-is-subject
   - wiki/mind/concepts/no-delete-operation
 changelog:
+  - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-03: Created under canonical template v1; expanded from corpus"
 ---
 
 # The Wiki Brain as Instrument
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 The Wiki Brain is a longitudinal knowledge system built around one person's documented life: raw evidence archived first, atomic facts extracted from it, events and entities assembled over the facts, patterns and interpretations layered above those, and syntheses — like this page — at the top. It has existed in two architectures. The first was a plain-markdown wiki compiled by a language model, 497 pages, frozen in the snapshot of 4 September 2026. The second is the layered graph built in this repository beginning 8 September 2026, in which a node may cite only strictly lower layers — raw data below structured fact below interpretation below synthesis, never the reverse — enforced mechanically at build time rather than by editorial intention.
 

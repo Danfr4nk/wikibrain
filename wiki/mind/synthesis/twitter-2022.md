@@ -2,8 +2,9 @@
 domain: mind
 page_type: period
 status: stable
+layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-04
+date_modified: 2026-10-26
 knowledge: mixed
 date_range_start: 2022-01-20
 date_range_end: 2022-12-27
@@ -31,9 +32,12 @@ connections:
   - page: wiki/mind/synthesis/failure-to-launch
     type: evidences
     claim: 'He is waiting tables at thirty-three and the fact arrives in a subordinate clause inside an anecdote about how good a customer''s conversation was — the same posture toward employment the 2016 page names, six years and two jobs later.'
+changelog:
+  - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Twitter / X — 2022
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 **The year the position is settled enough to be turned on his own side, and the
 year the method costs him something in public.** 2022 is the account's busiest
