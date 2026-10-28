@@ -4,8 +4,9 @@ page_type: concept
 title: "Dan's Law"
 tier: major
 status: active
+layer: interpreted/concept
 date_created: 2026-06-22
-date_modified: 2026-10-03
+date_modified: 2026-10-27
 knowledge: earned
 tags: [politics, forensic-analysis, personality-profile]
 sources:
@@ -49,9 +50,12 @@ connections:
     type: instance-of
     claim: "The 2015-11-29 outbound \"Things are collapsing with lex\" message is carried in the record as a worked instance of the contested-attribution problem; held-corpus passes place it inside Casey's own thread (dat:0122, dat:0712), while four other pages in the wiki send the same message to Zachariah Harshman — the dispute is filed in Conflicts below, not resolved here."
 changelog:
+  - date: 2026-10-27
+    change: "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - 2026-10-03: Restructured to canonical template v1; expanded from corpus
 ---
 # Dan's Law
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 Dan's Law is a heuristic Dan formalized in his context core for sorting coincidence clusters. When a set of anomalies would require every element to be innocent at once, and the joint probability of that is near zero, the law directs attention to a smaller load-bearing element and treats the rest as noise that has attached itself to a real signal. It is stated against two simpler responses: treating every element as load-bearing, and treating one explained element as enough to dismiss the whole cluster.
 
 The law has worked applications on record at very different scales. In the January 6th chat, Dan examined a cluster around the Capitol events — the delay in identifying Ashley Babbitt, the geometry and handling of the shooting, a door-blocker's behavior, cuffing and release sequences, informant presence in group communications, and the resulting imagery — and recorded the conclusion "hybrid organic event + intelligence co-opt." In the BFS Foods drawer dispute, the cluster was a clean CSR close report, a next-day personal cash demand from the assistant manager, no paper trail on either side, and a schedule reduction; the element Dan isolated was the absence of documentation itself, and the tactical conclusion recorded was not to validate the demand by paying. The full BFS record is at [[wiki/work/bfs-foods]].

@@ -5,8 +5,9 @@ title: "Claude Code (Anthropic Coding Agent)"
 aliases: ["Claude Code", "Claude Opus 5", "Claude Sonnet", "coding agent", "terminal agent"]
 status: active
 knowledge: earned
+layer: interpreted/concept
 date_created: 2026-08-19
-date_modified: 2026-10-04
+date_modified: 2026-10-27
 importance: critical
 tags: [ai-collaboration, forensic-analysis, digital-footprint]
 sources:
@@ -34,9 +35,12 @@ connections:
   - page: wiki/mind/concepts/claude
     type: caused-by
     claim: "Claude Code exists because Claude sessions kept producing work that needed a shell to apply — the tooling under bin/ is the residue of that gap."
+changelog:
+  - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Claude Code (Anthropic Coding Agent)
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 Claude Code is the coding-agent deployment of the Claude model — the same analytical engine that powers the wiki's forensic analysis, but with shell access, file-system control, and the ability to execute its conclusions as code. If Claude is the analyst, Claude Code is the engineer. It is the agent that built every tool in the wiki's `bin/` directory, maintains every page in `wiki/`, and runs the gates that keep the system honest. Without Claude Code, the wiki-brain would be a design document. With it, it is a functioning second brain.
 

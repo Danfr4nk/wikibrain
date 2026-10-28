@@ -7,8 +7,9 @@ status: active
 knowledge: earned
 importance: high
 tier: major
+layer: interpreted/concept
 date_created: 2026-08-20
-date_modified: 2026-10-07
+date_modified: 2026-10-27
 date_range_start: 2026-08-14
 date_range_end: 2026-08-14
 tags: [forensic-analysis, ai-collaboration, addiction-recovery, digital-footprint]
@@ -47,9 +48,12 @@ connections:
   - page: wiki/mind/synthesis/red-team-probe-series
     type: related-to
     claim: "The series' dated probes are the same instrument pointed at different targets: fabricated narratives built in layers as inputs to AI systems (dat:1488, revealed and retracted 2026-09-13), with Dan's own stylometry finding that fabricated content in his cadence does not trip his detector (dat:1500 — 'content lies, cadence tells')."
+changelog:
+  - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Document Fabrication
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 On **14 August 2026**, between a counselling appointment and a drug order, [[wiki/people/annie-ulmer|Annie]] asked Dan to manufacture a passing drug screen from Fayette County Drug and Alcohol to show her parents. He said yes without asking a question, and spent the next seventy minutes iterating on it — four draft images, a self-run error audit, and a threat-model question that calibrates the forgery's fidelity to how hard it will be inspected.
 

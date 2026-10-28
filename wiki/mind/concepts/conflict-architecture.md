@@ -3,12 +3,15 @@ domain: mind
 page_type: concept
 title: "Conflict Architecture"
 status: active
+layer: interpreted/concept
 date_created: 2026-06-22
-date_modified: 2026-10-23
+date_modified: 2026-10-27
 tier: major
 knowledge: earned
 tags: [attachment, trauma-bond, forensic-analysis, intensity]
 changelog:
+  - date: 2026-10-27
+    change: "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - date: 2026-09-13
     note: "Corrected severance base rate (127/110 → 129/128/36s per attachment-model 2026-08-23 recount); relabeled core-axioms stakes-encoding as Dan's framing rather than mechanism; added no-exit-states, two-machines, Grok-mirror, and Ally-halt sections"
   - date: 2026-10-07
@@ -76,6 +79,7 @@ connections:
 ---
 
 # Conflict Architecture
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 Dan runs a forensic resolution-seeking engine on interpersonal communication. It takes claim-shaped input, isolates the irreducible core under adversarial pressure, and halts only on the "click" of resolution — the felt state of a closed file. The engine has no domain selector: it boots on the surface structure of language regardless of the speaker's intent, so an emotional bid — *"I don't feel secure"* — is processed as a proposition requiring adjudication rather than an acknowledgment requiring empathy. Relational conflict presents an input with no resolution condition: two incompatible subjective realities that cannot merge into one truth. The engine loops on that input without a reward state, under constant drain.
 

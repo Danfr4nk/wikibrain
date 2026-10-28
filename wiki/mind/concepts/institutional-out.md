@@ -5,8 +5,9 @@ title: "The Institutional Out"
 aliases: ["migraine protocol", "strategic absenteeism", "night class alibi", "the pre-installed exit"]
 status: active
 tier: major
+layer: interpreted/concept
 date_created: 2026-07-13
-date_modified: 2026-10-06
+date_modified: 2026-10-27
 synthesizes:
   - wiki/work/au-zaatar
   - wiki/work/creative-license
@@ -47,9 +48,12 @@ connections:
   - page: wiki/mind/synthesis/totality-themes
     type: component-of
     claim: "Pre-installing an escape from every job before the ink is dry is the Irreversibility Firewall's labor-market instance: never let a vertical structure's claim on his time become the irreversible, cost-bearing commitment a completed tenure would represent."
+changelog:
+  - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Institutional Out
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 At every job he has taken, Dan pre-installs an escape mechanism — a standing, unfalsifiable reason to be absent more than anyone else at the institution. His own statement of the rule, February 2026 [TESTIMONY — his words, unprompted, supplied to his own file]: *"i ALWAYS create an out when i get a new job. usually it's faking migraines or something similar but i ALWAYS need a way to miss more work than anyone else at whatever institution i am being paid by."*
 

@@ -4,8 +4,9 @@ page_type: concept
 title: "The Exocortex (Bootloaders & Master Prompts)"
 aliases: ["CATO", "operating manual", "master forensic prompt", "MAX"]
 status: active
+layer: interpreted/concept
 date_created: 2026-06-22
-date_modified: 2026-10-20
+date_modified: 2026-10-27
 knowledge: earned
 tier: major
 tags: [forensic-analysis, ai-collaboration, personality-profile]
@@ -78,6 +79,8 @@ connections:
     type: elaborated-by
     claim: "The Oct-6 entry writes the exocortex's social chapter: row 10's standing instruments (agents, prompts, bootloaders) gain a new class — surfaces operated without being occupied."
 changelog:
+  - date: 2026-10-27
+    change: "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - date: 2026-10-20
     change: "Added reciprocal typed edge(s) to 2026-10-06-the-delegated-surface (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - date: 2026-10-06
@@ -85,6 +88,7 @@ changelog:
 ---
 
 # The Exocortex
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 Dan has built a deliberate external cognitive system. The corpus's own name for the frame is "externalized prefrontal cortex" — an LLM used as a recursive neural extension for emotional metabolization, taboo mining, and routine analytical offload, per the Gemini corpus this wiki's collaboration synthesis reads. It began as pasteable bootloader documents and master prompts that turn any fresh AI session into a pre-configured forensic analyst loaded with his identity, data, and rules. By September 2026 it had outgrown that form: the exocortex is now an **autonomous agentic substrate** that runs instruments without him present, and the wiki itself has become one of its memory layers. This page catalogs the artifacts and the substrate; the practice of using them is documented at [[wiki/mind/synthesis/ai-collaborative-analysis]], and the method they enforce at [[wiki/mind/concepts/forensic-method]].
 

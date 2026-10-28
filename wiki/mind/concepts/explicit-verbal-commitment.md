@@ -5,8 +5,9 @@ title: "Explicit-Verbal Commitment"
 aliases: ["explicit-verbal commitment", "explicit-verbal-commitment architecture", "the explicit-verbal mechanism", "stated-rule binding"]
 status: active
 tier: major
+layer: interpreted/concept
 date_created: 2026-09-13
-date_modified: 2026-10-07
+date_modified: 2026-10-27
 synthesizes:
   - wiki/mind/concepts/autism
   - wiki/mind/concepts/attachment-model
@@ -62,9 +63,12 @@ connections:
   - page: wiki/mind/concepts/attachment-model
     type: instantiates
     claim: "Explicit-verbal commitment is the attachment model's flagship instantiation: stated commitments processed as absolute rules until an explicit severance signal arrives, with no counter-rule admitted from behavior."
+changelog:
+  - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Explicit-Verbal Commitment
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 On **2026-07-28** at 16:21 EDT, in the middle of the re-entanglement window that was supposed to have ended the eleven-year bond, Dan told Annie the whole thing in one sentence: *"And I'm fucking autistic. My brain can't cross out that part of my life that I love unless I know that you don't feel that way"* (`dat:0450`, held corpus, verbatim). The tie persists, by his own account, not because behavior sustains it but because the one statement shaped like a termination has never arrived in the format his system registers. That is this page's subject: a rule engine with no revocation primitive, running on a person. Dan processes stated commitments as **absolute rules until an explicit severance signal arrives**, and admits no counter-rule from behavior. What is said out loud is load-bearing; what must be inferred does not register as a rule-change. The profile gives the mechanism its cognitive-function name: with Fe-inferior at 10% valuing, a Ti-generated decision that a tie is over never becomes felt-settled without an external terminating statement supplying the relational judgment the stack cannot produce internally ([[wiki/mind/profile/intp]]). The architecture is not a preference he holds. It is the shape of the system doing the holding.
 

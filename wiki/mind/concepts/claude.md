@@ -5,8 +5,9 @@ title: "Claude (Anthropic)"
 aliases: ["Claude", "Claude Opus", "Claude Sonnet", "Anthropic"]
 status: historical-primary
 knowledge: earned
+layer: interpreted/concept
 date_created: 2026-08-19
-date_modified: 2026-10-04
+date_modified: 2026-10-27
 importance: critical
 tags: [ai-collaboration, forensic-analysis, model-displacement, 2026]
 sources:
@@ -43,9 +44,12 @@ connections:
   - page: wiki/people/ally-lubin
     type: co-occurs
     claim: "The Aug 2026 Ally thread is the densest attested record of Dan discussing Claude — quota limits, a second subscription, and Claude-as-writing-benchmark."
+changelog:
+  - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Claude (Anthropic)
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 Claude is the model that built most of this wiki, and as of 2026-09-12 it is
 not the model Dan is using. Both halves of that sentence are load-bearing, and

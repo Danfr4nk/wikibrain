@@ -4,8 +4,9 @@ domain: mind
 page_type: concept
 status: active
 knowledge: earned
+layer: interpreted/concept
 date_created: 2026-09-16
-date_modified: 2026-10-06
+date_modified: 2026-10-27
 tier: major
 infobox:
   window: "June 9 – July 9, 2026 (free on subscriptions: June 9–22)"
@@ -27,11 +28,14 @@ connections:
     type: parallels
     claim: "His threat model (upward transfer, not extinction) is the macro version of the probe series' premise: the danger is competent systems pointed at bad frames, not incompetent ones."
 changelog:
+  - date: 2026-10-27
+    change: "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - date: 2026-10-06
     note: "Restructured to canonical template v1; expanded to major tier."
 ---
 
 # The Fable 5 Window (June–July 2026)
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 On June 9, 2026, Anthropic released Claude Fable 5 — the first publicly available
 Mythos-class model, scoring roughly 80% on SWE-Bench Pro, free on paid

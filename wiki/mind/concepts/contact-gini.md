@@ -3,9 +3,11 @@ domain: mind
 page_type: concept
 title: "Contact Gini"
 status: active
+layer: interpreted/concept
 date_created: 2026-06-22
-date_modified: 2026-10-20
+date_modified: 2026-10-27
 changelog:
+  - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-06-the-delegated-surface (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
 knowledge: earned
 tier: major
@@ -50,6 +52,7 @@ connections:
 ---
 
 # Contact Gini
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 Most of Dan's inbound human contact comes from a handful of handles — a partner of eleven years, a mother, a best friend, a dealer — and the long tail of roughly 490 other handles is essentially rounding. Measured on the held authoritative corpus, that shape is a Gini coefficient of **0.9556 over 498 distinct contact handles** (inbound, primary-verified, 2026-09-09: [dat:0528](../../kb/data/0528-contact-gini-inbound-replication-2026-09-09.md)). The top contact takes 33.6% of all inbound volume; the top five take 68.0%. That is not a metaphor. The number is the shape of where a life is lived.
 

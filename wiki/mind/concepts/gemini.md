@@ -5,10 +5,13 @@ title: "Gemini (Google)"
 aliases: ["Gemini Apps", "Gemini Activity", "Google AI", "Bard", "Max"]
 status: active
 knowledge: earned
+layer: interpreted/concept
 date_created: 2026-08-19
-date_modified: 2026-10-07
+date_modified: 2026-10-27
 tier: major
 changelog:
+  - date: 2026-10-27
+    change: "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - date: "2026-10-07"
     note: "Expanded to >=3,000 words and restructured to canonical article template v1: story-first lede; Conflicts in the record placed low; Assessment; See also; References last. New evidence folded in: the Gemini Activity corpus report (dimensions, theme frequencies, session index), the incidents ledger's evidence-class verdict, the January 2026 gaslight saga (Episode 0 of the probe series), and the September 2026 Max 100-facts audit."
 importance: critical
@@ -57,6 +60,7 @@ connections:
 ---
 
 # Gemini (Google)
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 Gemini is the interaction model in Dan's AI ecosystem. If Claude is the analyst and Claude Code is the engineer, Gemini is the interlocutor — the model Dan talks to for bootloader design, psychotherapy, creative projects, and the massive activity log that documents his AI usage. Dan's own summary is the canonical description, given to [[wiki/people/tom|Tom]] on 2026-03-26: "Claude = to analyze stuff / gemini = interact with it." Where Claude produces forensic analysis, Gemini produces conversation, design, and interaction at scale.
 

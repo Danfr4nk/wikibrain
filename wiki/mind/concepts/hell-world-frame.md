@@ -6,8 +6,9 @@ aliases: ["hellworld", "Live from Political Hellworld"]
 tier: major
 status: stable
 knowledge: earned
+layer: interpreted/concept
 date_created: 2026-10-01
-date_modified: 2026-10-04
+date_modified: 2026-10-27
 tags: [substack, rhetoric, framing, 2024-election]
 sources:
   - "raw/dan/20261001-substack-creepy/2023-05-22-538.md"
@@ -23,9 +24,12 @@ connections:
     type: evidenced-by
     claim: "Hell-world names this thesis as the frame's founding instance: the frame is what turned public evidence into the prediction, since the same facts under a charitable reading produced the media's rising-force consensus instead."
 
+changelog:
+  - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Hell World frame
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 The Hell World frame is the house epistemology of Dan Frank's Substack, *Committee to Re-elect the President* (creepy.substack.com): American politics as an irredeemable spectacle, narrated in real time with gleeful doom. It is the tagline ("Live from Political Hellworld"), the title vocabulary (*The Horserace (From Hell)*, *Brain Worms In Hell World*), and the ambient register underneath everything else. It does three jobs at once — epistemic, comic, protective — and over eighteen months it curdles from comedy into dread: the joke died, the frame survived.
 
