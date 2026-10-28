@@ -4,10 +4,13 @@ page_type: concept
 title: "Non-Fiction Only"
 aliases: ["fiction avoidance", "nonfiction-only consumption", "the non-fiction rule", "the evidence room"]
 status: active
+layer: interpreted/concept
 date_created: 2026-09-11
-date_modified: 2026-10-07
+date_modified: 2026-10-28
 tier: major
 changelog:
+  - date: 2026-10-28
+    change: "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - 2026-10-07: "Expanded to the 3,000-word major floor + restructured to canonical template v1"
 synthesizes:
   - wiki/self/context-core
@@ -53,6 +56,7 @@ connections:
 ---
 
 # Non-Fiction Only
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 Dan consumes non-fiction almost exclusively. Goodreads runs ~97.8% nonfiction across 120 rated books [TESTIMONY — the context-core profile's dated (DOC) line, summarizing the Goodreads/FAVS exports]; the YouTube record is news, commentary, history, and video essays; the film canon is auteur-observational rather than genre fiction. This is not a preference stated once and forgotten. It is an identity-level trait with a behavioral paper trail across three media — and it has exactly two documented exceptions, both of which obey a deeper rule than the one they appear to break.
 

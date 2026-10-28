@@ -4,8 +4,9 @@ page_type: concept
 title: "Archetype"
 tier: major
 status: active
+layer: interpreted/concept
 date_created: 2026-10-18
-date_modified: 2026-10-18
+date_modified: 2026-10-28
 knowledge: earned
 tags: [jung, archetype, collective-unconscious, analytical-psychology]
 sources:
@@ -30,9 +31,12 @@ connections:
     type: expressed-through
     claim: "Archetypes reach consciousness by projection; in their quiescent state they have no determinable form."
 changelog:
+  - date: 2026-10-28
+    change: "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - 2026-10-18: Created from the Jung Collected Works concept-mining pass (Vols 1–17).
 ---
 # Archetype
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 The archetype is Jung's name for the contents of the collective unconscious: archaic, primordial types — "universal images that have existed since the remotest times," "definite forms in the psyche which seem to be present always and everywhere." The term is old — Philo Judaeus used it of the God-image in man, Irenaeus, the Corpus Hermeticum ("archetypal light"), Dionysius the Areopagite — and Jung adopts it as "an explanatory paraphrase of the Platonic *eidos*." What is new is the psychological claim: these are not philosophical abstractions but **empirical structures of the psyche**, as regular as instincts and as inescapable.
 

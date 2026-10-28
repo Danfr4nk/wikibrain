@@ -5,8 +5,9 @@ title: "The Missing Delete Operation"
 tier: major
 aliases: ["no-delete operation", "write-only rule system", "suspend not delete", "the no-delete rule"]
 status: active
+layer: interpreted/concept
 date_created: 2026-09-13
-date_modified: 2026-10-04
+date_modified: 2026-10-28
 synthesizes:
   - wiki/mind/concepts/explicit-verbal-commitment
   - wiki/mind/concepts/node-locking
@@ -72,9 +73,12 @@ connections:
     type: operationalized-by
     claim: "The attachment model is this rule's fullest instantiation — the bond-level model of a channel where severance is declared, performed, and reversed rather than executed."
 changelog:
+  - date: 2026-10-28
+    change: "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - 2026-10-03: Restructured to canonical template v1
 ---
 # The Missing Delete Operation
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 Across Dan's messages, his AI memory protocols, his work on this wiki, and the bonds documented in the corpus, the same pattern of handling things recurs: material is written down, kept, and carried forward. Rules are stated in full, messages are saved in large exports, findings are appended to files, and relationships that go quiet can resume after long silences — Menore's channel, for example, reopened after 2,044 days and was answered inside a minute, and the Ally tie survived silences of thirty-eight and fourteen months (dat:1384).
 The clearest place to see the pattern at work is the Annie corpus. On 1 December 2015 Dan sent the founding message, *"Annie Ulmer from now on its just you and me"*, in the hours after Alexis was evicted, and that stated rule organized the decade that followed ([[wiki/mind/concepts/explicit-verbal-commitment]]). In the years after, severance was declared many times on that channel, and the channel kept running: the recount in this page's record counts 129 severance episodes between 2015 and 2026, with contact resuming after each measurable episode (dat:1292). The same archive that holds those messages also holds the tools built around them — node-locking instructions that say to keep all information in, and a wiki `raw/` tree where corrections are appended rather than rewritten.
 This page follows that pattern across five settings — commitments, memory protocols, strategy, cognition, and the archive itself — and then tests it against the full held message record, searching Dan's own sent messages for the vocabulary of deletion. The record is large: 198,354 rows across three held CSVs, 102,035 of them sent by Dan, plus the repository's own files and commit history.

@@ -4,8 +4,9 @@ page_type: concept
 title: "Individuation"
 tier: major
 status: active
+layer: interpreted/concept
 date_created: 2026-10-18
-date_modified: 2026-10-18
+date_modified: 2026-10-28
 knowledge: earned
 tags: [jung, individuation, self, shadow, analytical-psychology, transcendent-function]
 sources:
@@ -29,9 +30,12 @@ connections:
     type: draws-on
     claim: "Individuation 'creates a horror vacui in the collective layer' — withdrawing from collective identifications constellates the deep layer, which is why the process is an opus contra naturam."
 changelog:
+  - date: 2026-10-28
+    change: "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - 2026-10-18: Created from the Jung Collected Works concept-mining pass (Vols 1–17).
 ---
 # Individuation
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 Individuation is Jung's name for the process by which a person becomes a psychological individual — "a separate, indivisible unity or 'whole.'" It is the master developmental process of the psychology: the synthetic work of integrating the unconscious into consciousness, "making as fully conscious as possible the constellated unconscious contents" and "synthetizing them with consciousness through the act of recognition." In Vol 6, its definitional home, Jung calls it "the development of the psychological individual as a being distinct from the general, collective psychology… a process of differentiation, having for its goal the development of the individual personality": "separation and differentiation from the general and a building up of the particular."
 

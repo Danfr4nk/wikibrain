@@ -3,8 +3,9 @@ domain: mind
 page_type: entity
 tier: incidental
 status: active
+layer: interpreted/concept
 date_created: 2026-09-15
-date_modified: 2026-10-04
+date_modified: 2026-10-28
 sources:
   - "dat:1587-conjunction-rule-cultural-literacy-20260915 (verbatim conjunction quotes, 15:44:19Z + 15:45:29Z)"
   - "dat:1588-moving-shibboleth-early-adopter-20260915 (shibboleth synthesis Dan endorsed in-thread, 15:42:18Z)"
@@ -24,9 +25,12 @@ connections:
   - page: wiki/mind/profile/intp
     type: parallels
     claim: "Definition-policing and instrument-auditing in the thread are the Ti-dominant pattern the profile documents."
+changelog:
+  - "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Moving Shibboleth
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 > **Incidental entry** — This page records the moving shibboleth mechanism documented in the 2026-09-15 thread on Wes Anderson, where the early-adopter test deepens as the cohort catches up. Complete at this size.
 
 The mechanism by which Dan defends an early-adopter identity as the

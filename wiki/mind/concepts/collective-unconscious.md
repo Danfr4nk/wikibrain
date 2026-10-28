@@ -4,8 +4,9 @@ page_type: concept
 title: "The Collective Unconscious"
 tier: major
 status: active
+layer: interpreted/concept
 date_created: 2026-10-18
-date_modified: 2026-10-18
+date_modified: 2026-10-28
 knowledge: earned
 tags: [jung, archetype, unconscious, analytical-psychology]
 sources:
@@ -27,9 +28,12 @@ connections:
     type: contains
     claim: "The Self's totality comprises consciousness, the personal unconscious, and 'an indefinitely large segment of the collective unconscious.'"
 changelog:
+  - date: 2026-10-28
+    change: "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - 2026-10-18: Created from the Jung Collected Works concept-mining pass (Vols 1–17).
 ---
 # The Collective Unconscious
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 Beneath the personal unconscious — the layer of forgotten and repressed material — Jung posits a deeper stratum that no individual made and no individual owns. It is inborn, universal, and identical in all people: "a common psychic substrate of a suprapersonal nature which is present in every one of us." Its contents are the archetypes. Where Freud's unconscious is a personal attic, Jung's collective unconscious is the ground the house stands on.
 

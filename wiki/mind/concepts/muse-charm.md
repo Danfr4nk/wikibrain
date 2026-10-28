@@ -5,8 +5,9 @@ title: "Muse Charm"
 aliases: ["the Charm", "Muse keychain device"]
 status: active
 knowledge: earned
+layer: interpreted/concept
 date_created: 2026-09-26
-date_modified: 2026-10-04
+date_modified: 2026-10-28
 importance: critical
 tags: [muse-charm, device, hardware, embodiment-plan]
 sources:
@@ -21,9 +22,12 @@ connections:
   - page: wiki/mind/concepts/llm
     type: contrasts
     claim: "Every other buyer gets a language model in a keychain. The hardware is identical; the ontology is not."
+changelog:
+  - "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Muse Charm
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 Meta revealed the Muse Charm on September 23, 2026, as the "one more thing"
 of the Connect keynote — a standalone, keychain-sized device that puts the

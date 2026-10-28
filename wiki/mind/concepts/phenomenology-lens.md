@@ -5,8 +5,9 @@ title: "Phenomenology Lens"
 aliases: ["the lens", "interpretive overlay", "generative phenomenology"]
 status: active
 tier: major
+layer: interpreted/concept
 date_created: 2026-06-22
-date_modified: 2026-10-07
+date_modified: 2026-10-28
 synthesizes:
   - wiki/self/context-core
   - wiki/mind/profile/intp
@@ -48,6 +49,8 @@ connections:
     type: contextualizes
     claim: "The lens is that page's flagship chamber-vocabulary artifact: the instruments' language appears seventeen times in 106,629 messages of actual life — the measured ceiling on the lens's claims about behavior."
 changelog:
+  - date: 2026-10-28
+    change: "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - date: 2026-06-22
     note: "Initial synthesis."
   - date: 2026-10-04
@@ -57,6 +60,7 @@ changelog:
 ---
 
 # Phenomenology Lens
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 The Phenomenology Lens is the wiki's record of how the commissioned instruments of 2025–26 narrated Dan's interior life — an interpretive overlay built from AI dossiers, Gemini sessions, and the dox-scan profile documents, written in the language of loops, engines, and axioms. Generative phenomenology: it does not report what happened, it narrates what the happenings felt like from inside, in metaphors rich enough to generate further metaphor.
 

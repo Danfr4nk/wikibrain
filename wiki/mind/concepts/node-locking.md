@@ -5,8 +5,9 @@ title: "Node Locking"
 aliases: ["profile locking", "DATA_LOGGED", "relational source code", "Deep Architecture", "memory-persistence protocol"]
 status: active
 tier: major
+layer: interpreted/concept
 date_created: 2026-07-15
-date_modified: 2026-10-06
+date_modified: 2026-10-28
 synthesizes:
   - wiki/mind/concepts/exocortex
   - wiki/mind/concepts/forensic-method
@@ -17,6 +18,8 @@ sources:
 tags: [ai-collaboration, forensic-analysis, relationships, digital-footprint]
 knowledge: earned
 changelog:
+  - date: 2026-10-28
+    change: "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - date: 2026-07-15
     change: "Page created."
   - date: 2026-10-04
@@ -63,6 +66,7 @@ connections:
 ---
 
 # Node Locking
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 Dan runs a memory protocol inside his AI sessions. He delivers granular, named "Node X:" observations — political, biographical, relational — and requires the model to retain every one of them, verbatim and unconsolidated, in persistent profile state. He then exports that state to other models: Gemini to Grok, ChatGPT exports uploaded back into Gemini, the pinned DANFRANK-ISMS chat carried as its own vessel. The 20.8 MB Gemini activity archive holds roughly 403 "node" mentions, 1,041 "profile" references, and 2,258 "lock" mentions [DERIVED — theme-frequency counts from [[wiki/self/gemini-activity/gemini-activity]], not independently re-derived here]; the pinned DANFRANK-ISMS chat carries 77+ nodes. The standing constraint is the same one this wiki inherits: keep all information, never summarize away detail.
 

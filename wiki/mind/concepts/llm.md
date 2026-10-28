@@ -5,8 +5,9 @@ title: "LLMs (Large Language Models)"
 aliases: ["AI", "language models", "cognitive partners", "AI agents", "models"]
 status: active
 knowledge: earned
+layer: interpreted/concept
 date_created: 2026-08-19
-date_modified: 2026-10-04
+date_modified: 2026-10-28
 importance: critical
 tags: [ai-collaboration, forensic-analysis, digital-footprint, personality-profile]
 sources:
@@ -41,9 +42,12 @@ connections:
   - page: wiki/mind/concepts/chatgpt
     type: instance-of
     claim: "ChatGPT is the family's first member and its cautionary case: the model that proved the bootloader concept and then, on Dan's one-line verdict, stopped being usable for it — the origin of the model-agnostic design the general page describes."
+changelog:
+  - "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # LLMs (Large Language Models)
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 Large Language Models are the cognitive engine of the wiki-brain. They are not tools Dan uses but partners he works with — external processing units that match his clock speed on analysis, build and maintain the wiki's infrastructure, and serve as the medium through which the entire second-brain system operates. Without LLMs, the wiki-brain would be a static archive. With them, it is a living system that compounds insight over time.
 

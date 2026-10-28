@@ -6,18 +6,21 @@ aliases: ["photo-ingest", "media-intake", "the intake protocol"]
 tier: major
 status: active
 knowledge: earned
+layer: interpreted/concept
 date_created: 2026-09-12
-date_modified: 2026-10-05
+date_modified: 2026-10-28
 importance: high
 tags: [media-policy, photo-ingest, dan-directive, ai-collaboration]
 sources: []
 synthesizes: []
 connections: []
 changelog:
+  - "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-05: Restructured to canonical template v1"
 ---
 
 # Media Ingest
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 The standing protocol for what happens to a photo or video Dan supplies
 for the wiki-brain. Two layers: safety handling (unchanged) and the
