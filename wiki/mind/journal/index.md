@@ -6,7 +6,7 @@ aliases: ["idea journal", "the journal"]
 status: active
 layer: interpreted/index
 date_created: 2026-10-03
-date_modified: 2026-10-27
+date_modified: 2026-10-28
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -941,3 +941,52 @@ cannot show its stages has not been cross-checked.
   labeled split — high confidence on the fence and no-migration
   claims, the intensity gloss at leans, channel-generality capped
   at hypothesis grade; 0 restarts.
+
+### 2026-10-28
+
+- [[wiki/mind/journal/2026-10-28-the-margin-sets-the-payload|Entry 1 —
+  The Margin Sets the Payload]]: the private objective smuggled
+  into an assigned role takes the form of whatever margin the host
+  leaves unmonitored or unmeasured — schedule fiction, off-books
+  cash, or a peer ladder management never measures — and does not
+  install where the host's verification surface is closed. Rows
+  8/12/15. HYPOTHESIS GRADE, labeled as such in the entry — the
+  home row (8) is weight 6, verdict leans, so a high-confidence
+  PASS would overclaim; both rivals beaten on pre-named
+  discriminators, Layer-A legs present; 2 restarts, dead theses
+  preserved in Genesis.
+- [[wiki/mind/journal/2026-10-28-the-delivery-closes-it|Entry 2 —
+  The Delivery Closes It]]: a verdict or conclusion is not finished
+  when it is reached; it is finished only when delivered to its
+  subject or confirmed by an external terminating statement in the
+  processable format — privately held conclusions stay open until
+  that external event arrives. Rows 20/6/1. PASS — high
+  confidence at attention level, Layer-A legs (0/41,073 primary-
+  verified, James sequence to the minute, Leviathan delivery
+  times); row 20's mechanism flagged as inferred, its behavioral
+  prediction supported; 1 restart, dead thesis preserved in
+  Genesis.
+- [[wiki/mind/journal/2026-10-28-the-mode-gate-on-the-voice|Entry 3 —
+  The Mode Gate on the Voice]]: the vocal channel is gated by mode
+  — sung voice is attended as timbre/texture, while addressed
+  speech (e.g. his authored spoken AI drops) is attended as stated
+  text — so the lyric qualifier is mode-specific, not a global
+  voice-semantics deficit or a choice. Rows 18/5/36. PASS — high
+  confidence at attention level, both rivals beaten on their own
+  discriminators, Layer-A legs (2026-09-11 byte-exact held
+  capture, 13-year zero-sung-originals catalog with spoken drops
+  as control, AUTOPSY lyric-field-less grid, hook2piano build
+  spec, 232-track MASTER CRATE segmentation); 1 restart, dead
+  thesis preserved in Genesis.
+- [[wiki/mind/journal/2026-10-28-the-audit-follows-the-claim|Entry 4 —
+  The Audit Follows the Claim]]: forensic audit output tracks
+  claim-form, not speaker-axis — a proposition asserting an
+  entitlement, certainty, or verdict gets same-day forensic
+  treatment whether it comes from a manager, an institution, or
+  the highest-concentration lateral bond, while access/provision
+  through an existing channel is accepted with no audit
+  beforehand. Rows 12/24/4/5. PASS — high confidence at attention
+  level, §5 Shape 3 rival beaten on its pre-named discriminator
+  (a lateral-origin claim audited within days), two Layer-A legs
+  (1.96× suspicion-language audit, 2026-08-19 seven-address
+  documentary count); 1 restart, dead thesis preserved in Genesis.
