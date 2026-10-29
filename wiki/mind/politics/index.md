@@ -5,11 +5,14 @@ title: "Politics — Hub"
 aliases: ["political material", "politics hub"]
 status: active
 tier: major
+layer: interpreted/index
 date_created: 2026-08-10
-date_modified: 2026-10-07
+date_modified: 2026-10-29
 sources: []
 tags: [politics, ideology]
 changelog:
+  - date: 2026-10-29
+    change: "2026-10-29: Declared framework-v2 layer interpreted/index (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - date: 2026-10-07
     change: "Expanded to major tier and restructured to canonical article template v1 adapted for an index page: story-first lede; substantive per-page summaries of all six politics/ members (axioms, conspiracy-verdicts, desantis-delusion-thesis, trump-was-always-going-to-win, lichtman-thirteen-keys) plus the indexed material; Conflicts in the record placed below midpoint; Assessment. All prior facts preserved."
 connections:
@@ -46,6 +49,7 @@ connections:
 ---
 
 # Politics — Hub
+_Layer: interpreted/index — an index page: it lists and characterizes the pages in this section rather than making claims of its own._
 
 This cluster opened 2026-08-10 as a door into material that had existed
 for weeks with no single point of entry. What it holds, taken together,
