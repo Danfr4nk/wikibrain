@@ -5,9 +5,11 @@ title: "Social Anxiety"
 status: active
 knowledge: mixed
 tier: major
+layer: interpreted/concept
 date_created: 2026-08-04
-date_modified: 2026-10-07
+date_modified: 2026-10-28
 changelog:
+  - "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-07: Expanded to major tier; restructured to canonical template v1."
 sources:
   - kb/data/0065-hyperreflexivity-session-mid-2025-unverified.md
@@ -45,6 +47,7 @@ connections:
 ---
 
 # Social Anxiety
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 Dan's own term is "crippling social anxiety." It is self-applied and
 self-recognized, but it is not diagnosed: there is no clinical

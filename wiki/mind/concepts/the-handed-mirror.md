@@ -5,9 +5,11 @@ title: "The Handed Mirror"
 status: active
 knowledge: earned
 tier: major
+layer: interpreted/concept
 date_created: 2026-08-04
-date_modified: 2026-10-20
+date_modified: 2026-10-28
 changelog:
+  - "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-handed-mirror, 2026-10-06-anomalies-are-the-jurisdiction (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - "2026-10-07: Expanded to major tier (>=3,000 words); restructured to canonical template v1; incorporated Leviathan follow-through findings (2026-08-02 export) and the Ally wiki-reading instance."
 sources:
@@ -59,6 +61,7 @@ connections:
 ---
 
 # The Handed Mirror
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 Dan does not stop at understanding a person. The analysis has a terminal
 step: it gets written down, delivered to its subject, and copied to a

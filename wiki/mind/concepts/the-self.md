@@ -4,8 +4,9 @@ page_type: concept
 title: "The Self"
 tier: major
 status: active
+layer: interpreted/concept
 date_created: 2026-10-18
-date_modified: 2026-10-18
+date_modified: 2026-10-28
 knowledge: earned
 tags: [jung, archetype, self, individuation, aion, analytical-psychology]
 sources:
@@ -28,9 +29,12 @@ connections:
     type: preceded-by
     claim: "The Self is met only after the shadow and the syzygy; the order of integration runs shadow first, then anima/animus, then Self."
 changelog:
+  - date: 2026-10-28
+    change: "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - 2026-10-18: Created from the Jung Collected Works concept-mining pass (Vols 1–17).
 ---
 # The Self
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 The Self is Jung's name for the total personality — the whole of which the ego is only a part. "I have suggested calling the total personality which, though present, cannot be fully known, the self. The ego is, by definition, subordinate to the self and is related to it like a part to the whole." It is at once a **centre** and a **totality**: "a psychic totality and at the same time a centre, neither of which coincides with the ego but includes it, just as a larger circle encloses a smaller one." *Aion* (Vol 9-II) is its central text; everything else in the psychology orbits it.
 

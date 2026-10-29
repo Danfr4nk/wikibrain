@@ -4,8 +4,9 @@ page_type: concept
 title: "Shadow"
 tier: major
 status: active
+layer: interpreted/concept
 date_created: 2026-10-18
-date_modified: 2026-10-18
+date_modified: 2026-10-28
 knowledge: earned
 tags: [jung, archetype, shadow, individuation, aion, analytical-psychology]
 sources:
@@ -31,9 +32,12 @@ connections:
     type: expressed-through
     claim: "The unrecognized shadow is projected — 'one meets with projections, one does not make them' — onto others, groups, and nations."
 changelog:
+  - date: 2026-10-28
+    change: "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - 2026-10-18: Created from the Jung Collected Works concept-mining pass (Vols 1–17).
 ---
 # Shadow
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 The shadow is everything the subject refuses to acknowledge about himself — "the hidden, repressed, for the most part inferior and guilt-laden personality whose ultimate ramifications reach back into the realm of our animal ancestors and so comprise the whole historical aspect of the unconscious." It is the first figure met on the way down: "the figure nearest his consciousness and the least explosive one… the first component of personality to come up in an analysis of the unconscious." Meeting it is not optional. "The meeting with oneself is… the meeting with one's own shadow. The shadow is a tight passage, a narrow door, whose painful constriction no one is spared who goes down to the deep well."
 

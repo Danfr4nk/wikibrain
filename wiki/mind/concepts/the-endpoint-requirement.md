@@ -7,8 +7,9 @@ tier: major
 status: active
 importance: medium
 knowledge: derived
+layer: interpreted/concept
 date_created: 2026-09-13
-date_modified: 2026-10-05
+date_modified: 2026-10-28
 sources:
   - raw/mind/captures/2026-08-02_122411_perspective-complete-objective.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [personality-profile, forensic-analysis]
@@ -23,10 +24,12 @@ connections:
     type: evidenced-by
     claim: "The embedded objectives that sustained 41 and 43 months of employment were all endpoint-shaped — a tip split paid out, custody of the shed's cash tips — which is why they completed where open-ended self-set projects stalled."
 changelog:
+  - "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-05: Restructured to canonical template v1"
 ---
 
 # The Endpoint Requirement
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 **Status: speculation with a real evidential shape — the 2026-09-13 mind
 rewrite's new finding, not a settled concept.** Dan's acquisition drive

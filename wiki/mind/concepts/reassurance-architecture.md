@@ -6,8 +6,9 @@ aliases: ["reassurance architecture", "the check-in loop", "reassurance-seeking"
 status: active
 knowledge: earned
 tier: major
+layer: interpreted/concept
 date_created: 2026-08-04
-date_modified: 2026-10-07
+date_modified: 2026-10-28
 sources:
   - src:imessage-corpus-2026
   - src:old-wiki-export-2026-09-04
@@ -19,6 +20,8 @@ sources:
   - kb/interpretations/attachment-model-129-exits.md
 tags: [relationships, attachment, trauma-bond, trust, consistency, forensic-analysis, personality-profile]
 changelog:
+  - date: 2026-10-28
+    change: "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - 2026-09-09: Dossier-arithmetic figures flagged unre-derived; phrase zeros verified against held corpus (dat:0755); crisis-day table verified (dat:0754)
   - 2026-09-11: Severance-horizon prediction retracted (see wiki/mind/synthesis/august-26-block-retraction)
   - 2026-09-13: Kristin portability test filed; 127 superseded by 129
@@ -49,6 +52,8 @@ connections:
     type: evidenced-by
     claim: "The latency analysis relocated this page's deficit from response to content: Annie answered faster than Dan in every year measured, so what the verification loop failed to obtain was never a reply — it was enough information in one to close an anomaly."
 ---
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
+
 
 *Part of the [[wiki/mind/index|mind domain]] — concept.*
 

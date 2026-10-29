@@ -6,13 +6,18 @@ aliases: ["PredictIt", "election betting"]
 tier: incidental
 status: stable
 knowledge: earned
+layer: interpreted/concept
 date_created: 2026-10-01
-date_modified: 2026-10-01
+date_modified: 2026-10-28
 tags: [substack, forecasting, 2024-election, instruments]
 sources:
   - "raw/dan/20261001-substack-creepy/2023-05-26-poll-watch-1.md"
   - "raw/dan/20261001-substack-creepy/2023-06-03-poll-watch-2.md"
+changelog:
+  - "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
+
 
 > **Incidental entry** — prediction markets as Dan's forecasting instrument: prices next to polls, with the mechanics understood. Complete at this size.
 

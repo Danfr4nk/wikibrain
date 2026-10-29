@@ -4,6 +4,8 @@ page_type: concept
 title: "Phonetic name drift"
 tier: incidental
 status: stable
+date_modified: 2026-10-28
+layer: interpreted/concept
 date_created: 2026-10-04
 sources:
   - "main chat, 2026-10-04 ~02:04–02:06 EDT — Dan's self-reported recall attempt ('Hayley Robley'), the correction, and his confirmation, in-thread"
@@ -18,9 +20,12 @@ connections:
   - page: wiki/mind/synthesis/the-scoreboard
     type: contextualizes
     claim: "The running ledger where stated-vs-recorded divergences get scored; this entry is the name-level instance of the pattern the scoreboard tracks at prediction scale."
+changelog:
+  - "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Phonetic name drift
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 > **Incidental entry** — a single dated observation about how Dan's memory stores names: the sound survives, the spelling doesn't, and the gap gets rebuilt. Complete at this size.
 

@@ -5,8 +5,9 @@ title: "The Wiki-Brain"
 aliases: ["wiki-brain", "the wiki", "second brain", "the repository"]
 status: active
 knowledge: earned
+layer: interpreted/concept
 date_created: 2026-08-19
-date_modified: 2026-10-22
+date_modified: 2026-10-28
 importance: critical
 tags: [ai-collaboration, digital-footprint, personality-profile, forensic-analysis]
 sources: []
@@ -53,9 +54,12 @@ connections:
   - page: wiki/meta/complete-log-doctrine
     type: contains
     claim: "The complete-log doctrine is the article-minimums' loudest rule: temporal metrics are displayed as the full log, translated for a human reader, never summarized away — 'More is better than less every time,' in his words."
+changelog:
+  - "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Wiki-Brain
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 *Up: [[wiki/self/index]] — Self*
 

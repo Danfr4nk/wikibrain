@@ -4,8 +4,9 @@ page_type: concept
 title: "The Name as Handle — How Annie Uses 'Dan' and 'Daniel' as a Regulatory Instrument"
 status: active
 knowledge: earned
+layer: interpreted/concept
 date_created: 2026-09-17
-date_modified: 2026-09-17
+date_modified: 2026-10-28
 sources:
   - src:imessage-corpus-2026
 tags: [relationships, annie-ulmer, attachment, communication, forensic-analysis, linguistic-profile, regulation]
@@ -22,7 +23,11 @@ connections:
   - page: wiki/mind/concepts/explicit-verbal-commitment
     type: references
     claim: "The late-era 'Daniel' solemn register — promises and apologies in the full name — is the commitment architecture's mirror: she performs explicitness in the register he requires, using his heaviest name to do it."
+changelog:
+  - "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
+
 
 *Part of the [[wiki/mind/index|mind domain]] — concept.*
 

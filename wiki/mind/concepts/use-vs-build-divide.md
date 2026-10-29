@@ -3,8 +3,9 @@ domain: mind
 page_type: entity
 tier: major
 status: active
+layer: interpreted/concept
 date_created: 2026-09-15
-date_modified: 2026-10-05
+date_modified: 2026-10-28
 sources:
   - "dat:1587-conjunction-rule-cultural-literacy-20260915 (the conjunction rule the divide feeds)"
   - "The 2026-09-15 millennial-culture / AI-adoption thread as worked (survey interrogation predates the archived raw window; the thread's tail is in src:sammy-chat-transcript-20260915-1555, 15:42–15:47Z)"
@@ -23,10 +24,12 @@ connections:
     type: contextualizes
     claim: "Dan's builder-side relationship to LLMs (pipelines, agents, probes) is the far end of the divide this entry measures."
 changelog:
+  - "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-05: Restructured to canonical template v1"
 ---
 
 # The Use-vs-Build Divide
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 
 AI as the thread's new cultural cut: not whether the cohort uses AI,
 but *how*. The 2026-09-15 thread turned into a live data

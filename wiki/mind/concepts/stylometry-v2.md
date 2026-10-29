@@ -5,8 +5,9 @@ title: "The Stylometry Engine (v2)"
 aliases: ["stylometry", "state tracking", "the stylometry tracker"]
 status: active
 knowledge: earned
+layer: interpreted/concept
 date_created: 2026-09-16
-date_modified: 2026-10-04
+date_modified: 2026-10-28
 importance: high
 tags: [instruments, self-measurement, linguistics, ai-collaboration]
 sources:
@@ -18,7 +19,11 @@ connections:
   - page: wiki/mind/concepts/claude
     type: corrected-by
     claim: "A Claude session drafted the v2 spec, but Sammy built it — Dan's words: 'you are the one who got this thing working, not Claude so trust your own judgement if you think it's wrong.' Four corrections to Claude's draft were made live (recipient resolution, flag-vs-alert measurement/notification split, calibration episode dedup, splitter-routed null construction)."
+changelog:
+  - "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
+_Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
+
 
 ## The Stylometry Engine (v2)
 
