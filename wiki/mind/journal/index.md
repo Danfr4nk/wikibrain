@@ -6,7 +6,7 @@ aliases: ["idea journal", "the journal"]
 status: active
 layer: interpreted/index
 date_created: 2026-10-03
-date_modified: 2026-10-28
+date_modified: 2026-10-29
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -990,3 +990,62 @@ cannot show its stages has not been cross-checked.
   (a lateral-origin claim audited within days), two Layer-A legs
   (1.96× suspicion-language audit, 2026-08-19 seven-address
   documentary count); 1 restart, dead thesis preserved in Genesis.
+
+### 2026-10-29
+
+- [[wiki/mind/journal/2026-10-29-the-sum-is-the-verdict|Entry 1 —
+  The Sum Is the Verdict]]: a stated sum functions as a binary
+  gate, not a price — exact payment passes, a shortfall or a
+  demand fails, and no leg shows a graded middle: the $5 birthday
+  Venmo bit flat for 15+ years, the $40 Kristin collapse to the
+  Dec 9, 2025 block, the BFS $50 demand producing no settlement
+  at all. Rows 1/21/5/6. PASS — bounded (high on the gate shape,
+  leg-level bounds stated: $5 leg is two-thread corroboration,
+  $40 composition [UNKNOWN], BFS leg corrected at gate-check to
+  the page's 2026-08-26 corrected sequence — Dan's own words,
+  "i didn't refuse to pay it" — which removes the refusal but
+  keeps the absence of any graded settlement); 0 restarts, one
+  Stage-2 interior formulation struck pre-evidence and preserved
+  in Genesis.
+- [[wiki/mind/journal/2026-10-29-the-sound-is-built-first|Entry 2 —
+  The Sound Is Built First]]: in his own music production the
+  build order runs sound-first — a track is complete-able
+  without any lyric meaning, and voice enters only as a
+  production element (texture, chop, drop) fitted into an
+  already-standing structure, never as the lyric seed the track
+  is built around. Rows 18/5/4/10. PASS — high confidence at
+  stated bounds (dependency/slot order, not DAW chronology;
+  making, not listening); genre-costume rival beaten on the
+  genre-independence discriminator; Layer-A legs (2026-09-11
+  byte-exact held capture, AUTOPSY zero-meaning-field grid,
+  hook2piano engineering constraint); 1 restart, dead
+  clock-order thesis preserved in Genesis.
+- [[wiki/mind/journal/2026-10-29-the-refusal-is-a-gate|Entry 3 —
+  The Refusal Is a Gate]]: a refusal issued by Dan takes exactly
+  one form — a single explicit binary statement ("never,"
+  "would never … ever") installing a channel/behavior state,
+  with no graded version at issuance, no partial-compliance
+  phase, and no negotiation ladder; later movement is a whole
+  flip or a whole re-arm, never a thinning. Rows 1/6/5.
+  PASS — high confidence at stated bounds (form-at-issuance
+  and movement shape only; durability belongs to the
+  2026-10-20 re-arming-latch entry); Shape 5 rival beaten on
+  its pre-named discriminator (same-day operative state install
+  independent of any reply; counterparty-less maxim); 0
+  mechanism restarts, 1 evidence-set kill preserved in Genesis
+  (the brief's candidate examples were Sammy's refusals, not
+  his, or already-filed theses, or retracted by the BFS
+  page's 2026-08-26 correction).
+- [[wiki/mind/journal/2026-10-29-the-gate-is-the-loop|Entry 4 —
+  Only the Gate Closes the Loop]]: a built system's output
+  changes a subsequent decision if and only if it arrives as a
+  binary gate verdict AND its issuer holds the grant for that
+  field — measurement-form outputs accumulate append-only, and
+  verdict-shaped but uninstalled outputs (Jev) change nothing.
+  Rows 10/9/6/1/4/15. PASS — bounded (high confidence on the
+  audited set; accumulation side is absence-of-record, Jev leg
+  derived-grade, "iff" scoped to the audited set); Shape 6
+  displacement rival beaten on both pre-named discriminators;
+  token acts governed here, pattern rates stay with the
+  2026-10-27 entry; 1 restart, dead form-alone thesis preserved
+  in Genesis.
