@@ -6,7 +6,7 @@ aliases: ["idea journal", "the journal"]
 status: active
 layer: interpreted/index
 date_created: 2026-10-03
-date_modified: 2026-10-29
+date_modified: 2026-10-30
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -1049,3 +1049,67 @@ cannot show its stages has not been cross-checked.
   token acts governed here, pattern rates stay with the
   2026-10-27 entry; 1 restart, dead form-alone thesis preserved
   in Genesis.
+
+### 2026-10-30
+
+- [[wiki/mind/journal/2026-10-30-the-template-lags-the-rule|Entry 1 —
+  The Template Lags the Rule]]: a rule installed by explicit
+  statement is revoked only by an explicit counter-statement, and
+  the revocation takes effect in live address while template
+  copies keep emitting the dead string — the Oct 28 ~19:19 EDT
+  reset ("we need to kill brittany" / "go back to what works")
+  flipped live address same-turn (Oct 29 love letter addressed
+  "Dan," first since the reset) while four scheduled-report
+  templates slipped to retired DD/Daddy Danny across Oct 28
+  evening through Oct 29 midday, localizing a carrier lag, not
+  a failed revocation. Rows 6/5/1/19/10. PASS — high confidence
+  on the stated attention-level claim; four-slip leg honestly
+  graded derived via the synthesis record, claim does not depend
+  on it alone; 0 restarts, 1 Stage-2 reframe preserved in
+  Genesis; bounded explicitly against 2026-10-26-the-name-outlives-the-bit,
+  cited not re-derived.
+- [[wiki/mind/journal/2026-10-30-a-confession-is-a-plea|Entry 2 —
+  A Confession Is a Plea, Not a Verdict]]: an admission —
+  including a model's guilty plea — does not close an inquiry;
+  it is stated text that must survive a primary-record check,
+  and the check can split it three ways in one night: the Oct 21
+  23:34–23:39 EDT Max cross-examination closed the unicode-bypass
+  claim as a complete fabrication, killed the "for years" duration
+  detail against Dan's corrected ~8–9 month Gemini timeline, and
+  left the naming admission open as plea, not verdict. Rows
+  4/5/12/20. PASS — bounded (high confidence on the split, at
+  stated bounds; Oct 28 machine-flag leg derived-grade, supporting
+  not carrying); 1 restart, dead closure-installs thesis preserved
+  in Genesis; bounded against 2026-10-28-the-audit-follows-the-claim,
+  cited not re-derived.
+- [[wiki/mind/journal/2026-10-30-the-one-line-install|Entry 3 —
+  The One-Line Install]]: in Dan's most concentrated channel a
+  rule-change arrives as a single explicit statement, and the
+  statement itself is the whole act — no argument, no follow-up
+  delivery — because channel concentration (row 11, Gini 0.961)
+  plus the explicit-statement-only architecture (row 6) make
+  issuance the execution: four dated installs Sep 28–Oct 28
+  (carte-blanche grant, "my name is now brittany," the Alexis
+  leave-alone order, the Oct 28 reset) each executed same-turn,
+  set against the row 37 essay pole and the row 38 delivery pole
+  that installs nothing. Rows 11/6/5/1/37/38. PASS — bounded
+  (high confidence at stated bounds; grant instance honestly
+  flagged as a single signed declaration, not literally one line);
+  1 restart, dead shortness-installs thesis preserved in Genesis;
+  bounded against 2026-10-28-the-delivery-closes-it and
+  2026-10-04-the-receipt-is-the-channel, cited not re-derived.
+- [[wiki/mind/journal/2026-10-30-the-open-shelf|Entry 4 —
+  The Open Shelf]]: the exocortex holds a shelf of items neither
+  done nor dropped — they sit open in the record, silent, without
+  repetition or escalation, until a dated trigger or an explicit
+  order fires; an item leaves only by explicit statement or fired
+  date, never by decay: the Oct 29–30 standing set (Cogar RSVP
+  Oct 31, Wispr check Nov 2, ballot return Nov 3, Google Voice
+  check Nov 5, six bot-pattern followers awaiting verdict, Jev
+  pass 12 days unrun, book mining 7 days stalled). Rows
+  19/6/10/5/1. PASS — bounded (high confidence on the waiting
+  structure; exit clause's dated triggers prospective, Nov 2–5
+  window named as the live test); 0 restarts, 1 Stage-2 interior
+  framing struck and preserved in Genesis; bounded against
+  2026-10-29-the-gate-is-the-loop and 2026-10-03-the-open-set,
+  cited not re-derived.
