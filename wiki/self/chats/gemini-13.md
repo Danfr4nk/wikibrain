@@ -3,9 +3,11 @@ domain: self
 page_type: chat
 tier: incidental
 status: stable
+layer: documented/exhibit
 date_created: 2026-06-23
-date_modified: 2026-10-15
+date_modified: 2026-10-30
 changelog:
+  - "2026-10-30: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-15: Classified incidental (complete at this size)"
 sources: ["raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-13.md"]
 related: ["wiki/people/jacob-bacharach", "wiki/mind/concepts/forensic-method", "wiki/mind/synthesis/ai-collaborative-analysis", "wiki/self/gemini-activity/gemini-activity", "wiki/timeline/periods/2015-2016-annie-relationship-start"]
@@ -15,6 +17,7 @@ tags: [ai-collaboration, uniontown-era, relationships, nyc-era]
 > **Incidental entry** — data-exhibit stub: a 902-line Gemini session working the Jacob Bacharach coincidence chain — the novelist whose book used Dan's mother's rental house as a literary prop; kept as a forensic-methodology exemplar. Complete at this size.
 
 # Gemini Session 13 — Bacharach Neighborhood Glitch
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion._
 
 > **Data exhibit** — A 902-line Gemini session working through the Bacharach coincidence chain, kept for the session's own arc and verbatim evidence; the person-level synthesis lives at wiki/people/jacob-bacharach. Working material; the conclusions live in the pages that cite it.
 

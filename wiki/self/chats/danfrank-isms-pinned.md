@@ -3,8 +3,9 @@ domain: self
 page_type: chat
 tier: incidental
 status: archived
+layer: documented/exhibit
 date_created: 2026-06-22
-date_modified: 2026-10-15
+date_modified: 2026-10-30
 date_range_start: 
 date_range_end: 
 sources: [
@@ -25,12 +26,14 @@ related: [
 ]
 tags: [ai-collaboration, politics, ideology, trauma-bond]
 changelog:
+  - "2026-10-30: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-15: Classified incidental (complete at this size)"
 ---
 
 > **Incidental entry** — data-exhibit stub: a Gemini pinned chat preserving his 77 numbered 'Danfrank-isms' in his own formulations — evidence of his positions as he states them. Complete at this size.
 
 # Danfrank-isms Pinned Chat
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion._
 
 > **Data exhibit** — A Gemini pinned chat preserving Dan's 77 numbered 'Danfrank-isms' node statements and Gemini's lossless structural logging of them, kept as evidence of his positions in his own formulations. Working material; the conclusions live in the pages that cite it.
 

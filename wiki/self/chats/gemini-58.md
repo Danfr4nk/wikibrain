@@ -3,9 +3,11 @@ domain: self
 page_type: summary
 tier: incidental
 status: active
+layer: documented/exhibit
 date_created: 2026-06-23
-date_modified: 2026-10-15
+date_modified: 2026-10-30
 changelog:
+  - "2026-10-30: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-15: Classified incidental (complete at this size)"
 sources: [
   "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-58.md",
@@ -34,6 +36,7 @@ connections:
 > **Incidental entry** — data-exhibit stub: a ~30-exchange Gemini forensic session ("NYC Round 1 / Ishlab + Creative License Forensics 2010-2013 + Menore"), preserved as evidence for the early-NYC record other pages synthesize. Working material. Complete at this size.
 
 # Gemini Session 58 (NYC Round 1 / Ishlab + Creative License Forensics 2010-2013 + Menore)
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion._
 
 > **Data exhibit** — A Gemini session page preserving the 'storytime: NYC part 1' ishlab/Creative License analysis across some thirty exchanges, kept as evidence for the 2010-2013 NYC record other pages synthesize. Working material; the conclusions live in the pages that cite it.
 

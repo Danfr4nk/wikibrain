@@ -2,8 +2,9 @@
 domain: self
 page_type: summary
 status: archived
+layer: documented/exhibit
 date_created: 2026-06-23
-date_modified: 2026-10-06
+date_modified: 2026-10-30
 tier: major
 sources: [
   "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md",
@@ -28,6 +29,8 @@ connections:
     type: parallels
     claim: "Gemini 18 parallels session 58 as the profile-lock counterpart: a total, zero-hedging bio and personality dump requested for cross-model transfer, in the same forensic-archiving register session 58 applies to the NYC years."
 changelog:
+  - date: 2026-10-30
+    change: "2026-10-30: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - date: 2026-06-23
     note: "Initial creation — full ingest pass on Gemini-_18.md: file stats (1675 lines, forensic:36 etc.), bio timeline table, relationships verbatim, capability contest tables, Bifurcated Daily OS + Decoupling Paradox + chat.db forensics; cross-links to gemini-activity, alexis-armel, annie-ulmer, tom, 2025-collapse, ai-collaborative-analysis."
   - date: 2026-10-06
@@ -35,6 +38,7 @@ changelog:
 ---
 
 # Gemini Session 18 (Profile Lock / Exhaustive Bio Dump for Grok Transfer)
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion._
 
 This is the profile-lock session: a sixteen-turn Gemini conversation, ingested 2026-06-23 and preserved in a surviving 1077-line export, in which Dan commissioned Gemini — the persistent instance persona he calls "Max" — to perform a "TOTAL, EXHAUSTIVE, ZERO-HEDGING memory dump and structured profile" of himself, explicitly formatted as forensic archiving for raw data transfer to another model, Grok. The session ran as a staged forensic dossier: repeated demands for deeper, less sanitized extractions across seven dossier phases (biographical timeline, relationship deconstruction, psychological architecture, operator psychology, synthesized personality model), followed by a designed cross-model capability contest in which Dan positioned himself as the cold auditor of zero-shot model outputs.
 

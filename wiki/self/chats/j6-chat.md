@@ -4,8 +4,9 @@ page_type: chat
 title: "J6 Chat: Psyop Hypothesis"
 status: archived
 tier: major
+layer: documented/exhibit
 date_created: 2026-06-22
-date_modified: 2026-10-06
+date_modified: 2026-10-30
 sources: ["raw/wiki/new-wiki/wikibrain/wiki/self/chats/j6-chat.md", "raw/wiki/new-wiki/wikibrain/wiki/self/gemini-activity/gemini-activity.md", "raw/googlechat/the-j6-chat.md", "raw/googlechat/j6-chat.md", "kb/data/0813-j6-chat-psyop-hypothesis-recorded.md", "kb/data/0713-dans-law-j6-concluded-consistent-across-corpus.md"]
 related: [
   "wiki/self/context-core",
@@ -17,7 +18,8 @@ related: [
 ]
 tags: [politics, ai-collaboration, ideology]
 changelog: [
-  { date: 2026-10-06, note: "Expanded to major tier (canonical template v1): story-first lede, full anomaly-by-anomaly chat record, held-export correction, Conflicts in the record, Assessment." }
+  { date: 2026-10-06, note: "Expanded to major tier (canonical template v1): story-first lede, full anomaly-by-anomaly chat record, held-export correction, Conflicts in the record, Assessment." },
+  { date: 2026-10-30, note: "Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep." }
 ]
 connections:
   - page: wiki/mind/synthesis/political-psyops
@@ -35,6 +37,7 @@ connections:
 ---
 
 # J6 Chat: Psyop Hypothesis
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion._
 
 This is a data exhibit: the preserved text of a long Claude chat, dated to about 2024, in which Dan lays out his narrow January 6 psyop hypothesis and dares the model to argue him out of it. The framing of the whole session is a wager. He opens by telling Claude he has a historical-event interpretation the model will say is "absolutely 100% not true and not possible," bets he can flip it anyway, and invites Claude to play — as long as it is "good faith and a fair arbiter of the information." Claude takes the bet, and the conversation becomes something unusual in the wiki's record: a months-of-work forensic argument, conducted over raw footage, official documents, and ballistics, being adversarially judged round by round in real time.
 

@@ -3,18 +3,21 @@ domain: self
 page_type: chat
 tier: incidental
 status: archived
+layer: documented/exhibit
 date_created: 2026-06-22
-date_modified: 2026-10-14
+date_modified: 2026-10-30
 sources: ["raw/self/dox-md/_ⒺⓍⓉⓇⒶⒸⓉ ⓂⒺⓈⓈⒶⒼⒺⓈ Pinned chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/_ⒺⓍⓉⓇⒶⒸⓉ ⓂⒺⓈⓈⒶⒼⒺⓈ Pinned chat copy.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/chats/danfrank-isms-pinned", "wiki/self/chats/j6-chat", "wiki/self/message-corpora/master-message-dump", "wiki/mind/concepts/forensic-method"]
 tags: [ai-collaboration]
 changelog:
+  - "2026-10-30: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-14: Classified incidental (complete at this size)"
 ---
 
 > **Incidental entry** — data-exhibit stub: a pinned-chat export documenting Dan's message-extraction sessions, evidence for the corpora pages that cite it. Working material; complete at this size.
 
 # EXTRACT MESSAGES Pinned Chat
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion._
 
 > **Data exhibit** — A pinned chat export of Dan directing an AI to extract and structure message data under a keep-everything discipline, kept as evidence of the extraction sessions behind the message corpora. Working material; the conclusions live in the pages that cite it.
 

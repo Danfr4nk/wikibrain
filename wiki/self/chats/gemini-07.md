@@ -4,9 +4,12 @@ page_type: summary
 title: "Gemini Session 07 (Suzy Call & Blackout / Target G Forensic)"
 status: archived
 tier: major
+layer: documented/exhibit
 date_created: 2026-06-23
-date_modified: 2026-10-07
+date_modified: 2026-10-30
 changelog:
+  - date: 2026-10-30
+    change: "2026-10-30: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - date: 2026-10-07
     note: "Expanded with corroborating evidence from the eli-incident, annie-ulmer, and suzanne-frank pages plus kb/data/0490; restructured to canonical template v1."
 infobox:
@@ -45,6 +48,7 @@ tags: [ai-collaboration, nyc-era, trauma-bond, relationships, politics]
 ---
 
 # Gemini Session 07 (Suzy Call & Blackout / Target G Forensic)
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion._
 
 Gemini Session 07 is the January 2026 forensic session in which Dan asked Gemini to take one small, ugly episode apart and test it like an engineering failure: on the evening of January 4, 2026, Annie called Dan's mother on speakerphone; a male voice beside Annie said "Suzy" — the diminutive for Dan's mother, Suzanne Frank — and Annie killed the call within two seconds. Over the next two weeks Dan ran a fabricated "wife-warning" screenshot (the "Whisk" psyop) past Annie as a stimulus, and the man — a routine roughly-48-hour visitor to the mother's house — went totally dark for ten days. Gemini's read was actuarial, not psychological: the "Suzy" voice was a high-entropy social-access key requiring real casual warmth with Dan's mother; the instant hang-up was a panic-response NACK; the binary frequency collapse was a non-verbal confession, modeled as a Grim Trigger strategy.
 

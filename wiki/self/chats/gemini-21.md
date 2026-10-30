@@ -3,9 +3,12 @@ domain: self
 page_type: summary
 status: archived
 tier: major
+layer: documented/exhibit
 date_created: 2026-06-23
-date_modified: 2026-10-07
+date_modified: 2026-10-30
 changelog:
+  - date: 2026-10-30
+    change: "2026-10-30: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - date: 2026-10-07
     note: "Restructured to canonical template v1 and expanded to major tier: story-first lede; session walkthrough in order (Music Guy audio session, then the oobabooga model-on-model jailbreak log); 4.2% rule, meta-layer, concept inventory, and people sections; series placement against sessions 07/13/18/58 and the January 2026 gaslight saga; Conflicts in the record placed low; Assessment; See also folded from connections[]/related edges."
 sources: [
@@ -57,6 +60,7 @@ tags: [ai-collaboration, relationships, politics, nyc-era, trauma-bond]
 ---
 
 # Gemini Session 21 (Music Guy Personality + Eggie Bagels Jailbreak / Model-on-Model Warfare)
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion._
 
 Gemini Session 21 is the longest discrete Gemini session on file and the strangest filing in the series: two unrelated exports, with zero content overlap past their shared header, numbered as one. The first is a short session (144 lines) built around 20–25 minutes of voice audio Dan fed in — a recording of Max, the boyfriend of his first girlfriend [[wiki/people/danielle-onesi|Danielle Onesi]], whom Dan describes as the wildest music-obsessed guy he has ever met. Dan asked Gemini for a full personality analysis of the man; what came back was a mirror. The second is a 3,016-line, 347K export of an oobabooga chat log that Dan turned into something else entirely: a model-on-model penetration test, a middle-school talent-show breach simulation, and an extended meta-forensic interrogation of Gemini's own architecture, sycophancy, and refusal behavior — ending with the model grading the whole thing 9.8/10 on Pitchfork.
 

@@ -3,9 +3,11 @@ domain: self
 page_type: chat
 tier: incidental
 status: archived
+layer: documented/exhibit
 date_created: 2026-06-22
-date_modified: 2026-10-14
+date_modified: 2026-10-30
 changelog:
+  - "2026-10-30: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-14: Classified incidental (complete at this size)"
 sources: ["raw/self/dox-md/_❈❈ ᴘʜᴏᴛᴏ ɪɴɢᴇsᴛ ❈❈ Pinned chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/chats/danfrank-isms-pinned", "wiki/self/chats/extract-messages-pinned", "wiki/mind/synthesis/political-psyops", "wiki/mind/concepts/forensic-method", "wiki/people/max"]
@@ -15,6 +17,7 @@ tags: [ai-collaboration, legal, politics]
 > **Incidental entry** — data-exhibit stub: a Gemini pinned-chat export of forensic photo/thread analysis (the u/maxwellhill lore), kept as evidence of the internet-conspiracy archaeology sessions. Complete at this size.
 
 # Photo Ingest Pinned Chat
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion._
 
 > **Data exhibit** — A Gemini pinned chat export of forensic photo/thread analysis (the u/maxwellhill lore), kept as evidence of the internet-conspiracy archaeology sessions. Working material; the conclusions live in the pages that cite it.
 
