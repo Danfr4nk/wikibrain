@@ -3,8 +3,9 @@ domain: self
 page_type: report
 tier: incidental
 status: active
+layer: documented/exhibit
 date_created: 2026-06-23
-date_modified: 2026-10-15
+date_modified: 2026-10-29
 sources: ["raw/self/facebook/facebook-ihatedanfrank/messages/ — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/facebook", "wiki/people/annie-ulmer", "wiki/mind/concepts/contact-gini", "wiki/mind/synthesis/attachment-trauma-bond", "wiki/self/message-corpora/master-message-dump", "wiki/timeline/events/timeline", "wiki/timeline/periods/2015-2016-annie-relationship-start", "wiki/mind/concepts/forensic-method", "wiki/mind/synthesis/totality-themes"]
 tags: [nyc-era, relationships, trauma-bond, family, digital-footprint]
@@ -17,12 +18,14 @@ connections:
     claim: "The Friends exhibit is the network roster behind these threads: some 650 documented friends across the 2009–2022 Facebook export."
 
 changelog:
+  - "2026-10-29: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-15: Classified incidental (complete at this size)"
 ---
 
 > **Incidental entry** — data-exhibit stub: the ihatedanfrank Facebook message export — 403+ threads (2011–2022) with the Annie thread as its primary documented node. Complete at this size.
 
 # Facebook Messages (ihatedanfrank)
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion._
 
 > **Data exhibit** — The ihatedanfrank Facebook message export: 403+ threads (2011–2022) with the Annie thread as its primary documented node. Working material; the conclusions live in the pages that cite it.
 

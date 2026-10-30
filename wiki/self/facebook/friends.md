@@ -3,9 +3,11 @@ domain: self
 page_type: report
 tier: incidental
 status: archived
+layer: documented/exhibit
 date_created: 2026-06-23
-date_modified: 2026-10-15
+date_modified: 2026-10-29
 changelog:
+  - "2026-10-29: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-15: Classified incidental (complete at this size)"
 sources: ["raw/self/facebook/facebook-ihatedanfrank/friends_and_followers/ — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 related: ["wiki/self/facebook", "wiki/timeline/periods/2015-2016-annie-relationship-start", "wiki/people/rick-frank", "wiki/mind/concepts/contact-gini"]
@@ -20,6 +22,7 @@ connections:
 > **Incidental entry** — data-exhibit stub: the Facebook friends-and-followers export — roughly 659 documented friends spanning 2009-2022, from Uniontown roots through the NYC and scene years; the network half of the same export. Complete at this size.
 
 # Facebook Friends Network
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion._
 
 > **Data exhibit** — The Facebook friends-and-followers export: ~650 documented friends spanning 2009–2022, from Uniontown roots through the NYC and scene years. Working material; the conclusions live in the pages that cite it.
 
