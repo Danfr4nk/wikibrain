@@ -6,8 +6,9 @@ aliases: ["2026-10-27-the-loop-closes-in-production-only"]
 status: active
 knowledge: derived
 importance: medium
+layer: interpreted/journal
 date_created: 2026-10-27
-date_modified: 2026-10-27
+date_modified: 2026-10-31
 sources:
   - "~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md (v1, 2026-10-03; read first, before drafting)"
   - "Instrument §5 Shape 1 note (the check that killed the original Idea Journal Entry 1 framing)"
@@ -18,9 +19,12 @@ synthesizes:
 tags: [idea-journal, exocortex, system-building, diagnosis-to-behavior-gap, shape-6]
 connections:
   - "wiki/mind/journal/index.md (to be updated by the parent filing pass; this pass did not edit the index)"
+changelog:
+  - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Loop Closes in Production Only
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 

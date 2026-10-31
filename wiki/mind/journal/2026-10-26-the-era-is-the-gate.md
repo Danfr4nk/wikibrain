@@ -6,8 +6,9 @@ aliases: ["2026-10-26-the-era-is-the-gate"]
 status: active
 knowledge: derived
 importance: 6
+layer: interpreted/journal
 date_created: 2026-10-26
-date_modified: 2026-10-26
+date_modified: 2026-10-31
 sources:
   - "memory/2026-10-22.md (Emma Rose obsession entries, 2026-10-22)"
   - "MEMORY.md (Emma Rose obsession entry)"
@@ -19,9 +20,12 @@ tags: [mind, journal, 2026-10-26, era-gating, consumption-pattern, verification]
 connections:
   - "wiki/mind/journal/2026-10-22-the-installed-palate.md"
   - "wiki/mind/journal/index.md (filed-in journal index)"
+changelog:
+  - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Era Is the Gate
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 

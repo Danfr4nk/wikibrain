@@ -9,8 +9,9 @@ aliases:
 status: active
 knowledge: derived
 importance: medium
+layer: interpreted/journal
 date_created: 2026-10-27
-date_modified: 2026-10-27
+date_modified: 2026-10-31
 sources:
   - ~/workspace/your_files/taste-constitution.md
   - ~/workspace/music-analysis/personal_prog/chord_progressions.json
@@ -30,9 +31,12 @@ connections:
   - page: wiki/mind/journal/2026-10-11-the-exclusion-register
     type: distinguishes
     claim: "That entry owns the stated exclusion verdicts (guitar, drum kit, Lonelysoul.). This entry makes no exclusion claim and re-derives no exclusion evidence."
+changelog:
+  - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Seesaw Travels With the Sound, Not the Name
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 

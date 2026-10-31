@@ -6,8 +6,9 @@ aliases: ["the-garble-does-not-adjudicate", "idea journal 2026-10-25 pass A", "d
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-25
-date_modified: 2026-10-25
+date_modified: 2026-10-31
 sources:
   - ~/MEMORY.md
   - ~/memory/2026-10-07.md
@@ -31,9 +32,12 @@ connections:
   - page: wiki/mind/journal/2026-10-11-the-installed-name
     type: distinguishes
     claim: "The Installed Name proves identity states install and revoke via explicit statements. This entry's object is the delivery precondition on that mechanism: a statement whose surface is garbled carries no install or revoke power until its corrected form is stated. The install mechanism is cited from that entry, never re-derived; the garble's exclusion from it is mine."
+changelog:
+  - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Garble Does Not Adjudicate
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-25, pass A (a garbled dictated line never installs, revokes, or adjudicates anything; only the corrected explicit restatement carries install power. Dictation noise is routed around, never ruled on).**
 

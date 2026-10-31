@@ -6,8 +6,9 @@ aliases: ["the-floor-prices-the-burst", "idea journal 2026-10-25 pass C", "produ
 status: draft
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-25
-date_modified: 2026-10-25
+date_modified: 2026-10-31
 sources:
   - ~/MEMORY.md
   - ~/memory/2026-10-21.md
@@ -31,9 +32,12 @@ connections:
   - page: wiki/mind/journal/2026-10-12-the-brief-and-the-mandate
     type: distinguishes
     claim: "The 2026-10-12 brief-and-mandate entry is about delegation briefs/mandates between people — an explicit statement installing a task and a standing order. This entry's object is a numeric production floor applied to wiki output (10,000 lines/day against dated line counts). The mandate mechanism is cited from that entry, never re-derived; the floor-as-gauge claim is mine."
+changelog:
+  - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Floor Prices the Burst
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-25, pass C (the imposed 10,000-line/day wiki floor does not level his output — it prices it: under the floor, output stays burst-shaped, so the floor functions as a gauge that reveals the burst rhythm, not a governor that changes it).**
 

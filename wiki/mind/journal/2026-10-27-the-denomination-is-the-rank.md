@@ -6,8 +6,9 @@ aliases: ["2026-10-27-the-denomination-is-the-rank"]
 status: active
 knowledge: derived
 importance: medium
+layer: interpreted/journal
 date_created: 2026-10-27
-date_modified: 2026-10-27
+date_modified: 2026-10-31
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - ~/workspace/wbrepro/wiki/mind/synthesis/provision-grammar.md
@@ -21,9 +22,12 @@ tags: [provision, concentration, attachment-register, attention-level, idea-jour
 connections:
   - Journal index: to be filed by the parent pass (this isolated pass does not edit the index)
   - Distinguishes vs: the provision-vs-condolence claim (care arrives as countable acts rather than condolence language) — that claim is the register; this entry claims the register's *form* encodes channel rank, which that claim does not state
+changelog:
+  - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Denomination Is the Rank
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 

@@ -6,8 +6,9 @@ aliases: ["2026-10-26-the-layer-he-added"]
 status: active
 knowledge: derived
 importance: medium
+layer: interpreted/journal
 date_created: 2026-10-26
-date_modified: 2026-10-26
+date_modified: 2026-10-31
 sources:
   - "memory/2026-10-24.md: Media-to-wiki pipeline — first AI video ingest (Oct 24, 2026 ~05:26 EDT)"
   - "memory/2026-10-24.md: Media-to-wiki pipeline — caption correction + thread catch-up (Oct 24, 2026 ~05:39 EDT)"
@@ -19,9 +20,12 @@ connections:
   - "wiki/mind/journal/index.md (to be updated by the parent filing pass; this pass did not edit the index)"
   - "dat:20261024-0526-first-ai-video-trump-motorcycle"
   - "evt:2024-07-19-first-ai-video-seen"
+changelog:
+  - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Layer He Added
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 

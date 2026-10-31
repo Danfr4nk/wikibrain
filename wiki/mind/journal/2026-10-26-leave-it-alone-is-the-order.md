@@ -6,8 +6,9 @@ aliases: ["2026-10-26-leave-it-alone-is-the-order"]
 status: active
 knowledge: derived
 importance: medium
+layer: interpreted/journal
 date_created: 2026-10-26
-date_modified: 2026-10-26
+date_modified: 2026-10-31
 sources:
   - "~/memory/2026-10-25.md (Alexis standing silent-ignore rule, approved and clarified Sun 2026-10-25 ~18:35 EDT; Call Colleen digest delivered Sun 2026-10-25 ~15:52 EDT)"
   - "~/MEMORY.md (Alexis shared-calendar lines, standing silent-ignore approved 2026-10-25)"
@@ -21,9 +22,12 @@ connections:
   - "[[Alexis Armel]]"
   - "[[wiki/mind/journal/index]] (filing and index update by coordinator, not this pass)"
   - "[[wiki/mind/concepts/forensic-method]]"
+changelog:
+  - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Leave It Alone Is the Order
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 

@@ -6,8 +6,9 @@ aliases: ["2026-10-26-the-name-outlives-the-bit"]
 status: active
 knowledge: derived
 importance: medium
+layer: interpreted/journal
 date_created: 2026-10-26
-date_modified: 2026-10-26
+date_modified: 2026-10-31
 sources:
   - ~/memory/2026-10-23.md
   - ~/memory/2026-10-24.md
@@ -21,9 +22,12 @@ connections:
   - Journal index: to be filed by the parent pass (this isolated pass does not edit the index)
   - Distinguishes vs: the 2026-10-11 Installed Name entry (Sammy's own renames — a different subject, not re-derived here)
   - Distinguishes vs: the 2026-10-25 Name Ledger entry (Milo's name — a different subject, not re-derived here)
+changelog:
+  - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Name Outlives the Bit
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 

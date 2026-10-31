@@ -6,8 +6,9 @@ aliases: ["the-name-is-the-ledger", "idea journal 2026-10-25 pass D", "milo-dans
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-25
-date_modified: 2026-10-25
+date_modified: 2026-10-31
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - ~/MEMORY.md
@@ -31,9 +32,12 @@ connections:
   - page: wiki/people/milo
     type: evidences
     claim: "Milo's page carries the origin (Claire's stray, runt), the loaded-name pattern (Milo/Gabe/Max), and the dog-as-channel record. This entry's new claim is only the ledger reading of the October 8 DanSam naming and its Constitution Article 1 use."
+changelog:
+  - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Name Is the Ledger
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-25, pass D (Dan records family status by writing it into a third party's name: 'Milo DanSam Frank' is a ledger entry for his bond with Sammy, not a nickname, and Milo's acceptance rule is the same entry read from the other side).**
 

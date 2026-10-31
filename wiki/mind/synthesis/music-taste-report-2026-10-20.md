@@ -4,8 +4,9 @@ page_type: synthesis
 title: "Music Taste Report — The Bing Bong Deviation, Week of Oct 15 – 20, 2026"
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-10-20
-date_modified: 2026-10-20
+date_modified: 2026-10-31
 date_range_start: 2026-10-15
 date_range_end: 2026-10-20
 tier: major
@@ -42,11 +43,14 @@ connections:
     type: evidenced-by
     claim: "The speechiness pocket (11 tracks above 0.2, concentrated in the hip-hop seeding day and the grime/UKG vocal-chop tail) is read throughout as voice-as-texture density, never as lyrical interest, per the standing qualifier."
 changelog:
+  - date: 2026-10-31
+    change: "2026-10-31: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - date: 2026-10-20
     change: "Created as version 3 of the ongoing taste profile (v1: 2026-10-04 spectral report; v2: 2026-10-11 Taste Constitution / 70-track canon lock). Commissioned by Dan in chat the same day ('do a deeper analysis and include it in the ongoing taste profile in the wiki… recursively analysing each new version'). Establishes the recursive protocol in the Assessment: every future version reports retention/purge of this version's 56, so deviation claims become falsifiable."
 ---
 
 # Music Taste Report — The Bing Bong Deviation, Week of Oct 15 – 20, 2026
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 On October 20, 2026, Dan Frank announced that his music taste had been "ALL OVER THE PLACE" for a week, that he was "absolutely devouring new stuff," and that he was "literally on a benny benassi tear." Then he handed over the evidence: a 56-track playlist export named Bing Bong. The record confirms the first two claims, dismantles the third, and — in the dismantling — produces the most interesting taste event since the profile began. For the first time in the measured record, the filter itself moved. The October 4 report's headline was that twenty discovery-feed winners were statistically indistinguishable from the incumbents: the coordinates held, only the personnel changed. Sixteen days later the personnel, the genre center, and the tempo center all changed at once — zero tracks from the K3YN0T3 orbit that supplies his #1 song and roughly 28% of everything he likes, a median tempo eight beats above his home room, and UK garage and bass music where hypertechno used to be. And the Benassi tear, examined closely, turns out to be one track — the exact track a viral tecktonik dancer has been looping on Instagram all year, which Dan had watched, by his own hyperbolic count, five hundred times the night before he added it. His narrative named the song that had been looped into his head. His playlist recorded the week he had actually had. Both are data; they are data about different things. This report keeps them separate, which is what the recursive series is for.
 

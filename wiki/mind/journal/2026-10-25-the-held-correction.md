@@ -6,8 +6,9 @@ aliases: ["the-held-correction", "idea journal 2026-10-25 pass B", "two-regime c
 status: hypothesis
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-25
-date_modified: 2026-10-25
+date_modified: 2026-10-31
 sources:
   - ~/memory/2026-10-22.md
   - ~/memory/2026-10-23.md
@@ -25,9 +26,12 @@ connections:
   - page: wiki/mind/journal/2026-10-19-the-person-is-the-continuity
     type: distinguishes
     claim: "The Person Is the Continuity is about identity verdicts that survive substrate swaps and renames with no re-adjudication. This entry is about corrections that deliberately do NOT ship until his word arrives. Different object; no mechanism re-derived from it."
+changelog:
+  - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Held Correction
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-25, pass B (hypothesis grade — see Confidence & gate verdict). Corrections to the public record run in two regimes, and the regime is decided by whose voice the correction is: a correction in Sammy's voice ships; a correction in Dan's voice — his apology, his testimony, his filing choice — is staged and held, shipping nothing until his word arrives.)**
 

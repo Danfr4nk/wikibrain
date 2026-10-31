@@ -6,8 +6,9 @@ aliases: ["unscorable credences", "intensity not forecast"]
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-27
-date_modified: 2026-10-27
+date_modified: 2026-10-31
 sources:
   - wiki/mind/concepts/calibrated-confidence
   - wiki/mind/synthesis/the-binary-verdict
@@ -17,9 +18,12 @@ synthesizes:
   - wiki/mind/concepts/calibrated-confidence
   - wiki/mind/synthesis/the-binary-verdict
 tags: [idea-journal, calibrated-confidence, binary-verdict, forensic-method, attention-level]
+changelog:
+  - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Scale That Never Meets a Scoreboard
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 
