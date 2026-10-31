@@ -3,8 +3,9 @@ domain: self
 page_type: synthesis
 knowledge: mixed
 status: active
+layer: documented/exhibit
 date_created: 2026-09-23
-date_modified: 2026-09-23
+date_modified: 2026-10-30
 sources:
   - raw/self/amazon-2018-orders/amazon-2018-orders.md
 related:
@@ -15,9 +16,12 @@ tags:
   - impulsivity
   - behavioral-data
   - amazon
+changelog:
+  - "2026-10-30: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The 2018 Ledger
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion.
 
 There is a version of 2018 that Dan remembers, and there is a version that his inbox remembers. This entry is about the second one.
 

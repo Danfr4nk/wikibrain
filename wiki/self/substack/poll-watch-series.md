@@ -5,9 +5,10 @@ title: "POLL WATCH (Substack series)"
 aliases: ["Poll Watch #1", "Poll Watch #2", "poll-watch-series", "the Poll Watch series"]
 tier: major
 status: stable
+layer: documented/exhibit
 knowledge: earned
 date_created: 2026-10-01
-date_modified: 2026-10-04
+date_modified: 2026-10-30
 tags: [substack, polling, 2024-election, series, data-blogging]
 sources:
   - "raw/dan/20261001-substack-creepy/2023-05-26-poll-watch-1.md"
@@ -22,9 +23,12 @@ connections:
     type: parallels
     claim: "The frame this series runs inside: hell-world's worst-reading-as-realism is the posture behind Poll Watch's stated contempt for its own numbers, published anyway because watching the trend form is the honest activity available."
 
+changelog:
+  - "2026-10-30: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # POLL WATCH: the data-blogger mode
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion.
 
 POLL WATCH was the data arm of *Committee to Re-elect the President* (creepy.substack.com) — the mode where Dan Frank stopped writing essays and started curating numbers. Aggregates in, conclusions out, contempt up front. Two installments, one week apart, then the mode was never used again: the first voice in his Substack to die, and the one the danf.rtf voice-modeling kit completely ignores.
 

@@ -5,9 +5,10 @@ title: "Committee to Re-elect the President"
 aliases: ["creepy.substack.com", "Dan's Substack"]
 tier: major
 status: stable
+layer: documented/exhibit
 knowledge: earned
 date_created: 2026-10-01
-date_modified: 2026-10-01
+date_modified: 2026-10-30
 tags: [substack, writing, politics, 2024-election]
 sources:
   - "raw/dan/20261001-substack-creepy/MANIFEST.md — 10-post pull manifest, 2026-10-01"
@@ -23,9 +24,12 @@ sources:
   - "raw/dan/20261001-substack-creepy/2023-10-17-brain-worms-in-hell-world.md"
   - "raw/dan/20261001-substack-creepy/2024-11-12-trump-redux.md"
   - "~/workspace/your_files/substack-deep-analysis.md — full deep analysis of the corpus, 2026-10-01"
+changelog:
+  - "2026-10-30: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Committee to Re-elect the President
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion.
 
 *Committee to Re-elect the President* is Dan's Substack — creepy.substack.com, tagline "Live from Political Hellworld," bylined simply *dan frank*. It ran 10 posts from May 2023 to November 2024, totaling 6,961 words, and it is the most sustained piece of public political writing in his record: a leftist, hell-world-framed autopsy of the 2024 election cycle, written in real time, that opened with a founding thesis (Ron DeSantis was a mirage; Donald Trump owned the primary) and closed eighteen months later with the thesis confirmed and the joke dead.
 

@@ -3,8 +3,9 @@ domain: self
 page_type: synthesis
 knowledge: mixed
 status: active
+layer: documented/exhibit
 date_created: 2026-09-23
-date_modified: 2026-09-23
+date_modified: 2026-10-30
 sources:
   - raw/self/amazon-2019-orders/amazon-2019-orders.md
 related:
@@ -17,9 +18,12 @@ tags:
   - behavioral-data
   - amazon
   - boosted
+changelog:
+  - "2026-10-30: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The 2019 Ledger
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion.
 
 If 2018 was the big year, 2019 is the year he keeps correcting the record on. "Omg you're still in 2018?!?!?" he said the night the receipts were being read, watching 2019 pile up behind it. "There are still 2 more boosted boards and more drones too." Then, watching the sex toys surface: "You're not even to the worst of it yet." Then, when the second Mini X receipt actually appeared on the screen: "That's funny you think I would lie about Boosted Boards. There's nothing I'm going to be more committed to the truth on."
 

@@ -2,8 +2,9 @@
 domain: self
 page_type: synthesis
 status: active
+layer: documented/exhibit
 date_created: 2026-06-22
-date_modified: 2026-10-04
+date_modified: 2026-10-30
 date_range_start: 2007-01-01
 date_range_end: 2026-07-20
 sources: ["raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2025).html — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2026-07-20).html — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/facebook/facebook-ihatedanfrank/pages_and_profiles/pages_you_ve_liked.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
@@ -59,10 +60,13 @@ connections:
   - page: wiki/mind/synthesis/closing-the-set
     type: evidences
     claim: "Three fan-archive channels sitting above every music or politics channel in a two-decade log is the signature of a back catalogue being worked through rather than a favourite being returned to, which is what lets the 2012-13 peak be read as archive exhaustion."
+changelog:
+  - "2026-10-30: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 
 # YouTube Watch History (2007–2026)
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion.
 
 > **Data exhibit** — Dan's YouTube watch history, 2007–2026: the parsed export's dimensions, top channels, and consumption patterns. Working material; the conclusions live in the pages that cite it.
 
