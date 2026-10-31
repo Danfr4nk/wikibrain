@@ -6,7 +6,7 @@ aliases: ["idea journal", "the journal"]
 status: active
 layer: interpreted/index
 date_created: 2026-10-03
-date_modified: 2026-10-30
+date_modified: 2026-10-31
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -1113,3 +1113,54 @@ cannot show its stages has not been cross-checked.
   framing struck and preserved in Genesis; bounded against
   2026-10-29-the-gate-is-the-loop and 2026-10-03-the-open-set,
   cited not re-derived.
+
+### 2026-10-31
+
+- [[wiki/mind/journal/2026-10-31-the-tenure-tracks-the-payload|Entry 1 —
+  The Tenure Tracks the Payload]]: externally assigned roles last
+  only while a private objective installed inside them lasts — the
+  41-month Au Za'atar tenure survived three months of deliberate
+  hour-cutting and ended when the shed territory was torn down,
+  while the payload-less ~1-month BFS tenure did not survive its
+  first weeks. Rows 8/15/16/12. PASS — high confidence at stated
+  bounds (row 8 leans-grade; load carried by the discriminator and
+  the sensor legs; BFS control directional only); 1 restart, the
+  completion-engine formulation killed at Stage 1 for borrowing
+  quarantined rows 30/50, plus a Stage-2 chaos-language kill,
+  both preserved in Genesis; bounded against the-embedded-objective
+  and the 2026-10-29 sum entry, cited not re-derived.
+- [[wiki/mind/journal/2026-10-31-the-imperative-is-the-check-in|Entry 2 —
+  The Imperative Is the Check-In]]: in the attachment register a
+  check-in is only ever issued as an imperative — a command with a
+  verifiable completion state ("call me," "pick up," "where are
+  you") — never as an interpretive question about the bond ("do
+  you love me," 0× in eleven years of sent text). Rows 5/21/38/23.
+  PASS — high confidence; the Shape-2 rival beaten on its
+  discriminator (canonical-question zeros hold in the friend
+  control while summons rates port across bonds); 1 Stage-2
+  restart, the interior "needs control" draft killed and preserved
+  in Genesis; count divergence across exports flagged, not smoothed.
+- [[wiki/mind/journal/2026-10-31-the-gap-is-filed-as-a-gap|Entry 3 —
+  The Gap Is Filed as a Gap]]: the forensic engine's second
+  rule-shaped move — where a record cannot be settled or must not
+  be published, the gap itself is filed as a dated, labeled entry
+  ([UNKNOWN], open question, file held out pending his call)
+  carrying the hole's shape, the source that would settle it, and
+  the closure condition, instead of a plausible fill. Rows 4/10/6.
+  PASS — high confidence at stated bounds; the Shape-6
+  displacement rival beaten on its discriminator (discrete dated
+  closures on stated conditions); 0 restarts; the 2026-10-18 and
+  2026-10-24 legs flagged testimony-grade (local clone predates
+  them), thesis not dependent on either alone.
+- [[wiki/mind/journal/2026-10-31-the-timestamp-is-the-witness|Entry 4 —
+  The Timestamp Is the Witness]]: when narrative and timestamp
+  conflict, the timestamp wins on order and bounds — it fixes what
+  came before what and the earliest/latest a claim can stand — and
+  it never, on its own, proves closure, intent, or meaning; a
+  timestamp is a hard floor, never a conclusion. Rows 4/5/20.
+  PASS — bounded (high confidence on order and bounds, closure
+  explicitly conceded to the row-20 witness requirement); 1
+  restart, the "timestamp replaces the witness" thesis killed at
+  Stage 3 on the August 26 discriminator and preserved in Genesis;
+  bounded against the audit and gap-filing theses, cited not
+  re-derived.
