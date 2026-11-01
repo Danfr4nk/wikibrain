@@ -6,8 +6,9 @@ aliases: ["2026-10-31-the-timestamp-is-the-witness", "idea journal 2026-10-31 pa
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-31
-date_modified: 2026-10-31
+date_modified: 2026-11-01
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/concepts/forensic-method
@@ -37,9 +38,12 @@ connections:
   - page: wiki/mind/concepts/explicit-verbal-commitment
     type: component-of
     claim: "Row 5's explicit-over-inferred rule supplies the format test: only stated text in the processable format registers, and a timestamp never upgrades an unstated implication into a stated rule."
+changelog:
+  - "2026-11-01: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Timestamp Is the Witness
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-31, pass D (when narrative and timestamp conflict, the timestamp wins on order and bounds — it fixes what came before what, and the earliest and latest a claim can stand — and it never, on its own, proves closure, intent, or meaning; a timestamp is a hard floor, never a conclusion).**
 

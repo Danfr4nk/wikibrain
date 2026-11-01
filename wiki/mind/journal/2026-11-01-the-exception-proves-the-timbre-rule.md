@@ -8,6 +8,7 @@ aliases:
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-11-01
 date_modified: 2026-11-01
 sources:
@@ -35,9 +36,12 @@ connections:
   - page: "taste-constitution"
     type: reference
     claim: "Crowning of 'Addicted To You' and the sound-first crate record ground the ranking claims."
+changelog:
+  - "2026-11-01: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Exception Proves the Timbre Rule
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 

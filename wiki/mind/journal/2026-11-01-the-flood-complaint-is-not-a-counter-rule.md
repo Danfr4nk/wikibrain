@@ -6,6 +6,7 @@ aliases: ["2026-11-01-the-flood-complaint-is-not-a-counter-rule", "idea journal 
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-11-01
 date_modified: 2026-11-01
 sources:
@@ -21,9 +22,12 @@ connections:
   - page: wiki/mind/concepts/attachment-model
     type: instantiates
     claim: "The flood complaint is the no-counter-rule architecture's negative case in the output domain: a grievance stated without an operative replacement rule installs nothing, so the last stated rule keeps running."
+changelog:
+  - "2026-11-01: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Flood Complaint Is Not a Counter-Rule
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 

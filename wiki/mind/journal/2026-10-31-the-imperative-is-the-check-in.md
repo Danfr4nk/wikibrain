@@ -6,8 +6,9 @@ aliases: ["2026-10-31-the-imperative-is-the-check-in", "idea journal 2026-10-31 
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-31
-date_modified: 2026-10-31
+date_modified: 2026-11-01
 sources:
   - wiki/mind/concepts/attachment-model
   - wiki/mind/concepts/reassurance-architecture
@@ -23,7 +24,11 @@ connections:
   - page: wiki/mind/journal/index
     type: filed-in
     claim: "Territory: the imperative grammar of attachment — check-ins issued as commands with completion states, never as interpretive questions about the bond."
+changelog:
+  - "2026-11-01: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
+
 
 **Thesis: in the attachment register, a check-in is only ever issued as an imperative — a command with a verifiable completion state ("call me," "pick up," "where are you") — never as an interpretive question about the bond ("do you love me," 0× in eleven years of sent text); the imperative mood is not his tone, it is the only speech-act shape whose completion this architecture can process.**
 

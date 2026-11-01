@@ -6,8 +6,9 @@ aliases: ["the-tenure-tracks-the-payload", "idea journal 2026-10-31 pass A", "pa
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-31
-date_modified: 2026-10-31
+date_modified: 2026-11-01
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - ~/workspace/wbrepro/wiki/work/au-zaatar.md
@@ -27,9 +28,12 @@ connections:
   - page: wiki/mind/synthesis/the-embedded-objective
     type: distinguishes
     claim: "The Embedded Objective argues the payload rule from the employment record in full, including the BFS $50 mechanism and the Nemacolin/Caviar/ARD rows. This entry's object is narrower and differently gated: the Au Za'atar/BFS pair run through the weighted instrument (rows 8, 15, 16, 12) with a sensor-grounded discriminator — the schedule he actually kept and the labels he actually applied — and the BFS $50 mechanism is deliberately not re-derived here; only tenure length and objective-presence are used from that row."
+changelog:
+  - "2026-11-01: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Tenure Tracks the Payload
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-31, pass A (externally assigned roles last only while a private objective installed inside them lasts: the 41-month Au Za'atar tenure survived three months of deliberate hour-cutting and ended when the shed territory was torn down, while the payload-less ~1-month BFS tenure did not survive its first weeks — tenure duration tracks payload-presence, not the job).**
 

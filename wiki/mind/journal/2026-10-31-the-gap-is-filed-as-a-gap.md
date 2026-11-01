@@ -6,8 +6,9 @@ aliases: ["2026-10-31-the-gap-is-filed-as-a-gap", "idea journal 2026-10-31 pass 
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-31
-date_modified: 2026-10-31
+date_modified: 2026-11-01
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/synthesis/provision-grammar
@@ -23,9 +24,12 @@ connections:
   - page: wiki/mind/journal/index
     type: filed-in
     claim: "Idea Journal 2026-10-31, pass C. Territory: the forensic engine's second move — where a record cannot be settled or must not be published, the gap itself is filed as a dated, labeled entry ([UNKNOWN], open question, held-out file pending his call) instead of being papered over with a plausible fill."
+changelog:
+  - "2026-11-01: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Gap Is Filed as a Gap
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-31, pass C (the forensic engine, famous for lossless retention, has a second move just as rule-shaped: where a record cannot be settled or must not be published, it files the gap itself as a dated, labeled entry — an [UNKNOWN], an open question, a file held out pending his call — carrying the hole's shape, the source that would settle it, and the condition that would close it, instead of papering over it with a plausible fill).**
 
