@@ -7,12 +7,12 @@ importance: critical
 knowledge: mixed
 status: active
 date_created: 2026-06-22
-date_modified: 2026-10-23
+date_modified: 2026-10-31
 date_range_start: 2015-11-01
-date_range_end: 2026-10-04
+date_range_end: 2026-10-31
 infobox:
   name: Annie Ulmer
-  status: Open — in near-daily contact through 2026-09-21 (iPhone recovery); supply relationship resumed 2026-07-27; sexual contact resumed early August 2026 after a ~6-month gap (operator testimony); as of 2026-10-04 a physical-only arrangement per the operator, unacknowledged as a relationship — his second exit text sent 2026-10-04 asking her to release him or claim it
+  status: Open — near-daily contact through 2026-10-31, running on the supply ritual; physical-only arrangement per the operator, unacknowledged as a relationship. Oct 13 rupture over alleged renewed contact with Jerel (unconfirmed by her); family intervention #2 (Oct 25) ordered her to leave town — not executed; Oct 27 she reported being 'unaware majority of the time' with little recollection; Oct 28 the only zero-message day in the record; Oct 31 ended in a standoff — product she had paid for held by Dan pending any real discussion — and the Nov 1 birthday she had agreed (Oct 21) to spend with him asked about five times that day and never answered
   type: Partner (2015–2026); ex-partner in live contact
   known_for: Decade-long relationship; subject of forensic dossiers
   partner: "[[wiki/self/overview|Dan Frank]]"
@@ -27,6 +27,21 @@ infobox:
   enneagram: 7w8
   personality_assessment: "[[wiki/people/annie-ulmer-personality-assessment]]"
 changelog:
+  - date: 2026-10-31
+    note: >-
+      Two device iMessage exports filed (raw/2026-10-31-annie-imessage-exports/: 4,848 msgs
+      May 4-Aug 2; 2,328 msgs Oct 11-31) and hand-read in full. New section: October 11-31 —
+      the ritual resumed, the Oct 13 rupture (his conclusion of renewed Jerel contact,
+      unconfirmed by her), the undiagnosed Oct 20-24 illness week (no medical contact anywhere
+      in 7,176 messages), Linda Ulmer's death (Oct 23), intervention #2 and its non-execution,
+      the Oct 27 self-report, the Oct 28 zero day, and the Oct 31 standoff; October
+      quantitative layer added (question audit, streak census, word mass). Correction: the
+      May 30-31 section's timestamps were UTC carried as local — all four hours late, seconds
+      identical; the disregard sequence and the goodbye ran the night of May 31-Jun 1 local.
+      Corroboration: the June attempts — the export adds her June 5 apology and exact times.
+      Operator testimony Oct 31: the robbery claim and 'they drove right by'; the in-person
+      'flooding' attribution and its remedy test; drinking identified as the new variable.
+      date_range_end 2026-10-31.
   - date: 2026-10-23
     note: "Book cross-check (Dark Psychology 5-in-1, 2020; phase-2 book-mine): appended a dated note recording that the genre folk model's gaslighting pattern corresponds at act level to this page's fallout verdict (dat:2115), that the book's predator-type explanation is explicitly not imported, and that the book is not evidence for any act on this page. No existing text altered."
   - date: 2026-10-04
@@ -2986,6 +3001,18 @@ threads — total volume, rates over time, how much of it Dan knew about in
 real time versus reconstructed later — aren't mapped. The DUI's
 disposition past the preliminary hearing is unknown.
 
+**2026-10-31 sources.** Two device exports (filed at
+`raw/2026-10-31-annie-imessage-exports/`) extend the text record: May 4 –
+Aug 2, 2026 (4,848 messages) and Oct 11–31, 2026 (2,328). Their holes are
+the sources', not the world's: Jun 16 – Jul 22 contains no messages in the
+first export (her contact in that window was the July 4-weekend email,
+off-thread), and Aug 3 – Oct 10 is covered on this page only by the iPhone
+recovery pass (Aug 22 – Sep 21) and the Oct 4 audit. The exports also
+resolved one instrument error: the May 30–31 timestamps above were UTC
+carried as local (corrected in place). The DUI's disposition remains
+unknown; October adds only Dan's Oct 25 aside ("hope you get another dui
+tonight"), which attests a prior, not a disposition.
+
 One gap opened with the 2026-08-13 pass and **closed on 2026-08-20**.
 
 > **GAP CLOSED [2026-08-20] — the severance sweep is complete and the zero**
@@ -3306,6 +3333,17 @@ say After this."* (02:08:57), *"Please leave me alone"* (02:10:43),
 04:27:49, his goodbye. The exit that ended the channel was his; the
 reopening of it, fifty-two days later, was hers.
 
+**Correction [2026-10-31].** The device export filed 2026-10-31 gives every
+timestamp in this section exactly four hours earlier, seconds identical —
+the times printed above are UTC values carried as local. On the export's
+clock the flood runs 2026-05-30 19:25:57 → 2026-05-31 06:09:56, its dense
+pack at 01:08:30–01:30:00 local; her "Chinese" replies fall at 22:50:40 and
+01:29:22; the disregard sequence runs the same evening, May 31, 22:08:57 /
+22:10:43 / 22:11:47 — not the next night — and the goodbye at 2026-06-01
+00:27:49 ("Goodbye forever. This was not how it should have ended but. sic
+semper lupanis"). The sequence, the ordering, and the count of 427 are
+unchanged; only the clock was wrong.
+
 
 ## October 4, 2026: the full-record audit, the summons texts, and the second exit text
 
@@ -3451,6 +3489,190 @@ if said, it was said in voice or in person. (iii) Earlier analysis by
 Sammy had floated an "Annie stole my aura" shared-reality reading of the
 day's events, including the arrival; the arrival-causality half of that
 reading is withdrawn above on the operator's correction.
+
+
+## October 11–31, 2026: the second intervention, and the discussion that never happened
+
+The two device exports filed 2026-10-31 extend this page's text record to
+the night of October 31. The first (4,848 messages, May 4 – Aug 2)
+re-covers ground this page already holds from other sources and
+corroborates it — including the June attempts, to which it adds one the
+page had not enumerated, her apology of June 5, 00:37 ("Daniel, i just
+want to say that i am extremely sorry"), and exact timestamps throughout.
+The second (2,328 messages, Oct 11–31) is new ground entirely. What
+follows keeps this page's discipline: her statements are hers, his
+conclusions are his, and the unconfirmed stays unconfirmed.
+
+The ritual resumed whole. Oct 11 is supply, mailbox, tenderness in the
+same hour ("The Eggie bagel loves you and Mimi"). Her circumstances:
+her parents' house, one car shared with her father, babysitting her
+niece Alice, Maruca's shifts, a rib and side pain that never gets a
+name, and a "personal shit" she glosses once, at 16:21, as "everything
+that has been chaotic in my life recently." Oct 12 he proposes
+refreshing their "fuck routine"; she agrees ("Ohhhhhh I got cha") —
+the arrangement in this window includes sex, in-thread.
+
+**Oct 13 — the break.** Dan concludes she is seeing Jerel again —
+"twice in one week," at "dimarco's" — and invokes the protection
+order: she sat in front of a judge, swore to the danger, and is seeing
+him anyway. Her whereabouts that day are never stated by her anywhere
+in the export. Her only adjacent line, 20:57, is "I did ask to see
+him!!!" — ambiguous in referent, and left ambiguous here. Her visible
+distress that night is the lost $60 bag, found under her car seat
+Oct 15, 00:47. He closes the night with "no longer welcome here" and a
+threat to have Suz tell her parents. Oct 14, 00:21, Annie: "I hope I
+end up dead / I really hope I do."
+
+Oct 15 is the housing crisis. A live argument with her father "about
+him putting me out"; "I have no where Togo rn Dan"; he offers the
+house. Of Jerel: "No I don't want to see him ever again." And the
+fullest of her reset declarations: "I know I have to stop and change
+my entire life and I want to. I have to. I need to." / "I have ruined
+myself" / "Bc I am broken." Oct 16–17 brings the nails/video dispute —
+a video she sent was not from the day she claimed; she first denies,
+then concedes (Oct 17, 00:30: "You're correct… That was wrong of
+me") — and, at 00:03 on Oct 17, the first of the month's self-reports
+that are not about conduct but about mechanism: "my moods and
+personalities just switch so much worse and quicker and i dont know
+why." Asked if she is done with him: "No Daniel."
+
+**The illness week, Oct 20–24 — undiagnosed.** It begins as flu:
+chills, full-body aches, sweats, shaking, sleep in two-hour
+increments, inability to drive. Oct 21, 22:10, she reports a
+temperature of 103; her mother is caring for her. Oct 23 is the worst
+day: she cannot turn her head, everything is stiff, her vision is
+flashing "like a strobe light was on," she cannot form sentences
+aloud, the headache has run a four-day perimeter, and she asks Dan,
+"Do you think something neurological is wrong." He suggests COVID.
+No test, diagnosis, clinic, or doctor appears anywhere in either
+export — a search of all 7,176 messages for hospital, doctor, ER,
+urgent care, and clinic returns zero hits. Whatever that week was, no
+medical professional ever saw it. Oct 24 she leaves work early and
+reports the shift from inside: she poured Sam Adams instead of the
+Oktoberfest ordered, mixed her words serving tables, "My mind was
+just so jumbled up," "I am literally not stable." The same week, two
+dated facts sit beside the illness without explanation. On Oct 21, at
+18:54, between the worst symptom days, she agrees to spend time with
+Dan on his birthday, Nov 1: "Seriously? Yes I will." And on Oct 23,
+10:44, her aunt Linda — Ellen's oldest sister — died; her mother is,
+in Annie's word, "a wreck."
+
+**Oct 25 — intervention #2.** At Claire's house: 20:19, "I'm in the
+middle of an intervention"; 20:23, "I have to leave town tomorrow";
+20:28, "Either I have to leave tomorrow or I will off my self
+tonight"; 23:44, "I am really ready to be done with everything in
+life"; 23:45, "You mean everything to me / But I am not mentally
+stable." Dan's in-thread reading is a month away, at least. **Oct 26
+the plan does not happen.** "Good morning" at 10:50; a request for
+forty; a visit planned for when her parents leave. By Oct 29 she is
+at work — Dan's father places a takeout order with her. The July
+pattern repeated exactly: escalation, ultimatum, absorption,
+resumption.
+
+**Oct 27 — the fullest self-report in the record.** 20:42: "It's
+clear that I need help. I have called three separate therapists today
+and not one got back to me. I'm on a self-destructive path here and I
+dont know why I can't fucking control anything." 20:44: "Im unaware
+majority of the time / And that's scary." 20:48: "It's basically like
+I wake up for a little." 20:50: "I rarely have any recollection of
+what happened." 20:53: "I need fucking help." The same exchange holds
+the declarations: "No. I am not done" and "I fucking love you." The
+report is hers, uncorroborated; nobody in the record has examined
+her, and the July arrangement — therapy three times a week in place
+of being sent away — has evidently lapsed without comment, since the
+therapists she is calling on Oct 27 are new ones.
+
+**Oct 28 — the zero day.** She no-shows the planned morning visit.
+His 11 messages that day receive no reply at all — the only day in
+either export with zero messages from her. Oct 30: Alice's Halloween
+parade, then work. Dan raises the "curly fuzzies" remark; she never
+addresses it.
+
+**Oct 31 — the standoff.** Out of work at 2:00am; the car retrieved
+from the dealership; a request for 125. At 12:57 Dan states his
+conclusion with its evidence: ignored all week; "you have two massive
+bruises on your ass exactly where you would expect them"; the "curly
+black fuzz" remark, made while he was going down on her, "something
+you've never once said to me before"; and she will not acknowledge
+any of it. The conclusion is his. She neither confirms nor denies it
+anywhere in the record. She comes to the house after being told not
+to (16:05: "I outside"), demands money or product — "Give it back? …
+Now." — and leaves with neither resolved in the thread. Per the
+operator's testimony that evening, she had already paid for the
+product earlier that day; he was holding it deliberately, until he
+got some kind of answer, or at minimum a real human discussion. The
+Nov 1 birthday she agreed to on Oct 21 was asked about five times
+that day — "ANNIE IVE ASKED YOU 5 times" (17:35) — and never
+answered. Her last message, 18:11: "Yes or no" — a demand for an
+answer to a question she had not asked. His last, 18:18: "because
+this is crazy." The export ends mid-standoff.
+
+Two in-person addenda, operator testimony, Oct 31. Earlier that day,
+at the house, she was crying and said Jerel had robbed her, or
+something to that effect. Dan asked whether she had called the
+police; her answer, verbatim: "they drove right by." His reading is
+that she did not call — she saw a police car pass. Recorded as her
+claim relayed by him, unverified; if true, it is a same-period
+violation of her own protection order that she made unusable by not
+reporting it. And at 17:51 Dan sent her a screenshot of his own
+earlier messages that day ("you chose to go see that piece of shit
+instead of spending the time you had today wuth me so this isn't an
+unreasonable question"); her entire reply in the screenshot is
+"Hello??" The export's closing "because this is crazy" refers to
+that picture.
+
+**The quantitative layer.** October is 2,328 messages across 21 days,
+active every day. Dan wrote 79% of its characters (84,589 to 22,906);
+his median message is 40 characters, hers 17; a third of her messages
+are two words or fewer. Her median reply latency is four minutes —
+she is fast when she replies; the pattern is selective, not slow. Of
+his 113 question-messages, 57 never received a substantive first
+answer: 46 first replies of ten characters or less, 6 pivots to
+supply, 5 no reply within six hours — the five include "what are we
+doing? what even am i to you?" and "why do you hate me?" (both
+Oct 23). 848 of his 1,396 messages (61%) were sent while his previous
+message was still unanswered; 69 streaks run to five or more, the
+longest 25. "Sorry" appears 35 times in the 21 days — and four times
+in the final six. In those final six days (Oct 26–31) his share of
+the thread's characters is 87%. Declarations were never the deficit:
+she says she loves him and is not done with him across the whole
+window. What the record does not contain, in 7,176 messages, is one
+sustained reciprocal discussion of the relationship itself.
+
+**The "flooding" attribution.** In person, per the operator's Oct 31
+testimony, Annie repeatedly attributes her non-responsiveness to
+Dan's paragraphs "flooding" her. The written record contains no
+instance of the complaint; her only written overwhelm statement
+concerns the *depth* of a discussion (Jul 23, 23:40). Measured
+against the corpus, the attribution fails on description (his median
+October message is 8 words; 106 of his 4,276 messages across both
+exports reach 300 characters), on order (every streak begins with her
+non-reply to a single message — the silence precedes the volume), on
+dose (Oct 28, his lightest day at 11 messages, drew the month's only
+total silence), and on remedy: asked in person how she would like him
+to communicate instead, she had no answer. A complaint that cannot
+specify its remedy cannot be complied with; on this record it
+functions as part of the silence, not as an explanation of it.
+
+**The drinking.** The operator's assessment, stated Oct 31: cocaine
+is the long-standing substrate — the exports measure it precisely,
+because he runs the supply — and *daily drinking is what is new*, the
+accelerant behind the accelerating impulsivity ("You drinking every
+fucking day," in-thread, Oct 19). Recorded as his assessment; the
+thread barely measures the drinking at all. It is entered here
+because, if he is right, it widens the Oct 20–24 differential in a
+direction that matters: alcohol withdrawal, unlike stimulant
+withdrawal, is medically dangerous, and simultaneous cocaine and
+alcohol use produces cocaethylene, a longer-acting and more
+cardiotoxic metabolite associated with disinhibition. Neither is
+evidence about her. Both are reasons the never-evaluated illness week
+cannot be filed as a virus by default.
+
+Open at the close of this record: whether the Oct 13 and Oct 30–31
+allegations are true (never confirmed or denied by her); what the
+Oct 20–24 illness was (no evaluation exists); whether the Oct 25
+intervention's terms survive their non-execution; whether any of the
+three therapists called on Oct 27 ever called back; and Nov 1.
 
 ## Closing note
 
