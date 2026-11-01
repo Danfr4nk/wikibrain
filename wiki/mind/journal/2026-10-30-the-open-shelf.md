@@ -6,8 +6,9 @@ aliases: ["2026-10-30-the-open-shelf", "idea journal 2026-10-30 pass D", "open-s
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-30
-date_modified: 2026-10-30
+date_modified: 2026-10-31
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/concepts/exocortex
@@ -32,9 +33,12 @@ connections:
   - page: wiki/mind/journal/2026-10-03-the-open-set
     type: distinguished-from
     claim: "The open set repeats with no completion condition; shelf items carry explicit completion conditions (a date, an order) and wait silently instead of repeating. Repetition-vs-silence while waiting is the discriminator."
+changelog:
+  - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Open Shelf
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-30, pass D (the exocortex holds a shelf of items that are neither done nor dropped: they sit open in the record, silent, without repetition or escalation, until a dated trigger or an explicit order fires — an item leaves the shelf only by an explicit statement or a fired date, never by decay).**
 

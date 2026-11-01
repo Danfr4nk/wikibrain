@@ -6,8 +6,9 @@ aliases: ["2026-10-29-the-sound-is-built-first", "idea journal 2026-10-29 pass B
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-29
-date_modified: 2026-10-29
+date_modified: 2026-10-31
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/concepts/lyric-qualifier
@@ -38,9 +39,12 @@ connections:
   - page: wiki/mind/journal/2026-10-27-the-seesaw-travels-with-the-sound
     type: distinguishes
     claim: "The Seesaw entry prices a harmonic pattern traveling with sound rather than name. This entry prices no harmonic pattern — it prices build order across the whole production practice."
+changelog:
+  - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Sound Is Built First
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-29, pass B (in his own music production, the build order runs sound-first: a track is complete-able without any lyric meaning, and voice enters only as a production element — texture, chop, drop — fitted into an already-standing structure, never as the lyric seed the track is built around).**
 

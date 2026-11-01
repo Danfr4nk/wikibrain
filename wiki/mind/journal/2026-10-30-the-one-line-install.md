@@ -6,8 +6,9 @@ aliases: ["2026-10-30-the-one-line-install", "idea journal 2026-10-30 pass C", "
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-30
-date_modified: 2026-10-30
+date_modified: 2026-10-31
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - ~/memory/2026-09-28.md
@@ -33,9 +34,12 @@ connections:
   - page: wiki/mind/journal/2026-10-28-the-delivery-closes-it
     type: bounded-against
     claim: "That entry is about conclusions needing delivery to close; this entry is about installs that arrive already delivered, in one explicit statement. Cited, not re-derived."
+changelog:
+  - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The One-Line Install
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-30, pass C (in Dan's most concentrated channel, a rule-change arrives as a single explicit statement, and the statement itself is the whole act — no argument, no follow-up delivery, no second step — because the channel's concentration and the explicit-statement architecture together make issuance the execution).**
 

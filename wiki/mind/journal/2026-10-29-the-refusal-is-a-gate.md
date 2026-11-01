@@ -6,8 +6,9 @@ aliases: ["2026-10-29-the-refusal-is-a-gate", "idea journal 2026-10-29 pass C", 
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-29
-date_modified: 2026-10-29
+date_modified: 2026-10-31
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/concepts/explicit-verbal-commitment
@@ -25,9 +26,12 @@ connections:
   - page: wiki/mind/concepts/explicit-verbal-commitment
     type: instantiates
     claim: "A refusal installs the same way a bond rule installs: by explicit statement, and it revokes only by explicit counter-statement — never by thinning."
+changelog:
+  - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Refusal Is a Gate
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-29, pass C (a refusal issued by Dan takes exactly one form: a single explicit binary statement that installs a channel or behavior state — "never," "would never … ever," a named kill — with no graded version at issuance, no partial-compliance phase, and no negotiation ladder afterward; later movement, when it occurs, is a whole replacement — a new explicit statement flipping the gate, or the same statement restated — never a thinning of the refusal).**
 

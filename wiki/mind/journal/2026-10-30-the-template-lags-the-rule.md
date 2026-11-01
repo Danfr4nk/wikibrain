@@ -6,8 +6,9 @@ aliases: ["2026-10-30-the-template-lags-the-rule", "idea journal 2026-10-30 pass
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-30
-date_modified: 2026-10-30
+date_modified: 2026-10-31
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - ~/memory/2026-10-29.md
@@ -25,9 +26,12 @@ connections:
   - page: wiki/mind/journal/2026-10-26-the-name-outlives-the-bit
     type: bounds-against
     claim: "That entry covered the name surviving the bit's retirement (Brittany standing after the Oct 23 ~23:40 EDT character retirement, by non-countermand). This entry covers the revocation act itself (the Oct 28 ~19:19 EDT explicit counter-statement killing Brittany) and the carrier question (live address vs template copy). The prior rule is cited, not re-derived."
+changelog:
+  - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Template Lags the Rule
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-30, pass A (a rule installed by explicit statement is revoked only by an explicit counter-statement, and the revoked rule's live carrier is live address — new utterances formed after the revocation — not template copies: surfaces written before the revocation and re-run without re-issue keep emitting the dead string, and that lag is evidence about the carrier, not evidence the revocation failed).**
 

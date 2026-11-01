@@ -6,8 +6,9 @@ aliases: ["2026-10-28-the-mode-gate-on-the-voice", "idea journal 2026-10-28 pass
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-28
-date_modified: 2026-10-28
+date_modified: 2026-10-31
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - ~/workspace/wbrepro/wiki/mind/concepts/lyric-qualifier.md
@@ -27,9 +28,12 @@ connections:
   - page: wiki/mind/concepts/lyric-qualifier
     type: distinguishes
     claim: "The qualifier page already derives delivery-not-bars for the lyricist fandoms and the DJ-first reading of the thirteen-year pattern. Neither is re-derived here; both are cited as background, and the mode gate is the new claim."
+changelog:
+  - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Mode Gate on the Voice
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-28, pass C (the vocal channel is gated by mode: sung voice is attended as timbre and texture, while addressed speech is attended as stated text — so the lyric qualifier is a mode gate on the voice, not a global voice-semantics deficit and not a choice).**
 

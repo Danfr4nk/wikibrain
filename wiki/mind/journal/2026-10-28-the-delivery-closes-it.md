@@ -6,8 +6,9 @@ aliases: ["2026-10-28-the-delivery-closes-it", "idea journal 2026-10-28 pass B",
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-28
-date_modified: 2026-10-28
+date_modified: 2026-10-31
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/concepts/attachment-model
@@ -34,9 +35,12 @@ connections:
   - page: wiki/mind/concepts/forensic-method
     type: component-of
     claim: "The forensic method's terminal step is delivery. A forensic method with no distribution step would be a diary; Dan's has one, and it is the only part of the method that touches other people."
+changelog:
+  - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Delivery Closes It
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-28, pass B (a verdict or conclusion is not finished when it is reached; it is finished when it is delivered to its subject or confirmed by an external terminating statement in the processable format — privately held conclusions stay open, and get re-delivered, re-argued, or re-audited until that external event arrives).**
 

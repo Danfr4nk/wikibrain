@@ -6,8 +6,9 @@ aliases: ["2026-10-29-the-gate-is-the-loop", "idea journal 2026-10-29 pass D", "
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-29
-date_modified: 2026-10-29
+date_modified: 2026-10-31
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/concepts/exocortex
@@ -31,9 +32,12 @@ connections:
   - page: wiki/mind/concepts/explicit-verbal-commitment
     type: component-of
     claim: "Row 6's install-by-explicit-statement architecture supplies the installation half of the closure variable: a gate closes only where its issuer holds the grant for that field."
+changelog:
+  - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Only the Gate Closes the Loop
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-29, pass D (a built system's output changes a subsequent decision if and only if it arrives as a binary gate verdict AND the verdict's issuer holds the grant for that field; measurement-form outputs accumulate append-only no matter how precise they are, and verdict-shaped outputs that were never installed as the decider change nothing either).**
 

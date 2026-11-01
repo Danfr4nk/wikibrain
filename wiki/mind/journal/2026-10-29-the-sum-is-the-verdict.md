@@ -6,8 +6,9 @@ aliases: ["2026-10-29-the-sum-is-the-verdict", "idea journal 2026-10-29 pass A",
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-10-29
-date_modified: 2026-10-29
+date_modified: 2026-10-31
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/synthesis/provision-grammar
@@ -32,9 +33,12 @@ connections:
   - page: wiki/work/bfs-foods
     type: instantiates
     claim: "The BFS $50 drawer demand is this entry's demand leg: a stated sum that produced no partial payment and no negotiated settlement, with the job channel closing at the demand. Gate-check note 2026-10-29: the leg as first drafted used the superseded 'refused whole' shape; the BFS page's 2026-08-26 correction (Dan's own words: 'i didn't refuse to pay it') removes the refusal, and this leg is corrected to the corrected sequence below."
+changelog:
+  - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Sum Is the Verdict
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-10-29, pass A (a stated sum functions as a binary gate, not a price: exact payment passes, a shortfall or a demand fails, and no leg in the record shows a graded middle — no partial settlement accepted as partial satisfaction, no sum haggled to a middle figure that then holds).**
 
