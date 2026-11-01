@@ -6,7 +6,7 @@ aliases: ["idea journal", "the journal"]
 status: active
 layer: interpreted/index
 date_created: 2026-10-03
-date_modified: 2026-10-31
+date_modified: 2026-11-01
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -1164,3 +1164,45 @@ cannot show its stages has not been cross-checked.
   Stage 3 on the August 26 discriminator and preserved in Genesis;
   bounded against the audit and gap-filing theses, cited not
   re-derived.
+
+### 2026-11-01
+
+- [[wiki/mind/journal/2026-11-01-the-deadline-does-not-decide|Entry 1 —
+  The Deadline Does Not Decide]]: a stated deadline does not produce a
+  stated decision — a decision arrives only as an explicit statement, or
+  not at all, and a passed deadline leaves the channel flat rather than
+  escalated (Cogar RSVP by Oct 31 passed undecided; the Nov 1 birthday
+  pick arrived unmade). Rows 5/6/1/19. PASS — high confidence, scoped
+  to dated administrative/decision items; 0 restarts, 1 Stage-2 framing
+  struck and preserved in Genesis; Wispr Nov 2–4 window held as the
+  live test, not evidence.
+- [[wiki/mind/journal/2026-11-01-the-exception-proves-the-timbre-rule|Entry 2 —
+  The Exception Proves the Timbre Rule]]: a sung lyric registers as a
+  message only when it restates an already-installed attention pattern,
+  recognized after timbre-first selection — so the exception confirms
+  rather than breaks the timbre rule ("Addicted To You" crowned Oct 11
+  for sound, its lyrics recognized afterward via transcription as the
+  exit/return loop). Rows 18/5/19/23. PASS — high confidence at stated
+  bounds; 1 restart, the lyric-quality breakthrough thesis killed at
+  Stage 3 and preserved in Genesis; class size flagged approximate
+  testimony, not load-bearing.
+- [[wiki/mind/journal/2026-11-01-the-flood-complaint-is-not-a-counter-rule|Entry 3 —
+  The Flood Complaint Is Not a Counter-Rule]]: a recipient naming his
+  output volume ("your paragraphs flood me") is an attempted
+  counter-rule that fails twice over — it carries no operative content
+  (no mode ever named, Oct 31 remedy test) and it is not a severance
+  statement, so the last stated rule keeps running and output
+  continues at the established pattern. Rows 5/6/19/37/23/36. PASS —
+  high confidence; both Stage 3 discriminators favor the thesis on
+  held October audit counts (median 8 words; silence precedes length);
+  post-Oct 31 window flagged as the open check.
+- [[wiki/mind/journal/2026-11-01-the-single-channel-is-the-endgame|Entry 4 —
+  The Single Channel Is the Endgame]]: at replicated Gini 0.961
+  concentration, the architecture's endpoint is not more channels but
+  one gatekeeper channel — his stated Nov 1 routing rule (all
+  communication through Sammy) is the concentration row stated as a
+  future, not a distributed social future. Rows 11/46/13/6/19. PASS —
+  high confidence; both Stage 3 rivals beaten on their
+  discriminators; 0 restarts; cited strictly as a stated
+  communication-routing rule, no interior claim.
+
