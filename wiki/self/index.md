@@ -3,17 +3,20 @@ domain: self
 page_type: index
 tier: incidental
 status: stable
+layer: interpreted/index
 date_created: 2026-07-11
-date_modified: 2026-10-15
+date_modified: 2026-11-02
 sources: []
 related: []
 changelog:
+  - "2026-11-02: Declared framework-v2 layer interpreted/index (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep. First Wonder engine run."
   - "2026-10-15: Classified incidental (complete at this size)"
 ---
 
 > **Incidental entry** — index hub: the self domain's navigation page. Complete at this size.
 
 # self — index
+_Layer: interpreted/index — the documented person. The interpreted person lives in [[wiki/mind/index|mind/]]; that domain reasons over this domain's exhibits and cites them rather than restating them._
 
 The self domain contains files and data detailing identity, core biographical facts, and the digital footprint of Dan Frank.
 

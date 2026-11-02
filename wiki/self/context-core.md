@@ -6,8 +6,9 @@ aliases: ["spine", "behavioral spine", "CONTEXT_CORE_EXPANDED"]
 status: stable
 importance: critical
 tier: major
+layer: interpreted/synthesis
 date_created: 2026-06-22
-date_modified: 2026-10-07
+date_modified: 2026-11-02
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -77,6 +78,8 @@ related:
   - wiki/self/message-corpora/master-message-dump
   - wiki/self/twitter
 changelog:
+  - date: 2026-11-02
+    change: "2026-11-02: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep. First Wonder engine run."
   - date: 2026-10-07
     note: "Restructured to canonical template v1"
   - date: 2026-07-11
@@ -86,6 +89,7 @@ changelog:
 ---
 
 # Context Core
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Daniel Gillingham Frank ("Dan"), born November 1, 1988, is an independent music producer (GRIPNOTIC alias, active) and AI-consulting/agent-pipeline builder, based in Uniontown, Fayette County, Pennsylvania, with New York City held as a punk identity anchor.
 

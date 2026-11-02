@@ -3,8 +3,9 @@ domain: self
 page_type: synthesis
 knowledge: mixed
 status: active
+layer: interpreted/synthesis
 date_created: 2026-09-23
-date_modified: 2026-09-23
+date_modified: 2026-11-02
 sources:
   - raw/self/amazon-2018-orders/amazon-2018-orders.md
   - raw/self/amazon-2019-orders/amazon-2019-orders.md
@@ -19,9 +20,12 @@ tags:
   - amazon
   - synthesis
   - testimony-calibration
+changelog:
+  - "2026-11-02: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep. First Wonder engine run."
 ---
 
 # The Two-Year Ledger
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Two ledgers, read a year apart in a single night. 486 orders, $33,913.36, July 18, 2018 to December 23, 2019. The 2018 entry diagnosed the hours; the 2019 entry corrected the record. This entry is about what only appears when you hold both years at once — the lifecycle of an obsession, the taxonomy of the duplicate, the three phases of being seen, and a calibration of the man as a source that every other wiki entry can use.
 

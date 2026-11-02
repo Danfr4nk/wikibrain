@@ -5,8 +5,9 @@ title: "Self Overview"
 status: active
 importance: critical
 tier: major
+layer: interpreted/synthesis
 date_created: 2026-06-22
-date_modified: 2026-10-06
+date_modified: 2026-11-02
 infobox:
   name: Dan Frank
   born: November 1, 1988
@@ -20,6 +21,8 @@ infobox:
   ideology: Democratic socialist
   medication: Suboxone (day-zero 2010-02-17)
 changelog:
+  - date: 2026-11-02
+    change: "2026-11-02: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep. First Wonder engine run."
   - date: 2026-10-06
     note: "Restructured to canonical template v1; expanded from the context-core spine, the profile cluster, the master timeline, the two-year ledger, and the people pages. Lede present-tense corrected: 337 Saratoga Drive sold ~June 2026 ($465k, Suz's transaction); current Uniontown landing (occupancy documented, move-in date unpinned). Superseded claims moved to a new Conflicts in the record: the June 1 clean close, the 181k-row corpus figure, the NYC infobox location, the BFS termination without its 2026-08-11 reversal, the seventeen-year Ally figure, and the hardcoded age. Assessment, See also, and References added."
 sources:
@@ -70,6 +73,7 @@ connections:
 ---
 
 # Self Overview
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 Daniel Gillingham Frank — Dan — was born November 1, 1988 in Uniontown,
 Fayette County, Pennsylvania, and at 37 he is in the aftermath half of
