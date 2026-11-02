@@ -3,9 +3,11 @@ domain: self
 page_type: index
 tier: incidental
 status: active
+layer: interpreted/index
 date_created: 2026-07-25
-date_modified: 2026-10-14
+date_modified: 2026-11-02
 changelog:
+  - "2026-11-02: Declared framework-v2 layer interpreted/index (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep. First Wonder engine run."
   - "2026-10-14: Classified incidental (complete at this size)"
 sources: []
 tags: []
@@ -15,6 +17,7 @@ connections: []
 > **Incidental entry** — index hub: the lineage section's navigation page — documentary ancestry, 23andMe genomics, and the hybrid analysis, all linked. Complete at this size.
 
 # Lineage Index
+_Layer: interpreted/index — the lineage section's navigation page. The documentary and genomic exhibits it points to are cited by the pages that reason over them; this page is navigation, not a conclusion._
 
 This index coordinates files and data detailing the familial and genetic history of Dan Frank, divided into documentary ancestry records and genomic profiles.
 

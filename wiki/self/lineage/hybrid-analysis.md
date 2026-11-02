@@ -5,9 +5,11 @@ title: Hybrid Lineage Analysis
 knowledge: mixed
 status: active
 tier: major
+layer: interpreted/synthesis
 date_created: 2026-07-25
-date_modified: 2026-10-07
+date_modified: 2026-11-02
 changelog:
+  - "2026-11-02: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep. First Wonder engine run."
   - "2026-10-07: Expanded to major tier; restructured to canonical article template v1; resolved stale frontmatter source paths to the july11-snapshot locations established 2026-10-05."
 sources:
   - raw/july11-snapshot/self/ancestry/dna-reports/Ancestry Composition - 23andMe.pdf
@@ -44,6 +46,7 @@ connections:
 ---
 
 # Hybrid Lineage Analysis
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 This page is where the two halves of Dan Frank's ancestry record are forced to answer to each other. On one side: the 23andMe genomic profile, exported as three PDFs in March 2025, which reads the body as data — 21.4% Ashkenazi Jewish, 78.3% Northwestern European, two anomalous haplogroups, a 95th-percentile Neanderthal variant load. On the other: the Ancestry.com GEDCOM — 515 individuals, 218 families, 90 direct ancestors across seven generations — which reads the paper trail, from a Russian immigrant appearing in Manhattan in 1900 to a West Virginia matrilineal line running Amelia to Susan A. Zearly to Ida Ellen Conwell to Frances "Fran" Coldren. The job here is cross-referencing: where biology and documents agree, where they diverge, and which facts only one of them can see.
 
