@@ -6,8 +6,9 @@ aliases: ["Substack critical reading", "Substack deep analysis", "creepy.substac
 tier: major
 status: stable
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-10-01
-date_modified: 2026-10-01
+date_modified: 2026-11-02
 tags: [substack, writing, rhetoric, prediction-audit, 2024-election, voice-analysis]
 sources:
   - "raw/dan/20261001-substack-creepy/MANIFEST.md — 10-post pull manifest, 2026-10-01"
@@ -22,9 +23,12 @@ sources:
   - "raw/dan/20261001-substack-creepy/2023-06-09-the-horserace-from-hell.md"
   - "raw/dan/20261001-substack-creepy/2023-10-17-brain-worms-in-hell-world.md"
   - "raw/dan/20261001-substack-creepy/2024-11-12-trump-redux.md"
+changelog:
+  - "2026-11-02: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep. First Wonder engine run."
 ---
 
 # Committee to Re-elect the President: a critical reading
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 This is the definitive critical reading of Dan Frank's Substack, *Committee to Re-elect the President* (creepy.substack.com, tagline "Live from Political Hellworld") — all 10 posts, May 2023 to November 2024, read in full, every falsifiable claim checked against what happened. The publication itself is covered at [Committee to Re-elect the President](wiki/self/substack/committee-to-re-elect-the-president.md); this entry is the analysis of the writing: the voice, the argumentative machinery, the ideology, and an honest audit of the predictions — including the one the author retrofitted.
 
