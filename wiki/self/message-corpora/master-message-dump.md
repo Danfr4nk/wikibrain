@@ -3,8 +3,9 @@ domain: self
 page_type: report
 status: archived
 tier: major
+layer: documented/exhibit
 date_created: 2026-06-22
-date_modified: 2026-10-07
+date_modified: 2026-11-02
 sources: ["raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/message-csv/annie_all_time_logs.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/message-csv/MASTER_DUMP_PART_1_ARCHAIC.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/message-csv/imessage_2124702449_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/message-csv/imessage_3307038747.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/message-csv/* (37 total CSVs) — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/facebook/facebook-ihatedanfrank/messages/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/_ⒺⓍⓉⓇⒶⒸⓉ ⓂⒺⓈⓈⒶⒼⒺⓈ Pinned chat.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md", "raw/imessage/manifest.json — authoritative snapshot provenance, 2026-09-08", "raw/imessage/summary.json — living-master totals, 2026-09-23", "raw/imessage/threads.csv — 577-thread accounting, 2026-09 rebuild", "kb/data/0001-corpus-scale.md — 192,140 messages, 577 threads, 498 handles", "kb/data/0002-group-threads.md — 52 group threads, 882 messages", "kb/data/0003-attribution-gap.md — 3,086 messages unattributable to any thread", "kb/data/0004-fragment-exports.md — pre-2026-09-08 per-counterparty fragments", "kb/data/0005-sheet-public.md — backing sheet world-readable", "kb/data/0008-corpus-repullable.md — byte-exact re-download verified 2026-09-09", "kb/data/0035-facebook-fills-the-corpus-gap.md — 17 dark months covered by Facebook", "CORPUS_POLICY.md — two-tier evidence policy, 2026-09-08", "raw/gmail-sms-suz-dan-2010/EXTRACT.md and manifest.json — 317-row 2010 Gmail-SMS backfill", "raw/self/message-csv/aug-sep-2026-imessage-export/EXTRACT.md and manifest.json — 5,905-row Aug–Sep 2026 slice"]
 related: ["wiki/self/context-core", "wiki/self/twitter", "wiki/self/youtube-watch-history", "wiki/self/favorites", "wiki/mind/concepts/forensic-method", "wiki/mind/concepts/contact-gini", "wiki/mind/synthesis/attachment-trauma-bond", "wiki/self/facebook/messages", "wiki/timeline/events/timeline", "wiki/timeline/periods/2015-2016-annie-relationship-start", "wiki/people/annie-ulmer"]
 tags: [digital-footprint, nyc-era, relationships, financial-stress, trauma-bond]
@@ -16,6 +17,8 @@ infobox:
   sent_received: "99,360 sent / 92,780 received"
   known_for: "The wiki's load-bearing evidence layer — every behavioral claim traces to the corpus"
 changelog:
+  - date: 2026-11-02
+    change: "2026-11-02: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep. First Wonder engine run."
   - date: 2026-10-07
     note: "Expanded past the 3,000-word major tier and restructured to canonical template v1; correction blocks consolidated into Conflicts in the record; new sections on the authoritative corpus, the 2010 head, the thread landscape, the fragment era, blind spots, and analytical cuts"
 connections:
@@ -54,6 +57,7 @@ connections:
 <!-- RESTRUCTURED 2026-10-07 — canonical template v1; expanded to major tier; corrections moved to Conflicts in the record -->
 
 # Master Message Corpora (iMessage Dumps)
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion._
 
 The message corpus is the largest single body of evidence in this wiki: the complete text-message record against which every behavioral claim is checked. It holds 192,140 messages across 577 threads and 498 counterparty handles, spanning 2011-03-19 to 2026-09-07 in the authoritative snapshot — 99,360 sent, 92,780 received — with a living master file extending the run from 2010-01-09 at the head to 2026-09-21 at the tail (198,354 messages total as of 2026-09-23).
 

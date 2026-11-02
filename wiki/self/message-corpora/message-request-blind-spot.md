@@ -4,8 +4,9 @@ page_type: synthesis
 title: "The Message-Request Blind Spot"
 status: active
 knowledge: earned
+layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-10-04
+date_modified: 2026-11-02
 sources:
   - src:messenger-2026-09-12
   - src:imessage-corpus-2026
@@ -68,9 +69,12 @@ connections:
     type: extends
     claim: "The message-request blind spot extends the atlas by naming the bound on system-wide severance claims: Kristin's five messages sat seventeen days in an unexamined message-request folder, so 'no contact' was a fact about pulls, not the world."
     claim: "That page's 08-26 update sequence is the worked case for the declaration-vs-enactment half of the survey below: five dated pages built on an operator report that turned out to describe a non-event, retracted sixteen days later."
+changelog:
+  - "2026-11-02: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep. First Wonder engine run."
 ---
 
 # The Message-Request Blind Spot
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
 
 For most of 2026 the wiki held a clean claim about [[wiki/people/kristin|Kristin Prentiss]]: no contact after December 10, 2025. Eight months of silence, corroborated off-corpus by Dan himself — which made her severance the corpus's cleanest inbound control case. The claim was true of the pulls. It was false of the world. On August 26, 2026 she sent five messages into Dan's Messenger message-request folder, where they sat unopened for seventeen days — surfaced only by the September 12 pull, live in conversation, at 06:39:57 UTC. Within the hour he had texted her himself. The block was opened from the inside, by the person who had been blocked, and the whole sequence — the knock, the pull, the reactive re-entry — ran through a folder the wiki had never looked at **[ATTESTED, dat:1452]**.
 
