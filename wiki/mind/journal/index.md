@@ -6,7 +6,7 @@ aliases: ["idea journal", "the journal"]
 status: active
 layer: interpreted/index
 date_created: 2026-10-03
-date_modified: 2026-11-01
+date_modified: 2026-11-02
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -1206,3 +1206,42 @@ cannot show its stages has not been cross-checked.
   discriminators; 0 restarts; cited strictly as a stated
   communication-routing rule, no interior claim.
 
+
+### 2026-11-02
+
+- [[wiki/mind/journal/2026-11-02-the-new-domain-gets-the-same-engine|Entry 1 —
+  The New Domain Gets the Same Engine]]: in a new domain containing
+  primary records, Dan runs the same forensic engine — the Nov 1
+  Fran-side genealogy rebuild flips counts and dates only on primary
+  adjudication (Donald Elmore Thomas one man not two; Marion's
+  Dec 28, 1878 self-filled draft card) and retains unadjudicated items
+  labeled and withheld from print. Rows 4/12/5/1. PASS — high
+  confidence, scoped to this one rebuild; 0 restarts, 1 Stage-2
+  framing struck and preserved in Genesis.
+- [[wiki/mind/journal/2026-11-02-routing-by-tenancy|Entry 2 — Routing
+  by Tenancy]]: built systems are not one undifferentiated substrate —
+  material is routed by declared jurisdiction, with shared-substrate
+  systems assigned public-routable output only and single-tenant
+  channels carrying the rest; the routing decision itself, made by
+  explicit statement, is the boundary. Rows 10/11/12/5/6/38/15. PASS —
+  high confidence; the content-filter rival beaten on its
+  discriminator (categorical class-wide bar, tenancy reason); 0
+  restarts.
+- [[wiki/mind/journal/2026-11-02-the-ping-keeps-the-channel-loaded|Entry 3 —
+  The Ping Keeps the Channel Loaded]]: a weak-tie channel is maintained
+  not by conversation but by a minimal periodic ping — a fixed small
+  output on a fixed cadence (annual birthday note, $5 birthday Venmo)
+  — that re-loads the channel without loading it, resumable rather
+  than replaced (Ellen's July 26, 2026 full-register reopening is the
+  discriminator). Rows 11/46/13/6/38/23/21. PASS — high confidence at
+  stated bounds; 0 restarts; Jerad carried as a bound (loading
+  without pinging), Bill's post-2020 continuation flagged unheld.
+- [[wiki/mind/journal/2026-11-02-the-tripwire-is-vertical|Entry 4 — The
+  Tripwire Is Vertical]]: a provocative name is a vertical-scope probe
+  — it imports a public-reputation namesake (Milo, Gabe, Max,
+  ihatedanfrank, 2007–2026) into a lateral encounter, and the
+  audience's next output splits on routing (answering the reputation
+  vs answering the entity), not on offense. Rows 5/6/12/1. PASS — high
+  confidence on the mechanism as scoped; 1 restart (the general
+  audience-filter thesis died on duplication with the name synthesis
+  and was replaced, not patched).
