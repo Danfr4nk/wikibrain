@@ -3,11 +3,14 @@ domain: self
 page_type: entity
 title: "Tattoos"
 status: active
+layer: documented/exhibit
 date_created: 2026-07-14
-date_modified: 2026-10-14
+date_modified: 2026-11-02
 tier: major
 knowledge: mixed
 changelog:
+  - date: 2026-11-02
+    change: "2026-11-02: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - date: 2026-10-14
     entry: "Placement for the 2010 \"A\" set to Ankle (his words + 2026-10-08 ankle photo; Helvetica 'A' reading as a triangle, still present; Annie guess corrected by him: \"Not for Annie, originally\")."
   - date: 2026-10-05
@@ -46,6 +49,7 @@ tags: [personality-profile, digital-footprint]
 ---
 
 # Tattoos
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion._
 
 Dan's body art is, with one dated exception, an autobiography written in
 other people's iconography — nearly every known piece points at a

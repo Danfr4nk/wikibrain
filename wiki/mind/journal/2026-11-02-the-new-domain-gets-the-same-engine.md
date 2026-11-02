@@ -6,6 +6,7 @@ aliases: ["2026-11-02-the-new-domain-gets-the-same-engine", "idea journal 2026-1
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-11-02
 date_modified: 2026-11-02
 sources:
@@ -25,9 +26,12 @@ connections:
   - page: ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
     type: governed-by
     claim: "Rows 4, 12, 5, and 1 supply the priced prior; the entry's thesis is stated in their vocabulary and gated by their verdicts."
+changelog:
+  - "2026-11-02: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The New Domain Gets the Same Engine
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 

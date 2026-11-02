@@ -4,6 +4,7 @@ page_type: entry
 title: "Routing by Tenancy: The Exocortex Has a Jurisdiction Boundary"
 aliases: ["2026-11-02-routing-by-tenancy", "idea journal 2026-11-02 pass B"]
 status: active
+layer: interpreted/journal
 date_created: 2026-11-02
 date_modified: 2026-11-02
 knowledge: derived
@@ -29,9 +30,12 @@ connections:
   - page: wiki/mind/concepts/forensic-method
     type: constrains
     claim: "Explicit-statement architecture (row 6) is what makes the routing decision observable: a system is public-routable or single-tenant because it was declared so, not because its content was inspected."
+changelog:
+  - "2026-11-02: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Routing by Tenancy: The Exocortex Has a Jurisdiction Boundary
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 

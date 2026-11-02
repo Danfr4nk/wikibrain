@@ -6,6 +6,7 @@ aliases: ["2026-11-02-the-ping-keeps-the-channel-loaded", "idea journal 2026-11-
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-11-02
 date_modified: 2026-11-02
 sources:
@@ -38,9 +39,12 @@ connections:
   - page: wiki/mind/synthesis/dormancy-not-exit
     type: extends
     claim: "Dormancy-not-exit states the base rate: channels unload, they are not deleted. This entry names one mechanism that services that base rate in weak ties — the periodic ping — and the discriminator that separates a loaded channel from a deleted one."
+changelog:
+  - "2026-11-02: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Ping Keeps the Channel Loaded
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 **Idea Journal — 2026-11-02, pass C (weak-tie channels are maintained not by conversation but by a minimal periodic ping — a fixed small output on a fixed cadence — that re-loads the channel without loading it).**
 

@@ -6,8 +6,9 @@ aliases: ["corpus coverage map", "channel-coverage-gaps", "message-corpus-covera
 tier: major
 status: active
 knowledge: earned
+layer: documented/exhibit
 date_created: 2026-10-03
-date_modified: 2026-10-04
+date_modified: 2026-11-02
 sources:
   - kb/sources/imessage-corpus-2026.md
   - kb/sources/imessage-complete-dump-2025-08-11.md
@@ -62,11 +63,14 @@ connections:
 tags: [corpus, coverage, method, forensic-analysis, negative-data]
 importance: 5
 changelog:
+  - date: 2026-11-02
+    change: "2026-11-02: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - 2026-10-03: Restructured to canonical template v1; new page from _gap-candidates-dose-curve.md candidate 4 and kb/sources inventory
   - 2026-10-04: Merged wiki/self/corpus/channel-coverage-gaps into this page as a union (the two pages were parallel treatments of the same corpus-coverage reference); the per-year complete log, the coverage grid, the worked cases, the falsifiers, the open-gaps list and the five-point absence checklist folded in. channel-coverage-gaps is now a superseded pointer to this page.
 ---
 
 # Message Corpus Coverage Map
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion._
 
 Every "absence" claim in this wiki — that a message was never sent, a quote was never written, a period was quiet, a person was not around — is a claim about what a corpus could have observed. This page is the dated inventory against which those claims can be checked: which channels cover which years, where the holes are, how stale each export is, and what kind of absence each hole can and cannot support.
 

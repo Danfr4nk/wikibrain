@@ -3,8 +3,9 @@ domain: self
 page_type: report
 knowledge: mixed
 status: active
+layer: documented/exhibit
 date_created: 2026-07-25
-date_modified: 2026-10-04
+date_modified: 2026-11-02
 sources: ["raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/ancestry/extracted/ — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 tags: [family]
 connections:
@@ -26,9 +27,12 @@ connections:
   - page: wiki/self/lineage/hybrid-analysis
     type: evidenced-by
     claim: "This page's 515-individual GEDCOM is the documentary stream that the hybrid analysis cross-references against the 23andMe genomic data."
+changelog:
+  - "2026-11-02: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Family Tree
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion._
 
 The documentary genealogical record of Dan Frank's ancestry, derived from an Ancestry.com GEDCOM file containing 515 individuals and 218 families, establishes a deep regional concentration in Fayette County, Pennsylvania, and traces a dual heritage: maternal Appalachian roots and a paternal Eastern European Jewish immigrant lineage. Parsed across 7 generations, the GEDCOM identifies 90 direct ancestors and 16 European-born forebears, with documented birth/death/residence events spanning from the late 1700s to the present.
 

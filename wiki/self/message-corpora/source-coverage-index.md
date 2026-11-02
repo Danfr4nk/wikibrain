@@ -4,9 +4,12 @@ page_type: report
 status: closed
 knowledge: derived
 tier: major
+layer: documented/exhibit
 date_created: 2026-08-14
-date_modified: 2026-10-07
+date_modified: 2026-11-02
 changelog:
+  - date: 2026-11-02
+    change: "2026-11-02: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - date: 2026-10-07
     note: "Restructured to canonical template v1; expanded to major tier with held-corpus sync-gap material, read-receipt-forensics corroboration, and Conflicts in the record."
 sources:
@@ -41,6 +44,7 @@ infobox:
 ---
 
 # Source Coverage Index
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion._
 
 The message archive behind this wiki is not one corpus. It is 52 separate
 exports of one life — some overlapping, some silently broken, each claiming a

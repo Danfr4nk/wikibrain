@@ -2,8 +2,9 @@
 domain: self
 page_type: synthesis
 status: archived
+layer: documented/exhibit
 date_created: 2026-06-22
-date_modified: 2026-09-27
+date_modified: 2026-11-02
 sources:
   - "raw/self/favorites/FAVS MASTERLIST.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - raw/sammy/20260911-2113/PLAYLIST_ANALYSIS.md
@@ -45,9 +46,12 @@ related:
   - wiki/mind/synthesis/closing-the-set
   - wiki/mind/profile/big-five-psychometrics
 tags: [music-production, politics, forensic-analysis]
+changelog:
+  - "2026-11-02: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Favorites Masterlist (Legacy)
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion._
 
 **Note:** Favorites now have a dedicated top-level category at
 [[wiki/interests/favorites/index]]. This page is the original 2026-06-22

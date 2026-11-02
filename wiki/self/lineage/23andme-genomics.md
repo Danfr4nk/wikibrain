@@ -5,9 +5,11 @@ title: 23andMe Genomics
 knowledge: mixed
 status: active
 tier: major
+layer: documented/exhibit
 date_created: 2026-07-25
-date_modified: 2026-10-18
+date_modified: 2026-11-02
 changelog:
+  - "2026-11-02: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-05: Restructured to canonical article template v1; tier set to major; source references resolved to current corpus paths."
   - "2026-10-18: Raw genotype file (v5 chip, Dec 2024) ingested — mtDNA R0 refined to HV(xH,V), Y-DNA R1a1a corroborated via derived M198/M512, trait spot-checks added."
 infobox:
@@ -43,6 +45,7 @@ connections:
 ---
 
 # 23andMe Genomics
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion._
 
 Dan Frank's 23andMe genomic profile is the biological half of his ancestry record. In March 2025 he exported three PDFs from the service — Ancestry Composition, Chromosome Painting, and the Health Report, the last of which the service had updated in October 2024 — and the wiki has carried a full extraction of them ever since. The numbers tell the same two-line story the paper trail tells: on the paternal side, a 21.4% Ashkenazi Jewish signal from the Frank family's Russian and Austrian Jewish immigration; on the maternal side, 78.3% Northwestern European from the deep Appalachian and Pennsylvania settler lines. The genetics confirmed independently what the GEDCOM record in [[wiki/self/lineage/family-tree]] already showed.
 

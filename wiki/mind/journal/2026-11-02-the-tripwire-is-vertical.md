@@ -9,6 +9,7 @@ aliases:
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-11-02
 date_modified: 2026-11-02
 sources:
@@ -38,6 +39,8 @@ connections:
   - page: wiki/self/facebook
     type: instantiates
     claim: "ihatedanfrank, registered 2007-01-09 and carried across Facebook and Instagram, is the self-directed case: the loaded name pointed at himself since he was eighteen."
+changelog:
+  - "2026-11-02: Declared framework-v2 layer interpreted/journal (frontmatter `layer:`; reader-visible _Layer: line already present from the journal pass)."
 ---
 
 # The Tripwire Is Vertical: Loaded Names Import a Reputation and Watch Which Channel Answers

@@ -3,8 +3,9 @@ domain: self
 page_type: report
 knowledge: mixed
 status: active
+layer: documented/exhibit
 date_created: 2026-06-23
-date_modified: 2026-10-18
+date_modified: 2026-11-02
 sources:
   - raw/self/ancestry/23andme-ancestry-family-tree-20260623.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/ancestry/dna-reports/Ancestry Composition - 23andMe.pdf — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -46,9 +47,12 @@ connections:
   - page: wiki/self/lineage/hybrid-analysis
     type: contains
     claim: "The hybrid analysis holds this page's evidentiary workings, and flags where the reading crosses from corroborated fact into interpretive frame."
+changelog:
+  - "2026-11-02: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Ancestry (Hub)
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion._
 
 Dan Frank's ancestry is a multi-generational blend of Eastern European Jewish (Frank/Harris line from Russia and Austria), Anglo-American Protestant (Gillingham/Lewellen/Van Voorhis), and Appalachian-rooted families centered in southwestern Pennsylvania (Uniontown, Brownsville, Hopwood) and Pittsburgh. Several lines trace back to early 20th-century immigrants — notably David J. Frank from Russia and Sadie Harris from Austria — while others reflect long-standing Pennsylvania residents and professionals (e.g., Dr. George Dale Gillingham, DDS).
 

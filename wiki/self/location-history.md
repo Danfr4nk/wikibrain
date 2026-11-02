@@ -3,8 +3,9 @@ domain: self
 page_type: synthesis
 tier: major
 status: archived
+layer: documented/exhibit
 date_created: 2026-06-22
-date_modified: 2026-10-07
+date_modified: 2026-11-02
 sources: ["raw/twitter/archive.jsonl", "raw/self/location/2026-06-22-ingest/Location History (Timeline)-20260622T225253Z-3-001.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/location/2026-06-22-ingest/Location History (Timeline)/semantic_location.db", "raw/location/Records.json", "raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/drive-sweep/20260911/takeout-index/google-data-export-index-20260623.html"]
 synthesizes:
   - wiki/self/context-core
@@ -54,11 +55,14 @@ connections:
     type: evidenced-by
     claim: "Closes the far end of the address-level blind window: 'Au revoir Pennsylvania. Adiós Trump country.' (2019-03-03) is the only dated departure from Fayette County in the archive, and by October the state is a weekend destination rather than a home."
 changelog:
+  - date: 2026-11-02
+    change: "2026-11-02: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - date: 2026-10-07
     entry: Expanded to major tier; restructured to canonical article template v1 (story-first lede, Conflicts in the record section, Assessment, See also + References).
 ---
 
 # Location History (Google Timeline)
+_Layer: documented/exhibit — the underlying data, cited never narrated. The mind/ interpretation pages reason over it; it is not itself a conclusion._
 
 This is the sensor record of where Dan actually went: eleven years of Google Timeline pings, 2014 to 2024, 121,733 raw points and 6,227 place visits, the largest single instrument in the corpus for his physical life. Where the wiki says he lived — the Uniontown family houses, the south Williamsburg block in 2010, the NYC chapter from 2019 — this is the ground that pins or breaks those claims. It is also a record with hard edges: nothing before April 2014 except fifteen Foursquare check-ins he posted to Twitter, and nothing after May 14, 2024, when the phone went quiet. Inside those edges it caught things testimony never offered — the exact days he left Pennsylvania for New York, the hand-edited labels he later tried to wipe — and outside them the wiki is on other sources.
 
