@@ -5,7 +5,7 @@ title: "BFS Foods (2026): Job, Drawer Dispute, Termination"
 status: closed
 knowledge: mixed
 date_created: 2026-07-13
-date_modified: 2026-08-26
+date_modified: 2026-11-01
 sources:
   - raw/legal/bfs-dispute/BFS_BOOTLOADER_v2.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/legal/bfs-dispute/BFS Anita Quagmire strategy and legal exposure.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -90,6 +90,11 @@ connections:
   - page: wiki/mind/synthesis/instrument-is-subject
     type: instantiates
     claim: "A model catching its own escalating drift across three chained sessions — a chaotic-franchise incompetence read inflating, session by session, into a named-actor orchestrated campaign, with a same-day retaliation shape reconstructed from a fuzzier real sequence — and asking its own operator to re-ground it, is a documented case of the corpus's self-correction mechanism working exactly as intended."
+  - page: wiki/mind/journal/2026-10-31-the-tenure-tracks-the-payload
+    type: evidences
+    claim: "One month against forty-one is the tenure entry's control: no payload documented, tenure measured in weeks — directional only, since an employer-side termination act is also documented."
+changelog:
+  - "2026-11-01: Added Jev-gated backlink edges (engine run 2026-11-01; Jev jev-1.13.0 triage, human full-read gate)."
 ---
 
 # BFS Foods (2026)

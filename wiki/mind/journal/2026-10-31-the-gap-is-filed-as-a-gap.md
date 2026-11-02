@@ -24,7 +24,19 @@ connections:
   - page: wiki/mind/journal/index
     type: filed-in
     claim: "Idea Journal 2026-10-31, pass C. Territory: the forensic engine's second move — where a record cannot be settled or must not be published, the gap itself is filed as a dated, labeled entry ([UNKNOWN], open question, held-out file pending his call) instead of being papered over with a plausible fill."
+  - page: wiki/mind/concepts/forensic-method
+    type: instantiates
+    claim: "The gap-filing move is lossless retention applied to absence: where a record cannot be settled or must not be published, the gap itself is filed as a dated, labeled entry carrying its settling source and closure condition, instead of being papered over — the forensic method's complement case."
+  - page: wiki/mind/synthesis/provision-grammar
+    type: evidenced-by
+    claim: "Leg 1: the provision grammar files the $40's composition as [UNKNOWN] while the break stays attested, and files the $14,000 remainder and PNC loan terms the same way — the filed-gap form instanced, not a one-off shrug."
+  - page: wiki/meta/open-questions
+    type: evidenced-by
+    claim: "Leg 4: the open-questions apparatus inventories its own gaps (49 live contradictions, 951 open gaps, 103 standing predictions at the 2026-09-21 generation) and shrinks only on settlement — the stated shrinkage rule that beats the displacement rival."
 changelog:
+  - "2026-11-01: Added Jev-gated backlink edges (engine run 2026-11-01; Jev jev-1.13.0 triage, human full-read gate)."
+  - "2026-11-01: Added Jev-gated backlink edges (engine run 2026-11-01; Jev jev-1.13.0 triage, human full-read gate)."
+  - "2026-11-01: Added Jev-gated backlink edges (engine run 2026-11-01; Jev jev-1.13.0 triage, human full-read gate)."
   - "2026-11-01: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

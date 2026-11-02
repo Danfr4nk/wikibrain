@@ -24,7 +24,15 @@ connections:
   - page: wiki/mind/journal/index
     type: filed-in
     claim: "Territory: the imperative grammar of attachment — check-ins issued as commands with completion states, never as interpretive questions about the bond."
+  - page: wiki/mind/concepts/attachment-model
+    type: instantiates
+    claim: "The imperative check-in grammar is an attachment-register case: check-ins issued as commands with verifiable completion states, never as interpretive questions about the bond (0x in eleven years of sent text)."
+  - page: wiki/mind/concepts/reassurance-architecture
+    type: instantiates
+    claim: "The imperative grammar is the reassurance loop's observable surface in the verbal register: summons utterances with completion states are the loop's re-firing units, and the entry adopts this page's falsifier unchanged."
 changelog:
+  - "2026-11-01: Added Jev-gated backlink edges (engine run 2026-11-01; Jev jev-1.13.0 triage, human full-read gate)."
+  - "2026-11-01: Added Jev-gated backlink edges (engine run 2026-11-01; Jev jev-1.13.0 triage, human full-read gate)."
   - "2026-11-01: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 _Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._

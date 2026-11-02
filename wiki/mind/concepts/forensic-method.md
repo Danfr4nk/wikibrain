@@ -6,9 +6,10 @@ title: "The Forensic Method"
 aliases: ["forensic analysis", "forensic methodology", "procedural tells", "lossless retention", "anomaly-detection engine"]
 status: active
 date_created: 2026-06-22
-date_modified: 2026-10-23
+date_modified: 2026-11-01
 tier: major
 changelog:
+  - "2026-11-01: Added Jev-gated backlink edges (engine run 2026-11-01; Jev jev-1.13.0 triage, human full-read gate)."
   - "2026-10-23: Book cross-check (Dark Psychology 5-in-1, 2020; phase-2 book-mine): appended a dated note recording the contrast between genre checklist-detection and this page's forensic method (dat:2117), with the standing caution that genre checklists are never to be cited as forensic instruments. No existing text altered."
   - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-handed-mirror (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - "2026-10-06: Expanded to major tier (>=3,000 words); restructured to canonical template v1."
@@ -80,6 +81,9 @@ connections:
   - page: wiki/mind/journal/2026-10-05-the-handed-mirror
     type: evidenced-by
     claim: "The Oct-5 entry's two artifact cases (James PDF 2025-07-11, Leviathan dashboards July 2026) are dated deployments of the method's terminal step — the finished analysis delivered to the person it describes."
+  - page: wiki/mind/journal/2026-10-31-the-gap-is-filed-as-a-gap
+    type: instantiates
+    claim: "The Oct-31 entry gives the method's complement case: filing the gap itself — a dated, labeled [UNKNOWN]/open-question/held-out entry carrying its settling source and closure condition — so retention stays lossless where the record is incomplete."
 ---
 # The Forensic Method
 

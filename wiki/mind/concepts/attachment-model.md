@@ -6,7 +6,7 @@ aliases: ["rule-based attachment", "the no-counter-rule architecture", "attachme
 status: active
 layer: interpreted/concept
 date_created: 2026-06-22
-date_modified: 2026-10-27
+date_modified: 2026-11-01
 tier: major
 sources:
   - raw/self/sage/2026-08-21_220918_which-of-the-people-in-this-wiki-would-be-the-be.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -95,7 +95,11 @@ connections:
     type: parallels
     claim: "Node Locking exports this architecture into Dan's AI work: stated material persists in profile state until explicitly revoked, with no delete operation."
     claim: "The attachment model is the no-delete operation instantiated at bond level: on the bond, severance is declared and reversed, never executed."
+  - page: wiki/mind/journal/2026-10-31-the-imperative-is-the-check-in
+    type: instantiates
+    claim: "The Oct-31 entry is an attachment-model case in the verbal register: the check-in loop's utterances take imperative form because only completion-by-execution is processable."
 changelog:
+  - "2026-11-01: Added Jev-gated backlink edges (engine run 2026-11-01; Jev jev-1.13.0 triage, human full-read gate)."
   - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

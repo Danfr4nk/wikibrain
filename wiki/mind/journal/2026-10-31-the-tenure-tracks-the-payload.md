@@ -28,7 +28,15 @@ connections:
   - page: wiki/mind/synthesis/the-embedded-objective
     type: distinguishes
     claim: "The Embedded Objective argues the payload rule from the employment record in full, including the BFS $50 mechanism and the Nemacolin/Caviar/ARD rows. This entry's object is narrower and differently gated: the Au Za'atar/BFS pair run through the weighted instrument (rows 8, 15, 16, 12) with a sensor-grounded discriminator — the schedule he actually kept and the labels he actually applied — and the BFS $50 mechanism is deliberately not re-derived here; only tenure length and objective-presence are used from that row."
+  - page: wiki/work/au-zaatar
+    type: evidenced-by
+    claim: "The 41-month tenure, the sensor-kept schedule (712 GPS visits, his hours, never closed once), the hand labels (WORK at 112 Mercer St, never at the true workplace), and the shed tear-down as ending trigger are documented on this page."
+  - page: wiki/work/bfs-foods
+    type: evidenced-by
+    claim: "The roughly one-month BFS tenure with no documented objective installed is the entry's control case, bounded as directional only: the ending also involved an employer-side act, so payload-absence accompanies the short tenure without alone causing it."
 changelog:
+  - "2026-11-01: Added Jev-gated backlink edges (engine run 2026-11-01; Jev jev-1.13.0 triage, human full-read gate)."
+  - "2026-11-01: Added Jev-gated backlink edges (engine run 2026-11-01; Jev jev-1.13.0 triage, human full-read gate)."
   - "2026-11-01: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

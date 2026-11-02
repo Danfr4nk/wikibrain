@@ -8,7 +8,7 @@ knowledge: earned
 tier: major
 layer: interpreted/concept
 date_created: 2026-08-04
-date_modified: 2026-10-28
+date_modified: 2026-11-01
 sources:
   - src:imessage-corpus-2026
   - src:old-wiki-export-2026-09-04
@@ -20,6 +20,8 @@ sources:
   - kb/interpretations/attachment-model-129-exits.md
 tags: [relationships, attachment, trauma-bond, trust, consistency, forensic-analysis, personality-profile]
 changelog:
+  - date: 2026-11-01
+    change: "2026-11-01: Added Jev-gated backlink edges (engine run 2026-11-01; Jev jev-1.13.0 triage, human full-read gate)."
   - date: 2026-10-28
     change: "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - 2026-09-09: Dossier-arithmetic figures flagged unre-derived; phrase zeros verified against held corpus (dat:0755); crisis-day table verified (dat:0754)
@@ -51,6 +53,9 @@ connections:
   - page: wiki/mind/synthesis/message-circadian-latency
     type: evidenced-by
     claim: "The latency analysis relocated this page's deficit from response to content: Annie answered faster than Dan in every year measured, so what the verification loop failed to obtain was never a reply — it was enough information in one to close an anomaly."
+  - page: wiki/mind/journal/2026-10-31-the-imperative-is-the-check-in
+    type: instantiates
+    claim: "The Oct-31 entry gives the check-in loop's grammar: summons ('call me,' 'you up') as the loop's re-firing units, with the canonical-question absence holding across the Annie, Kristin, and Tom threads."
 ---
 _Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 

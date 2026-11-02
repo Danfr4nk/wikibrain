@@ -7,7 +7,7 @@ tier: major
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-10-17
+date_modified: 2026-11-01
 sources:
   - raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv
 synthesizes:
@@ -67,7 +67,12 @@ connections:
   - page: wiki/mind/synthesis/provision-failure-modes
     type: cites
     claim: "That entry takes this page's closing list — absence weaponized, evidence decayed, dispute-suspended — and gives each mode its own evidence anatomy, failure condition, and falsifier: the grammar states the rule, the failure modes state how each register stops working. The 1.79–2.49x provision base rate is what makes each failure visible."
+  - page: wiki/mind/journal/2026-10-31-the-gap-is-filed-as-a-gap
+    type: evidences
+    claim: "The Oct-31 gap entry's first evidence leg runs on this page: the $40 break attested with its composition filed [UNKNOWN], showing the filed-gap form across the provision record."
 changelog:
+  - date: 2026-11-01
+    change: "2026-11-01: Added Jev-gated backlink edges (engine run 2026-11-01; Jev jev-1.13.0 triage, human full-read gate)."
   - 2026-10-03: Restructured to canonical template v1
   - "2026-10-17: Declared framework-v2 layer (interpreted/synthesis); added reciprocal cluster-hub edge (provision-failure-modes)."
 ---
