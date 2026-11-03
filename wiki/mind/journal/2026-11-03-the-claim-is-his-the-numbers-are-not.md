@@ -6,6 +6,7 @@ aliases: ["2026-11-03-the-claim-is-his-the-numbers-are-not", "idea journal 2026-
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-11-03
 date_modified: 2026-11-03
 sources:
@@ -22,9 +23,12 @@ connections:
   - page: ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
     type: governed-by
     claim: "Rows 1, 2, 3, 4, and 6 supply the priced prior; the entry's thesis is stated in their vocabulary and gated by their verdicts."
+changelog:
+  - "2026-11-03: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Claim Is His, the Numbers Are Not
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 

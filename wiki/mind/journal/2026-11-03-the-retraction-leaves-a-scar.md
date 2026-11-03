@@ -6,6 +6,7 @@ aliases: ["2026-11-03-the-retraction-leaves-a-scar", "idea journal 2026-11-03 pa
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-11-03
 date_modified: 2026-11-03
 sources:
@@ -22,9 +23,12 @@ connections:
   - page: ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
     type: governed-by
     claim: "Rows 4, 5, 6, and 37 supply the priced prior; the entry's thesis is stated in their vocabulary, faced against the §5 rivals before the evidence verdict, and capped at hypothesis grade because the cluster carries no independent Layer-A count."
+changelog:
+  - "2026-11-03: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Retraction Leaves a Scar
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 

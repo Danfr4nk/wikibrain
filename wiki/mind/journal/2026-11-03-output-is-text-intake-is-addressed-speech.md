@@ -6,6 +6,7 @@ aliases: ["2026-11-03-output-is-text-intake-is-addressed-speech", "idea journal 
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-11-03
 date_modified: 2026-11-03
 sources:
@@ -24,9 +25,12 @@ connections:
   - page: ~/workspace/voice-exoskeleton/tonality-instructions.md
     type: instantiates
     claim: "The tonality system made OFFICIAL v1 on 2026-11-03 is the third of three dated voice-intake commissions in this cluster: a built instrument whose purpose is to make addressed speech legible enough to carry intake."
+changelog:
+  - "2026-11-03: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Output Is Text, Intake Is Addressed Speech
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 

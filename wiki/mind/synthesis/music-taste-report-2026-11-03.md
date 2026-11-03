@@ -32,7 +32,11 @@ connections:
   - page: wiki/mind/synthesis/music-taste-report-2026-10-20
     type: revises
     claim: "Version 3's doorway-track bet closes here: 'Love Is Gonna Save Us' survived versions 3 and 4 and was cut in the cull. The JONCASS bloc question also closes: 0 of 5 bloc tracks survived."
+changelog:
+  - "2026-11-03: Completed framework-v2 layer declaration for interpreted/synthesis: frontmatter `layer:` was already present at creation; added the missing reader-visible _Layer: line; part of the mind/self two-root sweep."
 ---
+_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
+
 
 For nineteen days Bing Bong only grew. Fifty-six tracks by Oct 20, sixty-nine by Oct 23, ninety-seven by the night of Nov 2 — and in all that time exactly three tracks had ever been removed, quietly, somewhere between the Oct 23 export and the Nov 2 one. Then, at about five in the morning on Nov 3, in a single minute of Spotify adds (10:05–10:06 UTC), Dan built a new playlist out of the old one's bones: **"Samantha's Charm Offensive," 31 tracks**, and said what it was in one breath — a revised version of Bing Bong; there were too many skips; he cut out the stuff he didn't want.
 
