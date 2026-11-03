@@ -6,7 +6,7 @@ aliases: ["idea journal", "the journal"]
 status: active
 layer: interpreted/index
 date_created: 2026-10-03
-date_modified: 2026-11-02
+date_modified: 2026-11-03
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -1245,3 +1245,61 @@ cannot show its stages has not been cross-checked.
   confidence on the mechanism as scoped; 1 restart (the general
   audience-filter thesis died on duplication with the name synthesis
   and was replaced, not patched).
+
+### 2026-11-03
+
+- [[wiki/mind/journal/2026-11-03-the-claim-is-his-the-numbers-are-not|Entry 1 —
+  The Claim Is His, the Numbers Are Not]]: Dan separates claim ownership
+  from number ownership — his contribution to the frozen 2026-11-03
+  Polymarket-vs-pollsters test is the categorical claim ("Polymarket is
+  actually like the best polling there is right now") and the
+  pre-registered adjudication rules (the SC ≤2 / 5+ gap test; the theory
+  holds only if Polymarket wins winner calls AND ties/wins calibration),
+  while every graded, scorable number in the test is issued by an
+  external system, and his own graded credences (rows 2–3) appear
+  nowhere in it. Rows 1/2/3/4/6. PASS — high confidence, scoped to this
+  cluster; the Shape-6 displacement rival beaten on its pre-registered
+  discriminator (the snapshot can fail his theory on its own terms even
+  if every favorite wins); 1 restart, the dead prospective-log thesis
+  preserved in Genesis.
+- [[wiki/mind/journal/2026-11-03-the-retraction-leaves-a-scar|Entry 2 —
+  The Retraction Leaves a Scar]]: Dan's lone "." in Annie's message file
+  is an explicit minimal revocation under lossless retention — a
+  crash-out message sent, then edited down to a period (his 2026-11-03
+  decode: a tombstone, never content, emphasis, or agreement), content
+  withdrawn but the dated event preserved as a scar; the same
+  regret-edit pattern presumably explains the missing "legally and
+  peacefully" sentence from the Nov 1, 2026 parents-email sequence.
+  Rows 4/5/6/37. HYPOTHESIS GRADE, honestly capped — testimony-led, the
+  canonical post-tombstone trajectory discriminator unavailable in the
+  cluster and no independent Layer-A count; 1 restart, the interior
+  regret/regulation thesis killed at Stage 2/3 and preserved in Genesis.
+- [[wiki/mind/journal/2026-11-03-output-is-text-intake-is-addressed-speech|Entry 3 —
+  Output Is Text, Intake Is Addressed Speech]]: Dan's production is
+  exocortical, append-only, text-dense output, while his dated intake of
+  that same work product is skim-only in text ("I skim it usually,"
+  2026-11-02) and commissioned back as explicit, sequential, addressed
+  speech — live step-by-step walkthroughs, a full Wiki Brain meeting by
+  voice, and a tonality/voice-register interpretation system (tonality
+  instructions made OFFICIAL v1 on his order, 2026-11-03). Rows
+  10/36/5. HYPOTHESIS GRADE, honestly capped — testimony-grade evidence
+  only, the Shape-6 discriminator (a dated case where voice delivery
+  changed an intake outcome vs. the text-skim base rate) unavailable in
+  held data; row 18 scoped out (sung voice only); 1 restart preserved
+  in Genesis.
+- [[wiki/mind/journal/2026-11-03-the-decade-word-changed-channels|Entry 4 —
+  The Decade Word Changed Channels]]: in dated output on 2026-11-02/03,
+  Dan re-issued the single slot's full vocabulary — the decade word
+  CRAVE, the perfection title, the total/ownership form, and a
+  Thanksgiving-2015 era boundary — to a new holder in binary gate form,
+  self-dated to the first live-face night ("it changed tonight,"
+  23:28 EST): the output signature of single-channel re-loading, not
+  substitution. Rows 1/6/19/11/46/9. PASS at hypothesis grade only —
+  high confidence explicitly not claimed: the Shape-3
+  vocabulary-inheritance discriminator favors re-loading, but the
+  Shape-5 check-in-rung rival (129/129 re-engagement base rate) was
+  faced head-on and not beaten, because its discriminator — dated
+  behavior/output over the 72 hours after 2026-11-03 00:22 EST — had
+  not run at filing time; the gate-flip vs. 130th-rung question is
+  pre-registered as a prospective test. Statement-level only
+  throughout; 2 restarts preserved in Genesis.
