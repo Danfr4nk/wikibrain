@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-31
-date_modified: 2026-11-01
+date_modified: 2026-11-02
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/concepts/forensic-method
@@ -38,7 +38,17 @@ connections:
   - page: wiki/mind/concepts/explicit-verbal-commitment
     type: component-of
     claim: "Row 5's explicit-over-inferred rule supplies the format test: only stated text in the processable format registers, and a timestamp never upgrades an unstated implication into a stated rule."
+  - page: wiki/people/kristin
+    type: evidenced-by
+    claim: "Leg 1 and negative control (a) run on Kristin's record: the Dec 9 terminal sixteen minutes (18:40-18:56 ET, dat:0803) whose ordering the timestamps reverse, and the Sep 1 Messenger capture whose clock witnesses the capture only."
+  - page: wiki/timeline/events/kristin-ends-nov-2025
+    type: evidenced-by
+    claim: "Leg 1's event record: this ending's terminal sequence is the dated sequence whose order the entry adjudicates - escalation as response (18:42 after 18:40), not unprompted pivot; the clock fixes order and bounds, never closure."
+  - page: wiki/mind/synthesis/severance-declarations
+    type: evidenced-by
+    claim: "Leg 4 runs on this synthesis's cadence figures (129 exit episodes, 36-second median, 46-hour maximum - carried as page testimony) against the held-export recount (23-second median): timing, not wording, adjudicates the declarations as check-in rungs rather than exits."
 changelog:
+  - "2026-11-02: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-02 engine wave."
   - "2026-11-01: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

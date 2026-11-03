@@ -10,7 +10,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-11-01
-date_modified: 2026-11-01
+date_modified: 2026-11-02
 sources:
   - "~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md"
   - "~/workspace/your_files/taste-constitution.md"
@@ -36,7 +36,11 @@ connections:
   - page: "taste-constitution"
     type: reference
     claim: "Crowning of 'Addicted To You' and the sound-first crate record ground the ranking claims."
+  - page: wiki/mind/concepts/lyric-qualifier
+    type: extends
+    claim: "The lyric qualifier (instrument row 18) is this entry's rule: sung words process as timbre, not semantics. The entry extends it with the pattern-gated exception class - a lyric registers as a message only when its stated content restates an already-installed explicit attention pattern (rows 19/23), recognized after sound-first selection, never before it."
 changelog:
+  - "2026-11-02: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-02 engine wave."
   - "2026-11-01: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

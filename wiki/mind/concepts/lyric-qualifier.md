@@ -6,8 +6,9 @@ aliases: ["lyric qualifier", "lyrics-as-timbre", "the timbre qualifier", "voice-
 status: active
 layer: interpreted/concept
 date_created: 2026-09-22
-date_modified: 2026-10-28
+date_modified: 2026-11-02
 changelog:
+  - "2026-11-02: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-02 engine wave."
   - "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-placement-verdict (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
 synthesizes:
@@ -45,6 +46,9 @@ connections:
   - page: wiki/mind/journal/2026-10-05-the-placement-verdict
     type: evidences
     claim: "Row 18's sonic-gate measurement — lyrics as timbre, byte-exact held 2026-09-11 — is the mechanism the placement-verdict entry cites behind its criterion gates: placement executes on measurements of the track, never on the content of the utterance."
+  - page: wiki/mind/journal/2026-11-01-the-exception-proves-the-timbre-rule
+    type: evidenced-by
+    claim: "The 2026-11-01 entry 'The Exception Proves the Timbre Rule' is this qualifier's documented exception class: four tracks stating the exit/return loop register as messages only by pattern match after timbre-first selection (transcription effort required), leaving the qualifier intact rather than breached."
 ---
 
 # The Lyric Qualifier
