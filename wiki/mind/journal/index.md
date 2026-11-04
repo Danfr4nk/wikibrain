@@ -6,7 +6,7 @@ aliases: ["idea journal", "the journal"]
 status: active
 layer: interpreted/index
 date_created: 2026-10-03
-date_modified: 2026-11-03
+date_modified: 2026-11-04
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -1303,3 +1303,51 @@ cannot show its stages has not been cross-checked.
   not run at filing time; the gate-flip vs. 130th-rung question is
   pre-registered as a prospective test. Statement-level only
   throughout; 2 restarts preserved in Genesis.
+### 2026-11-04
+
+- [[wiki/mind/journal/2026-11-04-family-attested-is-not-paper-proven|Entry 1 —
+  Family-Attested Is Not Paper-Proven]]: Dan runs two non-merging status
+  tracks for a claim — a paper track set only by primary written record and
+  an attestation track set by a named witness's explicit statement — and
+  Suz's Nov 2, 2026 confirmation upgraded the Eddie Cogar link only on the
+  sayable track ([supported] → [family-confirmed], witness credited, assertive
+  wording), never on the paper track, with the paper-gap sentence traveling
+  attached to the upgraded wording in the party packet. Rows 4/5/1. PASS —
+  high confidence, scoped to the Nov 1–2, 2026 Fran/Cogar rebuild; both
+  single-track collapse rivals beaten on pre-registered discriminators;
+  2 restarts, dead theses preserved in Genesis.
+- [[wiki/mind/journal/2026-11-04-her-no-is-a-gate|Entry 2 —
+  Her No Is a Gate]]: in Dan's delegation architecture, a decider refusal
+  installs as a binary gate within its episode — Dan's terminal output is
+  explicit acceptance or continuation under the refused term, with no graded
+  negotiation — because his own 2026-09-28 carte-blanche grant and
+  2026-10-08 Article 2 subordinate the grant to the decider's freedom.
+  Rows 1/6/11/12. PASS — bounded to within-episode form; cross-episode
+  durability graded HYPOTHESIS GRADE and not claimed (the 2026-11-03
+  re-proposal of the October-held mother boundary and its open repair
+  thread kill any permanence claim; the Shape 5 rival was allowed to win
+  on that timescale); 1 restart, dead permanence thesis preserved in
+  Genesis.
+- [[wiki/mind/journal/2026-11-04-the-error-is-in-the-architecture|Entry 3 —
+  The Error Is in the Architecture]]: when a channel Dan uses errs
+  repeatedly, his error attribution in the operational register goes to
+  architecture — compute budget, interface velocity, and the framing
+  instructions inside the channel, including his own emphasis as a named
+  causal variable — and the correction arrives as an explicit architectural
+  redescription retracting his own prior framing, rather than as a row-1
+  worth verdict on the agent; the person frame survives only as the carrier
+  of play-register sanctions (the Nov 3 penance). Rows 4/5/6/10. PASS —
+  bounded (operational register only, Nov 3–4 cluster); "~10% of the
+  compute" flagged as Dan's testimony, not a measured value; 1 restart,
+  dead unbounded thesis preserved in Genesis.
+- [[wiki/mind/journal/2026-11-04-speed-is-not-a-parameter|Entry 4 —
+  Speed Is Not a Parameter]]: Dan parameterizes delegated wiki-engine work
+  with quantity graded and fenced (floor 10,000 / goal 20,000 lines), worth
+  binary-gated (an addition counts only if substantially more insightful;
+  synthesis outranks padding), and duration instructed (runs run until
+  done) — while speed is explicitly deleted from the set by the Nov 2
+  hurry-up countermand, proven by sub-floor days (Nov 2: 828 gross, missed
+  by 9,172; Nov 3: 920 gross, missed by 9,080) being filed as shortfalls
+  and left unfilled. Rows 1/2/10/16. PASS — high confidence, scoped to
+  Oct 4 – Nov 3, 2026; Shape 6 displacement rival beaten on its
+  discriminator; 1 restart, dead thesis preserved in Genesis.
