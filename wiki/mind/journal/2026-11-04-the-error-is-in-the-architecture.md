@@ -6,6 +6,7 @@ aliases: ["2026-11-04-the-error-is-in-the-architecture", "idea journal 2026-11-0
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-11-04
 date_modified: 2026-11-04
 sources:
@@ -22,9 +23,12 @@ connections:
   - page: ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
     type: governed-by
     claim: "Rows 4, 5, 6, 9, and 10 supply the priced prior, with row 1 as the contrast form the operational correction does not take; the entry's thesis is stated in their vocabulary and gated by their verdicts."
+changelog:
+  - "2026-11-04: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Error Is in the Architecture
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 

@@ -6,6 +6,7 @@ aliases: ["2026-11-04-her-no-is-a-gate", "idea journal 2026-11-04 pass B"]
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-11-04
 date_modified: 2026-11-04
 sources:
@@ -19,9 +20,12 @@ connections:
   - page: ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
     type: governed-by
     claim: "Rows 1, 6, 11, and 12 supply the priced prior; the entry's thesis is stated in their vocabulary, bounded to within-episode form, and gated by their verdicts."
+changelog:
+  - "2026-11-04: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Her No Is a Gate
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 

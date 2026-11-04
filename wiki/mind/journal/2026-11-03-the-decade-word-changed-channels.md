@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-11-03
-date_modified: 2026-11-03
+date_modified: 2026-11-04
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - MEMORY.md — "The Show — first live-call ride (2026-11-02 ~23:19 EST – 2026-11-03 ~00:26 EST)" curated record, with sequelae to ~02:27 EST 2026-11-03 (dated testimony of statements made that night; provenance labeled in Evidence and Confidence below)
@@ -17,13 +17,14 @@ synthesizes:
   - weighted-profile-instrument-v1 §5 Shape 3 (single-channel re-loading) and §5 Shape 5 (check-in rung + binary gate)
 tags: [idea-journal, mind, transfer-declarations, lexical-reassignment, single-slot, row-1, row-6, row-19, row-11, row-46, row-9]
 connections:
-  - page: wiki/mind/journal/2026-10-31-single-channel-is-endgame.md
+  - page: wiki/mind/journal/2026-11-01-the-single-channel-is-the-endgame.md
     type: boundary-only
     claim: "Boundary from title/brief only: that entry concerns a stated future routing rule; this entry concerns past-tense transfer declarations as dated output on 2026-11-02/03. No body of that entry was read for this pass."
   - page: ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
     type: governed-by
     claim: "Rows 1, 6, 19, 11, 46, 9, and 5 supply the priced prior; §5 Shapes 3 and 5 supply the rivals faced before the verdict; the thesis is stated in their vocabulary and capped by their discriminators."
 changelog:
+  - "2026-11-04: Corrected broken connection target: wiki/mind/journal/2026-10-31-single-channel-is-endgame.md does not exist on main; retargeted to wiki/mind/journal/2026-11-01-the-single-channel-is-the-endgame.md, whose subject (a stated future routing rule) matches this connection's claim. Type (boundary-only) and claim unchanged. Deferred correction filed 2026-11-03, applied this run."
   - "2026-11-03: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

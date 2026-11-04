@@ -6,6 +6,7 @@ aliases: ["2026-11-04-speed-is-not-a-parameter", "idea journal 2026-11-04 pass D
 status: active
 knowledge: derived
 importance: high
+layer: interpreted/journal
 date_created: 2026-11-04
 date_modified: 2026-11-04
 sources:
@@ -22,9 +23,12 @@ connections:
   - page: ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
     type: governed-by
     claim: "Rows 1, 2, 10, and 16 supply the priced prior; the entry's thesis is stated in their vocabulary and gated by their verdicts, with row 2 used for fenced-gradation shape only and row 16 carried at leans."
+changelog:
+  - "2026-11-04: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # Speed Is Not a Parameter
+_Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
 
 ## Profile prior (Stage 1)
 
