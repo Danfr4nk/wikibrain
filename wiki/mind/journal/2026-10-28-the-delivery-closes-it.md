@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-28
-date_modified: 2026-10-31
+date_modified: 2026-11-03
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/concepts/attachment-model
@@ -35,7 +35,11 @@ connections:
   - page: wiki/mind/concepts/forensic-method
     type: component-of
     claim: "The forensic method's terminal step is delivery. A forensic method with no distribution step would be a diary; Dan's has one, and it is the only part of the method that touches other people."
+  - page: wiki/mind/concepts/explicit-verbal-commitment
+    type: instantiates
+    claim: "The entry's inbound closure condition is this page's rule in terminating form: a file closes only on an explicit statement in the processable format from the other party - Leg 1's primary-verified zero explicit severance signals in 41,073 messages, his 2026-07-28 format statement (dat:0450), and Leg 2's August 2026 field test, ending with the Oct 4 text asking her to issue the terminating statement herself."
 changelog:
+  - "2026-11-03: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-03 engine wave."
   - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

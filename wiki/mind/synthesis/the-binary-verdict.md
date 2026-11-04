@@ -7,7 +7,7 @@ status: active
 knowledge: earned
 layer: interpreted/synthesis
 date_created: 2026-08-28
-date_modified: 2026-10-25
+date_modified: 2026-11-03
 sources: []
 synthesizes:
   - wiki/mind/synthesis/totality-themes
@@ -95,7 +95,11 @@ connections:
   - page: wiki/mind/journal/2026-10-04-the-one-way-valve
     type: tested-against
     claim: "The One-Way Valve (Idea Journal, 2026-10-04) is this verdict's dated field test: credence grades freely upstream and still exits through the binary gate, with no graded verdict recorded downstream."
+  - page: wiki/mind/journal/2026-10-27-the-scale-that-never-meets-a-scoreboard
+    type: evidences
+    claim: "The 2026-10-27 scale entry's fence leg evidences this synthesis's two-machine claim from the credence side: graded positions appear only on unwitnessed facts, while verdict domains (worth, authenticity, legitimacy) stay binary - the graded instrument and the binary verdict are never confused for each other in the strict count."
 changelog:
+  - "2026-11-03: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-03 engine wave."
   - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

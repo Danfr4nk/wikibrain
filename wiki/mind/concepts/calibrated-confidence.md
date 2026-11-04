@@ -9,7 +9,7 @@ tier: major
 knowledge: earned
 layer: interpreted/concept
 date_created: 2026-08-02
-date_modified: 2026-10-27
+date_modified: 2026-11-03
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/twitter/archive.jsonl
@@ -51,7 +51,11 @@ connections:
   - page: wiki/mind/journal/2026-10-06-anomalies-are-the-jurisdiction
     type: evidenced-by
     claim: "The Oct-6 entry's graded credences — direction stable across three independent scans — are a dated instance of the probabilistic substrate this concept describes."
+  - page: wiki/mind/journal/2026-10-27-the-scale-that-never-meets-a-scoreboard
+    type: evidences
+    claim: "The 2026-10-27 entry 'The Scale That Never Meets a Scoreboard' adjudicates this page's finding on its own re-derived numbers: the graded credences attach almost exclusively to unscorable propositions, the single resolvable instance (2018-08-08, 75%) resolved false, and no migration toward scorable ground followed - the scale as intensity-stamped forensic closure, not a forecasting instrument."
 changelog:
+  - "2026-11-03: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-03 engine wave."
   - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-06-anomalies-are-the-jurisdiction (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - "2026-10-07: expanded to major tier (tier: major) and restructured to canonical article template v1; conflicts from the 2026-08-23 and 2026-09-13 correction passes consolidated into Conflicts in the record."

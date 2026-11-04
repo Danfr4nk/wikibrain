@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-27
-date_modified: 2026-10-31
+date_modified: 2026-11-03
 sources:
   - wiki/mind/concepts/calibrated-confidence
   - wiki/mind/synthesis/the-binary-verdict
@@ -19,7 +19,15 @@ synthesizes:
   - wiki/mind/synthesis/the-binary-verdict
 tags: [idea-journal, calibrated-confidence, binary-verdict, forensic-method, attention-level]
 changelog:
+  - "2026-11-03: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-03 engine wave."
   - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
+connections:
+  - page: wiki/mind/concepts/calibrated-confidence
+    type: evidenced-by
+    claim: "The entry's evidence cluster runs on this page's re-derived counts: the strict 24-vs-2 graded-credence count (~22x with the tapback removed), the target sort (interiors and unwitnessed pasts; exactly one resolvable instance in eleven years, resolved false), and the 1.36x bare-percentage control. The entry adjudicates this page's finding: the scale marks forensic landing-force, not forecast calibration."
+  - page: wiki/mind/synthesis/the-binary-verdict
+    type: evidenced-by
+    claim: "The fence leg runs on this synthesis: all 24 strict graded credences attach to unwitnessed facts, never to a verdict on worth, authenticity, or legitimacy - grading is permitted only where the binary gate does not run. The one dated fence exception (2015-12-10, the '90% thing' about shared time) is logistics, not verdict, and bounds the fence rather than breaching it."
 ---
 
 # The Scale That Never Meets a Scoreboard
