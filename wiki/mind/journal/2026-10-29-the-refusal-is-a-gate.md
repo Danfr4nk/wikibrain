@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-29
-date_modified: 2026-10-31
+date_modified: 2026-11-04
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/concepts/explicit-verbal-commitment
@@ -26,7 +26,11 @@ connections:
   - page: wiki/mind/concepts/explicit-verbal-commitment
     type: instantiates
     claim: "A refusal installs the same way a bond rule installs: by explicit statement, and it revokes only by explicit counter-statement — never by thinning."
+  - page: wiki/mind/synthesis/severance-language-atlas
+    type: evidenced-by
+    claim: "Leg 2 runs on this atlas's adjudicated specimen: the 2018-06-20 general resolution 'I will never again date a girl that drinks' [ATTESTED], which the atlas reads as the refusal vocabulary with the dyad removed. With no counterparty to bargain with, the maximal binary form survives - the leg that kills the bargaining-posture reading of his refusals."
 changelog:
+  - "2026-11-04: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-04 engine wave."
   - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

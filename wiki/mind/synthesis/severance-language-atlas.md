@@ -7,7 +7,7 @@ aliases: ["severance-language atlas", "declaration grammar", "the atlas", "per-h
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-10-17
+date_modified: 2026-11-04
 sources:
   - src:wikitest-corpus-messages-2026-09-08 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - kb/data/1292-block-unblock-loop-severance-recount-129-128.md
@@ -82,7 +82,11 @@ connections:
     type: parallels
     claim: "The Transfer Comparative runs that grammar as a controlled comparison: the same transfer template in 2015 and 2026, completed once and failed once."
   - { target: "[[wiki/mind/synthesis/witness-channel-declarations]]", type: contextualizes, claim: "The atlas's Ally-channel 'blocked her' rows are the language evidence the witness-channel entry's claim-by-claim anatomy is built from: declarations about a toggle that was never thrown." }
+  - page: wiki/mind/journal/2026-10-29-the-refusal-is-a-gate
+    type: evidences
+    claim: "The 2026-10-29 entry 'The Refusal Is a Gate' builds its Leg 2 on this atlas's adjudicated 2018-06-20 specimen - the general resolution 'I will never again date a girl that drinks' - reading it as the refusal grammar with the dyad removed: the binary form with no counterparty, which proves the form is vocabulary, not a bargaining posture."
 changelog:
+  - "2026-11-04: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-04 engine wave."
   - "2026-10-17: Declared framework-v2 layer (interpreted/synthesis)."
 ---
 

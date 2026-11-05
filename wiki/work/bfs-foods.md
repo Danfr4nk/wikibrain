@@ -5,7 +5,7 @@ title: "BFS Foods (2026): Job, Drawer Dispute, Termination"
 status: closed
 knowledge: mixed
 date_created: 2026-07-13
-date_modified: 2026-11-01
+date_modified: 2026-11-04
 sources:
   - raw/legal/bfs-dispute/BFS_BOOTLOADER_v2.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/legal/bfs-dispute/BFS Anita Quagmire strategy and legal exposure.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -93,7 +93,11 @@ connections:
   - page: wiki/mind/journal/2026-10-31-the-tenure-tracks-the-payload
     type: evidences
     claim: "One month against forty-one is the tenure entry's control: no payload documented, tenure measured in weeks — directional only, since an employer-side termination act is also documented."
+  - page: wiki/mind/journal/2026-10-28-the-margin-sets-the-payload
+    type: evidences
+    claim: "The 2026-10-28 entry 'The Margin Sets the Payload' takes this job as its D4 closed-surface control: the decorative nightly audit ($0.00 over/under, variance assigned by default) left no margin, no payload formed, and the tenure ended at ~1 month - the negative case against the Au Za'atar and Nemacolin long tenures."
 changelog:
+  - "2026-11-04: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-04 engine wave."
   - "2026-11-01: Added Jev-gated backlink edges (engine run 2026-11-01; Jev jev-1.13.0 triage, human full-read gate)."
 ---
 

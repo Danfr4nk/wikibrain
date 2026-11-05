@@ -5,7 +5,7 @@ tier: major
 title: "Au Za'atar (NYC, ~2021–2024)"
 status: closed
 date_created: 2026-07-13
-date_modified: 2026-11-01
+date_modified: 2026-11-04
 sources:
   - raw/sammy/20260914-0630/chats.json
   - raw/location/Records.json
@@ -68,7 +68,11 @@ connections:
   - page: wiki/mind/journal/2026-10-31-the-tenure-tracks-the-payload
     type: evidences
     claim: "Forty-one months sustained by a private objective inside a low-oversight territory, ending when the shed came down rather than when hours were cut, is the tenure entry's long-tenure leg — sensor schedule and hand labels both his, not the employer's."
+  - page: wiki/mind/journal/2026-10-28-the-margin-sets-the-payload
+    type: evidences
+    claim: "The 2026-10-28 entry 'The Margin Sets the Payload' takes this job as its D1 leg: the tip split, night-class alibi, and shed cash custody are read as three payload forms fitted to this host's three unmonitored margins (compensation, schedule verification, cash), with the tenure ending at margin closure - the shed tear-down - not at the hour cuts."
 changelog:
+  - "2026-11-04: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-04 engine wave."
   - "2026-11-01: Added Jev-gated backlink edges (engine run 2026-11-01; Jev jev-1.13.0 triage, human full-read gate)."
   - "2026-10-05: Restructured to canonical template v1"
 ---

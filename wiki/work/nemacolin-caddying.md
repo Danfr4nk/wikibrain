@@ -5,7 +5,7 @@ tier: major
 title: "Caddying — Nemacolin, Laurel Valley, Pikewood National (2016–2019)"
 status: closed
 date_created: 2026-07-14
-date_modified: 2026-10-05
+date_modified: 2026-11-04
 date_range_start: 2016-04-06
 date_range_end: 2019-11-01
 sources:
@@ -59,7 +59,11 @@ connections:
   - page: wiki/people/bruce-burish
     type: precedes
     claim: "The friendship originates in the caddying era and is dormant until 2018; Bruce's opening register is nostalgia for Nemacolin, which is what re-establishes the channel."
+  - page: wiki/mind/journal/2026-10-28-the-margin-sets-the-payload
+    type: evidences
+    claim: "The 2026-10-28 entry 'The Margin Sets the Payload' takes this job as its D2 discriminator leg: no migraine out across 43 months at a yard that punished absence, while the peer-visible status ladder this page documents (call-ups, day trips, two-bag rounds) occupied the host - payload form fitted to the only margin this host left open."
 changelog:
+  - "2026-11-04: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-04 engine wave."
   - "2026-10-04: Restructured to canonical template v1"
   - "2026-10-05: Expanded to major floor — hire, cohort, season texture, Conflicts section; canonical template v1"
 ---

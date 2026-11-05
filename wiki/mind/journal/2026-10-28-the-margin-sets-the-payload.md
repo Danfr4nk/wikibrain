@@ -8,7 +8,7 @@ knowledge: derived
 importance: medium
 layer: interpreted/journal
 date_created: 2026-10-28
-date_modified: 2026-10-31
+date_modified: 2026-11-04
 sources:
   - wiki/work/au-zaatar-41-months.md
   - wiki/work/au-zaatar.md
@@ -33,7 +33,17 @@ connections:
   - page: wiki/mind/journal/2026-10-07-the-transferred-role
     type: parallels
     claim: "That entry isolates what transfers across hosts (the advocate role). This entry isolates what does not transfer and why: payload form is margin-bound, so it dies with the margin instead of migrating."
+  - page: wiki/work/au-zaatar
+    type: evidenced-by
+    claim: "Leg D1 runs on this page's record: the day-one equal tip split in the negotiable compensation margin, the fictitious 9pm night class in the schedule-verification margin (never closed once in 41 months), and sole custody of the shed's cash tips - three payloads whose forms track the host's unmonitored margins, ending when the shed came down."
+  - page: wiki/work/nemacolin-caddying
+    type: evidenced-by
+    claim: "Leg D2 runs on this page's record: across 43 months no migraine instrument appears at the host whose yard culture punished absence, and the peer-visible looper ladder occupies the host instead - the May 2018 call-up with 'the real loopers,' the Laurel Valley day trips, the first two-bag round, the Scottsdale transfer raised with Carl. The discriminator leg: the declared-default instrument is absent at exactly the host with no gap for it."
+  - page: wiki/work/bfs-foods
+    type: evidenced-by
+    claim: "Leg D4 runs on this page's record: the closed verification surface - CSR printing $0.00 over/under every night while assigning variance to the last closer - left no unmonitored margin to occupy, so no payload formed and the tenure ended at the first genuinely assigned demand (~1 month), as margin-fitting predicts for a closed-surface host; the page's own gap note (no year-plus alibi structure) is cited in the leg."
 changelog:
+  - "2026-11-04: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-04 engine wave."
   - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
