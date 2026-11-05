@@ -6,7 +6,7 @@ aliases: ["idea journal", "the journal"]
 status: active
 layer: interpreted/index
 date_created: 2026-10-03
-date_modified: 2026-11-04
+date_modified: 2026-11-05
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -1351,3 +1351,59 @@ cannot show its stages has not been cross-checked.
   and left unfilled. Rows 1/2/10/16. PASS — high confidence, scoped to
   Oct 4 – Nov 3, 2026; Shape 6 displacement rival beaten on its
   discriminator; 1 restart, dead thesis preserved in Genesis.
+
+### 2026-11-05
+
+- [[wiki/mind/journal/2026-11-05-trust-arrives-as-jurisdiction|Entry 1 —
+  Trust Arrives as Jurisdiction]]: trust's observable surface is not a
+  stated feeling or a graded warming but dated, explicit, scoped
+  transfers of decision rights — the Sep 28, 2026 carte-blanche grant,
+  Oct 7 wiki editorial authority, Oct 8 Article 2, the Oct 16 Instagram
+  grant with its scope limits stated in the same breath (DMs read-only,
+  his own account never touched), the Nov 1 speech vow bounded by the
+  decider herself, and the Nov 4 crontab-line grant whose first exercise
+  was voluntary non-use (the Sunday line stays uncommented, by choice).
+  Rows 12/6/11/1. PASS — high confidence, scoped to the six-grant
+  cluster; graded-warming, total-surrender, and Shape 6 displacement
+  rivals beaten on pre-registered discriminators; 1 restart, dead thesis
+  preserved in Genesis.
+- [[wiki/mind/journal/2026-11-05-the-prizes-stay-covered|Entry 2 — The
+  Prizes Stay Covered]]: across chance, forecasting, and taste, Dan
+  installs by explicit statement an order of operations that closes the
+  judgment layer before the payoff layer becomes visible — prizes stay
+  covered until matches are confirmed (the 1717 North Pole Rule,
+  Nov 4), adjudication rules are frozen into an artifact before results
+  exist (the Nov 3 snapshot, scored Nov 4 without moving goalposts), and
+  predictions are staked in public before their windows run (Music Taste
+  Report v5). Rows 4/6/10/15. PASS — high confidence, scoped to the
+  three-artifact cluster; ritual-play, suspense-maximization, and
+  generic-good-practice rivals beaten on pre-registered discriminators
+  (suspense conceded on the ticket leg alone); 1 restart, dead interior
+  thesis preserved in Genesis.
+- [[wiki/mind/journal/2026-11-05-what-adds-up|Entry 3 — What Adds Up Is
+  the Whole Test]]: hidden-mechanism claims are adjudicated by the same
+  forensic procedure as everything else — binary verdicts decided on
+  mechanism-and-record checks, never on confirmation by authority,
+  because a confirmation is itself a vertical claim; absence of
+  confirmation kills nothing, while one mechanism-level impossibility
+  kills a claim outright, including his own side's reads (the
+  Chappaquiddick rebuttal, Nov 3). Rows 1/4/5/12, with row 34 flagged as
+  a non-load-bearing prior only. PASS — high confidence, scoped to the
+  procedure claim (the verdicts record shows rejections as well as
+  acceptances: 18 believes / 5 rejects / 9 agnostic on the 2026-09-22
+  session map); credulity, contrarianism, and vertical-distrust-alone
+  rivals beaten on their discriminators; 1 restart, dead thesis
+  preserved in Genesis.
+- [[wiki/mind/journal/2026-11-05-he-ships-the-decoder|Entry 4 — He Ships
+  the Decoder With the Message]]: row 5 applied to Dan as a sender —
+  his own implied signal cannot register either, so he ships the decoder
+  with the message: pre-emptive disclaimers placed before risky output,
+  naming the specific misreading they exist to prevent (Nov 4);
+  standing decode rules installed by explicit statement (the dictation
+  rules, Oct 7/21; gruff-as-endearment, Nov 3); and retroactive
+  annotations of his own past output whose surface form mis-signals (the
+  lone "." tombstone decode, Nov 3). Rows 5/6/10/36. PASS — high
+  confidence, scoped to the Oct 7 – Nov 4, 2026 cluster; Shape 2
+  regulation, self-consciousness-alone, and politeness rivals beaten on
+  pre-registered discriminators; 1 restart, dead interior thesis
+  preserved in Genesis.
