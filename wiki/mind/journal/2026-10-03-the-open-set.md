@@ -9,8 +9,9 @@ importance: medium
 tier: major
 layer: interpreted/journal
 date_created: 2026-10-03
-date_modified: 2026-10-19
+date_modified: 2026-11-05
 changelog:
+  - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - date: 2026-10-07
     change: "Expanded to major tier and restructured to canonical template v1: story-first lede, Genesis moved intact into Conflicts in the record, evidence and mechanism sections expanded from repo sources. No facts deleted."
@@ -47,6 +48,9 @@ connections:
   - page: wiki/mind/journal/2026-10-03-the-manufactured-halt
     type: complements
     claim: "The Manufactured Halt (Entry 2, same day) locates the exits -- loops end when a resolution condition is manufactured from outside, by operation, enforcement, or verdict -- while this entry locates the loops themselves: where no completion condition exists, output repeats instead of closing."
+  - page: wiki/people/ally-lubin
+    type: evidenced-by
+    claim: "The dead-channel leg runs on this page's record: nine outbound messages on 2026-06-01 to the iCloud handle Ally does not monitor, no reply in any export - repetition with the completion condition not merely unsatisfied but unsatisfiable; the page's routing-artifact caveat (the burst was misaddressed, per the operator's testimony) narrows this entry's dormancy reliance in Conflicts."
 ---
 
 # The Open Set

@@ -6,7 +6,7 @@ aliases: ["Alexandra Lubin", "ALU", "aluuuu", "Ally"]
 status: severed
 knowledge: earned
 date_created: 2026-06-23
-date_modified: 2026-09-21
+date_modified: 2026-11-05
 date_range_start: 2011-05-20
 date_range_end: 2026-09-21
 images:
@@ -99,6 +99,14 @@ connections:
   - { target: "[[wiki/mind/synthesis/vacancy-rule]]", type: references, claim: "Transition 5's failed transferee — the eighteen-year secondary bond the rule's primary/secondary split was written to hold." }
   - { target: "[[wiki/mind/synthesis/the-curse]]", type: documents, claim: "Case 4 — eighteen years, never met." }
   - { target: "[[wiki/mind/synthesis/self-deprecation-shield]]", type: references, claim: "The Ally channel is the shield's trust-credential case — the self-own as epistemic warrant." }
+  - page: wiki/mind/journal/2026-10-03-the-manufactured-halt
+    type: evidences
+    claim: "The 2026-10-03 entry 'The Manufactured Halt' uses the hallucination recorded on this page - the invented 'girlfriend title' acceptance, killed against a complete export within a day (CORRECTED [2026-08-20]) - as its wiki-scale termination case: a claim met an export that could answer it."
+  - page: wiki/mind/journal/2026-10-03-the-open-set
+    type: evidences
+    claim: "The 2026-10-03 entry 'The Open Set' takes the June 1, 2026 burst documented on this page - nine messages to an unmonitored handle, no reply - as its purest open-set case: output re-firing into a channel that could return no closure signal, with this page's misaddressing correction carried as the entry's routing-artifact caveat."
+changelog:
+  - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave."
 ---
 
 # Ally Lubin (Alexandra Lubin)

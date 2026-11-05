@@ -8,7 +8,7 @@ aliases: ["the declaration is the performance", "129 declarations", "severance a
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-11-02
+date_modified: 2026-11-05
 sources:
   - kb/data/0081-explicit-commitment-architecture.md
   - raw/sammy/20261004-1814/operator-testimony-2026-10-04.md
@@ -97,7 +97,11 @@ connections:
   - page: wiki/mind/journal/2026-10-31-the-timestamp-is-the-witness
     type: evidences
     claim: "The Oct-31 entry uses this page's severance cadence as its fourth leg: the timing signature adjudicates declarations as check-ins, and the 52-day June 1 silence - out-of-distribution against the 46-hour maximum - still witnesses no closure without an explicit statement."
+  - page: wiki/mind/journal/2026-10-03-the-manufactured-halt
+    type: evidences
+    claim: "The 2026-10-03 entry 'The Manufactured Halt' builds its loop section on this page's recount - 129 episodes, 128 of 128 resuming at a thirty-six-second median - reading the series as output in a domain with no resolution condition, where declarations are escalation rungs rather than exits."
 changelog:
+  - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave."
   - "2026-11-02: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-02 engine wave."
   - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-countdown-runs-backwards (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - 2026-10-03: Restructured to canonical template v1

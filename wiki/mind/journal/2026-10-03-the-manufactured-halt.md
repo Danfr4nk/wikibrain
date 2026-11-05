@@ -9,8 +9,9 @@ importance: medium
 tier: major
 layer: interpreted/journal
 date_created: 2026-10-03
-date_modified: 2026-10-19
+date_modified: 2026-11-05
 changelog:
+  - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - 2026-10-07: Restructured to canonical template v1; expanded to major tier from corpus
 sources:
@@ -72,6 +73,15 @@ connections:
   - page: wiki/timeline/events/september-2026-driveway-confrontation
     type: evidenced-by
     claim: "The September 29, 2026 PFA — Annie's instrument, state-enforced — is the entry's third-party contrast case: paper plus enforcement binding where bare declaration never did."
+  - page: wiki/mind/synthesis/severance-declarations
+    type: evidenced-by
+    claim: "The loop section runs on this page's recount: 129 severance episodes collapsed from declaration-language messages, 128 of 128 measurable episodes resuming (median thirty-six seconds, maximum forty-six hours), against zero severance signals in 41,073 of her messages - the dataset that converts 'failed exits' into 'declared exits terminate nothing.'"
+  - page: wiki/work/bfs-foods
+    type: evidenced-by
+    claim: "The BFS drawer dispute is this entry's first termination case: the $50 shortage demand against a clean CSR report with no paper trail on either side, closed as an adjudication rather than a payment - and the later correction (the schedule cut preceded his awareness of the claim) is carried as part of the termination, the halt surviving its own story's correction."
+  - page: wiki/people/ally-lubin
+    type: evidenced-by
+    claim: "The Ally hallucination is this entry's termination case at wiki scale: the invented 'girlfriend title' acceptance recorded on this page was identified by Dan the same night and killed against a complete thread export within a day - an exhaustive string search as a total resolution condition."
 ---
 
 # The Manufactured Halt

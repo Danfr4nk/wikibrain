@@ -9,9 +9,10 @@ importance: medium
 tier: major
 layer: interpreted/journal
 date_created: 2026-10-03
-date_modified: 2026-10-19
+date_modified: 2026-11-05
 tags: [idea-journal, personality-profile, forensic-analysis, calibration, narration]
 changelog:
+  - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-07: Expanded to major tier (>=3,000 words); restructured to canonical template v1; Conflicts in the record, Assessment, See also, References added."
 sources:
@@ -42,6 +43,9 @@ connections:
   - page: wiki/mind/journal/2026-10-07-the-archive-is-the-argument
     type: component-of
     claim: "That entry prices the infrastructure this entry's corollary assumes: lossless retention as revisability substrate, dated verdict reversals shipped as further writes — the wiki as narration prosthesis is the design response to the narrator the tax measures."
+  - page: wiki/mind/concepts/forensic-method
+    type: evidenced-by
+    claim: "Item 6's correction-on-contact leg runs on this page's reflexive turn: the Fran monitor-alarm retraction within 24 hours and the adopted Bacharach correction are the behavior that discriminates this entry's thesis against legend-building - the narrator inflates in the archive's absence and defers in its presence. Row 4 of the profile prior is this page's method stated as a claim."
 ---
 
 # The Narrator Tax
