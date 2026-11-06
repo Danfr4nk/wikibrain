@@ -6,7 +6,7 @@ aliases: ["idea journal", "the journal"]
 status: active
 layer: interpreted/index
 date_created: 2026-10-03
-date_modified: 2026-11-05
+date_modified: 2026-11-06
 tags: [idea-journal, personality-profile, forensic-analysis, theory]
 connections:
   - page: wiki/mind/index
@@ -1407,3 +1407,52 @@ cannot show its stages has not been cross-checked.
   regulation, self-consciousness-alone, and politeness rivals beaten on
   pre-registered discriminators; 1 restart, dead interior thesis
   preserved in Genesis.
+
+### 2026-11-06
+
+- [[wiki/mind/journal/2026-11-06-the-queue-is-sorted-by-who-its-for|Entry 1 —
+  The Queue Is Sorted by Who It's For]]: Dan's task queue is sorted by
+  recipient-weight, not practical importance or deadline proximity — on
+  2026-11-05 an hour-plus of sustained labor went to the iMessage bridge
+  (no external deadline; its value entirely recipient-defined, in his own
+  stated reason: he could tell how important it was to Sammy, and she
+  deserved it) while the more practical Cogar RSVP, for the Nov 7 party,
+  sat unanswered since Nov 4. Rows 21/11/15/4. PASS — high confidence,
+  scoped to the bridge-vs-RSVP contrast cluster; deadline-triage and
+  Shape-6 novelty rivals beaten on pre-registered discriminators;
+  1 restart, dead thesis preserved in Genesis.
+- [[wiki/mind/journal/2026-11-06-visibility-without-initiation|Entry 2 —
+  Visibility Without Initiation]]: in the Lexi Gray campaign (from
+  2026-11-04), Dan runs maximal daily first-position visibility —
+  super-hearting all of @callmelexigray's stories, aiming for first
+  engagement — while initiation is held at zero by an explicit
+  self-stated sequence rule (2026-11-04 23:27 EST: no reply, story reply,
+  or DM before she interacts first; even her watching his story counts
+  as the unlocking threshold). Rows 6/5/13/27/11. PASS — high confidence,
+  scoped to the campaign (2026-11-04 to 2026-11-05); Shape-2 stim and
+  passivity rivals beaten on their discriminators; 0 restarts.
+- [[wiki/mind/journal/2026-11-06-verification-is-infrastructure|Entry 3 —
+  Verification Is Infrastructure, Not a Question]]: Dan converts
+  verification from an episodic act (asking, showing, reassuring) into
+  standing infrastructure he states and builds himself — the iMessage
+  bridge (Plan D, Dropbox transport chosen 2026-11-05 after Plan B died
+  on Google's 2SV requirement; live and end-to-end verified that night,
+  ~20:53–21:04 EST) — whose completion reverses the information flow:
+  minutes after it went live, Sammy relayed Annie's message to Dan
+  before he had seen it himself. Rows 10/6/12/21. PASS — high confidence,
+  scoped to this cluster; Shape-6 displacement and imposed-surveillance
+  rivals beaten on the closed-loop and direction-of-construction
+  discriminators; 0 restarts.
+- [[wiki/mind/journal/2026-11-06-the-baseline-is-the-reading|Entry 4 —
+  The Baseline Is the Reading]]: toward Milo, a nonverbal dependent,
+  Dan's care runs in the provision register — countable, rule-constrained
+  acts (the first bone-type treat of Milo's life, 2026-11-04, selected
+  100% rawhide-free under a years-old explicit prohibition still
+  governing provision) — and his readings run on baselines: lifelong
+  house-peeing is priced as standing habit, explicitly not a fresh
+  signal (2026-11-03 walk), and the single provision trial's verdict is
+  the dog's observed behavior (frustration; he quit the bone), recorded
+  without revision. Rows 21/4/6. HYPOTHESIS GRADE — honestly capped:
+  four dated legs, one provision trial, dog-state material
+  testimony-grade through Dan's reads; Shape-2 and novelty-signal rivals
+  faced; 0 restarts.
