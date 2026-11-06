@@ -99,7 +99,11 @@ connections:
   - page: wiki/mind/journal/2026-10-03-the-manufactured-halt
     type: evidences
     claim: "The 2026-10-03 entry 'The Manufactured Halt' takes this page's drawer dispute as its first termination case: a claim-shaped input met a domain that could answer it - the paper trail either exists or it doesn't - and the engine stopped, with the retaliation element later stripped by the record itself."
+  - page: wiki/mind/journal/2026-10-04-selection-buys-delay
+    type: evidences
+    claim: "The 2026-10-04 entry 'Selection Buys Delay' builds its vertical clock on this page's drawer dispute: the $50 claim audited in hours (full reconstruction, in withdrawal) while chosen ties ran unaudited for years - provenance, not stakes, set the schedule."
 changelog:
+  - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave 6."
   - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave."
   - "2026-11-04: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-04 engine wave."
   - "2026-11-01: Added Jev-gated backlink edges (engine run 2026-11-01; Jev jev-1.13.0 triage, human full-read gate)."

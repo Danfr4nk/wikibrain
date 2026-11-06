@@ -9,7 +9,7 @@ importance: medium
 tier: major
 layer: interpreted/journal
 date_created: 2026-10-04
-date_modified: 2026-10-19
+date_modified: 2026-11-05
 sources:
   - wiki/mind/synthesis/the-deferred-audit.md (two-clocks table; the $50/$ drawer comparison; Tom ~18-year lag; Annie ~9/10.5-year lag; menore ~8-year lag; pets exempt; the 2026-08-02 narrowing to "when the first audit fires")
   - wiki/work/bfs-foods.md (drawer dispute narrative; the 2026-08-26 corrected sequence; forensic reconstruction in withdrawal; POS fraud vector; upstream Tom supply failure)
@@ -28,6 +28,7 @@ synthesizes:
   - wiki/mind/synthesis/the-deferred-audit
   - wiki/places/the-unpapered-address
 changelog:
+  - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave 6."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-04: Entry written (Idea Journal, entry 4 of the day), generated in isolation under the profile-first protocol; one restart, dead thesis 1 preserved in-body."
   - "2026-10-07: Restructured to canonical template v1; expanded to major tier — evidence sections drawn from the BFS, Tom, housing, and institutional-out records; BFS evidence bullet corrected per the drawer page's 2026-08-26 sequence correction (superseded 'refusal' claim kept as a dated Conflicts entry); institutional-out provenance flagged per that page's 2026-09-09 evidence floor."
@@ -51,6 +52,15 @@ connections:
     type: instantiates
     claim: "Selection-buys-delay instantiates the manufactured halt from the negative side: chosen lateral ties stay off paper for years, so no halt or audit state is manufactured and delay is bought instead of closure."
     claim: "The institutional out is the vertical-side mirror: a stated claim installed preemptively so the institution's audit cannot fire, where the lateral side withholds paper so his own audit does not."
+  - page: wiki/work/bfs-foods
+    type: evidenced-by
+    claim: "The BFS drawer dispute is this entry's vertical-evidence section entire: an unverified $50 shortage claim reconstructed the same day, in withdrawal, against sixteen years of unpapered lateral exposure - the hours-scale end of the audit-latency table."
+  - page: wiki/people/tom
+    type: evidenced-by
+    claim: "Tom is this entry's lateral-evidence case: more than 5,700 messages across two handles from about 2010 to 2026-05-30, the friendship model revised only after the mid-May 2026 supply failure - an ~18-year audit lag at the highest relational stakes in the male peer record."
+  - page: wiki/mind/profile/big-five-psychometrics
+    type: evidenced-by
+    claim: "Row 12 of this entry's profile floor runs on this page's measures - Trust at the 9th percentile, suspicion-of-motive language at 1.96x the within-medium baseline - and re-scopes them: the distrust is vertical-scoped, priced against sixteen years of unpapered lateral housing the same record holds."
 ---
 
 # Selection Buys Delay

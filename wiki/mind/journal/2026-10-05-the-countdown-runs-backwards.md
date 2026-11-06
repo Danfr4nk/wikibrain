@@ -7,7 +7,7 @@ status: active
 knowledge: derived
 importance: medium
 date_created: 2026-10-05
-date_modified: 2026-10-18
+date_modified: 2026-11-05
 tier: major
 layer: interpreted/journal
 sources:
@@ -27,6 +27,7 @@ synthesizes:
  - wiki/mind/concepts/calibrated-confidence
 tags: [idea-journal, personality-profile, forensic-analysis, time-urgency]
 changelog:
+ - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave 6."
  - "2026-10-18: Expanded to major tier: profile prior unpacked with the t011 per-thousand table, the axiom-4 attestation chronology, and channel-gating support; evidence deepened with dated verbatim instances (2017-06-27 live-gate window math, 2017-07-01 urgency framing, the 2018-04-06 rounding, the 2026-08-29 expired deadline, 2022/2024 tweets, and the 2026-09-26 embodiment-countdown boundary case); rival strengthened to the ledger's three alternatives; Stage-5 gate re-verified step by step. No facts deleted."
 connections:
  - page: wiki/mind/journal/index
@@ -44,6 +45,9 @@ connections:
  - page: wiki/timeline/events/abortion-june-july-2017
    type: evidence
    claim: "Retrospective rounding 2018-04-06 ('5 months too late' vs the 19-week sonogram); live-gate window math 2017-06-27 ('a month later and it would have been too late')."
+ - page: wiki/mind/concepts/calibrated-confidence
+   type: evidenced-by
+   claim: "Rows 2/3 of this entry's prior run on this page's ledger: graded credences transmit intensity, not forecasts - his own stated 'certain' prices at 0.25 against outcomes (dat:0044, via this page) - and the audit pass's false positive ('I'm 99% sure' wearing an age pattern's clothes) is this page's counts being read before they were believed."
 ---
 
 # The Countdown Runs Backwards

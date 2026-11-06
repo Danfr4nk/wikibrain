@@ -7,7 +7,7 @@ status: active
 knowledge: derived
 importance: medium
 date_created: 2026-10-05
-date_modified: 2026-10-18
+date_modified: 2026-11-05
 tier: major
 layer: interpreted/journal
 sources:
@@ -52,7 +52,12 @@ connections:
  - page: wiki/mind/synthesis/the-serial-monogamist
    type: parallels
    claim: "Slot re-loading is the mechanism-level account of the serial pattern the monogamist synthesis describes: the onset flood marks the loading event; dormancy preserves the slot between occupancies."
+ - page: wiki/mind/synthesis/dormancy-not-exit
+   type: evidenced-by
+   claim: "Legs 3 and 8 of this entry cite this page directly: the apartment leased for Alexis is the apartment Annie moves into - the slot's physical shell surviving an occupant swap - and the Franki Faris case ('Franki is deletion') sets the deletion floor that bounds the slot thesis from below."
 changelog:
+ - date: 2026-11-05
+   change: "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave 6."
  - 2026-10-05: "Entry created (single draft, no restarts)."
  - 2026-10-18: "Expanded to major tier: story-first lede; profile rows unpacked to their actual measurements; evidence deepened with held-corpus nodes (dat:0293, dat:1163, dat:0801, dat:0201, dat:0529) and dated verbatim quotes; R1 strengthened with a discriminator ledger; confidence re-verified against the profile-first protocol; Genesis note moved intact to Conflicts in the record; Assessment, See also, and References added. No facts deleted."
 ---

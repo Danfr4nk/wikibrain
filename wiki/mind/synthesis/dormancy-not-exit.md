@@ -7,7 +7,7 @@ status: active
 knowledge: earned
 layer: interpreted/synthesis
 date_created: 2026-08-01
-date_modified: 2026-10-23
+date_modified: 2026-11-05
 sources:
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -91,7 +91,11 @@ connections:
   - { target: "[[wiki/mind/synthesis/instrument-is-subject]]", type: contextualizes, claim: "This page is the instrument-is-subject standard applied to the author's own contact history." }
   - { target: "[[wiki/mind/synthesis/the-commissioned-self]]", type: references, claim: "The commissioned-self census supplies the self-measurement machinery behind the dormancy claim." }
 
+  - page: wiki/mind/journal/2026-10-05-the-dormant-slot
+    type: evidences
+    claim: "The 2026-10-05 entry 'The Dormant Slot' builds two of its legs on this page's record: the shared Alexis/Annie apartment as the slot's retained physical shell, and the Franki Faris deletion floor - deletion exists exactly where installation never happened - as the lower bound of its installed/dormant binarity."
 changelog:
+  - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave 6."
   - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

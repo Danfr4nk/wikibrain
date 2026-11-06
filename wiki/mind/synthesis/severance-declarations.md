@@ -100,7 +100,11 @@ connections:
   - page: wiki/mind/journal/2026-10-03-the-manufactured-halt
     type: evidences
     claim: "The 2026-10-03 entry 'The Manufactured Halt' builds its loop section on this page's recount - 129 episodes, 128 of 128 resuming at a thirty-six-second median - reading the series as output in a domain with no resolution condition, where declarations are escalation rungs rather than exits."
+  - page: wiki/mind/journal/2026-10-03-the-open-set
+    type: evidences
+    claim: "The 2026-10-03 entry 'The Open Set' names this page's declaration series as a headline case of output re-firing at undiminished amplitude where no completion condition exists, and rests its no-counter-rule rows on this page's verification: 0 severance signals in 41,073 messages."
 changelog:
+  - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave 6."
   - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave."
   - "2026-11-02: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-02 engine wave."
   - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-countdown-runs-backwards (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
