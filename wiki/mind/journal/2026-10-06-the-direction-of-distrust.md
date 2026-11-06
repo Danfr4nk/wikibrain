@@ -8,8 +8,9 @@ knowledge: derived
 importance: medium
 layer: interpreted/journal
 date_created: 2026-10-06
-date_modified: 2026-10-20
+date_modified: 2026-11-06
 changelog:
+  - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 7."
   - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-06-the-delegated-surface (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
@@ -51,6 +52,9 @@ connections:
   - page: wiki/mind/journal/2026-10-06-the-delegated-surface
     type: parallels
     claim: "Same-day pass B routes by claim-axis (vertical vs lateral); this entry routes by seat (who sits at the keyboard) — imposed-vs-chosen geometry in different registers."
+  - page: wiki/work/au-zaatar
+    type: evidenced-by
+    claim: "Leg D6, the work-tenure spine, runs on this page's record: 41 months (March 2021-August 2024) of staff-side audit posture, including Dan documented as saboteur within the vertical - the honesty-check counter-evidence that the forensic posture runs inside the structure too, not only against it."
 ---
 
 # The Direction of Distrust

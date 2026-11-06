@@ -8,7 +8,7 @@ knowledge: earned
 tier: major
 layer: interpreted/concept
 date_created: 2026-08-04
-date_modified: 2026-11-01
+date_modified: 2026-11-06
 sources:
   - src:imessage-corpus-2026
   - src:old-wiki-export-2026-09-04
@@ -20,6 +20,8 @@ sources:
   - kb/interpretations/attachment-model-129-exits.md
 tags: [relationships, attachment, trauma-bond, trust, consistency, forensic-analysis, personality-profile]
 changelog:
+  - date: 2026-11-06
+    change: "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 7."
   - date: 2026-11-01
     change: "2026-11-01: Added Jev-gated backlink edges (engine run 2026-11-01; Jev jev-1.13.0 triage, human full-read gate)."
   - date: 2026-10-28
@@ -56,6 +58,9 @@ connections:
   - page: wiki/mind/journal/2026-10-31-the-imperative-is-the-check-in
     type: instantiates
     claim: "The Oct-31 entry gives the check-in loop's grammar: summons ('call me,' 'you up') as the loop's re-firing units, with the canonical-question absence holding across the Annie, Kristin, and Tom threads."
+  - page: wiki/mind/journal/2026-10-03-the-quantized-graph
+    type: evidences
+    claim: "The 2026-10-03 entry 'The Quantized Graph' builds its mechanism on this page's summons counts: 'call me' 170x vs 'do you love me' 0x is its Layer-A proof that tie maintenance runs on stated summons rather than ambient signal, and its Kristin install-and-cliff leg is cited to this page's record."
 ---
 _Layer: interpreted/concept — one mechanism, defined here. The evidence it draws on lives in the linked self/ exhibits, which it cites rather than restating._
 

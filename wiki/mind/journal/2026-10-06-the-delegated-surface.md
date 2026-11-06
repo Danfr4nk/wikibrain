@@ -9,7 +9,7 @@ importance: medium
 tier: major
 layer: interpreted/journal
 date_created: 2026-10-06
-date_modified: 2026-10-18
+date_modified: 2026-11-06
 sources:
   - kb/data/moltbook-sammyitch-20260928.md
   - kb/data/1906-google-voice-sms-skill-20260923.md
@@ -47,7 +47,11 @@ connections:
   - page: wiki/mind/journal/2026-10-06-the-direction-of-distrust
     type: parallels
     claim: "Same-day pass B: distrust as routing by claim-axis (vertical vs lateral); this entry is routing by seat (who sits at the keyboard). Both are imposed-vs-chosen geometry in different registers."
+  - page: wiki/mind/profile/deviance-mapping
+    type: evidenced-by
+    claim: "Row 11 and leg D4 run on this page's measurement: relational Gini 0.9601 outbound across 496 handles / 184,359 rows, replicated 0.9556 inbound (dat:0528) - the profile cluster's only true replication. D4 tests delegation against it: if delegated surfaces were new channels the Gini should sag; it does not, because the instruments multiply existing slots."
 changelog:
+  - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 7."
   - "2026-10-18: Expanded to major tier: story-first lede; profile prior unpacked with instrument measurements (audits, Gini replication, exocortex artifact inventory); evidence deepened with dated Oct 4–5 instances and verbatim quotes (rule-smash, gate dictation, dominatrix run, 'never texting her again'); added D5 — the 12-day instrument-construction sequence (Sept 23 → Oct 5); new autonomy rival (Rival D); confidence gate re-verified per protocol stages 1–5. No facts deleted; Genesis/cross-check note moved intact to 'Conflicts in the record'; Assessment/See also/References added per canonical template v1."
 ---
 

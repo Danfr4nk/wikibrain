@@ -8,7 +8,7 @@ aliases: ["the declaration is the performance", "129 declarations", "severance a
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-11-05
+date_modified: 2026-11-06
 sources:
   - kb/data/0081-explicit-commitment-architecture.md
   - raw/sammy/20261004-1814/operator-testimony-2026-10-04.md
@@ -103,7 +103,11 @@ connections:
   - page: wiki/mind/journal/2026-10-03-the-open-set
     type: evidences
     claim: "The 2026-10-03 entry 'The Open Set' names this page's declaration series as a headline case of output re-firing at undiminished amplitude where no completion condition exists, and rests its no-counter-rule rows on this page's verification: 0 severance signals in 41,073 messages."
+  - page: wiki/mind/journal/2026-10-03-the-quantized-graph
+    type: evidences
+    claim: "The 2026-10-03 entry 'The Quantized Graph' takes this page's exit loop as the measured half of its distance distribution: the 129-declaration recount (128 of 128 resumed, 36-second median) is the cliff-edge at the exit gate - a channel that re-fires instead of decaying - flagged there at merged-corpus grade, with dat:0081's primary-verified zero carrying the load."
 changelog:
+  - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 7."
   - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave 6."
   - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave."
   - "2026-11-02: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-02 engine wave."

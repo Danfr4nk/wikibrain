@@ -9,7 +9,7 @@ importance: medium
 tier: major
 layer: interpreted/journal
 date_created: 2026-10-03
-date_modified: 2026-10-19
+date_modified: 2026-11-06
 tags: [idea-journal, personality-profile, forensic-analysis, contact-geometry, social-graph]
 sources:
   - kb/data/0528-contact-gini-inbound-replication-2026-09-09.md
@@ -49,7 +49,14 @@ connections:
   - page: wiki/mind/synthesis/closing-the-set
     type: contrasts
     claim: "The taste record inverts the contact Gini (0.188 music, 0.166 books, 0.000 art) — the control group that bounds the quantization claim to people."
+  - page: wiki/mind/synthesis/severance-declarations
+    type: evidenced-by
+    claim: "The exit half of this entry runs on this page's recount: 129 severance declarations across eleven years, 128 of 128 resumed, 36-second median, 46-hour ceiling - his declarations do not uninstall, because revocation requires a terminating statement the architecture accepts. Carried at merged-corpus grade in Conflicts; the primary-verified companion zero (0 severance signals in 41,073 of her messages, dat:0081) holds the load."
+  - page: wiki/mind/concepts/reassurance-architecture
+    type: evidenced-by
+    claim: "Legs 4-5 and the mechanism section run on this page's counts: 'call me' 170x against 'do you love me' 0x across 106,629 sent messages - maintenance by explicit summons, ambient signal unregistered - and the Kristin install-and-cliff leg (~19,664 messages in ~10 weeks) is cited to this page."
 changelog:
+  - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 7."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - 2026-10-07: "Restructured to canonical template v1; expanded to major tier from cited repo sources (dat:0528, dat:0529, dat:0530, dat:0531, dat:1292, dat:0081; the contact-gini, dormancy-not-exit, one-way-valve, irreversible-channel, and receipt-channel pages); frontmatter source paths verified against repo filenames; Genesis note folded into References."
 ---

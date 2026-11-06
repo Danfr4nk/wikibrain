@@ -7,7 +7,7 @@ status: active
 knowledge: derived
 importance: medium
 date_created: 2026-10-05
-date_modified: 2026-10-18
+date_modified: 2026-11-06
 sources:
  - wiki/mind/synthesis/taste-as-filter-stack.md
  - wiki/mind/concepts/lyric-qualifier.md
@@ -20,6 +20,8 @@ tags: [idea-journal, personality-profile, forensic-analysis, taste]
 tier: major
 layer: interpreted/journal
 changelog:
+ - date: 2026-11-06
+   change: "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 7."
  - 2026-10-18: "Expanded to major tier: unpacked all five profile rows with their held measurements; added the minute-level timeline for the 2026-10-04 decoupling (~05:34 upload, ~05:37 statement, 05:43 verified extraction); added the 2026-10-09 v3 follow-up (partial purge — This High - Slowed cut on the tempo criterion, four retained); added the guitar-rule case (utterance ratifies placement, with the Thursday carved exception) and the vocal-layering call as utterance-trailing-allocation; strengthened the Shape-4 rival with the K3YN0T3 8-block as its best ammunition and recorded the Filter-6 tension in Conflicts. No facts deleted."
 connections:
  - page: wiki/mind/journal/index
@@ -40,6 +42,9 @@ connections:
  - page: wiki/mind/concepts/lyric-qualifier
    type: grounds
    claim: "Row 18's sonic-gate measurement (lyrics as timbre, byte-exact held 2026-09-11) is the mechanism behind the criterion gates: placement executes on measurements of the track, never on the content of the utterance."
+ - page: wiki/interests/music/concepts/lyrics-as-timbre
+   type: evidenced-by
+   claim: "Row 18's jurisdiction section runs on this page's operationalization record: AUTOPSY (2026-09-14, 'vocal as texture - voice, not words' as a scoring dimension) and hook2piano/MELODY (2026-09-16, pitch-as-geometry) - the sonic criterion gates execute on measurements of the track, and this page is where the qualifier became an instrument."
 ---
 
 # The Placement Verdict

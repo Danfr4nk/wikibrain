@@ -5,7 +5,7 @@ tier: major
 title: "Lyrics as Timbre"
 status: active
 date_created: 2026-07-14
-date_modified: 2026-10-05
+date_modified: 2026-11-06
 knowledge: earned
 sources:
   - raw/self/captures/2026-07-14-lyrics-as-timbre.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -33,7 +33,11 @@ connections:
   - page: wiki/work/tech/projects/hook2piano
     type: operationalized-by
     claim: "hook2piano/MELODY (2026-09-16) treat the qualifier as an engineering constraint: pitch-as-geometry with note names as text, because the user cannot read staff notation and does not parse lyrics as language. The piano-roll rewrite is the qualifier instantiated as interface."
+  - page: wiki/mind/journal/2026-10-05-the-placement-verdict
+    type: evidences
+    claim: "The 2026-10-05 entry 'The Placement Verdict' carries its Row 18 leg on this page: the AUTOPSY and hook2piano operationalizations recorded here are its proof that placement gates are sonic measurements of the file, never readings of lyrical content."
 changelog:
+  - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 7."
   - "2026-10-05: Restructured to canonical template v1"
 ---
 

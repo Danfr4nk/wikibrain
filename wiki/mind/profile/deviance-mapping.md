@@ -7,8 +7,9 @@ aliases: ["deviance audit", "social deviances"]
 status: stable
 tier: major
 date_created: 2026-07-13
-date_modified: 2026-10-18
+date_modified: 2026-11-06
 changelog:
+  - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 7."
   - "2026-10-18: Declared framework-v2 layer (interpreted/profile). No edge changes — all four profile-cluster connections reciprocated."
   - "2026-10-07: Expanded to major tier and restructured to canonical template v1 (story-first lede, disputes moved to Conflicts in the record); new sections on the instrument stack position, the 2026-09-15 head-to-head, and the outlier-by-outlier re-verification trail."
 sources:
@@ -66,6 +67,9 @@ connections:
   - page: wiki/mind/synthesis/the-commissioned-self
     type: component-of
     claim: "The 2026-09-15 head-to-head rubric scores the audit 4/10 on provenance x corpus-corroboration x coverage — the lowest of the nine profile instruments — which prices exactly how little of it is measurement and how much is portrait."
+  - page: wiki/mind/journal/2026-10-06-the-delegated-surface
+    type: evidences
+    claim: "The 2026-10-06 entry 'The Delegated Surface' builds its Row 11 / D4 leg on this page's Gini (0.9601 outbound, 0.9556 inbound replication) and runs a falsifiable check on it: delegation extends reach without widening channels, so the concentration this page measures holds instead of sagging."
 infobox:
   instrument: "Level 5 / Psycho-Structural Deviance Audit"
   commissioned_by: "Dan (self-ordered, August 2025)"
