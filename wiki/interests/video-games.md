@@ -4,7 +4,7 @@ page_type: entity
 tier: major
 status: active
 date_created: 2026-07-16
-date_modified: 2026-10-04
+date_modified: 2026-11-06
 sources:
   - "raw/twitter/archive.jsonl"
   - "raw/self/facebook/facebook-ihatedanfrank/posts/your_posts_1.html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
@@ -33,7 +33,11 @@ connections:
   - page: wiki/mind/synthesis/twitter-2011
     type: evidenced-by
     claim: 'The StarCraft II involvement is competitive rather than casual and is dated: dismissed as a five-minute game on 20 March 2011, a GeForce pro/am first round on 23 June, with ladder reclassification, a named build order and pros discussed by handle in between.'
+  - page: wiki/mind/synthesis/twitter-2012
+    type: evidenced-by
+    claim: "This page's PC and Xbox years section (2011-2014, the hole in the middle) runs on the 2012 Twitter record: Halo 4 bought on release, the six-year-old Xbox 360 failing with an 'open tray' error, and a new console bought within two days - five tweets across four days in November 2012."
 changelog:
+  - "2026-11-06: Jev backlink pass scoped to twitter articles (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 twitter wave (Command #3)."
   - "2026-10-04: Restructured to canonical template v1"
 ---
 # Video Games

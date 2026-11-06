@@ -4,7 +4,7 @@ page_type: period
 status: stable
 layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-26
+date_modified: 2026-11-06
 knowledge: mixed
 date_range_start: 2019-01-02
 date_range_end: 2019-12-17
@@ -35,7 +35,11 @@ connections:
   - page: wiki/mind/psychosexual/arrangement-history
     type: evidences
     claim: 'A 2019 retrospective on the 2010 move lists four reasons and then inverts the ordering — "^sort by( importance: low to high)" — which places "availability of sex workers" first. Told nine years after the fact, by somebody who chose to tell it.'
+  - page: wiki/interests/opie-and-anthony
+    type: evidences
+    claim: "The 16 January 2019 Louis CK post is the last dated instance of the old free-speech position this page's break sequence starts from: 'You don't have to agree with the material to appreciate the essence of what a joke is' - the move away happens in the thirty-three months that follow."
 changelog:
+  - "2026-11-06: Jev backlink pass scoped to twitter articles (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 twitter wave (Command #3)."
   - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

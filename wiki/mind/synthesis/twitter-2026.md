@@ -5,7 +5,7 @@ tier: major
 status: active
 layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-26
+date_modified: 2026-11-06
 knowledge: mixed
 date_range_start: 2026-03-04
 date_range_end: 2026-09-01
@@ -63,7 +63,11 @@ connections:
   - page: wiki/mind/concepts/fable-5-window
     type: contextualizes
     claim: 'The 13 June export-control post quotes Anthropic''s Fable 5 statement inside the window when that model was briefly disabled globally — the same window Dan later credits for the original wikibrain build.'
+  - page: wiki/interests/music/aliases/gripnotic
+    type: evidences
+    claim: "The April 2026 Moltbook agent claim is the instance where the GRIPNOTIC name leaves music entirely: a production identity developed as the successor alias to SLOPPP and MOGZART is taken up as the name of an AI agent, while both musical invariants stay exactly where they were."
 changelog:
+  - "2026-11-06: Jev backlink pass scoped to twitter articles (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 twitter wave (Command #3)."
   - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-04: Expanded to major tier; restructured to canonical template v1; lede rewritten story-first; contradictions consolidated into Conflicts in the record."
   - "2026-10-07: Second expansion to major tier; agent sections grounded in kb/events and kb/data (Grok Build stack, Fable 5 proliferation datum); politics section grounded in the vocabulary-drift re-measurement (23.1%); infobox added; new connections (grok-build, milo, fable-5-window)."

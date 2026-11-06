@@ -6,9 +6,10 @@ title: "Vertical Authority Skepticism"
 status: stable
 layer: interpreted/synthesis
 date_created: 2026-06-22
-date_modified: 2026-10-26
+date_modified: 2026-11-06
 tier: major
 changelog:
+  - "2026-11-06: Jev backlink pass scoped to twitter articles (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 twitter wave (Command #3)."
   - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-07: Restructured to canonical template v1"
 sources:
@@ -148,6 +149,9 @@ connections:
   - page: wiki/mind/synthesis/twitter-2021
     type: evidenced-by
     claim: "January 6th is the cleanest demonstration: he forms a police-collusion hypothesis at high confidence, prices it in the same tweet ('but what was the endgame? is that being too generous'), and rejects the antifa-infiltration mirror because it requires its actors to work against their own interests."
+  - page: wiki/mind/synthesis/twitter-2022
+    type: evidenced-by
+    claim: "This page's costly case runs on the 2022 Twitter record: the Paul Pelosi sequence of 29 October-2 November 2022, where Dan disbelieved the official account for a week and narrated exactly what it cost him - the specimen that shows the skepticism is not partisan."
 ---
 
 # Vertical Authority Skepticism

@@ -4,10 +4,11 @@ page_type: summary
 layer: documented/exhibit
 status: active
 date_created: 2026-06-22
-date_modified: 2026-10-16
+date_modified: 2026-11-06
 knowledge: mixed
 tier: major
 changelog:
+  - "2026-11-06: Jev backlink pass scoped to twitter articles (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 twitter wave (Command #3)."
   - "2026-10-07: Expanded to major tier; restructured to canonical article template v1; lede rewritten story-first; contradictions consolidated into Conflicts in the record; Assessment added."
   - "2026-10-16: Declared framework-v2 layer (documented/exhibit). No edge changes — all connections already reciprocated."
 date_range_start: 2009-10-20
@@ -144,6 +145,9 @@ connections:
   - page: wiki/people/katie-fletcher
     type: evidences
     claim: "The archive is the only contemporaneous record of that relationship in the corpus — six posts across 21-31 August 2013, a handle (@katie_efff), a geotagged afternoon and a Vine from inside the Oddball show — against a page that said everything known about her came from Dan's later AI narration."
+  - page: wiki/mind/synthesis/twitter-2024-cognitive-state
+    type: contains
+    claim: "The hub files the adversarial-historian reading of the 2024 corpus alongside the year pages it interprets: the 258 originals of 2024 read as adversarial reality-testing - model, stress-test, historicize, compress, provoke, revise - rather than merely a list of opinions."
 ---
 # Twitter / X Activity (@danfrank)
 

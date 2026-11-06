@@ -4,8 +4,9 @@ page_type: entity
 status: stable
 tier: major
 date_created: 2026-07-16
-date_modified: 2026-10-06
+date_modified: 2026-11-06
 changelog:
+  - "2026-11-06: Jev backlink pass scoped to twitter articles (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 twitter wave (Command #3)."
   - "2026-10-06: Expanded to major tier (3,000+ body words) and restructured to canonical article template v1. Recovered text of parts 2/3 of the 18 July 2022 thread added from the 2026-09-02 backfill (superseding the page's stale gap note); 2022 radicalization-account timing contradiction and the 2021-10-26 free-speech-shift correction moved intact into 'Conflicts in the record'. No facts deleted."
 sources:
   - "raw/self/youtube-watch-history/YOUTUBE WATCH HISTORY (2010-2025).html — ⚠ Source reference unresolved — original target no longer exists in current corpus."
@@ -62,6 +63,9 @@ connections:
   - page: wiki/mind/synthesis/twitter-2021
     type: contradicts
     claim: "The move away from comedy free-speech absolutism is dated five months earlier than this page states: 'Lenny Bruce was arrested...not by the public, but by the state. Dave Chappelle is facing criticism which is, I'm told, different.' (2021-10-26), against the Louis CK defence of 2019-01-16."
+  - page: wiki/mind/synthesis/twitter-2019
+    type: evidenced-by
+    claim: "The break section's stage one is dated by the 2019 Twitter record: on 16 January 2019 Dan was still fully inside the old free-speech position (the Louis CK joke-shaming post), and this page dates his move away from that position to the thirty-three months that follow, before the 26 October 2021 stage."
 ---
 
 # Opie & Anthony / Shock Radio

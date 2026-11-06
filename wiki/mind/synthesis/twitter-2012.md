@@ -4,7 +4,7 @@ page_type: period
 status: stable
 layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-26
+date_modified: 2026-11-06
 knowledge: mixed
 date_range_start: 2012-01-01
 date_range_end: 2012-12-27
@@ -44,7 +44,11 @@ connections:
   - page: wiki/mind/synthesis/twitter-2024-cognitive-state
     type: evidences
     claim: 'Election-night coverage read as a product managed for audience retention — "I refuse to believe that tonight''s earlier results were as close as we were told. Need to keep it tight for ratings." (2012-11-07) — twelve years before the 2024 corpus runs the same analysis at length.'
+  - page: wiki/interests/video-games
+    type: evidences
+    claim: "The November 2012 Halo 4 sequence corroborates the video-games page's hardware finding from inside the year: the 'open tray' error on 8 November, the six-year-old console, and a new Xbox bought within two days rather than waiting."
 changelog:
+  - "2026-11-06: Jev backlink pass scoped to twitter articles (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 twitter wave (Command #3)."
   - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

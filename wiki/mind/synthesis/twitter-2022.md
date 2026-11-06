@@ -4,7 +4,7 @@ page_type: period
 status: stable
 layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-26
+date_modified: 2026-11-06
 knowledge: mixed
 date_range_start: 2022-01-20
 date_range_end: 2022-12-27
@@ -32,7 +32,11 @@ connections:
   - page: wiki/mind/synthesis/failure-to-launch
     type: evidences
     claim: 'He is waiting tables at thirty-three and the fact arrives in a subordinate clause inside an anecdote about how good a customer''s conversation was — the same posture toward employment the 2016 page names, six years and two jobs later.'
+  - page: wiki/mind/synthesis/vertical-authority-skepticism
+    type: evidences
+    claim: "The Paul Pelosi sequence (29 October-2 November 2022) is the costly case for the skepticism page: he refused the official account for a week while narrating the cost himself - 'the only person not buying the Paul pelosi story who isn't a groyper maga shitlord'. This page adds what it cost him, in his own words."
 changelog:
+  - "2026-11-06: Jev backlink pass scoped to twitter articles (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 twitter wave (Command #3)."
   - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

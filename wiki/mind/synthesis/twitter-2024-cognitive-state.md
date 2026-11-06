@@ -4,7 +4,7 @@ page_type: synthesis
 status: stable
 layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-26
+date_modified: 2026-11-06
 date_range_start: 2024-01-01
 date_range_end: 2024-12-31
 title: "2024 Twitter / X Cognitive State — Adversarial Historian"
@@ -31,7 +31,11 @@ connections:
   - page: wiki/mind/synthesis/twitter-2012
     type: evidenced-by
     claim: "The reading of coverage as a product managed for retention is running twelve years early: 'I refuse to believe that tonight's earlier results were as close as we were told. Need to keep it tight for ratings.' (2012-11-07), on election night, at twenty-three."
+  - page: wiki/self/twitter
+    type: component-of
+    claim: "This synthesis is a component reading filed under the hub's @danfrank record: it interprets the 2024 original-tweet corpus the hub files, as behavioral evidence set within the account's full 2008-2026 run."
 changelog:
+  - "2026-11-06: Jev backlink pass scoped to twitter articles (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 twitter wave (Command #3)."
   - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

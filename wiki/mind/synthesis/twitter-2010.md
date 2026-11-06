@@ -4,7 +4,7 @@ page_type: period
 status: stable
 layer: interpreted/synthesis
 date_created: 2026-09-02
-date_modified: 2026-10-26
+date_modified: 2026-11-06
 knowledge: derived
 date_range_start: 2010-01-18
 date_range_end: 2010-12-31
@@ -56,7 +56,11 @@ connections:
   - page: wiki/people/eric-jester
     type: evidences
     claim: "Two 2010 posts hold the friendship at full volume seven years before the message thread begins — a church joke at his expense in August, and a shared Office in-joke in March that neither man explains because neither has to."
+  - page: wiki/mind/synthesis/millennial-digital-witness
+    type: challenges
+    claim: "This page's 2010 evidence challenges the dating on the witness page: 'learning to warp in ableton' (27 March 2010) and a published dubstep mix (14 September 2010) show the guitar-to-bass migration already underway in 2010, so the 2012-2014 likes data may date when one vocabulary displaced the other, not when the second one started."
 changelog:
+  - "2026-11-06: Jev backlink pass scoped to twitter articles (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 twitter wave (Command #3)."
   - "2026-10-26: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
