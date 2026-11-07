@@ -1,13 +1,11 @@
 ---
 domain: mind
 page_type: synthesis
-layer: interpreted/synthesis
 title: "High-Provision, Low-Condolence"
-tier: major
 status: active
 knowledge: earned
 date_created: 2026-09-10
-date_modified: 2026-10-17
+date_modified: 2026-11-06
 synthesizes:
   - wiki/mind/profile/big-five-psychometrics
   - wiki/mind/synthesis/estate-money-spine
@@ -32,36 +30,17 @@ connections:
     type: instance-of
     claim: "The maternal register: give-and-invoice — permanently available, and the availability gets itemized."
   - { target: "[[wiki/mind/synthesis/block-unblock-loop]]", type: references, claim: "The provision/condolence split and the severance-declaration loop are one non-deleting architecture on two registers — affection arrives as countable provision, exits are performed rather than enacted — so this page's live prediction and that page's 129-episode rule describe the same refusal to delete." }
-  - page: wiki/mind/synthesis/provision-grammar
-    type: operationalized-by
-    claim: "Provision-grammar is this rule's per-transfer operationalization: what each transfer says, how the denominations ladder scales it, and how the ledger half differs by channel."
-  - page: wiki/mind/synthesis/provision-failure-modes
-    type: bounded-by
-  - page: wiki/mind/synthesis/libby-era-engagement-verdict
-    type: evidenced-by
-    claim: "High-provision-low-condolence's 1.79-2.49x instrumental generosity against 0.45x sympathy is evidenced by the Libby era's 137 messages offering food, groceries, money, medicine, and help while day-asking almost never appears in writing."
-    claim: "The failure-modes page bounds this rule: it catalogues the transfers where the expected provision move fails, each visible only against this page's base rate of 1.79–2.49x instrumental generosity against 0.45x sympathy."
-  - page: wiki/mind/synthesis/severance-2026-synthesis
-    type: cites
-    claim: "That page's designed-experiment framing gave this entry's prediction its live 2026 test window: the 120-day severance horizon to December 19, 2026 was voided — there was no severance to measure — so the prediction survives while its experiment does not."
-  - page: wiki/mind/synthesis/severance-declarations
-    type: cites
-    claim: "That page voided this rule's 120-day severance-horizon live window to December 19, 2026 — no severance to measure (dat:0090) — and took the void as its exhibit A for what the declaration costs observers: sixteen days of wiki analysis built on a non-event."
-changelog:
-  - "2026-10-05: Restructured to canonical template v1"
-  - "2026-10-17: Declared framework-v2 layer (interpreted/synthesis); added 2 reciprocal cluster-hub edges (severance-2026-synthesis, severance-declarations)."
 ---
 
 # High-Provision, Low-Condolence
 
-_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
+> **RE-CHECKED [2026-11-06]:** flagged stale against [[wiki/people/suzanne-frank]] (2026-11-06 rewrite). Re-read with one boundary gained: the rewrite keeps every provision episode this page cites, but re-reads provision on the Suz page as the *form her staying takes* — extended first, argued about after — rather than as a freestanding pattern. That ranking is compatible with this synthesis and sharpens it: in the maternal register, the provision grammar is downstream of the never-lose-contact principle (her letter, 8 July 2019). **Conclusion survives, with that boundary recorded.**
 
 The corpus-audited form of his affection is instrumental generosity at 1.79–2.49x baseline against affective sympathy at 0.45x — in the page's own words, "He is not low-warmth. He is high-provision and low-condolence." The money trail instantiates it across every major bond: care arrives as something countable.
 
 The rule, stated plainly: in any bond he values, provision (money, logistics, drafted instruments) precedes or substitutes for verbal consolation — and significant transfers are later invoked or itemized. The ledger half of the rule is as load-bearing as the provision half.
 
 ## The members against the rule
-
 
 | Member | What it contributes |
 |---|---|
@@ -73,7 +52,6 @@ The rule, stated plainly: in any bond he values, provision (money, logistics, dr
 
 ## Controls and counterexamples
 
-
 The three demand letters drafted for [[wiki/people/libby|Libby Titus]]'s unpaid wages widen the rule beyond cash: provision as drafted instruments, not money. The rule is about the register, not the currency.
 
 The honest controls the corpus does not yet supply: a documented crisis in which he produces sustained consolation language with no provision offer (breaks the provision half), or a significant no-strings transfer that is never later invoked or itemized (breaks the ledger half). Either would be carried here, not absorbed.
@@ -82,43 +60,20 @@ Framing, not evidence: his axiom — "love that doesn't cost everything isn't re
 
 ## Mechanism, labeled
 
-
 Fe-inferior at 10% valuing — the function that would produce graded relational sympathy is near-absent, which is the trait-level shape of the 0.45x sympathy-token rate. This is the same two-function account already established on [[wiki/mind/synthesis/block-unblock-loop]]'s intp edge (Si-tertiary's non-pruning archive; Fe-inferior "exhaustible" under repeated cycles), run here on the affection register. Confidence: medium-high — the link is inferential, but both components are measured. This page is the one the 2026-08-28 constitution-pass failure was written about — a rule about how his affection reads, built without reaching for the profile layer. It is now built with it.
 
 > **Profile-layer update [2026-09-13]:** the [[wiki/mind/profile/big-five-psychometrics]] rebuild reclassifies this page's founding measurement. The audit's Altruism-1 inversion (1.79–2.49× instrumental vs. 0.45× affective) stands as the mechanism, and the old standing gloss — 'low sociability/low trust/low altruism as architecture, not deficit' — was superseded on the psychometrics page: Altruism 1 is not there to read. The provision half of the split is now the page's load-bearing trait evidence; nothing in this page's conclusions changes, but its profile citation is the split, not the score.
 
 ## Prediction
 
-
 In the next crisis involving someone he values, provision will precede or substitute for verbal consolation in the message record. Falsifiers: a documented crisis with sustained consolation language and no provision offer; a significant no-strings transfer never later invoked or itemized. Live window: the 120-day severance horizon to December 19, 2026. **[SUPERSEDED 2026-09-11:** the severance-horizon test is void — see [[wiki/mind/synthesis/august-26-block-retraction]]. Dan confirmed verbatim "there was never a block"; ~25 block/severance declarations Aug 15–19, none executed; daily two-way texting continued Aug 27–Sep 7. There was no severance to measure, so the December 19, 2026 horizon named here no longer exists. The prediction above survives; its test does not.**]**
 
-## See also
-
-- [[wiki/mind/profile/big-five-psychometrics]]
-- [[wiki/mind/synthesis/estate-money-spine]]
-- [[wiki/people/annie-ulmer]]
-- [[wiki/people/ally-lubin]]
-- [[wiki/people/suzanne-frank]]
-- [[wiki/mind/synthesis/provision-grammar]]
-- [[wiki/mind/synthesis/provision-failure-modes]]
-- [[wiki/mind/synthesis/libby-era-engagement-verdict]]
-
-## References
-
-- wiki/mind/profile/big-five-psychometrics
-- wiki/mind/synthesis/estate-money-spine
-- wiki/people/annie-ulmer
-- wiki/people/ally-lubin
-- wiki/people/suzanne-frank
-
-### Gaps
-
+## Gaps
 
 - The $2,100 figure cannot be settled without 2019 Cash App exports; the Suz $14,000 lacks raw/ provenance.
 - No test yet against a future crisis — the severance horizon is the live window. **[SUPERSEDED 2026-09-11:** the horizon is void — [[wiki/mind/synthesis/august-26-block-retraction]]. The gap that remains is a test against a future crisis with no horizon attached.**]**
 - Origin of the provision register (register 8): the [[wiki/people/fran-coldren|Fran]] caregiving years 2017–18 are a candidate source, but the corpus does not presently say so — speculative, recorded as a gap rather than a claim.
 
-### Constitution pass (2026-09-10)
-
+## Constitution pass (2026-09-10)
 
 Eleven registers checked. Moved the conclusion: (1)/(2) the Fe-inferior mechanism under the low-condolence half — the missing piece the 2026-08-28 failure named; (10)/(11) the axiom explicitly demoted from evidence to framing. Checked and left standing: (3) the [[wiki/people/fran-coldren|Fran]] 2020 distribution as precedent for provision-without-asset; (5) the $144K arrival enabling the outflow scale, and the unsettled Morgantown housing as the live test environment; (7) the three bonds as the instantiating cases; (12) the [[wiki/people/libby|Libby Titus]] demand letters widening provision beyond cash. Checked, no bearing: (4) attitudes and forces beyond the money spine, (6) health, (9) cultural markers. The corpus cannot presently speak to: (8) the origin of the provision register — recorded as a Gap above.

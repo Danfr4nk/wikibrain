@@ -1,0 +1,164 @@
+---
+domain: timeline
+page_type: event
+title: "The November 2005 Rupture"
+aliases: ["November 2005 parental rupture", "the 2005 rupture", "the hinge event"]
+status: stable
+importance: critical
+knowledge: thin
+date_created: 2026-09-24
+date_modified: 2026-09-24
+date_range: ["2005-11-01", "2005-11-30"]
+tags: [family, uniontown-era, trauma, divorce, hinge-event]
+sources:
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - corpus-extract/agent-D-mind-health-timeline.md
+  - corpus-extract/agent-A-identity-self.md
+  - corpus/user/files/corpus__3.txt (lines 6540-6570, 6845-6870, 6990-7010)
+  - memory/people/rick-frank.md
+  - memory/people/suzanne-frank.md
+changelog:
+  - date: 2026-09-24
+    note: "Created as the thin-record event entry for the hinge event. The axiom-level audit lives at wiki/mind/synthesis/november-2005-hinge.md; this page is the event record: what is claimed, what the corpus holds, what it cannot."
+---
+
+# The November 2005 Rupture
+
+In November 2005 — the month Daniel Gillingham Frank turned seventeen — his father entered rehab for cocaine and his mother began an affair with the family dealer. The twenty-year marriage ended. Dan names this the hinge event of his life: the single month after which everything is dated. That framing is his, stated with certainty, and it is the most load-bearing sentence in his psychological record. This page is the event entry — what the month is said to contain, who was in the house, what the corpus actually holds of it, and the limits stated at full strength. The audit of what was built *on top* of the rupture — the four axioms it is said to have installed, the lexical test that could not corroborate them, the six-week summer-2026 consolidation that turned a twenty-one-year-old memory into the wiki's first cause — lives at [[wiki/mind/synthesis/november-2005-hinge]]. That page is this page's sibling and its necessary companion. Do not read one without the other.
+
+**The epistemic status, up front:** every clause of the event account below is retrospective testimony, carried by Dan alone. There is no contemporaneous record of the rupture anywhere in the corpus — no message, no docket, no intake record, no parent-side account. The message corpus opens in 2011; the tweet archive in 2009; Suz's own archive in 2013; the earliest Suz↔Dan correspondence is a 2010 Gmail-SMS batch. Nothing dated 2005–2006 survives except concert dates and later retellings. Per the wiki's own [[wiki/meta/testimony-veracity|veracity ledger]], claims Dan states with certainty are worth ~0.25 on calibration — and this event was never separately ledgered, which is itself a finding about the wiki's habits: the most-cited event in the psychological record never received the claim-by-claim adjudication that a December 2015 cocaine spend did. Nothing here is asserted beyond that. Where confidence can be pinned to a record, it is. Everywhere else, the labels do the work.
+
+## The event as stated
+
+The canonical account, assembled from the dossier layer (`CATO_BOOTLOADER_DANFRANK.md`, `CONTEXT_CORE_EXPANDED.md`, and the reconstructions that cite them), runs as follows. **[OPERATOR]** throughout — every sentence below is Dan's retrospective testimony, uncorroborated.
+
+Rick Frank disclosed that he was entering rehab for cocaine — effective 6 AM the next morning — on the drive home from Dan's learner's-permit appointment. The disclosure was the household's first-ever drug conversation. This carries a weight the tellings always preserve: a seventeen-year-old who had known since age thirteen that his parents used cocaine had never once heard either parent name it out loud until the day one of them announced he was leaving to be treated for it. Dan's permit was delayed a month as a consequence of the disclosure's timing.
+
+While Rick was in rehab, Suzanne began an affair with the family's cocaine dealer — the same supply line both parents had been using. The marriage, begun 31 August 1985 **[ATTESTED — family record, repeated across both parents' pages]**, ended in the rupture's wake. The wiki's standing formulation is "separated after the November 2005 rupture," with divorce following; no filing date, decree date, or docket appears anywhere in the corpus **[UNKNOWN — checkable via Fayette County records; untested]**.
+
+That same winter, Rick was diagnosed with stage-4 throat cancer, underwent experimental radiation at UPMC, and survived — compressing into a single season a father's addiction disclosure, a mother's infidelity with the addiction's supplier, the end of a twenty-year marriage, and a potentially terminal diagnosis survived **[OPERATOR — no medical record in the corpus; the diagnosis and treatment exist only in his account]**.
+
+Two structural features deserve naming before anything is built on the account. First, **both parental verticals are revealed to be running concealed realities simultaneously** — the father concealing the addiction's severity until the 6 AM deadline forced disclosure, the mother concealing the affair until it surfaced during the treatment window. The symmetry is the point: not one parent's failure but the household's whole epistemic structure collapsing at once. This is why the rupture became a *template* rather than an incident in Dan's telling — "a trusted figure maintaining a concealed alternate reality" — and why [[wiki/mind/synthesis/vertical-authority-skepticism]] treats it as the standard origin for his vertical distrust. Second, **the disclosure's staging is part of the story's meaning** — a seventeen-year-old's milestone drive (the permit, the car, the father performing the normal parental function) converted mid-ride into the announcement that the normal was over. Whether the car is doing mnemonic work (a real detail that anchored the memory) or literary work (a detail the retellings selected for its symmetry) is not determinable from inside the testimony. The story's stability across retellings — the car, the permit, 6 AM — measures consolidation, not accuracy. That distinction is load-bearing for everything downstream.
+
+One wording from the corpus deserves preservation. The agent extracts render the maternal half as "mother's affair with the dealer *surfaced*" — surfaced, not began. The testimony does not date the affair's onset to the rehab window; it dates its *discovery* there, or at minimum its becoming-known. The distinction matters: the account as stated leaves open whether the affair predated Rick's admission, which would re-describe the sequence from "rehab caused the affair" to "two concealments detonating in the same window." The wiki has never pursued the question. It sits in the appendix.
+
+## The family frame
+
+The rupture is a family event before it is a psychological one, and the house it happened in had a shape worth holding.
+
+**The marriage.** Richard Harrison Frank (b. 1959) **[ATTESTED — family record]** and Suzanne Frank (b. 15 September 1962) **[ATTESTED]** married 31 August 1985. He was tied to Frank's Auto Supermarket in Uniontown — the family business, founded 1938 per its own claim, five stores across western Pennsylvania; PitchBook lists the company as acquired by O'Reilly Automotive at an unknown date, so the corpus's framing of Rick's role there may be stale **[DERIVED — 2026-09-11 research, corroboration pending]**. She was and remains a licensed Pennsylvania realtor (Park Place Realty Group, Uniontown). Two children: Daniel (b. 1 November 1988) **[ATTESTED]** and Vanessa (b. 16 January 1994) **[ATTESTED]**. Twenty years of marriage, then November 2005.
+
+**The house.** The family lived at [[wiki/places/337-saratoga-drive|337 Saratoga Drive]] in Uniontown — Dan's childhood home, held until Suz sold it for $465,000 in June 2026 under a court drop-dead provision from her October 2024 Chapter 13 **[ATTESTED — sale record]**. The rupture happened inside that house's walls: the boy who heard the disclosure in the car slept that night, and the nights after, in the bedroom of the house that would be sold twenty-one years later to settle his mother's bankruptcy. The house is not incidental set dressing. It is the rupture's location, and its eventual sale closes the property arc the rupture opened.
+
+**The third generation in the room.** Vanessa was eleven when the marriage ended — the rupture's only other in-house narrator, and she has not narrated it **[DERIVED — the hinge page's "connections" note; her account is unrecorded anywhere in the corpus]**. Whatever the eleven-year-old saw, heard, or was told is absent from the record. That absence is not neutral: it means the entire event, as the wiki holds it, is a seventeen-year-old's memory carried by the same man thirty-eight years old, with no second witness from inside the house. The wiki's treatment of the rupture as settled fact is therefore a treatment of *one* testimony as settled — a point the limits section returns to.
+
+**The maternal line above the rupture.** The Frank household did not raise Dan alone. His great-grandmother Fran Coldren (1920–2018) — Suzanne's grandmother — was, in both Dan's and Suz's words, the guiding force of their lives: Suz names Fran "the one and only guiding force in my life," and Dan names her his biggest life influence **[ATTESTED — both stated, independently]**. Dan was co-raised by Fran alongside his mother; two decades later he would be her full-time caregiver at $15/hour for the six months before her death **[ATTESTED — message-corpus record]**. This matters for the rupture in a specific way: the generation-skipping attachment was already the family's load-bearing structure *before* November 2005. The parents' marriage was not the only vertical in the house — the grandmother line ran underneath it, and it held. The rupture detonated the marriage; it did not detonate the family, because the family had a second foundation, and Dan knew it. When this entry later traces the Fran anchor through the aftermath, that continuity is the point: the hinge story is usually told as total collapse, and the record shows a collapse with a floor.
+
+The maternal line also carries its own fracture, worth one sentence for the frame: Diane Moore, Suz's mother and Fran's only child, barred Dan from Fran's house during the 2018 death vigil **[ATTESTED — corpus record]**. The mother-daughter-grandmother triangle was never simple. The rupture did not create the maternal line's tensions; it happened inside them.
+
+**The continuous witness.** [[wiki/people/danielle-onesi|Danielle Onesi]] — Dan's first girlfriend, her relationship with him beginning around 2005 **[OPERATOR — dating untested]**, now Suz's closest friend — is the hinge's continuous civilian witness: present before, during, and after the rupture, still in the picture two decades on. She has not been asked about it on the record. Neither has anyone else outside Dan.
+
+## What the record actually holds
+
+This section is the entry's load-bearing negative finding. **There is no contemporaneous record of the November 2005 rupture in the corpus, and barely any contemporaneous record of Dan's life in 2005–2006 at all.** A corpus search for `2005`, `rehab`, `dealer`, `affair`, `rupture`, and `november` (run 2026-09-24 against the corpus index and the full corpus text) returned, on the rupture itself:
+
+- **Agent extract A (identity/self):** one line — parental rupture Nov 2005, "father entered rehab for cocaine, mother's affair with the dealer surfaced — template: 'a trusted figure maintaining a concealed alternate reality.'" Retrospective, dossier-layer.
+- **Agent extract D (mind/health/timeline):** three lines — Rick's cocaine rehab Nov 2005; the rupture as "Rick's cocaine-rehab admission + Suzanne's affair with the family cocaine dealer; marriage ends"; "the hinge event of his life." Retrospective.
+- **Health/cocaine genesis (corpus lines ~6552–6570, ~6853–6870, ~6990–7010):** the pre-history (2001 discovery, first use 2005–2006) and the family-context framing ("the November 2005 divorce sits at the center"). Retrospective self-audit.
+- **The hinge synthesis page** ([[wiki/mind/synthesis/november-2005-hinge]]): the full audit, itself built on the same dossier material.
+- **Twenty-two wiki pages** citing "November 2005" as origin or anchor — all downstream of the testimony, most written in the summer-2026 consolidation.
+
+What returned nothing:
+
+- **No message, email, or social post dated 2005–2006** touching the parents' marriage, the rehab, the affair, or the separation. The corpus opens years later.
+- **No parent-side account.** Rick's version of 2005 is unrecorded; Suz's version of 2005 is unrecorded — her page still carries "her account of the 2005 rupture" as an open question.
+- **No institutional residue.** No rehab intake or discharge record, no divorce filing or decree, no school record, no medical record for the throat-cancer diagnosis or the UPMC radiation.
+- **No dealer identity.** No name, no description, no subsequent mention. The single most structurally important third party in the rupture — the man who supplied both parents and slept with the mother — is a blank. Whether Dan ever knew his name is itself unknown.
+- **No Vanessa account.** The eleven-year-old in the house has not narrated it.
+- **Post-rupture schooling, settled 2026-09-24.** The documented post-rupture schooling is Full Sail (Recording Arts; departed September 2008, graduated September 2009) **[ATTESTED — corpus record]**, preceded by a few semesters at Penn State Fayette's Eberly campus **[OPERATOR testimony, 2026-09-24]**. An earlier version of this wiki carried a Duquesne University enrollment — a brainstorm item commissioned without premise-checking, retracted the night it shipped when the operator confirmed he never attended. The Duquesne entry has been deleted; the standing lesson is recorded in the full-sail entry's limits appendix: a commission is not corroboration.
+
+The thinness has a shape: what survives from 2005–2006 is the *leisure* record (concert dates — Warped Tour, Coldplay, Green Day/My Chemical Romance, Saosin at Charleroi VFW, all reconstructed from stubs and archives) and none of the *domestic* record. That is the expected shape of a seventeen-year-old's archivable life — ticket stubs keep, kitchen-table conversations don't. But it means the rupture is documented exclusively in the register of a man in his thirties telling the story of what happened to him at seventeen, with all the selection, compression, and meaning-making that register entails.
+
+## Dating the hinge, and the tensions inside the telling
+
+Dan's date of birth is 1 November 1988 **[ATTESTED]**. November 2005 puts him at seventeen, weeks past his birthday — a junior in high school, the wiki's standing frame. The derivation is clean. The scaffolding around it is not.
+
+**The permit problem.** Pennsylvania issues learner's permits at sixteen. Dan turned sixteen on 1 November 2004 — a full year before the hinge month. The account says the permit was "delayed a month" by the disclosure, which accounts for roughly thirty days of lateness, not twelve months. A seventeen-year-old getting a learner's permit in November 2005 is either a year late for reasons the account does not supply, or the permit trip happened earlier and the disclosure has been displaced onto it, or the "delayed a month" line is itself the displaced fragment of a longer delay **[DISPUTED — internal to the testimony; untested against records]**. Any of the three readings leaves the core event (rehab disclosure, affair, separation) intact; what moves is the staging, and the staging is load-bearing for the story's emotional logic — the milestone drive converted mid-ride. Per the wiki's own reliability note, Dan's testimony skews toward good-faith date displacement rather than dishonesty; this is exactly the shape displacement takes. A PennDOT records pull would settle the permit date in one query. No one has run it.
+
+**The month's own confidence.** "November" is Dan's dating **[OPERATOR]**; no document independently fixes the rehab admission, the affair's onset, or the separation to November rather than October or December. One corpus source — the phenomenology lens — dates the parental rupture to "2004–2005," a wider and vaguer window **[DERIVED — dossier-layer, lower specificity]**. The wiki carries the month as settled because Dan states it as settled, and Dan states it with the confidence band the veracity ledger prices at 0.25 actual. The honest rendering: the month is the best available dating and the only one on offer, held at testimony-grade.
+
+**The first-use tension.** The corpus carries two datings for Dan's first cocaine use, and they do not agree. The chemical-architecture genesis — the more granular, later self-audit — dates it to 17–18 (2005–2006), in the [[wiki/places/seven-springs|Seven Springs]] ski-crew context **[OPERATOR, but arithmetically consistent with DOB]**. The hinge synthesis page carries "2004" as the first-use date, "a full year *before*" the rupture **[OPERATOR, from the earlier dossier layer]**. The two cannot both be right, and the difference matters: the 2004 dating makes the son's use precede the rupture by a year; the 2005–2006 dating makes it roughly contemporaneous with or just after it. The later, more granular audit (2005–2006) is the better-anchored of the two — it is DOB-consistent and embedded in a phased history that adds real dated detail elsewhere — but neither is corroborated. This entry carries the 2005–2006 dating in the pre-history section and marks the 2004 alternative here as the unresolved internal tension. Either way, the hinge did not introduce the substance; at most it introduced the meaning. That conclusion survives both datings.
+
+## The pre-history the hinge cannot contain
+
+The hinge is usually told as the moment the drugs entered the story. The corpus will not sustain that telling, and the complication is documented in Dan's own retrospective accounts — testimony against testimony, the most honest kind of contradiction this entry holds.
+
+**2001 — the discovery.** Cocaine entered the household as a known concept when Dan was thirteen, via the discovery of his parents' own use **[OPERATOR]**. The substance later implicated in the rupture was "already a familiar, 'adult' behavior in the house years before that hinge event." Four years of normalization precede the rupture. A thirteen-year-old learns his parents use cocaine; nothing explodes; life continues. Whatever the hinge later meant, it did not mean *drugs exist*.
+
+**2005–2006 — first use.** His own first cocaine use, in the Seven Springs ski-crew context, retrospectively framed as instrumental as much as social: "cocaine as a chemical means of weight control tied to the adolescent bulimia," alongside its value as subcultural credential inside the ski/band scene **[OPERATOR]**. (The competing 2004 dating is marked in the section above.)
+
+**Summer 2005 — DXM.** The summer before the rupture is documented as "the hinge between the household-cocaine normalization Dan names retrospectively and the opiate arc that begins within two years" — the same summer he first used DXM deliberately as a consciousness-altering tool rather than a casual experiment **[OPERATOR]**. The deliberate psychonautics predate the rupture by months.
+
+Hold those against the hinge story and the causal arrow bends. The rupture cannot be the origin of Dan's relationship to cocaine — the relationship predates it in knowledge by four years and in use by months to a year. What the rupture *can* be the origin of is the relationship's *meaning*: the conversion of a normalized household substance into the instrument of the family's detonation. Before November 2005, cocaine was a thing the parents did and then the son did; after, it was the thing that took the father to rehab and gave the mother to the dealer. The hinge didn't introduce the chemical. It introduced the moral.
+
+There is a further implication the wiki has mostly left undrawn. If the substance was normalized for four years before the rupture, then the rupture's shock cannot have been *that drugs were happening* — it must have been *that the arrangement was a lie*: the father's severity concealed until 6 AM, the mother's affair concealed until surfacing. The hinge's actual content, on the evidence, is not pharmacological at all — it is **epistemic**. Both verticals running concealed realities. The concealment is the event; the cocaine is the medium it ran on. This is why the vertical-distrust reading is the hinge's most defensible heir, and why the chemical-architecture pages are right to treat 2005 as complication rather than genesis.
+
+## The downstream arcs
+
+A hinge event earns the name by what radiates from it. The rupture's radiating arcs are the one place where the entry can write at length without padding, because these are dated, documented, and real — even where their *causal* connection to 2005 is testimony-grade.
+
+**The dark era, 2007–2008.** The two years between the rupture and the September 2008 departure for Full Sail are the period page's "when the chemical architecture that has run continuously since actually began" **[ATTESTED as periodization; OPERATOR for contents]**. At 18–19, "in the direct aftermath of his father's rehab admission and his parents' divorce," Dan moved from the household-normalized cocaine to opiates — Roxicet, then oxycodone; five months from first use to addiction. A November 2007 trip to Las Vegas for his nineteenth birthday — taken with Rick — is named as the point physical opiate dependence became undeniable **[OPERATOR]**. He tried heroin once that winter and rejected it on aesthetic grounds ("felt dirty"). Alongside the opiate onset: a documented eating disorder, adolescent bulimia, with the 2005–2006 cocaine use retrospectively framed as partly a weight-control tool — the eating disorder and the early drug use "not separate threads but serving overlapping functions from the start" **[OPERATOR]**. The period page's synthesis line is the hinge's strongest causal sentence anywhere in the wiki: "Two coping mechanisms — a chemical one and a body-control one — both trace to the same hinge point: the collapse of the family's stable narrative in November 2005." This is the documentable product of the rupture: not axioms of cognition, but two technologies of the body. One of them — Suboxone, day-zero 17 February 2010 — has run unbroken for over sixteen years **[ATTESTED — corpus record]**. The other's resolution, if any, is undocumented.
+
+**The school arc.** The rupture's aftermath runs through schooling in a straight line: the dark era, a few semesters at Penn State Fayette's Eberly campus **[OPERATOR, 2026-09-24]**, then the September 2008 departure for Full Sail's Recording Arts program, graduated September 2009, top 5%, Pro Tools HD certified **[ATTESTED]**.
+
+**The NYC trajectory.** The hinge "launched the NYC trajectory" in the wiki's standing account — the first NYC era (2010–2013) as the rupture's long arc: the kid from the detonated Uniontown household building a life in the city, the trap era, the return. [[wiki/timeline/periods/nyc-first-era-2010-2013]] is carried here as a redlink — the period page does not yet exist in the repo, and this entry does not invent its contents. The causal claim itself (rupture → NYC exit as escape/formation) is **[INFERRED]** — it is the wiki's gloss, plausible, untested against any statement of motive Dan made at the time, because no such statement survives. Rick drove Dan to Brooklyn in 2010 **[ATTESTED — corpus record]**, a small, concrete, documented fact inside the large untested claim: the father who disclosed in the car in 2005 drove the son to the city in 2010. The hinge's second car ride, five years later, in the other direction.
+
+**The Fran anchor.** Through the rupture and everything after, the grandmother line held. Dan was co-raised by Fran; in 2017–18 he became her full-time caregiver ($15/hr, six months, alongside Annie) through her death on 4 April 2018 **[ATTESTED]**. [[wiki/people/fran-coldren-caregiver-years]] is carried here as a redlink — the dedicated caregiver-years page does not yet exist; the full record lives at [[wiki/people/fran-coldren]] and the vigil entry. The point for this entry is structural: the rupture is told as total collapse, and the Fran continuity is the evidence it wasn't. The parents' marriage ended; the generation-skipping attachment — the one both mother and son name as their guiding force — carried straight through. Any account of what November 2005 destroyed has to reckon with what it didn't.
+
+**The parental divergence.** After the rupture, the two parents took opposite trajectories in Dan's life, and the contrast is one of the corpus's most measured findings. Rick withdrew to low-frequency contact — the inverse of Suz — with real repair episodes in 2020 and 2023–24, then Dan's one-sided silence from February 2025, broken 1 September 2026 at Ally Lubin's urging, a dinner arranged for the next day, completion unconfirmed **[ATTESTED — message-corpus record]**. Suz became the constant pole: the second-largest correspondence in the corpus (33,698 messages against ~2,000 with his father), permanently available, the "give-and-invoice" financial pattern, $14,000 to Dan in 2018, and — the detail that keeps the rupture's substance inside the present — her long-documented role as the family's internal cocaine provision node, from 2015's before-dawn lines to the 2026-09-21 coffee-for-a-line exchange **[ATTESTED — corpus record]**. The woman whose affair with the dealer ended the marriage became, over the following decade, her son's steadiest supplier and steadiest correspondent. The wiki does not resolve that irony; it records it.
+
+**The 2026 coda.** Twenty-one years after the rupture, the father-son channel reopened. Dan broke an eighteen-month silence on 1 September 2026 — his first message to Rick since February 2025 — acting on Ally's standing push to re-engage. A dinner was arranged for 2 September; whether it happened is unconfirmed, the corpus record ending 7 September. The rupture's longest arc is still open.
+
+## The narrator map
+
+Five people could speak to November 2005 from inside or beside it. The map of who has and hasn't:
+
+- **Rick Frank** — the rehab admission is his event. His account of 2005 is unrecorded anywhere in the corpus. The 1,600-message Dan↔Rick record barely touches 2005. *Could settle: the rehab's timing, facility, and terms; the disclosure scene; the marriage's end from his side.*
+- **Suzanne Frank** — the affair is hers. Her account of the 2005 rupture is the documented gap her page still carries; the contemporaneous record begins in 2015, ten years after. *Could settle: the affair's onset and duration; the dealer's identity; the separation's mechanics.*
+- **Vanessa Frank** — eleven, in the house. Has not narrated it. *Could settle: the child's-eye view — what was said aloud, what was hidden, when the household's feeling changed.*
+- **The dealer** — unnamed, undescribed, unmentioned after the rupture. Whether Dan ever knew his name is unknown. *Could settle: the supply line both parents used; the affair's shape.*
+- **Danielle Onesi** — present before, during, and after; now Suz's closest friend. Has not been asked on the record. *Could settle: the civilian corroboration — what the rupture looked like from outside the house.*
+
+Three institutional pulls would settle the checkable parts in an afternoon: a PennDOT records query (the permit date — testing the staging), a Fayette County docket search (the divorce filing and decree — testing the legal dating), and a rehab intake record (the admission — testing the month). No one has run any of them. The wiki built twenty-two pages of downstream psychology on an event whose three checkable anchors have never been checked. That sentence is not an accusation; it is the thin-record condition, stated plainly.
+
+## Relation to the audit
+
+This entry is the event record. The audit of what the event was made to carry — the four axioms, the lexical test, the consolidation history, the citation-graph measurement — is [[wiki/mind/synthesis/november-2005-hinge]], and nothing here duplicates it. The division of labor is deliberate: *this* page holds what is claimed about November 2005 and what the corpus can and cannot support; *that* page holds what the wiki built on the claim and whether the building stands. The one sentence this entry takes from the audit: the hinge's documentable product is the dark era — two technologies of the body, one still running — not the axioms. The event is real as an event and load-bearing as a narrative. Both can be true. This page exists so the first doesn't get lost inside arguments about the second.
+
+## Limits, stated aggressively
+
+- **Knowledge: thin.** This is the wiki's thinnest critical-importance entry by design. The importance rating reflects the event's structural position in Dan's telling and in the wiki's citation graph, not the depth of the evidence. Importance and evidence are different axes; this entry is where they diverge most sharply.
+- **100% retrospective testimony, 0% contemporaneous residue.** No message, docket, intake record, photograph, or third-party account dated 2005–2006 corroborates any clause of the event account. The corpus opens years later. This does not make the testimony false; it makes it uncorroborated, which is a precisely bounded claim.
+- **Single narrator.** Every clause is Dan's. Rick, Suz, Vanessa, the dealer, and Dee are all silent on the record. The eleven-year-old in the house has not spoken. The wiki's settled telling is one testimony treated as settled.
+- **The veracity pricing applies.** Claims Dan states with certainty are worth ~0.25 on the ledger's calibration. The rupture's clauses were never separately ledgered. The month, the staging, and the affair's shape all arrive at "certain" and should be held at 0.25 until something corroborates them.
+- **No invented detail.** This entry contains no dealer name, no rehab facility, no affair duration, no dialogue, no scene-setting beyond what the testimony supplies — because the corpus supplies none. Any future version that adds such detail must cite the record that supplied it or mark it [INFERRED].
+- **Two redlinks are carried as instructed** — [[wiki/people/fran-coldren-caregiver-years]], [[wiki/timeline/periods/nyc-first-era-2010-2013]] — and both name pages that do not exist in the repo. (A third, Duquesne University, was deleted 2026-09-24 after the operator confirmed he never attended — a brainstorm item shipped without premise-checking; see the record section above.)
+- **Internal tensions are preserved, not resolved.** The permit-date problem, the 2004 vs 2005–2006 first-use dating, the "2004–2005" vs "November 2005" window, the "surfaced" vs "began" affair wording — all are carried above as open. Resolving them is future work with records, not present work with prose.
+- **AI-authored.** This entry was written by the AI, not ghostwritten in Dan's voice. His framing ("the hinge event of his life") is quoted and attributed; the analysis is the wiki's.
+
+## Open questions
+
+1. The PennDOT pull: when was the learner's permit actually issued? (Tests the disclosure staging.)
+2. The Fayette County docket: when was the divorce filed and decreed? (Tests the legal dating.)
+3. The rehab record: which facility, what dates? (Tests the month.)
+4. The affair's onset: did it begin during the rehab window, or surface then? (The corpus's "surfaced" wording leaves this open.)
+5. The dealer's identity: name, description, subsequent history. (The rupture's most structurally important blank.)
+6. Vanessa's account: the eleven-year-old's view, unrecorded.
+7. Suz's account: her page's documented gap.
+8. Rick's account: his side of 2005, unrecorded.
+9. The 2004 vs 2005–2006 first-use dating: which audit is right?
+10. ~~Duquesne: enrollment, attendance, or plan?~~ SETTLED 2026-09-24: he did not attend Duquesne; a few semesters at Penn State Fayette (Eberly campus). The Duquesne entry was deleted and the premise retracted.
+11. Dee's corroboration: the continuous witness, never asked on the record.
+12. The throat-cancer diagnosis and UPMC experimental radiation: any medical residue?
+13. The axioms' worth-half: t011 tested urgency constructions, never worth constructions. (Belongs to the audit page; listed here because the event entry is where the causal claim starts.)

@@ -1,13 +1,11 @@
 ---
 domain: mind
 page_type: dataset
-tier: incidental
 title: "Annual Message Volume: Dan vs. Suz"
 status: active
 knowledge: mixed
-layer: interpreted/synthesis
 date_created: 2026-08-26
-date_modified: 2026-10-22
+date_modified: 2026-11-06
 sources: []
 synthesizes:
   - wiki/people/suzanne-frank
@@ -50,15 +48,11 @@ connections:
     claim: "The per-year volume table on that page is this chart's entire dataset: a fourteen-month reversal at the relationship's 2015-16 opening, then Suz permanently ahead from 2017, widening to roughly two-to-one by the record's end."
   - { target: "[[wiki/mind/synthesis/estate-money-spine]]", type: contextualizes, claim: "The volume asymmetry — Suz permanently ahead from 2017, widening toward ~2:1 — is the communication register of the switchboard concentration the money spine traces in capital: one node carrying flows a diversified system would spread." }
   - { target: "[[wiki/mind/synthesis/attachment-trauma-bond]]", type: contextualizes, claim: "The 2017 hinge and the widening asymmetry are dated residue for the bond page's leverage see-saw — who writes more, when, tracks who holds the exit." }
-changelog:
-  - "2026-10-15: Classified incidental (complete at this size)"
-  - "2026-10-22: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
-> **Incidental entry** — data-exhibit stub: the annual Dan-vs-Suz message-volume comparison — premise re-checked 2026-09-04 with the arithmetic untouched; testimony labeled throughout. Complete at this size.
-
 # Annual Message Volume: Dan vs. Suz
-_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
+
+> **RE-CHECKED [2026-11-06]:** flagged stale against [[wiki/people/suzanne-frank]] (2026-11-06 rewrite). Re-read: the rewrite carries this chart's source table unchanged (2015–2026 series, both directions), and its reversal-and-widening reading is not only preserved but given its interpretation on the Suz page — she writes more because the contact is kept, disproportionately, by her. Two additions do not disturb the series: the 317-row 2010 backfill sits outside the chart's window, and the count-instrument discrepancy the rewrite records concerns the dump's surviving copy, not this series, which is the full-fidelity one. **Conclusion survives unchanged.**
 
 > **RE-CHECKED [2026-09-04] — the premise gained material and the arithmetic is**
 > **untouched.** [[wiki/people/suzanne-frank]] gained a section on six dated

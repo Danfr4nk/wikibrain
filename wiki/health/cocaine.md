@@ -7,7 +7,7 @@ status: active
 importance: high
 knowledge: earned
 date_created: 2026-08-19
-date_modified: 2026-09-24
+date_modified: 2026-11-06
 sources:
   - raw/self/dox-md/ADDICTION_PROFILE.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -94,6 +94,8 @@ changelog:
 ---
 
 # Cocaine
+
+> **RE-CHECKED [2026-11-06]:** flagged stale against [[wiki/people/suzanne-frank]] (2026-11-06 rewrite). Re-read: the rewrite preserves, verbatim, every Suz fact this page reasons from — the 2015–16 routine-source role, the December 2015 two-sided record, the family-rupture placement. The rewrite changes the Suz page's framing (staying, not ledger), adds the 2010 span extension and the February 2024 ankle, and records a count-instrument discrepancy — none of which touches a claim here. **No claim on this page is affected.**
 
 > **RE-CHECKED [2026-08-28]:** flagged stale against
 > [[wiki/health/chemical-architecture]] (2026-08-28), which added the
@@ -510,8 +512,3 @@ better living" reading a bare dosage increase might otherwise invite.
   after) is not on record.
 
 
----
-
-## Note added 2026-10-22 — Hart, *Drug Use for Grown-Ups* (2021), phase-2 book-mine
-
-New datum nodes from Carl L. Hart's *Drug Use for Grown-Ups* (2021), mined 2026-10-22 (source: `src:drug-use-for-grown-ups-hart-2021`), bear on this page as follows. **Supports:** Hart's dose / route / set / setting frame (dat:2095) gives the pharmacology vocabulary for treating dose, route and context as the operative variables, and his crack/powder finding (dat:2099) confirms route and form, not a unique molecule, drive cocaine's intensity differences. **Tension, stated plainly:** this page's dosage arc reads Dan's quantity as finance-driven — 1 g/day to 3.5–7 g/day to 0.5–1 g/day tracking an inheritance, with the contraction a resource adjustment rather than moderation and no internal ceiling stated — and that reading tensions against any reassurance use of Hart's "most users never become addicted" aggregate (dat:2097, written in its honest form: lifetime-ever-user denominator, risk concentrating with frequency, dose and comorbidity) and against extending Hart's laboratory drug-vs-money choice results (dat:2098) from procurement-level control to dose-level titration. The Hart nodes carry that tension in their Limits; nothing on this page is altered by this note, and no Hart claim is presented as Dan's belief.

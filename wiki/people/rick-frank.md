@@ -33,7 +33,7 @@ connections:
     claim: "His 2018-01-06 message is the only place in the corpus that says what Judge Fred Adams was to the family rather than to the estate — 'I'm tired of u treating me or thinking about me like Rod Banks or Fred Adams. U make it a point to keep me out of ur life' — and it dates that resentment to three months before Fran's death and two months before Adams decided she would not be going home."
   - page: wiki/people/suzanne-frank
     type: mirrors
-    claim: "Married 31 August 1985 and separated after the November 2005 rupture, the two parents run inverted versions of one posture: Rick withdraws to low-frequency contact, Suz remains permanently available and itemises the cost — which is why the corpus holds ~2,000 messages with him and 33,698 with her."
+    claim: "Married 31 August 1985 and separated after the November 2005 rupture, the two parents run inverted versions of one posture: Rick withdraws to low-frequency contact, Suz stays permanently available — which is why the corpus holds ~2,000 messages with him and 33,698 with her."
   - page: wiki/legal/2015-possession-arrest
     type: co-occurs
     claim: "The stop happened within sight of his store, and the hearing that closed the case produced the sharpest snapshot of the post-2005 family geometry — Rick assuming he would be unwelcome while Suz played the connected parent."

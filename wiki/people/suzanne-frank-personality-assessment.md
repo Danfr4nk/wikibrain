@@ -6,7 +6,7 @@ aliases: ["Suz MBTI", "Suz Enneagram", "Suz personality type"]
 status: active
 knowledge: earned
 date_created: 2026-08-19
-date_modified: 2026-09-04
+date_modified: 2026-11-06
 importance: high
 tags: [personality-profile, forensic-analysis, ai-collaboration]
 infobox:
@@ -28,6 +28,8 @@ connections:
 ---
 
 # Suzanne Frank — Forensic Personality Assessment
+
+> **RE-CHECKED [2026-11-06]:** flagged stale against [[wiki/people/suzanne-frank]] (2026-11-06 rewrite). Re-read: this assessment is built from behavioural evidence across the message corpus, which the rewrite does not alter; the rewrite's additions (the ankle narrative, the September 2026 household checklist) are consistent with, and if anything further instances of, the conscientiousness-and-duty pattern scored here. One flag is inherited: the '33,698-message corpus' figure now carries an instrument note on the Suz page (surviving on-disk copy counts 28,728 through 2025-08-10) — the discrepancy is about the dump's copies, not about the behaviour sampled. **No claim on this page is affected.**
 
 > **RE-CHECKED [2026-09-04] — one new datum, and it cuts toward the**
 > **assessment rather than against it.** [[wiki/people/suzanne-frank]] gained a

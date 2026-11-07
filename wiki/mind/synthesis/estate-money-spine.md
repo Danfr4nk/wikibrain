@@ -4,9 +4,8 @@ page_type: synthesis
 title: "The Estate / Money Spine"
 status: active
 knowledge: earned
-layer: interpreted/synthesis
 date_created: 2026-07-18
-date_modified: 2026-10-23
+date_modified: 2026-11-06
 sources:
   - raw/self/captures/2026-08-02_031532_the-fall-of-fran-frank-s-fumes-force-four-fire.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."
@@ -87,12 +86,11 @@ connections:
   - { target: "[[wiki/mind/synthesis/annual-volume-suz]]", type: contextualizes, claim: "The Dan-vs-Suz message-volume asymmetry — Suz permanently ahead from 2017, widening toward ~2:1 — is the communication register of the same switchboard concentration traced here in capital: one node carrying flows a diversified system would spread." }
   - { target: "[[wiki/mind/synthesis/attachment-trauma-bond]]", type: corroborates, claim: "The three-rotation earner see-saw quantified here ($119K–$123K net outflow) is the trauma-bond page's leverage see-saw measured in capital — the material substrate of the same bond." }
   - { target: "[[wiki/mind/synthesis/fayette-return]]", type: contextualizes, claim: "The Fran-estate capital traced here — Whyel coal money administered through the Coldren legal line — is the material counterpart of the return page's Fayette anchoring: the same maternal line that never left is the line the capital came down." }
-changelog:
-  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The Estate / Money Spine
-_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
+
+> **RE-CHECKED [2026-11-06]:** flagged stale against [[wiki/people/suzanne-frank]] (2026-11-06 rewrite). Re-read: the datum this page takes from the Suz page — the $14,000 mother-ward transfer of 2018, $4,000 recovered, the rest disputed — is preserved verbatim in the rewrite and its edge from the Suz page stands, with a claim that now says plainly the Suz page no longer treats the flow as the relationship's definition. That is a change in the biography's framing, not in the flow record the spine is built from. **No claim on this page is affected.**
 
 > **RE-CHECKED [2026-08-28]:** flagged stale against
 > [[wiki/people/suzanne-frank]] (2026-08-28), which added a March 2014

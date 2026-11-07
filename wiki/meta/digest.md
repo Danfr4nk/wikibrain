@@ -2,15 +2,12 @@
 domain: meta
 page_type: report
 title: "Wiki Digest"
-tier: incidental
 status: active
 knowledge: derived
 date_created: 2026-08-26
-date_modified: 2026-10-16
+date_modified: 2026-10-18
 sources: []
-changelog:
-  - "2026-10-16: Classified incidental (complete at this size)"
----> **Incidental entry** — tool-generated digest mirror: `bin/wiki-digest` mirrors DIGEST.md for on-site reading; the repo copy is authoritative between regenerations. Complete at this size.
+---
 
 # Wiki Digest
 
@@ -24,51 +21,59 @@ between regenerations. Do not hand-edit here — rerun the tool._
 
 | | |
 |---|---|
-| Pages | 551 |
-| Pages touched in the last 14 days | 166 |
-| Pages reasoning from other pages (`synthesizes:`) | 125 |
-| Live contradictions | 49 |
-| Open gaps | 951 |
-| Standing predictions | 103 |
+| Pages | 627 |
+| Pages touched in the last 14 days | 15 |
+| Pages reasoning from other pages (`synthesizes:`) | 135 |
+| Live contradictions | 46 |
+| Open gaps | 1144 |
+| Standing predictions | 116 |
 
 ## By domain
 
 | Domain | Pages |
 |---|---|
-| people | 180 |
-| mind | 117 |
-| interests | 99 |
-| self | 61 |
-| timeline | 42 |
-| work | 17 |
-| meta | 13 |
-| places | 10 |
-| health | 8 |
+| people | 184 |
+| mind | 135 |
+| interests | 103 |
+| self | 68 |
+| timeline | 49 |
+| work | 37 |
+| meta | 20 |
+| places | 11 |
+| health | 9 |
+| share | 6 |
 | legal | 4 |
+| — | 1 |
 
 ## By status
 
 | Status | Pages |
 |---|---|
-| active | 242 |
+| active | 305 |
 | stable | 168 |
-| closed | 100 |
-| archived | 29 |
-| stub | 11 |
+| closed | 102 |
+| archived | 28 |
+| stub | 9 |
+| — | 7 |
+| superseded | 2 |
 | new | 1 |
+| severed | 1 |
+| historical-primary | 1 |
+| open | 1 |
+| draft | 1 |
+| retired | 1 |
 
 ## The last few days
 
-**2026-09-13** — 44 pages
+**2026-10-18** — 4 pages
 
-**2026-09-12** — 26 pages
+**2026-10-06** — 1 page
 
-**2026-09-11** — 10 pages
+**2026-10-04** — 10 pages
 
-**2026-09-10** — 3 pages
-  - climb | mind | the-name-is-the-instrument, the-register-never-closes, high-provision-low-condolence (12 synthesized, 0 rejected) [ported from wiki-brain@5d1a747]
+**2026-09-30** — 1 page
 
-**2026-09-04** — 33 pages
+**2026-09-29** — 2 pages
 
 ## Pages that reason from other pages
 
@@ -79,16 +84,18 @@ have moved since.
 - [[wiki/health/cocaine]] — 15 premises
 - [[wiki/health/maintenance-vs-verdict]] — 5 premises
 - [[wiki/health/suboxone-dose-curve]] — 3 premises
+- [[wiki/health/suboxone-prescriber-arc]] — 5 premises
 - [[wiki/health/the-configured-body]] — 8 premises
 - [[wiki/interests/chapo-trap-house]] — 7 premises
 - [[wiki/interests/favorites/art-and-movies]] — 4 premises
 - [[wiki/interests/favorites/books]] — 4 premises
+- [[wiki/interests/favorites/books/chapo-guide-to-revolution]] — 3 premises
 - [[wiki/interests/favorites/books/topics/ancient-history]] — 2 premises
 - [[wiki/interests/favorites/books/topics/history]] — 2 premises
 - [[wiki/interests/favorites/books/topics/journalism]] — 2 premises
 - [[wiki/interests/favorites/books/topics/politics]] — 4 premises
 - [[wiki/interests/favorites/books/topics/trump]] — 2 premises
-- [[wiki/interests/favorites/books/topics/war]] — 2 premises
+- [[wiki/interests/favorites/books/topics/war]] — 6 premises
 - [[wiki/interests/favorites/books/want-to-read]] — 4 premises
 - [[wiki/interests/favorites/eclecticism]] — 6 premises
 - [[wiki/interests/favorites/music]] — 6 premises
@@ -98,10 +105,14 @@ have moved since.
 - [[wiki/interests/hasan-piker]] — 8 premises
 - [[wiki/mind/concepts/autism]] — 9 premises
 - [[wiki/mind/concepts/chaos-preference]] — 2 premises
-- [[wiki/mind/concepts/explicit-verbal-commitment]] — 4 premises
-- [[wiki/mind/concepts/non-fiction-only]] — 12 premises
-- [[wiki/mind/concepts/social-anxiety]] — 12 premises
-- [[wiki/mind/concepts/the-cool-metric]] — 3 premises
+- [[wiki/mind/concepts/explicit-verbal-commitment]] — 5 premises
+- [[wiki/mind/concepts/forensic-method]] — 4 premises
+- [[wiki/mind/concepts/institutional-out]] — 4 premises
+- [[wiki/mind/concepts/lyric-qualifier]] — 1 premise
+- [[wiki/mind/concepts/no-delete-operation]] — 6 premises
+- [[wiki/mind/concepts/node-locking]] — 3 premises
+- [[wiki/mind/concepts/non-fiction-only]] — 10 premises
+- [[wiki/mind/concepts/phenomenology-lens]] — 2 premises
 - [[wiki/mind/politics/axioms]] — 5 premises
 - [[wiki/mind/synthesis/2020-left-turn]] — 7 premises
 - [[wiki/mind/synthesis/2025-move-chronology]] — 5 premises
@@ -114,7 +125,6 @@ have moved since.
 - [[wiki/mind/synthesis/attachment-trauma-bond]] — 9 premises
 - [[wiki/mind/synthesis/audition-dynamics]] — 4 premises
 - [[wiki/mind/synthesis/august-26-block-retraction]] — 10 premises
-- [[wiki/mind/synthesis/august-grievance-verdict]] — 9 premises
 - [[wiki/mind/synthesis/aura-illness-compound-collapse]] — 11 premises
 - [[wiki/mind/synthesis/block-unblock-loop]] — 12 premises
 - [[wiki/mind/synthesis/bond-switch-2015]] — 5 premises
@@ -130,12 +140,14 @@ have moved since.
 - [[wiki/mind/synthesis/fayette-return]] — 8 premises
 - [[wiki/mind/synthesis/four-axioms-attestation]] — 13 premises
 - [[wiki/mind/synthesis/four-financial-inversions]] — 13 premises
+- [[wiki/mind/synthesis/gemini-gaslight-saga]] — 3 premises
 - [[wiki/mind/synthesis/high-provision-low-condolence]] — 5 premises
 - [[wiki/mind/synthesis/instrument-is-subject]] — 5 premises
 - [[wiki/mind/synthesis/intake-constancy]] — 5 premises
 - [[wiki/mind/synthesis/intensity-is-no-longer-the-only-mode]] — 4 premises
 - [[wiki/mind/synthesis/interests-as-era-markers]] — 5 premises
 - [[wiki/mind/synthesis/kristin-channel]] — 5 premises
+- [[wiki/mind/synthesis/libby-era-engagement-verdict]] — 3 premises
 - [[wiki/mind/synthesis/liked-dump-residue]] — 3 premises
 - [[wiki/mind/synthesis/may-august-2025-bridge]] — 13 premises
 - [[wiki/mind/synthesis/message-circadian-latency]] — 5 premises
@@ -147,13 +159,14 @@ have moved since.
 - [[wiki/mind/synthesis/political-psyops]] — 6 premises
 - [[wiki/mind/synthesis/provision-grammar]] — 10 premises
 - [[wiki/mind/synthesis/read-receipt-forensics]] — 3 premises
-- [[wiki/mind/synthesis/red-team-probe-series]] — 3 premises
+- [[wiki/mind/synthesis/red-team-probe-series]] — 5 premises
 - [[wiki/mind/synthesis/self-deprecation-shield]] — 7 premises
 - [[wiki/mind/synthesis/severance-declaration-audit]] — 4 premises
 - [[wiki/mind/synthesis/severance-declarations]] — 9 premises
 - [[wiki/mind/synthesis/severance-language-atlas]] — 8 premises
 - [[wiki/mind/synthesis/single-channel]] — 8 premises
-- [[wiki/mind/synthesis/spatial-behavior]] — 4 premises
+- [[wiki/mind/synthesis/spatial-behavior]] — 6 premises
+- [[wiki/mind/synthesis/steady-state-invisibility]] — 5 premises
 - [[wiki/mind/synthesis/supply-graph-vs-chain]] — 5 premises
 - [[wiki/mind/synthesis/supply-network]] — 11 premises
 - [[wiki/mind/synthesis/taste-as-filter-stack]] — 6 premises
@@ -164,8 +177,9 @@ have moved since.
 - [[wiki/mind/synthesis/the-curse]] — 14 premises
 - [[wiki/mind/synthesis/the-deferred-audit]] — 11 premises
 - [[wiki/mind/synthesis/the-embedded-objective]] — 10 premises
+- [[wiki/mind/synthesis/the-forger-and-the-detector]] — 8 premises
 - [[wiki/mind/synthesis/the-name-is-the-instrument]] — 4 premises
-- [[wiki/mind/synthesis/the-register-never-closes]] — 3 premises
+- [[wiki/mind/synthesis/the-register-never-closes]] — 5 premises
 - [[wiki/mind/synthesis/the-rescue-premise]] — 15 premises
 - [[wiki/mind/synthesis/the-romantic]] — 4 premises
 - [[wiki/mind/synthesis/the-scoreboard]] — 10 premises
@@ -189,10 +203,11 @@ have moved since.
 - [[wiki/people/suzanne-frank-personality-assessment]] — 1 premise
 - [[wiki/people/tom-maison-supply-record]] — 5 premises
 - [[wiki/places/the-unpapered-address]] — 13 premises
-- [[wiki/mind/concepts/ally-and-dan-love-as-destiny]] — 1 premise
-- [[wiki/mind/concepts/astrology-star-signs]] — 1 premise
-- [[wiki/mind/concepts/wiki-brain]] — 2 premises
+- [[wiki/self/concepts/ally-and-dan-love-as-destiny]] — 1 premise
+- [[wiki/self/concepts/astrology-star-signs]] — 1 premise
+- [[wiki/self/concepts/wiki-brain]] — 2 premises
 - [[wiki/self/context-core]] — 9 premises
+- [[wiki/self/corpus/channel-coverage-gaps]] — 5 premises
 - [[wiki/self/favorites]] — 3 premises
 - [[wiki/self/lineage/hybrid-analysis]] — 4 premises
 - [[wiki/self/location-history]] — 6 premises

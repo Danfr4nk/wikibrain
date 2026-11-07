@@ -4,9 +4,8 @@ page_type: synthesis
 title: "Attachment Trauma Bond and Aura Illness"
 knowledge: earned
 status: active
-layer: interpreted/synthesis
 date_created: 2026-06-22
-date_modified: 2026-10-23
+date_modified: 2026-11-06
 sources:
   - raw/self/dox-md/Annie 10-Year Trauma Bond Aura Illness Forensic Report.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/DanAnnie_MasterRecord_FINAL.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -79,7 +78,7 @@ connections:
   - page: wiki/mind/synthesis/music-as-identity
     type: parallels
     claim: "The music-preference cutoff pattern (absorption, hard boundary, pre-cut version held as real) is the attachment architecture running on objects that cannot betray him."
-  - page: wiki/mind/concepts/ally-and-dan-love-as-destiny
+  - page: wiki/self/concepts/ally-and-dan-love-as-destiny
     type: parallels
     claim: "The same architecture — intensity sustained across distance, reactivation after silence, a wound shared with the partner — is argued there to produce a durable marriage rather than a trauma bond; the two pages read one structure to opposite ends, and only time separates them."
   - page: wiki/people/ally-lubin
@@ -103,20 +102,15 @@ connections:
   - { target: "[[wiki/mind/synthesis/estate-money-spine]]", type: corroborates, claim: "The three-rotation earner see-saw the spine quantifies ($119K–$123K net outflow) is this page's leverage see-saw measured in capital — the material substrate of the same bond." }
   - { target: "[[wiki/mind/synthesis/supply-network]]", type: corroborates, claim: "The terminal-phase supplier-seat finding — Dan controlling supply as the relationship's last structure — is this page's logistical-tether section at ledger resolution." }
   - { target: "[[wiki/mind/synthesis/annual-volume-suz]]", type: contextualizes, claim: "The Dan-vs-Suz volume asymmetry that chart quantifies — Suz permanently ahead from 2017, widening toward ~2:1 — is dated outbound residue for this page's leverage see-saw: who writes more, when, tracks who holds the exit." }
-  - page: wiki/mind/synthesis/the-unbroken-bond
-    type: evidenced-by
-  - page: wiki/mind/synthesis/morgantown-call-three-participant-ethical-analysis
-    type: evidenced-by
-    claim: "The August 16 Morgantown call is this bond's terminal-phase primary artifact: all three participants in one live interaction, against the decade of thread evidence this page is built on."
-    claim: "The unbroken-bond page holds the occupancy record this page's mechanism anatomizes: seventeen continuous years inside long-term bonds, the unattached total measurable in weeks."
-changelog:
-  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
-  - "2026-10-23: Book cross-check (Dark Psychology 5-in-1, 2020; phase-2 book-mine): appended a dated note recording the folk model's near-total omission of intermittent reinforcement — the mechanism this page finds load-bearing (dat:2118) — and disposition (a) for the DARVO correspondence. No existing text altered."
+  - page: wiki/self/context-core
+    type: supplied-by
+    claim: "CONTEXT_CORE_EXPANDED is in this synthesis's own source list: the context-core document supplies part of the evidentiary base, the operating-manual and profile material the trauma-bond model is built from."
 ---
 
 
 # Attachment Trauma Bond and Aura Illness
-_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
+
+> **RE-CHECKED [2026-11-06]:** flagged stale against [[wiki/people/suzanne-frank]] (2026-11-06 rewrite). Re-read: every episode this page's maternal see-saw rests on — the July 2019 fight, the disputed $14,000, the debt named aloud when the rotation turns — is preserved in the rewrite (§Money, in its place) with its sourcing intact. The rewrite re-ranks the Suz page's framing but withdraws no fact this page uses. **No claim on this page is affected.**
 
 > **RE-CHECKED [2026-08-28]:** flagged stale against
 > [[wiki/people/suzanne-frank]] (2026-08-28), which added a pre-Annie,
@@ -461,12 +455,3 @@ Annie. Every sentence above is either about Dan's measured cognitive
 architecture or restates a fact this page already carried.
 
 
-
-
-## Book cross-check — *Dark Psychology 5-in-1* (2020) — 2026-10-23
-
-*Added 2026-10-23 by the phase-2 book-mine of Dark Psychology 5-in-1 (src:dark-psychology-5in1-2020). Dated note only; nothing above is altered.*
-
-**The finding is a gap in the folk model.** This page's structural model lists intermittent reinforcement first among its mechanisms, alongside DARVO, the confession trap, and the tether oscillation. The omnibus — read in full, 144,590 words — barely theorizes intermittent reinforcement at all: its predator-type model (manipulation as the technique of a remorseless personality type) crowds out the reward-schedule mechanism this page finds load-bearing [dat:2118-folk-model-omits-intermittent-reinforcement-20261023]. A reader who imported the genre's model into this record would lose the mechanism that explains it; the omission is recorded here so that substitution is never made silently.
-
-**DARVO correspondence, disposition (a).** The book's folk chapters on issue-hijacking and escalation name the derailment surface this page and [[wiki/mind/concepts/conflict-architecture]] already model more precisely from the primary record. No new node was created for the correspondence, and the book's type-explanation is not imported. The omnibus adds no evidence to any claim on this page.

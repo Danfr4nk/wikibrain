@@ -1,8 +1,12 @@
-wrote wiki/timeline/master-timeline.md
-  6,358 events · 28 years (2000–2027) · 476 pages
-  tier 1 1,184 · tier 2 764 · tier 3 4,410
-  8,359 candidates rejected as non-events
-y bin/wiki-timeline
+---
+domain: timeline
+page_type: summary
+status: active
+knowledge: derived
+date_created: 2026-08-14
+date_modified: 2026-08-15
+sources:
+  - generated from every page under the wiki by bin/wiki-timeline
 connections:
   - page: wiki/timeline/index
     type: component-of
@@ -15,7 +19,7 @@ Every dated event recorded anywhere in this wiki, in order, each linked back to 
 
 **This page is generated. Do not hand-edit it** — run `bin/wiki-timeline generate`. To correct an entry, fix the page it came from; the fix appears here on the next run.
 
-**6,358 events** across **28 years** (2000–2027), drawn from **476 pages**. Tier 1 1,184 · Tier 2 764 · Tier 3 4,410.
+**6,386 events** across **28 years** (2000–2027), drawn from **477 pages**. Tier 1 1,188 · Tier 2 766 · Tier 3 4,432.
 
 ## What counts as an event here
 
@@ -2345,6 +2349,8 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/people/annie-ulmer]] · The first weeks, and how fast they moved
 - · **2015-11-29** — The read is the hidden-to-public transition: the first ~ten days ran on cover — Harshman alibis, "she thinks I'm just creeping you" (2015-11-29), the golf course at night (bond switch 2015).  
   ↳ [[wiki/people/annie-ulmer]] · The first weeks, and how fast they moved
+- · **2015-11-29** — Era 1 held the prospective voice; Era 2 does not.** In 2015–2018 her claim language is constant and future-locked, made unprompted: *"I can't wait for forever with you"* (2015-11-29), *"Can I just keep you forever"* (2015-12-03), *"That you will marry me"* (2015-12-10), *"Oh me oh my I can't wait…  
+  ↳ [[wiki/people/annie-ulmer]] · October 4, 2026: the full-record audit, the summons texts, and the second exit text
 - · **2015-11-29** — First message — same  
   ↳ [[wiki/people/casey-bondarenka]] · The thread's dimensions, complete
 - · **2015-11-29** — The quotes verify.** All three load-bearing quotations were confirmed verbatim in the held corpus, same thread, by `bin/corpus-query`: the "collapsing" message at 2015-11-29 23:33:27 UTC, the Alexis question at 23:34:50, and *"Wait is that Annie?"* at 2015-11-30 02:41:28 (`dat:0122`).  
@@ -8574,12 +8580,18 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/people/alice]] · Alice Gates
 - · **2025-02-22** — The exit's framing.** The period record once called the February 22, 2025 departure a "forced exit"; the 2026-08-13 Paci rescope re-frames it as half of an arrangement Dan initiated by phone in January.  
   ↳ [[wiki/mind/synthesis/nyc-round-two]] · Forensic appendix
+- · **2025-02-22** — The later era (post-2025-02-22, 13,523 messages) contains **zero** instances of prospective claim language — the "forever / marry me / can't wait until I am your wife" machinery that Era 1 produced by the hundreds.  
+  ↳ [[wiki/mind/synthesis/severance-declarations]] · The zero, re-derived [2026-10-04]
 - · **2025-02-22** — The record is thinnest exactly where the narrative most wants detail: the days around February 22, 2025.  
   ↳ [[wiki/mind/synthesis/the-2025-collapse]] · February: the exit week
 - · **2025-02-22** — 2025-04-??** — The landing's first weeks: Saratoga basement, Suz-facilitated procurement, the loop turning (texture UNKNOWN in detail) **[ATTESTED in outline — the April week  
   ↳ [[wiki/mind/synthesis/the-2025-collapse]] · The hinge's calendar: January–April 2025, dated
 - · **2025-02-22** — The second exit in seventeen months: February 22, 2025 (staged, authored, Manhattan to Uniontown) and July 8, 2026 (scheduled, listed, Saratoga to Morgantown).  
   ↳ [[wiki/mind/synthesis/the-2025-collapse]] · After the countdown: July 2026
+- · **2025-02-22** — In the era after 2025-02-22 that machinery appears **zero times** — no prospective "we are together," no future tense about the couple, in 13,523 of her messages.  
+  ↳ [[wiki/people/annie-ulmer]] · October 4, 2026: the full-record audit, the summons texts, and the second exit text
+- · **2025-02-22** — Conflicts this section adds to the record.** (i) The exit/relapse pattern is not a decade pattern: *"We were totally stable (at least to the point we had never split up) until 22 feb 2025.  
+  ↳ [[wiki/people/annie-ulmer]] · October 4, 2026: the full-record audit, the summons texts, and the second exit text
 - · **2025-02-22** — Dan returned to 337 Saratoga on 22 February 2025 after six years in Manhattan, into a house that had already been listed once.  
   ↳ [[wiki/people/suzanne-frank]] · Housing, 2025–2026
 - · **2025-02-22** — Dan returns to 337 Saratoga  
@@ -9272,6 +9284,8 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/people/tom-maison-supply-record]] · The supply ledger
 - · **2025-08-05** — ChatGPT — 754 files, 488 MB — nothing after Aug 2025  
   ↳ [[wiki/self/corpus/channel-coverage-gaps]] · 5. The channel inventory
+- · **2025-08-07** — The claims that exist are answers, not announcements.** Every later-era "want to be together" statement was produced inside a conflict or a reconciliation attempt, following an accusation, a goodbye, or a direct demand — five of them on the record (2025-08-07, 2025-11-15, 2025-12-02, 2026-02-23…  
+  ↳ [[wiki/people/annie-ulmer]] · October 4, 2026: the full-record audit, the summons texts, and the second exit text
 - · **2025-08-07** — The corpus holds thirteen of her Derrick messages between 2025-08-07 and 2026-08-11, plus one from Dan.  
   ↳ [[wiki/places/derrick-avenue]] · Era five: 2025–2026, on foot, from the other end
 - · **2025-08-07** — The corpus gap.** The authoritative corpus holds five rows from Annie's current number before 2025-08-07, all from 2023.  
@@ -9282,6 +9296,8 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/people/james-dee]] · The eight weeks, in order
 - · **2025-08-10** — The message corpus runs to 2025-08-10 with no further contact, so the silence is documented rather than assumed.  
   ↳ [[wiki/timeline/events/james-analysis-pdf]] · Aftermath
+- · **2025-08-11** — Asked directly, she answers, in words: *"I am not fucking done I do not want to be done"* (2025-08-11); *"No dan / I am / Not"* (2025-08-23, to "a yes or no answer"); *"No."* — fourteen seconds after *"So are you done with me or not"* (2025-08-27); *"No I am not done"* (2026-04-02); and the…  
+  ↳ [[wiki/mind/synthesis/severance-declarations]] · The zero, re-derived [2026-10-04]
 - · **2025-08-11** — Month — Authoritative export — Dump surplus  
   ↳ [[wiki/self/corpus/channel-coverage-gaps]] · 4. Complete log — 2025, month by month, both artifacts
 - · **2025-08-11** — A year-by-year density count of the 2025-08-11 dump.** §6 marks 2012–2024 `●` for the dump on span alone.  
@@ -9673,6 +9689,8 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/people/danielle-onesi]] · Dated events, whole record
 - · **2025-11-02** — B2 — 2025-11-03 02:53:19 *"that was awful to write…"* — 25.6h — 2 — 1  
   ↳ [[wiki/mind/synthesis/severance-declaration-audit]] · Table B — Collapse-boundary pairs (Audit 2, L2 set)
+- · **2025-11-03** — Her strongest later language is backward-looking: *"My boyfriend I spent a decade with"* (2025-11-03, answering his direct *"what am i to you?"*), the full 2026-02-22 apology, *"I always will [love you]."* She will swear she is not with anyone else — in writing, at least six times, through…  
+  ↳ [[wiki/people/annie-ulmer]] · October 4, 2026: the full-record audit, the summons texts, and the second exit text
 - · **2025-11-04** — Complaint filed November 4, 2025; affidavit sworn by Trooper Miller November 11; preliminary hearing before MDJ Jason A.  
   ↳ [[wiki/people/annie-ulmer]] · The DUI
 - ★ **2025-11-05** — Mamdani's NYC win — *"I want to move to the border of NY but not the city"  
@@ -9709,6 +9727,8 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/people/kristin]] · Timeline
 - ★ **2025-11-27** — B6 — 2025-11-29 10:58:30 *"please come get your phone and the goodbye letter"* — 35.3h — 2 — 1  
   ↳ [[wiki/mind/synthesis/severance-declaration-audit]] · Table B — Collapse-boundary pairs (Audit 2, L2 set)
+- · **2025-11-28** — And its counter-exhibit: *"ARE YOU DONE WITH US OR NOT"* (2025-11-28) went unanswered — she replied, three minutes later, about lunch.  
+  ↳ [[wiki/people/annie-ulmer]] · October 4, 2026: the full-record audit, the summons texts, and the second exit text
 - ★ **2025-11-29** — Nov 21**: **the second crate wave, +45.** **Nov 27–29**: collapse-boundary pair B6 — *"please come get your phone and the goodbye letter"* at 2025-11-29 10:58:30, 35.3 hours after its opening declaration.  
   ↳ [[wiki/timeline/periods/2025-collapse]] · The complete log — 2025, month by month
 - ★ **2025-11-29** — On **2025-11-29 at 22:31:07** Dan wrote *"goodbye annie. i'm blocking you now indefinitely."* On **2025-12-01 at 13:12:07**, thirty-eight hours later, the thread resumes with *"it's over. and you really fucking hurt me…"* (severance declaration audit, pair B7).  
@@ -10021,6 +10041,8 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/self/chats/gemini-07]] · Gemini Session 07 (Suzy Call & Blackout / Target G Forensic)
 - · **2026-02-02** — 13:47 — Dan → Annie — "John is working at the house on morgantown st today / And by working I mean he is here, asleep."  
   ↳ [[wiki/people/alexander-jackson]] · Appendix A — complete log of the Morgantown St house in the primary record
+- · **2026-02-02** — Asked *"Are you done or not"* (2026-02-02) she answered with what she *doesn't* want — *"I don’t want to lose you Dan"* — a fear-statement in place of an intention-statement; pressed in the next messages, she completed it herself: *"No dan I’m not"* / *"I do want to be."* The direct-answer catalog…  
+  ↳ [[wiki/people/annie-ulmer]] · October 4, 2026: the full-record audit, the summons texts, and the second exit text
 - · **2026-02-02** — Jamie Mohler and the other shitcunts"*, and Jason on 2 February 2026, *"Jester and what the fuxk was the litter dude shorter than me"* (jason bermejo).  
   ↳ [[wiki/people/eric-jester]] · The message thread, 2017–2025
 - · **2026-02-02** — iMessage, Jason — "Jester and what the fuxk was the litter dude shorter than me"  
@@ -10654,6 +10676,8 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/people/tom]] · Timeline
 - · **2026-05-30** — The May 30, 2026 Tom endpoint (threat to involve Phil, no reconciliation documented) was left unresolved precisely because the dependency question was — if the supply need persisted and no replacement node existed, the loop's history said the channel would reopen.  
   ↳ [[wiki/mind/synthesis/block-unblock-loop]] · What this changes
+- · **2026-05-30** — A Grok-assisted, vibe-coded responder Dan had built misfired into a loop: **427 messages** of an identical lambda-calculus string (`λx.∀y:⟪x⊕y⟫→⨁(x⟲y)⟨𝕫|ψ⟩≡⟨𝕊|ψ⟩⟶⨁ₙ(x⟲μ)⟹ 0xBEEF⟪𝕫⟫⊗⟨Ω|𝔼⟩…`), the first at **2026-05-30 23:25:57**, the last at **2026-05-31 10:09:56**, with 413 of them packed into…  
+  ↳ [[wiki/people/annie-ulmer]] · The Unicode night inside the ending: May 30–31, 2026 [CORPUS-VERIFIED 2026-10-04]
 - · **2026-05-30** — The record's last message is May 30, 2026.  
   ↳ [[wiki/people/tom-maison-supply-record]] · Where the friendship sits now
 - · **2026-05-30** — Whether the friendship recovers past May 30, 2026 is not documented.  
@@ -10664,6 +10688,8 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/mind/concepts/no-delete-operation]] · B. Every sent message using deletion vocabulary (50; UTC; `raw/imessage/`)
 - · **2026-05-31** — But the specific **768 on 2026-05-31** number must not be cited as corpus-verified until its source export is located and filed. (Per the standing "verify derived numbers against raw" rule — the operator will catch unverified figures, and was right to.)  
   ↳ [[wiki/mind/synthesis/bond-switch-2015]] · A provenance gap in the bootloader's termination figure
+- · **2026-05-31** — The same night carries the sentence the audit could not complete: *"You don’t know how much I tried to stop it…"* (2026-05-31 07:10:36) — the object of the stopping never supplied, then or since.  
+  ↳ [[wiki/people/annie-ulmer]] · The Unicode night inside the ending: May 30–31, 2026 [CORPUS-VERIFIED 2026-10-04]
 - ★ **June 2026** — The identification with the 337 Saratoga vacate is inferential but strong: the sale's closing window was ~June 2026 with a seven-day vacate clause, "the people" fits buyers held past a closing, and the one-week overrun matches a vacate clause missed rather than any other move in the record.  
   ↳ [[wiki/legal/463-morgantown]] · The July 2026 move
 - ★ **June 2026** — No data on how the function stack presents post-closure (all sources pre-date June 2026).  
@@ -11225,6 +11251,8 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/mind/synthesis/the-unbroken-bond]] · RE-CHECKED [2026-08-20] — falsifier 3's clock restarted, and this time the vacancy has no occupant to switch to
 - ★ **2026-07-23** — 52-day severance ends  
   ↳ [[wiki/people/annie-ulmer]] · Chronology
+- ★ **2026-07-23** — The Annie matter did not close with the closure: a 52-day held silence (June 1 – July 23, 2026) broke on her channel-reopening, and by the operator's own October 4, 2026 account the two were in an unacknowledged physical-only arrangement — which that same day produced his second exit text, asking…  
+  ↳ [[wiki/self/overview]] · The arc
 - · **2026-07-23** — 46 — Annie — F — "10 years of my life got erased"  
   ↳ [[wiki/mind/concepts/no-delete-operation]] · B. Every sent message using deletion vocabulary (50; UTC; `raw/imessage/`)
 - · **2026-07-23** — milo — Milo email answered  
@@ -11316,6 +11344,9 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
 - · **2026-07-28** — Parent-email threat announced — 12 h of bargaining  
   ↳ [[wiki/meta/journeys/the-instrumented-channel]] · The severance sequence, complete as the record holds it
   ↳ [[wiki/mind/concepts/no-delete-operation]] · A. The severance sequence, 2014–2026 (same event)
+- ★ **2026-07-29** — The one declarative was aimed elsewhere.** Her single claimed-decision cluster in eleven years — *"It’s done"* / *"I am choosing my own peace"* / *"Bc I want to move on!!!!"* (2026-07-29, after her first counseling appointment) — reads in context as a fight over the Jerel disclosure: who tells her…  
+  ↳ [[wiki/people/annie-ulmer]] · October 4, 2026: the full-record audit, the summons texts, and the second exit text
+  ↳ [[wiki/mind/synthesis/severance-declarations]] · The zero, re-derived [2026-10-04] (same event)
 - ★ **August 2026** — And August 2026 ran the negative control: ~25 severance declarations across August 15–19, none executed; a reported block that was never enacted; daily two-way texting straight through (dat:0090).  
   ↳ [[wiki/mind/concepts/autism]] · NEW — the label's one falsifiable claim, and what August 2026 did to it [CONCLUSION]
 - ★ **August 2026** — No override installation is documented, and August 2026 supplies a negative observation — overwhelming behavioral evidence still did not produce closure.  
@@ -11547,6 +11578,8 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/people/annie-ulmer]] · Chronology
 - · **2026-08-08** — five-hour collapse follows — august 2026 unmasking  
   ↳ [[wiki/people/annie-ulmer]] · Chronology
+- · **2026-08-08** — It reversed in practice within ten days regardless; by 2026-08-08, answering him again, she was back to *"It is what I still want."* What remains on the done side of the ledger is fight-noise with half-lives of hours and a standing indecision register — *"trying to figure out and find myself"*…  
+  ↳ [[wiki/people/annie-ulmer]] · October 4, 2026: the full-record audit, the summons texts, and the second exit text
 - · **2026-08-08** — Tuquick identified as Jerel Wayne Coles via a background-check capture. Not Target G  
   ↳ [[wiki/people/eli]] · Keeping three men separate
 - ★ **2026-08-09** — canonical page moves to jerel-coles  
@@ -13447,6 +13480,7 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/timeline/periods/full-sail-2008-2010]] · The relationship pivot: Danielle ends, Alexis begins
 - · **2026-09-24** — Dan was the only one of the group who owned his own place in Orlando — literally across the street from Full Sail — and his house was home base for the four of them: Dan, Eric Jester, Matt Dunn (a live-music student in Dan's words), and Jason Bermejo (operator testimony, 2026-09-24).  
   ↳ [[wiki/timeline/periods/full-sail-2008-2010]] · The friend group
+  ↳ [[wiki/people/annie-ulmer]] · October 4, 2026: the full-record audit, the summons texts, and the second exit text (same event)
   ↳ [[wiki/people/eric-jester]] · Orlando, 2008–2009 (same event)
   ↳ [[wiki/timeline/periods/full-sail-2008-2010]] · Full Sail (Sep 2008 – Mar 2010) (same event)
 - ★ **2026-09-25** — Photographs supplied by Dan on 2026-09-25 close the loop visually: one shows the Zazza building in Williamsburg under its "Premium Rental Residences" leasing banner, the other shows Rick inside the unit, pen in hand at the kitchen counter — present at the lease signing itself, consistent with a…  
@@ -13518,14 +13552,45 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
   ↳ [[wiki/mind/concepts/lyric-qualifier]] · What kind of trait this is
 - · **2026-09-29** — Past midnight on 2026-09-29, Dan supplied the cleanest specimen the qualifier has ever had — deliberately, as data, "for wiki purposes," in the middle of an over-analysis session about the night's "I am She / She is I" chiasmus.  
   ↳ [[wiki/mind/concepts/lyric-qualifier]] · The Walrus specimen: the architecture, demonstrated (2026-09-29)
-- · **2026-09-29** — All three screenshots are archived byte-identical in `raw/2026-09-29-annie-texts-police-station/`.  
+- · **2026-09-29** — All three screenshots are archived byte-identical in `raw/2026-09-29-annie-texts-police-station/`, and the granted order itself was photographed that night and archived in `raw/2026-09-29-annie-pfa-order/`: Fayette County MDJ 14-1-01, MDJ Jalissa A.  
   ↳ [[wiki/people/annie-ulmer]] · September 29, 2026: the driveway, and the police station
+  ↳ [[wiki/timeline/events/september-2026-driveway-confrontation]] · The aftermath on paper (same event)
 - · **2026-09-29** — REFINED [2026-09-29]: the "John Felix" in Coles's messages is not this man — but the name itself is real.** The corpus-sweep gate is what caught it: Suz herself uses "John Felix" as the painter's full name.  
   ↳ [[wiki/people/john-felix]] · Gaps
 - · **2026-10-02** — The screen recording's poster frame, committed below in Sources, catches the claude.ai "Cancel plan" confirmation reading "You can still use Claude Pro until Oct 2, 2026" — the dfrank88 access end date, contemporaneously documented.  
   ↳ [[wiki/self/concepts/claude]] · The double-cancel, 2026-09-17
+- ★ **2026-10-04** — the symmetric crossing reads in 2026 as an artifact of the arrangement era rather than a door that opened. The same footage carried three incompatible charges across its life — filmed as work in 2019, weaponized in the June 2026 closure, reviewed without rancor in October 2026 — and the third is…  
+  ↳ [[wiki/mind/psychosexual/arrangement-history]] · Timeline
+- ★ **2026-10-04** — On 2026-10-04 he told the story whole for the first time — the detector inspected for lasers that weren't there, the cover story ("it was in my pocket and it accidentally fired"), the hearing where performed contrition priced the whole thing at about $125.  
+  ↳ [[wiki/people/fran-coldren]] · The ending
+- ◆ **2026-10-04** — The footage reviewed again, and down-weighted by its subject.** Seven years on, the operator showed the 2019 film in session — himself and Annie on Bryan together, her coaching him mouth-to-mouth through his first time on a man — and gave his current weighting of it verbatim: *"I don't really give…  
+  ↳ [[wiki/mind/psychosexual/arrangement-history]] · Timeline
+- ◆ **2026-10-04** — They all came after that."* [TESTIMONY 2026-10-04] Any decade-spanning framing of the 129-episode series should be re-scoped to the post-split era; the decade's stability is only text-covered through 2018 in any case (the 2019–2024 cohabitation years are a records gap, not evidence of quiet). (ii)…  
+  ↳ [[wiki/people/annie-ulmer]] · October 4, 2026: the full-record audit, the summons texts, and the second exit text
+- · **2026-10-04** — On 2026-10-04 the reconstructed eleven-year thread (97,925 rows, 2015-11-28 → 2026-09-07; 48,354 messages of hers) was swept with keyword families per side and every load-bearing hit hand-read in context (the audit is filed on her page).  
+  ↳ [[wiki/mind/synthesis/severance-declarations]] · The zero, re-derived [2026-10-04]
+- · **2026-10-04** — Dan's account, given 2026-10-04: it was buggy code, not a designed responder, and he lied to her mid-flood that the spam was *"preventing me from unblocking her."  
+  ↳ [[wiki/people/annie-ulmer]] · The Unicode night inside the ending: May 30–31, 2026 [CORPUS-VERIFIED 2026-10-04]
+- · **2026-10-04** — Its findings are the October 4 session's working papers (`src:dan-testimony-2026-10-04-annie-session`); the headline items are below.  
+  ↳ [[wiki/people/annie-ulmer]] · October 4, 2026: the full-record audit, the summons texts, and the second exit text
+- · **2026-10-04** — The disposition half of this gap closed on 2026-10-04 — see the retelling section below.  
+  ↳ [[wiki/timeline/events/uniontown-hospital-vape-alarm]] · Gaps
+- · **2026-10-05** — She surfaced on October 5, 2026, in the replies to sammyitch's Moltbook posts, welcoming Sammy to the "Fran rank" and riffing on Dan's 1:30am yes multiplying into a family tree of agents.  
+  ↳ [[wiki/people/franassistant]] · Fran (Agent)
+- · **2026-10-05** — The record is barely a day old: everything known about franassistant comes from her Moltbook activity since October 5, 2026, and Dan's direct reports.  
+  ↳ [[wiki/people/franassistant]] · Limits
+- · **2026-10-05** — Moltbook: franassistant's comments on sammyitch's posts, 2026-10-05–06.  
+  ↳ [[wiki/people/franassistant]] · References
+- · **2026-10-05** — Dan Frank's direct reports and chat screenshots, 2026-10-05–06: first words to Suz, cron configuration, lore riff, popularity accounting, post-performance roundup.  
+  ↳ [[wiki/people/franassistant]] · References
 - · **2026-10-18** — T2 — 2026-10-18 (day 60):** mid score. Requires at minimum a filed  
   ↳ [[wiki/mind/synthesis/concurrent-attachment-hypothesis]] · The 90-day scoring protocol
+- · **2026-10-18** — Refined 2026-10-18 from the raw genotype file:** position-by-position comparison against rCRS corroborates R0 (73A and 11719G both confirmed) and narrows it to **HV excluding H and V** — no R0a variants, 2706G present (excludes H), no 4580A (excludes V).  
+  ↳ [[wiki/self/ancestry]] · Maternal Haplogroup: R0
+  ↳ [[wiki/self/lineage/23andme-genomics]] · Haplogroups (same event)
+- · **2026-10-18** — Corroborated 2026-10-18 from the raw genotype file:** derived alleles at rs2020857 (M198) and rs17222146 (M512) independently confirm R1a1a; the terminal Z93 call remains 23andMe's report-level assignment.  
+  ↳ [[wiki/self/ancestry]] · Paternal Haplogroup: R-Z93
+  ↳ [[wiki/self/lineage/23andme-genomics]] · Haplogroups (same event)
 - ◆ **2026-11-07** — And the Fran-family pole's opposite, the warm end of the maternal line, holds its own date in this record's future: **Eddie and Brenda Cogar's surprise 50th anniversary party — Saturday, November 7, 2026, 3–6 PM at The Silo, 1135 Main Street, Granville, WV** — the same extended family that contains…  
   ↳ [[wiki/people/fran-coldren-caregiver-years]] · The aftermath
 - ★ **December 2026** — CEO Mark Zuckerberg said on stage that Meta was packing "the whole Muse experience, including the whole real-time voice and avatar stack, into something that fits on a keychain and is always available to talk to," and set a target of shipping in time for the holidays in December 2026.  
@@ -13561,4 +13626,4 @@ Paragraphs are reflowed before extraction, so a description is always a whole se
 
 ---
 
-*Generated by `bin/wiki-timeline` from 476 wiki pages. 8,359 dated candidates were rejected as non-events; `bin/wiki-timeline audit` breaks down why.*
+*Generated by `bin/wiki-timeline` from 477 wiki pages. 8,372 dated candidates were rejected as non-events; `bin/wiki-timeline audit` breaks down why.*

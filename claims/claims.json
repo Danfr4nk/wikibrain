@@ -1,0 +1,12 @@
+{
+  "claims": {},
+  "counts": {
+    "claims": 0,
+    "ended": 0,
+    "lapsed": 0,
+    "ongoing": 0,
+    "superseded": 0,
+    "voided": 0
+  },
+  "generated": "bin/wiki-claims — do not hand-edit; the log is the record"
+}

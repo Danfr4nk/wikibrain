@@ -4,9 +4,8 @@ domain: mind
 page_type: synthesis
 status: active
 knowledge: earned
-layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-10-24
+date_modified: 2026-11-06
 sources:
   - src:operator-testimony-cato-dossiers — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:testimony-events-t011 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -80,16 +79,12 @@ connections:
   - { target: "[[wiki/people/fran-coldren]]", type: contextualizes, claim: "The Fran counter-case: the one axiom-proof relationship Dan names his biggest influence is the evidence the hinge's axioms have to absorb rather than explain away." }
   - { target: "[[wiki/people/jay-lauer]]", type: references, claim: "Jay Lauer's November 2007 overdose death, told to Rick in Las Vegas the same night the 2005 retelling detonated the trip, is the hinge's second act — the date the addiction narrative became undeniable." }
   - { target: "[[wiki/places/seven-springs]]", type: references, claim: "The Seven Springs ski crew is the pre-history the hinge will not contain: Dan's first drug-exposure cohort, active before the hinge and independent of it." }
-  - page: wiki/mind/synthesis/family-system-synthesis
-    type: parallels
-    claim: "The Frank Family System maps the structure this hinge created: the parental contact poles that still organize Dan's family record twenty years on."
   - { target: "[[wiki/places/337-saratoga-drive]]", type: contextualizes, claim: "The rupture's location: the person who lived inside 337 Saratoga Drive through it was eleven years old." }
-changelog:
-  - "2026-10-24: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
 # The November 2005 Hinge
-_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
+
+> **RE-CHECKED [2026-11-06]:** flagged stale against [[wiki/people/suzanne-frank]] (2026-11-06 rewrite). Re-read: the hinge's maternal facts — the affair, the treatment admission, the separation — are untouched by the rewrite, which adds nothing to the 2005 record (it notes explicitly that her account of the rupture remains undocumented and Dan-side). **No claim on this page is affected.**
 
 In November 2005, Dan was seventeen, a junior in high school, living at 337
 Saratoga Drive in Uniontown, Pennsylvania. His father drove him home from
@@ -555,7 +550,7 @@ structural work in:
   on this architecture, not its proof. The proof is the 1.79–2.49x /
   0.45x split and the ledgers. The axiom is demoted to frame explicitly,
   per the trait-filter rule."
-- [[wiki/mind/concepts/llm]], [[wiki/self/context-core]] — carried as
+- [[wiki/self/concepts/llm]], [[wiki/self/context-core]] — carried as
   [DOC]-grade.
 
 **Core Axiom 4 ("time = countdown")** does structural work in:
@@ -1252,7 +1247,7 @@ history (the file was created in the port). So the formulation predates
 2026-09-10 and postdates... unknown. It is not in the reachable dossier
 files and not in the pre-port git history available here. The remaining
 candidate sources: the Gemini chat exports ([[wiki/self/chats/gemini-07|gemini-07]]/13/18/21/58), the
-DANSYNTH corpus, and the pre-port [[wiki/mind/concepts/wiki-brain|wiki-brain]] repo state
+DANSYNTH corpus, and the pre-port [[wiki/self/concepts/wiki-brain|wiki-brain]] repo state
 (wiki-brain@5d1a747). Until one of those yields an attestation, the
 honest dating is: **formulated sometime before 2026-09-10, first written
 attestation in this repo 2026-09-10, original provenance undetermined** —

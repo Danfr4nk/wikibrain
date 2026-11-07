@@ -116,6 +116,12 @@ connections:
   - { target: "[[wiki/mind/synthesis/chemical-architecture]]", type: contextualizes, claim: "That entry names her home as the unbroken setting of Dan's chemically maintained life: sixteen years of Suboxone taken inside the house she anchored, and the caregiving year lived under the same roof." }
   - { target: "[[wiki/mind/synthesis/four-financial-inversions]]", type: references, claim: "That entry's inversion 1 runs on the 2020-08-21 distribution of her estate ($144,069.31 to Dan): the largest documented single capital event of the biography, and the funding floor of the Suz-backed years." }
   - { target: "[[wiki/mind/synthesis/november-2005-hinge]]", type: contextualizes, claim: "That entry carries the Fran counter-case: the one relationship the hinge's axioms cannot explain is the evidence they have to absorb." }
+  - page: wiki/self/ancestry
+    type: component-of
+    claim: "Fran, born Jesse Frances Thomas, is Dan's maternal great-grandmother and the living-memory head of the Coldren/Thomas maternal line that the ancestry hub documents as one of its constituent lines."
+  - page: wiki/places/155-virginia-ave
+    type: co-occurs
+    claim: "Fran's house at 117 Belmont Circle stood adjacent to 155 Virginia Ave, and Dan and Annie lived at 155 while serving as her caregivers until her March 2018 fall; her final year ran between the two addresses."
 images:
   infobox:
     file: wiki/media/gphotos-011.jpg

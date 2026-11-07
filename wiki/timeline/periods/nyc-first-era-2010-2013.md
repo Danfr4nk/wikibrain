@@ -29,6 +29,10 @@ sources:
   - raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/gmail/2026-08-10-creative-license-kevin-mckiernan-gmail.md
   - raw/self/dox-scan/Resume.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+connections:
+  - page: wiki/work/creative-license
+    type: contains
+    claim: "The Creative License job, dated April 2011 to February 2012 on its own page, sits inside this container era, which names the job and its dispute as contents of the 2010-2013 period."
 ---
 
 # NYC, First Era (2010–2013)

@@ -1,0 +1,488 @@
+---
+domain: timeline
+page_type: period
+title: "Full Sail (Sep 2008 – Mar 2010)"
+status: stable
+date_created: 2026-07-13
+date_modified: 2026-09-24
+date_range_start: 2008-09-01
+date_range_end: 2010-02-28
+images:
+  library:
+    - file: wiki/media/dan-drive-to-florida-2008-09-21.jpg
+      alt: "Highway through the mountains on the drive to Florida, September 2008"
+      caption: "The drive south, 2008-09-21 — \"Moving to Florida. Leaving PA to live on my own for the first time.\" (Dan's caption, 2026-09-24)"
+    - file: wiki/media/video-chat-earthrise-2009-01.jpg
+      alt: "Video-chat screenshot of Dan and Eric Jester against an Earthrise backdrop"
+      caption: "Video chat with Eric Jester, 2009-01-08 — from the house across the street from Full Sail that was the cohort's home base (subjects Dan's identification, 2026-09-24)"
+    - file: wiki/media/orlando-magic-towel-2009-05.jpg
+      alt: "Young man in an arena holding up an Orlando Magic rally towel"
+      caption: "Orlando Magic game, 2009-05-10 (subject unidentified — Dan's identification of who is who in this photo series was not given; per the photo-ID discipline it stays unnamed)"
+    - file: wiki/media/street-party-night-2009-08.jpg
+      alt: "Crowd at night under colorful lights at an Orlando street party"
+      caption: "Night out with the cohort, 2009-08-22 (subject identifications not given; stays unnamed)"
+    - file: wiki/media/couch-canvas-arbys-2009-08.jpg
+      alt: "Young man on a couch holding up a blank canvas, Arby's cup on the table"
+      caption: "The home-base house, 2009-08-30 — couch session with a blank canvas and an Arby's Roast Burger cup (subject identification not given; stays unnamed)"
+    - file: wiki/media/full-sail-graduation-2009.jpg
+      alt: "Two Full Sail University graduates in caps and gowns"
+      caption: "Full Sail graduation — caps, gowns, diploma cover (no EXIF date; subject identifications not given; stays unnamed)"
+    - file: wiki/media/alexis-first-night-florida-2009-12.jpg
+      alt: "Dan and Alexis Armel cuddling in a selfie, her first night in Florida"
+      caption: "Lexi's first night in Florida, 2009-12-02 (Dan's caption and EXIF match; subjects his identification, 2026-09-24)"
+    - file: wiki/media/alexis-pays-rent-2009-12.jpg
+      alt: "Pixelated derivative of a candid photo of Dan and Alexis Armel, Christmas Eve 2009"
+      caption: ""Lexi pays rent" — 2009-12-24, Christmas Eve morning, three weeks after her first night in Florida (Dan's caption, his identification; uncensored original never committed per the censorship rule — this is a pixelated derivative)"
+    - file: wiki/media/tattoo-session-2010-01.jpg
+      alt: "Tattoo artist working on an arm in a parlor"
+      caption: ""The tattoo" — 2010-01-23 (Dan's caption; whose arm is being worked on is not identified in his telling)"
+    - file: wiki/media/hospital-gurney-nye-2010-01.jpg
+      alt: "Dan on a hospital gurney with a wristband"
+      caption: ""Dan sick on NYE" — 2010-01-01 00:29, sixteen minutes into the new year (Dan's caption and EXIF; subject his identification)"
+    - file: wiki/media/bedroom-guitar-books-2009-07.jpg
+      alt: "Bedroom with a white bookshelf and dresser, guitar leaning in the corner, back of someone's head in the foreground"
+      caption: "The home-base house bedroom, 2009-07-02 — the morning after Dan met Alexis Armel for the first time. Twelve hours later he was buying her plane ticket to live with him (his words, 2026-09-24). Guitar in the corner, a bookshelf's worth of books; Dan didn't know this photo existed until it surfaced in his library that night"
+sources:
+  - raw/twitter/archive.jsonl
+  - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/Resume.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/self/dox-scan/FULL TWITTER ANALYSIS.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-58.md
+  - raw/self/captures/2026-07-19_operator-note-full-sail-mohler.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+  - raw/people/captures/2026-08-27_222932_gap-alexis-armel.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
+related:
+  - wiki/timeline/periods/dark-era-2007-2008
+  - wiki/health/chemical-architecture
+  - wiki/people/danielle-onesi
+  - wiki/people/alexis-armel
+  - wiki/people/josh-brannan
+  - wiki/self/twitter
+  - wiki/interests/music/overview
+tags: [music-production, relationships, uniontown-era, addiction-recovery]
+connections:
+  - page: wiki/mind/psychosexual/developmental-origins
+    type: co-occurs
+    claim: "The period closes the 2005–2010 'Neuroemotional Imprinting Era' — the emo/pop-punk template of intense, tragic, doomed devotion that the psychosexual cluster reads as the aesthetic standard for later relationships."
+  - page: wiki/timeline/periods/2010s
+    type: precedes
+    claim: "Full Sail hands directly into NYC-1 — the February-2010 move from Winter Park to Brooklyn carries the audio ambition and the just-begun Alexis relationship north, and the same friend cohort (Bermejo, Jester, Dunn, Mohler) follows into that period."
+  - page: wiki/self/twitter/2008
+    type: evidenced-by
+    claim: "The account opens on 24 September 2008, the day Dan reached Winter Park, and its first three months are this period's student life in real time — orientation, 7am labs, twenty-hour class days, the algebra requirement and the December math final."
+  - page: wiki/self/twitter/2010
+    type: evidenced-by
+    claim: "The January 2010 tweets date the Pro Tools certification to a failed exam on the 25th and a pass at 19:40 UTC on the 26th, with the decision to move to Brooklyn posted eleven minutes later — the period's causal hinge is a test score, and it is timestamped."
+  - page: wiki/people/jason-bermejo
+    type: contains
+    claim: "Jason is the era's most durable friendship — the formative music influence who introduced Dan to Kid Cudi and DIY production, and who is still, fifteen years later, one of two people whose music taste Dan defers to."
+  - page: wiki/people/eric-jester
+    type: contains
+    claim: "Eric is the cohort member whose sparse, decade-spanning check-ins pick up exactly where they left off — the era's clearest evidence that a Full Sail friendship never needed active maintenance to survive."
+  - page: wiki/people/matt-dunn
+    type: contains
+    claim: "Dunn is the cohort's fourth member and its longest-running bit — an annual $5 birthday Venmo request Eric has paid without fail for years."
+  - page: wiki/people/jamie-mohler
+    type: contains
+    claim: "Jamie was present in NYC during the years directly following this period and, per the operator, on the day Dan first met Menore — placing the original Menore introduction inside the Full Sail cohort's own social orbit, years before the documented 2018 reconnection."
+  - page: wiki/people/stephanie-nalbone
+    type: evidences
+    claim: "A previously undocumented Sept-Nov 2009 relationship falls inside this period's own Danielle-to-Alexis pivot window without resolving how the three overlap."
+  - page: wiki/people/suzanne-frank
+    type: co-occurs
+    claim: "Suz bought the Winter Park condo Dan lived in during this period outright rather than renting it — a 2026-08-10 operator capture, the earliest documented instance of her using real property rather than cash to support him, with no corroborating record yet located."
+  - page: wiki/people/eric-jester
+    type: instantiates
+    claim: "The friendship is the era's clearest survivor: sparse but genuinely warm check-ins that resume exactly where they left off across nearly a decade, with no repair ever needed."
+  - page: wiki/people/stephanie-nalbone
+    type: evidenced-by
+    claim: "A previously undocumented relationship falling inside this period's own relationship-pivot window — Stephanie's Sept-Nov 2009 thread runs concurrently with the Danielle-ending/Alexis-beginning transition the period page already documents, without resolving how the three overlap."
+  - page: wiki/people/jason-bermejo
+    type: instantiates
+    claim: "The friendship is the era's clearest survivor: a formative-era bond that never needed repair to resume, still active fifteen years later at its all-time message-volume peak."
+  - page: wiki/people/matt-dunn
+    type: instantiates
+    claim: "Dunn is the fourth named member of the Full Sail friend group that survives, in reduced-contact form, fifteen-plus years after Orlando."
+  - page: wiki/people/alexis-armel
+    type: evidenced-by
+    claim: "A 2026-08-27 operator capture dates the relationship's start to a Thanksgiving 2009 trip home and supplies the Christmas-week ski trip and Zach Clingan rupture that follow it — full account there."
+  - page: wiki/health/chemical-architecture
+    type: causes
+    claim: "The Alexis-supplied Roxicet relapse over Thanksgiving 2009 is the previously unnamed final active-use episode immediately preceding the February 17, 2010 Suboxone stabilization this page already dates to the same window."
+  - page: wiki/self/twitter/2009
+    type: contradicts
+    claim: 'The contemporaneous public record contradicts this page''s August 2009 graduation date twice over: "i start my last month of college tomorrow" on 2009-08-31 places the final month in September, and a Pro Tools lab, a practical and an AWS final run to 2009-12-19. The class standing is untouched by either.'
+  - page: wiki/self/twitter/2010
+    type: evidenced-by
+    claim: 'The 28 February 2010 Florida departure this page gives is corroborated by a same-day tweet, "peace out, florida. it''s been real." — against a Gemini session that has him arriving in New York to stay on 18 February.'
+---
+
+# Full Sail (Sep 2008 – Mar 2010)
+
+Three years after the November 2005 family rupture and one year into the
+opiate arc ([[wiki/timeline/periods/dark-era-2007-2008]]), Dan left
+Uniontown for Winter Park, Florida — Full Sail University, Recording Arts.
+This is the hinge period where the recreational/instrumental drug use
+stabilizes into permanent chemical maintenance, where the first durable
+public voice (Twitter) begins, and where the relationship line pivots
+from Danielle to Alexis, the pairing that would eventually lead to [[wiki/people/annie-ulmer|Annie]].
+
+[![The drive south, 21 September 2008](wiki/media/dan-drive-to-florida-2008-09-21.jpg)](wiki/media/dan-drive-to-florida-2008-09-21.jpg)
+
+*The drive south, 21 September 2008, 6:55am — "Moving to Florida. Leaving PA to live on my own for the first time." (Dan's caption, 2026-09-24.)*
+
+## The degree
+
+> **CONTRADICTION [2026-09-03]:** the August 2009 graduation date is
+> contradicted by Dan's own contemporaneous public record, in two independent
+> places. On **2009-08-31** he wrote *"so weirded out i start my last month of*
+> *college tomorrow"*, which puts the final month in September. And across
+> November and December 2009 he is plainly still enrolled — *"pro tools lab.*
+> *noice"* (30 Nov), *"aced my practical without headphones"* (14 Dec), *"in*
+> *class...."* (15 Dec), *"long day of class tomorrow"* (17 Dec), *"taking aws*
+> *final with it"* (19 Dec). See `wiki/self/twitter/2009`.
+>
+> The August date comes from `raw/self/context-core/CONTEXT_CORE_EXPANDED.md`
+> — first-person testimony recorded years later. The tweets are first-person
+> and same-day. **The disagreement is held rather than resolved**: a Full Sail
+> transcript would settle it and the corpus does not have one. The five-month
+> Florida tail described below is measured from the disputed date and is
+> therefore disputed with it; if graduation was in fact late 2009, there was
+> no five-month tail, only a short one. **The top-5% class standing is not in**
+> **dispute** — nothing in the tweets touches it.
+
+An.S. in Recording Arts, graduated August 2009, top 5% of the class — the
+formal credential behind the music-production identity that runs through
+[[wiki/interests/music/overview]] (SLOPPP, MOGZART, and eventually
+GRIPNOTIC all trace back to skills built here). He stayed in Florida
+until **28 February 2010** after graduating, a five-month tail before
+returning north. (An earlier version of this page said "through March
+2010"; the tweet archive dates the departure to the day — see the
+certification section below.)
+
+## Twitter genesis
+
+The @danfrank Twitter voice begins here — Pro Tools labs, hip-hop-producer
+aspiration, Orlando nightlife, an in-network that already includes
+@alexisarmel and @joshbrannan. One specific early post is preserved as a
+marker of the period's ideological drift: an explicit "no longer consider
+myself a republican" disavowal, the first documented step away from the
+Uniontown household's Republican/talk-radio politics
+([[wiki/mind/synthesis/political-psyops]] for where that trajectory ends
+up).
+
+## The relationship pivot: Danielle ends, Alexis begins
+
+Dan's relationship with [[wiki/people/danielle-onesi]] ends during this
+window in Orlando — by his own account, because he cheated. A later
+bootloader session names the specific circumstance: a girl from
+Baltimore, connected through Jack from the band All Time Low, with
+Dan's own regret over the episode explicitly documented. [[wiki/people/alexis-armel]]
+begins the same year (2009) and becomes the operative relationship
+through the return to New York and beyond, ending only when Annie enters
+in November 2015.
+
+The relationship's beginning is a live reconstruction, and it is
+recorded here the way he told it — in layers, with the seams showing.
+One of those layers has since been superseded by his own archive, and
+the supersession is recorded below with the same seams.
+
+The deepest layer is **September 21, 2008** — not Twitter, not 2009.
+On the afternoon he drove to Florida (the drive-to-Florida photo is
+EXIF-stamped the same day), **Alexis messaged Dan on Facebook — she
+opened, not him.** The notification emails are unambiguous: all three
+that day read "Alexis sent you a message," and Facebook notifies only
+the recipient, never the sender. Her opener, 13:50 ET: *"Highly doubt
+you know who I am, but I randomly read your last note & I had to tell
+you how kickass it was. Seriously lol. & the best luck w/ doing your
+thing"* — a stranger writing in about the note. (This corrects the
+reconstruction as first written, which had Dan opening the exchange —
+same words, wrong speaker; `dat:farewell-note-2008-09-comments`.) The
+note she called kickass was, in his words, an unhinged farewell blast
+he had written naming people from high school — including
+**Ryan Basescu** (spelling his; the corpus holds one Basescu, Joni, in
+a 2022 Election Day exchange with his mother, placing the family in the
+Uniontown scene). Two more messages from her that afternoon read as
+replies inside a live back-and-forth on moving day — 15:35 ET: *"to say
+the least. i've heard a lot about you, just kinda felt kind of
+creeperish lol"*; 17:19 ET: *"I can only begin to imagine what info
+you've received on ur end so YES lol. & honestly, nothing that's too
+bad, really. Ur so damn lucky to get as far as possible away from this
+place, I know that much."* She already knew of him, then: *"you don't
+think I know who you are by this point? I mean like we have quite a few
+connections, no?"* — *"i've heard a lot about you."* And she knew the
+place he was blasting on his way out: *"Ur so damn lucky to get as far
+as possible away from this place."* He kept the thread — on February
+25, 2010 he forwarded the whole first exchange to himself under the
+subject "First ever msg's between D & A <333," which is how Dan's side
+of it survives. His memory had compressed fourteen months into "Twitter
+months before Thanksgiving"; the corpus wins, by his own rule, and the
+real story is better than the remembered one.
+
+Those fourteen months — September 2008 to July 2009 — now have room
+for the chapter he did remember. Somewhere in the gap, Alexis got back
+with her longtime boyfriend, **Steve Kezmarsky**, the man Dan says got
+her on opiates, and the early correspondence ended in an argument over
+it. Kezmarsky is not a new name in the corpus — Danielle told Dan in
+January 2014 that Alexis "used to steal when she was with Steve
+kezmarsky so they cod keep doing their drugs," Dan joked in May 2016
+about Alexis accidentally sending him pictures of her with Kezmarsky,
+and in February 2018 he warned someone against "the classic Steve
+Kezmarsky opportunity move of fucking/stealing my girl." The drug
+connection is corroborated; the argument itself is his word alone.
+
+The next layer is the July question, and he left it open the same
+night: either the bedroom photo's date is wrong, or they met — hung
+out — once in July. What is firm, in his words: "I know did not fuck
+her until thanksgiving," and "it is possible we hung out and I didn't
+get any play." If the July meeting happened, it was non-sexual —
+"didnt fuck her bur she stayed or something." The photo may document
+a first meeting that didn't take, or a date stamp that drifts; the
+record keeps both possibilities and the one certainty.
+
+What is dated is the July meeting. Dan met Alexis the night of
+**2009-07-01** — or re-met her, if the earlier meeting is real; a
+bedroom photo of the home-base house (bookshelf, dresser, guitar in
+the corner, EXIF 2009-07-02 12:30) is, in his words, "the morning
+after I met Alexis for the first time" — and twelve hours after that
+shutter fired he was buying her plane ticket to live with him. Her
+**first night in Florida** came five months later, **2009-12-02**
+(EXIF 23:57, a cuddled selfie captioned in his own words). The ticket
+and the move are separate events in his telling — the decision made in
+twelve hours, the arrival in December — and both dates are his,
+corroborated by the EXIF. He briefly disputed the December date the
+same night ("Im positive it happened on thanksgiving"), then talked
+himself through the reconstruction above; the EXIF stands per his own
+corpus-beats-memory rule, and the dispute is recorded rather than
+resolved. He then made a rare explicit exception to that rule for two
+points: the move-down date and the ticket timing. His account: he came
+home for Thanksgiving weekend, and she moved down about nine days
+later — which lands within days of the EXIF-stamped 2009-12-02
+first-night photo, close enough that both stand. The twelve-hour
+ticket purchase after the July meeting and the December move are both
+true in his telling; the ticket was the decision, December was the
+arrival.
+
+**A standing claim is superseded here, twice over.** The
+[[wiki/people/alexis-armel]] page carries frontmatter claims dating
+the meeting to Thanksgiving 2009, sourced to a 2026-08-27 operator
+capture — and the reconstruction above as first written dated first
+contact to Twitter months before Thanksgiving 2009, sourced to his
+word that same night. The September 21, 2008 Facebook exchange,
+forwarded by Dan himself on 2010-02-25, contradicts both: first contact
+was fourteen months earlier than either claim. The alexis-armel page's
+claims carry dated SUPERSEDED annotations (2026-09-24) and the page is
+flagged for a full rewrite against this reconstruction.
+
+The relationship's first two months have their own photo record.
+**2009-12-24**, Christmas Eve morning, three weeks after her first
+night in Florida: "Lexi pays rent" (his caption — pixelated derivative
+on file, original never committed). New Year's Eve he was sick — a
+hospital gurney photo stamped **2010-01-01 00:29**, sixteen minutes
+into the new year, his caption "Dan sick on NYE" — and the sickness
+has its own arc in his telling. They drove back up north for
+Christmas, stayed too long doing pills, and on the drive back — Xanax
+taken for the road, in his words — he got violently sick an hour from
+home and stayed that way for two or three weeks. The gurney photo is
+the middle of that stretch, not its start. And the answer to
+"Lexi pays rent" arrived as a video, his caption "Dan reimburses her
+generously" — explicit, so no visual is committed; the original stays
+in his media library and the joke is recorded in prose, which is where
+it belongs.
+
+February 2010 left two letters in the same Gmail self-forward habit
+that preserved the first messages. On **February 19**, two days after
+he started Suboxone, Dan wrote Alexis from a week apart: "in less than
+24 hours i'll be on my way home to you... Im so proud of you for
+staying strong." On **February 26**, his last night in Florida —
+"can you believe this is happening? i'm sitting here watching you
+pack" — he wrote the relationship's origin story back to her: "i met
+you at a very interesting point in my life, I had started down this
+'path'... And then I meet you. everything changes immediately." The
+letter corroborates the ticket in his own hand: "From the perfect,
+warm night that I picked you up at the airport." It ends the way
+seventeen-months-in love letters end: "you're the girl I'm going to
+marry." The move out came two days later.
+
+A third, previously undocumented relationship falls inside the same
+window and complicates the clean two-name sequence: a six-week
+long-distance romance with [[wiki/people/stephanie-nalbone|Stephanie
+Nalbone]], a Uniontown contact, ran September–November 2009 — a
+reconnection right at graduation, a real in-person visit home, and an
+abrupt end by early November. Nothing in either thread resolves how it
+relates in time to the Danielle ending or the Alexis beginning; it is
+recorded as a real, dated event with an unresolved place in the
+sequence, not folded into either narrative.
+
+**A 2009 event was restored to this period on 2026-08-15, having spent the
+wiki's whole life misfiled six years downstream.** About two weeks after Dan
+moved Alexis to Florida to be with him, she cheated on him — per the operator
+an **online-only** episode, not in person, which is why nothing in the Winter
+Park record marks it. Dan's only surviving account of it is a single sentence
+told to Annie on 2015-11-28, as the contrast case for how the *next*
+relationship was starting: *"I love this it's the exact opposite way I started
+my last relationship... Lex cheated on me 2 weeks in after I moved her to
+fla."* Because the sentence was filed under the date it was sent rather than
+the date it describes, the wiki carried it for months as a November 2015
+betrayal that triggered the switch to Annie — a chain now retracted in full
+(see [[wiki/mind/synthesis/bond-switch-2015]] and
+[[wiki/people/alexis-armel]]). The episode belongs here, in the relationship's
+first month, and it is the earliest dated event in the Alexis record.
+
+Alexis wasn't a long-distance partner during this
+window — the Twitter corpus places her physically in Orlando with Dan,
+tagged directly in local outings ("springs w @alexisarmel," a day trip to
+one of the freshwater springs outside the city) and in the same
+closed-network in-jokes as [[wiki/people/josh-brannan|Josh Brannan]] and
+other Full Sail-era friends, consistent with her later confirmed presence
+through the NYC years documented on [[wiki/people/alexis-armel]].
+
+> **GAP CLOSED [2026-08-28] — the sequence is narrowed to specific weeks.**
+> This section's own Gaps entry asked for exactly this. A 2026-08-27 operator
+> capture (`raw/people/captures/2026-08-27_222932_gap-alexis-armel.md`)
+> supplies it: Dan graduated in **August 2009** and was already living in
+> Orlando when he went home to Pennsylvania for **Thanksgiving**, where he
+> meets Alexis. They spend two nights together; a week or two later he buys
+> her a one-way ticket to Orlando. That places the Alexis beginning in
+> **November 2009**, roughly three months after the Danielle/Full-Sail
+> cheating episode this section documents just above, and confirms the
+> bootloader's "November 2009" dating over the Gemini profile's "2010" (full
+> reconciliation on [[wiki/people/alexis-armel]]).
+>
+> **The trip also supplies a Christmas-week episode with two dated**
+> **consequences documented on other pages**: a party at Suz's house that ends
+> Dan's friendship with [[wiki/people/zach-clingan|Zach Clingan]], and an
+> overnight Seven Springs ski trip with [[wiki/people/jason-bermejo|Jason
+> Bermejo]] and [[wiki/people/josh-brannan|Josh Brannan]] among the group.
+> Both are written up in full on [[wiki/people/alexis-armel]] and
+> [[wiki/people/zach-clingan]] rather than duplicated here.
+
+## The friend group
+
+Full Sail seeds the one social cohort in Dan's record that outlasts
+every geographic move that follows: [[wiki/people/jason-bermejo|Jason
+Bermejo]], [[wiki/people/eric-jester|Eric Jester]],
+[[wiki/people/matt-dunn|Matt Dunn]], and
+[[wiki/people/jamie-mohler|Jamie Mohler]], a four-person group whose
+members are corroborated across two separate 2025 message threads —
+Jason's (which names all four) and Eric's (which independently names
+Dunn) — decades after Orlando. Jason supplies the era's
+music-taste imprint (Kid Cudi, DIY closet-studio recording, blog-era
+hip-hop) that runs forward into Dan's whole production identity; the
+group's other three members are lower-volume in the corpus but no less
+durable — Eric's check-ins resume every year or two with no repair
+needed, and Dunn is the subject of an annual $5 birthday joke Eric has
+paid without fail for years. Per the operator, Jamie was in New York
+with Dan during the NYC-1 years directly following this period and was
+present the day Dan first met [[wiki/people/menore|Menore]] — meaning
+the introduction to the dealer who would go on to be the most reliable
+node of the entire [[wiki/mind/synthesis/supply-network|supply
+network]] traces back to this same friend group.
+
+The cohort had a physical center. Dan was the only one of the group
+who owned his own place in Orlando — literally across the street from
+Full Sail — and his house was home base for the four of them: Dan,
+Eric Jester, [[wiki/people/matt-dunn|Matt Dunn]] (a live-music student
+in Dan's words), and Jason Bermejo (operator testimony, 2026-09-24).
+That housing arrangement explains the group's cohesion better than any
+shared class schedule: they didn't just study together, they lived out
+of the same living room. The 2009 photo series from that house reads
+like a documentary of the arrangement — a May 10 arena trip waving an
+Orlando Magic rally towel, a late-night August 22 street-party crowd,
+an August 30 couch session with a blank canvas and an Arby's cup,
+a video chat with Jester against an Earthrise backdrop on January 8,
+2009, and the graduation itself, caps and gowns, Full Sail on the
+diploma cover — plus a bedroom still-life from July 2009, guitar in
+the corner and a bookshelf's worth of books, a photo Dan himself
+didn't know existed until it surfaced in his library that night.
+
+## Pro Tools certification (26 January 2010)
+
+The Twitter corpus dates the Pro Tools certification not to a cluster but
+to an hour. He sat the "210m" exam and **failed it** on 25 January 2010
+("ughhhhhhhhhhh missed my 210m by 3 questions"), retook it the next
+morning, and announced the pass at **19:40 UTC on 26 January 2010**. The
+process is documented in Dan's own words across three tweets: "one more
+test and i'm a certified pro tools operator!", the triumphant announcement
+once it landed — "EAT UR HEART OUT BITCH IM PRO TOOLS CERTIFIED" — and a
+wry follow-up admitting the tool he'd actually keep using was a
+competitor's: "it's sort of ironic how i finish my pro tools certifications
+and go directly to Logic. <3 u, anything made by apple." The credential
+became his internship pitch on the move north, self-described plainly as
+"recent music engineering grad with pro tools certification" rather than
+with any of the tweet-era bravado. (Separately, a later AI-generated
+retrospective — Gemini-_58.txt, not a primary source, and stylized as a
+dramatized "simulation log" — narrativizes this as a **Pro Tools HD 8**
+certification specifically, framing it as advanced signal-routing/TDM/
+delay-compensation training that only "the 5% tier" of the graduating
+class completed. That level of technical specificity isn't corroborated
+anywhere in Dan's own contemporary tweets and should be read as retrospective
+narrative coloring, not confirmed fact.) The certification is the credential
+that completes the Recording Arts program and is the direct trigger for the
+move: audio engineering credentials in hand, Dan relocates to
+compete in "NYC's density-driven market" rather than stay in Orlando's
+post-graduation lull.
+
+**The credential and the decision are eleven minutes apart.** "EAT UR
+HEART OUT BITCH IM PRO TOOLS CERTIFIED" is posted at 19:40; "Brooklyn
+here we come!!" at 19:51, the same evening. Nothing in the archive
+anticipates the move before the exam result — the preceding week is
+studying, West Palm complaints and a first tattoo — and the move is
+executed within five weeks of it. Whatever else the Recording Arts
+program produced, the certification is the thing that moved him: the
+period's causal hinge is a test score, and it is dated.
+
+The move itself follows fast and is dated to the day on
+[[wiki/timeline/periods/2010s]]: the Williamsburg apartment hunt on 17
+February, the U-Haul on the 27th, "peace out, florida" on **28 February
+2010**, and `dan@ishlab.com` live on 24 March. The "April 2010" date
+this page and context-core's residence table both carried is a month
+late.
+
+## Chemical stabilization
+
+The opiate arc that began in 2007 reaches its resolution at the tail end
+of this period: Suboxone initiated around January 2010, with day-zero
+later pinned to February 17, 2010 in the fuller chemical-history record
+([[wiki/health/chemical-architecture]]) — meaning the single most durable
+fact of Dan's adult physiology (sixteen-plus years of daily maintenance,
+zero relapses) was set in motion in Winter Park, not Uniontown.
+
+> **GAP CLOSED [2026-08-28] — the final relapse before stabilization now has**
+> **a name and a cause.** This section previously stated the resolution
+> without naming what came immediately before it. The same 2026-08-27
+> capture that dates the Alexis relationship's start supplies it: over the
+> Thanksgiving weekend they meet, Alexis brings **thirty Roxicet pills**, and
+> "the opiate addiction that Dan had truly kicked while in college is back in
+> force." A friend called Spetch — described as a childhood friend and
+> roommate of [[wiki/people/jason-bermejo|Jason Bermejo]] — begins driving
+> from Winter Park to Ocala daily to keep the supply running. The relapse
+> continues through the Christmas trip home (an eight-day stay, extended
+> past plan by the same pattern — a supply constraint at the point of
+> departure — that recurs years later during the terminal Annie phase) and
+> resolves seven weeks after the couple's return to Orlando — the return
+> itself undated in the record, so the seven weeks cannot be anchored to a
+> calendar start — on the
+> already-dated February 17 day-zero. This is the first source in the
+> corpus to connect a specific person and episode to the timing of the
+> stabilization, rather than leaving it as an undated, causeless resolution
+> at "Full Sail's end."
+
+## What comes next
+
+Full Sail ends with the move to Brooklyn in **late February 2010** — the first of two
+distinct New York chapters, this one running to May 2013 before an
+Uniontown return that develops the producer aliases and eventually leads
+to Annie.
+
+## Gaps
+
+~~No message corpus or dated record narrows the "Danielle ends, Alexis
+begins" sequence to specific weeks within the eighteen-month window; both
+transitions are established only at the level of "during Full Sail."~~
+**CLOSED 2026-08-28** — see the GAP CLOSED block under [The relationship
+pivot](#the-relationship-pivot-danielle-ends-alexis-begins) above: the
+Alexis beginning is now dated to a Thanksgiving 2009 trip home, three
+months after the August 2009 graduation. The Danielle ending's own exact
+week is still not independently dated beyond "during this window."
+
+

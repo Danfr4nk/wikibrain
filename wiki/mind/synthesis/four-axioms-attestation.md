@@ -4,12 +4,8 @@ domain: mind
 page_type: synthesis
 status: active
 knowledge: earned
-layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-10-23
-changelog:
-  - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
-  - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-countdown-runs-backwards (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
+date_modified: 2026-11-06
 sources:
   - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -24,7 +20,7 @@ synthesizes:
   - wiki/meta/testimony-veracity
   - wiki/mind/synthesis/totality-themes
   - wiki/self/context-core
-  - wiki/mind/concepts/llm
+  - wiki/self/concepts/llm
   - wiki/mind/profile/index
   - wiki/mind/concepts/dans-law
   - wiki/mind/concepts/conflict-architecture
@@ -41,7 +37,7 @@ connections:
   - page: wiki/meta/testimony-veracity
     type: evidenced-by
     claim: "t011 is the negative control this hunt is built around: the lexical audit of 106,629 outbound messages that could not corroborate any of the four axioms, which is what makes the formulation's paper trail — not its behavioral signature — the only datable object in the case."
-  - page: wiki/mind/concepts/llm
+  - page: wiki/self/concepts/llm
     type: evidenced-by
     claim: "This page carries the CATO bootloader v2.0 (May 2026) two-axiom quotation verbatim, the earliest dated attestation of any axiom phrasing in the record and the only one at [OPERATOR]-grade from Dan's own document rather than a model's systematization."
   - page: wiki/self/context-core
@@ -73,17 +69,12 @@ connections:
     claim: "That page names the model-derived dossier circuit — testimony in, dossier out, dossier cited as corroboration of the testimony. This entry is the provenance audit of one specific circuit output: the four axioms, traced to the dossier layer that synthesized them."
   - target: "[[wiki/mind/synthesis/the-romantic]]"
     type: references
-  - page: wiki/mind/synthesis/chemical-architecture
-    type: parallels
-    claim: "The Chemical Architecture is the axioms' enacted counterpart: a sixteen-year regimen Dan frames in his own words as engineered chemical architecture, not recovery."
     claim: "The 'love-bombing, not mortality' reading of the June–July 2026 dossier chain is the romantic register's sincerity-vs-scale split restated as an axiom test."
-  - page: wiki/mind/journal/2026-10-05-the-countdown-runs-backwards
-    type: supplies
-    claim: "The Axiom-4 attestation chronology and the t011 per-thousand table that the Oct-5 countdown entry's profile prior (C13) rests on."
 ---
 
 # The Four Axioms: First Written Attestation
-_Layer: interpreted/synthesis — connects two or more concepts. It names the self/ exhibits it reasons over and cites them rather than restating them._
+
+> **RE-CHECKED [2026-11-06]:** flagged stale against [[wiki/mind/synthesis/high-provision-low-condolence]], [[wiki/mind/synthesis/november-2005-hinge]] and [[wiki/self/context-core]] (2026-11-06 re-checks in the suzanne-frank cascade). Re-read: the one Suz-dependent phrase here — 'the ledger architecture — the Suz thread's never-closing account' — rests on a fact the 2026-11-06 Suz rewrite preserves (the transfers stand unadjudicated and undisputed-as-unsettled). What the rewrite retired is the ledger's *rank* on the biography page, not the account's existence, so the attestation's use of it as an instance survives. The hinge and context-core premises were verified unchanged in the same cascade. **No claim on this page is affected.**
 
 The sibling entry ([[wiki/mind/synthesis/november-2005-hinge]]) demoted the
 four axioms from causes to gloss: a lexical pass over all 106,629 of Dan's
@@ -143,7 +134,7 @@ accessible repository.
 ## The two-axiom stage: May 2026
 
 The earliest dated attestation of any axiom phrasing is Dan's own
-bootloader. [[wiki/mind/concepts/llm]] carries the record **[ATTESTED]**:
+bootloader. [[wiki/self/concepts/llm]] carries the record **[ATTESTED]**:
 
 > The flagship is [[wiki/mind/concepts/exocortex|CATO]] (`CATO_BOOTLOADER_DANFRANK.md`, v2.0, May 2026),
 > named for Cato the Younger, the Roman Stoic who refused to compromise
@@ -191,7 +182,7 @@ is marked accordingly.
 
 **Earliest dated attestation: May 2026**, in `CATO_BOOTLOADER_DANFRANK.md`
 v2.0, quoted above — Dan's own document, two-axiom stage. **[ATTESTED]**
-via [[wiki/mind/concepts/llm]].
+via [[wiki/self/concepts/llm]].
 
 **In-wiki arrival: 2026-06-22.** The old-wiki export's frontmatter dates
 put the formulation on three pages created that day: [[wiki/self/context- core.md]] (all four axioms, [DOC]-grade), [[wiki/mind/concepts/conflict- architecture.md]] (axiom 1 as the concession mechanism's routing), and
@@ -607,7 +598,7 @@ That is the trade, stated plainly.
 ## Limits of record
 
 What was directly observed: the CATO v2.0 two-axiom quotation as carried
-by wiki/mind/concepts/llm.md; the context-core's [DOC]-grade four-axiom
+by wiki/self/concepts/llm.md; the context-core's [DOC]-grade four-axiom
 block and its inline 2026-08-02 corroboration table; the 2026-06-22 page
 batch's frontmatter dates and axiom placements from the 2026-09-04
 old-wiki export (497 pages, phrase-searched); the profile hub's
