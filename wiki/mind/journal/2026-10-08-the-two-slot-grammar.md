@@ -8,8 +8,9 @@ knowledge: derived
 importance: medium
 layer: interpreted/journal
 date_created: 2026-10-08
-date_modified: 2026-10-19
+date_modified: 2026-11-07
 changelog:
+  - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 9."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
   - wiki/mind/concepts/explicit-verbal-commitment
@@ -47,6 +48,9 @@ connections:
   - page: wiki/mind/journal/2026-10-05-the-handed-mirror
     type: distinguishes
     claim: "The Mirror is about verdicts needing a witness for completion. This entry is about the form a binding statement must take — the Mirror names who must speak; the Grammar names the acceptable script."
+  - page: wiki/mind/profile/texting-deviance-audit
+    type: evidenced-by
+    claim: "Evidence leg 7 runs on this page's measurement: question density 0.75 vs 1.30 per 100 words (43% below norm) and turns ending on a question 5.7% vs 7.4% - the scope condition this entry prices: the interrogative register is thin overall and zero at the interpretive end."
 ---
 
 # The Two-Slot Grammar

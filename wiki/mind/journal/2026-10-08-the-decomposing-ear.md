@@ -8,8 +8,9 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-08
-date_modified: 2026-10-19
+date_modified: 2026-11-07
 changelog:
+  - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 9."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
   - wiki/mind/concepts/lyric-qualifier.md
@@ -41,6 +42,9 @@ connections:
   - page: wiki/mind/journal/2026-10-03-the-narrator-tax
     type: distinguishes
     claim: "The two lyric-qualifier captures (2026-07-14, 2026-09-11) say the same thing fourteen months apart in different words, and the later capture adds limits (the ~3 exceptions, the lyric-sheet detail) rather than upgrading certainty — the inverse of the narrator-tax signature — so the capture is read straight, not taxed."
+  - page: wiki/work/tech/projects/musictrainer-autopsy
+    type: evidenced-by
+    claim: "Evidence leg 2 runs on this page's record: AUTOPSY's 16-driver WHAT DID IT? grid (commissioned 2026-09-14, dat:1708) names 'vocal as texture - voice, not words' as its vocal dimension and carries no field for lyrical content at all - the instrument this entry reads as the decomposing ear built into software."
 ---
 
 # The Decomposing Ear

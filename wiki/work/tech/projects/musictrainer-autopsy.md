@@ -7,7 +7,7 @@ status: active
 importance: high
 knowledge: mixed
 date_created: 2026-09-14
-date_modified: 2026-09-20
+date_modified: 2026-11-07
 tags: [music-production, ai-collaboration]
 related:
   - wiki/work/tech/index
@@ -16,6 +16,12 @@ related:
   - wiki/mind/concepts/lyric-qualifier
   - wiki/meta/complete-log-doctrine
   - wiki/meta/instruments/index
+connections:
+  - page: wiki/mind/journal/2026-10-08-the-decomposing-ear
+    type: evidences
+    claim: "The 2026-10-08 entry 'The Decomposing Ear' carries its instrument leg on this page: the 16-driver grid recorded here, with its vocal dimension named 'vocal as texture - voice, not words' and no lyric-content field, is its proof that his commissioned instruments decompose a track into production dimensions before any semantic pass."
+changelog:
+  - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 9."
 ---
 
 # MusicTrainer + AUTOPSY: the taste instruments

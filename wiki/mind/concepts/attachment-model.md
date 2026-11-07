@@ -6,7 +6,7 @@ aliases: ["rule-based attachment", "the no-counter-rule architecture", "attachme
 status: active
 layer: interpreted/concept
 date_created: 2026-06-22
-date_modified: 2026-11-01
+date_modified: 2026-11-07
 tier: major
 sources:
   - raw/self/sage/2026-08-21_220918_which-of-the-people-in-this-wiki-would-be-the-be.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -98,7 +98,11 @@ connections:
   - page: wiki/mind/journal/2026-10-31-the-imperative-is-the-check-in
     type: instantiates
     claim: "The Oct-31 entry is an attachment-model case in the verbal register: the check-in loop's utterances take imperative form because only completion-by-execution is processable."
+  - page: wiki/mind/journal/2026-10-08-stress-loads-the-failing-channel
+    type: evidences
+    claim: "The 2026-10-08 entry 'Stress Loads the Failing Channel' carries its non-response leg on this page: the July 26, 2026 fifteen-hour unconditional reset recorded here is its specimen that under contestation the contested channel's output lengthens instead of retreating."
 changelog:
+  - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 9."
   - "2026-11-01: Added Jev-gated backlink edges (engine run 2026-11-01; Jev jev-1.13.0 triage, human full-read gate)."
   - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---

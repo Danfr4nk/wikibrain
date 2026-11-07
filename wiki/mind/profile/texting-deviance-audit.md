@@ -7,8 +7,9 @@ status: active
 title: "Texting Deviance Audit — What Is Actually Abnormal About How Dan Texts"
 aliases: ["texting audit", "brevity baseline", "stacked-essay mode"]
 date_created: 2026-08-23
-date_modified: 2026-10-18
+date_modified: 2026-11-07
 changelog:
+  - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 9."
   - "2026-10-18: Declared framework-v2 layer (interpreted/profile). No edge changes."
 importance: high
 date_range_start: 2015-11-12
@@ -33,6 +34,9 @@ connections:
   - page: wiki/self/message-corpora/master-message-dump
     type: component-of
     claim: "A structural cut of the master corpora — turn-level rather than message-level — computed from the 2026-08-13 deep export because it is the only sender-tagged file that reaches past 2025."
+  - page: wiki/mind/journal/2026-10-08-the-two-slot-grammar
+    type: evidences
+    claim: "The 2026-10-08 entry 'The Two-Slot Grammar' carries its scope leg on this page: the question-density measurement recorded here (0.75 vs 1.30 per 100 words) is its proof that the interpretive register's absence is a hard zero at one end of a merely thin register, not a general silence."
 ---
 
 # Texting Deviance Audit — What Is Actually Abnormal About How Dan Texts

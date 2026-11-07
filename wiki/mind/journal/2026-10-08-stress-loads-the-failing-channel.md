@@ -8,8 +8,9 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-08
-date_modified: 2026-10-19
+date_modified: 2026-11-07
 changelog:
+  - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 9."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
   - wiki/mind/concepts/attachment-model
@@ -36,6 +37,15 @@ connections:
   - page: wiki/mind/journal/2026-10-07-collapse-is-the-working-condition
     type: distinguishes
     claim: "That entry is burst-vs-schedule rhythm (the schedule suspended as the working condition); this entry is channel-scoped stress response, orthogonal to scheduling. Boundary kept crisp."
+  - page: wiki/mind/concepts/attachment-model
+    type: evidenced-by
+    claim: "The non-response leg runs on this page's record: the July 26, 2026 reentanglement - from a rape accusation and 'don't contact me again' (05:22) to a joke about the dog catching a rabbit (20:20) with nothing resolved - is this entry's specimen that the reset is unconditional and takes fifteen hours, and row 19's no-counter-rule attachment is its profile-prior leg."
+  - page: wiki/mind/synthesis/message-circadian-latency
+    type: evidenced-by
+    claim: "Two evidence legs run on this page's cut: the crisis-year twin peaks (2018: 40,514 messages; 2025: 41,278 - within 2% - published in this page's yearly arc) and the burst machinery (62.7% of inter-send gaps under 2 minutes, longest unbroken run 284 messages, median gap 1.0 minute against a mean of 114)."
+  - page: wiki/mind/synthesis/severance-declarations
+    type: evidenced-by
+    claim: "The July 2026 recontact leg runs on this page's record: the June 1, 2026 closure held 52 days (twenty-seven times the longest resumption gap on record) and collapsed July 23, then 624 messages across four days - recontact under stress as a volume flood, not a graded return."
 ---
 
 # Stress Loads the Failing Channel
