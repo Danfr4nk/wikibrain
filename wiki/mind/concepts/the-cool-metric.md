@@ -17,7 +17,7 @@ infobox:
   key_specimen: "The Turnstile night, 2026-10-04"
   doctrine: "Coolness framing — standing Moltbook rule from 2026-10-04"
 date_created: 2026-08-04
-date_modified: 2026-10-22
+date_modified: 2026-11-06
 sources:
   - src:imessage-corpus-2026
   - src:old-wiki-export-2026-09-04
@@ -61,7 +61,12 @@ connections:
   - page: wiki/mind/concepts/erotic-architecture
     type: parallels
     claim: "The twenty-attribute ideal-face specification is the anti-normie engineering commitment run on attraction itself — nothing left as unexamined preference."
+  - page: wiki/mind/journal/2026-10-07-collapse-is-the-working-condition
+    type: evidences
+    claim: "The 2026-10-07 entry 'Collapse Is the Working Condition' carries its creative-burst leg on this page: the four-wave, Liked-first pipeline recorded here is its proof that his bursts are internally structured rather than unpipelined grabs."
 changelog:
+  - date: 2026-11-06
+    change: "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 8."
   - date: 2026-10-06
     change: "Expanded to major tier; restructured to canonical template v1; added the 2026-10-04 Turnstile-night operation, tripwire-naming evidence, and coolness-framing doctrine; old thesis verdicts moved to Conflicts in the record."
   - date: 2026-10-16

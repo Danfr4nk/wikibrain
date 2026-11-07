@@ -74,7 +74,11 @@ connections:
   - page: wiki/mind/journal/2026-10-06-the-direction-of-distrust
     type: evidences
     claim: "The 2026-10-06 entry 'The Direction of Distrust' takes this page's 41-month tenure as its work-tenure spine (leg D6): the staff-side audit posture sustained throughout, and Dan's documented sabotage within the vertical, are its evidence that suspicion of vertical claims runs from inside the structure as well."
+  - page: wiki/mind/journal/2026-10-07-the-transferred-role
+    type: evidences
+    claim: "The 2026-10-07 entry 'The Transferred Role' takes this page as its import case: the advocate role explicitly carried from caddying into this job, and held by the regulars' demand at the Thanksgiving 2023 line, is its proof that the role - unlike the host-specific payload - transfers across employments."
 changelog:
+  - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 8."
   - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 7."
   - "2026-11-04: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-04 engine wave."
   - "2026-11-01: Added Jev-gated backlink edges (engine run 2026-11-01; Jev jev-1.13.0 triage, human full-read gate)."

@@ -8,8 +8,9 @@ knowledge: derived
 importance: medium
 layer: interpreted/journal
 date_created: 2026-10-07
-date_modified: 2026-10-19
+date_modified: 2026-11-06
 changelog:
+  - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 8."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
   - wiki/mind/synthesis/message-circadian-latency
@@ -43,6 +44,15 @@ connections:
   - page: wiki/mind/journal/2026-10-05-the-countdown-runs-backwards
     type: orthogonal-to
     claim: "That entry is about urgency lexical constructions (prospective vs post-hoc verdicts); this one is about schedule structure and output timing — adjacent territory, no shared mechanism."
+  - page: wiki/mind/synthesis/message-circadian-latency
+    type: evidenced-by
+    claim: "Legs D1-D2 run on this page's primary cut, re-verified 2026-10-07: 62.7% of inter-send gaps under 2 minutes (67.5% on re-verification), median 1.0 minute against a mean of 114, twin annual peaks (2018: 40,514; 2025: 41,278) bracketing the 2021-2022 near-blackout - burst-and-collapse measured at the message scale and the year scale."
+  - page: wiki/mind/concepts/the-cool-metric
+    type: evidenced-by
+    claim: "Leg D3's pipeline leg runs on this page's record of the 2025 dance re-entry: the 232-track crate built in four waves (October 31-December 22, 2025), 91.3% of tracks passing through Liked first (1,417 likes in 2025 vs 88 in 2017-2023), zero overlap with the 5,321-track historical dump - a burst with an internal curation rule-set, not a grab."
+  - page: wiki/mind/synthesis/the-embedded-objective
+    type: evidenced-by
+    claim: "Leg D4's Nemacolin leg and the entry's tenure pricing run on this page's payload rule: the looper status ladder and golf itself as the private objectives installed inside the 43-month caddying tenure, and the rule's general form - tenure tracks the payload, not the assignment - is what prices the two long tenures against the payload-less BFS month."
 ---
 
 # Collapse Is the Working Condition

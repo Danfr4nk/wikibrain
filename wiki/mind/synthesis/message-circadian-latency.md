@@ -6,8 +6,9 @@ status: active
 tier: major
 layer: interpreted/synthesis
 date_created: 2026-07-15
-date_modified: 2026-10-24
+date_modified: 2026-11-06
 changelog:
+  - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 8."
   - 2026-10-07 — Expanded to major tier; restructured to canonical template v1. Retraction material moved to Conflicts in the record; stale "what this adds" and caveats language updated to the corrected finding. Added "Synchrony has no off-hours" and "How the measurement is made" sections; re-verified headline figures against raw/imessage/ on-disk exports in the local evidence clone.
   - "2026-10-24: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
@@ -61,6 +62,9 @@ connections:
     type: parallels
     claim: "The raw dumps this latency cut is generated from — MASTER_MESSAGES_DB_DUMP and the sender-tagged superset — are catalogued in the Source Coverage Index, with their overlap and attribution limits."
     claim: "Same corpus, orthogonal instrument: this page measures when he writes and how fast the channel turns around, that one measures how much he writes per turn. Both find a 2025-26 inflection, and the length series carries the remediation target — turns of 11-20 words are answered 93.8% against 54.7% above 200 words."
+  - page: wiki/mind/journal/2026-10-07-collapse-is-the-working-condition
+    type: evidences
+    claim: "The 2026-10-07 entry 'Collapse Is the Working Condition' takes this page's burst fingerprint and yearly arc as its messaging leg: the bimodal gap distribution and the twin peaks falling in collapse windows are its Layer-A proof that output amplitude concentrates in schedule-suspended windows."
 ---
 
 

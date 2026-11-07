@@ -8,8 +8,9 @@ knowledge: derived
 importance: medium
 layer: interpreted/journal
 date_created: 2026-10-07
-date_modified: 2026-10-19
+date_modified: 2026-11-06
 changelog:
+  - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 8."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
   - kb/data/0937-enneagram-self-typing-5w6sx-rloei.md
@@ -39,6 +40,9 @@ connections:
   - page: wiki/mind/journal/2026-10-03-the-quantized-graph
     type: distinguishes
     claim: "Row 38's channel brevity is used here as an organization datum (the register is rigid), not as actuation mechanics (how distance moves the tie). Orthogonal use, same page cited."
+  - page: wiki/mind/profile/big-five-psychometrics
+    type: evidenced-by
+    claim: "Leg D2 runs on this page's testimony-grade RLUEI readings: the dossier gloss recorded here - an unstructured exterior holding obsessive internal logical structure, working in intense bursts followed by complete collapse - already concedes the two-register shape, and this page records the dated first-person RLOEI self-typing (2024-11-04) contesting the SLOAN fourth letter the entry prices."
 ---
 
 # The Two Registers

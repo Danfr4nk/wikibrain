@@ -8,8 +8,9 @@ knowledge: derived
 importance: medium
 layer: interpreted/journal
 date_created: 2026-10-07
-date_modified: 2026-10-20
+date_modified: 2026-11-06
 changelog:
+  - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 8."
   - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-06-the-delegated-surface (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
@@ -43,6 +44,12 @@ connections:
   - page: wiki/mind/journal/2026-10-06-the-delegated-surface
     type: parallels
     claim: "The Oct-7 work pass finds the same portability in the opposite direction: the advocate role survives job loss while payloads die; here the instrument's voice survives his occupancy gap while his direct output stays at the floor."
+  - page: wiki/work/au-zaatar
+    type: evidenced-by
+    claim: "Leg D2 runs on this page's record: the white Oxford bought and the golf-caddie mode named in his own words - the customer's advocate against the house - the Thanksgiving 2023 firing attempt that failed because the regulars and the 58th Street neighbors demanded he stay, and the de facto manager line ('except i don't do anything the manager should other than advocate for the customers and neighbors')."
+  - page: wiki/work/caviar-courier
+    type: evidenced-by
+    claim: "Leg D5, the negative case, runs on this page's record: 290 automated dispatches, dense April-July 2019, near-silent August-November 2019, not one human message in a year of courier work - an app-dispatch engagement with no human counterparty, where the advocate role is absent exactly as the thesis predicts: the role needs a counterparty the way the payload needs a host."
 ---
 
 # The Transferred Role

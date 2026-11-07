@@ -8,7 +8,7 @@ knowledge: earned
 importance: high
 layer: interpreted/synthesis
 date_created: 2026-08-02
-date_modified: 2026-10-25
+date_modified: 2026-11-06
 sources:
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -76,7 +76,11 @@ connections:
   - page: wiki/mind/profile/big-five-psychometrics
     type: evidenced-by
     claim: "The intellect/impulsivity paradox this page's completion-drive reading depends on is a live, unresolved dispute rather than settled fact: this instrument reads Impulsiveness 96 as a brake failure, acquisition-drive reads the same behaviour as an engine, and this page inherits the engine reading without ever stating that the instrument itself reads it the other way — carried forward here rather than laundered into consensus."
+  - page: wiki/mind/journal/2026-10-07-collapse-is-the-working-condition
+    type: evidences
+    claim: "The 2026-10-07 entry 'Collapse Is the Working Condition' applies this page's payload rule to output cadence: two long tenures sustained by installed payloads, against the one-month payload-less tenure, are its employment leg for the schedule as an endured container rather than an inhabited engine."
 changelog:
+  - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 8."
   - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

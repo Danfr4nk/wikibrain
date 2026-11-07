@@ -8,7 +8,7 @@ status: stable
 importance: high
 tier: major
 date_created: 2026-07-13
-date_modified: 2026-11-05
+date_modified: 2026-11-06
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -21,6 +21,7 @@ related:
   - wiki/self/context-core
 tags: [personality-profile, forensic-analysis]
 changelog:
+  - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 8."
   - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave 6."
   - "2026-10-18: Declared framework-v2 layer (interpreted/profile); relocated the SLOAN fourth-letter claim from the linguistic-profile edge to the enneagram-5w4 edge it belongs to; added reciprocal evidences edge to socionics-and-attitudinal (2026-09-15 head-to-head table)."
   - "2026-10-07: Expanded to major tier and restructured to canonical article template v1; the Impulsiveness-96 / acquisition-drive contradiction moved to Conflicts in the record per template ordering; new evidence sections on audit method, the Ti-confidence correlate's correction history, and the commissioned-layer provenance."
@@ -80,6 +81,9 @@ connections:
   - page: wiki/mind/journal/2026-10-04-selection-buys-delay
     type: evidences
     claim: "The 2026-10-04 entry 'Selection Buys Delay' builds its Row 12 leg on this page's Trust measures (9th percentile; 1.96x suspicion-of-motive language) and narrows their scope: the low trust fires on vertical claims on contact, while selected lateral ties are queued - a scheduling claim about this page's central measure."
+  - page: wiki/mind/journal/2026-10-07-the-two-registers
+    type: evidences
+    claim: "The 2026-10-07 entry 'The Two Registers' prices the RLUEI/RLOEI dispute documented on this page as a domain-gating fact rather than an error: the U-letter gloss carried here, with its obsessive internal structure inside external disorder, is located by the imposed-vs-chosen axis instead of reconciled away."
 ---
 
 # Big Five / Big30 Psychometrics & PD Vector
