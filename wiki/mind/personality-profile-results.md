@@ -50,7 +50,7 @@ letter was called.
 | [[wiki/people/danielle-onesi\|Danielle Onesi]] | **Not callable** | — | No readable own-voice messages survive |
 | [[wiki/people/rick-frank\|Rick Frank]] | **ESFP** | Low–moderate | 1,600+ messages; bulk on the unheld dump, Dec 2015 – Apr 2018 corroborated by an independent PDF export |
 | [[wiki/people/eric-jester\|Eric Jester]] | **ISFX** | Low | 237 iMessages plus the Facebook thread; episodic, event-triggered |
-| [[wiki/people/tom\|Tom Maison]] | **ENTP** | Low | 5,700+ messages across two handles; the page's sources are largely ⚠-flagged |
+| [[wiki/people/tom\|Tom Maison]] | **ENTP** | Low | 5,700+ messages across two handles; the page's sources are largely ⚠-flagged — **tested INTP** (per Dan, 2026-11-07): 3/4 convergence with the instrument result, diverging only on E/I |
 | [[wiki/people/jerad-friedline\|Jerad Friedline]] | **INTX** | Low | 2,161 held messages (881 his); event-burst pattern |
 | [[wiki/people/jason-bermejo\|Jason Bermejo]] | **XNFP** | Low | ~270 messages; direction unlabelled in the export, attributed by content |
 | [[wiki/people/joe-oshnack\|Joe Oshnack]] | **Not callable** | — | Thread bodies unheld; only Dan's side is quoted anywhere |
@@ -72,6 +72,11 @@ letter was called.
   both are recorded on her entry, and the contested letters are omitted
   until a Fe-vs-Fi / Te-vs-Ti adjudication pass — or a self-administered
   test — exists.
+- **Tom Maison's instrument result and his tested result converge on
+  three of four letters.** The corpus instrument calls ENTP (low); Tom
+  tested INTP years ago (per Dan, 2026-11-07; test instrument and date not
+  in the held record). They agree on N, T, P and diverge only on E/I — the
+  axis a single-context text corpus gauges worst. Both stand on his entry.
 - **Four people are not callable at all**, and the reasons differ:
   Danielle Onesi's own messages do not survive in readable form; Joe
   Oshnack's thread bodies are unheld (only Dan's side is quotable); Sena

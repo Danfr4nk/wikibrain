@@ -400,6 +400,14 @@ calls rest on the page's corpus readings as relayed, which is why the whole
 row is LOW.
 
 
+**Tested result (noted 2026-11-07):** Tom tested **INTP** years ago, per
+Dan's statement (2026-11-07); the test instrument and date are not in the
+held record. This run was computed blind to that result. The two agree on
+**N, T, and P** and diverge only on **E/I** — the axis a text corpus gauges
+worst, because this corpus is Tom writing to Dan, a closest-friend context.
+Both results stand: instrument **ENTP** (low), tested **INTP**. The conflict
+is recorded, not resolved.
+
 *Method and full registry: [[wiki/mind/personality-profile-results|Personality Profile Results]] — the registry page states the instrument, every result, and every omission in one place. Run date: 2026-11-07.*
 
 ## References
