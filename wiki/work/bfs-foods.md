@@ -5,7 +5,7 @@ title: "BFS Foods (2026): Job, Drawer Dispute, Termination"
 status: closed
 knowledge: mixed
 date_created: 2026-07-13
-date_modified: 2026-11-05
+date_modified: 2026-11-07
 sources:
   - raw/legal/bfs-dispute/BFS_BOOTLOADER_v2.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/legal/bfs-dispute/BFS Anita Quagmire strategy and legal exposure.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -102,7 +102,11 @@ connections:
   - page: wiki/mind/journal/2026-10-04-selection-buys-delay
     type: evidences
     claim: "The 2026-10-04 entry 'Selection Buys Delay' builds its vertical clock on this page's drawer dispute: the $50 claim audited in hours (full reconstruction, in withdrawal) while chosen ties ran unaudited for years - provenance, not stakes, set the schedule."
+  - page: wiki/mind/journal/2026-10-08-the-disorder-premium
+    type: evidences
+    claim: "The 2026-10-08 entry 'The Disorder Premium' carries the collapsing half of its first pair on this page: the one-month tenure, decorative $0.00 reconciliation and untrailed $50 claim recorded here are its specimen of un-auditable disorder - nothing to hold, so no tenure."
 changelog:
+  - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 10."
   - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave 6."
   - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave."
   - "2026-11-04: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-04 engine wave."

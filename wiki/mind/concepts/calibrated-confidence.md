@@ -9,7 +9,7 @@ tier: major
 knowledge: earned
 layer: interpreted/concept
 date_created: 2026-08-02
-date_modified: 2026-11-05
+date_modified: 2026-11-07
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/twitter/archive.jsonl
@@ -57,7 +57,11 @@ connections:
   - page: wiki/mind/journal/2026-10-05-the-countdown-runs-backwards
     type: evidences
     claim: "The 2026-10-05 entry 'The Countdown Runs Backwards' carries its Rows 2/3 leg on this page: stated 'certain' at 0.25 against outcomes (the dat:0044 ledger) is the dated proof that his numbers price intensity rather than forecast - the same discipline that killed the countdown pass's percentage false positive."
+  - page: wiki/mind/journal/2026-10-09-the-numbers-mark-the-uncheckable
+    type: evidences
+    claim: "The 2026-10-09 entry 'The Numbers Mark the Uncheckable' builds on this page: the three scans and the 24-credence sort recorded here are the legs under the entry's scorability-sort verdict, and the entry's independent fourth scan (27-vs-1) extends this page's direction to a second corpus pass."
 changelog:
+  - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 10."
   - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave 6."
   - "2026-11-03: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-03 engine wave."
   - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."

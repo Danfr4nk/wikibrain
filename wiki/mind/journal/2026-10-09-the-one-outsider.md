@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-09
-date_modified: 2026-10-20
+date_modified: 2026-11-07
 sources:
   - wiki/people/ally-lubin
   - wiki/mind/concepts/attachment-model
@@ -31,7 +31,11 @@ connections:
   - page: wiki/mind/journal/2026-10-05-the-dormant-slot
     type: distinguishes
     claim: "The Dormant Slot covers slot re-loading after dormancy (the slot persists across occupants; dormancy is not exit). This entry is what the loaded slot DISPENSES — the wiki grant as an act of a loaded slot, not a claim about slot persistence. Cross-referenced only, not re-explained."
+  - page: wiki/mind/synthesis/annie-ally-contrast
+    type: evidenced-by
+    claim: "The incumbent-exclusion leg runs on this page's counts: across August 18-19, 2026 he sent 408 messages to Annie and 552 to Ally, threads interleaving hour by hour - the eleven-year primary occupant received no addressed wiki grant while the incoming slot-loading did, which is this entry's discriminator between the ritual reading and ordinary disclosure."
 changelog:
+  - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 10."
   - "2026-10-20: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

@@ -7,7 +7,7 @@ status: active
 knowledge: earned
 layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-10-22
+date_modified: 2026-11-07
 sources:
   - src:annie-ulmer-corpus-115k — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:ally-lubin-dual-handle-exports — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -81,7 +81,11 @@ connections:
     type: parallels
     claim: "Annie-ally-contrast's Protocol A / Protocol B split is the frame the Kristin channel's exit-pole disposition is measured against; this entry supplies the two documented protocols, that entry the third disposition neither protocol predicts."
 
+  - page: wiki/mind/journal/2026-10-09-the-one-outsider
+    type: evidences
+    claim: "The 2026-10-09 entry 'The One Outsider' carries its incumbent-exclusion leg on this page: the August 18-19 counts recorded here (408 to Annie, 552 to Ally) are its proof that the addressed wiki grant went to the channel that was loading, not the incumbent."
 changelog:
+  - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 10."
   - "2026-10-22: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

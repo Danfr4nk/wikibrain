@@ -7,7 +7,7 @@ status: closed
 importance: critical
 knowledge: mixed
 date_created: 2026-09-24
-date_modified: 2026-09-24
+date_modified: 2026-11-07
 date_range: ["2021-03-01", "2024-08-31"]
 tags: [nyc-era, career, employment, second-nyc-era, relationships, au-zaatar]
 sources:
@@ -54,6 +54,11 @@ connections:
   - page: wiki/timeline/periods/nyc-first-era-2010-2013
     type: contrasts
     claim: "The first NYC era was short employers and constant motion; the second era's defining institution is a single 41-month restaurant tenure — the closest thing in the record to Dan holding one job."
+  - page: wiki/mind/journal/2026-10-08-the-disorder-premium
+    type: evidences
+    claim: "The 2026-10-08 entry 'The Disorder Premium' carries its first-pair leg on this page: the 41-month tenure recorded here, with its negotiated tip split and audit mechanics, is its proof that tenure in disorder tracks a held audit position."
+changelog:
+  - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 10."
 ---
 
 # Au Za'atar, 41 Months (March 2021–August 2024)

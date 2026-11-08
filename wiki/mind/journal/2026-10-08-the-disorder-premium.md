@@ -8,8 +8,9 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-08
-date_modified: 2026-10-19
+date_modified: 2026-11-07
 changelog:
+  - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 10."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
   - wiki/work/au-zaatar-41-months
@@ -40,6 +41,18 @@ connections:
   - page: wiki/mind/journal/2026-10-04-selection-buys-delay
     type: distinguishes
     claim: "That entry is audit timing (selected channels run audit-free; scrutiny activates on breach). This entry is audit capacity as the precondition of engagement — a different axis."
+  - page: wiki/work/au-zaatar-41-months
+    type: evidenced-by
+    claim: "Evidence leg 1, the first pair, runs on this page's record: 41 months (March 2021-August 2024), ~690 shifts and 712 GPS-timestamped visits, the day-one-negotiated equal tip split and the 18-month night-class alibi - the audit position held inside disorder, against BFS's collapse."
+  - page: wiki/work/bfs-foods
+    type: evidenced-by
+    claim: "Evidence leg 1's other half runs on this page's record: roughly one month (late April-mid-May 2026), the decorative reconciliation - the CSR printed $0.00 over/under every night for ~4 weeks - and the $50 claim with no paper trail on either side: disorder with nothing to hold, and tenure collapsed at the first assigned demand."
+  - page: wiki/work/creative-license-exit
+    type: evidenced-by
+    claim: "Evidence leg 2, the discriminator case, runs on this page's record: the disordered vertical (the altered intern contracts; 'It's a trust issue. We don't trust you,' February 27, 2012), the sustained forensic work (IRS and NYS Department of Labor filings), and the unprompted May 2012 disclosure to Renae Holland protecting two interns - engagement with advantage present and no payload installed, before he conceded the $104 and walked."
+  - page: wiki/work/nemacolin-caddie-years
+    type: evidenced-by
+    claim: "Evidence leg 3, the lateral-layer case, runs on this page's record: 43 months (April 2016-November 2019), the peer-visible status ladder (the 'real loopers' call-up, May 21, 2018, Laurel Valley), the lateral yard, and vertical friction (Brad Hubeaut, April 2018) absorbed by that layer while tenure continued."
 ---
 
 # The Disorder Premium

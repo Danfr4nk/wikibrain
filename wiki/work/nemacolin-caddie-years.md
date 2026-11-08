@@ -7,7 +7,7 @@ status: stable
 importance: high
 knowledge: mixed
 date_created: 2026-09-24
-date_modified: 2026-09-24
+date_modified: 2026-11-07
 date_range: ["2016-04-06", "2019-11-01"]
 tags: [work, uniontown-era, physical-life, golf, social-world, financial-stress]
 sources:
@@ -51,7 +51,12 @@ connections:
   - page: wiki/self/two-year-synthesis
     type: instantiates
     claim: "Golf is the cleanest documented instance of the obsession-lifecycle doctrine: complete immersion (43 months as sport, income, and social world simultaneously) followed by a total death — zero post-2019 golf signal beyond nostalgia and media consumption."
+  - page: wiki/mind/journal/2026-10-08-the-disorder-premium
+    type: evidences
+    claim: "The 2026-10-08 entry 'The Disorder Premium' carries its lateral-layer leg on this page: the 43-month tenure, status ladder and peer yard recorded here are its specimen that a lateral counterparty layer can hold the audit position when the vertical cannot."
 changelog:
+  - date: 2026-11-07
+    change: "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 10."
   - date: 2026-09-24
     note: "New period article: expands wiki/work/nemacolin-caddying with the human texture, the Jack Rusko friendship, the Brad Hubeaut friction, the Fran intersection, and the physical-life frame."
 ---

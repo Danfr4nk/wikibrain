@@ -7,7 +7,7 @@ status: closed
 importance: high
 knowledge: mixed
 date_created: 2026-09-24
-date_modified: 2026-09-24
+date_modified: 2026-11-07
 date_range: ["2012-02-15", "2012-06-01"]
 date_range_note: "Approximate. Start date is confirmed by a dated February 15, 2012 final-paycheck email. End date approximates the June 2012 LinkedIn retaliation; no dated document pins its exact day. The whistleblower disclosure itself is dated May 2012 in the record."
 tags: [nyc-era, career, whistleblower, workplace-conflict, legal, moral-act]
@@ -21,8 +21,14 @@ sources:
   - raw/self/dox-md/DAN_COGNITIVE_PROFILE.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 changelog:
+  - date: 2026-11-07
+    change: "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 10."
   - date: 2026-09-24
     note: "Commissioned entry. Built from the existing wiki/work/creative-license page's corpus record: the Gemini-58 session (Dan's own primary testimony), the ~35-thread Gmail capture of the dispute, Resume.txt, and Dan's own retrospective statements. No new primary material beyond those sources; limits and evidentiary status carried per-claim in the appendix."
+connections:
+  - page: wiki/mind/journal/2026-10-08-the-disorder-premium
+    type: evidences
+    claim: "The 2026-10-08 entry 'The Disorder Premium' carries its discriminator case on this page: the oversight-role audit position, the agency filings and the May 2012 intern-protecting disclosure recorded here are its proof that advantage alone, with no payload installed, was sufficient for engagement."
 ---
 
 # The Creative License Whistleblower Exit (February–June 2012)

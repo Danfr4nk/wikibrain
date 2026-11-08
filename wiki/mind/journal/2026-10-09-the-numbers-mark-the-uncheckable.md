@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-09
-date_modified: 2026-10-20
+date_modified: 2026-11-07
 sources:
   - wiki/mind/concepts/calibrated-confidence.md
   - ~/workspace/wikitest/corpus/messages.csv (held-corpus credence scan run 2026-10-09)
@@ -29,7 +29,11 @@ connections:
   - page: wiki/mind/journal/2026-10-04-the-one-way-valve
     type: distinguishes
     claim: "That entry is pipeline staging: graded credences on the input side of an operation, binary gates on the output side. This entry stays inside the graded input domain: within it, WHICH propositions get numbers (the unscorable) and what happens to them after (nothing numeric). The valve says where numbers live in the operation; this entry says which propositions they mark and that the emission is terminal."
+  - page: wiki/mind/concepts/calibrated-confidence
+    type: evidenced-by
+    claim: "The evidence cluster runs on this page's record: its three scans (dat:0580 strict 4-vs-0; dat:0663 48 strict / 18 graded outbound vs 5 / 2 inbound; dat:0890 21-vs-0) and its sort of all 24 strict graded credences - exactly one resolvable even in principle - are the Layer-A legs under this entry's clustering claim, to which this entry adds an independent fourth scan (27 outbound strict vs 1 inbound on the 203,624-row held corpus)."
 changelog:
+  - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 10."
   - "2026-10-20: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
