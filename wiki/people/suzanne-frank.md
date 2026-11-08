@@ -1060,9 +1060,12 @@ where, exactly, the household at 463 stands after August 2026.
 
 ## MBTI — stringent instrument run (2026-11-07)
 
-**Result: _S_J — E/I and T/F OMITTED. Confidence: MODERATE for the two
-called letters.** Two competent prior instruments exist for Suz and they
-conflict; this run reports the conflict rather than picking a winner.
+**Result: ESFJ** (adjudicated 2026-11-07 — see the adjudication note at
+the end of this section. The run's original result, before the tested
+result below was reported, was _S_J with E/I and T/F omitted, for the
+reasons given here.) Two competent prior instruments exist for Suz and
+they conflict; this run first reported the conflict rather than picking
+a winner.
 
 - **Instrument A:** the forensic assessment at
   [[wiki/people/suzanne-frank-personality-assessment|Suzanne Frank — personality assessment]],
@@ -1082,6 +1085,17 @@ conflict; this run reports the conflict rather than picking a winner.
 
 **What would adjudicate:** a dedicated Fe-vs-Fi / Te-vs-Ti pass over her
 sent-message corpus, or a self-administered test from Suz herself.
+
+**Adjudication (2026-11-07).** The second adjudicator named above has
+arrived: Dan reported on 2026-11-07 that Suz tested **ESFJ**,
+semi-recently (test instrument and date not specified). The result is
+therefore updated from _S_J to **ESFJ**: the tested result converges
+with Instrument B (the profile from Suz's own machine, ESFJ, built on
+153,706 of her sent messages), and the S and J calls stand as evidenced
+above. Instrument A's ISTJ determination (33,698-message corpus) is
+retained in this section as the dissenting instrument. The _S_J omission
+above is the record of the position before the test result was reported;
+it is superseded on E/I and T/F by this adjudication, not erased.
 
 
 *Method and full registry: [[wiki/mind/personality-profile-results|Personality Profile Results]] — the registry page states the instrument, every result, and every omission in one place. Run date: 2026-11-07.*

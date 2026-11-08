@@ -6,7 +6,7 @@ aliases: ["Suz MBTI", "Suz Enneagram", "Suz personality type"]
 status: active
 knowledge: earned
 date_created: 2026-08-19
-date_modified: 2026-11-06
+date_modified: 2026-11-07
 importance: high
 tags: [personality-profile, forensic-analysis, ai-collaboration]
 infobox:
@@ -76,6 +76,14 @@ connections:
 
 
 ## MBTI Determination
+
+> **Note (2026-11-07):** Dan reported on 2026-11-07 that Suz tested ESFJ,
+> semi-recently (test instrument and date not specified). The registry at
+> [[wiki/mind/personality-profile-results|Personality Profile Results]]
+> now calls ESFJ, on that tested result converging with the profile
+> generated from Suz's own machine over 153,706 of her sent messages.
+> This page's ISTJ determination stands as the dissenting instrument and
+> is retained unchanged.
 
 ### Primary Type: ISTJ
 

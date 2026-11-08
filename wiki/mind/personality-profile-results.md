@@ -44,7 +44,7 @@ letter was called.
 |---|---|---|---|
 | [[wiki/people/annie-ulmer\|Annie Ulmer]] | **ESFP** | Moderate | Forensic assessment over the held corpus (assessment's 126,683 figure corrected to 97,891 held, `kb/data/0113`); contrastive-tested |
 | [[wiki/people/ally-lubin\|Ally Lubin]] | **ENTP-T** | High | Self-administered test (2026), behaviourally corroborated (`kb/data/0200`) |
-| [[wiki/people/suzanne-frank\|Suzanne Frank]] | **_S_J** | Moderate (called letters) | Two instruments in conflict — ISTJ vs ESFJ; S and J converge, E/I and T/F omitted |
+| [[wiki/people/suzanne-frank\|Suzanne Frank]] | **ESFJ** | Moderate | Adjudicated 2026-11-07: tested ESFJ (semi-recent, per Dan) converging with the 153,706-message instrument; the ISTJ forensic dissent is retained in her entry's MBTI section |
 | [[wiki/people/alexis-armel\|Alexis Armel]] | **IXFP** | Low–moderate | Chat archive; Dan's 2013 INFP/ISFP typing verified letter by letter; N/S left open |
 | [[wiki/people/kristin\|Kristin Prentiss]] | **ENTJ** | Low | ~22,000 messages, single relationship context |
 | [[wiki/people/danielle-onesi\|Danielle Onesi]] | **Not callable** | — | No readable own-voice messages survive |
@@ -65,13 +65,15 @@ letter was called.
 
 ## Omissions and conflicts — the notes that matter
 
-- **Suzanne Frank is the registry's open conflict.** The wiki's forensic
-  assessment (33,698-message corpus) determines ISTJ; the profile generated
-  from her own machine over 153,706 of her sent messages determines ESFJ.
-  The two agree on S and J and split on E/I and T/F. Neither is suppressed;
-  both are recorded on her entry, and the contested letters are omitted
-  until a Fe-vs-Fi / Te-vs-Ti adjudication pass — or a self-administered
-  test — exists.
+- **Suzanne Frank's conflict was resolved by test on 2026-11-07.** The
+  wiki's forensic assessment (33,698-message corpus) determines ISTJ; the
+  profile generated from her own machine over 153,706 of her sent messages
+  determines ESFJ. The two agreed on S and J and split on E/I and T/F, so
+  the run originally recorded _S_J. Dan then reported on 2026-11-07 that
+  Suz tested ESFJ, semi-recently. The registry now calls ESFJ — the tested
+  result converges with the larger-corpus instrument — and the forensic
+  ISTJ determination is retained on her entry as the dissenting instrument,
+  not deleted.
 - **Tom Maison's instrument result and his tested result converge on
   three of four letters.** The corpus instrument calls ENTP (low); Tom
   tested INTP years ago (per Dan, 2026-11-07; test instrument and date not
