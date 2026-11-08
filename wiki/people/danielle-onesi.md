@@ -5,7 +5,7 @@ title: "Danielle Onesi"
 aliases: ["Danielle", "Dee"]
 status: stable
 date_created: 2026-06-23
-date_modified: 2026-09-17
+date_modified: 2026-11-07
 knowledge: mixed
 importance: normal
 sources: [
@@ -818,6 +818,31 @@ any channel, in readable form. Her account of 2009, 2013, 2023 or 2025. A vet or
 payment record for the 2023 euthanasia. Any of the six would be the first
 independent documentation of a person who has been in this record for twenty
 years without ever speaking in it.
+
+## MBTI — stringent instrument run (2026-11-07)
+
+**Result: NOT CALLABLE — all four letters OMITTED.**
+
+The instrument requires own-voice or behavioural evidence from the subject.
+Danielle's record fails it at the root, and this page's own Limits section
+already says why: **not one message written by her survives in readable form
+anywhere in this repository.** Every quotation attributed to her is relayed
+by Dan; the single line of her own reaction returns zero hits in the held
+corpus and is testimony-grade only (`kb/data/0487`). Thread rows exist (84
+in the held slice, received-dominant) but their bodies are not readable
+here.
+
+What the record does hold — her paying for Gabe's euthanasia unasked in
+2023, a seventeen-year continuity of presence — describes what she did for
+Dan, from Dan's side, in one context. It cannot carry a single letter under
+this instrument, and no letter is offered.
+
+**What would change this:** a readable export of her side of any channel.
+The three unread Messenger messages of March 2025 (`kb/data/1440`) would not
+be enough even if read.
+
+
+*Method and full registry: [[wiki/mind/personality-profile-results|Personality Profile Results]] — the registry page states the instrument, every result, and every omission in one place. Run date: 2026-11-07.*
 
 ## Sources
 

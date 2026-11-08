@@ -4,7 +4,7 @@ page_type: entity
 tier: major
 status: active
 date_created: 2026-06-23
-date_modified: 2026-10-05
+date_modified: 2026-11-07
 date_range_start: 2018-02-16
 date_range_end: 2024-12-26
 sources:
@@ -153,6 +153,39 @@ Danny Matthews is the page that forced the wiki's arrangement chronology to move
 - [[wiki/people/annie-ulmer]]
 - [[wiki/people/suzanne-frank]]
 - [[wiki/work/nemacolin-caddying]]
+
+## MBTI — stringent instrument run (2026-11-07)
+
+**Result: ESXX — confidence: LOW. The T/F and J/P letters are OMITTED.**
+
+**Evidence base:** the direct thread, counted in the held corpus at 818
+messages (469 from Dan, 349 from Danny, February 16, 2018 – December 26,
+2024 — `kb/data/0395` corrects this page's 349 figure, which was the
+inbound count only), with core quotes verified verbatim (`kb/data/0396`).
+**Identity caveat:** a separate Danny Matthews record exists on Annie's
+phone (the November 2024 thread she recorded); whether that man is this man
+is uncorroborated in the record, and nothing from that mediated thread is
+used here.
+
+- **E — called.** (1) Sustained social initiation across seven years,
+  closing with his December 26, 2024 invitation (*"a couple couples and
+  couple singles"*) in the same register as 2018. (2) Unprompted disclosure
+  and social ease across registers — the experience asymmetry volunteered
+  inside twenty minutes of the opening exchange (*"we're not pros… you guys
+  gotta be gentle though"*).
+- **S — called.** (1) Content dominated by concrete logistics: listings,
+  closings, shifts, tee times, scheduling near-misses. (2) Situational,
+  physical humour — the 400-yard caddie-yard folklore; *"Abort mission!!!!
+  Your mom pulled in right after me!"*
+- **T/F — OMITTED.** The record is logistics-heavy and affect-light. The
+  condolence behaviour (stopping by Fran's house the week of her death) is
+  one class; the business pragmatism is another; they point opposite ways.
+- **J/P — OMITTED.** Professional follow-through across a fifteen-month
+  listing (*"second time's a charm"*) leans J on a single class; the social
+  side is casual and spontaneous; neither axis reaches two classes.
+
+
+*Method and full registry: [[wiki/mind/personality-profile-results|Personality Profile Results]] — the registry page states the instrument, every result, and every omission in one place. Run date: 2026-11-07.*
 
 ## References
 

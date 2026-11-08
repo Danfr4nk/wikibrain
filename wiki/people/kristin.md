@@ -5,7 +5,7 @@ title: "Kristin Prentiss"
 status: closed
 knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-11-02
+date_modified: 2026-11-07
 date_range_start: 2025-08-29
 date_range_end: 2026-09-20
 sources: ["raw/messenger-2026-09-12/threads/cid.c.580995252_61570728572359.json", "raw/messenger-2026-09-12/messenger-all.jsonl", "raw/messenger-2026-09-12/MANIFEST.json", "raw/messenger-drive-2026-09-12/MANIFEST.json", "raw/messenger-drive-2026-09-12/messenger_drive_canonical.jsonl", "raw/sammy/20260911-1941/messenger-threads.json", "raw/sammy/20260911-1941/messenger-sync.json", "wiki/media/upload-027.jpg", "wiki/media/upload-084.jpg", "wiki/media/upload-085.jpg", "kb/data/1452-kristin-aug26-messenger-inbound.md", "kb/data/1453-dan-texts-kristin-block-broken.md", "kb/data/1440-messenger-pull-incomplete.md", "kb/sources/kristin-basement-security-cam-20250919.md", "kb/data/1841-kristin-first-confirmed-in-person-meeting.md"]
@@ -784,6 +784,44 @@ retired: a channel that reopened for a night and was then closed with
 explicit words is a different species from one that held. (work-0037;
 source `raw/imessage/messages-iphone-union-gapfill-20260921.csv`, thread
 +13307038747, 303 rows.)
+## MBTI — stringent instrument run (2026-11-07)
+
+**Result: ENTJ — confidence: LOW.** The corpus is large (~22,018 messages:
+20,014 in the held iMessage count, `kb/data/0801`, plus 2,009 on Facebook)
+but it is **one relationship in one register** — ten weeks of courtship and
+conflict, plus the 2026 re-entry. Every call below carries that
+single-context caveat; no workplace or friendship channel exists to
+cross-check against.
+
+- **E — called.** (1) Initiation at intensity: near-parity volume with a
+  1,324-message peak day, and the 2026 re-entry was hers — four messages and
+  a placed call, all inbound. (2) Processing externalised live in the
+  channel: she narrates her own withdrawal as she performs it (*"I'm now
+  concerned and I'm going to do the thing I do — like… pull away"*).
+- **N — called.** (1) Her one domain of authority is a symbolic
+  pattern-system: astrology run as *"18 years of personal test theory"*,
+  self-taught, offered with falsifiable-sounding evidence. (2) Meaning-making
+  by archetype and pattern — charts read against lives — in a record whose
+  other contents (pharmacy, DoorDash, courthouse) are concrete logistics.
+- **T — called, on decision procedure.** (1) Conflict conducted
+  procedurally: the terminal exchange runs on evidence and process —
+  screenshots, the IC3 complaint portal, the IPR Center referral, *"I
+  didn't give you my IP address. And trust me I already know the entire
+  process"* (verbatim in the held corpus, `kb/data/0803`). (2) Analytical
+  self-modelling: *"I have the ability to replace my feelings inside of
+  me."* Counter-current, stated: her expressive register is intensely
+  emotional; this call rests on how she decides, not on how much she feels.
+- **J — called.** (1) Doctrine stated early and executed exactly: *"I leave
+  instantly at the first sign"* of trouble — performed ten weeks later as a
+  severance that stuck. (2) Closure instruments used decisively — block,
+  filings, *"Don't contact me again"* — rather than drift.
+
+**Omitted:** nothing, but LOW confidence is the finding as much as the
+letters are: one context, however large, is one context.
+
+
+*Method and full registry: [[wiki/mind/personality-profile-results|Personality Profile Results]] — the registry page states the instrument, every result, and every omission in one place. Run date: 2026-11-07.*
+
 ## Notes
 
 Extreme volume in a short window makes this the strongest single data point for

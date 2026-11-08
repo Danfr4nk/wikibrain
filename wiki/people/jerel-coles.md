@@ -8,7 +8,7 @@ title: "Jerel Wayne Coles"
 aliases: ["Tuquick", "the unnamed man", "the interloper", "the third party", "Tuquick3@hotmail.com", "+17248123683"]
 tags: [relationships, trauma-bond, forensic-analysis, legal, uniontown-era]
 date_created: 2026-08-09
-date_modified: 2026-09-24
+date_modified: 2026-11-07
 date_range_start: 2008-10-31
 date_range_end: 2026-08-19
 infobox:
@@ -549,6 +549,40 @@ what Coles saw, hours ahead of what her family would see.
 8. **Was anyone ever contacted about the night of August 16?** Dan raised
    police on the call (*"it's about going to the fucking police, idiot"*) and a
    TRO in writing the next day. Nothing in the record says either happened.
+
+## MBTI — stringent instrument run (2026-11-07)
+
+**Result: ESTX — confidence: LOW. The J/P letter is OMITTED.**
+
+**Context flag, first:** every primary communication held for Coles comes
+from the August 2026 crisis window — a 15:27 call he placed, a 97-message
+thread from his own handle, and the handle-seizure episodes — adversarial,
+one-context material, much of it taunting or threatening. What follows
+describes his **documented conflict conduct**; it is not a settled-preference
+claim about the man outside that window. Transcript provenance: the call
+quotations come from an agent-authored transcript of the filed recording.
+
+- **E — called.** (1) Interactional dominance: 99 of the call's 204 turns,
+  and he sets every topic in it. (2) Initiation across channels — he placed
+  the call, sent Dan's home address unprompted, and operated Annie's handle
+  in three documented episodes.
+- **S — called.** (1) Content is concrete and present-tense: addresses,
+  immediate leverage, the situation in the room. (2) No abstraction or
+  future-modelling appears anywhere in his record outside concrete threats
+  of specific future harm.
+- **T — called, on method.** (1) Argument structured as leverage:
+  conditional threats (*"I have stuff to ruin you and your mom, soon as you
+  do something I don't like I'm gonna show you"*); the phone's return
+  conditioned on an answer. (2) Denial delivered as flat inventory rather
+  than emotional appeal (*"No one raped her or held her hostage, no one hit
+  her I may have yelled but that's it"*). Counter-current, stated: the
+  underlying grievance is possessive and relational (*"I don't like being
+  played with"*) — the call rests on his methods, not his motives.
+- **J/P — OMITTED.** Interrogative fixation — the same question put a dozen
+  times in four minutes — is one evidence class only.
+
+
+*Method and full registry: [[wiki/mind/personality-profile-results|Personality Profile Results]] — the registry page states the instrument, every result, and every omission in one place. Run date: 2026-11-07.*
 
 ## Gaps
 

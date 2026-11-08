@@ -3,7 +3,7 @@ domain: people
 page_type: entity
 status: active
 date_created: 2026-06-23
-date_modified: 2026-08-21
+date_modified: 2026-11-07
 date_range_start: 2018-09-02
 date_range_end: 2020-09-21
 sources:
@@ -390,6 +390,42 @@ said the quiet part out loud and survived long enough to be proven right.
 | Chapter 2 | Aug 2–12, 2019 — Cash App $25 request, Google Photos album, block |
 | Chapter 3 | Sep 21, 2020 — Facebook Messenger; "selling some bars to emaly minerd" same day |
 | Direction caveat | The Jan 27 2019 export marks Dan's rows "Sent" with no handle (the known sender-side quirk); Emaly's rows are correctly "Received" from +172****5006. Read as two-way. |
+
+## MBTI — stringent instrument run (2026-11-07)
+
+**Result: ENTX — confidence: LOW. The J/P letter is OMITTED.**
+
+Evidence: 807 messages in the held corpus, 613 of them inbound from Emaly
+(`kb/data/0405` corrects this page's 613-as-total figure), September 2018 –
+August 2019, plus a September 2020 Facebook coda whose body is not held;
+core quotes verified verbatim (`kb/data/0406`).
+
+- **E — called.** (1) A pursuit-and-initiation pattern across all three
+  chapters: she re-opens contact after the January 2019 collapse (August
+  2019) and again in September 2020 (*"You're blowing me off again"* — after
+  waiting four hours). (2) A high-disclosure expressive style — unguarded
+  late-night disclosures, and desire stated flatly (*"I adore sex…"*,
+  January 28, 2019, verified).
+- **N — called.** (1) Structural modelling of the situation she was in: she
+  interrogates the arrangement's mechanics back at Dan — whether it requires
+  Annie to keep sleeping with other men for him to feel as he does — one of
+  the only outside voices in the corpus to name the system she was inside.
+  (2) She coins the governing metaphor for her own position (*"I won't be
+  the kinky pawn"*) and is a long-form writer — her book and its attempted
+  publishing deal.
+- **T — called, on decision procedure.** (1) A boundary drawn as a stated
+  principle and then kept: the December 6, 2018 line, the friendship-only
+  offer, the exit when the terms were pressed anyway. (2) Confrontation by
+  consequence-prognosis rather than emotional appeal (*"you'll probably be
+  dead in the next 15 years"*). Counter-current, stated: open warmth —
+  *"a nice guy, and dare I even say sweet"* — the call rests on how she
+  decides, not on how warmly she feels.
+- **J/P — OMITTED, conflicted.** The line-drawing and the exit lean J;
+  returning twice after final exits leans P; neither dominates on two
+  classes.
+
+
+*Method and full registry: [[wiki/mind/personality-profile-results|Personality Profile Results]] — the registry page states the instrument, every result, and every omission in one place. Run date: 2026-11-07.*
 
 ## Gaps
 

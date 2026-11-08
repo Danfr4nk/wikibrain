@@ -7,7 +7,7 @@ importance: critical
 knowledge: mixed
 status: active
 date_created: 2026-06-22
-date_modified: 2026-10-31
+date_modified: 2026-11-07
 date_range_start: 2015-11-01
 date_range_end: 2026-10-31
 infobox:
@@ -3779,3 +3779,27 @@ test. See `dat:annie-deep-autumn-verdict-20260921`; the page itself is
 The manipulation-manual genre's folk model was cross-checked against this page because its Book 3 gaslighting pattern — persistent reality-denial, memory-countering, trivializing — is the one folk pattern with a documented act-level counterpart in this record: the fallout verdict carried on this page rates months of gaslighting above the affair itself [dat:2115-gaslighting-reality-denial-act-level-match-20261023]. The correspondence is recorded at the level of *acts the record documents*, which is where this page already works.
 
 **What is explicitly not imported.** The book explains such acts by a remorseless predator type (its Dark Triad/Tetrad bestiary, its narcissist/"empath" binary). That explanation does not hold, it diagnoses no one on this page, and the book is not evidence for any act recorded here — the verdict's sources are the record's own. The genre's "empath" counterpart type likewise has no home on this page or anywhere in the wiki: no entry was created for it.
+
+## MBTI — stringent instrument run (2026-11-07)
+
+**Result: ESFP — confidence: MODERATE.** This section summarises the full
+forensic assessment at
+[[wiki/people/annie-ulmer-personality-assessment|Annie Ulmer — personality assessment]];
+it does not duplicate it. The assessment's determination was re-checked
+against the instrument's rules for this run and stands.
+
+- **E** — out-messaged Dan in nearly every year of the corpus; initiates
+  contact; processes by externalising.
+- **S** — concrete, present-tense register; attention on the immediate
+  situation rather than its meaning.
+- **F** — argumentation runs as emotional appeal, not as system or logic.
+- **P** — structure avoidance; follow-through failure as a repeated pattern.
+
+**Omitted:** nothing. **Caveats:** the corpus skews toward romantic, crisis
+and substance contexts, which the assessment itself flags. Provenance note:
+the assessment's stated corpus size (126,683 messages) was corrected by
+`kb/data/0113` — held-corpus counts total 97,891 — and the determination
+does not depend on the exact N.
+
+
+*Method and full registry: [[wiki/mind/personality-profile-results|Personality Profile Results]] — the registry page states the instrument, every result, and every omission in one place. Run date: 2026-11-07.*

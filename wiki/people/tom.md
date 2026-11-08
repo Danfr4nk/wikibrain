@@ -4,7 +4,7 @@ page_type: entity
 title: "Tom Maison"
 status: active
 date_created: 2026-06-22
-date_modified: 2026-11-05
+date_modified: 2026-11-07
 sources: ["raw/self/dox-scan/dan tom 2010 2022.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/message-csv/imessage_ALL_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/tom_kristin_master_dossier.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md", "raw/self/dox-scan/DanAnnie_CompleteRecord_Final.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/Cash register shortage explanation.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/_Deconstructing a Chaotic 24 Hours .md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/MAX_PRIME.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 tags: [addiction-recovery, dui, ai-collaboration, relationships, mental-health]
 infobox:
@@ -364,6 +364,43 @@ The October 28, 2025 exchange was first summarized from a random corpus sample (
 - [[wiki/mind/concepts/attachment-model]]
 - [[wiki/mind/synthesis/supply-network]]
 - [[wiki/timeline/periods/2025-collapse]]
+
+## MBTI — stringent instrument run (2026-11-07)
+
+**Result: ENTP — confidence: LOW.**
+
+*Page note: this page (`wiki/people/tom`) is the canonical person entry;
+`wiki/people/tom-maison-supply-record` is a satellite report on the supply
+dimension and cites this page for the whole man.*
+
+- **E — called.** (1) Volume and presence: the #5 handle in the master
+  corpus (4,160 messages, plus ~1,600 more on the second handle), day-to-day
+  contact across 2010–2026. (2) Explicit contact-seeking — *"Will you talk
+  to me for a little bit?"* (March 2026), sent after a stretch of one-sided
+  sends. Counter-current, stated: parallel silences when he owes a delivery
+  — documented on this page as incentive-linked, not a processing style.
+- **N — called.** (1) Possibility-first technology evangelism: agentic AI
+  described by what it could do (*"it can act like a person"*), and a custom
+  group chat built so he could talk to two AIs at once. (2) Hypothetical
+  play as a register — political counterfactual riffing (the January 2026
+  Trump-announcement riff).
+- **T — called.** (1) The channel's working register is transactional and
+  logistical — supply coordination, owe-and-silence accounting.
+  (2) Low emotional mirroring: the unbothered absorption of whatever Dan
+  brings, conflicts handled by silence and resumption rather than relational
+  processing.
+- **P — called.** (1) Unstructured follow-through: deliveries owed go silent
+  rather than scheduled. (2) Event-driven, improvisational contact —
+  first-call on breaking events (the Trump shooting, the Biden dropout,
+  GameStop).
+
+**Provenance caveat:** this page's stated sources are largely flagged
+⚠ Source reference unresolved (dox-scan dossiers, the master dump). These
+calls rest on the page's corpus readings as relayed, which is why the whole
+row is LOW.
+
+
+*Method and full registry: [[wiki/mind/personality-profile-results|Personality Profile Results]] — the registry page states the instrument, every result, and every omission in one place. Run date: 2026-11-07.*
 
 ## References
 

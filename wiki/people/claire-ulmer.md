@@ -8,7 +8,7 @@ status: active
 relation_type: partner's-sister
 knowledge: mixed
 date_created: 2026-07-14
-date_modified: 2026-10-03
+date_modified: 2026-11-07
 infobox:
   name: "Claire Ulmer-Gates"
   status: "Annie Ulmer's sister; married to Garrett Gates; mother of Alice and Otto Gates"
@@ -117,6 +117,27 @@ The record also supports a narrower judgment about what her household reveals. F
 - [[wiki/people/ellen-ulmer|Ellen Ulmer]]
 - [[wiki/people/milo|Milo]]
 - [[wiki/people/emilio|Emilio]]
+
+## MBTI — stringent instrument run (2026-11-07)
+
+**Result: NOT CALLABLE — all four letters OMITTED.**
+
+This page states its own limit, and the instrument honours it: Claire has
+**no confirmed direct message thread with Dan**, and she "rarely speaks in
+the corpus" — she is present as the grammatical subject of other people's
+logistics (the one who found Milo, who asks, drops off, picks up and
+decides), narrated overwhelmingly by her sister Annie. The mention-count
+analyses elsewhere on this page are additionally unreproducible from the
+held corpus (`kb/data/0394`).
+
+A household-anchor silhouette assembled from a sister's narration is a role
+portrait, not own-voice evidence, and this instrument does not type from
+roles. No letter is offered.
+
+**What would change this:** any direct thread of her own.
+
+
+*Method and full registry: [[wiki/mind/personality-profile-results|Personality Profile Results]] — the registry page states the instrument, every result, and every omission in one place. Run date: 2026-11-07.*
 
 ## References
 

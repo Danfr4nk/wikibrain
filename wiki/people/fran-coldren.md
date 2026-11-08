@@ -8,7 +8,7 @@ importance: critical
 relation_type: family
 knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-10-04
+date_modified: 2026-11-07
 date_range: ["1920-08-15", "2018-04-04"]
 tags: [family, uniontown-era, grief, music-production, financial-stress]
 sources:
@@ -565,6 +565,44 @@ retraction above, and therefore the only primary document that could settle
 what actually happened in that room — exist only as uploads inside AI sessions.
 Locating the originals is the highest-value collection task attached to this
 page.
+
+## MBTI — stringent instrument run (2026-11-07)
+
+**Result: ESXJ — confidence: LOW, BEHAVIOURAL ONLY. The T/F letter is
+OMITTED.**
+
+**No own-voice corpus exists for Fran.** She died in April 2018 and not one
+message written by her is held. Everything below is behavioural and
+documentary inference — clippings she kept, a gift protocol, a household
+record — which makes this a different and weaker pass than every other row
+in the registry, and it is labelled accordingly. One line sometimes quoted
+as her standing directive (*"keep me at home no matter what…"*) does not
+appear in the held corpus (`kb/data/0447`) and is **not** used here.
+
+- **E — called, behaviourally.** (1) Sustained public competition across
+  decades: the 1959 LaGorce hole-in-one (Miami Herald clipping), the 1969
+  UCC ace, the UCC Women's Golf Crown at 342 over 72 holes, the 113-pound
+  tarpon — a life lived in scored, public arenas. (2) Social centrality:
+  the Belmont Circle house as the UCC circuit's seat for fifty years, the
+  Palmer proximity, the party photographs in her own scrapbook.
+- **S — called, behaviourally.** (1) A life organised around concrete
+  pursuits and places — sport, the house held for over fifty years, Florida
+  winters on a seasonal rhythm. (2) Generosity administered as a concrete
+  formula: $100 per year of the recipient's life, from about age 13.
+- **T/F — OMITTED.** The gift protocol reads as warmth (F) administered by
+  formula (T/J), and the record cannot separate the two; her stated reasons
+  survive nowhere.
+- **J — called, behaviourally.** (1) The gift formula applied consistently
+  across recipients and years — a rule kept. (2) Self-documentation: a
+  scrapbook preserving her clippings and photographs across sixty years —
+  record-keeping as a habit of a lifetime.
+
+*Sourcing flag, per protocol: the gift protocol is attested by a 2026
+operator capture; it is corroborated in pattern by the NS7 II purchase and
+by the paid-work arrangements Dan's contemporaneous messages describe.*
+
+
+*Method and full registry: [[wiki/mind/personality-profile-results|Personality Profile Results]] — the registry page states the instrument, every result, and every omission in one place. Run date: 2026-11-07.*
 
 ## Sources
 

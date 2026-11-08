@@ -6,7 +6,7 @@ aliases: ["Alexandra Lubin", "ALU", "aluuuu", "Ally"]
 status: severed
 knowledge: earned
 date_created: 2026-06-23
-date_modified: 2026-11-05
+date_modified: 2026-11-07
 date_range_start: 2011-05-20
 date_range_end: 2026-09-21
 images:
@@ -1529,6 +1529,35 @@ What this page does not claim, stated plainly:
 - Mac iMessage sync is proven lossy corpus-wide; every Mac-data verdict on
   this page carries that asterisk until iPhone confirms. The 2026 window is
   iPhone-confirmed. The 2018–2025 windows are not.
+
+## MBTI — stringent instrument run (2026-11-07)
+
+**Result: ENTP-T — confidence: HIGH, the highest of this run.** The full
+profile is at
+[[wiki/people/ally-lubin-cognitive-profile|Ally Lubin — cognitive profile]];
+this section records the determination and its basis.
+
+- **Tested result (the anchor):** a self-administered 16Personalities result
+  supplied 2026-08-22 and confirmed as hers by the operator on 2026-08-27 —
+  Extraverted 66%, Intuitive 84%, Thinking 54%, Prospecting 61%, Turbulent
+  92% (`kb/data/0200`).
+- **Behavioural corroboration:** N — a documented trend-detection lead
+  (slang and memes spotted months before they reach Dan). T — the auxiliary
+  is Ti, not Fi: the evidentiary-standard objection (*"there's no proof you
+  ever sent me $2100 except your word"* / *"So I contest"*), policing the
+  boundary of her own claim (*"I didn't say malicious"*), and the October
+  2019 unowned audit of Dan's poverty story. The profile tests the result
+  against 639 of her own messages, 2018–2026.
+
+**Omitted:** nothing. This result **supersedes the disputed ENFP** she
+asserted in December 2018, which Dan refused at the time; the Ti-over-Fi
+locus is what settles it. **Caveat:** the raw test capture is flagged
+⚠ Source reference unresolved in the current corpus — attribution rests on
+the operator's testimony, with the figures and quoted moves verified
+against the prior wiki export in `kb/data/0200`.
+
+
+*Method and full registry: [[wiki/mind/personality-profile-results|Personality Profile Results]] — the registry page states the instrument, every result, and every omission in one place. Run date: 2026-11-07.*
 
 ## Method appendix
 

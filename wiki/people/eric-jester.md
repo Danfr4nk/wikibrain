@@ -4,7 +4,7 @@ page_type: entity
 title: "Eric Jester"
 status: active
 date_created: 2026-06-23
-date_modified: 2026-09-27
+date_modified: 2026-11-07
 date_range_start: 2008-11-01
 date_range_end: 2025-08-15
 sources:
@@ -706,6 +706,34 @@ is 2009-01-28.
 
 **A7. The decay thesis.** See *What the friendship actually looked like*:
 the tweet-only curve was a channel artifact.
+
+## MBTI — stringent instrument run (2026-11-07)
+
+**Result: ISFX — confidence: LOW. The J/P letter is OMITTED.**
+
+- **I — called.** (1) Contact shape: eleven iMessage sessions across eight
+  years (237 messages — `kb/data/0408` corrects the page's old figure),
+  multi-year gaps tolerated with no maintenance and no cost. (2) Initiation
+  is content-triggered, never upkeep — a tee shirt seen in a Walmart, a bar
+  name, a dead cat.
+- **S — called.** (1) Self-accounting in concrete inventory: *"I have a
+  house with a back yard, two dogs and a cat a girlfriend a car that I
+  finally paid off"*, an $800-a-month loan figure. (2) Plain, unabstracted
+  meaning-making — belief and complaint stated flatly (*"I believe in that
+  stuff"*; *"I just hate my line of work and I feel like I'm stuck in it"*)
+  with no system built on top of either.
+- **F — called, low.** (1) The condolence register: his Fran message is
+  gentle, attuned and non-analytical (*"It will be really nice to have that
+  to hold on to"*). (2) Feeling-led self-disclosure as content — the
+  alcoholism account is his own emotional bookkeeping, offered plainly.
+  Counter-current, stated: the thread also carries plenty of practical
+  assessment; this is the weakest call in his row.
+- **J/P — OMITTED.** A settled, structured life (house, car paid off, a job
+  held for years) leans J; an improvisational, plan-free contact style leans
+  P; neither axis has two independent own-voice classes behind it.
+
+
+*Method and full registry: [[wiki/mind/personality-profile-results|Personality Profile Results]] — the registry page states the instrument, every result, and every omission in one place. Run date: 2026-11-07.*
 
 ## Sources
 

@@ -4,7 +4,7 @@ domain: people
 page_type: entity
 status: active
 date_created: 2026-06-23
-date_modified: 2026-09-24
+date_modified: 2026-11-07
 date_range_start: 2017-01-20
 date_range_end: 2026-05-22
 sources:
@@ -455,6 +455,36 @@ voice, matching the operator's account of who introduced whom).
 The 2009 Facebook notifications are a small archival gift: Jason was
 writing on Dan's wall in April–May 2009, before Full Sail's first
 semester ended — the friendship is as old as the era itself.
+
+## MBTI — stringent instrument run (2026-11-07)
+
+**Result: XNFP — confidence: LOW. The E/I letter is OMITTED.**
+
+- **E/I — OMITTED, conflicted by shape.** Multi-year silences resumed
+  without repair lean I; expansive, unguarded, high-disclosure bursts lean
+  E; and the densest sample (the February 2026 all-nighter) is drunk and
+  late-night — a disinhibited context that cannot adjudicate a baseline.
+- **N — called.** (1) A taste doctrine stated as an abstract criterion:
+  *"It's all bout talent and ideas put into original music bro"* — music
+  judged by ideas and originality. (2) Production talk that runs conceptual
+  — saw waves, modulation, kit taxonomy.
+- **F — called.** (1) The friendship's dominant move is the direct
+  relational question, asked to be answered honestly: *"One question honest
+  answer serious… what one thing back in 09-011 you wish we shared."*
+  (2) Mutual regard stated unguarded and feeling-first: *"We were in diff
+  type shit and linked up because of real shit. I looked upt to you even
+  though you were younger."*
+- **P — called.** (1) The music dream held for seventeen years as
+  aspiration rather than plan — *"it's still a dream that I've been working
+  on"* — with sporadic output. (2) Improvisational contact: 3am link dumps,
+  bursts, no scheduling artefacts.
+
+**Attribution caveat:** direction is not labelled in the export; lines are
+attributed by content per this page's method note. (The page's metrics were
+corrected 2026-09-24: ~270 messages in total, February 2026 = 105.)
+
+
+*Method and full registry: [[wiki/mind/personality-profile-results|Personality Profile Results]] — the registry page states the instrument, every result, and every omission in one place. Run date: 2026-11-07.*
 
 ## Notes & Gaps
 

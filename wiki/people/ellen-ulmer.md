@@ -4,7 +4,7 @@ domain: people
 page_type: entity
 status: active
 date_created: 2026-06-23
-date_modified: 2026-10-05
+date_modified: 2026-11-07
 date_range_start: 2017-04-11
 date_range_end: 2026-07-26
 tier: major
@@ -160,6 +160,38 @@ The cleanest live prediction this page carries is the November 2026 birthday not
 - [[wiki/timeline/events/august-2026-morgantown-call|August 2026 Morgantown call]] — the leverage campaign and the false send
 - [[wiki/timeline/events/july-august-2026-reentanglement|July–August 2026 reentanglement]] — the crisis context
 - [[wiki/mind/synthesis/dormancy-not-exit|Dormancy, not exit]] — the synthesis this tie instantiates
+
+## MBTI — stringent instrument run (2026-11-07)
+
+**Result: ESFJ — confidence: LOW–MODERATE.**
+
+Evidence: the 100-message held thread (63 inbound from Ellen), 2017–2026,
+with quoted beats verified verbatim (`kb/data/0404`) and counts corrected
+(`kb/data/0402`). The calls below rest on her initiation and rhythm record
+and her verified messages — explicitly **not** on her being a mother; the
+instrument excludes role inference.
+
+- **E — called.** (1) Initiation dominance: across nine years Dan initiated
+  once (the July 26, 2026 disclosure, under duress); every other contact is
+  hers. (2) Network coordination — she routes family information and care:
+  the church flower arrangement for Fran, the worried check-ins routed
+  through Dan, the grandparents' identification resolved through her
+  messages.
+- **S — called.** (1) Care delivered as concrete acts: the milkshake during
+  Dan's tooth extraction, shirts sent, Christmas gifts chosen to fit the
+  recipient. (2) Messages anchored to occasions and immediate situations —
+  birthdays, holidays, *"Can't get Annie to answer."*
+- **F — called.** (1) A warm register sustained across a decade, including
+  after the relationship she entered this record through had ended.
+  (2) Protective-relational monitoring as her characteristic intervention —
+  the check-in is her instrument.
+- **J — called.** (1) An unfailing annual rhythm: the November 1 birthday
+  note lands every year from 2017 to 2025, unprompted, through the severance
+  of the Dan–Annie relationship. (2) Follow-through: gifts arrive,
+  arrangements get coordinated, commitments complete.
+
+
+*Method and full registry: [[wiki/mind/personality-profile-results|Personality Profile Results]] — the registry page states the instrument, every result, and every omission in one place. Run date: 2026-11-07.*
 
 ## References
 

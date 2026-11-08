@@ -7,7 +7,7 @@ status: closed
 knowledge: mixed
 importance: high
 date_created: 2026-06-23
-date_modified: 2026-10-20
+date_modified: 2026-11-07
 changelog:
   - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-dormant-slot (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
 date_range_start: 2009-10-01
@@ -1066,6 +1066,45 @@ and months-long concealment (2014 here, late-2014/early-2015 on
 is unresolved — see the note under [The hidden year
 (2014)](#the-hidden-year-2014).
 
+
+## MBTI — stringent instrument run (2026-11-07)
+
+**Result: IXFP — confidence: LOW–MODERATE. The N/S letter is OMITTED.**
+
+A prior typing exists and was treated as a claim to verify, not inherited:
+in the July 9–31, 2013 batch of self-sent typology emails, Dan typed Alexis
+**INFP/ISFP — "Idealist"** (see "Typed once, in the same batch as Franki's"
+on this page).
+
+- **I — called.** (1) Emotional suppression is the archive's documented
+  deficiency: a blind 2026 scoring exercise docks her to 6.0/10 on emotional
+  availability and names the suppression "a real limitation, not a rounding
+  error"; this page's own finding is occupancy without activation.
+  (2) A near-zero public register across six years of cohabitation — 85
+  tweet mentions in total, collapsing after November 2013 and ending June
+  2014 (`kb/data/0245`) — in years when Dan's public register peaked.
+- **F — called.** (1) The chat archive's relational register: mutual
+  attentiveness and comfort offered in value terms (*"we're going to do
+  something reaaaaaally special when u get hired. because i know you
+  will"*). (2) Value-conviction stands taken at cost — deleting her mother
+  over the atheism argument; arguing politics back at Dan in 2012. The blind
+  score concurs on its own axes: relational integrity 7.5, non-exploitation
+  8.5.
+- **P — called.** (1) Dan's 2013 typing — both of his candidates are P.
+  (2) Six years of household run improvisationally: shift-work logistics,
+  no structure or planning artefacts anywhere in the archive.
+- **N/S — OMITTED.** Dan himself split this call in 2013 (INFP/ISFP). The
+  held archive is overwhelmingly concrete-domestic — rent, shifts, bills —
+  which leans S, but one register class cannot carry the letter against a
+  prior instrument's own undecided split, and no abstraction samples
+  adjudicate. The letter stays open exactly where Dan left it.
+
+**Provenance caveat:** her 2020–2025 voice (87 messages) is relayed through
+the old wiki's transcription — the export CSV is not held (`kb/data/0248`).
+The early chat archive is the primary voice source.
+
+
+*Method and full registry: [[wiki/mind/personality-profile-results|Personality Profile Results]] — the registry page states the instrument, every result, and every omission in one place. Run date: 2026-11-07.*
 
 ## Sources
 

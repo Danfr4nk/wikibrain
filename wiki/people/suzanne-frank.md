@@ -7,7 +7,7 @@ importance: critical
 status: active
 knowledge: mixed
 date_created: 2026-06-22
-date_modified: 2026-11-06
+date_modified: 2026-11-07
 date_range_start: 1962-09-15
 sources:
   - "raw/takeout/takeout-20260103T040931Z-3-001/Takeout/My Activity/Gemini Apps/all_imessages_part_aa–af — on-disk copy of the complete iMessage dump; 28,728 Suz-thread records counted from it 2026-11-06 (see Message corpus)"
@@ -1057,6 +1057,34 @@ where, exactly, the household at 463 stands after August 2026.
 - [[wiki/places/337-saratoga-drive]] — the childhood home her bankruptcy sold; the household's first address.
 - [[wiki/legal/463-morgantown]] — the shared house the staying moved to; no lease, no paper, still running.
 - [[wiki/people/index]] — the people index this page belongs to.
+
+## MBTI — stringent instrument run (2026-11-07)
+
+**Result: _S_J — E/I and T/F OMITTED. Confidence: MODERATE for the two
+called letters.** Two competent prior instruments exist for Suz and they
+conflict; this run reports the conflict rather than picking a winner.
+
+- **Instrument A:** the forensic assessment at
+  [[wiki/people/suzanne-frank-personality-assessment|Suzanne Frank — personality assessment]],
+  built on a 33,698-message corpus, determines **ISTJ**.
+- **Instrument B:** a multi-system profile generated from Suz's own machine
+  on **153,706 of her sent messages** (Nov 2013 – Mar 2026) determines
+  **ESFJ** (2w3). Its corpus is roughly 4.5x the forensic pass's.
+- **S — called.** Both instruments converge, and the behaviour is
+  independently evidenced: the October 2018 ledger message, precedent-anchored
+  reasoning, concrete-amounts language throughout.
+- **J — called.** Both instruments converge; her answer to chaos is
+  procedure — ledgers, written budgets, systems that produce results.
+- **E/I — OMITTED.** Instrument A reads introversion, Instrument B
+  extraversion; nothing held adjudicates between them.
+- **T/F — OMITTED.** The same caregiving record is read as Fi-tertiary
+  inside an ISTJ stack by Instrument A and as Fe-dominant by Instrument B.
+
+**What would adjudicate:** a dedicated Fe-vs-Fi / Te-vs-Ti pass over her
+sent-message corpus, or a self-administered test from Suz herself.
+
+
+*Method and full registry: [[wiki/mind/personality-profile-results|Personality Profile Results]] — the registry page states the instrument, every result, and every omission in one place. Run date: 2026-11-07.*
 
 ## References
 

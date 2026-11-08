@@ -5,7 +5,7 @@ tier: incidental
 status: active
 knowledge: mixed
 date_created: 2026-07-19
-date_modified: 2026-10-04
+date_modified: 2026-11-07
 date_range_start: 2011-01-20
 date_range_end: 2022-01-02
 sources:
@@ -125,3 +125,22 @@ setlist (see [[wiki/interests/music/bands/batteries-not-included]]).
 Why incidental: one eleven-year thread, fully read — the band, the collaborations that never closed, and the 2021 retrospective are all of it. Promote if the Batteries Not Included story outgrows this single thread.
 
 Related major articles: [Batteries Not Included](wiki/interests/music/bands/batteries-not-included.md) · [The 2020 left turn](wiki/mind/synthesis/2020-left-turn.md)
+
+## MBTI — stringent instrument run (2026-11-07)
+
+**Result: NOT CALLABLE — all four letters OMITTED.**
+
+Joe's record fails the instrument at the evidence surface. The 2011–2022
+Facebook thread's bodies are **not held** — only manifest metadata survives
+(191 messages / 195 blocks, 121 of them from Dan; `kb/data/0538`). Every
+quoted line in the record is **Dan's voice addressed to Joe** — the
+September 2021 political retrospective, the August 2018 setlist
+reconstruction. Joe's own replies survive nowhere in checkable form.
+
+Being the recipient of someone else's fullest self-account is not evidence
+about the recipient. No letter is offered.
+
+**What would change this:** deposit of the thread bodies.
+
+
+*Method and full registry: [[wiki/mind/personality-profile-results|Personality Profile Results]] — the registry page states the instrument, every result, and every omission in one place. Run date: 2026-11-07.*

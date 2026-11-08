@@ -6,7 +6,7 @@ tier: major
 status: closed
 knowledge: mixed
 date_created: 2026-07-19
-date_modified: 2026-10-22
+date_modified: 2026-11-07
 date_range_start: 2020-03-10
 date_range_end: 2020-06-23
 sources:
@@ -385,6 +385,27 @@ Until evidence for either surfaces, the entry stands as corrected.
 - [[wiki/interests/music/bands/batteries-not-included|Batteries Not Included]]
 - [[wiki/interests/opie-and-anthony|Opie and Anthony]]
 - [[wiki/timeline/periods/covid-era-2020|COVID era 2020]]
+
+## MBTI — stringent instrument run (2026-11-07)
+
+**Result: NOT CALLABLE — all four letters OMITTED.**
+
+The thread itself is held and verified — 47 messages, March 10 to June 23,
+2020, in the canonical Messenger Drive export, every quote checked against
+it on 2026-10-04 (see Conflicts in the record, above). But Sena's own side
+of it is a handful of short moves: a direct question asked and then
+self-withdrawn thirteen seconds later (*"Actually let's talk about this
+later I WILL CALL"*), a zine offered for mailing, and a call placed on
+June 23 that Dan missed.
+
+Everything larger said about her — scene mentor, enforcer of the
+authenticity standard — is Dan's retrospective account of the teenage
+scene: testimony *about* her, not voice *from* her. The one behavioural
+pattern visible (she asks, postpones, and controls the timing) is a single
+evidence class, and a single class carries no letter under this instrument.
+
+
+*Method and full registry: [[wiki/mind/personality-profile-results|Personality Profile Results]] — the registry page states the instrument, every result, and every omission in one place. Run date: 2026-11-07.*
 
 ## References
 

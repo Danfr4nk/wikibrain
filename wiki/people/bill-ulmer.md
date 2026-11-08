@@ -8,7 +8,7 @@ status: closed
 relation_type: partner's-father
 knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-10-03
+date_modified: 2026-11-07
 date_range_start: 2017-04-22
 date_range_end: 2020-06-02
 infobox:
@@ -58,6 +58,34 @@ Two limits bound everything above. Direction in the export is marked "Received" 
 - [[wiki/people/ellen-ulmer|Ellen Ulmer]]
 - [[wiki/people/claire-ulmer|Claire Ulmer-Gates]]
 - [[wiki/timeline/events/fran-death-vigil|Fran death vigil]]
+
+## MBTI — stringent instrument run (2026-11-07)
+
+**Result: XXFJ — confidence: LOW. The E/I and S/N letters are OMITTED.**
+
+Evidence: the 58-message thread, April 2017 – June 2020, mostly Bill to Dan
+(direction labels in the export are unreliable — `kb/data/0251`). The count
+and its quoted passages are verified against the prior wiki only; the stated
+source export is not held in this repository. That provenance is why the
+whole row is LOW.
+
+- **E/I — OMITTED.** A mostly one-way greeting channel cannot show a
+  processing style; Bill initiates what exists, and there is almost nothing
+  else for the axis to read.
+- **S/N — OMITTED.** Golf logistics and greetings are concrete, but 58 short
+  messages in essentially one register are a single evidence class.
+- **F — called.** (1) Affection-explicit language sustained across years,
+  arriving at a family sign-off: *"Miss and love you both. Dad/Bill."*
+  (2) Care initiated, not just expressed: the unprompted, lengthy condolence
+  of April 4, 2018, composed days after Fran's death, from a forty-year
+  acquaintance.
+- **J — called.** (1) Ritual reliability: a "Happy Birthday" every November
+  without fail (2018, 2019). (2) Follow-through on practical commitments —
+  the late-2019 package-delivery coordination carried through building-entry
+  logistics to completion.
+
+
+*Method and full registry: [[wiki/mind/personality-profile-results|Personality Profile Results]] — the registry page states the instrument, every result, and every omission in one place. Run date: 2026-11-07.*
 
 ## References
 

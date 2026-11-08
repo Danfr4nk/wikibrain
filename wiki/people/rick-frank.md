@@ -5,7 +5,7 @@ title: "Richard Harrison \"Rick\" Frank"
 aliases: ["Rick", "Frank Sr."]
 status: stable
 date_created: 2026-06-23
-date_modified: 2026-09-25
+date_modified: 2026-11-07
 infobox:
   name: Rick Frank
   status: "Ongoing, warm-but-strained — currently one-sided (silence since Feb 2025)"
@@ -550,6 +550,39 @@ claim that he never will** — the record simply ends there, and a future
 pass should re-pull both sources before restating this finding.
 
 
+
+## MBTI — stringent instrument run (2026-11-07)
+
+**Result: ESFP — confidence: LOW–MODERATE.**
+
+- **E — called.** (1) Initiation volume: 1,600+ messages across 2015–2025,
+  roughly balanced in the high years, with Rick repeatedly the re-opener —
+  after the 2025–26 silence it is Rick who asks *"Can you do dinner
+  Tuesday?"* (`kb/data/1024`). (2) An expressive sharing style: photos,
+  videos, memes and invitations sent unprompted are the medium of contact.
+- **S — called.** (1) The register is anchored in the concrete and local
+  across a decade — Steelers, golf, cars, place-names, "yinz". (2) Even his
+  intellectual offerings arrive as concrete media objects (a 25-hour history
+  podcast, a multi-part Julius Caesar documentary) rather than abstract
+  discussion, and his political remarks are event-anchored (*"How do you NYC
+  neighbors feel about the Daniel Penny trial?"*).
+- **F — called.** (1) Grievance framed relationally, in feeling terms:
+  *"I don't feel that u respect or value my opinion… I would rather u let me
+  be father than protector."* (2) Support delivered as presence and offer,
+  not analysis — *"Thinking about u. Hang in there"*, *"U can come over
+  anytime u want"* — through the Fran death vigil.
+- **P — called.** (1) The "peak Rick" Denver yank (January 11, 2016): a big
+  offer floated and withdrawn inside a single exchange. (2) A year of dinner
+  intentions (2025–26) that never consolidate into a kept plan, inside a
+  high-frequency stream-of-shares style. Counter-note: he proposes plans
+  constantly — counted here as initiation (E), not as plan-keeping.
+
+**Provenance caveat:** the 2015–2025 bulk rests on the unheld full dump; an
+independent 2018 Messages.app PDF export corroborates December 2015 – April
+2018 verbatim, and the held corpus slice is thin (17 rows, `kb/data/1024`).
+
+
+*Method and full registry: [[wiki/mind/personality-profile-results|Personality Profile Results]] — the registry page states the instrument, every result, and every omission in one place. Run date: 2026-11-07.*
 
 ## Sources
 

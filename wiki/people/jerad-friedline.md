@@ -5,7 +5,7 @@ title: "Jerad Friedline"
 aliases: ["Jerad", "Jerad Friendline"]
 status: stable
 date_created: 2026-06-23
-date_modified: 2026-09-17
+date_modified: 2026-11-07
 sources:
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -417,6 +417,36 @@ key, so standard YAML parsers dropped its `context-core` membership while the
 repo's own permissive reader kept both — caught during the
 [[wiki/work/fastly-fsly]] sweep of 2026-08-18. The merged single key is
 preserved in this rewrite.
+
+## MBTI — stringent instrument run (2026-11-07)
+
+**Result: INTX — confidence: LOW. The J/P letter is OMITTED.**
+
+- **I — called.** (1) Contact shape across 2020–2026: long gaps, sudden
+  bursts, no upkeep messaging — "instant availability on news" is the
+  friendship's documented signature. (2) Low personal disclosure relative to
+  topic volume: politics and markets dominate his side of the thread; the
+  one personal line recovered (July 18, 2024) is truncated mid-sentence.
+- **N — called.** (1) Thesis-first reasoning: the FSLY tip is a
+  future-framing — *"future of web hosting and edge CDN"* — with a 2–3 year
+  horizon, verified in the held corpus. (2) Political movement tracked as
+  movement between large narratives (Bernie enthusiasm, dirtbag-left media,
+  a reluctant Trump fascination Dan does not share).
+- **T — called.** (1) Imperative, outcome-form advice: *"Buy FSLY and do
+  not touch for 2-3 years"* — a decision handed down as instruction.
+  (2) Disagreement without relational cost: the 2021–2024 political
+  divergence changes nothing in the contact pattern; positions and the
+  relationship are kept in separate accounts.
+- **J/P — OMITTED, conflicted.** The closed, decisive instruction style
+  leans J; the event-reactive, gap-tolerant engagement leans P; neither
+  reaches two classes.
+
+*Counts note: this run uses the held-corpus figures — 2,161 rows, 1,280
+from Dan and 881 from Jerad (`kb/data/0585`) — not the page's superseded
+857-count or its 33:1 asymmetry claim, which were dump-export artefacts.*
+
+
+*Method and full registry: [[wiki/mind/personality-profile-results|Personality Profile Results]] — the registry page states the instrument, every result, and every omission in one place. Run date: 2026-11-07.*
 
 ## Sources
 
